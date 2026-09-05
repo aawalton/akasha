@@ -1,0 +1,2027 @@
+runsChecks: false
+runsWarrants: false
+diff --git a/temper/temper-catalog/temper-companions/companion-jewelry-slots/temper-companion-jewelry-slot.page-type.ts b/temper/temper-catalog/temper-companions/companion-jewelry-slots/temper-companion-jewelry-slot.page-type.ts
+index 15c89751c3f473532e13dab001345a030a948281..c2790cc127ce25290a242e1e2d967f2ff12b9317 100644
+--- a/temper/temper-catalog/temper-companions/companion-jewelry-slots/temper-companion-jewelry-slot.page-type.ts
++++ b/temper/temper-catalog/temper-companions/companion-jewelry-slots/temper-companion-jewelry-slot.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { SlotCategory } from "../temper-companion-things/properties/slot-category.text-property.ts"
+ import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.ts"
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-passive-metrics/temper-companion-passive-metric.page-type.ts b/temper/temper-catalog/temper-companions/companion-passive-metrics/temper-companion-passive-metric.page-type.ts
+index 2524e842638ad72853299fb4e8578b2256dd1451..a7daa6d44212dda29663aa571df9e9822d256756 100644
+--- a/temper/temper-catalog/temper-companions/companion-passive-metrics/temper-companion-passive-metric.page-type.ts
++++ b/temper/temper-catalog/temper-companions/companion-passive-metrics/temper-companion-passive-metric.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.ts"
+ 
+ export type TemperCompanionPassiveMetric = TemperCompanionThing
+diff --git a/temper/temper-catalog/temper-companions/companion-roles/temper-companion-role.page-type.ts b/temper/temper-catalog/temper-companions/companion-roles/temper-companion-role.page-type.ts
+index 902e18b4831059199df0388ec80926d562da8fae..7dc60660c51888182bb25bff3393fad352837038 100644
+--- a/temper/temper-catalog/temper-companions/companion-roles/temper-companion-role.page-type.ts
++++ b/temper/temper-catalog/temper-companions/companion-roles/temper-companion-role.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.ts"
+ 
+ export type TemperCompanionRole = TemperCompanionThing
+diff --git a/temper/temper-catalog/temper-companions/companion-skill-lines/temper-companion-skill-line.page-type.ts b/temper/temper-catalog/temper-companions/companion-skill-lines/temper-companion-skill-line.page-type.ts
+index c8876ea62913349639e8212d52e41192fc456771..7af70b4e1ee2415ce32b03727032e1c72bb3c84b 100644
+--- a/temper/temper-catalog/temper-companions/companion-skill-lines/temper-companion-skill-line.page-type.ts
++++ b/temper/temper-catalog/temper-companions/companion-skill-lines/temper-companion-skill-line.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.ts"
+ 
+ export type TemperCompanionSkillLine = TemperCompanionThing
+diff --git a/temper/temper-catalog/temper-companions/companion-skill-slots/temper-companion-skill-slot.page-type.ts b/temper/temper-catalog/temper-companions/companion-skill-slots/temper-companion-skill-slot.page-type.ts
+index 2802fa2655842e58f80d9045d9eec455c8fab6c1..5064f9b85ad4f8c78799d739e53005cc87baa257 100644
+--- a/temper/temper-catalog/temper-companions/companion-skill-slots/temper-companion-skill-slot.page-type.ts
++++ b/temper/temper-catalog/temper-companions/companion-skill-slots/temper-companion-skill-slot.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.ts"
+ 
+ export type TemperCompanionSkillSlot = TemperCompanionThing
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/augment-delay.boolean-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/augment-delay.boolean-property.ts
+index 531963e464c194ffd5c7992601e4bd9d8b63ef99..f914a51d934fe7788c238ce5f5a5c4d97b48ebfd 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/augment-delay.boolean-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/augment-delay.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type AugmentDelay = boolean
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/buff-name.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/buff-name.text-property.ts
+index 5568e73f5e863c563190d768c84e5c7dd9a67d27..44efd9ae949c56c73296de8bb9b8e8f746a55317 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/buff-name.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/buff-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type BuffName = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/cast-condition-type.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/cast-condition-type.text-property.ts
+index bfc09fdb7847612886e15fb8571198f02486a000..a8222ab87061bf294c625c2a2d274eaccd409700 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/cast-condition-type.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/cast-condition-type.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CastConditionType = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/cast-conditions.page-property-entry.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/cast-conditions.page-property-entry.ts
+index 1eb65440254915af5f39c009d90dfe576be7f40f..7055e33bd267d8aeea54f58927fa7c1a96c78608 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/cast-conditions.page-property-entry.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/cast-conditions.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type CastConditions = "jsonl"
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/coefficient-type.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/coefficient-type.text-property.ts
+index 8139fd82cd9319fab54842752e6cdcfc11d9fd77..ccce0920b3412b8d4d8040ec0d667debd54af448 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/coefficient-type.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/coefficient-type.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CoefficientType = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/condition-kind.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/condition-kind.text-property.ts
+index fed4adfdcc403b95583a956cf455250e9d480456..815ff489eab828f49c222cd07d7019302a54a454 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/condition-kind.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/condition-kind.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ConditionKind = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/condition-weapon-type.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/condition-weapon-type.text-property.ts
+index 20682fa7da7c31f15affb79bf314a51b8111579b..e249c74cb167d0316a6e15fa5122c3ec641c0e60 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/condition-weapon-type.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/condition-weapon-type.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ConditionWeaponType = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/conditional-multiplier.number-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/conditional-multiplier.number-property.ts
+index 91bdede652f731cfea49731f06fec639fb209367..34f9595d4849ee8081baf21035299904968a92a6 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/conditional-multiplier.number-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/conditional-multiplier.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type ConditionalMultiplier = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/cooldown-scope.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/cooldown-scope.text-property.ts
+index e9f752a494bdc7d1d78190aa0a1b431efe72a47d..fc34d1837eaf1c367c4827de8e7b9387fef82312 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/cooldown-scope.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/cooldown-scope.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CooldownScope = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/debuff-name.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/debuff-name.text-property.ts
+index 4b13ed85c94445dcf5795f34c6a947e675e0c4b7..2a6da30ef65a40cca6082bca7cdee248b1e0e953 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/debuff-name.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/debuff-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type DebuffName = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/delay.number-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/delay.number-property.ts
+index 5f2eeac7b8431539b364c5e199849edc0e916370..5c51e3104a7f820915af456c2c2fefb6f08b52fb 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/delay.number-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/delay.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type Delay = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/display-mode.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/display-mode.text-property.ts
+index cf04448f31faa0b93b3fbc79990f780185ea1fde..95fb55028278d463338179dfbec4f7bb70553193 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/display-mode.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/display-mode.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type DisplayMode = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/duration-offset.number-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/duration-offset.number-property.ts
+index af4ae1fee829d6df2eba2368c1c35777e355cc55..cf9f6cc3e4dad59eec59cfebefe2aa00905c7850 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/duration-offset.number-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/duration-offset.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type DurationOffset = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/duration.number-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/duration.number-property.ts
+index 8efde7c053d132bffc82d1f76a4330543754d268..378730ec04b90a5ccca439952e977fe1a65400a6 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/duration.number-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/duration.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type Duration = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/effect-amount.number-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/effect-amount.number-property.ts
+index a657cdf7638233177656f84b0941d8949b3eaf44..8f86110a24c17253719b532fca08d4086f739601 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/effect-amount.number-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/effect-amount.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EffectAmount = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/effect-buff.record-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/effect-buff.record-property.ts
+index b3441cc16436384cece2e876b3f15f154978ef53..8d25d6789401634673d80513bd3fb794f149975f 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/effect-buff.record-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/effect-buff.record-property.ts
+@@ -1,4 +1,4 @@
+-import type { RecordProperty } from "@akasha/pages-system/record-property"
++import type { RecordProperty } from "@akasha/pages/record-property"
+ import type { EffectValue } from "../../../temper-catalog-things/properties/effect-value.number-property.ts"
+ import type { ValueType } from "../../../temper-catalog-things/properties/value-type.text-property.ts"
+ import type { BuffName } from "./buff-name.text-property.ts"
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/effect-conditions.record-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/effect-conditions.record-property.ts
+index 0a2ef596e38e55077a5363713b166d25583e84c7..9b0de63849dac9c8290fbb160efa7d16937ed53b 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/effect-conditions.record-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/effect-conditions.record-property.ts
+@@ -1,4 +1,4 @@
+-import type { RecordProperty } from "@akasha/pages-system/record-property"
++import type { RecordProperty } from "@akasha/pages/record-property"
+ import type { ConditionKind } from "./condition-kind.text-property.ts"
+ import type { ConditionWeaponType } from "./condition-weapon-type.text-property.ts"
+ import type { EnemyTypes } from "./enemy-types.text-property.ts"
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/effect-count.number-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/effect-count.number-property.ts
+index 6d637e61d17b974c6269d5f641f0d2eca0fef402..5c5e32619a9bd4fd1ec79fa296e37e3004a9eb26 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/effect-count.number-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/effect-count.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EffectCount = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/effect-debuff.record-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/effect-debuff.record-property.ts
+index 7e14c7df7c96174dd941ea1d33cd02e3be143a02..eca6db7899bda0fa936983a686a6c1c70d48515a 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/effect-debuff.record-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/effect-debuff.record-property.ts
+@@ -1,4 +1,4 @@
+-import type { RecordProperty } from "@akasha/pages-system/record-property"
++import type { RecordProperty } from "@akasha/pages/record-property"
+ import type { EffectValue } from "../../../temper-catalog-things/properties/effect-value.number-property.ts"
+ import type { ValueType } from "../../../temper-catalog-things/properties/value-type.text-property.ts"
+ import type { DebuffName } from "./debuff-name.text-property.ts"
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/effect-formula.record-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/effect-formula.record-property.ts
+index f98ad8a608d80d37c6a23fd7ff49c815578c866d..eaa44db305dd7f675750a8008df57ff4ddce16ef 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/effect-formula.record-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/effect-formula.record-property.ts
+@@ -1,4 +1,4 @@
+-import type { RecordProperty } from "@akasha/pages-system/record-property"
++import type { RecordProperty } from "@akasha/pages/record-property"
+ import type { Coefficient } from "../../../../temper-character/character-skill-activations/properties/coefficient.number-property.ts"
+ import type { MetricId } from "../../../temper-catalog-things/properties/metric-id.text-property.ts"
+ import type { CoefficientType } from "./coefficient-type.text-property.ts"
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/effect-status.record-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/effect-status.record-property.ts
+index 25b10df81fc9288eecbb07cc7292f1803ea5be26..5686311aeb3a87a6265ab3de888949a5f38048cd 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/effect-status.record-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/effect-status.record-property.ts
+@@ -1,4 +1,4 @@
+-import type { RecordProperty } from "@akasha/pages-system/record-property"
++import type { RecordProperty } from "@akasha/pages/record-property"
+ import type { Duration } from "./duration.number-property.ts"
+ import type { StatusDistance } from "./status-distance.number-property.ts"
+ import type { StatusMagnitude } from "./status-magnitude.number-property.ts"
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/effect-target.record-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/effect-target.record-property.ts
+index 301c6def37eaa47fcac45231109baa65bc416bf7..23925cee35bb448792a63cc8a7c48721d81fa2b0 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/effect-target.record-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/effect-target.record-property.ts
+@@ -1,4 +1,4 @@
+-import type { RecordProperty } from "@akasha/pages-system/record-property"
++import type { RecordProperty } from "@akasha/pages/record-property"
+ import type { MaxTargets } from "./max-targets.number-property.ts"
+ import type { TargetKind } from "./target-kind.text-property.ts"
+ import type { TargetRadius } from "./target-radius.number-property.ts"
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/enemy-types.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/enemy-types.text-property.ts
+index 1d814bdde375a08d098e3188412378e38581ad83..69ced1b8e53fcb30b1bb5cf8b49dc2388287d145 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/enemy-types.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/enemy-types.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type EnemyTypes = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/formula-kind.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/formula-kind.text-property.ts
+index e00f4fb29ced12d16d0e5fb6fef05ee21dcddee1..f8ea21f9a3195cc005c6fb15226af764be3609e3 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/formula-kind.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/formula-kind.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type FormulaKind = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/formula-percent.number-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/formula-percent.number-property.ts
+index 615c6483c951f44c5f05b001298232058f52550a..b1a998c4ccf2d747e09058d0d83fcb0258403cc8 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/formula-percent.number-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/formula-percent.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type FormulaPercent = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/hd-application.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/hd-application.text-property.ts
+index 05c13a6b667f8b5ede6c89400d48756af76d9236..760fae65d164beb62c2c695dd0a627dca50dd2f5 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/hd-application.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/hd-application.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type HdApplication = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/heal-count.number-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/heal-count.number-property.ts
+index fb5d7705f56d600b2f3e4807f1a7287da66098ef..3e0ff25cb83c359e73f400d0354ffa6a509a1781 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/heal-count.number-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/heal-count.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type HealCount = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/health-below.number-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/health-below.number-property.ts
+index bb32773f1e26cae180ca00b1e503a331924e6221..ae576df892340a53384b195a1ec6c8752e89f9fd 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/health-below.number-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/health-below.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type HealthBelow = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/hit-count.number-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/hit-count.number-property.ts
+index a3ca7db91d40cb8bc10a8a789e2b11147203426a..f071a0c85faab1137693fb6bc2b81bbbea163658 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/hit-count.number-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/hit-count.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type HitCount = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/initial-tick.boolean-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/initial-tick.boolean-property.ts
+index 8a90f4af43b253bf3eb8ab3ba7ec277e360d39ed..62ac829142a7b21b342945a1001f8d3f896d7272 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/initial-tick.boolean-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/initial-tick.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type InitialTick = boolean
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/interval.number-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/interval.number-property.ts
+index 276e886a08287757b6f04d14327d5b85d1e1b7eb..7dc454279a8bf09891b5241e0983732de7f113e2 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/interval.number-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/interval.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type Interval = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/is-casting.boolean-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/is-casting.boolean-property.ts
+index a6e4eaea98fdffd586ee8ef028a8187bf6c075f0..ab8a233593301394da92d62a4356bfeb7a820c10 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/is-casting.boolean-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/is-casting.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type IsCasting = boolean
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/is-movable.boolean-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/is-movable.boolean-property.ts
+index dc7465b2488214ea368686ce5e9d4bf92a95afa1..a8e45d844981a53307374801e3d39e777520ff61 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/is-movable.boolean-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/is-movable.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type IsMovable = boolean
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/max-distance.number-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/max-distance.number-property.ts
+index 384fcb5c798a7a1f2bd9ce7eadcc7d4f992d2a7f..49cce782ed54180b573c4036243832d8124da46d 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/max-distance.number-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/max-distance.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type MaxDistance = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/max-occurrences.number-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/max-occurrences.number-property.ts
+index fed64f4ea14666a58c81475cabf0d744c60cc213..4a08be8d8752a3573273511ce4be74132bb64913 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/max-occurrences.number-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/max-occurrences.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type MaxOccurrences = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/max-targets.number-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/max-targets.number-property.ts
+index c3720be5ce1f5dbb33ac2a0ae53ca1cab2bc9a64..bf0c8e932d020a79ef5cc8dba7c5ae4b62bee773 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/max-targets.number-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/max-targets.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type MaxTargets = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/min-distance.number-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/min-distance.number-property.ts
+index 078b91dc4f8bad37eb763abcd392ffa9e93dab2f..7654aae39778ce10368cb1494f0fff68202edf07 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/min-distance.number-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/min-distance.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type MinDistance = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/modifier-type.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/modifier-type.text-property.ts
+index 3a8c29fe59981538c4660baf763b4c9f6800aaf2..b3cb116fe9035cd7b0538ee94f63381d9f60dddd 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/modifier-type.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/modifier-type.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ModifierType = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/nested-effect.record-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/nested-effect.record-property.ts
+index a93e8a26a18eaf5c1021dd5b73366b3a550219e7..0b118e034b648cb04e3a719c38a1f73a76f3676b 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/nested-effect.record-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/nested-effect.record-property.ts
+@@ -1,4 +1,4 @@
+-import type { RecordProperty } from "@akasha/pages-system/record-property"
++import type { RecordProperty } from "@akasha/pages/record-property"
+ import type { DamageType } from "../../../../temper-character/character-skill-activations/properties/damage-type.text-property.ts"
+ import type { Duration } from "./duration.number-property.ts"
+ import type { EffectConditions } from "./effect-conditions.record-property.ts"
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/resource.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/resource.text-property.ts
+index 12f30946bcc803022a49de6fd659455c4a216751..dd798539add70e285842cccf2a8a0566bb85fdb8 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/resource.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/resource.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Resource = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/skill-effect-type.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/skill-effect-type.text-property.ts
+index 967713531bed595d4d6eb088f234a2bb173d9af8..9370318ead9903e934d3955bd344f13b236928aa 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/skill-effect-type.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/skill-effect-type.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type SkillEffectType = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/skill-effects.page-property-entry.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/skill-effects.page-property-entry.ts
+index 70ddeeae76de038537f987c12ad30b3f3d806a15..1b66339cfef5773ec984916ddca5595406637f7b 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/skill-effects.page-property-entry.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/skill-effects.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type SkillEffects = "jsonl"
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/status-distance.number-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/status-distance.number-property.ts
+index 0f88b312a6aff4963c989e87421e90e66999ac82..b3b34bd8a2796197662f15c39236e172c1893ca4 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/status-distance.number-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/status-distance.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type StatusDistance = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/status-magnitude.number-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/status-magnitude.number-property.ts
+index 008f6a592d2a94295cee049e0702237fee43521e..62305f083ac1727b2ab189dbcf5029ca7fe9af81 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/status-magnitude.number-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/status-magnitude.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type StatusMagnitude = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/status-name.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/status-name.text-property.ts
+index 210929cd36fa069ca27fc8781ca0dc2da74d2d2f..9511e0f88815a8fe2b89ee46d9f9cde24f5141ea 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/status-name.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/status-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type StatusName = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/synergy-name.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/synergy-name.text-property.ts
+index 05140df003befcd14d5c6acae642db20fcf03c86..a54263a898ab896472883eafc8cfef92a1d322d6 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/synergy-name.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/synergy-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type SynergyName = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/target-kind.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/target-kind.text-property.ts
+index 72974bf93e1d9019521ab02747c5d4ed8243eb72..04edda1fad8ecefbea468eae7e0725beccd263d2 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/target-kind.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/target-kind.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type TargetKind = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/target-radius.number-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/target-radius.number-property.ts
+index 92a3c1a44d21cdbc1eadea3845564cb699c1ef59..e352f1130b89bda59245fa34e3e5b0cbf66f84e6 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/target-radius.number-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/target-radius.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type TargetRadius = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/target-range.number-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/target-range.number-property.ts
+index 4a4b0e91ff358b214ee3a26b3e485d8caaa8bc30..1fa9c66da33d8e15e3c21825b1cd7ae3b0b0a4cd 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/target-range.number-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/target-range.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type TargetRange = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/target-scope.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/target-scope.text-property.ts
+index 3cb99b5d0cd7ee9ab233af419ab40b010a60d5fe..828317c7215618bf020ea8f694d0ec3c3fb969b2 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/target-scope.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/target-scope.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type TargetScope = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/target-type.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/target-type.text-property.ts
+index c552694f2a337b8f429b06bbca7715728dc5efb3..c7e32c1adf7a24aaa27408be56071d4ba3772967 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/target-type.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/target-type.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type TargetType = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/tick-interval.number-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/tick-interval.number-property.ts
+index a0eb1bd736f6712f3b61c5b69e268d2553be77a3..77aacee111eb231e8b28a2c523ec8d4e065e3eb1 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/tick-interval.number-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/tick-interval.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type TickInterval = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/trigger.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/trigger.text-property.ts
+index bcea5c4ba2a2cf6363db1c66340a20f942c4667e..4ff2e458ea3d7bc92413e94646ff84680c1a712d 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/trigger.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/trigger.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Trigger = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/temper-companion-skill.page-type.ts b/temper/temper-catalog/temper-companions/companion-skills/temper-companion-skill.page-type.ts
+index 6a09795c62d57310b2846cbf1bd787317525f019..bcd7646066808cb2950205814f37ae8b660b6286 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/temper-companion-skill.page-type.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/temper-companion-skill.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { AbilityId } from "../temper-companion-things/properties/ability-id.number-property.ts"
+ import type { AlternateAbilityIds } from "../temper-companion-things/properties/alternate-ability-ids.number-property.ts"
+ import type { Tags } from "../temper-companion-things/properties/tags.text-property.ts"
+diff --git a/temper/temper-catalog/temper-companions/companion-traits/temper-companion-trait.page-type.ts b/temper/temper-catalog/temper-companions/companion-traits/temper-companion-trait.page-type.ts
+index f04370e3fa80eee487887daf0bf8b3795c1efb74..d05319f9789659659e564eb74146c06255f9b52c 100644
+--- a/temper/temper-catalog/temper-companions/companion-traits/temper-companion-trait.page-type.ts
++++ b/temper/temper-catalog/temper-companions/companion-traits/temper-companion-trait.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { EffectType } from "../../temper-catalog-things/properties/effect-type.text-property.ts"
+ import type { MetricId } from "../../temper-catalog-things/properties/metric-id.text-property.ts"
+ import type { IsReduction } from "../temper-companion-things/properties/is-reduction.boolean-property.ts"
+diff --git a/temper/temper-catalog/temper-companions/companion-weapon-roles/temper-companion-weapon-role.page-type.ts b/temper/temper-catalog/temper-companions/companion-weapon-roles/temper-companion-weapon-role.page-type.ts
+index 61ca7849c9254aaa7f275146e2e053c65794bd83..cd6f9d10f79b0488cc81ac646449c6a19a88c4ba 100644
+--- a/temper/temper-catalog/temper-companions/companion-weapon-roles/temper-companion-weapon-role.page-type.ts
++++ b/temper/temper-catalog/temper-companions/companion-weapon-roles/temper-companion-weapon-role.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { ValidMainHandWeaponTypes } from "../temper-companion-things/properties/valid-main-hand-weapon-types.text-property.ts"
+ import type { ValidOffHandWeaponTypes } from "../temper-companion-things/properties/valid-off-hand-weapon-types.text-property.ts"
+ import type { WeaponSkillLineId } from "../temper-companion-things/properties/weapon-skill-line-id.text-property.ts"
+diff --git a/temper/temper-catalog/temper-companions/companion-weapon-slots/temper-companion-weapon-slot.page-type.ts b/temper/temper-catalog/temper-companions/companion-weapon-slots/temper-companion-weapon-slot.page-type.ts
+index 765f85c765d88900b0da801cd21c4ba7005d9dc8..767c2964b4c241a02457081ed80d3ccc8c364303 100644
+--- a/temper/temper-catalog/temper-companions/companion-weapon-slots/temper-companion-weapon-slot.page-type.ts
++++ b/temper/temper-catalog/temper-companions/companion-weapon-slots/temper-companion-weapon-slot.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.ts"
+ 
+ export type TemperCompanionWeaponSlot = TemperCompanionThing
+diff --git a/temper/temper-catalog/temper-companions/companion-weapon-types/temper-companion-weapon-type.page-type.ts b/temper/temper-catalog/temper-companions/companion-weapon-types/temper-companion-weapon-type.page-type.ts
+index 7634f4259981a3ef761ab55bc97a56b1ea65117d..95e78f2d56e119a17871f1ddac5c18e550d4fe64 100644
+--- a/temper/temper-catalog/temper-companions/companion-weapon-types/temper-companion-weapon-type.page-type.ts
++++ b/temper/temper-catalog/temper-companions/companion-weapon-types/temper-companion-weapon-type.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { IsOffHandOnly } from "../temper-companion-things/properties/is-off-hand-only.boolean-property.ts"
+ import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.ts"
+ 
+diff --git a/temper/temper-catalog/temper-companions/eso-companion-equipment-constants/temper-eso-companion-equipment-constant.page-type.ts b/temper/temper-catalog/temper-companions/eso-companion-equipment-constants/temper-eso-companion-equipment-constant.page-type.ts
+index 36b1dceb369b3201ff09ab437c9c1797accad822..54e8d7097305fd8288a5da3d57190c0f00c29e18 100644
+--- a/temper/temper-catalog/temper-companions/eso-companion-equipment-constants/temper-eso-companion-equipment-constant.page-type.ts
++++ b/temper/temper-catalog/temper-companions/eso-companion-equipment-constants/temper-eso-companion-equipment-constant.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { ConstantKind } from "../temper-companion-things/properties/constant-kind.text-property.ts"
+ import type { KeyText } from "../temper-companion-things/properties/key-text.text-property.ts"
+ import type { ValueNum } from "../temper-companion-things/properties/value-num.number-property.ts"
+diff --git a/temper/temper-catalog/temper-companions/eso-companions/temper-eso-companion.page-type.ts b/temper/temper-catalog/temper-companions/eso-companions/temper-eso-companion.page-type.ts
+index 61c4e8ad623f0d51bf3f82c87544d594a2bcdc28..c2c9308a42f203d2b16aa262f38db18a3614d749 100644
+--- a/temper/temper-catalog/temper-companions/eso-companions/temper-eso-companion.page-type.ts
++++ b/temper/temper-catalog/temper-companions/eso-companions/temper-eso-companion.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Alliance } from "../temper-companion-things/properties/alliance.text-property.ts"
+ import type { ClassPassiveId } from "../temper-companion-things/properties/class-passive-id.text-property.ts"
+ import type { EsoCompanionId } from "../temper-companion-things/properties/eso-companion-id.number-property.ts"
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/abbreviation.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/abbreviation.text-property.ts
+index 639da7c036075cd24f4aa3c04823c21c7ab2bdb5..37efad44be15c32923048cd66cbe9b56108c0699 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/abbreviation.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/abbreviation.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Abbreviation = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/ability-id.number-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/ability-id.number-property.ts
+index f5702349c3c5604a73ee8d9d4d0e9de13e36fe77..6cd0eee0469cce8cc27dbbefa429b7a1b16aaa5c 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/ability-id.number-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/ability-id.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type AbilityId = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/alliance.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/alliance.text-property.ts
+index 76ce20e38c98de58411a25013a5693030d26d801..8294911f4dc3ee87de413135e2323be5ea6b4cd0 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/alliance.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/alliance.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Alliance = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/alternate-ability-ids.number-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/alternate-ability-ids.number-property.ts
+index 56f6d53c21bbd91879ffb05a2b42e7f02365a412..a54a2611f2a55ff6b2d52b75e2a4afc5be69993f 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/alternate-ability-ids.number-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/alternate-ability-ids.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type AlternateAbilityIds = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/class-passive-id.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/class-passive-id.text-property.ts
+index 8ea441b1adda1b3a4a4829e8344bf697e993cce0..91b2b4e2ac58078bb282ba4e3337a253860adefe 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/class-passive-id.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/class-passive-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ClassPassiveId = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/constant-kind.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/constant-kind.text-property.ts
+index 5257929f85329e2855b65c69a659c17697f6c34e..8e5831d9bcca331d895a44e01133f212d73b9e59 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/constant-kind.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/constant-kind.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ConstantKind = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/equip-type.number-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/equip-type.number-property.ts
+index 8978189f2a8c498232f20bed150e49286bdee7ae..d2ac73e6feac79a32e053c6cb192c46fc9d25e0a 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/equip-type.number-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/equip-type.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EquipType = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/eso-companion-id.number-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/eso-companion-id.number-property.ts
+index 51ddd1e76edddaaf777e9ae0b51cfd5c925bfed0..d5b7aa970cbfb4da7669c96d233ab4dd822ecaa9 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/eso-companion-id.number-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/eso-companion-id.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EsoCompanionId = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/is-off-hand-only.boolean-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/is-off-hand-only.boolean-property.ts
+index 6a0e46dd6ef6fbc8085e581d4f91912f022cba6e..a1aaf8d5f7a770c13b3941cbd48a36b6d71b65ed 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/is-off-hand-only.boolean-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/is-off-hand-only.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type IsOffHandOnly = boolean
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/is-reduction.boolean-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/is-reduction.boolean-property.ts
+index 478a7e5be0e3a65b3292a06d03a70414f0aa18db..fc9f5c4b8b46680c0d382d5494fa38035057d74c 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/is-reduction.boolean-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/is-reduction.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type IsReduction = boolean
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/key-text.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/key-text.text-property.ts
+index b5488fb41fe72c228364d8eaa2e41c9b99504fb5..e745b75cd1578863d21ff9f5c73e97470a0ae805 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/key-text.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/key-text.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type KeyText = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/passive-effects.page-property-entry.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/passive-effects.page-property-entry.ts
+index 0e623ce9e05e47b8168b92ab8463b5da97a34e7f..9b59ed77163a0954584e2208e5076ce9c37728f3 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/passive-effects.page-property-entry.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/passive-effects.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type PassiveEffects = "jsonl"
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/slot-category.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/slot-category.text-property.ts
+index 5f3e90e512006a1ef65e7d7af83c3414f46a99cc..82495c5988139821381ead4d5ff3c1935b6000bc 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/slot-category.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/slot-category.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type SlotCategory = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/subtitle.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/subtitle.text-property.ts
+index f4a72c70f1ecaa01bad5d617facc435c7e334bbf..9c1828fabcae3f395f0fc9fd41881f2647b4031b 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/subtitle.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/subtitle.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Subtitle = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/tags.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/tags.text-property.ts
+index 9170d7891ceed073ac7978b79911dc9b383db714..11cabe19e710643d07a8bdf6e8f7a1ca22a060fd 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/tags.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/tags.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Tags = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-armor-weights.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-armor-weights.text-property.ts
+index c0aa7cbebaeadb04f95279435026ed7a43af0d64..c775c0623da59d828b5a42f6593b854ded0b36fb 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-armor-weights.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-armor-weights.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ValidArmorWeights = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-main-hand-weapon-types.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-main-hand-weapon-types.text-property.ts
+index 514368a091326bbd3b1e6ceb30fa21841a81873a..c74ba36ae5c4c9122c80042179d86c4536d8871d 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-main-hand-weapon-types.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-main-hand-weapon-types.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ValidMainHandWeaponTypes = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-off-hand-weapon-types.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-off-hand-weapon-types.text-property.ts
+index 92ee7550adab88a6286f5ed07a4a8ed83940f309..4b422c9b902d7169692db65e9d62b0f7bf09c713 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-off-hand-weapon-types.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-off-hand-weapon-types.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ValidOffHandWeaponTypes = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-roles.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-roles.text-property.ts
+index 73cf9e2bc641d259c9d22b548caf782c6a86a41e..1e3b259e65f70f6ccb1731baa2f489574fa5b0b0 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-roles.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-roles.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ValidRoles = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-trait-ids.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-trait-ids.text-property.ts
+index e9e25129e61afbe0da46cd0dd4cdba77a1f9e9a6..8e0369ea34f87f7d309ade7222b5b52ec2f795e3 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-trait-ids.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-trait-ids.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ValidTraitIds = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-weapon-role-ids.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-weapon-role-ids.text-property.ts
+index 2cb3fcad0bfe5426e80941313e478633a1261b45..9c936920c30efe3b0c96503f3b4af2d82a469595 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-weapon-role-ids.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-weapon-role-ids.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ValidWeaponRoleIds = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/value-num.number-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/value-num.number-property.ts
+index 59b899ce1471b857346d82bfd9a4c7ead060914a..f3a87973577cddd58a41c536f9b571adb86ce8f2 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/value-num.number-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/value-num.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type ValueNum = number
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/value-text.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/value-text.text-property.ts
+index 17b8354a617b0ed89ecae9330a8b42b4238f4632..c1ee5cffbcb0856260278799c9a2193f06eebabb 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/value-text.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/value-text.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ValueText = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/weapon-skill-line-id.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/weapon-skill-line-id.text-property.ts
+index db07badaff4493b3070f4313749066b249ec5e83..ced5e6233b0b798939e7395bdc0baf2a6a113869 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/weapon-skill-line-id.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/weapon-skill-line-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type WeaponSkillLineId = string
+ 
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/temper-companion-thing.page-type.ts b/temper/temper-catalog/temper-companions/temper-companion-things/temper-companion-thing.page-type.ts
+index f6e77a465aa73f43cd8461ec3e0077edc082394d..15f53e8e54e4b1f8da83a85b4a5dc2ee58d4ccbd 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/temper-companion-thing.page-type.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/temper-companion-thing.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ import type { EquipType } from "./properties/equip-type.number-property.ts"
+ 
+diff --git a/temper/temper-catalog/temper-effects/buff-majors/temper-buff-major.page-type.ts b/temper/temper-catalog/temper-effects/buff-majors/temper-buff-major.page-type.ts
+index a9f523ebf1ecf2c94e899e2ce2ca63a38d179b6d..9bb922ec98eacc19af3af3f226d847c80ef6dd5e 100644
+--- a/temper/temper-catalog/temper-effects/buff-majors/temper-buff-major.page-type.ts
++++ b/temper/temper-catalog/temper-effects/buff-majors/temper-buff-major.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ 
+ export type TemperBuffMajor = TemperCatalogThing
+diff --git a/temper/temper-catalog/temper-effects/buff-minors/temper-buff-minor.page-type.ts b/temper/temper-catalog/temper-effects/buff-minors/temper-buff-minor.page-type.ts
+index b637dd9fd1c3cc87d2994889c3bc0d136e76124d..c74ced619b7a1b5625f8433869184afd4b788f88 100644
+--- a/temper/temper-catalog/temper-effects/buff-minors/temper-buff-minor.page-type.ts
++++ b/temper/temper-catalog/temper-effects/buff-minors/temper-buff-minor.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ 
+ export type TemperBuffMinor = TemperCatalogThing
+diff --git a/temper/temper-catalog/temper-effects/buff-others/temper-buff-other.page-type.ts b/temper/temper-catalog/temper-effects/buff-others/temper-buff-other.page-type.ts
+index cd135840f8a4b27838edc2185d39e4095bcf555e..dbf40e0b004742379fdb91039ee89636c7fa0ab4 100644
+--- a/temper/temper-catalog/temper-effects/buff-others/temper-buff-other.page-type.ts
++++ b/temper/temper-catalog/temper-effects/buff-others/temper-buff-other.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ 
+ export type TemperBuffOther = TemperCatalogThing
+diff --git a/temper/temper-catalog/temper-effects/curses/temper-curse.page-type.ts b/temper/temper-catalog/temper-effects/curses/temper-curse.page-type.ts
+index c0afe808911ad694194d6db7fa30aa7836bb6dd8..bf4cf504ab2f18ceb8028fc27ae6c63fb71100b6 100644
+--- a/temper/temper-catalog/temper-effects/curses/temper-curse.page-type.ts
++++ b/temper/temper-catalog/temper-effects/curses/temper-curse.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ import type { EsoCurseIds } from "../properties/eso-curse-ids.number-property.ts"
+ 
+diff --git a/temper/temper-catalog/temper-effects/debuff-majors/temper-debuff-major.page-type.ts b/temper/temper-catalog/temper-effects/debuff-majors/temper-debuff-major.page-type.ts
+index f4d1e7319560e27a920f5ff7626dabdaa9ab05ec..fa7fce06a4b24fb296838b58b171e0c5f6ebca4e 100644
+--- a/temper/temper-catalog/temper-effects/debuff-majors/temper-debuff-major.page-type.ts
++++ b/temper/temper-catalog/temper-effects/debuff-majors/temper-debuff-major.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ 
+ export type TemperDebuffMajor = TemperCatalogThing
+diff --git a/temper/temper-catalog/temper-effects/debuff-minors/temper-debuff-minor.page-type.ts b/temper/temper-catalog/temper-effects/debuff-minors/temper-debuff-minor.page-type.ts
+index d7783cbc8c887f0501f657bf927b14ef745ec45d..cacd3743f06d3233dfd3230652e137e8f19fe66e 100644
+--- a/temper/temper-catalog/temper-effects/debuff-minors/temper-debuff-minor.page-type.ts
++++ b/temper/temper-catalog/temper-effects/debuff-minors/temper-debuff-minor.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ 
+ export type TemperDebuffMinor = TemperCatalogThing
+diff --git a/temper/temper-catalog/temper-effects/debuff-others/temper-debuff-other.page-type.ts b/temper/temper-catalog/temper-effects/debuff-others/temper-debuff-other.page-type.ts
+index 9626a46e615a7400af923576445e98f874b0ffc2..822910c4a406cc47e3eb784f3dfd8d50edf1e1a6 100644
+--- a/temper/temper-catalog/temper-effects/debuff-others/temper-debuff-other.page-type.ts
++++ b/temper/temper-catalog/temper-effects/debuff-others/temper-debuff-other.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ 
+ export type TemperDebuffOther = TemperCatalogThing
+diff --git a/temper/temper-catalog/temper-effects/properties/armor.number-property.ts b/temper/temper-catalog/temper-effects/properties/armor.number-property.ts
+index 4ef4a3e7176456c1951eae22fdac611fe215a953..3cb7f36240593895d482af9158dd6f6eb05d6950 100644
+--- a/temper/temper-catalog/temper-effects/properties/armor.number-property.ts
++++ b/temper/temper-catalog/temper-effects/properties/armor.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type Armor = number
+ 
+diff --git a/temper/temper-catalog/temper-effects/properties/eso-curse-ids.number-property.ts b/temper/temper-catalog/temper-effects/properties/eso-curse-ids.number-property.ts
+index 0605686c6a077e76293c369827cb596cc6713ef0..6242d1ea1563b91da51980c19a7ccdda125e0c0d 100644
+--- a/temper/temper-catalog/temper-effects/properties/eso-curse-ids.number-property.ts
++++ b/temper/temper-catalog/temper-effects/properties/eso-curse-ids.number-property.ts
+@@ -1,5 +1,5 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
+-import type { List } from "@akasha/pages-system/page-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
++import type { List } from "@akasha/pages/page-property"
+ 
+ export type EsoCurseId = number
+ export type EsoCurseIds = List<EsoCurseId>
+diff --git a/temper/temper-catalog/temper-effects/properties/eso-vampire-stage-id.number-property.ts b/temper/temper-catalog/temper-effects/properties/eso-vampire-stage-id.number-property.ts
+index 97256ebbaf416290b0baa16bb584f9793514f84f..3ab1a1cd4f85e2af6dc13874996e699624b690d2 100644
+--- a/temper/temper-catalog/temper-effects/properties/eso-vampire-stage-id.number-property.ts
++++ b/temper/temper-catalog/temper-effects/properties/eso-vampire-stage-id.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EsoVampireStageId = number
+ 
+diff --git a/temper/temper-catalog/temper-effects/special-effect-types/temper-special-effect-type.page-type.ts b/temper/temper-catalog/temper-effects/special-effect-types/temper-special-effect-type.page-type.ts
+index 554363b61e9b09b19208e2a072f881bea77b17f5..c6da64a804640fadcbd6ee27b2f5261958d2ea8f 100644
+--- a/temper/temper-catalog/temper-effects/special-effect-types/temper-special-effect-type.page-type.ts
++++ b/temper/temper-catalog/temper-effects/special-effect-types/temper-special-effect-type.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ 
+ export type TemperSpecialEffectType = TemperCatalogThing
+diff --git a/temper/temper-catalog/temper-effects/status-effect-types/temper-status-effect-type.page-type.ts b/temper/temper-catalog/temper-effects/status-effect-types/temper-status-effect-type.page-type.ts
+index 6d03aafe16854632b4ea4e10f655c61b41b0a575..46f0322c1c76e00aedba8a2540932fc0dba7d519 100644
+--- a/temper/temper-catalog/temper-effects/status-effect-types/temper-status-effect-type.page-type.ts
++++ b/temper/temper-catalog/temper-effects/status-effect-types/temper-status-effect-type.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ 
+ export type TemperStatusEffectType = TemperCatalogThing
+diff --git a/temper/temper-catalog/temper-effects/target-armors/temper-target-armor.page-type.ts b/temper/temper-catalog/temper-effects/target-armors/temper-target-armor.page-type.ts
+index 43f67b1f642dacd9552fe21eeef62f3757a5f333..45441f5caf003752e7dfcecd75f9780ca28c8e69 100644
+--- a/temper/temper-catalog/temper-effects/target-armors/temper-target-armor.page-type.ts
++++ b/temper/temper-catalog/temper-effects/target-armors/temper-target-armor.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ import type { Armor } from "../properties/armor.number-property.ts"
+ 
+diff --git a/temper/temper-catalog/temper-effects/target-scopes/temper-target-scope.page-type.ts b/temper/temper-catalog/temper-effects/target-scopes/temper-target-scope.page-type.ts
+index eb69521e3da34019f6dac47cda962e5c29e5d114..9da64644e797ff76203594887576613e99871daf 100644
+--- a/temper/temper-catalog/temper-effects/target-scopes/temper-target-scope.page-type.ts
++++ b/temper/temper-catalog/temper-effects/target-scopes/temper-target-scope.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ 
+ export type TemperTargetScope = TemperCatalogThing
+diff --git a/temper/temper-catalog/temper-effects/target-types/temper-target-type.page-type.ts b/temper/temper-catalog/temper-effects/target-types/temper-target-type.page-type.ts
+index c65761a3881af63e1c6346d9b4f148a4dbe8000a..4cfd5610d6882b38116b9f76168cf835468e6eee 100644
+--- a/temper/temper-catalog/temper-effects/target-types/temper-target-type.page-type.ts
++++ b/temper/temper-catalog/temper-effects/target-types/temper-target-type.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ 
+ export type TemperTargetType = TemperCatalogThing
+diff --git a/temper/temper-catalog/temper-effects/vampire-stages/temper-vampire-stage.page-type.ts b/temper/temper-catalog/temper-effects/vampire-stages/temper-vampire-stage.page-type.ts
+index 71a831a4422854a820282963a3b0ce4f5db8e773..3ec48b000842c7c2334f771a332a7c5b7023711c 100644
+--- a/temper/temper-catalog/temper-effects/vampire-stages/temper-vampire-stage.page-type.ts
++++ b/temper/temper-catalog/temper-effects/vampire-stages/temper-vampire-stage.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ import type { EsoVampireStageId } from "../properties/eso-vampire-stage-id.number-property.ts"
+ 
+diff --git a/temper/temper-catalog/temper-gear/armor-enchants/temper-armor-enchant.page-type.ts b/temper/temper-catalog/temper-gear/armor-enchants/temper-armor-enchant.page-type.ts
+index bc5c5b9dea0250eae691cff519926fcd6b632735..f8214c1d0da631be7fe343fddd70061a7e37df13 100644
+--- a/temper/temper-catalog/temper-gear/armor-enchants/temper-armor-enchant.page-type.ts
++++ b/temper/temper-catalog/temper-gear/armor-enchants/temper-armor-enchant.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperGearThing } from "../temper-gear-things/temper-gear-thing.page-type.ts"
+ 
+ export type TemperArmorEnchant = TemperGearThing
+diff --git a/temper/temper-catalog/temper-gear/armor-slots/temper-armor-slot.page-type.ts b/temper/temper-catalog/temper-gear/armor-slots/temper-armor-slot.page-type.ts
+index 7ef98ede892dc9d5dd3e15c05d50736087b594cd..59056432ad1bcad07af6de585845b927d297d3a9 100644
+--- a/temper/temper-catalog/temper-gear/armor-slots/temper-armor-slot.page-type.ts
++++ b/temper/temper-catalog/temper-gear/armor-slots/temper-armor-slot.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ 
+ export type TemperArmorSlot = TemperCatalogThing
+diff --git a/temper/temper-catalog/temper-gear/armor-traits/temper-armor-trait.page-type.ts b/temper/temper-catalog/temper-gear/armor-traits/temper-armor-trait.page-type.ts
+index 288fbf85bbea8858fd2bacb302948c5f2ffe326c..6a408f4fe158f624548c6c41b76f7f5334f290b0 100644
+--- a/temper/temper-catalog/temper-gear/armor-traits/temper-armor-trait.page-type.ts
++++ b/temper/temper-catalog/temper-gear/armor-traits/temper-armor-trait.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ 
+ export type TemperArmorTrait = TemperCatalogThing
+diff --git a/temper/temper-catalog/temper-gear/armor-types/temper-armor-type.page-type.ts b/temper/temper-catalog/temper-gear/armor-types/temper-armor-type.page-type.ts
+index 458aa27a89c3fb5bb539cc48d1de59a760b9724d..79cbd06b6ee0c99daa5b85c03d066739220090f6 100644
+--- a/temper/temper-catalog/temper-gear/armor-types/temper-armor-type.page-type.ts
++++ b/temper/temper-catalog/temper-gear/armor-types/temper-armor-type.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { ArmorMultiplier } from "../properties/armor-multiplier.number-property.ts"
+ import type { IsLargeEnchantSlot } from "../properties/is-large-enchant-slot.boolean-property.ts"
+ import type { TemperGearThing } from "../temper-gear-things/temper-gear-thing.page-type.ts"
+diff --git a/temper/temper-catalog/temper-gear/armor-weights/temper-armor-weight.page-type.ts b/temper/temper-catalog/temper-gear/armor-weights/temper-armor-weight.page-type.ts
+index 28df2edce873e3bf34f819d6c7584b956b46e48f..0feba0b2372adfbb9d5a3a214e8162534af1e1b8 100644
+--- a/temper/temper-catalog/temper-gear/armor-weights/temper-armor-weight.page-type.ts
++++ b/temper/temper-catalog/temper-gear/armor-weights/temper-armor-weight.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ import type { ArmorBaseValue } from "../properties/armor-base-value.number-property.ts"
+ import type { IsStandard } from "../properties/is-standard.boolean-property.ts"
+diff --git a/temper/temper-catalog/temper-gear/eso-player-equipment-constants/temper-eso-player-equipment-constant.page-type.ts b/temper/temper-catalog/temper-gear/eso-player-equipment-constants/temper-eso-player-equipment-constant.page-type.ts
+index 410a678451c8ef0e204a6197b9503b8e8449ae2b..904ebee0858df33b4f81c1e870c6080c79fa6733 100644
+--- a/temper/temper-catalog/temper-gear/eso-player-equipment-constants/temper-eso-player-equipment-constant.page-type.ts
++++ b/temper/temper-catalog/temper-gear/eso-player-equipment-constants/temper-eso-player-equipment-constant.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ import type { ConstantFamily } from "../properties/constant-family.text-property.ts"
+ import type { ConstantId } from "../properties/constant-id.text-property.ts"
+diff --git a/temper/temper-catalog/temper-gear/eso-trait-maps/temper-eso-trait-map.page-type.ts b/temper/temper-catalog/temper-gear/eso-trait-maps/temper-eso-trait-map.page-type.ts
+index 6bbfafd77559a98140b504bc2239560fe0804406..790f5ac9aea9e2a3b4a1cdf78c887a30496cb458 100644
+--- a/temper/temper-catalog/temper-gear/eso-trait-maps/temper-eso-trait-map.page-type.ts
++++ b/temper/temper-catalog/temper-gear/eso-trait-maps/temper-eso-trait-map.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ import type { EsoTraitNum } from "../properties/eso-trait-num.number-property.ts"
+ import type { TraitFamily } from "../properties/trait-family.text-property.ts"
+diff --git a/temper/temper-catalog/temper-gear/jewelry-enchants/temper-jewelry-enchant.page-type.ts b/temper/temper-catalog/temper-gear/jewelry-enchants/temper-jewelry-enchant.page-type.ts
+index 989c2341a093d1ea5732c1f8c0ae096da9663f77..87c1e333960a824cdd9503ba713932a396af3d55 100644
+--- a/temper/temper-catalog/temper-gear/jewelry-enchants/temper-jewelry-enchant.page-type.ts
++++ b/temper/temper-catalog/temper-gear/jewelry-enchants/temper-jewelry-enchant.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperGearThing } from "../temper-gear-things/temper-gear-thing.page-type.ts"
+ 
+ export type TemperJewelryEnchant = TemperGearThing
+diff --git a/temper/temper-catalog/temper-gear/jewelry-slots/temper-jewelry-slot.page-type.ts b/temper/temper-catalog/temper-gear/jewelry-slots/temper-jewelry-slot.page-type.ts
+index 9bccfcb4c4969db6ee0fa7d5f49a8ffcfcac4d6e..6e461f84df67db627f982a7d200cde661650bbea 100644
+--- a/temper/temper-catalog/temper-gear/jewelry-slots/temper-jewelry-slot.page-type.ts
++++ b/temper/temper-catalog/temper-gear/jewelry-slots/temper-jewelry-slot.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ import type { JewelryTypeId } from "../properties/jewelry-type-id.text-property.ts"
+ 
+diff --git a/temper/temper-catalog/temper-gear/jewelry-traits/temper-jewelry-trait.page-type.ts b/temper/temper-catalog/temper-gear/jewelry-traits/temper-jewelry-trait.page-type.ts
+index 1d4650832f464497d70a88f001cac4110921ebed..cf0d24e46bff681438784a0ed9a433784aa02498 100644
+--- a/temper/temper-catalog/temper-gear/jewelry-traits/temper-jewelry-trait.page-type.ts
++++ b/temper/temper-catalog/temper-gear/jewelry-traits/temper-jewelry-trait.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ 
+ export type TemperJewelryTrait = TemperCatalogThing
+diff --git a/temper/temper-catalog/temper-gear/jewelry-types/temper-jewelry-type.page-type.ts b/temper/temper-catalog/temper-gear/jewelry-types/temper-jewelry-type.page-type.ts
+index 109eeb9772b3af315b54059874c2221cba9def1d..8ef44184e49f690da95323389d299c73a5304907 100644
+--- a/temper/temper-catalog/temper-gear/jewelry-types/temper-jewelry-type.page-type.ts
++++ b/temper/temper-catalog/temper-gear/jewelry-types/temper-jewelry-type.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperGearThing } from "../temper-gear-things/temper-gear-thing.page-type.ts"
+ 
+ export type TemperJewelryType = TemperGearThing
+diff --git a/temper/temper-catalog/temper-gear/motif-styles/temper-motif-style.page-type.ts b/temper/temper-catalog/temper-gear/motif-styles/temper-motif-style.page-type.ts
+index c5a24654f5393236be979eb709565ff54411f6d5..9d59334d95cba1eb8451298a1371750a1c95e752 100644
+--- a/temper/temper-catalog/temper-gear/motif-styles/temper-motif-style.page-type.ts
++++ b/temper/temper-catalog/temper-gear/motif-styles/temper-motif-style.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ import type { CollectionIndex } from "../properties/collection-index.number-property.ts"
+ import type { DropSources } from "../properties/drop-sources.text-property.ts"
+diff --git a/temper/temper-catalog/temper-gear/poison-effects/temper-poison-effect.page-type.ts b/temper/temper-catalog/temper-gear/poison-effects/temper-poison-effect.page-type.ts
+index 22a5e63ef76a340fbc07cd3b1ba31f79ff93b74a..d5f1b5e2a677b66961ef3417f5c2b4fa3e06b7c2 100644
+--- a/temper/temper-catalog/temper-gear/poison-effects/temper-poison-effect.page-type.ts
++++ b/temper/temper-catalog/temper-gear/poison-effects/temper-poison-effect.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Cooldown } from "../properties/cooldown.number-property.ts"
+ import type { IsPositive } from "../properties/is-positive.boolean-property.ts"
+ import type { OppositeId } from "../properties/opposite-id.text-property.ts"
+diff --git a/temper/temper-catalog/temper-gear/potion-crafteds/temper-potion-crafted.page-type.ts b/temper/temper-catalog/temper-gear/potion-crafteds/temper-potion-crafted.page-type.ts
+index cef6e89fb7eadab2a8cb96ded05bc266a14def58..a3cfe5b831f0157dd78ee7b64ac96737025d6b24 100644
+--- a/temper/temper-catalog/temper-gear/potion-crafteds/temper-potion-crafted.page-type.ts
++++ b/temper/temper-catalog/temper-gear/potion-crafteds/temper-potion-crafted.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Recipes } from "../properties/recipes.record-property.ts"
+ import type { TemperGearThing } from "../temper-gear-things/temper-gear-thing.page-type.ts"
+ 
+diff --git a/temper/temper-catalog/temper-gear/potion-crowns/temper-potion-crown.page-type.ts b/temper/temper-catalog/temper-gear/potion-crowns/temper-potion-crown.page-type.ts
+index 70c804968a750a51251e6574e59b3b971a4e6dec..b07b424b4c19684f6b489bc29557e52c4396840c 100644
+--- a/temper/temper-catalog/temper-gear/potion-crowns/temper-potion-crown.page-type.ts
++++ b/temper/temper-catalog/temper-gear/potion-crowns/temper-potion-crown.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperGearThing } from "../temper-gear-things/temper-gear-thing.page-type.ts"
+ 
+ export type TemperPotionCrown = TemperGearThing
+diff --git a/temper/temper-catalog/temper-gear/potion-droppeds/temper-potion-dropped.page-type.ts b/temper/temper-catalog/temper-gear/potion-droppeds/temper-potion-dropped.page-type.ts
+index d24bce565769664425d0cf3c3026dfaa2051fa40..ae129737512bf6fcc370799f3eb08e4ed9b5170a 100644
+--- a/temper/temper-catalog/temper-gear/potion-droppeds/temper-potion-dropped.page-type.ts
++++ b/temper/temper-catalog/temper-gear/potion-droppeds/temper-potion-dropped.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperGearThing } from "../temper-gear-things/temper-gear-thing.page-type.ts"
+ 
+ export type TemperPotionDropped = TemperGearThing
+diff --git a/temper/temper-catalog/temper-gear/properties/alchemy-effects.text-property.ts b/temper/temper-catalog/temper-gear/properties/alchemy-effects.text-property.ts
+index f303cb648ae6a2dcc34560e681a310be360c130e..3f0f751731a6cba1dc0259fe9aeefcd0a2cdb93b 100644
+--- a/temper/temper-catalog/temper-gear/properties/alchemy-effects.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/alchemy-effects.text-property.ts
+@@ -1,5 +1,5 @@
+-import type { List } from "@akasha/pages-system/page-property"
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { List } from "@akasha/pages/page-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type AlchemyEffect = string
+ export type AlchemyEffects = List<AlchemyEffect>
+diff --git a/temper/temper-catalog/temper-gear/properties/armor-base-value.number-property.ts b/temper/temper-catalog/temper-gear/properties/armor-base-value.number-property.ts
+index 48045a133d4c22de3c8d50773a5ca1a7fa6b987c..0531e96a8419de6b9174ae99112b77ae1291c43e 100644
+--- a/temper/temper-catalog/temper-gear/properties/armor-base-value.number-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/armor-base-value.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type ArmorBaseValue = number
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/armor-multiplier.number-property.ts b/temper/temper-catalog/temper-gear/properties/armor-multiplier.number-property.ts
+index 2f56b33c6d318d94473c3a407fea9e2675584991..5b8b11b4a267a0670152a1d42652a9f04461093a 100644
+--- a/temper/temper-catalog/temper-gear/properties/armor-multiplier.number-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/armor-multiplier.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type ArmorMultiplier = number
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/bonus-count.number-property.ts b/temper/temper-catalog/temper-gear/properties/bonus-count.number-property.ts
+index da59de69168873f461b97c659763fb98df263cfa..775a4aa819236f76b8a2179abb3fc3c2813e6623 100644
+--- a/temper/temper-catalog/temper-gear/properties/bonus-count.number-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/bonus-count.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type BonusCount = number
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/bonus-effects.record-property.ts b/temper/temper-catalog/temper-gear/properties/bonus-effects.record-property.ts
+index f9e7669c4d8ad09a9cb2ee16574e6e7408515363..912ed38d591c0afe65cea963b71dbe4d0d033bf0 100644
+--- a/temper/temper-catalog/temper-gear/properties/bonus-effects.record-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/bonus-effects.record-property.ts
+@@ -1,5 +1,5 @@
+-import type { List } from "@akasha/pages-system/page-property"
+-import type { RecordProperty } from "@akasha/pages-system/record-property"
++import type { List } from "@akasha/pages/page-property"
++import type { RecordProperty } from "@akasha/pages/record-property"
+ import type { BuffId } from "../../temper-catalog-things/properties/buff-id.text-property.ts"
+ import type { EffectType } from "../../temper-catalog-things/properties/effect-type.text-property.ts"
+ import type { EffectValue } from "../../temper-catalog-things/properties/effect-value.number-property.ts"
+diff --git a/temper/temper-catalog/temper-gear/properties/bonus-status.text-property.ts b/temper/temper-catalog/temper-gear/properties/bonus-status.text-property.ts
+index 82cdda92828a1c352bc9cd656b49a734d15cb3ad..0ec7be7927323ff28588b1d5bbfa052e9dce8ec2 100644
+--- a/temper/temper-catalog/temper-gear/properties/bonus-status.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/bonus-status.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type BonusStatus = string
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/bonuses.page-property-entry.ts b/temper/temper-catalog/temper-gear/properties/bonuses.page-property-entry.ts
+index f47de1901e4ea92d1c97704f77f9f3bbeb7d4dc0..58999c63bb80ce473d57abcaa130af1c2d5b7ada 100644
+--- a/temper/temper-catalog/temper-gear/properties/bonuses.page-property-entry.ts
++++ b/temper/temper-catalog/temper-gear/properties/bonuses.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type Bonuses = "jsonl"
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/collection-index.number-property.ts b/temper/temper-catalog/temper-gear/properties/collection-index.number-property.ts
+index cad66850702d7d8f93731b649859a667ecee4bef..59f187ed60385951db1fb7592c9de88ccd91911c 100644
+--- a/temper/temper-catalog/temper-gear/properties/collection-index.number-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/collection-index.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type CollectionIndex = number
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/constant-family.text-property.ts b/temper/temper-catalog/temper-gear/properties/constant-family.text-property.ts
+index d1ee0f6d8ca541c18ee41805041e51b6565b7b9f..2ed1dca015c49f525d3cb114c6f3aa064babe879 100644
+--- a/temper/temper-catalog/temper-gear/properties/constant-family.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/constant-family.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ConstantFamily = string
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/constant-id.text-property.ts b/temper/temper-catalog/temper-gear/properties/constant-id.text-property.ts
+index 994ce33b54ab6ac9de0a896a558fa4d95016c743..e1f97ed9f8922e350ff3073026563edd559cf9ae 100644
+--- a/temper/temper-catalog/temper-gear/properties/constant-id.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/constant-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ConstantId = string
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/cooldown.number-property.ts b/temper/temper-catalog/temper-gear/properties/cooldown.number-property.ts
+index d559d600a50fbc349dc8eed3067d15d2dffde985..cc8bdea85d2dd0f5de6a76ac7c02668571c8f569 100644
+--- a/temper/temper-catalog/temper-gear/properties/cooldown.number-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/cooldown.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type Cooldown = number
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/drop-sources.text-property.ts b/temper/temper-catalog/temper-gear/properties/drop-sources.text-property.ts
+index b2531147d0d0aa342c4d216a77a9af5de79192b1..c31f70765e530695cd3473c19e3b473dc7ccbc36 100644
+--- a/temper/temper-catalog/temper-gear/properties/drop-sources.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/drop-sources.text-property.ts
+@@ -1,5 +1,5 @@
+-import type { List } from "@akasha/pages-system/page-property"
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { List } from "@akasha/pages/page-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type DropSource = string
+ export type DropSources = List<DropSource>
+diff --git a/temper/temper-catalog/temper-gear/properties/enchantment-multiplier.number-property.ts b/temper/temper-catalog/temper-gear/properties/enchantment-multiplier.number-property.ts
+index d8beb0cbf5e4ee80a0ed9f333602905891f89b99..9d813563767a108e127b2f7dddb7fae231ca594b 100644
+--- a/temper/temper-catalog/temper-gear/properties/enchantment-multiplier.number-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/enchantment-multiplier.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EnchantmentMultiplier = number
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/eso-enchant-constant-name.text-property.ts b/temper/temper-catalog/temper-gear/properties/eso-enchant-constant-name.text-property.ts
+index 0973538bf4a9c4072705f9f8c53ad247f51d6dc8..7f13592c2f4cecfc4a8d571127d6fddbfa67b9e6 100644
+--- a/temper/temper-catalog/temper-gear/properties/eso-enchant-constant-name.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/eso-enchant-constant-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type EsoEnchantConstantName = string
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/eso-num.number-property.ts b/temper/temper-catalog/temper-gear/properties/eso-num.number-property.ts
+index 8a1116d77cceff9dfa681c6189229a49d23f0b50..89a0935a9998cb6f5b57f5717221763594559395 100644
+--- a/temper/temper-catalog/temper-gear/properties/eso-num.number-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/eso-num.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EsoNum = number
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/eso-set-id.number-property.ts b/temper/temper-catalog/temper-gear/properties/eso-set-id.number-property.ts
+index 7e4a5ff685d7fd8a0c3f844d5a8e997f0d34b4ff..557d0296d211b92177f42d6c6c8efaafa8a71014 100644
+--- a/temper/temper-catalog/temper-gear/properties/eso-set-id.number-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/eso-set-id.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EsoSetId = number
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/eso-trait-num.number-property.ts b/temper/temper-catalog/temper-gear/properties/eso-trait-num.number-property.ts
+index d674a6d95bcf47a1a8074fb2594043428c5de3ad..01e49b3bdb602e4fc3094733c4b65285e9e1a595 100644
+--- a/temper/temper-catalog/temper-gear/properties/eso-trait-num.number-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/eso-trait-num.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EsoTraitNum = number
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/eso-weapon-type.text-property.ts b/temper/temper-catalog/temper-gear/properties/eso-weapon-type.text-property.ts
+index a84711badb59915e5354ca926c341fe1dad7afdd..5c31a6f9f667aee19fed26cba17db7340fa1f0d8 100644
+--- a/temper/temper-catalog/temper-gear/properties/eso-weapon-type.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/eso-weapon-type.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type EsoWeaponType = string
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/essence-rune.text-property.ts b/temper/temper-catalog/temper-gear/properties/essence-rune.text-property.ts
+index f1a977f944d17fbc0c8b28c518c050fd94abe710..bf8f04f3ad336f1cf3d792cbc045ee655cbd48a8 100644
+--- a/temper/temper-catalog/temper-gear/properties/essence-rune.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/essence-rune.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type EssenceRune = string
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/glyph-name.text-property.ts b/temper/temper-catalog/temper-gear/properties/glyph-name.text-property.ts
+index 65505dab46e1e4ea53a20733c48c929a2ed00e86..428a059357daef70463d8ad08fc346b7b9abfb3a 100644
+--- a/temper/temper-catalog/temper-gear/properties/glyph-name.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/glyph-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type GlyphName = string
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/icon-slot.text-property.ts b/temper/temper-catalog/temper-gear/properties/icon-slot.text-property.ts
+index acde2ef6b192cd97c6c3797712a43041a1720301..b57e8b5a5b58bb1292af61ab0310fb4e9455168f 100644
+--- a/temper/temper-catalog/temper-gear/properties/icon-slot.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/icon-slot.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type IconSlot = string
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/icons.page-property-entry.ts b/temper/temper-catalog/temper-gear/properties/icons.page-property-entry.ts
+index 720933c343144cc48b51df39f00d5a14fe5641b6..7c4b2094485d9244e04854e9fd17f95c99f84417 100644
+--- a/temper/temper-catalog/temper-gear/properties/icons.page-property-entry.ts
++++ b/temper/temper-catalog/temper-gear/properties/icons.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type Icons = "jsonl"
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/is-large-enchant-slot.boolean-property.ts b/temper/temper-catalog/temper-gear/properties/is-large-enchant-slot.boolean-property.ts
+index a95c619dc179a83b112f07ef58e0f8df6d0bcb6c..e307d7d1011b5bbaa0808dd0b14fcbd8a32225f3 100644
+--- a/temper/temper-catalog/temper-gear/properties/is-large-enchant-slot.boolean-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/is-large-enchant-slot.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type IsLargeEnchantSlot = boolean
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/is-positive.boolean-property.ts b/temper/temper-catalog/temper-gear/properties/is-positive.boolean-property.ts
+index bcd2a750334d6ab9c55317049dd5af9ea22d7539..81b8fa013031e14eec1171e393a47464dc0a92d1 100644
+--- a/temper/temper-catalog/temper-gear/properties/is-positive.boolean-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/is-positive.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type IsPositive = boolean
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/is-standard.boolean-property.ts b/temper/temper-catalog/temper-gear/properties/is-standard.boolean-property.ts
+index 39bd121c5963b197fd43bc5a077bc553873743b2..95b7ce18b94ded588a96587910394a625acfbaf6 100644
+--- a/temper/temper-catalog/temper-gear/properties/is-standard.boolean-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/is-standard.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type IsStandard = boolean
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/item-level.text-property.ts b/temper/temper-catalog/temper-gear/properties/item-level.text-property.ts
+index ec42a927676adbe257b20d858a879fc77d097cb8..04742c97b4a0c441ee058fc4a38bfab097406f53 100644
+--- a/temper/temper-catalog/temper-gear/properties/item-level.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/item-level.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ItemLevel = string
+ 
+@@ -13,7 +13,7 @@ export const itemLevel = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A level reading Scaled follows the character carrying the item.",
++      statement: "A level reading Scaled follows whoever carries the item.",
+     },
+   ],
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-gear/properties/jewelry-type-id.text-property.ts b/temper/temper-catalog/temper-gear/properties/jewelry-type-id.text-property.ts
+index 15b507a16b68e37b92d54a0626eb06bef37d882e..27413aceb3d711dbc2bcdbf21f585e1bbd55cf50 100644
+--- a/temper/temper-catalog/temper-gear/properties/jewelry-type-id.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/jewelry-type-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type JewelryTypeId = string
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/opposite-id.text-property.ts b/temper/temper-catalog/temper-gear/properties/opposite-id.text-property.ts
+index fb3b437d276be18f515b05eec11f4ee28701cf28..9e0eeb415efdbd1c528cfbfa057b17f005cf340f 100644
+--- a/temper/temper-catalog/temper-gear/properties/opposite-id.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/opposite-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type OppositeId = string
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/potion-seconds.number-property.ts b/temper/temper-catalog/temper-gear/properties/potion-seconds.number-property.ts
+index 3af04dd28e55550e84ee23d8ccbe4a30a11f1989..bad31decc5a2a2ddc4431b47ccd17f9c165d5548 100644
+--- a/temper/temper-catalog/temper-gear/properties/potion-seconds.number-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/potion-seconds.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type PotionSeconds = number
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/reagent-names.text-property.ts b/temper/temper-catalog/temper-gear/properties/reagent-names.text-property.ts
+index f98540f9678081f5a46d3a2b1d4fd5ec88c729ee..4e895c18a057babf3d26df2259cdb2f7bb478cf5 100644
+--- a/temper/temper-catalog/temper-gear/properties/reagent-names.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/reagent-names.text-property.ts
+@@ -1,5 +1,5 @@
+-import type { List } from "@akasha/pages-system/page-property"
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { List } from "@akasha/pages/page-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ReagentName = string
+ export type ReagentNames = List<ReagentName>
+diff --git a/temper/temper-catalog/temper-gear/properties/recipes.record-property.ts b/temper/temper-catalog/temper-gear/properties/recipes.record-property.ts
+index 0f2856dae698024051d7296b77c06dcb094f65fa..609ee6ebc7299e9bab6bf3e6de8f5da69d002ba2 100644
+--- a/temper/temper-catalog/temper-gear/properties/recipes.record-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/recipes.record-property.ts
+@@ -1,5 +1,5 @@
+-import type { List } from "@akasha/pages-system/page-property"
+-import type { RecordProperty } from "@akasha/pages-system/record-property"
++import type { List } from "@akasha/pages/page-property"
++import type { RecordProperty } from "@akasha/pages/record-property"
+ import type { ReagentNames } from "./reagent-names.text-property.ts"
+ 
+ export type Recipe = {
+diff --git a/temper/temper-catalog/temper-gear/properties/set-class-id.text-property.ts b/temper/temper-catalog/temper-gear/properties/set-class-id.text-property.ts
+index 071d0b2b2ec02ff689ec675721b8e84e7c859997..c0fbf780272337d17ffc3119b6d40ec4fd904d29 100644
+--- a/temper/temper-catalog/temper-gear/properties/set-class-id.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/set-class-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type SetClassId = string
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/source-description.text-property.ts b/temper/temper-catalog/temper-gear/properties/source-description.text-property.ts
+index dd094540c8f9ddddd844f069d90fe8273fbf3603..af634df1a894d5015367befa38933b053d73e2a8 100644
+--- a/temper/temper-catalog/temper-gear/properties/source-description.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/source-description.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type SourceDescription = string
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/trait-family.text-property.ts b/temper/temper-catalog/temper-gear/properties/trait-family.text-property.ts
+index 81cba9dc1f3131d09878b472c6a83b0cb182438a..777a8bcac016ade6ea8c55df412c6eddf7eca379 100644
+--- a/temper/temper-catalog/temper-gear/properties/trait-family.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/trait-family.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type TraitFamily = string
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/trait-id.text-property.ts b/temper/temper-catalog/temper-gear/properties/trait-id.text-property.ts
+index 959ee41ef6780243952f77e5f6515d937fbdab5a..c6fe0571feb9be6bf2683e47b7e7b300a0759390 100644
+--- a/temper/temper-catalog/temper-gear/properties/trait-id.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/trait-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type TraitId = string
+ 
+diff --git a/temper/temper-catalog/temper-gear/properties/valid-pieces.text-property.ts b/temper/temper-catalog/temper-gear/properties/valid-pieces.text-property.ts
+index e29bb35f21dfef40dd430dc5bfa99c0d6db8299b..ef1dae5b688036703ca343b42dc9a4c04323d4b8 100644
+--- a/temper/temper-catalog/temper-gear/properties/valid-pieces.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/valid-pieces.text-property.ts
+@@ -1,5 +1,5 @@
+-import type { List } from "@akasha/pages-system/page-property"
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { List } from "@akasha/pages/page-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ValidPiece = string
+ export type ValidPieces = List<ValidPiece>
+diff --git a/temper/temper-catalog/temper-gear/properties/valid-slots.text-property.ts b/temper/temper-catalog/temper-gear/properties/valid-slots.text-property.ts
+index f7f7ef4865cd31a6843f69fa486c258e1cc5fd12..daf027a7dd83c680a604fbf8b545b6acdb031265 100644
+--- a/temper/temper-catalog/temper-gear/properties/valid-slots.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/valid-slots.text-property.ts
+@@ -1,5 +1,5 @@
+-import type { List } from "@akasha/pages-system/page-property"
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { List } from "@akasha/pages/page-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ValidSlot = string
+ export type ValidSlots = List<ValidSlot>
+diff --git a/temper/temper-catalog/temper-gear/properties/weapon-type-power.number-property.ts b/temper/temper-catalog/temper-gear/properties/weapon-type-power.number-property.ts
+index 7272ece1a6ad1fe2f233ae1cd96e08a155934623..980d49a85c81c5cc777d13785aa51180ba09e9e0 100644
+--- a/temper/temper-catalog/temper-gear/properties/weapon-type-power.number-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/weapon-type-power.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type WeaponTypePower = number
+ 
+diff --git a/temper/temper-catalog/temper-gear/qualities/temper-quality.page-type.ts b/temper/temper-catalog/temper-gear/qualities/temper-quality.page-type.ts
+index 824845233c442462f55359728a65028c543f20a3..763f21a60816b1c20aa0e26773738e53439dddac 100644
+--- a/temper/temper-catalog/temper-gear/qualities/temper-quality.page-type.ts
++++ b/temper/temper-catalog/temper-gear/qualities/temper-quality.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ 
+ export type TemperQuality = TemperCatalogThing
+diff --git a/temper/temper-catalog/temper-gear/reagents/temper-reagent.page-type.ts b/temper/temper-catalog/temper-gear/reagents/temper-reagent.page-type.ts
+index 9a4683065af96dc54bc5e5f476b296e673e2fa45..e4dca8b01118a53ac219286f04b3d25a7afe95ae 100644
+--- a/temper/temper-catalog/temper-gear/reagents/temper-reagent.page-type.ts
++++ b/temper/temper-catalog/temper-gear/reagents/temper-reagent.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ import type { AlchemyEffects } from "../properties/alchemy-effects.text-property.ts"
+ 
+diff --git a/temper/temper-catalog/temper-gear/set-categories/temper-set-category.page-type.ts b/temper/temper-catalog/temper-gear/set-categories/temper-set-category.page-type.ts
+index 813d83646178d9a293dfc1bb05aeee789d6588b9..694ce5e9b95935b3ee6c08069c289ca1d068aa15 100644
+--- a/temper/temper-catalog/temper-gear/set-categories/temper-set-category.page-type.ts
++++ b/temper/temper-catalog/temper-gear/set-categories/temper-set-category.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ 
+ export type TemperSetCategory = TemperCatalogThing
+diff --git a/temper/temper-catalog/temper-gear/sets/temper-set.page-type.ts b/temper/temper-catalog/temper-gear/sets/temper-set.page-type.ts
+index d042356b52f95ecf1174857a438ac71c1f6c6cbd..5250f6bd5259ede5ac16ea3ff3cc5abb20388b63 100644
+--- a/temper/temper-catalog/temper-gear/sets/temper-set.page-type.ts
++++ b/temper/temper-catalog/temper-gear/sets/temper-set.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ import type { Bonuses } from "../properties/bonuses.page-property-entry.ts"
+ import type { EsoSetId } from "../properties/eso-set-id.number-property.ts"
+diff --git a/temper/temper-catalog/temper-gear/temper-gear-things/temper-gear-thing.page-type.ts b/temper/temper-catalog/temper-gear/temper-gear-things/temper-gear-thing.page-type.ts
+index 83619000b275fbcf18015201a3b36d0ba3330059..8337bf2350c9cb32cdd1cb9d3e38e1907cd56acc 100644
+--- a/temper/temper-catalog/temper-gear/temper-gear-things/temper-gear-thing.page-type.ts
++++ b/temper/temper-catalog/temper-gear/temper-gear-things/temper-gear-thing.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ import type { EsoEnchantConstantName } from "../properties/eso-enchant-constant-name.text-property.ts"
+ import type { EssenceRune } from "../properties/essence-rune.text-property.ts"
+diff --git a/temper/temper-catalog/temper-gear/weapon-enchants/temper-weapon-enchant.page-type.ts b/temper/temper-catalog/temper-gear/weapon-enchants/temper-weapon-enchant.page-type.ts
+index 6e3c1196faa6fafbbc7f8c50f137c7db8c804c36..4ed7a91a5dbaebc628adddfaeb09378c46c82d29 100644
+--- a/temper/temper-catalog/temper-gear/weapon-enchants/temper-weapon-enchant.page-type.ts
++++ b/temper/temper-catalog/temper-gear/weapon-enchants/temper-weapon-enchant.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperGearThing } from "../temper-gear-things/temper-gear-thing.page-type.ts"
+ 
+ export type TemperWeaponEnchant = TemperGearThing
+diff --git a/temper/temper-catalog/temper-gear/weapon-slots/temper-weapon-slot.page-type.ts b/temper/temper-catalog/temper-gear/weapon-slots/temper-weapon-slot.page-type.ts
+index a0819e4125952032a40993d3b938d76ad27dfe22..888fc61c4b6d7e5c1e7ef2c4f2d2a8c322e4a7d2 100644
+--- a/temper/temper-catalog/temper-gear/weapon-slots/temper-weapon-slot.page-type.ts
++++ b/temper/temper-catalog/temper-gear/weapon-slots/temper-weapon-slot.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ 
+ export type TemperWeaponSlot = TemperCatalogThing
+diff --git a/temper/temper-catalog/temper-gear/weapon-traits/temper-weapon-trait.page-type.ts b/temper/temper-catalog/temper-gear/weapon-traits/temper-weapon-trait.page-type.ts
+index c49b3b0054eec3acc385f254ba6f758c25af74f2..b522bc53cdd017847378863cb2f0c968c2c12a8f 100644
+--- a/temper/temper-catalog/temper-gear/weapon-traits/temper-weapon-trait.page-type.ts
++++ b/temper/temper-catalog/temper-gear/weapon-traits/temper-weapon-trait.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+ 
+ export type TemperWeaponTrait = TemperCatalogThing
+diff --git a/temper/temper-catalog/temper-gear/weapon-types/temper-weapon-type.page-type.ts b/temper/temper-catalog/temper-gear/weapon-types/temper-weapon-type.page-type.ts
+index e5edf84cd80b35ee72dcf810b8ea6f122962827b..7f4233aa48751b6dd6b6962b615c7e90ff0a3315 100644
+--- a/temper/temper-catalog/temper-gear/weapon-types/temper-weapon-type.page-type.ts
++++ b/temper/temper-catalog/temper-gear/weapon-types/temper-weapon-type.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { EnchantmentMultiplier } from "../properties/enchantment-multiplier.number-property.ts"
+ import type { EsoWeaponType } from "../properties/eso-weapon-type.text-property.ts"
+ import type { WeaponTypePower } from "../properties/weapon-type-power.number-property.ts"
+diff --git a/temper/temper-catalog/temper-pursuits/achievement-categories/properties/achievement-points.number-property.ts b/temper/temper-catalog/temper-pursuits/achievement-categories/properties/achievement-points.number-property.ts
+index 89ba478762d779859aaee17a82d78179cdd8e6fc..ce51020c574949e3dd2e4fc0cad2ce352a08defb 100644
+--- a/temper/temper-catalog/temper-pursuits/achievement-categories/properties/achievement-points.number-property.ts
++++ b/temper/temper-catalog/temper-pursuits/achievement-categories/properties/achievement-points.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type AchievementPoints = number
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/achievement-categories/properties/achievements.page-property-entry.ts b/temper/temper-catalog/temper-pursuits/achievement-categories/properties/achievements.page-property-entry.ts
+index 63a18b2daf16162a541c099f5f22650baf051ea0..c5b80b090dbb9536667f41a00f41cfb5b977fd59 100644
+--- a/temper/temper-catalog/temper-pursuits/achievement-categories/properties/achievements.page-property-entry.ts
++++ b/temper/temper-catalog/temper-pursuits/achievement-categories/properties/achievements.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type Achievements = "jsonl"
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/achievement-categories/properties/eso-achievement-id.number-property.ts b/temper/temper-catalog/temper-pursuits/achievement-categories/properties/eso-achievement-id.number-property.ts
+index 80a9d577cea78ea137585f9e32876a9e4664ec7a..46b42a352ba13fa447ac3e34c1ee871848f1dded 100644
+--- a/temper/temper-catalog/temper-pursuits/achievement-categories/properties/eso-achievement-id.number-property.ts
++++ b/temper/temper-catalog/temper-pursuits/achievement-categories/properties/eso-achievement-id.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EsoAchievementId = number
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/achievement-categories/properties/total-steps.number-property.ts b/temper/temper-catalog/temper-pursuits/achievement-categories/properties/total-steps.number-property.ts
+index 7277e6e61d950615b0ef523186510c077f28e7a5..cc70c927986e28de14df8b23df2d3e53fa225ecc 100644
+--- a/temper/temper-catalog/temper-pursuits/achievement-categories/properties/total-steps.number-property.ts
++++ b/temper/temper-catalog/temper-pursuits/achievement-categories/properties/total-steps.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type TotalSteps = number
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/achievement-categories/temper-achievement-category.page-type.ts b/temper/temper-catalog/temper-pursuits/achievement-categories/temper-achievement-category.page-type.ts
+index bb4a474cf0a7ca86c623ce9216c1b29b39b5d42c..2fd0a09d2aead2aee6b546b433967012388b1812 100644
+--- a/temper/temper-catalog/temper-pursuits/achievement-categories/temper-achievement-category.page-type.ts
++++ b/temper/temper-catalog/temper-pursuits/achievement-categories/temper-achievement-category.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperPursuitThing } from "../temper-pursuit-things/temper-pursuit-thing.page-type.ts"
+ import type { Achievements } from "./properties/achievements.page-property-entry.ts"
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/antiquities.page-property-entry.ts b/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/antiquities.page-property-entry.ts
+index 6e7d7566915263ecb04a7719760df2221a3779e7..62624deed812e7c0cd06582226770c031df24d1f 100644
+--- a/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/antiquities.page-property-entry.ts
++++ b/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/antiquities.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type Antiquities = "jsonl"
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/antiquity-name.text-property.ts b/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/antiquity-name.text-property.ts
+index defbf605ad49028642872bc9f0bc7d8c14659bfc..05e121bdc08d316e919e2fbd86adac6670f5cfb5 100644
+--- a/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/antiquity-name.text-property.ts
++++ b/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/antiquity-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type AntiquityName = string
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/eso-antiquity-category-id.number-property.ts b/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/eso-antiquity-category-id.number-property.ts
+index 07d447ef78408fbe4db8ab1cfcc4c9d3406d0266..9993d746143f58c256170937e84ad54554deeab7 100644
+--- a/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/eso-antiquity-category-id.number-property.ts
++++ b/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/eso-antiquity-category-id.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EsoAntiquityCategoryId = number
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/eso-antiquity-id.number-property.ts b/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/eso-antiquity-id.number-property.ts
+index 56a2ca9c83a3c18efa6520853f6c373a15ef10dc..949ccdc9c6401934216407b2e166a88e19a0e314 100644
+--- a/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/eso-antiquity-id.number-property.ts
++++ b/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/eso-antiquity-id.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EsoAntiquityId = number
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/eso-antiquity-set-id.number-property.ts b/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/eso-antiquity-set-id.number-property.ts
+index cd1e554b9e8bd6ad8f7f907b71a140117e8e4b4d..93ea5473fa25ab631587ae10b75720ac8e3fa50b 100644
+--- a/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/eso-antiquity-set-id.number-property.ts
++++ b/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/eso-antiquity-set-id.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EsoAntiquitySetId = number
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/total-lore-entries.number-property.ts b/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/total-lore-entries.number-property.ts
+index 80702b0d2252cb5f407f4cb5e5c7153d89a9e204..1977d4f7518b94f1178e7e6054b693fc23d0a77d 100644
+--- a/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/total-lore-entries.number-property.ts
++++ b/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/total-lore-entries.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type TotalLoreEntries = number
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/antiquity-categories/temper-antiquity-category.page-type.ts b/temper/temper-catalog/temper-pursuits/antiquity-categories/temper-antiquity-category.page-type.ts
+index 66abf0f7e70b6810a2758651ba07e6b921fec472..022a594999d98f4303dad4dd867a4eaa71dc52bc 100644
+--- a/temper/temper-catalog/temper-pursuits/antiquity-categories/temper-antiquity-category.page-type.ts
++++ b/temper/temper-catalog/temper-pursuits/antiquity-categories/temper-antiquity-category.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperPursuitThing } from "../temper-pursuit-things/temper-pursuit-thing.page-type.ts"
+ import type { Antiquities } from "./properties/antiquities.page-property-entry.ts"
+ import type { EsoAntiquityCategoryId } from "./properties/eso-antiquity-category-id.number-property.ts"
+diff --git a/temper/temper-catalog/temper-pursuits/cadwell-levels/properties/cadwell-stops.page-property-entry.ts b/temper/temper-catalog/temper-pursuits/cadwell-levels/properties/cadwell-stops.page-property-entry.ts
+index 9f4a95ecceccf50fd3e9ad0fdb4b3d9714083667..40f22963ce8403d7729d8d0e3227434770ef6086 100644
+--- a/temper/temper-catalog/temper-pursuits/cadwell-levels/properties/cadwell-stops.page-property-entry.ts
++++ b/temper/temper-catalog/temper-pursuits/cadwell-levels/properties/cadwell-stops.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type CadwellStops = "jsonl"
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/cadwell-levels/properties/stop-index.number-property.ts b/temper/temper-catalog/temper-pursuits/cadwell-levels/properties/stop-index.number-property.ts
+index 156a3d59cd18cb7b8c46f2f45ed0295bbe41d14f..5df2af3ef5db31f494103d2d2ce389ee5d3a99cc 100644
+--- a/temper/temper-catalog/temper-pursuits/cadwell-levels/properties/stop-index.number-property.ts
++++ b/temper/temper-catalog/temper-pursuits/cadwell-levels/properties/stop-index.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type StopIndex = number
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/cadwell-levels/properties/zone-index.number-property.ts b/temper/temper-catalog/temper-pursuits/cadwell-levels/properties/zone-index.number-property.ts
+index 1652994b67d5775459773f6f40d3f7460738deb0..361ed538cf41de209346e35056ed1fbe4d88457a 100644
+--- a/temper/temper-catalog/temper-pursuits/cadwell-levels/properties/zone-index.number-property.ts
++++ b/temper/temper-catalog/temper-pursuits/cadwell-levels/properties/zone-index.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type ZoneIndex = number
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/cadwell-levels/temper-cadwell-level.page-type.ts b/temper/temper-catalog/temper-pursuits/cadwell-levels/temper-cadwell-level.page-type.ts
+index 6452e00ce06e59b0bc1fba51f115e22268da00bc..a8221e236c2f91d7ad7f3457821ad2fce7f3d50a 100644
+--- a/temper/temper-catalog/temper-pursuits/cadwell-levels/temper-cadwell-level.page-type.ts
++++ b/temper/temper-catalog/temper-pursuits/cadwell-levels/temper-cadwell-level.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperPursuitThing } from "../temper-pursuit-things/temper-pursuit-thing.page-type.ts"
+ import type { CadwellStops } from "./properties/cadwell-stops.page-property-entry.ts"
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/collectible-categories/properties/collectible-name.text-property.ts b/temper/temper-catalog/temper-pursuits/collectible-categories/properties/collectible-name.text-property.ts
+index 639a349fe300e8c4e6724ff04afc7bf80b49821b..773f66d959445479c02b8569e8c854bfa6552d03 100644
+--- a/temper/temper-catalog/temper-pursuits/collectible-categories/properties/collectible-name.text-property.ts
++++ b/temper/temper-catalog/temper-pursuits/collectible-categories/properties/collectible-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CollectibleName = string
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/collectible-categories/properties/collectibles.page-property-entry.ts b/temper/temper-catalog/temper-pursuits/collectible-categories/properties/collectibles.page-property-entry.ts
+index 45583a7ea4a584f1184fed72afd010b4b52a73ae..86bd3fa7e6604627ab2e6a72e78617faf1c435c5 100644
+--- a/temper/temper-catalog/temper-pursuits/collectible-categories/properties/collectibles.page-property-entry.ts
++++ b/temper/temper-catalog/temper-pursuits/collectible-categories/properties/collectibles.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type Collectibles = "jsonl"
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/collectible-categories/properties/eso-category-index.number-property.ts b/temper/temper-catalog/temper-pursuits/collectible-categories/properties/eso-category-index.number-property.ts
+index 8cb36a428317ad0fef2372d261537b62405c647b..af3bd5e56a284b0bd55aa352047cc96f0128d79d 100644
+--- a/temper/temper-catalog/temper-pursuits/collectible-categories/properties/eso-category-index.number-property.ts
++++ b/temper/temper-catalog/temper-pursuits/collectible-categories/properties/eso-category-index.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EsoCategoryIndex = number
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/collectible-categories/temper-collectible-category.page-type.ts b/temper/temper-catalog/temper-pursuits/collectible-categories/temper-collectible-category.page-type.ts
+index 048e95974e4ede44dac8aa257fd318f035374cfe..5ec54ffb054bf2c7ba159ac032def642c3a8d4b0 100644
+--- a/temper/temper-catalog/temper-pursuits/collectible-categories/temper-collectible-category.page-type.ts
++++ b/temper/temper-catalog/temper-pursuits/collectible-categories/temper-collectible-category.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperPursuitThing } from "../temper-pursuit-things/temper-pursuit-thing.page-type.ts"
+ import type { Collectibles } from "./properties/collectibles.page-property-entry.ts"
+ import type { EsoCategoryIndex } from "./properties/eso-category-index.number-property.ts"
+diff --git a/temper/temper-catalog/temper-pursuits/craft-types/properties/eso-craft-type-id.number-property.ts b/temper/temper-catalog/temper-pursuits/craft-types/properties/eso-craft-type-id.number-property.ts
+index 9715f35b9dcd19bb9dd4ae84da868d1bbb20a74d..aa67cd589809a27f8c94d7a1045209ea49e71e84 100644
+--- a/temper/temper-catalog/temper-pursuits/craft-types/properties/eso-craft-type-id.number-property.ts
++++ b/temper/temper-catalog/temper-pursuits/craft-types/properties/eso-craft-type-id.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EsoCraftTypeId = number
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/craft-types/temper-craft-type.page-type.ts b/temper/temper-catalog/temper-pursuits/craft-types/temper-craft-type.page-type.ts
+index 9298c9cb60c692575fbe97ce44a126c61a176e7a..27867367a4148a8a28b17bbeabacd8ae9feb6a32 100644
+--- a/temper/temper-catalog/temper-pursuits/craft-types/temper-craft-type.page-type.ts
++++ b/temper/temper-catalog/temper-pursuits/craft-types/temper-craft-type.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperPursuitThing } from "../temper-pursuit-things/temper-pursuit-thing.page-type.ts"
+ import type { EsoCraftTypeId } from "./properties/eso-craft-type-id.number-property.ts"
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/lore-collections/properties/book-index.number-property.ts b/temper/temper-catalog/temper-pursuits/lore-collections/properties/book-index.number-property.ts
+index fb394b0e769dd280bcba397c2a409ff744245211..9424ba861c32be7a49fafaf0f59ad9245c6a8585 100644
+--- a/temper/temper-catalog/temper-pursuits/lore-collections/properties/book-index.number-property.ts
++++ b/temper/temper-catalog/temper-pursuits/lore-collections/properties/book-index.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type BookIndex = number
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/lore-collections/properties/book-name.text-property.ts b/temper/temper-catalog/temper-pursuits/lore-collections/properties/book-name.text-property.ts
+index 518c4b22b5c47be142ce8e4c5fb42cce18933b9a..a785be62b6a2a20eb5939e399647ebebe6df5e61 100644
+--- a/temper/temper-catalog/temper-pursuits/lore-collections/properties/book-name.text-property.ts
++++ b/temper/temper-catalog/temper-pursuits/lore-collections/properties/book-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type BookName = string
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/lore-collections/properties/books.page-property-entry.ts b/temper/temper-catalog/temper-pursuits/lore-collections/properties/books.page-property-entry.ts
+index cedb0a8816c9af09f7d21cd82028a5d4d988b881..45843c1894a73d88bc4ea8ecf7e06361fbb0359a 100644
+--- a/temper/temper-catalog/temper-pursuits/lore-collections/properties/books.page-property-entry.ts
++++ b/temper/temper-catalog/temper-pursuits/lore-collections/properties/books.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type Books = "jsonl"
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/lore-collections/properties/eso-collection-index.number-property.ts b/temper/temper-catalog/temper-pursuits/lore-collections/properties/eso-collection-index.number-property.ts
+index 77af142fd9418679aac25e5006a39518c5b3043b..608efa498a7de4bacc44409670994f3483a2f525 100644
+--- a/temper/temper-catalog/temper-pursuits/lore-collections/properties/eso-collection-index.number-property.ts
++++ b/temper/temper-catalog/temper-pursuits/lore-collections/properties/eso-collection-index.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EsoCollectionIndex = number
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/lore-collections/properties/eso-lore-category-id.number-property.ts b/temper/temper-catalog/temper-pursuits/lore-collections/properties/eso-lore-category-id.number-property.ts
+index 2d838286502d6bbec03d018de8899d0e7edde591..3d9b2afbe044cb8e186ef7d4dfc159bd202a5a25 100644
+--- a/temper/temper-catalog/temper-pursuits/lore-collections/properties/eso-lore-category-id.number-property.ts
++++ b/temper/temper-catalog/temper-pursuits/lore-collections/properties/eso-lore-category-id.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EsoLoreCategoryId = number
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/lore-collections/temper-lore-collection.page-type.ts b/temper/temper-catalog/temper-pursuits/lore-collections/temper-lore-collection.page-type.ts
+index dad6c0032a218a629b2ffec78ebcd26a2f6178d2..4cc47dfa2de58162ec583d84f143e8da2b943523 100644
+--- a/temper/temper-catalog/temper-pursuits/lore-collections/temper-lore-collection.page-type.ts
++++ b/temper/temper-catalog/temper-pursuits/lore-collections/temper-lore-collection.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperPursuitThing } from "../temper-pursuit-things/temper-pursuit-thing.page-type.ts"
+ import type { Books } from "./properties/books.page-property-entry.ts"
+ import type { EsoCollectionIndex } from "./properties/eso-collection-index.number-property.ts"
+diff --git a/temper/temper-catalog/temper-pursuits/recipe-lists/properties/recipe-item-id.number-property.ts b/temper/temper-catalog/temper-pursuits/recipe-lists/properties/recipe-item-id.number-property.ts
+index d6a0d0a4b0802a6bb86fe1cfeb6651e0642bfa4d..f2a359e1c7f4ed51a286c6ecf45c56990303a3c5 100644
+--- a/temper/temper-catalog/temper-pursuits/recipe-lists/properties/recipe-item-id.number-property.ts
++++ b/temper/temper-catalog/temper-pursuits/recipe-lists/properties/recipe-item-id.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type RecipeItemId = number
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/recipe-lists/properties/recipe-name.text-property.ts b/temper/temper-catalog/temper-pursuits/recipe-lists/properties/recipe-name.text-property.ts
+index 33ab5836c9bdd03ffe9bf9bf5dac8a214d95e69e..a9997110119aedda00e26ed02714710e9a9daeb7 100644
+--- a/temper/temper-catalog/temper-pursuits/recipe-lists/properties/recipe-name.text-property.ts
++++ b/temper/temper-catalog/temper-pursuits/recipe-lists/properties/recipe-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type RecipeName = string
+ 
+diff --git a/temper/temper-catalog/temper-pursuits/recipe-lists/properties/recipes.page-property-entry.ts b/temper/temper-catalog/temper-pursuits/recipe-lists/properties/recipes.page-property-entry.ts
+index cfb9f86f5fbe624ebe76f259a53d0119e4967d9d..74182addb63e5cd2bd5030e4423dfe7e68361a66 100644
+--- a/temper/temper-catalog/temper-pursuits/recipe-lists/properties/recipes.page-property-entry.ts
++++ b/temper/temper-catalog/temper-pursuits/recipe-lists/properties/recipes.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type Recipes = "jsonl"
+ 
