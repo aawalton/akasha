@@ -40,7 +40,9 @@ describe("what a seat comes up under", () => {
 
 describe("the commands a terminal reaches", () => {
   test("name akasha through the one file on the path", () => {
-    expect(AKASHA).toBe('"${AKASHA_ROOT:-$HOME/repos/akasha}/dotfiles/bin/akasha"')
+    expect(AKASHA).toBe(
+      '"${AKASHA_ROOT:-$HOME/repos/akasha}/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh"'
+    )
   })
 
   test("name the resume module a terminal runs to put a seat back on its session", () => {
