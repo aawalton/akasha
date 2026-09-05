@@ -18,7 +18,7 @@ export const supervisorInteractiveBootContract = {
     },
     {
       invariantKind: "upkeep",
-      statement: "A new thing the boot returns is stated here before the boot returns it.",
+      statement: "A new thing the boot returns is stated here before the boot returns that thing.",
     },
   ],
 } as const satisfies Module
