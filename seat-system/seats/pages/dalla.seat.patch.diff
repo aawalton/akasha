@@ -1,0 +1,83 @@
+diff --git a/command-system/piping/piping.module.code.ts b/command-system/piping/piping.module.code.ts
+index 52aeb6a2887ae25d14c4b1cc19d21b94fe2842ec..9e07d8721cdc41e8ed287a1ef23123da44ca0d0f 100644
+--- a/command-system/piping/piping.module.code.ts
++++ b/command-system/piping/piping.module.code.ts
+@@ -1,17 +1,28 @@
+ import { closeSync, constants, openSync, readSync } from "node:fs"
+ import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
+ 
+-export const MARK_OLD = "<<<<<<< old"
++const RUN_OLD = "<<<<<<<"
+ 
+-export const MARK_SPLIT = "======="
++const RUN_SPLIT = "======="
+ 
+-export const MARK_NEW = ">>>>>>> new"
++const RUN_NEW = ">>>>>>>"
++
++export const MARK_OLD = `${RUN_OLD} old`
++
++export const MARK_SPLIT = RUN_SPLIT
++
++export const MARK_NEW = `${RUN_NEW} new`
+ 
+ export const PIPED = "what is piped in"
+ 
+ export const RUNS_SAID = "`<<<<<<<`, `=======` or `>>>>>>>`"
+ 
+-const RUNS = ["<<<<<<<", "=======", ">>>>>>>"]
++const RUNS = [RUN_OLD, RUN_SPLIT, RUN_NEW]
++
++const OPENING = /^<<<<<<<([A-Za-z0-9_-]*) old$/
++
++const NAMED_SAID =
++  "name a run of your own, opening at `<<<<<<<ZZ old` with `=======ZZ` and `>>>>>>>ZZ new`"
+ 
+ const INPUT_AT = "/dev/stdin"
+ 
+@@ -117,12 +128,12 @@ export function pipedIn(piping: Piping, wanted: string | null, saying: Wording):
+   return { bytes: held.bytes }
+ }
+ 
+-export function markedLine(said: string): boolean {
+-  return RUNS.some((one) => said.startsWith(one))
++export function markedLine(said: string, tag = ""): boolean {
++  return RUNS.some((one) => said.startsWith(`${one}${tag}`))
+ }
+ 
+ export function markingIn(body: string): boolean {
+-  return body.split("\n").some(markedLine)
++  return body.split("\n").some((one) => markedLine(one))
+ }
+ 
+ function linedOf(said: string): readonly string[] {
+@@ -149,10 +160,28 @@ function closedBy(opened: number, closes: string): Passages {
+ function marking(at: number, instead: string): string {
+   return (
+     `line ${at} of ${PIPED} begins with ${RUNS_SAID} inside a passage` +
+-    ` — hand a passage like that in at ${instead}`
++    ` — ${NAMED_SAID}, or hand a passage like that in at ${instead}`
+   )
+ }
+ 
++type Marks = {
++  readonly opens: string
++  readonly splits: string
++  readonly closes: string
++  readonly tag: string
++}
++
++function marksIn(said: string): Marks {
++  const ends = said.indexOf("\n")
++  const tag = OPENING.exec(ends === -1 ? said : said.slice(0, ends))?.[1] ?? ""
++  return {
++    opens: `${RUN_OLD}${tag} old`,
++    splits: `${RUN_SPLIT}${tag}`,
++    closes: `${RUN_NEW}${tag} new`,
++    tag,
++  }
++}
++
+ export function passagesIn(said: string, instead: string): Passages {
+   const passages: Passage[] = []
+   let old: string[] | null = null
