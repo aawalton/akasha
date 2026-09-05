@@ -47,7 +47,7 @@ export const watching = {
     },
     {
       invariantKind: "gap",
-      statement: "Nothing here records that Alan watched any of it.",
+      statement: "Nothing here records that Alan watched any of what this domain holds.",
     },
   ],
 } as const satisfies Domain
