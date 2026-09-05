@@ -77,7 +77,7 @@ index 1f548e2580b2df979309f4a419101c76f7f980cb..7cbd3c65695202992845db0994d599ed
      {
        invariantKind: "departure",
 diff --git a/hook-system/agent-hooks/state-subagent/state-subagent.agent-hook.ts b/hook-system/agent-hooks/state-subagent/state-subagent.agent-hook.ts
-index 9a59cc0c92baf8f9a2ccfcefcbe82361cc2b4873..00b22344e791d6938380e39e76e20a2342900412 100644
+index 9a59cc0c92baf8f9a2ccfcefcbe82361cc2b4873..e8d7ff4533834f36c9ba2b070e048a076817e194 100644
 --- a/hook-system/agent-hooks/state-subagent/state-subagent.agent-hook.ts
 +++ b/hook-system/agent-hooks/state-subagent/state-subagent.agent-hook.ts
 @@ -11,7 +11,7 @@ export const stateSubagent = {
@@ -95,6 +95,15 @@ index 9a59cc0c92baf8f9a2ccfcefcbe82361cc2b4873..00b22344e791d6938380e39e76e20a23
        invariantKind: "departure",
 -      statement: "A payload naming no subagent leaves what stands unchanged.",
 +      statement: "A payload naming no subagent leaves what is there unchanged.",
+     },
+     {
+       invariantKind: "departure",
+@@ -31,7 +31,7 @@ export const stateSubagent = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "This hook changes what stands rather than judging a call.",
++      statement: "This hook changes what is there rather than judging a call.",
      },
      {
        invariantKind: "departure",
