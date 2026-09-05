@@ -44,7 +44,7 @@ export const patch = {
     },
     {
       invariantKind: "departure",
-      statement: "A page's type is what puts the patch file beside the page.",
+      statement: "A page's type puts the patch file beside the page.",
     },
   ],
 } as const satisfies FileProperty
