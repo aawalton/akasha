@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/agents/models/gateway/modules/anthropic-error-envelope/anthropic-error-envelope.module.ts b/agents/models/gateway/modules/anthropic-error-envelope/anthropic-error-envelope.module.ts
+index 21d4636ff45e0211f471b2219530a5626777cecf..1a36a8cd161467e0b3929188d20a62f65db351bf 100644
+--- a/agents/models/gateway/modules/anthropic-error-envelope/anthropic-error-envelope.module.ts
++++ b/agents/models/gateway/modules/anthropic-error-envelope/anthropic-error-envelope.module.ts
+@@ -38,7 +38,7 @@ export const anthropicErrorEnvelope = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here decides what a failure means.",
++      statement: "Nothing here decides the meaning of a failure.",
+     },
+     {
+       invariantKind: "absence",
