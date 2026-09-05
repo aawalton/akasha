@@ -1,0 +1,13 @@
+diff --git a/alan/fitness/exercise-access/session-closing/session-closing.module.ts b/alan/fitness/exercise-access/session-closing/session-closing.module.ts
+index 9465bd832f212bcade470f791e24cd511f75fefd..24af75c438a16d65c3620f7d278dadfbc5464dfc 100644
+--- a/alan/fitness/exercise-access/session-closing/session-closing.module.ts
++++ b/alan/fitness/exercise-access/session-closing/session-closing.module.ts
+@@ -11,7 +11,7 @@ export const sessionClosing = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A session states no close while it is open.",
++      statement: "A session states no close while that session is open.",
+     },
+     {
+       invariantKind: "departure",
