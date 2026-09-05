@@ -38,7 +38,7 @@ export const secret = {
     },
     {
       invariantKind: "departure",
-      statement: "The resource name and the key are what the cluster is asked for.",
+      statement: "The cluster is asked for the resource name and the key.",
     },
     {
       invariantKind: "departure",
