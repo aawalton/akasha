@@ -1,0 +1,23 @@
+diff --git a/command-system/parse-args/parse-args.module.code.ts b/command-system/parse-args/parse-args.module.code.ts
+index e103bbe4dd4b6ae3b010d8b0d43f803265d52af0..5b884780d3f9498b4666bfdedf2feca5fdfb6551 100644
+--- a/command-system/parse-args/parse-args.module.code.ts
++++ b/command-system/parse-args/parse-args.module.code.ts
+@@ -1,15 +1,14 @@
+ import { readFileSync } from "node:fs"
+-import type { InputError, UnknownFlag } from "@akasha/errors-core/exit-code"
+-import { inputError } from "@akasha/errors-core/exit-code"
+-import { expandTilde } from "@akasha/utils-fs/expand-tilde"
+-import "../command-entry/command-entry.module.code.ts"
+ import type { CommandHelp, HelpFlag } from "@akasha/command-system/command-declaring"
+ import {
+   expandProseRoutes,
+   normalizeRouteValue,
+   planProseRouteReads,
+ } from "@akasha/command-system/prose-routing"
++import type { InputError, UnknownFlag } from "@akasha/errors-core/exit-code"
++import { inputError } from "@akasha/errors-core/exit-code"
+ import { suggestClosest } from "@akasha/temper-build-deploy-checks/suggest-closest"
++import { expandTilde } from "@akasha/utils-fs/expand-tilde"
+ 
+ export interface ParsedArgs {
+   string: (name: string) => string | undefined
