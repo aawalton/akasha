@@ -1,0 +1,217 @@
+diff --git a/temper/temper-progress/inventory-rules/properties/char-eligibility.text-property.ts b/temper/temper-progress/inventory-rules/properties/char-eligibility.text-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d48fd869562cb9f1561722c7cb112603525314ea
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/properties/char-eligibility.text-property.ts
+@@ -0,0 +1,31 @@
++import type { TextProperty } from "@akasha/pages-system/text-property"
++
++export type CharEligibility = string
++
++export const charEligibility = {
++  id: "01a07283-f298-7cad-8c9f-82f3ca167ff1",
++  pageTypeSlug: "text-property",
++  slug: "char-eligibility",
++  propertySlug: "char-eligibility",
++  definition: "which characters one leg of a destination chain will send an item to",
++  max: 500,
++  nameFormatSlug: null,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A leg stating nothing here sends to every character the leg reaches.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "What a leg tests of a character is no test an item condition makes.",
++    },
++    {
++      invariantKind: "stopgap",
++      statement: "The test is written here as text whatever shape the test has.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A character test is a field of its own as an item test is.",
++    },
++  ],
++} as const satisfies TextProperty
+diff --git a/temper/temper-progress/inventory-rules/properties/destination-chain.page-property-entry.ts b/temper/temper-progress/inventory-rules/properties/destination-chain.page-property-entry.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3ddf2f230c683422c2305ab78f8d9a1b510c522a
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/properties/destination-chain.page-property-entry.ts
+@@ -0,0 +1,34 @@
++import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++
++export type DestinationChain = "jsonl"
++
++export const destinationChain = {
++  id: "01a07283-f299-71ac-b104-933518a6706d",
++  pageTypeSlug: "page-property-entry",
++  slug: "destination-chain",
++  propertySlug: "destination-chain",
++  definition: "where a rule puts an item, one leg to a line",
++  properties: [
++    { pagePropertySlug: "destination", required: true, many: false },
++    { pagePropertySlug: "target-quantity", required: false, many: false },
++    { pagePropertySlug: "char-eligibility", required: false, many: false },
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The order the legs are written in is the order the legs are tried.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An item goes to the first leg that will take it.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A leg taking every item is the last leg worth writing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A rule stating a chain states where the chain ends.",
++    },
++  ],
++} as const satisfies PagePropertyEntry
+diff --git a/temper/temper-progress/inventory-rules/properties/from-template.relation-property.ts b/temper/temper-progress/inventory-rules/properties/from-template.relation-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d7f4958f3bdfa04d0ff8f4a692bbde40d4b4d190
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/properties/from-template.relation-property.ts
+@@ -0,0 +1,18 @@
++import type { RelationProperty } from "@akasha/pages-system/relation-property"
++
++export type FromTemplate = string
++
++export const fromTemplate = {
++  id: "01a07283-f295-75b5-b96e-68b5ca4e2ea7",
++  pageTypeSlug: "relation-property",
++  slug: "from-template",
++  propertySlug: "from-template",
++  definition: "the template a rule in force was adopted from",
++  targetPageTypeSlug: "page-type/temper-rule-template",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A rule a player wrote from nothing names no template.",
++    },
++  ],
++} as const satisfies RelationProperty
+diff --git a/temper/temper-progress/inventory-rules/properties/rule-locked.boolean-property.ts b/temper/temper-progress/inventory-rules/properties/rule-locked.boolean-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..03672ff362dfa6ab9b129e3f8a9ad13bfcee82dd
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/properties/rule-locked.boolean-property.ts
+@@ -0,0 +1,21 @@
++import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++
++export type RuleLocked = boolean
++
++export const ruleLocked = {
++  id: "01a07283-f293-7fc7-9ed8-4c01ff4038fd",
++  pageTypeSlug: "boolean-property",
++  slug: "rule-locked",
++  propertySlug: "locked",
++  definition: "whether a rule is held back from being edited or deleted",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A locked rule is carried through a reset to defaults untouched.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Whether a rule is locked is stated rather than worked out from where it came.",
++    },
++  ],
++} as const satisfies BooleanProperty
+diff --git a/temper/temper-progress/inventory-rules/properties/target-quantity.number-property.ts b/temper/temper-progress/inventory-rules/properties/target-quantity.number-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1eb19b4f72bc3fd68715a08c8b9d924ebf52ea97
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/properties/target-quantity.number-property.ts
+@@ -0,0 +1,18 @@
++import type { NumberProperty } from "@akasha/pages-system/number-property"
++
++export type TargetQuantity = number
++
++export const targetQuantity = {
++  id: "01a07283-f295-7205-a4ef-8820858e243a",
++  pageTypeSlug: "number-property",
++  slug: "target-quantity",
++  propertySlug: "target-quantity",
++  definition: "how many of an item one leg of a destination chain takes",
++  max: null,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A leg stating no quantity takes every item reaching it.",
++    },
++  ],
++} as const satisfies NumberProperty
+diff --git a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts b/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f521b67436b1d37a3d2c4088c6a553302b310886
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
+@@ -0,0 +1,59 @@
++import type { PageType } from "@akasha/pages-system/page-type"
++import type { TemperRule } from "../rules/temper-rule.page-type.ts"
++import type { DestinationChain } from "./properties/destination-chain.page-property-entry.ts"
++import type { FromTemplate } from "./properties/from-template.relation-property.ts"
++import type { RuleLocked } from "./properties/rule-locked.boolean-property.ts"
++
++export type TemperInventoryRule = TemperRule & {
++  locked?: RuleLocked
++  fromTemplate?: FromTemplate
++  destinationChain?: DestinationChain
++}
++
++export const temperInventoryRule = {
++  id: "01a07283-f299-703a-a255-0c48075885be",
++  pageTypeSlug: "page-type",
++  slug: "temper-inventory-rule",
++  definition: "a rule a player has in force over what they carry",
++  pluralSlug: "temper-inventory-rules",
++  extendsSlug: ["page-type/temper-rule"],
++  partSlugs: [
++    "boolean-property/rule-locked",
++    "number-property/target-quantity",
++    "page-property-entry/destination-chain",
++    "relation-property/from-template",
++    "text-property/char-eligibility",
++  ],
++  properties: [
++    { pagePropertySlug: "account-page", required: true, many: false },
++    { pagePropertySlug: "category-id", required: true, many: false },
++    { pagePropertySlug: "display-order", required: true, many: false },
++    { pagePropertySlug: "action", required: true, many: false },
++    { pagePropertySlug: "active", required: true, many: false },
++    { pagePropertySlug: "rule-locked", required: false, many: false },
++    { pagePropertySlug: "from-template", required: false, many: false },
++    { pagePropertySlug: "destination-chain", required: false, many: false },
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A rule here is one a player has adopted rather than one offered to a player.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Where a rule falls among the rules is what settles which rule acts first.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A chain is read ahead of a destination where a rule states each.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A rule states a destination or a chain of them rather than both.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A rule adopted from a template and since edited says what it changed.",
++    },
++  ],
++} as const satisfies PageType
