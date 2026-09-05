@@ -12,7 +12,7 @@ export const inferenceActive = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What is resident is read off the cop.",
+      statement: "The resident services are read off the cop.",
     },
     {
       invariantKind: "departure",
@@ -20,7 +20,7 @@ export const inferenceActive = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here changes what is resident.",
+      statement: "Nothing here changes which services are resident.",
     },
   ],
 } as const satisfies Command
