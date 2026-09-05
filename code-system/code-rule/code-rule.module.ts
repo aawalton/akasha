@@ -70,11 +70,11 @@ export const codeRule = {
     },
     {
       invariantKind: "absence",
-      statement: "A rule is what the source says.",
+      statement: "A rule is the thing the source says.",
     },
     {
       invariantKind: "absence",
-      statement: "What is done with a rule is answered elsewhere.",
+      statement: "The use a rule is put to is answered elsewhere.",
     },
   ],
 } as const satisfies Module
