@@ -1,3 +1,16 @@
+diff --git a/pages/queries/page-query.page-type.ts b/pages/queries/page-query.page-type.ts
+index a9318f7ced7bb9295378c15154f369048639e5dc..2bfc2a0307207d0493aae2e9c33ee70eba095975 100644
+--- a/pages/queries/page-query.page-type.ts
++++ b/pages/queries/page-query.page-type.ts
+@@ -71,7 +71,7 @@ export const pageQuery = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A query asks of one page type rather than of several at once.",
++      statement: "A query names one page type rather than several at once.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/queries/properties/narrows.record-property.ts b/pages/queries/properties/narrows.record-property.ts
 index 08157bf4d11db398ae021176db6e095fbb96bb2e..8b32445ad0737787808462b9c4951096e6b2737e 100644
 --- a/pages/queries/properties/narrows.record-property.ts
