@@ -1,14 +1,20 @@
 diff --git a/pages/query-narrow/page-query-narrow.module.ts b/pages/query-narrow/page-query-narrow.module.ts
-index b73894e061c317cb8992e2c8a29fc4e51c33430d..70d97b0c06dfffae5e07d8d1213fd55ac077662a 100644
+index b73894e061c317cb8992e2c8a29fc4e51c33430d..b1d94e567fd7b8ed56b824de5d5f85c3301c28e7 100644
 --- a/pages/query-narrow/page-query-narrow.module.ts
 +++ b/pages/query-narrow/page-query-narrow.module.ts
-@@ -9,7 +9,8 @@ export const pageQueryNarrow = {
+@@ -9,11 +9,13 @@ export const pageQueryNarrow = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "A key stated against a bare value is read as a test that the key holds it.",
 +      statement:
 +        "A key stated against a bare value is read as a test that the key holds that value.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A number and a boolean are read as the text they are written as.",
++      statement:
++        "A number and a boolean are read as the text that number and that boolean are written as.",
      },
      {
        invariantKind: "departure",
