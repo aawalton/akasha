@@ -1,5 +1,5 @@
 diff --git a/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts b/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts
-index 9b686e951bf0a346d109502b81e44199d9276f4e..7d5fd190527b73a5c64279a54feb5d4221a76880 100644
+index 9b686e951bf0a346d109502b81e44199d9276f4e..8c42af62b0b846a93bca5f75a5b8bbd55ac025f5 100644
 --- a/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts
 +++ b/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts
 @@ -9,7 +9,7 @@ export const violationReporting = {
@@ -36,3 +36,12 @@ index 9b686e951bf0a346d109502b81e44199d9276f4e..7d5fd190527b73a5c64279a54feb5d42
      },
      {
        invariantKind: "departure",
+@@ -58,7 +60,7 @@ export const violationReporting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The streams written to are the caller's where the caller named them.",
++      statement: "The streams written to are the caller's where the caller named those streams.",
+     },
+   ],
+ } as const satisfies Module
