@@ -41,7 +41,7 @@ export const supervisorHeartbeat = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here ever clears the timer it returns.",
+      statement: "Nothing here ever clears the timer this module returns.",
     },
   ],
 } as const satisfies Module
