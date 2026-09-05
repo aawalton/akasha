@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/fitness/exercise-access/selection-features/selection-features.module.ts b/alan/fitness/exercise-access/selection-features/selection-features.module.ts
+index d728134dd17e72340b8c9b6ed7b39129e776a93c..cff1d67aef8d6ac19cab201bcc4709e899d6f2d9 100644
+--- a/alan/fitness/exercise-access/selection-features/selection-features.module.ts
++++ b/alan/fitness/exercise-access/selection-features/selection-features.module.ts
+@@ -28,7 +28,7 @@ export const selectionFeatures = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A movement takes a second pattern only where it is named outright.",
++      statement: "A movement takes a second pattern only where that pattern is named outright.",
+     },
+     {
+       invariantKind: "gap",
