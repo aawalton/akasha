@@ -10,19 +10,19 @@ export const faultSaying = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What is thrown is read for a message.",
+      statement: "A thrown thing is read for a message.",
     },
     {
       invariantKind: "departure",
-      statement: "What is thrown is made to speak even where what is thrown is no Error.",
+      statement: "A thrown thing is made to speak even where that thing is no Error.",
     },
     {
       invariantKind: "departure",
-      statement: "A refusal carries what is said in one line.",
+      statement: "A refusal carries the message in one line.",
     },
     {
       invariantKind: "departure",
-      statement: "A caller keeping the fault wants what is said whole.",
+      statement: "A caller keeping the fault wants the message whole.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +43,7 @@ export const faultSaying = {
     },
     {
       invariantKind: "absence",
-      statement: "A caller catching a fault says what that fault means.",
+      statement: "A caller catching a fault says that fault's meaning.",
     },
     {
       invariantKind: "departure",
@@ -63,7 +63,7 @@ export const faultSaying = {
     },
     {
       invariantKind: "absence",
-      statement: "What is said carries no frame.",
+      statement: "The message carries no frame.",
     },
   ],
 } as const satisfies Module
