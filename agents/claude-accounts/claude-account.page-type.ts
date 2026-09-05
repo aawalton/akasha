@@ -177,7 +177,7 @@ export const claudeAccount = {
     },
     {
       invariantKind: "departure",
-      statement: "A declaration saying where a value sits is what routes every mark written here.",
+      statement: "A declaration saying where a value sits routes every mark written here.",
     },
     {
       invariantKind: "departure",
