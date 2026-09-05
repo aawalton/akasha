@@ -26,7 +26,7 @@ export const pageTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "The badge counts rows while the description counts what a filter matched.",
+      statement: "The badge counts rows while the description counts the rows a filter matched.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +47,7 @@ export const pageTreePanel = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here decides what a row looks like.",
+      statement: "Nothing here decides a row's appearance.",
     },
   ],
 } as const satisfies Module
