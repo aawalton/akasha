@@ -38,7 +38,7 @@ export const moveParenting = {
     },
     {
       invariantKind: "departure",
-      statement: "A page left under the parent it has is named in the answer with why.",
+      statement: "A page left under the parent that page has is named in the answer with why.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +47,7 @@ export const moveParenting = {
     },
     {
       invariantKind: "departure",
-      statement: "The page holding where a carried page was is asked to name it first.",
+      statement: "The page holding where a carried page was is asked to name that page first.",
     },
     {
       invariantKind: "departure",
