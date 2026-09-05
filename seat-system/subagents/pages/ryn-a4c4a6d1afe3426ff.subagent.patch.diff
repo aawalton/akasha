@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts b/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts
+index 4eb9bc451e763d102fa019de61cc4207d8318b71..6dfa714a1b4f186ed8fe694bcb2a09fcd4a8db0e 100644
+--- a/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts
++++ b/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts
+@@ -23,7 +23,7 @@ export const manifestLandsOnAFile = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file moving away from under a way in is what this check catches.",
++      statement: "This check catches a file moving away from under a way in.",
+     },
+     {
+       invariantKind: "departure",
