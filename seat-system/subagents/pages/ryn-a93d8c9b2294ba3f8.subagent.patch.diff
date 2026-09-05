@@ -1,0 +1,16 @@
+diff --git a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
+index d46b5520305c7527a21be788e295c4f1b9ba59cf..c18cd88409927c19558e6a6a75726aca70036b5d 100644
+--- a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
++++ b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
+@@ -68,10 +68,7 @@ export const agentTreePanel = {
+       statement:
+         "A read that lost seats says how many rather than drawing a short tree in silence.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement:
