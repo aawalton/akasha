@@ -27,7 +27,8 @@ export const answer = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer says how many pages were counted and whether the listing reached them.",
+      statement:
+        "An answer says how many pages were counted and whether the listing reached those pages.",
     },
     {
       invariantKind: "departure",
