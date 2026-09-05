@@ -154,7 +154,7 @@ export const proxyProcess = {
     },
     {
       invariantKind: "constraint",
-      statement: "A caller hands in what a signal is listened for by.",
+      statement: "A caller hands in the act a signal is listened for by.",
     },
     {
       invariantKind: "absence",
