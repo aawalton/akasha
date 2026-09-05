@@ -9,8 +9,7 @@ export const revealedSheet = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A skill's displayed score stands in front of the score the skill was stored with.",
+      statement: "A skill's displayed score sits in front of the score the skill was stored with.",
     },
     {
       invariantKind: "departure",

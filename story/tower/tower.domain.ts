@@ -23,7 +23,7 @@ export const tower = {
     },
     {
       invariantKind: "departure",
-      statement: "A chapter is written out from the beats standing between its two ends.",
+      statement: "A chapter is written out from the beats between its two ends.",
     },
     {
       invariantKind: "departure",

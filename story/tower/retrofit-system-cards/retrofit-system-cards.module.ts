@@ -23,7 +23,7 @@ export const retrofitSystemCards = {
     {
       invariantKind: "departure",
       statement:
-        "A card that stands is headed as the tower rather than by what the card said before.",
+        "A card that remains is headed as the tower rather than by what the card said before.",
     },
   ],
 } as const satisfies Module

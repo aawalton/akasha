@@ -9,7 +9,7 @@ export const floorSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A combatant standing on a floor is an enemy and nothing else.",
+      statement: "A combatant on a floor is an enemy and nothing else.",
     },
     {
       invariantKind: "departure",

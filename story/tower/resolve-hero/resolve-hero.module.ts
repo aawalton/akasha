@@ -9,8 +9,7 @@ export const resolveHero = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The illustrations stand beside the saved game rather than at a path of their own.",
+      statement: "The illustrations sit beside the saved game rather than at a path of their own.",
     },
     {
       invariantKind: "departure",

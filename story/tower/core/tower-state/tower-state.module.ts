@@ -17,7 +17,7 @@ export const towerState = {
     },
     {
       invariantKind: "departure",
-      statement: "An illustration is anchored to the beat the illustration stands at.",
+      statement: "An illustration is anchored to the beat the illustration is at.",
     },
   ],
 } as const satisfies Module

@@ -4,7 +4,7 @@ export const pageSlugs = {
   id: "01a05bc6-fa4a-700c-928f-9eea89b4ecad",
   pageTypeSlug: "module",
   slug: "page-slugs",
-  definition: "the slugs the tower's own pages stand under",
+  definition: "the slugs the tower's own pages sit under",
   code: "ts",
   invariants: [
     {
