@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/commands/track/session-rows/session-rows.module.ts b/commands/track/session-rows/session-rows.module.ts
+index cbdb75e1db439a1efb1146fc2c95f69a60d85cd1..3ea73146b093a456059f6b4930a2cea1ea38c771 100644
+--- a/commands/track/session-rows/session-rows.module.ts
++++ b/commands/track/session-rows/session-rows.module.ts
+@@ -30,7 +30,8 @@ export const sessionRows = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A level reading answers with the levels or with what refused those levels.",
++      statement:
++        "A level reading answers with the levels or with the reasons those levels were refused.",
+     },
+     {
+       invariantKind: "departure",
