@@ -1,0 +1,39 @@
+diff --git a/checks/cluster-checks/cluster-check.page-type.ts b/checks/cluster-checks/cluster-check.page-type.ts
+index 2c28424c28506e214ad9334eb92ab5766ed831f8..4845f72203adfc75e6832c3ff6e80af1df56860c 100644
+--- a/checks/cluster-checks/cluster-check.page-type.ts
++++ b/checks/cluster-checks/cluster-check.page-type.ts
+@@ -133,7 +133,7 @@ export const clusterCheck = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A check the system works out from the packages stands in code rather than here.",
++      statement: "A check the system works out from the packages sits in code rather than here.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/checks/model-checks/model-check.page-type.ts b/checks/model-checks/model-check.page-type.ts
+index 2cf7551b8afaf545ca9366426d6c9a118117fc77..d031debc396f767f9afee90db76626e5407c79be 100644
+--- a/checks/model-checks/model-check.page-type.ts
++++ b/checks/model-checks/model-check.page-type.ts
+@@ -39,7 +39,7 @@ export const modelCheck = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A count of no runs is a check that stands and does not run.",
++      statement: "A count of no runs is a check that exists and does not run.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/checks/model-checks/pages/invariant-earns-its-place/invariant-earns-its-place.model-check.ts b/checks/model-checks/pages/invariant-earns-its-place/invariant-earns-its-place.model-check.ts
+index db1faa3bfe3312804b85b2bc10aaa14434eafd52..fa61999c5b461d7f3949fecf8c8e0103d1e68117 100644
+--- a/checks/model-checks/pages/invariant-earns-its-place/invariant-earns-its-place.model-check.ts
++++ b/checks/model-checks/pages/invariant-earns-its-place/invariant-earns-its-place.model-check.ts
+@@ -21,7 +21,7 @@ export const invariantEarnsItsPlace = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A test stands here for each way a departure fails.",
++      statement: "A test is here for each way a departure fails.",
+     },
+   ],
+ } as const satisfies ModelCheck
