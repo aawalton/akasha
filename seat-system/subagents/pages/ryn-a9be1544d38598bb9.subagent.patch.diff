@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/index/index.command.ts b/commands/index/index.command.ts
+index 9786c3c3ce53d1837ea0469510b557882278206f..9531f2a0fe012f93acccfd6048a0287a2704a7ff 100644
+--- a/commands/index/index.command.ts
++++ b/commands/index/index.command.ts
+@@ -68,7 +68,7 @@ export const index = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What was built still stands.",
++      statement: "The index that was built still stands.",
+     },
+     {
+       invariantKind: "absence",
