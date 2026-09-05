@@ -17,7 +17,7 @@ export const messageFrom = {
     },
     {
       invariantKind: "gap",
-      statement: "This property is a relation to whoever sent the message.",
+      statement: "This property is a relation to the sender of the message.",
     },
   ],
 } as const satisfies TextProperty
