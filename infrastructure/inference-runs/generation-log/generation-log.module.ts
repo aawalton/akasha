@@ -9,8 +9,7 @@ export const generationLog = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A row is refused rather than written, because a row sits inside a page's body and the store addresses paths.",
+      statement: "A row is refused rather than written.",
     },
     {
       invariantKind: "departure",
