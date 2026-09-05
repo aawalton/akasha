@@ -24,6 +24,19 @@ index 530e30db7fe9335b805259e6aa9d25297effd6b2..7c2ce7b358a180b2b66e1ae9894f5e80
      },
      {
        invariantKind: "departure",
+diff --git a/pages/queries/properties/keys.text-property.ts b/pages/queries/properties/keys.text-property.ts
+index 06f0761b5e053a07432c28d1aa14e83b7433a7e5..c05e21e08662e3e7bbdb6a9d51d1612945f930e6 100644
+--- a/pages/queries/properties/keys.text-property.ts
++++ b/pages/queries/properties/keys.text-property.ts
+@@ -15,7 +15,7 @@ export const keys = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A query naming no keys answers with every key its page type declares.",
++      statement: "A query naming no keys answers each page with every key that page carries.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/queries/properties/narrows.record-property.ts b/pages/queries/properties/narrows.record-property.ts
 index 08157bf4d11db398ae021176db6e095fbb96bb2e..8b32445ad0737787808462b9c4951096e6b2737e 100644
 --- a/pages/queries/properties/narrows.record-property.ts
