@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/service-system/workstation-services/service-wrapping/service-wrapping.module.ts b/service-system/workstation-services/service-wrapping/service-wrapping.module.ts
+index 6ed5f416ee1ca252ddeb541655ecb89ddff9a076..32ec036aa7b762a5c4d048630ed36707e02ef9e2 100644
+--- a/service-system/workstation-services/service-wrapping/service-wrapping.module.ts
++++ b/service-system/workstation-services/service-wrapping/service-wrapping.module.ts
+@@ -61,7 +61,7 @@ export const serviceWrapping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A code file still not parsing past that minute is run on as it is.",
++      statement: "A code file still not parsing past that minute is run on as that file is.",
+     },
+     {
+       invariantKind: "departure",
