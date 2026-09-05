@@ -17,7 +17,7 @@ export const charEligibility = {
     },
     {
       invariantKind: "departure",
-      statement: "What a leg tests of a character is no test an item condition makes.",
+      statement: "A leg's test of a character is no test an item condition makes.",
     },
     {
       invariantKind: "stopgap",
