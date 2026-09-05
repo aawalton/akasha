@@ -21,12 +21,12 @@ function within(named: string): string {
 describe("the files the harness names", () => {
   test("the checkout this test sits in is the one the paths are judged against", () => {
     expect(existsSync(path.join(CHECKOUT, "akasha.domain.ts"))).toBe(true)
-    expect(existsSync(path.join(CHECKOUT, "commands"))).toBe(true)
+    expect(existsSync(path.join(CHECKOUT, "command-system", "commands"))).toBe(true)
   })
 
   test("a command's file is the one sitting beside that command's page", () => {
     expect(within(commandFile("work-tree"))).toBe(
-      path.join("commands", "work-tree", "work-tree.command.code.ts")
+      path.join("command-system", "commands", "work-tree", "work-tree.command.code.ts")
     )
   })
 
