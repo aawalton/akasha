@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/command-system/folder-clearing/folder-clearing.module.ts b/command-system/folder-clearing/folder-clearing.module.ts
+index 8ea1957544a3040707c878ac8e8a0fe1b8940e43..37973eae92d3cea323b85209af014e0009bb181c 100644
+--- a/command-system/folder-clearing/folder-clearing.module.ts
++++ b/command-system/folder-clearing/folder-clearing.module.ts
+@@ -42,7 +42,8 @@ export const folderClearing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A folder at the top of the repository is taken where a change leaves it empty.",
++      statement:
++        "A folder at the top of the repository is taken where a change leaves that folder empty.",
+     },
+     {
+       invariantKind: "departure",
