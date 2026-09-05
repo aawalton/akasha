@@ -11,7 +11,7 @@ import type { ReleaseSha } from "./properties/error-release-sha.text-property.ts
 import type { Url } from "./properties/error-url.text-property.ts"
 import type { UserAgent } from "./properties/error-user-agent.text-property.ts"
 
-export type Error = Page & {
+export type RuntimeError = Page & {
   fingerprint: Fingerprint
   app: App
   kind: Kind
@@ -24,12 +24,12 @@ export type Error = Page & {
   count?: Count
 }
 
-export const error = {
+export const runtimeError = {
   id: "01a05f3f-e3df-76da-ba22-9282e49c2d98",
   pageTypeSlug: "page-type",
-  slug: "error",
+  slug: "runtime-error",
   definition: "one fault a client met, gathered under the fingerprint the fault hashes to",
-  pluralSlug: "errors",
+  pluralSlug: "runtime-errors",
   extendsSlug: ["page-type/page"],
   mortal: true,
   partSlugs: [

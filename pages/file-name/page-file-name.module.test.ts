@@ -284,7 +284,7 @@ test("a slug carrying hyphens and digits still anchors the name at its first par
     sections: ["code"],
     held: "ts",
   })
-  expect(partedIn("akasha/one/temper-0000000000000fff.error.uncommitted.ts")).toEqual({
+  expect(partedIn("akasha/one/temper-0000000000000fff.runtime-error.uncommitted.ts")).toEqual({
     slug: "temper-0000000000000fff",
     pageType: "error",
     sections: ["uncommitted"],

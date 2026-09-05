@@ -7,7 +7,7 @@ export const errorsCore = {
   definition: "a caught error reduced to what can be reported, compared and exited on",
   manifest: "json",
   partSlugs: [
-    "page-type/error",
+    "page-type/runtime-error",
     "module/error-report",
     "module/exit-code",
     "module/error-fingerprint",
