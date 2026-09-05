@@ -1,0 +1,12 @@
+diff --git a/commands/ios-app/ios-app.command.ts b/commands/ios-app/ios-app.command.ts
+index 4a80877ccef56131f4a49b62c66abe61c7ea9c77..a1eb30daf781591ae9704d1eb72e6e8f42f4fcbd 100644
+--- a/commands/ios-app/ios-app.command.ts
++++ b/commands/ios-app/ios-app.command.ts
+@@ -14,7 +14,6 @@ export const iosApp = {
+     { said: "--www <dir>", takes: "the site to install inside it, as some other build left it" },
+   ],
+   helpNotes: [
+-    "the act is the first word and the app is the second.",
+     "one call names one app, and naming none or two is refused rather than guessed at.",
+     "what an app is built from is read from its page rather than said here.",
+     "a build needs Xcode, so a workstation that is not a mac hands it to one that is.",
