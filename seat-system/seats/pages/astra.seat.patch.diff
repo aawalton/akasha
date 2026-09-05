@@ -256,6 +256,48 @@ index 0000000000000000000000000000000000000000..9006b98e7fd38819bf467318dee8097c
 +  definition: "a named act putting pages in order",
 +  partSlugs: ["module/reorder-verb-registry"],
 +} as const satisfies Domain
+diff --git a/pages/ui/supabase/pages-ui-supabase.domain.ts b/pages/ui/supabase/pages-ui-supabase.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ce4ae7740931d5c633447954d1d6621c892d7afa
+--- /dev/null
++++ b/pages/ui/supabase/pages-ui-supabase.domain.ts
+@@ -0,0 +1,36 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesUiSupabase = {
++  id: "01a071d1-ee27-7b2f-8b21-963e117f2e00",
++  pageTypeSlug: "domain",
++  slug: "pages-ui-supabase",
++  definition: "the store reached over Supabase",
++  partSlugs: [
++    "module/apply-client-view-filters",
++    "module/collect-related-ids",
++    "module/compose-content-tier-page",
++    "module/group-by-hooks",
++    "module/hooks",
++    "module/hooks-view-query",
++    "module/page-resolver-provider",
++    "module/page-with-properties",
++    "module/record-view-staleness",
++    "module/related-pages-coalesce",
++    "module/relation-picker",
++    "module/use-nav-mutations",
++    "module/use-option-list-lookup",
++    "module/use-page",
++    "module/use-pages",
++    "module/use-page-type-directory",
++    "module/use-reader-neighbors",
++    "module/use-record-page-view",
++    "module/use-referrers",
++    "module/use-set-property-optimistic",
++    "module/use-subpages",
++    "module/use-view-callbacks",
++    "module/use-view-pages",
++    "module/view-data-of-page",
++    "module/view-filter-to-condition",
++    "domain/pages-ui-supabase-mutations",
++  ],
++} as const satisfies Domain
 diff --git a/pages/ui/tree/pages-ui-tree.domain.ts b/pages/ui/tree/pages-ui-tree.domain.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..28762da6267efc3a65fe16420d66dfd01a2e98e0
