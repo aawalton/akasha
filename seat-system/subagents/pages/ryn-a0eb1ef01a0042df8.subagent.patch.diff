@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-addon-data/addon-data-output-dirs/addon-data-output-dirs.module.ts b/temper/temper-addon-data/addon-data-output-dirs/addon-data-output-dirs.module.ts
+index 0fb848ed9ec791f12615c409ecd6d4482a72b3b9..940b77e7c68a109493de82e445c99fc7a3892c8e 100644
+--- a/temper/temper-addon-data/addon-data-output-dirs/addon-data-output-dirs.module.ts
++++ b/temper/temper-addon-data/addon-data-output-dirs/addon-data-output-dirs.module.ts
+@@ -29,7 +29,7 @@ export const addonDataOutputDirs = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A rendered table names the module it lands as rather than a folder.",
++      statement: "A rendered table names the module that table lands as rather than a folder.",
+     },
+   ],
+ } as const satisfies Module
