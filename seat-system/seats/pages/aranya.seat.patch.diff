@@ -1,0 +1,13 @@
+diff --git a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
+index bcfc7250077e72f5ece4598d5dff961e0b114dec..6931f6eea73eccc0e2b54979faf3fdbf9aaeb7e6 100644
+--- a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
++++ b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
+@@ -28,7 +28,7 @@ export const aranyaClusterCleanup = {
+     {
+       statement: "The inference family sits in a top-level inference/ folder.",
+       workingMemory:
+-        "`inference.domain.ts` says inference runs on machines outside the cluster, so 244 files leave `infrastructure/`: 12 folders and the `inference` and `generation` domain pages. `domain/inference` declares 6 of them and wants the rest added. The same prefix rule renames `inference-clients`, `inference-pool`, `inference-runs` and `inference-commands` to `clients`, `pool`, `runs` and `commands`. `upscale`, `voice-inference` and `alerts` are mixed and split rather than moved.",
++        "243 files leave `infrastructure/`: 12 folders and the `inference` and `generation` domain pages. `comfy` and `inference-commands` are named by `domain/infrastructure` and want adding to `domain/inference`. The prefix rule renames the folders `inference-clients`, `inference-pool`, `inference-runs` and `inference-commands` to `clients`, `pool`, `runs` and `commands`, leaving their slugs. `upscale` and `voice-inference` move whole; `alerts` splits, 4 of 132. 8 files outside name what moves.",
+     },
+     {
+       statement: "Every working subagent has a page, and every stopped one has none.",
