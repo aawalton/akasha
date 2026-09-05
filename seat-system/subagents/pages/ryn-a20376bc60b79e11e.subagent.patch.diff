@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/music/commands/music-capture/music-capture.command.ts b/alan/music/commands/music-capture/music-capture.command.ts
+index 0286a30acc1c87118992b61a6e65fa6cce15745a..544e846bd6042b6bdca5b3194a26ffbf3650c0d3 100644
+--- a/alan/music/commands/music-capture/music-capture.command.ts
++++ b/alan/music/commands/music-capture/music-capture.command.ts
+@@ -22,7 +22,7 @@ export const musicCapture = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Capture adds to what is filed and rewrites none of what is filed.",
++      statement: "Capture adds to the rows filed and rewrites none of the rows filed.",
+     },
+     {
+       invariantKind: "departure",
