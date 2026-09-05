@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-collections-addon/temper-collections-addon.eso-addon.ts b/temper/temper-collections-addon/temper-collections-addon.eso-addon.ts
+index 94b577eb481e4a5ff30e14aaf409495bcd34a81f..c16d9e6fdad79b2cf86dc3686561dee35bd8156f 100644
+--- a/temper/temper-collections-addon/temper-collections-addon.eso-addon.ts
++++ b/temper/temper-collections-addon/temper-collections-addon.eso-addon.ts
+@@ -44,7 +44,7 @@ export const temperCollectionsAddon = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here reads what a tracker keeps.",
++      statement: "Nothing here reads the data a tracker keeps.",
+     },
+   ],
+ } as const satisfies EsoAddon
