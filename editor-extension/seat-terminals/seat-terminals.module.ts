@@ -30,7 +30,7 @@ export const seatTerminals = {
     },
     {
       invariantKind: "departure",
-      statement: "How long the sweep took is answered with what the sweep found.",
+      statement: "How long the sweep took is answered with the seats the sweep found.",
     },
     {
       invariantKind: "absence",
