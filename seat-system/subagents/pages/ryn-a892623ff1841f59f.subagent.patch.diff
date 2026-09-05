@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/indexes/answering/index-answering.module.ts b/pages/indexes/answering/index-answering.module.ts
+index d096a2972b42da1d62b6c4d2524ecdace780c63a..89b1fb153b393ee05c31774d868308dc44d95093 100644
+--- a/pages/indexes/answering/index-answering.module.ts
++++ b/pages/indexes/answering/index-answering.module.ts
+@@ -47,7 +47,8 @@ export const indexAnswering = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A question here takes what the reader beneath takes besides what is bound here.",
++      statement:
++        "A question here takes the arguments the reader beneath takes besides the arguments bound here.",
+     },
+     {
+       invariantKind: "departure",
