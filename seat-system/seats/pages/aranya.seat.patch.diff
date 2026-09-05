@@ -119,3 +119,11 @@ index 36f16c198d4c58cd7296707cbf058a559d105ccf..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../command-system
 \ No newline at end of file
+diff --git a/context/context b/context/context
+deleted file mode 120000
+index 2e381246c1a723d2c2b0c4b578139f0d2e862177..0000000000000000000000000000000000000000
+--- a/context/context
++++ /dev/null
+@@ -1 +0,0 @@
+-../../context
+\ No newline at end of file
