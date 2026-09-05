@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/hook-system/agent-hooks/state-subagent/state-subagent.agent-hook.ts b/hook-system/agent-hooks/state-subagent/state-subagent.agent-hook.ts
+index e8b9053964baaa3a4df766eaca809e8f296c9421..2a6c33899f44c333f732870c39e99e60173ab32f 100644
+--- a/hook-system/agent-hooks/state-subagent/state-subagent.agent-hook.ts
++++ b/hook-system/agent-hooks/state-subagent/state-subagent.agent-hook.ts
+@@ -27,7 +27,7 @@ export const stateSubagent = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A payload naming no subagent leaves what is there unchanged.",
++      statement: "A payload naming no subagent leaves the subagent pages unchanged.",
+     },
+     {
+       invariantKind: "departure",
