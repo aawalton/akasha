@@ -77,3 +77,16 @@ index f8c52dcd6dbc74599ce25f6e508a4aa246465bf9..f531e38ba3c82de7cae06f2e42d5584a
      },
    ],
  } as const satisfies Module
+diff --git a/pages/process-properties/process-property.page-type.ts b/pages/process-properties/process-property.page-type.ts
+index e67abcc0f6abb8435fe6a7514f7ac43fa6cebbb3..8c37e1bf32a11f011b2511de396f387ef5a1d782 100644
+--- a/pages/process-properties/process-property.page-type.ts
++++ b/pages/process-properties/process-property.page-type.ts
+@@ -31,7 +31,7 @@ export const processProperty = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A process that still exists is the one named only where the start time read now matches the one held.",
++        "An existing process is the process named only where the start time read now matches the time held.",
+     },
+   ],
+ } as const satisfies PageType
