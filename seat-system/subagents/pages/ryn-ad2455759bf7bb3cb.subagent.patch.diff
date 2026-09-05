@@ -12,3 +12,17 @@ index cf634f53e2f53188cb19a8154bcf6f7f3d637651..30e48964106f4dd63004cccf82a4b80e
 -    },
    ],
  } as const satisfies Module
+diff --git a/temper/temper-player-completion/shalidor-library-collections-01/shalidor-library-collections-01.module.ts b/temper/temper-player-completion/shalidor-library-collections-01/shalidor-library-collections-01.module.ts
+index c9386204cae8dd4ac3703bc972add5ffb2ea8f77..89eea05cc190493cca79557252d515ad34065e45 100644
+--- a/temper/temper-player-completion/shalidor-library-collections-01/shalidor-library-collections-01.module.ts
++++ b/temper/temper-player-completion/shalidor-library-collections-01/shalidor-library-collections-01.module.ts
+@@ -16,9 +16,5 @@ export const shalidorLibraryCollections01 = {
+       invariantKind: "constraint",
+       statement: "These entries are one unbroken run of the whole catalog's order.",
+     },
+-    {
+-      invariantKind: "gap",
+-      statement: "A collection moved between runs breaks every build hash saved.",
+-    },
+   ],
+ } as const satisfies Module
