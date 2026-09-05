@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/agents/models/gateway/modules/hold-registry/hold-registry.module.ts b/agents/models/gateway/modules/hold-registry/hold-registry.module.ts
+index 7a17c997da0517378bd172544994f5630d484ac9..b8f2028b4efd8d04918b87304bae440eb5bb7384 100644
+--- a/agents/models/gateway/modules/hold-registry/hold-registry.module.ts
++++ b/agents/models/gateway/modules/hold-registry/hold-registry.module.ts
+@@ -58,7 +58,7 @@ export const holdRegistry = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows what a hold is waiting on.",
++      statement: "Nothing here knows the request a hold is waiting on.",
+     },
+   ],
+ } as const satisfies Module
