@@ -735,3 +735,11 @@ index c65247ba5a60f9d25e54b4eb94d2060ec23f4a88..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-characters-addon
 \ No newline at end of file
+diff --git a/temper/temper-characters-capture-addon/temper-characters-capture-addon b/temper/temper-characters-capture-addon/temper-characters-capture-addon
+deleted file mode 120000
+index db4e997a3855c8da56b44007e599826bd3b94253..0000000000000000000000000000000000000000
+--- a/temper/temper-characters-capture-addon/temper-characters-capture-addon
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-characters-capture-addon
+\ No newline at end of file
