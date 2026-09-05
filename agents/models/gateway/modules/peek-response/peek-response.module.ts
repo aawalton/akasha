@@ -62,7 +62,7 @@ export const peekResponse = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads the status to decide what to do.",
+      statement: "No decision here is made from the status.",
     },
     {
       invariantKind: "gap",
