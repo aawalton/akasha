@@ -170,23 +170,6 @@ index 0000000000000000000000000000000000000000..a91064ac11e383c7a2148e073ec2cb03
 +    { name: "cronjob", yaml: cronjobYaml() },
 +  ]
 +}
-diff --git a/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff b/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
-index 538df515e2db89c2e4647ee908a2d374c341a8ee..ac7c23525959646524f5b25be9b7b75ba3fd8b75 100644
---- a/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
-@@ -363,8 +363,12 @@ index 9a01f03a01935fcd03816de3a3bad0aefaf9b9ba..ec86488fb050ed4a88ef236923ed4af2
-    image: "registry.registry.svc.cluster.local:5000/cluster/ci:latest",
-    schedule: "*/5 * * * *",
- -  manifestCode:
-+<<<<<<< what this change would leave
-+-    "infrastructure/networks/ddns-headscale/ddns-headscale.manifest.code.ts",
-+=======
- -    "service-system/cluster-services/pages/ddns-headscale/ddns-headscale.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "ddns-headscale",
- +=======
- +  manifestCode: "infrastructure/networks/ddns-headscale/ddns-headscale.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/ddns-headscale/ddns-headscale.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/ddns-headscale/ddns-headscale.cluster-service.code.attachment.ts
 deleted file mode 100644
 index a91064ac11e383c7a2148e073ec2cb03ad55d9d7..0000000000000000000000000000000000000000
