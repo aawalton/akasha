@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-page-beat/seat-page-beat.module.ts b/seat-system/seat-page-beat/seat-page-beat.module.ts
+index 854cee63bce9f7150e57f4e0eb725267a97ef815..6bdd14ca0e62efaa641b0dbfc9a6cb1218e96491 100644
+--- a/seat-system/seat-page-beat/seat-page-beat.module.ts
++++ b/seat-system/seat-page-beat/seat-page-beat.module.ts
+@@ -9,7 +9,7 @@ export const seatPageBeat = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What writes a seat page and can await the write imports this and calls it.",
++      statement: "A writer of a seat page that can await the write imports this and calls this.",
+     },
+     {
+       invariantKind: "gap",
