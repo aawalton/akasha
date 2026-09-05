@@ -16,7 +16,8 @@ export const propertiesOfTheTypeAbove = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder above holds one page type and that page type says what belongs here.",
+      statement:
+        "The folder above holds one page type and that page type declares the properties belonging here.",
     },
     {
       invariantKind: "departure",
