@@ -1,8 +1,8 @@
 diff --git a/editor-extension/vscode-stub/vscode-stub.javascript-module.ts b/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
-index 683cdff4c2407e15fbbd762abcce2dfc97fe03c4..6706bcceeeb1ee93b05d40c79831907e4d1491ab 100644
+index 683cdff4c2407e15fbbd762abcce2dfc97fe03c4..4a3f4156a316a07fc1c84bcc98196627866e77ed 100644
 --- a/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
 +++ b/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
-@@ -13,15 +13,15 @@ export const vscodeStub = {
+@@ -13,19 +13,19 @@ export const vscodeStub = {
      },
      {
        invariantKind: "departure",
@@ -18,6 +18,11 @@ index 683cdff4c2407e15fbbd762abcce2dfc97fe03c4..6706bcceeeb1ee93b05d40c79831907e
        invariantKind: "departure",
 -      statement: "A tree view keeps the provider it was created with.",
 +      statement: "A tree view keeps the provider that tree view was created with.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A status bar item reads back the text assigned to it.",
++      statement: "A status bar item reads back the text assigned to that status bar item.",
      },
      {
        invariantKind: "departure",
