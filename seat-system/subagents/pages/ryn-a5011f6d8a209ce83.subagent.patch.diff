@@ -108,3 +108,23 @@ index 06497c5da7ce01da40a437ec598b8fa44bc01067..d88e2a9da79e6cb9128733b4b70a71b9
      },
    ],
  } as const satisfies Module
+diff --git a/seat-system/notices/notice.page-type.ts b/seat-system/notices/notice.page-type.ts
+index 90bcd6d768a4a6d3ff373a843aa85076724d90f7..5a5a5f6df0904dc3f106a401b4f08e73d7dd2643 100644
+--- a/seat-system/notices/notice.page-type.ts
++++ b/seat-system/notices/notice.page-type.ts
+@@ -37,10 +37,14 @@ export const notice = {
+       invariantKind: "departure",
+       statement: "One notice is one page rather than one section of a page.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A notice the supervisor hands to a respawned seat opens with `[supervisor]`.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A notice the supervisor hands to a respawned seat opens with `[supervisor]`, which is how the fleet's hooks tell a composed prompt from Alan at the keyboard.",
++        "The fleet's hooks tell a composed prompt from Alan at the keyboard by that opening marker.",
+     },
+     {
+       invariantKind: "departure",
