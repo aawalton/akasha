@@ -61,38 +61,30 @@ index f3e8e674f69020dee235f5412e69167c1f0499b2..809e2755b6345bd49330528a3f4d7010
  
      {
        invariantKind: "departure",
-diff --git a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
-index d46b5520305c7527a21be788e295c4f1b9ba59cf..c18cd88409927c19558e6a6a75726aca70036b5d 100644
---- a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
-+++ b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
-@@ -68,10 +68,7 @@ export const agentTreePanel = {
-       statement:
-         "A read that lost seats says how many rather than drawing a short tree in silence.",
-     },
--    {
--      invariantKind: "departure",
--      statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
--    },
-+
-     {
-       invariantKind: "departure",
-       statement:
 diff --git a/editor-extension/domain-tree-panel/domain-tree-panel.module.ts b/editor-extension/domain-tree-panel/domain-tree-panel.module.ts
-index 1fb0d863cd2932e83137d3610b64c68a7e65b13b..5068de1f6ef3dee1e09547438bba458d159562dd 100644
+index aa67ae553257e751e5842ffc8874aa92383ed930..504e722959fbb53804d0868abfe03717a815c009 100644
 --- a/editor-extension/domain-tree-panel/domain-tree-panel.module.ts
 +++ b/editor-extension/domain-tree-panel/domain-tree-panel.module.ts
-@@ -41,10 +41,7 @@ export const domainTreePanel = {
+@@ -41,11 +41,19 @@ export const domainTreePanel = {
        invariantKind: "departure",
        statement: "A domain no root reaches is said to Alan once and named on the channel.",
      },
--    {
--      invariantKind: "departure",
--      statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
--    },
++<<<<<<< what this change would leave
 +
++    {
++      invariantKind: "absence",
++      statement: "No timer starts a drawing.",
++    },
++=======
+     {
+       invariantKind: "departure",
+       statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
+     },
+ 
++>>>>>>> what HEAD holds
      {
        invariantKind: "absence",
-       statement: "No timer starts a drawing.",
+       statement: "No watcher on a source file is registered here.",
 diff --git a/editor-extension/domain-tree-view/domain-tree-view.module.ts b/editor-extension/domain-tree-view/domain-tree-view.module.ts
 index 5f2a95459d8643d660026e15d44626666120a046..102ad76705e43e54ea7a080c4299aac6288b74b6 100644
 --- a/editor-extension/domain-tree-view/domain-tree-view.module.ts
@@ -109,21 +101,29 @@ index 5f2a95459d8643d660026e15d44626666120a046..102ad76705e43e54ea7a080c4299aac6
        invariantKind: "departure",
        statement: "A filter that reads the same as the one held redraws nothing.",
 diff --git a/editor-extension/page-tree-panel/page-tree-panel.module.ts b/editor-extension/page-tree-panel/page-tree-panel.module.ts
-index 4eb2651e09e2d86b5b019c94306848f8004b9798..4f45cc605ad63eeb81df4d120090ca71d793362c 100644
+index a68b3d8ae88e6eb089288b7c69e60ddb15fa940f..6e2cd9b1892cb975a079dff046e1cff425cea347 100644
 --- a/editor-extension/page-tree-panel/page-tree-panel.module.ts
 +++ b/editor-extension/page-tree-panel/page-tree-panel.module.ts
-@@ -46,10 +46,7 @@ export const pageTreePanel = {
+@@ -46,11 +46,19 @@ export const pageTreePanel = {
        invariantKind: "departure",
        statement: "A page type no root reaches is said to Alan once and named on the channel.",
      },
--    {
--      invariantKind: "departure",
--      statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
--    },
++<<<<<<< what this change would leave
 +
++    {
++      invariantKind: "absence",
++      statement: "No timer starts a drawing.",
++    },
++=======
+     {
+       invariantKind: "departure",
+       statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
+     },
+ 
++>>>>>>> what HEAD holds
      {
        invariantKind: "absence",
-       statement: "No timer starts a drawing.",
+       statement: "No watcher on a source file is registered here.",
 diff --git a/editor-extension/page-tree-view/page-tree-view.module.ts b/editor-extension/page-tree-view/page-tree-view.module.ts
 index 1a431298bf026798900e0414ba8154748c73f24a..59936f69a0e963dcdf4f3efba2a249585e378806 100644
 --- a/editor-extension/page-tree-view/page-tree-view.module.ts
@@ -140,37 +140,53 @@ index 1a431298bf026798900e0414ba8154748c73f24a..59936f69a0e963dcdf4f3efba2a24958
        invariantKind: "departure",
        statement: "A filter that reads the same as the one held redraws nothing.",
 diff --git a/editor-extension/status-bar-panel/status-bar-panel.module.ts b/editor-extension/status-bar-panel/status-bar-panel.module.ts
-index 4e1776bfa9b59a305c9fff57e77aff1b95326c1a..f3d3497efa54a6dd786c5a0e36d785b2a2b62d89 100644
+index ff03e912998f9c7ea8de33d9f2ec2ef0baa8d6a7..2b5a917aff661c4fdc0b003a2c3d7f7c27597609 100644
 --- a/editor-extension/status-bar-panel/status-bar-panel.module.ts
 +++ b/editor-extension/status-bar-panel/status-bar-panel.module.ts
-@@ -51,10 +51,7 @@ export const statusBarPanel = {
+@@ -51,11 +51,19 @@ export const statusBarPanel = {
        invariantKind: "departure",
        statement: "A drawing says which readings the file carried nothing for.",
      },
--    {
--      invariantKind: "departure",
--      statement: "Every drawing's outcome is recorded as an observation.",
--    },
++<<<<<<< what this change would leave
 +
++    {
++      invariantKind: "absence",
++      statement: "No timer starts a drawing.",
++    },
++=======
+     {
+       invariantKind: "departure",
+       statement: "Every drawing's outcome is recorded as an observation.",
+     },
+ 
++>>>>>>> what HEAD holds
      {
        invariantKind: "absence",
-       statement: "No timer starts a drawing.",
+       statement: "Nothing here reads a stoplight or a usage figure.",
 diff --git a/editor-extension/work-tree-panel/work-tree-panel.module.ts b/editor-extension/work-tree-panel/work-tree-panel.module.ts
-index a933a716cc576c79420072a415a1229c9e33a79e..595df8a4bccdadfbd475d5a3affb210f6c646d0e 100644
+index cfe03623fef7fe3804ab4eb4df1155271fcfa57f..1f3ef05a0654c544b9168c64d30e699c58d74c45 100644
 --- a/editor-extension/work-tree-panel/work-tree-panel.module.ts
 +++ b/editor-extension/work-tree-panel/work-tree-panel.module.ts
-@@ -33,10 +33,7 @@ export const workTreePanel = {
+@@ -33,11 +33,19 @@ export const workTreePanel = {
        invariantKind: "departure",
        statement: "A row drawn more than once is said to Alan once and named on the channel.",
      },
--    {
--      invariantKind: "departure",
--      statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
--    },
++<<<<<<< what this change would leave
 +
++    {
++      invariantKind: "absence",
++      statement: "No timer starts a drawing.",
++    },
++=======
+     {
+       invariantKind: "departure",
+       statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
+     },
+ 
++>>>>>>> what HEAD holds
      {
        invariantKind: "absence",
-       statement: "No timer starts a drawing.",
+       statement: "No watcher on a seat file or an initiative file is registered here.",
 diff --git a/editor-extension/work-tree-view/work-tree-view.module.ts b/editor-extension/work-tree-view/work-tree-view.module.ts
 index 0116ab1322bf80accfffc805c0d3b1d449498439..24f98405ae8aaaf9e5d8f7718ffe20c82c9eda2c 100644
 --- a/editor-extension/work-tree-view/work-tree-view.module.ts
