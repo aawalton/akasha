@@ -1015,3 +1015,11 @@ index 450de12ae876df4711511e13746ba36db51bb8d4..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-housing-addon
 \ No newline at end of file
+diff --git a/temper/temper-hud-addon/temper-hud-addon b/temper/temper-hud-addon/temper-hud-addon
+deleted file mode 120000
+index ee6e08fd14c77915fa01207d3b9b1978c231300f..0000000000000000000000000000000000000000
+--- a/temper/temper-hud-addon/temper-hud-addon
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-hud-addon
+\ No newline at end of file
