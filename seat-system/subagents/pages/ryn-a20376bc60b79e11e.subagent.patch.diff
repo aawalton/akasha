@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/move/siding/move-siding.module.ts b/commands/move/siding/move-siding.module.ts
+index 226ae4b93cce4285893f978edd74a57addfd63a4..32b8be1117fb454297dca2af30f0cec14d260dbe 100644
+--- a/commands/move/siding/move-siding.module.ts
++++ b/commands/move/siding/move-siding.module.ts
+@@ -80,7 +80,7 @@ export const moveSiding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An index that will not say what the page types are refuses the pair.",
++      statement: "An index that will not name the page types refuses the pair.",
+     },
+     {
+       invariantKind: "departure",
