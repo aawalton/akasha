@@ -26,7 +26,7 @@ export const domainTree = {
     },
     {
       invariantKind: "departure",
-      statement: "A domain hangs under the domain it names as its parent.",
+      statement: "A domain hangs under the domain that domain names as its parent.",
     },
     {
       invariantKind: "departure",
