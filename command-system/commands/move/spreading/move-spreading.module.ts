@@ -22,10 +22,7 @@ export const moveSpreading = {
       invariantKind: "departure",
       statement: "A file keeps the place the file had beneath the folder the file moved with.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A folder arrives at the path the folder names rather than inside that path.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A file beside a page is left out of the pairs.",
