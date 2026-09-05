@@ -1,0 +1,14 @@
+diff --git a/commands/claude-usage/claude-usage.command.ts b/commands/claude-usage/claude-usage.command.ts
+index c7edcc43d9ed07c97768d7ad039a79465a760c43..c195bc84b87339e61b3d76a65cd1604a59106445 100644
+--- a/commands/claude-usage/claude-usage.command.ts
++++ b/commands/claude-usage/claude-usage.command.ts
+@@ -38,7 +38,8 @@ export const claudeUsage = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An account carrying no figure moves neither the mean nor the count beside it.",
++      statement:
++        "An account carrying no figure moves neither the mean nor the count beside that mean.",
+     },
+     {
+       invariantKind: "departure",
