@@ -10,7 +10,7 @@ export const inboxPass = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A pass names the person whose inbox it reads.",
+      statement: "A pass names the person whose inbox that pass reads.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,7 @@ export const inboxPass = {
     },
     {
       invariantKind: "departure",
-      statement: "A run says in its closing line whether it was a dry run.",
+      statement: "A run says in its closing line whether that run was a dry run.",
     },
     {
       invariantKind: "departure",
