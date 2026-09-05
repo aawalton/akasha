@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/git/git.workspace-package.ts b/git/git.workspace-package.ts
+index 9511bb2c42bb0d60ca75dbcdde0f036b5f8620f9..82ecc319d1f53995c48ee6004c0155ed141352ac 100644
+--- a/git/git.workspace-package.ts
++++ b/git/git.workspace-package.ts
+@@ -37,7 +37,7 @@ export const git = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "What `repo/git` holds beyond running a command belongs here.",
++      statement: "The code `repo/git` holds beyond running a command belongs here.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
