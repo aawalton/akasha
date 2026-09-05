@@ -9,7 +9,7 @@ export const job = {
     {
       invariantKind: "departure",
       statement:
-        "A job that fails leaves its object behind, and a later run succeeding does not remove it.",
+        "A job that fails leaves its object behind, and a later run succeeding does not remove that object.",
     },
   ],
 } as const satisfies Domain
