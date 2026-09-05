@@ -120,15 +120,15 @@ export const iosApp = {
     },
     {
       invariantKind: "departure",
-      statement: "The programs an app builds stand among its parts.",
+      statement: "The programs an app builds are among its parts.",
     },
     {
       invariantKind: "departure",
-      statement: "A script one app runs stands beside that app.",
+      statement: "A script one app runs sits beside that app.",
     },
     {
       invariantKind: "departure",
-      statement: "A script more than one app runs stands above them all.",
+      statement: "A script more than one app runs sits above them all.",
     },
     {
       invariantKind: "departure",
@@ -136,11 +136,11 @@ export const iosApp = {
     },
     {
       invariantKind: "departure",
-      statement: "The config Capacitor reads is made from the one standing beside the page.",
+      statement: "The config Capacitor reads is made from the one sitting beside the page.",
     },
     {
       invariantKind: "gap",
-      statement: "Every script an app's manifest names stands in akasha.",
+      statement: "Every script an app's manifest names exists in akasha.",
     },
     {
       invariantKind: "departure",

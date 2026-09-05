@@ -66,7 +66,7 @@ test("an app naming one half of its staging and not the other is refused", () =>
   expect("refused" in held ? held.refused.join(" ") : "").toContain("stage-script")
 })
 
-test("both apps are built by the one script standing above them", () => {
+test("both apps are built by the one script sitting above them", () => {
   expect(planned("smilingjenny").buildScriptPath).toBe(planned("alanwalton").buildScriptPath)
 })
 

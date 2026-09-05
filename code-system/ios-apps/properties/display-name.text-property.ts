@@ -7,7 +7,7 @@ export const displayName = {
   pageTypeSlug: "text-property",
   slug: "display-name",
   propertySlug: "display-name",
-  definition: "the name standing under an app's icon",
+  definition: "the name under an app's icon",
   max: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -108,10 +108,10 @@ type Found = { readonly at: string } | { readonly why: string }
 function shellOf(root: string, named: string, appSlug: string, kind: string): Found {
   const page = pathOf(root, "shell-script", slugOf(named))
   if (page === null) {
-    return { why: `${appSlug} names the ${kind} ${named}, and no such page stands` }
+    return { why: `${appSlug} names the ${kind} ${named}, and no such page exists` }
   }
   const at = besideAt(page, "shell", "sh")
-  return at === null ? { why: `no shell file can stand beside ${page}` } : { at }
+  return at === null ? { why: `no shell file can sit beside ${page}` } : { at }
 }
 
 type Staged = { readonly staging: Staging | null } | { readonly why: string }
