@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/seat-system/seat-conditions/seat-conditions.page-type.ts b/seat-system/seat-conditions/seat-conditions.page-type.ts
-index 7917099aee8898fe1d923955ec11e59363ee28a1..0f715ba1cf7bccd7f6d6ed3ac9cf719e6fcb2e11 100644
+index 7917099aee8898fe1d923955ec11e59363ee28a1..e54170bc3e54d145e1dc90adaeb0f6eeccdcd27a 100644
 --- a/seat-system/seat-conditions/seat-conditions.page-type.ts
 +++ b/seat-system/seat-conditions/seat-conditions.page-type.ts
 @@ -77,7 +77,7 @@ export const seatConditions = {
@@ -12,3 +12,12 @@ index 7917099aee8898fe1d923955ec11e59363ee28a1..0f715ba1cf7bccd7f6d6ed3ac9cf719e
      },
      {
        invariantKind: "departure",
+@@ -93,7 +93,7 @@ export const seatConditions = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "Every reader of these conditions reads them from akasha.",
++      statement: "Every reader of these conditions reads these conditions from akasha.",
+     },
+   ],
+ } as const satisfies PageType
