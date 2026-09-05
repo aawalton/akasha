@@ -7,7 +7,7 @@ import { type Shadow, shadowAt } from "@akasha/pages-system/shadow"
 import type { SourceFile } from "typescript"
 import { type Rule, refusalsIn, rulesIn } from "./no-refused-syntax.code-check.code.ts"
 import { PROBE_AT } from "./no-refused-syntax.code-check.test-fixtures.ts"
-import type { Standing } from "./syntax-rules/syntax-rule.page-type.ts"
+import type { Given } from "./syntax-rules/syntax-rule.page-type.ts"
 
 const RULE = "syntax-rule"
 
@@ -80,7 +80,7 @@ test("every rule is handed the very same parse, so a file is read the once", () 
   const seen: SourceFile[] = []
   const watching = (slug: string): Rule => ({
     slug,
-    judge: (standing: Standing) => {
+    judge: (standing: Given) => {
       seen.push(standing.source)
       return []
     },
@@ -95,7 +95,7 @@ test("a rule is handed the path of the file it judges", () => {
   let held = ""
   const watching: Rule = {
     slug: "watching",
-    judge: (standing: Standing) => {
+    judge: (standing: Given) => {
       held = standing.path
       return []
     },

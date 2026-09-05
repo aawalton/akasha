@@ -1,6 +1,6 @@
 import { lineOf } from "@akasha/code-system/code-source"
 import ts from "typescript"
-import type { Refusal, Standing } from "../syntax-rule.page-type.ts"
+import type { Given, Refusal } from "../syntax-rule.page-type.ts"
 
 const FACES: ReadonlyMap<string, ReadonlySet<string>> = new Map([
   ["Answering", new Set(["answering", "index-answering"])],
@@ -178,7 +178,7 @@ function readersOver(source: ts.SourceFile, imported: ReadonlySet<string>): Read
   return named
 }
 
-export function noBodyReadBesideAnIndex(given: Standing): readonly Refusal[] {
+export function noBodyReadBesideAnIndex(given: Given): readonly Refusal[] {
   const source = given.source
   const faces = boundTo(source, FACES)
   if (faces.size === 0) return []

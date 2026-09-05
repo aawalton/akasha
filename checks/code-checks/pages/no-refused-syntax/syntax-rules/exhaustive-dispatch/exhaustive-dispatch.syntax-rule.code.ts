@@ -1,6 +1,6 @@
 import { lineOf } from "@akasha/code-system/code-source"
 import ts from "typescript"
-import type { Refusal, Standing } from "../syntax-rule.page-type.ts"
+import type { Given, Refusal } from "../syntax-rule.page-type.ts"
 
 const NEVER = "assertNever"
 
@@ -30,7 +30,7 @@ export function ends(statement: ts.Statement): boolean {
   return false
 }
 
-export function exhaustiveDispatch(standing: Standing): readonly Refusal[] {
+export function exhaustiveDispatch(standing: Given): readonly Refusal[] {
   const found: Refusal[] = []
   const visit = (node: ts.Node): undefined => {
     if (ts.isSwitchStatement(node)) {

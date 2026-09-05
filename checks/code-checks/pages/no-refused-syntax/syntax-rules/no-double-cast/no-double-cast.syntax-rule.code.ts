@@ -1,6 +1,6 @@
 import { lineOf } from "@akasha/code-system/code-source"
 import ts from "typescript"
-import type { Refusal, Standing } from "../syntax-rule.page-type.ts"
+import type { Given, Refusal } from "../syntax-rule.page-type.ts"
 
 const UNKNOWN = "unknown"
 
@@ -21,7 +21,7 @@ export function withoutParens(node: ts.Expression): ts.Expression {
   return held
 }
 
-export function noDoubleCast(standing: Standing): readonly Refusal[] {
+export function noDoubleCast(standing: Given): readonly Refusal[] {
   const found: Refusal[] = []
   const visit = (node: ts.Node): undefined => {
     if (ts.isAsExpression(node) || ts.isTypeAssertionExpression(node)) {

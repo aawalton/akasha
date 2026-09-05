@@ -1,7 +1,7 @@
 import { lineOf } from "@akasha/code-system/code-source"
 import { basenameOf } from "@akasha/hook-system/shell-calls"
 import ts from "typescript"
-import type { Refusal, Standing } from "../syntax-rule.page-type.ts"
+import type { Given, Refusal } from "../syntax-rule.page-type.ts"
 
 const DISPATCHER = "command-system/cli/cli.module.code.ts"
 
@@ -88,7 +88,7 @@ export function shellHeadIn(node: ts.TaggedTemplateExpression): string | null {
   return first === undefined || first === "" ? null : first
 }
 
-export function noAkashaCommandFromCode(standing: Standing): readonly Refusal[] {
+export function noAkashaCommandFromCode(standing: Given): readonly Refusal[] {
   if (standing.path.startsWith(DISPATCHER_AT)) return []
   const bound = boundIn(standing.source)
   const found: Refusal[] = []

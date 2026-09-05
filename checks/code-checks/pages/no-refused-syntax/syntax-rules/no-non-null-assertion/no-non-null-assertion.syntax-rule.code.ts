@@ -1,11 +1,11 @@
 import { lineOf } from "@akasha/code-system/code-source"
 import ts from "typescript"
-import type { Refusal, Standing } from "../syntax-rule.page-type.ts"
+import type { Given, Refusal } from "../syntax-rule.page-type.ts"
 
 const UNWEIGHED =
   "so a value the types say may be absent is taken as present, weighed against nothing, and the absence arrives as a crash rather than as an answer"
 
-export function noNonNullAssertion(standing: Standing): readonly Refusal[] {
+export function noNonNullAssertion(standing: Given): readonly Refusal[] {
   const found: Refusal[] = []
   const visit = (node: ts.Node): undefined => {
     if (ts.isNonNullExpression(node)) {

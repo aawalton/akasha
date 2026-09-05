@@ -15,7 +15,7 @@ import {
   TEXTS,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import type { Judging, Standing } from "./syntax-rules/syntax-rule.page-type.ts"
+import type { Given, Judging } from "./syntax-rules/syntax-rule.page-type.ts"
 
 const RULE = "syntax-rule"
 
@@ -121,7 +121,7 @@ export function rulesIn(
 }
 
 export function refusalsIn(rules: readonly Rule[], path: string, text: string): readonly string[] {
-  const parsed: Standing = { path, source: parsedAs(path, text) }
+  const parsed: Given = { path, source: parsedAs(path, text) }
   const said: string[] = []
   for (const rule of rules) {
     for (const one of rule.judge(parsed)) {

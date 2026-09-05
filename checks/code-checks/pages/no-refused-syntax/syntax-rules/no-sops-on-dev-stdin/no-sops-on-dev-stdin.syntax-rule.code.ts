@@ -1,6 +1,6 @@
 import { lineOf } from "@akasha/code-system/code-source"
 import ts from "typescript"
-import type { Refusal, Standing } from "../syntax-rule.page-type.ts"
+import type { Given, Refusal } from "../syntax-rule.page-type.ts"
 
 const PIPE = "/dev/stdin"
 
@@ -16,7 +16,7 @@ export function spelledIn(node: ts.Node): readonly string[] {
   return []
 }
 
-export function noSopsOnDevStdin(standing: Standing): readonly Refusal[] {
+export function noSopsOnDevStdin(standing: Given): readonly Refusal[] {
   const found: Refusal[] = []
   const visit = (node: ts.Node): undefined => {
     if (ts.isCallExpression(node)) {

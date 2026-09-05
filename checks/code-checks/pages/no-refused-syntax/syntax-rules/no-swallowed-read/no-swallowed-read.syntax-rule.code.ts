@@ -1,6 +1,6 @@
 import { lineOf } from "@akasha/code-system/code-source"
 import ts from "typescript"
-import type { Refusal, Standing } from "../syntax-rule.page-type.ts"
+import type { Given, Refusal } from "../syntax-rule.page-type.ts"
 
 const WALKED: ReadonlySet<string> = new Set(["Change", "Judging", "Judged"])
 
@@ -198,7 +198,7 @@ function resumesTheWalk(block: ts.Block): string | undefined {
   return said
 }
 
-export function noSwallowedRead(standing: Standing): readonly Refusal[] {
+export function noSwallowedRead(standing: Given): readonly Refusal[] {
   const source = standing.source
   if (!walksAChange(source)) return []
   const reads = readingWith(requiringIn(source))

@@ -1,6 +1,6 @@
 import { lineOf } from "@akasha/code-system/code-source"
 import ts from "typescript"
-import type { Refusal, Standing } from "../syntax-rule.page-type.ts"
+import type { Given, Refusal } from "../syntax-rule.page-type.ts"
 
 const SHIFTED = "so the call hands it the object anyway and every argument after that shifts by one"
 
@@ -11,7 +11,7 @@ function selfDroppedBy(node: ts.MethodDeclaration): boolean {
   return first.type?.kind === ts.SyntaxKind.VoidKeyword
 }
 
-export function noVoidSelfInObjectMethod(standing: Standing): readonly Refusal[] {
+export function noVoidSelfInObjectMethod(standing: Given): readonly Refusal[] {
   const found: Refusal[] = []
   const visit = (node: ts.Node): undefined => {
     if (ts.isObjectLiteralExpression(node)) {

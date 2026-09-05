@@ -1,6 +1,6 @@
 import { lineOf } from "@akasha/code-system/code-source"
 import ts from "typescript"
-import type { Refusal, Standing } from "../syntax-rule.page-type.ts"
+import type { Given, Refusal } from "../syntax-rule.page-type.ts"
 
 const RUNNER_AT = "utils-run/running/"
 
@@ -58,7 +58,7 @@ export function capturedBy(node: ts.CallExpression, bound: Bound): string | null
   return null
 }
 
-export function noRunOutsideTheRunner(standing: Standing): readonly Refusal[] {
+export function noRunOutsideTheRunner(standing: Given): readonly Refusal[] {
   if (standing.path.startsWith(RUNNER_AT)) return []
   const bound = boundIn(standing.source)
   const found: Refusal[] = []

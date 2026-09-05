@@ -1,6 +1,6 @@
 import { lineOf } from "@akasha/code-system/code-source"
 import ts from "typescript"
-import type { Refusal, Standing } from "../syntax-rule.page-type.ts"
+import type { Given, Refusal } from "../syntax-rule.page-type.ts"
 
 const SINKS: ReadonlySet<string> = new Set(["evaluate", "evaluateHandle", "waitForFunction"])
 
@@ -20,7 +20,7 @@ export function credentialNamedIn(node: ts.Node): string | null {
   return ts.forEachChild(node, credentialNamedIn) ?? null
 }
 
-export function noCredentialInScriptText(standing: Standing): readonly Refusal[] {
+export function noCredentialInScriptText(standing: Given): readonly Refusal[] {
   const found: Refusal[] = []
   const visit = (node: ts.Node): undefined => {
     if (ts.isCallExpression(node)) {

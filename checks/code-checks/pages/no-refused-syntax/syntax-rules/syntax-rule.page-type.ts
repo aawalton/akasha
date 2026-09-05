@@ -7,7 +7,7 @@ export type SyntaxRule = Module & {
   test: Test
 }
 
-export type Standing = {
+export type Given = {
   readonly path: string
   readonly source: SourceFile
 }
@@ -17,7 +17,7 @@ export type Refusal = {
   readonly reason: string
 }
 
-export type Judging = (standing: Standing) => readonly Refusal[]
+export type Judging = (standing: Given) => readonly Refusal[]
 
 export const syntaxRule = {
   id: "01a0500d-738b-79f3-8932-7d947cd9b51b",
