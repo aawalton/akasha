@@ -1,0 +1,98 @@
+diff --git a/seat-system/subagents/presence/subagent-presence.module.code.ts b/seat-system/subagents/presence/subagent-presence.module.code.ts
+index a41cfd14e715fc95c0fa278f9a54138f88bf7fde..da88d4fcf64d7f6d17c9b7d73ef3a7d26bdf51b0 100644
+--- a/seat-system/subagents/presence/subagent-presence.module.code.ts
++++ b/seat-system/subagents/presence/subagent-presence.module.code.ts
+@@ -9,6 +9,7 @@ import { exportedAs } from "@akasha/pages-system/page-export-name"
+ import { partedIn } from "@akasha/pages-system/page-file-name"
+ import { textAt, valueAt } from "@akasha/pages-system/page-value"
+ import { supervisorsRootDir } from "@akasha/seat-system/supervisor-log-path"
++import { subagentPageInHistory } from "../../subagent-page-history/subagent-page-history.module.code.ts"
+ 
+ export const SUBAGENTS_AT = "seat-system/subagents/pages"
+ 
+@@ -26,6 +27,10 @@ const SEAT = "seat"
+ 
+ const ASSIGNMENT = "assignmentSlug"
+ 
++const KIND = "dispatchedAs"
++
++const ID = "id"
++
+ const SUFFIX = ".subagent.ts"
+ 
+ export type Went = { readonly went: true } | { readonly why: string }
+@@ -67,12 +72,14 @@ export function bodyOf(
+   seatName: string,
+   assignmentSlug: string,
+   dispatchedAs: string,
+-  agentId: string
++  agentId: string,
++  id: string | null = null
+ ): string {
+   return [
+     'import type { Subagent } from "../subagent.page-type.ts"',
+     "",
+     `export const ${exportedAs(slug)} = {`,
++    ...(id === null ? [] : [`  id: ${said(id)},`]),
+     '  pageTypeSlug: "subagent",',
+     `  slug: ${said(slug)},`,
+     `  principalSeatName: ${said(seatName)},`,
+@@ -108,6 +115,22 @@ async function handed(root: string, changes: readonly FileEdit[], message: strin
+   return { why: `the landing answered ${String(answer.code)} and said nothing` }
+ }
+ 
++function statedIn(values: Record<string, unknown> | null, key: string): string | null {
++  const held = values?.[key]
++  return typeof held === "string" && held !== "" ? held : null
++}
++
++// A SUBAGENT RESUMING TAKES UP THE PAGE IT HAD. This composed a page at every SubagentStart, so a
++// subagent coming back after its page went was minted a second identity under one agent id. What
++// the page said is in the commit that wrote it, and taking that page up again keeps the id, the
++// assignment and the kind it carried — the id above all, because a reader joining what a subagent
++// did across its resume has nothing else to join on.
++//
++// THE KIND CANNOT BE RECOVERED ANYWHERE ELSE. `agent_type` reaches no harness event but
++// SubagentStart and SubagentStop, so no later payload carries it. History is the only source, and
++// that is why the assignment and the kind are taken from the page rather than composed again.
++//
++// A subagent with no page behind it is composed as before, and the landing mints the id it keeps.
+ export async function wrote(
+   root: string,
+   seatName: string,
+@@ -118,7 +141,10 @@ export async function wrote(
+   const slug = slugOf(seatName, own)
+   const at = pathOf(slug)
+   if (existsSync(join(root, at))) return WENT
+-  const assignmentSlug = assignedTo(root, seatName)
++  const agentId = agentIdOf(seatId, own)
++  const had = subagentPageInHistory(root, at, agentId)
++  const held = had === null ? null : had.values
++  const assignmentSlug = statedIn(held, ASSIGNMENT) ?? assignedTo(root, seatName)
+   if (assignmentSlug === null) {
+     return {
+       why:
+@@ -127,12 +153,21 @@ export async function wrote(
+     }
+   }
+   const body = new TextEncoder().encode(
+-    bodyOf(slug, seatName, assignmentSlug, dispatchedAs, agentIdOf(seatId, own))
++    bodyOf(
++      slug,
++      seatName,
++      assignmentSlug,
++      statedIn(held, KIND) ?? dispatchedAs,
++      agentId,
++      statedIn(held, ID)
++    )
+   )
+   return await handed(
+     root,
+     [{ path: at, body }],
+-    `${slug}: a subagent states the agent id it acts under`
++    had === null
++      ? `${slug}: a subagent states the agent id it acts under`
++      : `${slug}: a subagent resuming takes up the page it had`
+   )
+ }
+ 
