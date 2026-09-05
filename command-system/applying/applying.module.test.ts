@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { readFileSync, writeFileSync } from "node:fs"
+import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
@@ -131,4 +131,15 @@ test("a path the patch moved under has no reading recorded", async () => {
   gitSaid(root, ["commit", "-q", "-m", "moved", "--", PAGE])
   await applied(root, PAGE, AGENT, "applied", REFUSES, null)
   expect(readingIn(root, AGENT, PAGE)).toBeNull()
+})
+
+test("a path an apply is handed as a carry moves on disk", async () => {
+  const root = await indexed()
+  drafting(root)
+  writeFileSync(join(root, "held.uncommitted.ts"), "unsaid")
+  const carries = [{ from: "held.uncommitted.ts", to: "deep/held.uncommitted.ts" }]
+  const said = await applied(root, PAGE, AGENT, "applied", ADMITS, null, carries)
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
+  expect(readFileSync(join(root, "deep/held.uncommitted.ts"), "utf8")).toBe("unsaid")
+  expect(existsSync(join(root, "held.uncommitted.ts"))).toBe(false)
 })

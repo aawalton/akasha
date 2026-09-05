@@ -10,7 +10,12 @@ import {
   rebasedOnto,
 } from "../drafting/drafting.module.code.ts"
 import { NO_GATE } from "../gate-building/gate-building.module.code.ts"
-import { type FileEdit, landing, type Refused } from "../landing/landing.module.code.ts"
+import {
+  type FileCarry,
+  type FileEdit,
+  landing,
+  type Refused,
+} from "../landing/landing.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
 
 const NO_PAGE = "a path that is no page keeps no patch"
@@ -75,7 +80,8 @@ export async function applied(
   agentId: string | null,
   message: string,
   judging: Judging,
-  writer: string | null = null
+  writer: string | null = null,
+  carries: readonly FileCarry[] = []
 ): Promise<Applied | Refused> {
   const at = patchAt(page)
   if (at === null) return { refusals: [NO_PAGE] }
