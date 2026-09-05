@@ -30,6 +30,8 @@ export const edit = {
     "the marker blocks repeat, and each is worked in the order stated.",
     "a payload names a run of its own on the line it opens with, so a passage may carry a marker line.",
     "opening at <<<<<<<ZZ old marks that payload with =======ZZ and >>>>>>>ZZ new throughout.",
+    "a marker carrying mid-line ends its passage before the last line ending, so a passage may end mid-line.",
+    "each substitution is worked against what the ones before it left, so an earlier one feeds a later one.",
     "the files beside a path given to --remove go with it, and no list naming that page is mended.",
     "a file has to be what this call read it as, wherever in the repository that file is.",
     "the change is kept in the patch beside this agent's page, and `akasha patch apply` lands it.",
@@ -80,6 +82,10 @@ export const edit = {
       invariantKind: "departure",
       statement:
         "A passage is the bytes of the file or block naming that passage with its trailing newline included.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A block marker carrying `mid-line` ends its passage before that newline.",
     },
     {
       invariantKind: "departure",

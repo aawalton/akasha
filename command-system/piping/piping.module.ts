@@ -83,6 +83,22 @@ export const piping = {
     },
     {
       invariantKind: "departure",
+      statement: "A marker carrying `mid-line` ends the passage before it without that newline.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The split marker ends the passage and the closing marker ends what it becomes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each of the two is ended mid-line on its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A passage carrying no trailing newline is left as it is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The blocks are answered in the order the blocks are written.",
     },
     {

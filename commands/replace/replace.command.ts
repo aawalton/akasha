@@ -24,6 +24,7 @@ export const replace = {
     "a passage piped in sits between <<<<<<< old and =======, and what it becomes before >>>>>>> new.",
     "a payload names a run of its own on the line it opens with, so a passage may carry a marker line.",
     "opening at <<<<<<<ZZ old marks that payload with =======ZZ and >>>>>>>ZZ new throughout.",
+    "a marker carrying mid-line ends its passage before the last line ending, so a passage may end mid-line.",
     "the passage is matched as the bytes it is rather than as a pattern.",
     "a file named that holds the passage nowhere refuses the call, so name only the files that change.",
     "--dry-run is how the files that hold the passage are found.",
@@ -78,6 +79,10 @@ export const replace = {
     {
       invariantKind: "departure",
       statement: "A passage carries the trailing newline of the file naming it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A block marker carrying `mid-line` ends its passage before that newline.",
     },
     {
       invariantKind: "departure",

@@ -180,3 +180,47 @@ test("a marked line is judged against the run the payload names", () => {
 test("a run named is carried into what a refusal says is missing", () => {
   expect(refusalIn("<<<<<<<ZZ old\nalpha\n")).toContain("closed by no `=======ZZ`")
 })
+
+test("a split marker saying mid-line ends the passage before its last line ending", () => {
+  const said = "<<<<<<< old\nalpha\n======= mid-line\ndelta\n>>>>>>> new\n"
+  expect(passagesOf(said)).toEqual([["alpha", "delta\n"]])
+})
+
+test("a closing marker saying mid-line ends what the passage becomes the same way", () => {
+  const said = "<<<<<<< old\nalpha\n=======\ndelta\n>>>>>>> new mid-line\n"
+  expect(passagesOf(said)).toEqual([["alpha\n", "delta"]])
+})
+
+test("each side is ended mid-line on its own", () => {
+  const said = "<<<<<<< old\nfoo\n======= mid-line\nbar\n>>>>>>> new mid-line\n"
+  expect(passagesOf(said)).toEqual([["foo", "bar"]])
+})
+
+test("a passage ended mid-line carries the lines before its last whole", () => {
+  const said = "<<<<<<< old\na\nb\n======= mid-line\nc\nd\n>>>>>>> new mid-line\n"
+  expect(passagesOf(said)).toEqual([["a\nb", "c\nd"]])
+})
+
+test("a run of its own carries the mid-line marker too", () => {
+  const said = "<<<<<<<ZZ old\nalpha\n=======ZZ mid-line\ndelta\n>>>>>>>ZZ new mid-line\n"
+  expect(passagesOf(said)).toEqual([["alpha", "delta"]])
+})
+
+test("a passage holding no line ending is left as it is", () => {
+  const said = "<<<<<<< old\n======= mid-line\ndelta\n>>>>>>> new\n"
+  expect(passagesOf(said)).toEqual([["", "delta\n"]])
+})
+
+test("a closing marker saying mid-line before any split is refused for the split", () => {
+  const said = "<<<<<<< old\nalpha\n>>>>>>> new mid-line\n"
+  expect(refusalIn(said)).toContain("closed by no `=======`")
+})
+
+test("one block ended mid-line leaves the next block whole", () => {
+  const said =
+    "<<<<<<< old\na\n======= mid-line\nb\n>>>>>>> new\n<<<<<<< old\nc\n=======\nd\n>>>>>>> new\n"
+  expect(passagesOf(said)).toEqual([
+    ["a", "b\n"],
+    ["c\n", "d\n"],
+  ])
+})
