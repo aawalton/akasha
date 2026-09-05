@@ -26,6 +26,7 @@ export const temperProgress = {
     "readout/inboxes-temper-tasks",
     "relation-property/action",
     "relation-property/condition-field",
+    "relation-property/goal",
     "text-property/condition-value",
     "text-property/destination",
   ],
