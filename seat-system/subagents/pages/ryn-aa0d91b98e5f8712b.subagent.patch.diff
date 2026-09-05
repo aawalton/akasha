@@ -1,0 +1,46 @@
+diff --git a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
+index dde3c3bec2af76de4d21cbdfa2eca1b1d1f481c6..2eff6311264b6b107c48387066dd1af2b2f9fc68 100644
+--- a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
++++ b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
+@@ -29,6 +29,7 @@ const INDEFINITE = [
+   "someone",
+   "something",
+ ]
++const FREE_CHOICE = ["whatever", "whichever"]
+ const REFLEXIVE = [
+   "herself",
+   "himself",
+diff --git a/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.code.ts b/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.code.ts
+index d681f9d77dfdd66d9fe25d5a567c60caca56de76..fb40c5d488ddd935a2b5589c237b28f398163ee5 100644
+--- a/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.code.ts
++++ b/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.code.ts
+@@ -2,6 +2,7 @@ import type { Match, ShapePredicate } from "@akasha/plain-language/shape-predica
+ import {
+   fillsNounSlot,
+   isDemonstrative,
++  isFreeChoice,
+   isIndefinite,
+   isPronoun,
+   isQuantifier,
+diff --git a/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.ts b/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.ts
+index 08a260f1686071cfdb1955599eb3241aca95cc5b..76b40a18a401d48969d7111cac15e0762975d54a 100644
+--- a/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.ts
++++ b/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.ts
+@@ -16,8 +16,15 @@ export const lonePronoun = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A free relative is a lone pronoun, because naming the thing a clause holds costs less.",
++      statement: "A free relative is a lone pronoun.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "`Whatever` and `whichever` are passed over.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The tree shapes `whatever` alike whether that word names a thing or not.",
+     },
+   ],
+ } as const satisfies SentenceShape
