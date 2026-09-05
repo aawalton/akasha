@@ -41,7 +41,7 @@ export const athenaCommandsAtTheRoot = {
     {
       statement: "Nothing names a command by its path.",
       workingMemory:
-        "Met for the editor, the shell, the recipient resolver and monarch. The mover repoints a whole path in a literal, but never a prefix assembled at runtime nor a command's name sitting in an argv array: `COMMANDS_AT`, `ENDED_DIR` and every `ops` spawn were each invisible for that reason and none had a test. `REPAIR_AT` in calling is left, naming a file in a message rather than in dispatch. A path to a command goes when the spawn does, so importing instead meets this too.",
+        "Met for the shell, the recipient resolver and monarch, and not for the editor: `harness-call` assembles `root/commands/<c>/<c>.command.code.ts` for eleven callers, and its own page claims a command's file is named beside its page rather than assembled. The guard is blind to that by its declared gap, a name built as the code runs is not seen, so it reads the two `akasha tracking` spawns in `alan/tracking` and nothing else. `SEAT_COMMAND_REL` is generated shell only, and `REPAIR_AT` is a message.",
     },
     {
       statement: "Command pages cannot define domain logic, only command concerns.",
