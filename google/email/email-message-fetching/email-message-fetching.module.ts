@@ -13,7 +13,7 @@ export const emailMessageFetching = {
     },
     {
       invariantKind: "departure",
-      statement: "What reaches Gmail is loaded when a caller asks rather than at import.",
+      statement: "The code that reaches Gmail is loaded when a caller asks rather than at import.",
     },
     {
       invariantKind: "absence",
