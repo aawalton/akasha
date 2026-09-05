@@ -1,10 +1,5 @@
 import * as path from "node:path"
-import {
-  akashaRoot,
-  commandPath,
-  repositoryPath,
-  runCommand,
-} from "../harness-call/harness-call.module.code.ts"
+import { akashaRoot, repositoryPath, runCommand } from "../harness-call/harness-call.module.code.ts"
 import { colorNamed } from "../palette/palette.module.code.ts"
 
 const CALL_TIMEOUT_MS = 30_000
@@ -61,7 +56,7 @@ export async function readSeatTurnColors(
   if (agentIds.length === 0) {
     return new Map<string, string>()
   }
-  const stdout = await runCommand(commandPath(COMMAND), agentIds, {
+  const stdout = await runCommand(COMMAND, agentIds, {
     timeout: CALL_TIMEOUT_MS,
     maxBuffer: MAX_BUFFER,
   })

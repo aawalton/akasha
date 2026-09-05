@@ -48,9 +48,12 @@ export const harnessCall = {
       statement: "A command's file is named beside the command's page rather than assembled.",
     },
     {
+      invariantKind: "departure",
+      statement: "A command is named to the harness by its name rather than by its file.",
+    },
+    {
       invariantKind: "constraint",
-      statement:
-        "A command file outside the akasha commands folder is spawned rather than asked of the server.",
+      statement: "A command the index names no single page for is refused as unreachable.",
     },
     {
       invariantKind: "departure",

@@ -4,6 +4,7 @@ import * as os from "node:os"
 import * as path from "node:path"
 import { promisify } from "node:util"
 import { answerBytesSaid } from "@akasha/command-system/answer-bytes"
+import { commandFileIn } from "@akasha/command-system/calling"
 import { isServed } from "@akasha/command-system/commands-served"
 import {
   askServed,
@@ -18,13 +19,7 @@ export function akashaRoot(): string {
   return stated === undefined || stated === "" ? path.join(os.homedir(), "repos", "akasha") : stated
 }
 
-const COMMANDS_AT = "commands"
-
 const SERVER_AT = "command-system/command-server/command-server.module.code.ts"
-
-export function commandPath(command: string): string {
-  return path.join(akashaRoot(), COMMANDS_AT, command, `${command}.command.code.ts`)
-}
 
 export function serverPath(): string {
   return path.join(akashaRoot(), SERVER_AT)
@@ -137,27 +132,31 @@ export function disposeCommandServer(): undefined {
   return undefined
 }
 
-const CARRIED = /\.(?:command|module)\.code\.ts$/
-
-export function commandNamed(commandFile: string): string {
-  const named = path.basename(commandFile)
-  return CARRIED.test(named) ? named.replace(CARRIED, "") : named.replace(/\.ts$/, "")
+export function commandFile(command: string): string {
+  const root = akashaRoot()
+  const beside = commandFileIn(root, command)
+  if (beside === null) {
+    throw new HarnessUnreachableError(
+      `the index at ${root} names no single page for \`${command}\`, ` +
+        `so nothing says which file holds that command`
+    )
+  }
+  return path.join(root, beside)
 }
 
 export async function runCommand(
-  commandFile: string,
+  command: string,
   args: readonly string[],
   options: HarnessCallOptions
 ): Promise<string> {
-  const command = commandNamed(commandFile)
-  if (isServed(command) && commandFile === commandPath(command)) {
+  if (isServed(command)) {
     const answer = await askServed(servedClient(), command, args, options.timeout)
     if (answer.code !== 0) {
       throw new Error(`${command} exited ${answer.code}: ${answer.stderr.trim()}`)
     }
     return whole(command, answer.stdout, answer.stderr)
   }
-  return run(command, path.join(bunDirectory(), "bun"), [commandFile, ...args], options)
+  return run(command, path.join(bunDirectory(), "bun"), [commandFile(command), ...args], options)
 }
 
 export function unreachableMessage(error: unknown): string {

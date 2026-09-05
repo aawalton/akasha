@@ -1,5 +1,5 @@
 import * as path from "node:path"
-import { commandPath, runCommand } from "../harness-call/harness-call.module.code.ts"
+import { runCommand } from "../harness-call/harness-call.module.code.ts"
 import { rollUp } from "../work-tree-colors/work-tree-colors.module.code.ts"
 import type {
   WorkColors,
@@ -94,7 +94,7 @@ export function readWorkColorsAnswer(answered: unknown): WorkColors {
 }
 
 async function ask(args: readonly string[]): Promise<unknown> {
-  const stdout = await runCommand(commandPath(COMMAND), args, {
+  const stdout = await runCommand(COMMAND, args, {
     timeout: CALL_TIMEOUT_MS,
     maxBuffer: MAX_BUFFER,
   })

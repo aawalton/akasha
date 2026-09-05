@@ -20,6 +20,10 @@ export const calling = {
     },
     {
       invariantKind: "departure",
+      statement: "The file holding a command's code is answered from the page the index names.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The command that repairs the index is found through the index as every other command is.",
     },

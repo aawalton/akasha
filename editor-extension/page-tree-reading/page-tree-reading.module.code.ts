@@ -1,6 +1,6 @@
 import * as path from "node:path"
 import { z } from "zod"
-import { akashaRoot, commandPath, runCommand } from "../harness-call/harness-call.module.code.ts"
+import { akashaRoot, runCommand } from "../harness-call/harness-call.module.code.ts"
 import {
   assemblePageTree,
   type PageAnswers,
@@ -74,7 +74,7 @@ export function readPageAnswers(answered: unknown): PageAnswers {
 }
 
 export async function readPageTree(): Promise<PageTree> {
-  const stdout = await runCommand(commandPath(COMMAND), [], {
+  const stdout = await runCommand(COMMAND, [], {
     timeout: CALL_TIMEOUT_MS,
     maxBuffer: MAX_BUFFER,
   })

@@ -124,6 +124,15 @@ function pageAt(root: string, slug: string): string | null {
   return found.length === 1 ? (found[0]?.path ?? null) : null
 }
 
+function fileBeside(page: string): string | null {
+  return besideAt(page, CODE, TS)
+}
+
+export function commandFileIn(root: string, slug: string): string | null {
+  const page = pageAt(root, slug)
+  return page === null ? null : fileBeside(page)
+}
+
 function pageIn(root: string, path: string, slug: string): Record<string, unknown> | null {
   const reached = reachedIn(join(root, path))
   if ("why" in reached) return null
@@ -237,7 +246,7 @@ async function answeredBy(
   argv: readonly string[],
   outside: Outside
 ): Promise<Answer> {
-  const beside = besideAt(path, CODE, TS)
+  const beside = fileBeside(path)
   if (beside === null) {
     return refusing(
       `\`${named}\` is a command page, and no code file can sit beside a name like it`

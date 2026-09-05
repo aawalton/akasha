@@ -1,7 +1,7 @@
 import * as vscode from "vscode"
 import { output } from "../agent-tree-state/agent-tree-state.module.code.ts"
 import { seatTerminalOptions } from "../editor-group/editor-group.module.code.ts"
-import { commandPath, runCommand } from "../harness-call/harness-call.module.code.ts"
+import { runCommand } from "../harness-call/harness-call.module.code.ts"
 import type { ToggleTarget } from "../invoked-seat/invoked-seat.module.code.ts"
 import { columnForSeat } from "../seat-showing/seat-showing.module.code.ts"
 import { readSeatLookup } from "../seat-terminals/seat-terminals.module.code.ts"
@@ -20,7 +20,7 @@ const MAX_BUFFER = 1024 * 1024
 const inFlight = new Set<string>()
 
 async function runSeat(args: readonly string[]): Promise<undefined> {
-  await runCommand(commandPath(SEAT_COMMAND), args, {
+  await runCommand(SEAT_COMMAND, args, {
     timeout: SEAT_TIMEOUT_MS,
     maxBuffer: MAX_BUFFER,
   })

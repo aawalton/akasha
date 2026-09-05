@@ -1,4 +1,4 @@
-import { commandPath, runCommand } from "../harness-call/harness-call.module.code.ts"
+import { runCommand } from "../harness-call/harness-call.module.code.ts"
 
 const CALL_TIMEOUT_MS = 30_000
 
@@ -38,7 +38,7 @@ function meanIn(held: Record<string, unknown>, field: string): Mean {
 }
 
 export async function readUsage(): Promise<UsageReading> {
-  const stdout = await runCommand(commandPath(COMMAND), [], {
+  const stdout = await runCommand(COMMAND, [], {
     timeout: CALL_TIMEOUT_MS,
     maxBuffer: MAX_BUFFER,
   })

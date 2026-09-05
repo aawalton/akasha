@@ -1,7 +1,7 @@
 import { readdir, readFile, stat } from "node:fs/promises"
 import * as path from "node:path"
 import { z } from "zod"
-import { commandPath, runCommand } from "../harness-call/harness-call.module.code.ts"
+import { runCommand } from "../harness-call/harness-call.module.code.ts"
 
 export interface SeatTranscript {
   readonly agentId: string
@@ -59,7 +59,7 @@ export async function readSeatTranscripts(): Promise<readonly SeatTranscript[]> 
   if (held !== null && now - held.at < HOLD_MS) {
     return held.seats
   }
-  const stdout = await runCommand(commandPath("seat-transcripts"), [], {
+  const stdout = await runCommand("seat-transcripts", [], {
     timeout: CALL_TIMEOUT_MS,
     maxBuffer: MAX_BUFFER,
   })

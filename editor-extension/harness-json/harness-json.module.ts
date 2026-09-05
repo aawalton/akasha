@@ -13,12 +13,7 @@ export const harnessJson = {
     },
     {
       invariantKind: "constraint",
-      statement: "A command printing what is no JSON is refused by the file's name.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A command is named by its file or by the name the harness files that command under.",
+      statement: "A command printing what is no JSON is refused by the command's name.",
     },
     {
       invariantKind: "departure",
