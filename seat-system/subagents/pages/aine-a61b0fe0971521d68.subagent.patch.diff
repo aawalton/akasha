@@ -63,7 +63,7 @@ index 2efa3071040dd43cd89b1f989b25add512fa981c..633bd627e7750c7331a0f26f027c768e
  export function sleptUntilStopped(ms: number, signal: AbortSignal): Promise<boolean> {
    if (signal.aborted) return Promise.resolve(false)
 diff --git a/service-system/workstation-services/tick-sleeping/tick-sleeping.module.ts b/service-system/workstation-services/tick-sleeping/tick-sleeping.module.ts
-index 578ecf437dff186d60d52bd8572a480fd5983aa7..b91ecc306b6a6dac6a0e316eb89685e29b6866b3 100644
+index 578ecf437dff186d60d52bd8572a480fd5983aa7..4daefdf85132968a2d61bd3284a47de6d119bb02 100644
 --- a/service-system/workstation-services/tick-sleeping/tick-sleeping.module.ts
 +++ b/service-system/workstation-services/tick-sleeping/tick-sleeping.module.ts
 @@ -4,7 +4,7 @@ export const tickSleeping = {
@@ -84,6 +84,15 @@ index 578ecf437dff186d60d52bd8572a480fd5983aa7..b91ecc306b6a6dac6a0e316eb89685e2
      },
      {
        invariantKind: "departure",
+@@ -30,7 +30,7 @@ export const tickSleeping = {
+     {
+       invariantKind: "absence",
+       statement:
+-        "No standing service writes this wait for itself, so no two of them drift on how a stop is honoured.",
++        "No service that keeps running writes this wait for itself, so no two of them drift on how a stop is honoured.",
+     },
+   ],
+ } as const satisfies Module
 diff --git a/service-system/workstation-services/workstation-service.page-type.ts b/service-system/workstation-services/workstation-service.page-type.ts
 index 412c3999f387a6a2cd3c96fc7d587d344061e5bd..c8ce76a2d330892238ca1873db3ec85322937986 100644
 --- a/service-system/workstation-services/workstation-service.page-type.ts
