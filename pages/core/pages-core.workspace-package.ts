@@ -75,7 +75,7 @@ export const pagesCore = {
     "module/entries-36",
     "module/entries-37",
     "module/expand-date-mentions",
-    "module/filter-to-condition",
+    "domain/pages-core-filter",
     "module/filter-utils",
     "module/format-smart-date",
     "module/formula",
