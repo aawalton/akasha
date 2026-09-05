@@ -1,0 +1,12 @@
+diff --git a/infrastructure/inference-commands/inference-video-qa/inference-video-qa.command.ts b/infrastructure/inference-commands/inference-video-qa/inference-video-qa.command.ts
+index 830968b42921da1b6dba0eaf9fa59e016632b1be..572171cdf4fa94fc995e7d60e31d354d4e4cadb4 100644
+--- a/infrastructure/inference-commands/inference-video-qa/inference-video-qa.command.ts
++++ b/infrastructure/inference-commands/inference-video-qa/inference-video-qa.command.ts
+@@ -24,7 +24,6 @@ export const inferenceVideoQa = {
+     "the frames sampled are spread evenly across the ones there are rather than taken from the front.",
+     "a rate nothing named leaves every frame in place before sampling.",
+     "the answer is what the model said, and it is the run row's output as well.",
+-    "a run row is filed whether the reading finished or failed.",
+   ],
+   invariants: [
+     {
