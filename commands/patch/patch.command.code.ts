@@ -1,5 +1,5 @@
 import { patchAt, patchIn } from "@akasha/agents/patch-keeping"
-import { agentPathOf } from "@akasha/context-system/warranting"
+import { agentPathOf } from "@akasha/context/warranting"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { partedIn } from "@akasha/pages-system/page-file-name"
 import { textAt as textIn, valueAt } from "@akasha/pages-system/page-value"
