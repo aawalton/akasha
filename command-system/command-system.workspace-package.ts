@@ -13,6 +13,7 @@ export const commandSystem = {
     "module/payload",
     "page-type/command",
     "page-type/namespace",
+    "page-type/refactor-command",
     "module/calling",
     "module/command-declaring",
     "module/gated-write",

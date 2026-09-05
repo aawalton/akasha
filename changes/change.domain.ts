@@ -7,6 +7,7 @@ export const change = {
   definition: "everything one act edits",
   pluralSlug: "changes",
   partSlugs: [
+    "page-type/atomic-change",
     "page-type/workflow-template",
     "page-type/change-kind",
     "workspace-package/workflow-language",
