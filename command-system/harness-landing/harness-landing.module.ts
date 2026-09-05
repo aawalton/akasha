@@ -28,7 +28,7 @@ export const harnessLanding = {
     {
       invariantKind: "departure",
       statement:
-        "A composed body that comes out the same as what was there is not written and is not committed.",
+        "A composed body that comes out the same as the old body is not written and is not committed.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +36,7 @@ export const harnessLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing that could not establish what git holds touches nothing at all.",
+      statement: "A landing that could not establish the paths git holds touches nothing at all.",
     },
   ],
 } as const satisfies Module
