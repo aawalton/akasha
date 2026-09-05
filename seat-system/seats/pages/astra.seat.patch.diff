@@ -1,0 +1,315 @@
+runsWarrants: false
+diff --git a/domains/initiatives/pages/astra-pages-cleanup.initiative.ts b/domains/initiatives/pages/astra-pages-cleanup.initiative.ts
+index f5e87266356f11c61bcfe6d3b15954335d1a67dc..77da6872c5f4c356b615faad02a90ad057ae5af7 100644
+--- a/domains/initiatives/pages/astra-pages-cleanup.initiative.ts
++++ b/domains/initiatives/pages/astra-pages-cleanup.initiative.ts
+@@ -15,7 +15,7 @@ export const astraPagesCleanup = {
+     {
+       statement: "The pages/ folder passes the `folder-matches-a-shape` check.",
+       workingMemory:
+-        "At `e83c3893`: `pages/` refuses twice, down from 65. The 31 grouping folders now hold domains of their own, and every rename is landed. `system-service/workstation-services` holds one page of one type, and the shape that would match it, `pages-of-one-type`, is written with `enabled: false`; `temper/temper-watcher/workstation-services` refuses identically. `pages/calculations` is another seat's in-flight work.",
++        "At `e83c3893`: `pages/` refuses twice, down from 65. The 31 grouping folders now hold domains of their own, and every rename is landed. `system-service/workstation-services` holds one page of one type, and the shape that would match it, `pages-of-one-type`, is written with `enabled: false`; `temper/temper-watcher/workstation-services` refuses identically. `pages/calculation-loading` is another seat's in-flight work.",
+     },
+   ],
+ } as const satisfies Initiative
+diff --git a/pages/calculation-loading/calculation-loading.module.code.ts b/pages/calculation-loading/calculation-loading.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..64937b3707ab2417e711a9d7ee4e20aafc645254
+--- /dev/null
++++ b/pages/calculation-loading/calculation-loading.module.code.ts
+@@ -0,0 +1,26 @@
++import type { Held, Work } from "../computing/page-computing.module.code.ts"
++import { declaredIn } from "../value/page-value.module.code.ts"
++
++const WORK = "work"
++
++export type Loaded = { readonly work: Work<Held, unknown> } | { readonly failed: string }
++
++function whyOf(thrown: unknown): string {
++  return thrown instanceof Error ? thrown.message : String(thrown)
++}
++
++export function workIn(body: string): Loaded {
++  let declared: Record<string, unknown>
++  try {
++    declared = declaredIn(body)
++  } catch (thrown) {
++    return { failed: whyOf(thrown) }
++  }
++  const held = declared[WORK]
++  if (typeof held === "function") return { work: held as Work<Held, unknown> }
++  const named = Object.keys(declared).sort()
++  const what = named.length === 0 ? "nothing" : named.map((one) => `\`${one}\``).join(", ")
++  return {
++    failed: `a calculation is the export named \`work\`, and this code file exports ${what}`,
++  }
++}
+diff --git a/pages/calculation-loading/calculation-loading.module.test.ts b/pages/calculation-loading/calculation-loading.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1f606a5dd241c1befdc0a761b235cb6c44451e2b
+--- /dev/null
++++ b/pages/calculation-loading/calculation-loading.module.test.ts
+@@ -0,0 +1,54 @@
++import { describe, expect, test } from "bun:test"
++import type { Held } from "../computing/page-computing.module.code.ts"
++import { workIn } from "./calculation-loading.module.code.ts"
++
++const CALCULATION = [
++  'import type { Work } from "@akasha/pages-system/computed-property"',
++  'import type { WakeDay } from "../wake-day.page-type.ts"',
++  "",
++  "export const work: Work<WakeDay, number> = (page) => {",
++  "  const volume = page.strengthVolume",
++  "  return volume === undefined ? null : volume / 7",
++  "}",
++].join("\n")
++
++describe("the calculation a code file exports", () => {
++  test("a code file exporting `work` answers that function", () => {
++    const loaded = workIn(CALCULATION)
++    if ("failed" in loaded) throw new Error(loaded.failed)
++    expect(loaded.work({ strengthVolume: 700 } as Held, { target: () => null })).toBe(100)
++  })
++
++  test("a calculation reading a key the page does not carry answers nothing", () => {
++    const loaded = workIn(CALCULATION)
++    if ("failed" in loaded) throw new Error(loaded.failed)
++    expect(loaded.work({} as Held, { target: () => null })).toBe(null)
++  })
++
++  test("a type an import names is gone before the text is run", () => {
++    expect("failed" in workIn(CALCULATION)).toBe(false)
++  })
++
++  test("a code file exporting no `work` is refused by what that file does export", () => {
++    const loaded = workIn("export const other = 1\nexport const another = 2\n")
++    if (!("failed" in loaded)) throw new Error("nothing was refused")
++    expect(loaded.failed).toContain("`another`, `other`")
++    expect(loaded.failed).toContain("the export named `work`")
++  })
++
++  test("a code file exporting nothing at all is refused", () => {
++    const loaded = workIn("const work = 1\n")
++    if (!("failed" in loaded)) throw new Error("nothing was refused")
++    expect(loaded.failed).toContain("exports nothing")
++  })
++
++  test("a code file importing a value rather than a type does not load", () => {
++    const loaded = workIn('import { each } from "./neighbour.ts"\nexport const work = () => each\n')
++    expect("failed" in loaded).toBe(true)
++  })
++
++  test("a code file that will not parse is refused rather than thrown out of", () => {
++    const loaded = workIn("export const work = (\n")
++    expect("failed" in loaded).toBe(true)
++  })
++})
+diff --git a/pages/calculation-loading/calculation-loading.module.ts b/pages/calculation-loading/calculation-loading.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..afd122c0bad54f1190055fee899d81245c70ebba
+--- /dev/null
++++ b/pages/calculation-loading/calculation-loading.module.ts
+@@ -0,0 +1,46 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const calculationLoading = {
++  id: "01a071f0-b9d7-754a-83dc-36f3c40b2d10",
++  pageTypeSlug: "module",
++  slug: "calculation-loading",
++  definition: "the function a computed property's code file exports, taken from that file's text",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A calculation is the export named `work`.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A code file exporting no `work` is refused by what that file does export.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A code file importing a value rather than a type does not load.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A calculation is read from the text of its code file rather than through an import.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A type an import names is gone before the text is run.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The pages package reaches a calculation without naming the domain holding that calculation.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here opens a file.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here runs the calculation this module answers.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/pages/calculations/calculation-loading.module.code.ts b/pages/calculations/calculation-loading.module.code.ts
+deleted file mode 100644
+index 64937b3707ab2417e711a9d7ee4e20aafc645254..0000000000000000000000000000000000000000
+--- a/pages/calculations/calculation-loading.module.code.ts
++++ /dev/null
+@@ -1,26 +0,0 @@
+-import type { Held, Work } from "../computing/page-computing.module.code.ts"
+-import { declaredIn } from "../value/page-value.module.code.ts"
+-
+-const WORK = "work"
+-
+-export type Loaded = { readonly work: Work<Held, unknown> } | { readonly failed: string }
+-
+-function whyOf(thrown: unknown): string {
+-  return thrown instanceof Error ? thrown.message : String(thrown)
+-}
+-
+-export function workIn(body: string): Loaded {
+-  let declared: Record<string, unknown>
+-  try {
+-    declared = declaredIn(body)
+-  } catch (thrown) {
+-    return { failed: whyOf(thrown) }
+-  }
+-  const held = declared[WORK]
+-  if (typeof held === "function") return { work: held as Work<Held, unknown> }
+-  const named = Object.keys(declared).sort()
+-  const what = named.length === 0 ? "nothing" : named.map((one) => `\`${one}\``).join(", ")
+-  return {
+-    failed: `a calculation is the export named \`work\`, and this code file exports ${what}`,
+-  }
+-}
+diff --git a/pages/calculations/calculation-loading.module.test.ts b/pages/calculations/calculation-loading.module.test.ts
+deleted file mode 100644
+index 1f606a5dd241c1befdc0a761b235cb6c44451e2b..0000000000000000000000000000000000000000
+--- a/pages/calculations/calculation-loading.module.test.ts
++++ /dev/null
+@@ -1,54 +0,0 @@
+-import { describe, expect, test } from "bun:test"
+-import type { Held } from "../computing/page-computing.module.code.ts"
+-import { workIn } from "./calculation-loading.module.code.ts"
+-
+-const CALCULATION = [
+-  'import type { Work } from "@akasha/pages-system/computed-property"',
+-  'import type { WakeDay } from "../wake-day.page-type.ts"',
+-  "",
+-  "export const work: Work<WakeDay, number> = (page) => {",
+-  "  const volume = page.strengthVolume",
+-  "  return volume === undefined ? null : volume / 7",
+-  "}",
+-].join("\n")
+-
+-describe("the calculation a code file exports", () => {
+-  test("a code file exporting `work` answers that function", () => {
+-    const loaded = workIn(CALCULATION)
+-    if ("failed" in loaded) throw new Error(loaded.failed)
+-    expect(loaded.work({ strengthVolume: 700 } as Held, { target: () => null })).toBe(100)
+-  })
+-
+-  test("a calculation reading a key the page does not carry answers nothing", () => {
+-    const loaded = workIn(CALCULATION)
+-    if ("failed" in loaded) throw new Error(loaded.failed)
+-    expect(loaded.work({} as Held, { target: () => null })).toBe(null)
+-  })
+-
+-  test("a type an import names is gone before the text is run", () => {
+-    expect("failed" in workIn(CALCULATION)).toBe(false)
+-  })
+-
+-  test("a code file exporting no `work` is refused by what that file does export", () => {
+-    const loaded = workIn("export const other = 1\nexport const another = 2\n")
+-    if (!("failed" in loaded)) throw new Error("nothing was refused")
+-    expect(loaded.failed).toContain("`another`, `other`")
+-    expect(loaded.failed).toContain("the export named `work`")
+-  })
+-
+-  test("a code file exporting nothing at all is refused", () => {
+-    const loaded = workIn("const work = 1\n")
+-    if (!("failed" in loaded)) throw new Error("nothing was refused")
+-    expect(loaded.failed).toContain("exports nothing")
+-  })
+-
+-  test("a code file importing a value rather than a type does not load", () => {
+-    const loaded = workIn('import { each } from "./neighbour.ts"\nexport const work = () => each\n')
+-    expect("failed" in loaded).toBe(true)
+-  })
+-
+-  test("a code file that will not parse is refused rather than thrown out of", () => {
+-    const loaded = workIn("export const work = (\n")
+-    expect("failed" in loaded).toBe(true)
+-  })
+-})
+diff --git a/pages/calculations/calculation-loading.module.ts b/pages/calculations/calculation-loading.module.ts
+deleted file mode 100644
+index afd122c0bad54f1190055fee899d81245c70ebba..0000000000000000000000000000000000000000
+--- a/pages/calculations/calculation-loading.module.ts
++++ /dev/null
+@@ -1,46 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const calculationLoading = {
+-  id: "01a071f0-b9d7-754a-83dc-36f3c40b2d10",
+-  pageTypeSlug: "module",
+-  slug: "calculation-loading",
+-  definition: "the function a computed property's code file exports, taken from that file's text",
+-  code: "ts",
+-  test: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A calculation is the export named `work`.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A code file exporting no `work` is refused by what that file does export.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A code file importing a value rather than a type does not load.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A calculation is read from the text of its code file rather than through an import.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A type an import names is gone before the text is run.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The pages package reaches a calculation without naming the domain holding that calculation.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here opens a file.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here runs the calculation this module answers.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/pages/package.json b/pages/package.json
+index 78c63c01c72680b5c1c52c14c91aded03173f3cc..f8d3d4fb2ec275151bdc5a67acff83fcb0aa6608 100644
+--- a/pages/package.json
++++ b/pages/package.json
+@@ -4,7 +4,7 @@
+   "type": "module",
+   "exports": {
+     "./boolean-property": "./boolean-properties/boolean-property.page-type.ts",
+-    "./calculation-loading": "./calculations/calculation-loading.module.code.ts",
++    "./calculation-loading": "./calculation-loading/calculation-loading.module.code.ts",
+     "./calendar-date-property": "./calendar-date-properties/calendar-date-property.page-type.ts",
+     "./calendar-time-property": "./calendar-time-properties/calendar-time-property.page-type.ts",
+     "./change": "./change/change.module.code.ts",
