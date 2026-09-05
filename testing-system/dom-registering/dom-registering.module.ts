@@ -17,7 +17,7 @@ export const domRegistering = {
     },
     {
       invariantKind: "departure",
-      statement: "What one test rendered is taken away before the next test runs.",
+      statement: "The components one test rendered are taken away before the next test runs.",
     },
     {
       invariantKind: "absence",
