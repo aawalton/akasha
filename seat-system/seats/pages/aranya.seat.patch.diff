@@ -247,3 +247,11 @@ index 4d603159b29e35f70634ea7c830be984bb2c8eb5..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../infrastructure/dockerfiles
 \ No newline at end of file
+diff --git a/infrastructure/eso-rig/eso-rig b/infrastructure/eso-rig/eso-rig
+deleted file mode 120000
+index 2533f1f2163c5462c4ace809680d9f5371be9285..0000000000000000000000000000000000000000
+--- a/infrastructure/eso-rig/eso-rig
++++ /dev/null
+@@ -1 +0,0 @@
+-../../infrastructure/eso-rig
+\ No newline at end of file
