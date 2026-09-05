@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
-index c535fa6cc31e1ed491e208359b47be8e34bf1d40..bb32b43f0d1cb95ab6de0523ecc8ada3bac943e5 100644
+index c535fa6cc31e1ed491e208359b47be8e34bf1d40..d0f55dbe30e1ae53e98bda4052c9bb2e5a921986 100644
 --- a/command-system/landing/landing.module.ts
 +++ b/command-system/landing/landing.module.ts
 @@ -52,11 +52,11 @@ export const landing = {
@@ -56,6 +56,15 @@ index c535fa6cc31e1ed491e208359b47be8e34bf1d40..bb32b43f0d1cb95ab6de0523ecc8ada3
        statement:
 -        "A draft is judged against what the patch would hold rather than the change alone.",
 +        "A draft is judged against the bodies the patch would hold rather than the change alone.",
+     },
+     {
+       invariantKind: "departure",
+@@ -226,7 +227,7 @@ export const landing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a draft was judged over is answered alongside what was drafted.",
++      statement: "The paths a draft was judged over are answered alongside the paths drafted.",
      },
      {
        invariantKind: "departure",
