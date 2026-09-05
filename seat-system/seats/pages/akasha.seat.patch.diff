@@ -1,5 +1,5 @@
 diff --git a/pages/indexes/answering/index-answering.module.code.ts b/pages/indexes/answering/index-answering.module.code.ts
-index 0fbae564832ac2e253fb98de8273d4cf4fe88f95..0b938cc437d8898df0b88c52799f47e4c8fc271b 100644
+index 0fbae564832ac2e253fb98de8273d4cf4fe88f95..82376939c24a2de51ec5d78c7205dfddd3ce0a16 100644
 --- a/pages/indexes/answering/index-answering.module.code.ts
 +++ b/pages/indexes/answering/index-answering.module.code.ts
 @@ -40,8 +40,6 @@ import {
@@ -19,3 +19,11 @@ index 0fbae564832ac2e253fb98de8273d4cf4fe88f95..0b938cc437d8898df0b88c52799f47e4
    readonly sourceIn: () => Source
    readonly typeSlugById: (id: string) => string | null
    readonly typeSlugOf: (id: string) => string
+@@ -106,7 +103,6 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
+     propertiesIfNamed: (pageTypeSlug) => propertiesIfNamedOf(pageTypeSlug, reading, pageOf),
+     schemaAt: () => schemaAt(reading),
+     sidecarsAt: () => sidecarsOver(reading, []),
+-    schemaOf: (named) => schemaOf(reading, named),
+     sourceIn: () => sourceIn(reading, pageOf),
+     typeSlugById: (id) => typeSlugById(reading, id),
+     typeSlugOf: (id) => typeSlugOf(reading, id),
