@@ -28,3 +28,18 @@ index 39e76919292d5fc0c3e05a5299a2f952dd1609ba..9c85b0db2100dc60c49b39ffab62ec74
 -    },
 -  ],
  } as const satisfies Module
+diff --git a/temper/temper-lib-sets/lib-sets-loc-rest-strings-jp/lib-sets-loc-rest-strings-jp.module.ts b/temper/temper-lib-sets/lib-sets-loc-rest-strings-jp/lib-sets-loc-rest-strings-jp.module.ts
+index dead7835a249bf8aaabd1cfaf571d0398bee8399..e2fd8571a5c0427069745375a6a30eed81ff963b 100644
+--- a/temper/temper-lib-sets/lib-sets-loc-rest-strings-jp/lib-sets-loc-rest-strings-jp.module.ts
++++ b/temper/temper-lib-sets/lib-sets-loc-rest-strings-jp/lib-sets-loc-rest-strings-jp.module.ts
+@@ -6,10 +6,4 @@ export const libSetsLocRestStringsJp = {
+   slug: "lib-sets-loc-rest-strings-jp",
+   definition: "the library's own interface text in Japanese",
+   code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "Japanese is not among the languages the library counts as supported.",
+-    },
+-  ],
+ } as const satisfies Module
