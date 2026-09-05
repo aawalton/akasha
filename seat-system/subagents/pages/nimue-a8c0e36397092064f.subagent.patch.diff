@@ -1046,6 +1046,26 @@ index e777befab16d2c8740da37309ecd8feff262bf4f..00000000000000000000000000000000
 -    },
 -  ],
 -} as const satisfies Module
+diff --git a/pages/pages.workspace-package.ts b/pages/pages.workspace-package.ts
+index d8dbcce1fbae583d83f46e42a83760d832525112..c27b6bead88d2a9f11d6bf0197f43ec4d77de90c 100644
+--- a/pages/pages.workspace-package.ts
++++ b/pages/pages.workspace-package.ts
+@@ -30,7 +30,6 @@ export const pages = {
+     "page-type/page-type",
+     "page-type/text-property",
+     "page-type/number-property",
+-    "page-type/formula-property",
+     "page-type/computed-property",
+     "page-type/boolean-property",
+     "page-type/instant-property",
+@@ -73,7 +72,6 @@ export const pages = {
+     "module/page-carry",
+     "module/page-computing",
+     "module/page-derive-shape",
+-    "module/page-formulas",
+     "module/page-landing-journal",
+     "module/page-landing-judge",
+     "module/page-narrow",
 diff --git a/pages/system-service/kinds-gathering/kinds-gathering.module.code.ts b/pages/system-service/kinds-gathering/kinds-gathering.module.code.ts
 index e4134605c76a66da159aad454211e1b933aa5ddb..0e59e8a48a386c7f9d976bcb833dcc978a4f76ee 100644
 --- a/pages/system-service/kinds-gathering/kinds-gathering.module.code.ts
