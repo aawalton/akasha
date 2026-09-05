@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/supervising/supervisor-interactive-boot/supervisor-interactive-boot.module.ts b/seat-system/supervising/supervisor-interactive-boot/supervisor-interactive-boot.module.ts
+index e5bde13284dcb59f1a6902dc8df55d4d5337f68b..32c708e9d6bf4361f6a5c555cfca1a1a0b899ed3 100644
+--- a/seat-system/supervising/supervisor-interactive-boot/supervisor-interactive-boot.module.ts
++++ b/seat-system/supervising/supervisor-interactive-boot/supervisor-interactive-boot.module.ts
+@@ -26,7 +26,8 @@ export const supervisorInteractiveBoot = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Headless states the launch as spawned and interactive states it as opened.",
++      statement:
++        "Headless states the launch as spawned and interactive states that launch as opened.",
+     },
+     {
+       invariantKind: "departure",
