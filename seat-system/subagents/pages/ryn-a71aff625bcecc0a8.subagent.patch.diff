@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/domains/domain.page-type.ts b/domains/domain.page-type.ts
+index 3b27c207c6543ea3749c73e27249d5fec37af85c..779acdd3857d712b541e0165c72b30e94aa5afc6 100644
+--- a/domains/domain.page-type.ts
++++ b/domains/domain.page-type.ts
+@@ -51,7 +51,7 @@ export const domain = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What makes a page a domain is its page type rather than the folder the page sits in.",
++        "A page's page type makes that page a domain rather than the folder the page sits in.",
+     },
+     {
+       invariantKind: "departure",
