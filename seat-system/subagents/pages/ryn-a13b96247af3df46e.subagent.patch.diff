@@ -1,14 +1,19 @@
 diff --git a/infrastructure/zimage/zimage-explore-worker/zimage-explore-worker.module.ts b/infrastructure/zimage/zimage-explore-worker/zimage-explore-worker.module.ts
-index d7db8bfad7abee791badcc08c0c633d7279c1b98..7825181ae6d9925e6242eb4381dcfa66060c3e55 100644
+index d7db8bfad7abee791badcc08c0c633d7279c1b98..ceb041c69b3c84df8ee040c720ea92af6231c145 100644
 --- a/infrastructure/zimage/zimage-explore-worker/zimage-explore-worker.module.ts
 +++ b/infrastructure/zimage/zimage-explore-worker/zimage-explore-worker.module.ts
-@@ -13,7 +13,8 @@ export const zimageExploreWorker = {
+@@ -13,11 +13,12 @@ export const zimageExploreWorker = {
      },
      {
        invariantKind: "departure",
 -      statement: "A prompt file taken out of the queue before it is picked up is not rendered.",
 +      statement:
 +        "A prompt file taken out of the queue before that file is picked up is not rendered.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A queue holding nothing leaves the worker idling rather than ending it.",
++      statement: "A queue holding nothing leaves the worker idling rather than ending that worker.",
      },
      {
        invariantKind: "departure",
