@@ -22,7 +22,6 @@ export const inferenceSegment = {
   helpNotes: [
     "the image is said without a flag or as `--image`, and one call names one image.",
     "the matte is always written, and the cutout and the flatten are written beside it only when asked.",
-    "naming where a cutout goes asks for the cutout.",
     "a path nothing named sits beside the matte, under the matte's own name and a suffix.",
     "a color is said as a hex triple or as three numbers separated by commas.",
     "the timeout counts the cop's swap and the cold model load as well as the cut.",
