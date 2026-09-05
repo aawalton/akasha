@@ -1,5 +1,5 @@
 diff --git a/commands/wan/wan.command.ts b/commands/wan/wan.command.ts
-index 6356978f04d0be3b90f2cc5fb42520c777bf4030..f71e545aeab1be7986723b395ca8bc90831726cf 100644
+index 6356978f04d0be3b90f2cc5fb42520c777bf4030..806288cd11c5348333d7f1eca2c8ad0d546894ba 100644
 --- a/commands/wan/wan.command.ts
 +++ b/commands/wan/wan.command.ts
 @@ -88,7 +88,8 @@ export const wan = {
@@ -21,12 +21,17 @@ index 6356978f04d0be3b90f2cc5fb42520c777bf4030..f71e545aeab1be7986723b395ca8bc90
      },
      {
        invariantKind: "departure",
-@@ -118,7 +119,7 @@ export const wan = {
+@@ -118,11 +119,11 @@ export const wan = {
      },
      {
        invariantKind: "departure",
 -      statement: "A frames act writes one numbered PNG for each frame it takes.",
 +      statement: "A frames act writes one numbered PNG for each frame that act takes.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A score answers one row for each frame and nothing beside them.",
++      statement: "A score answers one row for each frame and nothing beside those rows.",
      },
      {
        invariantKind: "departure",
