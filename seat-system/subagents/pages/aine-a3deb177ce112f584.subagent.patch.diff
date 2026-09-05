@@ -1,0 +1,28 @@
+diff --git a/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts b/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts
+index 794422a02c4fbecda7a54055dc051f0080647c68..4817c5177226fa07594b9c0219dc47a09593d9d2 100644
+--- a/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts
++++ b/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts
+@@ -109,7 +109,7 @@ test("a resumed session keeps its readings", () => {
+   expect(existsSync(readingAt(root, ONE))).toBe(true)
+ })
+ 
+-test("a source this does not recognise leaves the record standing", () => {
++test("a source this does not recognise leaves the record in place", () => {
+   for (const one of KEEPING) {
+     const root = rooted()
+     expect(cleared(root, ONE, one)).toBe(false)
+diff --git a/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.test.ts b/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.test.ts
+index 228333f1bbf8824ad0318039c1aa724a3258ea42..153c91565bcf69915d9f85619ee6cbb902c1b410 100644
+--- a/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.test.ts
++++ b/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.test.ts
+@@ -41,8 +41,8 @@ function ranWith(
+ ): { readonly code: number; readonly out: string; readonly err: string } {
+   const held: Record<string, string> = { ...process.env } as Record<string, string>
+   delete held[SEAT_NAMED]
+-  for (const [one, standing] of Object.entries(env)) {
+-    if (standing !== undefined) held[one] = standing
++  for (const [one, value] of Object.entries(env)) {
++    if (value !== undefined) held[one] = value
+   }
+   return ran(["bun", SCRIPT], { stdin: Buffer.from(raw), env: held })
+ }
