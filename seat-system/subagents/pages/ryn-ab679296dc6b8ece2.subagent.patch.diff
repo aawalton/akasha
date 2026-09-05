@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/repo-path/repo-path.module.ts b/pages/repo-path/repo-path.module.ts
+index 5a65398ccfc8f6e40c9ecaf2e4b8cd5488701bbb..82773c68f04c941b8f57f6bb962e06e2fe76c91f 100644
+--- a/pages/repo-path/repo-path.module.ts
++++ b/pages/repo-path/repo-path.module.ts
+@@ -14,7 +14,7 @@ export const repoPath = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A path that cannot be spelled out at all is answered as it was given.",
++      statement: "A path that cannot be spelled out at all is answered as that path was given.",
+     },
+     {
+       invariantKind: "departure",
