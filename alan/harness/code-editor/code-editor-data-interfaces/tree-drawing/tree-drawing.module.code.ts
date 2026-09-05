@@ -61,6 +61,7 @@ export function workTreeLine(root: string): string {
 type DomainNode = {
   readonly slug: string
   readonly relPath: string | null
+  readonly persona: string | null
   readonly position: number | null
   readonly children: readonly DomainNode[]
 }
@@ -71,6 +72,7 @@ function domainRow(root: string, node: DomainNode): DomainTreeRow {
     label: node.slug,
     at: wholePath(root, node.relPath),
     color: null,
+    persona: node.persona,
     position: node.position,
     children: node.children.map((child) => domainRow(root, child)),
   }

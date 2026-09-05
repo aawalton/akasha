@@ -4,66 +4,44 @@ export const domainTreePanel = {
   id: "01a06867-dbcb-7dfc-899e-b45619e04890",
   pageTypeSlug: "module",
   slug: "domain-tree-panel",
-  definition: "the Domains panel brought up, and when the domains are read again for it",
+  definition: "the Domains panel brought up, and the domains drawn into it from one file",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The panel is read once as that panel starts, before any write asks for a read.",
+      statement: "The domains are read from the file the service writes rather than composed.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "An answer equal byte for byte to the one drawn redraws nothing and records nothing.",
+      statement: "The panel draws what that file holds before any change to it arrives.",
     },
     {
       invariantKind: "departure",
-      statement: "An answer that says nothing new doubles the quiet demanded of the corpus.",
+      statement: "The panel draws again when that file is written and at no other time.",
     },
     {
       invariantKind: "departure",
-      statement: "The quiet demanded never grows past the deadline a write is answered within.",
+      statement: "A file the service has not written leaves the rows on the screen as they are.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The quiet asked of a request is whatever is left of that deadline where that is sooner.",
+      statement: "A file written while the panel is hidden is kept rather than drawn.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A write landing on a drawn row or carrying a drawn kind's ending shortens the quiet.",
+      statement: "A panel becoming visible with a drawing owed draws what the file last said.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The kinds a write is weighed against are read off the answer rather than listed here.",
+      statement: "A row is spelled for the panel from the row the file carries.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page type's ending counts as a drawn kind though no page of that kind is drawn.",
+      statement: "A row's document is carried against the repository the panel was given.",
     },
     {
       invariantKind: "departure",
-      statement: "Which write shortens the quiet is a hint, and every write still asks for a read.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A write arriving while the panel is hidden is owed a read rather than read for.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A panel becoming visible with a read owed is read for at once, with no quiet.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A read that fails leaves no drawn answer, so the next one that succeeds redraws.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A read that fails says why in the view rather than leaving the rows drawn as true.",
+      statement: "A row's champion is carried on, the panel making it the row's description.",
     },
     {
       invariantKind: "departure",
@@ -71,7 +49,15 @@ export const domainTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "Every read's outcome is recorded as an observation under the panel's name.",
+      statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No timer starts a drawing.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No watcher on a source file is registered here.",
     },
     {
       invariantKind: "absence",

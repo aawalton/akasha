@@ -25,7 +25,7 @@ export const treeDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "A domains row carries no champion, the tree the panel draws never reading one.",
+      statement: "A domains row carries its champion, which the panel makes the row's description.",
     },
     {
       invariantKind: "absence",
