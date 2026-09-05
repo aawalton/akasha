@@ -1,12 +1,112 @@
+diff --git a/infrastructure/telemetry/prometheus/prometheus.manifest.code.ts b/infrastructure/telemetry/prometheus/prometheus.manifest.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..595a4c7d3a26875f59ea24f44d74917c2f3f668a
+--- /dev/null
++++ b/infrastructure/telemetry/prometheus/prometheus.manifest.code.ts
+@@ -0,0 +1,36 @@
++import { NAMESPACE, NAMESPACE_LABELS } from "@akasha/cluster-manifests/prometheus-constants"
++import {
++  prometheusConfigmapYaml,
++  prometheusDeploymentYaml,
++  prometheusPvcYaml,
++  prometheusPvYaml,
++  prometheusRbacYaml,
++  prometheusServiceYaml,
++} from "@akasha/cluster-manifests/prometheus-manifests"
++import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
++
++function namespaceYaml(): string {
++  return synthOne(NAMESPACE, "namespace", {
++    apiVersion: "v1",
++    kind: "Namespace",
++    metadata: {
++      name: NAMESPACE,
++      labels: NAMESPACE_LABELS,
++    },
++  })
++}
++
++export default async function synth(): Promise<
++  readonly { readonly name: string; readonly yaml: string }[]
++> {
++  const prometheusConfigmap = await prometheusConfigmapYaml()
++  return [
++    { name: "namespace", yaml: namespaceYaml() },
++    { name: "prometheus-rbac", yaml: prometheusRbacYaml() },
++    { name: "prometheus-pv", yaml: prometheusPvYaml() },
++    { name: "prometheus-pvc", yaml: prometheusPvcYaml() },
++    { name: "prometheus-configmap", yaml: prometheusConfigmap },
++    { name: "prometheus-deployment", yaml: prometheusDeploymentYaml() },
++    { name: "prometheus-service", yaml: prometheusServiceYaml() },
++  ]
++}
+diff --git a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
+index 53063fb8fad1b7575fc4f8b0af8988b29626ebbb..89ffb31919724667e77e22f33023a9a44d36f022 100644
+--- a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
++++ b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
+@@ -7,6 +7,6 @@ index 633a1aff2caa7111238bddea612e776d3717219b..2e97f8df9407810d9c9db068c84bd89b
+    replicas: 1,
+    containerPort: 9090,
+ -  manifestCode:
+--    "service-system/cluster-services/pages/prometheus/prometheus.cluster-service.code.attachment.ts",
++-    "infrastructure/telemetry/prometheus/prometheus.manifest.code.ts",
+ +  manifestSlug: "prometheus",
+  } as const satisfies ClusterService
+diff --git a/service-system/cluster-services/pages/prometheus/prometheus.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/prometheus/prometheus.cluster-service.code.attachment.ts
+deleted file mode 100644
+index 595a4c7d3a26875f59ea24f44d74917c2f3f668a..0000000000000000000000000000000000000000
+--- a/service-system/cluster-services/pages/prometheus/prometheus.cluster-service.code.attachment.ts
++++ /dev/null
+@@ -1,36 +0,0 @@
+-import { NAMESPACE, NAMESPACE_LABELS } from "@akasha/cluster-manifests/prometheus-constants"
+-import {
+-  prometheusConfigmapYaml,
+-  prometheusDeploymentYaml,
+-  prometheusPvcYaml,
+-  prometheusPvYaml,
+-  prometheusRbacYaml,
+-  prometheusServiceYaml,
+-} from "@akasha/cluster-manifests/prometheus-manifests"
+-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+-
+-function namespaceYaml(): string {
+-  return synthOne(NAMESPACE, "namespace", {
+-    apiVersion: "v1",
+-    kind: "Namespace",
+-    metadata: {
+-      name: NAMESPACE,
+-      labels: NAMESPACE_LABELS,
+-    },
+-  })
+-}
+-
+-export default async function synth(): Promise<
+-  readonly { readonly name: string; readonly yaml: string }[]
+-> {
+-  const prometheusConfigmap = await prometheusConfigmapYaml()
+-  return [
+-    { name: "namespace", yaml: namespaceYaml() },
+-    { name: "prometheus-rbac", yaml: prometheusRbacYaml() },
+-    { name: "prometheus-pv", yaml: prometheusPvYaml() },
+-    { name: "prometheus-pvc", yaml: prometheusPvcYaml() },
+-    { name: "prometheus-configmap", yaml: prometheusConfigmap },
+-    { name: "prometheus-deployment", yaml: prometheusDeploymentYaml() },
+-    { name: "prometheus-service", yaml: prometheusServiceYaml() },
+-  ]
+-}
 diff --git a/service-system/cluster-services/pages/prometheus/prometheus.cluster-service.ts b/service-system/cluster-services/pages/prometheus/prometheus.cluster-service.ts
-index 633a1aff2caa7111238bddea612e776d3717219b..2e97f8df9407810d9c9db068c84bd89b7d2946f1 100644
+index 633a1aff2caa7111238bddea612e776d3717219b..d10f47e0e2d7f1512a4e3012688017cb474b75b9 100644
 --- a/service-system/cluster-services/pages/prometheus/prometheus.cluster-service.ts
 +++ b/service-system/cluster-services/pages/prometheus/prometheus.cluster-service.ts
-@@ -11,6 +11,5 @@ export const prometheus = {
+@@ -11,6 +11,9 @@ export const prometheus = {
    image: "prom/prometheus:v2.54.1",
    replicas: 1,
    containerPort: 9090,
 -  manifestCode:
 -    "service-system/cluster-services/pages/prometheus/prometheus.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +  manifestSlug: "prometheus",
++=======
++  manifestCode: "infrastructure/telemetry/prometheus/prometheus.manifest.code.ts",
++>>>>>>> what HEAD holds
  } as const satisfies ClusterService
