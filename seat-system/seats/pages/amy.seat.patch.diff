@@ -1,0 +1,106 @@
+diff --git a/editor-extension/transcript-view/transcript-view.module.code.ts b/editor-extension/transcript-view/transcript-view.module.code.ts
+index 88be2e3abe306a35c86f96fbd5cc571088b64984..249036071345ba02828383cddacdc26461d92969 100644
+--- a/editor-extension/transcript-view/transcript-view.module.code.ts
++++ b/editor-extension/transcript-view/transcript-view.module.code.ts
+@@ -1,5 +1,5 @@
+ import { type FSWatcher, watch } from "node:fs"
+-import { dirname, join } from "node:path"
++import { basename, dirname, join } from "node:path"
+ import * as vscode from "vscode"
+ import { renderEntries } from "../transcript-drawing/transcript-drawing.module.code.ts"
+ import type { Entry } from "../transcript-model/transcript-model.module.code.ts"
+@@ -70,11 +70,23 @@ export function openTranscriptPanel(
+     return undefined
+   }
+ 
++  // WHERE THE TRANSCRIPT IS COSTS A CHILD PROCESS, SO IT IS ASKED FOR ONLY WHERE IT CAN HAVE
++  // MOVED. An append changes the file already being read and moves nothing, while a rotation
++  // writes a file beside it under a name of its own. So the answer is asked for again only where
++  // the folder holding the transcript raises a name other than the one in hand, and where it
++  // raises no name at all, which some hosts do: a rotation gone unnoticed would freeze this
++  // panel on a file nothing writes to any more.
++  let owedResolve = true
++
+   const resolvePath = async (): Promise<string | null> => {
+-    if (target.agentId !== undefined) {
+-      return (await seatTranscriptOf(target.agentId))?.transcriptPath ?? null
++    if (target.agentId === undefined) {
++      return target.transcriptPath ?? null
++    }
++    if (!owedResolve && state.transcriptPath !== null) {
++      return state.transcriptPath
+     }
+-    return target.transcriptPath ?? null
++    owedResolve = false
++    return (await seatTranscriptOf(target.agentId))?.transcriptPath ?? null
+   }
+ 
+   // THE FOLDERS THIS PANEL IS FED BY. A transcript is appended to rather than replaced, so the
+@@ -87,13 +99,26 @@ export function openTranscriptPanel(
+   const watching = new Set<string>()
+   const watchers: FSWatcher[] = []
+ 
+-  const watchFolder = (folder: string): undefined => {
++  const rotationIn = (name: string | null): undefined => {
++    const held = state.transcriptPath
++    if (name === null || held === null || name !== basename(held)) {
++      owedResolve = true
++    }
++    return undefined
++  }
++
++  const watchFolder = (folder: string, rotates: boolean): undefined => {
+     if (watching.has(folder)) {
+       return undefined
+     }
+     let watcher: FSWatcher
+     try {
+-      watcher = watch(folder, () => void tick())
++      watcher = watch(folder, (_event, name) => {
++        if (rotates) {
++          rotationIn(name)
++        }
++        void tick()
++      })
+     } catch {
+       return undefined
+     }
+@@ -121,8 +146,8 @@ export function openTranscriptPanel(
+       void panel.webview.postMessage({ kind: "reset" })
+     }
+ 
+-    watchFolder(dirname(transcriptPath))
+-    watchFolder(join(transcriptPath.replace(/\.jsonl$/, ""), "subagents"))
++    watchFolder(dirname(transcriptPath), true)
++    watchFolder(join(transcriptPath.replace(/\.jsonl$/, ""), "subagents"), false)
+ 
+     const began = Date.now()
+     const read = await reader.read(transcriptPath)
+diff --git a/editor-extension/transcript-view/transcript-view.module.ts b/editor-extension/transcript-view/transcript-view.module.ts
+index 537c2a122dd8de58b1c67c92f4e5eaa1e0fa02ee..b6aedf0d3d1e258d794b1789ffb7d0b5c3bad774 100644
+--- a/editor-extension/transcript-view/transcript-view.module.ts
++++ b/editor-extension/transcript-view/transcript-view.module.ts
+@@ -59,6 +59,23 @@ export const transcriptView = {
+       invariantKind: "departure",
+       statement: "The folder a transcript's subagents sit in is watched as well.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "Where the transcript is, is asked for once and then only where it can have moved.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A name moving beside the transcript is what says the transcript may have moved.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A change naming no file at all is taken as a move that may have happened.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A change under the subagents folder says nothing about where the transcript is.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A folder that is not there yet is watched once the next read finds it.",
