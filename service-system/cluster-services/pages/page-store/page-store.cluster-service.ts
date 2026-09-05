@@ -21,7 +21,7 @@ export const pageStore = {
     {
       invariantKind: "departure",
       statement:
-        "What runs in the cluster carries a pod's request out to that workstation and the answer back.",
+        "The forwarder in the cluster carries a pod's request out to that workstation and the answer back.",
     },
     {
       invariantKind: "departure",
