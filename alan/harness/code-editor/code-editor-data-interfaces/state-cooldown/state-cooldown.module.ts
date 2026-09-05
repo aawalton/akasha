@@ -18,7 +18,7 @@ export const stateCooldown = {
     },
     {
       invariantKind: "departure",
-      statement: "Only the last change to arrive in a cooldown is written when it ends.",
+      statement: "Only the last change to arrive in a cooldown is written when that cooldown ends.",
     },
     {
       invariantKind: "departure",
