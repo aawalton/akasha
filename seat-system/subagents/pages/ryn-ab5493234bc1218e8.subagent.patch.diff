@@ -46,3 +46,19 @@ index e9768228fba6b675f12e27429d9f0388d1b639d9..4eb2651e09e2d86b5b019c94306848f8
      {
        invariantKind: "departure",
        statement: "A file written while the panel is hidden is kept rather than drawn.",
+diff --git a/editor-extension/work-tree-panel/work-tree-panel.module.ts b/editor-extension/work-tree-panel/work-tree-panel.module.ts
+index 54bd67bec68b257d5bb1a35f2c9752f51ffe911f..a933a716cc576c79420072a415a1229c9e33a79e 100644
+--- a/editor-extension/work-tree-panel/work-tree-panel.module.ts
++++ b/editor-extension/work-tree-panel/work-tree-panel.module.ts
+@@ -20,10 +20,7 @@ export const workTreePanel = {
+       invariantKind: "departure",
+       statement: "The panel draws again when that file is written and at no other time.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A file the service has not written leaves the rows on the screen as they are.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "The rows the file carries are drawn as they are rather than spelled again.",
