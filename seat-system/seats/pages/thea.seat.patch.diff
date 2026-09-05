@@ -11,3 +11,16 @@ index 96f292454fab5b9c248b715e85ac3af676a44efb..accc941bffcd4f078ab0dfa735a1d982
    partSlugs: [
      "module/move-arguing",
      "module/move-listing",
+diff --git a/commands/remove/remove.command.ts b/commands/remove/remove.command.ts
+index 67b5f83c9c058391aeebedea4f14001423fb182b..a276625925b1d8aab369ce3987486ceef2d83301 100644
+--- a/commands/remove/remove.command.ts
++++ b/commands/remove/remove.command.ts
+@@ -8,7 +8,7 @@ export const remove = {
+   code: "ts",
+   test: "ts",
+   testFixtures: "ts",
+-  changeKindSlug: "change-mechanical",
++  changeKindSlug: "change-checked",
+   partSlugs: ["module/remove-manifesting", "module/remove-workspacing"],
+   taking: [
+     { said: "--file-path <path>", takes: "a path anywhere in the repository to take away" },
