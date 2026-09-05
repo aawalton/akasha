@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/deploy/kind-reading/deploy-kind-reading.module.ts b/commands/deploy/kind-reading/deploy-kind-reading.module.ts
+index 3ffdc94663667adcd7840e64f3b637635e1206e1..123dbe12ba200130521db05f11a2c624f92af3e3 100644
+--- a/commands/deploy/kind-reading/deploy-kind-reading.module.ts
++++ b/commands/deploy/kind-reading/deploy-kind-reading.module.ts
+@@ -42,7 +42,7 @@ export const deployKindReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A slug neither kind carries is refused by naming what each kind has.",
++      statement: "A slug neither kind carries is refused by naming the slugs each kind has.",
+     },
+     {
+       invariantKind: "departure",
