@@ -14,7 +14,7 @@ export const migrationLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A migration states what the migration is called as.",
+      statement: "A migration states the name the migration is called as.",
     },
     {
       invariantKind: "departure",
@@ -38,11 +38,12 @@ export const migrationLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A batch hands every stated `was` to its landing as what must remain unmoved.",
+      statement:
+        "A batch hands every stated `was` to its landing as the bytes that must remain unmoved.",
     },
     {
       invariantKind: "departure",
-      statement: "A stated `was` no longer matching what is on disk refuses that batch.",
+      statement: "A stated `was` no longer matching the bytes on disk refuses that batch.",
     },
     {
       invariantKind: "absence",
@@ -114,7 +115,7 @@ export const migrationLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "What stopped a migration is answered.",
+      statement: "The reason a migration stopped is answered.",
     },
     {
       invariantKind: "departure",
@@ -126,7 +127,7 @@ export const migrationLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "What a refused batch answered is said under the batch.",
+      statement: "The lines a refused batch answered with are said under the batch.",
     },
     {
       invariantKind: "departure",
@@ -171,11 +172,13 @@ export const migrationLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "What each batch was told is answered alongside what landed.",
+      statement:
+        "The paths and message each batch was told are answered alongside the paths that landed.",
     },
     {
       invariantKind: "departure",
-      statement: "What is on disk is read back rather than taken from the code a landing answered.",
+      statement:
+        "The bytes on disk are read back rather than taken from the code a landing answered.",
     },
     {
       invariantKind: "departure",
@@ -196,7 +199,7 @@ export const migrationLanding = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what a page means.",
+      statement: "Nothing here knows the meaning of a page.",
     },
     {
       invariantKind: "absence",
