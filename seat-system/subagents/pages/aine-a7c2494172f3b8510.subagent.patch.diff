@@ -38,7 +38,7 @@ index 6c71955a6d1b10a3dc87bc74baf06228287af8cf..db96dd56c4c836326f1bebc78876b018
        DATA
      )
 diff --git a/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.code.ts b/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.code.ts
-index 175fefc88bb56b1858b87191030ae08bc611e404..cf91ea726b3131b40090dde1302b35f986721a99 100644
+index 175fefc88bb56b1858b87191030ae08bc611e404..802308b4feee1e93c8a478f9556a146823283370 100644
 --- a/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.code.ts
 +++ b/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.code.ts
 @@ -31,7 +31,7 @@ const HELD = "json"
@@ -68,3 +68,14 @@ index 175fefc88bb56b1858b87191030ae08bc611e404..cf91ea726b3131b40090dde1302b35f9
    const slugs = [...slugsOfType(root, PAGE_TYPE)].sort().reverse()
    for (const slug of slugs) {
      const found = listedAt(root, PAGE_TYPE, slug)[0]
+@@ -115,8 +115,8 @@ function standingLatest(root: string): Standing | null {
+   return null
+ }
+ 
+-function dataFileFor(root: string, standing: Standing): string | null {
+-  const beside = besideAt(standing.path, DATA_PROPERTY, HELD)
++function dataFileFor(root: string, page: Page): string | null {
++  const beside = besideAt(page.path, DATA_PROPERTY, HELD)
+   if (beside === null) return null
+   const at = join(root, beside)
+   return existsSync(at) ? at : null
