@@ -125,7 +125,7 @@ index a58e3438c05c49de3122896f34c1883da9a96638..00000000000000000000000000000000
 -  ],
 -} as const satisfies TextProperty
 diff --git a/domains/sentence-shapes/sentence-shape.page-type.ts b/domains/sentence-shapes/sentence-shape.page-type.ts
-index 58ab64ca6bca8e773773433b1569504c9ccafb19..aab4069eff3e0f4692dcdcd9a11d040c2e945cd0 100644
+index 58ab64ca6bca8e773773433b1569504c9ccafb19..ed761395bd0a1055a8089d1d6d02fbc87ec0da6f 100644
 --- a/domains/sentence-shapes/sentence-shape.page-type.ts
 +++ b/domains/sentence-shapes/sentence-shape.page-type.ts
 @@ -2,14 +2,10 @@ import type { Module } from "@akasha/code-system/module"
@@ -152,3 +152,12 @@ index 58ab64ca6bca8e773773433b1569504c9ccafb19..aab4069eff3e0f4692dcdcd9a11d040c
      "sentence-shape/closing-count",
      "sentence-shape/lone-determiner",
      "sentence-shape/lone-pronoun",
+@@ -34,8 +28,6 @@ export const sentenceShape = {
+   properties: [
+     { pagePropertySlug: "test", required: true, many: false },
+     { pagePropertySlug: "allowed", required: false, many: false },
+-    { pagePropertySlug: "rules", required: false, many: true, max: null },
+-    { pagePropertySlug: "shape-pattern", required: false, many: false },
+     { pagePropertySlug: "reason", required: false, many: false },
+   ],
+   invariants: [
