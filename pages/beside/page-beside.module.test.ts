@@ -27,7 +27,7 @@ function rootWith(paths: readonly string[]): string {
 
 const PAGE = "akasha/one/held.module.ts"
 
-test("the code and the test standing beside a page are answered", () => {
+test("the code and the test beside a page are answered", () => {
   const root = rootWith([PAGE, "akasha/one/held.module.code.ts", "akasha/one/held.module.test.ts"])
   expect(besideOf(root, PAGE)).toEqual([
     "akasha/one/held.module.code.ts",
@@ -72,7 +72,7 @@ test("a file carrying more than one part past the page's name is not beside it",
   expect(besideOf(root, PAGE)).toEqual(["akasha/one/held.module.code.ts"])
 })
 
-test("what stands beside several paths is answered once, sorted, and holds none of them", () => {
+test("what sits beside several paths is answered once, sorted, and holds none of them", () => {
   const root = rootWith([
     PAGE,
     "akasha/one/held.module.code.ts",
@@ -85,7 +85,7 @@ test("what stands beside several paths is answered once, sorted, and holds none 
   ])
 })
 
-test("a path named among the set is never answered as standing beside another", () => {
+test("a path named among the set is never answered as sitting beside another", () => {
   const root = rootWith([PAGE, "akasha/one/held.module.code.ts"])
   expect(besideAll(root, [PAGE, "akasha/one/held.module.code.ts"])).toEqual([])
 })

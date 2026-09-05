@@ -4,7 +4,7 @@ export const pageFileName = {
   id: "01a04e3b-cd68-7be9-bd0f-a4ff61fa0c05",
   pageTypeSlug: "module",
   slug: "page-file-name",
-  definition: "what a file's name says about the page it holds or stands beside",
+  definition: "what a file's name says about the page it holds or sits beside",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -57,11 +57,11 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement: "A page and a file standing beside the page answer the same page.",
+      statement: "A page and a file beside the page answer the same page.",
     },
     {
       invariantKind: "departure",
-      statement: "The name a property's file stands under is built here as well as read here.",
+      statement: "The name a property's file is under is built here as well as read here.",
     },
     {
       invariantKind: "departure",
@@ -116,7 +116,7 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement: "A page's sops file is what the sops file already stands under.",
+      statement: "A page's sops file is what the sops file is already under.",
     },
     {
       invariantKind: "departure",

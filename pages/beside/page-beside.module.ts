@@ -4,7 +4,7 @@ export const pageBeside = {
   id: "01a04ea7-b2ea-7d22-ac4c-78cd0b3eaa92",
   pageTypeSlug: "module",
   slug: "page-beside",
-  definition: "the files standing beside a page, as they stand on disk",
+  definition: "the files beside a page, as they are on disk",
   code: "ts",
   test: "ts",
   invariants: [
@@ -61,7 +61,7 @@ export const pageBeside = {
     },
     {
       invariantKind: "departure",
-      statement: "A file no page claims cannot stand.",
+      statement: "A file no page claims cannot exist.",
     },
     {
       invariantKind: "departure",

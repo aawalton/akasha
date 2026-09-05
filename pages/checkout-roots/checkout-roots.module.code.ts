@@ -206,7 +206,7 @@ export function rootsNamed(at: Readonly<Record<string, string>>, target?: Repo):
     const named = absent.map(([one, root]) => `\`${one}\` at \`${root}\``).join(", ")
     const name = absent.length === 1 ? "names a repository" : "name repositories"
     throw new Error(
-      `${named} ${name} here, but nothing stands there; give the directory it is` +
+      `${named} ${name} here, but nothing is there; give the directory it is` +
         ` checked out in, or leave the key out to say it is not cloned here`
     )
   }
@@ -220,9 +220,7 @@ export function targetRepo(roots: Roots): Repo {
 export function rootFor(roots: Roots, repo: string): string {
   const root = roots[repo]
   if (root === undefined) {
-    throw new Error(
-      `no \`${repo}\` repository is cloned here, so nothing says where its paths stand`
-    )
+    throw new Error(`no \`${repo}\` repository is cloned here, so nothing says where its paths are`)
   }
   return root
 }

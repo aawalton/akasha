@@ -4,7 +4,7 @@ export const checkoutRoots = {
   id: "01a05cc6-2a1c-7f1e-96c9-e0e9c57ec04e",
   pageTypeSlug: "module",
   slug: "checkout-roots",
-  definition: "the repositories checked out beside this one and where a path stands among them",
+  definition: "the repositories checked out beside this one and where a path sits among them",
   code: "ts",
   invariants: [
     {
@@ -14,7 +14,7 @@ export const checkoutRoots = {
     },
     {
       invariantKind: "stopgap",
-      statement: "A path standing under no marked checkout answers the folder two above this one.",
+      statement: "A path under no marked checkout answers the folder two above this one.",
     },
     {
       invariantKind: "departure",
