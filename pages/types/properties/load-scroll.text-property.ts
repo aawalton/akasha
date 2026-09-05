@@ -13,7 +13,8 @@ export const loadScroll = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page opens at its start, at its end, at what is new, or where reading stopped.",
+      statement:
+        "A page opens at its start, at its end, at its newest part, or where reading stopped.",
     },
     {
       invariantKind: "departure",
