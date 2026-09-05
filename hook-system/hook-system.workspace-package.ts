@@ -29,7 +29,7 @@ export const hookSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "What that name reaches is worked out at the call rather than at the spawn.",
+      statement: "The path that name reaches is worked out at the call rather than at the spawn.",
     },
     {
       invariantKind: "departure",
@@ -37,11 +37,11 @@ export const hookSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "A hook that refuses names the akasha command that does what was asked.",
+      statement: "A hook that refuses names the akasha command that does the work asked for.",
     },
     {
       invariantKind: "departure",
-      statement: "A hook says what the hook does not catch when the hook is asked.",
+      statement: "A hook says the calls the hook does not catch when the hook is asked.",
     },
     {
       invariantKind: "constraint",
