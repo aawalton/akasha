@@ -1,0 +1,89 @@
+diff --git a/command-system/piping/piping.module.code.ts b/command-system/piping/piping.module.code.ts
+index 57e9de4f157b20191320d3037186458ece29cf85..42dce7ffe1ae662a7268db9a1196de863cb8186c 100644
+--- a/command-system/piping/piping.module.code.ts
++++ b/command-system/piping/piping.module.code.ts
+@@ -24,6 +24,8 @@ const OPENING = /^<<<<<<<([A-Za-z0-9_-]*) old$/
+ const NAMED_SAID =
+   "name a run of your own, opening at `<<<<<<<ZZ old` with `=======ZZ` and `>>>>>>>ZZ new`"
+ 
++const MID_LINE = " mid-line"
++
+ const INPUT_AT = "/dev/stdin"
+ 
+ const TAKEN_AT_ONCE = 1 << 16
+@@ -167,26 +169,37 @@ function marking(at: number, instead: string): string {
+ type Marks = {
+   readonly opens: string
+   readonly splits: string
++  readonly splitsMidLine: string
+   readonly closes: string
++  readonly closesMidLine: string
+   readonly tag: string
+ }
+ 
+ function marksIn(said: string): Marks {
+   const ends = said.indexOf("\n")
+   const tag = OPENING.exec(ends === -1 ? said : said.slice(0, ends))?.[1] ?? ""
++  const splits = `${RUN_SPLIT}${tag}`
++  const closes = `${RUN_NEW}${tag} new`
+   return {
+     opens: `${RUN_OLD}${tag} old`,
+-    splits: `${RUN_SPLIT}${tag}`,
+-    closes: `${RUN_NEW}${tag} new`,
++    splits,
++    splitsMidLine: `${splits}${MID_LINE}`,
++    closes,
++    closesMidLine: `${closes}${MID_LINE}`,
+     tag,
+   }
+ }
+ 
++function endedMidLine(said: string, midLine: boolean): string {
++  return midLine && said.endsWith("\n") ? said.slice(0, -1) : said
++}
++
+ export function passagesIn(said: string, instead: string): Passages {
+   const marks = marksIn(said)
+   const passages: Passage[] = []
+   let old: string[] | null = null
+   let put: string[] | null = null
++  let midLine = false
+   let opened = 0
+   for (const [which, line] of linedOf(said).entries()) {
+     const at = which + 1
+@@ -194,6 +207,7 @@ export function passagesIn(said: string, instead: string): Passages {
+     if (old === null) {
+       if (one === marks.opens) {
+         old = []
++        midLine = false
+         opened = at
+         continue
+       }
+@@ -207,17 +221,23 @@ export function passagesIn(said: string, instead: string): Passages {
+       }
+     }
+     if (put === null) {
+-      if (one === marks.splits) {
++      if (one === marks.splits || one === marks.splitsMidLine) {
++        midLine = one === marks.splitsMidLine
+         put = []
+         continue
+       }
+-      if (one === marks.closes) return closedBy(opened, marks.splits)
++      if (one === marks.closes || one === marks.closesMidLine) {
++        return closedBy(opened, marks.splits)
++      }
+       if (markedLine(one, marks.tag)) return { refusals: [marking(at, instead)] }
+       old.push(line)
+       continue
+     }
+-    if (one === marks.closes) {
+-      passages.push({ old: old.join(""), put: put.join("") })
++    if (one === marks.closes || one === marks.closesMidLine) {
++      passages.push({
++        old: endedMidLine(old.join(""), midLine),
++        put: endedMidLine(put.join(""), one === marks.closesMidLine),
++      })
+       old = null
+       put = null
+       continue
