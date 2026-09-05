@@ -18,6 +18,66 @@ index c01a98711d9dc20a0ad592f81708e94b0abd2d62..8af453651f0aed29a08fd5dab6ee24db
    if (held.dryRun) return await reporting(given.root, held, gate, aside)
    const message = messageWith(held, bypass, broken)
    const asRead = asReadIn(given, formatting.changes)
+diff --git a/command-system/asking/asking.module.test.ts b/command-system/asking/asking.module.test.ts
+index f87998f86d78b5788b89aa122793ffeeb66c25e9..73b372205f7f3ac99b08869272e0d9c7900380ca 100644
+--- a/command-system/asking/asking.module.test.ts
++++ b/command-system/asking/asking.module.test.ts
+@@ -118,6 +118,55 @@ test("checks that will not load refuse the change, and nothing reaches the disk"
+   expect(headOf(root)).toBe(was)
+ })
+ 
++test("checks that will not load are answered before any link is repointed", async () => {
++  const root = repoNoCheckLoads()
++  let reached = 0
++  const said = await landingAsked(
++    givenIn(root),
++    asking({
++      reaching: (): undefined => {
++        reached += 1
++      },
++    })
++  )
++  expect(said.code).toBe(3)
++  expect(said.refusals.join("\n")).toContain("the checks could not be loaded from")
++  expect(reached).toBe(0)
++})
++
++test("a link a caller hands in is repointed once the checks have loaded", async () => {
++  const root = repoWith()
++  let reached = 0
++  const said = await landingAsked(
++    givenIn(root),
++    asking({
++      saying: () => [],
++      reaching: (): undefined => {
++        reached += 1
++      },
++    })
++  )
++  expect(said.code).toBe(0)
++  expect(reached).toBe(1)
++})
++
++test("a landing that threw repoints its links first, so the caller has one to take back", async () => {
++  const root = repoWith()
++  let reached = 0
++  const held = blocked(root)
++  const said = await landingAsked(
++    givenIn(root),
++    asking({
++      ...held,
++      reaching: (): undefined => {
++        reached += 1
++      },
++    })
++  )
++  expect(said.code).toBe(3)
++  expect(reached).toBe(1)
++})
++
+ test("the glass carries a patch past checks that will not load, and the commit says why", async () => {
+   const root = repoNoCheckLoads()
+   const draft = [{ path: "akasha/one.ts", was: bytes("committed\n"), body: bytes(PROPOSED) }]
 diff --git a/command-system/asking/asking.module.ts b/command-system/asking/asking.module.ts
 index d0a1165defc4b97a54fc0f7bb1874da839d6d0ba..9eb5d10f9ce7f9ea87b847e8a7a3630854f334dc 100644
 --- a/command-system/asking/asking.module.ts
