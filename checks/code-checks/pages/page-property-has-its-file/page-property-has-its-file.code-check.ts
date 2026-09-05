@@ -35,7 +35,8 @@ export const pagePropertyHasItsFile = {
     },
     {
       invariantKind: "constraint",
-      statement: "What stands at a path the change does not name is answered by the base commit.",
+      statement:
+        "The body standing at a path the change does not name is answered by the base commit.",
     },
     {
       invariantKind: "departure",
