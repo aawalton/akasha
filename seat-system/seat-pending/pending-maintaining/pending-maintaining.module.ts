@@ -13,7 +13,7 @@ export const pendingMaintaining = {
     },
     {
       invariantKind: "departure",
-      statement: "What is kept true here is the stretch after a turn end.",
+      statement: "The stretch after a turn end is the stretch kept true here.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +67,7 @@ export const pendingMaintaining = {
     },
     {
       invariantKind: "departure",
-      statement: "What is written is one component.",
+      statement: "One component is written.",
     },
     {
       invariantKind: "departure",
