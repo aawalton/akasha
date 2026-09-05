@@ -23,11 +23,11 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement: "What follows the page type is a list of sections.",
+      statement: "A list of sections follows the page type.",
     },
     {
       invariantKind: "departure",
-      statement: "The last part is what the file holds.",
+      statement: "The last part is the form the file holds.",
     },
     {
       invariantKind: "departure",
@@ -53,7 +53,7 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement: "What a property's file holds is read as written.",
+      statement: "The form a property's file holds is read as written.",
     },
     {
       invariantKind: "departure",
@@ -65,7 +65,8 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement: "What `heldIn` takes apart and what the builders here put together stay one rule.",
+      statement:
+        "The name `heldIn` takes apart and the name the builders here put together stay one rule.",
     },
     {
       invariantKind: "departure",
@@ -116,7 +117,7 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement: "A page's sops file is what the sops file is already under.",
+      statement: "A page's sops file is the name that sops file is already under.",
     },
     {
       invariantKind: "departure",
