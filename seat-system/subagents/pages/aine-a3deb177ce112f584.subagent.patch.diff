@@ -1,0 +1,145 @@
+diff --git a/command-system/cli/cli.module.test.ts b/command-system/cli/cli.module.test.ts
+index 120890e9604a339e793dd37cfda985a59ce20dae..f74bfa88892c3b651204cea38b8fef4c6b97e831 100644
+--- a/command-system/cli/cli.module.test.ts
++++ b/command-system/cli/cli.module.test.ts
+@@ -105,7 +105,7 @@ test("a name no command carries is a caller's mistake too", async () => {
+   expect(said.err[0]).toContain("is no command akasha carries")
+ })
+ 
+-test("a name looked for where no index stands says nothing was read, not that none is carried", async () => {
++test("a name looked for where there is no index says nothing was read, not that none is carried", async () => {
+   const said = await answering(["held"], { AKASHA_ROOT: "/nowhere-at-all" }, AT, "/nowhere")
+   expect(said.code).toBe(INPUT)
+   expect(said.err[0]).toContain("was looked for and not read")
+diff --git a/command-system/gate-building/gate-building.module.test.ts b/command-system/gate-building/gate-building.module.test.ts
+index 59fcef2139da9f567af09c7e3bb2dc327fd27a29..7152ba1a204daf597bfb26b4dea7b84d536596d6 100644
+--- a/command-system/gate-building/gate-building.module.test.ts
++++ b/command-system/gate-building/gate-building.module.test.ts
+@@ -37,7 +37,7 @@ test("a gate that could not be built judges nothing rather than passing everythi
+   ).toEqual([])
+ })
+ 
+-test("the two modules loaded late are named as paths under the root, and both stand", () => {
++test("the two modules loaded late are named as paths under the root, and both are there", () => {
+   expect(existsSync(join(HERE, CHECKING_AT))).toBe(true)
+   expect(existsSync(join(HERE, INDEXING_AT))).toBe(true)
+ })
+diff --git a/command-system/holding/holding.module.test.ts b/command-system/holding/holding.module.test.ts
+index 9c2f4ec0ded9302aedc5de22218fbc6f96b7c9fe..1ec474b782c144b4272c917260fc07755f040da7 100644
+--- a/command-system/holding/holding.module.test.ts
++++ b/command-system/holding/holding.module.test.ts
+@@ -215,7 +215,7 @@ test("a hold another process took over is not released by the one that lost it",
+   expect(readFileSync(at, "utf8")).toBe(theirs)
+ })
+ 
+-test("a holder whose pid stands for another process than the one that took it is no holder", () => {
++test("a holder whose pid represents another process than the one that took it is no holder", () => {
+   const root = repoWith({ "one.txt": "committed" })
+   mkdirSync(join(root, ".git"), { recursive: true })
+   writeFileSync(join(root, LOCK_AT), `${process.pid} 1`)
+@@ -224,7 +224,7 @@ test("a holder whose pid stands for another process than the one that took it is
+   expect(Date.now() - from).toBeLessThan(2000)
+ })
+ 
+-test("a mark no holder can be read from wedges nothing once it has stood too long", () => {
++test("a mark no holder can be read from wedges nothing once it has been there too long", () => {
+   const root = repoWith({ "one.txt": "committed" })
+   const at = join(root, LOCK_AT)
+   mkdirSync(join(root, ".git"), { recursive: true })
+diff --git a/command-system/landing/landing.module.test.ts b/command-system/landing/landing.module.test.ts
+index 089119d8b1570447d120b0b11fea80da29060006..7c33052b64179d53ccdec3852c7051da855dd98c 100644
+--- a/command-system/landing/landing.module.test.ts
++++ b/command-system/landing/landing.module.test.ts
+@@ -65,7 +65,7 @@ test("a body the change touches is read as the change would leave it", () => {
+   readingEnded()
+ })
+ 
+-test("a body the change takes away reads as gone rather than as what stands", () => {
++test("a body the change takes away reads as gone rather than as what was there", () => {
+   const root = repoWith({ "one.txt": "committed" })
+   const change = changeOf(root, {
+     base: baseOf(root),
+@@ -206,7 +206,7 @@ test("asking for nothing is refused rather than committed empty", async () => {
+   expect(baseOf(root)).toBe(was)
+ })
+ 
+-test("a change asking for what already stands commits nothing", async () => {
++test("a change asking for what is already there commits nothing", async () => {
+   const root = repoWith({ "one.txt": "committed" })
+   const was = baseOf(root)
+   const said = await landing(root, [{ path: "one.txt", body: bytes("committed") }], "held", ADMITS)
+diff --git a/command-system/outside-naming/outside-naming.module.test.ts b/command-system/outside-naming/outside-naming.module.test.ts
+index 5f1da7235545a584c498c9615823307d1d80544b..9a3a5b6af87366d961d52d2de8680ac92077e8b3 100644
+--- a/command-system/outside-naming/outside-naming.module.test.ts
++++ b/command-system/outside-naming/outside-naming.module.test.ts
+@@ -81,7 +81,7 @@ test("a package name is respelled and a longer name it only opens is left alone"
+   expect(said).toBe('"@akasha/first/two" "@akasha/one-other" "@akasha/first"')
+ })
+ 
+-test("the search covers every file the commit tracks, wherever in the tree it stands", () => {
++test("the search covers every file the commit tracks, wherever in the tree it is", () => {
+   const root = world({ [OUTSIDE_AT]: SPELT, [INSIDE_AT]: SPELT })
+   const whole = namedTracked(root, baseOf(root), ["akasha/one"])
+   expect("paths" in whole ? whole.paths : ["it refused"]).toEqual([INSIDE_AT, OUTSIDE_AT])
+diff --git a/command-system/reading/reading.module.test.ts b/command-system/reading/reading.module.test.ts
+index c10a75677c6e94223b4f77a94ec12b99f0633856..373499608b95a0ddb4ef68f0b48845dd4aaba5d0 100644
+--- a/command-system/reading/reading.module.test.ts
++++ b/command-system/reading/reading.module.test.ts
+@@ -148,7 +148,7 @@ test("a carry chains off the mechanical id, and the body read stays pinned", ()
+   expect(carriedInto(held, { was: A, now: B, from: "one" }, "three")).toBeNull()
+ })
+ 
+-test("a carried reading stands at the new path and the old file is gone", () => {
++test("a carried reading is at the new path and the old file is gone", () => {
+   const root = scratch.rootFor("akasha-reading-")
+   const was = writing(root, A, "one\n")
+   const now = writing(root, B, "two\n")
+@@ -164,7 +164,7 @@ test("a carried reading stands at the new path and the old file is gone", () =>
+   expect(existsSync(readingFileAt(root, AGENT, A))).toBe(false)
+ })
+ 
+-test("a body rewritten where it stands keeps its path and gains the mechanical id", () => {
++test("a body rewritten where it is keeps its path and gains the mechanical id", () => {
+   const root = scratch.rootFor("akasha-reading-")
+   const was = blobIdOf(new TextEncoder().encode("one\n"))
+   const now = writing(root, A, "two\n")
+diff --git a/command-system/scratching/scratching.module.test.ts b/command-system/scratching/scratching.module.test.ts
+index 3d93e200bb0014c6f47e6b0bb935ba652ec8df6f..2ee0faefe47e1d9f714a4eea14b6af4389beb9e1 100644
+--- a/command-system/scratching/scratching.module.test.ts
++++ b/command-system/scratching/scratching.module.test.ts
+@@ -9,11 +9,11 @@ afterAll(scratch.sweep)
+ 
+ const PREFIX = "akasha-scratching-"
+ 
+-test("the place a scratch world stands in is named here, and it is /var/tmp", () => {
++test("the place a scratch world sits in is named here, and it is /var/tmp", () => {
+   expect(SCRATCH_AT).toBe("/var/tmp")
+ })
+ 
+-test("a root stands under /var/tmp, carrying the prefix it was asked for", () => {
++test("a root sits under /var/tmp, carrying the prefix it was asked for", () => {
+   const root = scratch.rootFor(PREFIX)
+   expect(dirname(root)).toBe("/var/tmp")
+   expect(root).toStartWith(`/var/tmp/${PREFIX}`)
+diff --git a/command-system/value-minting/value-minting.module.test.ts b/command-system/value-minting/value-minting.module.test.ts
+index c3c3ff932ecf47a2a9df42f61b0ee0cd559bb0bb..42f449fcc5e54435df65d7cdc88bbf6e4b3fc06c 100644
+--- a/command-system/value-minting/value-minting.module.test.ts
++++ b/command-system/value-minting/value-minting.module.test.ts
+@@ -122,7 +122,7 @@ test("two worked out in the same millisecond are still two", () => {
+   expect(uuidVersion7(at)).not.toBe(uuidVersion7(at))
+ })
+ 
+-test("a value goes in first in the literal, and the rest of the body stands", () => {
++test("a value goes in first in the literal, and the rest of the body is unchanged", () => {
+   const said = insertedInto(AT, BODY, "id", '"held"') ?? ""
+   expect(said).toContain('{ id: "held", pageTypeSlug: "thing"')
+   expect(said.split("\n").length).toBe(BODY.split("\n").length)
+@@ -179,7 +179,7 @@ test("a page carrying the value already keeps the one it carries", () => {
+   expect(textOf(said.changes)).toBe(body)
+ })
+ 
+-test("a body carried from another path is left as it stands", () => {
++test("a body carried from another path is left as it is", () => {
+   const root = rooted("uuid-v7")
+   const said = mintingOnto(root, [{ ...carrying(BODY), carried: true }])
+   expect(said.filled).toEqual([])
