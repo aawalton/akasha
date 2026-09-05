@@ -73,7 +73,7 @@ index a9c7d4c9a1632ebb5df6dbc4b95c859012c81f9f..fe78b5b43f64903e0d399f85a0c08661
        ],
        code: INPUT,
 diff --git a/infrastructure/infrastructure-commands/talos-secrets-gen/talos-secrets-gen.command.ts b/infrastructure/infrastructure-commands/talos-secrets-gen/talos-secrets-gen.command.ts
-index e43f374122033d37ad382862901103a23c008762..deb9da3c32287d7b7d40fffa507b7792cdee159a 100644
+index e43f374122033d37ad382862901103a23c008762..09b7bc520af13e8eef5e26d71334a1228243664a 100644
 --- a/infrastructure/infrastructure-commands/talos-secrets-gen/talos-secrets-gen.command.ts
 +++ b/infrastructure/infrastructure-commands/talos-secrets-gen/talos-secrets-gen.command.ts
 @@ -9,13 +9,13 @@ export const talosSecretsGen = {
@@ -92,12 +92,17 @@ index e43f374122033d37ad382862901103a23c008762..deb9da3c32287d7b7d40fffa507b7792
    ],
    invariants: [
      {
-@@ -24,7 +24,7 @@ export const talosSecretsGen = {
+@@ -24,11 +24,11 @@ export const talosSecretsGen = {
      },
      {
        invariantKind: "departure",
 -      statement: "A bundle that stands is written over only where `--force` says so.",
 +      statement: "A bundle already there is written over only where `--force` says so.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The bundle stands beside the cluster's page rather than under the home.",
++      statement: "The bundle sits beside the cluster's page rather than under the home.",
      },
      {
        invariantKind: "departure",
