@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-events-addon/next-boss-state/next-boss-state.module.ts b/temper/temper-events-addon/next-boss-state/next-boss-state.module.ts
+index 3acde19d5b715e98cb66fbf513e1c74db70fba71..af5d0d10d8e6c0f7f52c56b5c8b5ad938137ba6b 100644
+--- a/temper/temper-events-addon/next-boss-state/next-boss-state.module.ts
++++ b/temper/temper-events-addon/next-boss-state/next-boss-state.module.ts
+@@ -9,7 +9,7 @@ export const nextBossState = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "One table holds what this tracker keeps.",
++      statement: "One table holds the state this tracker keeps.",
+     },
+     {
+       invariantKind: "departure",
