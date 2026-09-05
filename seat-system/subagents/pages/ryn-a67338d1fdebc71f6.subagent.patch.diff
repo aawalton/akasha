@@ -286,3 +286,19 @@ index 9d9d72088027d0c459ed7ef517d2f0c41771cbfb..5646e73ac5c67a12d407265f3861ca17
      {
        invariantKind: "absence",
        statement: "Nothing here caches a reading or decides when a reading is taken.",
+diff --git a/temper/temper-progress/readouts/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts b/temper/temper-progress/readouts/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts
+index 86071123c011e465de5e4c34fddabc61361e6fec..af139dd67ee89437ab33690578757ce2263f380f 100644
+--- a/temper/temper-progress/readouts/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts
++++ b/temper/temper-progress/readouts/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts
+@@ -42,10 +42,7 @@ export const inboxesTemperTasks = {
+       invariantKind: "departure",
+       statement: "A tracking day carrying no count is no reading rather than a count of zero.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A store that refuses is a fault rather than a reading of nothing.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here caches a reading.",
