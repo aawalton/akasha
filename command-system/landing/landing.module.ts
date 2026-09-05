@@ -185,7 +185,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "The index is reached only to keep it.",
+      statement: "The index is reached only to keep that index.",
     },
     {
       invariantKind: "departure",
@@ -197,7 +197,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "Why they would not load is said in the answer and in the commit.",
+      statement: "Why the checks would not load is said in the answer and in the commit.",
     },
     {
       invariantKind: "departure",
