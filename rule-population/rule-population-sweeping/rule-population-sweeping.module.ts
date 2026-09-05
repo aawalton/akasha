@@ -23,11 +23,7 @@ export const rulePopulationSweeping = {
       invariantKind: "departure",
       statement: "One message saying which rules weighed nothing is filed in the reader's mailbox.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "A rule that weighed nothing certifies nothing, and prints the same green as a rule that weighed everything and was satisfied.",
-    },
+
     {
       invariantKind: "departure",
       statement:
