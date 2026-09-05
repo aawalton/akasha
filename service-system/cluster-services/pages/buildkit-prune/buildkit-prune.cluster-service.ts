@@ -12,4 +12,5 @@ export const buildkitPrune = {
   schedule: "0 4 * * 0",
   manifestCode:
     "service-system/cluster-services/pages/buildkit-prune/buildkit-prune.cluster-service.code.attachment.ts",
+  partSlugs: ["manifest/buildkit-prune"],
 } as const satisfies ClusterService
