@@ -77,19 +77,34 @@ export function idIn(body: string): string | null {
   return /\n {2}id: "([^"]+)",/.exec(body)?.[1] ?? null
 }
 
+export function landedUnder(root: string, seatName: string, own: string): string {
+  return readFileSync(join(root, pathOf(slugOf(seatName, own))), "utf8")
+}
+
 export function landedAt(root: string, own: string): string {
-  return readFileSync(join(root, pathOf(slugOf("akasha", own))), "utf8")
+  return landedUnder(root, "akasha", own)
 }
 
 // THE PAGE A SUBAGENT HAD, PUT INTO THE HISTORY AND TAKEN OFF THE DISK, which is what a seat's
 // working tree holds after a subagent stops. The body is composed by the module under test rather
-// than spelled again, so what a resume reads back is what a put-up wrote.
-export function heldInHistory(root: string, own: string, agentId: string, kind: string): undefined {
-  const at = pathOf(slugOf("akasha", own))
-  const slug = slugOf("akasha", own)
-  writing(root, at, bodyOf(slug, "akasha", HELD_ASSIGNMENT, kind, agentId, HELD_ID))
+// than spelled again, so what a resume reads back is what a put-up wrote. The seat is named because
+// a seat stating no assignment is the one case where history answers for the assignment.
+export function heldUnder(
+  root: string,
+  seatName: string,
+  own: string,
+  agentId: string,
+  kind: string
+): undefined {
+  const slug = slugOf(seatName, own)
+  const at = pathOf(slug)
+  writing(root, at, bodyOf(slug, seatName, HELD_ASSIGNMENT, kind, agentId, HELD_ID))
   gitIn(root, ["add", "-A"])
   gitIn(root, ["commit", "--quiet", "-m", "the page was there"])
   gitIn(root, ["rm", "--quiet", at])
   gitIn(root, ["commit", "--quiet", "-m", "the page went"])
+}
+
+export function heldInHistory(root: string, own: string, agentId: string, kind: string): undefined {
+  heldUnder(root, "akasha", own, agentId, kind)
 }

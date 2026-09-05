@@ -27,8 +27,10 @@ import {
   HELD_ASSIGNMENT,
   HELD_ID,
   heldInHistory,
+  heldUnder,
   idIn,
   landedAt,
+  landedUnder,
   loggedAt,
   MECHANICAL,
   messageIn,
@@ -248,7 +250,7 @@ test("a subagent whose page is in history takes up that page rather than a new o
   }
 })
 
-test("a page taken up keeps the kind and the assignment that page carried", async () => {
+test("a page taken up keeps the kind it carried and takes its seat's assignment", async () => {
   const world = scratchWorld()
   try {
     const root = seated(world.rootFor("subagent-presence-"))
@@ -256,8 +258,23 @@ test("a page taken up keeps the kind and the assignment that page carried", asyn
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task")).toEqual(WENT)
     const landed = landedAt(root, OWN)
     expect(landed).toContain('dispatchedAs: "Explore"')
-    expect(landed).toContain(`assignmentSlug: ${JSON.stringify(HELD_ASSIGNMENT)}`)
+    expect(landed).toContain('assignmentSlug: "domain/akasha-system"')
+    expect(landed).not.toContain(HELD_ASSIGNMENT)
     expect(landed).toContain(`agentId: "${SEAT_ID}--${OWN}"`)
+  } finally {
+    world.sweep()
+  }
+})
+
+test("a page taken up under a seat stating no assignment takes history's", async () => {
+  const world = scratchWorld()
+  try {
+    const root = seated(world.rootFor("subagent-presence-"))
+    heldUnder(root, "thea", OWN, agentIdOf(SEAT_ID, OWN), "Explore")
+    expect(await wrote(root, "thea", SEAT_ID, OWN, "Task")).toEqual(WENT)
+    expect(landedUnder(root, "thea", OWN)).toContain(
+      `assignmentSlug: ${JSON.stringify(HELD_ASSIGNMENT)}`
+    )
   } finally {
     world.sweep()
   }

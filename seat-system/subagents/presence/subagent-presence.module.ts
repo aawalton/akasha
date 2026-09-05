@@ -43,7 +43,7 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A page taken up keeps the id, the assignment and the kind that page carried.",
+      statement: "A page taken up keeps the id and the kind that page carried.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +59,12 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A page composed states the assignment its seat states.",
+      statement: "A page states the assignment its seat states.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page taken up states the assignment history held only where its seat states none.",
     },
     {
       invariantKind: "departure",

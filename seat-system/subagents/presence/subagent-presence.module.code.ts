@@ -122,13 +122,19 @@ function statedIn(values: Record<string, unknown> | null, key: string): string |
 
 // A SUBAGENT RESUMING TAKES UP THE PAGE IT HAD. This composed a page at every SubagentStart, so a
 // subagent coming back after its page went was minted a second identity under one agent id. What
-// the page said is in the commit that wrote it, and taking that page up again keeps the id, the
-// assignment and the kind it carried — the id above all, because a reader joining what a subagent
-// did across its resume has nothing else to join on.
+// the page said is in the commit that wrote it, and taking that page up again keeps the id and the
+// kind it carried — the id above all, because a reader joining what a subagent did across its
+// resume has nothing else to join on.
 //
 // THE KIND CANNOT BE RECOVERED ANYWHERE ELSE. `agent_type` reaches no harness event but
 // SubagentStart and SubagentStop, so no later payload carries it. History is the only source, and
-// that is why the assignment and the kind are taken from the page rather than composed again.
+// that is why the kind is taken from the page rather than composed again.
+//
+// THE ASSIGNMENT IS THE SEAT'S AND NOT HISTORY'S. An assignment is a current fact the seat holds,
+// and a page says what is true now. Reading it back out of history lets a subagent resuming take
+// an assignment its seat has since dropped; where that assignment's page went meanwhile the
+// landing refuses, and a refused put-up leaves the restart interlock blind to a subagent at work.
+// History answers here only where the seat states no assignment at all.
 //
 // A subagent with no page behind it is composed as before, and the landing mints the id it keeps.
 export async function wrote(
@@ -144,7 +150,7 @@ export async function wrote(
   const agentId = agentIdOf(seatId, own)
   const had = subagentPageInHistory(root, at, agentId)
   const held = had === null ? null : had.values
-  const assignmentSlug = statedIn(held, ASSIGNMENT) ?? assignedTo(root, seatName)
+  const assignmentSlug = assignedTo(root, seatName) ?? statedIn(held, ASSIGNMENT)
   if (assignmentSlug === null) {
     return {
       why:
