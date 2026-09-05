@@ -1,0 +1,52 @@
+diff --git a/seat-system/compose-boot/compose-boot.module.code.ts b/seat-system/compose-boot/compose-boot.module.code.ts
+index 83a442fcb3ed4cecb9a38389032f35d5bb2c6917..8d280176e6be623f3fc346e9e659047784cc5953 100644
+--- a/seat-system/compose-boot/compose-boot.module.code.ts
++++ b/seat-system/compose-boot/compose-boot.module.code.ts
+@@ -14,7 +14,7 @@ WHAT A SEAT IS BOUND TO IS NOT IN ITS PROMPT. This composes who the seat is, fro
+ persona, domain and role, and the one call that names every page those bind it to.
+ 
+ The pages themselves are read, never handed over: text in a prompt is credited as read without
+-anybody reading it, and it goes on standing after the file under it has moved. So nothing here is
++anybody reading it, and it remains after the file under it has moved. So nothing here is
+ credited, and a seat begins owing every page it is bound to.
+ 
+ The call names the seat's own page. What that page warrants is what the seat must read, and the
+diff --git a/seat-system/compose-seat-name/compose-seat-name.module.code.ts b/seat-system/compose-seat-name/compose-seat-name.module.code.ts
+index 58f4b89a931c6b0433cfa87ca24a0f36fd53f29d..47d2afef47ce623711d78e61d0170602a8dd0efd 100644
+--- a/seat-system/compose-seat-name/compose-seat-name.module.code.ts
++++ b/seat-system/compose-seat-name/compose-seat-name.module.code.ts
+@@ -21,7 +21,7 @@ export function personPrincipals(root: string): readonly string[] {
+ }
+ 
+ // A name that is exactly a person's slug is that person's, not a spelling of what the seat is, so
+-// it stands however the attributes move. Every other name is composed from them, so it recomposes.
++// it remains however the attributes move. Every other name is composed from them, so it recomposes.
+ export function movesWithTheAttributes(name: string, root: string): boolean {
+   return !personPrincipals(root).includes(name)
+ }
+diff --git a/seat-system/compose-subagents/compose-subagents.module.code.ts b/seat-system/compose-subagents/compose-subagents.module.code.ts
+index 06e05bf14a79e1f5c56c5fe530350cc1001564cc..951bcf64318d52d83b16f4226a0cb178cab2a4a6 100644
+--- a/seat-system/compose-subagents/compose-subagents.module.code.ts
++++ b/seat-system/compose-subagents/compose-subagents.module.code.ts
+@@ -17,7 +17,7 @@ const PAGE_TYPE = "subagent-kind"
+ // \`dispatched-as\` closed it, so it is a property here rather than a slug to parse.
+ const DISPATCHED_AS = "dispatchedAs"
+ 
+-// The prompt is a file property: the page states the extension, and the file stands beside it.
++// The prompt is a file property: the page states the extension, and the file sits beside it.
+ const PROMPT_KEY = "subagentPrompt"
+ 
+ const PROMPT_SLUG = "subagent-prompt"
+diff --git a/seat-system/compose-subagents/compose-subagents.module.ts b/seat-system/compose-subagents/compose-subagents.module.ts
+index a7eb4bd34d9996d9d453e78c400cee5c4aefd31e..eca5a9033764dfa328805032fce3341dec4b15aa 100644
+--- a/seat-system/compose-subagents/compose-subagents.module.ts
++++ b/seat-system/compose-subagents/compose-subagents.module.ts
+@@ -17,7 +17,7 @@ export const composeSubagents = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A kind's prompt stands in a file beside its page rather than in the page.",
++      statement: "A kind's prompt sits in a file beside its page rather than in the page.",
+     },
+     {
+       invariantKind: "departure",
