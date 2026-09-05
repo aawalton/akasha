@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-events-addon/next-boss-saved-variables/next-boss-saved-variables.module.ts b/temper/temper-events-addon/next-boss-saved-variables/next-boss-saved-variables.module.ts
+index 3a2ea9fb8823248ac5acebcfeb19738627eef43f..014b3679a0b8ce7bdefb6c1357c1d3c6bcf8d16b 100644
+--- a/temper/temper-events-addon/next-boss-saved-variables/next-boss-saved-variables.module.ts
++++ b/temper/temper-events-addon/next-boss-saved-variables/next-boss-saved-variables.module.ts
+@@ -14,7 +14,7 @@ export const nextBossSavedVariables = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The timers kept are read back only where the campaign is the one they were kept under.",
++        "The timers kept are read back only where the campaign is the one those timers were kept under.",
+     },
+   ],
+ } as const satisfies Module
