@@ -14,7 +14,7 @@ export const matchKey = {
     },
     {
       invariantKind: "departure",
-      statement: "A sign is `positive` where money came in and `negative` where it went out.",
+      statement: "A sign is `positive` where money came in and `negative` where money went out.",
     },
     {
       invariantKind: "departure",
