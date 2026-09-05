@@ -49,7 +49,7 @@ export const codeEditorDataInterface = {
     },
     {
       invariantKind: "departure",
-      statement: "The editor reads these files and writes none of them.",
+      statement: "The editor reads these files and writes none of these files.",
     },
     {
       invariantKind: "departure",
@@ -58,7 +58,7 @@ export const codeEditorDataInterface = {
     {
       invariantKind: "departure",
       statement:
-        "A change lands at once where the file it changes has been quiet for its cooldown.",
+        "A change lands at once where the file that change changes has been quiet for its cooldown.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +67,7 @@ export const codeEditorDataInterface = {
     },
     {
       invariantKind: "departure",
-      statement: "A cooldown is counted for one file rather than across them.",
+      statement: "A cooldown is counted for one file rather than across files.",
     },
     {
       invariantKind: "departure",
