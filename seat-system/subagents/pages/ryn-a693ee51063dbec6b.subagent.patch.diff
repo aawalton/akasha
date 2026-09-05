@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/eval-snapshot/monarch-eval-snapshot.module.ts b/alan/harness/monarch/eval-snapshot/monarch-eval-snapshot.module.ts
+index e5d9c8eaad3eea55ed9bd7dc768d8115dc0f706a..08cfde9f32447596190f37cbc4813fb09aea8e41 100644
+--- a/alan/harness/monarch/eval-snapshot/monarch-eval-snapshot.module.ts
++++ b/alan/harness/monarch/eval-snapshot/monarch-eval-snapshot.module.ts
+@@ -26,8 +26,7 @@ export const monarchEvalSnapshot = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "What moved is said as what the mark was and what that mark became, family by family.",
++      statement: "A move is said as the mark before and the mark after, family by family.",
+     },
+     {
+       invariantKind: "departure",
