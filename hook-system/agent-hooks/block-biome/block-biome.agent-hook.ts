@@ -29,7 +29,7 @@ export const blockBiome = {
     {
       invariantKind: "departure",
       statement:
-        "A prefix that only runs the call behind it does not hide a biome call from this hook.",
+        "A prefix that only runs the call behind that prefix does not hide a biome call from this hook.",
     },
     {
       invariantKind: "absence",
