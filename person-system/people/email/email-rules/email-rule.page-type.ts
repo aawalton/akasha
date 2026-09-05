@@ -40,7 +40,7 @@ export const emailRule = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule's kind is the folder the rule stands in rather than a key on the rule.",
+      statement: "A rule's kind is the folder the rule is in rather than a key on the rule.",
     },
   ],
 } as const satisfies PageType

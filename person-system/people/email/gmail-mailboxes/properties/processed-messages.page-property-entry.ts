@@ -31,11 +31,11 @@ export const processedMessages = {
     },
     {
       invariantKind: "departure",
-      statement: "A processed message stands beside the mailbox it was read from.",
+      statement: "A processed message sits beside the mailbox it was read from.",
     },
     {
       invariantKind: "absence",
-      statement: "A processed message stands in no row of its own.",
+      statement: "A processed message sits in no row of its own.",
     },
     {
       invariantKind: "departure",

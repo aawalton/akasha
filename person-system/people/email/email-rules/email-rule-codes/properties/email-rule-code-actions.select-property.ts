@@ -10,7 +10,7 @@ export const emailRuleCodeActions = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An action stands beside the filing rather than in place of it.",
+      statement: "An action sits beside the filing rather than in place of it.",
     },
   ],
 } as const satisfies SelectProperty

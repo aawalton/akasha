@@ -18,7 +18,7 @@ export const emailRuleMatchField = {
     },
     {
       invariantKind: "departure",
-      statement: "A field the mail offers stands here whether or not a rule names it yet.",
+      statement: "A field the mail offers sits here whether or not a rule names it yet.",
     },
   ],
 } as const satisfies SelectProperty

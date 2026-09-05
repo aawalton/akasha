@@ -30,12 +30,12 @@ export const gmailMailbox = {
     },
     {
       invariantKind: "departure",
-      statement: "Every message a mailbox has been through stands beside that mailbox.",
+      statement: "Every message a mailbox has been through sits beside that mailbox.",
     },
     {
       invariantKind: "gap",
       statement:
-        "The address stands under the address a person sends and receives at rather than a key of its own.",
+        "The address sits under the address a person sends and receives at rather than a key of its own.",
     },
   ],
 } as const satisfies PageType

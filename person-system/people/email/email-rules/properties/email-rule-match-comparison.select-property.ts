@@ -23,11 +23,11 @@ export const emailRuleMatchComparison = {
     },
     {
       invariantKind: "departure",
-      statement: "Each comparison stands beside its negation rather than beside a flag.",
+      statement: "Each comparison sits beside its negation rather than beside a flag.",
     },
     {
       invariantKind: "departure",
-      statement: "A comparison a text field takes stands here whether or not a rule names it yet.",
+      statement: "A comparison a text field takes sits here whether or not a rule names it yet.",
     },
   ],
 } as const satisfies SelectProperty

@@ -26,7 +26,7 @@ export const emailMessage = {
     {
       invariantKind: "gap",
       statement:
-        "Who a message is from and to, its subject and the list it came through are yet to stand as properties.",
+        "Who a message is from and to, its subject and the list it came through are yet to exist as properties.",
     },
   ],
 } as const satisfies PageType
