@@ -22,7 +22,7 @@ export const emailMessagesTrash = {
     },
     {
       invariantKind: "departure",
-      statement: "What comes back is the labels the message carries after the change.",
+      statement: "The labels the message carries after the change come back.",
     },
     {
       invariantKind: "absence",
