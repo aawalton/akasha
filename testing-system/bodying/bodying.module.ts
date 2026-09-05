@@ -25,7 +25,7 @@ export const bodying = {
     },
     {
       invariantKind: "departure",
-      statement: "What a test binds is what the test was handed rather than a function of its own.",
+      statement: "A test binds the way the test was handed rather than a function of its own.",
     },
   ],
 } as const satisfies Module
