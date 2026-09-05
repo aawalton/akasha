@@ -1,4 +1,3 @@
-runsWarrants: false
 diff --git a/infrastructure/seaweedfs/maintenance/seaweedfs-maintenance.cluster-service.code.attachment.ts b/infrastructure/seaweedfs/maintenance/seaweedfs-maintenance.cluster-service.code.attachment.ts
 deleted file mode 100644
 index cb915d5621bc8cbe66545ac3cc80908e8bfda433..0000000000000000000000000000000000000000
@@ -38,7 +37,7 @@ index 0000000000000000000000000000000000000000..cb915d5621bc8cbe66545ac3cc80908e
 +  ]
 +}
 diff --git a/service-system/cluster-services/pages/seaweedfs-maintenance.cluster-service.ts b/service-system/cluster-services/pages/seaweedfs-maintenance.cluster-service.ts
-index d2fdb73ecc1785ddf10f2e63dd8fe148fd1dd297..91673e4219b649a96d1dcd57593ecb1d277cf260 100644
+index d2fdb73ecc1785ddf10f2e63dd8fe148fd1dd297..ac7f51751209f948960ed6e6a9fd2077b4997d71 100644
 --- a/service-system/cluster-services/pages/seaweedfs-maintenance.cluster-service.ts
 +++ b/service-system/cluster-services/pages/seaweedfs-maintenance.cluster-service.ts
 @@ -10,6 +10,5 @@ export const seaweedfsMaintenance = {
@@ -47,5 +46,5 @@ index d2fdb73ecc1785ddf10f2e63dd8fe148fd1dd297..91673e4219b649a96d1dcd57593ecb1d
    schedule: "43 6 * * 0",
 -  manifestCode:
 -    "infrastructure/seaweedfs/maintenance/seaweedfs-maintenance.cluster-service.code.attachment.ts",
-+  manifestCode: "infrastructure/seaweedfs/maintenance/seaweedfs-maintenance.manifest.code.ts",
++  manifestSlug: "seaweedfs-maintenance",
  } as const satisfies ClusterService
