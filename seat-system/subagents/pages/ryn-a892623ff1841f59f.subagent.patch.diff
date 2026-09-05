@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/page-tree/page-tree.command.ts b/commands/page-tree/page-tree.command.ts
+index 388ef955e6363b82c75ee68ce325f4389fdd6666..009c91082bf86cc2c36d6b2a896586e5bd2110bf 100644
+--- a/commands/page-tree/page-tree.command.ts
++++ b/commands/page-tree/page-tree.command.ts
+@@ -31,7 +31,7 @@ export const pageTree = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The three groups are handed back and whoever asked assembles the tree.",
++      statement: "The three groups are handed back and the caller assembles the tree.",
+     },
+     {
+       invariantKind: "departure",
