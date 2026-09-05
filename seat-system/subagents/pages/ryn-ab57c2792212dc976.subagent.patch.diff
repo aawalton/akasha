@@ -1,0 +1,14 @@
+diff --git a/seat-system/notices/notice.page-type.ts b/seat-system/notices/notice.page-type.ts
+index ebc40ff92fc29d7b844d6b8e7c3aeb8b2baf034e..90bcd6d768a4a6d3ff373a843aa85076724d90f7 100644
+--- a/seat-system/notices/notice.page-type.ts
++++ b/seat-system/notices/notice.page-type.ts
+@@ -44,8 +44,7 @@ export const notice = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A notice that arrives on a message row carries no opening marker, because the row records its own sender.",
++      statement: "A notice that arrives on a message row carries no opening marker.",
+     },
+     {
+       invariantKind: "departure",
