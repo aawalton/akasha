@@ -12,14 +12,14 @@ export const audit = {
     { said: "--check <slug>", takes: "a check to run on its own even where it runs at no audit" },
     {
       said: "--file-path <path>",
-      takes: "a file or folder the checks judge in place of every file the index names",
+      takes: "a file or folder the checks judge in place of every file this repository holds",
     },
   ],
   helpNotes: [
     "--check and --file-path each repeat, so several checks and several paths narrow one call.",
-    "named nothing, every check that runs at audit judges every file the index names.",
+    "named nothing, every check that runs at audit judges every file this repository holds.",
     "--check narrows which checks run and --file-path narrows which files those checks see, and a narrowed run says in its answer that the run is not an audit.",
-    "a folder named by --file-path means every file the index names under that folder.",
+    "a folder named by --file-path means every file under that folder.",
     "a run where no named file is a check's input is refused rather than answered clean.",
     "a run narrowed by --file-path says nothing about the files that run did not judge.",
     "it writes nothing, and holds nothing still while it runs.",
@@ -30,7 +30,7 @@ export const audit = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An audit judges every file the index names.",
+      statement: "An audit judges every file this repository holds.",
     },
     {
       invariantKind: "departure",
@@ -55,11 +55,11 @@ export const audit = {
     {
       invariantKind: "departure",
       statement:
-        "A path naming no file the index names and no folder holding a file the index names is refused.",
+        "A path naming no file this repository holds and no folder holding one is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder named means every file the index names under that folder.",
+      statement: "A folder named means every file under that folder.",
     },
     {
       invariantKind: "departure",

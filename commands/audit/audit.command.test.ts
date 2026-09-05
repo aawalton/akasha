@@ -139,13 +139,13 @@ test("a run over every check and every file says nothing about being narrowed", 
 
 test("a run narrowed to some of the files says how many of them it judged", () => {
   expect(notAnAuditIn(0, 3, 900)).toEqual([
-    "this is not an audit — it judged 3 files of the 900 the index names",
+    "this is not an audit — it judged 3 files rather than every file this repository holds",
   ])
 })
 
 test("a run narrowed in both ways says both on one line", () => {
   expect(notAnAuditIn(23, 3, 900)).toEqual([
-    "this is not an audit — the 23 checks it left out judged nothing, and it judged 3 files of the 900 the index names",
+    "this is not an audit — the 23 checks it left out judged nothing, and it judged 3 files rather than every file this repository holds",
   ])
 })
 
@@ -206,7 +206,7 @@ test("naming a check runs only the check named", () => {
   expect(said.checks.map((one) => one.slug)).toEqual(["two"])
 })
 
-test("naming no path leaves the change as the index left it", () => {
+test("naming no path leaves the change as it came", () => {
   const change = over(["a/one.ts", "a/two.ts", "b/three.ts"])
   const said = narrowedOver(change, [])
   expect(said.refusals).toEqual([])
@@ -220,7 +220,7 @@ test("naming a file narrows the change to that file", () => {
   expect(said.change.changed).toEqual(["a/two.ts"])
 })
 
-test("naming a folder means every file the index names under it", () => {
+test("naming a folder means every file under it", () => {
   const change = over(["a/one.ts", "a/two.ts", "b/three.ts"])
   const said = narrowedOver(change, ["a"])
   expect(said.refusals).toEqual([])
@@ -241,10 +241,10 @@ test("two paths reaching one file reach that file once", () => {
 test("a path naming no file and no folder is refused", () => {
   const change = over(["a/one.ts"])
   const said = narrowedOver(change, ["c/four.ts"])
-  expect(said.refusals[0]).toContain("`c/four.ts` is no file the index names")
+  expect(said.refusals[0]).toContain("`c/four.ts` is no file this repository holds")
 })
 
-test("a file the index names is told from a folder it names one under", () => {
+test("a file is told from a folder holding one under it", () => {
   expect(underOf(["a/one.ts", "ab/two.ts"], "a")).toEqual(["a/one.ts"])
 })
 

@@ -106,9 +106,7 @@ export function narrowedOver(change: Change, paths: readonly string[]): Over {
   for (const one of paths) {
     const found = underOf(change.changed, one)
     if (found.length === 0) {
-      refusals.push(
-        `\`${one}\` is no file the index names, and no folder holding a file the index names`
-      )
+      refusals.push(`\`${one}\` is no file this repository holds, and no folder holding one`)
       continue
     }
     for (const two of found) held.add(two)
@@ -125,7 +123,7 @@ export function notAnAuditIn(leftOut: number, judged: number, named: number): re
   const said: string[] = []
   if (leftOut > 0) said.push(`the ${counted(leftOut, "check")} it left out judged nothing`)
   if (judged < named) {
-    said.push(`it judged ${counted(judged, "file")} of the ${named} the index names`)
+    said.push(`it judged ${counted(judged, "file")} rather than every file this repository holds`)
   }
   if (said.length === 0) return []
   return [`this is not an audit — ${said.join(", and ")}`]
