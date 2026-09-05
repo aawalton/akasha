@@ -86,7 +86,7 @@ export const personaDay = {
     },
     {
       invariantKind: "departure",
-      statement: "An identity here is what Alan's history is keyed by.",
+      statement: "Alan's history is keyed by an identity here.",
     },
   ],
 } as const satisfies PageType
