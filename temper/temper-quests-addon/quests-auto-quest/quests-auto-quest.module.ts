@@ -23,7 +23,7 @@ export const questsAutoQuest = {
     },
     {
       invariantKind: "departure",
-      statement: "Tracing alone reads the dialogue without answering it.",
+      statement: "Tracing alone reads the dialogue without answering that dialogue.",
     },
     {
       invariantKind: "departure",
