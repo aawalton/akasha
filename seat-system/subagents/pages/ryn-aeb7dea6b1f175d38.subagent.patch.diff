@@ -15,3 +15,20 @@ index 152ba1cff1b3bb749ae1f7e9c5c1fe6c187bca2c..a749366d0f9036bd76fa3520c6cfa4a3
      {
        invariantKind: "departure",
        statement: "Every site showing the activity is carried the activity rather than taking one.",
+diff --git a/alan/harness/attributes/attributes.domain.ts b/alan/harness/attributes/attributes.domain.ts
+index 170c6e5b93e1f672f579a5d5a4a75361e9605031..8ef7e32a20cd98b8f77867d1e499b7325d0b2edd 100644
+--- a/alan/harness/attributes/attributes.domain.ts
++++ b/alan/harness/attributes/attributes.domain.ts
+@@ -31,11 +31,7 @@ export const attributes = {
+       invariantKind: "departure",
+       statement: "The constitution counts food entries rather than reading a figure off the day.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The reading is taken by a workstation timer rather than by a pod serving a route.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "One timer takes every attribute reading.",
