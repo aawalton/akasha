@@ -1,0 +1,12 @@
+diff --git a/service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg.cluster-service.ts b/service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg.cluster-service.ts
+index df97dfbe02cde97a2e73cbcd353f69974300b0b9..4147faae267dad3e3500f8c813b9653157546984 100644
+--- a/service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg.cluster-service.ts
++++ b/service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg.cluster-service.ts
+@@ -11,6 +11,5 @@ export const postgresCnpg = {
+   image:
+     "registry.registry.svc.cluster.local:5000/cluster/postgres-cnpg:18-ts2.24-pgcron-pgnet-wal2json-pgjsonschema-r1",
+   replicas: 2,
+-  manifestCode:
+-    "service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg.cluster-service.code.attachment.ts",
++  manifestSlug: "postgres-cnpg",
+ } as const satisfies ClusterService
