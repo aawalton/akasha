@@ -1,0 +1,16 @@
+diff --git a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
+index 32007c6f695cfc657a3789129d6e7d80742f67fe..9d0538b3eca5b761ffe9bc1651f030dc7c5a33f8 100644
+--- a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
++++ b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
+@@ -1,5 +1,10 @@
+ import type { DepSentence, DepToken } from "../dependency-graph/dependency-graph.module.code.ts"
+-import { byId, childrenByRel, lower } from "../dependency-graph/dependency-graph.module.code.ts"
++import {
++  byId,
++  childrenByRel,
++  childrenOf,
++  lower,
++} from "../dependency-graph/dependency-graph.module.code.ts"
+ 
+ export type Match = {
+   readonly at: readonly number[]
