@@ -23,7 +23,7 @@ export const packageLinking = {
     },
     {
       invariantKind: "departure",
-      statement: "A link already pointing at that folder is left as it is.",
+      statement: "A link already pointing at that folder is left as that link is.",
     },
     {
       invariantKind: "departure",
@@ -51,7 +51,7 @@ export const packageLinking = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding anything is left as it is.",
+      statement: "A folder holding anything is left as that folder is.",
     },
     {
       invariantKind: "departure",
