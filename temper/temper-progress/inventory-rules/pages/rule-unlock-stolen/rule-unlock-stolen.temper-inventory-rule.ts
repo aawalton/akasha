@@ -7,14 +7,14 @@ export const ruleUnlockStolen = {
   title: "Launder stolen unlockables",
   description:
     "Launders stolen items that can teach something (motifs, recipes, etc.) so they can be used. Place before other unlock rules.",
+  goal: "unlock",
+  conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "knowledge",
   displayOrder: 26,
   action: "fence-launder",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
-  goal: "unlock",
   locked: true,
   fromTemplate: "unlock-stolen",
-  conditions: "jsonl",
 } as const satisfies TemperInventoryRule
