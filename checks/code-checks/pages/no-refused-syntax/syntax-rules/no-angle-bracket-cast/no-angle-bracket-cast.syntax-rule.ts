@@ -24,7 +24,7 @@ export const noAngleBracketCast = {
     {
       invariantKind: "departure",
       statement:
-        "How the assertion is written is judged here rather than what that assertion asserts.",
+        "How the assertion is written is judged here rather than the type that assertion asserts.",
     },
     {
       invariantKind: "departure",
