@@ -9,7 +9,7 @@ export const monarchReport = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Nothing is written; the report says what would happen and stops.",
+      statement: "Nothing is written; the report says the effect the rules would have and stops.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const monarchReport = {
     {
       invariantKind: "departure",
       statement:
-        "What no rule reached is reported by merchant as evidence rather than as a proposal.",
+        "A transaction no rule reached is reported by merchant as evidence rather than as a proposal.",
     },
     {
       invariantKind: "departure",
