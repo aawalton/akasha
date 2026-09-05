@@ -1,0 +1,11 @@
+diff --git a/service-system/cluster-services/cluster-service.page-type.ts b/service-system/cluster-services/cluster-service.page-type.ts
+index 6c0555447f5b1b7e86ebb63bd673892b6f5e1a90..a6dd45d7ad2076ad0b49fcdf3fe86be523585075 100644
+--- a/service-system/cluster-services/cluster-service.page-type.ts
++++ b/service-system/cluster-services/cluster-service.page-type.ts
+@@ -1,6 +1,5 @@
+ import type { PageType } from "@akasha/pages/page-type"
+ import type { Service } from "../services/service.page-type.ts"
+-import type { ManifestCode } from "./properties/cluster-service-manifest-code.text-property.ts"
+ import type { ClusterServiceSchedule } from "./properties/cluster-service-schedule.text-property.ts"
+ import type { ContainerPort } from "./properties/container-port.number-property.ts"
+ import type { Image } from "./properties/image.text-property.ts"
