@@ -22,6 +22,7 @@ import {
   linesIn,
   type Named,
   NOTE,
+  namingAType,
   pathFile,
   put,
   renamed,
@@ -31,6 +32,7 @@ import {
   scratch,
   settled,
   slugFile,
+  TYPE_SLUG,
   thePage,
   tookAway,
   VOCABULARY,
@@ -157,6 +159,16 @@ test("a value naming its page type is filed under the target's id", () => {
   const at = settled(root, tree, "a.domain.ts", value, null)
 
   expect(said(edgeFile(root, B, "part-slugs", A))).toEqual({ path: relative(tree, at) })
+})
+
+test("a name reaching a page type the settle adds is filed, then and later", () => {
+  const { tree, root } = grounded()
+  wrotePages(root, tree, [TYPE_SLUG])
+
+  expect(wrotePages(root, tree, [aType(D, "probe", ["page"]), namingAType("probe")])).toEqual([])
+  expect(existsSync(edgeFile(root, D, "type-slug", A))).toBe(true)
+  expect(wrotePages(root, tree, [namingAType("probe")])).toEqual([])
+  expect(wrotePages(root, tree, [namingAType("gone")]).join(" ")).toMatch(/slug `gone`/)
 })
 
 test("a bare value reaches a page type extending the one its property names", () => {

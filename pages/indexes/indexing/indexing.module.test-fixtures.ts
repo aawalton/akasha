@@ -210,3 +210,10 @@ export function retyped(
   }
   return indexing.settle()
 }
+
+export const TYPE_SLUG: Named = aProperty(idOf("e"), "type-slug", "relation-property", {
+  targetPageTypeSlug: "page-type",
+})
+
+export const namingAType = (slug: string): Named =>
+  thePage({ id: A, pageTypeSlug: "domain", slug: "namer", typeSlug: `page-type/${slug}` })
