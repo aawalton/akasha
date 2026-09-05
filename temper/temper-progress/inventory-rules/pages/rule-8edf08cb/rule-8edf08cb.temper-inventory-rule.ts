@@ -6,11 +6,11 @@ export const rule8edf08cb = {
   slug: "rule-8edf08cb",
   title: "Sell learned style pages",
   description: "Disposal spine step 5: learned + sellable + sub-list-line. Closes gap A3.",
+  conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "style-pages",
   displayOrder: 78,
   action: "sell",
   active: true,
   updatedAt: "2026-07-05T13:20:38.006Z",
-  conditions: "jsonl",
 } as const satisfies TemperInventoryRule
