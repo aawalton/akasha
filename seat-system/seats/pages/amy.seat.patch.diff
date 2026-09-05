@@ -1,0 +1,14 @@
+diff --git a/machines/provisioning/provisioned-files/pages/repos-editor-settings.provisioned-file.content.json b/machines/provisioning/provisioned-files/pages/repos-editor-settings.provisioned-file.content.json
+index df6b32c50b035328b18cb6b18a51fe07719aa51d..3aad592b3f728a7f3e2c831fb7f7873f978d5fb9 100644
+--- a/machines/provisioning/provisioned-files/pages/repos-editor-settings.provisioned-file.content.json
++++ b/machines/provisioning/provisioned-files/pages/repos-editor-settings.provisioned-file.content.json
+@@ -17,7 +17,8 @@
+   },
+   "files.watcherExclude": {
+     "**/node_modules/**": true,
+-    "akasha-backup-*/**": true
++    "akasha-backup-*/**": true,
++    "**/.git/**": true
+   },
+   "terminal.integrated.mouseWheelScrollSensitivity": 3,
+   "terminal.integrated.gpuAcceleration": "off",
