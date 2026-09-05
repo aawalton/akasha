@@ -1,0 +1,13 @@
+diff --git a/checks/cluster-checks/pages/ast-grep/rules/mock-module-outside-test-file.yml b/checks/cluster-checks/pages/ast-grep/rules/mock-module-outside-test-file.yml
+index 238d3ae6450156cde2e9d3fb30cac32b2dc9f07d..5d53a1192606f8884973da78ef0e96bf7ceba059 100644
+--- a/checks/cluster-checks/pages/ast-grep/rules/mock-module-outside-test-file.yml
++++ b/checks/cluster-checks/pages/ast-grep/rules/mock-module-outside-test-file.yml
+@@ -11,7 +11,7 @@ message: |
+       the calls inside the window where that scanner can see them.
+     * NO FILE IS EXEMPTED BY NAME. One was: `_dispatch-mocks-test-helpers.ts` held 16 `mock.module`
+       calls and was excluded when this rule landed, which made a green from the rule mean nothing
+-      about the one file everybody knew was a standing instance of it. The calls have since moved
++      about the one file everybody knew was still an instance of it. The calls have since moved
+       into `dispatch.unit.test.ts` — the remedy this message prescribes — and the exclusion is gone.
+       An exclusion added back here reads as coverage the rule is no longer giving.
+ severity: error
