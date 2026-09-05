@@ -23,7 +23,7 @@ export const seatReset = {
     {
       invariantKind: "departure",
       statement:
-        "What the seat states is read back from its last committed page where no page is live.",
+        "The declarations the seat states are read back from its last committed page where no page is live.",
     },
     {
       invariantKind: "departure",
