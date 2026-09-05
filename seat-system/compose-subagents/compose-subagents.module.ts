@@ -17,7 +17,7 @@ export const composeSubagents = {
     },
     {
       invariantKind: "departure",
-      statement: "A kind's prompt stands in a file beside its page rather than in the page.",
+      statement: "A kind's prompt sits in a file beside its page rather than in the page.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,7 @@ export const composeSubagents = {
     },
     {
       invariantKind: "gap",
-      statement: "The old copy at tools/compose-subagents.ts still stands and still has readers.",
+      statement: "The old copy at tools/compose-subagents.ts is still there and still has readers.",
     },
   ],
 } as const satisfies Module

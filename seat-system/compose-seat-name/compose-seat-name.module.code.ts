@@ -21,7 +21,7 @@ export function personPrincipals(root: string): readonly string[] {
 }
 
 // A name that is exactly a person's slug is that person's, not a spelling of what the seat is, so
-// it stands however the attributes move. Every other name is composed from them, so it recomposes.
+// it remains however the attributes move. Every other name is composed from them, so it recomposes.
 export function movesWithTheAttributes(name: string, root: string): boolean {
   return !personPrincipals(root).includes(name)
 }

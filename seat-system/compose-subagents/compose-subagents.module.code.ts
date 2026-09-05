@@ -17,7 +17,7 @@ const PAGE_TYPE = "subagent-kind"
 // \`dispatched-as\` closed it, so it is a property here rather than a slug to parse.
 const DISPATCHED_AS = "dispatchedAs"
 
-// The prompt is a file property: the page states the extension, and the file stands beside it.
+// The prompt is a file property: the page states the extension, and the file sits beside it.
 const PROMPT_KEY = "subagentPrompt"
 
 const PROMPT_SLUG = "subagent-prompt"
@@ -28,13 +28,13 @@ const DEFINITION = "definition"
 
 const HELP = `compose-subagents — render the delegate definitions the client takes
 
-Every \`${PAGE_TYPE}\` page that stands, as the JSON object the client's \`--agents\` flag takes:
+Every \`${PAGE_TYPE}\` page there is, as the JSON object the client's \`--agents\` flag takes:
 a map of the name a seat dispatches by to its definition, its prompt, and the model it runs on
 where it states one.
 
 A kind's definition is what a dispatcher reads to choose, so the definition the page states is
 what lands in the map. A kind's prompt is the whole of what its subagent starts with, and it
-stands in the \`${PROMPT_SLUG}\` file beside the page rather than in the page.
+sits in the \`${PROMPT_SLUG}\` file beside the page rather than in the page.
 
 Usage:
   bun seat-system/compose-subagents/compose-subagents.module.code.ts [--out <path>]
@@ -97,7 +97,7 @@ function brief(root: string, path: string, value: Value): string {
   }
   const beside = besideAt(path, PROMPT_SLUG, held)
   if (beside === null) {
-    throw new Error(`${path} is no page a \`${PROMPT_SLUG}\` file can stand beside`)
+    throw new Error(`${path} is no page a \`${PROMPT_SLUG}\` file can sit beside`)
   }
   if (!existsSync(join(root, beside))) {
     throw new Error(`${beside} is not there, and a subagent boots on that alone`)
@@ -109,10 +109,10 @@ function brief(root: string, path: string, value: Value): string {
 
 export function kindsIn(
   root: string,
-  standing: readonly Listed[]
+  listed: readonly Listed[]
 ): Readonly<Record<string, Definition>> {
   const definitions: Record<string, Definition> = {}
-  for (const one of standing) {
+  for (const one of listed) {
     const value = valueOf(root, one.path)
     const name = textAt(value, DISPATCHED_AS)
     if (name === null || name === "") {
@@ -137,20 +137,20 @@ export function kindsIn(
 function main(): void {
   const { out } = parse(process.argv.slice(2))
   const root = rootFor(resolveRoots(), AKASHA)
-  let standing: readonly Listed[]
+  let listed: readonly Listed[]
   try {
-    standing = everyOfType(root, PAGE_TYPE)
+    listed = everyOfType(root, PAGE_TYPE)
   } catch (error) {
     fail(error instanceof Error ? error.message : String(error))
   }
   // An index naming none is not a cast of none: a seat that renders an empty map is told
   // delegation is off, so refuse rather than answer with nothing.
-  if (standing.length === 0) fail(`no \`${PAGE_TYPE}\` page stands, so there is no kind to render`)
+  if (listed.length === 0) fail(`no \`${PAGE_TYPE}\` page is there, so there is no kind to render`)
   let definitions: Readonly<Record<string, Definition>>
   try {
     definitions = kindsIn(
       root,
-      [...standing].sort((one, two) => (one.path < two.path ? -1 : 1))
+      [...listed].sort((one, two) => (one.path < two.path ? -1 : 1))
     )
   } catch (error) {
     fail(error instanceof Error ? error.message : String(error))

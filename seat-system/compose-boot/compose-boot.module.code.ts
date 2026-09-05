@@ -14,7 +14,7 @@ WHAT A SEAT IS BOUND TO IS NOT IN ITS PROMPT. This composes who the seat is, fro
 persona, domain and role, and the one call that names every page those bind it to.
 
 The pages themselves are read, never handed over: text in a prompt is credited as read without
-anybody reading it, and it goes on standing after the file under it has moved. So nothing here is
+anybody reading it, and it remains after the file under it has moved. So nothing here is
 credited, and a seat begins owing every page it is bound to.
 
 The call names the seat's own page. What that page warrants is what the seat must read, and the
@@ -67,7 +67,7 @@ function claim(attributes: Attributes): string {
 export const SEAT_READ = "akasha read --file-path"
 
 const READING =
-  "What that means stands in pages, and none of them stands here. They are read rather than handed " +
+  "What that means is in pages, and none of them is here. They are read rather than handed " +
   "over, so that what you act on is the text on disk now rather than the text that was composed when " +
   "you started. This one call names every one of them and hands back as many as one answer carries:"
 
