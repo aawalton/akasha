@@ -9,7 +9,8 @@ export const landingReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A body the caller asked for is recorded as read by whoever landed that body.",
+      statement:
+        "A body the caller asked for is recorded as read by the agent that landed that body.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +26,7 @@ export const landingReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading the caller already holds is what a landing is held to.",
+      statement: "A landing is held to a reading the caller already holds.",
     },
     {
       invariantKind: "departure",
