@@ -1,0 +1,14 @@
+diff --git a/alan/harness/monarch/client/monarch-client.module.ts b/alan/harness/monarch/client/monarch-client.module.ts
+index ad48d3ecf07b99770c61904c541999a137f5024c..b4c3c70601413d9c1f87c2f03b0f25c253b09134 100644
+--- a/alan/harness/monarch/client/monarch-client.module.ts
++++ b/alan/harness/monarch/client/monarch-client.module.ts
+@@ -9,7 +9,8 @@ export const monarchClient = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Every reply is read into a named shape rather than passed on as Monarch sent it.",
++      statement:
++        "Every reply is read into a named shape rather than passed on as Monarch sent that reply.",
+     },
+     {
+       invariantKind: "departure",
