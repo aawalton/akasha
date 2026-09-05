@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/amazon-notes/monarch-amazon-notes.module.ts b/alan/harness/monarch/amazon-notes/monarch-amazon-notes.module.ts
+index ba9987685f68886a8d355145df15b0bd07151965..182bf21e046c828e1231bac91b8ff8ecb03f52ca 100644
+--- a/alan/harness/monarch/amazon-notes/monarch-amazon-notes.module.ts
++++ b/alan/harness/monarch/amazon-notes/monarch-amazon-notes.module.ts
+@@ -35,7 +35,7 @@ export const monarchAmazonNotes = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What was written, what was declined and what order numbers were owed are all tallied at the end.",
++        "The rows written, the rows declined and the order numbers owed are all tallied at the end.",
+     },
+   ],
+ } as const satisfies Module
