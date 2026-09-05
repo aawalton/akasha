@@ -20,7 +20,7 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "What a change is judged by follows from its kind.",
+      statement: "The checks a change is judged by follow from its kind.",
     },
     {
       invariantKind: "departure",
