@@ -48,6 +48,14 @@ export const nameFormat = {
       statement:
         "Converting between lower-kebab-case and lower-camel-case is owned by their pages alone.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A key in a format akasha defines is lower camel case.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key in a format another system defines is spelled that system's way.",
+    },
   ],
   directives: [
     {
