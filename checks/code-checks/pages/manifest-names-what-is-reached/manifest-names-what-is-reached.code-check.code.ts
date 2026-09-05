@@ -1,8 +1,8 @@
 import { builtinModules } from "node:module"
 import { join } from "node:path"
 import { landingOf, specifiersIn } from "@akasha/code-system/code-specifier"
-import type { Change } from "@akasha/pages-system/change"
-import type { Shadow } from "@akasha/pages-system/shadow"
+import type { Change } from "@akasha/pages/change"
+import type { Shadow } from "@akasha/pages/shadow"
 import {
   bodyNamed,
   everyFileOf,

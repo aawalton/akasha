@@ -7,11 +7,11 @@ const ANSWERING = 'import type { Answering } from "@akasha/indexes/answering"\n'
 
 const READING = 'import type { Reading } from "@akasha/indexes/shape"\n'
 
-const SHADOW = 'import type { Shadow } from "@akasha/pages-system/shadow"\n'
+const SHADOW = 'import type { Shadow } from "@akasha/pages/shadow"\n'
 
-const VALUE_AT = 'import { type Value, valueAt } from "@akasha/pages-system/page-value"\n'
+const VALUE_AT = 'import { type Value, valueAt } from "@akasha/pages/page-value"\n'
 
-const BESIDE = 'import { uncommittedIn, wholeValue } from "@akasha/pages-system/page-uncommitted"\n'
+const BESIDE = 'import { uncommittedIn, wholeValue } from "@akasha/pages/page-uncommitted"\n'
 
 const TRIPS = `${ANSWERING}${VALUE_AT}export function one(root: string, path: string, index: Answering): Value | null {\n  index.everyPath()\n  return valueAt(path, root)\n}\n`
 

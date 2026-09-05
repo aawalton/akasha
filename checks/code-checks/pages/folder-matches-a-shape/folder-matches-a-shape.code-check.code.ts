@@ -5,10 +5,10 @@ import { claimsOf, type FilePropertiesBy, type SidecarsBy } from "@akasha/indexe
 import { edgesIn } from "@akasha/indexes/import"
 import { reachingIn } from "@akasha/indexes/package-reaching"
 import type { Known } from "@akasha/indexes/reaching"
-import type { Change } from "@akasha/pages-system/change"
-import { type Held, heldIn, partedIn } from "@akasha/pages-system/page-file-name"
-import { textAt, textsAt } from "@akasha/pages-system/page-value"
-import type { Shadow } from "@akasha/pages-system/shadow"
+import type { Change } from "@akasha/pages/change"
+import { type Held, heldIn, partedIn } from "@akasha/pages/page-file-name"
+import { textAt, textsAt } from "@akasha/pages/page-value"
+import type { Shadow } from "@akasha/pages/shadow"
 import {
   bodyOf,
   FILES,

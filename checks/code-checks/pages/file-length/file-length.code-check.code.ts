@@ -1,8 +1,8 @@
 import { type Carried, heldBeside, type Naming } from "@akasha/indexes/property-carrying"
-import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
-import { partedIn, sectionedIn } from "@akasha/pages-system/page-file-name"
-import type { Value } from "@akasha/pages-system/page-value"
-import type { Shadow } from "@akasha/pages-system/shadow"
+import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
+import { partedIn, sectionedIn } from "@akasha/pages/page-file-name"
+import type { Value } from "@akasha/pages/page-value"
+import type { Shadow } from "@akasha/pages/shadow"
 import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
 import {
   FILES,

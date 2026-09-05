@@ -1,9 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { noPathsFiled } from "@akasha/indexes/testing"
-import type { Change } from "@akasha/pages-system/change"
-import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { shadowAsked, shadowFor } from "@akasha/pages-system/shadow"
+import type { Change } from "@akasha/pages/change"
+import { exportedAs } from "@akasha/pages/page-export-name"
+import { shadowAsked, shadowFor } from "@akasha/pages/shadow"
 import { bodiesIn, bytesOf } from "@akasha/testing-system/bodying"
 import {
   change,

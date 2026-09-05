@@ -1,4 +1,4 @@
-import type { RecordProperty } from "@akasha/pages-system/record-property"
+import type { RecordProperty } from "@akasha/pages/record-property"
 import type { LimitMemory } from "./limit-memory.text-property.ts"
 import type { RequestCpu } from "./request-cpu.text-property.ts"
 import type { RequestMemory } from "./request-memory.text-property.ts"

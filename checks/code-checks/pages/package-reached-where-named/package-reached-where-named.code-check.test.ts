@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
 import { rootOf } from "@akasha/command-system/rooting"
-import { matchingIn } from "@akasha/pages-system/name-format/format-reaching"
-import { lowerKebabCase } from "@akasha/pages-system/name-format/lower-kebab-case"
-import { shadowAt } from "@akasha/pages-system/shadow"
+import { matchingIn } from "@akasha/pages/name-format/format-reaching"
+import { lowerKebabCase } from "@akasha/pages/name-format/lower-kebab-case"
+import { shadowAt } from "@akasha/pages/shadow"
 import {
   holdingIn,
   nameIn,
@@ -133,7 +133,7 @@ test("a reach at a code file the manifest does not name is refused while a page 
 const OUTER = "akasha/pages-system"
 
 const OUTER_MANIFEST = JSON.stringify({
-  name: "@akasha/pages-system",
+  name: "@akasha/pages",
   exports: { "./shadow": "./shadow/shadow.module.code.ts" },
 })
 
@@ -144,9 +144,7 @@ const NESTED: readonly Package[] = [
 
 test("a package standing inside another holds the files under it, so the outer one answers for none", () => {
   expect(holdingIn(NESTED, READING)?.named).toBe("@akasha/indexes")
-  expect(holdingIn(NESTED, `${OUTER}/shadow/shadow.module.code.ts`)?.named).toBe(
-    "@akasha/pages-system"
-  )
+  expect(holdingIn(NESTED, `${OUTER}/shadow/shadow.module.code.ts`)?.named).toBe("@akasha/pages")
   expect(holdingIn(NESTED, "akasha/code-system/held.ts")).toBe(null)
 })
 

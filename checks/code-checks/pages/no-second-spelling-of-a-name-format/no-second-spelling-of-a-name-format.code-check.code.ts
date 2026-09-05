@@ -1,6 +1,6 @@
 import { lineOf, parsedAs } from "@akasha/code-system/code-source"
-import type { Change } from "@akasha/pages-system/change"
-import type { Shadow } from "@akasha/pages-system/shadow"
+import type { Change } from "@akasha/pages/change"
+import type { Shadow } from "@akasha/pages/shadow"
 import ts from "typescript"
 import {
   bodyOf,

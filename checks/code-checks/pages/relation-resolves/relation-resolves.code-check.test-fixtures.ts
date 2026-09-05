@@ -9,7 +9,7 @@ import {
   relationFiled,
   schemaFiled,
 } from "@akasha/indexes/testing"
-import type { Change } from "@akasha/pages-system/change"
+import type { Change } from "@akasha/pages/change"
 
 export const A = "akasha/t/a.note.ts"
 

@@ -5,8 +5,8 @@ import { readdirSync, statSync } from "node:fs"
 import { join, relative } from "node:path"
 import type { CommandHelp, HelpFlag } from "@akasha/command-system/command-declaring"
 import { parseArgs } from "@akasha/command-system/parse-args"
-import { codeRoot } from "@akasha/pages-system/code-root"
-import { canonicalize, normalizeAbsolute } from "@akasha/pages-system/repo-path"
+import { codeRoot } from "@akasha/pages/code-root"
+import { canonicalize, normalizeAbsolute } from "@akasha/pages/repo-path"
 import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import {
   type AddonStructureFacts,

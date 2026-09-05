@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 
 import { resolve } from "node:path"
-import { codeRoot } from "@akasha/pages-system/code-root"
+import { codeRoot } from "@akasha/pages/code-root"
 import { errorMessage } from "@akasha/temper-build-deploy-checks/error-message"
 import { parseArgs as parseCliArgs } from "../../modules/cli-args/cli-args.module.code.ts"
 import { packageDependencyCycles } from "../../modules/package-cycles/package-cycles.module.code.ts"

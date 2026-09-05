@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages-system/page"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { Page } from "@akasha/pages/page"
+import type { PageType } from "@akasha/pages/page-type"
 import type { AccuracyM } from "./properties/accuracy-m.number-property.ts"
 import type { AltitudeAccuracyM } from "./properties/altitude-accuracy-m.number-property.ts"
 import type { AltitudeM } from "./properties/altitude-m.number-property.ts"

@@ -1,7 +1,7 @@
 import type { CommandHelp } from "@akasha/command-system/command-declaring"
 import { parseArgs } from "@akasha/command-system/parse-args"
 import { pageStem } from "@akasha/named-for/page-stem"
-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { akashaRoot } from "@akasha/pages/checkout-roots"
 import { asking } from "@akasha/pages-system-service/asking"
 import { readDifficulty } from "../../../../commands/track/session-leveling/session-leveling.module.code.ts"
 import { composedFor } from "../../../../pages/system-service/page-composing/page-composing.module.code.ts"

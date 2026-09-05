@@ -11,7 +11,7 @@ function given(at: string, body: string) {
 
 test("a calculation importing only types is let through", () => {
   const body =
-    'import type { Work } from "@akasha/pages-system/computed-property"\n' +
+    'import type { Work } from "@akasha/pages/computed-property"\n' +
     'import type { WakeDay } from "../wake-day.page-type.ts"\n\n' +
     "export const work: Work<WakeDay, number> = () => 0\n"
   expect(reasonsIn(given(AT, body))).toEqual([])

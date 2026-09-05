@@ -2,7 +2,7 @@
 
 import { existsSync, readFileSync } from "node:fs"
 import { relative } from "node:path"
-import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
+import { ownRepoRoot } from "@akasha/pages/checkout-roots"
 import { parseArgs } from "../../modules/cli-args/cli-args.module.code.ts"
 import { findFiles } from "../../modules/file-finding/file-finding.module.code.ts"
 import {

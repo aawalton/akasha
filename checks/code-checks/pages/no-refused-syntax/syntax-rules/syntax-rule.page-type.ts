@@ -1,6 +1,6 @@
 import type { Module } from "@akasha/code-system/module"
 import type { Test } from "@akasha/code-system/module/test"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { SourceFile } from "typescript"
 
 export type SyntaxRule = Module & {

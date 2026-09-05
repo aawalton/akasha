@@ -1,7 +1,7 @@
-import type { Change } from "@akasha/pages-system/change"
-import { pageNamed } from "@akasha/pages-system/page-file-name"
-import { textAt, type Value } from "@akasha/pages-system/page-value"
-import type { Shadow } from "@akasha/pages-system/shadow"
+import type { Change } from "@akasha/pages/change"
+import { pageNamed } from "@akasha/pages/page-file-name"
+import { textAt, type Value } from "@akasha/pages/page-value"
+import type { Shadow } from "@akasha/pages/shadow"
 import { input, PAGES } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 

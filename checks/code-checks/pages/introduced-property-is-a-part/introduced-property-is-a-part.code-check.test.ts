@@ -3,8 +3,8 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { listedFiled } from "@akasha/indexes/testing"
-import type { Change } from "@akasha/pages-system/change"
-import { type Shadow, shadowFor } from "@akasha/pages-system/shadow"
+import type { Change } from "@akasha/pages/change"
+import { type Shadow, shadowFor } from "@akasha/pages/shadow"
 import {
   declaring,
   landing,

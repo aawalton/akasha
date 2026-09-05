@@ -1,5 +1,5 @@
-import type { PageProperty } from "@akasha/pages-system/page-property"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageProperty } from "@akasha/pages/page-property"
+import type { PageType } from "@akasha/pages/page-type"
 
 export type TrackingField = PageProperty
 

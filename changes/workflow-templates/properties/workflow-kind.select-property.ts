@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const workflowKind = {
   id: "01a06810-7000-7000-8c46-5a1d7b9e7101",

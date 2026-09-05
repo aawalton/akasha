@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { speltIn } from "@akasha/code-system/code-rule"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import type { Change } from "@akasha/pages-system/change"
-import { shadowFor } from "@akasha/pages-system/shadow"
+import type { Change } from "@akasha/pages/change"
+import { shadowFor } from "@akasha/pages/shadow"
 import {
   carrying,
   claiming,

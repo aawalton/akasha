@@ -1,8 +1,8 @@
 import { literalOf, parsedAs } from "@akasha/code-system/code-source"
-import type { Change } from "@akasha/pages-system/change"
-import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { partedIn, sectionedIn } from "@akasha/pages-system/page-file-name"
-import type { Shadow } from "@akasha/pages-system/shadow"
+import type { Change } from "@akasha/pages/change"
+import { exportedAs } from "@akasha/pages/page-export-name"
+import { partedIn, sectionedIn } from "@akasha/pages/page-file-name"
+import type { Shadow } from "@akasha/pages/shadow"
 import ts from "typescript"
 import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
 import {

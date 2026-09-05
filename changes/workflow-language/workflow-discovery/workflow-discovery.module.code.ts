@@ -1,6 +1,6 @@
 import { listedById } from "@akasha/indexes"
-import { besideAt } from "@akasha/pages-system/page-file-name"
-import { canonicalize } from "@akasha/pages-system/repo-path"
+import { besideAt } from "@akasha/pages/page-file-name"
+import { canonicalize } from "@akasha/pages/repo-path"
 import { asking, type Row } from "@akasha/pages-system-service/asking"
 import type {
   DiscoveredWorkflow,

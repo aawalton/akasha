@@ -1,5 +1,5 @@
-import type { Change } from "@akasha/pages-system/change"
-import type { Shadow } from "@akasha/pages-system/shadow"
+import type { Change } from "@akasha/pages/change"
+import type { Shadow } from "@akasha/pages/shadow"
 import { FILES, judgingEach } from "../../../modules/change-walking/change-walking.module.code.ts"
 
 export const UNCLAIMED =

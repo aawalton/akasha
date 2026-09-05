@@ -1,6 +1,6 @@
 import { reachesIn } from "@akasha/code-system/package-manifest"
-import type { Change } from "@akasha/pages-system/change"
-import type { Shadow } from "@akasha/pages-system/shadow"
+import type { Change } from "@akasha/pages/change"
+import type { Shadow } from "@akasha/pages/shadow"
 import { FILES, input, textIn } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { manifestsIn } from "../package-reached-where-named/package-reached-where-named.code-check.code.ts"

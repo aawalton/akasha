@@ -1,5 +1,5 @@
 import type { Module } from "@akasha/code-system/module"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 
 export type WorkflowStep = Module
 

@@ -1,5 +1,5 @@
-import type { Change } from "@akasha/pages-system/change"
-import type { Carried } from "@akasha/pages-system/page-type-properties"
+import type { Change } from "@akasha/pages/change"
+import type { Carried } from "@akasha/pages/page-type-properties"
 import { bytesOf } from "@akasha/testing-system/bodying"
 import {
   filing,

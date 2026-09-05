@@ -6,10 +6,10 @@ import {
   reaches,
   type Shaped,
 } from "@akasha/indexes/reaching"
-import type { Change } from "@akasha/pages-system/change"
-import { pageNamed, partedIn } from "@akasha/pages-system/page-file-name"
-import { textAt, type Value, valueIn } from "@akasha/pages-system/page-value"
-import type { Shadow } from "@akasha/pages-system/shadow"
+import type { Change } from "@akasha/pages/change"
+import { pageNamed, partedIn } from "@akasha/pages/page-file-name"
+import { textAt, type Value, valueIn } from "@akasha/pages/page-value"
+import type { Shadow } from "@akasha/pages/shadow"
 import { bodyOf, input, PAGES } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 

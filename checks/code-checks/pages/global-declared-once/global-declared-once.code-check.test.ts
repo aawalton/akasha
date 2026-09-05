@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { pathFiled } from "@akasha/indexes/testing"
-import type { Change } from "@akasha/pages-system/change"
-import { shadowFor } from "@akasha/pages-system/shadow"
+import type { Change } from "@akasha/pages/change"
+import { shadowFor } from "@akasha/pages/shadow"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { change, scratch, staged } from "../typecheck/typecheck.code-check.test-fixtures.ts"
 import {

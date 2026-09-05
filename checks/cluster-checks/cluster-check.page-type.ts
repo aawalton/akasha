@@ -1,5 +1,5 @@
 import type { Module } from "@akasha/code-system/module"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { Image } from "@akasha/service-system/image"
 import type { AlwaysRun } from "./properties/always-run.boolean-property.ts"
 import type { ClosurePolicy } from "./properties/closure-policy.text-property.ts"
@@ -150,7 +150,7 @@ export const clusterCheck = {
     },
     {
       invariantKind: "gap",
-      statement: "The dispatch a cluster check states wakes that check.",
+      statement: "The dispatch a cluster check states is what wakes that check.",
     },
   ],
 } as const satisfies PageType

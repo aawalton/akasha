@@ -1,8 +1,8 @@
 import { reaches, recordsIn } from "@akasha/indexes/reaching"
-import type { Change } from "@akasha/pages-system/change"
-import { namedUnder, pageNamed } from "@akasha/pages-system/page-file-name"
-import { textAt, textsAt, type Value, valueIn } from "@akasha/pages-system/page-value"
-import type { Shadow } from "@akasha/pages-system/shadow"
+import type { Change } from "@akasha/pages/change"
+import { namedUnder, pageNamed } from "@akasha/pages/page-file-name"
+import { textAt, textsAt, type Value, valueIn } from "@akasha/pages/page-value"
+import type { Shadow } from "@akasha/pages/shadow"
 import { bodyOf, input, PAGES } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 

@@ -1,11 +1,11 @@
 import { dirname, join } from "node:path"
 import { landingOf, specifiersIn } from "@akasha/code-system/code-specifier"
-import type { Change } from "@akasha/pages-system/change"
-import { matchingIn } from "@akasha/pages-system/name-format/format-reaching"
-import { lowerKebabCase } from "@akasha/pages-system/name-format/lower-kebab-case"
-import type { Matching } from "@akasha/pages-system/name-format/name-matching"
-import { packageName } from "@akasha/pages-system/name-place/package-name"
-import type { Shadow } from "@akasha/pages-system/shadow"
+import type { Change } from "@akasha/pages/change"
+import { matchingIn } from "@akasha/pages/name-format/format-reaching"
+import { lowerKebabCase } from "@akasha/pages/name-format/lower-kebab-case"
+import type { Matching } from "@akasha/pages/name-format/name-matching"
+import { packageName } from "@akasha/pages/name-place/package-name"
+import type { Shadow } from "@akasha/pages/shadow"
 import {
   bodyOf,
   FILES,

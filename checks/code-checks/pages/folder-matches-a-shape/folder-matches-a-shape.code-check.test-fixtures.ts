@@ -1,4 +1,4 @@
-import { heldIn } from "@akasha/pages-system/page-file-name"
+import { heldIn } from "@akasha/pages/page-file-name"
 import { groupedBy } from "./folder-matches-a-shape.code-check.code.ts"
 import type { Standing } from "./folder-shapes/folder-shape.page-type.ts"
 

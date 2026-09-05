@@ -1,5 +1,5 @@
 import { basename, dirname } from "node:path"
-import { partedIn } from "@akasha/pages-system/page-file-name"
+import { partedIn } from "@akasha/pages/page-file-name"
 import { saidInside } from "../../../../../modules/shape-saying/shape-saying.module.code.ts"
 import type { Standing } from "../folder-shape.page-type.ts"
 

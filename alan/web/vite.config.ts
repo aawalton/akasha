@@ -7,7 +7,7 @@ import { defineConfig } from "vite"
 // A `pages-query-remote-in-client` plugin sat here, aliasing `@shared/pages-query` and its
 // `/ask` onto their remote halves for the browser bundle only. `@shared/pages-query` was a
 // local-first facade whose local half read the checkout standing on this machine through
-// `./here.ts` -> `@akasha/pages-system/checkout-roots` and the `tools/lib` query engine. A
+// `./here.ts` -> `@akasha/pages/checkout-roots` and the `tools/lib` query engine. A
 // browser has no checkout, so that half was dead code there, but importing it dragged node
 // builtins in — and vite answers a browser-side `node:fs` with a Proxy that throws on first
 // property access, so the module died at module-evaluation time and hydration never began.

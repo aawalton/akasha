@@ -1,9 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { pageFiled } from "@akasha/indexes/testing"
-import type { Change } from "@akasha/pages-system/change"
-import { namedUnder } from "@akasha/pages-system/page-file-name"
-import { shadowAt, shadowFor } from "@akasha/pages-system/shadow"
+import type { Change } from "@akasha/pages/change"
+import { namedUnder } from "@akasha/pages/page-file-name"
+import { shadowAt, shadowFor } from "@akasha/pages/shadow"
 import {
   claiming,
   declaring,

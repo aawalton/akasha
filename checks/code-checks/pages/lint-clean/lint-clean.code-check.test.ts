@@ -3,8 +3,8 @@ import { mkdirSync, readFileSync, realpathSync, symlinkSync, writeFileSync } fro
 import { dirname, join } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import type { Change } from "@akasha/pages-system/change"
-import { shadowAsked } from "@akasha/pages-system/shadow"
+import type { Change } from "@akasha/pages/change"
+import { shadowAsked } from "@akasha/pages/shadow"
 import {
   change,
   gone,

@@ -8,9 +8,9 @@ import {
   schemaFiled,
   valueAlsoFiled,
 } from "@akasha/indexes/testing"
-import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
-import type { Value } from "@akasha/pages-system/page-value"
-import { shadowAt } from "@akasha/pages-system/shadow"
+import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
+import type { Value } from "@akasha/pages/page-value"
+import { shadowAt } from "@akasha/pages/shadow"
 import { bodiesIn } from "@akasha/testing-system/bodying"
 import { onDisk } from "../../../modules/change-walking/change-walking.module.code.ts"
 import {

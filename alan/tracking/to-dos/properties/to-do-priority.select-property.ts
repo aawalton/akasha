@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const toDoPriority = {
   id: "01a065a1-49b7-7880-b138-f141f4b9971f",

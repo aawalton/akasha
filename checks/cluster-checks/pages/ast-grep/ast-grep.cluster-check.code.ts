@@ -1,6 +1,6 @@
 import { spawnSync } from "node:child_process"
 import { relative, resolve } from "node:path"
-import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
+import { ownRepoRoot } from "@akasha/pages/checkout-roots"
 import { z } from "zod"
 import {
   discoverSgconfigs,
