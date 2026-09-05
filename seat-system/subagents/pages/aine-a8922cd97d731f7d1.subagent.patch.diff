@@ -135,7 +135,7 @@ index db11d49d4cd98cd87807c9c44c843f8780742d23..cdb2ee6b984c01ab877503979e6eb5b6
    expect(reasonsIn(given(HELD, body))).toEqual([])
  })
 diff --git a/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.ts b/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.ts
-index 817d162ab63b4fbd672109f7107fb575445ba550..88f4029ca71578b9d61a40e0583bd5cd2b14eeae 100644
+index 817d162ab63b4fbd672109f7107fb575445ba550..6a26808662b2aba10ad6f51c08b7687a13150a8c 100644
 --- a/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.ts
 +++ b/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.ts
 @@ -15,7 +15,7 @@ export const noIndexPathSpelled = {
@@ -147,6 +147,15 @@ index 817d162ab63b4fbd672109f7107fb575445ba550..88f4029ca71578b9d61a40e0583bd5cd
      },
      {
        invariantKind: "departure",
+@@ -35,7 +35,7 @@ export const noIndexPathSpelled = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Strings standing next to each other are read joined by a separator.",
++      statement: "Strings next to each other are read joined by a separator.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/checks/code-checks/pages/no-method-signature/no-method-signature.code-check.test.ts b/checks/code-checks/pages/no-method-signature/no-method-signature.code-check.test.ts
 index a2677bd89a627f9168585ab327c1c162408b4eda..914a061ae3c8b47e9f6420e0daed3f24b1dbb26d 100644
 --- a/checks/code-checks/pages/no-method-signature/no-method-signature.code-check.test.ts
