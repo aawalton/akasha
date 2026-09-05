@@ -1,0 +1,240 @@
+diff --git a/collection-system/collections/properties/own-length-in-words.computed-property.code.ts b/collection-system/collections/properties/own-length-in-words.computed-property.code.ts
+index a4914900e1b31460ae2f9b7e1f51c756610d1873..c5b535d5e789896e0fd756da24c086aa91625c5f 100644
+--- a/collection-system/collections/properties/own-length-in-words.computed-property.code.ts
++++ b/collection-system/collections/properties/own-length-in-words.computed-property.code.ts
+@@ -1,11 +1,7 @@
+ import type { Work } from "@akasha/pages-system/computed-property"
+ import type { Collection } from "../collection.page-type.ts"
+ 
+-// A stored number that is not finite is read as absent, which is what `?? 0` met.
+-const counted = (held: number | undefined): number =>
+-  held === undefined || !Number.isFinite(held) ? 0 : held
+-
+ export const work: Work<Collection, number> = (page) => {
+-  const answer = counted(page.ownLength) * counted(page.unitWords)
++  const answer = (page.ownLength ?? 0) * (page.unitWords ?? 0)
+   return Number.isFinite(answer) ? answer : null
+ }
+diff --git a/collection-system/collections/properties/own-progress-in-words.computed-property.code.ts b/collection-system/collections/properties/own-progress-in-words.computed-property.code.ts
+index d3a1682514b1efbe13ff26b68ee58517178a269a..20accb625df07807a12c3c3c6bf6a9ecb95878c9 100644
+--- a/collection-system/collections/properties/own-progress-in-words.computed-property.code.ts
++++ b/collection-system/collections/properties/own-progress-in-words.computed-property.code.ts
+@@ -1,11 +1,7 @@
+ import type { Work } from "@akasha/pages-system/computed-property"
+ import type { Collection } from "../collection.page-type.ts"
+ 
+-// A stored number that is not finite is read as absent, which is what `?? 0` met.
+-const counted = (held: number | undefined): number =>
+-  held === undefined || !Number.isFinite(held) ? 0 : held
+-
+ export const work: Work<Collection, number> = (page) => {
+-  const answer = counted(page.ownProgress) * counted(page.unitWords)
++  const answer = (page.ownProgress ?? 0) * (page.unitWords ?? 0)
+   return Number.isFinite(answer) ? answer : null
+ }
+diff --git a/collection-system/collections/properties/own-remaining.computed-property.code.ts b/collection-system/collections/properties/own-remaining.computed-property.code.ts
+index 861c43074c4f0c18c6ca6925871486c9bfab853e..95936ddfc1335035d70a910885adb1172884b483 100644
+--- a/collection-system/collections/properties/own-remaining.computed-property.code.ts
++++ b/collection-system/collections/properties/own-remaining.computed-property.code.ts
+@@ -1,11 +1,7 @@
+ import type { Work } from "@akasha/pages-system/computed-property"
+ import type { Collection } from "../collection.page-type.ts"
+ 
+-// A stored number that is not finite is read as absent, which is what `?? 0` met.
+-const counted = (held: number | undefined): number =>
+-  held === undefined || !Number.isFinite(held) ? 0 : held
+-
+ export const work: Work<Collection, number> = (page) => {
+-  const answer = counted(page.ownLength) - counted(page.ownProgress)
++  const answer = (page.ownLength ?? 0) - (page.ownProgress ?? 0)
+   return Number.isFinite(answer) ? answer : null
+ }
+diff --git a/collection-system/collections/properties/parts-remaining-in-words.computed-property.code.ts b/collection-system/collections/properties/parts-remaining-in-words.computed-property.code.ts
+index 335a9edba2e0b987f8321f003b37862e22ac651b..46ee14f0a7550a58ea169ca9efca1301bb3d0a82 100644
+--- a/collection-system/collections/properties/parts-remaining-in-words.computed-property.code.ts
++++ b/collection-system/collections/properties/parts-remaining-in-words.computed-property.code.ts
+@@ -1,11 +1,7 @@
+ import type { Work } from "@akasha/pages-system/computed-property"
+ import type { Collection } from "../collection.page-type.ts"
+ 
+-// A stored number that is not finite is read as absent, which is what `?? 0` met.
+-const counted = (held: number | undefined): number =>
+-  held === undefined || !Number.isFinite(held) ? 0 : held
+-
+ export const work: Work<Collection, number> = (page) => {
+-  const answer = counted(page.partsLengthInWords) - counted(page.partsProgressInWords)
++  const answer = (page.partsLengthInWords ?? 0) - (page.partsProgressInWords ?? 0)
+   return Number.isFinite(answer) ? answer : null
+ }
+diff --git a/collection-system/collections/properties/total-length-in-words.computed-property.code.ts b/collection-system/collections/properties/total-length-in-words.computed-property.code.ts
+index 8b0451761b9fcd1cedc040aef30288407cc04671..aecd8a765911acadf9c7d4d5f9006b9df857f4cb 100644
+--- a/collection-system/collections/properties/total-length-in-words.computed-property.code.ts
++++ b/collection-system/collections/properties/total-length-in-words.computed-property.code.ts
+@@ -1,11 +1,7 @@
+ import type { Work } from "@akasha/pages-system/computed-property"
+ import type { WorkedCollection } from "../collection.page-type.ts"
+ 
+-// A stored number that is not finite is read as absent, which is what `?? 0` met.
+-const counted = (held: number | undefined): number =>
+-  held === undefined || !Number.isFinite(held) ? 0 : held
+-
+ export const work: Work<WorkedCollection, number> = (page) => {
+-  const answer = (page.ownLengthInWords ?? 0) + counted(page.partsLengthInWords)
++  const answer = (page.ownLengthInWords ?? 0) + (page.partsLengthInWords ?? 0)
+   return Number.isFinite(answer) ? answer : null
+ }
+diff --git a/collection-system/collections/properties/total-length.computed-property.code.ts b/collection-system/collections/properties/total-length.computed-property.code.ts
+index e7c6b684335c5bcfefcae139ba050be358bbdbfb..c8c6610b80381632f62aaad6ba2f11381d715896 100644
+--- a/collection-system/collections/properties/total-length.computed-property.code.ts
++++ b/collection-system/collections/properties/total-length.computed-property.code.ts
+@@ -4,7 +4,7 @@ import type { WorkedCollection } from "../collection.page-type.ts"
+ export const work: Work<WorkedCollection, number> = (page) => {
+   // The formula divides by `{unit-words}` with no `?? 0`, so an absent divisor answers absent.
+   const words = page.unitWords
+-  if (words === undefined || !Number.isFinite(words)) return null
++  if (words === undefined) return null
+   const answer = (page.totalLengthInWords ?? 0) / words
+   // Dividing by zero answers absent too.
+   return Number.isFinite(answer) ? answer : null
+diff --git a/collection-system/collections/properties/total-progress-in-words.computed-property.code.ts b/collection-system/collections/properties/total-progress-in-words.computed-property.code.ts
+index 5a72995fb351f9f97e512738fe1b22d85df34405..0373173a15434b97f43c23a45810a3f3c60a476b 100644
+--- a/collection-system/collections/properties/total-progress-in-words.computed-property.code.ts
++++ b/collection-system/collections/properties/total-progress-in-words.computed-property.code.ts
+@@ -1,11 +1,7 @@
+ import type { Work } from "@akasha/pages-system/computed-property"
+ import type { WorkedCollection } from "../collection.page-type.ts"
+ 
+-// A stored number that is not finite is read as absent, which is what `?? 0` met.
+-const counted = (held: number | undefined): number =>
+-  held === undefined || !Number.isFinite(held) ? 0 : held
+-
+ export const work: Work<WorkedCollection, number> = (page) => {
+-  const answer = (page.ownProgressInWords ?? 0) + counted(page.partsProgressInWords)
++  const answer = (page.ownProgressInWords ?? 0) + (page.partsProgressInWords ?? 0)
+   return Number.isFinite(answer) ? answer : null
+ }
+diff --git a/collection-system/collections/properties/total-progress.computed-property.code.ts b/collection-system/collections/properties/total-progress.computed-property.code.ts
+index 46a1eb9079d2925f3aa9008f28d715318653f5ce..925c29ec184a73379003f5eacb7be1d9e2d3e3ea 100644
+--- a/collection-system/collections/properties/total-progress.computed-property.code.ts
++++ b/collection-system/collections/properties/total-progress.computed-property.code.ts
+@@ -4,7 +4,7 @@ import type { WorkedCollection } from "../collection.page-type.ts"
+ export const work: Work<WorkedCollection, number> = (page) => {
+   // The formula divides by `{unit-words}` with no `?? 0`, so an absent divisor answers absent.
+   const words = page.unitWords
+-  if (words === undefined || !Number.isFinite(words)) return null
++  if (words === undefined) return null
+   const answer = (page.totalProgressInWords ?? 0) / words
+   // Dividing by zero answers absent too.
+   return Number.isFinite(answer) ? answer : null
+diff --git a/collection-system/collections/properties/total-remaining.computed-property.code.ts b/collection-system/collections/properties/total-remaining.computed-property.code.ts
+index 08cfc0f3a72bce0498859a34bc1093871c45b4f9..733b9a4d259413ef0bce6832b822dc63a58585f7 100644
+--- a/collection-system/collections/properties/total-remaining.computed-property.code.ts
++++ b/collection-system/collections/properties/total-remaining.computed-property.code.ts
+@@ -4,7 +4,7 @@ import type { WorkedCollection } from "../collection.page-type.ts"
+ export const work: Work<WorkedCollection, number> = (page) => {
+   // The formula divides by `{unit-words}` with no `?? 0`, so an absent divisor answers absent.
+   const words = page.unitWords
+-  if (words === undefined || !Number.isFinite(words)) return null
++  if (words === undefined) return null
+   const answer = (page.totalRemainingInWords ?? 0) / words
+   // Dividing by zero answers absent too.
+   return Number.isFinite(answer) ? answer : null
+diff --git a/pages/computing/page-computing.module.code.ts b/pages/computing/page-computing.module.code.ts
+index 54aca48d6ce94aeceeba31b5c30208725e098793..9f4da887b18e838707b3a2ba2b1d78bd27451ddf 100644
+--- a/pages/computing/page-computing.module.code.ts
++++ b/pages/computing/page-computing.module.code.ts
+@@ -60,6 +60,19 @@ function faultIn(thrown: unknown): string {
+   return thrown instanceof Error ? thrown.message : String(thrown)
+ }
+ 
++// A number that is not finite is no reading akasha keeps: a formula reads one as absent, a
++// query narrows one away, and `JUDGED.number` above refuses a calculation that answers one.
++// So one a page carries is left off the page a calculation is handed, and the calculation
++// meets absent where it would otherwise meet Infinity or NaN.
++function presentIn(value: Held): Held {
++  const held: Held = {}
++  for (const [key, one] of Object.entries(value)) {
++    if (typeof one === "number" && !Number.isFinite(one)) continue
++    held[key] = one
++  }
++  return held
++}
++
+ export function computingOver(source: Source): Computing {
+   const answers = new Map<string, Answer>()
+   const views = new Map<string, Held>()
+@@ -110,7 +123,7 @@ export function computingOver(source: Source): Computing {
+   const viewOf = (slug: string, subject: Subject): Held => {
+     const already = views.get(slug)
+     if (already !== undefined) return already
+-    const view: Held = { ...subject.value }
++    const view: Held = presentIn(subject.value)
+     for (const one of subject.computed) {
+       Object.defineProperty(view, one.key, {
+         enumerable: true,
+diff --git a/pages/computing/page-computing.module.test.ts b/pages/computing/page-computing.module.test.ts
+index 7fddcb55c4b30867314248637a5504bc657c6430..a9f5598ae1f39642e13b00e9dd75afb5f60ffbba 100644
+--- a/pages/computing/page-computing.module.test.ts
++++ b/pages/computing/page-computing.module.test.ts
+@@ -179,6 +179,42 @@ describe("the values a page type's calculations work out", () => {
+     expect(working?.dark.size).toBe(0)
+   })
+ 
++  test("a number that is not finite is absent on the page handed to a calculation", () => {
++    for (const odd of [Infinity, -Infinity, NaN]) {
++      const source = sourceOf({
++        day: page("1", { points: odd, sound: 4 }, [
++          held("counted", "number", (one) => ((one["points"] as number | undefined) ?? 0) + 1),
++          held("carried", "boolean", (one) => "points" in one),
++          held("beside", "number", (one) => one["sound"] as number),
++        ]),
++      })
++      const working = computingOver(source).workedAt("day")
++      expect(working?.value["counted"]).toBe(1)
++      expect(working?.value["carried"]).toBe(false)
++      expect(working?.value["beside"]).toBe(4)
++    }
++  })
++
++  test("a number that is not finite is absent to a reach as well", () => {
++    const source = sourceOf({
++      one: page("1", { points: Infinity }, []),
++      two: page("2", {}, [
++        held("borrowed", "number", (_own, reach) => {
++          const other = reach.target<Held>("one")
++          return other === null ? null : ((other["points"] as number | undefined) ?? 7)
++        }),
++      ]),
++    })
++    const working = computingOver(source).workedAt("two")
++    expect(working?.value["borrowed"]).toBe(7)
++  })
++
++  test("a number that is not finite remains in what a page carries", () => {
++    const source = sourceOf({ day: page("1", { points: Infinity }, []) })
++    const working = computingOver(source).workedAt("day")
++    expect(working?.value["points"]).toBe(Infinity)
++  })
++
+   test("a page no slug names is answered as nothing", () => {
+     expect(computingOver(sourceOf({})).workedAt("gone")).toBe(null)
+   })
+diff --git a/pages/computing/page-computing.module.ts b/pages/computing/page-computing.module.ts
+index 33b292904fcdfc74b2bee03480b296a3c0fb8dd5..94faba6a0dafa915005aa1c43ed1f7aa165deef1 100644
+--- a/pages/computing/page-computing.module.ts
++++ b/pages/computing/page-computing.module.ts
+@@ -16,6 +16,14 @@ export const pageComputing = {
+       invariantKind: "departure",
+       statement: "A page handed to a calculation carries every computed key as a lazy read.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A number that is not finite is absent on the page handed to a calculation.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A number that is not finite remains in what a page carries.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A computed key is worked out once over one page.",
