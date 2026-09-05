@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/read/read.command.ts b/commands/read/read.command.ts
+index d96451ddfe3a6d439e56bdbaaacc785f7104aea6..4ce631fe681bb5ae5fcab9c7b873758174d0f7dd 100644
+--- a/commands/read/read.command.ts
++++ b/commands/read/read.command.ts
+@@ -32,7 +32,7 @@ export const read = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A read returns the whole file or what changed after the agent read the file.",
++      statement: "A read returns the whole file or the difference since the agent read the file.",
+     },
+     {
+       invariantKind: "departure",
