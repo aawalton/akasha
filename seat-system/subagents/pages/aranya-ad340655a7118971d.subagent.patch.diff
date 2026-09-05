@@ -56,6 +56,29 @@ index aeec510190d753672adc3727ff48f7b2c2346620..8334f0fc7cbcd978a7d8ca5f77e4da41
    }
    let said: Drafted | Refused
    try {
+diff --git a/command-system/asking/asking.module.ts b/command-system/asking/asking.module.ts
+index eee8ced5ada75c15df8425aba70b622dc6587fd8..a960989d58ef88c1ef99a084e9ada8b83570388f 100644
+--- a/command-system/asking/asking.module.ts
++++ b/command-system/asking/asking.module.ts
+@@ -53,6 +53,18 @@ export const asking = {
+       invariantKind: "departure",
+       statement: "A caller whose agent has no page is refused rather than drafted nowhere.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "That refusal names what puts a subagent's page up and what to run to put one up.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That refusal names the log where a refusal to put that page up was said.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "What the refusal names is filled in from the agent id as far as that id says.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A body drafted is recorded as read by nobody.",
 diff --git a/hook-system/agent-hooks/state-subagent/state-subagent.agent-hook.code.ts b/hook-system/agent-hooks/state-subagent/state-subagent.agent-hook.code.ts
 index 8b420b28f3c11ce0b6faee2ed62711b518c16673..cea2b26cf3962cad1695d12d352aa8a8064ad0c6 100644
 --- a/hook-system/agent-hooks/state-subagent/state-subagent.agent-hook.code.ts
