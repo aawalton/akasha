@@ -267,5 +267,9 @@ export const temperLibSets = {
       invariantKind: "departure",
       statement: "A set is looked up by its numeric set id.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Japanese is not among the languages the library counts as supported.",
+    },
   ],
 } as const satisfies EsoAddon
