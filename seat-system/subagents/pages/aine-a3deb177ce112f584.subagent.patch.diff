@@ -1,5 +1,5 @@
 diff --git a/command-system/calling/calling.module.code.ts b/command-system/calling/calling.module.code.ts
-index 6d7d75cdd8cf6056894e90a67a0400ce4941c8c8..d3fea38121e3ef910648633f3b7b51a1e6c6736b 100644
+index 6d7d75cdd8cf6056894e90a67a0400ce4941c8c8..cfd86772e7c87bc0e691c367f7f6b37231cf073d 100644
 --- a/command-system/calling/calling.module.code.ts
 +++ b/command-system/calling/calling.module.code.ts
 @@ -216,7 +216,7 @@ export function unreadIn(root: string, calledAs: string): string | null {
@@ -11,6 +11,15 @@ index 6d7d75cdd8cf6056894e90a67a0400ce4941c8c8..d3fea38121e3ef910648633f3b7b51a1
    }
    if (commandSlugIn(root) === null) {
      return (
+@@ -240,7 +240,7 @@ async function answeredBy(
+   const beside = besideAt(path, CODE, TS)
+   if (beside === null) {
+     return refusing(
+-      `\`${named}\` is a command page, and no code file can stand beside a name like it`
++      `\`${named}\` is a command page, and no code file can sit beside a name like it`
+     )
+   }
+   const reached = reachedIn(join(root, beside))
 diff --git a/command-system/change-freshness/change-freshness.module.test.ts b/command-system/change-freshness/change-freshness.module.test.ts
 index 4d4647f42188938e9b8efd06cd20e501cdf79c14..fcd3cf932790e7ce0d14de2a5172db5246ba80e7 100644
 --- a/command-system/change-freshness/change-freshness.module.test.ts
@@ -64,7 +73,7 @@ index a22c46169c02651059b8ee77d0250df3adc79125..f9e190ae2210243b3ed3b81e12372781
        " one",
        "-two",
 diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
-index 326aaeb97d1bcd1e51687816bbe4ce0dcbf3c341..88e2db0137655e5b5b090d8bde09870709e97dbd 100644
+index 326aaeb97d1bcd1e51687816bbe4ce0dcbf3c341..0f1357424dd1fd124057f4f808132df09d7f3f2e 100644
 --- a/command-system/landing/landing.module.code.ts
 +++ b/command-system/landing/landing.module.code.ts
 @@ -59,9 +59,9 @@ export type Drafted = {
@@ -79,3 +88,12 @@ index 326aaeb97d1bcd1e51687816bbe4ce0dcbf3c341..88e2db0137655e5b5b090d8bde098707
  
  const KEPT_AS_IT_WAS = "nothing was drafted — the patch is as the patch was"
  
+@@ -259,7 +259,7 @@ function unfresh(
+       refusals: [
+         ...moved.map(
+           (one) =>
+-            `${one} — read against \`${named}\`, and what stands at \`${base}\` is not what was read, so writing it would put back what moved in between`
++            `${one} — read against \`${named}\`, and what is at \`${base}\` is not what was read, so writing it would put back what moved in between`
+         ),
+         tail,
+       ],
