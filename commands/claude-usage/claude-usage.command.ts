@@ -38,7 +38,8 @@ export const claudeUsage = {
     },
     {
       invariantKind: "departure",
-      statement: "An account carrying no figure moves neither the mean nor the count beside it.",
+      statement:
+        "An account carrying no figure moves neither the mean nor the count beside that mean.",
     },
     {
       invariantKind: "departure",
@@ -55,11 +56,11 @@ export const claudeUsage = {
     {
       invariantKind: "departure",
       statement:
-        "The editor host is node, so it asks this command as a child rather than reading itself.",
+        "The editor host is node, so that host asks this command as a child rather than reading itself.",
     },
     {
       invariantKind: "departure",
-      statement: "It takes no word at all, so any word said to it is refused.",
+      statement: "This command takes no word at all, so any word said to that command is refused.",
     },
     {
       invariantKind: "absence",
