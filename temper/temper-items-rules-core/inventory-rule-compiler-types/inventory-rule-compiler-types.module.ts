@@ -20,7 +20,7 @@ export const inventoryRuleCompilerTypes = {
     {
       invariantKind: "departure",
       statement:
-        "A wanted equipment signature says what a build asks for rather than what is held.",
+        "A wanted equipment signature says the gear a build asks for rather than the gear held.",
     },
   ],
 } as const satisfies Module
