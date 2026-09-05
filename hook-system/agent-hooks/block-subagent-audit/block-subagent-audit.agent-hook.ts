@@ -26,12 +26,13 @@ export const blockSubagentAudit = {
     },
     {
       invariantKind: "departure",
-      statement: "A prefix that only runs the call behind it does not hide this one from it.",
+      statement:
+        "A prefix that only runs the call behind that prefix does not hide this one from this hook.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The refusal says what a run costs, the command's own help saying only what it writes.",
+        "The refusal says what a run costs, the command's own help saying only what that command writes.",
     },
     {
       invariantKind: "departure",
