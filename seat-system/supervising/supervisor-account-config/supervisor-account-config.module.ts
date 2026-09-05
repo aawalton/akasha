@@ -10,7 +10,7 @@ export const supervisorAccountConfig = {
     {
       invariantKind: "departure",
       statement:
-        "What a seat spawns under is read from the seat conditions rather than from the environment.",
+        "The settings a seat spawns under are read from the seat conditions rather than the environment.",
     },
     {
       invariantKind: "departure",
