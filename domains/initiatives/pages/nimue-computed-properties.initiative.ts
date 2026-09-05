@@ -10,7 +10,7 @@ export const nimueComputedProperties = {
     {
       statement: "A property states the calculation that fills it.",
       workingMemory:
-        "`pages/computing/page-computing` is landed: a pure evaluator over calculations handed in, memoised per `pageId#propertySlug`, rings caught within a page and across two, barred per key. 11 tests, and a seeded control proves the ring test sighted. It and `computed-property` are ways in on the pages manifest. The first calculation lands atomically, and `workingOver` bars every formula key on a sort it holds no kind for, so `page-formulas` learns `computed-property` in that landing.",
+        "strength-calories is landed as the first computed property, and a query answers volume/7 exactly on every day carrying strength work. Its code file exports `work`, which page-asking loads by transpiling that file's text rather than importing it, so the pages package reaches a calculation without naming the domain holding it. Left here: the generated registry the compiler checks, and moving `holds` off formula-properties when that type goes.",
     },
     {
       statement: "A calculation names its inputs rather than reaching for what it likes.",
@@ -31,7 +31,7 @@ export const nimueComputedProperties = {
     {
       statement: "No calculation is written as an expression the system parses.",
       workingMemory:
-        "`pages/formulas` parses text like `case({faith-points} >= 2 -> 4, otherwise -> 0)` and `({active-calories} ?? 0) + ({strength-calories} ?? 0)`. wake-day carries sixteen formula properties: six *-level, six *-stoplight, stoplights, total-level, activity-calories, strength-calories. `pages/system-service/page-asking` imports the parser, and `alan/tracking/daily/day-figures` has no code importer. All sixteen are carried to functions before the parser goes.",
+        "`pages/formulas` parses text like `case({faith-points} >= 2 -> 4, otherwise -> 0)`. Fifteen formula properties are left on wake-day: six *-level, six *-stoplight, stoplights, total-level and activity-calories. strength-calories is already a calculation, and a formula reads a computed key as a formula reads a stored one, so the rest carry one at a time. `alan/tracking/daily/day-figures` has no code importer. All fifteen are carried before the parser goes.",
     },
     {
       statement: "Sleep hours and surplus hours answer from a calculation.",
