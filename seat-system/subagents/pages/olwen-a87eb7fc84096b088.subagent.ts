@@ -5,7 +5,7 @@ export const olwenA87eb7fc84096b088 = {
   pageTypeSlug: "subagent",
   slug: "olwen-a87eb7fc84096b088",
   principalSeatName: "olwen",
-  assignmentSlug: "initiative/olwen-domain-cleanup",
+  assignmentSlug: "initiative/olwen-command-cleanup",
   dispatchedAs: "general-purpose",
   agentId: "01a06d75-4175-7000-ac04-631a861a42a3--a87eb7fc84096b088",
 } as const satisfies Subagent
