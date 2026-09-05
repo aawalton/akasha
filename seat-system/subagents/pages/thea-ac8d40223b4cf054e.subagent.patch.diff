@@ -11,6 +11,21 @@ index 9d74617613a03ae553c1530f134c0469b52d554f..37b583e3cea0a150d774aa7ac751b57b
        declaredBy,
        required: one["required"] === true,
        many: one["many"] === true,
+diff --git a/pages/types/declared-properties/declared-properties.module.ts b/pages/types/declared-properties/declared-properties.module.ts
+index 0eb4b1f7fa47c8ee1e2d6e256d4806be7e895601..fdad5715fef61223c88888b5ed824b12cf880b0c 100644
+--- a/pages/types/declared-properties/declared-properties.module.ts
++++ b/pages/types/declared-properties/declared-properties.module.ts
+@@ -43,6 +43,10 @@ export const declaredProperties = {
+       invariantKind: "departure",
+       statement: "The declaration from the type named last binds where two are equally near.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A declaration stating a reach carries that reach rather than its property's.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
 diff --git a/pages/types/properties/properties.record-property.ts b/pages/types/properties/properties.record-property.ts
 index 7897f1a2fba249e4feab4c9bb8fd08c14dc0f435..f181fe6035667063072f7e4d91115c3f2f1a6235 100644
 --- a/pages/types/properties/properties.record-property.ts
