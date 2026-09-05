@@ -15,6 +15,7 @@ export const temperProgress = {
     "page-type/temper-metric-tree",
     "page-type/temper-progress-thing",
     "page-type/temper-rotation-breakdown-row",
+    "page-type/temper-item-action",
     "page-type/temper-rule-template",
     "page-type/temper-task",
     "page-type/temper-watcher-enrolment",
