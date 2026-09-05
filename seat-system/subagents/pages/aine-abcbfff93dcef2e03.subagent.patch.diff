@@ -12,7 +12,7 @@ index d0623bb4de6af8cd8a58ce7a0aebda3a46473335..f3f2970ef2d24e5840e53f17e58002a4
      const exported = s.indexOf(`test -f ${IPA}`)
      const gate = s.indexOf("build-stamp gate")
 diff --git a/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts b/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts
-index 3ff86d9898f9d4263943686ef478c1351bfa954b..6bf19d8cc4054ae6519c4e82cab9f083d6da7231 100644
+index 3ff86d9898f9d4263943686ef478c1351bfa954b..2cd3d728ab64a3c9f4bb0ed90f33cbd5b4ad717b 100644
 --- a/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts
 +++ b/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts
 @@ -10,7 +10,7 @@ export const MOBILE_CUT_PAGE_TYPE_SLUG = "mobile-cut"
@@ -42,6 +42,15 @@ index 3ff86d9898f9d4263943686ef478c1351bfa954b..6bf19d8cc4054ae6519c4e82cab9f083
  export function cutPagePath(slug: string): string {
    return `${CUTS_FOLDER}/${slug}/${slug}${PAGE_SUFFIX}`
  }
+@@ -111,7 +111,7 @@ function pathsUnder(root: string): readonly string[] {
+ }
+ 
+ /**
+- * Every cut page standing inside akasha.
++ * Every cut page inside akasha.
+  *
+  * A page that will not load raises rather than being left out, so that a fault in one cut is
+  * never answered as that cut never having been taken.
 diff --git a/mobile-cli/cut-fingerprint/cut-fingerprint.module.test.ts b/mobile-cli/cut-fingerprint/cut-fingerprint.module.test.ts
 index 57ef29daf074334a46cc08ba2a3af71bfefd4b81..909373f1f6e0ee82a7dfaa455cb1f5e358767488 100644
 --- a/mobile-cli/cut-fingerprint/cut-fingerprint.module.test.ts
