@@ -88,7 +88,7 @@ index 7d3d0bff2dff900f5ed0b9d609f711caea9485d0..6bdfb9a83a9efca925494248589c7706
      const named = reached(node, taken.bound)
      if (named !== null) {
 diff --git a/checks/code-checks/pages/no-tmp/no-tmp.code-check.test.ts b/checks/code-checks/pages/no-tmp/no-tmp.code-check.test.ts
-index ee5ee30644b8f4897fa2296f39440edcfffa0d14..2d76d0752edec5cf391e4e8090f02a23f3d92682 100644
+index ee5ee30644b8f4897fa2296f39440edcfffa0d14..3b2a6f65c47ba4ee7f83f5afb353e391e1730fff 100644
 --- a/checks/code-checks/pages/no-tmp/no-tmp.code-check.test.ts
 +++ b/checks/code-checks/pages/no-tmp/no-tmp.code-check.test.ts
 @@ -29,7 +29,7 @@ test("a literal that is exactly the scratch root we refuse is refused, and the l
@@ -109,6 +109,15 @@ index ee5ee30644b8f4897fa2296f39440edcfffa0d14..2d76d0752edec5cf391e4e8090f02a23
    expect(reasonsIn(given(AT, 'const at = "tmp/held"\n'))).toEqual([])
    expect(reasonsIn(given(AT, 'const at = "./tmp"\n'))).toEqual([])
  })
+@@ -57,7 +57,7 @@ test("a template whose head begins the path is refused", () => {
+   expect(reasonsIn(given(AT, "const at = `/tmp/${one}`\n"))).toHaveLength(1)
+ })
+ 
+-test("text standing after a substitution begins no path and is passed over", () => {
++test("text after a substitution begins no path and is passed over", () => {
+   expect(reasonsIn(given(AT, "const at = `${root}/tmp/held`\n"))).toEqual([])
+ })
+ 
 diff --git a/checks/code-checks/pages/no-tmp/no-tmp.code-check.ts b/checks/code-checks/pages/no-tmp/no-tmp.code-check.ts
 index 7480e0a5f77d99251a029c3bfd36168556e8c85f..abec0f4c601c26d75517a5031f1a97f1e8396743 100644
 --- a/checks/code-checks/pages/no-tmp/no-tmp.code-check.ts
