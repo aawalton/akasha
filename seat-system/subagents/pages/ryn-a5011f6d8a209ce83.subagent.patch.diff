@@ -32,20 +32,6 @@ index b679c719cf4f1802802583ac13da46f3cc9c444f..0ce338125184ffc26261357e2d939cf7
      },
      {
        invariantKind: "departure",
-diff --git a/alan/harness/monarch/eval/monarch-eval.domain.ts b/alan/harness/monarch/eval/monarch-eval.domain.ts
-index fa5a97f4fe748342184d19cfda53ab2aeb068351..f31d7bfa191ee2ba910bf6eb3c4d60f6137f8f38 100644
---- a/alan/harness/monarch/eval/monarch-eval.domain.ts
-+++ b/alan/harness/monarch/eval/monarch-eval.domain.ts
-@@ -116,8 +116,7 @@ export const monarchEval = {
-     },
-     {
-       invariantKind: "departure",
--      statement:
--        "A run spends money and keeps its whole result, and scoring reads that result, so a report can be redrawn any number of ways without paying again.",
-+      statement: "A run spends money and keeps its whole result, and scoring reads that result.",
-     },
-     {
-       invariantKind: "gap",
 diff --git a/alan/harness/monarch/land-files/monarch-land-files.module.ts b/alan/harness/monarch/land-files/monarch-land-files.module.ts
 index 5cce3a985615d6f71d351ec53733cf0175cf5e98..6baad72468610620d93373f47060662890e7c9e9 100644
 --- a/alan/harness/monarch/land-files/monarch-land-files.module.ts
@@ -74,7 +60,7 @@ index de9cc946fe29f31e8ab4c52115ce0e46c6558151..00310f15a0a126e861d0d6f3b0ab3291
      {
        invariantKind: "departure",
 diff --git a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
-index fc7e1ef1221d670ccc8608eb0e849e956c4073dc..3dd3ae0b7856a358a6e5f78e823489023435bb59 100644
+index a46021785e7cf104b10217c3401615ce93d0180a..b01d188477fe37b3ebaba9831a6c9e7a6b01fc9a 100644
 --- a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
 +++ b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
 @@ -68,7 +68,11 @@ export const surplusFallNotifying = {
@@ -91,7 +77,7 @@ index fc7e1ef1221d670ccc8608eb0e849e956c4073dc..3dd3ae0b7856a358a6e5f78e82348902
    ],
  } as const satisfies Module
 diff --git a/infrastructure/cluster-manifests/orphan-resource-listing/orphan-resource-listing.module.ts b/infrastructure/cluster-manifests/orphan-resource-listing/orphan-resource-listing.module.ts
-index 06497c5da7ce01da40a437ec598b8fa44bc01067..d88e2a9da79e6cb9128733b4b70a71b9770bcc91 100644
+index 15c72f34ad9c0e3a3dff3f1d08f02a4dc18235ee..ddad9c4e5799d51aaa58a3ad42a7daf1039cb124 100644
 --- a/infrastructure/cluster-manifests/orphan-resource-listing/orphan-resource-listing.module.ts
 +++ b/infrastructure/cluster-manifests/orphan-resource-listing/orphan-resource-listing.module.ts
 @@ -28,8 +28,11 @@ export const orphanResourceListing = {
