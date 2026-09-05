@@ -1,0 +1,13 @@
+diff --git a/commands/move/move.command.ts b/commands/move/move.command.ts
+index 96f292454fab5b9c248b715e85ac3af676a44efb..accc941bffcd4f078ab0dfa735a1d9821b712525 100644
+--- a/commands/move/move.command.ts
++++ b/commands/move/move.command.ts
+@@ -9,7 +9,7 @@ export const move = {
+   code: "ts",
+   test: "ts",
+   testFixtures: "ts",
+-  changeKindSlug: "change-mechanical",
++  changeKindSlug: "change-checked",
+   partSlugs: [
+     "module/move-arguing",
+     "module/move-listing",
