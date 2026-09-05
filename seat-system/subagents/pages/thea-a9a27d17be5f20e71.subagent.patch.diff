@@ -1,0 +1,82 @@
+diff --git a/temper/temper-web/routes/addon-bundle-version/addon-bundle-version.route.test.tsx b/temper/temper-web/routes/addon-bundle-version/addon-bundle-version.route.test.tsx
+index 05934e80f8f4cfdc72dc5023e0f943483f4dc393..2470032e4687749712687f7a7cfb07346c301f9f 100644
+--- a/temper/temper-web/routes/addon-bundle-version/addon-bundle-version.route.test.tsx
++++ b/temper/temper-web/routes/addon-bundle-version/addon-bundle-version.route.test.tsx
+@@ -1,12 +1,15 @@
+ // The route reads the version off disk, so what it answers is read from a real file rather than
+-// from a stub. `ADDONS_BUNDLE_DIR` is read once when the bundle-dir module loads, so the temporary
+-// folder is put in the environment before the route's code is imported, and the import is dynamic
+-// for that reason alone.
++// from a stub, and the bundle folder is a temporary one this file makes.
++//
++// The folder is read once, when the bundle-folder module loads, and that module loads once for the
++// whole test process. So this file puts its temporary folder in the environment before importing
++// the route, and then takes the folder the route resolved rather than assuming that is the folder
++// just put there — another test file loading the module first is what makes the two differ.
+ //
+ // What this pins: an absent version file is a 404 carrying JSON rather than an empty 200 or a
+-// throw, and a present one is answered with the trailing newline off it, since a caller comparing
+-// the version it holds against this one compares text. The download address rides along so a
+-// caller that finds itself behind has somewhere to go without knowing the address itself.
++// throw, and a present one is answered with the trailing newline taken off it, since a caller
++// comparing the version it holds against this one compares text. The download address rides along,
++// so a caller that finds itself behind has somewhere to go without knowing that address itself.
+ 
+ import { beforeEach, expect, test } from "bun:test"
+ import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
+@@ -14,12 +17,14 @@ import { tmpdir } from "node:os"
+ import { join } from "node:path"
+ import type { AppLoadContext } from "react-router"
+ 
+-const BUNDLE_DIR = mkdtempSync(join(tmpdir(), "temper-addons-"))
+-process.env["ADDONS_BUNDLE_DIR"] = BUNDLE_DIR
+-
+-const VERSION_FILE = join(BUNDLE_DIR, "version.txt")
++process.env["ADDONS_BUNDLE_DIR"] = mkdtempSync(join(tmpdir(), "temper-addons-"))
+ 
+ const { loader } = await import("./addon-bundle-version.route.code.tsx")
++const { ADDONS_BUNDLE_DIR } = await import(
++  "../../.server/addons-bundle-dir/addons-bundle-dir.module.code.ts"
++)
++
++const VERSION_FILE = join(ADDONS_BUNDLE_DIR, "version.txt")
+ 
+ type ResourceLoaderArgs = {
+   request: Request
+diff --git a/temper/temper-web/routes/addon-bundle/addon-bundle.route.test.tsx b/temper/temper-web/routes/addon-bundle/addon-bundle.route.test.tsx
+index 6aab800b8c35bafcc55f72a988285c8f962b93ae..993ecc1b2edc1631acb2cba69582b1b961447033 100644
+--- a/temper/temper-web/routes/addon-bundle/addon-bundle.route.test.tsx
++++ b/temper/temper-web/routes/addon-bundle/addon-bundle.route.test.tsx
+@@ -1,7 +1,10 @@
+ // The route serves the archive off disk, so what it answers is read from a real file rather than
+-// from a stub. `ADDONS_BUNDLE_DIR` is read once when the bundle-dir module loads, so the temporary
+-// folder is put in the environment before the route's code is imported, and the import is dynamic
+-// for that reason alone.
++// from a stub, and the bundle folder is a temporary one this file makes.
++//
++// The folder is read once, when the bundle-folder module loads, and that module loads once for the
++// whole test process. So this file puts its temporary folder in the environment before importing
++// the route, and then takes the folder the route resolved rather than assuming that is the folder
++// just put there — another test file loading the module first is what makes the two differ.
+ //
+ // What this pins: an absent bundle is a 404 carrying JSON rather than an empty 200 or a throw, and
+ // a present one is served with the headers a downloader needs — the archive type, the file name to
+@@ -13,12 +16,14 @@ import { tmpdir } from "node:os"
+ import { join } from "node:path"
+ import type { AppLoadContext } from "react-router"
+ 
+-const BUNDLE_DIR = mkdtempSync(join(tmpdir(), "temper-addons-"))
+-process.env["ADDONS_BUNDLE_DIR"] = BUNDLE_DIR
+-
+-const BUNDLE_FILE = join(BUNDLE_DIR, "temper-addons.zip")
++process.env["ADDONS_BUNDLE_DIR"] = mkdtempSync(join(tmpdir(), "temper-addons-"))
+ 
+ const { loader } = await import("./addon-bundle.route.code.tsx")
++const { ADDONS_BUNDLE_DIR } = await import(
++  "../../.server/addons-bundle-dir/addons-bundle-dir.module.code.ts"
++)
++
++const BUNDLE_FILE = join(ADDONS_BUNDLE_DIR, "temper-addons.zip")
+ 
+ type ResourceLoaderArgs = {
+   request: Request
