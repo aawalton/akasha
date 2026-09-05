@@ -9,7 +9,7 @@ export const seatStated = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What a seat says now wins over what its history held.",
+      statement: "The values a seat says now win over the values its history held.",
     },
     {
       invariantKind: "departure",
