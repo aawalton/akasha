@@ -8,12 +8,12 @@ export const accountSlug = {
   pageTypeSlug: "relation-property",
   slug: "account-slug",
   propertySlug: "account-slug",
-  definition: "the account a holding or a transaction stands under",
+  definition: "the account a holding or a transaction sits under",
   targetPageTypeSlug: "page-type/monarch-account",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A holding stands under exactly one account.",
+      statement: "A holding sits under exactly one account.",
     },
   ],
 } as const satisfies RelationProperty

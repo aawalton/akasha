@@ -27,7 +27,7 @@ export const monarchMerchant = {
     },
     {
       invariantKind: "departure",
-      statement: "A merchant a rule names is a merchant standing here.",
+      statement: "A merchant a rule names is a merchant here.",
     },
     {
       invariantKind: "departure",

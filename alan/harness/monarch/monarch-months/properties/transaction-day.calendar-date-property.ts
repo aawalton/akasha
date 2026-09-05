@@ -11,7 +11,7 @@ export const transactionDay = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A transaction stands beside the month its day falls in.",
+      statement: "A transaction sits beside the month its day falls in.",
     },
   ],
 } as const satisfies CalendarDateProperty

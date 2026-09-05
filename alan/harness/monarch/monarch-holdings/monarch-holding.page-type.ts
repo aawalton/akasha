@@ -46,7 +46,7 @@ export const monarchHolding = {
     },
     {
       invariantKind: "departure",
-      statement: "A holding is three figures the daily sync rewrites, so it stands in memory.",
+      statement: "A holding is three figures the daily sync rewrites, so it sits in memory.",
     },
   ],
 } as const satisfies PageType

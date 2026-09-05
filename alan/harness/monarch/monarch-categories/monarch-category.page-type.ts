@@ -40,7 +40,7 @@ export const monarchCategory = {
     },
     {
       invariantKind: "departure",
-      statement: "A category standing without a group is one Alan wrote and Monarch never held.",
+      statement: "A category with no group is one Alan wrote and Monarch never held.",
     },
   ],
 } as const satisfies PageType

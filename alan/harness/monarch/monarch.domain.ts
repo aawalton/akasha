@@ -87,7 +87,7 @@ export const monarch = {
     },
     {
       invariantKind: "departure",
-      statement: "The cookie stands only on the workstation that takes the reading.",
+      statement: "The cookie is only on the workstation that takes the reading.",
     },
     {
       invariantKind: "departure",

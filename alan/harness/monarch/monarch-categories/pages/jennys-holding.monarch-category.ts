@@ -5,7 +5,7 @@ export const jennysHolding = {
   pageTypeSlug: "monarch-category",
   slug: "jennys-holding",
   title: "Jenny's Holding",
-  definition: "money standing in Jenny's name rather than spent from it",
+  definition: "money held in Jenny's name rather than spent from it",
   monarchId: "148839181702797336",
   categoryGroup: "Personal Spending",
   categoryGroupType: "expense",

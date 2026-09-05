@@ -5,7 +5,7 @@ export const house = {
   pageTypeSlug: "monarch-category",
   slug: "house",
   title: "House",
-  definition: "money spent on the house and what stands in it",
+  definition: "money spent on the house and what is in it",
   monarchId: "148838860002827209",
   categoryGroup: "General Spending",
   categoryGroupType: "expense",

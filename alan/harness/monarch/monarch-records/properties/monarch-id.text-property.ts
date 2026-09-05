@@ -21,7 +21,7 @@ export const monarchId = {
     },
     {
       invariantKind: "departure",
-      statement: "A Monarch identity is what a sync matches a standing page by.",
+      statement: "A Monarch identity is what a sync matches an existing page by.",
     },
   ],
 } as const satisfies TextProperty

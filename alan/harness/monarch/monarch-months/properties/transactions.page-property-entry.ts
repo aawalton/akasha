@@ -32,7 +32,7 @@ export const transactions = {
     {
       invariantKind: "departure",
       statement:
-        "A transaction stands beside the month its day falls in rather than in a file of its own.",
+        "A transaction sits beside the month its day falls in rather than in a file of its own.",
     },
     {
       invariantKind: "departure",
@@ -44,12 +44,12 @@ export const transactions = {
     },
     {
       invariantKind: "departure",
-      statement: "Entries stand in the order of the day they fell on, then of their Monarch id.",
+      statement: "Entries sit in the order of the day they fell on, then of their Monarch id.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A transaction that has been split leaves the list Monarch serves and its parts stand there in its place.",
+        "A transaction that has been split leaves the list Monarch serves and its parts are there in its place.",
     },
     {
       invariantKind: "departure",
