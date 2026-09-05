@@ -32,11 +32,11 @@ export const serviceWrapping = {
     {
       invariantKind: "departure",
       statement:
-        "The wrapper follows what the wrapper reaches itself as well as what its service reaches.",
+        "The wrapper follows the files the wrapper reaches itself as well as the files its service reaches.",
     },
     {
       invariantKind: "departure",
-      statement: "The command is what comes after the first double dash.",
+      statement: "The command comes after the first double dash.",
     },
     {
       invariantKind: "departure",
