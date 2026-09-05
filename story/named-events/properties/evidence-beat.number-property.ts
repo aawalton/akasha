@@ -7,6 +7,6 @@ export const evidenceBeat = {
   pageTypeSlug: "number-property",
   slug: "evidence-beat",
   propertySlug: "evidence-beat",
-  definition: "how far into that chapter the wording stands",
+  definition: "how far into that chapter the wording is",
   max: null,
 } as const satisfies NumberProperty

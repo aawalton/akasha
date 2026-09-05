@@ -7,6 +7,6 @@ export const anchorVolume = {
   pageTypeSlug: "number-property",
   slug: "anchor-volume",
   propertySlug: "volume",
-  definition: "the volume the chapter the dating words stand in belongs to",
+  definition: "the volume the chapter the dating words are in belongs to",
   max: null,
 } as const satisfies NumberProperty

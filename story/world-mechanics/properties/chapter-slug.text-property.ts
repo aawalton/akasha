@@ -7,7 +7,7 @@ export const chapterSlug = {
   pageTypeSlug: "text-property",
   slug: "chapter-slug",
   propertySlug: "chapter-slug",
-  definition: "the chapter of a story a naming stands in",
+  definition: "the chapter of a story a naming is in",
   max: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

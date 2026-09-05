@@ -7,7 +7,7 @@ export const turnStates = {
   pageTypeSlug: "file-property",
   slug: "turn-states",
   propertySlug: "turn-states",
-  definition: "what an element stood at, turn by turn",
+  definition: "what an element was at, turn by turn",
   invariants: [
     {
       invariantKind: "departure",

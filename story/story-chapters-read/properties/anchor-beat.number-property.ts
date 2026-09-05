@@ -7,6 +7,6 @@ export const anchorBeat = {
   pageTypeSlug: "number-property",
   slug: "anchor-beat",
   propertySlug: "beat",
-  definition: "how far into the chapter the dating words stand",
+  definition: "how far into the chapter the dating words are",
   max: null,
 } as const satisfies NumberProperty

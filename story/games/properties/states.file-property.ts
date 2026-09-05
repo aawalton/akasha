@@ -7,7 +7,7 @@ export const states = {
   pageTypeSlug: "file-property",
   slug: "states",
   propertySlug: "states",
-  definition: "what a game's world has stood at, sitting by sitting",
+  definition: "what a game's world has been at, sitting by sitting",
   invariants: [
     {
       invariantKind: "departure",

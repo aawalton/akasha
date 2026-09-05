@@ -7,7 +7,7 @@ export const entities = {
   pageTypeSlug: "file-property",
   slug: "entities",
   propertySlug: "entities",
-  definition: "everyone and everything standing in a game's world",
+  definition: "everyone and everything in a game's world",
   invariants: [
     {
       invariantKind: "departure",

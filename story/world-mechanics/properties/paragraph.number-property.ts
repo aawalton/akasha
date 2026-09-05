@@ -7,6 +7,6 @@ export const paragraph = {
   pageTypeSlug: "number-property",
   slug: "paragraph",
   propertySlug: "paragraph",
-  definition: "which paragraph of its chapter a naming stands in",
+  definition: "which paragraph of its chapter a naming is in",
   max: null,
 } as const satisfies NumberProperty

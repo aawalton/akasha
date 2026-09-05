@@ -7,7 +7,7 @@ export const evidenceChapter = {
   pageTypeSlug: "text-property",
   slug: "evidence-chapter",
   propertySlug: "evidence-chapter",
-  definition: "the chapter the wording placing it stands in",
+  definition: "the chapter the wording placing it is in",
   max: 50,
   nameFormatSlug: null,
 } as const satisfies TextProperty
