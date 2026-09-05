@@ -26,7 +26,7 @@ test("a string that names no module is passed over", () => {
   expect(specifiersIn(AT, 'const one = "./one.ts"\n')).toEqual([])
 })
 
-test("what is read stands in the order it is written, however deep it sits", () => {
+test("what is read is answered in the order it is written, however deep it sits", () => {
   const body =
     'import { one } from "./one.ts"\n' +
     "async function two(): Promise<unknown> {\n" +
@@ -36,7 +36,7 @@ test("what is read stands in the order it is written, however deep it sits", () 
   expect(specifiersIn(AT, body)).toEqual(["./one.ts", "./two.ts", "./three.ts"])
 })
 
-test("a specifier carries where it stands, so it can be written over in place", () => {
+test("a specifier carries where it is, so it can be written over in place", () => {
   const body = 'import { one } from "./one.ts"\n'
   const found = placedIn(AT, body)
   expect(found).toHaveLength(1)
@@ -64,7 +64,7 @@ test("every string a body holds is spelled, whether or not it names a module", (
   expect(specifiersIn(AT, body)).toEqual(["./one.ts"])
 })
 
-test("what a body spells carries where it stands, so it can be written over in place", () => {
+test("what a body spells carries where it is, so it can be written over in place", () => {
   const body = 'const one = "akasha/one/held.module.code.ts"\n'
   const held = spelledIn(AT, body)[0]
   if (held === undefined) throw new Error("nothing was read out of the body")

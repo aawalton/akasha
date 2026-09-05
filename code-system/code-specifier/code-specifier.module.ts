@@ -26,7 +26,7 @@ export const codeSpecifier = {
     },
     {
       invariantKind: "departure",
-      statement: "A specifier is answered with where the specifier stands.",
+      statement: "A specifier is answered with where the specifier is.",
     },
     {
       invariantKind: "departure",
@@ -83,7 +83,7 @@ export const codeSpecifier = {
     },
     {
       invariantKind: "absence",
-      statement: "A specifier is what the source says whether or not the file it names stands.",
+      statement: "A specifier is what the source says whether or not the file it names is there.",
     },
     {
       invariantKind: "departure",

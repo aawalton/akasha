@@ -26,7 +26,7 @@ export const packageManifest = {
     },
     {
       invariantKind: "departure",
-      statement: "A target is resolved against the folder the manifest stands in.",
+      statement: "A target is resolved against the folder the manifest sits in.",
     },
     {
       invariantKind: "departure",
@@ -56,7 +56,7 @@ export const packageManifest = {
     },
     {
       invariantKind: "absence",
-      statement: "Whether the file a way in names stands is not judged here.",
+      statement: "Whether the file a way in names is there is not judged here.",
     },
     {
       invariantKind: "absence",

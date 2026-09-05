@@ -23,7 +23,7 @@ test("every other key is reached by the name followed by that key past its openi
   expect(reachesIn(FOLDER, MANIFEST).get("@akasha/indexes/shape")).toBe(SHAPE)
 })
 
-test("a target is resolved against the folder the manifest stands in", () => {
+test("a target is resolved against the folder the manifest sits in", () => {
   const held = reachesIn("akasha/one", JSON.stringify({ name: "one", exports: { ".": "./a.ts" } }))
   expect(held.get("one")).toBe("akasha/one/a.ts")
 })

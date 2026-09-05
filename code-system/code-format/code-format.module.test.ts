@@ -98,7 +98,7 @@ check("a root holding no formatter answers the body handed in rather than nothin
   expect(said.changed).toBe(false)
 })
 
-check("the formatter is reached inside the root it is run for, not wherever this stands", () => {
+check("the formatter is reached inside the root it is run for, not wherever this is", () => {
   const root = rootWithTheFormatter()
   const said = formattedBody(root, "akasha/held.ts", TEXT.encode(LOOSE))
   expect(said.changed).toBe(true)

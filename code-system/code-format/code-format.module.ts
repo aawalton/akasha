@@ -105,7 +105,7 @@ export const codeFormat = {
     },
     {
       invariantKind: "absence",
-      statement: "The config standing in the root is picked up by the run.",
+      statement: "The config sitting in the root is picked up by the run.",
     },
     {
       invariantKind: "absence",
