@@ -5,7 +5,7 @@ export const scratching = {
   pageTypeSlug: "module",
   slug: "scratching",
   definition:
-    "the scratch root a test stands up, the bodies it stands there, and the sweep that takes it",
+    "the scratch root a test sets up, the bodies it puts there, and the sweep that takes it",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -18,7 +18,7 @@ export const scratching = {
     {
       invariantKind: "departure",
       statement:
-        "A scratch root is swept when the test file that stood the scratch root up ends pass or fail.",
+        "A scratch root is swept when the test file that set the scratch root up ends pass or fail.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const scratching = {
     },
     {
       invariantKind: "departure",
-      statement: "A scratch root stands under `/var/tmp` named here and never asked of the system.",
+      statement: "A scratch root sits under `/var/tmp` named here and never asked of the system.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +46,7 @@ export const scratching = {
     },
     {
       invariantKind: "departure",
-      statement: "The place scratch stands in is spelled once here.",
+      statement: "The place scratch sits in is spelled once here.",
     },
     {
       invariantKind: "departure",

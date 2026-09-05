@@ -14,11 +14,11 @@ export const holding = {
     },
     {
       invariantKind: "departure",
-      statement: "Taking it is one create that fails if it stands.",
+      statement: "Taking it is one create that fails if it is there.",
     },
     {
       invariantKind: "departure",
-      statement: "The hold stands under `.git`.",
+      statement: "The hold sits under `.git`.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +32,7 @@ export const holding = {
     {
       invariantKind: "departure",
       statement:
-        "A hold naming no holder that can be read is taken once the hold has stood too long.",
+        "A hold naming no holder that can be read is taken once the hold has been there too long.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +40,7 @@ export const holding = {
     },
     {
       invariantKind: "departure",
-      statement: "A hold is released only by the process whose mark stands in the hold.",
+      statement: "A hold is released only by the process whose mark is in the hold.",
     },
     {
       invariantKind: "departure",

@@ -144,7 +144,7 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "Reaching a body tells a path standing at nothing from one that will not open.",
+      statement: "Reaching a body tells a path nothing is at from one that will not open.",
     },
     {
       invariantKind: "departure",

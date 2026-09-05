@@ -79,8 +79,7 @@ export const valueMinting = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "This module answers the changes as those changes would stand with their values in.",
+      statement: "This module answers the changes as those changes would be with their values in.",
     },
   ],
 } as const satisfies Module

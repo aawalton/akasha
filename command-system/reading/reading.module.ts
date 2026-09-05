@@ -46,7 +46,7 @@ export const reading = {
     },
     {
       invariantKind: "departure",
-      statement: "The record stands beside the index under `.git/data`.",
+      statement: "The record sits beside the index under `.git/data`.",
     },
     {
       invariantKind: "departure",
@@ -134,7 +134,7 @@ export const reading = {
     },
     {
       invariantKind: "gap",
-      statement: "Nothing stands in the record that did not reach the agent.",
+      statement: "Nothing is in the record that did not reach the agent.",
     },
   ],
 } as const satisfies Module

@@ -68,7 +68,7 @@ export const gateBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "Which checks stand on a phase is answered where the checks are.",
+      statement: "Which checks sit on a phase is answered where the checks are.",
     },
     {
       invariantKind: "absence",

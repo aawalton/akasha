@@ -11,8 +11,7 @@ export const changeFreshness = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A body is overwritten only where what stands on disk is the body its writer read.",
+      statement: "A body is overwritten only where what is on disk is the body its writer read.",
     },
     {
       invariantKind: "departure",
@@ -22,11 +21,11 @@ export const changeFreshness = {
     {
       invariantKind: "departure",
       statement:
-        "A body carried mechanically after it was read still stands for the reader it was carried for.",
+        "A body carried mechanically after it was read still holds for the reader it was carried for.",
     },
     {
       invariantKind: "departure",
-      statement: "A path whose body will not read at all counts as moved rather than as standing.",
+      statement: "A path whose body will not read at all counts as moved rather than as unchanged.",
     },
     {
       invariantKind: "absence",

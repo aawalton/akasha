@@ -43,7 +43,7 @@ export const landing = {
     {
       invariantKind: "departure",
       statement:
-        "A path that moved between that commit and what stands is refused unwritten rather than written over.",
+        "A path that moved between that commit and now is refused unwritten rather than written over.",
     },
     {
       invariantKind: "departure",
@@ -56,8 +56,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A body is overwritten only where what stands on disk is the body its writer read.",
+      statement: "A body is overwritten only where what is on disk is the body its writer read.",
     },
     {
       invariantKind: "departure",

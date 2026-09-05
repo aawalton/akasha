@@ -4,7 +4,7 @@ export const iosWidgetEmit = {
   id: "01a069f1-8def-708e-8119-d023bf9ed009",
   pageTypeSlug: "module",
   slug: "ios-widget-emit",
-  definition: "one widget's Swift written out and set against the Swift already standing",
+  definition: "one widget's Swift written out and set against the Swift already there",
   code: "ts",
   invariants: [
     {
