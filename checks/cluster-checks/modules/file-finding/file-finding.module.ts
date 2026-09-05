@@ -34,11 +34,11 @@ export const fileFinding = {
     },
     {
       invariantKind: "departure",
-      statement: "A dotfile is left out unless the caller asks for it.",
+      statement: "A dotfile is left out unless the caller asks for dotfiles.",
     },
     {
       invariantKind: "departure",
-      statement: "A path is answered absolute unless the caller asks for it relative.",
+      statement: "A path is answered absolute unless the caller asks for that path relative.",
     },
     {
       invariantKind: "departure",
