@@ -68,3 +68,17 @@ index 0d43a8a892258dc973d8de20270bcc39ccfed261..39597943ce50012028f36bf9fa9f55cc
 -    },
    ],
  } as const satisfies Module
+diff --git a/temper/temper-game-catalog-capture-host/recipe-catalog-schema/recipe-catalog-schema.module.ts b/temper/temper-game-catalog-capture-host/recipe-catalog-schema/recipe-catalog-schema.module.ts
+index 04d8822d6b849a985633aa54a3c5802a6dd8d634..e68c7d6e01efa5eb20ce347c9455561fa05cc8e7 100644
+--- a/temper/temper-game-catalog-capture-host/recipe-catalog-schema/recipe-catalog-schema.module.ts
++++ b/temper/temper-game-catalog-capture-host/recipe-catalog-schema/recipe-catalog-schema.module.ts
+@@ -19,9 +19,5 @@ export const recipeCatalogSchema = {
+       invariantKind: "departure",
+       statement: "A catalog key arrives as text and is coerced to a number.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "The inferred type is checked against the shape in `temper-capture-shapes`.",
+-    },
+   ],
+ } as const satisfies Module
