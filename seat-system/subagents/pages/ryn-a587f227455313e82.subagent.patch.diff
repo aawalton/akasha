@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/git/porcelain-status-reading/porcelain-status-reading.module.ts b/git/porcelain-status-reading/porcelain-status-reading.module.ts
+index ae89507ad93d61804934925071853068215c63d6..a441bc0a585a4f388f4a6e78eae30cdeae68fd90 100644
+--- a/git/porcelain-status-reading/porcelain-status-reading.module.ts
++++ b/git/porcelain-status-reading/porcelain-status-reading.module.ts
+@@ -21,7 +21,7 @@ export const porcelainStatusReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What git said is handed on untrimmed.",
++      statement: "The output git printed is handed on untrimmed.",
+     },
+     {
+       invariantKind: "departure",
