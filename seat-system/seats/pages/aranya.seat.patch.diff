@@ -1575,3 +1575,11 @@ index c464c2c5a0b8621c0f4c15dd214131c219a06277..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-skyshards
 \ No newline at end of file
+diff --git a/temper/temper-trading-addon/temper-trading-addon b/temper/temper-trading-addon/temper-trading-addon
+deleted file mode 120000
+index 411f8cef9113d04a7a38f464d3fa65a07f1089f3..0000000000000000000000000000000000000000
+--- a/temper/temper-trading-addon/temper-trading-addon
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-trading-addon
+\ No newline at end of file
