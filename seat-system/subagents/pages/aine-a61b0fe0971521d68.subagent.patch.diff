@@ -1,3 +1,14 @@
+diff --git a/story/games/pages/partners-ii.game.resolution-mechanism.json b/story/games/pages/partners-ii.game.resolution-mechanism.json
+index 288b59ba02c44a6790ec136b01064d5f165d0afb..f54c6838b8ef02cfcac90384463ca76b6831bb8c 100644
+--- a/story/games/pages/partners-ii.game.resolution-mechanism.json
++++ b/story/games/pages/partners-ii.game.resolution-mechanism.json
+@@ -1,5 +1,5 @@
+ {
+   "verb": "ops awen roll",
+-  "convention": "Hybrid: planning first, luck second. Checks resolve as 1d20 + formula-derived modifiers (attributes, skills, affinities, bond effects — all per the hidden systems in gmReference) against the difficulty band's hidden target number. The GM picks the band from fiction before rolling; the die is only the luck. Effect/damage dice ride rulebook expressions (e.g. 2d6+Might mod). Every roll is made via ops awen roll BEFORE its outcome is narrated; the hash-chained log is the honesty contract — a re-roll is visible by construction and its first result stands unless the fiction itself changed. All formulas, TNs, and margins stay loop-dark; the player sees outcomes as story and system windows only.",
++  "convention": "Hybrid: planning first, luck second. Checks resolve as 1d20 + formula-derived modifiers (attributes, skills, affinities, bond effects — all per the hidden systems in gmReference) against the difficulty band's hidden target number. The GM picks the band from fiction before rolling; the die is only the luck. Effect/damage dice ride rulebook expressions (e.g. 2d6+Might mod). Every roll is made via ops awen roll BEFORE its outcome is narrated; the hash-chained log is the honesty contract — a re-roll is visible by construction and its first result remains unless the fiction itself changed. All formulas, TNs, and margins stay loop-dark; the player sees outcomes as story and system windows only.",
+   "defaultDice": "1d20"
+ }
 diff --git a/story/games/pages/the-tower.game.resolution-mechanism.json b/story/games/pages/the-tower.game.resolution-mechanism.json
 index 127680f6070b11005488e758de4c952f49a493e4..03fc6c6e4e93e114bcc6cf7aba1d94ca4f29e23a 100644
 --- a/story/games/pages/the-tower.game.resolution-mechanism.json
