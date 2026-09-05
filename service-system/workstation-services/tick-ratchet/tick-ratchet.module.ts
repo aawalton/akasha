@@ -23,8 +23,7 @@ export const tickRatchet = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What the ratchet says on the way out names the service, the run and the threshold.",
+      statement: "The ratchet names the service, the run and the threshold on the way out.",
     },
     {
       invariantKind: "absence",
