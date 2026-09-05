@@ -1,0 +1,13 @@
+diff --git a/readout-system/readout-reading/readout-reading.module.ts b/readout-system/readout-reading/readout-reading.module.ts
+index 2edf37e66e852fb832599ee0abc83c3dd04fa74d..d2482be6fa34efcf4f6ac8ffb386b8b3a04d9eb5 100644
+--- a/readout-system/readout-reading/readout-reading.module.ts
++++ b/readout-system/readout-reading/readout-reading.module.ts
+@@ -26,7 +26,7 @@ export const readoutReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A reading replaces the one before it.",
++      statement: "A reading replaces the one before that reading.",
+     },
+     {
+       invariantKind: "departure",
