@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/person-system/people/email/gmail-mailboxes/properties/processed-messages.page-property-entry.ts b/person-system/people/email/gmail-mailboxes/properties/processed-messages.page-property-entry.ts
+index 20d80f1ec318bcc7b86a8fdb0913bf2b68e0adc7..58fe652ecd0276ef3972749cb68e9e0a3ef2b513 100644
+--- a/person-system/people/email/gmail-mailboxes/properties/processed-messages.page-property-entry.ts
++++ b/person-system/people/email/gmail-mailboxes/properties/processed-messages.page-property-entry.ts
+@@ -23,7 +23,7 @@ export const processedMessages = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A message is written here once what to do about that message is settled.",
++      statement: "A message is written here once the decision about that message is settled.",
+     },
+     {
+       invariantKind: "departure",
