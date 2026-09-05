@@ -1,7 +1,7 @@
 import { getEsoDayWindow } from "@akasha/day/eso-day"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { asking } from "@akasha/pages-system-service/asking"
-import { completedTasksInSpan } from "../day-place/day-place.module.code.ts"
+import { completedTasksInSpan } from "../day-completions/day-completions.module.code.ts"
 import { textOf } from "../day-scan-window/day-scan-window.module.code.ts"
 
 const TO_DO_PAGE_TYPE_SLUG = "to-do"

@@ -12,10 +12,8 @@ import {
   wakeDayOf,
   wakeDayWindow,
 } from "../../../tracking/daily/day-opening/day-opening.module.code.ts"
-import {
-  askDayByDate,
-  sessionsOfDay,
-} from "../../../tracking/daily/day-place/day-place.module.code.ts"
+import { askDayByDate } from "../../../tracking/daily/day-reading/day-reading.module.code.ts"
+import { sessionsOfDay } from "../../../tracking/daily/day-stretches/day-stretches.module.code.ts"
 import { askingIn } from "../../plants/reading/plants-reading.module.code.ts"
 
 const READOUTS = "readout-system/readouts/pages"

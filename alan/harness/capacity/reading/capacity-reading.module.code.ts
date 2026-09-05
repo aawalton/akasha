@@ -1,10 +1,8 @@
 import { getEsoDayStr } from "@akasha/day/eso-day"
 import { keepReading } from "@akasha/readout-system/readout-reading"
 import { capacityHoursOf, capacityIn } from "@akasha/readout-system/upkeep-capacity"
-import {
-  dayValuesByDate,
-  sessionsOfDay,
-} from "../../../tracking/daily/day-place/day-place.module.code.ts"
+import { dayValuesByDate } from "../../../tracking/daily/day-reading/day-reading.module.code.ts"
+import { sessionsOfDay } from "../../../tracking/daily/day-stretches/day-stretches.module.code.ts"
 
 export const READOUT_PAGE =
   "readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts"

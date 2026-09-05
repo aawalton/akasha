@@ -1,8 +1,8 @@
 import {
-  askDayByDate,
   DAILY_TRACKING,
   landDayPage,
 } from "../../../tracking/daily/day-place/day-place.module.code.ts"
+import { askDayByDate } from "../../../tracking/daily/day-reading/day-reading.module.code.ts"
 import { resolveOrCreateDaily } from "../../../tracking/daily/tracking-resolve/tracking-resolve.module.code.ts"
 import {
   INBOX_WRITER,

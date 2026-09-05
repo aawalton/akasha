@@ -1,4 +1,5 @@
-import { DAILY_TRACKING, dayByDate, landDayPage } from "../day-place/day-place.module.code.ts"
+import { DAILY_TRACKING, landDayPage } from "../day-place/day-place.module.code.ts"
+import { dayByDate } from "../day-reading/day-reading.module.code.ts"
 
 export type WriteOutcome = "patched" | "created"
 
