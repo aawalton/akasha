@@ -1,5 +1,5 @@
 diff --git a/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.ts b/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.ts
-index e2502b06d297f84313ce7f9bd627746cdfb720a0..5c507a649317703f5c98e1efba2f694dbecb0e32 100644
+index e2502b06d297f84313ce7f9bd627746cdfb720a0..442657ae86ee164523bd4dcc5f723a25e666d630 100644
 --- a/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.ts
 +++ b/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.ts
 @@ -13,7 +13,7 @@ export const emailEntryWriting = {
@@ -11,3 +11,12 @@ index e2502b06d297f84313ce7f9bd627746cdfb720a0..5c507a649317703f5c98e1efba2f694d
      },
      {
        invariantKind: "constraint",
+@@ -21,7 +21,7 @@ export const emailEntryWriting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An entry already filed is patched where it is.",
++      statement: "An entry already filed is patched where that entry is.",
+     },
+     {
+       invariantKind: "departure",
