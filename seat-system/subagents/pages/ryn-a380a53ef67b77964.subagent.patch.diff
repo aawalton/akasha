@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts b/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts
+index acb9b047e3d131566c51e6f597c6161966837d4e..69f1152707be37dcb6d5839a3fb4d78c7cd84b57 100644
+--- a/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts
++++ b/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts
+@@ -21,7 +21,7 @@ export const completions = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A line holds what is true of the completion rather than of the task.",
++      statement: "A line holds the facts true of the completion rather than of the task.",
+     },
+     {
+       invariantKind: "departure",
