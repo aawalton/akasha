@@ -39,7 +39,8 @@ export const indexEntries = {
     },
     {
       invariantKind: "departure",
-      statement: "That file is claimed from the page's type rather than from what the page states.",
+      statement:
+        "That file is claimed from the page's type rather than from the values the page states.",
     },
     {
       invariantKind: "departure",
@@ -112,7 +113,8 @@ export const indexEntries = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type holds in a file what every page type above that page type declares.",
+      statement:
+        "A page type holds in a file every property every page type above that page type declares.",
     },
     {
       invariantKind: "departure",
