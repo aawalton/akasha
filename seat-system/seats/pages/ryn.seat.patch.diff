@@ -1,0 +1,13 @@
+diff --git a/domains/initiatives/pages/ryn-trained-parser.initiative.ts b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
+index 2fbff8d17744a23b151ad695af67c2b2d819506a..aad38d68b7cdaaec67d56a155661bcfa44a791d7 100644
+--- a/domains/initiatives/pages/ryn-trained-parser.initiative.ts
++++ b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
+@@ -15,7 +15,7 @@ export const rynTrainedParser = {
+     {
+       statement: "The check refuses a statement by the predicate a refused shape holds.",
+       workingMemory:
+-        "A blocklist: plain is no refused shape matched. The check passes everything today, because it reads the rules the shapes no longer state. Reading the predicates instead refuses 1,313 of the 24,657 statements: lone-quantifier 960, lone-pronoun 186, partitive-quantifier 130, lone-determiner 37. Whether those refusals are sound is unsettled. Most of lone-quantifier's are the word one, and the tags say most of those are the anaphoric one rather than a numeral.",
++        "A blocklist: plain is no refused shape matched. The check passes everything today, because it reads the rules the shapes no longer state. Reading the predicates instead refuses 1,228 of the 24,553 statements: lone-quantifier 955, lone-pronoun 167, partitive-quantifier 128, lone-determiner 36, closing-count 10. One statement two shapes refuse is counted once, so the total is fewer than the sum. Whether those refusals are sound is unsettled.",
+     },
+     {
+       statement: "The shapes akasha refuses are rebuilt on the dependency tree.",
