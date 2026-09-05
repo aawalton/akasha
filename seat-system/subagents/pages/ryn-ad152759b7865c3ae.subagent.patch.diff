@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts b/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts
+index 89bfe6f52026abbd77047f9b38ffa87d8df757f3..f5e6d02ccdbb994b09690c4a2967c3b2117fd217 100644
+--- a/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts
++++ b/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts
+@@ -38,7 +38,7 @@ export const postReceiveMirror = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A history copy pushes every branch and tag as they are.",
++      statement: "A history copy pushes every branch and tag as those branches and tags are.",
+     },
+     {
+       invariantKind: "departure",
