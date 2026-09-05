@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/command-system/commands/move/resettling/move-resettling.module.ts b/command-system/commands/move/resettling/move-resettling.module.ts
+index a3a8dbc7c89bcb7ec1684c5eb1b32a818a367354..d7399989f709c2099fd60e5811d0a0bf42f50fa6 100644
+--- a/command-system/commands/move/resettling/move-resettling.module.ts
++++ b/command-system/commands/move/resettling/move-resettling.module.ts
+@@ -120,7 +120,8 @@ export const moveResettling = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a seat left on the old paths needs is said beside that seat's own document.",
++      statement:
++        "The relaunch a seat left on the old paths needs is said beside that seat's own document.",
+     },
+     {
+       invariantKind: "absence",
