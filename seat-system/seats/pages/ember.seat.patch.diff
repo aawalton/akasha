@@ -293,3 +293,366 @@ index 0000000000000000000000000000000000000000..bd66672b24144b4455e31cc8c4eb600b
 +  destination: "guild-bank:Walton Mountain",
 +  conditions: "jsonl",
 +} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-440d6e66/rule-440d6e66.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-440d6e66/rule-440d6e66.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..7dee44ba63863c565b304398eb4e0b419bab7da3
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-440d6e66/rule-440d6e66.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1,2 @@
++{"id":"01a07288-0a07-7de3-b74d-b5dd0dd03c8a","conditionField":"stolen","conditionValue":"not-stolen"}
++{"id":"01a07288-0a07-724f-a2e7-9893836103bd","conditionField":"item-name-pattern","conditionValue":"Counterfeit Pardon Edict"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-440d6e66/rule-440d6e66.temper-inventory-rule.destination-chain.jsonl b/temper/temper-progress/inventory-rules/pages/rule-440d6e66/rule-440d6e66.temper-inventory-rule.destination-chain.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..811c87b84eb232b9962feb71f62aca5149c7a726
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-440d6e66/rule-440d6e66.temper-inventory-rule.destination-chain.jsonl
+@@ -0,0 +1,2 @@
++{"id":"01a07288-0a07-72a2-bd16-7991cb5b71ba","destination":"character:by-priority","targetQuantity":10,"charEligibility":"{\"requiredSkillLines\":{\"mode\":\"any-not-maxed\",\"skillLineIds\":[\"world-legerdemain\",\"guild-thieves-guild\",\"guild-dark-brotherhood\"]}}"}
++{"id":"01a07288-0a07-7876-9a44-f312bf463050","destination":"bank"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-440d6e66/rule-440d6e66.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-440d6e66/rule-440d6e66.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a9de031f5e32710b2312d3f58ba1deef855f1eae
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-440d6e66/rule-440d6e66.temper-inventory-rule.ts
+@@ -0,0 +1,15 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const rule440d6e66 = {
++  id: "01a07288-0a1e-7191-af96-96c18a5b0c2f",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-440d6e66",
++  title: "Counterfeit Pardon Edict → stock 10/char (justice WIP)",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "scrolls",
++  displayOrder: 33,
++  action: "stock",
++  active: true,
++  conditions: "jsonl",
++  destinationChain: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-49fa3b24/rule-49fa3b24.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-49fa3b24/rule-49fa3b24.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1696317ddac177543229cee68e9f584704c7e8fc
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-49fa3b24/rule-49fa3b24.temper-inventory-rule.ts
+@@ -0,0 +1,13 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const rule49fa3b24 = {
++  id: "01a07288-0a1f-7d94-bbb6-3467637692b3",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-49fa3b24",
++  title: "Toys → destroy",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "trophy-toys",
++  displayOrder: 61,
++  action: "destroy",
++  active: true,
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-52020b3f/rule-52020b3f.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-52020b3f/rule-52020b3f.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..d6f6dfb804aebaf514c803e4455c942781ab13c1
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-52020b3f/rule-52020b3f.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1,2 @@
++{"id":"01a07288-0a07-7c18-b927-3bfe1b39a16a","conditionField":"stolen","conditionValue":"not-stolen"}
++{"id":"01a07288-0a07-76bd-bce4-0277b1fada7b","conditionField":"item-name-pattern","conditionValue":"Verse"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-52020b3f/rule-52020b3f.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-52020b3f/rule-52020b3f.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b3e8ab4ab47aaf1c2f5b43edac49b726c52fea14
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-52020b3f/rule-52020b3f.temper-inventory-rule.ts
+@@ -0,0 +1,15 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const rule52020b3f = {
++  id: "01a07288-0a20-7e80-81cb-8c2914988ffd",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-52020b3f",
++  title: "Verses → Erin Solstice",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "scrolls",
++  displayOrder: 0,
++  action: "move-to",
++  active: true,
++  destination: "character:8796093022338107",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-72039e8e/rule-72039e8e.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-72039e8e/rule-72039e8e.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..46f3718a1e514cce86437deb9d747b1c0145bc9d
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-72039e8e/rule-72039e8e.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1 @@
++{"id":"01a07288-0a07-7e8f-8436-25774e016437","conditionField":"stolen","conditionValue":"stolen"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-72039e8e/rule-72039e8e.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-72039e8e/rule-72039e8e.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c55a633f62c173bc7bbbfd7f61a7aba8be0d37a9
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-72039e8e/rule-72039e8e.temper-inventory-rule.ts
+@@ -0,0 +1,14 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const rule72039e8e = {
++  id: "01a07288-0a20-76c5-964c-8969e4adcf14",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-72039e8e",
++  title: "All stolen scrolls → launder",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "scrolls",
++  displayOrder: 32,
++  action: "fence-launder",
++  active: true,
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-778017a4/rule-778017a4.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-778017a4/rule-778017a4.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..cb3a6d77f3fee29e8dace7de07b6f24d5151b3da
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-778017a4/rule-778017a4.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1,4 @@
++{"id":"01a07288-0a08-7e0f-af24-783e5b7d82d3","conditionField":"can-sell","conditionValue":"can-sell"}
++{"id":"01a07288-0a08-7f52-9d24-f9cf2ce4e71c","conditionField":"max-quality","conditionValue":"4"}
++{"id":"01a07288-0a08-775c-a1a0-f00e2364112e","conditionField":"market-value","conditionValue":"MIN_LISTING_VALUE"}
++{"id":"01a07288-0a08-7a2a-a55a-c49af0414e0b","conditionField":"market-value-op","conditionValue":"<"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-778017a4/rule-778017a4.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-778017a4/rule-778017a4.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..54b8b7f423f20c4ca51b1962035858cac4fa2174
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-778017a4/rule-778017a4.temper-inventory-rule.ts
+@@ -0,0 +1,17 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const rule778017a4 = {
++  id: "01a07288-0a20-756f-a058-b9b5acbfe35b",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-778017a4",
++  title: "Sell low-value furnishings",
++  description:
++    "Vendor-sells furnishings with guild-store value < 5000g (excluding legendary). Raised from 1000 to match the uniform 5000g line; furnishings >= 5000g still route to furniture-vault via furnishings-house-storage.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "furnishings",
++  displayOrder: 36,
++  action: "sell",
++  active: true,
++  goal: "sell",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-7a4fc9a3/rule-7a4fc9a3.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-7a4fc9a3/rule-7a4fc9a3.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ec555f499c39b6abfb4e903a58df45cd1e18d1c6
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-7a4fc9a3/rule-7a4fc9a3.temper-inventory-rule.ts
+@@ -0,0 +1,13 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const rule7a4fc9a3 = {
++  id: "01a07288-0a20-7743-b0b7-bfeb896cc802",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-7a4fc9a3",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "crown-repair-kits",
++  displayOrder: 2,
++  action: "move-to",
++  active: true,
++  destination: "house-storage:4677",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-8c4ddebf/rule-8c4ddebf.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-8c4ddebf/rule-8c4ddebf.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..6ae229ece48a73fd8c2f8827f9b9ad5442591fff
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-8c4ddebf/rule-8c4ddebf.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1,5 @@
++{"id":"01a07288-0a08-7e9f-a0c7-23746154d850","conditionField":"stolen","conditionValue":"not-stolen"}
++{"id":"01a07288-0a08-7824-9dc6-b9fa496e25e3","conditionField":"crafted","conditionValue":"not-crafted"}
++{"id":"01a07288-0a08-7016-896c-a56f21c109c6","conditionField":"max-quality","conditionValue":"1"}
++{"id":"01a07288-0a08-760b-a339-f6400faed668","conditionField":"potion-effects","conditionValue":"[\"magicka-restore\"]"}
++{"id":"01a07288-0a08-785c-9f59-da9eac51152c","conditionField":"potion-effects-mode","conditionValue":"any"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-8c4ddebf/rule-8c4ddebf.temper-inventory-rule.destination-chain.jsonl b/temper/temper-progress/inventory-rules/pages/rule-8c4ddebf/rule-8c4ddebf.temper-inventory-rule.destination-chain.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..9308d053b21b31a91f9a1d5e66b270c13637557a
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-8c4ddebf/rule-8c4ddebf.temper-inventory-rule.destination-chain.jsonl
+@@ -0,0 +1,2 @@
++{"id":"01a07288-0a08-7ef6-816f-189324cc9a2d","destination":"character:by-priority","targetQuantity":100}
++{"id":"01a07288-0a08-7fb7-8058-eae61ded51df","destination":"bank"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-8c4ddebf/rule-8c4ddebf.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-8c4ddebf/rule-8c4ddebf.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..351cfabd344b3ca701ac278a6a1c82ec6ba9dd1f
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-8c4ddebf/rule-8c4ddebf.temper-inventory-rule.ts
+@@ -0,0 +1,16 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const rule8c4ddebf = {
++  id: "01a07288-0a20-78ff-b0b9-940f83df22a6",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-8c4ddebf",
++  title: "Stock magicka-restoration potions (white)",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "potions",
++  displayOrder: 20,
++  action: "stock",
++  active: true,
++  stockScope: "any-character",
++  conditions: "jsonl",
++  destinationChain: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-8d1e1c96/rule-8d1e1c96.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-8d1e1c96/rule-8d1e1c96.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..555e1d46abc2f5d17e4cff477446e53de6931605
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-8d1e1c96/rule-8d1e1c96.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1,2 @@
++{"id":"01a07288-0a08-7230-93a4-4db8dfab0452","conditionField":"can-sell","conditionValue":"can-sell"}
++{"id":"01a07288-0a08-74ab-bbb4-7fe48a8cece6","conditionField":"can-unlock","conditionValue":"cannot-unlock"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-8d1e1c96/rule-8d1e1c96.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-8d1e1c96/rule-8d1e1c96.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1d10a072855179ae0d2ebbae1f8b07d16c33af3a
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-8d1e1c96/rule-8d1e1c96.temper-inventory-rule.ts
+@@ -0,0 +1,15 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const rule8d1e1c96 = {
++  id: "01a07288-0a21-7622-806f-c192d3e6fa2f",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-8d1e1c96",
++  title: "Sell known motif chapters",
++  description: "Disposal spine step 5. Closes gap A4.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "motif-chapters",
++  displayOrder: 79,
++  action: "sell",
++  active: true,
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-8edf08cb/rule-8edf08cb.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-8edf08cb/rule-8edf08cb.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..b5bc41ec72cfe26fc0fd6e15184dec0987a398c8
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-8edf08cb/rule-8edf08cb.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1,2 @@
++{"id":"01a07288-0a08-78eb-80fc-baba74f09ae8","conditionField":"can-sell","conditionValue":"can-sell"}
++{"id":"01a07288-0a08-7914-ae43-c0040c83635a","conditionField":"can-unlock","conditionValue":"cannot-unlock"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-8edf08cb/rule-8edf08cb.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-8edf08cb/rule-8edf08cb.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f2ebadb1c08e071a5d402ed8de491a362cd6151f
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-8edf08cb/rule-8edf08cb.temper-inventory-rule.ts
+@@ -0,0 +1,15 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const rule8edf08cb = {
++  id: "01a07288-0a21-7571-9565-69e91b60f44c",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-8edf08cb",
++  title: "Sell learned style pages",
++  description: "Disposal spine step 5: learned + sellable + sub-list-line. Closes gap A3.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "style-pages",
++  displayOrder: 78,
++  action: "sell",
++  active: true,
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-8f35e006/rule-8f35e006.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-8f35e006/rule-8f35e006.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..48d0a3d5a98caf6d556e45bd7641821ab154cf25
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-8f35e006/rule-8f35e006.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1 @@
++{"id":"01a07288-0a08-7f0a-a6a4-449a541ecbb6","conditionField":"item-name-pattern","conditionValue":"Crown Tri-Restoration"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-8f35e006/rule-8f35e006.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-8f35e006/rule-8f35e006.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..97b079caa4250aa8c331c1708a681958a5cf4131
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-8f35e006/rule-8f35e006.temper-inventory-rule.ts
+@@ -0,0 +1,17 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const rule8f35e006 = {
++  id: "01a07288-0a21-704b-b3a6-c259a9fbfa0b",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-8f35e006",
++  title: "Crown tri-pots stay banked",
++  description:
++    "Gap B1: bank is the deliberate stock home (2-3 chars at a time, manual pulls). Replaces the lock. Must run before f0ce7528.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "potions",
++  displayOrder: 17,
++  action: "move-to",
++  active: true,
++  destination: "bank",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-905b4b47/rule-905b4b47.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-905b4b47/rule-905b4b47.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..059fdb6aefe3b142ec967241867ad31584deff29
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-905b4b47/rule-905b4b47.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1,5 @@
++{"id":"01a07288-0a08-7418-b9de-5a657b95388c","conditionField":"stolen","conditionValue":"not-stolen"}
++{"id":"01a07288-0a08-7f63-a19d-eadc627758d6","conditionField":"crafted","conditionValue":"not-crafted"}
++{"id":"01a07288-0a08-775c-9c4c-cbc63b6bd754","conditionField":"max-quality","conditionValue":"1"}
++{"id":"01a07288-0a08-7e15-a900-d6ddebab2533","conditionField":"potion-effects","conditionValue":"[\"stamina-restore\"]"}
++{"id":"01a07288-0a08-7ca2-9bb0-94d52ef0326f","conditionField":"potion-effects-mode","conditionValue":"any"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-905b4b47/rule-905b4b47.temper-inventory-rule.destination-chain.jsonl b/temper/temper-progress/inventory-rules/pages/rule-905b4b47/rule-905b4b47.temper-inventory-rule.destination-chain.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..2887def49ef5305b85706e104f36a5fec6d28549
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-905b4b47/rule-905b4b47.temper-inventory-rule.destination-chain.jsonl
+@@ -0,0 +1,2 @@
++{"id":"01a07288-0a08-75f6-ad3a-1d8c50964c6d","destination":"character:by-priority","targetQuantity":100}
++{"id":"01a07288-0a08-7ee8-926e-e1ada4e43893","destination":"bank"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-905b4b47/rule-905b4b47.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-905b4b47/rule-905b4b47.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a098e2a90139afef17ddcd7d13ec5d256af73246
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-905b4b47/rule-905b4b47.temper-inventory-rule.ts
+@@ -0,0 +1,16 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const rule905b4b47 = {
++  id: "01a07288-0a21-7ec8-a075-5f9920264c8c",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-905b4b47",
++  title: "Stock stamina-restoration potions (white)",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "potions",
++  displayOrder: 19,
++  action: "stock",
++  active: true,
++  stockScope: "any-character",
++  conditions: "jsonl",
++  destinationChain: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-90d1aa3b/rule-90d1aa3b.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-90d1aa3b/rule-90d1aa3b.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..df55032d5154282693917f18dea162164bff89ff
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-90d1aa3b/rule-90d1aa3b.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1 @@
++{"id":"01a07288-0a08-7dab-9f1f-ef8f58de167a","conditionField":"known","conditionValue":"known"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-90d1aa3b/rule-90d1aa3b.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-90d1aa3b/rule-90d1aa3b.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b982ffdaf9315bccd74fce3d87b562217dbb15aa
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-90d1aa3b/rule-90d1aa3b.temper-inventory-rule.ts
+@@ -0,0 +1,16 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const rule90d1aa3b = {
++  id: "01a07288-0a21-7177-82d2-3d3b9744929a",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-90d1aa3b",
++  title: "Sell known scripts",
++  description: "Dispose of scribing scripts once every character knows them",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "scripts",
++  displayOrder: 76,
++  action: "sell",
++  active: true,
++  goal: "sell",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
