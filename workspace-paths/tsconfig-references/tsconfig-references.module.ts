@@ -53,7 +53,7 @@ export const tsconfigReferences = {
     },
     {
       invariantKind: "departure",
-      statement: "What is left is answered as text rather than as values.",
+      statement: "The tsconfig left is answered as text rather than as values.",
     },
     {
       invariantKind: "absence",
