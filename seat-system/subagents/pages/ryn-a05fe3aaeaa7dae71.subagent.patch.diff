@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seats/properties/rotated-session-uuid.text-property.ts b/seat-system/seats/properties/rotated-session-uuid.text-property.ts
+index 6bed50a3821b609b0b3225a7f45bf64f29fc7ff2..c9d0d47c55304dc1a1e7e9ec64fcde87c04de517 100644
+--- a/seat-system/seats/properties/rotated-session-uuid.text-property.ts
++++ b/seat-system/seats/properties/rotated-session-uuid.text-property.ts
+@@ -13,7 +13,7 @@ export const rotatedSessionUuid = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This property sits between a clear and the binding that takes it.",
++      statement: "This property sits between a clear and the binding that takes this property.",
+     },
+     {
+       invariantKind: "departure",
