@@ -1,0 +1,20 @@
+diff --git a/alan/tracking/tracking-captures/tracking-capture.page-type.ts b/alan/tracking/tracking-captures/tracking-capture.page-type.ts
+index 7d3959d9de4e2d5c6b13396dd2d722691c80ea04..baadd18dc45e3b5f9c32ccf5823d920e58d37b40 100644
+--- a/alan/tracking/tracking-captures/tracking-capture.page-type.ts
++++ b/alan/tracking/tracking-captures/tracking-capture.page-type.ts
+@@ -22,9 +22,13 @@ export const trackingCapture = {
+         "A capture carries nothing but the name that capture is reached by and that capture's meaning.",
+     },
+     {
+-      invariantKind: "gap",
++      invariantKind: "departure",
+       statement:
+-        "Alan saying so, a device measuring, a trace another system left, someone else's word and a weighing are the five captures, and each stands as a page of this type.",
++        "Alan saying so, a device measuring, a trace another system left, someone else's word and a weighing are the five captures.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "Each capture is a page of this type.",
+     },
+   ],
+ } as const satisfies PageType
