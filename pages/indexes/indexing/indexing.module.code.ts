@@ -19,8 +19,8 @@ import {
   sourceOver,
 } from "@akasha/pages-system/page-type-properties"
 import { loadedFrom, type Value, valueAt } from "@akasha/pages-system/page-value"
-import { identityIn } from "../index/identity/index-identity.index.code.ts"
-import { indexIdentity } from "../index/identity/index-identity.index.ts"
+import { identityIn } from "../identity/index-identity.index.code.ts"
+import { indexIdentity } from "../identity/index-identity.index.ts"
 import { importIn } from "../index/import/index-import.index.code.ts"
 import { indexImport } from "../index/import/index-import.index.ts"
 import { claimingIn } from "../index/path/index-path.index.code.ts"
