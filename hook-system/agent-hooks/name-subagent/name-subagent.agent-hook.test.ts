@@ -41,8 +41,8 @@ function ranWith(
 ): { readonly code: number; readonly out: string; readonly err: string } {
   const held: Record<string, string> = { ...process.env } as Record<string, string>
   delete held[SEAT_NAMED]
-  for (const [one, standing] of Object.entries(env)) {
-    if (standing !== undefined) held[one] = standing
+  for (const [one, value] of Object.entries(env)) {
+    if (value !== undefined) held[one] = value
   }
   return ran(["bun", SCRIPT], { stdin: Buffer.from(raw), env: held })
 }
@@ -103,7 +103,7 @@ test("a name that comes out as the seat itself changes nothing", () => {
   expect(calledWith(SEATED, payloadOf({}))).toBeNull()
 })
 
-test("with no seat named the call is left as it stands", () => {
+test("with no seat named the call is left as it is", () => {
   expect(calledWith({}, payloadOf({ agent_id: SUB }))).toBeNull()
 })
 
@@ -118,13 +118,13 @@ test("a seat whose own id is unspellable names nobody into a command", () => {
   expect(calledWith(said, payloadOf({ agent_id: SUB }))).toBeNull()
 })
 
-test("a call carrying no command, or none that reads as one, is left as it stands", () => {
+test("a call carrying no command, or none that reads as one, is left as it is", () => {
   for (const one of [{}, { command: "" }, { command: 3 }, { command: null }]) {
     expect(calledWith(SEATED, payloadOf({ agent_id: SUB, tool_input: one }))).toBeNull()
   }
 })
 
-test("a payload carrying no tool input at all is left as it stands", () => {
+test("a payload carrying no tool input at all is left as it is", () => {
   const said = { hook_event_name: "PreToolUse", agent_id: SUB }
   expect(calledWith(SEATED, said)).toBeNull()
   expect(calledWith(SEATED, { ...said, tool_input: "ls" })).toBeNull()

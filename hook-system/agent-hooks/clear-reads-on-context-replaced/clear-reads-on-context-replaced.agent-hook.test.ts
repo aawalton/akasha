@@ -109,7 +109,7 @@ test("a resumed session keeps its readings", () => {
   expect(existsSync(readingAt(root, ONE))).toBe(true)
 })
 
-test("a source this does not recognise leaves the record standing", () => {
+test("a source this does not recognise leaves the record in place", () => {
   for (const one of KEEPING) {
     const root = rooted()
     expect(cleared(root, ONE, one)).toBe(false)
@@ -165,7 +165,7 @@ test("a subagent starting takes its own record and no sibling's", () => {
   }
 })
 
-test("another seat's records stand while one seat's is cleared", () => {
+test("another seat's records remain while one seat's is cleared", () => {
   const root = seated()
   cleared(root, ONE, "startup")
   expect(readFileSync(readingAt(root, TWO), "utf8")).toContain(TWO)
@@ -178,7 +178,7 @@ test("a resumed seat keeps its subagents' records too", () => {
   for (const one of SEATED) expect(existsSync(readingAt(root, one))).toBe(true)
 })
 
-test("another agent's readings stand through a source that clears nothing", () => {
+test("another agent's readings remain through a source that clears nothing", () => {
   const root = rooted()
   cleared(root, ONE, "resume")
   expect(existsSync(readingAt(root, TWO))).toBe(true)
@@ -200,7 +200,7 @@ test("a record that is not there is no error, and nothing is put in its place", 
   expect(existsSync(join(root, READS_AT))).toBe(false)
 })
 
-test("a record that cannot be reached is left as it stands", () => {
+test("a record that cannot be reached is left as it is", () => {
   const root = bare()
   const at = join(root, READS_AT, "agent", "id")
   mkdirSync(join(at, ".."), { recursive: true })
@@ -258,7 +258,7 @@ test("the session begins at every source, and the hook says nothing", () => {
   }
 })
 
-test("the hook run as the harness runs it clears the record under the root it stands in", () => {
+test("the hook run as the harness runs it clears the record under the root it sits in", () => {
   const one = planted(ONE)
   expect(ranWith("startup", ONE).code).toBe(0)
   expect(existsSync(one)).toBe(false)
@@ -274,7 +274,7 @@ test("the hook run as the harness runs it takes the subagent the payload names",
   expect(readFileSync(seat, "utf8")).toContain(ONE)
 })
 
-test("the hook run as the harness runs it leaves a resumed session's record standing", () => {
+test("the hook run as the harness runs it leaves a resumed session's record in place", () => {
   const two = planted(TWO)
   expect(ranWith("resume", TWO).code).toBe(0)
   expect(readFileSync(two, "utf8")).toContain(TWO)

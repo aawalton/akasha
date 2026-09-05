@@ -181,7 +181,7 @@ test("git carrying no act is stood aside from", () => {
   expect(refusalIn("git -C /elsewhere")).toBeNull()
 })
 
-test("a call standing behind another on the same line is still refused", () => {
+test("a call behind another on the same line is still refused", () => {
   expect(refusalIn("git status && git commit -m one")).not.toBeNull()
   expect(refusalIn("git add -- tools/one.ts && git commit -m one")).not.toBeNull()
 })

@@ -132,7 +132,7 @@ test("a tool this hook does not name is stood aside", () => {
   expect(refusalFor(asking("Bash", "akasha/held.ts", root), root, root, HELD)).toBeNull()
 })
 
-test("the body a write is staged in stands under the agent's own folder", () => {
+test("the body a write is staged in sits under the agent's own folder", () => {
   expect(holdingIn("01a0-seat")).toBe("/var/tmp/01a0-seat")
   expect(holdingIn("  01a0-seat  ")).toBe("/var/tmp/01a0-seat")
 })

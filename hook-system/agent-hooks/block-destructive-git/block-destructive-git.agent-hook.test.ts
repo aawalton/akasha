@@ -192,7 +192,7 @@ test("git carrying no act is stood aside from", () => {
   expect(refusalIn("git -C /elsewhere")).toBeNull()
 })
 
-test("a call standing behind a read on the same line is still refused", () => {
+test("a call behind a read on the same line is still refused", () => {
   expect(refusalIn("git status && git reset --hard")).not.toBeNull()
   expect(refusalIn("cd /elsewhere; git clean -fd")).not.toBeNull()
 })

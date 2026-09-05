@@ -51,7 +51,7 @@ test("a redirect onto the index is refused, and names the one repair", () => {
   expect(said(`echo hi > ${indexNamed()}/held.jsonl`)).toContain(REBUILD)
 })
 
-test("a copy out of akasha stands, because it lands outside", () => {
+test("a copy out of akasha is let through, because it lands outside", () => {
   expect(said("cp akasha/held.domain.ts /var/tmp/x")).toBeNull()
 })
 
@@ -59,7 +59,7 @@ test("a copy into a target directory named by a flag is refused", () => {
   expect(said("cp -t akasha /var/tmp/x")).toContain(INSIDE)
 })
 
-test("a write outside the guarded roots stands", () => {
+test("a write outside the guarded roots is let through", () => {
   expect(said("cp /var/tmp/a /var/tmp/b")).toBeNull()
   expect(said("echo hi > /var/tmp/b")).toBeNull()
 })
@@ -104,15 +104,15 @@ test("an in-place edit onto the index is refused, and names the one repair", () 
   expect(said(`perl -pi -e 's/a/b/' ${indexNamed()}/held.jsonl`)).toContain(REBUILD)
 })
 
-test("a sed reading akasha without writing it stands", () => {
+test("a sed reading akasha without writing it is let through", () => {
   expect(said("sed 's/a/b/' akasha/held.domain.ts")).toBeNull()
 })
 
-test("an awk reading akasha without writing it stands", () => {
+test("an awk reading akasha without writing it is let through", () => {
   expect(said("awk '{print}' akasha/held.domain.ts")).toBeNull()
 })
 
-test("an in-place edit outside the guarded roots stands", () => {
+test("an in-place edit outside the guarded roots is let through", () => {
   expect(said("perl -pi /var/tmp/edit.pl /var/tmp/x")).toBeNull()
 })
 
@@ -191,7 +191,7 @@ test("a refusal names the removing command as well as the writing one", () => {
   expect(said("rm -f akasha/held.domain.ts")).toContain("akasha remove --file-path")
 })
 
-test("a write outside the guarded roots stands for the verbs added here", () => {
+test("a write outside the guarded roots is let through for the verbs added here", () => {
   expect(said("rm -f /var/tmp/x")).toBeNull()
   expect(said("touch /var/tmp/x")).toBeNull()
   expect(said("mkdir -p /var/tmp/held")).toBeNull()
@@ -256,7 +256,7 @@ test("a program naming the index is refused, and names the one repair", () => {
   expect(said(`python3 -c "open('${indexNamed()}/held.jsonl','w')"`)).toContain(REBUILD)
 })
 
-test("a program naming no guarded path stands", () => {
+test("a program naming no guarded path is let through", () => {
   expect(said('python3 -c "print(1)"')).toBeNull()
   expect(said("bun run /var/tmp/probe.tmp.ts")).toBeNull()
   expect(said("node /var/tmp/w.js /var/tmp/x")).toBeNull()
