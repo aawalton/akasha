@@ -11,6 +11,21 @@ index 34c44b1603b78ca7ca09eceb24e4c011a9dc4fae..23128cb8d4b72f963d0b4767a39a5a68
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/inboxes/inbox.domain.ts b/alan/harness/inboxes/inbox.domain.ts
+index 4d42e121ae2d2a491a9a669423c44b92246a50c8..6740b0568835560793eb83cfc0ac6a5112e3522d 100644
+--- a/alan/harness/inboxes/inbox.domain.ts
++++ b/alan/harness/inboxes/inbox.domain.ts
+@@ -24,6 +24,10 @@ export const inbox = {
+       invariantKind: "departure",
+       statement: "A count is read from the pages the workstation's checkout carries.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A count of zero is a count.",
++    },
+ 
+     {
+       invariantKind: "departure",
 diff --git a/changes/atomic-changes/atomic-change.page-type.ts b/changes/atomic-changes/atomic-change.page-type.ts
 index 5c11acd517a726013794d7c13b62dee96089bab8..c0114ddde5d87cdccccf3e05c35832f6606886cb 100644
 --- a/changes/atomic-changes/atomic-change.page-type.ts
