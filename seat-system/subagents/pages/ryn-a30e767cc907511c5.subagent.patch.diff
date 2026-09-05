@@ -1,14 +1,19 @@
 diff --git a/editor-extension/seat-acts/seat-acts.module.ts b/editor-extension/seat-acts/seat-acts.module.ts
-index abfa2d55d1090d1ed4e572819579268ed52d35e8..0dbe4852b233fe5a1429d800f5b442cc45551d53 100644
+index abfa2d55d1090d1ed4e572819579268ed52d35e8..f68b9b3e83a87dd85ea673f34e0707bb96b05641 100644
 --- a/editor-extension/seat-acts/seat-acts.module.ts
 +++ b/editor-extension/seat-acts/seat-acts.module.ts
-@@ -9,7 +9,8 @@ export const seatActs = {
+@@ -9,11 +9,12 @@ export const seatActs = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "A seat already being acted on ignores a second act rather than queueing it.",
 +      statement:
 +        "A seat already being acted on ignores a second act rather than queueing that act.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The steps of one plan run in the order the plan named them.",
++      statement: "The steps of one plan run in the order the plan named those steps.",
      },
      {
        invariantKind: "departure",
