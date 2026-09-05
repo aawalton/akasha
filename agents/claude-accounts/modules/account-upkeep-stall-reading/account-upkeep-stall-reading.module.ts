@@ -14,8 +14,7 @@ export const accountUpkeepStallReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Upkeep says nothing when it dies, because the thing that would report it is upkeep itself, so this module says it from outside.",
+      statement: "Upkeep says nothing when it dies.",
     },
     {
       invariantKind: "departure",
