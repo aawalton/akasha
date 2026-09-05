@@ -240,3 +240,18 @@ index 836eae0959420f9c8f3a913b422863282988e844..0ecb6dc8eb26f8a2577d912d873560e2
  
  const TAIL = ".notice.text.md"
  
+diff --git a/seat-system/compose-notices/compose-notices.module.ts b/seat-system/compose-notices/compose-notices.module.ts
+index 32ae50fead6abe9c59a55a9b3651ead36aa26957..abacddc800b68952ef5315d8e7c954aaa357bed2 100644
+--- a/seat-system/compose-notices/compose-notices.module.ts
++++ b/seat-system/compose-notices/compose-notices.module.ts
+@@ -19,6 +19,10 @@ export const composeNotices = {
+       invariantKind: "departure",
+       statement: "The lines of a paragraph join with a space, and a blank line between two stays.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A notice page holding nothing is answered an empty text rather than left out.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A folder that is not there, or holds no notice, is refused rather than empty.",
