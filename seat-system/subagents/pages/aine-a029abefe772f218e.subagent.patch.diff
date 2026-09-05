@@ -1,8 +1,8 @@
 diff --git a/supabase-auth/supabase-auth.workspace-package.ts b/supabase-auth/supabase-auth.workspace-package.ts
-index 0ed0dfb01d6de96a09067dfa9b88a553ef7de359..013034a35112e4f171f471824afca6470efe6ebb 100644
+index 0ed0dfb01d6de96a09067dfa9b88a553ef7de359..930976ea1822a5099f8412f6aff0417c90f5d879 100644
 --- a/supabase-auth/supabase-auth.workspace-package.ts
 +++ b/supabase-auth/supabase-auth.workspace-package.ts
-@@ -16,11 +16,11 @@ export const supabaseAuth = {
+@@ -16,15 +16,15 @@ export const supabaseAuth = {
    invariants: [
      {
        invariantKind: "absence",
@@ -16,6 +16,11 @@ index 0ed0dfb01d6de96a09067dfa9b88a553ef7de359..013034a35112e4f171f471824afca647
      },
      {
        invariantKind: "absence",
+-      statement: "No password stands here.",
++      statement: "No password is here.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/supabase-auth/user-id/user-id.module.ts b/supabase-auth/user-id/user-id.module.ts
 index eaa8d47dcc8ade8eab207c0bc862254cd4ed6022..41e430a743febaaf1968f58b4ffb62ff90abad45 100644
 --- a/supabase-auth/user-id/user-id.module.ts
