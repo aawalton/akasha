@@ -527,3 +527,11 @@ index 95a09d805466d678550220112b03ee9dee371084..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-addons-resolve
 \ No newline at end of file
+diff --git a/temper/temper-alchemy/temper-alchemy b/temper/temper-alchemy/temper-alchemy
+deleted file mode 120000
+index fc52d95b689c69e990eccd0923789b0e2a0a39e5..0000000000000000000000000000000000000000
+--- a/temper/temper-alchemy/temper-alchemy
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-alchemy
+\ No newline at end of file
