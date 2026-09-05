@@ -40,7 +40,7 @@ export const temperLibTreasure = {
     },
     {
       invariantKind: "constraint",
-      statement: "The pin rows are what upstream LibTreasure v24 states.",
+      statement: "The pin rows are the rows upstream LibTreasure v24 states.",
     },
   ],
 } as const satisfies EsoAddon
