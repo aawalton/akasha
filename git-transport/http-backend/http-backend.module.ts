@@ -17,7 +17,7 @@ export const httpBackend = {
     },
     {
       invariantKind: "departure",
-      statement: "A gzipped body is decompressed before the backend is fed it.",
+      statement: "A gzipped body is decompressed before the backend is fed that body.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,8 @@ export const httpBackend = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller that gave up cancels the answer and takes the backend down with it.",
+      statement:
+        "A caller that gave up cancels the answer and takes the backend down with that answer.",
     },
   ],
 } as const satisfies Module
