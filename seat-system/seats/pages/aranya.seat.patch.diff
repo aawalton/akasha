@@ -1471,3 +1471,11 @@ index 9c5afca021486734930a355e851c06039984b410..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-quests-addon
 \ No newline at end of file
+diff --git a/temper/temper-quests-trace/temper-quests-trace b/temper/temper-quests-trace/temper-quests-trace
+deleted file mode 120000
+index a709d5e012777ddaaa2588dcb8641b873d093ffe..0000000000000000000000000000000000000000
+--- a/temper/temper-quests-trace/temper-quests-trace
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-quests-trace
+\ No newline at end of file
