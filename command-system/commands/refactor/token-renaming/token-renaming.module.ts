@@ -114,7 +114,8 @@ export const tokenRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "What a shorthand names is asked of the checker rather than read off the syntax.",
+      statement:
+        "The declaration a shorthand names is asked of the checker rather than read off the syntax.",
     },
     {
       invariantKind: "departure",
@@ -173,7 +174,8 @@ export const tokenRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "What still names the name is looked for after the strings were respelled.",
+      statement:
+        "The places still naming the name are looked for after the strings were respelled.",
     },
     {
       invariantKind: "departure",
