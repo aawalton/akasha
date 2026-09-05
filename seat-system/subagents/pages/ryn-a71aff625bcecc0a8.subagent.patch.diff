@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/commands/read/read.command.ts b/commands/read/read.command.ts
-index d96451ddfe3a6d439e56bdbaaacc785f7104aea6..49cddb2b6b449cd08cb3bfd674d0cd7c43bb0867 100644
+index d96451ddfe3a6d439e56bdbaaacc785f7104aea6..74034efdaeee6609b13c1979d309faa550d802fb 100644
 --- a/commands/read/read.command.ts
 +++ b/commands/read/read.command.ts
 @@ -32,7 +32,7 @@ export const read = {
@@ -52,6 +52,15 @@ index d96451ddfe3a6d439e56bdbaaacc785f7104aea6..49cddb2b6b449cd08cb3bfd674d0cd7c
        invariantKind: "departure",
 -      statement: "No call returns a body past what one answer holds.",
 +      statement: "No call returns a body past the bytes one answer holds.",
+     },
+     {
+       invariantKind: "departure",
+@@ -128,7 +129,7 @@ export const read = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The call for what is left over is priced as that call is printed.",
++      statement: "The call for the rest is priced as that call is printed.",
      },
      {
        invariantKind: "departure",
