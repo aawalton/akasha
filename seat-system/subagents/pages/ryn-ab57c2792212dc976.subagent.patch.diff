@@ -1,14 +1,20 @@
 diff --git a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
-index f443a3f5647f7c2d4fcf9c3c96a1c1ca752ff274..17f58616a1b427b811c188e6b43c63e34ec336b1 100644
+index f443a3f5647f7c2d4fcf9c3c96a1c1ca752ff274..b87470a3dbd6318c9c3d730ea9f051b523eaf5fa 100644
 --- a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
 +++ b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
-@@ -13,8 +13,7 @@ export const monarchRuleDocuments = {
+@@ -13,13 +13,11 @@ export const monarchRuleDocuments = {
      },
      {
        invariantKind: "departure",
 -      statement:
 -        "The checkout is read directly rather than the pages system service asked, because the ring runs under a workstation timer where there is no service.",
 +      statement: "The checkout is read directly rather than the pages system service asked.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A rule folder that is not there is refused, because answering with no rules would categorize nothing and report nothing wrong.",
++      statement: "A rule folder that is not there is refused.",
      },
      {
        invariantKind: "departure",
