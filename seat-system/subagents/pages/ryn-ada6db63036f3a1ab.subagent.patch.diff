@@ -1,0 +1,14 @@
+diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.ts
+index 4d8068efacc7739e120d6863f625b9e2c022ab2b..86ac1c777a98dd0d0a12970f955bd774e61e1a58 100644
+--- a/checks/code-checks/pages/typecheck/typecheck.code-check.ts
++++ b/checks/code-checks/pages/typecheck/typecheck.code-check.ts
+@@ -126,7 +126,8 @@ export const typecheck = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Nothing is reported against it and a file still importing it is refused.",
++      statement:
++        "Nothing is reported against that path and a file still importing that path is refused.",
+     },
+     {
+       invariantKind: "departure",
