@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/code-system/ios-apps/ios-app.page-type.ts b/code-system/ios-apps/ios-app.page-type.ts
+index a5a1bc3ee73213aa2836fabcbc08535949891e24..d88966fe8da3d34005a2ba9b92331c9b11ccaf52 100644
+--- a/code-system/ios-apps/ios-app.page-type.ts
++++ b/code-system/ios-apps/ios-app.page-type.ts
+@@ -128,7 +128,7 @@ export const iosApp = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A script more than one app runs sits above them all.",
++      statement: "A script more than one app runs sits above all those apps.",
+     },
+     {
+       invariantKind: "departure",
