@@ -157,14 +157,20 @@ test("a part that stopped is told no more", async () => {
   expect(seen.length).toBe(1)
 })
 
+// Both files are written before this follows one of them. Were only one written, a part told about
+// the other would find nothing to read and draw nothing anyway, so the test would pass with the
+// name filtered or not, and what it claims to prove it would not be proving at all.
 test("a file for one part is not read for another", async () => {
+  serviceWrites('{"roots":[{"key":"work"}]}')
+  writeFileSync(stateAt(root, "agent-tree"), '{"roots":[{"key":"agent"}]}\n', "utf8")
   const seen: unknown[] = []
   const reading = followState(root, "agent-tree", (held) => {
     seen.push(held)
     return undefined
   })
-  serviceWrites('{"roots":[{"key":"work"}]}')
-  await until(() => seen.length >= 1, 300)
+  expect(seen.length).toBe(1)
+  serviceWrites('{"roots":[{"key":"work-moved"}]}')
+  await until(() => seen.length >= 2, 300)
   reading.stop()
-  expect(seen.length).toBe(0)
+  expect(seen.length).toBe(1)
 })
