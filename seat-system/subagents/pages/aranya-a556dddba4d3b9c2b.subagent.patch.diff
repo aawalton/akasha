@@ -177,7 +177,7 @@ index db19efdc4707b002bffeb2346e08c9f719bc5086..cbd3131d5fe8465a0e40359a6def13c8
    expect(() => index.everyOfType(MODULE)).toThrow(NOT_THERE)
    expect(() => index.everyPath()).toThrow(NOT_THERE)
 diff --git a/pages/indexes/indexing/indexing.module.code.ts b/pages/indexes/indexing/indexing.module.code.ts
-index 0a4b2d4050cb3820b02ee5ed97991cea769b77c3..5f2cfa4738dcc3e79a25b6b8213e83b02df2a2b1 100644
+index 0a4b2d4050cb3820b02ee5ed97991cea769b77c3..9f1c4dfb3f6bc7b26807be041d574af012b58e43 100644
 --- a/pages/indexes/indexing/indexing.module.code.ts
 +++ b/pages/indexes/indexing/indexing.module.code.ts
 @@ -7,7 +7,7 @@ import {
@@ -197,7 +197,58 @@ index 0a4b2d4050cb3820b02ee5ed97991cea769b77c3..5f2cfa4738dcc3e79a25b6b8213e83b0
  import {
    indexIn,
    overlaidOn,
-@@ -417,11 +416,6 @@ export function indexingAt(root: string, repo: string): Indexing {
+@@ -133,15 +132,44 @@ function pageShaped(path: string, fileProperties: ReadonlyMap<string, string | n
+   return !fileProperties.has(said.pageType)
+ }
+ 
+-function reconcile(under: string, entries: readonly Entry[], root: string): undefined {
+-  const wanted = Map.groupBy(entries, (one) => one.at)
+-  for (const one of existsSync(under) ? walkedUnder(under, () => true) : []) {
+-    if (!wanted.has(one.slice(root.length + 1))) keepWhole(one, [], root)
++export type Drift = {
++  readonly added: readonly string[]
++  readonly changed: readonly string[]
++  readonly went: readonly string[]
++}
++
++function bodyAt(at: string): string | null {
++  try {
++    return readFileSync(at, "utf8")
++  } catch {
++    return null
+   }
++}
++
++// The wanted entries are written before the extras are taken away. A repair stopped partway
++// then leaves entries no page carries, which the next run collects; the other order would
++// leave an entry missing, and a missing entry reads as no page carrying that value at all.
++function reconcile(under: string, entries: readonly Entry[], root: string, put: boolean): Drift {
++  const wanted = Map.groupBy(entries, (one) => one.at)
++  const added: string[] = []
++  const changed: string[] = []
++  const went: string[] = []
+   for (const [at, held] of wanted) {
+-    const lines = new Set(held.map((one) => one.line))
+-    keepWhole(join(root, at), [...lines].sort(), root)
++    const lines = [...new Set(held.map((one) => one.line))].sort()
++    const path = join(root, at)
++    const was = bodyAt(path)
++    if (was === `${lines.join("\n")}\n`) continue
++    if (was === null) added.push(at)
++    else changed.push(at)
++    if (put) keepWhole(path, lines, root)
++  }
++  for (const one of existsSync(under) ? walkedUnder(under, () => true) : []) {
++    const at = one.slice(root.length + 1)
++    if (wanted.has(at)) continue
++    went.push(at)
++    if (put) keepWhole(one, [], root)
+   }
++  return { added: added.sort(), changed: changed.sort(), went: went.sort() }
+ }
+ 
+ export type Indexing = {
+@@ -417,11 +445,6 @@ export function indexingAt(root: string, repo: string): Indexing {
        pending.clear()
        const found = settlingOver(readingAt(root), repo, moving, (path) => valueAt(path, repo))
        filedInto(root, found.filings)
