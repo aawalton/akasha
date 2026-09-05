@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/digit-padding/digit-padding.workspace-package.ts b/digit-padding/digit-padding.workspace-package.ts
+index a7fd3a0a59121f888af0c49d6a9b5c970f664a92..2561054ac67dde0e152bcb0dfcfcbfde34b2b1f5 100644
+--- a/digit-padding/digit-padding.workspace-package.ts
++++ b/digit-padding/digit-padding.workspace-package.ts
+@@ -10,7 +10,7 @@ export const digitPadding = {
+   invariants: [
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows what the number this package fills out counts.",
++      statement: "Nothing here knows the thing the number this package fills out counts.",
+     },
+     {
+       invariantKind: "departure",
