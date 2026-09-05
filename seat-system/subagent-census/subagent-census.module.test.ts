@@ -83,18 +83,18 @@ test("a page whose seat runs on no live process is stale", () => {
     world.rootFor("subagent-census-logs-")
   )
   expect(judged[0]?.verdict).toBe(STALE)
-  expect(judged[0]?.why).toContain("no live process runs as its seat")
+  expect(judged[0]?.why).toContain("no process at all carries its seat's agent id")
   world.sweep()
 })
 
-test("a process running as the seat under a cmdline no agent runs leaves the seat gone", () => {
+test("a process carrying the seat's agent id reads the seat as there, cmdline or not", () => {
   const root = rooted()
   const judged = judgedIn(
     root,
     [entry({ agentId: SEAT_ID, cmdline: TASK, pid: 9 })],
     world.rootFor("subagent-census-logs-")
   )
-  expect(judged[0]?.verdict).toBe(STALE)
+  expect(judged[0]?.verdict).toBe(UNDETERMINED)
   world.sweep()
 })
 

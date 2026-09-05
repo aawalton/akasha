@@ -35,7 +35,15 @@ export const subagentCensus = {
     },
     {
       invariantKind: "departure",
-      statement: "A page whose seat runs on no live process reads as stale.",
+      statement: "A page whose seat's agent id is carried by no process at all reads as stale.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No command line is read, because a removal leans on no pattern matching one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A process a seat left behind reads that seat as there.",
     },
     {
       invariantKind: "departure",

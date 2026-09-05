@@ -64,8 +64,8 @@ export function messageOf(stale: readonly Judged[]): string {
     `${String(stale.length)} subagent page(s) go, one for each subagent nothing says is at work`,
     "",
     "A page is judged from evidence rather than from age: a live process acting under its agent",
-    "id, a take-down its seat's subagent-presence log says was refused, or no live process running",
-    "as its seat at all. These are the pages the evidence settled as done.",
+    "id, a take-down its seat's subagent-presence log says was refused, or no process at all",
+    "carrying its seat's agent id. These are the pages the evidence settled as done.",
     "",
     ...stale.map((one) => `${one.page.slug} — ${one.why}`),
   ].join("\n")

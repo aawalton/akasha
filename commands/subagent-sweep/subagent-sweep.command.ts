@@ -14,7 +14,7 @@ export const subagentSweep = {
     "a run naming nothing reports and writes nothing, which is how a person reads the census first.",
     "a page is judged WORKING, STALE or UNDETERMINED, and only STALE ever goes.",
     "WORKING is a live process acting under the page's agent id, which beats every other reading.",
-    "STALE is a take-down the seat's subagent-presence log says was refused, or a seat on no live process.",
+    "STALE is a take-down the seat's log says was refused, or a seat no process at all carries the id of.",
     "UNDETERMINED is everything else, because a subagent waiting on the model runs no process of its own.",
     "no page's age is read: a page written long ago under a process still running says nothing.",
     "the report names, for each page, its seat, its agent id, what answers for it, and why.",
