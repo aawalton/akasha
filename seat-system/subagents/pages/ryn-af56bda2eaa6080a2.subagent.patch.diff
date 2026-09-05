@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/temper/temper-addon-data/addon-data-proof/addon-data-proof.module.ts b/temper/temper-addon-data/addon-data-proof/addon-data-proof.module.ts
-index 915e0b54a7ab31d3ce44bc74e89b422b3721d1f8..3e5bda96006c052efdad91858d91acb8ce62b032 100644
+index 915e0b54a7ab31d3ce44bc74e89b422b3721d1f8..cd2bcb4ec91412ea992858ba340c5a8d3bfe8b78 100644
 --- a/temper/temper-addon-data/addon-data-proof/addon-data-proof.module.ts
 +++ b/temper/temper-addon-data/addon-data-proof/addon-data-proof.module.ts
 @@ -30,7 +30,7 @@ export const addonDataProof = {
@@ -12,3 +12,13 @@ index 915e0b54a7ab31d3ce44bc74e89b422b3721d1f8..3e5bda96006c052efdad91858d91acb8
      },
      {
        invariantKind: "departure",
+@@ -51,7 +51,8 @@ export const addonDataProof = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A population that fails leaves the sections that do not read it judged.",
++      statement:
++        "A population that fails leaves the sections that do not read that population judged.",
+     },
+     {
+       invariantKind: "absence",
