@@ -38,10 +38,7 @@ export const gitTransport = {
       invariantKind: "departure",
       statement: "A repository carrying a mirror hook declares a destination, and the other way.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The mirror runs after the push returns rather than while the client waits.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A push is authenticated before git is reached at all.",
