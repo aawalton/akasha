@@ -12,7 +12,7 @@ export const blockDestructiveGit = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An act named here is refused wherever that act stands.",
+      statement: "An act named here is refused wherever that act is.",
     },
     {
       invariantKind: "departure",

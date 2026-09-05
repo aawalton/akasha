@@ -37,7 +37,7 @@ export const blockBiome = {
     },
     {
       invariantKind: "absence",
-      statement: "No package script standing now reaches akasha.",
+      statement: "No package script now reaches akasha.",
     },
     {
       invariantKind: "constraint",

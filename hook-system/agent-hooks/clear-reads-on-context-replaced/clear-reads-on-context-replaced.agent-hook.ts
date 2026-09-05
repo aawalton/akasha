@@ -67,7 +67,7 @@ export const clearReadsOnContextReplaced = {
     },
     {
       invariantKind: "departure",
-      statement: "A record that cannot be reached is left as the record stands.",
+      statement: "A record that cannot be reached is left as the record is.",
     },
     {
       invariantKind: "departure",

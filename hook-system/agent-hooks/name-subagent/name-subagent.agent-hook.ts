@@ -30,7 +30,7 @@ export const nameSubagent = {
     },
     {
       invariantKind: "departure",
-      statement: "A payload naming no subagent leaves the call as the call stands.",
+      statement: "A payload naming no subagent leaves the call as the call is.",
     },
     {
       invariantKind: "departure",

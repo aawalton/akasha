@@ -11,7 +11,7 @@ export const stateSubagent = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A subagent standing is a page standing.",
+      statement: "A subagent that exists is a page that exists.",
     },
     {
       invariantKind: "departure",
@@ -23,7 +23,7 @@ export const stateSubagent = {
     },
     {
       invariantKind: "departure",
-      statement: "A payload naming no subagent leaves what stands unchanged.",
+      statement: "A payload naming no subagent leaves what is there unchanged.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +31,7 @@ export const stateSubagent = {
     },
     {
       invariantKind: "departure",
-      statement: "This hook changes what stands rather than judging a call.",
+      statement: "This hook changes what is there rather than judging a call.",
     },
     {
       invariantKind: "departure",

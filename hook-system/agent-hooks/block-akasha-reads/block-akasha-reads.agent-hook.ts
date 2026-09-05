@@ -32,7 +32,7 @@ export const blockAkashaReads = {
     },
     {
       invariantKind: "absence",
-      statement: "A Read of `.git/data` stands.",
+      statement: "A Read of `.git/data` is let through.",
     },
     {
       invariantKind: "absence",
