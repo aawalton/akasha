@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/indexes/property-carrying/property-carrying.module.ts b/pages/indexes/property-carrying/property-carrying.module.ts
-index 1a83367b65ab37ceb0b2094f2d03dba9d50d330a..e8e8b5c5977e4170653a0a397fe7cca4a40fb67b 100644
+index 1a83367b65ab37ceb0b2094f2d03dba9d50d330a..f90e90081713ca9f88edd81c841b5245bf437ed7 100644
 --- a/pages/indexes/property-carrying/property-carrying.module.ts
 +++ b/pages/indexes/property-carrying/property-carrying.module.ts
 @@ -23,7 +23,8 @@ export const propertyCarrying = {
@@ -10,6 +10,15 @@ index 1a83367b65ab37ceb0b2094f2d03dba9d50d330a..e8e8b5c5977e4170653a0a397fe7cca4
 -      statement: "What declares a property is answered apart from what carries the property.",
 +      statement:
 +        "The declarers of a property are answered apart from the pages carrying the property.",
+     },
+     {
+       invariantKind: "departure",
+@@ -71,7 +72,7 @@ export const propertyCarrying = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the file is named decides nothing on its own.",
++      statement: "The file's name decides nothing on its own.",
      },
      {
        invariantKind: "departure",
