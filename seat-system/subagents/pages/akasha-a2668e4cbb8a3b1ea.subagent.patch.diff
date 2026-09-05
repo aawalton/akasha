@@ -1,0 +1,155 @@
+diff --git a/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.code.ts b/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.code.ts
+index 7703f1c4cc390086c6fc4a94177fb3017aa15723..693e06158cb9fa5948fad70f39c099709881037f 100644
+--- a/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.code.ts
++++ b/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.code.ts
+@@ -27,14 +27,14 @@ const POSITION_DIGITS = 4
+ const BATCH_CEILING = 50
+ const BYTES = new TextEncoder()
+ 
+-// A title is shortened to whole words at fifty characters, and the whole slug is held to the
+-// hundred `slug` states as its max. The longest story slug here is 56, which leaves 38 for the
+-// title; shortening the title alone would name 112 characters and `page-matches-its-type` would
+-// refuse the landing.
++// A title is shortened to whole words at fifty characters, and the whole slug to the hundred
++// `slug` states as its max: the longest story slug here is 56, leaving 38 for the title, and a
++// slug of 112 characters would be refused by `page-matches-its-type`.
+ const TITLE_CEILING = 50
+ const SLUG_HOLDS = 100
+ 
+ const DAY = /^\d{4}-\d{2}-\d{2}$/
++const CHAPTER_AT = /\/chapter\/(\d+)/
+ 
+ const STATUS_KEPT = new Set(["ongoing", "completed", "hiatus"])
+ 
+@@ -106,8 +106,8 @@ export function readStories(only: string | undefined): readonly Story[] {
+     throw new SyncRefused(`the stories to follow went unread: ${asked.refused}`)
+   if (asked.rows.length === 0) {
+     throw new SyncRefused(
+-      `${STORY_PAGE_TYPE} answered with no story read from ${SOURCE} at all. Royal road stories ` +
+-        `are on file here, so an empty answer is a broken read rather than an empty shelf.`
++      `${STORY_PAGE_TYPE} answered with no story read from ${SOURCE}. An empty answer is a ` +
++        `broken read rather than an empty shelf.`
+     )
+   }
+   const out: Story[] = []
+@@ -117,7 +117,7 @@ export function readStories(only: string | undefined): readonly Story[] {
+     if (only !== undefined && slug !== only) continue
+     const externalId = textIn(row, "externalId")
+     if (externalId === null) {
+-      console.log(`skip ${slug}: the page states no externalId`)
++      console.log(`skip ${slug}: no externalId`)
+       continue
+     }
+     out.push({
+@@ -139,8 +139,7 @@ export function storySlugsOf(held: unknown): readonly string[] {
+   for (const one of held) {
+     if (typeof one !== "string" || one === "") continue
+     // Both forms are in the store: 4,206 royal road chapters say `story-read/<slug>` and 12,623
+-    // say `<slug>`. Reading only the qualified one would answer nothing for a story filed the
+-    // bare way, and every chapter of it would read as new and be filed a second time.
++    // say `<slug>`. Reading only the qualified one would file every chapter of the rest again.
+     out.push(one.startsWith(OPENS_WITH) ? one.slice(OPENS_WITH.length) : one)
+   }
+   return out
+@@ -151,22 +150,30 @@ export interface Held {
+   readonly slugs: ReadonlySet<string>
+ }
+ 
++export function chapterIdIn(row: Row): string | null {
++  const id = textIn(row, "externalId")
++  if (id !== null) return id
++  // 602 chapters of one royal road story state no externalId. Their link carries the id royal
++  // road lists them under, so reading it there is what keeps them known by their id.
++  const link = textIn(row, "externalLink")
++  return link === null ? null : (CHAPTER_AT.exec(link)?.[1] ?? null)
++}
++
+ export function heldChapters(): Held {
+   const asked = asking(ROOT, {
+     pageTypeSlug: CHAPTER_PAGE_TYPE,
+-    keys: ["slug", "externalId", "source", PART_OF],
++    keys: ["slug", "externalId", "externalLink", PART_OF],
+   })
+   if ("refused" in asked) {
+     throw new SyncRefused(
+       `the chapters already filed went unread, so every chapter royal road lists would read as ` +
+-        `new and be filed a second time: ${asked.refused}`
++        `new and be filed again: ${asked.refused}`
+     )
+   }
+   if (asked.rows.length === 0) {
+     throw new SyncRefused(
+-      `${CHAPTER_PAGE_TYPE} answered with no chapter at all. Chapters are on file here, so an ` +
+-        `empty answer is a broken read rather than an empty shelf, and syncing on it would file ` +
+-        `every chapter a second time.`
++      `${CHAPTER_PAGE_TYPE} answered with no chapter at all. An empty answer is a broken read ` +
++        `rather than an empty shelf, and syncing on it would file every chapter a second time.`
+     )
+   }
+   const slugs = new Set<string>()
+@@ -175,8 +182,9 @@ export function heldChapters(): Held {
+     // A name is taken by every chapter rather than by one story's: the chapters are filed flat.
+     const slug = textIn(row, "slug")
+     if (slug !== null) slugs.add(slug)
+-    if (row["source"] !== SOURCE) continue
+-    const id = textIn(row, "externalId")
++    // The source a chapter says is not read here: 2,097 say none, and a chapter belongs to the
++    // story it is part of whatever it says. Reading it dropped all 2,097 out of this answer.
++    const id = chapterIdIn(row)
+     if (id === null) continue
+     for (const story of storySlugsOf(row[PART_OF])) {
+       const ids = idsByStory.get(story) ?? new Set<string>()
+@@ -299,7 +307,7 @@ async function syncStory(
+   const pending = fiction.chapters.filter(
+     (one) => one.visible && one.isUnlocked && !ids.has(one.id)
+   )
+-  const listed = `${story.slug}: ${fiction.chapters.length} listed`
++  const listed = `${story.slug}: ${fiction.chapters.length} listed, ${ids.size} held`
+   console.log(
+     pending.length === 0 ? `  ${listed}, nothing new` : `  ${listed}, ${pending.length} new`
+   )
+@@ -334,12 +342,11 @@ async function syncStory(
+   const wanted = restatementFor(story, fiction.meta.status, fiction.meta.tags)
+   if (wanted === null) return
+   if (story.worldSlug === null) {
+-    // `worldSlug` is required on a story read and royal road answers with nothing that could
+-    // serve as one. Restating would compose the page again with no world, the check would refuse
+-    // the whole batch, and every chapter landing beside it would go down with it.
++    // `worldSlug` is required on a story read and royal road answers with nothing that serves as
++    // one. Restating without it would refuse the batch and take every chapter in it down too.
+     console.log(
+-      `    ${story.slug} not restated: ${STORY_PAGE_TYPE}/${story.slug} states no worldSlug and ` +
+-        `${SOURCE} answers with none. Put a world on that page by hand before it restates.`
++      `    ${STORY_PAGE_TYPE}/${story.slug} not restated: it states no worldSlug and ${SOURCE} ` +
++        `answers with none. Put a world on that page by hand before it restates.`
+     )
+     counts.unworlded += 1
+     return
+@@ -352,8 +359,7 @@ async function syncStory(
+ export async function landInBatches(filing: readonly Filed[], counts: Counts): Promise<void> {
+   for (let at = 0; at < filing.length; at += BATCH_CEILING) {
+     const batch = filing.slice(at, at + BATCH_CEILING)
+-    // A page and its prose go into one commit: a commit carrying the page alone states a file
+-    // that is not there.
++    // A page and its prose go into one commit: the page alone states a file that is not there.
+     const changes = batch.flatMap((one) => [...one.changes])
+     const answer = await landedMechanically(
+       ROOT,
+@@ -417,13 +423,12 @@ export async function main(argv: readonly string[]): Promise<number> {
+   console.log(
+     `composed ${counts.composed} chapter(s), restated ${counts.restated} story page(s), ` +
+       `skipped ${counts.skipped} over budget, ${counts.failed} failed, ${counts.refused} refused, ` +
+-      `${counts.unworlded} left unrestated for stating no world`
++      `${counts.unworlded} unrestated for no world`
+   )
+   // A RUN THAT FAILED ITEMS IS A FAILED RUN. This was `failed > 0 && composed === 0`, so a run
+-  // reported red only when it managed nothing at all: one new chapter landing anywhere across 103
+-  // stories turned the same 61 ongoing failures into exit 0. Of the 259 completed runs between
+-  // 2026-08-17 and 2026-09-02, 127 exited 0 while reporting 61 failed, which is the wrong 127 —
+-  // the signal was suppressed on exactly the runs that had work to show and kept on the quiet ones.
++  // reported red only when it managed nothing at all. Of the 259 completed runs between
++  // 2026-08-17 and 2026-09-02, 127 exited 0 while reporting 61 failed: one new chapter anywhere
++  // across 103 stories suppressed the signal on exactly the runs that had work to show.
+   return counts.refused > 0 || counts.failed > 0 || counts.unworlded > 0 ? 1 : 0
+ }
+ 
