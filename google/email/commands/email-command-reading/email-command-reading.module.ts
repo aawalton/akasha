@@ -56,6 +56,10 @@ export const emailCommandReading = {
     },
     {
       invariantKind: "departure",
+      statement: "A subject read from a file carries no line ending.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path that is not absolute is read against the repository root.",
     },
     {
