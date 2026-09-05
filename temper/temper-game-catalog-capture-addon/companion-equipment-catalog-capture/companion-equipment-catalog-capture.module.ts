@@ -18,7 +18,7 @@ export const companionEquipmentCatalogCapture = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads what a companion is wearing.",
+      statement: "Nothing here reads the equipment a companion wears.",
     },
   ],
 } as const satisfies Module
