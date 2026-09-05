@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-items-rules-core/comparison-op-data/comparison-op-data.module.ts b/temper/temper-items-rules-core/comparison-op-data/comparison-op-data.module.ts
+index 11f480e1d823a3f7c30bf5e20c8c2755a24e787f..6ada7ef68fde09193f7335e662abfb957a0d71eb 100644
+--- a/temper/temper-items-rules-core/comparison-op-data/comparison-op-data.module.ts
++++ b/temper/temper-items-rules-core/comparison-op-data/comparison-op-data.module.ts
+@@ -13,7 +13,7 @@ export const comparisonOpData = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An operator's key is what a saved rule carries.",
++      statement: "A saved rule carries an operator's key.",
+     },
+     {
+       invariantKind: "constraint",
