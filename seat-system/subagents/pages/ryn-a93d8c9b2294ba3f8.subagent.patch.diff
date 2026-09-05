@@ -61,30 +61,6 @@ index f3e8e674f69020dee235f5412e69167c1f0499b2..809e2755b6345bd49330528a3f4d7010
  
      {
        invariantKind: "departure",
-diff --git a/editor-extension/domain-tree-panel/domain-tree-panel.module.ts b/editor-extension/domain-tree-panel/domain-tree-panel.module.ts
-index aa67ae553257e751e5842ffc8874aa92383ed930..504e722959fbb53804d0868abfe03717a815c009 100644
---- a/editor-extension/domain-tree-panel/domain-tree-panel.module.ts
-+++ b/editor-extension/domain-tree-panel/domain-tree-panel.module.ts
-@@ -41,11 +41,19 @@ export const domainTreePanel = {
-       invariantKind: "departure",
-       statement: "A domain no root reaches is said to Alan once and named on the channel.",
-     },
-+<<<<<<< what this change would leave
-+
-+    {
-+      invariantKind: "absence",
-+      statement: "No timer starts a drawing.",
-+    },
-+=======
-     {
-       invariantKind: "departure",
-       statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
-     },
- 
-+>>>>>>> what HEAD holds
-     {
-       invariantKind: "absence",
-       statement: "No watcher on a source file is registered here.",
 diff --git a/editor-extension/domain-tree-view/domain-tree-view.module.ts b/editor-extension/domain-tree-view/domain-tree-view.module.ts
 index 5f2a95459d8643d660026e15d44626666120a046..102ad76705e43e54ea7a080c4299aac6288b74b6 100644
 --- a/editor-extension/domain-tree-view/domain-tree-view.module.ts
