@@ -5,16 +5,7 @@ export const collectionSystem = {
   pageTypeSlug: "domain",
   slug: "collection-system",
   definition: "how we keep track of collections of things for a person to experience",
-  partSlugs: [
-    "page-type/collection-type",
-    "page-type/collection",
-    "page-type/collection-external",
-    "page-type/royal-road-account",
-    "page-type/sync",
-    "page-type/sync-run",
-    "workspace-package/great-courses",
-    "workspace-package/royal-road",
-  ],
+  partSlugs: ["page-type/collection", "workspace-package/great-courses"],
   invariants: [
     {
       invariantKind: "departure",

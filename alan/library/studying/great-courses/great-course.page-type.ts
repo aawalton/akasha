@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { CollectionExternal } from "../../../../collection-system/collection-externals/collection-external.page-type.ts"
+import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
 
 export type GreatCourse = CollectionExternal & {

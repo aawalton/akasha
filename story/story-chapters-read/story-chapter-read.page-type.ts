@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { CollectionExternal } from "../../collection-system/collection-externals/collection-external.page-type.ts"
-import type { ExternalLink } from "../../collection-system/collection-externals/properties/external-link.url-property.ts"
+import type { CollectionExternal } from "../../collections/collection-externals/collection-external.page-type.ts"
+import type { ExternalLink } from "../../collections/collection-externals/properties/external-link.url-property.ts"
 import type { OwnLength } from "../../collections/properties/own-length.number-property.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Prose } from "../stories-played/properties/prose.file-property.ts"
