@@ -1,13 +1,18 @@
 diff --git a/pages/query-keys/page-query-keys.module.ts b/pages/query-keys/page-query-keys.module.ts
-index 71e6edf62f205b72164cd1be4a2c64d089b16931..61648eafb3fd88c6256b0de317b59d41d574ccb6 100644
+index 71e6edf62f205b72164cd1be4a2c64d089b16931..bf8519565a3bdd2186d91a25a3a6d9093545ecdd 100644
 --- a/pages/query-keys/page-query-keys.module.ts
 +++ b/pages/query-keys/page-query-keys.module.ts
-@@ -10,7 +10,7 @@ export const pageQueryKeys = {
+@@ -10,11 +10,11 @@ export const pageQueryKeys = {
      {
        invariantKind: "departure",
        statement:
 -        "A key a query sorts by, reduces, counts by or tests on is asked for as much as one it names.",
 +        "A key a query sorts by, reduces, counts by or tests on is asked for as much as one that query names.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A key is asked for once however many times a query names it.",
++      statement: "A key is asked for once however many times a query names that key.",
      },
      {
        invariantKind: "departure",
