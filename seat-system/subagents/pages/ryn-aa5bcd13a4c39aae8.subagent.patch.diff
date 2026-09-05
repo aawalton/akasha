@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-saved-variables/temper-saved-variables.workspace-package.ts b/temper/temper-saved-variables/temper-saved-variables.workspace-package.ts
+index c0a0dbeb37892772f27044359c455a312f54f698..eccd97dc343ddeb98d6b81cde66702ab23dea1b1 100644
+--- a/temper/temper-saved-variables/temper-saved-variables.workspace-package.ts
++++ b/temper/temper-saved-variables/temper-saved-variables.workspace-package.ts
+@@ -23,7 +23,7 @@ export const temperSavedVariables = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "What the game wrote is taken as written rather than corrected.",
++      statement: "The file the game wrote is taken as written rather than corrected.",
+     },
+     {
+       invariantKind: "constraint",
