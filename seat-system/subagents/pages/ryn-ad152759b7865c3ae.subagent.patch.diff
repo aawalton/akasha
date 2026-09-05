@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/seat-system/seat-initiative/seat-initiative.module.ts b/seat-system/seat-initiative/seat-initiative.module.ts
-index 81a88ac3dc183f1e7c767a81e77fb3d98fb4cd20..4e73718bb8c04c722be418690c8b16e9a00e5085 100644
+index 81a88ac3dc183f1e7c767a81e77fb3d98fb4cd20..2973f3be1f8885840a2aa8c93bc2c49a67d08270 100644
 --- a/seat-system/seat-initiative/seat-initiative.module.ts
 +++ b/seat-system/seat-initiative/seat-initiative.module.ts
 @@ -17,7 +17,8 @@ export const seatInitiative = {
@@ -13,3 +13,12 @@ index 81a88ac3dc183f1e7c767a81e77fb3d98fb4cd20..4e73718bb8c04c722be418690c8b16e9
      },
      {
        invariantKind: "departure",
+@@ -29,7 +30,7 @@ export const seatInitiative = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A place is answered only where the file it names is there.",
++      statement: "A place is answered only where the file that place names is there.",
+     },
+   ],
+ } as const satisfies Module
