@@ -1,5 +1,5 @@
 diff --git a/story/engine/core/gm-doctrine-pack/gm-doctrine-pack.module.test.ts b/story/engine/core/gm-doctrine-pack/gm-doctrine-pack.module.test.ts
-index 1cad1e112eb489c959ad33b0a37ff699b038e859..2d54fb080bf682481dfb4989f399eb9bdf17439a 100644
+index 1cad1e112eb489c959ad33b0a37ff699b038e859..9e856155e822a89c5ea13ec2afb4d66d7d99336c 100644
 --- a/story/engine/core/gm-doctrine-pack/gm-doctrine-pack.module.test.ts
 +++ b/story/engine/core/gm-doctrine-pack/gm-doctrine-pack.module.test.ts
 @@ -67,7 +67,7 @@ describe("withDoctrinePack", () => {
@@ -11,6 +11,15 @@ index 1cad1e112eb489c959ad33b0a37ff699b038e859..2d54fb080bf682481dfb4989f399eb9b
      const replaced = preserveDoctrineOnReplace({ policies: [PER_GAME_POLICY] }, current)
      expect(replaced.policies.map((p) => p.id)).toEqual([
        "doctrine:alpha",
+@@ -90,7 +90,7 @@ describe("preserveDoctrineOnReplace", () => {
+     expect(replaced.gateDimensions).toHaveLength(2)
+   })
+ 
+-  test("with nothing current the incoming context stands alone", () => {
++  test("with nothing current the incoming context is alone", () => {
+     const replaced = preserveDoctrineOnReplace({ policies: [PER_GAME_POLICY] }, null)
+     expect(replaced.policies).toEqual([PER_GAME_POLICY])
+     expect(replaced.doctrineVersion).toBe(undefined)
 diff --git a/story/engine/core/gm-doctrine-pack/gm-doctrine-pack.module.ts b/story/engine/core/gm-doctrine-pack/gm-doctrine-pack.module.ts
 index 69bdef7d3198b53c09b47e3ca160146a6d194f99..dc0041e8d4870c692803530de0e66abdc73fb05a 100644
 --- a/story/engine/core/gm-doctrine-pack/gm-doctrine-pack.module.ts
@@ -51,10 +60,10 @@ index 9787fced39f629bdfc609ff0e8329441d6acac44..c0f055ce672a2958d3cedc86b0ef2a89
      {
        invariantKind: "departure",
 diff --git a/story/engine/core/schema-violation/schema-violation.module.ts b/story/engine/core/schema-violation/schema-violation.module.ts
-index 837d0b13f016b163ba77c8b88aeccdcf1b73f337..3d40edc0762df06cc77c04a4e14d4ef97f39e884 100644
+index 837d0b13f016b163ba77c8b88aeccdcf1b73f337..082f59e79db57d57bb2100c77b10c319502c2cab 100644
 --- a/story/engine/core/schema-violation/schema-violation.module.ts
 +++ b/story/engine/core/schema-violation/schema-violation.module.ts
-@@ -4,7 +4,7 @@ export const schemaViolation = {
+@@ -4,12 +4,12 @@ export const schemaViolation = {
    id: "01a05bc8-6883-7d97-b265-b768554225f6",
    pageTypeSlug: "module",
    slug: "schema-violation",
@@ -63,3 +72,9 @@ index 837d0b13f016b163ba77c8b88aeccdcf1b73f337..3d40edc0762df06cc77c04a4e14d4ef9
    code: "ts",
    invariants: [
      {
+       invariantKind: "departure",
+-      statement: "A refusal standing at no field names the root.",
++      statement: "A refusal at no field names the root.",
+     },
+   ],
+ } as const satisfies Module
