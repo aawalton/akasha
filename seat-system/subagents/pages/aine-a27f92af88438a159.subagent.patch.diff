@@ -128,7 +128,7 @@ index 1dc45b437a3049a5938960426e608bf8dc40b1c4..bf4b7c057a3ee433736cfb00b9bcf5df
      {
        invariantKind: "absence",
 diff --git a/pages/value/page-value.module.test.ts b/pages/value/page-value.module.test.ts
-index ccc50439f045b4fa1c4add819b6c1328b4204be9..e461b6efa40f7d649fe84312e6c4151b10c9a69f 100644
+index ccc50439f045b4fa1c4add819b6c1328b4204be9..0527138ede51dd2faf5b53eda1ec5a1341d0301e 100644
 --- a/pages/value/page-value.module.test.ts
 +++ b/pages/value/page-value.module.test.ts
 @@ -32,20 +32,20 @@ test("a body that will not load answers with no value rather than throwing", ()
@@ -154,6 +154,15 @@ index ccc50439f045b4fa1c4add819b6c1328b4204be9..e461b6efa40f7d649fe84312e6c4151b
 +test("a path that is a file is read for the page it holds", () => {
    const repo = scratch.rootFor("akasha-entries-file-")
    writeFileSync(join(repo, "held.module.ts"), 'export const held = { slug: "held" }\n', "utf8")
+ 
+@@ -65,7 +65,7 @@ test("a key holding no list, or a list holding what is not text, is answered as
+   expect(textsAt({}, "binds")).toBe(null)
+ })
+ 
+-test("one page name standing alone is answered as nothing, a list being the shape", () => {
++test("one page name alone is answered as nothing, a list being the shape", () => {
+   expect(slugsIn("page-type/module")).toEqual([])
+ })
  
 diff --git a/pages/views/properties/view-sorts.record-property.ts b/pages/views/properties/view-sorts.record-property.ts
 index 7fd84ca92a528164009c36333eed2f65a5c4688e..f9fae7042508a5c5edd4609e490653a82f3058a2 100644
