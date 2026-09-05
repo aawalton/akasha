@@ -11,6 +11,5 @@ export const cloudflared = {
   image: "cloudflare/cloudflared:2026.3.0",
   replicas: 2,
   containerPort: 2000,
-  manifestCode:
-    "service-system/cluster-services/pages/cloudflared/cloudflared.cluster-service.code.attachment.ts",
+  manifestSlug: "cloudflared",
 } as const satisfies ClusterService
