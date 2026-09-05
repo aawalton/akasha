@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/types/properties/extends-slug.relation-property.ts b/pages/types/properties/extends-slug.relation-property.ts
+index 80bd3c3d7e5ab3afe757c6934aa8a07b26763cc7..4c0d0d2539a47bb62059e65b20d816991c79ae26 100644
+--- a/pages/types/properties/extends-slug.relation-property.ts
++++ b/pages/types/properties/extends-slug.relation-property.ts
+@@ -17,7 +17,7 @@ export const extendsSlug = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Where two of them declare one property, the nearer type decides.",
++      statement: "Where two of the types named declare one property, the nearer type decides.",
+     },
+     {
+       invariantKind: "departure",
