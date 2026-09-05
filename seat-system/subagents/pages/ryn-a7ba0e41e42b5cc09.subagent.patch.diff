@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/version/web-build/build-sha-define/build-sha-define.module.ts b/version/web-build/build-sha-define/build-sha-define.module.ts
+index 207fd2d300e86c186c482b3a49ffca4895c723a9..d3cf756c367faa9befc0e49dd9d2e2ac520a173b 100644
+--- a/version/web-build/build-sha-define/build-sha-define.module.ts
++++ b/version/web-build/build-sha-define/build-sha-define.module.ts
+@@ -9,7 +9,7 @@ export const buildShaDefine = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What the environment states wins over what the checkout's head says.",
++      statement: "The commit the environment states wins over the commit the checkout's head says.",
+     },
+     {
+       invariantKind: "departure",
