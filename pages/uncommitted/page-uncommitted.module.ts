@@ -91,7 +91,7 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "departure",
-      statement: "Values merge key by key into what stands.",
+      statement: "Values merge key by key into the values already standing.",
     },
     {
       invariantKind: "departure",
