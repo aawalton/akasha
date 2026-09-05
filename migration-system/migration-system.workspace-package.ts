@@ -66,7 +66,7 @@ export const migrationSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "What came back is read against the disk with `readBack(root, composed)`.",
+      statement: "The landing's answer is read against the disk with `readBack(root, composed)`.",
     },
     {
       invariantKind: "departure",
@@ -145,7 +145,7 @@ export const migrationSystem = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what any one old page means.",
+      statement: "Nothing here knows the meaning of any one old page.",
     },
     {
       invariantKind: "absence",
