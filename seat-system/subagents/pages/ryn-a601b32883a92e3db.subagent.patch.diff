@@ -1,5 +1,5 @@
 diff --git a/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.ts b/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.ts
-index 4907e592c40e62978cf797ebd0043f06d90ffcfa..f910600627c63d4c20b3fc09af7a49f9ff995459 100644
+index 4907e592c40e62978cf797ebd0043f06d90ffcfa..ed41a25376be6ca09ab08fea262ac77678361867 100644
 --- a/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.ts
 +++ b/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.ts
 @@ -18,7 +18,7 @@ export const terminalSeatLaunchers = {
@@ -11,13 +11,18 @@ index 4907e592c40e62978cf797ebd0043f06d90ffcfa..f910600627c63d4c20b3fc09af7a49f9
      },
      {
        invariantKind: "departure",
-@@ -30,7 +30,8 @@ export const terminalSeatLaunchers = {
+@@ -30,11 +30,12 @@ export const terminalSeatLaunchers = {
      },
      {
        invariantKind: "departure",
 -      statement: "A resume attaches to a live session without asking anything to start it.",
 +      statement:
 +        "A resume attaches to a live session without asking anything to start that session.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A fresh seat stops whatever held its name before it starts.",
++      statement: "A fresh seat stops whatever held its name before that seat starts.",
      },
      {
        invariantKind: "departure",
