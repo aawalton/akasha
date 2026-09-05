@@ -18,6 +18,10 @@ export const moveParenting = {
     },
     {
       invariantKind: "departure",
+      statement: "A page a carried page holds is not the page holding that carried page.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page type and the package named for its plural hold a folder together.",
     },
     {

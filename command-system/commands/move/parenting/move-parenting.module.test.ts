@@ -30,6 +30,12 @@ const ORPHAN = "akasha/nowhere/orphan/orphan.module.ts"
 
 const ORPHAN_AT = "akasha/two/orphan/orphan.module.ts"
 
+const NEST = "akasha/nest/nest.domain.ts"
+
+const DEEP = "akasha/nest/deep/deep.workspace-package.ts"
+
+const DEEP_AT = "akasha/two/deep.workspace-package.ts"
+
 function idFor(slug: string): string {
   const held = [...slug].reduce((sum, one) => (sum * 31 + one.charCodeAt(0)) % 0xffffffff, 7)
   return `01a04bed-1450-7000-8000-${held.toString(16).padStart(12, "0")}`
@@ -74,6 +80,9 @@ function built(): string {
         partSlugs: ["module/other", "module/stray"],
       }),
       "akasha/two/other/other.module.ts": paged("other", "module"),
+      [NEST]: paged("nest", "domain", { partSlugs: ["workspace-package/deep"] }),
+      [DEEP]: paged("deep", "workspace-package", { partSlugs: ["module/leaf"] }),
+      "akasha/nest/deep/leaf.module.ts": paged("leaf", "module"),
     })
   )
 }
@@ -164,4 +173,12 @@ test("a file that is no page's own file changes no parts", () => {
   const root = world()
   const from = "akasha/one/held/held.module.code.ts"
   expect(partedIn(parenting(root, from, "akasha/two/held/held.module.code.ts"))).toEqual([])
+})
+
+test("a page a carried page holds is not the page holding that carried page", () => {
+  const said = parenting(world(), DEEP, DEEP_AT)
+  expect(refusedIn(said)).toBe("")
+  expect(partedIn(said)).toEqual([
+    ["workspace-package/deep", NEST, "akasha/two/two.workspace-package.ts"],
+  ])
 })

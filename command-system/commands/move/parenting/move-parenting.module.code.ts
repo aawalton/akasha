@@ -124,8 +124,7 @@ export function holdersFor(placing: Placing, folder: string, moved: string): Hel
     if (at === ROOT || at === HERE || at === "/") {
       return { unheld: crossed.join(", ") }
     }
-    const held = pagesIn(placing, at).filter((one) => one.at !== moved)
-    const holding = holdingIn(placing, held)
+    const holding = holdingIn(placing, pagesIn(placing, at)).filter((one) => one.at !== moved)
     const named = basename(at)
     const grouping = HELD_FOLDERS.has(named) && !namesOf(placing, holding).includes(named)
     if (!grouping && holding.length > 0) return { holders: holding }
