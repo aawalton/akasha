@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/check/akasha-check.domain.ts b/check/akasha-check.domain.ts
+index 08aec29089c3ef1a30502c4c88c76ecb53f868c4..2b2cda2ab5efd5d2518216fcfda2f2f794b4f849 100644
+--- a/check/akasha-check.domain.ts
++++ b/check/akasha-check.domain.ts
+@@ -9,7 +9,7 @@ export const akashaCheck = {
+     {
+       invariantKind: "stopgap",
+       statement:
+-        "No check exists only to test what the compiler tests apart from the one that runs that compiler.",
++        "No check but the one running the compiler exists only to test the claims the compiler tests.",
+     },
+     {
+       invariantKind: "gap",
