@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/persona-system/persona-targets/persona-targets.module.ts b/persona-system/persona-targets/persona-targets.module.ts
+index 0fb3b159a59ccce15edb71727110d80aaad6ea18..a739a6fb31956bbb8c3c36333f011b4f67dc0a8c 100644
+--- a/persona-system/persona-targets/persona-targets.module.ts
++++ b/persona-system/persona-targets/persona-targets.module.ts
+@@ -13,7 +13,8 @@ export const personaTargets = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The empty list is what the persona pages say rather than what could not be read.",
++      statement:
++        "The empty list is the answer the persona pages give rather than a reading that failed.",
+     },
+   ],
+ } as const satisfies Module
