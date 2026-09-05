@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/commands/move/move.command.ts b/command-system/commands/move/move.command.ts
-index bb234d6d0fa54c3df35127a289e9c21d5dc4119e..3231b57f8c890b3508a449722d4f6c5a5b39691d 100644
+index bb234d6d0fa54c3df35127a289e9c21d5dc4119e..31f826aa3344fb2c25942c95b5cf396e0cdacaa9 100644
 --- a/command-system/commands/move/move.command.ts
 +++ b/command-system/commands/move/move.command.ts
 @@ -138,7 +138,7 @@ export const move = {
@@ -9,6 +9,15 @@ index bb234d6d0fa54c3df35127a289e9c21d5dc4119e..3231b57f8c890b3508a449722d4f6c5a
        invariantKind: "absence",
 -      statement: "What a package names under its dependencies is not moved with a file.",
 +      statement: "A dependency a package names is not moved with a file.",
+     },
+     {
+       invariantKind: "departure",
+@@ -263,7 +263,7 @@ export const move = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Which files beyond the index spell a path that moves is answered by searching what git tracks.",
++        "Which files beyond the index spell a path that moves is answered by searching the files git tracks.",
      },
      {
        invariantKind: "departure",
