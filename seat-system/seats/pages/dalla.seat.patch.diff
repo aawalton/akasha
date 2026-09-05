@@ -1,0 +1,16 @@
+diff --git a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+index 8b6c3d6ce30ff294b7f79d61e9206ebc00c7ac7a..c3613247ee78bdc8319daa4f0e4e85e725f490cd 100644
+--- a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
++++ b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+@@ -7,11 +7,6 @@ export const dallaDraftIntoAPatch = {
+   domainSlug: "domain/change",
+   personaSlug: "dalla",
+   intents: [
+-    {
+-      statement: "A commit bypassing the checks says why they would not load.",
+-      workingMemory:
+-        "Alan settled that the glass keeps its warrant bypass on `write` and `edit` and loses the check bypass, which is done. What is left is a stamp: `applying()` in `patch.command.code.ts` builds `why` from `bypassedIn(said0, broken)`, the glass reason alone, and never carries `built.broken`, so a commit landed over checks that would not load says nothing about why. The red asking test pins exactly this.",
+-    },
+     {
+       statement: "A rename landing under an open patch leaves that patch coherent.",
+       workingMemory:
