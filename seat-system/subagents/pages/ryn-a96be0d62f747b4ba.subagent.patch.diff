@@ -1,0 +1,14 @@
+diff --git a/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts b/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
+index 2a2d776204628cd676ce25b374f59f4a70b6f2c5..e1c0c8fca457b1bb44873f7a1781bea97a13f8ac 100644
+--- a/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
++++ b/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
+@@ -42,8 +42,7 @@ export const accountUpkeepStallReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The worst fault found is the one reported, so an expired token is never hidden behind a stale usage reading.",
++      statement: "The worst fault found is the fault reported.",
+     },
+     {
+       invariantKind: "departure",
