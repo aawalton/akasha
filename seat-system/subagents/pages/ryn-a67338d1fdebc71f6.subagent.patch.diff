@@ -14,3 +14,19 @@ index 31bec75783da6efc0fb73d40c5cb61d2e30d93eb..67d3acde3cc14801cbc7649e418090af
      {
        invariantKind: "absence",
        statement: "Nothing here caches a reading or decides when a reading is taken.",
+diff --git a/readout-system/readouts/pages/attribute-constitution/attribute-constitution.readout.ts b/readout-system/readouts/pages/attribute-constitution/attribute-constitution.readout.ts
+index 9057716d4ba018335f988c7aec082a5f1b223512..06f63614991ce7b726b3ee4b42ea6847d12277d0 100644
+--- a/readout-system/readouts/pages/attribute-constitution/attribute-constitution.readout.ts
++++ b/readout-system/readouts/pages/attribute-constitution/attribute-constitution.readout.ts
+@@ -36,10 +36,7 @@ export const attributeConstitution = {
+       invariantKind: "departure",
+       statement: "A day holding no food entry is a reading of zero rather than no reading.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A store that refuses is a fault rather than a reading of nothing.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here reads a figure the tracking day carries.",
