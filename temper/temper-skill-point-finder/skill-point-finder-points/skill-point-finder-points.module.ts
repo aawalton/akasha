@@ -9,7 +9,7 @@ export const skillPointFinderPoints = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A count is recomputed from what the game reports rather than accumulated.",
+      statement: "A count is recomputed from the points the game reports rather than accumulated.",
     },
   ],
 } as const satisfies Module
