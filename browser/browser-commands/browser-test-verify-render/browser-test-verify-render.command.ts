@@ -61,7 +61,7 @@ export const browserTestVerifyRender = {
     {
       invariantKind: "departure",
       statement:
-        "The verdict is read from what was observed rather than from the HTTP status alone.",
+        "The verdict is read from the render observed rather than from the HTTP status alone.",
     },
     {
       invariantKind: "departure",
