@@ -1,0 +1,13 @@
+diff --git a/pages/indexes/answering/index-answering.module.code.ts b/pages/indexes/answering/index-answering.module.code.ts
+index 0fbae564832ac2e253fb98de8273d4cf4fe88f95..20fe4d1457d2b2daf4f85347e3f202840216e405 100644
+--- a/pages/indexes/answering/index-answering.module.code.ts
++++ b/pages/indexes/answering/index-answering.module.code.ts
+@@ -40,8 +40,6 @@ import {
+   listedNamed,
+   type Named,
+   namersOf,
+-  type Schemad,
+-  schemaOf,
+   typeSlugById,
+   typeSlugOf,
+ } from "../reading/index-reading.module.code.ts"
