@@ -98,6 +98,18 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
+      statement: "A page a write carries may hand over the bodies its file properties hold.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body is handed over under the key the property is carried as.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body that is no string refuses the write.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page a write carries states nothing more.",
     },
     {

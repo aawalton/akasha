@@ -196,12 +196,25 @@ function namingsIn(given: unknown): readonly Naming[] | string {
       slug: string
       values: Record<string, unknown>
       merge?: boolean
+      bodies?: Record<string, string>
     } = { pageTypeSlug: page.pageTypeSlug, slug: page.slug, values }
     if (page.merge !== undefined) {
       if (typeof page.merge !== "boolean") {
         return "a page says whether it merges as `merge`, written as true or false"
       }
       naming.merge = page.merge
+    }
+    if (page.bodies !== undefined) {
+      const bodies = objectIn(page.bodies)
+      if (bodies === null) return "a page hands over its `bodies` as a JSON object"
+      const held: Record<string, string> = {}
+      for (const [key, one] of Object.entries(bodies)) {
+        if (typeof one !== "string") {
+          return `\`bodies.${key}\` is the whole body that file holds, written as a string`
+        }
+        held[key] = one
+      }
+      naming.bodies = held
     }
     pages.push(naming)
   }

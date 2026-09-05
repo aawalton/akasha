@@ -22,7 +22,7 @@ export const pageComposing = {
     },
     {
       invariantKind: "absence",
-      statement: "A caller hands over no path and no body.",
+      statement: "A caller hands over no path.",
     },
     {
       invariantKind: "departure",
@@ -108,6 +108,27 @@ export const pageComposing = {
       invariantKind: "departure",
       statement:
         "A value under a file property names that file's ending rather than that file's body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller may hand over the body a file property holds beside its ending.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That body is put at the file the ending names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body handed over for a key held in no file beside the page is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body handed over for a file named rather than placed beside the page is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body handed over where nothing names the file's ending is refused.",
     },
     {
       invariantKind: "departure",

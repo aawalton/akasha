@@ -18,11 +18,34 @@ const ID = "id"
 
 const JSONL = "jsonl"
 
+export function bodyRefused(
+  key: string,
+  pageTypeSlug: string,
+  fileName: string | null | undefined,
+  ending: unknown
+): string | null {
+  const hands = `\`${key}\` hands over a body`
+  if (pageTypeSlug === ENTRY_PROPERTY) {
+    return `${hands}, and \`${key}\` keeps its values as rows, so those are handed over as a list`
+  }
+  if (fileName === undefined) {
+    return `${hands}, and \`${key}\` is no property this page type holds in a file beside the page`
+  }
+  if (fileName !== null) {
+    return `${hands}, and \`${key}\` is held at \`${fileName}\`, a name of its own rather than one beside the page`
+  }
+  if (typeof ending !== "string" || ending === "") {
+    return `${hands}, and nothing names that file's ending, so the file has no name`
+  }
+  return null
+}
+
 export type Naming = {
   readonly pageTypeSlug: string
   readonly slug: string
   readonly values: Value
   readonly merge?: boolean
+  readonly bodies?: Readonly<Record<string, string>>
 }
 
 export type Put = {
@@ -184,12 +207,29 @@ export function composedFor(root: string, named: Naming): Composed {
   const parts: Put[] = []
   const removes: string[] = []
   const filedBy = filePropertiesAt(root).get(named.pageTypeSlug)
+  const bodies = named.bodies ?? {}
   for (const one of carried) {
     const stated = one.key in named.values
-    if (!stated && !(one.key in already)) continue
+    const bodied = one.key in bodies
+    if (!stated && !bodied && !(one.key in already)) continue
     const value = stated ? named.values[one.key] : already[one.key]
     if (one.uncommitted) {
       outside[one.key] = value
+      continue
+    }
+    if (bodied) {
+      const heldAs = filedBy === undefined ? undefined : filedBy.get(one.propertySlug)
+      const refused = bodyRefused(one.key, one.pageTypeSlug, heldAs, value)
+      if (refused !== null) return { refused }
+      const ending = value as string
+      const why = endingRefused(one.key, one.propertySlug, at, ending)
+      if (why !== null) return { refused: why }
+      const beside = besideAt(at, one.propertySlug, ending)
+      if (beside === null) {
+        return { refused: `\`${at}\` is no page file, so no file sits beside it` }
+      }
+      parts.push({ path: beside, content: bodies[one.key] ?? "" })
+      inside[one.key] = ending
       continue
     }
     if (one.pageTypeSlug === ENTRY_PROPERTY && Array.isArray(value)) {

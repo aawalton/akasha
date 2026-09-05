@@ -256,6 +256,77 @@ test("a key held in a file naming an ending is written into the page", () => {
   expect("puts" in said && said.puts[0]?.content).toContain('completedTasks: "jsonl"')
 })
 
+const A_PORTRAIT_AT = "persona-system/personas/ember/ember.persona.portrait.md"
+
+test("a body handed over for a file property is put at the file its ending names", () => {
+  const said = foldedFor(ROOT, [
+    {
+      pageTypeSlug: "persona",
+      slug: "ember",
+      values: {},
+      bodies: { portrait: "# Ember\n" },
+      merge: true,
+    },
+  ])
+  const put = "puts" in said ? said.puts.find((one) => one.path === A_PORTRAIT_AT) : undefined
+  expect(put?.content).toBe("# Ember\n")
+  expect("puts" in said && said.puts[0]?.content).toContain('portrait: "md"')
+})
+
+test("a body handed over names the ending the page already carries", () => {
+  const said = foldedFor(ROOT, [
+    { pageTypeSlug: "persona", slug: "ember", values: {}, bodies: { portrait: "x" }, merge: true },
+  ])
+  const paths = "puts" in said ? said.puts.map((one) => one.path) : []
+  expect(paths).toContain(A_PORTRAIT_AT)
+})
+
+test("a body handed over under a key holding its values as rows is refused", () => {
+  const said = foldedFor(ROOT, [
+    {
+      pageTypeSlug: "wake-day",
+      slug: A_HELD_DAY,
+      values: {},
+      bodies: { completedTasks: "{}\n" },
+      merge: true,
+    },
+  ])
+  expect("refused" in said && said.refused).toContain("keeps its values as rows")
+})
+
+test("a body handed over under a key held in no file is refused", () => {
+  const said = foldedFor(ROOT, [
+    {
+      pageTypeSlug: "persona",
+      slug: "ember",
+      values: {},
+      bodies: { purpose: "a body" },
+      merge: true,
+    },
+  ])
+  expect("refused" in said && said.refused).toContain("holds in a file beside the page")
+})
+
+test("a body handed over where nothing names the ending is refused", () => {
+  const said = foldedFor(ROOT, [
+    { pageTypeSlug: "persona", slug: "ember", values: {}, bodies: { appearance: "a body" } },
+  ])
+  expect("refused" in said && said.refused).toContain("nothing names that file's ending")
+})
+
+test("a body handed over for a file named rather than placed beside the page is refused", () => {
+  const said = foldedFor(ROOT, [
+    {
+      pageTypeSlug: "workspace-package",
+      slug: "pages-query",
+      values: {},
+      bodies: { manifest: "{}" },
+      merge: true,
+    },
+  ])
+  expect("refused" in said && said.refused).toContain("a name of its own")
+})
+
 test("a write that does not merge keeps only the keys the caller names", () => {
   const said = foldedFor(ROOT, [
     { pageTypeSlug: "wake-day", slug: A_HELD_DAY, values: { title: "a new title" } },
