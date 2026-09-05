@@ -18,7 +18,7 @@ export const migrationLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A migration states what the migration is of.",
+      statement: "A migration states the folder the migration is of.",
     },
     {
       invariantKind: "departure",
