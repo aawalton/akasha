@@ -14,7 +14,7 @@ export const upscaleWorkstation = {
     },
     {
       invariantKind: "departure",
-      statement: "The stack is brought up before an image is written into it.",
+      statement: "The stack is brought up before an image is written into that stack.",
     },
     {
       invariantKind: "departure",
