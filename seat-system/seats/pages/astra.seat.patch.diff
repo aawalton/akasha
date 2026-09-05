@@ -273,3 +273,38 @@ index 0000000000000000000000000000000000000000..adc32eb111ad4e1f625a59f7a3afec26
 +    "module/url",
 +  ],
 +} as const satisfies Domain
+diff --git a/pages/core/view/pages-core-view.domain.ts b/pages/core/view/pages-core-view.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..18a9ffffd9fa32c94747cc443980267776609d96
+--- /dev/null
++++ b/pages/core/view/pages-core-view.domain.ts
+@@ -0,0 +1,29 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesCoreView = {
++  id: "01a071c9-b06f-788c-8b9f-434f408e2143",
++  pageTypeSlug: "domain",
++  slug: "pages-core-view",
++  definition: "what a view makes of the rows handed to it",
++  partSlugs: [
++    "module/apply-filters",
++    "module/apply-grouping",
++    "module/apply-grouping-shared",
++    "module/apply-grouping-sort",
++    "module/apply-search",
++    "module/apply-sorts",
++    "module/apply-view",
++    "module/calendar-date-to-value",
++    "module/calendar-grid",
++    "module/expand-date-mentions",
++    "module/format-smart-date",
++    "module/gallery",
++    "module/generate-filter-dimensions",
++    "module/generate-sort-options",
++    "module/group-granularity",
++    "module/group-key-to-value",
++    "module/notes",
++    "module/page-query-times",
++    "module/sort-accessors",
++  ],
++} as const satisfies Domain
