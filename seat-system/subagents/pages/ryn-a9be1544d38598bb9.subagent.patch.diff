@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folders-only/folders-only.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folders-only/folders-only.folder-shape.ts
+index 08a2c68f394f1b8300af74e82ca1db1939c2d496..9cad76567e80bef2047919fc2902d2a26e507db4 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folders-only/folders-only.folder-shape.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folders-only/folders-only.folder-shape.ts
+@@ -20,7 +20,7 @@ export const foldersOnly = {
+     {
+       invariantKind: "absence",
+       statement:
+-        "What the folders beneath that folder hold is judged where each of those folders is judged.",
++        "The paths the folders beneath that folder hold are judged where each of those folders is judged.",
+     },
+     {
+       invariantKind: "gap",
