@@ -13,7 +13,7 @@ export const seatFlex = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent takes the flex of the seat above it.",
+      statement: "A subagent takes the flex of the seat above that subagent.",
     },
     {
       invariantKind: "departure",
