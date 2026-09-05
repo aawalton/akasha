@@ -13,21 +13,21 @@ export const kiSeason = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A season of Ki's names the show it is part of.",
+      statement: "A season of Ki's names the show that season is part of.",
     },
     {
       invariantKind: "departure",
-      statement: "A season of Ki's names the episodes it holds.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A season of Ki's has its length summed from its episodes rather than written on it.",
+      statement: "A season of Ki's names the episodes that season holds.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A season of Ki's has its progress summed from its episodes rather than written on it.",
+        "A season of Ki's has its length summed from its episodes rather than written on that season.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A season of Ki's has its progress summed from its episodes rather than written on that season.",
     },
   ],
 } as const satisfies PageType
