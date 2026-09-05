@@ -11,6 +11,7 @@ export const network = {
     "manifest/cloudflared",
     "manifest/ddns-headscale",
     "manifest/headscale",
+    "manifest/tailnet-egress",
     "workspace-package/auth-proxy",
   ],
   invariants: [
