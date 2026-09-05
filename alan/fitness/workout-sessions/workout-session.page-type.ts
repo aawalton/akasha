@@ -41,7 +41,7 @@ export const workoutSession = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A session names the day of the rotation it was taken against.",
+      statement: "A session names the day of the rotation that session was taken against.",
     },
     {
       invariantKind: "departure",
