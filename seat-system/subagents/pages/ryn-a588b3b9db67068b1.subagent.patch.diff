@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/books/all-about-alan/topics/all-about-alan-topic.page-type.ts b/alan/books/all-about-alan/topics/all-about-alan-topic.page-type.ts
+index 51f0f6edc2f243bca8137790181b0809035ee585..ae3a94475f9aa9142f94d972c8d22444a961c8ef 100644
+--- a/alan/books/all-about-alan/topics/all-about-alan-topic.page-type.ts
++++ b/alan/books/all-about-alan/topics/all-about-alan-topic.page-type.ts
+@@ -40,7 +40,7 @@ export const allAboutAlanTopic = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What contains what is carried by a topic's parents rather than by folders.",
++      statement: "Containment is carried by a topic's parents rather than by folders.",
+     },
+     {
+       invariantKind: "departure",
