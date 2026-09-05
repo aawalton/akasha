@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/inference-commands/inference-capabilities/inference-capabilities.command.ts b/infrastructure/inference-commands/inference-capabilities/inference-capabilities.command.ts
+index ac6d0b400518768776a2e94a207a5d494848cdb6..894ccca7779c9727d7e9951fdf58cd5618312916 100644
+--- a/infrastructure/inference-commands/inference-capabilities/inference-capabilities.command.ts
++++ b/infrastructure/inference-commands/inference-capabilities/inference-capabilities.command.ts
+@@ -39,7 +39,7 @@ export const inferenceCapabilities = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here changes what is resident.",
++      statement: "Nothing here changes the resident.",
+     },
+   ],
+ } as const satisfies Command
