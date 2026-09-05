@@ -1,0 +1,471 @@
+runsWarrants: false
+diff --git a/commands/move/move.command.code.ts b/commands/move/move.command.code.ts
+index cc219cd646a065577721520aa1b1fab6bdea7680..813f5c03ad108524d36339bacc7fda82601dd950 100644
+--- a/commands/move/move.command.code.ts
++++ b/commands/move/move.command.code.ts
+@@ -17,10 +17,10 @@ import {
+ } from "../../command-system/package-linking/package-linking.module.code.ts"
+ import type { Carry } from "../../command-system/reading/reading.module.code.ts"
+ import { blobIdOf, carryReadings } from "../../command-system/reading/reading.module.code.ts"
++import { importingOf, spellingOf } from "../../pages/indexes/path-naming/path-naming.module.code.ts"
+ import { glassIn, messageIn } from "../write/write.command.code.ts"
+ import { FROM, pairsIn, TO, VALUED } from "./arguing/move-arguing.module.code.ts"
+ import { manifestingOver } from "./manifesting/move-manifesting.module.code.ts"
+-import { importingOf, spellingOf } from "./naming/move-naming.module.code.ts"
+ import { outsideIn, outsideSaid } from "./outside/move-outside.module.code.ts"
+ import type { Parting } from "./parenting/move-parenting.module.code.ts"
+ import { editedFor, parentingOver, parentingSaid } from "./parenting/move-parenting.module.code.ts"
+diff --git a/commands/move/move.command.ts b/commands/move/move.command.ts
+index c53c3a60c2550c4bdddae44c5053a8a1c88e8a99..dc2b1d9b9cbd470237f4875604ae7856632c036c 100644
+--- a/commands/move/move.command.ts
++++ b/commands/move/move.command.ts
+@@ -14,7 +14,6 @@ export const move = {
+     "module/move-arguing",
+     "module/move-listing",
+     "module/move-manifesting",
+-    "module/move-naming",
+     "module/move-outside",
+     "module/move-parenting",
+     "module/move-renaming",
+diff --git a/commands/move/naming/move-naming.module.code.ts b/commands/move/naming/move-naming.module.code.ts
+deleted file mode 100644
+index a8ca9593aee9a0925c937a29e9dc353d81a21f1c..0000000000000000000000000000000000000000
+--- a/commands/move/naming/move-naming.module.code.ts
++++ /dev/null
+@@ -1,64 +0,0 @@
+-import { basename } from "node:path"
+-import { typed } from "@akasha/code-system/code-typing"
+-import type { Listed } from "@akasha/indexes"
+-import { everyPath, importersOf, listedByPath, readingIn } from "@akasha/indexes"
+-import { textOf } from "../../../command-system/asking/asking.module.code.ts"
+-import { bodyAt } from "../../../command-system/commit-reading/commit-reading.module.code.ts"
+-
+-export type Naming = { readonly held: Listed | null } | { readonly unread: string }
+-
+-export type Reading = { readonly importers: readonly string[] } | { readonly unread: string }
+-
+-export function namingOf(root: string, path: string): Naming {
+-  let listed: readonly Listed[]
+-  try {
+-    listed = listedByPath(root, path)
+-  } catch (cause) {
+-    return { unread: cause instanceof Error ? cause.message : String(cause) }
+-  }
+-  if (listed.length > 1) {
+-    return {
+-      unread:
+-        `the index answers ${listed.length} pages to the path \`${path}\`, so what names it ` +
+-        "could not be answered",
+-    }
+-  }
+-  return { held: listed[0] ?? null }
+-}
+-
+-export function importingOf(root: string, moved: ReadonlyMap<string, string>): Reading {
+-  const found = new Set<string>()
+-  for (const from of moved.keys()) {
+-    let said: readonly string[]
+-    try {
+-      said = importersOf(from, readingIn(root))
+-    } catch (cause) {
+-      const why = cause instanceof Error ? cause.message : String(cause)
+-      return { unread: `${why}, so none were repointed` }
+-    }
+-    for (const one of said) {
+-      if (moved.has(one)) continue
+-      found.add(one)
+-    }
+-  }
+-  return { importers: [...found].sort() }
+-}
+-
+-export function spellingOf(
+-  root: string,
+-  base: string,
+-  moved: ReadonlyMap<string, string>,
+-  known: ReadonlySet<string>
+-): readonly string[] {
+-  const names = [...new Set([...moved.keys()].map((one) => basename(one)))]
+-  const found: string[] = []
+-  for (const path of everyPath(root)) {
+-    if (!typed(path) || moved.has(path) || known.has(path)) continue
+-    const held = bodyAt(root, base, path)
+-    if (held === null) continue
+-    const text = textOf(held)
+-    if (text === null) continue
+-    if (names.some((name) => text.includes(name))) found.push(path)
+-  }
+-  return found
+-}
+diff --git a/commands/move/naming/move-naming.module.test.ts b/commands/move/naming/move-naming.module.test.ts
+deleted file mode 100644
+index 7d75c8e396e08d0fed4be863d91729834e03bfa5..0000000000000000000000000000000000000000
+--- a/commands/move/naming/move-naming.module.test.ts
++++ /dev/null
+@@ -1,43 +0,0 @@
+-import { afterAll, expect, test } from "bun:test"
+-import { HELD, heldIndexed, scratch, THREE } from "../move.command.test-fixtures.ts"
+-import { importingOf, namingOf, spellingOf } from "./move-naming.module.code.ts"
+-
+-afterAll(scratch.sweep)
+-
+-const NOWHERE = "akasha/one/nowhere.module.ts"
+-
+-const AT = "HEAD"
+-
+-const MOVING = new Map([[HELD, THREE]])
+-
+-function unindexed(): string {
+-  return scratch.rootFor("move-naming-")
+-}
+-
+-test("a path no page owns is answered as owned by no page", () => {
+-  expect(namingOf(heldIndexed(), NOWHERE)).toEqual({ held: null })
+-})
+-
+-test("an index that will not answer leaves what owns a path unread", () => {
+-  const said = namingOf(unindexed(), HELD)
+-  expect("unread" in said).toBe(true)
+-})
+-
+-test("an index that will not answer leaves the importers unread", () => {
+-  const said = importingOf(unindexed(), MOVING)
+-  expect("unread" in said ? said.unread : "").toContain("so none were repointed")
+-})
+-
+-test("a caller naming nothing moved reads no importer at all", () => {
+-  expect(importingOf(unindexed(), new Map())).toEqual({ importers: [] })
+-})
+-
+-test("a path the caller already knows about is left out of the search", () => {
+-  const root = heldIndexed()
+-  const every = spellingOf(root, AT, MOVING, new Set())
+-  expect(spellingOf(root, AT, MOVING, new Set(every))).toEqual([])
+-})
+-
+-test("a path that moves is never answered as a body naming what moved", () => {
+-  expect(spellingOf(heldIndexed(), AT, MOVING, new Set())).not.toContain(HELD)
+-})
+diff --git a/commands/move/naming/move-naming.module.ts b/commands/move/naming/move-naming.module.ts
+deleted file mode 100644
+index 28bf985d8a12313e30ca7e36ee44b25221c9d72d..0000000000000000000000000000000000000000
+--- a/commands/move/naming/move-naming.module.ts
++++ /dev/null
+@@ -1,65 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const moveNaming = {
+-  id: "01a06310-8e44-7798-ae4b-af7b4b182be8",
+-  pageTypeSlug: "module",
+-  slug: "move-naming",
+-  definition: "the tracked files that name a path a move is carrying",
+-  code: "ts",
+-  test: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "Which page owns a path is answered by the index.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A path the index answers more than one page to is left unread.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A path no page owns is answered as owned by no page.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Which files import a path that moves is answered by the index.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An index that will not answer leaves the importers unread.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A file moving in the same act is no importer of the paths that move.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A body spelling the last part of a path that moves is answered as naming that path.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The bodies searched are the bodies the commit handed in holds.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A path the caller already knows about is left out of that search.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "A path that is no TypeScript file is left out of that search.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here rewrites a body.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here writes.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here commits.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/commands/move/siding/move-siding.module.code.ts b/commands/move/siding/move-siding.module.code.ts
+index d074cb22931ca3fbd15a67707c3d6335bf162c6a..4a75e3e70b0b8a7e3c62252bc0842aa3b1817af5 100644
+--- a/commands/move/siding/move-siding.module.code.ts
++++ b/commands/move/siding/move-siding.module.code.ts
+@@ -9,8 +9,8 @@ import {
+   sectionedIn,
+   uncommittedHeld,
+ } from "@akasha/pages-system/page-file-name"
++import { namingOf } from "../../../pages/indexes/path-naming/path-naming.module.code.ts"
+ import { pathAt } from "../../write/write.command.code.ts"
+-import { namingOf } from "../naming/move-naming.module.code.ts"
+ import type { Renaming } from "../renaming/move-renaming.module.code.ts"
+ import { besideRenamed, renamingFor } from "../renaming/move-renaming.module.code.ts"
+ import type { Pair } from "../spreading/move-spreading.module.code.ts"
+diff --git a/commands/refactor/refactor.command.code.ts b/commands/refactor/refactor.command.code.ts
+index 6470ef2ab3750d967d36f9c643d06f139a775148..283e5cf96dc7405ece2d68ecf96127c86fad5742 100644
+--- a/commands/refactor/refactor.command.code.ts
++++ b/commands/refactor/refactor.command.code.ts
+@@ -15,8 +15,8 @@ import type { FileCarry, FileEdit } from "../../command-system/landing/landing.m
+ import { baseOf } from "../../command-system/landing/landing.module.code.ts"
+ import type { Carry as Reading } from "../../command-system/reading/reading.module.code.ts"
+ import { blobIdOf, carryReadings } from "../../command-system/reading/reading.module.code.ts"
++import { importingOf, spellingOf } from "../../pages/indexes/path-naming/path-naming.module.code.ts"
+ import { move } from "../move/move.command.code.ts"
+-import { importingOf, spellingOf } from "../move/naming/move-naming.module.code.ts"
+ import { repointed } from "../move/repointing/move-repointing.module.code.ts"
+ import { glassIn, messageIn } from "../write/write.command.code.ts"
+ import {
+diff --git a/commands/refactor/retype-writing/retype-writing.module.code.ts b/commands/refactor/retype-writing/retype-writing.module.code.ts
+index 4112980e7b4e0ebbe5425e6cd3b4f35ed96ca201..2f0c0c30041e866031e37fcd35d1607b746779ca 100644
+--- a/commands/refactor/retype-writing/retype-writing.module.code.ts
++++ b/commands/refactor/retype-writing/retype-writing.module.code.ts
+@@ -7,8 +7,11 @@ import { bodyAt } from "../../../command-system/commit-reading/commit-reading.mo
+ import type { FileCarry, FileEdit } from "../../../command-system/landing/landing.module.code.ts"
+ import type { Carry as Reading } from "../../../command-system/reading/reading.module.code.ts"
+ import { blobIdOf } from "../../../command-system/reading/reading.module.code.ts"
++import {
++  importingOf,
++  spellingOf,
++} from "../../../pages/indexes/path-naming/path-naming.module.code.ts"
+ import { manifestingOver } from "../../move/manifesting/move-manifesting.module.code.ts"
+-import { importingOf, spellingOf } from "../../move/naming/move-naming.module.code.ts"
+ import { repointed } from "../../move/repointing/move-repointing.module.code.ts"
+ import type { Spot } from "../type-renaming/type-renaming.module.code.ts"
+ import { splicedIn, statedIn } from "../type-renaming/type-renaming.module.code.ts"
+diff --git a/pages/indexes/index.workspace-package.ts b/pages/indexes/index.workspace-package.ts
+index 1066d11367be9f48ed6a0d218670573f15fe2a0d..e19167974910d7c0cb9f8a78b4b73d89a08ac5ed 100644
+--- a/pages/indexes/index.workspace-package.ts
++++ b/pages/indexes/index.workspace-package.ts
+@@ -13,6 +13,7 @@ export const index = {
+     "index/index-import",
+     "index/index-path",
+     "index/index-value",
++    "module/path-naming",
+     "page-type/index",
+     "module/index-entries",
+     "module/indexing",
+diff --git a/pages/indexes/path-naming/path-naming.module.code.ts b/pages/indexes/path-naming/path-naming.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a8ca9593aee9a0925c937a29e9dc353d81a21f1c
+--- /dev/null
++++ b/pages/indexes/path-naming/path-naming.module.code.ts
+@@ -0,0 +1,64 @@
++import { basename } from "node:path"
++import { typed } from "@akasha/code-system/code-typing"
++import type { Listed } from "@akasha/indexes"
++import { everyPath, importersOf, listedByPath, readingIn } from "@akasha/indexes"
++import { textOf } from "../../../command-system/asking/asking.module.code.ts"
++import { bodyAt } from "../../../command-system/commit-reading/commit-reading.module.code.ts"
++
++export type Naming = { readonly held: Listed | null } | { readonly unread: string }
++
++export type Reading = { readonly importers: readonly string[] } | { readonly unread: string }
++
++export function namingOf(root: string, path: string): Naming {
++  let listed: readonly Listed[]
++  try {
++    listed = listedByPath(root, path)
++  } catch (cause) {
++    return { unread: cause instanceof Error ? cause.message : String(cause) }
++  }
++  if (listed.length > 1) {
++    return {
++      unread:
++        `the index answers ${listed.length} pages to the path \`${path}\`, so what names it ` +
++        "could not be answered",
++    }
++  }
++  return { held: listed[0] ?? null }
++}
++
++export function importingOf(root: string, moved: ReadonlyMap<string, string>): Reading {
++  const found = new Set<string>()
++  for (const from of moved.keys()) {
++    let said: readonly string[]
++    try {
++      said = importersOf(from, readingIn(root))
++    } catch (cause) {
++      const why = cause instanceof Error ? cause.message : String(cause)
++      return { unread: `${why}, so none were repointed` }
++    }
++    for (const one of said) {
++      if (moved.has(one)) continue
++      found.add(one)
++    }
++  }
++  return { importers: [...found].sort() }
++}
++
++export function spellingOf(
++  root: string,
++  base: string,
++  moved: ReadonlyMap<string, string>,
++  known: ReadonlySet<string>
++): readonly string[] {
++  const names = [...new Set([...moved.keys()].map((one) => basename(one)))]
++  const found: string[] = []
++  for (const path of everyPath(root)) {
++    if (!typed(path) || moved.has(path) || known.has(path)) continue
++    const held = bodyAt(root, base, path)
++    if (held === null) continue
++    const text = textOf(held)
++    if (text === null) continue
++    if (names.some((name) => text.includes(name))) found.push(path)
++  }
++  return found
++}
+diff --git a/pages/indexes/path-naming/path-naming.module.test.ts b/pages/indexes/path-naming/path-naming.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8ea731b2b7c1cbe77147ab9964324be12221354e
+--- /dev/null
++++ b/pages/indexes/path-naming/path-naming.module.test.ts
+@@ -0,0 +1,48 @@
++import { afterAll, expect, test } from "bun:test"
++import {
++  HELD,
++  heldIndexed,
++  scratch,
++  THREE,
++} from "../../../commands/move/move.command.test-fixtures.ts"
++import { importingOf, namingOf, spellingOf } from "./path-naming.module.code.ts"
++
++afterAll(scratch.sweep)
++
++const NOWHERE = "akasha/one/nowhere.module.ts"
++
++const AT = "HEAD"
++
++const MOVING = new Map([[HELD, THREE]])
++
++function unindexed(): string {
++  return scratch.rootFor("move-naming-")
++}
++
++test("a path no page owns is answered as owned by no page", () => {
++  expect(namingOf(heldIndexed(), NOWHERE)).toEqual({ held: null })
++})
++
++test("an index that will not answer leaves what owns a path unread", () => {
++  const said = namingOf(unindexed(), HELD)
++  expect("unread" in said).toBe(true)
++})
++
++test("an index that will not answer leaves the importers unread", () => {
++  const said = importingOf(unindexed(), MOVING)
++  expect("unread" in said ? said.unread : "").toContain("so none were repointed")
++})
++
++test("a caller naming nothing moved reads no importer at all", () => {
++  expect(importingOf(unindexed(), new Map())).toEqual({ importers: [] })
++})
++
++test("a path the caller already knows about is left out of the search", () => {
++  const root = heldIndexed()
++  const every = spellingOf(root, AT, MOVING, new Set())
++  expect(spellingOf(root, AT, MOVING, new Set(every))).toEqual([])
++})
++
++test("a path that moves is never answered as a body naming what moved", () => {
++  expect(spellingOf(heldIndexed(), AT, MOVING, new Set())).not.toContain(HELD)
++})
+diff --git a/pages/indexes/path-naming/path-naming.module.ts b/pages/indexes/path-naming/path-naming.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..52199d39c93796e649e00a138eff0dfd31b0f477
+--- /dev/null
++++ b/pages/indexes/path-naming/path-naming.module.ts
+@@ -0,0 +1,65 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const pathNaming = {
++  id: "01a06310-8e44-7798-ae4b-af7b4b182be8",
++  pageTypeSlug: "module",
++  slug: "path-naming",
++  definition: "the tracked files that name a path a move is carrying",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Which page owns a path is answered by the index.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path the index answers more than one page to is left unread.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path no page owns is answered as owned by no page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Which files import a path that moves is answered by the index.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An index that will not answer leaves the importers unread.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file moving in the same act is no importer of the paths that move.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A body spelling the last part of a path that moves is answered as naming that path.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The bodies searched are the bodies the commit handed in holds.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path the caller already knows about is left out of that search.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A path that is no TypeScript file is left out of that search.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here rewrites a body.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here writes.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here commits.",
++    },
++  ],
++} as const satisfies Module
