@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/fitness/workout-sessions/workout-session.page-type.ts b/alan/fitness/workout-sessions/workout-session.page-type.ts
+index de892a71a527d7dadb1458af8cf36fe15eb0a145..85fa4cfa1e4daf40be80ab351c29fc6773e649f5 100644
+--- a/alan/fitness/workout-sessions/workout-session.page-type.ts
++++ b/alan/fitness/workout-sessions/workout-session.page-type.ts
+@@ -41,7 +41,7 @@ export const workoutSession = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A session names the day of the rotation it was taken against.",
++      statement: "A session names the day of the rotation that session was taken against.",
+     },
+     {
+       invariantKind: "departure",
