@@ -1,5 +1,6 @@
-import { mkdirSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { patchAt } from "@akasha/agents/patch-keeping"
 import type { Phase } from "@akasha/checks/checking"
 import { warrantsSeeded } from "@akasha/context/warranting/testing"
 import { said as gitIn } from "@akasha/git/git-running"
@@ -13,7 +14,7 @@ import type { Answer, Given } from "../calling/calling.module.code.ts"
 import { blobIdOf, recordRead } from "../reading/reading.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import type { Asked } from "./asking.module.code.ts"
+import { type Asked, landedMechanically } from "./asking.module.code.ts"
 
 const ADMITS_AT = "akasha/admits.code-check*"
 
@@ -216,3 +217,17 @@ export function blocked(root: string): Asked {
     saying: () => [],
   })
 }
+
+export const THREE_AT = "akasha/three.ts"
+
+export const PATCH_AT = patchAt(SEAT_AT) as string
+
+const THREE = [{ path: THREE_AT, body: bytes(PROPOSED) }]
+
+export const holds = (root: string, path: string): boolean => existsSync(join(root, path))
+
+export const applying = async (root: string): Promise<Answer> =>
+  await patch(["apply", "--message", "held"], givenIn(root))
+
+export const mechanically = async (root: string): Promise<number> =>
+  (await landedMechanically(root, "akasha write", THREE, "held", [], AGENT)).code

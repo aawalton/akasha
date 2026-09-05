@@ -44,7 +44,7 @@ const DIFF_AT = "diff --git "
 
 export type Running = { readonly checks: boolean; readonly warrants: boolean }
 
-const AUTHORED: Running = { checks: true, warrants: true }
+export const AUTHORED: Running = { checks: true, warrants: true }
 
 const RUNS_NOTHING: Running = { checks: false, warrants: false }
 

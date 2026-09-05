@@ -7,6 +7,7 @@ import { agentPathOf } from "@akasha/context/warranting"
 import { nameFaultIn } from "@akasha/pages-system/page-export-name"
 import { isMissing } from "@akasha/utils-fs/missing"
 import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
+import { AUTHORED, type Running } from "../drafting/drafting.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import { passedOver, reachedIn } from "../judged-saying/judged-saying.module.code.ts"
@@ -210,9 +211,10 @@ export function noCheckSaid(slug: string): string {
   return `a \`${slug}\` change ${NO_CHECKS}`
 }
 
-export function mechanicallyIn(given: Given): boolean {
+export function runningOf(given: Given): Running {
   const kind = given.changeKind
-  return kind !== undefined && !kind.runsChecks
+  if (kind === undefined) return AUTHORED
+  return { checks: kind.runsChecks, warrants: kind.runsWarrants }
 }
 
 function bypassIn(given: Given, asked: Asked): Bypass | null {
@@ -321,7 +323,7 @@ async function draftingAsked(
       asked.read ?? null,
       asRead,
       asked.carries ?? [],
-      { page, mechanical: mechanicallyIn(given) }
+      { page, running: runningOf(given) }
     )
   } catch (thrown) {
     return { report: [], refusals: [`nothing was drafted — ${whyOf(thrown)}`], code: 3 }
