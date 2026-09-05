@@ -19,7 +19,7 @@ export const monarchRulePages = {
     {
       invariantKind: "departure",
       statement:
-        "A category page carrying no Monarch id is refused, because nothing could be posted back for it.",
+        "A category page with no Monarch id is refused, because nothing could be posted back for the page.",
     },
     {
       invariantKind: "departure",
