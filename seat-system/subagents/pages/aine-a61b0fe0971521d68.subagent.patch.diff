@@ -1,0 +1,39 @@
+diff --git a/story/wandering-inn/site/site.module.code.ts b/story/wandering-inn/site/site.module.code.ts
+index 153f1704063bf8633bd40453193df9ec6a78703d..a6a770588e1c1e37fa371f9102d5113e93a39124 100644
+--- a/story/wandering-inn/site/site.module.code.ts
++++ b/story/wandering-inn/site/site.module.code.ts
+@@ -59,7 +59,7 @@ async function pastAnyChallenge(page: Page): Promise<void> {
+     page.evaluate(() => document.title.includes("Just a moment"))
+   )
+   if (!held) return
+-  console.log("  a challenge page stands in the way; waiting for it to clear")
++  console.log("  a challenge page is in the way; waiting for it to clear")
+   await page
+     .waitForFunction(() => !document.title.includes("Just a moment"), {
+       timeout: CHALLENGE_CEILING_MS,
+diff --git a/story/wandering-inn/syncing/syncing.module.code.ts b/story/wandering-inn/syncing/syncing.module.code.ts
+index 7db3bd11af1b77f4ce53e75811636546d8f57b23..94cea0626e7c7d04b8798c0bdbe95f94296f90b8 100644
+--- a/story/wandering-inn/syncing/syncing.module.code.ts
++++ b/story/wandering-inn/syncing/syncing.module.code.ts
+@@ -56,7 +56,7 @@ async function takeChapter(
+ 
+   const text = strippedOfTrailingNav(read.text).trim()
+   if (text === "") {
+-    console.log(`  ${at} chapter ${listed.position}: no prose stood on the page; left`)
++    console.log(`  ${at} chapter ${listed.position}: no prose was on the page; left`)
+     tally.skipped += 1
+     return
+   }
+diff --git a/story/wandering-inn/syncing/syncing.module.ts b/story/wandering-inn/syncing/syncing.module.ts
+index 26e93549ca6f951eb4efa971c8b90df2d897851b..66edaa1992ac6347245cec2953ad666ac67d5bd8 100644
+--- a/story/wandering-inn/syncing/syncing.module.ts
++++ b/story/wandering-inn/syncing/syncing.module.ts
+@@ -36,7 +36,7 @@ export const syncing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A second stands between one chapter read and the next.",
++      statement: "A second sits between one chapter read and the next.",
+     },
+     {
+       invariantKind: "departure",
