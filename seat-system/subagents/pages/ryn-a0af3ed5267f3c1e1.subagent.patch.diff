@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/refactor/landing/refactor-landing.module.ts b/commands/refactor/landing/refactor-landing.module.ts
+index 412fe6a3459568207762e949609ff57009efaf3a..bc2a7c9efb0e9f41289544769525dd26e4bd35f4 100644
+--- a/commands/refactor/landing/refactor-landing.module.ts
++++ b/commands/refactor/landing/refactor-landing.module.ts
+@@ -29,7 +29,7 @@ export const refactorLanding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A dry run says what the dry run would land and writes nothing.",
++      statement: "A dry run says the files the dry run would land and writes nothing.",
+     },
+     {
+       invariantKind: "departure",
