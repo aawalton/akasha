@@ -1,0 +1,12 @@
+diff --git a/service-system/cluster-services/pages/postgres-exporter/postgres-exporter.cluster-service.ts b/service-system/cluster-services/pages/postgres-exporter/postgres-exporter.cluster-service.ts
+index 1db0e4951623ea6daec4f77eab24ffcbace6d23f..69773f0aef3af8ef7e0f91cffdc1bb53362feaf0 100644
+--- a/service-system/cluster-services/pages/postgres-exporter/postgres-exporter.cluster-service.ts
++++ b/service-system/cluster-services/pages/postgres-exporter/postgres-exporter.cluster-service.ts
+@@ -11,6 +11,5 @@ export const postgresExporter = {
+   image: "prometheuscommunity/postgres-exporter:v0.15.0",
+   replicas: 1,
+   containerPort: 9187,
+-  manifestCode:
+-    "service-system/cluster-services/pages/postgres-exporter/postgres-exporter.cluster-service.code.attachment.ts",
++  manifestSlug: "postgres-exporter",
+ } as const satisfies ClusterService
