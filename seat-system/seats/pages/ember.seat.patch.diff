@@ -218,6 +218,19 @@ index 0000000000000000000000000000000000000000..76df660eab22a60369b96167dfca2011
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/pages/indexes/entries/index-entries.module.code.ts b/pages/indexes/entries/index-entries.module.code.ts
+index 48c448029814685968d4c90fa0f139358a9381c9..cc32cf29299f05fd64f3dfb9d3b3b4ddc8857e9b 100644
+--- a/pages/indexes/entries/index-entries.module.code.ts
++++ b/pages/indexes/entries/index-entries.module.code.ts
+@@ -43,7 +43,7 @@ export function under(repo: string, path: string): string {
+   return isAbsolute(path) ? relative(repo, path) : path
+ }
+ 
+-const FILE_PROPERTY = "file-property"
++export const FILE_PROPERTY = "file-property"
+ 
+ export const ENTRY_PROPERTY = "page-property-entry"
+ 
 diff --git a/pages/package.json b/pages/package.json
 index 8119d7e8573e40239258092786c2638f1d603c37..3c9e2001492dedca918733621c8f4767095c19b8 100644
 --- a/pages/package.json
