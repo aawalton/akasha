@@ -17,7 +17,8 @@ export const harnessJson = {
     },
     {
       invariantKind: "departure",
-      statement: "A command is named by its file or by the name the harness files it under.",
+      statement:
+        "A command is named by its file or by the name the harness files that command under.",
     },
     {
       invariantKind: "departure",
