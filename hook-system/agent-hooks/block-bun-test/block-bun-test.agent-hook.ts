@@ -12,7 +12,7 @@ export const blockBunTest = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A `bun test` made inside the checkout is refused whatever paths it names.",
+      statement: "A `bun test` made inside the checkout is refused whatever paths that call names.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,7 @@ export const blockBunTest = {
     {
       invariantKind: "departure",
       statement:
-        "A prefix that only runs the call behind it does not hide a `bun test` from this hook.",
+        "A prefix that only runs the call behind that prefix does not hide a `bun test` from this hook.",
     },
     {
       invariantKind: "absence",
@@ -39,7 +39,7 @@ export const blockBunTest = {
     {
       invariantKind: "constraint",
       statement:
-        "The repository root is the akasha folder, so every test file it holds is an akasha test.",
+        "The repository root is the akasha folder, so every test file that folder holds is an akasha test.",
     },
   ],
 } as const satisfies AgentHook
