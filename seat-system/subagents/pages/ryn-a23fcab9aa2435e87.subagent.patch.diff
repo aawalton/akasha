@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/properties/entries.file-property.ts b/checks/code-checks/properties/entries.file-property.ts
+index a9f84a025eb896522388bb82509a9b5e26a1d573..88e5e06c151ec69e21d44b27329c32d598fcae6a 100644
+--- a/checks/code-checks/properties/entries.file-property.ts
++++ b/checks/code-checks/properties/entries.file-property.ts
+@@ -39,7 +39,7 @@ export const entries = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here judges what a run cost.",
++      statement: "Nothing here judges a run's cost.",
+     },
+     {
+       invariantKind: "absence",
