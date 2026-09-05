@@ -1,0 +1,13 @@
+diff --git a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
+index 4715f1fb1bf818189ecfbac38040986042ef1b1e..a10ce02ce5b73d52e3e78249523d53d9b578e62d 100644
+--- a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
++++ b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
+@@ -18,7 +18,7 @@ export const logDaySweeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page whose date cannot be read from its text is left as it is.",
++      statement: "A page whose date cannot be read from its text is left as that page is.",
+     },
+     {
+       invariantKind: "departure",
