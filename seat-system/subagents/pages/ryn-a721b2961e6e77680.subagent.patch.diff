@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/calendar-sync/sync-all/sync-all.module.ts b/calendar-sync/sync-all/sync-all.module.ts
+index 72363dd2d4fe58c6d8b9a6fd810a73019968de9c..21613692a9b78692026ffadb2ace111cb18d48e3 100644
+--- a/calendar-sync/sync-all/sync-all.module.ts
++++ b/calendar-sync/sync-all/sync-all.module.ts
+@@ -9,7 +9,7 @@ export const syncAll = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A source carries on its own page what its last sync came to.",
++      statement: "A source carries on its own page the result of its last sync.",
+     },
+     {
+       invariantKind: "departure",
