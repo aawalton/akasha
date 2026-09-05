@@ -25,3 +25,16 @@ index c284295ddad8ee85cc824080ca60278f8fb42731..a63517de6c9d6df8dc1d796808c18f77
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/monarch/reconcile/monarch-reconcile.module.ts b/alan/harness/monarch/reconcile/monarch-reconcile.module.ts
+index dc4ee17286345cca805c45b2e0171c1cc9d57e96..b7546a692d9d3536bfe2d48197a3f4f2cd1efb0a 100644
+--- a/alan/harness/monarch/reconcile/monarch-reconcile.module.ts
++++ b/alan/harness/monarch/reconcile/monarch-reconcile.module.ts
+@@ -11,7 +11,7 @@ export const monarchReconcile = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A row Monarch no longer lists is retired, judged against the window that was fetched rather than against one missing id.",
++        "A row Monarch no longer lists is retired, judged on the fetched window rather than one missing id.",
+     },
+     {
+       invariantKind: "departure",
