@@ -1,3 +1,15 @@
+diff --git a/alan/web/alan-web.router-app.ts b/alan/web/alan-web.router-app.ts
+index 49525708d1b54356fd1973b2ccdd214d62e0b3b1..ccd09445925dff584c9298e3bcb5e66354eecee3 100644
+--- a/alan/web/alan-web.router-app.ts
++++ b/alan/web/alan-web.router-app.ts
+@@ -144,6 +144,7 @@ export const alanWeb = {
+     "route/about",
+     "route/claude-usage",
+     "route/inbox-stoplights",
++    "route/no-such-route",
+     "route/pages-ready",
+   ],
+ } as const satisfies RouterApp
 diff --git a/alan/web/routes/no-such-route/no-such-route.route.ts b/alan/web/routes/no-such-route/no-such-route.route.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..6db691d28d7da6df884589ef51087920bc9f12f7
