@@ -4,6 +4,7 @@ import {
   calledWords,
   dequoted,
   joinedContinuations,
+  pastHeredocs,
   RUNS_ANOTHER,
   segmentsOf,
   wordsOf,
@@ -11,6 +12,46 @@ import {
 
 test("a line continuation is joined", () => {
   expect(joinedContinuations("git \\\nreset --hard")).toBe("git  reset --hard")
+})
+
+test("a heredoc body is taken out, so what is written is not read as shell", () => {
+  const said = pastHeredocs("cat > /var/tmp/one <<'EOF'\ncp one akasha/one.ts\nEOF")
+  expect(said).toBe("cat > /var/tmp/one <<'EOF'")
+})
+
+test("the line opening a heredoc is kept, so a redirect on it is still read", () => {
+  const said = pastHeredocs("cat > akasha/one.ts <<'EOF'\nhello\nEOF")
+  expect(said).toBe("cat > akasha/one.ts <<'EOF'")
+})
+
+test("a heredoc that never ends takes nothing out", () => {
+  const said = pastHeredocs("cat <<'EOF'\nhello\ncp one akasha/one.ts")
+  expect(said).toBe("cat <<'EOF'\nhello\ncp one akasha/one.ts")
+})
+
+test("a line after a heredoc is read as shell again", () => {
+  const said = pastHeredocs("cat <<'EOF'\nhello\nEOF\ncp one akasha/one.ts")
+  expect(said).toBe("cat <<'EOF'\ncp one akasha/one.ts")
+})
+
+test("a body opening no heredoc of its own is passed over whole", () => {
+  const said = pastHeredocs("cat <<'A'\ncat <<'B'\ncp one akasha/one.ts\nA\nB")
+  expect(said).toBe("cat <<'A'\nB")
+})
+
+test("two heredocs on one line each take their own body out", () => {
+  const said = pastHeredocs("cat <<'A' <<'B'\none\nA\ntwo\nB\ncp one akasha/one.ts")
+  expect(said).toBe("cat <<'A' <<'B'\ncp one akasha/one.ts")
+})
+
+test("a heredoc is opened quoted or bare and stripped of its tabs alike", () => {
+  expect(pastHeredocs("cat <<EOF\nhello\nEOF")).toBe("cat <<EOF")
+  expect(pastHeredocs('cat <<"EOF"\nhello\nEOF')).toBe('cat <<"EOF"')
+  expect(pastHeredocs("cat <<-EOF\nhello\nEOF")).toBe("cat <<-EOF")
+})
+
+test("a herestring opens no body", () => {
+  expect(pastHeredocs("cat <<<one\ncp one akasha/one.ts")).toBe("cat <<<one\ncp one akasha/one.ts")
 })
 
 test("a quoted run is taken out before the cut", () => {

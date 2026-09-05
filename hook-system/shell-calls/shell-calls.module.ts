@@ -26,6 +26,30 @@ export const shellCalls = {
     },
     {
       invariantKind: "departure",
+      statement: "The body a heredoc carries is written rather than run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body is taken out from the line opening it to the line ending it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The line opening a body is kept, so a redirect on that line is read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body opening a heredoc of its own opens nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An opening the text never ends takes no line out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A herestring opens no body.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every separator form cuts too.",
     },
     {

@@ -8,6 +8,7 @@ import {
   calledWords,
   dequoted,
   joinedContinuations,
+  pastHeredocs,
   segmentsOf,
   wordsOf,
 } from "../../shell-calls/shell-calls.module.code.ts"
@@ -132,7 +133,7 @@ export function redirectsIn(words: readonly string[]): readonly string[] {
 
 export function landingsIn(command: string): readonly Landing[] {
   const found: Landing[] = []
-  for (const segment of segmentsOf(dequoted(command))) {
+  for (const segment of segmentsOf(dequoted(pastHeredocs(command)))) {
     const words = calledWords(segment)
     const first = words[0]
     if (first !== undefined) {

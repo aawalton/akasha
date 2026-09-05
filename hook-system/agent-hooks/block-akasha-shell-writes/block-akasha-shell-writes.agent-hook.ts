@@ -55,6 +55,14 @@ export const blockAkashaShellWrites = {
     },
     {
       invariantKind: "departure",
+      statement: "A redirect is read outside the body a heredoc carries rather than inside it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body handed to a program is read for the paths that body names.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A read through a program is not parted from a write through the program.",
     },
     {

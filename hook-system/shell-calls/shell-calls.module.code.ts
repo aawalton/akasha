@@ -10,6 +10,8 @@ const LEADING_SPACE = /^\s+/
 
 const CONTINUED = /\\\n/g
 
+const OPENING_A_BODY = /(?<!<)<<-?\s*(['"]?)([A-Za-z_][A-Za-z0-9_]*)\1/g
+
 const ASSIGNMENT = /^[A-Za-z_][A-Za-z0-9_]*=/
 
 const NUMBER = /^[0-9]/
@@ -61,6 +63,21 @@ export const RUNS_ANOTHER: readonly string[] = [...RUNNING_ANOTHER.keys()]
 
 export function joinedContinuations(command: string): string {
   return command.replace(CONTINUED, " ")
+}
+
+export function pastHeredocs(command: string): string {
+  const text = joinedContinuations(command)
+  const kept: string[] = []
+  let owed: readonly string[] = []
+  for (const line of text.split("\n")) {
+    if (owed.length > 0) {
+      if (line.trim() === owed[0]) owed = owed.slice(1)
+      continue
+    }
+    kept.push(line)
+    owed = [...line.matchAll(OPENING_A_BODY)].map((said) => said[2] ?? "")
+  }
+  return owed.length > 0 ? text : kept.join("\n")
 }
 
 function kept(_whole: string, inside: string): string {
