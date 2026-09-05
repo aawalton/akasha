@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/entry-landing/page-entry-landing.module.ts b/pages/entry-landing/page-entry-landing.module.ts
+index d613825a43dee00be655ea8b87c88e644d02694d..1aac778ef2a79e8c68613fad5cbea21c953b4773 100644
+--- a/pages/entry-landing/page-entry-landing.module.ts
++++ b/pages/entry-landing/page-entry-landing.module.ts
+@@ -18,7 +18,7 @@ export const pageEntryLanding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file already holding what would be written is left alone.",
++      statement: "A file already holding the text that would be written is left alone.",
+     },
+     {
+       invariantKind: "departure",
