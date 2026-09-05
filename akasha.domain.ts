@@ -164,7 +164,7 @@ export const akasha = {
     {
       directiveKind: "principle",
       name: "Plain Or Declared",
-      act: "Write the plain phrase; where you give a word a sense of its own, declare it as a domain first.",
+      act: "Write the plain phrase; give a word its own sense by declaring it a domain.",
       warrant:
         "Nobody looks up a word they read as ordinary, so the wrong sense is carried off silently.",
       aids: ["Use a declared word only in its declared sense."],
