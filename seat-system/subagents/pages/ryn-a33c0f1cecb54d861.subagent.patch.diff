@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/code-system/code-typing/code-typing.module.ts b/code-system/code-typing/code-typing.module.ts
+index b15dcd3dc2c7847665a5203df7d80a05486a46e6..1cf90b92887f3f1d353244afa3cef141dc686949 100644
+--- a/code-system/code-typing/code-typing.module.ts
++++ b/code-system/code-typing/code-typing.module.ts
+@@ -59,7 +59,7 @@ export const codeTyping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Where a key one file spells resolves is answered beside what a shorthand names.",
++      statement: "Where a key one file spells resolves is answered beside a shorthand's names.",
+     },
+     {
+       invariantKind: "departure",
