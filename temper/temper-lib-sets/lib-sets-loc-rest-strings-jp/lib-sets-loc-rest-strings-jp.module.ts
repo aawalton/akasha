@@ -6,10 +6,4 @@ export const libSetsLocRestStringsJp = {
   slug: "lib-sets-loc-rest-strings-jp",
   definition: "the library's own interface text in Japanese",
   code: "ts",
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "Japanese is not among the languages the library counts as supported.",
-    },
-  ],
 } as const satisfies Module

@@ -6,10 +6,4 @@ export const libSetsDropNameNamesJp = {
   slug: "lib-sets-drop-name-names-jp",
   definition: "the Japanese name of each way a gear set drops",
   code: "ts",
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "Japanese is not among the languages the library counts as supported.",
-    },
-  ],
 } as const satisfies Module

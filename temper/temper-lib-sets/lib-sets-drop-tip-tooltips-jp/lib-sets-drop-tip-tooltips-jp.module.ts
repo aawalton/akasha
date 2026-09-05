@@ -6,10 +6,4 @@ export const libSetsDropTipTooltipsJp = {
   slug: "lib-sets-drop-tip-tooltips-jp",
   definition: "the Japanese explanation of each way a gear set drops",
   code: "ts",
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "Japanese is not among the languages the library counts as supported.",
-    },
-  ],
 } as const satisfies Module
