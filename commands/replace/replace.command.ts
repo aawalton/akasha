@@ -8,7 +8,7 @@ export const replace = {
     "one literal passage replaced wherever it is in the files named, landed as one commit",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKindSlug: "change-checked",
   taking: [
     { said: "--file-path <path>", takes: "a file the passage is replaced in, said once per file" },
     { said: "--old-file <file>", takes: "a file holding the passage to replace" },

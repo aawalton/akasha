@@ -8,7 +8,7 @@ export const remove = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKindSlug: "change-checked",
   partSlugs: ["module/remove-manifesting", "module/remove-workspacing"],
   taking: [
     { said: "--file-path <path>", takes: "a path anywhere in the repository to take away" },

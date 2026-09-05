@@ -9,7 +9,7 @@ export const move = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKindSlug: "change-checked",
   partSlugs: [
     "module/move-arguing",
     "module/move-listing",
