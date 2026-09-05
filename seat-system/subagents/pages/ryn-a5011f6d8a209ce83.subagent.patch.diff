@@ -1,0 +1,20 @@
+diff --git a/alan/harness/monarch/amazon-pairs/monarch-amazon-pairs.module.ts b/alan/harness/monarch/amazon-pairs/monarch-amazon-pairs.module.ts
+index 39108d1da787880d60bc70d81ebbd3b0b5b83332..e607978771e928f0de6c81b82937ef411152e740 100644
+--- a/alan/harness/monarch/amazon-pairs/monarch-amazon-pairs.module.ts
++++ b/alan/harness/monarch/amazon-pairs/monarch-amazon-pairs.module.ts
+@@ -23,10 +23,14 @@ export const monarchAmazonPairs = {
+       invariantKind: "departure",
+       statement: "A category of Uncategorized is no category here, the same as naming none.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A fully refunded order nets to zero.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A fully refunded order nets to zero, so a pair that does not is either missing a transaction or holding one twice.",
++        "A pair that does not net to zero is either missing a transaction or holding a transaction twice.",
+     },
+     {
+       invariantKind: "departure",
