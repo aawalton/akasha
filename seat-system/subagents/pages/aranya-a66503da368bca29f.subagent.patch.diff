@@ -393,29 +393,30 @@ index ab8455e15d79ba046c81d6abe474550ea8830d65..2d5c456da527177768f738aff582ed81
    ],
    "exclude": ["node_modules", "dist", "build"]
 diff --git a/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff b/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff
-index b9504cf2d6e0ab0eee628c8bd89312caac865706..15b62132901f9c56e5be495cc0bcfa389fe9e0fc 100644
+index 0ae517cca957c6e4986f9f37f3a7079f610783ae..3c7edeea34a01870cc7e0145c0262dea8af4efb1 100644
 --- a/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff
 +++ b/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff
-@@ -26,6 +26,6 @@ index 03dd87cfbf5075caa8b54fc8086b0396630a2d3c..abcd131a0494726350fb5cc424d8a25e
+@@ -412,8 +412,12 @@ index 03dd87cfbf5075caa8b54fc8086b0396630a2d3c..c2bd61b04dafe9eb4b0e64d25cc677e1
     image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
     replicas: 1,
     containerPort: 3000,
---  manifestCode: "alan/web/alanwalton-web.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +-  manifestCode: "alan/web/alanwalton-web/alanwalton-web.manifest.code.ts",
++=======
+ -  manifestCode: "alan/web/alanwalton-web.cluster-service.code.attachment.ts",
+ +<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
  +  manifestSlug: "alanwalton-web",
-  } as const satisfies ClusterService
+ +=======
+ +  manifestCode: "alan/web/alanwalton-web/alanwalton-web.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/alanwalton-web.cluster-service.ts b/service-system/cluster-services/pages/alanwalton-web.cluster-service.ts
-index 03dd87cfbf5075caa8b54fc8086b0396630a2d3c..c2bd61b04dafe9eb4b0e64d25cc677e1d60a9055 100644
+index 03dd87cfbf5075caa8b54fc8086b0396630a2d3c..abcd131a0494726350fb5cc424d8a25e147ac52a 100644
 --- a/service-system/cluster-services/pages/alanwalton-web.cluster-service.ts
 +++ b/service-system/cluster-services/pages/alanwalton-web.cluster-service.ts
-@@ -11,5 +11,9 @@ export const alanwaltonWeb = {
+@@ -11,5 +11,5 @@ export const alanwaltonWeb = {
    image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
    replicas: 1,
    containerPort: 3000,
 -  manifestCode: "alan/web/alanwalton-web.cluster-service.code.attachment.ts",
-+<<<<<<< what this change would leave
 +  manifestSlug: "alanwalton-web",
-+=======
-+  manifestCode: "alan/web/alanwalton-web/alanwalton-web.manifest.code.ts",
-+>>>>>>> what HEAD holds
  } as const satisfies ClusterService
