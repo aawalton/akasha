@@ -99,3 +99,30 @@ index cf43a54c6ad8984520ad39158f87caf6568a2919..0edeee7b50569b89b2dfcb68a2ffe0fa
    byRoot.set(root, read)
    return read
  }
+diff --git a/domains/modules/reading/domain-reading.module.ts b/domains/modules/reading/domain-reading.module.ts
+index dba821575b8b78f28de03c1c500072c4c82ac45a..b47018a2f56ef75c32fb18a531c9071b71dbc563 100644
+--- a/domains/modules/reading/domain-reading.module.ts
++++ b/domains/modules/reading/domain-reading.module.ts
+@@ -4,8 +4,7 @@ export const domainReading = {
+   id: "01a06949-b280-73e9-9ded-65530eee9efa",
+   pageTypeSlug: "module",
+   slug: "domain-reading",
+-  definition:
+-    "every domain page in a repo read back as frontmatter fields, with parents from part slugs",
++  definition: "the path, slug and address of every domain page in a repo",
+   code: "ts",
+   invariants: [
+     {
+@@ -22,11 +21,7 @@ export const domainReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A field key written in camel case comes back in kebab case.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A page's parents are the pages whose part slugs name it.",
++      statement: "A page's address is its page type slug and its slug.",
+     },
+     {
+       invariantKind: "departure",
