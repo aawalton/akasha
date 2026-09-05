@@ -10,7 +10,7 @@ export const completionGenericCheckerProgress = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A total is what the static catalog holds rather than what saved data records.",
+      statement: "A total is read from the static catalog rather than from saved data.",
     },
     {
       invariantKind: "departure",
