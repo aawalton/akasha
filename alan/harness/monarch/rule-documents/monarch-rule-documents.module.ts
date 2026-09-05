@@ -47,8 +47,7 @@ export const monarchRuleDocuments = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A rule naming a category that no longer exists is refused, because it may have been merged or renamed in Monarch.",
+      statement: "A rule naming a category that no longer exists is refused.",
     },
   ],
 } as const satisfies Module
