@@ -135,3 +135,16 @@ index be978826f2ff896986b31a4334ddb135ff30be36..c71ec28ad597923c3ca9979c121da5b2
        settled.request(why)
      }
      const watcher = vscode.workspace.createFileSystemWatcher(
+diff --git a/editor-extension/work-tree-panel/work-tree-panel.module.ts b/editor-extension/work-tree-panel/work-tree-panel.module.ts
+index 51aef530905c72209594d1cb650c683afac3d004..da7628681b3753c1d36903edd6f6d76c74a64f2f 100644
+--- a/editor-extension/work-tree-panel/work-tree-panel.module.ts
++++ b/editor-extension/work-tree-panel/work-tree-panel.module.ts
+@@ -17,7 +17,7 @@ export const workTreePanel = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An initiative written drops what was derived before the read that follows.",
++      statement: "An initiative written is re-read from the file rather than from a held answer.",
+     },
+     {
+       invariantKind: "departure",
