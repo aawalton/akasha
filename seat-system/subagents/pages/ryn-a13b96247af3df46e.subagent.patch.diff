@@ -1,0 +1,14 @@
+diff --git a/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts b/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts
+index 5212c12bc477ef20d3fb15e236d72b189b77bf08..efacd302d855a53931b1d375e07d2e2048b4112b 100644
+--- a/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts
++++ b/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts
+@@ -23,7 +23,8 @@ export const monarchRuleClauses = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A clause holding no values is refused, because it would weigh against nothing.",
++      statement:
++        "A clause holding no values is refused, because that clause would weigh against nothing.",
+     },
+     {
+       invariantKind: "departure",
