@@ -9,15 +9,18 @@ export const pageRowTotals = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A total is keyed by the page type slug rather than by the accessor reading it.",
+      statement:
+        "A total is keyed by the page type slug rather than by the accessor reading that page type.",
     },
     {
       invariantKind: "departure",
-      statement: "A page type is named here whether or not a section renders anything from it.",
+      statement:
+        "A page type is named here whether or not a section renders anything from that page type.",
     },
     {
       invariantKind: "departure",
-      statement: "Totals are printed in slug order rather than in the order they were gathered.",
+      statement:
+        "Totals are printed in slug order rather than in the order those totals were gathered.",
     },
     {
       invariantKind: "departure",
