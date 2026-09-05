@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/read/long-body/long-body.module.ts b/commands/read/long-body/long-body.module.ts
+index 32736f9f1f4e0ab4ec44c71c33346575f74c6738..a7da6afd86f02c3ad9a2509477d42faa0e822497 100644
+--- a/commands/read/long-body/long-body.module.ts
++++ b/commands/read/long-body/long-body.module.ts
+@@ -67,7 +67,7 @@ export const longBody = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here writes to the record of what an agent read.",
++      statement: "Nothing here writes to the record of the bodies an agent read.",
+     },
+     {
+       invariantKind: "gap",
