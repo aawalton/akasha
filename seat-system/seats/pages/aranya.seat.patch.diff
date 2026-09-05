@@ -183,3 +183,11 @@ index e3da34b288dd6ca6b1e98ebe6dc9cd5d9611d0e3..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../errors-client
 \ No newline at end of file
+diff --git a/errors-core/errors-core b/errors-core/errors-core
+deleted file mode 120000
+index 8b037c2c39e1d221cc0405b8944212d0a1d35aab..0000000000000000000000000000000000000000
+--- a/errors-core/errors-core
++++ /dev/null
+@@ -1 +0,0 @@
+-../../errors-core
+\ No newline at end of file
