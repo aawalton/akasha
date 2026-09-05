@@ -1,5 +1,18 @@
+diff --git a/pages/akasha-page-values/akasha-page-values.module.test.ts b/pages/akasha-page-values/akasha-page-values.module.test.ts
+index 92c200922bcfa4fffd6805b05d03ef960b568f25..80455f6c372449722d170d18d2c667b1be1fb4e7 100644
+--- a/pages/akasha-page-values/akasha-page-values.module.test.ts
++++ b/pages/akasha-page-values/akasha-page-values.module.test.ts
+@@ -33,7 +33,7 @@ describe("the values an akasha page declares", () => {
+     expect(values["page-type-slug"]).toBe("wake-day")
+   })
+ 
+-  test("a camel row is turned and a kebab row is left as it stands", () => {
++  test("a camel row is turned and a kebab row is left as it is", () => {
+     expect(kebabisedRow({ startTime: "a", dailyTracking: "b" })).toEqual({
+       "start-time": "a",
+       "daily-tracking": "b",
 diff --git a/pages/answer-sweeping/page-answer-sweeping.module.code.ts b/pages/answer-sweeping/page-answer-sweeping.module.code.ts
-index 9b0479f2e67ca6e8a950dec886b5df81c0d002cc..54be810c625c34793e6d4716c4498527d8ea8d7a 100644
+index 9b0479f2e67ca6e8a950dec886b5df81c0d002cc..56b60ee605adf76af34e017eed631d68eb90d4ae 100644
 --- a/pages/answer-sweeping/page-answer-sweeping.module.code.ts
 +++ b/pages/answer-sweeping/page-answer-sweeping.module.code.ts
 @@ -7,7 +7,7 @@ const RESOLVED = ".git/pages/resolved/page-type"
@@ -11,6 +24,15 @@ index 9b0479f2e67ca6e8a950dec886b5df81c0d002cc..54be810c625c34793e6d4716c4498527
    try {
      return now - statSync(at).mtimeMs > DAY_MS
    } catch {
+@@ -29,7 +29,7 @@ function sweepFlat(dir: string, now: number): number {
+   let gone = 0
+   for (const name of readdirSync(dir)) {
+     const at = `${dir}/${name}`
+-    if (stood(at, now) && take(at)) gone++
++    if (old(at, now) && take(at)) gone++
+   }
+   return gone
+ }
 diff --git a/pages/carry/page-carry.module.ts b/pages/carry/page-carry.module.ts
 index 25d139391b8c4fd1067f9fb740bdc2f9391e68fc..25dd317aaf000a0a568f8e2809ca2db3ee1f3bec 100644
 --- a/pages/carry/page-carry.module.ts
@@ -63,6 +85,82 @@ index b05fd3b9d2c19b54e109bb2d060dd438939d3f7d..725cf90076c0d8aa8167cba4ad31d15a
      },
      {
        invariantKind: "departure",
+diff --git a/pages/landing-journal/page-landing-journal.module.ts b/pages/landing-journal/page-landing-journal.module.ts
+index 38880aee255c5db4cf3d7a5250a59eaf07a42140..a855d9de8ff45a08fc80bf556fca1aad5ab510f1 100644
+--- a/pages/landing-journal/page-landing-journal.module.ts
++++ b/pages/landing-journal/page-landing-journal.module.ts
+@@ -10,7 +10,7 @@ export const pageLandingJournal = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A journal is named for the checkout it stands for rather than for its writer.",
++      statement: "A journal is named for the checkout it represents rather than for its writer.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/pages/markdown-page-at/markdown-page-at.module.ts b/pages/markdown-page-at/markdown-page-at.module.ts
+index 9f029a9ee0af4b1c70199803a37897e2c6b3e49b..816b31e96a0e0ff41a2504fe12d5282fc4e5ffec 100644
+--- a/pages/markdown-page-at/markdown-page-at.module.ts
++++ b/pages/markdown-page-at/markdown-page-at.module.ts
+@@ -4,7 +4,7 @@ export const markdownPageAt = {
+   id: "01a05cc6-2a1c-738e-8e0d-5b9d45886508",
+   pageTypeSlug: "module",
+   slug: "markdown-page-at",
+-  definition: "which repository a markdown page stands in and where it stands inside it",
++  definition: "which repository a markdown page is in and where it is inside it",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/pages/named-file-properties/named-file-property.page-type.ts b/pages/named-file-properties/named-file-property.page-type.ts
+index 7ef4e36b938379701ee634a28b4f9457880ad8f5..c81a8a3f8feaf40686981b5a9819614638f43913 100644
+--- a/pages/named-file-properties/named-file-property.page-type.ts
++++ b/pages/named-file-properties/named-file-property.page-type.ts
+@@ -22,7 +22,7 @@ export const namedFileProperty = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the page states is the name its file stands under.",
++      statement: "What the page states is the name its file is under.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/pages/named-file-properties/properties/file-name.text-property.ts b/pages/named-file-properties/properties/file-name.text-property.ts
+index 6e0069f0e818c03fa03f74987939eca73020219c..a0511048ff239e8b2647e2974d8d0c04762cbb54 100644
+--- a/pages/named-file-properties/properties/file-name.text-property.ts
++++ b/pages/named-file-properties/properties/file-name.text-property.ts
+@@ -7,7 +7,7 @@ export const fileName = {
+   pageTypeSlug: "text-property",
+   slug: "file-name",
+   propertySlug: "file-name",
+-  definition: "the name a property's file stands under",
++  definition: "the name a property's file is under",
+   max: 100,
+   nameFormatSlug: null,
+   invariants: [
+diff --git a/pages/navs/properties/nav-parent.relation-property.ts b/pages/navs/properties/nav-parent.relation-property.ts
+index 3b59f003c4516c5844fca662e1990f11270cf90b..766b13a9d1e3ce757b74ae011fd9fde7cbd6616b 100644
+--- a/pages/navs/properties/nav-parent.relation-property.ts
++++ b/pages/navs/properties/nav-parent.relation-property.ts
+@@ -17,7 +17,7 @@ export const navParent = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A nav item naming no parent stands at the top.",
++      statement: "A nav item naming no parent is at the top.",
+     },
+   ],
+ } as const satisfies RelationProperty
+diff --git a/pages/navs/properties/show-count-badge.boolean-property.ts b/pages/navs/properties/show-count-badge.boolean-property.ts
+index 4ff47ffa6ec38be226d0f10b1dc3f2ec9b29c578..07d844e2cb277bb3e7dc28a42730b051beba93f9 100644
+--- a/pages/navs/properties/show-count-badge.boolean-property.ts
++++ b/pages/navs/properties/show-count-badge.boolean-property.ts
+@@ -7,5 +7,5 @@ export const showCountBadge = {
+   pageTypeSlug: "boolean-property",
+   slug: "show-count-badge",
+   propertySlug: "show-count-badge",
+-  definition: "whether a nav item carries how many pages stand under it",
++  definition: "whether a nav item carries how many pages are under it",
+ } as const satisfies BooleanProperty
 diff --git a/pages/process-properties/process-property.page-type.ts b/pages/process-properties/process-property.page-type.ts
 index 068956da81b379cb1c3f346b8170a331504fb4bb..e67abcc0f6abb8435fe6a7514f7ac43fa6cebbb3 100644
 --- a/pages/process-properties/process-property.page-type.ts
@@ -116,3 +214,16 @@ index 70477a469dc1ea4c889986d8a57e222c7b686bd0..b73894e061c317cb8992e2c8a29fc4e5
      },
      {
        invariantKind: "departure",
+diff --git a/pages/repo-path/repo-path.module.ts b/pages/repo-path/repo-path.module.ts
+index 53ae6a95ed5e47ebd7b3683b5c5e0a6455f902fc..ae40a439eeffddd59fa72730bfa06331316d3d09 100644
+--- a/pages/repo-path/repo-path.module.ts
++++ b/pages/repo-path/repo-path.module.ts
+@@ -4,7 +4,7 @@ export const repoPath = {
+   id: "01a05cc6-2a1c-751d-8813-33c04d9c2005",
+   pageTypeSlug: "module",
+   slug: "repo-path",
+-  definition: "a path spelled out in full, and whether it stands inside a repository",
++  definition: "a path spelled out in full, and whether it is inside a repository",
+   code: "ts",
+   invariants: [
+     {
