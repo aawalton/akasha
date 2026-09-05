@@ -30,7 +30,7 @@ import {
 test("a take-down is read whether or not its line opens with the time it was written", () => {
   const base = world.rootFor("subagent-census-logs-")
   logPut(base, SEAT_ID, [takeLine("akasha", OWN), `${STAMPED} ${takeLine("akasha", AGAIN)}`])
-  expect([...takenDownIn(base)].sort()).toEqual([`akasha ${AGAIN}`, `akasha ${OWN}`])
+  expect([...takenDownIn(base)].sort()).toEqual([`akasha ${OWN}`, `akasha ${AGAIN}`])
   world.sweep()
 })
 
