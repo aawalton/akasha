@@ -54,7 +54,7 @@ export const temperProgressThing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page here says what Alan has done or what Alan has left to do.",
+      statement: "A page here names a thing Alan has done or a thing Alan has left to do.",
     },
     {
       invariantKind: "departure",
