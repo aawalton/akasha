@@ -1,0 +1,13 @@
+diff --git a/alan/harness/monarch/eval-population/monarch-eval-population.module.ts b/alan/harness/monarch/eval-population/monarch-eval-population.module.ts
+index 19fd65d81e414988c340e5d839e822a20f3d7632..42c67d0c3cf7d3eb683fbbf0c7a8006bb0931dd7 100644
+--- a/alan/harness/monarch/eval-population/monarch-eval-population.module.ts
++++ b/alan/harness/monarch/eval-population/monarch-eval-population.module.ts
+@@ -34,7 +34,7 @@ export const monarchEvalPopulation = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A stratum with fewer rows than were asked for gives what it has rather than drawing from another.",
++        "A stratum with fewer rows than were asked for gives those rows rather than drawing from another.",
+     },
+     {
+       invariantKind: "absence",
