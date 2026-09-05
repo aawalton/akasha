@@ -21,7 +21,7 @@ import routes from "../../routes.ts"
 
 type Entry = { path?: string; index?: boolean; file: string; children?: readonly Entry[] }
 
-const APP_DIR = join(import.meta.dir, "..")
+const APP_DIR = join(import.meta.dir, "..", "..")
 
 /** The file the real route config gives a URL, resolved the way the server resolves it. */
 function resolvedFile(url: string): string | null {
@@ -56,13 +56,16 @@ const UNROUTED = ["/api/health-samples", "/api/health-sample", "/api/nope", "/ap
 
 test("an unrouted path under /api/ is no longer read as a page type and a page", () => {
   for (const path of UNROUTED) {
-    expect({ path, file: resolvedFile(path) }).toEqual({ path, file: "routes/api.$.ts" })
+    expect({ path, file: resolvedFile(path) }).toEqual({
+      path,
+      file: "routes/no-such-route/no-such-route.route.code.ts",
+    })
   }
 })
 
 test("the module the config names for a wrong api address declares an action", async () => {
   const file = resolvedFile("/api/health-samples")
-  expect(file).toBe("routes/api.$.ts")
+  expect(file).toBe("routes/no-such-route/no-such-route.route.code.ts")
   const answering = (await import(join(APP_DIR, file as string))) as {
     action?: (args: { request: Request }) => Response
     loader?: (args: { request: Request }) => Response
@@ -75,7 +78,7 @@ test("the module the config names for a wrong api address declares an action", a
 
 test("a wrong api address is answered 404 with the path it asked for in the body", async () => {
   const file = resolvedFile("/api/health-samples")
-  expect(file).toBe("routes/api.$.ts")
+  expect(file).toBe("routes/no-such-route/no-such-route.route.code.ts")
   const answering = (await import(join(APP_DIR, file as string))) as {
     action: (args: { request: Request }) => Response
     loader: (args: { request: Request }) => Response
@@ -102,7 +105,9 @@ test("a wrong api address is answered 404 with the path it asked for in the body
 })
 
 test("the 404 body never names the route the caller was reaching for", async () => {
-  const answering = (await import(join(APP_DIR, "routes/api.$.ts"))) as {
+  const answering = (await import(
+    join(APP_DIR, "routes/no-such-route/no-such-route.route.code.ts")
+  )) as {
     action: (args: { request: Request }) => Response
   }
   const posted = answering.action({
@@ -125,7 +130,9 @@ test("every declared route still resolves to the file that declares it", () => {
 
 test("the api splat loses to every api route the config declares", () => {
   const declared = declaredRoutes().filter(
-    (route) => route.path.startsWith("/api/") && route.file !== "routes/api.$.ts"
+    (route) =>
+      route.path.startsWith("/api/") &&
+      route.file !== "routes/no-such-route/no-such-route.route.code.ts"
   )
   expect(declared.length).toBeGreaterThan(30)
   for (const route of declared) {

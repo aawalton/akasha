@@ -65,5 +65,5 @@ export default [
 
   route("api/tracking/health-samples", "routes/api.tracking.health-samples.ts"),
 
-  route("api/*", "routes/api.$.ts"),
+  route("api/*", "routes/no-such-route/no-such-route.route.code.ts"),
 ] satisfies RouteConfig
