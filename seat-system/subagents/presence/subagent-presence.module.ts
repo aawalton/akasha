@@ -46,7 +46,8 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A call that wrote nothing answers why rather than answering that it did not.",
+      statement:
+        "A call that wrote nothing answers why rather than answering that the call did not.",
     },
     {
       invariantKind: "departure",
@@ -82,7 +83,7 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A page already there is left as it is.",
+      statement: "A page already there is left as that page is.",
     },
     {
       invariantKind: "departure",
