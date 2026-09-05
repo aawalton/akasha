@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/persona-system/persona-wallpaper-notifications/persona-wallpaper-notification.page-type.ts b/persona-system/persona-wallpaper-notifications/persona-wallpaper-notification.page-type.ts
+index 63c6183dd2c607f6903aabb7f47173b7b471871c..6b7b7f90a34fe3d786992476fa52e870ef748519 100644
+--- a/persona-system/persona-wallpaper-notifications/persona-wallpaper-notification.page-type.ts
++++ b/persona-system/persona-wallpaper-notifications/persona-wallpaper-notification.page-type.ts
+@@ -26,7 +26,7 @@ export const personaWallpaperNotification = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The page being there is the whole of what the page records.",
++      statement: "The page being there is the whole record.",
+     },
+     {
+       invariantKind: "departure",
