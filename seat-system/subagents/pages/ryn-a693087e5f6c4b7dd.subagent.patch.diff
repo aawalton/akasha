@@ -1,14 +1,20 @@
 runsWarrants: false
 diff --git a/readout-system/readout-unread/readout-unread.module.ts b/readout-system/readout-unread/readout-unread.module.ts
-index 95d923c8b148d09316093b3de265a0fa031eec99..b641795187ccb8f3e69dd59f81bff9977a69b921 100644
+index 95d923c8b148d09316093b3de265a0fa031eec99..3815f4afd76b9c1931fcee9be4d85ae3fe6f5c6d 100644
 --- a/readout-system/readout-unread/readout-unread.module.ts
 +++ b/readout-system/readout-unread/readout-unread.module.ts
-@@ -30,7 +30,7 @@ export const readoutUnread = {
+@@ -30,11 +30,12 @@ export const readoutUnread = {
      },
      {
        invariantKind: "departure",
 -      statement: "An empty figure is what names a light as unread.",
 +      statement: "An empty figure names a light as unread.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A light carrying no figure is named beside what the absence is.",
++      statement:
++        "A light carrying no figure is named beside the kind of absence that light carries.",
      },
      {
        invariantKind: "departure",
