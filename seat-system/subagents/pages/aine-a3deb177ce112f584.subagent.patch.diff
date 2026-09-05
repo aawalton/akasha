@@ -34,7 +34,7 @@ index d9569af5ebc5ec3b3fac78b21fab807bc8198d7e..34845be26f60b7795c23fa72dde84c20
    const said = await calling(["held", "one"], { ...OUTSIDE, root })
    expect(said.code).toBe(0)
 diff --git a/command-system/change-freshness/change-freshness.module.test.ts b/command-system/change-freshness/change-freshness.module.test.ts
-index fcd3cf932790e7ce0d14de2a5172db5246ba80e7..85b946df467a52dd0ce57bc5ef38ccde28d9b5fc 100644
+index fcd3cf932790e7ce0d14de2a5172db5246ba80e7..15c8fd6b48ae6090b8201a2a766442062ec13b90 100644
 --- a/command-system/change-freshness/change-freshness.module.test.ts
 +++ b/command-system/change-freshness/change-freshness.module.test.ts
 @@ -21,7 +21,7 @@ const AT = "akasha/a.domain.ts"
@@ -76,6 +76,15 @@ index fcd3cf932790e7ce0d14de2a5172db5246ba80e7..85b946df467a52dd0ce57bc5ef38ccde
    const root = repoWith(PAGES)
    expect(movedOnDisk(root, [asRead("akasha/nowhere.ts", blobIdOf(bytes(A)))])).toEqual([
      "akasha/nowhere.ts",
+@@ -72,7 +72,7 @@ test("a path no reading was recorded for is held to nothing", () => {
+   expect(movedOnDisk(root, [])).toEqual([])
+ })
+ 
+-test("a body standing as its writer read it is written rather than refused", async () => {
++test("a body still as its writer read it is written rather than refused", async () => {
+   const root = repoWith(PAGES)
+   const said = await landing(
+     root,
 diff --git a/command-system/cli/cli.module.test.ts b/command-system/cli/cli.module.test.ts
 index 8d13555eb54c4d8057ae05f08b4dae16f1fd1e91..120890e9604a339e793dd37cfda985a59ce20dae 100644
 --- a/command-system/cli/cli.module.test.ts
