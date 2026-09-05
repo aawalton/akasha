@@ -1,0 +1,13 @@
+diff --git a/code-system/carried-file/carried-file.module.ts b/code-system/carried-file/carried-file.module.ts
+index 4e6bf0438bd1167a3a2a1bf6843e9d2d54ac91a8..a9fd4cb859a5196e02383359ff0232971c18d678 100644
+--- a/code-system/carried-file/carried-file.module.ts
++++ b/code-system/carried-file/carried-file.module.ts
+@@ -18,7 +18,7 @@ export const carriedFile = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A carrier states the byte count and the sha256 of what it carries.",
++      statement: "A carrier states the byte count and the sha256 of what that carrier carries.",
+     },
+     {
+       invariantKind: "departure",
