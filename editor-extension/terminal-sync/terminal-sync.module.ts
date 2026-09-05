@@ -25,7 +25,7 @@ export const terminalSync = {
     },
     {
       invariantKind: "departure",
-      statement: "A color is found by the agent id the seat name resolves to.",
+      statement: "A terminal is given the color its caller worked out rather than finding one.",
     },
     {
       invariantKind: "departure",
@@ -37,8 +37,7 @@ export const terminalSync = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A terminal whose shell is not in the ps snapshot keeps the name that terminal has.",
+      statement: "A terminal whose shell is no longer running keeps the name that terminal has.",
     },
     {
       invariantKind: "departure",

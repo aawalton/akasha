@@ -22,6 +22,7 @@ export const editorExtension = {
     "module/status-bar-legends",
     "module/status-bar-slots",
     "module/seat-mode",
+    "module/shell-naming",
     "module/agent-tree-ids",
     "module/seat-page",
     "module/palette",

@@ -1,5 +1,5 @@
 import type * as vscode from "vscode"
-import type { PsRow } from "../terminal-lookup/terminal-lookup.module.code.ts"
+import { shellNameOf } from "../shell-naming/shell-naming.module.code.ts"
 import {
   lastAppliedByTerminal,
   lastColorByTerminal,
@@ -13,18 +13,11 @@ import {
 
 export function syncColor(
   term: vscode.Terminal,
-  name: string | undefined,
-  seatAgentIds: ReadonlyMap<string, string>,
-  colors: ReadonlyMap<string, string> | undefined,
+  color: string | undefined,
   shellPid: number,
   trigger: string,
   output: vscode.OutputChannel
 ): void {
-  if (colors === undefined) {
-    return
-  }
-  const agentId = name === undefined ? undefined : seatAgentIds.get(name)
-  const color = agentId === undefined ? undefined : colors.get(agentId)
   if (color === undefined) {
     if (!lastColorByTerminal.has(term)) {
       return
@@ -47,9 +40,7 @@ export async function syncTerminal(
   name: string | undefined,
   index: number,
   of: number,
-  seatAgentIds: ReadonlyMap<string, string>,
-  psRows: readonly PsRow[],
-  colors: ReadonlyMap<string, string> | undefined,
+  color: string | undefined,
   trigger: string,
   output: vscode.OutputChannel
 ): Promise<void> {
@@ -70,18 +61,18 @@ export async function syncTerminal(
     return
   }
   const shellPid = reading.pid
-  syncColor(term, name, seatAgentIds, colors, shellPid, trigger, output)
+  syncColor(term, color, shellPid, trigger, output)
   if (name === undefined) {
     if (!lastAppliedByTerminal.has(term)) {
       return
     }
     const wasMarkedSilent = lastAppliedByTerminal.get(term) === SILENT_TERMINAL_NAME
     const reason = wasMarkedSilent ? "answered at last" : "seat gone"
-    const shellComm = psRows.find((r) => r.pid === shellPid)?.comm ?? ""
+    const shellComm = shellNameOf(shellPid)
     lastAppliedByTerminal.delete(term)
     if (shellComm === "") {
       output.appendLine(
-        `[${trigger}] terminal shell=${shellPid} → reset skipped (shell pid not in ps snapshot)`
+        `[${trigger}] terminal shell=${shellPid} → reset skipped (no process under that pid)`
       )
       return
     }

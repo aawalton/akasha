@@ -1,19 +1,10 @@
 import * as vscode from "vscode"
+import { followState } from "../../alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts"
+import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
 import {
   recordObservation,
   recordSweep,
 } from "../observation-store/observation-store.module.code.ts"
-import { agentIdsForSeatNames, seatNamesThatExist } from "../seat-page/seat-page.module.code.ts"
-import {
-  readSeatTurnColors,
-  SEAT_SIDECAR_GLOB,
-  seatDirs,
-} from "../seat-turn-colors/seat-turn-colors.module.code.ts"
-import {
-  loadPsRows,
-  loadTmuxClients,
-  seatNameForShellPid,
-} from "../terminal-lookup/terminal-lookup.module.code.ts"
 import {
   lastAppliedByTerminal,
   lastColorByTerminal,
@@ -26,130 +17,87 @@ import {
 import { syncTerminal } from "../terminal-sync/terminal-sync.module.code.ts"
 
 const FEATURE = "terminal-rename"
-
-const POLL_INTERVAL_MS = 1_000
+const SLUG = "terminal-tabs"
 
 let output: vscode.OutputChannel
+
+// The seat each terminal sits on, as the service last wrote it. Null until one has been read, and
+// a run over a null picture would name every terminal as seatless and reset the lot, so a run over
+// one is not made at all.
+let tabs: TerminalTabsState | null = null
 
 export async function activate(context: vscode.ExtensionContext): Promise<void> {
   output = vscode.window.createOutputChannel("Ops")
   context.subscriptions.push(output)
-  output.appendLine(`activated; watching ${seatDirs().join(", ")}`)
 
-  void syncAll("activate")
+  const reading = followState<TerminalTabsState>(akashaRoot(), SLUG, (held) => {
+    tabs = held
+    void applyAll("tabs")
+    return undefined
+  })
 
-  const timer = setInterval(() => void syncAll("poll"), POLL_INTERVAL_MS)
-
-  const sidecarWatchers = seatDirs().map((dir) =>
-    vscode.workspace.createFileSystemWatcher(
-      new vscode.RelativePattern(vscode.Uri.file(dir), SEAT_SIDECAR_GLOB)
-    )
-  )
-  const pageWatchers = seatDirs().map((dir) =>
-    vscode.workspace.createFileSystemWatcher(
-      new vscode.RelativePattern(vscode.Uri.file(dir), "*.md")
-    )
-  )
   context.subscriptions.push(
-    { dispose: () => clearInterval(timer) },
-    ...sidecarWatchers.flatMap((seats) => [
-      seats,
-      seats.onDidChange(() => void syncAll("seat")),
-      seats.onDidCreate(() => void syncAll("seat-new")),
-      seats.onDidDelete(() => void syncAll("seat-gone")),
-    ]),
-    ...pageWatchers.flatMap((pages) => [
-      pages,
-      pages.onDidChange(() => void syncAll("seat-page")),
-      pages.onDidCreate(() => void syncAll("seat-page")),
-      pages.onDidDelete(() => void syncAll("seat-page")),
-    ]),
-    vscode.window.onDidOpenTerminal(() => void syncAll("open")),
-    vscode.window.onDidChangeActiveTerminal(() => void syncAll("focus")),
+    {
+      dispose: () => {
+        reading.stop()
+      },
+    },
+    vscode.window.onDidOpenTerminal(() => void applyAll("open")),
+    vscode.window.onDidChangeActiveTerminal(() => void applyAll("focus")),
     vscode.window.onDidCloseTerminal((t) => {
       lastAppliedByTerminal.delete(t)
       lastColorByTerminal.delete(t)
     }),
-    vscode.commands.registerCommand("agentTerminalName.syncNow", () => syncAll("manual"))
+    vscode.commands.registerCommand("agentTerminalName.syncNow", () => applyAll("manual"))
   )
+  output.appendLine(`activated; reading what the service writes for ${SLUG}`)
 }
 
-let sweeping: Promise<void> | undefined
+let applying: Promise<void> | undefined
 
-async function syncAll(trigger: string): Promise<void> {
-  const inFlight = sweeping
+async function applyAll(trigger: string): Promise<void> {
+  const inFlight = applying
   if (inFlight !== undefined) {
-    output.appendLine(`[${trigger}] a sweep is already in flight — waiting for it`)
     await inFlight
     return
   }
-  const started = sweepOnce(trigger)
-  sweeping = started
+  const started = applyOnce(trigger)
+  applying = started
   try {
     await started
   } finally {
-    sweeping = undefined
+    applying = undefined
   }
 }
 
-async function sweepOnce(trigger: string): Promise<void> {
+// A terminal answers its own process id and nothing else names a seat, so the pid is what the seat
+// is looked up by. Every other fact this used to work out — which seats are there, which shell
+// each tmux client runs under, what color each turn is — the service worked out once for the
+// workstation and wrote in the picture above.
+async function applyOnce(trigger: string): Promise<void> {
+  const held = tabs
+  if (held === null) return
   const terminals = vscode.window.terminals
-  if (terminals.length === 0) {
-    return
-  }
+  if (terminals.length === 0) return
   try {
-    const psRows = await loadPsRows()
-    if (psRows.length === 0) {
-      return
-    }
-    const [seatNames, tmuxClients] = await Promise.all([seatNamesThatExist(), loadTmuxClients()])
     const began = Date.now()
     const readings = await readProcessIds(terminals)
     const ms = Date.now() - began
-    recordSweep(FEATURE, {
-      ...tally(readings),
-      boundMs: PROCESS_ID_TIMEOUT_MS,
-      ms,
-      trigger,
-    })
-    const resolvedSeatNames = readings.map((reading) =>
-      reading.outcome === "read"
-        ? seatNameForShellPid(reading.pid, seatNames, psRows, tmuxClients)
-        : undefined
-    )
-    let seatAgentIds: ReadonlyMap<string, string> = new Map<string, string>()
-    let colors: ReadonlyMap<string, string> | undefined
-    try {
-      seatAgentIds = await agentIdsForSeatNames(
-        resolvedSeatNames.filter((name): name is string => name !== undefined)
-      )
-      colors = await readSeatTurnColors([...new Set(seatAgentIds.values())])
-    } catch (err) {
-      output.appendLine(
-        `[${trigger}] turn colors unread, every tab keeps the color it has: ${String(err)}`
-      )
-    }
+    recordSweep(FEATURE, { ...tally(readings), boundMs: PROCESS_ID_TIMEOUT_MS, ms, trigger })
     await Promise.all(
-      readings.map((reading, index) =>
-        syncTerminal(
-          reading,
-          resolvedSeatNames[index],
-          index,
-          terminals.length,
-          seatAgentIds,
-          psRows,
-          colors,
-          trigger,
-          output
-        )
-      )
+      readings.map((reading, index) => {
+        const name =
+          reading.outcome === "read" ? held.seatByShellPid[String(reading.pid)] : undefined
+        const color = name === undefined ? undefined : held.colorBySeat[name]
+        return syncTerminal(reading, name, index, terminals.length, color, trigger, output)
+      })
     )
     recordObservation(FEATURE, {
       outcome: "ok",
       counts: { named: lastAppliedByTerminal.size, colored: lastColorByTerminal.size },
     })
   } catch (err) {
-    output.appendLine(`[${trigger}] sweep failed: ${String(err)}`)
+    output.appendLine(`[${trigger}] naming failed: ${String(err)}`)
     recordObservation(FEATURE, { outcome: "failed", failure: String(err) })
   }
 }
