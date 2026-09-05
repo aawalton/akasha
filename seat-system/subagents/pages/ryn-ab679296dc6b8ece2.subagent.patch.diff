@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/infrastructure/ci-benchmark/ci-benchmark.workspace-package.ts b/infrastructure/ci-benchmark/ci-benchmark.workspace-package.ts
+index 917638673bed8eaf67529f7a6a55e4ff9fc4d35f..638c6d793b03aa41708dcc5dcd1bb4aa0a74bceb 100644
+--- a/infrastructure/ci-benchmark/ci-benchmark.workspace-package.ts
++++ b/infrastructure/ci-benchmark/ci-benchmark.workspace-package.ts
+@@ -26,7 +26,8 @@ export const ciBenchmark = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A failure outside the declared set invalidates the run rather than failing it.",
++      statement:
++        "A failure outside the declared set invalidates the run rather than failing that run.",
+     },
+     {
+       invariantKind: "departure",
