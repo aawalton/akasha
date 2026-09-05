@@ -14,3 +14,19 @@ index d87d7cd847a2db7cd18c619a8ea99f08a0f315b1..5a66b60214d986a808c2dcc299d7e739
      {
        invariantKind: "departure",
        statement: "A flag under an act that does not take that flag is refused.",
+diff --git a/command-system/commands/drive/drive.command.ts b/command-system/commands/drive/drive.command.ts
+index c125da75bec87135abf82e4e4fc3d9174c267264..03149b70bded6303fbe78da879c72146df3e3bf6 100644
+--- a/command-system/commands/drive/drive.command.ts
++++ b/command-system/commands/drive/drive.command.ts
+@@ -82,10 +82,7 @@ export const drive = {
+       invariantKind: "departure",
+       statement: "A Drive name that cannot be written to disk is answered as operational.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A minted refresh token is written out and held nowhere.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here writes to Drive.",
