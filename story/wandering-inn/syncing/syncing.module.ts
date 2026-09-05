@@ -52,7 +52,7 @@ export const syncing = {
     },
     {
       invariantKind: "departure",
-      statement: "A run that only says what the run would file is not recorded as a run.",
+      statement: "A run that only says the chapters the run would file is not recorded as a run.",
     },
   ],
 } as const satisfies Module
