@@ -34,7 +34,7 @@ export const storyWikiEntry = {
     {
       invariantKind: "departure",
       statement:
-        "An entry says what the story has established rather than what the design intends.",
+        "An entry says the truths the story has established rather than the truths the design intends.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +42,7 @@ export const storyWikiEntry = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry about what has been set up but not yet paid off is a seed.",
+      statement: "An entry about a setup not yet paid off is a seed.",
     },
     {
       invariantKind: "departure",
