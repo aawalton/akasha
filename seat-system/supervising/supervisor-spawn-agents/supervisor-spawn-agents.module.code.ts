@@ -1,13 +1,12 @@
-import { existsSync } from "node:fs"
-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 import { shape } from "@akasha/utils-narrow/shape"
-import type { Definition } from "../../compose-subagents/compose-subagents.module.code.ts"
+import {
+  type Definition,
+  everyKind,
+} from "../../compose-subagents/compose-subagents.module.code.ts"
 
 const LOG = "[spawn-agents]"
 
-const COMPOSE_COMMAND = "compose-subagents"
-
-const COMPOSE_TIMEOUT_MS = 5_000
+const COMPOSE_MODULE = "compose-subagents"
 
 const DELEGATION_TOOL = "Agent"
 
@@ -18,42 +17,33 @@ const DELEGATION_OFF =
 
 const AGENT_MAP = shape.record(shape.string(), shape.unknown())
 
-// The specifier here is the one the type import of Definition above holds, so moving the
-// compose module is a diagnostic rather than a path that is not there when a seat spawns.
-const COMPOSE_AT = new URL(
-  "../../compose-subagents/compose-subagents.module.code.ts",
-  import.meta.url
-).pathname
-
-/** What compose-subagents writes to stdout: the map its own kindsIn returns. */
-type SubagentDefinitions = Readonly<Record<string, Definition>>
-
-export function renderSubagentDefinitions(raw: string): string | null {
-  let parsed: ReturnType<typeof AGENT_MAP.safeParse>
-  try {
-    parsed = AGENT_MAP.safeParse(JSON.parse(raw) as SubagentDefinitions)
-  } catch {
-    return null
-  }
+/** The composed map as the client's `--agents` flag takes it, or nothing where it holds none. */
+export function renderSubagentDefinitions(
+  composed: Readonly<Record<string, Definition>>
+): string | null {
+  const parsed = AGENT_MAP.safeParse(composed)
   if (!parsed.success) return null
   if (Object.keys(parsed.data).length === 0) return null
   return JSON.stringify(parsed.data)
 }
 
-export async function resolveSubagentDefinitions(): Promise<string | null> {
-  const result = await composed()
-  if ("reason" in result) {
-    console.error(`${LOG} subagent definitions NOT loaded: ${result.reason}. ${DELEGATION_OFF}`)
-    return null
-  }
-  const rendered = renderSubagentDefinitions(result.out)
-  if (rendered === null) {
+export function resolveSubagentDefinitions(): Promise<string | null> {
+  try {
+    const rendered = renderSubagentDefinitions(everyKind())
+    if (rendered === null) {
+      console.error(
+        `${LOG} subagent definitions NOT loaded: ${COMPOSE_MODULE} answered no definition at ` +
+          `all. ${DELEGATION_OFF}`
+      )
+    }
+    return Promise.resolve(rendered)
+  } catch (error) {
+    const said = error instanceof Error ? error.message : String(error)
     console.error(
-      `${LOG} subagent definitions NOT loaded: ${COMPOSE_COMMAND} did not return a non-empty ` +
-        `JSON object of definitions. ${DELEGATION_OFF}`
+      `${LOG} subagent definitions NOT loaded: ${COMPOSE_MODULE} threw (${said}). ${DELEGATION_OFF}`
     )
+    return Promise.resolve(null)
   }
-  return rendered
 }
 
 export function disallowedToolsForLaunch(
@@ -62,64 +52,4 @@ export function disallowedToolsForLaunch(
 ): readonly string[] {
   if (agentsJson !== null) return declared
   return [...declared, DELEGATION_TOOL]
-}
-
-async function composed(): Promise<{ out: string } | { reason: string }> {
-  try {
-    const answer = await runInstructions(COMPOSE_COMMAND, COMPOSE_TIMEOUT_MS)
-    if (answer.code === 0) return { out: answer.stdout }
-    const said = answer.stderr.trim()
-    return { reason: `${COMPOSE_COMMAND} exited ${answer.code}${said === "" ? "" : ` (${said})`}` }
-  } catch (error) {
-    return { reason: `${COMPOSE_COMMAND} could not be run (${String(error)})` }
-  }
-}
-
-interface InstructionsAnswer {
-  readonly stdout: string
-  readonly stderr: string
-  readonly code: number
-}
-
-async function runInstructions(verb: string, ceilingMs: number): Promise<InstructionsAnswer> {
-  const root = akashaRoot()
-  if (!existsSync(root))
-    throw new Error(
-      `${verb}: the akasha root ${root} is not there, so no command under it ` +
-        "can be run. Nothing is wrong with bun. Set AKASHA_ROOT to a checkout."
-    )
-
-  const proc = Bun.spawn({
-    cmd: [process.execPath, COMPOSE_AT],
-    cwd: root,
-    stdin: "ignore",
-    stdout: "pipe",
-    stderr: "pipe",
-  })
-
-  let killedAtCeiling = false
-  const ceiling = setTimeout(() => {
-    killedAtCeiling = true
-    proc.kill()
-  }, ceilingMs)
-  let stdout: string
-  let stderr: string
-  let code: number
-  try {
-    ;[stdout, stderr, code] = await Promise.all([
-      new Response(proc.stdout).text(),
-      new Response(proc.stderr).text(),
-      proc.exited,
-    ])
-  } finally {
-    clearTimeout(ceiling)
-  }
-
-  if (killedAtCeiling)
-    throw new Error(
-      `${verb}: ${COMPOSE_AT} was still running after ${ceilingMs}ms and was ` +
-        "killed, so nothing it decides is decided. It is stuck rather than slow."
-    )
-
-  return { stdout, stderr, code }
 }

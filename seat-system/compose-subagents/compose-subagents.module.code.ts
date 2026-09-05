@@ -134,24 +134,26 @@ export function kindsIn(
   return definitions
 }
 
-function main(): void {
-  const { out } = parse(process.argv.slice(2))
+// What an importer asks for: every kind there is, in one map. It throws rather than answering
+// with nothing, so a caller is the one that decides what nothing means for it.
+export function everyKind(): Readonly<Record<string, Definition>> {
   const root = rootFor(resolveRoots(), AKASHA)
-  let listed: readonly Listed[]
-  try {
-    listed = everyOfType(root, PAGE_TYPE)
-  } catch (error) {
-    fail(error instanceof Error ? error.message : String(error))
-  }
+  const listed: readonly Listed[] = everyOfType(root, PAGE_TYPE)
   // An index naming none is not a cast of none: a seat that renders an empty map is told
   // delegation is off, so refuse rather than answer with nothing.
-  if (listed.length === 0) fail(`no \`${PAGE_TYPE}\` page is there, so there is no kind to render`)
+  if (listed.length === 0)
+    throw new Error(`no \`${PAGE_TYPE}\` page is there, so there is no kind to render`)
+  return kindsIn(
+    root,
+    [...listed].sort((one, two) => (one.path < two.path ? -1 : 1))
+  )
+}
+
+function main(): void {
+  const { out } = parse(process.argv.slice(2))
   let definitions: Readonly<Record<string, Definition>>
   try {
-    definitions = kindsIn(
-      root,
-      [...listed].sort((one, two) => (one.path < two.path ? -1 : 1))
-    )
+    definitions = everyKind()
   } catch (error) {
     fail(error instanceof Error ? error.message : String(error))
   }

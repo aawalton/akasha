@@ -9,7 +9,7 @@ export const composeSubagents = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This module is run as its own program, killed at a ceiling by what asks it.",
+      statement: "What asks for the kinds imports this and calls it rather than running it.",
     },
     {
       invariantKind: "departure",
@@ -30,10 +30,6 @@ export const composeSubagents = {
     {
       invariantKind: "departure",
       statement: "The pages are read by a relative path within akasha rather than by a specifier.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "The old copy at tools/compose-subagents.ts is still there and still has readers.",
     },
   ],
 } as const satisfies Module

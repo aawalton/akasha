@@ -13,7 +13,7 @@ export const supervisorBootPrompt = {
     },
     {
       invariantKind: "departure",
-      statement: "Composing past its ceiling is abandoned and the seat spawns without a prompt.",
+      statement: "A composing that throws is caught and the seat spawns without a prompt.",
     },
     {
       invariantKind: "departure",

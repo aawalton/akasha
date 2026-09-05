@@ -9,12 +9,11 @@ export const supervisorSpawnAgents = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The definitions are composed by a child, killed at a ceiling, rather than here.",
+      statement: "The definitions are composed by the compose module rather than here.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The compose module is reached beside this one rather than by a path from the root.",
+      statement: "The compose module is imported from beside this one and its function called.",
     },
     {
       invariantKind: "departure",
