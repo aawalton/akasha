@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/inference-pool/cop-admin/cop-admin.module.ts b/infrastructure/inference-pool/cop-admin/cop-admin.module.ts
+index a3f7568a14ddb3cf6f4e56ca22df85bf5e9c9ec9..73fcda93daba3a98e6d152c3584f4c9fb877bd37 100644
+--- a/infrastructure/inference-pool/cop-admin/cop-admin.module.ts
++++ b/infrastructure/inference-pool/cop-admin/cop-admin.module.ts
+@@ -14,7 +14,7 @@ export const copAdmin = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A cop that answers something other than what is expected is raised as an operational failure.",
++        "A cop that answers something other than the expected answer is raised as an operational failure.",
+     },
+   ],
+ } as const satisfies Module
