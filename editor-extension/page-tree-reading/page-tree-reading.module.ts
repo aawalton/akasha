@@ -34,7 +34,7 @@ export const pageTreeReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A row naming a checkout this does not hold opens no document.",
+      statement: "A row naming a checkout this module does not hold opens no document.",
     },
     {
       invariantKind: "departure",

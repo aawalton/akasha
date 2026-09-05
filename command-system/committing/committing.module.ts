@@ -112,11 +112,11 @@ export const committing = {
     },
     {
       invariantKind: "absence",
-      statement: "A caller has written what it asked for before this is reached.",
+      statement: "A caller has written what it asked for before this module is reached.",
     },
     {
       invariantKind: "absence",
-      statement: "A caller puts back what it asked for itself where this throws.",
+      statement: "A caller puts back what it asked for itself where this module throws.",
     },
   ],
 } as const satisfies Module

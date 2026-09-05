@@ -9,7 +9,7 @@ export const refactorLanding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every act respelling bodies lands them through this.",
+      statement: "Every act respelling bodies lands them through this module.",
     },
     {
       invariantKind: "departure",

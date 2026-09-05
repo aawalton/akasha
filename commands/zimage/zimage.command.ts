@@ -48,7 +48,7 @@ export const zimage = {
     },
     {
       invariantKind: "departure",
-      statement: "The flags this takes are the flags mflux-generate takes.",
+      statement: "The flags this command takes are the flags mflux-generate takes.",
     },
     {
       invariantKind: "departure",

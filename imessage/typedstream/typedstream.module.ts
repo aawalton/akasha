@@ -11,7 +11,7 @@ export const typedstream = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A body this cannot read answers with nothing rather than failing.",
+      statement: "A body this module cannot read answers with nothing rather than failing.",
     },
     {
       invariantKind: "departure",

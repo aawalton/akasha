@@ -57,7 +57,7 @@ export const codeTokens = {
     },
     {
       invariantKind: "gap",
-      statement: "This reads a body without a parser where the tree already carries one.",
+      statement: "This module reads a body without a parser where the tree already carries one.",
     },
   ],
 } as const satisfies Module

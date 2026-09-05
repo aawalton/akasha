@@ -43,7 +43,7 @@ export const complexity = {
     },
     {
       invariantKind: "departure",
-      statement: "An act this does not carry is refused rather than answered as nothing.",
+      statement: "An act this command does not carry is refused rather than answered as nothing.",
     },
     {
       invariantKind: "departure",

@@ -23,7 +23,7 @@ export const chainRefusal = {
     {
       invariantKind: "departure",
       statement:
-        "A hook judging every call it cuts the same way binds this rather than spelling the loop.",
+        "A hook judging every call it cuts the same way binds this module rather than spelling the loop.",
     },
     {
       invariantKind: "absence",
