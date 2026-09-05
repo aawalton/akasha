@@ -38,13 +38,16 @@ export type Loaded = {
   readonly failed: string | null
 }
 
-export function loadedFrom(body: string): Loaded {
+export function declaredIn(body: string): Record<string, unknown> {
   const on = transpiler()
+  const named = on.scan(body).exports.filter((one) => one !== DEFAULT && NAMED.test(one))
+  const js = on.transformSync(body).replace(EXPORTED, "")
+  return new Function(`${js}\nreturn {${named.join(",")}}`)() as Record<string, unknown>
+}
+
+export function loadedFrom(body: string): Loaded {
   try {
-    const named = on.scan(body).exports.filter((one) => one !== DEFAULT && NAMED.test(one))
-    const js = on.transformSync(body).replace(EXPORTED, "")
-    const declared = new Function(`${js}\nreturn {${named.join(",")}}`)() as Record<string, unknown>
-    return { value: firstValueIn(declared), failed: null }
+    return { value: firstValueIn(declaredIn(body)), failed: null }
   } catch (why) {
     return { value: null, failed: why instanceof Error ? why.message : String(why) }
   }
