@@ -14,7 +14,7 @@ export const changeRestated = {
     },
     {
       invariantKind: "departure",
-      statement: "A restated change leaves what a page means unchanged.",
+      statement: "A restated change leaves a page's meaning unchanged.",
     },
     {
       invariantKind: "departure",
