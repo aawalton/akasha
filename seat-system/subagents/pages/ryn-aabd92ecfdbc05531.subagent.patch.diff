@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-watcher/watcher-signed-in-user/watcher-signed-in-user.module.ts b/temper/temper-watcher/watcher-signed-in-user/watcher-signed-in-user.module.ts
+index ea26217361a9a9ecfde4527ea748ea246625e608..915175536cb6be35160884b972919d744888349a 100644
+--- a/temper/temper-watcher/watcher-signed-in-user/watcher-signed-in-user.module.ts
++++ b/temper/temper-watcher/watcher-signed-in-user/watcher-signed-in-user.module.ts
+@@ -30,7 +30,7 @@ export const watcherSignedInUser = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A refusal carries what the session said was wrong.",
++      statement: "A refusal carries the error the session named.",
+     },
+     {
+       invariantKind: "departure",
