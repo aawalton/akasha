@@ -24,6 +24,45 @@ index 2cb69b937de030032513a73af138d6a2f65e04d5..50a10a405158e0c201ed1aa5730d84a9
    ],
    helpNotes: [
      "each attachment is named with its filename, its type, its size and the id its bytes are fetched by.",
+diff --git a/google/email/commands/email-command-reading/email-command-reading.module.code.ts b/google/email/commands/email-command-reading/email-command-reading.module.code.ts
+index 287e715ca07036e08f9ab03ed7655b1a1640e9c2..8cba335f1c78c4f62b9395d9d4adac86163829e9 100644
+--- a/google/email/commands/email-command-reading/email-command-reading.module.code.ts
++++ b/google/email/commands/email-command-reading/email-command-reading.module.code.ts
+@@ -133,7 +133,7 @@ export function readTaking(argv: readonly string[], taking: Taking): Read {
+   const first = words[0]
+   if (first !== undefined) {
+     if (named === undefined) {
+-      refusals.push(`\`${first}\` follows this command, which takes no word standing on its own`)
++      refusals.push(`\`${first}\` follows this command, which takes no word on its own`)
+     } else if (one[named] !== undefined) {
+       refusals.push(`what \`${named}\` names is said both as \`${first}\` and at \`${named}\``)
+     } else {
+diff --git a/google/email/commands/email-command-reading/email-command-reading.module.test.ts b/google/email/commands/email-command-reading/email-command-reading.module.test.ts
+index e8be5ceca90e799f9f4de625ae226acc6a03f331..3caff34bd1afe1b347fe823468261c834d395796 100644
+--- a/google/email/commands/email-command-reading/email-command-reading.module.test.ts
++++ b/google/email/commands/email-command-reading/email-command-reading.module.test.ts
+@@ -33,7 +33,7 @@ function givenAt(root: string): Given {
+ 
+ const TTY = () => ({ tty: true }) as const
+ 
+-test("a word standing alone fills the flag the command names for it", () => {
++test("a word alone fills the flag the command names for it", () => {
+   expect(readTaking(["18c1f2a3"], NAMING)).toEqual({ one: { [MESSAGE]: "18c1f2a3" }, many: {} })
+ })
+ 
+diff --git a/google/email/commands/email-command-reading/email-command-reading.module.ts b/google/email/commands/email-command-reading/email-command-reading.module.ts
+index 59121ac955d6c63a7e9aa2623be65c963551bd34..6662f18d6aafeae346bd349a873894020521f9de 100644
+--- a/google/email/commands/email-command-reading/email-command-reading.module.ts
++++ b/google/email/commands/email-command-reading/email-command-reading.module.ts
+@@ -22,7 +22,7 @@ export const emailCommandReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A word standing alone fills the flag the command names for it.",
++      statement: "A word alone fills the flag the command names for it.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/google/email/commands/email-messages-archive/email-messages-archive.command.ts b/google/email/commands/email-messages-archive/email-messages-archive.command.ts
 index 4beb519ff3fc0bff46d35a9fb211d97661a14a5c..91ba01cc99e2e7bc4cff4bed7b68e58f92285d84 100644
 --- a/google/email/commands/email-messages-archive/email-messages-archive.command.ts
