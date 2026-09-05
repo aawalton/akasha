@@ -1,0 +1,14 @@
+diff --git a/temper/temper-upstream-data/temper-upstream-data.workspace-package.ts b/temper/temper-upstream-data/temper-upstream-data.workspace-package.ts
+index e79c37b1c91884aa09978e26d9d8ad64df213a27..fe409c983d5b076ff3b5619fc8344fa68f2d462b 100644
+--- a/temper/temper-upstream-data/temper-upstream-data.workspace-package.ts
++++ b/temper/temper-upstream-data/temper-upstream-data.workspace-package.ts
+@@ -51,5 +51,9 @@ export const temperUpstreamData = {
+       invariantKind: "departure",
+       statement: "A library is ported by the one module named for that library.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The checkout the ported file lands in is named by the caller.",
++    },
+   ],
+ } as const satisfies WorkspacePackage
