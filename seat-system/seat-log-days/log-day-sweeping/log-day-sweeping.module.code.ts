@@ -34,14 +34,20 @@ export function cutoffFrom(nowMs: number, keepDays: number): string {
   return new Date(nowMs - keepDays * DAY_MS).toISOString().slice(0, 10)
 }
 
-export function daysIn(root: string): readonly DayFacts[] {
+export interface DaysRead {
+  readonly days: readonly DayFacts[]
+  readonly unjudged: readonly string[]
+}
+
+export function daysIn(root: string): DaysRead {
   let names: readonly string[]
   try {
     names = readdirSync(join(root, DAYS_AT))
   } catch {
-    return []
+    return { days: [], unjudged: [] }
   }
   const found: DayFacts[] = []
+  const unjudged: string[] = []
   for (const name of names) {
     if (!name.endsWith(PAGE_SUFFIX)) continue
     const relPath = `${DAYS_AT}/${name}`
@@ -49,13 +55,17 @@ export function daysIn(root: string): readonly DayFacts[] {
     try {
       text = readFileSync(join(root, relPath), "utf8")
     } catch {
+      unjudged.push(name)
       continue
     }
     const said = DATE.exec(text)
-    if (said === null) continue
+    if (said === null) {
+      unjudged.push(name)
+      continue
+    }
     found.push({ relPath, name: name.slice(0, -PAGE_SUFFIX.length), date: said[1] as string })
   }
-  return found
+  return { days: found, unjudged }
 }
 
 function removeLines(root: string, relPath: string): void {
@@ -99,8 +109,18 @@ async function main(argv: readonly string[]): Promise<number> {
   const root = rootFor(resolveRoots(), AKASHA)
   const cutoff = cutoffFrom(Date.now(), keepDays)
 
-  const days = daysIn(root)
+  const read = daysIn(root)
+  const days = read.days
   const rotate = days.filter((one) => decideDay(one.date, cutoff) === "rotate")
+
+  // A day this cannot read a date from is left alone. Saying so is what keeps a folder growing
+  // behind a clean answer from reading as a folder holding nothing to take.
+  if (read.unjudged.length > 0) {
+    process.stderr.write(
+      `${read.unjudged.length} log day(s) state no date this can read, so none is judged: ` +
+        `${read.unjudged.join(", ")}\n`
+    )
+  }
 
   for (const one of rotate) process.stdout.write(`${one.name}\t${one.date}\n`)
 

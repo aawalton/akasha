@@ -22,6 +22,10 @@ export const logDaySweeping = {
     },
     {
       invariantKind: "departure",
+      statement: "A page left that way is counted and named, so a sweep answers for what it read.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The removal is composed by a daemon rather than authored, so it lands mechanically, in process, owing no read record.",
     },
