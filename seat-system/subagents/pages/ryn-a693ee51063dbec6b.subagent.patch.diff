@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-turn/seat-turn.domain.ts b/seat-system/seat-turn/seat-turn.domain.ts
+index f97845ad4c9617ca8623b920f6412266e691e540..5c906f26119c142fa7c94a8c2ccfddcd85029f20 100644
+--- a/seat-system/seat-turn/seat-turn.domain.ts
++++ b/seat-system/seat-turn/seat-turn.domain.ts
+@@ -9,7 +9,7 @@ export const seatTurn = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A turn runs from what starts the turn until the turn stops.",
++      statement: "A turn runs from the turn start until the turn stops.",
+     },
+     { invariantKind: "departure", statement: "A seat's turn state is working or idle or stopped." },
+     {
