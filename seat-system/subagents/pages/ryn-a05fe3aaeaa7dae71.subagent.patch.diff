@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/rule-dates/monarch-rule-dates.module.ts b/alan/harness/monarch/rule-dates/monarch-rule-dates.module.ts
+index fff6086953fea8425668bbbbd42ddb85b5a47b6b..bca1535bc75d79679d34ac468ab63474c8cb4338 100644
+--- a/alan/harness/monarch/rule-dates/monarch-rule-dates.module.ts
++++ b/alan/harness/monarch/rule-dates/monarch-rule-dates.module.ts
+@@ -40,7 +40,7 @@ export const monarchRuleDates = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A rule states a month in words and it is kept as a number.",
++      statement: "A rule states a month in words and that month is kept as a number.",
+     },
+     {
+       invariantKind: "departure",
