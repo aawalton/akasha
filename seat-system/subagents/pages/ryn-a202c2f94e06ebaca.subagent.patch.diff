@@ -1,0 +1,14 @@
+diff --git a/rule-population/rule-population-reading/rule-population-reading.module.ts b/rule-population/rule-population-reading/rule-population-reading.module.ts
+index 5edc655bf9b2e52b20665f5a9edefaf8e3d144ec..4461f467f34d4f34d8143015e6c5ada06403243c 100644
+--- a/rule-population/rule-population-reading/rule-population-reading.module.ts
++++ b/rule-population/rule-population-reading/rule-population-reading.module.ts
+@@ -28,8 +28,7 @@ export const rulePopulationReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A reading that will not land in the reader's mailbox throws, so nothing waiting is never read as nothing wrong.",
++      statement: "A reading that will not land in the reader's mailbox throws.",
+     },
+   ],
+ } as const satisfies Module
