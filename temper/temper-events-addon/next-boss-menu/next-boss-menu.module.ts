@@ -14,7 +14,7 @@ export const nextBossMenu = {
     },
     {
       invariantKind: "departure",
-      statement: "What is kept between sessions is read before the panel is built.",
+      statement: "The saved variables are read before the panel is built.",
     },
     {
       invariantKind: "departure",
