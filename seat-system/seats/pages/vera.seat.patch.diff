@@ -66,3 +66,31 @@ index c1f7a8db49b98a72246aef48125bdd93edafd24a..5e7dad413e9f88e2f4241397a15e8152
    const page = standing.pages.find((one) => one !== beside)
    if (page === undefined) return ["it holds no page of its own"]
    if (standing.pages.length > (beside === null ? 1 : 2)) {
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.test.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.test.ts
+index f168c1682942e3bbab2501f845d648fba371fc35..708670f8026bc26ea82e32fcb22f1321f2766efa 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.test.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.test.ts
+@@ -100,12 +100,22 @@ test("a workspace package slugged anything else is a second page and is refused"
+   expect(said[0]).toContain("2 pages rather than one")
+ })
+ 
+-test("a second page that is no workspace package is refused beside a page type", () => {
++test("a domain slugged the page type's plural slug may sit beside it", () => {
++  expect(judgedBy([], ["model.page-type.ts", "models.domain.ts"], DECLARING)).toEqual([])
++})
++
++test("a second page that is no domain nor workspace package is refused beside a page type", () => {
+   const said = judgedBy([], ["model.page-type.ts", "models.page-type.ts"], DECLARING)
+   expect(said).toHaveLength(1)
+   expect(said[0]).toContain("2 pages rather than one")
+ })
+ 
++test("a module slugged the page type's plural slug is a second page and is refused", () => {
++  const said = judgedBy([], ["model.page-type.ts", "models.module.ts"], DECLARING)
++  expect(said).toHaveLength(1)
++  expect(said[0]).toContain("2 pages rather than one")
++})
++
+ test("a subfolder named scripts is a part", () => {
+   expect(judged(["scripts/build-sim/build-sim.shell-script.ts"], ["model.page-type.ts"])).toEqual(
+     []
