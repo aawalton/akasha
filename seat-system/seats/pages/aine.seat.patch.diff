@@ -1,0 +1,24 @@
+diff --git a/code-system/code-typing/code-typing.module.ts b/code-system/code-typing/code-typing.module.ts
+index d908b6df367bdca9e05eea506c4442179c13d1c4..62b7f5dd26ea07eaa22791aa6a370b99854b868a 100644
+--- a/code-system/code-typing/code-typing.module.ts
++++ b/code-system/code-typing/code-typing.module.ts
+@@ -13,6 +13,19 @@ export const codeTyping = {
+       invariantKind: "departure",
+       statement: "The settings the akasha folder compiles under are said here alone.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "Every file compiles against the full ESNext library, so the browser is in scope.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A global under a name the browser also declares collides rather than replaces it.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "Code built for a runtime with no browser is judged without the browser.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The program reads every body through one reader handed to the program.",
