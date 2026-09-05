@@ -9,7 +9,7 @@ export const housingPublish = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What other add-ons may read is published under one global name.",
+      statement: "The name and version other add-ons may read are published under one global name.",
     },
   ],
 } as const satisfies Module
