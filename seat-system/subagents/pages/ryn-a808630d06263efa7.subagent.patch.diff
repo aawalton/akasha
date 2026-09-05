@@ -1,5 +1,5 @@
 diff --git a/mobile-commands/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.ts b/mobile-commands/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.ts
-index 4c93f2c382cafbc6b3abb4b3998edb6ea219c007..86c1abbd43ada751a11b37b5ed4cec16b4dcbf59 100644
+index 4c93f2c382cafbc6b3abb4b3998edb6ea219c007..df101e7c130a9b414ad381c2e17da5348c93a189 100644
 --- a/mobile-commands/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.ts
 +++ b/mobile-commands/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.ts
 @@ -29,7 +29,7 @@ export const mobileSimLongPressDrag = {
@@ -11,3 +11,12 @@ index 4c93f2c382cafbc6b3abb4b3998edb6ea219c007..86c1abbd43ada751a11b37b5ed4cec16
      },
      {
        invariantKind: "departure",
+@@ -41,7 +41,7 @@ export const mobileSimLongPressDrag = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A drag ending where it began is a gesture rather than nothing.",
++      statement: "A drag ending where that drag began is a gesture rather than nothing.",
+     },
+     {
+       invariantKind: "absence",
