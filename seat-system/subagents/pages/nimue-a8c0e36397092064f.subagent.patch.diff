@@ -567,6 +567,18 @@ index 2682599ee622465f1852fc8fd7df5753ae48ab8b..775ea37bc1ed0061c24d4bd91c6ea733
    },
    "dependencies": {
      "@akasha/utils-narrow": "workspace:*"
+diff --git a/pages/formula/pages-formula.workspace-package.ts b/pages/formula/pages-formula.workspace-package.ts
+index 800393a3f608b559ff7dc909bf3fb5064c3440e0..ccbb8bff8d212e526d03e085282f8d5a6d9ff8b0 100644
+--- a/pages/formula/pages-formula.workspace-package.ts
++++ b/pages/formula/pages-formula.workspace-package.ts
+@@ -11,7 +11,6 @@ export const pagesFormula = {
+     "list/formula-operators",
+     "list/formula-values",
+     "module/formula-check",
+-    "module/formula-held",
+     "module/formula-language",
+     "module/formula-reading",
+     "module/formula-refusal",
 diff --git a/pages/formulas/page-formulas.module.code.ts b/pages/formulas/page-formulas.module.code.ts
 deleted file mode 100644
 index f94212804bcbae80500e6aceab1984720036dedf..0000000000000000000000000000000000000000
