@@ -1,5 +1,5 @@
 diff --git a/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.code.ts b/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.code.ts
-index 4721f06dbd5d2b12457f1b203450ef2915c6e3cb..298ffffda157b5b998eeefd0d937fba5b7d5cca6 100644
+index 4721f06dbd5d2b12457f1b203450ef2915c6e3cb..fa487c96dfb8c904986d75a7f88105c740a97070 100644
 --- a/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.code.ts
 +++ b/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.code.ts
 @@ -99,7 +99,7 @@ export function temperEsoGenerateBaseGameGlobals(argv: readonly string[] = []):
@@ -11,7 +11,7 @@ index 4721f06dbd5d2b12457f1b203450ef2915c6e3cb..298ffffda157b5b998eeefd0d937fba5
          `${String(luaFiles.length)} Lua file(s) under ${esoRoot}. An empty census reads to every ` +
          "consumer as a clean answer, so nothing was staged.",
        DATA
-@@ -148,13 +148,13 @@ export function temperEsoGenerateBaseGameGlobals(argv: readonly string[] = []):
+@@ -148,21 +148,21 @@ export function temperEsoGenerateBaseGameGlobals(argv: readonly string[] = []):
    const held = pages.find((one) => one.slug === STEM)
    if (staged.files.some((one) => one.rel === held?.pageRel && one.standing)) {
      report.push(
@@ -27,8 +27,18 @@ index 4721f06dbd5d2b12457f1b203450ef2915c6e3cb..298ffffda157b5b998eeefd0d937fba5
        `that is the round trip: the ${String(runs)} runs compose back to the ${String(spec.names.length)} string ids one file would have held`
      )
      return answering(report, [], 0)
+   }
+ 
+   report.push(
+-    `nothing has landed. ${String(staged.changed.length)} file(s) differ from what stands; to land them, run: bash ${staged.landAt}`,
+-    "a write over a body the read record does not show you read is refused, so every body above that already stands has to be read first"
++    `nothing has landed. ${String(staged.changed.length)} file(s) differ from what is there; to land them, run: bash ${staged.landAt}`,
++    "a write over a body the read record does not show you read is refused, so every body above that is already there has to be read first"
+   )
+ 
+   const arrived = pages
 diff --git a/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.ts b/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.ts
-index 51afaf906008813863b94d28420c24c7f366431a..531120dc148efdb969942fe0821c397cfcfb0bfc 100644
+index 51afaf906008813863b94d28420c24c7f366431a..b6c85e301d9a899852bba9f37c446eda1c59c345 100644
 --- a/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.ts
 +++ b/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.ts
 @@ -14,8 +14,7 @@ export const temperEsoGenerateBaseGameGlobals = {
@@ -54,3 +64,12 @@ index 51afaf906008813863b94d28420c24c7f366431a..531120dc148efdb969942fe0821c397c
      "a clone holding no string id refuses the call, because an empty census reads to every consumer as a clean answer.",
      "the workspace-package page's part slugs are not written here, so a run changing how many runs there are leaves that list wanting a hand.",
    ],
+@@ -49,7 +48,7 @@ export const temperEsoGenerateBaseGameGlobals = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run whose body already stands is not staged again.",
++      statement: "A run whose body is already there is not staged again.",
+     },
+     {
+       invariantKind: "departure",
