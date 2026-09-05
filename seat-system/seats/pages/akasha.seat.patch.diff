@@ -13,3 +13,26 @@ index 3e2c6f9af22e9a1fda6dc9aecab3e6c3f514f00e..23eaecd75900020c781124e36d7eade4
      {
        invariantKind: "departure",
        statement: "No collection is part of itself however far the chain of parts runs.",
+diff --git a/pages/unique-kinds/pages/part-of.unique-kind.ts b/pages/unique-kinds/pages/part-of.unique-kind.ts
+index af5e9ed43420601905335e84b7dd866e074300f0..7321036f5a74611e25e0f220a633f00d7252e1b2 100644
+--- a/pages/unique-kinds/pages/part-of.unique-kind.ts
++++ b/pages/unique-kinds/pages/part-of.unique-kind.ts
+@@ -5,4 +5,18 @@ export const partOf = {
+   pageTypeSlug: "unique-kind",
+   slug: "part-of",
+   definition: "the value is unique among the pages part of one collection",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A page part of more than one collection is filed under each of them.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The scope a page is filed under is the slug of the collection it is part of.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A page part of no collection is filed under no scope of this reach.",
++    },
++  ],
+ } as const satisfies UniqueKind
