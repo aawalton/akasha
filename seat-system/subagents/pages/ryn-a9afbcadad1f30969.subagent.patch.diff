@@ -38,3 +38,16 @@ index e4be8dd992b9acb3d841cc6d1a02bc6e1e8d91ae..8154b7ebdb2e2dc3e49669f7fd8ae474
      },
      {
        invariantKind: "departure",
+diff --git a/command-system/cli/cli.module.ts b/command-system/cli/cli.module.ts
+index d14a6774bd99fccf1790d081f0d707846d249267..0b8b6e3160377bcea18e36b459e54a01b4c65e1b 100644
+--- a/command-system/cli/cli.module.ts
++++ b/command-system/cli/cli.module.ts
+@@ -32,7 +32,7 @@ export const cli = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A destination refusing bytes for the moment is written to again rather than dropping the bytes left over.",
++        "A destination refusing bytes for now is written to again rather than dropping the bytes left over.",
+     },
+     {
+       invariantKind: "absence",
