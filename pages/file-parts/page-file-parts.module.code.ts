@@ -26,18 +26,34 @@ export function uncommittedPartAt(
   return uncommittedBesideAt(path, sectionFor(propertySlug, part), held)
 }
 
+function walking(
+  naming: (part: number) => string | null,
+  standing: (at: string) => boolean
+): readonly string[] {
+  const found: string[] = []
+  for (let part = FIRST_PART; ; part += 1) {
+    const at = naming(part)
+    if (at === null) break
+    if (part > FIRST_PART && !standing(at)) break
+    found.push(at)
+  }
+  return found
+}
+
 export function partsOf(
   path: string,
   propertySlug: string,
   held: string,
   standing: (at: string) => boolean
 ): readonly string[] {
-  const found: string[] = []
-  for (let part = FIRST_PART; ; part += 1) {
-    const at = partAt(path, propertySlug, held, part)
-    if (at === null) break
-    if (part > FIRST_PART && !standing(at)) break
-    found.push(at)
-  }
-  return found
+  return walking((part) => partAt(path, propertySlug, held, part), standing)
+}
+
+export function uncommittedPartsOf(
+  path: string,
+  propertySlug: string,
+  held: string,
+  standing: (at: string) => boolean
+): readonly string[] {
+  return walking((part) => uncommittedPartAt(path, propertySlug, held, part), standing)
 }

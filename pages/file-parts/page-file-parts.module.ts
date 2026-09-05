@@ -34,6 +34,10 @@ export const pageFileParts = {
     },
     {
       invariantKind: "departure",
+      statement: "The files of a property held uncommitted are named in that same order.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Naming stops at the first file that is not there.",
     },
     {

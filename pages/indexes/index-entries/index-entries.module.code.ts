@@ -1,7 +1,7 @@
 import { dirname, isAbsolute, join, relative } from "node:path"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { besideAt, secretAt, uncommittedAt } from "@akasha/pages-system/page-file-name"
-import { partsOf } from "@akasha/pages-system/page-file-parts"
+import { partsOf, uncommittedPartsOf } from "@akasha/pages-system/page-file-parts"
 import { slugFor } from "@akasha/pages-system/page-property-key"
 import { slugAt, slugsIn, textAt, type Value } from "@akasha/pages-system/page-value"
 import { indexIdentity } from "../index/identity/index-identity.index.ts"
@@ -93,10 +93,15 @@ export function pathsOf(
   return found
 }
 
+export type Beside = {
+  readonly held: string
+  readonly uncommitted: boolean
+}
+
 export type Sidecars = {
   readonly secret: boolean
   readonly uncommitted: boolean
-  readonly besides: ReadonlyMap<string, string>
+  readonly besides: ReadonlyMap<string, Beside>
 }
 
 export type SidecarsBy = ReadonlyMap<string, Sidecars>
@@ -114,17 +119,20 @@ const FALLBACK = "default"
 function declaredIn(value: Value): Sidecars {
   let secret = false
   let uncommitted = false
-  const found = new Map<string, string>()
+  const found = new Map<string, Beside>()
   const declared = value[DECLARED]
   if (!Array.isArray(declared)) return { secret, uncommitted, besides: found }
   for (const one of declared) {
     if (one === null || typeof one !== "object" || Array.isArray(one)) continue
     const held = one as Record<string, unknown>
+    const withheld = held["uncommitted"] === true
     if (held["secret"] === true) secret = true
-    if (held["uncommitted"] === true) uncommitted = true
+    if (withheld) uncommitted = true
     const slug = held[DECLARES]
     const fallback = held[FALLBACK]
-    if (typeof slug === "string" && typeof fallback === "string") found.set(slug, fallback)
+    if (typeof slug === "string" && typeof fallback === "string") {
+      found.set(slug, { held: fallback, uncommitted: withheld })
+    }
   }
   return { secret, uncommitted, besides: found }
 }
@@ -144,7 +152,7 @@ export function sidecarsIn(values: Iterable<Value>): SidecarsBy {
   for (const slug of own.keys()) {
     let secret = false
     let uncommitted = false
-    const beside = new Map<string, string>()
+    const beside = new Map<string, Beside>()
     const walked = new Set<string>()
     const waiting: string[] = [slug]
     for (let at = 0; at < waiting.length; at += 1) {
@@ -169,6 +177,12 @@ export function sidecarsOver(given: string | Reading, left: Iterable<Value>): Si
   return sidecarsIn([...filed, ...left])
 }
 
+function besidesOf(own: string, slug: string, beside: Beside, there: IsThere): readonly string[] {
+  if (beside.uncommitted) return uncommittedPartsOf(own, slug, beside.held, there)
+  const at = besideAt(own, slug, beside.held)
+  return at === null ? [] : [at]
+}
+
 export function claimsOf(
   value: Value,
   path: string,
@@ -191,10 +205,11 @@ export function claimsOf(
     const beside = uncommittedAt(own)
     if (beside !== null) found.push(beside)
   }
-  for (const [slug, fallback] of held.besides) {
+  for (const [slug, beside] of held.besides) {
     if (carried?.get(slug) !== null) continue
-    const beside = besideAt(own, slug, fallback)
-    if (beside !== null && !found.includes(beside)) found.push(beside)
+    for (const at of besidesOf(own, slug, beside, there)) {
+      if (!found.includes(at)) found.push(at)
+    }
   }
   return found
 }

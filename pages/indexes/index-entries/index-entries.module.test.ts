@@ -367,7 +367,9 @@ test("the files beside a page are read from every page type above it", () => {
 
   expect(said?.secret).toBe(true)
   expect(said?.uncommitted).toBe(true)
-  expect([...(said?.besides ?? [])]).toEqual([["patch", "two-default"]])
+  expect([...(said?.besides ?? [])]).toEqual([
+    ["patch", { held: "two-default", uncommitted: false }],
+  ])
 })
 
 const LINES = { pagePropertySlug: "lines", uncommitted: true, default: "jsonl" }

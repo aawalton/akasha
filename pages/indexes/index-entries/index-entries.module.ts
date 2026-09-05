@@ -47,6 +47,21 @@ export const indexEntries = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A file property declared uncommitted is claimed under the name an uncommitted file carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file property declared with a default alone is claimed under the name a committed file carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The numbered files of an uncommitted property are claimed as those of one the page states are.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A property whose file is named outright is claimed once rather than twice.",
     },
     {
