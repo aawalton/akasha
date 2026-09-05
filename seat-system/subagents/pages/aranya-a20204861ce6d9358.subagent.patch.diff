@@ -1,0 +1,424 @@
+diff --git a/command-system/command-system.workspace-package.ts b/command-system/command-system.workspace-package.ts
+index d20a1f9a14f7f001d83886adae40b02188ea4ab9..4691b3c2d00d98d9022be926dc307b7fa4611f59 100644
+--- a/command-system/command-system.workspace-package.ts
++++ b/command-system/command-system.workspace-package.ts
+@@ -60,6 +60,7 @@ export const commandSystem = {
+     "module/harness-landing",
+     "module/commands-served",
+     "module/command-server",
++    "module/orphaning",
+   ],
+   invariants: [
+     {
+diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
+index 389c880f306cd2e81babadf5d9ec5046c7801707..f7b342c60514c15330b943787a26f26ab4372a44 100644
+--- a/command-system/landing/landing.module.code.ts
++++ b/command-system/landing/landing.module.code.ts
+@@ -14,6 +14,7 @@ import { clearedOff } from "../folder-clearing/folder-clearing.module.code.ts"
+ import type { Keeping } from "../gate-building/gate-building.module.code.ts"
+ import { indexingLoaded } from "../gate-building/gate-building.module.code.ts"
+ import { holding } from "../holding/holding.module.code.ts"
++import { absentAfter, orphaningIn, orphaningSaid } from "../orphaning/orphaning.module.code.ts"
+ import type { Reading as AsRead } from "../reading/reading.module.code.ts"
+ 
+ export type FileEdit = {
+@@ -389,7 +390,8 @@ export async function landing(
+     if ("why" in held) return { refusals: [held.why, KEPT_AS_IT_WAS] }
+     edits = editsOf(held.held)
+   }
+-  const said = await judged(judging, changeOf(root, { base: judgedAt, edits }))
++  const change = changeOf(root, { base: judgedAt, edits })
++  const said = await judged(judging, change)
+   if (drafting !== null) {
+     return draftedBy(
+       root,
+@@ -403,6 +405,15 @@ export async function landing(
+       runningFor(drafting)
+     )
+   }
++  const orphaned = orphaningIn(change, absentAfter(edits, carries))
++  if (orphaned.length > 0) {
++    return {
++      refusals: [
++        ...orphaned.map(orphaningSaid),
++        `nothing was written — ${changes.length} change(s) were asked for and they land together or not at all`,
++      ],
++    }
++  }
+   if (said.length > 0) {
+     return {
+       refusals: [
+diff --git a/command-system/landing/landing.module.test-fixtures.ts b/command-system/landing/landing.module.test-fixtures.ts
+index 48e7ae34ebd331cdf77c9d81731250e6799d1cc6..b0ad6d39bf8f99fbf0ca884cecb9b3c4802cf382 100644
+--- a/command-system/landing/landing.module.test-fixtures.ts
++++ b/command-system/landing/landing.module.test-fixtures.ts
+@@ -35,6 +35,12 @@ export function repoWith(named: Readonly<Record<string, string | Uint8Array>>):
+   return root
+ }
+ 
++export const IMPORTED = "akasha/held.ts"
++
++export const IMPORTING = "akasha/holding.ts"
++
++export const EDGED: readonly string[] = [IMPORTED, IMPORTING]
++
+ export const ADMITS: Judging = {
+   named: ["admits"],
+   checksFor: () => ["admits"],
+@@ -66,6 +72,23 @@ export const ID = "01a04e11-0000-7000-8000-000000000001"
+ 
+ export const A = `export const a = { id: "${ID}", pageTypeSlug: "domain", slug: "a" }\n`
+ 
++export async function edged(root: string): Promise<string> {
++  const said = await landing(
++    root,
++    [
++      { path: IMPORTED, body: bytesOf("export const held = 1\n") },
++      {
++        path: IMPORTING,
++        body: bytesOf('import { held } from "./held.ts"\n\nexport const holding = held\n'),
++      },
++    ],
++    "the index holds an import edge",
++    ADMITS
++  )
++  if ("refusals" in said) throw new Error(said.refusals.join("; "))
++  return root
++}
++
+ export function pageRepo(): string {
+   return repoWith({ [PAGE]: A })
+ }
+diff --git a/command-system/landing/landing.module.test.ts b/command-system/landing/landing.module.test.ts
+index e46b0d3d794f63e3a3f520ba05293426ead1c96b..82e4392f1e0d573c7d0b64d7d61f59e03d8570da 100644
+--- a/command-system/landing/landing.module.test.ts
++++ b/command-system/landing/landing.module.test.ts
+@@ -23,6 +23,8 @@ import {
+   CARRIED,
+   committedAgain,
+   DRAFT,
++  EDGED,
++  edged,
+   filedFor,
+   git,
+   gitOver,
+@@ -117,7 +119,7 @@ test("a landing files the index entries its page implies, with no rebuild run by
+ })
+ 
+ test("a landing that takes a page away takes its index entries with it", async () => {
+-  const root = repoWith({ "seed.txt": "held" })
++  const root = await edged(repoWith({ "seed.txt": "held" }))
+   await landing(root, CARRIED, "held", ADMITS)
+   await landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
+   expect(idFiledIn(root, ID)).toBe(true)
+@@ -189,13 +191,13 @@ test("a change that passes is written and committed onto the base it was judged
+ })
+ 
+ test("a change that takes a file away removes it and commits the removal", async () => {
+-  const root = repoWith({ "one.txt": "committed", "two.txt": "committed" })
++  const root = await edged(repoWith({ "one.txt": "committed", "two.txt": "committed" }))
+   const said = await landing(root, [{ path: "two.txt", body: null }], "held", ADMITS)
+   expect("refusals" in said).toBe(false)
+   if ("refusals" in said) return
+   expect(existsSync(join(root, "two.txt"))).toBe(false)
+   expect(said.took).toEqual(["two.txt"])
+-  expect(git(root, ["ls-files"]).trim()).toBe("one.txt")
++  expect(git(root, ["ls-files"]).trim().split("\n").sort()).toEqual([...EDGED, "one.txt"].sort())
+ })
+ 
+ test("asking for nothing is refused rather than committed empty", async () => {
+@@ -312,7 +314,7 @@ test("what was written is put back when the landing throws after writing", async
+ })
+ 
+ test("a path a change carries moves on disk and goes into no commit", async () => {
+-  const root = repoWith({ "one.txt": "committed" })
++  const root = await edged(repoWith({ "one.txt": "committed" }))
+   writeFileSync(join(root, "held.uncommitted.ts"), "unsaid")
+   const carries = [{ from: "held.uncommitted.ts", to: "deep/held.uncommitted.ts" }]
+   const change = [{ path: "new.txt", body: bytes("proposed") }]
+@@ -320,11 +322,13 @@ test("a path a change carries moves on disk and goes into no commit", async () =
+   expect("refusals" in said).toBe(false)
+   expect(readFileSync(join(root, "deep/held.uncommitted.ts"), "utf8")).toBe("unsaid")
+   expect(existsSync(join(root, "held.uncommitted.ts"))).toBe(false)
+-  expect(git(root, ["ls-files"]).trim().split("\n").sort()).toEqual(["new.txt", "one.txt"])
++  expect(git(root, ["ls-files"]).trim().split("\n").sort()).toEqual(
++    [...EDGED, "new.txt", "one.txt"].sort()
++  )
+ })
+ 
+ test("a carry that will not go puts back the ones that went and commits nothing", async () => {
+-  const root = repoWith({ "one.txt": "committed" })
++  const root = await edged(repoWith({ "one.txt": "committed" }))
+   const was = baseOf(root)
+   writeFileSync(join(root, "one.uncommitted.ts"), "one")
+   writeFileSync(join(root, "two.uncommitted.ts"), "two")
+diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
+index 59adef50fe76d9e33b7d6973cecc6d5e090b47db..7fd96d61939d23238e0f9c484b0e5929a0e4cf84 100644
+--- a/command-system/landing/landing.module.ts
++++ b/command-system/landing/landing.module.ts
+@@ -268,5 +268,25 @@ export const landing = {
+       invariantKind: "departure",
+       statement: "A draft says whether the change drafted into the patch was mechanical.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A path taken away that something still imports refuses the change unwritten.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path carried away that something still imports refuses the change unwritten.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path taken away beside the edits dropping its imports is written.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path taken away is weighed against its importers whatever the change kind.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A draft is weighed against no importers.",
++    },
+   ],
+ } as const satisfies Module
+diff --git a/command-system/orphaning/orphaning.module.code.ts b/command-system/orphaning/orphaning.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..33382c450334c55b8e0c41373b7777a38d10cb08
+--- /dev/null
++++ b/command-system/orphaning/orphaning.module.code.ts
+@@ -0,0 +1,49 @@
++import type { Change } from "@akasha/pages-system/change"
++import { shadowFor } from "@akasha/pages-system/shadow"
++
++export type Gone = {
++  readonly path: string
++  readonly body: Uint8Array | null
++}
++
++export type Carry = {
++  readonly from: string
++  readonly to: string
++}
++
++export type Orphaning = {
++  readonly path: string
++  readonly importers: readonly string[]
++}
++
++const NAMED = 3
++
++export const TOGETHER = "the importers have to change in the same landing"
++
++export function absentAfter(edits: readonly Gone[], carries: readonly Carry[]): readonly string[] {
++  const gone = new Set<string>()
++  for (const one of edits) if (one.body === null) gone.add(one.path)
++  for (const one of carries) gone.add(one.from)
++  for (const one of edits) if (one.body !== null) gone.delete(one.path)
++  for (const one of carries) gone.delete(one.to)
++  return [...gone].sort()
++}
++
++export function orphaningIn(change: Change, absent: readonly string[]): readonly Orphaning[] {
++  if (absent.length === 0) return []
++  const cast = shadowFor(change)
++  if ("refused" in cast) return []
++  const held: Orphaning[] = []
++  for (const path of absent) {
++    const importers = cast.shadow.index.importersOf(path)
++    if (importers.length > 0) held.push({ path, importers })
++  }
++  return held
++}
++
++export function orphaningSaid(one: Orphaning): string {
++  const named = one.importers.slice(0, NAMED)
++  const rest = one.importers.length - named.length
++  const said = rest > 0 ? `${named.join(", ")} and ${rest} more` : named.join(", ")
++  return `${one.path} — still imported by ${said} as this change leaves the tree, so taking it away leaves them reaching nothing; ${TOGETHER}`
++}
+diff --git a/command-system/orphaning/orphaning.module.test.ts b/command-system/orphaning/orphaning.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0ce7f73f2ef2aef53120a56e701766681f4abfe9
+--- /dev/null
++++ b/command-system/orphaning/orphaning.module.test.ts
+@@ -0,0 +1,116 @@
++import { afterAll, expect, test } from "bun:test"
++import { writeFileSync } from "node:fs"
++import { join } from "node:path"
++import type { Judging } from "@akasha/checks/judging"
++import { said as gitIn } from "@akasha/git/git-running"
++import { bytesOf } from "@akasha/testing-system/bodying"
++import type { Landed, Refused } from "../landing/landing.module.code.ts"
++import { landing } from "../landing/landing.module.code.ts"
++import { scratchWorld } from "../scratching/scratching.module.code.ts"
++import { TOGETHER } from "./orphaning.module.code.ts"
++
++const scratch = scratchWorld()
++
++afterAll(scratch.sweep)
++
++const ADMITS: Judging = { named: ["admits"], checksFor: () => ["admits"], over: async () => [] }
++
++const A = "akasha/a.ts"
++
++const B = "akasha/b.ts"
++
++const C = "akasha/c.ts"
++
++const X = "akasha/x.ts"
++
++const Y = "akasha/y.ts"
++
++const HELD = "export const a = 1\n"
++
++const IMPORTS = 'import { a } from "./a.ts"\n\nexport const b = a\n'
++
++const ALONE = "export const b = 1\n"
++
++const AGAIN = 'import { a } from "./c.ts"\n\nexport const b = a\n'
++
++async function setUp(): Promise<string> {
++  const root = scratch.rootFor("akasha-orphaning-")
++  gitIn(root, ["init", "--quiet"])
++  gitIn(root, ["config", "user.email", "held@nowhere"])
++  gitIn(root, ["config", "user.name", "Held"])
++  writeFileSync(join(root, "seed.txt"), "held\n")
++  gitIn(root, ["add", "-A"])
++  gitIn(root, ["commit", "--quiet", "-m", "first"])
++  const put = await landing(
++    root,
++    [
++      { path: A, body: bytesOf(HELD) },
++      { path: B, body: bytesOf(IMPORTS) },
++      { path: X, body: bytesOf("export const x = 1\n") },
++      { path: Y, body: bytesOf('import { x } from "./x.ts"\n\nexport const y = x\n') },
++    ],
++    "a and b are there, and so is an edge neither of them makes",
++    ADMITS
++  )
++  expect("refusals" in put).toBe(false)
++  return root
++}
++
++test("a path something still imports is refused, and what imports it is named", async () => {
++  const root = await setUp()
++  const said = await landing(root, [{ path: A, body: null }], "a goes", ADMITS)
++  expect("refusals" in said).toBe(true)
++  const why = (said as Refused).refusals.join("\n")
++  expect(why).toContain(A)
++  expect(why).toContain(B)
++  expect(why).toContain(TOGETHER)
++})
++
++test("a path taken away beside the edit dropping its import lands", async () => {
++  const root = await setUp()
++  const said = await landing(
++    root,
++    [
++      { path: A, body: null },
++      { path: B, body: bytesOf(ALONE) },
++    ],
++    "a goes as b lets it go",
++    ADMITS
++  )
++  expect("refusals" in said).toBe(false)
++  expect((said as Landed).took).toContain(A)
++})
++
++test("a path carried away that something still imports is refused", async () => {
++  const root = await setUp()
++  const said = await landing(
++    root,
++    [{ path: "seed.txt", body: bytesOf("touched\n") }],
++    "a is carried off",
++    ADMITS,
++    null,
++    null,
++    [],
++    [{ from: A, to: "akasha/moved.ts" }]
++  )
++  expect("refusals" in said).toBe(true)
++  const why = (said as Refused).refusals.join("\n")
++  expect(why).toContain(A)
++  expect(why).toContain(B)
++})
++
++test("a path taken away with its importers repointed onto where it arrives lands", async () => {
++  const root = await setUp()
++  const said = await landing(
++    root,
++    [
++      { path: A, body: null },
++      { path: C, body: bytesOf(HELD) },
++      { path: B, body: bytesOf(AGAIN) },
++    ],
++    "a moves to c and b follows",
++    ADMITS
++  )
++  expect("refusals" in said).toBe(false)
++  expect((said as Landed).took).toContain(A)
++})
+diff --git a/command-system/orphaning/orphaning.module.ts b/command-system/orphaning/orphaning.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fb09bc67912ec822b3d353259924cf9c5533da87
+--- /dev/null
++++ b/command-system/orphaning/orphaning.module.ts
+@@ -0,0 +1,57 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const orphaning = {
++  id: "01a0726d-03df-7f80-aa62-9d8a09a6a801",
++  pageTypeSlug: "module",
++  slug: "orphaning",
++  definition: "the importers a change would leave reaching a path that change takes away",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A path taken away is weighed by what imports it as the change leaves the tree.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path carried away is weighed as a path taken away is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path written again in the same change is taken away by nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path taken away that something still imports is answered as an orphaning.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A path taken away in the same change as the edits dropping its imports is no orphaning.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The importers are read through the shadow rather than off the committed index.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A change taking no path away is weighed without a shadow being worked out.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "What is said names the first few importers and counts the rest.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A change whose shadow could not be worked out is answered as no orphaning.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here writes.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here refuses a change.",
++    },
++  ],
++} as const satisfies Module
