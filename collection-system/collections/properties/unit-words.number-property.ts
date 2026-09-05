@@ -12,7 +12,8 @@ export const unitWords = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This value is read off the unit the collection names rather than stated on it.",
+      statement:
+        "This value is read off the unit the collection names rather than stated on that collection.",
     },
     {
       invariantKind: "departure",
