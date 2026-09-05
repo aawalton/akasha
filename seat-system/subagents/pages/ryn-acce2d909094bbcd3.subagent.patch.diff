@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/authoring/book-records/properties/record-brief.text-property.ts b/alan/authoring/book-records/properties/record-brief.text-property.ts
+index 1f527c3a5c8aa8d92be3b94375cf6f4ac9b37b3a..c2e0d2cabf217d99af5f06b9e16f1ad116b93160 100644
+--- a/alan/authoring/book-records/properties/record-brief.text-property.ts
++++ b/alan/authoring/book-records/properties/record-brief.text-property.ts
+@@ -17,7 +17,7 @@ export const recordBrief = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A brief says what a record holds rather than repeating what the record says.",
++      statement: "A brief says the substance of a record rather than repeating the record's text.",
+     },
+   ],
+ } as const satisfies TextProperty
