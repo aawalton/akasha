@@ -56,17 +56,4 @@ export const notice = {
       statement: "The notices a seat is resumed with stand as pages under this type.",
     },
   ],
-  directives: [
-    {
-      directiveKind: "rule",
-      name: "Nothing To Wait For",
-      act: "Give a seat something to do now in a notice, never something to wait for.",
-      warrant:
-        "A seat cannot wait inside a turn, so waiting ends it idle and something else must start it again.",
-      aids: [
-        "Naming a risk is not telling a seat to wait.",
-        "'Shortly', 'later' and 'hold off' all say wait.",
-      ],
-    },
-  ],
 } as const satisfies PageType
