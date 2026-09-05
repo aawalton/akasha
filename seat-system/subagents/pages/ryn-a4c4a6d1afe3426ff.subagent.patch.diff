@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/agents/models/gateway/modules/in-flight/in-flight.module.ts b/agents/models/gateway/modules/in-flight/in-flight.module.ts
+index e6d3353a629d0d4cd888bee8c156500718c7ff53..9f888a46cabae938f2148848b2dceb18ca92d700 100644
+--- a/agents/models/gateway/modules/in-flight/in-flight.module.ts
++++ b/agents/models/gateway/modules/in-flight/in-flight.module.ts
+@@ -87,7 +87,7 @@ export const inFlight = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows what a request carries.",
++      statement: "Nothing here knows the body a request carries.",
+     },
+     {
+       invariantKind: "absence",
