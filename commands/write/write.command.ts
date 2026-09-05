@@ -75,7 +75,7 @@ export const write = {
     },
     {
       invariantKind: "departure",
-      statement: "The seat this call is charged to is warranted alongside them.",
+      statement: "The seat this call is charged to is warranted alongside the paths.",
     },
     {
       invariantKind: "departure",
@@ -101,7 +101,7 @@ export const write = {
     {
       invariantKind: "departure",
       statement:
-        "A file beside a path taken away goes with it whether or not git tracks that file.",
+        "A file beside a path taken away goes with that path whether or not git tracks that file.",
     },
     {
       invariantKind: "departure",
