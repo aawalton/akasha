@@ -18,7 +18,7 @@ export const noSecondSpellingOfANameFormat = {
     },
     {
       invariantKind: "departure",
-      statement: "A shape is what a regex literal reads as without its flags.",
+      statement: "A shape is the pattern a regex literal reads as without its flags.",
     },
     {
       invariantKind: "departure",
