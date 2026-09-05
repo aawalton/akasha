@@ -64,3 +64,16 @@ index f24c6134646e3d09b3db6b857b834127b50235a8..fbab57c61261d405471c97acb4423163
      },
    ],
  } as const satisfies Module
+diff --git a/pages/landing-journal/page-landing-journal.module.ts b/pages/landing-journal/page-landing-journal.module.ts
+index 31c24923e5b8f0f2189087d642de9e4e95e5729e..ef6c9427bb6b681c72d72c053a4943caa3097979 100644
+--- a/pages/landing-journal/page-landing-journal.module.ts
++++ b/pages/landing-journal/page-landing-journal.module.ts
+@@ -28,7 +28,7 @@ export const pageLandingJournal = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Where the journals are is said by `PAGE_LANDING_JOURNAL_DIR` and falls back to the user's state directory.",
++        "The journals sit where `PAGE_LANDING_JOURNAL_DIR` says and fall back to the user's state directory.",
+     },
+     {
+       invariantKind: "departure",
