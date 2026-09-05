@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts
-index befc0f7430d842d903c438a0498c12493c6fc606..fca4a814ca9a0a062404cf88c4303a8e5dfeb962 100644
+index befc0f7430d842d903c438a0498c12493c6fc606..dc8d9636a99f24a294cb6fca570188cfd4f0260c 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts
 @@ -44,11 +44,11 @@ export const noSwallowedRead = {
@@ -13,6 +13,16 @@ index befc0f7430d842d903c438a0498c12493c6fc606..fca4a814ca9a0a062404cf88c4303a8e
        invariantKind: "departure",
 -      statement: "The read sits in the try itself or through a function beside it.",
 +      statement: "The read sits in the try itself or through a function beside that try.",
+     },
+     {
+       invariantKind: "departure",
+@@ -88,7 +88,8 @@ export const noSwallowedRead = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A catch using what it caught is carrying it rather than dropping it.",
++      statement:
++        "A catch using what that catch caught is carrying that failure rather than dropping that failure.",
      },
      {
        invariantKind: "departure",
