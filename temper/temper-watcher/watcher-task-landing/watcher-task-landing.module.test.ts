@@ -9,11 +9,10 @@ import {
   taskProgressPath,
 } from "./watcher-task-landing.module.code.ts"
 
-const PAGE_PATH =
-  "akasha/temper/temper-progress/tasks/pages/hireling-mails/hireling-mails.temper-task.ts"
+const PAGE_PATH = "temper/temper-progress/tasks/pages/hireling-mails/hireling-mails.temper-task.ts"
 
 const PROGRESS_PATH =
-  "akasha/temper/temper-progress/tasks/pages/hireling-mails/hireling-mails.temper-task.progress.jsonl"
+  "temper/temper-progress/tasks/pages/hireling-mails/hireling-mails.temper-task.progress.jsonl"
 
 const BODY =
   'import type { TemperTask } from "../../temper-task.page-type.ts"\n\nexport const hirelingMails = {\n  id: "019db533-f3b3-77e0-bac5-71806d6387b1",\n  pageTypeSlug: "temper-task",\n  slug: "hireling-mails",\n  title: "Hireling Mails",\n  dueDate: "2026-03-05",\n} as const satisfies TemperTask\n'

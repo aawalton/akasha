@@ -28,11 +28,11 @@ import {
   writingFor,
 } from "./watcher-page-landing.module.code.ts"
 
-const HOURS = "akasha/temper/temper-holdings/net-worth-hours/pages"
+const HOURS = "temper/temper-holdings/net-worth-hours/pages"
 
-const DAYS = "akasha/temper/temper-progress/completed-days/pages"
+const DAYS = "temper/temper-progress/completed-days/pages"
 
-const TASKS = "akasha/temper/temper-progress/tasks/pages"
+const TASKS = "temper/temper-progress/tasks/pages"
 
 test("the writer is the name and address every landing was already committing under", () => {
   expect(PAGE_LANDING_WRITER).toBe("temper watcher <watcher@alanwalton.com>")
@@ -69,22 +69,22 @@ test("a page type import reaches two folders up for the page type file", () => {
 
 test("a page path and the jsonl path beside it are the paths the landings already wrote", () => {
   expect(pagePathIn(HOURS, "hour-2026-04-29-14", "temper-net-worth-hour")).toBe(
-    "akasha/temper/temper-holdings/net-worth-hours/pages/hour-2026-04-29-14/hour-2026-04-29-14.temper-net-worth-hour.ts"
+    "temper/temper-holdings/net-worth-hours/pages/hour-2026-04-29-14/hour-2026-04-29-14.temper-net-worth-hour.ts"
   )
   expect(rowsPathIn(HOURS, "hour-2026-04-29-14", "temper-net-worth-hour", "snapshots")).toBe(
-    "akasha/temper/temper-holdings/net-worth-hours/pages/hour-2026-04-29-14/hour-2026-04-29-14.temper-net-worth-hour.snapshots.jsonl"
+    "temper/temper-holdings/net-worth-hours/pages/hour-2026-04-29-14/hour-2026-04-29-14.temper-net-worth-hour.snapshots.jsonl"
   )
   expect(pagePathIn(DAYS, "day-2026-03-05", "temper-completed-day")).toBe(
-    "akasha/temper/temper-progress/completed-days/pages/day-2026-03-05/day-2026-03-05.temper-completed-day.ts"
+    "temper/temper-progress/completed-days/pages/day-2026-03-05/day-2026-03-05.temper-completed-day.ts"
   )
   expect(rowsPathIn(DAYS, "day-2026-03-05", "temper-completed-day", "completions")).toBe(
-    "akasha/temper/temper-progress/completed-days/pages/day-2026-03-05/day-2026-03-05.temper-completed-day.completions.jsonl"
+    "temper/temper-progress/completed-days/pages/day-2026-03-05/day-2026-03-05.temper-completed-day.completions.jsonl"
   )
   expect(pagePathIn(TASKS, "hireling-mails", "temper-task")).toBe(
-    "akasha/temper/temper-progress/tasks/pages/hireling-mails/hireling-mails.temper-task.ts"
+    "temper/temper-progress/tasks/pages/hireling-mails/hireling-mails.temper-task.ts"
   )
   expect(rowsPathIn(TASKS, "hireling-mails", "temper-task", "progress")).toBe(
-    "akasha/temper/temper-progress/tasks/pages/hireling-mails/hireling-mails.temper-task.progress.jsonl"
+    "temper/temper-progress/tasks/pages/hireling-mails/hireling-mails.temper-task.progress.jsonl"
   )
 })
 

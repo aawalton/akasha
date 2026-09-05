@@ -14,10 +14,10 @@ import {
 } from "./watcher-completed-day-landing.module.code.ts"
 
 const PAGE_PATH =
-  "akasha/temper/temper-progress/completed-days/pages/day-2026-03-05/day-2026-03-05.temper-completed-day.ts"
+  "temper/temper-progress/completed-days/pages/day-2026-03-05/day-2026-03-05.temper-completed-day.ts"
 
 const LINES_PATH =
-  "akasha/temper/temper-progress/completed-days/pages/day-2026-03-05/day-2026-03-05.temper-completed-day.completions.jsonl"
+  "temper/temper-progress/completed-days/pages/day-2026-03-05/day-2026-03-05.temper-completed-day.completions.jsonl"
 
 const FIRST = {
   id: "019db533-f3b3-77f9-b1f7-7976a7b6f551",
