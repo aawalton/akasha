@@ -15,7 +15,7 @@ export const seatParentlessRefusal = {
     {
       invariantKind: "departure",
       statement:
-        "A seat working for the fleet and naming nobody above it is invisible to every walk of the tree.",
+        "A seat working for the fleet and naming nobody above the seat is invisible to every tree walk.",
     },
     {
       invariantKind: "departure",
