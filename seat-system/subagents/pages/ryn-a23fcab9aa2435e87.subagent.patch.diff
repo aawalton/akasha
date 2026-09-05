@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/git-transport/hooks/pre-receive-change-branches/pre-receive-change-branches.shell-script.ts b/git-transport/hooks/pre-receive-change-branches/pre-receive-change-branches.shell-script.ts
+index a73220c94c0e6e90287280c3b1cfaf90ae2d4888..a7507a658832a4f6b6f4de4a4557edf57db77dc1 100644
+--- a/git-transport/hooks/pre-receive-change-branches/pre-receive-change-branches.shell-script.ts
++++ b/git-transport/hooks/pre-receive-change-branches/pre-receive-change-branches.shell-script.ts
+@@ -14,7 +14,7 @@ export const preReceiveChangeBranches = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The number is what tells a merge branch from the merge queue's own ref.",
++      statement: "The number tells a merge branch from the merge queue's own ref.",
+     },
+     {
+       invariantKind: "departure",
