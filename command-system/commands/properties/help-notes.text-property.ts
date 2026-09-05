@@ -17,7 +17,7 @@ export const helpNotes = {
     },
     {
       invariantKind: "departure",
-      statement: "The lines are shown under the list of what a command takes.",
+      statement: "The lines are shown under the list of a command's arguments.",
     },
     {
       invariantKind: "departure",
