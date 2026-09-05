@@ -94,3 +94,53 @@ index 708670f8026bc26ea82e32fcb22f1321f2766efa..f168c1682942e3bbab2501f845d648fb
  test("a subfolder named scripts is a part", () => {
    expect(judged(["scripts/build-sim/build-sim.shell-script.ts"], ["model.page-type.ts"])).toEqual(
      []
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.ts
+index 8fec59dd6bbe62286bcdb8a840ab4b9c8530bd0d..b6fec6c65f7746f62da43bbfd133ad1365445506 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.ts
+@@ -20,15 +20,15 @@ export const aPageTypeWithItsParts = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The folder may hold a domain or a workspace package beside that page type.",
++      statement: "The folder may hold a workspace package beside that page type.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "That page beside it is slugged the page type's plural slug.",
++      statement: "That workspace package is slugged the page type's plural slug.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A second page that is neither of those is refused.",
++      statement: "A second page that is no such workspace package is refused.",
+     },
+     {
+       invariantKind: "departure",
+@@ -36,7 +36,7 @@ export const aPageTypeWithItsParts = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The page beside that page type names no folder.",
++      statement: "The workspace package beside that page type names no folder.",
+     },
+     {
+       invariantKind: "departure",
+@@ -48,7 +48,7 @@ export const aPageTypeWithItsParts = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file the page beside it states is a part of the folder too.",
++      statement: "A file that workspace package states is a part of the folder too.",
+     },
+     {
+       invariantKind: "departure",
+@@ -72,7 +72,7 @@ export const aPageTypeWithItsParts = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A subfolder holding a page the page beside it declares a part is a part too.",
++      statement: "A subfolder holding a page that workspace package declares a part is a part too.",
+     },
+     {
+       invariantKind: "departure",
