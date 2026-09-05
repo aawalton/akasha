@@ -21,7 +21,7 @@ index 93062eb19f769429ccaaf45def9ef5f212f72527..a1f5f34ccbed65d2d68a17f9e33f8bc0
    expect(said[0]?.line).toBe(2)
  })
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-non-null-assertion/no-non-null-assertion.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-non-null-assertion/no-non-null-assertion.syntax-rule.ts
-index d1473123421fe77dcedf8c1c917230c623573d00..c0ef232ad808df1e9eb83287f2b6ea44b96ec2dc 100644
+index d1473123421fe77dcedf8c1c917230c623573d00..a057452ef77f4c73b0e69b47cdc8231a4debd93f 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-non-null-assertion/no-non-null-assertion.syntax-rule.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-non-null-assertion/no-non-null-assertion.syntax-rule.ts
 @@ -15,7 +15,7 @@ export const noNonNullAssertion = {
@@ -42,6 +42,15 @@ index d1473123421fe77dcedf8c1c917230c623573d00..c0ef232ad808df1e9eb83287f2b6ea44
      },
      {
        invariantKind: "departure",
+@@ -36,7 +36,7 @@ export const noNonNullAssertion = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A cast asserting the same absence away some other way stands.",
++      statement: "A cast asserting the same absence away some other way is left.",
+     },
+   ],
+ } as const satisfies SyntaxRule
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-self-in-object-method/no-void-self-in-object-method.syntax-rule.test.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-self-in-object-method/no-void-self-in-object-method.syntax-rule.test.ts
 index 0436f7b05bc3d564b5831378242bcf36050a6286..d3136cbbf69e34e4ac6eafaa4d953c901e3c68cd 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-self-in-object-method/no-void-self-in-object-method.syntax-rule.test.ts
