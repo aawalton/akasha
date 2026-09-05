@@ -1,0 +1,570 @@
+runsWarrants: false
+diff --git a/akasha.domain.ts b/akasha.domain.ts
+index 29e4b9b6f29586d5ccae236589c65e85ff5e83d8..942d0f098c16cf7710a13cd26c080c9b4e3b0c46 100644
+--- a/akasha.domain.ts
++++ b/akasha.domain.ts
+@@ -18,7 +18,7 @@ export const akasha = {
+     "workspace-package/utils-system",
+     "workspace-package/git",
+     "workspace-package/shell",
+-    "workspace-package/pages",
++    "workspace-package/page",
+     "workspace-package/domain",
+     "workspace-package/graph",
+     "domain/type",
+diff --git a/domains/findings/pages/a-count-returned-beside-rows-describes-the-answer-rather-than-the-question.finding.ts b/domains/findings/pages/a-count-returned-beside-rows-describes-the-answer-rather-than-the-question.finding.ts
+index 40a546907305d200907e3bc42f6949bc3cabd26d..f5c49f2def55eddcc903bc18ce1ef9a46cede525 100644
+--- a/domains/findings/pages/a-count-returned-beside-rows-describes-the-answer-rather-than-the-question.finding.ts
++++ b/domains/findings/pages/a-count-returned-beside-rows-describes-the-answer-rather-than-the-question.finding.ts
+@@ -4,7 +4,7 @@ export const aCountReturnedBesideRowsDescribesTheAnswerRatherThanTheQuestion = {
+   id: "01a06761-7580-7000-83cc-8330d9da7223",
+   pageTypeSlug: "finding",
+   slug: "a-count-returned-beside-rows-describes-the-answer-rather-than-the-question",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "Where a query's limit is passed down to the store, the count answered beside the rows counts what was returned rather than what matched. A caller comparing that count against the rows it received compares a number against itself, so a guard written that way reports no truncation however long it runs. The one signal left is that the rows exactly fill the limit, and that cannot tell a whole answer from a short one, so it is a reason to refuse rather than to answer.",
+   evidence:
+diff --git a/domains/findings/pages/a-file-property-is-found-by-an-exact-page-type-slug-rather-than-by-what-it-extends.finding.ts b/domains/findings/pages/a-file-property-is-found-by-an-exact-page-type-slug-rather-than-by-what-it-extends.finding.ts
+index 9fd4dbb989193a701f27b0121ea441b1519b6378..b26bd3c41e71644cad0784d1dc8a0b9e04c8ff70 100644
+--- a/domains/findings/pages/a-file-property-is-found-by-an-exact-page-type-slug-rather-than-by-what-it-extends.finding.ts
++++ b/domains/findings/pages/a-file-property-is-found-by-an-exact-page-type-slug-rather-than-by-what-it-extends.finding.ts
+@@ -4,7 +4,7 @@ export const aFilePropertyIsFoundByAnExactPageTypeSlugRatherThanByWhatItExtends
+   id: "01a06942-877b-7cc7-b288-3ca4ebcc3f7e",
+   pageTypeSlug: "finding",
+   slug: "a-file-property-is-found-by-an-exact-page-type-slug-rather-than-by-what-it-extends",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "A page property is held in a file only where its property page states a `fileName` or its page type slug is exactly `file-property` or `page-property-entry`. The test is a string match that does not follow `extendsSlug`, so a new page type extending `file-property` would be invisible to the index: no beside-file path would be built for it, `page-property-has-its-file` would ask for nothing and `file-has-its-page` would refuse the carrier as claimed by no page. `named-file-property` escapes this only because it carries a `fileName`. This is why the two icon carriers were declared as plain `file-property` pages rather than under a page type of their own, which would have read as the tidier shape and would have landed a carrier no page claims.",
+   evidence:
+diff --git a/domains/findings/pages/a-malformed-read-and-a-refused-one-are-told-apart-only-by-their-words.finding.ts b/domains/findings/pages/a-malformed-read-and-a-refused-one-are-told-apart-only-by-their-words.finding.ts
+index 036ae369b0eaf46b8555ce2036b2e119d8b43b91..3a2518db75c9e83c14ee10c28073329267b3dbe6 100644
+--- a/domains/findings/pages/a-malformed-read-and-a-refused-one-are-told-apart-only-by-their-words.finding.ts
++++ b/domains/findings/pages/a-malformed-read-and-a-refused-one-are-told-apart-only-by-their-words.finding.ts
+@@ -4,7 +4,7 @@ export const aMalformedReadAndARefusedOneAreToldApartOnlyByTheirWords = {
+   id: "01a05bd2-dd42-769e-a5b9-31df5dcfe3ee",
+   pageTypeSlug: "finding",
+   slug: "a-malformed-read-and-a-refused-one-are-told-apart-only-by-their-words",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "The page store answers a malformed read and a refused one with the same 400, so a check that names the payload key wrongly reads exactly like the guard working. Whoever verifies the secret guard by status code alone gets a green having tested nothing.",
+   evidence:
+diff --git a/domains/findings/pages/a-markdown-pages-id-is-derived-and-a-typescript-pages-id-is-minted.finding.ts b/domains/findings/pages/a-markdown-pages-id-is-derived-and-a-typescript-pages-id-is-minted.finding.ts
+index fccfd08ecebbba045c8ee13d14d001347bce6c18..1ef02e174305084fc4bfb6bac0ceb6e8e75b2c4c 100644
+--- a/domains/findings/pages/a-markdown-pages-id-is-derived-and-a-typescript-pages-id-is-minted.finding.ts
++++ b/domains/findings/pages/a-markdown-pages-id-is-derived-and-a-typescript-pages-id-is-minted.finding.ts
+@@ -4,7 +4,7 @@ export const aMarkdownPagesIdIsDerivedAndATypescriptPagesIdIsMinted = {
+   id: "01a0612e-dead-7d4f-b2fc-b2eb111e10ae",
+   pageTypeSlug: "finding",
+   slug: "a-markdown-pages-id-is-derived-and-a-typescript-pages-id-is-minted",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "A new page's id comes from one of two places depending on the kind of file it is, and nothing anywhere says so. A markdown page takes a uuid version 5 worked out from its own address, `repo:relPath`. An akasha TypeScript page takes a minted version 7, and that minter cannot reach a markdown page at all. Neither wrong choice is refused: the version 7 check reads TypeScript only, and the name format judges the shape while naming version and variant as no concern of its own.",
+   evidence:
+diff --git a/domains/findings/pages/a-numbered-file-added-without-its-page-is-claimed-by-nobody.finding.ts b/domains/findings/pages/a-numbered-file-added-without-its-page-is-claimed-by-nobody.finding.ts
+index 74c1d64fba502dcfeb5cd879730303249683776b..731b6ef3eb0ddc819421b839be2486b9fedef4cb 100644
+--- a/domains/findings/pages/a-numbered-file-added-without-its-page-is-claimed-by-nobody.finding.ts
++++ b/domains/findings/pages/a-numbered-file-added-without-its-page-is-claimed-by-nobody.finding.ts
+@@ -4,7 +4,7 @@ export const aNumberedFileAddedWithoutItsPageIsClaimedByNobody = {
+   id: "01a062bb-0e24-76b0-a8f5-fd7a5bdb0f0c",
+   pageTypeSlug: "finding",
+   slug: "a-numbered-file-added-without-its-page-is-claimed-by-nobody",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "A page's claim on its numbered files is worked out again only for a page the change itself carries. A numbered file added beside a page the change leaves alone is therefore claimed by nobody and refused. A property's files can only grow in a change that rewrites the page as well, and in that same case `page-matches-its-type` judges no row either.",
+   evidence:
+diff --git a/domains/findings/pages/a-page-landed-over-http-without-the-cli.finding.ts b/domains/findings/pages/a-page-landed-over-http-without-the-cli.finding.ts
+index 0d3000e60b0716a9abb8f143e6d9c5fd60d349e1..2213bd892d916dcf1bd23cfe2973cdd0697bb16f 100644
+--- a/domains/findings/pages/a-page-landed-over-http-without-the-cli.finding.ts
++++ b/domains/findings/pages/a-page-landed-over-http-without-the-cli.finding.ts
+@@ -4,7 +4,7 @@ export const aPageLandedOverHttpWithoutTheCli = {
+   id: "01a05ac1-a1d0-719b-9fbf-0e1c9fa7c997",
+   pageTypeSlug: "finding",
+   slug: "a-page-landed-over-http-without-the-cli",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "This page was written by a POST to the page store rather than by the akasha command line. Nothing typed it into the worktree and no check judged it. The service wrote it, indexed it and committed it in one go, authored by the writer the request named.",
+   evidence:
+diff --git a/domains/findings/pages/a-page-query-carries-no-title-because-the-only-title-belongs-to-temper.finding.ts b/domains/findings/pages/a-page-query-carries-no-title-because-the-only-title-belongs-to-temper.finding.ts
+index 68515b11e460322fd9338c07d4efc65b5748173d..476e7d8e305ddd5da89b7c8bd6ab3470836b235c 100644
+--- a/domains/findings/pages/a-page-query-carries-no-title-because-the-only-title-belongs-to-temper.finding.ts
++++ b/domains/findings/pages/a-page-query-carries-no-title-because-the-only-title-belongs-to-temper.finding.ts
+@@ -4,7 +4,7 @@ export const aPageQueryCarriesNoTitleBecauseTheOnlyTitleBelongsToTemper = {
+   id: "01a06423-1b7c-7000-9f2a-4c81d5e0a377",
+   pageTypeSlug: "finding",
+   slug: "a-page-query-carries-no-title-because-the-only-title-belongs-to-temper",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "The `page-query` page type landed without a title, which loses wording that about 17 of the 104 queries carry and their slugs do not. The call was taken in Alan's absence because both alternatives were worse: a second text property slugged `title` cannot exist, and reusing the one that does would point the pages system at a leaf product package.",
+   evidence:
+diff --git a/domains/findings/pages/a-page-query-holds-the-loop-while-it-reads.finding.ts b/domains/findings/pages/a-page-query-holds-the-loop-while-it-reads.finding.ts
+index b88ea52cdd2bc0dbcfcfc98fb5716d4fd69cdbda..a2055b8c03f854e1651596fd8dc9d35698b2b2d2 100644
+--- a/domains/findings/pages/a-page-query-holds-the-loop-while-it-reads.finding.ts
++++ b/domains/findings/pages/a-page-query-holds-the-loop-while-it-reads.finding.ts
+@@ -4,7 +4,7 @@ export const aPageQueryHoldsTheLoopWhileItReads = {
+   id: "01a05ab8-fce9-7775-97fa-12c758702008",
+   pageTypeSlug: "finding",
+   slug: "a-page-query-holds-the-loop-while-it-reads",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "A page query is answered to completion before the next one starts. Answering reads a whole index file and parses every line of it without yielding once, so no two answers are ever in progress at once. This finding first said the opposite, that answers overlap, and that was an artifact of the instrument rather than anything the server did. The cost is small today and grows with the pages of one page type. Whether the read path should stop holding the loop has not been decided.",
+   evidence:
+diff --git a/domains/findings/pages/a-page-query-measured-through-fetch-reads-as-serial.finding.ts b/domains/findings/pages/a-page-query-measured-through-fetch-reads-as-serial.finding.ts
+index c2d7ef8991616b111d56edbe193535ade71ba2fb..7b826b593218222ddb910eed177c84ef75cd014b 100644
+--- a/domains/findings/pages/a-page-query-measured-through-fetch-reads-as-serial.finding.ts
++++ b/domains/findings/pages/a-page-query-measured-through-fetch-reads-as-serial.finding.ts
+@@ -4,7 +4,7 @@ export const aPageQueryMeasuredThroughFetchReadsAsSerial = {
+   id: "01a05aef-b3e7-7975-9971-2d8e5926c826",
+   pageTypeSlug: "finding",
+   slug: "a-page-query-measured-through-fetch-reads-as-serial",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "Addressing the page store by the literal `127.0.0.1` makes a burst of questions come back in the order it was sent; addressing the same server by `localhost` shuffles the order its connections are accepted. Bun opens a connection per request either way, so this is not keep-alive pooling. Either way the position an answer comes back at measures the order connections were accepted rather than whether the server overlapped, so it is no measure of concurrency at all.",
+   evidence:
+diff --git a/domains/findings/pages/a-page-query-slug-with-no-page-type-is-usually-reshaped-not-gone.finding.ts b/domains/findings/pages/a-page-query-slug-with-no-page-type-is-usually-reshaped-not-gone.finding.ts
+index b9dc6d8d5db272ca4859c8b10c8ea8652a2230da..b5b8085b9e8f395e70d1d85384fbd8a62f1fcfe8 100644
+--- a/domains/findings/pages/a-page-query-slug-with-no-page-type-is-usually-reshaped-not-gone.finding.ts
++++ b/domains/findings/pages/a-page-query-slug-with-no-page-type-is-usually-reshaped-not-gone.finding.ts
+@@ -4,7 +4,7 @@ export const aPageQuerySlugWithNoPageTypeIsUsuallyReshapedNotGone = {
+   id: "01a06a3c-7100-7000-9f2b-4d1c8e37a501",
+   pageTypeSlug: "finding",
+   slug: "a-page-query-slug-with-no-page-type-is-usually-reshaped-not-gone",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "Twenty-five of the 104 page queries name an `asksOfSlug` no akasha page type declares, and none of the twenty-five names a concept that is gone. Five are renames onto a live page type, three of which landed. Seventeen name a concept that carried into akasha as a page-property-entry or a file-property beside a parent page, so no page type will ever answer them. Five are drawn by live views and belong to a family another lane is moving. Counting akasha references to the slug does not sort these: a reshaped concept drops its old slug entirely, so it scores zero exactly as a vanished one would.",
+   evidence:
+diff --git a/domains/findings/pages/a-view-states-its-own-question-where-page-query-holds-one.finding.ts b/domains/findings/pages/a-view-states-its-own-question-where-page-query-holds-one.finding.ts
+index 803ab39235b5dbf1c4f4a6fc7396e19861c65371..cfb238c9a2ea72d3bb6457eac429691c37fe7f31 100644
+--- a/domains/findings/pages/a-view-states-its-own-question-where-page-query-holds-one.finding.ts
++++ b/domains/findings/pages/a-view-states-its-own-question-where-page-query-holds-one.finding.ts
+@@ -4,7 +4,7 @@ export const aViewStatesItsOwnQuestionWherePageQueryHoldsOne = {
+   id: "01a0657f-0c53-7003-ad50-0bc349c83571",
+   pageTypeSlug: "finding",
+   slug: "a-view-states-its-own-question-where-page-query-holds-one",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "`page-query` says that a query holds nothing about how its answer is shown, which reads as though a view would name a query and add only the showing. The 59 views migrated do not: each states its own narrows and sorts inline. They were migrated as they stand, because the code that draws them reads those fields off the view.",
+   evidence:
+diff --git a/domains/findings/pages/akasha-has-no-property-type-for-a-calendar-day.finding.ts b/domains/findings/pages/akasha-has-no-property-type-for-a-calendar-day.finding.ts
+index 0f86b7da95ba6a19023eac4cd0414741c1a0f0d5..7ba3e8663dc9ece2b72821949eb317abf4c51359 100644
+--- a/domains/findings/pages/akasha-has-no-property-type-for-a-calendar-day.finding.ts
++++ b/domains/findings/pages/akasha-has-no-property-type-for-a-calendar-day.finding.ts
+@@ -4,7 +4,7 @@ export const akashaHasNoPropertyTypeForACalendarDay = {
+   id: "01a05fc7-f920-7cdd-b946-5864f6b6665d",
+   pageTypeSlug: "finding",
+   slug: "akasha-has-no-property-type-for-a-calendar-day",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "A page property holding a calendar day has nowhere to land. An instant property must close its slug with `-at` and carry a time to the millisecond, and a day carries neither, so a day is written as text and nothing judges it.",
+   evidence:
+diff --git a/domains/findings/pages/entries-marks-the-declarations-kept-beside-the-page-rather-than-every-list.finding.ts b/domains/findings/pages/entries-marks-the-declarations-kept-beside-the-page-rather-than-every-list.finding.ts
+index a6ad63eda26228756288e95a1a51f65e1ca3e85d..781ad47d67a09b7e78856033ed2bb09de7a63b8e 100644
+--- a/domains/findings/pages/entries-marks-the-declarations-kept-beside-the-page-rather-than-every-list.finding.ts
++++ b/domains/findings/pages/entries-marks-the-declarations-kept-beside-the-page-rather-than-every-list.finding.ts
+@@ -4,7 +4,7 @@ export const entriesMarksTheDeclarationsKeptBesideThePageRatherThanEveryList = {
+   id: "01a05f81-c595-7001-9953-21eae3b70cd9",
+   pageTypeSlug: "finding",
+   slug: "entries-marks-the-declarations-kept-beside-the-page-rather-than-every-list",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "The intent saying a declaration carrying many values says `entries` reads two ways, and the narrower reading was taken: `entries` marks the declarations whose values are kept beside the page rather than every declaration carrying more than one value.",
+   evidence:
+diff --git a/domains/findings/pages/naming-a-reach-would-empty-the-import-index.finding.ts b/domains/findings/pages/naming-a-reach-would-empty-the-import-index.finding.ts
+index e51ecd38e01c32b559606dda82629ca5f1049649..0b3dfb509ebfff15358ae4790dec7fc5f721e5d7 100644
+--- a/domains/findings/pages/naming-a-reach-would-empty-the-import-index.finding.ts
++++ b/domains/findings/pages/naming-a-reach-would-empty-the-import-index.finding.ts
+@@ -4,7 +4,7 @@ export const namingAReachWouldEmptyTheImportIndex = {
+   id: "01a05ad9-3b73-787f-ab20-ed7c86112b62",
+   pageTypeSlug: "finding",
+   slug: "naming-a-reach-would-empty-the-import-index",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "This was true when filed at 20:43 and was answered within the hour. The index filed an edge only for a specifier opening with a dot, so rewriting the akasha imports that reach past a package edge to the names their manifests state would have blinded the required reading gate, the folder shape check and the repointing a move does. `347d2776cc` gave `landingOf` a naming and `f62007f1b6` made the index file an edge for a package specifier; the rewrite followed at 22:14 and 22:23.",
+   evidence:
+diff --git a/domains/findings/pages/reading-one-page-value-loads-every-page-value.finding.ts b/domains/findings/pages/reading-one-page-value-loads-every-page-value.finding.ts
+index 2474fd08b899f4c506e23527e767475f941cf9a1..fcca749f6436254a048c0c323618deff9c3e7e1b 100644
+--- a/domains/findings/pages/reading-one-page-value-loads-every-page-value.finding.ts
++++ b/domains/findings/pages/reading-one-page-value-loads-every-page-value.finding.ts
+@@ -4,7 +4,7 @@ export const readingOnePageValueLoadsEveryPageValue = {
+   id: "01a062bd-d92d-7c9a-b63b-84835f2307fc",
+   pageTypeSlug: "finding",
+   slug: "reading-one-page-value-loads-every-page-value",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "Reading one page's value loads every page's value in the repository. shadow.pageOf is the single-page value reader every check calls, and its first call builds a map over the whole tree. The identity index answers one slug in one small read, but the value index keeps one file for each page type rather than one for each page, so no single-page value read exists to call instead. The design is declared rather than accidental, so mending it changes a stated invariant.",
+   evidence:
+diff --git a/domains/findings/pages/removing-a-module-page-leaves-its-code-and-its-test-behind.finding.ts b/domains/findings/pages/removing-a-module-page-leaves-its-code-and-its-test-behind.finding.ts
+index beacb059c417483790bb2617b7ffa2c5e43fa7a7..a9d4b3000332d68e59460da4a86d333f3043792c 100644
+--- a/domains/findings/pages/removing-a-module-page-leaves-its-code-and-its-test-behind.finding.ts
++++ b/domains/findings/pages/removing-a-module-page-leaves-its-code-and-its-test-behind.finding.ts
+@@ -4,7 +4,7 @@ export const removingAModulePageLeavesItsCodeAndItsTestBehind = {
+   id: "01a060be-c946-7004-9123-bd06975b62f1",
+   pageTypeSlug: "finding",
+   slug: "removing-a-module-page-leaves-its-code-and-its-test-behind",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "`sidecarsOf` in akasha/markdown-pages/markdown-sidecar/markdown-sidecar.module.code.ts now carries a page's rows, attachment, uncommitted file and sops file for a page of either kind, but it names those tails one by one. akasha's own `besideOf` answers any file property whatever it holds, so a module page's `.module.code.ts` and `.module.test.ts` are files of it that the removal and move commands still leave behind.",
+   evidence:
+diff --git a/domains/findings/pages/the-counterfeit-ids-are-referenced-by-nothing-but-minting-over-them-loses-their-tail.finding.ts b/domains/findings/pages/the-counterfeit-ids-are-referenced-by-nothing-but-minting-over-them-loses-their-tail.finding.ts
+index cdbb029adbe77d5aef3c3c1a325cc77c1cd83087..35c05856b604b860723346154a59e08fea10adfd 100644
+--- a/domains/findings/pages/the-counterfeit-ids-are-referenced-by-nothing-but-minting-over-them-loses-their-tail.finding.ts
++++ b/domains/findings/pages/the-counterfeit-ids-are-referenced-by-nothing-but-minting-over-them-loses-their-tail.finding.ts
+@@ -4,7 +4,7 @@ export const theCounterfeitIdsAreReferencedByNothingButMintingOverThemLosesTheir
+   id: "01a0693d-4877-7433-a13c-80bde78b5004",
+   pageTypeSlug: "finding",
+   slug: "the-counterfeit-ids-are-referenced-by-nothing-but-minting-over-them-loses-their-tail",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "None of the 22 hand-stated page ids is referenced anywhere, yet replacing one by omitting `id` breaks the rule that a replaced identity keeps the last eight hex of the old one.",
+   evidence:
+diff --git a/domains/findings/pages/the-page-store-takes-a-write-from-anything-on-the-tailnet.finding.ts b/domains/findings/pages/the-page-store-takes-a-write-from-anything-on-the-tailnet.finding.ts
+index 787052fd233fe159d5fe97132d40ba3300dd090e..4d9a56bcc52879ec9d6af11ca4a750b636bb7cf2 100644
+--- a/domains/findings/pages/the-page-store-takes-a-write-from-anything-on-the-tailnet.finding.ts
++++ b/domains/findings/pages/the-page-store-takes-a-write-from-anything-on-the-tailnet.finding.ts
+@@ -4,7 +4,7 @@ export const thePageStoreTakesAWriteFromAnythingOnTheTailnet = {
+   id: "01a05aef-b3df-759a-b6d8-394b03016092",
+   pageTypeSlug: "finding",
+   slug: "the-page-store-takes-a-write-from-anything-on-the-tailnet",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "The page store's `/write` route asks a caller for nothing, so anything reaching it over the tailnet can write any file under `akasha` and land a git commit, and the `writer` it names is taken as the author of that commit without being checked. The house network no longer reaches it, so what is open to this is Alan's own devices and whatever the cluster lets through the tailnet egress. The bind was fixed tonight and asking for a credential was not.",
+   evidence:
+diff --git a/domains/findings/pages/the-page-type-registry-gap-is-duplicate-declarations-rather-than-missing-types.finding.ts b/domains/findings/pages/the-page-type-registry-gap-is-duplicate-declarations-rather-than-missing-types.finding.ts
+index b90380a75b70f0409adeaacee90df4af98f05ae4..69511f4458d59909b70cbffcf10552e40a45c658 100644
+--- a/domains/findings/pages/the-page-type-registry-gap-is-duplicate-declarations-rather-than-missing-types.finding.ts
++++ b/domains/findings/pages/the-page-type-registry-gap-is-duplicate-declarations-rather-than-missing-types.finding.ts
+@@ -4,7 +4,7 @@ export const thePageTypeRegistryGapIsDuplicateDeclarationsRatherThanMissingTypes
+   id: "01a06104-5116-7230-ab56-82f0dc1cd4a9",
+   pageTypeSlug: "finding",
+   slug: "the-page-type-registry-gap-is-duplicate-declarations-rather-than-missing-types",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "`registryOf` resolves 372 markdown page types and none of the 192 `*.page-type.ts` files, which reads as 192 types absent. It is not: 117 of those slugs already resolve from a markdown declaration and only 75 are genuinely absent. The 117 are one page type declared twice, the two halves disagreeing about where its pages are, so unioning the sets would not add types — it would pick a winner for 117 slugs, and pick differently in first-wins and last-wins readers of one process.",
+   evidence:
+diff --git a/domains/findings/pages/the-page-type-registry-reads-markdown-alone.finding.ts b/domains/findings/pages/the-page-type-registry-reads-markdown-alone.finding.ts
+index 1798560a420d4ea595118fff0d103c0b66d5841b..6b58cfd8496fb48b453c41589e30d2221ab838c7 100644
+--- a/domains/findings/pages/the-page-type-registry-reads-markdown-alone.finding.ts
++++ b/domains/findings/pages/the-page-type-registry-reads-markdown-alone.finding.ts
+@@ -4,7 +4,7 @@ export const thePageTypeRegistryReadsMarkdownAlone = {
+   id: "01a05ce0-2436-7001-9201-bece3500f208",
+   pageTypeSlug: "finding",
+   slug: "the-page-type-registry-reads-markdown-alone",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "The page type registry ingests markdown page-type pages alone, so every page type now declared in TypeScript under akasha is absent from it, and relations-resolve refuses 2616 relations naming pages that all stand on disk.",
+   evidence:
+diff --git a/domains/findings/pages/the-property-type-vocabulary-is-the-codomain-of-the-definitions-still-being-ablated.finding.ts b/domains/findings/pages/the-property-type-vocabulary-is-the-codomain-of-the-definitions-still-being-ablated.finding.ts
+index fc1b9973414cd3135896c2a362ffb76efba88823..54ded9ce0df32a353f21dbb29c1078bde965720a 100644
+--- a/domains/findings/pages/the-property-type-vocabulary-is-the-codomain-of-the-definitions-still-being-ablated.finding.ts
++++ b/domains/findings/pages/the-property-type-vocabulary-is-the-codomain-of-the-definitions-still-being-ablated.finding.ts
+@@ -4,7 +4,7 @@ export const thePropertyTypeVocabularyIsTheCodomainOfTheDefinitionsStillBeingAbl
+   id: "01a06759-4acb-7e78-b1a9-e80c8052496b",
+   pageTypeSlug: "finding",
+   slug: "the-property-type-vocabulary-is-the-codomain-of-the-definitions-still-being-ablated",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "Twelve of the 26 `pages/page-property-type` entries ablated in a39a3490bc are named by surviving definitions, so the folder lost what the checker still owed. `file`, `none`, `size` and `type` are stated in code again at d01699114a and f29b18abb4; `run-kind` and seven record types resolve to nothing, their field declarations having gone too. Demand must be counted through the checker's own unwrapping, not a match on written `^type:` that counts a wrapper and misses what it wraps.",
+   evidence:
+diff --git a/domains/findings/pages/three-relation-behaviours-went-with-the-markdown-relation-checker.finding.ts b/domains/findings/pages/three-relation-behaviours-went-with-the-markdown-relation-checker.finding.ts
+index 4d6d0beac4f7d8694552b2609e1d883fad433f8f..1852a18d2d1ec64725fab96f346c2e1f990e03db 100644
+--- a/domains/findings/pages/three-relation-behaviours-went-with-the-markdown-relation-checker.finding.ts
++++ b/domains/findings/pages/three-relation-behaviours-went-with-the-markdown-relation-checker.finding.ts
+@@ -4,7 +4,7 @@ export const threeRelationBehavioursWentWithTheMarkdownRelationChecker = {
+   id: "01a06864-c80e-798f-be3c-b4247c4cdb48",
+   pageTypeSlug: "finding",
+   slug: "three-relation-behaviours-went-with-the-markdown-relation-checker",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "`page/relation/relation.ts` was ablated in 23df25da on a reading of its successors as carrying it, and the reading was too generous. Most of it did carry, into `pages-access/file-relation` and `indexes/reaching` and the `relation-resolves` code check. Three behaviours did not: address-pointing, what value a candidate page bears for a points mode other than slug, and the refusal that withholds a whole relation verdict when the sweep could not read every page. Nothing read the file, so nothing broke; what is lost is the statement of the gap, which this restores.",
+   evidence:
+diff --git a/domains/findings/pages/title-is-a-temper-property-that-six-page-types-outside-temper-now-carry.finding.ts b/domains/findings/pages/title-is-a-temper-property-that-six-page-types-outside-temper-now-carry.finding.ts
+index fbaff986f84cd9cea0f360c87d1e790461ae80b2..392b327fa7aa10c357faf262043b9741fa449cdc 100644
+--- a/domains/findings/pages/title-is-a-temper-property-that-six-page-types-outside-temper-now-carry.finding.ts
++++ b/domains/findings/pages/title-is-a-temper-property-that-six-page-types-outside-temper-now-carry.finding.ts
+@@ -4,7 +4,7 @@ export const titleIsATemperPropertyThatSixPageTypesOutsideTemperNowCarry = {
+   id: "01a0657f-0c53-7005-b16b-a77c67c1f12e",
+   pageTypeSlug: "finding",
+   slug: "title-is-a-temper-property-that-six-page-types-outside-temper-now-carry",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   claim:
+     "`text-property/title` is the only title property a page may carry, and it sits at `akasha/temper/temper-things/properties/title.text-property.ts`. The Monarch records, the merchants, the category rules, the views, the navs, the collection types and the workflow templates all carry a title, so seven page types outside temper now import a property out of temper's folder.",
+   evidence:
+diff --git a/domains/initiatives/pages/astra-pages-cleanup.initiative.ts b/domains/initiatives/pages/astra-pages-cleanup.initiative.ts
+index e0210cdbdd30333621b19e3de05f2def40095fb6..f5e87266356f11c61bcfe6d3b15954335d1a67dc 100644
+--- a/domains/initiatives/pages/astra-pages-cleanup.initiative.ts
++++ b/domains/initiatives/pages/astra-pages-cleanup.initiative.ts
+@@ -4,7 +4,7 @@ export const astraPagesCleanup = {
+   id: "01a06cd9-a5d8-7ceb-980a-d9e77ebb0437",
+   pageTypeSlug: "initiative",
+   slug: "astra-pages-cleanup",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   personaSlug: "astra",
+   intents: [
+     {
+diff --git a/domains/initiatives/pages/nimue-computed-properties.initiative.ts b/domains/initiatives/pages/nimue-computed-properties.initiative.ts
+index e27566cb96d6e9560b6107f11fc6ff5df70aea38..1a2637b4fd06bbbcdf8867dbae257fdb57e84528 100644
+--- a/domains/initiatives/pages/nimue-computed-properties.initiative.ts
++++ b/domains/initiatives/pages/nimue-computed-properties.initiative.ts
+@@ -4,7 +4,7 @@ export const nimueComputedProperties = {
+   id: "01a06d12-61e3-7c20-b357-a7a04f16e903",
+   pageTypeSlug: "initiative",
+   slug: "nimue-computed-properties",
+-  domainSlug: "workspace-package/pages",
++  domainSlug: "workspace-package/page",
+   personaSlug: "nimue",
+   intents: [
+     {
+diff --git a/pages/page.workspace-package.ts b/pages/page.workspace-package.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..02d64d6effe71e651ca0a752cf62cea6a6e1c84d
+--- /dev/null
++++ b/pages/page.workspace-package.ts
+@@ -0,0 +1,103 @@
++import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++
++export const page = {
++  id: "01a04a26-9105-7000-ab9a-ee74f7657636",
++  pageTypeSlug: "workspace-package",
++  slug: "page",
++  definition: "how we keep track of things",
++  manifest: "json",
++  partSlugs: [
++    "module/entry-ceiling",
++    "module/markdown-document",
++    "module/markdown-page-at",
++    "module/markdown-page-name",
++    "module/page-address",
++    "module/page-beside",
++    "module/page-body",
++    "module/page-entries",
++    "module/page-entry-landing",
++    "module/page-entry-queue",
++    "module/page-entry-writing",
++    "module/page-export-name",
++    "module/page-file-name",
++    "module/page-file-parts",
++    "module/page-secret",
++    "module/page-uncommitted",
++    "module/page-value",
++    "page-type/view",
++    "page-type/nav",
++    "page-type/page",
++    "page-type/page-type",
++    "page-type/text-property",
++    "page-type/number-property",
++    "page-type/computed-property",
++    "page-type/boolean-property",
++    "page-type/instant-property",
++    "page-type/relation-property",
++    "page-type/record-property",
++    "page-type/one-of-property",
++    "page-type/url-property",
++    "page-type/calendar-date-property",
++    "page-type/calendar-time-property",
++    "page-type/select-property",
++    "page-type/rank-property",
++    "page-type/page-property-entry",
++    "page-type/file-property",
++    "page-type/named-file-property",
++    "page-type/phone-number-property",
++    "page-type/email-address-property",
++    "page-type/process-property",
++    "page-type/name-format",
++    "page-type/name-place",
++    "page-type/generator-kind",
++    "page-type/unique-kind",
++    "page-type/page-query",
++    "workspace-package/index",
++    "workspace-package/pages-query",
++    "workspace-package/pages-system-service",
++    "workspace-package/pages-core",
++    "workspace-package/pages-access",
++    "workspace-package/pages-ui-store",
++    "workspace-package/pages-url",
++    "workspace-package/pages-ui",
++    "domain/naming",
++    "domain/page-edge",
++    "domain/page-storage",
++    "module/change",
++    "module/checkout-roots",
++    "module/code-root",
++    "module/page-answer-sweeping",
++    "module/calculation-loading",
++    "module/page-carry",
++    "module/page-computing",
++    "module/page-derive-shape",
++    "module/page-landing-journal",
++    "module/page-landing-judge",
++    "module/page-narrow",
++    "module/page-query-day",
++    "module/page-query-hold",
++    "module/page-query-keys",
++    "module/page-query-narrow",
++    "module/page-query-reduce",
++    "module/page-query-request",
++    "module/page-query-shape",
++    "module/page-query-values",
++    "module/page-value-key",
++    "module/repo-path",
++    "module/shadow",
++    "module/akasha-page-values",
++    "module/live-store-write-guard",
++    "module/test-run-marking",
++    "workspace-package/page-commands",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Page types and page property types are themselves page types.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page is a file whose name carries a page type.",
++    },
++  ],
++} as const satisfies WorkspacePackage
+diff --git a/pages/pages.workspace-package.ts b/pages/pages.workspace-package.ts
+deleted file mode 100644
+index 54796203c4ab75246214742167e44614abbadb94..0000000000000000000000000000000000000000
+--- a/pages/pages.workspace-package.ts
++++ /dev/null
+@@ -1,103 +0,0 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+-
+-export const pages = {
+-  id: "01a04a26-9105-7000-ab9a-ee74f7657636",
+-  pageTypeSlug: "workspace-package",
+-  slug: "pages",
+-  definition: "how we keep track of things",
+-  manifest: "json",
+-  partSlugs: [
+-    "module/entry-ceiling",
+-    "module/markdown-document",
+-    "module/markdown-page-at",
+-    "module/markdown-page-name",
+-    "module/page-address",
+-    "module/page-beside",
+-    "module/page-body",
+-    "module/page-entries",
+-    "module/page-entry-landing",
+-    "module/page-entry-queue",
+-    "module/page-entry-writing",
+-    "module/page-export-name",
+-    "module/page-file-name",
+-    "module/page-file-parts",
+-    "module/page-secret",
+-    "module/page-uncommitted",
+-    "module/page-value",
+-    "page-type/view",
+-    "page-type/nav",
+-    "page-type/page",
+-    "page-type/page-type",
+-    "page-type/text-property",
+-    "page-type/number-property",
+-    "page-type/computed-property",
+-    "page-type/boolean-property",
+-    "page-type/instant-property",
+-    "page-type/relation-property",
+-    "page-type/record-property",
+-    "page-type/one-of-property",
+-    "page-type/url-property",
+-    "page-type/calendar-date-property",
+-    "page-type/calendar-time-property",
+-    "page-type/select-property",
+-    "page-type/rank-property",
+-    "page-type/page-property-entry",
+-    "page-type/file-property",
+-    "page-type/named-file-property",
+-    "page-type/phone-number-property",
+-    "page-type/email-address-property",
+-    "page-type/process-property",
+-    "page-type/name-format",
+-    "page-type/name-place",
+-    "page-type/generator-kind",
+-    "page-type/unique-kind",
+-    "page-type/page-query",
+-    "workspace-package/index",
+-    "workspace-package/pages-query",
+-    "workspace-package/pages-system-service",
+-    "workspace-package/pages-core",
+-    "workspace-package/pages-access",
+-    "workspace-package/pages-ui-store",
+-    "workspace-package/pages-url",
+-    "workspace-package/pages-ui",
+-    "domain/naming",
+-    "domain/page-edge",
+-    "domain/page-storage",
+-    "module/change",
+-    "module/checkout-roots",
+-    "module/code-root",
+-    "module/page-answer-sweeping",
+-    "module/calculation-loading",
+-    "module/page-carry",
+-    "module/page-computing",
+-    "module/page-derive-shape",
+-    "module/page-landing-journal",
+-    "module/page-landing-judge",
+-    "module/page-narrow",
+-    "module/page-query-day",
+-    "module/page-query-hold",
+-    "module/page-query-keys",
+-    "module/page-query-narrow",
+-    "module/page-query-reduce",
+-    "module/page-query-request",
+-    "module/page-query-shape",
+-    "module/page-query-values",
+-    "module/page-value-key",
+-    "module/repo-path",
+-    "module/shadow",
+-    "module/akasha-page-values",
+-    "module/live-store-write-guard",
+-    "module/test-run-marking",
+-    "workspace-package/page-commands",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "Page types and page property types are themselves page types.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A page is a file whose name carries a page type.",
+-    },
+-  ],
+-} as const satisfies WorkspacePackage
+diff --git a/persona-system/personas/astra/astra.persona.ts b/persona-system/personas/astra/astra.persona.ts
+index a0fd1342f27431606d63e049b28823877a9f7eda..2df0cfc638c8f52137fda47ff3fdb63c237614a3 100644
+--- a/persona-system/personas/astra/astra.persona.ts
++++ b/persona-system/personas/astra/astra.persona.ts
+@@ -9,7 +9,7 @@ export const astra = {
+     "To be Alan's design-partner and quality-keeper of the Pages System — the universal substrate where everything is a page. I hold the whole shape of it: the one living form that becomes an Initiative, a Pipeline, an Agent, a story, a world, with nothing rebuilt for each. I work its design and its build with him, and I keep the foundation sound precisely because no one else is watching it. I serve Wealth by keeping the ground every other thing rests on true.",
+   portrait: "md",
+   appearance: "md",
+-  championedDomainSlug: "workspace-package/pages",
++  championedDomainSlug: "workspace-package/page",
+   roleSlug: "definer",
+   valueSlug: "wealth",
+   origin: "invented",
