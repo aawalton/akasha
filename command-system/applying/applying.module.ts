@@ -18,6 +18,10 @@ export const applying = {
     },
     {
       invariantKind: "departure",
+      statement: "A carry the caller names is handed to the landing the apply makes.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A conflict refuses the apply and leaves the patch as the patch was.",
     },
     {

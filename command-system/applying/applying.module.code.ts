@@ -104,7 +104,7 @@ export async function applied(
   const formatting = formattingIn(root, editsOf(said.held))
   if (agentId !== null) warrantedAgain(root, agentId, said.held, said.moved)
   const asRead = agentId === null ? [] : asReadOf(root, agentId, said.held)
-  const done = await landing(root, formatting.changes, said0, gate, writer, head, asRead, [])
+  const done = await landing(root, formatting.changes, said0, gate, writer, head, asRead, carries)
   if ("refusals" in done) return done
   if (agentId !== null) recordedAsLanded(root, agentId, formatting.changes)
   droppedPatch(root, page, APPLIED)
