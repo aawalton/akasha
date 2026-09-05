@@ -1,0 +1,15 @@
+diff --git a/editor-extension/editor-extension.workspace-package.ts b/editor-extension/editor-extension.workspace-package.ts
+index e2855edbd9704cccabe052af68b8052a12f8e9ec..84edcbc735255b1de9a274de2befded3fccbb396 100644
+--- a/editor-extension/editor-extension.workspace-package.ts
++++ b/editor-extension/editor-extension.workspace-package.ts
+@@ -113,6 +113,10 @@ export const editorExtension = {
+       invariantKind: "departure",
+       statement: "A panel row that represents a page names that page.",
+     },
++    {
++      invariantKind: "absence",
++      statement: "No timer starts a drawing.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A row holding a match is drawn open while a filter is there.",
