@@ -82,7 +82,7 @@ export const restore = {
     },
     {
       invariantKind: "departure",
-      statement: "What each path discards is said before what each path was put back to.",
+      statement: "The body each path discards is said before the body each path was put back to.",
     },
     {
       invariantKind: "absence",
