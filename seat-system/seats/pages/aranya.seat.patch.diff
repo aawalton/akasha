@@ -1,5 +1,5 @@
 diff --git a/bun.lock b/bun.lock
-index 26b547db6b174829f6c8825e93835f6daff5e490..8f70ff6ef1b20ade06f28a5c4c5b7dbf25baf40b 100644
+index 26b547db6b174829f6c8825e93835f6daff5e490..b1b242b84c7c5b6041682cd3e9b8cc583292244f 100644
 --- a/bun.lock
 +++ b/bun.lock
 @@ -975,6 +975,10 @@
@@ -13,6 +13,23 @@ index 26b547db6b174829f6c8825e93835f6daff5e490..8f70ff6ef1b20ade06f28a5c4c5b7dbf
      },
      "infrastructure/inference-clients": {
        "name": "@akasha/inference-clients",
+@@ -1201,6 +1205,16 @@
+     },
+     "pages/system-service": {
+       "name": "@akasha/pages-system-service",
++      "dependencies": {
++        "@akasha/checks": "workspace:*",
++        "@akasha/code-system": "workspace:*",
++        "@akasha/command-system": "workspace:*",
++        "@akasha/git": "workspace:*",
++        "@akasha/indexes": "workspace:*",
++        "@akasha/k8s-types": "workspace:*",
++        "@akasha/pages": "workspace:*",
++        "@akasha/service-system": "workspace:*",
++      },
+     },
+     "pages/ui": {
+       "name": "@akasha/pages-ui",
 diff --git a/infrastructure/eso-rig/package.json b/infrastructure/eso-rig/package.json
 index 9f818623bbb9efde9e5b906f5cd3031538447e28..25dcd644da516c3ea0dcd2291b8ff69438f01748 100644
 --- a/infrastructure/eso-rig/package.json
@@ -27,4 +44,24 @@ index 9f818623bbb9efde9e5b906f5cd3031538447e28..25dcd644da516c3ea0dcd2291b8ff694
 +    "@akasha/code-system": "workspace:*",
 +    "@akasha/k8s-types": "workspace:*"
 +  }
+ }
+diff --git a/pages/system-service/package.json b/pages/system-service/package.json
+index 92c41b7d3e9215f00161d375f8488ecd35a4cbb8..b8490560187722c638f308df1cf70c51a791bf28 100644
+--- a/pages/system-service/package.json
++++ b/pages/system-service/package.json
+@@ -11,5 +11,15 @@
+     "./serving": "./page-serving/page-serving.module.code.ts",
+     "./writing": "./page-writing/page-writing.module.code.ts",
+     "./where-testing": "./where-testing/where-testing.module.code.ts"
++  },
++  "dependencies": {
++    "@akasha/checks": "workspace:*",
++    "@akasha/code-system": "workspace:*",
++    "@akasha/command-system": "workspace:*",
++    "@akasha/git": "workspace:*",
++    "@akasha/indexes": "workspace:*",
++    "@akasha/k8s-types": "workspace:*",
++    "@akasha/pages": "workspace:*",
++    "@akasha/service-system": "workspace:*"
+   }
  }
