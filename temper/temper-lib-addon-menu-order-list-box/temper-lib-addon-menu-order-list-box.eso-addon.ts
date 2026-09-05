@@ -42,7 +42,7 @@ export const temperLibAddonMenuOrderListBox = {
     },
     {
       invariantKind: "departure",
-      statement: "A row is moved by dragging it or by the four buttons beside the list.",
+      statement: "A row is moved by dragging that row or by the four buttons beside the list.",
     },
     {
       invariantKind: "constraint",
