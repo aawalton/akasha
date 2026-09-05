@@ -30,3 +30,19 @@ index f145faf1f5be40b4a3e90554395fadd298e5a9b8..3e7020f7edd055b8fcf84511328489e0
      {
        invariantKind: "absence",
        statement: "No rule about quoting or basenames exists here.",
+diff --git a/pages/commands/page-secret-show/page-secret-show.command.ts b/pages/commands/page-secret-show/page-secret-show.command.ts
+index 247c7dd1bbacd61685445f3b8e265988b4ede079..18b41ad9cfa362790eccfd471382a7c449e57953 100644
+--- a/pages/commands/page-secret-show/page-secret-show.command.ts
++++ b/pages/commands/page-secret-show/page-secret-show.command.ts
+@@ -28,10 +28,7 @@ export const pageSecretShow = {
+       invariantKind: "departure",
+       statement: "The keys declared are read off the page type the page names.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A key is spelled as the page type's own key rather than as its slug.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here decrypts anything or answers with a value.",
