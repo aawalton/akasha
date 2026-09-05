@@ -101,8 +101,7 @@ export const connectionActivity = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Every rating is a multiplier against one, so an activity worth an ordinary hour scores one throughout.",
+      statement: "Every rating is a multiplier against an ordinary hour.",
     },
     {
       invariantKind: "departure",
