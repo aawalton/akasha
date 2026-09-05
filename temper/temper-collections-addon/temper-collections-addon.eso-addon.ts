@@ -44,7 +44,7 @@ export const temperCollectionsAddon = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads what a tracker keeps.",
+      statement: "Nothing here reads the data a tracker keeps.",
     },
   ],
 } as const satisfies EsoAddon
