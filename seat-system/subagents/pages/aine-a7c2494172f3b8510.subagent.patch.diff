@@ -1,5 +1,5 @@
 diff --git a/temper/temper-commands/temper-inventory-buy-rule-list/temper-inventory-buy-rule-list.command.code.ts b/temper/temper-commands/temper-inventory-buy-rule-list/temper-inventory-buy-rule-list.command.code.ts
-index 9106f271a4c7e49f8120287df40f0e043c2bf564..14104f1f0542142dc4ed0fdfa7601408258ab2a0 100644
+index 9106f271a4c7e49f8120287df40f0e043c2bf564..5054f825c7cfea21ef38f3514d96d7a7bcc59b64 100644
 --- a/temper/temper-commands/temper-inventory-buy-rule-list/temper-inventory-buy-rule-list.command.code.ts
 +++ b/temper/temper-commands/temper-inventory-buy-rule-list/temper-inventory-buy-rule-list.command.code.ts
 @@ -36,9 +36,9 @@ const COLUMNS = [
@@ -32,7 +32,7 @@ index 9106f271a4c7e49f8120287df40f0e043c2bf564..14104f1f0542142dc4ed0fdfa7601408
          currentTotal,
          shortfall: computeBuyShortfall(rule.targetQuantity, currentTotal),
        })
-@@ -66,7 +66,7 @@ async function listed(held: ReadonlyMap<string, string>): Promise<Answer> {
+@@ -66,14 +66,14 @@ async function listed(held: ReadonlyMap<string, string>): Promise<Answer> {
    if (held.has(JSON_FLAG)) {
      return toldOf(
        rules.map((rule) => {
@@ -41,6 +41,14 @@ index 9106f271a4c7e49f8120287df40f0e043c2bf564..14104f1f0542142dc4ed0fdfa7601408
          return { ...rule, currentTotal: read.currentTotal, shortfall: read.shortfall }
        })
      )
+   }
+   return toldRows(
+     rules.map((rule) => {
+-      const read = standing.get(rule.id) ?? UNREAD
++      const read = reading.get(rule.id) ?? UNREAD
+       return {
+         itemName: rule.itemName,
+         itemId: rule.itemId,
 diff --git a/temper/temper-commands/temper-inventory-buy-rule-update/temper-inventory-buy-rule-update.command.code.ts b/temper/temper-commands/temper-inventory-buy-rule-update/temper-inventory-buy-rule-update.command.code.ts
 index d413a664bd5414dfaf492aeb20f89071f7e893d9..f2a7644cee177645385938e35b4617982d553dc2 100644
 --- a/temper/temper-commands/temper-inventory-buy-rule-update/temper-inventory-buy-rule-update.command.code.ts
