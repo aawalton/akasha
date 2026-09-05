@@ -17,7 +17,8 @@
   },
   "files.watcherExclude": {
     "**/node_modules/**": true,
-    "akasha-backup-*/**": true
+    "akasha-backup-*/**": true,
+    "**/.git/**": true
   },
   "terminal.integrated.mouseWheelScrollSensitivity": 3,
   "terminal.integrated.gpuAcceleration": "off",
