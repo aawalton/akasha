@@ -1,0 +1,287 @@
+diff --git a/editor-extension/work-tree-panel/work-tree-panel.module.code.ts b/editor-extension/work-tree-panel/work-tree-panel.module.code.ts
+index b4da26ca9de3c2a01ad961cec4d6fac8e645f907..2af40cf378ef3de3e623eda5b16e69ec8c9b08f8 100644
+--- a/editor-extension/work-tree-panel/work-tree-panel.module.code.ts
++++ b/editor-extension/work-tree-panel/work-tree-panel.module.code.ts
+@@ -1,16 +1,14 @@
++import { relative } from "node:path"
+ import * as vscode from "vscode"
+-import { repositoryPath, unreachableMessage } from "../harness-call/harness-call.module.code.ts"
++import {
++  followState,
++  readState,
++  stateAt,
++} from "../../alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts"
++import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
+ import { recordObservation } from "../observation-store/observation-store.module.code.ts"
+-import { SEAT_SIDECAR_GLOB, seatDirs } from "../seat-turn-colors/seat-turn-colors.module.code.ts"
+-import { createSettledRefresh } from "../settled-refresh/settled-refresh.module.code.ts"
+-import { recolor } from "../work-tree-colors/work-tree-colors.module.code.ts"
+ import { REFRESH_COMMAND, VIEW_ID } from "../work-tree-ids/work-tree-ids.module.code.ts"
+-import {
+-  countRows,
+-  readWorkColors,
+-  readWorkTree,
+-  workKeys,
+-} from "../work-tree-reading/work-tree-reading.module.code.ts"
++import { countRows, workKeys } from "../work-tree-reading/work-tree-reading.module.code.ts"
+ import type { WorkNode, WorkTree } from "../work-tree-rows/work-tree-rows.module.code.ts"
+ import {
+   createWorkDecorationProvider,
+@@ -18,14 +16,27 @@ import {
+ } from "../work-tree-view/work-tree-view.module.code.ts"
+ 
+ const FEATURE = "work-tree"
+-
+-const SETTLE_MS = 2_000
+-
+-const CORPUS_GLOB = "**/*.initiative.ts"
+-
+-// A REPAINT IS CHEAP AND A SEAT MOVES OFTEN, so the quiet a seat's write waits through is short
+-// enough that a turn changing color is drawn while Alan is still looking at what set it off.
+-const SEAT_SETTLE_MS = 25
++const SLUG = "work-tree"
++
++// The file spells a row the way every state file spells one, and the panel spells it another way.
++// The document is the one field that differs in kind rather than in name: the file carries the
++// whole path, the panel carries it against the repository, and `documentPath` puts them back
++// together. Taking the repository away from the path here is what makes that join exact.
++//
++// A color is carried on as the name it is. The decoration provider puts that name in a uri path
++// and matches it against the palette, so a color turned into something drawable here would fail
++// that match and leave the row uncolored.
++function asNode(row: WorkTreeRow, root: string): WorkNode {
++  return {
++    key: row.key,
++    label: row.label,
++    relPath: row.at === null ? null : relative(root, row.at),
++    detail: row.detail,
++    note: row.note,
++    color: row.color,
++    children: row.children.map((child) => asNode(child, root)),
++  }
++}
+ 
+ let output: vscode.OutputChannel
+ 
+@@ -45,8 +56,6 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
+ 
+   let total = 0
+ 
+-  let current: WorkTree | undefined
+-
+   const describe = (): undefined => {
+     const matched = tree.matchCount()
+     view.description =
+@@ -54,29 +63,22 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
+     return undefined
+   }
+ 
+-  const refresh = async (trigger: string): Promise<undefined> => {
++  const draw = (held: WorkTreeState, trigger: string): undefined => {
++    const root = akashaRoot()
+     try {
+-      const next = await readWorkTree()
++      const next: WorkTree = { repo: root, roots: held.roots.map((row) => asNode(row, root)) }
+       tree.replace(next)
+-      current = next
+-      watchCorpus(next.repo)
+       const rows = countRows(next.roots)
+       total = rows
+       describe()
+-      view.badge = {
+-        value: rows,
+-        tooltip: rows === 1 ? "1 row" : `${rows} rows`,
+-      }
++      view.badge = { value: rows, tooltip: rows === 1 ? "1 row" : `${rows} rows` }
+       view.message = undefined
+       const keys = workKeys(next.roots)
+       const duplicated = keys.filter((key, at) => keys.indexOf(key) !== at)
+-      output.appendLine(`[${trigger}] ${rows} initiative(s) from ${next.repo}`)
++      output.appendLine(`[${trigger}] ${rows} initiative(s)`)
+       recordObservation(FEATURE, {
+         outcome: "ok",
+-        counts: {
+-          initiatives: rows,
+-          drawnMoreThanOnce: new Set(duplicated).size,
+-        },
++        counts: { initiatives: rows, drawnMoreThanOnce: new Set(duplicated).size },
+       })
+       if (duplicated.length > 0) {
+         output.appendLine(
+@@ -88,76 +90,30 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
+         )
+       }
+     } catch (err) {
+-      view.message = unreachableMessage(err)
+-      output.appendLine(`[${trigger}] read failed: ${String(err)}`)
++      output.appendLine(`[${trigger}] drawing failed: ${String(err)}`)
+       recordObservation(FEATURE, { outcome: "failed", failure: String(err) })
+     }
+     return undefined
+   }
+ 
+-  const settled = createSettledRefresh(SETTLE_MS, refresh)
+-
+-  // A SEAT MOVING REPAINTS RATHER THAN RE-READS. Reading the colors opens no initiative page, so a
+-  // turn changing color costs a small fraction of the tree, and a repaint that moves no color
+-  // leaves the rows exactly as they are.
+-  const repaint = async (trigger: string): Promise<undefined> => {
+-    if (current === undefined) {
++  // Asking for the file again answers a manual refresh at once rather than waiting to be told.
++  // A file the service has not written leaves the rows on the screen as they are.
++  const refresh = (trigger: string): undefined => {
++    const held = readState<WorkTreeState>(stateAt(akashaRoot(), SLUG))
++    if (held === null) {
+       return undefined
+     }
+-    try {
+-      const next = recolor(current, await readWorkColors())
+-      if (next === undefined) {
+-        return undefined
+-      }
+-      current = next
+-      tree.replace(next)
+-      output.appendLine(`[${trigger}] recolored`)
+-    } catch (err) {
+-      output.appendLine(`[${trigger}] the colors could not be read: ${String(err)}`)
+-    }
+-    return undefined
++    return draw(held, trigger)
+   }
+ 
+-  const settledSeats = createSettledRefresh(SEAT_SETTLE_MS, repaint)
++  const reading = followState<WorkTreeState>(akashaRoot(), SLUG, (held) => draw(held, "work"))
+ 
+   context.subscriptions.push(
+-    settledSeats,
+-    ...seatDirs().map((dir) => {
+-      const seats = vscode.workspace.createFileSystemWatcher(
+-        new vscode.RelativePattern(vscode.Uri.file(dir), SEAT_SIDECAR_GLOB)
+-      )
+-      seats.onDidChange(() => settledSeats.request("seat written"))
+-      seats.onDidCreate(() => settledSeats.request("seat added"))
+-      seats.onDidDelete(() => settledSeats.request("seat removed"))
+-      return seats
+-    })
+-  )
+-
+-  let watched: string | undefined
+-  const watchCorpus = (named: string): undefined => {
+-    if (watched !== undefined) {
+-      return undefined
+-    }
+-    const repo = repositoryPath(named)
+-    watched = repo
+-    const moved = (why: string) => (): void => {
+-      settled.request(why)
+-    }
+-    const watcher = vscode.workspace.createFileSystemWatcher(
+-      new vscode.RelativePattern(vscode.Uri.file(repo), CORPUS_GLOB)
+-    )
+-    context.subscriptions.push(
+-      watcher,
+-      watcher.onDidChange(moved("written")),
+-      watcher.onDidCreate(moved("added")),
+-      watcher.onDidDelete(moved("removed"))
+-    )
+-    output.appendLine(`watching ${repo}/${CORPUS_GLOB}, re-reading ${SETTLE_MS}ms after it settles`)
+-    return undefined
+-  }
+-
+-  context.subscriptions.push(
+-    settled,
++    {
++      dispose: () => {
++        reading.stop()
++      },
++    },
+     view.onDidChangeFilterValue((pattern) => {
+       tree.filter(pattern)
+       describe()
+@@ -165,7 +121,5 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
+     vscode.window.registerFileDecorationProvider(createWorkDecorationProvider()),
+     vscode.commands.registerCommand(REFRESH_COMMAND, () => refresh("manual"))
+   )
+-
+-  await refresh("activate")
+   return undefined
+ }
+diff --git a/editor-extension/work-tree-panel/work-tree-panel.module.ts b/editor-extension/work-tree-panel/work-tree-panel.module.ts
+index 6bf4c4801efa4830f529ba8f4087d39bc28e52d5..a52f546c6f504cf9ea56cb6049f475219d2fc6e0 100644
+--- a/editor-extension/work-tree-panel/work-tree-panel.module.ts
++++ b/editor-extension/work-tree-panel/work-tree-panel.module.ts
+@@ -4,37 +4,36 @@ export const workTreePanel = {
+   id: "01a06867-dbcc-7879-ad46-099350c0a109",
+   pageTypeSlug: "module",
+   slug: "work-tree-panel",
+-  definition: "the Work panel brought up, and when the initiatives are read or repainted for it",
++  definition: "the Work panel brought up, and the initiatives drawn into it from one file",
+   code: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The panel is read once as that panel starts, before any write asks for a read.",
++      statement: "The initiatives are read from the file the service writes rather than composed.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An initiative written asks for a read once the corpus has held still.",
++      statement: "The panel draws what that file holds before any change to it arrives.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An initiative written is re-read from the file rather than from a held answer.",
++      statement: "The panel draws again when that file is written and at no other time.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A seat's sidecar moving repaints the rows rather than reading the tree again.",
++      statement: "A file the service has not written leaves the rows on the screen as they are.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A repaint waits through a quiet far shorter than the one a written page waits.",
++      statement: "A row is spelled for the panel from the row the file carries.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A repaint before any tree exists does nothing.",
++      statement: "A row's document is carried against the repository the panel was given.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Colors that cannot be read are said on the channel and leave every row as that row is.",
++      statement: "A color is carried on as its name, the decoration being what reads that name.",
+     },
+     {
+       invariantKind: "departure",
+@@ -42,17 +41,24 @@ export const workTreePanel = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A read that fails says why in the view rather than leaving the rows drawn as true.",
++      statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
+     },
+     {
+-      invariantKind: "departure",
+-      statement: "Every read's outcome is recorded as an observation under the panel's name.",
++      invariantKind: "absence",
++      statement: "No timer starts a drawing.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No watcher on a seat file or an initiative file is registered here.",
+     },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here composes the tree.",
+     },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here raises a color through the rows.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here decides what a row looks like.",
