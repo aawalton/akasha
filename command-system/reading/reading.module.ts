@@ -18,7 +18,7 @@ export const reading = {
     },
     {
       invariantKind: "departure",
-      statement: "A line carries the object id of what was read.",
+      statement: "A line carries the object id of the body read.",
     },
     {
       invariantKind: "departure",
@@ -67,12 +67,12 @@ export const reading = {
     },
     {
       invariantKind: "departure",
-      statement: "Reading a body again clears what a mechanical change left.",
+      statement: "Reading a body again clears the object id a mechanical change left.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A mechanical change carries a reading of what changed onto the body and path the change left.",
+        "A mechanical change carries a reading of the changed file onto the body and path the change left.",
     },
     {
       invariantKind: "departure",
@@ -85,7 +85,7 @@ export const reading = {
     },
     {
       invariantKind: "departure",
-      statement: "The body a mechanical change left answers what a warrant asks.",
+      statement: "The body a mechanical change left answers the question a warrant asks.",
     },
     {
       invariantKind: "departure",
@@ -113,7 +113,7 @@ export const reading = {
     },
     {
       invariantKind: "departure",
-      statement: "A removal forgets the reading of what went for every agent.",
+      statement: "A removal forgets the reading of the path that went for every agent.",
     },
     {
       invariantKind: "departure",
