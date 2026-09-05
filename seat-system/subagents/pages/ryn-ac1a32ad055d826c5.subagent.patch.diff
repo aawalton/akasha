@@ -25,3 +25,16 @@ index bd60fcc2dbf5756fdbbc52e7b17ab23f8d1491b4..e5a206886a26fa6fc6c1a09c6ad75d2c
      },
      {
        invariantKind: "absence",
+diff --git a/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts b/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
+index 6ca19dda23622339afed065457a8c62961a61859..7f357b98b2f4844cc792176ebbce2ff515fc7176 100644
+--- a/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
++++ b/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
+@@ -51,7 +51,7 @@ export const transactions = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A transaction that has been split leaves the list Monarch serves and its parts are there in its place.",
++        "A split transaction leaves the list Monarch serves and its parts are there in its place.",
+     },
+     {
+       invariantKind: "departure",
