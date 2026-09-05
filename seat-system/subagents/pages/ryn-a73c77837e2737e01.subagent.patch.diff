@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/indexes/property-carrying/property-carrying.module.ts b/pages/indexes/property-carrying/property-carrying.module.ts
+index a3bff00267385e421e378bd28ea94fe7b9366b8b..8f54c87fabcfc5a94767e3e3015fc1deaf84fcc4 100644
+--- a/pages/indexes/property-carrying/property-carrying.module.ts
++++ b/pages/indexes/property-carrying/property-carrying.module.ts
+@@ -27,7 +27,7 @@ export const propertyCarrying = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A declarer is answered with the page type it is.",
++      statement: "A declarer is answered with the page type that declarer is.",
+     },
+     {
+       invariantKind: "departure",
