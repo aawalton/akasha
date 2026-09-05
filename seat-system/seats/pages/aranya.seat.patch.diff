@@ -119,3 +119,11 @@ index 616d09d75c960b989db6c1f0e8a48bef3410c218..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../design/patterns
 \ No newline at end of file
+diff --git a/design/primitives/design-primitives b/design/primitives/design-primitives
+deleted file mode 120000
+index c4c3a29f22e504b83b58fb7825016f209a743880..0000000000000000000000000000000000000000
+--- a/design/primitives/design-primitives
++++ /dev/null
+@@ -1 +0,0 @@
+-../../design/primitives
+\ No newline at end of file
