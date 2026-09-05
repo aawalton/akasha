@@ -1,0 +1,65 @@
+diff --git a/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.code.ts b/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.code.ts
+index 67247598f4254206b387691f623c6b9397725403..8503bf16d3eefe63f88a82c54eeb95c307600660 100644
+--- a/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.code.ts
++++ b/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.code.ts
+@@ -38,7 +38,7 @@ const WATCH_POLL_MS = 3_000
+ /** How long a run of writes settles before one push is made of it. */
+ const PUSH_DEBOUNCE_MS = 2_000
+ 
+-/** The mtime standing for "this watch has pushed nothing yet". */
++/** The mtime representing "this watch has pushed nothing yet". */
+ const NO_MTIME_PUSHED = 0
+ 
+ /** The expiry a file that says nothing is read as. */
+diff --git a/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.test.ts b/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.test.ts
+index 12724ad279f6a3f067dea3b01f8147ece92939a8..728a8f66a610023ddec5cb5720c4baccec091882 100644
+--- a/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.test.ts
++++ b/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.test.ts
+@@ -138,7 +138,7 @@ describe("credentialFileIn", () => {
+ })
+ 
+ describe("credentialFileWritten", () => {
+-  test("a credential reaches a directory that does not yet stand", () => {
++  test("a credential reaches a directory that is not there yet", () => {
+     const dir = join(whereverIn(), "deep", "deeper")
+     credentialFileWritten(dir, credentialOf())
+     expect(credentialFileIn(dir)).toEqual({
+diff --git a/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts b/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts
+index 42d34ae917b27d1d7d43364539e1483bffc16ada..f2a1073a0cef980cdb50e83f97532674a7914c4b 100644
+--- a/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts
++++ b/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts
+@@ -20,7 +20,7 @@ export const claudeAccountCredentialFile = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A write of an empty access token or an empty refresh token leaves the file as it stands.",
++        "A write of an empty access token or an empty refresh token leaves the file as it is.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/agents/claude-accounts/modules/health/claude-account-health.module.test.ts b/agents/claude-accounts/modules/health/claude-account-health.module.test.ts
+index 2c70dd11f079b23d174a19f933811ad84336f8ac..2e4e61f89d0b1e6dd5550e6d003152ccd089b57c 100644
+--- a/agents/claude-accounts/modules/health/claude-account-health.module.test.ts
++++ b/agents/claude-accounts/modules/health/claude-account-health.module.test.ts
+@@ -244,7 +244,7 @@ describe("decideTokenTerminalAlert", () => {
+     expect(said).toBe("none")
+   })
+ 
+-  test("a refresh that worked clears a latch that stands", () => {
++  test("a refresh that worked clears a latch that is there", () => {
+     const said = decideTokenTerminalAlert(
+       given({ refreshOk: true, alreadyAlertedAtMs: NOW - 1000 })
+     )
+diff --git a/agents/claude-accounts/modules/health/claude-account-health.module.ts b/agents/claude-accounts/modules/health/claude-account-health.module.ts
+index f7047b3062ae1ff552fa4cb73b1177b1854b4471..71c9ed27c1e031de16631875a82ddf7b02af1731 100644
+--- a/agents/claude-accounts/modules/health/claude-account-health.module.ts
++++ b/agents/claude-accounts/modules/health/claude-account-health.module.ts
+@@ -63,7 +63,7 @@ export const claudeAccountHealth = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A refresh that worked clears a latch that stands.",
++      statement: "A refresh that worked clears a latch that is there.",
+     },
+     {
+       invariantKind: "departure",
