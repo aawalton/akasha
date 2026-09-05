@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.test.ts b/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.test.ts
-index d6298682ed396fc95f4f3dfb401ee59c29378ab6..ea1b3f257b9ec314f6bbc01b6090cd23091b8367 100644
+index d6298682ed396fc95f4f3dfb401ee59c29378ab6..adbeb53436f58442c315787182e30b6bcd00843f 100644
 --- a/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.test.ts
 +++ b/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.test.ts
 @@ -10,7 +10,7 @@ test("a file carrying no comment is let through", () => {
@@ -9,6 +9,15 @@ index d6298682ed396fc95f4f3dfb401ee59c29378ab6..ea1b3f257b9ec314f6bbc01b6090cd23
 -test("a line of prose is refused, and names the line it stands on", () => {
 +test("a line of prose is refused, and names the line it sits on", () => {
    const body = ["export const one = 1", "// this holds the count", "export const two = 2"].join(
+     "\n"
+   )
+@@ -37,7 +37,7 @@ test("a declared form is let through", () => {
+   expect(reasonsIn(given(`${body}\n`))).toEqual([])
+ })
+ 
+-test("a form another language parses stands for nothing in a TypeScript folder", () => {
++test("a form another language parses represents nothing in a TypeScript folder", () => {
+   const body = ["// shellcheck disable=SC2086", "// @noSelfInFile", "export const one = 1"].join(
      "\n"
    )
 diff --git a/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.ts b/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.ts
