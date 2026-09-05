@@ -1,0 +1,209 @@
+diff --git a/pages/core/color-rules/color-rules.module.code.ts b/pages/core/color-rules/color-rules.module.code.ts
+deleted file mode 100644
+index 1ee35faf5e45046dab9c859f9112f0ad3342535e..0000000000000000000000000000000000000000
+--- a/pages/core/color-rules/color-rules.module.code.ts
++++ /dev/null
+@@ -1,17 +0,0 @@
+-import type { PropertyDefinition } from "../page-data/page-data.module.code.ts"
+-import type { PropertyValue } from "../property-types/property-type-ops/property-type-ops.module.code.ts"
+-import type { BadgeVariant, ColorRuleVariant } from "../schema/color-rule/color-rule.module.code.ts"
+-
+-export function colorRuleVariantToBadgeVariant(variant: ColorRuleVariant): BadgeVariant {
+-  return variant === "default" ? "elevation-muted" : variant
+-}
+-
+-export function resolveBadgeVariant(
+-  definition: PropertyDefinition,
+-  value: PropertyValue
+-): BadgeVariant | null {
+-  const colorRule = definition.colorRule
+-  if (colorRule === undefined) return null
+-  const variant = colorRule(value)
+-  return variant === null ? null : colorRuleVariantToBadgeVariant(variant)
+-}
+diff --git a/pages/core/color-rules/color-rules.module.ts b/pages/core/color-rules/color-rules.module.ts
+deleted file mode 100644
+index 45286f4db20b766464a46aad4ab6c0332868136d..0000000000000000000000000000000000000000
+--- a/pages/core/color-rules/color-rules.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const colorRules = {
+-  id: "01a05b92-a9c7-7ace-8e56-c3d51e099727",
+-  pageTypeSlug: "module",
+-  slug: "color-rules",
+-  definition: "the badge variant a property earns from its color rule",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/pages/core/resolve-badge-variant/resolve-badge-variant.module.code.ts b/pages/core/resolve-badge-variant/resolve-badge-variant.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8229b4c56f619c8e177e2d87b5f79c908fe352bb
+--- /dev/null
++++ b/pages/core/resolve-badge-variant/resolve-badge-variant.module.code.ts
+@@ -0,0 +1,20 @@
++import type { PropertyDefinition } from "../page-data/page-data.module.code.ts"
++import type { PropertyValue } from "../property-types/property-type-ops/property-type-ops.module.code.ts"
++import type {
++  BadgeVariant,
++  ColorRuleVariant,
++} from "../schema/color-rule-variant/color-rule-variant.module.code.ts"
++
++export function colorRuleVariantToBadgeVariant(variant: ColorRuleVariant): BadgeVariant {
++  return variant === "default" ? "elevation-muted" : variant
++}
++
++export function resolveBadgeVariant(
++  definition: PropertyDefinition,
++  value: PropertyValue
++): BadgeVariant | null {
++  const colorRule = definition.colorRule
++  if (colorRule === undefined) return null
++  const variant = colorRule(value)
++  return variant === null ? null : colorRuleVariantToBadgeVariant(variant)
++}
+diff --git a/pages/core/resolve-badge-variant/resolve-badge-variant.module.ts b/pages/core/resolve-badge-variant/resolve-badge-variant.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7a98f01023516ae6c5bdb42af88af76f362d8e8c
+--- /dev/null
++++ b/pages/core/resolve-badge-variant/resolve-badge-variant.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const resolveBadgeVariant = {
++  id: "01a05b92-a9c7-7ace-8e56-c3d51e099727",
++  pageTypeSlug: "module",
++  slug: "resolve-badge-variant",
++  definition: "the badge variant a property earns from its color rule",
++  code: "ts",
++} as const satisfies Module
+diff --git a/pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts b/pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5b3e820cbd38dd54b2dacad0557b01a97d38f686
+--- /dev/null
++++ b/pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts
+@@ -0,0 +1,44 @@
++import * as z from "zod"
++
++const BADGE_VARIANTS = [
++  "accent",
++  "elevation-muted",
++  "green",
++  "blue",
++  "purple",
++  "yellow",
++  "orange",
++  "red",
++] as const
++
++export type BadgeVariant = (typeof BADGE_VARIANTS)[number]
++
++export const badgeVariantSchema = z.enum(BADGE_VARIANTS)
++
++export const COLOR_RULE_VARIANTS = [
++  "default",
++  "green",
++  "blue",
++  "purple",
++  "yellow",
++  "orange",
++  "red",
++] as const
++
++export type ColorRuleVariant = (typeof COLOR_RULE_VARIANTS)[number]
++
++const LEGACY_VARIANT_COERCIONS: Record<string, ColorRuleVariant> = {
++  "elevation-muted": "default",
++  accent: "yellow",
++  emerald: "green",
++  sapphire: "blue",
++  amethyst: "purple",
++  topaz: "yellow",
++  carnelian: "orange",
++  ruby: "red",
++}
++
++export const colorRuleVariantSchema = z.preprocess(
++  (v) => (typeof v === "string" && v in LEGACY_VARIANT_COERCIONS ? LEGACY_VARIANT_COERCIONS[v] : v),
++  z.enum(COLOR_RULE_VARIANTS)
++)
+diff --git a/pages/core/schema/color-rule-variant/color-rule-variant.module.ts b/pages/core/schema/color-rule-variant/color-rule-variant.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0726f8bf16b214e5f3f46711483514d87072cc11
+--- /dev/null
++++ b/pages/core/schema/color-rule-variant/color-rule-variant.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const colorRuleVariant = {
++  id: "01a05b92-a9c7-7cbb-9947-4a3b2ce201a6",
++  pageTypeSlug: "module",
++  slug: "color-rule-variant",
++  definition: "the named colors a badge is drawn in and a color rule answers",
++  code: "ts",
++} as const satisfies Module
+diff --git a/pages/core/schema/color-rule/color-rule.module.code.ts b/pages/core/schema/color-rule/color-rule.module.code.ts
+deleted file mode 100644
+index 5b3e820cbd38dd54b2dacad0557b01a97d38f686..0000000000000000000000000000000000000000
+--- a/pages/core/schema/color-rule/color-rule.module.code.ts
++++ /dev/null
+@@ -1,44 +0,0 @@
+-import * as z from "zod"
+-
+-const BADGE_VARIANTS = [
+-  "accent",
+-  "elevation-muted",
+-  "green",
+-  "blue",
+-  "purple",
+-  "yellow",
+-  "orange",
+-  "red",
+-] as const
+-
+-export type BadgeVariant = (typeof BADGE_VARIANTS)[number]
+-
+-export const badgeVariantSchema = z.enum(BADGE_VARIANTS)
+-
+-export const COLOR_RULE_VARIANTS = [
+-  "default",
+-  "green",
+-  "blue",
+-  "purple",
+-  "yellow",
+-  "orange",
+-  "red",
+-] as const
+-
+-export type ColorRuleVariant = (typeof COLOR_RULE_VARIANTS)[number]
+-
+-const LEGACY_VARIANT_COERCIONS: Record<string, ColorRuleVariant> = {
+-  "elevation-muted": "default",
+-  accent: "yellow",
+-  emerald: "green",
+-  sapphire: "blue",
+-  amethyst: "purple",
+-  topaz: "yellow",
+-  carnelian: "orange",
+-  ruby: "red",
+-}
+-
+-export const colorRuleVariantSchema = z.preprocess(
+-  (v) => (typeof v === "string" && v in LEGACY_VARIANT_COERCIONS ? LEGACY_VARIANT_COERCIONS[v] : v),
+-  z.enum(COLOR_RULE_VARIANTS)
+-)
+diff --git a/pages/core/schema/color-rule/color-rule.module.ts b/pages/core/schema/color-rule/color-rule.module.ts
+deleted file mode 100644
+index 1c0f3ab4d68dd6816adc2e7a05e3d8c983428c8e..0000000000000000000000000000000000000000
+--- a/pages/core/schema/color-rule/color-rule.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const colorRule = {
+-  id: "01a05b92-a9c7-7cbb-9947-4a3b2ce201a6",
+-  pageTypeSlug: "module",
+-  slug: "color-rule",
+-  definition: "the named colors a badge is drawn in and a color rule answers",
+-  code: "ts",
+-} as const satisfies Module
