@@ -1,4 +1,3 @@
-runsWarrants: false
 diff --git a/infrastructure/postgres-annual-dump/manifests/postgres-annual-dump-manifests.manifest.code.ts b/infrastructure/postgres-annual-dump/manifests/postgres-annual-dump-manifests.manifest.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..82e14a01f43583f3fa98fd9236a698c64623d623
@@ -236,13 +235,14 @@ index 82e14a01f43583f3fa98fd9236a698c64623d623..00000000000000000000000000000000
 -  return [{ name: "cronjob", yaml: cronjobYaml() }]
 -}
 diff --git a/service-system/cluster-services/pages/postgres-annual-dump.cluster-service.ts b/service-system/cluster-services/pages/postgres-annual-dump.cluster-service.ts
-index b4eda6005a38c5d1b56551b63a2d95a644fcb00a..135d77c77889708caf363d277240b8fd3a3bf175 100644
+index b4eda6005a38c5d1b56551b63a2d95a644fcb00a..68b542e5dda24514c7f340b8ea170a9a3b5f7ed4 100644
 --- a/service-system/cluster-services/pages/postgres-annual-dump.cluster-service.ts
 +++ b/service-system/cluster-services/pages/postgres-annual-dump.cluster-service.ts
-@@ -11,5 +11,5 @@ export const postgresAnnualDump = {
+@@ -10,6 +10,5 @@ export const postgresAnnualDump = {
+   resourceName: "postgres-annual-dump",
    image: "registry.registry.svc.cluster.local:5000/cluster/postgres-annual-dump:r1",
    schedule: "13 5 1 1 *",
-   manifestCode:
+-  manifestCode:
 -    "infrastructure/postgres-annual-dump/postgres-annual-dump.cluster-service.code.attachment.ts",
-+    "infrastructure/postgres-annual-dump/manifests/postgres-annual-dump-manifests.manifest.code.ts",
++  manifestSlug: "postgres-annual-dump-manifests",
  } as const satisfies ClusterService
