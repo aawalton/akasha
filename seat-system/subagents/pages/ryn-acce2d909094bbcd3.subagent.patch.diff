@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/commands/patch/patch.command.ts b/commands/patch/patch.command.ts
-index 186113cfac0035c596866de5078e24331e487c01..313fe810189c23b548c68e16a2fd517f585ab5fb 100644
+index 186113cfac0035c596866de5078e24331e487c01..0775278f2bf9ca76e412ba96a4def9f8b0eb84b8 100644
 --- a/commands/patch/patch.command.ts
 +++ b/commands/patch/patch.command.ts
 @@ -44,7 +44,7 @@ export const patch = {
@@ -9,6 +9,16 @@ index 186113cfac0035c596866de5078e24331e487c01..313fe810189c23b548c68e16a2fd517f
        invariantKind: "departure",
 -      statement: "A call naming no act says what the patch holds.",
 +      statement: "A call naming no act says the paths the patch holds.",
+     },
+     {
+       invariantKind: "departure",
+@@ -76,7 +76,8 @@ export const patch = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A drop naming no path takes the patch away without judging what the patch holds.",
++      statement:
++        "A drop naming no path takes the patch away without judging the paths the patch holds.",
      },
      {
        invariantKind: "departure",
