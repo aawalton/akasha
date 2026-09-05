@@ -34,6 +34,24 @@ index 2adf6525cfb821b093aadacca6f8781efdf8735a..6c09d0f626ef8216120b507425a19745
    }
  }
  
+diff --git a/domains/plain-language/onnx-parsing/onnx-parsing.module.ts b/domains/plain-language/onnx-parsing/onnx-parsing.module.ts
+index c8ff04f9faa6a673736b903a9735ae21ced663af..8e0e813f8168f4bb0944903ff251339012f9ae9d 100644
+--- a/domains/plain-language/onnx-parsing/onnx-parsing.module.ts
++++ b/domains/plain-language/onnx-parsing/onnx-parsing.module.ts
+@@ -35,5 +35,13 @@ export const onnxParsing = {
+       invariantKind: "absence",
+       statement: "No process outside this one is started to parse a text.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A text parsed before is answered from the cache rather than by the model.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A text the model reads is written to the cache as a side effect of that reading.",
++    },
+   ],
+ } as const satisfies Module
 diff --git a/domains/plain-language/parse-cache/parse-cache.module.code.ts b/domains/plain-language/parse-cache/parse-cache.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..8b0a30ccb9086b7e948f76ab97158c94ae0929a5
