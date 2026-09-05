@@ -37,3 +37,29 @@ index fa51abe6bbed2ff83aaad84577ac9d6042554276..3c56e89d4e99f7100b91cefe53a01eee
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/monarch/eval/monarch-eval.domain.ts b/alan/harness/monarch/eval/monarch-eval.domain.ts
+index c10e0c5b2bf07125381cbb71a2c5f8d5340ccc0c..583dd74b406b130c5a1a1cf740b790e303255f48 100644
+--- a/alan/harness/monarch/eval/monarch-eval.domain.ts
++++ b/alan/harness/monarch/eval/monarch-eval.domain.ts
+@@ -41,7 +41,7 @@ export const monarchEval = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A row carrying no category anyone chose has no answer to be scored against, and those are the rows this pipeline most exists to serve.",
++        "A row carrying no category anyone chose has no answer to be scored against, and those rows are the ones this pipeline most exists to serve.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts b/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts
+index 8c52c33740b657e7ea38c3c1a772e605ab13a9c8..5212c12bc477ef20d3fb15e236d72b189b77bf08 100644
+--- a/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts
++++ b/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts
+@@ -33,7 +33,7 @@ export const monarchRuleClauses = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A rule narrowing on nothing but a sign, an amount, a counterpart or a date is refused, because none of those says which transactions the rule is about.",
++        "A rule narrowing on nothing but a sign, an amount, a counterpart or a date is refused, because none of those clauses says which transactions the rule is about.",
+     },
+     {
+       invariantKind: "departure",
