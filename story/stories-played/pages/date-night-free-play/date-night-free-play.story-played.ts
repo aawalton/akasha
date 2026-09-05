@@ -1,4 +1,4 @@
-import type { StoryPlayed } from "../story-played.page-type.ts"
+import type { StoryPlayed } from "../../story-played.page-type.ts"
 
 export const dateNightFreePlay = {
   id: "01a06425-4433-7092-b28c-302ea31cb896",
