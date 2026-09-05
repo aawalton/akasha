@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/commands/read/read.command.ts b/commands/read/read.command.ts
-index d96451ddfe3a6d439e56bdbaaacc785f7104aea6..4ce631fe681bb5ae5fcab9c7b873758174d0f7dd 100644
+index d96451ddfe3a6d439e56bdbaaacc785f7104aea6..543bdb3ec803c1cf3e747ada0aa933fb328938a5 100644
 --- a/commands/read/read.command.ts
 +++ b/commands/read/read.command.ts
 @@ -32,7 +32,7 @@ export const read = {
@@ -9,6 +9,16 @@ index d96451ddfe3a6d439e56bdbaaacc785f7104aea6..4ce631fe681bb5ae5fcab9c7b8737581
        invariantKind: "departure",
 -      statement: "A read returns the whole file or what changed after the agent read the file.",
 +      statement: "A read returns the whole file or the difference since the agent read the file.",
+     },
+     {
+       invariantKind: "departure",
+@@ -44,7 +44,8 @@ export const read = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What changed comes back only where what changed is shorter than the whole file.",
++      statement:
++        "The difference comes back only where the difference is shorter than the whole file.",
      },
      {
        invariantKind: "departure",
