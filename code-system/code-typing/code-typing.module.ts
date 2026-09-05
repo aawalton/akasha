@@ -19,7 +19,7 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "A file outside the akasha folder is read as the file stands.",
+      statement: "A file outside the akasha folder is read as the file is.",
     },
     {
       invariantKind: "departure",
@@ -76,7 +76,7 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "Respelling a shorthand states the value it stood for.",
+      statement: "Respelling a shorthand states the value it represented.",
     },
     {
       invariantKind: "departure",
@@ -107,12 +107,12 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "A name shadowing an imported one inside a scope is left as it stands.",
+      statement: "A name shadowing an imported one inside a scope is left as it is.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Renaming a binding a shorthand stood for states that binding rather than the key.",
+        "Renaming a binding a shorthand represented states that binding rather than the key.",
     },
     {
       invariantKind: "departure",

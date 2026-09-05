@@ -5,7 +5,7 @@ export const codeLint = {
   pageTypeSlug: "module",
   slug: "code-lint",
   definition:
-    "running the linter over what stands and reading back what it found, changing nothing",
+    "running the linter over what is there and reading back what it found, changing nothing",
   code: "ts",
   test: "ts",
   invariants: [

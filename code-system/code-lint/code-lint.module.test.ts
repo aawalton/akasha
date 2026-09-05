@@ -68,7 +68,7 @@ check("output holding no run that can be read answers nothing, never an empty ru
   expect(foundIn("null")).toBeNull()
 })
 
-check("a diagnostic standing nowhere is left out rather than placed by guess", () => {
+check("a diagnostic with no place is left out rather than placed by guess", () => {
   const said = foundIn('{"diagnostics":[{"category":"format"},{"location":{}}]}')
   expect(said?.found).toEqual([])
 })
@@ -79,7 +79,7 @@ check("the end of what was printed is what a failure is said by", () => {
   expect(endOf(`held\n${"x".repeat(400)}`).length).toBe(243)
 })
 
-check("a run answers where each finding stands, the rule that named it and what it said", () => {
+check("a run answers where each finding is, the rule that named it and what it said", () => {
   const root = repo({ "one.ts": UNUSED }, LINTING, true)
   const said = lintedOver(root, ["akasha"])
   expect(said.failed).toBeNull()
@@ -111,7 +111,7 @@ check("one named path is read alone, and its neighbour is not", () => {
   expect(lintedOver(root, ["akasha"]).found.length).toBe(2)
 })
 
-check("a root where no linter stands answers why it could not look, not that nothing stood", () => {
+check("a root with no linter answers why it could not look, not that nothing was found", () => {
   const root = repo({ "one.ts": UNUSED }, LINTING, false)
   const said = lintedOver(root, ["akasha"])
   expect(said.found).toEqual([])
@@ -120,10 +120,13 @@ check("a root where no linter stands answers why it could not look, not that not
   expect(said.failed).toContain("nothing was looked at")
 })
 
-check("a run writes nothing, so a file the formatter would have rewritten stands as it was", () => {
-  const root = repo({ "one.ts": RAGGED }, FORMATTING, true)
-  const said = lintedOver(root, ["akasha"])
-  expect(said.found.length).toBe(1)
-  expect(said.found[0]?.rule).toBe("format")
-  expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe(RAGGED)
-})
+check(
+  "a run writes nothing, so a file the formatter would have rewritten is left as it was",
+  () => {
+    const root = repo({ "one.ts": RAGGED }, FORMATTING, true)
+    const said = lintedOver(root, ["akasha"])
+    expect(said.found.length).toBe(1)
+    expect(said.found[0]?.rule).toBe("format")
+    expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe(RAGGED)
+  }
+)

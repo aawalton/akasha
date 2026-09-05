@@ -259,7 +259,7 @@ test("a key reached by a string is found and named as quoted", () => {
   expect(held[0]?.quoted).toBe(true)
 })
 
-test("a respelling states the value a shorthand stood for and keeps a string's quotes", () => {
+test("a respelling states the value a shorthand represented and keeps a string's quotes", () => {
   const plain = { path: "at", start: 0, end: 1, quoted: false, shorthand: false }
 
   expect(spelledAs(plain, "was", "now")).toBe("now")
@@ -283,7 +283,7 @@ test("a name is found where it is exported and everywhere the checker resolves t
   expect(found.filter((one) => one.path === "akasha/reader.module.code.ts")).toHaveLength(2)
 })
 
-test("a name shadowing an imported one inside a scope is left as it stands", () => {
+test("a name shadowing an imported one inside a scope is left as it is", () => {
   const { root, typing } = typed({
     "akasha/seat.page-type.ts": 'export const seat = { id: "one" }\n',
     "akasha/reader.module.code.ts":
@@ -337,7 +337,7 @@ test("a type is found through the name it is declared under", () => {
   expect(found.filter((one) => one.path === "akasha/reader.module.code.ts")).toHaveLength(2)
 })
 
-test("a binding a shorthand stood for is stated rather than the key being renamed", () => {
+test("a binding a shorthand represented is stated rather than the key being renamed", () => {
   const plain = { path: "at", start: 0, end: 1, quoted: false, shorthand: false }
 
   expect(boundAs(plain, "was", "now")).toBe("now")
