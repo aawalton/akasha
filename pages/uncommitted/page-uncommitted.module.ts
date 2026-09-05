@@ -30,7 +30,8 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "departure",
-      statement: "The file is replaced by writing a scratch file beside it and renaming it over.",
+      statement:
+        "The file is replaced by writing a scratch file beside that file and renaming that scratch file over.",
     },
     {
       invariantKind: "departure",
