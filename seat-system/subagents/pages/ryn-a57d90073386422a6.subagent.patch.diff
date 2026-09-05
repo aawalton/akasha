@@ -51,6 +51,32 @@ index 9d589bc060bb2af7d4b1a659b2e492e064865afb..ba3c609cbcee863119ff8f7acd210ddb
      },
      {
        invariantKind: "constraint",
+diff --git a/seat-system/channel-delivery/channel-delivery.module.ts b/seat-system/channel-delivery/channel-delivery.module.ts
+index f78a82abfc4cb3b5e4748f59bb0f8fb1c081ff3d..89f91ee9611b1c28bd52a4e60d20fd085cc63915 100644
+--- a/seat-system/channel-delivery/channel-delivery.module.ts
++++ b/seat-system/channel-delivery/channel-delivery.module.ts
+@@ -10,7 +10,7 @@ export const channelDelivery = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A transcript line this cannot read is passed over rather than refused.",
++      statement: "A transcript line this module cannot read is passed over rather than refused.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/recipient-resolving/blocked-principal-decide/blocked-principal-decide.module.ts b/seat-system/recipient-resolving/blocked-principal-decide/blocked-principal-decide.module.ts
+index 25bcf7669684a19c1bdaa3ad29f12d5e5394ce7f..aaa34fe94326edd8f3137804076090364b3e135d 100644
+--- a/seat-system/recipient-resolving/blocked-principal-decide/blocked-principal-decide.module.ts
++++ b/seat-system/recipient-resolving/blocked-principal-decide/blocked-principal-decide.module.ts
+@@ -11,7 +11,7 @@ export const blockedPrincipalDecide = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "Nothing binds an agent to work another party waits on, so no principal is derivable and this says so rather than guessing one.",
++        "Nothing binds an agent to work another party waits on, so no principal is derivable and this module says so rather than guessing one.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/seat-system/seat-fleet-restart/seat-fleet-restart.module.ts b/seat-system/seat-fleet-restart/seat-fleet-restart.module.ts
 index 091210add32e8fa0468741cf9f6b67c90ab98464..c8ee4a9597d4d0dd7f66cceb0a9e36dea0d6bede 100644
 --- a/seat-system/seat-fleet-restart/seat-fleet-restart.module.ts
@@ -96,6 +122,32 @@ index b77310f0799e3047cd8f403060163a45c0da1dbf..de89eded4ac3e5c21a9533214625f4f5
        invariantKind: "departure",
 -      statement: "The ops dispatcher imports this and calls the default export it declares.",
 +      statement: "The ops dispatcher imports this module and calls the default export it declares.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/seats/properties/person-slug.relation-property.ts b/seat-system/seats/properties/person-slug.relation-property.ts
+index a842f3d708c62501dcdcef7ab0ed3157cd99a58e..90cf7a19a44b2f81c45980ae26b22a20095f3d1b 100644
+--- a/seat-system/seats/properties/person-slug.relation-property.ts
++++ b/seat-system/seats/properties/person-slug.relation-property.ts
+@@ -13,7 +13,7 @@ export const personSlug = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Whose seat this is and what work it answers for are two facts.",
++      statement: "The person a seat is of and the work a seat answers for are two facts.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/subagents/presence/subagent-presence.module.ts b/seat-system/subagents/presence/subagent-presence.module.ts
+index 03049ee4402d89015bc3ed1a007bc86a8db576f1..3e3c18d316a50e57e50346fe04e29344b409baed 100644
+--- a/seat-system/subagents/presence/subagent-presence.module.ts
++++ b/seat-system/subagents/presence/subagent-presence.module.ts
+@@ -78,7 +78,7 @@ export const subagentPresence = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "That commit names the seat.",
++      statement: "The commit taking that page away names the seat.",
      },
      {
        invariantKind: "departure",
