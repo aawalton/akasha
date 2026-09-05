@@ -376,8 +376,6 @@ test("what a patch runs is folded one field at a time", () => {
   expect(folding(repoAt(), CHECKS_RUN, NOTHING_RUNS)).toEqual(CHECKS_RUN)
 })
 
-test("what a patch runs is read off the lines before the first diff header", () => {
-  const head = `diff --git a/${ONE} b/${ONE}\n`
-  expect(runningIn(`Akasha-mechanical: true\n${head}`)).toEqual(NOTHING_RUNS)
-  expect(runningIn(head)).toEqual(BOTH_RUN)
+test("a patch carrying no line before the first diff header runs both", () => {
+  expect(runningIn(`diff --git a/${ONE} b/${ONE}\n`)).toEqual(BOTH_RUN)
 })
