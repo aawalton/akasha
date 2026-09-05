@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/command-system/fault-saying/fault-saying.module.ts b/command-system/fault-saying/fault-saying.module.ts
-index 86c03a4af9cf2e957400de23cd3e34086d43531c..7f942099060bd401be8778a783a06470271a76d8 100644
+index 86c03a4af9cf2e957400de23cd3e34086d43531c..7b7739297bbd08c29c4f3b2d74e63f4ee2a6a0c9 100644
 --- a/command-system/fault-saying/fault-saying.module.ts
 +++ b/command-system/fault-saying/fault-saying.module.ts
-@@ -10,11 +10,11 @@ export const faultSaying = {
+@@ -10,15 +10,15 @@ export const faultSaying = {
    invariants: [
      {
        invariantKind: "departure",
@@ -14,6 +14,11 @@ index 86c03a4af9cf2e957400de23cd3e34086d43531c..7f942099060bd401be8778a783a06470
        invariantKind: "departure",
 -      statement: "What is thrown is made to speak even where what is thrown is no Error.",
 +      statement: "A thrown thing is made to speak even where that thing is no Error.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A refusal carries what is said in one line.",
++      statement: "A refusal carries the message in one line.",
      },
      {
        invariantKind: "departure",
