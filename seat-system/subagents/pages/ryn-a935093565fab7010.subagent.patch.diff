@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
-index 85a1910b8f004f074c44760092c9010b53fd6d1e..a24193238acf575ad907598607b6cfc6ce4cf89e 100644
+index 85a1910b8f004f074c44760092c9010b53fd6d1e..dc5aa28f61266e0e1d6b52057dfef12b30f3df7a 100644
 --- a/code-system/code-tests/code-tests.module.ts
 +++ b/code-system/code-tests/code-tests.module.ts
 @@ -12,7 +12,7 @@ export const codeTests = {
@@ -50,6 +50,15 @@ index 85a1910b8f004f074c44760092c9010b53fd6d1e..a24193238acf575ad907598607b6cfc6
        invariantKind: "departure",
 -      statement: "What every run printed is read as one answer.",
 +      statement: "The output every run printed is read as one answer.",
+     },
+     {
+       invariantKind: "departure",
+@@ -101,7 +101,7 @@ export const codeTests = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A run reaching fewer files than are under what was named is short rather than a pass.",
++        "A run reaching fewer files than are under the paths named is short rather than a pass.",
      },
      {
        invariantKind: "departure",
