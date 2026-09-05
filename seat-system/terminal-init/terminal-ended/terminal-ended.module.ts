@@ -11,7 +11,7 @@ export const terminalEnded = {
     {
       invariantKind: "departure",
       statement:
-        "What is left names when the shell ended, what that shell ended with and where that shell was.",
+        "The record names when the shell ended, the status that shell ended with and where that shell was.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +29,7 @@ export const terminalEnded = {
     {
       invariantKind: "departure",
       statement:
-        "A hangup is recorded and then re-raised so the shell dies of what reached that shell.",
+        "A hangup is recorded and then re-raised so the shell dies of the signal that reached that shell.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +42,7 @@ export const terminalEnded = {
     },
     {
       invariantKind: "departure",
-      statement: "What is left sits beside the pages of the page type that record describes.",
+      statement: "The record sits beside the pages of the page type that record describes.",
     },
     {
       invariantKind: "departure",
