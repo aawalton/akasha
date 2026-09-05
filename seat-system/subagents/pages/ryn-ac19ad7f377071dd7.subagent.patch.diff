@@ -1,0 +1,12 @@
+diff --git a/alan/fitness/commands/exercise-schedule-create/exercise-schedule-create.command.ts b/alan/fitness/commands/exercise-schedule-create/exercise-schedule-create.command.ts
+index 4890a1b928412c3c0e7d763c66731bf04a571d43..453c5c562e2d4d9ad28fb137896dad2ab8710b5f 100644
+--- a/alan/fitness/commands/exercise-schedule-create/exercise-schedule-create.command.ts
++++ b/alan/fitness/commands/exercise-schedule-create/exercise-schedule-create.command.ts
+@@ -27,7 +27,6 @@ export const exerciseScheduleCreate = {
+   ],
+   helpNotes: [
+     "every day takes a focus, and rest is one of them.",
+-    "the schedule already active is stood down before this one is set up.",
+     "a day's slug is derived from the schedule's slug and the weekday.",
+   ],
+   invariants: [
