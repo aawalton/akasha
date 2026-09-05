@@ -21,12 +21,12 @@ export const blockDestructiveGit = {
     {
       invariantKind: "departure",
       statement:
-        "A refusal says what the call would destroy rather than that the call looks unusual.",
+        "A refusal says the work the call would destroy rather than that the call looks unusual.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A refusal names the akasha command that does what was asked or says no akasha command does.",
+        "A refusal names the akasha command that does the act asked for or says no akasha command does.",
     },
     {
       invariantKind: "departure",
