@@ -36,7 +36,7 @@ export const tokenRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "What a name reaches from a declaration is asked of the checker's scopes.",
+      statement: "A name's reach from a declaration is asked of the checker's scopes.",
     },
     {
       invariantKind: "departure",
@@ -194,7 +194,7 @@ export const tokenRenaming = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here lands what this module works out.",
+      statement: "Nothing here lands the bodies this module works out.",
     },
   ],
 } as const satisfies Module
