@@ -55,7 +55,7 @@ export const temperGameCatalogCaptureAddon = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads what the player has done.",
+      statement: "Nothing here reads the player's progress.",
     },
   ],
 } as const satisfies WorkspacePackage
