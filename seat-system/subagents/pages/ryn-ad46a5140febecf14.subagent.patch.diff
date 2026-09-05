@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/ki/ki-episodes/ki-episode.page-type.ts b/ki/ki-episodes/ki-episode.page-type.ts
-index de875107216f428fac32f28c179dd50af05821d3..9710149df22d5d062882fae4a86ce5ae7b41b7b6 100644
+index de875107216f428fac32f28c179dd50af05821d3..210e42aa25eeb92f9ad973443cabb6d06ddfd970 100644
 --- a/ki/ki-episodes/ki-episode.page-type.ts
 +++ b/ki/ki-episodes/ki-episode.page-type.ts
-@@ -13,7 +13,7 @@ export const kiEpisode = {
+@@ -13,11 +13,12 @@ export const kiEpisode = {
    invariants: [
      {
        invariantKind: "departure",
@@ -12,3 +12,9 @@ index de875107216f428fac32f28c179dd50af05821d3..9710149df22d5d062882fae4a86ce5ae
      },
      {
        invariantKind: "departure",
+-      statement: "An episode of Ki's states its season's number beside the season it names.",
++      statement:
++        "An episode of Ki's states its season's number beside the season that episode names.",
+     },
+   ],
+ } as const satisfies PageType
