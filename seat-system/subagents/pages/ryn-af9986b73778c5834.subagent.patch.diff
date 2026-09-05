@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/code-system/router-apps/router-app.page-type.ts b/code-system/router-apps/router-app.page-type.ts
-index 846def00ecd676ba2c5b1fc2f9a946f266ece36e..c9f75ae637b27852205743c6abf4270dc2deda5f 100644
+index 846def00ecd676ba2c5b1fc2f9a946f266ece36e..4354e1e1448f0acb91106e452a40ff014dc4aff3 100644
 --- a/code-system/router-apps/router-app.page-type.ts
 +++ b/code-system/router-apps/router-app.page-type.ts
 @@ -39,7 +39,7 @@ export const routerApp = {
@@ -12,3 +12,13 @@ index 846def00ecd676ba2c5b1fc2f9a946f266ece36e..c9f75ae637b27852205743c6abf4270d
      },
      {
        invariantKind: "departure",
+@@ -47,8 +47,7 @@ export const routerApp = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement:
+-        "The tsconfig naming a fixed name is what gives that name the package's path mappings.",
++      statement: "The tsconfig naming a fixed name gives that name the package's path mappings.",
+     },
+   ],
+ } as const satisfies PageType
