@@ -34,7 +34,7 @@ index b70c5d5cd3f66e5b7d2d1ec9c7cfd5796fb123d0..be74b6cf23d5992e4331dcc437ea3819
      {
        invariantKind: "departure",
 diff --git a/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.test.ts b/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.test.ts
-index da0d3c540edeb0f75e1774e6b36d62390d112bc0..dfc2f7c52e408be1f50b7d984fea240d62ed3990 100644
+index da0d3c540edeb0f75e1774e6b36d62390d112bc0..2a63fde40907c75e4dba204bbe627d877e41a92a 100644
 --- a/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.test.ts
 +++ b/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.test.ts
 @@ -44,7 +44,7 @@ function byRule(held: readonly Held[]): ReadonlyMap<string, readonly Said[]> {
@@ -46,6 +46,15 @@ index da0d3c540edeb0f75e1774e6b36d62390d112bc0..dfc2f7c52e408be1f50b7d984fea240d
    const every = byRule([
      { path: "one.ts", text: CAMEL },
      { path: "two.module.code.ts", text: EXPORTED_AS },
+@@ -71,7 +71,7 @@ test("neither file is the owner, so a rule in two files refuses both", () => {
+   expect(reasonsIn("two.ts", EXPORTED_AS, every)).toHaveLength(1)
+ })
+ 
+-test("a rule standing in more than one other file names one and counts the rest", () => {
++test("a rule in more than one other file names one and counts the rest", () => {
+   const every = byRule([
+     { path: "one.ts", text: CAMEL },
+     { path: "two.ts", text: EXPORTED_AS },
 diff --git a/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.ts b/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.ts
 index 368e74200cec9ad7ba76bfabc076ec696817aa52..2f58923f1a169a940e856316396ee46a8ecaf1cc 100644
 --- a/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.ts
