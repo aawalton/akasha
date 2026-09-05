@@ -88,3 +88,16 @@ index 4d954a0db94677a59d9f2b082ef765aef030444b..6e5af22c2b96de784079a7716936543a
        )
      }
      refuseWhereSubagentsWork(agentId, request.force === true)
+diff --git a/seat-system/supervising/oauth-health-lines/oauth-health-lines.module.code.ts b/seat-system/supervising/oauth-health-lines/oauth-health-lines.module.code.ts
+index 50268503fa06b2225bd4c18e92c2a7993704d037..8867a8c22e5bb901b328d58434f2f29eef7c4e3b 100644
+--- a/seat-system/supervising/oauth-health-lines/oauth-health-lines.module.code.ts
++++ b/seat-system/supervising/oauth-health-lines/oauth-health-lines.module.code.ts
+@@ -13,7 +13,7 @@ export function terminalErrorLine(
+ ): string {
+   return (
+     `${logPrefix} ${terminalErrorSummary(reason.code)} for account=${account} — credential refresh stopped. ` +
+-    `Run \`ops seat resume\` after re-authenticating to resume.` +
++    `Run \`akasha seat resume\` after re-authenticating to resume.` +
+     (reason.description != null ? ` Server said: ${reason.description}` : "")
+   )
+ }
