@@ -19,7 +19,8 @@ export const watcherExportTasks = {
     },
     {
       invariantKind: "departure",
-      statement: "A task is keyed by its pgId where it has one and by its page id otherwise.",
+      statement:
+        "A task is keyed by its pgId where that task has one and by its page id otherwise.",
     },
     {
       invariantKind: "departure",
