@@ -39,25 +39,6 @@ index dcdde198dfcf3dfaef3092fdc96fda68ddd0fdc3..01580ca1e185f95171575a8f889d0fcb
    "  - `.git/data`. The index is derived from the pages and is nobody's required reading, so a",
    "    Read of it is let through. The edits hook guards writing it; this does not guard reading it.",
    "  - a path inside akasha that is a link pointing out of it. The read lands outside, so it is",
-diff --git a/hook-system/agent-hooks/block-biome/block-biome.agent-hook.code.ts b/hook-system/agent-hooks/block-biome/block-biome.agent-hook.code.ts
-index c06570075eac577c0dbb679565a2c8f59e1d73e9..623ff376365534ccfa7ad610896900ed322efb3a 100644
---- a/hook-system/agent-hooks/block-biome/block-biome.agent-hook.code.ts
-+++ b/hook-system/agent-hooks/block-biome/block-biome.agent-hook.code.ts
-@@ -43,8 +43,13 @@ export const SCOPE: readonly string[] = [
-   "with it so that one command answers the question instead of two, not because a read harms.",
-   "",
-   "WHERE THE CALL RUNS:",
--  "  The repository this guards is the one this hook's own file stands in.",
-+<<<<<<< what this change would leave
-+  "  The repository this guards is the one this hook's own file is in.",
-   "  A call whose working directory stands outside it is let through, so a scratch copy is",
-+=======
-+  "  The repository this guards is the one this hook's own file stands in.",
-+  "  A call whose working directory is outside it is let through, so a scratch copy is",
-+>>>>>>> what HEAD holds
-   "    checked as usual. A second worktree of this repository is not guarded from here either.",
-   "  A call stating no working directory is judged as though it ran here.",
-   "",
 diff --git a/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts b/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts
 index 5a4cb243c189e6d42c80ef2a46f10276b7c6fd4c..909c140961484feabe4cdd30e8f6c98ede2d4834 100644
 --- a/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts
