@@ -10,17 +10,22 @@ index 0000000000000000000000000000000000000000..e0dcf6a0c504e93de7f2685a67559b90
 +  return [{ name: "subnet-router-deployment", yaml: subnetRouterDeploymentYaml() }]
 +}
 diff --git a/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff b/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
-index e6022b6bf67ba92b2813f727f1e8e53afe2ec0ec..6bad4652b16cf611184a6211f3ef0568760aacdd 100644
+index c3f030e7b784fc23a45a9e2e1ae6bff8b7346429..b8f902b3cdaf8b7ae28f1b4c1f25e3ea81384bd7 100644
 --- a/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
 +++ b/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
-@@ -7,6 +7,6 @@ index 86464be098f6ea32b212ceef38eafb705f69010a..ce0ee256d4c62f445aed0722353ce272
+@@ -41,8 +41,12 @@ index 86464be098f6ea32b212ceef38eafb705f69010a..d706c014c86c9cc1103aeeb979702456
     image: "tailscale/tailscale:v1.98.10",
     replicas: 1,
  -  manifestCode:
---    "service-system/cluster-services/pages/talos-subnet-router/talos-subnet-router.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +-    "infrastructure/networks/talos-subnet-router/talos-subnet-router.manifest.code.ts",
++=======
+ -    "service-system/cluster-services/pages/talos-subnet-router/talos-subnet-router.cluster-service.code.attachment.ts",
+ +<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
  +  manifestSlug: "talos-subnet-router",
-  } as const satisfies ClusterService
+ +=======
+ +  manifestCode: "infrastructure/networks/talos-subnet-router/talos-subnet-router.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/talos-subnet-router/talos-subnet-router.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/talos-subnet-router/talos-subnet-router.cluster-service.code.attachment.ts
 deleted file mode 100644
 index e0dcf6a0c504e93de7f2685a67559b90852c8eca..0000000000000000000000000000000000000000
@@ -33,18 +38,14 @@ index e0dcf6a0c504e93de7f2685a67559b90852c8eca..00000000000000000000000000000000
 -  return [{ name: "subnet-router-deployment", yaml: subnetRouterDeploymentYaml() }]
 -}
 diff --git a/service-system/cluster-services/pages/talos-subnet-router/talos-subnet-router.cluster-service.ts b/service-system/cluster-services/pages/talos-subnet-router/talos-subnet-router.cluster-service.ts
-index 86464be098f6ea32b212ceef38eafb705f69010a..d706c014c86c9cc1103aeeb9797024560cb2f21f 100644
+index 86464be098f6ea32b212ceef38eafb705f69010a..ce0ee256d4c62f445aed0722353ce27212e4432b 100644
 --- a/service-system/cluster-services/pages/talos-subnet-router/talos-subnet-router.cluster-service.ts
 +++ b/service-system/cluster-services/pages/talos-subnet-router/talos-subnet-router.cluster-service.ts
-@@ -10,6 +10,9 @@ export const talosSubnetRouter = {
+@@ -10,6 +10,5 @@ export const talosSubnetRouter = {
    resourceName: "talos-subnet-router",
    image: "tailscale/tailscale:v1.98.10",
    replicas: 1,
 -  manifestCode:
 -    "service-system/cluster-services/pages/talos-subnet-router/talos-subnet-router.cluster-service.code.attachment.ts",
-+<<<<<<< what this change would leave
 +  manifestSlug: "talos-subnet-router",
-+=======
-+  manifestCode: "infrastructure/networks/talos-subnet-router/talos-subnet-router.manifest.code.ts",
-+>>>>>>> what HEAD holds
  } as const satisfies ClusterService
