@@ -34,10 +34,10 @@ index 4d4647f42188938e9b8efd06cd20e501cdf79c14..fcd3cf932790e7ce0d14de2a5172db52
  function repoWith(named: Readonly<Record<string, string>>): string {
    const root = scratch.rootFor("akasha-standing-")
 diff --git a/command-system/cli/cli.module.test.ts b/command-system/cli/cli.module.test.ts
-index fc74822a871e0b6c55fe8fe749c58eedacf6ae27..3aff804110f4ba56c1d44f7a12b6fa3050246f96 100644
+index 1b7862fd38219d568182c5f6c77bf527674d4b8d..8d13555eb54c4d8057ae05f08b4dae16f1fd1e91 100644
 --- a/command-system/cli/cli.module.test.ts
 +++ b/command-system/cli/cli.module.test.ts
-@@ -107,7 +107,7 @@ test("a name looked for where no index stands says nothing was read, not that no
+@@ -109,7 +109,7 @@ test("a name looked for where no index stands says nothing was read, not that no
    const said = await answering(["held"], { AKASHA_ROOT: "/nowhere-at-all" }, AT, "/nowhere")
    expect(said.code).toBe(INPUT)
    expect(said.err[0]).toContain("was looked for and not read")
@@ -73,7 +73,7 @@ index a22c46169c02651059b8ee77d0250df3adc79125..f9e190ae2210243b3ed3b81e12372781
        " one",
        "-two",
 diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
-index 326aaeb97d1bcd1e51687816bbe4ce0dcbf3c341..0f1357424dd1fd124057f4f808132df09d7f3f2e 100644
+index 326aaeb97d1bcd1e51687816bbe4ce0dcbf3c341..cbfc164bdc41c45d2d30d69b9f933860ed6720a6 100644
 --- a/command-system/landing/landing.module.code.ts
 +++ b/command-system/landing/landing.module.code.ts
 @@ -59,9 +59,9 @@ export type Drafted = {
@@ -94,6 +94,15 @@ index 326aaeb97d1bcd1e51687816bbe4ce0dcbf3c341..0f1357424dd1fd124057f4f808132df0
            (one) =>
 -            `${one} — read against \`${named}\`, and what stands at \`${base}\` is not what was read, so writing it would put back what moved in between`
 +            `${one} — read against \`${named}\`, and what is at \`${base}\` is not what was read, so writing it would put back what moved in between`
+         ),
+         tail,
+       ],
+@@ -271,7 +271,7 @@ function unfresh(
+       refusals: [
+         ...stirred.map(
+           (one) =>
+-            `${one} — what stands on disk is not the body you read, so writing it would put back what moved in between`
++            `${one} — what is on disk is not the body you read, so writing it would put back what moved in between`
          ),
          tail,
        ],
