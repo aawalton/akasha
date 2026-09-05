@@ -1,4 +1,4 @@
-import type { Work } from "@akasha/pages-system/computed-property"
+import type { Work } from "@akasha/pages/computed-property"
 import type { WorkedCollection } from "../collection.page-type.ts"
 import type { CollectionCompletion } from "./collection-completion.computed-property.ts"
 

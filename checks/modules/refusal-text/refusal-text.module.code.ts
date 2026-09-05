@@ -1,5 +1,5 @@
-import { AKASHA, rootFor, rootsHere } from "@akasha/pages-system/checkout-roots"
-import { textAt, valueAt } from "@akasha/pages-system/page-value"
+import { AKASHA, rootFor, rootsHere } from "@akasha/pages/checkout-roots"
+import { textAt, valueAt } from "@akasha/pages/page-value"
 
 const REFUSALS = "checks/refusals/pages"
 

@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages-system/page"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { Page } from "@akasha/pages/page"
+import type { PageType } from "@akasha/pages/page-type"
 import type { CollectionAuthor } from "./properties/collection-author.text-property.ts"
 import type { CollectionCompletedAt } from "./properties/collection-completed-at.instant-property.ts"
 import type { CollectionCompletion } from "./properties/collection-completion.computed-property.ts"

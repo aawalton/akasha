@@ -6,8 +6,8 @@ import {
   testsBesideOf,
   worldOf,
 } from "@akasha/code-system/code-tests"
-import type { Change } from "@akasha/pages-system/change"
-import type { Shadow } from "@akasha/pages-system/shadow"
+import type { Change } from "@akasha/pages/change"
+import type { Shadow } from "@akasha/pages/shadow"
 import { endingOf } from "@akasha/utils-run/running"
 import {
   everyFileOf,

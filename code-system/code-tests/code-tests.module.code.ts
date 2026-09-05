@@ -15,7 +15,7 @@ import { dirname, isAbsolute, join, relative, sep } from "node:path"
 import { indexNamed } from "@akasha/indexes"
 import { filedInto } from "@akasha/indexes/indexing"
 import type { Filing } from "@akasha/indexes/shape"
-import { besideAt } from "@akasha/pages-system/page-file-name"
+import { besideAt } from "@akasha/pages/page-file-name"
 import { ran } from "@akasha/utils-run/running"
 
 const TS = ".ts"

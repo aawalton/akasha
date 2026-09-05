@@ -7,7 +7,7 @@ import {
   schemaFiled,
   valueAlsoFiled,
 } from "@akasha/indexes/testing"
-import type { Change } from "@akasha/pages-system/change"
+import type { Change } from "@akasha/pages/change"
 import { bytesOf } from "@akasha/testing-system/bodying"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
 

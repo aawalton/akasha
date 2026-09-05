@@ -1,5 +1,5 @@
 import type { Domain } from "@akasha/domains/domain"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { CargoBuildScript } from "./properties/cargo-build-script.named-file-property.ts"
 import type { CargoManifest } from "./properties/cargo-manifest.named-file-property.ts"
 import type { CrateIcon } from "./properties/crate-icon.file-property.ts"

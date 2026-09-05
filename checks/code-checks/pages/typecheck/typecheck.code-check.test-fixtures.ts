@@ -11,7 +11,7 @@ import {
   pathFiled,
   schemaFiled,
 } from "@akasha/indexes/testing"
-import type { Change } from "@akasha/pages-system/change"
+import type { Change } from "@akasha/pages/change"
 import { put, there } from "@akasha/testing-system/putting"
 
 const EDGE_PAGE_AT = "graph/import-edge.graph-edge.ts"

@@ -1,5 +1,5 @@
 import type { Domain } from "@akasha/domains/domain"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { Swift } from "../ios-components/properties/swift.file-property.ts"
 import type { Main } from "../ios-programs/properties/main.named-file-property.ts"
 

@@ -1,4 +1,4 @@
-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
+import type { NamedFileProperty } from "@akasha/pages/named-file-property"
 
 export type SecretsConfig = "yaml"
 

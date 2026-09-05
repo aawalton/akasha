@@ -1,8 +1,8 @@
 import { Buffer } from "node:buffer"
 import { appendFileSync, existsSync, readFileSync, statSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
-import { uncommittedPartAt } from "@akasha/pages-system/page-file-parts"
+import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
+import { uncommittedPartAt } from "@akasha/pages/page-file-parts"
 
 const ENTRIES = "entries"
 

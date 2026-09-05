@@ -1,4 +1,4 @@
-import type { Work } from "@akasha/pages-system/computed-property"
+import type { Work } from "@akasha/pages/computed-property"
 import type { Collection } from "../collection.page-type.ts"
 
 export const work: Work<Collection, number> = (page) => {

@@ -1,5 +1,5 @@
 import type { Domain } from "@akasha/domains/domain"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { ComponentCode } from "./properties/component-code.file-property.ts"
 import type { ComponentTest } from "./properties/component-test.file-property.ts"
 import type { ComponentTestFixtures } from "./properties/component-test-fixtures.file-property.ts"

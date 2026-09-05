@@ -1,5 +1,5 @@
 import type { Domain } from "@akasha/domains/domain"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { Python } from "./properties/python.file-property.ts"
 
 export type PythonModule = Domain & {

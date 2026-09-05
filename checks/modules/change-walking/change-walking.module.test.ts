@@ -4,8 +4,8 @@ import { join } from "node:path"
 import { readingIn } from "@akasha/indexes"
 import type { Reading } from "@akasha/indexes/shape"
 import { indexTakenFrom, pathFiled, pathsTakenFrom } from "@akasha/indexes/testing"
-import type { Change } from "@akasha/pages-system/change"
-import { shadowAt } from "@akasha/pages-system/shadow"
+import type { Change } from "@akasha/pages/change"
+import { shadowAt } from "@akasha/pages/shadow"
 import {
   everyFileIn,
   everythingIn,

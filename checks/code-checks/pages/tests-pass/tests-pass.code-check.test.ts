@@ -5,7 +5,7 @@ import type { Ran } from "@akasha/code-system/code-tests"
 import { RUNNING } from "@akasha/code-system/code-tests"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { noPathsFiled, pathFiled } from "@akasha/indexes/testing"
-import { shadowAt } from "@akasha/pages-system/shadow"
+import { shadowAt } from "@akasha/pages/shadow"
 import {
   change,
   gone,

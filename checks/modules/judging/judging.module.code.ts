@@ -1,5 +1,5 @@
-import type { Change } from "@akasha/pages-system/change"
-import type { Shadow } from "@akasha/pages-system/shadow"
+import type { Change } from "@akasha/pages/change"
+import type { Shadow } from "@akasha/pages/shadow"
 
 export type Judged = {
   readonly path: string

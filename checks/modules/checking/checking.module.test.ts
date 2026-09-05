@@ -3,7 +3,7 @@ import { rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { indexNamed } from "@akasha/indexes"
 import { identitiesTakenFrom, idTakenFrom, indexTakenFrom } from "@akasha/indexes/testing"
-import { shadowAsked } from "@akasha/pages-system/shadow"
+import { shadowAsked } from "@akasha/pages/shadow"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
 import { checkPagesIn, checksAt, checksFor, checksIn, judgingBy } from "./checking.module.code.ts"
 import {

@@ -1,4 +1,4 @@
-import type { ComputedProperty } from "@akasha/pages-system/computed-property"
+import type { ComputedProperty } from "@akasha/pages/computed-property"
 
 export type OwnRemaining = number
 

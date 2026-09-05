@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.ts"
 import type { AddonGitIgnore } from "./properties/addon-git-ignore.named-file-property.ts"
 import type { AddonManifest } from "./properties/addon-manifest.file-property.ts"

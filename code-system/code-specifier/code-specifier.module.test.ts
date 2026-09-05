@@ -93,7 +93,7 @@ test("a specifier naming a package lands where the naming handed in says", () =>
 
 test("a specifier the naming does not name lands nowhere", () => {
   const naming = new Map([["@akasha/indexes", "akasha/pages-system/indexes/one.ts"]])
-  expect(landingOf(AT, "@akasha/pages-system", naming)).toBeNull()
+  expect(landingOf(AT, "@akasha/pages", naming)).toBeNull()
   expect(landingOf(AT, "node:path", naming)).toBeNull()
 })
 

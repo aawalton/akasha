@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.ts"
 import type { RootRoute } from "./properties/root-route.named-file-property.ts"
 import type { RouteTable } from "./properties/route-table.named-file-property.ts"

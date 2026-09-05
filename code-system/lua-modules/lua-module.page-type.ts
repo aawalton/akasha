@@ -1,5 +1,5 @@
 import type { Domain } from "@akasha/domains/domain"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { LoadedAs } from "../eso-interfaces/properties/loaded-as.text-property.ts"
 import type { Lua } from "./properties/lua.file-property.ts"
 

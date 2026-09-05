@@ -1,4 +1,4 @@
-import type { FileProperty } from "@akasha/pages-system/file-property"
+import type { FileProperty } from "@akasha/pages/file-property"
 
 export type AppIcon = "json"
 

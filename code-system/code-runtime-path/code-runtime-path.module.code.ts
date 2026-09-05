@@ -1,4 +1,4 @@
-import { normalizeAbsolute } from "@akasha/pages-system/repo-path"
+import { normalizeAbsolute } from "@akasha/pages/repo-path"
 import { dirOf, relativeBetween } from "../code-path-between/code-path-between.module.code.ts"
 import {
   argumentsOf,

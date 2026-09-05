@@ -1,4 +1,4 @@
-import { normalizeAbsolute } from "@akasha/pages-system/repo-path"
+import { normalizeAbsolute } from "@akasha/pages/repo-path"
 
 const SCHEME = /^[a-z][a-z0-9+.-]*:/i
 

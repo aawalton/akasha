@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import type { Change } from "@akasha/pages-system/change"
-import { shadowAsked, shadowFor } from "@akasha/pages-system/shadow"
+import type { Change } from "@akasha/pages/change"
+import { shadowAsked, shadowFor } from "@akasha/pages/shadow"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   configOf,

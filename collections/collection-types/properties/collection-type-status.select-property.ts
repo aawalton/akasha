@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const collectionTypeStatus = {
   id: "01a0680f-6f00-7000-9a52-4c7b3d8e6101",
