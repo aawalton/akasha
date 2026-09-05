@@ -38,11 +38,13 @@ export const musicExploration = {
     },
     {
       invariantKind: "departure",
-      statement: "An artist is new where no grade rests on them or on any song of theirs.",
+      statement:
+        "An artist is new where no grade rests on that artist or on any song of that artist.",
     },
     {
       invariantKind: "departure",
-      statement: "An artist is loved where `B-` or better rests on them or on a song of theirs.",
+      statement:
+        "An artist is loved where `B-` or better rests on that artist or on a song of that artist.",
     },
     {
       invariantKind: "departure",
