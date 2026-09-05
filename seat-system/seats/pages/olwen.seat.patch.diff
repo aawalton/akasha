@@ -26,3 +26,16 @@ index bb4cab7bb789888052344471f2e954d0781e3fdb..914f928689e4ce87a30616518b2959c6
  export interface AllSessions {
    /** How many rows the store counted, which a caller compares against what it was handed. */
    readonly n: number
+diff --git a/commands/refactor/type-renaming/type-renaming.module.test.ts b/commands/refactor/type-renaming/type-renaming.module.test.ts
+index 3c773fb75360ee10472b9192bad9d041b73e6587..67a55d03960bc6a4adb6b5a94192a89c4c1f6887 100644
+--- a/commands/refactor/type-renaming/type-renaming.module.test.ts
++++ b/commands/refactor/type-renaming/type-renaming.module.test.ts
+@@ -16,7 +16,7 @@ const scratch = scratchWorld()
+ 
+ afterAll(scratch.sweep)
+ 
+-const SEAT_AT = "akasha/seat-system/seats/seat.page-type.ts"
++const SEAT_AT = "akasha/seat-system/seat/seat.page-type.ts"
+ 
+ const SEAT_ID = "01a0587b-0000-7000-8000-00000000000a"
+ 
