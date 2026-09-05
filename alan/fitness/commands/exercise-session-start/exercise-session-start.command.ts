@@ -32,7 +32,7 @@ export const exerciseSessionStart = {
     },
     {
       invariantKind: "departure",
-      statement: "A rest day refuses the session unless the call says to open it anyway.",
+      statement: "A rest day refuses the session unless the call says to open that session anyway.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +44,7 @@ export const exerciseSessionStart = {
     },
     {
       invariantKind: "departure",
-      statement: "The session carries the moment it was started.",
+      statement: "The session carries the moment that session was started.",
     },
     {
       invariantKind: "departure",
