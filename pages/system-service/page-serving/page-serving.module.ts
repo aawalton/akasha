@@ -94,7 +94,7 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A page a write carries may say whether it merges.",
+      statement: "A page a write carries may say whether that page merges.",
     },
     {
       invariantKind: "departure",
@@ -130,7 +130,7 @@ export const pageServing = {
     },
     {
       invariantKind: "gap",
-      statement: "A refusal says whose fault it was.",
+      statement: "A refusal says whose fault that refusal was.",
     },
   ],
 } as const satisfies Module
