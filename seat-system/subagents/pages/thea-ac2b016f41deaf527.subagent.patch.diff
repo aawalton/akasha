@@ -1,0 +1,17 @@
+diff --git a/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.ts b/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..281c57424af550aa37af70791bc85dc73149a495
+--- /dev/null
++++ b/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.ts
+@@ -0,0 +1,11 @@
++import type { ShellScript } from "@akasha/code-system/shell-script"
++
++export const akashaLauncher = {
++  id: "01a07352-c56d-7d59-981a-3d7fa93e062d",
++  pageTypeSlug: "shell-script",
++  slug: "akasha-launcher",
++  definition:
++    "the `akasha` name on PATH, handing what follows it to the dispatcher in the checkout",
++  shell: "sh",
++  sourced: false,
++} as const satisfies ShellScript
