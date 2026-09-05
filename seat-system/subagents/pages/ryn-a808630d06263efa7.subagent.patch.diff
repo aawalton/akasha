@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/temper/temper-lib-scrollable-menu/scrollable-menu-combobox-base-setup-slider/scrollable-menu-combobox-base-setup-slider.module.ts b/temper/temper-lib-scrollable-menu/scrollable-menu-combobox-base-setup-slider/scrollable-menu-combobox-base-setup-slider.module.ts
+index cacdff43d65f8d393b1c8a90682b613975dc9ed3..8b6f8c43573667b2cff5ff9fcf4e9af1e36ced65 100644
+--- a/temper/temper-lib-scrollable-menu/scrollable-menu-combobox-base-setup-slider/scrollable-menu-combobox-base-setup-slider.module.ts
++++ b/temper/temper-lib-scrollable-menu/scrollable-menu-combobox-base-setup-slider/scrollable-menu-combobox-base-setup-slider.module.ts
+@@ -9,7 +9,8 @@ export const scrollableMenuComboboxBaseSetupSlider = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The value label is anchored differently depending on whether it is shown.",
++      statement:
++        "The value label is anchored differently depending on whether that label is shown.",
+     },
+     {
+       invariantKind: "departure",
