@@ -10,11 +10,13 @@ export const test = {
   changeKindSlug: "change-none",
   taking: [
     { said: "--file-path <path>", takes: "a file or folder in the repository whose tests run" },
+    { said: "--named <text>", takes: "the whole name of the one test that runs" },
   ],
   helpNotes: [
     "--file-path repeats, so several paths run in one call.",
     "named nothing, it runs every test in the repository.",
-    "a run takes no filter for which tests inside a file run.",
+    "--named matches a whole test name rather than a pattern or a part of one.",
+    "--named naming no test runs nothing rather than refusing.",
   ],
   invariants: [
     {
@@ -35,8 +37,20 @@ export const test = {
       statement: "A run reaching fewer files than are under it has failed rather than passed.",
     },
     {
-      invariantKind: "absence",
-      statement: "A run takes no filter for which tests inside a file run.",
+      invariantKind: "departure",
+      statement: "A run naming a test runs the one test whose whole name that is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name is matched whole rather than as a pattern or as a part of a name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run naming a test no test is called runs nothing rather than refusing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run naming a test is not weighed against the test files under what was named.",
     },
   ],
 } as const satisfies Command

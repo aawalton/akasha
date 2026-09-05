@@ -16,6 +16,11 @@ const TWICE =
 
 const LOADS = 'import { nope } from "./nowhere.ts"\nconsole.log(nope)\n'
 
+const PAIR =
+  'import { expect, test } from "bun:test"\n' +
+  'test("held (one)", () => { expect(1).toBe(1) })\n' +
+  'test("held (one) and more", () => { expect(1).toBe(2) })\n'
+
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
@@ -138,6 +143,29 @@ check("one named file runs alone, and its neighbour does not", () => {
   const root = repo({ "one.test.ts": PASSES, "two.test.ts": FAILS })
   const said = test(["--file-path", "akasha/one.test.ts"], given(root))
   expect(said.code).toBe(0)
+})
+
+check("a run naming a test runs that one, and no test whose name it opens", () => {
+  const root = repo({ "one.test.ts": PAIR })
+  const said = test(["--named", "held (one)"], given(root))
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(said.report).toEqual(["1 test ran: 1 passed, 0 failed."])
+})
+
+check("a name no test is called runs nothing rather than refusing", () => {
+  const root = repo({ "one.test.ts": PAIR })
+  const said = test(["--named", "no test is called this"], given(root))
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(said.report).toEqual(["0 tests ran: 0 passed, 0 failed."])
+})
+
+check("a name flag naming nothing, and a second one, are each refused", () => {
+  const root = repo({ "one.test.ts": PASSES })
+  expect(test(["--named"], given(root)).refusals[0]).toContain("nothing followed it")
+  const twice = test(["--named", "a", "--named", "b"], given(root))
+  expect(twice.refusals[0]).toContain("given more than once")
 })
 
 check("a path is read against the root rather than the folder the call was made in", () => {

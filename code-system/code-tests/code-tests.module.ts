@@ -240,12 +240,16 @@ export const codeTests = {
       statement: "A world that could not be made was given to no one else to sweep.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here says which tests inside a file run.",
+      invariantKind: "departure",
+      statement: "A run is named by path and, where a name is given, by one test's whole name.",
     },
     {
-      invariantKind: "absence",
-      statement: "A run is named by path.",
+      invariantKind: "departure",
+      statement: "A name reaches the runner escaped and anchored, so the name matches whole.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run whose name matched no test is read as no tests rather than as a crash.",
     },
     {
       invariantKind: "absence",

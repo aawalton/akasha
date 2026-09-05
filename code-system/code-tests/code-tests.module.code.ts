@@ -60,6 +60,12 @@ const CONFIG = "bunfig.toml"
 
 const PRELOADING = "--preload"
 
+const NAMING = "--test-name-pattern"
+
+const SPECIAL = /[.*+?^${}()|[\]\\]/g
+
+const NONE_NAMED = /\bmatched 0 tests\b/
+
 export const RUNNING = "AKASHA_TESTS_RUNNING"
 
 export const CARRIED: readonly string[] = [
@@ -148,8 +154,10 @@ function totalOf(clean: string, shape: RegExp): number | null {
 
 export function summaryIn(output: string): Summary {
   const clean = plain(output)
+  const files = totalOf(clean, /\bRan\s+\d+\s+tests?\s+across\s+(\d+)\s+files?/g)
+  if (files === null && NONE_NAMED.test(clean)) return { files: 0, failed: 0, passed: 0 }
   return {
-    files: totalOf(clean, /\bRan\s+\d+\s+tests?\s+across\s+(\d+)\s+files?/g),
+    files,
     failed: totalOf(clean, /^\s*(\d+)\s+fail\b/gm),
     passed: totalOf(clean, /^\s*(\d+)\s+pass\b/gm),
   }
@@ -340,14 +348,24 @@ export function groupedBy(root: string, named: readonly string[]): readonly Grou
   return groups
 }
 
-export function ranOver(root: string, named: readonly string[], expected: number): Ran {
+function wholeOf(name: string): string {
+  return `^${name.replace(SPECIAL, "\\$&")}$`
+}
+
+export function ranOver(
+  root: string,
+  named: readonly string[],
+  expected: number,
+  name: string | null = null
+): Ran {
   const grouped = groupedBy(root, named)
   const runs = grouped.length === 0 ? [{ preloads: [], named: [...named] }] : grouped
+  const naming = name === null ? [] : [NAMING, wholeOf(name)]
   let code = 0
   let output = ""
   for (const group of runs) {
     const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
-    const done = ran([RUNNER, RUNS, ...preloading, ...group.named], {
+    const done = ran([RUNNER, RUNS, ...preloading, ...naming, ...group.named], {
       cwd: root,
       env: { ...process.env, [RUNNING]: MARK },
     })

@@ -7,12 +7,15 @@ import type { Answer, Given } from "../../command-system/calling/calling.module.
 
 const FILE_PATH = "--file-path"
 
+const NAMED = "--named"
+
 const WHOLE = "."
 
 export const ANSWER_CEILING = 28000
 
 type Meant = {
   readonly paths: readonly string[]
+  readonly name: string | null
   readonly refusal: string | null
 }
 
@@ -22,8 +25,9 @@ type Aimed = {
 }
 
 function meaning(argv: readonly string[]): Meant {
-  const refused = (said: string): Meant => ({ paths: [], refusal: said })
+  const refused = (said: string): Meant => ({ paths: [], name: null, refusal: said })
   const paths: string[] = []
+  let name: string | null = null
   for (let at = 0; at < argv.length; at += 1) {
     const one = argv[at] ?? ""
     if (one === FILE_PATH) {
@@ -33,9 +37,22 @@ function meaning(argv: readonly string[]): Meant {
       at += 1
       continue
     }
-    return refused(`\`${one}\` is not an argument this takes — it takes \`${FILE_PATH} <path>\``)
+    if (one === NAMED) {
+      const value = argv[at + 1]
+      if (value === undefined) return refused(`${NAMED} names a test, and nothing followed it`)
+      if (name !== null) {
+        return refused(`${NAMED} names one test, and it was given more than once`)
+      }
+      name = value
+      at += 1
+      continue
+    }
+    return refused(
+      `\`${one}\` is not an argument this takes — it takes \`${FILE_PATH} <path>\` and ` +
+        `\`${NAMED} <text>\``
+    )
   }
-  return { paths, refusal: null }
+  return { paths, name, refusal: null }
 }
 
 export function aiming(paths: readonly string[], given: Given): Aimed {
@@ -196,7 +213,8 @@ export function test(argv: readonly string[], given: Given): Answer {
   if (aimed.refusals.length > 0) return { report: [], refusals: aimed.refusals, code: 1 }
   const expected = aimed.named.reduce((held, one) => held + testsUnder(join(root, one)), 0)
   if (expected === 0) return { report: [...reportOf(NONE, "")], refusals: [], code: 0 }
-  const done = ranOver(root, aimed.named, expected)
+  const weighed = meant.name === null ? expected : 0
+  const done = ranOver(root, aimed.named, weighed, meant.name)
   const report = [...bounded(reportOf(done.summary, done.output).join("\n"))]
   if (done.verdict === "pass") return { report, refusals: [], code: 0 }
   return {
