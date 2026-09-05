@@ -26,7 +26,8 @@ export const agentSettings = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A settings document declares what a harness is told rather than deriving that.",
+      statement:
+        "A settings document declares the settings a harness is told rather than deriving that.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +43,8 @@ export const agentSettings = {
     },
     {
       invariantKind: "departure",
-      statement: "A page here says what one program reads rather than what every program reads.",
+      statement:
+        "A page here says the settings one program reads rather than the settings every program reads.",
     },
     {
       invariantKind: "departure",
