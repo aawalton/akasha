@@ -177,7 +177,7 @@ index db19efdc4707b002bffeb2346e08c9f719bc5086..cbd3131d5fe8465a0e40359a6def13c8
    expect(() => index.everyOfType(MODULE)).toThrow(NOT_THERE)
    expect(() => index.everyPath()).toThrow(NOT_THERE)
 diff --git a/pages/indexes/indexing/indexing.module.code.ts b/pages/indexes/indexing/indexing.module.code.ts
-index 0a4b2d4050cb3820b02ee5ed97991cea769b77c3..9f1c4dfb3f6bc7b26807be041d574af012b58e43 100644
+index 0a4b2d4050cb3820b02ee5ed97991cea769b77c3..8393dc6079c1b1b7d8d16d67cf5047f01b7a6b6c 100644
 --- a/pages/indexes/indexing/indexing.module.code.ts
 +++ b/pages/indexes/indexing/indexing.module.code.ts
 @@ -7,7 +7,7 @@ import {
@@ -248,7 +248,76 @@ index 0a4b2d4050cb3820b02ee5ed97991cea769b77c3..9f1c4dfb3f6bc7b26807be041d574af0
  }
  
  export type Indexing = {
-@@ -417,11 +445,6 @@ export function indexingAt(root: string, repo: string): Indexing {
+@@ -157,12 +185,23 @@ function refusingEmpty(unique: ReadonlyMap<string, Identifier>, pages: number):
+   if (pages > 0 && unique.size === 0) throw new Error(NOTHING_DECLARES)
+ }
+ 
+-export function rebuiltFrom(
+-  tree: string,
+-  root: string,
+-  repo: string
+-): { readonly pages: number; readonly entries: number; readonly refused: readonly string[] } {
+-  mkdirSync(root, { recursive: true })
++export type Rebuilt = {
++  readonly pages: number
++  readonly entries: number
++  readonly refused: readonly string[]
++  readonly drift: Drift
++}
++
++function drifting(said: readonly Drift[]): Drift {
++  return {
++    added: said.flatMap((one) => one.added),
++    changed: said.flatMap((one) => one.changed),
++    went: said.flatMap((one) => one.went),
++  }
++}
++
++export function rebuiltFrom(tree: string, root: string, repo: string, put = true): Rebuilt {
++  if (put) mkdirSync(root, { recursive: true })
+   const held: { readonly path: string; readonly value: Value }[] = []
+   for (const path of pagesUnder(tree)) {
+     const value = valueAt(path, repo)
+@@ -179,24 +218,23 @@ export function rebuiltFrom(
+   const identity = held.flatMap((one) =>
+     identityIn(one.value, one.path, repo, identifying, null, parting)
+   )
+-  reconcile(join(root, IDENTITY), identity, root)
++  const drift = [reconcile(join(root, IDENTITY), identity, root, put)]
+   const sidecars = sidecarsIn(values)
+   const claim = claimingIn(repo, filedBy, sidecars)
+   const paths = held.flatMap((one) => claim(one.value, one.path, false))
+-  reconcile(join(root, PATH), paths, root)
+-  reconcile(join(root, SCHEMA), schema, root)
++  drift.push(reconcile(join(root, PATH), paths, root, put))
++  drift.push(reconcile(join(root, SCHEMA), schema, root, put))
+   const known = knownIn(readingAt(root), (path) => valueAt(path, repo))
+   const filed = held.map((one) => relationIn(one.value, one.path, known, repo))
+   const relation = filed.flatMap((one) => one.entries)
+-  reconcile(join(root, RELATION), relation, root)
++  drift.push(reconcile(join(root, RELATION), relation, root, put))
+   const naming = reachingBuilt(held, repo, fileProperties, filedBy)
+   const imported = walkedUnder(tree, typed).flatMap((path) =>
+     importIn(readFileSync(path, "utf8"), path, repo, naming)
+   )
+-  reconcile(join(root, IMPORT), imported, root)
++  drift.push(reconcile(join(root, IMPORT), imported, root, put))
+   const valued = held.flatMap((one) => valueIn(one.value, one.path, repo))
+-  reconcile(join(root, VALUE), valued, root)
+-  stampBuilt(repo, tree, root)
++  drift.push(reconcile(join(root, VALUE), valued, root, put))
+   return {
+     pages: held.length,
+     entries:
+@@ -207,6 +245,7 @@ export function rebuiltFrom(
+       imported.length +
+       valued.length,
+     refused: filed.flatMap((one) => one.refused),
++    drift: drifting(drift),
+   }
+ }
+ 
+@@ -417,11 +456,6 @@ export function indexingAt(root: string, repo: string): Indexing {
        pending.clear()
        const found = settlingOver(readingAt(root), repo, moving, (path) => valueAt(path, repo))
        filedInto(root, found.filings)
