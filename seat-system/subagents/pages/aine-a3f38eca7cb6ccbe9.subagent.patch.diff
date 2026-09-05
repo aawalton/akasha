@@ -1,0 +1,36 @@
+diff --git a/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.test-fixtures.ts b/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.test-fixtures.ts
+index 411e0e2d47a30ab0d70cd8689065e58bbc7ef13d..b9124d1d8ae66f5442b3cf069ccc16efc87e0842 100644
+--- a/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.test-fixtures.ts
++++ b/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.test-fixtures.ts
+@@ -122,7 +122,7 @@ export function rooted(carrying: boolean = true): string {
+     count += 1
+     const path = `akasha/t/${slug}.page-type.ts`
+     const id = `01a04d99-71ca-7e06-9000-00000000000${count}`
+-    const said = extendsSlug === null ? "null" : `"${extendsSlug}"`
++    const said = extendsSlug === null ? "[]" : `["${extendsSlug}"]`
+     const dies = mortal ? ", mortal: true" : ""
+     filing(
+       root,
+diff --git a/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.test.ts b/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.test.ts
+index c241eecd207928c0279b1729a0c3095c6629f21e..91ac0a569b7a67d4f7f6e0b63011f886cc91fadb 100644
+--- a/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.test.ts
++++ b/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.test.ts
+@@ -129,6 +129,18 @@ test("a page and the page it names land together when the change carries both",
+   ])
+ })
+ 
++test("a part-slug reaching a page the change itself adds is let through", () => {
++  const root = rooted()
++  const bodies = {
++    ...note(', partSlugs: ["domain/e"]'),
++    [E]: stating(E_ID, "e", "domain"),
++  }
++  expect(judged(over(root, [A, E], bodies))).toEqual([])
++  expect(judged(over(root, [A], note(', partSlugs: ["domain/e"]')))).toEqual([
++    { path: A, reason: "states `part-slugs`, and no `domain` carries the slug `e`" },
++  ])
++})
++
+ test("a change taking away a page refuses the page still naming it, though the change never names it", () => {
+   const root = rooted()
+   naming(root, D_ID, "domain-slug", A_ID, A)
