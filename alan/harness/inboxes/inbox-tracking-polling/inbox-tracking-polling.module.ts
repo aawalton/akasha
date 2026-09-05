@@ -14,7 +14,7 @@ export const inboxTrackingPolling = {
     {
       invariantKind: "departure",
       statement:
-        "What is written is the count standing now, together with whether that inbox was cleared to zero today.",
+        "What is written is the count now, together with whether that inbox was cleared to zero today.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const inboxTrackingPolling = {
     {
       invariantKind: "departure",
       statement:
-        "The email count is kept on the wake day only where it is lower than the count already standing there.",
+        "The email count is kept on the wake day only where it is lower than the count already there.",
     },
     {
       invariantKind: "departure",

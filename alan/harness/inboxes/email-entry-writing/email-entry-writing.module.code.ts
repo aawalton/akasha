@@ -32,8 +32,8 @@ function numberOf(value: unknown): number | null {
   return null
 }
 
-export function keptLow(standing: unknown, count: number): number | null {
-  const held = numberOf(standing)
+export function keptLow(before: unknown, count: number): number | null {
+  const held = numberOf(before)
   return held === null || count < held ? count : null
 }
 
@@ -136,16 +136,16 @@ function encoded(body: string): Uint8Array {
 }
 
 function stoodAs(root: string, at: string, body: string, slug: string): undefined {
-  let stood: string
+  let onDisk: string
   try {
-    stood = readFileSync(join(root, at), "utf8")
+    onDisk = readFileSync(join(root, at), "utf8")
   } catch (thrown) {
     throw new Error(
       `the landing of \`${slug}\` reported no fault and ${at} cannot be read back, so nothing says ` +
         `the entry was written: ${thrown instanceof Error ? thrown.message : String(thrown)}`
     )
   }
-  if (stood !== body) {
+  if (onDisk !== body) {
     throw new Error(
       `the landing of \`${slug}\` reported no fault and ${at} does not hold what it was handed, so ` +
         `the entry on disk is not the entry this tick wrote`

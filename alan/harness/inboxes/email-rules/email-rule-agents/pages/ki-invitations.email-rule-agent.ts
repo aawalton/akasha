@@ -7,5 +7,5 @@ export const kiInvitations = {
   title: "Ki invitations",
   matches: [{ field: "from", comparison: "is", values: ["rkigoff@gmail.com"] }],
   judgement:
-    "**Accept every invitation Ki Goff sends Alan, then archive it.**\n\nAccepting is reversible, so a standing yes commits the default and never the outcome. Jen is invited on her own address and answers for herself. A clash with his calendar goes to him.",
+    "**Accept every invitation Ki Goff sends Alan, then archive it.**\n\nAccepting is reversible, so a yes given in advance commits the default and never the outcome. Jen is invited on her own address and answers for herself. A clash with his calendar goes to him.",
 } as const satisfies EmailRuleAgent

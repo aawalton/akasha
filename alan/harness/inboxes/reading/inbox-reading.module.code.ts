@@ -24,7 +24,7 @@ export const NOTHING_TO_TAKE =
   "where a tile showing an inbox nobody counted would be a lie."
 
 export const SOME_STAND_STALE =
-  "a readout nothing was kept for stands on the number kept before it, which is not the count now, " +
+  "a readout nothing was kept for still holds the number kept before it, which is not the count now, " +
   "so this run did not succeed."
 
 export type Taken = {
