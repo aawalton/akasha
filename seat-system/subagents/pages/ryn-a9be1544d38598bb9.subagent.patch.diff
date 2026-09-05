@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/system-service/pages-system-service.workspace-package.ts b/pages/system-service/pages-system-service.workspace-package.ts
+index 502e433c98db5786da4acaac389030b0bf3785bd..c99b9bdd5cc50a69cd35070f2d95823f23e29b8c 100644
+--- a/pages/system-service/pages-system-service.workspace-package.ts
++++ b/pages/system-service/pages-system-service.workspace-package.ts
+@@ -109,7 +109,7 @@ export const pagesSystemService = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What the cluster reaches reads as ready only while the pages system service is listening.",
++        "The store the cluster reaches reads as ready only while the pages system service is listening.",
+     },
+     {
+       invariantKind: "gap",
