@@ -22,7 +22,7 @@ export const moveNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "What imports a path that moves is answered by the index.",
+      statement: "Which files import a path that moves is answered by the index.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const moveNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A file moving in the same act is no importer of what moves.",
+      statement: "A file moving in the same act is no importer of the paths that move.",
     },
     {
       invariantKind: "departure",
