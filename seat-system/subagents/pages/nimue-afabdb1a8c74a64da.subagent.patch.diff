@@ -303,3 +303,15 @@ index 2638abd220cff953e9b900528c46c742607566e6..393cdd1e0f987fd8ca4b35871aa45ab0
    if (query.descending === true) sorted.reverse()
    const from = offset ?? 0
    const taken = limit === undefined ? sorted.slice(from) : sorted.slice(from, from + limit)
+diff --git a/pages/system-service/pages-system-service.workspace-package.ts b/pages/system-service/pages-system-service.workspace-package.ts
+index aa770427c2c12737ad63b16446248c601195f6ca..b44f6a5a38ee47c2f9bbfda3c44cb3bdd68a9754 100644
+--- a/pages/system-service/pages-system-service.workspace-package.ts
++++ b/pages/system-service/pages-system-service.workspace-package.ts
+@@ -7,6 +7,7 @@ export const pagesSystemService = {
+   definition: "the pages reached over HTTP",
+   manifest: "json",
+   partSlugs: [
++    "module/kinds-gathering",
+     "module/page-asking",
+     "module/page-calling",
+     "module/page-composing",
