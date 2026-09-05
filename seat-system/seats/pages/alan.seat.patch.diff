@@ -33,3 +33,35 @@ index 133311f2a3be0985988302313ced4440b3f381d9..d4f4ae3c994e9b92d06cad3a8c42cfc6
 +export const SEAT_RESUME = `"$_root/${SEAT_RESUME_REL}"`
  
  export const AKASHA = `"${ROOT}/dotfiles/bin/akasha"`
+diff --git a/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.test.ts b/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.test.ts
+index e1482be9a4cba42285a0c40f7366b90a1665f60a..dc3676cfd96dcd8b6e082008b77aee93ac971229 100644
+--- a/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.test.ts
++++ b/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.test.ts
+@@ -1,11 +1,15 @@
+ import { describe, expect, test } from "bun:test"
+-import { PTY_PROXY_REL, SUPERVISOR_REL } from "../../seat-launching/seat-launching.module.code.ts"
++import {
++  PTY_PROXY_REL,
++  SEAT_RESUME_REL,
++  SUPERVISOR_REL,
++} from "../../seat-launching/seat-launching.module.code.ts"
+ import {
+   AKASHA,
+-  OPS,
+   PROXY,
+   ROOT,
+   ROOT_LOCAL,
++  SEAT_RESUME,
+   SEAT_START_DIR,
+   SUPERVISOR,
+ } from "./terminal-entry-points.module.code.ts"
+@@ -39,7 +43,7 @@ describe("the commands a terminal reaches", () => {
+     expect(AKASHA).toBe('"${AKASHA_ROOT:-$HOME/repos/akasha}/dotfiles/bin/akasha"')
+   })
+ 
+-  test("name the old ops entry point while its acts are still carried there", () => {
+-    expect(OPS).toBe("~/repos/akasha/command-system/ops-calling/ops-calling.module.code.ts")
++  test("name the resume module a terminal runs to put a seat back on its session", () => {
++    expect(SEAT_RESUME).toBe(`"$_root/${SEAT_RESUME_REL}"`)
+   })
+ })
