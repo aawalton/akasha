@@ -204,3 +204,15 @@ index 0000000000000000000000000000000000000000..1430218c96e3ef438ba31da9e2726e45
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/alan/tracking/tracking.domain.ts b/alan/tracking/tracking.domain.ts
+index c55f3d8f4767a2bbbadaaee6d0575e93bd82eebb..f1891e20b1877fca02e5820dbcdf7ddd948e0ad8 100644
+--- a/alan/tracking/tracking.domain.ts
++++ b/alan/tracking/tracking.domain.ts
+@@ -12,6 +12,7 @@ export const tracking = {
+     "page-type/location-trace",
+     "page-type/session-activity",
+     "module/activity-default",
++    "module/tracking-landing",
+     "page-type/to-do",
+     "page-type/tracking-capture",
+     "page-type/tracking-entry",
