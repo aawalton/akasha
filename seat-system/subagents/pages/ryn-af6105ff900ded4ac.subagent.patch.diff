@@ -266,6 +266,22 @@ index d1fbc76128371586317178a8552fc9c807e368f5..4bb5f737807ce057a85733cbcc7c32e0
      {
        invariantKind: "constraint",
        statement: "A bundle that could not be read ends the run with the bundles read so far named.",
+diff --git a/temper/temper-character/character-builds/character-build.page-type.ts b/temper/temper-character/character-builds/character-build.page-type.ts
+index d148e4cad234fd64403798257546ac9b87c2fb70..7da0d67ead37cab6775680109117085b3d1480d7 100644
+--- a/temper/temper-character/character-builds/character-build.page-type.ts
++++ b/temper/temper-character/character-builds/character-build.page-type.ts
+@@ -48,10 +48,7 @@ export const characterBuild = {
+       invariantKind: "departure",
+       statement: "A name is author-given, so several builds answer to the same name.",
+     },
+-    {
+-      invariantKind: "constraint",
+-      statement: "A build's hash runs longer than a name is allowed to run.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "This page type is Temper's while its slug carries no temper- prefix.",
 diff --git a/temper/temper-watcher/workstation-services/temper-watcher.workstation-service.ts b/temper/temper-watcher/workstation-services/temper-watcher.workstation-service.ts
 index ba66ce233ddf69aa342c686559f1554e9bc1bf06..f355c38eae067e58c51dfeb349168e24b7ed9071 100644
 --- a/temper/temper-watcher/workstation-services/temper-watcher.workstation-service.ts
