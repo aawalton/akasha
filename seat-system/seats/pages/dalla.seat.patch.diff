@@ -19,6 +19,25 @@ index 700358f2de9ed53f29061349dd5962e6ac7b9128..dacec26928d409651400b6bd9fad79aa
      const words = calledWords(segment)
      const first = words[0]
      if (first !== undefined) {
+diff --git a/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.ts b/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.ts
+index e54e6fbf68cc50ab6888ec9dcc7decdd6f7e942b..15a080eec9c5be5f368de3133b9ed9f2545be201 100644
+--- a/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.ts
++++ b/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.ts
+@@ -53,6 +53,14 @@ export const blockAkashaShellWrites = {
+       invariantKind: "departure",
+       statement: "A program's own text is not read.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A redirect is read outside the body a heredoc carries rather than inside it.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body handed to a program is read for the paths that body names.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A read through a program is not parted from a write through the program.",
 diff --git a/hook-system/shell-calls/shell-calls.module.code.ts b/hook-system/shell-calls/shell-calls.module.code.ts
 index 4908d0283878e352ab9efa0376a84d1ec15f12b0..f8d5fb6776250fb8e707e6e15df3d9177380d2c5 100644
 --- a/hook-system/shell-calls/shell-calls.module.code.ts
