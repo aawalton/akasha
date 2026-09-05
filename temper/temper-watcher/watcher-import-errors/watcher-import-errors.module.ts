@@ -68,7 +68,7 @@ export const watcherImportErrors = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller may name what is logged to.",
+      statement: "A caller may name the log.",
     },
     {
       invariantKind: "departure",
