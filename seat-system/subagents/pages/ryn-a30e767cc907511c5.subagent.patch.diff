@@ -1,8 +1,8 @@
 diff --git a/code-system/python-modules/python-module.page-type.ts b/code-system/python-modules/python-module.page-type.ts
-index 63143d95a7b4da455fa334ee3ccc224bcfd08028..6d6dcc0459d0f6abc11b3de1f4865cb380a7746c 100644
+index 63143d95a7b4da455fa334ee3ccc224bcfd08028..8ffa589558bf73365775089356b52932b14af764 100644
 --- a/code-system/python-modules/python-module.page-type.ts
 +++ b/code-system/python-modules/python-module.page-type.ts
-@@ -26,7 +26,8 @@ export const pythonModule = {
+@@ -26,11 +26,13 @@ export const pythonModule = {
      },
      {
        invariantKind: "departure",
@@ -12,3 +12,9 @@ index 63143d95a7b4da455fa334ee3ccc224bcfd08028..6d6dcc0459d0f6abc11b3de1f4865cb3
      },
      {
        invariantKind: "departure",
+-      statement: "What carries a Python module to where it runs states the name it lands under.",
++      statement:
++        "What carries a Python module to where that module runs states the name that module lands under.",
+     },
+     {
+       invariantKind: "absence",
