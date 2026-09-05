@@ -1,0 +1,3735 @@
+runsWarrants: false
+diff --git a/bun.lock b/bun.lock
+index 26b547db6b174829f6c8825e93835f6daff5e490..0c0933e2fb913629e31d4cb9b8e9149453ab6642 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -2844,7 +2844,7 @@
+         "@akasha/errors-core": "workspace:*",
+       },
+     },
+-    "utils-narrow": {
++    "utils-narrowing": {
+       "name": "@akasha/utils-narrow",
+       "dependencies": {
+         "zod": "^4.3.6",
+@@ -3467,7 +3467,7 @@
+ 
+     "@akasha/utils-fs": ["@akasha/utils-fs@workspace:utils-fs"],
+ 
+-    "@akasha/utils-narrow": ["@akasha/utils-narrow@workspace:utils-narrow"],
++    "@akasha/utils-narrow": ["@akasha/utils-narrow@workspace:utils-narrowing"],
+ 
+     "@akasha/utils-process": ["@akasha/utils-process@workspace:utils-process"],
+ 
+diff --git a/domains/findings/pages/the-wide-badge-variant-union-is-read-by-one-file-and-its-eight-member-subset-by-ten.finding.ts b/domains/findings/pages/the-wide-badge-variant-union-is-read-by-one-file-and-its-eight-member-subset-by-ten.finding.ts
+index 2c167066f35b1324a2f2a3935f4094fcdb4cf84b..3b6a3742ae976849dbf13c1bed2a9b1c560243dd 100644
+--- a/domains/findings/pages/the-wide-badge-variant-union-is-read-by-one-file-and-its-eight-member-subset-by-ten.finding.ts
++++ b/domains/findings/pages/the-wide-badge-variant-union-is-read-by-one-file-and-its-eight-member-subset-by-ten.finding.ts
+@@ -6,7 +6,7 @@ export const theWideBadgeVariantUnionIsReadByOneFileAndItsEightMemberSubsetByTen
+   slug: "the-wide-badge-variant-union-is-read-by-one-file-and-its-eight-member-subset-by-ten",
+   domainSlug: "workspace-package/utils-narrow",
+   claim:
+-    "Two exported unions are named `BadgeVariant`, and the eight members of the one in `pages/core/schema/color-rule-variant` are a strict subset of the eighteen in `utils-narrow/badge-variant`. The wide one is read by one file, which draws six of its eighteen; the narrow one is read by ten, all under `pages/`. No file imports both. The eighteen are exactly the eighteen keys of `VARIANT_MAP` in `design/badges/badge`, the table that paints a badge, so the wide union restates the drawing vocabulary and the narrow one holds under half of it. Committed source holds nine declarations spelled `BadgeVariant` rather than two. The module slug `badge-variant` is already held by `utils-narrow`, and a slug is unique among the pages of its page type, so renaming the `color-rule-variant` module to `badge-variant` is refused.",
++    "Two exported unions are named `BadgeVariant`, and the eight members of the one in `pages/core/schema/color-rule-variant` are a strict subset of the eighteen in `utils-narrowing/badge-variant`. The wide one is read by one file, which draws six of its eighteen; the narrow one is read by ten, all under `pages/`. No file imports both. The eighteen are exactly the eighteen keys of `VARIANT_MAP` in `design/badges/badge`, the table that paints a badge, so the wide union restates the drawing vocabulary and the narrow one holds under half of it. Committed source holds nine declarations spelled `BadgeVariant` rather than two. The module slug `badge-variant` is already held by `utils-narrow`, and a slug is unique among the pages of its page type, so renaming the `color-rule-variant` module to `badge-variant` is refused.",
+   evidence:
+-    'Measured 2026-09-05 at HEAD `832fa11720`, read-only. Every count below is a grep over the checkout with `node_modules`, `.git` and `temper/temper-web/dist` left out.\n\nTHE TWO UNIONS, MEMBER BY MEMBER. `utils-narrow/badge-variant/badge-variant.module.code.ts` lines 1-19 declare eighteen: `accent`, `destructive`, `elevation`, `elevation-muted`, `surface`, `normal`, `fine`, `superior`, `epic`, `legendary`, `mythic`, `radiant`, `green`, `blue`, `purple`, `yellow`, `orange`, `red`. `pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts` lines 3-14 derive eight from a `BADGE_VARIANTS` array: `accent`, `elevation-muted`, `green`, `blue`, `purple`, `yellow`, `orange`, `red`. All eight are among the eighteen, so the subset is strict and the ten the wide one adds are `destructive`, `elevation`, `surface` and the seven rarity tiers `normal` through `radiant`.\n\nWHO READS WHICH. Ten files import the `BadgeVariant` symbol from `color-rule-variant`: `pages/core/resolve-badge-variant` and nine components under `pages/ui/components/` (`calendar-time-property-badge`, `date-property-badge`, `instant-property-badge`, `multi-select-popover`, `number-property-badge`, `page-detail-properties-shared`, `progress-property-badge`, `relation-display`, `select-property-badge`). Three further files import that module for `ColorRuleVariant` or `badgeVariantSchema` rather than for `BadgeVariant`, which is why a count of the module\'s importers reads thirteen and a count of the type\'s readers reads ten. Exactly one file imports `@akasha/utils-narrow/badge-variant`: `temper/temper-player-completion/activity-categories/activity-categories.module.code.ts:1`. Its twelve category rows at lines 11-22 spell six distinct values — `orange`, `blue`, `green`, `yellow`, `purple`, `red` — and every one of the six is in the narrow union too, so the twelve members only the wide union carries are reached through that type by nothing. Piping the wide one\'s importer list into a grep for `color-rule-variant` returns nothing, so no file sees both unions.\n\nWHAT THE EIGHTEEN ACTUALLY ARE. `design/badges/badge/badge.module.code.tsx` lines 17-36 hold `VARIANT_MAP` with eighteen keys, in the same order and with the same spellings as the wide union, and line 56 derives a third `BadgeVariant` from it through `VariantProps`. That map is what a `Badge` is drawn from, so the wide union is a hand copy of the drawing table and the narrow union is a hand copy of part of it. Nothing in the tree proves either copy against the map.\n\nNINE DECLARATIONS, NOT TWO. A grep for a line declaring `type BadgeVariant` matches nine files in committed source. Beside the two above and the `cva` alias in `design/badges/badge`, `temper/temper-web/companion-bulk-edit-tag/companion-bulk-edit-tag.module.code.tsx:17-25` declares a local union of eight — `elevation-muted` and the seven rarity tiers — which is a different eight from the narrow one and overlaps it only at `elevation-muted`. `temper/temper-web/effect-badge-types/effect-badge-types.module.code.ts:7` exports `BadgeVariant = "elevation-muted"`, a union of one, read by six temper-web files. Three more are local aliases over a `cva` variant table (`design/badges/badge-toggle-group:9`, `temper/temper-web/bulk-edit-tag:13`, `temper/temper-player-inventory-management-ui/rule-bulk-action-badge:28`) and `temper/temper-progress/activity-categories/properties/badge-variant.text-property.ts:3` is `= string`. Three further copies sit in `temper/temper-web/dist` and are build output, not source.\n\nHOW THIS CAME UP, AND THE SLUG. It surfaced when a rename of the `color-rule-variant` module to `badge-variant` was refused for the slug being taken. `utils-narrow/badge-variant/badge-variant.module.ts:6` states `slug: "badge-variant"` on a `module` page, and `color-rule-variant.module.ts:6` is a `module` page too. `pages/properties/slug.text-property.ts:13` states `unique: "page-type"` and its invariant at line 17 reads "A slug is unique among the pages of its page type", so the two cannot both be `module/badge-variant`. A `text-property` page at `temper/temper-progress/activity-categories/properties/badge-variant.text-property.ts:8` also carries the slug `badge-variant`, which is allowed because it is a different page type.\n\nWHAT I DID NOT ESTABLISH. I did not test the refusal by attempting the rename; the slug collision above is read off the two module pages and the uniqueness rule rather than observed as a refusal message. I did not judge which union is the right one to keep, nor whether the narrow one\'s eight are narrow on purpose — `color-rule-variant.module.ts:7` defines its module as "the named colors a badge is drawn in and a color rule answers", which is consistent with a color-only vocabulary being deliberate. I did not measure whether any value outside the narrow eight ever reaches the components that read it.',
++    'Measured 2026-09-05 at HEAD `832fa11720`, read-only. Every count below is a grep over the checkout with `node_modules`, `.git` and `temper/temper-web/dist` left out.\n\nTHE TWO UNIONS, MEMBER BY MEMBER. `utils-narrowing/badge-variant/badge-variant.module.code.ts` lines 1-19 declare eighteen: `accent`, `destructive`, `elevation`, `elevation-muted`, `surface`, `normal`, `fine`, `superior`, `epic`, `legendary`, `mythic`, `radiant`, `green`, `blue`, `purple`, `yellow`, `orange`, `red`. `pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts` lines 3-14 derive eight from a `BADGE_VARIANTS` array: `accent`, `elevation-muted`, `green`, `blue`, `purple`, `yellow`, `orange`, `red`. All eight are among the eighteen, so the subset is strict and the ten the wide one adds are `destructive`, `elevation`, `surface` and the seven rarity tiers `normal` through `radiant`.\n\nWHO READS WHICH. Ten files import the `BadgeVariant` symbol from `color-rule-variant`: `pages/core/resolve-badge-variant` and nine components under `pages/ui/components/` (`calendar-time-property-badge`, `date-property-badge`, `instant-property-badge`, `multi-select-popover`, `number-property-badge`, `page-detail-properties-shared`, `progress-property-badge`, `relation-display`, `select-property-badge`). Three further files import that module for `ColorRuleVariant` or `badgeVariantSchema` rather than for `BadgeVariant`, which is why a count of the module\'s importers reads thirteen and a count of the type\'s readers reads ten. Exactly one file imports `@akasha/utils-narrow/badge-variant`: `temper/temper-player-completion/activity-categories/activity-categories.module.code.ts:1`. Its twelve category rows at lines 11-22 spell six distinct values — `orange`, `blue`, `green`, `yellow`, `purple`, `red` — and every one of the six is in the narrow union too, so the twelve members only the wide union carries are reached through that type by nothing. Piping the wide one\'s importer list into a grep for `color-rule-variant` returns nothing, so no file sees both unions.\n\nWHAT THE EIGHTEEN ACTUALLY ARE. `design/badges/badge/badge.module.code.tsx` lines 17-36 hold `VARIANT_MAP` with eighteen keys, in the same order and with the same spellings as the wide union, and line 56 derives a third `BadgeVariant` from it through `VariantProps`. That map is what a `Badge` is drawn from, so the wide union is a hand copy of the drawing table and the narrow union is a hand copy of part of it. Nothing in the tree proves either copy against the map.\n\nNINE DECLARATIONS, NOT TWO. A grep for a line declaring `type BadgeVariant` matches nine files in committed source. Beside the two above and the `cva` alias in `design/badges/badge`, `temper/temper-web/companion-bulk-edit-tag/companion-bulk-edit-tag.module.code.tsx:17-25` declares a local union of eight — `elevation-muted` and the seven rarity tiers — which is a different eight from the narrow one and overlaps it only at `elevation-muted`. `temper/temper-web/effect-badge-types/effect-badge-types.module.code.ts:7` exports `BadgeVariant = "elevation-muted"`, a union of one, read by six temper-web files. Three more are local aliases over a `cva` variant table (`design/badges/badge-toggle-group:9`, `temper/temper-web/bulk-edit-tag:13`, `temper/temper-player-inventory-management-ui/rule-bulk-action-badge:28`) and `temper/temper-progress/activity-categories/properties/badge-variant.text-property.ts:3` is `= string`. Three further copies sit in `temper/temper-web/dist` and are build output, not source.\n\nHOW THIS CAME UP, AND THE SLUG. It surfaced when a rename of the `color-rule-variant` module to `badge-variant` was refused for the slug being taken. `utils-narrowing/badge-variant/badge-variant.module.ts:6` states `slug: "badge-variant"` on a `module` page, and `color-rule-variant.module.ts:6` is a `module` page too. `pages/properties/slug.text-property.ts:13` states `unique: "page-type"` and its invariant at line 17 reads "A slug is unique among the pages of its page type", so the two cannot both be `module/badge-variant`. A `text-property` page at `temper/temper-progress/activity-categories/properties/badge-variant.text-property.ts:8` also carries the slug `badge-variant`, which is allowed because it is a different page type.\n\nWHAT I DID NOT ESTABLISH. I did not test the refusal by attempting the rename; the slug collision above is read off the two module pages and the uniqueness rule rather than observed as a refusal message. I did not judge which union is the right one to keep, nor whether the narrow one\'s eight are narrow on purpose — `color-rule-variant.module.ts:7` defines its module as "the named colors a badge is drawn in and a color rule answers", which is consistent with a color-only vocabulary being deliberate. I did not measure whether any value outside the narrow eight ever reaches the components that read it.',
+ } as const satisfies Finding
+diff --git a/utils-narrow/as-boolean/as-boolean.module.code.ts b/utils-narrow/as-boolean/as-boolean.module.code.ts
+deleted file mode 100644
+index 73cdf638b90007e359d3790759f73265b798e3a1..0000000000000000000000000000000000000000
+--- a/utils-narrow/as-boolean/as-boolean.module.code.ts
++++ /dev/null
+@@ -1,6 +0,0 @@
+-export function asBoolean(value: unknown): boolean | undefined {
+-  if (typeof value === "boolean") return value
+-  if (value === "true") return true
+-  if (value === "false") return false
+-  return undefined
+-}
+diff --git a/utils-narrow/as-boolean/as-boolean.module.ts b/utils-narrow/as-boolean/as-boolean.module.ts
+deleted file mode 100644
+index bc486a1cbf93f91716cb51bbab99491b6dcfa857..0000000000000000000000000000000000000000
+--- a/utils-narrow/as-boolean/as-boolean.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const asBoolean = {
+-  id: "01a05cf2-453a-79a8-abf8-4a76a72f4145",
+-  pageTypeSlug: "module",
+-  slug: "as-boolean",
+-  definition: "a boolean read from a value that may spell one as text",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/as-object-record/as-object-record.module.code.ts b/utils-narrow/as-object-record/as-object-record.module.code.ts
+deleted file mode 100644
+index 3cb639c9456d747da609869214568a7f4320a3fe..0000000000000000000000000000000000000000
+--- a/utils-narrow/as-object-record/as-object-record.module.code.ts
++++ /dev/null
+@@ -1,5 +0,0 @@
+-import { isObjectRecord } from "../is-object-record/is-object-record.module.code.ts"
+-
+-export function asObjectRecord(value: unknown): Record<string, unknown> | undefined {
+-  return isObjectRecord(value) ? value : undefined
+-}
+diff --git a/utils-narrow/as-object-record/as-object-record.module.ts b/utils-narrow/as-object-record/as-object-record.module.ts
+deleted file mode 100644
+index f6272f8ccecaf60452f9cc465f558a576ac1dd01..0000000000000000000000000000000000000000
+--- a/utils-narrow/as-object-record/as-object-record.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const asObjectRecord = {
+-  id: "01a06057-3679-70cf-b69b-52e57b9172af",
+-  pageTypeSlug: "module",
+-  slug: "as-object-record",
+-  definition: "a value read as an object of unknown values, or nothing where the value is not one",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/as-record/as-record.module.code.ts b/utils-narrow/as-record/as-record.module.code.ts
+deleted file mode 100644
+index 1432aa45d2f5ed79f38075caa534fb4808089dc6..0000000000000000000000000000000000000000
+--- a/utils-narrow/as-record/as-record.module.code.ts
++++ /dev/null
+@@ -1,5 +0,0 @@
+-import { isRecord } from "../is-record/is-record.module.code.ts"
+-
+-export function asRecord(value: unknown): Record<string, unknown> | undefined {
+-  return isRecord(value) ? value : undefined
+-}
+diff --git a/utils-narrow/as-record/as-record.module.ts b/utils-narrow/as-record/as-record.module.ts
+deleted file mode 100644
+index fb05f3d7e4b37d44c35941aa915bf64ae6b607f1..0000000000000000000000000000000000000000
+--- a/utils-narrow/as-record/as-record.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const asRecord = {
+-  id: "01a05c94-2bfb-7908-974d-2bd990ac9a56",
+-  pageTypeSlug: "module",
+-  slug: "as-record",
+-  definition: "a value read as a record of unknown values, or nothing where it is not one",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/assert-never/assert-never.module.code.ts b/utils-narrow/assert-never/assert-never.module.code.ts
+deleted file mode 100644
+index c5304d8f1778402d06ca3228796d8f3c5a8699c0..0000000000000000000000000000000000000000
+--- a/utils-narrow/assert-never/assert-never.module.code.ts
++++ /dev/null
+@@ -1,6 +0,0 @@
+-import { NarrowError } from "../narrow-error/narrow-error.module.code.ts"
+-
+-export function assertNever(value: never): never {
+-  const rendered = typeof value === "string" ? value : JSON.stringify(value)
+-  throw new NarrowError(`assertNever: unhandled variant ${rendered}`)
+-}
+diff --git a/utils-narrow/assert-never/assert-never.module.ts b/utils-narrow/assert-never/assert-never.module.ts
+deleted file mode 100644
+index 8c36d7f107c7f18df3f457170be6c50d188085fc..0000000000000000000000000000000000000000
+--- a/utils-narrow/assert-never/assert-never.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const assertNever = {
+-  id: "01a05c94-2bfd-78f9-8078-7e672c919d08",
+-  pageTypeSlug: "module",
+-  slug: "assert-never",
+-  definition: "a variant no branch handled, refused where the code reaches it",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/badge-variant/badge-variant.module.code.ts b/utils-narrow/badge-variant/badge-variant.module.code.ts
+deleted file mode 100644
+index 899514e9ad7f28718e1a9de0f810da183b976da2..0000000000000000000000000000000000000000
+--- a/utils-narrow/badge-variant/badge-variant.module.code.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-export type BadgeVariant =
+-  | "accent"
+-  | "destructive"
+-  | "elevation"
+-  | "elevation-muted"
+-  | "surface"
+-  | "normal"
+-  | "fine"
+-  | "superior"
+-  | "epic"
+-  | "legendary"
+-  | "mythic"
+-  | "radiant"
+-  | "green"
+-  | "blue"
+-  | "purple"
+-  | "yellow"
+-  | "orange"
+-  | "red"
+diff --git a/utils-narrow/badge-variant/badge-variant.module.ts b/utils-narrow/badge-variant/badge-variant.module.ts
+deleted file mode 100644
+index cca43c8edf055a2fc736f919cb890c33997bc344..0000000000000000000000000000000000000000
+--- a/utils-narrow/badge-variant/badge-variant.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const badgeVariant = {
+-  id: "01a05c94-2bfd-7f64-b6e0-5019695f0faa",
+-  pageTypeSlug: "module",
+-  slug: "badge-variant",
+-  definition: "the names a badge is drawn under",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/capitalize/capitalize.module.code.ts b/utils-narrow/capitalize/capitalize.module.code.ts
+deleted file mode 100644
+index 8d5e54dbbed1aec119dd0b0d9de65d17f38c4162..0000000000000000000000000000000000000000
+--- a/utils-narrow/capitalize/capitalize.module.code.ts
++++ /dev/null
+@@ -1,3 +0,0 @@
+-export function capitalize(str: string): string {
+-  return str.charAt(0).toUpperCase() + str.slice(1)
+-}
+diff --git a/utils-narrow/capitalize/capitalize.module.ts b/utils-narrow/capitalize/capitalize.module.ts
+deleted file mode 100644
+index 9b51de652ffd2266a5bc9e87c3abfd1a2cf3e30b..0000000000000000000000000000000000000000
+--- a/utils-narrow/capitalize/capitalize.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const capitalize = {
+-  id: "01a05c94-2bfd-7d83-be6a-3d30500f9278",
+-  pageTypeSlug: "module",
+-  slug: "capitalize",
+-  definition: "text with its first character in upper case",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/collapse/collapse.module.code.ts b/utils-narrow/collapse/collapse.module.code.ts
+deleted file mode 100644
+index 0cd8451a789ccde040333acf5509af36230e3edc..0000000000000000000000000000000000000000
+--- a/utils-narrow/collapse/collapse.module.code.ts
++++ /dev/null
+@@ -1,52 +0,0 @@
+-export interface Fold<Out> {
+-  readonly outcome: "value"
+-  readonly value: Out
+-  readonly because: string
+-}
+-
+-export interface Refusal {
+-  readonly outcome: "refuse"
+-  readonly because: string
+-}
+-
+-export type Choice<Out> = Fold<Out> | Refusal
+-
+-export const folds = <Out>(value: Out, because: string): Fold<Out> => ({
+-  outcome: "value",
+-  value,
+-  because,
+-})
+-
+-export const refuses = (because: string): Refusal => ({ outcome: "refuse", because })
+-
+-export type CollapseTable<K extends string, Out> = { readonly [P in K]: Choice<Out> }
+-
+-export interface Sealed<K extends string> {
+-  readonly fold: <Out>(table: CollapseTable<K, Out>) => Out
+-}
+-
+-export class CollapseRefused extends Error {
+-  override readonly name = "CollapseRefused"
+-}
+-
+-function apply<K extends string, Out>(
+-  reading: K,
+-  table: CollapseTable<K, Out>,
+-  cause: unknown
+-): Out {
+-  const choice = table[reading]
+-  if (choice.outcome === "value") return choice.value
+-  if (cause !== undefined) throw cause
+-  throw new CollapseRefused(`refused to collapse \`${reading}\` — ${choice.because}`)
+-}
+-
+-export const seal = <K extends string>(reading: K, cause: unknown): Sealed<K> => ({
+-  fold: <Out>(table: CollapseTable<K, Out>): Out => apply(reading, table, cause),
+-})
+-
+-export function collapse<K extends string, Out>(
+-  reading: K | Sealed<K>,
+-  table: CollapseTable<K, Out>
+-): Out {
+-  return typeof reading === "string" ? apply(reading, table, undefined) : reading.fold(table)
+-}
+diff --git a/utils-narrow/collapse/collapse.module.ts b/utils-narrow/collapse/collapse.module.ts
+deleted file mode 100644
+index c5a5171ffdaf4d6ca1235f1c6b6b2b12e10fb843..0000000000000000000000000000000000000000
+--- a/utils-narrow/collapse/collapse.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const collapse = {
+-  id: "01a05c94-2bfe-7d43-82ed-ff600d5f69e7",
+-  pageTypeSlug: "module",
+-  slug: "collapse",
+-  definition: "a reading folded to a value through a table stating one outcome per case",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/create-data-file/create-data-file.module.code.ts b/utils-narrow/create-data-file/create-data-file.module.code.ts
+deleted file mode 100644
+index a75aa902997896307eb35d39f32f21c54536b3fa..0000000000000000000000000000000000000000
+--- a/utils-narrow/create-data-file/create-data-file.module.code.ts
++++ /dev/null
+@@ -1,61 +0,0 @@
+-export type DataFile<K extends string, V, S extends string = never> = {
+-  readonly data: Record<K, V>
+-  readonly ids: readonly K[]
+-  readonly list: readonly V[]
+-  readonly subcategories: Partial<
+-    Record<
+-      S,
+-      {
+-        readonly ids: readonly K[]
+-        readonly list: readonly V[]
+-        readonly data: Partial<Record<K, V>>
+-      }
+-    >
+-  >
+-  readonly has: (id: string) => id is K
+-}
+-
+-export const createDataFile = <Template extends { name: string }>() => {
+-  return <K extends string, S extends string, V extends Template & { id: K; subcategoryId?: S }>(
+-    data: Record<K, V>
+-  ) => {
+-    type SubcategoryEntry = { ids: readonly K[]; list: readonly V[]; data: Partial<Record<K, V>> }
+-
+-    const list: V[] = Object.values(data)
+-    const ids: K[] = list.map((item) => item.id)
+-
+-    const idsByCat = new Map<S, K[]>()
+-    const listByCat = new Map<S, V[]>()
+-    const dataByCat = new Map<S, Partial<Record<K, V>>>()
+-
+-    for (const item of list) {
+-      const subId = item.subcategoryId
+-      if (!subId) continue
+-      const subIds: K[] = idsByCat.get(subId) ?? []
+-      const subList: V[] = listByCat.get(subId) ?? []
+-      const subData: Partial<Record<K, V>> = dataByCat.get(subId) ?? {}
+-      subIds.push(item.id)
+-      subList.push(item)
+-      subData[item.id] = item
+-      idsByCat.set(subId, subIds)
+-      listByCat.set(subId, subList)
+-      dataByCat.set(subId, subData)
+-    }
+-    const subcategories: Partial<Record<S, SubcategoryEntry>> = {}
+-    for (const [k, subIds] of idsByCat) {
+-      subcategories[k] = {
+-        ids: subIds,
+-        list: listByCat.get(k) ?? [],
+-        data: dataByCat.get(k) ?? {},
+-      }
+-    }
+-
+-    return {
+-      data,
+-      ids,
+-      list,
+-      subcategories,
+-      has: (id: string): id is K => id in data,
+-    } as const
+-  }
+-}
+diff --git a/utils-narrow/create-data-file/create-data-file.module.ts b/utils-narrow/create-data-file/create-data-file.module.ts
+deleted file mode 100644
+index 4933061058e510d2ed5ffd8f284cbafe9f69ceef..0000000000000000000000000000000000000000
+--- a/utils-narrow/create-data-file/create-data-file.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const createDataFile = {
+-  id: "01a05c94-2bfe-7fa4-a2e5-5e0b7f981a1c",
+-  pageTypeSlug: "module",
+-  slug: "create-data-file",
+-  definition: "a record of items indexed by id and by subcategory",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/delete-record-key/delete-record-key.module.code.ts b/utils-narrow/delete-record-key/delete-record-key.module.code.ts
+deleted file mode 100644
+index 0b247351cda7351fa81b76cc550297319d08348c..0000000000000000000000000000000000000000
+--- a/utils-narrow/delete-record-key/delete-record-key.module.code.ts
++++ /dev/null
+@@ -1,6 +0,0 @@
+-export function deleteRecordKey<K extends string, V>(
+-  record: Record<K, V | undefined>,
+-  key: K
+-): undefined {
+-  record[key] = undefined
+-}
+diff --git a/utils-narrow/delete-record-key/delete-record-key.module.ts b/utils-narrow/delete-record-key/delete-record-key.module.ts
+deleted file mode 100644
+index fc0250137ca07b92e3b1151a57f0173e9bfd34ee..0000000000000000000000000000000000000000
+--- a/utils-narrow/delete-record-key/delete-record-key.module.ts
++++ /dev/null
+@@ -1,15 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const deleteRecordKey = {
+-  id: "01a06057-367a-7da6-aab7-c707ebb15466",
+-  pageTypeSlug: "module",
+-  slug: "delete-record-key",
+-  definition: "a record key set to nothing rather than deleted",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "constraint",
+-      statement: "Lua compiled from this code empties a table key by assigning nothing.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/utils-narrow/get-subcategory/get-subcategory.module.code.ts b/utils-narrow/get-subcategory/get-subcategory.module.code.ts
+deleted file mode 100644
+index 6dbceec94ce29f3805eb2d0fead4c34d53eec4a1..0000000000000000000000000000000000000000
+--- a/utils-narrow/get-subcategory/get-subcategory.module.code.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { DataFile } from "../create-data-file/create-data-file.module.code.ts"
+-
+-export function getSubcategory<K extends string, V, S extends string>(
+-  file: DataFile<K, V, S>,
+-  key: S
+-): { ids: readonly K[]; list: readonly V[]; data: Partial<Record<K, V>> } {
+-  const entry = file.subcategories[key]
+-  if (!entry) throw new Error(`getSubcategory: missing subcategory ${String(key)}`)
+-  return entry
+-}
+diff --git a/utils-narrow/get-subcategory/get-subcategory.module.ts b/utils-narrow/get-subcategory/get-subcategory.module.ts
+deleted file mode 100644
+index f9d816b895e122b468347ba7be88599a719a4e56..0000000000000000000000000000000000000000
+--- a/utils-narrow/get-subcategory/get-subcategory.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const getSubcategory = {
+-  id: "01a05c94-2bfe-744d-bdc9-97cc233a70fc",
+-  pageTypeSlug: "module",
+-  slug: "get-subcategory",
+-  definition: "the entry a data file holds under one subcategory",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/is-json/is-json.module.code.ts b/utils-narrow/is-json/is-json.module.code.ts
+deleted file mode 100644
+index 9e3f06fc3efe29131915b462a46a2826ef298ba3..0000000000000000000000000000000000000000
+--- a/utils-narrow/is-json/is-json.module.code.ts
++++ /dev/null
+@@ -1,6 +0,0 @@
+-import { JsonSchema } from "../json-schema/json-schema.module.code.ts"
+-import type { Json } from "../json-value/json-value.module.code.ts"
+-
+-export function isJson(value: unknown): value is Json {
+-  return JsonSchema.safeParse(value).success
+-}
+diff --git a/utils-narrow/is-json/is-json.module.ts b/utils-narrow/is-json/is-json.module.ts
+deleted file mode 100644
+index 8fe0399dad2076ac6dc0429b93359a6a508520f1..0000000000000000000000000000000000000000
+--- a/utils-narrow/is-json/is-json.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const isJson = {
+-  id: "01a05c94-2bfe-7508-818e-d62e8ebe8b4b",
+-  pageTypeSlug: "module",
+-  slug: "is-json",
+-  definition: "whether a value is JSON",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/is-object-record/is-object-record.module.code.ts b/utils-narrow/is-object-record/is-object-record.module.code.ts
+deleted file mode 100644
+index e61cb52dad8bd960599861b640ccc674b1926740..0000000000000000000000000000000000000000
+--- a/utils-narrow/is-object-record/is-object-record.module.code.ts
++++ /dev/null
+@@ -1,3 +0,0 @@
+-export function isObjectRecord(value: unknown): value is Record<string, unknown> {
+-  return typeof value === "object" && value !== null
+-}
+diff --git a/utils-narrow/is-object-record/is-object-record.module.ts b/utils-narrow/is-object-record/is-object-record.module.ts
+deleted file mode 100644
+index 4c842b77b47baa3831d0889615d9188a40572f60..0000000000000000000000000000000000000000
+--- a/utils-narrow/is-object-record/is-object-record.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const isObjectRecord = {
+-  id: "01a05c94-2bff-7b7c-ab0f-ffa64b188533",
+-  pageTypeSlug: "module",
+-  slug: "is-object-record",
+-  definition: "whether a value is an object that is not null",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/is-record/is-record.module.code.ts b/utils-narrow/is-record/is-record.module.code.ts
+deleted file mode 100644
+index c8dc521f5753e1e1535a240723728aa221c6af7c..0000000000000000000000000000000000000000
+--- a/utils-narrow/is-record/is-record.module.code.ts
++++ /dev/null
+@@ -1,3 +0,0 @@
+-export function isRecord(value: unknown): value is Record<string, unknown> {
+-  return typeof value === "object" && value !== null && !Array.isArray(value)
+-}
+diff --git a/utils-narrow/is-record/is-record.module.ts b/utils-narrow/is-record/is-record.module.ts
+deleted file mode 100644
+index 353590be6065a09577435d2fdcbc41568968ed9c..0000000000000000000000000000000000000000
+--- a/utils-narrow/is-record/is-record.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const isRecord = {
+-  id: "01a05c94-2bff-7114-b814-1a033bcfb5e8",
+-  pageTypeSlug: "module",
+-  slug: "is-record",
+-  definition: "whether a value is an object that is neither null nor an array",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/join-path/join-path.module.code.ts b/utils-narrow/join-path/join-path.module.code.ts
+deleted file mode 100644
+index 97ecb9d0e14de9a4406496df5bf5e489b66cc83e..0000000000000000000000000000000000000000
+--- a/utils-narrow/join-path/join-path.module.code.ts
++++ /dev/null
+@@ -1,4 +0,0 @@
+-export function joinPath(cardId: string, itemPath?: readonly (string | number)[] | null): string {
+-  if (itemPath == null || itemPath.length === 0) return cardId
+-  return `${cardId}/${itemPath.map(String).join("/")}`
+-}
+diff --git a/utils-narrow/join-path/join-path.module.ts b/utils-narrow/join-path/join-path.module.ts
+deleted file mode 100644
+index 030a7bbca2b51da2ac2795e45b757d5b4ec37bf0..0000000000000000000000000000000000000000
+--- a/utils-narrow/join-path/join-path.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const joinPath = {
+-  id: "01a05c94-2bff-7734-8187-49712a3b2626",
+-  pageTypeSlug: "module",
+-  slug: "join-path",
+-  definition: "a card id and the path within it spelled as one string",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/json-equal/json-equal.module.code.ts b/utils-narrow/json-equal/json-equal.module.code.ts
+deleted file mode 100644
+index 9ce75e5d6943c9b612dd92d7d817f267049ae7a7..0000000000000000000000000000000000000000
+--- a/utils-narrow/json-equal/json-equal.module.code.ts
++++ /dev/null
+@@ -1,31 +0,0 @@
+-import { isRecord } from "../is-record/is-record.module.code.ts"
+-
+-export function jsonEqual(a: unknown, b: unknown): boolean {
+-  if (a === b) return true
+-  if (a === null || b === null) return false
+-  if (a === undefined || b === undefined) return false
+-
+-  const aIsArray = Array.isArray(a)
+-  const bIsArray = Array.isArray(b)
+-  if (aIsArray !== bIsArray) return false
+-  if (aIsArray && bIsArray) {
+-    if (a.length !== b.length) return false
+-    for (let i = 0; i < a.length; i++) {
+-      if (!jsonEqual(a[i], b[i])) return false
+-    }
+-    return true
+-  }
+-
+-  if (isRecord(a) && isRecord(b)) {
+-    const aKeys = Object.keys(a)
+-    const bKeys = Object.keys(b)
+-    if (aKeys.length !== bKeys.length) return false
+-    for (const key of aKeys) {
+-      if (!Object.hasOwn(b, key)) return false
+-      if (!jsonEqual(a[key], b[key])) return false
+-    }
+-    return true
+-  }
+-
+-  return false
+-}
+diff --git a/utils-narrow/json-equal/json-equal.module.ts b/utils-narrow/json-equal/json-equal.module.ts
+deleted file mode 100644
+index 20a93ed07285aa93e690796d783546e7cc0761ff..0000000000000000000000000000000000000000
+--- a/utils-narrow/json-equal/json-equal.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const jsonEqual = {
+-  id: "01a05c94-2bff-77fa-9f06-75e0a4c4a488",
+-  pageTypeSlug: "module",
+-  slug: "json-equal",
+-  definition: "whether two JSON values hold the same thing",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/json-schema/json-schema.module.code.ts b/utils-narrow/json-schema/json-schema.module.code.ts
+deleted file mode 100644
+index 49bce0316e382b1dbe0672f06213f574048a7c56..0000000000000000000000000000000000000000
+--- a/utils-narrow/json-schema/json-schema.module.code.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import { z } from "zod"
+-import type { Json } from "../json-value/json-value.module.code.ts"
+-
+-export const JsonSchema: z.ZodType<Json> = z.lazy(() =>
+-  z.union([
+-    z.string(),
+-    z.number(),
+-    z.boolean(),
+-    z.null(),
+-    z.array(JsonSchema),
+-    z.record(z.string(), JsonSchema),
+-  ])
+-)
+diff --git a/utils-narrow/json-schema/json-schema.module.ts b/utils-narrow/json-schema/json-schema.module.ts
+deleted file mode 100644
+index bc7056e76877859a6795d896bfbd7c49c49081c9..0000000000000000000000000000000000000000
+--- a/utils-narrow/json-schema/json-schema.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const jsonSchema = {
+-  id: "01a05c94-2c00-755f-a891-9818909b61b2",
+-  pageTypeSlug: "module",
+-  slug: "json-schema",
+-  definition: "the parser that admits a JSON value and refuses what is not one",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/json-value/json-value.module.code.ts b/utils-narrow/json-value/json-value.module.code.ts
+deleted file mode 100644
+index dc7f714cb7768223976cf6a7201c5744c11649bd..0000000000000000000000000000000000000000
+--- a/utils-narrow/json-value/json-value.module.code.ts
++++ /dev/null
+@@ -1 +0,0 @@
+-export type Json = string | number | boolean | null | { [key: string]: Json | undefined } | Json[]
+diff --git a/utils-narrow/json-value/json-value.module.ts b/utils-narrow/json-value/json-value.module.ts
+deleted file mode 100644
+index 933c84ae74259d87e9046053823891fa21f2add2..0000000000000000000000000000000000000000
+--- a/utils-narrow/json-value/json-value.module.ts
++++ /dev/null
+@@ -1,15 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const jsonValue = {
+-  id: "01a05d38-69c2-7d28-9ad0-6afae06f9402",
+-  pageTypeSlug: "module",
+-  slug: "json-value",
+-  definition: "what a JSON value is, said as a type",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "This module names nothing.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/utils-narrow/narrow-error/narrow-error.module.code.ts b/utils-narrow/narrow-error/narrow-error.module.code.ts
+deleted file mode 100644
+index 30be99ce966306cad1bd2fc8eb60994fb9872c08..0000000000000000000000000000000000000000
+--- a/utils-narrow/narrow-error/narrow-error.module.code.ts
++++ /dev/null
+@@ -1,3 +0,0 @@
+-export class NarrowError extends Error {
+-  override readonly name = "NarrowError"
+-}
+diff --git a/utils-narrow/narrow-error/narrow-error.module.ts b/utils-narrow/narrow-error/narrow-error.module.ts
+deleted file mode 100644
+index b7060f5747d5202cd1972483f5972a533731fbd9..0000000000000000000000000000000000000000
+--- a/utils-narrow/narrow-error/narrow-error.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const narrowError = {
+-  id: "01a05c94-2c00-7694-aa59-6cd2bcfce2be",
+-  pageTypeSlug: "module",
+-  slug: "narrow-error",
+-  definition: "the error a narrowing throws when what it was given is not what it needs",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/no-op/no-op.module.code.ts b/utils-narrow/no-op/no-op.module.code.ts
+deleted file mode 100644
+index bc00bdc2fe7a44ad42236fe1ad028d4f439eb84c..0000000000000000000000000000000000000000
+--- a/utils-narrow/no-op/no-op.module.code.ts
++++ /dev/null
+@@ -1,7 +0,0 @@
+-export function noOp(): undefined {
+-  return undefined
+-}
+-
+-export async function noOpAsync(): Promise<undefined> {
+-  return undefined
+-}
+diff --git a/utils-narrow/no-op/no-op.module.ts b/utils-narrow/no-op/no-op.module.ts
+deleted file mode 100644
+index 5c3e6457a08898af00f51f970cfb6756a99efa76..0000000000000000000000000000000000000000
+--- a/utils-narrow/no-op/no-op.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const noOp = {
+-  id: "01a05cf2-453a-7cba-9514-812f41ef987e",
+-  pageTypeSlug: "module",
+-  slug: "no-op",
+-  definition: "a call that does nothing and answers nothing",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/package.json b/utils-narrow/package.json
+deleted file mode 100644
+index ea4452b287bf73fd0ba620eefe117b61d5f487a3..0000000000000000000000000000000000000000
+--- a/utils-narrow/package.json
++++ /dev/null
+@@ -1,42 +0,0 @@
+-{
+-  "name": "@akasha/utils-narrow",
+-  "private": true,
+-  "type": "module",
+-  "exports": {
+-    "./shape": "./shape/shape.module.code.ts",
+-    "./shape-core": "./shape-core/shape-core.module.code.ts",
+-    "./shape-object": "./shape-object/shape-object.module.code.ts",
+-    "./shape-scalar": "./shape-scalar/shape-scalar.module.code.ts",
+-    "./as-boolean": "./as-boolean/as-boolean.module.code.ts",
+-    "./as-object-record": "./as-object-record/as-object-record.module.code.ts",
+-    "./as-record": "./as-record/as-record.module.code.ts",
+-    "./assert-never": "./assert-never/assert-never.module.code.ts",
+-    "./badge-variant": "./badge-variant/badge-variant.module.code.ts",
+-    "./capitalize": "./capitalize/capitalize.module.code.ts",
+-    "./collapse": "./collapse/collapse.module.code.ts",
+-    "./create-data-file": "./create-data-file/create-data-file.module.code.ts",
+-    "./delete-record-key": "./delete-record-key/delete-record-key.module.code.ts",
+-    "./get-subcategory": "./get-subcategory/get-subcategory.module.code.ts",
+-    "./is-json": "./is-json/is-json.module.code.ts",
+-    "./is-object-record": "./is-object-record/is-object-record.module.code.ts",
+-    "./is-record": "./is-record/is-record.module.code.ts",
+-    "./join-path": "./join-path/join-path.module.code.ts",
+-    "./json-equal": "./json-equal/json-equal.module.code.ts",
+-    "./json-schema": "./json-schema/json-schema.module.code.ts",
+-    "./json-value": "./json-value/json-value.module.code.ts",
+-    "./no-op": "./no-op/no-op.module.code.ts",
+-    "./require-at": "./require-at/require-at.module.code.ts",
+-    "./require-defined": "./require-defined/require-defined.module.code.ts",
+-    "./require-env": "./require-env/require-env.module.code.ts",
+-    "./require-first": "./require-first/require-first.module.code.ts",
+-    "./require-get": "./require-get/require-get.module.code.ts",
+-    "./require-match": "./require-match/require-match.module.code.ts",
+-    "./require-match-positional": "./require-match-positional/require-match-positional.module.code.ts",
+-    "./require-only": "./require-only/require-only.module.code.ts",
+-    "./string-at": "./string-at/string-at.module.code.ts",
+-    "./text-at": "./text-at/text-at.module.code.ts"
+-  },
+-  "dependencies": {
+-    "zod": "^4.3.6"
+-  }
+-}
+diff --git a/utils-narrow/require-at/require-at.module.code.ts b/utils-narrow/require-at/require-at.module.code.ts
+deleted file mode 100644
+index 9d97ba8777ad75bd906bdae4612c814b456d5d8c..0000000000000000000000000000000000000000
+--- a/utils-narrow/require-at/require-at.module.code.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import { NarrowError } from "../narrow-error/narrow-error.module.code.ts"
+-
+-export function requireAt<T>(array: readonly T[], index: number, label?: string): T {
+-  const value = array[index]
+-  if (value === undefined) {
+-    throw new NarrowError(
+-      `requireAt: index ${index} out of range (length ${array.length})${label !== undefined ? ` in ${label}` : ""}`
+-    )
+-  }
+-  return value
+-}
+diff --git a/utils-narrow/require-at/require-at.module.ts b/utils-narrow/require-at/require-at.module.ts
+deleted file mode 100644
+index 137f3cb4c315c2e213d33757129f2a3bec643482..0000000000000000000000000000000000000000
+--- a/utils-narrow/require-at/require-at.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const requireAt = {
+-  id: "01a05c94-2c00-790b-be50-603859fc638c",
+-  pageTypeSlug: "module",
+-  slug: "require-at",
+-  definition: "the element at an index, refused where the array is shorter",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/require-defined/require-defined.module.code.ts b/utils-narrow/require-defined/require-defined.module.code.ts
+deleted file mode 100644
+index a79923639a8162a5cac10e6a2e906d96268d10c5..0000000000000000000000000000000000000000
+--- a/utils-narrow/require-defined/require-defined.module.code.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import { NarrowError } from "../narrow-error/narrow-error.module.code.ts"
+-
+-export function requireDefined<T>(value: T | undefined, label?: string): T {
+-  if (value === undefined) {
+-    throw new NarrowError(
+-      `requireDefined: value is undefined${label !== undefined ? ` in ${label}` : ""}`
+-    )
+-  }
+-  return value
+-}
+diff --git a/utils-narrow/require-defined/require-defined.module.ts b/utils-narrow/require-defined/require-defined.module.ts
+deleted file mode 100644
+index 8ed557281ee0bef00562728b3433ded611230cf3..0000000000000000000000000000000000000000
+--- a/utils-narrow/require-defined/require-defined.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const requireDefined = {
+-  id: "01a06057-3679-7dd4-b797-e40ad426b9dd",
+-  pageTypeSlug: "module",
+-  slug: "require-defined",
+-  definition: "a value refused where nothing is there",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/require-env/require-env.module.code.ts b/utils-narrow/require-env/require-env.module.code.ts
+deleted file mode 100644
+index 834f114c6e5a517638d375f23eceb84d0396b584..0000000000000000000000000000000000000000
+--- a/utils-narrow/require-env/require-env.module.code.ts
++++ /dev/null
+@@ -1,23 +0,0 @@
+-import { z } from "zod"
+-import { NarrowError } from "../narrow-error/narrow-error.module.code.ts"
+-
+-declare const process: { readonly env: Record<string, string | undefined> }
+-
+-const ENV_VALUE_SCHEMA = z.string().min(1)
+-
+-export function requireEnv(name: string): string {
+-  try {
+-    return ENV_VALUE_SCHEMA.parse(process.env[name])
+-  } catch {
+-    throw new NarrowError(`requireEnv: env var ${name} is not set`)
+-  }
+-}
+-
+-const OPTIONAL_ENV_SCHEMA = z
+-  .string()
+-  .transform((s) => (s === "" ? undefined : s))
+-  .optional()
+-
+-export function optionalEnv(name: string): string | undefined {
+-  return OPTIONAL_ENV_SCHEMA.parse(process.env[name])
+-}
+diff --git a/utils-narrow/require-env/require-env.module.ts b/utils-narrow/require-env/require-env.module.ts
+deleted file mode 100644
+index f750accb938886fa2cc627a2fd98a080db3cdcbc..0000000000000000000000000000000000000000
+--- a/utils-narrow/require-env/require-env.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const requireEnv = {
+-  id: "01a05c94-2c00-7702-bb18-010545bdfe3e",
+-  pageTypeSlug: "module",
+-  slug: "require-env",
+-  definition: "the environment variable under a name, refused where it is unset",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/require-first/require-first.module.code.ts b/utils-narrow/require-first/require-first.module.code.ts
+deleted file mode 100644
+index babfbbcad6c905e55cc2584337b5498573ba703d..0000000000000000000000000000000000000000
+--- a/utils-narrow/require-first/require-first.module.code.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import { NarrowError } from "../narrow-error/narrow-error.module.code.ts"
+-
+-export function requireFirst<T>(array: readonly T[], label?: string): T {
+-  if (array.length < 1) {
+-    throw new NarrowError(
+-      `requireFirst: expected at least 1 element${label !== undefined ? ` in ${label}` : ""}, got 0`
+-    )
+-  }
+-  for (const value of array) return value
+-  throw new NarrowError(`requireFirst: unreachable${label !== undefined ? ` in ${label}` : ""}`)
+-}
+diff --git a/utils-narrow/require-first/require-first.module.ts b/utils-narrow/require-first/require-first.module.ts
+deleted file mode 100644
+index 6435bba03fb799b431e190c855e228dc337b8c68..0000000000000000000000000000000000000000
+--- a/utils-narrow/require-first/require-first.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const requireFirst = {
+-  id: "01a05c94-2c01-7905-8dca-e2fedf2cda07",
+-  pageTypeSlug: "module",
+-  slug: "require-first",
+-  definition: "the first element of an array, refused where the array is empty",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/require-get/require-get.module.code.ts b/utils-narrow/require-get/require-get.module.code.ts
+deleted file mode 100644
+index cf3d7893e85ebfaeeb71326a39723276e5d0bb05..0000000000000000000000000000000000000000
+--- a/utils-narrow/require-get/require-get.module.code.ts
++++ /dev/null
+@@ -1,15 +0,0 @@
+-import { NarrowError } from "../narrow-error/narrow-error.module.code.ts"
+-
+-export function requireGet<K, V>(map: ReadonlyMap<K, V>, key: K, label?: string): V {
+-  for (const [k, v] of map) {
+-    if (sameValueZero(k, key)) return v
+-  }
+-  throw new NarrowError(
+-    `requireGet: missing key ${String(key)}${label !== undefined ? ` in ${label}` : ""}`
+-  )
+-}
+-
+-function sameValueZero<T>(a: T, b: T): boolean {
+-  if (a === b) return true
+-  return typeof a === "number" && typeof b === "number" && Number.isNaN(a) && Number.isNaN(b)
+-}
+diff --git a/utils-narrow/require-get/require-get.module.ts b/utils-narrow/require-get/require-get.module.ts
+deleted file mode 100644
+index fbd8159c6858f45307b1a043d9c2c3156892908f..0000000000000000000000000000000000000000
+--- a/utils-narrow/require-get/require-get.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const requireGet = {
+-  id: "01a05c94-2c01-7d4f-983a-9b980754af38",
+-  pageTypeSlug: "module",
+-  slug: "require-get",
+-  definition: "the value a map holds under a key, refused where it holds none",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/require-match-positional/require-match-positional.module.code.ts b/utils-narrow/require-match-positional/require-match-positional.module.code.ts
+deleted file mode 100644
+index f45a6ea4a89d24b77970200a16ba37849bcdadb9..0000000000000000000000000000000000000000
+--- a/utils-narrow/require-match-positional/require-match-positional.module.code.ts
++++ /dev/null
+@@ -1,21 +0,0 @@
+-import { z } from "zod"
+-import { NarrowError } from "../narrow-error/narrow-error.module.code.ts"
+-
+-const RAW_MATCH_SCHEMA = z.array(z.string()).min(1)
+-
+-export function requireMatchPositional<T extends z.ZodTypeAny>(
+-  re: RegExp,
+-  schema: T,
+-  input: string,
+-  label?: string
+-): z.infer<T> {
+-  let raw: readonly string[]
+-  try {
+-    raw = RAW_MATCH_SCHEMA.parse(re.exec(input))
+-  } catch {
+-    throw new NarrowError(
+-      `requireMatchPositional: no match for ${re}${label !== undefined ? ` in ${label}` : ""}`
+-    )
+-  }
+-  return schema.parse(raw.slice(1))
+-}
+diff --git a/utils-narrow/require-match-positional/require-match-positional.module.ts b/utils-narrow/require-match-positional/require-match-positional.module.ts
+deleted file mode 100644
+index aaea6d677b0b26bfc9494ab70d02951769b6246e..0000000000000000000000000000000000000000
+--- a/utils-narrow/require-match-positional/require-match-positional.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const requireMatchPositional = {
+-  id: "01a05c94-2c02-7a7a-acb9-cfa5c6a7d695",
+-  pageTypeSlug: "module",
+-  slug: "require-match-positional",
+-  definition: "the groups a pattern takes from text by position, refused where it does not match",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/require-match/require-match.module.code.ts b/utils-narrow/require-match/require-match.module.code.ts
+deleted file mode 100644
+index ec8743669ab430bd9595ef6bea434f2e20f463e6..0000000000000000000000000000000000000000
+--- a/utils-narrow/require-match/require-match.module.code.ts
++++ /dev/null
+@@ -1,24 +0,0 @@
+-import { z } from "zod"
+-import { NarrowError } from "../narrow-error/narrow-error.module.code.ts"
+-
+-const EXEC_GROUPS_SCHEMA = z
+-  .unknown()
+-  .refine((v): v is RegExpExecArray => Array.isArray(v) && v.length > 0)
+-  .transform((v) => z.record(z.string(), z.string()).parse(v.groups ?? {}))
+-
+-export function requireMatch<T extends z.ZodTypeAny>(
+-  re: RegExp,
+-  schema: T,
+-  input: string,
+-  label?: string
+-): z.infer<T> {
+-  let groups: Record<string, string>
+-  try {
+-    groups = EXEC_GROUPS_SCHEMA.parse(re.exec(input))
+-  } catch {
+-    throw new NarrowError(
+-      `requireMatch: no match for ${re}${label !== undefined ? ` in ${label}` : ""}`
+-    )
+-  }
+-  return schema.parse(groups)
+-}
+diff --git a/utils-narrow/require-match/require-match.module.ts b/utils-narrow/require-match/require-match.module.ts
+deleted file mode 100644
+index a2d892d8bc15f3e65720931ab2709b9c6cc3212e..0000000000000000000000000000000000000000
+--- a/utils-narrow/require-match/require-match.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const requireMatch = {
+-  id: "01a05c94-2c02-7ce2-a9f5-31b565b1f8da",
+-  pageTypeSlug: "module",
+-  slug: "require-match",
+-  definition: "the named groups a pattern takes from text, refused where it does not match",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/require-only/require-only.module.code.ts b/utils-narrow/require-only/require-only.module.code.ts
+deleted file mode 100644
+index 1f006d7ec3aae7a979b27276a9eb303026d46a76..0000000000000000000000000000000000000000
+--- a/utils-narrow/require-only/require-only.module.code.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import { NarrowError } from "../narrow-error/narrow-error.module.code.ts"
+-
+-export function requireOnly<T>(array: readonly T[], label?: string): T {
+-  if (array.length !== 1) {
+-    throw new NarrowError(
+-      `requireOnly: expected exactly 1 element${label !== undefined ? ` in ${label}` : ""}, got ${array.length}`
+-    )
+-  }
+-  for (const value of array) return value
+-  throw new NarrowError(`requireOnly: unreachable${label !== undefined ? ` in ${label}` : ""}`)
+-}
+diff --git a/utils-narrow/require-only/require-only.module.ts b/utils-narrow/require-only/require-only.module.ts
+deleted file mode 100644
+index fa39937efacf1ae3df250041773dd0bdac8b09cd..0000000000000000000000000000000000000000
+--- a/utils-narrow/require-only/require-only.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const requireOnly = {
+-  id: "01a05c94-2c02-7dcd-a343-76adc276594d",
+-  pageTypeSlug: "module",
+-  slug: "require-only",
+-  definition: "the one element of an array, refused where there is any other count",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/shape-core/shape-core.module.code.ts b/utils-narrow/shape-core/shape-core.module.code.ts
+deleted file mode 100644
+index 1a3e879f48b472bdecb1a3f50db07fa3d70b7335..0000000000000000000000000000000000000000
+--- a/utils-narrow/shape-core/shape-core.module.code.ts
++++ /dev/null
+@@ -1,128 +0,0 @@
+-export type ShapePath = readonly (string | number)[]
+-
+-export type ShapeIssue = {
+-  readonly code: string
+-  readonly path: ShapePath
+-  readonly message: string
+-}
+-
+-export class ShapeError extends Error {
+-  readonly issues: readonly ShapeIssue[]
+-
+-  constructor(issues: readonly ShapeIssue[]) {
+-    super(JSON.stringify(issues, null, 2))
+-    this.name = "ShapeError"
+-    this.issues = issues
+-  }
+-}
+-
+-export type ShapeResult<T> =
+-  | { readonly success: true; readonly data: T }
+-  | { readonly success: false; readonly error: ShapeError }
+-
+-export type Outcome<T> =
+-  | { readonly ok: true; readonly value: T }
+-  | { readonly ok: false; readonly issues: readonly ShapeIssue[] }
+-
+-export const held = <T>(value: T): Outcome<T> => ({ ok: true, value })
+-
+-export const refused = (path: ShapePath, code: string, message: string): Outcome<never> => ({
+-  ok: false,
+-  issues: [{ code, path, message }],
+-})
+-
+-export function received(value: unknown): string {
+-  if (value === null) return "null"
+-  if (Array.isArray(value)) return "array"
+-  if (typeof value === "number" && Number.isNaN(value)) return "NaN"
+-  return typeof value
+-}
+-
+-export const isObjectLike = (value: unknown): value is Record<string, unknown> =>
+-  typeof value === "object" && value !== null && !Array.isArray(value)
+-
+-export function assign(target: Record<string, unknown>, key: string, value: unknown): undefined {
+-  if (key === "__proto__") return
+-  target[key] = value
+-}
+-
+-type Runs<T> = (value: unknown, path: ShapePath) => Outcome<T>
+-
+-export type SomeShape = {
+-  readonly run: (value: unknown, path: ShapePath) => Outcome<unknown>
+-  readonly acceptsAbsent: boolean
+-}
+-
+-export type Shape<T> = {
+-  readonly run: Runs<T>
+-  readonly acceptsAbsent: boolean
+-  parse: (value: unknown) => T
+-  safeParse: (value: unknown) => ShapeResult<T>
+-  optional: () => Shape<T | undefined>
+-  nullable: () => Shape<T | null>
+-  default: (fallback: T) => Shape<T>
+-  catch: (fallback: T) => Shape<T>
+-  refine: (holds: (value: T) => boolean, options: { readonly message: string }) => Shape<T>
+-  transform: <U>(change: (value: T) => U) => Shape<U>
+-  pipe: <U>(next: Shape<U>) => Shape<U>
+-}
+-
+-export function Shape<T>(run: Runs<T>, acceptsAbsent = false): Shape<T> {
+-  return {
+-    run,
+-    acceptsAbsent,
+-    parse(value) {
+-      const outcome = run(value, [])
+-      if (outcome.ok) return outcome.value
+-      throw new ShapeError(outcome.issues)
+-    },
+-    safeParse(value) {
+-      const outcome = run(value, [])
+-      return outcome.ok
+-        ? { success: true, data: outcome.value }
+-        : { success: false, error: new ShapeError(outcome.issues) }
+-    },
+-    optional() {
+-      return Shape<T | undefined>(
+-        (value, path) => (value === undefined ? held(undefined) : run(value, path)),
+-        true
+-      )
+-    },
+-    nullable() {
+-      return Shape<T | null>(
+-        (value, path) => (value === null ? held(null) : run(value, path)),
+-        acceptsAbsent
+-      )
+-    },
+-    default(fallback) {
+-      return Shape((value, path) => (value === undefined ? held(fallback) : run(value, path)), true)
+-    },
+-    catch(fallback) {
+-      return Shape((value, path) => {
+-        const outcome = run(value, path)
+-        return outcome.ok ? outcome : held(fallback)
+-      }, true)
+-    },
+-    refine(holds, options) {
+-      return Shape((value, path) => {
+-        const outcome = run(value, path)
+-        if (!outcome.ok) return outcome
+-        return holds(outcome.value) ? outcome : refused(path, "custom", options.message)
+-      }, acceptsAbsent)
+-    },
+-    transform<U>(change: (value: T) => U) {
+-      return Shape<U>((value, path) => {
+-        const outcome = run(value, path)
+-        return outcome.ok ? held(change(outcome.value)) : outcome
+-      }, acceptsAbsent)
+-    },
+-    pipe<U>(next: Shape<U>) {
+-      return Shape<U>((value, path) => {
+-        const outcome = run(value, path)
+-        return outcome.ok ? next.run(outcome.value, path) : outcome
+-      }, acceptsAbsent)
+-    },
+-  }
+-}
+-
+-export type Infer<S> = S extends Shape<infer T> ? T : never
+diff --git a/utils-narrow/shape-core/shape-core.module.ts b/utils-narrow/shape-core/shape-core.module.ts
+deleted file mode 100644
+index 2688e7130a47f57ebebdb21ec590b5dce6fdf033..0000000000000000000000000000000000000000
+--- a/utils-narrow/shape-core/shape-core.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const shapeCore = {
+-  id: "01a06983-278f-76b7-8ed0-9afe9d90f7be",
+-  pageTypeSlug: "module",
+-  slug: "shape-core",
+-  definition: "what a shape is: how it runs over a value, and how it says no",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/shape-object/shape-object.module.code.ts b/utils-narrow/shape-object/shape-object.module.code.ts
+deleted file mode 100644
+index 7686fdce1ef023ee38f5b155b196adbc14ca9244..0000000000000000000000000000000000000000
+--- a/utils-narrow/shape-object/shape-object.module.code.ts
++++ /dev/null
+@@ -1,249 +0,0 @@
+-import {
+-  assign,
+-  held,
+-  type Infer,
+-  isObjectLike,
+-  type Outcome,
+-  received,
+-  refused,
+-  Shape,
+-  type ShapeIssue,
+-  type ShapePath,
+-  type SomeShape,
+-} from "../shape-core/shape-core.module.code.ts"
+-import type { LiteralShape } from "../shape-scalar/shape-scalar.module.code.ts"
+-
+-export type Fields = { readonly [key: string]: SomeShape }
+-
+-type Simplify<T> = { [K in keyof T]: T[K] } & {}
+-
+-type OptionalKeys<F extends Fields> = {
+-  [K in keyof F]: undefined extends Infer<F[K]> ? K : never
+-}[keyof F]
+-
+-export type Struct<F extends Fields> = Simplify<
+-  { [K in Exclude<keyof F, OptionalKeys<F>>]: Infer<F[K]> } & {
+-    [K in OptionalKeys<F>]?: Infer<F[K]>
+-  }
+->
+-
+-export type LooseStruct<F extends Fields> = Struct<F> & { readonly [key: string]: unknown }
+-
+-type Unknowns = "strip" | "loose" | "strict"
+-
+-function parseFields(
+-  fields: Fields,
+-  unknowns: Unknowns,
+-  value: unknown,
+-  path: ShapePath
+-): Outcome<Record<string, unknown>> {
+-  if (!isObjectLike(value)) {
+-    return refused(
+-      path,
+-      "invalid_type",
+-      `Invalid input: expected object, received ${received(value)}`
+-    )
+-  }
+-
+-  const issues: ShapeIssue[] = []
+-  const out: Record<string, unknown> = {}
+-  const declared = Object.keys(fields)
+-
+-  for (const name of declared) {
+-    const present = Object.hasOwn(value, name)
+-    const field = fields[name] as SomeShape
+-    const outcome = field.run(present ? value[name] : undefined, [...path, name])
+-    if (!outcome.ok) {
+-      issues.push(...outcome.issues)
+-      continue
+-    }
+-    if (!present && !field.acceptsAbsent) {
+-      issues.push({
+-        code: "invalid_type",
+-        path: [...path, name],
+-        message: "Invalid input: expected nonoptional, received undefined",
+-      })
+-      continue
+-    }
+-    if (present || outcome.value !== undefined) assign(out, name, outcome.value)
+-  }
+-
+-  if (unknowns !== "strip") {
+-    const known = new Set(declared)
+-    const extra = Object.keys(value).filter((name) => name !== "__proto__" && !known.has(name))
+-    if (unknowns === "strict" && extra.length > 0) {
+-      issues.push({
+-        code: "unrecognized_keys",
+-        path,
+-        message:
+-          extra.length === 1
+-            ? `Unrecognized key: ${JSON.stringify(extra[0])}`
+-            : `Unrecognized keys: ${extra.map((name) => JSON.stringify(name)).join(", ")}`,
+-      })
+-    }
+-    if (unknowns === "loose") for (const name of extra) assign(out, name, value[name])
+-  }
+-
+-  return issues.length > 0 ? { ok: false, issues } : held(out)
+-}
+-
+-export type ObjectShape<F extends Fields, Out> = Shape<Out> & {
+-  readonly unknowns: Unknowns
+-  readonly fields: Fields
+-  strict: () => ObjectShape<F, Struct<F>>
+-  passthrough: () => ObjectShape<F, LooseStruct<F>>
+-}
+-
+-export function ObjectShape<F extends Fields, Out>(
+-  declaration: F,
+-  unknowns: Unknowns
+-): ObjectShape<F, Out> {
+-  return {
+-    ...Shape<Out>((value, path) => parseFields(declaration, unknowns, value, path) as Outcome<Out>),
+-    unknowns,
+-    fields: declaration,
+-
+-    strict() {
+-      return ObjectShape<F, Struct<F>>(declaration, "strict")
+-    },
+-
+-    passthrough() {
+-      return ObjectShape<F, LooseStruct<F>>(declaration, "loose")
+-    },
+-  }
+-}
+-
+-export function array<T>(element: Shape<T>): Shape<T[]> {
+-  return Shape((value, path) => {
+-    if (!Array.isArray(value)) {
+-      return refused(
+-        path,
+-        "invalid_type",
+-        `Invalid input: expected array, received ${received(value)}`
+-      )
+-    }
+-    const issues: ShapeIssue[] = []
+-    const out: T[] = []
+-    for (let index = 0; index < value.length; index += 1) {
+-      const outcome = element.run(value[index], [...path, index])
+-      if (outcome.ok) out.push(outcome.value)
+-      else issues.push(...outcome.issues)
+-    }
+-    return issues.length > 0 ? { ok: false, issues } : held(out)
+-  })
+-}
+-
+-type TupleOut<M extends readonly SomeShape[]> = { -readonly [K in keyof M]: Infer<M[K]> }
+-
+-export function tuple<const M extends readonly SomeShape[]>(items: M): Shape<TupleOut<M>> {
+-  return Shape((value, path) => {
+-    if (!Array.isArray(value)) {
+-      return refused(
+-        path,
+-        "invalid_type",
+-        `Invalid input: expected tuple, received ${received(value)}`
+-      )
+-    }
+-    if (value.length < items.length) {
+-      return refused(path, "too_small", `Too small: expected array to have >=${items.length} items`)
+-    }
+-    if (value.length > items.length) {
+-      return refused(path, "too_big", `Too big: expected array to have <=${items.length} items`)
+-    }
+-    const issues: ShapeIssue[] = []
+-    const out: unknown[] = []
+-    for (let index = 0; index < items.length; index += 1) {
+-      const outcome = (items[index] as SomeShape).run(value[index], [...path, index])
+-      if (outcome.ok) out.push(outcome.value)
+-      else issues.push(...outcome.issues)
+-    }
+-    return issues.length > 0 ? { ok: false, issues } : held(out as TupleOut<M>)
+-  })
+-}
+-
+-export function record<V>(keys: Shape<string>, values: Shape<V>): Shape<Record<string, V>> {
+-  return Shape((value, path) => {
+-    if (!isObjectLike(value)) {
+-      return refused(
+-        path,
+-        "invalid_type",
+-        `Invalid input: expected record, received ${received(value)}`
+-      )
+-    }
+-    const issues: ShapeIssue[] = []
+-    const out: Record<string, V> = {}
+-    for (const name of Object.keys(value)) {
+-      if (name === "__proto__") continue
+-      const key = keys.run(name, [...path, name])
+-      if (!key.ok) {
+-        issues.push(...key.issues)
+-        continue
+-      }
+-      const outcome = values.run(value[name], [...path, name])
+-      if (outcome.ok) out[name] = outcome.value
+-      else issues.push(...outcome.issues)
+-    }
+-    return issues.length > 0 ? { ok: false, issues } : held(out)
+-  })
+-}
+-
+-export function union<const M extends readonly SomeShape[]>(members: M): Shape<Infer<M[number]>> {
+-  return Shape((value, path) => {
+-    for (const member of members) {
+-      const outcome = member.run(value, path)
+-      if (outcome.ok) return held(outcome.value as Infer<M[number]>)
+-    }
+-    return refused(path, "invalid_union", "Invalid input")
+-  })
+-}
+-
+-type Tagged = SomeShape & { readonly fields: Fields }
+-
+-function literalIn(marker: SomeShape | undefined): LiteralShape<string> | undefined {
+-  if (marker === undefined) return undefined
+-  if (!("value" in marker) || typeof marker.value !== "string") return undefined
+-  return marker as LiteralShape<string>
+-}
+-
+-export function discriminatedUnion<const M extends readonly Tagged[]>(
+-  key: string,
+-  members: M
+-): Shape<Infer<M[number]>> {
+-  const byTag = new Map<string, SomeShape>()
+-  for (const member of members) {
+-    const marker = literalIn(member.fields[key])
+-    if (marker === undefined) {
+-      throw new Error(
+-        `shape.discriminatedUnion: a member declares no literal \`${key}\` to sort it by`
+-      )
+-    }
+-    byTag.set(marker.value, member)
+-  }
+-  const expected = [...byTag.keys()].map((tag) => `'${tag}'`).join(" | ")
+-
+-  return Shape((value, path) => {
+-    if (!isObjectLike(value)) {
+-      return refused(
+-        path,
+-        "invalid_type",
+-        `Invalid input: expected object, received ${received(value)}`
+-      )
+-    }
+-    const tag = value[key]
+-    const member = typeof tag === "string" ? byTag.get(tag) : undefined
+-    if (member === undefined) {
+-      return refused(
+-        [...path, key],
+-        "invalid_union",
+-        `Invalid discriminator value. Expected ${expected}`
+-      )
+-    }
+-    return member.run(value, path) as Outcome<Infer<M[number]>>
+-  })
+-}
+-
+-export const object = <F extends Fields>(fields: F): ObjectShape<F, Struct<F>> =>
+-  ObjectShape<F, Struct<F>>(fields, "strip")
+-
+-export const looseObject = <F extends Fields>(fields: F): ObjectShape<F, LooseStruct<F>> =>
+-  ObjectShape<F, LooseStruct<F>>(fields, "loose")
+diff --git a/utils-narrow/shape-object/shape-object.module.ts b/utils-narrow/shape-object/shape-object.module.ts
+deleted file mode 100644
+index 77603ce2534645885085ca8688bf582761db70af..0000000000000000000000000000000000000000
+--- a/utils-narrow/shape-object/shape-object.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const shapeObject = {
+-  id: "01a06983-278f-798f-9e80-5d6ce48a6cf8",
+-  pageTypeSlug: "module",
+-  slug: "shape-object",
+-  definition: "shapes over objects, arrays, unions, records and tuples",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/shape-scalar/shape-scalar.module.code.ts b/utils-narrow/shape-scalar/shape-scalar.module.code.ts
+deleted file mode 100644
+index 221f21913bd72e3282f5cc603370b81810a3d154..0000000000000000000000000000000000000000
+--- a/utils-narrow/shape-scalar/shape-scalar.module.code.ts
++++ /dev/null
+@@ -1,248 +0,0 @@
+-import {
+-  held,
+-  isObjectLike,
+-  type Outcome,
+-  received,
+-  refused,
+-  Shape,
+-  type ShapePath,
+-} from "../shape-core/shape-core.module.code.ts"
+-
+-const UUID =
+-  /^(?:[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000)$/
+-
+-const ISO_DATETIME =
+-  /^\d{4}-(?:0[1-9]|1[0-2])-(?:0[1-9]|[12]\d|3[01])T(?:[01]\d|2[0-3]):[0-5]\d:[0-5]\d(?:\.\d+)?Z$/
+-
+-export type StringShape = Shape<string> & {
+-  min: (least: number) => StringShape
+-  regex: (pattern: RegExp) => StringShape
+-  uuid: () => StringShape
+-  url: () => StringShape
+-  datetime: () => StringShape
+-}
+-
+-export function StringShape(
+-  run: (value: unknown, path: ShapePath) => Outcome<string>,
+-  acceptsAbsent = false
+-): StringShape {
+-  const guarded = (holds: (value: string) => boolean, code: string, message: string): StringShape =>
+-    StringShape((value, path) => {
+-      const outcome = run(value, path)
+-      if (!outcome.ok) return outcome
+-      return holds(outcome.value) ? outcome : refused(path, code, message)
+-    }, acceptsAbsent)
+-
+-  return {
+-    ...Shape(run, acceptsAbsent),
+-
+-    min(least) {
+-      return guarded(
+-        (value) => value.length >= least,
+-        "too_small",
+-        `Too small: expected string to have >=${least} characters`
+-      )
+-    },
+-
+-    regex(pattern) {
+-      const stateless = new RegExp(pattern.source, pattern.flags.replace(/[gy]/g, ""))
+-      return guarded(
+-        (value) => stateless.test(value),
+-        "invalid_format",
+-        `Invalid string: must match pattern ${String(pattern)}`
+-      )
+-    },
+-
+-    uuid() {
+-      return guarded((value) => UUID.test(value), "invalid_format", "Invalid UUID")
+-    },
+-
+-    url() {
+-      return guarded(
+-        (value) => {
+-          try {
+-            void new URL(value)
+-            return true
+-          } catch {
+-            return false
+-          }
+-        },
+-        "invalid_format",
+-        "Invalid URL"
+-      )
+-    },
+-
+-    datetime() {
+-      return guarded((value) => ISO_DATETIME.test(value), "invalid_format", "Invalid ISO datetime")
+-    },
+-  }
+-}
+-
+-function numberHeld(value: unknown, path: ShapePath): Outcome<number> {
+-  if (typeof value !== "number") {
+-    return refused(
+-      path,
+-      "invalid_type",
+-      `Invalid input: expected number, received ${received(value)}`
+-    )
+-  }
+-  if (Number.isNaN(value)) {
+-    return refused(path, "invalid_type", "Invalid input: expected number, received NaN")
+-  }
+-  if (!Number.isFinite(value)) {
+-    return refused(path, "invalid_type", "Invalid input: expected number, received number")
+-  }
+-  return held(value)
+-}
+-
+-export type NumberShape = Shape<number> & {
+-  int: () => NumberShape
+-  min: (least: number) => NumberShape
+-  max: (most: number) => NumberShape
+-  positive: () => NumberShape
+-  nonnegative: () => NumberShape
+-  finite: () => NumberShape
+-}
+-
+-export function NumberShape(
+-  run: (value: unknown, path: ShapePath) => Outcome<number>,
+-  acceptsAbsent = false
+-): NumberShape {
+-  const guarded = (holds: (value: number) => boolean, code: string, message: string): NumberShape =>
+-    NumberShape((value, path) => {
+-      const outcome = run(value, path)
+-      if (!outcome.ok) return outcome
+-      return holds(outcome.value) ? outcome : refused(path, code, message)
+-    }, acceptsAbsent)
+-
+-  return {
+-    ...Shape(run, acceptsAbsent),
+-
+-    int() {
+-      return guarded(
+-        (value) => Number.isInteger(value),
+-        "invalid_type",
+-        "Invalid input: expected int, received number"
+-      )
+-    },
+-
+-    min(least) {
+-      return guarded(
+-        (value) => value >= least,
+-        "too_small",
+-        `Too small: expected number to be >=${least}`
+-      )
+-    },
+-
+-    max(most) {
+-      return guarded(
+-        (value) => value <= most,
+-        "too_big",
+-        `Too big: expected number to be <=${most}`
+-      )
+-    },
+-
+-    positive() {
+-      return guarded((value) => value > 0, "too_small", "Too small: expected number to be >0")
+-    },
+-
+-    nonnegative() {
+-      return guarded((value) => value >= 0, "too_small", "Too small: expected number to be >=0")
+-    },
+-
+-    finite() {
+-      return guarded(
+-        (value) => Number.isFinite(value),
+-        "invalid_type",
+-        "Invalid input: expected number, received number"
+-      )
+-    },
+-  }
+-}
+-
+-export type LiteralShape<V extends string> = Shape<V> & { readonly value: V }
+-
+-export function LiteralShape<V extends string>(value: V): LiteralShape<V> {
+-  return {
+-    ...Shape<V>((input, path) =>
+-      input === value
+-        ? held(value)
+-        : refused(path, "invalid_value", `Invalid input: expected ${JSON.stringify(value)}`)
+-    ),
+-    value,
+-  }
+-}
+-
+-export function enumOf<const V extends readonly string[]>(values: V): Shape<V[number]> {
+-  const allowed = new Set<string>(values)
+-  const listed = values.map((value) => JSON.stringify(value)).join("|")
+-  return Shape((value, path) =>
+-    typeof value === "string" && allowed.has(value)
+-      ? held(value as V[number])
+-      : refused(path, "invalid_value", `Invalid option: expected one of ${listed}`)
+-  )
+-}
+-
+-export type Json = string | number | boolean | null | Json[] | { [key: string]: Json }
+-
+-const isBareObject = (value: unknown): value is Record<string, unknown> => {
+-  if (!isObjectLike(value)) return false
+-  const proto = Object.getPrototypeOf(value) as unknown
+-  return proto === Object.prototype || proto === null
+-}
+-
+-function isJson(value: unknown): boolean {
+-  if (value === null) return true
+-  const kind = typeof value
+-  if (kind === "string" || kind === "boolean") return true
+-  if (kind === "number") return Number.isFinite(value)
+-  if (Array.isArray(value)) return value.every(isJson)
+-  if (isBareObject(value)) return Object.values(value).every(isJson)
+-  return false
+-}
+-
+-export function json(): Shape<Json> {
+-  return Shape((value, path) =>
+-    isJson(value) ? held(value as Json) : refused(path, "invalid_union", "Invalid input")
+-  )
+-}
+-
+-export function coerceNumber(): NumberShape {
+-  return NumberShape((value, path) => {
+-    let asNumber: number
+-    try {
+-      asNumber = Number(value)
+-    } catch {
+-      return refused(
+-        path,
+-        "invalid_type",
+-        `Invalid input: expected number, received ${received(value)}`
+-      )
+-    }
+-    return numberHeld(asNumber, path)
+-  })
+-}
+-
+-export const stringShape = (): StringShape =>
+-  StringShape((value, path) =>
+-    typeof value === "string"
+-      ? held(value)
+-      : refused(path, "invalid_type", `Invalid input: expected string, received ${received(value)}`)
+-  )
+-
+-export const numberShape = (): NumberShape => NumberShape(numberHeld)
+-
+-export const booleanShape = (): Shape<boolean> =>
+-  Shape((value, path) =>
+-    typeof value === "boolean"
+-      ? held(value)
+-      : refused(
+-          path,
+-          "invalid_type",
+-          `Invalid input: expected boolean, received ${received(value)}`
+-        )
+-  )
+-
+-export const unknownShape = (): Shape<unknown> => Shape((value) => held(value))
+-
+-export const literal = <V extends string>(value: V): LiteralShape<V> => LiteralShape(value)
+diff --git a/utils-narrow/shape-scalar/shape-scalar.module.ts b/utils-narrow/shape-scalar/shape-scalar.module.ts
+deleted file mode 100644
+index 47c6b9db87cc20ad4c1f48b9c67d1fc118324f51..0000000000000000000000000000000000000000
+--- a/utils-narrow/shape-scalar/shape-scalar.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const shapeScalar = {
+-  id: "01a06983-278f-79a6-b1ea-de46cdea4760",
+-  pageTypeSlug: "module",
+-  slug: "shape-scalar",
+-  definition: "shapes over scalars, and the refinements each one takes",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/shape/shape.module.code.ts b/utils-narrow/shape/shape.module.code.ts
+deleted file mode 100644
+index be6cdc14c212761e8004bf91a7551fe6090ebd79..0000000000000000000000000000000000000000
+--- a/utils-narrow/shape/shape.module.code.ts
++++ /dev/null
+@@ -1,37 +0,0 @@
+-import {
+-  array,
+-  discriminatedUnion,
+-  looseObject,
+-  object,
+-  record,
+-  tuple,
+-  union,
+-} from "../shape-object/shape-object.module.code.ts"
+-import {
+-  booleanShape,
+-  coerceNumber,
+-  enumOf,
+-  json,
+-  literal,
+-  numberShape,
+-  stringShape,
+-  unknownShape,
+-} from "../shape-scalar/shape-scalar.module.code.ts"
+-
+-export const shape = {
+-  string: stringShape,
+-  number: numberShape,
+-  boolean: booleanShape,
+-  unknown: unknownShape,
+-  literal,
+-  enum: enumOf,
+-  object,
+-  looseObject,
+-  array,
+-  tuple,
+-  record,
+-  union,
+-  discriminatedUnion,
+-  json,
+-  coerce: { number: coerceNumber },
+-} as const
+diff --git a/utils-narrow/shape/shape.module.ts b/utils-narrow/shape/shape.module.ts
+deleted file mode 100644
+index 24b8dba04e3421fa18b1750bad6d41492d84e2af..0000000000000000000000000000000000000000
+--- a/utils-narrow/shape/shape.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const shape = {
+-  id: "01a0698a-de04-7000-912b-c043155f83b3",
+-  pageTypeSlug: "module",
+-  slug: "shape",
+-  definition: "every shape combinator reached under one name",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/string-at/string-at.module.code.ts b/utils-narrow/string-at/string-at.module.code.ts
+deleted file mode 100644
+index ca696363a53542cf9123adc431e20ce18bae93b5..0000000000000000000000000000000000000000
+--- a/utils-narrow/string-at/string-at.module.code.ts
++++ /dev/null
+@@ -1,4 +0,0 @@
+-export function stringAt(values: Readonly<Record<string, unknown>>, key: string): string | null {
+-  const value = values[key]
+-  return typeof value === "string" ? value : null
+-}
+diff --git a/utils-narrow/string-at/string-at.module.ts b/utils-narrow/string-at/string-at.module.ts
+deleted file mode 100644
+index 13b8a903b3ec9c31ccf76491c3345c697ab3b2ce..0000000000000000000000000000000000000000
+--- a/utils-narrow/string-at/string-at.module.ts
++++ /dev/null
+@@ -1,15 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const stringAt = {
+-  id: "01a05cc9-029c-7f57-8f4e-de247a60828d",
+-  pageTypeSlug: "module",
+-  slug: "string-at",
+-  definition: "the string a record holds under a key, or nothing",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "An empty string is answered rather than read as nothing.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/utils-narrow/text-at/text-at.module.code.ts b/utils-narrow/text-at/text-at.module.code.ts
+deleted file mode 100644
+index b49571044d5382180c716925383d42b40c43c6e3..0000000000000000000000000000000000000000
+--- a/utils-narrow/text-at/text-at.module.code.ts
++++ /dev/null
+@@ -1,4 +0,0 @@
+-export function textAt(values: Readonly<Record<string, unknown>>, key: string): string | null {
+-  const value = values[key]
+-  return typeof value === "string" && value !== "" ? value : null
+-}
+diff --git a/utils-narrow/text-at/text-at.module.ts b/utils-narrow/text-at/text-at.module.ts
+deleted file mode 100644
+index 4a3bb1a4a808c79e77f5ce2fa48c3df07039eab6..0000000000000000000000000000000000000000
+--- a/utils-narrow/text-at/text-at.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const textAt = {
+-  id: "01a05c94-2c02-7dc2-a598-544061815ac8",
+-  pageTypeSlug: "module",
+-  slug: "text-at",
+-  definition: "the non-empty text a record holds under a key, or nothing",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/utils-narrow/utils-narrow.workspace-package.ts b/utils-narrow/utils-narrow.workspace-package.ts
+deleted file mode 100644
+index 91e00d311b75a349f7d0e9fa175ea129ff8bb7bf..0000000000000000000000000000000000000000
+--- a/utils-narrow/utils-narrow.workspace-package.ts
++++ /dev/null
+@@ -1,44 +0,0 @@
+-import type { WorkspacePackage } from "../code-system/workspace-packages/workspace-package.page-type.ts"
+-
+-export const utilsNarrow = {
+-  id: "01a05c94-2c03-7ab7-b93f-49a8ed498a29",
+-  pageTypeSlug: "workspace-package",
+-  slug: "utils-narrow",
+-  definition: "how a wide value is read as the narrow one it must be, or refused",
+-  manifest: "json",
+-  partSlugs: [
+-    "module/shape",
+-    "module/shape-core",
+-    "module/shape-object",
+-    "module/shape-scalar",
+-    "module/as-boolean",
+-    "module/as-object-record",
+-    "module/as-record",
+-    "module/assert-never",
+-    "module/badge-variant",
+-    "module/capitalize",
+-    "module/collapse",
+-    "module/create-data-file",
+-    "module/delete-record-key",
+-    "module/get-subcategory",
+-    "module/is-json",
+-    "module/is-object-record",
+-    "module/is-record",
+-    "module/join-path",
+-    "module/json-equal",
+-    "module/json-schema",
+-    "module/json-value",
+-    "module/narrow-error",
+-    "module/no-op",
+-    "module/require-at",
+-    "module/require-defined",
+-    "module/require-env",
+-    "module/require-first",
+-    "module/require-get",
+-    "module/require-match",
+-    "module/require-match-positional",
+-    "module/require-only",
+-    "module/string-at",
+-    "module/text-at",
+-  ],
+-} as const satisfies WorkspacePackage
+diff --git a/utils-narrowing/as-boolean/as-boolean.module.code.ts b/utils-narrowing/as-boolean/as-boolean.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..73cdf638b90007e359d3790759f73265b798e3a1
+--- /dev/null
++++ b/utils-narrowing/as-boolean/as-boolean.module.code.ts
+@@ -0,0 +1,6 @@
++export function asBoolean(value: unknown): boolean | undefined {
++  if (typeof value === "boolean") return value
++  if (value === "true") return true
++  if (value === "false") return false
++  return undefined
++}
+diff --git a/utils-narrowing/as-boolean/as-boolean.module.ts b/utils-narrowing/as-boolean/as-boolean.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bc486a1cbf93f91716cb51bbab99491b6dcfa857
+--- /dev/null
++++ b/utils-narrowing/as-boolean/as-boolean.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const asBoolean = {
++  id: "01a05cf2-453a-79a8-abf8-4a76a72f4145",
++  pageTypeSlug: "module",
++  slug: "as-boolean",
++  definition: "a boolean read from a value that may spell one as text",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/as-object-record/as-object-record.module.code.ts b/utils-narrowing/as-object-record/as-object-record.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3cb639c9456d747da609869214568a7f4320a3fe
+--- /dev/null
++++ b/utils-narrowing/as-object-record/as-object-record.module.code.ts
+@@ -0,0 +1,5 @@
++import { isObjectRecord } from "../is-object-record/is-object-record.module.code.ts"
++
++export function asObjectRecord(value: unknown): Record<string, unknown> | undefined {
++  return isObjectRecord(value) ? value : undefined
++}
+diff --git a/utils-narrowing/as-object-record/as-object-record.module.ts b/utils-narrowing/as-object-record/as-object-record.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f6272f8ccecaf60452f9cc465f558a576ac1dd01
+--- /dev/null
++++ b/utils-narrowing/as-object-record/as-object-record.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const asObjectRecord = {
++  id: "01a06057-3679-70cf-b69b-52e57b9172af",
++  pageTypeSlug: "module",
++  slug: "as-object-record",
++  definition: "a value read as an object of unknown values, or nothing where the value is not one",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/as-record/as-record.module.code.ts b/utils-narrowing/as-record/as-record.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1432aa45d2f5ed79f38075caa534fb4808089dc6
+--- /dev/null
++++ b/utils-narrowing/as-record/as-record.module.code.ts
+@@ -0,0 +1,5 @@
++import { isRecord } from "../is-record/is-record.module.code.ts"
++
++export function asRecord(value: unknown): Record<string, unknown> | undefined {
++  return isRecord(value) ? value : undefined
++}
+diff --git a/utils-narrowing/as-record/as-record.module.ts b/utils-narrowing/as-record/as-record.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fb05f3d7e4b37d44c35941aa915bf64ae6b607f1
+--- /dev/null
++++ b/utils-narrowing/as-record/as-record.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const asRecord = {
++  id: "01a05c94-2bfb-7908-974d-2bd990ac9a56",
++  pageTypeSlug: "module",
++  slug: "as-record",
++  definition: "a value read as a record of unknown values, or nothing where it is not one",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/assert-never/assert-never.module.code.ts b/utils-narrowing/assert-never/assert-never.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c5304d8f1778402d06ca3228796d8f3c5a8699c0
+--- /dev/null
++++ b/utils-narrowing/assert-never/assert-never.module.code.ts
+@@ -0,0 +1,6 @@
++import { NarrowError } from "../narrow-error/narrow-error.module.code.ts"
++
++export function assertNever(value: never): never {
++  const rendered = typeof value === "string" ? value : JSON.stringify(value)
++  throw new NarrowError(`assertNever: unhandled variant ${rendered}`)
++}
+diff --git a/utils-narrowing/assert-never/assert-never.module.ts b/utils-narrowing/assert-never/assert-never.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8c36d7f107c7f18df3f457170be6c50d188085fc
+--- /dev/null
++++ b/utils-narrowing/assert-never/assert-never.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const assertNever = {
++  id: "01a05c94-2bfd-78f9-8078-7e672c919d08",
++  pageTypeSlug: "module",
++  slug: "assert-never",
++  definition: "a variant no branch handled, refused where the code reaches it",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/badge-variant/badge-variant.module.code.ts b/utils-narrowing/badge-variant/badge-variant.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..899514e9ad7f28718e1a9de0f810da183b976da2
+--- /dev/null
++++ b/utils-narrowing/badge-variant/badge-variant.module.code.ts
+@@ -0,0 +1,19 @@
++export type BadgeVariant =
++  | "accent"
++  | "destructive"
++  | "elevation"
++  | "elevation-muted"
++  | "surface"
++  | "normal"
++  | "fine"
++  | "superior"
++  | "epic"
++  | "legendary"
++  | "mythic"
++  | "radiant"
++  | "green"
++  | "blue"
++  | "purple"
++  | "yellow"
++  | "orange"
++  | "red"
+diff --git a/utils-narrowing/badge-variant/badge-variant.module.ts b/utils-narrowing/badge-variant/badge-variant.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cca43c8edf055a2fc736f919cb890c33997bc344
+--- /dev/null
++++ b/utils-narrowing/badge-variant/badge-variant.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const badgeVariant = {
++  id: "01a05c94-2bfd-7f64-b6e0-5019695f0faa",
++  pageTypeSlug: "module",
++  slug: "badge-variant",
++  definition: "the names a badge is drawn under",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/capitalize/capitalize.module.code.ts b/utils-narrowing/capitalize/capitalize.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8d5e54dbbed1aec119dd0b0d9de65d17f38c4162
+--- /dev/null
++++ b/utils-narrowing/capitalize/capitalize.module.code.ts
+@@ -0,0 +1,3 @@
++export function capitalize(str: string): string {
++  return str.charAt(0).toUpperCase() + str.slice(1)
++}
+diff --git a/utils-narrowing/capitalize/capitalize.module.ts b/utils-narrowing/capitalize/capitalize.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9b51de652ffd2266a5bc9e87c3abfd1a2cf3e30b
+--- /dev/null
++++ b/utils-narrowing/capitalize/capitalize.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const capitalize = {
++  id: "01a05c94-2bfd-7d83-be6a-3d30500f9278",
++  pageTypeSlug: "module",
++  slug: "capitalize",
++  definition: "text with its first character in upper case",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/collapse/collapse.module.code.ts b/utils-narrowing/collapse/collapse.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0cd8451a789ccde040333acf5509af36230e3edc
+--- /dev/null
++++ b/utils-narrowing/collapse/collapse.module.code.ts
+@@ -0,0 +1,52 @@
++export interface Fold<Out> {
++  readonly outcome: "value"
++  readonly value: Out
++  readonly because: string
++}
++
++export interface Refusal {
++  readonly outcome: "refuse"
++  readonly because: string
++}
++
++export type Choice<Out> = Fold<Out> | Refusal
++
++export const folds = <Out>(value: Out, because: string): Fold<Out> => ({
++  outcome: "value",
++  value,
++  because,
++})
++
++export const refuses = (because: string): Refusal => ({ outcome: "refuse", because })
++
++export type CollapseTable<K extends string, Out> = { readonly [P in K]: Choice<Out> }
++
++export interface Sealed<K extends string> {
++  readonly fold: <Out>(table: CollapseTable<K, Out>) => Out
++}
++
++export class CollapseRefused extends Error {
++  override readonly name = "CollapseRefused"
++}
++
++function apply<K extends string, Out>(
++  reading: K,
++  table: CollapseTable<K, Out>,
++  cause: unknown
++): Out {
++  const choice = table[reading]
++  if (choice.outcome === "value") return choice.value
++  if (cause !== undefined) throw cause
++  throw new CollapseRefused(`refused to collapse \`${reading}\` — ${choice.because}`)
++}
++
++export const seal = <K extends string>(reading: K, cause: unknown): Sealed<K> => ({
++  fold: <Out>(table: CollapseTable<K, Out>): Out => apply(reading, table, cause),
++})
++
++export function collapse<K extends string, Out>(
++  reading: K | Sealed<K>,
++  table: CollapseTable<K, Out>
++): Out {
++  return typeof reading === "string" ? apply(reading, table, undefined) : reading.fold(table)
++}
+diff --git a/utils-narrowing/collapse/collapse.module.ts b/utils-narrowing/collapse/collapse.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c5a5171ffdaf4d6ca1235f1c6b6b2b12e10fb843
+--- /dev/null
++++ b/utils-narrowing/collapse/collapse.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const collapse = {
++  id: "01a05c94-2bfe-7d43-82ed-ff600d5f69e7",
++  pageTypeSlug: "module",
++  slug: "collapse",
++  definition: "a reading folded to a value through a table stating one outcome per case",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/create-data-file/create-data-file.module.code.ts b/utils-narrowing/create-data-file/create-data-file.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a75aa902997896307eb35d39f32f21c54536b3fa
+--- /dev/null
++++ b/utils-narrowing/create-data-file/create-data-file.module.code.ts
+@@ -0,0 +1,61 @@
++export type DataFile<K extends string, V, S extends string = never> = {
++  readonly data: Record<K, V>
++  readonly ids: readonly K[]
++  readonly list: readonly V[]
++  readonly subcategories: Partial<
++    Record<
++      S,
++      {
++        readonly ids: readonly K[]
++        readonly list: readonly V[]
++        readonly data: Partial<Record<K, V>>
++      }
++    >
++  >
++  readonly has: (id: string) => id is K
++}
++
++export const createDataFile = <Template extends { name: string }>() => {
++  return <K extends string, S extends string, V extends Template & { id: K; subcategoryId?: S }>(
++    data: Record<K, V>
++  ) => {
++    type SubcategoryEntry = { ids: readonly K[]; list: readonly V[]; data: Partial<Record<K, V>> }
++
++    const list: V[] = Object.values(data)
++    const ids: K[] = list.map((item) => item.id)
++
++    const idsByCat = new Map<S, K[]>()
++    const listByCat = new Map<S, V[]>()
++    const dataByCat = new Map<S, Partial<Record<K, V>>>()
++
++    for (const item of list) {
++      const subId = item.subcategoryId
++      if (!subId) continue
++      const subIds: K[] = idsByCat.get(subId) ?? []
++      const subList: V[] = listByCat.get(subId) ?? []
++      const subData: Partial<Record<K, V>> = dataByCat.get(subId) ?? {}
++      subIds.push(item.id)
++      subList.push(item)
++      subData[item.id] = item
++      idsByCat.set(subId, subIds)
++      listByCat.set(subId, subList)
++      dataByCat.set(subId, subData)
++    }
++    const subcategories: Partial<Record<S, SubcategoryEntry>> = {}
++    for (const [k, subIds] of idsByCat) {
++      subcategories[k] = {
++        ids: subIds,
++        list: listByCat.get(k) ?? [],
++        data: dataByCat.get(k) ?? {},
++      }
++    }
++
++    return {
++      data,
++      ids,
++      list,
++      subcategories,
++      has: (id: string): id is K => id in data,
++    } as const
++  }
++}
+diff --git a/utils-narrowing/create-data-file/create-data-file.module.ts b/utils-narrowing/create-data-file/create-data-file.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4933061058e510d2ed5ffd8f284cbafe9f69ceef
+--- /dev/null
++++ b/utils-narrowing/create-data-file/create-data-file.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const createDataFile = {
++  id: "01a05c94-2bfe-7fa4-a2e5-5e0b7f981a1c",
++  pageTypeSlug: "module",
++  slug: "create-data-file",
++  definition: "a record of items indexed by id and by subcategory",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/delete-record-key/delete-record-key.module.code.ts b/utils-narrowing/delete-record-key/delete-record-key.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0b247351cda7351fa81b76cc550297319d08348c
+--- /dev/null
++++ b/utils-narrowing/delete-record-key/delete-record-key.module.code.ts
+@@ -0,0 +1,6 @@
++export function deleteRecordKey<K extends string, V>(
++  record: Record<K, V | undefined>,
++  key: K
++): undefined {
++  record[key] = undefined
++}
+diff --git a/utils-narrowing/delete-record-key/delete-record-key.module.ts b/utils-narrowing/delete-record-key/delete-record-key.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fc0250137ca07b92e3b1151a57f0173e9bfd34ee
+--- /dev/null
++++ b/utils-narrowing/delete-record-key/delete-record-key.module.ts
+@@ -0,0 +1,15 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const deleteRecordKey = {
++  id: "01a06057-367a-7da6-aab7-c707ebb15466",
++  pageTypeSlug: "module",
++  slug: "delete-record-key",
++  definition: "a record key set to nothing rather than deleted",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "constraint",
++      statement: "Lua compiled from this code empties a table key by assigning nothing.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/utils-narrowing/get-subcategory/get-subcategory.module.code.ts b/utils-narrowing/get-subcategory/get-subcategory.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6dbceec94ce29f3805eb2d0fead4c34d53eec4a1
+--- /dev/null
++++ b/utils-narrowing/get-subcategory/get-subcategory.module.code.ts
+@@ -0,0 +1,10 @@
++import type { DataFile } from "../create-data-file/create-data-file.module.code.ts"
++
++export function getSubcategory<K extends string, V, S extends string>(
++  file: DataFile<K, V, S>,
++  key: S
++): { ids: readonly K[]; list: readonly V[]; data: Partial<Record<K, V>> } {
++  const entry = file.subcategories[key]
++  if (!entry) throw new Error(`getSubcategory: missing subcategory ${String(key)}`)
++  return entry
++}
+diff --git a/utils-narrowing/get-subcategory/get-subcategory.module.ts b/utils-narrowing/get-subcategory/get-subcategory.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f9d816b895e122b468347ba7be88599a719a4e56
+--- /dev/null
++++ b/utils-narrowing/get-subcategory/get-subcategory.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const getSubcategory = {
++  id: "01a05c94-2bfe-744d-bdc9-97cc233a70fc",
++  pageTypeSlug: "module",
++  slug: "get-subcategory",
++  definition: "the entry a data file holds under one subcategory",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/is-json/is-json.module.code.ts b/utils-narrowing/is-json/is-json.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9e3f06fc3efe29131915b462a46a2826ef298ba3
+--- /dev/null
++++ b/utils-narrowing/is-json/is-json.module.code.ts
+@@ -0,0 +1,6 @@
++import { JsonSchema } from "../json-schema/json-schema.module.code.ts"
++import type { Json } from "../json-value/json-value.module.code.ts"
++
++export function isJson(value: unknown): value is Json {
++  return JsonSchema.safeParse(value).success
++}
+diff --git a/utils-narrowing/is-json/is-json.module.ts b/utils-narrowing/is-json/is-json.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8fe0399dad2076ac6dc0429b93359a6a508520f1
+--- /dev/null
++++ b/utils-narrowing/is-json/is-json.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const isJson = {
++  id: "01a05c94-2bfe-7508-818e-d62e8ebe8b4b",
++  pageTypeSlug: "module",
++  slug: "is-json",
++  definition: "whether a value is JSON",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/is-object-record/is-object-record.module.code.ts b/utils-narrowing/is-object-record/is-object-record.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e61cb52dad8bd960599861b640ccc674b1926740
+--- /dev/null
++++ b/utils-narrowing/is-object-record/is-object-record.module.code.ts
+@@ -0,0 +1,3 @@
++export function isObjectRecord(value: unknown): value is Record<string, unknown> {
++  return typeof value === "object" && value !== null
++}
+diff --git a/utils-narrowing/is-object-record/is-object-record.module.ts b/utils-narrowing/is-object-record/is-object-record.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4c842b77b47baa3831d0889615d9188a40572f60
+--- /dev/null
++++ b/utils-narrowing/is-object-record/is-object-record.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const isObjectRecord = {
++  id: "01a05c94-2bff-7b7c-ab0f-ffa64b188533",
++  pageTypeSlug: "module",
++  slug: "is-object-record",
++  definition: "whether a value is an object that is not null",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/is-record/is-record.module.code.ts b/utils-narrowing/is-record/is-record.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c8dc521f5753e1e1535a240723728aa221c6af7c
+--- /dev/null
++++ b/utils-narrowing/is-record/is-record.module.code.ts
+@@ -0,0 +1,3 @@
++export function isRecord(value: unknown): value is Record<string, unknown> {
++  return typeof value === "object" && value !== null && !Array.isArray(value)
++}
+diff --git a/utils-narrowing/is-record/is-record.module.ts b/utils-narrowing/is-record/is-record.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..353590be6065a09577435d2fdcbc41568968ed9c
+--- /dev/null
++++ b/utils-narrowing/is-record/is-record.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const isRecord = {
++  id: "01a05c94-2bff-7114-b814-1a033bcfb5e8",
++  pageTypeSlug: "module",
++  slug: "is-record",
++  definition: "whether a value is an object that is neither null nor an array",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/join-path/join-path.module.code.ts b/utils-narrowing/join-path/join-path.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..97ecb9d0e14de9a4406496df5bf5e489b66cc83e
+--- /dev/null
++++ b/utils-narrowing/join-path/join-path.module.code.ts
+@@ -0,0 +1,4 @@
++export function joinPath(cardId: string, itemPath?: readonly (string | number)[] | null): string {
++  if (itemPath == null || itemPath.length === 0) return cardId
++  return `${cardId}/${itemPath.map(String).join("/")}`
++}
+diff --git a/utils-narrowing/join-path/join-path.module.ts b/utils-narrowing/join-path/join-path.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..030a7bbca2b51da2ac2795e45b757d5b4ec37bf0
+--- /dev/null
++++ b/utils-narrowing/join-path/join-path.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const joinPath = {
++  id: "01a05c94-2bff-7734-8187-49712a3b2626",
++  pageTypeSlug: "module",
++  slug: "join-path",
++  definition: "a card id and the path within it spelled as one string",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/json-equal/json-equal.module.code.ts b/utils-narrowing/json-equal/json-equal.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9ce75e5d6943c9b612dd92d7d817f267049ae7a7
+--- /dev/null
++++ b/utils-narrowing/json-equal/json-equal.module.code.ts
+@@ -0,0 +1,31 @@
++import { isRecord } from "../is-record/is-record.module.code.ts"
++
++export function jsonEqual(a: unknown, b: unknown): boolean {
++  if (a === b) return true
++  if (a === null || b === null) return false
++  if (a === undefined || b === undefined) return false
++
++  const aIsArray = Array.isArray(a)
++  const bIsArray = Array.isArray(b)
++  if (aIsArray !== bIsArray) return false
++  if (aIsArray && bIsArray) {
++    if (a.length !== b.length) return false
++    for (let i = 0; i < a.length; i++) {
++      if (!jsonEqual(a[i], b[i])) return false
++    }
++    return true
++  }
++
++  if (isRecord(a) && isRecord(b)) {
++    const aKeys = Object.keys(a)
++    const bKeys = Object.keys(b)
++    if (aKeys.length !== bKeys.length) return false
++    for (const key of aKeys) {
++      if (!Object.hasOwn(b, key)) return false
++      if (!jsonEqual(a[key], b[key])) return false
++    }
++    return true
++  }
++
++  return false
++}
+diff --git a/utils-narrowing/json-equal/json-equal.module.ts b/utils-narrowing/json-equal/json-equal.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..20a93ed07285aa93e690796d783546e7cc0761ff
+--- /dev/null
++++ b/utils-narrowing/json-equal/json-equal.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const jsonEqual = {
++  id: "01a05c94-2bff-77fa-9f06-75e0a4c4a488",
++  pageTypeSlug: "module",
++  slug: "json-equal",
++  definition: "whether two JSON values hold the same thing",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/json-schema/json-schema.module.code.ts b/utils-narrowing/json-schema/json-schema.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..49bce0316e382b1dbe0672f06213f574048a7c56
+--- /dev/null
++++ b/utils-narrowing/json-schema/json-schema.module.code.ts
+@@ -0,0 +1,13 @@
++import { z } from "zod"
++import type { Json } from "../json-value/json-value.module.code.ts"
++
++export const JsonSchema: z.ZodType<Json> = z.lazy(() =>
++  z.union([
++    z.string(),
++    z.number(),
++    z.boolean(),
++    z.null(),
++    z.array(JsonSchema),
++    z.record(z.string(), JsonSchema),
++  ])
++)
+diff --git a/utils-narrowing/json-schema/json-schema.module.ts b/utils-narrowing/json-schema/json-schema.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bc7056e76877859a6795d896bfbd7c49c49081c9
+--- /dev/null
++++ b/utils-narrowing/json-schema/json-schema.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const jsonSchema = {
++  id: "01a05c94-2c00-755f-a891-9818909b61b2",
++  pageTypeSlug: "module",
++  slug: "json-schema",
++  definition: "the parser that admits a JSON value and refuses what is not one",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/json-value/json-value.module.code.ts b/utils-narrowing/json-value/json-value.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..dc7f714cb7768223976cf6a7201c5744c11649bd
+--- /dev/null
++++ b/utils-narrowing/json-value/json-value.module.code.ts
+@@ -0,0 +1 @@
++export type Json = string | number | boolean | null | { [key: string]: Json | undefined } | Json[]
+diff --git a/utils-narrowing/json-value/json-value.module.ts b/utils-narrowing/json-value/json-value.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..933c84ae74259d87e9046053823891fa21f2add2
+--- /dev/null
++++ b/utils-narrowing/json-value/json-value.module.ts
+@@ -0,0 +1,15 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const jsonValue = {
++  id: "01a05d38-69c2-7d28-9ad0-6afae06f9402",
++  pageTypeSlug: "module",
++  slug: "json-value",
++  definition: "what a JSON value is, said as a type",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "This module names nothing.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/utils-narrowing/narrow-error/narrow-error.module.code.ts b/utils-narrowing/narrow-error/narrow-error.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..30be99ce966306cad1bd2fc8eb60994fb9872c08
+--- /dev/null
++++ b/utils-narrowing/narrow-error/narrow-error.module.code.ts
+@@ -0,0 +1,3 @@
++export class NarrowError extends Error {
++  override readonly name = "NarrowError"
++}
+diff --git a/utils-narrowing/narrow-error/narrow-error.module.ts b/utils-narrowing/narrow-error/narrow-error.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b7060f5747d5202cd1972483f5972a533731fbd9
+--- /dev/null
++++ b/utils-narrowing/narrow-error/narrow-error.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const narrowError = {
++  id: "01a05c94-2c00-7694-aa59-6cd2bcfce2be",
++  pageTypeSlug: "module",
++  slug: "narrow-error",
++  definition: "the error a narrowing throws when what it was given is not what it needs",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/no-op/no-op.module.code.ts b/utils-narrowing/no-op/no-op.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bc00bdc2fe7a44ad42236fe1ad028d4f439eb84c
+--- /dev/null
++++ b/utils-narrowing/no-op/no-op.module.code.ts
+@@ -0,0 +1,7 @@
++export function noOp(): undefined {
++  return undefined
++}
++
++export async function noOpAsync(): Promise<undefined> {
++  return undefined
++}
+diff --git a/utils-narrowing/no-op/no-op.module.ts b/utils-narrowing/no-op/no-op.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5c3e6457a08898af00f51f970cfb6756a99efa76
+--- /dev/null
++++ b/utils-narrowing/no-op/no-op.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const noOp = {
++  id: "01a05cf2-453a-7cba-9514-812f41ef987e",
++  pageTypeSlug: "module",
++  slug: "no-op",
++  definition: "a call that does nothing and answers nothing",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/package.json b/utils-narrowing/package.json
+new file mode 100644
+index 0000000000000000000000000000000000000000..ea4452b287bf73fd0ba620eefe117b61d5f487a3
+--- /dev/null
++++ b/utils-narrowing/package.json
+@@ -0,0 +1,42 @@
++{
++  "name": "@akasha/utils-narrow",
++  "private": true,
++  "type": "module",
++  "exports": {
++    "./shape": "./shape/shape.module.code.ts",
++    "./shape-core": "./shape-core/shape-core.module.code.ts",
++    "./shape-object": "./shape-object/shape-object.module.code.ts",
++    "./shape-scalar": "./shape-scalar/shape-scalar.module.code.ts",
++    "./as-boolean": "./as-boolean/as-boolean.module.code.ts",
++    "./as-object-record": "./as-object-record/as-object-record.module.code.ts",
++    "./as-record": "./as-record/as-record.module.code.ts",
++    "./assert-never": "./assert-never/assert-never.module.code.ts",
++    "./badge-variant": "./badge-variant/badge-variant.module.code.ts",
++    "./capitalize": "./capitalize/capitalize.module.code.ts",
++    "./collapse": "./collapse/collapse.module.code.ts",
++    "./create-data-file": "./create-data-file/create-data-file.module.code.ts",
++    "./delete-record-key": "./delete-record-key/delete-record-key.module.code.ts",
++    "./get-subcategory": "./get-subcategory/get-subcategory.module.code.ts",
++    "./is-json": "./is-json/is-json.module.code.ts",
++    "./is-object-record": "./is-object-record/is-object-record.module.code.ts",
++    "./is-record": "./is-record/is-record.module.code.ts",
++    "./join-path": "./join-path/join-path.module.code.ts",
++    "./json-equal": "./json-equal/json-equal.module.code.ts",
++    "./json-schema": "./json-schema/json-schema.module.code.ts",
++    "./json-value": "./json-value/json-value.module.code.ts",
++    "./no-op": "./no-op/no-op.module.code.ts",
++    "./require-at": "./require-at/require-at.module.code.ts",
++    "./require-defined": "./require-defined/require-defined.module.code.ts",
++    "./require-env": "./require-env/require-env.module.code.ts",
++    "./require-first": "./require-first/require-first.module.code.ts",
++    "./require-get": "./require-get/require-get.module.code.ts",
++    "./require-match": "./require-match/require-match.module.code.ts",
++    "./require-match-positional": "./require-match-positional/require-match-positional.module.code.ts",
++    "./require-only": "./require-only/require-only.module.code.ts",
++    "./string-at": "./string-at/string-at.module.code.ts",
++    "./text-at": "./text-at/text-at.module.code.ts"
++  },
++  "dependencies": {
++    "zod": "^4.3.6"
++  }
++}
+diff --git a/utils-narrowing/require-at/require-at.module.code.ts b/utils-narrowing/require-at/require-at.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9d97ba8777ad75bd906bdae4612c814b456d5d8c
+--- /dev/null
++++ b/utils-narrowing/require-at/require-at.module.code.ts
+@@ -0,0 +1,11 @@
++import { NarrowError } from "../narrow-error/narrow-error.module.code.ts"
++
++export function requireAt<T>(array: readonly T[], index: number, label?: string): T {
++  const value = array[index]
++  if (value === undefined) {
++    throw new NarrowError(
++      `requireAt: index ${index} out of range (length ${array.length})${label !== undefined ? ` in ${label}` : ""}`
++    )
++  }
++  return value
++}
+diff --git a/utils-narrowing/require-at/require-at.module.ts b/utils-narrowing/require-at/require-at.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..137f3cb4c315c2e213d33757129f2a3bec643482
+--- /dev/null
++++ b/utils-narrowing/require-at/require-at.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const requireAt = {
++  id: "01a05c94-2c00-790b-be50-603859fc638c",
++  pageTypeSlug: "module",
++  slug: "require-at",
++  definition: "the element at an index, refused where the array is shorter",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/require-defined/require-defined.module.code.ts b/utils-narrowing/require-defined/require-defined.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a79923639a8162a5cac10e6a2e906d96268d10c5
+--- /dev/null
++++ b/utils-narrowing/require-defined/require-defined.module.code.ts
+@@ -0,0 +1,10 @@
++import { NarrowError } from "../narrow-error/narrow-error.module.code.ts"
++
++export function requireDefined<T>(value: T | undefined, label?: string): T {
++  if (value === undefined) {
++    throw new NarrowError(
++      `requireDefined: value is undefined${label !== undefined ? ` in ${label}` : ""}`
++    )
++  }
++  return value
++}
+diff --git a/utils-narrowing/require-defined/require-defined.module.ts b/utils-narrowing/require-defined/require-defined.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8ed557281ee0bef00562728b3433ded611230cf3
+--- /dev/null
++++ b/utils-narrowing/require-defined/require-defined.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const requireDefined = {
++  id: "01a06057-3679-7dd4-b797-e40ad426b9dd",
++  pageTypeSlug: "module",
++  slug: "require-defined",
++  definition: "a value refused where nothing is there",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/require-env/require-env.module.code.ts b/utils-narrowing/require-env/require-env.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..834f114c6e5a517638d375f23eceb84d0396b584
+--- /dev/null
++++ b/utils-narrowing/require-env/require-env.module.code.ts
+@@ -0,0 +1,23 @@
++import { z } from "zod"
++import { NarrowError } from "../narrow-error/narrow-error.module.code.ts"
++
++declare const process: { readonly env: Record<string, string | undefined> }
++
++const ENV_VALUE_SCHEMA = z.string().min(1)
++
++export function requireEnv(name: string): string {
++  try {
++    return ENV_VALUE_SCHEMA.parse(process.env[name])
++  } catch {
++    throw new NarrowError(`requireEnv: env var ${name} is not set`)
++  }
++}
++
++const OPTIONAL_ENV_SCHEMA = z
++  .string()
++  .transform((s) => (s === "" ? undefined : s))
++  .optional()
++
++export function optionalEnv(name: string): string | undefined {
++  return OPTIONAL_ENV_SCHEMA.parse(process.env[name])
++}
+diff --git a/utils-narrowing/require-env/require-env.module.ts b/utils-narrowing/require-env/require-env.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f750accb938886fa2cc627a2fd98a080db3cdcbc
+--- /dev/null
++++ b/utils-narrowing/require-env/require-env.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const requireEnv = {
++  id: "01a05c94-2c00-7702-bb18-010545bdfe3e",
++  pageTypeSlug: "module",
++  slug: "require-env",
++  definition: "the environment variable under a name, refused where it is unset",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/require-first/require-first.module.code.ts b/utils-narrowing/require-first/require-first.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..babfbbcad6c905e55cc2584337b5498573ba703d
+--- /dev/null
++++ b/utils-narrowing/require-first/require-first.module.code.ts
+@@ -0,0 +1,11 @@
++import { NarrowError } from "../narrow-error/narrow-error.module.code.ts"
++
++export function requireFirst<T>(array: readonly T[], label?: string): T {
++  if (array.length < 1) {
++    throw new NarrowError(
++      `requireFirst: expected at least 1 element${label !== undefined ? ` in ${label}` : ""}, got 0`
++    )
++  }
++  for (const value of array) return value
++  throw new NarrowError(`requireFirst: unreachable${label !== undefined ? ` in ${label}` : ""}`)
++}
+diff --git a/utils-narrowing/require-first/require-first.module.ts b/utils-narrowing/require-first/require-first.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6435bba03fb799b431e190c855e228dc337b8c68
+--- /dev/null
++++ b/utils-narrowing/require-first/require-first.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const requireFirst = {
++  id: "01a05c94-2c01-7905-8dca-e2fedf2cda07",
++  pageTypeSlug: "module",
++  slug: "require-first",
++  definition: "the first element of an array, refused where the array is empty",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/require-get/require-get.module.code.ts b/utils-narrowing/require-get/require-get.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cf3d7893e85ebfaeeb71326a39723276e5d0bb05
+--- /dev/null
++++ b/utils-narrowing/require-get/require-get.module.code.ts
+@@ -0,0 +1,15 @@
++import { NarrowError } from "../narrow-error/narrow-error.module.code.ts"
++
++export function requireGet<K, V>(map: ReadonlyMap<K, V>, key: K, label?: string): V {
++  for (const [k, v] of map) {
++    if (sameValueZero(k, key)) return v
++  }
++  throw new NarrowError(
++    `requireGet: missing key ${String(key)}${label !== undefined ? ` in ${label}` : ""}`
++  )
++}
++
++function sameValueZero<T>(a: T, b: T): boolean {
++  if (a === b) return true
++  return typeof a === "number" && typeof b === "number" && Number.isNaN(a) && Number.isNaN(b)
++}
+diff --git a/utils-narrowing/require-get/require-get.module.ts b/utils-narrowing/require-get/require-get.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fbd8159c6858f45307b1a043d9c2c3156892908f
+--- /dev/null
++++ b/utils-narrowing/require-get/require-get.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const requireGet = {
++  id: "01a05c94-2c01-7d4f-983a-9b980754af38",
++  pageTypeSlug: "module",
++  slug: "require-get",
++  definition: "the value a map holds under a key, refused where it holds none",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/require-match-positional/require-match-positional.module.code.ts b/utils-narrowing/require-match-positional/require-match-positional.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f45a6ea4a89d24b77970200a16ba37849bcdadb9
+--- /dev/null
++++ b/utils-narrowing/require-match-positional/require-match-positional.module.code.ts
+@@ -0,0 +1,21 @@
++import { z } from "zod"
++import { NarrowError } from "../narrow-error/narrow-error.module.code.ts"
++
++const RAW_MATCH_SCHEMA = z.array(z.string()).min(1)
++
++export function requireMatchPositional<T extends z.ZodTypeAny>(
++  re: RegExp,
++  schema: T,
++  input: string,
++  label?: string
++): z.infer<T> {
++  let raw: readonly string[]
++  try {
++    raw = RAW_MATCH_SCHEMA.parse(re.exec(input))
++  } catch {
++    throw new NarrowError(
++      `requireMatchPositional: no match for ${re}${label !== undefined ? ` in ${label}` : ""}`
++    )
++  }
++  return schema.parse(raw.slice(1))
++}
+diff --git a/utils-narrowing/require-match-positional/require-match-positional.module.ts b/utils-narrowing/require-match-positional/require-match-positional.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..aaea6d677b0b26bfc9494ab70d02951769b6246e
+--- /dev/null
++++ b/utils-narrowing/require-match-positional/require-match-positional.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const requireMatchPositional = {
++  id: "01a05c94-2c02-7a7a-acb9-cfa5c6a7d695",
++  pageTypeSlug: "module",
++  slug: "require-match-positional",
++  definition: "the groups a pattern takes from text by position, refused where it does not match",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/require-match/require-match.module.code.ts b/utils-narrowing/require-match/require-match.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ec8743669ab430bd9595ef6bea434f2e20f463e6
+--- /dev/null
++++ b/utils-narrowing/require-match/require-match.module.code.ts
+@@ -0,0 +1,24 @@
++import { z } from "zod"
++import { NarrowError } from "../narrow-error/narrow-error.module.code.ts"
++
++const EXEC_GROUPS_SCHEMA = z
++  .unknown()
++  .refine((v): v is RegExpExecArray => Array.isArray(v) && v.length > 0)
++  .transform((v) => z.record(z.string(), z.string()).parse(v.groups ?? {}))
++
++export function requireMatch<T extends z.ZodTypeAny>(
++  re: RegExp,
++  schema: T,
++  input: string,
++  label?: string
++): z.infer<T> {
++  let groups: Record<string, string>
++  try {
++    groups = EXEC_GROUPS_SCHEMA.parse(re.exec(input))
++  } catch {
++    throw new NarrowError(
++      `requireMatch: no match for ${re}${label !== undefined ? ` in ${label}` : ""}`
++    )
++  }
++  return schema.parse(groups)
++}
+diff --git a/utils-narrowing/require-match/require-match.module.ts b/utils-narrowing/require-match/require-match.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a2d892d8bc15f3e65720931ab2709b9c6cc3212e
+--- /dev/null
++++ b/utils-narrowing/require-match/require-match.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const requireMatch = {
++  id: "01a05c94-2c02-7ce2-a9f5-31b565b1f8da",
++  pageTypeSlug: "module",
++  slug: "require-match",
++  definition: "the named groups a pattern takes from text, refused where it does not match",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/require-only/require-only.module.code.ts b/utils-narrowing/require-only/require-only.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1f006d7ec3aae7a979b27276a9eb303026d46a76
+--- /dev/null
++++ b/utils-narrowing/require-only/require-only.module.code.ts
+@@ -0,0 +1,11 @@
++import { NarrowError } from "../narrow-error/narrow-error.module.code.ts"
++
++export function requireOnly<T>(array: readonly T[], label?: string): T {
++  if (array.length !== 1) {
++    throw new NarrowError(
++      `requireOnly: expected exactly 1 element${label !== undefined ? ` in ${label}` : ""}, got ${array.length}`
++    )
++  }
++  for (const value of array) return value
++  throw new NarrowError(`requireOnly: unreachable${label !== undefined ? ` in ${label}` : ""}`)
++}
+diff --git a/utils-narrowing/require-only/require-only.module.ts b/utils-narrowing/require-only/require-only.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fa39937efacf1ae3df250041773dd0bdac8b09cd
+--- /dev/null
++++ b/utils-narrowing/require-only/require-only.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const requireOnly = {
++  id: "01a05c94-2c02-7dcd-a343-76adc276594d",
++  pageTypeSlug: "module",
++  slug: "require-only",
++  definition: "the one element of an array, refused where there is any other count",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/shape-core/shape-core.module.code.ts b/utils-narrowing/shape-core/shape-core.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1a3e879f48b472bdecb1a3f50db07fa3d70b7335
+--- /dev/null
++++ b/utils-narrowing/shape-core/shape-core.module.code.ts
+@@ -0,0 +1,128 @@
++export type ShapePath = readonly (string | number)[]
++
++export type ShapeIssue = {
++  readonly code: string
++  readonly path: ShapePath
++  readonly message: string
++}
++
++export class ShapeError extends Error {
++  readonly issues: readonly ShapeIssue[]
++
++  constructor(issues: readonly ShapeIssue[]) {
++    super(JSON.stringify(issues, null, 2))
++    this.name = "ShapeError"
++    this.issues = issues
++  }
++}
++
++export type ShapeResult<T> =
++  | { readonly success: true; readonly data: T }
++  | { readonly success: false; readonly error: ShapeError }
++
++export type Outcome<T> =
++  | { readonly ok: true; readonly value: T }
++  | { readonly ok: false; readonly issues: readonly ShapeIssue[] }
++
++export const held = <T>(value: T): Outcome<T> => ({ ok: true, value })
++
++export const refused = (path: ShapePath, code: string, message: string): Outcome<never> => ({
++  ok: false,
++  issues: [{ code, path, message }],
++})
++
++export function received(value: unknown): string {
++  if (value === null) return "null"
++  if (Array.isArray(value)) return "array"
++  if (typeof value === "number" && Number.isNaN(value)) return "NaN"
++  return typeof value
++}
++
++export const isObjectLike = (value: unknown): value is Record<string, unknown> =>
++  typeof value === "object" && value !== null && !Array.isArray(value)
++
++export function assign(target: Record<string, unknown>, key: string, value: unknown): undefined {
++  if (key === "__proto__") return
++  target[key] = value
++}
++
++type Runs<T> = (value: unknown, path: ShapePath) => Outcome<T>
++
++export type SomeShape = {
++  readonly run: (value: unknown, path: ShapePath) => Outcome<unknown>
++  readonly acceptsAbsent: boolean
++}
++
++export type Shape<T> = {
++  readonly run: Runs<T>
++  readonly acceptsAbsent: boolean
++  parse: (value: unknown) => T
++  safeParse: (value: unknown) => ShapeResult<T>
++  optional: () => Shape<T | undefined>
++  nullable: () => Shape<T | null>
++  default: (fallback: T) => Shape<T>
++  catch: (fallback: T) => Shape<T>
++  refine: (holds: (value: T) => boolean, options: { readonly message: string }) => Shape<T>
++  transform: <U>(change: (value: T) => U) => Shape<U>
++  pipe: <U>(next: Shape<U>) => Shape<U>
++}
++
++export function Shape<T>(run: Runs<T>, acceptsAbsent = false): Shape<T> {
++  return {
++    run,
++    acceptsAbsent,
++    parse(value) {
++      const outcome = run(value, [])
++      if (outcome.ok) return outcome.value
++      throw new ShapeError(outcome.issues)
++    },
++    safeParse(value) {
++      const outcome = run(value, [])
++      return outcome.ok
++        ? { success: true, data: outcome.value }
++        : { success: false, error: new ShapeError(outcome.issues) }
++    },
++    optional() {
++      return Shape<T | undefined>(
++        (value, path) => (value === undefined ? held(undefined) : run(value, path)),
++        true
++      )
++    },
++    nullable() {
++      return Shape<T | null>(
++        (value, path) => (value === null ? held(null) : run(value, path)),
++        acceptsAbsent
++      )
++    },
++    default(fallback) {
++      return Shape((value, path) => (value === undefined ? held(fallback) : run(value, path)), true)
++    },
++    catch(fallback) {
++      return Shape((value, path) => {
++        const outcome = run(value, path)
++        return outcome.ok ? outcome : held(fallback)
++      }, true)
++    },
++    refine(holds, options) {
++      return Shape((value, path) => {
++        const outcome = run(value, path)
++        if (!outcome.ok) return outcome
++        return holds(outcome.value) ? outcome : refused(path, "custom", options.message)
++      }, acceptsAbsent)
++    },
++    transform<U>(change: (value: T) => U) {
++      return Shape<U>((value, path) => {
++        const outcome = run(value, path)
++        return outcome.ok ? held(change(outcome.value)) : outcome
++      }, acceptsAbsent)
++    },
++    pipe<U>(next: Shape<U>) {
++      return Shape<U>((value, path) => {
++        const outcome = run(value, path)
++        return outcome.ok ? next.run(outcome.value, path) : outcome
++      }, acceptsAbsent)
++    },
++  }
++}
++
++export type Infer<S> = S extends Shape<infer T> ? T : never
+diff --git a/utils-narrowing/shape-core/shape-core.module.ts b/utils-narrowing/shape-core/shape-core.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2688e7130a47f57ebebdb21ec590b5dce6fdf033
+--- /dev/null
++++ b/utils-narrowing/shape-core/shape-core.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const shapeCore = {
++  id: "01a06983-278f-76b7-8ed0-9afe9d90f7be",
++  pageTypeSlug: "module",
++  slug: "shape-core",
++  definition: "what a shape is: how it runs over a value, and how it says no",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/shape-object/shape-object.module.code.ts b/utils-narrowing/shape-object/shape-object.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7686fdce1ef023ee38f5b155b196adbc14ca9244
+--- /dev/null
++++ b/utils-narrowing/shape-object/shape-object.module.code.ts
+@@ -0,0 +1,249 @@
++import {
++  assign,
++  held,
++  type Infer,
++  isObjectLike,
++  type Outcome,
++  received,
++  refused,
++  Shape,
++  type ShapeIssue,
++  type ShapePath,
++  type SomeShape,
++} from "../shape-core/shape-core.module.code.ts"
++import type { LiteralShape } from "../shape-scalar/shape-scalar.module.code.ts"
++
++export type Fields = { readonly [key: string]: SomeShape }
++
++type Simplify<T> = { [K in keyof T]: T[K] } & {}
++
++type OptionalKeys<F extends Fields> = {
++  [K in keyof F]: undefined extends Infer<F[K]> ? K : never
++}[keyof F]
++
++export type Struct<F extends Fields> = Simplify<
++  { [K in Exclude<keyof F, OptionalKeys<F>>]: Infer<F[K]> } & {
++    [K in OptionalKeys<F>]?: Infer<F[K]>
++  }
++>
++
++export type LooseStruct<F extends Fields> = Struct<F> & { readonly [key: string]: unknown }
++
++type Unknowns = "strip" | "loose" | "strict"
++
++function parseFields(
++  fields: Fields,
++  unknowns: Unknowns,
++  value: unknown,
++  path: ShapePath
++): Outcome<Record<string, unknown>> {
++  if (!isObjectLike(value)) {
++    return refused(
++      path,
++      "invalid_type",
++      `Invalid input: expected object, received ${received(value)}`
++    )
++  }
++
++  const issues: ShapeIssue[] = []
++  const out: Record<string, unknown> = {}
++  const declared = Object.keys(fields)
++
++  for (const name of declared) {
++    const present = Object.hasOwn(value, name)
++    const field = fields[name] as SomeShape
++    const outcome = field.run(present ? value[name] : undefined, [...path, name])
++    if (!outcome.ok) {
++      issues.push(...outcome.issues)
++      continue
++    }
++    if (!present && !field.acceptsAbsent) {
++      issues.push({
++        code: "invalid_type",
++        path: [...path, name],
++        message: "Invalid input: expected nonoptional, received undefined",
++      })
++      continue
++    }
++    if (present || outcome.value !== undefined) assign(out, name, outcome.value)
++  }
++
++  if (unknowns !== "strip") {
++    const known = new Set(declared)
++    const extra = Object.keys(value).filter((name) => name !== "__proto__" && !known.has(name))
++    if (unknowns === "strict" && extra.length > 0) {
++      issues.push({
++        code: "unrecognized_keys",
++        path,
++        message:
++          extra.length === 1
++            ? `Unrecognized key: ${JSON.stringify(extra[0])}`
++            : `Unrecognized keys: ${extra.map((name) => JSON.stringify(name)).join(", ")}`,
++      })
++    }
++    if (unknowns === "loose") for (const name of extra) assign(out, name, value[name])
++  }
++
++  return issues.length > 0 ? { ok: false, issues } : held(out)
++}
++
++export type ObjectShape<F extends Fields, Out> = Shape<Out> & {
++  readonly unknowns: Unknowns
++  readonly fields: Fields
++  strict: () => ObjectShape<F, Struct<F>>
++  passthrough: () => ObjectShape<F, LooseStruct<F>>
++}
++
++export function ObjectShape<F extends Fields, Out>(
++  declaration: F,
++  unknowns: Unknowns
++): ObjectShape<F, Out> {
++  return {
++    ...Shape<Out>((value, path) => parseFields(declaration, unknowns, value, path) as Outcome<Out>),
++    unknowns,
++    fields: declaration,
++
++    strict() {
++      return ObjectShape<F, Struct<F>>(declaration, "strict")
++    },
++
++    passthrough() {
++      return ObjectShape<F, LooseStruct<F>>(declaration, "loose")
++    },
++  }
++}
++
++export function array<T>(element: Shape<T>): Shape<T[]> {
++  return Shape((value, path) => {
++    if (!Array.isArray(value)) {
++      return refused(
++        path,
++        "invalid_type",
++        `Invalid input: expected array, received ${received(value)}`
++      )
++    }
++    const issues: ShapeIssue[] = []
++    const out: T[] = []
++    for (let index = 0; index < value.length; index += 1) {
++      const outcome = element.run(value[index], [...path, index])
++      if (outcome.ok) out.push(outcome.value)
++      else issues.push(...outcome.issues)
++    }
++    return issues.length > 0 ? { ok: false, issues } : held(out)
++  })
++}
++
++type TupleOut<M extends readonly SomeShape[]> = { -readonly [K in keyof M]: Infer<M[K]> }
++
++export function tuple<const M extends readonly SomeShape[]>(items: M): Shape<TupleOut<M>> {
++  return Shape((value, path) => {
++    if (!Array.isArray(value)) {
++      return refused(
++        path,
++        "invalid_type",
++        `Invalid input: expected tuple, received ${received(value)}`
++      )
++    }
++    if (value.length < items.length) {
++      return refused(path, "too_small", `Too small: expected array to have >=${items.length} items`)
++    }
++    if (value.length > items.length) {
++      return refused(path, "too_big", `Too big: expected array to have <=${items.length} items`)
++    }
++    const issues: ShapeIssue[] = []
++    const out: unknown[] = []
++    for (let index = 0; index < items.length; index += 1) {
++      const outcome = (items[index] as SomeShape).run(value[index], [...path, index])
++      if (outcome.ok) out.push(outcome.value)
++      else issues.push(...outcome.issues)
++    }
++    return issues.length > 0 ? { ok: false, issues } : held(out as TupleOut<M>)
++  })
++}
++
++export function record<V>(keys: Shape<string>, values: Shape<V>): Shape<Record<string, V>> {
++  return Shape((value, path) => {
++    if (!isObjectLike(value)) {
++      return refused(
++        path,
++        "invalid_type",
++        `Invalid input: expected record, received ${received(value)}`
++      )
++    }
++    const issues: ShapeIssue[] = []
++    const out: Record<string, V> = {}
++    for (const name of Object.keys(value)) {
++      if (name === "__proto__") continue
++      const key = keys.run(name, [...path, name])
++      if (!key.ok) {
++        issues.push(...key.issues)
++        continue
++      }
++      const outcome = values.run(value[name], [...path, name])
++      if (outcome.ok) out[name] = outcome.value
++      else issues.push(...outcome.issues)
++    }
++    return issues.length > 0 ? { ok: false, issues } : held(out)
++  })
++}
++
++export function union<const M extends readonly SomeShape[]>(members: M): Shape<Infer<M[number]>> {
++  return Shape((value, path) => {
++    for (const member of members) {
++      const outcome = member.run(value, path)
++      if (outcome.ok) return held(outcome.value as Infer<M[number]>)
++    }
++    return refused(path, "invalid_union", "Invalid input")
++  })
++}
++
++type Tagged = SomeShape & { readonly fields: Fields }
++
++function literalIn(marker: SomeShape | undefined): LiteralShape<string> | undefined {
++  if (marker === undefined) return undefined
++  if (!("value" in marker) || typeof marker.value !== "string") return undefined
++  return marker as LiteralShape<string>
++}
++
++export function discriminatedUnion<const M extends readonly Tagged[]>(
++  key: string,
++  members: M
++): Shape<Infer<M[number]>> {
++  const byTag = new Map<string, SomeShape>()
++  for (const member of members) {
++    const marker = literalIn(member.fields[key])
++    if (marker === undefined) {
++      throw new Error(
++        `shape.discriminatedUnion: a member declares no literal \`${key}\` to sort it by`
++      )
++    }
++    byTag.set(marker.value, member)
++  }
++  const expected = [...byTag.keys()].map((tag) => `'${tag}'`).join(" | ")
++
++  return Shape((value, path) => {
++    if (!isObjectLike(value)) {
++      return refused(
++        path,
++        "invalid_type",
++        `Invalid input: expected object, received ${received(value)}`
++      )
++    }
++    const tag = value[key]
++    const member = typeof tag === "string" ? byTag.get(tag) : undefined
++    if (member === undefined) {
++      return refused(
++        [...path, key],
++        "invalid_union",
++        `Invalid discriminator value. Expected ${expected}`
++      )
++    }
++    return member.run(value, path) as Outcome<Infer<M[number]>>
++  })
++}
++
++export const object = <F extends Fields>(fields: F): ObjectShape<F, Struct<F>> =>
++  ObjectShape<F, Struct<F>>(fields, "strip")
++
++export const looseObject = <F extends Fields>(fields: F): ObjectShape<F, LooseStruct<F>> =>
++  ObjectShape<F, LooseStruct<F>>(fields, "loose")
+diff --git a/utils-narrowing/shape-object/shape-object.module.ts b/utils-narrowing/shape-object/shape-object.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..77603ce2534645885085ca8688bf582761db70af
+--- /dev/null
++++ b/utils-narrowing/shape-object/shape-object.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const shapeObject = {
++  id: "01a06983-278f-798f-9e80-5d6ce48a6cf8",
++  pageTypeSlug: "module",
++  slug: "shape-object",
++  definition: "shapes over objects, arrays, unions, records and tuples",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/shape-scalar/shape-scalar.module.code.ts b/utils-narrowing/shape-scalar/shape-scalar.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..221f21913bd72e3282f5cc603370b81810a3d154
+--- /dev/null
++++ b/utils-narrowing/shape-scalar/shape-scalar.module.code.ts
+@@ -0,0 +1,248 @@
++import {
++  held,
++  isObjectLike,
++  type Outcome,
++  received,
++  refused,
++  Shape,
++  type ShapePath,
++} from "../shape-core/shape-core.module.code.ts"
++
++const UUID =
++  /^(?:[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}|00000000-0000-0000-0000-000000000000)$/
++
++const ISO_DATETIME =
++  /^\d{4}-(?:0[1-9]|1[0-2])-(?:0[1-9]|[12]\d|3[01])T(?:[01]\d|2[0-3]):[0-5]\d:[0-5]\d(?:\.\d+)?Z$/
++
++export type StringShape = Shape<string> & {
++  min: (least: number) => StringShape
++  regex: (pattern: RegExp) => StringShape
++  uuid: () => StringShape
++  url: () => StringShape
++  datetime: () => StringShape
++}
++
++export function StringShape(
++  run: (value: unknown, path: ShapePath) => Outcome<string>,
++  acceptsAbsent = false
++): StringShape {
++  const guarded = (holds: (value: string) => boolean, code: string, message: string): StringShape =>
++    StringShape((value, path) => {
++      const outcome = run(value, path)
++      if (!outcome.ok) return outcome
++      return holds(outcome.value) ? outcome : refused(path, code, message)
++    }, acceptsAbsent)
++
++  return {
++    ...Shape(run, acceptsAbsent),
++
++    min(least) {
++      return guarded(
++        (value) => value.length >= least,
++        "too_small",
++        `Too small: expected string to have >=${least} characters`
++      )
++    },
++
++    regex(pattern) {
++      const stateless = new RegExp(pattern.source, pattern.flags.replace(/[gy]/g, ""))
++      return guarded(
++        (value) => stateless.test(value),
++        "invalid_format",
++        `Invalid string: must match pattern ${String(pattern)}`
++      )
++    },
++
++    uuid() {
++      return guarded((value) => UUID.test(value), "invalid_format", "Invalid UUID")
++    },
++
++    url() {
++      return guarded(
++        (value) => {
++          try {
++            void new URL(value)
++            return true
++          } catch {
++            return false
++          }
++        },
++        "invalid_format",
++        "Invalid URL"
++      )
++    },
++
++    datetime() {
++      return guarded((value) => ISO_DATETIME.test(value), "invalid_format", "Invalid ISO datetime")
++    },
++  }
++}
++
++function numberHeld(value: unknown, path: ShapePath): Outcome<number> {
++  if (typeof value !== "number") {
++    return refused(
++      path,
++      "invalid_type",
++      `Invalid input: expected number, received ${received(value)}`
++    )
++  }
++  if (Number.isNaN(value)) {
++    return refused(path, "invalid_type", "Invalid input: expected number, received NaN")
++  }
++  if (!Number.isFinite(value)) {
++    return refused(path, "invalid_type", "Invalid input: expected number, received number")
++  }
++  return held(value)
++}
++
++export type NumberShape = Shape<number> & {
++  int: () => NumberShape
++  min: (least: number) => NumberShape
++  max: (most: number) => NumberShape
++  positive: () => NumberShape
++  nonnegative: () => NumberShape
++  finite: () => NumberShape
++}
++
++export function NumberShape(
++  run: (value: unknown, path: ShapePath) => Outcome<number>,
++  acceptsAbsent = false
++): NumberShape {
++  const guarded = (holds: (value: number) => boolean, code: string, message: string): NumberShape =>
++    NumberShape((value, path) => {
++      const outcome = run(value, path)
++      if (!outcome.ok) return outcome
++      return holds(outcome.value) ? outcome : refused(path, code, message)
++    }, acceptsAbsent)
++
++  return {
++    ...Shape(run, acceptsAbsent),
++
++    int() {
++      return guarded(
++        (value) => Number.isInteger(value),
++        "invalid_type",
++        "Invalid input: expected int, received number"
++      )
++    },
++
++    min(least) {
++      return guarded(
++        (value) => value >= least,
++        "too_small",
++        `Too small: expected number to be >=${least}`
++      )
++    },
++
++    max(most) {
++      return guarded(
++        (value) => value <= most,
++        "too_big",
++        `Too big: expected number to be <=${most}`
++      )
++    },
++
++    positive() {
++      return guarded((value) => value > 0, "too_small", "Too small: expected number to be >0")
++    },
++
++    nonnegative() {
++      return guarded((value) => value >= 0, "too_small", "Too small: expected number to be >=0")
++    },
++
++    finite() {
++      return guarded(
++        (value) => Number.isFinite(value),
++        "invalid_type",
++        "Invalid input: expected number, received number"
++      )
++    },
++  }
++}
++
++export type LiteralShape<V extends string> = Shape<V> & { readonly value: V }
++
++export function LiteralShape<V extends string>(value: V): LiteralShape<V> {
++  return {
++    ...Shape<V>((input, path) =>
++      input === value
++        ? held(value)
++        : refused(path, "invalid_value", `Invalid input: expected ${JSON.stringify(value)}`)
++    ),
++    value,
++  }
++}
++
++export function enumOf<const V extends readonly string[]>(values: V): Shape<V[number]> {
++  const allowed = new Set<string>(values)
++  const listed = values.map((value) => JSON.stringify(value)).join("|")
++  return Shape((value, path) =>
++    typeof value === "string" && allowed.has(value)
++      ? held(value as V[number])
++      : refused(path, "invalid_value", `Invalid option: expected one of ${listed}`)
++  )
++}
++
++export type Json = string | number | boolean | null | Json[] | { [key: string]: Json }
++
++const isBareObject = (value: unknown): value is Record<string, unknown> => {
++  if (!isObjectLike(value)) return false
++  const proto = Object.getPrototypeOf(value) as unknown
++  return proto === Object.prototype || proto === null
++}
++
++function isJson(value: unknown): boolean {
++  if (value === null) return true
++  const kind = typeof value
++  if (kind === "string" || kind === "boolean") return true
++  if (kind === "number") return Number.isFinite(value)
++  if (Array.isArray(value)) return value.every(isJson)
++  if (isBareObject(value)) return Object.values(value).every(isJson)
++  return false
++}
++
++export function json(): Shape<Json> {
++  return Shape((value, path) =>
++    isJson(value) ? held(value as Json) : refused(path, "invalid_union", "Invalid input")
++  )
++}
++
++export function coerceNumber(): NumberShape {
++  return NumberShape((value, path) => {
++    let asNumber: number
++    try {
++      asNumber = Number(value)
++    } catch {
++      return refused(
++        path,
++        "invalid_type",
++        `Invalid input: expected number, received ${received(value)}`
++      )
++    }
++    return numberHeld(asNumber, path)
++  })
++}
++
++export const stringShape = (): StringShape =>
++  StringShape((value, path) =>
++    typeof value === "string"
++      ? held(value)
++      : refused(path, "invalid_type", `Invalid input: expected string, received ${received(value)}`)
++  )
++
++export const numberShape = (): NumberShape => NumberShape(numberHeld)
++
++export const booleanShape = (): Shape<boolean> =>
++  Shape((value, path) =>
++    typeof value === "boolean"
++      ? held(value)
++      : refused(
++          path,
++          "invalid_type",
++          `Invalid input: expected boolean, received ${received(value)}`
++        )
++  )
++
++export const unknownShape = (): Shape<unknown> => Shape((value) => held(value))
++
++export const literal = <V extends string>(value: V): LiteralShape<V> => LiteralShape(value)
+diff --git a/utils-narrowing/shape-scalar/shape-scalar.module.ts b/utils-narrowing/shape-scalar/shape-scalar.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..47c6b9db87cc20ad4c1f48b9c67d1fc118324f51
+--- /dev/null
++++ b/utils-narrowing/shape-scalar/shape-scalar.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const shapeScalar = {
++  id: "01a06983-278f-79a6-b1ea-de46cdea4760",
++  pageTypeSlug: "module",
++  slug: "shape-scalar",
++  definition: "shapes over scalars, and the refinements each one takes",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/shape/shape.module.code.ts b/utils-narrowing/shape/shape.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..be6cdc14c212761e8004bf91a7551fe6090ebd79
+--- /dev/null
++++ b/utils-narrowing/shape/shape.module.code.ts
+@@ -0,0 +1,37 @@
++import {
++  array,
++  discriminatedUnion,
++  looseObject,
++  object,
++  record,
++  tuple,
++  union,
++} from "../shape-object/shape-object.module.code.ts"
++import {
++  booleanShape,
++  coerceNumber,
++  enumOf,
++  json,
++  literal,
++  numberShape,
++  stringShape,
++  unknownShape,
++} from "../shape-scalar/shape-scalar.module.code.ts"
++
++export const shape = {
++  string: stringShape,
++  number: numberShape,
++  boolean: booleanShape,
++  unknown: unknownShape,
++  literal,
++  enum: enumOf,
++  object,
++  looseObject,
++  array,
++  tuple,
++  record,
++  union,
++  discriminatedUnion,
++  json,
++  coerce: { number: coerceNumber },
++} as const
+diff --git a/utils-narrowing/shape/shape.module.ts b/utils-narrowing/shape/shape.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..24b8dba04e3421fa18b1750bad6d41492d84e2af
+--- /dev/null
++++ b/utils-narrowing/shape/shape.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const shape = {
++  id: "01a0698a-de04-7000-912b-c043155f83b3",
++  pageTypeSlug: "module",
++  slug: "shape",
++  definition: "every shape combinator reached under one name",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/string-at/string-at.module.code.ts b/utils-narrowing/string-at/string-at.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ca696363a53542cf9123adc431e20ce18bae93b5
+--- /dev/null
++++ b/utils-narrowing/string-at/string-at.module.code.ts
+@@ -0,0 +1,4 @@
++export function stringAt(values: Readonly<Record<string, unknown>>, key: string): string | null {
++  const value = values[key]
++  return typeof value === "string" ? value : null
++}
+diff --git a/utils-narrowing/string-at/string-at.module.ts b/utils-narrowing/string-at/string-at.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..13b8a903b3ec9c31ccf76491c3345c697ab3b2ce
+--- /dev/null
++++ b/utils-narrowing/string-at/string-at.module.ts
+@@ -0,0 +1,15 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const stringAt = {
++  id: "01a05cc9-029c-7f57-8f4e-de247a60828d",
++  pageTypeSlug: "module",
++  slug: "string-at",
++  definition: "the string a record holds under a key, or nothing",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "An empty string is answered rather than read as nothing.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/utils-narrowing/text-at/text-at.module.code.ts b/utils-narrowing/text-at/text-at.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b49571044d5382180c716925383d42b40c43c6e3
+--- /dev/null
++++ b/utils-narrowing/text-at/text-at.module.code.ts
+@@ -0,0 +1,4 @@
++export function textAt(values: Readonly<Record<string, unknown>>, key: string): string | null {
++  const value = values[key]
++  return typeof value === "string" && value !== "" ? value : null
++}
+diff --git a/utils-narrowing/text-at/text-at.module.ts b/utils-narrowing/text-at/text-at.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4a3bb1a4a808c79e77f5ce2fa48c3df07039eab6
+--- /dev/null
++++ b/utils-narrowing/text-at/text-at.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const textAt = {
++  id: "01a05c94-2c02-7dc2-a598-544061815ac8",
++  pageTypeSlug: "module",
++  slug: "text-at",
++  definition: "the non-empty text a record holds under a key, or nothing",
++  code: "ts",
++} as const satisfies Module
+diff --git a/utils-narrowing/utils-narrow.workspace-package.ts b/utils-narrowing/utils-narrow.workspace-package.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..91e00d311b75a349f7d0e9fa175ea129ff8bb7bf
+--- /dev/null
++++ b/utils-narrowing/utils-narrow.workspace-package.ts
+@@ -0,0 +1,44 @@
++import type { WorkspacePackage } from "../code-system/workspace-packages/workspace-package.page-type.ts"
++
++export const utilsNarrow = {
++  id: "01a05c94-2c03-7ab7-b93f-49a8ed498a29",
++  pageTypeSlug: "workspace-package",
++  slug: "utils-narrow",
++  definition: "how a wide value is read as the narrow one it must be, or refused",
++  manifest: "json",
++  partSlugs: [
++    "module/shape",
++    "module/shape-core",
++    "module/shape-object",
++    "module/shape-scalar",
++    "module/as-boolean",
++    "module/as-object-record",
++    "module/as-record",
++    "module/assert-never",
++    "module/badge-variant",
++    "module/capitalize",
++    "module/collapse",
++    "module/create-data-file",
++    "module/delete-record-key",
++    "module/get-subcategory",
++    "module/is-json",
++    "module/is-object-record",
++    "module/is-record",
++    "module/join-path",
++    "module/json-equal",
++    "module/json-schema",
++    "module/json-value",
++    "module/narrow-error",
++    "module/no-op",
++    "module/require-at",
++    "module/require-defined",
++    "module/require-env",
++    "module/require-first",
++    "module/require-get",
++    "module/require-match",
++    "module/require-match-positional",
++    "module/require-only",
++    "module/string-at",
++    "module/text-at",
++  ],
++} as const satisfies WorkspacePackage
