@@ -9,7 +9,8 @@ export const libSetsSetTextSetTextFields = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "A piece is skipped when neither the settings nor the pattern asks for it.",
+      statement:
+        "A piece is skipped when neither the settings nor the pattern asks for that piece.",
     },
     {
       invariantKind: "constraint",
