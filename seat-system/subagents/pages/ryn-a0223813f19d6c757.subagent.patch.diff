@@ -153,3 +153,18 @@ index faca5cafb78488b5cff9b2099a440453ead447b1..26c642fe836a2788163192413a010b30
 -    },
 -  ],
  } as const satisfies EsoInterface
+diff --git a/temper/temper-lib-media-provider/media-pc-fontpath/media-pc-fontpath.eso-interface.ts b/temper/temper-lib-media-provider/media-pc-fontpath/media-pc-fontpath.eso-interface.ts
+index d69a8b878482bb2b175ced0f1da88bb27f2e1cc4..cd6506968c26219228cbf1d33628cd05c34c3ef5 100644
+--- a/temper/temper-lib-media-provider/media-pc-fontpath/media-pc-fontpath.eso-interface.ts
++++ b/temper/temper-lib-media-provider/media-pc-fontpath/media-pc-fontpath.eso-interface.ts
+@@ -7,10 +7,4 @@ export const mediaPcFontpath = {
+   definition: "the folder the client reads fonts from on Windows and Mac",
+   markup: "xml",
+   loadedAs: "PC/fontpath.xml",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The font path is declared as a string the other documents read.",
+-    },
+-  ],
+ } as const satisfies EsoInterface
