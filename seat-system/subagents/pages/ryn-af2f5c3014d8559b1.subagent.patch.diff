@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/rules-engine/rules-engine.domain.ts b/rules-engine/rules-engine.domain.ts
+index 4bd11057f08ccb8777b1fe0cb6aca2ce9d67776e..9dfb88e450e43f4c7665a4bb7c516eea384ccd2f 100644
+--- a/rules-engine/rules-engine.domain.ts
++++ b/rules-engine/rules-engine.domain.ts
+@@ -25,7 +25,7 @@ export const rulesEngine = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Covering what no other rule names takes several rules.",
++      statement: "Covering the cases no other rule names takes several rules.",
+     },
+     {
+       invariantKind: "departure",
