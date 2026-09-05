@@ -1,0 +1,13 @@
+diff --git a/alan/harness/monarch/credential/monarch-credential.module.ts b/alan/harness/monarch/credential/monarch-credential.module.ts
+index 8c5cc3f492e7af6fbdbb49d3116e2c2fa157bd0a..fac26e49ac91baba43fc4c939edb62a6ec8b1c33 100644
+--- a/alan/harness/monarch/credential/monarch-credential.module.ts
++++ b/alan/harness/monarch/credential/monarch-credential.module.ts
+@@ -14,7 +14,7 @@ export const monarchCredential = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The CSRF token is cut from the cookie rather than held apart from it.",
++      statement: "The CSRF token is cut from the cookie rather than held apart from that cookie.",
+     },
+     {
+       invariantKind: "departure",
