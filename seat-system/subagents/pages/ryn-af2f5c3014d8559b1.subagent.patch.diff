@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/infrastructure/inference-commands/inference-active/inference-active.command.ts b/infrastructure/inference-commands/inference-active/inference-active.command.ts
-index 256806f8074bca3aa8db8da558f28a3e50e3034b..df2711d7e5a11bd1a547f23ddfa8e83d1da01a35 100644
+index 256806f8074bca3aa8db8da558f28a3e50e3034b..94bf44ca8b06f5ac2d06b12a34986b351a78f755 100644
 --- a/infrastructure/inference-commands/inference-active/inference-active.command.ts
 +++ b/infrastructure/inference-commands/inference-active/inference-active.command.ts
 @@ -12,7 +12,7 @@ export const inferenceActive = {
@@ -12,3 +12,12 @@ index 256806f8074bca3aa8db8da558f28a3e50e3034b..df2711d7e5a11bd1a547f23ddfa8e83d
      },
      {
        invariantKind: "departure",
+@@ -20,7 +20,7 @@ export const inferenceActive = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here changes what is resident.",
++      statement: "Nothing here changes which services are resident.",
+     },
+   ],
+ } as const satisfies Command
