@@ -10,7 +10,7 @@ export const matchComparison = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A clause holding several values passes where any one of them matches.",
+      statement: "A clause holding several values passes where any one of those values matches.",
     },
     {
       invariantKind: "departure",
