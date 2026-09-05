@@ -99,20 +99,20 @@ async function main(argv: readonly string[]): Promise<number> {
   const root = rootFor(resolveRoots(), AKASHA)
   const cutoff = cutoffFrom(Date.now(), keepDays)
 
-  const standing = daysIn(root)
-  const rotate = standing.filter((one) => decideDay(one.date, cutoff) === "rotate")
+  const days = daysIn(root)
+  const rotate = days.filter((one) => decideDay(one.date, cutoff) === "rotate")
 
   for (const one of rotate) process.stdout.write(`${one.name}\t${one.date}\n`)
 
   if (!argv.includes("--remove")) {
     process.stderr.write(
-      `read ${standing.length} log day(s), ${rotate.length} older than ${cutoff} ` +
+      `read ${days.length} log day(s), ${rotate.length} older than ${cutoff} ` +
         `(${keepDays} day window) — nothing removed without --remove\n`
     )
     return 0
   }
   if (rotate.length === 0) {
-    process.stderr.write(`read ${standing.length} log day(s), none older than ${cutoff}\n`)
+    process.stderr.write(`read ${days.length} log day(s), none older than ${cutoff}\n`)
     return 0
   }
 
@@ -133,7 +133,7 @@ async function main(argv: readonly string[]): Promise<number> {
   }
   for (const one of taken) removeLines(root, one.relPath)
   // A page under akasha is held to what its writer read, so a page taken away leaves a reading
-  // standing over a path at nothing. The reading goes with the page.
+  // kept over a path at nothing. The reading goes with the page.
   if (taken.length > 0)
     dropReadings(
       root,
@@ -142,7 +142,7 @@ async function main(argv: readonly string[]): Promise<number> {
 
   process.stderr.write(
     `removed ${taken.length} of ${rotate.length} log day(s) older than ${cutoff}; ` +
-      `${standing.length - rotate.length} kept\n`
+      `${days.length - rotate.length} kept\n`
   )
   for (const one of held) process.stderr.write(`refused: ${one}\n`)
   return held.length === 0 ? 0 : 1

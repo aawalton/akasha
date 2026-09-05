@@ -5,7 +5,7 @@ export const seatRefreshSettings = {
   pageTypeSlug: "command",
   slug: "seat-refresh-settings",
   definition:
-    "the command rewriting each running seat's settings file from the document standing now",
+    "the command rewriting each running seat's settings file from the document as it now is",
   code: "ts",
   changeKindSlug: "change-mechanical",
   taking: [{ said: "--json", takes: "give the rows as JSON rather than as tab-separated lines" }],
@@ -13,7 +13,7 @@ export const seatRefreshSettings = {
     "a running client watches the settings file it was launched with, so a permission change reaches a seat here without stopping it.",
     "a spawn names its settings file for a digest of the contents, so a changed document makes a new file for the next spawn and never touches the one a running seat watches.",
     "the per-spawn keys are read off the file being replaced and written again, so a seat keeps the overrides it was launched with.",
-    "the digest in a name is left as it stands and stops describing the contents, being a spawn-time cache key rather than a claim about the file.",
+    "the digest in a name is left as it is and stops describing the contents, being a spawn-time cache key rather than a claim about the file.",
     "a hook's registration is read once, when the client starts, so a registration change needs the client cycled and nothing here cycles one.",
     "finding no running process that names a spawned settings file is the scan failing rather than the fleet being empty.",
   ],
@@ -36,7 +36,7 @@ export const seatRefreshSettings = {
     },
     {
       invariantKind: "departure",
-      statement: "The digest in a file's name is left as it stands.",
+      statement: "The digest in a file's name is left as it is.",
     },
     {
       invariantKind: "departure",

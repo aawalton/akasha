@@ -18,7 +18,7 @@ export const logDaySweeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A page whose date cannot be read from its text is left standing.",
+      statement: "A page whose date cannot be read from its text is left as it is.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +31,7 @@ export const logDaySweeping = {
     },
     {
       invariantKind: "departure",
-      statement: "The reading standing over a page's path goes with the page.",
+      statement: "The reading kept over a page's path goes with the page.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +40,7 @@ export const logDaySweeping = {
     },
     {
       invariantKind: "departure",
-      statement: "Every day still standing after a refusal is named.",
+      statement: "Every day still there after a refusal is named.",
     },
     {
       invariantKind: "departure",

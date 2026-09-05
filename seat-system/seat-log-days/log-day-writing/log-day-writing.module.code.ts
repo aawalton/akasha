@@ -83,7 +83,7 @@ export function dayBodyOf(slug: string, source: string, seatName: string, date: 
   ].join("\n")
 }
 
-async function stood(root: string, path: string, body: string, message: string): Promise<boolean> {
+async function putUp(root: string, path: string, body: string, message: string): Promise<boolean> {
   if (existsSync(join(root, path))) return true
   const answer = await landedMechanically(
     root,
@@ -126,7 +126,7 @@ function appenderFor(
   date: string
 ): Appender | null {
   if (
-    !stood(
+    !putUp(
       root,
       sourcePathOf(source),
       sourceBodyOf(source),
@@ -138,7 +138,7 @@ function appenderFor(
   const slug = dayNameOf(source, seatName, date)
   const pagePath = dayPathOf(slug)
   if (
-    !stood(
+    !putUp(
       root,
       pagePath,
       dayBodyOf(slug, source, seatName, date),
