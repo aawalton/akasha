@@ -1,3 +1,15 @@
+diff --git a/changes/atomic-changes/atomic-change.page-type.ts b/changes/atomic-changes/atomic-change.page-type.ts
+index 472406ce6fdd3a84be613c1067b9eadae2516c03..46d1b2ce4644ab0066848936d8cafefb5d6fe7aa 100644
+--- a/changes/atomic-changes/atomic-change.page-type.ts
++++ b/changes/atomic-changes/atomic-change.page-type.ts
+@@ -9,6 +9,7 @@ export const atomicChange = {
+   slug: "atomic-change",
+   definition: "a change that leaves the tree whole and splits into none that do",
+   pluralSlug: "atomic-changes",
++  partSlugs: ["atomic-change/rename-local-variable"],
+   extendsSlug: ["page-type/module"],
+   invariants: [
+     {
 diff --git a/changes/atomic-changes/pages/rename-local-variable/rename-local-variable.atomic-change.code.ts b/changes/atomic-changes/pages/rename-local-variable/rename-local-variable.atomic-change.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..8a861e36c06ba9f2ce0639fa9fc86365dec57fe9
