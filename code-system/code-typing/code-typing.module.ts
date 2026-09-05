@@ -55,7 +55,7 @@ export const codeTyping = {
     {
       invariantKind: "departure",
       statement:
-        "A key more than one part of a union declares apart is resolved through none of them.",
+        "A key more than one part of a union declares apart is resolved through none of those parts.",
     },
     {
       invariantKind: "departure",
@@ -76,7 +76,7 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "Respelling a shorthand states the value it represented.",
+      statement: "Respelling a shorthand states the value that shorthand represented.",
     },
     {
       invariantKind: "departure",
@@ -90,11 +90,12 @@ export const codeTyping = {
     {
       invariantKind: "departure",
       statement:
-        "A name imported under another is found where it is imported rather than where it is used.",
+        "A name imported under another name is found where that name is imported rather than where used.",
     },
     {
       invariantKind: "departure",
-      statement: "A name a file keeps to itself is found wherever in that file it is declared.",
+      statement:
+        "A name a file keeps to itself is found wherever in that file that name is declared.",
     },
     {
       invariantKind: "departure",
@@ -125,7 +126,7 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "A link is followed whether or not a file is there to follow it to.",
+      statement: "A link is followed whether or not a file is there to follow that link to.",
     },
     {
       invariantKind: "departure",
