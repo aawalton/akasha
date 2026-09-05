@@ -1,4 +1,3 @@
-runsWarrants: false
 diff --git a/infrastructure/auth-proxy/auth-proxy.cluster-service.code.attachment.ts b/infrastructure/auth-proxy/auth-proxy.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 125f677fa0679a99b52a02c6cb6355f131ab8fbb..0000000000000000000000000000000000000000
@@ -558,7 +557,7 @@ index 0000000000000000000000000000000000000000..125f677fa0679a99b52a02c6cb6355f1
 +  ]
 +}
 diff --git a/service-system/cluster-services/pages/auth-proxy.cluster-service.ts b/service-system/cluster-services/pages/auth-proxy.cluster-service.ts
-index 2606f74ab907fb9e59748971fa33cf48f9ae3a59..f04ffd2c1169b3c8c47b79d983536c13e0761f86 100644
+index 2606f74ab907fb9e59748971fa33cf48f9ae3a59..58a8b666e666f6a37d631ac2963146e2b40dd848 100644
 --- a/service-system/cluster-services/pages/auth-proxy.cluster-service.ts
 +++ b/service-system/cluster-services/pages/auth-proxy.cluster-service.ts
 @@ -11,5 +11,5 @@ export const authProxy = {
@@ -566,5 +565,5 @@ index 2606f74ab907fb9e59748971fa33cf48f9ae3a59..f04ffd2c1169b3c8c47b79d983536c13
    replicas: 2,
    containerPort: 3080,
 -  manifestCode: "infrastructure/auth-proxy/auth-proxy.cluster-service.code.attachment.ts",
-+  manifestCode: "infrastructure/auth-proxy/manifests/auth-proxy-manifests.manifest.code.ts",
++  manifestSlug: "auth-proxy-manifests",
  } as const satisfies ClusterService
