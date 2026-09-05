@@ -50,11 +50,11 @@ export const inferenceGenerate = {
     },
     {
       invariantKind: "departure",
-      statement: "A seed is recorded whether it was drawn or said.",
+      statement: "A seed is recorded whether that seed was drawn or said.",
     },
     {
       invariantKind: "departure",
-      statement: "The image is written where the caller named it and nowhere else.",
+      statement: "The image is written where the caller named that image and nowhere else.",
     },
     {
       invariantKind: "departure",
