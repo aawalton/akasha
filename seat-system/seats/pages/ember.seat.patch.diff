@@ -1,0 +1,171 @@
+diff --git a/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.code.ts b/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.code.ts
+index 139f3c194cbfb3e990ea633b4a886bd67e206dbc..959ab8e77ec1a4b21a3c80547066ae652893d776 100644
+--- a/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.code.ts
++++ b/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.code.ts
+@@ -1,13 +1,26 @@
++import { deletePages } from "@akasha/pages-access/delete"
++import { getPages } from "@akasha/pages-access/get"
++import { upsertPages } from "@akasha/pages-access/upsert"
+ import { askComposed } from "@akasha/pages-query/store-spelled-asking"
+ import { AutomationSettingsShape } from "@akasha/temper-inventory-automation/automation-settings-shape"
+ import type { AutomationSettings } from "@akasha/temper-inventory-automation/automation-toggles"
++import type { HeldRule } from "@akasha/temper-items-rules-core/inventory-rule-from-pages"
++import {
++  heldFromRows,
++  rulesFromPages,
++} from "@akasha/temper-items-rules-core/inventory-rule-from-pages"
+ import { createDefaultRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-settings"
+ import type { InventoryRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-types"
++import { writesFor } from "@akasha/temper-items-rules-core/inventory-rule-writes"
+ import { isJson } from "@akasha/utils-narrow/is-json"
+-import { InventoryRuleSettingsShape } from "../inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts"
++import type { Json } from "@akasha/utils-narrow/json-value"
+ 
+ const PLAYER_PAGE_TYPE_SLUG = "temper-player"
+ 
++const RULE_PAGE_TYPE_SLUG = "temper-inventory-rule"
++
++const RULES_AT_MOST = 500
++
+ const INDENT = 2
+ 
+ type SliceKey = "inventory" | "automation"
+@@ -67,16 +80,6 @@ async function readSettings(
+   return (await readPlayerPage(accountUserId, caller)).settings
+ }
+ 
+-// EVERY RULE A PLAYER SETS IS READ BACK AND NONE OF THEM IS KEPT. Both slices live in one
+-// `settings` key on the player page, patched with `patchPage`, which the store refuses
+-// unconditionally. So the reads below answer every `list` and `show` command, and every command
+-// that changes something — create, update, delete, reorder, lock, unlock and duplicate across the
+-// rule, item-rule and buy-rule families, plus `automation set` — ends here.
+-//
+-// The slice is still assembled before the refusal, because assembling it is where a rule that
+-// cannot be represented would be caught, and that judgement should not be lost behind a store that
+-// says no first. What is dropped is named by size, so a run says how much of the settings blob went
+-// unkept rather than only that a write refused.
+ const NO_KEYED_WRITE = "the page store refuses every keyed write"
+ 
+ async function writeSlice(
+@@ -94,15 +97,27 @@ async function writeSlice(
+   )
+ }
+ 
++async function readHeldRules(accountUserId: string): Promise<readonly HeldRule[]> {
++  const { rows } = await getPages({
++    pageTypeSlug: RULE_PAGE_TYPE_SLUG,
++    where: [{ key: "accountPage", eq: accountUserId }],
++    limit: RULES_AT_MOST,
++  })
++  return heldFromRows(rows as unknown as readonly Record<string, unknown>[])
++}
++
+ export async function readInventoryRuleSettings(
+   accountUserId: string
+ ): Promise<InventoryRuleSettings> {
+-  const settings = await readSettings(accountUserId, "readInventoryRuleSettings")
+-  const sliceValue = extractSliceValue(settings, "inventory")
+-  if (sliceValue === undefined) {
+-    return createDefaultRuleSettings()
+-  }
+-  return InventoryRuleSettingsShape.parse(sliceValue)
++  const rules = rulesFromPages(await readHeldRules(accountUserId))
++  return { ...createDefaultRuleSettings(), rules }
++}
++
++function blobKindsIn(next: InventoryRuleSettings): readonly string[] {
++  const named: string[] = []
++  if ((next.itemRules ?? []).length > 0) named.push(`${(next.itemRules ?? []).length} item rule(s)`)
++  if ((next.buyRules ?? []).length > 0) named.push(`${(next.buyRules ?? []).length} buy rule(s)`)
++  return named
+ }
+ 
+ export async function writeInventoryRuleSettings(
+@@ -112,7 +127,31 @@ export async function writeInventoryRuleSettings(
+   if (!isJson(next)) {
+     throw new Error("writeInventoryRuleSettings: next is not JSON-serializable")
+   }
+-  await writeSlice(accountUserId, "inventory", next, "writeInventoryRuleSettings")
++  const blobbed = blobKindsIn(next)
++  if (blobbed.length > 0) {
++    throw new Error(
++      `writeInventoryRuleSettings: ${blobbed.join(" and ")} are kept in the settings file beside ` +
++        `\`${PLAYER_PAGE_TYPE_SLUG}\`, and only a rule is a page yet, so those went unkept`
++    )
++  }
++  const held = await readHeldRules(accountUserId)
++  const { upserts, deletes } = writesFor(next.rules, held, accountUserId)
++  if (upserts.length > 0) {
++    await upsertPages({
++      pageTypeSlug: RULE_PAGE_TYPE_SLUG,
++      items: upserts.map((one) => ({
++        where: [{ key: "slug", eq: one.slug }],
++        set: one.values as Record<string, Json>,
++      })),
++    })
++  }
++  if (deletes.length > 0) {
++    await deletePages({
++      pageTypeSlug: RULE_PAGE_TYPE_SLUG,
++      where: [{ key: "slug", in: [...deletes] }],
++    })
++  }
++  return undefined
+ }
+ 
+ export async function readAutomationSettings(accountUserId: string): Promise<AutomationSettings> {
+diff --git a/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts b/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts
+index 5e7153279ee8bce9e2d71fd3194fb54625ce656d..f4a4a992e079f1107734ac4e77b7e0a13d6dd3c8 100644
+--- a/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts
++++ b/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts
+@@ -4,12 +4,20 @@ export const inventorySettingsAccess = {
+   id: "01a068e2-226b-7907-a0c2-a9e64c63d2ac",
+   pageTypeSlug: "module",
+   slug: "inventory-settings-access",
+-  definition: "the inventory and automation settings held on a player's own page",
++  definition: "the inventory and automation settings a command reads and writes for a player",
+   code: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Both slices live under one settings key on one player page.",
++      statement: "A player's rules are read from that player's rule pages.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A rule a command changes is written back as a page of its own.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A rule page no rule wants any more is taken away in the same write.",
+     },
+     {
+       invariantKind: "departure",
+@@ -19,9 +27,14 @@ export const inventorySettingsAccess = {
+       invariantKind: "departure",
+       statement: "A slice that is not there reads as the empty one rather than refusing.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A write carrying an item rule or a buy rule is refused by how many it carries.",
++    },
+     {
+       invariantKind: "gap",
+-      statement: "The page store refuses every keyed write, so no setting is kept.",
++      statement:
++        "The automation settings live under one settings key on the player page, and the page store refuses every keyed write, so none of them is kept.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/temper/temper-commands/package.json b/temper/temper-commands/package.json
+index f420cc5ffdf7d683b379706b4bdc95bf94a6987c..e37c2a3c19cbe3705d611fc4a6909b1c23e1c264 100644
+--- a/temper/temper-commands/package.json
++++ b/temper/temper-commands/package.json
+@@ -31,6 +31,7 @@
+     "@akasha/command-system": "workspace:*",
+     "@akasha/errors-core": "workspace:*",
+     "@akasha/pages": "workspace:*",
++    "@akasha/pages-access": "workspace:*",
+     "@akasha/temper-addon-build": "workspace:*",
+     "@akasha/temper-addon-data": "workspace:*",
+     "@akasha/temper-addons-resolve": "workspace:*",
