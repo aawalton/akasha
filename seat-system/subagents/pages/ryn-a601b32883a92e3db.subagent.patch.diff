@@ -1,0 +1,13 @@
+diff --git a/commands/refactor/key-respelling/key-respelling.module.ts b/commands/refactor/key-respelling/key-respelling.module.ts
+index d4cd73276154172800cebddd563d61cba9e922bb..2570a721269f1a2485051747b5a0f4e8db01a92b 100644
+--- a/commands/refactor/key-respelling/key-respelling.module.ts
++++ b/commands/refactor/key-respelling/key-respelling.module.ts
+@@ -77,7 +77,7 @@ export const keyRespelling = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file beside a page named for another key is left as it is.",
++      statement: "A file beside a page named for another key is left as that file is.",
+     },
+     {
+       invariantKind: "departure",
