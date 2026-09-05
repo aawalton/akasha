@@ -1,3 +1,16 @@
+diff --git a/pages/types/declared-properties/declared-properties.module.code.ts b/pages/types/declared-properties/declared-properties.module.code.ts
+index 9d74617613a03ae553c1530f134c0469b52d554f..37b583e3cea0a150d774aa7ac751b57bfe5645c9 100644
+--- a/pages/types/declared-properties/declared-properties.module.code.ts
++++ b/pages/types/declared-properties/declared-properties.module.code.ts
+@@ -92,7 +92,7 @@ export function carriedFrom(value: Value, source: Source, declaredBy: string): r
+       pageTypeSlug,
+       propertySlug,
+       key: exportedAs(propertySlug),
+-      unique: schema.unique,
++      unique: slugAt(one, "unique") ?? schema.unique,
+       declaredBy,
+       required: one["required"] === true,
+       many: one["many"] === true,
 diff --git a/pages/types/properties/properties.record-property.ts b/pages/types/properties/properties.record-property.ts
 index 7897f1a2fba249e4feab4c9bb8fd08c14dc0f435..f181fe6035667063072f7e4d91115c3f2f1a6235 100644
 --- a/pages/types/properties/properties.record-property.ts
