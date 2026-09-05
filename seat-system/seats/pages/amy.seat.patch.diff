@@ -1,0 +1,730 @@
+diff --git a/editor-extension/champions-tree/champions-tree.module.code.ts b/editor-extension/champions-tree/champions-tree.module.code.ts
+index 685c50d44cb661e842d2b1b6c18e8d5a101caf87..974973305bdceeb3ed4a2c1f6fff26d93c3eae35 100644
+--- a/editor-extension/champions-tree/champions-tree.module.code.ts
++++ b/editor-extension/champions-tree/champions-tree.module.code.ts
+@@ -75,7 +75,12 @@ export function championTree(rows: readonly DomainRow[]): ChampionTree {
+   return { roots, unreached }
+ }
+ 
+-export function countNodes(nodes: readonly DomainNode[]): number {
++// A COUNT ASKS FOR CHILDREN AND FOR NOTHING ELSE. The domains tree is counted both as this
++// module builds it and as the panel's own row carries it, and those two spell every other field
++// differently.
++type Nested = { readonly children: readonly Nested[] }
++
++export function countNodes(nodes: readonly Nested[]): number {
+   let total = 0
+   for (const node of nodes) total += 1 + countNodes(node.children)
+   return total
+diff --git a/editor-extension/domain-tree-panel/domain-tree-panel.module.code.ts b/editor-extension/domain-tree-panel/domain-tree-panel.module.code.ts
+index ebff126710ad32300126d1a764d715761d9584a7..c69faeab50798294a8a1867b0b6681afcbd27d16 100644
+--- a/editor-extension/domain-tree-panel/domain-tree-panel.module.code.ts
++++ b/editor-extension/domain-tree-panel/domain-tree-panel.module.code.ts
+@@ -1,13 +1,11 @@
+-import { relative } from "node:path"
+ import * as vscode from "vscode"
+ import {
+   followState,
+   readState,
+   stateAt,
+ } from "../../alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts"
+-import { countNodes, type DomainNode } from "../champions-tree/champions-tree.module.code.ts"
++import { countNodes } from "../champions-tree/champions-tree.module.code.ts"
+ import { REFRESH_COMMAND, VIEW_ID } from "../domain-tree-ids/domain-tree-ids.module.code.ts"
+-import type { DomainTree } from "../domain-tree-reading/domain-tree-reading.module.code.ts"
+ import { createDomainTree } from "../domain-tree-view/domain-tree-view.module.code.ts"
+ import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
+ import { recordObservation } from "../observation-store/observation-store.module.code.ts"
+@@ -15,28 +13,16 @@ import { recordObservation } from "../observation-store/observation-store.module
+ const FEATURE = "domain-tree"
+ const SLUG = "domain-tree"
+ 
+-// The file spells a row the way every state file spells one, and the panel spells it another way.
+-// The document is the one field that differs in kind rather than in name: the file carries the
+-// whole path, the panel carries it against the repository, and `documentPath` puts them back
+-// together. Taking the repository away from the path here is what makes that join exact.
+-function asNode(row: DomainTreeRow, root: string): DomainNode {
+-  return {
+-    slug: row.key,
+-    relPath: row.at === null ? "" : relative(root, row.at),
+-    persona: row.persona,
+-    position: row.position,
+-    children: row.children.map((child) => asNode(child, root)),
+-  }
+-}
+-
+ let output: vscode.OutputChannel
+ 
+ export async function activate(context: vscode.ExtensionContext): Promise<undefined> {
+   output = vscode.window.createOutputChannel("Ops: Domain Tree")
+   context.subscriptions.push(output)
+ 
+-  const tree = createDomainTree()
+-  const view = vscode.window.createTreeView<DomainNode>(VIEW_ID, {
++  // THE FILE'S OWN ROW IS WHAT IS DRAWN. The row already names its document by a whole path, so
++  // there is nothing between the file and the view to spell it a second way.
++  const tree = createDomainTree(akashaRoot())
++  const view = vscode.window.createTreeView<DomainTreeRow>(VIEW_ID, {
+     treeDataProvider: tree.provider,
+     showCollapseAll: true,
+     showExpandAll: true,
+@@ -66,15 +52,9 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
+   let owed = false
+ 
+   const draw = (state: DomainTreeState, trigger: string): undefined => {
+-    const root = akashaRoot()
+     try {
+-      const next: DomainTree = {
+-        repo: root,
+-        roots: state.roots.map((row) => asNode(row, root)),
+-        unreached: state.unreached,
+-      }
+-      tree.replace(next)
+-      total = countNodes(next.roots)
++      tree.replace(state.roots)
++      total = countNodes(state.roots)
+       describe()
+       view.badge = {
+         value: total,
+@@ -82,22 +62,22 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
+       }
+       view.message = undefined
+       output.appendLine(
+-        `[${trigger}] ${total} domain(s) under ${next.roots.length} root(s)` +
+-          (next.unreached.length === 0
++        `[${trigger}] ${total} domain(s) under ${state.roots.length} root(s)` +
++          (state.unreached.length === 0
+             ? ""
+-            : `; ${next.unreached.length} reached by no root: ${next.unreached.join(", ")}`)
++            : `; ${state.unreached.length} reached by no root: ${state.unreached.join(", ")}`)
+       )
+       recordObservation(FEATURE, {
+         outcome: "ok",
+         counts: {
+           domains: total,
+-          roots: next.roots.length,
+-          reachedByNoRoot: next.unreached.length,
++          roots: state.roots.length,
++          reachedByNoRoot: state.unreached.length,
+         },
+       })
+-      if (next.unreached.length > 0) {
++      if (state.unreached.length > 0) {
+         void vscode.window.showWarningMessage(
+-          `Domains: ${next.unreached.length} domain(s) hang under no root and are not shown. ` +
++          `Domains: ${state.unreached.length} domain(s) hang under no root and are not shown. ` +
+             "See the Ops: Domain Tree output."
+         )
+       }
+diff --git a/editor-extension/domain-tree-panel/domain-tree-panel.module.ts b/editor-extension/domain-tree-panel/domain-tree-panel.module.ts
+index be0f786d1a8d02d9ecf0b49cfbd82e4c44acec2a..c7f45718bb0b781cefa3b87e606dc1af1fbd487f 100644
+--- a/editor-extension/domain-tree-panel/domain-tree-panel.module.ts
++++ b/editor-extension/domain-tree-panel/domain-tree-panel.module.ts
+@@ -33,11 +33,7 @@ export const domainTreePanel = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row is spelled for the panel from the row the file carries.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A row's document is carried against the repository the panel was given.",
++      statement: "The rows the file carries are drawn as they are rather than spelled again.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/domain-tree-reading/domain-tree-reading.module.code.ts b/editor-extension/domain-tree-reading/domain-tree-reading.module.code.ts
+deleted file mode 100644
+index 1fb283b7889c3caa119142b6b1875d5f6cf34862..0000000000000000000000000000000000000000
+--- a/editor-extension/domain-tree-reading/domain-tree-reading.module.code.ts
++++ /dev/null
+@@ -1,12 +0,0 @@
+-import * as path from "node:path"
+-import type { ChampionTree, DomainNode } from "../champions-tree/champions-tree.module.code.ts"
+-
+-// The champion tree beside the checkout it was composed from, so a reader joins the two to open the
+-// document a row represents.
+-export interface DomainTree extends ChampionTree {
+-  readonly repo: string
+-}
+-
+-export function documentPath(tree: DomainTree, node: DomainNode): string {
+-  return path.join(tree.repo, node.relPath)
+-}
+diff --git a/editor-extension/domain-tree-reading/domain-tree-reading.module.ts b/editor-extension/domain-tree-reading/domain-tree-reading.module.ts
+deleted file mode 100644
+index 21d9c45d01b9416d088eb4fa49b7be0b8d7d2a2d..0000000000000000000000000000000000000000
+--- a/editor-extension/domain-tree-reading/domain-tree-reading.module.ts
++++ /dev/null
+@@ -1,27 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const domainTreeReading = {
+-  id: "01a06867-dbcb-7956-a5a6-01ace3eca2d4",
+-  pageTypeSlug: "module",
+-  slug: "domain-tree-reading",
+-  definition: "the checkout a domain tree was composed beside, and the document each row opens",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A tree carries the checkout that tree was composed beside.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A row's document is the checkout joined to the path that row carries.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here composes a tree or reads an answer.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here draws a row.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/editor-extension/domain-tree-view/domain-tree-view.module.code.ts b/editor-extension/domain-tree-view/domain-tree-view.module.code.ts
+index 2171b6d2ef091093959c4f2591414be1b051547a..e71fc35959c8980469fb602b60b3b7b4b06eebc2 100644
+--- a/editor-extension/domain-tree-view/domain-tree-view.module.code.ts
++++ b/editor-extension/domain-tree-view/domain-tree-view.module.code.ts
+@@ -1,38 +1,42 @@
++import { relative } from "node:path"
+ import * as vscode from "vscode"
+-import type { DomainNode } from "../champions-tree/champions-tree.module.code.ts"
+-import {
+-  type DomainTree,
+-  documentPath,
+-} from "../domain-tree-reading/domain-tree-reading.module.code.ts"
+ import { filterTree, textMatches } from "../tree-filter/tree-filter.module.code.ts"
+ 
+ const OPEN_COMMAND = "vscode.open"
+ 
++const NO_DOCUMENT = "this row opens no document"
++
+ export interface DomainTreeView {
+-  readonly provider: vscode.TreeDataProvider<DomainNode>
+-  readonly replace: (tree: DomainTree) => undefined
++  readonly provider: vscode.TreeDataProvider<DomainTreeRow>
++  readonly replace: (roots: readonly DomainTreeRow[]) => undefined
+   readonly filter: (pattern: string) => undefined
+   readonly matchCount: () => number | undefined
+   readonly dispose: () => undefined
+ }
+ 
+-export function createDomainTree(): DomainTreeView {
++// THE ROW THE FILE CARRIES IS THE ROW DRAWN, WITH NOTHING SPELLED AGAIN BETWEEN THE TWO.
++//
++// The row already names its document by a whole path, so the checkout is wanted for one thing
++// only: shortening that path for the tooltip, which is done for the rows drawn rather than for
++// every row held. Ten thousand domains were being walked to take the checkout off every path and
++// walked again to put it back, on the thread that draws them, each time the file moved.
++export function createDomainTree(root: string): DomainTreeView {
+   const emitter = new vscode.EventEmitter<undefined>()
+-  let tree: DomainTree | undefined
++  let held: readonly DomainTreeRow[] = []
+   let pattern = ""
+-  let narrowed: readonly DomainNode[] | undefined
++  let narrowed: readonly DomainTreeRow[] | undefined
+   let matched: number | undefined
+ 
+   const narrow = (): undefined => {
+-    if (pattern.trim() === "" || tree === undefined) {
++    if (pattern.trim() === "") {
+       narrowed = undefined
+       matched = undefined
+       return undefined
+     }
+-    const result = filterTree<DomainNode>(
+-      tree.roots,
++    const result = filterTree<DomainTreeRow>(
++      held,
+       (node) => node.children,
+-      (node) => textMatches(pattern, node.slug, node.persona),
++      (node) => textMatches(pattern, node.label, node.persona),
+       (node, children) => ({ ...node, children })
+     )
+     narrowed = result.roots
+@@ -40,18 +44,18 @@ export function createDomainTree(): DomainTreeView {
+     return undefined
+   }
+ 
+-  const provider: vscode.TreeDataProvider<DomainNode> = {
++  const provider: vscode.TreeDataProvider<DomainTreeRow> = {
+     onDidChangeTreeData: emitter.event,
+-    getChildren: (element?: DomainNode) => [
+-      ...(element === undefined ? (narrowed ?? tree?.roots ?? []) : element.children),
++    getChildren: (element?: DomainTreeRow) => [
++      ...(element === undefined ? (narrowed ?? held) : element.children),
+     ],
+-    getTreeItem: (element: DomainNode) => buildTreeItem(element, tree, narrowed !== undefined),
++    getTreeItem: (element: DomainTreeRow) => buildTreeItem(element, root, narrowed !== undefined),
+   }
+ 
+   return {
+     provider,
+-    replace: (next: DomainTree) => {
+-      tree = next
++    replace: (next: readonly DomainTreeRow[]) => {
++      held = next
+       narrow()
+       emitter.fire(undefined)
+       return undefined
+@@ -73,12 +77,8 @@ export function createDomainTree(): DomainTreeView {
+   }
+ }
+ 
+-function buildTreeItem(
+-  element: DomainNode,
+-  tree: DomainTree | undefined,
+-  filtering: boolean
+-): vscode.TreeItem {
+-  const label = element.position === null ? element.slug : `${element.position}-${element.slug}`
++function buildTreeItem(element: DomainTreeRow, root: string, filtering: boolean): vscode.TreeItem {
++  const label = element.position === null ? element.label : `${element.position}-${element.label}`
+   const item = new vscode.TreeItem(
+     label,
+     element.children.length === 0
+@@ -87,19 +87,21 @@ function buildTreeItem(
+         ? vscode.TreeItemCollapsibleState.Expanded
+         : vscode.TreeItemCollapsibleState.Collapsed
+   )
+-  item.id = filtering ? `filtered:${element.slug}` : element.slug
++  item.id = filtering ? `filtered:${element.key}` : element.key
+   item.count = element.children.length === 0 ? undefined : element.children.length
+   item.description = element.persona ?? undefined
+   item.tooltip = [
+-    element.slug,
++    element.label,
+     element.persona === null ? "no persona answers for this domain" : `Owned by ${element.persona}`,
+-    element.relPath,
++    element.at === null ? NO_DOCUMENT : relative(root, element.at),
+   ].join("\n")
+-  if (tree !== undefined) {
++  // A ROW NAMING NO DOCUMENT OPENS NONE. Joining the checkout to an empty path opened the checkout
++  // itself, which is what a row carrying no path used to do.
++  if (element.at !== null) {
+     item.command = {
+       command: OPEN_COMMAND,
+       title: "Open this domain document",
+-      arguments: [vscode.Uri.file(documentPath(tree, element)), { preview: true }],
++      arguments: [vscode.Uri.file(element.at), { preview: true }],
+     }
+   }
+   return item
+diff --git a/editor-extension/domain-tree-view/domain-tree-view.module.ts b/editor-extension/domain-tree-view/domain-tree-view.module.ts
+index 2780b7abc696128fcf18f89ba4f37fe7980ca04b..4fd0c61306080b8e5931754ed136a5133321a343 100644
+--- a/editor-extension/domain-tree-view/domain-tree-view.module.ts
++++ b/editor-extension/domain-tree-view/domain-tree-view.module.ts
+@@ -17,7 +17,7 @@ export const domainTreeView = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row is matched against its slug and its persona.",
++      statement: "A row is matched against its label and its persona.",
+     },
+     {
+       invariantKind: "departure",
+@@ -30,7 +30,7 @@ export const domainTreeView = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row a sequence placed carries that place ahead of its slug.",
++      statement: "A row a sequence placed carries that place ahead of its label.",
+     },
+     {
+       invariantKind: "departure",
+@@ -42,7 +42,15 @@ export const domainTreeView = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row opens the document that row's path names.",
++      statement: "A row opens the whole path that row carries rather than one composed here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A row naming no document opens nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A tooltip says a row's path against the checkout rather than whole.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/editor-extension.workspace-package.ts b/editor-extension/editor-extension.workspace-package.ts
+index e1e019d5f53c777f5da22a882382786f555fd42c..f7b463e3a83c7f8b2a5726e5759853caacdd0da4 100644
+--- a/editor-extension/editor-extension.workspace-package.ts
++++ b/editor-extension/editor-extension.workspace-package.ts
+@@ -52,13 +52,11 @@ export const editorExtension = {
+     "module/transcript-sources",
+     "module/transcript-view",
+     "module/turn-color-scheme",
+-    "module/domain-tree-reading",
+     "module/domain-tree-view",
+     "module/domain-tree-panel",
+     "module/page-tree-reading",
+     "module/page-tree-view",
+     "module/page-tree-panel",
+-    "module/work-tree-rows",
+     "module/work-tree-reading",
+     "module/work-tree-view",
+     "module/work-tree-panel",
+diff --git a/editor-extension/work-tree-panel/work-tree-panel.module.code.ts b/editor-extension/work-tree-panel/work-tree-panel.module.code.ts
+index 2af40cf378ef3de3e623eda5b16e69ec8c9b08f8..bcb0d9e6ef1457d15395da34351a2b03cf62608d 100644
+--- a/editor-extension/work-tree-panel/work-tree-panel.module.code.ts
++++ b/editor-extension/work-tree-panel/work-tree-panel.module.code.ts
+@@ -1,4 +1,3 @@
+-import { relative } from "node:path"
+ import * as vscode from "vscode"
+ import {
+   followState,
+@@ -9,7 +8,6 @@ import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
+ import { recordObservation } from "../observation-store/observation-store.module.code.ts"
+ import { REFRESH_COMMAND, VIEW_ID } from "../work-tree-ids/work-tree-ids.module.code.ts"
+ import { countRows, workKeys } from "../work-tree-reading/work-tree-reading.module.code.ts"
+-import type { WorkNode, WorkTree } from "../work-tree-rows/work-tree-rows.module.code.ts"
+ import {
+   createWorkDecorationProvider,
+   createWorkTree,
+@@ -18,34 +16,17 @@ import {
+ const FEATURE = "work-tree"
+ const SLUG = "work-tree"
+ 
+-// The file spells a row the way every state file spells one, and the panel spells it another way.
+-// The document is the one field that differs in kind rather than in name: the file carries the
+-// whole path, the panel carries it against the repository, and `documentPath` puts them back
+-// together. Taking the repository away from the path here is what makes that join exact.
+-//
+-// A color is carried on as the name it is. The decoration provider puts that name in a uri path
+-// and matches it against the palette, so a color turned into something drawable here would fail
+-// that match and leave the row uncolored.
+-function asNode(row: WorkTreeRow, root: string): WorkNode {
+-  return {
+-    key: row.key,
+-    label: row.label,
+-    relPath: row.at === null ? null : relative(root, row.at),
+-    detail: row.detail,
+-    note: row.note,
+-    color: row.color,
+-    children: row.children.map((child) => asNode(child, root)),
+-  }
+-}
+-
+ let output: vscode.OutputChannel
+ 
+ export async function activate(context: vscode.ExtensionContext): Promise<undefined> {
+   output = vscode.window.createOutputChannel("Ops: Work Tree")
+   context.subscriptions.push(output)
+ 
+-  const tree = createWorkTree()
+-  const view = vscode.window.createTreeView<WorkNode>(VIEW_ID, {
++  // THE FILE'S OWN ROW IS WHAT IS DRAWN. The row already names its document by a whole path and
++  // carries its color as the name the decoration matches, so nothing between the file and the view
++  // spells either a second way.
++  const tree = createWorkTree(akashaRoot())
++  const view = vscode.window.createTreeView<WorkTreeRow>(VIEW_ID, {
+     treeDataProvider: tree.provider,
+     showCollapseAll: true,
+     showExpandAll: true,
+@@ -64,16 +45,14 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
+   }
+ 
+   const draw = (held: WorkTreeState, trigger: string): undefined => {
+-    const root = akashaRoot()
+     try {
+-      const next: WorkTree = { repo: root, roots: held.roots.map((row) => asNode(row, root)) }
+-      tree.replace(next)
+-      const rows = countRows(next.roots)
++      tree.replace(held.roots)
++      const rows = countRows(held.roots)
+       total = rows
+       describe()
+       view.badge = { value: rows, tooltip: rows === 1 ? "1 row" : `${rows} rows` }
+       view.message = undefined
+-      const keys = workKeys(next.roots)
++      const keys = workKeys(held.roots)
+       const duplicated = keys.filter((key, at) => keys.indexOf(key) !== at)
+       output.appendLine(`[${trigger}] ${rows} initiative(s)`)
+       recordObservation(FEATURE, {
+diff --git a/editor-extension/work-tree-panel/work-tree-panel.module.ts b/editor-extension/work-tree-panel/work-tree-panel.module.ts
+index a52f546c6f504cf9ea56cb6049f475219d2fc6e0..889b15c6f32d997f35be6d4f90588e32a608e091 100644
+--- a/editor-extension/work-tree-panel/work-tree-panel.module.ts
++++ b/editor-extension/work-tree-panel/work-tree-panel.module.ts
+@@ -25,11 +25,7 @@ export const workTreePanel = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row is spelled for the panel from the row the file carries.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A row's document is carried against the repository the panel was given.",
++      statement: "The rows the file carries are drawn as they are rather than spelled again.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/work-tree-reading/work-tree-reading.module.code.ts b/editor-extension/work-tree-reading/work-tree-reading.module.code.ts
+index c89a86865846ca33c0abdfe1f76c002cf1823ce3..14b38112e7b669305e934724a6c34fbd02e80b09 100644
+--- a/editor-extension/work-tree-reading/work-tree-reading.module.code.ts
++++ b/editor-extension/work-tree-reading/work-tree-reading.module.code.ts
+@@ -1,7 +1,4 @@
+-import * as path from "node:path"
+-import type { WorkNode, WorkTree } from "../work-tree-rows/work-tree-rows.module.code.ts"
+-
+-export function countRows(nodes: readonly WorkNode[]): number {
++export function countRows(nodes: readonly WorkTreeRow[]): number {
+   let total = 0
+   for (const node of nodes) {
+     total += 1 + countRows(node.children)
+@@ -9,12 +6,6 @@ export function countRows(nodes: readonly WorkNode[]): number {
+   return total
+ }
+ 
+-export function workKeys(nodes: readonly WorkNode[]): readonly string[] {
++export function workKeys(nodes: readonly WorkTreeRow[]): readonly string[] {
+   return nodes.flatMap((node) => [node.key, ...workKeys(node.children)])
+ }
+-
+-// A ROW REPRESENTING NOTHING DECLARED OPENS NOTHING. Every other row names its document by a path
+-// under the checkout the tree carries, so the two are joined here rather than at each caller.
+-export function documentPath(tree: WorkTree, node: WorkNode): string | undefined {
+-  return node.relPath === null ? undefined : path.join(tree.repo, node.relPath)
+-}
+diff --git a/editor-extension/work-tree-reading/work-tree-reading.module.ts b/editor-extension/work-tree-reading/work-tree-reading.module.ts
+index 0235ca75f4a3c8e50d32bd821765477a02f1f24d..0556c57ec444f3d3b577cf9ef6cb62d7d6d14d64 100644
+--- a/editor-extension/work-tree-reading/work-tree-reading.module.ts
++++ b/editor-extension/work-tree-reading/work-tree-reading.module.ts
+@@ -4,7 +4,7 @@ export const workTreeReading = {
+   id: "01a06867-dbcb-78e4-a9b3-4a59f26c06ca",
+   pageTypeSlug: "module",
+   slug: "work-tree-reading",
+-  definition: "what is counted, keyed and opened from work tree rows already in hand",
++  definition: "what is counted and keyed from work tree rows already in hand",
+   code: "ts",
+   invariants: [
+     {
+@@ -15,14 +15,6 @@ export const workTreeReading = {
+       invariantKind: "departure",
+       statement: "The keys are answered with a row before every row beneath that row.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A row's document is the checkout joined to the path that row carries.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A row carrying no path opens no document.",
+-    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here composes a tree or reads an answer.",
+diff --git a/editor-extension/work-tree-rows/work-tree-rows.module.code.ts b/editor-extension/work-tree-rows/work-tree-rows.module.code.ts
+deleted file mode 100644
+index b387cf834b0579e67f0f177b119a8e371e3e778a..0000000000000000000000000000000000000000
+--- a/editor-extension/work-tree-rows/work-tree-rows.module.code.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-// THE SHAPE OF THE WORK TREE, HELD APART FROM BOTH SIDES THAT HANDLE IT.
+-//
+-// The panel composes these from the rows the service writes, and the view draws them. Holding the
+-// shape here leaves neither of those naming the other, so each can land on its own.
+-
+-export interface WorkNode {
+-  readonly key: string
+-  readonly label: string
+-  readonly relPath: string | null
+-  readonly detail: string | null
+-  readonly note: string | null
+-  readonly color: string | null
+-  readonly children: readonly WorkNode[]
+-}
+-
+-export interface WorkTree {
+-  readonly repo: string
+-  readonly roots: readonly WorkNode[]
+-}
+diff --git a/editor-extension/work-tree-rows/work-tree-rows.module.ts b/editor-extension/work-tree-rows/work-tree-rows.module.ts
+deleted file mode 100644
+index ce2859c5464df27a41d9bff156f4103cd8c135ac..0000000000000000000000000000000000000000
+--- a/editor-extension/work-tree-rows/work-tree-rows.module.ts
++++ /dev/null
+@@ -1,39 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const workTreeRows = {
+-  id: "01a06867-dbcb-7799-8db6-bc35df7360fc",
+-  pageTypeSlug: "module",
+-  slug: "work-tree-rows",
+-  definition: "the shape of a work tree row, held apart from both sides that handle it",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A row is keyed by the slug the initiative declares rather than by its file name.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A row representing nothing declared carries no path and opens no document.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A row carries the color its turn state is drawn in, named rather than specified.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A row nothing states carries no color.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The shape sits here so the panel and the view share one edge rather than two.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here reads an answer.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here runs.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/editor-extension/work-tree-view/work-tree-view.module.code.ts b/editor-extension/work-tree-view/work-tree-view.module.code.ts
+index 36bbd244ccc21664359743ce69d3ab09e7fc3df8..1502bb5bab6965ff45ed1da70e669a43f1c9386f 100644
+--- a/editor-extension/work-tree-view/work-tree-view.module.code.ts
++++ b/editor-extension/work-tree-view/work-tree-view.module.code.ts
+@@ -1,11 +1,10 @@
++import { relative } from "node:path"
+ import * as vscode from "vscode"
+ import { filterTree, textMatches } from "../tree-filter/tree-filter.module.code.ts"
+ import {
+   TURN_SCHEME_PATH,
+   turnColorIn,
+ } from "../turn-color-scheme/turn-color-scheme.module.code.ts"
+-import { documentPath } from "../work-tree-reading/work-tree-reading.module.code.ts"
+-import type { WorkNode, WorkTree } from "../work-tree-rows/work-tree-rows.module.code.ts"
+ 
+ const WORK_SCHEME = "ops-work"
+ 
+@@ -14,28 +13,33 @@ const OPEN_COMMAND = "vscode.open"
+ const NO_DOCUMENT = "a sentinel, representing what declared nothing — it opens no document"
+ 
+ export interface WorkTreeView {
+-  readonly provider: vscode.TreeDataProvider<WorkNode>
+-  readonly replace: (tree: WorkTree) => undefined
++  readonly provider: vscode.TreeDataProvider<WorkTreeRow>
++  readonly replace: (roots: readonly WorkTreeRow[]) => undefined
+   readonly filter: (pattern: string) => undefined
+   readonly matchCount: () => number | undefined
+   readonly dispose: () => undefined
+ }
+ 
+-export function createWorkTree(): WorkTreeView {
++// THE ROW THE FILE CARRIES IS THE ROW DRAWN, WITH NOTHING SPELLED AGAIN BETWEEN THE TWO.
++//
++// The row already names its document by a whole path, so the checkout is wanted for one thing
++// only: shortening that path for the tooltip, which is done for the rows drawn rather than for
++// every row held.
++export function createWorkTree(root: string): WorkTreeView {
+   const emitter = new vscode.EventEmitter<undefined>()
+-  let tree: WorkTree | undefined
++  let held: readonly WorkTreeRow[] = []
+   let pattern = ""
+-  let narrowed: readonly WorkNode[] | undefined
++  let narrowed: readonly WorkTreeRow[] | undefined
+   let matched: number | undefined
+ 
+   const narrow = (): undefined => {
+-    if (pattern.trim() === "" || tree === undefined) {
++    if (pattern.trim() === "") {
+       narrowed = undefined
+       matched = undefined
+       return undefined
+     }
+-    const result = filterTree<WorkNode>(
+-      tree.roots,
++    const result = filterTree<WorkTreeRow>(
++      held,
+       (node) => node.children,
+       (node) => textMatches(pattern, node.label, node.detail, node.note),
+       (node, children) => ({ ...node, children })
+@@ -45,18 +49,18 @@ export function createWorkTree(): WorkTreeView {
+     return undefined
+   }
+ 
+-  const provider: vscode.TreeDataProvider<WorkNode> = {
++  const provider: vscode.TreeDataProvider<WorkTreeRow> = {
+     onDidChangeTreeData: emitter.event,
+-    getChildren: (element?: WorkNode) => [
+-      ...(element === undefined ? (narrowed ?? tree?.roots ?? []) : element.children),
++    getChildren: (element?: WorkTreeRow) => [
++      ...(element === undefined ? (narrowed ?? held) : element.children),
+     ],
+-    getTreeItem: (element: WorkNode) => buildTreeItem(element, tree, narrowed !== undefined),
++    getTreeItem: (element: WorkTreeRow) => buildTreeItem(element, root, narrowed !== undefined),
+   }
+ 
+   return {
+     provider,
+-    replace: (next: WorkTree) => {
+-      tree = next
++    replace: (next: readonly WorkTreeRow[]) => {
++      held = next
+       narrow()
+       emitter.fire(undefined)
+       return undefined
+@@ -78,11 +82,7 @@ export function createWorkTree(): WorkTreeView {
+   }
+ }
+ 
+-function buildTreeItem(
+-  element: WorkNode,
+-  tree: WorkTree | undefined,
+-  filtering: boolean
+-): vscode.TreeItem {
++function buildTreeItem(element: WorkTreeRow, root: string, filtering: boolean): vscode.TreeItem {
+   const item = new vscode.TreeItem(
+     element.label,
+     element.children.length === 0
+@@ -101,15 +101,19 @@ function buildTreeItem(
+       path: `/${TURN_SCHEME_PATH}/${element.color}/${element.key}`,
+     })
+   }
+-  item.tooltip = [element.label, element.detail, element.note, element.relPath ?? NO_DOCUMENT]
++  item.tooltip = [
++    element.label,
++    element.detail,
++    element.note,
++    element.at === null ? NO_DOCUMENT : relative(root, element.at),
++  ]
+     .filter((line): line is string => line !== null)
+     .join("\n")
+-  const absolute = tree === undefined ? undefined : documentPath(tree, element)
+-  if (absolute !== undefined) {
++  if (element.at !== null) {
+     item.command = {
+       command: OPEN_COMMAND,
+       title: "Open this document",
+-      arguments: [vscode.Uri.file(absolute), { preview: true }],
++      arguments: [vscode.Uri.file(element.at), { preview: true }],
+     }
+   }
+   return item
+diff --git a/editor-extension/work-tree-view/work-tree-view.module.ts b/editor-extension/work-tree-view/work-tree-view.module.ts
+index 915e7a6800885f7436c0836e5fdb04a5bb0ec313..8b1d44907caa914c6bf211bcec4cea9e165f4824 100644
+--- a/editor-extension/work-tree-view/work-tree-view.module.ts
++++ b/editor-extension/work-tree-view/work-tree-view.module.ts
+@@ -53,6 +53,14 @@ export const workTreeView = {
+       statement:
+         "A row opening no document says in its tooltip that the row represents nothing declared.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A row opens the whole path that row carries rather than one composed here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A tooltip says a row's path against the checkout rather than whole.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here reads the harness.",
