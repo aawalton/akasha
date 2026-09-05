@@ -51,7 +51,7 @@ export const googleEmail = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here decides what becomes of a message that arrives.",
+      statement: "Nothing here decides the fate of a message that arrives.",
     },
   ],
 } as const satisfies WorkspacePackage
