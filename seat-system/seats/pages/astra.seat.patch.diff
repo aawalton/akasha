@@ -268,6 +268,41 @@ index 0000000000000000000000000000000000000000..adc32eb111ad4e1f625a59f7a3afec26
 +    "module/url",
 +  ],
 +} as const satisfies Domain
+diff --git a/pages/core/schema/pages-core-schema.domain.ts b/pages/core/schema/pages-core-schema.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ce1687fe4dd3612923f7add44f4996a32d7a0bda
+--- /dev/null
++++ b/pages/core/schema/pages-core-schema.domain.ts
+@@ -0,0 +1,29 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesCoreSchema = {
++  id: "01a071ca-5f72-7273-a9b2-0c9e1075f986",
++  pageTypeSlug: "domain",
++  slug: "pages-core-schema",
++  definition: "the shape a zod validator names a config value must have",
++  partSlugs: [
++    "module/action-button-config",
++    "module/badge-display",
++    "module/coherence-rules",
++    "module/color-rule",
++    "module/content-tier",
++    "module/cross-type-predicates",
++    "module/detail-config",
++    "module/listing-config",
++    "module/media-config",
++    "module/nav-config",
++    "module/pages",
++    "module/page-type-inheritance",
++    "module/property-config-schemas",
++    "module/quick-add",
++    "module/resolve-select-options",
++    "module/select-option-create",
++    "module/sequence-config",
++    "module/view-data",
++    "module/view-data-locked",
++  ],
++} as const satisfies Domain
 diff --git a/pages/core/view-state/pages-core-view-state.domain.ts b/pages/core/view-state/pages-core-view-state.domain.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..8b05c40bce95f6dc5fbcced268626057ade67de7
