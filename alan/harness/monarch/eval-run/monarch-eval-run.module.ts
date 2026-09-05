@@ -14,8 +14,7 @@ export const monarchEvalRun = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A run file's path is never defaulted to somewhere plausible, because the holdout guard reads a misplaced file as a set never seen.",
+      statement: "A run file's path is never defaulted to somewhere plausible.",
     },
     {
       invariantKind: "departure",
