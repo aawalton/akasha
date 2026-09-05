@@ -1,5 +1,5 @@
 diff --git a/seat-system/seat-start/seat-start.module.ts b/seat-system/seat-start/seat-start.module.ts
-index 8126f59962911af4828ec1559d50f1f23259cb22..535b1714ea1ca0f22e5baf114344162da22b091e 100644
+index 8126f59962911af4828ec1559d50f1f23259cb22..5c27bb65ccc06faa263e216f902dbf8afa07ae46 100644
 --- a/seat-system/seat-start/seat-start.module.ts
 +++ b/seat-system/seat-start/seat-start.module.ts
 @@ -9,7 +9,8 @@ export const seatStart = {
@@ -21,3 +21,12 @@ index 8126f59962911af4828ec1559d50f1f23259cb22..535b1714ea1ca0f22e5baf114344162d
      },
      {
        invariantKind: "departure",
+@@ -36,7 +37,7 @@ export const seatStart = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A headless start answers the pid it launched and an interactive one answers none.",
++        "A headless start answers the pid that start launched and an interactive one answers none.",
+     },
+   ],
+ } as const satisfies Module
