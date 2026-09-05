@@ -18,7 +18,7 @@ export const inventoryExplainCapabilities = {
     },
     {
       invariantKind: "departure",
-      statement: "Every item in every bag is reached with the place it is held in.",
+      statement: "Every item in every bag is reached with the place that item is held in.",
     },
     {
       invariantKind: "absence",
