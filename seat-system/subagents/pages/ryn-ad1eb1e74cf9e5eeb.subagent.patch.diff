@@ -1,0 +1,14 @@
+diff --git a/alan/tracking/tracking-captures/tracking-capture.page-type.ts b/alan/tracking/tracking-captures/tracking-capture.page-type.ts
+index e254aebf760899c0c25b15b58816041e8f944b92..bdc171c11d217c8b531a1c4712b8401d0af699d0 100644
+--- a/alan/tracking/tracking-captures/tracking-capture.page-type.ts
++++ b/alan/tracking/tracking-captures/tracking-capture.page-type.ts
+@@ -13,7 +13,8 @@ export const trackingCapture = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Where a value came from is a page rather than a word on the field that holds it.",
++      statement:
++        "Where a value came from is a page rather than a word on the field that holds that value.",
+     },
+     {
+       invariantKind: "absence",
