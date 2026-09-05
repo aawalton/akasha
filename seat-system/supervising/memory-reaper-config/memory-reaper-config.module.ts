@@ -21,7 +21,8 @@ export const memoryReaperConfig = {
     },
     {
       invariantKind: "departure",
-      statement: "The reaper says every ceiling it is running under before its first tick.",
+      statement:
+        "The reaper says every ceiling that reaper is running under before its first tick.",
     },
   ],
 } as const satisfies Module
