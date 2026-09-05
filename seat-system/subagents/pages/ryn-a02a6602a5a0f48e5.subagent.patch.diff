@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/mobile-commands/mobile-sim-teardown/mobile-sim-teardown.command.ts b/mobile-commands/mobile-sim-teardown/mobile-sim-teardown.command.ts
+index f8c426ed4586b11c6b2211bceeaf75bff0938d9c..dd2a87e275b2a4ad4c5ee165af4fceb88030e43b 100644
+--- a/mobile-commands/mobile-sim-teardown/mobile-sim-teardown.command.ts
++++ b/mobile-commands/mobile-sim-teardown/mobile-sim-teardown.command.ts
+@@ -27,7 +27,7 @@ export const mobileSimTeardown = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is written down is cleared whether or not the session was still there.",
++      statement: "The session record is cleared whether or not the session was still there.",
+     },
+     {
+       invariantKind: "absence",
