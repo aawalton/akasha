@@ -22,7 +22,7 @@ export const checkCost = {
     {
       invariantKind: "departure",
       statement:
-        "The high-water mark is forgotten before a run, so the mark after it is that run's own peak.",
+        "The high-water mark is forgotten before a run, so the mark after that run is that run's own peak.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
-      statement: "A line is appended to the last numbered file rather than rewriting it.",
+      statement: "A line is appended to the last numbered file rather than rewriting that file.",
     },
     {
       invariantKind: "departure",
