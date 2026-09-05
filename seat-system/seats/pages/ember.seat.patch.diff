@@ -1,0 +1,317 @@
+diff --git a/temper/temper-addon-data/addon-data-writes-rules/addon-data-writes-rules.module.code.ts b/temper/temper-addon-data/addon-data-writes-rules/addon-data-writes-rules.module.code.ts
+index e42b53519a4c818f28e237478212809afbecebdd..18f072ad1227d59580cfc0fccdb9a7bc670804ef 100644
+--- a/temper/temper-addon-data/addon-data-writes-rules/addon-data-writes-rules.module.code.ts
++++ b/temper/temper-addon-data/addon-data-writes-rules/addon-data-writes-rules.module.code.ts
+@@ -16,7 +16,7 @@ export function buildAddonDataWritesRules(
+     w(
+       WEB_ENGINE_INVENTORY_DIR,
+       "temper-rule-template.generated.ts",
+-      generateTemperRuleTemplate(p.ruleTemplatePages.rows)
++      generateTemperRuleTemplate(p.ruleTemplatePages.rows, p.conditionFieldPages.rows)
+     ),
+   ]
+ }
+diff --git a/temper/temper-addon-generators/temper-rule-template/temper-rule-template.module.code.ts b/temper/temper-addon-generators/temper-rule-template/temper-rule-template.module.code.ts
+index 77d046e0ea367700400dbfbdbf2d9b9ec3adfec6..6f26804250f3fafb88b4f65b8aef7a1826ae17ee 100644
+--- a/temper/temper-addon-generators/temper-rule-template/temper-rule-template.module.code.ts
++++ b/temper/temper-addon-generators/temper-rule-template/temper-rule-template.module.code.ts
+@@ -30,7 +30,17 @@ interface ParsedRuleTemplate {
+   conditions?: unknown
+ }
+ 
+-function parseRuleTemplate(row: Page): ParsedRuleTemplate {
++function keyBySlug(rows: readonly Page[]): ReadonlyMap<string, string> {
++  const held = new Map<string, string>()
++  for (const row of rows) {
++    const slug = row.slug
++    const key = row.key
++    if (typeof slug === "string" && typeof key === "string") held.set(slug, key)
++  }
++  return held
++}
++
++function parseRuleTemplate(row: Page, keyOf: ReadonlyMap<string, string>): ParsedRuleTemplate {
+   if (row.title === null) {
+     throw new Error(`temper-rule-template row ${row.id} has null title`)
+   }
+@@ -62,7 +72,7 @@ function parseRuleTemplate(row: Page): ParsedRuleTemplate {
+   if (typeof eav.stockScope === "string" && eav.stockScope.length > 0) {
+     out.stockScope = eav.stockScope
+   }
+-  const conditions = conditionsOf(eav.conditions)
++  const conditions = conditionsOf(eav.conditions, keyOf, eav.key)
+   if (conditions !== null) {
+     out.conditions = conditions
+   }
+@@ -77,7 +87,11 @@ function spelt(value: string): unknown {
+   }
+ }
+ 
+-function conditionsOf(held: unknown): Record<string, unknown> | null {
++function conditionsOf(
++  held: unknown,
++  keyOf: ReadonlyMap<string, string>,
++  rule: string
++): Record<string, unknown> | null {
+   if (!Array.isArray(held)) return null
+   const out: Record<string, unknown> = {}
+   for (const one of held) {
+@@ -85,7 +99,13 @@ function conditionsOf(held: unknown): Record<string, unknown> | null {
+     const field = row.conditionField
+     const value = row.conditionValue
+     if (typeof field !== "string" || field === "" || typeof value !== "string") continue
+-    out[field] = spelt(value)
++    const key = keyOf.get(field)
++    if (key === undefined) {
++      throw new Error(
++        `temper-rule-template ${rule} names condition field ${field}, which no temper-condition-field page holds`
++      )
++    }
++    out[key] = spelt(value)
+   }
+   return Object.keys(out).length === 0 ? null : out
+ }
+@@ -112,8 +132,12 @@ function emitRuleEntry(rule: ParsedRuleTemplate): string {
+   return lines.join("\n")
+ }
+ 
+-export function generateTemperRuleTemplate(rows: readonly Page[]): string {
+-  const parsed = rows.map(parseRuleTemplate)
++export function generateTemperRuleTemplate(
++  rows: readonly Page[],
++  conditionFieldRows: readonly Page[]
++): string {
++  const keyOf = keyBySlug(conditionFieldRows)
++  const parsed = rows.map((row) => parseRuleTemplate(row, keyOf))
+ 
+   const sorted = [...parsed].sort((a, b) => {
+     const delta = a.displayOrder - b.displayOrder
+@@ -132,6 +156,9 @@ export function generateTemperRuleTemplate(rows: readonly Page[]): string {
+  * none are active by default. Order matters — rules are evaluated
+  * top-to-bottom, first-match-wins.
+  *
++ * A condition names its field by the slug of a temper-condition-field
++ * page, and the key emitted here is the one that page holds.
++ *
+  * DO NOT EDIT — regenerate with: ops temper addon-data generate
+  */
+ 
+diff --git a/temper/temper-progress/rule-templates/pages/companion-epic-nothing/companion-epic-nothing.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/companion-epic-nothing/companion-epic-nothing.temper-rule-template.conditions.jsonl
+index fe1b66257bfee47713fe1e8e7cb63fff66bbb99a..f32e0b2e421495fe23e437c63bc84e41a31e00b7 100644
+--- a/temper/temper-progress/rule-templates/pages/companion-epic-nothing/companion-epic-nothing.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/companion-epic-nothing/companion-epic-nothing.temper-rule-template.conditions.jsonl
+@@ -1,2 +1,2 @@
+-{"id":"01a05fd0-4d90-7ed2-9606-1a401e5c736d","conditionField":"qualityOp","conditionValue":">="}
+-{"id":"01a05fd0-4d90-7788-b815-00e5231ea88f","conditionField":"maxQuality","conditionValue":"4"}
++{"id":"01a05fd0-4d90-7ed2-9606-1a401e5c736d","conditionField":"quality-op","conditionValue":">="}
++{"id":"01a05fd0-4d90-7788-b815-00e5231ea88f","conditionField":"max-quality","conditionValue":"4"}
+diff --git a/temper/temper-progress/rule-templates/pages/companion-green-sell/companion-green-sell.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/companion-green-sell/companion-green-sell.temper-rule-template.conditions.jsonl
+index bdfd0bf9a90fab0bf66de8174560a264ba94f77f..1eccbf563a24b1da43a40b04fd9812fcd313554b 100644
+--- a/temper/temper-progress/rule-templates/pages/companion-green-sell/companion-green-sell.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/companion-green-sell/companion-green-sell.temper-rule-template.conditions.jsonl
+@@ -1 +1 @@
+-{"id":"01a05fd0-4d90-7eaa-bf44-efe84cc68b25","conditionField":"maxQuality","conditionValue":"3"}
++{"id":"01a05fd0-4d90-7eaa-bf44-efe84cc68b25","conditionField":"max-quality","conditionValue":"3"}
+diff --git a/temper/temper-progress/rule-templates/pages/containers-open/containers-open.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/containers-open/containers-open.temper-rule-template.conditions.jsonl
+index 9cfd0e46488bca4102ba87bc3f6706abfadff685..c7c5a27ad29f568ce2223a5f170a86065db20240 100644
+--- a/temper/temper-progress/rule-templates/pages/containers-open/containers-open.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/containers-open/containers-open.temper-rule-template.conditions.jsonl
+@@ -1,2 +1,2 @@
+-{"id":"01a05fd0-4d90-7417-bb46-36516d6973c6","conditionField":"canOpen","conditionValue":"can-open"}
+-{"id":"01a05fd0-4d90-7d61-a701-693217ac2892","conditionField":"canGiveMaxRewards","conditionValue":"can-give-max-rewards"}
++{"id":"01a05fd0-4d90-7417-bb46-36516d6973c6","conditionField":"can-open","conditionValue":"can-open"}
++{"id":"01a05fd0-4d90-7d61-a701-693217ac2892","conditionField":"can-give-max-rewards","conditionValue":"can-give-max-rewards"}
+diff --git a/temper/temper-progress/rule-templates/pages/drink-normal-sell/drink-normal-sell.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/drink-normal-sell/drink-normal-sell.temper-rule-template.conditions.jsonl
+index 305e2a4eb96268c832f10891f1c42918f3059dbb..d85a08989afe64090b3962de1b118734187d539a 100644
+--- a/temper/temper-progress/rule-templates/pages/drink-normal-sell/drink-normal-sell.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/drink-normal-sell/drink-normal-sell.temper-rule-template.conditions.jsonl
+@@ -1,2 +1,2 @@
+ {"id":"01a05fd0-4d90-73f1-9a80-212149202b78","conditionField":"crafted","conditionValue":"not-crafted"}
+-{"id":"01a05fd0-4d90-752a-a02b-971b519ed143","conditionField":"maxQuality","conditionValue":"1"}
++{"id":"01a05fd0-4d90-752a-a02b-971b519ed143","conditionField":"max-quality","conditionValue":"1"}
+diff --git a/temper/temper-progress/rule-templates/pages/food-normal-sell/food-normal-sell.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/food-normal-sell/food-normal-sell.temper-rule-template.conditions.jsonl
+index a3a6b3a8b5068768bbefa54b0fd393696fe5fecb..cf0f10dd885a93e92bbc8111450a450c67a9e7b0 100644
+--- a/temper/temper-progress/rule-templates/pages/food-normal-sell/food-normal-sell.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/food-normal-sell/food-normal-sell.temper-rule-template.conditions.jsonl
+@@ -1,2 +1,2 @@
+ {"id":"01a05fd0-4d90-7999-ad55-2849b35ad7a0","conditionField":"crafted","conditionValue":"not-crafted"}
+-{"id":"01a05fd0-4d90-7036-8e60-77b250f9f9f2","conditionField":"maxQuality","conditionValue":"1"}
++{"id":"01a05fd0-4d90-7036-8e60-77b250f9f9f2","conditionField":"max-quality","conditionValue":"1"}
+diff --git a/temper/temper-progress/rule-templates/pages/gold-stock/gold-stock.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/gold-stock/gold-stock.temper-rule-template.conditions.jsonl
+index 54b828a8cd1257ad611419f7b235aca3e6b8d565..f0b3d1205faf3634236308964b1472ea32b56108 100644
+--- a/temper/temper-progress/rule-templates/pages/gold-stock/gold-stock.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/gold-stock/gold-stock.temper-rule-template.conditions.jsonl
+@@ -1 +1 @@
+-{"id":"01a05fd0-4d90-7dbd-8dd6-078bc1589e38","conditionField":"targetQuantity","conditionValue":"1000000"}
++{"id":"01a05fd0-4d90-7dbd-8dd6-078bc1589e38","conditionField":"target-quantity","conditionValue":"1000000"}
+diff --git a/temper/temper-progress/rule-templates/pages/inspire-current/inspire-current.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/inspire-current/inspire-current.temper-rule-template.conditions.jsonl
+index e432b7158d84042dbf4c6195caf410dabe73cc2a..e2811840d03f9419c5bb0e21c61df490c6b11ddd 100644
+--- a/temper/temper-progress/rule-templates/pages/inspire-current/inspire-current.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/inspire-current/inspire-current.temper-rule-template.conditions.jsonl
+@@ -1 +1 @@
+-{"id":"01a05fd0-4d90-7de5-a0de-ede76baf5f44","conditionField":"canInspire","conditionValue":"can-inspire"}
++{"id":"01a05fd0-4d90-7de5-a0de-ede76baf5f44","conditionField":"can-inspire","conditionValue":"can-inspire"}
+diff --git a/temper/temper-progress/rule-templates/pages/inspire-stolen/inspire-stolen.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/inspire-stolen/inspire-stolen.temper-rule-template.conditions.jsonl
+index 72e339976980fad5eec278a1911a560ce8bcec34..86b0aa2663bf02ff01c3f3a5c496fa17f5cbb8ce 100644
+--- a/temper/temper-progress/rule-templates/pages/inspire-stolen/inspire-stolen.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/inspire-stolen/inspire-stolen.temper-rule-template.conditions.jsonl
+@@ -1,2 +1,2 @@
+ {"id":"01a05fd0-4d90-7622-b07e-7388dff90d6d","conditionField":"stolen","conditionValue":"stolen"}
+-{"id":"01a05fd0-4d90-7d6c-8443-8ec993f9676e","conditionField":"canInspire","conditionValue":"can-inspire"}
++{"id":"01a05fd0-4d90-7d6c-8443-8ec993f9676e","conditionField":"can-inspire","conditionValue":"can-inspire"}
+diff --git a/temper/temper-progress/rule-templates/pages/legendary-nothing/legendary-nothing.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/legendary-nothing/legendary-nothing.temper-rule-template.conditions.jsonl
+index cf0a4ced93f00db441143699bebd90f51e6ec562..8878c916570feab103c4fa208dd7284f563abfa8 100644
+--- a/temper/temper-progress/rule-templates/pages/legendary-nothing/legendary-nothing.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/legendary-nothing/legendary-nothing.temper-rule-template.conditions.jsonl
+@@ -1,2 +1,2 @@
+-{"id":"01a05fd0-4d90-71ad-b7a5-778cb70ab068","conditionField":"qualityOp","conditionValue":">="}
+-{"id":"01a05fd0-4d90-7903-b1f0-c5257a21d5f7","conditionField":"maxQuality","conditionValue":"5"}
++{"id":"01a05fd0-4d90-71ad-b7a5-778cb70ab068","conditionField":"quality-op","conditionValue":">="}
++{"id":"01a05fd0-4d90-7903-b1f0-c5257a21d5f7","conditionField":"max-quality","conditionValue":"5"}
+diff --git a/temper/temper-progress/rule-templates/pages/low-quality-sell/low-quality-sell.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/low-quality-sell/low-quality-sell.temper-rule-template.conditions.jsonl
+index 67adfa63701a53d972183690b46a08bb89e5bb66..bca233d1db157c2d6b4212284f122c6e55f402c5 100644
+--- a/temper/temper-progress/rule-templates/pages/low-quality-sell/low-quality-sell.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/low-quality-sell/low-quality-sell.temper-rule-template.conditions.jsonl
+@@ -1 +1 @@
+-{"id":"01a05fd0-4d90-7b76-8d98-7f657e7c485b","conditionField":"maxQuality","conditionValue":"2"}
++{"id":"01a05fd0-4d90-7b76-8d98-7f657e7c485b","conditionField":"max-quality","conditionValue":"2"}
+diff --git a/temper/temper-progress/rule-templates/pages/poisons-normal-sell/poisons-normal-sell.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/poisons-normal-sell/poisons-normal-sell.temper-rule-template.conditions.jsonl
+index 904c1e7d9119108131dfa64264f7ee54da9318a8..64879057abf8c3d2c9a37cc7bf4e245ec93f5059 100644
+--- a/temper/temper-progress/rule-templates/pages/poisons-normal-sell/poisons-normal-sell.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/poisons-normal-sell/poisons-normal-sell.temper-rule-template.conditions.jsonl
+@@ -1,2 +1,2 @@
+ {"id":"01a05fd0-4d90-71dc-a961-7143718c3bf2","conditionField":"crafted","conditionValue":"not-crafted"}
+-{"id":"01a05fd0-4d90-73b0-97c1-81da049eb640","conditionField":"maxQuality","conditionValue":"1"}
++{"id":"01a05fd0-4d90-73b0-97c1-81da049eb640","conditionField":"max-quality","conditionValue":"1"}
+diff --git a/temper/temper-progress/rule-templates/pages/potions-normal-sell/potions-normal-sell.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/potions-normal-sell/potions-normal-sell.temper-rule-template.conditions.jsonl
+index 84cfc55069472e15a441911da35c5dcb0f6d00d3..926182e497a93afb08e967b9030c58a12edd71fd 100644
+--- a/temper/temper-progress/rule-templates/pages/potions-normal-sell/potions-normal-sell.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/potions-normal-sell/potions-normal-sell.temper-rule-template.conditions.jsonl
+@@ -1,2 +1,2 @@
+ {"id":"01a05fd0-4d90-73ba-bc09-3d94aba45fa5","conditionField":"crafted","conditionValue":"not-crafted"}
+-{"id":"01a05fd0-4d90-7ec1-8060-f42060d4184f","conditionField":"maxQuality","conditionValue":"1"}
++{"id":"01a05fd0-4d90-7ec1-8060-f42060d4184f","conditionField":"max-quality","conditionValue":"1"}
+diff --git a/temper/temper-progress/rule-templates/pages/recipes-known-sell/recipes-known-sell.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/recipes-known-sell/recipes-known-sell.temper-rule-template.conditions.jsonl
+index 3a48903cb5b95dcb2e9f455af3e8fc0e76177e8d..eadbb87393bd284190d0a24f13bea38c6ff3f6e3 100644
+--- a/temper/temper-progress/rule-templates/pages/recipes-known-sell/recipes-known-sell.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/recipes-known-sell/recipes-known-sell.temper-rule-template.conditions.jsonl
+@@ -1,2 +1,2 @@
+ {"id":"01a05fd0-4d90-7938-83e5-504b97e8f089","conditionField":"known","conditionValue":"known"}
+-{"id":"01a05fd0-4d90-7574-94bd-7438617f7d2e","conditionField":"maxQuality","conditionValue":"2"}
++{"id":"01a05fd0-4d90-7574-94bd-7438617f7d2e","conditionField":"max-quality","conditionValue":"2"}
+diff --git a/temper/temper-progress/rule-templates/pages/research-by-priority/research-by-priority.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/research-by-priority/research-by-priority.temper-rule-template.conditions.jsonl
+index c2afda59a3d6062be3f403cb50808e3a4ef79ec7..3a71c29e516bd8180d701fdeae261fdc29eaa811 100644
+--- a/temper/temper-progress/rule-templates/pages/research-by-priority/research-by-priority.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/research-by-priority/research-by-priority.temper-rule-template.conditions.jsonl
+@@ -1 +1 @@
+-{"id":"01a05fd0-4d90-7bf2-b08a-e733f2f66f49","conditionField":"canResearch","conditionValue":"can-research"}
++{"id":"01a05fd0-4d90-7bf2-b08a-e733f2f66f49","conditionField":"can-research","conditionValue":"can-research"}
+diff --git a/temper/temper-progress/rule-templates/pages/research-stolen/research-stolen.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/research-stolen/research-stolen.temper-rule-template.conditions.jsonl
+index dc092f6d7df5cfbdf00a7b488333ffedd0d1ca9a..be74369ec97b6489f0297237a067fea7f75c43b4 100644
+--- a/temper/temper-progress/rule-templates/pages/research-stolen/research-stolen.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/research-stolen/research-stolen.temper-rule-template.conditions.jsonl
+@@ -1,2 +1,2 @@
+ {"id":"01a05fd0-4d90-77c2-9f95-5f5aad5bc0c3","conditionField":"stolen","conditionValue":"stolen"}
+-{"id":"01a05fd0-4d90-70a2-aa64-501d8d158c1d","conditionField":"canResearch","conditionValue":"can-research"}
++{"id":"01a05fd0-4d90-70a2-aa64-501d8d158c1d","conditionField":"can-research","conditionValue":"can-research"}
+diff --git a/temper/temper-progress/rule-templates/pages/soul-gems-empty-bank/soul-gems-empty-bank.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/soul-gems-empty-bank/soul-gems-empty-bank.temper-rule-template.conditions.jsonl
+index ebf76684e28b8bc94e8145ea46d88d864c989544..f3fc46cc34baa0263c2e4b5f2f8b343260bbf76b 100644
+--- a/temper/temper-progress/rule-templates/pages/soul-gems-empty-bank/soul-gems-empty-bank.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/soul-gems-empty-bank/soul-gems-empty-bank.temper-rule-template.conditions.jsonl
+@@ -1 +1 @@
+-{"id":"01a05fd0-4d90-766d-a61b-216632dff21f","conditionField":"maxQuality","conditionValue":"1"}
++{"id":"01a05fd0-4d90-766d-a61b-216632dff21f","conditionField":"max-quality","conditionValue":"1"}
+diff --git a/temper/temper-progress/rule-templates/pages/treasures-epic-bank/treasures-epic-bank.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/treasures-epic-bank/treasures-epic-bank.temper-rule-template.conditions.jsonl
+index 1e2d451f8d3cc15c323c41750891549b5ba2be24..a03055441ead97c8fa19b5d728a56fd3edd843ef 100644
+--- a/temper/temper-progress/rule-templates/pages/treasures-epic-bank/treasures-epic-bank.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/treasures-epic-bank/treasures-epic-bank.temper-rule-template.conditions.jsonl
+@@ -1,2 +1,2 @@
+-{"id":"01a05fd0-4d90-71e1-912e-3f9d57b8b4c7","conditionField":"qualityOp","conditionValue":">="}
+-{"id":"01a05fd0-4d90-7e19-8213-42eb9c4e5cbf","conditionField":"maxQuality","conditionValue":"4"}
++{"id":"01a05fd0-4d90-71e1-912e-3f9d57b8b4c7","conditionField":"quality-op","conditionValue":">="}
++{"id":"01a05fd0-4d90-7e19-8213-42eb9c4e5cbf","conditionField":"max-quality","conditionValue":"4"}
+diff --git a/temper/temper-progress/rule-templates/pages/treasures-epic-stolen/treasures-epic-stolen.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/treasures-epic-stolen/treasures-epic-stolen.temper-rule-template.conditions.jsonl
+index 74431e8e1a34590fd43473bd67d732f4ac11db65..2a66022deb250b9916249c159b9d49ad86bdd0ad 100644
+--- a/temper/temper-progress/rule-templates/pages/treasures-epic-stolen/treasures-epic-stolen.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/treasures-epic-stolen/treasures-epic-stolen.temper-rule-template.conditions.jsonl
+@@ -1,3 +1,3 @@
+ {"id":"01a05fd0-4d90-7702-973a-5f0735066a3e","conditionField":"stolen","conditionValue":"stolen"}
+-{"id":"01a05fd0-4d90-7c96-82ed-7ca46b64ba60","conditionField":"qualityOp","conditionValue":">="}
+-{"id":"01a05fd0-4d90-757b-8616-f72babdfe447","conditionField":"maxQuality","conditionValue":"4"}
++{"id":"01a05fd0-4d90-7c96-82ed-7ca46b64ba60","conditionField":"quality-op","conditionValue":">="}
++{"id":"01a05fd0-4d90-757b-8616-f72babdfe447","conditionField":"max-quality","conditionValue":"4"}
+diff --git a/temper/temper-progress/rule-templates/pages/treasures-sell/treasures-sell.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/treasures-sell/treasures-sell.temper-rule-template.conditions.jsonl
+index 587019ff904c1cdbb2d12472f848844644eacb9d..c00e6496729f6c4651c28f6b1ce4e97bef0f9685 100644
+--- a/temper/temper-progress/rule-templates/pages/treasures-sell/treasures-sell.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/treasures-sell/treasures-sell.temper-rule-template.conditions.jsonl
+@@ -1 +1 @@
+-{"id":"01a05fd0-4d90-7765-b688-460ddff509d6","conditionField":"maxQuality","conditionValue":"3"}
++{"id":"01a05fd0-4d90-7765-b688-460ddff509d6","conditionField":"max-quality","conditionValue":"3"}
+diff --git a/temper/temper-progress/rule-templates/pages/unlock-by-priority/unlock-by-priority.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/unlock-by-priority/unlock-by-priority.temper-rule-template.conditions.jsonl
+index f0306d25d4eb8b28177f6a21069c222761d83a4d..4934006c67f24373f8d2e7932449c419bd23f33e 100644
+--- a/temper/temper-progress/rule-templates/pages/unlock-by-priority/unlock-by-priority.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/unlock-by-priority/unlock-by-priority.temper-rule-template.conditions.jsonl
+@@ -1 +1 @@
+-{"id":"01a05fd0-4d90-7040-8523-04d8cd4fe906","conditionField":"canUnlock","conditionValue":"can-unlock"}
++{"id":"01a05fd0-4d90-7040-8523-04d8cd4fe906","conditionField":"can-unlock","conditionValue":"can-unlock"}
+diff --git a/temper/temper-progress/rule-templates/pages/unlock-stolen/unlock-stolen.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/unlock-stolen/unlock-stolen.temper-rule-template.conditions.jsonl
+index 45c6aae74e3e8ce847ff3a5abd61e96fe4b4123f..6fbbbcc144b882afe5b5fae3b3858ef713c3c054 100644
+--- a/temper/temper-progress/rule-templates/pages/unlock-stolen/unlock-stolen.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/unlock-stolen/unlock-stolen.temper-rule-template.conditions.jsonl
+@@ -1,2 +1,2 @@
+ {"id":"01a05fd0-4d90-72bc-aa61-63ca09193785","conditionField":"stolen","conditionValue":"stolen"}
+-{"id":"01a05fd0-4d90-73e7-bd2b-e96942dd5781","conditionField":"canUnlock","conditionValue":"can-unlock"}
++{"id":"01a05fd0-4d90-73e7-bd2b-e96942dd5781","conditionField":"can-unlock","conditionValue":"can-unlock"}
+diff --git a/temper/temper-progress/rule-templates/pages/valuable-nothing/valuable-nothing.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/valuable-nothing/valuable-nothing.temper-rule-template.conditions.jsonl
+index 9b43f23543bdd791cff65633a440a962645a50dd..29ccfe21429f38907ba82175369a307bac940326 100644
+--- a/temper/temper-progress/rule-templates/pages/valuable-nothing/valuable-nothing.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/valuable-nothing/valuable-nothing.temper-rule-template.conditions.jsonl
+@@ -1,2 +1,2 @@
+ {"id":"01a05fd0-4d90-7188-ae19-4af458bb8334","conditionField":"value","conditionValue":"MIN_LISTING_VALUE"}
+-{"id":"01a05fd0-4d91-76b4-a5c7-f711b8bf2d00","conditionField":"valueOp","conditionValue":">="}
++{"id":"01a05fd0-4d91-76b4-a5c7-f711b8bf2d00","conditionField":"value-op","conditionValue":">="}
+diff --git a/temper/temper-progress/rule-templates/pages/worthless-destroy/worthless-destroy.temper-rule-template.conditions.jsonl b/temper/temper-progress/rule-templates/pages/worthless-destroy/worthless-destroy.temper-rule-template.conditions.jsonl
+index 51551e225decd782c6cfb99582223760d75d6d35..1a406e56b30eef968e7b358d97af03bec270e83e 100644
+--- a/temper/temper-progress/rule-templates/pages/worthless-destroy/worthless-destroy.temper-rule-template.conditions.jsonl
++++ b/temper/temper-progress/rule-templates/pages/worthless-destroy/worthless-destroy.temper-rule-template.conditions.jsonl
+@@ -1,2 +1,2 @@
+ {"id":"01a05fd0-4d91-7c36-8e47-c7e47872965e","conditionField":"value","conditionValue":"0"}
+-{"id":"01a05fd0-4d91-7733-a1d5-fab769efb3b9","conditionField":"maxQuality","conditionValue":"1"}
++{"id":"01a05fd0-4d91-7733-a1d5-fab769efb3b9","conditionField":"max-quality","conditionValue":"1"}
+diff --git a/temper/temper-progress/rule-templates/properties/condition-field.relation-property.ts b/temper/temper-progress/rule-templates/properties/condition-field.relation-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..df57cdbea824cf4ce1855a9291df00ec8b219b12
+--- /dev/null
++++ b/temper/temper-progress/rule-templates/properties/condition-field.relation-property.ts
+@@ -0,0 +1,12 @@
++import type { RelationProperty } from "@akasha/pages-system/relation-property"
++
++export type ConditionField = string
++
++export const conditionField = {
++  id: "01a05fd0-3aa3-7030-b6ea-b5999bd300d5",
++  pageTypeSlug: "relation-property",
++  slug: "condition-field",
++  propertySlug: "condition-field",
++  definition: "the test one condition of a rule names",
++  targetPageTypeSlug: "page-type/temper-condition-field",
++} as const satisfies RelationProperty
+diff --git a/temper/temper-progress/rule-templates/properties/condition-field.text-property.ts b/temper/temper-progress/rule-templates/properties/condition-field.text-property.ts
+deleted file mode 100644
+index 55bd7e991072497daab3d3bc7e1f528ece4224fd..0000000000000000000000000000000000000000
+--- a/temper/temper-progress/rule-templates/properties/condition-field.text-property.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
+-
+-export type ConditionField = string
+-
+-export const conditionField = {
+-  id: "01a05fd0-3aa3-7030-b6ea-b5999bd300d5",
+-  pageTypeSlug: "text-property",
+-  slug: "condition-field",
+-  propertySlug: "condition-field",
+-  definition: "the test one condition of a rule names",
+-  max: 50,
+-  nameFormatSlug: "name-format/lower-camel-case",
+-} as const satisfies TextProperty
