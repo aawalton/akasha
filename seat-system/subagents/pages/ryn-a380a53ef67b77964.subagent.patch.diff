@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts
-index 87639fa0eeede9c6f1e17c3031f9a820dd1a51ea..87b33cd002b3926f7817b2e99133306cae2f3994 100644
+index 87639fa0eeede9c6f1e17c3031f9a820dd1a51ea..b1a4c55d85867f2300c09ac49970c7035e69e602 100644
 --- a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts
 +++ b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts
 @@ -43,7 +43,7 @@ export const changeTabooTerms = {
@@ -12,7 +12,7 @@ index 87639fa0eeede9c6f1e17c3031f9a820dd1a51ea..87b33cd002b3926f7817b2e99133306c
      },
      {
        invariantKind: "absence",
-@@ -75,16 +75,16 @@ export const changeTabooTerms = {
+@@ -75,21 +75,21 @@ export const changeTabooTerms = {
      },
      {
        invariantKind: "departure",
@@ -29,6 +29,12 @@ index 87639fa0eeede9c6f1e17c3031f9a820dd1a51ea..87b33cd002b3926f7817b2e99133306c
        statement:
 -        "What is owed says of each list whether the list is what the term keeps or what the term bars.",
 +        "The text owed says of each list whether the list holds kept senses or barred senses.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "What is owed for a term naming no kept sense names only the senses the term bars.",
++        "The text owed for a term naming no kept sense names only the senses the term bars.",
      },
      {
        invariantKind: "departure",
