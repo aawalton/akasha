@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/id-minting/id-minting.workspace-package.ts b/id-minting/id-minting.workspace-package.ts
+index bd93ce8df7ebc18a2c16dd7712666cc1078d0798..ff4d3adea6c1adb04d576f7d194785499c32a36e 100644
+--- a/id-minting/id-minting.workspace-package.ts
++++ b/id-minting/id-minting.workspace-package.ts
+@@ -10,7 +10,7 @@ export const idMinting = {
+   invariants: [
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows what an identifier this package makes will name.",
++      statement: "Nothing here knows the thing an identifier this package makes will name.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
