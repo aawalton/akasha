@@ -1,5 +1,5 @@
 diff --git a/code-system/code-tests/code-tests.module.test.ts b/code-system/code-tests/code-tests.module.test.ts
-index caeef3c40502bb5a864f2c2b06208c2dfde299d1..c5601fc39b15d1cf5dec4b1ed106dcf986c6f5bf 100644
+index caeef3c40502bb5a864f2c2b06208c2dfde299d1..1184db47aa5443851e4d029d0ced33c8544cbd3c 100644
 --- a/code-system/code-tests/code-tests.module.test.ts
 +++ b/code-system/code-tests/code-tests.module.test.ts
 @@ -104,7 +104,7 @@ check("a test answers itself alone, whichever of the two it is written in", () =
@@ -20,8 +20,17 @@ index caeef3c40502bb5a864f2c2b06208c2dfde299d1..c5601fc39b15d1cf5dec4b1ed106dcf9
    const output = " 1 pass\n 0 fail\nRan 1 tests across 1 files."
    expect(verdictOf(0, output, 4)).toBe("short")
    expect(verdictOf(0, output, 1)).toBe("pass")
+@@ -164,7 +164,7 @@ check("one named path runs alone, and its neighbour does not", () => {
+   expect(done.verdict).toBe("pass")
+ })
+ 
+-check("what a run spawns is marked as standing inside one", () => {
++check("what a run spawns is marked as inside one", () => {
+   const root = repo({ "one.test.ts": MARKED })
+   expect(ranOver(root, ["akasha"], 1).verdict).toBe("pass")
+ })
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
-index 269bb5bdfbca656f09a9f2a9f96489aaaab3034a..f2bde12bea3f0082779a0d5dceb0dd6923bc8725 100644
+index 269bb5bdfbca656f09a9f2a9f96489aaaab3034a..8d0a71aa6793db30742f40e9c3c804c4c9e9a5b7 100644
 --- a/code-system/code-tests/code-tests.module.ts
 +++ b/code-system/code-tests/code-tests.module.ts
 @@ -5,7 +5,7 @@ export const codeTests = {
@@ -39,6 +48,15 @@ index 269bb5bdfbca656f09a9f2a9f96489aaaab3034a..f2bde12bea3f0082779a0d5dceb0dd69
        statement:
 -        "A run reaching fewer files than stand under what was named is short rather than a pass.",
 +        "A run reaching fewer files than are under what was named is short rather than a pass.",
+     },
+     {
+       invariantKind: "departure",
+@@ -97,7 +97,7 @@ export const codeTests = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The test standing beside a file is named by the same rule that names any file beside a page.",
++        "The test sitting beside a file is named by the same rule that names any file beside a page.",
      },
      {
        invariantKind: "departure",
