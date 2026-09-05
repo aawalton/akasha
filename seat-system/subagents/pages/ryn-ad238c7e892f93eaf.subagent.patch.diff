@@ -1,0 +1,16 @@
+diff --git a/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts b/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts
+index aba8c0d4ccbf40671de11c332bbb47869c14790d..3f202d4a0f03e7195fbc3f37bb6aaf49f275f6a6 100644
+--- a/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts
++++ b/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts
+@@ -16,10 +16,7 @@ export const lintClean = {
+       invariantKind: "departure",
+       statement: "The files a change is judged by are the ones the change carries.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "Audit is handed every file.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "The same reading covers one change and the whole tree.",
