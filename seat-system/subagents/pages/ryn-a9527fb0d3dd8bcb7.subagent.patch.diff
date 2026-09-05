@@ -1,0 +1,13 @@
+diff --git a/editor-extension/seat-toggles/seat-toggles.module.ts b/editor-extension/seat-toggles/seat-toggles.module.ts
+index ac728d852a3603e4a8db7b5d642ea4516c09f8b9..46640494fd30abd2d7d71a4d76a19023e852e2e0 100644
+--- a/editor-extension/seat-toggles/seat-toggles.module.ts
++++ b/editor-extension/seat-toggles/seat-toggles.module.ts
+@@ -11,7 +11,7 @@ export const seatToggles = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A running seat is stopped whatever place it holds.",
++      statement: "A running seat is stopped whatever place that seat holds.",
+     },
+     {
+       invariantKind: "departure",
