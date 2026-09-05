@@ -28,7 +28,7 @@ export const selectionFeatures = {
     },
     {
       invariantKind: "departure",
-      statement: "A movement takes a second pattern only where it is named outright.",
+      statement: "A movement takes a second pattern only where that pattern is named outright.",
     },
     {
       invariantKind: "gap",
