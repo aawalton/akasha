@@ -1,0 +1,12 @@
+diff --git a/service-system/cluster-services/pages/supabase-realtime/supabase-realtime.cluster-service.ts b/service-system/cluster-services/pages/supabase-realtime/supabase-realtime.cluster-service.ts
+index 1c5c40fe78ab78a285f369af0f86dbc462543b6a..2ba6e60d4b9d7261b516d5e99cf1e4a9d048928c 100644
+--- a/service-system/cluster-services/pages/supabase-realtime/supabase-realtime.cluster-service.ts
++++ b/service-system/cluster-services/pages/supabase-realtime/supabase-realtime.cluster-service.ts
+@@ -11,6 +11,5 @@ export const supabaseRealtime = {
+   image: "supabase/realtime:v2.86.3",
+   replicas: 1,
+   containerPort: 4000,
+-  manifestCode:
+-    "service-system/cluster-services/pages/supabase-realtime/supabase-realtime.cluster-service.code.attachment.ts",
++  manifestSlug: "supabase-realtime",
+ } as const satisfies ClusterService
