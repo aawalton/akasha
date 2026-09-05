@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/person-system/people/email/email-rules/properties/email-rule-match-values.text-property.ts b/person-system/people/email/email-rules/properties/email-rule-match-values.text-property.ts
+index cbcadb6db11d43f2f15786e76423011f19d4abf7..3eedab4da8ded110972059a7ba75050f159a9315 100644
+--- a/person-system/people/email/email-rules/properties/email-rule-match-values.text-property.ts
++++ b/person-system/people/email/email-rules/properties/email-rule-match-values.text-property.ts
+@@ -13,7 +13,7 @@ export const emailRuleMatchValues = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A value is written as the mail carries it rather than as a title.",
++      statement: "A value is written as the mail carries that value rather than as a title.",
+     },
+   ],
+ } as const satisfies TextProperty
