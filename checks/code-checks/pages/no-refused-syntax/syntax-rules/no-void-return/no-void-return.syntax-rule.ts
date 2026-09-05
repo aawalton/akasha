@@ -10,7 +10,7 @@ export const noVoidReturn = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "`undefined` is what takes its place.",
+      statement: "`undefined` takes its place.",
     },
     {
       invariantKind: "departure",
