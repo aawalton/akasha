@@ -73,7 +73,7 @@ export const seatConditions = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One page carries what a seat settles, and there is never a second.",
+      statement: "One page carries a seat's conditions, and there is never a second.",
     },
     {
       invariantKind: "departure",
