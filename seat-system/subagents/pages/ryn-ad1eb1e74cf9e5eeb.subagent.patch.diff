@@ -1,0 +1,13 @@
+diff --git a/alan/fitness/schedule-days/schedule-day.page-type.ts b/alan/fitness/schedule-days/schedule-day.page-type.ts
+index 344f66b93033bd9360e88d5d2988de332ed54ba3..c1d1be4f5bfeb6f1979c1e3763b8038a2e863908 100644
+--- a/alan/fitness/schedule-days/schedule-day.page-type.ts
++++ b/alan/fitness/schedule-days/schedule-day.page-type.ts
+@@ -33,7 +33,7 @@ export const scheduleDay = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A day names the schedule it belongs to.",
++      statement: "A day names the schedule that day belongs to.",
+     },
+     {
+       invariantKind: "absence",
