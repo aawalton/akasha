@@ -15,3 +15,20 @@ index 20f35b9f310db67b85e016a92d0993948fd53cbd..110811a37e2043592f70fa184cbe83d4
      {
        invariantKind: "departure",
        statement: "A seat stating no role warrants no type.",
+diff --git a/context/warrants/subagent-role/subagent-role.context-warrant.ts b/context/warrants/subagent-role/subagent-role.context-warrant.ts
+index f8cccae05cdadcb23d3a4a627c4b6b1f686bb3e7..272ab0a0f8e74995d604f0864ba22f6962115383 100644
+--- a/context/warrants/subagent-role/subagent-role.context-warrant.ts
++++ b/context/warrants/subagent-role/subagent-role.context-warrant.ts
+@@ -15,11 +15,7 @@ export const subagentRole = {
+       invariantKind: "departure",
+       statement: "A subagent warrants the role page type.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The invariants and directives every role is held to are on the type rather than on any one role.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "A subagent states no role, so no role of its own is warranted.",
