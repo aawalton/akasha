@@ -1,0 +1,12 @@
+diff --git a/infrastructure/inference-commands/inference-voice-design/inference-voice-design.command.ts b/infrastructure/inference-commands/inference-voice-design/inference-voice-design.command.ts
+index 5a356016c48d68c490749ac94f40730aa286d5ad..9a19a2086c8aa3d2be92c819a8c59d5345f43479 100644
+--- a/infrastructure/inference-commands/inference-voice-design/inference-voice-design.command.ts
++++ b/infrastructure/inference-commands/inference-voice-design/inference-voice-design.command.ts
+@@ -28,7 +28,6 @@ export const inferenceVoiceDesign = {
+     "the language is sent to the backend that takes one, and the other takes accent and language inside the description.",
+     "the text is not cut into pieces, so a few sentences is what this is for.",
+     "the sampling the server is asked for is fixed here and recorded on the run row.",
+-    "a run row is filed whether the speaking finished or failed.",
+   ],
+   invariants: [
+     {
