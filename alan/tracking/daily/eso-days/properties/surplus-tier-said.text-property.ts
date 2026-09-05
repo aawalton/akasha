@@ -13,7 +13,7 @@ export const surplusTierSaid = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This property is what Alan was told rather than what he had.",
+      statement: "This property is what Alan was told rather than what Alan had.",
     },
   ],
 } as const satisfies TextProperty
