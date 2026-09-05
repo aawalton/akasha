@@ -23,7 +23,7 @@ export const temperEsoTypings = {
     },
     {
       invariantKind: "departure",
-      statement: "An opt-in list rather than the dump decides what is declared.",
+      statement: "An opt-in list rather than the dump decides the tokens declared.",
     },
     {
       invariantKind: "departure",
