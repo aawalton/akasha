@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/temper/temper-addon-data/mined-motif-coverage/mined-motif-coverage.module.ts b/temper/temper-addon-data/mined-motif-coverage/mined-motif-coverage.module.ts
+index 35d63ecc698c6eba75ad36dd6a37ea3dc3590a70..3048bfd7044976bda2b9cf4ee35ffa0ab0d0a5d2 100644
+--- a/temper/temper-addon-data/mined-motif-coverage/mined-motif-coverage.module.ts
++++ b/temper/temper-addon-data/mined-motif-coverage/mined-motif-coverage.module.ts
+@@ -26,7 +26,8 @@ export const minedMotifCoverage = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A motif is known by the style it dresses and the piece it covers.",
++      statement:
++        "A motif is known by the style that motif dresses and the piece that motif covers.",
+     },
+     {
+       invariantKind: "departure",
