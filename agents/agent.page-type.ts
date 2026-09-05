@@ -25,13 +25,13 @@ export const agent = {
   ],
   properties: [
     {
-      pagePropertySlug: "assignment-slug",
+      pagePropertySlug: "one-of-property/assignment-slug",
       required: true,
       many: false,
       default: "domain/akasha",
     },
-    { pagePropertySlug: "principal-seat-name", required: false, many: false },
-    { pagePropertySlug: "patch", required: false, many: false, default: "diff" },
+    { pagePropertySlug: "relation-property/principal-seat-name", required: false, many: false },
+    { pagePropertySlug: "file-property/patch", required: false, many: false, default: "diff" },
   ],
   invariants: [
     {
