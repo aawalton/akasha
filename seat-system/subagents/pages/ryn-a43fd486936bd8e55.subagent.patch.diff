@@ -64,3 +64,16 @@ index 5fdbacae0c29adfbe26390f450d1e32a57c9a17b..f61306237f7c1e8438f01c5fbed30ca2
      },
      {
        invariantKind: "departure",
+diff --git a/infrastructure/cluster-manifests/orphan-resource-listing/orphan-resource-listing.module.ts b/infrastructure/cluster-manifests/orphan-resource-listing/orphan-resource-listing.module.ts
+index 06497c5da7ce01da40a437ec598b8fa44bc01067..15c72f34ad9c0e3a3dff3f1d08f02a4dc18235ee 100644
+--- a/infrastructure/cluster-manifests/orphan-resource-listing/orphan-resource-listing.module.ts
++++ b/infrastructure/cluster-manifests/orphan-resource-listing/orphan-resource-listing.module.ts
+@@ -24,7 +24,7 @@ export const orphanResourceListing = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A cluster that answers anything but success ends the sweep rather than reading as an empty namespace.",
++        "A cluster answering anything but success ends the sweep rather than reading as an empty namespace.",
+     },
+     {
+       invariantKind: "gap",
