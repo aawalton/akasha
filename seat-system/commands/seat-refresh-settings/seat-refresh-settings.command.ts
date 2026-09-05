@@ -28,11 +28,11 @@ export const seatRefreshSettings = {
     },
     {
       invariantKind: "departure",
-      statement: "The per-spawn keys a file holds are carried into what replaces that file.",
+      statement: "The per-spawn keys a file holds are carried into the file replacing that file.",
     },
     {
       invariantKind: "departure",
-      statement: "A file already holding what would be written is left alone.",
+      statement: "A file already holding the body that would be written is left alone.",
     },
     {
       invariantKind: "departure",
