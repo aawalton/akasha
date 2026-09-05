@@ -1,0 +1,12 @@
+diff --git a/service-system/cluster-services/pages/buildkit-prune/buildkit-prune.cluster-service.ts b/service-system/cluster-services/pages/buildkit-prune/buildkit-prune.cluster-service.ts
+index 357c9e8b7970020e410e1b5da7758769ae82d43b..0d66875be0774de8c8bb28041aee049ebfb5fa62 100644
+--- a/service-system/cluster-services/pages/buildkit-prune/buildkit-prune.cluster-service.ts
++++ b/service-system/cluster-services/pages/buildkit-prune/buildkit-prune.cluster-service.ts
+@@ -10,6 +10,5 @@ export const buildkitPrune = {
+   resourceName: "buildkit-prune",
+   image: "moby/buildkit:v0.28.0",
+   schedule: "0 4 * * 0",
+-  manifestCode:
+-    "service-system/cluster-services/pages/buildkit-prune/buildkit-prune.cluster-service.code.attachment.ts",
++  manifestSlug: "buildkit-prune",
+ } as const satisfies ClusterService
