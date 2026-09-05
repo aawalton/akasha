@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
-index 9a9834e30195a04239fa27a962567f3311d72c71..160ea8c949dfe25d48310d2780cbc5f428d2677f 100644
+index 9a9834e30195a04239fa27a962567f3311d72c71..3c55c5711bf1e7706f7f748828853c2fa46513b2 100644
 --- a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
 +++ b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
 @@ -17,7 +17,8 @@ export const agentTreePanel = {
@@ -22,3 +22,12 @@ index 9a9834e30195a04239fa27a962567f3311d72c71..160ea8c949dfe25d48310d2780cbc5f4
      },
      {
        invariantKind: "departure",
+@@ -93,7 +94,7 @@ export const agentTreePanel = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows what a step does to a seat.",
++      statement: "Nothing here knows the change a step makes to a seat.",
+     },
+   ],
+ } as const satisfies Module
