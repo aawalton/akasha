@@ -14,7 +14,7 @@ export const auditReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A count reached without weighing anything says it is not a zero.",
+      statement: "A count reached without weighing anything says that count is not a zero.",
     },
     {
       invariantKind: "departure",
