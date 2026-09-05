@@ -351,3 +351,11 @@ index 3aa047adb8758f52346ef213d8af31d27c69a70d..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../infrastructure/voice-inference
 \ No newline at end of file
+diff --git a/infrastructure/wan/wan b/infrastructure/wan/wan
+deleted file mode 120000
+index 24a9285747f2ca0e39f08ebada115a5b30d7e947..0000000000000000000000000000000000000000
+--- a/infrastructure/wan/wan
++++ /dev/null
+@@ -1 +0,0 @@
+-../../infrastructure/wan
+\ No newline at end of file
