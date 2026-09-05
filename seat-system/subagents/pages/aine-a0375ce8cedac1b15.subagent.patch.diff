@@ -1,5 +1,5 @@
 diff --git a/editor-extension/panel-domains/panel-domains.module.test.ts b/editor-extension/panel-domains/panel-domains.module.test.ts
-index c73db53f6088211f78f38122238c283664698ea8..ab0907ecc803406cb80f536cba47b263947e997b 100644
+index c73db53f6088211f78f38122238c283664698ea8..cabb32b8cc953a84262428bfd75f4176776d66b6 100644
 --- a/editor-extension/panel-domains/panel-domains.module.test.ts
 +++ b/editor-extension/panel-domains/panel-domains.module.test.ts
 @@ -44,7 +44,7 @@ function parts(slug: string, held: readonly string[]): string {
@@ -29,6 +29,15 @@ index c73db53f6088211f78f38122238c283664698ea8..ab0907ecc803406cb80f536cba47b263
    const root = scratch.rootFor("akasha-domains-")
    filing(
      root,
+@@ -95,7 +95,7 @@ test("a page is answered under its address", () => {
+   expect(domainsDrawn(root).map((held) => held.slug)).toEqual(["domain/one"])
+ })
+ 
+-test("the part edge is filed under the part, so the part is the one standing under", () => {
++test("the part edge is filed under the part, so the part is the one that sits under", () => {
+   const root = scratch.rootFor("akasha-domains-")
+   filing(root, "domain", "over", ONE, parts("over", ["domain/under"]))
+   filing(root, "domain", "under", TWO)
 diff --git a/editor-extension/panel-domains/panel-domains.module.ts b/editor-extension/panel-domains/panel-domains.module.ts
 index f1c564e4a8b69212c1db70242b6fee6d18d99efc..b003fb932c5e159b63934e43b21ad9f14e0ce8d6 100644
 --- a/editor-extension/panel-domains/panel-domains.module.ts
@@ -61,7 +70,7 @@ index f1c564e4a8b69212c1db70242b6fee6d18d99efc..b003fb932c5e159b63934e43b21ad9f1
      {
        invariantKind: "departure",
 diff --git a/editor-extension/work-initiatives/work-initiatives.module.test.ts b/editor-extension/work-initiatives/work-initiatives.module.test.ts
-index af7ced402780a81390454831ce2aeda046f94f29..980a06c88c7045493572dcf24bfdb49bb615c969 100644
+index af7ced402780a81390454831ce2aeda046f94f29..828a1fa5f6ce857e094c4fbb813b5ab903c276b0 100644
 --- a/editor-extension/work-initiatives/work-initiatives.module.test.ts
 +++ b/editor-extension/work-initiatives/work-initiatives.module.test.ts
 @@ -75,7 +75,7 @@ test("an index naming no page type for initiatives refuses rather than drawing n
@@ -73,7 +82,7 @@ index af7ced402780a81390454831ce2aeda046f94f29..980a06c88c7045493572dcf24bfdb49b
    const root = worldFor()
    filing(root, "amy-parent", ONE)
    filing(root, "amy-child", TWO)
-@@ -85,13 +85,13 @@ test("the edge is filed under the parent, so the child is the one that stands un
+@@ -85,20 +85,20 @@ test("the edge is filed under the parent, so the child is the one that stands un
    expect(drawn.find((one) => one.slug === "amy-parent")?.parent).toBe(null)
  })
  
@@ -89,6 +98,14 @@ index af7ced402780a81390454831ce2aeda046f94f29..980a06c88c7045493572dcf24bfdb49b
    const root = worldFor()
    filing(root, "amy-two", TWO)
    under(root, TWO, THREE)
+   expect(initiativesDrawn(root)[0]?.parent).toBe(null)
+ })
+ 
+-test("an initiative standing under two stands under none", () => {
++test("an initiative under two parents sits under none", () => {
+   const root = worldFor()
+   filing(root, "amy-one", ONE)
+   filing(root, "amy-two", TWO)
 diff --git a/editor-extension/work-initiatives/work-initiatives.module.ts b/editor-extension/work-initiatives/work-initiatives.module.ts
 index 23913f4a3389366a762c7a25546eaf6560c0581d..2abec6f0cf558ba9580bc7543d0a1f27f03d92d6 100644
 --- a/editor-extension/work-initiatives/work-initiatives.module.ts
