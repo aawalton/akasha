@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/system-service/page-asking/page-asking.module.ts b/pages/system-service/page-asking/page-asking.module.ts
+index d7485de4941ea377ba02cb1fa83a34255640236a..029f1873b592bafac6daed9640176f83d73ae851 100644
+--- a/pages/system-service/page-asking/page-asking.module.ts
++++ b/pages/system-service/page-asking/page-asking.module.ts
+@@ -74,7 +74,7 @@ export const pageAsking = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A key is what a property page states rather than the slug reaching that property page.",
++        "A key is the property slug a property page states rather than the slug reaching that page.",
+     },
+     {
+       invariantKind: "departure",
