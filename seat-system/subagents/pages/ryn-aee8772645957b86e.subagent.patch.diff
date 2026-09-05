@@ -1,0 +1,13 @@
+diff --git a/alan/harness/monarch/notes-revert/monarch-notes-revert.module.ts b/alan/harness/monarch/notes-revert/monarch-notes-revert.module.ts
+index 65f8d33dd4df7884aa6820a28f8ee8120c646d11..3524753a9320919571f01b17fd534bbac6b54cfa 100644
+--- a/alan/harness/monarch/notes-revert/monarch-notes-revert.module.ts
++++ b/alan/harness/monarch/notes-revert/monarch-notes-revert.module.ts
+@@ -20,7 +20,7 @@ export const monarchNotesRevert = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A row already standing as it was snapshotted is passed over rather than rewritten.",
++        "A row already standing as that row was snapshotted is passed over rather than rewritten.",
+     },
+     {
+       invariantKind: "departure",
