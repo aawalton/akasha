@@ -1,0 +1,2110 @@
+runsChecks: false
+runsWarrants: false
+diff --git a/alan/fitness/exercises/properties/instructions.file-property.ts b/alan/fitness/exercises/properties/instructions.file-property.ts
+index 6a20efd92d30d71c694e64c890e77d49d7452085..646ed7a9df32a76032dd01809aacaf40ab11599d 100644
+--- a/alan/fitness/exercises/properties/instructions.file-property.ts
++++ b/alan/fitness/exercises/properties/instructions.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Instructions = "txt"
+ 
+diff --git a/alan/fitness/exercises/properties/is-ballistic.boolean-property.ts b/alan/fitness/exercises/properties/is-ballistic.boolean-property.ts
+index b7cac5b2e41e555f4cc9ed8d338810e0fa9eb83c..a1abe05fbc4ba7a4ead165079d0fbb88113eb69e 100644
+--- a/alan/fitness/exercises/properties/is-ballistic.boolean-property.ts
++++ b/alan/fitness/exercises/properties/is-ballistic.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type IsBallistic = boolean
+ 
+diff --git a/alan/fitness/exercises/properties/laterality.select-property.ts b/alan/fitness/exercises/properties/laterality.select-property.ts
+index d4c8277adc896d2902ca895778d8b27b226f8b5b..e2f3a14e8a39935224d7bd3bdda7cad7ed81599c 100644
+--- a/alan/fitness/exercises/properties/laterality.select-property.ts
++++ b/alan/fitness/exercises/properties/laterality.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const laterality = {
+   id: "01a0657e-2bbf-7361-b107-9e463ab38778",
+diff --git a/alan/fitness/exercises/properties/load-factor.number-property.ts b/alan/fitness/exercises/properties/load-factor.number-property.ts
+index 25f6f6eddf02b052ecab23a291825fbcbfc1430f..cf171905c9a9455c9ac4fa2e5d9a5a9233ff9a0c 100644
+--- a/alan/fitness/exercises/properties/load-factor.number-property.ts
++++ b/alan/fitness/exercises/properties/load-factor.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type LoadFactor = number
+ 
+diff --git a/alan/fitness/exercises/properties/mechanic.select-property.ts b/alan/fitness/exercises/properties/mechanic.select-property.ts
+index 000ee9a2afc38f3e3e92ff4374ae88ab567f24ca..dccffaf16fdb4e2428eba697c232c30517d2f643 100644
+--- a/alan/fitness/exercises/properties/mechanic.select-property.ts
++++ b/alan/fitness/exercises/properties/mechanic.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const mechanic = {
+   id: "01a0657e-2bbf-7358-a603-36a24d364e4e",
+diff --git a/alan/fitness/exercises/properties/movement-pattern.select-property.ts b/alan/fitness/exercises/properties/movement-pattern.select-property.ts
+index 93bfd907b5a7be3990b728d78445327bcccdda0c..d14c883c9e2fbe97c5fb2d92b2421bbb8ed2f119 100644
+--- a/alan/fitness/exercises/properties/movement-pattern.select-property.ts
++++ b/alan/fitness/exercises/properties/movement-pattern.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const movementPattern = {
+   id: "01a0657e-2bbf-7dea-b8cd-ef434268cd50",
+diff --git a/alan/fitness/exercises/properties/muscle-focus.select-property.ts b/alan/fitness/exercises/properties/muscle-focus.select-property.ts
+index 0d6a346e3ebf8b06a6b6efda8334a09de46a4643..d56a1cee6173894c06f7bbd09ebdf7915c43f41a 100644
+--- a/alan/fitness/exercises/properties/muscle-focus.select-property.ts
++++ b/alan/fitness/exercises/properties/muscle-focus.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const muscleFocus = {
+   id: "01a0657e-2bc0-7229-8e6a-9937d7e7b16e",
+diff --git a/alan/fitness/exercises/properties/primary-muscles.select-property.ts b/alan/fitness/exercises/properties/primary-muscles.select-property.ts
+index 40821bce46ad22f22d0aa6ad3a282b4ccf588ac9..addb517b320002e949a6f4c338ebb0d808e5d08b 100644
+--- a/alan/fitness/exercises/properties/primary-muscles.select-property.ts
++++ b/alan/fitness/exercises/properties/primary-muscles.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const primaryMuscles = {
+   id: "01a0657e-2bc0-76e6-9024-ceadf74cf40b",
+diff --git a/alan/fitness/exercises/properties/scoring-mode.select-property.ts b/alan/fitness/exercises/properties/scoring-mode.select-property.ts
+index ac58a4ba468d08af3b3ac362b447e8ee23899a7d..15ee953d3845c32727e9f4521473da1e23d06654 100644
+--- a/alan/fitness/exercises/properties/scoring-mode.select-property.ts
++++ b/alan/fitness/exercises/properties/scoring-mode.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const scoringMode = {
+   id: "01a0657e-2bc0-7aa5-9e66-12b33002585d",
+diff --git a/alan/fitness/exercises/properties/secondary-muscles.select-property.ts b/alan/fitness/exercises/properties/secondary-muscles.select-property.ts
+index 14529e1e35724052dce2d12db1a066ccdfad8ab4..af4376f077cdb85fe751cd1ccc7861110849ac7b 100644
+--- a/alan/fitness/exercises/properties/secondary-muscles.select-property.ts
++++ b/alan/fitness/exercises/properties/secondary-muscles.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const secondaryMuscles = {
+   id: "01a0657e-2bc0-7f8d-b285-520734083a31",
+diff --git a/alan/fitness/exercises/properties/secondary-pattern.select-property.ts b/alan/fitness/exercises/properties/secondary-pattern.select-property.ts
+index 71a0c43126efb5de3a66fafedb6aa086ae3cb828..d2c6f38e7c72261be05610e22abef6bc6350ed9a 100644
+--- a/alan/fitness/exercises/properties/secondary-pattern.select-property.ts
++++ b/alan/fitness/exercises/properties/secondary-pattern.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const secondaryPattern = {
+   id: "01a0657e-2bc0-7adf-acea-1bc5294c147f",
+diff --git a/alan/fitness/exercises/properties/sfr-score.number-property.ts b/alan/fitness/exercises/properties/sfr-score.number-property.ts
+index 3b536cf78d2d67a257db775996bddaeea71942e2..5b7aeaaa38e7e8728563f848d5007739280c19e2 100644
+--- a/alan/fitness/exercises/properties/sfr-score.number-property.ts
++++ b/alan/fitness/exercises/properties/sfr-score.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type SfrScore = number
+ 
+diff --git a/alan/fitness/exercises/properties/skill-cost.select-property.ts b/alan/fitness/exercises/properties/skill-cost.select-property.ts
+index 72fc8dd482fdb9eb2725594081d1aad136b8b9f4..a8b1505e706af392e4b7688bacce86d307f1d132 100644
+--- a/alan/fitness/exercises/properties/skill-cost.select-property.ts
++++ b/alan/fitness/exercises/properties/skill-cost.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const skillCost = {
+   id: "01a0657e-2bc0-70b8-9883-2ec311b92460",
+diff --git a/alan/fitness/exercises/properties/trains-lengthened-range.boolean-property.ts b/alan/fitness/exercises/properties/trains-lengthened-range.boolean-property.ts
+index 08096788a0e61cfa9f5f976cc35f3e9a51cc04f5..c61a172df8ea48e8722dba6615758cd7daba0bf1 100644
+--- a/alan/fitness/exercises/properties/trains-lengthened-range.boolean-property.ts
++++ b/alan/fitness/exercises/properties/trains-lengthened-range.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type TrainsLengthenedRange = boolean
+ 
+diff --git a/alan/fitness/mobility-readings/mobility-reading.page-type.ts b/alan/fitness/mobility-readings/mobility-reading.page-type.ts
+index 7add85fe2bec7d2461dc8b9635dc5b18d9cbcaf1..de092378237937895d986fe9f9c1852ff6cbcff5 100644
+--- a/alan/fitness/mobility-readings/mobility-reading.page-type.ts
++++ b/alan/fitness/mobility-readings/mobility-reading.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Title } from "../../../pages/properties/title.text-property.ts"
+ import type { Note } from "../set-logs/properties/note.text-property.ts"
+ import type { Context } from "./properties/context.select-property.ts"
+diff --git a/alan/fitness/mobility-readings/properties/context.select-property.ts b/alan/fitness/mobility-readings/properties/context.select-property.ts
+index 28b43f5ce1911a6514431e2e949b59ed66e6612a..9bc2d8332f8ecf1d24facad92b7c7f0cbb88402e 100644
+--- a/alan/fitness/mobility-readings/properties/context.select-property.ts
++++ b/alan/fitness/mobility-readings/properties/context.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const context = {
+   id: "01a06558-36e9-73bd-936b-ca5d3357886a",
+diff --git a/alan/fitness/mobility-readings/properties/mobility-reading-date.calendar-date-property.ts b/alan/fitness/mobility-readings/properties/mobility-reading-date.calendar-date-property.ts
+index ad382f1f8f00e58ca707b7755a377324edbf39e8..5f6e264ae1a25ae683929632277ddcee2664587e 100644
+--- a/alan/fitness/mobility-readings/properties/mobility-reading-date.calendar-date-property.ts
++++ b/alan/fitness/mobility-readings/properties/mobility-reading-date.calendar-date-property.ts
+@@ -1,4 +1,4 @@
+-import type { CalendarDateProperty } from "@akasha/pages-system/calendar-date-property"
++import type { CalendarDateProperty } from "@akasha/pages/calendar-date-property"
+ 
+ export type MobilityReadingDate = string
+ 
+diff --git a/alan/fitness/mobility-readings/properties/mobility-reading-metric.select-property.ts b/alan/fitness/mobility-readings/properties/mobility-reading-metric.select-property.ts
+index 0be600edcce86a93ed2e8b20cf7b457073d6ed0a..190729c234fa26f38d11457fcbe86f6ffcfdb9ab 100644
+--- a/alan/fitness/mobility-readings/properties/mobility-reading-metric.select-property.ts
++++ b/alan/fitness/mobility-readings/properties/mobility-reading-metric.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const mobilityReadingMetric = {
+   id: "01a06558-36e9-75cc-bf53-dedc96579d71",
+diff --git a/alan/fitness/mobility-readings/properties/mobility-reading-value-num.number-property.ts b/alan/fitness/mobility-readings/properties/mobility-reading-value-num.number-property.ts
+index 045e10936bee1ceea1b758aa45770b92e6459fcf..cd5020d1b0e09b90f0cef6c6d0ef13220f3b8a43 100644
+--- a/alan/fitness/mobility-readings/properties/mobility-reading-value-num.number-property.ts
++++ b/alan/fitness/mobility-readings/properties/mobility-reading-value-num.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type MobilityReadingValueNum = number
+ 
+diff --git a/alan/fitness/mobility-readings/properties/mobility-reading-value-text.text-property.ts b/alan/fitness/mobility-readings/properties/mobility-reading-value-text.text-property.ts
+index 4738bc920a56e6a48a63092460fa3def699d5562..640bd6c6d8c83511c362102950c557ac46153ac7 100644
+--- a/alan/fitness/mobility-readings/properties/mobility-reading-value-text.text-property.ts
++++ b/alan/fitness/mobility-readings/properties/mobility-reading-value-text.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type MobilityReadingValueText = string
+ 
+diff --git a/alan/fitness/mobility-readings/properties/side.select-property.ts b/alan/fitness/mobility-readings/properties/side.select-property.ts
+index e1117b260788b5f0805c3e7685b0ccc07c427804..b7693b61e0723354cb303fd6a20ab41f5ef68278 100644
+--- a/alan/fitness/mobility-readings/properties/side.select-property.ts
++++ b/alan/fitness/mobility-readings/properties/side.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const side = {
+   id: "01a06558-36e9-7eab-9e75-8ad48e61258a",
+diff --git a/alan/fitness/schedule-days/properties/day-of-week.select-property.ts b/alan/fitness/schedule-days/properties/day-of-week.select-property.ts
+index 2e78e150e4194612e0b74ec3b58e1bfe8f1d7b38..a6ff295462dea7e1c46b9228c56a039a0ea92e5a 100644
+--- a/alan/fitness/schedule-days/properties/day-of-week.select-property.ts
++++ b/alan/fitness/schedule-days/properties/day-of-week.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const dayOfWeek = {
+   id: "01a0657a-e62d-7e2c-96f2-7108ef5b0bf1",
+diff --git a/alan/fitness/schedule-days/properties/focus.select-property.ts b/alan/fitness/schedule-days/properties/focus.select-property.ts
+index 426491095f588e92c2cdb1fc7a779850194c6cc2..fe01aa0f8bc04cdf44a0be96ede8493cf543ad7a 100644
+--- a/alan/fitness/schedule-days/properties/focus.select-property.ts
++++ b/alan/fitness/schedule-days/properties/focus.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const focus = {
+   id: "01a0657a-e62d-7b35-94f4-44d27343d54f",
+diff --git a/alan/fitness/schedule-days/properties/schedule-slug.relation-property.ts b/alan/fitness/schedule-days/properties/schedule-slug.relation-property.ts
+index dd4f16843c4529f0283e3c8a38cf626c021d09cf..bfb7cb3dfafa713e49bf70dd5701cff74b222f18 100644
+--- a/alan/fitness/schedule-days/properties/schedule-slug.relation-property.ts
++++ b/alan/fitness/schedule-days/properties/schedule-slug.relation-property.ts
+@@ -1,5 +1,5 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type ScheduleSlug = Slug
+ 
+diff --git a/alan/fitness/schedule-days/schedule-day.page-type.ts b/alan/fitness/schedule-days/schedule-day.page-type.ts
+index c1d1be4f5bfeb6f1979c1e3763b8038a2e863908..4faf8e00fea7132f54fad68b4001599c43c7d48f 100644
+--- a/alan/fitness/schedule-days/schedule-day.page-type.ts
++++ b/alan/fitness/schedule-days/schedule-day.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Title } from "../../../pages/properties/title.text-property.ts"
+ import type { DayOfWeek } from "./properties/day-of-week.select-property.ts"
+ import type { Focus } from "./properties/focus.select-property.ts"
+diff --git a/alan/fitness/selection-policies/properties/anchor-block-weeks.number-property.ts b/alan/fitness/selection-policies/properties/anchor-block-weeks.number-property.ts
+index de8c058ec1b1ed13ac859ed0319b9c008cc55b83..f29d06a771bc0df55e160e363fe48d9125591dab 100644
+--- a/alan/fitness/selection-policies/properties/anchor-block-weeks.number-property.ts
++++ b/alan/fitness/selection-policies/properties/anchor-block-weeks.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type AnchorBlockWeeks = number
+ 
+diff --git a/alan/fitness/selection-policies/properties/anchor-escape-rpe-ceiling.number-property.ts b/alan/fitness/selection-policies/properties/anchor-escape-rpe-ceiling.number-property.ts
+index 1267811fadd88ddcbdb9008f9f9688ad7b45782b..0af0ef6104fbece5b02db3c79ea8b0ba197c9381 100644
+--- a/alan/fitness/selection-policies/properties/anchor-escape-rpe-ceiling.number-property.ts
++++ b/alan/fitness/selection-policies/properties/anchor-escape-rpe-ceiling.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type AnchorEscapeRpeCeiling = number
+ 
+diff --git a/alan/fitness/selection-policies/properties/layoff-grace-days.number-property.ts b/alan/fitness/selection-policies/properties/layoff-grace-days.number-property.ts
+index 053d6b69b67de64bd684654e2737518fdc48f5e6..2e82cbbb14137682ab85ee193ac7010920998786 100644
+--- a/alan/fitness/selection-policies/properties/layoff-grace-days.number-property.ts
++++ b/alan/fitness/selection-policies/properties/layoff-grace-days.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type LayoffGraceDays = number
+ 
+diff --git a/alan/fitness/selection-policies/properties/layoff-max-load-reduction.number-property.ts b/alan/fitness/selection-policies/properties/layoff-max-load-reduction.number-property.ts
+index b70396dfaf3aa13ec20c887519cf24a51cabb88f..ab423b91fa0b981c63cbe60ac9fbe4ab4725721b 100644
+--- a/alan/fitness/selection-policies/properties/layoff-max-load-reduction.number-property.ts
++++ b/alan/fitness/selection-policies/properties/layoff-max-load-reduction.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type LayoffMaxLoadReduction = number
+ 
+diff --git a/alan/fitness/selection-policies/properties/layoff-saturation-days.number-property.ts b/alan/fitness/selection-policies/properties/layoff-saturation-days.number-property.ts
+index b992132cb9040301e3053ad9e8f55c033488e407..684542150c18a69ddb0873552d6d5e7fa8df15cf 100644
+--- a/alan/fitness/selection-policies/properties/layoff-saturation-days.number-property.ts
++++ b/alan/fitness/selection-policies/properties/layoff-saturation-days.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type LayoffSaturationDays = number
+ 
+diff --git a/alan/fitness/selection-policies/properties/novelty-cap-per-session.number-property.ts b/alan/fitness/selection-policies/properties/novelty-cap-per-session.number-property.ts
+index f495a2fc70b95eb13de6162c0f7452ec465e951b..1693e6b3c8deba7fcc37bbbf89e3906307a3476e 100644
+--- a/alan/fitness/selection-policies/properties/novelty-cap-per-session.number-property.ts
++++ b/alan/fitness/selection-policies/properties/novelty-cap-per-session.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type NoveltyCapPerSession = number
+ 
+diff --git a/alan/fitness/selection-policies/properties/recency-saturation-days.number-property.ts b/alan/fitness/selection-policies/properties/recency-saturation-days.number-property.ts
+index d4b2c4f075ac5f8d94c3bf7918278ea6cefca403..faa0819c3ec71e7701f3695d7967e699b96a46ba 100644
+--- a/alan/fitness/selection-policies/properties/recency-saturation-days.number-property.ts
++++ b/alan/fitness/selection-policies/properties/recency-saturation-days.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type RecencySaturationDays = number
+ 
+diff --git a/alan/fitness/selection-policies/properties/recency-weight.number-property.ts b/alan/fitness/selection-policies/properties/recency-weight.number-property.ts
+index 378bb2d39e524cff9d28c8ddd1dacc3cf4a56c2d..83851794b5fa1d130f1565ea183c381da309d17c 100644
+--- a/alan/fitness/selection-policies/properties/recency-weight.number-property.ts
++++ b/alan/fitness/selection-policies/properties/recency-weight.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type RecencyWeight = number
+ 
+diff --git a/alan/fitness/selection-policies/properties/weekly-set-ceiling.number-property.ts b/alan/fitness/selection-policies/properties/weekly-set-ceiling.number-property.ts
+index 8eff8519938fc49380054add0cb74ac71eb19124..27847ab1a4e474a7ba72822a6afe528b52355a4b 100644
+--- a/alan/fitness/selection-policies/properties/weekly-set-ceiling.number-property.ts
++++ b/alan/fitness/selection-policies/properties/weekly-set-ceiling.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type WeeklySetCeiling = number
+ 
+diff --git a/alan/fitness/selection-policies/properties/weekly-set-floor.number-property.ts b/alan/fitness/selection-policies/properties/weekly-set-floor.number-property.ts
+index 401c6bbe9ab9c8a4c2eda9ccfef71f1a3df36853..3727a0f808e90918f448f65d5eac254062a79941 100644
+--- a/alan/fitness/selection-policies/properties/weekly-set-floor.number-property.ts
++++ b/alan/fitness/selection-policies/properties/weekly-set-floor.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type WeeklySetFloor = number
+ 
+diff --git a/alan/fitness/selection-policies/properties/weight-aesthetics.number-property.ts b/alan/fitness/selection-policies/properties/weight-aesthetics.number-property.ts
+index cc7bf0ab1537489fa6192b84b8a022935f08c3cf..842e735b3b05365fbc53f3f821802a9c4684c6ed 100644
+--- a/alan/fitness/selection-policies/properties/weight-aesthetics.number-property.ts
++++ b/alan/fitness/selection-policies/properties/weight-aesthetics.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type WeightAesthetics = number
+ 
+diff --git a/alan/fitness/selection-policies/properties/weight-energy.number-property.ts b/alan/fitness/selection-policies/properties/weight-energy.number-property.ts
+index df5e0b19f41719e890e6ec9e96fd34e3c8b8206b..33ec940ddfd11848e8f4e9550180781bf164a822 100644
+--- a/alan/fitness/selection-policies/properties/weight-energy.number-property.ts
++++ b/alan/fitness/selection-policies/properties/weight-energy.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type WeightEnergy = number
+ 
+diff --git a/alan/fitness/selection-policies/properties/weight-functionality.number-property.ts b/alan/fitness/selection-policies/properties/weight-functionality.number-property.ts
+index f84ed949a6af6700ee3bd969d8c0929ceec87269..ea71336384205449307db12c557ffab18fb86c98 100644
+--- a/alan/fitness/selection-policies/properties/weight-functionality.number-property.ts
++++ b/alan/fitness/selection-policies/properties/weight-functionality.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type WeightFunctionality = number
+ 
+diff --git a/alan/fitness/selection-policies/properties/weight-longevity.number-property.ts b/alan/fitness/selection-policies/properties/weight-longevity.number-property.ts
+index 06b2ef5748b868d19298a229666b169f227f90ae..6eabb3c0a0d35ac94bdae7d54a002e045ee9c4a8 100644
+--- a/alan/fitness/selection-policies/properties/weight-longevity.number-property.ts
++++ b/alan/fitness/selection-policies/properties/weight-longevity.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type WeightLongevity = number
+ 
+diff --git a/alan/fitness/selection-policies/properties/zone2-weekly-floor.number-property.ts b/alan/fitness/selection-policies/properties/zone2-weekly-floor.number-property.ts
+index 7b126b8a0a38c4958093093994182d9b5a5af15d..275009363a1713647b234e930bdb42b99c6da010 100644
+--- a/alan/fitness/selection-policies/properties/zone2-weekly-floor.number-property.ts
++++ b/alan/fitness/selection-policies/properties/zone2-weekly-floor.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type Zone2WeeklyFloor = number
+ 
+diff --git a/alan/fitness/selection-policies/selection-policy.page-type.ts b/alan/fitness/selection-policies/selection-policy.page-type.ts
+index 1c4572374160e7016c235ef0b83ac44c5d5b8159..141f26b0db67c11ee6607ca352a41f18dde511fc 100644
+--- a/alan/fitness/selection-policies/selection-policy.page-type.ts
++++ b/alan/fitness/selection-policies/selection-policy.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { AnchorBlockWeeks } from "./properties/anchor-block-weeks.number-property.ts"
+ import type { AnchorEscapeRpeCeiling } from "./properties/anchor-escape-rpe-ceiling.number-property.ts"
+ import type { LayoffGraceDays } from "./properties/layoff-grace-days.number-property.ts"
+diff --git a/alan/fitness/set-logs/properties/activity-type.select-property.ts b/alan/fitness/set-logs/properties/activity-type.select-property.ts
+index 2b1ad08bff7246057c4d1b47f5cad3a6c5bc417c..af89b3c1cb14dd67233f4a9f54bea9b3eae564e0 100644
+--- a/alan/fitness/set-logs/properties/activity-type.select-property.ts
++++ b/alan/fitness/set-logs/properties/activity-type.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const activityType = {
+   id: "01a06580-66fd-7f9b-af43-203744c8d848",
+diff --git a/alan/fitness/set-logs/properties/distance.number-property.ts b/alan/fitness/set-logs/properties/distance.number-property.ts
+index 29ef106b8838c5e5372ffd4987df3277c99954bc..83c7af20dbad9299b969fbbae75a5ff82f53f215 100644
+--- a/alan/fitness/set-logs/properties/distance.number-property.ts
++++ b/alan/fitness/set-logs/properties/distance.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type Distance = number
+ 
+diff --git a/alan/fitness/set-logs/properties/duration-seconds.number-property.ts b/alan/fitness/set-logs/properties/duration-seconds.number-property.ts
+index acf5ef1b1009d376d50e8db6f565b21f4458583d..aacfc560c123157524702e9fe0ed9a17051405e8 100644
+--- a/alan/fitness/set-logs/properties/duration-seconds.number-property.ts
++++ b/alan/fitness/set-logs/properties/duration-seconds.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type DurationSeconds = number
+ 
+diff --git a/alan/fitness/set-logs/properties/exercise-slug.relation-property.ts b/alan/fitness/set-logs/properties/exercise-slug.relation-property.ts
+index 0b76381c23374c92193ede6714d89a380bb3b214..2dff9393667eb05cb54eb589c745ce502e76d642 100644
+--- a/alan/fitness/set-logs/properties/exercise-slug.relation-property.ts
++++ b/alan/fitness/set-logs/properties/exercise-slug.relation-property.ts
+@@ -1,5 +1,5 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type ExerciseSlug = Slug
+ 
+diff --git a/alan/fitness/set-logs/properties/is-warmup.boolean-property.ts b/alan/fitness/set-logs/properties/is-warmup.boolean-property.ts
+index 7890e328a21840d3c05495f33c8a20088a962478..b98303c4920ae6b929ef16a43725a1c8ccac3c45 100644
+--- a/alan/fitness/set-logs/properties/is-warmup.boolean-property.ts
++++ b/alan/fitness/set-logs/properties/is-warmup.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type IsWarmup = boolean
+ 
+diff --git a/alan/fitness/set-logs/properties/note.text-property.ts b/alan/fitness/set-logs/properties/note.text-property.ts
+index 11645247d83b4851da4ca5d47aa2c59d03ed10b0..0caac26d6033b15fcbe5e5e56ec287faf7e69322 100644
+--- a/alan/fitness/set-logs/properties/note.text-property.ts
++++ b/alan/fitness/set-logs/properties/note.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Note = string
+ 
+diff --git a/alan/fitness/set-logs/properties/reps.number-property.ts b/alan/fitness/set-logs/properties/reps.number-property.ts
+index 5e0d6a8f3936bec7f985041db77dadca0240cde4..9b27800be68c1d8757a496c29db6cc9c7ba7b499 100644
+--- a/alan/fitness/set-logs/properties/reps.number-property.ts
++++ b/alan/fitness/set-logs/properties/reps.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type Reps = number
+ 
+diff --git a/alan/fitness/set-logs/properties/rpe.number-property.ts b/alan/fitness/set-logs/properties/rpe.number-property.ts
+index 121a1e4fe739d969291afde973ed68848c914c63..b47a104770ca61731f14436986d7f4f87d3685fb 100644
+--- a/alan/fitness/set-logs/properties/rpe.number-property.ts
++++ b/alan/fitness/set-logs/properties/rpe.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type Rpe = number
+ 
+diff --git a/alan/fitness/set-logs/properties/session-slug.relation-property.ts b/alan/fitness/set-logs/properties/session-slug.relation-property.ts
+index d27709b1a748b745c3f9b7a29ebdc85de6b1920b..713d76b3018e67bcd4d8922159920216b008cb07 100644
+--- a/alan/fitness/set-logs/properties/session-slug.relation-property.ts
++++ b/alan/fitness/set-logs/properties/session-slug.relation-property.ts
+@@ -1,5 +1,5 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type SessionSlug = Slug
+ 
+diff --git a/alan/fitness/set-logs/properties/set-number.number-property.ts b/alan/fitness/set-logs/properties/set-number.number-property.ts
+index bdceb1a96007a3b292a26e8f7feaf9a052ed1209..bbfda85ad1827c7641b42253ac410683686da643 100644
+--- a/alan/fitness/set-logs/properties/set-number.number-property.ts
++++ b/alan/fitness/set-logs/properties/set-number.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type SetNumber = number
+ 
+diff --git a/alan/fitness/set-logs/properties/weight.number-property.ts b/alan/fitness/set-logs/properties/weight.number-property.ts
+index 70ecfa8111c647f928df0b912a0d946f9ab37e9c..eb9a6323ab7dc849bd62763aefdfb6519ad0c5cc 100644
+--- a/alan/fitness/set-logs/properties/weight.number-property.ts
++++ b/alan/fitness/set-logs/properties/weight.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type Weight = number
+ 
+diff --git a/alan/fitness/set-logs/set-log.page-type.ts b/alan/fitness/set-logs/set-log.page-type.ts
+index 393943654ab8391275fd79f702ed2da03241ef33..09b39ec35977bcf8c189c19257a1a82bf6a1da12 100644
+--- a/alan/fitness/set-logs/set-log.page-type.ts
++++ b/alan/fitness/set-logs/set-log.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Title } from "../../../pages/properties/title.text-property.ts"
+ import type { ActivityType } from "./properties/activity-type.select-property.ts"
+ import type { Distance } from "./properties/distance.number-property.ts"
+diff --git a/alan/fitness/workout-schedules/properties/workout-schedule-active.boolean-property.ts b/alan/fitness/workout-schedules/properties/workout-schedule-active.boolean-property.ts
+index e6b356ae8430b71cc9293e7a0b27f68566560f8c..451d18f2121738d47f1165179b77156dad70099f 100644
+--- a/alan/fitness/workout-schedules/properties/workout-schedule-active.boolean-property.ts
++++ b/alan/fitness/workout-schedules/properties/workout-schedule-active.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type WorkoutScheduleActive = boolean
+ 
+diff --git a/alan/fitness/workout-schedules/properties/workout-schedule-description.text-property.ts b/alan/fitness/workout-schedules/properties/workout-schedule-description.text-property.ts
+index 586a2df34986fcca4ef07e31340cba00eb879b6f..f504685f61c4dbdcc9c7016914900d239136684d 100644
+--- a/alan/fitness/workout-schedules/properties/workout-schedule-description.text-property.ts
++++ b/alan/fitness/workout-schedules/properties/workout-schedule-description.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type WorkoutScheduleDescription = string
+ 
+diff --git a/alan/fitness/workout-schedules/workout-schedule.page-type.ts b/alan/fitness/workout-schedules/workout-schedule.page-type.ts
+index 9c2415c9f0791129a38eae174a2852dbee559567..63e52b8385edd9a41f37ac06da7d3c488a892d9c 100644
+--- a/alan/fitness/workout-schedules/workout-schedule.page-type.ts
++++ b/alan/fitness/workout-schedules/workout-schedule.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Title } from "../../../pages/properties/title.text-property.ts"
+ import type { WorkoutScheduleActive } from "./properties/workout-schedule-active.boolean-property.ts"
+ import type { WorkoutScheduleDescription } from "./properties/workout-schedule-description.text-property.ts"
+diff --git a/alan/fitness/workout-sessions/properties/schedule-day-slug.relation-property.ts b/alan/fitness/workout-sessions/properties/schedule-day-slug.relation-property.ts
+index 045000b07875db24ef8e0a21eff218d9c1c99d4e..a8fa1f2a0065618b6abc8cdbad83b52627c48bf4 100644
+--- a/alan/fitness/workout-sessions/properties/schedule-day-slug.relation-property.ts
++++ b/alan/fitness/workout-sessions/properties/schedule-day-slug.relation-property.ts
+@@ -1,5 +1,5 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type ScheduleDaySlug = Slug
+ 
+diff --git a/alan/fitness/workout-sessions/properties/workout-session-completed-at.instant-property.ts b/alan/fitness/workout-sessions/properties/workout-session-completed-at.instant-property.ts
+index bdf440b8ade9eaf6a455a1727f3e1771e310e75e..df6e2f5eaa1645aa7432f58788cffb07dabe6bac 100644
+--- a/alan/fitness/workout-sessions/properties/workout-session-completed-at.instant-property.ts
++++ b/alan/fitness/workout-sessions/properties/workout-session-completed-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type WorkoutSessionCompletedAt = string
+ 
+diff --git a/alan/fitness/workout-sessions/properties/workout-session-date.calendar-date-property.ts b/alan/fitness/workout-sessions/properties/workout-session-date.calendar-date-property.ts
+index 1987ebcc66fedce0fb1b17cc485701b6b6c8bd2e..f396912f56fffd217fbd69b361719dbf0db74cf6 100644
+--- a/alan/fitness/workout-sessions/properties/workout-session-date.calendar-date-property.ts
++++ b/alan/fitness/workout-sessions/properties/workout-session-date.calendar-date-property.ts
+@@ -1,4 +1,4 @@
+-import type { CalendarDateProperty } from "@akasha/pages-system/calendar-date-property"
++import type { CalendarDateProperty } from "@akasha/pages/calendar-date-property"
+ 
+ export type WorkoutSessionDate = string
+ 
+diff --git a/alan/fitness/workout-sessions/properties/workout-session-notes.text-property.ts b/alan/fitness/workout-sessions/properties/workout-session-notes.text-property.ts
+index b47948560bc5ddfdc84a9a1a11bf23e2bc00a7b6..9f067d7061085e67b781a7802ff87f7728efdfde 100644
+--- a/alan/fitness/workout-sessions/properties/workout-session-notes.text-property.ts
++++ b/alan/fitness/workout-sessions/properties/workout-session-notes.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type WorkoutSessionNotes = string
+ 
+diff --git a/alan/fitness/workout-sessions/properties/workout-session-started-at.instant-property.ts b/alan/fitness/workout-sessions/properties/workout-session-started-at.instant-property.ts
+index fd321b36a5bffc86e290ab08569fca447791e56f..5ba51382fa19fe12fe7af8f1b4ffb296b6da60d1 100644
+--- a/alan/fitness/workout-sessions/properties/workout-session-started-at.instant-property.ts
++++ b/alan/fitness/workout-sessions/properties/workout-session-started-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type WorkoutSessionStartedAt = string
+ 
+diff --git a/alan/fitness/workout-sessions/workout-session.page-type.ts b/alan/fitness/workout-sessions/workout-session.page-type.ts
+index 85fa4cfa1e4daf40be80ab351c29fc6773e649f5..d00ed91035eaaa9e10c06d2f36f7db3a46305a13 100644
+--- a/alan/fitness/workout-sessions/workout-session.page-type.ts
++++ b/alan/fitness/workout-sessions/workout-session.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Title } from "../../../pages/properties/title.text-property.ts"
+ import type { ScheduleDaySlug } from "./properties/schedule-day-slug.relation-property.ts"
+ import type { WorkoutSessionCompletedAt } from "./properties/workout-session-completed-at.instant-property.ts"
+diff --git a/alan/harness/attributes/reading/attributes-reading.module.code.ts b/alan/harness/attributes/reading/attributes-reading.module.code.ts
+index 2a8cd0d55eca263adc20ca951d9eae4b73a04ae9..9da75ff5ef7e14082fe49d9c4ae7bf41058c126b 100644
+--- a/alan/harness/attributes/reading/attributes-reading.module.code.ts
++++ b/alan/harness/attributes/reading/attributes-reading.module.code.ts
+@@ -1,5 +1,5 @@
+ import { getEsoDayStr } from "@akasha/day/eso-day"
+-import { AKASHA, resolveRoots } from "@akasha/pages-system/checkout-roots"
++import { AKASHA, resolveRoots } from "@akasha/pages/checkout-roots"
+ import { charismaIn } from "@akasha/readout-system/attribute-charisma"
+ import { fetchConstitutionPoints } from "@akasha/readout-system/attribute-constitution"
+ import { enduranceIn } from "@akasha/readout-system/attribute-endurance"
+diff --git a/alan/harness/calendar/calendar-event-sources/calendar-event-source.page-type.ts b/alan/harness/calendar/calendar-event-sources/calendar-event-source.page-type.ts
+index e39e88622064be28f9b66cd2d6dc1f1d40338f1a..50e6d8fbaa4fdad45dab0abbf1867abba719d140 100644
+--- a/alan/harness/calendar/calendar-event-sources/calendar-event-source.page-type.ts
++++ b/alan/harness/calendar/calendar-event-sources/calendar-event-source.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ import type { CalendarSourceBaseUrl } from "./properties/calendar-source-base-url.url-property.ts"
+ import type { CalendarSourceColor } from "./properties/calendar-source-color.text-property.ts"
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-base-url.url-property.ts b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-base-url.url-property.ts
+index 8c36d28cb3e1bf812efb31bc1bb4f50da2e4360c..21d65a473cf097bdf16b49d2ab15763e4708bb11 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-base-url.url-property.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-base-url.url-property.ts
+@@ -1,4 +1,4 @@
+-import type { UrlProperty } from "@akasha/pages-system/url-property"
++import type { UrlProperty } from "@akasha/pages/url-property"
+ 
+ export type CalendarSourceBaseUrl = string
+ 
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-color.text-property.ts b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-color.text-property.ts
+index fe0d6e57e0a896979be58260151a8c3915205f67..f0a3a1299d273d871dc2ec233fc47c318b43e5d3 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-color.text-property.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-color.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CalendarSourceColor = string
+ 
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-detail-url-template.text-property.ts b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-detail-url-template.text-property.ts
+index 31e49d39cbd6474917a6a9aba38400627e63864a..d2c9a5c20fc932c458fb630f53cf66fa322fe777 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-detail-url-template.text-property.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-detail-url-template.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CalendarSourceDetailUrlTemplate = string
+ 
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-external-id.text-property.ts b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-external-id.text-property.ts
+index 0bb838cec95f4b8ad854936c19d4d04e33b29715..7ec5c6adf40d3bc5cf86baaabf8e24058bb948f8 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-external-id.text-property.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-external-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CalendarSourceExternalId = string
+ 
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-feed-url.url-property.ts b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-feed-url.url-property.ts
+index 491c925a9085dab27968bffcaec2cdad1c8e22ea..509e38627eb6da3db8259dac2c3a90edcc892ec5 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-feed-url.url-property.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-feed-url.url-property.ts
+@@ -1,4 +1,4 @@
+-import type { UrlProperty } from "@akasha/pages-system/url-property"
++import type { UrlProperty } from "@akasha/pages/url-property"
+ 
+ export type CalendarSourceFeedUrl = string
+ 
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-kind.text-property.ts b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-kind.text-property.ts
+index 7443bd5a9b1fc48377039730193d07bb93344515..ae884b30946473f9868eff7e698bae1ce850f5ea 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-kind.text-property.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-kind.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CalendarSourceKind = string
+ 
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-provider-client.text-property.ts b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-provider-client.text-property.ts
+index 35ee5254d8ab488d520e1f40371cbd75e1592da1..99a3453f6850c727861b8153be4ef2b90d9638d5 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-provider-client.text-property.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-provider-client.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CalendarSourceProviderClient = string
+ 
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-sync-status.text-property.ts b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-sync-status.text-property.ts
+index c59a3699432846b4e134c3675202f22b457641b0..dffea291dc54e9965799fbaeadc04b1665e00d11 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-sync-status.text-property.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-sync-status.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CalendarSourceSyncStatus = string
+ 
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-timezone.text-property.ts b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-timezone.text-property.ts
+index 9dceb8918e04946ac5df690f58023edf9044e970..80b5471dfb03241997d95160c647c21cc15ae536 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-timezone.text-property.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-timezone.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CalendarSourceTimezone = string
+ 
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/events.page-property-entry.ts b/alan/harness/calendar/calendar-event-sources/properties/events.page-property-entry.ts
+index 8a263997e24496d67fa95157039e196b4bbfd649..1e32252df0e0450113a136986c4c8608257c4d8b 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/events.page-property-entry.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/events.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type Events = "jsonl"
+ 
+diff --git a/alan/harness/calendar/calendar-events/calendar-event.page-type.ts b/alan/harness/calendar/calendar-events/calendar-event.page-type.ts
+index 3963ea3ed3476d1fc75c666d1d1507a771bdb049..70ea53dc753acf57a1eea0c8bb4c9131e07c567c 100644
+--- a/alan/harness/calendar/calendar-events/calendar-event.page-type.ts
++++ b/alan/harness/calendar/calendar-events/calendar-event.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { CalendarEventAgeGroups } from "./properties/calendar-event-age-groups.text-property.ts"
+ import type { CalendarEventAllDay } from "./properties/calendar-event-all-day.boolean-property.ts"
+ import type { CalendarEventDescription } from "./properties/calendar-event-description.text-property.ts"
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-age-groups.text-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-age-groups.text-property.ts
+index 0df4523f294a25d88d233233496beead5d34feb4..83a16dee0e263658cbf12df6b54611eabe9a87c1 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-age-groups.text-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-age-groups.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CalendarEventAgeGroups = readonly string[]
+ 
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-all-day.boolean-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-all-day.boolean-property.ts
+index 6681598f3c7118c9910b457acbae1611562b5cb3..4e93a10be0fdf1f9b55db2bea70e4c343b2af80e 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-all-day.boolean-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-all-day.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type CalendarEventAllDay = boolean
+ 
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-description.text-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-description.text-property.ts
+index bc09c01ad84784461588e9b90311b977db83ea0b..e5af2879ce46b2745f27dbd5b2c376466e36d797 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-description.text-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-description.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CalendarEventDescription = string
+ 
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-end-at.instant-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-end-at.instant-property.ts
+index 67b321cc148a6e3a7f4ad5d0bae9ce7eda42c271..3adbd8982e8f948ef789ab4b19dd034c4a8cb397 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-end-at.instant-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-end-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type CalendarEventEndAt = string
+ 
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-external-id.text-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-external-id.text-property.ts
+index ff6d2b6365a4193f33c27b7f2183fa375fae4cf8..fe147eb06d314a78d82437e416e843c4a8c2cc09 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-external-id.text-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-external-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CalendarEventExternalId = string
+ 
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-external-link.url-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-external-link.url-property.ts
+index d831b6e81106165a5093a93b1ca179f96c069e81..576b8b33038aabc4dda04625fa1b718944570a5c 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-external-link.url-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-external-link.url-property.ts
+@@ -1,4 +1,4 @@
+-import type { UrlProperty } from "@akasha/pages-system/url-property"
++import type { UrlProperty } from "@akasha/pages/url-property"
+ 
+ export type CalendarEventExternalLink = string
+ 
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-image-url.url-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-image-url.url-property.ts
+index 4bb6ddb397e9c4f298cdfc5ea8e61f8ae18080b5..97e9cffdfa6f68bc7f6e63a6945548fec84020c3 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-image-url.url-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-image-url.url-property.ts
+@@ -1,4 +1,4 @@
+-import type { UrlProperty } from "@akasha/pages-system/url-property"
++import type { UrlProperty } from "@akasha/pages/url-property"
+ 
+ export type CalendarEventImageUrl = string
+ 
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-last-synced-at.instant-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-last-synced-at.instant-property.ts
+index 6a4afbec2ba89a6eed8901805ceb9bb996e3a9cc..47650897714592560f44113d0c3d569c55dabbfe 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-last-synced-at.instant-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-last-synced-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type CalendarEventLastSyncedAt = string
+ 
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-location.text-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-location.text-property.ts
+index 7d69112f65c73c16a9b1e1c01a36ab39ff3f7f06..ae13144a1c38e31b771f5702d84a58f6c88d80d1 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-location.text-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-location.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CalendarEventLocation = string
+ 
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-max-attendees.number-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-max-attendees.number-property.ts
+index 52224a635d9375ced6e0333224fd97177230ecdf..0bb24909c3776900b6d8470927f4ca116429fdd5 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-max-attendees.number-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-max-attendees.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type CalendarEventMaxAttendees = number
+ 
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-registration-opens-at.instant-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-registration-opens-at.instant-property.ts
+index 8ea70012e34af3f8aa5d6c1d4dcc666b02a7be6b..25f02989b76a361d8ba181f97dd2b660c4b8aec9 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-registration-opens-at.instant-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-registration-opens-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type CalendarEventRegistrationOpensAt = string
+ 
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-registration-required.boolean-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-registration-required.boolean-property.ts
+index aa806383b371977d49877258c5e123a8fabb41ef..6097ffa5c669e24f5332b1791939e2c4cb2f40b7 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-registration-required.boolean-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-registration-required.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type CalendarEventRegistrationRequired = boolean
+ 
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-registration-url.url-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-registration-url.url-property.ts
+index 997cb51ffe3d03411589b33be12c29acfcee54d3..6ce5099d2a53edcaf996c8dc55c1e24d5b028b12 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-registration-url.url-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-registration-url.url-property.ts
+@@ -1,4 +1,4 @@
+-import type { UrlProperty } from "@akasha/pages-system/url-property"
++import type { UrlProperty } from "@akasha/pages/url-property"
+ 
+ export type CalendarEventRegistrationUrl = string
+ 
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-start-at.instant-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-start-at.instant-property.ts
+index 75d51ac1ae2fca25776499dfff624c026859e450..5bd2b0aa698b38562cee0a7e6fc8b35750b63cbf 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-start-at.instant-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-start-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type CalendarEventStartAt = string
+ 
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-tags.text-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-tags.text-property.ts
+index 01593421d6a790d049cda9b0b95bd587c5a7dfdd..1864f3a70cf4946a0bc07c57f986014b1939d517 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-tags.text-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-tags.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CalendarEventTags = readonly string[]
+ 
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-types.text-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-types.text-property.ts
+index a24ef3f4f27ab5a0e76de78edd8483b7c8fc922c..b9f68b26c71ba684c3de46930e26964999da9253 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-types.text-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-types.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CalendarEventTypes = readonly string[]
+ 
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
+index b9bc64447677ad2a8a75d1377245f366c08753a5..b796a34aa60a06ba7c3c8c8514d016ee3f198384 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { AmbientTypes } from "../../../../code-system/type-declarations/properties/ambient-types.file-property.ts"
+ import type { CooldownMilliseconds } from "./properties/cooldown-milliseconds.number-property.ts"
+ import type { State } from "./properties/state.file-property.ts"
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/properties/cooldown-milliseconds.number-property.ts b/alan/harness/code-editor/code-editor-data-interfaces/properties/cooldown-milliseconds.number-property.ts
+index 25d708b3e37df0326bf8b7b3eb3bdc955fbde612..eb9d7da2da01527dc644431ea79c48fbe6bed322 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/properties/cooldown-milliseconds.number-property.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/properties/cooldown-milliseconds.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type CooldownMilliseconds = number
+ 
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts b/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts
+index bf25b75219b052b01271e0e69bb8db13325b8f2c..c5af9c217d6d623e5b85f4fdb94d2b6ef0b38487 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type State = "jsonl"
+ 
+diff --git a/alan/harness/code-editor/code-editor-group-tabs/code-editor-group-tab.page-type.ts b/alan/harness/code-editor/code-editor-group-tabs/code-editor-group-tab.page-type.ts
+index 3e06b7b75f7d482187b88cba8adc789935744dcc..48c437586e49fd700ddd23e6991c4841bc5df8d2 100644
+--- a/alan/harness/code-editor/code-editor-group-tabs/code-editor-group-tab.page-type.ts
++++ b/alan/harness/code-editor/code-editor-group-tabs/code-editor-group-tab.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ 
+ export type CodeEditorGroupTab = Page
+ 
+diff --git a/alan/harness/code-editor/code-editor-groups/code-editor-group.page-type.ts b/alan/harness/code-editor/code-editor-groups/code-editor-group.page-type.ts
+index 5a458d1e1dba125568af6812dedd9a9a68bb646f..7b01bacec0bece6b5ed04c069d68b75d24257645 100644
+--- a/alan/harness/code-editor/code-editor-groups/code-editor-group.page-type.ts
++++ b/alan/harness/code-editor/code-editor-groups/code-editor-group.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ 
+ export type CodeEditorGroup = Page
+ 
+diff --git a/alan/harness/code-editor/code-editor-terminals/code-editor-terminal.page-type.ts b/alan/harness/code-editor/code-editor-terminals/code-editor-terminal.page-type.ts
+index d801325d97fe47cefdad4941190bee07c46ebc2c..5628b4165b064426b492f3474c3b7e5a9d7b123d 100644
+--- a/alan/harness/code-editor/code-editor-terminals/code-editor-terminal.page-type.ts
++++ b/alan/harness/code-editor/code-editor-terminals/code-editor-terminal.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ 
+ export type CodeEditorTerminal = Page
+ 
+diff --git a/alan/harness/code-editor/code-editor-windows/code-editor-window.page-type.ts b/alan/harness/code-editor/code-editor-windows/code-editor-window.page-type.ts
+index 31ebfd1eb00be62c1651d94a7a677a8c204a4136..f22b4b230d211364ce592c2f4d40eded365f0618 100644
+--- a/alan/harness/code-editor/code-editor-windows/code-editor-window.page-type.ts
++++ b/alan/harness/code-editor/code-editor-windows/code-editor-window.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ 
+ export type CodeEditorWindow = Page
+ 
+diff --git a/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.code.ts b/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.code.ts
+index 4c74b02063d13fc3c43cf093d72a07f8e237db2d..8e80a825d2d6fa7715d7a15a0068b723cdf70494 100644
+--- a/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.code.ts
++++ b/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.code.ts
+@@ -2,10 +2,10 @@ import { readFileSync } from "node:fs"
+ import { dirname, join } from "node:path"
+ import { landedMechanically } from "@akasha/command-system/asking"
+ import { listedAt } from "@akasha/indexes"
+-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+-import { refuseALiveTestWrite } from "@akasha/pages-system/live-store-write-guard"
+-import { bodyOf, importedFrom, unnamedIn } from "@akasha/pages-system/page-body"
+-import { nameFaultIn } from "@akasha/pages-system/page-export-name"
++import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
++import { refuseALiveTestWrite } from "@akasha/pages/live-store-write-guard"
++import { bodyOf, importedFrom, unnamedIn } from "@akasha/pages/page-body"
++import { nameFaultIn } from "@akasha/pages/page-export-name"
+ import { asking } from "@akasha/pages-system-service/asking"
+ import { wakeDayOf } from "../../../tracking/daily/day-opening/day-opening.module.code.ts"
+ 
+diff --git a/alan/harness/inboxes/inbox-count-polling/inbox-count-polling.module.code.ts b/alan/harness/inboxes/inbox-count-polling/inbox-count-polling.module.code.ts
+index 911fd35834dfb9864c8cf61924e57a46871dc66e..98a416f2277c2ca6a6a8247a19b9c17d74700af8 100644
+--- a/alan/harness/inboxes/inbox-count-polling/inbox-count-polling.module.code.ts
++++ b/alan/harness/inboxes/inbox-count-polling/inbox-count-polling.module.code.ts
+@@ -1,7 +1,7 @@
+ import { dayAfter } from "@akasha/day/day-string"
+ import { makeGmailClient } from "@akasha/google-email/client"
+ import { INBOX_LABEL, listMessages } from "@akasha/google-email/messages"
+-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
++import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+ import { asking } from "@akasha/pages-system-service/asking"
+ import type { InboxKey } from "../inbox-keys/inbox-keys.module.code.ts"
+ 
+diff --git a/alan/harness/inboxes/reading/inbox-reading.module.code.ts b/alan/harness/inboxes/reading/inbox-reading.module.code.ts
+index bf9543b60fb6227d1b730ad6b6f7ae3d3a56c276..dde7c0d3c9343940e4cf9baa46d67caae715f4a5 100644
+--- a/alan/harness/inboxes/reading/inbox-reading.module.code.ts
++++ b/alan/harness/inboxes/reading/inbox-reading.module.code.ts
+@@ -1,5 +1,5 @@
+ import { getEsoDayStr } from "@akasha/day/eso-day"
+-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
++import { resolveRoots } from "@akasha/pages/checkout-roots"
+ import { asking } from "@akasha/pages-system-service/asking"
+ import { lowestIn, mailOn } from "@akasha/readout-system/inboxes-email"
+ import { tasksIn } from "@akasha/readout-system/inboxes-tasks"
+diff --git a/alan/harness/monarch/category-rules/category-rule-agents/category-rule-agent.page-type.ts b/alan/harness/monarch/category-rules/category-rule-agents/category-rule-agent.page-type.ts
+index 4589ce6d4bee0dee36c6a1263cebc41c6d6cdd9e..2a253e75a8e3809f749fc8fcebec08d161561e17 100644
+--- a/alan/harness/monarch/category-rules/category-rule-agents/category-rule-agent.page-type.ts
++++ b/alan/harness/monarch/category-rules/category-rule-agents/category-rule-agent.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { CategoryRule } from "../category-rule.page-type.ts"
+ import type { Judgement } from "./properties/judgement.text-property.ts"
+ 
+diff --git a/alan/harness/monarch/category-rules/category-rule-agents/properties/judgement.text-property.ts b/alan/harness/monarch/category-rules/category-rule-agents/properties/judgement.text-property.ts
+index 05672842e4b6f61954f58c2cd4118c1222a3fa15..329e7b24b2ff6a48cdbdc8aee1f4d132f861fbb4 100644
+--- a/alan/harness/monarch/category-rules/category-rule-agents/properties/judgement.text-property.ts
++++ b/alan/harness/monarch/category-rules/category-rule-agents/properties/judgement.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Judgement = string
+ 
+diff --git a/alan/harness/monarch/category-rules/category-rule-codes/category-rule-code.page-type.ts b/alan/harness/monarch/category-rules/category-rule-codes/category-rule-code.page-type.ts
+index c871798a0c5a592e8ff07d4b4084d9709ba65e8b..37773e502c36fe8113baa26d30d895c0598495a8 100644
+--- a/alan/harness/monarch/category-rules/category-rule-codes/category-rule-code.page-type.ts
++++ b/alan/harness/monarch/category-rules/category-rule-codes/category-rule-code.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { CategoryRule } from "../category-rule.page-type.ts"
+ 
+ export type CategoryRuleCode = CategoryRule
+diff --git a/alan/harness/monarch/category-rules/category-rule.page-type.ts b/alan/harness/monarch/category-rules/category-rule.page-type.ts
+index dd198c0cba06f26bd69c7caf62e3dd86756b9256..88aedeac1c2c787b57ece30ccc09fc8b5d695d50 100644
+--- a/alan/harness/monarch/category-rules/category-rule.page-type.ts
++++ b/alan/harness/monarch/category-rules/category-rule.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ import type { CategorySlug } from "../monarch-months/properties/category-slug.relation-property.ts"
+ import type { CounterpartWithinDays } from "./properties/counterpart-within-days.number-property.ts"
+diff --git a/alan/harness/monarch/category-rules/properties/counterpart-within-days.number-property.ts b/alan/harness/monarch/category-rules/properties/counterpart-within-days.number-property.ts
+index db359f70106139287ef997d31576677858924dd5..e5fa09d2e3797e1825faad480319cbe5d3113f76 100644
+--- a/alan/harness/monarch/category-rules/properties/counterpart-within-days.number-property.ts
++++ b/alan/harness/monarch/category-rules/properties/counterpart-within-days.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type CounterpartWithinDays = number
+ 
+diff --git a/alan/harness/monarch/category-rules/properties/match-comparison.select-property.ts b/alan/harness/monarch/category-rules/properties/match-comparison.select-property.ts
+index b1aa97a2711ba70b413b3aafa275d177a9359784..8b9363c5be21de65204b69477ae161b3583b57e2 100644
+--- a/alan/harness/monarch/category-rules/properties/match-comparison.select-property.ts
++++ b/alan/harness/monarch/category-rules/properties/match-comparison.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const matchComparison = {
+   id: "01a0680c-3c00-7001-a763-8d2f5b9e3102",
+diff --git a/alan/harness/monarch/category-rules/properties/match-key.select-property.ts b/alan/harness/monarch/category-rules/properties/match-key.select-property.ts
+index 141f2cebec2752d4bd91b2092576e676d9731c17..aa35b2a78a870cf5c1ee7e71ea5ba44622665598 100644
+--- a/alan/harness/monarch/category-rules/properties/match-key.select-property.ts
++++ b/alan/harness/monarch/category-rules/properties/match-key.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const matchKey = {
+   id: "01a0680c-3c00-7000-9b28-4e7a1d5c3101",
+diff --git a/alan/harness/monarch/category-rules/properties/match-values.text-property.ts b/alan/harness/monarch/category-rules/properties/match-values.text-property.ts
+index 5615524e08b5ea9fc173694832de7e09ef2da744..894caadf554851bfd9077864bcf0af50bc644ccc 100644
+--- a/alan/harness/monarch/category-rules/properties/match-values.text-property.ts
++++ b/alan/harness/monarch/category-rules/properties/match-values.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type MatchValues = string
+ 
+diff --git a/alan/harness/monarch/category-rules/properties/matches.record-property.ts b/alan/harness/monarch/category-rules/properties/matches.record-property.ts
+index 00cecee44cb2d57b2f26130f9a551b7df277e59d..0a404af6b9bd82bbb220a0966344811c2d6ad411 100644
+--- a/alan/harness/monarch/category-rules/properties/matches.record-property.ts
++++ b/alan/harness/monarch/category-rules/properties/matches.record-property.ts
+@@ -1,5 +1,5 @@
+-import type { List } from "@akasha/pages-system/page-property"
+-import type { RecordProperty } from "@akasha/pages-system/record-property"
++import type { List } from "@akasha/pages/page-property"
++import type { RecordProperty } from "@akasha/pages/record-property"
+ import type { MatchComparison } from "./match-comparison.select-property.ts"
+ import type { MatchKey } from "./match-key.select-property.ts"
+ import type { MatchValues } from "./match-values.text-property.ts"
+diff --git a/alan/harness/monarch/category-rules/properties/rule-note.text-property.ts b/alan/harness/monarch/category-rules/properties/rule-note.text-property.ts
+index e85ac9b943fed652083eb50f693a548993b9dc06..698222b601c3f9a7d86aa8a07e546782a9e96852 100644
+--- a/alan/harness/monarch/category-rules/properties/rule-note.text-property.ts
++++ b/alan/harness/monarch/category-rules/properties/rule-note.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type RuleNote = string
+ 
+diff --git a/alan/harness/monarch/domain-files/monarch-domain-files.module.code.ts b/alan/harness/monarch/domain-files/monarch-domain-files.module.code.ts
+index 4e54b8c9883254d378e2a2060521b2a38cd915eb..6a521e4c9e561e87eab459368a9844dd6fa3e93a 100644
+--- a/alan/harness/monarch/domain-files/monarch-domain-files.module.code.ts
++++ b/alan/harness/monarch/domain-files/monarch-domain-files.module.code.ts
+@@ -1,4 +1,4 @@
+-import { exportedAs, typedAs } from "@akasha/pages-system/page-export-name"
++import { exportedAs, typedAs } from "@akasha/pages/page-export-name"
+ import type {
+   MonarchAccount,
+   MonarchCategory,
+diff --git a/alan/harness/monarch/files/monarch-files.module.code.ts b/alan/harness/monarch/files/monarch-files.module.code.ts
+index 714e5e542f0fe0952d3ec7e4696079d0e6a1187d..d6ce6ac9cdc71f88aff3047e4b3ce9151f2f2903 100644
+--- a/alan/harness/monarch/files/monarch-files.module.code.ts
++++ b/alan/harness/monarch/files/monarch-files.module.code.ts
+@@ -1,7 +1,7 @@
+ import { readdir, readFile } from "node:fs/promises"
+ import { join } from "node:path"
+-import { AKASHA as AKASHA_REPO, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+-import { type Value, valueAt } from "@akasha/pages-system/page-value"
++import { AKASHA as AKASHA_REPO, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
++import { type Value, valueAt } from "@akasha/pages/page-value"
+ 
+ const roots = resolveRoots()
+ 
+diff --git a/alan/harness/monarch/land-files/monarch-land-files.module.code.ts b/alan/harness/monarch/land-files/monarch-land-files.module.code.ts
+index 9108d7c20cc5e96fcaf51f69c93afc036c87fe15..9b504f024a754c3d5340eb29ac37ccee36dc166b 100644
+--- a/alan/harness/monarch/land-files/monarch-land-files.module.code.ts
++++ b/alan/harness/monarch/land-files/monarch-land-files.module.code.ts
+@@ -2,8 +2,8 @@ import { readFile } from "node:fs/promises"
+ import { join } from "node:path"
+ import { landedMechanically } from "@akasha/command-system/asking"
+ import { typeSlugOf } from "@akasha/indexes"
+-import { AKASHA as AKASHA_REPO } from "@akasha/pages-system/checkout-roots"
+-import { exportedAs } from "@akasha/pages-system/page-export-name"
++import { AKASHA as AKASHA_REPO } from "@akasha/pages/checkout-roots"
++import { exportedAs } from "@akasha/pages/page-export-name"
+ import type { MonarchTransaction } from "../client/monarch-client.module.code.ts"
+ import type { PageFile, TransactionLine } from "../files/monarch-files.module.code.ts"
+ import {
+diff --git a/alan/harness/monarch/merchant/monarch-merchant-naming.module.code.ts b/alan/harness/monarch/merchant/monarch-merchant-naming.module.code.ts
+index 9060850e2e6ca8b3bd0e16cf86229eaf798a9a1f..ea36a545328b97746fb11940f919997818d41dbd 100644
+--- a/alan/harness/monarch/merchant/monarch-merchant-naming.module.code.ts
++++ b/alan/harness/monarch/merchant/monarch-merchant-naming.module.code.ts
+@@ -1,6 +1,6 @@
+ import { readdirSync } from "node:fs"
+ import { join } from "node:path"
+-import { valueAt } from "@akasha/pages-system/page-value"
++import { valueAt } from "@akasha/pages/page-value"
+ import { normalize, type VocabularyEntry } from "@akasha/rules-engine/rule-vocabulary"
+ import { AKASHA, MERCHANT_FOLDER } from "../files/monarch-files.module.code.ts"
+ import { descriptionOf, type Subject } from "../transaction/monarch-transaction.module.code.ts"
+diff --git a/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts b/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
+index ae0c2ed407fca50c896e0a471bcda4555bd5ade3..43a85a86f97f3578c92daf46475be207a33d90ab 100644
+--- a/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
++++ b/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { MonarchRecord } from "../monarch-records/monarch-record.page-type.ts"
+ import type { AccountActive } from "./properties/account-active.boolean-property.ts"
+ import type { AccountDisplayName } from "./properties/account-display-name.text-property.ts"
+diff --git a/alan/harness/monarch/monarch-accounts/properties/account-active.boolean-property.ts b/alan/harness/monarch/monarch-accounts/properties/account-active.boolean-property.ts
+index fc26822a9074e03305ed09c931a8e5cf8b014668..9954615f0d583454d15c5b71e284f3e4d22bee44 100644
+--- a/alan/harness/monarch/monarch-accounts/properties/account-active.boolean-property.ts
++++ b/alan/harness/monarch/monarch-accounts/properties/account-active.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type AccountActive = boolean
+ 
+diff --git a/alan/harness/monarch/monarch-accounts/properties/account-display-name.text-property.ts b/alan/harness/monarch/monarch-accounts/properties/account-display-name.text-property.ts
+index ad30d20b613788bfb99d19d8ba194d0ef97ccdce..2662046cd559db03cf44611c1493badc2bc754a1 100644
+--- a/alan/harness/monarch/monarch-accounts/properties/account-display-name.text-property.ts
++++ b/alan/harness/monarch/monarch-accounts/properties/account-display-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type AccountDisplayName = string
+ 
+diff --git a/alan/harness/monarch/monarch-accounts/properties/account-hidden.boolean-property.ts b/alan/harness/monarch/monarch-accounts/properties/account-hidden.boolean-property.ts
+index 4844a8c8f7702333a3de9173ff33430889cf8532..5684d7b428bfb26ddef5171c2c61063ce2a3b90b 100644
+--- a/alan/harness/monarch/monarch-accounts/properties/account-hidden.boolean-property.ts
++++ b/alan/harness/monarch/monarch-accounts/properties/account-hidden.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type AccountHidden = boolean
+ 
+diff --git a/alan/harness/monarch/monarch-accounts/properties/account-type.select-property.ts b/alan/harness/monarch/monarch-accounts/properties/account-type.select-property.ts
+index 8209d28d104a7e1c8df24044322394aeea6c3c83..5d54ef4c02c736ffd51b7dfd8880da549bf83883 100644
+--- a/alan/harness/monarch/monarch-accounts/properties/account-type.select-property.ts
++++ b/alan/harness/monarch/monarch-accounts/properties/account-type.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const accountType = {
+   id: "01a0680a-1a00-7004-8e19-5b2c7d4e1105",
+diff --git a/alan/harness/monarch/monarch-accounts/properties/asset.boolean-property.ts b/alan/harness/monarch/monarch-accounts/properties/asset.boolean-property.ts
+index 48bde21890aea4cb41864f3a2f160092718bd49f..61e1a0f9d7275f194ba05d88c03167be7f978dc9 100644
+--- a/alan/harness/monarch/monarch-accounts/properties/asset.boolean-property.ts
++++ b/alan/harness/monarch/monarch-accounts/properties/asset.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type Asset = boolean
+ 
+diff --git a/alan/harness/monarch/monarch-accounts/properties/current-balance.number-property.ts b/alan/harness/monarch/monarch-accounts/properties/current-balance.number-property.ts
+index c8692b0b9b20c2b4230a63921915683cfa188b85..bd949b398f481192976d68d53c33a946945b5068 100644
+--- a/alan/harness/monarch/monarch-accounts/properties/current-balance.number-property.ts
++++ b/alan/harness/monarch/monarch-accounts/properties/current-balance.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type CurrentBalance = number
+ 
+diff --git a/alan/harness/monarch/monarch-categories/monarch-category.page-type.ts b/alan/harness/monarch/monarch-categories/monarch-category.page-type.ts
+index 42e643cce58d582419c307627d334c8d84c60791..5f4dc57b83002058c9e9ad20c143e02a8b6d3b3d 100644
+--- a/alan/harness/monarch/monarch-categories/monarch-category.page-type.ts
++++ b/alan/harness/monarch/monarch-categories/monarch-category.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { MonarchRecord } from "../monarch-records/monarch-record.page-type.ts"
+ import type { CategoryGroup } from "./properties/category-group.text-property.ts"
+ import type { CategoryGroupType } from "./properties/category-group-type.select-property.ts"
+diff --git a/alan/harness/monarch/monarch-categories/properties/category-group-type.select-property.ts b/alan/harness/monarch/monarch-categories/properties/category-group-type.select-property.ts
+index d3a915cff1441069824f97a574ef02dcffe0e48c..937d6730907355c1f9744f30e4ae1a01eedea453 100644
+--- a/alan/harness/monarch/monarch-categories/properties/category-group-type.select-property.ts
++++ b/alan/harness/monarch/monarch-categories/properties/category-group-type.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const categoryGroupType = {
+   id: "01a0680a-1a00-700b-a4e7-8b5d1c9f110b",
+diff --git a/alan/harness/monarch/monarch-categories/properties/category-group.text-property.ts b/alan/harness/monarch/monarch-categories/properties/category-group.text-property.ts
+index 8969f99a2476d2362d14e3e3d0706451bef35b39..2e3b1477e81de21a7a0bc2db1db111f407124d89 100644
+--- a/alan/harness/monarch/monarch-categories/properties/category-group.text-property.ts
++++ b/alan/harness/monarch/monarch-categories/properties/category-group.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CategoryGroup = string
+ 
+diff --git a/alan/harness/monarch/monarch-directions/monarch-direction.page-type.ts b/alan/harness/monarch/monarch-directions/monarch-direction.page-type.ts
+index 2166a844576f2158e990a9f215c50917f36cc693..5c58c0eed6fa39725d453355f317b3fa712d210a 100644
+--- a/alan/harness/monarch/monarch-directions/monarch-direction.page-type.ts
++++ b/alan/harness/monarch/monarch-directions/monarch-direction.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { MonarchRecord } from "../monarch-records/monarch-record.page-type.ts"
+ import type { AppliesWhen } from "./properties/applies-when.text-property.ts"
+ import type { Directs } from "./properties/directs.text-property.ts"
+diff --git a/alan/harness/monarch/monarch-directions/properties/applies-when.text-property.ts b/alan/harness/monarch/monarch-directions/properties/applies-when.text-property.ts
+index 0d98c604df261bfc2413e4bf108ac5214a3c97e8..c330f9e126bcd71295f81c4a251594ac6ec79547 100644
+--- a/alan/harness/monarch/monarch-directions/properties/applies-when.text-property.ts
++++ b/alan/harness/monarch/monarch-directions/properties/applies-when.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type AppliesWhen = string
+ 
+diff --git a/alan/harness/monarch/monarch-directions/properties/directs.text-property.ts b/alan/harness/monarch/monarch-directions/properties/directs.text-property.ts
+index 3dfb3f05feab7e98302e8dfd469879dd8a0a4b4d..2696343f3327bd61b61bc373dd4829c4e0ce426c 100644
+--- a/alan/harness/monarch/monarch-directions/properties/directs.text-property.ts
++++ b/alan/harness/monarch/monarch-directions/properties/directs.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Directs = string
+ 
+diff --git a/alan/harness/monarch/monarch-holdings/monarch-holding.page-type.ts b/alan/harness/monarch/monarch-holdings/monarch-holding.page-type.ts
+index c0b0b453b29d062df18a2b5f9d364bd154d8cec4..ad528c7835233c9127ea38d459d5fac7c8b4e840 100644
+--- a/alan/harness/monarch/monarch-holdings/monarch-holding.page-type.ts
++++ b/alan/harness/monarch/monarch-holdings/monarch-holding.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { MonarchRecord } from "../monarch-records/monarch-record.page-type.ts"
+ import type { AccountSlug } from "./properties/account-slug.relation-property.ts"
+ import type { CostBasis } from "./properties/cost-basis.number-property.ts"
+diff --git a/alan/harness/monarch/monarch-holdings/properties/account-slug.relation-property.ts b/alan/harness/monarch/monarch-holdings/properties/account-slug.relation-property.ts
+index 62cdd1064c51651005a89e0f52082f91f3d4e1d6..1c51ff1094e26a06318584c6231c2869c0bbc7c1 100644
+--- a/alan/harness/monarch/monarch-holdings/properties/account-slug.relation-property.ts
++++ b/alan/harness/monarch/monarch-holdings/properties/account-slug.relation-property.ts
+@@ -1,5 +1,5 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type AccountSlug = Slug
+ 
+diff --git a/alan/harness/monarch/monarch-holdings/properties/cost-basis.number-property.ts b/alan/harness/monarch/monarch-holdings/properties/cost-basis.number-property.ts
+index ee06bb4b89a49aeb14944dda4e81ad0f3d84347a..9cad99cfcf037b94d175cc4d1e1d385a97bc7542 100644
+--- a/alan/harness/monarch/monarch-holdings/properties/cost-basis.number-property.ts
++++ b/alan/harness/monarch/monarch-holdings/properties/cost-basis.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type CostBasis = number
+ 
+diff --git a/alan/harness/monarch/monarch-holdings/properties/holding-value.number-property.ts b/alan/harness/monarch/monarch-holdings/properties/holding-value.number-property.ts
+index 8bd511bb0c676367e1b4bb9341abb4d442994ae5..fe5bdd0140fc23b4259a38ff5e4e29a77355f367 100644
+--- a/alan/harness/monarch/monarch-holdings/properties/holding-value.number-property.ts
++++ b/alan/harness/monarch/monarch-holdings/properties/holding-value.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type HoldingValue = number
+ 
+diff --git a/alan/harness/monarch/monarch-holdings/properties/quantity.number-property.ts b/alan/harness/monarch/monarch-holdings/properties/quantity.number-property.ts
+index ba27905e879d6a330e5cfdfec77b5ba4c9f855cc..ba92f7907edf331e20d53c5e7ee5a6a6edf5e868 100644
+--- a/alan/harness/monarch/monarch-holdings/properties/quantity.number-property.ts
++++ b/alan/harness/monarch/monarch-holdings/properties/quantity.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type Quantity = number
+ 
+diff --git a/alan/harness/monarch/monarch-holdings/properties/security-name.text-property.ts b/alan/harness/monarch/monarch-holdings/properties/security-name.text-property.ts
+index c63adc0cdb9704bbe25104ed5e0dc08e6ef7c7d1..26ca8f520266912be46bd4155e4b6e0356500640 100644
+--- a/alan/harness/monarch/monarch-holdings/properties/security-name.text-property.ts
++++ b/alan/harness/monarch/monarch-holdings/properties/security-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type SecurityName = string
+ 
+diff --git a/alan/harness/monarch/monarch-holdings/properties/ticker.text-property.ts b/alan/harness/monarch/monarch-holdings/properties/ticker.text-property.ts
+index 08cdbb1c210d5551551d0bd10875daed3bfcd155..8310e754d28ba7ce800777f87e901ce700b76ee1 100644
+--- a/alan/harness/monarch/monarch-holdings/properties/ticker.text-property.ts
++++ b/alan/harness/monarch/monarch-holdings/properties/ticker.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Ticker = string
+ 
+diff --git a/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts b/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts
+index 74e85c5832c8739a08d0ca106ce1a22881530c1f..d460a349a479d2c75f31146140706b65d92ad081 100644
+--- a/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts
++++ b/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ import type { MerchantPatterns } from "./properties/merchant-patterns.text-property.ts"
+ 
+diff --git a/alan/harness/monarch/monarch-merchants/properties/merchant-patterns.text-property.ts b/alan/harness/monarch/monarch-merchants/properties/merchant-patterns.text-property.ts
+index d2f1a7545cd1371e2b465583b1a1936ce28e0419..c4fdd3dfcca5f348ec95030e69ca574a25ae7a6f 100644
+--- a/alan/harness/monarch/monarch-merchants/properties/merchant-patterns.text-property.ts
++++ b/alan/harness/monarch/monarch-merchants/properties/merchant-patterns.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type MerchantPatterns = string
+ 
+diff --git a/alan/harness/monarch/monarch-months/monarch-month.page-type.ts b/alan/harness/monarch/monarch-months/monarch-month.page-type.ts
+index 785d1a8efae4c7d215ccc61aecde4e7a080bd2c7..4fd291bba85b42f50e4dfad1c79bc6c0520b2d8d 100644
+--- a/alan/harness/monarch/monarch-months/monarch-month.page-type.ts
++++ b/alan/harness/monarch/monarch-months/monarch-month.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { MonarchRecord } from "../monarch-records/monarch-record.page-type.ts"
+ import type { StartsOn } from "./properties/starts-on.calendar-date-property.ts"
+ import type { Transactions } from "./properties/transactions.page-property-entry.ts"
+diff --git a/alan/harness/monarch/monarch-months/properties/account-name.text-property.ts b/alan/harness/monarch/monarch-months/properties/account-name.text-property.ts
+index d021f042eda07424bf95f865bfe15cd26587e454..b383241159fe18ff6c4fb7307c9abea1c8510989 100644
+--- a/alan/harness/monarch/monarch-months/properties/account-name.text-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/account-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type AccountName = string
+ 
+diff --git a/alan/harness/monarch/monarch-months/properties/amazon-order-number.text-property.ts b/alan/harness/monarch/monarch-months/properties/amazon-order-number.text-property.ts
+index 265b33cec65131f404add51739c4ac603ae8628a..af1228af0d5f940db68a6cad5979271d409f0e6b 100644
+--- a/alan/harness/monarch/monarch-months/properties/amazon-order-number.text-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/amazon-order-number.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type AmazonOrderNumber = string
+ 
+diff --git a/alan/harness/monarch/monarch-months/properties/amount.number-property.ts b/alan/harness/monarch/monarch-months/properties/amount.number-property.ts
+index 949fd8730efcad163963a5d9da8c658c684c9e20..2a02986e2ce5357aa5f87a448c61404e564bdc9d 100644
+--- a/alan/harness/monarch/monarch-months/properties/amount.number-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/amount.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type Amount = number
+ 
+diff --git a/alan/harness/monarch/monarch-months/properties/category-decided-by.text-property.ts b/alan/harness/monarch/monarch-months/properties/category-decided-by.text-property.ts
+index 3100bfc4f12f4cdb1c78c58fb61da739ba2c8755..b060080cfa51218d3575fabd8dc1828e42b9e168 100644
+--- a/alan/harness/monarch/monarch-months/properties/category-decided-by.text-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/category-decided-by.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CategoryDecidedBy = string
+ 
+diff --git a/alan/harness/monarch/monarch-months/properties/category-slug.relation-property.ts b/alan/harness/monarch/monarch-months/properties/category-slug.relation-property.ts
+index d0a9cb6963c0c825c2730749a7c8b9534d43b3c0..0a52dad1b634c1d747a1f7c880dad9aeac21c5de 100644
+--- a/alan/harness/monarch/monarch-months/properties/category-slug.relation-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/category-slug.relation-property.ts
+@@ -1,5 +1,5 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type CategorySlug = Slug
+ 
+diff --git a/alan/harness/monarch/monarch-months/properties/category-source.select-property.ts b/alan/harness/monarch/monarch-months/properties/category-source.select-property.ts
+index 5631bb96920aca742306ee5a5f870757af18a0a9..fad00bde55a76671ba3a7510b8abfde7ba218dda 100644
+--- a/alan/harness/monarch/monarch-months/properties/category-source.select-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/category-source.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const categorySource = {
+   id: "01a0680b-2b00-700a-9c37-6e8b4f2d210b",
+diff --git a/alan/harness/monarch/monarch-months/properties/merchant.text-property.ts b/alan/harness/monarch/monarch-months/properties/merchant.text-property.ts
+index 16efa4545a29d672900a4c1e67a13e9575ea8669..23f555e237b5c5dcf54c35a8a3f9f8bd49508d9f 100644
+--- a/alan/harness/monarch/monarch-months/properties/merchant.text-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/merchant.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Merchant = string
+ 
+diff --git a/alan/harness/monarch/monarch-months/properties/monarch-updated-at.instant-property.ts b/alan/harness/monarch/monarch-months/properties/monarch-updated-at.instant-property.ts
+index 18538f4d950dac7d6b27d4b700b791ff88c048df..8f9f363e0a569e64a60f1b8e8d28d021bb0a72bc 100644
+--- a/alan/harness/monarch/monarch-months/properties/monarch-updated-at.instant-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/monarch-updated-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type MonarchUpdatedAt = string
+ 
+diff --git a/alan/harness/monarch/monarch-months/properties/needs-review.boolean-property.ts b/alan/harness/monarch/monarch-months/properties/needs-review.boolean-property.ts
+index cc309f52eb7d3fca18cedb8bebcf2c92228322d5..eaa33b5d26f755bc21f5ff73bdcd14dea46a76af 100644
+--- a/alan/harness/monarch/monarch-months/properties/needs-review.boolean-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/needs-review.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type NeedsReview = boolean
+ 
+diff --git a/alan/harness/monarch/monarch-months/properties/pending.boolean-property.ts b/alan/harness/monarch/monarch-months/properties/pending.boolean-property.ts
+index c2eb0767871708878117d4af99a7ed8d2f6a3638..a702f4c459d60d20eaa9717ca7c6ccf119d3fbe2 100644
+--- a/alan/harness/monarch/monarch-months/properties/pending.boolean-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/pending.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type Pending = boolean
+ 
+diff --git a/alan/harness/monarch/monarch-months/properties/recurring.boolean-property.ts b/alan/harness/monarch/monarch-months/properties/recurring.boolean-property.ts
+index e3a1c82f520e2db19163b460aed237896c64eb25..b13774a8e1f2e00d4fc6285deeff5c578ed18811 100644
+--- a/alan/harness/monarch/monarch-months/properties/recurring.boolean-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/recurring.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type Recurring = boolean
+ 
+diff --git a/alan/harness/monarch/monarch-months/properties/split.boolean-property.ts b/alan/harness/monarch/monarch-months/properties/split.boolean-property.ts
+index 0da869802ed48fe70388288dafc5722fac1fc208..302a8538fcdc31fa19e281b36b7325061edae714 100644
+--- a/alan/harness/monarch/monarch-months/properties/split.boolean-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/split.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type Split = boolean
+ 
+diff --git a/alan/harness/monarch/monarch-months/properties/starts-on.calendar-date-property.ts b/alan/harness/monarch/monarch-months/properties/starts-on.calendar-date-property.ts
+index 54849b96ddfca29cf73a721fe699b73337468055..3ab7721881989fc796cd73127383b2d4e8d2b280 100644
+--- a/alan/harness/monarch/monarch-months/properties/starts-on.calendar-date-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/starts-on.calendar-date-property.ts
+@@ -1,4 +1,4 @@
+-import type { CalendarDateProperty } from "@akasha/pages-system/calendar-date-property"
++import type { CalendarDateProperty } from "@akasha/pages/calendar-date-property"
+ 
+ export type StartsOn = string
+ 
+diff --git a/alan/harness/monarch/monarch-months/properties/statement-line.text-property.ts b/alan/harness/monarch/monarch-months/properties/statement-line.text-property.ts
+index a6dece0ecef55346561eb3d1acd3dd22e40b964c..efec6c64eeaae1b089da0c1f83090d9257dd6647 100644
+--- a/alan/harness/monarch/monarch-months/properties/statement-line.text-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/statement-line.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type StatementLine = string
+ 
+diff --git a/alan/harness/monarch/monarch-months/properties/tag-slugs.relation-property.ts b/alan/harness/monarch/monarch-months/properties/tag-slugs.relation-property.ts
+index b530a02a8d02d9c709e351811527b1f43c6f6fd7..6264776fac23b0f5cd3609d4ae6e5a0971b21823 100644
+--- a/alan/harness/monarch/monarch-months/properties/tag-slugs.relation-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/tag-slugs.relation-property.ts
+@@ -1,6 +1,6 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { List } from "@akasha/pages-system/page-property"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { List } from "@akasha/pages/page-property"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type TagSlugs = List<Slug>
+ 
+diff --git a/alan/harness/monarch/monarch-months/properties/transaction-day.calendar-date-property.ts b/alan/harness/monarch/monarch-months/properties/transaction-day.calendar-date-property.ts
+index 1ce70090f324790d4be6c7f9e223ea80426d9ef1..a040ec88ece6201d1f19b5ee20d43d742d0295a5 100644
+--- a/alan/harness/monarch/monarch-months/properties/transaction-day.calendar-date-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/transaction-day.calendar-date-property.ts
+@@ -1,4 +1,4 @@
+-import type { CalendarDateProperty } from "@akasha/pages-system/calendar-date-property"
++import type { CalendarDateProperty } from "@akasha/pages/calendar-date-property"
+ 
+ export type TransactionDay = string
+ 
+diff --git a/alan/harness/monarch/monarch-months/properties/transaction-note.text-property.ts b/alan/harness/monarch/monarch-months/properties/transaction-note.text-property.ts
+index 1e5a4cda31f9c9692fbb99bc5aa20cf83c247616..4b697f0a8e567b223972479b0c8f3a78371d22f6 100644
+--- a/alan/harness/monarch/monarch-months/properties/transaction-note.text-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/transaction-note.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type TransactionNote = string
+ 
+diff --git a/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts b/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
+index 300d696d7a11ff638aeb67766f3c7a678bdb757d..6ca19dda23622339afed065457a8c62961a61859 100644
+--- a/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
++++ b/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type Transactions = "jsonl"
+ 
+diff --git a/alan/harness/monarch/monarch-records/monarch-record.page-type.ts b/alan/harness/monarch/monarch-records/monarch-record.page-type.ts
+index d2d0eebf82b4d47d27480a51807691855d1dacb6..64750625b002a7df903317b475ce3fd95f51dd80 100644
+--- a/alan/harness/monarch/monarch-records/monarch-record.page-type.ts
++++ b/alan/harness/monarch/monarch-records/monarch-record.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Definition } from "../../../../domains/properties/definition.text-property.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ import type { MonarchId } from "./properties/monarch-id.text-property.ts"
+diff --git a/alan/harness/monarch/monarch-records/properties/monarch-id.text-property.ts b/alan/harness/monarch/monarch-records/properties/monarch-id.text-property.ts
+index d1cf4641821132cc2e72e25f09f4e0e78be001b0..b5beeac3d7eb9701862262b0959576106dc4f235 100644
+--- a/alan/harness/monarch/monarch-records/properties/monarch-id.text-property.ts
++++ b/alan/harness/monarch/monarch-records/properties/monarch-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type MonarchId = string
+ 
+diff --git a/alan/harness/monarch/monarch-tags/monarch-tag.page-type.ts b/alan/harness/monarch/monarch-tags/monarch-tag.page-type.ts
+index 5b0a8c8b2b1e29d271a463c26cbf8c505c1d5192..a6d1571092252b16fdcd880c4b2d28938c5b2fae 100644
+--- a/alan/harness/monarch/monarch-tags/monarch-tag.page-type.ts
++++ b/alan/harness/monarch/monarch-tags/monarch-tag.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { MonarchRecord } from "../monarch-records/monarch-record.page-type.ts"
+ import type { TagColour } from "./properties/tag-colour.text-property.ts"
+ import type { TagPlace } from "./properties/tag-place.number-property.ts"
+diff --git a/alan/harness/monarch/monarch-tags/properties/tag-colour.text-property.ts b/alan/harness/monarch/monarch-tags/properties/tag-colour.text-property.ts
+index 8e7c9112447d5a434bfe4078296e2dc776de0822..3f1e173d900bde8cce5583641c45bad558e765fb 100644
+--- a/alan/harness/monarch/monarch-tags/properties/tag-colour.text-property.ts
++++ b/alan/harness/monarch/monarch-tags/properties/tag-colour.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type TagColour = string
+ 
+diff --git a/alan/harness/monarch/monarch-tags/properties/tag-place.number-property.ts b/alan/harness/monarch/monarch-tags/properties/tag-place.number-property.ts
+index 709da4c323d8741ad083a8656b75c48167e0489a..9591cbe208b88284cf561fed4e3d7af02e27e72d 100644
+--- a/alan/harness/monarch/monarch-tags/properties/tag-place.number-property.ts
++++ b/alan/harness/monarch/monarch-tags/properties/tag-place.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type TagPlace = number
+ 
+diff --git a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts
+index f3546766ca4e9c9fe3671b4a3e372cf442ec156d..22caa68085a5712b352b506a00ebbaa2137e391a 100644
+--- a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts
++++ b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts
+@@ -1,6 +1,6 @@
+ import { readdir } from "node:fs/promises"
+ import { join } from "node:path"
+-import { type Value, valueAt } from "@akasha/pages-system/page-value"
++import { type Value, valueAt } from "@akasha/pages/page-value"
+ import { AKASHA } from "../files/monarch-files.module.code.ts"
+ import { ruleFromMatches, statedMatches } from "../rule-clauses/monarch-rule-clauses.module.code.ts"
+ import { categoryTitles } from "../rule-pages/monarch-rule-pages.module.code.ts"
+diff --git a/alan/harness/notification-feeds/notification-feed-rows/notification-feed-rows.module.code.ts b/alan/harness/notification-feeds/notification-feed-rows/notification-feed-rows.module.code.ts
+index cdf7375b8ffb425e73357efcdc3f64247a487c9d..a028f999f25045e2caa446894e86ef0a2f4de70c 100644
+--- a/alan/harness/notification-feeds/notification-feed-rows/notification-feed-rows.module.code.ts
++++ b/alan/harness/notification-feeds/notification-feed-rows/notification-feed-rows.module.code.ts
+@@ -1,8 +1,8 @@
+ import { valuesOfType } from "@akasha/indexes"
+-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+-import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
+-import { entriesAt } from "@akasha/pages-system/page-entries"
+-import { queueAt } from "@akasha/pages-system/page-entry-queue"
++import { akashaRoot } from "@akasha/pages/checkout-roots"
++import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
++import { entriesAt } from "@akasha/pages/page-entries"
++import { queueAt } from "@akasha/pages/page-entry-queue"
+ 
+ export const NOTIFICATION_FEED_PAGE_TYPE_SLUG = "notification-feed"
+ 
+diff --git a/alan/harness/notification-feeds/notification-feed.page-type.ts b/alan/harness/notification-feeds/notification-feed.page-type.ts
+index ab777b22c4a6b4676860a3753358f2d2b742a63a..f030019bf8dc1aad74de59284ee1d39ca15f276f 100644
+--- a/alan/harness/notification-feeds/notification-feed.page-type.ts
++++ b/alan/harness/notification-feeds/notification-feed.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { PersonSlug } from "../../../seat-system/seats/properties/person-slug.relation-property.ts"
+ import type { Notifications } from "./properties/notifications.page-property-entry.ts"
+ 
+diff --git a/alan/harness/notification-feeds/properties/notification-body.text-property.ts b/alan/harness/notification-feeds/properties/notification-body.text-property.ts
+index b3ee2c2eed2935f25fedbfc169878ff1336c6a65..ee636f33b59b5213e38f7eb6fb7e504879ab4369 100644
+--- a/alan/harness/notification-feeds/properties/notification-body.text-property.ts
++++ b/alan/harness/notification-feeds/properties/notification-body.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type NotificationBody = string
+ 
+diff --git a/alan/harness/notification-feeds/properties/notification-kind.text-property.ts b/alan/harness/notification-feeds/properties/notification-kind.text-property.ts
+index aa51c2a55a5be925fbbada2281e8ec7c29ef76ce..13d79c4b67e5e2c70d5a97262bc92001dcdf9f84 100644
+--- a/alan/harness/notification-feeds/properties/notification-kind.text-property.ts
++++ b/alan/harness/notification-feeds/properties/notification-kind.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type NotificationKind = string
+ 
+diff --git a/alan/harness/notification-feeds/properties/notification-link.text-property.ts b/alan/harness/notification-feeds/properties/notification-link.text-property.ts
+index b15a328075638e13c32999157256495832dcc6cb..f752d98ac295cab4bd764cb529717a6034cf03a4 100644
+--- a/alan/harness/notification-feeds/properties/notification-link.text-property.ts
++++ b/alan/harness/notification-feeds/properties/notification-link.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type NotificationLink = string
+ 
+diff --git a/alan/harness/notification-feeds/properties/notification-read-at.instant-property.ts b/alan/harness/notification-feeds/properties/notification-read-at.instant-property.ts
+index 2312ae7f0b211a893673ae6575dd6200753c47d0..ab318ac0daf578da6ccfc143033a650d9c49078c 100644
+--- a/alan/harness/notification-feeds/properties/notification-read-at.instant-property.ts
++++ b/alan/harness/notification-feeds/properties/notification-read-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type NotificationReadAt = string
+ 
+diff --git a/alan/harness/notification-feeds/properties/notification-sent-at.instant-property.ts b/alan/harness/notification-feeds/properties/notification-sent-at.instant-property.ts
+index 7574219f92a462b483f0b3c7bcff6287b8e7b009..87a3e87e3cdf4cb574318744313cdcfc62b8a0d3 100644
+--- a/alan/harness/notification-feeds/properties/notification-sent-at.instant-property.ts
++++ b/alan/harness/notification-feeds/properties/notification-sent-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type NotificationSentAt = string
+ 
+diff --git a/alan/harness/notification-feeds/properties/notification-source.text-property.ts b/alan/harness/notification-feeds/properties/notification-source.text-property.ts
+index 44c05d9f477adcf9841010e8298c892a9ca36d86..c1481d50bab1972779cef88729ad525c59a8f353 100644
+--- a/alan/harness/notification-feeds/properties/notification-source.text-property.ts
++++ b/alan/harness/notification-feeds/properties/notification-source.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type NotificationSource = string
+ 
+diff --git a/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts b/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts
+index 6fa94e7877a1075db550e4e035c7fcbcbb9dff08..0059e993d22456f1e44fdce0e3069c9a7fcf5219 100644
+--- a/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts
++++ b/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type Notifications = "jsonl"
+ 
+diff --git a/alan/harness/plants/reading/plants-reading.module.code.ts b/alan/harness/plants/reading/plants-reading.module.code.ts
+index aba83e258c827eccce85865360744ed1ddfda155..a205d8fc95563d82cbca383d5e6b5ebc2597b531 100644
+--- a/alan/harness/plants/reading/plants-reading.module.code.ts
++++ b/alan/harness/plants/reading/plants-reading.module.code.ts
+@@ -1,4 +1,4 @@
+-import { AKASHA, resolveRoots } from "@akasha/pages-system/checkout-roots"
++import { AKASHA, resolveRoots } from "@akasha/pages/checkout-roots"
+ import { asking } from "@akasha/pages-system-service/asking"
+ import type { Asking } from "@akasha/readout-system/readout-asking"
+ import { keepReading } from "@akasha/readout-system/readout-reading"
+@@ -8,8 +8,7 @@ import {
+   wakeDayWindow,
+ } from "../../../tracking/daily/day-opening/day-opening.module.code.ts"
+ 
+-export const READOUT_PAGE =
+-  "readout-system/readouts/pages/upkeep-plants/upkeep-plants.readout.ts"
++export const READOUT_PAGE = "readout-system/readouts/pages/upkeep-plants/upkeep-plants.readout.ts"
+ 
+ export function askingIn(root: string): Asking {
+   return async (query) => {
+diff --git a/alan/library/book-of-everything/books-root/books-root.module.code.ts b/alan/library/book-of-everything/books-root/books-root.module.code.ts
+index 8983f5a0aad9bcb9d3ccd10d73f5c67f0ccbf0af..a46e88cbed223800a0dc4dc1e06fc4374740cb8f 100644
+--- a/alan/library/book-of-everything/books-root/books-root.module.code.ts
++++ b/alan/library/book-of-everything/books-root/books-root.module.code.ts
+@@ -1,6 +1,6 @@
+ import { existsSync } from "node:fs"
+ import { join } from "node:path"
+-import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
++import { ownRepoRoot } from "@akasha/pages/checkout-roots"
+ 
+ const BOOKS = "book-of-everything"
+ 
+diff --git a/alan/library/book-of-everything/commands/ali-fold/ali-fold.command.code.ts b/alan/library/book-of-everything/commands/ali-fold/ali-fold.command.code.ts
+index b2e6101f640bb8fccd3a11c1ae2b28b155fcc5e5..abd1063d930e87e4d47a3960291631d02248e15b 100644
+--- a/alan/library/book-of-everything/commands/ali-fold/ali-fold.command.code.ts
++++ b/alan/library/book-of-everything/commands/ali-fold/ali-fold.command.code.ts
+@@ -11,8 +11,8 @@ import type { Answer, Given } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
+ import type { FileEdit } from "@akasha/command-system/landing"
+ import { listedAt } from "@akasha/indexes"
+-import { besideAt } from "@akasha/pages-system/page-file-name"
+-import { type Value, valueAt } from "@akasha/pages-system/page-value"
++import { besideAt } from "@akasha/pages/page-file-name"
++import { type Value, valueAt } from "@akasha/pages/page-value"
+ import { composedFor } from "@akasha/pages-system-service/composing"
+ 
+ const INPUT = 1
+diff --git a/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts b/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts
+index 4d7b636892a533d947d1f16e86e1590b0831421d..d536c167fa92f946fa035ed3b167843ad0c8a43e 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Bites } from "./properties/bites.file-property.ts"
+ import type { Frontier } from "./properties/frontier.file-property.ts"
+ import type { Integration } from "./properties/integration.file-property.ts"
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/bites.file-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/bites.file-property.ts
+index 56662c358b136f44a91aced387afc738860bc9a8..82ea42d5f255e26282aab2a14ac7c4480f51d469 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/properties/bites.file-property.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/bites.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Bites = "md"
+ 
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/capture-source.text-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/capture-source.text-property.ts
+index 4303d071329db4ef7de057952c9890dbdae42639..a8d3fbfe95b9c991204b4982133fbd681ffb2764 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/properties/capture-source.text-property.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/capture-source.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CaptureSource = string
+ 
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/capture-through-at.instant-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/capture-through-at.instant-property.ts
+index 7642cc6611b3b799a27bfc87d355b7db1d3663c1..c707c779cf27ea18f23cac08ce368d5fe2d14e9f 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/properties/capture-through-at.instant-property.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/capture-through-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type CaptureThroughAt = string
+ 
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/capture-through-line.number-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/capture-through-line.number-property.ts
+index bfd85e7a01cb0fd7c5f86b3cac73285d5d7a6044..51dcedbe8a8f5dcc303dfa15472f4d9fa5a2ee6f 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/properties/capture-through-line.number-property.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/capture-through-line.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type CaptureThroughLine = number
+ 
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/frontier.file-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/frontier.file-property.ts
+index 8c1f2cc2908ea0cb5ff17a4f86fb20dc01d7eb23..58252e2ccf99842552492c35d93de1c45bb658f5 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/properties/frontier.file-property.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/frontier.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Frontier = "md"
+ 
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/integration.file-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/integration.file-property.ts
+index eeb890e0b091d75583d247b6e440c467c4f9f5c9..249b6f76a633f8c9a22f57e45c2cb218a5aa4d6a 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/properties/integration.file-property.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/integration.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Integration = "md"
+ 
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/misconceptions.file-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/misconceptions.file-property.ts
+index 6e3bf31f0a6e7c7223043068424f2b1c083e07a8..d349d1a62ca88f98002412f0dedf54cac3bd70de 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/properties/misconceptions.file-property.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/misconceptions.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Misconceptions = "md"
+ 
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/topic-calibration-read.text-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/topic-calibration-read.text-property.ts
+index c0095b139dae584661fd68b9fcc143af99dae744..c1ad9889f51605c850a20c66f2a6976fd361fe54 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/properties/topic-calibration-read.text-property.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/topic-calibration-read.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type TopicCalibrationRead = string
+ 
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/topic-calibration.number-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/topic-calibration.number-property.ts
+index 9e93b323497b26733b851646bdaa361a476ecd82..ca1fa506182a732449802539b6a17656a81f4017 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/properties/topic-calibration.number-property.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/topic-calibration.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type TopicCalibration = number
+ 
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/topic-capture.record-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/topic-capture.record-property.ts
+index 82fe290bffa828270e6c7e9446f66f97df2d8274..ea8beb860cbf8aa44e2bb8d7ab5071c22981b8c4 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/properties/topic-capture.record-property.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/topic-capture.record-property.ts
+@@ -1,4 +1,4 @@
+-import type { RecordProperty } from "@akasha/pages-system/record-property"
++import type { RecordProperty } from "@akasha/pages/record-property"
+ import type { CaptureSource } from "./capture-source.text-property.ts"
+ import type { CaptureThroughAt } from "./capture-through-at.instant-property.ts"
+ import type { CaptureThroughLine } from "./capture-through-line.number-property.ts"
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/topic-coverage.number-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/topic-coverage.number-property.ts
+index 9ee1cf53cad6dd0c2ab28883df31738ed2438a8e..b01ba675f529f4d0f9fca86345175fe8e69cd6f3 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/properties/topic-coverage.number-property.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/topic-coverage.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type TopicCoverage = number
+ 
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/topic-depth.number-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/topic-depth.number-property.ts
+index 873b6be0b549c72e13c45fd237bc5c01495a4b5c..1f904a4d107c516e49daf3f9691f1e52bd1674b9 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/properties/topic-depth.number-property.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/topic-depth.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type TopicDepth = number
+ 
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/topic-evidence.file-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/topic-evidence.file-property.ts
+index 127a5ae490ed90e479f17e7c12060191bb3c38e2..82e5155d642c3df634fea9e223bbe62fcefd6261 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/properties/topic-evidence.file-property.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/topic-evidence.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type TopicEvidence = "md"
+ 
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/topic-node.text-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/topic-node.text-property.ts
+index 25475aa7bcb7b74dc284b8b488e8dfa012150457..e5b30a8bbfd4ebb2fd6e8f26ddf8c66105168360 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/properties/topic-node.text-property.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/topic-node.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type TopicNode = string
+ 
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/topic-part-of-slugs.relation-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/topic-part-of-slugs.relation-property.ts
+index 4820d47f5b8c758b3995c73b7079324b90f4ef09..7c62e1a1a7890a68d00bfc1caf07de5a857a2a62 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/properties/topic-part-of-slugs.relation-property.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/topic-part-of-slugs.relation-property.ts
+@@ -1,6 +1,6 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { List } from "@akasha/pages-system/page-property"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { List } from "@akasha/pages/page-property"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type TopicPartOfSlugs = List<Slug>
+ 
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/topic-scored-on.calendar-date-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/topic-scored-on.calendar-date-property.ts
+index 7edf9d3b3478a4ab9e2bef212b6c01064b32094a..89ccb0d401775faa0b39f4df980d83c6584c5685 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/properties/topic-scored-on.calendar-date-property.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/topic-scored-on.calendar-date-property.ts
+@@ -1,4 +1,4 @@
+-import type { CalendarDateProperty } from "@akasha/pages-system/calendar-date-property"
++import type { CalendarDateProperty } from "@akasha/pages/calendar-date-property"
+ 
+ export type TopicScoredOn = string
+ 
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/topic-status.select-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/topic-status.select-property.ts
+index d21d4a4ddb1012f02379f21a27a88a9161afeab4..75c688a0a15b652163f699938f58a2429e766a38 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/properties/topic-status.select-property.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/topic-status.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const topicStatus = {
+   id: "01a0659f-93da-700e-8f73-3b64e5c806d5",
+diff --git a/alan/library/litrpg-collections/litrpg-collection.page-type.ts b/alan/library/litrpg-collections/litrpg-collection.page-type.ts
+index 97beeeec7153aef8b48f894f382bc54b12f48cbf..6792ff4975a3262b3c80502337287e17e225f801 100644
+--- a/alan/library/litrpg-collections/litrpg-collection.page-type.ts
++++ b/alan/library/litrpg-collections/litrpg-collection.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Collection } from "../../../collections/collection.page-type.ts"
+ import type { Title } from "../../../pages/properties/title.text-property.ts"
+ 
+diff --git a/alan/library/reading/author-collections/author-collection.page-type.ts b/alan/library/reading/author-collections/author-collection.page-type.ts
+index 16f008518f130fb9905bae6aa87e8ebdc651e566..4b333254111f3de4fd7518a1a209f2d35fb442be 100644
+--- a/alan/library/reading/author-collections/author-collection.page-type.ts
++++ b/alan/library/reading/author-collections/author-collection.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Collection } from "../../../../collections/collection.page-type.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ 
+diff --git a/alan/library/reading/authors/author.page-type.ts b/alan/library/reading/authors/author.page-type.ts
+index 5f6a6b0ecde1fe63697f0b37b548c74a3089debd..e5aef2b4ed6f050cc5c6b0998c0fcd86ba2f61f1 100644
+--- a/alan/library/reading/authors/author.page-type.ts
++++ b/alan/library/reading/authors/author.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ 
+diff --git a/alan/library/reading/book-chapters/book-chapter.page-type.ts b/alan/library/reading/book-chapters/book-chapter.page-type.ts
+index 74da1c533835b4bd60ffee31fe6d39fbaa52b00c..01cda8b9257e7c68de6bbf34c33c8071bf9a2c79 100644
+--- a/alan/library/reading/book-chapters/book-chapter.page-type.ts
++++ b/alan/library/reading/book-chapters/book-chapter.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Collection } from "../../../../collections/collection.page-type.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ import type { ChapterText } from "./properties/chapter-text.file-property.ts"
+diff --git a/alan/library/reading/book-chapters/properties/chapter-text.file-property.ts b/alan/library/reading/book-chapters/properties/chapter-text.file-property.ts
+index 52e8504ee2c5196a3a5c13ef21914f51fca5ac3c..ada8187bf943921de149a7b98ca5cedf570cf698 100644
+--- a/alan/library/reading/book-chapters/properties/chapter-text.file-property.ts
++++ b/alan/library/reading/book-chapters/properties/chapter-text.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type ChapterText = "md"
+ 
+diff --git a/alan/library/reading/book-collections/book-collection.page-type.ts b/alan/library/reading/book-collections/book-collection.page-type.ts
+index cfe066c4f8183e9c453d556d665292eaa26fe960..b7cd2da00ca3b8f21b47f27f521dcb5e90cc9020 100644
+--- a/alan/library/reading/book-collections/book-collection.page-type.ts
++++ b/alan/library/reading/book-collections/book-collection.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ 
+diff --git a/alan/library/reading/book-series/book-series.page-type.ts b/alan/library/reading/book-series/book-series.page-type.ts
+index 7a5e0ede528abd574731479aa817d9f2699d40b7..8b87ee06db8b5905640686438532203c8d4b17ad 100644
+--- a/alan/library/reading/book-series/book-series.page-type.ts
++++ b/alan/library/reading/book-series/book-series.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ import type { MaturityRating } from "./properties/maturity-rating.select-property.ts"
+diff --git a/alan/library/reading/book-series/properties/maturity-rating.select-property.ts b/alan/library/reading/book-series/properties/maturity-rating.select-property.ts
+index bc578a08a27bf3e2aaf1ebf8b23ae96490561527..7f3606665c0d52c30c7ffe1ee2eefcbad710429b 100644
+--- a/alan/library/reading/book-series/properties/maturity-rating.select-property.ts
++++ b/alan/library/reading/book-series/properties/maturity-rating.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const maturityRating = {
+   id: "01a06598-222b-7001-a964-8dd2fc87d5bc",
