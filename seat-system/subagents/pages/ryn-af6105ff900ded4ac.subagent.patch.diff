@@ -1,3 +1,18 @@
+diff --git a/changes/atomic-changes/atomic-change.page-type.ts b/changes/atomic-changes/atomic-change.page-type.ts
+index 5c11acd517a726013794d7c13b62dee96089bab8..c0114ddde5d87cdccccf3e05c35832f6606886cb 100644
+--- a/changes/atomic-changes/atomic-change.page-type.ts
++++ b/changes/atomic-changes/atomic-change.page-type.ts
+@@ -30,6 +30,10 @@ export const atomicChange = {
+       invariantKind: "departure",
+       statement: "An atomic change lands every file the thing reaches, or none of them.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The bodies are answered rather than written, so the caller lands them as one.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
 diff --git a/readout-system/readout-tier/readout-tier.module.ts b/readout-system/readout-tier/readout-tier.module.ts
 index 50658a3176752be3203cc2cdeb8e293140d4b6b0..845d61cadf64d32abfcaf65786069d3f2ddc4950 100644
 --- a/readout-system/readout-tier/readout-tier.module.ts
