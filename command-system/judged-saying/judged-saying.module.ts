@@ -38,7 +38,8 @@ export const judgedSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "A count naming fewer paths than were asked for says how many of them it names.",
+      statement:
+        "A count naming fewer paths than were asked for says how many of those paths that count names.",
     },
     {
       invariantKind: "departure",
