@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import { nyWallToInstant } from "./new-york-wall.module.code.ts"
 
 describe("turning an Eastern wall time into an instant", () => {
-  test("an ordinary day resolves at the offset that day stands at", () => {
+  test("an ordinary day resolves at the offset that day is at", () => {
     expect(nyWallToInstant("2026-01-15", 6, 0).toISOString()).toBe("2026-01-15T11:00:00.000Z")
     expect(nyWallToInstant("2026-07-15", 6, 0).toISOString()).toBe("2026-07-15T10:00:00.000Z")
   })

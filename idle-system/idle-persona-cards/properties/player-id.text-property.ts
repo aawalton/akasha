@@ -13,7 +13,7 @@ export const playerId = {
   invariants: [
     {
       invariantKind: "stopgap",
-      statement: "Two of the three players named here stand as pages and the third does not.",
+      statement: "Two of the three players named here are pages and the third is not.",
     },
     {
       invariantKind: "gap",

@@ -5,7 +5,7 @@ export const propositionStatus = {
   pageTypeSlug: "select-property",
   slug: "proposition-status",
   propertySlug: "proposition-status",
-  definition: "where the statement stands in being settled",
+  definition: "where the statement is in being settled",
   values: ["open", "adopted", "proved", "parked"],
 } as const satisfies SelectProperty
 

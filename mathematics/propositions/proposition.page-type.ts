@@ -33,8 +33,7 @@ export const proposition = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A proposition's statement stands in its own file rather than in a value beside it.",
+      statement: "A proposition's statement sits in its own file rather than in a value beside it.",
     },
     {
       invariantKind: "departure",

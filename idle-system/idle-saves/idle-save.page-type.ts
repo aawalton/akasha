@@ -7,7 +7,7 @@ export const idleSave = {
   id: "01a06826-794a-7698-b659-62bf92ba16c3",
   pageTypeSlug: "page-type",
   slug: "idle-save",
-  definition: "where one player's idle game stands",
+  definition: "where one player's idle game is",
   pluralSlug: "idle-saves",
   extendsSlug: ["page-type/page"],
   invariants: [
@@ -25,7 +25,7 @@ export const idleSave = {
     },
     {
       invariantKind: "gap",
-      statement: "A save is kept in Supabase and no save yet stands as a page of this type.",
+      statement: "A save is kept in Supabase and no save yet exists as a page of this type.",
     },
     {
       invariantKind: "gap",

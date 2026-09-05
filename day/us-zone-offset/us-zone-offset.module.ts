@@ -4,7 +4,7 @@ export const usZoneOffset = {
   id: "01a05c77-31e6-7877-b124-3f103fd4ac3d",
   pageTypeSlug: "module",
   slug: "us-zone-offset",
-  definition: "how far behind UTC New York and Denver stand at one instant",
+  definition: "how far behind UTC New York and Denver are at one instant",
   code: "ts",
   test: "ts",
   invariants: [
@@ -35,7 +35,7 @@ export const usZoneOffset = {
     },
     {
       invariantKind: "constraint",
-      statement: "The rule standing today is applied to every year.",
+      statement: "The rule as it is today is applied to every year.",
     },
     {
       invariantKind: "departure",
