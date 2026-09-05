@@ -1,15 +1,20 @@
 runsWarrants: false
 diff --git a/seat-system/compose-subagents/compose-subagents.module.ts b/seat-system/compose-subagents/compose-subagents.module.ts
-index 36568d3bc522827f29afa9bcf7f287d98ff03125..f2647174e8cd6a2a5bfbd4f065c48a0828743dbb 100644
+index 36568d3bc522827f29afa9bcf7f287d98ff03125..1e98cf629bcee454afa8a0095726e0731484f99f 100644
 --- a/seat-system/compose-subagents/compose-subagents.module.ts
 +++ b/seat-system/compose-subagents/compose-subagents.module.ts
-@@ -9,7 +9,8 @@ export const composeSubagents = {
+@@ -9,11 +9,12 @@ export const composeSubagents = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "What asks for the kinds imports this and calls it rather than running it.",
 +      statement:
 +        "What asks for the kinds imports this module and calls that module rather than running that module.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A kind is named in the map by what it states it is dispatched as.",
++      statement: "A kind is named in the map by what that kind states that kind is dispatched as.",
      },
      {
        invariantKind: "departure",
