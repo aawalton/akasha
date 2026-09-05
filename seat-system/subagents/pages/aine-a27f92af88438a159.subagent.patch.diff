@@ -98,7 +98,7 @@ index 14ac63df14a1b3d0fb133d8d8985f907a29e4a5a..ce28eb5a06ebbc1dd59944b1efa0c02c
      {
        invariantKind: "departure",
 diff --git a/pages/file-name/page-file-name.module.ts b/pages/file-name/page-file-name.module.ts
-index da038d95b684c6dea1e4c77726fbe37ae5bb25fa..74c5fb7affad920e3310d39e6367d327b15f8b94 100644
+index da038d95b684c6dea1e4c77726fbe37ae5bb25fa..76ce2d57d49dcdd73c49ceae4411ad21620374d1 100644
 --- a/pages/file-name/page-file-name.module.ts
 +++ b/pages/file-name/page-file-name.module.ts
 @@ -4,7 +4,7 @@ export const pageFileName = {
@@ -124,8 +124,17 @@ index da038d95b684c6dea1e4c77726fbe37ae5bb25fa..74c5fb7affad920e3310d39e6367d327
      },
      {
        invariantKind: "departure",
+@@ -116,7 +116,7 @@ export const pageFileName = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page's sops file is what the sops file already stands under.",
++      statement: "A page's sops file is what the sops file is already under.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/file-parts/page-file-parts.module.code.ts b/pages/file-parts/page-file-parts.module.code.ts
-index 762ba64693ca4daedd9dacea8a6a8b9337dcb695..561f7fb37dded1d2bd8fdb9fc01de01e0fe61881 100644
+index 762ba64693ca4daedd9dacea8a6a8b9337dcb695..7533f4d800dd03a7213539bdf06e0b5902a9fb42 100644
 --- a/pages/file-parts/page-file-parts.module.code.ts
 +++ b/pages/file-parts/page-file-parts.module.code.ts
 @@ -28,13 +28,13 @@ export function uncommittedPartAt(
@@ -144,7 +153,7 @@ index 762ba64693ca4daedd9dacea8a6a8b9337dcb695..561f7fb37dded1d2bd8fdb9fc01de01e
      found.push(at)
    }
    return found
-@@ -44,9 +44,9 @@ export function partsOf(
+@@ -44,16 +44,16 @@ export function partsOf(
    path: string,
    propertySlug: string,
    held: string,
@@ -156,3 +165,12 @@ index 762ba64693ca4daedd9dacea8a6a8b9337dcb695..561f7fb37dded1d2bd8fdb9fc01de01e
  }
  
  export function uncommittedPartsOf(
+   path: string,
+   propertySlug: string,
+   held: string,
+-  standing: (at: string) => boolean
++  existing: (at: string) => boolean
+ ): readonly string[] {
+-  return walking((part) => uncommittedPartAt(path, propertySlug, held, part), standing)
++  return walking((part) => uncommittedPartAt(path, propertySlug, held, part), existing)
+ }
