@@ -13,7 +13,7 @@ export const ring = {
     },
     {
       invariantKind: "departure",
-      statement: "The small ring is the size three of them span a small tile at.",
+      statement: "The small ring is the size three small rings span a small tile at.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const ring = {
     },
     {
       invariantKind: "departure",
-      statement: "The figure sits inside the ring and the label below it.",
+      statement: "The figure sits inside the ring and the label below that ring.",
     },
     {
       invariantKind: "departure",
