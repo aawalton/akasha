@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-items-rules-core/temper-items-rules-core.workspace-package.ts b/temper/temper-items-rules-core/temper-items-rules-core.workspace-package.ts
+index d46cfb8877f41cf6952974112a6013f85c56ad7a..dc91e2c7beca85bab7a42ca4cb652fff614b32e7 100644
+--- a/temper/temper-items-rules-core/temper-items-rules-core.workspace-package.ts
++++ b/temper/temper-items-rules-core/temper-items-rules-core.workspace-package.ts
+@@ -110,7 +110,7 @@ export const temperItemsRulesCore = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A rule says what becomes of an item.",
++      statement: "A rule names the action an item is given.",
+     },
+     {
+       invariantKind: "absence",
