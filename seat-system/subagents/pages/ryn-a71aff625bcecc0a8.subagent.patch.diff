@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/seat-system/subagent-census/subagent-census.module.ts b/seat-system/subagent-census/subagent-census.module.ts
-index f36543c7c97370f1432116515f6f9cfcedb4a4ef..aadb01a2034f0468a7ec14e7eb946e25396002c6 100644
+index f36543c7c97370f1432116515f6f9cfcedb4a4ef..3813aaab268c7024ca7ca07d48d60d7f73224559 100644
 --- a/seat-system/subagent-census/subagent-census.module.ts
 +++ b/seat-system/subagent-census/subagent-census.module.ts
 @@ -88,7 +88,8 @@ export const subagentCensus = {
@@ -13,3 +13,12 @@ index f36543c7c97370f1432116515f6f9cfcedb4a4ef..aadb01a2034f0468a7ec14e7eb946e25
      },
      {
        invariantKind: "absence",
+@@ -96,7 +97,7 @@ export const subagentCensus = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What was read off /proc is handed in rather than read here.",
++      statement: "The processes read off /proc are handed in rather than read here.",
+     },
+     {
+       invariantKind: "departure",
