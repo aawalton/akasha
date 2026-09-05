@@ -101,7 +101,7 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "What a rename would touch is answered before the rename is asked to land.",
+      statement: "The files a rename would touch are answered before the rename is asked to land.",
     },
     {
       invariantKind: "departure",
@@ -114,7 +114,7 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "Every file importing what moved is repointed in the same commit.",
+      statement: "Every file importing a file that moved is repointed in the same commit.",
     },
     {
       invariantKind: "departure",
@@ -154,7 +154,7 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer names every place that still names what was renamed.",
+      statement: "An answer names every place that still names the old name.",
     },
     {
       invariantKind: "departure",
