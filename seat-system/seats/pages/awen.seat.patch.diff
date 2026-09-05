@@ -1,0 +1,931 @@
+runsWarrants: false
+diff --git a/story/world-mechanics/world-spells/pages/air-shield.world-spell.ts b/story/world-mechanics/world-spells/pages/air-shield.world-spell.ts
+deleted file mode 100644
+index 9fcc84a440eb857bbc91e766a9437ea026437ccf..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/air-shield.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const airShield = {
+-  id: "01a06572-95b3-7f1c-a71e-e825f309df68",
+-  pageTypeSlug: "world-spell",
+-  slug: "air-shield",
+-  title: "Air Shield",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/air-shield/air-shield.world-spell.ts b/story/world-mechanics/world-spells/pages/air-shield/air-shield.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..488ddf9003c74d66039c53015eb35a655c6ed66d
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/air-shield/air-shield.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const airShield = {
++  id: "01a06572-95b3-7f1c-a71e-e825f309df68",
++  pageTypeSlug: "world-spell",
++  slug: "air-shield",
++  title: "Air Shield",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/barrier-of-winds-re.world-spell.ts b/story/world-mechanics/world-spells/pages/barrier-of-winds-re.world-spell.ts
+deleted file mode 100644
+index 00a31287a90917b40c9065984839cffa0ea4de66..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/barrier-of-winds-re.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const barrierOfWindsRe = {
+-  id: "01a06572-95b5-7c2f-9a01-99339458dbdf",
+-  pageTypeSlug: "world-spell",
+-  slug: "barrier-of-winds-re",
+-  title: "Barrier of Winds Re",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/barrier-of-winds-re/barrier-of-winds-re.world-spell.ts b/story/world-mechanics/world-spells/pages/barrier-of-winds-re/barrier-of-winds-re.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..aafb19b6abe72b6000a8921252231cb0cab40e87
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/barrier-of-winds-re/barrier-of-winds-re.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const barrierOfWindsRe = {
++  id: "01a06572-95b5-7c2f-9a01-99339458dbdf",
++  pageTypeSlug: "world-spell",
++  slug: "barrier-of-winds-re",
++  title: "Barrier of Winds Re",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/barrier-of-winds.world-spell.ts b/story/world-mechanics/world-spells/pages/barrier-of-winds.world-spell.ts
+deleted file mode 100644
+index 39c4d782913b51a5ae5f0ccb3e2557a4ad0e0646..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/barrier-of-winds.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const barrierOfWinds = {
+-  id: "01a06572-95b5-7761-b403-decff8f837a0",
+-  pageTypeSlug: "world-spell",
+-  slug: "barrier-of-winds",
+-  title: "Barrier of Winds",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/barrier-of-winds/barrier-of-winds.world-spell.ts b/story/world-mechanics/world-spells/pages/barrier-of-winds/barrier-of-winds.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e8c9f1d22d5bae7782b2fe980a43d26bcf0b55ab
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/barrier-of-winds/barrier-of-winds.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const barrierOfWinds = {
++  id: "01a06572-95b5-7761-b403-decff8f837a0",
++  pageTypeSlug: "world-spell",
++  slug: "barrier-of-winds",
++  title: "Barrier of Winds",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/bloodletter.world-spell.ts b/story/world-mechanics/world-spells/pages/bloodletter.world-spell.ts
+deleted file mode 100644
+index 9a38f6716d1fe468ecb7b638ee6245037f602899..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/bloodletter.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const bloodletter = {
+-  id: "01a06572-95b6-7c86-a0e3-08ebd76a4df4",
+-  pageTypeSlug: "world-spell",
+-  slug: "bloodletter",
+-  title: "Bloodletter",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/bloodletter/bloodletter.world-spell.ts b/story/world-mechanics/world-spells/pages/bloodletter/bloodletter.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4c1d0ba283a12f7be49a0b3b6ec2df8c062b37b1
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/bloodletter/bloodletter.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const bloodletter = {
++  id: "01a06572-95b6-7c86-a0e3-08ebd76a4df4",
++  pageTypeSlug: "world-spell",
++  slug: "bloodletter",
++  title: "Bloodletter",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/bound-spell-mass-slow-time-minor.world-spell.ts b/story/world-mechanics/world-spells/pages/bound-spell-mass-slow-time-minor.world-spell.ts
+deleted file mode 100644
+index a37e1b15ffc962b08c79c556d92cd098d22e30f7..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/bound-spell-mass-slow-time-minor.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const boundSpellMassSlowTimeMinor = {
+-  id: "01a06572-95b7-783a-82b8-be0b2a76f761",
+-  pageTypeSlug: "world-spell",
+-  slug: "bound-spell-mass-slow-time-minor",
+-  title: "Bound Spell – Mass Slow Time (Minor)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/bound-spell-mass-slow-time-minor/bound-spell-mass-slow-time-minor.world-spell.ts b/story/world-mechanics/world-spells/pages/bound-spell-mass-slow-time-minor/bound-spell-mass-slow-time-minor.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fdab5f079c7f6119c5351a3dc7c2c41c114a69e4
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/bound-spell-mass-slow-time-minor/bound-spell-mass-slow-time-minor.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const boundSpellMassSlowTimeMinor = {
++  id: "01a06572-95b7-783a-82b8-be0b2a76f761",
++  pageTypeSlug: "world-spell",
++  slug: "bound-spell-mass-slow-time-minor",
++  title: "Bound Spell – Mass Slow Time (Minor)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/circle-of-purification.world-spell.ts b/story/world-mechanics/world-spells/pages/circle-of-purification.world-spell.ts
+deleted file mode 100644
+index 83c1ab4dad96020cb3ac1ac8bef969ce173f73c8..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/circle-of-purification.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const circleOfPurification = {
+-  id: "01a06572-95b9-7cae-9099-efa9950276fe",
+-  pageTypeSlug: "world-spell",
+-  slug: "circle-of-purification",
+-  title: "Circle of Purification",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/circle-of-purification/circle-of-purification.world-spell.ts b/story/world-mechanics/world-spells/pages/circle-of-purification/circle-of-purification.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b0a49d70cc1e829e2c15c14d78549e608a02325c
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/circle-of-purification/circle-of-purification.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const circleOfPurification = {
++  id: "01a06572-95b9-7cae-9099-efa9950276fe",
++  pageTypeSlug: "world-spell",
++  slug: "circle-of-purification",
++  title: "Circle of Purification",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/condense-water.world-spell.ts b/story/world-mechanics/world-spells/pages/condense-water.world-spell.ts
+deleted file mode 100644
+index a68ae5bb1638cc02070680c14a0fd8fe02e1e7dc..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/condense-water.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const condenseWater = {
+-  id: "01a06572-95b9-7dc6-8884-53aee1214be0",
+-  pageTypeSlug: "world-spell",
+-  slug: "condense-water",
+-  title: "Condense Water",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/condense-water/condense-water.world-spell.ts b/story/world-mechanics/world-spells/pages/condense-water/condense-water.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6fd0e97bda504b4d20844229c730c42177e96a5a
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/condense-water/condense-water.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const condenseWater = {
++  id: "01a06572-95b9-7dc6-8884-53aee1214be0",
++  pageTypeSlug: "world-spell",
++  slug: "condense-water",
++  title: "Condense Water",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/conjure-whiteout-blizzard.world-spell.ts b/story/world-mechanics/world-spells/pages/conjure-whiteout-blizzard.world-spell.ts
+deleted file mode 100644
+index 8d95d26f9c380b048a0c8806a4ac0e99b9c1102e..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/conjure-whiteout-blizzard.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const conjureWhiteoutBlizzard = {
+-  id: "01a06572-95ba-77a9-8604-4cf23f85ef24",
+-  pageTypeSlug: "world-spell",
+-  slug: "conjure-whiteout-blizzard",
+-  title: "Conjure Whiteout Blizzard",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/conjure-whiteout-blizzard/conjure-whiteout-blizzard.world-spell.ts b/story/world-mechanics/world-spells/pages/conjure-whiteout-blizzard/conjure-whiteout-blizzard.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..622c61eb36f9538e3ffefa02d45c9d823e886f94
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/conjure-whiteout-blizzard/conjure-whiteout-blizzard.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const conjureWhiteoutBlizzard = {
++  id: "01a06572-95ba-77a9-8604-4cf23f85ef24",
++  pageTypeSlug: "world-spell",
++  slug: "conjure-whiteout-blizzard",
++  title: "Conjure Whiteout Blizzard",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/durability.world-spell.ts b/story/world-mechanics/world-spells/pages/durability.world-spell.ts
+deleted file mode 100644
+index 83ff95fd26a098da26f48b3f94fafa72a5e89607..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/durability.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const durability = {
+-  id: "01a06572-95be-7cba-ad36-fb7ece9f87af",
+-  pageTypeSlug: "world-spell",
+-  slug: "durability",
+-  title: "Durability",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/durability/durability.world-spell.ts b/story/world-mechanics/world-spells/pages/durability/durability.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d719379021f72688a5734d572cf5692cde393738
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/durability/durability.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const durability = {
++  id: "01a06572-95be-7cba-ad36-fb7ece9f87af",
++  pageTypeSlug: "world-spell",
++  slug: "durability",
++  title: "Durability",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/evercut.world-spell.ts b/story/world-mechanics/world-spells/pages/evercut.world-spell.ts
+deleted file mode 100644
+index 1bd052109cf1931e5159fa757700b858d0b9b28d..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/evercut.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const evercut = {
+-  id: "01a06572-95bf-76eb-8c53-f9c249c79190",
+-  pageTypeSlug: "world-spell",
+-  slug: "evercut",
+-  title: "Evercut",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/evercut/evercut.world-spell.ts b/story/world-mechanics/world-spells/pages/evercut/evercut.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..45b7f0e3cf4b859cd2a05d43f09a766c648f19f4
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/evercut/evercut.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const evercut = {
++  id: "01a06572-95bf-76eb-8c53-f9c249c79190",
++  pageTypeSlug: "world-spell",
++  slug: "evercut",
++  title: "Evercut",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/fast-growth.world-spell.ts b/story/world-mechanics/world-spells/pages/fast-growth.world-spell.ts
+deleted file mode 100644
+index fde5bc9d1619d2cdf79986a0bc69e103498ae143..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/fast-growth.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const fastGrowth = {
+-  id: "01a06572-95c0-72c9-be3c-d91c6f6add44",
+-  pageTypeSlug: "world-spell",
+-  slug: "fast-growth",
+-  title: "Fast Growth",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/fast-growth/fast-growth.world-spell.ts b/story/world-mechanics/world-spells/pages/fast-growth/fast-growth.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bf49af74397d636422bdbe39cc22804c8a44eeb6
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/fast-growth/fast-growth.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const fastGrowth = {
++  id: "01a06572-95c0-72c9-be3c-d91c6f6add44",
++  pageTypeSlug: "world-spell",
++  slug: "fast-growth",
++  title: "Fast Growth",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/flying-wheels.world-spell.ts b/story/world-mechanics/world-spells/pages/flying-wheels.world-spell.ts
+deleted file mode 100644
+index 0753bdc146cc1527d9554e5ceffa2fa34d583546..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/flying-wheels.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const flyingWheels = {
+-  id: "01a06572-95c4-7af4-a771-e7af68514a95",
+-  pageTypeSlug: "world-spell",
+-  slug: "flying-wheels",
+-  title: "Flying Wheels",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/flying-wheels/flying-wheels.world-spell.ts b/story/world-mechanics/world-spells/pages/flying-wheels/flying-wheels.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..dd0a55a662e812952c7dd181e52ae2335fa8bd01
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/flying-wheels/flying-wheels.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const flyingWheels = {
++  id: "01a06572-95c4-7af4-a771-e7af68514a95",
++  pageTypeSlug: "world-spell",
++  slug: "flying-wheels",
++  title: "Flying Wheels",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/grease-puddle.world-spell.ts b/story/world-mechanics/world-spells/pages/grease-puddle.world-spell.ts
+deleted file mode 100644
+index 911ef34fbd30e03f2f6a798a14a616b8828f68dd..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/grease-puddle.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const greasePuddle = {
+-  id: "01a06572-95c6-73e2-9460-46a6bebf5ae5",
+-  pageTypeSlug: "world-spell",
+-  slug: "grease-puddle",
+-  title: "Grease Puddle",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/grease-puddle/grease-puddle.world-spell.ts b/story/world-mechanics/world-spells/pages/grease-puddle/grease-puddle.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0dc29327ddff324d8cf08ff8b664af60a7b5ce62
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/grease-puddle/grease-puddle.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const greasePuddle = {
++  id: "01a06572-95c6-73e2-9460-46a6bebf5ae5",
++  pageTypeSlug: "world-spell",
++  slug: "grease-puddle",
++  title: "Grease Puddle",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/impact-guard.world-spell.ts b/story/world-mechanics/world-spells/pages/impact-guard.world-spell.ts
+deleted file mode 100644
+index 91f4f833c8fa1b22215af6a2e763f01e20725e18..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/impact-guard.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const impactGuard = {
+-  id: "01a06572-95cb-733e-aeec-50278eef2a3f",
+-  pageTypeSlug: "world-spell",
+-  slug: "impact-guard",
+-  title: "Impact Guard",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/impact-guard/impact-guard.world-spell.ts b/story/world-mechanics/world-spells/pages/impact-guard/impact-guard.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5546c7eec8e6b9df4f71a14e364445916e1e52fd
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/impact-guard/impact-guard.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const impactGuard = {
++  id: "01a06572-95cb-733e-aeec-50278eef2a3f",
++  pageTypeSlug: "world-spell",
++  slug: "impact-guard",
++  title: "Impact Guard",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/jian-sheng-xin-huo-zhi-ren.world-spell.ts b/story/world-mechanics/world-spells/pages/jian-sheng-xin-huo-zhi-ren.world-spell.ts
+deleted file mode 100644
+index 139871f3b235ea963bc54e1b1febaeb89066d677..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/jian-sheng-xin-huo-zhi-ren.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const jianShengXinHuoZhiRen = {
+-  id: "01a06572-95cc-75c2-b3b2-3839d1c79c1f",
+-  pageTypeSlug: "world-spell",
+-  slug: "jian-sheng-xin-huo-zhi-ren",
+-  title: "剑圣 – 心火之刃",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/jian-sheng-xin-huo-zhi-ren/jian-sheng-xin-huo-zhi-ren.world-spell.ts b/story/world-mechanics/world-spells/pages/jian-sheng-xin-huo-zhi-ren/jian-sheng-xin-huo-zhi-ren.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5b9b863e257afa9bd71dbf60cc2d95f2d3dd24d9
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/jian-sheng-xin-huo-zhi-ren/jian-sheng-xin-huo-zhi-ren.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const jianShengXinHuoZhiRen = {
++  id: "01a06572-95cc-75c2-b3b2-3839d1c79c1f",
++  pageTypeSlug: "world-spell",
++  slug: "jian-sheng-xin-huo-zhi-ren",
++  title: "剑圣 – 心火之刃",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/magic-bubble.world-spell.ts b/story/world-mechanics/world-spells/pages/magic-bubble.world-spell.ts
+deleted file mode 100644
+index 5bd852074af927c16d9279b3be7746f08f546811..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/magic-bubble.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const magicBubble = {
+-  id: "01a06572-95d0-7866-86ad-4c0f74fd3c6f",
+-  pageTypeSlug: "world-spell",
+-  slug: "magic-bubble",
+-  title: "Magic Bubble",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/magic-bubble/magic-bubble.world-spell.ts b/story/world-mechanics/world-spells/pages/magic-bubble/magic-bubble.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ce2289d4342253ba8b82962c388d20fef69f408d
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/magic-bubble/magic-bubble.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const magicBubble = {
++  id: "01a06572-95d0-7866-86ad-4c0f74fd3c6f",
++  pageTypeSlug: "world-spell",
++  slug: "magic-bubble",
++  title: "Magic Bubble",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/magic-picture-daily.world-spell.ts b/story/world-mechanics/world-spells/pages/magic-picture-daily.world-spell.ts
+deleted file mode 100644
+index 3a518986000fe7745a9572af520fc04c5a9f10d0..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/magic-picture-daily.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const magicPictureDaily = {
+-  id: "01a06572-95d1-78af-9d05-7323104233f0",
+-  pageTypeSlug: "world-spell",
+-  slug: "magic-picture-daily",
+-  title: "– Magic Picture (Daily)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/magic-picture-daily/magic-picture-daily.world-spell.ts b/story/world-mechanics/world-spells/pages/magic-picture-daily/magic-picture-daily.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..80aae8288b68feb25bab42bbcdf3734058b4d99d
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/magic-picture-daily/magic-picture-daily.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const magicPictureDaily = {
++  id: "01a06572-95d1-78af-9d05-7323104233f0",
++  pageTypeSlug: "world-spell",
++  slug: "magic-picture-daily",
++  title: "– Magic Picture (Daily)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/mass-slow-time-minor.world-spell.ts b/story/world-mechanics/world-spells/pages/mass-slow-time-minor.world-spell.ts
+deleted file mode 100644
+index 78464ff6fc56be2253800e14170ec883cc93c525..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/mass-slow-time-minor.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const massSlowTimeMinor = {
+-  id: "01a06572-95d2-7390-bddb-5572cab46131",
+-  pageTypeSlug: "world-spell",
+-  slug: "mass-slow-time-minor",
+-  title: "Mass Slow Time (Minor)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/mass-slow-time-minor/mass-slow-time-minor.world-spell.ts b/story/world-mechanics/world-spells/pages/mass-slow-time-minor/mass-slow-time-minor.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f313980ab3352e117aa68b4f44f3bb3b8bd27e55
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/mass-slow-time-minor/mass-slow-time-minor.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const massSlowTimeMinor = {
++  id: "01a06572-95d2-7390-bddb-5572cab46131",
++  pageTypeSlug: "world-spell",
++  slug: "mass-slow-time-minor",
++  title: "Mass Slow Time (Minor)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/mighty-cleaving.world-spell.ts b/story/world-mechanics/world-spells/pages/mighty-cleaving.world-spell.ts
+deleted file mode 100644
+index 39de99f9ca23635d9f1864902d1db2de57841e07..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/mighty-cleaving.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const mightyCleaving = {
+-  id: "01a06572-95d9-777a-9549-ba611f573986",
+-  pageTypeSlug: "world-spell",
+-  slug: "mighty-cleaving",
+-  title: "Mighty Cleaving",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/mighty-cleaving/mighty-cleaving.world-spell.ts b/story/world-mechanics/world-spells/pages/mighty-cleaving/mighty-cleaving.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e8eeede66939a1ceb8d7ab42a7dc6523e35f8455
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/mighty-cleaving/mighty-cleaving.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const mightyCleaving = {
++  id: "01a06572-95d9-777a-9549-ba611f573986",
++  pageTypeSlug: "world-spell",
++  slug: "mighty-cleaving",
++  title: "Mighty Cleaving",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/mystik-housekeeping.world-spell.ts b/story/world-mechanics/world-spells/pages/mystik-housekeeping.world-spell.ts
+deleted file mode 100644
+index a7223fb9a783b6a189880d292abcc9662cd729ce..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/mystik-housekeeping.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const mystikHousekeeping = {
+-  id: "01a06572-95d9-7586-baa0-55e334473270",
+-  pageTypeSlug: "world-spell",
+-  slug: "mystik-housekeeping",
+-  title: "Mystik Housekeeping",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/mystik-housekeeping/mystik-housekeeping.world-spell.ts b/story/world-mechanics/world-spells/pages/mystik-housekeeping/mystik-housekeeping.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..abf9a9dca16429ccd6649082bb087a1c9328d266
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/mystik-housekeeping/mystik-housekeeping.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const mystikHousekeeping = {
++  id: "01a06572-95d9-7586-baa0-55e334473270",
++  pageTypeSlug: "world-spell",
++  slug: "mystik-housekeeping",
++  title: "Mystik Housekeeping",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/nature-s-stride.world-spell.ts b/story/world-mechanics/world-spells/pages/nature-s-stride.world-spell.ts
+deleted file mode 100644
+index b0c9275bbe3aac83de95cd4ce60dd9fe3e93772a..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/nature-s-stride.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const natureSStride = {
+-  id: "01a06572-95d9-7cff-9e5b-4952df83c9a5",
+-  pageTypeSlug: "world-spell",
+-  slug: "nature-s-stride",
+-  title: "Nature’s Stride",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/nature-s-stride/nature-s-stride.world-spell.ts b/story/world-mechanics/world-spells/pages/nature-s-stride/nature-s-stride.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e22121d3c1e18c1f5d7d8bd2a774ffd6e404017a
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/nature-s-stride/nature-s-stride.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const natureSStride = {
++  id: "01a06572-95d9-7cff-9e5b-4952df83c9a5",
++  pageTypeSlug: "world-spell",
++  slug: "nature-s-stride",
++  title: "Nature’s Stride",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/nighteye.world-spell.ts b/story/world-mechanics/world-spells/pages/nighteye.world-spell.ts
+deleted file mode 100644
+index 758b60c39c9eab44836ff57520be2e5e6ece0bef..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/nighteye.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const nighteye = {
+-  id: "01a06572-95d9-7a6f-828c-27a81c171812",
+-  pageTypeSlug: "world-spell",
+-  slug: "nighteye",
+-  title: "Nighteye",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/nighteye/nighteye.world-spell.ts b/story/world-mechanics/world-spells/pages/nighteye/nighteye.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d0464c17cf4a4a8ed963c299b43b58dfce6ec291
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/nighteye/nighteye.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const nighteye = {
++  id: "01a06572-95d9-7a6f-828c-27a81c171812",
++  pageTypeSlug: "world-spell",
++  slug: "nighteye",
++  title: "Nighteye",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/orb-of-air-re.world-spell.ts b/story/world-mechanics/world-spells/pages/orb-of-air-re.world-spell.ts
+deleted file mode 100644
+index ee7e06f52d1aad9873cdaab7f1e178940c438251..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/orb-of-air-re.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const orbOfAirRe = {
+-  id: "01a06572-95da-73ec-b474-a9a335798a46",
+-  pageTypeSlug: "world-spell",
+-  slug: "orb-of-air-re",
+-  title: "Orb of Air Re",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/orb-of-air-re/orb-of-air-re.world-spell.ts b/story/world-mechanics/world-spells/pages/orb-of-air-re/orb-of-air-re.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2a6b8ca1a0893c191f38da0e148e7049fbe851fe
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/orb-of-air-re/orb-of-air-re.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const orbOfAirRe = {
++  id: "01a06572-95da-73ec-b474-a9a335798a46",
++  pageTypeSlug: "world-spell",
++  slug: "orb-of-air-re",
++  title: "Orb of Air Re",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/petty-illusion.world-spell.ts b/story/world-mechanics/world-spells/pages/petty-illusion.world-spell.ts
+deleted file mode 100644
+index 2e27a6fee530e1051f5030047c09dc25c78a6b3b..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/petty-illusion.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const pettyIllusion = {
+-  id: "01a06572-95da-70a9-8667-f7e3a7e932c8",
+-  pageTypeSlug: "world-spell",
+-  slug: "petty-illusion",
+-  title: "Petty Illusion",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/petty-illusion/petty-illusion.world-spell.ts b/story/world-mechanics/world-spells/pages/petty-illusion/petty-illusion.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2ee4687eb5b4bf14f74f651bb0d24dbb97334679
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/petty-illusion/petty-illusion.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const pettyIllusion = {
++  id: "01a06572-95da-70a9-8667-f7e3a7e932c8",
++  pageTypeSlug: "world-spell",
++  slug: "petty-illusion",
++  title: "Petty Illusion",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/sigil-of-the-magical-beast.world-spell.ts b/story/world-mechanics/world-spells/pages/sigil-of-the-magical-beast.world-spell.ts
+deleted file mode 100644
+index 11fee2c79a616338de10f9c28c2e999a97b8342f..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/sigil-of-the-magical-beast.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const sigilOfTheMagicalBeast = {
+-  id: "01a06572-95e0-796a-940f-0eeceac41ee2",
+-  pageTypeSlug: "world-spell",
+-  slug: "sigil-of-the-magical-beast",
+-  title: "Sigil of the Magical Beast",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/sigil-of-the-magical-beast/sigil-of-the-magical-beast.world-spell.ts b/story/world-mechanics/world-spells/pages/sigil-of-the-magical-beast/sigil-of-the-magical-beast.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c1080a294a22eb4dbbb92d841d08a9d6556ca529
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/sigil-of-the-magical-beast/sigil-of-the-magical-beast.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const sigilOfTheMagicalBeast = {
++  id: "01a06572-95e0-796a-940f-0eeceac41ee2",
++  pageTypeSlug: "world-spell",
++  slug: "sigil-of-the-magical-beast",
++  title: "Sigil of the Magical Beast",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/steps-of-light.world-spell.ts b/story/world-mechanics/world-spells/pages/steps-of-light.world-spell.ts
+deleted file mode 100644
+index 2f429cf14a84e4c5310fa5ece5e92932d8011aac..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/steps-of-light.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const stepsOfLight = {
+-  id: "01a06572-95e3-7466-ad49-1955d1c0adc8",
+-  pageTypeSlug: "world-spell",
+-  slug: "steps-of-light",
+-  title: "Steps of Light",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/steps-of-light/steps-of-light.world-spell.ts b/story/world-mechanics/world-spells/pages/steps-of-light/steps-of-light.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6e17aef67aedf6214be86346978f8fbb5e363222
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/steps-of-light/steps-of-light.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const stepsOfLight = {
++  id: "01a06572-95e3-7466-ad49-1955d1c0adc8",
++  pageTypeSlug: "world-spell",
++  slug: "steps-of-light",
++  title: "Steps of Light",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/summon-frost-elemental.world-spell.ts b/story/world-mechanics/world-spells/pages/summon-frost-elemental.world-spell.ts
+deleted file mode 100644
+index 7af7f779b13f587cf437e7a47beb53898a6649f6..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/summon-frost-elemental.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const summonFrostElemental = {
+-  id: "01a06572-95e4-7033-9564-1440ee560e27",
+-  pageTypeSlug: "world-spell",
+-  slug: "summon-frost-elemental",
+-  title: "Summon Frost Elemental",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/summon-frost-elemental/summon-frost-elemental.world-spell.ts b/story/world-mechanics/world-spells/pages/summon-frost-elemental/summon-frost-elemental.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bda69eb72d6761f6509e851ccd564e20ab54ec52
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/summon-frost-elemental/summon-frost-elemental.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const summonFrostElemental = {
++  id: "01a06572-95e4-7033-9564-1440ee560e27",
++  pageTypeSlug: "world-spell",
++  slug: "summon-frost-elemental",
++  title: "Summon Frost Elemental",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/summon-mosquito.world-spell.ts b/story/world-mechanics/world-spells/pages/summon-mosquito.world-spell.ts
+deleted file mode 100644
+index 80f4f6c13b8a2c2fc33feff8dd0e813e0f73283c..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/summon-mosquito.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const summonMosquito = {
+-  id: "01a06572-95e4-7660-933b-c71f7e63094b",
+-  pageTypeSlug: "world-spell",
+-  slug: "summon-mosquito",
+-  title: "Summon Mosquito",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/summon-mosquito/summon-mosquito.world-spell.ts b/story/world-mechanics/world-spells/pages/summon-mosquito/summon-mosquito.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..871503cc76b3b8ff524651007f5e4a1ecdca1862
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/summon-mosquito/summon-mosquito.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const summonMosquito = {
++  id: "01a06572-95e4-7660-933b-c71f7e63094b",
++  pageTypeSlug: "world-spell",
++  slug: "summon-mosquito",
++  title: "Summon Mosquito",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/true-earthquake.world-spell.ts b/story/world-mechanics/world-spells/pages/true-earthquake.world-spell.ts
+deleted file mode 100644
+index df0370b1ec9088d9230f77093aaf2074f74b9e4d..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/true-earthquake.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const trueEarthquake = {
+-  id: "01a06572-95e7-71f2-9bdc-3b3ac1116de6",
+-  pageTypeSlug: "world-spell",
+-  slug: "true-earthquake",
+-  title: "True Earthquake",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/true-earthquake/true-earthquake.world-spell.ts b/story/world-mechanics/world-spells/pages/true-earthquake/true-earthquake.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..35123e65736f832ea74166a0c5c0f5946587038f
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/true-earthquake/true-earthquake.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const trueEarthquake = {
++  id: "01a06572-95e7-71f2-9bdc-3b3ac1116de6",
++  pageTypeSlug: "world-spell",
++  slug: "true-earthquake",
++  title: "True Earthquake",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/tserre-s-polite-inquiry.world-spell.ts b/story/world-mechanics/world-spells/pages/tserre-s-polite-inquiry.world-spell.ts
+deleted file mode 100644
+index 57fae2bf9b55e8fd1f0c2cc5cd9f2971b4005cba..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/tserre-s-polite-inquiry.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const tserreSPoliteInquiry = {
+-  id: "01a06572-95e7-7e0b-884b-d1b25921f778",
+-  pageTypeSlug: "world-spell",
+-  slug: "tserre-s-polite-inquiry",
+-  title: "Tserre’s Polite Inquiry",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/tserre-s-polite-inquiry/tserre-s-polite-inquiry.world-spell.ts b/story/world-mechanics/world-spells/pages/tserre-s-polite-inquiry/tserre-s-polite-inquiry.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b6c9229317bd83cb36d782b84ea52dd3e522fdb1
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/tserre-s-polite-inquiry/tserre-s-polite-inquiry.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const tserreSPoliteInquiry = {
++  id: "01a06572-95e7-7e0b-884b-d1b25921f778",
++  pageTypeSlug: "world-spell",
++  slug: "tserre-s-polite-inquiry",
++  title: "Tserre’s Polite Inquiry",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/watertwister-orb.world-spell.ts b/story/world-mechanics/world-spells/pages/watertwister-orb.world-spell.ts
+deleted file mode 100644
+index 4605bcd286cfa2c7aab8f5a0d3ed75999f421c5b..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-spells/pages/watertwister-orb.world-spell.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSpell } from "../world-spell.page-type.ts"
+-
+-export const watertwisterOrb = {
+-  id: "01a06572-95e9-7589-a022-4cf1ed8e1317",
+-  pageTypeSlug: "world-spell",
+-  slug: "watertwister-orb",
+-  title: "Watertwister Orb",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSpell
+diff --git a/story/world-mechanics/world-spells/pages/watertwister-orb/watertwister-orb.world-spell.ts b/story/world-mechanics/world-spells/pages/watertwister-orb/watertwister-orb.world-spell.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..07fbe1903c25c5d524ff54d6094e0459e026bdce
+--- /dev/null
++++ b/story/world-mechanics/world-spells/pages/watertwister-orb/watertwister-orb.world-spell.ts
+@@ -0,0 +1,9 @@
++import type { WorldSpell } from "../../world-spell.page-type.ts"
++
++export const watertwisterOrb = {
++  id: "01a06572-95e9-7589-a022-4cf1ed8e1317",
++  pageTypeSlug: "world-spell",
++  slug: "watertwister-orb",
++  title: "Watertwister Orb",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSpell
