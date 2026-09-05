@@ -1,3 +1,15 @@
+diff --git a/changes/workflow-language/workflow-language.workspace-package.ts b/changes/workflow-language/workflow-language.workspace-package.ts
+index 4ba81549bb51be5963f523dd35cc6a87d664420f..c916359658fb8e3f2d0bca13ae6ae5ea304bd1fa 100644
+--- a/changes/workflow-language/workflow-language.workspace-package.ts
++++ b/changes/workflow-language/workflow-language.workspace-package.ts
+@@ -7,6 +7,7 @@ export const workflowLanguage = {
+   definition: "the words a workflow template's declaration is written in",
+   manifest: "json",
+   partSlugs: [
++    "page-type/workflow-step",
+     "module/workflow-types",
+     "module/workflow-discovery",
+     "module/step",
 diff --git a/changes/workflow-language/workflow-steps/workflow-step.page-type.ts b/changes/workflow-language/workflow-steps/workflow-step.page-type.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..92b28033c572ea69b950e808f1740299bd6691de
