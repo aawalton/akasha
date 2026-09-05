@@ -1,0 +1,16 @@
+diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts
+index 147c25dd6d22161aa4e1aaebe7f24386ef1cfc97..e188ebdd48e14fd6adef911b89098c834427d69f 100644
+--- a/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts
++++ b/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts
+@@ -246,8 +246,10 @@ export function claimedIn(change: Change, index: Answering): (path: string) => b
+ }
+ 
+ export async function foundIn(change: Change, shadow: Shadow): Promise<readonly Found[]> {
++  const reached = rootsOf(change, shadow.index)
++  if (reached.length === 0) return []
+   const claimed = claimedIn(change, shadow.index)
+-  const roots = rootsOf(change, shadow.index).filter((one) => !claimed(one))
++  const roots = reached.filter((one) => !claimed(one))
+   if (roots.length === 0) return []
+   const root = resolve(change.root)
+   const declared = declaringIn(change, shadow.index).filter((one) => !claimed(one))
