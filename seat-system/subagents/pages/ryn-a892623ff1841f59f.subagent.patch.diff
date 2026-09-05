@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/context/modules/warranting/warranting.module.ts b/context/modules/warranting/warranting.module.ts
-index b85145f9f5e9b17a79cb88ee27dafac1a5269bae..bea5ddb606dc60a8eb6b20f6e2e3c59b8e007304 100644
+index b85145f9f5e9b17a79cb88ee27dafac1a5269bae..b3473ba472f417647bc8b95eebb56ee313b50c1f 100644
 --- a/context/modules/warranting/warranting.module.ts
 +++ b/context/modules/warranting/warranting.module.ts
 @@ -11,7 +11,7 @@ export const warranting = {
@@ -77,3 +77,12 @@ index b85145f9f5e9b17a79cb88ee27dafac1a5269bae..bea5ddb606dc60a8eb6b20f6e2e3c59b
      },
      {
        invariantKind: "departure",
+@@ -135,7 +138,7 @@ export const warranting = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What a change owes and what the writing seat owes are ordered as one answer rather than two lists.",
++        "A change's readings and the writing seat's readings are ordered as one answer rather than two lists.",
+     },
+     {
+       invariantKind: "gap",
