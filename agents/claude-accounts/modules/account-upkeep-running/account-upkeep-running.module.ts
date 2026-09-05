@@ -44,7 +44,7 @@ export const accountUpkeepRunning = {
     {
       invariantKind: "departure",
       statement:
-        "A restart waits out the rest of the period where a window was triggered on any account inside it.",
+        "A restart waits out the rest of the period in which a window was triggered on any account.",
     },
     {
       invariantKind: "departure",
