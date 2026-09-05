@@ -28,6 +28,23 @@ index 8b420b28f3c11ce0b6faee2ed62711b518c16673..cea2b26cf3962cad1695d12d352aa8a8
    return asked
  }
  
+diff --git a/seat-system/subagent-page-akasha/subagent-page-akasha.module.code.ts b/seat-system/subagent-page-akasha/subagent-page-akasha.module.code.ts
+index 4b4099bf27cde4e87f2f57b6b83cb1491ea6514f..55504c78d1a77a20f465b349f4f951560a6b8f74 100644
+--- a/seat-system/subagent-page-akasha/subagent-page-akasha.module.code.ts
++++ b/seat-system/subagent-page-akasha/subagent-page-akasha.module.code.ts
+@@ -26,6 +26,10 @@ export async function removeAkashaSubagentPagesOf(
+ ): Promise<Outcome> {
+   const root = rootFor(roots, AKASHA)
+   if (pathsUnder(root, seatName).length === 0) return { kind: "unchanged" }
+-  if (await tookUnder(root, seatName, why)) return { kind: "removed" }
+-  return { kind: "refused", detail: `the subagent pages under ${seatName} did not go` }
++  const gone = await tookUnder(root, seatName, why)
++  if (!("why" in gone)) return { kind: "removed" }
++  return {
++    kind: "refused",
++    detail: `the subagent pages under ${seatName} did not go — ${gone.why}`,
++  }
+ }
 diff --git a/seat-system/subagents/presence/subagent-presence.module.code.ts b/seat-system/subagents/presence/subagent-presence.module.code.ts
 index 15c867076404849300293f9e902779ce4b2e3282..a41cfd14e715fc95c0fa278f9a54138f88bf7fde 100644
 --- a/seat-system/subagents/presence/subagent-presence.module.code.ts
