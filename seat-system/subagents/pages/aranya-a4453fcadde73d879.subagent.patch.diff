@@ -13,3 +13,20 @@ index 0000000000000000000000000000000000000000..4992710e02ca4ccccac71d0fb01e2074
 +  definition: "the cron job that clears the builder's unused cache",
 +  code: "ts",
 +} as const satisfies Manifest
+diff --git a/infrastructure/container-image/container-image.domain.ts b/infrastructure/container-image/container-image.domain.ts
+index 5c899001fb57bd9671f69957ac51e28524e6b4cf..22596edc6d121bfe2995f818ea218c203498364a 100644
+--- a/infrastructure/container-image/container-image.domain.ts
++++ b/infrastructure/container-image/container-image.domain.ts
+@@ -5,7 +5,11 @@ export const containerImage = {
+   pageTypeSlug: "domain",
+   slug: "container-image",
+   definition: "a built copy of everything a program needs to run",
+-  partSlugs: ["workspace-package/dockerfiles", "container-recipe/postgres-cnpg-image"],
++  partSlugs: [
++    "workspace-package/dockerfiles",
++    "container-recipe/postgres-cnpg-image",
++    "manifest/buildkit-prune",
++  ],
+   invariants: [
+     {
+       invariantKind: "departure",
