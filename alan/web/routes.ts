@@ -20,7 +20,7 @@ export default [
   route("sign-out", "routes/sign-out.ts"),
   route("idle", "routes/idle.ts"),
   route("api/health", "routes/api.health.ts"),
-  route("api/pages-ready", "routes/api.pages-ready.ts"),
+  route("api/pages-ready", "routes/pages-ready/pages-ready.route.code.ts"),
   route("api/live-version", "routes/api.live-version.ts"),
   route("api/errors", "routes/api.errors.ts"),
   route("api/claude-usage", "routes/claude-usage/claude-usage.route.code.ts"),

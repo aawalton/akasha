@@ -1,7 +1,7 @@
 // The instrument is checked before it is believed: each case below seeds a fault and asserts the
 // route goes red for it. A check that cannot be shown going red is not evidence when it is green.
 import { expect, test } from "bun:test"
-import { pagesReady } from "./api.pages-ready.ts"
+import { pagesReady } from "./pages-ready.route.code.ts"
 
 // This workspace preloads happy-dom, which replaces `globalThis.Response` with one whose
 // `json()` Bun refuses to answer with.
