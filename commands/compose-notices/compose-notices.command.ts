@@ -26,24 +26,11 @@ export const composeNotices = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A notice is keyed by its file name rather than by anything the file says.",
+      statement: "The notices are composed by the compose module rather than in here.",
     },
     {
       invariantKind: "departure",
-      statement: "The lines of a paragraph are joined with a space, wrapping being the author's.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A blank line between two paragraphs survives as one blank line.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A notice page holding nothing is answered an empty text rather than left out.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A folder that is not there, or holds no notice page, is refused rather than emptied.",
+      statement: "A composing that throws refuses the call rather than answering with no notice.",
     },
     {
       invariantKind: "departure",

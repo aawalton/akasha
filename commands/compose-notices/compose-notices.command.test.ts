@@ -3,16 +3,12 @@ import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "nod
 import { join, resolve } from "node:path"
 import type { Given } from "@akasha/command-system/calling"
 import {
-  composeNotices,
   NOTICES,
   notices,
   noticesUnder,
-  OUT,
-  pathOf,
-  readIn,
   render,
-  saidOf,
-} from "./compose-notices.command.code.ts"
+} from "../../seat-system/compose-notices/compose-notices.module.code.ts"
+import { composeNotices, OUT, pathOf, readIn, saidOf } from "./compose-notices.command.code.ts"
 
 const ROOT = resolve(import.meta.dir, "../..")
 
@@ -21,7 +17,33 @@ function givenIn(root: string): Given {
 }
 
 function scratch(): string {
-  return mkdtempSync("/var/tmp/compose-notices-test-")
+  const at = mkdtempSync("/var/tmp/compose-notices-test-")
+  mkdirSync(join(at, ".git"), { recursive: true })
+  return at
+}
+
+// WHERE THE NOTICES ARE READ FROM IS THE ENVIRONMENT'S TO SAY. `notices` works the akasha root out
+// afresh on each call, so a scratch checkout steers it. Which repositories there are is worked out
+// once, from where the module sits, and a real call settles that before the scratch root goes in.
+function underRoot<T>(root: string, run: () => T): T {
+  notices()
+  const held = process.env["AKASHA_ROOT"]
+  process.env["AKASHA_ROOT"] = root
+  try {
+    return run()
+  } finally {
+    if (held === undefined) delete process.env["AKASHA_ROOT"]
+    else process.env["AKASHA_ROOT"] = held
+  }
+}
+
+function saidBy(run: () => unknown): string {
+  try {
+    run()
+  } catch (thrown) {
+    return thrown instanceof Error ? thrown.message : String(thrown)
+  }
+  return ""
 }
 
 test("the lines of a paragraph are joined with a space", () => {
@@ -55,18 +77,38 @@ test("a notice is keyed by its file name with the tail taken off", () => {
 })
 
 test("a folder that is not there is refused rather than answered as no notice", () => {
-  const said = notices("/nowhere-at-all")
+  const folder = scratch()
+  try {
+    const said = underRoot(folder, () => saidBy(notices))
 
-  expect("refused" in said && said.refused).toContain("is not there")
+    expect(said).toContain("is not there")
+    expect(said).toContain(NOTICES)
+  } finally {
+    rmSync(folder, { recursive: true, force: true })
+  }
 })
 
 test("a folder holding no notice page is refused the same way", () => {
   const folder = scratch()
   try {
     mkdirSync(join(folder, NOTICES), { recursive: true })
-    const said = notices(folder)
+    const said = underRoot(folder, () => saidBy(notices))
 
-    expect("refused" in said && said.refused).toContain("holds no notice page")
+    expect(said).toContain("holds no notice page")
+  } finally {
+    rmSync(folder, { recursive: true, force: true })
+  }
+})
+
+test("what the module refuses to compose is what the command refuses with", () => {
+  const folder = scratch()
+  try {
+    const said = underRoot(folder, () => composeNotices([], givenIn(ROOT)))
+
+    expect(said.code).toBe(1)
+    expect(said.report).toEqual([])
+    expect(said.refusals.length).toBe(1)
+    expect(said.refusals[0]).toContain("is not there")
   } finally {
     rmSync(folder, { recursive: true, force: true })
   }

@@ -1,13 +1,10 @@
-import { existsSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
+import { writeFileSync } from "node:fs"
 import { isAbsolute, resolve } from "node:path"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
-
-export const NOTICES = "seat-system/notices/pages"
+import { notices } from "../../seat-system/compose-notices/compose-notices.module.code.ts"
 
 export const OUT = "--out"
-
-const TAIL = ".notice.text.md"
 
 export type Read = { readonly out: string | null } | { readonly refused: readonly string[] }
 
@@ -34,50 +31,6 @@ export function readIn(argv: readonly string[]): Read {
   return { out }
 }
 
-// Wrapping is the author's convenience and no part of the text: the lines of a paragraph are
-// joined with a space, and a blank line between two paragraphs survives as one.
-export function render(body: string): string {
-  return body
-    .split(/\n[ \t]*\n/)
-    .map((paragraph) =>
-      paragraph
-        .split("\n")
-        .map((line) => line.trim())
-        .filter((line) => line !== "")
-        .join(" ")
-    )
-    .filter((paragraph) => paragraph !== "")
-    .join("\n\n")
-}
-
-export function noticesUnder(folder: string): Readonly<Record<string, string>> {
-  const notices: Record<string, string> = {}
-  for (const name of readdirSync(folder).sort()) {
-    if (!name.endsWith(TAIL)) continue
-    notices[name.slice(0, -TAIL.length)] = render(readFileSync(`${folder}/${name}`, "utf8"))
-  }
-  return notices
-}
-
-export type Found =
-  | { readonly notices: Readonly<Record<string, string>> }
-  | { readonly refused: string }
-
-// THE TWO ABSENCES THE CARRIED FILE ENDED THE PROCESS ON. A folder that is not there and a folder
-// holding no notice page are each answered here as a refusal the caller reads, because a fleet
-// asking for a notice it cannot be given is told so rather than handed an object with no keys.
-export function notices(root: string): Found {
-  const folder = `${root}/${NOTICES}`
-  if (!existsSync(folder)) {
-    return { refused: `${folder} is not there, so there is no notice to render` }
-  }
-  const found = noticesUnder(folder)
-  if (Object.keys(found).length === 0) {
-    return { refused: `${folder} holds no notice page, so there is no notice to render` }
-  }
-  return { notices: found }
-}
-
 // TWO SPACES, AND THAT IS LOAD-BEARING. Every other command the editor asks says its JSON compact;
 // this one is indented, as the file it was carried from was, so a caller diffing what it composed
 // against what it composed before reads a match as a match.
@@ -93,13 +46,19 @@ export function pathOf(said: string, root: string): string {
 export function composeNotices(argv: readonly string[], given: Given): Answer {
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  let found: Readonly<Record<string, string>>
+  // A folder that is not there and a folder holding no notice page are the two the module throws
+  // on, and they are the two this refused on while it composed the notices itself, so a throw
+  // refuses here on the line those were refused on rather than reading as a fault in the command.
   try {
-    const root = resolve(given.root)
-    const found = notices(root)
-    if ("refused" in found) return { report: [], refusals: [found.refused], code: 1 }
-    const json = saidOf(found.notices)
+    found = notices()
+  } catch (thrown) {
+    return { report: [], refusals: [whyOf(thrown)], code: 1 }
+  }
+  try {
+    const json = saidOf(found)
     if (read.out === null) return { report: [json], refusals: [], code: 0 }
-    writeFileSync(pathOf(read.out, root), `${json}\n`)
+    writeFileSync(pathOf(read.out, resolve(given.root)), `${json}\n`)
     return { report: [], refusals: [], code: 0 }
   } catch (thrown) {
     return { report: [], refusals: [whyOf(thrown)], code: 3 }

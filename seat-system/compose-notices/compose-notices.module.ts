@@ -21,6 +21,10 @@ export const composeNotices = {
     },
     {
       invariantKind: "departure",
+      statement: "A notice page holding nothing is answered an empty text rather than left out.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A folder that is not there, or holds no notice, is refused rather than empty.",
     },
     {
