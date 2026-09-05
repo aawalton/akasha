@@ -9,7 +9,8 @@ export const supervisorDecide = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What asks for a decision imports this and calls it rather than running it.",
+      statement:
+        "A caller asking for a decision imports and calls this module rather than running that module.",
     },
     {
       invariantKind: "departure",
