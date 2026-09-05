@@ -18,7 +18,7 @@ export const pageEntryLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A file already holding what would be written is left alone.",
+      statement: "A file already holding the text that would be written is left alone.",
     },
     {
       invariantKind: "departure",
@@ -68,7 +68,7 @@ export const pageEntryLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "What is written here is read back by `page-entries` in the order written.",
+      statement: "The values written here are read back by `page-entries` in the order written.",
     },
     {
       invariantKind: "absence",
