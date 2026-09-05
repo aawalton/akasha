@@ -17,7 +17,7 @@ export const supervisorClaimedReconcile = {
     },
     {
       invariantKind: "departure",
-      statement: "A reconcile that faults does not stop the resume it runs under.",
+      statement: "A reconcile that faults does not stop the resume that reconcile runs under.",
     },
   ],
 } as const satisfies Module
