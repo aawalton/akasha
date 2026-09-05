@@ -1,0 +1,13 @@
+diff --git a/domains/initiatives/pages/ryn-trained-parser.initiative.ts b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
+index 9ef9c2371a0ecb42e4e21d020282df001c425878..87c9c1fa11824fc4196603044c4deb084b4d4560 100644
+--- a/domains/initiatives/pages/ryn-trained-parser.initiative.ts
++++ b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
+@@ -34,7 +34,7 @@ export const rynTrainedParser = {
+     {
+       statement: "Every invariant under akasha is written in plain language.",
+       workingMemory:
+-        "Two families are left. 167 statements match lone-pronoun, every one on a pronoun whose noun sits in the same sentence, and that family waits on Alan. 135 statements run past the 100-character maximum their own property declares. Read rather than counted, they are three jobs: 59 to reword, 47 carrying a reason clause that simply goes, and 29 that are two claims to split.",
++        "One family is left. 167 statements match lone-pronoun, every one on a pronoun whose noun sits in the same sentence, and that family waits on Alan. The 135 statements past the 100-character maximum are 2 now: fourteen named ratings and five named captures, each an enumeration of members that are no pages. Fourteen lanes reworded 59, cut 47 reason clauses and split 29, and the 7 handed back as unfittable were settled by splitting rather than rewording.",
+     },
+   ],
+   constraints: [
