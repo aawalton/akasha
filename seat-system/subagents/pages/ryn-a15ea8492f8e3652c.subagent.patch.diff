@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-lib-scrollable-menu/scrollable-menu-combobox-base-template/scrollable-menu-combobox-base-template.module.ts b/temper/temper-lib-scrollable-menu/scrollable-menu-combobox-base-template/scrollable-menu-combobox-base-template.module.ts
+index 860358fadffaa1d7e6aeba4672d38a5460626969..1c21078f9fc2353c347d7d2dfee54cea4993e1bd 100644
+--- a/temper/temper-lib-scrollable-menu/scrollable-menu-combobox-base-template/scrollable-menu-combobox-base-template.module.ts
++++ b/temper/temper-lib-scrollable-menu/scrollable-menu-combobox-base-template/scrollable-menu-combobox-base-template.module.ts
+@@ -10,7 +10,7 @@ export const scrollableMenuComboboxBaseTemplate = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Caller templates are mixed over the defaults per entry type rather than replacing them.",
++        "Caller templates are mixed over the defaults per entry type rather than replacing those defaults.",
+     },
+     {
+       invariantKind: "departure",
