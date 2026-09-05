@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/seat-akasha-beside/seat-akasha-beside.module.ts b/seat-system/seat-akasha-beside/seat-akasha-beside.module.ts
+index 76d0c537f8786cc38f941f7c3915d5343cfd65e6..013427f381eb69fdefe21afef0684e31978fb040 100644
+--- a/seat-system/seat-akasha-beside/seat-akasha-beside.module.ts
++++ b/seat-system/seat-akasha-beside/seat-akasha-beside.module.ts
+@@ -33,7 +33,8 @@ export const seatAkashaBeside = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The moment beside a seat is the modification time of the file holding it.",
++      statement:
++        "The moment beside a seat is the modification time of the file holding what sits beside that seat.",
+     },
+   ],
+ } as const satisfies Module
