@@ -11,7 +11,8 @@ export const selectionFeatures = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A trait is worked out from what the upstream row says rather than asked of Alan.",
+      statement:
+        "A trait is worked out from the values the upstream row says rather than asked of Alan.",
     },
     {
       invariantKind: "departure",
