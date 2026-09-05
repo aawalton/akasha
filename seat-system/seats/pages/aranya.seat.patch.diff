@@ -397,3 +397,53 @@ index 0000000000000000000000000000000000000000..8a66a8588478a4f84e06afd7c0e7c14a
 +    },
 +  ],
 +} as const satisfies Domain
+diff --git a/infrastructure/metric.domain.ts b/infrastructure/metric.domain.ts
+deleted file mode 100644
+index bfe524372feb3d45c3205387481847e529ab7660..0000000000000000000000000000000000000000
+--- a/infrastructure/metric.domain.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import type { Domain } from "../domains/domain.page-type.ts"
+-
+-export const metric = {
+-  id: "01a0658b-0f02-7858-82a5-11f7915cb90f",
+-  pageTypeSlug: "domain",
+-  slug: "metric",
+-  definition: "a number about the system, recorded over time",
+-  pluralSlug: "metrics",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A metric is kept for months.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Most of a metric comes from an instrument rather than from the thing measured.",
+-    },
+-  ],
+-} as const satisfies Domain
+diff --git a/infrastructure/metrics/metric.domain.ts b/infrastructure/metrics/metric.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e8119cdbc5cc9a4ce15046611da669b1cc60a027
+--- /dev/null
++++ b/infrastructure/metrics/metric.domain.ts
+@@ -0,0 +1,19 @@
++import type { Domain } from "../../domains/domain.page-type.ts"
++
++export const metric = {
++  id: "01a0658b-0f02-7858-82a5-11f7915cb90f",
++  pageTypeSlug: "domain",
++  slug: "metric",
++  definition: "a number about the system, recorded over time",
++  pluralSlug: "metrics",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A metric is kept for months.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Most of a metric comes from an instrument rather than from the thing measured.",
++    },
++  ],
++} as const satisfies Domain
