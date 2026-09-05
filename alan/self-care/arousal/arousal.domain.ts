@@ -16,7 +16,7 @@ export const arousal = {
     },
     {
       invariantKind: "gap",
-      statement: "Every landed scene carries what the scene tested and the read that came back.",
+      statement: "Every landed scene carries the test the scene made and the read that came back.",
     },
   ],
   directives: [
