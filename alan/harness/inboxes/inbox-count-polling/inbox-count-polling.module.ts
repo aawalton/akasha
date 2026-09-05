@@ -9,7 +9,7 @@ export const inboxCountPolling = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every inbox is counted on its own and all of them at once.",
+      statement: "Every inbox is counted on its own and all the inboxes at once.",
     },
     {
       invariantKind: "departure",
