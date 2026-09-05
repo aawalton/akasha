@@ -6,5 +6,4 @@ export const idleActions = {
   slug: "idle-actions",
   definition: "what may be asked of the idle game, and what an ask answers with",
   code: "ts",
-  test: "ts",
 } as const satisfies Module
