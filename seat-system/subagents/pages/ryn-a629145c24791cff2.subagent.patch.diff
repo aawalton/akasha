@@ -1,14 +1,20 @@
 runsWarrants: false
 diff --git a/command-system/commands/test/test.command.ts b/command-system/commands/test/test.command.ts
-index afff995a88d3ee3d26cace504b5a64755dedd8c1..f3f2b05e637edf2f446808f92fa0fb3e1056145a 100644
+index afff995a88d3ee3d26cace504b5a64755dedd8c1..1eed505f79247a9cf4fe076d37792a971a016ce0 100644
 --- a/command-system/commands/test/test.command.ts
 +++ b/command-system/commands/test/test.command.ts
-@@ -77,7 +77,7 @@ export const test = {
+@@ -77,11 +77,12 @@ export const test = {
      },
      {
        invariantKind: "departure",
 -      statement: "A run naming one test carries what the runner printed about that test.",
 +      statement: "A run naming one test carries the output the runner printed about that test.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run naming no test points at naming one rather than carrying what was printed.",
++      statement:
++        "A run naming no test points at naming one rather than carrying the output the runner printed.",
      },
      {
        invariantKind: "departure",
