@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/testing-system/waiting/waiting.module.ts b/testing-system/waiting/waiting.module.ts
-index d862bf96360e3a5002d1ba2e3157e2b4b4954c15..486c30309ebed2c8d656e730449766dfd4b325a9 100644
+index d862bf96360e3a5002d1ba2e3157e2b4b4954c15..409b3c03b458452c27cecc513309e0399cb74723 100644
 --- a/testing-system/waiting/waiting.module.ts
 +++ b/testing-system/waiting/waiting.module.ts
 @@ -9,7 +9,7 @@ export const waiting = {
@@ -12,3 +12,12 @@ index d862bf96360e3a5002d1ba2e3157e2b4b4954c15..486c30309ebed2c8d656e730449766df
      },
      {
        invariantKind: "departure",
+@@ -17,7 +17,7 @@ export const waiting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is waited for is asked once more after time is up.",
++      statement: "The condition waited for is asked once more after time is up.",
+     },
+   ],
+ } as const satisfies Module
