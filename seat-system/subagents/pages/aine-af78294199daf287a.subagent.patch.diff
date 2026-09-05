@@ -62,7 +62,7 @@ index d1390f239d4104919d3b352a380dab3e0cfe78b6..e55309d7a54302ecff5bdf241098f4e2
      {
        invariantKind: "departure",
 diff --git a/commands/write/write.command.ts b/commands/write/write.command.ts
-index 9b1b9cac9ab509e1360b085c3bed5fbef05a6032..bbdc0e990259d9bfa7bc95c62001bc3bb228096a 100644
+index 9b1b9cac9ab509e1360b085c3bed5fbef05a6032..8623230b94e753ff090d89a6667fded151ead363 100644
 --- a/commands/write/write.command.ts
 +++ b/commands/write/write.command.ts
 @@ -23,7 +23,7 @@ export const write = {
@@ -74,3 +74,12 @@ index 9b1b9cac9ab509e1360b085c3bed5fbef05a6032..bbdc0e990259d9bfa7bc95c62001bc3b
      "a folder left holding nothing by what --remove takes is cleared off the disk.",
      "the change is kept in the patch beside this agent's page, and `akasha patch apply` lands it.",
      "a draft is warranted as a landing is, and says what the checks refused without refusing.",
+@@ -86,7 +86,7 @@ export const write = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The record must show a path's writer read the body standing there.",
++      statement: "The record must show a path's writer read the body that is there.",
+     },
+     {
+       invariantKind: "departure",
