@@ -44,7 +44,8 @@ export const webApp = {
     },
     {
       invariantKind: "departure",
-      statement: "What the cluster runs for a web app is stated on the cluster service's page.",
+      statement:
+        "The workload the cluster runs for a web app is stated on the cluster service's page.",
     },
     {
       invariantKind: "departure",
