@@ -27,7 +27,8 @@ export const royalRoadAccount = {
     },
     {
       invariantKind: "departure",
-      statement: "What authorises an account's sign-in is held as a secret rather than as text.",
+      statement:
+        "The password authorising an account's sign-in is held as a secret rather than as text.",
     },
     {
       invariantKind: "departure",
@@ -36,11 +37,11 @@ export const royalRoadAccount = {
     },
     {
       invariantKind: "gap",
-      statement: "The sync signs in as no account and reads only what is open to anyone.",
+      statement: "The sync signs in as no account and reads only the pages open to anyone.",
     },
     {
       invariantKind: "gap",
-      statement: "What an account signs in as is in the cluster's secrets too.",
+      statement: "The address an account signs in as is in the cluster's secrets too.",
     },
   ],
 } as const satisfies PageType
