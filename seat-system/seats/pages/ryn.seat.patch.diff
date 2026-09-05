@@ -1,14 +1,14 @@
 runsWarrants: false
-diff --git a/story/decisions/story-decision.page-type.ts b/story/decisions/story-decision.page-type.ts
-index 3301a5687861f2ebfb63be8712fb438ea1805303..c3b5f9631ee75a67e849a04cbe9f6cbd2c888fdb 100644
---- a/story/decisions/story-decision.page-type.ts
-+++ b/story/decisions/story-decision.page-type.ts
-@@ -57,7 +57,7 @@ export const storyDecision = {
+diff --git a/checks/code-checks/pages/file-length/file-length.code-check.ts b/checks/code-checks/pages/file-length/file-length.code-check.ts
+index c53360f730612912dfed8ca3d375567a7ab6446c..48f540ffc4780d8823fad3300d86d1ac8891acf9 100644
+--- a/checks/code-checks/pages/file-length/file-length.code-check.ts
++++ b/checks/code-checks/pages/file-length/file-length.code-check.ts
+@@ -50,7 +50,7 @@ export const fileLength = {
+     },
      {
        invariantKind: "departure",
-       statement:
--        "What a decision changed is stated rather than worked out from the chapters after the decision.",
-+        "The effect a decision had is stated rather than worked out from the chapters after the decision.",
+-      statement: "A refusal for a prose file names what dividing prose costs a reader.",
++      statement: "A refusal for a prose file names the cost dividing prose puts on a reader.",
      },
      {
        invariantKind: "departure",
