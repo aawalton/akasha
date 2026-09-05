@@ -1,3 +1,72 @@
+diff --git a/commands/dev-server/last-lines/last-lines.module.code.ts b/commands/dev-server/last-lines/last-lines.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fa6197eb4d1fe19c855b014e5a3e0891bdf30b12
+--- /dev/null
++++ b/commands/dev-server/last-lines/last-lines.module.code.ts
+@@ -0,0 +1,26 @@
++import { open } from "node:fs/promises"
++
++const READ_CHUNK = 64 * 1024
++
++export async function lastLinesOf(path: string, many: number): Promise<readonly string[]> {
++  const handle = await open(path, "r")
++  try {
++    const stat = await handle.stat()
++    let at = stat.size
++    let held = ""
++    let lines = 0
++    while (at > 0 && lines <= many) {
++      const chunk = Math.min(READ_CHUNK, at)
++      at -= chunk
++      const buffer = Buffer.alloc(chunk)
++      await handle.read(buffer, 0, chunk, at)
++      held = buffer.toString("utf8") + held
++      lines = held.match(/\n/g)?.length ?? 0
++    }
++    const every = held.split("\n")
++    const last = every.at(-1) === "" ? every.slice(0, -1) : every
++    return last.length > many ? last.slice(last.length - many) : last
++  } finally {
++    await handle.close()
++  }
++}
+diff --git a/commands/dev-server/last-lines/last-lines.module.ts b/commands/dev-server/last-lines/last-lines.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..287efef15c4b89aa95bba1f1f1538aa5aef72940
+--- /dev/null
++++ b/commands/dev-server/last-lines/last-lines.module.ts
+@@ -0,0 +1,31 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const lastLines = {
++  id: "01a072f7-0ad2-7488-b3d1-84f71af5a19c",
++  pageTypeSlug: "module",
++  slug: "last-lines",
++  definition: "the last lines of a file",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A file is read from its end backwards rather than whole.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Reading ends once one line more than the caller asked for has been read.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The line ending closing a file opens no line of its own.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file holding fewer lines than the caller asked for answers with all it holds.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here follows a file as that file grows.",
++    },
++  ],
++} as const satisfies Module
 diff --git a/commands/track/session-rows/session-rows.module.code.ts b/commands/track/session-rows/session-rows.module.code.ts
 index d29efd47854ccb6b805610bc2c7cf829dab937d4..3bd3121f3c5707831b7166eb4ced84ef038eabc2 100644
 --- a/commands/track/session-rows/session-rows.module.code.ts
