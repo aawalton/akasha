@@ -18,11 +18,11 @@ export const pageTreeReading = {
     },
     {
       invariantKind: "constraint",
-      statement: "An answer that is no JSON is refused with what the command printed named.",
+      statement: "An answer that is no JSON is refused with the text the command printed named.",
     },
     {
       invariantKind: "constraint",
-      statement: "An answer failing the shape asked for is refused with what failed said.",
+      statement: "An answer failing the shape asked for is refused with the failure said.",
     },
     {
       invariantKind: "departure",
