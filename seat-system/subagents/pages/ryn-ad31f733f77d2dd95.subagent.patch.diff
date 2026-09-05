@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/state-spawned-seat/state-spawned-seat.module.ts b/seat-system/state-spawned-seat/state-spawned-seat.module.ts
+index 7cadf033208d47d133dd5bfc310578ed6f9df117..d53b83d9c863e01484bf0277efa9669cc6731fd0 100644
+--- a/seat-system/state-spawned-seat/state-spawned-seat.module.ts
++++ b/seat-system/state-spawned-seat/state-spawned-seat.module.ts
+@@ -21,7 +21,7 @@ export const stateSpawnedSeat = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What refused a stating is answered as the words that refused it.",
++      statement: "A stating's refusal is answered as the refusal's own words.",
+     },
+   ],
+ } as const satisfies Module
