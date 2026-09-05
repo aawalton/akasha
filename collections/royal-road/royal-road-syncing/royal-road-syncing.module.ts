@@ -34,7 +34,11 @@ export const royalRoadSyncing = {
     {
       invariantKind: "departure",
       statement:
-        "A chapter's name opens with its story's slug, then its position padded to four digits, then its title cut back to whole words at fifty characters.",
+        "A chapter's name opens with its story's slug, then its position padded to four digits.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The title follows, cut back to whole words at fifty characters.",
     },
     {
       invariantKind: "departure",
