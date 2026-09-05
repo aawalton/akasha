@@ -9,7 +9,7 @@ export const departure = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Knowing a departure stops a reader undoing it.",
+      statement: "Knowing a departure stops a reader undoing that departure.",
     },
   ],
 } as const satisfies InvariantKind
