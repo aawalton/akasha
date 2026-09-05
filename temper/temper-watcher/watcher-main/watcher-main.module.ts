@@ -24,7 +24,7 @@ export const watcherMain = {
     },
     {
       invariantKind: "departure",
-      statement: "An exit answered carries what wanted the exit.",
+      statement: "An exit answered carries the reason the exit was wanted.",
     },
     {
       invariantKind: "departure",
@@ -69,11 +69,11 @@ export const watcherMain = {
     },
     {
       invariantKind: "departure",
-      statement: "What watches a file for changes is handed in.",
+      statement: "The call that watches a file for changes is handed in.",
     },
     {
       invariantKind: "departure",
-      statement: "What repeats the hourly update check is handed in.",
+      statement: "The call that repeats the hourly update check is handed in.",
     },
     {
       invariantKind: "departure",
@@ -85,7 +85,7 @@ export const watcherMain = {
     },
     {
       invariantKind: "departure",
-      statement: "What the watcher remembers about each file is made afresh on every start.",
+      statement: "The state the watcher remembers about each file is made afresh on every start.",
     },
     {
       invariantKind: "departure",
