@@ -1,0 +1,31 @@
+diff --git a/seat-system/supervising/supervisor-agent-action-types/supervisor-agent-action-types.module.ts b/seat-system/supervising/supervisor-agent-action-types/supervisor-agent-action-types.module.ts
+index a683affe60c21049a5b3cfd4e17148b1626e7fb4..1b06b6c8b2d1902f2a38da9caa9f053a57603417 100644
+--- a/seat-system/supervising/supervisor-agent-action-types/supervisor-agent-action-types.module.ts
++++ b/seat-system/supervising/supervisor-agent-action-types/supervisor-agent-action-types.module.ts
+@@ -13,7 +13,7 @@ export const supervisorAgentActionTypes = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "This declares no behaviour.",
++      statement: "This module declares no behaviour.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/service-system/cluster-services/pages/page-store/page-store.cluster-service.ts b/service-system/cluster-services/pages/page-store/page-store.cluster-service.ts
+index 0c9b70add0497db696f6d1358ec571605f199c44..4899fcb853c82dfdb2dae65f6168c646ca6320b8 100644
+--- a/service-system/cluster-services/pages/page-store/page-store.cluster-service.ts
++++ b/service-system/cluster-services/pages/page-store/page-store.cluster-service.ts
+@@ -33,11 +33,11 @@ export const pageStore = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A pod reaches this by an ordinary cluster name on an ordinary port.",
++      statement: "A pod reaches this service by an ordinary cluster name on an ordinary port.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Nothing calling this is configured with a proxy.",
++      statement: "Nothing calling this service is configured with a proxy.",
+     },
+     {
+       invariantKind: "departure",
