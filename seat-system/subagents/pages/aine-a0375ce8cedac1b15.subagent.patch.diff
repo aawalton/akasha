@@ -1,0 +1,52 @@
+diff --git a/editor-extension/panel-domains/panel-domains.module.test.ts b/editor-extension/panel-domains/panel-domains.module.test.ts
+index c73db53f6088211f78f38122238c283664698ea8..5145adf2d5bc7c99696d95237a4afb9a5d726826 100644
+--- a/editor-extension/panel-domains/panel-domains.module.test.ts
++++ b/editor-extension/panel-domains/panel-domains.module.test.ts
+@@ -44,7 +44,7 @@ function parts(slug: string, held: readonly string[]): string {
+   return `export const held = { slug: ${JSON.stringify(slug)}, partSlugs: ${JSON.stringify(held)} }\n`
+ }
+ 
+-test("a page type standing under domain is a kind that is drawn", () => {
++test("a page type under domain is a kind that is drawn", () => {
+   const root = scratch.rootFor("akasha-domains-")
+   filing(
+     root,
+diff --git a/editor-extension/panel-domains/panel-domains.module.ts b/editor-extension/panel-domains/panel-domains.module.ts
+index f1c564e4a8b69212c1db70242b6fee6d18d99efc..28b337e60e48399fdf8728fdd0458d3b8d8f1605 100644
+--- a/editor-extension/panel-domains/panel-domains.module.ts
++++ b/editor-extension/panel-domains/panel-domains.module.ts
+@@ -4,7 +4,7 @@ export const panelDomains = {
+   id: "01a04e9f-4572-74d2-b19a-9fd2f81583eb",
+   pageTypeSlug: "module",
+   slug: "panel-domains",
+-  definition: "every domain the domains panel draws, the one each stands under, and their order",
++  definition: "every domain the domains panel draws, the one each sits under, and their order",
+   code: "ts",
+   test: "ts",
+   invariants: [
+diff --git a/editor-extension/work-initiatives/work-initiatives.module.test.ts b/editor-extension/work-initiatives/work-initiatives.module.test.ts
+index af7ced402780a81390454831ce2aeda046f94f29..88c4cd9ef2b74b3491e846b7bebd293ab316c6d3 100644
+--- a/editor-extension/work-initiatives/work-initiatives.module.test.ts
++++ b/editor-extension/work-initiatives/work-initiatives.module.test.ts
+@@ -75,7 +75,7 @@ test("an index naming no page type for initiatives refuses rather than drawing n
+   expect(() => initiativesDrawn(root)).toThrow("could not be answered")
+ })
+ 
+-test("the edge is filed under the parent, so the child is the one that stands under", () => {
++test("the edge is filed under the parent, so the child is the one that sits under", () => {
+   const root = worldFor()
+   filing(root, "amy-parent", ONE)
+   filing(root, "amy-child", TWO)
+diff --git a/editor-extension/work-initiatives/work-initiatives.module.ts b/editor-extension/work-initiatives/work-initiatives.module.ts
+index 23913f4a3389366a762c7a25546eaf6560c0581d..337b594d5d901533197f896f9c5de420d4b38dc6 100644
+--- a/editor-extension/work-initiatives/work-initiatives.module.ts
++++ b/editor-extension/work-initiatives/work-initiatives.module.ts
+@@ -4,7 +4,7 @@ export const workInitiatives = {
+   id: "01a04e9f-4572-7339-8438-7d5a5777f8ab",
+   pageTypeSlug: "module",
+   slug: "work-initiatives",
+-  definition: "every initiative the work panel draws, and the one each stands under",
++  definition: "every initiative the work panel draws, and the one each sits under",
+   code: "ts",
+   test: "ts",
+   invariants: [
