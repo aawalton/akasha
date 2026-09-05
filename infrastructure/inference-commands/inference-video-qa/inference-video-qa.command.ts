@@ -48,7 +48,7 @@ export const inferenceVideoQa = {
     },
     {
       invariantKind: "departure",
-      statement: "The answer is what the model said.",
+      statement: "The answer is the model's words.",
     },
     {
       invariantKind: "departure",
