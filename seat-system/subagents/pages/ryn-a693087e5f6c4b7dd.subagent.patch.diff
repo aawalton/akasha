@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-watcher/watcher-settings-consumables/watcher-settings-consumables.module.ts b/temper/temper-watcher/watcher-settings-consumables/watcher-settings-consumables.module.ts
+index 49c73678021aa609b945d590bba7da76a0a9988a..b95ad4a91f508ec379957cbfc5efe647a17df9a0 100644
+--- a/temper/temper-watcher/watcher-settings-consumables/watcher-settings-consumables.module.ts
++++ b/temper/temper-watcher/watcher-settings-consumables/watcher-settings-consumables.module.ts
+@@ -35,7 +35,7 @@ export const watcherSettingsConsumables = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A failure names the snapshot at fault and what was wrong with that snapshot.",
++      statement: "A failure names the snapshot at fault and the reason that snapshot is at fault.",
+     },
+     {
+       invariantKind: "departure",
