@@ -1,0 +1,15 @@
+diff --git a/infrastructure/container-image/buildkit/buildkit.manifest.ts b/infrastructure/container-image/buildkit/buildkit.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d4abd0fd6cbc5aeafc58aee4757efb6cb2596571
+--- /dev/null
++++ b/infrastructure/container-image/buildkit/buildkit.manifest.ts
+@@ -0,0 +1,9 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const buildkit = {
++  id: "01a07383-de17-7590-8580-ccd38e33ccd8",
++  pageTypeSlug: "manifest",
++  slug: "buildkit",
++  definition: "the deployment running the builder that turns a Dockerfile into an image",
++  code: "ts",
++} as const satisfies Manifest
