@@ -1,0 +1,12 @@
+diff --git a/service-system/cluster-services/pages/grafana/grafana.cluster-service.ts b/service-system/cluster-services/pages/grafana/grafana.cluster-service.ts
+index 9933382daf77c910171ce7ae18b5ed4a328b79b0..e3bbb504f63d9251c82515adf10e8d34cbd142c1 100644
+--- a/service-system/cluster-services/pages/grafana/grafana.cluster-service.ts
++++ b/service-system/cluster-services/pages/grafana/grafana.cluster-service.ts
+@@ -11,6 +11,5 @@ export const grafana = {
+   image: "grafana/grafana:11.2.2",
+   replicas: 1,
+   containerPort: 3000,
+-  manifestCode:
+-    "service-system/cluster-services/pages/grafana/grafana.cluster-service.code.attachment.ts",
++  manifestSlug: "grafana",
+ } as const satisfies ClusterService
