@@ -169,3 +169,59 @@ index 4baa4bcdaf11ea5616adfe3a812e69b20c92022a..00000000000000000000000000000000
 -    'case({love-level} == 4 -> "🔵", {love-level} == 3 -> "🟢", {love-level} == 2 -> "🟡", ' +
 -    '{love-level} == 1 -> "🔴", otherwise -> "⚫")',
 -} as const satisfies FormulaProperty
+diff --git a/alan/tracking/daily/wake-days/wake-day.page-type.ts b/alan/tracking/daily/wake-days/wake-day.page-type.ts
+index 5d7c591613d2652728e04125d212066c2e653b98..71b3578f0cd49c4cf7bc5324db583ea99d24dbba 100644
+--- a/alan/tracking/daily/wake-days/wake-day.page-type.ts
++++ b/alan/tracking/daily/wake-days/wake-day.page-type.ts
+@@ -10,10 +10,12 @@ import type { CompletionSnapshot } from "./properties/completion-snapshot.number
+ import type { Date as TrackedDate } from "./properties/date.text-property.ts"
+ import type { FaithLevel } from "./properties/faith-level.computed-property.ts"
+ import type { FaithPoints } from "./properties/faith-points.number-property.ts"
++import type { FaithStoplight } from "./properties/faith-stoplight.computed-property.ts"
+ import type { FunLevel } from "./properties/fun-level.computed-property.ts"
+ import type { FunPoints } from "./properties/fun-points.number-property.ts"
+ import type { HealthLevel } from "./properties/health-level.computed-property.ts"
+ import type { HealthPoints } from "./properties/health-points.number-property.ts"
++import type { HealthStoplight } from "./properties/health-stoplight.computed-property.ts"
+ import type { InboxCalendar } from "./properties/inbox-calendar.number-property.ts"
+ import type { InboxCalendarClearedToday } from "./properties/inbox-calendar-cleared-today.boolean-property.ts"
+ import type { InboxTasks } from "./properties/inbox-tasks.number-property.ts"
+@@ -28,6 +30,7 @@ import type { LearnLevel } from "./properties/learn-level.computed-property.ts"
+ import type { LearnPoints } from "./properties/learn-points.number-property.ts"
+ import type { LoveLevel } from "./properties/love-level.computed-property.ts"
+ import type { LovePoints } from "./properties/love-points.number-property.ts"
++import type { LoveStoplight } from "./properties/love-stoplight.computed-property.ts"
+ import type { Meals } from "./properties/meals.text-property.ts"
+ import type { NutritionPoints } from "./properties/nutrition-points.number-property.ts"
+ import type { PersonaDays } from "./properties/persona-days.text-property.ts"
+@@ -95,6 +98,9 @@ export type WorkedWakeDay = WakeDay & {
+   learnLevel?: LearnLevel
+   funLevel?: FunLevel
+   wealthLevel?: WealthLevel
++  faithStoplight?: FaithStoplight
++  loveStoplight?: LoveStoplight
++  healthStoplight?: HealthStoplight
+ }
+ 
+ export const wakeDay = {
+@@ -113,17 +119,17 @@ export const wakeDay = {
+     "boolean-property/spanned-from-day-boundary",
+     "computed-property/activity-calories",
+     "computed-property/faith-level",
++    "computed-property/faith-stoplight",
+     "computed-property/fun-level",
+     "computed-property/health-level",
++    "computed-property/health-stoplight",
+     "computed-property/learn-level",
+     "computed-property/love-level",
++    "computed-property/love-stoplight",
+     "computed-property/strength-calories",
+     "computed-property/wealth-level",
+-    "formula-property/faith-stoplight",
+     "formula-property/fun-stoplight",
+-    "formula-property/health-stoplight",
+     "formula-property/learn-stoplight",
+-    "formula-property/love-stoplight",
+     "formula-property/stoplights",
+     "formula-property/total-level",
+     "formula-property/wealth-stoplight",
