@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/git-transport/transport-naming/transport-naming.module.ts b/git-transport/transport-naming/transport-naming.module.ts
+index 628cf0f69b28a438cb7e006f82d100f2887e434d..ee4e3ab158fc98843b2ace19458166fb6f0da6fa 100644
+--- a/git-transport/transport-naming/transport-naming.module.ts
++++ b/git-transport/transport-naming/transport-naming.module.ts
+@@ -13,7 +13,7 @@ export const transportNaming = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a pod is selected by is fewer labels than what a pod carries.",
++      statement: "The labels a pod is selected by are fewer than the labels a pod carries.",
+     },
+   ],
+ } as const satisfies Module
