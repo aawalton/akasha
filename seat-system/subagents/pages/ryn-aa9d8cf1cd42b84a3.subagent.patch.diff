@@ -38,3 +38,70 @@ index b4ce481e01c1758e96015fab7af22d0d7548e024..ce50640849bf44427923d2e27716771c
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/monarch/eval-score/monarch-eval-score.module.ts b/alan/harness/monarch/eval-score/monarch-eval-score.module.ts
+index 5b4a37bc7f02ed187a9baee4713ff8e069abe64b..8f8ffcb302c422b18e8ac058f279fc9fe10025c5 100644
+--- a/alan/harness/monarch/eval-score/monarch-eval-score.module.ts
++++ b/alan/harness/monarch/eval-score/monarch-eval-score.module.ts
+@@ -39,7 +39,7 @@ export const monarchEvalScore = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Rows the agent was confident and wrong about are shown with their reasons, because those are what a reader learns from.",
++        "Rows the agent was confident and wrong about are shown with their reasons, because those rows are what a reader learns from.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/alan/harness/monarch/report/monarch-report.module.ts b/alan/harness/monarch/report/monarch-report.module.ts
+index fa64b81d0e43ee998f954adc49d55638e0462ce8..93292ceb46e3ace8d3a7b1f1e91b4fa1cc8ddcd7 100644
+--- a/alan/harness/monarch/report/monarch-report.module.ts
++++ b/alan/harness/monarch/report/monarch-report.module.ts
+@@ -19,7 +19,7 @@ export const monarchReport = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A rule is scored only inside the trusted window, because categories older than that were not maintained and neither figure would measure the rule.",
++        "A rule is scored only inside the trusted window, because categories older than that window were not maintained and neither figure would measure the rule.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/library/watching/properties/production-status.select-property.ts b/alan/library/watching/properties/production-status.select-property.ts
+index 0a5e95b46f4dd330aae89fb6ffe988b75903ede4..9beaa30b3886b59bfd8ab71026ad87052ce6b73e 100644
+--- a/alan/library/watching/properties/production-status.select-property.ts
++++ b/alan/library/watching/properties/production-status.select-property.ts
+@@ -10,7 +10,8 @@ export const productionStatus = {
+   invariants: [
+     {
+       invariantKind: "gap",
+-      statement: "The values are those the record holds rather than all the provider answers with.",
++      statement:
++        "The values are the ones the record holds rather than all the provider answers with.",
+     },
+   ],
+ } as const satisfies SelectProperty
+diff --git a/alan/tracking/daily/cardio-sync/cardio-sync.module.ts b/alan/tracking/daily/cardio-sync/cardio-sync.module.ts
+index 9faf014b869e3b6982ac99be3fe2837fcd734736..60c793deb4f5b269babad1a4b407f97433329b60 100644
+--- a/alan/tracking/daily/cardio-sync/cardio-sync.module.ts
++++ b/alan/tracking/daily/cardio-sync/cardio-sync.module.ts
+@@ -9,7 +9,7 @@ export const cardioSync = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This is run as its own program by the name its ops-command page states.",
++      statement: "This module is run as its own program by the name its ops-command page states.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/alan/tracking/daily/wake-days/properties/spanned-from-day-boundary.boolean-property.ts b/alan/tracking/daily/wake-days/properties/spanned-from-day-boundary.boolean-property.ts
+index 9dba5847870744f08cf33d855e4933ae211a389f..d45f2a0edf6165a5a6afccbaecef7f108f37a1c5 100644
+--- a/alan/tracking/daily/wake-days/properties/spanned-from-day-boundary.boolean-property.ts
++++ b/alan/tracking/daily/wake-days/properties/spanned-from-day-boundary.boolean-property.ts
+@@ -11,7 +11,8 @@ export const spannedFromDayBoundary = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This says how the day was spanned rather than that a figure on it is wrong.",
++      statement:
++        "This property says how the day was spanned rather than that a figure on it is wrong.",
+     },
+     {
+       invariantKind: "departure",
