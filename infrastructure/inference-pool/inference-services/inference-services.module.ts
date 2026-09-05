@@ -10,7 +10,7 @@ export const inferenceServices = {
     {
       invariantKind: "departure",
       statement:
-        "A service names the directory it is provisioned from as a path inside this repository.",
+        "A service names the directory that service is provisioned from as a path inside this repository.",
     },
     {
       invariantKind: "departure",
