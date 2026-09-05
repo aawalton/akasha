@@ -14,7 +14,7 @@ export const monarchRulePages = {
     {
       invariantKind: "departure",
       statement:
-        "A slug that names no standing category is refused, so a merged or renamed category is loud.",
+        "A slug that names no existing category is refused, so a merged or renamed category is loud.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,7 @@ export const monarchRulePages = {
     {
       invariantKind: "departure",
       statement:
-        "A value standing before any flag it could belong to is refused rather than guessed at.",
+        "A value coming before any flag it could belong to is refused rather than guessed at.",
     },
     {
       invariantKind: "departure",

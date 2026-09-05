@@ -18,7 +18,7 @@ export async function categoryTitles(): Promise<ReadonlyMap<string, string>> {
 
 export async function categoryMonarchId(slug: string): Promise<string> {
   const page = (await categoryPages()).find((one) => one.slug === slug)
-  if (page === undefined) throw new Error(`no category stands at \`${slug}\``)
+  if (page === undefined) throw new Error(`no category exists at \`${slug}\``)
   const held = keyOf(page, "monarchId")
   if (held === null) {
     throw new Error(`${page.path} names no \`monarch-id\`, so nothing can be posted back for it`)
@@ -46,7 +46,7 @@ export function readFlags(argv: readonly string[]): ReadonlyMap<string, readonly
       key = token.slice(2)
       if (!flags.has(key)) flags.set(key, [])
     } else if (key === null) {
-      throw new Error(`"${token}" stands before any --flag it could belong to`)
+      throw new Error(`"${token}" comes before any --flag it could belong to`)
     } else {
       flags.get(key)?.push(token)
     }

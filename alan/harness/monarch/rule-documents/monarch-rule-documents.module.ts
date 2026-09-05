@@ -4,17 +4,17 @@ export const monarchRuleDocuments = {
   id: "01a06866-06f1-762e-b1c3-4910e1884927",
   pageTypeSlug: "module",
   slug: "monarch-rule-documents",
-  definition: "the category rules, read from the pages standing inside akasha",
+  definition: "the category rules, read from the pages inside akasha",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The rules stand as TypeScript pages, one file to a rule.",
+      statement: "The rules are TypeScript pages, one file to a rule.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The checkout is read directly rather than the pages system service asked, because the ring runs under a workstation timer where no service stands.",
+        "The checkout is read directly rather than the pages system service asked, because the ring runs under a workstation timer where there is no service.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +48,7 @@ export const monarchRuleDocuments = {
     {
       invariantKind: "departure",
       statement:
-        "A rule naming a category that no longer stands is refused, because it may have been merged or renamed in Monarch.",
+        "A rule naming a category that no longer exists is refused, because it may have been merged or renamed in Monarch.",
     },
   ],
 } as const satisfies Module

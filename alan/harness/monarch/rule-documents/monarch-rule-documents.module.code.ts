@@ -7,10 +7,10 @@ import { categoryTitles } from "../rule-pages/monarch-rule-pages.module.code.ts"
 import type { Match, Outcome, Rule } from "../rules/monarch-rules.module.code.ts"
 
 /**
- * The rules stand as TypeScript pages inside akasha, one file to a rule, since the markdown rule
+ * The rules are TypeScript pages inside akasha, one file to a rule, since the markdown rule
  * set was migrated away. This reads the checkout directly rather than asking the pages system
- * service for them: the categorization ring runs under a workstation timer, where no service
- * stands, so a rule that could only be read over HTTP could not be read at all.
+ * service for them: the categorization ring runs under a workstation timer, where there is no
+ * service, so a rule that could only be read over HTTP could not be read at all.
  */
 const RULES = "alan/harness/monarch/category-rules"
 
@@ -64,7 +64,7 @@ async function namesIn(one: Kind): Promise<readonly string[]> {
     entries = await readdir(join(AKASHA, one.folder))
   } catch (why) {
     throw new Error(
-      `no folder stands at ${one.folder}, so this reader cannot say whether the ${one.kind} ` +
+      `no folder exists at ${one.folder}, so this reader cannot say whether the ${one.kind} ` +
         "rules are gone or merely moved. Answering with no rules would categorize nothing and " +
         `report nothing wrong. (${why instanceof Error ? why.message : String(why)})`
     )
@@ -93,7 +93,7 @@ function countOf(page: RulePage, name: string): number | null {
   return held
 }
 
-async function standing(): Promise<readonly RulePage[]> {
+async function rulePages(): Promise<readonly RulePage[]> {
   const found: RulePage[] = []
   const held = new Map<string, string>()
   for (const one of KINDS) {
@@ -110,7 +110,7 @@ async function standing(): Promise<readonly RulePage[]> {
       const already = held.get(slug)
       if (already !== undefined) {
         throw new Error(
-          `\`${slug}\` stands at ${already} and at ${path}, so nothing says which carries it`
+          `\`${slug}\` exists at ${already} and at ${path}, so nothing says which carries it`
         )
       }
       held.set(slug, path)
@@ -129,7 +129,7 @@ function outcomeOf(page: RulePage, categories: ReadonlyMap<string, string>): Out
   if (slug === null) return { kind: "reserve" }
   if (!categories.has(slug)) {
     throw new Error(
-      `${page.path}: no category stands at \`${slug}\`. It may have been merged or renamed ` +
+      `${page.path}: no category exists at \`${slug}\`. It may have been merged or renamed ` +
         "in Monarch."
     )
   }
@@ -142,7 +142,7 @@ export async function loadCategoryRules(): Promise<RuleSet> {
   const rules: Rule[] = []
   const agentRules: AgentRule[] = []
 
-  for (const page of await standing()) {
+  for (const page of await rulePages()) {
     const matches = statedMatches(page.path, page.value["matches"])
     if (page.kind === "agent") {
       const judgement = textOf(page, "judgement")
