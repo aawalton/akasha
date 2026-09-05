@@ -127,3 +127,11 @@ index c4c3a29f22e504b83b58fb7825016f209a743880..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../design/primitives
 \ No newline at end of file
+diff --git a/design/system/design-system b/design/system/design-system
+deleted file mode 120000
+index 652964790ea39ec911349eadc2ac157357f4c9bd..0000000000000000000000000000000000000000
+--- a/design/system/design-system
++++ /dev/null
+@@ -1 +0,0 @@
+-../../design/system
+\ No newline at end of file
