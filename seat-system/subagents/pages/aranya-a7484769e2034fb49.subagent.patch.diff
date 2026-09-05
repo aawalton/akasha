@@ -1,0 +1,16 @@
+diff --git a/infrastructure/databases/supabase-realtime/supabase-realtime.manifest.ts b/infrastructure/databases/supabase-realtime/supabase-realtime.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b684468a2c37d38db13bc9341e63c10a28d64c2f
+--- /dev/null
++++ b/infrastructure/databases/supabase-realtime/supabase-realtime.manifest.ts
+@@ -0,0 +1,10 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const supabaseRealtime = {
++  id: "01a0738d-641f-71ab-93b6-38e0f40a9f92",
++  pageTypeSlug: "manifest",
++  slug: "supabase-realtime",
++  definition:
++    "the namespace, service and deployment of the server pushing a row's change to subscribed browsers",
++  code: "ts",
++} as const satisfies Manifest
