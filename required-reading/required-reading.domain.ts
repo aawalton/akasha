@@ -8,7 +8,7 @@ export const requiredReading = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "Nothing outside akasha asks an agent what the agent has read.",
+      statement: "Nothing outside akasha asks an agent which bodies the agent has read.",
     },
     {
       invariantKind: "departure",
@@ -49,12 +49,12 @@ export const requiredReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A body counts as read by whoever landed that body.",
+      statement: "A body counts as read by the agent that landed that body.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A read stops counting when what was read changes unless a mechanical change carried the read on.",
+        "A read stops counting when the body read changes unless a mechanical change carried the read on.",
     },
     {
       invariantKind: "departure",
@@ -64,7 +64,7 @@ export const requiredReading = {
     {
       invariantKind: "departure",
       statement:
-        "What a seat must read is worked out from what its page states rather than listed.",
+        "The reading a seat must do is worked out from the statements on its page rather than listed.",
     },
     {
       invariantKind: "gap",
