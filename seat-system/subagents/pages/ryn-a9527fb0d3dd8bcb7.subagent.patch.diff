@@ -1,0 +1,13 @@
+diff --git a/editor-extension/ops-extension/extension-entry/extension-entry.module.ts b/editor-extension/ops-extension/extension-entry/extension-entry.module.ts
+index d2b1011500cd9dc401621ef587bc6e57d9c886d9..4a519ae1f01a1713b4c03480ded02421059f2f9c 100644
+--- a/editor-extension/ops-extension/extension-entry/extension-entry.module.ts
++++ b/editor-extension/ops-extension/extension-entry/extension-entry.module.ts
+@@ -13,7 +13,7 @@ export const extensionEntry = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every panel is named here with the start that brings it up.",
++      statement: "Every panel is named here with the start that brings that panel up.",
+     },
+     {
+       invariantKind: "departure",
