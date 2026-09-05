@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/gate-building/gate-building.module.ts b/command-system/gate-building/gate-building.module.ts
-index d0df97acf7a385791f8760a6bb490a0cf5b6027f..0a0dada0d0c73ceb5a5eae170d554b4e6f3fbcbf 100644
+index d0df97acf7a385791f8760a6bb490a0cf5b6027f..493cebded2ba15f57b9241a1352e1e7194f03be0 100644
 --- a/command-system/gate-building/gate-building.module.ts
 +++ b/command-system/gate-building/gate-building.module.ts
 @@ -52,11 +52,11 @@ export const gateBuilding = {
@@ -17,3 +17,12 @@ index d0df97acf7a385791f8760a6bb490a0cf5b6027f..0a0dada0d0c73ceb5a5eae170d554b4e
      },
      {
        invariantKind: "departure",
+@@ -88,7 +88,7 @@ export const gateBuilding = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "What is handed back is what will judge.",
++      statement: "The gate handed back is the gate that will judge.",
+     },
+     {
+       invariantKind: "absence",
