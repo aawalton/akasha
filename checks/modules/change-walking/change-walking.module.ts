@@ -43,6 +43,10 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
+      statement: "A refusal for a body that will not open names the path that body is at.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path nothing sits at reads as nothing rather than as unreadable.",
     },
     {

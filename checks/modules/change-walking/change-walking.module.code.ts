@@ -277,7 +277,7 @@ export function onDisk(root: string): (path: string) => Uint8Array | null {
       return readFileSync(join(root, path))
     } catch (thrown) {
       if (isMissing(thrown)) return null
-      throw thrown
+      throw new Error(`${path} is there and would not open — ${String(thrown)}`)
     }
   }
 }
