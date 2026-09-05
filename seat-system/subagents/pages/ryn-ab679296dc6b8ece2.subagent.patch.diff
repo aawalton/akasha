@@ -1,5 +1,5 @@
 diff --git a/command-system/piping/piping.module.ts b/command-system/piping/piping.module.ts
-index d3acd6b118a3d76b0d4335b5d33e68d5b8da24e7..1d02a3980a36a63fd79f431f5c2e8162a9e7928d 100644
+index d3acd6b118a3d76b0d4335b5d33e68d5b8da24e7..de0b5cbe29b5aa7ae00a447ee433537c0c21b86c 100644
 --- a/command-system/piping/piping.module.ts
 +++ b/command-system/piping/piping.module.ts
 @@ -83,11 +83,13 @@ export const piping = {
@@ -15,6 +15,15 @@ index d3acd6b118a3d76b0d4335b5d33e68d5b8da24e7..1d02a3980a36a63fd79f431f5c2e8162
 -      statement: "The split marker ends the passage and the closing marker ends what it becomes.",
 +      statement:
 +        "The split marker ends the passage and the closing marker ends what that passage becomes.",
+     },
+     {
+       invariantKind: "departure",
+@@ -95,7 +97,7 @@ export const piping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A passage carrying no trailing newline is left as it is.",
++      statement: "A passage carrying no trailing newline is left as that passage is.",
      },
      {
        invariantKind: "departure",
