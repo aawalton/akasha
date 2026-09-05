@@ -1,0 +1,31 @@
+runsWarrants: false
+diff --git a/infrastructure/telemetry.domain.ts b/infrastructure/telemetry.domain.ts
+deleted file mode 100644
+index 4a7b6c57ac4da67777388d48806d614ebc041aa1..0000000000000000000000000000000000000000
+--- a/infrastructure/telemetry.domain.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Domain } from "../domains/domain.page-type.ts"
+-
+-export const telemetry = {
+-  id: "01a0658b-0f02-79eb-aed4-e7e8b92bc117",
+-  pageTypeSlug: "domain",
+-  slug: "telemetry",
+-  definition: "somewhere a program records what it is doing",
+-  partSlugs: ["domain/log", "domain/metric"],
+-} as const satisfies Domain
+diff --git a/infrastructure/telemetry/telemetry.domain.ts b/infrastructure/telemetry/telemetry.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ecbd1b5aad0be63daefb899711fb325f08a67bc0
+--- /dev/null
++++ b/infrastructure/telemetry/telemetry.domain.ts
+@@ -0,0 +1,9 @@
++import type { Domain } from "../../domains/domain.page-type.ts"
++
++export const telemetry = {
++  id: "01a0658b-0f02-79eb-aed4-e7e8b92bc117",
++  pageTypeSlug: "domain",
++  slug: "telemetry",
++  definition: "somewhere a program records what it is doing",
++  partSlugs: ["domain/log", "domain/metric"],
++} as const satisfies Domain
