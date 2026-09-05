@@ -16,9 +16,5 @@ export const shalidorLibraryCollections01 = {
       invariantKind: "constraint",
       statement: "These entries are one unbroken run of the whole catalog's order.",
     },
-    {
-      invariantKind: "gap",
-      statement: "A collection moved between runs breaks every build hash saved.",
-    },
   ],
 } as const satisfies Module
