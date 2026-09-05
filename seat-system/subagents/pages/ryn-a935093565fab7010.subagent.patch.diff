@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-watcher/watcher-token-check/watcher-token-check.module.ts b/temper/temper-watcher/watcher-token-check/watcher-token-check.module.ts
+index 83ece340b508e2af826b0a276e83e333773a4dd2..f251639669d87196768c03ad448d289e1eab9e99 100644
+--- a/temper/temper-watcher/watcher-token-check/watcher-token-check.module.ts
++++ b/temper/temper-watcher/watcher-token-check/watcher-token-check.module.ts
+@@ -45,7 +45,7 @@ export const watcherTokenCheck = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The keys a page type declares are gathered by walking what that page type extends.",
++        "The keys a page type declares are gathered by walking the page types that type extends.",
+     },
+     {
+       invariantKind: "gap",
