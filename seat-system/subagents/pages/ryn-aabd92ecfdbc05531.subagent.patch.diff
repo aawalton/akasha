@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-turn/seat-turn.domain.ts b/seat-system/seat-turn/seat-turn.domain.ts
+index d52f07096d9ea320f1bfbebbc8579213d9994301..525624e4d666b61d3515b4da5dff51a454e2a052 100644
+--- a/seat-system/seat-turn/seat-turn.domain.ts
++++ b/seat-system/seat-turn/seat-turn.domain.ts
+@@ -33,7 +33,7 @@ export const seatTurn = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a turn end keeps is observed rather than declared.",
++      statement: "The record a turn end keeps is observed rather than declared.",
+     },
+     {
+       invariantKind: "departure",
