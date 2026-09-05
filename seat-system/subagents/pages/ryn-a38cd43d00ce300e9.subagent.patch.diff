@@ -1,0 +1,15 @@
+diff --git a/changes/atomic-changes/atomic-change.page-type.ts b/changes/atomic-changes/atomic-change.page-type.ts
+index b8c5b75ba553072a4c0651221fd19e3c8ec97753..5c11acd517a726013794d7c13b62dee96089bab8 100644
+--- a/changes/atomic-changes/atomic-change.page-type.ts
++++ b/changes/atomic-changes/atomic-change.page-type.ts
+@@ -35,6 +35,10 @@ export const atomicChange = {
+       statement:
+         "An atomic change asks the index for the files a thing reaches rather than walking the tree.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "An index that cannot answer refuses the change rather than narrowing its reach.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "An atomic change refuses or leaves the tree whole.",
