@@ -991,3 +991,11 @@ index bb2544785de9fece2eba5a47ba622c7ad502081e..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-formula-framework
 \ No newline at end of file
+diff --git a/temper/temper-game-catalog-capture-addon/temper-game-catalog-capture-addon b/temper/temper-game-catalog-capture-addon/temper-game-catalog-capture-addon
+deleted file mode 120000
+index 01a92d1cf6d77eb85f8ff4300f1d1ce4ecc74880..0000000000000000000000000000000000000000
+--- a/temper/temper-game-catalog-capture-addon/temper-game-catalog-capture-addon
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-game-catalog-capture-addon
+\ No newline at end of file
