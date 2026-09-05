@@ -18,7 +18,7 @@ export const answerKeeping = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here says what an answer means.",
+      statement: "Nothing here says an answer's meaning.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const answerKeeping = {
     {
       invariantKind: "departure",
       statement:
-        "A key is taken from what the inputs hold rather than from when the inputs changed.",
+        "A key is taken from the values the inputs hold rather than from when the inputs changed.",
     },
     {
       invariantKind: "departure",
