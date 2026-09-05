@@ -48,3 +48,57 @@ index 94174c995d6bbc93dcb7ad97fffa4dd6604d93ef..d07b405721af56d72b55812b2b94244b
      if (!fillsNounSlot(token)) continue
      if (partsOf(sentence, token).length > 0) continue
      if (marksADegree(sentence, token)) continue
+diff --git a/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.test.ts b/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.test.ts
+index 8166d67ee9bfd723edc425211e4027f58a030b82..8194d501d8aa61fb26190e896a5851bcf03f7367 100644
+--- a/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.test.ts
++++ b/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.test.ts
+@@ -133,3 +133,49 @@ test("a quantifier after a closed backticked name is found", () => {
+   ])
+   expect(loneQuantifier(said)).toEqual([{ at: [5] }])
+ })
++
++test("a quantifier heading a reciprocal is passed over", () => {
++  const said = sentenceOf([
++    ["Archiving", "VERB", 0, "root"],
++    ["and", "CCONJ", 3, "cc"],
++    ["skipping", "VERB", 1, "conj"],
++    ["exclude", "VERB", 1, "conj"],
++    ["each", "DET", 4, "obj"],
++    ["other", "ADJ", 5, "fixed"],
++    [".", "PUNCT", 4, "punct"],
++  ])
++  expect(loneQuantifier(said)).toEqual([])
++})
++
++test("a quantifier whose fixed part is than is passed over", () => {
++  const said = sentenceOf([
++    ["A", "DET", 2, "det"],
++    ["scale", "NOUN", 8, "nsubj"],
++    ["stating", "VERB", 2, "acl"],
++    ["fewer", "ADJ", 8, "nsubj"],
++    ["than", "ADP", 4, "fixed"],
++    ["two", "NUM", 7, "nummod"],
++    ["rungs", "NOUN", 4, "obl"],
++    ["sweeps", "VERB", 0, "root"],
++    ["nothing", "PRON", 8, "obj"],
++    [".", "PUNCT", 8, "punct"],
++  ])
++  expect(loneQuantifier(said)).toEqual([])
++})
++
++test("a quantifier heading a plain `other` is found", () => {
++  const said = sentenceOf([
++    ["The", "DET", 2, "det"],
++    ["resolver", "NOUN", 3, "nsubj"],
++    ["treats", "VERB", 0, "root"],
++    ["this", "DET", 5, "det"],
++    ["message", "NOUN", 3, "obj"],
++    ["as", "SCONJ", 3, "mark"],
++    ["it", "PRON", 3, "nsubj"],
++    ["treats", "VERB", 3, "advcl"],
++    ["any", "DET", 3, "obj"],
++    ["other", "ADJ", 9, "fixed"],
++    [".", "PUNCT", 3, "punct"],
++  ])
++  expect(loneQuantifier(said)).toEqual([{ at: [9] }])
++})
