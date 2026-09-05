@@ -9,10 +9,6 @@ export const treasureUpstreamPort = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The upstream Lua file is read by running the file in a sandboxed Lua machine.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "The upstream file is loaded as a chunk with a line appended to hand its data out.",
     },
