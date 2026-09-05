@@ -1012,3 +1012,18 @@ index 0000000000000000000000000000000000000000..6b35886f42e8e89c0aada9c9ef35425f
 +  definition: "the metrics server, its storage, its access rules and the way in to it",
 +  code: "ts",
 +} as const satisfies Module
+diff --git a/infrastructure/cluster-manifests/registry-gc-manifests/registry-gc-manifests.module.ts b/infrastructure/cluster-manifests/registry-gc-manifests/registry-gc-manifests.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f7925fbe5666b3c03696ab9fef414204e62321e9
+--- /dev/null
++++ b/infrastructure/cluster-manifests/registry-gc-manifests/registry-gc-manifests.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const registryGcManifests = {
++  id: "01a073af-3331-7e46-9dcb-a64d98dd4e67",
++  pageTypeSlug: "module",
++  slug: "registry-gc-manifests",
++  definition: "the job that drops an image layer and tag nothing refers to",
++  code: "ts",
++} as const satisfies Module
