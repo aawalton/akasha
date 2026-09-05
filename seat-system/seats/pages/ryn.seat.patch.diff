@@ -1,0 +1,42 @@
+diff --git a/changes/kinds/pages/change-restated.change-kind.ts b/changes/kinds/pages/change-restated.change-kind.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b298168bd39f98ff69f30ae05af851a218bc8b6e
+--- /dev/null
++++ b/changes/kinds/pages/change-restated.change-kind.ts
+@@ -0,0 +1,36 @@
++import type { ChangeKind } from "../change-kind.page-type.ts"
++
++export const changeRestated = {
++  id: "01a07245-0dbf-7539-b0dc-ce6281aa96e8",
++  pageTypeSlug: "change-kind",
++  slug: "change-restated",
++  definition: "a change saying what a page already said in other words",
++  runsChecks: true,
++  runsWarrants: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A restated change is composed by an agent rather than by a program.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A restated change leaves what a page means unchanged.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Only the words a page states are changed.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A rewrite narrowing what a statement binds is authored rather than restated.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every check an authored change is judged by judges a restated change.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A restated change moving more than the words a page states is refused.",
++    },
++  ],
++} as const satisfies ChangeKind
