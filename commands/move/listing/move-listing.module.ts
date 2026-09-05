@@ -39,7 +39,7 @@ export const moveListing = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what a part means.",
+      statement: "Nothing here knows the meaning of a part.",
     },
   ],
 } as const satisfies Module
