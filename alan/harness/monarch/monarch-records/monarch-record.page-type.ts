@@ -26,7 +26,8 @@ export const monarchRecord = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A record is the household's copy of what Monarch holds rather than the original.",
+      statement:
+        "A record is the household's copy of the record Monarch holds rather than the original.",
     },
     {
       invariantKind: "departure",
