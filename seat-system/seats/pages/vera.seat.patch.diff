@@ -76,3 +76,34 @@ index 4c128f6bf01dd28ac8f5f8b6924df5c97bd561a9..0d51b7a7617ec386a6ca3229761a752a
 +    return false
 +  }
 +}
+diff --git a/pages/indexes/property-carrying/property-carrying.module.test.ts b/pages/indexes/property-carrying/property-carrying.module.test.ts
+index 6d5c2f28234e05b516fe42c4c4b52bf686018182..dbe4e010ef0e1fabbd67dba78bf53522d1eea25e 100644
+--- a/pages/indexes/property-carrying/property-carrying.module.test.ts
++++ b/pages/indexes/property-carrying/property-carrying.module.test.ts
+@@ -11,6 +11,7 @@ import {
+   type Carried,
+   carryingOf,
+   heldBeside,
++  machineWrote,
+   type Naming,
+ } from "./property-carrying.module.code.ts"
+ 
+@@ -204,6 +205,18 @@ function refusing(): Carried {
+   return { refused: "no page property carries that slug" }
+ }
+ 
++test("a property saying a machine writes its file says so of its value", () => {
++  expect(machineWrote({ machineWritten: true })).toBe(true)
++})
++
++test("a property saying nothing of a machine says nothing of its value", () => {
++  expect(machineWrote({ fileName: "bun.lock" })).toBe(false)
++})
++
++test("a property saying an author writes its file says nothing of its value", () => {
++  expect(machineWrote({ machineWritten: false })).toBe(false)
++})
++
+ test("a file is beside a property naming it where a page carrying it sits in the file's folder", () => {
+   expect(heldBeside("bun.lock", [NAMING], saidTrue, carryingAt(OWNER))).toBe(true)
+ })
