@@ -75,7 +75,7 @@ export const temperAddonData = {
     },
     {
       invariantKind: "departure",
-      statement: "What the parts are named for is not always the module composing the parts.",
+      statement: "The parts are not always named for the module composing the parts.",
     },
     {
       invariantKind: "departure",
