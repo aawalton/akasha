@@ -90,3 +90,16 @@ index 9dde807d51da4e0b71c8de185e50225938dc5605..4c300a02516f0d456593531a7ea88fec
      },
      {
        invariantKind: "departure",
+diff --git a/seat-system/seat-stated-identity/seat-stated-identity.module.ts b/seat-system/seat-stated-identity/seat-stated-identity.module.ts
+index 5e6b9c9a684e00aa837332669f781f8cdbe88014..053ca8c28202edebaf2f337d664945792928b227 100644
+--- a/seat-system/seat-stated-identity/seat-stated-identity.module.ts
++++ b/seat-system/seat-stated-identity/seat-stated-identity.module.ts
+@@ -14,7 +14,7 @@ export const seatStatedIdentity = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A stated identity that cannot be checked refuses the start rather than booting a seat holding none of it.",
++        "A stated identity that cannot be checked refuses the start rather than a seat without that identity.",
+     },
+     {
+       invariantKind: "departure",
