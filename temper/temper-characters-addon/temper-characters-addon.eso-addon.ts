@@ -88,7 +88,8 @@ export const temperCharactersAddon = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What this add-on reads out of the game is written to the saved table alone.",
+      statement:
+        "Every value this add-on reads out of the game is written to the saved table alone.",
     },
     {
       invariantKind: "departure",
