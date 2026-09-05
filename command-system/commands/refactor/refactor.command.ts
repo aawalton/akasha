@@ -326,9 +326,5 @@ export const refactor = {
       statement:
         "A key the page type the retyped page becomes reads no property by refuses the retype.",
     },
-    {
-      invariantKind: "departure",
-      statement: "An address naming a retyped page under its old page type is repointed.",
-    },
   ],
 } as const satisfies Command
