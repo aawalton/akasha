@@ -1,5 +1,5 @@
 diff --git a/persona-system/questions/question.page-type.ts b/persona-system/questions/question.page-type.ts
-index a70db8b203424e288cd99377c7e93a247fc4a449..cdae8d94fb68b4effb0e2a1c330dc274b4fd96c2 100644
+index a70db8b203424e288cd99377c7e93a247fc4a449..b6d0b95d7bd494dbd18334ab12bdfa744175307f 100644
 --- a/persona-system/questions/question.page-type.ts
 +++ b/persona-system/questions/question.page-type.ts
 @@ -61,15 +61,15 @@ export const question = {
@@ -21,3 +21,12 @@ index a70db8b203424e288cd99377c7e93a247fc4a449..cdae8d94fb68b4effb0e2a1c330dc274
      },
      {
        invariantKind: "departure",
+@@ -78,7 +78,7 @@ export const question = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What was around a question when it was put sits beside the page rather than in it.",
++        "What was around a question when that question was put sits beside the page rather than in that page.",
+     },
+     {
+       invariantKind: "gap",
