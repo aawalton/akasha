@@ -15,23 +15,6 @@ index 0000000000000000000000000000000000000000..acfd4239a5bd262d0d6c6736b17dc3db
 +    { name: "pgbouncer-exporter-service", yaml: pgbouncerExporterServiceYaml() },
 +  ]
 +}
-diff --git a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
-index a84e3c5d65ff2a3ed2687d549b61eef309c1e0a6..4b32d765ab06de272706bf6eb7ca9193df3c3a32 100644
---- a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
-@@ -53,8 +53,12 @@ index 6c570862a95dbcb8fa0be42f2783db250f376359..79d2351c87fdb132bc0e8d57698b37bd
-    replicas: 1,
-    containerPort: 9127,
- -  manifestCode:
-+<<<<<<< what this change would leave
-+-    "infrastructure/telemetry/pgbouncer-exporter/pgbouncer-exporter.manifest.code.ts",
-+=======
- -    "service-system/cluster-services/pages/pgbouncer-exporter/pgbouncer-exporter.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "pgbouncer-exporter",
- +=======
- +  manifestCode: "infrastructure/telemetry/pgbouncer-exporter/pgbouncer-exporter.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/pgbouncer-exporter/pgbouncer-exporter.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/pgbouncer-exporter/pgbouncer-exporter.cluster-service.code.attachment.ts
 deleted file mode 100644
 index acfd4239a5bd262d0d6c6736b17dc3db68c1e1a7..0000000000000000000000000000000000000000
