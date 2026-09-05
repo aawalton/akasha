@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/story/games/pages/the-violet-hour/the-violet-hour.game.gm-context.json b/story/games/pages/the-violet-hour/the-violet-hour.game.gm-context.json
+index fc5f01cf5118d067b1a825a8e99b8141294cf6f4..348fcdbdab9430dc4b8092ecdee10badf4e5ece7 100644
+--- a/story/games/pages/the-violet-hour/the-violet-hour.game.gm-context.json
++++ b/story/games/pages/the-violet-hour/the-violet-hour.game.gm-context.json
+@@ -384,7 +384,7 @@
+       {
+         "id": "draft",
+         "detail": "A draft is invisible everywhere until published.",
+-        "requirement": "Draft the scene as the next game-turn via `bun ops awen commit-turn` with status draft: about 1000 words, plain prose paragraphs — single-viewpoint narrator, no slug markers, dialogue only as tagged quoted speech carried inside the narration — window-pane, TTS-speakable, holding the whole hard dial (policy game:violet-hour-dial)."
++        "requirement": "Draft the scene as the next game-turn with status draft: about 1000 words, plain prose paragraphs — single-viewpoint narrator, no slug markers, dialogue only as tagged quoted speech carried inside the narration — window-pane, TTS-speakable, holding the whole hard dial (policy game:violet-hour-dial)."
+       },
+       {
+         "id": "request-reviews",
