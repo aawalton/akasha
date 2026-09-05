@@ -1,14 +1,20 @@
 runsWarrants: false
 diff --git a/command-system/landing-saying/landing-saying.module.ts b/command-system/landing-saying/landing-saying.module.ts
-index 7ac75d3898bb5da34ed504b7fcede484a72bc981..2970206e98b1d2fb63d86993114b900b39c2e74c 100644
+index 7ac75d3898bb5da34ed504b7fcede484a72bc981..9e12fc0358447b56698393bd935e257c4f5b2a6f 100644
 --- a/command-system/landing-saying/landing-saying.module.ts
 +++ b/command-system/landing-saying/landing-saying.module.ts
-@@ -10,7 +10,7 @@ export const landingSaying = {
+@@ -10,11 +10,12 @@ export const landingSaying = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "A report opens with what the caller asked to have said of the landing.",
 +      statement: "A report opens with the lines the caller asked to have said of the landing.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A report that could not be built names what the landing wrote and took away.",
++      statement:
++        "A report that could not be built names the paths the landing wrote and took away.",
      },
      {
        invariantKind: "departure",
