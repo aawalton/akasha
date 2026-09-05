@@ -1,0 +1,13 @@
+diff --git a/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts b/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
+index 845b7dd04338a430d0473c1db365ed4e7699ae38..f3de7a54ed904854eb09e55294afdbd2878abb8a 100644
+--- a/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
++++ b/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
+@@ -23,7 +23,7 @@ export const imessageCommandReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A word alone fills the flag the command names for it.",
++      statement: "A word alone fills the flag the command names for that word.",
+     },
+     {
+       invariantKind: "departure",
