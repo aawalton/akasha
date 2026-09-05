@@ -14,15 +14,27 @@ export const packagePhasing = {
     },
     {
       invariantKind: "departure",
-      statement: "A manifest calling the old name and none calling the new means expand.",
+      statement: "An alias names the old name among the root manifest's dependencies.",
     },
     {
       invariantKind: "departure",
-      statement: "One manifest calling each name means migrate.",
+      statement: "That alias points the old name at the package the rename renamed.",
     },
     {
       invariantKind: "departure",
-      statement: "No manifest calling the old name means the rename is done.",
+      statement: "A manifest calling the old name means expand.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest carrying each name is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The new name carried with the old name aliased at the root means migrate.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The new name carried with no alias left means the rename is done.",
     },
     {
       invariantKind: "departure",
