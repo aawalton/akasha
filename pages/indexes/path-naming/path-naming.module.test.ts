@@ -1,6 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { HELD, heldIndexed, scratch, THREE } from "../move.command.test-fixtures.ts"
-import { importingOf, namingOf, spellingOf } from "./move-naming.module.code.ts"
+import {
+  HELD,
+  heldIndexed,
+  scratch,
+  THREE,
+} from "../../../commands/move/move.command.test-fixtures.ts"
+import { importingOf, namingOf, spellingOf } from "./path-naming.module.code.ts"
 
 afterAll(scratch.sweep)
 

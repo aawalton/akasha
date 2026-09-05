@@ -15,8 +15,8 @@ import type { FileCarry, FileEdit } from "../../command-system/landing/landing.m
 import { baseOf } from "../../command-system/landing/landing.module.code.ts"
 import type { Carry as Reading } from "../../command-system/reading/reading.module.code.ts"
 import { blobIdOf, carryReadings } from "../../command-system/reading/reading.module.code.ts"
+import { importingOf, spellingOf } from "../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { move } from "../move/move.command.code.ts"
-import { importingOf, spellingOf } from "../move/naming/move-naming.module.code.ts"
 import { repointed } from "../move/repointing/move-repointing.module.code.ts"
 import { glassIn, messageIn } from "../write/write.command.code.ts"
 import {

@@ -14,7 +14,6 @@ export const move = {
     "module/move-arguing",
     "module/move-listing",
     "module/move-manifesting",
-    "module/move-naming",
     "module/move-outside",
     "module/move-parenting",
     "module/move-renaming",

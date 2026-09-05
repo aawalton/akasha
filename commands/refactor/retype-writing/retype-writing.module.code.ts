@@ -7,8 +7,11 @@ import { bodyAt } from "../../../command-system/commit-reading/commit-reading.mo
 import type { FileCarry, FileEdit } from "../../../command-system/landing/landing.module.code.ts"
 import type { Carry as Reading } from "../../../command-system/reading/reading.module.code.ts"
 import { blobIdOf } from "../../../command-system/reading/reading.module.code.ts"
+import {
+  importingOf,
+  spellingOf,
+} from "../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { manifestingOver } from "../../move/manifesting/move-manifesting.module.code.ts"
-import { importingOf, spellingOf } from "../../move/naming/move-naming.module.code.ts"
 import { repointed } from "../../move/repointing/move-repointing.module.code.ts"
 import type { Spot } from "../type-renaming/type-renaming.module.code.ts"
 import { splicedIn, statedIn } from "../type-renaming/type-renaming.module.code.ts"

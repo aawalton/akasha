@@ -13,6 +13,7 @@ export const index = {
     "index/index-import",
     "index/index-path",
     "index/index-value",
+    "module/path-naming",
     "page-type/index",
     "module/index-entries",
     "module/indexing",
