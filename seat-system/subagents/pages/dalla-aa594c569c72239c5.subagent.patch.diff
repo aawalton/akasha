@@ -1,0 +1,10 @@
+diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
+index 3fa103fe20538a26352f64bfca44adb07d1b1074..8b823150c04f3083318ca2d3519550ce2fc6f067 100644
+--- a/command-system/asking/asking.module.code.ts
++++ b/command-system/asking/asking.module.code.ts
+@@ -1,4 +1,4 @@
+-import { readFileSync } from "node:fs"
++import { existsSync, readFileSync } from "node:fs"
+ import { join } from "node:path"
+ import { patchAt } from "@akasha/agents/patch-keeping"
+ import type { Judged, Judging } from "@akasha/checks/judging"
