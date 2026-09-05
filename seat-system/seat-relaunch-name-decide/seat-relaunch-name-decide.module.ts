@@ -10,7 +10,7 @@ export const seatRelaunchNameDecide = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A name already on the seat's row is the name it comes back under.",
+      statement: "A name already on the seat's row is the name that seat comes back under.",
     },
     {
       invariantKind: "departure",
@@ -20,7 +20,7 @@ export const seatRelaunchNameDecide = {
     {
       invariantKind: "departure",
       statement:
-        "A seat with a name on neither the row nor the call needs one before it relaunches.",
+        "A seat with a name on neither the row nor the call needs one before that seat relaunches.",
     },
   ],
 } as const satisfies Module
