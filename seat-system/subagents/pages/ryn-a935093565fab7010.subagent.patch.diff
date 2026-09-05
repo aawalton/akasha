@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
-index 85a1910b8f004f074c44760092c9010b53fd6d1e..976f3856291d5e4e2c65e1d5d5127ce064127c11 100644
+index 85a1910b8f004f074c44760092c9010b53fd6d1e..e776ae3ba32999b629a17ef07520e331a8302fc9 100644
 --- a/code-system/code-tests/code-tests.module.ts
 +++ b/code-system/code-tests/code-tests.module.ts
 @@ -12,7 +12,7 @@ export const codeTests = {
@@ -12,12 +12,17 @@ index 85a1910b8f004f074c44760092c9010b53fd6d1e..976f3856291d5e4e2c65e1d5d5127ce0
      },
      {
        invariantKind: "departure",
-@@ -20,7 +20,7 @@ export const codeTests = {
+@@ -20,11 +20,11 @@ export const codeTests = {
      },
      {
        invariantKind: "departure",
 -      statement: "A run's answer carries what the run printed.",
 +      statement: "A run's answer carries the output the run printed.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run's answer carries the summary read out of what the run printed.",
++      statement: "A run's answer carries the summary read out of the output the run printed.",
      },
      {
        invariantKind: "departure",
