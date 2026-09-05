@@ -10,7 +10,7 @@ export const workflowKind = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The stages run in the order they stand here.",
+      statement: "The stages run in the order they are listed here.",
     },
     {
       invariantKind: "departure",

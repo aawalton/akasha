@@ -82,8 +82,8 @@ export function workflowPages(root: string): readonly WorkflowPage[] {
   const asked = asking(at, { pageTypeSlug: WORKFLOW_TEMPLATE_PAGE_TYPE, keys: PAGE_KEYS })
   if ("refused" in asked) {
     throw new Error(
-      `the tree at \`${at}\` answers no \`${WORKFLOW_TEMPLATE_PAGE_TYPE}\` page, so no workflow ` +
-        `stands to be run: ${asked.refused}`
+      `the tree at \`${at}\` answers no \`${WORKFLOW_TEMPLATE_PAGE_TYPE}\` page, so there is no ` +
+        `workflow to be run: ${asked.refused}`
     )
   }
   return asked.rows.map((row) => {
@@ -91,8 +91,8 @@ export function workflowPages(root: string): readonly WorkflowPage[] {
     const sourcePath = besideAt(relPath, DECLARATION_KEY, DECLARATION_EXTENSION)
     if (sourcePath === null) {
       throw new Error(
-        `a \`${WORKFLOW_TEMPLATE_PAGE_TYPE}\` page stands at \`${relPath}\`, which is no ` +
-          "TypeScript file, so nothing stands beside it to declare a workflow"
+        `a \`${WORKFLOW_TEMPLATE_PAGE_TYPE}\` page is at \`${relPath}\`, which is no ` +
+          "TypeScript file, so nothing sits beside it to declare a workflow"
       )
     }
     return {

@@ -16,7 +16,7 @@ export function applyRbac(config: ApplyRbacConfig): Step {
     commands: [
       "set -e",
       `[ -n "$AKASHA_ROOT" ] || { echo "ERROR: applying ${rbacFile} needs AKASHA_ROOT, and this step container was given none, so the profiles it would grant cannot be read" >&2; exit 1; }`,
-      `[ -f "$AKASHA_ROOT/${rbacFile}" ] || { echo "ERROR: ${rbacFile} does not stand in the akasha tree at $AKASHA_ROOT, so the role it declares would be skipped rather than applied" >&2; exit 1; }`,
+      `[ -f "$AKASHA_ROOT/${rbacFile}" ] || { echo "ERROR: ${rbacFile} is not in the akasha tree at $AKASHA_ROOT, so the role it declares would be skipped rather than applied" >&2; exit 1; }`,
       `bun -e "
 const mod = await import('$AKASHA_ROOT/${rbacFile}');
 const profiles = mod.profiles ?? mod.default;

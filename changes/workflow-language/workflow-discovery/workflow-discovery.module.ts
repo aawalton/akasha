@@ -17,7 +17,7 @@ export const workflowDiscovery = {
     },
     {
       invariantKind: "departure",
-      statement: "A declaration is the file standing beside its page's own file.",
+      statement: "A declaration is the file beside its page's own file.",
     },
     {
       invariantKind: "departure",

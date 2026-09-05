@@ -33,7 +33,7 @@ export const workflowTemplate = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A workflow's steps stand in a file beside its page as a module's code does.",
+      statement: "A workflow's steps are in a file beside its page as a module's code is.",
     },
     {
       invariantKind: "departure",
@@ -45,7 +45,7 @@ export const workflowTemplate = {
     },
     {
       invariantKind: "gap",
-      statement: "The workflow language a declaration is written in stands outside akasha.",
+      statement: "The workflow language a declaration is written in is outside akasha.",
     },
   ],
 } as const satisfies PageType
