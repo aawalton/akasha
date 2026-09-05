@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/mobile-commands/mobile-deploy-device/mobile-deploy-device.command.ts b/mobile-commands/mobile-deploy-device/mobile-deploy-device.command.ts
+index 00186249658132e6b034a345d17ec405d9a7b1d8..c0a0549f8c09af9ec4e33cb2a90ac13a25eaa9fa 100644
+--- a/mobile-commands/mobile-deploy-device/mobile-deploy-device.command.ts
++++ b/mobile-commands/mobile-deploy-device/mobile-deploy-device.command.ts
+@@ -44,7 +44,7 @@ export const mobileDeployDevice = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The commit built is origin/main rather than what this checkout is at.",
++      statement: "The commit built is origin/main rather than the commit this checkout is at.",
+     },
+     {
+       invariantKind: "departure",
