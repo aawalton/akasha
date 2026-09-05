@@ -55,10 +55,7 @@ export const inferenceGenerate = {
       invariantKind: "departure",
       statement: "The image is written where the caller named that image and nowhere else.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A run row is filed whether the render finished or failed.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here makes the service resident.",

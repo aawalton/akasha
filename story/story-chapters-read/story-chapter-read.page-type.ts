@@ -90,10 +90,7 @@ export const storyChapterRead = {
       invariantKind: "departure",
       statement: "A chapter is part of the one story the chapter was read in.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A chapter's slug opens with the story the chapter is part of.",
-    },
+
     {
       invariantKind: "departure",
       statement: "The source a chapter came from is the one its story names.",

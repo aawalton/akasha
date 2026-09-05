@@ -32,10 +32,6 @@ export const attributeConstitution = {
       statement:
         "The window the entries are counted over is handed in rather than worked out here.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A day holding no food entry is a reading of zero rather than no reading.",
-    },
 
     {
       invariantKind: "absence",

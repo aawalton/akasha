@@ -54,10 +54,7 @@ export const landing = {
       statement:
         "A change stating no commit the change was read against is taken as read against the commit at HEAD.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A body is overwritten only where the body on disk is the body its writer read.",
-    },
+
     {
       invariantKind: "departure",
       statement: "One that moved is refused unwritten.",

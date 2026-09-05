@@ -53,10 +53,7 @@ export const inferenceMusic = {
       invariantKind: "departure",
       statement: "The audio is written where the caller named that audio and nowhere else.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A run row is filed whether the render finished or failed.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here makes the music service resident.",

@@ -50,10 +50,7 @@ export const inferenceVideoQa = {
       invariantKind: "departure",
       statement: "The answer is the model's words.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A run row is filed whether the reading finished or failed.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here writes a clip or a frame the caller keeps.",

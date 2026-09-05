@@ -47,10 +47,7 @@ export const inferenceUpscale = {
       invariantKind: "departure",
       statement: "The image is written where the caller named that image and nowhere else.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A run row is filed whether the remake finished or failed.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here provisions the weights or starts the container.",

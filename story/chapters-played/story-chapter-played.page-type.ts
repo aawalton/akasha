@@ -32,9 +32,5 @@ export const storyChapterPlayed = {
       invariantKind: "departure",
       statement: "A chapter is part of the one story the chapter was played in.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A chapter's slug opens with the story the chapter is part of.",
-    },
   ],
 } as const satisfies PageType

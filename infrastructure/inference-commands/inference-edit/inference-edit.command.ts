@@ -54,9 +54,5 @@ export const inferenceEdit = {
       invariantKind: "departure",
       statement: "No key set refuses the call rather than reaching the engine.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A run row is filed whether the edit finished or failed.",
-    },
   ],
 } as const satisfies Command

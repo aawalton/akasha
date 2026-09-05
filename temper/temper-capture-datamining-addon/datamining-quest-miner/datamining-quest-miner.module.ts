@@ -15,10 +15,7 @@ export const dataminingQuestMiner = {
       invariantKind: "departure",
       statement: "A quest id the game names nothing for is counted as a miss.",
     },
-    {
-      invariantKind: "departure",
-      statement: "Mining that has run past the stated misses is complete.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A quest carries the name of the zone the quest sits in.",

@@ -148,10 +148,7 @@ export const proxyProcess = {
       invariantKind: "constraint",
       statement: "A caller hands in the environment the boot settings are read from.",
     },
-    {
-      invariantKind: "constraint",
-      statement: "A caller hands in the root every account is read under.",
-    },
+
     {
       invariantKind: "constraint",
       statement: "A caller hands in the act a signal is listened for by.",

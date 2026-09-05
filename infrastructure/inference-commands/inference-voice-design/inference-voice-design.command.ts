@@ -50,10 +50,7 @@ export const inferenceVoiceDesign = {
       invariantKind: "departure",
       statement: "The audio is written where the caller named that audio and nowhere else.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A run row is filed whether the speaking finished or failed.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here cuts the text into pieces.",
