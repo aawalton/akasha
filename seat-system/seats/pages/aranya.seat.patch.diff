@@ -10,3 +10,15 @@ index 8344afe3e50931573af480700dac5b887e35b6e2..4e68393657a14d3b966dd7ce7b77c1ca
    ],
    invariants: [
      {
+diff --git a/infrastructure/inference.domain.ts b/infrastructure/inference.domain.ts
+index 1fd089ee06aa84dc6d096f3c1c007295e71a1c28..c1aa3c4c26619c7e8c6bb9965413d036d3b8e494 100644
+--- a/infrastructure/inference.domain.ts
++++ b/infrastructure/inference.domain.ts
+@@ -7,7 +7,6 @@ export const inference = {
+   definition: "the services that run models and keep a record of every run",
+   partSlugs: [
+     "domain/generation",
+-    "page-type/inference-run",
+     "workspace-package/comfy",
+     "workspace-package/inference-clients",
+     "workspace-package/inference-commands",
