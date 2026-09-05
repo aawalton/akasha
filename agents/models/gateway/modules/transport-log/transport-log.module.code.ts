@@ -1,4 +1,4 @@
-import { type Queue, queueAt } from "@akasha/pages-system/page-entry-queue"
+import { type Queue, queueAt } from "@akasha/pages/page-entry-queue"
 import { z } from "zod"
 import type { StreamClock, StreamObserver } from "../retry/retry.module.code.ts"
 

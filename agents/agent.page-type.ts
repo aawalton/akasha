@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages-system/page"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { Page } from "@akasha/pages/page"
+import type { PageType } from "@akasha/pages/page-type"
 import type { AssignmentSlug } from "../seat-system/seats/properties/assignment-slug.one-of-property.ts"
 import type { PrincipalSeatName } from "../seat-system/seats/properties/principal-seat-name.relation-property.ts"
 import type { Patch } from "./properties/patch.file-property.ts"

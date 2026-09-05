@@ -4,7 +4,7 @@ import {
   readingsIn,
   sevenDaySpent,
 } from "@akasha/agents/claude-account-measuring"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 
 // THE FLEET'S SPEND IS READ FROM AKASHA RATHER THAN REDUCED OUT OF A SAVED PAGE QUERY. The
 // editor's two usage slots asked `claude-accounts-mean-session-used` and

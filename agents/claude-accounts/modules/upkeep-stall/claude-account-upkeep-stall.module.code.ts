@@ -1,4 +1,4 @@
-import type { Value } from "@akasha/pages-system/page-value"
+import type { Value } from "@akasha/pages/page-value"
 import {
   UPKEEP_PERIOD_MS,
   UPKEEP_RENEWAL_MARGIN_MS,

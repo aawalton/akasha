@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const equipmentCategory = {
   id: "01a06865-7f45-7967-91d8-74b7b421ef60",

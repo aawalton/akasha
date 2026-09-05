@@ -1,6 +1,6 @@
-import type { Slug } from "@akasha/pages-system/page/slug"
-import type { List } from "@akasha/pages-system/page-property"
-import type { RelationProperty } from "@akasha/pages-system/relation-property"
+import type { Slug } from "@akasha/pages/page/slug"
+import type { List } from "@akasha/pages/page-property"
+import type { RelationProperty } from "@akasha/pages/relation-property"
 
 export type TopicRelatedSlugs = List<Slug>
 

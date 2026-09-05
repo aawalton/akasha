@@ -1,8 +1,8 @@
 import { readingIn } from "@akasha/indexes"
 import type { PageOf } from "@akasha/indexes/answering"
 import type { Reading } from "@akasha/indexes/shape"
-import { secretsIn } from "@akasha/pages-system/page-secret"
-import { valueAt } from "@akasha/pages-system/page-value"
+import { secretsIn } from "@akasha/pages/page-secret"
+import { valueAt } from "@akasha/pages/page-value"
 import {
   markedOn,
   type UsageRead,

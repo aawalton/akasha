@@ -1,6 +1,6 @@
 import { landBodies } from "@akasha/command-system/gated-landing"
 import { valuesOfType } from "@akasha/indexes"
-import { AKASHA, resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots } from "@akasha/pages/checkout-roots"
 import { composedFor } from "@akasha/pages-system-service/composing"
 import { selectionPolicy as stated } from "../../selection-policies/pages/selection-policy/selection-policy.selection-policy.ts"
 

@@ -9,7 +9,7 @@ import {
 } from "@akasha/exercise-access/exercise-vocabulary"
 import { listedAt } from "@akasha/indexes"
 import { pageStem } from "@akasha/named-for/page-stem"
-import { type Value, valueAt } from "@akasha/pages-system/page-value"
+import { type Value, valueAt } from "@akasha/pages/page-value"
 import { composedFor } from "@akasha/pages-system-service/composing"
 import { firstOf, JSON_SAID, proseIn, saidIn } from "../exercise-said/exercise-said.module.code.ts"
 

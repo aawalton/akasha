@@ -2,7 +2,7 @@ import { landedMechanically } from "@akasha/command-system/asking"
 import type { Answer } from "@akasha/command-system/calling"
 import type { FileEdit } from "@akasha/command-system/landing"
 import type { Reading } from "@akasha/indexes/shape"
-import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { exportedAs } from "@akasha/pages/page-export-name"
 import { accountPathIn, everyAccountIn } from "../reading/claude-account-reading.module.code.ts"
 
 export const PAGE_TYPE_SLUG = "claude-account"

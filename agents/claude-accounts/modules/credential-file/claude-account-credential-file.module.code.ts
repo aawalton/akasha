@@ -2,7 +2,7 @@ import { mkdirSync, readFileSync, type Stats, unwatchFile, watchFile, writeFileS
 import { join } from "node:path"
 import type { PageOf } from "@akasha/indexes/answering"
 import type { Reading } from "@akasha/indexes/shape"
-import { secretsIn } from "@akasha/pages-system/page-secret"
+import { secretsIn } from "@akasha/pages/page-secret"
 import { z } from "zod"
 import { credentialOf } from "../../../models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import type { OAuthCredential } from "../../../models/gateway/modules/oauth-types/oauth-types.module.code.ts"

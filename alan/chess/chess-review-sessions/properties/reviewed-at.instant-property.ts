@@ -1,4 +1,4 @@
-import type { InstantProperty } from "@akasha/pages-system/instant-property"
+import type { InstantProperty } from "@akasha/pages/instant-property"
 
 export type ReviewedAt = string
 

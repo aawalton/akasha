@@ -1,7 +1,7 @@
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { readingIn } from "@akasha/indexes"
-import { valueAt } from "@akasha/pages-system/page-value"
+import { valueAt } from "@akasha/pages/page-value"
 import {
   markedIn,
   subscriptionMarks,

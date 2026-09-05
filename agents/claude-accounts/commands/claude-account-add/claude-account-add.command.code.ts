@@ -2,7 +2,7 @@ import { landedMechanically } from "@akasha/command-system/asking"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { typeSlugOf } from "@akasha/indexes"
-import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { exportedAs } from "@akasha/pages/page-export-name"
 import { aliasIndexesIn } from "../../modules/reading/claude-account-reading.module.code.ts"
 
 /** The claude-account page type, reached by the id it keeps rather than by the slug it answers to. */

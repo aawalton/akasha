@@ -1,6 +1,6 @@
 import { everyOfType, typeSlugOf } from "@akasha/indexes"
-import { wholeValue } from "@akasha/pages-system/page-uncommitted"
-import { valueAt } from "@akasha/pages-system/page-value"
+import { wholeValue } from "@akasha/pages/page-uncommitted"
+import { valueAt } from "@akasha/pages/page-value"
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
 

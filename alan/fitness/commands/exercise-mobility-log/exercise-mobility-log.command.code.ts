@@ -14,7 +14,7 @@ import {
   mobilityReadingTitle,
   NO_SIDE,
 } from "@akasha/exercise-access/mobility-derive"
-import type { Value } from "@akasha/pages-system/page-value"
+import type { Value } from "@akasha/pages/page-value"
 import { composedFor } from "@akasha/pages-system-service/composing"
 import { JSON_SAID, proseIn, saidIn } from "../exercise-said/exercise-said.module.code.ts"
 

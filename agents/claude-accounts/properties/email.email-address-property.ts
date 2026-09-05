@@ -1,4 +1,4 @@
-import type { EmailAddressProperty } from "@akasha/pages-system/email-address-property"
+import type { EmailAddressProperty } from "@akasha/pages/email-address-property"
 
 export type Email = string
 

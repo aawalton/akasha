@@ -1,8 +1,8 @@
 import { typeSlugOf } from "@akasha/indexes"
 import type { PageOf } from "@akasha/indexes/answering"
 import type { Reading } from "@akasha/indexes/shape"
-import { type Carried, propertiesOf } from "@akasha/pages-system/page-type-properties"
-import { dropUncommitted, mergeUncommitted } from "@akasha/pages-system/page-uncommitted"
+import { type Carried, propertiesOf } from "@akasha/pages/page-type-properties"
+import { dropUncommitted, mergeUncommitted } from "@akasha/pages/page-uncommitted"
 import { z } from "zod"
 import {
   backoffExpiryMs,

@@ -1,8 +1,8 @@
 import { everyOfType, listedAt, typeSlugOf } from "@akasha/indexes"
 import type { Reading } from "@akasha/indexes/shape"
-import { partedIn, secretAt } from "@akasha/pages-system/page-file-name"
-import { uncommittedIn } from "@akasha/pages-system/page-uncommitted"
-import { type Value, valueAt } from "@akasha/pages-system/page-value"
+import { partedIn, secretAt } from "@akasha/pages/page-file-name"
+import { uncommittedIn } from "@akasha/pages/page-uncommitted"
+import { type Value, valueAt } from "@akasha/pages/page-value"
 import { z } from "zod"
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"

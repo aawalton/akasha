@@ -1,4 +1,4 @@
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import {
   sleptUntilStopped,
   stopsOnSignal,

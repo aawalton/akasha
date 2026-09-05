@@ -5,9 +5,9 @@ import { readingIn } from "@akasha/indexes"
 import type { PageOf } from "@akasha/indexes/answering"
 import type { Child, Reading } from "@akasha/indexes/shape"
 import { listedFiled, pageFiled, schemaFiled } from "@akasha/indexes/testing"
-import type { Carried } from "@akasha/pages-system/page-type-properties"
-import { uncommittedIn } from "@akasha/pages-system/page-uncommitted"
-import { valueAt } from "@akasha/pages-system/page-value"
+import type { Carried } from "@akasha/pages/page-type-properties"
+import { uncommittedIn } from "@akasha/pages/page-uncommitted"
+import { valueAt } from "@akasha/pages/page-value"
 import {
   type Fields,
   type Given,

@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const coachingConstraintKind = {
   id: "01a0657a-fe00-7149-b974-3ad13dd29e09",

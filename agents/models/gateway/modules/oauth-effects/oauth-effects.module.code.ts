@@ -1,6 +1,6 @@
 import { readingIn } from "@akasha/indexes"
-import { secretsIn } from "@akasha/pages-system/page-secret"
-import { valueAt } from "@akasha/pages-system/page-value"
+import { secretsIn } from "@akasha/pages/page-secret"
+import { valueAt } from "@akasha/pages/page-value"
 import {
   atLimitMarks,
   type Given,

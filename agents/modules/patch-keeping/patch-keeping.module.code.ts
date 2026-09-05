@@ -1,7 +1,7 @@
 import { existsSync, mkdirSync, readFileSync, renameSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { exclusively } from "@akasha/file-system/exclusive"
-import { besideAt } from "@akasha/pages-system/page-file-name"
+import { besideAt } from "@akasha/pages/page-file-name"
 
 const SLUG = "patch"
 

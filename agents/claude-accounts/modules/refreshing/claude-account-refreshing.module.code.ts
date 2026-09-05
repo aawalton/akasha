@@ -1,6 +1,6 @@
 import { readingIn } from "@akasha/indexes"
-import { secretsIn } from "@akasha/pages-system/page-secret"
-import { valueAt } from "@akasha/pages-system/page-value"
+import { secretsIn } from "@akasha/pages/page-secret"
+import { valueAt } from "@akasha/pages/page-value"
 import { usageFetched } from "../../../models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import { markedIn, pacingMarks, usageFrom } from "../marking/claude-account-marking.module.code.ts"
 import { credentialIn, everyAccountSlugIn } from "../reading/claude-account-reading.module.code.ts"

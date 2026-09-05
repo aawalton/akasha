@@ -1,4 +1,4 @@
-import type { RecordProperty } from "@akasha/pages-system/record-property"
+import type { RecordProperty } from "@akasha/pages/record-property"
 import type { RescuedAccessToken } from "./rescued-access-token.text-property.ts"
 import type { RescuedExpiresAtMs } from "./rescued-expires-at-ms.number-property.ts"
 import type { RescuedRefreshToken } from "./rescued-refresh-token.text-property.ts"

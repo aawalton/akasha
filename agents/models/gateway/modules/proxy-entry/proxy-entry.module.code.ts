@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
+import { ownRepoRoot } from "@akasha/pages/checkout-roots"
 import { logWriter } from "@akasha/seat-system/log-day-writing"
 import { seatNameForAgent } from "@akasha/seat-system/seat-presence-read"
 import { clearProxyState, writeProxyStateQuietly } from "@akasha/seat-system/seat-proxy-state"

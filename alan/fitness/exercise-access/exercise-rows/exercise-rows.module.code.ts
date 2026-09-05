@@ -1,5 +1,5 @@
 import { valuesOfType } from "@akasha/indexes"
-import { AKASHA, resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots } from "@akasha/pages/checkout-roots"
 
 export type Value =
   | string

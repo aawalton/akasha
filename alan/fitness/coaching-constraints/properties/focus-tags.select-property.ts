@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const focusTags = {
   id: "01a0657a-fe00-7a03-baad-8bd900be24b0",

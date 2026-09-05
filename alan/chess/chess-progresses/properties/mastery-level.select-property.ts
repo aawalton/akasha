@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const masteryLevel = {
   id: "01a06582-bd62-7187-be50-aa4e75fcf746",

@@ -5,7 +5,7 @@ import { openSession } from "@akasha/exercise-access/exercise-finding"
 import { textIn } from "@akasha/exercise-access/exercise-rows"
 import { sessionVolume, statedBodyweight } from "@akasha/exercise-access/session-volume"
 import { listedAt } from "@akasha/indexes"
-import { type Value, valueAt } from "@akasha/pages-system/page-value"
+import { type Value, valueAt } from "@akasha/pages/page-value"
 import { composedFor } from "@akasha/pages-system-service/composing"
 import {
   asJson,

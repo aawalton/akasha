@@ -7,7 +7,7 @@ import { type Row, rowsFor, textIn } from "@akasha/exercise-access/exercise-rows
 import { abandonedSessions, type Closing } from "@akasha/exercise-access/session-closing"
 import { freeSlug, sessionSlugStem } from "@akasha/exercise-access/session-derive"
 import { listedAt } from "@akasha/indexes"
-import { type Value, valueAt } from "@akasha/pages-system/page-value"
+import { type Value, valueAt } from "@akasha/pages/page-value"
 import { composedFor } from "@akasha/pages-system-service/composing"
 import {
   asJson,

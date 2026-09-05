@@ -6,7 +6,7 @@ import { countIn, decimalIn } from "@akasha/exercise-access/exercise-choosing"
 import { exerciseNamed, openSession } from "@akasha/exercise-access/exercise-finding"
 import { numberIn, rowsFor, titleOf } from "@akasha/exercise-access/exercise-rows"
 import { nextSetNumber, setLogSlug } from "@akasha/exercise-access/session-derive"
-import type { Value } from "@akasha/pages-system/page-value"
+import type { Value } from "@akasha/pages/page-value"
 import { composedFor } from "@akasha/pages-system-service/composing"
 import { firstOf, JSON_SAID, proseIn, saidIn } from "../exercise-said/exercise-said.module.code.ts"
 

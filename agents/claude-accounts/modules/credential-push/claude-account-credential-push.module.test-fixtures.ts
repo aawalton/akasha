@@ -3,7 +3,7 @@ import { join } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import type { FileEdit } from "@akasha/command-system/landing"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { secretAt } from "@akasha/pages-system/page-file-name"
+import { secretAt } from "@akasha/pages/page-file-name"
 import { z } from "zod"
 import {
   ACCOUNT_DECLARED,

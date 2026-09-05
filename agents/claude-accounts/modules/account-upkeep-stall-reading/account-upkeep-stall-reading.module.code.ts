@@ -1,5 +1,5 @@
 import { readFileSync, writeFileSync } from "node:fs"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { emitReading } from "@akasha/verdict/reading-channel"
 import {
   ALAN_PERSON,
