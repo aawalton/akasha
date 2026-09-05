@@ -9,11 +9,11 @@ export const syncAll = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A source carries on its own page what its last sync came to.",
+      statement: "A source carries on its own page the result of its last sync.",
     },
     {
       invariantKind: "departure",
-      statement: "A source missing any of what that source is reached by is passed over.",
+      statement: "A source missing any of the fields that source is reached by is passed over.",
     },
     {
       invariantKind: "departure",
