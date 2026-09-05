@@ -1,0 +1,268 @@
+diff --git a/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts b/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..030befdd1a4a9dba935970f100a85511b2a8d95e
+--- /dev/null
++++ b/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts
+@@ -0,0 +1,107 @@
++import type {
++  CategoryRule,
++  DestinationChain,
++  ItemAction,
++  MoveToDestination,
++  StockScope,
++} from "../inventory-rule-types/inventory-rule-types.module.code.ts"
++
++export interface RulePage {
++  readonly slug: string
++  readonly title?: string
++  readonly description?: string
++  readonly categoryId: string
++  readonly displayOrder: number
++  readonly action: string
++  readonly active: boolean
++  readonly updatedAt: string
++  readonly goal?: string
++  readonly locked?: boolean
++  readonly destination?: string
++  readonly stockScope?: string
++}
++
++export interface ConditionEntry {
++  readonly conditionField: string
++  readonly conditionValue: string
++}
++
++export interface ChainEntry {
++  readonly destination: string
++  readonly targetQuantity?: number
++  readonly charEligibility?: string
++}
++
++export interface HeldRule {
++  readonly page: RulePage
++  readonly conditions?: readonly ConditionEntry[]
++  readonly chain?: readonly ChainEntry[]
++}
++
++const SLUG_PREFIX = "rule-"
++
++function keyOf(slug: string): string {
++  const [head, ...rest] = slug.split("-")
++  return (head ?? "") + rest.map((word) => word.slice(0, 1).toUpperCase() + word.slice(1)).join("")
++}
++
++function spelt(value: string): unknown {
++  try {
++    return JSON.parse(value)
++  } catch {
++    return value
++  }
++}
++
++function epochOf(instant: string): number {
++  const at = Date.parse(instant)
++  if (Number.isNaN(at)) throw new Error(`inventoryRuleFromPages: \`${instant}\` is no instant`)
++  return at
++}
++
++function conditionsOf(entries: readonly ConditionEntry[]): CategoryRule["conditions"] {
++  if (entries.length === 0) return undefined
++  const held: Record<string, unknown> = {}
++  for (const entry of entries) held[keyOf(entry.conditionField)] = spelt(entry.conditionValue)
++  return held as CategoryRule["conditions"]
++}
++
++function chainOf(entries: readonly ChainEntry[]): DestinationChain | undefined {
++  if (entries.length === 0) return undefined
++  return entries.map((entry) => ({
++    destination: entry.destination as MoveToDestination,
++    ...(entry.targetQuantity === undefined ? {} : { targetQuantity: entry.targetQuantity }),
++    ...(entry.charEligibility === undefined
++      ? {}
++      : { charEligibility: JSON.parse(entry.charEligibility) }),
++  }))
++}
++
++export function ruleFromPage(held: HeldRule): CategoryRule {
++  const page = held.page
++  const conditions = conditionsOf(held.conditions ?? [])
++  const destinationChain = chainOf(held.chain ?? [])
++  return {
++    id: page.slug.startsWith(SLUG_PREFIX) ? page.slug.slice(SLUG_PREFIX.length) : page.slug,
++    categoryId: page.categoryId,
++    action: page.action as ItemAction,
++    active: page.active,
++    updatedAt: epochOf(page.updatedAt),
++    ...(page.title === undefined ? {} : { title: page.title }),
++    ...(page.description === undefined ? {} : { notes: page.description }),
++    ...(page.goal === undefined ? {} : { goal: page.goal }),
++    ...(page.locked === undefined ? {} : { locked: page.locked }),
++    ...(page.destination === undefined
++      ? {}
++      : { destination: page.destination as MoveToDestination }),
++    ...(page.stockScope === undefined ? {} : { stockScope: page.stockScope as StockScope }),
++    ...(conditions === undefined ? {} : { conditions }),
++    ...(destinationChain === undefined ? {} : { destinationChain }),
++  }
++}
++
++export function rulesFromPages(held: readonly HeldRule[]): readonly CategoryRule[] {
++  return [...held]
++    .sort((one, two) => one.page.displayOrder - two.page.displayOrder)
++    .map(ruleFromPage)
++}
+diff --git a/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.test.ts b/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..468d67a6abb3133840c823a0125a884ad21628fb
+--- /dev/null
++++ b/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.test.ts
+@@ -0,0 +1,110 @@
++import { expect, test } from "bun:test"
++import type { HeldRule, RulePage } from "./inventory-rule-from-pages.module.code.ts"
++import { ruleFromPage, rulesFromPages } from "./inventory-rule-from-pages.module.code.ts"
++
++const PAGE: RulePage = {
++  slug: "rule-gold-stock",
++  categoryId: "currency-gold",
++  displayOrder: 5,
++  action: "stock",
++  active: true,
++  updatedAt: "2026-05-04T16:04:31.132Z",
++}
++
++test("a rule's id is its slug without the leading `rule-`", () => {
++  expect(ruleFromPage({ page: PAGE }).id).toBe("gold-stock")
++})
++
++test("a slug carrying no such opening is the id unchanged", () => {
++  expect(ruleFromPage({ page: { ...PAGE, slug: "90d1aa3b" } }).id).toBe("90d1aa3b")
++})
++
++test("an instant is read back as the milliseconds the game is told", () => {
++  expect(ruleFromPage({ page: PAGE }).updatedAt).toBe(1777910671132)
++})
++
++test("an updated-at that is no instant refuses rather than reading as nothing", () => {
++  expect(() => ruleFromPage({ page: { ...PAGE, updatedAt: "the fourth of May" } })).toThrow()
++})
++
++test("a property the page leaves unsaid is left off the rule", () => {
++  const held = ruleFromPage({ page: PAGE })
++  expect("title" in held).toBe(false)
++  expect("notes" in held).toBe(false)
++  expect("goal" in held).toBe(false)
++  expect("locked" in held).toBe(false)
++  expect("conditions" in held).toBe(false)
++  expect("destinationChain" in held).toBe(false)
++})
++
++test("a description is what the game reads as notes", () => {
++  expect(ruleFromPage({ page: { ...PAGE, description: "Keeps gold" } }).notes).toBe("Keeps gold")
++})
++
++test("a condition field is read under the key the engine reads", () => {
++  const held = ruleFromPage({
++    page: PAGE,
++    conditions: [{ conditionField: "max-quality", conditionValue: "1" }],
++  })
++  expect(held.conditions).toEqual({ maxQuality: 1 })
++})
++
++test("a condition value that is JSON is read as JSON", () => {
++  const held = ruleFromPage({
++    page: PAGE,
++    conditions: [{ conditionField: "traits", conditionValue: '["intricate","ornate"]' }],
++  })
++  expect(held.conditions).toEqual({ traits: ["intricate", "ornate"] })
++})
++
++test("a condition value that is no JSON is read as the text it is", () => {
++  const held = ruleFromPage({
++    page: PAGE,
++    conditions: [{ conditionField: "stolen", conditionValue: "not-stolen" }],
++  })
++  expect(held.conditions).toEqual({ stolen: "not-stolen" })
++})
++
++test("a chain is read leg by leg, and a leg says only what it carries", () => {
++  const held = ruleFromPage({
++    page: PAGE,
++    chain: [{ destination: "character:by-priority", targetQuantity: 200 }, { destination: "bank" }],
++  })
++  expect(held.destinationChain).toEqual([
++    { destination: "character:by-priority", targetQuantity: 200 },
++    { destination: "bank" },
++  ])
++})
++
++test("a leg's character test is read back as the shape the matcher reads", () => {
++  const held = ruleFromPage({
++    page: PAGE,
++    chain: [
++      {
++        destination: "bank",
++        charEligibility: '{"requiredSkillLines":{"mode":"any-not-maxed","skillLineIds":[1]}}',
++      },
++    ],
++  })
++  expect(held.destinationChain?.[0]?.charEligibility).toEqual({
++    requiredSkillLines: { mode: "any-not-maxed", skillLineIds: [1] },
++  })
++})
++
++test("rules come back in display order however they arrived", () => {
++  const held: readonly HeldRule[] = [
++    { page: { ...PAGE, slug: "rule-c", displayOrder: 2 } },
++    { page: { ...PAGE, slug: "rule-a", displayOrder: 0 } },
++    { page: { ...PAGE, slug: "rule-b", displayOrder: 1 } },
++  ]
++  expect(rulesFromPages(held).map((one) => one.id)).toEqual(["a", "b", "c"])
++})
++
++test("reading rules leaves what the caller handed over unchanged", () => {
++  const held: readonly HeldRule[] = [
++    { page: { ...PAGE, slug: "rule-b", displayOrder: 1 } },
++    { page: { ...PAGE, slug: "rule-a", displayOrder: 0 } },
++  ]
++  rulesFromPages(held)
++  expect(held.map((one) => one.page.slug)).toEqual(["rule-b", "rule-a"])
++})
+diff --git a/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.ts b/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b0029fade5c958fb8bc3cb499d30d231587c1acc
+--- /dev/null
++++ b/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.ts
+@@ -0,0 +1,33 @@
++import type { Module } from "../../../code-system/modules/module.page-type.ts"
++
++export const inventoryRuleFromPages = {
++  id: "01a072ae-57a2-7d62-9f28-80af0d8f70e2",
++  pageTypeSlug: "module",
++  slug: "inventory-rule-from-pages",
++  definition: "a rule a player holds read back from the page and the entries beside it",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A rule's id is what its page's slug carries after the leading `rule-`.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Where a rule falls among the rules is read from `display-order` alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A condition value is read as JSON where it parses as JSON and as text otherwise.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A property the page leaves unsaid is left off the rule rather than written empty.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "Two rules of one account holding one display order are ordered by nothing.",
++    },
++  ],
++} as const satisfies Module
