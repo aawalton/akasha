@@ -1,0 +1,12 @@
+diff --git a/service-system/cluster-services/pages/archive-of-worlds-web.cluster-service.ts b/service-system/cluster-services/pages/archive-of-worlds-web.cluster-service.ts
+index 1b34b1659a783b09ae235aa59c6db6b20fb7f5ef..0e7c103a430ec6f80a5f697442a913836fd7c4a0 100644
+--- a/service-system/cluster-services/pages/archive-of-worlds-web.cluster-service.ts
++++ b/service-system/cluster-services/pages/archive-of-worlds-web.cluster-service.ts
+@@ -11,6 +11,5 @@ export const archiveOfWorldsWeb = {
+   image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
+   replicas: 1,
+   containerPort: 3000,
+-  manifestCode:
+-    "archive-of-worlds/archive-of-worlds-web/archive-of-worlds-web.cluster-service.code.attachment.ts",
++  manifestSlug: "archive-of-worlds-web-manifests",
+ } as const satisfies ClusterService
