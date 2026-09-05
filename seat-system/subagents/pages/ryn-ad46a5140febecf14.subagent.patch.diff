@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-items-rules-routing-core/inventory-management-plan-route-actor/inventory-management-plan-route-actor.module.ts b/temper/temper-items-rules-routing-core/inventory-management-plan-route-actor/inventory-management-plan-route-actor.module.ts
+index a2846a6c6951a2a6d78773d038e8f59435b2b956..82696d5fc198666cddea80b35a4d41a53e858e82 100644
+--- a/temper/temper-items-rules-routing-core/inventory-management-plan-route-actor/inventory-management-plan-route-actor.module.ts
++++ b/temper/temper-items-rules-routing-core/inventory-management-plan-route-actor/inventory-management-plan-route-actor.module.ts
+@@ -9,7 +9,7 @@ export const inventoryManagementPlanRouteActor = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Every step belongs to the character carrying it out.",
++      statement: "Every step belongs to the character carrying that step out.",
+     },
+   ],
+ } as const satisfies Module
