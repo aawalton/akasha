@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/applying/applying.module.ts b/command-system/applying/applying.module.ts
-index 1a3ed5ca4ae639cfa558b75be786749b7d469d26..49062f1ed3da90e9c0fc5dafee0d495c24f9f2e0 100644
+index 1a3ed5ca4ae639cfa558b75be786749b7d469d26..de3014b28c1864fc7d5993bfca9af68e686a1221 100644
 --- a/command-system/applying/applying.module.ts
 +++ b/command-system/applying/applying.module.ts
 @@ -59,7 +59,7 @@ export const applying = {
@@ -9,6 +9,15 @@ index 1a3ed5ca4ae639cfa558b75be786749b7d469d26..49062f1ed3da90e9c0fc5dafee0d495c
        invariantKind: "departure",
 -      statement: "A wiped record is what leaves an apply unwarranted.",
 +      statement: "A wiped record leaves an apply unwarranted.",
+     },
+     {
+       invariantKind: "departure",
+@@ -75,7 +75,7 @@ export const applying = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The warrant refuses a path that moved until the agent reads what moved.",
++      statement: "The warrant refuses a path that moved until the agent reads the body that moved.",
      },
      {
        invariantKind: "departure",
