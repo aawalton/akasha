@@ -39,11 +39,11 @@ export const claudeAccountUpkeep = {
     },
     {
       invariantKind: "departure",
-      statement: "A token is renewed before what that account has spent is read.",
+      statement: "A token is renewed before that account's usage is read.",
     },
     {
       invariantKind: "departure",
-      statement: "What the renewal answered is written beside the account's page.",
+      statement: "The renewal's answer is written beside the account's page.",
     },
     {
       invariantKind: "departure",
@@ -85,7 +85,7 @@ export const claudeAccountUpkeep = {
     },
     {
       invariantKind: "departure",
-      statement: "A window that was triggered is read again before what was spent is written.",
+      statement: "A window that was triggered is read again before the usage is written.",
     },
     {
       invariantKind: "departure",
