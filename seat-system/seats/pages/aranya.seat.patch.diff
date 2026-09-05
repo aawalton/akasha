@@ -1,8 +1,8 @@
 diff --git a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
-index 33103d3483968d20ea56022c6f5cdc0c157adae0..9dcd45082bf2c7bb917c817dba9db8dbb5103996 100644
+index 33103d3483968d20ea56022c6f5cdc0c157adae0..7b28b21dd978c2a76e6b463e8f29a76c4a3b4e43 100644
 --- a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
 +++ b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
-@@ -16,12 +16,12 @@ export const aranyaClusterCleanup = {
+@@ -16,17 +16,17 @@ export const aranyaClusterCleanup = {
      {
        statement: "All cluster-specific files are in the cluster/ folder.",
        workingMemory:
@@ -17,3 +17,9 @@ index 33103d3483968d20ea56022c6f5cdc0c157adae0..9dcd45082bf2c7bb917c817dba9db8db
      },
      {
        statement: "Every module building Kubernetes resources is a manifest page.",
+       workingMemory:
+-        "28 modules build Kubernetes resources and were told apart only by the endings -manifests, -statefulsets, -daemonsets and -synth. 8 are carried over. 3 in cluster-manifests and upscale-serving-job are clear. 6 are synth sources found by DISCOVERY_GLOBS, so renaming hides them until synth-discovery asks the index instead. 10 wait on the keystone above. `akasha refactor retype` is being built, since removing a file asks for its whole body to be read.",
++        "24 folders carry the endings -manifests, -statefulsets, -daemonsets and -synth, and 15 are still modules. 12 manifest pages are there, 11 under cluster-manifests and one at upscale-serving-job. 8 of those landed after this memory said 10 waited on the keystone, so the keystone gates the attachments rather than the conversions. 6 are synth sources found by DISCOVERY_GLOBS, so renaming hides them until synth-discovery asks the index. `akasha refactor retype` is built.",
+     },
+     {
+       statement: "The inference family sits in a top-level inference/ folder.",
