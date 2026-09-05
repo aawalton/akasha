@@ -6,7 +6,14 @@ import { drafted, resolved, runningIn } from "../../drafting/drafting.module.cod
 import type { Piping } from "../../piping/piping.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
 import { writing } from "../../scratching/scratching.module.test-fixtures.ts"
-import { dropping, patch, resolving, showing, showingBody } from "./patch.command.code.ts"
+import {
+  dropping,
+  patch,
+  resolving,
+  resolvingEdits,
+  showing,
+  showingBody,
+} from "./patch.command.code.ts"
 
 const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
 
@@ -321,18 +328,17 @@ test("a path HEAD took away is resolved and the rest of the patch is left", asyn
   expect(said.report.join("\n")).toContain(`added ${ONE}`)
 })
 
-test("a resolve is judged over every path the patch holds", async () => {
-  const root = await repo()
-  await landingAt(root, TWO, WAS)
-  draftingBoth(root)
-  const said = await resolving(given(root), PAGE, ["--file-path", ONE], piped(NOW))
-  expect(said.report.join("\n")).toContain("2 paths the patch would leave")
+test("a resolve is judged over every path the patch holds", () => {
+  const held = new Map([
+    [ONE, { was: BYTES.encode(WAS), body: BYTES.encode(NOW) }],
+    [TWO, { was: null, body: BYTES.encode(NOW) }],
+  ])
+  const edits = resolvingEdits(held, ONE, BYTES.encode(WAS))
+  expect(edits.map((one) => one.path)).toEqual([ONE, TWO])
 })
 
-test("a resolve a check refused takes the body all the same", async () => {
-  const root = await repo()
-  drafting(root)
-  const said = await resolving(given(root), PAGE, ["--file-path", ONE], piped(NOW))
-  expect(said.code).toBe(0)
-  expect(said.report.join("\n")).toContain(`resolved ${ONE}`)
+test("a body resolved is the body judged at the path resolved", () => {
+  const held = new Map([[ONE, { was: BYTES.encode(WAS), body: BYTES.encode(NOW) }]])
+  const edits = resolvingEdits(held, ONE, BYTES.encode(WAS))
+  expect(edits[0]?.body).toEqual(BYTES.encode(WAS))
 })

@@ -17,6 +17,7 @@ import {
 } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import {
+  type Bodies,
   DROPPED,
   droppedAt,
   droppedPatch,
@@ -28,7 +29,7 @@ import {
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
 import { gateBuilt, NO_GATE } from "../../gate-building/gate-building.module.code.ts"
 import { draftSaid } from "../../judged-saying/judged-saying.module.code.ts"
-import { baseOf, changeOf, editsOf } from "../../landing/landing.module.code.ts"
+import { baseOf, changeOf, editsOf, type FileEdit } from "../../landing/landing.module.code.ts"
 import { formattedSaid } from "../../landing-saying/landing-saying.module.code.ts"
 import { added, type Blobs, blobsIn, deleted } from "../../patching/patching.module.code.ts"
 import type { Piping } from "../../piping/piping.module.code.ts"
@@ -271,6 +272,11 @@ function bodyIn(
   return { body }
 }
 
+export function resolvingEdits(held: Bodies, path: string, body: Uint8Array): readonly FileEdit[] {
+  const had = held.get(path)
+  return editsOf(new Map(held).set(path, { was: had?.was ?? null, body }))
+}
+
 export async function resolving(
   given: Given,
   page: string,
@@ -296,7 +302,7 @@ export async function resolving(
   if (had === undefined) return mistaking([`${NOT_HELD} ${named.path}`])
   const formatting = formattingIn(given.root, [{ path: named.path, body: BYTES.encode(held.body) }])
   const body = formatting.changes[0]?.body ?? BYTES.encode(held.body)
-  const edits = editsOf(new Map(would.held).set(named.path, { was: had.was, body }))
+  const edits = resolvingEdits(would.held, named.path, body)
   const change = changeOf(given.root, { base: baseOf(given.root), edits })
   const judged = await built.gate.over(change)
   const said = resolved(given.root, page, named.path, body)
