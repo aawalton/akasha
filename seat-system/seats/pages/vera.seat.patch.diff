@@ -1,0 +1,37 @@
+diff --git a/command-system/folder-clearing/folder-clearing.module.code.ts b/command-system/folder-clearing/folder-clearing.module.code.ts
+index 904c3f18fd3f39a23040a42407d58c7bddcb8a55..c443fff49d898a97b916fd26ff72eea86ec010fa 100644
+--- a/command-system/folder-clearing/folder-clearing.module.code.ts
++++ b/command-system/folder-clearing/folder-clearing.module.code.ts
+@@ -3,11 +3,13 @@ import { dirname, join } from "node:path"
+ 
+ const PARTED_BY = "/"
+ 
++const HERE = "."
++
+ export function emptiedBy(gone: readonly string[]): readonly string[] {
+   const dirs = new Set<string>()
+   for (const path of gone) {
+     let dir = dirname(path)
+-    while (dir.includes(PARTED_BY)) {
++    while (dir !== HERE) {
+       dirs.add(dir)
+       dir = dirname(dir)
+     }
+diff --git a/command-system/folder-clearing/folder-clearing.module.ts b/command-system/folder-clearing/folder-clearing.module.ts
+index 0e59273aa67792004fae5df0139caaf2195f7b2d..8ea1957544a3040707c878ac8e8a0fe1b8940e43 100644
+--- a/command-system/folder-clearing/folder-clearing.module.ts
++++ b/command-system/folder-clearing/folder-clearing.module.ts
+@@ -38,11 +38,11 @@ export const folderClearing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The climb stops below the folders at the top of the repository.",
++      statement: "The climb stops at the top of the repository.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A folder at the top of the repository is never taken.",
++      statement: "A folder at the top of the repository is taken where a change leaves it empty.",
+     },
+     {
+       invariantKind: "departure",
