@@ -12,10 +12,4 @@ export const temperCharacterBuild = {
     "module/build-factory",
     "module/character-state-schema",
   ],
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "The generated table of gear sets is outside akasha.",
-    },
-  ],
 } as const satisfies WorkspacePackage

@@ -39,10 +39,7 @@ export const temperInventoryRuleUpdate = {
       invariantKind: "departure",
       statement: "A locked category rule is refused unless the call says `--force`.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A field the call names nothing for is left as that field was.",
-    },
+
     {
       invariantKind: "departure",
       statement: "An id no category rule carries refuses the call.",

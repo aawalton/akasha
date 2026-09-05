@@ -45,9 +45,5 @@ export const aDomainWithItsParts = {
       invariantKind: "departure",
       statement: "A subfolder holding no page the domain declares is refused.",
     },
-    {
-      invariantKind: "absence",
-      statement: "The files a part holds are judged where that part is judged.",
-    },
   ],
 } as const satisfies FolderShape

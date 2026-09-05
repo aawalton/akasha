@@ -26,10 +26,7 @@ export const temperInventoryBuyRuleUpdate = {
       invariantKind: "departure",
       statement: "A locked buy rule is refused unless the call says `--force`.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A field the call names nothing for is left as that field was.",
-    },
+
     {
       invariantKind: "departure",
       statement: "An id no buy rule carries refuses the call.",
