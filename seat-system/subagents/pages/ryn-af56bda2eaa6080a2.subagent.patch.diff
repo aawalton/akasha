@@ -1,0 +1,14 @@
+diff --git a/commands/seat/seat.command.ts b/commands/seat/seat.command.ts
+index ecc8be43acfe2986bd50dbeca4f96383c92c155d..6316643e7d46e2adead79665f16872f23f0185dc 100644
+--- a/commands/seat/seat.command.ts
++++ b/commands/seat/seat.command.ts
+@@ -50,7 +50,8 @@ export const seat = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A supervisor is named by the first word and the act on it by the second.",
++      statement:
++        "A supervisor is named by the first word and the act on that supervisor by the second.",
+     },
+     {
+       invariantKind: "departure",
