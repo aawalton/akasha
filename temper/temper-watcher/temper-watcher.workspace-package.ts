@@ -69,11 +69,6 @@ export const temperWatcher = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A change to the worker reaches the workstation on a restart rather than on a deploy.",
-    },
-    {
-      invariantKind: "departure",
       statement: "One worker runs at a time.",
     },
     {
