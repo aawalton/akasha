@@ -1,0 +1,57 @@
+diff --git a/health-samples-access/sample-identity/sample-identity.module.ts b/health-samples-access/sample-identity/sample-identity.module.ts
+index 770e13ba1ecace44310b938eb294d5a7eaa5d646..8a9f9e818f6116c551d9de728088bb3d513aa006 100644
+--- a/health-samples-access/sample-identity/sample-identity.module.ts
++++ b/health-samples-access/sample-identity/sample-identity.module.ts
+@@ -18,7 +18,7 @@ export const sampleIdentity = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An instant that will not parse throws rather than standing as nothing.",
++      statement: "An instant that will not parse throws rather than counting as nothing.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/health-samples-access/sample-shape/sample-shape.module.ts b/health-samples-access/sample-shape/sample-shape.module.ts
+index b52153eddd78e7e470df10d77f5ea776ed7a4032..db50f1c3e05fc2c34a14f8b79165c77c5c82e486 100644
+--- a/health-samples-access/sample-shape/sample-shape.module.ts
++++ b/health-samples-access/sample-shape/sample-shape.module.ts
+@@ -18,7 +18,7 @@ export const sampleShape = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here stands at runtime beyond the two lists of metrics.",
++      statement: "Nothing here exists at runtime beyond the two lists of metrics.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/health-samples-import/verdict-reading/verdict-reading.module.ts b/health-samples-import/verdict-reading/verdict-reading.module.ts
+index 94ebaaa048ee473a4528f14598b98be4f031d943..aaf079320bca7afdc805a2c575b3ca8a62a4fde8 100644
+--- a/health-samples-import/verdict-reading/verdict-reading.module.ts
++++ b/health-samples-import/verdict-reading/verdict-reading.module.ts
+@@ -4,7 +4,7 @@ export const verdictReading = {
+   id: "01a05c14-b119-7000-9120-df7558499051",
+   pageTypeSlug: "module",
+   slug: "verdict-reading",
+-  definition: "how something stands, with what was covered and what was found",
++  definition: "how something is, with what was covered and what was found",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/migration-system/landing/migration-landing.module.ts b/migration-system/landing/migration-landing.module.ts
+index d2f9a5e35748dd0e99b6b8ae3daa11cce719ae13..40d075ac0cdd53d46ff944fc5fc1986b610d8b81 100644
+--- a/migration-system/landing/migration-landing.module.ts
++++ b/migration-system/landing/migration-landing.module.ts
+@@ -38,11 +38,11 @@ export const migrationLanding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A batch hands every stated `was` to its landing as what must stand unmoved.",
++      statement: "A batch hands every stated `was` to its landing as what must remain unmoved.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A stated `was` no longer matching what stands on disk refuses that batch.",
++      statement: "A stated `was` no longer matching what is on disk refuses that batch.",
+     },
+     {
+       invariantKind: "absence",
