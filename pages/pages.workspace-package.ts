@@ -73,6 +73,7 @@ export const pages = {
     "module/markdown-property-stated",
     "module/page-answer-sweeping",
     "module/page-carry",
+    "module/page-computing",
     "module/page-derive-shape",
     "module/page-formulas",
     "module/page-landing-journal",
