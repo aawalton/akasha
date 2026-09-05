@@ -10,6 +10,8 @@ const CONDITIONS = "conditions"
 
 const CHAIN = "destinationChain"
 
+type Row = ConditionEntry | ChainEntry
+
 export interface RuleWrite {
   readonly slug: string
   readonly values: Record<string, unknown>
@@ -20,11 +22,18 @@ export interface RuleWrites {
   readonly deletes: readonly string[]
 }
 
-function sameRows(
-  one: readonly (ConditionEntry | ChainEntry)[],
-  two: readonly (ConditionEntry | ChainEntry)[]
-): boolean {
-  return JSON.stringify(one) === JSON.stringify(two)
+export function sameRow(one: Row, two: Row | undefined): boolean {
+  if (two === undefined) return false
+  const held = two as unknown as Record<string, unknown>
+  for (const [key, value] of Object.entries(one as unknown as Record<string, unknown>)) {
+    if (held[key] !== value) return false
+  }
+  return true
+}
+
+export function sameRows(one: readonly Row[], two: readonly Row[]): boolean {
+  if (one.length !== two.length) return false
+  return one.every((row, at) => sameRow(row, two[at]))
 }
 
 export function valuesFor(wanted: HeldRule, was: HeldRule | undefined): Record<string, unknown> {

@@ -1,11 +1,13 @@
 import { expect, test } from "bun:test"
 import type { HeldRule } from "../inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import type { CategoryRule } from "../inventory-rule-types/inventory-rule-types.module.code.ts"
-import { alreadySo, valuesFor, writesFor } from "./inventory-rule-writes.module.code.ts"
+import { alreadySo, sameRows, valuesFor, writesFor } from "./inventory-rule-writes.module.code.ts"
 
 const ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 
 const AN_INSTANT = "1970-01-01T00:00:00.000Z"
+
+const A_ROW = { conditionField: "known", conditionValue: "known" }
 
 function ruleOf(id: string, over: Partial<CategoryRule> = {}): CategoryRule {
   return { id, categoryId: "scripts", action: "sell", ...over }
@@ -67,25 +69,28 @@ test("a rule carrying rows names the entry key", () => {
     [heldOf("one", 0)],
     ACCOUNT
   )
-  expect(said.upserts[0]?.values.conditions).toEqual([
-    { conditionField: "known", conditionValue: '"known"' },
-  ])
+  expect(said.upserts[0]?.values.conditions).toEqual([A_ROW])
 })
 
 test("an entry key the page carries is named again where the rule carries no row", () => {
-  const was: HeldRule = {
-    ...heldOf("one", 0),
-    conditions: [{ conditionField: "known", conditionValue: '"known"' }],
-  }
+  const was: HeldRule = { ...heldOf("one", 0), conditions: [A_ROW] }
   const said = writesFor([ruleOf("one")], [was], ACCOUNT)
   expect(said.upserts[0]?.values.conditions).toEqual([])
 })
 
 test("rows the page already carries are no change", () => {
-  const rows = [{ conditionField: "known", conditionValue: '"known"' }]
-  const was: HeldRule = { ...heldOf("one", 0), conditions: rows }
+  const was: HeldRule = { ...heldOf("one", 0), conditions: [A_ROW] }
   const said = writesFor([ruleOf("one", { conditions: { known: "known" } })], [was], ACCOUNT)
   expect(said.upserts).toEqual([])
+})
+
+test("the id a landed row carries is no difference", () => {
+  const landed = { id: "01a072b6-0546-7d78-8e19-d3cb86901c69", ...A_ROW }
+  expect(sameRows([A_ROW], [landed as unknown as typeof A_ROW])).toBe(true)
+})
+
+test("a row the page does not carry is a difference", () => {
+  expect(sameRows([A_ROW], [])).toBe(false)
 })
 
 test("a chain leg that moved is a change", () => {

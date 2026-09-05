@@ -30,6 +30,14 @@ export const inventoryRuleWrites = {
       statement: "An entry key named carrying no row empties the file beside the page.",
     },
     {
+      invariantKind: "departure",
+      statement: "A row is compared over the fields the write states rather than every field.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The id a landed row carries is therefore no difference.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reaches the pages.",
     },
