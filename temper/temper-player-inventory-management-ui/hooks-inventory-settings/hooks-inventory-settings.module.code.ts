@@ -129,7 +129,7 @@ export function useManagedGuildBanks() {
 }
 
 export function useInventorySettings() {
-  const { settings, write, userId } = useSettingsBlob()
+  const { settings, userId } = useSettingsBlob()
   const { rows } = usePagesSupabase({
     pageTypeSlug: RULE_PAGE_TYPE_SLUG,
     where:
@@ -173,9 +173,8 @@ export function useInventorySettings() {
           where: [{ key: "slug", in: [...deletes] }],
         })
       }
-      await write({ ...settings, inventory: next })
     },
-    [held, settings, userId, write]
+    [held, userId]
   )
 
   return {
