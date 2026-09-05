@@ -44,7 +44,7 @@ export const talosSecretsGen = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes the bundle unencrypted where it is kept.",
+      statement: "Nothing here writes the bundle unencrypted where that bundle is kept.",
     },
     {
       invariantKind: "absence",
