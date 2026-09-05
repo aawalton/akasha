@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts
-index 7818329b0eda848cf6b89ba72c92dbf451ba6105..95a2daa4c3e0b231000bba509afa8067e2c6cc79 100644
+index 7818329b0eda848cf6b89ba72c92dbf451ba6105..f3546766ca4e9c9fe3671b4a3e372cf442ec156d 100644
 --- a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts
 +++ b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts
 @@ -7,10 +7,10 @@ import { categoryTitles } from "../rule-pages/monarch-rule-pages.module.code.ts"
@@ -52,6 +52,15 @@ index 7818329b0eda848cf6b89ba72c92dbf451ba6105..95a2daa4c3e0b231000bba509afa8067
          "in Monarch."
      )
    }
+@@ -142,7 +142,7 @@ export async function loadCategoryRules(): Promise<RuleSet> {
+   const rules: Rule[] = []
+   const agentRules: AgentRule[] = []
+ 
+-  for (const page of await standing()) {
++  for (const page of await rulePages()) {
+     const matches = statedMatches(page.path, page.value["matches"])
+     if (page.kind === "agent") {
+       const judgement = textOf(page, "judgement")
 diff --git a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
 index 1dad0a9d1f4c6185417aae8f7e8d016b29e7e6a5..2968ce8fff69023a4180d6680edf362b12531c1e 100644
 --- a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
