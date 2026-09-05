@@ -13,18 +13,15 @@ export const monarchRuleDocuments = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The checkout is read directly rather than the pages system service asked, because the ring runs under a workstation timer where there is no service.",
+      statement: "The checkout is read directly rather than the pages system service asked.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A rule folder that is not there is refused, because answering with no rules would categorize nothing and report nothing wrong.",
+      statement: "A rule folder that is not there is refused.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A rule folder that has emptied is refused, because the emptying is a migration half-done rather than a project with no rules.",
+      statement: "A rule folder that has emptied is refused.",
     },
     {
       invariantKind: "departure",
