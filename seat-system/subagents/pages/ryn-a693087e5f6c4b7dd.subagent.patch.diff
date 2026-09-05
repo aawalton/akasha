@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts b/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts
-index 86d392ee6ae1448dd6eb96bd31735a1442b6b783..494db8d29b280d28e503adf121260ce59edc2da4 100644
+index 86d392ee6ae1448dd6eb96bd31735a1442b6b783..99ba4381cbb42ab3921367b2d55b7c9a636b21db 100644
 --- a/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts
 +++ b/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts
 @@ -31,7 +31,7 @@ export const lintClean = {
@@ -12,3 +12,12 @@ index 86d392ee6ae1448dd6eb96bd31735a1442b6b783..494db8d29b280d28e503adf121260ce5
      },
      {
        invariantKind: "departure",
+@@ -63,7 +63,7 @@ export const lintClean = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here says what the linter looks for.",
++      statement: "Nothing here says which rules the linter looks for.",
+     },
+     {
+       invariantKind: "absence",
