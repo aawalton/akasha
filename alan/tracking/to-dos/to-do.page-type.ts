@@ -78,7 +78,7 @@ export const toDo = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A recurring to-do earns once a day, however many times it is completed.",
+      statement: "A recurring to-do earns once a day, however many times that to-do is completed.",
     },
     {
       invariantKind: "departure",
@@ -90,7 +90,7 @@ export const toDo = {
     },
     {
       invariantKind: "departure",
-      statement: "A to-do's body is what doing it takes.",
+      statement: "A to-do's body is what doing that to-do takes.",
     },
     {
       invariantKind: "departure",
