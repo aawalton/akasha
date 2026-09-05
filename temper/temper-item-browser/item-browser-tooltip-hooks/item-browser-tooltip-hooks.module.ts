@@ -10,7 +10,7 @@ export const itemBrowserTooltipHooks = {
     {
       invariantKind: "departure",
       statement:
-        "An argument of an unknown kind is narrowed where it is read rather than by a helper.",
+        "An argument of an unknown kind is narrowed where that argument is read rather than by a helper.",
     },
   ],
 } as const satisfies Module
