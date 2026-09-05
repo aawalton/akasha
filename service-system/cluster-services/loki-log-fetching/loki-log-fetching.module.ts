@@ -29,7 +29,7 @@ export const lokiLogFetching = {
     },
     {
       invariantKind: "departure",
-      statement: "A window reaching past what Loki retains is answered without asking Loki.",
+      statement: "A window reaching past Loki's retention is answered without asking Loki.",
     },
     {
       invariantKind: "departure",
