@@ -17,7 +17,7 @@ export const earnedKey = {
     },
     {
       invariantKind: "departure",
-      statement: "What the key names is true or false rather than a number.",
+      statement: "The fact the key names is true or false rather than a number.",
     },
   ],
 } as const satisfies TextProperty
