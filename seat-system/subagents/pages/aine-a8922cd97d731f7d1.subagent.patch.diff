@@ -30,3 +30,16 @@ index e85e670778005ea9884db4cf9fd40552ea703a11..9087d898c9341f80163829077a117132
      idFiled(root, id, held)
      pathFiled(root, at, held)
      pathFiled(root, `${at.slice(0, -".ts".length)}.code.ts`, held)
+diff --git a/checks/modules/checking/checking.module.test.ts b/checks/modules/checking/checking.module.test.ts
+index fd98630dd43903a0c6d9b4c0d6dd2d272d87a302..e4d66e3bb9468ae5322d94b22d05f032bbb7acfd 100644
+--- a/checks/modules/checking/checking.module.test.ts
++++ b/checks/modules/checking/checking.module.test.ts
+@@ -58,7 +58,7 @@ test("a check is found through the index rather than by walking the tree", () =>
+   expect(found[0]?.page).toBe("akasha/checks-system/code-check/admits-all/admits-all.code-check.ts")
+ })
+ 
+-test("a check is found by the id its page type carries, whatever slug that page type stands under", () => {
++test("a check is found by the id its page type carries, whatever slug that page type sits under", () => {
+   const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }], {
+     slug: "gate",
+     at: "akasha/gate.page-type.ts",
