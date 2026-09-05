@@ -1,14 +1,18 @@
 runsWarrants: false
 diff --git a/story/games/pages/dragons-and-dungeons/dragons-and-dungeons.game.gm-context.json b/story/games/pages/dragons-and-dungeons/dragons-and-dungeons.game.gm-context.json
-index fa86e14b28fb87e1cc6b8f7d7c3c13b05f98508b..a97770b66f17dbf4b273c3b79db3bb7a58295aec 100644
+index fa86e14b28fb87e1cc6b8f7d7c3c13b05f98508b..2a7af8e9a954910cac3c879334533646b6939b93 100644
 --- a/story/games/pages/dragons-and-dungeons/dragons-and-dungeons.game.gm-context.json
 +++ b/story/games/pages/dragons-and-dungeons/dragons-and-dungeons.game.gm-context.json
-@@ -334,17 +334,12 @@
+@@ -334,17 +334,16 @@
      "catalogVersion": 19
    },
    "turnContract": {
 -    "notes": "HALT-ON-FRICTION: on any `bun ops page create` (pole 1), `bun ops awen commit-turn`/`end-session` (pole 2 / session), `game-continuity` parse, or page error — STOP, report, idle; never paper over a failure (the already-written story-chapter twin keeps the campaign safe). NEVER SEND null in an awen payload — awen-core marks optional fields `.optional()`, which rejects `null`; omit any field you do not set. `currentSession` is authoritative — change it only through `end-session`, never by hand. LOOP-DARK: only revealed chapter prose reaches any player surface; never put coordinator material into a published chapter's `text`. SINGLE WRITER: aria alone publishes both twins (the `story-chapter` row and the `game-turn`); the writing passes produce prose but never publish rows themselves — aria is the sole publisher.",
++<<<<<<< what this change would leave
 +    "notes": "HALT-ON-FRICTION: on any publish or page error — STOP, report, idle; never paper over a failure (the already-written story-chapter twin keeps the campaign safe). NEVER SEND null in an awen payload — awen-core marks optional fields `.optional()`, which rejects `null`; omit any field you do not set. `currentSession` is authoritative — change it only through `end-session`, never by hand. LOOP-DARK: only revealed chapter prose reaches any player surface; never put coordinator material into a published chapter's `text`. SINGLE WRITER: aria alone publishes both twins (the `story-chapter` row and the `game-turn`); the writing passes produce prose but never publish rows themselves — aria is the sole publisher.",
++=======
++    "notes": "HALT-ON-FRICTION: on any `bun ops page create` (pole 1), `bun ops awen commit-turn`/`end-session` (pole 2 / session), `game-continuity` parse, or page error — STOP, report, idle; never paper over a failure (the already-written story-chapter twin keeps the campaign safe). `currentSession` is authoritative — change it only through `end-session`, never by hand. LOOP-DARK: only revealed chapter prose reaches any player surface; never put coordinator material into a published chapter's `text`. SINGLE WRITER: aria alone publishes both twins (the `story-chapter` row and the `game-turn`); the writing passes produce prose but never publish rows themselves — aria is the sole publisher.",
++>>>>>>> what HEAD holds
      "obligations": [
        {
          "id": "reconcile-on-wake",
@@ -22,7 +26,7 @@ index fa86e14b28fb87e1cc6b8f7d7c3c13b05f98508b..a97770b66f17dbf4b273c3b79db3bb7a
        {
          "id": "single-unit",
          "requirement": "Draft one chapter at a time: do not begin the next chapter until the current one is published and its decision (if any) is captured. If asked to open a second chapter while one is still unpublished, hold and name the chapter that blocks."
-@@ -357,15 +352,6 @@
+@@ -357,15 +356,6 @@
          "id": "review-linters",
          "requirement": "Before publishing, dispatch the chapter-linter battery in parallel (one focused subagent per linter — see the Policies below), integrate the findings into one review, and hold the irreducibly-holistic judgment; a linter never messages back or edits the chapter."
        },
@@ -38,7 +42,7 @@ index fa86e14b28fb87e1cc6b8f7d7c3c13b05f98508b..a97770b66f17dbf4b273c3b79db3bb7a
        {
          "id": "hand-link",
          "requirement": "Hand Alan the `/read/dragons-and-dungeons-{last8}` link ({last8} = last 8 hex of the chapter id) and prompt for his pick; do not re-present the decision — it is already posed in the chapter's closing beat."
-@@ -377,10 +363,6 @@
+@@ -377,10 +367,6 @@
        {
          "id": "advance-status",
          "requirement": "After Alan's pick is captured, brief and draft the next chapter from his captured choice (the dreamer and writer passes both continue from his choice)."
