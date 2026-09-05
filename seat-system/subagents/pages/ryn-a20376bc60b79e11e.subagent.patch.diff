@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/collections/properties/parts-length-in-words.number-property.ts b/collections/properties/parts-length-in-words.number-property.ts
+index 7a420c9ff3f408464a9b3bef886c907244bb5d6b..3af57d2efdeeadbf8542b6c01a69bfbc2680e652 100644
+--- a/collections/properties/parts-length-in-words.number-property.ts
++++ b/collections/properties/parts-length-in-words.number-property.ts
+@@ -17,7 +17,7 @@ export const partsLengthInWords = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is added up is each part's own total length in words.",
++      statement: "Each part's own total length in words is added up.",
+     },
+     {
+       invariantKind: "gap",
