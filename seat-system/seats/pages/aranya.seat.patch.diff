@@ -395,6 +395,21 @@ index 0000000000000000000000000000000000000000..d396ec95e9ac1876cadea3a629d6d86d
 +  definition: "the node and graphics card exporters that run one copy per node",
 +  code: "ts",
 +} as const satisfies Module
+diff --git a/infrastructure/cluster-manifests/headscale-configmaps/headscale-configmaps.module.ts b/infrastructure/cluster-manifests/headscale-configmaps/headscale-configmaps.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3e3c623ff8b49d08dcc73c6843bf7876d34c65b9
+--- /dev/null
++++ b/infrastructure/cluster-manifests/headscale-configmaps/headscale-configmaps.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const headscaleConfigmaps = {
++  id: "01a073ae-918c-7c1a-9185-5b43e6dc6fb3",
++  pageTypeSlug: "module",
++  slug: "headscale-configmaps",
++  definition: "the config maps holding the coordination server's settings and access rules",
++  code: "ts",
++} as const satisfies Module
 diff --git a/infrastructure/cluster-manifests/package.json b/infrastructure/cluster-manifests/package.json
 index 2e3f1f19ad85a1923ea5d149c7560f380f47bd64..4fdd5ae07c185fefe04a12503f9d33760694a558 100644
 --- a/infrastructure/cluster-manifests/package.json
