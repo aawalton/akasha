@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-hud-addon/temper-hud-addon.eso-addon.ts b/temper/temper-hud-addon/temper-hud-addon.eso-addon.ts
+index d75f4f127726170de2958343ede0e96c252e21e9..1d9ad57336cebcb8428d21d4269085cf268ede99 100644
+--- a/temper/temper-hud-addon/temper-hud-addon.eso-addon.ts
++++ b/temper/temper-hud-addon/temper-hud-addon.eso-addon.ts
+@@ -41,7 +41,7 @@ export const temperHudAddon = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the player has shown and hidden is kept across the whole account.",
++      statement: "The parts the player has shown and hidden are kept across the whole account.",
+     },
+     {
+       invariantKind: "departure",
