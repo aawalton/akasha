@@ -78,10 +78,10 @@ index 368e74200cec9ad7ba76bfabc076ec696817aa52..2f58923f1a169a940e856316396ee46a
      {
        invariantKind: "departure",
 diff --git a/checks/code-checks/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.code-check.test.ts b/checks/code-checks/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.code-check.test.ts
-index bc0bb28ab61525f3033a539156c8dce7abcc5b67..a7352ce30e7f8390ea3d2cfc1e355248ab7b9a9a 100644
+index bc0bb28ab61525f3033a539156c8dce7abcc5b67..6b4c24c7ff9cd1529bfcbbf5bae83f7473f6d50e 100644
 --- a/checks/code-checks/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.code-check.test.ts
 +++ b/checks/code-checks/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.code-check.test.ts
-@@ -59,7 +59,7 @@ test("a shape written in a string is no regex literal and says nothing", () => {
+@@ -59,13 +59,13 @@ test("a shape written in a string is no regex literal and says nothing", () => {
    expect(reasonsIn(OTHER_CODE, `const SLUG = "/${SHAPE}/"\n`, STATED)).toEqual([])
  })
  
@@ -90,6 +90,13 @@ index bc0bb28ab61525f3033a539156c8dce7abcc5b67..a7352ce30e7f8390ea3d2cfc1e355248
    expect(reasonsIn(OTHER_CODE, `export const held = matching(/${SHAPE}/)\n`, STATED)).toHaveLength(
      1
    )
+ })
+ 
+-test("the line a shape stands on is the line the refusal names", () => {
++test("the line a shape sits on is the line the refusal names", () => {
+   const said = reasonsIn(OTHER_CODE, `const ONE = 1\nconst SLUG = /${SHAPE}/\n`, STATED)
+   expect(said[0]).toContain("line 2")
+ })
 diff --git a/checks/code-checks/pages/no-tmp/no-tmp.code-check.code.ts b/checks/code-checks/pages/no-tmp/no-tmp.code-check.code.ts
 index 7d3d0bff2dff900f5ed0b9d609f711caea9485d0..6bdfb9a83a9efca925494248589c7706da5e4198 100644
 --- a/checks/code-checks/pages/no-tmp/no-tmp.code-check.code.ts
