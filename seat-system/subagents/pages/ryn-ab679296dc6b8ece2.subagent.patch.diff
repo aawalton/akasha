@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/inference-pool/inference-reconcile/inference-reconcile.module.ts b/infrastructure/inference-pool/inference-reconcile/inference-reconcile.module.ts
+index fbd5fdae0bfa38b5d66e3169a91c904d4c31cf7b..d9af424e7b6560d1f1f23f9dbe73f76a02e6d2d2 100644
+--- a/infrastructure/inference-pool/inference-reconcile/inference-reconcile.module.ts
++++ b/infrastructure/inference-pool/inference-reconcile/inference-reconcile.module.ts
+@@ -10,7 +10,7 @@ export const inferenceReconcile = {
+     { invariantKind: "departure", statement: "The plan is printed before anything is applied." },
+     {
+       invariantKind: "departure",
+-      statement: "A dry run reaches the host to read it and changes nothing.",
++      statement: "A dry run reaches the host to read that host and changes nothing.",
+     },
+     {
+       invariantKind: "departure",
