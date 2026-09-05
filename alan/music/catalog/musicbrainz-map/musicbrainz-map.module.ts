@@ -54,7 +54,7 @@ export const musicbrainzMap = {
     },
     {
       invariantKind: "departure",
-      statement: "A work performed by the artist is one a recording of theirs points at.",
+      statement: "A work performed by the artist is one a recording of the artist's points at.",
     },
     {
       invariantKind: "departure",
