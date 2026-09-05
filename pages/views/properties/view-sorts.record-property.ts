@@ -23,7 +23,7 @@ export const viewSorts = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The keys are weighed in the order they stand.",
+      statement: "The keys are weighed in the order they are stated.",
     },
     {
       invariantKind: "departure",

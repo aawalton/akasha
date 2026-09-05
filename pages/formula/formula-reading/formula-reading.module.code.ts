@@ -155,7 +155,7 @@ const takeNamed = (reader: Reader, word: string, at: number): Expression => {
   if (isMark(here(reader), "(")) return takeCall(reader, word, at)
   throw new ReadingRefused(
     at,
-    `\`${word}\` is no value; only \`true\`, \`false\` and \`absent\` are words standing for a value`
+    `\`${word}\` is no value; only \`true\`, \`false\` and \`absent\` are words naming a value`
   )
 }
 

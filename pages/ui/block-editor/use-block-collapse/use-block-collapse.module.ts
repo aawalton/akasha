@@ -5,6 +5,6 @@ export const useBlockCollapse = {
   pageTypeSlug: "module",
   slug: "use-block-collapse",
   definition:
-    "which blocks stand collapsed, and the toggles that shut them the first time they are seen",
+    "which blocks are collapsed, and the toggles that shut them the first time they are seen",
   code: "ts",
 } as const satisfies Module

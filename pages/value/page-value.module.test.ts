@@ -32,20 +32,20 @@ test("a body that will not load answers with no value rather than throwing", () 
   expect(valueIn("the new body")).toBe(null)
 })
 
-test("a path standing as a folder holds no page, and is not read as though it were a file", () => {
+test("a path that is a folder holds no page, and is not read as though it were a file", () => {
   const repo = scratch.rootFor("akasha-entries-folder-")
   mkdirSync(join(repo, "held"), { recursive: true })
 
   expect(valueAt("held", repo)).toBe(null)
 })
 
-test("a path standing as nothing holds no page", () => {
+test("a path that is nothing holds no page", () => {
   const repo = scratch.rootFor("akasha-entries-gone-")
 
   expect(valueAt("gone.module.ts", repo)).toBe(null)
 })
 
-test("a path standing as a file is read for the page it holds", () => {
+test("a path that is a file is read for the page it holds", () => {
   const repo = scratch.rootFor("akasha-entries-file-")
   writeFileSync(join(repo, "held.module.ts"), 'export const held = { slug: "held" }\n', "utf8")
 
@@ -65,7 +65,7 @@ test("a key holding no list, or a list holding what is not text, is answered as 
   expect(textsAt({}, "binds")).toBe(null)
 })
 
-test("one page name standing alone is answered as nothing, a list being the shape", () => {
+test("one page name alone is answered as nothing, a list being the shape", () => {
   expect(slugsIn("page-type/module")).toEqual([])
 })
 

@@ -24,7 +24,7 @@ test("the first character is never raised, so a name is one a page is exported u
   expect(exportedAs("page-export-name")).toBe("pageExportName")
 })
 
-test("a trailing hyphen stands, because no character follows it to raise", () => {
+test("a trailing hyphen remains, because no character follows it to raise", () => {
   expect(exportedAs("page-")).toBe("page-")
 })
 
@@ -75,7 +75,7 @@ test("a slug whose name TypeScript keeps for itself names no export", () => {
   expect(nameFaultIn("yield")).not.toBeNull()
 })
 
-test("a word reserved only where a class body stands is kept too, since a page is a module", () => {
+test("a word reserved only inside a class body is kept too, since a page is a module", () => {
   expect(nameFaultIn("private")).not.toBeNull()
   expect(nameFaultIn("interface")).not.toBeNull()
 })
@@ -86,7 +86,7 @@ test("a word that only reads as a keyword names an export, so nothing is refused
   expect(nameFaultIn("undefined")).toBeNull()
 })
 
-test("a hyphen no lowercase letter or digit follows is left standing, and no name holds one", () => {
+test("a hyphen no lowercase letter or digit follows is left as it is, and no name holds one", () => {
   expect(nameFaultIn("page-")).not.toBeNull()
   expect(nameFaultIn("two--hyphens")).not.toBeNull()
 })

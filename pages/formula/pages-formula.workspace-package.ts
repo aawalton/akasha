@@ -42,7 +42,7 @@ export const pagesFormula = {
     },
     {
       invariantKind: "gap",
-      statement: "The cases saying what this language means stand outside akasha.",
+      statement: "The cases saying what this language means are outside akasha.",
     },
   ],
 } as const satisfies WorkspacePackage
