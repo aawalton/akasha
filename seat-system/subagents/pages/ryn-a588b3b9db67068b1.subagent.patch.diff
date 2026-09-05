@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/inference-runs/inference-run-store/inference-run-store.module.ts b/infrastructure/inference-runs/inference-run-store/inference-run-store.module.ts
+index cb80e0e32992a5825572b29ca87692a8917db747..d2dbdc2bc3dddd516e95aa2f2ee655c1855a122d 100644
+--- a/infrastructure/inference-runs/inference-run-store/inference-run-store.module.ts
++++ b/infrastructure/inference-runs/inference-run-store/inference-run-store.module.ts
+@@ -14,7 +14,7 @@ export const inferenceRunStore = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "An audio operation records what that operation made as audio and every other as an image.",
++        "An audio operation records the output that operation made as audio and every other as an image.",
+     },
+     {
+       invariantKind: "departure",
