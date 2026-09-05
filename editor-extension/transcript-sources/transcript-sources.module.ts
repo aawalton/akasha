@@ -17,7 +17,7 @@ export const transcriptSources = {
     },
     {
       invariantKind: "departure",
-      statement: "The answer is held for a fixed moment before it is asked for again.",
+      statement: "The answer is held for a fixed moment before that answer is asked for again.",
     },
     {
       invariantKind: "departure",
