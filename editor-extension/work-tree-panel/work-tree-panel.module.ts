@@ -13,7 +13,8 @@ export const workTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "The panel draws what that file holds before any change to it arrives.",
+      statement:
+        "The panel draws the rows that file carries before any change to that file arrives.",
     },
     {
       invariantKind: "departure",
@@ -57,7 +58,7 @@ export const workTreePanel = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here decides what a row looks like.",
+      statement: "Nothing here decides a row's appearance.",
     },
   ],
 } as const satisfies Module
