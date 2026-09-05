@@ -32,11 +32,11 @@ export const monarchCategorizeRecent = {
     {
       invariantKind: "departure",
       statement:
-        "Why each row was left is tallied, so a run says what it did not do as well as what it did.",
+        "Why each row was left is tallied, so a run says what the run did not do as well as what the run did.",
     },
     {
       invariantKind: "departure",
-      statement: "A run may say what it would do and write nothing.",
+      statement: "A run may say what that run would do and write nothing.",
     },
     {
       invariantKind: "departure",
