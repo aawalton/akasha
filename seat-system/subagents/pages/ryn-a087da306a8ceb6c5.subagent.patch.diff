@@ -14,3 +14,19 @@ index f13d6cd5c6138a5b20911c7dfaa3b8d95929654c..7ead63529a49add6dfe3a24bb89b6583
      {
        invariantKind: "absence",
        statement: "Nothing here logs a set.",
+diff --git a/alan/fitness/commands/exercise-session-show/exercise-session-show.command.ts b/alan/fitness/commands/exercise-session-show/exercise-session-show.command.ts
+index 98446f09082b0f51c46ef79f4ac6712808ac0643..01435247947670db92259d242ef2fdad2d03257e 100644
+--- a/alan/fitness/commands/exercise-session-show/exercise-session-show.command.ts
++++ b/alan/fitness/commands/exercise-session-show/exercise-session-show.command.ts
+@@ -40,10 +40,7 @@ export const exerciseSessionShow = {
+       invariantKind: "departure",
+       statement: "A warmup set is marked as one.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "The volume is counted against the bodyweight the client profile states.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here changes the session or its sets.",
