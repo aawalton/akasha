@@ -5,5 +5,5 @@ export const pageKeySecret = {
   pageTypeSlug: "refusal",
   slug: "page-key-secret",
   title: "Page key secret",
-  text: "`{key}` is secret on `{on}`, so its value stands in the page's sops file, never in frontmatter",
+  text: "`{key}` is secret on `{on}`, so its value sits in the page's sops file, never in frontmatter",
 } as const satisfies Refusal

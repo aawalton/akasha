@@ -5,5 +5,5 @@ export const linkQuoteAbsent = {
   pageTypeSlug: "refusal",
   slug: "link-quote-absent",
   title: "Link quote absent",
-  text: "{where} links `{href}` under quoted text {resolved} does not hold — a quote reads as the document's own words, so one standing for what it no longer says is read as current.",
+  text: "{where} links `{href}` under quoted text {resolved} does not hold — a quote reads as the document's own words, so one representing what it no longer says is read as current.",
 } as const satisfies Refusal

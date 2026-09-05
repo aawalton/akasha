@@ -5,5 +5,5 @@ export const linkTargetAbsent = {
   pageTypeSlug: "refusal",
   slug: "link-target-absent",
   title: "Link target absent",
-  text: "{where} links `{href}`, which resolves to {resolved}, and nothing stands there — the reader is sent to a document that does not exist, and the sentence pointing them at it still reads as though it does.",
+  text: "{where} links `{href}`, which resolves to {resolved}, and nothing is there — the reader is sent to a document that does not exist, and the sentence pointing them at it still reads as though it does.",
 } as const satisfies Refusal

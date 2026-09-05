@@ -5,5 +5,5 @@ export const pageKeyAttachment = {
   pageTypeSlug: "refusal",
   slug: "page-key-attachment",
   title: "Page key attachment",
-  text: "`{key}` is an attachment on `{on}`, so its value stands in the file beside the page, never in frontmatter",
+  text: "`{key}` is an attachment on `{on}`, so its value sits in the file beside the page, never in frontmatter",
 } as const satisfies Refusal
