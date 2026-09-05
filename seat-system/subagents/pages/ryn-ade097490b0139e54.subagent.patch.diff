@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/machines/computers/computer.page-type.ts b/machines/computers/computer.page-type.ts
+index 2006af111c5ffd6bbaf060bc71fc5eb32ffa1333..46cc902e9082683e478377f5d5e7f68da0915854 100644
+--- a/machines/computers/computer.page-type.ts
++++ b/machines/computers/computer.page-type.ts
+@@ -98,7 +98,7 @@ export const computer = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A machine stays on the list once sold, so what it cost and what replaced it can still be read.",
++        "A machine stays on the list once sold, so its cost and its replacement can still be read.",
+     },
+     {
+       invariantKind: "departure",
