@@ -967,3 +967,11 @@ index 6de332bea7b24d4647331edb620c964c65b84ee3..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-eso-typings
 \ No newline at end of file
+diff --git a/temper/temper-events-addon/temper-events-addon b/temper/temper-events-addon/temper-events-addon
+deleted file mode 120000
+index a7db94efa4c778e444ade8bd58eafaa5924ba195..0000000000000000000000000000000000000000
+--- a/temper/temper-events-addon/temper-events-addon
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-events-addon
+\ No newline at end of file
