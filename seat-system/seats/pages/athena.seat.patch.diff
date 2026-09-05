@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/story/games/pages/dragons-and-dungeons/dragons-and-dungeons.game.gm-context.json b/story/games/pages/dragons-and-dungeons/dragons-and-dungeons.game.gm-context.json
-index fa86e14b28fb87e1cc6b8f7d7c3c13b05f98508b..d29d589190df9560575ead68bc0fb7b8a07f7816 100644
+index fa86e14b28fb87e1cc6b8f7d7c3c13b05f98508b..7534a24ef68ce95dd62191ace810d2513c93e4e1 100644
 --- a/story/games/pages/dragons-and-dungeons/dragons-and-dungeons.game.gm-context.json
 +++ b/story/games/pages/dragons-and-dungeons/dragons-and-dungeons.game.gm-context.json
 @@ -340,11 +340,6 @@
@@ -15,3 +15,19 @@ index fa86e14b28fb87e1cc6b8f7d7c3c13b05f98508b..d29d589190df9560575ead68bc0fb7b8
        {
          "id": "single-unit",
          "requirement": "Draft one chapter at a time: do not begin the next chapter until the current one is published and its decision (if any) is captured. If asked to open a second chapter while one is still unpublished, hold and name the chapter that blocks."
+@@ -357,15 +352,6 @@
+         "id": "review-linters",
+         "requirement": "Before publishing, dispatch the chapter-linter battery in parallel (one focused subagent per linter — see the Policies below), integrate the findings into one review, and hold the irreducibly-holistic judgment; a linter never messages back or edits the chapter."
+       },
+-      {
+-        "id": "publish-pole-1",
+-        "requirement": "POLE 1 — publish the chapter as its `story-chapter` row twin via a DIRECT `bun ops page create` (no `project commit`, no `deploy`, no markdown file — the reader picks the new row up on its next poll; there is NO export/deploy gate). Create page-type 019db5f4-063c-710f-a432-4c822d31915a, title = chapter title, properties { externalId `dnd-ch<chapterNumber>`, chapterNumber, text = published prose, wordCount, status `Completed`, story `019ef225-1717-76f7-984a-e44d05e378b3` }, idempotent via `--if-not-exists [{\"key\":\"externalId\",\"eq\":\"dnd-ch<chapterNumber>\"}]` (natural key, auto-scoped to the story-chapter type — re-run returns the existing row, never duplicates). Only one of `--properties-file` / `--if-not-exists` may read stdin (`-`); pass the other from a file. Non-negotiable every turn, before the read link. The twin MUST carry `status: Completed` — set it explicitly. The two poles use DIFFERENT status vocabularies: the story-chapter select value is capitalized `Completed`, whereas the pole-2 awen game-turn's own value is lowercase `complete` — near-twins in spelling only, never interchange them."
+-      },
+-      {
+-        "id": "publish-pole-2",
+-        "detail": "Idempotent on the `dnd-ch<n>` externalId — re-running updates that one turn, never duplicates. Carry only revealed prose, never coordinator material (loop-dark, same as the chapter's published text).",
+-        "requirement": "POLE 2 — forward-write the same published chapter to Awen right after the pole-1 row is created, in the same turn: `bun ops awen commit-turn --game dragons-and-dungeons` with the payload { externalId `dnd-ch<chapterNumber>`, title, turnNumber = chapterNumber, text = published prose, status `complete`, wordCount, sessionNumber = current session }. Additive — the pole-1 `story-chapter` twin is written independently and never edited in place (add-before-remove)."
+-      },
+       {
+         "id": "hand-link",
+         "requirement": "Hand Alan the `/read/dragons-and-dungeons-{last8}` link ({last8} = last 8 hex of the chapter id) and prompt for his pick; do not re-present the decision — it is already posed in the chapter's closing beat."
