@@ -1,0 +1,13 @@
+diff --git a/code-system/routes/route.page-type.ts b/code-system/routes/route.page-type.ts
+index 22afe9b010f2fec13cd09c5c7e29a6d360c6d20a..a246895c30c1a3177b434e5ee0d46778555ac2ce 100644
+--- a/code-system/routes/route.page-type.ts
++++ b/code-system/routes/route.page-type.ts
+@@ -26,7 +26,7 @@ export const route = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A route is reached by a url rather than by importing it.",
++      statement: "A route is reached by a url rather than by importing that route.",
+     },
+     {
+       invariantKind: "departure",
