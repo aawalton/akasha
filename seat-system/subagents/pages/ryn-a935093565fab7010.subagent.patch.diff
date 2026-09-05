@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/compose-subagents/compose-subagents.module.ts b/seat-system/compose-subagents/compose-subagents.module.ts
+index 1e98cf629bcee454afa8a0095726e0731484f99f..e7ebe2c6d3b46b80f6142d2d9c45bf095836f5c5 100644
+--- a/seat-system/compose-subagents/compose-subagents.module.ts
++++ b/seat-system/compose-subagents/compose-subagents.module.ts
+@@ -10,7 +10,7 @@ export const composeSubagents = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What asks for the kinds imports this module and calls that module rather than running that module.",
++        "A caller asking for the kinds imports and calls this module rather than running that module.",
+     },
+     {
+       invariantKind: "departure",
