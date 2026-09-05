@@ -1,3 +1,18 @@
+diff --git a/git-transport/bare-repo-init/bare-repo-init.module.code.ts b/git-transport/bare-repo-init/bare-repo-init.module.code.ts
+index c54c77fe31596e819dc640082fbcdf01ea643ca4..15d3645eae8ed1a1cfc6d7834489a029a9c4d1f7 100644
+--- a/git-transport/bare-repo-init/bare-repo-init.module.code.ts
++++ b/git-transport/bare-repo-init/bare-repo-init.module.code.ts
+@@ -104,8 +104,8 @@ touch "$LOCK"
+   # \`pre-receive\` is the same choice in the policy register. The project-NNNN
+   # naming and main-reachability policy is right for a repo fed by CI and wrong
+   # for one whose only branch is main. While the consolidation to akasha runs,
+-  # \`ops branch\` is off for every repo outside it, so no change branch can be
+-  # minted here and main is the only branch there is — which is the second case,
++  # change branches are off for every repo outside it, so none can be minted
++  # here and main is the only branch there is — which is the second case,
+   # not the first. This repo therefore takes the append-only policy the others
+   # take, and goes back to the strict one when branches come back.
+   git config -f "$CODE_REPO/config" mirror.url ${CODE_MIRROR_URL}
 diff --git a/git-transport/hooks/pre-receive-change-branches/pre-receive-change-branches.shell-script.shell.sh b/git-transport/hooks/pre-receive-change-branches/pre-receive-change-branches.shell-script.shell.sh
 index e6cdcf57754b2c17f82d59a7e73d14e689b929ef..d5a4b67fe2655c44fae88b58d8877c79e351719a 100644
 --- a/git-transport/hooks/pre-receive-change-branches/pre-receive-change-branches.shell-script.shell.sh
