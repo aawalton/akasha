@@ -21,7 +21,8 @@ export const housingUpstreamPort = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry is refused where any field it carries is not the shape expected.",
+      statement:
+        "An entry is refused where any field that entry carries is not the shape expected.",
     },
     {
       invariantKind: "departure",
