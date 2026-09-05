@@ -9,6 +9,7 @@ export const atomicChange = {
   slug: "atomic-change",
   definition: "a change that leaves the tree whole and splits into none that do",
   pluralSlug: "atomic-changes",
+  partSlugs: ["atomic-change/rename-local-variable"],
   extendsSlug: ["page-type/module"],
   invariants: [
     {
