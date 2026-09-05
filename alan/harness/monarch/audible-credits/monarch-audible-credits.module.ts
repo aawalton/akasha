@@ -28,8 +28,7 @@ export const monarchAudibleCredits = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An amount that is not a positive number is refused, because the direction of each row is settled here rather than by the list.",
+      statement: "An amount that is not a positive number is refused.",
     },
     {
       invariantKind: "departure",
