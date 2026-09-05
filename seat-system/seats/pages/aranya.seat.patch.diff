@@ -23,3 +23,11 @@ index 33f87403e797408d761b79d9ff1c10462ef76585..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../alan/fitness/commands
 \ No newline at end of file
+diff --git a/alan/fitness/exercise-access/exercise-access b/alan/fitness/exercise-access/exercise-access
+deleted file mode 120000
+index 4372f41da7d45948580fe5f23cf0ac0f7bd0bbb7..0000000000000000000000000000000000000000
+--- a/alan/fitness/exercise-access/exercise-access
++++ /dev/null
+@@ -1 +0,0 @@
+-../../alan/fitness/exercise-access
+\ No newline at end of file
