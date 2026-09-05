@@ -19,10 +19,7 @@ export const domainTreePanel = {
       invariantKind: "departure",
       statement: "The panel draws again when that file is written and at no other time.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A file the service has not written leaves the rows on the screen as they are.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A file written while the panel is hidden is kept rather than drawn.",

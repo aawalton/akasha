@@ -28,10 +28,7 @@ export const agentTreePanel = {
       invariantKind: "departure",
       statement: "An act on a seat asks for the file again rather than waiting to be told.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A file the service has not written leaves the rows on the screen as they are.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A row is spelled for the panel from the row the file carries.",
