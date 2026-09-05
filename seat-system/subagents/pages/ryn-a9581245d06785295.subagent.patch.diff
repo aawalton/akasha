@@ -1,5 +1,5 @@
 diff --git a/pages/system-service/page-asking/page-asking.module.ts b/pages/system-service/page-asking/page-asking.module.ts
-index cdf143a0517bd3e1eb21a32a43bc5366ec8455ba..75aa295b9b2ad6a37787a3579c6d8ee7aa2b452a 100644
+index cdf143a0517bd3e1eb21a32a43bc5366ec8455ba..093eec28de428853c03584b5faff76c7ea166ad3 100644
 --- a/pages/system-service/page-asking/page-asking.module.ts
 +++ b/pages/system-service/page-asking/page-asking.module.ts
 @@ -14,11 +14,13 @@ export const pageAsking = {
@@ -38,3 +38,13 @@ index cdf143a0517bd3e1eb21a32a43bc5366ec8455ba..75aa295b9b2ad6a37787a3579c6d8ee7
      },
      {
        invariantKind: "departure",
+@@ -215,7 +219,8 @@ export const pageAsking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A shape states the owner the nearest page type above it names.",
++      statement:
++        "A shape states the owner the nearest page type above the shape's own page type names.",
+     },
+     {
+       invariantKind: "absence",
