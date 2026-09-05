@@ -36,7 +36,7 @@ index 566093ea0af6a9d67dd8a6b24e368360a1e24dfb..296cc88df2a8bc83d598d06b8ee4d19d
 +  })
 +}
 diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
-index c70536b6a67282fc3d9e4bf031e92e4022f44e92..73f56b0c7a39d59cc739d2cb36f7ac921c7595f9 100644
+index c70536b6a67282fc3d9e4bf031e92e4022f44e92..65a2b9cccea182a1d6d22393e2b2f007f89fe753 100644
 --- a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 +++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 @@ -5,7 +5,9 @@ import type { Change } from "@akasha/pages-system/change"
@@ -87,3 +87,18 @@ index c70536b6a67282fc3d9e4bf031e92e4022f44e92..73f56b0c7a39d59cc739d2cb36f7ac92
  test("a satisfies clause is narrowed where it stands, and the body keeps every line it had", () => {
    const said = omittingIn(THING_AT, WITHOUT, ["held", "other"])
    expect(said).toContain('satisfies Omit<Thing, "held" | "other">')
+@@ -218,13 +244,7 @@ test("a file the change brings is compiled though no disk holds it", async () =>
+ })
+ 
+ test("a diagnostic against a file the change did not touch is reported once, however many paths it holds", async () => {
+-  const root = staged({
+-    "akasha/broken.ts":
+-      'import { a } from "./a.ts"\nimport { b } from "./b.ts"\nimport { c } from "./c.ts"\nexport const one: string = a + b + c\n',
+-    "akasha/a.ts": "export const a = 1\n",
+-    "akasha/b.ts": "export const b = 2\n",
+-    "akasha/c.ts": "export const c = 3\n",
+-  })
++  const root = reading()
+   const said = await judged(
+     change(root, {
+       "akasha/a.ts": "export const a = 10\n",
