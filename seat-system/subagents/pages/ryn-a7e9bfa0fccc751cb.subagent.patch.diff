@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-watcher/watcher-account-page/watcher-account-page.module.ts b/temper/temper-watcher/watcher-account-page/watcher-account-page.module.ts
+index d08f8a038ed456811e6297f6764e0ba6fa35d935..fd20df428ca1b1aca903615209185509e4f7ac37 100644
+--- a/temper/temper-watcher/watcher-account-page/watcher-account-page.module.ts
++++ b/temper/temper-watcher/watcher-account-page/watcher-account-page.module.ts
+@@ -30,7 +30,7 @@ export const watcherAccountPage = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A caller may hand in what does the upsert.",
++      statement: "A caller may hand in the function that does the upsert.",
+     },
+     {
+       invariantKind: "absence",
