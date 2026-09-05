@@ -9,7 +9,7 @@ export const knowledgeBaseDataRecipes = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "These ids are what upstream BaseData for API 101050 states.",
+      statement: "These ids are the ids upstream BaseData for API 101050 states.",
     },
   ],
 } as const satisfies Module
