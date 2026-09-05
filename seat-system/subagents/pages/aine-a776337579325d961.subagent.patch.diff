@@ -12,7 +12,7 @@ index 9f02eb135e886c9873718afbfdb7f9a3ff7f2ed7..5542bfd6e088d8cd9520f077c35096cb
    }
    const one = standing.pages[0]
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.test.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.test.ts
-index 05f404f2876d746e3cf260cdad7411f1513eb1aa..d1238d7a1f49feea4898199f93239f9fb94524e1 100644
+index 05f404f2876d746e3cf260cdad7411f1513eb1aa..8eeac65ab75e255faaac12efcc73d178668de922 100644
 --- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.test.ts
 +++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.test.ts
 @@ -12,12 +12,12 @@ test("a folder holding no file at all takes the shape", () => {
@@ -30,6 +30,15 @@ index 05f404f2876d746e3cf260cdad7411f1513eb1aa..d1238d7a1f49feea4898199f93239f9f
    const said = onePageWithItsProperties(
      folder(["one.check.ts", "one.check.code.ts", "one.check.test.ts"])
    )
+@@ -30,7 +30,7 @@ test("two pages are refused, and the reason names them", () => {
+   expect(said[0]).toContain("2 pages rather than one")
+ })
+ 
+-test("a file standing beside a page that is elsewhere is refused", () => {
++test("a file sitting beside a page that is elsewhere is refused", () => {
+   const said = onePageWithItsProperties(folder(["one.check.ts", "two.check.code.ts"]))
+   expect(said).toHaveLength(1)
+   expect(said[0]).toContain("stand beside no page here")
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.ts
 index 30b10b64f6c0ab6da694b822536a13ba61302f44..6f7df0498ddaa7eda708c330a8ad5ab5fc91cf51 100644
 --- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.ts
