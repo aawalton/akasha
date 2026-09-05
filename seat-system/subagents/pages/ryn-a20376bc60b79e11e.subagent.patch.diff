@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/landing-saying/landing-saying.module.ts b/command-system/landing-saying/landing-saying.module.ts
-index 7ac75d3898bb5da34ed504b7fcede484a72bc981..7ac83a0e1574e9325ac47461cf30708632dc5fae 100644
+index 7ac75d3898bb5da34ed504b7fcede484a72bc981..4fa9892603698db7cb5eb5c936b869098785b65f 100644
 --- a/command-system/landing-saying/landing-saying.module.ts
 +++ b/command-system/landing-saying/landing-saying.module.ts
 @@ -10,11 +10,12 @@ export const landingSaying = {
@@ -36,3 +36,12 @@ index 7ac75d3898bb5da34ed504b7fcede484a72bc981..7ac83a0e1574e9325ac47461cf307086
      },
      {
        invariantKind: "departure",
+@@ -51,7 +52,7 @@ export const landingSaying = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a landing says of itself is handed in rather than reached for.",
++      statement: "A landing's saying of itself is handed in rather than reached for.",
+     },
+     {
+       invariantKind: "absence",
