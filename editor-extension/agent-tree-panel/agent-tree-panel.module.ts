@@ -17,7 +17,8 @@ export const agentTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "The panel draws what that file holds before any change to it arrives.",
+      statement:
+        "The panel draws the fleet that file holds before any change to that file arrives.",
     },
     {
       invariantKind: "departure",
@@ -73,7 +74,7 @@ export const agentTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A row's own state is what an act on that row is planned from.",
+      statement: "An act on a row is planned from that row's own state.",
     },
     {
       invariantKind: "departure",
@@ -93,7 +94,7 @@ export const agentTreePanel = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what a step does to a seat.",
+      statement: "Nothing here knows the change a step makes to a seat.",
     },
   ],
 } as const satisfies Module
