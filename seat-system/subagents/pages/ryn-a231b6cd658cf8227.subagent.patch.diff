@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/code-system/ios-components/pages/alanwalton-widget-feed/alanwalton-widget-feed.ios-component.ts b/code-system/ios-components/pages/alanwalton-widget-feed/alanwalton-widget-feed.ios-component.ts
+index 80c6bb3ebe8f460e1e2cd6baae6a2fea85761614..548e6ca2f23e078868e4201b646a1a1df17aa4e8 100644
+--- a/code-system/ios-components/pages/alanwalton-widget-feed/alanwalton-widget-feed.ios-component.ts
++++ b/code-system/ios-components/pages/alanwalton-widget-feed/alanwalton-widget-feed.ios-component.ts
+@@ -17,7 +17,8 @@ export const alanwaltonWidgetFeed = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A cached reading is let go once it is older than the age the route refuses.",
++      statement:
++        "A cached reading is let go once that reading is older than the age the route refuses.",
+     },
+     {
+       invariantKind: "departure",
