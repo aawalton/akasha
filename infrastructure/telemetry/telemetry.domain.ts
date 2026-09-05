@@ -5,5 +5,5 @@ export const telemetry = {
   pageTypeSlug: "domain",
   slug: "telemetry",
   definition: "somewhere a program records what it is doing",
-  partSlugs: ["domain/log", "domain/metric", "manifest/grafana"],
+  partSlugs: ["domain/log", "domain/metric"],
 } as const satisfies Domain
