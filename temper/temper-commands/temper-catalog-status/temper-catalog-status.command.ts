@@ -24,7 +24,6 @@ export const temperCatalogStatus = {
   ],
   helpNotes: [
     "both files default to the workstation's live game install.",
-    "each account in the capture is reported over every domain the registry holds.",
     "a domain the capture is missing carries the reason the addon gave for skipping it, where it gave one.",
     "a request naming no domain is read as one asking for every domain.",
   ],
