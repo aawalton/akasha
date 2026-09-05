@@ -154,11 +154,12 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "What the patch would hold is answered without the patch being written.",
+      statement: "The bodies a patch would hold are answered without the patch being written.",
     },
     {
       invariantKind: "departure",
-      statement: "What the patch would hold is the patch rebased with the draft folded in.",
+      statement:
+        "The bodies a patch would hold are the bodies of that patch rebased with the draft folded in.",
     },
     {
       invariantKind: "departure",
@@ -203,7 +204,7 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "The commit message says what became of the patch.",
+      statement: "The commit message says whether the patch file was written or taken away.",
     },
     {
       invariantKind: "departure",
@@ -223,7 +224,7 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "A patch runs what any change drafted into it runs.",
+      statement: "A patch runs the checks and warrants any change drafted into that patch runs.",
     },
     {
       invariantKind: "departure",
@@ -239,11 +240,12 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "A path taken out leaves the patch running what it ran.",
+      statement:
+        "A path taken out leaves the patch running the checks and warrants that patch ran.",
     },
     {
       invariantKind: "departure",
-      statement: "A patch taken in runs what it ran and what the patch coming in ran.",
+      statement: "A patch taking another in runs the checks and warrants both patches ran.",
     },
     {
       invariantKind: "departure",
