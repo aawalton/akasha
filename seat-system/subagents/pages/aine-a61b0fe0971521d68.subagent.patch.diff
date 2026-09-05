@@ -12,7 +12,7 @@ index f9837ae899445abfeff99d1d52d87a94e94bc26e..41166242696de3b393cbb8e87392c870
        continue
      }
 diff --git a/service-system/cluster-services/web-app-building/web-app-building.module.test.ts b/service-system/cluster-services/web-app-building/web-app-building.module.test.ts
-index 16cab982b5ec9fe0108f36f15da44d83ec8f595f..c2db3257f2bfc76576b3c6bd730ea5a1f07dcfea 100644
+index 16cab982b5ec9fe0108f36f15da44d83ec8f595f..2c7fb8e26656e92381eb532da9e477202e36f316 100644
 --- a/service-system/cluster-services/web-app-building/web-app-building.module.test.ts
 +++ b/service-system/cluster-services/web-app-building/web-app-building.module.test.ts
 @@ -121,7 +121,7 @@ test("the package built is the one a container's working directory names", () =>
@@ -51,6 +51,15 @@ index 16cab982b5ec9fe0108f36f15da44d83ec8f595f..c2db3257f2bfc76576b3c6bd730ea5a1
    const target = buildTargetOf(plan(pod(SERVING)))
    expect(buildScript(target as NonNullable<typeof target>, SHA, HANDED)).toStartWith(
      "env ONE='first' sh -c "
+@@ -226,7 +226,7 @@ test("a pod nothing is taking away holds the build", () => {
+   expect(livestOf("web-one\t\n")).toBe("web-one")
+ })
+ 
+-test("no pod standing means no pod holds a build", () => {
++test("no pod there means no pod holds a build", () => {
+   expect(livestOf("")).toBe(null)
+ })
+ 
 diff --git a/service-system/cluster-services/web-app-building/web-app-building.module.ts b/service-system/cluster-services/web-app-building/web-app-building.module.ts
 index 391eb6261fe7093fb477d515b7305ea89e071041..e09e4e34c7f75069faccbee2c7c66731c933815c 100644
 --- a/service-system/cluster-services/web-app-building/web-app-building.module.ts
