@@ -39,7 +39,7 @@ index 9abf90caaeedfcd3a2add155517fd1b56ffaeb45..c3bab3e3034916f1eeef41c13b505e02
      {
        invariantKind: "departure",
 diff --git a/alan/harness/monarch/categorize-recent/monarch-categorize-recent.module.ts b/alan/harness/monarch/categorize-recent/monarch-categorize-recent.module.ts
-index 223bfcd577fcd8e41110f0ae6e20ed5b8bb4a69e..8595772d528ba411c84899b388655c0410f08b32 100644
+index 223bfcd577fcd8e41110f0ae6e20ed5b8bb4a69e..b44875a7323a6fbb48bd2e541954597368641b37 100644
 --- a/alan/harness/monarch/categorize-recent/monarch-categorize-recent.module.ts
 +++ b/alan/harness/monarch/categorize-recent/monarch-categorize-recent.module.ts
 @@ -10,7 +10,7 @@ export const monarchCategorizeRecent = {
@@ -48,6 +48,28 @@ index 223bfcd577fcd8e41110f0ae6e20ed5b8bb4a69e..8595772d528ba411c84899b388655c04
        statement:
 -        "The window is the unattended one rather than the trusted one, because this runs without asking.",
 +        "The window is the unattended one rather than the trusted one, because this module runs without asking.",
+     },
+     {
+       invariantKind: "departure",
+@@ -23,7 +23,7 @@ export const monarchCategorizeRecent = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A row claimed by more than one rule is written by none of them, because the rule set is meant to be a partition and this is the audit and the world disagreeing.",
++        "A row claimed by more than one rule is written by none of them, because the rule set is meant to be a partition and a row claimed twice is the audit and the world disagreeing.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/harness/monarch/reconcile/monarch-reconcile.module.ts b/alan/harness/monarch/reconcile/monarch-reconcile.module.ts
+index de4447b7f16e04363d72b02df4f65d99d5e58afe..92a6bc17a26a59f531e8946bc7627c550f7d04f1 100644
+--- a/alan/harness/monarch/reconcile/monarch-reconcile.module.ts
++++ b/alan/harness/monarch/reconcile/monarch-reconcile.module.ts
+@@ -16,7 +16,7 @@ export const monarchReconcile = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A reconciliation that would retire more than a twentieth of what it weighed is refused, because that is the shape of a fetch that did not finish rather than of a deletion.",
++        "A reconciliation that would retire more than a twentieth of what it weighed is refused, because such a reconciliation is the shape of a fetch that did not finish rather than of a deletion.",
      },
      {
        invariantKind: "departure",
