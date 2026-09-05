@@ -14,7 +14,7 @@ export const judgement = {
     {
       invariantKind: "departure",
       statement:
-        "A judgement opens with the act, and what follows is why that act is worth an agent.",
+        "A judgement opens with the act, and the rest says why that act is worth an agent.",
     },
   ],
 } as const satisfies TextProperty
