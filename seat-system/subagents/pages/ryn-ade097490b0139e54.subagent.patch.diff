@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/amazon-match/monarch-amazon-match.module.ts b/alan/harness/monarch/amazon-match/monarch-amazon-match.module.ts
+index cce35c3560046ba79119a0164a32228a8f87641c..68e2cede980cde77d2fb6e3c45aa870d3241ae83 100644
+--- a/alan/harness/monarch/amazon-match/monarch-amazon-match.module.ts
++++ b/alan/harness/monarch/amazon-match/monarch-amazon-match.module.ts
+@@ -41,7 +41,7 @@ export const monarchAmazonMatch = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A note is cut to nine hundred characters, and the order number it ends in is never what is cut.",
++        "A note is cut to nine hundred characters, and the order number the note ends in is never cut.",
+     },
+     {
+       invariantKind: "departure",
