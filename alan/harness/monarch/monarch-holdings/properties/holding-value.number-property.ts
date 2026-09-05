@@ -12,7 +12,7 @@ export const holdingValue = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A value is carried as the sync read it rather than rounded to the cent.",
+      statement: "A value is carried as the sync read that value rather than rounded to the cent.",
     },
   ],
 } as const satisfies NumberProperty
