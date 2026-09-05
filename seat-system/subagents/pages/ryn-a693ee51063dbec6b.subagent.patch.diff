@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/verdict/outcome/outcome.module.ts b/verdict/outcome/outcome.module.ts
+index d3b00db15e768be143a6eee6bfd56bf39e51330e..c189da5ce526453fe32d982018e7af4e67a741e6 100644
+--- a/verdict/outcome/outcome.module.ts
++++ b/verdict/outcome/outcome.module.ts
+@@ -17,7 +17,7 @@ export const outcome = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An advisory carries what the check found without refusing the change.",
++      statement: "An advisory carries the check's findings without refusing the change.",
+     },
+     {
+       invariantKind: "departure",
