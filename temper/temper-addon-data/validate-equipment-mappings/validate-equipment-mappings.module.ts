@@ -26,7 +26,8 @@ export const validateEquipmentMappings = {
     },
     {
       invariantKind: "departure",
-      statement: "What is compared is how many slots a table holds rather than which ids it names.",
+      statement:
+        "The number of slots a table holds is compared rather than the ids that table names.",
     },
   ],
 } as const satisfies Module
