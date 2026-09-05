@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/sleep/reading/sleep-reading.module.ts b/alan/harness/sleep/reading/sleep-reading.module.ts
+index 7309ad25b4399e183b0921dd6b3c58196362efe2..59a61e6cb7cf1e518d6e5086d4ae542128fa5b6c 100644
+--- a/alan/harness/sleep/reading/sleep-reading.module.ts
++++ b/alan/harness/sleep/reading/sleep-reading.module.ts
+@@ -25,7 +25,7 @@ export const sleepReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What to ask and how to read the answer are on the readout's own page.",
++      statement: "The question to ask and how to read the answer are on the readout's own page.",
+     },
+     {
+       invariantKind: "departure",
