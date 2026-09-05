@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts b/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts
-index 86d392ee6ae1448dd6eb96bd31735a1442b6b783..c6fbd4cef6eac80c7021bcc2900cefe226e0f8cd 100644
+index 86d392ee6ae1448dd6eb96bd31735a1442b6b783..aba8c0d4ccbf40671de11c332bbb47869c14790d 100644
 --- a/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts
 +++ b/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts
 @@ -31,7 +31,7 @@ export const lintClean = {
@@ -35,3 +35,12 @@ index 86d392ee6ae1448dd6eb96bd31735a1442b6b783..c6fbd4cef6eac80c7021bcc2900cefe2
      },
      {
        invariantKind: "departure",
+@@ -87,7 +87,7 @@ export const lintClean = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "Only what the linter is configured to read is judged.",
++      statement: "Only the files the linter is configured to read are judged.",
+     },
+   ],
+ } as const satisfies CodeCheck
