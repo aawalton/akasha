@@ -29,6 +29,21 @@ index ef5daffe5d3eddcf39e5b50d4ec711999b41ac6d..81b823fc256a7a420c273b8b95b10051
  import { composeNotices, OUT, pathOf, readIn, saidOf } from "./compose-notices.command.code.ts"
  
  const ROOT = resolve(import.meta.dir, "../..")
+diff --git a/commands/compose-notices/compose-notices.command.ts b/commands/compose-notices/compose-notices.command.ts
+index 2dd25b34f260637296dbb39cf0ff7a2e981cc788..cd09dbb16c93d020ba48db31df0a16ed21dd9b47 100644
+--- a/commands/compose-notices/compose-notices.command.ts
++++ b/commands/compose-notices/compose-notices.command.ts
+@@ -20,8 +20,8 @@ export const composeNotices = {
+     "the JSON is indented two spaces, unlike the other verbs the editor asks, so a caller diffing it reads a match as a match.",
+     "named `--out`, it writes there and says nothing, so a run that wrote prints no line at all.",
+     "a relative `--out` path is read against the repository root rather than the calling folder.",
+-    "the editor's seat revive asks this as a child and reads the `editor-revive` key alone.",
+-    "the supervisor asks the file rather than this command, and reads `restart-immediate`, `restart-deferred` and `restart-recovery-clause`.",
++    "nothing calls this from code: the editor's seat revive and the supervisor both import the compose module and call it.",
++    "the editor reads the `editor-revive` key alone, and the supervisor `restart-immediate`, `restart-deferred` and `restart-recovery-clause`.",
+   ],
+   invariants: [
+     {
 diff --git a/editor-extension/seat-acts/seat-acts.module.code.ts b/editor-extension/seat-acts/seat-acts.module.code.ts
 index 5a1d7faae1f625cd5555213da6b5c0c85b8b16e4..299893f718438e045f3135dd9bfe1d67c74125a6 100644
 --- a/editor-extension/seat-acts/seat-acts.module.code.ts
