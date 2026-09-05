@@ -56,7 +56,7 @@ export const exerciseCommands = {
     {
       invariantKind: "gap",
       statement:
-        "The pre-session digest is not carried yet, so what the digest read is reached one command at a time.",
+        "The pre-session digest is not carried yet, so its readings are reached one command at a time.",
     },
   ],
 } as const satisfies WorkspacePackage
