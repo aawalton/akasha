@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/git/git-pushing/git-pushing.module.ts b/git/git-pushing/git-pushing.module.ts
+index 1cdeb6896aac1625b2e13d099daa53b7a6edc854..93dd5f2dc88ad73676eb4be0eb805de17e4112e5 100644
+--- a/git/git-pushing/git-pushing.module.ts
++++ b/git/git-pushing/git-pushing.module.ts
+@@ -19,7 +19,7 @@ export const gitPushing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A HEAD that is on no branch has nothing to push it as.",
++      statement: "A HEAD that is on no branch has nothing to push that HEAD as.",
+     },
+     {
+       invariantKind: "departure",
