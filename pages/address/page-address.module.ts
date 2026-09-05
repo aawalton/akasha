@@ -18,7 +18,11 @@ export const pageAddress = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug may carry later slashes.",
+      statement: "A slug carries no slash, because a slug is lower kebab case.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A third part names the collection a slug is unique within.",
     },
     {
       invariantKind: "departure",

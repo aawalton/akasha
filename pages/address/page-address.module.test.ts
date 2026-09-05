@@ -20,11 +20,21 @@ test("a page type and a slug are cut at the first slash", () => {
   expect(qualified(addressIn("page-type/domain"))).toEqual(["page-type", "domain"])
 })
 
-test("a slug carrying a later slash keeps it, because only the first cut names a page type", () => {
-  expect(qualified(addressIn("domain/readout-group/personas"))).toEqual([
-    "domain",
-    "readout-group/personas",
-  ])
+test("a third part names the collection a slug is unique within", () => {
+  const one = addressIn("book-section/all-about-alan/notes")
+  expect(one.kind).toBe("scoped")
+  if (one.kind !== "scoped") return
+  expect(one.pageTypeSlug).toBe("book-section")
+  expect(one.scope).toBe("all-about-alan")
+  expect(one.slug).toBe("notes")
+})
+
+test("a fourth part is no address, so the slug it would leave carries a slash", () => {
+  const one = addressIn("a/b/c/d")
+  expect(one.kind).toBe("scoped")
+  if (one.kind !== "scoped") return
+  expect(one.scope).toBe("b")
+  expect(one.slug).toBe("c/d")
 })
 
 test("a slug alone is bare, so what narrows it is the relation rather than the value", () => {
@@ -57,6 +67,7 @@ test("a leading slash names an empty page type rather than no page type", () => 
 test("a slug is taken off a qualified address and an id answers nothing", () => {
   expect(slugIn("page-type/page")).toBe("page")
   expect(slugIn("page")).toBe("page")
+  expect(slugIn("book-section/all-about-alan/notes")).toBe("notes")
   expect(slugIn("01a04e92-bfba-7ca8-b12b-37b6a6a4c408")).toBe(null)
 })
 

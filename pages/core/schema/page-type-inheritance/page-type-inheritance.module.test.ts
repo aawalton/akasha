@@ -55,7 +55,7 @@ test("a ring among page types is answered rather than followed round", () => {
 })
 
 test("a page type naming a parent no page type here holds descends from nothing", () => {
-  const types = [typed("1", "target", null), typed("2", ["orphan", "page-type/gone"])]
+  const types = [typed("1", "target", null), typed("2", "orphan", ["page-type/gone"])]
 
   expect([...resolveDescendantPageTypeIds(types, "1")]).toEqual(["1"])
 })
