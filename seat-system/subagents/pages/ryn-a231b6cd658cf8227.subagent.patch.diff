@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/story/wandering-inn/syncing/syncing.module.ts b/story/wandering-inn/syncing/syncing.module.ts
+index 66edaa1992ac6347245cec2953ad666ac67d5bd8..6f6380457e8acfe9460ce326d183f290f6870a6a 100644
+--- a/story/wandering-inn/syncing/syncing.module.ts
++++ b/story/wandering-inn/syncing/syncing.module.ts
+@@ -13,7 +13,7 @@ export const syncing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A chapter already filed is known by the link it was filed under.",
++      statement: "A chapter already filed is known by the link that chapter was filed under.",
+     },
+     {
+       invariantKind: "departure",
