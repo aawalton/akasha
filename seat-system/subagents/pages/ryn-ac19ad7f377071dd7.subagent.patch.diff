@@ -1,0 +1,12 @@
+diff --git a/infrastructure/inference-commands/inference-upscale/inference-upscale.command.ts b/infrastructure/inference-commands/inference-upscale/inference-upscale.command.ts
+index 66ad3b4756885b17103f4d7c15c5f2cafe12337c..7224e6601b504959e5d2f2487362a12e604c36c2 100644
+--- a/infrastructure/inference-commands/inference-upscale/inference-upscale.command.ts
++++ b/infrastructure/inference-commands/inference-upscale/inference-upscale.command.ts
+@@ -21,7 +21,6 @@ export const inferenceUpscale = {
+     "the host is the cluster where nothing names one, and naming the workstation opts into the card sitting in it.",
+     "on the cluster the work is a Job and the image travels through the object store, and on the workstation it is a container reading a data directory.",
+     "the environment holds where that data directory sits under `UPSCALE_HOME`.",
+-    "a run row is filed whether the remake finished or failed.",
+   ],
+   invariants: [
+     {
