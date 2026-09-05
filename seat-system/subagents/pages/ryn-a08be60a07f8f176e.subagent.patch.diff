@@ -1,0 +1,16 @@
+diff --git a/pages/system-service/page-writing/page-writing.module.ts b/pages/system-service/page-writing/page-writing.module.ts
+index 732be1f8e5ae91115e3d5808cd81545740b31b51..053c994776cff1bf4e40daff886ce00fc3562a90 100644
+--- a/pages/system-service/page-writing/page-writing.module.ts
++++ b/pages/system-service/page-writing/page-writing.module.ts
+@@ -65,10 +65,7 @@ export const pageWriting = {
+       invariantKind: "departure",
+       statement: "A body is formatted before the body lands.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A value a page keeps outside the commit is written beside the page.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement:
