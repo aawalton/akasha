@@ -6,7 +6,7 @@
 // `nav`, `game`, `game-turn`, `game-state`, `idle-game`, `idle-save`, `idle-persona-card`,
 // `persona-cover-image`, `message`, `sms-consent` and `page-property-definition` are none of them
 // filed there, so every question and every write reaching one of those is a feature that is gone
-// until its page type stands in akasha.
+// until its page type is in akasha.
 //
 // GONE IS SAID OUT LOUD RATHER THAN DRAWN AS EMPTY. A caller reads an empty list exactly as it
 // reads a true nothing, and only one of the two is a fault: a save that went unread is not a

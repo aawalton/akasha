@@ -30,7 +30,7 @@ mock.module("@akasha/pages-system-service/calling", () => ({
   },
   originOf: () => "http://stub",
   shapeFor: async (pageTypeSlug: string) => ({
-    refused: `the media page test stands in for no shape, and \`${pageTypeSlug}\` was asked for one`,
+    refused: `the media page test represents no shape, and \`${pageTypeSlug}\` was asked for one`,
   }),
 }))
 

@@ -21,7 +21,7 @@ const READING_STORY_SLUG = "reading-story"
 // THE VOICED PERSONAS ARE ASKED OF THE PAGES RATHER THAN NAMED AT THE OLD ENGINE. This read the
 // `persona-all` saved query, and `askNamed` refuses with 501 now. `persona` is a page type the
 // pages system service holds and `voiceReferenceSha256` is a key it declares, so the same set
-// comes back from a question asked here. The filter still stands in `voicedPersonasIn` rather
+// comes back from a question asked here. The filter remains in `voicedPersonasIn` rather
 // than in the `where`: which personas carry a voice reference is the one thing this reads for,
 // and reading it off the rows keeps the refusal below able to tell an unread set from an empty
 // one.
