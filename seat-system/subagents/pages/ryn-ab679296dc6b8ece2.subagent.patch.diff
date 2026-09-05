@@ -1,5 +1,5 @@
 diff --git a/commands/page-tree/page-tree.command.ts b/commands/page-tree/page-tree.command.ts
-index bc6da6b08e4a6acfcaeb46ca2098cc153508f005..e9cfb24318aa1744520a30fbaf0765dfd764b9a7 100644
+index bc6da6b08e4a6acfcaeb46ca2098cc153508f005..9e7f04b1a6e1b3387a086150381bbc4cc446f63c 100644
 --- a/commands/page-tree/page-tree.command.ts
 +++ b/commands/page-tree/page-tree.command.ts
 @@ -37,7 +37,7 @@ export const pageTree = {
@@ -8,6 +8,16 @@ index bc6da6b08e4a6acfcaeb46ca2098cc153508f005..e9cfb24318aa1744520a30fbaf0765df
        statement:
 -        "A property is named bare where that is unambiguous and `kind/slug` where it is not.",
 +        "A property is named bare where that is unambiguous and `kind/slug` where the bare name is not.",
+     },
+     {
+       invariantKind: "departure",
+@@ -50,7 +50,8 @@ export const pageTree = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row names the checkout it was read from ahead of the path inside it.",
++      statement:
++        "A row names the checkout that row was read from ahead of the path inside that checkout.",
      },
      {
        invariantKind: "departure",
