@@ -1,0 +1,143 @@
+diff --git a/infrastructure/inference-clients/inference-clients.workspace-package.ts b/infrastructure/inference-clients/inference-clients.workspace-package.ts
+index 36f41174cc20d3c275b3e3dbe311ecaf8fb2bbb9..227c96c2ef9958e91a14486cded2c76f0d91c507 100644
+--- a/infrastructure/inference-clients/inference-clients.workspace-package.ts
++++ b/infrastructure/inference-clients/inference-clients.workspace-package.ts
+@@ -34,7 +34,7 @@ export const inferenceClients = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows which host a service stands on.",
++      statement: "Nothing here knows which host a service is on.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
+diff --git a/infrastructure/inference-clients/mlx-image-client/mlx-image-client.module.ts b/infrastructure/inference-clients/mlx-image-client/mlx-image-client.module.ts
+index 7e2ee9c4a6d475bcb5e2489f85e75661911cf6f2..fb0ef9eb313c9eaad51847c1452c31d554ecff91 100644
+--- a/infrastructure/inference-clients/mlx-image-client/mlx-image-client.module.ts
++++ b/infrastructure/inference-clients/mlx-image-client/mlx-image-client.module.ts
+@@ -13,7 +13,7 @@ export const mlxImageClient = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A generation size stands between 256 and 4096 and falls on a multiple of 16.",
++      statement: "A generation size is between 256 and 4096 and falls on a multiple of 16.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/infrastructure/inference-clients/voice-clone-client/voice-clone-client.module.ts b/infrastructure/inference-clients/voice-clone-client/voice-clone-client.module.ts
+index 29059f5de2b7814e3681289ade3779bf42963422..8055811a76ba4f09e2c75fecc4b047f38af12e30 100644
+--- a/infrastructure/inference-clients/voice-clone-client/voice-clone-client.module.ts
++++ b/infrastructure/inference-clients/voice-clone-client/voice-clone-client.module.ts
+@@ -13,7 +13,7 @@ export const voiceCloneClient = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The reference clip is named where it stands on the service's host.",
++      statement: "The reference clip is named where it is on the service's host.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/infrastructure/inference-pool/inference-hosts/inference-hosts.module.ts b/infrastructure/inference-pool/inference-hosts/inference-hosts.module.ts
+index 80c62cf0b83ba197c53db7ea24f969a6c71f4d4e..d4e56221d7ce0802f578a2b752690886dc008a09 100644
+--- a/infrastructure/inference-pool/inference-hosts/inference-hosts.module.ts
++++ b/infrastructure/inference-pool/inference-hosts/inference-hosts.module.ts
+@@ -4,7 +4,7 @@ export const inferenceHosts = {
+   id: "01a0685d-4b35-7002-9349-0c26e47c4b8f",
+   pageTypeSlug: "module",
+   slug: "inference-hosts",
+-  definition: "the machines inference services stand on and how to reach each one",
++  definition: "the machines inference services are on and how to reach each one",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/infrastructure/inference-pool/inference-pool.workspace-package.ts b/infrastructure/inference-pool/inference-pool.workspace-package.ts
+index 93990d09189197b28430d72a09295be6aa48861a..f10bb6e292a9a55cd3522cdeb5b294749638f72e 100644
+--- a/infrastructure/inference-pool/inference-pool.workspace-package.ts
++++ b/infrastructure/inference-pool/inference-pool.workspace-package.ts
+@@ -52,7 +52,7 @@ export const inferencePool = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A service standing on the host that nothing here declares is torn down.",
++      statement: "A service on the host that nothing here declares is torn down.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/infrastructure/inference-pool/inference-reconcile/inference-reconcile.module.ts b/infrastructure/inference-pool/inference-reconcile/inference-reconcile.module.ts
+index 83c88d663d96ceed6cbe6d4d52edaf8b3e46fb98..fbd5fdae0bfa38b5d66e3169a91c904d4c31cf7b 100644
+--- a/infrastructure/inference-pool/inference-reconcile/inference-reconcile.module.ts
++++ b/infrastructure/inference-pool/inference-reconcile/inference-reconcile.module.ts
+@@ -4,7 +4,7 @@ export const inferenceReconcile = {
+   id: "01a0685d-4b35-700c-9b4c-80e9256ed4e8",
+   pageTypeSlug: "module",
+   slug: "inference-reconcile",
+-  definition: "bringing what stands on an inference host to what this repository declares",
++  definition: "bringing what is on an inference host to what this repository declares",
+   code: "ts",
+   invariants: [
+     { invariantKind: "departure", statement: "The plan is printed before anything is applied." },
+diff --git a/infrastructure/inference-pool/inference-services/inference-services.module.ts b/infrastructure/inference-pool/inference-services/inference-services.module.ts
+index 324ab37671a3101045103bda841f18aae35a0398..d776f7f2868fbf470924e79d502721e3f5613fac 100644
+--- a/infrastructure/inference-pool/inference-services/inference-services.module.ts
++++ b/infrastructure/inference-pool/inference-services/inference-services.module.ts
+@@ -14,7 +14,7 @@ export const inferenceServices = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A service absent from this declaration is torn down rather than left standing.",
++      statement: "A service absent from this declaration is torn down rather than left in place.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/infrastructure/inference-pool/reconcile-plan/reconcile-plan.module.ts b/infrastructure/inference-pool/reconcile-plan/reconcile-plan.module.ts
+index 7143ad52f565d9bab47ad586beb04f70c200684f..dc13406734801fc192162c4dbcd7006efb9c6a3a 100644
+--- a/infrastructure/inference-pool/reconcile-plan/reconcile-plan.module.ts
++++ b/infrastructure/inference-pool/reconcile-plan/reconcile-plan.module.ts
+@@ -4,7 +4,7 @@ export const reconcilePlan = {
+   id: "01a0685d-4b35-7009-a74b-6d64dd6c2f08",
+   pageTypeSlug: "module",
+   slug: "reconcile-plan",
+-  definition: "what stands on a host set against what is declared, read as apply, skip or prune",
++  definition: "what is on a host set against what is declared, read as apply, skip or prune",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/infrastructure/inference-runs/generation-log/generation-log.module.code.ts b/infrastructure/inference-runs/generation-log/generation-log.module.code.ts
+index e03ef9dcda0271dfbd3b2b5ae5f4dbc5829c63fc..c6b6bae0de9a261663de034b27ab93748925940e 100644
+--- a/infrastructure/inference-runs/generation-log/generation-log.module.code.ts
++++ b/infrastructure/inference-runs/generation-log/generation-log.module.code.ts
+@@ -18,7 +18,7 @@ export function rowValuesOf(properties: Readonly<Record<string, Json>>): Record<
+   return values
+ }
+ 
+-// A GENERATION IS LOGGED AS A ROW, AND NOTHING LANDS A ROW. A row stands inside a page's body
++// A GENERATION IS LOGGED AS A ROW, AND NOTHING LANDS A ROW. A row sits inside a page's body
+ // rather than at a path of its own, and the store addresses paths and whole bodies, so `writeRow`
+ // and `patchRow` refuse every call — they have since 4c1f05a264 severed the checkout branch that
+ // used to land them. Both functions below asked anyway and threw on the refusal, so every
+diff --git a/infrastructure/inference-runs/generation-log/generation-log.module.ts b/infrastructure/inference-runs/generation-log/generation-log.module.ts
+index 6e9625414e75ef9935ac9df7e5d0795807e26d17..a86860083f49959db8e8f8be3c3c1d726d6f92fc 100644
+--- a/infrastructure/inference-runs/generation-log/generation-log.module.ts
++++ b/infrastructure/inference-runs/generation-log/generation-log.module.ts
+@@ -10,7 +10,7 @@ export const generationLog = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A row is refused rather than written, because a row stands inside a page's body and the store addresses paths.",
++        "A row is refused rather than written, because a row sits inside a page's body and the store addresses paths.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/infrastructure/inference-runs/inference-runs.workspace-package.ts b/infrastructure/inference-runs/inference-runs.workspace-package.ts
+index 7d174c01b84c3247356b1f1d9c6bc97d8a829353..932f893853a1dfa576d76b4aa79d23af01788fe4 100644
+--- a/infrastructure/inference-runs/inference-runs.workspace-package.ts
++++ b/infrastructure/inference-runs/inference-runs.workspace-package.ts
+@@ -35,7 +35,7 @@ export const inferenceRuns = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows which host a service stands on.",
++      statement: "Nothing here knows which host a service is on.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
