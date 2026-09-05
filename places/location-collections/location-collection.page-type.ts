@@ -26,7 +26,8 @@ export const locationCollection = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A collection lists no place of its own; a place names the collection it is in.",
+      statement:
+        "A collection lists no place of its own; a place names the collection that place is in.",
     },
   ],
 } as const satisfies PageType
