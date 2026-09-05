@@ -51,3 +51,16 @@ index fc7e1ef1221d670ccc8608eb0e849e956c4073dc..a46021785e7cf104b10217c3401615ce
      },
      {
        invariantKind: "departure",
+diff --git a/collections/royal-road/royal-road-syncing/royal-road-syncing.module.ts b/collections/royal-road/royal-road-syncing/royal-road-syncing.module.ts
+index 5fdbacae0c29adfbe26390f450d1e32a57c9a17b..f61306237f7c1e8438f01c5fbed30ca273f2b902 100644
+--- a/collections/royal-road/royal-road-syncing/royal-road-syncing.module.ts
++++ b/collections/royal-road/royal-road-syncing/royal-road-syncing.module.ts
+@@ -54,7 +54,7 @@ export const royalRoadSyncing = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A story's status is restated from royal road only where royal road says ongoing, completed or hiatus.",
++        "A story's status is restated only where royal road says ongoing, completed or hiatus.",
+     },
+     {
+       invariantKind: "departure",
