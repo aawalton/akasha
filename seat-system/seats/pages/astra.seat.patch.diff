@@ -158,6 +158,21 @@ index 0000000000000000000000000000000000000000..f88a3f54ea8158ab73e6719431f1efc3
 +    "module/view-data-locked",
 +  ],
 +} as const satisfies Domain
+diff --git a/pages/core/view-state/pages-core-view-state.domain.ts b/pages/core/view-state/pages-core-view-state.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6e5d28be32ca02ddc5feec08223e94217418a3e1
+--- /dev/null
++++ b/pages/core/view-state/pages-core-view-state.domain.ts
+@@ -0,0 +1,9 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesCoreViewState = {
++  id: "01a071cb-7212-7f03-b59e-099c65e92766",
++  pageTypeSlug: "domain",
++  slug: "pages-core-view-state",
++  definition: "what a view holds between one change and the next",
++  partSlugs: ["module/reducers", "module/view-state-change"],
++} as const satisfies Domain
 diff --git a/pages/core/view/pages-core-view.domain.ts b/pages/core/view/pages-core-view.domain.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..ac9c541a523b55304ea156464e22c1bf623ec837
