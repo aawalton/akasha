@@ -183,3 +183,11 @@ index 381bc284180a4db1d42d726a94cac128f5d8dcbb..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../google/oauth
 \ No newline at end of file
+diff --git a/infrastructure/analysis-complexity/analysis-complexity b/infrastructure/analysis-complexity/analysis-complexity
+deleted file mode 120000
+index 6cc54fab69f6e613fcc00a24ffcbf9a0e018c035..0000000000000000000000000000000000000000
+--- a/infrastructure/analysis-complexity/analysis-complexity
++++ /dev/null
+@@ -1 +0,0 @@
+-../../infrastructure/analysis-complexity
+\ No newline at end of file
