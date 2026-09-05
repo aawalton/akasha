@@ -11,3 +11,16 @@ index 751966b37201aa742d70f595f2a30501a525fc98..a6c02badd49eeb74561d4c7ac516114e
      "the files beside a path given to --remove go with it, and no list naming that page is mended.",
      "a file has to be what this call read it as, wherever in the repository that file is.",
      "the change is kept in the patch beside this agent's page, and `akasha patch apply` lands it.",
+diff --git a/commands/replace/replace.command.ts b/commands/replace/replace.command.ts
+index 095e6214c84fc1bd0ee765c9125a59986f5a200e..5ba6a75ac2a11ac79236dfd23b0c2224c9ba4a1e 100644
+--- a/commands/replace/replace.command.ts
++++ b/commands/replace/replace.command.ts
+@@ -22,6 +22,8 @@ export const replace = {
+     "the passage and what it becomes are files or standard input, never text said on the command line.",
+     "a call stating no --old-file reads the passage from standard input.",
+     "a passage piped in sits between <<<<<<< old and =======, and what it becomes before >>>>>>> new.",
++    "a payload names a run of its own on the line it opens with, so a passage may carry a marker line.",
++    "opening at <<<<<<<ZZ old marks that payload with =======ZZ and >>>>>>>ZZ new throughout.",
+     "the passage is matched as the bytes it is rather than as a pattern.",
+     "a file named that holds the passage nowhere refuses the call, so name only the files that change.",
+     "--dry-run is how the files that hold the passage are found.",
