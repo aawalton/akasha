@@ -553,6 +553,20 @@ index 6d3cbfb78d7176dc253e16a639f538f098deb3d9..00000000000000000000000000000000
 -  definition: "the type a property's spelling declares and the value a raw reading holds",
 -  code: "ts",
 -} as const satisfies Module
+diff --git a/pages/formula/package.json b/pages/formula/package.json
+index 2682599ee622465f1852fc8fd7df5753ae48ab8b..775ea37bc1ed0061c24d4bd91c6ea733763fcdb5 100644
+--- a/pages/formula/package.json
++++ b/pages/formula/package.json
+@@ -3,8 +3,7 @@
+   "private": true,
+   "type": "module",
+   "exports": {
+-    ".": "./formula-language/formula-language.module.code.ts",
+-    "./held": "./formula-held/formula-held.module.code.ts"
++    ".": "./formula-language/formula-language.module.code.ts"
+   },
+   "dependencies": {
+     "@akasha/utils-narrow": "workspace:*"
 diff --git a/pages/formulas/page-formulas.module.code.ts b/pages/formulas/page-formulas.module.code.ts
 deleted file mode 100644
 index f94212804bcbae80500e6aceab1984720036dedf..0000000000000000000000000000000000000000
