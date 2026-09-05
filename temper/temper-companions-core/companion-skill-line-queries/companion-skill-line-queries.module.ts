@@ -9,7 +9,7 @@ export const companionSkillLineQueries = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One-handed weapons pick their skill line from what sits in the off hand.",
+      statement: "One-handed weapons pick their skill line from the item in the off hand.",
     },
     {
       invariantKind: "constraint",
