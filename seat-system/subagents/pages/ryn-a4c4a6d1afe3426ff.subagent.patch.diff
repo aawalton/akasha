@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/modules/check-scratch/check-scratch.module.ts b/checks/modules/check-scratch/check-scratch.module.ts
+index dd4c5b65c8bdd70682704b3b8ac51e953a666eb4..51b6aea4d3afb73dc7341eb67e281e27a47622dc 100644
+--- a/checks/modules/check-scratch/check-scratch.module.ts
++++ b/checks/modules/check-scratch/check-scratch.module.ts
+@@ -15,7 +15,7 @@ export const checkScratch = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An entry is one line of JSON in a file named for what the entry answers to.",
++      statement: "An entry is one line of JSON in a file named for the question the entry answers.",
+     },
+     {
+       invariantKind: "departure",
