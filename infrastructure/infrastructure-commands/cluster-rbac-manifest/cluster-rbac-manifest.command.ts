@@ -10,7 +10,7 @@ export const clusterRbacManifest = {
   taking: [],
   helpNotes: [
     "the document carries the `pipeline-engine` service account, the cluster-deploy role and its binding, and the ci namespace role and binding.",
-    "the profiles the namespace roles are read from stand under the repository root, so nothing here is named a tree to read.",
+    "the profiles the namespace roles are read from are under the repository root, so nothing here is named a tree to read.",
     "nothing is reported where the cluster role would not cover every permission a namespace role grants.",
     "Kubernetes would refuse such a role at the deploy applying it, and writing the incomplete cluster role first is what puts the cluster there.",
     "the gaps named in that refusal are the gaps the rbac-escalation check names.",

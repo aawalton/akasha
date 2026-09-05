@@ -21,7 +21,7 @@ export const talosHealth = {
   ],
   helpNotes: [
     "the check reports on etcd, apid, the kubelet and control-plane readiness, and is what confirms a cluster before a smoke test.",
-    "the etcd-membership arm fails unless every member's address stands in `--control-plane-ips`, so a multi-node cluster names them all.",
+    "the etcd-membership arm fails unless every member's address is in `--control-plane-ips`, so a multi-node cluster names them all.",
     "naming no control-plane addresses makes the one node asked the whole control plane, which is right for a single-node cluster.",
     "the talosconfig is read from `<home>/.talos/<cluster>.config`, where `talos-apply` wrote it.",
     "talosctl writes the check's own output to the streams this was called on, so that output is not in the report.",
@@ -29,7 +29,7 @@ export const talosHealth = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A talosconfig that does not stand refuses the check.",
+      statement: "A talosconfig that is not there refuses the check.",
     },
     {
       invariantKind: "departure",

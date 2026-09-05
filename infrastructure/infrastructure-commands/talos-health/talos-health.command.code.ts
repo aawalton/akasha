@@ -82,7 +82,7 @@ async function checking(read: Named, given: Given): Promise<Answer> {
     return {
       report: [],
       refusals: [
-        `no talosconfig stands at ${talosconfig}`,
+        `no talosconfig is at ${talosconfig}`,
         `\`${given.calledAs} talos-apply --node <id> ${IP} ${read.ip}\` writes it, and this reads it`,
       ],
       code: INPUT,

@@ -21,7 +21,7 @@ export const talosApply = {
     "the control-plane endpoint is the cluster's VIP where the cluster states one, so issuer and audience match across its members.",
     "the machine type follows the node's role, so a worker takes worker.yaml and every other role takes controlplane.yaml.",
     "the talosconfig generated here is written under the home directory at mode 0600, and the later talos acts read it there.",
-    "talosctl and sops must stand on PATH, and the cluster's secrets must have been generated already.",
+    "talosctl and sops must be on PATH, and the cluster's secrets must have been generated already.",
     "talosctl writes its own progress to the streams this was called on, so that output is not in the report.",
   ],
   invariants: [
@@ -39,7 +39,8 @@ export const talosApply = {
     },
     {
       invariantKind: "departure",
-      statement: "A cluster whose secrets do not stand refuses the apply rather than writing them.",
+      statement:
+        "A cluster whose secrets are not there refuses the apply rather than writing them.",
     },
     {
       invariantKind: "departure",
