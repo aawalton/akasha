@@ -19,6 +19,10 @@ export const stateSubagent = {
     },
     {
       invariantKind: "departure",
+      statement: "A subagent resuming takes up the page that subagent had.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The seat is named by the page the index carries for the id the call runs under.",
     },
     {

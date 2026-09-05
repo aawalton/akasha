@@ -7,6 +7,7 @@ export const subagentPresence = {
   definition: "a subagent's page put up while it works and taken away when it is done",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -22,11 +23,31 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A page states no id.",
+      statement: "A page composed states no id.",
     },
     {
       invariantKind: "departure",
-      statement: "What lands a page mints the id the page keeps.",
+      statement: "What lands a page composed mints the id the page keeps.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent whose page is in history takes up that page rather than a new one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page taken up is the one the newest commit wrote at the same path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is taken up only where the agent id it states is the one asked for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page taken up keeps the id, the assignment and the kind that page carried.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The commit says whether the page was taken up or composed.",
     },
     {
       invariantKind: "departure",
@@ -38,11 +59,11 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A page states the assignment its seat states.",
+      statement: "A page composed states the assignment its seat states.",
     },
     {
       invariantKind: "departure",
-      statement: "A seat stating no assignment writes nothing.",
+      statement: "A seat stating no assignment writes nothing where no page is in history either.",
     },
     {
       invariantKind: "departure",
