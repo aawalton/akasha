@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/editor-extension/domain-tree-view/domain-tree-view.module.ts b/editor-extension/domain-tree-view/domain-tree-view.module.ts
+index 705b1ee7cb6301e1deb0d57a5225b92d50840aae..2780b7abc696128fcf18f89ba4f37fe7980ca04b 100644
+--- a/editor-extension/domain-tree-view/domain-tree-view.module.ts
++++ b/editor-extension/domain-tree-view/domain-tree-view.module.ts
+@@ -25,7 +25,8 @@ export const domainTreeView = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row is identified apart while a filter is there, so the editor redraws it.",
++      statement:
++        "A row is identified apart while a filter is there, so the editor redraws that row.",
+     },
+     {
+       invariantKind: "departure",
