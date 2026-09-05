@@ -1,0 +1,1055 @@
+diff --git a/checks/code-checks/code-check.page-type.ts b/checks/code-checks/code-check.page-type.ts
+index d394d31839d33f1934167891d4a5d9b6604c3b45..5d068de32c8ae05889dd9b3b6df93bbab12fcd2e 100644
+--- a/checks/code-checks/code-check.page-type.ts
++++ b/checks/code-checks/code-check.page-type.ts
+@@ -71,7 +71,6 @@ export const codeCheck = {
+     "code-check/invariant-statement-is-plain",
+     "code-check/tests-pass",
+     "code-check/typecheck",
+-    "code-check/typescript-7",
+   ],
+   extendsSlug: ["page-type/module"],
+   loadedBySlug: "module/checking",
+diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts
+index 45fb57f05c5d861089db72f17da6ebea1803a521..77f3ae757fb8c79b45b50f08e884ed0506259f35 100644
+--- a/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts
++++ b/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts
+@@ -1,14 +1,13 @@
+-import { dirname, resolve } from "node:path"
++import { readdirSync } from "node:fs"
++import { dirname, join, resolve } from "node:path"
+ import { textIn } from "@akasha/code-system/body-text"
+-import { lineAt, parsedAs } from "@akasha/code-system/code-source"
++import { parsedAs } from "@akasha/code-system/code-source"
+ import {
+   compiled,
+-  insideOf,
+   linkedOf,
+   manifested,
+-  programKeptOver,
+-  programOver,
+   readingOf,
++  servedOf,
+ } from "@akasha/code-system/code-typing"
+ import { reachesIn } from "@akasha/code-system/package-manifest"
+ import { rootRoute } from "@akasha/code-system/router-app/root-route"
+@@ -20,10 +19,11 @@ import type { Change } from "@akasha/pages-system/change"
+ import { pageNamed } from "@akasha/pages-system/page-file-name"
+ import type { Shadow } from "@akasha/pages-system/shadow"
+ import ts from "typescript"
++import { API } from "typescript-7/unstable/async"
+ import type { Body, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"
+ import {
+   FILES,
+-  input,
++  inputAsync,
+   textNamed,
+ } from "../../../modules/change-walking/change-walking.module.code.ts"
+ import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+@@ -40,6 +40,24 @@ const ROUTES = "routes/"
+ 
+ const DECLARED = ".d.ts"
+ 
++const CONFIG_NAME = "tsconfig.typecheck.json"
++
++const TYPES_AT = "node_modules/@types"
++
++const FIRST_LINE = 1
++
++const SETTINGS = {
++  noEmit: true,
++  strict: true,
++  noUncheckedIndexedAccess: true,
++  allowImportingTsExtensions: true,
++  module: "preserve",
++  moduleResolution: "bundler",
++  target: "esnext",
++  skipLibCheck: true,
++  jsx: "react-jsx",
++} as const
++
+ export type Found = {
+   readonly path: string
+   readonly reason: string
+@@ -96,15 +114,6 @@ export function rootsOf(change: Change, index: Answering): readonly string[] {
+   return held.filter((one) => !routed(one, folders))
+ }
+ 
+-export function wholeIn(named: ReadonlySet<string>, change: Change, index: Answering): boolean {
+-  const folders = routingIn(index)
+-  for (const one of index.everyPath()) {
+-    if (!compiled(one) || routed(one, folders) || named.has(one)) continue
+-    if (change.after(one) !== null) return false
+-  }
+-  return true
+-}
+-
+ export function declaringIn(change: Change, index: Answering): readonly string[] {
+   const held = index.everyPath()
+   return held.filter((one) => compiled(one) && one.endsWith(DECLARED) && change.after(one) !== null)
+@@ -154,50 +163,103 @@ export function bodiesOf(change: Change, minting: Minting): (at: string) => stri
+   }
+ }
+ 
+-export function foundOf(root: string, said: ts.Diagnostic): Found {
+-  const text = ts.flattenDiagnosticMessageText(said.messageText, " ")
+-  if (said.file === undefined || said.start === undefined) {
++export function typesIn(root: string): readonly string[] {
++  try {
++    return readdirSync(join(root, TYPES_AT)).sort()
++  } catch {
++    return []
++  }
++}
++
++export function configOf(root: string, named: readonly string[]): string {
++  return JSON.stringify({ compilerOptions: { ...SETTINGS, types: typesIn(root) }, files: named })
++}
++
++export function servingOf(
++  root: string,
++  at: string,
++  config: string,
++  read: (path: string) => string | undefined
++): (name: string) => string | null | undefined {
++  return (name) => {
++    if (name === at) return config
++    if (servedOf(root, resolve(name)) === null) return undefined
++    const body = read(name)
++    return body === undefined ? null : body
++  }
++}
++
++export function existingOf(
++  served: (name: string) => string | null | undefined
++): (name: string) => boolean | undefined {
++  return (name) => {
++    const body = served(name)
++    return body === undefined ? undefined : body !== null
++  }
++}
++
++export type Diagnosed = {
++  readonly fileName?: string
++  readonly code: number
++  readonly text: string
++  readonly startPosition?: { readonly line: number }
++  readonly messageChain?: readonly Diagnosed[]
++}
++
++function saidIn(said: Diagnosed): string {
++  const held = [said.text]
++  for (const one of said.messageChain ?? []) held.push(saidIn(one))
++  return held.join(" ")
++}
++
++export function foundOf(root: string, said: Diagnosed): Found {
++  const text = saidIn(said)
++  if (said.fileName === undefined) {
+     throw new Error(
+       `the compiler said \`TS${said.code}: ${text}\`, which names no file it could be kept against`
+     )
+   }
+-  const line = lineAt(said.file, said.start)
+-  const at = insideOf(root, resolve(said.file.fileName))
++  const line = (said.startPosition?.line ?? 0) + FIRST_LINE
++  const at = servedOf(root, resolve(said.fileName))
+   return {
+-    path: at ?? said.file.fileName,
++    path: at ?? said.fileName,
+     reason: `line ${line}: TS${said.code}: ${text}`,
+   }
+ }
+ 
+-export function foundIn(change: Change, shadow: Shadow): readonly Found[] {
++export async function foundIn(change: Change, shadow: Shadow): Promise<readonly Found[]> {
+   const roots = rootsOf(change, shadow.index)
+   if (roots.length === 0) return []
+   const root = resolve(change.root)
+-  const keys = [...waitingKeys(shadow)]
+-  const read = bodiesOf(change, mintingIn(change, keys, shadow.index))
++  const read = bodiesOf(change, mintingIn(change, [...waitingKeys(shadow)], shadow.index))
+   const named = [...new Set([...roots, ...declaringIn(change, shadow.index)])]
+-  const whole = wholeIn(new Set(named), change, shadow.index)
+-  const program = whole ? programKeptOver(root, named, read) : programOver(root, named, read)
+-  const held = new Map<string, ts.SourceFile>()
+-  for (const file of program.getSourceFiles()) {
+-    const at = insideOf(root, resolve(file.fileName))
+-    if (at !== null) held.set(at, file)
+-  }
+-  const found: Found[] = []
+-  for (const one of roots) {
+-    const file = held.get(one)
+-    if (file === undefined) continue
+-    const said = [...program.getSyntacticDiagnostics(file), ...program.getSemanticDiagnostics(file)]
+-    for (const diagnostic of said) found.push(foundOf(root, diagnostic))
++  const at = join(root, CONFIG_NAME)
++  const served = servingOf(root, at, configOf(root, named), read)
++  const api = new API({ cwd: root, fs: { readFile: served, fileExists: existingOf(served) } })
++  try {
++    const snapshot = await api.updateSnapshot({ openProjects: [at] })
++    const project = await snapshot.getProject(at)
++    if (project === undefined) throw new Error(`${CONFIG_NAME} named nothing a check could read`)
++    const program = await project.program
++    const found: Found[] = []
++    for (const one of roots) {
++      const file = join(root, one)
++      for (const said of await program.getSyntacticDiagnostics(file)) {
++        found.push(foundOf(root, said))
++      }
++      for (const said of await program.getSemanticDiagnostics(file)) found.push(foundOf(root, said))
++    }
++    return found
++  } finally {
++    await api.close()
+   }
+-  return found
+ }
+ 
+-function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
++async function refusalsIn(change: Change, shadow: Shadow): Promise<readonly Judged[]> {
+   const changed = new Set(change.changed)
+   const seen = new Set<string>()
+   const said: Judged[] = []
+-  for (const one of foundIn(change, shadow)) {
++  for (const one of await foundIn(change, shadow)) {
+     const key = `${one.path}\n${one.reason}`
+     if (seen.has(key)) continue
+     seen.add(key)
+@@ -207,4 +269,4 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
+   return said
+ }
+ 
+-export const typecheck = input(BUILT, refusalsIn)
++export const typecheck = inputAsync(BUILT, refusalsIn)
+diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
+index 7632d65c7b309284cdfd039e35e23ba9fcd4a5f8..5476c1005036c4f08eb7910c536eb8ed2aaf9ff7 100644
+--- a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
++++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
+@@ -4,9 +4,18 @@ import { join } from "node:path"
+ import { stampTakenFrom } from "@akasha/indexes/testing"
+ import type { Change } from "@akasha/pages-system/change"
+ import { shadowAsked, shadowFor } from "@akasha/pages-system/shadow"
+-import ts from "typescript"
+ import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+-import { foundOf, omittingIn, reachedBy, rootsOf, typecheck } from "./typecheck.code-check.code.ts"
++import {
++  configOf,
++  existingOf,
++  foundOf,
++  omittingIn,
++  reachedBy,
++  rootsOf,
++  servingOf,
++  typecheck,
++  typesIn,
++} from "./typecheck.code-check.code.ts"
+ import {
+   change,
+   declared,
+@@ -22,6 +31,8 @@ afterAll(scratch.sweep)
+ 
+ const NAMING_NO_COMMIT = "names no commit"
+ 
++const HERE = "/var/home/walton/repos/akasha"
++
+ const THING_AT = "akasha/one.thing.ts"
+ 
+ const READS_ITS_TYPE = 'import type { Thing } from "./thing.page-type.ts"\n\n'
+@@ -32,10 +43,10 @@ const WITHOUT = `${READS_ITS_TYPE}export const one = { slug: "one" } as const sa
+ 
+ const WRONG = `${READS_ITS_TYPE}export const one = { slug: 1 } as const satisfies Thing\n`
+ 
+-function judged(change: Change): readonly Judged[] {
++async function judged(change: Change): Promise<readonly Judged[]> {
+   const cast = shadowFor(change)
+   if ("refused" in cast) throw new Error(cast.refused)
+-  return typecheck(change, cast.shadow)
++  return await typecheck(change, cast.shadow)
+ }
+ 
+ function reached(one: Change): readonly string[] {
+@@ -44,22 +55,58 @@ function reached(one: Change): readonly string[] {
+   return reachedBy(one, cast.shadow.index)
+ }
+ 
+-function over(root: string, path: string, body: string | null): readonly Judged[] {
+-  return judged(change(root, { [path]: body }))
++async function over(root: string, path: string, body: string | null): Promise<readonly Judged[]> {
++  return await judged(change(root, { [path]: body }))
+ }
+ 
+-test("a page the change takes away leaves what its page type says loads it uncompiled", () => {
++test("the settings name every ambient type the packages folder holds", () => {
++  const held = typesIn(HERE)
++  expect(held.length).toBeGreaterThan(0)
++  expect(held).toContain("bun")
++})
++
++test("the settings carry the files judged", () => {
++  const said: { compilerOptions: { types: string[] }; files: string[] } = JSON.parse(
++    configOf(HERE, ["one.ts", "two.ts"])
++  )
++  expect(said.files).toEqual(["one.ts", "two.ts"])
++  expect(said.compilerOptions.types).toContain("bun")
++})
++
++test("the config is answered at the path the compiler was told to open", () => {
++  const at = `${HERE}/tsconfig.typecheck.json`
++  const serving = servingOf(HERE, at, "{}", (path) =>
++    path.endsWith("held.ts") ? "export const held = 1" : undefined
++  )
++  expect(serving(at)).toBe("{}")
++  expect(serving(`${HERE}/held.ts`)).toBe("export const held = 1")
++  expect(serving(`${HERE}/gone.ts`)).toBeNull()
++  expect(serving("/etc/hostname")).toBeUndefined()
++})
++
++test("a path the served reader knows is absent is answered as absent rather than as unknown", () => {
++  const at = `${HERE}/tsconfig.typecheck.json`
++  const serving = servingOf(HERE, at, "{}", (path) =>
++    path.endsWith("held.ts") ? "export const held = 1" : undefined
++  )
++  const existing = existingOf(serving)
++  expect(existing(`${HERE}/held.ts`)).toBe(true)
++  expect(existing(`${HERE}/gone.ts`)).toBe(false)
++  expect(existing("/etc/hostname")).toBeUndefined()
++})
++
++test("a page the change takes away leaves what its page type says loads it uncompiled", async () => {
+   const root = declaring()
+   const gone = change(root, { [LOADED_AT]: null })
+   const cast = shadowFor(gone)
+   if ("refused" in cast) throw new Error(cast.refused)
+   expect(rootsOf(gone, cast.shadow.index)).toEqual([])
+-  expect(typecheck(gone, cast.shadow)).toEqual([])
++  expect(await typecheck(gone, cast.shadow)).toEqual([])
+ })
+ 
+-test("a declaration file akasha holds names a global for a change no import reaches it from", () => {
++test("a declaration file akasha holds names a global for a change no import reaches it from", async () => {
+   const root = declared({ "akasha/one.ts": "export const one = 1\n" })
+-  expect(over(root, "akasha/one.ts", "export const one = HELD_ONE\n")).toEqual([])
++  expect(await over(root, "akasha/one.ts", "export const one = HELD_ONE\n")).toEqual([])
+ })
+ 
+ test("a satisfies clause is narrowed where it stands, and the body keeps every line it had", () => {
+@@ -81,40 +128,40 @@ test("a body carrying no satisfies clause narrows to nothing, so it is judged as
+   expect(omittingIn("akasha/one.ts", "export const one = 1\n", ["held"])).toBe(null)
+ })
+ 
+-test("a page being created compiles without the property a generator fills after the checks", () => {
+-  expect(judged(change(generating({}), { [THING_AT]: WITHOUT }))).toEqual([])
++test("a page being created compiles without the property a generator fills after the checks", async () => {
++  expect(await judged(change(generating({}), { [THING_AT]: WITHOUT }))).toEqual([])
+ })
+ 
+-test("a page being created is refused for the property a generator fills before the checks, the value standing in the body by then", () => {
+-  const said = judged(change(generating({}, EARLY), { [THING_AT]: WITHOUT }))
++test("a page being created is refused for the property a generator fills before the checks, the value standing in the body by then", async () => {
++  const said = await judged(change(generating({}, EARLY), { [THING_AT]: WITHOUT }))
+   expect(said).toHaveLength(1)
+   expect(said[0]?.path).toBe(THING_AT)
+   expect(said[0]?.reason).toContain("TS1360")
+ })
+ 
+-test("a page already standing is refused for dropping the property a generator fills", () => {
+-  const said = judged(change(generating({ [THING_AT]: WHOLE }), { [THING_AT]: WITHOUT }))
++test("a page already standing is refused for dropping the property a generator fills", async () => {
++  const said = await judged(change(generating({ [THING_AT]: WHOLE }), { [THING_AT]: WITHOUT }))
+   expect(said).toHaveLength(1)
+   expect(said[0]?.path).toBe(THING_AT)
+   expect(said[0]?.reason).toContain("TS1360")
+ })
+ 
+-test("a page being created is still refused for what the narrowing does not cover", () => {
+-  const said = judged(change(generating({}), { [THING_AT]: WRONG }))
++test("a page being created is still refused for what the narrowing does not cover", async () => {
++  const said = await judged(change(generating({}), { [THING_AT]: WRONG }))
+   expect(said).toHaveLength(1)
+   expect(said[0]?.path).toBe(THING_AT)
+   expect(said[0]?.reason).toContain("TS2322")
+   expect(said[0]?.reason).toContain("not assignable")
+ })
+ 
+-test("akasha TypeScript that compiles is judged clean", () => {
++test("akasha TypeScript that compiles is judged clean", async () => {
+   const root = staged({ "akasha/one.ts": "export const one: number = 1\n" })
+-  expect(over(root, "akasha/one.ts", "export const one: number = 1\n")).toEqual([])
++  expect(await over(root, "akasha/one.ts", "export const one: number = 1\n")).toEqual([])
+ })
+ 
+-test("a proposed body whose type does not hold is refused, and names the line", () => {
++test("a proposed body whose type does not hold is refused, and names the line", async () => {
+   const root = staged({ "akasha/one.ts": "export const one: number = 1\n" })
+-  const said = over(
++  const said = await over(
+     root,
+     "akasha/one.ts",
+     "export const one: number = 1\nexport const two: string = one\n"
+@@ -125,27 +172,27 @@ test("a proposed body whose type does not hold is refused, and names the line",
+   expect(said[0]?.reason).toContain("TS2322")
+ })
+ 
+-test("a proposed body that fixes what stands on disk is judged clean, so the change is what is read", () => {
++test("a proposed body that fixes what stands on disk is judged clean, so the change is what is read", async () => {
+   const root = staged({
+     "akasha/one.ts": "export const one: number = 1\nexport const two: string = one\n",
+   })
+-  expect(over(root, "akasha/one.ts", "export const one: number = 1\n")).toEqual([])
+-  expect(over(root, "akasha/one.ts", null)).toEqual([])
++  expect(await over(root, "akasha/one.ts", "export const one: number = 1\n")).toEqual([])
++  expect(await over(root, "akasha/one.ts", null)).toEqual([])
+ })
+ 
+-test("a proposed body that breaks what stands clean on disk is refused, so the change is what is read", () => {
++test("a proposed body that breaks what stands clean on disk is refused, so the change is what is read", async () => {
+   const root = staged({ "akasha/one.ts": "export const one: number = 1\n" })
+-  expect(judged(change(root, {}))).toEqual([])
+-  expect(over(root, "akasha/one.ts", "export const one: string = 1\n")).toHaveLength(1)
+-  expect(judged(change(root, {}))).toEqual([])
++  expect(await judged(change(root, {}))).toEqual([])
++  expect(await over(root, "akasha/one.ts", "export const one: string = 1\n")).toHaveLength(1)
++  expect(await judged(change(root, {}))).toEqual([])
+ })
+ 
+-test("a type is judged across files, so a caller is refused for a callee it no longer fits", () => {
++test("a type is judged across files, so a caller is refused for a callee it no longer fits", async () => {
+   const root = staged({
+     "akasha/held.ts": "export function held(one: number): number {\n  return one\n}\n",
+     "akasha/calls.ts": 'import { held } from "./held.ts"\nexport const one = held(1)\n',
+   })
+-  const said = over(
++  const said = await over(
+     root,
+     "akasha/calls.ts",
+     'import { held } from "./held.ts"\nexport const one = held("no")\n'
+@@ -154,12 +201,12 @@ test("a type is judged across files, so a caller is refused for a callee it no l
+   expect(said[0]?.path).toBe("akasha/calls.ts")
+ })
+ 
+-test("a change that would break a file it does not touch is refused, and answers at that file", () => {
++test("a change that would break a file it does not touch is refused, and answers at that file", async () => {
+   const root = staged({
+     "akasha/held.ts": "export function held(one: number): number {\n  return one\n}\n",
+     "akasha/calls.ts": 'import { held } from "./held.ts"\nexport const one = held(1)\n',
+   })
+-  const said = over(
++  const said = await over(
+     root,
+     "akasha/held.ts",
+     "export function held(one: string): string {\n  return one\n}\n"
+@@ -169,42 +216,42 @@ test("a change that would break a file it does not touch is refused, and answers
+   expect(said[0]?.reason).toContain("does not compile")
+ })
+ 
+-test("a file the change takes away is gone for the compiler, so a file still importing it is refused", () => {
++test("a file the change takes away is gone for the compiler, so a file still importing it is refused", async () => {
+   const root = staged({
+     "akasha/held.ts": "export function held(one: number): number {\n  return one\n}\n",
+     "akasha/calls.ts": 'import { held } from "./held.ts"\nexport const one = held(1)\n',
+   })
+-  const said = over(root, "akasha/held.ts", null)
++  const said = await over(root, "akasha/held.ts", null)
+   expect(said).toHaveLength(1)
+   expect(said[0]?.path).toBe("akasha/calls.ts")
+   expect(said[0]?.reason).toContain("TS2307")
+ })
+ 
+-test("a file the change takes away answers for none of its own diagnostics", () => {
++test("a file the change takes away answers for none of its own diagnostics", async () => {
+   const root = staged({
+     "akasha/one.ts": "export const one: number = 1\nexport const two: string = one\n",
+   })
+-  expect(over(root, "akasha/one.ts", null)).toEqual([])
++  expect(await over(root, "akasha/one.ts", null)).toEqual([])
+ })
+ 
+-test("an export the change takes away breaks the file reading it", () => {
++test("an export the change takes away breaks the file reading it", async () => {
+   const root = staged({
+     "akasha/held.ts": "export const one = 1\nexport const two = 2\n",
+     "akasha/calls.ts": 'import { two } from "./held.ts"\nexport const said = two\n',
+   })
+-  const said = over(root, "akasha/held.ts", "export const one = 1\n")
++  const said = await over(root, "akasha/held.ts", "export const one = 1\n")
+   expect(said).toHaveLength(1)
+   expect(said[0]?.path).toBe("akasha/calls.ts")
+ })
+ 
+-test("a file the change brings is compiled though no disk holds it", () => {
++test("a file the change brings is compiled though no disk holds it", async () => {
+   const root = staged({ "akasha/one.ts": "export const one: number = 1\n" })
+-  const said = judged(change(root, { "akasha/two.ts": "export const two: string = 2\n" }))
++  const said = await judged(change(root, { "akasha/two.ts": "export const two: string = 2\n" }))
+   expect(said).toHaveLength(1)
+   expect(said[0]?.path).toBe("akasha/two.ts")
+ })
+ 
+-test("a diagnostic against a file the change did not touch is reported once, however many paths it holds", () => {
++test("a diagnostic against a file the change did not touch is reported once, however many paths it holds", async () => {
+   const root = staged({
+     "akasha/broken.ts":
+       'import { a } from "./a.ts"\nimport { b } from "./b.ts"\nimport { c } from "./c.ts"\nexport const one: string = a + b + c\n',
+@@ -212,7 +259,7 @@ test("a diagnostic against a file the change did not touch is reported once, how
+     "akasha/b.ts": "export const b = 2\n",
+     "akasha/c.ts": "export const c = 3\n",
+   })
+-  const said = judged(
++  const said = await judged(
+     change(root, {
+       "akasha/a.ts": "export const a = 10\n",
+       "akasha/b.ts": "export const b = 20\n",
+@@ -223,9 +270,9 @@ test("a diagnostic against a file the change did not touch is reported once, how
+   expect(said[0]?.path).toBe("akasha/broken.ts")
+ })
+ 
+-test("an index read without a guard is refused, so the settings are the strict ones", () => {
++test("an index read without a guard is refused, so the settings are the strict ones", async () => {
+   const root = staged({ "akasha/one.ts": "export const one = 1\n" })
+-  const said = over(
++  const said = await over(
+     root,
+     "akasha/one.ts",
+     "export function first(held: readonly string[]): string {\n  return held[0]\n}\n"
+@@ -234,15 +281,14 @@ test("an index read without a guard is refused, so the settings are the strict o
+   expect(said[0]?.reason).toContain("undefined")
+ })
+ 
+-test("a file that is not TypeScript is passed over, and a file outside the akasha folder is not judged", () => {
++test("a file that is not TypeScript is passed over", async () => {
+   const root = staged({ "akasha/one.ts": "export const one = 1\n" })
+-  expect(over(root, "akasha/notes.txt", "nothing to compile\n")).toEqual([])
+-  expect(over(root, "shared/one.ts", "export const one: string = 1\n")).toEqual([])
++  expect(await over(root, "akasha/notes.txt", "nothing to compile\n")).toEqual([])
+ })
+ 
+-test("a folder holding no TypeScript is judged clean without a program being built", () => {
++test("a folder holding no TypeScript is judged clean without a program being built", async () => {
+   const root = staged({ "akasha/notes.txt": "nothing to compile\n" })
+-  expect(judged(change(root, { "akasha/notes.txt": "still nothing\n" }))).toEqual([])
++  expect(await judged(change(root, { "akasha/notes.txt": "still nothing\n" }))).toEqual([])
+ })
+ 
+ test("the files compiled are the change and everything importing it, however far", () => {
+@@ -262,25 +308,26 @@ test("the files compiled are the change and everything importing it, however far
+   ])
+ })
+ 
+-test("a file nothing in the change reaches is not compiled, so its standing errors are not this change's", () => {
++test("a file nothing in the change reaches is not compiled, so its standing errors are not this change's", async () => {
+   const root = staged({
+     "akasha/broken.ts": "export const one: string = 1\n",
+     "akasha/apart.ts": "export const apart = 1\n",
+   })
+-  expect(judged(change(root, { "akasha/apart.ts": "export const apart = 2\n" }))).toEqual([])
++  expect(await judged(change(root, { "akasha/apart.ts": "export const apart = 2\n" }))).toEqual([])
+ })
+ 
+-test("a file outside the akasha folder never becomes a root, however the index names it", () => {
++test("an importer in another folder is a root as any other importer is", () => {
+   const root = staged({
+     "akasha/one.ts": "export const one = 1\n",
+     "shared/two.ts": 'import { one } from "../akasha/one.ts"\nexport const two = one\n',
+   })
+   expect(reached(change(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
+     "akasha/one.ts",
++    "shared/two.ts",
+   ])
+ })
+ 
+-test("an index naming no commit still answers a change, its importers being the ones it leaves", () => {
++test("an index naming no commit still answers a change, its importers being the ones it leaves", async () => {
+   const root = staged({
+     "akasha/one.ts": "export const one = 1\n",
+     "akasha/two.ts": 'import { one } from "./one.ts"\nexport const two: string = one\n',
+@@ -293,7 +340,7 @@ test("an index naming no commit still answers a change, its importers being the
+   expect(() => reached(audit)).toThrow(NAMING_NO_COMMIT)
+   expect(reached(held)).toEqual(["akasha/one.ts", "akasha/two.ts"])
+   expect(reachedBy(held, shadowAsked(held).index)).toEqual(["akasha/one.ts", "akasha/two.ts"])
+-  expect(judged(held).map((one) => one.path)).toEqual(["akasha/two.ts"])
++  expect((await judged(held)).map((one) => one.path)).toEqual(["akasha/two.ts"])
+ })
+ 
+ test("an index standing and naming no importer is an answer, so the change alone is compiled", () => {
+@@ -306,42 +353,35 @@ test("an index standing and naming no importer is an answer, so the change alone
+   ])
+ })
+ 
+-test("a change naming no TypeScript under the akasha folder asks the index nothing", () => {
++test("a change naming no TypeScript under the akasha folder asks the index nothing", async () => {
+   const root = staged({ "akasha/one.ts": "export const one = 1\n" })
+   rmSync(join(root, ".git"), { recursive: true })
+-  expect(judged(change(root, { "akasha/notes.txt": "nothing to compile\n" }))).toEqual([])
++  expect(await judged(change(root, { "akasha/notes.txt": "nothing to compile\n" }))).toEqual([])
+ })
+ 
+-test("a file whole at base and deleted from the worktree alone still answers for its errors", () => {
++test("a file whole at base and deleted from the worktree alone still answers for its errors", async () => {
+   const root = staged({
+     "akasha/a.ts": "export const one: number = 1\n",
+     "akasha/b.ts": 'import { one } from "./a.ts"\nexport const two: string = one\n',
+   })
+   const held = readFileSync(join(root, "akasha/b.ts"), "utf8")
+   const changed = { "akasha/a.ts": "export const one: number = 1\n" }
+-  const refusals = judged(change(root, changed))
++  const refusals = await judged(change(root, changed))
+   rmSync(join(root, "akasha/b.ts"))
+-  const gone = judged(change(root, changed, { "akasha/b.ts": held }))
++  const gone = await judged(change(root, changed, { "akasha/b.ts": held }))
+   expect(refusals).toHaveLength(1)
+   expect(refusals[0]?.path).toBe("akasha/b.ts")
+   expect(gone).toEqual(refusals)
+ })
+ 
+ test("a diagnostic naming no file is thrown, because nothing could be kept against it", () => {
+-  const said: ts.Diagnostic = {
+-    category: ts.DiagnosticCategory.Error,
+-    code: 5023,
+-    file: undefined,
+-    start: undefined,
+-    length: undefined,
+-    messageText: "Unknown compiler option.",
+-  }
++  const said = { code: 5023, text: "Unknown compiler option." }
+   expect(() => foundOf("/at", said)).toThrow()
+ })
+ 
+-test("a diagnostic carried in a chain is one reason", () => {
++test("a diagnostic carried in a chain is one reason", async () => {
+   const root = staged({ "akasha/one.ts": "export const one = 1\n" })
+-  const said = over(
++  const said = await over(
+     root,
+     "akasha/one.ts",
+     "type A = { a: number }\ntype B = { a: number; b: number }\nexport const one: B = { a: 1 } as A\n"
+diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.ts
+index c1a009f7b11c2089ef195b712b9a8a824de23fd9..48d8594d1551e92502aea224ae9696d327e4a2a1 100644
+--- a/checks/code-checks/pages/typecheck/typecheck.code-check.ts
++++ b/checks/code-checks/pages/typecheck/typecheck.code-check.ts
+@@ -9,9 +9,9 @@ export const typecheck = {
+   test: "ts",
+   testFixtures: "ts",
+   runsOnPatch: true,
+-  runsOnWorktree: false,
+-  runsOnDeploy: false,
+-  runsOnAudit: false,
++  runsOnWorktree: true,
++  runsOnDeploy: true,
++  runsOnAudit: true,
+   invariants: [
+     {
+       invariantKind: "constraint",
+@@ -93,15 +93,41 @@ export const typecheck = {
+       invariantKind: "departure",
+       statement: "The program is built over the files judged and the declarations alone.",
+     },
++    {
++      invariantKind: "constraint",
++      statement: "This compiler draws in no ambient types the settings do not name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The settings name every ambient type the packages folder holds.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The config the program is built from is served to the compiler rather than written.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing of what this run worked out is kept for the next.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
+         "A diagnostic against a file the change did not touch is reported once against that file.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A diagnostic and the messages chained under it are one reason.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A path the change takes away is not there for the compiler.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "A path the change takes away is answered as absent rather than read from the disk.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "Nothing is reported against it and a file still importing it is refused.",
+diff --git a/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts b/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts
+deleted file mode 100644
+index 8a12f3322abf11b82470244803794390be2145a9..0000000000000000000000000000000000000000
+--- a/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts
++++ /dev/null
+@@ -1,144 +0,0 @@
+-import { readdirSync } from "node:fs"
+-import { join, resolve } from "node:path"
+-import { servedOf } from "@akasha/code-system/code-typing"
+-import { waitingKeys } from "@akasha/indexes/generated-properties"
+-import type { Change } from "@akasha/pages-system/change"
+-import type { Shadow } from "@akasha/pages-system/shadow"
+-import { API } from "typescript-7/unstable/async"
+-import type { Body, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"
+-import { FILES, inputAsync } from "../../../modules/change-walking/change-walking.module.code.ts"
+-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+-import type { Found } from "../typecheck/typecheck.code-check.code.ts"
+-import {
+-  bodiesOf,
+-  builtFrom,
+-  declaringIn,
+-  mintingIn,
+-  rootsOf,
+-} from "../typecheck/typecheck.code-check.code.ts"
+-
+-const ELSEWHERE = "the akasha folder does not compile as this change leaves it"
+-
+-const CONFIG_NAME = "tsconfig.typescript-7.json"
+-
+-const TYPES_AT = "node_modules/@types"
+-
+-const FIRST_LINE = 1
+-
+-const SETTINGS = {
+-  noEmit: true,
+-  strict: true,
+-  noUncheckedIndexedAccess: true,
+-  allowImportingTsExtensions: true,
+-  module: "preserve",
+-  moduleResolution: "bundler",
+-  target: "esnext",
+-  skipLibCheck: true,
+-  jsx: "react-jsx",
+-} as const
+-
+-const BUILT: Selector<Body> = {
+-  named: "the bodies the program is built from",
+-  isInput: (path) => builtFrom(path),
+-  from: (change, shadow) => FILES.from(change, shadow).filter((one) => builtFrom(one.path)),
+-}
+-
+-export function typesIn(root: string): readonly string[] {
+-  try {
+-    return readdirSync(join(root, TYPES_AT)).sort()
+-  } catch {
+-    return []
+-  }
+-}
+-
+-export function configOf(root: string, named: readonly string[]): string {
+-  return JSON.stringify({ compilerOptions: { ...SETTINGS, types: typesIn(root) }, files: named })
+-}
+-
+-export function servingOf(
+-  root: string,
+-  at: string,
+-  config: string,
+-  read: (path: string) => string | undefined
+-): (name: string) => string | null | undefined {
+-  return (name) => {
+-    if (name === at) return config
+-    if (servedOf(root, resolve(name)) === null) return undefined
+-    const body = read(name)
+-    return body === undefined ? null : body
+-  }
+-}
+-
+-export function existingOf(
+-  served: (name: string) => string | null | undefined
+-): (name: string) => boolean | undefined {
+-  return (name) => {
+-    const body = served(name)
+-    return body === undefined ? undefined : body !== null
+-  }
+-}
+-
+-export function foundOf(root: string, said: Diagnosed): Found {
+-  const at = said.fileName === undefined ? null : servedOf(root, resolve(said.fileName))
+-  const line = (said.startPosition?.line ?? 0) + FIRST_LINE
+-  return {
+-    path: at ?? said.fileName ?? "",
+-    reason: `line ${line}: TS${said.code}: ${said.text}`,
+-  }
+-}
+-
+-type Diagnosed = {
+-  readonly fileName?: string
+-  readonly code: number
+-  readonly text: string
+-  readonly startPosition?: { readonly line: number }
+-}
+-
+-export async function foundIn(change: Change, shadow: Shadow): Promise<readonly Found[]> {
+-  const roots = rootsOf(change, shadow.index)
+-  if (roots.length === 0) return []
+-  const root = resolve(change.root)
+-  const named = [...new Set([...roots, ...declaringIn(change, shadow.index)])]
+-  const read = bodiesOf(change, mintingIn(change, [...waitingKeys(shadow)], shadow.index))
+-  const at = join(root, CONFIG_NAME)
+-  const config = configOf(root, named)
+-  const readFile = servingOf(root, at, config, read)
+-  const api = new API({
+-    cwd: root,
+-    fs: { readFile, fileExists: existingOf(readFile) },
+-  })
+-  try {
+-    const snapshot = await api.updateSnapshot({ openProjects: [at] })
+-    const project = await snapshot.getProject(at)
+-    if (project === undefined) throw new Error(`${CONFIG_NAME} named nothing a check could read`)
+-    const found: Found[] = []
+-    const program = await project.program
+-    for (const one of roots) {
+-      const file = join(root, one)
+-      for (const said of await program.getSyntacticDiagnostics(file))
+-        found.push(foundOf(root, said))
+-      for (const said of await program.getSemanticDiagnostics(file)) found.push(foundOf(root, said))
+-    }
+-    return found
+-  } finally {
+-    await api.close()
+-  }
+-}
+-
+-async function refusalsIn(change: Change, shadow: Shadow): Promise<readonly Judged[]> {
+-  const changed = new Set(change.changed)
+-  const seen = new Set<string>()
+-  const said: Judged[] = []
+-  for (const one of await foundIn(change, shadow)) {
+-    const key = `${one.path}\n${one.reason}`
+-    if (seen.has(key)) continue
+-    seen.add(key)
+-    said.push({
+-      path: one.path,
+-      reason: changed.has(one.path) ? one.reason : `${one.reason} — ${ELSEWHERE}`,
+-    })
+-  }
+-  return said
+-}
+-
+-export const typescript7 = inputAsync(BUILT, refusalsIn)
+diff --git a/checks/code-checks/pages/typescript-7/typescript-7.code-check.test.ts b/checks/code-checks/pages/typescript-7/typescript-7.code-check.test.ts
+deleted file mode 100644
+index c6c94d173416ece1926ddbfe4c15657a06408e25..0000000000000000000000000000000000000000
+--- a/checks/code-checks/pages/typescript-7/typescript-7.code-check.test.ts
++++ /dev/null
+@@ -1,76 +0,0 @@
+-import { afterAll, describe, expect, test } from "bun:test"
+-import type { Change } from "@akasha/pages-system/change"
+-import { shadowFor } from "@akasha/pages-system/shadow"
+-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+-import { change, generating, scratch } from "../typecheck/typecheck.code-check.test-fixtures.ts"
+-import { configOf, servingOf, typescript7, typesIn } from "./typescript-7.code-check.code.ts"
+-
+-const ROOT = "/var/home/walton/repos/akasha"
+-
+-const THING_AT = "akasha/one.thing.ts"
+-
+-const READS_ITS_TYPE = 'import type { Thing } from "./thing.page-type.ts"\n\n'
+-
+-const WITHOUT = `${READS_ITS_TYPE}export const one = { slug: "one" } as const satisfies Thing\n`
+-
+-const WRONG = `${READS_ITS_TYPE}export const one = { slug: 1 } as const satisfies Thing\n`
+-
+-afterAll(scratch.sweep)
+-
+-async function judged(one: Change): Promise<readonly Judged[]> {
+-  const cast = shadowFor(one)
+-  if ("refused" in cast) throw new Error(cast.refused)
+-  return await typescript7(one, cast.shadow)
+-}
+-
+-describe("the settings the program is built from", () => {
+-  test("name every ambient type the packages folder holds", () => {
+-    const held = typesIn(ROOT)
+-    expect(held.length).toBeGreaterThan(0)
+-    expect(held).toContain("bun")
+-  })
+-
+-  test("carry the files judged", () => {
+-    const said: { compilerOptions: { types: string[] }; files: string[] } = JSON.parse(
+-      configOf(ROOT, ["one.ts", "two.ts"])
+-    )
+-    expect(said.files).toEqual(["one.ts", "two.ts"])
+-    expect(said.compilerOptions.types).toContain("bun")
+-  })
+-})
+-
+-describe("what the compiler is served", () => {
+-  const at = `${ROOT}/tsconfig.typescript-7.json`
+-  const serving = servingOf(ROOT, at, "{}", (path) =>
+-    path.endsWith("held.ts") ? "export const held = 1" : undefined
+-  )
+-
+-  test("answers the config at the path it was named by", () => {
+-    expect(serving(at)).toBe("{}")
+-  })
+-
+-  test("answers a body the change carries", () => {
+-    expect(serving(`${ROOT}/held.ts`)).toBe("export const held = 1")
+-  })
+-
+-  test("answers a path the change takes away as absent rather than as unknown", () => {
+-    expect(serving(`${ROOT}/gone.ts`)).toBeNull()
+-  })
+-
+-  test("leaves a path outside the checkout to the disk", () => {
+-    expect(serving("/etc/hostname")).toBeUndefined()
+-  })
+-})
+-
+-describe("what this compiler finds in a change", () => {
+-  test("a body the change breaks is refused at the path the break is at", async () => {
+-    const said = await judged(change(generating({}), { [THING_AT]: WRONG }))
+-    expect(said.length).toBeGreaterThan(0)
+-    expect(said[0]?.path).toBe(THING_AT)
+-    expect(said[0]?.reason).toContain("TS")
+-  })
+-
+-  test("a body the change leaves whole is refused for nothing", async () => {
+-    expect(await judged(change(generating({}), { [THING_AT]: WITHOUT }))).toEqual([])
+-  })
+-})
+diff --git a/checks/code-checks/pages/typescript-7/typescript-7.code-check.ts b/checks/code-checks/pages/typescript-7/typescript-7.code-check.ts
+deleted file mode 100644
+index 70b99fd6a0c5c61fe0d1e8e05e1d5c2e8796f2f9..0000000000000000000000000000000000000000
+--- a/checks/code-checks/pages/typescript-7/typescript-7.code-check.ts
++++ /dev/null
+@@ -1,59 +0,0 @@
+-import type { CodeCheck } from "../../code-check.page-type.ts"
+-
+-export const typescript7 = {
+-  id: "01a06e16-d565-7880-8b91-34da07e9196f",
+-  pageTypeSlug: "code-check",
+-  slug: "typescript-7",
+-  definition: "the check refusing TypeScript that does not compile, judged by TypeScript 7",
+-  code: "ts",
+-  test: "ts",
+-  runsOnPatch: true,
+-  runsOnWorktree: true,
+-  runsOnDeploy: true,
+-  runsOnAudit: true,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "What this judges is what `typecheck` judges, by another compiler.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The files judged are the change and every file that imports the change however far.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The program is built over the files judged and the declarations alone.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A body is read from what the check is handed rather than from the disk.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A path the change takes away is answered as absent rather than read from the disk.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement: "This compiler draws in no ambient types the settings do not name.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The settings name every ambient type the packages folder holds.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The config the program is built from is served to the compiler rather than written.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing of what this run worked out is kept for the next.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement: "This is beside `typecheck` while the two are compared rather than in its place.",
+-    },
+-  ],
+-} as const satisfies CodeCheck
+diff --git a/code-system/code-typing/code-typing.module.code.ts b/code-system/code-typing/code-typing.module.code.ts
+index 4dbc4873535da8dc11fd36f7b44237157e7708a1..de95ffcc2783d88052b5e0f48db9c725f939cc2e 100644
+--- a/code-system/code-typing/code-typing.module.code.ts
++++ b/code-system/code-typing/code-typing.module.code.ts
+@@ -1,6 +1,6 @@
+ import { realpathSync } from "node:fs"
+ import { dirname, join, resolve } from "node:path"
+-import { buildInfoAt, stamped, versionOf, writtenTo } from "@akasha/code-system/typing-keeping"
++import { stamped, versionOf, writtenTo } from "@akasha/code-system/typing-keeping"
+ import ts from "typescript"
+ 
+ const TS = ".ts"
+@@ -151,7 +151,7 @@ export function readingOf(root: string, textOf: (path: string) => string | null)
+   }
+ }
+ 
+-export function programOver(root: string, roots: readonly string[], read: Reading): ts.Program {
++function programOver(root: string, roots: readonly string[], read: Reading): ts.Program {
+   return ts.createProgram({
+     rootNames: roots.map((one) => join(root, one)),
+     options: SETTINGS,
+@@ -159,17 +159,6 @@ export function programOver(root: string, roots: readonly string[], read: Readin
+   })
+ }
+ 
+-export function programKeptOver(root: string, roots: readonly string[], read: Reading): ts.Program {
+-  const built = ts.createIncrementalProgram({
+-    rootNames: roots.map((one) => join(root, one)),
+-    options: { ...SETTINGS, tsBuildInfoFile: buildInfoAt(root) },
+-    host: hostOver(root, read, roots),
+-  })
+-  built.getSemanticDiagnostics()
+-  built.emit()
+-  return { ...built.getProgram(), getSemanticDiagnostics: built.getSemanticDiagnostics }
+-}
+-
+ export function typingOver(root: string, roots: readonly string[], read: Reading): Typing {
+   const program = programOver(root, roots, read)
+   return {
+diff --git a/code-system/code-typing/code-typing.module.ts b/code-system/code-typing/code-typing.module.ts
+index e7f7db2817acaacd808b781eb48cc68b945392c3..47aa936c3a2d43f28c65c9adf6e46dfb9a49ae80 100644
+--- a/code-system/code-typing/code-typing.module.ts
++++ b/code-system/code-typing/code-typing.module.ts
+@@ -139,30 +139,6 @@ export const codeTyping = {
+       invariantKind: "departure",
+       statement: "A body served to the program carries a version.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "What the checker said of a body is kept between runs.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "What was kept is read back where the version of a body is unchanged.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "What was kept is dropped for every file a changed body reaches.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A program that keeps what the checker said is checked as the program is built.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A program built over some of the bodies keeps nothing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A program built to be read for names alone keeps nothing.",
+-    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here writes inside the akasha folder.",
