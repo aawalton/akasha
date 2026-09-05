@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-resolve/seat-resolve.module.ts b/seat-system/seat-resolve/seat-resolve.module.ts
+index 6fcda97c5078580ca7dc70d570f7cf6dd31d0f95..fa5a3972e1a88994f02a0e7f760762c9946a94de 100644
+--- a/seat-system/seat-resolve/seat-resolve.module.ts
++++ b/seat-system/seat-resolve/seat-resolve.module.ts
+@@ -13,7 +13,7 @@ export const seatResolve = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A bare slug names whichever page claimed it first.",
++      statement: "A bare slug names whichever page claimed that slug first.",
+     },
+     {
+       invariantKind: "departure",
