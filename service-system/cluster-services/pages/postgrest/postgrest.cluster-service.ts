@@ -11,6 +11,5 @@ export const postgrest = {
   image: "postgrest/postgrest:v12.2.3",
   replicas: 2,
   containerPort: 3000,
-  manifestCode:
-    "service-system/cluster-services/pages/postgrest/postgrest.cluster-service.code.attachment.ts",
+  manifestSlug: "postgrest",
 } as const satisfies ClusterService
