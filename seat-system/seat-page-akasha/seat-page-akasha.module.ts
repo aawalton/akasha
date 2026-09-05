@@ -30,7 +30,7 @@ export const seatPageAkasha = {
     },
     {
       invariantKind: "departure",
-      statement: "A write that was refused carries what was said as its detail.",
+      statement: "A write that was refused carries the reason for that refusal as its detail.",
     },
   ],
 } as const satisfies Module
