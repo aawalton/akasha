@@ -7,6 +7,7 @@ import { applied } from "../../applying/applying.module.code.ts"
 import {
   BREAK_GLASS,
   bypassedIn,
+  counted,
   formattingIn,
   glassSaid,
   mistaking,
@@ -22,10 +23,12 @@ import {
   type Rebased,
   rebasedOnto,
   resolved,
+  wouldHold,
 } from "../../drafting/drafting.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
 import { gateBuilt, NO_GATE } from "../../gate-building/gate-building.module.code.ts"
-import { baseOf, changeOf } from "../../landing/landing.module.code.ts"
+import { draftSaid } from "../../judged-saying/judged-saying.module.code.ts"
+import { baseOf, changeOf, editsOf } from "../../landing/landing.module.code.ts"
 import { formattedSaid } from "../../landing-saying/landing-saying.module.code.ts"
 import { added, type Blobs, blobsIn, deleted } from "../../patching/patching.module.code.ts"
 import type { Piping } from "../../piping/piping.module.code.ts"
@@ -87,6 +90,8 @@ function noneSaid(root: string, page: string): string {
 const NO_PAGE = "this call names no agent whose page a patch would be kept beside"
 
 const NOT_HELD = "the patch carries no body at"
+
+const AS_IT_WAS = "nothing was resolved — the patch is as the patch was"
 
 const NO_REBASE = "the patch does not rebase onto the commit at HEAD"
 
@@ -283,30 +288,30 @@ export async function resolving(
   if (!("gate" in built)) {
     return { report: [], refusals: [`the checks would not load — ${built.broken}`], code: 3 }
   }
-  const formatting = formattingIn(given.root, [{ path: named.path, body: BYTES.encode(held.body) }])
-  const change = changeOf(given.root, {
-    base: baseOf(given.root),
-    edits: formatting.changes,
-  })
-  const judged = await built.gate.over(change)
-  if (judged.length > 0) {
-    return {
-      report: [],
-      refusals: [
-        ...judged.map((one) => `${one.path} — ${one.reason}`),
-        `nothing was resolved — the patch is as the patch was`,
-      ],
-      code: 3,
-    }
+  const would = wouldHold(given.root, page, [])
+  if ("why" in would) {
+    return { report: [], refusals: [would.why, AS_IT_WAS], code: 3 }
   }
+  const had = would.held.get(named.path)
+  if (had === undefined) return mistaking([`${NOT_HELD} ${named.path}`])
+  const formatting = formattingIn(given.root, [{ path: named.path, body: BYTES.encode(held.body) }])
   const body = formatting.changes[0]?.body ?? BYTES.encode(held.body)
+  const edits = editsOf(new Map(would.held).set(named.path, { was: had.was, body }))
+  const change = changeOf(given.root, { base: baseOf(given.root), edits })
+  const judged = await built.gate.over(change)
   const said = resolved(given.root, page, named.path, body)
   if ("why" in said) return { report: [], refusals: [said.why], code: 2 }
   return {
     report: [
       `resolved ${named.path}`,
       ...formattedSaid(formatting.formatted),
-      ...said.clashed.map(clashSaid),
+      ...draftSaid(
+        counted,
+        built.gate.named.length,
+        edits.map((one) => one.path).sort(),
+        judged,
+        said.clashed
+      ),
       said.patch === null
         ? "the patch was worked out to nothing and taken away"
         : `the patch is kept at ${patchAt(page)}`,

@@ -66,7 +66,7 @@ const AGAIN_DRAFTED = "nothing was drafted — read them again against what is t
 
 const KEPT_AS_IT_WAS = "nothing was drafted — the patch is as the patch was"
 
-function editsOf(held: Bodies): readonly FileEdit[] {
+export function editsOf(held: Bodies): readonly FileEdit[] {
   return [...held].map(([path, one]) => ({ path, body: one.body }))
 }
 

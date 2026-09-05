@@ -320,3 +320,19 @@ test("a path HEAD took away is resolved and the rest of the patch is left", asyn
   expect(said.report.join("\n")).toContain(`changed ${TWO}`)
   expect(said.report.join("\n")).toContain(`added ${ONE}`)
 })
+
+test("a resolve is judged over every path the patch holds", async () => {
+  const root = await repo()
+  await landingAt(root, TWO, WAS)
+  draftingBoth(root)
+  const said = await resolving(given(root), PAGE, ["--file-path", ONE], piped(NOW))
+  expect(said.report.join("\n")).toContain("2 paths the patch would leave")
+})
+
+test("a resolve a check refused takes the body all the same", async () => {
+  const root = await repo()
+  drafting(root)
+  const said = await resolving(given(root), PAGE, ["--file-path", ONE], piped(NOW))
+  expect(said.code).toBe(0)
+  expect(said.report.join("\n")).toContain(`resolved ${ONE}`)
+})

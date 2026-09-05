@@ -40,6 +40,7 @@ export const patch = {
     "a resolve reads the body from standard input unless --content-file names a file.",
     "a body handed to a resolve replaces what the patch held rather than merging onto that body.",
     "a body still carrying conflict marks is refused, so no patch applies half resolved.",
+    "a resolve is judged over every path the patch holds, and takes the body whatever refuses.",
   ],
   invariants: [
     {
@@ -161,6 +162,23 @@ export const patch = {
     {
       invariantKind: "departure",
       statement: "A resolve is judged by the checks that judge any authored change.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A resolve is judged over the bodies the patch would hold rather than over the body handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A resolve and an apply are judged over the same bodies.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check refusing over a resolve is answered rather than refusing the resolve.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A resolve names each path a check refused with the reason that check gave.",
     },
     {
       invariantKind: "departure",

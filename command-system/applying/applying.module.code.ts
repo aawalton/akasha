@@ -11,6 +11,7 @@ import {
 } from "../drafting/drafting.module.code.ts"
 import { NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import {
+  editsOf,
   type FileCarry,
   type FileEdit,
   landing,
@@ -31,10 +32,6 @@ export type Applied = {
   readonly landed: readonly string[]
   readonly formatted: readonly string[]
   readonly commit: string | null
-}
-
-function editsOf(held: Bodies): readonly FileEdit[] {
-  return [...held].map(([path, one]) => ({ path, body: one.body }))
 }
 
 export function warrantedAgain(
