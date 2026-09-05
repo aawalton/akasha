@@ -1,5 +1,5 @@
 diff --git a/agents/models/gateway/modules/proxy-run/proxy-run.module.code.ts b/agents/models/gateway/modules/proxy-run/proxy-run.module.code.ts
-index 6e54acc7bfceb3fd4ed4d87e934c6ff712fa6f7c..3678e0d0df4f77718632e4cd30a152e02435b5fb 100644
+index 6e54acc7bfceb3fd4ed4d87e934c6ff712fa6f7c..716960733ef7a324931154c1d20889530ca331e4 100644
 --- a/agents/models/gateway/modules/proxy-run/proxy-run.module.code.ts
 +++ b/agents/models/gateway/modules/proxy-run/proxy-run.module.code.ts
 @@ -3,8 +3,7 @@ import { dirname, join } from "node:path"
@@ -12,6 +12,17 @@ index 6e54acc7bfceb3fd4ed4d87e934c6ff712fa6f7c..3678e0d0df4f77718632e4cd30a152e0
  
  export const STDERR_LOG = "oauth-proxy.stderr.log"
  
+@@ -54,10 +53,6 @@ export type Started = {
+   readonly kept: boolean
+ }
+ 
+-export function entryIn(root: string): string {
+-  return join(root, ENTRY_REL)
+-}
+-
+ export function agentIdFor(at: number, salt: number): string {
+   return `${AGENT_PREFIX}${at.toString(36)}-${salt.toString(36)}`
+ }
 diff --git a/browser/browser-commands/browser-test-storage-state/browser-test-storage-state.command.code.ts b/browser/browser-commands/browser-test-storage-state/browser-test-storage-state.command.code.ts
 index 1cdef3e6e9c483340a7524b8e242263c8a3eac92..3ea51a6ad92a1d987d6547e8dd6248d7deed79d7 100644
 --- a/browser/browser-commands/browser-test-storage-state/browser-test-storage-state.command.code.ts
