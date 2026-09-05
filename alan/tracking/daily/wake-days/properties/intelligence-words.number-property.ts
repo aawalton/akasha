@@ -17,7 +17,7 @@ export const intelligenceWords = {
     },
     {
       invariantKind: "departure",
-      statement: "A commit that took more words away than it added counts as zero.",
+      statement: "A commit that took more words away than that commit added counts as zero.",
     },
     {
       invariantKind: "departure",
