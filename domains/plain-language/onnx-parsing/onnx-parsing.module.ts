@@ -35,5 +35,13 @@ export const onnxParsing = {
       invariantKind: "absence",
       statement: "No process outside this one is started to parse a text.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A text parsed before is answered from the cache rather than by the model.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A text the model reads is written to the cache as a side effect of that reading.",
+    },
   ],
 } as const satisfies Module

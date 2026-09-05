@@ -1,0 +1,72 @@
+import type { Module } from "@akasha/code-system/module"
+
+export const parseCache = {
+  id: "01a071f0-796a-7957-a5e6-d600ac1d3f8a",
+  pageTypeSlug: "module",
+  slug: "parse-cache",
+  definition: "the parse a text was given before, kept so the model reads that text once",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A parse is keyed by the text parsed and by the model that parsed the text.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A key is a hash, so a text that moves between files keeps the parse already taken.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A cached parse is answered only where the text stored beside the parse is the text asked for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line the cache cannot read is skipped rather than repaired.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A skipped line is answered as no parse, so the model reads the text again.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every fault the cache can carry comes back as no parse rather than as a wrong one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The cache is filled as a side effect of parsing rather than by a run of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The cache sits under the git directory every worktree of a checkout shares.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A model holds a directory named for that model, so retiring a model is one deletion.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shard is named by the first two characters of the key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Setting `AKASHA_PARSE_CACHE_OFF` leaves every parse to the model.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cache the disk refuses still answers for the life of the process.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No parse the cache holds is committed.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here says what a parse means.",
+    },
+  ],
+} as const satisfies Module

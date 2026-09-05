@@ -1,4 +1,5 @@
 import { readFile } from "node:fs/promises"
+import { dirname } from "node:path"
 import { fileURLToPath } from "node:url"
 import { uncommittedBesideAt } from "@akasha/pages-system/page-file-name"
 import * as ort from "onnxruntime-node"
@@ -6,6 +7,7 @@ import {
   decodeTree,
   type ParsedSentence,
 } from "../dependency-graph/dependency-graph.module.code.ts"
+import { makeParseCache } from "../parse-cache/parse-cache.module.code.ts"
 import {
   chunkForEncoder,
   encodeWordPieces,
@@ -297,9 +299,16 @@ export async function loadOnnxParser(options: OnnxParserOptions = {}): Promise<D
     capabilities: CAPABILITIES,
     modelHash: manifest["source_checkpoint_sha256"],
   }
+  const cache = makeParseCache(descriptor.modelHash, dirname(fileURLToPath(import.meta.url)))
   return {
     descriptor,
-    parse: (text: string) => parsedText(held, text),
+    parse: async (text: string) => {
+      const already = cache.read(text)
+      if (already !== null) return already
+      const found = await parsedText(held, text)
+      cache.write(text, found)
+      return found
+    },
   }
 }
 
