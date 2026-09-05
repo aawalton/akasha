@@ -56,5 +56,16 @@ export const change = {
         "Keep it whole only where half would read wrong.",
       ],
     },
+    {
+      directiveKind: "rule",
+      name: "Mechanical By Command",
+      act: "Use the command for a move, a rename, a replace or a removal rather than editing by hand.",
+      warrant:
+        "A command changes every place at once, and by hand you reach only the places you saw.",
+      aids: [
+        "A change you could write as a rule likely has a command.",
+        "The places you miss break quietly.",
+      ],
+    },
   ],
 } as const satisfies Domain
