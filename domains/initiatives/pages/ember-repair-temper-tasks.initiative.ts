@@ -50,7 +50,7 @@ export const emberRepairTemperTasks = {
     {
       statement: "The rules a player automates are pages rather than one JSON blob.",
       workingMemory:
-        "The shared vocabulary is pages now: 18 temper-item-action, 8 temper-rule-goal carrying the priority that was hardcoded, stock-scope as a select, and 48 temper-condition-field, each holding the engine's camel key beside a kebab slug and what the test reads. The 48 templates reach all four by relation. The generated rule table is unchanged, proved by rebuilding every conditions map from the pages and diffing against rule-template-table-01 and -02. Left: the 82 live rules still sit in the blob.",
+        "All 82 are pages under temper-inventory-rule now, and temper-rule is the parent declaring what a template and a rule in force both carry. Conditions and destination chains sit beside each page as jsonl. Every rule reconstructs from the landed bytes exactly, updatedAt aside, proved sighted by five seeded faults. The blob still holds them and nothing is repointed. Left: the one live UI writer, the seven dead CLI writers, then dropping rules, itemRules and buyRules.",
     },
   ],
   constraints: [
