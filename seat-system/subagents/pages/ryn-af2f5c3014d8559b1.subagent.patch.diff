@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/temper/temper-watcher/watcher-import-completion/watcher-import-completion.module.ts b/temper/temper-watcher/watcher-import-completion/watcher-import-completion.module.ts
-index d7066777c8312d0f5b8f369bade7da49d93f8902..4b14d1f07c35e9208ddd9e54d98e4de4acb43db3 100644
+index d7066777c8312d0f5b8f369bade7da49d93f8902..41d491bc84c58e248669a5ba1d4625e2a50fef87 100644
 --- a/temper/temper-watcher/watcher-import-completion/watcher-import-completion.module.ts
 +++ b/temper/temper-watcher/watcher-import-completion/watcher-import-completion.module.ts
 @@ -39,7 +39,7 @@ export const watcherImportCompletion = {
@@ -38,6 +38,15 @@ index d7066777c8312d0f5b8f369bade7da49d93f8902..4b14d1f07c35e9208ddd9e54d98e4de4
        invariantKind: "departure",
 -      statement: "A caller may hand in what writes the files beside pages.",
 +      statement: "A caller may hand in the write of the files beside pages.",
+     },
+     {
+       invariantKind: "departure",
+@@ -97,7 +97,7 @@ export const watcherImportCompletion = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A caller may hand in what names a companion from its def-id.",
++      statement: "A caller may hand in the naming of a companion from its def-id.",
      },
      {
        invariantKind: "departure",
