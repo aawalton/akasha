@@ -1,0 +1,13 @@
+diff --git a/machines/provisioning/provisioning.domain.ts b/machines/provisioning/provisioning.domain.ts
+index d6c9eb49284f1bd599029e5482d306de74fe3eb1..acb0104a124233e6d682879653ecc2489d6dc626 100644
+--- a/machines/provisioning/provisioning.domain.ts
++++ b/machines/provisioning/provisioning.domain.ts
+@@ -31,7 +31,7 @@ export const provisioning = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A script that sets a machine up names the files it places rather than holding them.",
++        "A script that sets a machine up names the files that script places rather than holding those files.",
+     },
+     {
+       invariantKind: "gap",
