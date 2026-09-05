@@ -75,7 +75,8 @@ export const restatementNarrowsSomething = {
     },
     {
       invariantKind: "gap",
-      statement: "A restatement raising a total while it narrows something else is refused.",
+      statement:
+        "A restatement raising a total while that restatement narrows something else is refused.",
     },
   ],
 } as const satisfies CodeCheck
