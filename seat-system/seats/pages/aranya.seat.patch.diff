@@ -1055,3 +1055,11 @@ index a5d2ed206a4775f1393a478c097179de7a9f39b7..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-inventory-automation
 \ No newline at end of file
+diff --git a/temper/temper-item-browser/temper-item-browser b/temper/temper-item-browser/temper-item-browser
+deleted file mode 120000
+index bdaa2a97dfb77619bbcd24abd2714d51d115879f..0000000000000000000000000000000000000000
+--- a/temper/temper-item-browser/temper-item-browser
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-item-browser
+\ No newline at end of file
