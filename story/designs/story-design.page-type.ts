@@ -120,7 +120,7 @@ export const storyDesign = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A design says how a story is meant to read rather than what the story says.",
+      statement: "A design says how a story is meant to read rather than the words the story says.",
     },
     {
       invariantKind: "departure",
@@ -133,7 +133,7 @@ export const storyDesign = {
     {
       invariantKind: "departure",
       statement:
-        "What a design settled in prose too long for a property is carried beside the page.",
+        "The prose a design settled in that is too long for a property is carried beside the page.",
     },
     {
       invariantKind: "departure",
