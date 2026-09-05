@@ -10,7 +10,7 @@ export const MOBILE_CUT_PAGE_TYPE_SLUG = "mobile-cut"
 
 export const CUT_WRITER = "akasha deploy"
 
-/** Every `mobile-cut` page stands in a folder of its own beneath this one, inside akasha. */
+/** Every `mobile-cut` page sits in a folder of its own beneath this one, inside akasha. */
 export const CUTS_FOLDER = "mobile-cli/mobile-cuts/pages"
 
 const PAGE_SUFFIX = `.${MOBILE_CUT_PAGE_TYPE_SLUG}.ts`
@@ -22,7 +22,7 @@ const PAGE_SUFFIX = `.${MOBILE_CUT_PAGE_TYPE_SLUG}.ts`
  * answered as a source holding nothing. This module used to read the markdown pages under
  * `pages/mobile-cut`, and swallowed the "no such page type" refusal as an empty set: between
  * `c5fe126be1`, which took those markdown pages away, and `50c062b7e1`, which took their page
- * type away, every app read as owing a cut while six cuts stood for `alanwalton` alone.
+ * type away, every app read as owing a cut while six cuts existed for `alanwalton` alone.
  */
 export class CutsUnread extends Error {
   readonly at: string
@@ -86,7 +86,7 @@ export function cutPageNameFor(appSlug: string, buildNumber: number): string {
   return `${appSlug}-${buildNumber}`
 }
 
-/** A cut page stands in a folder named for its slug, so that entry files can stand beside it. */
+/** A cut page sits in a folder named for its slug, so that entry files can sit beside it. */
 export function cutPagePath(slug: string): string {
   return `${CUTS_FOLDER}/${slug}/${slug}${PAGE_SUFFIX}`
 }
@@ -111,7 +111,7 @@ function pathsUnder(root: string): readonly string[] {
 }
 
 /**
- * Every cut page standing inside akasha.
+ * Every cut page inside akasha.
  *
  * A page that will not load raises rather than being left out, so that a fault in one cut is
  * never answered as that cut never having been taken.

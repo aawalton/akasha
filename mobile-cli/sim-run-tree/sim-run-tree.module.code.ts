@@ -55,7 +55,7 @@ export async function deliverSimRunTree(opts: {
   const missing = wanted.filter((rel) => !existsSync(join(repoRoot, rel)))
   if (missing.length > 0) {
     throw new InputError(
-      `${missing.join(", ")} — named among what ${app.slug} is built from, and not standing in ${repoRoot}. Nothing was delivered, because a partial tree fails on the macbook rather than here.`
+      `${missing.join(", ")} — named among what ${app.slug} is built from, and not in ${repoRoot}. Nothing was delivered, because a partial tree fails on the macbook rather than here.`
     )
   }
   await runSshCapture(

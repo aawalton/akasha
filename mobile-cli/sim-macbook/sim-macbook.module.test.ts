@@ -64,7 +64,7 @@ describe("parseResolvedUdid", () => {
 })
 
 describe("buildInstallScript", () => {
-  test("names the tree this run delivered, and no clone standing on the macbook", () => {
+  test("names the tree this run delivered, and no clone sitting on the macbook", () => {
     const s = buildInstallScript({
       app: APP,
       buildSimSource: "echo body",

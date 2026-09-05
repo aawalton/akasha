@@ -133,7 +133,7 @@ describe("the gate's place in the cut script", () => {
     cutCommit: COMMIT,
   } as const
 
-  test("stands after the artifact exists and before anything reaches Apple", () => {
+  test("sits after the artifact exists and before anything reaches Apple", () => {
     const s = buildTestflightDeployScript({ ...base })
     const exported = s.indexOf(`test -f ${IPA}`)
     const gate = s.indexOf("build-stamp gate")

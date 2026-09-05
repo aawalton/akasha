@@ -75,13 +75,13 @@ describe("readCutPages", () => {
     }
   })
 
-  test("every cut standing carries a fingerprint that reads", () => {
+  test("every cut there is carries a fingerprint that reads", () => {
     for (const page of readCutPages()) {
       expect(cutFingerprintValues.safeParse(page.value).success).toBe(true)
     }
   })
 
-  test("a page stands where its slug says it stands", () => {
+  test("a page is where its slug says it is", () => {
     for (const page of readCutPages()) expect(page.path).toBe(cutPagePath(page.slug))
   })
 })
@@ -110,11 +110,11 @@ describe("cutPageBody", () => {
   test("what a build files is the page already filed for that build, but for its minted id", () => {
     const root = rootFor(resolveRoots(), AKASHA)
     const slug = cutPageNameFor("alanwalton", 202)
-    const standing = readFileSync(join(root, cutPagePath(slug)), "utf8")
-    const filed = readBack(standing)
+    const onDisk = readFileSync(join(root, cutPagePath(slug)), "utf8")
+    const filed = readBack(onDisk)
     const minted = /^ {2}id: ".*",$/m
-    expect(standing).toMatch(minted)
-    expect(cutPageBody("alanwalton", filed).replace(minted, "")).toBe(standing.replace(minted, ""))
+    expect(onDisk).toMatch(minted)
+    expect(cutPageBody("alanwalton", filed).replace(minted, "")).toBe(onDisk.replace(minted, ""))
   })
 
   test("a fingerprint carrying no shell sha and no tree hash leaves both keys off", () => {
