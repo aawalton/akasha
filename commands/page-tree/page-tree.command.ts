@@ -17,7 +17,6 @@ export const pageTree = {
     "each page type is drawn with the properties that page type declares.",
     "each property page is drawn under the kind of property it is.",
     "a property carrying properties of its own holds those beneath it in the second tree.",
-    "a property is named bare where that is unambiguous and `kind/slug` where it is not.",
     "a declaration naming no property page refuses the whole answer rather than dropping that row.",
     "no group of domain rows is answered, because a kind is a page type and `types` already carries its path.",
   ],
