@@ -89,3 +89,21 @@ index db97f59782f001569810e9400333f7851cc0c97f..45f5d6aecfb611ff8768ee41da8bf741
      },
      {
        invariantKind: "departure",
+diff --git a/alan/tracking/tracking-fields/tracking-field.page-type.ts b/alan/tracking/tracking-fields/tracking-field.page-type.ts
+index e80b77a097ca00a1c8552be64506176b83d8e0c4..fa296cb2e2c98e881ba38e201a3f2158353d50b5 100644
+--- a/alan/tracking/tracking-fields/tracking-field.page-type.ts
++++ b/alan/tracking/tracking-fields/tracking-field.page-type.ts
+@@ -18,8 +18,11 @@ export const trackingField = {
+     },
+     {
+       invariantKind: "gap",
+-      statement:
+-        "How a field's values come to exist is a capture the field names, and no property here declares that yet.",
++      statement: "How a field's values come to exist is a capture the field names.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No property here declares the capture a field names.",
+     },
+   ],
+ } as const satisfies PageType
