@@ -9,7 +9,7 @@ export const addonDataWritesStats = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The metric tree is the whole of what the stats section renders.",
+      statement: "The metric tree is the whole of the output the stats section renders.",
     },
     {
       invariantKind: "departure",
