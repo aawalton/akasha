@@ -583,3 +583,11 @@ index 8a4350bb29c2cb7e9846cf1a8d7d0cf52c94bd83..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../utils-fs
 \ No newline at end of file
+diff --git a/utils-narrow/utils-narrow b/utils-narrow/utils-narrow
+deleted file mode 120000
+index 570a4e77c23655c53b73c0caedda9c8309bd2069..0000000000000000000000000000000000000000
+--- a/utils-narrow/utils-narrow
++++ /dev/null
+@@ -1 +0,0 @@
+-../../utils-narrow
+\ No newline at end of file
