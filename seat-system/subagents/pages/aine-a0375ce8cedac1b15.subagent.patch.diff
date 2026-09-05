@@ -14,7 +14,7 @@ index 81d0756c2cc6e7521fa5ab75f54b516d5bbd0395..2e783523e75b1ab49440f8837da6707f
  
  function colorFor(node: WorkNode, colors: WorkColors): string | null {
 diff --git a/editor-extension/work-tree-colors/work-tree-colors.module.ts b/editor-extension/work-tree-colors/work-tree-colors.module.ts
-index 66c49302dada87ec171134d46e7d668e6617d33c..97a37470168256199d768c80c813df861537c824 100644
+index 66c49302dada87ec171134d46e7d668e6617d33c..25c0612e6cbef64c7f05b859db2522052de84480 100644
 --- a/editor-extension/work-tree-colors/work-tree-colors.module.ts
 +++ b/editor-extension/work-tree-colors/work-tree-colors.module.ts
 @@ -4,12 +4,12 @@ export const workTreeColors = {
@@ -41,6 +41,15 @@ index 66c49302dada87ec171134d46e7d668e6617d33c..97a37470168256199d768c80c813df86
      },
      {
        invariantKind: "departure",
+@@ -33,7 +33,7 @@ export const workTreeColors = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A tree is rebuilt rather than colored where it stands.",
++      statement: "A tree is rebuilt rather than colored where it is.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/editor-extension/work-tree-rows/work-tree-rows.module.ts b/editor-extension/work-tree-rows/work-tree-rows.module.ts
 index 5a92de60cca44311eb5db48898d92b0eea5c7b00..12d2fec6a55d4be57d8aa1083a862247b2d99b52 100644
 --- a/editor-extension/work-tree-rows/work-tree-rows.module.ts
