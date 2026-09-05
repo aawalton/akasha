@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/code-system/javascript-modules/javascript-module.page-type.ts b/code-system/javascript-modules/javascript-module.page-type.ts
+index 92d68bf83fa4ccd50eca14df262271ee715ffaf4..3a8a4ffd857f149121a439ba8b77eaa16dcac76c 100644
+--- a/code-system/javascript-modules/javascript-module.page-type.ts
++++ b/code-system/javascript-modules/javascript-module.page-type.ts
+@@ -33,7 +33,7 @@ export const javascriptModule = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What carries a JavaScript module to where that module runs states the name that module lands under.",
++        "The code carrying a JavaScript module to its runtime states the name that module lands under.",
+     },
+     {
+       invariantKind: "departure",
