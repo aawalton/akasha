@@ -29,6 +29,21 @@ index 159b98dccc0008d1bd1de93f3a6c1139799591e3..0208b3b9df02cc2474f3149fa1603150
 -    },
 -  ],
  } as const satisfies Module
+diff --git a/temper/temper-equipment/set-ids-p-to-z/set-ids-p-to-z.module.ts b/temper/temper-equipment/set-ids-p-to-z/set-ids-p-to-z.module.ts
+index e9b418b9c6df18cbe236fbf34da5e4381d177eab..b6bd717d951b7c09863ea9450762cdc5995ef6fa 100644
+--- a/temper/temper-equipment/set-ids-p-to-z/set-ids-p-to-z.module.ts
++++ b/temper/temper-equipment/set-ids-p-to-z/set-ids-p-to-z.module.ts
+@@ -6,10 +6,4 @@ export const setIdsPToZ = {
+   slug: "set-ids-p-to-z",
+   definition: "the gear sets keyed under the letters p through z",
+   code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "One module holding all 707 set ids would pass the byte ceiling.",
+-    },
+-  ],
+ } as const satisfies Module
 diff --git a/temper/temper-upstream-data/map-data-upstream-port/map-data-upstream-port.module.ts b/temper/temper-upstream-data/map-data-upstream-port/map-data-upstream-port.module.ts
 index 20c26bd9f62e047c577d9e0de4bb6d96d81edb7f..6a9d6d28fe67eb461e8d707744d20c8d5d6d2c17 100644
 --- a/temper/temper-upstream-data/map-data-upstream-port/map-data-upstream-port.module.ts
