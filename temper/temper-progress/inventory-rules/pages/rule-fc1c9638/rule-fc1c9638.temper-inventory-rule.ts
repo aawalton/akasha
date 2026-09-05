@@ -7,13 +7,13 @@ export const ruleFc1c9638 = {
   title: "List known valuable recipes on guild store",
   description:
     "Lists recipes you've already learned (known) with guild-store value >= 5000g. Raised from 1000 to match the uniform 5000g list line; known recipes under 5000g now route to the generic vendor-sell rule.",
+  goal: "sell",
+  conditions: "jsonl",
+  destination: "character:8796093022338107",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "recipes",
   displayOrder: 69,
   action: "list",
   active: true,
   updatedAt: "2026-06-02T20:49:37.020Z",
-  goal: "sell",
-  destination: "character:8796093022338107",
-  conditions: "jsonl",
 } as const satisfies TemperInventoryRule

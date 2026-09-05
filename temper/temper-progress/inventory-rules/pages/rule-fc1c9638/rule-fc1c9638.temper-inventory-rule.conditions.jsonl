@@ -1,4 +1,4 @@
-{"id":"01a0728b-2e64-756d-bf20-d8037b2970d5","conditionField":"known","conditionValue":"known"}
-{"id":"01a0728b-2e64-71f6-96af-79de46ed5b9a","conditionField":"market-value","conditionValue":"MIN_LISTING_VALUE"}
-{"id":"01a0728b-2e64-7b7f-8419-2235e8d1e58e","conditionField":"market-value-op","conditionValue":">="}
-{"id":"01a0728b-2e65-7a30-afec-92fbdb30ba82","conditionField":"can-list-at-guild-trader","conditionValue":"can-list-at-guild-trader"}
+{"id":"01a072fc-784f-738b-ba76-69670684ff06","conditionField":"known","conditionValue":"known"}
+{"id":"01a072fc-784f-76c4-83f4-9c547071d8f3","conditionField":"market-value","conditionValue":"MIN_LISTING_VALUE"}
+{"id":"01a072fc-784f-7a42-ac9d-f0a97562e528","conditionField":"market-value-op","conditionValue":">="}
+{"id":"01a072fc-784f-7ae1-996b-9081ddcf6299","conditionField":"can-list-at-guild-trader","conditionValue":"can-list-at-guild-trader"}
