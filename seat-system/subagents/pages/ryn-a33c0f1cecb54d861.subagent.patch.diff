@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts b/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
+index eead9ddf42d81a55b86d1cee4642fb1512f3c6e3..3c880e92945406cc91f38124257144710898ee61 100644
+--- a/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
++++ b/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
+@@ -39,7 +39,7 @@ export const claudeAccountUpkeep = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A token is renewed before what that account has spent is read.",
++      statement: "A token is renewed before that account's usage is read.",
+     },
+     {
+       invariantKind: "departure",
