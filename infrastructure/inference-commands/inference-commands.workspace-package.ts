@@ -30,7 +30,7 @@ export const inferenceCommands = {
     },
     {
       invariantKind: "departure",
-      statement: "A command here files a run row for the work it sends to a model.",
+      statement: "A command here files a run row for the work that command sends to a model.",
     },
     {
       invariantKind: "gap",
