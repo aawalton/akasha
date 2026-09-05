@@ -26,6 +26,22 @@ index b4df2b6e5b451a808ed4d82e1bf501524ed89f04..38d881083c7720d68ed64862807a900a
 -    },
    ],
  } as const satisfies Module
+diff --git a/temper/temper-upstream-data/upstream-leaf-reading/upstream-leaf-reading.module.ts b/temper/temper-upstream-data/upstream-leaf-reading/upstream-leaf-reading.module.ts
+index 0cbb7d720feba79f7ef20194928d87ba03bff79e..8207c62c2c33a69eeb7971ee481c436e970a288f 100644
+--- a/temper/temper-upstream-data/upstream-leaf-reading/upstream-leaf-reading.module.ts
++++ b/temper/temper-upstream-data/upstream-leaf-reading/upstream-leaf-reading.module.ts
+@@ -24,10 +24,7 @@ export const upstreamLeafReading = {
+       statement:
+         "An upstream dump holding no leaf beside a ported dump holding no leaf is refused.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "An agreement says how many leaves agreed.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "The rulings of a library's datasets gather into one ruling for that library.",
 diff --git a/temper/temper-upstream-data/zone-upstream-port/zone-upstream-port.module.ts b/temper/temper-upstream-data/zone-upstream-port/zone-upstream-port.module.ts
 index dba8926a11cea180f46c03a5c3e6eda20dc49cc4..cf2ac49874a356e2e11b0320c4e665ae10468ac4 100644
 --- a/temper/temper-upstream-data/zone-upstream-port/zone-upstream-port.module.ts
