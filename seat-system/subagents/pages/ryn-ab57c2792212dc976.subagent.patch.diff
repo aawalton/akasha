@@ -1,0 +1,13 @@
+diff --git a/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts b/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts
+index e495799f53578e0a4942140496c870df9e548b81..284b372d23bd73ae5a2b89a0f51dc4f64fa78bad 100644
+--- a/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts
++++ b/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts
+@@ -33,7 +33,7 @@ export const monarchRuleClauses = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A rule narrowing on nothing but a sign, an amount, a counterpart or a date is refused, because none of those clauses says which transactions the rule is about.",
++        "A rule narrowing on nothing but a sign, an amount, a counterpart or a date is refused.",
+     },
+     {
+       invariantKind: "departure",
