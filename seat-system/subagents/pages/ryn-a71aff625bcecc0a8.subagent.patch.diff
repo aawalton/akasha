@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/measure/measure.command.ts b/commands/measure/measure.command.ts
+index c2948aa1de02a983ca6d51d6d51db93cdfdfb492..9b0f70ff3fa13b4f808702dab20d4d0aca74a70f 100644
+--- a/commands/measure/measure.command.ts
++++ b/commands/measure/measure.command.ts
+@@ -79,7 +79,7 @@ export const measure = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a fleet has spent is read upstream before the fleet is answered.",
++      statement: "A fleet's usage is read upstream before the fleet is answered.",
+     },
+     {
+       invariantKind: "departure",
