@@ -14,7 +14,7 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "A body is carried as the bytes it is rather than as text.",
+      statement: "A body is carried as the bytes that body is rather than as text.",
     },
     {
       invariantKind: "departure",
@@ -170,7 +170,8 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "A patch coming in is rebased onto the commit at HEAD before it is folded.",
+      statement:
+        "A patch coming in is rebased onto the commit at HEAD before that patch is folded.",
     },
     {
       invariantKind: "departure",
@@ -190,7 +191,7 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "A take-in from an agent keeping no patch leaves the patch as it was.",
+      statement: "A take-in from an agent keeping no patch leaves the patch as that patch was.",
     },
     {
       invariantKind: "absence",
