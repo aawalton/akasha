@@ -10,9 +10,9 @@ const SOURCE = join(addonsDir(), "LibMapData", "LibMapData_Data.lua")
 const OUT_REL = "src/generated/map-data.generated.ts"
 
 const HEADER =
-  "// Ported 1:1 from LibMapData v1.21 (AddOnVersion 121) LibMapData_Data.lua via `ops temper upstream-data port lib-map-data`.\n" +
-  "// Regenerate with: ops temper upstream-data port lib-map-data --code-root <code-checkout>\n" +
-  "// Verify with:     ops temper upstream-data verify lib-map-data\n"
+  "// Ported 1:1 from LibMapData v1.21 (AddOnVersion 121) LibMapData_Data.lua via `akasha temper-upstream-data-port lib-map-data`.\n" +
+  "// Regenerate with: akasha temper-upstream-data-port lib-map-data --code-root <code-checkout>\n" +
+  "// Verify with:     akasha temper-upstream-data-verify lib-map-data\n"
 
 export async function port(codeRoot: string): Promise<void> {
   const pkgDir = join(codeRoot, PACKAGE_OF["lib-map-data"])
