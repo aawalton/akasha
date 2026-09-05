@@ -88,7 +88,8 @@ export const subagentCensus = {
     },
     {
       invariantKind: "departure",
-      statement: "The census names the seat, the agent id, what answers, and why, for every page.",
+      statement:
+        "The census names the seat, the agent id, the processes answering, and why, for every page.",
     },
     {
       invariantKind: "absence",
@@ -96,7 +97,7 @@ export const subagentCensus = {
     },
     {
       invariantKind: "departure",
-      statement: "What was read off /proc is handed in rather than read here.",
+      statement: "The processes read off /proc are handed in rather than read here.",
     },
     {
       invariantKind: "departure",
