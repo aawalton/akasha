@@ -39,7 +39,7 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "The code beside it files that and nothing else.",
+      statement: "The code beside the index page files that and nothing else.",
     },
     {
       invariantKind: "departure",
