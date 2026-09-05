@@ -39,6 +39,7 @@ export const commandSystem = {
     "module/landing-saying",
     "module/piping",
     "module/reading",
+    "module/restating",
     "module/searching",
     "module/search-help",
     "module/rooting",
