@@ -14,7 +14,8 @@ export const supervisorAgentActionClear = {
     },
     {
       invariantKind: "departure",
-      statement: "A proxy swap happens only after the request that asked for it is consumed.",
+      statement:
+        "A proxy swap happens only after the request that asked for that swap is consumed.",
     },
   ],
 } as const satisfies Module
