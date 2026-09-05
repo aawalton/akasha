@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/infrastructure/alerts/properties/alert-summary.text-property.ts b/infrastructure/alerts/properties/alert-summary.text-property.ts
+index f87cd8b26306d80db1de1a77813fec60934e4a89..cfccadc5a7fb551d1437f7c65fc66cbe45fcf757 100644
+--- a/infrastructure/alerts/properties/alert-summary.text-property.ts
++++ b/infrastructure/alerts/properties/alert-summary.text-property.ts
+@@ -13,7 +13,8 @@ export const alertSummary = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A summary carries the labels of the rule raising it, written in a template.",
++      statement:
++        "A summary carries the labels of the rule raising the alert, written in a template.",
+     },
+     {
+       invariantKind: "departure",
