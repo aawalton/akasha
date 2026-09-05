@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts
-index dc8d9636a99f24a294cb6fca570188cfd4f0260c..bf3e9c3c3ce2f8ce62bbc45f67d48d0911b21a64 100644
+index dc8d9636a99f24a294cb6fca570188cfd4f0260c..ba2d0f4c7332527bf38377769fd56416a0c8396b 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts
-@@ -89,7 +89,7 @@ export const noSwallowedRead = {
+@@ -89,11 +89,11 @@ export const noSwallowedRead = {
      {
        invariantKind: "departure",
        statement:
@@ -12,3 +12,8 @@ index dc8d9636a99f24a294cb6fca570188cfd4f0260c..bf3e9c3c3ce2f8ce62bbc45f67d48d09
      },
      {
        invariantKind: "departure",
+-      statement: "A catch that never names what the catch caught has dropped the failure.",
++      statement: "A catch that never names the caught failure has dropped the failure.",
+     },
+   ],
+ } as const satisfies SyntaxRule
