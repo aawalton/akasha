@@ -1,0 +1,28 @@
+diff --git a/domains/initiatives/pages/vera-context-cleanup.initiative.ts b/domains/initiatives/pages/vera-context-cleanup.initiative.ts
+index 413267349dba0e194d1f2cfd77c2dc3cb37f44d1..d0bb4c268d3cad8df18b16769628f3b0a8a666eb 100644
+--- a/domains/initiatives/pages/vera-context-cleanup.initiative.ts
++++ b/domains/initiatives/pages/vera-context-cleanup.initiative.ts
+@@ -4,18 +4,18 @@ export const veraContextCleanup = {
+   id: "01a06d62-864e-7da2-8e20-813302d6a5fd",
+   pageTypeSlug: "initiative",
+   slug: "vera-context-cleanup",
+-  domainSlug: "workspace-package/context",
++  domainSlug: "domain/collection-system",
+   personaSlug: "vera",
+   intents: [
+     {
+-      statement: "All context files are organized in the context/ folder.",
++      statement: "All collection files are organized in the collections/ folder.",
+       workingMemory:
+-        "Met at 362c3d16 and 4f2448cf: folder, page slug and package name are all `context`. The rename left `asking` and `patch` importing `@akasha/context-system`, which resolved only through a node_modules link no manifest names; repointed at f292fa40 and proved by deleting that link. What still spells the old name is prose: a made-up domain in `domain-ancestors.context-warrant.test.ts`, a finding measured 2026-09-02, and amy's working memory, which is hers to mend.",
++        "113 files sit under `collection-system`, and 57 files outside it spell that name, nearly all as relative imports. One folder collides: `openingWith` refuses a child named `collections` under a page named `collections`, while `a-page-type-with-its-parts` demands that exact name. Measured by calling both rather than reasoned. Every other subfolder comes through untouched. Alan picks which rule bends.",
+     },
+     {
+-      statement: "The context folder tree passes the folder-matches-a-shape check.",
++      statement: "The collections folder tree passes the folder-matches-a-shape check.",
+       workingMemory:
+-        "`akasha audit --check folder-matches-a-shape --file-path context` answers none refused over 58 files. `context-warrants` became `warrants` in the move that renamed the package. `warrant-scratch` folded into the fixtures beside `warranting`, being test scaffolding rather than a module. `agent-stated` and `warranting` sit under `modules/` as of d65b1071 and beafc049, leaving `modules` and `warrants`.",
++        "`akasha audit --check folder-matches-a-shape --file-path collection-system` answers 3 refusals over 113 files: `royal-road/royal-road-pages` and `royal-road/royal-road-syncing` open with the page above them, and `syncs/pages` holds 5 pages rather than one. All three predate the rename and are mended apart from it.",
+     },
+   ],
+ } as const satisfies Initiative
