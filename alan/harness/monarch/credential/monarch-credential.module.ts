@@ -24,7 +24,7 @@ export const monarchCredential = {
     {
       invariantKind: "departure",
       statement:
-        "The headers are frozen, so what is handed out cannot be altered by whoever holds those headers.",
+        "The headers are frozen, so the headers handed out cannot be altered by their holder.",
     },
     {
       invariantKind: "departure",
