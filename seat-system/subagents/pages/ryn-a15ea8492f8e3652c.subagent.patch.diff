@@ -1,5 +1,5 @@
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
-index 9d1a6e7c93f2a8cfdd42d106eadd5dbdcc6a7994..8bb71d0ea1a34793e739cd4a41ccbb27c1471d9a 100644
+index 9d1a6e7c93f2a8cfdd42d106eadd5dbdcc6a7994..5979b561339a496859b8fdd91a45c8bb8cae2b82 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
 @@ -49,7 +49,7 @@ export const codeEditorDataInterface = {
@@ -8,6 +8,15 @@ index 9d1a6e7c93f2a8cfdd42d106eadd5dbdcc6a7994..8bb71d0ea1a34793e739cd4a41ccbb27
        invariantKind: "departure",
 -      statement: "The editor reads these files and writes none of them.",
 +      statement: "The editor reads these files and writes none of these files.",
+     },
+     {
+       invariantKind: "departure",
+@@ -58,7 +58,7 @@ export const codeEditorDataInterface = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A change lands at once where the file it changes has been quiet for its cooldown.",
++        "A change lands at once where the file that change changes has been quiet for its cooldown.",
      },
      {
        invariantKind: "departure",
