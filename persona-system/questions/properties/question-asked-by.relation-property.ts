@@ -13,7 +13,8 @@ export const questionAskedBy = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A question is put by a persona rather than by the seat she was working from.",
+      statement:
+        "A question is put by a persona rather than by the seat that persona was working from.",
     },
     {
       invariantKind: "departure",
