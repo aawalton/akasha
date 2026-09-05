@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./file-following": "./workstation-services/file-following/file-following.module.code.ts",
     "./tick-ratchet": "./workstation-services/tick-ratchet/tick-ratchet.module.code.ts",
     "./tick-sleeping": "./workstation-services/tick-sleeping/tick-sleeping.module.code.ts",
     "./workstation-service": "./workstation-services/workstation-service.page-type.ts",

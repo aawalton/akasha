@@ -54,6 +54,7 @@ export const workstationService = {
     "workstation-service/apns-push-notifier",
     "workstation-service/claude-account-upkeep-service",
     "workstation-service/claude-account-upkeep-stall",
+    "workstation-service/code-editor-data-watcher",
     "workstation-service/dcgm-exporter",
     "workstation-service/great-courses-sync",
     "workstation-service/inbox-tracking-poll",
