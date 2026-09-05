@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/eval/monarch-eval.domain.ts b/alan/harness/monarch/eval/monarch-eval.domain.ts
+index 583dd74b406b130c5a1a1cf740b790e303255f48..e9a6e57222a586169987ae6a99bbe2c66825455f 100644
+--- a/alan/harness/monarch/eval/monarch-eval.domain.ts
++++ b/alan/harness/monarch/eval/monarch-eval.domain.ts
+@@ -32,7 +32,7 @@ export const monarchEval = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What is delivered is the partition, and within each part coverage and reliability together.",
++        "The report delivered is the partition, and within each part coverage and reliability together.",
+     },
+     {
+       invariantKind: "departure",
