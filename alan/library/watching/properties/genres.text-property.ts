@@ -17,7 +17,7 @@ export const genres = {
     },
     {
       invariantKind: "departure",
-      statement: "A genre is written as the provider writes it.",
+      statement: "A genre is written as the provider writes that genre.",
     },
   ],
 } as const satisfies TextProperty
