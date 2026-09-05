@@ -12,7 +12,7 @@ index 42d992c09a63714f370075706b779e0b8b52c0b0..f9e44fc90830b2cdfcdb1f582d669849
    expect(holdingIn("  01a0-seat  ")).toBe("/var/tmp/01a0-seat")
  })
 diff --git a/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test.ts b/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test.ts
-index c837c609fdf222470be1f179f8234b04457b8bec..0893fa0de2ef5c74405b2a166ce2a3e9f9c701a6 100644
+index c837c609fdf222470be1f179f8234b04457b8bec..1611330b02bc9d64ad8dc479541c20644fb35231 100644
 --- a/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test.ts
 +++ b/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test.ts
 @@ -51,7 +51,7 @@ test("a redirect onto the index is refused, and names the one repair", () => {
@@ -33,6 +33,25 @@ index c837c609fdf222470be1f179f8234b04457b8bec..0893fa0de2ef5c74405b2a166ce2a3e9
    expect(said("cp /var/tmp/a /var/tmp/b")).toBeNull()
    expect(said("echo hi > /var/tmp/b")).toBeNull()
  })
+@@ -104,15 +104,15 @@ test("an in-place edit onto the index is refused, and names the one repair", ()
+   expect(said(`perl -pi -e 's/a/b/' ${indexNamed()}/held.jsonl`)).toContain(REBUILD)
+ })
+ 
+-test("a sed reading akasha without writing it stands", () => {
++test("a sed reading akasha without writing it is let through", () => {
+   expect(said("sed 's/a/b/' akasha/held.domain.ts")).toBeNull()
+ })
+ 
+-test("an awk reading akasha without writing it stands", () => {
++test("an awk reading akasha without writing it is let through", () => {
+   expect(said("awk '{print}' akasha/held.domain.ts")).toBeNull()
+ })
+ 
+-test("an in-place edit outside the guarded roots stands", () => {
++test("an in-place edit outside the guarded roots is let through", () => {
+   expect(said("perl -pi /var/tmp/edit.pl /var/tmp/x")).toBeNull()
+ })
+ 
 diff --git a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.test.ts b/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.test.ts
 index 02e0a5af2c51b19f0c629be75f7ea05e95699ea0..51eaadb0798c1d6e5805e6c51475582d43354770 100644
 --- a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.test.ts
