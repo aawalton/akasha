@@ -58,7 +58,7 @@ export const pagesAccess = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names what the answer would have taken.",
+      statement: "A refusal names the reading the answer would have taken.",
     },
     {
       invariantKind: "absence",
