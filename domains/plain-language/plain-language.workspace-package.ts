@@ -33,7 +33,7 @@ export const plainLanguage = {
     },
     {
       invariantKind: "departure",
-      statement: "Nothing here says what a sentence means.",
+      statement: "Nothing here states a sentence's meaning.",
     },
     {
       invariantKind: "departure",
