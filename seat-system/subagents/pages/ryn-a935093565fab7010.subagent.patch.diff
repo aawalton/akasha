@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/no-class/no-class.code-check.ts b/checks/code-checks/pages/no-class/no-class.code-check.ts
+index 51f6c5342e60bc6721a8531a086c2e8db2cc0215..313e2ccafc45a6a2114b319f877ca0a630e2ba13 100644
+--- a/checks/code-checks/pages/no-class/no-class.code-check.ts
++++ b/checks/code-checks/pages/no-class/no-class.code-check.ts
+@@ -45,7 +45,7 @@ export const noClass = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What a class extends is judged by the name written rather than by what that name resolves to.",
++        "The name a class extends is judged as written rather than by the type that name resolves to.",
+     },
+   ],
+ } as const satisfies CodeCheck
