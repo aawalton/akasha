@@ -1,5 +1,5 @@
 diff --git a/service-system/cluster-services/cluster-service.page-type.ts b/service-system/cluster-services/cluster-service.page-type.ts
-index 6c0555447f5b1b7e86ebb63bd673892b6f5e1a90..a6dd45d7ad2076ad0b49fcdf3fe86be523585075 100644
+index 6c0555447f5b1b7e86ebb63bd673892b6f5e1a90..4141e1834428bf3c4279b8bc6d5091bd1f4c4465 100644
 --- a/service-system/cluster-services/cluster-service.page-type.ts
 +++ b/service-system/cluster-services/cluster-service.page-type.ts
 @@ -1,6 +1,5 @@
@@ -9,3 +9,13 @@ index 6c0555447f5b1b7e86ebb63bd673892b6f5e1a90..a6dd45d7ad2076ad0b49fcdf3fe86be5
  import type { ClusterServiceSchedule } from "./properties/cluster-service-schedule.text-property.ts"
  import type { ContainerPort } from "./properties/container-port.number-property.ts"
  import type { Image } from "./properties/image.text-property.ts"
+@@ -18,8 +17,7 @@ export type ClusterService = Service & {
+   replicas?: Replicas
+   containerPort?: ContainerPort
+   schedule?: ClusterServiceSchedule
+-  manifestCode?: ManifestCode
+-  manifestSlug?: ManifestSlug
++  manifestSlug: ManifestSlug
+ }
+ 
+ export const clusterService = {
