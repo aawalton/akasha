@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/code-system/code-runtime-path/code-runtime-path.module.ts b/code-system/code-runtime-path/code-runtime-path.module.ts
+index 51b5d66b91b71e7495361c9839bf10c8ae020116..7ae359538560347dc43aab73c533aab9e24d0dfd 100644
+--- a/code-system/code-runtime-path/code-runtime-path.module.ts
++++ b/code-system/code-runtime-path/code-runtime-path.module.ts
+@@ -14,7 +14,7 @@ export const codeRuntimePath = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A body naming neither its own url nor its own directory is left as it is.",
++      statement: "A body naming neither its own url nor its own directory is left as that body is.",
+     },
+     {
+       invariantKind: "departure",
