@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/person-system/person-authorities/properties/person-authority-target.text-property.ts b/person-system/person-authorities/properties/person-authority-target.text-property.ts
+index 9d9087147b8e21009d2214b48d8f9e8d0c2de22b..c1d27c7d9c0fddbd95f33ed29910dc152203c355 100644
+--- a/person-system/person-authorities/properties/person-authority-target.text-property.ts
++++ b/person-system/person-authorities/properties/person-authority-target.text-property.ts
+@@ -18,7 +18,7 @@ export const personAuthorityTarget = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A target closing with `-*` is every area whose slug opens with what comes before the `-*`.",
++        "A target closing with `-*` is every area whose slug opens with the text before the `-*`.",
+     },
+   ],
+ } as const satisfies TextProperty
