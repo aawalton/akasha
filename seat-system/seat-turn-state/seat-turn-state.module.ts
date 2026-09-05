@@ -23,7 +23,7 @@ export const seatTurnState = {
     },
     {
       invariantKind: "departure",
-      statement: "A working seat is read as working before what the seat waits on is read.",
+      statement: "A working seat is read as working before the records the seat waits on are read.",
     },
     {
       invariantKind: "departure",
