@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/story/games/pages/dragons-and-dungeons/dragons-and-dungeons.game.gm-context.json b/story/games/pages/dragons-and-dungeons/dragons-and-dungeons.game.gm-context.json
-index fa86e14b28fb87e1cc6b8f7d7c3c13b05f98508b..e746d1373628255accee9208e63997a3d405fcbf 100644
+index fa86e14b28fb87e1cc6b8f7d7c3c13b05f98508b..1e6d98985862a881111754b07301270a4fdd5b75 100644
 --- a/story/games/pages/dragons-and-dungeons/dragons-and-dungeons.game.gm-context.json
 +++ b/story/games/pages/dragons-and-dungeons/dragons-and-dungeons.game.gm-context.json
-@@ -334,17 +334,12 @@
+@@ -334,16 +334,11 @@
      "catalogVersion": 19
    },
    "turnContract": {
@@ -12,16 +12,16 @@ index fa86e14b28fb87e1cc6b8f7d7c3c13b05f98508b..e746d1373628255accee9208e63997a3
      "obligations": [
        {
          "id": "reconcile-on-wake",
-         "requirement": "Re-read live state before acting. The NARRATIVE record is row-authoritative: the committed `game-turn` rows (published chapter prose + `status`), read via `bun ops awen gm-load --game dragons-and-dungeons` — on any disagreement the committed rows WIN over an in-session draft or the state a crossed message implied. Never guess from a crossed message."
-       },
+-        "requirement": "Re-read live state before acting. The NARRATIVE record is row-authoritative: the committed `game-turn` rows (published chapter prose + `status`), read via `bun ops awen gm-load --game dragons-and-dungeons` — on any disagreement the committed rows WIN over an in-session draft or the state a crossed message implied. Never guess from a crossed message."
+-      },
 -      {
 -        "id": "load-continuity",
 -        "detail": "Advisory to the coordinator, not an engine gate; conformance is checked each review by the narration-person and frame-discipline linters. A parse error or a missing reference is a STOP/report, never a guess.",
 -        "requirement": "Load the narrative-continuity reference fresh — `bun ops awen game-continuity --game dragons-and-dungeons --pretty` — and render it into every prose brief (narration person/POV, frames, transition convention, per-character frame-map)."
--      },
++        "requirement": "Re-read live state before acting. The NARRATIVE record is row-authoritative: the committed `game-turn` rows (published chapter prose + `status`) — on any disagreement the committed rows WIN over an in-session draft or the state a crossed message implied. Never guess from a crossed message."
+       },
        {
          "id": "single-unit",
-         "requirement": "Draft one chapter at a time: do not begin the next chapter until the current one is published and its decision (if any) is captured. If asked to open a second chapter while one is still unpublished, hold and name the chapter that blocks."
 @@ -357,15 +352,6 @@
          "id": "review-linters",
          "requirement": "Before publishing, dispatch the chapter-linter battery in parallel (one focused subagent per linter — see the Policies below), integrate the findings into one review, and hold the irreducibly-holistic judgment; a linter never messages back or edits the chapter."
