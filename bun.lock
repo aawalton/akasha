@@ -85,7 +85,7 @@
       "dependencies": {
         "@akasha/day": "workspace:*",
         "@akasha/indexes": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/seat-system": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -171,7 +171,7 @@
         "@akasha/exercise-access": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/named-for": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/pages-system-service": "workspace:*",
         "@akasha/session-planning": "workspace:*",
       },
@@ -182,7 +182,7 @@
         "@akasha/command-system": "workspace:*",
         "@akasha/day": "workspace:*",
         "@akasha/indexes": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/pages-system-service": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -192,16 +192,16 @@
       "dependencies": {
         "@akasha/day": "workspace:*",
         "@akasha/exercise-access": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
       },
     },
     "alan/library/book-of-everything": {
       "name": "@akasha/book-of-everything",
       "dependencies": {
         "@akasha/indexes": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
       },
     },
     "alan/library/book-of-everything/commands": {
@@ -210,7 +210,7 @@
         "@akasha/book-of-everything": "workspace:*",
         "@akasha/command-system": "workspace:*",
         "@akasha/indexes": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/pages-system-service": "workspace:*",
       },
     },
@@ -239,7 +239,7 @@
         "@akasha/errors-core": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/music-choosing": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/pages-system-service": "workspace:*",
         "@akasha/spotify": "workspace:*",
         "@akasha/utils-sync": "workspace:*",
@@ -498,7 +498,7 @@
       "dependencies": {
         "@akasha/indexes": "workspace:*",
         "@akasha/k8s-synth": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/pages-system-service": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -756,7 +756,7 @@
       "name": "@akasha/email-watch",
       "dependencies": {
         "@akasha/google-email": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/rules-engine": "workspace:*",
         "@akasha/seat-system": "workspace:*",
       },
@@ -856,7 +856,7 @@
       "name": "@akasha/health-samples-access",
       "dependencies": {
         "@akasha/day": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/pages-system-service": "workspace:*",
       },
     },
@@ -866,7 +866,7 @@
         "@akasha/day": "workspace:*",
         "@akasha/health-samples-access": "workspace:*",
         "@akasha/indexes": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
       },
     },
     "health-samples-import": {
@@ -945,7 +945,7 @@
       "dependencies": {
         "@akasha/k8s-synth": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/seat-system": "workspace:*",
         "@akasha/workflow-language": "workspace:*",
         "yaml": "^2.8.0",
@@ -957,7 +957,7 @@
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "yaml": "^2.8.0",
         "zod": "^4.3.6",
       },
@@ -992,7 +992,7 @@
         "@akasha/inference-clients": "workspace:*",
         "@akasha/inference-pool": "workspace:*",
         "@akasha/inference-runs": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/upscale": "workspace:*",
       },
     },
@@ -1028,6 +1028,7 @@
     "infrastructure/k8s-synth": {
       "name": "@akasha/k8s-synth",
       "dependencies": {
+        "@akasha/indexes": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -1064,7 +1065,7 @@
         "@akasha/errors-core": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
         "@akasha/object-store": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -1112,7 +1113,7 @@
         "@akasha/command-system": "workspace:*",
         "@akasha/git": "workspace:*",
         "@akasha/indexes": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
       },
     },
     "mobile-cli": {
@@ -1123,7 +1124,7 @@
         "@akasha/errors-core": "workspace:*",
         "@akasha/file-page-identity": "workspace:*",
         "@akasha/git": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/shell": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
@@ -1139,7 +1140,7 @@
         "@akasha/code-system": "workspace:*",
         "@akasha/command-system": "workspace:*",
         "@akasha/mobile-cli": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -1155,15 +1156,15 @@
       },
     },
     "pages": {
-      "name": "@akasha/pages-system",
+      "name": "@akasha/pages",
     },
     "pages/access": {
       "name": "@akasha/pages-access",
       "dependencies": {
         "@akasha/file-page-identity": "workspace:*",
         "@akasha/named-for": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/pages-core": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
         "@akasha/pages-system-service": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
@@ -1175,7 +1176,7 @@
       "dependencies": {
         "@akasha/code-system": "workspace:*",
         "@akasha/command-system": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
       },
     },
     "pages/core": {
@@ -1231,9 +1232,9 @@
     "pages/ui-store": {
       "name": "@akasha/pages-ui-store",
       "dependencies": {
+        "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@tanstack/db": "^0.6.14",
@@ -1291,7 +1292,7 @@
     "persona-system": {
       "name": "@akasha/persona-system",
       "dependencies": {
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
       },
     },
     "personas-core": {
@@ -1325,7 +1326,7 @@
       "dependencies": {
         "@akasha/command-system": "workspace:*",
         "@akasha/indexes": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/seat-system": "workspace:*",
         "@akasha/utils-run": "workspace:*",
       },
@@ -1334,7 +1335,7 @@
       "name": "@akasha/rule-population",
       "dependencies": {
         "@akasha/checks": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/seat-system": "workspace:*",
       },
     },
@@ -1363,7 +1364,7 @@
         "@akasha/errors-core": "workspace:*",
         "@akasha/git": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/utils-process": "workspace:*",
         "@akasha/workflow-language": "workspace:*",
@@ -1490,7 +1491,7 @@
         "@akasha/code-system": "workspace:*",
         "@akasha/command-system": "workspace:*",
         "@akasha/indexes": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/temper-saved-vars-migration": "workspace:*",
         "@akasha/utils-run": "workspace:*",
@@ -1500,9 +1501,9 @@
     "temper/temper-addon-data": {
       "name": "@akasha/temper-addon-data",
       "dependencies": {
+        "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-query": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
         "@akasha/temper-addon-generators": "workspace:*",
         "@akasha/temper-alchemy": "workspace:*",
         "@akasha/temper-build-codec": "workspace:*",
@@ -1887,8 +1888,9 @@
         "@akasha/command-system": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/indexes": "workspace:*",
+        "@akasha/pages": "workspace:*",
+        "@akasha/pages-access": "workspace:*",
         "@akasha/pages-query": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/temper-addon-build": "workspace:*",
         "@akasha/temper-addon-data": "workspace:*",
@@ -2693,10 +2695,10 @@
       "dependencies": {
         "@akasha/day": "workspace:*",
         "@akasha/errors-core": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-query": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
         "@akasha/pages-system-service": "workspace:*",
         "@akasha/recurrence": "workspace:*",
         "@akasha/temper-addon-generators": "workspace:*",
@@ -2909,7 +2911,7 @@
       "name": "@akasha/workspace-paths",
       "dependencies": {
         "@akasha/command-system": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "typescript": "5.9.3",
         "zod": "^4.3.6",
       },
@@ -3093,13 +3095,13 @@
 
     "@akasha/page-commands": ["@akasha/page-commands@workspace:pages/commands"],
 
+    "@akasha/pages": ["@akasha/pages@workspace:pages"],
+
     "@akasha/pages-access": ["@akasha/pages-access@workspace:pages/access"],
 
     "@akasha/pages-core": ["@akasha/pages-core@workspace:pages/core"],
 
     "@akasha/pages-query": ["@akasha/pages-query@workspace:pages/query"],
-
-    "@akasha/pages-system": ["@akasha/pages-system@workspace:pages"],
 
     "@akasha/pages-system-service": ["@akasha/pages-system-service@workspace:pages/system-service"],
 
