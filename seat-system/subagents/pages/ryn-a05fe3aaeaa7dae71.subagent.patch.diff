@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/chess/chess-progresses/chess-progress.page-type.ts b/alan/chess/chess-progresses/chess-progress.page-type.ts
+index 1ba4d77d62551215c42a101ab6f21976cc57dc52..c0c015af88514d7390f59531b7dab5c2f482e992 100644
+--- a/alan/chess/chess-progresses/chess-progress.page-type.ts
++++ b/alan/chess/chess-progresses/chess-progress.page-type.ts
+@@ -55,7 +55,7 @@ export const chessProgress = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page of category `motif` names the motif it is about.",
++      statement: "A page of category `motif` names the motif that page is about.",
+     },
+     {
+       invariantKind: "departure",
