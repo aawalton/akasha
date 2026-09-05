@@ -9,17 +9,17 @@ export const monarchFiles = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every Monarch page family stands under one folder inside akasha.",
+      statement: "Every Monarch page family sits under one folder inside akasha.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The checkout is read directly, because the categorization ring runs under a workstation timer where no service stands.",
+        "The checkout is read directly, because the categorization ring runs under a workstation timer where there is no service.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A month page stands in a folder of its own with its transactions entry file beside it.",
+        "A month page sits in a folder of its own with its transactions entry file beside it.",
     },
     {
       invariantKind: "departure",

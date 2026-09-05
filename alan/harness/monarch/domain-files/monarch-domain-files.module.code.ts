@@ -62,7 +62,7 @@ function ordered(value: Readonly<Record<string, unknown>>): readonly string[] {
 /** The width the formatter wraps a line at, stated once in `biome.json`. */
 const WIDTH = 100
 
-/** A value whose line runs past the width stands on a line of its own, as the formatter puts it. */
+/** A value whose line runs past the width is on a line of its own, as the formatter puts it. */
 function stated(key: string, value: unknown): readonly string[] {
   const said = written(value)
   const one = `  ${key}: ${said},`
@@ -116,13 +116,13 @@ function namedForType(pageTypeSlug: string, slug: string): string {
 export async function landing(
   pageTypeSlug: string,
   folder: string,
-  standing: readonly PageFile[],
+  already: readonly PageFile[],
   wanted: readonly Wanted[],
   defined: boolean = true
 ): Promise<Landing> {
   const byMonarchId = new Map<string, PageFile>()
   const taken = new Set<string>()
-  for (const page of standing) {
+  for (const page of already) {
     taken.add(page.slug)
     const id = keyOf(page, "monarchId")
     if (id !== null && id !== "") byMonarchId.set(id, page)
@@ -218,7 +218,7 @@ export function holdingWanted(accountSlug: string, h: MonarchHolding): Wanted {
     title: h.ticker ?? h.securityName,
     slugFrom: h.ticker ?? h.securityName,
     values,
-    definition: `the ${h.ticker ?? h.securityName} units standing in ${accountSlug}.`,
+    definition: `the ${h.ticker ?? h.securityName} units sitting in ${accountSlug}.`,
   }
 }
 

@@ -24,7 +24,7 @@ export const monarchDomainFiles = {
     {
       invariantKind: "departure",
       statement:
-        "A value whose line runs past the width the formatter wraps at stands on a line of its own.",
+        "A value whose line runs past the width the formatter wraps at is on a line of its own.",
     },
     {
       invariantKind: "departure",

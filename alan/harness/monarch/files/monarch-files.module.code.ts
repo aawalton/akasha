@@ -9,7 +9,7 @@ export const AKASHA = rootFor(roots, AKASHA_REPO)
 
 const MONTH_TYPE = "monarch-month"
 
-/** Every Monarch page family stands under this one folder inside akasha. */
+/** Every Monarch page family sits under this one folder inside akasha. */
 const MONARCH = "alan/harness/monarch"
 
 export const MONTHS_FOLDER = `${MONARCH}/monarch-months/pages`
@@ -21,7 +21,7 @@ export const DIRECTION_FOLDER = `${MONARCH}/monarch-directions/pages`
 export const MERCHANT_FOLDER = `${MONARCH}/monarch-merchants/pages`
 
 /**
- * One line of the `transactions` entry file standing beside a month page.
+ * One line of the `transactions` entry file beside a month page.
  *
  * The keys are the entry shape's own, declared at
  * `alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts`.
@@ -121,7 +121,7 @@ export function monthOf(date: string): string {
   return `month-${date.slice(0, 7)}`
 }
 
-/** A month page stands in a folder of its own, the entry file beside it. */
+/** A month page sits in a folder of its own, the entry file beside it. */
 export function monthPagePath(slug: string): string {
   return `${MONTHS_FOLDER}/${slug}/${slug}.${MONTH_TYPE}.ts`
 }
