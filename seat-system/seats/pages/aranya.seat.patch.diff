@@ -982,3 +982,18 @@ index 0000000000000000000000000000000000000000..feaa5c4a3f9f98bb7773ed855b7df713
 +  definition: "the exporter that publishes the connection pool's state as metrics",
 +  code: "ts",
 +} as const satisfies Module
+diff --git a/infrastructure/cluster-manifests/postgres-exporter-manifests/postgres-exporter-manifests.module.ts b/infrastructure/cluster-manifests/postgres-exporter-manifests/postgres-exporter-manifests.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..450167888c1bc9de5eee8d34f40bb1bddef78473
+--- /dev/null
++++ b/infrastructure/cluster-manifests/postgres-exporter-manifests/postgres-exporter-manifests.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const postgresExporterManifests = {
++  id: "01a073af-0c9d-734d-9d97-227704cc6fcf",
++  pageTypeSlug: "module",
++  slug: "postgres-exporter-manifests",
++  definition: "the exporter that publishes the database's own state as metrics",
++  code: "ts",
++} as const satisfies Module
