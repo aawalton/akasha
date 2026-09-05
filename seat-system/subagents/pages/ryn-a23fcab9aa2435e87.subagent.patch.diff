@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/music/spotify/fetching/spotify-fetching.module.ts b/alan/music/spotify/fetching/spotify-fetching.module.ts
+index 6ba28ec34438ff5ae494fa2edca2154d30dae618..d2ca368b436b854b7226355a16cca5d905ea7aed 100644
+--- a/alan/music/spotify/fetching/spotify-fetching.module.ts
++++ b/alan/music/spotify/fetching/spotify-fetching.module.ts
+@@ -22,7 +22,7 @@ export const spotifyFetching = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows what a Spotify URL means.",
++      statement: "Nothing here reads a Spotify URL.",
+     },
+   ],
+ } as const satisfies Module
