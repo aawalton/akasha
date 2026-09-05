@@ -17,7 +17,7 @@ export const mainMenuSetup = {
     },
     {
       invariantKind: "departure",
-      statement: "The bars this sets up hang off one top level window.",
+      statement: "The bars this module sets up hang off one top level window.",
     },
     {
       invariantKind: "departure",

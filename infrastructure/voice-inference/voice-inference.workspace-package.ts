@@ -26,7 +26,7 @@ export const voiceInference = {
     },
     {
       invariantKind: "constraint",
-      statement: "The card this runs on takes int8 weights and not float16 ones.",
+      statement: "The card this package runs on takes int8 weights and not float16 ones.",
     },
   ],
 } as const satisfies WorkspacePackage

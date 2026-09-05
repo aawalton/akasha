@@ -30,7 +30,7 @@ export const mobileSimStatus = {
     },
     {
       invariantKind: "departure",
-      statement: "An age is measured against the moment this was called.",
+      statement: "An age is measured against the moment this command was called.",
     },
     {
       invariantKind: "absence",

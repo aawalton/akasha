@@ -24,7 +24,7 @@ export const characterSortOrder = {
     },
     {
       invariantKind: "gap",
-      statement: "No property gives a temper character the sort order this reads.",
+      statement: "No property gives a temper character the sort order this value reads.",
     },
   ],
 } as const satisfies NumberProperty

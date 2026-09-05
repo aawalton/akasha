@@ -41,7 +41,7 @@ export const watcherRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A worker ended by a signal this took is a clean stop.",
+      statement: "A worker ended by a signal this module took is a clean stop.",
     },
     {
       invariantKind: "departure",

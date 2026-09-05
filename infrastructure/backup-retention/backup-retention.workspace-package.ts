@@ -51,7 +51,7 @@ export const backupRetention = {
     },
     {
       invariantKind: "departure",
-      statement: "The cluster runs both of these on a schedule.",
+      statement: "The cluster starts both of these runs on a schedule.",
     },
   ],
 } as const satisfies WorkspacePackage

@@ -29,7 +29,7 @@ export const service = {
     },
     {
       invariantKind: "absence",
-      statement: "This adds no property of its own.",
+      statement: "This page type adds no property of its own.",
     },
   ],
 } as const satisfies PageType

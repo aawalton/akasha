@@ -9,7 +9,7 @@ export const useCompletionProgress = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Whether the catalogs have loaded is part of whether this is loading.",
+      statement: "Whether the catalogs have loaded is part of whether this module is loading.",
     },
     {
       invariantKind: "departure",

@@ -17,7 +17,7 @@ export const buildCorrelationId = {
     },
     {
       invariantKind: "departure",
-      statement: "This is what the client sent rather than what the build is reached by.",
+      statement: "This property is what the client sent rather than what the build is reached by.",
     },
   ],
 } as const satisfies TextProperty

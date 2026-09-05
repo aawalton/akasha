@@ -5,9 +5,7 @@ export const orphanedResourcesSweep = {
   pageTypeSlug: "workstation-service",
   slug: "orphaned-resources-sweep",
   definition: "the service saying which live cluster resources no source manifest accounts for",
-  runs: [
-    "bun infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.code.ts",
-  ],
+  runs: ["bun infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.code.ts"],
   enabled: true,
   needsSecrets: true,
   systemd: {
@@ -28,7 +26,7 @@ export const orphanedResourcesSweep = {
     },
     {
       invariantKind: "departure",
-      statement: "A clean sweep says nothing, so every message this sends is drift.",
+      statement: "A clean sweep says nothing, so every message this service sends is drift.",
     },
     {
       invariantKind: "departure",
