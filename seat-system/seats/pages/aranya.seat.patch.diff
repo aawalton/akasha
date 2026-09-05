@@ -103,6 +103,30 @@ index ee111070d85d66994ebe6082f1d55fc35f12807a..38da2fde0d0af2dc74a6e9daa2f15b6d
        said.patch === null
          ? "the patch was worked out to nothing and taken away"
          : `the patch is kept at ${patchAt(page)}`,
+diff --git a/command-system/commands/patch/patch.command.test.ts b/command-system/commands/patch/patch.command.test.ts
+index 597bc281cf3f5fe6bc00d0ea08a3caa244385a22..023a2dac11f0f7401d6eea8ca664540b17b14c8a 100644
+--- a/command-system/commands/patch/patch.command.test.ts
++++ b/command-system/commands/patch/patch.command.test.ts
+@@ -320,3 +320,19 @@ test("a path HEAD took away is resolved and the rest of the patch is left", asyn
+   expect(said.report.join("\n")).toContain(`changed ${TWO}`)
+   expect(said.report.join("\n")).toContain(`added ${ONE}`)
+ })
++
++test("a resolve is judged over every path the patch holds", async () => {
++  const root = await repo()
++  await landingAt(root, TWO, WAS)
++  draftingBoth(root)
++  const said = await resolving(given(root), PAGE, ["--file-path", ONE], piped(NOW))
++  expect(said.report.join("\n")).toContain("2 paths the patch would leave")
++})
++
++test("a resolve a check refused takes the body all the same", async () => {
++  const root = await repo()
++  drafting(root)
++  const said = await resolving(given(root), PAGE, ["--file-path", ONE], piped(NOW))
++  expect(said.code).toBe(0)
++  expect(said.report.join("\n")).toContain(`resolved ${ONE}`)
++})
 diff --git a/command-system/commands/patch/patch.command.ts b/command-system/commands/patch/patch.command.ts
 index ba8212c098fd8512e80f16b3dacede76b24bd805..2317aa82c729acc1739d26ae4113e77f7a1dec56 100644
 --- a/command-system/commands/patch/patch.command.ts
