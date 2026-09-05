@@ -15,7 +15,7 @@ export const amySeatTurnReading = {
     {
       statement: "A turn state is drawn within the time the code-editor domain allows.",
       workingMemory:
-        "Met at the service and measured at a5d1fc02: an append reaches the sidecar in 41ms median and 44ms at worst, down from 267ms, for 4.8% of a core against 3.6%. A transcript settles for 25ms of its own where a store keeps 250ms. What is left is the panel: its 25ms settle and 30ms read are arithmetic, so the 100ms the domain allows is unmeasured end to end.",
+        "Met end to end and measured at 79871f09: 2-15ms from the state file being written to the agents panel having drawn, by activating the extension under node against a root whose agent-tree file is mine. It read 29-43ms before. Two faults came out of measuring: a state arriving mid-drawing was recorded as read and dropped, so two states 4ms apart drew once and left the older on the rows; and the terminal sweep, a harness round trip, sat in front of the rows. Both gone, one through module/newest-wins.",
     },
   ],
   constraints: [
