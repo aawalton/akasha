@@ -15,7 +15,7 @@ export const declaration = {
     },
     {
       invariantKind: "departure",
-      statement: "A declaration states the steps, and the page states what they are for.",
+      statement: "A declaration states the steps, and the page states what those steps are for.",
     },
     {
       invariantKind: "departure",
