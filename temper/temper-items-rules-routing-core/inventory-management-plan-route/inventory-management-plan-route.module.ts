@@ -9,11 +9,12 @@ export const inventoryManagementPlanRoute = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A route is worked out from where the item lies and from where the rule sends it.",
+      statement:
+        "A route is worked out from where the item lies and from where the rule sends that item.",
     },
     {
       invariantKind: "departure",
-      statement: "An item already where the rule sends it needs no route.",
+      statement: "An item already where the rule sends that item needs no route.",
     },
   ],
 } as const satisfies Module
