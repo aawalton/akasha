@@ -1,0 +1,63 @@
+diff --git a/markdown-pages/markdown-page-commit-queue/markdown-page-commit-queue.module.code.ts b/markdown-pages/markdown-page-commit-queue/markdown-page-commit-queue.module.code.ts
+index 78ef253e3364a681cb7897aa1e351c94e437979d..05aaaf9d68d7d1b115f6a0dfc450354958f8343f 100644
+--- a/markdown-pages/markdown-page-commit-queue/markdown-page-commit-queue.module.code.ts
++++ b/markdown-pages/markdown-page-commit-queue/markdown-page-commit-queue.module.code.ts
+@@ -31,7 +31,7 @@ export const STALL_ATTEMPTS = 6
+ export const UNLANDED_GRACE_MS = 60_000
+ 
+ export const UNLANDED_SAYS =
+-  "run `bun tools/unlanded.ts` to see every file standing written but uncommitted, and who wrote it"
++  "run `bun tools/unlanded.ts` to see every file left written but uncommitted, and who wrote it"
+ 
+ const NAMED_CEILING = 4
+ 
+diff --git a/markdown-pages/markdown-page-write-compose/markdown-page-write-compose.module.code.ts b/markdown-pages/markdown-page-write-compose/markdown-page-write-compose.module.code.ts
+index ccdaa2a30fed633c168a53cfd72460083cbe79fc..aba26d1d0353483334c62ed6c90ee2fe8f367411 100644
+--- a/markdown-pages/markdown-page-write-compose/markdown-page-write-compose.module.code.ts
++++ b/markdown-pages/markdown-page-write-compose/markdown-page-write-compose.module.code.ts
+@@ -69,11 +69,11 @@ export function patchedText(
+   clear: readonly string[] = [],
+   tree: FileTree = diskFileTree(roots)
+ ): string {
+-  const standing = statedIn(text)
+-  delete standing["page-type-slug"]
+-  for (const key of uncommittedKeysFor(tree, pageType)) delete standing[key]
+-  for (const key of attachmentKeysFor(tree, pageType).keys()) delete standing[key]
+-  const merged: Record<string, unknown> = { ...standing, ...split.front }
++  const stated = statedIn(text)
++  delete stated["page-type-slug"]
++  for (const key of uncommittedKeysFor(tree, pageType)) delete stated[key]
++  for (const key of attachmentKeysFor(tree, pageType).keys()) delete stated[key]
++  const merged: Record<string, unknown> = { ...stated, ...split.front }
+   for (const key of clear) delete merged[key]
+   const front = frontOf(tree, pageType, withId(merged as Record<string, Rendered>, text, at))
+   return `${front}${split.body ?? bodyIn(text)}`
+diff --git a/markdown-pages/markdown-page-write-where/markdown-page-write-where.module.code.ts b/markdown-pages/markdown-page-write-where/markdown-page-write-where.module.code.ts
+index 3c84a6c4f997f6b7ffcb438f0fc92c7265e11a36..90186452b5aff4bc974d489127ccd0c8a5ec78de 100644
+--- a/markdown-pages/markdown-page-write-where/markdown-page-write-where.module.code.ts
++++ b/markdown-pages/markdown-page-write-where/markdown-page-write-where.module.code.ts
+@@ -32,7 +32,7 @@ export interface Where {
+ }
+ 
+ /**
+- * Where a page of this type and name stands, or where a new markdown one would.
++ * Where a page of this type and name is, or where a new markdown one would be.
+  *
+  * Both halves of the question used to be the markdown half. `stands` asked `typeSuffixOf`, which
+  * answers the empty text for a `.ts` name, so it was false for every one of Alan's 133 moved days
+diff --git a/markdown-pages/markdown-page-write/markdown-page-write.module.code.ts b/markdown-pages/markdown-page-write/markdown-page-write.module.code.ts
+index e12a646ab72c39d45358e4e945d2c20d50a2e293..e8008838c0ed1e6b0cd77053a1e5790b92855fb8 100644
+--- a/markdown-pages/markdown-page-write/markdown-page-write.module.code.ts
++++ b/markdown-pages/markdown-page-write/markdown-page-write.module.code.ts
+@@ -106,9 +106,9 @@ function clearRows(tree: FileTree, pageType: string, at: Where): readonly Taken[
+     const relPath = rowsFileOf(at.relPath, holding.key, holding.uncommitted)
+     for (const part of rowsPartsFor(path, relPath)) {
+       const pages = exclusively(part.path, () => {
+-        const stood = rowsIn(part.path)
++        const was = rowsIn(part.path)
+         rmSync(part.path, { force: true })
+-        return stood
++        return was
+       })
+       if (pages !== null) took.push({ at: part.at, pageType: holding.target, pages })
+     }
