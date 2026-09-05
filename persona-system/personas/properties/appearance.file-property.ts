@@ -26,7 +26,7 @@ export const appearance = {
     },
     {
       invariantKind: "upkeep",
-      statement: "An appearance says what the persona's anchor image shows of her ancestry.",
+      statement: "An appearance names the ancestry the persona's anchor image shows.",
     },
   ],
 } as const satisfies FileProperty
