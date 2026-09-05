@@ -20,6 +20,7 @@ export const move = {
     "module/move-renaming",
     "module/move-repointing",
     "module/move-resettling",
+    "module/move-siding",
     "module/move-spreading",
   ],
   taking: [
