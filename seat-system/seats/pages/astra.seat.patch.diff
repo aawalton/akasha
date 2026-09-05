@@ -13,6 +13,40 @@ index 0000000000000000000000000000000000000000..036c88a7d196348bd46bded23d6d2a2e
 +  definition: "a change shown before the server has answered",
 +  partSlugs: ["module/convergence", "module/optimistic-mutation", "module/plan"],
 +} as const satisfies Domain
+diff --git a/pages/ui-store/pages-ui-store.workspace-package.ts b/pages/ui-store/pages-ui-store.workspace-package.ts
+index 90cc13b725c2241f84ab3b2cfdfe85376f144e34..4a632376a5d88a08d4e55b2ceb9849ec0d10c080 100644
+--- a/pages/ui-store/pages-ui-store.workspace-package.ts
++++ b/pages/ui-store/pages-ui-store.workspace-package.ts
+@@ -19,25 +19,12 @@ export const pagesUiStore = {
+     "module/store",
+     "module/sync-controller",
+     "module/diagnostics",
+-    "module/convergence",
+-    "module/optimistic-mutation",
+-    "module/plan",
+-    "module/condition-eval",
+-    "module/condition-expr",
+-    "module/id-suffix-pipeline",
+-    "module/regular-pipeline",
+-    "module/sort-resolve",
+-    "module/view-match",
+-    "module/view-pipeline",
+-    "module/view-target-slugs",
+-    "module/jwt-exp",
+-    "module/jwt-sub",
+-    "module/payload-translator",
+-    "module/shape-meta",
+-    "module/snapshot-fold",
++    "domain/pages-ui-store-optimistic",
++    "domain/pages-ui-store-query",
++    "domain/pages-ui-store-realtime",
+     "module/report-stall",
+     "module/singleton",
+-    "module/options",
++    "domain/pages-ui-store-sql",
+   ],
+   invariants: [
+     {
 diff --git a/pages/ui-store/query/pages-ui-store-query.domain.ts b/pages/ui-store/query/pages-ui-store-query.domain.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..356a95cb644e416f6062763aaa498f89c7eb0771
