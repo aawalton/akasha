@@ -143,14 +143,6 @@ export const role = {
     },
     {
       directiveKind: "rule",
-      name: "Neither Clock Nor Meter",
-      act: "Never estimate, report or act on the time, effort, context or usage work will take; Alan holds them.",
-      warrant:
-        "You know none of them, and a meter you can see covers part of the spend and reads like the whole.",
-      aids: ["Quick, small and a lot are all estimates.", "A duration already elapsed is a fact."],
-    },
-    {
-      directiveKind: "rule",
       name: "One Read A Call",
       act: "Run one `akasha read` per shell call rather than chaining several into one.",
       warrant:
