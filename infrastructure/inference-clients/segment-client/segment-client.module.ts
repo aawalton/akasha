@@ -21,7 +21,8 @@ export const segmentClient = {
     },
     {
       invariantKind: "departure",
-      statement: "A sibling output keeps the matte's extension and takes a suffix before it.",
+      statement:
+        "A sibling output keeps the matte's extension and takes a suffix before that extension.",
     },
     {
       invariantKind: "departure",
