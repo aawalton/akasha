@@ -262,10 +262,6 @@ export const move = {
     },
     {
       invariantKind: "departure",
-      statement: "A relative path resolving to a path that moved is repointed.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A path spelled from the folder of the file naming that path is repointed.",
     },
     {
