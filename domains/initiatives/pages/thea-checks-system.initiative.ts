@@ -8,6 +8,11 @@ export const theaChecksSystem = {
   personaSlug: "thea",
   intents: [
     {
+      statement: "The tests beside a changed file judge the change that carries it.",
+      workingMemory:
+        "37 of 44 checks run on no phase and this is one, so nothing is ever refused for a red test. Patch is the ratchet and starts before the tree reaches zero, so a green tree is not the bar. The work is the world: tests run in a tree written from the change, carrying the index it leaves, swept however it ends. `akasha test` takes no root override and `bun test` is hook-refused, so nothing runs a test elsewhere. First the root override, then the world, then re-entrancy, then measure what patch refuses.",
+    },
+    {
       statement:
         "A page type narrows an inherited property's reach to the collection it is part of.",
       workingMemory:
