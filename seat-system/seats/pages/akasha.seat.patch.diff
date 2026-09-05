@@ -35,3 +35,15 @@ index 0000000000000000000000000000000000000000..1d5dcfc72bfacfe6262b3da4697d865e
 +    },
 +  ],
 +} as const satisfies PageType
+diff --git a/pages/page.workspace-package.ts b/pages/page.workspace-package.ts
+index 02d64d6effe71e651ca0a752cf62cea6a6e1c84d..ff1f079aaa2728b803859ab46ee2c037a48b50d6 100644
+--- a/pages/page.workspace-package.ts
++++ b/pages/page.workspace-package.ts
+@@ -51,6 +51,7 @@ export const page = {
+     "page-type/name-place",
+     "page-type/generator-kind",
+     "page-type/unique-kind",
++    "page-type/page-address-kind",
+     "page-type/page-query",
+     "workspace-package/index",
+     "workspace-package/pages-query",
