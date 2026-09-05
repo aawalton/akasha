@@ -1,0 +1,45 @@
+diff --git a/temper/temper-watcher/watcher-export-settings/watcher-export-settings.module.ts b/temper/temper-watcher/watcher-export-settings/watcher-export-settings.module.ts
+index 8577e04af0f44914e8f3d42cc05987b2bd21000c..5925ef690a4dc19a2a2e643f46d0ab80f14216b0 100644
+--- a/temper/temper-watcher/watcher-export-settings/watcher-export-settings.module.ts
++++ b/temper/temper-watcher/watcher-export-settings/watcher-export-settings.module.ts
+@@ -14,7 +14,20 @@ export const watcherExportSettings = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An account holding no settings of any type gets its content back unchanged.",
++      statement:
++        "An account holding neither a setting of any type nor a rule page gets its content back unchanged.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The rules exported are the ones the account's rule pages carry.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every rule page an account holds is read in one read.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A rule the settings blob still holds reaches nothing.",
+     },
+     {
+       invariantKind: "departure",
+@@ -31,7 +44,7 @@ export const watcherExportSettings = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The inventory blocks are worked out only where the player set inventory settings.",
++        "The inventory blocks are worked out where the player set inventory settings or holds a rule page.",
+     },
+     {
+       invariantKind: "departure",
+@@ -76,7 +89,8 @@ export const watcherExportSettings = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A caller may hand in what settings are read and what writes the side file.",
++      statement:
++        "A caller may hand in what settings are read, what rules are read, and what writes the side file.",
+     },
+     {
+       invariantKind: "absence",
