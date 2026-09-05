@@ -11,6 +11,5 @@ export const gotrue = {
   image: "supabase/auth:v2.188.1",
   replicas: 1,
   containerPort: 9999,
-  manifestCode:
-    "service-system/cluster-services/pages/gotrue/gotrue.cluster-service.code.attachment.ts",
+  manifestSlug: "gotrue",
 } as const satisfies ClusterService
