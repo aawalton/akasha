@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/system-service/page-serving/page-serving.module.ts b/pages/system-service/page-serving/page-serving.module.ts
+index 42b89d4b9a6fa9478e3f6ec988135e7a3b41b45e..2ddc7fca64e2ed8471128e1e6df9d50ffa6135ee 100644
+--- a/pages/system-service/page-serving/page-serving.module.ts
++++ b/pages/system-service/page-serving/page-serving.module.ts
+@@ -94,7 +94,7 @@ export const pageServing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page a write carries may say whether it merges.",
++      statement: "A page a write carries may say whether that page merges.",
+     },
+     {
+       invariantKind: "departure",
