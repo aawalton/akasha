@@ -4,21 +4,20 @@ export const seatReviveVerifySignal = {
   id: "01a0686d-9d5e-700e-98bf-06b7ad829d40",
   pageTypeSlug: "module",
   slug: "seat-revive-verify-signal",
-  definition: "what the exit code of a verifying resume says became of the seat",
+  definition: "what a verifying revive says became of the seat",
   code: "ts",
-  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A resume that exited cleanly revived its seat.",
+      statement: "One signal names each way a verifying revive comes back.",
     },
     {
       invariantKind: "departure",
-      statement: "A resume that exited three could not verify its seat rather than failing.",
+      statement: "A seat that could not be verified is not a seat that failed.",
     },
     {
-      invariantKind: "departure",
-      statement: "Every other exit is a failure.",
+      invariantKind: "absence",
+      statement: "Nothing here reads an exit code.",
     },
   ],
 } as const satisfies Module
