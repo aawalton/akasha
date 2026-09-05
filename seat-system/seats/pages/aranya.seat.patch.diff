@@ -103,6 +103,18 @@ index ee111070d85d66994ebe6082f1d55fc35f12807a..38da2fde0d0af2dc74a6e9daa2f15b6d
        said.patch === null
          ? "the patch was worked out to nothing and taken away"
          : `the patch is kept at ${patchAt(page)}`,
+diff --git a/command-system/commands/patch/patch.command.ts b/command-system/commands/patch/patch.command.ts
+index ba8212c098fd8512e80f16b3dacede76b24bd805..4c2c103e1e52d9eaf87dba89c7d73bcf5a3e598a 100644
+--- a/command-system/commands/patch/patch.command.ts
++++ b/command-system/commands/patch/patch.command.ts
+@@ -40,6 +40,7 @@ export const patch = {
+     "a resolve reads the body from standard input unless --content-file names a file.",
+     "a body handed to a resolve replaces what the patch held rather than merging onto that body.",
+     "a body still carrying conflict marks is refused, so no patch applies half resolved.",
++    "a resolve is judged over every path the patch holds, and takes the body whatever refuses.",
+   ],
+   invariants: [
+     {
 diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
 index 3e79fda62c024d6f42de233b752efe6c1bb8c0c7..90fc7cb550cd66feb17a1956ad8bf3d39d4f77eb 100644
 --- a/command-system/landing/landing.module.code.ts
