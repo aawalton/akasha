@@ -1,0 +1,143 @@
+diff --git a/commands/move/siding/move-siding.module.code.ts b/commands/move/siding/move-siding.module.code.ts
+index e660ce69a6fb028e8f1046e5d57034f6ab4fc4b4..d074cb22931ca3fbd15a67707c3d6335bf162c6a 100644
+--- a/commands/move/siding/move-siding.module.code.ts
++++ b/commands/move/siding/move-siding.module.code.ts
+@@ -1,13 +1,26 @@
+ import { existsSync, statSync } from "node:fs"
+ import { basename, dirname, join } from "node:path"
++import { pageTypesIn } from "@akasha/indexes/entries"
+ import { besideOf } from "@akasha/pages-system/page-beside"
+-import { uncommittedHeld } from "@akasha/pages-system/page-file-name"
++import {
++  pageNamed,
++  pageOf,
++  partedIn,
++  sectionedIn,
++  uncommittedHeld,
++} from "@akasha/pages-system/page-file-name"
+ import { pathAt } from "../../write/write.command.code.ts"
+ import { namingOf } from "../naming/move-naming.module.code.ts"
+ import type { Renaming } from "../renaming/move-renaming.module.code.ts"
+ import { besideRenamed, renamingFor } from "../renaming/move-renaming.module.code.ts"
+ import type { Pair } from "../spreading/move-spreading.module.code.ts"
+ 
++const TS = ".ts"
++
++export type Kind = "own" | "beside" | "stray"
++
++export type Named = { readonly types: ReadonlySet<string> } | { readonly unread: string }
++
+ export type Sided = {
+   readonly from: string
+   readonly to: string
+@@ -16,6 +29,28 @@ export type Sided = {
+   readonly renaming: Renaming | null
+ }
+ 
++export function kindOf(path: string, pageTypes: ReadonlySet<string>): Kind {
++  if (pageNamed(path, pageTypes)) return "own"
++  const said = partedIn(path)
++  if (said === null || !pageTypes.has(said.pageType)) return "stray"
++  if (said.sections.length === 0) return "stray"
++  return sectionedIn(said) === null ? "stray" : "beside"
++}
++
++export function pageBeside(path: string): string {
++  const said = partedIn(path)
++  return said === null ? path : join(dirname(path), `${pageOf(said)}${TS}`)
++}
++
++function typesFor(root: string): Named {
++  try {
++    return { types: pageTypesIn(root) }
++  } catch (cause) {
++    const why = cause instanceof Error ? cause.message : String(cause)
++    return { unread: `${why}, so what a page type is could not be answered` }
++  }
++}
++
+ export function sidedIn(
+   root: string,
+   pairs: readonly Pair[]
+@@ -24,6 +59,11 @@ export function sidedIn(
+   const sides: Sided[] = []
+   const seen = new Set<string>()
+   const taken = new Set<string>()
++  let read: Named | null = null
++  const typesAsked = (): Named => {
++    read ??= typesFor(root)
++    return read
++  }
+   for (const one of pairs) {
+     const from = pathAt(root, one.from)
+     const to = pathAt(root, one.to)
+@@ -53,23 +93,37 @@ export function sidedIn(
+       refusals.push(`${to} already stands, and a move writes over nothing`)
+       continue
+     }
+-    const naming = namingOf(root, from)
+-    if ("unread" in naming) {
+-      refusals.push(naming.unread)
+-      continue
+-    }
+-    const claimed = naming.held
+-    const own = claimed !== null && claimed.path === from
+     let renaming: Renaming | null = null
++    let kind: Kind | null = null
+     if (basename(from) !== basename(to)) {
+-      if (claimed !== null && !own) {
++      const named = typesAsked()
++      if ("unread" in named) {
++        refusals.push(named.unread)
++        continue
++      }
++      kind = kindOf(from, named.types)
++      if (kind === "beside") {
+         refusals.push(
+-          `${from} is a file \`${claimed.path}\` claims beside it, and its name is what makes that claim`
++          `${from} is a file \`${pageBeside(from)}\` claims beside it, and its name is what ` +
++            "makes that claim"
+         )
+         continue
+       }
+-      if (claimed !== null) {
+-        const asked = renamingFor(from, to, claimed.id)
++      if (kind === "own") {
++        const naming = namingOf(root, from)
++        if ("unread" in naming) {
++          refusals.push(naming.unread)
++          continue
++        }
++        const held = naming.held
++        if (held === null || held.path !== from) {
++          refusals.push(
++            `${from} is a page's own file the index answers no page for, so the slug a new ` +
++              "name would rename is unread"
++          )
++          continue
++        }
++        const asked = renamingFor(from, to, held.id)
+         if ("refused" in asked) {
+           refusals.push(asked.refused)
+           continue
+@@ -88,8 +142,18 @@ export function sidedIn(
+     seen.add(from)
+     taken.add(to)
+     sides.push({ from, to, named: true, committed: true, renaming })
+-    if (!own) continue
+-    for (const held of besideOf(root, from)) {
++    const beside = besideOf(root, from)
++    if (beside.length === 0) continue
++    if (kind === null) {
++      const named = typesAsked()
++      if ("unread" in named) {
++        refusals.push(named.unread)
++        continue
++      }
++      kind = kindOf(from, named.types)
++    }
++    if (kind !== "own") continue
++    for (const held of beside) {
+       if (seen.has(held)) continue
+       seen.add(held)
+       const name = basename(held)
