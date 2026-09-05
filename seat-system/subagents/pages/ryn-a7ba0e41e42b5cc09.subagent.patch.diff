@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/graph/graph.workspace-package.ts b/graph/graph.workspace-package.ts
-index e6135e8684aa2526c75254e464c9af1c6aa9b093..92500a4a1ab71288d815114e1fd14330f347a0c7 100644
+index e6135e8684aa2526c75254e464c9af1c6aa9b093..df716b8fc646755166312d3df8663dbd6988e050 100644
 --- a/graph/graph.workspace-package.ts
 +++ b/graph/graph.workspace-package.ts
 @@ -17,11 +17,11 @@ export const graph = {
@@ -17,7 +17,7 @@ index e6135e8684aa2526c75254e464c9af1c6aa9b093..92500a4a1ab71288d815114e1fd14330
      },
      {
        invariantKind: "departure",
-@@ -30,11 +30,11 @@ export const graph = {
+@@ -30,15 +30,15 @@ export const graph = {
      {
        invariantKind: "departure",
        statement:
@@ -28,6 +28,11 @@ index e6135e8684aa2526c75254e464c9af1c6aa9b093..92500a4a1ab71288d815114e1fd14330
        invariantKind: "gap",
 -      statement: "What the graph derives is a cache and never an index.",
 +      statement: "The answers the graph derives are a cache and never an index.",
+     },
+     {
+       invariantKind: "gap",
+-      statement: "Throwing away what the graph derives costs only speed.",
++      statement: "Throwing away the answers the graph derives costs only speed.",
      },
      {
        invariantKind: "gap",
