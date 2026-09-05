@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/measure/checkout-counting/checkout-counting.module.ts b/commands/measure/checkout-counting/checkout-counting.module.ts
+index 781f606b402974eba9d61211f8fe29165c303314..bc858ef71c430514cbf2f0a5f8ed20e31f5dfb17 100644
+--- a/commands/measure/checkout-counting/checkout-counting.module.ts
++++ b/commands/measure/checkout-counting/checkout-counting.module.ts
+@@ -11,7 +11,7 @@ export const checkoutCounting = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What git holds is what is listed.",
++      statement: "The files git holds are the files listed.",
+     },
+     {
+       invariantKind: "departure",
