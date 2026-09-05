@@ -1,0 +1,15 @@
+diff --git a/story/story.domain.ts b/story/story.domain.ts
+index 52e2d131f07bebd5397d4acf5aa081cfb9e687b4..f75427929b11537e1fb4dffba22113e5a2803845 100644
+--- a/story/story.domain.ts
++++ b/story/story.domain.ts
+@@ -60,6 +60,10 @@ export const story = {
+       invariantKind: "departure",
+       statement: "The source a chapter came from is no page type of its own.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A story names the world the story is of.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A truth in a world that no story has told is a sketch.",
