@@ -61,15 +61,15 @@ export const question = {
     },
     {
       invariantKind: "departure",
-      statement: "A question names the persona who put it.",
+      statement: "A question names the persona who put that question.",
     },
     {
       invariantKind: "departure",
-      statement: "A question offering answers still takes an answer none of them spells.",
+      statement: "A question offering answers still takes an answer none of those answers spells.",
     },
     {
       invariantKind: "departure",
-      statement: "A question stays once it is closed rather than going.",
+      statement: "A question stays once that question is closed rather than going.",
     },
     {
       invariantKind: "departure",
@@ -78,11 +78,12 @@ export const question = {
     {
       invariantKind: "departure",
       statement:
-        "What was around a question when it was put sits beside the page rather than in it.",
+        "What was around a question when that question was put sits beside the page rather than in that page.",
     },
     {
       invariantKind: "gap",
-      statement: "The context a question was put in is an id here rather than a relation to it.",
+      statement:
+        "The context a question was put in is an id here rather than a relation to that context.",
     },
   ],
 } as const satisfies PageType
