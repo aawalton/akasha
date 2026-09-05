@@ -23,7 +23,7 @@ export const intents = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An intent says only what is not yet so.",
+      statement: "An intent says only a thing that is not yet so.",
     },
     {
       invariantKind: "departure",
