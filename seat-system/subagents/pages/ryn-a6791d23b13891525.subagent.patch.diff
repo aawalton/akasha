@@ -25,3 +25,34 @@ index c27f9c27c7bdd8a56eb66af00c91173b91acdfce..86ebfd0e32d2f07138148e8d50a37d98
  
      {
        invariantKind: "departure",
+diff --git a/command-system/commands/remove/remove.command.ts b/command-system/commands/remove/remove.command.ts
+index 6d041cfb72e2f8800957c4485d52e0681629721e..3fa9be6ae867442593d382b76054544257a3d873 100644
+--- a/command-system/commands/remove/remove.command.ts
++++ b/command-system/commands/remove/remove.command.ts
+@@ -99,10 +99,7 @@ export const remove = {
+       invariantKind: "departure",
+       statement: "A path anywhere in the repository is taken away.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A path inside `.git` is refused.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement:
+diff --git a/command-system/commands/replace/replace.command.ts b/command-system/commands/replace/replace.command.ts
+index 033855e0dbcaccab843c16cfb453ab36ede2e455..84a51f15d6d60c4e08b64f86e2d5ce85c9b7d2e4 100644
+--- a/command-system/commands/replace/replace.command.ts
++++ b/command-system/commands/replace/replace.command.ts
+@@ -101,10 +101,6 @@ export const replace = {
+       invariantKind: "departure",
+       statement: "Once the bodies are worked out this lands exactly as `edit` lands.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A path inside `.git` is refused.",
+-    },
+ 
+     {
+       invariantKind: "departure",
