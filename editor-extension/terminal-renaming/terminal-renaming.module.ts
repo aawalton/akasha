@@ -37,7 +37,7 @@ export const terminalRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A naming records what it read of the terminals and how long it waited.",
+      statement: "A naming records the terminals that naming read and how long that naming waited.",
     },
     {
       invariantKind: "departure",
