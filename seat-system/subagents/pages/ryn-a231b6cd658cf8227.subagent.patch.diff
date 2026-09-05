@@ -1,0 +1,13 @@
+diff --git a/changes/workflow-templates/properties/workflow-kind.select-property.ts b/changes/workflow-templates/properties/workflow-kind.select-property.ts
+index 310a933267d923532c0dcb3dad9283a248e200b4..b79095c7b120d96aeae5089bc626842c87cdd5b0 100644
+--- a/changes/workflow-templates/properties/workflow-kind.select-property.ts
++++ b/changes/workflow-templates/properties/workflow-kind.select-property.ts
+@@ -10,7 +10,7 @@ export const workflowKind = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The stages run in the order they are listed here.",
++      statement: "The stages run in the order those stages are listed here.",
+     },
+     {
+       invariantKind: "departure",
