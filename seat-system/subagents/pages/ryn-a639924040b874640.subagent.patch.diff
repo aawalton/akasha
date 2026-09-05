@@ -117,3 +117,30 @@ index 7cbf3642b394e9fa774eb8f8330dcdd8d6b7bf80..683cdff4c2407e15fbbd762abcce2dfc
      },
      {
        invariantKind: "departure",
+diff --git a/git-transport/hooks/pre-receive-main-append-only/pre-receive-main-append-only.shell-script.ts b/git-transport/hooks/pre-receive-main-append-only/pre-receive-main-append-only.shell-script.ts
+index 25dadc739272e3efe656dcfe5bfb155bd828920b..e67e8c348e0d9b092d3f85f9af0352659fdfeb54 100644
+--- a/git-transport/hooks/pre-receive-main-append-only/pre-receive-main-append-only.shell-script.ts
++++ b/git-transport/hooks/pre-receive-main-append-only/pre-receive-main-append-only.shell-script.ts
+@@ -26,7 +26,7 @@ export const preReceiveMainAppendOnly = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "This is the last point a rewind can be refused before the mirror copies it.",
++      statement: "This hook is the last point a rewind can be refused before the mirror copies it.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.ts b/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.ts
+index 52d0002c967a4ca3a41762d9c6d93c72f85c1465..2c932fc8f01d133993d4f15209cb9c916a27dc86 100644
+--- a/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.ts
++++ b/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.ts
+@@ -25,7 +25,8 @@ export const blockGitWrites = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A prefix that only runs the call behind it does not hide a git write from this.",
++      statement:
++        "A prefix that only runs the call behind it does not hide a git write from this hook.",
+     },
+     {
+       invariantKind: "absence",
