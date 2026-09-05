@@ -186,17 +186,22 @@ index 0000000000000000000000000000000000000000..46e7214a9dcc1babb06b8b1610218c30
 +  ]
 +}
 diff --git a/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff b/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
-index 9129298b774d3d4a96e445f9ea4c178c266115c7..a9b171a9304b217bf851c6d53af77b77a2173661 100644
+index 48f2a10a5a66fa268f983755b04af2a02242cb75..5e8c6d0fa38b2a83ea328c3893444d7793fd0e9a 100644
 --- a/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
 +++ b/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
-@@ -7,6 +7,6 @@ index 44376302b12fa70b4d314cd5455bc6353843f4ba..48712214395c08da2bd506933e862113
+@@ -393,8 +393,12 @@ index 44376302b12fa70b4d314cd5455bc6353843f4ba..62b3f46ed646ad8a6a28b376087663a4
     replicas: 1,
     containerPort: 1234,
  -  manifestCode:
---    "service-system/cluster-services/pages/buildkit/buildkit.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +-    "infrastructure/container-image/buildkit/buildkit.manifest.code.ts",
++=======
+ -    "service-system/cluster-services/pages/buildkit/buildkit.cluster-service.code.attachment.ts",
+ +<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
  +  manifestSlug: "buildkit",
-  } as const satisfies ClusterService
+ +=======
+ +  manifestCode: "infrastructure/container-image/buildkit/buildkit.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/buildkit/buildkit.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/buildkit/buildkit.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 46e7214a9dcc1babb06b8b1610218c30263b5553..0000000000000000000000000000000000000000
@@ -385,18 +390,14 @@ index 46e7214a9dcc1babb06b8b1610218c30263b5553..00000000000000000000000000000000
 -  ]
 -}
 diff --git a/service-system/cluster-services/pages/buildkit/buildkit.cluster-service.ts b/service-system/cluster-services/pages/buildkit/buildkit.cluster-service.ts
-index 44376302b12fa70b4d314cd5455bc6353843f4ba..62b3f46ed646ad8a6a28b376087663a4f4f42b5d 100644
+index 44376302b12fa70b4d314cd5455bc6353843f4ba..48712214395c08da2bd506933e862113dc604efd 100644
 --- a/service-system/cluster-services/pages/buildkit/buildkit.cluster-service.ts
 +++ b/service-system/cluster-services/pages/buildkit/buildkit.cluster-service.ts
-@@ -11,6 +11,9 @@ export const buildkit = {
+@@ -11,6 +11,5 @@ export const buildkit = {
    image: "moby/buildkit:v0.28.0",
    replicas: 1,
    containerPort: 1234,
 -  manifestCode:
 -    "service-system/cluster-services/pages/buildkit/buildkit.cluster-service.code.attachment.ts",
-+<<<<<<< what this change would leave
 +  manifestSlug: "buildkit",
-+=======
-+  manifestCode: "infrastructure/container-image/buildkit/buildkit.manifest.code.ts",
-+>>>>>>> what HEAD holds
  } as const satisfies ClusterService
