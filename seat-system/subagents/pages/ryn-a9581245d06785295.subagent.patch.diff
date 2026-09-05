@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.ts b/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.ts
+index 0694c3b6186d6fe11c2cfc1ac38c771699723071..748242ac0f158e313f02b6aa7a388328b8bacf0e 100644
+--- a/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.ts
++++ b/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.ts
+@@ -13,7 +13,7 @@ export const initiativeAncestors = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A seat warrants every initiative the one it states is under.",
++      statement: "A seat warrants every initiative the one that seat states is under.",
+     },
+     {
+       invariantKind: "departure",
