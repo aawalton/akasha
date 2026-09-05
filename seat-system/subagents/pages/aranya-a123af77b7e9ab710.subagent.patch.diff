@@ -1,0 +1,75 @@
+diff --git a/seat-system/subagent-census/subagent-census.module.code.ts b/seat-system/subagent-census/subagent-census.module.code.ts
+index b7bf18220f58542f9ac93e558782bace7f2aa848..f45ac1964afd7564a9404de0f7a1cb6d01d45be0 100644
+--- a/seat-system/subagent-census/subagent-census.module.code.ts
++++ b/seat-system/subagent-census/subagent-census.module.code.ts
+@@ -29,7 +29,10 @@ const AGENT = "agentId"
+ 
+ const SUFFIX = ".subagent.ts"
+ 
+-const TAKEN = /^subagent-presence: take (\S+) (\S+) — /
++// A LINE MAY OPEN WITH THE TIME IT WAS WRITTEN. The presence log stamps every line it writes, and
++// the lines written before it did carry none, so both are read. Anchoring on the stamp alone would
++// have read the whole log as holding no take-down at all the moment the stamp went on.
++const TAKEN = /^(?:\S+ )?subagent-presence: take (\S+) (\S+) — /
+ 
+ export const WORKING = "WORKING"
+ 
+diff --git a/seat-system/subagent-census/subagent-census.module.test-fixtures.ts b/seat-system/subagent-census/subagent-census.module.test-fixtures.ts
+index a146efdf7b6af44b98c72985876af5fd5b59eb42..42d003aad60a54002afeff99a25ac34ccc578f70 100644
+--- a/seat-system/subagent-census/subagent-census.module.test-fixtures.ts
++++ b/seat-system/subagent-census/subagent-census.module.test-fixtures.ts
+@@ -47,6 +47,8 @@ export function takeLine(seatName: string, own: string): string {
+   return `subagent-presence: take ${seatName} ${own} — ${REFUSED}`
+ }
+ 
++export const STAMPED = "2026-09-05T12:17:44.031-06:00"
++
+ export function writeLine(seatName: string, own: string): string {
+   return `subagent-presence: write ${seatName} ${own} — ${REFUSED}`
+ }
+diff --git a/seat-system/subagent-census/subagent-census.module.test.ts b/seat-system/subagent-census/subagent-census.module.test.ts
+index 1757623cbedce91139131249e5d243396c545a98..2df3a659b903ace2220c05fbf1dadcc1b7a8208a 100644
+--- a/seat-system/subagent-census/subagent-census.module.test.ts
++++ b/seat-system/subagent-census/subagent-census.module.test.ts
+@@ -21,11 +21,26 @@ import {
+   OWN,
+   pagePut,
+   SEAT_ID,
++  STAMPED,
+   TASK,
+   takeLine,
+   writeLine,
+ } from "./subagent-census.module.test-fixtures.ts"
+ 
++test("a take-down is read whether or not its line opens with the time it was written", () => {
++  const base = world.rootFor("subagent-census-logs-")
++  logPut(base, SEAT_ID, [takeLine("akasha", OWN), `${STAMPED} ${takeLine("akasha", AGAIN)}`])
++  expect([...takenDownIn(base)].sort()).toEqual([`akasha ${AGAIN}`, `akasha ${OWN}`])
++  world.sweep()
++})
++
++test("a put-up is no take-down whether or not its line opens with a time", () => {
++  const base = world.rootFor("subagent-census-logs-")
++  logPut(base, SEAT_ID, [writeLine("akasha", OWN), `${STAMPED} ${writeLine("akasha", AGAIN)}`])
++  expect(takenDownIn(base).size).toBe(0)
++  world.sweep()
++})
++
+ const ACTING = agentIdOf(SEAT_ID, OWN)
+ 
+ const world = scratchWorld()
+diff --git a/seat-system/subagent-census/subagent-census.module.ts b/seat-system/subagent-census/subagent-census.module.ts
+index 06ac39db96be23fe156a52c0b15e2a30c9b3fe3b..e6e803e2f3a6fc3df115f65fde97a6959a923301 100644
+--- a/seat-system/subagent-census/subagent-census.module.ts
++++ b/seat-system/subagent-census/subagent-census.module.ts
+@@ -33,6 +33,10 @@ export const subagentCensus = {
+       invariantKind: "departure",
+       statement: "That log carries a line only where a landing refused, so a line is a record.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A take-down is read whether or not its line opens with the time it was written.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A page whose seat's agent id is carried by no process at all reads as stale.",
