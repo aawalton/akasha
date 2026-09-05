@@ -30,16 +30,16 @@ function valueOf(root: string, path: string): Value {
   return held
 }
 
-function personFrom(root: string, standing: Listed): Person {
-  const value = valueOf(root, standing.path)
+function personFrom(root: string, listed: Listed): Person {
+  const value = valueOf(root, listed.path)
   const slug = textAt(value, "slug")
   if (slug === null) {
-    throw new Error(`${standing.path} is a person page and states no slug, so nothing names them`)
+    throw new Error(`${listed.path} is a person page and states no slug, so nothing names them`)
   }
   return {
-    id: standing.id,
+    id: listed.id,
     slug,
-    path: standing.path,
+    path: listed.path,
     definition: textAt(value, "definition"),
     answeredBy: textAt(value, "answeredBy"),
     phone: textAt(value, "phone"),
@@ -49,10 +49,10 @@ function personFrom(root: string, standing: Listed): Person {
 }
 
 export function peopleStanding(root: string): readonly Person[] {
-  const found = everyOfType(root, PAGE_TYPE).map((standing) => personFrom(root, standing))
+  const found = everyOfType(root, PAGE_TYPE).map((listed) => personFrom(root, listed))
   if (found.length === 0) {
     throw new Error(
-      "no person stands, so the people would read as empty rather than as unread — an index that " +
+      "no person exists, so the people would read as empty rather than as unread — an index that " +
         "names nobody is not a household of nobody"
     )
   }
@@ -60,14 +60,14 @@ export function peopleStanding(root: string): readonly Person[] {
 }
 
 export function personAt(root: string, slug: string): Person | null {
-  const standing = listedAt(root, PAGE_TYPE, slug)[0]
-  return standing === undefined ? null : personFrom(root, standing)
+  const listed = listedAt(root, PAGE_TYPE, slug)[0]
+  return listed === undefined ? null : personFrom(root, listed)
 }
 
 export function personOr(root: string, slug: string): Person {
   const held = personAt(root, slug)
   if (held === null) {
-    throw new Error(`\`${slug}\` names no person, so nobody stands there`)
+    throw new Error(`\`${slug}\` names no person, so nobody is there`)
   }
   return held
 }

@@ -4,7 +4,7 @@ export const personEnrolment = {
   id: "01a05afe-7a0e-7ae1-ad39-ba070a334a6b",
   pageTypeSlug: "module",
   slug: "person-enrolment",
-  definition: "the person an account signing in stands for",
+  definition: "the person an account signing in represents",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -35,7 +35,7 @@ export const personEnrolment = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here stands a person who has no page.",
+      statement: "Nothing here sets up a person who has no page.",
     },
     {
       invariantKind: "absence",

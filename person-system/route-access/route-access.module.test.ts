@@ -48,7 +48,7 @@ test("an account no person states reaches no route", async () => {
   expect(decided.why).toContain("no person states the account")
 })
 
-test("a person standing with no route access reaches no route", async () => {
+test("a person with no route access reaches no route", async () => {
   const decided = await overTheLiveStore(async () =>
     routeAccessForPerson("ki", ROUTE_TARGETS.READOUT_FEED)
   )

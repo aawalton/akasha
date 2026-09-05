@@ -4,7 +4,7 @@ export const routeAccess = {
   id: "01a05afe-7a0f-7405-b894-524372b09614",
   pageTypeSlug: "module",
   slug: "route-access",
-  definition: "whether the person an account stands for may reach a route",
+  definition: "whether the person an account represents may reach a route",
   code: "ts",
   test: "ts",
   invariants: [
