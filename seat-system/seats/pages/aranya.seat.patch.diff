@@ -1455,3 +1455,11 @@ index f577915cae55cd5dd708606bdfa07ffde885b51e..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-player-inventory-management-ui
 \ No newline at end of file
+diff --git a/temper/temper-player-profile/temper-player-profile b/temper/temper-player-profile/temper-player-profile
+deleted file mode 120000
+index c8df12eab3f6dca26ce999ee63e46af08beefe42..0000000000000000000000000000000000000000
+--- a/temper/temper-player-profile/temper-player-profile
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-player-profile
+\ No newline at end of file
