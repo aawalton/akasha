@@ -1,14 +1,20 @@
 diff --git a/editor-extension/subagent-reading/subagent-reading.module.ts b/editor-extension/subagent-reading/subagent-reading.module.ts
-index c14e5d3ba71a03d5b57a826b06633da4ba04c37c..fcfe1b558b15692a6803b862d71239d714b09c52 100644
+index c14e5d3ba71a03d5b57a826b06633da4ba04c37c..f5de4a5edc86bb3cd34e1c0d94419676b585585d 100644
 --- a/editor-extension/subagent-reading/subagent-reading.module.ts
 +++ b/editor-extension/subagent-reading/subagent-reading.module.ts
-@@ -15,7 +15,8 @@ export const subagentReading = {
+@@ -15,11 +15,13 @@ export const subagentReading = {
      },
      {
        invariantKind: "departure",
 -      statement: "A file that no longer reads the way it did is folded again from its first byte.",
 +      statement:
 +        "A file that no longer reads the way that file did is folded again from its first byte.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A fold starting again drops what the old fold knew rather than merging into it.",
++      statement:
++        "A fold starting again drops what the old fold knew rather than merging into that old fold.",
      },
      {
        invariantKind: "departure",
