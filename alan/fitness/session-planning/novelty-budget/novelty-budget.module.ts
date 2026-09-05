@@ -10,7 +10,7 @@ export const noveltyBudget = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A slot is starved where every movement that could fill it is unlogged.",
+      statement: "A slot is starved where every movement that could fill that slot is unlogged.",
     },
     {
       invariantKind: "departure",
