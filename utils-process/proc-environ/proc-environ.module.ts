@@ -17,7 +17,7 @@ export const procEnviron = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what an environment variable means.",
+      statement: "Nothing here knows an environment variable's meaning.",
     },
   ],
 } as const satisfies Module
