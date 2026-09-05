@@ -5,6 +5,7 @@ import { join } from "node:path"
 import { followState, readState, stateAt } from "./state-reading.module.code.ts"
 
 const PAGES_AT = "alan/harness/code-editor/code-editor-data-interfaces/pages"
+const SCRATCH_AT = "alan/harness/code-editor/code-editor-data-interfaces"
 const TAIL = ".code-editor-data-interface.state.uncommitted.jsonl"
 const SLUG = "work-tree"
 
@@ -21,10 +22,11 @@ afterEach(() => {
   rmSync(root, { recursive: true, force: true })
 })
 
-// The service writes a scratch file and renames it over the old one, so a test that writes in
-// place would be watching something the service never does.
+// The service writes a scratch file one folder above the folder the editor watches and renames it
+// over the old one, so a test that writes in place would be watching something the service never
+// does, and a test writing the scratch beside the file would raise an event the service does not.
 function serviceWrites(line: string): undefined {
-  const scratch = `${at}.scratch`
+  const scratch = join(root, SCRATCH_AT, `${SLUG}${TAIL}.part`)
   writeFileSync(scratch, `${line}\n`, "utf8")
   renameSync(scratch, at)
   return undefined

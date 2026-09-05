@@ -25,11 +25,11 @@ export const dataWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "A file is replaced by writing beside it and renaming it over.",
+      statement: "A file is replaced by writing it elsewhere and renaming it over.",
     },
     {
       invariantKind: "departure",
-      statement: "The name written beside is one the editor's watcher does not match.",
+      statement: "What is written first is outside the folder the editor watches.",
     },
     {
       invariantKind: "departure",

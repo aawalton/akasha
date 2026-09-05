@@ -34,6 +34,11 @@ import {
 } from "../tree-drawing/tree-drawing.module.code.ts"
 
 const INTERFACES_AT = "alan/harness/code-editor/code-editor-data-interfaces/pages"
+// The scratch file is written one folder above the folder the editor watches, so the only event
+// that folder raises is the rename putting a finished line in place. Written beside the file it
+// replaces, the scratch raised events of its own: four per write under node, and under bun the
+// scratch is reported and the rename never is, which left the reading untestable.
+const SCRATCH_AT = "alan/harness/code-editor/code-editor-data-interfaces"
 const SEATS_AT = "seat-system/seats/pages"
 const TURN_STATES_AT = "seat-system/seat-turn-states/pages"
 // Every tree is read out of the akasha index, and the index says it moved by one small file.
@@ -66,12 +71,11 @@ function stateFileFor(root: string, slug: string): string {
 }
 
 // A rename rather than a write in place, so the editor never reads half a line. The scratch name
-// carries this process's id and ends `.part`, which the editor's `*.uncommitted.jsonl` watcher
-// does not match, so the scratch file wakes nobody.
-function writeLine(at: string, line: string): undefined {
-  const scratch = `${at}.${process.pid}.part`
+// carries this process's id, so two services writing at once never take one another's file.
+function writeLine(root: string, slug: string, line: string): undefined {
+  const scratch = join(root, SCRATCH_AT, `${slug}${STATE_TAIL}.${process.pid}.part`)
   writeFileSync(scratch, `${line}\n`, "utf8")
-  renameSync(scratch, at)
+  renameSync(scratch, stateFileFor(root, slug))
   return undefined
 }
 
@@ -254,7 +258,7 @@ function keep(root: string, slug: string, picture: Picture): undefined {
   const decision = decide(picture.held, line, now, picture.cooldownMs)
   picture.held = heldAfter(picture.held, decision, line, now)
   if (decision.act === "write") {
-    writeLine(stateFileFor(root, slug), decision.line)
+    writeLine(root, slug, decision.line)
     return undefined
   }
   if (decision.act !== "hold" || picture.waking !== null) return undefined
@@ -264,7 +268,7 @@ function keep(root: string, slug: string, picture: Picture): undefined {
       const at = Date.now()
       const owed = released(picture.held, at)
       picture.held = releasedHeld(picture.held, owed, at)
-      if (owed.act === "write") writeLine(stateFileFor(root, slug), owed.line)
+      if (owed.act === "write") writeLine(root, slug, owed.line)
     },
     Math.max(0, decision.untilMs - now)
   )
