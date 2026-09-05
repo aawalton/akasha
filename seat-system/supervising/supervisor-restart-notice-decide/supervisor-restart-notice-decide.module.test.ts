@@ -13,7 +13,7 @@ const NOTICES: ResumeNotices = {
 
 const EVENT: RestartNowEvent = { action: "restart-now", interruptMessage: null }
 
-test("a restart with nothing else standing goes on the spawn line as the immediate notice", () => {
+test("a restart with nothing else pending goes on the spawn line as the immediate notice", () => {
   const said = planRestartNotice(EVENT, { maintenance: false, reExecPending: false }, NOTICES)
   expect(said.route).toBe("spawn-argv")
   expect(said.notice).toBe("restart now\n\npick your work back up")

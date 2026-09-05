@@ -12,8 +12,8 @@ import {
   takeSeatPage,
 } from "../supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 
-// A seat's name is its page's stem while that page stands, and the slug its akasha page is named
-// for once it does not. Both spell the same name.
+// A seat's name is its page's stem while that page is there, and the slug its akasha page is named
+// for once it is not. Both spell the same name.
 function nameOf(agentId: string): string | null {
   return seatNameForAgent(agentId)
 }

@@ -19,7 +19,7 @@ import {
 
 export const PROXY_LIVENESS_INTERVAL_MS = 30_000
 
-// The deadline stands with the spawner, so the adopt path and this monitor judge a gateway alive by
+// The deadline sits with the spawner, so the adopt path and this monitor judge a gateway alive by
 // the same measure.
 
 function assertNever(value: never): never {

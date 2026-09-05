@@ -119,7 +119,7 @@ function main(argv: readonly string[]): number {
   for (const one of departed) process.stdout.write(`${one.name}\t${one.files}\t${one.bytes}\n`)
   for (const one of looseNames) process.stdout.write(`${one}\t1\t-\n`)
   for (const one of unread) {
-    process.stderr.write(`unread: ${one} could not be listed, so its directory stands\n`)
+    process.stderr.write(`unread: ${one} could not be listed, so its directory remains\n`)
   }
 
   const bytes = departed.reduce((sum, one) => sum + one.bytes, 0)

@@ -23,7 +23,7 @@ export type ClearRebindHooks = {
 function reportNoSuccessor(oldAgentId: string): void {
   console.error(
     `${LOG} /clear rebind: no successor for ${oldAgentId} — its seat page was taken when it was ` +
-      `stopped, so nothing stands for this seat until \`ops seat resume\` brings it back`
+      `stopped, so no page is there for this seat until \`ops seat resume\` brings it back`
   )
 }
 

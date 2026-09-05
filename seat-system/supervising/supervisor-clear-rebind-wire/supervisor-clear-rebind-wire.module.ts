@@ -14,7 +14,7 @@ export const supervisorClearRebindWire = {
     {
       invariantKind: "departure",
       statement:
-        "A deferred restart standing when a rotation lands is cancelled before the rebind.",
+        "A deferred restart still there when a rotation lands is cancelled before the rebind.",
     },
   ],
 } as const satisfies Module
