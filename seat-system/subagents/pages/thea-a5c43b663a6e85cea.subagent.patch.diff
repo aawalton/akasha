@@ -1,3 +1,16 @@
+diff --git a/alan/web/routes.ts b/alan/web/routes.ts
+index 2ca892c7a7e37837a80c52fff42ad9ad40f1099f..2eabd0794f0e5b9c4acfc07bef2b0c804dd8dc9b 100644
+--- a/alan/web/routes.ts
++++ b/alan/web/routes.ts
+@@ -23,7 +23,7 @@ export default [
+   route("api/pages-ready", "routes/api.pages-ready.ts"),
+   route("api/live-version", "routes/api.live-version.ts"),
+   route("api/errors", "routes/api.errors.ts"),
+-  route("api/claude-usage", "routes/api.claude-usage.ts"),
++  route("api/claude-usage", "routes/claude-usage/claude-usage.route.code.ts"),
+   route("api/inbox-stoplights", "routes/api.inbox-stoplights.ts"),
+   route("api/habit-stoplights", "routes/api.habit-stoplights.ts"),
+   route("api/attribute-stoplights", "attribute-stoplights/attribute-stoplights.module.code.ts"),
 diff --git a/alan/web/routes/api.claude-usage.test.ts b/alan/web/routes/api.claude-usage.test.ts
 deleted file mode 100644
 index c273e79bbe558aa7f5dbe98d9e16e85cd4b57035..0000000000000000000000000000000000000000
