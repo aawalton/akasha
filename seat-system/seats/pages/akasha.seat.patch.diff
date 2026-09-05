@@ -1,0 +1,13 @@
+diff --git a/akasha.domain.ts b/akasha.domain.ts
+index 2da1c5136c9c349033ad4c6307475134e0e9ed99..4321824e2d3bec429ef2cc2f53d2f0ebf3bb677b 100644
+--- a/akasha.domain.ts
++++ b/akasha.domain.ts
+@@ -183,7 +183,7 @@ export const akasha = {
+     },
+     {
+       directiveKind: "principle",
+-      name: "Cheap To Read",
++      name: "Cheap To Read (CTR)",
+       act: "Take every chance to make a sentence cheaper to read, where no truth and no clarity is lost.",
+       warrant:
+         "An agent holds one budget for a turn, and what the agent spends reading is gone from the work.",
