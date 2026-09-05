@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/command-system/fault-saying/fault-saying.module.ts b/command-system/fault-saying/fault-saying.module.ts
-index 86c03a4af9cf2e957400de23cd3e34086d43531c..7b7739297bbd08c29c4f3b2d74e63f4ee2a6a0c9 100644
+index 86c03a4af9cf2e957400de23cd3e34086d43531c..c4bca20cd326831c92fd7ce28650b794a23be125 100644
 --- a/command-system/fault-saying/fault-saying.module.ts
 +++ b/command-system/fault-saying/fault-saying.module.ts
-@@ -10,15 +10,15 @@ export const faultSaying = {
+@@ -10,19 +10,19 @@ export const faultSaying = {
    invariants: [
      {
        invariantKind: "departure",
@@ -19,6 +19,11 @@ index 86c03a4af9cf2e957400de23cd3e34086d43531c..7b7739297bbd08c29c4f3b2d74e63f4e
        invariantKind: "departure",
 -      statement: "A refusal carries what is said in one line.",
 +      statement: "A refusal carries the message in one line.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A caller keeping the fault wants what is said whole.",
++      statement: "A caller keeping the fault wants the message whole.",
      },
      {
        invariantKind: "departure",
