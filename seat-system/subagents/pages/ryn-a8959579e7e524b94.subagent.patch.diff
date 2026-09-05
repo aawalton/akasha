@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-addon-data/temper-addon-data.workspace-package.ts b/temper/temper-addon-data/temper-addon-data.workspace-package.ts
+index 97a131bc31f82c7694e260205f5ad2e155aed81e..ae68258c6c1cfa1c467fab3875add13fbab7bc62 100644
+--- a/temper/temper-addon-data/temper-addon-data.workspace-package.ts
++++ b/temper/temper-addon-data/temper-addon-data.workspace-package.ts
+@@ -75,7 +75,7 @@ export const temperAddonData = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the parts are named for is not always the module composing the parts.",
++      statement: "The parts are not always named for the module composing the parts.",
+     },
+     {
+       invariantKind: "departure",
