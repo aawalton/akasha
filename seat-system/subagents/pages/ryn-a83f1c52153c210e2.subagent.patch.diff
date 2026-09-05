@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-commands/inventory-diagnostics-reading/inventory-diagnostics-reading.module.ts b/temper/temper-commands/inventory-diagnostics-reading/inventory-diagnostics-reading.module.ts
+index 3b35897f3df381b34e505d27d6dfd31f35f72ad1..d82ecd269ea4b9d753be12516a127384ea98ec1e 100644
+--- a/temper/temper-commands/inventory-diagnostics-reading/inventory-diagnostics-reading.module.ts
++++ b/temper/temper-commands/inventory-diagnostics-reading/inventory-diagnostics-reading.module.ts
+@@ -30,7 +30,7 @@ export const inventoryDiagnosticsReading = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The refusal names what was looked for and what the reader should do to make that diagnostic exist.",
++        "The refusal names the diagnostic looked for and the reader's steps to make that diagnostic exist.",
+     },
+   ],
+ } as const satisfies Module
