@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-lib-zone/zone-geo-data-01/zone-geo-data-01.module.ts b/temper/temper-lib-zone/zone-geo-data-01/zone-geo-data-01.module.ts
+index 6c9389579bd7518e67eacf2a8a1f4d50c3ca518f..3c02f84622f193ed5ce68acd09e87cf027448501 100644
+--- a/temper/temper-lib-zone/zone-geo-data-01/zone-geo-data-01.module.ts
++++ b/temper/temper-lib-zone/zone-geo-data-01/zone-geo-data-01.module.ts
+@@ -9,7 +9,7 @@ export const zoneGeoData01 = {
+   invariants: [
+     {
+       invariantKind: "constraint",
+-      statement: "These rows are what upstream LibZone v8.98 states.",
++      statement: "These rows are the rows upstream LibZone v8.98 states.",
+     },
+   ],
+ } as const satisfies Module
