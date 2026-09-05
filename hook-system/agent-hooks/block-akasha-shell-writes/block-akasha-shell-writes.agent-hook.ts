@@ -12,10 +12,6 @@ export const blockAkashaShellWrites = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The guarded roots are the akasha folder and `.git/data`.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A copy is judged on where the copy puts things.",
     },
     {
