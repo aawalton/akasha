@@ -1,5 +1,5 @@
 diff --git a/persona-system/personas/properties/appearance.file-property.ts b/persona-system/personas/properties/appearance.file-property.ts
-index befb69b455102e76b173fe804aad0a09c2609c25..f7d8e393f88564c7dcf175bf57dd41bfdf285014 100644
+index befb69b455102e76b173fe804aad0a09c2609c25..ca4d7cad2ec267e4fac930bfb002a5365b8999f8 100644
 --- a/persona-system/personas/properties/appearance.file-property.ts
 +++ b/persona-system/personas/properties/appearance.file-property.ts
 @@ -12,7 +12,7 @@ export const appearance = {
@@ -11,3 +11,12 @@ index befb69b455102e76b173fe804aad0a09c2609c25..f7d8e393f88564c7dcf175bf57dd41bf
      },
      {
        invariantKind: "departure",
+@@ -22,7 +22,7 @@ export const appearance = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Two personas may look alike in their pictures; they may never sound alike in their words.",
++        "Two personas may look alike in their pictures; those personas may never sound alike in their words.",
+     },
+     {
+       invariantKind: "upkeep",
