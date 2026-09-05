@@ -13,11 +13,15 @@ export const filePageType = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page answers to its type and to every type that one extends.",
+      statement: "A page answers to its type alone.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A page answers to no type that its type extends.",
     },
     {
       invariantKind: "departure",
-      statement: "The types a page answers to are read before the page is changed.",
+      statement: "The type a page answers to is read before the page is changed.",
     },
     {
       invariantKind: "departure",
@@ -31,10 +35,6 @@ export const filePageType = {
     {
       invariantKind: "departure",
       statement: "A type whose page cannot be found is no warrant.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The chain above that type is walked all the same.",
     },
   ],
 } as const satisfies ContextWarrant

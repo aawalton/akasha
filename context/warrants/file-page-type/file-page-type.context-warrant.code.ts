@@ -6,7 +6,7 @@ import {
   type Warrant,
 } from "../../modules/warranting/warranting.module.code.ts"
 
-export const TYPE = "A page answers to its type, and to every type that one extends."
+export const TYPE = "A page answers to its type."
 
 const PAGE_TYPE = "page-type"
 
@@ -17,23 +17,10 @@ export function typeSlugOf(path: string, types: ReadonlySet<string>): string | n
 }
 
 export function filePageType(root: string, path: string, knowing: Knowing): readonly Warrant[] {
-  const known = knowing()
-  const first = typeSlugOf(path, known.types)
+  const first = typeSlugOf(path, knowing().types)
   if (first === null) return []
-  const found: Warrant[] = []
-  const walked = new Set<string>()
-  const above = known.above()
-  const waiting: string[] = [first]
-  for (let at = 0; at < waiting.length; at += 1) {
-    const here = waiting[at]
-    if (here === undefined || walked.has(here)) continue
-    walked.add(here)
-    const listed = listedAt(root, PAGE_TYPE, here)[0]
-    const oid = listed === undefined ? null : blobAt(root, listed.path)
-    if (listed !== undefined && oid !== null) {
-      found.push({ path: listed.path, oid, owed: TYPE })
-    }
-    for (const one of above.get(here) ?? []) waiting.push(one)
-  }
-  return found
+  const listed = listedAt(root, PAGE_TYPE, first)[0]
+  if (listed === undefined) return []
+  const oid = blobAt(root, listed.path)
+  return oid === null ? [] : [{ path: listed.path, oid, owed: TYPE }]
 }
