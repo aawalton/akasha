@@ -10,7 +10,7 @@ export const astGrepConfigs = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A rule directory is read relative to the sgconfig naming it.",
+      statement: "A rule directory is read relative to the sgconfig naming that directory.",
     },
     {
       invariantKind: "departure",
