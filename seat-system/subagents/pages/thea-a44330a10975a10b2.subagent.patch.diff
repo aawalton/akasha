@@ -58,7 +58,7 @@ index 86e6aa4735f9e796d3067bd11de63c138d3fabd0..57dc81571e5ea72afcafed8573662e53
    return {
      code,
 diff --git a/code-system/code-tests/code-tests.module.test.ts b/code-system/code-tests/code-tests.module.test.ts
-index 3af745cffc9caef37f047a4b9f29c26f4487fd39..eb3980dd24802611619361df8bba5b1ada398858 100644
+index 3af745cffc9caef37f047a4b9f29c26f4487fd39..246d027dc866065ed83dd7fb552c5ce43ee85484 100644
 --- a/code-system/code-tests/code-tests.module.test.ts
 +++ b/code-system/code-tests/code-tests.module.test.ts
 @@ -13,6 +13,8 @@ import { readingIn } from "@akasha/indexes"
@@ -70,13 +70,18 @@ index 3af745cffc9caef37f047a4b9f29c26f4487fd39..eb3980dd24802611619361df8bba5b1a
    CARRIED,
    groupedBy,
    plain,
-@@ -374,6 +376,28 @@ check("the bunfig.toml at the root is left to the runner rather than handed over
+@@ -374,6 +376,33 @@ check("the bunfig.toml at the root is left to the runner rather than handed over
    expect(ranOver(root, ["akasha"], 1).verdict).toBe("pass")
  })
  
++<<<<<<< what this change would leave
 +check("a list past one batch is parted into batches of one size, and nothing is lost", () => {
 +  expect(batchedOf([])).toEqual([[]])
 +  expect(batchedOf(["one"])).toEqual([["one"]])
++=======
++check("a list past one batch is parted into batches, and nothing is lost", () => {
++  expect(batchedOf([])).toEqual([[]])
++>>>>>>> what HEAD holds
 +  const named = Array.from({ length: BATCH * 2 + 1 }, (one, at) => `${at}.test.ts`)
 +  const batches = batchedOf(named)
 +  expect(batches.length).toBe(3)
