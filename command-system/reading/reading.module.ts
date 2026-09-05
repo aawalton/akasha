@@ -77,7 +77,7 @@ export const reading = {
     {
       invariantKind: "departure",
       statement:
-        "A reading is carried only where the body it holds is the one the mechanical change started from.",
+        "A reading is carried only where its body is the body the mechanical change started from.",
     },
     {
       invariantKind: "departure",
