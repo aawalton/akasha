@@ -140,7 +140,7 @@ if (import.meta.main) {
     drawn: drawn.map((c) => ({
       monarchId: c.row.monarchId,
       stratum: c.stratum,
-      standingCategory: c.row.standingCategory,
+      standingCategory: c.row.currentCategory,
       merchant: c.row.merchant,
       statement: c.row.statement,
       account: c.row.account,

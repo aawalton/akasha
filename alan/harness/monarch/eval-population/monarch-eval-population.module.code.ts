@@ -107,11 +107,11 @@ export function population(history: readonly HistoryRow[], rules: readonly Rule[
       ruleReached += 1
       continue
     }
-    if (!answered(row.standingCategory)) {
+    if (!answered(row.currentCategory)) {
       unanswered += 1
       continue
     }
-    scorable.push({ row, stratum: stratumOf(row.standingCategory), pool: poolOf(row.monarchId) })
+    scorable.push({ row, stratum: stratumOf(row.currentCategory), pool: poolOf(row.monarchId) })
   }
   return { total: history.length, ruleReached, unanswered, scorable }
 }

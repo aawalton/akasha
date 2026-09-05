@@ -14,7 +14,7 @@ export interface HistoryRow {
   readonly account: string
   readonly isRecurring: boolean
   readonly isSplit: boolean
-  readonly standingCategory: string
+  readonly currentCategory: string
   readonly standingCategoryId: string | null
 }
 
@@ -29,7 +29,7 @@ function rowOf(line: TransactionLine, titles: ReadonlyMap<string, string>): Hist
     account: line.accountName ?? "",
     isRecurring: line.recurring === true,
     isSplit: line.split === true,
-    standingCategory: category === null ? "" : (titles.get(category) ?? category),
+    currentCategory: category === null ? "" : (titles.get(category) ?? category),
     standingCategoryId: category,
   }
 }

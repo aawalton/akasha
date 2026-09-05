@@ -47,7 +47,7 @@ function outcomeOf(rule: Rule, titles: ReadonlyMap<string, string>): string {
 function rowLine(row: HistoryRow): string {
   return (
     `    ${row.date}  ${padLeft(money(row.amount), 10)}  ${pad(row.merchant, 30)}  ` +
-    `${pad(row.standingCategory === "" ? "(none)" : row.standingCategory, 20)}  ${row.statement}`
+    `${pad(row.currentCategory === "" ? "(none)" : row.currentCategory, 20)}  ${row.statement}`
   )
 }
 
@@ -64,7 +64,7 @@ function reserveBlock(rows: readonly HistoryRow[], limit: number, out: string[])
   out.push("")
   out.push("  the category standing on what it caught")
   for (const [name, count] of tally(
-    rows.map((r) => (r.standingCategory === "" ? "(none)" : r.standingCategory))
+    rows.map((r) => (r.currentCategory === "" ? "(none)" : r.currentCategory))
   )) {
     out.push(`    ${padLeft(String(count), 7)}  ${name}`)
   }
@@ -83,9 +83,7 @@ function reserveBlock(rows: readonly HistoryRow[], limit: number, out: string[])
   )
   out.push(`    ${padLeft("count", 7)}  ${pad("statement", STATEMENT_KEY)}  categories standing`)
   for (const [key, held] of groups.slice(0, limit)) {
-    const spread = tally(
-      held.map((r) => (r.standingCategory === "" ? "(none)" : r.standingCategory))
-    )
+    const spread = tally(held.map((r) => (r.currentCategory === "" ? "(none)" : r.currentCategory)))
       .slice(0, 4)
       .map(([name, count]) => `${name} ${count}`)
       .join(", ")
@@ -102,8 +100,8 @@ function categorizeBlock(
   out: string[]
 ): void {
   const from = trustedFrom()
-  const blank = rows.filter((row) => !answered(row.standingCategory))
-  const answers = rows.filter((row) => answered(row.standingCategory))
+  const blank = rows.filter((row) => !answered(row.currentCategory))
+  const answers = rows.filter((row) => answered(row.currentCategory))
   const scored = answers.filter((row) => row.date >= from)
   const older = answers.filter((row) => row.date < from)
   const agree = scored.filter((row) => row.standingCategoryId === wanted)
@@ -275,7 +273,7 @@ export function report(
     const spread = tally(
       unreached
         .filter((row) => row.merchant === merchant)
-        .map((row) => (row.standingCategory === "" ? "(none)" : row.standingCategory))
+        .map((row) => (row.currentCategory === "" ? "(none)" : row.currentCategory))
     )
       .slice(0, 3)
       .map(([name, held]) => `${name} ${held}`)

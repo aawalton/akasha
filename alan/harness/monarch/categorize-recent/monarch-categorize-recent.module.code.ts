@@ -30,7 +30,7 @@ export async function categorizeRecent(options: {
   const rules = (await loadCategoryRules()).rules
   const titles = await categoryTitles()
   const rows = (await readSince(from)).filter(
-    (row) => !answered(row.standingCategory) && !row.isSplit
+    (row) => !answered(row.currentCategory) && !row.isSplit
   )
 
   console.log(`  window ${from} onward (${UNATTENDED_DAYS} days), ${rules.length} rule(s) standing`)
