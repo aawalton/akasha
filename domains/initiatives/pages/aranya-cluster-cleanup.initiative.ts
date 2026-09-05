@@ -8,7 +8,6 @@ export const aranyaClusterCleanup = {
   personaSlug: "aranya",
   constraints: [
     "Cluster checks remain in checks/ for ablation.",
-    "The inference family takes a top-level folder of its own rather than a home under cluster/.",
     "A path inside a container is left as it is; only this machine's own scratch paths move to /var/tmp.",
     "What builds Kubernetes resources is named by a page type rather than by a file name suffix.",
     "Each manifest code file has a page of its own rather than being named by a path.",
@@ -24,11 +23,6 @@ export const aranyaClusterCleanup = {
       statement: "The cluster/ folder passes the `folder-matches-a-shape` check.",
       workingMemory:
         "`openingWith` refuses a folder whose name equals or opens with the name of the page above it, so `cluster-api`, `cluster-manifests`, `cluster-operations`, `cluster-provisioning` and `cluster-services` lose the prefix. Folder names only; slugs and npm names are untouched. That answers 23 of the 103 refusals here; the roots also fail on `tunnel-routes.ts`, `nodes.json`, an undeclared `cluster-secrets` and two domain pages in `cluster-provisioning`. 1137 refuse repo-wide.",
-    },
-    {
-      statement: "The inference family sits in a top-level inference/ folder.",
-      workingMemory:
-        "243 files leave `infrastructure/`: 12 folders and the `inference` and `generation` domain pages. `comfy` and `inference-commands` are named by `domain/infrastructure` and want adding to `domain/inference`. The prefix rule renames the folders `inference-clients`, `-pool`, `-runs` and `-commands` to `clients`, `pool`, `runs` and `commands`, leaving their slugs. `upscale` and `voice-inference` move whole. `alerts` stays: `domain` names a subject rather than a home.",
     },
     {
       statement: "Every working subagent has a page, and every stopped one has none.",
