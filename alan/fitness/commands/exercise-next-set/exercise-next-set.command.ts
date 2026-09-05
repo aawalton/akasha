@@ -36,11 +36,13 @@ export const exerciseNextSet = {
     },
     {
       invariantKind: "departure",
-      statement: "A movement skipped before it was worked leaves the pool the plan is drawn from.",
+      statement:
+        "A movement skipped before that movement was worked leaves the pool the plan is drawn from.",
     },
     {
       invariantKind: "departure",
-      statement: "A movement skipped after it was worked ends its slot with nothing in its place.",
+      statement:
+        "A movement skipped after that movement was worked ends its slot with nothing in its place.",
     },
     {
       invariantKind: "departure",
