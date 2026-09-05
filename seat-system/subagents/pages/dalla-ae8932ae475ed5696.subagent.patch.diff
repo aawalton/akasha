@@ -60,3 +60,66 @@ index 0a47a917ce5546869dd5738e74380a3d285cf24e..8c5890e178b8a2a5932a1be31dd22201
      const said = merged(one.was, one.body, now)
      if ("why" in said) return { why: `${path} — ${said.why}` }
      next.set(path, { was: now, body: said.body })
+diff --git a/commands/patch/patch.command.code.ts b/commands/patch/patch.command.code.ts
+index 49883bf72972b875cea0b3139bc2a194f414559b..28ffd619df397839bc783d7257392a97858ca2a4 100644
+--- a/commands/patch/patch.command.code.ts
++++ b/commands/patch/patch.command.code.ts
+@@ -18,6 +18,7 @@ import type { Answer, Given } from "../../command-system/calling/calling.module.
+ import {
+   DROPPED,
+   droppedPatch,
++  type Rebased,
+   rebasedOnto,
+   resolved,
+ } from "../../command-system/drafting/drafting.module.code.ts"
+@@ -96,6 +97,8 @@ const NOT_HELD = "the patch carries no body at"
+ 
+ const NO_REBASE = "the patch does not rebase onto the commit at HEAD"
+ 
++const MOVED = " — moved under the patch since it was drafted"
++
+ const WHY = "the patch this agent drafted"
+ 
+ function headOf(root: string): string {
+@@ -108,6 +111,22 @@ function markOf(one: Blobs): string {
+   return "changed"
+ }
+ 
++function markAt(was: Uint8Array | null, body: Uint8Array | null): string {
++  if (was === null) return "added"
++  if (body === null) return "taken away"
++  return "changed"
++}
++
++function shownIn(held: string, said: Rebased | { readonly why: string }): readonly string[] {
++  if ("why" in said) {
++    return [...blobsIn(held)].map(([path, blobs]) => `${markOf(blobs)} ${path}`)
++  }
++  return [...said.held].map(([path, one]) => {
++    const after = said.moved.includes(path) ? MOVED : ""
++    return `${markAt(one.was, one.body)} ${path}${after}`
++  })
++}
++
+ function clashSaid(path: string): string {
+   return `${path} carries a conflict — resolve it in the patch before the patch applies`
+ }
+@@ -145,17 +164,11 @@ export function showing(root: string, page: string): Answer {
+   const held = patchIn(root, page)
+   if (held === null) return { report: [noneSaid(root, page)], refusals: [], code: 0 }
+   const said = rebasedOnto(root, headOf(root), held)
+-  const moved = "why" in said ? [] : said.moved
+   const clashed = "why" in said ? [] : said.clashed
+-  const lines = [...blobsIn(held)].map((one) => {
+-    const [path, blobs] = one
+-    const after = moved.includes(path) ? " — moved under the patch since it was drafted" : ""
+-    return `${markOf(blobs)} ${path}${after}`
+-  })
+   const tail = "why" in said ? [`${NO_REBASE} — ${said.why}`] : []
+   return {
+     report: [
+-      ...[...lines].sort(),
++      ...[...shownIn(held, said)].sort(),
+       ...clashed.map(clashSaid),
+       `the patch is kept at ${patchAt(page)}`,
+       ...tail,
