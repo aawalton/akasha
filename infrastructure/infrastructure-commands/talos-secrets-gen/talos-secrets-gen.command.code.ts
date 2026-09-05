@@ -69,7 +69,7 @@ async function generating(read: Named): Promise<Answer> {
     return {
       report: [],
       refusals: [
-        `a secrets file already stands at ${destPath}`,
+        `a secrets file is already at ${destPath}`,
         `writing it again loses every node's PKI, so \`${FORCE}\` is what says a rotation is meant`,
       ],
       code: INPUT,

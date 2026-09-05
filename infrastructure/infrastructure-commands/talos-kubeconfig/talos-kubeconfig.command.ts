@@ -27,7 +27,7 @@ export const talosKubeconfig = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A talosconfig that does not stand refuses the fetch.",
+      statement: "A talosconfig that is not there refuses the fetch.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +47,7 @@ export const talosKubeconfig = {
     },
     {
       invariantKind: "departure",
-      statement: "A kubeconfig standing at the destination is written over.",
+      statement: "A kubeconfig already at the destination is written over.",
     },
     {
       invariantKind: "absence",

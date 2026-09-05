@@ -23,7 +23,7 @@ export const talosBootstrap = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A talosconfig that does not stand refuses the bootstrap.",
+      statement: "A talosconfig that is not there refuses the bootstrap.",
     },
     {
       invariantKind: "departure",
