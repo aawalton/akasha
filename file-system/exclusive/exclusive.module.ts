@@ -13,7 +13,7 @@ export const exclusive = {
     },
     {
       invariantKind: "departure",
-      statement: "Making it is one act that fails where it already exists.",
+      statement: "Making the turn is one act that fails where that turn already exists.",
     },
     {
       invariantKind: "departure",
