@@ -158,6 +158,20 @@ index 6dc5ac21d93d4d4177f2ecaaa0a0e4beab5923c4..e31b03328a0a3b2ae8bf14af0c3c3349
  
    const envelope = { id, at: composed.put.path, created: held === undefined, title, difficulty }
    if (json) {
+diff --git a/alan/tracking/session-activities/activity-default/activity-default.module.ts b/alan/tracking/session-activities/activity-default/activity-default.module.ts
+index 0f9f15be18ecb393c2dec856f9cf99d16debba2f..1fc10f6be621e36b74b75dc59e60c3cea07d0a76 100644
+--- a/alan/tracking/session-activities/activity-default/activity-default.module.ts
++++ b/alan/tracking/session-activities/activity-default/activity-default.module.ts
+@@ -21,7 +21,8 @@ export const activityDefault = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The composed page is handed to akasha's own verb to land.",
++      statement:
++        "The composed page is handed to the tracking landing as a value rather than a file.",
+     },
+   ],
+ } as const satisfies Module
 diff --git a/alan/tracking/tracking-landing/tracking-landing.module.code.ts b/alan/tracking/tracking-landing/tracking-landing.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..d4f1dd1d2e016c892cd38dfe645bc726f47d8fe0
