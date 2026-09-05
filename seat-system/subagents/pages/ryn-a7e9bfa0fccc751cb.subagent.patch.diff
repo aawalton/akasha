@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/readout-system/readouts/readout.page-type.ts b/readout-system/readouts/readout.page-type.ts
+index 3708687bcb8d3534794a2441d75184d57a202477..71d55863212d9cd773a92937902580050264be99 100644
+--- a/readout-system/readouts/readout.page-type.ts
++++ b/readout-system/readouts/readout.page-type.ts
+@@ -155,7 +155,7 @@ export const readout = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "What a readout shows is stated on the readout.",
++      statement: "Everything a readout shows is stated on the readout.",
+     },
+     {
+       invariantKind: "gap",
