@@ -1,0 +1,105 @@
+diff --git a/code-system/ios-apps/properties/spa-source-path.text-property.ts b/code-system/ios-apps/properties/spa-source-path.text-property.ts
+index 1b1dd7bd31de541423a477ae18232f031af3c2f7..a1498d3958101058b638f6e0d7f0b15e559e5d31 100644
+--- a/code-system/ios-apps/properties/spa-source-path.text-property.ts
++++ b/code-system/ios-apps/properties/spa-source-path.text-property.ts
+@@ -17,7 +17,7 @@ export const spaSourcePath = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An app whose site stands beside its page states none of this.",
++      statement: "An app whose site stands beside its page states no path here.",
+     },
+   ],
+ } as const satisfies TextProperty
+diff --git a/command-system/gate-building/gate-building.module.ts b/command-system/gate-building/gate-building.module.ts
+index ff008e49171bdd54a67ffc6eac6902a74b64bc7d..e81421dac3c9ceb96859f97bcf191ed7ada27668 100644
+--- a/command-system/gate-building/gate-building.module.ts
++++ b/command-system/gate-building/gate-building.module.ts
+@@ -92,7 +92,7 @@ export const gateBuilding = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "This is never told whether it ran.",
++      statement: "This module is never told whether it ran.",
+     },
+     {
+       invariantKind: "gap",
+diff --git a/commands/domain-tree/domain-tree.command.ts b/commands/domain-tree/domain-tree.command.ts
+index f74f96a4fb77aeaf928b141ca1609bf6a9718695..9a560273035903713f8d683cb96da1bf44808d6a 100644
+--- a/commands/domain-tree/domain-tree.command.ts
++++ b/commands/domain-tree/domain-tree.command.ts
+@@ -38,7 +38,7 @@ export const domainTree = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "This takes no word, and a call naming one is refused.",
++      statement: "This command takes no word, and a call naming one is refused.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/commands/refactor/page-retyping/page-retyping.module.ts b/commands/refactor/page-retyping/page-retyping.module.ts
+index 679c77da7a845e713ffe91bcf41f14b03a91374f..4152d271224c021518503a5a19ac4f0ccc674bbb 100644
+--- a/commands/refactor/page-retyping/page-retyping.module.ts
++++ b/commands/refactor/page-retyping/page-retyping.module.ts
+@@ -91,7 +91,7 @@ export const pageRetyping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A path naming a file this carries is repointed.",
++      statement: "A path naming a file this retype carries is repointed.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/champions-tree/champions-tree.module.ts b/editor-extension/champions-tree/champions-tree.module.ts
+index fcb6aeb4fb52ce43d5a292189a599893718cc365..7aa49e21d42bf054e08006d8344e2bcf2ffc6eb1 100644
+--- a/editor-extension/champions-tree/champions-tree.module.ts
++++ b/editor-extension/champions-tree/champions-tree.module.ts
+@@ -17,7 +17,7 @@ export const championsTree = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A parent's sequence places the children it names ahead of those it does not.",
++      statement: "A parent's sequence places the children it names ahead of the ones it does not.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/vscode-api/vscode-api.type-declaration.ts b/editor-extension/vscode-api/vscode-api.type-declaration.ts
+index b3fc29a76a5ccfb495d128dcc1b53d9ba077fcb3..11de350a50138810306b08f1084bed6f463fde18 100644
+--- a/editor-extension/vscode-api/vscode-api.type-declaration.ts
++++ b/editor-extension/vscode-api/vscode-api.type-declaration.ts
+@@ -21,7 +21,7 @@ export const vscodeApi = {
+     },
+     {
+       invariantKind: "stopgap",
+-      statement: "This restates the editor fork's own `src/vscode-dts/vscode.d.ts`.",
++      statement: "This declaration restates the editor fork's own `src/vscode-dts/vscode.d.ts`.",
+     },
+     {
+       invariantKind: "constraint",
+diff --git a/git-transport/hooks/pre-receive-change-branches/pre-receive-change-branches.shell-script.ts b/git-transport/hooks/pre-receive-change-branches/pre-receive-change-branches.shell-script.ts
+index 43a5f7197b94c651f199aa4f520323b480416c4d..9d9720589c159f6092b23d763fcc80487df651eb 100644
+--- a/git-transport/hooks/pre-receive-change-branches/pre-receive-change-branches.shell-script.ts
++++ b/git-transport/hooks/pre-receive-change-branches/pre-receive-change-branches.shell-script.ts
+@@ -42,7 +42,7 @@ export const preReceiveChangeBranches = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "No push gets past this.",
++      statement: "No push gets past this hook.",
+     },
+   ],
+ } as const satisfies ShellScript
+diff --git a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.ts b/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.ts
+index a9c9df2f4a517aef98054c1819d1a0765ed7c230..8990c80b7497620c1d012755c5354250ae3b7a51 100644
+--- a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.ts
++++ b/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.ts
+@@ -29,7 +29,8 @@ export const blockDestructiveGit = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A prefix that only runs the call behind it does not hide a git act from this.",
++      statement:
++        "A prefix that only runs the call behind it does not hide a git act from this hook.",
+     },
+     {
+       invariantKind: "absence",
