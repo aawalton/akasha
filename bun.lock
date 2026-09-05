@@ -179,9 +179,11 @@
     "alan/fitness/exercise-access": {
       "name": "@akasha/exercise-access",
       "dependencies": {
+        "@akasha/command-system": "workspace:*",
         "@akasha/day": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/pages-system": "workspace:*",
+        "@akasha/pages-system-service": "workspace:*",
         "zod": "^4.3.6",
       },
     },
