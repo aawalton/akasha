@@ -397,3 +397,15 @@ index 0000000000000000000000000000000000000000..33b292904fcdfc74b2bee03480b296a3
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/pages/pages.workspace-package.ts b/pages/pages.workspace-package.ts
+index a0223d016bca0efcf2896cecc22576a886eda229..fdab3568118dcb0f8e7554d595bd65f86d513838 100644
+--- a/pages/pages.workspace-package.ts
++++ b/pages/pages.workspace-package.ts
+@@ -73,6 +73,7 @@ export const pages = {
+     "module/markdown-property-stated",
+     "module/page-answer-sweeping",
+     "module/page-carry",
++    "module/page-computing",
+     "module/page-derive-shape",
+     "module/page-formulas",
+     "module/page-landing-journal",
