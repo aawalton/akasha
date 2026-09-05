@@ -12,7 +12,12 @@ export const monarchRules = {
     {
       invariantKind: "departure",
       statement:
-        "The keys and comparisons a rule may state are the two select properties' own values, and a page holding a word outside them is refused rather than passed over.",
+        "The keys and comparisons a rule may state are the two select properties' own values.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page holding a word outside the two select properties' values is refused rather than passed over.",
     },
     {
       invariantKind: "departure",
