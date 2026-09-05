@@ -41,7 +41,7 @@ export const hookJudging = {
     },
     {
       invariantKind: "absence",
-      statement: "What is here is set up by the tests that reach for this module.",
+      statement: "The code here is set up by the tests that reach for this module.",
     },
     {
       invariantKind: "absence",
