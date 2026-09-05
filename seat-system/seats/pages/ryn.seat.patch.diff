@@ -1,5 +1,5 @@
 diff --git a/commands/write/write.command.code.ts b/commands/write/write.command.code.ts
-index aaf9ff99fdc823990a5cc2163097b69079350715..4753e757f4c2b11bd7fb60522f2b71c12f955fe0 100644
+index aaf9ff99fdc823990a5cc2163097b69079350715..29a103c15189fd4754138a89f2da939ca8135d43 100644
 --- a/commands/write/write.command.code.ts
 +++ b/commands/write/write.command.code.ts
 @@ -28,6 +28,7 @@ import {
@@ -30,3 +30,11 @@ index aaf9ff99fdc823990a5cc2163097b69079350715..4753e757f4c2b11bd7fb60522f2b71c1
  export function pathAt(root: string, said: string): string | null {
    const full = isAbsolute(said) ? resolve(said) : resolve(root, said)
    const rel = relative(resolve(root), full)
+@@ -424,6 +438,7 @@ export function builtIn(argv: readonly string[], given: Given, piping: Piping):
+   mistaken.push(...removing.mistaken)
+   wrong.push(...removing.wrong)
+   wrong.push(...unwarrantedIn(given, glass.glass, changes))
++  wrong.push(...unrestatedFor(given, changes))
+   changes.push(...besideTaken(given, removing.base, removing.taken, seen))
+   const troubled = troubling({ mistaken, wrong })
+   if (troubled !== null) return troubled
