@@ -1,6 +1,7 @@
 export const STORY_SLUG = "the-wandering-inn"
 export const STORY_PAGE_TYPE = "story-read"
 export const CHAPTER_PAGE_TYPE = "story-chapter-read"
+export const STORY_ADDRESS = `${STORY_PAGE_TYPE}/${STORY_SLUG}`
 
 const POSITION_DIGITS = 4
 

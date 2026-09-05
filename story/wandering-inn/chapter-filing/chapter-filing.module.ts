@@ -17,6 +17,16 @@ export const chapterFiling = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A chapter is filed under the story's qualified address rather than the story's slug alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The chapters already filed are looked for under the address they were filed under.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A chapter already filed is known by the link it was filed under.",
     },
     {
