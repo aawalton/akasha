@@ -10,7 +10,7 @@ export const personaPageConditions = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A level matches whether it is stored as a number or as text.",
+      statement: "A level matches whether that level is stored as a number or as text.",
     },
   ],
 } as const satisfies Module
