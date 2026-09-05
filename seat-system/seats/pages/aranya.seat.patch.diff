@@ -343,3 +343,11 @@ index f2e3ca37dca60dec3ad2a153ea75861b50ee79d0..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../infrastructure/upscale
 \ No newline at end of file
+diff --git a/infrastructure/voice-inference/voice-inference b/infrastructure/voice-inference/voice-inference
+deleted file mode 120000
+index 3aa047adb8758f52346ef213d8af31d27c69a70d..0000000000000000000000000000000000000000
+--- a/infrastructure/voice-inference/voice-inference
++++ /dev/null
+@@ -1 +0,0 @@
+-../../infrastructure/voice-inference
+\ No newline at end of file
