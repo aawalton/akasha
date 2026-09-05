@@ -36,7 +36,7 @@ index 0a02c27fc8711c1ffa440c7e1697aae4b9fb8cba..836eae0959420f9c8f3a913b42286328
    else writeFileSync(out, json)
  }
 diff --git a/seat-system/supervising/supervisor-resume-notices/supervisor-resume-notices.module.code.ts b/seat-system/supervising/supervisor-resume-notices/supervisor-resume-notices.module.code.ts
-index c66f2d1c7aaaff677a36ab84d6bd5e1060c2438a..8b2c708b296d4fef1527b584fbf4a7dfa60ee173 100644
+index c66f2d1c7aaaff677a36ab84d6bd5e1060c2438a..b4554656fd2093c6537aa24818cef2aaf10c57ca 100644
 --- a/seat-system/supervising/supervisor-resume-notices/supervisor-resume-notices.module.code.ts
 +++ b/seat-system/supervising/supervisor-resume-notices/supervisor-resume-notices.module.code.ts
 @@ -1,20 +1,12 @@
@@ -62,6 +62,107 @@ index c66f2d1c7aaaff677a36ab84d6bd5e1060c2438a..8b2c708b296d4fef1527b584fbf4a7df
  const handed = shape.string().min(1)
  
  const ResumeNoticesZ = shape.object({
+@@ -41,83 +33,29 @@ export function unavailable(reason: string): ResumeNotices {
+   }
+ }
+ 
+-export function parseNotices(text: string): { notices: ResumeNotices } | { reason: string } {
+-  try {
+-    const parsed = JSON.parse(text) as ReturnType<typeof composedNotices>
+-    const result = ResumeNoticesZ.safeParse(parsed)
+-    if (result.success) return { notices: result.data }
+-    const issue = result.error.issues[0]
+-    const at =
+-      issue === undefined || issue.path.length === 0 ? "" : ` at \`${issue.path.join(".")}\``
+-    return {
+-      reason: `${COMPOSE_COMMAND} returned nothing this can use${at}: ${issue?.message ?? "no reason given"}`,
+-    }
+-  } catch (error) {
+-    return { reason: `${COMPOSE_COMMAND} did not return JSON (${String(error)})` }
+-  }
+-}
+-
+-interface CommandAnswer {
+-  readonly stdout: string
+-  readonly stderr: string
+-  readonly code: number
+-}
+-
+-async function runCompose(): Promise<CommandAnswer> {
+-  const verb = COMPOSE_AT
+-  if (!existsSync(verb)) {
+-    throw new Error(`${verb} is not there, so there is no notice to compose`)
+-  }
+-  const proc = Bun.spawn({
+-    cmd: [process.execPath, verb],
+-    stdin: "ignore",
+-    stdout: "pipe",
+-    stderr: "pipe",
+-  })
+-  let killedAtCeiling = false
+-  const ceiling = setTimeout(() => {
+-    killedAtCeiling = true
+-    proc.kill()
+-  }, COMPOSE_TIMEOUT_MS)
+-  let stdout: string
+-  let stderr: string
+-  let code: number
+-  try {
+-    ;[stdout, stderr, code] = await Promise.all([
+-      new Response(proc.stdout).text(),
+-      new Response(proc.stderr).text(),
+-      proc.exited,
+-    ])
+-  } finally {
+-    clearTimeout(ceiling)
+-  }
+-  if (killedAtCeiling) {
+-    throw new Error(
+-      `${verb} was still running after ${COMPOSE_TIMEOUT_MS}ms and was killed, so nothing it ` +
+-        "composed is composed. It is stuck rather than slow."
+-    )
++/** The composed notices as a resumed seat is handed them, or the reason they are no use here. */
++export function checkNotices(
++  composed: Readonly<Record<string, string>>
++): { notices: ResumeNotices } | { reason: string } {
++  const result = ResumeNoticesZ.safeParse(composed)
++  if (result.success) return { notices: result.data }
++  const issue = result.error.issues[0]
++  const at = issue === undefined || issue.path.length === 0 ? "" : ` at \`${issue.path.join(".")}\``
++  return {
++    reason: `${COMPOSE_MODULE} composed nothing this can use${at}: ${issue?.message ?? "no reason given"}`,
+   }
+-  return { stdout, stderr, code }
+ }
+ 
+-async function composed(): Promise<{ out: string } | { reason: string }> {
++export function resumeNotices(): ResumeNotices {
++  let composed: Readonly<Record<string, string>>
+   try {
+-    const answer = await runCompose()
+-    if (answer.code === 0) return { out: answer.stdout }
+-    const said = answer.stderr.trim()
+-    return { reason: `${COMPOSE_COMMAND} exited ${answer.code}${said === "" ? "" : ` (${said})`}` }
++    composed = notices()
+   } catch (error) {
+-    return { reason: `${COMPOSE_COMMAND} could not be run (${String(error)})` }
+-  }
+-}
+-
+-export async function resumeNotices(): Promise<ResumeNotices> {
+-  const result = await composed()
+-  if ("reason" in result) {
+-    console.log(`${LOG} ${result.reason}`)
+-    return unavailable(result.reason)
++    const said = `${COMPOSE_MODULE} threw (${error instanceof Error ? error.message : String(error)})`
++    console.log(`${LOG} ${said}`)
++    return unavailable(said)
+   }
+-  const checked = parseNotices(result.out)
++  const checked = checkNotices(composed)
+   if ("reason" in checked) {
+     console.log(`${LOG} ${checked.reason}`)
+     return unavailable(checked.reason)
 diff --git a/seat-system/supervisor-decide/supervisor-decide.module.code.ts b/seat-system/supervisor-decide/supervisor-decide.module.code.ts
 index 4fb7310eb9b013b9138f9335b5ba908d2b3cc6a4..6bc3af4ffb155915eba8e203505a85473931b967 100644
 --- a/seat-system/supervisor-decide/supervisor-decide.module.code.ts
