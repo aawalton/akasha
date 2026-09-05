@@ -305,18 +305,14 @@ index 0000000000000000000000000000000000000000..c662417df16c07a66e98eb489efb871a
 +  ]
 +}
 diff --git a/service-system/cluster-services/pages/voice-infer.cluster-service.ts b/service-system/cluster-services/pages/voice-infer.cluster-service.ts
-index b29d209ad15c0141e8d4d521af0d03187929f754..9aa4317a0f5c8c81b6bebc64a9537621a86d38ec 100644
+index b29d209ad15c0141e8d4d521af0d03187929f754..b11cd19e77a9f63bafdebb112b936238095ad41c 100644
 --- a/service-system/cluster-services/pages/voice-infer.cluster-service.ts
 +++ b/service-system/cluster-services/pages/voice-infer.cluster-service.ts
-@@ -11,6 +11,9 @@ export const voiceInfer = {
+@@ -11,6 +11,5 @@ export const voiceInfer = {
    image: "registry.registry.svc.cluster.local:5000/cluster/voice-infer-cu121:serving",
    replicas: 1,
    containerPort: 8080,
 -  manifestCode:
 -    "infrastructure/voice-inference/voice-infer.cluster-service.code.attachment.ts",
-+<<<<<<< what this change would leave
-+  manifestCode: "infrastructure/voice-inference/voice-infer/voice-infer.manifest.code.ts",
-+=======
 +  manifestSlug: "voice-infer",
-+>>>>>>> what HEAD holds
  } as const satisfies ClusterService
