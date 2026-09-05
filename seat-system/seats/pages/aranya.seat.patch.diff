@@ -47,3 +47,11 @@ index 82bab98406549962c2d6131e8d27e83ff8a8b297..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../audhdalan/audhdalan-web
 \ No newline at end of file
+diff --git a/browser/browser-commands/browser-commands b/browser/browser-commands/browser-commands
+deleted file mode 120000
+index 7bd0b88c1bbe4b1827f3e7aa808e1f92c1463d1c..0000000000000000000000000000000000000000
+--- a/browser/browser-commands/browser-commands
++++ /dev/null
+@@ -1 +0,0 @@
+-../../browser/browser-commands
+\ No newline at end of file
