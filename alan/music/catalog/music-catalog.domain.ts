@@ -22,11 +22,11 @@ export const musicCatalog = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "MusicBrainz says what a song and an artist are.",
+      statement: "MusicBrainz defines a song and an artist.",
     },
     {
       invariantKind: "departure",
-      statement: "LRCLIB says what the words of a song are.",
+      statement: "LRCLIB states the words of a song.",
     },
   ],
 } as const satisfies Domain
