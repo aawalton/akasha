@@ -8,9 +8,15 @@ export const theaChecksSystem = {
   personaSlug: "thea",
   intents: [
     {
+      statement:
+        "A page type narrows an inherited property's reach to the collection it is part of.",
+      workingMemory:
+        "168 routes across 7 apps share one page type, and `home`, `sign-in`, `page-detail`, `landing` and eight more repeat, so route slugs need this. `part-of` is declared and branched at index-identity.index.code.ts:29 but never written, read back or tested — 0 files carry it against 69 carrying `page-type`. The `scoped` address kind reaches only its two definition sites. Order: seed a test against the PART_OF branch first, since all of it rests on a line that has never run; then the `unique` field on the properties declaration, refused today by page-matches-its-type:104; then the identity map; then twenty-odd consumers passing a page-type slug as the scope, each answering empty rather than erroring, so every failure is silent.",
+    },
+    {
       statement: "Every check is clean.",
       workingMemory:
-        "Six steps per check: 1 the failure category prevented, 2 the file set covered, 3 the cost over one file not judged, 4 over one judged, 5 over the whole repository, 6 whether green. Turn a green check on at patch early: live landings measure better than probes. Figures go in the check's `measured` property; the entries jsonl holds every run. 42 checks, alphabetical. Done: domain-is-named-by-a-parent. Now: email-address-is-well-formed, green, on at patch.",
+        "Six steps per check: 1 the failure category prevented, 2 the file set covered, 3 the cost over one file not judged, 4 over one judged, 5 over the whole repository, 6 whether green. Turn a green check on at patch early: live landings measure better than probes. The entries jsonl holds every run. 42 checks, alphabetical. Done: domain-is-named-by-a-parent. Now: email-address-is-well-formed, green, on at patch.",
     },
     {
       statement: "The new system carries every check of the old system that still applies.",
