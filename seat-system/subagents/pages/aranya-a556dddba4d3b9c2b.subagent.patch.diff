@@ -1,3 +1,16 @@
+diff --git a/checks/modules/change-walking/change-walking.module.test.ts b/checks/modules/change-walking/change-walking.module.test.ts
+index d906ff417d9a79b1bdcc3155ca3fcef38e89cd22..a15c2b35c1de557fefbae742b7fe7b2d37d9a2f0 100644
+--- a/checks/modules/change-walking/change-walking.module.test.ts
++++ b/checks/modules/change-walking/change-walking.module.test.ts
+@@ -116,7 +116,7 @@ function counting(root: string, held: Shadow, asked: () => undefined): Shadow {
+     lines: (at) => base.lines(at),
+   }
+   return {
+-    index: answeringOver(reading, root, (path) => held.pageOf(path)),
++    index: answeringOver(reading, (path) => held.pageOf(path)),
+     filed: () => held.filed(),
+     pageOf: (path) => held.pageOf(path),
+     codeAt: (path) => held.codeAt(path),
 diff --git a/commands/move/naming/move-naming.module.code.ts b/commands/move/naming/move-naming.module.code.ts
 index 51987aa8c2dd12102189ae0df3cb3281664de40d..a8ca9593aee9a0925c937a29e9dc353d81a21f1c 100644
 --- a/commands/move/naming/move-naming.module.code.ts
