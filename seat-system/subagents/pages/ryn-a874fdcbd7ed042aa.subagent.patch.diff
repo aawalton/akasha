@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/alan/fitness/commands/exercise-today/exercise-today.command.ts b/alan/fitness/commands/exercise-today/exercise-today.command.ts
+index 757ec723c9ec109648064be68a61875ddc9d73fa..17f4e616d09df74f02b91c4750d71764baf609dc 100644
+--- a/alan/fitness/commands/exercise-today/exercise-today.command.ts
++++ b/alan/fitness/commands/exercise-today/exercise-today.command.ts
+@@ -38,7 +38,8 @@ export const exerciseToday = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A session is complete where it carries the moment it was completed.",
++      statement:
++        "A session is complete where that session carries the moment that session was completed.",
+     },
+     {
+       invariantKind: "absence",
