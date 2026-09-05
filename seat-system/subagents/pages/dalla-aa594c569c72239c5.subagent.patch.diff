@@ -1,0 +1,13 @@
+diff --git a/command-system/asking/asking.module.test-fixtures.ts b/command-system/asking/asking.module.test-fixtures.ts
+index 36a860645d6fe3dd4059ccea0b5c088ff6d4f379..4b8e6d80531c17e05843202a83c689bdd631f1e9 100644
+--- a/command-system/asking/asking.module.test-fixtures.ts
++++ b/command-system/asking/asking.module.test-fixtures.ts
+@@ -46,7 +46,7 @@ export const BROKEN = 'import {a} from "./a.ts"\nexport const held = (\n'
+ export const REFORMATTED =
+   "formatted akasha/two.ts as it landed — what stands there is not what was handed in"
+ 
+-const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
++export const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
+ 
+ export const SEAT_AT = "akasha/seat-system/seats/pages/tester.seat.ts"
+ 
