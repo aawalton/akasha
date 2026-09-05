@@ -24,3 +24,18 @@ index 26b1c714044e720c60f4f47a5c1d5de6eeca4474..ae3f2a76f204be4ec411ddde282350ae
 +export function headsAComparative(sentence: DepSentence, token: DepToken): boolean {
 +  return childrenByRel(sentence, token.id, "fixed").some((one) => lower(one) === "than")
 +}
+diff --git a/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.code.ts b/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.code.ts
+index 94174c995d6bbc93dcb7ad97fffa4dd6604d93ef..f3dba6c95c8b9d94f840d94ec66ee3684ca0cf1e 100644
+--- a/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.code.ts
++++ b/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.code.ts
+@@ -4,8 +4,10 @@ import type { Match, ShapePredicate } from "@akasha/plain-language/shape-predica
+ import {
+   determinesABacktickedName,
+   fillsNounSlot,
++  headsAComparative,
+   isBackticked,
+   isQuantifier,
++  isReciprocal,
+   marksADegree,
+   partsOf,
+ } from "@akasha/plain-language/shape-predicate"
