@@ -17,7 +17,7 @@ export const eventToPage = {
     },
     {
       invariantKind: "departure",
-      statement: "What registration a closed event once had is not carried.",
+      statement: "The registration a closed event once had is not carried.",
     },
     {
       invariantKind: "departure",
