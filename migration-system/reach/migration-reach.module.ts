@@ -70,7 +70,7 @@ export const migrationReach = {
     },
     {
       invariantKind: "departure",
-      statement: "What is inside akasha is read once into a reading.",
+      statement: "The files inside akasha are read once into a reading.",
     },
     {
       invariantKind: "departure",
@@ -87,7 +87,7 @@ export const migrationReach = {
     {
       invariantKind: "departure",
       statement:
-        "A reading taken before a migration landed cannot reach what that migration wrote.",
+        "A reading taken before a migration landed cannot reach the files that migration wrote.",
     },
     {
       invariantKind: "departure",
@@ -95,7 +95,7 @@ export const migrationReach = {
     },
     {
       invariantKind: "departure",
-      statement: "What a file says of itself is read from the file's own front matter.",
+      statement: "The values a file says of itself are read from the file's own front matter.",
     },
     {
       invariantKind: "departure",
@@ -111,7 +111,7 @@ export const migrationReach = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here judges whether what is inside akasha is any good.",
+      statement: "Nothing here judges whether the files inside akasha are any good.",
     },
     {
       invariantKind: "constraint",
