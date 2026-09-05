@@ -177,7 +177,7 @@ test("a command page throwing what is no Error is still refused with what it sai
   expect(said.refusals[0]).toContain("could not be loaded — the value was never set")
 })
 
-test("a command answering later is waited for rather than handed back as it stands", async () => {
+test("a command answering later is waited for rather than handed back as it is", async () => {
   const root = rootWith([{ slug: "held", body: ANSWERS_LATER }])
   const said = await calling(["held", "one"], { ...OUTSIDE, root })
   expect(said.code).toBe(0)

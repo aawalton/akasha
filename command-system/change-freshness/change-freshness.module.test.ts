@@ -21,7 +21,7 @@ const AT = "akasha/a.domain.ts"
 const MOVED = "what is on disk is not the body you read"
 
 function repoWith(named: Readonly<Record<string, string>>): string {
-  const root = scratch.rootFor("akasha-standing-")
+  const root = scratch.rootFor("akasha-freshness-")
   git(root, ["init", "--quiet"])
   git(root, ["config", "user.email", "held@nowhere"])
   git(root, ["config", "user.name", "Held"])
@@ -41,25 +41,25 @@ function asRead(path: string, oid: string, mechanicalOid: string | null = null):
 
 const readA = (): Reading => asRead(AT, blobIdOf(bytes(A)))
 
-test("a body standing at the object id it was read at has moved nothing", () => {
+test("a body at the object id it was read at has moved nothing", () => {
   const root = repoWith(PAGES)
   expect(movedOnDisk(root, [readA()])).toEqual([])
 })
 
-test("a body standing at another object id has moved", () => {
+test("a body at another object id has moved", () => {
   const root = repoWith(PAGES)
   writeFileSync(join(root, AT), `${A}\n`)
   expect(movedOnDisk(root, [readA()])).toEqual([AT])
 })
 
-test("a body carried mechanically since it was read still stands for its reader", () => {
+test("a body carried mechanically since it was read still holds for its reader", () => {
   const root = repoWith(PAGES)
   writeFileSync(join(root, AT), `${A}\n`)
   const held = asRead(AT, blobIdOf(bytes(A)), blobIdOf(bytes(`${A}\n`)))
   expect(movedOnDisk(root, [held])).toEqual([])
 })
 
-test("a path that will not read at all counts as moved rather than as standing", () => {
+test("a path that will not read at all counts as moved rather than as unmoved", () => {
   const root = repoWith(PAGES)
   expect(movedOnDisk(root, [asRead("akasha/nowhere.ts", blobIdOf(bytes(A)))])).toEqual([
     "akasha/nowhere.ts",
@@ -72,7 +72,7 @@ test("a path no reading was recorded for is held to nothing", () => {
   expect(movedOnDisk(root, [])).toEqual([])
 })
 
-test("a body standing as its writer read it is written rather than refused", async () => {
+test("a body still as its writer read it is written rather than refused", async () => {
   const root = repoWith(PAGES)
   const said = await landing(
     root,

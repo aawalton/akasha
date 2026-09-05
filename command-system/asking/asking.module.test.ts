@@ -42,7 +42,7 @@ import {
 
 afterAll(scratch.sweep)
 
-test("a report that could not be built leaves the landing standing, and says so", async () => {
+test("a report that could not be built leaves the landing in place, and says so", async () => {
   const root = repoWith()
   const was = headOf(root)
   const said = await landingAsked(givenIn(root), asking({}))
@@ -56,7 +56,7 @@ test("a report that could not be built leaves the landing standing, and says so"
   )
 })
 
-test("a report that could not be built over a removal leaves the removal standing", async () => {
+test("a report that could not be built over a removal leaves the removal in place", async () => {
   const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
   const was = headOf(root)
   const said = await landingAsked(

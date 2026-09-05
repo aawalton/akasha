@@ -65,7 +65,7 @@ test("no repository holds anything, so nothing is found there", () => {
   expect(bodyRead(root, blobIdOf(bodyOf("one\n")))).toBeNull()
 })
 
-test("a difference names what was read and what stands now, and what moved between them", () => {
+test("a difference names what was read and what is there now, and what moved between them", () => {
   const said = differenceOf(bodyOf("one\ntwo\nthree\n"), bodyOf("one\nTWO\nthree\n"))
   expect(said).toBe(
     [
