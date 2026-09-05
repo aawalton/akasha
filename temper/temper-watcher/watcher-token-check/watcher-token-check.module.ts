@@ -23,7 +23,8 @@ export const watcherTokenCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "An enrolment matched by its digest and granting nothing names the key it wanted.",
+      statement:
+        "An enrolment matched by its digest and granting nothing names the key that enrolment wanted.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +44,8 @@ export const watcherTokenCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "The keys a page type declares are gathered by walking what it extends.",
+      statement:
+        "The keys a page type declares are gathered by walking what that page type extends.",
     },
     {
       invariantKind: "gap",
