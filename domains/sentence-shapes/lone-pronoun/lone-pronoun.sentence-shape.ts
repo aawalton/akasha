@@ -16,8 +16,15 @@ export const lonePronoun = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A free relative is a lone pronoun, because naming the thing a clause holds costs less.",
+      statement: "A free relative is a lone pronoun.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`Whatever` and `whichever` are passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The tree shapes `whatever` alike whether that word names a thing or not.",
     },
   ],
 } as const satisfies SentenceShape

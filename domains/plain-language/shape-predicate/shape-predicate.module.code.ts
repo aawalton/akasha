@@ -29,6 +29,7 @@ const INDEFINITE = [
   "someone",
   "something",
 ]
+const FREE_CHOICE = ["whatever", "whichever"]
 const REFLEXIVE = [
   "herself",
   "himself",
@@ -184,6 +185,10 @@ export function isQuantifier(token: DepToken): boolean {
 
 export function isIndefinite(token: DepToken): boolean {
   return INDEFINITE.includes(lower(token))
+}
+
+export function isFreeChoice(token: DepToken): boolean {
+  return FREE_CHOICE.includes(lower(token))
 }
 
 export function marksADegree(sentence: DepSentence, token: DepToken): boolean {

@@ -158,3 +158,40 @@ test("an expletive there is passed over", () => {
   ])
   expect(lonePronoun(said)).toEqual([])
 })
+
+test("a whatever opening a concessive clause is passed over", () => {
+  const said = sentenceOf([
+    ["The", "DET", 2, "det"],
+    ["world", "NOUN", 4, "nsubj:pass"],
+    ["is", "AUX", 4, "aux:pass"],
+    ["swept", "VERB", 0, "root"],
+    ["whatever", "PRON", 8, "obj"],
+    ["the", "DET", 7, "det"],
+    ["linter", "NOUN", 8, "nsubj"],
+    ["said", "VERB", 4, "advcl"],
+  ])
+  expect(lonePronoun(said)).toEqual([])
+})
+
+test("a whichever opening a concessive clause is passed over", () => {
+  const said = sentenceOf([
+    ["The", "DET", 2, "det"],
+    ["rule", "NOUN", 3, "nsubj"],
+    ["matches", "VERB", 0, "root"],
+    ["whichever", "PRON", 7, "obj"],
+    ["the", "DET", 6, "det"],
+    ["body", "NOUN", 7, "nsubj"],
+    ["carries", "VERB", 3, "ccomp"],
+  ])
+  expect(lonePronoun(said)).toEqual([])
+})
+
+test("a pronoun spelled whoever is found", () => {
+  const said = sentenceOf([
+    ["Whoever", "PRON", 2, "nsubj"],
+    ["lands", "VERB", 4, "csubj"],
+    ["is", "AUX", 4, "cop"],
+    ["judged", "ADJ", 0, "root"],
+  ])
+  expect(lonePronoun(said)).toEqual([{ at: [1] }])
+})
