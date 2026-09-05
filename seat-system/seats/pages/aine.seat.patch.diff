@@ -66,3 +66,18 @@ index 5fc834dba72c581cc11528b112f4eb74fce26cad..fdffac37c8f4b21e511b52f1a63bf1ad
    for (const one of rotate) process.stdout.write(`${one.name}\t${one.date}\n`)
  
    if (!argv.includes("--remove")) {
+diff --git a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
+index a10ce02ce5b73d52e3e78249523d53d9b578e62d..fa94e209f4e5adf238a144648a4a6f99d27d6a77 100644
+--- a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
++++ b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
+@@ -20,6 +20,10 @@ export const logDaySweeping = {
+       invariantKind: "departure",
+       statement: "A page whose date cannot be read from its text is left as that page is.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A page left that way is counted and named, so a sweep answers for what it read.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
