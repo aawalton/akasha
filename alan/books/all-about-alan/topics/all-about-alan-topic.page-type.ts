@@ -40,7 +40,7 @@ export const allAboutAlanTopic = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What contains what is carried by a topic's parents rather than by folders.",
+      statement: "Containment is carried by a topic's parents rather than by folders.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +52,7 @@ export const allAboutAlanTopic = {
     },
     {
       invariantKind: "departure",
-      statement: "A topic holds what is worked out apart from what is still open.",
+      statement: "A topic holds its settled text apart from its unsettled text.",
     },
     {
       invariantKind: "departure",
