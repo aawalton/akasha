@@ -22,7 +22,8 @@ export const temperAddonGlobalNameDependents = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A dependent is found by reading the sources rather than by running them.",
+      statement:
+        "A dependent is found by reading the sources rather than by running those sources.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +31,7 @@ export const temperAddonGlobalNameDependents = {
     },
     {
       invariantKind: "departure",
-      statement: "A global a call names is reported whether or not it has dependents.",
+      statement: "A global a call names is reported whether or not that global has dependents.",
     },
     {
       invariantKind: "departure",
