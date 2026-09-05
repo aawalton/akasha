@@ -29,6 +29,7 @@ export const story = {
     "page-type/story-written",
     "page-type/world",
     "page-type/world-character",
+    "page-type/world-mechanic",
   ],
   invariants: [
     {
