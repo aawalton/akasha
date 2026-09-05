@@ -1,5 +1,5 @@
 diff --git a/seat-system/subagents/presence/subagent-presence.module.ts b/seat-system/subagents/presence/subagent-presence.module.ts
-index 8e76a11267a98822cb1522a5b908997d43ae36c1..57d44f8d16759cafca630af536ffeea1398103ba 100644
+index 8e76a11267a98822cb1522a5b908997d43ae36c1..e8cf8ab862436a51dd4f6de388800906bb94907c 100644
 --- a/seat-system/subagents/presence/subagent-presence.module.ts
 +++ b/seat-system/subagents/presence/subagent-presence.module.ts
 @@ -46,7 +46,8 @@ export const subagentPresence = {
@@ -9,6 +9,15 @@ index 8e76a11267a98822cb1522a5b908997d43ae36c1..57d44f8d16759cafca630af536ffeea1
 -      statement: "A call that wrote nothing answers why rather than answering that it did not.",
 +      statement:
 +        "A call that wrote nothing answers why rather than answering that the call did not.",
+     },
+     {
+       invariantKind: "departure",
+@@ -82,7 +83,7 @@ export const subagentPresence = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page already there is left as it is.",
++      statement: "A page already there is left as that page is.",
      },
      {
        invariantKind: "departure",
