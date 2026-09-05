@@ -9,7 +9,7 @@ export const pageTreePanel = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The panel is read once as it starts, before any write asks for a read.",
+      statement: "The panel is read once as that panel starts, before any write asks for a read.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +22,7 @@ export const pageTreePanel = {
     {
       invariantKind: "departure",
       statement:
-        "The rows counted are all of them, and the pages counted are the ones opening a document.",
+        "The rows counted are all the rows, and the pages counted are the ones opening a document.",
     },
     {
       invariantKind: "departure",
