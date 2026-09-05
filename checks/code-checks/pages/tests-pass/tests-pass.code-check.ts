@@ -24,7 +24,7 @@ export const testsPass = {
     {
       invariantKind: "departure",
       statement:
-        "The tests run in a world written out of what the change proposes rather than in the working tree.",
+        "The tests run in a world written out of the change's bodies rather than in the working tree.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +37,7 @@ export const testsPass = {
     {
       invariantKind: "departure",
       statement:
-        "The verdict is read from what the run printed rather than from its exit code alone.",
+        "The verdict is read from the lines the run printed rather than from its exit code alone.",
     },
     {
       invariantKind: "departure",
