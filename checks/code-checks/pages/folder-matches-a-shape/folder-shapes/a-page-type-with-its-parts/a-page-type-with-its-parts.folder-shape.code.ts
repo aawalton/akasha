@@ -7,24 +7,20 @@ const PAGE_TYPE = "page-type"
 
 const PACKAGE = "workspace-package"
 
-const DOMAIN = "domain"
-
-const BESIDE = new Set<string>([DOMAIN, PACKAGE])
-
 const HELD = new Set<string>(["modules", "pages", "properties", "scripts"])
 
-function besideIn(standing: Standing): Held | null {
+function packageIn(standing: Standing): Held | null {
   if (standing.pages.length !== 2) return null
   const above = standing.declaring(standing.folder)
   if (above === null || above.pluralSlug === null) return null
   const found = standing.pages.filter(
-    (one) => BESIDE.has(String(one.pageTypeSlug)) && one.slug === above.pluralSlug
+    (one) => one.pageTypeSlug === PACKAGE && one.slug === above.pluralSlug
   )
   return found.length === 1 ? (found[0] ?? null) : null
 }
 
 export function aPageTypeWithItsParts(standing: Standing): readonly string[] {
-  const beside = besideIn(standing)
+  const beside = packageIn(standing)
   const page = standing.pages.find((one) => one !== beside)
   if (page === undefined) return ["it holds no page of its own"]
   if (standing.pages.length > (beside === null ? 1 : 2)) {
