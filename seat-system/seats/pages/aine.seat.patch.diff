@@ -1,9 +1,0 @@
-diff --git a/domains/findings/pages/a-lint-error-suppresses-the-formatting-that-would-number-it.finding.ts b/domains/findings/pages/a-lint-error-suppresses-the-formatting-that-would-number-it.finding.ts
-index 1f977c1b1f80fd76b9a4eece04ca915156d9f009..dc1b6c5f51deb7eee875a611b3a243313ac4f7d6 100644
---- a/domains/findings/pages/a-lint-error-suppresses-the-formatting-that-would-number-it.finding.ts
-+++ b/domains/findings/pages/a-lint-error-suppresses-the-formatting-that-would-number-it.finding.ts
-@@ -1,3 +1,4 @@
-+import type { Page } from "@akasha/pages-system/page"
- import type { Finding } from "../finding.page-type.ts"
- 
- export const aLintErrorSuppressesTheFormattingThatWouldNumberIt = {
