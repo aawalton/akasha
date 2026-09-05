@@ -1,5 +1,5 @@
 diff --git a/command-system/asking/asking.module.ts b/command-system/asking/asking.module.ts
-index a960989d58ef88c1ef99a084e9ada8b83570388f..5905f78ff648fc9b41ac8d079629592c737b5423 100644
+index a960989d58ef88c1ef99a084e9ada8b83570388f..495467450507bb01971fe05365c54c965466a4d5 100644
 --- a/command-system/asking/asking.module.ts
 +++ b/command-system/asking/asking.module.ts
 @@ -118,7 +118,7 @@ export const asking = {
@@ -8,6 +8,15 @@ index a960989d58ef88c1ef99a084e9ada8b83570388f..5905f78ff648fc9b41ac8d079629592c
        statement:
 -        "A change carrying a package manifest installs the checkout onto the commit it landed.",
 +        "A change carrying a package manifest installs the checkout onto the commit that change landed.",
+     },
+     {
+       invariantKind: "departure",
+@@ -160,7 +160,7 @@ export const asking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A body that will not open is answered with why it would not.",
++      statement: "A body that will not open is answered with why that body would not.",
      },
      {
        invariantKind: "departure",
