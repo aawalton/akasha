@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/editor-extension/panel-judging/panel-judging.module.ts b/editor-extension/panel-judging/panel-judging.module.ts
+index 8f6299de7fb21156288d91be87609885a4702773..0bd4f701778a83823e417275367fd2c3c8013c12 100644
+--- a/editor-extension/panel-judging/panel-judging.module.ts
++++ b/editor-extension/panel-judging/panel-judging.module.ts
+@@ -35,7 +35,7 @@ export const panelJudging = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A tree where no row carries what the tree is for is red.",
++      statement: "A tree where no row carries the value the tree is for is red.",
+     },
+     {
+       invariantKind: "departure",
