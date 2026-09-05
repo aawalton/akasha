@@ -9,7 +9,7 @@ export const knowledgeMain = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The order these modules are loaded in is the order upstream loads them.",
+      statement: "The order these modules are loaded in is the order upstream loads those modules.",
     },
   ],
 } as const satisfies Module
