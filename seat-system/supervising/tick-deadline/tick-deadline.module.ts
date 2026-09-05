@@ -18,7 +18,7 @@ export const tickDeadline = {
     },
     {
       invariantKind: "departure",
-      statement: "A tick asked for after the stop was asked is refused before it starts.",
+      statement: "A tick asked for after the stop was asked is refused before that tick starts.",
     },
     {
       invariantKind: "departure",
