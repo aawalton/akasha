@@ -99,10 +99,6 @@ export const wan = {
     },
     {
       invariantKind: "departure",
-      statement: "A seed nothing named is drawn and recorded with the run.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A frames act writes one numbered PNG for each frame that act takes.",
     },
     {
