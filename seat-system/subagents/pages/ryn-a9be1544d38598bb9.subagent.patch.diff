@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/activity/reading/activity-reading.module.ts b/alan/harness/activity/reading/activity-reading.module.ts
+index 497b4a2725fdcd807f8021d040b5cc9238ac821d..0c278de02388998ee0f158aa0512cf0d189cb141 100644
+--- a/alan/harness/activity/reading/activity-reading.module.ts
++++ b/alan/harness/activity/reading/activity-reading.module.ts
+@@ -25,7 +25,7 @@ export const activityReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What to ask and how to read the answer are on the readout's own page.",
++      statement: "The question to ask and how to read the answer are on the readout's own page.",
+     },
+     {
+       invariantKind: "departure",
