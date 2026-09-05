@@ -527,3 +527,19 @@ index 3f77b86eb0a6a3324aec3241205090e5e526b849..ecc8be43acfe2986bd50dbeca4f96383
      {
        invariantKind: "absence",
        statement: "Nothing here restarts a client.",
+diff --git a/seat-system/package.json b/seat-system/package.json
+index 54074f2a2c2ffd25516056835b4e0bb22179ff97..974d35e17585cfc6123d092e72eb2de7eee9d795 100644
+--- a/seat-system/package.json
++++ b/seat-system/package.json
+@@ -251,7 +251,10 @@
+     "./message-file": "./messaging/message-file/message-file.module.code.ts",
+     "./message-file-watch": "./messaging/message-file-watch/message-file-watch.module.code.ts",
+     "./seat-turn-color": "./seat-turn-color/seat-turn-color.module.code.ts",
+-    "./log-day-writing": "./seat-log-days/log-day-writing/log-day-writing.module.code.ts"
++    "./log-day-writing": "./seat-log-days/log-day-writing/log-day-writing.module.code.ts",
++    "./seat-reset": "./seat-reset/seat-reset.module.code.ts",
++    "./seat-resume": "./seat-resume/seat-resume.module.code.ts",
++    "./seat-start": "./seat-start/seat-start.module.code.ts"
+   },
+   "dependencies": {
+     "@akasha/agents": "workspace:*",
