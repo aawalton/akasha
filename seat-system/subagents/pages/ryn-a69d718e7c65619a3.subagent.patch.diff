@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/access/pages-access.workspace-package.ts b/pages/access/pages-access.workspace-package.ts
+index a54e56859e0afa53fa4a467dfafb40891282a7dd..b0d71c6d9f1abb7d9f28438afdfcb16443cd9a6c 100644
+--- a/pages/access/pages-access.workspace-package.ts
++++ b/pages/access/pages-access.workspace-package.ts
+@@ -58,7 +58,7 @@ export const pagesAccess = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A refusal names what the answer would have taken.",
++      statement: "A refusal names the reading the answer would have taken.",
+     },
+     {
+       invariantKind: "absence",
