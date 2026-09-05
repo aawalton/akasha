@@ -28,8 +28,7 @@ export const rulePopulationReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A reading that will not land in the reader's mailbox throws, so nothing waiting is never read as nothing wrong.",
+      statement: "A reading that will not land in the reader's mailbox throws.",
     },
   ],
 } as const satisfies Module
