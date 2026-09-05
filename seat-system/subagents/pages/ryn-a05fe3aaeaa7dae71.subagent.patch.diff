@@ -1,0 +1,13 @@
+diff --git a/commands/domain/domain.command.ts b/commands/domain/domain.command.ts
+index 1843b452af5d5724c96e72e5673b25a701eb381e..b3e03d8b593ec034cd23223a5bf5252b4fa4643f 100644
+--- a/commands/domain/domain.command.ts
++++ b/commands/domain/domain.command.ts
+@@ -82,7 +82,7 @@ export const domain = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page type names any number of types above it.",
++      statement: "A page type names any number of types above that page type.",
+     },
+     {
+       invariantKind: "departure",
