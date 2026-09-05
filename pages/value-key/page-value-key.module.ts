@@ -13,7 +13,8 @@ export const pageValueKey = {
     },
     {
       invariantKind: "departure",
-      statement: "An attachment is in a page's values under one name, and it is stated here.",
+      statement:
+        "An attachment is in a page's values under one name, and that name is stated here.",
     },
     {
       invariantKind: "absence",
