@@ -68,6 +68,21 @@ index 4b4099bf27cde4e87f2f57b6b83cb1491ea6514f..55504c78d1a77a20f465b349f4f95156
 +    detail: `the subagent pages under ${seatName} did not go — ${gone.why}`,
 +  }
  }
+diff --git a/seat-system/subagent-page-akasha/subagent-page-akasha.module.ts b/seat-system/subagent-page-akasha/subagent-page-akasha.module.ts
+index c9ca02a9d5bbf50b5375c54eb7b910bc775e7f22..70d707567eb795aad4cca028a655a1ef09838bd2 100644
+--- a/seat-system/subagent-page-akasha/subagent-page-akasha.module.ts
++++ b/seat-system/subagent-page-akasha/subagent-page-akasha.module.ts
+@@ -6,4 +6,10 @@ export const subagentPageAkasha = {
+   slug: "subagent-page-akasha",
+   definition: "where a subagent's akasha page stands, and what it is called",
+   code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A sweep of the pages under a seat that was refused answers why they did not go.",
++    },
++  ],
+ } as const satisfies Module
 diff --git a/seat-system/subagents/presence/subagent-presence.module.code.ts b/seat-system/subagents/presence/subagent-presence.module.code.ts
 index 15c867076404849300293f9e902779ce4b2e3282..a41cfd14e715fc95c0fa278f9a54138f88bf7fde 100644
 --- a/seat-system/subagents/presence/subagent-presence.module.code.ts
