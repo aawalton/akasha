@@ -34,12 +34,12 @@ export const composeNotices = {
     },
     {
       invariantKind: "departure",
-      statement: "The JSON is indented two spaces, which the callers diffing it read.",
+      statement: "The JSON is indented two spaces, which the callers diffing that JSON read.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Named `--out`, it writes there and says nothing rather than saying what it wrote.",
+        "Named `--out`, the command writes there and says nothing rather than saying what that command wrote.",
     },
     {
       invariantKind: "departure",
