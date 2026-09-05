@@ -18,7 +18,7 @@ export const rebuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "A file already holding what the pages say is left alone.",
+      statement: "A file already holding the lines the pages imply is left alone.",
     },
     {
       invariantKind: "departure",
