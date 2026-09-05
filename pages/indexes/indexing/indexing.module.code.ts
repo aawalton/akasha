@@ -38,12 +38,6 @@ import { indexIdentity } from "../identity/index-identity.index.ts"
 import { importIn } from "../import/index-import.index.code.ts"
 import { indexImport } from "../import/index-import.index.ts"
 import {
-  indexIn,
-  overlaidOn,
-  readingAt,
-  readingNone,
-} from "../index-surface/index-surface.module.code.ts"
-import {
   reachingBuilt,
   reachingSettled,
   rereadOver,
@@ -58,6 +52,12 @@ import { schemaIn } from "../schema/index-schema.index.code.ts"
 import { indexSchema } from "../schema/index-schema.index.ts"
 import type { Filing, Reading } from "../shape/index-shape.module.code.ts"
 import { stampBuilt, stampSettled } from "../stamp/index-stamp.module.code.ts"
+import {
+  indexIn,
+  overlaidOn,
+  readingAt,
+  readingNone,
+} from "../surface/index-surface.module.code.ts"
 import { valueIn } from "../value/index-value.index.code.ts"
 import { indexValue } from "../value/index-value.index.ts"
 

@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { readingAt } from "../index-surface/index-surface.module.code.ts"
+import { readingAt } from "../surface/index-surface.module.code.ts"
 import {
   fileKeysAt,
   fileKeysIn,

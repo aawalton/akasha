@@ -10,7 +10,7 @@ import {
   scratch,
   shaped,
 } from "../entries/index-entries.module.test-fixtures.ts"
-import { readingAt } from "../index-surface/index-surface.module.code.ts"
+import { readingAt } from "../surface/index-surface.module.code.ts"
 import { knownIn, reaches, type Shaped } from "./reaching.module.code.ts"
 
 afterAll(scratch.sweep)

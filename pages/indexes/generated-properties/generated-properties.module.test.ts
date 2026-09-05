@@ -5,7 +5,7 @@ import { scratchWorld } from "@akasha/command-system/scratching"
 import type { Change } from "@akasha/pages-system/change"
 import { shadowAt, shadowFor } from "@akasha/pages-system/shadow"
 import { put, there } from "@akasha/testing-system/putting"
-import { indexIn } from "../index-surface/index-surface.module.code.ts"
+import { indexIn } from "../surface/index-surface.module.code.ts"
 import {
   generatedProperties,
   waitingKeys,
