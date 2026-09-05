@@ -1,0 +1,14 @@
+diff --git a/editor-extension/domain-tree-reading/domain-tree-reading.module.ts b/editor-extension/domain-tree-reading/domain-tree-reading.module.ts
+index ccf3175d8820f0ad6cb9b909cb25e38db4371227..9ce1be17ac1649d4a0abdcdb82c53dac9e6991b2 100644
+--- a/editor-extension/domain-tree-reading/domain-tree-reading.module.ts
++++ b/editor-extension/domain-tree-reading/domain-tree-reading.module.ts
+@@ -22,7 +22,8 @@ export const domainTreeReading = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "An answer naming no checkout is refused, since no path could be joined to it.",
++      statement:
++        "An answer naming no checkout is refused, since no path could be joined to that checkout.",
+     },
+     {
+       invariantKind: "constraint",
