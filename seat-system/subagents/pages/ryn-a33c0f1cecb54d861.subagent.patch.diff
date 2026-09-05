@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/editor-extension/vscode-stub/vscode-stub.javascript-module.ts b/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
-index cb4ca6319537ed8c9b1022fcf60fc882432b0f2e..de4a7fdf793950d5e9fe5da68b5745eae81e08a5 100644
+index cb4ca6319537ed8c9b1022fcf60fc882432b0f2e..001ad8a70432801771d27139e7e71802633ebaf2 100644
 --- a/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
 +++ b/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
 @@ -13,7 +13,7 @@ export const vscodeStub = {
@@ -12,3 +12,12 @@ index cb4ca6319537ed8c9b1022fcf60fc882432b0f2e..de4a7fdf793950d5e9fe5da68b5745ea
      },
      {
        invariantKind: "departure",
+@@ -46,7 +46,7 @@ export const vscodeStub = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here judges what was drawn.",
++      statement: "Nothing here judges the values drawn.",
+     },
+     {
+       invariantKind: "gap",
