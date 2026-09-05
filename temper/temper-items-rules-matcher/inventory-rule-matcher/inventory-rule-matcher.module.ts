@@ -13,7 +13,7 @@ export const inventoryRuleMatcher = {
     },
     {
       invariantKind: "departure",
-      statement: "What one rule leaves over is offered to the rule below.",
+      statement: "The items one rule leaves over are offered to the rule below.",
     },
     {
       invariantKind: "departure",
