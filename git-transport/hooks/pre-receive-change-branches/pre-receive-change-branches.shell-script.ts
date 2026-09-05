@@ -42,7 +42,7 @@ export const preReceiveChangeBranches = {
     },
     {
       invariantKind: "absence",
-      statement: "No push gets past this.",
+      statement: "No push gets past this hook.",
     },
   ],
 } as const satisfies ShellScript

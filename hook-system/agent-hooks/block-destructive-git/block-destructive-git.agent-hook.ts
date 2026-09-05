@@ -29,7 +29,8 @@ export const blockDestructiveGit = {
     },
     {
       invariantKind: "departure",
-      statement: "A prefix that only runs the call behind it does not hide a git act from this.",
+      statement:
+        "A prefix that only runs the call behind it does not hide a git act from this hook.",
     },
     {
       invariantKind: "absence",

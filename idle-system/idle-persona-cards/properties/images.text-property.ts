@@ -14,7 +14,7 @@ export const images = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The picture a card is shown by is one of these.",
+      statement: "The picture a card is shown by is one of these pictures.",
     },
   ],
 } as const satisfies TextProperty

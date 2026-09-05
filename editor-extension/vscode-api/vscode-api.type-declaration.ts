@@ -21,11 +21,12 @@ export const vscodeApi = {
     },
     {
       invariantKind: "stopgap",
-      statement: "This restates the editor fork's own `src/vscode-dts/vscode.d.ts`.",
+      statement: "This declaration restates the editor fork's own `src/vscode-dts/vscode.d.ts`.",
     },
     {
       invariantKind: "constraint",
-      statement: "A promote of the fork refuses while this differs from the fork's copy.",
+      statement:
+        "A promote of the fork refuses while this declaration differs from the fork's copy.",
     },
     {
       invariantKind: "departure",

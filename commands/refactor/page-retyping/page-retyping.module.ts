@@ -91,7 +91,7 @@ export const pageRetyping = {
     },
     {
       invariantKind: "departure",
-      statement: "A path naming a file this carries is repointed.",
+      statement: "A path naming a file this retype carries is repointed.",
     },
     {
       invariantKind: "departure",

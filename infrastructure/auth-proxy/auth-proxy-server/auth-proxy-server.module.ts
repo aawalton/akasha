@@ -26,7 +26,7 @@ export const authProxyServer = {
     },
     {
       invariantKind: "departure",
-      statement: "Loading this starts the server.",
+      statement: "Loading this module starts the server.",
     },
   ],
 } as const satisfies Module

@@ -17,7 +17,7 @@ export const spaSourcePath = {
     },
     {
       invariantKind: "departure",
-      statement: "An app whose site stands beside its page states none of this.",
+      statement: "An app whose site stands beside its page states no path here.",
     },
   ],
 } as const satisfies TextProperty

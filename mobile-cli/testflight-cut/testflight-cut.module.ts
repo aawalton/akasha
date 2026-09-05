@@ -14,7 +14,7 @@ export const testflightCut = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller naming a sink carries what this says back to its own reader.",
+      statement: "A caller naming a sink carries what this run says back to its own reader.",
     },
     {
       invariantKind: "absence",
