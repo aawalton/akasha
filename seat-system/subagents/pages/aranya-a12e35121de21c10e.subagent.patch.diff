@@ -9,23 +9,6 @@ index 0000000000000000000000000000000000000000..e0dcf6a0c504e93de7f2685a67559b90
 +export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
 +  return [{ name: "subnet-router-deployment", yaml: subnetRouterDeploymentYaml() }]
 +}
-diff --git a/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff b/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
-index c3f030e7b784fc23a45a9e2e1ae6bff8b7346429..b8f902b3cdaf8b7ae28f1b4c1f25e3ea81384bd7 100644
---- a/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
-@@ -41,8 +41,12 @@ index 86464be098f6ea32b212ceef38eafb705f69010a..d706c014c86c9cc1103aeeb979702456
-    image: "tailscale/tailscale:v1.98.10",
-    replicas: 1,
- -  manifestCode:
-+<<<<<<< what this change would leave
-+-    "infrastructure/networks/talos-subnet-router/talos-subnet-router.manifest.code.ts",
-+=======
- -    "service-system/cluster-services/pages/talos-subnet-router/talos-subnet-router.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "talos-subnet-router",
- +=======
- +  manifestCode: "infrastructure/networks/talos-subnet-router/talos-subnet-router.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/talos-subnet-router/talos-subnet-router.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/talos-subnet-router/talos-subnet-router.cluster-service.code.attachment.ts
 deleted file mode 100644
 index e0dcf6a0c504e93de7f2685a67559b90852c8eca..0000000000000000000000000000000000000000
