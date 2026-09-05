@@ -13,7 +13,7 @@ export const addonDataWritesSets = {
     },
     {
       invariantKind: "departure",
-      statement: "A section states its writes rather than performing them.",
+      statement: "A section states its writes rather than performing those writes.",
     },
   ],
 } as const satisfies Module
