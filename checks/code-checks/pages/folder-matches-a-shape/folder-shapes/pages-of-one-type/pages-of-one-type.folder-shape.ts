@@ -11,7 +11,7 @@ export const pagesOfOneType = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A file standing beside a page is not a page.",
+      statement: "A file sitting beside a page is not a page.",
     },
     {
       invariantKind: "departure",

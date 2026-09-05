@@ -4,14 +4,14 @@ export const onePageWithItsProperties = {
   id: "01a04e33-f281-70c7-9469-ffdb23becd61",
   pageTypeSlug: "folder-shape",
   slug: "one-page-with-its-properties",
-  definition: "the shape of a folder holding one page and the files standing beside it",
+  definition: "the shape of a folder holding one page and the files sitting beside it",
   code: "ts",
   test: "ts",
   enabled: false,
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A file standing beside a page answers which page the file stands beside.",
+      statement: "A file sitting beside a page answers which page the file sits beside.",
     },
     {
       invariantKind: "departure",

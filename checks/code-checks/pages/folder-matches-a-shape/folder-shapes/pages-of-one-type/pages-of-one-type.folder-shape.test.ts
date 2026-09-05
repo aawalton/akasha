@@ -12,7 +12,7 @@ test("a folder holding no file at all takes the shape", () => {
   expect(pagesOfOneType(folder([]))).toEqual([])
 })
 
-test("a file that is neither a page nor stands beside one is refused", () => {
+test("a file that is neither a page nor sits beside one is refused", () => {
   const said = pagesOfOneType(folder(["one.domain.ts", "notes.txt"]))
   expect(said.some((each) => each.includes("notes.txt"))).toBe(true)
 })
@@ -27,7 +27,7 @@ test("pages of two page types are refused, and the reason names both", () => {
   expect(said[0]).toContain("2 page types: domain, module")
 })
 
-test("a file standing beside a page is refused, because this shape holds pages alone", () => {
+test("a file sitting beside a page is refused, because this shape holds pages alone", () => {
   const said = pagesOfOneType(folder(["one.module.ts", "one.module.code.ts"]))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("stand beside a page")

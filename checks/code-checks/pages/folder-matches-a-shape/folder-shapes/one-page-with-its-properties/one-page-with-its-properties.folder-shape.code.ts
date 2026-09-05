@@ -6,7 +6,7 @@ export function onePageWithItsProperties(standing: Standing): readonly string[] 
   const said: string[] = []
   if (standing.strays.length > 0) {
     said.push(
-      `${standing.strays.length} files are neither a page nor a file standing beside one: ${saidInside(standing.folder, standing.strays)}`
+      `${standing.strays.length} files are neither a page nor a file sitting beside one: ${saidInside(standing.folder, standing.strays)}`
     )
   }
   const one = standing.pages[0]
