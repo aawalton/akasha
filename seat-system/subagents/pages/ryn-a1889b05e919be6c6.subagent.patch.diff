@@ -116,3 +116,16 @@ index e8a4e76dbbdbb8dcd7891da24d6d45204072f5f6..719fd77af5a10af33e76bb5b639203df
      },
      {
        invariantKind: "departure",
+diff --git a/seat-system/supervising/supervisor-rc-degraded-decide/supervisor-rc-degraded-decide.module.ts b/seat-system/supervising/supervisor-rc-degraded-decide/supervisor-rc-degraded-decide.module.ts
+index 16c8e0473de8d62a85c39c631f9ef6c373f644b2..25ccf38aca874ec9b110f1c6ddd325cdc15d9176 100644
+--- a/seat-system/supervising/supervisor-rc-degraded-decide/supervisor-rc-degraded-decide.module.ts
++++ b/seat-system/supervising/supervisor-rc-degraded-decide/supervisor-rc-degraded-decide.module.ts
+@@ -35,7 +35,7 @@ export const supervisorRcDegradedDecide = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A latch clears only once the healthy streak reaches the recovery streak and the re-alert cooldown has passed.",
++        "A latch clears only once a healthy streak meets the recovery streak and the re-alert cooldown is up.",
+     },
+     {
+       invariantKind: "departure",
