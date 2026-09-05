@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/commands/agent-forest/agent-forest.command.ts b/command-system/commands/agent-forest/agent-forest.command.ts
+index f1cc7a387cf487c96581d0a616a1eadde6375668..f94838d85df9f5da73c4a5c52b98ba35e52c6386 100644
+--- a/command-system/commands/agent-forest/agent-forest.command.ts
++++ b/command-system/commands/agent-forest/agent-forest.command.ts
+@@ -88,7 +88,7 @@ export const agentForest = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "`state` is read from what the seat itself keeps rather than from its page.",
++      statement: "`state` is read from the turn records the seat keeps rather than from its page.",
+     },
+     {
+       invariantKind: "departure",
