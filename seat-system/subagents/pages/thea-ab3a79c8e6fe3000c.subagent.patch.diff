@@ -75,10 +75,20 @@ index b0251a07e029bc022351840990adf6cfcff05ee9..dc59bc47a0763e5c0bb5d4f68aeba9b8
    ],
  } as const satisfies Module
 diff --git a/commands/refactor/refactor.command.code.ts b/commands/refactor/refactor.command.code.ts
-index 408f27f8ab977c2f009713160ce93b9581c74742..4421f5bc48bfcd911528a5796c76d9ba0e8b219b 100644
+index 408f27f8ab977c2f009713160ce93b9581c74742..75bc78a5462b2ffdf6ecd50d671e13f39c17fa64 100644
 --- a/commands/refactor/refactor.command.code.ts
 +++ b/commands/refactor/refactor.command.code.ts
-@@ -243,43 +243,6 @@ export async function landed(
+@@ -28,8 +28,7 @@ import {
+   TO,
+   VALUED,
+ } from "./arguing/refactor-arguing.module.code.ts"
+-import type { Keying, Respelling } from "./key-respelling/key-respelling.module.code.ts"
+-import { keyingFor, respellingFor } from "./key-respelling/key-respelling.module.code.ts"
++import { keyingFor, keyLanded } from "./key-respelling/key-respelling.module.code.ts"
+ import { bodyTextOf, respelledLanded, were } from "./landing/refactor-landing.module.code.ts"
+ import { packageLanded } from "./package-renaming/package-renaming.module.code.ts"
+ import { retypeLanded } from "./page-retyping/page-retyping.module.code.ts"
+@@ -243,43 +242,6 @@ export async function landed(
    )
  }
  
