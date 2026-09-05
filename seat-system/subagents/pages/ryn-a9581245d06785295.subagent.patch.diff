@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/temper/temper-antiquities-addon/temper-antiquities-addon.eso-addon.ts b/temper/temper-antiquities-addon/temper-antiquities-addon.eso-addon.ts
+index ba1d4b443e67bf691c33ce28f765c6569efec5bf..b91a667cca39808196a2026259b4f4957df31123 100644
+--- a/temper/temper-antiquities-addon/temper-antiquities-addon.eso-addon.ts
++++ b/temper/temper-antiquities-addon/temper-antiquities-addon.eso-addon.ts
+@@ -84,7 +84,8 @@ export const temperAntiquitiesAddon = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The pledge tracker is read where it is installed and skipped where it is not.",
++      statement:
++        "The pledge tracker is read where that tracker is installed and skipped where that tracker is not.",
+     },
+   ],
+ } as const satisfies EsoAddon
