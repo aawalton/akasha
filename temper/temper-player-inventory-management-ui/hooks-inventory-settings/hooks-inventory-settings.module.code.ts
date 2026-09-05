@@ -1,8 +1,9 @@
 "use client"
 
 import { useSingleFlight } from "@akasha/design-primitives/use-single-flight"
+import { deletePages } from "@akasha/pages-access/delete"
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
-import { upsertPage } from "@akasha/pages-access/upsert"
+import { upsertPage, upsertPages } from "@akasha/pages-access/upsert"
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
@@ -20,12 +21,21 @@ import {
   type ManagedGuildBankSettings,
   readManagedGuildBanks,
 } from "@akasha/temper-items-core/inventory-guild-bank-types"
+import {
+  heldFromRows,
+  rulesFromPages,
+} from "@akasha/temper-items-rules-core/inventory-rule-from-pages"
 import type { InventoryRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import { writesFor } from "@akasha/temper-items-rules-core/inventory-rule-writes"
 import { isRecord } from "@akasha/utils-narrow/is-record"
 import type { Json } from "@akasha/utils-narrow/json-value"
 import { useCallback, useMemo } from "react"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
+
+const RULE_PAGE_TYPE_SLUG = "temper-inventory-rule"
+
+const RULES_AT_MOST = 500
 
 interface SettingsBlob {
   "craft-bag-access"?: CraftBagAccessSettings
@@ -119,14 +129,53 @@ export function useManagedGuildBanks() {
 }
 
 export function useInventorySettings() {
-  const { settings, write } = useSettingsBlob()
-  const inventorySettings = settings.inventory
+  const { settings, write, userId } = useSettingsBlob()
+  const { rows } = usePagesSupabase({
+    pageTypeSlug: RULE_PAGE_TYPE_SLUG,
+    where:
+      userId != null
+        ? [{ key: "accountPage", eq: userId }]
+        : [{ key: "accountPage", eq: NEVER_MATCH_VALUE }],
+    limit: RULES_AT_MOST,
+  })
+  const held = useMemo(
+    () => heldFromRows(rows as unknown as readonly Record<string, unknown>[]),
+    [rows]
+  )
+  const blob = settings.inventory
+
+  const inventorySettings = useMemo<InventoryRuleSettings>(
+    () => ({
+      version: 2,
+      rules: rulesFromPages(held),
+      ...(blob?.itemRules === undefined ? {} : { itemRules: blob.itemRules }),
+      ...(blob?.buyRules === undefined ? {} : { buyRules: blob.buyRules }),
+    }),
+    [held, blob?.itemRules, blob?.buyRules]
+  )
 
   const updateInventorySettings = useCallback(
     async (next: InventoryRuleSettings) => {
+      if (userId == null) return
+      const { upserts, deletes } = writesFor(next.rules, held, userId)
+      if (upserts.length > 0) {
+        await upsertPages({
+          pageTypeSlug: RULE_PAGE_TYPE_SLUG,
+          items: upserts.map((one) => ({
+            where: [{ key: "slug", eq: one.slug }],
+            set: one.values as Record<string, Json>,
+          })),
+        })
+      }
+      if (deletes.length > 0) {
+        await deletePages({
+          pageTypeSlug: RULE_PAGE_TYPE_SLUG,
+          where: [{ key: "slug", in: [...deletes] }],
+        })
+      }
       await write({ ...settings, inventory: next })
     },
-    [settings, write]
+    [held, settings, userId, write]
   )
 
   return {
