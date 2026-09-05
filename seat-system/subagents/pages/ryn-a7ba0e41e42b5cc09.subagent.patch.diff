@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/migration-system/reach/migration-reach.module.ts b/migration-system/reach/migration-reach.module.ts
+index 2830438630ed55a4935e5bf55a2633fe68bb0964..af09aefb76343990eb141dae116c1631c201e8fb 100644
+--- a/migration-system/reach/migration-reach.module.ts
++++ b/migration-system/reach/migration-reach.module.ts
+@@ -70,7 +70,7 @@ export const migrationReach = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is inside akasha is read once into a reading.",
++      statement: "The files inside akasha are read once into a reading.",
+     },
+     {
+       invariantKind: "departure",
