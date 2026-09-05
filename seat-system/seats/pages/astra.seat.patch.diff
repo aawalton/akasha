@@ -1,0 +1,1729 @@
+runsChecks: false
+runsWarrants: false
+diff --git a/temper/temper-holdings/inventory-chunks/properties/byte-count.number-property.ts b/temper/temper-holdings/inventory-chunks/properties/byte-count.number-property.ts
+index 13efeef18a9fbfa818cd6e54fc493aa48e230b91..2702344f0dbb2410ed1c4349fb1b87c875ca0e26 100644
+--- a/temper/temper-holdings/inventory-chunks/properties/byte-count.number-property.ts
++++ b/temper/temper-holdings/inventory-chunks/properties/byte-count.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type ByteCount = number
+ 
+diff --git a/temper/temper-holdings/inventory-chunks/properties/chunk-index.number-property.ts b/temper/temper-holdings/inventory-chunks/properties/chunk-index.number-property.ts
+index a2f90a361eb88343ab9199f7f6132caf4608c4f4..c6d160062b827e73af26b29815ce1856c4c1cae7 100644
+--- a/temper/temper-holdings/inventory-chunks/properties/chunk-index.number-property.ts
++++ b/temper/temper-holdings/inventory-chunks/properties/chunk-index.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type ChunkIndex = number
+ 
+diff --git a/temper/temper-holdings/inventory-chunks/properties/inventory.relation-property.ts b/temper/temper-holdings/inventory-chunks/properties/inventory.relation-property.ts
+index 459bacc276dd37c4cbb0a605da1154e7777d7f89..7674589d11e6d3dcd97af00332a8d2fa37696799 100644
+--- a/temper/temper-holdings/inventory-chunks/properties/inventory.relation-property.ts
++++ b/temper/temper-holdings/inventory-chunks/properties/inventory.relation-property.ts
+@@ -1,5 +1,5 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type Inventory = Slug
+ 
+diff --git a/temper/temper-holdings/inventory-chunks/temper-inventory-chunk.page-type.ts b/temper/temper-holdings/inventory-chunks/temper-inventory-chunk.page-type.ts
+index a4d1c46890cf8e1f7c489a4b4de35c5e60eed23c..f0e511194444b9176410cae89b75792c2900a9a0 100644
+--- a/temper/temper-holdings/inventory-chunks/temper-inventory-chunk.page-type.ts
++++ b/temper/temper-holdings/inventory-chunks/temper-inventory-chunk.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperThing } from "../../temper-things/temper-thing.page-type.ts"
+ import type { ByteCount } from "./properties/byte-count.number-property.ts"
+ import type { ChunkIndex } from "./properties/chunk-index.number-property.ts"
+diff --git a/temper/temper-holdings/inventory-currencies/temper-inventory-currency.page-type.ts b/temper/temper-holdings/inventory-currencies/temper-inventory-currency.page-type.ts
+index 33b214b67710f57571e72b959b631acf22728b95..a39338be64a55fa7fe9c6a322553f666f08aff51 100644
+--- a/temper/temper-holdings/inventory-currencies/temper-inventory-currency.page-type.ts
++++ b/temper/temper-holdings/inventory-currencies/temper-inventory-currency.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperThing } from "../../temper-things/temper-thing.page-type.ts"
+ 
+ export type TemperInventoryCurrency = TemperThing
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/amount-count.number-property.ts b/temper/temper-holdings/inventory-snapshots/properties/amount-count.number-property.ts
+index a20fe542c7b30f33a19a3d55e224243febdcdc5e..1ccb5bb87541db83e00b8ed0251a5afcd5c8fe60 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/amount-count.number-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/amount-count.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type AmountCount = number
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/bag-size.number-property.ts b/temper/temper-holdings/inventory-snapshots/properties/bag-size.number-property.ts
+index c15b293a2d20efbbf42cca3f739402971bac7ab5..e8f35d3ca47fbfccee57c927bdc82a929e8b5a17 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/bag-size.number-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/bag-size.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type BagSize = number
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/bag-sizes.page-property-entry.ts b/temper/temper-holdings/inventory-snapshots/properties/bag-sizes.page-property-entry.ts
+index e220036e99f67a661e4214952e769520ba593e27..0111f617c5812ff9e90e84bbba38b8cc540f7564 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/bag-sizes.page-property-entry.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/bag-sizes.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type BagSizes = "jsonl"
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/bag.number-property.ts b/temper/temper-holdings/inventory-snapshots/properties/bag.number-property.ts
+index e5924685ce8c13b2280b2d95de569480e94c200a..b889999d7b4c608283d80ae21b465a60fc47b169 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/bag.number-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/bag.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type Bag = number
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/bop-tradeable.boolean-property.ts b/temper/temper-holdings/inventory-snapshots/properties/bop-tradeable.boolean-property.ts
+index fa177d18dab0917ce629d11a44e938f8a0543bf9..8acc0ea4489aa495475a992a60f3b31ee9c5f09a 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/bop-tradeable.boolean-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/bop-tradeable.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type BopTradeable = boolean
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/bound.boolean-property.ts b/temper/temper-holdings/inventory-snapshots/properties/bound.boolean-property.ts
+index fe91e59b3653cc14c7238d8350c2f017a426c53c..4db310524b21a3b5c126e170f05a320353cf917e 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/bound.boolean-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/bound.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type Bound = boolean
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/chunk-count.number-property.ts b/temper/temper-holdings/inventory-snapshots/properties/chunk-count.number-property.ts
+index ed0e73a74b40896c97e34ef30d01b092e63d6112..0060abf514d1af27fc08f0848d1702f4f5846e36 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/chunk-count.number-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/chunk-count.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type ChunkCount = number
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/collectible-link.text-property.ts b/temper/temper-holdings/inventory-snapshots/properties/collectible-link.text-property.ts
+index b750d4262a054a3821a5aced21edd4a79d247de0..643639771e4e789bf49e16b279e43693c4445cf6 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/collectible-link.text-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/collectible-link.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CollectibleLink = string
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/cooldown-key.text-property.ts b/temper/temper-holdings/inventory-snapshots/properties/cooldown-key.text-property.ts
+index 6098e10a4c2bcfe2162690aee8a1ab4b9bb5b1fc..e13722c95f52101330fa2ba039348b1ad01f95a4 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/cooldown-key.text-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/cooldown-key.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CooldownKey = string
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/craft-type-id.number-property.ts b/temper/temper-holdings/inventory-snapshots/properties/craft-type-id.number-property.ts
+index 6d87e60d76ea4d5d10a9f3f221ab966f1e6c0e37..275caf7e15b954dce4cb5439233d76d7d94d6e5d 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/craft-type-id.number-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/craft-type-id.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type CraftTypeId = number
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/crafted.boolean-property.ts b/temper/temper-holdings/inventory-snapshots/properties/crafted.boolean-property.ts
+index 4f9c5ed09b0198dc5e1f256e8793b298699fee00..e104a48b43151686049b2949d97fc1ea5d005b0e 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/crafted.boolean-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/crafted.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type Crafted = boolean
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/crafting-level.number-property.ts b/temper/temper-holdings/inventory-snapshots/properties/crafting-level.number-property.ts
+index 4e5843faa61d256dfe630f863aeed6bf92eb1fd1..0837f6ec8a5254073b3d765d26e58b95c6147e22 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/crafting-level.number-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/crafting-level.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type CraftingLevel = number
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/crafting-levels.page-property-entry.ts b/temper/temper-holdings/inventory-snapshots/properties/crafting-levels.page-property-entry.ts
+index 374d0f466e7cad10e26ab51c444962fed74310ee..09a62f7c9cf49d6af80e5571071130db8c6c188b 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/crafting-levels.page-property-entry.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/crafting-levels.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type CraftingLevels = "jsonl"
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/currencies.page-property-entry.ts b/temper/temper-holdings/inventory-snapshots/properties/currencies.page-property-entry.ts
+index 80ab2502a50dc743ce0c067a9c457187a2a60514..c239e62c27e730efcf7df3bd16b5f5d38d95e8f8 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/currencies.page-property-entry.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/currencies.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type Currencies = "jsonl"
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/currency-amount.number-property.ts b/temper/temper-holdings/inventory-snapshots/properties/currency-amount.number-property.ts
+index f9d6215e5af9d6f5f8cd6e53d7b5e4426e5ff093..108828c08a7c73cf25f1ff8556425ac30d5bd5fe 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/currency-amount.number-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/currency-amount.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type CurrencyAmount = number
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/currency-key.relation-property.ts b/temper/temper-holdings/inventory-snapshots/properties/currency-key.relation-property.ts
+index 97e3c674dbcf9de09c82889d6c852fd56a711497..6b89349d8e0a11914503202e159d947664955fc3 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/currency-key.relation-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/currency-key.relation-property.ts
+@@ -1,5 +1,5 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type CurrencyKey = Slug
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/currency-scope.text-property.ts b/temper/temper-holdings/inventory-snapshots/properties/currency-scope.text-property.ts
+index f0517ac931e87675997ff3adaa7d25639c32b8fe..14dd9ec50e17c4fecabf0050c131a7d64c872eb8 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/currency-scope.text-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/currency-scope.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CurrencyScope = string
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/data.file-property.ts b/temper/temper-holdings/inventory-snapshots/properties/data.file-property.ts
+index 98ff0408057878052104fe75ba4477fc7f0ade35..dec1e2a833b4d20a4e2b73e71829297ff1dae9e3 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/data.file-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/data.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Data = "json"
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/estimated-value.number-property.ts b/temper/temper-holdings/inventory-snapshots/properties/estimated-value.number-property.ts
+index 484341335094c662a0a44e50f64c0177d61f689a..da14a569957d997322acad05e223bfe666ec28e1 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/estimated-value.number-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/estimated-value.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EstimatedValue = number
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/furnishing-key.text-property.ts b/temper/temper-holdings/inventory-snapshots/properties/furnishing-key.text-property.ts
+index fecff3af8f6555c5291d5cc2262c1367f69815e8..d873f45336b126a7a36c4313b702b9aafa38ad91 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/furnishing-key.text-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/furnishing-key.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type FurnishingKey = string
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/furniture-category-id.number-property.ts b/temper/temper-holdings/inventory-snapshots/properties/furniture-category-id.number-property.ts
+index aa7754ca7cb01202331a2333af8f3df1c4e38f88..4aab419ea6fc7dfa7e245eaa2961f071cd7ca32d 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/furniture-category-id.number-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/furniture-category-id.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type FurnitureCategoryId = number
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/furniture-category.text-property.ts b/temper/temper-holdings/inventory-snapshots/properties/furniture-category.text-property.ts
+index 137edb59985b418e5ff762b59fc1c16851da563d..d0e8ea9b22ecc4d76fcc71667f7d83dae29843ee 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/furniture-category.text-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/furniture-category.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type FurnitureCategory = string
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/furniture-subcategory-id.number-property.ts b/temper/temper-holdings/inventory-snapshots/properties/furniture-subcategory-id.number-property.ts
+index b0c0fe2301056e5600d335a9e25821eb0f042ad1..f7550aa4795dcbbafd7dd413f700eedd416d52d9 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/furniture-subcategory-id.number-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/furniture-subcategory-id.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type FurnitureSubcategoryId = number
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/is-container.boolean-property.ts b/temper/temper-holdings/inventory-snapshots/properties/is-container.boolean-property.ts
+index 5eadf51d3831c278f067ec809e49381a0a51951a..a39029f3fc193286d939628d3cffa6ba3ef3c3f9 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/is-container.boolean-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/is-container.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type IsContainer = boolean
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/item-link.text-property.ts b/temper/temper-holdings/inventory-snapshots/properties/item-link.text-property.ts
+index e4993c20c7c058f5604ee6585453d3d4c372dd10..53d63b6e0477b6cb2a224ccee31282dcbe733695 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/item-link.text-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/item-link.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ItemLink = string
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/known.boolean-property.ts b/temper/temper-holdings/inventory-snapshots/properties/known.boolean-property.ts
+index f129db10078ad4a24bf0f96f9cbc23dd96bb854c..5907230b0f35899feaaa656e44eb923570b5c8a1 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/known.boolean-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/known.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type Known = boolean
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/last-full-scan-at.instant-property.ts b/temper/temper-holdings/inventory-snapshots/properties/last-full-scan-at.instant-property.ts
+index 11f3405bc03205dde29643af888685c247734ad1..ab6440084ece040c249a02fe2889791908c53eb3 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/last-full-scan-at.instant-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/last-full-scan-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type LastFullScanAt = string
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/last-scanned-at.instant-property.ts b/temper/temper-holdings/inventory-snapshots/properties/last-scanned-at.instant-property.ts
+index 1e91eb39603334c88afc07deb0859151043849da..9f3fb4f7678c994f9d55ced68c6db6818c1edb88 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/last-scanned-at.instant-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/last-scanned-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type LastScannedAt = string
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/location-id.text-property.ts b/temper/temper-holdings/inventory-snapshots/properties/location-id.text-property.ts
+index 7fbf273547af9f34ef1a09959b93c2ead5711cd1..9463d7710b049bb048c99b42e6c2322300da5e74 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/location-id.text-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/location-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type LocationId = string
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/locked.boolean-property.ts b/temper/temper-holdings/inventory-snapshots/properties/locked.boolean-property.ts
+index 22fff34de328d010098bb27dc25ce5cb5c1bc8ab..b7d562c89ea5821853d4140e1a245d3b8f5e5cdf 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/locked.boolean-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/locked.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type Locked = boolean
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/min-price.number-property.ts b/temper/temper-holdings/inventory-snapshots/properties/min-price.number-property.ts
+index 06542dd254f4d960ae2e19a923a51a73d0cc1422..9caea535c0c1e93b96512044cdb18e2ee2f2b499 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/min-price.number-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/min-price.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type MinPrice = number
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/open-cooldowns.page-property-entry.ts b/temper/temper-holdings/inventory-snapshots/properties/open-cooldowns.page-property-entry.ts
+index 118518a9ca64bf292fe55b23fe646369a10caf65..60627f51f22ae3bce97213a52440d0c7b06bc997 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/open-cooldowns.page-property-entry.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/open-cooldowns.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type OpenCooldowns = "jsonl"
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/placed-furnishings.page-property-entry.ts b/temper/temper-holdings/inventory-snapshots/properties/placed-furnishings.page-property-entry.ts
+index f7e8af60aa1b5df5b757e6e01e0a168ec85e44f9..6684b8fa579300af51ab1421026aaa1e6e79b7e5 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/placed-furnishings.page-property-entry.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/placed-furnishings.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type PlacedFurnishings = "jsonl"
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/price-source.text-property.ts b/temper/temper-holdings/inventory-snapshots/properties/price-source.text-property.ts
+index 59f9bcb0f7df77ba749d7e8355c13aa3534a6742..29eb2b0b62f2ae055c262f2d526bdc098295918a 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/price-source.text-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/price-source.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type PriceSource = string
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/quest-relevant.boolean-property.ts b/temper/temper-holdings/inventory-snapshots/properties/quest-relevant.boolean-property.ts
+index c9eb1dc93d9761ab2752d42bdca623cc94292668..794b990b5229784e1af739d5d74691dabca66a4a 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/quest-relevant.boolean-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/quest-relevant.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type QuestRelevant = boolean
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/ready-at.instant-property.ts b/temper/temper-holdings/inventory-snapshots/properties/ready-at.instant-property.ts
+index 6096cc1cf5d3cc46b83e0a909afc21498315e8fe..a28a3f8b9d1ce1125e1b2bb5ca20e4ea374684eb 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/ready-at.instant-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/ready-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type ReadyAt = string
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/reconstructed.boolean-property.ts b/temper/temper-holdings/inventory-snapshots/properties/reconstructed.boolean-property.ts
+index 01cb3ab0768217c36a644137aa9169ed2ee84486..e1bc9d517f309819d0448a517805204afd74a9c6 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/reconstructed.boolean-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/reconstructed.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type Reconstructed = boolean
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/replacement-cost.number-property.ts b/temper/temper-holdings/inventory-snapshots/properties/replacement-cost.number-property.ts
+index 2ca783a70825a11a42ef3ca3f76854a038e7f1d7..342e57e63e0bab4b04c346890ac0963e6f87d004 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/replacement-cost.number-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/replacement-cost.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type ReplacementCost = number
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/sale-amount-count.number-property.ts b/temper/temper-holdings/inventory-snapshots/properties/sale-amount-count.number-property.ts
+index 9bd4c168b84bcc3c68e71c395355601af105afc6..d775ca0258abdea7b969549de560b2cff6cb3b09 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/sale-amount-count.number-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/sale-amount-count.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type SaleAmountCount = number
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/sale-avg.number-property.ts b/temper/temper-holdings/inventory-snapshots/properties/sale-avg.number-property.ts
+index 9f74583102d6f737d6e094e651be3a94d8a51925..d423aa370c78adab38f488377c963e917ae34978 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/sale-avg.number-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/sale-avg.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type SaleAvg = number
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/slot.number-property.ts b/temper/temper-holdings/inventory-snapshots/properties/slot.number-property.ts
+index 9cf3b080b3f76e2e2c9427368ada83ab412ab64e..08a19785cd3a8b3c5e750a5a313e5344180b1274 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/slot.number-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/slot.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type Slot = number
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/snapshot-locations.page-property-entry.ts b/temper/temper-holdings/inventory-snapshots/properties/snapshot-locations.page-property-entry.ts
+index bd4bbfcbbf4071c87feae8cbe72a0ea8683e33f5..1b9ccd148312689560732a6c2119799e9158d23f 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/snapshot-locations.page-property-entry.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/snapshot-locations.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type SnapshotLocations = "jsonl"
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/stack-count.number-property.ts b/temper/temper-holdings/inventory-snapshots/properties/stack-count.number-property.ts
+index 6ef5e81cafaea50497220fb2f8a557799fa2f9c4..1383dd10a0e85a563d003d25e582907b3c5f826b 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/stack-count.number-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/stack-count.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type StackCount = number
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/stacks.page-property-entry.ts b/temper/temper-holdings/inventory-snapshots/properties/stacks.page-property-entry.ts
+index 867df175f83e1fc9022d93ea5809ce8df0945894..dd98750c15deb2e9fdd241cdc28ecad6a9e8a23e 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/stacks.page-property-entry.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/stacks.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type Stacks = "jsonl"
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/stolen.boolean-property.ts b/temper/temper-holdings/inventory-snapshots/properties/stolen.boolean-property.ts
+index a0309f1fc28f7e1c91c0544e545b47f7ae11d208..3dbe67d5c105136e197fecdef5654296d13b98b1 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/stolen.boolean-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/stolen.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type Stolen = boolean
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/suggested-price.number-property.ts b/temper/temper-holdings/inventory-snapshots/properties/suggested-price.number-property.ts
+index 31b869d41badf571fb82230b03bdfa6236f61e89..b03a14b5f59005fb7e5ca127a23df1511fcd3bec 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/suggested-price.number-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/suggested-price.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type SuggestedPrice = number
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/transmute-crystal-amount.number-property.ts b/temper/temper-holdings/inventory-snapshots/properties/transmute-crystal-amount.number-property.ts
+index 9b3370033bdc2fbb4572908895e97a6f00cfbafd..d1e8e56e4f97a16bd6631b03fb44d78ec32f484f 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/transmute-crystal-amount.number-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/transmute-crystal-amount.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type TransmuteCrystalAmount = number
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/transmute-crystal-cap.number-property.ts b/temper/temper-holdings/inventory-snapshots/properties/transmute-crystal-cap.number-property.ts
+index 2b233bedd5444457280cf988eb8bb526c4071e28..ffbe61aa87b1662e2c1f67d3c218797e0295f2c7 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/transmute-crystal-cap.number-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/transmute-crystal-cap.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type TransmuteCrystalCap = number
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/transmuted.boolean-property.ts b/temper/temper-holdings/inventory-snapshots/properties/transmuted.boolean-property.ts
+index 4f42fa5e57e96e10652904cd5baa4ca812a8f724..07d6d26b2f0d78c867e33e02e4aa04adb82611c1 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/transmuted.boolean-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/transmuted.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type Transmuted = boolean
+ 
+diff --git a/temper/temper-holdings/inventory-snapshots/temper-inventory-snapshot.page-type.ts b/temper/temper-holdings/inventory-snapshots/temper-inventory-snapshot.page-type.ts
+index 35f9d3ceab3dc89e4790902b95ba58b7cd821ba7..fb7c3b6df935d52853708effd7464f81fd6f0e99 100644
+--- a/temper/temper-holdings/inventory-snapshots/temper-inventory-snapshot.page-type.ts
++++ b/temper/temper-holdings/inventory-snapshots/temper-inventory-snapshot.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperHoldingsThing } from "../temper-holdings-things/temper-holdings-thing.page-type.ts"
+ import type { BagSizes } from "./properties/bag-sizes.page-property-entry.ts"
+ import type { ChunkCount } from "./properties/chunk-count.number-property.ts"
+diff --git a/temper/temper-holdings/item-category-trees/properties/armor-types.number-property.ts b/temper/temper-holdings/item-category-trees/properties/armor-types.number-property.ts
+index 64496fd8e602753e8de70d5b2a6dd332366626ed..58710bebea34bada0f449a7e0abc5df819976290 100644
+--- a/temper/temper-holdings/item-category-trees/properties/armor-types.number-property.ts
++++ b/temper/temper-holdings/item-category-trees/properties/armor-types.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type ArmorTypes = number
+ 
+diff --git a/temper/temper-holdings/item-category-trees/properties/equip-types.number-property.ts b/temper/temper-holdings/item-category-trees/properties/equip-types.number-property.ts
+index dccc50a8df94b1721db6ed7e5e8b8f61f50d1478..9fec93e89fcd80e6bc467b3527cb2fc6504d4ecc 100644
+--- a/temper/temper-holdings/item-category-trees/properties/equip-types.number-property.ts
++++ b/temper/temper-holdings/item-category-trees/properties/equip-types.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type EquipTypes = number
+ 
+diff --git a/temper/temper-holdings/item-category-trees/properties/filter-types.number-property.ts b/temper/temper-holdings/item-category-trees/properties/filter-types.number-property.ts
+index f4830576fbc1a6342475fca0daf093d8c0abbf4d..d9f90cbe0c09085b0aab3c9c564380b5cf8abcf5 100644
+--- a/temper/temper-holdings/item-category-trees/properties/filter-types.number-property.ts
++++ b/temper/temper-holdings/item-category-trees/properties/filter-types.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type FilterTypes = number
+ 
+diff --git a/temper/temper-holdings/item-category-trees/properties/furniture-category-ids.number-property.ts b/temper/temper-holdings/item-category-trees/properties/furniture-category-ids.number-property.ts
+index 4bbcde3224af47f26cafcbdc7bb184528994b981..85156e9167aaf66576d9decd8ec482ed14cc7ced 100644
+--- a/temper/temper-holdings/item-category-trees/properties/furniture-category-ids.number-property.ts
++++ b/temper/temper-holdings/item-category-trees/properties/furniture-category-ids.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type FurnitureCategoryIds = number
+ 
+diff --git a/temper/temper-holdings/item-category-trees/properties/furniture-subcategory-ids.number-property.ts b/temper/temper-holdings/item-category-trees/properties/furniture-subcategory-ids.number-property.ts
+index 0d7c2b848e129f052eb6e0ea183bc187e13e609a..310333ef16902996200414bb10f345c9156eac6b 100644
+--- a/temper/temper-holdings/item-category-trees/properties/furniture-subcategory-ids.number-property.ts
++++ b/temper/temper-holdings/item-category-trees/properties/furniture-subcategory-ids.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type FurnitureSubcategoryIds = number
+ 
+diff --git a/temper/temper-holdings/item-category-trees/properties/item-name-contains.text-property.ts b/temper/temper-holdings/item-category-trees/properties/item-name-contains.text-property.ts
+index 2f9756c49bde8ba22366fe80c9301bf5441cf664..866db75f539bcfaab6eb5bb1b39ca4aa13475278 100644
+--- a/temper/temper-holdings/item-category-trees/properties/item-name-contains.text-property.ts
++++ b/temper/temper-holdings/item-category-trees/properties/item-name-contains.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ItemNameContains = string
+ 
+diff --git a/temper/temper-holdings/item-category-trees/properties/item-types.number-property.ts b/temper/temper-holdings/item-category-trees/properties/item-types.number-property.ts
+index d98050266bcbd30e87513571c6ae5c1b50c8593a..439b9da12c78c7ab2e28afa38d92ec8389716832 100644
+--- a/temper/temper-holdings/item-category-trees/properties/item-types.number-property.ts
++++ b/temper/temper-holdings/item-category-trees/properties/item-types.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type ItemTypes = number
+ 
+diff --git a/temper/temper-holdings/item-category-trees/properties/priority-order.number-property.ts b/temper/temper-holdings/item-category-trees/properties/priority-order.number-property.ts
+index f0c4dffd68a2a89efda5b009d941e209111dd9f1..cb3e2fdd74f8e57f057ac8b640cba38f3009b264 100644
+--- a/temper/temper-holdings/item-category-trees/properties/priority-order.number-property.ts
++++ b/temper/temper-holdings/item-category-trees/properties/priority-order.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type PriorityOrder = number
+ 
+diff --git a/temper/temper-holdings/item-category-trees/properties/specialized-item-types.number-property.ts b/temper/temper-holdings/item-category-trees/properties/specialized-item-types.number-property.ts
+index 6544176dd1cb0e8fb4d2a9f840f1a3ce771189d5..48891e6752c4bb904932452bea15bb211a44a14d 100644
+--- a/temper/temper-holdings/item-category-trees/properties/specialized-item-types.number-property.ts
++++ b/temper/temper-holdings/item-category-trees/properties/specialized-item-types.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type SpecializedItemTypes = number
+ 
+diff --git a/temper/temper-holdings/item-category-trees/properties/trait-type-range.number-property.ts b/temper/temper-holdings/item-category-trees/properties/trait-type-range.number-property.ts
+index a80820e7a14ef8bd7480395f84b1684ea5a9b737..d9595ace2f4b7080dbf0a8a3fbc712d7f5db1856 100644
+--- a/temper/temper-holdings/item-category-trees/properties/trait-type-range.number-property.ts
++++ b/temper/temper-holdings/item-category-trees/properties/trait-type-range.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type TraitTypeRange = number
+ 
+diff --git a/temper/temper-holdings/item-category-trees/properties/weapon-types.number-property.ts b/temper/temper-holdings/item-category-trees/properties/weapon-types.number-property.ts
+index d529a3d4fccf38ec36dae6751c072e248934a5a5..6c7b0af7c18df4ba120810710d1565e4a3724acd 100644
+--- a/temper/temper-holdings/item-category-trees/properties/weapon-types.number-property.ts
++++ b/temper/temper-holdings/item-category-trees/properties/weapon-types.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type WeaponTypes = number
+ 
+diff --git a/temper/temper-holdings/item-category-trees/temper-item-category-tree.page-type.ts b/temper/temper-holdings/item-category-trees/temper-item-category-tree.page-type.ts
+index 23f7ea1bc838db5851f03b56b165a5a2c6bdcb7b..a64196deb20647a05b44104375839e9428519373 100644
+--- a/temper/temper-holdings/item-category-trees/temper-item-category-tree.page-type.ts
++++ b/temper/temper-holdings/item-category-trees/temper-item-category-tree.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperThing } from "../../temper-things/temper-thing.page-type.ts"
+ import type { ArmorTypes } from "./properties/armor-types.number-property.ts"
+ import type { EquipTypes } from "./properties/equip-types.number-property.ts"
+diff --git a/temper/temper-holdings/net-worth-hours/properties/currency-gold-value.number-property.ts b/temper/temper-holdings/net-worth-hours/properties/currency-gold-value.number-property.ts
+index 9c33126e20c565190fd5ff6d4f03b0db103eba7d..9af0c2871868237806686f5cc9286ffb5a0f3de7 100644
+--- a/temper/temper-holdings/net-worth-hours/properties/currency-gold-value.number-property.ts
++++ b/temper/temper-holdings/net-worth-hours/properties/currency-gold-value.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type CurrencyGoldValue = number
+ 
+diff --git a/temper/temper-holdings/net-worth-hours/properties/excluded-guild-bank-value.number-property.ts b/temper/temper-holdings/net-worth-hours/properties/excluded-guild-bank-value.number-property.ts
+index 7ddff47b0d5fe38fc532335d8590fda186eec325..ad8840b1e609fd9b44b8c15ff6b7d4cad5731587 100644
+--- a/temper/temper-holdings/net-worth-hours/properties/excluded-guild-bank-value.number-property.ts
++++ b/temper/temper-holdings/net-worth-hours/properties/excluded-guild-bank-value.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type ExcludedGuildBankValue = number
+ 
+diff --git a/temper/temper-holdings/net-worth-hours/properties/gold-amount.number-property.ts b/temper/temper-holdings/net-worth-hours/properties/gold-amount.number-property.ts
+index 34ab630d3d519fb64fefe3048c434a4b9246e272..bb7521aa24bc6c5cb1f9497bbacf27bce19ebf94 100644
+--- a/temper/temper-holdings/net-worth-hours/properties/gold-amount.number-property.ts
++++ b/temper/temper-holdings/net-worth-hours/properties/gold-amount.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type GoldAmount = number
+ 
+diff --git a/temper/temper-holdings/net-worth-hours/properties/item-value.number-property.ts b/temper/temper-holdings/net-worth-hours/properties/item-value.number-property.ts
+index 72845ca2dd8e9ac369ba0a8eac053e85b72e6e7c..53f6a7a65502b732dfb369c2e153e70bfc8914ea 100644
+--- a/temper/temper-holdings/net-worth-hours/properties/item-value.number-property.ts
++++ b/temper/temper-holdings/net-worth-hours/properties/item-value.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type ItemValue = number
+ 
+diff --git a/temper/temper-holdings/net-worth-hours/properties/snapshots.page-property-entry.ts b/temper/temper-holdings/net-worth-hours/properties/snapshots.page-property-entry.ts
+index 95295e8572b29bfc866932b9e426607582f1588f..d181b13da28fa2d12f8d3bef926fe63f964ad9a5 100644
+--- a/temper/temper-holdings/net-worth-hours/properties/snapshots.page-property-entry.ts
++++ b/temper/temper-holdings/net-worth-hours/properties/snapshots.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type Snapshots = "jsonl"
+ 
+diff --git a/temper/temper-holdings/net-worth-hours/temper-net-worth-hour.page-type.ts b/temper/temper-holdings/net-worth-hours/temper-net-worth-hour.page-type.ts
+index c4ebae941a5d98e28b5a5e79072c2ee101dac832..877648433f6fcac67006527b9f775fae90f31a42 100644
+--- a/temper/temper-holdings/net-worth-hours/temper-net-worth-hour.page-type.ts
++++ b/temper/temper-holdings/net-worth-hours/temper-net-worth-hour.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperHoldingsThing } from "../temper-holdings-things/temper-holdings-thing.page-type.ts"
+ import type { Snapshots } from "./properties/snapshots.page-property-entry.ts"
+ 
+diff --git a/temper/temper-holdings/sales/properties/buyer-name.text-property.ts b/temper/temper-holdings/sales/properties/buyer-name.text-property.ts
+index 3f5680907f371c5f9b24b0ee4c0f7fb2d19b396c..ec5df62108100af212d44808e4fd83610ca8f1c1 100644
+--- a/temper/temper-holdings/sales/properties/buyer-name.text-property.ts
++++ b/temper/temper-holdings/sales/properties/buyer-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type BuyerName = string
+ 
+diff --git a/temper/temper-holdings/sales/properties/guild-name.text-property.ts b/temper/temper-holdings/sales/properties/guild-name.text-property.ts
+index ac7ae27e273139aeeddc0703bb371807eb032afa..37a0fb30b22b4c5b7bb0407fab02da7552205bc7 100644
+--- a/temper/temper-holdings/sales/properties/guild-name.text-property.ts
++++ b/temper/temper-holdings/sales/properties/guild-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type GuildName = string
+ 
+diff --git a/temper/temper-holdings/sales/properties/net-payout.number-property.ts b/temper/temper-holdings/sales/properties/net-payout.number-property.ts
+index c3afefff420054b3aeaef374c95b4ebb9c44d255..48e188bd96e502b386e42d6a0a33a62853430f76 100644
+--- a/temper/temper-holdings/sales/properties/net-payout.number-property.ts
++++ b/temper/temper-holdings/sales/properties/net-payout.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type NetPayout = number
+ 
+diff --git a/temper/temper-holdings/sales/properties/sale-id.text-property.ts b/temper/temper-holdings/sales/properties/sale-id.text-property.ts
+index 070b49566aca6af36d7327e5438ab6c51163b887..eb077d46d27c100ed187afcb17f05f2e360d90e7 100644
+--- a/temper/temper-holdings/sales/properties/sale-id.text-property.ts
++++ b/temper/temper-holdings/sales/properties/sale-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type SaleId = string
+ 
+diff --git a/temper/temper-holdings/sales/properties/sale-price.number-property.ts b/temper/temper-holdings/sales/properties/sale-price.number-property.ts
+index 3e66a442594e286a2f0e9b648fa15278b55d3b96..c35e47a4af46bfaf8d5a0779a2b023b9b6248c17 100644
+--- a/temper/temper-holdings/sales/properties/sale-price.number-property.ts
++++ b/temper/temper-holdings/sales/properties/sale-price.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type SalePrice = number
+ 
+diff --git a/temper/temper-holdings/sales/properties/sale-quantity.number-property.ts b/temper/temper-holdings/sales/properties/sale-quantity.number-property.ts
+index 2bc36389aa1041ee1c13fc62ca51638c1757ad2a..e84994f91142f78f2e3ebbdcd880ceb20dbabf86 100644
+--- a/temper/temper-holdings/sales/properties/sale-quantity.number-property.ts
++++ b/temper/temper-holdings/sales/properties/sale-quantity.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type SaleQuantity = number
+ 
+diff --git a/temper/temper-holdings/sales/properties/sold-at.instant-property.ts b/temper/temper-holdings/sales/properties/sold-at.instant-property.ts
+index 5ff665b0c2df9d0a6dd95c9d3654e39b96250fa2..7314fb6729d5cb84e964c550f8254344a434ff54 100644
+--- a/temper/temper-holdings/sales/properties/sold-at.instant-property.ts
++++ b/temper/temper-holdings/sales/properties/sold-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type SoldAt = string
+ 
+diff --git a/temper/temper-holdings/sales/properties/tax.number-property.ts b/temper/temper-holdings/sales/properties/tax.number-property.ts
+index 375f17a31224612c625efdbb248662f701b158d1..c2242eaa716cf4d824af2fe5b255578db1a370fd 100644
+--- a/temper/temper-holdings/sales/properties/tax.number-property.ts
++++ b/temper/temper-holdings/sales/properties/tax.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type Tax = number
+ 
+diff --git a/temper/temper-holdings/sales/temper-sale.page-type.ts b/temper/temper-holdings/sales/temper-sale.page-type.ts
+index 1cae8170cb18440df7f3b37b65b4b1e287aa3cd2..83747f2f92f2ec7ab78ade3d86c4b6fbb31c27a5 100644
+--- a/temper/temper-holdings/sales/temper-sale.page-type.ts
++++ b/temper/temper-holdings/sales/temper-sale.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { ItemId } from "../../temper-catalog/temper-catalog-things/properties/item-id.number-property.ts"
+ import type { ItemName } from "../../temper-character/mines/properties/item-name.text-property.ts"
+ import type { TemperThing } from "../../temper-things/temper-thing.page-type.ts"
+diff --git a/temper/temper-holdings/temper-holdings-things/properties/total-value.number-property.ts b/temper/temper-holdings/temper-holdings-things/properties/total-value.number-property.ts
+index 48dd59c4eaa949cf46205d1f846437aa779614f0..630b2c5389be4760a5a3f69d9cc304683282d5ed 100644
+--- a/temper/temper-holdings/temper-holdings-things/properties/total-value.number-property.ts
++++ b/temper/temper-holdings/temper-holdings-things/properties/total-value.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type TotalValue = number
+ 
+diff --git a/temper/temper-holdings/temper-holdings-things/temper-holdings-thing.page-type.ts b/temper/temper-holdings/temper-holdings-things/temper-holdings-thing.page-type.ts
+index bf48c975461e498e9ddd58508b8e30524b2bb756..3c75a821d2f18d8d2946a6ec2912b431a5acbdd1 100644
+--- a/temper/temper-holdings/temper-holdings-things/temper-holdings-thing.page-type.ts
++++ b/temper/temper-holdings/temper-holdings-things/temper-holdings-thing.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { CapturedAt } from "../../temper-catalog/temper-world/properties/captured-at.instant-property.ts"
+ import type { TemperThing } from "../../temper-things/temper-thing.page-type.ts"
+ import type { TotalValue } from "./properties/total-value.number-property.ts"
+@@ -23,7 +23,7 @@ export const temperHoldingsThing = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A reading states an account's total value at one moment.",
++      statement: "A reading states what an account was worth at one moment.",
+     },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-progress/activity-categories/properties/badge-variant.text-property.ts b/temper/temper-progress/activity-categories/properties/badge-variant.text-property.ts
+index ae27d471f750f28e9646393ef7f25b8bb8a9b684..d59b78ffd896ba61145e4efb796d7d97ca316e7d 100644
+--- a/temper/temper-progress/activity-categories/properties/badge-variant.text-property.ts
++++ b/temper/temper-progress/activity-categories/properties/badge-variant.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type BadgeVariant = string
+ 
+diff --git a/temper/temper-progress/activity-categories/temper-activity-category.page-type.ts b/temper/temper-progress/activity-categories/temper-activity-category.page-type.ts
+index 0618d848ef2f0460bbf751d512d2ed28b9a865fc..250835c1f1314a817995f47f71157b3d5768f423 100644
+--- a/temper/temper-progress/activity-categories/temper-activity-category.page-type.ts
++++ b/temper/temper-progress/activity-categories/temper-activity-category.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
+ import type { BadgeVariant } from "./properties/badge-variant.text-property.ts"
+ 
+diff --git a/temper/temper-progress/comparison-ops/temper-comparison-op.page-type.ts b/temper/temper-progress/comparison-ops/temper-comparison-op.page-type.ts
+index c19429666a00e3b992d207712e13728ab9301d24..7bcd63344bb8db2271fda631d889bb014aeb39d9 100644
+--- a/temper/temper-progress/comparison-ops/temper-comparison-op.page-type.ts
++++ b/temper/temper-progress/comparison-ops/temper-comparison-op.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
+ 
+ export type TemperComparisonOp = TemperProgressThing
+diff --git a/temper/temper-progress/completed-days/properties/completed-at.instant-property.ts b/temper/temper-progress/completed-days/properties/completed-at.instant-property.ts
+index 2e7c37f10bc105488f3b28f380c57947d824f444..d03f439b92f4696efed5d69d322077825566d979 100644
+--- a/temper/temper-progress/completed-days/properties/completed-at.instant-property.ts
++++ b/temper/temper-progress/completed-days/properties/completed-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type CompletedAt = string
+ 
+diff --git a/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts b/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts
+index 08216118f09a168a18c234f3bdaa4c09e027c1cb..8ee484376cf159a90f385be75a23e48f46c54f2e 100644
+--- a/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts
++++ b/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type Completions = "jsonl"
+ 
+diff --git a/temper/temper-progress/completed-days/properties/day.text-property.ts b/temper/temper-progress/completed-days/properties/day.text-property.ts
+index 63d9c1ad7d7ee63ad3fe295da74851b0c2c23641..cd5138ee38f2b9dec730f160d53b14bf8da446c0 100644
+--- a/temper/temper-progress/completed-days/properties/day.text-property.ts
++++ b/temper/temper-progress/completed-days/properties/day.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Day = string
+ 
+diff --git a/temper/temper-progress/completed-days/properties/task.text-property.ts b/temper/temper-progress/completed-days/properties/task.text-property.ts
+index d696a70ad0c2cd22bdc6be676725a9e6cd95558e..b9962d2e280bcedeaf5648166d7eb05ca3dd1c0c 100644
+--- a/temper/temper-progress/completed-days/properties/task.text-property.ts
++++ b/temper/temper-progress/completed-days/properties/task.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Task = string
+ 
+diff --git a/temper/temper-progress/completed-days/temper-completed-day.page-type.ts b/temper/temper-progress/completed-days/temper-completed-day.page-type.ts
+index 61a09e5d93651668eac6eded0b7970263a777fe7..c1c60beb83468155318faba4e5c61fa5492d7922 100644
+--- a/temper/temper-progress/completed-days/temper-completed-day.page-type.ts
++++ b/temper/temper-progress/completed-days/temper-completed-day.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
+ import type { Completions } from "./properties/completions.page-property-entry.ts"
+ import type { Day } from "./properties/day.text-property.ts"
+diff --git a/temper/temper-progress/completion-categories/properties/tab.text-property.ts b/temper/temper-progress/completion-categories/properties/tab.text-property.ts
+index a6d0d71d6530e7688410106d7ce3a5fd6bca33f9..598e321e6aa0527554f8da4debe3875d9581a05c 100644
+--- a/temper/temper-progress/completion-categories/properties/tab.text-property.ts
++++ b/temper/temper-progress/completion-categories/properties/tab.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Tab = string
+ 
+diff --git a/temper/temper-progress/completion-categories/temper-completion-category.page-type.ts b/temper/temper-progress/completion-categories/temper-completion-category.page-type.ts
+index 9fda4446418b78c44713d073452e1eed6d7134d5..ba35671792aec2097095c13a38c810819671637a 100644
+--- a/temper/temper-progress/completion-categories/temper-completion-category.page-type.ts
++++ b/temper/temper-progress/completion-categories/temper-completion-category.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
+ import type { Tab } from "./properties/tab.text-property.ts"
+ 
+diff --git a/temper/temper-progress/completion-overrides/properties/floor.number-property.ts b/temper/temper-progress/completion-overrides/properties/floor.number-property.ts
+index 367361012c062b7a4473b2de45b0b0ddccaed328..7179ec4cbe36a131cb65364ce89e41af084e97b4 100644
+--- a/temper/temper-progress/completion-overrides/properties/floor.number-property.ts
++++ b/temper/temper-progress/completion-overrides/properties/floor.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type Floor = number
+ 
+diff --git a/temper/temper-progress/completion-overrides/properties/override-reason.text-property.ts b/temper/temper-progress/completion-overrides/properties/override-reason.text-property.ts
+index 6c1a42477374ae242779918b54fcd2eb3983368e..a9c4eff4040f097bca26aff04d2a0d9ee14f8080 100644
+--- a/temper/temper-progress/completion-overrides/properties/override-reason.text-property.ts
++++ b/temper/temper-progress/completion-overrides/properties/override-reason.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type OverrideReason = string
+ 
+diff --git a/temper/temper-progress/completion-overrides/temper-completion-override.page-type.ts b/temper/temper-progress/completion-overrides/temper-completion-override.page-type.ts
+index 298920b8ba5b15a5e7feb08314bce693b8f54863..b5a1420d9e2876356cd47781c0b2296497b03911 100644
+--- a/temper/temper-progress/completion-overrides/temper-completion-override.page-type.ts
++++ b/temper/temper-progress/completion-overrides/temper-completion-override.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
+ import type { Floor } from "./properties/floor.number-property.ts"
+ import type { OverrideReason } from "./properties/override-reason.text-property.ts"
+diff --git a/temper/temper-progress/condition-fields/temper-condition-field.page-type.ts b/temper/temper-progress/condition-fields/temper-condition-field.page-type.ts
+index a94f8c20cd71d34558df352bbb5ac4fc79e86d1b..48131eeaea8cc326090b8db1691ffd67580d2d64 100644
+--- a/temper/temper-progress/condition-fields/temper-condition-field.page-type.ts
++++ b/temper/temper-progress/condition-fields/temper-condition-field.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
+ 
+ export type TemperConditionField = TemperProgressThing
+diff --git a/temper/temper-progress/inventory-rules/properties/char-eligibility.text-property.ts b/temper/temper-progress/inventory-rules/properties/char-eligibility.text-property.ts
+index d48fd869562cb9f1561722c7cb112603525314ea..7c8bfedbd2c62175c056fe9cb592ad6629284489 100644
+--- a/temper/temper-progress/inventory-rules/properties/char-eligibility.text-property.ts
++++ b/temper/temper-progress/inventory-rules/properties/char-eligibility.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CharEligibility = string
+ 
+diff --git a/temper/temper-progress/inventory-rules/properties/destination-chain.page-property-entry.ts b/temper/temper-progress/inventory-rules/properties/destination-chain.page-property-entry.ts
+index 3ddf2f230c683422c2305ab78f8d9a1b510c522a..0682715324a119cdc69cdbb35dc3f55676bf0adb 100644
+--- a/temper/temper-progress/inventory-rules/properties/destination-chain.page-property-entry.ts
++++ b/temper/temper-progress/inventory-rules/properties/destination-chain.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type DestinationChain = "jsonl"
+ 
+diff --git a/temper/temper-progress/inventory-rules/properties/from-template.relation-property.ts b/temper/temper-progress/inventory-rules/properties/from-template.relation-property.ts
+index d7f4958f3bdfa04d0ff8f4a692bbde40d4b4d190..46a81d7d8f36a3a51327bd32a74f1e383568fa83 100644
+--- a/temper/temper-progress/inventory-rules/properties/from-template.relation-property.ts
++++ b/temper/temper-progress/inventory-rules/properties/from-template.relation-property.ts
+@@ -1,4 +1,4 @@
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type FromTemplate = string
+ 
+diff --git a/temper/temper-progress/inventory-rules/properties/rule-locked.boolean-property.ts b/temper/temper-progress/inventory-rules/properties/rule-locked.boolean-property.ts
+index 03672ff362dfa6ab9b129e3f8a9ad13bfcee82dd..42b457c4cdab23cc1336b34a2444a52565e60157 100644
+--- a/temper/temper-progress/inventory-rules/properties/rule-locked.boolean-property.ts
++++ b/temper/temper-progress/inventory-rules/properties/rule-locked.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type RuleLocked = boolean
+ 
+diff --git a/temper/temper-progress/inventory-rules/properties/target-quantity.number-property.ts b/temper/temper-progress/inventory-rules/properties/target-quantity.number-property.ts
+index 1eb19b4f72bc3fd68715a08c8b9d924ebf52ea97..62f9b78ac3de9d28edeb587a665541164a32a414 100644
+--- a/temper/temper-progress/inventory-rules/properties/target-quantity.number-property.ts
++++ b/temper/temper-progress/inventory-rules/properties/target-quantity.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type TargetQuantity = number
+ 
+diff --git a/temper/temper-progress/inventory-rules/properties/updated-at.instant-property.ts b/temper/temper-progress/inventory-rules/properties/updated-at.instant-property.ts
+index eec1e1fba00c4a9ed9a53645a7899a74ed8f0faf..4cc5fce3190e2fb2a2b7a294b44f4dd5ae7b3241 100644
+--- a/temper/temper-progress/inventory-rules/properties/updated-at.instant-property.ts
++++ b/temper/temper-progress/inventory-rules/properties/updated-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type UpdatedAt = string
+ 
+diff --git a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts b/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
+index 910f682ee48b2b6498cda7941614276606e78993..9785871853f30d19cad56ec1c80f7c0bffaef8af 100644
+--- a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
++++ b/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperRule } from "../rules/temper-rule.page-type.ts"
+ import type { DestinationChain } from "./properties/destination-chain.page-property-entry.ts"
+ import type { FromTemplate } from "./properties/from-template.relation-property.ts"
+diff --git a/temper/temper-progress/item-actions/temper-item-action.page-type.ts b/temper/temper-progress/item-actions/temper-item-action.page-type.ts
+index 5247caf42e29c41759fbf0184b95d74a120f587d..c6d92ad63f34d0723883f130cb50a131b0fb79c8 100644
+--- a/temper/temper-progress/item-actions/temper-item-action.page-type.ts
++++ b/temper/temper-progress/item-actions/temper-item-action.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
+ 
+ export type TemperItemAction = TemperProgressThing
+diff --git a/temper/temper-progress/metric-trees/properties/include-in-child-aggregates.boolean-property.ts b/temper/temper-progress/metric-trees/properties/include-in-child-aggregates.boolean-property.ts
+index c75cd856ced88231f0390d3779721dadf8220661..949621a545d582df08c7055070c09e7fb32867da 100644
+--- a/temper/temper-progress/metric-trees/properties/include-in-child-aggregates.boolean-property.ts
++++ b/temper/temper-progress/metric-trees/properties/include-in-child-aggregates.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type IncludeInChildAggregates = boolean
+ 
+diff --git a/temper/temper-progress/metric-trees/properties/node-type.text-property.ts b/temper/temper-progress/metric-trees/properties/node-type.text-property.ts
+index f8691fded741b4c94797c791215f4add417ba158..e738902af91637bf2c6c490da8221b8f9d491d97 100644
+--- a/temper/temper-progress/metric-trees/properties/node-type.text-property.ts
++++ b/temper/temper-progress/metric-trees/properties/node-type.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type NodeType = string
+ 
+diff --git a/temper/temper-progress/metric-trees/properties/use-accent-color.boolean-property.ts b/temper/temper-progress/metric-trees/properties/use-accent-color.boolean-property.ts
+index 9b075456e8fa04e3229cbdf217347c76133cf9e7..c3b4cacde5f036bc00f1150078275b1856b8def0 100644
+--- a/temper/temper-progress/metric-trees/properties/use-accent-color.boolean-property.ts
++++ b/temper/temper-progress/metric-trees/properties/use-accent-color.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type UseAccentColor = boolean
+ 
+diff --git a/temper/temper-progress/metric-trees/temper-metric-tree.page-type.ts b/temper/temper-progress/metric-trees/temper-metric-tree.page-type.ts
+index 7b78d7ad1b93e35175f9d2b3ae9bbf20d674f181..062f6f1bea639bd61724b2a35d3653eb09ff3c1f 100644
+--- a/temper/temper-progress/metric-trees/temper-metric-tree.page-type.ts
++++ b/temper/temper-progress/metric-trees/temper-metric-tree.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
+ import type { IncludeInChildAggregates } from "./properties/include-in-child-aggregates.boolean-property.ts"
+ import type { NodeType } from "./properties/node-type.text-property.ts"
+diff --git a/temper/temper-progress/progress-things/properties/character.text-property.ts b/temper/temper-progress/progress-things/properties/character.text-property.ts
+index 1bf97357b917bead792d1b80fc596940a30cc6a7..8865a72b85380fc391a7190989a57bd916775698 100644
+--- a/temper/temper-progress/progress-things/properties/character.text-property.ts
++++ b/temper/temper-progress/progress-things/properties/character.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Character = string
+ 
+diff --git a/temper/temper-progress/progress-things/properties/completion-card-id.text-property.ts b/temper/temper-progress/progress-things/properties/completion-card-id.text-property.ts
+index c20edabbbe59d846993c622b353481f79ab2dee0..5729589d3e43caf1a2ce6b6b7a90f68a00ac1eec 100644
+--- a/temper/temper-progress/progress-things/properties/completion-card-id.text-property.ts
++++ b/temper/temper-progress/progress-things/properties/completion-card-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CompletionCardId = string
+ 
+diff --git a/temper/temper-progress/progress-things/properties/completion-item-path.text-property.ts b/temper/temper-progress/progress-things/properties/completion-item-path.text-property.ts
+index a241bd8d047a041ef92d121acd86db9417b991b3..f0f37be9c9cf3b6dc5b614c582c2c60fd8de6f99 100644
+--- a/temper/temper-progress/progress-things/properties/completion-item-path.text-property.ts
++++ b/temper/temper-progress/progress-things/properties/completion-item-path.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CompletionItemPath = string
+ 
+diff --git a/temper/temper-progress/progress-things/properties/due-date.text-property.ts b/temper/temper-progress/progress-things/properties/due-date.text-property.ts
+index f6e6d6ffde4392829db20d75d526badd9c0c3520..72690741d220a2687578c3d374cd0f6a3364a30c 100644
+--- a/temper/temper-progress/progress-things/properties/due-date.text-property.ts
++++ b/temper/temper-progress/progress-things/properties/due-date.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type DueDate = string
+ 
+diff --git a/temper/temper-progress/progress-things/properties/node-id.text-property.ts b/temper/temper-progress/progress-things/properties/node-id.text-property.ts
+index aff8e0ad3a03a15d777d1c18e97d8c2736364edd..563e5e10cc157279d01fc1e72f8f4ff9936406ac 100644
+--- a/temper/temper-progress/progress-things/properties/node-id.text-property.ts
++++ b/temper/temper-progress/progress-things/properties/node-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type NodeId = string
+ 
+diff --git a/temper/temper-progress/progress-things/properties/priority.text-property.ts b/temper/temper-progress/progress-things/properties/priority.text-property.ts
+index 92c393c888380103d0b56f4096f054922307128d..dc029645c97061d662335f45b7fee9dbefae1b94 100644
+--- a/temper/temper-progress/progress-things/properties/priority.text-property.ts
++++ b/temper/temper-progress/progress-things/properties/priority.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Priority = string
+ 
+diff --git a/temper/temper-progress/progress-things/properties/rrule-anchor-from-completion.boolean-property.ts b/temper/temper-progress/progress-things/properties/rrule-anchor-from-completion.boolean-property.ts
+index f363baa252944e9655c0ebe38436ebe8d61fc7b4..f63c2116472bef6acbc84a73ae14d9186dc890e6 100644
+--- a/temper/temper-progress/progress-things/properties/rrule-anchor-from-completion.boolean-property.ts
++++ b/temper/temper-progress/progress-things/properties/rrule-anchor-from-completion.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type RruleAnchorFromCompletion = boolean
+ 
+diff --git a/temper/temper-progress/progress-things/properties/rrule-rule.text-property.ts b/temper/temper-progress/progress-things/properties/rrule-rule.text-property.ts
+index a965fa326b2c9ab3185ca2623c72181285d48c49..7e783f9e491bfa8a885b6c14f0a820978ce67f4a 100644
+--- a/temper/temper-progress/progress-things/properties/rrule-rule.text-property.ts
++++ b/temper/temper-progress/progress-things/properties/rrule-rule.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type RruleRule = string
+ 
+diff --git a/temper/temper-progress/progress-things/properties/scope.text-property.ts b/temper/temper-progress/progress-things/properties/scope.text-property.ts
+index 891ec7f5f144592d16fd8ab3cde127df5aa82561..68cb4e3ec2894720247d40d9bc87e0ee56613f02 100644
+--- a/temper/temper-progress/progress-things/properties/scope.text-property.ts
++++ b/temper/temper-progress/progress-things/properties/scope.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Scope = string
+ 
+diff --git a/temper/temper-progress/progress-things/temper-progress-thing.page-type.ts b/temper/temper-progress/progress-things/temper-progress-thing.page-type.ts
+index 78fd412d096efafd28fa5e38e0bba14a92b7782a..47a4a289308e00c531ee82170aa06ab28a42dce0 100644
+--- a/temper/temper-progress/progress-things/temper-progress-thing.page-type.ts
++++ b/temper/temper-progress/progress-things/temper-progress-thing.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperThing } from "../../temper-things/temper-thing.page-type.ts"
+ import type { Character } from "./properties/character.text-property.ts"
+ import type { CompletionCardId } from "./properties/completion-card-id.text-property.ts"
+diff --git a/temper/temper-progress/rotation-breakdown-rows/properties/full-name.text-property.ts b/temper/temper-progress/rotation-breakdown-rows/properties/full-name.text-property.ts
+index 68a9424180eb428aef2fbcf5e01b6de68fbc9f30..bb2747d69cdc91eecc8dd90e7f5bb1f2fbf98e9b 100644
+--- a/temper/temper-progress/rotation-breakdown-rows/properties/full-name.text-property.ts
++++ b/temper/temper-progress/rotation-breakdown-rows/properties/full-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type FullName = string
+ 
+diff --git a/temper/temper-progress/rotation-breakdown-rows/temper-rotation-breakdown-row.page-type.ts b/temper/temper-progress/rotation-breakdown-rows/temper-rotation-breakdown-row.page-type.ts
+index 46659cd9cc876cdefccf3f0055b88bd92f911cdd..a86f51a092c93549f883ca4e7b9c6994d533a7b5 100644
+--- a/temper/temper-progress/rotation-breakdown-rows/temper-rotation-breakdown-row.page-type.ts
++++ b/temper/temper-progress/rotation-breakdown-rows/temper-rotation-breakdown-row.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
+ import type { FullName } from "./properties/full-name.text-property.ts"
+ 
+diff --git a/temper/temper-progress/rule-goals/temper-rule-goal.page-type.ts b/temper/temper-progress/rule-goals/temper-rule-goal.page-type.ts
+index d9073d8f62085a76487af4caccbb1ad13e853572..a32341b8fb8ca0e457a910e6249e08dab8736f5a 100644
+--- a/temper/temper-progress/rule-goals/temper-rule-goal.page-type.ts
++++ b/temper/temper-progress/rule-goals/temper-rule-goal.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
+ 
+ export type TemperRuleGoal = TemperProgressThing
+diff --git a/temper/temper-progress/rule-templates/temper-rule-template.page-type.ts b/temper/temper-progress/rule-templates/temper-rule-template.page-type.ts
+index 19c12c9e6acb4c0713eecf7341bcdd517e254aa9..f7375581a5ef0674497cd6b5f24ab3cf9f239744 100644
+--- a/temper/temper-progress/rule-templates/temper-rule-template.page-type.ts
++++ b/temper/temper-progress/rule-templates/temper-rule-template.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperRule } from "../rules/temper-rule.page-type.ts"
+ 
+ export type TemperRuleTemplate = TemperRule
+diff --git a/temper/temper-progress/rules/properties/action.relation-property.ts b/temper/temper-progress/rules/properties/action.relation-property.ts
+index bd6ba10ee0284becc81d0db4d5f35d26794b97ff..e0605128b22beda4719a61a498b76ecc213aebb9 100644
+--- a/temper/temper-progress/rules/properties/action.relation-property.ts
++++ b/temper/temper-progress/rules/properties/action.relation-property.ts
+@@ -1,4 +1,4 @@
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type Action = string
+ 
+diff --git a/temper/temper-progress/rules/properties/active.boolean-property.ts b/temper/temper-progress/rules/properties/active.boolean-property.ts
+index 75b8ec40964a20976cd2afa6e4b921c3c0f362e4..eb838949358ce5329e207e9d66dce6e9f5fd094a 100644
+--- a/temper/temper-progress/rules/properties/active.boolean-property.ts
++++ b/temper/temper-progress/rules/properties/active.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type Active = boolean
+ 
+diff --git a/temper/temper-progress/rules/properties/condition-field.relation-property.ts b/temper/temper-progress/rules/properties/condition-field.relation-property.ts
+index df57cdbea824cf4ce1855a9291df00ec8b219b12..9d4659a5e97c60ae1df7ce2e13e18ee3ddfecea1 100644
+--- a/temper/temper-progress/rules/properties/condition-field.relation-property.ts
++++ b/temper/temper-progress/rules/properties/condition-field.relation-property.ts
+@@ -1,4 +1,4 @@
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type ConditionField = string
+ 
+diff --git a/temper/temper-progress/rules/properties/condition-value.text-property.ts b/temper/temper-progress/rules/properties/condition-value.text-property.ts
+index 274f4c7d1a62346a25d90e8905d4c1b6e4c7f319..303fdc261eee51e1dfd2744ac128a97d2632977f 100644
+--- a/temper/temper-progress/rules/properties/condition-value.text-property.ts
++++ b/temper/temper-progress/rules/properties/condition-value.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ConditionValue = string
+ 
+diff --git a/temper/temper-progress/rules/properties/conditions.page-property-entry.ts b/temper/temper-progress/rules/properties/conditions.page-property-entry.ts
+index ebf36cbeee9d926b42a13042f078cb3e695a519b..a69c3894e1c94fe498d42056b251a9ac2e371a70 100644
+--- a/temper/temper-progress/rules/properties/conditions.page-property-entry.ts
++++ b/temper/temper-progress/rules/properties/conditions.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type Conditions = "jsonl"
+ 
+diff --git a/temper/temper-progress/rules/properties/destination.text-property.ts b/temper/temper-progress/rules/properties/destination.text-property.ts
+index 47dbf25085ad6d92e22765be377602560f0ddc7d..064aaa49d2f01229ca0d74ca787a7a1fbefe88d8 100644
+--- a/temper/temper-progress/rules/properties/destination.text-property.ts
++++ b/temper/temper-progress/rules/properties/destination.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Destination = string
+ 
+diff --git a/temper/temper-progress/rules/properties/goal.relation-property.ts b/temper/temper-progress/rules/properties/goal.relation-property.ts
+index 110de9e56dfa44f7523a225642e7137252475358..12b551a4a9a0095ad7d8aa5e33315797b1b2ebb6 100644
+--- a/temper/temper-progress/rules/properties/goal.relation-property.ts
++++ b/temper/temper-progress/rules/properties/goal.relation-property.ts
+@@ -1,4 +1,4 @@
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type Goal = string
+ 
+diff --git a/temper/temper-progress/rules/properties/stock-scope.select-property.ts b/temper/temper-progress/rules/properties/stock-scope.select-property.ts
+index ad3314378e914e0ec2c1613b2b8caeb403ce4d0b..8a472f907d6abe08ccd2938f7cc5b2d1557aabff 100644
+--- a/temper/temper-progress/rules/properties/stock-scope.select-property.ts
++++ b/temper/temper-progress/rules/properties/stock-scope.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const stockScope = {
+   id: "01a05fd0-3aa6-791c-b6da-a96ebc31c770",
+diff --git a/temper/temper-progress/rules/temper-rule.page-type.ts b/temper/temper-progress/rules/temper-rule.page-type.ts
+index 346a6f164b258311ac976d62109dc13664e12134..b0a78651ccf72ea73bc4a73dd39b310a0ed3ea2e 100644
+--- a/temper/temper-progress/rules/temper-rule.page-type.ts
++++ b/temper/temper-progress/rules/temper-rule.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
+ import type { Action } from "./properties/action.relation-property.ts"
+ import type { Active } from "./properties/active.boolean-property.ts"
+diff --git a/temper/temper-progress/tasks/properties/character-name.text-property.ts b/temper/temper-progress/tasks/properties/character-name.text-property.ts
+index 0fc15795feb281867b0a076cb710fdd5891e292d..aaadd01a290ef8f40f8a95e4d94fca289d2f5e53 100644
+--- a/temper/temper-progress/tasks/properties/character-name.text-property.ts
++++ b/temper/temper-progress/tasks/properties/character-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CharacterName = string
+ 
+diff --git a/temper/temper-progress/tasks/properties/character-sort-order.number-property.ts b/temper/temper-progress/tasks/properties/character-sort-order.number-property.ts
+index 94d3c24398458a5edf7ac72756d5a488a7275a08..beb8763e5d07d24d4beb37994ce839d02361d718 100644
+--- a/temper/temper-progress/tasks/properties/character-sort-order.number-property.ts
++++ b/temper/temper-progress/tasks/properties/character-sort-order.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type CharacterSortOrder = number
+ 
+diff --git a/temper/temper-progress/tasks/properties/due-time.calendar-time-property.ts b/temper/temper-progress/tasks/properties/due-time.calendar-time-property.ts
+index 5361bb72e75d868ae52bcac97abbf57759e359ae..d45b772c55a08b533b798a1f2aa53f015d86252d 100644
+--- a/temper/temper-progress/tasks/properties/due-time.calendar-time-property.ts
++++ b/temper/temper-progress/tasks/properties/due-time.calendar-time-property.ts
+@@ -1,4 +1,4 @@
+-import type { CalendarTimeProperty } from "@akasha/pages-system/calendar-time-property"
++import type { CalendarTimeProperty } from "@akasha/pages/calendar-time-property"
+ 
+ export type DueTime = string
+ 
+diff --git a/temper/temper-progress/tasks/properties/effective-character.text-property.ts b/temper/temper-progress/tasks/properties/effective-character.text-property.ts
+index 29fbc0b475f71ac3584218be7c12a94e96137453..11d72fdd48c78de1e2adaf1e2b7685cf0cec6f2e 100644
+--- a/temper/temper-progress/tasks/properties/effective-character.text-property.ts
++++ b/temper/temper-progress/tasks/properties/effective-character.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type EffectiveCharacter = string
+ 
+diff --git a/temper/temper-progress/tasks/properties/last-completed-at.instant-property.ts b/temper/temper-progress/tasks/properties/last-completed-at.instant-property.ts
+index 197a0261d2397f365a8c732dd8aff7094a6b6687..97271caeb8d181473caa3486394ba1f13c05fadb 100644
+--- a/temper/temper-progress/tasks/properties/last-completed-at.instant-property.ts
++++ b/temper/temper-progress/tasks/properties/last-completed-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type LastCompletedAt = string
+ 
+diff --git a/temper/temper-progress/tasks/properties/pending-sync.boolean-property.ts b/temper/temper-progress/tasks/properties/pending-sync.boolean-property.ts
+index 503b5ade9c34c66119de42ba521ace6e6b2c3a24..208862bf9a41f988d37c0d72b4ccfc3ab54f3dfa 100644
+--- a/temper/temper-progress/tasks/properties/pending-sync.boolean-property.ts
++++ b/temper/temper-progress/tasks/properties/pending-sync.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type PendingSync = boolean
+ 
+diff --git a/temper/temper-progress/tasks/properties/progress-current.number-property.ts b/temper/temper-progress/tasks/properties/progress-current.number-property.ts
+index 8c70b951b13b173c7dbb638757bfd843bf35cb6d..21713fbab73c1fac220b1037a24b84dcb91e83ce 100644
+--- a/temper/temper-progress/tasks/properties/progress-current.number-property.ts
++++ b/temper/temper-progress/tasks/properties/progress-current.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type ProgressCurrent = number
+ 
+diff --git a/temper/temper-progress/tasks/properties/progress-total.number-property.ts b/temper/temper-progress/tasks/properties/progress-total.number-property.ts
+index 5b52dbee3e2adc0f1eba77f5d479d7b0a25bac7b..9d501ec6b889002772f4dbf94962f84587ce0e90 100644
+--- a/temper/temper-progress/tasks/properties/progress-total.number-property.ts
++++ b/temper/temper-progress/tasks/properties/progress-total.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type ProgressTotal = number
+ 
+diff --git a/temper/temper-progress/tasks/properties/progress.page-property-entry.ts b/temper/temper-progress/tasks/properties/progress.page-property-entry.ts
+index b458f518dd23224dd4718fc633a6f102be7bd426..cf1c5501d85ab166f9fd82b68df567b702040a54 100644
+--- a/temper/temper-progress/tasks/properties/progress.page-property-entry.ts
++++ b/temper/temper-progress/tasks/properties/progress.page-property-entry.ts
+@@ -1,4 +1,4 @@
+-import type { PagePropertyEntry } from "@akasha/pages-system/page-property-entry"
++import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+ 
+ export type Progress = "jsonl"
+ 
+diff --git a/temper/temper-progress/tasks/temper-task.page-type.ts b/temper/temper-progress/tasks/temper-task.page-type.ts
+index 45e5dcc43306e8d236e4c58411aee544a1ea51ad..481e617b4eff1421ef530663e8fd8242dc8742f2 100644
+--- a/temper/temper-progress/tasks/temper-task.page-type.ts
++++ b/temper/temper-progress/tasks/temper-task.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
+ import type { CharacterSortOrder } from "./properties/character-sort-order.number-property.ts"
+ import type { DueTime } from "./properties/due-time.calendar-time-property.ts"
+diff --git a/temper/temper-progress/watcher-enrolments/properties/last-run-outcome.text-property.ts b/temper/temper-progress/watcher-enrolments/properties/last-run-outcome.text-property.ts
+index b59d3dd09825d056cea3169571efd7708f8dfd7c..7de3ad35e4c5ead477fe26a496bd191e72e0afd7 100644
+--- a/temper/temper-progress/watcher-enrolments/properties/last-run-outcome.text-property.ts
++++ b/temper/temper-progress/watcher-enrolments/properties/last-run-outcome.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type LastRunOutcome = string
+ 
+diff --git a/temper/temper-progress/watcher-enrolments/properties/token-created-at.instant-property.ts b/temper/temper-progress/watcher-enrolments/properties/token-created-at.instant-property.ts
+index c88a4216e388f63699656803ca0ca342953cae66..fd255a02aa96af1831f10ce1c39ac01b62f69d48 100644
+--- a/temper/temper-progress/watcher-enrolments/properties/token-created-at.instant-property.ts
++++ b/temper/temper-progress/watcher-enrolments/properties/token-created-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type TokenCreatedAt = string
+ 
+diff --git a/temper/temper-progress/watcher-enrolments/properties/token-hash.text-property.ts b/temper/temper-progress/watcher-enrolments/properties/token-hash.text-property.ts
+index b0a0c40f821c85f6aebc509035eec51eba1d73e0..9a729c24e84bf6a649df48ecded18840eb557a1f 100644
+--- a/temper/temper-progress/watcher-enrolments/properties/token-hash.text-property.ts
++++ b/temper/temper-progress/watcher-enrolments/properties/token-hash.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type TokenHash = string
+ 
+diff --git a/temper/temper-progress/watcher-enrolments/properties/token-last-used-at.instant-property.ts b/temper/temper-progress/watcher-enrolments/properties/token-last-used-at.instant-property.ts
+index aabc0088d748dbdb483a17d3bdbda6bc8a410e5a..cf2389d970a0b9612f85c26bab1a7bb723ff95b9 100644
+--- a/temper/temper-progress/watcher-enrolments/properties/token-last-used-at.instant-property.ts
++++ b/temper/temper-progress/watcher-enrolments/properties/token-last-used-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type TokenLastUsedAt = string
+ 
+diff --git a/temper/temper-progress/watcher-enrolments/properties/token-name.text-property.ts b/temper/temper-progress/watcher-enrolments/properties/token-name.text-property.ts
+index 1ea7b1c39fcf0b78c95df9f8e418d753e3020cf0..5bbb3e067d8c7f0f34a6eef30bc42295bce6f563 100644
+--- a/temper/temper-progress/watcher-enrolments/properties/token-name.text-property.ts
++++ b/temper/temper-progress/watcher-enrolments/properties/token-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type TokenName = string
+ 
+diff --git a/temper/temper-progress/watcher-enrolments/properties/token.text-property.ts b/temper/temper-progress/watcher-enrolments/properties/token.text-property.ts
+index 7e2ef1587631b5273b5b535066008a99b15252ab..56513a2bc97a6eece7ebce0890ba0b0cc92f792a 100644
+--- a/temper/temper-progress/watcher-enrolments/properties/token.text-property.ts
++++ b/temper/temper-progress/watcher-enrolments/properties/token.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Token = string
+ 
+diff --git a/temper/temper-progress/watcher-enrolments/temper-watcher-enrolment.page-type.ts b/temper/temper-progress/watcher-enrolments/temper-watcher-enrolment.page-type.ts
+index c4f32467d1133d779c563fb9232bd8ccf5024cf2..4d3be2ae91f662add8a9298fb94392b14dcd84c3 100644
+--- a/temper/temper-progress/watcher-enrolments/temper-watcher-enrolment.page-type.ts
++++ b/temper/temper-progress/watcher-enrolments/temper-watcher-enrolment.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
+ import type { LastRunOutcome } from "./properties/last-run-outcome.text-property.ts"
+ import type { Token } from "./properties/token.text-property.ts"
+diff --git a/temper/temper-things/properties/account-page.text-property.ts b/temper/temper-things/properties/account-page.text-property.ts
+index 3df6cf46710544ceb407f9a31f0c07092e4107e1..559e16cb07a5d4002d93f86579ab9f0db8109923 100644
+--- a/temper/temper-things/properties/account-page.text-property.ts
++++ b/temper/temper-things/properties/account-page.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type AccountPage = string
+ 
+diff --git a/temper/temper-things/properties/category-id.text-property.ts b/temper/temper-things/properties/category-id.text-property.ts
+index e2fae7176326f35aa2f2b6413b82315ee16894c9..9813e5137cca47463c21af65b5952044f5da585c 100644
+--- a/temper/temper-things/properties/category-id.text-property.ts
++++ b/temper/temper-things/properties/category-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CategoryId = string
+ 
+diff --git a/temper/temper-things/properties/category.text-property.ts b/temper/temper-things/properties/category.text-property.ts
+index 68c5f6c38cb2bf303a3b468ed5753e50d48bd895..da969e29be570cb967164aa2e2d1962b45c34b80 100644
+--- a/temper/temper-things/properties/category.text-property.ts
++++ b/temper/temper-things/properties/category.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Category = string
+ 
+diff --git a/temper/temper-things/properties/companion-id.text-property.ts b/temper/temper-things/properties/companion-id.text-property.ts
+index 629d8d5e2ff6705c92c0e1bd51ce66c003910cb9..ef55df5c4dda5765ce657d53eb247283ebfaea10 100644
+--- a/temper/temper-things/properties/companion-id.text-property.ts
++++ b/temper/temper-things/properties/companion-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CompanionId = string
+ 
+diff --git a/temper/temper-things/properties/display-order.number-property.ts b/temper/temper-things/properties/display-order.number-property.ts
+index 1a31d36d449c636f9deab941ddabe1942d92dbd9..9305263ff9f11a3c07a0ea7f1fe7fdb9c8be39d2 100644
+--- a/temper/temper-things/properties/display-order.number-property.ts
++++ b/temper/temper-things/properties/display-order.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type DisplayOrder = number
+ 
+diff --git a/temper/temper-things/properties/eso-character-id.text-property.ts b/temper/temper-things/properties/eso-character-id.text-property.ts
+index 5b754d63fb8e8cee94b6ba1c1b2e77df0b9128dc..a28a9f777b5f2ddc3f952a9f3470909a0cf5f958 100644
+--- a/temper/temper-things/properties/eso-character-id.text-property.ts
++++ b/temper/temper-things/properties/eso-character-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type EsoCharacterId = string
+ 
+diff --git a/temper/temper-things/properties/icon.text-property.ts b/temper/temper-things/properties/icon.text-property.ts
+index 69f232d492f115811758d0de36157b60e5b71f33..a4189f1187733abc27463218c4f10a3b5690ff41 100644
+--- a/temper/temper-things/properties/icon.text-property.ts
++++ b/temper/temper-things/properties/icon.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Icon = string
+ 
+diff --git a/temper/temper-things/properties/key.text-property.ts b/temper/temper-things/properties/key.text-property.ts
+index ab6710312907d04dd2128ce3b0ee0280ff885184..caaada54ad7d7f7491591725dd7d2dd91e725156 100644
+--- a/temper/temper-things/properties/key.text-property.ts
++++ b/temper/temper-things/properties/key.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Key = string
+ 
+diff --git a/temper/temper-things/properties/parent.text-property.ts b/temper/temper-things/properties/parent.text-property.ts
+index 0f5c5d76710ea0bd94876ccd40764c80bc635e68..3f167c33b115343dd738efc00146beba048d2bfc 100644
+--- a/temper/temper-things/properties/parent.text-property.ts
++++ b/temper/temper-things/properties/parent.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Parent = string
+ 
+diff --git a/temper/temper-things/properties/zone-name.text-property.ts b/temper/temper-things/properties/zone-name.text-property.ts
+index 656ece5ae61fab004850bb45ff5f9b9fe8babee6..4813d286cc6001e0cc003a8a22ce7fb8fab8b242 100644
+--- a/temper/temper-things/properties/zone-name.text-property.ts
++++ b/temper/temper-things/properties/zone-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ZoneName = string
+ 
+diff --git a/temper/temper-things/temper-thing.page-type.ts b/temper/temper-things/temper-thing.page-type.ts
+index 8c689179e7bb2ccf77aa5c265d3535deaf101be8..253ebf05cebb72ed624fc3382f9692163c6a9474 100644
+--- a/temper/temper-things/temper-thing.page-type.ts
++++ b/temper/temper-things/temper-thing.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { AccountPage } from "./properties/account-page.text-property.ts"
+ import type { Category } from "./properties/category.text-property.ts"
+ import type { CategoryId } from "./properties/category-id.text-property.ts"
+diff --git a/temper/temper-watcher/watcher-daemon/watcher-daemon.module.code.ts b/temper/temper-watcher/watcher-daemon/watcher-daemon.module.code.ts
+index 562d0b0581b4b722776b34719fa4ad5174f5682c..c7e5b2560be44e0b0227ee8e842184c2f4ad4f41 100644
+--- a/temper/temper-watcher/watcher-daemon/watcher-daemon.module.code.ts
++++ b/temper/temper-watcher/watcher-daemon/watcher-daemon.module.code.ts
+@@ -1,7 +1,7 @@
+ import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+ import { dirname, join } from "node:path"
+ import { OperationalError } from "@akasha/errors-core/exit-code"
+-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
++import { akashaRoot } from "@akasha/pages/checkout-roots"
+ import { pidAliveOrAssumeDead } from "@akasha/utils-process/pid-signal"
+ import { z } from "zod"
+ import { watcherConfigDir, watcherLogDir } from "../watcher-paths/watcher-paths.module.code.ts"
+@@ -26,8 +26,7 @@ export const WORKER_LOG = "watcher.log"
+ 
+ export const ROLLED_LOG = "watcher.1.log"
+ 
+-export const WORKER_ENTRY =
+-  "temper/temper-watcher/watcher-worker/watcher-worker.module.code.ts"
++export const WORKER_ENTRY = "temper/temper-watcher/watcher-worker/watcher-worker.module.code.ts"
+ 
+ export function stateFilePath(): string {
+   return join(watcherConfigDir(), STATE_FILE)
+diff --git a/temper/temper-watcher/watcher-token-check/watcher-token-check.module.test.ts b/temper/temper-watcher/watcher-token-check/watcher-token-check.module.test.ts
+index deeb497aa62b582457e96d94a3455adec60d06aa..803760a2989bd87cc529a8b1c00f0443dbd7fba5 100644
+--- a/temper/temper-watcher/watcher-token-check/watcher-token-check.module.test.ts
++++ b/temper/temper-watcher/watcher-token-check/watcher-token-check.module.test.ts
+@@ -1,7 +1,7 @@
+ import { beforeEach, describe, expect, mock, test } from "bun:test"
+ import { join } from "node:path"
++import { shadowAt } from "@akasha/pages/shadow"
+ import { asPage, type Page } from "@akasha/pages-core/page-types"
+-import { shadowAt } from "@akasha/pages-system/shadow"
+ 
+ const TOKEN = "wt_0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef"
+ const TOKEN_SHA256 = "075ca82e4a533c9dc2cd45cbff379464a0163550bceedae2fd2e9fe27965c773"
+diff --git a/temper/temper-watcher/watcher-worker/watcher-worker.module.code.ts b/temper/temper-watcher/watcher-worker/watcher-worker.module.code.ts
+index 2811f6378f786ef75ae9ff0a913059ff7a732518..4c8b98fb05370cf8d20ce6a1bfdc3df7a5ef4607 100644
+--- a/temper/temper-watcher/watcher-worker/watcher-worker.module.code.ts
++++ b/temper/temper-watcher/watcher-worker/watcher-worker.module.code.ts
+@@ -1,4 +1,4 @@
+-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
++import { akashaRoot } from "@akasha/pages/checkout-roots"
+ import { dispatch } from "../watcher-dispatch/watcher-dispatch.module.code.ts"
+ import {
+   type DispatchAnswer,
+diff --git a/testing-system/declaring/declaring.module.code.ts b/testing-system/declaring/declaring.module.code.ts
+index ca7804f4358fdbd1ba9cce3827a7b3bf1b76cb24..d060cfc59782438a843f0db61c8e968d89cee250 100644
+--- a/testing-system/declaring/declaring.module.code.ts
++++ b/testing-system/declaring/declaring.module.code.ts
+@@ -1,8 +1,8 @@
+-import { generatorKind } from "@akasha/pages-system/generator-kind"
+-import { uuidV7 } from "@akasha/pages-system/generator-kind/uuid-v7"
+-import { id as idPage } from "@akasha/pages-system/page/id"
+-import { slug as slugPage } from "@akasha/pages-system/page/slug"
+-import { textProperty } from "@akasha/pages-system/text-property"
++import { generatorKind } from "@akasha/pages/generator-kind"
++import { uuidV7 } from "@akasha/pages/generator-kind/uuid-v7"
++import { id as idPage } from "@akasha/pages/page/id"
++import { slug as slugPage } from "@akasha/pages/page/slug"
++import { textProperty } from "@akasha/pages/text-property"
+ 
+ export function declaringUnder(folder: string): Readonly<Record<string, string>> {
+   const found: Record<string, string> = {}
+diff --git a/testing-system/minting/minting.module.code.ts b/testing-system/minting/minting.module.code.ts
+index 39cd5fe77da3a6d3f807df7028586943b425a820..698d4316f3c5a80f7b751f7fb9d801d4d8ef063f 100644
+--- a/testing-system/minting/minting.module.code.ts
++++ b/testing-system/minting/minting.module.code.ts
+@@ -3,7 +3,7 @@ import { mkdirSync, writeFileSync } from "node:fs"
+ import { join } from "node:path"
+ import type { Phase } from "@akasha/checks/checking"
+ import { idFiled, listedFiled } from "@akasha/indexes/testing"
+-import { exportedAs } from "@akasha/pages-system/page-export-name"
++import { exportedAs } from "@akasha/pages/page-export-name"
+ 
+ export const REFUSES_CODE = `export function refuses(change) {
+   return change.changed.map((path) => ({ path, reason: "refused for the test" }))
+diff --git a/workspace-paths/stale-folders/stale-folders.module.code.ts b/workspace-paths/stale-folders/stale-folders.module.code.ts
+index 0a46df4acf39e2386dfda11489a687eed9ca9cff..46af97821bf271663c5e70f6255594898608b564 100644
+--- a/workspace-paths/stale-folders/stale-folders.module.code.ts
++++ b/workspace-paths/stale-folders/stale-folders.module.code.ts
+@@ -1,7 +1,7 @@
+ import { execFileSync } from "node:child_process"
+ import { existsSync, readdirSync, readFileSync, rmSync, statSync } from "node:fs"
+ import { join, relative, resolve } from "node:path"
+-import { codeRoot } from "@akasha/pages-system/code-root"
++import { codeRoot } from "@akasha/pages/code-root"
+ import { z } from "zod"
+ 
+ const PKG_JSON_PARTIAL_SCHEMA = z.object({ workspaces: z.unknown().optional() }).passthrough()
+diff --git a/workspace-paths/workspace-bins-verifying/workspace-bins-verifying.module.code.ts b/workspace-paths/workspace-bins-verifying/workspace-bins-verifying.module.code.ts
+index 5f78049e4ece6f14ec18f8650b89b2936efa2bfd..1b39479bbe1af1107fa440233b315e1dd14f58cc 100644
+--- a/workspace-paths/workspace-bins-verifying/workspace-bins-verifying.module.code.ts
++++ b/workspace-paths/workspace-bins-verifying/workspace-bins-verifying.module.code.ts
+@@ -1,6 +1,6 @@
+ import { existsSync, readdirSync } from "node:fs"
+ import { join } from "node:path"
+-import { codeRoot } from "@akasha/pages-system/code-root"
++import { codeRoot } from "@akasha/pages/code-root"
+ import {
+   expectedWorkspaceBinNames,
+   findMissingBins,
