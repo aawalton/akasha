@@ -56,7 +56,7 @@ export const inferencePool = {
     },
     {
       invariantKind: "departure",
-      statement: "The host is reached over ssh rather than by an agent running on it.",
+      statement: "The host is reached over ssh rather than by an agent running on that host.",
     },
   ],
 } as const satisfies WorkspacePackage
