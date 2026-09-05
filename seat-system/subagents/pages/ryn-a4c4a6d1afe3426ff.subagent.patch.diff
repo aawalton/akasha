@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/checks/modules/check-scratch/check-scratch.module.ts b/checks/modules/check-scratch/check-scratch.module.ts
-index dd4c5b65c8bdd70682704b3b8ac51e953a666eb4..6cf051cdf254fe7fbad2ecdb0f33b4cebc6fa674 100644
+index dd4c5b65c8bdd70682704b3b8ac51e953a666eb4..fda99d34b89fd122c608d8557d806a1b9444e0c9 100644
 --- a/checks/modules/check-scratch/check-scratch.module.ts
 +++ b/checks/modules/check-scratch/check-scratch.module.ts
 @@ -15,11 +15,11 @@ export const checkScratch = {
@@ -26,3 +26,12 @@ index dd4c5b65c8bdd70682704b3b8ac51e953a666eb4..6cf051cdf254fe7fbad2ecdb0f33b4ce
      },
      {
        invariantKind: "absence",
+@@ -60,7 +60,7 @@ export const checkScratch = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What a page type declares is read from its value, so typing one files that value.",
++        "The properties a page type declares are read from its value, so typing one files that value.",
+     },
+     {
+       invariantKind: "departure",
