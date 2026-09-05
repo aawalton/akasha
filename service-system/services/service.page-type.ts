@@ -17,7 +17,7 @@ export const service = {
     },
     {
       invariantKind: "departure",
-      statement: "What runs a service settles which kind of service it is.",
+      statement: "What runs a service settles which kind of service that service is.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const service = {
     },
     {
       invariantKind: "departure",
-      statement: "A service states whether it is to be running.",
+      statement: "A service states whether that service is to be running.",
     },
     {
       invariantKind: "absence",
