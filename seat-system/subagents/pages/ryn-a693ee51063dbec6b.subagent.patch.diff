@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/measure/repo-measuring/repo-measuring.module.ts b/commands/measure/repo-measuring/repo-measuring.module.ts
+index de3dabb87cea639955c202d7dee33e0bce013ea7..b9583c6e33147f4ffc39f9e51937bf840847e3f5 100644
+--- a/commands/measure/repo-measuring/repo-measuring.module.ts
++++ b/commands/measure/repo-measuring/repo-measuring.module.ts
+@@ -19,7 +19,7 @@ export const repoMeasuring = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file type is what follows the last dot in a name.",
++      statement: "A file type is the text following the last dot in a name.",
+     },
+     {
+       invariantKind: "departure",
