@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import { addressIn, type PageAddress } from "@akasha/pages/page-address"
+import { addressedIn, type PageAddress } from "@akasha/pages/page-address"
 import { partedIn } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
 import { indexIdentity } from "../identity/index-identity.index.ts"
@@ -205,32 +205,14 @@ function carriesNo(slug: string): string {
   return `no page property carries the slug \`${slug}\``
 }
 
-function among(slug: string, named: readonly string[]): string {
-  return (
-    `\`${slug}\` narrows to ${named.length} page properties and must name its page type — ` +
-    [...named].sort().join(", ")
-  )
-}
-
 function shapedIn(reading: Reading, named: string): Schemad {
-  const address = addressIn(named)
-  if (address.kind === "qualified") {
-    const one = filedAt(reading, address.pageTypeSlug, address.slug)
-    return one === null ? { refused: carriesNo(address.slug) } : { schema: one }
+  const address = addressedIn(named)
+  if ("refused" in address) return { refused: address.refused }
+  if ("id" in address) {
+    return { refused: `\`${named}\` names a page by id, and a page property is named by its slug` }
   }
-  const slug = address.kind === "id" ? address.id : address.slug
-  const found: Schema[] = []
-  const qualified: string[] = []
-  for (const shape of reading.listing(SCHEMA_UNDER)) {
-    if (!shape.directory) continue
-    const held = filedAt(reading, shape.name, slug)
-    if (held === null) continue
-    found.push(held)
-    qualified.push(`${shape.name}/${slug}`)
-  }
-  const one = found[0]
-  if (found.length === 1 && one !== undefined) return { schema: one }
-  return { refused: found.length === 0 ? carriesNo(slug) : among(slug, qualified) }
+  const one = filedAt(reading, address.pageTypeSlug, address.value)
+  return one === null ? { refused: carriesNo(address.value) } : { schema: one }
 }
 
 export function schemaOf(given: string | Reading, named: string): Schemad {

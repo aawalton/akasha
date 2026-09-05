@@ -23,7 +23,6 @@ import {
   listedNamed,
   namersOf,
   readingIn,
-  schemaOf,
   typeSlugById,
   typeSlugOf,
 } from "../reading/index-reading.module.code.ts"
@@ -139,7 +138,6 @@ test("every question answers what the reader beneath it answers with the reading
   expect(index.pageTypesIn()).toEqual(pageTypesIn(reading))
   expect(index.propertiesOf(MODULE)).toEqual(propertiesOf(MODULE, reading, pageOf))
   expect(index.schemaAt()).toEqual(schemaAt(reading))
-  expect(index.schemaOf(SLUG)).toEqual(schemaOf(reading, SLUG))
   expect(index.typeSlugById(HELD_ID)).toEqual(typeSlugById(reading, HELD_ID))
   expect(index.typeSlugOf(HELD_ID)).toEqual(typeSlugOf(reading, HELD_ID))
 })
