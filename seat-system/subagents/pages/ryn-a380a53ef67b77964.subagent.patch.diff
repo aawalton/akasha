@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/file-system/data-place/data-place.module.ts b/file-system/data-place/data-place.module.ts
-index fd56896217f457e09411ed16f35dcc09be975a13..bd5463e4a689c117880748a05fed3075a8161942 100644
+index fd56896217f457e09411ed16f35dcc09be975a13..d63863b1efbbf7caa211568640df76b4979760e1 100644
 --- a/file-system/data-place/data-place.module.ts
 +++ b/file-system/data-place/data-place.module.ts
 @@ -14,7 +14,7 @@ export const dataPlace = {
@@ -12,3 +12,12 @@ index fd56896217f457e09411ed16f35dcc09be975a13..bd5463e4a689c117880748a05fed3075
      },
      {
        invariantKind: "departure",
+@@ -38,7 +38,7 @@ export const dataPlace = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Whether anything is there is asked of the disk by whoever asks.",
++      statement: "Whether anything is there is asked of the disk by the caller.",
+     },
+     {
+       invariantKind: "absence",
