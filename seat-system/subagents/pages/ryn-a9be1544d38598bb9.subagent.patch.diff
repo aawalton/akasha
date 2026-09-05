@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/commit-reading/commit-reading.module.ts b/command-system/commit-reading/commit-reading.module.ts
+index 82e6e3e9ca3ba294d60c4142b33b03a8c7702183..e439581dd47cea6f901e153d7bae4f80e2807dd0 100644
+--- a/command-system/commit-reading/commit-reading.module.ts
++++ b/command-system/commit-reading/commit-reading.module.ts
+@@ -42,7 +42,7 @@ export const commitReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What git says on the error stream is carried into what is thrown.",
++      statement: "The text git says on the error stream is carried into the error thrown.",
+     },
+     {
+       invariantKind: "absence",
