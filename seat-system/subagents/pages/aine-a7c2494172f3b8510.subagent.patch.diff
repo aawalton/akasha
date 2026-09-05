@@ -1,0 +1,113 @@
+diff --git a/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts b/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts
+index 27098e34c65334da5ea1ecfd36cc754e28bf8203..ce23456003e2377cc046d2084066eb21e1edcdd0 100644
+--- a/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts
++++ b/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts
+@@ -9,8 +9,8 @@ const VERSION = 3
+ 
+ const SUFFIX = ".json"
+ 
+-// What the kept answers are allowed to stand in on disk. Answers worked out from different states
+-// stand beside one another rather than replacing each other, so nothing in the writing path takes
++// What the kept answers are allowed to fill on disk. Answers worked out from different states
++// sit beside one another rather than replacing each other, so nothing in the writing path takes
+ // an old state away and the set is bounded from outside it. pages/answer-sweeping bounds
+ // it in time, hourly, by taking away what has gone unused for a day. This bounds it in bytes,
+ // because time alone is no bound when the churn is unbounded: a whole state's answers measured
+diff --git a/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts b/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts
+index 2b5d07636ad8c570b1a3472b9f4bad270bc6f80e..8d08d0c4218e8c91d198f89960c0f2d6e12fa438 100644
+--- a/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts
++++ b/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts
+@@ -67,7 +67,7 @@ const fromDeclarationsData = (one: DeclarationsData): Declarations => ({
+ const anyDeclared = (one: Declarations): boolean => one.bySlug.size > 0
+ 
+ // Reading the files is what `declarationsFromFiles` holds, so it is asked for the reading rather
+-// than the files being read again beside it. Where the mark stands and the kept answer is good this
++// than the files being read again beside it. Where the mark exists and the kept answer is good this
+ // never runs, and the two go on answering from their own stores; where it does run, one reading
+ // answers both. A checkout with anything uncommitted in it has no mark at all, which is the state
+ // this is read in, and there the two readings were the same 2,117 files twice over — 39ms of a
+diff --git a/markdown-pages/markdown-property-frontmatter/markdown-property-frontmatter.module.code.ts b/markdown-pages/markdown-property-frontmatter/markdown-property-frontmatter.module.code.ts
+index d3015c2fa566372a11b885c6cec5ecf5a224eaf2..c629ee9aa27ba6ab8c8bdc51abffcd5a22c93f85 100644
+--- a/markdown-pages/markdown-property-frontmatter/markdown-property-frontmatter.module.code.ts
++++ b/markdown-pages/markdown-property-frontmatter/markdown-property-frontmatter.module.code.ts
+@@ -85,8 +85,8 @@ const fromData = (one: VocabularyData): Vocabulary => ({
+ const vocabularies = new WeakMap<FileTree, Vocabulary>()
+ 
+ export function vocabularyFor(tree: FileTree): Vocabulary {
+-  const standing = vocabularies.get(tree)
+-  if (standing !== undefined) return standing
++  const held = vocabularies.get(tree)
++  if (held !== undefined) return held
+   const made = heldVocabulary(tree)
+   vocabularies.set(tree, made)
+   return made
+diff --git a/markdown-pages/markdown-property-judge/markdown-property-judge.module.code.ts b/markdown-pages/markdown-property-judge/markdown-property-judge.module.code.ts
+index e3bd64d3175b722b9e7dec401322c27c5220e59f..5847cc8f7c969d5bd39255470f9573b50ca0129f 100644
+--- a/markdown-pages/markdown-property-judge/markdown-property-judge.module.code.ts
++++ b/markdown-pages/markdown-property-judge/markdown-property-judge.module.code.ts
+@@ -45,7 +45,7 @@ export function judgeRow(
+   values: Readonly<Record<string, unknown>>,
+   slug: string,
+   properties: readonly Property[],
+-  standing?: Readonly<Record<string, unknown>> | null
++  before?: Readonly<Record<string, unknown>> | null
+ ): RowJudgment {
+   const declared = new Set(properties.map((one) => one.name))
+   const keys = Object.keys(values)
+diff --git a/markdown-pages/markdown-property-record/markdown-property-record.module.code.ts b/markdown-pages/markdown-property-record/markdown-property-record.module.code.ts
+index 078cfe1d3b204abd720ed9f64f09da241facd887..6fcc1bb876035b9db75d7365e7253098ccaaf43c 100644
+--- a/markdown-pages/markdown-property-record/markdown-property-record.module.code.ts
++++ b/markdown-pages/markdown-property-record/markdown-property-record.module.code.ts
+@@ -33,11 +33,11 @@ export function recordsFor(
+   const records = new Map<string, readonly RecordField[]>()
+   for (const [slug, kind] of kinds) {
+     if (kind !== RECORD) continue
+-    const standing = [...(declared.get(slug) ?? [])].sort((a, b) =>
++    const sorted = [...(declared.get(slug) ?? [])].sort((a, b) =>
+       a.at < b.at ? -1 : a.at > b.at ? 1 : 0
+     )
+     const fields: RecordField[] = []
+-    for (const one of standing) {
++    for (const one of sorted) {
+       if (one.type === "") continue
+       fields.push({
+         name: one.name,
+diff --git a/markdown-pages/markdown-property-registry/markdown-property-registry.module.code.ts b/markdown-pages/markdown-property-registry/markdown-property-registry.module.code.ts
+index 4bb01e197ee3bcca55de6f10600af1e12d00c713..e13715ddbf562d6da5b66a5d1660c3bd46007412 100644
+--- a/markdown-pages/markdown-property-registry/markdown-property-registry.module.code.ts
++++ b/markdown-pages/markdown-property-registry/markdown-property-registry.module.code.ts
+@@ -26,7 +26,7 @@ const anyStated = (one: readonly StatedPageType[]): boolean => one.length > 0
+ 
+ function heldRegistry(tree: FileTree): readonly PageType[] {
+   // The mark once carried the mtime and size of the index row file alongside the tree shape. There
+-  // is no row file, so the shape of the tree is the whole of what this answer stands on.
++  // is no row file, so the shape of the tree is the whole of what this answer rests on.
+   const mark = shapeMarkOf(tree)
+   const root = tree.root
+   const same = (one: readonly StatedPageType[]): readonly StatedPageType[] => one
+diff --git a/markdown-pages/markdown-property-value/markdown-property-value.module.code.ts b/markdown-pages/markdown-property-value/markdown-property-value.module.code.ts
+index 36b462e48a86bc40d0daed2fcd2526ea4a128cc5..f639295136a68dc06ced5bfdc22d866d8c985327 100644
+--- a/markdown-pages/markdown-property-value/markdown-property-value.module.code.ts
++++ b/markdown-pages/markdown-property-value/markdown-property-value.module.code.ts
+@@ -44,7 +44,7 @@ export const SELECT = "select"
+ export function refusalOf(key: string, fault: Fault, states: string, says: string): string {
+   if (fault.fault === "text")
+     return fault.at.trim() === ""
+-      ? `\`${key}:\` stands with nothing after it, where ${states} states ${says}`
++      ? `\`${key}:\` is written with nothing after it, where ${states} states ${says}`
+       : `\`${key}: ${fault.at}\` is not ${says}, which is what ${states} states`
+   return fault.wanted === undefined
+     ? `\`${key}\` holds ${fault.measured} where ${states} states ${says}`
+diff --git a/markdown-pages/markdown-property-vocabulary/markdown-property-vocabulary.module.code.ts b/markdown-pages/markdown-property-vocabulary/markdown-property-vocabulary.module.code.ts
+index 7f3a6d239e16dbd4cdf62b4ed5ef2b52635585f4..d83bb4a7415ca41091a7635e36848dcefaa2e688 100644
+--- a/markdown-pages/markdown-property-vocabulary/markdown-property-vocabulary.module.code.ts
++++ b/markdown-pages/markdown-property-vocabulary/markdown-property-vocabulary.module.code.ts
+@@ -9,7 +9,7 @@ import type { NamedSet } from "../markdown-property-stating/markdown-property-st
+  * what the markdown pages system is being replaced by, so pinning it here is the migration rather
+  * than a workaround for it.
+  *
+- * Every name `RULES` in `value.ts` states a rule for stands here, so the refusal lists what the
++ * Every name `RULES` in `value.ts` states a rule for is here, so the refusal lists what the
+  * checker can build. `file`, `none`, `region` and `size` are resolved in code and never had a page
+  * in that folder, so a set copied from the folder alone drops them: `none` is named by ten
+  * definitions, `file` by two and `size` by one.
