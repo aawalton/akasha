@@ -15,7 +15,7 @@ export const monarchEvidence = {
     {
       invariantKind: "departure",
       statement:
-        "A transaction is looked up on its own, by its merchant, by its account over a span, or by the rows around it.",
+        "A transaction is looked up alone, by merchant, by account over a span, or by the rows around.",
     },
     {
       invariantKind: "departure",
