@@ -1,0 +1,176 @@
+diff --git a/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.ts b/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.ts
+index e9efc5056a61552a9745e89547063b56f2fe3e8b..785717146aba71bb341bd04e1e1477c48fc46b29 100644
+--- a/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.ts
++++ b/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.ts
+@@ -4,12 +4,13 @@ export const supervisorChildSpawn = {
+   id: "01a0683e-3dbe-7010-8b9f-e1ca56441ef8",
+   pageTypeSlug: "module",
+   slug: "supervisor-child-spawn",
+-  definition: "a live Claude child adopted where one stands and spawned where none does",
++  definition: "a live Claude child adopted where one is there and spawned where none is",
+   code: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A standing child of this supervisor is adopted rather than joined by a second.",
++      statement:
++        "A child of this supervisor already there is adopted rather than joined by a second.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/supervising/supervisor-claude-config/supervisor-claude-config.module.test.ts b/seat-system/supervising/supervisor-claude-config/supervisor-claude-config.module.test.ts
+index 6b280053c06bf7c8d91d32c24d0db1b594a900ef..9413787c716d02c6afc7091901157a0a5e74e2c3 100644
+--- a/seat-system/supervising/supervisor-claude-config/supervisor-claude-config.module.test.ts
++++ b/seat-system/supervising/supervisor-claude-config/supervisor-claude-config.module.test.ts
+@@ -32,7 +32,7 @@ test("a declared project entry is merged into the existing one", () => {
+   expect(held.projects).toEqual({ "/home/walton/repo": { kept: true, shared: "new" } })
+ })
+ 
+-test("a project the declaration does not name is left standing", () => {
++test("a project the declaration does not name is left as it is", () => {
+   const held = reconcileClaudeConfig(
+     { projects: { "/other": { kept: true } } },
+     { projects: { "$HOME/repo": { fresh: true } } },
+diff --git a/seat-system/supervising/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.ts b/seat-system/supervising/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.ts
+index 003d610b11660a89f0aa972e3056294d4671b860..623c1fcc28971e84e9ffc887e163b988e15dd6c4 100644
+--- a/seat-system/supervising/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.ts
++++ b/seat-system/supervising/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.ts
+@@ -14,7 +14,7 @@ export const supervisorClearRebindWire = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A deferred restart standing when a rotation lands is cancelled before the rebind.",
++        "A deferred restart still there when a rotation lands is cancelled before the rebind.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/seat-system/supervising/supervisor-interactive-wire/supervisor-interactive-wire.module.ts b/seat-system/supervising/supervisor-interactive-wire/supervisor-interactive-wire.module.ts
+index 45a77d251e28afc470f5605424db178da19dcddb..489cea1ce6dbe446d4badcaf92e3d2282ba029f8 100644
+--- a/seat-system/supervising/supervisor-interactive-wire/supervisor-interactive-wire.module.ts
++++ b/seat-system/supervising/supervisor-interactive-wire/supervisor-interactive-wire.module.ts
+@@ -18,7 +18,7 @@ export const supervisorInteractiveWire = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A swap does nothing at all where the agent id handle stands empty.",
++      statement: "A swap does nothing at all where the agent id handle is empty.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.code.ts b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.code.ts
+index 195a11380017560ddb3781df6257c38eeb8d69ca..f7f2490345cb283b852ab3e712edb9b2226eb4f2 100644
+--- a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.code.ts
++++ b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.code.ts
+@@ -119,7 +119,7 @@ function main(argv: readonly string[]): number {
+   for (const one of departed) process.stdout.write(`${one.name}\t${one.files}\t${one.bytes}\n`)
+   for (const one of looseNames) process.stdout.write(`${one}\t1\t-\n`)
+   for (const one of unread) {
+-    process.stderr.write(`unread: ${one} could not be listed, so its directory stands\n`)
++    process.stderr.write(`unread: ${one} could not be listed, so its directory remains\n`)
+   }
+ 
+   const bytes = departed.reduce((sum, one) => sum + one.bytes, 0)
+diff --git a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
+index 58f02a93905900479946f6bd4d68a00da4185ad5..77db1001c19dd1277791bc2f5c5ae484efb34c2e 100644
+--- a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
++++ b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
+@@ -48,7 +48,7 @@ export const supervisorLogSweeping = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A directory whose entries cannot be listed is named as unread, left standing, and the run that met it exits non-zero.",
++        "A directory whose entries cannot be listed is named as unread, left as it is, and the run that met it exits non-zero.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/supervising/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.ts b/seat-system/supervising/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.ts
+index 926dbd7517883fdbdfb8a6070d183e1a8fd4ee2c..4891824cc3ce5d30fb9106a88eabc746c63da5bd 100644
+--- a/seat-system/supervising/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.ts
++++ b/seat-system/supervising/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.ts
+@@ -4,6 +4,6 @@ export const supervisorProxyAdoptionRule = {
+   id: "01a0687b-aa83-7000-85c9-6374fb77804b",
+   pageTypeSlug: "module",
+   slug: "supervisor-proxy-adoption-rule",
+-  definition: "asking whether an oauth proxy already standing is adopted",
++  definition: "asking whether an oauth proxy already there is adopted",
+   code: "ts",
+ } as const satisfies Module
+diff --git a/seat-system/supervising/supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts b/seat-system/supervising/supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts
+index 80faf55562cae83cbce28d75b864498babfa0038..64338f641ae32d1cdf127bd59367e4b5f35b9b58 100644
+--- a/seat-system/supervising/supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts
++++ b/seat-system/supervising/supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts
+@@ -19,7 +19,7 @@ import {
+ 
+ export const PROXY_LIVENESS_INTERVAL_MS = 30_000
+ 
+-// The deadline stands with the spawner, so the adopt path and this monitor judge a gateway alive by
++// The deadline sits with the spawner, so the adopt path and this monitor judge a gateway alive by
+ // the same measure.
+ 
+ function assertNever(value: never): never {
+diff --git a/seat-system/supervising/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts b/seat-system/supervising/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts
+index e7c3d8b51ab6427c9cd361d4eb1c215ec2b336c7..88c5b84f7163381699254b31a4379a7d4199aa1e 100644
+--- a/seat-system/supervising/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts
++++ b/seat-system/supervising/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts
+@@ -12,8 +12,8 @@ import {
+   takeSeatPage,
+ } from "../supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
+ 
+-// A seat's name is its page's stem while that page stands, and the slug its akasha page is named
+-// for once it does not. Both spell the same name.
++// A seat's name is its page's stem while that page is there, and the slug its akasha page is named
++// for once it is not. Both spell the same name.
+ function nameOf(agentId: string): string | null {
+   return seatNameForAgent(agentId)
+ }
+diff --git a/seat-system/supervising/supervisor-rebind/supervisor-rebind.module.code.ts b/seat-system/supervising/supervisor-rebind/supervisor-rebind.module.code.ts
+index dcfa2c430f5a9867d3c1d521be81c791e7d54ecf..804598c3f8ed05a56947334c9287e387411a8b25 100644
+--- a/seat-system/supervising/supervisor-rebind/supervisor-rebind.module.code.ts
++++ b/seat-system/supervising/supervisor-rebind/supervisor-rebind.module.code.ts
+@@ -23,7 +23,7 @@ export type ClearRebindHooks = {
+ function reportNoSuccessor(oldAgentId: string): void {
+   console.error(
+     `${LOG} /clear rebind: no successor for ${oldAgentId} — its seat page was taken when it was ` +
+-      `stopped, so nothing stands for this seat until \`ops seat resume\` brings it back`
++      `stopped, so no page is there for this seat until \`ops seat resume\` brings it back`
+   )
+ }
+ 
+diff --git a/seat-system/supervising/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.test.ts b/seat-system/supervising/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.test.ts
+index 2f00cc9cadc90e3ce28683ec9ae5469fafad6100..9d3b7f3ccb36e27c6ea136ecbcb518d96f86bc79 100644
+--- a/seat-system/supervising/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.test.ts
++++ b/seat-system/supervising/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.test.ts
+@@ -13,7 +13,7 @@ const NOTICES: ResumeNotices = {
+ 
+ const EVENT: RestartNowEvent = { action: "restart-now", interruptMessage: null }
+ 
+-test("a restart with nothing else standing goes on the spawn line as the immediate notice", () => {
++test("a restart with nothing else pending goes on the spawn line as the immediate notice", () => {
+   const said = planRestartNotice(EVENT, { maintenance: false, reExecPending: false }, NOTICES)
+   expect(said.route).toBe("spawn-argv")
+   expect(said.notice).toBe("restart now\n\npick your work back up")
+diff --git a/seat-system/supervising/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts b/seat-system/supervising/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts
+index e758ae79facf981243fb852305f90562ab657ccd..639d13b9b5752e479dc4da2a98faf49fdefafa96 100644
+--- a/seat-system/supervising/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts
++++ b/seat-system/supervising/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts
+@@ -24,7 +24,7 @@ const POLL_INTERVAL_MS = 100
+ // THIS DEADLINE SAYS HOW LONG A GATEWAY MAY BE BUSY BEFORE IT IS CALLED DEAD, AND BUSY IS NOT DEAD.
+ // `/healthz` returns a constant with nothing awaited, so what it measures is not the handler but
+ // whether the event loop can reach it. A gateway carrying a seat's subagents was measured answering
+-// in 1.4s to over 9s while serving every request correctly. One deadline stands here for both the
++// in 1.4s to over 9s while serving every request correctly. One deadline is here for both the
+ // adopt path and the liveness monitor: two constants for one decision is how the monitor came to be
+ // raised while this one stayed at a second, and a gateway can be alive to one and dead to the other.
+ export const HEALTHZ_TIMEOUT_MS = 10_000
+diff --git a/seat-system/supervising/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.ts b/seat-system/supervising/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.ts
+index f4193a973a4e794e0d1141a040e82921281ee42f..6cec675c096c41a626756bf6363a1517a1d928b9 100644
+--- a/seat-system/supervising/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.ts
++++ b/seat-system/supervising/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.ts
+@@ -4,6 +4,6 @@ export const supervisorSpawnOauthProxy = {
+   id: "01a06876-abda-7018-ac05-91daba56bc7b",
+   pageTypeSlug: "module",
+   slug: "supervisor-spawn-oauth-proxy",
+-  definition: "spawning the oauth proxy, or adopting one already standing",
++  definition: "spawning the oauth proxy, or adopting one already there",
+   code: "ts",
+ } as const satisfies Module
