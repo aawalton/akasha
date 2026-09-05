@@ -51,7 +51,7 @@ export const treeReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller says which file names it takes.",
+      statement: "A caller says which file names that caller takes.",
     },
     {
       invariantKind: "absence",
