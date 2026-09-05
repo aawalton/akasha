@@ -116,7 +116,7 @@ export const akasha = {
       act: "Settle what is true before deciding what to do.",
       warrant: "An agent updates belief and intent together, so the goal bends the belief.",
       aids: [
-        "Never rest a decision on an unverified assumption.",
+        "Never rest a decision on an unverified belief.",
         "Verify how a thing works, not how many there are. Counts go stale at once.",
         "Stop looking once you can make the call.",
       ],
