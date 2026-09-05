@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/named-file-properties/named-file-property.page-type.ts b/pages/named-file-properties/named-file-property.page-type.ts
+index f15491763a329b1c549e349335409696f496ecec..5a74f69ab95ae66843b8682879ed964b756e0154 100644
+--- a/pages/named-file-properties/named-file-property.page-type.ts
++++ b/pages/named-file-properties/named-file-property.page-type.ts
+@@ -22,7 +22,7 @@ export const namedFileProperty = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the page states is the name its file is under.",
++      statement: "The page states the name its file is under.",
+     },
+     {
+       invariantKind: "departure",
