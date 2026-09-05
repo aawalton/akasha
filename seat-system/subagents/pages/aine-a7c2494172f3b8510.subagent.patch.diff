@@ -38,7 +38,7 @@ index 6c71955a6d1b10a3dc87bc74baf06228287af8cf..db96dd56c4c836326f1bebc78876b018
        DATA
      )
 diff --git a/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.code.ts b/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.code.ts
-index 175fefc88bb56b1858b87191030ae08bc611e404..3bd76f83294d312186eae40e940ddb3e70db8ed3 100644
+index 175fefc88bb56b1858b87191030ae08bc611e404..a79c7cb21f055cad2834e5f17375ae79d88b3654 100644
 --- a/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.code.ts
 +++ b/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.code.ts
 @@ -31,7 +31,7 @@ const HELD = "json"
@@ -110,4 +110,13 @@ index 175fefc88bb56b1858b87191030ae08bc611e404..3bd76f83294d312186eae40e940ddb3e
 +        "rejoined to no JSON document remains",
        DATA
      )
+   }
+@@ -171,7 +171,7 @@ export async function temperInventorySnapshot(
+     return refused(`the record was not written to ${at} — ${whyOf(thrown)}`, OPERATIONAL)
+   }
+   return {
+-    report: [`wrote snapshot ${standing.id} into ${at}, read whole from ${dataFile}`],
++    report: [`wrote snapshot ${page.id} into ${at}, read whole from ${dataFile}`],
+     refusals: [],
+     code: 0,
    }
