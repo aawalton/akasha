@@ -40,7 +40,7 @@ export const exerciseLogSet = {
     },
     {
       invariantKind: "departure",
-      statement: "A set is numbered against the movement it is of within the session.",
+      statement: "A set is numbered against the movement that set is of within the session.",
     },
     {
       invariantKind: "departure",
