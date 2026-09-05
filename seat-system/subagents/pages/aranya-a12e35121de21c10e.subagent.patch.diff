@@ -139,23 +139,6 @@ index 0000000000000000000000000000000000000000..41650c20516d93b34e23f31f0f16ca24
 +    { name: "deployment", yaml: deploymentYaml() },
 +  ]
 +}
-diff --git a/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff b/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
-index 802b268d1482fdf98004ddf13124aaf7eb18cea0..53b5b738412bd15d6cbadde83d87794b0bd5876f 100644
---- a/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
-@@ -301,8 +301,12 @@ index 24807f3bf5dc88c8d24565c5d2781bf5b59501f2..e1d175fe136e9636df7a50fdd570ca0d
-    replicas: 2,
-    containerPort: 2000,
- -  manifestCode:
-+<<<<<<< what this change would leave
-+-    "infrastructure/networks/cloudflared/cloudflared.manifest.code.ts",
-+=======
- -    "service-system/cluster-services/pages/cloudflared/cloudflared.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "cloudflared",
- +=======
- +  manifestCode: "infrastructure/networks/cloudflared/cloudflared.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/cloudflared/cloudflared.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/cloudflared/cloudflared.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 41650c20516d93b34e23f31f0f16ca24660b6b8b..0000000000000000000000000000000000000000
