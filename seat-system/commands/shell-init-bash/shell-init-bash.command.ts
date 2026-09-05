@@ -24,7 +24,7 @@ export const shellInitBash = {
     },
     {
       invariantKind: "departure",
-      statement: "What is composed goes to the report, so a shell can evaluate the output stream.",
+      statement: "The set goes to the report, so a shell can evaluate the output stream.",
     },
     {
       invariantKind: "departure",
