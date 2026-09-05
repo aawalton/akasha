@@ -25,7 +25,7 @@ export const invokedSeat = {
     },
     {
       invariantKind: "departure",
-      statement: "A row is taken only where it reads as a seat that is running or stopped.",
+      statement: "A row is taken only where that row reads as a seat that is running or stopped.",
     },
     {
       invariantKind: "departure",
