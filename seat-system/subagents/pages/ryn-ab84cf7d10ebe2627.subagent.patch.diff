@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/agents/claude-accounts/claude-account.page-type.ts b/agents/claude-accounts/claude-account.page-type.ts
+index 4aa2f1c45d265958d8c525ebba6401d595142b77..97aa1716e453225f3641486c0ca9c79be9282fd3 100644
+--- a/agents/claude-accounts/claude-account.page-type.ts
++++ b/agents/claude-accounts/claude-account.page-type.ts
+@@ -177,7 +177,7 @@ export const claudeAccount = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A declaration saying where a value sits is what routes every mark written here.",
++      statement: "A declaration saying where a value sits routes every mark written here.",
+     },
+     {
+       invariantKind: "departure",
