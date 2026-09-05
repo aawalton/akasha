@@ -10,7 +10,7 @@ export const temperCatalogSideFile = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The addon is told what to collect again through a file rather than a call.",
+      statement: "The addon is told the things to collect again through a file rather than a call.",
     },
     {
       invariantKind: "departure",
