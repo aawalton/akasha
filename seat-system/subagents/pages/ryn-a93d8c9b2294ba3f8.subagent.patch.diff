@@ -14,6 +14,22 @@ index decaf77aa102ffe17d57915330c11f2d4d609bd9..e540ecb691eeadc374abc56ca7d7e0d2
      {
        invariantKind: "departure",
        statement: "A subfolder holding no page the domain declares is refused.",
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.ts
+index 9e445fe25cb5733c177e45452f3553fbab681095..c8c00aa6d94cfd0e502b902bd86643b94919bab5 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.ts
+@@ -70,10 +70,7 @@ export const aPageTypeWithItsParts = {
+       invariantKind: "departure",
+       statement: "A subfolder holding a page that workspace package declares a part is a part too.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A page is declared a part by its page type and slug together.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A subfolder holding no page the page type declares is refused.",
 diff --git a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
 index d46b5520305c7527a21be788e295c4f1b9ba59cf..c18cd88409927c19558e6a6a75726aca70036b5d 100644
 --- a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
