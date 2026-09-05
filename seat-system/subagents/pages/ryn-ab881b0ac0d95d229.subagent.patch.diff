@@ -1,0 +1,65 @@
+diff --git a/agents/claude-accounts/properties/subscription-disabled-reason.text-property.ts b/agents/claude-accounts/properties/subscription-disabled-reason.text-property.ts
+index 1760429332634f5b94f9984bb5d0bf55a33a09d4..6bf016ca008ef1a24229d36ed3b5c4889ca9880b 100644
+--- a/agents/claude-accounts/properties/subscription-disabled-reason.text-property.ts
++++ b/agents/claude-accounts/properties/subscription-disabled-reason.text-property.ts
+@@ -18,7 +18,7 @@ export const subscriptionDisabledReason = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The account is usable again once this is taken away.",
++      statement: "The account is usable again once this reason is taken away.",
+     },
+   ],
+ } as const satisfies TextProperty
+diff --git a/alan/books/all-about-alan/topics/properties/topic-unsettled.text-property.ts b/alan/books/all-about-alan/topics/properties/topic-unsettled.text-property.ts
+index b47c9c3152aeadbf6d2b367a5e8c2bbbdc47670c..726ba5fc5269a00195a7ba88a993b693f1ebcf0a 100644
+--- a/alan/books/all-about-alan/topics/properties/topic-unsettled.text-property.ts
++++ b/alan/books/all-about-alan/topics/properties/topic-unsettled.text-property.ts
+@@ -13,7 +13,7 @@ export const topicUnsettled = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This holds what is still open rather than what stands.",
++      statement: "This property holds what is still open rather than what stands.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/harness/monarch/agree/monarch-agree.module.ts b/alan/harness/monarch/agree/monarch-agree.module.ts
+index 5958bf571e1ff2bf953c5c0febd22fbe9cbdf330..29fb43cd08805469030dee81e8f60caf5cb01a6a 100644
+--- a/alan/harness/monarch/agree/monarch-agree.module.ts
++++ b/alan/harness/monarch/agree/monarch-agree.module.ts
+@@ -29,7 +29,7 @@ export const monarchAgree = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Rows a rule with no counterpart clause reaches are counted and not weighed, because for those the two paths cannot differ.",
++        "Rows a rule with no counterpart clause reaches are counted and not weighed, because for those rows the two paths cannot differ.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/harness/monarch/evidence/monarch-evidence.module.ts b/alan/harness/monarch/evidence/monarch-evidence.module.ts
+index e0e5125ed00b9610e35858d1f24e5067402828f3..3945b719f28b2d57f1b1947717b49f8be42b4c72 100644
+--- a/alan/harness/monarch/evidence/monarch-evidence.module.ts
++++ b/alan/harness/monarch/evidence/monarch-evidence.module.ts
+@@ -10,7 +10,7 @@ export const monarchEvidence = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Everything here reads and nothing writes, so a seat may be given this and nothing else.",
++        "Everything here reads and nothing writes, so a seat may be given this module and nothing else.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
+index a3565a039ceff33cebb40247b740d1deee99aa36..1dad0a9d1f4c6185417aae8f7e8d016b29e7e6a5 100644
+--- a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
++++ b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
+@@ -24,7 +24,7 @@ export const monarchRuleDocuments = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A rule folder that has emptied is refused, because that is a migration half-done rather than a project with no rules.",
++        "A rule folder that has emptied is refused, because the emptying is a migration half-done rather than a project with no rules.",
+     },
+     {
+       invariantKind: "departure",
