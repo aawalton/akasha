@@ -61,6 +61,32 @@ index 84e42503713d9eba4aef76b4a1d9d956d12f5961..926549236f47d9be0f3a549a97b97211
      },
      {
        invariantKind: "departure",
+diff --git a/pages/name-formats/pages/lower-camel-case/lower-camel-case.name-format.test.ts b/pages/name-formats/pages/lower-camel-case/lower-camel-case.name-format.test.ts
+index 536e6b5a52b517c5c8d1fab61d69466117568565..4c06a5ac1cab1f1778fb56c00527bd9e0960707c 100644
+--- a/pages/name-formats/pages/lower-camel-case/lower-camel-case.name-format.test.ts
++++ b/pages/name-formats/pages/lower-camel-case/lower-camel-case.name-format.test.ts
+@@ -7,7 +7,7 @@ test("words run together with every one but the first starting capital", () => {
+   expect(lowerCamelCase("runsOnPatch")).toBe(true)
+ })
+ 
+-test("a digit stands inside a word", () => {
++test("a digit sits inside a word", () => {
+   expect(lowerCamelCase("uuidVersion7")).toBe(true)
+ })
+ 
+diff --git a/pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.test.ts b/pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.test.ts
+index ac5ec948bfe6de2bdea28efdd4e4ea0b7e46ca17..328c649e6c22df3ef5b76bedd6ad3f0d33b37d05 100644
+--- a/pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.test.ts
++++ b/pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.test.ts
+@@ -6,7 +6,7 @@ test("words joined with hyphens and all letters lower are written in it", () =>
+   expect(lowerKebabCase("lower-kebab-case")).toBe(true)
+ })
+ 
+-test("a digit stands inside a word", () => {
++test("a digit sits inside a word", () => {
+   expect(lowerKebabCase("id-is-a-uuid-version-7")).toBe(true)
+ })
+ 
 diff --git a/pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.ts b/pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.ts
 index da0b3f9752e1cce57acef01560ad9bc037a65389..c7c38956db6d0cb81f1468fce33116ab61bb7b7b 100644
 --- a/pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.ts
@@ -74,6 +100,32 @@ index da0b3f9752e1cce57acef01560ad9bc037a65389..c7c38956db6d0cb81f1468fce33116ab
      },
    ],
  } as const satisfies NameFormat
+diff --git a/pages/name-formats/pages/start-case/start-case.name-format.test.ts b/pages/name-formats/pages/start-case/start-case.name-format.test.ts
+index 4a7fb515b372c11a6e5b2a0977aa4f59b92e4c3a..9e92e1522451aebb0a184937167fca801b5137df 100644
+--- a/pages/name-formats/pages/start-case/start-case.name-format.test.ts
++++ b/pages/name-formats/pages/start-case/start-case.name-format.test.ts
+@@ -8,7 +8,7 @@ test("words parted by spaces with every one starting capital are written in it",
+   expect(startCase("Zero At Turning On")).toBe(true)
+ })
+ 
+-test("a word opening lower is refused wherever it stands", () => {
++test("a word opening lower is refused wherever it sits", () => {
+   expect(startCase("The Words of a Name")).toBe(false)
+   expect(startCase("Every changed Line")).toBe(false)
+   expect(startCase("The index is Akasha")).toBe(false)
+diff --git a/pages/name-formats/pages/upper-camel-case/upper-camel-case.name-format.test.ts b/pages/name-formats/pages/upper-camel-case/upper-camel-case.name-format.test.ts
+index 00a640a05164f257225ceef0ec573aca57cb1afa..467ae2ce2225adced51270e31836f8726ead17c7 100644
+--- a/pages/name-formats/pages/upper-camel-case/upper-camel-case.name-format.test.ts
++++ b/pages/name-formats/pages/upper-camel-case/upper-camel-case.name-format.test.ts
+@@ -6,7 +6,7 @@ test("words run together with every one starting capital", () => {
+   expect(upperCamelCase("PagePropertySlug")).toBe(true)
+ })
+ 
+-test("a digit stands inside a word", () => {
++test("a digit sits inside a word", () => {
+   expect(upperCamelCase("UuidVersion7")).toBe(true)
+ })
+ 
 diff --git a/pages/name-places/pages/constant-identifier.name-place.ts b/pages/name-places/pages/constant-identifier.name-place.ts
 index d40e84a9376fe1d655287c81fdd52461532ad47f..a7c783551e597f59291abd408d68cdd65cec54c5 100644
 --- a/pages/name-places/pages/constant-identifier.name-place.ts
@@ -172,7 +224,7 @@ index d8e371ddef9d2337d579d52b541e4f8ceda8eb42..c18e7bc71ae1728542fa5973f5232e18
      {
        invariantKind: "departure",
 diff --git a/pages/secret/page-secret.module.code.ts b/pages/secret/page-secret.module.code.ts
-index acd652f1922d2633de2cf745018c5d594f6c3909..083407783ad73d3a5fdf4d90c1c739f8c10a6201 100644
+index acd652f1922d2633de2cf745018c5d594f6c3909..492db9eb9807aa1f1eb2ebc1080571be48963968 100644
 --- a/pages/secret/page-secret.module.code.ts
 +++ b/pages/secret/page-secret.module.code.ts
 @@ -44,7 +44,7 @@ export function yamlOf(values: Secrets): string {
@@ -193,6 +245,15 @@ index acd652f1922d2633de2cf745018c5d594f6c3909..083407783ad73d3a5fdf4d90c1c739f8
    }
    return at
  }
+@@ -151,7 +151,7 @@ export function secretsIn(root: string, page: string): Secrets | null {
+   )
+   if (said.text === null) {
+     throw new Error(
+-      `'${sidecar}' stands beside a page and could not be decrypted, so what it holds is unknown rather than nothing: ${said.why}`
++      `'${sidecar}' sits beside a page and could not be decrypted, so what it holds is unknown rather than nothing: ${said.why}`
+     )
+   }
+   return valuesFrom(said.text, sidecar)
 diff --git a/pages/secret/page-secret.module.test.ts b/pages/secret/page-secret.module.test.ts
 index 4943cc37ecc79fb372c1cc3b3dc39132ef9fe1da..7e822c43f8f7156b8c8875ff658e9eaaa63ad737 100644
 --- a/pages/secret/page-secret.module.test.ts
@@ -207,7 +268,7 @@ index 4943cc37ecc79fb372c1cc3b3dc39132ef9fe1da..7e822c43f8f7156b8c8875ff658e9eaa
    cipherFor(root, PAGE, held({ "access-token": "one" }))
    const at = dataIn(root, "sops")
 diff --git a/pages/secret/page-secret.module.ts b/pages/secret/page-secret.module.ts
-index c61e088a7b2c077af29117612fb14320f0a65c96..e7a033a6601e1aa5681138d431fc1ddc3bc86ac3 100644
+index c61e088a7b2c077af29117612fb14320f0a65c96..a33916ce122b21949f721cd3f14ad4356f3e8ab9 100644
 --- a/pages/secret/page-secret.module.ts
 +++ b/pages/secret/page-secret.module.ts
 @@ -10,7 +10,7 @@ export const pageSecret = {
@@ -225,6 +286,15 @@ index c61e088a7b2c077af29117612fb14320f0a65c96..e7a033a6601e1aa5681138d431fc1ddc
        invariantKind: "departure",
 -      statement: "The key names stand in the open and only the values are ciphertext.",
 +      statement: "The key names are in the open and only the values are ciphertext.",
+     },
+     {
+       invariantKind: "departure",
+@@ -51,7 +51,7 @@ export const pageSecret = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A sops file that stands but will not decrypt is refused rather than read as empty.",
++        "A sops file that is there but will not decrypt is refused rather than read as empty.",
      },
      {
        invariantKind: "departure",
