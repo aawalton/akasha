@@ -9,7 +9,8 @@ export const seatPageHistory = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What a seat said before is read from akasha's history and from no older store.",
+      statement:
+        "The values a seat said before are read from akasha's history and from no older store.",
     },
     {
       invariantKind: "departure",
