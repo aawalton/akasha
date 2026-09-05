@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/name-places/pages/foreign-name.name-place.ts b/pages/name-places/pages/foreign-name.name-place.ts
+index c7e0a1998d28b4f0cd5d1305fd82f2fe31c218ac..8447c644d8fff854595d62e58305c186a5b00eb7 100644
+--- a/pages/name-places/pages/foreign-name.name-place.ts
++++ b/pages/name-places/pages/foreign-name.name-place.ts
+@@ -10,7 +10,7 @@ export const foreignName = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A name is its owner's where renaming the name would break what reads the name outside akasha.",
++        "A name is its owner's where renaming the name would break a reader outside akasha.",
+     },
+     {
+       invariantKind: "departure",
