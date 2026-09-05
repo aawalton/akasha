@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/story/engine/core/rollback-checks/rollback-checks.module.ts b/story/engine/core/rollback-checks/rollback-checks.module.ts
+index 7455daf65b7a7974819aeebbf9d7c0f23a98b810..1ed3cc76812a77b27a1d7f83ade46933694d8f09 100644
+--- a/story/engine/core/rollback-checks/rollback-checks.module.ts
++++ b/story/engine/core/rollback-checks/rollback-checks.module.ts
+@@ -10,7 +10,7 @@ export const rollbackChecks = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A rollback to the latest published turn or past it is refused.",
++      statement: "A rollback to the latest published turn or past that turn is refused.",
+     },
+     {
+       invariantKind: "departure",
