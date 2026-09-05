@@ -28,6 +28,10 @@ const PAGE_TYPE = "page-type"
 
 const PACKAGE = "workspace-package"
 
+const DOMAIN = "domain"
+
+const BESIDE = new Set<string>([DOMAIN, PACKAGE])
+
 const RECORD_PROPERTY = "record-property"
 
 const PROPERTIES = "properties"
@@ -273,12 +277,18 @@ function pluralOf(index: Answering, page: Held): string | null {
   return value === null ? null : textAt(value, PLURAL_SLUG)
 }
 
+function besideOf(index: Answering, page: Held, beside: Held): boolean {
+  const plural = pluralOf(index, page)
+  if (plural === null) return false
+  return BESIDE.has(String(beside.pageTypeSlug)) && beside.slug === plural
+}
+
 export function pairedIn(index: Answering, pages: readonly Held[]): readonly Held[] {
   const [one, two] = pages
   if (one === undefined || pages.length > 2) return []
   if (two === undefined) return [one]
-  if (two.pageTypeSlug === PACKAGE && two.slug === pluralOf(index, one)) return [one, two]
-  if (one.pageTypeSlug === PACKAGE && one.slug === pluralOf(index, two)) return [two, one]
+  if (besideOf(index, one, two)) return [one, two]
+  if (besideOf(index, two, one)) return [two, one]
   return []
 }
 
