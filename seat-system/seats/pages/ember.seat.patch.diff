@@ -39,3 +39,15 @@ index 0000000000000000000000000000000000000000..a94f8c20cd71d34558df352bbb5ac4fc
 +    },
 +  ],
 +} as const satisfies PageType
+diff --git a/temper/temper-progress/temper-progress.domain.ts b/temper/temper-progress/temper-progress.domain.ts
+index c523f70bf3c036d69f4bf772452c82cf388dcdac..6a685b15763114a4a511845ba7f85eba2a40fb14 100644
+--- a/temper/temper-progress/temper-progress.domain.ts
++++ b/temper/temper-progress/temper-progress.domain.ts
+@@ -12,6 +12,7 @@ export const temperProgress = {
+     "page-type/temper-completed-day",
+     "page-type/temper-completion-category",
+     "page-type/temper-completion-override",
++    "page-type/temper-condition-field",
+     "page-type/temper-metric-tree",
+     "page-type/temper-progress-thing",
+     "page-type/temper-rotation-breakdown-row",
