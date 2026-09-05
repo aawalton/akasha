@@ -100,7 +100,7 @@ index edf0697d915c93b79ae3cc4b77e1c826d7a43998..c3d9095197397b5bab2396fc010beaa4
      {
        invariantKind: "departure",
 diff --git a/testing-system/testing-system.workspace-package.ts b/testing-system/testing-system.workspace-package.ts
-index 9e951a20191b298a9e9eed396f6847d6460d0639..ed4d67d5387a34b55107704c257d772f35bcd82a 100644
+index 9e951a20191b298a9e9eed396f6847d6460d0639..2e8f0641f26f8702550be1b32b713f37250b19f6 100644
 --- a/testing-system/testing-system.workspace-package.ts
 +++ b/testing-system/testing-system.workspace-package.ts
 @@ -4,7 +4,7 @@ export const testingSystem = {
@@ -142,6 +142,15 @@ index 9e951a20191b298a9e9eed396f6847d6460d0639..ed4d67d5387a34b55107704c257d772f
      },
      {
        invariantKind: "departure",
+@@ -52,7 +52,7 @@ export const testingSystem = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "What stands here is stood up by the tests that reach for what is here.",
++      statement: "What is here is set up by the tests that reach for what is here.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/testing-system/walking/walking.module.ts b/testing-system/walking/walking.module.ts
 index 6ee56cf87c326c1c5b9d9902248f6cef76901313..a0b72fcf7d4c602fb19be0afd7e7aa5e28ca280a 100644
 --- a/testing-system/walking/walking.module.ts
