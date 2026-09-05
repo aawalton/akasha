@@ -112,7 +112,7 @@ export const indexEntries = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type holds in a file what every page type above it declares.",
+      statement: "A page type holds in a file what every page type above that page type declares.",
     },
     {
       invariantKind: "departure",
