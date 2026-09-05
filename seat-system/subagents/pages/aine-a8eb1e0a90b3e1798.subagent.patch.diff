@@ -1,0 +1,57 @@
+diff --git a/seat-system/messaging/message-page-address/message-page-address.module.ts b/seat-system/messaging/message-page-address/message-page-address.module.ts
+index adea12240291245bb37e18a8f5f5682743c7121b..57c5114899f8866bfe0bfae0eff946fc15ebf396 100644
+--- a/seat-system/messaging/message-page-address/message-page-address.module.ts
++++ b/seat-system/messaging/message-page-address/message-page-address.module.ts
+@@ -17,7 +17,7 @@ export const messagePageAddress = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A two-segment name is read as an address only where a person stands behind it.",
++      statement: "A two-segment name is read as an address only where a person is behind it.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/messaging/message-reach-write/message-reach-write.module.code.ts b/seat-system/messaging/message-reach-write/message-reach-write.module.code.ts
+index eb5002d4e699e9d78c8c473922702ed56c9adb0c..b8728d4fc691f3bb0ae2f5c402ca25bb68a35db8 100644
+--- a/seat-system/messaging/message-reach-write/message-reach-write.module.code.ts
++++ b/seat-system/messaging/message-reach-write/message-reach-write.module.code.ts
+@@ -81,7 +81,7 @@ export async function revived(reached: Reaching, relPath: string): Promise<strin
+   if (woke.code === 0) return null
+   const detail = (woke.stderr.trim() !== "" ? woke.stderr : woke.stdout).trim()
+   return (
+-    `the message stands at ${relPath} and reviving ${reached.at.reviveId} to read it exited ` +
++    `the message is at ${relPath} and reviving ${reached.at.reviveId} to read it exited ` +
+     `${woke.code}: ${detail.slice(0, DETAIL)}`
+   )
+ }
+diff --git a/seat-system/messaging/message-reach-write/message-reach-write.module.ts b/seat-system/messaging/message-reach-write/message-reach-write.module.ts
+index f4506d9758c9f3aa0708a3c21d422e1c960635d4..43ecf33e3b2cb5a801ca03f6ab7b21c638f98706 100644
+--- a/seat-system/messaging/message-reach-write/message-reach-write.module.ts
++++ b/seat-system/messaging/message-reach-write/message-reach-write.module.ts
+@@ -25,11 +25,11 @@ export const messageReachWrite = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A seat is woken after the message stands rather than before.",
++      statement: "A seat is woken after the message is there rather than before.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A waking that fails is said aloud and the message still stands.",
++      statement: "A waking that fails is said aloud and the message remains.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/seat-system/messaging/message-to/message-to.module.code.ts b/seat-system/messaging/message-to/message-to.module.code.ts
+index 95fc9bda56140a4121cd14176e4783c53eda85f2..49915e49b33c7072df602c11ba01bbb0f6182607 100644
+--- a/seat-system/messaging/message-to/message-to.module.code.ts
++++ b/seat-system/messaging/message-to/message-to.module.code.ts
+@@ -34,7 +34,7 @@ export function readStated(domain: string | undefined, role: string | undefined)
+     return {
+       kind: "refuse",
+       reason:
+-        `--role '${wantedRole}' stands alone, and a role is stated with a domain. ` +
++        `--role '${wantedRole}' is alone, and a role is stated with a domain. ` +
+         "The same role is held across every domain, so alone it names no one seat.",
+     }
+   }
