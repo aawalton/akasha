@@ -104,24 +104,6 @@ index 5b1a9ec40fc32219ff404e4d1e644d17402200fc..9d7c05acdd1b187ea2996170a54b24c2
      },
      {
        invariantKind: "departure",
-diff --git a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
-index ae5654ad8054a61c5b6d3f5a50e3f1849fd17f3d..12084682434053ddd215753156090b838e271c03 100644
---- a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
-+++ b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
-@@ -40,8 +40,11 @@ export const supervisorLogSweeping = {
-     },
-     {
-       invariantKind: "departure",
--      statement:
--        "These files are gitignored, so no removal here reaches a commit and each goes with a plain remove rather than through the gated one.",
-+      statement: "These files are gitignored.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "Each removal here goes with a plain remove rather than through the gated remove.",
-     },
-     {
-       invariantKind: "departure",
 diff --git a/workspace-paths/stale-folders/stale-folders.module.ts b/workspace-paths/stale-folders/stale-folders.module.ts
 index 506a1ba4c4bdc9b2f97bb8e429204d1a2f7be325..5b0db6e4228b4d2917e85f5264cf0a912e824b09 100644
 --- a/workspace-paths/stale-folders/stale-folders.module.ts
