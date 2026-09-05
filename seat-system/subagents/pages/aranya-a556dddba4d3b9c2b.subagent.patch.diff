@@ -177,7 +177,7 @@ index db19efdc4707b002bffeb2346e08c9f719bc5086..cbd3131d5fe8465a0e40359a6def13c8
    expect(() => index.everyOfType(MODULE)).toThrow(NOT_THERE)
    expect(() => index.everyPath()).toThrow(NOT_THERE)
 diff --git a/pages/indexes/indexing/indexing.module.code.ts b/pages/indexes/indexing/indexing.module.code.ts
-index 0a4b2d4050cb3820b02ee5ed97991cea769b77c3..d07e525b5309a78b5855800638dad9e8907c0d3b 100644
+index 0a4b2d4050cb3820b02ee5ed97991cea769b77c3..52b0fc3fe59950a841bc7e59937e13616d5a14ec 100644
 --- a/pages/indexes/indexing/indexing.module.code.ts
 +++ b/pages/indexes/indexing/indexing.module.code.ts
 @@ -1,13 +1,5 @@
@@ -259,6 +259,94 @@ index 0a4b2d4050cb3820b02ee5ed97991cea769b77c3..d07e525b5309a78b5855800638dad9e8
  export type Indexing = {
    readonly wrote: (path: string, body: string, before: string | null) => undefined
    readonly took: (path: string, before: string | null) => undefined
+@@ -157,12 +114,23 @@ function refusingEmpty(unique: ReadonlyMap<string, Identifier>, pages: number):
+   if (pages > 0 && unique.size === 0) throw new Error(NOTHING_DECLARES)
+ }
+ 
+-export function rebuiltFrom(
+-  tree: string,
+-  root: string,
+-  repo: string
+-): { readonly pages: number; readonly entries: number; readonly refused: readonly string[] } {
+-  mkdirSync(root, { recursive: true })
++export type Rebuilt = {
++  readonly pages: number
++  readonly entries: number
++  readonly refused: readonly string[]
++  readonly drift: Drift
++}
++
++function drifting(said: readonly Drift[]): Drift {
++  return {
++    added: said.flatMap((one) => one.added),
++    changed: said.flatMap((one) => one.changed),
++    went: said.flatMap((one) => one.went),
++  }
++}
++
++export function rebuiltFrom(tree: string, root: string, repo: string, put = true): Rebuilt {
++  if (put) mkdirSync(root, { recursive: true })
+   const held: { readonly path: string; readonly value: Value }[] = []
+   for (const path of pagesUnder(tree)) {
+     const value = valueAt(path, repo)
+@@ -179,24 +147,23 @@ export function rebuiltFrom(
+   const identity = held.flatMap((one) =>
+     identityIn(one.value, one.path, repo, identifying, null, parting)
+   )
+-  reconcile(join(root, IDENTITY), identity, root)
++  const drift = [reconcile(join(root, IDENTITY), identity, root, put)]
+   const sidecars = sidecarsIn(values)
+   const claim = claimingIn(repo, filedBy, sidecars)
+   const paths = held.flatMap((one) => claim(one.value, one.path, false))
+-  reconcile(join(root, PATH), paths, root)
+-  reconcile(join(root, SCHEMA), schema, root)
++  drift.push(reconcile(join(root, PATH), paths, root, put))
++  drift.push(reconcile(join(root, SCHEMA), schema, root, put))
+   const known = knownIn(readingAt(root), (path) => valueAt(path, repo))
+   const filed = held.map((one) => relationIn(one.value, one.path, known, repo))
+   const relation = filed.flatMap((one) => one.entries)
+-  reconcile(join(root, RELATION), relation, root)
++  drift.push(reconcile(join(root, RELATION), relation, root, put))
+   const naming = reachingBuilt(held, repo, fileProperties, filedBy)
+   const imported = walkedUnder(tree, typed).flatMap((path) =>
+     importIn(readFileSync(path, "utf8"), path, repo, naming)
+   )
+-  reconcile(join(root, IMPORT), imported, root)
++  drift.push(reconcile(join(root, IMPORT), imported, root, put))
+   const valued = held.flatMap((one) => valueIn(one.value, one.path, repo))
+-  reconcile(join(root, VALUE), valued, root)
+-  stampBuilt(repo, tree, root)
++  drift.push(reconcile(join(root, VALUE), valued, root, put))
+   return {
+     pages: held.length,
+     entries:
+@@ -207,9 +174,14 @@ export function rebuiltFrom(
+       imported.length +
+       valued.length,
+     refused: filed.flatMap((one) => one.refused),
++    drift: drifting(drift),
+   }
+ }
+ 
++export function rebuiltWhole(repo: string, tree: string, put: boolean): Rebuilt {
++  return rebuiltFrom(tree, indexIn(repo), repo, put)
++}
++
+ export type Moving = {
+   readonly path: string
+   readonly before: string | null
+@@ -417,11 +389,6 @@ export function indexingAt(root: string, repo: string): Indexing {
+       pending.clear()
+       const found = settlingOver(readingAt(root), repo, moving, (path) => valueAt(path, repo))
+       filedInto(root, found.filings)
+-      stampSettled(
+-        repo,
+-        root,
+-        moving.map((one) => (isAbsolute(one.path) ? relative(repo, one.path) : one.path))
+-      )
+       return [...found.noted, ...found.refused]
+     },
+   }
 diff --git a/pages/indexes/reading/index-reading.module.code.ts b/pages/indexes/reading/index-reading.module.code.ts
 index ed0dff829933eb31fba0f14536a2b8cf85ae8d83..4ec4e6aa06f74f0e1bef2ad240c866bd3a440cee 100644
 --- a/pages/indexes/reading/index-reading.module.code.ts
@@ -563,6 +651,126 @@ index aeaa32fb6fb468339f38c7371b29131e1a1934f9..093a6c551f4a014435b9690f6ab8d1f4
    }
 +  return { added: added.sort(), changed: changed.sort(), went: went.sort() }
  }
+diff --git a/pages/indexes/rebuilding/rebuilding.module.test.ts b/pages/indexes/rebuilding/rebuilding.module.test.ts
+index 8f2989a3fcedd1a24b412525840b4244c3f3ed1b..0c8a910f6630bd6c4b486f41479fd43dba803405 100644
+--- a/pages/indexes/rebuilding/rebuilding.module.test.ts
++++ b/pages/indexes/rebuilding/rebuilding.module.test.ts
+@@ -1,28 +1,97 @@
+ import { afterAll, expect, test } from "bun:test"
+-import { writeFileSync } from "node:fs"
+-import { join } from "node:path"
++import { existsSync, mkdirSync, readFileSync, statSync, writeFileSync } from "node:fs"
++import { dirname, join } from "node:path"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+-import { driftBetween } from "./rebuilding.module.code.ts"
++import { reconcile } from "./rebuilding.module.code.ts"
+ 
+ const scratch = scratchWorld()
+ 
+ afterAll(scratch.sweep)
+ 
+-test("what stands in one and not the other is what drift names", () => {
+-  const one = scratch.rootFor("akasha-drift-")
+-  const two = scratch.rootFor("akasha-drift-")
+-  writeFileSync(join(one, "went"), "held")
+-  writeFileSync(join(one, "changed"), "was")
+-  writeFileSync(join(two, "changed"), "now")
+-  writeFileSync(join(two, "added"), "held")
+-  expect(driftBetween(one, two)).toEqual({
+-    added: ["added"],
+-    changed: ["changed"],
+-    went: ["went"],
+-  })
++const UNDER = "held"
++
++const AT = "held/one.jsonl"
++
++const GONE = "held/gone.jsonl"
++
++function rootAt(): string {
++  return scratch.rootFor("akasha-reconcile-")
++}
++
++function filed(root: string, at: string, body: string): undefined {
++  mkdirSync(dirname(join(root, at)), { recursive: true })
++  writeFileSync(join(root, at), body)
++}
++
++function bodyAt(root: string, at: string): string | null {
++  return existsSync(join(root, at)) ? readFileSync(join(root, at), "utf8") : null
++}
++
++test("an entry no file holds is written, and an entry no page carries is taken away", () => {
++  const root = rootAt()
++  filed(root, GONE, "{}\n")
++
++  const drift = reconcile(join(root, UNDER), [{ at: AT, line: "{}" }], root, true)
++
++  expect(bodyAt(root, AT)).toBe("{}\n")
++  expect(bodyAt(root, GONE)).toBe(null)
++  expect(drift).toEqual({ added: [AT], changed: [], went: [GONE] })
++})
++
++test("an entry already saying what the pages say is left as the entry is", () => {
++  const root = rootAt()
++  filed(root, AT, "{}\n")
++  const was = statSync(join(root, AT)).ino
++
++  const drift = reconcile(join(root, UNDER), [{ at: AT, line: "{}" }], root, true)
++
++  expect(drift).toEqual({ added: [], changed: [], went: [] })
++  expect(statSync(join(root, AT)).ino).toBe(was)
++})
++
++test("an entry saying something else is written again and named as changed", () => {
++  const root = rootAt()
++  filed(root, AT, '{"was":1}\n')
++
++  const drift = reconcile(join(root, UNDER), [{ at: AT, line: "{}" }], root, true)
++
++  expect(bodyAt(root, AT)).toBe("{}\n")
++  expect(drift).toEqual({ added: [], changed: [AT], went: [] })
++})
++
++test("a repair putting nothing in place writes nothing and says the same difference", () => {
++  const root = rootAt()
++  filed(root, GONE, "{}\n")
++
++  const drift = reconcile(join(root, UNDER), [{ at: AT, line: "{}" }], root, false)
++
++  expect(bodyAt(root, AT)).toBe(null)
++  expect(bodyAt(root, GONE)).toBe("{}\n")
++  expect(drift).toEqual({ added: [AT], changed: [], went: [GONE] })
+ })
+ 
+-test("a directory that is not there differs in nothing from an empty one", () => {
+-  const one = scratch.rootFor("akasha-drift-")
+-  expect(driftBetween(join(one, "never"), one)).toEqual({ added: [], changed: [], went: [] })
++test("one entry file holds every line the pages imply, each once and sorted", () => {
++  const root = rootAt()
++
++  reconcile(
++    join(root, UNDER),
++    [
++      { at: AT, line: '{"b":1}' },
++      { at: AT, line: '{"a":1}' },
++      { at: AT, line: '{"a":1}' },
++    ],
++    root,
++    true
++  )
++
++  expect(bodyAt(root, AT)).toBe('{"a":1}\n{"b":1}\n')
++})
++
++test("a folder left holding nothing goes with the entry file taken away", () => {
++  const root = rootAt()
++  filed(root, GONE, "{}\n")
++
++  reconcile(join(root, UNDER), [], root, true)
++
++  expect(existsSync(join(root, UNDER))).toBe(false)
+ })
 diff --git a/pages/shadow/shadow.module.code.ts b/pages/shadow/shadow.module.code.ts
 index 76d21dab0f56cfc20bd9573be8913ce13af71825..ea966ba98ee2011b50b18b7f587dcbc43f09e0ff 100644
 --- a/pages/shadow/shadow.module.code.ts
