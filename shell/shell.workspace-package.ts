@@ -14,7 +14,8 @@ export const shell = {
     },
     {
       invariantKind: "departure",
-      statement: "A value written into a command is written so the shell reads it as one word.",
+      statement:
+        "A value written into a command is written so the shell reads that value as one word.",
     },
   ],
 } as const satisfies WorkspacePackage
