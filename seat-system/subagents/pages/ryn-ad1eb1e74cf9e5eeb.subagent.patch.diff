@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/git-transport/transport-repos/transport-repos.module.ts b/git-transport/transport-repos/transport-repos.module.ts
+index 087d1d95ee80b52150c892784b74c7a3d74d2a3c..dd48fef70d8922d3c64ce996e2a903217cc0c715 100644
+--- a/git-transport/transport-repos/transport-repos.module.ts
++++ b/git-transport/transport-repos/transport-repos.module.ts
+@@ -13,7 +13,7 @@ export const transportRepos = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A repository that mirrors nowhere states so rather than leaving it out.",
++      statement: "A repository that mirrors nowhere states so rather than leaving the mirror out.",
+     },
+     {
+       invariantKind: "departure",
