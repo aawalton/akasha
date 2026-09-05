@@ -23,7 +23,7 @@ export const moveRepointing = {
     },
     {
       invariantKind: "departure",
-      statement: "What a package's name reaches moves without that name changing.",
+      statement: "The path a package's name reaches moves without that name changing.",
     },
     {
       invariantKind: "departure",
