@@ -1,0 +1,11 @@
+diff --git a/service-system/cluster-services/pages/alanwalton-web.cluster-service.ts b/service-system/cluster-services/pages/alanwalton-web.cluster-service.ts
+index 03dd87cfbf5075caa8b54fc8086b0396630a2d3c..abcd131a0494726350fb5cc424d8a25e147ac52a 100644
+--- a/service-system/cluster-services/pages/alanwalton-web.cluster-service.ts
++++ b/service-system/cluster-services/pages/alanwalton-web.cluster-service.ts
+@@ -11,5 +11,5 @@ export const alanwaltonWeb = {
+   image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
+   replicas: 1,
+   containerPort: 3000,
+-  manifestCode: "alan/web/alanwalton-web.cluster-service.code.attachment.ts",
++  manifestSlug: "alanwalton-web",
+ } as const satisfies ClusterService
