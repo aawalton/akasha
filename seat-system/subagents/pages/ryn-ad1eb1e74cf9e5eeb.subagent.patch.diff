@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/indexes/schema/index-schema.index.ts b/pages/indexes/schema/index-schema.index.ts
+index e98608842232cbc715f5911e388253c6fd70cb99..0ba43f9f85eeb1980d8eae6db7d0435c3225dd90 100644
+--- a/pages/indexes/schema/index-schema.index.ts
++++ b/pages/indexes/schema/index-schema.index.ts
+@@ -60,7 +60,8 @@ export const indexSchema = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page stating a property slug is a page property whatever page type it is.",
++      statement:
++        "A page stating a property slug is a page property whatever page type that page is.",
+     },
+     {
+       invariantKind: "departure",
