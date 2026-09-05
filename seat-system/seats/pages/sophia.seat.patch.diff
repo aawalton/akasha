@@ -10,6 +10,21 @@ index afc4da8e562338fa17be060b37999141a9ef330b..090ef02d20eef91c1b1bd73bd201988e
    ],
    extendsSlug: ["page-type/module"],
    loadedBySlug: "module/warranting",
+diff --git a/context/warrants/persona-page-type/persona-page-type.context-warrant.ts b/context/warrants/persona-page-type/persona-page-type.context-warrant.ts
+index b0e0c42159ff905b84dc819bf57060414f36367e..344a2844d82f80f9081603b138fd8464719c0fa2 100644
+--- a/context/warrants/persona-page-type/persona-page-type.context-warrant.ts
++++ b/context/warrants/persona-page-type/persona-page-type.context-warrant.ts
+@@ -16,8 +16,8 @@ export const personaPageType = {
+       statement: "A seat warrants the type of the persona the seat states.",
+     },
+     {
+-      invariantKind: "departure",
+-      statement: "A seat warrants every type that the persona's type extends.",
++      invariantKind: "absence",
++      statement: "A seat warrants no type that the persona's type extends.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/context/warrants/role-page-type/role-page-type.context-warrant.ts b/context/warrants/role-page-type/role-page-type.context-warrant.ts
 index 3d8314557105d9846993ce67e4a776fdd7d63314..20f35b9f310db67b85e016a92d0993948fd53cbd 100644
 --- a/context/warrants/role-page-type/role-page-type.context-warrant.ts
