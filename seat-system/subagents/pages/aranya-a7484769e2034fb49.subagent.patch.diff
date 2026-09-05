@@ -1,0 +1,12 @@
+diff --git a/service-system/cluster-services/pages/supabase-studio/supabase-studio.cluster-service.ts b/service-system/cluster-services/pages/supabase-studio/supabase-studio.cluster-service.ts
+index 84864d05f424f55e77fda190e014943bf4c44ec5..0c9185882aa2cd51867f5da50d8f7516a221ce5c 100644
+--- a/service-system/cluster-services/pages/supabase-studio/supabase-studio.cluster-service.ts
++++ b/service-system/cluster-services/pages/supabase-studio/supabase-studio.cluster-service.ts
+@@ -11,6 +11,5 @@ export const supabaseStudio = {
+   image: "supabase/studio:2026.04.08-sha-205cbe7",
+   replicas: 1,
+   containerPort: 3000,
+-  manifestCode:
+-    "service-system/cluster-services/pages/supabase-studio/supabase-studio.cluster-service.code.attachment.ts",
++  manifestSlug: "supabase-studio",
+ } as const satisfies ClusterService
