@@ -68,7 +68,7 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "What was built still stands.",
+      statement: "The index that was built still stands.",
     },
     {
       invariantKind: "absence",
