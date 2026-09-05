@@ -35,7 +35,8 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "A declaration file names what another language or another writer already named.",
+      statement:
+        "A declaration file names a thing another language or another writer already named.",
     },
     {
       invariantKind: "absence",
