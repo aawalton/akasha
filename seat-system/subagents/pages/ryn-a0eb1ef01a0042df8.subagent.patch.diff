@@ -1,5 +1,5 @@
 diff --git a/checks/cluster-checks/modules/functional-type/functional-type.module.ts b/checks/cluster-checks/modules/functional-type/functional-type.module.ts
-index 0f0c594e6eef4225b2223e1bb66fc1cb8b8b6e4d..6a29bd7532a0d76d09f64127bf6bc1280dd1c141 100644
+index 0f0c594e6eef4225b2223e1bb66fc1cb8b8b6e4d..0f42c40d7ddcb88ccc38d52f1c9bb0acb44e2a99 100644
 --- a/checks/cluster-checks/modules/functional-type/functional-type.module.ts
 +++ b/checks/cluster-checks/modules/functional-type/functional-type.module.ts
 @@ -9,7 +9,8 @@ export const functionalType = {
@@ -9,6 +9,15 @@ index 0f0c594e6eef4225b2223e1bb66fc1cb8b8b6e4d..6a29bd7532a0d76d09f64127bf6bc128
 -      statement: "A package says what it is for in its manifest rather than by where it sits.",
 +      statement:
 +        "A package says what that package is for in its manifest rather than by where that package sits.",
+     },
+     {
+       invariantKind: "departure",
+@@ -22,7 +23,7 @@ export const functionalType = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A value that is no known type answers no type and carries the raw value back with it.",
++        "A value that is no known type answers no type and carries the raw value back with that answer.",
      },
      {
        invariantKind: "departure",
