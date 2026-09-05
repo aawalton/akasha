@@ -29,11 +29,12 @@ export const terminalRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A sweep records what it read of the terminals and how long it waited.",
+      statement:
+        "A sweep records what that sweep read of the terminals and how long that sweep waited.",
     },
     {
       invariantKind: "departure",
-      statement: "Turn colors that cannot be read leave every tab the color it has.",
+      statement: "Turn colors that cannot be read leave every tab the color that tab has.",
     },
     {
       invariantKind: "departure",
