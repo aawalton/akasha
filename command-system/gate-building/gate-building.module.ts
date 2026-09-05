@@ -52,11 +52,11 @@ export const gateBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "What is handed back says only why the gate is missing.",
+      statement: "The broken answer handed back says only why the gate is missing.",
     },
     {
       invariantKind: "departure",
-      statement: "The caller says what a missing gate means.",
+      statement: "The caller says the meaning of a missing gate.",
     },
     {
       invariantKind: "departure",
@@ -88,7 +88,7 @@ export const gateBuilding = {
     },
     {
       invariantKind: "absence",
-      statement: "What is handed back is what will judge.",
+      statement: "The gate handed back is the gate that will judge.",
     },
     {
       invariantKind: "absence",
