@@ -11,6 +11,5 @@ export const pgbouncer = {
   image: "edoburu/pgbouncer:v1.25.1-p0",
   replicas: 1,
   containerPort: 5432,
-  manifestCode:
-    "service-system/cluster-services/pages/pgbouncer/pgbouncer.cluster-service.code.attachment.ts",
+  manifestSlug: "pgbouncer",
 } as const satisfies ClusterService
