@@ -1,0 +1,466 @@
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/domain-tree.code-editor-data-interface.d.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/domain-tree.code-editor-data-interface.d.ts
+index b91db8f0ff822374ccad27804747dc08d23f63d9..e86c273db44649cc1855c85b5b25b13f2fe1db22 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/pages/domain-tree.code-editor-data-interface.d.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/domain-tree.code-editor-data-interface.d.ts
+@@ -1,7 +1,9 @@
+ // The domains panel, assembled whole. A row is a domain, and the tree is the part-of edge read
+-// downward. The champion each domain carries is not here: the tree the panel draws never read it.
++// downward. The champion is carried because the panel draws it: it is the row's description, part
++// of the tooltip, and one of the two fields a filter is matched against.
+ 
+ declare type DomainTreeRow = TreeRow & {
++  readonly persona: string | null
+   readonly position: number | null
+   readonly children: readonly DomainTreeRow[]
+ }
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.code.ts b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.code.ts
+index c49881cfc631ee2c06ba813ff93fe2ebb296be9b..e2e7256e5b7844e30955cbfce9d57bbb1ece0bfc 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.code.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.code.ts
+@@ -61,6 +61,7 @@ export function workTreeLine(root: string): string {
+ type DomainNode = {
+   readonly slug: string
+   readonly relPath: string | null
++  readonly persona: string | null
+   readonly position: number | null
+   readonly children: readonly DomainNode[]
+ }
+@@ -71,6 +72,7 @@ function domainRow(root: string, node: DomainNode): DomainTreeRow {
+     label: node.slug,
+     at: wholePath(root, node.relPath),
+     color: null,
++    persona: node.persona,
+     position: node.position,
+     children: node.children.map((child) => domainRow(root, child)),
+   }
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
+index f7ecea57f3b2006144b6d8f0397a95cb9061f70a..3c76a2b1827bf413bbe8524b88086eff3cc11b8b 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
+@@ -25,7 +25,7 @@ export const treeDrawing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A domains row carries no champion, the tree the panel draws never reading one.",
++      statement: "A domains row carries its champion, which the panel makes the row's description.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/editor-extension/domain-tree-panel/domain-tree-panel.module.code.ts b/editor-extension/domain-tree-panel/domain-tree-panel.module.code.ts
+index af09c11bfd984b088057fa2796e5ba04874aa533..ebff126710ad32300126d1a764d715761d9584a7 100644
+--- a/editor-extension/domain-tree-panel/domain-tree-panel.module.code.ts
++++ b/editor-extension/domain-tree-panel/domain-tree-panel.module.code.ts
+@@ -1,67 +1,36 @@
+-import { createHash } from "node:crypto"
+-import * as path from "node:path"
++import { relative } from "node:path"
+ import * as vscode from "vscode"
++import {
++  followState,
++  readState,
++  stateAt,
++} from "../../alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts"
+ import { countNodes, type DomainNode } from "../champions-tree/champions-tree.module.code.ts"
+ import { REFRESH_COMMAND, VIEW_ID } from "../domain-tree-ids/domain-tree-ids.module.code.ts"
+-import {
+-  askDomainTree,
+-  domainTreeIn,
+-} from "../domain-tree-reading/domain-tree-reading.module.code.ts"
++import type { DomainTree } from "../domain-tree-reading/domain-tree-reading.module.code.ts"
+ import { createDomainTree } from "../domain-tree-view/domain-tree-view.module.code.ts"
+-import { repositoryPath, unreachableMessage } from "../harness-call/harness-call.module.code.ts"
++import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
+ import { recordObservation } from "../observation-store/observation-store.module.code.ts"
+-import { createSettledRefresh } from "../settled-refresh/settled-refresh.module.code.ts"
+ 
+ const FEATURE = "domain-tree"
+-
+-// How long the corpus has to hold still before the tree is read again, when the last read said
+-// something new. This is the quiet Alan's own edit waits through, so it stays short.
+-const SETTLE_MS = 2_000
+-
+-// THE LONGEST A WRITE MAY WAIT TO BE ANSWERED, and the ceiling the demanded quiet backs off to.
+-// Measured over 420s of this worktree at load 30-51, `**/*.ts` took 295 distinct mtimes —
+-// 42 writes a minute — of which 66 gaps ran past the 2000ms settle, so the panel read 9.6 times a
+-// minute. Almost none of that is Alan: 234 of those 318 writes were `.uncommitted.ts` sidecars of
+-// other agents, and 11 could have moved a row at all.
+-//
+-// A quiet that only grows is a trap at that write rate. Backing off to 16s while writes keep
+-// arriving every 1.4s pushes the timer out ahead of itself and it never fires at all: replayed
+-// against this trace, a plain backoff read 3 times in 7 minutes and left a real change unshown
+-// for 257s. So this is a deadline as well as a ceiling. `quiet()` returns whichever is sooner,
+-// the quiet asked for or what is left of this window, which makes the wait a change can suffer
+-// bounded by the constant rather than by how busy the other agents happen to be.
+-const ANSWER_WITHIN_MS = 16_000
+-
+-// A new page type extending `domain` is the one edit that can add a row of a kind this has never
+-// seen, so it is worth naming beside the kinds that are drawn.
+-const PAGE_TYPE_SUFFIX = ".page-type.ts"
+-
+-const CORPUS_GLOB = "**/*.ts"
+-
+-let output: vscode.OutputChannel
+-
+-// WHAT THE DRAWN ANSWER SAYS A PAGE OF ITS OWN KIND LOOKS LIKE. A domain page is named
+-// `<slug>.<page-type>.ts`, so the endings the drawn rows carry are the kinds under `domain` as
+-// they now are — 67 of them here, `.module.ts` and `.command.ts` and the rest. Reading them off
+-// the answer rather than writing them down is what keeps a kind added tomorrow from being a kind
+-// this panel is blind to.
+-function kindsIn(
+-  nodes: readonly DomainNode[],
+-  paths: Set<string>,
+-  endings: Set<string>
+-): undefined {
+-  for (const node of nodes) {
+-    paths.add(node.relPath)
+-    const name = node.relPath.slice(node.relPath.lastIndexOf("/") + 1)
+-    const dot = name.indexOf(".")
+-    if (dot > 0) {
+-      endings.add(name.slice(dot))
+-    }
+-    kindsIn(node.children, paths, endings)
++const SLUG = "domain-tree"
++
++// The file spells a row the way every state file spells one, and the panel spells it another way.
++// The document is the one field that differs in kind rather than in name: the file carries the
++// whole path, the panel carries it against the repository, and `documentPath` puts them back
++// together. Taking the repository away from the path here is what makes that join exact.
++function asNode(row: DomainTreeRow, root: string): DomainNode {
++  return {
++    slug: row.key,
++    relPath: row.at === null ? "" : relative(root, row.at),
++    persona: row.persona,
++    position: row.position,
++    children: row.children.map((child) => asNode(child, root)),
+   }
+-  return undefined
+ }
+ 
++let output: vscode.OutputChannel
++
+ export async function activate(context: vscode.ExtensionContext): Promise<undefined> {
+   output = vscode.window.createOutputChannel("Ops: Domain Tree")
+   context.subscriptions.push(output)
+@@ -89,71 +58,31 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
+     return undefined
+   }
+ 
+-  // The bytes of the answer already drawn. The harness composes the tree from the files as they
+-  // now are and prints it; nothing in it is a clock or a counter, so two reads of an unmoved
+-  // corpus are byte-for-byte equal, and a hash of them soundly represents "would this redraw show
+-  // Alan anything he is not already looking at".
+-  let drawnHash: string | undefined
+-
+-  // The rows now drawn, by path and by the ending their kind gives them, so a write can be told
+-  // from one that lands on a row or adds a row of a kind already drawn.
+-  let drawnPaths = new Set<string>()
+-  let drawnEndings = new Set<string>([PAGE_TYPE_SUFFIX])
+-
+-  let settleMs = SETTLE_MS
+-
+-  // When the oldest write not yet answered by a read arrived, which is what `ANSWER_WITHIN_MS`
+-  // is counted from.
+-  let owedSince: number | undefined
++  // What the file last said, drawn or waiting to be drawn.
++  let held: DomainTreeState | null = null
+ 
+-  // A write arrived while the panel was hidden. Nothing was read for it; the read is owed until
+-  // the panel is looked at again.
++  // The file moved while nobody was looking at the panel. Nothing was drawn for it, and the
++  // drawing is owed until the panel is looked at again.
+   let owed = false
+ 
+-  // A READ THAT SAYS THE SAME THING REDRAWS NOTHING AND RECORDS NOTHING. What made this panel
+-  // expensive was not the read — that is a bun child, off this thread — but everything the
+-  // answer set off once it arrived: `JSON.parse` of 1.26MB, 7,000-odd nodes rebuilt, the
+-  // tree-data event that has the editor re-ask for every visible row, and `recordObservation`,
+-  // whose write is the thing that blocks this host. Hashing the bytes first buys all of that
+-  // back for the reads — the large majority of them — that carry no news.
+-  //
+-  // The observation store already drops a patch whose `changeKey` is unchanged, so suppressing
+-  // the call here lands exactly what landed before; what it saves is the two whole-record
+-  // `JSON.stringify` calls that decision costs, on every one of those reads. `at` never advanced
+-  // for an unchanged observation either, so nothing downstream loses a heartbeat it had.
+-  const refresh = async (trigger: string): Promise<undefined> => {
+-    owedSince = undefined
++  const draw = (state: DomainTreeState, trigger: string): undefined => {
++    const root = akashaRoot()
+     try {
+-      const said = await askDomainTree()
+-      const hash = createHash("sha1").update(said).digest("hex")
+-      if (hash === drawnHash) {
+-        settleMs = Math.min(settleMs * 2, ANSWER_WITHIN_MS)
+-        output.appendLine(
+-          `[${trigger}] the answer is the one already drawn, byte for byte; ` +
+-            `nothing redrawn, next quiet ${settleMs}ms`
+-        )
+-        return undefined
++      const next: DomainTree = {
++        repo: root,
++        roots: state.roots.map((row) => asNode(row, root)),
++        unreached: state.unreached,
+       }
+-      const next = domainTreeIn(said)
+-      drawnHash = hash
+-      settleMs = SETTLE_MS
+-      const paths = new Set<string>()
+-      const endings = new Set<string>([PAGE_TYPE_SUFFIX])
+-      kindsIn(next.roots, paths, endings)
+-      drawnPaths = paths
+-      drawnEndings = endings
+       tree.replace(next)
+-      watchCorpus(next.repo)
+       total = countNodes(next.roots)
+       describe()
+       view.badge = {
+         value: total,
+         tooltip: total === 1 ? "1 domain" : `${total} domains`,
+       }
+-      const count = total
+       view.message = undefined
+       output.appendLine(
+-        `[${trigger}] ${count} domain(s) under ${next.roots.length} root(s) from ${next.repo}` +
++        `[${trigger}] ${total} domain(s) under ${next.roots.length} root(s)` +
+           (next.unreached.length === 0
+             ? ""
+             : `; ${next.unreached.length} reached by no root: ${next.unreached.join(", ")}`)
+@@ -161,7 +90,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
+       recordObservation(FEATURE, {
+         outcome: "ok",
+         counts: {
+-          domains: count,
++          domains: total,
+           roots: next.roots.length,
+           reachedByNoRoot: next.unreached.length,
+         },
+@@ -173,98 +102,52 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
+         )
+       }
+     } catch (err) {
+-      // A failed read leaves no drawn answer to compare against, so the next one that succeeds
+-      // redraws whatever it says rather than being mistaken for the one on screen.
+-      drawnHash = undefined
+-      settleMs = SETTLE_MS
+-      view.message = unreachableMessage(err)
+-      output.appendLine(`[${trigger}] read failed: ${String(err)}`)
++      output.appendLine(`[${trigger}] drawing failed: ${String(err)}`)
+       recordObservation(FEATURE, { outcome: "failed", failure: String(err) })
+     }
+     return undefined
+   }
+ 
+-  // THE QUIET ASKED FOR, OR WHAT IS LEFT OF THE WINDOW, WHICHEVER IS SOONER. `request` arms its
+-  // timer from now with whatever this says, so returning the remainder of the window is what
+-  // turns a debounce that churn can push out for ever into one that fires on the deadline.
+-  const quiet = (): number => {
+-    const now = Date.now()
+-    if (owedSince === undefined) {
+-      owedSince = now
+-    }
+-    return Math.max(0, Math.min(settleMs, owedSince + ANSWER_WITHIN_MS - now))
+-  }
+-
+-  const settled = createSettledRefresh(quiet, refresh)
+-
+-  // A WRITE THAT COULD MOVE A ROW PUTS THE QUIET BACK TO `SETTLE_MS`. A domain page is named
+-  // `<slug>.<page-type>.ts`, so a write is worth hurrying for when it lands on a row already
+-  // drawn, when it carries the ending of a kind already drawn — which is how a page added to an
+-  // existing kind is caught before it is a row — or when it is a page type, which is how a kind
+-  // nobody has drawn yet is caught.
+-  //
+-  // This is a hint and never a filter: every write still asks for a read, and the deadline still
+-  // holds over all of them, so a path this fails to recognise costs it the short quiet and not
+-  // the row. In the 420s trace it fires on 11 writes of 318.
+-  const couldMoveARow = (repo: string, fsPath: string): boolean => {
+-    if (drawnPaths.has(path.relative(repo, fsPath))) {
+-      return true
++  // NOTHING IS DRAWN FOR A PANEL NOBODY IS LOOKING AT. The Domains view shares the secondary
++  // sidebar with Agents, Work and Pages, so it is hidden most of the time, and rebuilding ten
++  // thousand rows for a hidden view spends the extension host's thread on nothing Alan can see.
++  // The state is kept all the same, so becoming visible draws what the file says now.
++  const show = (state: DomainTreeState, trigger: string): undefined => {
++    held = state
++    if (!view.visible) {
++      owed = true
++      return undefined
+     }
+-    const name = fsPath.slice(fsPath.lastIndexOf("/") + 1)
+-    const dot = name.indexOf(".")
+-    return dot > 0 && drawnEndings.has(name.slice(dot))
++    owed = false
++    return draw(state, trigger)
+   }
+ 
+-  // NOTHING IS READ FOR A PANEL NOBODY IS LOOKING AT. The Domains view shares the secondary
+-  // sidebar with Agents, Work and Pages, so it is hidden most of the time, and a hidden view
+-  // redraws nothing whatever it is told. The read is not dropped, it is owed: becoming visible
+-  // pays it at once, with no settle at all, so what Alan sees when he opens the panel is what
+-  // the files say and not what they said when he last closed it.
+-  const moved =
+-    (why: string) =>
+-    (uri: vscode.Uri): void => {
+-      if (!view.visible) {
+-        owed = true
+-        return
+-      }
+-      if (watched !== undefined && couldMoveARow(watched, uri.fsPath)) {
+-        settleMs = SETTLE_MS
+-      }
+-      settled.request(why)
+-    }
+-
+-  let watched: string | undefined
+-  const watchCorpus = (named: string): undefined => {
+-    if (watched !== undefined) {
++  // Asking for the file again answers a manual refresh at once rather than waiting to be told.
++  // A file the service has not written leaves the rows on the screen as they are.
++  const refresh = (trigger: string): undefined => {
++    const state = readState<DomainTreeState>(stateAt(akashaRoot(), SLUG))
++    if (state === null) {
+       return undefined
+     }
+-    const repo = repositoryPath(named)
+-    watched = repo
+-    const watcher = vscode.workspace.createFileSystemWatcher(
+-      new vscode.RelativePattern(vscode.Uri.file(repo), CORPUS_GLOB)
+-    )
+-    context.subscriptions.push(
+-      watcher,
+-      watcher.onDidChange(moved("written")),
+-      watcher.onDidCreate(moved("added")),
+-      watcher.onDidDelete(moved("removed"))
+-    )
+-    output.appendLine(
+-      `watching ${repo}/${CORPUS_GLOB}, re-reading ${SETTLE_MS}ms after it settles, ` +
+-        "backing off while the answer does not move, and never later than " +
+-        `${ANSWER_WITHIN_MS}ms after a write`
+-    )
+-    return undefined
++    return show(state, trigger)
+   }
+ 
++  const reading = followState<DomainTreeState>(akashaRoot(), SLUG, (state) =>
++    show(state, "domains")
++  )
++
+   context.subscriptions.push(
+-    settled,
++    {
++      dispose: () => {
++        reading.stop()
++      },
++    },
+     view.onDidChangeVisibility((event) => {
+-      if (!event.visible || !owed) {
++      if (!event.visible || !owed || held === null) {
+         return
+       }
+       owed = false
+-      void refresh("shown")
++      draw(held, "shown")
+     }),
+     view.onDidChangeFilterValue((pattern) => {
+       tree.filter(pattern)
+@@ -272,7 +155,5 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
+     }),
+     vscode.commands.registerCommand(REFRESH_COMMAND, () => refresh("manual"))
+   )
+-
+-  await refresh("activate")
+   return undefined
+ }
+diff --git a/editor-extension/domain-tree-panel/domain-tree-panel.module.ts b/editor-extension/domain-tree-panel/domain-tree-panel.module.ts
+index 4e45c2b12b7ed723a63c570b61fb138d9719ab66..f099d03e4db4f83843d8baac6c21e63c4548dbe9 100644
+--- a/editor-extension/domain-tree-panel/domain-tree-panel.module.ts
++++ b/editor-extension/domain-tree-panel/domain-tree-panel.module.ts
+@@ -4,74 +4,60 @@ export const domainTreePanel = {
+   id: "01a06867-dbcb-7dfc-899e-b45619e04890",
+   pageTypeSlug: "module",
+   slug: "domain-tree-panel",
+-  definition: "the Domains panel brought up, and when the domains are read again for it",
++  definition: "the Domains panel brought up, and the domains drawn into it from one file",
+   code: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The panel is read once as that panel starts, before any write asks for a read.",
++      statement: "The domains are read from the file the service writes rather than composed.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "An answer equal byte for byte to the one drawn redraws nothing and records nothing.",
++      statement: "The panel draws what that file holds before any change to it arrives.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An answer that says nothing new doubles the quiet demanded of the corpus.",
++      statement: "The panel draws again when that file is written and at no other time.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The quiet demanded never grows past the deadline a write is answered within.",
++      statement: "A file the service has not written leaves the rows on the screen as they are.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The quiet asked of a request is whatever is left of that deadline where that is sooner.",
++      statement: "A file written while the panel is hidden is kept rather than drawn.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A write landing on a drawn row or carrying a drawn kind's ending shortens the quiet.",
++      statement: "A panel becoming visible with a drawing owed draws what the file last said.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The kinds a write is weighed against are read off the answer rather than listed here.",
++      statement: "A row is spelled for the panel from the row the file carries.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A page type's ending counts as a drawn kind though no page of that kind is drawn.",
++      statement: "A row's document is carried against the repository the panel was given.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Which write shortens the quiet is a hint, and every write still asks for a read.",
++      statement: "A row's champion is carried on, the panel making it the row's description.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A write arriving while the panel is hidden is owed a read rather than read for.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A panel becoming visible with a read owed is read for at once, with no quiet.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A read that fails leaves no drawn answer, so the next one that succeeds redraws.",
++      statement: "A domain no root reaches is said to Alan once and named on the channel.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A read that fails says why in the view rather than leaving the rows drawn as true.",
++      statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
+     },
+     {
+-      invariantKind: "departure",
+-      statement: "A domain no root reaches is said to Alan once and named on the channel.",
++      invariantKind: "absence",
++      statement: "No timer starts a drawing.",
+     },
+     {
+-      invariantKind: "departure",
+-      statement: "Every read's outcome is recorded as an observation under the panel's name.",
++      invariantKind: "absence",
++      statement: "No watcher on a source file is registered here.",
+     },
+     {
+       invariantKind: "absence",
