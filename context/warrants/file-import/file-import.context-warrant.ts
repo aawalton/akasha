@@ -23,7 +23,7 @@ export const fileImport = {
     },
     {
       invariantKind: "departure",
-      statement: "What a file imports is read from its own body.",
+      statement: "A file's imports are read from its own body.",
     },
     {
       invariantKind: "departure",
