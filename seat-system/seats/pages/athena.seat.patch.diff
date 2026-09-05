@@ -1,0 +1,524 @@
+runsWarrants: false
+diff --git a/alan/tracking/daily/air-quality-command/air-quality-command.module.code.ts b/alan/tracking/daily/air-quality-command/air-quality-command.module.code.ts
+deleted file mode 100644
+index 08067651db8ba01b74eb30d3968298d5e2a9a033..0000000000000000000000000000000000000000
+--- a/alan/tracking/daily/air-quality-command/air-quality-command.module.code.ts
++++ /dev/null
+@@ -1,121 +0,0 @@
+-export const summary =
+-  "Fetch current air quality (default Provo) and report a conservative outdoor-exertion verdict (EPA AQI, keyless source)"
+-
+-import type { CommandHelp } from "@akasha/command-system/command-declaring"
+-import { parseArgs } from "@akasha/command-system/parse-args"
+-import { inputError } from "@akasha/errors-core/exit-code"
+-import {
+-  assessOutdoor,
+-  LOCATION_PRESETS,
+-  type ResolvedLocation,
+-} from "../air-quality/air-quality.module.code.ts"
+-import { fetchAirQuality } from "../air-quality-fetch/air-quality-fetch.module.code.ts"
+-
+-export const help: CommandHelp = {
+-  flags: [
+-    {
+-      name: "--location",
+-      argLabel: "<name>",
+-      valueShape: "token",
+-      description: "Named preset (default `provo`). Or pass --lat/--lon for arbitrary coordinates.",
+-    },
+-    {
+-      name: "--lat",
+-      argLabel: "<n>",
+-      valueShape: "token",
+-      description: "Latitude (with --lon; overrides --location)",
+-    },
+-    {
+-      name: "--lon",
+-      argLabel: "<n>",
+-      valueShape: "token",
+-      description: "Longitude (with --lat; overrides --location)",
+-    },
+-    { name: "--json", description: "Emit a JSON envelope instead of TSV lines" },
+-  ],
+-  exits: [
+-    { code: 0, meaning: "reading fetched and verdict reported" },
+-    { code: 1, meaning: "bad flags, or the air-quality source was unreachable" },
+-  ],
+-  examples: [
+-    "ops tracking air-quality",
+-    "ops tracking air-quality --location provo --json",
+-    "ops tracking air-quality --lat 40.76 --lon -111.89",
+-  ],
+-}
+-
+-async function resolveLocation(
+-  latRaw: string | undefined,
+-  lonRaw: string | undefined,
+-  locationRaw: string | undefined,
+-  presets: Readonly<Record<string, ResolvedLocation | undefined>>
+-): Promise<ResolvedLocation> {
+-  if (latRaw !== undefined || lonRaw !== undefined) {
+-    if (latRaw === undefined || lonRaw === undefined) {
+-      throw inputError("--lat and --lon must be given together")
+-    }
+-    const latitude = Number(latRaw)
+-    const longitude = Number(lonRaw)
+-    if (!Number.isFinite(latitude) || latitude < -90 || latitude > 90) {
+-      throw inputError(`--lat must be a number in [-90, 90] (got "${latRaw}")`)
+-    }
+-    if (!Number.isFinite(longitude) || longitude < -180 || longitude > 180) {
+-      throw inputError(`--lon must be a number in [-180, 180] (got "${lonRaw}")`)
+-    }
+-    return { label: `${latitude},${longitude}`, latitude, longitude }
+-  }
+-
+-  const name = (locationRaw ?? "provo").toLowerCase()
+-  const preset = presets[name]
+-  if (preset === undefined) {
+-    const known = Object.keys(presets).join(", ")
+-    throw inputError(`unknown --location "${name}" (known presets: ${known}; or use --lat/--lon)`)
+-  }
+-  return preset
+-}
+-
+-export default async function trackingAirQuality(args: readonly string[]): Promise<void> {
+-  const parsed = parseArgs(help, args)
+-  const json = parsed.boolean("--json")
+-
+-  const location = await resolveLocation(
+-    parsed.string("--lat"),
+-    parsed.string("--lon"),
+-    parsed.string("--location"),
+-    LOCATION_PRESETS
+-  )
+-
+-  console.error(`Fetching air quality for ${location.label}…`)
+-  const reading = await fetchAirQuality(location)
+-  const assessment = assessOutdoor(reading)
+-
+-  if (json) {
+-    process.stdout.write(
+-      `${JSON.stringify({
+-        location: location.label,
+-        aqi: reading.aqi,
+-        category: reading.category,
+-        dominantPollutant: reading.dominantPollutant,
+-        source: reading.source,
+-        observedAt: reading.observedAt,
+-        verdict: assessment.verdict,
+-        indoorOnly: assessment.indoorOnly,
+-        pm25Driven: assessment.pm25Driven,
+-        headline: assessment.headline,
+-      })}\n`
+-    )
+-    return
+-  }
+-
+-  process.stdout.write(
+-    `location\t${location.label}\n` +
+-      `aqi\t${reading.aqi}\n` +
+-      `category\t${reading.category}\n` +
+-      `dominantPollutant\t${reading.dominantPollutant}\n` +
+-      `source\t${reading.source}\n` +
+-      `observedAt\t${reading.observedAt}\n` +
+-      `verdict\t${assessment.verdict}\n` +
+-      `indoorOnly\t${assessment.indoorOnly}\n` +
+-      `headline\t${assessment.headline}\n`
+-  )
+-}
+diff --git a/alan/tracking/daily/air-quality-command/air-quality-command.module.ts b/alan/tracking/daily/air-quality-command/air-quality-command.module.ts
+deleted file mode 100644
+index 5f50d7d69e53abe25d8be4a4615f945d2177aae7..0000000000000000000000000000000000000000
+--- a/alan/tracking/daily/air-quality-command/air-quality-command.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const airQualityCommand = {
+-  id: "01a069c8-ad1b-7fa8-808f-f69aa4af63b0",
+-  pageTypeSlug: "module",
+-  slug: "air-quality-command",
+-  definition: "the air outside said as a verdict on exerting oneself in it",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/alan/tracking/daily/cardio-sync/cardio-sync.module.code.ts b/alan/tracking/daily/cardio-sync/cardio-sync.module.code.ts
+deleted file mode 100644
+index b429b488afafbdc7fe51d48cce72d903f9fcf15e..0000000000000000000000000000000000000000
+--- a/alan/tracking/daily/cardio-sync/cardio-sync.module.code.ts
++++ /dev/null
+@@ -1,48 +0,0 @@
+-export const summary = "Recompute a day's activeCalories from the health samples Alan's watch sent"
+-
+-import type { CommandHelp } from "@akasha/command-system/command-declaring"
+-import { parseArgs } from "@akasha/command-system/parse-args"
+-import { getEsoDayStr } from "@akasha/day/eso-day"
+-import { inputError } from "@akasha/errors-core/exit-code"
+-import { rollupActiveCaloriesForDay } from "../day-active-calories/day-active-calories.module.code.ts"
+-
+-const DAY_RE = /^\d{4}-\d{2}-\d{2}$/
+-
+-export const help: CommandHelp = {
+-  flags: [
+-    {
+-      name: "--date",
+-      argLabel: "<YYYY-MM-DD>",
+-      valueShape: "token",
+-      description: "ESO day to recompute (default today)",
+-    },
+-    { name: "--json", description: "Emit a JSON envelope instead of TSV lines" },
+-  ],
+-  exits: [
+-    { code: 0, meaning: "activeCalories recomputed, and written unless unmeasured" },
+-    { code: 1, meaning: "bad --date" },
+-  ],
+-  examples: ["ops tracking cardio-sync", "ops tracking cardio-sync --date 2026-08-18"],
+-}
+-
+-export default async function trackingCardioSync(args: readonly string[]): Promise<void> {
+-  const parsed = parseArgs(help, args)
+-  const json = parsed.boolean("--json")
+-
+-  const dateRaw = parsed.string("--date")
+-  if (dateRaw !== undefined && !DAY_RE.test(dateRaw)) {
+-    throw inputError(`--date must be YYYY-MM-DD (got "${dateRaw}")`)
+-  }
+-  const dayStr = dateRaw ?? getEsoDayStr(new Date())
+-
+-  console.error(`Recomputing activeCalories for ${dayStr} from health samples…`)
+-  const { activeCalories, outcome } = await rollupActiveCaloriesForDay(dayStr)
+-
+-  if (json) {
+-    process.stdout.write(`${JSON.stringify({ day: dayStr, activeCalories, outcome })}\n`)
+-    return
+-  }
+-  process.stdout.write(
+-    `day\t${dayStr}\nactiveCalories\t${activeCalories ?? "-"}\noutcome\t${outcome}\n`
+-  )
+-}
+diff --git a/alan/tracking/daily/cardio-sync/cardio-sync.module.ts b/alan/tracking/daily/cardio-sync/cardio-sync.module.ts
+deleted file mode 100644
+index 51bc51c5aa38e4fc0be23f8ffee8236ebb0f13fb..0000000000000000000000000000000000000000
+--- a/alan/tracking/daily/cardio-sync/cardio-sync.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const cardioSync = {
+-  id: "01a069c8-ad1b-7232-880f-c955f0a1052c",
+-  pageTypeSlug: "module",
+-  slug: "cardio-sync",
+-  definition: "a day's active calories counted again from the readings behind them",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/alan/tracking/daily/nutrition-sync/nutrition-sync.module.code.ts b/alan/tracking/daily/nutrition-sync/nutrition-sync.module.code.ts
+deleted file mode 100644
+index d640a72e7a80699d588a5ae89303ab31bea7dc26..0000000000000000000000000000000000000000
+--- a/alan/tracking/daily/nutrition-sync/nutrition-sync.module.code.ts
++++ /dev/null
+@@ -1,49 +0,0 @@
+-export const summary = "Recompute a day's nutritionPoints from logged food rows (1pt/gram)"
+-
+-import type { CommandHelp } from "@akasha/command-system/command-declaring"
+-import { parseArgs } from "@akasha/command-system/parse-args"
+-import { getEsoDayStr } from "@akasha/day/eso-day"
+-import { inputError } from "@akasha/errors-core/exit-code"
+-
+-const DAY_RE = /^\d{4}-\d{2}-\d{2}$/
+-
+-export const help: CommandHelp = {
+-  flags: [
+-    {
+-      name: "--date",
+-      argLabel: "<YYYY-MM-DD>",
+-      valueShape: "token",
+-      description: "ESO day to recompute (default today)",
+-    },
+-    { name: "--json", description: "Emit a JSON envelope instead of TSV lines" },
+-  ],
+-  exits: [
+-    { code: 0, meaning: "nutritionPoints recomputed and written" },
+-    { code: 1, meaning: "bad --date" },
+-  ],
+-  examples: ["ops tracking nutrition-sync", "ops tracking nutrition-sync --date 2026-06-18"],
+-}
+-
+-export default async function trackingNutritionSync(args: readonly string[]): Promise<void> {
+-  const parsed = parseArgs(help, args)
+-  const json = parsed.boolean("--json")
+-
+-  const dateRaw = parsed.string("--date")
+-  if (dateRaw !== undefined && !DAY_RE.test(dateRaw)) {
+-    throw inputError(`--date must be YYYY-MM-DD (got "${dateRaw}")`)
+-  }
+-  const dayStr = dateRaw ?? getEsoDayStr(new Date())
+-
+-  const { rollupNutritionForDay } = await import(
+-    "../nutrition-points/nutrition-points.module.code.ts"
+-  )
+-
+-  console.error(`Recomputing nutritionPoints for ${dayStr} from food rows…`)
+-  const { nutritionPoints: points, outcome } = await rollupNutritionForDay(dayStr)
+-
+-  if (json) {
+-    process.stdout.write(`${JSON.stringify({ day: dayStr, nutritionPoints: points, outcome })}\n`)
+-    return
+-  }
+-  process.stdout.write(`day\t${dayStr}\nnutritionPoints\t${points}\noutcome\t${outcome}\n`)
+-}
+diff --git a/alan/tracking/daily/nutrition-sync/nutrition-sync.module.ts b/alan/tracking/daily/nutrition-sync/nutrition-sync.module.ts
+deleted file mode 100644
+index ac9aef1c6d21d2aa008d3c84ec31ed5f30b40976..0000000000000000000000000000000000000000
+--- a/alan/tracking/daily/nutrition-sync/nutrition-sync.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const nutritionSync = {
+-  id: "01a069c8-ad1b-7cc4-9423-547f7a32b53d",
+-  pageTypeSlug: "module",
+-  slug: "nutrition-sync",
+-  definition: "a day's nutrition points counted again from what Alan ate",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/alan/tracking/daily/strength-sync/strength-sync.module.code.ts b/alan/tracking/daily/strength-sync/strength-sync.module.code.ts
+deleted file mode 100644
+index f0209f81d571f04bb66011cf2dcc2b3b1806cd18..0000000000000000000000000000000000000000
+--- a/alan/tracking/daily/strength-sync/strength-sync.module.code.ts
++++ /dev/null
+@@ -1,48 +0,0 @@
+-export const summary =
+-  "Recompute a day's strengthVolume from workout-session volume (total lb lifted)"
+-
+-import type { CommandHelp } from "@akasha/command-system/command-declaring"
+-import { parseArgs } from "@akasha/command-system/parse-args"
+-import { getEsoDayStr } from "@akasha/day/eso-day"
+-import { inputError } from "@akasha/errors-core/exit-code"
+-
+-const DAY_RE = /^\d{4}-\d{2}-\d{2}$/
+-
+-export const help: CommandHelp = {
+-  flags: [
+-    {
+-      name: "--date",
+-      argLabel: "<YYYY-MM-DD>",
+-      valueShape: "token",
+-      description: "ESO day to recompute (default today)",
+-    },
+-    { name: "--json", description: "Emit a JSON envelope instead of TSV lines" },
+-  ],
+-  exits: [
+-    { code: 0, meaning: "strengthVolume recomputed and written" },
+-    { code: 1, meaning: "bad --date" },
+-  ],
+-  examples: ["ops tracking strength-sync", "ops tracking strength-sync --date 2026-06-18"],
+-}
+-
+-export default async function trackingStrengthSync(args: readonly string[]): Promise<void> {
+-  const parsed = parseArgs(help, args)
+-  const json = parsed.boolean("--json")
+-
+-  const dateRaw = parsed.string("--date")
+-  if (dateRaw !== undefined && !DAY_RE.test(dateRaw)) {
+-    throw inputError(`--date must be YYYY-MM-DD (got "${dateRaw}")`)
+-  }
+-  const dayStr = dateRaw ?? getEsoDayStr(new Date())
+-
+-  const { rollupStrengthForDay } = await import("../strength-points/strength-points.module.code.ts")
+-
+-  console.error(`Recomputing strengthVolume for ${dayStr} from workout-session volume…`)
+-  const { strengthVolume, outcome } = await rollupStrengthForDay(dayStr)
+-
+-  if (json) {
+-    process.stdout.write(`${JSON.stringify({ day: dayStr, strengthVolume, outcome })}\n`)
+-    return
+-  }
+-  process.stdout.write(`day\t${dayStr}\nstrengthVolume\t${strengthVolume}\noutcome\t${outcome}\n`)
+-}
+diff --git a/alan/tracking/daily/strength-sync/strength-sync.module.ts b/alan/tracking/daily/strength-sync/strength-sync.module.ts
+deleted file mode 100644
+index 1b746b17688aa38d97ef0a7ed705a9ea9f7a24d5..0000000000000000000000000000000000000000
+--- a/alan/tracking/daily/strength-sync/strength-sync.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const strengthSync = {
+-  id: "01a069c8-ad1b-79df-a932-59b2cd99001b",
+-  pageTypeSlug: "module",
+-  slug: "strength-sync",
+-  definition: "a day's strength volume counted again from the sets behind it",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/alan/tracking/daily/task-sync/task-sync.module.code.ts b/alan/tracking/daily/task-sync/task-sync.module.code.ts
+deleted file mode 100644
+index 491443751078d9fe31f05200ad49c4d6206d2a6a..0000000000000000000000000000000000000000
+--- a/alan/tracking/daily/task-sync/task-sync.module.code.ts
++++ /dev/null
+@@ -1,48 +0,0 @@
+-export const summary =
+-  "Recompute a day's taskPoints from completed health tasks (difficulty-tier points)"
+-
+-import type { CommandHelp } from "@akasha/command-system/command-declaring"
+-import { parseArgs } from "@akasha/command-system/parse-args"
+-import { getEsoDayStr } from "@akasha/day/eso-day"
+-import { inputError } from "@akasha/errors-core/exit-code"
+-
+-const DAY_RE = /^\d{4}-\d{2}-\d{2}$/
+-
+-export const help: CommandHelp = {
+-  flags: [
+-    {
+-      name: "--date",
+-      argLabel: "<YYYY-MM-DD>",
+-      valueShape: "token",
+-      description: "ESO day to recompute (default today)",
+-    },
+-    { name: "--json", description: "Emit a JSON envelope instead of TSV lines" },
+-  ],
+-  exits: [
+-    { code: 0, meaning: "taskPoints recomputed and written" },
+-    { code: 1, meaning: "bad --date" },
+-  ],
+-  examples: ["ops tracking task-sync", "ops tracking task-sync --date 2026-06-18"],
+-}
+-
+-export default async function trackingTaskSync(args: readonly string[]): Promise<void> {
+-  const parsed = parseArgs(help, args)
+-  const json = parsed.boolean("--json")
+-
+-  const dateRaw = parsed.string("--date")
+-  if (dateRaw !== undefined && !DAY_RE.test(dateRaw)) {
+-    throw inputError(`--date must be YYYY-MM-DD (got "${dateRaw}")`)
+-  }
+-  const dayStr = dateRaw ?? getEsoDayStr(new Date())
+-
+-  const { rollupHealthTaskPointsForDay } = await import("../task-points/task-points.module.code.ts")
+-
+-  console.error(`Recomputing taskPoints for ${dayStr} from completed health tasks…`)
+-  const { taskPoints: points, outcome } = await rollupHealthTaskPointsForDay(dayStr)
+-
+-  if (json) {
+-    process.stdout.write(`${JSON.stringify({ day: dayStr, taskPoints: points, outcome })}\n`)
+-    return
+-  }
+-  process.stdout.write(`day\t${dayStr}\ntaskPoints\t${points}\noutcome\t${outcome}\n`)
+-}
+diff --git a/alan/tracking/daily/task-sync/task-sync.module.ts b/alan/tracking/daily/task-sync/task-sync.module.ts
+deleted file mode 100644
+index 29398eeef8fe6f1f057ec26b4f2a4621ed133846..0000000000000000000000000000000000000000
+--- a/alan/tracking/daily/task-sync/task-sync.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const taskSync = {
+-  id: "01a069c8-ad1b-7147-9988-7199ef1e77d3",
+-  pageTypeSlug: "module",
+-  slug: "task-sync",
+-  definition: "a day's task points counted again from the rounds Alan finished",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/alan/tracking/daily/tracking-daily.domain.ts b/alan/tracking/daily/tracking-daily.domain.ts
+index ae3f8e36bc72bd0ebef57fa5cf058051e4be859d..68c9270c699a96eb8ad4bde4698183df5afa27cb 100644
+--- a/alan/tracking/daily/tracking-daily.domain.ts
++++ b/alan/tracking/daily/tracking-daily.domain.ts
+@@ -35,12 +35,6 @@ export const trackingDaily = {
+     "module/task-points",
+     "module/strength-points",
+     "module/topic-words",
+-    "module/air-quality-command",
+-    "module/cardio-sync",
+-    "module/nutrition-sync",
+-    "module/strength-sync",
+-    "module/task-sync",
+-    "module/words-sync",
+     "module/day-opening",
+   ],
+   invariants: [
+diff --git a/alan/tracking/daily/words-sync/words-sync.module.code.ts b/alan/tracking/daily/words-sync/words-sync.module.code.ts
+deleted file mode 100644
+index 29c663545f8ae67faa747166e5816250c4d58bf7..0000000000000000000000000000000000000000
+--- a/alan/tracking/daily/words-sync/words-sync.module.code.ts
++++ /dev/null
+@@ -1,66 +0,0 @@
+-export const summary = "Recompute a day's wisdomWords and intelligenceWords from the git history"
+-
+-import type { CommandHelp } from "@akasha/command-system/command-declaring"
+-import { parseArgs } from "@akasha/command-system/parse-args"
+-import { getEsoDayStr } from "@akasha/day/eso-day"
+-import { inputError } from "@akasha/errors-core/exit-code"
+-
+-const DAY_RE = /^\d{4}-\d{2}-\d{2}$/
+-
+-export const help: CommandHelp = {
+-  flags: [
+-    {
+-      name: "--date",
+-      argLabel: "<YYYY-MM-DD>",
+-      valueShape: "token",
+-      description: "ESO day to recompute (default today)",
+-    },
+-    { name: "--json", description: "Emit a JSON envelope instead of TSV lines" },
+-  ],
+-  exits: [
+-    { code: 0, meaning: "wisdomWords and intelligenceWords recomputed and written" },
+-    { code: 1, meaning: "bad --date, or a day before the counts began" },
+-  ],
+-  examples: ["ops tracking words-sync", "ops tracking words-sync --date 2026-09-03"],
+-}
+-
+-export default async function trackingWordsSync(args: readonly string[]): Promise<void> {
+-  const parsed = parseArgs(help, args)
+-  const json = parsed.boolean("--json")
+-
+-  const dateRaw = parsed.string("--date")
+-  if (dateRaw !== undefined && !DAY_RE.test(dateRaw)) {
+-    throw inputError(`--date must be YYYY-MM-DD (got "${dateRaw}")`)
+-  }
+-  const dayStr = dateRaw ?? getEsoDayStr(new Date())
+-
+-  const { rollupWisdomWordsForDay, rollupIntelligenceWordsForDay } = await import(
+-    "../topic-words/topic-words.module.code.ts"
+-  )
+-
+-  console.error(`Recomputing wisdomWords and intelligenceWords for ${dayStr} from git…`)
+-  const wisdom = await rollupWisdomWordsForDay(dayStr)
+-  const intelligence = await rollupIntelligenceWordsForDay(dayStr)
+-
+-  if (json) {
+-    process.stdout.write(
+-      `${JSON.stringify({
+-        day: dayStr,
+-        wisdomWords: wisdom.wisdomWords,
+-        wisdomShas: wisdom.shas,
+-        wisdomOutcome: wisdom.outcome,
+-        intelligenceWords: intelligence.intelligenceWords,
+-        intelligenceShas: intelligence.shas,
+-        intelligenceOutcome: intelligence.outcome,
+-      })}\n`
+-    )
+-    return
+-  }
+-  process.stdout.write(
+-    `day\t${dayStr}\n` +
+-      `wisdomWords\t${wisdom.wisdomWords}\n` +
+-      `wisdomOutcome\t${wisdom.outcome}\n` +
+-      `intelligenceWords\t${intelligence.intelligenceWords}\n` +
+-      `intelligenceOutcome\t${intelligence.outcome}\n`
+-  )
+-}
+diff --git a/alan/tracking/daily/words-sync/words-sync.module.ts b/alan/tracking/daily/words-sync/words-sync.module.ts
+deleted file mode 100644
+index 086f7369dcd2f0c6b7f8587d0a5c2ae8e5a758d6..0000000000000000000000000000000000000000
+--- a/alan/tracking/daily/words-sync/words-sync.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const wordsSync = {
+-  id: "01a069c8-ad1b-72d2-927e-bc0deb184867",
+-  pageTypeSlug: "module",
+-  slug: "words-sync",
+-  definition: "a day's wisdom and intelligence words counted again from what Alan read",
+-  code: "ts",
+-} as const satisfies Module
