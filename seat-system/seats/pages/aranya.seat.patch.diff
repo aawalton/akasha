@@ -463,3 +463,11 @@ index 1c34be6c23033a5c0b79df1288c68339bd7d0145..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../story/tower
 \ No newline at end of file
+diff --git a/story/ui/story-ui b/story/ui/story-ui
+deleted file mode 120000
+index ade27c356ebf88fc1c666c58c1ca327d21ba3e1c..0000000000000000000000000000000000000000
+--- a/story/ui/story-ui
++++ /dev/null
+@@ -1 +0,0 @@
+-../../story/ui
+\ No newline at end of file
