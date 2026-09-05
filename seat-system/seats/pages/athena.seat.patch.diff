@@ -1,0 +1,19 @@
+diff --git a/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts b/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
+index 3ecabfbf41a9660852de87b1f237a3032f491cfa..2a1ee137fe1d2ec05247e80b2dd175ef7d14609e 100644
+--- a/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
++++ b/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
+@@ -41,12 +41,12 @@ export const athenaCommandsAtTheRoot = {
+     {
+       statement: "There are no remaining ops cli commands.",
+       workingMemory:
+-        "15 ops pages remain under `command-system/ops-commands/pages`, 8 tracking among them. `dotfiles/bin/ops` went at 5b4ac772da, so every ops call was already dead: `sn` died at `ops seat start`, and five editor seat acts died with it. resume, reset and start are `akasha seat` subcommands now and their three pages went. `command-system/ops-calling` is still a second dispatcher with no test, and `block-ops-cli` still bars an agent from calling one.",
++        "14 ops pages remain under `command-system/ops-commands/pages`: 7 tracking, 3 seat, 4 loose. `dotfiles/bin/ops` and `command-system/ops-calling` are both gone, so no dispatcher exists and every ops call was already dead rather than pending. seat-inbox went, and a message now reaches a started seat as its boot prompt. compose-boot and compose-subagents are live, spawned by path on every seat launch, so only their ops pages are stale. `block-ops-cli` bars a call nothing could serve.",
+     },
+     {
+       statement: "Nothing names a command by its path.",
+       workingMemory:
+-        "Met for the editor and the shell. The mover repoints a whole path in a literal but never a prefix assembled at runtime: `COMMANDS_AT` was stale in harness-call and in command-server, and `ENDED_DIR` named a folder gone since 648fe2d287. Each was invisible for one reason and none had a test. harness-call assembles two paths now, both covered by a test proven against a seeded fault. `REPAIR_AT` in calling is left, naming a file in a message rather than in dispatch.",
++        "Met for the editor, the shell, the recipient resolver and monarch. The mover repoints a whole path in a literal, but never a prefix assembled at runtime nor a command's name sitting in an argv array: `COMMANDS_AT`, `ENDED_DIR` and every `ops` spawn were each invisible for that reason and none had a test. akasha is spawned by its whole path where no caller arranges a PATH. `REPAIR_AT` in calling is left, naming a file in a message rather than in dispatch.",
+     },
+   ],
+   constraints: [
