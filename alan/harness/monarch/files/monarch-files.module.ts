@@ -13,8 +13,7 @@ export const monarchFiles = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The checkout is read directly, because the categorization ring runs under a workstation timer where there is no service.",
+      statement: "The checkout is read directly.",
     },
     {
       invariantKind: "departure",
