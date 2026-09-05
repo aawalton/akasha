@@ -9,7 +9,7 @@ export const supervisorDecide = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This module is run as its own program so a supervisor can kill it at a ceiling.",
+      statement: "What asks for a decision imports this and calls it rather than running it.",
     },
     {
       invariantKind: "departure",

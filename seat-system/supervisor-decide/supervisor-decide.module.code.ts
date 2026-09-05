@@ -36,7 +36,7 @@ const NOTICE_OWNER = "seat-system/compose-notices/compose-notices.module.code.ts
 function requireNotice(all: Readonly<Record<string, string>>, key: string): string {
   const text = all[key]
   if (text === undefined) {
-    fail(
+    throw new Error(
       `no notice is called \`${key}\` — ${NOTICE_OWNER} owns that name and the document behind ` +
         "it, and a notice carrying nothing would reach a seat as an empty turn"
     )
@@ -44,18 +44,8 @@ function requireNotice(all: Readonly<Record<string, string>>, key: string): stri
   return text
 }
 
-// `notices` throws, because it is a function rather than a command. Here it is one, so a
-// composing that fails says what failed on the line a caller's mistake is said on.
-function allNotices(): Readonly<Record<string, string>> {
-  try {
-    return notices()
-  } catch (error) {
-    fail(error instanceof Error ? error.message : String(error))
-  }
-}
-
 function resumeNotices(): ResumeNotices {
-  const all = allNotices()
+  const all = notices()
   return {
     "restart-immediate": requireNotice(all, "restart-immediate"),
     "restart-deferred": requireNotice(all, "restart-deferred"),
@@ -75,7 +65,7 @@ export type LimitResumeAnswer =
 
 function limitResumeAnswer(decision: LimitResumeDecision): LimitResumeAnswer {
   if (decision.kind !== "nudge") return decision
-  const nudge = requireNotice(allNotices(), NUDGE_NOTICE)
+  const nudge = requireNotice(notices(), NUDGE_NOTICE)
   return { kind: "nudge", reason: decision.reason, nudge, floorMs: LIMIT_RESUME_FLOOR_MS }
 }
 
@@ -91,7 +81,7 @@ export type WaitResumeAnswer =
 
 function waitResumeAnswer(decision: WaitResumeDecision): WaitResumeAnswer {
   if (decision.kind !== "nudge") return decision
-  const nudge = requireNotice(allNotices(), WAIT_NUDGE_NOTICE)
+  const nudge = requireNotice(notices(), WAIT_NUDGE_NOTICE)
   return { kind: "nudge", reason: decision.reason, attempt: decision.attempt, nudge }
 }
 
@@ -111,15 +101,17 @@ const DECISIONS: Readonly<Record<string, (value: unknown, path: string) => unkno
 
 const KEYS: readonly string[] = Object.keys(DECISIONS)
 
+// What an importer asks for: an answer to every decision the payload names. It throws rather
+// than exiting, so a supervisor asking a question wrong is told rather than ended.
 export function answer(payload: Record<string, unknown>): Record<string, unknown> {
   const asked = Object.keys(payload)
   if (asked.length === 0) {
-    fail(`the payload asks nothing — this command takes ${KEYS.join(", ")}`)
+    throw new Error(`the payload asks nothing — this takes ${KEYS.join(", ")}`)
   }
   const stray = asked.filter((key) => !KEYS.includes(key))
   if (stray.length > 0) {
-    fail(
-      `\`${stray.join("`, `")}\` names no decision this command makes — it takes ${KEYS.join(", ")}`
+    throw new Error(
+      `\`${stray.join("`, `")}\` names no decision this makes — it takes ${KEYS.join(", ")}`
     )
   }
   const answers: Record<string, unknown> = {}
@@ -144,7 +136,13 @@ function rejectArguments(argv: readonly string[]): void {
 async function main(): Promise<void> {
   rejectArguments(process.argv.slice(2))
   const payload = record(await readPayload("-"), "the payload")
-  process.stdout.write(`${JSON.stringify(answer(payload), null, 2)}\n`)
+  let answered: Record<string, unknown>
+  try {
+    answered = answer(payload)
+  } catch (error) {
+    fail(error instanceof Error ? error.message : String(error))
+  }
+  process.stdout.write(`${JSON.stringify(answered, null, 2)}\n`)
 }
 
 if (import.meta.main) await main()

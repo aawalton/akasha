@@ -1,4 +1,4 @@
-import type { answer } from "../supervisor-decide/supervisor-decide.module.code.ts"
+import { answer } from "../supervisor-decide/supervisor-decide.module.code.ts"
 
 export function classifyRateLimitDeath(text: string): boolean {
   let lastAssistant: Record<string, unknown> | null = null
@@ -20,39 +20,25 @@ export function classifyRateLimitDeath(text: string): boolean {
 
 export const SUPERVISOR_DECIDE_COMMAND = "supervisor-decide"
 
-export const SUPERVISOR_DECIDE_CEILING_MS = 5_000
-
-// The specifier here is the one the type import above holds, so moving the decide module is a
-// diagnostic rather than a path that is not there when a decision is asked for.
-const SUPERVISOR_DECIDE_AT = new URL(
-  "../supervisor-decide/supervisor-decide.module.code.ts",
-  import.meta.url
-).pathname
-
-/** What the decide command answers. Callers narrow it themselves. */
+/** What the decide module answers. Callers narrow it themselves. */
 type DecideAnswer = ReturnType<typeof answer>
 
-export function askSupervisorDecide(stdin: string): Promise<unknown> {
-  return askCommandAt(SUPERVISOR_DECIDE_AT, stdin)
+// Every caller states its question as JSON, so that is what arrives here. The answering is a call
+// rather than a program, so a question that is no use is a throw rather than an exit code.
+function decided(stdin: string): DecideAnswer {
+  const payload: unknown = JSON.parse(stdin)
+  if (payload === null || typeof payload !== "object" || Array.isArray(payload)) {
+    throw new Error("the payload is not an object")
+  }
+  return answer(payload as Record<string, unknown>)
 }
 
-async function askCommandAt(entry: string, stdin: string): Promise<DecideAnswer> {
-  const proc = Bun.spawn({
-    cmd: [process.execPath, entry],
-    stdin: new TextEncoder().encode(stdin),
-    stdout: "pipe",
-    stderr: "pipe",
-  })
-  const ceiling = setTimeout(() => proc.kill(), SUPERVISOR_DECIDE_CEILING_MS)
+// Every caller stages this as a promise and catches a rejection, so a throw is handed back that
+// way rather than raised at the call.
+export function askSupervisorDecide(stdin: string): Promise<unknown> {
   try {
-    const [out, err, code] = await Promise.all([
-      new Response(proc.stdout).text(),
-      new Response(proc.stderr).text(),
-      proc.exited,
-    ])
-    if (code !== 0) throw new Error(`${entry} exited ${code}: ${err.trim()}`)
-    return JSON.parse(out) as DecideAnswer
-  } finally {
-    clearTimeout(ceiling)
+    return Promise.resolve(decided(stdin))
+  } catch (error) {
+    return Promise.reject(error instanceof Error ? error : new Error(String(error)))
   }
 }

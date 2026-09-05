@@ -4,7 +4,7 @@ export const supervisorLimitResumeEffects = {
   id: "01a06838-5a84-7006-be45-2e23ffbbeeca",
   pageTypeSlug: "module",
   slug: "supervisor-limit-resume-effects",
-  definition: "a rate-limit death read out of a transcript, and the decide command asked about it",
+  definition: "a rate-limit death read out of a transcript, and the decide module asked about it",
   code: "ts",
   test: "ts",
   invariants: [
@@ -27,22 +27,15 @@ export const supervisorLimitResumeEffects = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The decide command is spawned as a program rather than called as a function here.",
+      statement: "The decision is made by the decide module rather than here.",
     },
     {
       invariantKind: "departure",
-      statement: "A decide that has not answered in five seconds is killed.",
+      statement: "The decide module is imported from beside this one and its function called.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A decide that exits non-zero is at fault, and the fault carries what it wrote to stderr.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The decide module is reached beside this one rather than by a path from the root.",
+      statement: "A decide that throws is at fault, and the fault carries what it said.",
     },
   ],
 } as const satisfies Module
