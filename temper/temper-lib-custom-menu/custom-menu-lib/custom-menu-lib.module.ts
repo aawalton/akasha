@@ -9,7 +9,8 @@ export const customMenuLib = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A registered category outside the early to late range is clamped into it.",
+      statement:
+        "A registered category outside the early to late range is clamped into that range.",
     },
     {
       invariantKind: "departure",
