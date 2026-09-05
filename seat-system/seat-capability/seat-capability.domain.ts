@@ -10,7 +10,10 @@ export const seatCapability = {
       invariantKind: "departure",
       statement: "A seat reads a document without changing the document.",
     },
-    { invariantKind: "departure", statement: "A seat writes by changing what is in a repository." },
+    {
+      invariantKind: "departure",
+      statement: "A seat writes by changing the content a repository holds.",
+    },
     {
       invariantKind: "departure",
       statement: "A seat runs by making something happen outside the repositories.",
@@ -25,7 +28,7 @@ export const seatCapability = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat states by changing what the seat holds about itself.",
+      statement: "A seat states by changing the attributes the seat holds about itself.",
     },
     {
       invariantKind: "departure",
