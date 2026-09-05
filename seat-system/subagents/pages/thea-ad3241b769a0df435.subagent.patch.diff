@@ -1,0 +1,155 @@
+diff --git a/checks/cluster-checks/cluster-check.page-type.ts b/checks/cluster-checks/cluster-check.page-type.ts
+index 64026d276dbe6712a7c1e858792c59a65e849c78..c9f661d8f7d0fc6823441e19e24d2a59af031685 100644
+--- a/checks/cluster-checks/cluster-check.page-type.ts
++++ b/checks/cluster-checks/cluster-check.page-type.ts
+@@ -73,7 +73,6 @@ export const clusterCheck = {
+     "cluster-check/vite-supabase-rr-define",
+     "cluster-check/widget-payload-shape-mirror",
+     "cluster-check/workspaces-mainseam",
+-    "module/app-build-packages",
+     "module/ast-grep-configs",
+     "module/ast-grep-rules",
+     "module/audit-reading",
+@@ -93,7 +92,6 @@ export const clusterCheck = {
+     "module/territory-map",
+     "module/test-step-loading",
+     "module/test-step-paths",
+-    "module/unbuilt-router-apps",
+     "module/violation-reporting",
+     "module/widget-payload-shape-mirror",
+     "module/widget-payloads",
+diff --git a/checks/cluster-checks/modules/app-build-packages/app-build-packages.module.code.ts b/checks/cluster-checks/modules/app-build-packages/app-build-packages.module.code.ts
+deleted file mode 100644
+index 5c1667930719a26968515a321d0ab9d75db5a244..0000000000000000000000000000000000000000
+--- a/checks/cluster-checks/modules/app-build-packages/app-build-packages.module.code.ts
++++ /dev/null
+@@ -1,31 +0,0 @@
+-export const ADDON_BUNDLE_BUILD_PACKAGES: ReadonlySet<string> = new Set(["@akasha/temper-web"])
+-
+-export interface AppBuildCandidate {
+-  readonly name: string
+-  readonly dir: string
+-  readonly hasBuildScript: boolean
+-}
+-
+-export interface AppBuildTarget {
+-  readonly name: string
+-  readonly dir: string
+-}
+-
+-export function appBuildSlug(dir: string): string {
+-  return dir.replaceAll("/", "-")
+-}
+-
+-export function selectAppBuildPackages(
+-  entries: readonly AppBuildCandidate[]
+-): readonly AppBuildTarget[] {
+-  const selected = entries
+-    .filter((e) => e.hasBuildScript)
+-    .map((e) => ({ name: e.name, dir: e.dir }))
+-    .sort((a, b) => a.dir.localeCompare(b.dir))
+-  if (selected.length === 0) {
+-    throw new Error(
+-      `selectAppBuildPackages: none of the ${entries.length} workspace(s) given declares a \`scripts.build\`, so every app-build gate would vanish from the \`check\` workflow and the branch would go green one bundler pass shorter. Refusing rather than gating nothing.`
+-    )
+-  }
+-  return selected
+-}
+diff --git a/checks/cluster-checks/modules/app-build-packages/app-build-packages.module.ts b/checks/cluster-checks/modules/app-build-packages/app-build-packages.module.ts
+deleted file mode 100644
+index 3c5b38878e7656c2384c5886eac6a191b249cc50..0000000000000000000000000000000000000000
+--- a/checks/cluster-checks/modules/app-build-packages/app-build-packages.module.ts
++++ /dev/null
+@@ -1,28 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const appBuildPackages = {
+-  id: "01a06880-1000-7000-9000-000000000007",
+-  pageTypeSlug: "module",
+-  slug: "app-build-packages",
+-  definition: "the workspaces an app-build step is composed for",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A workspace declaring no build script is built by no step.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The workspaces are answered in path order.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A selection holding nothing is refused rather than answered, because a branch would then go green one bundler pass shorter.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A step's name is the workspace's path with its separators flattened.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/checks/cluster-checks/modules/unbuilt-router-apps/unbuilt-router-apps.module.code.ts b/checks/cluster-checks/modules/unbuilt-router-apps/unbuilt-router-apps.module.code.ts
+deleted file mode 100644
+index ef13806f1a9400ba52d5bdfaefbf27e1dd20f14e..0000000000000000000000000000000000000000
+--- a/checks/cluster-checks/modules/unbuilt-router-apps/unbuilt-router-apps.module.code.ts
++++ /dev/null
+@@ -1,28 +0,0 @@
+-import { selectAppBuildPackages } from "../app-build-packages/app-build-packages.module.code.ts"
+-import {
+-  discoverRouterApps,
+-  type RouterApp,
+-} from "../router-app-discovery/router-app-discovery.module.code.ts"
+-import { loadWorkspaces } from "../test-step-loading/test-step-loading.module.code.ts"
+-
+-export function selectUnbuiltRouterApps(
+-  apps: readonly RouterApp[],
+-  builtRoots: ReadonlySet<string>
+-): readonly RouterApp[] {
+-  return apps.filter((app) => !builtRoots.has(app.buildRoot))
+-}
+-
+-export function discoverBuiltAppRoots(repoRoot: string): ReadonlySet<string> {
+-  const selected = selectAppBuildPackages(
+-    loadWorkspaces(repoRoot).map((workspace) => ({
+-      name: workspace.name,
+-      dir: workspace.root,
+-      hasBuildScript: workspace.pkg.scripts?.build !== undefined,
+-    }))
+-  )
+-  return new Set(selected.map((target) => target.dir))
+-}
+-
+-export function discoverUnbuiltRouterApps(repoRoot: string): readonly RouterApp[] {
+-  return selectUnbuiltRouterApps(discoverRouterApps(repoRoot), discoverBuiltAppRoots(repoRoot))
+-}
+diff --git a/checks/cluster-checks/modules/unbuilt-router-apps/unbuilt-router-apps.module.ts b/checks/cluster-checks/modules/unbuilt-router-apps/unbuilt-router-apps.module.ts
+deleted file mode 100644
+index 625ea5495fc76717446f3fbcd61639953b4831c5..0000000000000000000000000000000000000000
+--- a/checks/cluster-checks/modules/unbuilt-router-apps/unbuilt-router-apps.module.ts
++++ /dev/null
+@@ -1,24 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const unbuiltRouterApps = {
+-  id: "01a06880-1000-7000-9000-000000000006",
+-  pageTypeSlug: "module",
+-  slug: "unbuilt-router-apps",
+-  definition: "a router app no app-build step builds",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "An app is built where a build step names the app's build root.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An app whose build root no step names is unbuilt.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The built roots are read from the same selection the build steps are composed from.",
+-    },
+-  ],
+-} as const satisfies Module
