@@ -1,0 +1,12 @@
+diff --git a/service-system/cluster-services/pages/ddns-headscale/ddns-headscale.cluster-service.ts b/service-system/cluster-services/pages/ddns-headscale/ddns-headscale.cluster-service.ts
+index 9a01f03a01935fcd03816de3a3bad0aefaf9b9ba..52de8ff41d4deb5ae57cd1408494ae62a5f12f1f 100644
+--- a/service-system/cluster-services/pages/ddns-headscale/ddns-headscale.cluster-service.ts
++++ b/service-system/cluster-services/pages/ddns-headscale/ddns-headscale.cluster-service.ts
+@@ -10,6 +10,5 @@ export const ddnsHeadscale = {
+   resourceName: "ddns-headscale",
+   image: "registry.registry.svc.cluster.local:5000/cluster/ci:latest",
+   schedule: "*/5 * * * *",
+-  manifestCode:
+-    "service-system/cluster-services/pages/ddns-headscale/ddns-headscale.cluster-service.code.attachment.ts",
++  manifestSlug: "ddns-headscale",
+ } as const satisfies ClusterService
