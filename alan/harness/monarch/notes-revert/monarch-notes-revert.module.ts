@@ -20,7 +20,7 @@ export const monarchNotesRevert = {
     {
       invariantKind: "departure",
       statement:
-        "A row already standing as it was snapshotted is passed over rather than rewritten.",
+        "A row already standing as that row was snapshotted is passed over rather than rewritten.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,7 @@ export const monarchNotesRevert = {
     {
       invariantKind: "departure",
       statement:
-        "The live row is read on its own day before it is judged, rather than judged from our copy.",
+        "The live row is read on its own day before that row is judged, rather than judged from our copy.",
     },
     {
       invariantKind: "stopgap",
