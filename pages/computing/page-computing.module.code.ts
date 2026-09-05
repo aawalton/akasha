@@ -60,6 +60,19 @@ function faultIn(thrown: unknown): string {
   return thrown instanceof Error ? thrown.message : String(thrown)
 }
 
+// A number that is not finite is no reading akasha keeps: a formula reads one as absent, a
+// query narrows one away, and `JUDGED.number` above refuses a calculation that answers one.
+// So one a page carries is left off the page a calculation is handed, and the calculation
+// meets absent where it would otherwise meet Infinity or NaN.
+function presentIn(value: Held): Held {
+  const held: Held = {}
+  for (const [key, one] of Object.entries(value)) {
+    if (typeof one === "number" && !Number.isFinite(one)) continue
+    held[key] = one
+  }
+  return held
+}
+
 export function computingOver(source: Source): Computing {
   const answers = new Map<string, Answer>()
   const views = new Map<string, Held>()
@@ -110,7 +123,7 @@ export function computingOver(source: Source): Computing {
   const viewOf = (slug: string, subject: Subject): Held => {
     const already = views.get(slug)
     if (already !== undefined) return already
-    const view: Held = { ...subject.value }
+    const view: Held = presentIn(subject.value)
     for (const one of subject.computed) {
       Object.defineProperty(view, one.key, {
         enumerable: true,

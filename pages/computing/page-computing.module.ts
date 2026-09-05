@@ -18,6 +18,14 @@ export const pageComputing = {
     },
     {
       invariantKind: "departure",
+      statement: "A number that is not finite is absent on the page handed to a calculation.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A number that is not finite remains in what a page carries.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A computed key is worked out once over one page.",
     },
     {

@@ -179,6 +179,42 @@ describe("the values a page type's calculations work out", () => {
     expect(working?.dark.size).toBe(0)
   })
 
+  test("a number that is not finite is absent on the page handed to a calculation", () => {
+    for (const odd of [Infinity, -Infinity, NaN]) {
+      const source = sourceOf({
+        day: page("1", { points: odd, sound: 4 }, [
+          held("counted", "number", (one) => ((one["points"] as number | undefined) ?? 0) + 1),
+          held("carried", "boolean", (one) => "points" in one),
+          held("beside", "number", (one) => one["sound"] as number),
+        ]),
+      })
+      const working = computingOver(source).workedAt("day")
+      expect(working?.value["counted"]).toBe(1)
+      expect(working?.value["carried"]).toBe(false)
+      expect(working?.value["beside"]).toBe(4)
+    }
+  })
+
+  test("a number that is not finite is absent to a reach as well", () => {
+    const source = sourceOf({
+      one: page("1", { points: Infinity }, []),
+      two: page("2", {}, [
+        held("borrowed", "number", (_own, reach) => {
+          const other = reach.target<Held>("one")
+          return other === null ? null : ((other["points"] as number | undefined) ?? 7)
+        }),
+      ]),
+    })
+    const working = computingOver(source).workedAt("two")
+    expect(working?.value["borrowed"]).toBe(7)
+  })
+
+  test("a number that is not finite remains in what a page carries", () => {
+    const source = sourceOf({ day: page("1", { points: Infinity }, []) })
+    const working = computingOver(source).workedAt("day")
+    expect(working?.value["points"]).toBe(Infinity)
+  })
+
   test("a page no slug names is answered as nothing", () => {
     expect(computingOver(sourceOf({})).workedAt("gone")).toBe(null)
   })
