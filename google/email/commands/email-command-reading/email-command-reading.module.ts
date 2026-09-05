@@ -64,7 +64,7 @@ export const emailCommandReading = {
     },
     {
       invariantKind: "departure",
-      statement: "What a command answers is JSON, one report line for each line of that JSON.",
+      statement: "A command answers JSON, one report line for each line of that JSON.",
     },
     {
       invariantKind: "departure",
