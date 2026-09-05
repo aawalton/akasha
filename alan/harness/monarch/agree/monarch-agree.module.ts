@@ -34,7 +34,7 @@ export const monarchAgree = {
     {
       invariantKind: "departure",
       statement:
-        "What settles the same way every run stands as the module's test rather than here.",
+        "A claim that settles the same way every run stands as the module's test rather than here.",
     },
     {
       invariantKind: "absence",
