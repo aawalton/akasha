@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.ts b/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.ts
-index 91ae90b3c380a3b3b991ef8fb8ee5867f47bee89..6294a6dbc342c01ca24e5022de1bc9ce1997748f 100644
+index 91ae90b3c380a3b3b991ef8fb8ee5867f47bee89..c462f4619140aa7373309b87e930671a259b1a64 100644
 --- a/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.ts
 +++ b/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.ts
 @@ -62,7 +62,7 @@ export const packageReachedWhereNamed = {
@@ -9,6 +9,15 @@ index 91ae90b3c380a3b3b991ef8fb8ee5867f47bee89..6294a6dbc342c01ca24e5022de1bc9ce
        statement:
 -        "A package declaring no interface is not enforced against what reaches the package.",
 +        "A package declaring no interface is not enforced against the files that reach the package.",
+     },
+     {
+       invariantKind: "departure",
+@@ -74,7 +74,7 @@ export const packageReachedWhereNamed = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A package is named in a refusal by what its manifest calls the package.",
++      statement: "A package is named in a refusal by the name its manifest calls the package.",
      },
      {
        invariantKind: "departure",
