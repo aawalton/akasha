@@ -51,7 +51,7 @@ test("a throw wrapped in a block still ends the dispatch", () => {
   ).toEqual([])
 })
 
-test("the line named is the line the switch stands on", () => {
+test("the line named is the line the switch is on", () => {
   const said = exhaustiveDispatch(parsed(switching("")))
   expect(said[0]?.line).toBe(2)
 })

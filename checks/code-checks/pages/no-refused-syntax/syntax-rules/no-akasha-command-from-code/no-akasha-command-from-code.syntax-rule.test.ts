@@ -32,33 +32,33 @@ test("the dispatcher reached through a bound name and a join is refused", () => 
   expect(said[0]?.line).toBe(2)
 })
 
-test("the dispatcher written as data and launched by nothing stands", () => {
+test("the dispatcher written as data and launched by nothing is left", () => {
   const text = 'const DISPATCHER = "akasha/command-system/cli/cli.module.code.ts"\n'
   expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
 })
 
-test("the dispatcher handed to a path reader stands", () => {
+test("the dispatcher handed to a path reader is left", () => {
   const text = 'expect(rootOf("/one/akasha/command-system/cli/cli.module.code.ts")).toBe("/one")\n'
   expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
 })
 
-test("the command named in text shown to a reader stands", () => {
+test("the command named in text shown to a reader is left", () => {
   const text = 'const READ_CALL = "akasha read --file-path"\n'
   expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
 })
 
-test("the command's name argued to another program stands", () => {
+test("the command's name argued to another program is left", () => {
   const text = 'spawnSync("git", ["clone", "akasha"])\n'
   expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
 })
 
-test("a file standing in the dispatcher's own folder is refused nothing", () => {
+test("a file sitting in the dispatcher's own folder is refused nothing", () => {
   const at = "akasha/command-system/cli/cli.module.test.ts"
   const text = 'Bun.spawnSync([process.execPath, "akasha/command-system/cli/cli.module.code.ts"])\n'
   expect(noAkashaCommandFromCode({ path: at, source: parsedAs(at, text) })).toEqual([])
 })
 
-test("a program starting itself to outlive its caller stands", () => {
+test("a program starting itself to outlive its caller is left", () => {
   const text = "Bun.spawn([process.execPath, import.meta.path, root, ...args])\n"
   expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
 })
@@ -67,11 +67,11 @@ test("the command run through the shell is refused", () => {
   expect(noAkashaCommandFromCode(parsed("$`akasha write --file-path one`\n"))).toHaveLength(1)
 })
 
-test("another program run through the shell stands", () => {
+test("another program run through the shell is left", () => {
   expect(noAkashaCommandFromCode(parsed("$`git status`\n"))).toEqual([])
 })
 
-test("the line named is the line the call stands on", () => {
+test("the line named is the line the call is on", () => {
   const text = 'const one = 1\nconst two = 2\nspawnSync("akasha", [])\n'
   expect(noAkashaCommandFromCode(parsed(text))[0]?.line).toBe(3)
 })

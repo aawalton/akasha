@@ -35,7 +35,7 @@ export const noAkashaCommandFromCode = {
     },
     {
       invariantKind: "departure",
-      statement: "A file standing in the dispatcher's own folder is judged not.",
+      statement: "A file sitting in the dispatcher's own folder is judged not.",
     },
     {
       invariantKind: "departure",
