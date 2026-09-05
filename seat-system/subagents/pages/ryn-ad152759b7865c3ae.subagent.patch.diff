@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/inference-pool/reconcile-plan/reconcile-plan.module.ts b/infrastructure/inference-pool/reconcile-plan/reconcile-plan.module.ts
+index 21a7d5c9b09a616270e14c8346e072e593aff08a..ae62df9d0f400d1abcc94889d50ceb9c2a5f807f 100644
+--- a/infrastructure/inference-pool/reconcile-plan/reconcile-plan.module.ts
++++ b/infrastructure/inference-pool/reconcile-plan/reconcile-plan.module.ts
+@@ -14,7 +14,7 @@ export const reconcilePlan = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A managed environment is kept even though no service declares it.",
++      statement: "A managed environment is kept even though no service declares that environment.",
+     },
+     {
+       invariantKind: "departure",
