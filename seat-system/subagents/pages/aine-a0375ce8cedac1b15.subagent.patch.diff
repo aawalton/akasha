@@ -1,0 +1,65 @@
+diff --git a/person-system/device-secret-keeping/device-secret-keeping.module.code.ts b/person-system/device-secret-keeping/device-secret-keeping.module.code.ts
+index f1bedd844599fe99a7aa22c3df0917ff82e54b92..8062e8fc7277cff972a51b33613439b94caad8c2 100644
+--- a/person-system/device-secret-keeping/device-secret-keeping.module.code.ts
++++ b/person-system/device-secret-keeping/device-secret-keeping.module.code.ts
+@@ -39,7 +39,7 @@ const STAMPED = 6
+ 
+ const OVER = 256
+ 
+-const NO_MATCH = "no device secret stands for the secret presented"
++const NO_MATCH = "no device secret represents the secret presented"
+ 
+ export type Presented =
+   | { readonly ok: true; readonly secret: string }
+diff --git a/person-system/device-secret-keeping/device-secret-keeping.module.test.ts b/person-system/device-secret-keeping/device-secret-keeping.module.test.ts
+index b9b1ca7f39b8c6db265300730feec6a48ffc9503..9dc4b357f3caa1fe754550a89efc6d4b16d7e082 100644
+--- a/person-system/device-secret-keeping/device-secret-keeping.module.test.ts
++++ b/person-system/device-secret-keeping/device-secret-keeping.module.test.ts
+@@ -107,7 +107,7 @@ test("a slug becomes an export name that opens with a letter", () => {
+   expect(name).toMatch(AN_IDENTIFIER)
+ })
+ 
+-test("a page stands at a path under the device secrets folder", () => {
++test("a page is at a path under the device secrets folder", () => {
+   expect(deviceSecretPath("alan-a1b2")).toBe(
+     "akasha/person-system/device-secrets/pages/alan-a1b2.device-secret.ts"
+   )
+diff --git a/person-system/device-secret-keeping/device-secret-keeping.module.ts b/person-system/device-secret-keeping/device-secret-keeping.module.ts
+index 9687f40bb4fffb87fba4e42ead7225723ff33d0f..c623e905e354f5a7793508aa67c73a04ad561364 100644
+--- a/person-system/device-secret-keeping/device-secret-keeping.module.ts
++++ b/person-system/device-secret-keeping/device-secret-keeping.module.ts
+@@ -30,7 +30,7 @@ export const deviceSecretKeeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A hash standing on two pages is read to neither page.",
++      statement: "A hash on two pages is read to neither page.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/person-system/device-secrets/device-secret.page-type.ts b/person-system/device-secrets/device-secret.page-type.ts
+index e9c2af2e13e6e9c12d54fcf04b2d7b9c0d93005e..af8512665fe0f847998ddc1b92b29ce8d189da7e 100644
+--- a/person-system/device-secrets/device-secret.page-type.ts
++++ b/person-system/device-secrets/device-secret.page-type.ts
+@@ -35,7 +35,7 @@ export const deviceSecret = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A device secret stands for the account the device secret was minted for.",
++      statement: "A device secret represents the account the device secret was minted for.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/person-system/device-secrets/properties/device-secret-revoked-at.instant-property.ts b/person-system/device-secrets/properties/device-secret-revoked-at.instant-property.ts
+index dab1872a4e87bfa0bcf48a95d48fc5c7fa1b0416..31516cfdd7707fa8829068c19e6a62669aa75fa4 100644
+--- a/person-system/device-secrets/properties/device-secret-revoked-at.instant-property.ts
++++ b/person-system/device-secrets/properties/device-secret-revoked-at.instant-property.ts
+@@ -11,7 +11,7 @@ export const deviceSecretRevokedAt = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A device secret stating no value for this property still stands.",
++      statement: "A device secret stating no value for this property remains taken.",
+     },
+   ],
+ } as const satisfies InstantProperty
