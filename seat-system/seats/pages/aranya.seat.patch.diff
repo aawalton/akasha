@@ -103,3 +103,11 @@ index c15253be37411442a4144c8ae2682c5ed1080dab..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../design/forms
 \ No newline at end of file
+diff --git a/design/layout/design-layout b/design/layout/design-layout
+deleted file mode 120000
+index c77f0971caae0714f6d5597d65567115222be900..0000000000000000000000000000000000000000
+--- a/design/layout/design-layout
++++ /dev/null
+@@ -1 +0,0 @@
+-../../design/layout
+\ No newline at end of file
