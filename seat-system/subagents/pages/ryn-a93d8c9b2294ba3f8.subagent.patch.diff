@@ -232,3 +232,17 @@ index 0e9e62e6d4f68b574df1c477543d54c9ac8cf556..2d7b8cf4e866c567131f937789ae0cea
 -    },
    ],
  } as const satisfies EsoAddon
+diff --git a/temper/temper-keybinder-addon/temper-keybinder-addon.eso-addon.ts b/temper/temper-keybinder-addon/temper-keybinder-addon.eso-addon.ts
+index 66d538969f4867049bdd6cce4f00b196f4026c49..037afd9c52178f7062f2dbf54a29845b146676ab 100644
+--- a/temper/temper-keybinder-addon/temper-keybinder-addon.eso-addon.ts
++++ b/temper/temper-keybinder-addon/temper-keybinder-addon.eso-addon.ts
+@@ -51,9 +51,5 @@ export const temperKeybinderAddon = {
+       invariantKind: "constraint",
+       statement: "The game protects rebinding.",
+     },
+-    {
+-      invariantKind: "constraint",
+-      statement: "The game reloads an addon only when the whole client reloads.",
+-    },
+   ],
+ } as const satisfies EsoAddon
