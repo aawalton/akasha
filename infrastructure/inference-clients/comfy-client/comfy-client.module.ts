@@ -13,11 +13,11 @@ export const comfyClient = {
     },
     {
       invariantKind: "departure",
-      statement: "An input image is uploaded before the graph naming it is queued.",
+      statement: "An input image is uploaded before the graph naming that image is queued.",
     },
     {
       invariantKind: "departure",
-      statement: "An upload overwrites the name it lands under.",
+      statement: "An upload overwrites the name that upload lands under.",
     },
     {
       invariantKind: "departure",
