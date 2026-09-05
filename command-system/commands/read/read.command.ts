@@ -86,11 +86,7 @@ export const read = {
       invariantKind: "departure",
       statement: "A run of lines begins after the line the record holds as read.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "A run of lines short of the last line says nothing past that line reached the reader.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A run of lines short of the last line is recorded as how far the body reached.",
