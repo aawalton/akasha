@@ -1,5 +1,5 @@
 diff --git a/commands/agent-forest/agent-forest.command.ts b/commands/agent-forest/agent-forest.command.ts
-index adf5a53dc5ad838ed2e843f6a52e8b0e974d6bf4..5c3331f36e1ae64bd71771ca4e78ea490ee7f833 100644
+index adf5a53dc5ad838ed2e843f6a52e8b0e974d6bf4..26f00a6922cbb6f3082e2230a6bbcdd0d3d962ca 100644
 --- a/commands/agent-forest/agent-forest.command.ts
 +++ b/commands/agent-forest/agent-forest.command.ts
 @@ -48,7 +48,7 @@ export const agentForest = {
@@ -11,12 +11,18 @@ index adf5a53dc5ad838ed2e843f6a52e8b0e974d6bf4..5c3331f36e1ae64bd71771ca4e78ea49
      },
      {
        invariantKind: "departure",
-@@ -58,7 +58,7 @@ export const agentForest = {
+@@ -58,11 +58,12 @@ export const agentForest = {
      {
        invariantKind: "departure",
        statement:
 -        "A seat with an agent present in it reads `live` true, and every other seat false.",
 +        "A seat with an agent present in that seat reads `live` true, and every other seat false.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An ancestor is fetched back so a live branch keeps the root it belongs under.",
++      statement:
++        "An ancestor is fetched back so a live branch keeps the root that branch belongs under.",
      },
      {
        invariantKind: "departure",
