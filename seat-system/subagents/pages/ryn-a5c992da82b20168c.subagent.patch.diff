@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/commands/track/track.command.ts b/commands/track/track.command.ts
-index 1c3db6ed3e1034a28fc05c0c11260215df9a1376..d8fe5fc14e52342450fce2e0bdb18077af996ec5 100644
+index 1c3db6ed3e1034a28fc05c0c11260215df9a1376..206ccb148eda69b50d12f70d1b805517361b1c18 100644
 --- a/commands/track/track.command.ts
 +++ b/commands/track/track.command.ts
 @@ -75,7 +75,7 @@ export const track = {
@@ -31,3 +31,12 @@ index 1c3db6ed3e1034a28fc05c0c11260215df9a1376..d8fe5fc14e52342450fce2e0bdb18077
      },
      {
        invariantKind: "departure",
+@@ -288,7 +289,7 @@ export const track = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A `--dry-run` judges what would land and writes nothing.",
++      statement: "A `--dry-run` judges the change that would land and writes nothing.",
+     },
+     {
+       invariantKind: "absence",
