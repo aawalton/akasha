@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/editor-extension/seat-act-confirm/seat-act-confirm.module.ts b/editor-extension/seat-act-confirm/seat-act-confirm.module.ts
+index 239ec50cb524f8b167508426caba15697f1e4947..baa2204122774f7f88599a30340e0391051b1222 100644
+--- a/editor-extension/seat-act-confirm/seat-act-confirm.module.ts
++++ b/editor-extension/seat-act-confirm/seat-act-confirm.module.ts
+@@ -13,7 +13,7 @@ export const seatActConfirm = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A stopped seat is asked nothing, because it has no turn to lose.",
++      statement: "A stopped seat is asked nothing, because that seat has no turn to lose.",
+     },
+     {
+       invariantKind: "departure",
