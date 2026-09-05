@@ -1183,3 +1183,11 @@ index b8c4ed0da8a20372313ec59d26458ce39d5e2ba1..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-lib-async
 \ No newline at end of file
+diff --git a/temper/temper-lib-character-knowledge/temper-lib-character-knowledge b/temper/temper-lib-character-knowledge/temper-lib-character-knowledge
+deleted file mode 120000
+index c7095034859f764b98c3d70e6e02f13e4f643157..0000000000000000000000000000000000000000
+--- a/temper/temper-lib-character-knowledge/temper-lib-character-knowledge
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-lib-character-knowledge
+\ No newline at end of file
