@@ -267,18 +267,23 @@ export type Holds = (folder: string) => Holding
 
 const NOTHING: Holding = { names: [], holds: null, declared: new Set<string>() }
 
-function pluralOf(index: Answering, page: Held): string | null {
-  if (page.pageTypeSlug !== PAGE_TYPE || page.slug === null) return null
+export function pairingOf(index: Answering, page: Held): readonly string[] {
+  if (page.pageTypeSlug !== PAGE_TYPE || page.slug === null) return []
   const value = index.pageAt(PAGE_TYPE, page.slug)
-  return value === null ? null : textAt(value, PLURAL_SLUG)
+  const plural = value === null ? null : textAt(value, PLURAL_SLUG)
+  return plural === null ? [page.slug] : [page.slug, plural]
+}
+
+function pairs(index: Answering, page: Held, said: Held): boolean {
+  return said.slug !== null && pairingOf(index, page).includes(said.slug)
 }
 
 export function pairedIn(index: Answering, pages: readonly Held[]): readonly Held[] {
   const [one, two] = pages
   if (one === undefined || pages.length > 2) return []
   if (two === undefined) return [one]
-  if (two.pageTypeSlug === PACKAGE && two.slug === pluralOf(index, one)) return [one, two]
-  if (one.pageTypeSlug === PACKAGE && one.slug === pluralOf(index, two)) return [two, one]
+  if (two.pageTypeSlug === PACKAGE && pairs(index, one, two)) return [one, two]
+  if (one.pageTypeSlug === PACKAGE && pairs(index, two, one)) return [two, one]
   return []
 }
 
