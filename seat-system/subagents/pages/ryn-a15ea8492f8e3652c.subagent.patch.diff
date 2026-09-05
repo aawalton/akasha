@@ -1,8 +1,8 @@
 diff --git a/editor-extension/page-tree-assemble/page-tree-assemble.module.ts b/editor-extension/page-tree-assemble/page-tree-assemble.module.ts
-index a3a198892942a0f0a3b93a238ac7487f3e3abf07..85d559b42c68b38f59b08d704f650e7faf8103c8 100644
+index a3a198892942a0f0a3b93a238ac7487f3e3abf07..d1b058fda380d3b9bca8a983c72970558f7f7273 100644
 --- a/editor-extension/page-tree-assemble/page-tree-assemble.module.ts
 +++ b/editor-extension/page-tree-assemble/page-tree-assemble.module.ts
-@@ -55,11 +55,12 @@ export const pageTreeAssemble = {
+@@ -55,16 +55,17 @@ export const pageTreeAssemble = {
      },
      {
        invariantKind: "departure",
@@ -14,6 +14,12 @@ index a3a198892942a0f0a3b93a238ac7487f3e3abf07..85d559b42c68b38f59b08d704f650e7f
 -      statement: "A page type naming two types above it is drawn once under each of them.",
 +      statement:
 +        "A page type naming two types above that page type is drawn once under each of those types.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "The drawing under the first type a page type names above it keeps the id `type/<slug>`.",
++        "The drawing under the first type a page type names above that page type keeps the id `type/<slug>`.",
      },
      {
        invariantKind: "departure",
