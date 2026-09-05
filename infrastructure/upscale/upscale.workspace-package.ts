@@ -20,7 +20,6 @@ export const upscale = {
     "shell-script/upscale-provision",
     "shell-script/upscale-run",
     "shell-script/upscale-seedvr2",
-    "shell-script/upscale-smoke",
     "shell-script/upscale-srpo",
     "shell-script/upscale-up",
   ],
