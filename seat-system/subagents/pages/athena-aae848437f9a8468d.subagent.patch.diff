@@ -197,6 +197,21 @@ index 449abb5b20ccc09c9fedc7e9929e9ebb542c3694..b68fa3672f94da342900cb9da02d7c6f
    writing(
      root,
      path,
+diff --git a/context/warrants/persona-page-type/persona-page-type.context-warrant.test.ts b/context/warrants/persona-page-type/persona-page-type.context-warrant.test.ts
+index 9bd06f555a760448993eaba392e46341e877bdab..1d49b6347797f51c27d01c6833dde9f009e32230 100644
+--- a/context/warrants/persona-page-type/persona-page-type.context-warrant.test.ts
++++ b/context/warrants/persona-page-type/persona-page-type.context-warrant.test.ts
+@@ -25,8 +25,8 @@ afterAll(scratch.sweep)
+ const AGENT = "01a0596c-0000-7000-8000-000000000004"
+ 
+ function typeWorld(root: string): readonly string[] {
+-  const page = pageTypeListed(root, "page", null)
+-  const persona = pageTypeListed(root, "persona", "page")
++  const page = pageTypeListed(root, "page", [])
++  const persona = pageTypeListed(root, "persona", ["page"])
+   return [persona, page]
+ }
+ 
 diff --git a/context/warrants/role-page-type/role-page-type.context-warrant.test.ts b/context/warrants/role-page-type/role-page-type.context-warrant.test.ts
 index 4d20fa970f363cc25b704e00efad44e9bd700d9e..a4eabda1ed5824fc864715db57bfec18ce183a5a 100644
 --- a/context/warrants/role-page-type/role-page-type.context-warrant.test.ts
