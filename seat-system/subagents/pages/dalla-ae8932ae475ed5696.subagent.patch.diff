@@ -29,3 +29,34 @@ index b550a3da43e6eeb04c514478e54e4ee0f9e9284f..b29b6f73b6254e2cc16a332c40eaa171
  function mergedByGit(base: Uint8Array, mine: Uint8Array, theirs: Uint8Array): Merged {
    const dir = mkdtempSync(join(SCRATCH_AT, MERGING_AT))
    try {
+diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
+index 0a47a917ce5546869dd5738e74380a3d285cf24e..8c5890e178b8a2a5932a1be31dd222018e51cee6 100644
+--- a/command-system/drafting/drafting.module.code.ts
++++ b/command-system/drafting/drafting.module.code.ts
+@@ -2,7 +2,12 @@ import { existsSync } from "node:fs"
+ import { join } from "node:path"
+ import { dropPatch, keptPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
+ import { said as gitSaid } from "@akasha/git/git-running"
+-import { clashing, mergedOnto, sameBody } from "../body-merging/body-merging.module.code.ts"
++import {
++  clashing,
++  markedAway,
++  mergedOnto,
++  sameBody,
++} from "../body-merging/body-merging.module.code.ts"
+ import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
+ import { committed } from "../committing/committing.module.code.ts"
+ import { holding } from "../holding/holding.module.code.ts"
+@@ -149,6 +154,12 @@ export function rebasedOnto(
+       }
+     }
+     if (!sameBody(now, one.was)) moved.push(path)
++    const held = one.body
++    const away = now === null && one.was !== null && held !== null ? markedAway(held) : null
++    if (away !== null) {
++      next.set(path, { was: now, body: away })
++      continue
++    }
+     const said = merged(one.was, one.body, now)
+     if ("why" in said) return { why: `${path} — ${said.why}` }
+     next.set(path, { was: now, body: said.body })
