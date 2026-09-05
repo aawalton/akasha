@@ -17,11 +17,11 @@ export const graph = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The indexes answer what exists.",
+      statement: "The indexes answer which pages exist.",
     },
     {
       invariantKind: "departure",
-      statement: "The graph answers what follows from the pages.",
+      statement: "The graph answers the nodes, edges and attributes that follow from the pages.",
     },
     {
       invariantKind: "departure",
@@ -30,15 +30,15 @@ export const graph = {
     {
       invariantKind: "departure",
       statement:
-        "What an answer rests on is worked out from the code rather than recorded as the code runs.",
+        "The pages an answer rests on are worked out from the code rather than recorded as the code runs.",
     },
     {
       invariantKind: "gap",
-      statement: "What the graph derives is a cache and never an index.",
+      statement: "The answers the graph derives are a cache and never an index.",
     },
     {
       invariantKind: "gap",
-      statement: "Throwing away what the graph derives costs only speed.",
+      statement: "Throwing away the answers the graph derives costs only speed.",
     },
     {
       invariantKind: "gap",
@@ -48,7 +48,7 @@ export const graph = {
     {
       invariantKind: "gap",
       statement:
-        "An answer is keyed by what the answer rests on and marked by the code that made the answer.",
+        "An answer is keyed by the pages that answer rests on and marked by the code that made the answer.",
     },
     {
       invariantKind: "departure",
