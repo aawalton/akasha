@@ -15,6 +15,25 @@ index 4012c58d0c94eebdf127f017cde9c52ef988856b..c33b99b754023ee1b7d5f38134dbe5a8
    if (typeof started === "string") return { report: [], refusals: [started], code: NO_PORT }
    return { report: [...saidOf(started)], refusals: [], code: 0 }
  }
+diff --git a/agents/models/gateway/modules/proxy-entry/proxy-entry.module.ts b/agents/models/gateway/modules/proxy-entry/proxy-entry.module.ts
+index 6bf9c42c01df1f74c3064697f266d4e28c1bccc1..6342d00edaba846aae55478f69c1dd5bc36fff81 100644
+--- a/agents/models/gateway/modules/proxy-entry/proxy-entry.module.ts
++++ b/agents/models/gateway/modules/proxy-entry/proxy-entry.module.ts
+@@ -76,14 +76,6 @@ export const proxyEntry = {
+       invariantKind: "gap",
+       statement: "No transport row is written by the gateway this entry starts.",
+     },
+-    {
+-      invariantKind: "gap",
+-      statement: "Nothing spawns this file.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement: "A supervisor spawns the older entry under `tools` instead.",
+-    },
+     {
+       invariantKind: "gap",
+       statement: "The port is printed by a call that need not have drained before the exit.",
 diff --git a/agents/models/gateway/modules/proxy-run/proxy-run.module.code.ts b/agents/models/gateway/modules/proxy-run/proxy-run.module.code.ts
 index 6e54acc7bfceb3fd4ed4d87e934c6ff712fa6f7c..61d4be2dbde44b3deed9a2919afff427274a0f97 100644
 --- a/agents/models/gateway/modules/proxy-run/proxy-run.module.code.ts
