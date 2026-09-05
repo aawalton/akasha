@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/categorize/monarch-categorize.module.ts b/alan/harness/monarch/categorize/monarch-categorize.module.ts
-index 01cd25a66fb5bd7181c84f025500c460e99b1bb1..dd38e6b937e9d150544ae6a19962591b0768c3a1 100644
+index 01cd25a66fb5bd7181c84f025500c460e99b1bb1..83d7052949cca42f16d70bc35397096c17b5502d 100644
 --- a/alan/harness/monarch/categorize/monarch-categorize.module.ts
 +++ b/alan/harness/monarch/categorize/monarch-categorize.module.ts
 @@ -14,8 +14,7 @@ export const monarchCategorize = {
@@ -12,3 +12,13 @@ index 01cd25a66fb5bd7181c84f025500c460e99b1bb1..dd38e6b937e9d150544ae6a19962591b
      },
      {
        invariantKind: "departure",
+@@ -38,8 +37,7 @@ export const monarchCategorize = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Monarch taking a category while no month file moves is refused, because the two would then disagree until the next sync.",
++      statement: "Monarch taking a category while no month file moves is refused.",
+     },
+   ],
+ } as const satisfies Module
