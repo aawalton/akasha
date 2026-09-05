@@ -67,8 +67,11 @@ export const surplusFallNotifying = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "The readout and its scale are asked of the pages system service and the day's reading of the page query service.",
+      statement: "The readout and its scale are asked of the pages system service.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The day's reading is asked of the page query service.",
     },
     {
       invariantKind: "departure",
