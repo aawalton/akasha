@@ -42,7 +42,8 @@ export const packageRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A string naming the package is respelled whether or not it names a module.",
+      statement:
+        "A string naming the package is respelled whether or not that string names a module.",
     },
     {
       invariantKind: "departure",
@@ -54,11 +55,11 @@ export const packageRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A key naming the package is respelled as a value naming it is.",
+      statement: "A key naming the package is respelled as a value naming that package is.",
     },
     {
       invariantKind: "absence",
-      statement: "A file that is neither code nor a manifest is left as it is.",
+      statement: "A file that is neither code nor a manifest is left as that file is.",
     },
     {
       invariantKind: "departure",
@@ -95,7 +96,8 @@ export const packageRenaming = {
     },
     {
       invariantKind: "absence",
-      statement: "A longer package name this one only opens is left alone wherever it stands.",
+      statement:
+        "A longer package name this one only opens is left alone wherever that name stands.",
     },
     {
       invariantKind: "departure",
