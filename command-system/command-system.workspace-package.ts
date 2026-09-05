@@ -70,7 +70,8 @@ export const commandSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "A command answers with what to report and what refused the command.",
+      statement:
+        "A command answers with the report to make and the refusals that stopped the command.",
     },
     {
       invariantKind: "departure",
