@@ -81,10 +81,6 @@ export const move = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding a file git is told to ignore is moved rather than refused.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "A file git is told to ignore travels as a sidecar rather than as folder contents.",
     },
