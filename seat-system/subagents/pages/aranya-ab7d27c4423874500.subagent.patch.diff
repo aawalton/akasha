@@ -192,3 +192,31 @@ index 51eaadb0798c1d6e5805e6c51475582d43354770..0b6e94295484e8feee91355c1295317d
  })
  
  test("the scope says every push is refused, what answers instead, and what it misses", () => {
+diff --git a/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.code.ts b/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.code.ts
+index 5205147349bbdd9e5ea9dee8337836bd5604973e..0e7b4a0344557f30e0d1b6b271a6b184d8417a72 100644
+--- a/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.code.ts
++++ b/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.code.ts
+@@ -100,7 +100,7 @@ export const SCOPE: readonly string[] = [
+   "",
+   "NOT REACHED. Each measured against this hook, not supposed:",
+   "  git stash pop, merge, pull, cherry-pick, revert, rebase — each writes tracked content",
+-  "  git update-index, read-tree, checkout-index, symbolic-ref, update-ref, notes, fast-import",
++  "  git symbolic-ref, update-ref, notes, fast-import",
+   "  git commit-tree piped into git update-ref, which builds a commit naming no act here",
+   "  git filter-branch, git replace, git worktree add carrying a checkout",
+   "  any act reached through an alias — `git ci -am one` carries the act `ci`",
+@@ -128,10 +128,10 @@ export const SCOPE: readonly string[] = [
+   "A refusal answers the whole call. One refused act in a chain refuses every command in it.",
+   "",
+   "NOT NAMED HERE ON PURPOSE:",
+-  "  `rm`, `checkout` and `restore` write tracked akasha content, and this does not name them.",
+-  "  block-destructive-git refuses every form of all three, at every path, so naming them",
+-  "  again would add no refused call — only a second reason for a call already refused, and a",
+-  "  second redirect for a reader to choose between.",
++  "  `rm`, `checkout`, `restore`, `update-index`, `read-tree` and `checkout-index` write tracked",
++  "  akasha content, and this does not name them. block-destructive-git refuses every form of",
++  "  all six, at every path, so naming them again would add no refused call — only a second",
++  "  reason for a call already refused, and a second redirect for a reader to choose between.",
+   "  `git commit --amend` is refused here, and by block-destructive-git as well.",
+   "  Both refusals are true. Neither of them says the call is safe.",
+   "",
