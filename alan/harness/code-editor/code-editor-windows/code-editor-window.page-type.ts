@@ -15,7 +15,7 @@ export const codeEditorWindow = {
     {
       invariantKind: "departure",
       statement:
-        "A closed window's page, with the pages of its groups and tabs, goes in the hourly sweep rather than as the window closes.",
+        "A closed window's page and its groups' and tabs' pages go in the hourly sweep rather than at once.",
     },
   ],
 } as const satisfies PageType

@@ -35,7 +35,7 @@ export const supervisorRcDegradedDecide = {
     {
       invariantKind: "departure",
       statement:
-        "A latch clears only once the healthy streak reaches the recovery streak and the re-alert cooldown has passed.",
+        "A latch clears only once a healthy streak meets the recovery streak and the re-alert cooldown is up.",
     },
     {
       invariantKind: "departure",

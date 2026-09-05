@@ -11,7 +11,7 @@ export const seatRevivePlacementDecide = {
     {
       invariantKind: "departure",
       statement:
-        "A seat restarts in place only where its prior launch opened a terminal and that terminal is still live.",
+        "A seat restarts in place only where its prior launch opened a terminal that is still live.",
     },
     {
       invariantKind: "departure",

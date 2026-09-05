@@ -54,7 +54,7 @@ export const elaine = {
     {
       invariantKind: "departure",
       statement:
-        "A macbook holding no export is answered as the data being missing rather than as the call being wrong.",
+        "A macbook holding no export is answered as missing data rather than as a wrong call.",
     },
     {
       invariantKind: "departure",

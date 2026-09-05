@@ -11,7 +11,7 @@ export const monarchReconcile = {
     {
       invariantKind: "departure",
       statement:
-        "A row Monarch no longer lists is retired, judged against the window that was fetched rather than against one missing id.",
+        "A row Monarch no longer lists is retired, judged on the fetched window rather than one missing id.",
     },
     {
       invariantKind: "departure",

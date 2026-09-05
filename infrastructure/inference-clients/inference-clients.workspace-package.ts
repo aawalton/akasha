@@ -26,7 +26,7 @@ export const inferenceClients = {
     {
       invariantKind: "departure",
       statement:
-        "A client answers with the bytes the service made rather than with a path those bytes were written to.",
+        "A client answers with the bytes the service made rather than a path those bytes were written to.",
     },
     {
       invariantKind: "absence",

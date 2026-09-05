@@ -36,7 +36,7 @@ export const dueReminderSending = {
     {
       invariantKind: "departure",
       statement:
-        "A reminder first seen whose schedule names no time still to come is reported and left alone rather than taken away.",
+        "A reminder first seen with no time still to come is reported and left alone rather than taken away.",
     },
     {
       invariantKind: "departure",

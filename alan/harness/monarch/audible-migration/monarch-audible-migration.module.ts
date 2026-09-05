@@ -30,7 +30,7 @@ export const monarchAudibleMigration = {
     {
       invariantKind: "departure",
       statement:
-        "A credit, an uncategorized charge and a charge whose note says it was reimbursed are recategorized rather than transferred.",
+        "A credit, an uncategorized charge and a charge noted as reimbursed are recategorized only.",
     },
     {
       invariantKind: "departure",

@@ -132,7 +132,7 @@ export const connectionActivity = {
     {
       invariantKind: "departure",
       statement:
-        "Modality counts a half for presence, a quarter for audio, 0.15 for digital presence, 0.15 for text and 0.1 for image, added together.",
+        "Modality adds up a half presence, a quarter audio, 0.15 digital presence, 0.15 text and 0.1 image.",
     },
     {
       invariantKind: "departure",
