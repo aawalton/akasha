@@ -1,8 +1,8 @@
 diff --git a/changes/workflow-templates/workflow-template.page-type.ts b/changes/workflow-templates/workflow-template.page-type.ts
-index 503c869d44c04806343f83ccca43971698bdf56b..882ef38858c6e2d8781e98be2d72904b96086220 100644
+index 503c869d44c04806343f83ccca43971698bdf56b..89b9e04a5bc3e233229fd0631fd7a7c00fe6ecf0 100644
 --- a/changes/workflow-templates/workflow-template.page-type.ts
 +++ b/changes/workflow-templates/workflow-template.page-type.ts
-@@ -38,7 +38,7 @@ export const workflowTemplate = {
+@@ -38,11 +38,11 @@ export const workflowTemplate = {
      },
      {
        invariantKind: "departure",
@@ -11,3 +11,8 @@ index 503c869d44c04806343f83ccca43971698bdf56b..882ef38858c6e2d8781e98be2d72904b
      },
      {
        invariantKind: "departure",
+-      statement: "Nothing imports a workflow's declaration; the runner gathers them all.",
++      statement: "Nothing imports a workflow's declaration; the runner gathers every declaration.",
+     },
+     {
+       invariantKind: "gap",
