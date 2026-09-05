@@ -30,7 +30,8 @@ export const messagesDeliveryWitness = {
     },
     {
       invariantKind: "departure",
-      statement: "The transcript the seat holds now is read as well as the one it held then.",
+      statement:
+        "The transcript the seat holds now is read as well as the one that seat held then.",
     },
     {
       invariantKind: "departure",
