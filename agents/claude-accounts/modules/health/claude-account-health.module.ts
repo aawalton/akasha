@@ -19,7 +19,8 @@ export const claudeAccountHealth = {
     },
     {
       invariantKind: "departure",
-      statement: "A refresh that failed reads as retryable where the failure says it is not.",
+      statement:
+        "A refresh that failed reads as retryable where the failure says that refresh is not.",
     },
     {
       invariantKind: "departure",
@@ -113,7 +114,8 @@ export const claudeAccountHealth = {
     },
     {
       invariantKind: "gap",
-      statement: "A stale at-limit mark names the account and says nothing of which window it is.",
+      statement:
+        "A stale at-limit mark names the account and says nothing of which window that mark is.",
     },
   ],
 } as const satisfies Module
