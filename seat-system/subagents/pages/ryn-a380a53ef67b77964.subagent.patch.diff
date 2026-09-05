@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/health-samples-import/health-import-reading/health-import-reading.module.ts b/health-samples-import/health-import-reading/health-import-reading.module.ts
-index 3543b4a47bc0b606c5d76bf10898ed8c74a21932..285e8ec47ee1aff82ec7909491f2354e4fb4c5ed 100644
+index 3543b4a47bc0b606c5d76bf10898ed8c74a21932..90d030c73a017307752a90084eb1bae2c1c59048 100644
 --- a/health-samples-import/health-import-reading/health-import-reading.module.ts
 +++ b/health-samples-import/health-import-reading/health-import-reading.module.ts
-@@ -13,7 +13,7 @@ export const healthImportReading = {
+@@ -13,11 +13,11 @@ export const healthImportReading = {
      },
      {
        invariantKind: "departure",
@@ -12,3 +12,8 @@ index 3543b4a47bc0b606c5d76bf10898ed8c74a21932..285e8ec47ee1aff82ec7909491f2354e
      },
      {
        invariantKind: "departure",
+-      statement: "A run that cannot tell what the run lost reads as unsettled.",
++      statement: "A run that cannot tell which records the run lost reads as unsettled.",
+     },
+   ],
+ } as const satisfies Module
