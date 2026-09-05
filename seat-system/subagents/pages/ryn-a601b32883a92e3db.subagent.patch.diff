@@ -1,0 +1,13 @@
+diff --git a/code-system/file-kind/file-kind.module.ts b/code-system/file-kind/file-kind.module.ts
+index 620fb9e6c10e545ae64a5b12c25eef7ed30badf3..b9409b70d5c950ee75b0de312daf9169cbafc1ac 100644
+--- a/code-system/file-kind/file-kind.module.ts
++++ b/code-system/file-kind/file-kind.module.ts
+@@ -13,7 +13,7 @@ export const fileKind = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A whole basename is read before any extension of it is.",
++      statement: "A whole basename is read before any extension of that basename is.",
+     },
+     {
+       invariantKind: "departure",
