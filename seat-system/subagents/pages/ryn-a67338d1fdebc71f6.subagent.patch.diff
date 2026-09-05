@@ -174,3 +174,19 @@ index b1d2e334a8178e56317939323ee0595fdfe76a05..353bb49422cf1ffb52e868fe0959812a
      {
        invariantKind: "absence",
        statement: "Nothing here caches a reading or decides when a reading is taken.",
+diff --git a/readout-system/readouts/pages/upkeep-plants/upkeep-plants.readout.ts b/readout-system/readouts/pages/upkeep-plants/upkeep-plants.readout.ts
+index 868bb892d912bad8b1ce8f359a1192e0fc365f0d..7d53f2bf3843b23545af1cb5af9836549d9c4e05 100644
+--- a/readout-system/readouts/pages/upkeep-plants/upkeep-plants.readout.ts
++++ b/readout-system/readouts/pages/upkeep-plants/upkeep-plants.readout.ts
+@@ -39,10 +39,7 @@ export const upkeepPlants = {
+       invariantKind: "departure",
+       statement: "A day holding no food entry is a reading of zero rather than no reading.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A store that refuses is a fault rather than a reading of nothing.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here caches a reading or decides when a reading is taken.",
