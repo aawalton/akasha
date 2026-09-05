@@ -1,0 +1,17 @@
+diff --git a/agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.ts b/agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.ts
+index b39d3882d8b6bab1a9fc582ba6c9ad49d49e43de..83e0eef942c59b7b502076866330978788eaa68f 100644
+--- a/agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.ts
++++ b/agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.ts
+@@ -31,7 +31,11 @@ export const accountUpkeepRunning = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A rate-limit window that has gone inactive is started again with a one-token message, and the usage read a second time.",
++        "A rate-limit window that has gone inactive is started again with a one-token message.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The usage is read a second time once a rate-limit window has been started again.",
+     },
+     {
+       invariantKind: "departure",
