@@ -79,34 +79,65 @@ index a933a716cc576c79420072a415a1229c9e33a79e..cfe03623fef7fe3804ab4eb4df115527
        invariantKind: "absence",
        statement: "No watcher on a seat file or an initiative file is registered here.",
 diff --git a/readout-system/readouts/pages/inboxes-email/inboxes-email.readout.ts b/readout-system/readouts/pages/inboxes-email/inboxes-email.readout.ts
-index 43640395b019f71682c8cd370718aa345b7c29fe..01f3da18eb9f2a511bda52d76e9ef5c365cc9439 100644
+index 0d7f7dfbd443edf330ba77a02eb6866123efd4a5..0de3a877535f62ee3d0aa01a5f4ba84551686c66 100644
 --- a/readout-system/readouts/pages/inboxes-email/inboxes-email.readout.ts
 +++ b/readout-system/readouts/pages/inboxes-email/inboxes-email.readout.ts
-@@ -25,10 +25,7 @@ export const inboxesEmail = {
+@@ -25,11 +25,19 @@ export const inboxesEmail = {
        invariantKind: "departure",
        statement: "The reading is how near the inbox came to empty rather than where the inbox is.",
      },
--    {
--      invariantKind: "departure",
--      statement: "A count stated as text is read as the number that count spells.",
--    },
++<<<<<<< what this change would leave
 +
++    {
++      invariantKind: "departure",
++      statement: "A count of zero is a count.",
++    },
++=======
      {
        invariantKind: "departure",
-       statement: "A count of zero is a count.",
+       statement: "A count stated as text is read as the number that count spells.",
+     },
+ 
++>>>>>>> what HEAD holds
+     {
+       invariantKind: "departure",
+       statement: "No mail entry is no reading rather than a count of zero.",
 diff --git a/readout-system/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts b/readout-system/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts
-index 73ab44e2762024fa1643f23131a833926905961b..64c580b1e0c5897981bb9fcf559b1b8ed8c871a1 100644
+index e2c02322521119f3e31c83d0bab220a0cf037b7d..0514d4ef1652528da616baf3ca481fe3ae562634 100644
 --- a/readout-system/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts
 +++ b/readout-system/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts
-@@ -26,10 +26,7 @@ export const inboxesTasks = {
+@@ -26,11 +26,19 @@ export const inboxesTasks = {
        invariantKind: "departure",
        statement: "The count is how many tasks are undone at the end of that day.",
      },
--    {
--      invariantKind: "departure",
--      statement: "A count stated as text is read as the number that count spells.",
--    },
++<<<<<<< what this change would leave
 +
++    {
++      invariantKind: "departure",
++      statement: "A count of zero is a count.",
++    },
++=======
      {
        invariantKind: "departure",
-       statement: "A count of zero is a count.",
+       statement: "A count stated as text is read as the number that count spells.",
+     },
+ 
++>>>>>>> what HEAD holds
+     {
+       invariantKind: "departure",
+       statement: "No tracking day is no reading rather than a count of zero.",
+diff --git a/temper/temper-character/character-builds/character-build.page-type.ts b/temper/temper-character/character-builds/character-build.page-type.ts
+index 7da0d67ead37cab6775680109117085b3d1480d7..4c7e3a0ff30b6e3eaafb1304a7086a0bf14d8ea0 100644
+--- a/temper/temper-character/character-builds/character-build.page-type.ts
++++ b/temper/temper-character/character-builds/character-build.page-type.ts
+@@ -44,10 +44,6 @@ export const characterBuild = {
+       invariantKind: "departure",
+       statement: "Two builds arranged alike carry one hash.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A name is author-given, so several builds answer to the same name.",
+-    },
+ 
+     {
+       invariantKind: "departure",
