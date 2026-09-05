@@ -14,8 +14,7 @@ export const monarchCategorize = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A category Monarch takes and reports nothing back for is refused, because nothing confirms the one thing the call was for.",
+      statement: "A category Monarch takes and reports nothing back for is refused.",
     },
     {
       invariantKind: "departure",
@@ -38,8 +37,7 @@ export const monarchCategorize = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Monarch taking a category while no month file moves is refused, because the two would then disagree until the next sync.",
+      statement: "Monarch taking a category while no month file moves is refused.",
     },
   ],
 } as const satisfies Module
