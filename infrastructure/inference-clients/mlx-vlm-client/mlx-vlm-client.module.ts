@@ -9,7 +9,8 @@ export const mlxVlmClient = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Frames are drawn evenly across the clip, the first and the last among them.",
+      statement:
+        "Frames are drawn evenly across the clip, the first and the last among those frames.",
     },
     {
       invariantKind: "departure",
@@ -17,7 +18,8 @@ export const mlxVlmClient = {
     },
     {
       invariantKind: "departure",
-      statement: "Asking for more frames than the clip holds answers with all of them.",
+      statement:
+        "Asking for more frames than the clip holds answers with all of the frames the clip holds.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +27,7 @@ export const mlxVlmClient = {
     },
     {
       invariantKind: "departure",
-      statement: "The checklist is said after every frame rather than before them.",
+      statement: "The checklist is said after every frame rather than before those frames.",
     },
     {
       invariantKind: "departure",
