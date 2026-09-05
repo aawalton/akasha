@@ -57,7 +57,7 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
-      statement: "A settle names on the stamp the paths it covered.",
+      statement: "A settle names on the stamp the paths that settle covered.",
     },
     {
       invariantKind: "departure",
@@ -108,7 +108,8 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
-      statement: "A rebuild and a settle hand in the pages naming each page they file.",
+      statement:
+        "A rebuild and a settle hand in the pages naming each page that rebuild and that settle file.",
     },
     {
       invariantKind: "departure",
@@ -116,7 +117,8 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
-      statement: "A settle reads off the relation index what the change it carries does not say.",
+      statement:
+        "A settle reads off the relation index what the change that settle carries does not say.",
     },
     {
       invariantKind: "departure",
