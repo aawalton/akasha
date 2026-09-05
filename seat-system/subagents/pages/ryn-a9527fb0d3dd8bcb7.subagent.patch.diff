@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/library/watching/properties/genres.text-property.ts b/alan/library/watching/properties/genres.text-property.ts
+index 9f7dd7cff7380be9c4f4d9eb14b955e9b3f4f968..69f895d5fcea761e6eb4e9b9d77bf4b13b0b896f 100644
+--- a/alan/library/watching/properties/genres.text-property.ts
++++ b/alan/library/watching/properties/genres.text-property.ts
+@@ -17,7 +17,7 @@ export const genres = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A genre is written as the provider writes it.",
++      statement: "A genre is written as the provider writes that genre.",
+     },
+   ],
+ } as const satisfies TextProperty
