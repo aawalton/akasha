@@ -21,7 +21,8 @@ export const agentTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A second change during that wait replaces the first rather than adding to it.",
+      statement:
+        "A second change during that wait replaces the first rather than adding to that first change.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +40,7 @@ export const agentTreePanel = {
     {
       invariantKind: "departure",
       statement:
-        "The badge counts the agents running and the description counts them again in words.",
+        "The badge counts the agents running and the description counts those agents again in words.",
     },
     {
       invariantKind: "departure",
@@ -73,7 +74,7 @@ export const agentTreePanel = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here hangs a row under another or draws one.",
+      statement: "Nothing here hangs a row under another row or draws one.",
     },
     {
       invariantKind: "absence",
