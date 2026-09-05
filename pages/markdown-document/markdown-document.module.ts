@@ -13,7 +13,7 @@ export const markdownDocument = {
     },
     {
       invariantKind: "departure",
-      statement: "What could not be read is carried as a span rather than dropped.",
+      statement: "A part that could not be read is carried as a span rather than dropped.",
     },
     {
       invariantKind: "absence",
