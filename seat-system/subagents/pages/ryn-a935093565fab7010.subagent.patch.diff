@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/commands/read/long-body/long-body.module.ts b/commands/read/long-body/long-body.module.ts
-index 32736f9f1f4e0ab4ec44c71c33346575f74c6738..a7da6afd86f02c3ad9a2509477d42faa0e822497 100644
+index 32736f9f1f4e0ab4ec44c71c33346575f74c6738..b7f20d954236fda1d510f70e57620c34e800b57c 100644
 --- a/commands/read/long-body/long-body.module.ts
 +++ b/commands/read/long-body/long-body.module.ts
-@@ -67,7 +67,7 @@ export const longBody = {
+@@ -67,11 +67,12 @@ export const longBody = {
      },
      {
        invariantKind: "absence",
@@ -12,3 +12,9 @@ index 32736f9f1f4e0ab4ec44c71c33346575f74c6738..a7da6afd86f02c3ad9a2509477d42faa
      },
      {
        invariantKind: "gap",
+-      statement: "Nothing here judges whether the reader kept what an earlier run handed over.",
++      statement:
++        "Nothing here judges whether the reader kept the lines an earlier run handed over.",
+     },
+   ],
+ } as const satisfies Module
