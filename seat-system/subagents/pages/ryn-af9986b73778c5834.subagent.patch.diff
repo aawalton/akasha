@@ -1,0 +1,17 @@
+runsWarrants: false
+diff --git a/seat-system/seat-capability/seat-capability.domain.ts b/seat-system/seat-capability/seat-capability.domain.ts
+index c6a0947daef59bcb7dfef8234489a1ea8a017d60..07a47724f573652cc69d9536e89407370e37fdf3 100644
+--- a/seat-system/seat-capability/seat-capability.domain.ts
++++ b/seat-system/seat-capability/seat-capability.domain.ts
+@@ -10,7 +10,10 @@ export const seatCapability = {
+       invariantKind: "departure",
+       statement: "A seat reads a document without changing the document.",
+     },
+-    { invariantKind: "departure", statement: "A seat writes by changing what is in a repository." },
++    {
++      invariantKind: "departure",
++      statement: "A seat writes by changing the content a repository holds.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A seat runs by making something happen outside the repositories.",
