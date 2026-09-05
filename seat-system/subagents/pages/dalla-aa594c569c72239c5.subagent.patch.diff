@@ -12,7 +12,7 @@ index 36a860645d6fe3dd4059ccea0b5c088ff6d4f379..4b8e6d80531c17e05843202a83c689bd
  export const SEAT_AT = "akasha/seat-system/seats/pages/tester.seat.ts"
  
 diff --git a/command-system/asking/asking.module.test.ts b/command-system/asking/asking.module.test.ts
-index d38cb140483532726a3d64a0b9fd96998e042a49..8a309f0431d2a229c1bfdc0f48f2eb7c47a11256 100644
+index d38cb140483532726a3d64a0b9fd96998e042a49..ba0733cc39c34c93d4a7c6cad7cf0fb911feea56 100644
 --- a/command-system/asking/asking.module.test.ts
 +++ b/command-system/asking/asking.module.test.ts
 @@ -1,6 +1,7 @@
@@ -31,3 +31,11 @@ index d38cb140483532726a3d64a0b9fd96998e042a49..8a309f0431d2a229c1bfdc0f48f2eb7c
    applied,
    asking,
    BROKEN,
+@@ -28,6 +30,7 @@ import {
+   repoNoCheckLoads,
+   repoWith,
+   repoWithTheFormatter,
++  SEAT_AT,
+   scratch,
+   TIDY,
+   treeHolds,
