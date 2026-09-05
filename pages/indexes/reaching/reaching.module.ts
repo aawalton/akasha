@@ -66,7 +66,7 @@ export const reaching = {
     },
     {
       invariantKind: "departure",
-      statement: "What a name reaches is said here alone.",
+      statement: "The page a name reaches is said here alone.",
     },
     {
       invariantKind: "departure",
@@ -74,7 +74,7 @@ export const reaching = {
     },
     {
       invariantKind: "departure",
-      statement: "What stands under that key is answered with that property.",
+      statement: "The value standing under that key is answered with that property.",
     },
     {
       invariantKind: "departure",
@@ -90,7 +90,7 @@ export const reaching = {
     },
     {
       invariantKind: "departure",
-      statement: "What a caller does about a key being the page's own is that caller's own.",
+      statement: "How a caller answers a key being the page's own is that caller's own.",
     },
     {
       invariantKind: "departure",
