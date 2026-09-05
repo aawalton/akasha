@@ -19,7 +19,7 @@ export const gitRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "What git said on its output stream is answered unchanged.",
+      statement: "The text git left on its output stream is answered unchanged.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +47,7 @@ export const gitRunning = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads what git said.",
+      statement: "Nothing here reads the text git left.",
     },
   ],
 } as const satisfies Module
