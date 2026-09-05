@@ -1,0 +1,138 @@
+diff --git a/commands/refactor/refactor.command.test.ts b/commands/refactor/refactor.command.test.ts
+index 24d89d09c9bf8004209855a224b7834f4a9bd342..701ca94ed533afb118799191b2e8c13fd0942212 100644
+--- a/commands/refactor/refactor.command.test.ts
++++ b/commands/refactor/refactor.command.test.ts
+@@ -2,13 +2,8 @@ import { afterAll, expect, test } from "bun:test"
+ import { readFileSync, writeFileSync } from "node:fs"
+ import { join } from "node:path"
+ import { said as gitIn } from "@akasha/git/git-running"
+-import {
+-  idFiled,
+-  listedFiled,
+-  pathFiled,
+-  relationFiled,
+-  schemaFiled,
+-} from "@akasha/indexes/testing"
++import { aProperty, aType, bodyOf, VOCABULARY } from "@akasha/indexes/indexing/testing"
++import { rebuiltIn } from "@akasha/indexes/testing"
+ import { admitting } from "@akasha/testing-system/minting"
+ import { put, there } from "@akasha/testing-system/putting"
+ import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+@@ -177,13 +172,13 @@ const scratch = scratchWorld()
+ 
+ afterAll(scratch.sweep)
+ 
+-const KEYED = "01a06f4c-2a91-7000-8000-000000000011"
++const idOf = (one: string): string => `01a06f4c-2a91-7000-8000-00000000000${one}`
+ 
+-const HELD = "01a06f4c-2a91-7000-8000-000000000007"
++const HELD = aType(idOf("1"), "held", ["page"], ["keyed", "other"])
+ 
+-const ONE = "01a06f4c-2a91-7000-8000-000000000021"
++const OTHER_PROPERTY = aProperty(idOf("2"), "other", "file-property")
+ 
+-const HELD_TYPE_AT = `${TREE}/held.page-type.ts`
++const HELD_TYPE_AT = join(TREE, HELD[0])
+ 
+ const KEYED_AT = `${TREE}/keyed.file-property.ts`
+ 
+@@ -203,19 +198,34 @@ const CARRIED_PART_AT = `${TREE}/one.held.read-by.part2.md`
+ 
+ const CARRIED_UNCOMMITTED_AT = `${TREE}/one.held.read-by.uncommitted.md`
+ 
+-const HELD_TYPE_BODY =
+-  "export type Held = { id: string; pageTypeSlug: string; slug: string;" +
+-  " keyed: string; other: string }\n" +
+-  `export const held = { id: "${HELD}", pageTypeSlug: "page-type", slug: "held" }\n`
++const HELD_TYPE_BODY = `export type Held = {
++  id: string
++  pageTypeSlug: string
++  slug: string
++  keyed: string
++  other: string
++}
++
++${bodyOf(HELD[1])}`
+ 
+-const KEYED_BODY =
+-  `export const keyed = { id: "${KEYED}", pageTypeSlug: "file-property", slug: "keyed",` +
+-  ' propertySlug: "keyed" }\n'
++const KEYED_BODY = `export const keyed = {
++  id: "${idOf("3")}",
++  pageTypeSlug: "file-property",
++  slug: "keyed",
++  propertySlug: "keyed",
++} as const
++`
+ 
+-const PAGE_BODY =
+-  'import type { Held } from "./held.page-type.ts"\n' +
+-  `export const one = { id: "${ONE}", pageTypeSlug: "held", slug: "one", keyed: "md",` +
+-  ' other: "md" } as const satisfies Held\n'
++const PAGE_BODY = `import type { Held } from "./held.page-type.ts"
++
++export const one = {
++  id: "${idOf("4")}",
++  pageTypeSlug: "held",
++  slug: "one",
++  keyed: "md",
++  other: "md",
++} as const satisfies Held
++`
+ 
+ const BESIDE_BODY = "what the property holds\n"
+ 
+@@ -225,43 +235,25 @@ const UNCOMMITTED_BODY = "what has not been committed\n"
+ 
+ const OTHER_BODY = "what another property holds\n"
+ 
+-const WORLD: Readonly<Record<string, string>> = {
+-  [HELD_TYPE_AT]: HELD_TYPE_BODY,
+-  [KEYED_AT]: KEYED_BODY,
+-  [PAGE_AT]: PAGE_BODY,
+-  [BESIDE_AT]: BESIDE_BODY,
+-  [PART_AT]: PART_BODY,
+-  [OTHER_AT]: OTHER_BODY,
+-}
+-
+ function worldWith(): string {
+   const root = scratch.rootFor("akasha-key-")
+   gitIn(root, ["init", "--quiet"])
+   gitIn(root, ["config", "user.email", "held@nowhere"])
+   gitIn(root, ["config", "user.name", "Held"])
+-  for (const [path, body] of Object.entries(WORLD)) put(root, path, body)
++  for (const [at, value] of [...VOCABULARY, OTHER_PROPERTY]) {
++    put(root, join(TREE, at), bodyOf(value))
++  }
++  put(root, HELD_TYPE_AT, HELD_TYPE_BODY)
++  put(root, KEYED_AT, KEYED_BODY)
++  put(root, PAGE_AT, PAGE_BODY)
++  put(root, BESIDE_AT, BESIDE_BODY)
++  put(root, PART_AT, PART_BODY)
++  put(root, OTHER_AT, OTHER_BODY)
+   gitIn(root, ["add", "-A"])
+   gitIn(root, ["commit", "--quiet", "-m", "first"])
+   writeFileSync(join(root, ".git/info/exclude"), "*.uncommitted.md\n")
++  rebuiltIn(root, TREE)
+   put(root, UNCOMMITTED_AT, UNCOMMITTED_BODY)
+-  for (const path of [HELD_TYPE_AT, KEYED_AT, PAGE_AT]) {
+-    pathFiled(root, path, [{ path, id: path }])
+-  }
+-  schemaFiled(root, "file-property", "keyed", [
+-    {
+-      pageTypeSlug: "file-property",
+-      targetPageTypeSlug: null,
+-      unique: null,
+-      slug: "keyed",
+-      propertySlug: "keyed",
+-      fileName: null,
+-    },
+-  ])
+-  listedFiled(root, "file-property", "keyed", [{ path: KEYED_AT, id: KEYED }])
+-  listedFiled(root, "page-type", "held", [{ path: HELD_TYPE_AT, id: HELD }])
+-  listedFiled(root, "held", "one", [{ path: PAGE_AT, id: ONE }])
+-  idFiled(root, HELD, [{ path: HELD_TYPE_AT, id: HELD }])
+-  relationFiled(root, KEYED, "page-property-slug", HELD, [{ path: HELD_TYPE_AT }])
+   admitting(root)
+   return root
+ }
