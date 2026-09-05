@@ -103,3 +103,30 @@ index 589e4c467d8e892b7cd125f199fd348df283b2f4..0ebd72808768e02287c2f65ef15a87f1
      },
      {
        invariantKind: "departure",
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
+index 0cc632a045bb4d7531dce0872b7d02929cf3670d..024d9170ab0de849784970f7b8b517542537db53 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
+@@ -176,7 +176,8 @@ export const folderShape = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Which files those are is read off the page rather than worked out from its name.",
++      statement:
++        "The files a page answers with are read off the page rather than worked out from its name.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-sops-on-dev-stdin/no-sops-on-dev-stdin.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-sops-on-dev-stdin/no-sops-on-dev-stdin.syntax-rule.ts
+index 4b8bed42b69475bfb569faa7d3a2d300a91c4128..f8a823fe6b1cf0bef4439e7798e8829c58faaa8c 100644
+--- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-sops-on-dev-stdin/no-sops-on-dev-stdin.syntax-rule.ts
++++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-sops-on-dev-stdin/no-sops-on-dev-stdin.syntax-rule.ts
+@@ -35,7 +35,7 @@ export const noSopsOnDevStdin = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A call naming it and a real file is what this asks for.",
++      statement: "A call naming it and a real file is what this rule asks for.",
+     },
+     {
+       invariantKind: "departure",
