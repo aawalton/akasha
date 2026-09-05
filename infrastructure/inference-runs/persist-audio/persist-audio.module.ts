@@ -13,7 +13,7 @@ export const persistAudio = {
     },
     {
       invariantKind: "departure",
-      statement: "A music run is recorded as made by ace-step whatever service ran it.",
+      statement: "A music run is recorded as made by ace-step whatever service ran that run.",
     },
     {
       invariantKind: "departure",
