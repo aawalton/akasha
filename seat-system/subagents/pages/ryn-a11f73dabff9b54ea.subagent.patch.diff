@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/person-system/people/email/email-rules/email-rule-agents/email-rule-agent.page-type.ts b/person-system/people/email/email-rules/email-rule-agents/email-rule-agent.page-type.ts
+index fbb47d5dcac234756b18961024344c62436665e8..475a265d1908f7e79c8a693f6d84a194ac9515e9 100644
+--- a/person-system/people/email/email-rules/email-rule-agents/email-rule-agent.page-type.ts
++++ b/person-system/people/email/email-rules/email-rule-agents/email-rule-agent.page-type.ts
+@@ -22,7 +22,7 @@ export const emailRuleAgent = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A rule of this kind states what to weigh rather than what to do.",
++      statement: "A rule of this kind states the grounds to weigh rather than the act to take.",
+     },
+     {
+       invariantKind: "departure",
