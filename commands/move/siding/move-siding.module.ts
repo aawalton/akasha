@@ -38,15 +38,48 @@ export const moveSiding = {
     },
     {
       invariantKind: "departure",
-      statement: "A file no page claims is carried under whatever name a pair gives it.",
+      statement: "A file's own name says whether a page claims that file.",
     },
     {
       invariantKind: "departure",
-      statement: "A file a page claims beside it is refused a new name.",
+      statement:
+        "A name is a page's own file where the page type slot names a page type and no section follows.",
     },
     {
       invariantKind: "departure",
-      statement: "A refusal for such a file names the page claiming it.",
+      statement: "A name carrying a section past a known page type is a file beside that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name whose page type slot names no page type is neither.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name the grammar will not parse is neither.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file that is neither is carried under whatever name a pair gives it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file beside a page is refused a new name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page that refusal names is read from the file's own name.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The index is asked which page types there are and nothing else about a path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's id is read from the index only where a pair gives that page a new name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An index that will not say what the page types are refuses the pair.",
     },
     {
       invariantKind: "departure",
