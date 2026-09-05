@@ -12,7 +12,7 @@ export const browserTestStorageState = {
     { said: "--url <origin>", takes: "the origin signed in to, the env's where none is said" },
     {
       said: "--sign-in-path <path>",
-      takes: "the path the form stands at, `/sign-in` where none is said",
+      takes: "the path the form is at, `/sign-in` where none is said",
     },
     {
       said: "--at <path>",

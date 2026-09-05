@@ -15,7 +15,7 @@ export const browserTestVerifyRender = {
     { said: "--expect-text <text>", takes: "text the rendered body is to hold" },
     { said: "--expect-title <text>", takes: "the title the document is to carry" },
     { said: "--expect-count-selector <sel>", takes: "the elements a count is taken over" },
-    { said: "--expect-count <n>", takes: "how many of those elements are to stand" },
+    { said: "--expect-count <n>", takes: "how many of those elements are to be there" },
     { said: "--expect-attr-selector <sel>", takes: "the element an attribute is read off" },
     { said: "--expect-attr <name>", takes: "the attribute read off that element" },
     { said: "--expect-attr-value <text>", takes: "the value that attribute is to carry" },
@@ -29,7 +29,7 @@ export const browserTestVerifyRender = {
     },
     {
       said: "--hydration-selector <sel>",
-      takes: "an element that stands once the page has hydrated",
+      takes: "an element that is there once the page has hydrated",
     },
     {
       said: "--sign-in-path <path>",

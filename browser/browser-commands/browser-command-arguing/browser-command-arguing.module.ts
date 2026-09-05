@@ -21,7 +21,7 @@ export const browserCommandArguing = {
     },
     {
       invariantKind: "departure",
-      statement: "A word standing where a whole number is wanted is the caller's mistake.",
+      statement: "A word where a whole number is wanted is the caller's mistake.",
     },
     {
       invariantKind: "absence",
