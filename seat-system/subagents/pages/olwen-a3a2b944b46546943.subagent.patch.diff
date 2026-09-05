@@ -1280,6 +1280,19 @@ index 693b85059780762995c8e308e1432260e32d28b8..1dbb7d9333adb5156bd5fcb49c05e55d
  import {
    type PersonaDayTarget,
    patchPersonaDayField,
+diff --git a/alan/tracking/daily/task-completions/task-completions.module.code.ts b/alan/tracking/daily/task-completions/task-completions.module.code.ts
+index f6189ac65d93efc6a6e71f9102eae255c7d11789..d30bbdf4e5140e650168d2589c5f0c701604f1ec 100644
+--- a/alan/tracking/daily/task-completions/task-completions.module.code.ts
++++ b/alan/tracking/daily/task-completions/task-completions.module.code.ts
+@@ -1,7 +1,7 @@
+ import { getEsoDayWindow } from "@akasha/day/eso-day"
+ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+ import { asking } from "@akasha/pages-system-service/asking"
+-import { completedTasksInSpan } from "../day-place/day-place.module.code.ts"
++import { completedTasksInSpan } from "../day-completions/day-completions.module.code.ts"
+ import { textOf } from "../day-scan-window/day-scan-window.module.code.ts"
+ 
+ const TO_DO_PAGE_TYPE_SLUG = "to-do"
 diff --git a/alan/tracking/daily/tracking-daily.domain.ts b/alan/tracking/daily/tracking-daily.domain.ts
 index 68c9270c699a96eb8ad4bde4698183df5afa27cb..b4302b2164080726c620561f813debf45c566e56 100644
 --- a/alan/tracking/daily/tracking-daily.domain.ts
