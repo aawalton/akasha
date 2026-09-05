@@ -423,6 +423,14 @@ index d8b5abd6d1ef4de316c5f1222379ea5cb665720a..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../pages/system-service
 \ No newline at end of file
+diff --git a/pages/ui-store/pages-ui-store b/pages/ui-store/pages-ui-store
+deleted file mode 120000
+index 3741b68161895d0524460ddaa8d05acae079257a..0000000000000000000000000000000000000000
+--- a/pages/ui-store/pages-ui-store
++++ /dev/null
+@@ -1 +0,0 @@
+-../../pages/ui-store
+\ No newline at end of file
 diff --git a/pages/ui/pages-ui b/pages/ui/pages-ui
 deleted file mode 120000
 index 68e446acf8292e436660d15bbbc3177b9a0f54c5..0000000000000000000000000000000000000000
