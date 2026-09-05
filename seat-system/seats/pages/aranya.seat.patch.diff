@@ -271,3 +271,11 @@ index 6f2ef8f7ecb3f96cd18eddfe0db32ae3d1324c48..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../infrastructure/inference-commands
 \ No newline at end of file
+diff --git a/infrastructure/inference-pool/inference-pool b/infrastructure/inference-pool/inference-pool
+deleted file mode 120000
+index 298495f6b77e3d865c4007c5df9a3fd8e77bbe6b..0000000000000000000000000000000000000000
+--- a/infrastructure/inference-pool/inference-pool
++++ /dev/null
+@@ -1 +0,0 @@
+-../../infrastructure/inference-pool
+\ No newline at end of file
