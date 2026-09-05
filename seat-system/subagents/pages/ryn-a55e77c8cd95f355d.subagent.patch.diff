@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-commands/temper-inventory-item-rule-update/temper-inventory-item-rule-update.command.ts b/temper/temper-commands/temper-inventory-item-rule-update/temper-inventory-item-rule-update.command.ts
+index 6c20079903fdc294dd10936bd7ca046565dbe934..127037901a4d3b1cf221ece09aa4f18e1386e98d 100644
+--- a/temper/temper-commands/temper-inventory-item-rule-update/temper-inventory-item-rule-update.command.ts
++++ b/temper/temper-commands/temper-inventory-item-rule-update/temper-inventory-item-rule-update.command.ts
+@@ -29,7 +29,7 @@ export const temperInventoryItemRuleUpdate = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A field the call names nothing for is left as it was.",
++      statement: "A field the call names nothing for is left as the field was.",
+     },
+     {
+       invariantKind: "departure",
