@@ -63,7 +63,7 @@ export const pageCalling = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal over a body that will not read carries what the parser said.",
+      statement: "A refusal over a body that will not read carries the parser's message.",
     },
     {
       invariantKind: "departure",
@@ -91,7 +91,7 @@ export const pageCalling = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what a page type declares.",
+      statement: "Nothing here knows the properties a page type declares.",
     },
   ],
 } as const satisfies Module
