@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/editor-extension/observation-store/observation-store.module.ts b/editor-extension/observation-store/observation-store.module.ts
+index 7cfb6dbb76b789acafc54869f79fd77fffc375a0..786725b2dd8dd8b372140f73aee3236b385ddfdd 100644
+--- a/editor-extension/observation-store/observation-store.module.ts
++++ b/editor-extension/observation-store/observation-store.module.ts
+@@ -27,7 +27,7 @@ export const observationStore = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A refused write leaves the last written state where it was.",
++      statement: "A refused write leaves the last written state where that state was.",
+     },
+     {
+       invariantKind: "departure",
