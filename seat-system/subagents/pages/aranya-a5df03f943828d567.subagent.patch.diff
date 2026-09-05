@@ -1,0 +1,12 @@
+diff --git a/service-system/cluster-services/pages/buildkit/buildkit.cluster-service.ts b/service-system/cluster-services/pages/buildkit/buildkit.cluster-service.ts
+index 44376302b12fa70b4d314cd5455bc6353843f4ba..48712214395c08da2bd506933e862113dc604efd 100644
+--- a/service-system/cluster-services/pages/buildkit/buildkit.cluster-service.ts
++++ b/service-system/cluster-services/pages/buildkit/buildkit.cluster-service.ts
+@@ -11,6 +11,5 @@ export const buildkit = {
+   image: "moby/buildkit:v0.28.0",
+   replicas: 1,
+   containerPort: 1234,
+-  manifestCode:
+-    "service-system/cluster-services/pages/buildkit/buildkit.cluster-service.code.attachment.ts",
++  manifestSlug: "buildkit",
+ } as const satisfies ClusterService
