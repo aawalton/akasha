@@ -30,7 +30,8 @@ export const pageTreeReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A row states the checkout it was read from ahead of the path inside it.",
+      statement:
+        "A row states the checkout that row was read from ahead of the path inside that checkout.",
     },
     {
       invariantKind: "departure",
