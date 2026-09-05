@@ -1,3 +1,23 @@
+diff --git a/alan/web/tsconfig.json b/alan/web/tsconfig.json
+index ab8455e15d79ba046c81d6abe474550ea8830d65..2d5c456da527177768f738aff582ed81077b23ac 100644
+--- a/alan/web/tsconfig.json
++++ b/alan/web/tsconfig.json
+@@ -23,13 +23,14 @@
+     "*/*.module.code.ts",
+     "*/*.module.code.tsx",
+     "*/*.stylesheet.ts",
++    "*/*.manifest.ts",
++    "*/*.manifest.code.ts",
+     ".react-router/types/**/*.ts",
+     ".react-router/types/**/*.tsx",
+     ".react-router/types/**/+types/*.ts",
+     "server.ts",
+     "vite.config.ts",
+     "react-router.config.ts",
+-    "*.cluster-service.code.attachment.ts",
+     "tunnel-routes.ts"
+   ],
+   "exclude": ["node_modules", "dist", "build"]
 diff --git a/service-system/cluster-services/pages/alanwalton-web.cluster-service.ts b/service-system/cluster-services/pages/alanwalton-web.cluster-service.ts
 index 03dd87cfbf5075caa8b54fc8086b0396630a2d3c..abcd131a0494726350fb5cc424d8a25e147ac52a 100644
 --- a/service-system/cluster-services/pages/alanwalton-web.cluster-service.ts
