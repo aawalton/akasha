@@ -45,22 +45,46 @@ index cee8c39a51fabd03c1bcf7723c83720e16e7574a..d4fb9f907b625d2f9a8ef4529ef82fdc
  
      {
        invariantKind: "absence",
-diff --git a/pages/computed-properties/computed-property.page-type.ts b/pages/computed-properties/computed-property.page-type.ts
-index dac373dd018eced970d91e257793aaefc33f5e31..72d6e01909559de26868daa11c13f6b529913af9 100644
---- a/pages/computed-properties/computed-property.page-type.ts
-+++ b/pages/computed-properties/computed-property.page-type.ts
-@@ -63,10 +63,7 @@ export const computedProperty = {
+diff --git a/google/email/commands/email-messages-send/email-messages-send.command.ts b/google/email/commands/email-messages-send/email-messages-send.command.ts
+index f396dc328ab8359587c95f1c1ec0a59a29908cb9..693d8d6e3f4c8eb23f8c7d72ee4f504f5e196f9d 100644
+--- a/google/email/commands/email-messages-send/email-messages-send.command.ts
++++ b/google/email/commands/email-messages-send/email-messages-send.command.ts
+@@ -39,10 +39,7 @@ export const emailMessagesSend = {
        invariantKind: "departure",
-       statement: "A query may answer with a computed property's key.",
+       statement: "A reply's threading is derived from the message replied to rather than stated.",
      },
 -    {
 -      invariantKind: "departure",
--      statement: "A calculation reading a refused calculation is refused too.",
+-      statement: "A subject read from a file carries no line ending.",
 -    },
 +
      {
        invariantKind: "departure",
-       statement: "A chain of reads coming back to where that chain started is refused.",
+       statement: "A body read from a file is carried whole.",
+diff --git a/pages/computed-properties/computed-property.page-type.ts b/pages/computed-properties/computed-property.page-type.ts
+index 6db111c24b07946eeef8f14c3c4dd17c2f9e1965..6273a62b587ecdcb27dad83463ab638df2db3db3 100644
+--- a/pages/computed-properties/computed-property.page-type.ts
++++ b/pages/computed-properties/computed-property.page-type.ts
+@@ -63,11 +63,19 @@ export const computedProperty = {
+       invariantKind: "departure",
+       statement: "A query may answer with a computed property's key.",
+     },
++<<<<<<< what this change would leave
++
++    {
++      invariantKind: "departure",
++      statement: "A chain of reads coming back to where that chain started is refused.",
++    },
++=======
+     {
+       invariantKind: "departure",
+       statement: "A calculation reading a refused calculation is refused too.",
+     },
+ 
++>>>>>>> what HEAD holds
+     {
+       invariantKind: "departure",
+       statement: "A calculation answering absent puts no key in the row.",
 diff --git a/temper/temper-character-skills/character-skills-from-pages/character-skills-from-pages.module.ts b/temper/temper-character-skills/character-skills-from-pages/character-skills-from-pages.module.ts
 index 15fd8f43881e0aa6119c7ba9bd77ba63d15804b3..c6af13ff373cbe1dffd46bde33b826f221926748 100644
 --- a/temper/temper-character-skills/character-skills-from-pages/character-skills-from-pages.module.ts
