@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const commandsDisagreeOnWhichWordComesFirst = {
+  id: "01a073c1-e073-7304-9fd2-d312e380e985",
+  pageTypeSlug: "finding",
+  slug: "commands-disagree-on-which-word-comes-first",
+  domainSlug: "workspace-package/command-system",
+  claim:
+    "Which of a command's words comes first is stated by each command rather than bound once, and the commands disagree. Ten say the act comes first and three say the subject does. The command page type says nothing about word order, though it binds other facts true of every command. Five of the ten also say it a second time in their help notes, so one page states one fact in two properties.",
+  evidence:
+    "Counted over `command-system/commands/*.command.ts`.\n\nTen pages carry an invariant beginning `The act is the first word`: complexity, dev-server, domain, elaine, patch, food, ios-app, model-gateway, wan and zimage. Some add a second clause — `and the food's name is the second`, `and the app is the second`, `and one call names one act`.\n\nThree put the subject first. `calendar.command.ts:87` says `The subject to act on is the first word and the act is the second.` `measure.command.ts:68` says `The subject is the first word.` `track.command.ts:78` says `The thing acted on is the first word and the act is the second.`\n\n`seat.command.ts` carries both orders, at lines 54 and 58, and both are true of it. Its `taking` list settles that: `supervisor` is `what to act on` and `restart` is `the act`, so `supervisor restart` puts the subject first; `stop`, `resume` and `reset` are each `the act` and take `<name>` after, so those put the act first. One command with two shapes rather than a page disagreeing with itself.\n\n`command-system/commands/command.page-type.ts` states nothing about word order. It does bind other facts true of every command — that a path is read against the repository root rather than the calling folder, that a command refusing or throwing changes nothing — so the page is where such a fact goes when there is one to bind.\n\nFive pages say it twice. `complexity.command.ts` has the help note `the act is the first word, and one call names one act.` at line 22 and the invariant `The act is the first word.` at line 38. The same pairing is on dev-server, domain, wan and measure.",
+} as const satisfies Finding
