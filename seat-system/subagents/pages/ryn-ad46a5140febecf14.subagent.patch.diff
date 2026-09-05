@@ -1,0 +1,13 @@
+diff --git a/pages/views/view.page-type.ts b/pages/views/view.page-type.ts
+index daebce705f8eff03365bf44acab96b07526acb76..f67da6ef1aa67b0a579a6f8a37a9c01a7cdc72f3 100644
+--- a/pages/views/view.page-type.ts
++++ b/pages/views/view.page-type.ts
+@@ -102,7 +102,7 @@ export const view = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A view belongs to the nav item that owns it and is drawn nowhere else.",
++      statement: "A view belongs to the nav item that owns that view and is drawn nowhere else.",
+     },
+     {
+       invariantKind: "departure",
