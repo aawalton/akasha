@@ -21,7 +21,7 @@ export const libsetsUpstreamFetch = {
     },
     {
       invariantKind: "departure",
-      statement: "A checkout is read for what the checkout holds before the port runs.",
+      statement: "A checkout is read for the files the checkout holds before the port runs.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +29,7 @@ export const libsetsUpstreamFetch = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the refused folder and what the ruling said.",
+      statement: "A refusal names the refused folder and the reason the ruling gave.",
     },
     {
       invariantKind: "departure",
