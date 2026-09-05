@@ -1,5 +1,5 @@
 diff --git a/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.test.ts b/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.test.ts
-index ed9ad9bdab45d8e2d46368c34d55380bfec900d5..02cc970418bf7a48b2d6e7ad11a22be0dff2b85e 100644
+index ed9ad9bdab45d8e2d46368c34d55380bfec900d5..78fef146ff412a9d1c49d7ce419c2cdfebae27af 100644
 --- a/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.test.ts
 +++ b/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.test.ts
 @@ -39,13 +39,13 @@ const READINGS: readonly Row[] = [
@@ -18,11 +18,20 @@ index ed9ad9bdab45d8e2d46368c34d55380bfec900d5..02cc970418bf7a48b2d6e7ad11a22be0
      const standings = standingsIn(READINGS)
      const slr = standings.filter((one) => one.metric === "supine-slr")
      expect(slr.map((one) => one.side)).toEqual(["left", "right"])
+@@ -56,7 +56,7 @@ describe("where a mobility metric stands", () => {
+     expect(fold?.side).toBeNull()
+   })
+ 
+-  test("the latest reading says where the metric stands and on which day", () => {
++  test("the latest reading says the metric's standing and on which day", () => {
+     const fold = standingsIn(READINGS).find((one) => one.metric === "forward-fold")
+     expect(fold?.latestNum).toBe(6)
+     expect(fold?.latestText).toBe("fingertips to floor")
 diff --git a/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts b/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
-index cd544e4bd3516f4a9ca9576921182eef965b9981..a60cadbdda8e2fa815ac173ad20d96fcbeb83b7b 100644
+index cd544e4bd3516f4a9ca9576921182eef965b9981..c6d83752e3712867329ce220e5bbc59455b10d4a 100644
 --- a/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
 +++ b/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
-@@ -4,13 +4,13 @@ export const mobilityStanding = {
+@@ -4,17 +4,17 @@ export const mobilityStanding = {
    id: "01a0685d-cca7-77f0-a19b-11e24ae9f69e",
    pageTypeSlug: "module",
    slug: "mobility-standing",
@@ -35,6 +44,11 @@ index cd544e4bd3516f4a9ca9576921182eef965b9981..a60cadbdda8e2fa815ac173ad20d96fc
        invariantKind: "departure",
 -      statement: "A metric read on each side stands as two, and one read on neither stands as one.",
 +      statement: "A metric read on each side counts as two, and one read on neither counts as one.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The latest reading of a metric is the one that says where it stands.",
++      statement: "The latest reading of a metric is the one that says its standing.",
      },
      {
        invariantKind: "departure",
