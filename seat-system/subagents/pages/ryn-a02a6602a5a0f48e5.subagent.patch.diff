@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/mobile-cli/ios-program-components/ios-program-components.module.ts b/mobile-cli/ios-program-components/ios-program-components.module.ts
+index 0f9636e8961b653cadbccadd748a302897409d0c..d32513ac48276c735f64e41c4c5db1b89e6aebf2 100644
+--- a/mobile-cli/ios-program-components/ios-program-components.module.ts
++++ b/mobile-cli/ios-program-components/ios-program-components.module.ts
+@@ -9,7 +9,7 @@ export const iosProgramComponents = {
+   invariants: [
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here reads the Swift to learn what a program compiles.",
++      statement: "Nothing here reads the Swift to learn the components a program compiles.",
+     },
+     {
+       invariantKind: "departure",
