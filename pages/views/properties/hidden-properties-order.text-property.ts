@@ -10,11 +10,4 @@ export const hiddenPropertiesOrder = {
   definition: "the properties a view hides, in the order a person would reach them",
   max: 100,
   nameFormatSlug: null,
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement:
-        "A view carries the order its properties are shown in, the hidden ones among those properties.",
-    },
-  ],
 } as const satisfies TextProperty
