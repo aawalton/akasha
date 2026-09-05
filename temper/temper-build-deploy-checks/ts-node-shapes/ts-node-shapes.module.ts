@@ -9,7 +9,7 @@ export const tsNodeShapes = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "A node's name is read off the node or off what the node is bound to.",
+      statement: "A node's name is read off the node or off the declaration the node is bound to.",
     },
     {
       invariantKind: "constraint",
