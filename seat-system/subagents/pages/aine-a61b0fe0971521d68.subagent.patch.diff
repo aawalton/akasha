@@ -46,6 +46,19 @@ index b5cc73dc1c04d1f9181ac904740043a6b03392c0..a91f1edb25eedb6c42d324f8dd440a12
    max: 63,
    nameFormatSlug: "name-format/lower-kebab-case",
  } as const satisfies TextProperty
+diff --git a/service-system/cluster-services/workload-deploying/workload-deploying.module.test.ts b/service-system/cluster-services/workload-deploying/workload-deploying.module.test.ts
+index 0e638b89a985e864f19855a92ad7edff13c23999..0125eb68412639c9435e221bdfecdcfa75683825 100644
+--- a/service-system/cluster-services/workload-deploying/workload-deploying.module.test.ts
++++ b/service-system/cluster-services/workload-deploying/workload-deploying.module.test.ts
+@@ -53,7 +53,7 @@ test("a manifest names the resource its own top-level metadata states", () => {
+   expect(namedIn(YAML)).toEqual({ kind: "Deployment", name: "web", namespace: "one" })
+ })
+ 
+-test("metadata standing inside a pod template names nothing", () => {
++test("metadata inside a pod template names nothing", () => {
+   expect(namedIn(YAML)?.name).not.toBe("not-this-one")
+ })
+ 
 diff --git a/service-system/cluster-services/workload-deploying/workload-deploying.module.ts b/service-system/cluster-services/workload-deploying/workload-deploying.module.ts
 index efdbf7203b096ea3b848c73da6b9da225c5a0c89..5ab6265462056c6f9aeb6c381b4eccebbb3ca28f 100644
 --- a/service-system/cluster-services/workload-deploying/workload-deploying.module.ts
