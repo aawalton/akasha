@@ -1,5 +1,5 @@
 diff --git a/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.code.ts b/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.code.ts
-index 50b0341e28a4e3976fe0012f308649ab975f968f..cb040c99dd0f75530986f43bca952c63ab0fd464 100644
+index 50b0341e28a4e3976fe0012f308649ab975f968f..64d448063cf45d957b7f2859ee39cdec6cd4d75e 100644
 --- a/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.code.ts
 +++ b/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.code.ts
 @@ -92,7 +92,7 @@ export function temperEsoGenerateColonMethods(argv: readonly string[] = []): Ans
@@ -11,8 +11,17 @@ index 50b0341e28a4e3976fe0012f308649ab975f968f..cb040c99dd0f75530986f43bca952c63
          "An empty census reads to every consumer as a clean answer, so nothing was staged.",
        DATA
      )
+@@ -139,7 +139,7 @@ export function temperEsoGenerateColonMethods(argv: readonly string[] = []): Ans
+ 
+   if (staged.landAt === null) {
+     report.push(
+-      "every body above already stands as this run rendered it, so there is nothing to land",
++      "every body above is already what this run rendered, so there is nothing to land",
+       `that is the round trip: the ${String(runs)} runs compose back to the ${String(spec.names.length)} names one file would have held`
+     )
+     return answering(report, [], 0)
 diff --git a/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.ts b/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.ts
-index 99d5f6c5072201c161c1bfb7812219c9bfda23aa..cd0b7bcfb98eac47a5bf461cb656173f62e64cf9 100644
+index 99d5f6c5072201c161c1bfb7812219c9bfda23aa..be8e4e90a0c8ffc75f78bdfa8bb0b0cde9636f6a 100644
 --- a/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.ts
 +++ b/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.ts
 @@ -14,8 +14,7 @@ export const temperEsoGenerateColonMethods = {
@@ -25,8 +34,17 @@ index 99d5f6c5072201c161c1bfb7812219c9bfda23aa..cd0b7bcfb98eac47a5bf461cb656173f
      },
      {
        said: "--stage <path>",
+@@ -25,7 +24,7 @@ export const temperEsoGenerateColonMethods = {
+   ],
+   helpNotes: [
+     "the scan takes every method the source defines on a class, and the census is the distinct names rather than the receivers.",
+-    "nothing reads this census today, which is why it does not stand in akasha. It answered receiver provenance for two checks over the Lua compiler that did not cross, and this command is the rule the census would be made by, kept standing so a consumer arriving again has one.",
++    "nothing reads this census today, which is why it is not in akasha. It answered receiver provenance for two checks over the Lua compiler that did not cross, and this command is the rule the census would be made by, kept in place so a consumer arriving again has one.",
+     "one file of the whole census is many times the fifteen thousand byte akasha ceiling, so it is written as numbered runs with an aggregate composing them, and how many digits a run's ordinal carries follows from how many runs there are.",
+     "nothing lands here. The bodies are staged outside akasha and the writing call that lands them is named, because that call is what judges them against the checks and commits them.",
+     "landing them puts about twelve thousand method names into the tree that nothing asks a question of, so land them when a consumer arrives rather than before.",
 diff --git a/temper/temper-commands/temper-eso-generate-hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts b/temper/temper-commands/temper-eso-generate-hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts
-index c36f9ed97867e00fa8c952e5d5c60730f6a9df3d..da41c8ec44ff43bcc2e12f9b4081db503295c8b4 100644
+index c36f9ed97867e00fa8c952e5d5c60730f6a9df3d..7e9a9c9d08cdee7b07524733fbb6c3a787671bb9 100644
 --- a/temper/temper-commands/temper-eso-generate-hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts
 +++ b/temper/temper-commands/temper-eso-generate-hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts
 @@ -16,7 +16,7 @@ export const temperEsoGenerateHudSceneCatalog = {
@@ -38,3 +56,12 @@ index c36f9ed97867e00fa8c952e5d5c60730f6a9df3d..da41c8ec44ff43bcc2e12f9b4081db50
      "the records are written as three modules divided by how the game hides the part: a fragment group, a scene fragment, or a top-level control.",
      "a component the game parents to GuiRoot and creates at runtime is outside a single-file walk, and so outside this catalog.",
      "a scene source naming no component refuses the call, because an empty catalog reads to every consumer as a clean answer.",
+@@ -29,7 +29,7 @@ export const temperEsoGenerateHudSceneCatalog = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run parses by the rules standing beside it rather than by the tree's.",
++      statement: "A run parses by the rules sitting beside it rather than by the tree's.",
+     },
+     {
+       invariantKind: "departure",
