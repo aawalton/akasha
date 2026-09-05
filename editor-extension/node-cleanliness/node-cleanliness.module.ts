@@ -91,7 +91,8 @@ export const nodeCleanliness = {
     },
     {
       invariantKind: "departure",
-      statement: "That second stage sees only what runs at import, which is where activation dies.",
+      statement:
+        "That second stage sees only the code that runs at import, which is where activation dies.",
     },
     {
       invariantKind: "departure",
