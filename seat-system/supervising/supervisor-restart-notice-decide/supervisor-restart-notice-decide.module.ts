@@ -19,7 +19,7 @@ export const supervisorRestartNoticeDecide = {
     },
     {
       invariantKind: "departure",
-      statement: "An interrupt message stated with the restart is what the seat is told.",
+      statement: "An interrupt message stated with the restart is the notice the seat is told.",
     },
     {
       invariantKind: "departure",
