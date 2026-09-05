@@ -1,5 +1,5 @@
 diff --git a/checks/cluster-checks/cluster-check.page-type.ts b/checks/cluster-checks/cluster-check.page-type.ts
-index 2c28424c28506e214ad9334eb92ab5766ed831f8..4845f72203adfc75e6832c3ff6e80af1df56860c 100644
+index 2c28424c28506e214ad9334eb92ab5766ed831f8..f0c62d6722dbcf6395e36c03f33ea48879778604 100644
 --- a/checks/cluster-checks/cluster-check.page-type.ts
 +++ b/checks/cluster-checks/cluster-check.page-type.ts
 @@ -133,7 +133,7 @@ export const clusterCheck = {
@@ -11,6 +11,15 @@ index 2c28424c28506e214ad9334eb92ab5766ed831f8..4845f72203adfc75e6832c3ff6e80af1
      },
      {
        invariantKind: "departure",
+@@ -146,7 +146,7 @@ export const clusterCheck = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "Every cluster check a person wrote stands as a page here.",
++      statement: "Every cluster check a person wrote is a page here.",
+     },
+     {
+       invariantKind: "gap",
 diff --git a/checks/model-checks/model-check.page-type.ts b/checks/model-checks/model-check.page-type.ts
 index 2cf7551b8afaf545ca9366426d6c9a118117fc77..d031debc396f767f9afee90db76626e5407c79be 100644
 --- a/checks/model-checks/model-check.page-type.ts
