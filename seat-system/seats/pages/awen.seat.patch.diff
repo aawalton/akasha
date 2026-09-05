@@ -1,8 +1,19 @@
 diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts
-index 566093ea0af6a9d67dd8a6b24e368360a1e24dfb..296cc88df2a8bc83d598d06b8ee4d19d1e30c93d 100644
+index 566093ea0af6a9d67dd8a6b24e368360a1e24dfb..c3d34fb249af79f663a12d450e4ed425780ab7f9 100644
 --- a/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts
 +++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts
-@@ -245,3 +245,32 @@ export function change(
+@@ -61,6 +61,10 @@ export const TAKES_NUMBER = "export function held(one: number): number {\n  retu
+ 
+ export const CALLS_HELD = 'import { held } from "./held.ts"\nexport const one = held(1)\n'
+ 
++export function holding(): string {
++  return staged({ "akasha/one.ts": "export const one = 1\n" })
++}
++
+ export const IMPORTS_TYPEGEN =
+   'import type { Route } from "./+types/two"\n\nexport const two: Route = 1\n'
+ 
+@@ -245,3 +249,32 @@ export function change(
      before: based,
    }
  }
