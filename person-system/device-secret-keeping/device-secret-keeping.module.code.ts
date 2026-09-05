@@ -39,7 +39,7 @@ const STAMPED = 6
 
 const OVER = 256
 
-const NO_MATCH = "no device secret stands for the secret presented"
+const NO_MATCH = "no device secret represents the secret presented"
 
 export type Presented =
   | { readonly ok: true; readonly secret: string }
@@ -200,7 +200,7 @@ export async function deviceSecretCarryingHash(
   return onlyOne(
     { [SECRET_HASH_KEY]: { is: secretHash } },
     (page) => page.secretHash === secretHash,
-    "one hash stands on more than one device secret, and neither is read",
+    "one hash sits on more than one device secret, and neither is read",
     fetcher,
     naps
   )
@@ -215,7 +215,7 @@ export async function deviceSecretFor(
   return onlyOne(
     { [USER_ID_KEY]: { is: userId }, [DEVICE_ID_KEY]: { is: deviceId } },
     (page) => page.userId === userId && page.deviceId === deviceId,
-    `more than one device secret stands for ${deviceId}, and neither is read`,
+    `more than one device secret represents ${deviceId}, and neither is read`,
     fetcher,
     naps
   )

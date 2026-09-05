@@ -107,7 +107,7 @@ test("a slug becomes an export name that opens with a letter", () => {
   expect(name).toMatch(AN_IDENTIFIER)
 })
 
-test("a page stands at a path under the device secrets folder", () => {
+test("a page is at a path under the device secrets folder", () => {
   expect(deviceSecretPath("alan-a1b2")).toBe(
     "akasha/person-system/device-secrets/pages/alan-a1b2.device-secret.ts"
   )
@@ -158,7 +158,7 @@ test("a caller presenting something of another shape is refused", async () => {
   expect(refused).toEqual({ outcome: "refused", why: "the device secret presented is malformed" })
 })
 
-test("a caller presenting a secret no page stands for is refused", async () => {
+test("a caller presenting a secret no page represents is refused", async () => {
   const page = pageFor(generateDeviceSecret())
   const refused = await deviceSecretPresented(
     generateDeviceSecret(),
@@ -167,10 +167,10 @@ test("a caller presenting a secret no page stands for is refused", async () => {
   )
   expect(refused.outcome).toBe("refused")
   if (refused.outcome !== "refused") return
-  expect(refused.why).toBe("no device secret stands for the secret presented")
+  expect(refused.why).toBe("no device secret represents the secret presented")
 })
 
-test("a caller presenting a secret a page stands for is read to that account", async () => {
+test("a caller presenting a secret a page represents is read to that account", async () => {
   const secret = generateDeviceSecret()
   const page = pageFor(secret)
   const read = await deviceSecretPresented(
@@ -218,7 +218,7 @@ test("pages that went unread are told apart from pages that matched nothing", as
   expect(held.why).toContain("went unread")
 })
 
-test("a hash standing on two pages is read to neither", async () => {
+test("a hash on two pages is read to neither", async () => {
   const secret = generateDeviceSecret()
   const rows = [pageFor(secret), pageFor(secret, { slug: "alan-another" })]
   const held = await deviceSecretPresented(
@@ -243,5 +243,5 @@ test("the store answers for the device secret page type rather than refusing", a
   )
   expect(held.outcome).toBe("refused")
   if (held.outcome !== "refused") return
-  expect(held.why).toBe("no device secret stands for the secret presented")
+  expect(held.why).toBe("no device secret represents the secret presented")
 })

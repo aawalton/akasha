@@ -30,7 +30,7 @@ export const deviceSecretKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A hash standing on two pages is read to neither page.",
+      statement: "A hash on two pages is read to neither page.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +43,7 @@ export const deviceSecretKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A device minting again keeps the page the device already stands on.",
+      statement: "A device minting again keeps the page the device is already on.",
     },
     {
       invariantKind: "departure",

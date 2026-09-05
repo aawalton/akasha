@@ -11,7 +11,7 @@ export const deviceSecretRevokedAt = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A device secret stating no value for this property still stands.",
+      statement: "A device secret stating no value for this property remains taken.",
     },
   ],
 } as const satisfies InstantProperty
