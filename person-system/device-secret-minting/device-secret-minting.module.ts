@@ -47,11 +47,11 @@ export const deviceSecretMinting = {
     },
     {
       invariantKind: "departure",
-      statement: "A device the route admits keeps what that device holds.",
+      statement: "A device the route admits keeps the secret that device holds.",
     },
     {
       invariantKind: "departure",
-      statement: "A device the route left unanswered keeps what that device holds.",
+      statement: "A device the route left unanswered keeps the secret that device holds.",
     },
     {
       invariantKind: "departure",
