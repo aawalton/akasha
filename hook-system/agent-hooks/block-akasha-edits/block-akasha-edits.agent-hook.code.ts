@@ -47,10 +47,10 @@ export const SCOPE: readonly string[] = [
   "  - a symlink swapped between this hook resolving the path and the tool writing it. The answer",
   "    is true of the tree as it was when the hook ran.",
   "  - another checkout of this repository. The roots are taken from where this hook's own file",
-  "    stands, so a second worktree's `akasha/` is a different folder and is not guarded from here.",
+  "    sits, so a second worktree's `akasha/` is a different folder and is not guarded from here.",
   "  - a change already committed. This hook judges a call before it runs and changes nothing.",
   "",
-  "Printed by `block-akasha-edits.agent-hook.code.ts --scope`, which is where this stands: it is what",
+  "Printed by `block-akasha-edits.agent-hook.code.ts --scope`, which is where this sits: it is what",
   "the program says about itself, held as the text it prints rather than as a comment.",
 ]
 
@@ -108,7 +108,7 @@ function refusingPages(toolName: string, shown: string, name: string, held: stri
   }
   const commands = "The akasha commands write this checkout — they check the change and commit it."
   const why = '--message "<what this change is for>"'
-  const bound = `nothing outside this checkout is refused here, and \`${HOLD}\` stands outside it.`
+  const bound = `nothing outside this checkout is refused here, and \`${HOLD}\` is outside it.`
   if (toolName === EDIT) {
     const was = join(held, `${HOOK_NAME}-${name}.old`)
     const now = join(held, `${HOOK_NAME}-${name}.new`)

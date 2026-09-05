@@ -42,7 +42,7 @@ export const SCOPE: readonly string[] = [
   "",
   "WHERE THE CALL RUNS:",
   "  The repository this guards is the one this hook's own file is in.",
-  "  A call whose working directory stands outside it is let through, so a scratch copy of the",
+  "  A call whose working directory is outside it is let through, so a scratch copy of the",
   "    akasha folder is tested as usual. A second worktree of this repository is not guarded",
   "    from here either, which is the same bound `block-akasha-edits` carries.",
   "  A call stating no working directory is judged as though it ran here.",
@@ -72,7 +72,7 @@ export const SCOPE: readonly string[] = [
   "not name, and a longer list is a longer search prompt. A gap found here is evidence that",
   "this guard cannot close its class, not an invitation to extend it.",
   "",
-  `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this stands:`,
+  `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this sits:`,
   "it is what the program says about itself, held as text it prints rather than as a comment.",
 ]
 

@@ -33,9 +33,9 @@ export const SCOPE: readonly string[] = [
   "  - a path inside akasha that is a link pointing out of it. The read lands outside, so it is",
   "    stood aside. A path is judged by where it lands, never by how it is spelled.",
   "  - another checkout of this repository. The folder is taken from where this hook's own file",
-  "    stands, so a second worktree's `akasha/` is a different folder and is not guarded from here.",
+  "    sits, so a second worktree's `akasha/` is a different folder and is not guarded from here.",
   "",
-  "Printed by `block-akasha-reads.agent-hook.code.ts --scope`, which is where this stands: it is",
+  "Printed by `block-akasha-reads.agent-hook.code.ts --scope`, which is where this sits: it is",
   "what the program says about itself, held as the text it prints rather than as a comment.",
 ]
 
