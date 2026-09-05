@@ -38,3 +38,16 @@ index dc4ee17286345cca805c45b2e0171c1cc9d57e96..b7546a692d9d3536bfe2d48197a3f4f2
      },
      {
        invariantKind: "departure",
+diff --git a/alan/relating/connection-activities/connection-activity.page-type.ts b/alan/relating/connection-activities/connection-activity.page-type.ts
+index 8ef2e89a89d5fcfb22b7bdc654866c7e5f0a6fa4..6554dbd16bd28143164fbcc186618edf46a58c0c 100644
+--- a/alan/relating/connection-activities/connection-activity.page-type.ts
++++ b/alan/relating/connection-activities/connection-activity.page-type.ts
+@@ -132,7 +132,7 @@ export const connectionActivity = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Modality counts a half for presence, a quarter for audio, 0.15 for digital presence, 0.15 for text and 0.1 for image, added together.",
++        "Modality adds up a half presence, a quarter audio, 0.15 digital presence, 0.15 text and 0.1 image.",
+     },
+     {
+       invariantKind: "departure",
