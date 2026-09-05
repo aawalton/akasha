@@ -72,7 +72,11 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A run answers the signal that same group ended on beside that code.",
+      statement: "A group that died on a signal answers that signal and that group's code instead.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The first group to die on a signal is the group answered.",
     },
     {
       invariantKind: "departure",

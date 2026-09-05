@@ -376,10 +376,13 @@ export function ranOver(
       env: { ...process.env, [RUNNING]: MARK },
     })
     output += `${done.out}${done.err}`
-    if (code === 0) {
+    if (signal !== null) continue
+    if (done.signal !== null) {
       code = done.code
       signal = done.signal
+      continue
     }
+    if (code === 0) code = done.code
   }
   return {
     code,
