@@ -1,3 +1,18 @@
+diff --git a/editor-extension/agent-tree-ids/agent-tree-ids.module.code.ts b/editor-extension/agent-tree-ids/agent-tree-ids.module.code.ts
+index fcffcb5512e13e267456ffb372d11f9e8dc08c60..6d35c614c94565ce1a8763ed94f24411c33ed8cb 100644
+--- a/editor-extension/agent-tree-ids/agent-tree-ids.module.code.ts
++++ b/editor-extension/agent-tree-ids/agent-tree-ids.module.code.ts
+@@ -2,10 +2,6 @@ export const VIEW_ID = "opsAgentTree"
+ 
+ export const REFRESH_COMMAND = "opsAgentTree.refreshNow"
+ 
+-export const PLACE_INTERACTIVE_COMMAND = "opsAgentTree.placeInteractive"
+-
+-export const PLACE_HEADLESS_COMMAND = "opsAgentTree.placeHeadless"
+-
+ export const RUN_STOP_COMMAND = "opsAgentTree.runStop"
+ 
+ export const RUN_RESUME_COMMAND = "opsAgentTree.runResume"
 diff --git a/editor-extension/agent-tree-panel/agent-tree-panel.module.code.ts b/editor-extension/agent-tree-panel/agent-tree-panel.module.code.ts
 index b16d80708d7efd8a9f39ec06811560a41e0c5cc0..75e8676d3fcc94b8959a6f3cec3a79c2fcfedded 100644
 --- a/editor-extension/agent-tree-panel/agent-tree-panel.module.code.ts
