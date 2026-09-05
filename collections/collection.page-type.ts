@@ -109,6 +109,7 @@ export const collection = {
     "text-property/collection-author",
     "text-property/collection-description",
     "text-property/collection-tags",
+    "workspace-package/great-courses",
     "workspace-package/royal-road",
   ],
   extendsSlug: ["page-type/page"],
@@ -144,6 +145,10 @@ export const collection = {
     { pagePropertySlug: "unit-words", required: false, many: false },
   ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A book and a course and an album are each one collection.",
+    },
     {
       invariantKind: "departure",
       statement: "The parts of a collection are themselves collections.",

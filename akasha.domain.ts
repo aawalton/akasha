@@ -51,7 +51,7 @@ export const akasha = {
     "domain/story",
     "domain/browser",
     "domain/google",
-    "domain/collection-system",
+    "page-type/collection",
     "domain/places",
     "domain/image-generation",
     "domain/infrastructure",
