@@ -9,7 +9,7 @@ export const mapDataIndex00 = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "These rows are what upstream LibMapData v1.21 states.",
+      statement: "These rows are the rows upstream LibMapData v1.21 states.",
     },
   ],
 } as const satisfies Module
