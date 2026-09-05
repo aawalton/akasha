@@ -16,9 +16,9 @@ const EXIT_DATA = 2
 
 const HELP = `supervisor-agent-settings — print the fleet's agent settings document
 
-Prints \`seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json\` from this repository verbatim, as JSON on stdout, with the hooks akasha declares merged into it. This is
-how a module elsewhere in this repository reaches that document: it is edited here and live on
-the commit, so nothing over there opens it by path.
+Prints \`seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json\` from this repository verbatim, as JSON on stdout, with the hooks akasha declares merged into it. A
+module elsewhere in this repository imports \`agentSettings\` rather than running this, so what
+this prints is for a person reading it.
 
 Usage:
   bun seat-system/supervising/supervisor-agent-settings/supervisor-agent-settings.module.code.ts
@@ -37,6 +37,54 @@ function refuse(message: string, code: number): never {
   process.exit(code)
 }
 
+// What an importer asks for: the document a seat spawns on, with the hooks akasha declares
+// merged in. It throws rather than answering with nothing, so a caller is the one that decides
+// what nothing means for it.
+export function agentSettings(): Record<string, unknown> {
+  const path = SETTINGS_AT
+
+  let raw: string
+  try {
+    raw = readFileSync(path, "utf8")
+  } catch (cause) {
+    throw new Error(
+      `the agent settings document at ${path} could not be read, so nothing is answered ` +
+        `about what the fleet loads: ${cause instanceof Error ? cause.message : String(cause)}`
+    )
+  }
+
+  let parsed: unknown
+  try {
+    parsed = JSON.parse(raw)
+  } catch (cause) {
+    throw new Error(
+      `the agent settings document at ${path} is not readable JSON, so nothing is answered ` +
+        `about what the fleet loads: ${cause instanceof Error ? cause.message : String(cause)}`
+    )
+  }
+
+  if (typeof parsed !== "object" || parsed === null || Array.isArray(parsed)) {
+    throw new Error(
+      `the agent settings document at ${path} holds ${Array.isArray(parsed) ? "an array" : typeof parsed} ` +
+        "at the top level, where every reader of it walks an object of keys."
+    )
+  }
+
+  const document = parsed as Record<string, unknown>
+  const root = ownRepoRoot()
+  let derived: Record<string, HookRegistration[]>
+  try {
+    derived = hooksFrom(root)
+  } catch (cause) {
+    throw new Error(
+      `the agent hooks akasha states could not be read, so nothing is answered about what the ` +
+        `fleet loads: ${cause instanceof Error ? cause.message : String(cause)}`
+    )
+  }
+
+  return { ...document, hooks: hooksMerged(document["hooks"], derived) }
+}
+
 function main(): undefined {
   const argv = process.argv.slice(2)
   if (argv.includes("--help") || argv.includes("-h")) {
@@ -51,54 +99,14 @@ function main(): undefined {
     )
   }
 
-  const path = SETTINGS_AT
-
-  let raw: string
+  let document: Record<string, unknown>
   try {
-    raw = readFileSync(path, "utf8")
+    document = agentSettings()
   } catch (cause) {
-    refuse(
-      `the agent settings document at ${path} could not be read, so nothing is answered ` +
-        `about what the fleet loads: ${cause instanceof Error ? cause.message : String(cause)}`,
-      EXIT_DATA
-    )
+    refuse(cause instanceof Error ? cause.message : String(cause), EXIT_DATA)
   }
 
-  let parsed: unknown
-  try {
-    parsed = JSON.parse(raw)
-  } catch (cause) {
-    refuse(
-      `the agent settings document at ${path} is not readable JSON, so nothing is answered ` +
-        `about what the fleet loads: ${cause instanceof Error ? cause.message : String(cause)}`,
-      EXIT_DATA
-    )
-  }
-
-  if (typeof parsed !== "object" || parsed === null || Array.isArray(parsed)) {
-    refuse(
-      `the agent settings document at ${path} holds ${Array.isArray(parsed) ? "an array" : typeof parsed} ` +
-        "at the top level, where every reader of it walks an object of keys.",
-      EXIT_DATA
-    )
-  }
-
-  const document = parsed as Record<string, unknown>
-  const root = ownRepoRoot()
-  let derived: Record<string, HookRegistration[]>
-  try {
-    derived = hooksFrom(root)
-  } catch (cause) {
-    refuse(
-      `the agent hooks akasha states could not be read, so nothing is answered about what the ` +
-        `fleet loads: ${cause instanceof Error ? cause.message : String(cause)}`,
-      EXIT_DATA
-    )
-  }
-
-  process.stdout.write(
-    `${JSON.stringify({ ...document, hooks: hooksMerged(document["hooks"], derived) })}\n`
-  )
+  process.stdout.write(`${JSON.stringify(document)}\n`)
   return undefined
 }
 

@@ -9,6 +9,10 @@ export const supervisorAgentSettings = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "What asks for the settings imports this and calls it rather than running it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The document is read from this checkout rather than from a copy on disk.",
     },
     {

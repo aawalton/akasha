@@ -1,11 +1,11 @@
-import { spawnSync } from "node:child_process"
 import { createHash } from "node:crypto"
 import { existsSync, renameSync, writeFileSync } from "node:fs"
 import { shape } from "@akasha/utils-narrow/shape"
+import { agentSettings } from "../supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
 
 const LOG = "[spawn-settings]"
 
-export const AGENT_SETTINGS_COMMAND = "agent-settings"
+export const AGENT_SETTINGS_MODULE = "supervisor-agent-settings"
 
 export const AGENT_SETTINGS_PATH = new URL(
   "../../agent-settings/pages/agents/agents.agent-settings.harness-settings.json",
@@ -35,67 +35,31 @@ export type SpawnSettingsBase =
 
 const SETTINGS_OBJECT = shape.record(shape.string(), shape.unknown())
 
-export function parseAgentSettings(stdout: string): SpawnSettingsBase {
-  let parsed: ReturnType<typeof SETTINGS_OBJECT.safeParse>
-  try {
-    parsed = SETTINGS_OBJECT.safeParse(JSON.parse(stdout))
-  } catch (err) {
-    return { kind: "absent", reason: `invalid JSON: ${err instanceof Error ? err.message : err}` }
-  }
+/** The composed document as a spawn takes it, or the reason it is no use here. */
+export function checkAgentSettings(document: Record<string, unknown>): SpawnSettingsBase {
+  const parsed = SETTINGS_OBJECT.safeParse(document)
   if (!parsed.success) {
     return { kind: "absent", reason: "expected a JSON object at the top level" }
   }
   return { kind: "loaded", settings: parsed.data }
 }
 
-export type AskAgentSettings = () => Promise<{
-  readonly stdout: string
-  readonly stderr: string
-  readonly code: number
-}>
+export type AskAgentSettings = () => Record<string, unknown>
 
-const EXIT_DATA = 2
-
-const MOST = 32 * 1024 * 1024
-
-const AGENT_SETTINGS_AT = new URL(
-  "../supervisor-agent-settings/supervisor-agent-settings.module.code.ts",
-  import.meta.url
-).pathname
-
-const liveAsk: AskAgentSettings = async () => {
-  const ran = spawnSync(process.execPath, [AGENT_SETTINGS_AT], {
-    encoding: "utf8",
-    maxBuffer: MOST,
-  })
-  if (ran.error !== undefined) {
-    return {
-      stdout: "",
-      stderr:
-        `\`${AGENT_SETTINGS_COMMAND}\` could not be run at ${AGENT_SETTINGS_AT}, so nothing is ` +
-        `answered about what the fleet loads: ${ran.error.message}`,
-      code: EXIT_DATA,
-    }
-  }
-  return { stdout: ran.stdout ?? "", stderr: ran.stderr ?? "", code: ran.status ?? EXIT_DATA }
-}
-
-export async function readAgentSettingsBase(
-  ask: AskAgentSettings = liveAsk
+// The answer is staged as a promise because two callers await it, and neither is touched here.
+export function readAgentSettingsBase(
+  ask: AskAgentSettings = agentSettings
 ): Promise<SpawnSettingsBase> {
-  let answer: Awaited<ReturnType<AskAgentSettings>>
+  let document: Record<string, unknown>
   try {
-    answer = await ask()
+    document = ask()
   } catch (err) {
-    return { kind: "absent", reason: err instanceof Error ? err.message : String(err) }
-  }
-  if (answer.code !== 0) {
-    return {
+    return Promise.resolve({
       kind: "absent",
-      reason: `\`${AGENT_SETTINGS_COMMAND}\` exited ${answer.code}: ${answer.stderr.trim() || "(nothing on stderr)"}`,
-    }
+      reason: `\`${AGENT_SETTINGS_MODULE}\` threw: ${err instanceof Error ? err.message : String(err)}`,
+    })
   }
-  return parseAgentSettings(answer.stdout)
+  return Promise.resolve(checkAgentSettings(document))
 }
 
 export function composeSpawnSettings(
@@ -107,7 +71,7 @@ export function composeSpawnSettings(
 
 function warnAbsent(reason: string): undefined {
   console.error(
-    `${LOG} agent settings NOT loaded: \`${AGENT_SETTINGS_COMMAND}\` — ${reason}.\n` +
+    `${LOG} agent settings NOT loaded: \`${AGENT_SETTINGS_MODULE}\` — ${reason}.\n` +
       `${LOG} this spawn carries only the per-spawn overrides; every key the ` +
       `document declares (hooks, env, permissions, fastMode, statusLine) is inert ` +
       `for it. Restore seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json.`
@@ -118,7 +82,7 @@ export async function materializeSpawnSettings(
   overrides: SpawnSettingsOverrides,
   opts?: { readonly ask?: AskAgentSettings; readonly tmpDir?: string }
 ): Promise<string> {
-  const base = await readAgentSettingsBase(opts?.ask ?? liveAsk)
+  const base = await readAgentSettingsBase(opts?.ask ?? agentSettings)
   if (base.kind === "absent") warnAbsent(base.reason)
 
   const payload = composeSpawnSettings(base.kind === "loaded" ? base.settings : null, overrides)
