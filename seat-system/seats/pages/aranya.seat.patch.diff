@@ -567,6 +567,14 @@ index f6b3768fce6c8e8701bf3dd524c6f7a7f0647edd..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../supabase-server
 \ No newline at end of file
+diff --git a/testing-system/testing-system b/testing-system/testing-system
+deleted file mode 120000
+index 40eccfa81d849d8887ca8e7866344142bffd72ba..0000000000000000000000000000000000000000
+--- a/testing-system/testing-system
++++ /dev/null
+@@ -1 +0,0 @@
+-../../testing-system
+\ No newline at end of file
 diff --git a/utils-fs/utils-fs b/utils-fs/utils-fs
 deleted file mode 120000
 index 8a4350bb29c2cb7e9846cf1a8d7d0cf52c94bd83..0000000000000000000000000000000000000000
