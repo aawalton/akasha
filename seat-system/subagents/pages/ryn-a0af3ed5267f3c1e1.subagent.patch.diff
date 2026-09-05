@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.ts b/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.ts
+index 9e6965e1b387ca9094d1a2f2be7d2669ca0568ef..d5deaca3a64eea1eb85d1b0414dfe02339149540 100644
+--- a/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.ts
++++ b/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.ts
+@@ -40,7 +40,7 @@ export const propertyIsDeclaredByAType = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What declares a page is one directory listed on the index as the change leaves the index.",
++        "The declarer of a page is one directory listed on the index as the change leaves the index.",
+     },
+     {
+       invariantKind: "departure",
