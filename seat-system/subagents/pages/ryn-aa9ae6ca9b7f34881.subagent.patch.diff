@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/migration-system/landing/migration-landing.module.ts b/migration-system/landing/migration-landing.module.ts
-index 40d075ac0cdd53d46ff944fc5fc1986b610d8b81..a4c25a4fa2463cedb63459dad76a0091e5bbdeee 100644
+index 40d075ac0cdd53d46ff944fc5fc1986b610d8b81..3bd22e26a9018b44a2c825e5fa4940c91b078011 100644
 --- a/migration-system/landing/migration-landing.module.ts
 +++ b/migration-system/landing/migration-landing.module.ts
 @@ -14,7 +14,7 @@ export const migrationLanding = {
@@ -33,6 +33,15 @@ index 40d075ac0cdd53d46ff944fc5fc1986b610d8b81..a4c25a4fa2463cedb63459dad76a0091
        invariantKind: "departure",
 -      statement: "What stopped a migration is answered.",
 +      statement: "The reason a migration stopped is answered.",
+     },
+     {
+       invariantKind: "departure",
+@@ -126,7 +127,7 @@ export const migrationLanding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a refused batch answered is said under the batch.",
++      statement: "The lines a refused batch answered with are said under the batch.",
      },
      {
        invariantKind: "departure",
