@@ -54,7 +54,7 @@ export const extensionEntry = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what a panel draws.",
+      statement: "Nothing here knows the contents a panel draws.",
     },
     {
       invariantKind: "absence",
