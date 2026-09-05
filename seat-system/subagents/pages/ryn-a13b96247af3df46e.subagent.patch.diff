@@ -1,0 +1,13 @@
+diff --git a/command-system/drafting/drafting.module.ts b/command-system/drafting/drafting.module.ts
+index 4edf8938480f28ac2c48ff373d1adc82cb78a5d6..a44488a7cb4730aa9d5990490613d58a6db1fddf 100644
+--- a/command-system/drafting/drafting.module.ts
++++ b/command-system/drafting/drafting.module.ts
+@@ -14,7 +14,7 @@ export const drafting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A body is carried as the bytes it is rather than as text.",
++      statement: "A body is carried as the bytes that body is rather than as text.",
+     },
+     {
+       invariantKind: "departure",
