@@ -1,0 +1,13 @@
+diff --git a/alan/fitness/session-planning/session-selection/session-selection.module.ts b/alan/fitness/session-planning/session-selection/session-selection.module.ts
+index 43f8c78b329775be97714c7aa06287016347ea30..5dca006856eb65f47b46b452dcf12a231b0a0cbc 100644
+--- a/alan/fitness/session-planning/session-selection/session-selection.module.ts
++++ b/alan/fitness/session-planning/session-selection/session-selection.module.ts
+@@ -11,7 +11,7 @@ export const sessionSelection = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Slots are filled in the order the template states them.",
++      statement: "Slots are filled in the order the template states those slots.",
+     },
+     {
+       invariantKind: "departure",
