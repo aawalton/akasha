@@ -65,6 +65,91 @@ index 48dcdf0428f8d09cb89a40f131ed9283ab1585fe..36568d3bc522827f29afa9bcf7f287d9
 -    },
    ],
  } as const satisfies Module
+diff --git a/seat-system/supervising/supervisor-boot-prompt/supervisor-boot-prompt.module.code.ts b/seat-system/supervising/supervisor-boot-prompt/supervisor-boot-prompt.module.code.ts
+index 5d004c1c3f97fddf10668ff66ee75a81d362721d..8e2d0f0575f8caf58a7abee5ea4109dcefa261a5 100644
+--- a/seat-system/supervising/supervisor-boot-prompt/supervisor-boot-prompt.module.code.ts
++++ b/seat-system/supervising/supervisor-boot-prompt/supervisor-boot-prompt.module.code.ts
+@@ -1,70 +1,35 @@
+-import { existsSync, renameSync } from "node:fs"
+-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
++import { renameSync, writeFileSync } from "node:fs"
++import { compositionFor } from "../../compose-boot/compose-boot.module.code.ts"
+ 
+ const LOG = "[boot-prompt]"
+-const COMPOSE_RELPATH = "seat-system/compose-boot/compose-boot.module.code.ts"
+-
+-const COMPOSE_CEILING_MS = 30_000
+ 
+ export interface BootPromptOptions {
+   readonly tmpDir?: string
+-  readonly ceilingMs?: number
+ }
+ 
+-export async function materializeBootPrompt(
++export function materializeBootPrompt(
+   agentId: string | undefined,
+   opts?: BootPromptOptions
+ ): Promise<string | null> {
+   if (agentId === undefined || agentId === "") {
+     console.log(`${LOG} no agent id; spawning with no authored prompt`)
+-    return null
+-  }
+-  const verb = `${rootFor(resolveRoots(), AKASHA)}/${COMPOSE_RELPATH}`
+-  if (!existsSync(verb)) {
+-    console.log(`${LOG} ${verb} is not there; spawning with no authored prompt`)
+-    return null
++    return Promise.resolve(null)
+   }
+   const target = `${opts?.tmpDir ?? "/var/tmp"}/agent-boot-prompt-${agentId}.md`
+   const tmp = `${target}.tmp-${process.pid}`
+   try {
+-    const proc = Bun.spawn({
+-      cmd: [process.execPath, verb, "--agent", agentId, "--out", tmp],
+-      stdin: "ignore",
+-      stdout: "ignore",
+-      stderr: "pipe",
+-    })
+-    const ceiling = opts?.ceilingMs ?? COMPOSE_CEILING_MS
+-    let overran = false
+-    const backstop = setTimeout(() => {
+-      overran = true
+-      proc.kill("SIGKILL")
+-    }, ceiling)
+-    let exitCode: number
+-    try {
+-      exitCode = await proc.exited
+-    } finally {
+-      clearTimeout(backstop)
+-    }
+-    if (overran) {
+-      console.log(
+-        `${LOG} ${COMPOSE_RELPATH} did not finish within ${ceiling}ms; spawning with no authored prompt`
+-      )
+-      return null
+-    }
+-    if (exitCode !== 0) {
+-      console.log(`${LOG} ${COMPOSE_RELPATH} exited non-zero; spawning with no authored prompt`)
+-      return null
+-    }
+-    if (!existsSync(tmp) || Bun.file(tmp).size === 0) {
++    const body = compositionFor(agentId)
++    if (body === "") {
+       console.log(`${LOG} ${agentId} composed to nothing; spawning with no authored prompt`)
+-      return null
++      return Promise.resolve(null)
+     }
++    writeFileSync(tmp, body)
+     renameSync(tmp, target)
+-    return target
++    return Promise.resolve(target)
+   } catch (error) {
+     console.log(
+       `${LOG} could not compose: ${error instanceof Error ? error.message : String(error)}`
+     )
+-    return null
++    return Promise.resolve(null)
+   }
+ }
 diff --git a/seat-system/supervising/supervisor-spawn-agents/supervisor-spawn-agents.module.code.ts b/seat-system/supervising/supervisor-spawn-agents/supervisor-spawn-agents.module.code.ts
 index c82ac345639cfd9adb13f91b274ad6a998d6069f..d471ef7cabe07fb1f4f1f63992ddce506eddd45d 100644
 --- a/seat-system/supervising/supervisor-spawn-agents/supervisor-spawn-agents.module.code.ts
