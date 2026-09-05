@@ -76,6 +76,27 @@ index 43e00625d6ee03c01c8dcbba9ed35940d9bc391e..50c93f22b9017f374686df2d635dba14
  export function repositoryPath(repo: string): string {
    try {
      return fs.realpathSync(repo)
+diff --git a/editor-extension/ops-extension/package.json b/editor-extension/ops-extension/package.json
+index 4689029bd9afd23c02de41fcdc298525cf800988..81443c709e679a35e0737c1825b98630dfe74e42 100644
+--- a/editor-extension/ops-extension/package.json
++++ b/editor-extension/ops-extension/package.json
+@@ -101,16 +101,6 @@
+         "title": "Ops Pages: Refresh Now",
+         "icon": "$(refresh)"
+       },
+-      {
+-        "command": "opsAgentTree.placeInteractive",
+-        "category": "Ops Agents",
+-        "title": "Run Interactively"
+-      },
+-      {
+-        "command": "opsAgentTree.placeHeadless",
+-        "category": "Ops Agents",
+-        "title": "Run Headless"
+-      },
+       {
+         "command": "opsAgentTree.runStop",
+         "category": "Ops Agents",
 diff --git a/editor-extension/seat-act-confirm/seat-act-confirm.module.code.ts b/editor-extension/seat-act-confirm/seat-act-confirm.module.code.ts
 index 9a4e1fb847a8ca276576c0d25842dab82a203763..e5bc940f50762f9d69ce7e05ffefc910184e04cc 100644
 --- a/editor-extension/seat-act-confirm/seat-act-confirm.module.code.ts
