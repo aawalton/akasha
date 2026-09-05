@@ -7,12 +7,12 @@ export const rule8f35e006 = {
   title: "Crown tri-pots stay banked",
   description:
     "Gap B1: bank is the deliberate stock home (2-3 chars at a time, manual pulls). Replaces the lock. Must run before f0ce7528.",
+  conditions: "jsonl",
+  destination: "bank",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "potions",
   displayOrder: 17,
   action: "move-to",
   active: true,
   updatedAt: "2026-07-05T13:20:46.391Z",
-  destination: "bank",
-  conditions: "jsonl",
 } as const satisfies TemperInventoryRule
