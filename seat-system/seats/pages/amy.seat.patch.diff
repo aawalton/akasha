@@ -1,0 +1,284 @@
+diff --git a/editor-extension/page-tree-panel/page-tree-panel.module.code.ts b/editor-extension/page-tree-panel/page-tree-panel.module.code.ts
+index 9255f53da799c62e6bd856899bef464f46eb3b94..357519ccbe148c58536e81ffe984ed9df2f48008 100644
+--- a/editor-extension/page-tree-panel/page-tree-panel.module.code.ts
++++ b/editor-extension/page-tree-panel/page-tree-panel.module.code.ts
+@@ -6,7 +6,6 @@ import {
+ } from "../../alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts"
+ import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
+ import { recordObservation } from "../observation-store/observation-store.module.code.ts"
+-import type { PageNode, PageTree } from "../page-tree-assemble/page-tree-assemble.module.code.ts"
+ import { REFRESH_COMMAND, VIEW_ID } from "../page-tree-ids/page-tree-ids.module.code.ts"
+ import { countPages, countRows } from "../page-tree-reading/page-tree-reading.module.code.ts"
+ import { createPageTree } from "../page-tree-view/page-tree-view.module.code.ts"
+@@ -14,27 +13,16 @@ import { createPageTree } from "../page-tree-view/page-tree-view.module.code.ts"
+ const FEATURE = "page-tree"
+ const SLUG = "page-tree"
+ 
+-// The file spells a row the way every state file spells one. The panel spells it another way, so
+-// the two are bridged here. The document needs no work: the file names it by a whole path and the
+-// panel opens exactly that.
+-function asNode(row: PageTreeRow): PageNode {
+-  return {
+-    id: row.key,
+-    label: row.label,
+-    at: row.at,
+-    detail: row.detail,
+-    children: row.children.map(asNode),
+-  }
+-}
+-
+ let output: vscode.OutputChannel
+ 
+ export async function activate(context: vscode.ExtensionContext): Promise<undefined> {
+   output = vscode.window.createOutputChannel("Ops: Page Tree")
+   context.subscriptions.push(output)
+ 
++  // THE FILE'S OWN ROW IS WHAT IS DRAWN. The row already names its document by a whole path, so
++  // there is nothing between the file and the view to spell it a second way.
+   const tree = createPageTree()
+-  const view = vscode.window.createTreeView<PageNode>(VIEW_ID, {
++  const view = vscode.window.createTreeView<PageTreeRow>(VIEW_ID, {
+     treeDataProvider: tree.provider,
+     showCollapseAll: true,
+     showExpandAll: true,
+@@ -61,37 +49,32 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
+ 
+   const draw = (state: PageTreeState, trigger: string): undefined => {
+     try {
+-      const next: PageTree = {
+-        repo: akashaRoot(),
+-        roots: state.roots.map(asNode),
+-        unreached: state.unreached,
+-      }
+-      tree.replace(next)
+-      const rows = countRows(next.roots)
+-      const pages = countPages(next.roots)
++      tree.replace(state.roots)
++      const rows = countRows(state.roots)
++      const pages = countPages(state.roots)
+       total = rows
+       describe()
+       view.badge = { value: rows, tooltip: rows === 1 ? "1 row" : `${rows} rows` }
+       view.message = undefined
+       output.appendLine(
+         `[${trigger}] ${rows} row(s), ${pages} of them opening a document, ` +
+-          `under ${next.roots.length} root(s)` +
+-          (next.unreached.length === 0
++          `under ${state.roots.length} root(s)` +
++          (state.unreached.length === 0
+             ? ""
+-            : `; ${next.unreached.length} reached by no root: ${next.unreached.join(", ")}`)
++            : `; ${state.unreached.length} reached by no root: ${state.unreached.join(", ")}`)
+       )
+       recordObservation(FEATURE, {
+         outcome: "ok",
+         counts: {
+           rows,
+           pages,
+-          roots: next.roots.length,
+-          reachedByNoRoot: next.unreached.length,
++          roots: state.roots.length,
++          reachedByNoRoot: state.unreached.length,
+         },
+       })
+-      if (next.unreached.length > 0) {
++      if (state.unreached.length > 0) {
+         void vscode.window.showWarningMessage(
+-          `Pages: ${next.unreached.length} page type(s) hang under no root and are not shown. ` +
++          `Pages: ${state.unreached.length} page type(s) hang under no root and are not shown. ` +
+             "See the Ops: Page Tree output."
+         )
+       }
+diff --git a/editor-extension/page-tree-panel/page-tree-panel.module.ts b/editor-extension/page-tree-panel/page-tree-panel.module.ts
+index 1e52b84739747f5d2528a488444ac1defcae93e5..e9768228fba6b675f12e27429d9f0388d1b639d9 100644
+--- a/editor-extension/page-tree-panel/page-tree-panel.module.ts
++++ b/editor-extension/page-tree-panel/page-tree-panel.module.ts
+@@ -34,11 +34,7 @@ export const pageTreePanel = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row is spelled for the panel from the row the file carries.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A row's document is carried on whole, there being nothing here to join.",
++      statement: "The rows the file carries are drawn as they are rather than spelled again.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/page-tree-reading/page-tree-reading.module.code.ts b/editor-extension/page-tree-reading/page-tree-reading.module.code.ts
+index 04359acdf35cf14cef8f41423d00473eaf032dbe..8514228b06d5d0bd382f1281dfcc61bd49c392ab 100644
+--- a/editor-extension/page-tree-reading/page-tree-reading.module.code.ts
++++ b/editor-extension/page-tree-reading/page-tree-reading.module.code.ts
+@@ -1,6 +1,4 @@
+-import type { PageNode } from "../page-tree-assemble/page-tree-assemble.module.code.ts"
+-
+-export function countRows(nodes: readonly PageNode[]): number {
++export function countRows(nodes: readonly PageTreeRow[]): number {
+   let total = 0
+   for (const node of nodes) {
+     total += 1 + countRows(node.children)
+@@ -8,16 +6,10 @@ export function countRows(nodes: readonly PageNode[]): number {
+   return total
+ }
+ 
+-export function countPages(nodes: readonly PageNode[]): number {
++export function countPages(nodes: readonly PageTreeRow[]): number {
+   let total = 0
+   for (const node of nodes) {
+     total += (node.at === null ? 0 : 1) + countPages(node.children)
+   }
+   return total
+ }
+-
+-// A ROW REPRESENTING NO PAGE OPENS NOTHING. Every other row names its document by a whole path,
+-// the service knowing the checkout, so there is nothing to join here.
+-export function documentPath(node: PageNode): string | undefined {
+-  return node.at ?? undefined
+-}
+diff --git a/editor-extension/page-tree-reading/page-tree-reading.module.ts b/editor-extension/page-tree-reading/page-tree-reading.module.ts
+index 15df291c257a364d7de0144f8b4642eeb120c078..88302cf5a1077629777978c928ce2af9fef8edf4 100644
+--- a/editor-extension/page-tree-reading/page-tree-reading.module.ts
++++ b/editor-extension/page-tree-reading/page-tree-reading.module.ts
+@@ -4,21 +4,13 @@ export const pageTreeReading = {
+   id: "01a06867-dbcb-7300-9560-2f216f804af7",
+   pageTypeSlug: "module",
+   slug: "page-tree-reading",
+-  definition: "how many rows a page tree holds and which document each of its rows opens",
++  definition: "how many rows a page tree holds and how many of them open a document",
+   code: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+       statement: "How many rows the tree holds is counted apart from how many open a document.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A row names its document by a whole path, so nothing is joined to open one.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A row representing no page opens no document.",
+-    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here reads the index.",
+diff --git a/editor-extension/page-tree-view/page-tree-view.module.code.ts b/editor-extension/page-tree-view/page-tree-view.module.code.ts
+index ed3f446a22d43e144840073f70c05804126db182..a6f91a6197d305da66d14e2497eb8077e26887cb 100644
+--- a/editor-extension/page-tree-view/page-tree-view.module.code.ts
++++ b/editor-extension/page-tree-view/page-tree-view.module.code.ts
+@@ -1,33 +1,34 @@
+ import * as vscode from "vscode"
+-import type { PageNode, PageTree } from "../page-tree-assemble/page-tree-assemble.module.code.ts"
+-import { documentPath } from "../page-tree-reading/page-tree-reading.module.code.ts"
+ import { filterTree, textMatches } from "../tree-filter/tree-filter.module.code.ts"
+ 
+ const OPEN_COMMAND = "vscode.open"
+ 
+ export interface PageTreeView {
+-  readonly provider: vscode.TreeDataProvider<PageNode>
+-  readonly replace: (tree: PageTree) => undefined
++  readonly provider: vscode.TreeDataProvider<PageTreeRow>
++  readonly replace: (roots: readonly PageTreeRow[]) => undefined
+   readonly filter: (pattern: string) => undefined
+   readonly matchCount: () => number | undefined
+   readonly dispose: () => undefined
+ }
+ 
++// THE ROW THE FILE CARRIES IS THE ROW DRAWN, WITH NOTHING SPELLED AGAIN BETWEEN THE TWO. The file
++// and the panel once differed over one field name, and five thousand rows were built again on the
++// thread that draws them to rename it.
+ export function createPageTree(): PageTreeView {
+   const emitter = new vscode.EventEmitter<undefined>()
+-  let tree: PageTree | undefined
++  let held: readonly PageTreeRow[] = []
+   let pattern = ""
+-  let narrowed: readonly PageNode[] | undefined
++  let narrowed: readonly PageTreeRow[] | undefined
+   let matched: number | undefined
+ 
+   const narrow = (): undefined => {
+-    if (pattern.trim() === "" || tree === undefined) {
++    if (pattern.trim() === "") {
+       narrowed = undefined
+       matched = undefined
+       return undefined
+     }
+-    const result = filterTree<PageNode>(
+-      tree.roots,
++    const result = filterTree<PageTreeRow>(
++      held,
+       (node) => node.children,
+       (node) => textMatches(pattern, node.label, node.detail),
+       (node, children) => ({ ...node, children })
+@@ -37,18 +38,18 @@ export function createPageTree(): PageTreeView {
+     return undefined
+   }
+ 
+-  const provider: vscode.TreeDataProvider<PageNode> = {
++  const provider: vscode.TreeDataProvider<PageTreeRow> = {
+     onDidChangeTreeData: emitter.event,
+-    getChildren: (element?: PageNode) => [
+-      ...(element === undefined ? (narrowed ?? tree?.roots ?? []) : element.children),
++    getChildren: (element?: PageTreeRow) => [
++      ...(element === undefined ? (narrowed ?? held) : element.children),
+     ],
+-    getTreeItem: (element: PageNode) => buildTreeItem(element, narrowed !== undefined),
++    getTreeItem: (element: PageTreeRow) => buildTreeItem(element, narrowed !== undefined),
+   }
+ 
+   return {
+     provider,
+-    replace: (next: PageTree) => {
+-      tree = next
++    replace: (next: readonly PageTreeRow[]) => {
++      held = next
+       narrow()
+       emitter.fire(undefined)
+       return undefined
+@@ -70,7 +71,7 @@ export function createPageTree(): PageTreeView {
+   }
+ }
+ 
+-function buildTreeItem(element: PageNode, filtering: boolean): vscode.TreeItem {
++function buildTreeItem(element: PageTreeRow, filtering: boolean): vscode.TreeItem {
+   const item = new vscode.TreeItem(
+     element.label,
+     element.children.length === 0
+@@ -79,18 +80,17 @@ function buildTreeItem(element: PageNode, filtering: boolean): vscode.TreeItem {
+         ? vscode.TreeItemCollapsibleState.Expanded
+         : vscode.TreeItemCollapsibleState.Collapsed
+   )
+-  item.id = filtering ? `filtered:${element.id}` : element.id
++  item.id = filtering ? `filtered:${element.key}` : element.key
+   item.count = element.children.length === 0 ? undefined : element.children.length
+   item.description = element.detail ?? undefined
+   item.tooltip = [element.label, element.detail, element.at]
+     .filter((line): line is string => line !== null)
+     .join("\n")
+-  const absolute = documentPath(element)
+-  if (absolute !== undefined) {
++  if (element.at !== null) {
+     item.command = {
+       command: OPEN_COMMAND,
+       title: "Open this document",
+-      arguments: [vscode.Uri.file(absolute), { preview: true }],
++      arguments: [vscode.Uri.file(element.at), { preview: true }],
+     }
+   }
+   return item
+diff --git a/editor-extension/page-tree-view/page-tree-view.module.ts b/editor-extension/page-tree-view/page-tree-view.module.ts
+index dfce65a7e6aabf5a838253acf6dcf4a942d45af8..3aa9dc6635afd218ee181111281fff11059e979d 100644
+--- a/editor-extension/page-tree-view/page-tree-view.module.ts
++++ b/editor-extension/page-tree-view/page-tree-view.module.ts
+@@ -40,6 +40,10 @@ export const pageTreeView = {
+       invariantKind: "departure",
+       statement: "A row representing no page opens no document rather than opening the wrong one.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A row opens the whole path that row carries rather than one composed here.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "How many rows matched is answered as none where no filter is there.",
