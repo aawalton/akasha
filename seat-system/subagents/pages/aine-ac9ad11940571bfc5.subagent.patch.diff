@@ -1,0 +1,136 @@
+diff --git a/alan/web/.server/device-secret-context/device-secret-context.module.ts b/alan/web/.server/device-secret-context/device-secret-context.module.ts
+index a42a23a77f10571b16f8b1c7c131e82b6d330fe1..9496950fa95e9d46bf97d4eda0fd0ff56520b10f 100644
+--- a/alan/web/.server/device-secret-context/device-secret-context.module.ts
++++ b/alan/web/.server/device-secret-context/device-secret-context.module.ts
+@@ -4,6 +4,6 @@ export const deviceSecretContext = {
+   id: "01a0655e-d39a-7632-bb48-cb68d5895b87",
+   pageTypeSlug: "module",
+   slug: "device-secret-context",
+-  definition: "the account a presented device secret stands for, and the refusals short of one",
++  definition: "the account a presented device secret represents, and the refusals short of one",
+   code: "ts",
+ } as const satisfies Module
+diff --git a/alan/web/.server/readout-guarding/readout-guarding.module.ts b/alan/web/.server/readout-guarding/readout-guarding.module.ts
+index 66a193aa4ef0a5dcab2e3ffb091e935ee6432844..f12ae7a16aaef2572db7ea55b7b1461a86f5f5d7 100644
+--- a/alan/web/.server/readout-guarding/readout-guarding.module.ts
++++ b/alan/web/.server/readout-guarding/readout-guarding.module.ts
+@@ -4,6 +4,6 @@ export const readoutGuarding = {
+   id: "01a0655e-d39a-743e-a192-9fef67057d38",
+   pageTypeSlug: "module",
+   slug: "readout-guarding",
+-  definition: "a readout request refused unless its device secret and its access both stand",
++  definition: "a readout request refused unless its device secret and its access both hold",
+   code: "ts",
+ } as const satisfies Module
+diff --git a/alan/web/active-boosts/active-boosts.module.ts b/alan/web/active-boosts/active-boosts.module.ts
+index 89a82db9a93b9186685e3f5f6c6034493601a232..c7cd20b3519b19ff6a87e0c365ae5477d764b380 100644
+--- a/alan/web/active-boosts/active-boosts.module.ts
++++ b/alan/web/active-boosts/active-boosts.module.ts
+@@ -4,6 +4,6 @@ export const activeBoosts = {
+   id: "01a0655d-dab9-7539-bcd4-c1e040a1b667",
+   pageTypeSlug: "module",
+   slug: "active-boosts",
+-  definition: "the boosts standing on a lineup now",
++  definition: "the boosts on a lineup now",
+   code: "tsx",
+ } as const satisfies Module
+diff --git a/alan/web/alan-reader-neighbors/alan-reader-neighbors.module.ts b/alan/web/alan-reader-neighbors/alan-reader-neighbors.module.ts
+index b2198fbd158806eb4c97f2f17b261585503e887a..092f073b87c4310f74f080aeff3c78b8e1de0bca 100644
+--- a/alan/web/alan-reader-neighbors/alan-reader-neighbors.module.ts
++++ b/alan/web/alan-reader-neighbors/alan-reader-neighbors.module.ts
+@@ -4,6 +4,6 @@ export const alanReaderNeighbors = {
+   id: "01a0655d-dab8-7e63-8ddb-c12afe09a9c4",
+   pageTypeSlug: "module",
+   slug: "alan-reader-neighbors",
+-  definition: "the chapters standing either side of the one being read",
++  definition: "the chapters either side of the one being read",
+   code: "ts",
+ } as const satisfies Module
+diff --git a/alan/web/declared-effects/declared-effects.module.ts b/alan/web/declared-effects/declared-effects.module.ts
+index 411fdf81bc319498567c3a5ff7dda2ff360e6a82..72d3f150f1e5fd660d7fa4399e306d91a700fb24 100644
+--- a/alan/web/declared-effects/declared-effects.module.ts
++++ b/alan/web/declared-effects/declared-effects.module.ts
+@@ -4,6 +4,6 @@ export const declaredEffects = {
+   id: "01a05bb1-0c05-77f0-a045-39def14c1a35",
+   pageTypeSlug: "module",
+   slug: "declared-effects",
+-  definition: "the action verb standing for effects a page declares",
++  definition: "the action verb representing effects a page declares",
+   code: "ts",
+ } as const satisfies Module
+diff --git a/alan/web/fetch-stub/fetch-stub.module.ts b/alan/web/fetch-stub/fetch-stub.module.ts
+index 49c71d1b03174403d7ecaac67983a129ab5d6114..56e130eea9d09f76598a4dd89f44f9eebd35d6d0 100644
+--- a/alan/web/fetch-stub/fetch-stub.module.ts
++++ b/alan/web/fetch-stub/fetch-stub.module.ts
+@@ -4,6 +4,6 @@ export const fetchStub = {
+   id: "01a0655d-daa7-793c-abd8-f849427181e2",
+   pageTypeSlug: "module",
+   slug: "fetch-stub",
+-  definition: "a fetch standing in for the real one while a test runs",
++  definition: "a fetch put in place of the real one while a test runs",
+   code: "ts",
+ } as const satisfies Module
+diff --git a/alan/web/idle-fetch-stub/idle-fetch-stub.module.ts b/alan/web/idle-fetch-stub/idle-fetch-stub.module.ts
+index 76d8d2d3f95feb1614a05130fc417d0125e6e7b9..0835ca5eee46744079d9d91987d57c55f0aa58dc 100644
+--- a/alan/web/idle-fetch-stub/idle-fetch-stub.module.ts
++++ b/alan/web/idle-fetch-stub/idle-fetch-stub.module.ts
+@@ -4,6 +4,6 @@ export const idleFetchStub = {
+   id: "01a0655d-dabe-7be2-90ec-9accce6b5cb2",
+   pageTypeSlug: "module",
+   slug: "idle-fetch-stub",
+-  definition: "a fetch standing in for the idle game's own while a test runs",
++  definition: "a fetch put in place of the idle game's own while a test runs",
+   code: "ts",
+ } as const satisfies Module
+diff --git a/alan/web/media-page/media-page.module.test.ts b/alan/web/media-page/media-page.module.test.ts
+index c78f31d4f454d16bcfbcfaf0a171c4d22ef91f4e..cc5463503ecb6fcd9fcb82c2c2301bc88d1d1c82 100644
+--- a/alan/web/media-page/media-page.module.test.ts
++++ b/alan/web/media-page/media-page.module.test.ts
+@@ -30,7 +30,7 @@ mock.module("@akasha/pages-system-service/calling", () => ({
+   },
+   originOf: () => "http://stub",
+   shapeFor: async (pageTypeSlug: string) => ({
+-    refused: `the media page test stands in for no shape, and \`${pageTypeSlug}\` was asked for one`,
++    refused: `the media page test represents no shape, and \`${pageTypeSlug}\` was asked for one`,
+   }),
+ }))
+ 
+diff --git a/alan/web/media-variants/media-variants.module.code.ts b/alan/web/media-variants/media-variants.module.code.ts
+index 91c220eb11e0d09a5de8081045b0d64d824648bb..55312870081d843e3c7f5a4f2197a41c69b6755d 100644
+--- a/alan/web/media-variants/media-variants.module.code.ts
++++ b/alan/web/media-variants/media-variants.module.code.ts
+@@ -21,7 +21,7 @@ const READING_STORY_SLUG = "reading-story"
+ // THE VOICED PERSONAS ARE ASKED OF THE PAGES RATHER THAN NAMED AT THE OLD ENGINE. This read the
+ // `persona-all` saved query, and `askNamed` refuses with 501 now. `persona` is a page type the
+ // pages system service holds and `voiceReferenceSha256` is a key it declares, so the same set
+-// comes back from a question asked here. The filter still stands in `voicedPersonasIn` rather
++// comes back from a question asked here. The filter remains in `voicedPersonasIn` rather
+ // than in the `where`: which personas carry a voice reference is the one thing this reads for,
+ // and reading it off the rows keeps the refusal below able to tell an unread set from an empty
+ // one.
+diff --git a/alan/web/pages-unheld/pages-unheld.module.code.ts b/alan/web/pages-unheld/pages-unheld.module.code.ts
+index e7b7b97c2d028ce84ae166f1109ceea16fe702e0..a787cb393a9e63308ec5196518619d5fa7dfee8f 100644
+--- a/alan/web/pages-unheld/pages-unheld.module.code.ts
++++ b/alan/web/pages-unheld/pages-unheld.module.code.ts
+@@ -6,7 +6,7 @@
+ // `nav`, `game`, `game-turn`, `game-state`, `idle-game`, `idle-save`, `idle-persona-card`,
+ // `persona-cover-image`, `message`, `sms-consent` and `page-property-definition` are none of them
+ // filed there, so every question and every write reaching one of those is a feature that is gone
+-// until its page type stands in akasha.
++// until its page type is in akasha.
+ //
+ // GONE IS SAID OUT LOUD RATHER THAN DRAWN AS EMPTY. A caller reads an empty list exactly as it
+ // reads a true nothing, and only one of the two is a fault: a save that went unread is not a
+diff --git a/alan/web/vite.config.ts b/alan/web/vite.config.ts
+index ef3b8953403d360c5eb8a0d78e20990f9c3882bf..e48843b27e53e75533c7f05ba105a7520f581360 100644
+--- a/alan/web/vite.config.ts
++++ b/alan/web/vite.config.ts
+@@ -6,7 +6,7 @@ import { defineConfig } from "vite"
+ 
+ // A `pages-query-remote-in-client` plugin sat here, aliasing `@shared/pages-query` and its
+ // `/ask` onto their remote halves for the browser bundle only. `@shared/pages-query` was a
+-// local-first facade whose local half read the checkout standing on this machine through
++// local-first facade whose local half read the checkout on this machine through
+ // `./here.ts` -> `@akasha/pages-system/checkout-roots` and the `tools/lib` query engine. A
+ // browser has no checkout, so that half was dead code there, but importing it dragged node
+ // builtins in — and vite answers a browser-side `node:fs` with a Proxy that throws on first
