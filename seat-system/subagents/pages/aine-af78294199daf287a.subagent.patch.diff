@@ -12,7 +12,7 @@ index 4a954ed370cf9de275bac8d413653dfff80041f1..9243711a36ae94ea90f9908a0ada6b62
    const cc = said.report.map((one) => Number(one.split("\t")[3]))
  
 diff --git a/commands/complexity/complexity.command.ts b/commands/complexity/complexity.command.ts
-index 4e0b3b905ed41d30eef9e82b2a114aa4e2a0cf8d..56eceb086bd4456759abc47ae4f381ca5bcc07d0 100644
+index 4e0b3b905ed41d30eef9e82b2a114aa4e2a0cf8d..b703d23131d4b5523fc84b5259bb94fe7911e797 100644
 --- a/commands/complexity/complexity.command.ts
 +++ b/commands/complexity/complexity.command.ts
 @@ -14,8 +14,8 @@ export const complexity = {
@@ -26,8 +26,17 @@ index 4e0b3b905ed41d30eef9e82b2a114aa4e2a0cf8d..56eceb086bd4456759abc47ae4f381ca
      { said: "--json", takes: "the rows as one line of JSON rather than as tab-separated columns" },
    ],
    helpNotes: [
+@@ -23,7 +23,7 @@ export const complexity = {
+     "cyclomatic complexity is one over the decision points: if, case, for, while, do, catch, ternary, each `&&`, `||`, `??`, and each `?.`.",
+     "else and finally are no decision point and count for nothing.",
+     "halstead counts the distinct and the total operators and operands of a function, and volume, difficulty, effort, time and bugs follow from those four.",
+-    "type annotations and comments stand outside the halstead counts.",
++    "type annotations and comments sit outside the halstead counts.",
+     "the maintainability index is the Visual Studio variant over halstead volume, the cyclomatic sum and the source lines a file holds.",
+     "blank lines and comment-only lines are no source line.",
+     "the index rises as a file shortens, so splitting one function in two raises it though neither the decision points nor the vocabulary changed.",
 diff --git a/commands/model-gateway/model-gateway.command.ts b/commands/model-gateway/model-gateway.command.ts
-index 98bb62d864587b1faa9762bc77cc20d28404ccdd..ed92018d93f909add8cad8d9bde9f76eff384892 100644
+index 98bb62d864587b1faa9762bc77cc20d28404ccdd..1538ef4268c89a4df9a7d902ce6241c641e6dc5e 100644
 --- a/commands/model-gateway/model-gateway.command.ts
 +++ b/commands/model-gateway/model-gateway.command.ts
 @@ -15,7 +15,7 @@ export const modelGateway = {
@@ -39,3 +48,12 @@ index 98bb62d864587b1faa9762bc77cc20d28404ccdd..ed92018d93f909add8cad8d9bde9f76e
      },
      { said: "<target>", takes: "the seat to swap, named as its page is named or by its id" },
      { said: "--fleet", takes: "every live seat in turn rather than one named" },
+@@ -24,7 +24,7 @@ export const modelGateway = {
+   helpNotes: [
+     "the act is the first word, and one call names one act.",
+     "auto-swap is disarmed, so a running gateway stays on the version it was spawned at until a swap moves it, and a status reports the lag that leaves.",
+-    "the version a status weighs against is the tree standing on disk here, which is what the next spawn would run.",
++    "the version a status weighs against is the tree on disk here, which is what the next spawn would run.",
+     "on disk rather than published, because the gateway is spawned from this repository rather than deployed, so nothing publishes a version for it.",
+     "a seat is current where the two versions match, lagging where the tree has moved and the seat has not, and unknown where either version will not read.",
+     "a swap writes the ask into the seat's uncommitted values, and the supervisor takes it up as it handles and respawns the gateway alone.",
