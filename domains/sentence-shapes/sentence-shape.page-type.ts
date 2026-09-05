@@ -2,14 +2,10 @@ import type { Module } from "@akasha/code-system/module"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Allowed } from "./properties/allowed.boolean-property.ts"
 import type { Reason } from "./properties/reason.text-property.ts"
-import type { Rules } from "./properties/rules.text-property.ts"
-import type { ShapePattern } from "./properties/shape-pattern.text-property.ts"
 
 export type SentenceShape = Module & {
   test: NonNullable<Module["test"]>
   allowed?: Allowed
-  rules?: readonly Rules[]
-  pattern?: ShapePattern
   reason?: Reason
 }
 
@@ -23,8 +19,6 @@ export const sentenceShape = {
   partSlugs: [
     "boolean-property/allowed",
     "text-property/reason",
-    "text-property/rules",
-    "text-property/shape-pattern",
     "sentence-shape/closing-count",
     "sentence-shape/lone-determiner",
     "sentence-shape/lone-pronoun",
@@ -34,8 +28,6 @@ export const sentenceShape = {
   properties: [
     { pagePropertySlug: "test", required: true, many: false },
     { pagePropertySlug: "allowed", required: false, many: false },
-    { pagePropertySlug: "rules", required: false, many: true, max: null },
-    { pagePropertySlug: "shape-pattern", required: false, many: false },
     { pagePropertySlug: "reason", required: false, many: false },
   ],
   invariants: [
@@ -86,20 +78,8 @@ export const sentenceShape = {
       statement: "A shape says nothing about a sentence's meaning.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "The check reads the predicate every refused shape holds.",
-    },
-    {
-      invariantKind: "stopgap",
-      statement: "The rules and the pattern are kept until the grammar those two fed goes.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "No shape states rules.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The grammar built from rules refuses nothing.",
     },
     {
       invariantKind: "departure",

@@ -9,19 +9,11 @@ export type Shape = {
   readonly definition: string
   readonly allowed: boolean | null
   readonly reason: string | null
-  readonly pattern: string | null
-  readonly rules: readonly string[]
 }
 
 function textIn(held: Record<string, unknown>, key: string): string | null {
   const said = held[key]
   return typeof said === "string" ? said : null
-}
-
-function rulesIn(held: Record<string, unknown>): readonly string[] {
-  const said = held.rules
-  if (!Array.isArray(said)) return []
-  return said.filter((one): one is string => typeof one === "string")
 }
 
 function shapeIn(index: Answering, pageTypeSlug: string, path: string): Shape {
@@ -40,8 +32,6 @@ function shapeIn(index: Answering, pageTypeSlug: string, path: string): Shape {
     definition: textIn(value, "definition") ?? "",
     allowed: typeof allowed === "boolean" ? allowed : null,
     reason: textIn(value, "reason"),
-    pattern: textIn(value, "pattern"),
-    rules: rulesIn(value),
   }
 }
 
