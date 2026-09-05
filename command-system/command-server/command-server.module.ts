@@ -190,7 +190,8 @@ export const commandServer = {
     },
     {
       invariantKind: "constraint",
-      statement: "What is served and what the caller is told is served are named in two files.",
+      statement:
+        "The commands served and the commands the caller is told are served are named in two files.",
     },
     {
       invariantKind: "constraint",
@@ -242,7 +243,7 @@ export const commandServer = {
     },
     {
       invariantKind: "constraint",
-      statement: "Stdin closing is what happens when the caller dies.",
+      statement: "Stdin closes when the caller dies.",
     },
   ],
 } as const satisfies Module
