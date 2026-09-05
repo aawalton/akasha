@@ -9,7 +9,7 @@ export const memoryReaping = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "It sits outside the fleet it polices.",
+      statement: "The reaper sits outside the fleet that reaper polices.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,7 @@ export const memoryReaping = {
     },
     {
       invariantKind: "departure",
-      statement: "What it is configured with is stated when it starts.",
+      statement: "What the reaper is configured with is stated when that reaper starts.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +41,7 @@ export const memoryReaping = {
     },
     {
       invariantKind: "departure",
-      statement: "It runs until stopped, and a stop ends the loop at its next boundary.",
+      statement: "The reaper runs until stopped, and a stop ends the loop at its next boundary.",
     },
   ],
 } as const satisfies Module
