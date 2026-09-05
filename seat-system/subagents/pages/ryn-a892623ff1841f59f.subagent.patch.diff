@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/context/modules/warranting/warranting.module.ts b/context/modules/warranting/warranting.module.ts
-index b85145f9f5e9b17a79cb88ee27dafac1a5269bae..8ea9e08ca7c34f82cc62f79a4525ddf25bf7dc3b 100644
+index b85145f9f5e9b17a79cb88ee27dafac1a5269bae..e8eadbe3c70d127ee251e833383878910eb3cdd9 100644
 --- a/context/modules/warranting/warranting.module.ts
 +++ b/context/modules/warranting/warranting.module.ts
 @@ -11,7 +11,7 @@ export const warranting = {
@@ -21,12 +21,18 @@ index b85145f9f5e9b17a79cb88ee27dafac1a5269bae..8ea9e08ca7c34f82cc62f79a4525ddf2
      },
      {
        invariantKind: "departure",
-@@ -74,7 +74,7 @@ export const warranting = {
+@@ -74,12 +74,12 @@ export const warranting = {
      {
        invariantKind: "departure",
        statement:
 -        "A warrant is what the change owes rather than what changing a warranted file would owe.",
 +        "A warrant is the reading a change owes rather than the reading changing a warranted file would owe.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A read is handed each named path followed by what the warrants running on read name for the path.",
++        "A read is handed each named path followed by the paths warrants running on read name for the path.",
      },
      {
        invariantKind: "departure",
