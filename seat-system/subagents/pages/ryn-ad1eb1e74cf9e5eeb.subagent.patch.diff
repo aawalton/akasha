@@ -1,0 +1,14 @@
+diff --git a/person-system/people/email/email-rules/properties/email-rule-match-field.select-property.ts b/person-system/people/email/email-rules/properties/email-rule-match-field.select-property.ts
+index 80908b0089a28f27f11858d7a400296a1bbf3b42..8428d7829bc1edf782b700e9beb360f00c64675c 100644
+--- a/person-system/people/email/email-rules/properties/email-rule-match-field.select-property.ts
++++ b/person-system/people/email/email-rules/properties/email-rule-match-field.select-property.ts
+@@ -10,7 +10,8 @@ export const emailRuleMatchField = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A field is named as the mail carries it rather than as its own page is slugged.",
++      statement:
++        "A field is named as the mail carries that field rather than as its own page is slugged.",
+     },
+     {
+       invariantKind: "departure",
