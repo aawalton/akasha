@@ -9,23 +9,6 @@ index 0000000000000000000000000000000000000000..b973fe78532aa96697887661abeabaf2
 +export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
 +  return [{ name: "node-exporter-daemonset", yaml: nodeExporterDaemonsetYaml() }]
 +}
-diff --git a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
-index 9435e71bd621fa67636073933279160923a8061e..2f179e357b8b3212985128a627decc02cd110d6c 100644
---- a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
-@@ -40,7 +40,12 @@ index b57af7b0f77197bd51547092bc52644f613e8a49..25ea29f391cd58ff8ab9c4703efbff08
-    resourceName: "node-exporter",
-    image: "prom/node-exporter:v1.8.2",
-    containerPort: 9100,
-+<<<<<<< what this change would leave
-+-  manifestCode:
-+-    "infrastructure/telemetry/node-exporter-daemonset/node-exporter-daemonset.manifest.code.ts",
-+=======
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "node-exporter-daemonset",
- +=======
-    manifestCode:
 diff --git a/service-system/cluster-services/pages/node-exporter-daemonset/node-exporter-daemonset.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/node-exporter-daemonset/node-exporter-daemonset.cluster-service.code.attachment.ts
 deleted file mode 100644
 index b973fe78532aa96697887661abeabaf2155e8ec6..0000000000000000000000000000000000000000
