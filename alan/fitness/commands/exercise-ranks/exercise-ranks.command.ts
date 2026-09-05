@@ -21,7 +21,6 @@ export const exerciseRanks = {
   ],
   helpNotes: [
     "the four goal scores behind each blend are longevity, energy, functionality and aesthetics.",
-    "the weights the blend uses are read from the selection-policy page.",
     "naming movements ranks those alone and shows all of them, whatever the limit says.",
   ],
   invariants: [
