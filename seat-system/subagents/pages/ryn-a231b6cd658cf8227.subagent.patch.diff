@@ -1,13 +1,18 @@
 diff --git a/editor-extension/editor-layout-columns/editor-layout-columns.module.ts b/editor-extension/editor-layout-columns/editor-layout-columns.module.ts
-index 5178c5c830adca07441c6c563658b8546387efd5..5e6997e99f9cc738be4ce0a70dd017f4643376e3 100644
+index 5178c5c830adca07441c6c563658b8546387efd5..b4f6295cc4dddbf88deee9ee8c58f786590ae0fa 100644
 --- a/editor-extension/editor-layout-columns/editor-layout-columns.module.ts
 +++ b/editor-extension/editor-layout-columns/editor-layout-columns.module.ts
-@@ -10,7 +10,7 @@ export const editorLayoutColumns = {
+@@ -10,11 +10,11 @@ export const editorLayoutColumns = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "A group is placed by the column it is in.",
 +      statement: "A group is placed by the column that group is in.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An arrangement names the window it was taken from.",
++      statement: "An arrangement names the window that arrangement was taken from.",
      },
      {
        invariantKind: "departure",
