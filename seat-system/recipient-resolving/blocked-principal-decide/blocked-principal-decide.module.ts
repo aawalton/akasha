@@ -10,8 +10,11 @@ export const blockedPrincipalDecide = {
   invariants: [
     {
       invariantKind: "gap",
-      statement:
-        "Nothing binds an agent to work another party waits on, so no principal is derivable and this module says so rather than guessing one.",
+      statement: "Nothing binds an agent to work another party waits on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This module says no principal is derivable rather than naming a guess.",
     },
     {
       invariantKind: "departure",
