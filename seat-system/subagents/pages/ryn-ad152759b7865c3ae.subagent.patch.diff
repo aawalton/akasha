@@ -1,8 +1,8 @@
 diff --git a/code-system/javascript-modules/javascript-module.page-type.ts b/code-system/javascript-modules/javascript-module.page-type.ts
-index 2c7efb4235b2c76196ec3c329a7ecda9d6dccc20..5f7ddec28ab4b1205aa3ea246c7e6271c98641e3 100644
+index 2c7efb4235b2c76196ec3c329a7ecda9d6dccc20..6d26e4bb0ef7d9bfdd801daea72f0791fd4dddd3 100644
 --- a/code-system/javascript-modules/javascript-module.page-type.ts
 +++ b/code-system/javascript-modules/javascript-module.page-type.ts
-@@ -22,16 +22,18 @@ export const javascriptModule = {
+@@ -22,20 +22,23 @@ export const javascriptModule = {
      },
      {
        invariantKind: "departure",
@@ -24,3 +24,9 @@ index 2c7efb4235b2c76196ec3c329a7ecda9d6dccc20..5f7ddec28ab4b1205aa3ea246c7e6271
      },
      {
        invariantKind: "departure",
+-      statement: "A JavaScript module reaches its siblings by the name each carries where it runs.",
++      statement:
++        "A JavaScript module reaches its siblings by the name each carries where that sibling runs.",
+     },
+     {
+       invariantKind: "absence",
