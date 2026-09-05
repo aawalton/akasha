@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/readout-system/readout-unread/readout-unread.module.ts b/readout-system/readout-unread/readout-unread.module.ts
+index 95d923c8b148d09316093b3de265a0fa031eec99..b641795187ccb8f3e69dd59f81bff9977a69b921 100644
+--- a/readout-system/readout-unread/readout-unread.module.ts
++++ b/readout-system/readout-unread/readout-unread.module.ts
+@@ -30,7 +30,7 @@ export const readoutUnread = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An empty figure is what names a light as unread.",
++      statement: "An empty figure names a light as unread.",
+     },
+     {
+       invariantKind: "departure",
