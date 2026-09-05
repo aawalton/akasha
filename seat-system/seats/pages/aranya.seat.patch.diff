@@ -4450,6 +4450,19 @@ index ef54cefd36a2809d224240e132fd4e3b3a704228..50b57a21c83e0ce04d76a716bcc4daf7
      "./upscale-workstation": "./upscale-workstation/upscale-workstation.module.code.ts"
    },
    "dependencies": {
+diff --git a/infrastructure/upscale/upscale-cluster/upscale-cluster.module.code.ts b/infrastructure/upscale/upscale-cluster/upscale-cluster.module.code.ts
+index 44119e0f400c0584bcb5c94aafa5bda602379507..205c3423a97f0101b1247866310637131e069755 100644
+--- a/infrastructure/upscale/upscale-cluster/upscale-cluster.module.code.ts
++++ b/infrastructure/upscale/upscale-cluster/upscale-cluster.module.code.ts
+@@ -6,7 +6,7 @@ import {
+   buildUpscaleServingJob,
+   UPSCALE_SERVING_BUCKET,
+   UPSCALE_SERVING_NAMESPACE,
+-} from "../upscale-serving-job/upscale-serving-job.manifest.code.ts"
++} from "../upscale-serving-job/upscale-serving-job.module.code.ts"
+ 
+ const JOB_WAIT_TIMEOUT_MS = 31 * 60_000
+ const JOB_POLL_MS = 5_000
 diff --git a/infrastructure/upscale/upscale-serving-job/upscale-serving-job.manifest.code.ts b/infrastructure/upscale/upscale-serving-job/upscale-serving-job.manifest.code.ts
 deleted file mode 100644
 index 59f1d26d9cff84f5d1d62120382a461ea459cd7a..0000000000000000000000000000000000000000
