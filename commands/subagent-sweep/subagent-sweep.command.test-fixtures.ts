@@ -23,6 +23,10 @@ export const AT = "seat-system/subagents/pages"
 
 const TREE = "akasha"
 
+const IMPORTED_AT = `${TREE}/held.ts`
+
+const IMPORTING_AT = `${TREE}/holding.ts`
+
 export function agentIdOf(seatId: string, own: string): string {
   return `${seatId}--${own}`
 }
@@ -51,6 +55,8 @@ export function seated(root: string): string {
   gitIn(root, ["config", "user.email", "held@nowhere"])
   gitIn(root, ["config", "user.name", "Held"])
   for (const [path, body] of Object.entries(declaringUnder(TREE))) writing(root, path, body)
+  writing(root, IMPORTED_AT, "export const held = 1\n")
+  writing(root, IMPORTING_AT, 'import { held } from "./held.ts"\n\nexport const holding = held\n')
   gitIn(root, ["add", "-A"])
   gitIn(root, ["commit", "--quiet", "-m", "first"])
   rebuiltIn(root, TREE)
