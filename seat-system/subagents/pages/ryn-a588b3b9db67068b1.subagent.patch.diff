@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/seat-system/seat-system.workspace-package.ts b/seat-system/seat-system.workspace-package.ts
-index 4b864f592f855bb3dcfba329fa2667f9b5c40986..d6b7a5bbf312b766fd6f1994a9e21b7c21367057 100644
+index 4b864f592f855bb3dcfba329fa2667f9b5c40986..b8b3f85fb6376c6cf352bd0472fe82b197a4674a 100644
 --- a/seat-system/seat-system.workspace-package.ts
 +++ b/seat-system/seat-system.workspace-package.ts
 @@ -367,7 +367,7 @@ export const seatSystem = {
@@ -12,7 +12,7 @@ index 4b864f592f855bb3dcfba329fa2667f9b5c40986..d6b7a5bbf312b766fd6f1994a9e21b7c
      },
      {
        invariantKind: "upkeep",
-@@ -379,16 +379,16 @@ export const seatSystem = {
+@@ -379,20 +379,20 @@ export const seatSystem = {
      },
      {
        invariantKind: "constraint",
@@ -29,6 +29,11 @@ index 4b864f592f855bb3dcfba329fa2667f9b5c40986..d6b7a5bbf312b766fd6f1994a9e21b7c
        invariantKind: "departure",
 -      statement: "What a seat is bound to cannot be observed again.",
 +      statement: "A value a seat is bound to cannot be observed again.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a seat is bound to is committed.",
++      statement: "A value a seat is bound to is committed.",
      },
      {
        invariantKind: "departure",
