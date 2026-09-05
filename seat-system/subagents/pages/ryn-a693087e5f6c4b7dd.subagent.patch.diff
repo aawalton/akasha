@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
+index 77da9877c48382425d27b597f0372768f47c9624..3faf5b5baa37379eb2ecbfae3d3eb15d69566683 100644
+--- a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
++++ b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
+@@ -48,7 +48,7 @@ export const surplusFallNotifying = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What this module writes is a notification, and nothing here knows about devices.",
++      statement: "This module writes a notification, and nothing here knows about devices.",
+     },
+     {
+       invariantKind: "departure",
