@@ -62,3 +62,35 @@ index 9ec05f9b6ec0868c09e89648c2d196d01712a354..435204703782d44d2c6232625b8a6301
      {
        invariantKind: "departure",
        statement: "A page of the same page type already carrying the new slug refuses the change.",
+diff --git a/command-system/commands/edit/edit.command.ts b/command-system/commands/edit/edit.command.ts
+index 3193d6ac1883a441b23159e776584e7df80ade75..c27f9c27c7bdd8a56eb66af00c91173b91acdfce 100644
+--- a/command-system/commands/edit/edit.command.ts
++++ b/command-system/commands/edit/edit.command.ts
+@@ -111,10 +111,7 @@ export const edit = {
+       invariantKind: "departure",
+       statement: "A path inside `.git` is refused.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A folder at the top of the repository is refused.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A path no check judged is named in the answer.",
+diff --git a/command-system/commands/replace/replace.command.ts b/command-system/commands/replace/replace.command.ts
+index 5f375c828f987f2858a5c0bbd5baf4d118199de7..033855e0dbcaccab843c16cfb453ab36ede2e455 100644
+--- a/command-system/commands/replace/replace.command.ts
++++ b/command-system/commands/replace/replace.command.ts
+@@ -105,10 +105,7 @@ export const replace = {
+       invariantKind: "departure",
+       statement: "A path inside `.git` is refused.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A folder at the top of the repository is refused.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "One path named more than once by a call is refused.",
