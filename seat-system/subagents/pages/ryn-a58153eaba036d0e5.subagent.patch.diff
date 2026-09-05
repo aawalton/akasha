@@ -62,6 +62,22 @@ index 528526bc15ae96d8f1090f76ddbf0695cd9a59e0..712b37741ec456c77773fe5842ba8746
      {
        invariantKind: "absence",
        statement: "Nothing here makes the music service resident.",
+diff --git a/infrastructure/inference-commands/inference-upscale/inference-upscale.command.ts b/infrastructure/inference-commands/inference-upscale/inference-upscale.command.ts
+index 7224e6601b504959e5d2f2487362a12e604c36c2..78a105abc2d78e1deb62f658c5847a832883cb40 100644
+--- a/infrastructure/inference-commands/inference-upscale/inference-upscale.command.ts
++++ b/infrastructure/inference-commands/inference-upscale/inference-upscale.command.ts
+@@ -47,10 +47,7 @@ export const inferenceUpscale = {
+       invariantKind: "departure",
+       statement: "The image is written where the caller named that image and nowhere else.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A run row is filed whether the remake finished or failed.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here provisions the weights or starts the container.",
 diff --git a/story/chapters-played/story-chapter-played.page-type.ts b/story/chapters-played/story-chapter-played.page-type.ts
 index 3105765de04f6d660afdd61276afb567148bd6f5..504031cac23062d4dc8617bb2ee5895b56794cd3 100644
 --- a/story/chapters-played/story-chapter-played.page-type.ts
