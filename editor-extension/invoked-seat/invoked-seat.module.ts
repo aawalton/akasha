@@ -21,7 +21,7 @@ export const invokedSeat = {
     },
     {
       invariantKind: "departure",
-      statement: "A path ending in what is no whole number names no seat.",
+      statement: "A path whose last segment is no whole number names no seat.",
     },
     {
       invariantKind: "departure",
