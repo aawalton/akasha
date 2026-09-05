@@ -40,23 +40,6 @@ index 0000000000000000000000000000000000000000..595a4c7d3a26875f59ea24f44d74917c
 +    { name: "prometheus-service", yaml: prometheusServiceYaml() },
 +  ]
 +}
-diff --git a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
-index a7d5020ab8e203b20da1a71357a880c8753f6ee9..486551fd23d8d2221dccfafb0b35daebd15e528d 100644
---- a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
-@@ -103,8 +103,12 @@ index 633a1aff2caa7111238bddea612e776d3717219b..d10f47e0e2d7f1512a4e3012688017cb
-    replicas: 1,
-    containerPort: 9090,
- -  manifestCode:
-+<<<<<<< what this change would leave
-+-    "infrastructure/telemetry/prometheus/prometheus.manifest.code.ts",
-+=======
- -    "service-system/cluster-services/pages/prometheus/prometheus.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "prometheus",
- +=======
- +  manifestCode: "infrastructure/telemetry/prometheus/prometheus.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/prometheus/prometheus.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/prometheus/prometheus.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 595a4c7d3a26875f59ea24f44d74917c2f3f668a..0000000000000000000000000000000000000000
