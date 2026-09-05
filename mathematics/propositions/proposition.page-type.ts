@@ -33,7 +33,8 @@ export const proposition = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A proposition's statement sits in its own file rather than in a value beside it.",
+      statement:
+        "A proposition's statement sits in its own file rather than in a value beside that file.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +42,7 @@ export const proposition = {
     },
     {
       invariantKind: "absence",
-      statement: "A proposition names no proof that attempts it.",
+      statement: "A proposition names no proof that attempts that proposition.",
     },
   ],
 } as const satisfies PageType
