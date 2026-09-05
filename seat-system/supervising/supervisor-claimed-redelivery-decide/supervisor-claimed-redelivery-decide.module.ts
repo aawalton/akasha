@@ -27,7 +27,7 @@ export const supervisorClaimedRedeliveryDecide = {
     },
     {
       invariantKind: "departure",
-      statement: "Every message skipped is reported with the reason it was skipped for.",
+      statement: "Every message skipped is reported with the reason that message was skipped for.",
     },
   ],
 } as const satisfies Module
