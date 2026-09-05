@@ -10,7 +10,7 @@ export const domainTreeReading = {
     {
       invariantKind: "departure",
       statement:
-        "The tree is asked as a child process because composing it opens page bodies and only bun loads one.",
+        "Composing the tree opens page bodies, which only bun loads, so the tree is asked as a child process.",
     },
     {
       invariantKind: "departure",
