@@ -52,6 +52,11 @@ export const emberRepairTemperTasks = {
       workingMemory:
         "All 82 are pages under temper-inventory-rule. inventory-rule-from-pages and inventory-rule-to-pages carry a rule each way, proved over all 82 and over /ask, which folds the jsonl entries server-side. No road writes a rule today: the CLI throws, and the web hands upsertPage an object under `settings`, a file property, which refuses. Writing a rule as its own page is allowed, so the pages are the repair rather than a tidy. Left: the web writer, then emptying the blob.",
     },
+    {
+      statement: "The entries a page carries beside it are written by whoever reaches the service.",
+      workingMemory:
+        "upsertPage refuses rows under an entry key exactly as it refuses a file body, and WRITE_OVER_SERVER_OPS names no entry op, so nothing in a browser reaches one. The service's own /write takes raw puts and commits them, but no web app proxies that route. landedAt writes the jsonl itself, commits nothing, and no production code calls it. The road to build composes the parts and sends them the way every other write already goes.",
+    },
   ],
   constraints: [
     "The watcher and the addons count as off-workstation, so they reach pages through pages-system-service rather than by reading the repository.",
