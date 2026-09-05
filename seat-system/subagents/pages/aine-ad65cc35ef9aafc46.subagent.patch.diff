@@ -1,0 +1,12 @@
+diff --git a/workspace-paths/stale-folders/stale-folders.module.test.ts b/workspace-paths/stale-folders/stale-folders.module.test.ts
+index 1da80406710323e1860774976c6c0a799ed3b4d3..4c733883e23ddadec93ebe75727f31438ad74197 100644
+--- a/workspace-paths/stale-folders/stale-folders.module.test.ts
++++ b/workspace-paths/stale-folders/stale-folders.module.test.ts
+@@ -97,6 +97,6 @@ test("a linked package's own folder is not descended into, so its contents are n
+   ).toEqual([])
+ })
+ 
+-test("a folder is known by a file standing anywhere under it", () => {
++test("a folder is known by a file sitting anywhere under it", () => {
+   expect([...knownDirsFromFileList(["a/b/c.txt", "a/d.txt"])].sort()).toEqual(["", "a", "a/b"])
+ })
