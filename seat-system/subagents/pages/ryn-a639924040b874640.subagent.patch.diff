@@ -113,3 +113,29 @@ index d3013a647bc736c55aae41b48e96b641630e3132..e74e6f2b60334628c58904f9c290068f
      },
    ],
  } as const satisfies Module
+diff --git a/checks/cluster-checks/modules/test-step-loading/test-step-loading.module.ts b/checks/cluster-checks/modules/test-step-loading/test-step-loading.module.ts
+index 769a9b10f93f0746c2cee15f090f8fb41c8aa235..988a1e09f1ee8081ce12e8e86f1663c28a0ec8ea 100644
+--- a/checks/cluster-checks/modules/test-step-loading/test-step-loading.module.ts
++++ b/checks/cluster-checks/modules/test-step-loading/test-step-loading.module.ts
+@@ -27,7 +27,7 @@ export const testStepLoading = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A typed test file is one ending in a known kind, and every test file is read apart from those.",
++        "A typed test file is one ending in a known kind, and every test file is read apart from the typed ones.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts b/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts
+index 8bd9697b91d1fc0468c0abe3b720af9566549328..12d84f79e12ebe58ea2ee998348ab979974dadb9 100644
+--- a/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts
++++ b/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts
+@@ -22,7 +22,7 @@ export const manifestLandsOnAFile = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file moving away from under a way in is what this catches.",
++      statement: "A file moving away from under a way in is what this check catches.",
+     },
+     {
+       invariantKind: "departure",
