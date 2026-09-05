@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/system-service/page-calling/page-calling.module.ts b/pages/system-service/page-calling/page-calling.module.ts
+index 09a323582750267916928e75b40cf28a1db0ea6c..7321577b110bcaeec58b246560699c5d44beb9f1 100644
+--- a/pages/system-service/page-calling/page-calling.module.ts
++++ b/pages/system-service/page-calling/page-calling.module.ts
+@@ -63,7 +63,7 @@ export const pageCalling = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A refusal over a body that will not read carries what the parser said.",
++      statement: "A refusal over a body that will not read carries the parser's message.",
+     },
+     {
+       invariantKind: "departure",
