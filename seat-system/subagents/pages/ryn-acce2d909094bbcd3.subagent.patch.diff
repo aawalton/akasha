@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/sms-core/commands/sms-command-reading/sms-command-reading.module.ts b/sms-core/commands/sms-command-reading/sms-command-reading.module.ts
+index ccb615aed0f5a066616b4ca590baa0bd987f412b..f31593df4a66d34185fbf943b54431fa4e2f6205 100644
+--- a/sms-core/commands/sms-command-reading/sms-command-reading.module.ts
++++ b/sms-core/commands/sms-command-reading/sms-command-reading.module.ts
+@@ -10,7 +10,7 @@ export const smsCommandReading = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What a command takes is handed in rather than spelled here.",
++      statement: "The arguments a command takes are handed in rather than spelled here.",
+     },
+     {
+       invariantKind: "departure",
