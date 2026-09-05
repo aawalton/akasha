@@ -30,7 +30,7 @@ export const inferenceClients = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here keeps a record of the run it asked for.",
+      statement: "Nothing here keeps a record of the run a client asked for.",
     },
     {
       invariantKind: "absence",
