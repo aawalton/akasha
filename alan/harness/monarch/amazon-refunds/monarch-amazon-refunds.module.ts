@@ -28,7 +28,7 @@ export const monarchAmazonRefunds = {
     {
       invariantKind: "departure",
       statement:
-        "A message carrying fewer than the amount, the order number and the item is counted rather than passed over silently.",
+        "A message missing the amount, the order number or the item is counted rather than skipped silently.",
     },
     {
       invariantKind: "departure",

@@ -49,7 +49,7 @@ export const supervisorLogSweeping = {
     {
       invariantKind: "departure",
       statement:
-        "A loose file directly under the supervisors root, past the window, goes with the departed directories.",
+        "A file directly under the supervisors root, past the window, goes with the departed directories.",
     },
     {
       invariantKind: "departure",

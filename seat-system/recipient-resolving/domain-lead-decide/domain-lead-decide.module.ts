@@ -17,7 +17,7 @@ export const domainLeadDecide = {
     {
       invariantKind: "departure",
       statement:
-        "A declared domain reaching no champion reports a tree that lost one rather than a domain nobody owns.",
+        "A declared domain reaching no champion reports a gap in the tree rather than a domain nobody owns.",
     },
     {
       invariantKind: "departure",

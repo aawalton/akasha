@@ -10,7 +10,7 @@ export const upscaleCluster = {
     {
       invariantKind: "departure",
       statement:
-        "Credentials absent from the environment are named in the refusal rather than left to fail at the store.",
+        "Credentials the environment lacks are named in the refusal rather than left to fail at the store.",
     },
     { invariantKind: "departure", statement: "The input is stored before the job is created." },
     {

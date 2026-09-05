@@ -54,7 +54,7 @@ export const royalRoadSyncing = {
     {
       invariantKind: "departure",
       statement:
-        "A story's status is restated from royal road only where royal road says ongoing, completed or hiatus.",
+        "A story's status is restated only where royal road says ongoing, completed or hiatus.",
     },
     {
       invariantKind: "departure",

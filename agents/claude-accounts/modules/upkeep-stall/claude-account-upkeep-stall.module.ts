@@ -65,7 +65,7 @@ export const claudeAccountUpkeepStall = {
     {
       invariantKind: "departure",
       statement:
-        "An account whose beside would not read is answered on its own rather than refusing the whole listing.",
+        "An account whose beside would not read is answered on its own rather than refusing the listing.",
     },
     {
       invariantKind: "constraint",

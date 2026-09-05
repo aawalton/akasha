@@ -53,7 +53,7 @@ export const surplusFallNotifying = {
     {
       invariantKind: "departure",
       statement:
-        "A tick still working when the ceiling is reached ends the process rather than leaving a second tick to start beside it.",
+        "A tick still working at the ceiling ends the process rather than leaving two ticks at once.",
     },
     {
       invariantKind: "departure",

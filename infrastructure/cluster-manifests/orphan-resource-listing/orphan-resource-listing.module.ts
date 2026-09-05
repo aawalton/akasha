@@ -24,7 +24,7 @@ export const orphanResourceListing = {
     {
       invariantKind: "departure",
       statement:
-        "A cluster that answers anything but success ends the sweep rather than reading as an empty namespace.",
+        "A cluster answering anything but success ends the sweep rather than reading as an empty namespace.",
     },
     {
       invariantKind: "gap",

@@ -10,7 +10,7 @@ export const monarchNotesWrite = {
     {
       invariantKind: "departure",
       statement:
-        "A note is written only where the transaction carries none, read live at the moment of writing rather than from our copy.",
+        "A note is written only where a live read at the moment of writing, not our copy, shows no note.",
     },
     {
       invariantKind: "departure",
