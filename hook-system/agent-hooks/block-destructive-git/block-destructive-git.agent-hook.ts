@@ -46,14 +46,6 @@ export const blockDestructiveGit = {
       statement: "The list here is a sample rather than a set.",
     },
     {
-      invariantKind: "constraint",
-      statement: "A longer list is a longer search prompt.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "A gap is reported and never filled.",
-    },
-    {
       invariantKind: "gap",
       statement: "One git call does not take away work another agent has not landed.",
     },

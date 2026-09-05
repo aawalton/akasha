@@ -245,11 +245,10 @@ test("an empty command is stood aside from", () => {
   expect(refusalIn("")).toBeNull()
 })
 
-test("the scope says what it does not reach, and refuses to be extended", () => {
+test("the scope says what it does not reach", () => {
   const said = SCOPE.join("\n")
   expect(said).toContain("NOT REACHED")
   expect(said).toContain("is NOT a finding that it is safe")
-  expect(said).toContain("a longer list is a longer search prompt")
   expect(said).toContain("git worktree remove --force")
   expect(said).toContain("git update-ref")
 })

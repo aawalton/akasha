@@ -199,11 +199,10 @@ test("refusalFor judges one call, and reads no other word on the line", () => {
   expect(refusalFor({ act: "status", rest: [] })).toBeNull()
 })
 
-test("the scope says what it does not reach, and refuses to be extended", () => {
+test("the scope says what it does not reach", () => {
   const said = SCOPE.join("\n")
   expect(said).toContain("NOT REACHED")
   expect(said).toContain("is NOT a finding that it is safe")
-  expect(said).toContain("a longer list is a longer search prompt")
   expect(said).toContain("git commit-tree")
   expect(said).toContain("every writer that is not git")
 })
