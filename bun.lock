@@ -1107,21 +1107,6 @@
     "location-traces-access": {
       "name": "@akasha/location-traces-access",
     },
-    "markdown-pages": {
-      "name": "@akasha/markdown-pages",
-      "dependencies": {
-        "@akasha/code-system": "workspace:*",
-        "@akasha/command-system": "workspace:*",
-        "@akasha/file-page-identity": "workspace:*",
-        "@akasha/file-system": "workspace:*",
-        "@akasha/git": "workspace:*",
-        "@akasha/pages-system": "workspace:*",
-        "@akasha/seat-system": "workspace:*",
-        "@akasha/utils-fs": "workspace:*",
-        "minimatch": "^9.0.9",
-        "yaml": "^2.8.1",
-      },
-    },
     "migration-system": {
       "name": "@akasha/migration-system",
       "dependencies": {
@@ -3099,8 +3084,6 @@
     "@akasha/loki-service": ["@akasha/loki-service@workspace:infrastructure/loki-service"],
 
     "@akasha/lua-compiler": ["@akasha/lua-compiler@workspace:language-design/lua-compiler"],
-
-    "@akasha/markdown-pages": ["@akasha/markdown-pages@workspace:markdown-pages"],
 
     "@akasha/migration-system": ["@akasha/migration-system@workspace:migration-system"],
 
