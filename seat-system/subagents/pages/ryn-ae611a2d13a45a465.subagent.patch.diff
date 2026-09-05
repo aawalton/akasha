@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/person-system/device-secret-keeping/device-secret-keeping.module.ts b/person-system/device-secret-keeping/device-secret-keeping.module.ts
+index 530cc3a96aa49f6dfce44d631498117c582a2a39..ef3f965f9ed244853cf567480ce089f45f3f07e5 100644
+--- a/person-system/device-secret-keeping/device-secret-keeping.module.ts
++++ b/person-system/device-secret-keeping/device-secret-keeping.module.ts
+@@ -59,7 +59,7 @@ export const deviceSecretKeeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A revoked secret keeps its page rather than losing it.",
++      statement: "A revoked secret keeps its page rather than losing that page.",
+     },
+     {
+       invariantKind: "absence",
