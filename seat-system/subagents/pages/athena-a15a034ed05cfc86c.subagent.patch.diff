@@ -1,5 +1,5 @@
 diff --git a/editor-extension/page-tree-reading/page-tree-reading.module.code.ts b/editor-extension/page-tree-reading/page-tree-reading.module.code.ts
-index 5d27b2a74e6e501b9902a15e42ccbe85aad56210..5594c6abd947888bf1078552c6f2581fbf3c22a6 100644
+index 5d27b2a74e6e501b9902a15e42ccbe85aad56210..cb96dcbf09f50c6ffe18f9bd690a17780773baa3 100644
 --- a/editor-extension/page-tree-reading/page-tree-reading.module.code.ts
 +++ b/editor-extension/page-tree-reading/page-tree-reading.module.code.ts
 @@ -1,6 +1,6 @@
@@ -10,3 +10,12 @@ index 5d27b2a74e6e501b9902a15e42ccbe85aad56210..5594c6abd947888bf1078552c6f2581f
  import {
    assemblePageTree,
    type PageAnswers,
+@@ -76,7 +76,7 @@ export function readPageAnswers(answered: unknown): PageAnswers {
+ }
+ 
+ export async function readPageTree(): Promise<PageTree> {
+-  const stdout = await runCommand(path.join(akashaRoot(), COMMAND_AT), [], {
++  const stdout = await runCommand(commandPath(COMMAND), [], {
+     timeout: CALL_TIMEOUT_MS,
+     maxBuffer: MAX_BUFFER,
+   })
