@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts b/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts
+index 86d392ee6ae1448dd6eb96bd31735a1442b6b783..494db8d29b280d28e503adf121260ce59edc2da4 100644
+--- a/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts
++++ b/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts
+@@ -31,7 +31,7 @@ export const lintClean = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The linter reads a world written out of what the change proposes rather than the working tree.",
++        "The linter reads a world written out of the files the change proposes rather than the working tree.",
+     },
+     {
+       invariantKind: "departure",
