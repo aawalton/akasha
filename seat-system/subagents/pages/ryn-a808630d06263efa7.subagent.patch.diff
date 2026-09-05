@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.ts b/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.ts
+index 2f58923f1a169a940e856316396ee46a8ecaf1cc..ca9fdd0483d1c17f19dbb7659f5a54fc3a57067e 100644
+--- a/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.ts
++++ b/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.ts
+@@ -35,7 +35,7 @@ export const noRuleInTwoFiles = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "No file owns a rule by exporting it.",
++      statement: "No file owns a rule by exporting that rule.",
+     },
+     {
+       invariantKind: "absence",
