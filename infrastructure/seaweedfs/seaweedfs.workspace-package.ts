@@ -9,6 +9,7 @@ export const seaweedfs = {
   partSlugs: [
     "manifest/seaweedfs-backup-assets",
     "manifest/seaweedfs-backup-bulk",
+    "manifest/seaweedfs-backup-cnpg",
     "manifest/seaweedfs-etcd-snapshot",
     "manifest/seaweedfs-filer",
     "manifest/seaweedfs-maintenance",
