@@ -22,7 +22,7 @@ export const supervisorLogPath = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller may name another base folder, which is what a test standing aside does.",
+      statement: "A caller may name another base folder, as a test standing aside does.",
     },
     {
       invariantKind: "absence",
