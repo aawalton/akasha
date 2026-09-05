@@ -61,11 +61,6 @@ export const computedProperty = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A calculation answers the same over one page however often the calculation is asked.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A query may answer with a computed property's key.",
     },
     {

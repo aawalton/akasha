@@ -36,7 +36,7 @@ export const nimueComputedProperties = {
     {
       statement: "Sleep hours and surplus hours answer from a calculation.",
       workingMemory:
-        "`wake-day` declares no sleep-hours, spend-hours or surplus-hours and no formula property for them, while every other key of the sixteen has one. `surplusIn` short-circuits on `heldNothing` before it reads surplus-hours, so the reading is null rather than 0. Dispatch is settled: page-asking imports workingOver, works formulas per pageTypeSlug through declaredFor, and unworked refuses by name at line 263.",
+        "All three answer now, over the day's own session rows. Of 137 days, 68 answer a number and 69 absent, matching the 68 `.sessions.jsonl` sidecars, and 64 answer sleep above zero, matching the 64 days holding a sleep-titled row. No reverse relation and no evaluator change was needed: `entriedValue` already swaps the `sessions` string for the parsed rows before a calculation runs. The old markdown deriver summed over `session-tracking`, whose `files: none` left it no page.",
     },
     {
       statement: "No page query sums a key no page type declares.",
