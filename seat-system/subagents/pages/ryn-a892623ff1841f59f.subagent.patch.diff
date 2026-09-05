@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/hook-system/hook-system.workspace-package.ts b/hook-system/hook-system.workspace-package.ts
-index 83194f6c6b00a1b6204655dd2f82d3aec4e6b1fe..0cb84cb97f6c547673427b6a8eb1e0ca0db38971 100644
+index 83194f6c6b00a1b6204655dd2f82d3aec4e6b1fe..f271f381e2638e89fa5c19f806d451ffae570931 100644
 --- a/hook-system/hook-system.workspace-package.ts
 +++ b/hook-system/hook-system.workspace-package.ts
 @@ -29,7 +29,7 @@ export const hookSystem = {
@@ -12,7 +12,7 @@ index 83194f6c6b00a1b6204655dd2f82d3aec4e6b1fe..0cb84cb97f6c547673427b6a8eb1e0ca
      },
      {
        invariantKind: "departure",
-@@ -37,7 +37,7 @@ export const hookSystem = {
+@@ -37,11 +37,11 @@ export const hookSystem = {
      },
      {
        invariantKind: "departure",
@@ -21,3 +21,8 @@ index 83194f6c6b00a1b6204655dd2f82d3aec4e6b1fe..0cb84cb97f6c547673427b6a8eb1e0ca
      },
      {
        invariantKind: "departure",
+-      statement: "A hook says what the hook does not catch when the hook is asked.",
++      statement: "A hook says the calls the hook does not catch when the hook is asked.",
+     },
+     {
+       invariantKind: "constraint",
