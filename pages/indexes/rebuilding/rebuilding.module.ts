@@ -22,7 +22,8 @@ export const rebuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "The index being replaced is moved aside before the new one is renamed over it.",
+      statement:
+        "The index being replaced is moved aside before the new one is renamed over that index.",
     },
     {
       invariantKind: "departure",
