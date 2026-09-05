@@ -55,3 +55,11 @@ index 7bd0b88c1bbe4b1827f3e7aa808e1f92c1463d1c..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../browser/browser-commands
 \ No newline at end of file
+diff --git a/browser/launch-env/browser-launch-env b/browser/launch-env/browser-launch-env
+deleted file mode 120000
+index feb6e5353570203d3b65c4dde175c30f8bd421fe..0000000000000000000000000000000000000000
+--- a/browser/launch-env/browser-launch-env
++++ /dev/null
+@@ -1 +0,0 @@
+-../../browser/launch-env
+\ No newline at end of file
