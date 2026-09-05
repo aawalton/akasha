@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/measure/claude-account-costing/claude-account-costing.module.ts b/commands/measure/claude-account-costing/claude-account-costing.module.ts
+index f2eb7a194ce4cad8779598f1fcb5fd4018712ba2..a8c58618b3c1044d43bd9af14602487d03f52366 100644
+--- a/commands/measure/claude-account-costing/claude-account-costing.module.ts
++++ b/commands/measure/claude-account-costing/claude-account-costing.module.ts
+@@ -55,7 +55,7 @@ export const claudeAccountCosting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A price is what the api charges rather than what a subscription cost.",
++      statement: "A price is the api's charge rather than a subscription's cost.",
+     },
+     {
+       invariantKind: "absence",
