@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-hud-addon/hud-addon-commands/hud-addon-commands.module.ts b/temper/temper-hud-addon/hud-addon-commands/hud-addon-commands.module.ts
+index 8be34db9b17a2496d0734c0f4d5951d909e9262b..6b352e709a49035da6e5f052a2057fb5a2870fa0 100644
+--- a/temper/temper-hud-addon/hud-addon-commands/hud-addon-commands.module.ts
++++ b/temper/temper-hud-addon/hud-addon-commands/hud-addon-commands.module.ts
+@@ -9,7 +9,7 @@ export const hudAddonCommands = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The slash command with no subcommand lists what is registered.",
++      statement: "The slash command with no subcommand lists the subcommands registered.",
+     },
+     {
+       invariantKind: "departure",
