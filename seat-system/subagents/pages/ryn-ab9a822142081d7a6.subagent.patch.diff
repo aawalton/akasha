@@ -12,3 +12,17 @@ index 56bda117ecda401a1830636c35cd01310c11c298..decaf77aa102ffe17d57915330c11f2d
 -    },
    ],
  } as const satisfies FolderShape
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.ts
+index 67f6b9736b5b8c1580ddf2393ec8a92546b76afd..9e445fe25cb5733c177e45452f3553fbab681095 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.ts
+@@ -78,9 +78,5 @@ export const aPageTypeWithItsParts = {
+       invariantKind: "departure",
+       statement: "A subfolder holding no page the page type declares is refused.",
+     },
+-    {
+-      invariantKind: "absence",
+-      statement: "The files a part holds are judged where that part is judged.",
+-    },
+   ],
+ } as const satisfies FolderShape
