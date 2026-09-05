@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/testing-system/testing-system.workspace-package.ts b/testing-system/testing-system.workspace-package.ts
+index 2e8f0641f26f8702550be1b32b713f37250b19f6..0ca8d17eb29f2fd4ab65d9f15950365bf8e1a9a0 100644
+--- a/testing-system/testing-system.workspace-package.ts
++++ b/testing-system/testing-system.workspace-package.ts
+@@ -35,7 +35,7 @@ export const testingSystem = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A fixture beside a module reaches for what is here rather than spelling it again.",
++        "A fixture beside a module reaches for what is here rather than spelling what is here again.",
+     },
+     {
+       invariantKind: "departure",
