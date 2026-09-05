@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/editor-extension/harness-json/harness-json.module.ts b/editor-extension/harness-json/harness-json.module.ts
+index c1e116f619a39da1cac14328cbd9c8f637c445ba..05acb669bd429c87bd03b278bda295a60c387321 100644
+--- a/editor-extension/harness-json/harness-json.module.ts
++++ b/editor-extension/harness-json/harness-json.module.ts
+@@ -13,7 +13,7 @@ export const harnessJson = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "A command printing what is no JSON is refused by the command's name.",
++      statement: "A command printing output that is no JSON is refused by the command's name.",
+     },
+     {
+       invariantKind: "departure",
