@@ -50,7 +50,7 @@ index d2265159b1b4109aba663ac6f3118f84f1566eee..9351662f06504649e00a21d7e1975b90
    return { report, refusals: [], code: 0 }
  }
 diff --git a/commands/deploy/web-putting-up/deploy-web-putting-up.module.ts b/commands/deploy/web-putting-up/deploy-web-putting-up.module.ts
-index 8c629df5ebdbe7cba7dd1d0f1638cd1d28f3893a..cefd8af4345855b9ffa876e57a2df5e5ecb97b02 100644
+index 8c629df5ebdbe7cba7dd1d0f1638cd1d28f3893a..cc4251f0777d91086893089065da7476902d3d62 100644
 --- a/commands/deploy/web-putting-up/deploy-web-putting-up.module.ts
 +++ b/commands/deploy/web-putting-up/deploy-web-putting-up.module.ts
 @@ -14,7 +14,7 @@ export const deployWebPuttingUp = {
@@ -71,3 +71,12 @@ index 8c629df5ebdbe7cba7dd1d0f1638cd1d28f3893a..cefd8af4345855b9ffa876e57a2df5e5
      },
      {
        invariantKind: "departure",
+@@ -69,7 +69,7 @@ export const deployWebPuttingUp = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A change standing only in the worktree is not built.",
++      statement: "A change only in the worktree is not built.",
+     },
+     {
+       invariantKind: "absence",
