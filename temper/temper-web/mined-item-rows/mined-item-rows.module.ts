@@ -6,6 +6,7 @@ export const minedItemRows = {
   slug: "mined-item-rows",
   definition: "a mined item read out of a stored row and written back into one",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
