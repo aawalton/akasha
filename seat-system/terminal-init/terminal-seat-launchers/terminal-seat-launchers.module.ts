@@ -18,7 +18,7 @@ export const terminalSeatLaunchers = {
     },
     {
       invariantKind: "departure",
-      statement: "A session is live only where it holds a pane that is not dead.",
+      statement: "A session is live only where that session holds a pane that is not dead.",
     },
     {
       invariantKind: "departure",
@@ -30,11 +30,12 @@ export const terminalSeatLaunchers = {
     },
     {
       invariantKind: "departure",
-      statement: "A resume attaches to a live session without asking anything to start it.",
+      statement:
+        "A resume attaches to a live session without asking anything to start that session.",
     },
     {
       invariantKind: "departure",
-      statement: "A fresh seat stops whatever held its name before it starts.",
+      statement: "A fresh seat stops whatever held its name before that seat starts.",
     },
     {
       invariantKind: "departure",
