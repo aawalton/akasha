@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/pages/repo-path/repo-path.module.ts b/pages/repo-path/repo-path.module.ts
-index 5a65398ccfc8f6e40c9ecaf2e4b8cd5488701bbb..82773c68f04c941b8f57f6bb962e06e2fe76c91f 100644
+index 5a65398ccfc8f6e40c9ecaf2e4b8cd5488701bbb..81716b62d89769e9a5811c26e231b46dc671241c 100644
 --- a/pages/repo-path/repo-path.module.ts
 +++ b/pages/repo-path/repo-path.module.ts
-@@ -14,7 +14,7 @@ export const repoPath = {
+@@ -14,11 +14,11 @@ export const repoPath = {
      },
      {
        invariantKind: "departure",
@@ -12,3 +12,8 @@ index 5a65398ccfc8f6e40c9ecaf2e4b8cd5488701bbb..82773c68f04c941b8f57f6bb962e06e2
      },
      {
        invariantKind: "departure",
+-      statement: "A path inside `.git` names the repository rather than anything it says.",
++      statement: "A path inside `.git` names the repository rather than anything that path says.",
+     },
+   ],
+ } as const satisfies Module
