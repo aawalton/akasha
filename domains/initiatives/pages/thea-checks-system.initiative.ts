@@ -21,7 +21,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is clean.",
       workingMemory:
-        "Six steps per check: 1 the failure category prevented, 2 the file set covered, 3 the cost over one file not judged, 4 over one judged, 5 over the whole repository, 6 whether green. The entries jsonl holds every run. 43 checks, alphabetical over all 43 whether or not one runs already. Done: domain-is-named-by-a-parent, email-address-is-well-formed. Now: file-has-its-page, steps 1 and 2 done; it judges what a change carries, so audit waits on routes and the old system.",
+        "Six steps per check: 1 the failure category prevented, 2 the file set covered, 3 the cost over one file not judged, 4 over one judged, 5 over the whole repository, 6 whether green. The entries jsonl holds every run. 43 checks, alphabetical over all 43 whether or not one runs already. Done: domain-is-named-by-a-parent, email-address-is-well-formed. Now: file-has-its-page, steps 1 and 2 done; it judges what a change carries, so audit waits on every tracked file being claimed.",
     },
     {
       statement: "Every file the repository tracks is claimed by a page.",
