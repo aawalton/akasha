@@ -1,0 +1,14 @@
+diff --git a/temper/temper-characters-capture-addon/character-capture-passive-map/character-capture-passive-map.module.ts b/temper/temper-characters-capture-addon/character-capture-passive-map/character-capture-passive-map.module.ts
+index d10eb7b948bfe92f8a4a28af1c1fdee536e360ac..b5f28c2f17813414e41a99f04b82674048d1f91f 100644
+--- a/temper/temper-characters-capture-addon/character-capture-passive-map/character-capture-passive-map.module.ts
++++ b/temper/temper-characters-capture-addon/character-capture-passive-map/character-capture-passive-map.module.ts
+@@ -11,9 +11,5 @@ export const characterCapturePassiveMap = {
+       invariantKind: "constraint",
+       statement: "A place in this table is the number a saved build hash carries.",
+     },
+-    {
+-      invariantKind: "gap",
+-      statement: "An entry moved to another place misreads every build hash already saved.",
+-    },
+   ],
+ } as const satisfies Module
