@@ -1,0 +1,13 @@
+diff --git a/email-watch/inbox-pass/inbox-pass.module.ts b/email-watch/inbox-pass/inbox-pass.module.ts
+index 47f63b2e9104e2a0682bd2d045c9e5eb74586222..a336d4c236e6060942e51c4db735e15400944f92 100644
+--- a/email-watch/inbox-pass/inbox-pass.module.ts
++++ b/email-watch/inbox-pass/inbox-pass.module.ts
+@@ -10,7 +10,7 @@ export const inboxPass = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A pass names the person whose inbox it reads.",
++      statement: "A pass names the person whose inbox that pass reads.",
+     },
+     {
+       invariantKind: "departure",
