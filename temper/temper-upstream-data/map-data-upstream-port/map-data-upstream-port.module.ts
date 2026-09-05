@@ -22,7 +22,7 @@ export const mapDataUpstreamPort = {
     {
       invariantKind: "departure",
       statement:
-        "The pseudo map indices are gathered from the globals the upstream file names them on.",
+        "The pseudo map indices are gathered from the globals the upstream file names those indices on.",
     },
     {
       invariantKind: "departure",
