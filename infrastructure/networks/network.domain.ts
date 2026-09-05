@@ -10,6 +10,7 @@ export const network = {
     "domain/certificate",
     "manifest/cloudflared",
     "manifest/ddns-headscale",
+    "manifest/headscale",
     "workspace-package/auth-proxy",
   ],
   invariants: [
