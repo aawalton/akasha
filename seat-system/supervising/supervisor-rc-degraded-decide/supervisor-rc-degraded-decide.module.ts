@@ -10,7 +10,8 @@ export const supervisorRcDegradedDecide = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A tick that read no edge count decides nothing and leaves the streak as it was.",
+      statement:
+        "A tick that read no edge count decides nothing and leaves the streak as that streak was.",
     },
     {
       invariantKind: "departure",
