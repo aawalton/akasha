@@ -22,7 +22,7 @@ export const mobileSimStatus = {
     {
       invariantKind: "departure",
       statement:
-        "Whether a session is live is asked of Appium rather than read from what is written down.",
+        "Whether a session is live is asked of Appium rather than read from the session written down.",
     },
     {
       invariantKind: "departure",
