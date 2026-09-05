@@ -52,11 +52,11 @@ export const landing = {
     {
       invariantKind: "absence",
       statement:
-        "A change stating no commit the change was read against is taken as read against what is checked out.",
+        "A change stating no commit the change was read against is taken as read against the commit at HEAD.",
     },
     {
       invariantKind: "departure",
-      statement: "A body is overwritten only where what is on disk is the body its writer read.",
+      statement: "A body is overwritten only where the body on disk is the body its writer read.",
     },
     {
       invariantKind: "departure",
@@ -64,11 +64,11 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "What was written is put back when anything after the writing throws.",
+      statement: "The bodies written are put back when anything after the writing throws.",
     },
     {
       invariantKind: "departure",
-      statement: "What is put back is the base commit's bodies.",
+      statement: "The bodies put back are the base commit's bodies.",
     },
     {
       invariantKind: "departure",
@@ -76,7 +76,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "What was staged for a commit that threw is unstaged with the bodies.",
+      statement: "The paths staged for a commit that threw are unstaged with the bodies.",
     },
     {
       invariantKind: "departure",
@@ -120,7 +120,8 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "The folders cleared are answered alongside what was written and what was taken.",
+      statement:
+        "The folders cleared are answered alongside the paths written and the paths taken.",
     },
     {
       invariantKind: "departure",
@@ -214,7 +215,7 @@ export const landing = {
     {
       invariantKind: "departure",
       statement:
-        "A draft is judged against what the patch would hold rather than the change alone.",
+        "A draft is judged against the bodies the patch would hold rather than the change alone.",
     },
     {
       invariantKind: "departure",
@@ -226,7 +227,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "What a draft was judged over is answered alongside what was drafted.",
+      statement: "The paths a draft was judged over are answered alongside the paths drafted.",
     },
     {
       invariantKind: "departure",
@@ -242,7 +243,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "One rule answers whether a landing and a draft are held to what was read.",
+      statement: "One rule answers whether a landing and a draft are held to the bodies read.",
     },
     {
       invariantKind: "departure",
@@ -266,7 +267,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A draft says what the change drafted into the patch runs.",
+      statement: "A draft says which checks and warrants the change drafted into the patch runs.",
     },
     {
       invariantKind: "departure",
