@@ -133,7 +133,7 @@ export const temperAddonGenerators = {
     {
       invariantKind: "departure",
       statement:
-        "A rendered file landing outside akasha carries a line telling a reader not to edit it.",
+        "A rendered file landing outside akasha carries a line telling a reader not to edit that file.",
     },
   ],
 } as const satisfies WorkspacePackage
