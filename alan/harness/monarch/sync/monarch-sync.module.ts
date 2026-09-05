@@ -10,7 +10,7 @@ export const monarchSync = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The full pass is what repairs the minutely poll.",
+      statement: "The full pass repairs the minutely poll.",
     },
     {
       invariantKind: "departure",
