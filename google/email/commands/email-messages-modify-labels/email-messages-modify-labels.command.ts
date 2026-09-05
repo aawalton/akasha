@@ -24,7 +24,7 @@ export const emailMessagesModifyLabels = {
     },
     {
       invariantKind: "departure",
-      statement: "A label is named by its id rather than by the name it is shown under.",
+      statement: "A label is named by its id rather than by the name that label is shown under.",
     },
     {
       invariantKind: "departure",
