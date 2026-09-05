@@ -1,0 +1,18 @@
+diff --git a/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts b/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
+index 2a2d776204628cd676ce25b374f59f4a70b6f2c5..9fdf06090486558502217db8f4e983caa99c1adc 100644
+--- a/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
++++ b/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
+@@ -32,8 +32,11 @@ export const accountUpkeepStallReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Eligibility is judged from the usage numbers alone with no regard for their age, so upkeep stopping freezes the pool at whatever it last read.",
++      statement: "Eligibility is judged from the usage numbers alone with no regard for their age.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Upkeep stopping freezes the pool at whatever upkeep last read.",
+     },
+     {
+       invariantKind: "departure",
