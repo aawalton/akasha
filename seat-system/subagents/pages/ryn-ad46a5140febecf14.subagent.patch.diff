@@ -1,5 +1,5 @@
 diff --git a/machines/clusters/cluster.page-type.ts b/machines/clusters/cluster.page-type.ts
-index f597218bea689178495c96660b2b2e589345f61f..62b079992bc34161f96bbca616d733f2046cf257 100644
+index f597218bea689178495c96660b2b2e589345f61f..50a67d1895047911740ecd74b5549173c3ac7e7e 100644
 --- a/machines/clusters/cluster.page-type.ts
 +++ b/machines/clusters/cluster.page-type.ts
 @@ -18,7 +18,8 @@ export const cluster = {
@@ -9,6 +9,16 @@ index f597218bea689178495c96660b2b2e589345f61f..62b079992bc34161f96bbca616d733f2
 -      statement: "A workload reaches a node by what it needs rather than by a class node carries.",
 +      statement:
 +        "A workload reaches a node by what that workload needs rather than by a class node carries.",
+     },
+     {
+       invariantKind: "gap",
+@@ -26,7 +27,8 @@ export const cluster = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "What a person did on one of those machines under Windows, they can still do.",
++      statement:
++        "What a person did on one of those machines under Windows, that person can still do.",
      },
      {
        invariantKind: "gap",
