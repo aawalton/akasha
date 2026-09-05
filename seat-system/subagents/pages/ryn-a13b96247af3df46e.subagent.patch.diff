@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/compose-notices/compose-notices.command.ts b/commands/compose-notices/compose-notices.command.ts
+index cd09dbb16c93d020ba48db31df0a16ed21dd9b47..79d9ebc5062175858ea3f14d8281b0ce816358ff 100644
+--- a/commands/compose-notices/compose-notices.command.ts
++++ b/commands/compose-notices/compose-notices.command.ts
+@@ -34,7 +34,7 @@ export const composeNotices = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The JSON is indented two spaces, which the callers diffing it read.",
++      statement: "The JSON is indented two spaces, which the callers diffing that JSON read.",
+     },
+     {
+       invariantKind: "departure",
