@@ -11,6 +11,5 @@ export const seaweedfsVolume = {
   image: "chrislusf/seaweedfs:3.73",
   replicas: 1,
   containerPort: 8080,
-  manifestCode:
-    "infrastructure/seaweedfs/volume/seaweedfs-volume.cluster-service.code.attachment.ts",
+  manifestSlug: "seaweedfs-volume",
 } as const satisfies ClusterService
