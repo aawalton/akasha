@@ -1,26 +1,34 @@
 diff --git a/agents/claude-accounts/modules/making/claude-account-making.module.code.ts b/agents/claude-accounts/modules/making/claude-account-making.module.code.ts
-index 410af03c8645872ebf76adcc1e2614c088819908..02b19a0551ca8d59d784ba2730854785758ecddc 100644
+index 410af03c8645872ebf76adcc1e2614c088819908..636704d4f4da28637646bb8e89333a1ed6dbb201 100644
 --- a/agents/claude-accounts/modules/making/claude-account-making.module.code.ts
 +++ b/agents/claude-accounts/modules/making/claude-account-making.module.code.ts
-@@ -31,7 +31,7 @@ export type Landing = (
+@@ -31,9 +31,9 @@ export type Landing = (
  
  export const LANDING: Landing = landedMechanically
  
 -// Where a new account page is written is read off the pages already standing rather than written
 +// Where a new account page is written is read off the pages already there rather than written
  // out a second time. A folder move repoints no string in this repository, so a spelled folder is
- // the answer that goes stale; a root standing no account at all names that rather than guessing.
+-// the answer that goes stale; a root standing no account at all names that rather than guessing.
++// the answer that goes stale; a root holding no account at all names that rather than guessing.
  export function accountsAtIn(given: string | Reading): string {
+   const first = everyAccountIn(given)[0]
+   if (first === undefined) {
 diff --git a/agents/claude-accounts/modules/making/claude-account-making.module.ts b/agents/claude-accounts/modules/making/claude-account-making.module.ts
-index 5b7666756a79e2885d1511374b4b7cf7a23d9ee2..802ada5beadf21812bf058348f21a5c9e6bfaa1f 100644
+index 5b7666756a79e2885d1511374b4b7cf7a23d9ee2..3dacd09d0ae5566f18334560f4130f3a9155dda9 100644
 --- a/agents/claude-accounts/modules/making/claude-account-making.module.ts
 +++ b/agents/claude-accounts/modules/making/claude-account-making.module.ts
-@@ -10,7 +10,7 @@ export const claudeAccountMaking = {
+@@ -10,11 +10,11 @@ export const claudeAccountMaking = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "The folder a new account is written into is read off the pages already standing.",
 +      statement: "The folder a new account is written into is read off the pages already there.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A root standing no account throws rather than guessing that folder.",
++      statement: "A root holding no account throws rather than guessing that folder.",
      },
      {
        invariantKind: "departure",
