@@ -229,6 +229,19 @@ index d69256318f8f3fb588470ac71f8ac64660f49566..9b72f7f90fd8eccd1b5174fec1806f9e
        return undefined
      default: {
        const unreached: never = step
+diff --git a/editor-extension/seat-acts/seat-acts.module.ts b/editor-extension/seat-acts/seat-acts.module.ts
+index 51c6181b585c5236a8397462d9b71267133a2572..9339b2cc1f5035f35cbd3f2ad1c5ce94c6774e27 100644
+--- a/editor-extension/seat-acts/seat-acts.module.ts
++++ b/editor-extension/seat-acts/seat-acts.module.ts
+@@ -4,7 +4,7 @@ export const seatActs = {
+   id: "01a0686b-bfe9-770c-b16a-b99c4d15eec7",
+   pageTypeSlug: "module",
+   slug: "seat-acts",
+-  definition: "the ops calls and terminals a planned step is carried out as, one seat at a time",
++  definition: "the seat command and terminals a planned step is carried out as, one seat at a time",
+   code: "ts",
+   invariants: [
+     {
 diff --git a/editor-extension/seat-toggles/seat-toggles.module.code.ts b/editor-extension/seat-toggles/seat-toggles.module.code.ts
 index bfea36c32c47cd062e38ed4b880826064a03072d..42718faa2998a8d45ac21271b125d67f53e27045 100644
 --- a/editor-extension/seat-toggles/seat-toggles.module.code.ts
