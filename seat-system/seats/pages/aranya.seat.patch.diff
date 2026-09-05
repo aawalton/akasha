@@ -663,3 +663,11 @@ index 571fdb9ca959ed11cd24ba8abfbb12bc06b63b08..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../web-static-assets
 \ No newline at end of file
+diff --git a/workspace-paths/workspace-paths b/workspace-paths/workspace-paths
+deleted file mode 120000
+index 6838253d81fe6e7ffb5d6949b92f91db6c4e9565..0000000000000000000000000000000000000000
+--- a/workspace-paths/workspace-paths
++++ /dev/null
+@@ -1 +0,0 @@
+-../../workspace-paths
+\ No newline at end of file
