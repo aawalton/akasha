@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/person-system/device-secret-minting/device-secret-minting.module.ts b/person-system/device-secret-minting/device-secret-minting.module.ts
+index 5e46b6547d2711164365e123de1af5ffa132d0fe..6d060cc8a10f30af322841e9904f3fff9e79b3bb 100644
+--- a/person-system/device-secret-minting/device-secret-minting.module.ts
++++ b/person-system/device-secret-minting/device-secret-minting.module.ts
+@@ -47,7 +47,7 @@ export const deviceSecretMinting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A device the route admits keeps what that device holds.",
++      statement: "A device the route admits keeps the secret that device holds.",
+     },
+     {
+       invariantKind: "departure",
