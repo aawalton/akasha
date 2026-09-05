@@ -304,17 +304,22 @@ index 0000000000000000000000000000000000000000..c124bf23a65d49c4bb6c864bc6e65f5f
 +  ]
 +}
 diff --git a/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff b/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
-index a14e17a25a5e06846c15ce4e00f56297fc711007..ef68a50b4eb45b8f610f9806057c5484b701b768 100644
+index d43a65a9e8798a596d1aa1ccd3750c3a07526cdd..111ad5282aec055f6477936d0c7feee562f2a632 100644
 --- a/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
 +++ b/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
-@@ -7,6 +7,6 @@ index 86497ba521da2852c8a4714707c6dc31067d7600..e528e73ffb5a08b9e23d831e4240f71e
+@@ -629,8 +629,12 @@ index 86497ba521da2852c8a4714707c6dc31067d7600..aeb139d40c8a1ca1ed6bf83e2b02ed36
     replicas: 1,
     containerPort: 8443,
  -  manifestCode:
---    "service-system/cluster-services/pages/headscale/headscale.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +-    "infrastructure/networks/headscale/headscale.manifest.code.ts",
++=======
+ -    "service-system/cluster-services/pages/headscale/headscale.cluster-service.code.attachment.ts",
+ +<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
  +  manifestSlug: "headscale",
-  } as const satisfies ClusterService
+ +=======
+ +  manifestCode: "infrastructure/networks/headscale/headscale.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/headscale/headscale.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/headscale/headscale.cluster-service.code.attachment.ts
 deleted file mode 100644
 index c124bf23a65d49c4bb6c864bc6e65f5f92aa91c6..0000000000000000000000000000000000000000
@@ -621,18 +626,14 @@ index c124bf23a65d49c4bb6c864bc6e65f5f92aa91c6..00000000000000000000000000000000
 -  ]
 -}
 diff --git a/service-system/cluster-services/pages/headscale/headscale.cluster-service.ts b/service-system/cluster-services/pages/headscale/headscale.cluster-service.ts
-index 86497ba521da2852c8a4714707c6dc31067d7600..aeb139d40c8a1ca1ed6bf83e2b02ed36075a1c35 100644
+index 86497ba521da2852c8a4714707c6dc31067d7600..e528e73ffb5a08b9e23d831e4240f71e2cdc112b 100644
 --- a/service-system/cluster-services/pages/headscale/headscale.cluster-service.ts
 +++ b/service-system/cluster-services/pages/headscale/headscale.cluster-service.ts
-@@ -12,6 +12,9 @@ export const headscale = {
+@@ -12,6 +12,5 @@ export const headscale = {
    image: "headscale/headscale:0.28.0",
    replicas: 1,
    containerPort: 8443,
 -  manifestCode:
 -    "service-system/cluster-services/pages/headscale/headscale.cluster-service.code.attachment.ts",
-+<<<<<<< what this change would leave
 +  manifestSlug: "headscale",
-+=======
-+  manifestCode: "infrastructure/networks/headscale/headscale.manifest.code.ts",
-+>>>>>>> what HEAD holds
  } as const satisfies ClusterService
