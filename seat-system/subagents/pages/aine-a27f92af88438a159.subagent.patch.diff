@@ -118,7 +118,7 @@ index 4c9eab1870351ec7a92b26d31a182d44ce9ca2dd..0676e6633505f941d5ddf2f2d058e38e
    return at
  }
 diff --git a/pages/uncommitted/page-uncommitted.module.test.ts b/pages/uncommitted/page-uncommitted.module.test.ts
-index 4b951ea3e02fbb76b6a94350a9bdaad9df8503c8..74053fa9c92b2e17885e9d51445049bb2e2281af 100644
+index 4b951ea3e02fbb76b6a94350a9bdaad9df8503c8..d1bf2edcf24fa6c8ccd6cbd6991b542aa3db0114 100644
 --- a/pages/uncommitted/page-uncommitted.module.test.ts
 +++ b/pages/uncommitted/page-uncommitted.module.test.ts
 @@ -98,20 +98,20 @@ test("what is kept beside a page is read back from it", () => {
@@ -187,6 +187,15 @@ index 4b951ea3e02fbb76b6a94350a9bdaad9df8503c8..74053fa9c92b2e17885e9d51445049bb
    const root = rooted()
    keepUncommitted(root, PAGE, { held: "one" })
    mergeUncommitted(root, PAGE, { beats: 1 })
+@@ -226,7 +226,7 @@ test("a lock left by a process that is gone is taken rather than waited on", asy
+   expect(uncommittedIn(root, PAGE)).toEqual({ held: "one", beats: 1 })
+ })
+ 
+-test("a lock whose pid stands for another process than the one that took it is no lock", () => {
++test("a lock whose pid names another process than the one that took it is no lock", () => {
+   const root = rooted()
+   locked(root, `${process.pid} 1`)
+   const from = Date.now()
 diff --git a/pages/uncommitted/page-uncommitted.module.ts b/pages/uncommitted/page-uncommitted.module.ts
 index 90ea594df756c9bbc095d8d341ba6d8d5d3e291c..14883fe8f659d50aa30224b643fd38d51787a81b 100644
 --- a/pages/uncommitted/page-uncommitted.module.ts
