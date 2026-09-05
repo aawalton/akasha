@@ -111,7 +111,7 @@ export function checksIn(root: string): readonly Gathered[] {
     }
     const beside = besideAt(path, CODE, TS)
     if (beside === null) {
-      throw new Error(`${path} is a check page, and no code file can stand beside a name like it`)
+      throw new Error(`${path} is a check page, and no code file can sit beside a name like it`)
     }
     const run = runningIn(join(root, beside), slug, beside)
     if (run === null) {

@@ -5,13 +5,13 @@ export const checkScratch = {
   pageTypeSlug: "module",
   slug: "check-scratch",
   definition:
-    "what a check's test judges: an index stood up in a scratch root, and the change read against it",
+    "what a check's test judges: an index set up in a scratch root, and the change read against it",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement:
-        "Where an index stands is reached through the composer that says where the index is.",
+        "Where an index sits is reached through the composer that says where the index is.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const checkScratch = {
     },
     {
       invariantKind: "departure",
-      statement: "A change falls back to what stands on disk.",
+      statement: "A change falls back to what is on disk.",
     },
     {
       invariantKind: "absence",
@@ -47,7 +47,7 @@ export const checkScratch = {
     },
     {
       invariantKind: "absence",
-      statement: "A test says where its scratch stands and how long the scratch lives.",
+      statement: "A test says where its scratch sits and how long the scratch lives.",
     },
     {
       invariantKind: "absence",
@@ -68,7 +68,7 @@ export const checkScratch = {
     },
     {
       invariantKind: "absence",
-      statement: "What stands here is stood up by the check tests that reach for what is here.",
+      statement: "What is here is set up by the check tests that reach for what is here.",
     },
   ],
 } as const satisfies Module

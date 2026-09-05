@@ -18,7 +18,7 @@ export const modelRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A statement standing in the body before the change is passed over.",
+      statement: "A statement in the body before the change is passed over.",
     },
     {
       invariantKind: "departure",
