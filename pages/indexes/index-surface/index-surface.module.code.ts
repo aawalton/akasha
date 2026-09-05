@@ -1,6 +1,6 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Child, Filing, Reading } from "../index-shape/index-shape.module.code.ts"
+import type { Child, Filing, Reading } from "../shape/index-shape.module.code.ts"
 
 const ROOT = ""
 

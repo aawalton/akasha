@@ -21,7 +21,6 @@ import {
   schemaAt,
   sidecarsOver,
 } from "../entries/index-entries.module.code.ts"
-import type { Reading } from "../index-shape/index-shape.module.code.ts"
 import {
   carryingOf,
   type Declaring,
@@ -46,6 +45,7 @@ import {
   typeSlugById,
   typeSlugOf,
 } from "../reading/index-reading.module.code.ts"
+import type { Reading } from "../shape/index-shape.module.code.ts"
 
 export type PageOf = (path: string) => Value | null
 

@@ -3,13 +3,13 @@ import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { propertiesIfNamedOf } from "@akasha/pages-system/page-type-properties"
 import { slugOf, slugsIn, textAt, type Value } from "@akasha/pages-system/page-value"
 import { schemaAt } from "../entries/index-entries.module.code.ts"
-import type { Reading } from "../index-shape/index-shape.module.code.ts"
 import {
   everyOfType,
   type Listed,
   listedAt,
   listedById,
 } from "../reading/index-reading.module.code.ts"
+import type { Reading } from "../shape/index-shape.module.code.ts"
 
 const RECORD = "record-property"
 

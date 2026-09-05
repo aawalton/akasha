@@ -12,7 +12,6 @@ import { everyFileUnder } from "@akasha/testing-system/walking"
 import type { Entry } from "../entries/index-entries.module.code.ts"
 import { indexIdentity } from "../identity/index-identity.index.ts"
 import { indexImport } from "../import/index-import.index.ts"
-import type { Reading } from "../index-shape/index-shape.module.code.ts"
 import {
   type Stamp,
   stampIn,
@@ -24,6 +23,7 @@ import { rebuiltFrom } from "../indexing/indexing.module.code.ts"
 import { indexPath } from "../path/index-path.index.ts"
 import { indexRelation } from "../relation/index-relation.index.ts"
 import { indexSchema } from "../schema/index-schema.index.ts"
+import type { Reading } from "../shape/index-shape.module.code.ts"
 import { indexValue } from "../value/index-value.index.ts"
 import { readingIn } from "./index-reading.module.code.ts"
 

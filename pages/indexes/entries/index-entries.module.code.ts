@@ -5,9 +5,9 @@ import { partsOf, uncommittedPartsOf } from "@akasha/pages-system/page-file-part
 import { slugFor } from "@akasha/pages-system/page-property-key"
 import { slugAt, slugsIn, textAt, type Value } from "@akasha/pages-system/page-value"
 import { indexIdentity } from "../identity/index-identity.index.ts"
-import type { Reading } from "../index-shape/index-shape.module.code.ts"
 import { answered, readingIn, valuesOfType } from "../reading/index-reading.module.code.ts"
 import { indexSchema } from "../schema/index-schema.index.ts"
+import type { Reading } from "../shape/index-shape.module.code.ts"
 
 const ENDING = ".jsonl"
 
