@@ -1,0 +1,98 @@
+diff --git a/personas-core/framework/framework.module.test.ts b/personas-core/framework/framework.module.test.ts
+index fd2d16de3aa0d2f90970ad100e52d87bfd2f4357..b81a0ec03bada20764a6df80df5b50165afd308d 100644
+--- a/personas-core/framework/framework.module.test.ts
++++ b/personas-core/framework/framework.module.test.ts
+@@ -14,7 +14,7 @@ describe("stripFrontmatter", () => {
+     expect(stripFrontmatter("---\na: 1\nno end")).toBe("---\na: 1\nno end")
+   })
+ 
+-  test("drops the blank lines left where the block stood", () => {
++  test("drops the blank lines left where the block was", () => {
+     expect(stripFrontmatter("---\na: 1\n---\n\n\n\nBody.")).toBe("Body.")
+   })
+ })
+diff --git a/personas-core/framework/framework.module.ts b/personas-core/framework/framework.module.ts
+index 91c4ed00b522f35ad809bc710e14b11746c3a7f7..527a8006cba7fe7da0ce322ac7005c4c62295788 100644
+--- a/personas-core/framework/framework.module.ts
++++ b/personas-core/framework/framework.module.ts
+@@ -14,7 +14,7 @@ export const framework = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The blank lines left where the block stood are dropped too.",
++      statement: "The blank lines left where the block was are dropped too.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/personas-core/points-source-availability/points-source-availability.module.code.ts b/personas-core/points-source-availability/points-source-availability.module.code.ts
+index d22cb161636c2120a63d3a1b05b6d0c8faf2df86..e1b2d4b6c940bd4affd95f183bf690b7bd05e247 100644
+--- a/personas-core/points-source-availability/points-source-availability.module.code.ts
++++ b/personas-core/points-source-availability/points-source-availability.module.code.ts
+@@ -14,6 +14,6 @@ export function pointsSourceMayWrite(row: PointsSourceAvailabilityRow): {
+   const who = row.title ?? "this persona"
+   return {
+     mayWrite: false,
+-    reason: `${who} declares her points source unavailable: the source her domain document names does not exist yet, so no points are written rather than metering a substitute. Her stored total is left as it stands.`,
++    reason: `${who} declares her points source unavailable: the source her domain document names does not exist yet, so no points are written rather than metering a substitute. Her stored total is left as it is.`,
+   }
+ }
+diff --git a/personas-core/points-source-availability/points-source-availability.module.test.ts b/personas-core/points-source-availability/points-source-availability.module.test.ts
+index 697da3e7318520aa1a409915a2c5e1692bd68b2d..bab4e24b600677e5909ced2cf83d98bee41444db 100644
+--- a/personas-core/points-source-availability/points-source-availability.module.test.ts
++++ b/personas-core/points-source-availability/points-source-availability.module.test.ts
+@@ -17,13 +17,13 @@ describe("pointsSourceMayWrite", () => {
+     expect(pointsSourceMayWrite({ pointsSourceKind: "unavailable" }).mayWrite).toBe(false)
+   })
+ 
+-  test("says her stored total is left as it stands", () => {
++  test("says her stored total is left as it is", () => {
+     const answer = pointsSourceMayWrite({ pointsSourceKind: "unavailable", title: "Aria" })
+     expect(answer.reason).toContain("Aria")
+-    expect(answer.reason).toContain("left as it stands")
++    expect(answer.reason).toContain("left as it is")
+   })
+ 
+-  test("stands in a plain name where she has no title", () => {
++  test("puts a plain name in where she has no title", () => {
+     expect(pointsSourceMayWrite({ pointsSourceKind: "unavailable" }).reason).toContain(
+       "this persona"
+     )
+diff --git a/personas-core/points-source-availability/points-source-availability.module.ts b/personas-core/points-source-availability/points-source-availability.module.ts
+index 74f973446ecd19dccebfa1206ef9ffb71f323c04..da6d17b6126e1f4cd96c226604abbf76b09e5559 100644
+--- a/personas-core/points-source-availability/points-source-availability.module.ts
++++ b/personas-core/points-source-availability/points-source-availability.module.ts
+@@ -11,7 +11,7 @@ export const pointsSourceAvailability = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A persona declaring her source unavailable has her stored total left as that total stands.",
++        "A persona declaring her source unavailable has her stored total left as that total is.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/personas-core/render-prompt/render-prompt.module.test.ts b/personas-core/render-prompt/render-prompt.module.test.ts
+index ba553f4673fc5abd3d95e2c6256b0b4b07dd0891..5c147c37d52c968177787785fbfead970e83b35d 100644
+--- a/personas-core/render-prompt/render-prompt.module.test.ts
++++ b/personas-core/render-prompt/render-prompt.module.test.ts
+@@ -45,7 +45,7 @@ describe("assembleTransformationPrompt", () => {
+ })
+ 
+ describe("buildSceneScaffold", () => {
+-  test("stands a placeholder in where no scene is written", () => {
++  test("puts a placeholder in where no scene is written", () => {
+     const scaffold = buildSceneScaffold({
+       closeness: "Close.",
+       wardrobe: "Linen.",
+diff --git a/personas-core/render-prompt/render-prompt.module.ts b/personas-core/render-prompt/render-prompt.module.ts
+index e5cdf93e7e9a1ea84aa0ef97b2123ef4eb292aa7..7ab2b0ba8c9119c27e6fa6f9567279b73c3a7fc7 100644
+--- a/personas-core/render-prompt/render-prompt.module.ts
++++ b/personas-core/render-prompt/render-prompt.module.ts
+@@ -18,7 +18,7 @@ export const renderPrompt = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A scene left unwritten is stood in for by a placeholder.",
++      statement: "A scene left unwritten has a placeholder put in its place.",
+     },
+   ],
+ } as const satisfies Module
