@@ -1,0 +1,37 @@
+diff --git a/seat-system/compose-notices/compose-notices.module.code.ts b/seat-system/compose-notices/compose-notices.module.code.ts
+index 0a02c27fc8711c1ffa440c7e1697aae4b9fb8cba..836eae0959420f9c8f3a913b422863282988e844 100644
+--- a/seat-system/compose-notices/compose-notices.module.code.ts
++++ b/seat-system/compose-notices/compose-notices.module.code.ts
+@@ -66,21 +66,29 @@ export function noticesUnder(folder: string): Readonly<Record<string, string>> {
+   return notices
+ }
+ 
++// What an importer asks for: every notice there is, in one map. It throws rather than answering
++// with nothing, so a caller is the one that decides what nothing means for it.
+ export function notices(): Readonly<Record<string, string>> {
+   const folder = `${rootFor(resolveRoots(), AKASHA)}/${NOTICES}`
+   if (!existsSync(folder)) {
+-    fail(`${folder} is not there, so there is no notice to render`)
++    throw new Error(`${folder} is not there, so there is no notice to render`)
+   }
+   const found = noticesUnder(folder)
+   if (Object.keys(found).length === 0) {
+-    fail(`${folder} holds no notice page, so there is no notice to render`)
++    throw new Error(`${folder} holds no notice page, so there is no notice to render`)
+   }
+   return found
+ }
+ 
+ function main(): void {
+   const { out } = parse(process.argv.slice(2))
+-  const json = `${JSON.stringify(notices(), null, 2)}\n`
++  let composed: Readonly<Record<string, string>>
++  try {
++    composed = notices()
++  } catch (error) {
++    fail(error instanceof Error ? error.message : String(error))
++  }
++  const json = `${JSON.stringify(composed, null, 2)}\n`
+   if (out === null) process.stdout.write(json)
+   else writeFileSync(out, json)
+ }
