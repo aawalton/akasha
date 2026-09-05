@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/system-service/page-serving/page-serving.module.ts b/pages/system-service/page-serving/page-serving.module.ts
+index 1e325eff156492eeadf59e7351a1263331909942..0ef90f27f342ea079797debf855299054d5bef08 100644
+--- a/pages/system-service/page-serving/page-serving.module.ts
++++ b/pages/system-service/page-serving/page-serving.module.ts
+@@ -34,7 +34,7 @@ export const pageServing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A key holding what its shape does not allow is refused.",
++      statement: "A key holding a value its shape does not allow is refused.",
+     },
+     {
+       invariantKind: "departure",
