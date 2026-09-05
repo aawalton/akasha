@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-parentless-refusal/seat-parentless-refusal.module.ts b/seat-system/seat-parentless-refusal/seat-parentless-refusal.module.ts
+index b2b6bd0dabbf2da27429862938a9497085998356..d6cf72923ac6a6e80fff7a4e36076e11a822a77d 100644
+--- a/seat-system/seat-parentless-refusal/seat-parentless-refusal.module.ts
++++ b/seat-system/seat-parentless-refusal/seat-parentless-refusal.module.ts
+@@ -15,7 +15,7 @@ export const seatParentlessRefusal = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A seat working for the fleet and naming nobody above it is invisible to every walk of the tree.",
++        "A seat working for the fleet and naming nobody above the seat is invisible to every tree walk.",
+     },
+     {
+       invariantKind: "departure",
