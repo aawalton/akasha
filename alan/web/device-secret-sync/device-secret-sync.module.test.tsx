@@ -13,6 +13,8 @@
  * identity on the live tree and moves by client-side navigation instead of reloading.
  */
 import { beforeEach, expect, mock, test } from "bun:test"
+import * as apiFetchModule from "@akasha/alanwalton-web/api-fetch"
+import * as capacitorBridge from "@akasha/alanwalton-web/capacitor-bridge"
 import { UserIdContext } from "@akasha/pages-ui/use-user-id"
 import { render } from "@testing-library/react"
 import { act } from "react"
@@ -34,11 +36,13 @@ const plugin = {
 }
 
 mock.module("@akasha/alanwalton-web/capacitor-bridge", () => ({
+  ...capacitorBridge,
   isNativeShell: () => true,
   getDeviceSecret: () => plugin,
 }))
 
 mock.module("@akasha/alanwalton-web/api-fetch", () => ({
+  ...apiFetchModule,
   apiFetch: (input: string) => {
     apiCalls.push(input)
     return Promise.resolve(new Response(JSON.stringify({ ok: true }), { status: 200 }))
