@@ -359,3 +359,11 @@ index 24a9285747f2ca0e39f08ebada115a5b30d7e947..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../infrastructure/wan
 \ No newline at end of file
+diff --git a/infrastructure/zimage/zimage b/infrastructure/zimage/zimage
+deleted file mode 120000
+index 8e003c4531496b4be9630135df127fa981110c25..0000000000000000000000000000000000000000
+--- a/infrastructure/zimage/zimage
++++ /dev/null
+@@ -1 +0,0 @@
+-../../infrastructure/zimage
+\ No newline at end of file
