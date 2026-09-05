@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/code-system/code-typing/code-typing.module.ts b/code-system/code-typing/code-typing.module.ts
-index b15dcd3dc2c7847665a5203df7d80a05486a46e6..eb3f1e1d5c78102b89c6f28626233df80f61dc53 100644
+index b15dcd3dc2c7847665a5203df7d80a05486a46e6..a324ad70009392fb596f90326e1bfa9c6d825441 100644
 --- a/code-system/code-typing/code-typing.module.ts
 +++ b/code-system/code-typing/code-typing.module.ts
 @@ -59,7 +59,7 @@ export const codeTyping = {
@@ -18,6 +18,16 @@ index b15dcd3dc2c7847665a5203df7d80a05486a46e6..eb3f1e1d5c78102b89c6f28626233df8
        statement:
 -        "What a shorthand names is answered as the declarations the checker resolves the shorthand to.",
 +        "A shorthand's names are answered as the declarations the checker resolves that shorthand to.",
+     },
+     {
+       invariantKind: "departure",
+@@ -104,7 +104,8 @@ export const codeTyping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a name reaches from a place is answered from the scopes over that place.",
++      statement:
++        "The declarations a name reaches from a place are answered from the scopes over that place.",
      },
      {
        invariantKind: "departure",
