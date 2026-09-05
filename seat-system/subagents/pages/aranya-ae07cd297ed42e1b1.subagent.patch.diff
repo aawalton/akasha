@@ -1,12 +1,72 @@
+diff --git a/infrastructure/telemetry/postgres-exporter/postgres-exporter.manifest.code.ts b/infrastructure/telemetry/postgres-exporter/postgres-exporter.manifest.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d3c7173804d1785c3fcc1c43529578d8af2326bc
+--- /dev/null
++++ b/infrastructure/telemetry/postgres-exporter/postgres-exporter.manifest.code.ts
+@@ -0,0 +1,16 @@
++import {
++  postgresExporterDeploymentYaml,
++  postgresExporterQueriesConfigmapYaml,
++  postgresExporterServiceYaml,
++} from "@akasha/cluster-manifests/postgres-exporter-manifests"
++
++export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
++  return [
++    {
++      name: "postgres-exporter-queries-configmap",
++      yaml: postgresExporterQueriesConfigmapYaml(),
++    },
++    { name: "postgres-exporter-deployment", yaml: postgresExporterDeploymentYaml() },
++    { name: "postgres-exporter-service", yaml: postgresExporterServiceYaml() },
++  ]
++}
+diff --git a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
+index 5dd5cb01743cdf17353d03fbf6f866c29e2460a0..87ee093aad1a67ed71826ab99a6ea80bc0d3b471 100644
+--- a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
++++ b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
+@@ -7,6 +7,6 @@ index 1db0e4951623ea6daec4f77eab24ffcbace6d23f..69773f0aef3af8ef7e0f91cffdc1bb53
+    replicas: 1,
+    containerPort: 9187,
+ -  manifestCode:
+--    "service-system/cluster-services/pages/postgres-exporter/postgres-exporter.cluster-service.code.attachment.ts",
++-    "infrastructure/telemetry/postgres-exporter/postgres-exporter.manifest.code.ts",
+ +  manifestSlug: "postgres-exporter",
+  } as const satisfies ClusterService
+diff --git a/service-system/cluster-services/pages/postgres-exporter/postgres-exporter.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/postgres-exporter/postgres-exporter.cluster-service.code.attachment.ts
+deleted file mode 100644
+index d3c7173804d1785c3fcc1c43529578d8af2326bc..0000000000000000000000000000000000000000
+--- a/service-system/cluster-services/pages/postgres-exporter/postgres-exporter.cluster-service.code.attachment.ts
++++ /dev/null
+@@ -1,16 +0,0 @@
+-import {
+-  postgresExporterDeploymentYaml,
+-  postgresExporterQueriesConfigmapYaml,
+-  postgresExporterServiceYaml,
+-} from "@akasha/cluster-manifests/postgres-exporter-manifests"
+-
+-export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
+-  return [
+-    {
+-      name: "postgres-exporter-queries-configmap",
+-      yaml: postgresExporterQueriesConfigmapYaml(),
+-    },
+-    { name: "postgres-exporter-deployment", yaml: postgresExporterDeploymentYaml() },
+-    { name: "postgres-exporter-service", yaml: postgresExporterServiceYaml() },
+-  ]
+-}
 diff --git a/service-system/cluster-services/pages/postgres-exporter/postgres-exporter.cluster-service.ts b/service-system/cluster-services/pages/postgres-exporter/postgres-exporter.cluster-service.ts
-index 1db0e4951623ea6daec4f77eab24ffcbace6d23f..69773f0aef3af8ef7e0f91cffdc1bb53362feaf0 100644
+index 1db0e4951623ea6daec4f77eab24ffcbace6d23f..689893e9c623db6b07c6a1f1cfafc225d789da51 100644
 --- a/service-system/cluster-services/pages/postgres-exporter/postgres-exporter.cluster-service.ts
 +++ b/service-system/cluster-services/pages/postgres-exporter/postgres-exporter.cluster-service.ts
-@@ -11,6 +11,5 @@ export const postgresExporter = {
+@@ -11,6 +11,9 @@ export const postgresExporter = {
    image: "prometheuscommunity/postgres-exporter:v0.15.0",
    replicas: 1,
    containerPort: 9187,
 -  manifestCode:
 -    "service-system/cluster-services/pages/postgres-exporter/postgres-exporter.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +  manifestSlug: "postgres-exporter",
++=======
++  manifestCode: "infrastructure/telemetry/postgres-exporter/postgres-exporter.manifest.code.ts",
++>>>>>>> what HEAD holds
  } as const satisfies ClusterService
