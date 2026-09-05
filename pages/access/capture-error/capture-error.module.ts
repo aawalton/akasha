@@ -14,7 +14,7 @@ export const captureError = {
     },
     {
       invariantKind: "departure",
-      statement: "A capture asks what is filed under its fingerprint before writing anything.",
+      statement: "A capture asks for the page filed under its fingerprint before writing anything.",
     },
     {
       invariantKind: "departure",
