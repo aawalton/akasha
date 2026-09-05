@@ -1,0 +1,17 @@
+diff --git a/alan/web/routes/no-such-route/no-such-route.route.ts b/alan/web/routes/no-such-route/no-such-route.route.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6db691d28d7da6df884589ef51087920bc9f12f7
+--- /dev/null
++++ b/alan/web/routes/no-such-route/no-such-route.route.ts
+@@ -0,0 +1,11 @@
++import type { Route } from "@akasha/code-system/route"
++
++export const noSuchRoute = {
++  id: "01a072dd-d488-7e97-b669-7076f6de9c20",
++  pageTypeSlug: "route",
++  slug: "no-such-route",
++  definition: "that no route answers the address a caller asked for",
++  code: "ts",
++  test: "ts",
++  urlPath: "api/*",
++} as const satisfies Route
