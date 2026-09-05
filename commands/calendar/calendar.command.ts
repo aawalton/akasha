@@ -84,7 +84,7 @@ export const calendar = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What to act on is the first word and the act is the second.",
+      statement: "The subject to act on is the first word and the act is the second.",
     },
     {
       invariantKind: "departure",
