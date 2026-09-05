@@ -168,23 +168,6 @@ index 0000000000000000000000000000000000000000..3afa71fd3bc476bc3fa2d30819ca4cd4
 +    { name: "postgres-cnpg-scheduledbackup", yaml: scheduledBackupYaml() },
 +  ]
 +}
-diff --git a/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff b/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff
-index d6c0524c59c27008667b05998cf59e03d9864592..c0c813a31da59536755a6fa242c8a4b396b92ce6 100644
---- a/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff
-@@ -359,8 +359,12 @@ index df97dfbe02cde97a2e73cbcd353f69974300b0b9..d44ebbbbb5342ef8742d7a66bc2169d7
-      "registry.registry.svc.cluster.local:5000/cluster/postgres-cnpg:18-ts2.24-pgcron-pgnet-wal2json-pgjsonschema-r1",
-    replicas: 2,
- -  manifestCode:
-+<<<<<<< what this change would leave
-+-    "infrastructure/databases/postgres-cnpg/postgres-cnpg.manifest.code.ts",
-+=======
- -    "service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "postgres-cnpg",
- +=======
- +  manifestCode: "infrastructure/databases/postgres-cnpg/postgres-cnpg.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 3afa71fd3bc476bc3fa2d30819ca4cd453666307..0000000000000000000000000000000000000000
