@@ -21,7 +21,7 @@ index 285a652d3e69546778394201a214a490363d94f9..26b1c714044e720c60f4f47a5c1d5de6
 +  return next !== undefined && lower(next) === "`"
 +}
 diff --git a/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.code.ts b/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.code.ts
-index 96e520fff46ab391b1e276a2e95b42b12b7631c6..987cec45d2bf1c58c1640ed450b4ce3d858d3885 100644
+index 96e520fff46ab391b1e276a2e95b42b12b7631c6..94174c995d6bbc93dcb7ad97fffa4dd6604d93ef 100644
 --- a/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.code.ts
 +++ b/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.code.ts
 @@ -2,7 +2,9 @@ import type { DepSentence, DepToken } from "@akasha/plain-language/dependency-gr
@@ -34,6 +34,15 @@ index 96e520fff46ab391b1e276a2e95b42b12b7631c6..987cec45d2bf1c58c1640ed450b4ce3d
    isQuantifier,
    marksADegree,
    partsOf,
+@@ -26,6 +28,8 @@ export const loneQuantifier: ShapePredicate = (sentence) => {
+   const found: Match[] = []
+   for (const token of sentence.tokens) {
+     if (!isQuantifier(token)) continue
++    if (isBackticked(sentence, token)) continue
++    if (determinesABacktickedName(sentence, token)) continue
+     if (!fillsNounSlot(token)) continue
+     if (partsOf(sentence, token).length > 0) continue
+     if (marksADegree(sentence, token)) continue
 diff --git a/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.test.ts b/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.test.ts
 index 8bd0bd634641148345996c2d85ec5e409471a805..8166d67ee9bfd723edc425211e4027f58a030b82 100644
 --- a/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.test.ts
