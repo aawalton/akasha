@@ -5,5 +5,5 @@ export const dirty = {
   pageTypeSlug: "domain",
   slug: "dirty",
   definition: "content a repository holds that nothing yet owns",
-  partSlugs: ["page-type/partslug-probe"],
+  partSlugs: ["page-type/partslug-probe", "page-type/partslug-probe-two"],
 } as const satisfies Domain
