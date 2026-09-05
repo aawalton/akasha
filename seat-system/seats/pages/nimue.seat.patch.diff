@@ -1,5 +1,5 @@
 diff --git a/pages/package.json b/pages/package.json
-index 2e620210c167623723855ca5bac0bc4f468fb732..632d667e9d34d6bfc647caeb2ad1852b1015906b 100644
+index 354e90116cd35bb49404deeb0c7de510d594a6e9..2ecc753516c639a23bc70629c8ab20f1af4dc9b9 100644
 --- a/pages/package.json
 +++ b/pages/package.json
 @@ -4,6 +4,7 @@
@@ -126,3 +126,36 @@ index a5dc288f346701df23db524edb7a9b509392944b..78e199bba97f27d25674d4b871631dd8
      held = worked.filter((one) => narrows(one.value, query.where))
    } catch (thrown) {
      return { refused: thrown instanceof Error ? thrown.message : String(thrown) }
+diff --git a/pages/system-service/page-asking/page-asking.module.ts b/pages/system-service/page-asking/page-asking.module.ts
+index ac38a3caabe8c829375ca0ee25f81bb8e6d8e6ca..76daf67ae903fcdabfe6fc77b75e8f42512960cc 100644
+--- a/pages/system-service/page-asking/page-asking.module.ts
++++ b/pages/system-service/page-asking/page-asking.module.ts
+@@ -98,6 +98,28 @@ export const pageAsking = {
+       invariantKind: "departure",
+       statement: "A figure answering absent puts no key in the row.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A calculation the page type declares is worked out over every page answered.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A calculation is worked out before any formula reading what that calculation answers.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A calculation is read from the code file beside the page declaring that property.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A property whose code file is not there darkens that property's key alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A question naming a key a calculation refused is refused.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A question naming a key no figure works out is refused.",
