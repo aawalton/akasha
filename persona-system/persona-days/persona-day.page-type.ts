@@ -77,7 +77,8 @@ export const personaDay = {
     },
     {
       invariantKind: "departure",
-      statement: "A persona's green-day points moving leaves the days already scored as they were.",
+      statement:
+        "A persona's green-day points moving leaves the days already scored as those days were.",
     },
     {
       invariantKind: "departure",
