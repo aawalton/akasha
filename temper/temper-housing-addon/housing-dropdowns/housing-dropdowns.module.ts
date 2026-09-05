@@ -9,7 +9,7 @@ export const housingDropdowns = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What a player last chose is kept in saved variables.",
+      statement: "The drop-down choices a player last made are kept in saved variables.",
     },
   ],
 } as const satisfies Module
