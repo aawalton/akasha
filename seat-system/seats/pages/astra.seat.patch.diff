@@ -44,3 +44,15 @@ index 0000000000000000000000000000000000000000..2d5a590ae2ed73b53d9efc48c5c071e3
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/commands/refactor/refactor.command.ts b/commands/refactor/refactor.command.ts
+index 15ddc8e9034e62c6d874702f704d4e36029277eb..4b974d541e86fc88d156b35fad5e2aa00262fe9d 100644
+--- a/commands/refactor/refactor.command.ts
++++ b/commands/refactor/refactor.command.ts
+@@ -10,6 +10,7 @@ export const refactor = {
+   changeKindSlug: "change-mechanical",
+   partSlugs: [
+     "module/key-respelling",
++    "module/package-phasing",
+     "module/package-renaming",
+     "module/page-retyping",
+     "module/refactor-arguing",
