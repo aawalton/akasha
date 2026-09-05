@@ -31,6 +31,7 @@
     "@akasha/command-system": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/pages": "workspace:*",
+    "@akasha/pages-access": "workspace:*",
     "@akasha/temper-addon-build": "workspace:*",
     "@akasha/temper-addon-data": "workspace:*",
     "@akasha/temper-addons-resolve": "workspace:*",

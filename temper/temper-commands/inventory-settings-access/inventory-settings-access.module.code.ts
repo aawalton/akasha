@@ -1,12 +1,25 @@
+import { deletePages } from "@akasha/pages-access/delete"
+import { getPages } from "@akasha/pages-access/get"
+import { upsertPages } from "@akasha/pages-access/upsert"
 import { askComposed } from "@akasha/pages-query/store-spelled-asking"
 import { AutomationSettingsShape } from "@akasha/temper-inventory-automation/automation-settings-shape"
 import type { AutomationSettings } from "@akasha/temper-inventory-automation/automation-toggles"
+import type { HeldRule } from "@akasha/temper-items-rules-core/inventory-rule-from-pages"
+import {
+  heldFromRows,
+  rulesFromPages,
+} from "@akasha/temper-items-rules-core/inventory-rule-from-pages"
 import { createDefaultRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-settings"
 import type { InventoryRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import { writesFor } from "@akasha/temper-items-rules-core/inventory-rule-writes"
 import { isJson } from "@akasha/utils-narrow/is-json"
-import { InventoryRuleSettingsShape } from "../inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts"
+import type { Json } from "@akasha/utils-narrow/json-value"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
+
+const RULE_PAGE_TYPE_SLUG = "temper-inventory-rule"
+
+const RULES_AT_MOST = 500
 
 const INDENT = 2
 
@@ -67,16 +80,6 @@ async function readSettings(
   return (await readPlayerPage(accountUserId, caller)).settings
 }
 
-// EVERY RULE A PLAYER SETS IS READ BACK AND NONE OF THEM IS KEPT. Both slices live in one
-// `settings` key on the player page, patched with `patchPage`, which the store refuses
-// unconditionally. So the reads below answer every `list` and `show` command, and every command
-// that changes something — create, update, delete, reorder, lock, unlock and duplicate across the
-// rule, item-rule and buy-rule families, plus `automation set` — ends here.
-//
-// The slice is still assembled before the refusal, because assembling it is where a rule that
-// cannot be represented would be caught, and that judgement should not be lost behind a store that
-// says no first. What is dropped is named by size, so a run says how much of the settings blob went
-// unkept rather than only that a write refused.
 const NO_KEYED_WRITE = "the page store refuses every keyed write"
 
 async function writeSlice(
@@ -94,15 +97,27 @@ async function writeSlice(
   )
 }
 
+async function readHeldRules(accountUserId: string): Promise<readonly HeldRule[]> {
+  const { rows } = await getPages({
+    pageTypeSlug: RULE_PAGE_TYPE_SLUG,
+    where: [{ key: "accountPage", eq: accountUserId }],
+    limit: RULES_AT_MOST,
+  })
+  return heldFromRows(rows as unknown as readonly Record<string, unknown>[])
+}
+
 export async function readInventoryRuleSettings(
   accountUserId: string
 ): Promise<InventoryRuleSettings> {
-  const settings = await readSettings(accountUserId, "readInventoryRuleSettings")
-  const sliceValue = extractSliceValue(settings, "inventory")
-  if (sliceValue === undefined) {
-    return createDefaultRuleSettings()
-  }
-  return InventoryRuleSettingsShape.parse(sliceValue)
+  const rules = rulesFromPages(await readHeldRules(accountUserId))
+  return { ...createDefaultRuleSettings(), rules }
+}
+
+function blobKindsIn(next: InventoryRuleSettings): readonly string[] {
+  const named: string[] = []
+  if ((next.itemRules ?? []).length > 0) named.push(`${(next.itemRules ?? []).length} item rule(s)`)
+  if ((next.buyRules ?? []).length > 0) named.push(`${(next.buyRules ?? []).length} buy rule(s)`)
+  return named
 }
 
 export async function writeInventoryRuleSettings(
@@ -112,7 +127,31 @@ export async function writeInventoryRuleSettings(
   if (!isJson(next)) {
     throw new Error("writeInventoryRuleSettings: next is not JSON-serializable")
   }
-  await writeSlice(accountUserId, "inventory", next, "writeInventoryRuleSettings")
+  const blobbed = blobKindsIn(next)
+  if (blobbed.length > 0) {
+    throw new Error(
+      `writeInventoryRuleSettings: ${blobbed.join(" and ")} are kept in the settings file beside ` +
+        `\`${PLAYER_PAGE_TYPE_SLUG}\`, and only a rule is a page yet, so those went unkept`
+    )
+  }
+  const held = await readHeldRules(accountUserId)
+  const { upserts, deletes } = writesFor(next.rules, held, accountUserId)
+  if (upserts.length > 0) {
+    await upsertPages({
+      pageTypeSlug: RULE_PAGE_TYPE_SLUG,
+      items: upserts.map((one) => ({
+        where: [{ key: "slug", eq: one.slug }],
+        set: one.values as Record<string, Json>,
+      })),
+    })
+  }
+  if (deletes.length > 0) {
+    await deletePages({
+      pageTypeSlug: RULE_PAGE_TYPE_SLUG,
+      where: [{ key: "slug", in: [...deletes] }],
+    })
+  }
+  return undefined
 }
 
 export async function readAutomationSettings(accountUserId: string): Promise<AutomationSettings> {

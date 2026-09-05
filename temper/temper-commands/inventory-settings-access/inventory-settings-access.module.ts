@@ -4,12 +4,20 @@ export const inventorySettingsAccess = {
   id: "01a068e2-226b-7907-a0c2-a9e64c63d2ac",
   pageTypeSlug: "module",
   slug: "inventory-settings-access",
-  definition: "the inventory and automation settings held on a player's own page",
+  definition: "the inventory and automation settings a command reads and writes for a player",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Both slices live under one settings key on one player page.",
+      statement: "A player's rules are read from that player's rule pages.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule a command changes is written back as a page of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule page no rule wants any more is taken away in the same write.",
     },
     {
       invariantKind: "departure",
@@ -20,8 +28,13 @@ export const inventorySettingsAccess = {
       statement: "A slice that is not there reads as the empty one rather than refusing.",
     },
     {
+      invariantKind: "departure",
+      statement: "A write carrying an item rule or a buy rule is refused by how many it carries.",
+    },
+    {
       invariantKind: "gap",
-      statement: "The page store refuses every keyed write, so no setting is kept.",
+      statement:
+        "The automation settings live under one settings key on the player page, and the page store refuses every keyed write, so none of them is kept.",
     },
     {
       invariantKind: "departure",
