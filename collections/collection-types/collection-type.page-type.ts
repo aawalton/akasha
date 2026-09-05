@@ -30,7 +30,7 @@ export const collectionType = {
     },
     {
       invariantKind: "departure",
-      statement: "A kind is what a collection's `type` names.",
+      statement: "A collection's `type` names the kind.",
     },
     {
       invariantKind: "gap",
