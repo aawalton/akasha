@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/supervising/supervisor-decide-payload/supervisor-decide-payload.module.ts b/seat-system/supervising/supervisor-decide-payload/supervisor-decide-payload.module.ts
+index 221d75b4a96ca9709d50a8352be640a90aa4c6a2..386e289a397d6f25c214b95d5d5e754332282da1 100644
+--- a/seat-system/supervising/supervisor-decide-payload/supervisor-decide-payload.module.ts
++++ b/seat-system/supervising/supervisor-decide-payload/supervisor-decide-payload.module.ts
+@@ -9,7 +9,7 @@ export const supervisorDecidePayload = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A field that is not what that field should be names its own path in the fault.",
++      statement: "A field of the wrong type names its own path in the fault.",
+     },
+     {
+       invariantKind: "absence",
