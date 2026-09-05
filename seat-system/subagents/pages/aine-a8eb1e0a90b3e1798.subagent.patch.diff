@@ -55,3 +55,16 @@ index 95fc9bda56140a4121cd14176e4783c53eda85f2..49915e49b33c7072df602c11ba01bbb0
          "The same role is held across every domain, so alone it names no one seat.",
      }
    }
+diff --git a/seat-system/messaging/message-to/message-to.module.test.ts b/seat-system/messaging/message-to/message-to.module.test.ts
+index 225e4e42e6b1d51f89c1aa359e8286485bb6212b..18878244c9ace35b14915b131bce115209e0f4bc 100644
+--- a/seat-system/messaging/message-to/message-to.module.test.ts
++++ b/seat-system/messaging/message-to/message-to.module.test.ts
+@@ -24,7 +24,7 @@ describe("readStated", () => {
+     expect(readStated("  ", " ")).toEqual({ kind: "none" })
+   })
+ 
+-  test("refuses a domain standing without a role", () => {
++  test("refuses a domain stated without a role", () => {
+     const stated = readStated("akasha-migration", undefined)
+     expect(stated.kind).toBe("refuse")
+     expect(stated.kind === "refuse" && stated.reason).toContain("Add --role")
