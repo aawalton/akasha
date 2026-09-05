@@ -1,3 +1,35 @@
+diff --git a/agents/models/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.ts b/agents/models/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.ts
+index 2d9d44d7964bd9352fc07641678ca4469d64e8c8..011ce8469928192e3d9a94f2fdbf8c5e5c6b3ae5 100644
+--- a/agents/models/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.ts
++++ b/agents/models/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.ts
+@@ -57,10 +57,7 @@ export const modelUnavailableRebind = {
+       invariantKind: "departure",
+       statement: "An answer carries the body text upstream sent.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "An answer carries the status text upstream sent.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "An answer carries the headers upstream sent.",
+diff --git a/agents/models/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.ts b/agents/models/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.ts
+index 6931ad519c54cf695c0171ffa2829daa1666d97b..042ddc8be7fa5209d385543630676c25d74e985f 100644
+--- a/agents/models/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.ts
++++ b/agents/models/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.ts
+@@ -52,10 +52,7 @@ export const permissionDeniedRebind = {
+       invariantKind: "departure",
+       statement: "An answer carries the body text upstream sent.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "An answer carries the status text upstream sent.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "An answer carries the headers upstream sent.",
 diff --git a/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts b/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts
 index 61c9da4235ccb4714f9a09495019ceba5f98467a..796b3068a1287e157731380e746a16b0cf515f7e 100644
 --- a/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts
