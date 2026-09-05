@@ -48,3 +48,49 @@ index c44654e01a861f03b9cf166d9c7a92f1ca176b79..8a671786f9d802e07e295a01c38aec96
 +  expect(said.refusals).toEqual([])
 +  expect(fileIn(root, WAYS_IN)).toBe(PACKAGE_WITH_WAYS)
 +})
+diff --git a/commands/remove/workspacing/remove-workspacing.module.test.ts b/commands/remove/workspacing/remove-workspacing.module.test.ts
+index fb987810d473856434b35f3af050e01c6017b6de..db127a54befff18acc5bff48bb188953b637addf 100644
+--- a/commands/remove/workspacing/remove-workspacing.module.test.ts
++++ b/commands/remove/workspacing/remove-workspacing.module.test.ts
+@@ -5,6 +5,16 @@ import { said as git } from "@akasha/git/git-running"
+ import { ran } from "@akasha/utils-run/running"
+ import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
+ import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
++import {
++  MOVED_MANIFEST,
++  manifested,
++  manifestIn,
++  naming,
++  refusalOf,
++  scratch as removeScratch,
++  removing,
++  WORKSPACE,
++} from "../remove.command.test-fixtures.ts"
+ import {
+   emptiedBy,
+   NO_WORKSPACING,
+@@ -18,6 +28,8 @@ const scratch = scratchWorld()
+ 
+ afterAll(scratch.sweep)
+ 
++afterAll(removeScratch.sweep)
++
+ const MANIFEST = "package.json"
+ 
+ const ROOT_BODY = `{
+@@ -130,3 +142,15 @@ test("the workspace the removal emptied is no longer looked for, and was before"
+   expect(`${after.out}${after.err}`).not.toContain("Workspace not found")
+   expect(readFileSync(join(root, MANIFEST), "utf8")).not.toContain('"one",')
+ })
++
++test("the root manifest loses a row only where nothing else moved the manifest meanwhile", async () => {
++  const clean = manifested()
++  expect((await removing(clean, naming(WORKSPACE))).refusals).toEqual([])
++  expect(manifestIn(clean)).not.toContain(WORKSPACE)
++
++  const root = manifested()
++  writeFileSync(join(root, MANIFEST), MOVED_MANIFEST)
++  const said = await removing(root, naming(WORKSPACE))
++  expect(refusalOf(said)).toContain("changed after this call read it")
++  expect(manifestIn(root)).toBe(MOVED_MANIFEST)
++})
