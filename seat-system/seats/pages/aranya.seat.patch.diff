@@ -159,3 +159,11 @@ index 711fa52c6a297d3d28c268f5ecdeeb068da65863..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../editor-extension
 \ No newline at end of file
+diff --git a/email-inbound/email-inbound b/email-inbound/email-inbound
+deleted file mode 120000
+index ec3b5ebaf2a16f89620d771a5727d75769a67523..0000000000000000000000000000000000000000
+--- a/email-inbound/email-inbound
++++ /dev/null
+@@ -1 +0,0 @@
+-../../email-inbound
+\ No newline at end of file
