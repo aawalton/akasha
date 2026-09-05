@@ -1,0 +1,193 @@
+diff --git a/seat-system/messaging/message-file/message-file.module.code.ts b/seat-system/messaging/message-file/message-file.module.code.ts
+index a9a475dd6d7d0f5fd68e930091e36429e06fc593..f9f8580615aa2e90761f141d15ada0e560076b4b 100644
+--- a/seat-system/messaging/message-file/message-file.module.code.ts
++++ b/seat-system/messaging/message-file/message-file.module.code.ts
+@@ -1,17 +1,9 @@
+-import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
++import { existsSync, readdirSync } from "node:fs"
+ import { landBodies, landRemovals } from "@akasha/command-system/gated-landing"
+-import { parseFrontmatter } from "@akasha/markdown-pages/frontmatter"
+-import { MARKDOWN } from "@akasha/markdown-pages/page-file"
+-import { placeDirOf } from "@akasha/markdown-pages/page-types"
+-import {
+-  patchUncommitted,
+-  readUncommitted,
+-  removeUncommitted as removeBesideMarkdown,
+-} from "@akasha/markdown-pages/uncommitted"
+ import { AKASHA, akashaRoot } from "@akasha/pages-system/checkout-roots"
+ import {
+   mergeUncommitted,
+-  removeUncommitted as removeBesidePage,
++  removeUncommitted,
+   uncommittedIn,
+ } from "@akasha/pages-system/page-uncommitted"
+ import { valueAt } from "@akasha/pages-system/page-value"
+@@ -28,12 +20,6 @@ const PAGE_EXT = `.${PAGE_TYPE}.ts`
+ 
+ const CLAIMED_AT_KEY = "claimedAt"
+ 
+-const MESSAGES = placeDirOf(PAGE_TYPE)
+-
+-const PAGE_SUFFIX = `.${PAGE_TYPE}${MARKDOWN}`
+-
+-const CLAIMED_AT = "claimed-at"
+-
+ export type Warrant = "announce" | "blocked"
+ 
+ export interface Message {
+@@ -81,10 +67,6 @@ export function messageRelPath(_to: string, id: string): string {
+   return `${PAGES_AT}/${stem}${PAGE_EXT}`
+ }
+ 
+-export function markdownRelPath(to: string, id: string): string {
+-  return `${MESSAGES}/${to}/${id}${PAGE_SUFFIX}`
+-}
+-
+ const FAILED = /^\s*\[[a-z-]+\]\s+fail\b/
+ 
+ export function whyRefused(report: string): string {
+@@ -191,74 +173,18 @@ function pageMessages(): readonly Message[] {
+   return held
+ }
+ 
+-function markdownMessageAt(to: string, id: string, absolute: string): Message | null {
+-  let text: string
+-  try {
+-    text = readFileSync(absolute, "utf8")
+-  } catch {
+-    return null
+-  }
+-  const parsed = parseFrontmatter(text)
+-  const fields = Object.fromEntries(parsed.fields)
+-  const stated = typeof fields.warrant === "string" ? fields.warrant : ""
+-  return {
+-    id,
+-    to,
+-    from: typeof fields.from === "string" ? fields.from : "",
+-    warrant: stated === "blocked" ? "blocked" : "announce",
+-    body: text.replace(/\r\n/g, "\n").split("\n").slice(parsed.lineCount).join("\n"),
+-    claimedAtMs: msOf(readUncommitted(absolute)?.[CLAIMED_AT]),
+-    relPath: markdownRelPath(to, id),
+-  }
+-}
+-
+-function markdownMessagesTo(to: string): readonly Message[] {
+-  const dir = `${akashaRoot()}/${MESSAGES}/${to}`
+-  let names: readonly string[]
+-  try {
+-    names = readdirSync(dir)
+-  } catch {
+-    return []
+-  }
+-  const held: Message[] = []
+-  for (const name of names) {
+-    if (!name.endsWith(PAGE_SUFFIX)) continue
+-    const one = markdownMessageAt(to, name.slice(0, -PAGE_SUFFIX.length), `${dir}/${name}`)
+-    if (one !== null) held.push(one)
+-  }
+-  return held
+-}
+-
+ export function messagesTo(to: string): readonly Message[] {
+   if (recipientRefused(to) !== null) return []
+-  const held = [...pageMessages().filter((one) => one.to === to), ...markdownMessagesTo(to)]
+-  return held.sort((a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0))
++  const held = pageMessages().filter((one) => one.to === to)
++  return [...held].sort((a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0))
+ }
+ 
+ export function unclaimedTo(to: string): readonly Message[] {
+   return messagesTo(to).filter((one) => one.claimedAtMs === null)
+ }
+ 
+-function markdownRecipients(): readonly string[] {
+-  const dir = `${akashaRoot()}/${MESSAGES}`
+-  let names: readonly string[]
+-  try {
+-    names = readdirSync(dir)
+-  } catch {
+-    return []
+-  }
+-  return names.filter((name) => {
+-    if (recipientRefused(name) !== null) return false
+-    try {
+-      return statSync(`${dir}/${name}`).isDirectory()
+-    } catch {
+-      return false
+-    }
+-  })
+-}
+-
+ export function everyRecipient(): readonly string[] {
+-  const held = new Set<string>(markdownRecipients())
++  const held = new Set<string>()
+   for (const one of pageMessages()) if (one.to !== "") held.add(one.to)
+   return [...held].sort()
+ }
+@@ -267,46 +193,24 @@ export function claimedBefore(to: string, beforeMs: number): readonly Message[]
+   return messagesTo(to).filter((one) => one.claimedAtMs !== null && one.claimedAtMs < beforeMs)
+ }
+ 
+-function heldAt(to: string, id: string): { readonly relPath: string; readonly page: boolean } {
+-  const asPage = messageRelPath(to, id)
+-  if (existsSync(`${akashaRoot()}/${asPage}`)) return { relPath: asPage, page: true }
+-  return { relPath: markdownRelPath(to, id), page: false }
+-}
+-
+ export function claimMessage(to: string, id: string, atMs: number = Date.now()): boolean {
+   const root = akashaRoot()
+-  const held = heldAt(to, id)
+-  const absolute = `${root}/${held.relPath}`
+-  if (!existsSync(absolute)) return false
+-  const said = new Date(atMs).toISOString()
+-  if (held.page) {
+-    if (msOf(uncommittedIn(root, held.relPath)?.[CLAIMED_AT_KEY]) !== null) return false
+-    mergeUncommitted(root, held.relPath, { [CLAIMED_AT_KEY]: said })
+-    return true
+-  }
+-  if (msOf(readUncommitted(absolute)?.[CLAIMED_AT]) !== null) return false
+-  patchUncommitted(absolute, { [CLAIMED_AT]: said })
++  const relPath = messageRelPath(to, id)
++  if (!existsSync(`${root}/${relPath}`)) return false
++  if (msOf(uncommittedIn(root, relPath)?.[CLAIMED_AT_KEY]) !== null) return false
++  mergeUncommitted(root, relPath, { [CLAIMED_AT_KEY]: new Date(atMs).toISOString() })
+   return true
+ }
+ 
+-function besideGone(root: string, held: { readonly relPath: string; readonly page: boolean }) {
+-  if (held.page) {
+-    removeBesidePage(root, held.relPath)
+-    return
+-  }
+-  removeBesideMarkdown(`${root}/${held.relPath}`)
+-}
+-
+ export function releaseClaim(to: string, id: string): undefined {
+-  besideGone(akashaRoot(), heldAt(to, id))
++  removeUncommitted(akashaRoot(), messageRelPath(to, id))
+ }
+ 
+ export async function takeMessage(to: string, id: string): Promise<Taken> {
+   const root = akashaRoot()
+-  const held = heldAt(to, id)
+-  const absolute = `${root}/${held.relPath}`
+-  if (!existsSync(absolute)) {
+-    besideGone(root, held)
++  const relPath = messageRelPath(to, id)
++  if (!existsSync(`${root}/${relPath}`)) {
++    removeUncommitted(root, relPath)
+     return { kind: "gone" }
+   }
+   const taken = await landRemovals(
+@@ -315,9 +219,9 @@ export async function takeMessage(to: string, id: string): Promise<Taken> {
+       writer: WRITER,
+       message: `message to ${to} is read, and read is the file's absence`,
+     },
+-    [held.relPath]
++    [relPath]
+   )
+   if (!taken.ok) return { kind: "refused", detail: whyRefused(taken.why) }
+-  besideGone(root, held)
++  removeUncommitted(root, relPath)
+   return { kind: "taken" }
+ }
