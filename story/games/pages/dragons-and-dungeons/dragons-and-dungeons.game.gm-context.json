@@ -334,16 +334,11 @@
     "catalogVersion": 19
   },
   "turnContract": {
-    "notes": "HALT-ON-FRICTION: on any `bun ops page create` (pole 1), `bun ops awen commit-turn`/`end-session` (pole 2 / session), `game-continuity` parse, or page error — STOP, report, idle; never paper over a failure (the already-written story-chapter twin keeps the campaign safe). NEVER SEND null in an awen payload — awen-core marks optional fields `.optional()`, which rejects `null`; omit any field you do not set. `currentSession` is authoritative — change it only through `end-session`, never by hand. LOOP-DARK: only revealed chapter prose reaches any player surface; never put coordinator material into a published chapter's `text`. SINGLE WRITER: aria alone publishes both twins (the `story-chapter` row and the `game-turn`); the writing passes produce prose but never publish rows themselves — aria is the sole publisher.",
+    "notes": "HALT-ON-FRICTION: on any publish or page error — STOP, report, idle; never paper over a failure (the already-written story-chapter twin keeps the campaign safe). LOOP-DARK: only revealed chapter prose reaches any player surface; never put coordinator material into a published chapter's `text`. SINGLE WRITER: aria alone publishes both twins (the `story-chapter` row and the `game-turn`); the writing passes produce prose but never publish rows themselves — aria is the sole publisher.",
     "obligations": [
       {
         "id": "reconcile-on-wake",
-        "requirement": "Re-read live state before acting. The NARRATIVE record is row-authoritative: the committed `game-turn` rows (published chapter prose + `status`), read via `bun ops awen gm-load --game dragons-and-dungeons` — on any disagreement the committed rows WIN over an in-session draft or the state a crossed message implied. Never guess from a crossed message."
-      },
-      {
-        "id": "load-continuity",
-        "detail": "Advisory to the coordinator, not an engine gate; conformance is checked each review by the narration-person and frame-discipline linters. A parse error or a missing reference is a STOP/report, never a guess.",
-        "requirement": "Load the narrative-continuity reference fresh — `bun ops awen game-continuity --game dragons-and-dungeons --pretty` — and render it into every prose brief (narration person/POV, frames, transition convention, per-character frame-map)."
+        "requirement": "Re-read live state before acting. The NARRATIVE record is row-authoritative: the committed `game-turn` rows (published chapter prose + `status`) — on any disagreement the committed rows WIN over an in-session draft or the state a crossed message implied. Never guess from a crossed message."
       },
       {
         "id": "single-unit",
@@ -358,15 +353,6 @@
         "requirement": "Before publishing, dispatch the chapter-linter battery in parallel (one focused subagent per linter — see the Policies below), integrate the findings into one review, and hold the irreducibly-holistic judgment; a linter never messages back or edits the chapter."
       },
       {
-        "id": "publish-pole-1",
-        "requirement": "POLE 1 — publish the chapter as its `story-chapter` row twin via a DIRECT `bun ops page create` (no `project commit`, no `deploy`, no markdown file — the reader picks the new row up on its next poll; there is NO export/deploy gate). Create page-type 019db5f4-063c-710f-a432-4c822d31915a, title = chapter title, properties { externalId `dnd-ch<chapterNumber>`, chapterNumber, text = published prose, wordCount, status `Completed`, story `019ef225-1717-76f7-984a-e44d05e378b3` }, idempotent via `--if-not-exists [{\"key\":\"externalId\",\"eq\":\"dnd-ch<chapterNumber>\"}]` (natural key, auto-scoped to the story-chapter type — re-run returns the existing row, never duplicates). Only one of `--properties-file` / `--if-not-exists` may read stdin (`-`); pass the other from a file. Non-negotiable every turn, before the read link. The twin MUST carry `status: Completed` — set it explicitly. The two poles use DIFFERENT status vocabularies: the story-chapter select value is capitalized `Completed`, whereas the pole-2 awen game-turn's own value is lowercase `complete` — near-twins in spelling only, never interchange them."
-      },
-      {
-        "id": "publish-pole-2",
-        "detail": "Idempotent on the `dnd-ch<n>` externalId — re-running updates that one turn, never duplicates. Carry only revealed prose, never coordinator material (loop-dark, same as the chapter's published text).",
-        "requirement": "POLE 2 — forward-write the same published chapter to Awen right after the pole-1 row is created, in the same turn: `bun ops awen commit-turn --game dragons-and-dungeons` with the payload { externalId `dnd-ch<chapterNumber>`, title, turnNumber = chapterNumber, text = published prose, status `complete`, wordCount, sessionNumber = current session }. Additive — the pole-1 `story-chapter` twin is written independently and never edited in place (add-before-remove)."
-      },
-      {
         "id": "hand-link",
         "requirement": "Hand Alan the `/read/dragons-and-dungeons-{last8}` link ({last8} = last 8 hex of the chapter id) and prompt for his pick; do not re-present the decision — it is already posed in the chapter's closing beat."
       },
@@ -377,10 +363,6 @@
       {
         "id": "advance-status",
         "requirement": "After Alan's pick is captured, brief and draft the next chapter from his captured choice (the dreamer and writer passes both continue from his choice)."
-      },
-      {
-        "id": "session-end",
-        "requirement": "Bump the session only at a real play-session boundary, and only explicitly: `bun ops awen end-session --game dragons-and-dungeons`. Never automatic, never per-turn. Every subsequent `commit-turn` payload then carries the new `sessionNumber`."
       }
     ]
   },
