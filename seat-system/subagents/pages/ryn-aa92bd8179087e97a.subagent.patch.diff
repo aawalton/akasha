@@ -1,0 +1,20 @@
+diff --git a/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts b/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts
+index f4a4a992e079f1107734ac4e77b7e0a13d6dd3c8..2bab7c74a2ce06194583442e995277bd8137f24e 100644
+--- a/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts
++++ b/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts
+@@ -32,9 +32,13 @@ export const inventorySettingsAccess = {
+       statement: "A write carrying an item rule or a buy rule is refused by how many it carries.",
+     },
+     {
+-      invariantKind: "gap",
++      invariantKind: "departure",
+       statement:
+-        "The automation settings live under one settings key on the player page, and the page store refuses every keyed write, so none of them is kept.",
++        "The automation settings live under one settings key, and the page store refuses every keyed write.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "No automation setting on the player page is kept.",
+     },
+     {
+       invariantKind: "departure",
