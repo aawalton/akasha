@@ -1,0 +1,66 @@
+diff --git a/alan/tracking/daily/wake-days/properties/stoplights.computed-property.code.ts b/alan/tracking/daily/wake-days/properties/stoplights.computed-property.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bdeab7b68a540c7cf61bc34654f053e87a6f8aac
+--- /dev/null
++++ b/alan/tracking/daily/wake-days/properties/stoplights.computed-property.code.ts
+@@ -0,0 +1,20 @@
++import type { Work } from "@akasha/pages-system/computed-property"
++import type { WorkedWakeDay } from "../wake-day.page-type.ts"
++
++export const work: Work<WorkedWakeDay, string> = (page) => {
++  const lights = [
++    page.faithStoplight,
++    page.loveStoplight,
++    page.healthStoplight,
++    page.learnStoplight,
++    page.funStoplight,
++    page.wealthStoplight,
++  ]
++  let text = ""
++  for (const light of lights) {
++    // A text literal answers absent where any light in it is absent.
++    if (typeof light !== "string") return null
++    text += light
++  }
++  return text
++}
+diff --git a/alan/tracking/daily/wake-days/properties/stoplights.computed-property.ts b/alan/tracking/daily/wake-days/properties/stoplights.computed-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a2f99eca80846e5e06a7a4e98964f50fca4d697a
+--- /dev/null
++++ b/alan/tracking/daily/wake-days/properties/stoplights.computed-property.ts
+@@ -0,0 +1,13 @@
++import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++
++export type Stoplights = string
++
++export const stoplights = {
++  id: "01a07224-bf20-74dd-b1bc-270ef3cf98c8",
++  pageTypeSlug: "computed-property",
++  slug: "stoplights",
++  propertySlug: "stoplights",
++  definition: "the rung each of the day's six values reached, as one colored light apiece",
++  holds: "text",
++  code: "ts",
++} as const satisfies ComputedProperty
+diff --git a/alan/tracking/daily/wake-days/properties/stoplights.formula-property.ts b/alan/tracking/daily/wake-days/properties/stoplights.formula-property.ts
+deleted file mode 100644
+index cb13541794bd64a09fa795993579a8b2fd008929..0000000000000000000000000000000000000000
+--- a/alan/tracking/daily/wake-days/properties/stoplights.formula-property.ts
++++ /dev/null
+@@ -1,15 +0,0 @@
+-import type { FormulaProperty } from "@akasha/pages-system/formula-property"
+-
+-export type Stoplights = string
+-
+-export const stoplights = {
+-  id: "01a06945-72cd-700f-bc15-83127595be6f",
+-  pageTypeSlug: "formula-property",
+-  slug: "stoplights",
+-  propertySlug: "stoplights",
+-  definition: "the rung each of the day's six values reached, as one colored light apiece",
+-  holds: "text",
+-  formula:
+-    '"{faith-stoplight}{love-stoplight}{health-stoplight}{learn-stoplight}{fun-stoplight}{weal' +
+-    'th-stoplight}"',
+-} as const satisfies FormulaProperty
