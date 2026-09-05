@@ -6,6 +6,7 @@ export const stateReading = {
   slug: "state-reading",
   definition: "how a part of the editor reads the one file that part draws",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
