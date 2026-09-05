@@ -1,0 +1,13 @@
+diff --git a/seat-system/seat-relaunch-name-decide/seat-relaunch-name-decide.module.ts b/seat-system/seat-relaunch-name-decide/seat-relaunch-name-decide.module.ts
+index 83cfe6f9e5a2676ac3b88e68d7ca095eac09af22..6f2834c46e795234ac3b9fdefc0811bdb66e9626 100644
+--- a/seat-system/seat-relaunch-name-decide/seat-relaunch-name-decide.module.ts
++++ b/seat-system/seat-relaunch-name-decide/seat-relaunch-name-decide.module.ts
+@@ -10,7 +10,7 @@ export const seatRelaunchNameDecide = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A name already on the seat's row is the name it comes back under.",
++      statement: "A name already on the seat's row is the name that seat comes back under.",
+     },
+     {
+       invariantKind: "departure",
