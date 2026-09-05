@@ -100,7 +100,7 @@ test("a program whose name merely carries tsc is let through", () => {
   for (const one of ["tsconfig", "vue-tsc --noEmit", "echo tsc"]) expect(judged(one)).toBeNull()
 })
 
-test("a refusal answers the whole call, wherever it stands in the chain", () => {
+test("a refusal answers the whole call, wherever it is in the chain", () => {
   expect(judged("ls && tsc --noEmit")).not.toBeNull()
   expect(judged("tsc --noEmit ; echo done")).not.toBeNull()
 })
@@ -109,7 +109,7 @@ test("a call inside a quoted run is not read as a call", () => {
   expect(judged('echo "tsc --noEmit"')).toBeNull()
 })
 
-test("a call running outside the repository this hook stands in is let through", () => {
+test("a call running outside the repository this hook sits in is let through", () => {
   expect(judged("tsc --noEmit", "/var/tmp/probe")).toBeNull()
 })
 

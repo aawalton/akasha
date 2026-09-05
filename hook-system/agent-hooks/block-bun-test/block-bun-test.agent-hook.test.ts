@@ -49,7 +49,7 @@ test("a path naming no akasha segment is refused as well, which is what closed t
   }
 })
 
-test("a run outside the repository this hook stands in is let through", () => {
+test("a run outside the repository this hook sits in is let through", () => {
   expect(judged("bun test", "/var/tmp/probe")).toBeNull()
   expect(judged("bun test akasha/", "/var/tmp/probe")).toBeNull()
   expect(judged("bun test shared/one", "/var/tmp/probe")).toBeNull()
@@ -101,7 +101,7 @@ test("a runner that is not bun is stood aside", () => {
   }
 })
 
-test("a refusal answers the whole call, wherever the act stands in the chain", () => {
+test("a refusal answers the whole call, wherever the act is in the chain", () => {
   expect(judged("ls && bun test")).not.toBeNull()
   expect(judged("bun test akasha/ ; echo done")).not.toBeNull()
 })

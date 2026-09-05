@@ -51,19 +51,19 @@ test("a path spelled through a parent still lands inside", () => {
   expect(said).not.toBeNull()
 })
 
-test("a Read outside akasha stands", () => {
+test("a Read outside akasha is let through", () => {
   const root = worldAt()
   expect(refusalIn(join(root, "outside", "held.ts"), root, root)).toBeNull()
 })
 
-test("the index is no page, so a Read of .git/data stands", () => {
+test("the index is no page, so a Read of .git/data is let through", () => {
   const root = worldAt()
   mkdirSync(join(root, ".git", "data"), { recursive: true })
   writeFileSync(join(root, ".git", "data", "one.jsonl"), "{}\n")
   expect(refusalIn(join(root, ".git", "data", "one.jsonl"), root, root)).toBeNull()
 })
 
-test("a link inside akasha pointing out of it stands", () => {
+test("a link inside akasha pointing out of it is let through", () => {
   const root = worldAt()
   symlinkSync(join(root, "outside", "held.ts"), join(root, "akasha", "pointer.ts"))
   expect(refusalIn(join(root, "akasha", "pointer.ts"), root, root)).toBeNull()
@@ -75,7 +75,7 @@ test("a link outside akasha pointing into it is refused", () => {
   expect(refusalIn(join(root, "outside", "pointer.ts"), root, root)).not.toBeNull()
 })
 
-test("a call naming no path stands", () => {
+test("a call naming no path is let through", () => {
   const root = worldAt()
   expect(refusalIn("", root, root)).toBeNull()
   expect(refusalIn("   ", root, root)).toBeNull()

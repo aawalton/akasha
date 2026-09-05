@@ -186,7 +186,7 @@ export const SCOPE: readonly string[] = [
   "not name, and a longer list is a longer search prompt. A gap found here is evidence that",
   "this guard cannot close its class, not an invitation to extend it.",
   "",
-  `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this stands:`,
+  `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this sits:`,
   "it is what the program says about itself, held as text it prints rather than as a comment.",
 ]
 

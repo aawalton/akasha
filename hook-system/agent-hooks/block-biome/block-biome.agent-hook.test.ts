@@ -76,7 +76,7 @@ test("a package script reaching biome is not read here", () => {
   expect(judged("bun run lint")).toBeNull()
 })
 
-test("a refusal answers the whole call, wherever it stands in the chain", () => {
+test("a refusal answers the whole call, wherever it is in the chain", () => {
   expect(judged("ls && biome check .")).not.toBeNull()
   expect(judged("biome check . ; echo done")).not.toBeNull()
 })
@@ -85,7 +85,7 @@ test("a call inside a quoted run is not read as a call", () => {
   expect(judged('echo "biome check ."')).toBeNull()
 })
 
-test("a call running outside the repository this hook stands in is let through", () => {
+test("a call running outside the repository this hook sits in is let through", () => {
   expect(judged("biome check .", "/var/tmp/probe")).toBeNull()
 })
 
