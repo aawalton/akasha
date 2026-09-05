@@ -1,0 +1,14 @@
+diff --git a/alan/harness/monarch/sync/monarch-sync.module.ts b/alan/harness/monarch/sync/monarch-sync.module.ts
+index 80ba8d85fda3ff5dd8e565ddc8a43596e74652b4..3de86955f6d0dd0663d8d25bdd6103185c09dba2 100644
+--- a/alan/harness/monarch/sync/monarch-sync.module.ts
++++ b/alan/harness/monarch/sync/monarch-sync.module.ts
+@@ -27,8 +27,7 @@ export const monarchSync = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The run ends non-zero once every account has been tried, so one broken account costs its own rows rather than the whole night's.",
++      statement: "The run ends non-zero once every account has been tried.",
+     },
+ 
+     {
