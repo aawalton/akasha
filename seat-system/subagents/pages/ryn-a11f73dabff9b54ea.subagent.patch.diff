@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/role-system/roles/role.page-type.ts b/role-system/roles/role.page-type.ts
+index 0be222274b85dfb64aa5e98d9da3d86d42b63275..d57cf5fd944684880f422abcc699977410410ccb 100644
+--- a/role-system/roles/role.page-type.ts
++++ b/role-system/roles/role.page-type.ts
+@@ -35,7 +35,7 @@ export const role = {
+     {
+       invariantKind: "upkeep",
+       statement:
+-        "Every figure an agent holds as true was taken after the last change to what the figure measures.",
++        "Every figure an agent holds as true was taken after the last change to the figure's subject.",
+     },
+   ],
+   directives: [
