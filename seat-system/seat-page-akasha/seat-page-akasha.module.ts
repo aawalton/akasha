@@ -17,7 +17,8 @@ export const seatPageAkasha = {
     },
     {
       invariantKind: "departure",
-      statement: "The values written are the bare ones rather than the records they came in.",
+      statement:
+        "The values written are the bare ones rather than the records those values came in.",
     },
     {
       invariantKind: "departure",
