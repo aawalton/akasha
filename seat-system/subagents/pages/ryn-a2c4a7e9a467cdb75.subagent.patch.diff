@@ -1,0 +1,16 @@
+diff --git a/command-system/commands/track/track.command.ts b/command-system/commands/track/track.command.ts
+index e6c1716fc330aa5eb8c34b2855d17b683fc68498..f1516a703ee8b15ad96856cc02ad6cf86192e6f5 100644
+--- a/command-system/commands/track/track.command.ts
++++ b/command-system/commands/track/track.command.ts
+@@ -258,10 +258,7 @@ export const track = {
+       invariantKind: "departure",
+       statement: "Both halves a `split` makes carry the relationships of the stretch parted.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A title carrying a relationship's alias tags the stretch with that relationship.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A relationship a title tags is kept beside one `--relationship` names.",
