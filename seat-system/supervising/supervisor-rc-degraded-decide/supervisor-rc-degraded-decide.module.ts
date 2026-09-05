@@ -24,7 +24,7 @@ export const supervisorRcDegradedDecide = {
     {
       invariantKind: "departure",
       statement:
-        "A child younger than the boot settle is given the settle before anything is said about it.",
+        "A child younger than the boot settle is given the settle before anything is said about that child.",
     },
     {
       invariantKind: "departure",
