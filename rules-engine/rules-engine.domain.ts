@@ -25,11 +25,11 @@ export const rulesEngine = {
     },
     {
       invariantKind: "departure",
-      statement: "Covering what no other rule names takes several rules.",
+      statement: "Covering the cases no other rule names takes several rules.",
     },
     {
       invariantKind: "departure",
-      statement: "An agent writes the rules that cover what no other rule names.",
+      statement: "An agent writes the rules that cover the cases no other rule names.",
     },
     {
       invariantKind: "departure",
@@ -81,7 +81,8 @@ export const rulesEngine = {
     },
     {
       invariantKind: "departure",
-      statement: "A match covers a second match where the first matches what the second matches.",
+      statement:
+        "A match covers a second match where the first matches every case the second matches.",
     },
     {
       invariantKind: "departure",
@@ -89,7 +90,7 @@ export const rulesEngine = {
     },
     {
       invariantKind: "departure",
-      statement: "A condition names one property of what is matched.",
+      statement: "A condition names one property of the page being matched.",
     },
     {
       invariantKind: "departure",
