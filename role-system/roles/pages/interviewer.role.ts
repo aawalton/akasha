@@ -17,7 +17,8 @@ export const interviewer = {
     },
     {
       invariantKind: "departure",
-      statement: "What lands a change during an interview is a subagent rather than a second seat.",
+      statement:
+        "A change during an interview is landed by a subagent rather than by a second seat.",
     },
     {
       invariantKind: "departure",
