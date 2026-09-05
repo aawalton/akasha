@@ -25,8 +25,7 @@ export const monarchRules = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A description clause is a list of groups, each of which must hold, so several runs of words can be required at once.",
+      statement: "A description clause is a list of groups, and every group must hold.",
     },
     {
       invariantKind: "departure",
