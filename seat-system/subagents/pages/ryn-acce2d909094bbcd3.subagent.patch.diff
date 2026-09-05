@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/persona-system/personas/persona-points.domain.ts b/persona-system/personas/persona-points.domain.ts
+index cf0c53942342b30cf1083063354568acef67f0fb..d9b652c7eab785f34dae44e11b5cd9f15f631f6d 100644
+--- a/persona-system/personas/persona-points.domain.ts
++++ b/persona-system/personas/persona-points.domain.ts
+@@ -10,7 +10,7 @@ export const personaPoints = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Attention counts where that attention made that part of Alan's life better, whoever did the work.",
++        "Attention counts where that attention made that part of Alan's life better, no matter the worker.",
+     },
+     {
+       invariantKind: "departure",
