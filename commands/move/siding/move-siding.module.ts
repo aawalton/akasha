@@ -80,7 +80,7 @@ export const moveSiding = {
     },
     {
       invariantKind: "departure",
-      statement: "An index that will not say what the page types are refuses the pair.",
+      statement: "An index that will not name the page types refuses the pair.",
     },
     {
       invariantKind: "departure",
@@ -88,7 +88,7 @@ export const moveSiding = {
     },
     {
       invariantKind: "departure",
-      statement: "A file beside what is named arrives in the folder that named file arrives in.",
+      statement: "A file beside a named file arrives in the folder that named file arrives in.",
     },
     {
       invariantKind: "departure",
