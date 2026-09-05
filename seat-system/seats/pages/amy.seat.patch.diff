@@ -1,0 +1,15 @@
+diff --git a/seat-system/supervising/supervisor-reexec-mark/supervisor-reexec-mark.module.code.ts b/seat-system/supervising/supervisor-reexec-mark/supervisor-reexec-mark.module.code.ts
+index 41ce2a4268d8bb84deb285b2e984bacd96d6d374..f9c896f877599fb2a921ecbb7f65449343e3e2f9 100644
+--- a/seat-system/supervising/supervisor-reexec-mark/supervisor-reexec-mark.module.code.ts
++++ b/seat-system/supervising/supervisor-reexec-mark/supervisor-reexec-mark.module.code.ts
+@@ -11,10 +11,6 @@ export function reExecAsked(agent: string | null): boolean {
+   return seatRecordOf(agent, KEY)?.value === ASKED
+ }
+ 
+-export function askReExec(agent: string): undefined {
+-  keepSeatRecord(agent, KEY, ASKED)
+-}
+-
+ export function takeReExecAsk(agent: string | null): undefined {
+   if (agent === null || agent === "") return
+   if (!reExecAsked(agent)) return
