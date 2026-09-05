@@ -42,7 +42,7 @@ export const deployKindReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug neither kind carries is refused by naming what each kind has.",
+      statement: "A slug neither kind carries is refused by naming the slugs each kind has.",
     },
     {
       invariantKind: "departure",
