@@ -9,7 +9,8 @@ export const supervisorInteractiveSpawn = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every seat condition is staged before it is awaited, so they are read together.",
+      statement:
+        "Every seat condition is staged before the condition is awaited, so the conditions are read together.",
     },
     {
       invariantKind: "departure",
