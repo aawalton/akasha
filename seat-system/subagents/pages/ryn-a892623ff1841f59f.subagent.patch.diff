@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/context/modules/warranting/warranting.module.ts b/context/modules/warranting/warranting.module.ts
-index b85145f9f5e9b17a79cb88ee27dafac1a5269bae..7aa080ae329e5216e4b6847a70441b612fa08899 100644
+index b85145f9f5e9b17a79cb88ee27dafac1a5269bae..8caa2156105174c03a885fe5a581a556f5cc1e80 100644
 --- a/context/modules/warranting/warranting.module.ts
 +++ b/context/modules/warranting/warranting.module.ts
 @@ -11,7 +11,7 @@ export const warranting = {
@@ -48,6 +48,16 @@ index b85145f9f5e9b17a79cb88ee27dafac1a5269bae..7aa080ae329e5216e4b6847a70441b61
        invariantKind: "departure",
 -      statement: "An agent owes what its own page names rather than the page itself.",
 +      statement: "An agent owes the readings its own page names rather than the page itself.",
+     },
+     {
+       invariantKind: "departure",
+@@ -104,7 +105,8 @@ export const warranting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A subagent owes what its own page names rather than what its seat's does.",
++      statement:
++        "A subagent owes the readings its own page names rather than the readings its seat's page names.",
      },
      {
        invariantKind: "departure",
