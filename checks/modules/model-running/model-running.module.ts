@@ -34,7 +34,8 @@ export const modelRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A model reached by no call leaves the change unjudged rather than refusing it.",
+      statement:
+        "A model reached by no call leaves the change unjudged rather than refusing that change.",
     },
     {
       invariantKind: "departure",
