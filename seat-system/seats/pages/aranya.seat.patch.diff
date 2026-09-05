@@ -11,7 +11,7 @@ index 84f05eaea5528d441a026fa6d97e7eede888e31b..44f067685135a8edbf7cbb2fb6467d25
    "infrastructure/upscale/*-synth/*-synth.module.code.ts",
  ]
 diff --git a/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.test.ts b/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.test.ts
-index 5d13a46e479963ffc9b724be64e4c38c9a3aeeb1..c7013149037222ca6d835807871d574b8cf8111d 100644
+index 5d13a46e479963ffc9b724be64e4c38c9a3aeeb1..719bd6eaa99b2082648db9efceb62459736a6cf3 100644
 --- a/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.test.ts
 +++ b/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.test.ts
 @@ -25,10 +25,9 @@ const SERVICES: readonly (readonly [string, string | null])[] = [
@@ -37,3 +37,29 @@ index 5d13a46e479963ffc9b724be64e4c38c9a3aeeb1..c7013149037222ca6d835807871d574b
    for (const [path] of MANIFESTS)
      put(path.replace(/\.ts$/, ".code.ts"), "export default () => []\n")
    filed(
+@@ -78,20 +77,16 @@ test("the code file of the manifest a cluster service is applied as is found", (
+ })
+ 
+ test("a file the globs match is found still", () => {
+-  expect(found()).toContain("alpha/one.cluster-service.code.attachment.ts")
+-  expect(found()).toContain("beta/two.cluster-service.code.attachment.ts")
++  expect(found()).toContain("infrastructure/cluster-manifests/one-synth/one-synth.module.code.ts")
++  expect(found()).toContain("infrastructure/upscale/two-synth/two-synth.module.code.ts")
+ })
+ 
+-test("a path reached through a `src` folder is left out of both sources", () => {
++test("a path reached through a `src` folder is left out", () => {
+   expect(found()).not.toContain("alpha/src/hidden/hidden.manifest.code.ts")
+-  expect(found()).not.toContain("beta/src/three.cluster-service.code.attachment.ts")
+ })
+ 
+-test("a package filter narrows both sources", () => {
+-  expect(found("alpha")).toEqual([
+-    "alpha/gamma/gamma.manifest.code.ts",
+-    "alpha/one.cluster-service.code.attachment.ts",
+-  ])
++test("a package filter narrows the answer", () => {
++  expect(found("alpha")).toEqual(["alpha/gamma/gamma.manifest.code.ts"])
+ })
+ 
+ test("a manifest no cluster service is applied as is left out", () => {
