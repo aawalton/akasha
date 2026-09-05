@@ -34,7 +34,7 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A key holding what its shape does not allow is refused.",
+      statement: "A key holding a value its shape does not allow is refused.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +46,7 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal says what was wrong with the question.",
+      statement: "A refusal says the fault in the question.",
     },
     {
       invariantKind: "departure",
