@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/inference-pool/inference-pool.workspace-package.ts b/infrastructure/inference-pool/inference-pool.workspace-package.ts
+index f10bb6e292a9a55cd3522cdeb5b294749638f72e..5fb78512d5f9142ff73c96c4c398a3e3c25c0495 100644
+--- a/infrastructure/inference-pool/inference-pool.workspace-package.ts
++++ b/infrastructure/inference-pool/inference-pool.workspace-package.ts
+@@ -56,7 +56,7 @@ export const inferencePool = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The host is reached over ssh rather than by an agent running on it.",
++      statement: "The host is reached over ssh rather than by an agent running on that host.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
