@@ -9,7 +9,7 @@ export const testStepPaths = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A test file's kind is read from the name it ends with.",
+      statement: "A test file's kind is read from the name that file ends with.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +29,8 @@ export const testStepPaths = {
     },
     {
       invariantKind: "departure",
-      statement: "The deepest workspace root a test file sits under is the one that bears it.",
+      statement:
+        "The deepest workspace root a test file sits under is the one that bears that file.",
     },
     {
       invariantKind: "departure",
