@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/command-system/landing-reading/landing-reading.module.ts b/command-system/landing-reading/landing-reading.module.ts
+index 5908c78c24d03000dabf72e41a37b00be95580c2..237bbf3a2b5f3cd5e2cadb0c6a0a8a3b2cfeb29b 100644
+--- a/command-system/landing-reading/landing-reading.module.ts
++++ b/command-system/landing-reading/landing-reading.module.ts
+@@ -9,7 +9,8 @@ export const landingReading = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A body the caller asked for is recorded as read by whoever landed that body.",
++      statement:
++        "A body the caller asked for is recorded as read by the agent that landed that body.",
+     },
+     {
+       invariantKind: "departure",
