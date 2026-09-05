@@ -1,0 +1,30 @@
+diff --git a/bun.lock b/bun.lock
+index 26b547db6b174829f6c8825e93835f6daff5e490..8f70ff6ef1b20ade06f28a5c4c5b7dbf25baf40b 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -975,6 +975,10 @@
+     },
+     "infrastructure/eso-rig": {
+       "name": "@akasha/eso-rig",
++      "dependencies": {
++        "@akasha/code-system": "workspace:*",
++        "@akasha/k8s-types": "workspace:*",
++      },
+     },
+     "infrastructure/inference-clients": {
+       "name": "@akasha/inference-clients",
+diff --git a/infrastructure/eso-rig/package.json b/infrastructure/eso-rig/package.json
+index 9f818623bbb9efde9e5b906f5cd3031538447e28..25dcd644da516c3ea0dcd2291b8ff69438f01748 100644
+--- a/infrastructure/eso-rig/package.json
++++ b/infrastructure/eso-rig/package.json
+@@ -1,5 +1,9 @@
+ {
+   "name": "@akasha/eso-rig",
+   "private": true,
+-  "type": "module"
++  "type": "module",
++  "dependencies": {
++    "@akasha/code-system": "workspace:*",
++    "@akasha/k8s-types": "workspace:*"
++  }
+ }
