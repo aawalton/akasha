@@ -1,3 +1,15 @@
+diff --git a/service-system/cluster-services/cluster-service.page-type.ts b/service-system/cluster-services/cluster-service.page-type.ts
+index e2220771a46ed45a4afbf2df1bac057e8ddba580..db526188cd7f2c2d52feec28a096af176c1bd6f7 100644
+--- a/service-system/cluster-services/cluster-service.page-type.ts
++++ b/service-system/cluster-services/cluster-service.page-type.ts
+@@ -82,6 +82,7 @@ export const clusterService = {
+     "cluster-service/talos-subnet-router",
+     "number-property/container-port",
+     "number-property/replicas",
++    "relation-property/manifest-slug",
+     "text-property/image",
+     "text-property/cluster-service-manifest-code",
+     "text-property/namespace",
 diff --git a/service-system/cluster-services/properties/manifest-slug.relation-property.ts b/service-system/cluster-services/properties/manifest-slug.relation-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..36c9b5084af275bab2fc56bf88319128d6e31dfe
