@@ -64,16 +64,3 @@ index 82b7a1e3506960a12f7fcf1fad786f2ae4ccf9b3..f5404ca60ee570021fd6031cbac3c9db
      },
      {
        invariantKind: "departure",
-diff --git a/temper/temper-web/routes/api.items.unit.test.ts b/temper/temper-web/routes/api.items.unit.test.ts
-index 1ebe01eed793f6a9c6fd91baa191d159e918412d..f9f39cd89015059032098536af9be03ff8a0d3fd 100644
---- a/temper/temper-web/routes/api.items.unit.test.ts
-+++ b/temper/temper-web/routes/api.items.unit.test.ts
-@@ -104,7 +104,7 @@ describe("rowToMinedItemData — data-floor boundary (#15881)", () => {
-     expect(Object.values(result)).not.toContain("alan-real-account-uuid")
-   })
- 
--  it("reads a number, a flag and a list back out of the text they stand as", () => {
-+  it("reads a number, a flag and a list back out of the text they are written as", () => {
-     const result = rowToMinedItemData(
-       makeRow({
-         setBonuses: [
