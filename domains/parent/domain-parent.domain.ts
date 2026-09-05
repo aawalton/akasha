@@ -13,7 +13,7 @@ export const domainParent = {
     },
     {
       invariantKind: "departure",
-      statement: "A layer a domain is built on is not a parent of it.",
+      statement: "A layer a domain is built on is not a parent of that domain.",
     },
     {
       invariantKind: "departure",
