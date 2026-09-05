@@ -1,4 +1,3 @@
-runsWarrants: false
 diff --git a/alan/web/routes/api.claude-usage.test.ts b/alan/web/routes/api.claude-usage.test.ts
 deleted file mode 100644
 index c273e79bbe558aa7f5dbe98d9e16e85cd4b57035..0000000000000000000000000000000000000000
@@ -463,7 +462,7 @@ index 84cb0167abf505873d5f64b4e287bbd6404326db..00000000000000000000000000000000
 -}
 diff --git a/alan/web/routes/claude-usage/claude-usage.route.code.ts b/alan/web/routes/claude-usage/claude-usage.route.code.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..6122cfbfb98b814f2d3af86b5569609da241b332
+index 0000000000000000000000000000000000000000..951797c80936763331ac46017aafc16523923ee7
 --- /dev/null
 +++ b/alan/web/routes/claude-usage/claude-usage.route.code.ts
 @@ -0,0 +1,234 @@
@@ -471,7 +470,7 @@ index 0000000000000000000000000000000000000000..6122cfbfb98b814f2d3af86b5569609d
 +import { askingFor } from "@akasha/pages-system-service/calling"
 +import { READOUT_CACHE_CONTROL } from "@akasha/readout-system/readout-credential"
 +import { guardReadout } from "../../.server/readout-guarding/readout-guarding.module.code.ts"
-+import type { Route } from "../+types/api.claude-usage"
++import type { Route } from "./+types/claude-usage.route.code"
 +
 +export type UsageTier = "red" | "yellow" | "green" | "blue"
 +
