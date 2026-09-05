@@ -16,8 +16,22 @@ export const seat = {
     },
     { said: "--all", takes: "every seat akasha carries, which is the only reach a restart has" },
     { said: "stop", takes: "the act, which is to end that process and take the page it held" },
-    { said: "<name>", takes: "the seat to stop, named as its page is named" },
     { said: "--force", takes: "stop it though subagents are working, ending them with it" },
+    { said: "resume", takes: "the act putting a seat back on the session it was bound to" },
+    {
+      said: "reset",
+      takes: "the act sitting a new agent down under everything the seat already states",
+    },
+    { said: "<name>", takes: "the seat to stop, resume or reset, named as its page is named" },
+    {
+      said: "--prompt <text>",
+      takes: "the first turn a resumed seat takes up, where it was stopped",
+    },
+    {
+      said: "--start-mode <mode>",
+      takes: "whether a terminal is attached to the seat as it comes up",
+    },
+    { said: "start", takes: "the act composing a fresh seat from the slots stated after it" },
   ],
   helpNotes: [
     "the words stand in order, and one call names one act.",
@@ -28,11 +42,19 @@ export const seat = {
     "a stop names one seat, where a restart reaches every one of them.",
     "a stop ends what the seat dispatched before it ends the seat, so nothing is left orphaned.",
     "a name no seat holds a page for answers as a data refusal, which a caller can tell from a misspelling.",
+    "a stop, a resume and a reset each name one seat, spelled as that seat's page is spelled rather than as an id.",
+    "a reset reads the last committed page where the seat is stopped, and that page is reached by the name.",
+    "a start names no seat: it takes the slots a name is composed from, and what they compose is the name.",
+    "what a resume, a reset or a start says is written where it runs rather than carried back as a report.",
   ],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What to act on is the first word and the act is the second.",
+      statement: "A supervisor is named by the first word and the act on it by the second.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An act on a seat is the first word and the seat it acts on is the second.",
     },
     {
       invariantKind: "departure",
@@ -77,6 +99,31 @@ export const seat = {
       invariantKind: "departure",
       statement:
         "A flag standing where the seat should be named is refused rather than read as a name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat to stop, to resume or to reset is named as its page is named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A start is given the slots a seat's name is composed from rather than a name.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The code a resume, a reset or a start runs is reached only once that act is read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a resume, a reset or a start prints is written where it runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A start prints on the output stream what a caller reads back as the agent's id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal from a wrapped act carries the exit code that act's error states.",
     },
     {
       invariantKind: "absence",

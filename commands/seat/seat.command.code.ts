@@ -1,5 +1,6 @@
 import { existsSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
 import type { Holder } from "@akasha/file-system/lock-holder"
 import { alive } from "@akasha/file-system/lock-holder"
 import { told } from "@akasha/git/git-running"
@@ -21,9 +22,23 @@ const RESTART = "restart"
 
 const STOP = "stop"
 
+const RESUME = "resume"
+
+const RESET = "reset"
+
+const START = "start"
+
 const ALL = "--all"
 
 const FORCE = "--force"
+
+const PROMPT = "--prompt"
+
+const START_MODE = "--start-mode"
+
+const TARGET = "--agent-id"
+
+const ACTED_ON = `\`${SUPERVISOR}\`, \`${RESUME}\`, \`${RESET}\` and \`${START}\``
 
 const ASK = "reExecAsk"
 
@@ -37,6 +52,14 @@ export type Seat = {
   readonly page: string
   readonly name: string
   readonly holder: Holder | null
+}
+
+type Named = { readonly name: string }
+
+type Carried = { readonly carried: readonly string[] }
+
+function quoted(every: readonly string[]): string {
+  return every.map((one) => `\`${one}\``).join(", ")
 }
 
 function seatsIn(root: string): readonly Seat[] {
@@ -79,32 +102,70 @@ function saidOf(one: Stopped): string {
   return `${one.name} was stopped, ending ${one.pids.map((pid) => String(pid)).join(", ")}`
 }
 
-async function stoppedBy(given: Given, rest: readonly string[]): Promise<Answer> {
-  const [name, ...flags] = rest
+function namedIn(word: string, act: string, rest: readonly string[]): Named | Answer {
+  const name = rest[0]
   if (name === undefined) {
-    return refused(`\`${SUPERVISOR} ${STOP}\` names the seat to stop, and nothing followed it`, 1)
+    return refused(`\`${word}\` names the seat to ${act}, and nothing followed it`, 1)
   }
   if (name.startsWith("-")) {
+    return refused(`\`${word}\` names the seat to ${act} first, and \`${name}\` is a flag`, 1)
+  }
+  return { name }
+}
+
+function carriedIn(
+  word: string,
+  taking: readonly string[],
+  flags: readonly string[]
+): Carried | Answer {
+  const held: string[] = []
+  for (let at = 0; at < flags.length; at = at + 2) {
+    const one = flags[at]
+    if (one !== undefined && taking.includes(one)) {
+      const value = flags[at + 1]
+      if (value === undefined) {
+        return refused(`\`${one}\` names what follows it, and nothing did`, 1)
+      }
+      held.push(one, value)
+      continue
+    }
     return refused(
-      `\`${SUPERVISOR} ${STOP}\` names the seat to stop first, and \`${name}\` is a flag`,
+      `\`${word}\` takes ${quoted(taking)} and nothing else, and ` +
+        `${quoted(flags.slice(at, at + 1))} followed it`,
       1
     )
   }
+  return { carried: held }
+}
+
+async function ran(running: () => Promise<void>): Promise<Answer> {
+  try {
+    await running()
+  } catch (thrown) {
+    const why = thrown instanceof Error ? thrown.message : String(thrown)
+    return refused(why, exitCodeForThrowable(thrown))
+  }
+  return { report: [], refusals: [], code: 0 }
+}
+
+async function stoppedBy(given: Given, rest: readonly string[]): Promise<Answer> {
+  const named = namedIn(`${SUPERVISOR} ${STOP}`, STOP, rest)
+  if (!("name" in named)) return named
+  const flags = rest.slice(1)
   const stray = flags.filter((one) => one !== FORCE)
   if (stray.length > 0) {
-    const said = stray.map((one) => `\`${one}\``).join(", ")
     return refused(
-      `\`${SUPERVISOR} ${STOP}\` takes \`${FORCE}\` and nothing else, and ${said} followed it`,
+      `\`${SUPERVISOR} ${STOP}\` takes \`${FORCE}\` and nothing else, and ${quoted(stray)} followed it`,
       1
     )
   }
-  const page = seatPathForName(name)
+  const page = seatPathForName(named.name)
   const at = join(given.root, page)
   if (!existsSync(at)) {
     const held = told(given.root, ["show", `HEAD:${page}`])
     if (held === null) {
       return refused(
-        `no seat named \`${name}\` holds a page under \`${given.root}\`, so there is nothing to stop`,
+        `no seat named \`${named.name}\` holds a page under \`${given.root}\`, so there is nothing to stop`,
         2
       )
     }
@@ -114,13 +175,47 @@ async function stoppedBy(given: Given, rest: readonly string[]): Promise<Answer>
   const agentId = value === null ? null : textAt(value, ID)
   if (agentId === null || agentId === "") {
     return refused(
-      `the page for \`${name}\` states no id, and a seat's id is its agent's id, so nothing here says which processes are its own`,
+      `the page for \`${named.name}\` states no id, and a seat's id is its agent's id, so nothing here says which processes are its own`,
       2
     )
   }
-  const said = await stopping(given, agentId, name, flags.includes(FORCE))
+  const said = await stopping(given, agentId, named.name, flags.includes(FORCE))
   if ("refused" in said) return refused(said.refused, 1)
   return { report: [saidOf(said.stopped)], refusals: [], code: 0 }
+}
+
+async function resumedBy(rest: readonly string[]): Promise<Answer> {
+  const named = namedIn(RESUME, RESUME, rest)
+  if (!("name" in named)) return named
+  const carried = carriedIn(RESUME, [PROMPT, START_MODE], rest.slice(1))
+  if (!("carried" in carried)) return carried
+  const { default: resuming } = await import("@akasha/seat-system/seat-resume")
+  return await ran(async () => {
+    await resuming([TARGET, named.name, ...carried.carried])
+  })
+}
+
+async function resetBy(rest: readonly string[]): Promise<Answer> {
+  const named = namedIn(RESET, RESET, rest)
+  if (!("name" in named)) return named
+  const stray = rest.slice(1)
+  if (stray.length > 0) {
+    return refused(
+      `\`${RESET}\` names the seat to reset and takes nothing else, and ${quoted(stray)} followed it`,
+      1
+    )
+  }
+  const { default: resetting } = await import("@akasha/seat-system/seat-reset")
+  return await ran(async () => {
+    await resetting([named.name])
+  })
+}
+
+async function startedBy(rest: readonly string[]): Promise<Answer> {
+  const { default: starting } = await import("@akasha/seat-system/seat-start")
+  return await ran(async () => {
+    await starting(rest)
+  })
 }
 
 function restartedAll(given: Given, rest: readonly string[]): Answer {
@@ -139,28 +234,32 @@ function restartedAll(given: Given, rest: readonly string[]): Answer {
 }
 
 export async function seat(argv: readonly string[], given: Given): Promise<Answer> {
-  const [subject, act, ...rest] = argv
+  const [subject, ...rest] = argv
   if (subject === undefined) {
     return refused(
-      `${given.calledAs} names what to act on, and nothing followed it — it takes \`${SUPERVISOR}\``,
+      `${given.calledAs} names what to act on, and nothing followed it — it takes ${ACTED_ON}`,
       1
     )
   }
+  if (subject === RESUME) return await resumedBy(rest)
+  if (subject === RESET) return await resetBy(rest)
+  if (subject === START) return await startedBy(rest)
   if (subject !== SUPERVISOR) {
-    return refused(`\`${subject}\` is nothing this acts on — it acts on \`${SUPERVISOR}\``, 1)
+    return refused(`\`${subject}\` is nothing this acts on — it acts on ${ACTED_ON}`, 1)
   }
+  const [act, ...after] = rest
   if (act === undefined) {
     return refused(
       `\`${SUPERVISOR}\` names an act, and nothing followed it — it takes \`${RESTART}\` and \`${STOP}\``,
       1
     )
   }
-  if (act === STOP) return await stoppedBy(given, rest)
+  if (act === STOP) return await stoppedBy(given, after)
   if (act !== RESTART) {
     return refused(
       `\`${act}\` is nothing this does to a ${SUPERVISOR} — it does \`${RESTART}\` and \`${STOP}\``,
       1
     )
   }
-  return restartedAll(given, rest)
+  return restartedAll(given, after)
 }

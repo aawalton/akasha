@@ -251,7 +251,10 @@
     "./message-file": "./messaging/message-file/message-file.module.code.ts",
     "./message-file-watch": "./messaging/message-file-watch/message-file-watch.module.code.ts",
     "./seat-turn-color": "./seat-turn-color/seat-turn-color.module.code.ts",
-    "./log-day-writing": "./seat-log-days/log-day-writing/log-day-writing.module.code.ts"
+    "./log-day-writing": "./seat-log-days/log-day-writing/log-day-writing.module.code.ts",
+    "./seat-reset": "./seat-reset/seat-reset.module.code.ts",
+    "./seat-resume": "./seat-resume/seat-resume.module.code.ts",
+    "./seat-start": "./seat-start/seat-start.module.code.ts"
   },
   "dependencies": {
     "@akasha/agents": "workspace:*",
