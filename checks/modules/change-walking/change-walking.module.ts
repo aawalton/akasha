@@ -7,6 +7,7 @@ export const changeWalking = {
   definition: "how a check reaches the text it judges",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "absence",

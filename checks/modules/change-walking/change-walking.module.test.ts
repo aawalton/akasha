@@ -1,14 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { execFileSync } from "node:child_process"
-import { mkdirSync, symlinkSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
+import { symlinkSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import { readingIn } from "@akasha/indexes"
-import { answeringOver } from "@akasha/indexes/answering"
 import type { Reading } from "@akasha/indexes/shape"
-import { indexTakenFrom, listedFiled, pathFiled, pathsTakenFrom } from "@akasha/indexes/testing"
+import { indexTakenFrom, pathFiled, pathsTakenFrom } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
-import { type Shadow, shadowAt } from "@akasha/pages-system/shadow"
+import { shadowAt } from "@akasha/pages-system/shadow"
 import {
   everyFileIn,
   everythingIn,
@@ -25,103 +22,29 @@ import {
   TEXTS,
   textNamed,
 } from "./change-walking.module.code.ts"
-
-const PAGE_AT = "akasha/checks-system/change-walking/held/held.module.ts"
-
-const CODE_AT = "akasha/checks-system/change-walking/held/held.module.code.ts"
-
-const NOTE_AT = "akasha/checks-system/change-walking/held/held.module.note.md"
-
-const GONE_AT = "akasha/checks-system/change-walking/held/gone.module.ts"
-
-const TYPE_AT = "akasha/checks-system/change-walking/held/held.page-type.ts"
-
-const STRAY_AT = "akasha/checks-system/change-walking/held/stray.ts"
-
-const KEPT_AT = "akasha/checks-system/change-walking/held/held.module.entries.uncommitted.jsonl"
-
-const BUILT_AT = "akasha/checks-system/change-walking/held/held.module.code.d.ts"
-
-const VENDORED_AT = "node_modules/held/held.module.uncommitted.ts"
-
-const IGNORING = "*.uncommitted.*\n*.d.ts\nnode_modules/\n"
-
-const HELD_ID = "01a04bc4-0000-7000-8000-00000000000a"
-
-const PAGE_TYPE = "page-type"
-
-const MODULE = "module"
-
-const scratch = scratchWorld()
+import {
+  BUILT_AT,
+  CODE_AT,
+  counting,
+  GONE_AT,
+  HELD_ID,
+  KEPT_AT,
+  MODULE,
+  mixedWorld,
+  NOTE_AT,
+  PAGE_AT,
+  PAGE_TYPE,
+  pagedWorld,
+  STRAY_AT,
+  scratch,
+  TYPE_AT,
+  tailedWorld,
+  treeWorld,
+  VENDORED_AT,
+  worldOf,
+} from "./change-walking.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
-
-function bodyAt(root: string, path: string, body: string): undefined {
-  const at = join(root, path)
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, body)
-  return undefined
-}
-
-function worldOf(paths: readonly string[]): string {
-  const root = scratch.rootFor("akasha-change-walking-")
-  for (const path of paths) {
-    bodyAt(root, path, `export const held = "${path}"\n`)
-    pathFiled(root, path, [{ path: PAGE_AT, id: HELD_ID }])
-  }
-  return root
-}
-
-function treeWorld(): string {
-  const root = worldOf([PAGE_AT, CODE_AT])
-  bodyAt(root, ".gitignore", IGNORING)
-  for (const path of [STRAY_AT, KEPT_AT, BUILT_AT, VENDORED_AT]) bodyAt(root, path, "held\n")
-  execFileSync("git", ["-C", root, "init", "-q"], { stdio: "ignore" })
-  execFileSync("git", ["-C", root, "add", "-A"], { stdio: "ignore" })
-  return root
-}
-
-function mixedWorld(): Change {
-  const root = scratch.rootFor("akasha-selecting-")
-  writeFileSync(join(root, "here.ts"), "here")
-  writeFileSync(join(root, "note.md"), "note")
-  const held = onDisk(root)
-  return { root, changed: ["gone.ts", "here.ts", "note.md"], after: held, before: held }
-}
-
-function pagedWorld(): Change {
-  const root = scratch.rootFor("akasha-paging-")
-  mkdirSync(join(root, PAGE_AT.slice(0, PAGE_AT.lastIndexOf("/"))), { recursive: true })
-  writeFileSync(join(root, PAGE_AT), `export const held = { slug: "held" }\n`)
-  writeFileSync(join(root, CODE_AT), `export const HELD = "held"\n`)
-  listedFiled(root, PAGE_TYPE, MODULE, [{ path: PAGE_AT, id: HELD_ID }])
-  const held = onDisk(root)
-  return { root, changed: [CODE_AT, GONE_AT, PAGE_AT], after: held, before: held }
-}
-
-function tailedWorld(): Change {
-  const held = pagedWorld()
-  writeFileSync(join(held.root, TYPE_AT), `export const held = { slug: "held" }\n`)
-  return { ...held, changed: [...held.changed, TYPE_AT] }
-}
-
-function counting(root: string, held: Shadow, asked: () => undefined): Shadow {
-  const base = readingIn(root)
-  const reading: Reading = {
-    holds: (at) => base.holds(at),
-    listing: (at) => {
-      asked()
-      return base.listing(at)
-    },
-    lines: (at) => base.lines(at),
-  }
-  return {
-    index: answeringOver(reading, (path) => held.pageOf(path)),
-    filed: () => held.filed(),
-    pageOf: (path) => held.pageOf(path),
-    codeAt: (path) => held.codeAt(path),
-  }
-}
 
 test("the helper hands over each body the change leaves standing, and no path it takes away", () => {
   const root = scratch.rootFor("akasha-each-file-")
