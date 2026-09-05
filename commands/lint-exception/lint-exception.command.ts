@@ -28,7 +28,7 @@ export const lintException = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule is said as the group it is in and the name it carries.",
+      statement: "A rule is said as the group that rule is in and the name that rule carries.",
     },
     {
       invariantKind: "departure",
