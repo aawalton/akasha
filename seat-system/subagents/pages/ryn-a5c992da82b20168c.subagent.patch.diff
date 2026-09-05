@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/command-server/command-server.module.ts b/command-system/command-server/command-server.module.ts
-index 116c8d02dcb0a4494f456482a457f865c9dba22a..c94d941e3097478be32ff7104f63e609c1ab17fc 100644
+index 116c8d02dcb0a4494f456482a457f865c9dba22a..1b73f7d3c11c29057015e8c966e8c93b3ff1fa0f 100644
 --- a/command-system/command-server/command-server.module.ts
 +++ b/command-system/command-server/command-server.module.ts
 @@ -190,7 +190,8 @@ export const commandServer = {
@@ -13,3 +13,12 @@ index 116c8d02dcb0a4494f456482a457f865c9dba22a..c94d941e3097478be32ff7104f63e609
      },
      {
        invariantKind: "constraint",
+@@ -242,7 +243,7 @@ export const commandServer = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "Stdin closing is what happens when the caller dies.",
++      statement: "Stdin closes when the caller dies.",
+     },
+   ],
+ } as const satisfies Module
