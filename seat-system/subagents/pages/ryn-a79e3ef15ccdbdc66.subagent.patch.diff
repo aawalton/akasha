@@ -1,0 +1,15 @@
+diff --git a/temper/temper-watcher/temper-watcher.workspace-package.ts b/temper/temper-watcher/temper-watcher.workspace-package.ts
+index c362466f5bb4144ce77220f79112345fad942f6a..b5c1fc21d7c33daff8e53d027ce27aa0afecaf89 100644
+--- a/temper/temper-watcher/temper-watcher.workspace-package.ts
++++ b/temper/temper-watcher/temper-watcher.workspace-package.ts
+@@ -67,10 +67,6 @@ export const temperWatcher = {
+     "container-recipe/temper-watcher-image",
+   ],
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The worker runs from source rather than from a build.",
+-    },
+     {
+       invariantKind: "departure",
+       statement:
