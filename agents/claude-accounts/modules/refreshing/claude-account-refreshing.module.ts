@@ -30,7 +30,7 @@ export const claudeAccountRefreshing = {
     },
     {
       invariantKind: "departure",
-      statement: "An account the endpoint refuses leaves what is beside its page unchanged.",
+      statement: "An account the endpoint refuses leaves the values beside its page unchanged.",
     },
     {
       invariantKind: "departure",
