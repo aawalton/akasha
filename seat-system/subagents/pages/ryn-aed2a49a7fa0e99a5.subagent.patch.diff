@@ -109,3 +109,55 @@ index a9c9df2f4a517aef98054c1819d1a0765ed7c230..8990c80b7497620c1d012755c5354250
      },
      {
        invariantKind: "absence",
+diff --git a/idle-system/idle-persona-cards/properties/images.text-property.ts b/idle-system/idle-persona-cards/properties/images.text-property.ts
+index 250b968b37c1ca9020636af22239f795f2ab9f59..f8ec24f55dccacaa4b807d4782b4f26c6f977c1f 100644
+--- a/idle-system/idle-persona-cards/properties/images.text-property.ts
++++ b/idle-system/idle-persona-cards/properties/images.text-property.ts
+@@ -14,7 +14,7 @@ export const images = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The picture a card is shown by is one of these.",
++      statement: "The picture a card is shown by is one of these pictures.",
+     },
+   ],
+ } as const satisfies TextProperty
+diff --git a/infrastructure/auth-proxy/auth-proxy-server/auth-proxy-server.module.ts b/infrastructure/auth-proxy/auth-proxy-server/auth-proxy-server.module.ts
+index ddedff8931263c047795895e59313450dd40f528..f6542c06e82d1f66556f369c2fea0c2aa6373dc1 100644
+--- a/infrastructure/auth-proxy/auth-proxy-server/auth-proxy-server.module.ts
++++ b/infrastructure/auth-proxy/auth-proxy-server/auth-proxy-server.module.ts
+@@ -26,7 +26,7 @@ export const authProxyServer = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Loading this starts the server.",
++      statement: "Loading this module starts the server.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/language-design/lua-compiler/performance-global/performance-global.type-declaration.ts b/language-design/lua-compiler/performance-global/performance-global.type-declaration.ts
+index f23fcbf80bca7c170eff49615010c25b8531a97a..f9b2616fc8d9b356bba9ae3da68f29c833e5f1a5 100644
+--- a/language-design/lua-compiler/performance-global/performance-global.type-declaration.ts
++++ b/language-design/lua-compiler/performance-global/performance-global.type-declaration.ts
+@@ -9,7 +9,7 @@ export const performanceGlobal = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What this declares is implemented by the compiler's own runtime library.",
++      statement: "What is declared here is implemented by the compiler's own runtime library.",
+     },
+   ],
+ } as const satisfies TypeDeclaration
+diff --git a/mobile-cli/testflight-cut/testflight-cut.module.ts b/mobile-cli/testflight-cut/testflight-cut.module.ts
+index a2f48030f7fe5dc5c218e4989f5b648a686c4e27..49cb6347bc196a632881c0bebba698bf9400bf2c 100644
+--- a/mobile-cli/testflight-cut/testflight-cut.module.ts
++++ b/mobile-cli/testflight-cut/testflight-cut.module.ts
+@@ -14,7 +14,7 @@ export const testflightCut = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A caller naming a sink carries what this says back to its own reader.",
++      statement: "A caller naming a sink carries what this run says back to its own reader.",
+     },
+     {
+       invariantKind: "absence",
