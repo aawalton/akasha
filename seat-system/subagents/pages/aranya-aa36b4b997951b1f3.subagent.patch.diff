@@ -40,23 +40,6 @@ index 0000000000000000000000000000000000000000..b2ef32c4a5de94469ab589072c2ccfd5
 +    { name: "service", yaml: serviceYaml() },
 +  ]
 +}
-diff --git a/seat-system/subagents/pages/aranya-aa36b4b997951b1f3.subagent.patch.diff b/seat-system/subagents/pages/aranya-aa36b4b997951b1f3.subagent.patch.diff
-index 24e8194ff47de3a4817442d93e91fd863eab0fa9..5e4864bc5bd6f942150fe9bc325a4900985a772b 100644
---- a/seat-system/subagents/pages/aranya-aa36b4b997951b1f3.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-aa36b4b997951b1f3.subagent.patch.diff
-@@ -61,8 +61,12 @@ index dffe46a7bc79a350ee3740f35bdc04339996e93b..078e23bb3987896235af73b20ccde994
-    image: "grafana/loki:3.1.0",
-    replicas: 1,
-    containerPort: 3100,
-+<<<<<<< what this change would leave
-+-  manifestCode: "infrastructure/loki-service/loki/loki.manifest.code.ts",
-+=======
- -  manifestCode: "infrastructure/loki-service/loki/loki.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "loki",
- +=======
- +  manifestCode: "infrastructure/loki-service/loki/loki.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/loki.cluster-service.ts b/service-system/cluster-services/pages/loki.cluster-service.ts
 index dffe46a7bc79a350ee3740f35bdc04339996e93b..95b10616fca811901f78808de920f54df5ff7e6c 100644
 --- a/service-system/cluster-services/pages/loki.cluster-service.ts
