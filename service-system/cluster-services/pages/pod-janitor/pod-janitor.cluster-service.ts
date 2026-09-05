@@ -10,6 +10,5 @@ export const podJanitor = {
   resourceName: "pod-janitor",
   image: "registry.registry.svc.cluster.local:5000/cluster/ci:latest",
   schedule: "0 */6 * * *",
-  manifestCode:
-    "service-system/cluster-services/pages/pod-janitor/pod-janitor.cluster-service.code.attachment.ts",
+  manifestSlug: "pod-janitor",
 } as const satisfies ClusterService
