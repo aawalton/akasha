@@ -10,7 +10,8 @@ export const inventoryRuleRows = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A column set is stated once and shared by every listing that prints it.",
+      statement:
+        "A column set is stated once and shared by every listing that prints that column set.",
     },
     {
       invariantKind: "departure",
