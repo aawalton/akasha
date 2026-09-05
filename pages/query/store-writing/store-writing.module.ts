@@ -61,10 +61,7 @@ export const storeWriting = {
       statement:
         "A write naming a row inside a page is refused for want of a way to address a row.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A query asked for by name is refused.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here renders a page's body.",

@@ -24,10 +24,7 @@ export const upstreamLeafReading = {
       statement:
         "An upstream dump holding no leaf beside a ported dump holding no leaf is refused.",
     },
-    {
-      invariantKind: "departure",
-      statement: "An agreement says how many leaves agreed.",
-    },
+
     {
       invariantKind: "departure",
       statement: "The rulings of a library's datasets gather into one ruling for that library.",

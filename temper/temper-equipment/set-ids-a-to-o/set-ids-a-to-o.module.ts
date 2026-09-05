@@ -6,10 +6,4 @@ export const setIdsAToO = {
   slug: "set-ids-a-to-o",
   definition: "the gear sets from the no-set sentinel through the ones keyed under the letter o",
   code: "ts",
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "One module holding all 707 set ids would pass the byte ceiling.",
-    },
-  ],
 } as const satisfies Module
