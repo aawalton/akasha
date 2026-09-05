@@ -1,0 +1,72 @@
+diff --git a/editor-extension/seat-acts/seat-acts.module.code.ts b/editor-extension/seat-acts/seat-acts.module.code.ts
+index 9b72f7f90fd8eccd1b5174fec1806f9efb381800..5a1d7faae1f625cd5555213da6b5c0c85b8b16e4 100644
+--- a/editor-extension/seat-acts/seat-acts.module.code.ts
++++ b/editor-extension/seat-acts/seat-acts.module.code.ts
+@@ -3,7 +3,7 @@ import { output } from "../agent-tree-state/agent-tree-state.module.code.ts"
+ import { seatTerminalOptions } from "../editor-group/editor-group.module.code.ts"
+ import { commandPath, runCommand } from "../harness-call/harness-call.module.code.ts"
+ import type { ToggleTarget } from "../invoked-seat/invoked-seat.module.code.ts"
+-import { columnForSeat, terminalForSeat } from "../seat-showing/seat-showing.module.code.ts"
++import { columnForSeat } from "../seat-showing/seat-showing.module.code.ts"
+ import { readSeatLookup } from "../seat-terminals/seat-terminals.module.code.ts"
+ import {
+   attachCommandLine,
+@@ -37,18 +37,6 @@ async function attachTerminal(seat: ToggleTarget, line: string): Promise<undefin
+   return undefined
+ }
+ 
+-async function detachTerminal(seat: ToggleTarget): Promise<undefined> {
+-  const { seatNames, psRows, tmuxClients } = await readSeatLookup()
+-  const terminal = await terminalForSeat(seat.name, seatNames, psRows, tmuxClients)
+-  if (terminal === undefined) {
+-    output.appendLine(`[detach] ${seat.name}: no terminal in this window, nothing to close`)
+-    return undefined
+-  }
+-  terminal.dispose()
+-  output.appendLine(`[detach] ${seat.name}: terminal closed, session left running`)
+-  return undefined
+-}
+-
+ async function resumeInteractive(seat: ToggleTarget): Promise<undefined> {
+   const line = attachCommandLine(seat.name)
+   await runSeat(["resume", seat.name, "--start-mode", "interactive"])
+@@ -69,8 +57,6 @@ async function performStep(seat: ToggleTarget, step: SeatStep): Promise<undefine
+       return resumeInteractive(seat)
+     case "attach":
+       return attachTerminal(seat, attachCommandLine(seat.name))
+-    case "detach":
+-      return detachTerminal(seat)
+     case "reset":
+       await runSeat(["reset", seat.name])
+       return undefined
+diff --git a/editor-extension/seat-acts/seat-acts.module.ts b/editor-extension/seat-acts/seat-acts.module.ts
+index 442a653c946130c34da294d24499417200bb4d08..abfa2d55d1090d1ed4e572819579268ed52d35e8 100644
+--- a/editor-extension/seat-acts/seat-acts.module.ts
++++ b/editor-extension/seat-acts/seat-acts.module.ts
+@@ -43,14 +43,6 @@ export const seatActs = {
+       invariantKind: "departure",
+       statement: "The attach line is built before the resume, so a bad name costs no turn.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A detach closes the terminal and leaves the session running.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A detach finding no terminal here says so and does nothing.",
+-    },
+     {
+       invariantKind: "constraint",
+       statement: "A step of no known kind is refused.",
+diff --git a/editor-extension/seat-toggles/seat-toggles.module.code.ts b/editor-extension/seat-toggles/seat-toggles.module.code.ts
+index 42718faa2998a8d45ac21271b125d67f53e27045..c069f4d89ebeb004b1199e0b59307571fa4bcf10 100644
+--- a/editor-extension/seat-toggles/seat-toggles.module.code.ts
++++ b/editor-extension/seat-toggles/seat-toggles.module.code.ts
+@@ -17,7 +17,6 @@ export type SeatStep =
+   | { readonly kind: "revive" }
+   | { readonly kind: "resume-interactive" }
+   | { readonly kind: "attach" }
+-  | { readonly kind: "detach" }
+   | { readonly kind: "reset" }
+ 
+ export function planRunToggle(state: SeatToggleState): readonly SeatStep[] {
