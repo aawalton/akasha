@@ -1,0 +1,143 @@
+diff --git a/context/warrants/assignment-itself/assignment-itself.context-warrant.test.ts b/context/warrants/assignment-itself/assignment-itself.context-warrant.test.ts
+index b748b23f344b7e24825289ed8b3a54674a5d4b49..f7c2710b93194388ce288ad5184803f1b730d54d 100644
+--- a/context/warrants/assignment-itself/assignment-itself.context-warrant.test.ts
++++ b/context/warrants/assignment-itself/assignment-itself.context-warrant.test.ts
+@@ -69,7 +69,7 @@ test("only a seat warrants an assignment of what it states", () => {
+   expect(pathsOf(assignmentItself(root, held.path))).toEqual([])
+ })
+ 
+-test("a warrant carries the body standing at the assignment, and why it is owed", () => {
++test("a warrant carries the body at the assignment, and why it is owed", () => {
+   const root = scratch.rootFor("akasha-assignment-itself-")
+   const said = domainListed(root, "akasha-system")
+   const at = seatListed(root, "one", `assignmentSlug: "domain/akasha-system"`)
+diff --git a/context/warrants/domain-ancestors/domain-ancestors.context-warrant.test.ts b/context/warrants/domain-ancestors/domain-ancestors.context-warrant.test.ts
+index 2088b546f69f53b33675ee6963548b5281e58114..9408c1343c0b087ce94be63e6163770d1221dfc1 100644
+--- a/context/warrants/domain-ancestors/domain-ancestors.context-warrant.test.ts
++++ b/context/warrants/domain-ancestors/domain-ancestors.context-warrant.test.ts
+@@ -31,7 +31,7 @@ test("a seat warrants the domain the one it states is a part of", () => {
+   expect(pathsOf(domainAncestors(root, at))).toEqual([top.path])
+ })
+ 
+-test("a seat stating another page type walks from the page standing under it", () => {
++test("a seat stating another page type walks from the page filed under it", () => {
+   const root = scratch.rootFor("akasha-domain-ancestors-")
+   const top = domainListed(root, "akasha-system")
+   const mid = typedListed(root, "workspace-package", "checks-system")
+diff --git a/context/warrants/file-domain/file-domain.context-warrant.test.ts b/context/warrants/file-domain/file-domain.context-warrant.test.ts
+index ce8a1669db7d2981137e09bc3e71bb88fa012fd3..4e304087d2473eb5ea083892daa3ef6055eff5d5 100644
+--- a/context/warrants/file-domain/file-domain.context-warrant.test.ts
++++ b/context/warrants/file-domain/file-domain.context-warrant.test.ts
+@@ -36,7 +36,7 @@ test("a file warrants the page that names it among its parts", () => {
+   expect(pathsOf(fileDomain(root, part.path))).toEqual([whole.path])
+ })
+ 
+-test("a file standing beside a page warrants what names that page among its parts", () => {
++test("a file sitting beside a page warrants what names that page among its parts", () => {
+   const root = scratch.rootFor("akasha-file-domain-")
+   const whole = domainListed(root, "whole")
+   const part = domainListed(root, "part")
+diff --git a/context/warrants/file-import/file-import.context-warrant.test.ts b/context/warrants/file-import/file-import.context-warrant.test.ts
+index 735372160e1f5dc64ddd5aa0ef2e06f951f42560..fc4952ebf86d5aae7082d2b9fe4364661a8cd542 100644
+--- a/context/warrants/file-import/file-import.context-warrant.test.ts
++++ b/context/warrants/file-import/file-import.context-warrant.test.ts
+@@ -234,7 +234,7 @@ test("what a file imports is read from its own body", () => {
+   expect(importedIn(root, at)).toEqual(["akasha/b/b.module.code.ts"])
+ })
+ 
+-test("a file that does not stand imports nothing", () => {
++test("a file that does not exist imports nothing", () => {
+   const root = scratch.rootFor(PREFIX)
+   world(root, ["a"])
+   expect(importedIn(root, "akasha/gone/gone.module.code.ts")).toEqual([])
+diff --git a/context/warrants/file-page-type/file-page-type.context-warrant.test.ts b/context/warrants/file-page-type/file-page-type.context-warrant.test.ts
+index 5a706b4ca09440547b2366bf2921c3b28712e9f1..60ce4dff391a5cae57798a3779d4f59eece91411 100644
+--- a/context/warrants/file-page-type/file-page-type.context-warrant.test.ts
++++ b/context/warrants/file-page-type/file-page-type.context-warrant.test.ts
+@@ -43,7 +43,7 @@ test("a page warrants its type, and every type that one extends", () => {
+   expect(pathsOf(warrantsAt(root, PATH))).toEqual(chain)
+ })
+ 
+-test("a type warrants the body standing at the type's page", () => {
++test("a type warrants the body at the type's page", () => {
+   const root = scratch.rootFor("akasha-file-page-type-")
+   typeWorld(root)
+   writing(root, PATH, "one\n")
+diff --git a/context/warrants/file-property-file/file-property-file.context-warrant.test.ts b/context/warrants/file-property-file/file-property-file.context-warrant.test.ts
+index e67b7b54ba18fd9935f6437a215847e0685a6fcb..787f186c0a47096015aecb5ddc73086566dd4b50 100644
+--- a/context/warrants/file-property-file/file-property-file.context-warrant.test.ts
++++ b/context/warrants/file-property-file/file-property-file.context-warrant.test.ts
+@@ -73,7 +73,7 @@ function warrantsAt(root: string, path: string): readonly Warrant[] {
+   return filePropertyFile(root, path, knowingIn(root))
+ }
+ 
+-test("a code file warrants the page it stands beside and the page defining its property", () => {
++test("a code file warrants the page it sits beside and the page defining its property", () => {
+   const root = scratch.rootFor("akasha-file-property-file-")
+   const held = propertyWorld(root)
+   writing(root, CODE_AT, "code\n")
+diff --git a/context/warrants/file-property/file-property.context-warrant.test.ts b/context/warrants/file-property/file-property.context-warrant.test.ts
+index 7c0e59470a99e5a6d86a2678b7b929b7ca925ae7..d2307562d5c4318c18fc96c8bb15436224b0ff85 100644
+--- a/context/warrants/file-property/file-property.context-warrant.test.ts
++++ b/context/warrants/file-property/file-property.context-warrant.test.ts
+@@ -74,7 +74,7 @@ test("a page warrants the page defining every property it states", () => {
+   expect(pathsOf(warrantsAt(root, PATH))).toEqual(every)
+ })
+ 
+-test("a property warrants the body standing at the page defining it", () => {
++test("a property warrants the body at the page defining it", () => {
+   const root = scratch.rootFor("akasha-file-property-")
+   statingWorld(root)
+   stating(root, PATH, ["definition"])
+diff --git a/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.test.ts b/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.test.ts
+index fbf429724148e0ead68b0298d4e47f5a3a2feb86..64b3bd8db043ad29407f76675fe0997c4092f231 100644
+--- a/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.test.ts
++++ b/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.test.ts
+@@ -20,7 +20,7 @@ afterAll(scratch.sweep)
+ 
+ const AGENT = "01a0596c-0000-7000-8000-000000000009"
+ 
+-test("a seat warrants the initiative the one it states stands under", () => {
++test("a seat warrants the initiative the one it states is under", () => {
+   const root = scratch.rootFor("akasha-initiative-ancestors-")
+   const top = initiativeListed(root, "one-work")
+   initiativeListed(root, "one-step", `parentSlug: "initiative/one-work"`)
+diff --git a/context/warrants/person-itself/person-itself.context-warrant.test.ts b/context/warrants/person-itself/person-itself.context-warrant.test.ts
+index d37a00dbc78285b52c18f42514b918719b37c300..162d280ccdbf0bbd1df7b04bb77eb5e34019f7a6 100644
+--- a/context/warrants/person-itself/person-itself.context-warrant.test.ts
++++ b/context/warrants/person-itself/person-itself.context-warrant.test.ts
+@@ -61,7 +61,7 @@ test("a seat whose body cannot be loaded warrants nothing", () => {
+   expect(pathsOf(personItself(root, path))).toEqual([])
+ })
+ 
+-test("a warrant carries the body standing at the person, and why it is owed", () => {
++test("a warrant carries the body at the person, and why it is owed", () => {
+   const root = scratch.rootFor("akasha-person-itself-")
+   const personPage = personListed(root, "alan")
+   const at = seatListed(root, "one", `personSlug: "alan"`)
+diff --git a/context/warrants/persona-itself/persona-itself.context-warrant.test.ts b/context/warrants/persona-itself/persona-itself.context-warrant.test.ts
+index 3e60794ceceb6b98cd471f75c0b3a917f7c30cff..d42943329483eaae1c78752d2d400ca6c3c1c237 100644
+--- a/context/warrants/persona-itself/persona-itself.context-warrant.test.ts
++++ b/context/warrants/persona-itself/persona-itself.context-warrant.test.ts
+@@ -61,7 +61,7 @@ test("a seat whose body cannot be loaded warrants nothing", () => {
+   expect(pathsOf(personaItself(root, path))).toEqual([])
+ })
+ 
+-test("a warrant carries the body standing at the persona, and why it is owed", () => {
++test("a warrant carries the body at the persona, and why it is owed", () => {
+   const root = scratch.rootFor("akasha-persona-itself-")
+   const personaPage = personaListed(root, "akasha")
+   const at = seatListed(root, "one", `personaSlug: "akasha"`)
+diff --git a/context/warrants/role-itself/role-itself.context-warrant.test.ts b/context/warrants/role-itself/role-itself.context-warrant.test.ts
+index 17fb527546fab97ef81e7f49deecf92af6abb345..bf2d7966a4e8100f6e0e13a2b3d6d62619e851a4 100644
+--- a/context/warrants/role-itself/role-itself.context-warrant.test.ts
++++ b/context/warrants/role-itself/role-itself.context-warrant.test.ts
+@@ -53,7 +53,7 @@ test("only a seat warrants a role", () => {
+   expect(pathsOf(roleItself(root, held.path))).toEqual([])
+ })
+ 
+-test("a warrant carries the body standing at the role, and why it is owed", () => {
++test("a warrant carries the body at the role, and why it is owed", () => {
+   const root = scratch.rootFor("akasha-role-itself-")
+   const definer = roleListed(root, "definer")
+   const at = seatListed(root, "one", `roleSlug: "definer"`)
