@@ -19,7 +19,7 @@ export const inferencePlan = {
     },
     {
       invariantKind: "departure",
-      statement: "The hosts are read even though nothing on them changes.",
+      statement: "The hosts are read even though nothing on those hosts changes.",
     },
     {
       invariantKind: "absence",
