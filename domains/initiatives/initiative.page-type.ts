@@ -63,7 +63,7 @@ export const initiative = {
     },
     {
       invariantKind: "departure",
-      statement: "An initiative's purpose is done once every intent it holds is met.",
+      statement: "An initiative's purpose is done once every intent that initiative holds is met.",
     },
     {
       invariantKind: "departure",
