@@ -285,17 +285,22 @@ index 0000000000000000000000000000000000000000..868b6a456de322ed99e06725f82b3e1e
 +  ]
 +}
 diff --git a/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff b/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
-index f2f8121cc1f1311488590e7aeccb0c6bff3a6b4f..9485382099302fa5f7a8482c0330cd6945402eb1 100644
+index e4b133ffb3ed94e63d35e5e9089e0f0389652f06..2989313de4aa9e232aa86f236ee11167b17deb6f 100644
 --- a/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
 +++ b/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
-@@ -7,6 +7,6 @@ index edb213eeade27cf611a9f68099597cd5f8f44266..bad3250a6a7eae6bf60d7e125eb4e0e2
+@@ -578,8 +578,12 @@ index edb213eeade27cf611a9f68099597cd5f8f44266..d530e7c5443acf8a463835ef3b05a493
     replicas: 1,
     containerPort: 1055,
  -  manifestCode:
---    "service-system/cluster-services/pages/tailnet-egress/tailnet-egress.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +-    "infrastructure/networks/tailnet-egress/tailnet-egress.manifest.code.ts",
++=======
+ -    "service-system/cluster-services/pages/tailnet-egress/tailnet-egress.cluster-service.code.attachment.ts",
+ +<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
  +  manifestSlug: "tailnet-egress",
-  } as const satisfies ClusterService
+ +=======
+ +  manifestCode: "infrastructure/networks/tailnet-egress/tailnet-egress.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/tailnet-egress/tailnet-egress.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/tailnet-egress/tailnet-egress.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 868b6a456de322ed99e06725f82b3e1e6846e854..0000000000000000000000000000000000000000
@@ -570,18 +575,14 @@ index 868b6a456de322ed99e06725f82b3e1e6846e854..00000000000000000000000000000000
 -  ]
 -}
 diff --git a/service-system/cluster-services/pages/tailnet-egress/tailnet-egress.cluster-service.ts b/service-system/cluster-services/pages/tailnet-egress/tailnet-egress.cluster-service.ts
-index edb213eeade27cf611a9f68099597cd5f8f44266..d530e7c5443acf8a463835ef3b05a49343273713 100644
+index edb213eeade27cf611a9f68099597cd5f8f44266..bad3250a6a7eae6bf60d7e125eb4e0e225763364 100644
 --- a/service-system/cluster-services/pages/tailnet-egress/tailnet-egress.cluster-service.ts
 +++ b/service-system/cluster-services/pages/tailnet-egress/tailnet-egress.cluster-service.ts
-@@ -11,6 +11,9 @@ export const tailnetEgress = {
+@@ -11,6 +11,5 @@ export const tailnetEgress = {
    image: "tailscale/tailscale:v1.98.10",
    replicas: 1,
    containerPort: 1055,
 -  manifestCode:
 -    "service-system/cluster-services/pages/tailnet-egress/tailnet-egress.cluster-service.code.attachment.ts",
-+<<<<<<< what this change would leave
 +  manifestSlug: "tailnet-egress",
-+=======
-+  manifestCode: "infrastructure/networks/tailnet-egress/tailnet-egress.manifest.code.ts",
-+>>>>>>> what HEAD holds
  } as const satisfies ClusterService
