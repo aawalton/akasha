@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/job.domain.ts b/infrastructure/job.domain.ts
+index 6a6fd506133e2f2c474b230275993abb7861ea74..bf6bad33b8f134c364ce631dcc4827751f4ba927 100644
+--- a/infrastructure/job.domain.ts
++++ b/infrastructure/job.domain.ts
+@@ -9,7 +9,7 @@ export const job = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A job that fails leaves its object behind, and a later run succeeding does not remove it.",
++        "A job that fails leaves its object behind, and a later run succeeding does not remove that object.",
+     },
+   ],
+ } as const satisfies Domain
