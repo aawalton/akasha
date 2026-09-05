@@ -58,7 +58,7 @@ export const watcherConfigFile = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here works out what belongs in a block.",
+      statement: "Nothing here works out a block's contents.",
     },
   ],
 } as const satisfies Module
