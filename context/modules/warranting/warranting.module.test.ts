@@ -106,7 +106,7 @@ test("a path the record holds no reading of is refused", () => {
   expect(said[0]).toContain(NOT_READ)
 })
 
-test("a reading of the body standing now answers for it", () => {
+test("a reading of the body there now answers for it", () => {
   const root = rootWith()
   const oid = writing(root, PATH, "one\n")
   readAt(root, AGENT, PATH, oid)
@@ -137,7 +137,7 @@ test("a body read only in part is owed as read in part", () => {
   expect(said[0]).toContain(`akasha read --file-path ${PATH}`)
 })
 
-test("a reading whose mechanical id is the body standing now answers for it", () => {
+test("a reading whose mechanical id is the body there now answers for it", () => {
   const root = rootWith()
   const was = blobIdOf(new TextEncoder().encode("one\n"))
   const oid = writing(root, PATH, "two\n")
@@ -226,7 +226,7 @@ test("a call charged to no agent is refused whole", () => {
   expect(unreadIn(root, null, [PATH])).toEqual([NO_AGENT])
 })
 
-test("a call charged to no agent is refused even where nothing stands", () => {
+test("a call charged to no agent is refused even where nothing exists", () => {
   const root = rootWith()
   expect(unreadIn(root, null, ["akasha/thing/new.module.ts"])).toEqual([NO_AGENT])
 })
@@ -291,31 +291,31 @@ test("a root carrying no warrant hands back the paths handed in", () => {
   expect(warrantedIn(root, [A, B])).toEqual([A, B])
 })
 
-test("the page a seat owes from is the one standing at its id", () => {
+test("the page a seat owes from sits at its id", () => {
   const root = rootWith()
   pageFiled(root, AGENT, SEAT_AT)
   expect(seatPathOf(root, AGENT)).toBe(SEAT_AT)
 })
 
-test("a page standing at the id that is no seat is no seat", () => {
+test("a page sitting at the id that is no seat is no seat", () => {
   const root = rootWith()
   pageFiled(root, AGENT, PATH)
   expect(seatPathOf(root, AGENT)).toBe(null)
 })
 
-test("an id standing at no page is no seat", () => {
+test("an id sitting at no page is no seat", () => {
   const root = rootWith()
   pageFiled(root, OTHER, SEAT_AT)
   expect(seatPathOf(root, AGENT)).toBe(null)
 })
 
-test("an agent standing at no page owes nothing of one", () => {
+test("an agent sitting at no page owes nothing of one", () => {
   const root = rootWith()
   pageFiled(root, OTHER, SEAT_AT)
   expect(unheldIn(root, AGENT)).toEqual([])
 })
 
-test("the page a subagent owes from stands at its seat's name and the id it runs under", () => {
+test("the page a subagent owes from sits at its seat's name and the id it runs under", () => {
   const root = rootWith()
   pageFiled(root, AGENT, SEAT_AT)
   subaged(root, "one-suba", SUB_AT)
@@ -323,13 +323,13 @@ test("the page a subagent owes from stands at its seat's name and the id it runs
   expect(agentPathOf(root, UNDER)).toBe(SUB_AT)
 })
 
-test("a subagent whose seat stands at no page stands at none", () => {
+test("a subagent whose seat sits at no page sits at none", () => {
   const root = rootWith()
   subaged(root, "one-suba", SUB_AT)
   expect(subagentPathOf(root, UNDER)).toBe(null)
 })
 
-test("a subagent the index carries no page for stands at none", () => {
+test("a subagent the index carries no page for sits at none", () => {
   const root = rootWith()
   pageFiled(root, AGENT, SEAT_AT)
   expect(subagentPathOf(root, UNDER)).toBe(null)
@@ -351,7 +351,7 @@ test("a subagent owes what its own page names rather than what its seat's does",
   expect(said[0]).toContain(Y)
 })
 
-test("a subagent standing at no page owes nothing", () => {
+test("a subagent sitting at no page owes nothing", () => {
   const root = rootWith([{ slug: "chain", code: chainOf({ [SEAT_AT]: [X] }) }])
   pageFiled(root, AGENT, SEAT_AT)
   expect(unheldIn(root, UNDER)).toEqual([])

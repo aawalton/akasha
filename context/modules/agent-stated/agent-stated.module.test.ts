@@ -81,7 +81,7 @@ test("a seat whose body cannot be loaded states nothing", () => {
   expect(slugStated(root, path, "personaSlug")).toBe(null)
 })
 
-test("a seat standing nowhere states nothing", () => {
+test("a seat that is nowhere states nothing", () => {
   const root = scratch.rootFor("akasha-agent-stated-")
   expect(slugStated(root, "akasha/seat-system/seat/seats/gone.seat.ts", "personaSlug")).toBe(null)
 })

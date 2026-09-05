@@ -14,11 +14,11 @@ test("what a change adds is the lines the body did not already hold", () => {
   expect(addedIn("one\ntwo", "one\ntwo\nthree")).toBe("three")
 })
 
-test("a body left standing adds nothing", () => {
+test("a body left unchanged adds nothing", () => {
   expect(addedIn("one\ntwo", "one\ntwo")).toBe("")
 })
 
-test("a file that stood nowhere adds the whole of itself", () => {
+test("a file that was not there adds the whole of itself", () => {
   expect(addedIn("", "one\ntwo")).toBe("one\ntwo")
 })
 
@@ -26,7 +26,7 @@ test("a line moved rather than written is not added", () => {
   expect(addedIn("one\ntwo", "two\none")).toBe("")
 })
 
-test("a line written twice where it stood once is added once", () => {
+test("a line written twice where it was there once is added once", () => {
   expect(addedIn("one", "one\none")).toBe("one")
 })
 
@@ -112,7 +112,7 @@ test("a pattern that does not compile is reached neither way", () => {
   expect(reachOf("(unclosed", "anything at all")).toBe(null)
 })
 
-test("what is owed names every sense and what stands instead", () => {
+test("what is owed names every sense and what is written instead", () => {
   const said = owedOf(
     [
       { sense: "a gated command", instead: "command" },
