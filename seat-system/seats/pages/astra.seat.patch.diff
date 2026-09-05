@@ -1,0 +1,15 @@
+diff --git a/pages/ui/action-verbs/pages-ui-action-verbs.domain.ts b/pages/ui/action-verbs/pages-ui-action-verbs.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..51f18a3cd35f37fdc9ec8138fa5200ab2f47cc91
+--- /dev/null
++++ b/pages/ui/action-verbs/pages-ui-action-verbs.domain.ts
+@@ -0,0 +1,9 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesUiActionVerbs = {
++  id: "01a071ce-d674-7d9d-a3d0-a213b0a22dcf",
++  pageTypeSlug: "domain",
++  slug: "pages-ui-action-verbs",
++  definition: "a named act a page offers",
++  partSlugs: ["module/action-verb-registry"],
++} as const satisfies Domain
