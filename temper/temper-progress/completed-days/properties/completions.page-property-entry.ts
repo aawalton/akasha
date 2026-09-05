@@ -21,11 +21,11 @@ export const completions = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A line holds what is true of the completion rather than of the task.",
+      statement: "A line holds the facts true of the completion rather than of the task.",
     },
     {
       invariantKind: "departure",
-      statement: "What a task is called and how often a task comes round is read from the task.",
+      statement: "A task's name and how often a task comes round is read from the task.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +37,7 @@ export const completions = {
     },
     {
       invariantKind: "gap",
-      statement: "A line naming a task the tasks no longer hold loses what that task said.",
+      statement: "A line naming a task the tasks no longer hold loses the facts that task stated.",
     },
     {
       invariantKind: "gap",
