@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/library/book-of-everything/propaedia-outline/propaedia-outline.module.ts b/alan/library/book-of-everything/propaedia-outline/propaedia-outline.module.ts
+index 0f39c6b27dfbebf641092a007cd9d0861b82fd5d..7fb1c584adfda73c77823ff5264776b5acda3fd8 100644
+--- a/alan/library/book-of-everything/propaedia-outline/propaedia-outline.module.ts
++++ b/alan/library/book-of-everything/propaedia-outline/propaedia-outline.module.ts
+@@ -17,7 +17,7 @@ export const propaediaOutline = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "This outline is the shape what is on disk is measured against.",
++      statement: "This outline is the shape the files on disk are measured against.",
+     },
+   ],
+ } as const satisfies Module
