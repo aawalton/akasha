@@ -1,3 +1,15 @@
+diff --git a/code-system/code-system.workspace-package.ts b/code-system/code-system.workspace-package.ts
+index 4c1eb27ff6f8859514a8af3cef132bd159579140..6e07c9055a9e009e743ca640d42d78b36ec940be 100644
+--- a/code-system/code-system.workspace-package.ts
++++ b/code-system/code-system.workspace-package.ts
+@@ -22,6 +22,7 @@ export const codeSystem = {
+     "page-type/javascript-module",
+     "page-type/lua-module",
+     "page-type/lua-runtime-library",
++    "page-type/route",
+     "page-type/router-app",
+     "page-type/rust-crate",
+     "page-type/rust-module",
 diff --git a/code-system/routes/properties/route-code.file-property.ts b/code-system/routes/properties/route-code.file-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..a010559fe958079b0419459d6ad2eee0780977e0
