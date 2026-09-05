@@ -21,7 +21,7 @@ export const inferenceActivate = {
     },
     {
       invariantKind: "departure",
-      statement: "A name the cop does not carry is refused naming the ones it does.",
+      statement: "A name the cop does not carry is refused naming the ones the cop does.",
     },
     {
       invariantKind: "departure",
