@@ -61,6 +61,23 @@ index 43e00625d6ee03c01c8dcbba9ed35940d9bc391e..50c93f22b9017f374686df2d635dba14
  export function repositoryPath(repo: string): string {
    try {
      return fs.realpathSync(repo)
+diff --git a/editor-extension/seat-act-confirm/seat-act-confirm.module.code.ts b/editor-extension/seat-act-confirm/seat-act-confirm.module.code.ts
+index 9a4e1fb847a8ca276576c0d25842dab82a203763..35680d9b4a18da7c5ed0a94267324a65c105d00b 100644
+--- a/editor-extension/seat-act-confirm/seat-act-confirm.module.code.ts
++++ b/editor-extension/seat-act-confirm/seat-act-confirm.module.code.ts
+@@ -1,11 +1,6 @@
+ import type { SeatStep, SeatToggleState } from "../seat-toggles/seat-toggles.module.code.ts"
+ 
+-export type SeatAct =
+-  | "place-interactive"
+-  | "place-headless"
+-  | "run-stop"
+-  | "run-resume"
+-  | "run-reset"
++export type SeatAct = "run-stop" | "run-resume" | "run-reset"
+ 
+ export interface TurnLossPrompt {
+   readonly message: string
 diff --git a/editor-extension/seat-acts/seat-acts.module.code.ts b/editor-extension/seat-acts/seat-acts.module.code.ts
 index d69256318f8f3fb588470ac71f8ac64660f49566..9b72f7f90fd8eccd1b5174fec1806f9efb381800 100644
 --- a/editor-extension/seat-acts/seat-acts.module.code.ts
