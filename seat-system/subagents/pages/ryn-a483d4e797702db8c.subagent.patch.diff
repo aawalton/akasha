@@ -1,0 +1,16 @@
+diff --git a/migration-system/migration-system.workspace-package.ts b/migration-system/migration-system.workspace-package.ts
+index 4340ac2100397ca4fac570f80221d969ad967380..d856cbb752e15ba17be27f8c2596efc1686bb61b 100644
+--- a/migration-system/migration-system.workspace-package.ts
++++ b/migration-system/migration-system.workspace-package.ts
+@@ -151,10 +151,7 @@ export const migrationSystem = {
+       invariantKind: "absence",
+       statement: "Nothing here knows what page type an old page becomes.",
+     },
+-    {
+-      invariantKind: "constraint",
+-      statement: "Every body goes through the formatter as that body lands.",
+-    },
++
+     {
+       invariantKind: "constraint",
+       statement: "A folder of a thousand files costs a thousand formatter runs.",
