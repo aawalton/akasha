@@ -13,11 +13,12 @@ export const imageGeneration = {
     },
     {
       invariantKind: "departure",
-      statement: "What a model is loaded and sampled with is code rather than a page property.",
+      statement:
+        "The settings a model is loaded and sampled with are code rather than a page property.",
     },
     {
       invariantKind: "departure",
-      statement: "What a page holds is what was learned by generating with the model.",
+      statement: "A page holds the lessons learned by generating with the model.",
     },
   ],
 } as const satisfies Domain
