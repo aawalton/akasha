@@ -14,7 +14,8 @@ export const mappingGeneratorWrites = {
     },
     {
       invariantKind: "departure",
-      statement: "A row names the file it renders whole rather than a stem a suffix is added to.",
+      statement:
+        "A row names the file that row renders whole rather than a stem a suffix is added to.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +23,8 @@ export const mappingGeneratorWrites = {
     },
     {
       invariantKind: "departure",
-      statement: "A render that throws names the file it was rendering rather than failing alone.",
+      statement:
+        "A render that throws names the file that render was rendering rather than failing alone.",
     },
   ],
 } as const satisfies Module
