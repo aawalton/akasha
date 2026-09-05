@@ -12,7 +12,7 @@ index d23c8367fde7dffeaa050f71cfb600e7e8d9d563..c35e25798e6d305028cb21a5d41b9bda
    let done: Done
    try {
 diff --git a/code-system/code-lint/code-lint.module.test.ts b/code-system/code-lint/code-lint.module.test.ts
-index d551e912ac73851225686ff070de98a5fe6501cc..74eaa1f881b12cc629789c31201a4539ee253105 100644
+index d551e912ac73851225686ff070de98a5fe6501cc..8107a089ab19fac890df7b4c2e9c81c6a1a79ef7 100644
 --- a/code-system/code-lint/code-lint.module.test.ts
 +++ b/code-system/code-lint/code-lint.module.test.ts
 @@ -68,7 +68,7 @@ check("output holding no run that can be read answers nothing, never an empty ru
@@ -42,6 +42,27 @@ index d551e912ac73851225686ff070de98a5fe6501cc..74eaa1f881b12cc629789c31201a4539
    const root = repo({ "one.ts": UNUSED }, LINTING, false)
    const said = lintedOver(root, ["akasha"])
    expect(said.found).toEqual([])
+@@ -120,10 +120,13 @@ check("a root where no linter stands answers why it could not look, not that not
+   expect(said.failed).toContain("nothing was looked at")
+ })
+ 
+-check("a run writes nothing, so a file the formatter would have rewritten stands as it was", () => {
+-  const root = repo({ "one.ts": RAGGED }, FORMATTING, true)
+-  const said = lintedOver(root, ["akasha"])
+-  expect(said.found.length).toBe(1)
+-  expect(said.found[0]?.rule).toBe("format")
+-  expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe(RAGGED)
+-})
++check(
++  "a run writes nothing, so a file the formatter would have rewritten is left as it was",
++  () => {
++    const root = repo({ "one.ts": RAGGED }, FORMATTING, true)
++    const said = lintedOver(root, ["akasha"])
++    expect(said.found.length).toBe(1)
++    expect(said.found[0]?.rule).toBe("format")
++    expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe(RAGGED)
++  }
++)
 diff --git a/code-system/code-lint/code-lint.module.ts b/code-system/code-lint/code-lint.module.ts
 index 8d137d9378c3f65bf4de2463747a7a73764e2ec6..0b43352c36c2299965104f8e437b130f9ffbfc0b 100644
 --- a/code-system/code-lint/code-lint.module.ts
@@ -87,7 +108,7 @@ index 4b31a3b51b084ff5b990309a40553b13da35f682..03135216336e67a7ad948e1e9ab0a09e
  
    expect(boundAs(plain, "was", "now")).toBe("now")
 diff --git a/code-system/code-typing/code-typing.module.ts b/code-system/code-typing/code-typing.module.ts
-index e7f7db2817acaacd808b781eb48cc68b945392c3..53b85aa622e49f40dacc52f72f373f57dd466eab 100644
+index e7f7db2817acaacd808b781eb48cc68b945392c3..47b564968e0bf5c083249151fb9d0d8b72855a87 100644
 --- a/code-system/code-typing/code-typing.module.ts
 +++ b/code-system/code-typing/code-typing.module.ts
 @@ -19,7 +19,7 @@ export const codeTyping = {
@@ -108,12 +129,18 @@ index e7f7db2817acaacd808b781eb48cc68b945392c3..53b85aa622e49f40dacc52f72f373f57
      },
      {
        invariantKind: "departure",
-@@ -107,7 +107,7 @@ export const codeTyping = {
+@@ -107,12 +107,12 @@ export const codeTyping = {
      },
      {
        invariantKind: "departure",
 -      statement: "A name shadowing an imported one inside a scope is left as it stands.",
 +      statement: "A name shadowing an imported one inside a scope is left as it is.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "Renaming a binding a shorthand stood for states that binding rather than the key.",
++        "Renaming a binding a shorthand represented states that binding rather than the key.",
      },
      {
        invariantKind: "departure",
