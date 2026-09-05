@@ -30,10 +30,7 @@ export const monarchSync = {
       statement:
         "The run ends non-zero once every account has been tried, so one broken account costs its own rows rather than the whole night's.",
     },
-    {
-      invariantKind: "departure",
-      statement: "Only the full run speaks for rows older than the trusted window.",
-    },
+
     {
       invariantKind: "departure",
       statement: "Our copy is compared against Monarch after the landing rather than before.",
