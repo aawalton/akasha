@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/required-reading/required-reading.domain.ts b/required-reading/required-reading.domain.ts
-index bf81dd5e1293baa496e0323e528f38319d761b5e..578cb79222ebef88f63637d0d7db3def0c5d071f 100644
+index bf81dd5e1293baa496e0323e528f38319d761b5e..0e3d4c52773edb4fc3a89a60cbb3c573ac0b8e55 100644
 --- a/required-reading/required-reading.domain.ts
 +++ b/required-reading/required-reading.domain.ts
 @@ -8,7 +8,7 @@ export const requiredReading = {
@@ -27,3 +27,12 @@ index bf81dd5e1293baa496e0323e528f38319d761b5e..578cb79222ebef88f63637d0d7db3def
      },
      {
        invariantKind: "departure",
+@@ -64,7 +64,7 @@ export const requiredReading = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What a seat must read is worked out from what its page states rather than listed.",
++        "The reading a seat must do is worked out from the statements on its page rather than listed.",
+     },
+     {
+       invariantKind: "gap",
