@@ -313,29 +313,30 @@ index ab8455e15d79ba046c81d6abe474550ea8830d65..2d5c456da527177768f738aff582ed81
    ],
    "exclude": ["node_modules", "dist", "build"]
 diff --git a/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff b/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff
-index 069fa138cd1a6741f809b563153b932bc1933e4c..9e3fd4859b8a995ab17cec3c257ca80bc7c69134 100644
+index cfab93f2caf8423ab03114a47ef82ffb1e9a2019..da4fcc0598148de2ecbd1792ac1307054b783551 100644
 --- a/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff
 +++ b/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff
-@@ -26,6 +26,6 @@ index df7e8d08f15c220f112ed17808068dfdd21b564a..5ce068effe84bd186439beb822fca995
+@@ -332,8 +332,12 @@ index df7e8d08f15c220f112ed17808068dfdd21b564a..abc5164fc24c38b18eb43875ee7e5bc0
     image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
     replicas: 1,
     containerPort: 3000,
---  manifestCode: "audhdalan/audhdalan-web/audhdalan-web.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +-  manifestCode: "audhdalan/audhdalan-web/manifests/audhdalan-web-manifests.manifest.code.ts",
++=======
+ -  manifestCode: "audhdalan/audhdalan-web/audhdalan-web.cluster-service.code.attachment.ts",
+ +<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
  +  manifestSlug: "audhdalan-web-manifests",
-  } as const satisfies ClusterService
+ +=======
+ +  manifestCode: "audhdalan/audhdalan-web/manifests/audhdalan-web-manifests.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/audhdalan-web.cluster-service.ts b/service-system/cluster-services/pages/audhdalan-web.cluster-service.ts
-index df7e8d08f15c220f112ed17808068dfdd21b564a..abc5164fc24c38b18eb43875ee7e5bc095479c26 100644
+index df7e8d08f15c220f112ed17808068dfdd21b564a..5ce068effe84bd186439beb822fca9958f1773a3 100644
 --- a/service-system/cluster-services/pages/audhdalan-web.cluster-service.ts
 +++ b/service-system/cluster-services/pages/audhdalan-web.cluster-service.ts
-@@ -11,5 +11,9 @@ export const audhdalanWeb = {
+@@ -11,5 +11,5 @@ export const audhdalanWeb = {
    image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
    replicas: 1,
    containerPort: 3000,
 -  manifestCode: "audhdalan/audhdalan-web/audhdalan-web.cluster-service.code.attachment.ts",
-+<<<<<<< what this change would leave
 +  manifestSlug: "audhdalan-web-manifests",
-+=======
-+  manifestCode: "audhdalan/audhdalan-web/manifests/audhdalan-web-manifests.manifest.code.ts",
-+>>>>>>> what HEAD holds
  } as const satisfies ClusterService
