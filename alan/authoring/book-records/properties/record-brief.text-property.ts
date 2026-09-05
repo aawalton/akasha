@@ -17,7 +17,7 @@ export const recordBrief = {
     },
     {
       invariantKind: "departure",
-      statement: "A brief says what a record holds rather than repeating what the record says.",
+      statement: "A brief says the substance of a record rather than repeating the record's text.",
     },
   ],
 } as const satisfies TextProperty
