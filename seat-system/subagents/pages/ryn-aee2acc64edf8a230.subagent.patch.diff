@@ -46,3 +46,17 @@ index 8b1d44907caa914c6bf211bcec4cea9e165f4824..0116ab1322bf80accfffc805c0d3b1d4
      {
        invariantKind: "departure",
        statement:
+diff --git a/verdict/reading-channel/reading-channel.module.ts b/verdict/reading-channel/reading-channel.module.ts
+index c29680bfccb76db820e998134d415fdc050820ec..7d609d828cfc87a841702c8e464b5f17e08bf2e3 100644
+--- a/verdict/reading-channel/reading-channel.module.ts
++++ b/verdict/reading-channel/reading-channel.module.ts
+@@ -16,9 +16,5 @@ export const readingChannel = {
+       statement:
+         "A reading's findings are written where a person reads rather than where a caller parses.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A finding naming no place reads as unattributed.",
+-    },
+   ],
+ } as const satisfies Module
