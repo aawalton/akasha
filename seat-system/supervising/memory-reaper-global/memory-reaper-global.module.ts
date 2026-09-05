@@ -30,7 +30,8 @@ export const memoryReaperGlobal = {
     },
     {
       invariantKind: "departure",
-      statement: "The window resets the moment the leg reads clear rather than when it expires.",
+      statement:
+        "The window resets the moment the leg reads clear rather than when that window expires.",
     },
   ],
 } as const satisfies Module
