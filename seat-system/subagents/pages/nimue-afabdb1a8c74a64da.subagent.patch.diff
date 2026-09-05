@@ -662,6 +662,53 @@ index 2638abd220cff953e9b900528c46c742607566e6..3628e0bd7a33d58d5b25a6ee06b0265c
    if (query.descending === true) sorted.reverse()
    const from = offset ?? 0
    const taken = limit === undefined ? sorted.slice(from) : sorted.slice(from, from + limit)
+diff --git a/pages/system-service/page-asking/page-asking.module.test.ts b/pages/system-service/page-asking/page-asking.module.test.ts
+index ba8a3cf678c0b78abcb35a8bf9143517c448e31b..33dc8336e05512a0e966222e1107be3358118f8e 100644
+--- a/pages/system-service/page-asking/page-asking.module.test.ts
++++ b/pages/system-service/page-asking/page-asking.module.test.ts
+@@ -105,8 +105,40 @@ test("the values a page keeps beside it are answered in place of the extension",
+   expect(Array.isArray(cases) && cases[0]?.page).toBe("code-lint")
+ })
+ 
+-test("a page type no page is filed under is answered empty", () => {
+-  expect(rowsOf(asking(root, { pageTypeSlug: "service" }))).toEqual([])
++test("a page type nothing extends and no page is filed under is answered empty", () => {
++  expect(rowsOf(asking(root, { pageTypeSlug: "tracking-field" }))).toEqual([])
++})
++
++test("a page type extending the one named is answered too", () => {
++  const rows = rowsOf(asking(root, { pageTypeSlug: "collection", keys: ["pageTypeSlug"] }))
++  const said = new Set(rows.map((one) => one.pageTypeSlug))
++  expect(rows.length).toBeGreaterThan(1000)
++  expect(said.has("book")).toBe(true)
++  expect(said.has("song")).toBe(true)
++})
++
++test("a row carries the page type its own page states rather than the one named", () => {
++  const rows = rowsOf(asking(root, { pageTypeSlug: "collection", keys: ["pageTypeSlug"] }))
++  expect(rows.some((one) => one.pageTypeSlug === "collection")).toBe(false)
++})
++
++test("a page type nothing extends answers its own pages alone", () => {
++  const rows = rowsOf(asking(root, { pageTypeSlug: "invariant-kind", keys: ["pageTypeSlug"] }))
++  expect(rows.length).toBe(6)
++  for (const one of rows) expect(one.pageTypeSlug).toBe("invariant-kind")
++})
++
++test("a formula the page type named declares is worked out over a page of a type under it", () => {
++  const rows = rowsOf(
++    asking(root, {
++      pageTypeSlug: "collection",
++      where: { slug: { is: "a-thousand-li-the-first-step" } },
++      keys: ["pageTypeSlug", "ownLength", "ownProgress", "ownRemaining"],
++    })
++  )
++  expect(rows[0]?.pageTypeSlug).toBe("book")
++  expect(rows[0]?.ownLength).toBe(76750)
++  expect(rows[0]?.ownRemaining).toBe(0)
+ })
+ 
+ test("a name that is no page type is refused rather than answered empty", () => {
 diff --git a/pages/system-service/pages-system-service.workspace-package.ts b/pages/system-service/pages-system-service.workspace-package.ts
 index aa770427c2c12737ad63b16446248c601195f6ca..b44f6a5a38ee47c2f9bbfda3c44cb3bdd68a9754 100644
 --- a/pages/system-service/pages-system-service.workspace-package.ts
