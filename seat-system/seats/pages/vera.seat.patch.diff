@@ -1,0 +1,13 @@
+diff --git a/commands/remove/remove.command.test.ts b/commands/remove/remove.command.test.ts
+index 9fe7ce0f5c34fb346bde45f33352bfbe6045b9ba..8ae589052303be7b676d3db1ed1ad2776b3df97e 100644
+--- a/commands/remove/remove.command.test.ts
++++ b/commands/remove/remove.command.test.ts
+@@ -241,7 +241,7 @@ test("a directory named opens onto every file git holds under it", async () => {
+   expect((await removing(root, naming("temper/one"))).refusals).toEqual([])
+   expect(git(root, ["ls-files"]).trim()).toBe(HELD)
+   expect(there(root, "temper/one")).toBe(false)
+-  expect(there(root, "temper")).toBe(true)
++  expect(there(root, "temper")).toBe(false)
+ })
+ 
+ test("a folder at the top of the repository is refused, and so is a path inside .git", async () => {
