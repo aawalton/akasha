@@ -52,10 +52,10 @@ index 5b4a37bc7f02ed187a9baee4713ff8e069abe64b..8f8ffcb302c422b18e8ac058f279fc9f
      {
        invariantKind: "absence",
 diff --git a/alan/harness/monarch/report/monarch-report.module.ts b/alan/harness/monarch/report/monarch-report.module.ts
-index fa64b81d0e43ee998f954adc49d55638e0462ce8..c19a3a1fc07c059798a066328df72cc862877bc2 100644
+index fa64b81d0e43ee998f954adc49d55638e0462ce8..978c721bbd2c5e2f268de57c9f88f83c493928b6 100644
 --- a/alan/harness/monarch/report/monarch-report.module.ts
 +++ b/alan/harness/monarch/report/monarch-report.module.ts
-@@ -19,12 +19,12 @@ export const monarchReport = {
+@@ -19,17 +19,17 @@ export const monarchReport = {
      {
        invariantKind: "departure",
        statement:
@@ -67,6 +67,12 @@ index fa64b81d0e43ee998f954adc49d55638e0462ce8..c19a3a1fc07c059798a066328df72cc8
        statement:
 -        "A disagreement inside the window is shown in full, because those are the ones worth arguing about.",
 +        "A disagreement inside the window is shown in full, because those disagreements are the ones worth arguing about.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A reserving rule is reported by what category already stands on what it caught, grouped by the bank's own words, because that is where one merchant carrying two kinds of money shows.",
++        "A reserving rule is reported by what category already stands on what it caught, grouped by the bank's own words, because that grouping is where one merchant carrying two kinds of money shows.",
      },
      {
        invariantKind: "departure",
