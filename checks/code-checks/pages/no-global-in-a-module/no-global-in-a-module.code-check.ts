@@ -42,10 +42,6 @@ export const noGlobalInAModule = {
         "A module already carrying a block is refused the next time that module is touched.",
     },
     {
-      invariantKind: "departure",
-      statement: "That refusal is the ratchet working rather than the check misfiring.",
-    },
-    {
       invariantKind: "absence",
       statement: "No module is kept as permitted.",
     },
