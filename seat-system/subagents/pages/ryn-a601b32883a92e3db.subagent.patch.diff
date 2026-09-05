@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/cluster-checks/modules/ast-grep-configs/ast-grep-configs.module.ts b/checks/cluster-checks/modules/ast-grep-configs/ast-grep-configs.module.ts
+index 84a9daf28068f5970015c187e651274a0f9e585c..c14d50113ee6f6a4def058ae8df78f92838d01ae 100644
+--- a/checks/cluster-checks/modules/ast-grep-configs/ast-grep-configs.module.ts
++++ b/checks/cluster-checks/modules/ast-grep-configs/ast-grep-configs.module.ts
+@@ -10,7 +10,7 @@ export const astGrepConfigs = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A rule directory is read relative to the sgconfig naming it.",
++      statement: "A rule directory is read relative to the sgconfig naming that directory.",
+     },
+     {
+       invariantKind: "departure",
