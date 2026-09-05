@@ -1,8 +1,9 @@
 import { expect, test } from "bun:test"
 import type { Identifying } from "@akasha/pages-system/page-type-properties"
+import type { Value } from "@akasha/pages-system/page-value"
 import type { Identifier } from "../entries/index-entries.module.code.ts"
-import { A } from "../entries/index-entries.module.test-fixtures.ts"
-import { identityIn } from "./index-identity.index.code.ts"
+import { A, B, C } from "../entries/index-entries.module.test-fixtures.ts"
+import { filedIn, identityIn, partingIn } from "./index-identity.index.code.ts"
 
 function identifying(held: Record<string, ReadonlyMap<string, Identifier>>): Identifying {
   return (pageTypeSlug) => held[pageTypeSlug] ?? new Map<string, Identifier>()
@@ -14,6 +15,30 @@ const BOTH = new Map<string, Identifier>([
 ])
 
 const UNIQUE = identifying({ domain: BOTH, module: BOTH })
+
+const WITHIN = new Map<string, Identifier>([["slug", { key: "slug", reach: "part-of" }]])
+
+const PARTED = identifying({ collection: WITHIN, route: WITHIN })
+
+const HOME: Value = { id: A, pageTypeSlug: "route", slug: "home" }
+
+const HOME_AT = "/repo/home.route.ts"
+
+const HOME_LINE = `{"path":"home.route.ts","id":"${A}"}`
+
+const WEB: Value = {
+  id: B,
+  pageTypeSlug: "router-app",
+  slug: "alan-web",
+  partSlugs: ["route/about", "route/home"],
+}
+
+const MOBILE: Value = {
+  id: C,
+  pageTypeSlug: "router-app",
+  slug: "alan-mobile",
+  partSlugs: ["route/home"],
+}
 
 test("a value carrying its two identifiers is filed under its id and under its page type and slug", () => {
   const value = { id: A, pageTypeSlug: "domain", slug: "a" }
@@ -83,5 +108,63 @@ test("only the identifiers named are filed where a set narrows them", () => {
 
   expect(identityIn(value, "/repo/a.domain.ts", "/repo", UNIQUE, new Set(["slug"]))).toEqual([
     { at: "identity/domain/slug/a.jsonl", line },
+  ])
+})
+
+test("a page naming the collections it is part of is filed under each of them", () => {
+  const value = {
+    id: A,
+    pageTypeSlug: "collection",
+    slug: "gorillaz",
+    partOfSlugs: ["artists", "music"],
+  }
+  const line = `{"path":"gorillaz.collection.ts","id":"${A}"}`
+
+  expect(identityIn(value, "/repo/gorillaz.collection.ts", "/repo", PARTED)).toEqual([
+    { at: "identity/artists/slug/gorillaz.jsonl", line },
+    { at: "identity/music/slug/gorillaz.jsonl", line },
+  ])
+})
+
+test("a page part of nothing is filed under no scope of the `part-of` reach", () => {
+  expect(identityIn(HOME, HOME_AT, "/repo", PARTED, null, partingIn([HOME]))).toEqual([])
+})
+
+test("a page another page names in its `partSlugs` is filed under that page's slug", () => {
+  expect(identityIn(HOME, HOME_AT, "/repo", PARTED, null, partingIn([HOME, WEB]))).toEqual([
+    { at: "identity/alan-web/slug/home.jsonl", line: HOME_LINE },
+  ])
+})
+
+test("a page two pages name in their `partSlugs` is filed under each of them", () => {
+  expect(identityIn(HOME, HOME_AT, "/repo", PARTED, null, partingIn([HOME, WEB, MOBILE]))).toEqual([
+    { at: "identity/alan-web/slug/home.jsonl", line: HOME_LINE },
+    { at: "identity/alan-mobile/slug/home.jsonl", line: HOME_LINE },
+  ])
+})
+
+test("a name carrying a page type reaches a page of that page type alone", () => {
+  const other: Value = {
+    id: B,
+    pageTypeSlug: "router-app",
+    slug: "alan-web",
+    partSlugs: ["page-type/home"],
+  }
+
+  expect(identityIn(HOME, HOME_AT, "/repo", PARTED, null, partingIn([HOME, other]))).toEqual([])
+})
+
+test("a page both naming a collection and named by another page is filed under both", () => {
+  const value: Value = { ...HOME, partOfSlugs: ["artists"] }
+
+  expect(identityIn(value, HOME_AT, "/repo", PARTED, null, partingIn([value, WEB]))).toEqual([
+    { at: "identity/artists/slug/home.jsonl", line: HOME_LINE },
+    { at: "identity/alan-web/slug/home.jsonl", line: HOME_LINE },
+  ])
+})
+
+test("what a page is filed under carries the scope, the property and the value", () => {
+  expect(filedIn(HOME, PARTED, null, partingIn([HOME, WEB]))).toEqual([
+    { scope: "alan-web", propertySlug: "slug", said: "home" },
   ])
 })

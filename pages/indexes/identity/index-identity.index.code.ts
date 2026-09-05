@@ -18,15 +18,65 @@ const PAGE = "page"
 
 const PART_OF_SLUGS = "partOfSlugs"
 
+const PART_SLUGS = "partSlugs"
+
+const QUALIFIES = "/"
+
+export type PartOf = (value: Value) => readonly string[]
+
 function slugIn(address: string): string {
-  const at = address.lastIndexOf("/")
+  const at = address.lastIndexOf(QUALIFIES)
   return at === -1 ? address : address.slice(at + 1)
+}
+
+export const partOfStated: PartOf = (value) => (textsAt(value, PART_OF_SLUGS) ?? []).map(slugIn)
+
+function noting(held: Map<string, string[]>, named: string, slug: string): undefined {
+  const found = held.get(named)
+  if (found === undefined) held.set(named, [slug])
+  else if (!found.includes(slug)) found.push(slug)
+}
+
+function namingIn(
+  value: Value,
+  qualified: ReadonlyMap<string, readonly string[]>,
+  bare: ReadonlyMap<string, readonly string[]>
+): readonly string[] {
+  const slug = textAt(value, "slug")
+  const pageTypeSlug = textAt(value, "pageTypeSlug")
+  const id = textAt(value, "id")
+  const found: string[] = []
+  if (slug !== null && pageTypeSlug !== null) {
+    found.push(...(qualified.get(`${pageTypeSlug}${QUALIFIES}${slug}`) ?? []))
+  }
+  if (slug !== null) found.push(...(bare.get(slug) ?? []))
+  if (id !== null) found.push(...(bare.get(id) ?? []))
+  return found
+}
+
+export function partingIn(values: Iterable<Value>): PartOf {
+  const qualified = new Map<string, string[]>()
+  const bare = new Map<string, string[]>()
+  for (const value of values) {
+    const slug = textAt(value, "slug")
+    if (slug === null) continue
+    for (const named of textsAt(value, PART_SLUGS) ?? []) {
+      noting(named.includes(QUALIFIES) ? qualified : bare, named, slug)
+    }
+  }
+  return (value) => {
+    const found = [...partOfStated(value)]
+    for (const one of namingIn(value, qualified, bare)) {
+      if (!found.includes(one)) found.push(one)
+    }
+    return found
+  }
 }
 
 function scopesFor(reach: string, value: Value, pageTypeSlug: string): readonly string[] {
   if (reach === ALWAYS) return [PAGE]
   if (reach === PAGE_TYPE) return [pageTypeSlug]
-  if (reach === PART_OF) return (textsAt(value, PART_OF_SLUGS) ?? []).map(slugIn)
+  if (reach === PART_OF) return partOfStated(value)
   throw new Error(`\`${reach}\` is no reach a page is filed under`)
 }
 
@@ -39,7 +89,8 @@ export type Filed = {
 export function filedIn(
   value: Value,
   identifying: Identifying,
-  only: ReadonlySet<string> | null = null
+  only: ReadonlySet<string> | null = null,
+  partOf: PartOf = partOfStated
 ): readonly Filed[] {
   const id = textAt(value, "id")
   const slug = textAt(value, "slug")
@@ -63,12 +114,13 @@ export function identityIn(
   path: string,
   repo: string,
   identifying: Identifying,
-  only: ReadonlySet<string> | null = null
+  only: ReadonlySet<string> | null = null,
+  partOf: PartOf = partOfStated
 ): readonly Entry[] {
   const id = textAt(value, "id")
   if (id === null) return []
   const line = JSON.stringify({ path: under(repo, path), id })
-  return filedIn(value, identifying, only).map((one) => ({
+  return filedIn(value, identifying, only, partOf).map((one) => ({
     at: join(IDENTITY, one.scope, one.propertySlug, `${one.said}${ENDING}`),
     line,
   }))
