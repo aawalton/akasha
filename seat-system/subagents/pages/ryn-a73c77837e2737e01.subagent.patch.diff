@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/manifest-locking/manifest-locking.module.ts b/command-system/manifest-locking/manifest-locking.module.ts
-index 55cf6af022ae59be7ad9d740d8aa0761deaace6c..f1a3ae17523fbb49e90d2ce810014e8813a2cbab 100644
+index 55cf6af022ae59be7ad9d740d8aa0761deaace6c..04f3e37d3592c2ada7d04e11286a61ec5b5f6a71 100644
 --- a/command-system/manifest-locking/manifest-locking.module.ts
 +++ b/command-system/manifest-locking/manifest-locking.module.ts
 @@ -67,7 +67,8 @@ export const manifestLocking = {
@@ -10,6 +10,15 @@ index 55cf6af022ae59be7ad9d740d8aa0761deaace6c..f1a3ae17523fbb49e90d2ce810014e88
 -      statement: "A landing carrying a manifest installs the checkout onto the commit it landed.",
 +      statement:
 +        "A landing carrying a manifest installs the checkout onto the commit that landing landed.",
+     },
+     {
+       invariantKind: "departure",
+@@ -80,7 +81,7 @@ export const manifestLocking = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "An install that fails leaves the commit made and says the tree reaches nothing until it runs.",
++        "A failed install leaves the commit made and says the tree reaches nothing until that install runs.",
      },
      {
        invariantKind: "departure",
