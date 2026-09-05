@@ -47,7 +47,7 @@ export const exerciseMobilityLog = {
     },
     {
       invariantKind: "absence",
-      statement: "A reading names no session it was taken in.",
+      statement: "A reading names no session that reading was taken in.",
     },
   ],
 } as const satisfies Command
