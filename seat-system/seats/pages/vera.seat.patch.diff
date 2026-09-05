@@ -47,3 +47,16 @@ index 7fd039f889b3232228314bcbb0af7f7fea4bcf12..ceaf5cf5c684f5f653e6c44635cdbeab
    claim:
      "`collection` declares the unit a length is counted in and declares no length, so every kind of collection that measures itself has to define a length property of its own.",
    evidence:
+diff --git a/domains/findings/pages/six-thousand-collections-sit-in-sidecars-that-collection-system-was-built-to-hold.finding.ts b/domains/findings/pages/six-thousand-collections-sit-in-sidecars-that-collection-system-was-built-to-hold.finding.ts
+index c290693ba672619a089830fb737622d7336b94f3..d044c99febcee19964d702bfe4c5d1e5d72ed9c8 100644
+--- a/domains/findings/pages/six-thousand-collections-sit-in-sidecars-that-collection-system-was-built-to-hold.finding.ts
++++ b/domains/findings/pages/six-thousand-collections-sit-in-sidecars-that-collection-system-was-built-to-hold.finding.ts
+@@ -4,7 +4,7 @@ export const sixThousandCollectionsSitInSidecarsThatCollectionSystemWasBuiltToHo
+   id: "01a0657f-0c53-7002-9a9a-88f0ed0cb960",
+   pageTypeSlug: "finding",
+   slug: "six-thousand-collections-sit-in-sidecars-that-collection-system-was-built-to-hold",
+-  domainSlug: "domain/collection-system",
++  domainSlug: "page-type/collection",
+   claim:
+     "The 32 `collection-type` pages are in akasha and the 6,104 collections they gather are not. Those records stand in 23 `.collections.jsonl` files still under `pages/collection-type/`, and their fields already match the properties `collection` and `collection-external` declare, key for key. They were deliberately left in place rather than migrated, because the collection-system lane was landing against those same properties while this ran.",
+   evidence:
