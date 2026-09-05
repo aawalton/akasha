@@ -1,8 +1,8 @@
 diff --git a/commands/ios-app/ios-app.command.code.ts b/commands/ios-app/ios-app.command.code.ts
-index c2cdc36b4531d6916b6b0865c967ef6f63bb1054..4451a38374c8b2ebc79d04336c66c3987295de81 100644
+index c2cdc36b4531d6916b6b0865c967ef6f63bb1054..5bea663a6a9ede938a8a7d84065ccfdf9a1ba82c 100644
 --- a/commands/ios-app/ios-app.command.code.ts
 +++ b/commands/ios-app/ios-app.command.code.ts
-@@ -169,7 +169,7 @@ export function iosApp(argv: readonly string[], given: Given): Answer {
+@@ -169,14 +169,14 @@ export function iosApp(argv: readonly string[], given: Given): Answer {
          code: 3,
        }
      }
@@ -11,6 +11,14 @@ index c2cdc36b4531d6916b6b0865c967ef6f63bb1054..4451a38374c8b2ebc79d04336c66c398
    }
    const stamp = stampOf(given.root, plan)
    if (stamp === null) {
+     return {
+       report,
+       refusals: [
+-        `the commit ${given.root} stands at could not be read, and a build stamped with nothing cannot be told from a stale one`,
++        `the commit ${given.root} is at could not be read, and a build stamped with nothing cannot be told from a stale one`,
+       ],
+       code: 3,
+     }
 diff --git a/commands/ios-app/ios-app.command.test.ts b/commands/ios-app/ios-app.command.test.ts
 index 3ea880d441858d60b655abd22fb96c0f1c440062..810b5d5d51396a6168c7aec26cf6736a292701d8 100644
 --- a/commands/ios-app/ios-app.command.test.ts
@@ -38,7 +46,7 @@ index a0f2e1ee69fc756a888c558c485a591677b0e2bd..4a80877ccef56131f4a49b62c66abe61
    ],
  } as const satisfies Command
 diff --git a/commands/test/test.command.code.ts b/commands/test/test.command.code.ts
-index ca444a0ceb1a80089ac2d90bec2747abb7a5b7eb..3b53b8591a32f69a3873c93b0d34a7b00db8fafd 100644
+index ca444a0ceb1a80089ac2d90bec2747abb7a5b7eb..47ae8a257c7b819c9112fca205523b494069f504 100644
 --- a/commands/test/test.command.code.ts
 +++ b/commands/test/test.command.code.ts
 @@ -47,7 +47,7 @@ export function aiming(paths: readonly string[], given: Given): Aimed {
@@ -50,6 +58,15 @@ index ca444a0ceb1a80089ac2d90bec2747abb7a5b7eb..3b53b8591a32f69a3873c93b0d34a7b0
        continue
      }
      if (!existsSync(absolute)) {
+@@ -71,7 +71,7 @@ export function bounded(output: string): readonly string[] {
+   const kept = textIn(bytes.subarray(dropped))
+   return [
+     `the first ${dropped} bytes of this run are not here — one answer holds ${ANSWER_CEILING}, and ` +
+-      "the end is where the summary stands. Name fewer paths to see the rest.",
++      "the end is where the summary is. Name fewer paths to see the rest.",
+     ...kept.split("\n").slice(1),
+   ]
+ }
 diff --git a/commands/test/test.command.test.ts b/commands/test/test.command.test.ts
 index bd8bc33f03e92e58172176e4c6c248a2694ec845..d74e6602287fbde106231b91174e8a77f0359f4b 100644
 --- a/commands/test/test.command.test.ts
@@ -77,7 +94,7 @@ index 4c0ebf8f7b1b2a63ba41c6b107bca231f9eac028..7ba438689aab2f1b542d9cfd1cf5eb98
      {
        invariantKind: "absence",
 diff --git a/commands/typecheck/typecheck.command.code.ts b/commands/typecheck/typecheck.command.code.ts
-index 51424d2ee6fe0f306318f7996f4780961219a6e1..9b784cc0e69f56129d7453bc394795a8fdedd49d 100644
+index 51424d2ee6fe0f306318f7996f4780961219a6e1..40641659ddc50bcca08d4a53754254506176e9a8 100644
 --- a/commands/typecheck/typecheck.command.code.ts
 +++ b/commands/typecheck/typecheck.command.code.ts
 @@ -115,7 +115,7 @@ function seededOf(files: readonly string[], found: ReadonlyMap<string, number>):
@@ -89,6 +106,15 @@ index 51424d2ee6fe0f306318f7996f4780961219a6e1..9b784cc0e69f56129d7453bc394795a8
    return { report, refusals, code: refusals.length === 0 ? 0 : 3 }
  }
  
+@@ -139,7 +139,7 @@ export function typecheck(argv: readonly string[], given: Given): Answer {
+   if (files.length === 0) {
+     return {
+       report: [],
+-      refusals: [`no file the folder compiles stands under \`${aimed.named.join("`, `")}\``],
++      refusals: [`no file the folder compiles sits under \`${aimed.named.join("`, `")}\``],
+       code: 1,
+     }
+   }
 diff --git a/commands/typecheck/typecheck.command.test.ts b/commands/typecheck/typecheck.command.test.ts
 index 374d73adb90aeef7644fb37fe6a02999ad4e1624..4f4b5da103ad7e8162673672f9215806056411e3 100644
 --- a/commands/typecheck/typecheck.command.test.ts
