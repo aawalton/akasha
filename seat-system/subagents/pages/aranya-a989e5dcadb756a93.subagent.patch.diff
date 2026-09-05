@@ -1,0 +1,273 @@
+diff --git a/infrastructure/k8s-synth/package.json b/infrastructure/k8s-synth/package.json
+index fb618ce8a03cabb635d4ae083dbe4f58ca9e56e4..b5d44ac72dd2ad06bff6f11c99e1bcddfaa7924d 100644
+--- a/infrastructure/k8s-synth/package.json
++++ b/infrastructure/k8s-synth/package.json
+@@ -8,6 +8,7 @@
+     "./synth-loading": "./synth-loading/synth-loading.module.code.ts"
+   },
+   "dependencies": {
++    "@akasha/indexes": "workspace:*",
+     "zod": "^4.3.6"
+   }
+ }
+diff --git a/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.code.ts b/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.code.ts
+index b7a213464be866e875b3d306f2cd2530df04ddbf..84f05eaea5528d441a026fa6d97e7eede888e31b 100644
+--- a/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.code.ts
++++ b/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.code.ts
+@@ -1,4 +1,5 @@
+-import { join } from "node:path"
++import { isAbsolute, join, relative } from "node:path"
++import { valuesOfType } from "@akasha/indexes"
+ 
+ export const DISCOVERY_GLOBS: readonly string[] = [
+   "**/*.cluster-service.code.attachment.ts",
+@@ -6,6 +7,20 @@ export const DISCOVERY_GLOBS: readonly string[] = [
+   "infrastructure/upscale/*-synth/*-synth.module.code.ts",
+ ]
+ 
++const CLUSTER_SERVICE = "cluster-service"
++
++const MANIFEST = "manifest"
++
++const MANIFEST_SLUG = "manifestSlug"
++
++const SLUG = "slug"
++
++const PAGE_ENDING = ".ts"
++
++const CODE_ENDING = ".code.ts"
++
++const MANIFEST_CODE_ENDING = `.${MANIFEST}${CODE_ENDING}`
++
+ const NON_IDENTIFIER_COMPONENTS: ReadonlySet<string> = new Set(["k8s", "deploy", "src", "synth.ts"])
+ 
+ const K8S_SOURCE_ROOT = "infra/k8s/src/"
+@@ -19,6 +34,7 @@ const SYNTH_GLOBS: readonly Bun.Glob[] = DISCOVERY_GLOBS.map((pattern) => new Bu
+ 
+ export function isSynthPath(relPath: string): boolean {
+   if (reachedThroughSrc(relPath)) return false
++  if (relPath.endsWith(MANIFEST_CODE_ENDING)) return true
+   return SYNTH_GLOBS.some((glob) => glob.match(relPath))
+ }
+ 
+@@ -30,18 +46,50 @@ export function pathHasComponent(relPath: string, target: string): boolean {
+   return false
+ }
+ 
++function textIn(value: unknown, key: string): string | null {
++  if (value === null || typeof value !== "object" || Array.isArray(value)) return null
++  const held = (value as Record<string, unknown>)[key]
++  return typeof held === "string" ? held : null
++}
++
++function codeBeside(repoRoot: string, pagePath: string): string | null {
++  if (!pagePath.endsWith(PAGE_ENDING)) return null
++  const beside = `${pagePath.slice(0, -PAGE_ENDING.length)}${CODE_ENDING}`
++  return isAbsolute(beside) ? relative(repoRoot, beside) : beside
++}
++
++export function appliedManifestPaths(repoRoot: string): readonly string[] {
++  const codeOfSlug = new Map<string, string>()
++  for (const one of valuesOfType(repoRoot, MANIFEST)) {
++    const slug = textIn(one.value, SLUG)
++    if (slug === null || codeOfSlug.has(slug)) continue
++    const at = codeBeside(repoRoot, one.path)
++    if (at !== null) codeOfSlug.set(slug, at)
++  }
++  const found: string[] = []
++  for (const one of valuesOfType(repoRoot, CLUSTER_SERVICE)) {
++    const named = textIn(one.value, MANIFEST_SLUG)
++    if (named === null) continue
++    const at = codeOfSlug.get(named)
++    if (at !== undefined) found.push(at)
++  }
++  return found
++}
++
+ export function discoverSynthFiles(
+   repoRoot: string,
+   pkgFilter?: string | undefined
+ ): readonly string[] {
+   const matches = new Set<string>()
++  const taking = (rel: string): undefined => {
++    if (reachedThroughSrc(rel)) return
++    if (pkgFilter !== undefined && !pathHasComponent(rel, pkgFilter)) return
++    matches.add(join(repoRoot, rel))
++  }
+   for (const pattern of DISCOVERY_GLOBS) {
+     const glob = new Bun.Glob(pattern)
+-    for (const rel of glob.scanSync({ cwd: repoRoot, onlyFiles: true })) {
+-      if (reachedThroughSrc(rel)) continue
+-      if (pkgFilter !== undefined && !pathHasComponent(rel, pkgFilter)) continue
+-      matches.add(join(repoRoot, rel))
+-    }
++    for (const rel of glob.scanSync({ cwd: repoRoot, onlyFiles: true })) taking(rel)
+   }
++  for (const rel of appliedManifestPaths(repoRoot)) taking(rel)
+   return [...matches].sort()
+ }
+diff --git a/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.test.ts b/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5d13a46e479963ffc9b724be64e4c38c9a3aeeb1
+--- /dev/null
++++ b/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.test.ts
+@@ -0,0 +1,124 @@
++import { afterAll, beforeAll, expect, test } from "bun:test"
++import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
++import { tmpdir } from "node:os"
++import { dirname, join } from "node:path"
++import {
++  appliedManifestPaths,
++  discoverSynthFiles,
++  isSynthPath,
++} from "./synth-discovery.module.code.ts"
++
++const VALUE_AT = ".git/data/index/value"
++
++const MANIFESTS: readonly (readonly [string, string])[] = [
++  ["alpha/gamma/gamma.manifest.ts", "gamma"],
++  ["beta/delta/delta.manifest.ts", "delta"],
++  ["alpha/src/hidden/hidden.manifest.ts", "hidden"],
++  ["alpha/lone/lone.manifest.ts", "lone"],
++]
++
++const SERVICES: readonly (readonly [string, string | null])[] = [
++  ["alpha/one/one.cluster-service.ts", "gamma"],
++  ["beta/two/two.cluster-service.ts", "delta"],
++  ["alpha/three/three.cluster-service.ts", "hidden"],
++  ["alpha/four/four.cluster-service.ts", null],
++  ["alpha/five/five.cluster-service.ts", "no-such-manifest"],
++]
++
++const ATTACHMENTS: readonly string[] = [
++  "alpha/one.cluster-service.code.attachment.ts",
++  "beta/two.cluster-service.code.attachment.ts",
++  "beta/src/three.cluster-service.code.attachment.ts",
++]
++
++let root = ""
++
++function put(rel: string, body: string): undefined {
++  const at = join(root, rel)
++  mkdirSync(dirname(at), { recursive: true })
++  writeFileSync(at, body)
++}
++
++function filed(name: string, lines: readonly unknown[]): undefined {
++  put(`${VALUE_AT}/${name}.jsonl`, lines.map((one) => `${JSON.stringify(one)}\n`).join(""))
++}
++
++function found(pkgFilter?: string): readonly string[] {
++  return discoverSynthFiles(root, pkgFilter).map((one) => one.slice(root.length + 1))
++}
++
++beforeAll(() => {
++  root = mkdtempSync(join(tmpdir(), "synth-discovery-"))
++  for (const rel of ATTACHMENTS) put(rel, "export default () => []\n")
++  for (const [path] of MANIFESTS)
++    put(path.replace(/\.ts$/, ".code.ts"), "export default () => []\n")
++  filed(
++    "manifest",
++    MANIFESTS.map(([path, slug]) => ({ path, value: { pageTypeSlug: "manifest", slug } }))
++  )
++  filed(
++    "cluster-service",
++    SERVICES.map(([path, named]) => ({
++      path,
++      value:
++        named === null
++          ? { pageTypeSlug: "cluster-service" }
++          : { pageTypeSlug: "cluster-service", manifestSlug: named },
++    }))
++  )
++})
++
++afterAll(() => {
++  rmSync(root, { recursive: true, force: true })
++})
++
++test("the code file of the manifest a cluster service is applied as is found", () => {
++  expect(found()).toContain("alpha/gamma/gamma.manifest.code.ts")
++  expect(found()).toContain("beta/delta/delta.manifest.code.ts")
++})
++
++test("a file the globs match is found still", () => {
++  expect(found()).toContain("alpha/one.cluster-service.code.attachment.ts")
++  expect(found()).toContain("beta/two.cluster-service.code.attachment.ts")
++})
++
++test("a path reached through a `src` folder is left out of both sources", () => {
++  expect(found()).not.toContain("alpha/src/hidden/hidden.manifest.code.ts")
++  expect(found()).not.toContain("beta/src/three.cluster-service.code.attachment.ts")
++})
++
++test("a package filter narrows both sources", () => {
++  expect(found("alpha")).toEqual([
++    "alpha/gamma/gamma.manifest.code.ts",
++    "alpha/one.cluster-service.code.attachment.ts",
++  ])
++})
++
++test("a manifest no cluster service is applied as is left out", () => {
++  expect(found()).not.toContain("alpha/lone/lone.manifest.code.ts")
++})
++
++test("a cluster service naming no manifest adds nothing", () => {
++  expect(appliedManifestPaths(root)).toHaveLength(3)
++})
++
++test("a manifest slug naming no manifest page is left out", () => {
++  expect(appliedManifestPaths(root).join(" ")).not.toContain("no-such-manifest")
++})
++
++test("the answer is sorted and holds each path once", () => {
++  const all = found()
++  expect([...all].sort()).toEqual([...all])
++  expect(new Set(all).size).toBe(all.length)
++})
++
++test("a manifest code path reads as a synth path", () => {
++  expect(isSynthPath("alpha/gamma/gamma.manifest.code.ts")).toBe(true)
++  expect(isSynthPath("alpha/src/hidden/hidden.manifest.code.ts")).toBe(false)
++  expect(isSynthPath("alpha/gamma/gamma.manifest.ts")).toBe(false)
++})
++
++test("a glob path reads as a synth path still", () => {
++  expect(isSynthPath("alpha/one.cluster-service.code.attachment.ts")).toBe(true)
++  expect(isSynthPath("beta/src/three.cluster-service.code.attachment.ts")).toBe(false)
++})
+diff --git a/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.ts b/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.ts
+index 35399e98dc0a2216ea1ad771edc166725c38e245..fa560e583013b7d87f18f87c784ef8ea6d5cadc4 100644
+--- a/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.ts
++++ b/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.ts
+@@ -6,6 +6,7 @@ export const synthDiscovery = {
+   slug: "synth-discovery",
+   definition: "the synth files a checkout holds",
+   code: "ts",
++  test: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+@@ -15,5 +16,22 @@ export const synthDiscovery = {
+       invariantKind: "departure",
+       statement: "A path component naming a folder every synth sits under names no package.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The code file of the manifest a cluster service is applied as is a synth file.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Which cluster services those are is read from the index rather than from a glob.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A cluster service naming no manifest adds no synth file.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A manifest slug naming no manifest page is left out rather than refusing the answer.",
++    },
+   ],
+ } as const satisfies Module
