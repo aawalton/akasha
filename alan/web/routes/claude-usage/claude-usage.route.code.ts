@@ -1,8 +1,8 @@
 import type { Asked, Query, Row } from "@akasha/pages-system-service/asking"
 import { askingFor } from "@akasha/pages-system-service/calling"
 import { READOUT_CACHE_CONTROL } from "@akasha/readout-system/readout-credential"
-import { guardReadout } from "../.server/readout-guarding/readout-guarding.module.code.ts"
-import type { Route } from "./+types/api.claude-usage"
+import { guardReadout } from "../../.server/readout-guarding/readout-guarding.module.code.ts"
+import type { Route } from "./+types/claude-usage.route.code"
 
 export type UsageTier = "red" | "yellow" | "green" | "blue"
 

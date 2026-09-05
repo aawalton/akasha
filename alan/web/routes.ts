@@ -23,7 +23,7 @@ export default [
   route("api/pages-ready", "routes/api.pages-ready.ts"),
   route("api/live-version", "routes/api.live-version.ts"),
   route("api/errors", "routes/api.errors.ts"),
-  route("api/claude-usage", "routes/api.claude-usage.ts"),
+  route("api/claude-usage", "routes/claude-usage/claude-usage.route.code.ts"),
   route("api/inbox-stoplights", "routes/api.inbox-stoplights.ts"),
   route("api/habit-stoplights", "routes/api.habit-stoplights.ts"),
   route("api/attribute-stoplights", "attribute-stoplights/attribute-stoplights.module.code.ts"),
