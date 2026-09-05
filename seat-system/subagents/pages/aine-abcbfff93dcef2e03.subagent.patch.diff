@@ -12,15 +12,20 @@ index 9d6fc1789bd7bdab9011a1d43ee279e11a76d11a..bcd37649359fa9e9fc05ad20ccf5f020
    }
    const bare = said.loose[0]
 diff --git a/mobile-commands/mobile-answering/mobile-answering.module.ts b/mobile-commands/mobile-answering/mobile-answering.module.ts
-index dc78153acca10a2a0bad9ffcd15ea7d09d560ecf..750592e4ab3409c8f464ef7a1a9436b9bb3a0664 100644
+index dc78153acca10a2a0bad9ffcd15ea7d09d560ecf..f140fce92a1c812d65e983626e5acfacd03d950c 100644
 --- a/mobile-commands/mobile-answering/mobile-answering.module.ts
 +++ b/mobile-commands/mobile-answering/mobile-answering.module.ts
-@@ -25,7 +25,7 @@ export const mobileAnswering = {
+@@ -25,11 +25,11 @@ export const mobileAnswering = {
      },
      {
        invariantKind: "departure",
 -      statement: "A bare word stands for the flag a command says it stands for.",
 +      statement: "A bare word represents the flag a command says it represents.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A bare word is refused where the flag it stands for was also named.",
++      statement: "A bare word is refused where the flag it represents was also named.",
      },
      {
        invariantKind: "departure",
@@ -38,10 +43,10 @@ index 83266ca31ab7c6715852b1368e0caf427f0ee72a..1083fad1d3c548165aac39cbccdc95df
      {
        invariantKind: "gap",
 diff --git a/mobile-commands/mobile-deploy-device/mobile-deploy-device.command.ts b/mobile-commands/mobile-deploy-device/mobile-deploy-device.command.ts
-index 6b29725f10ff684362ae749b89a1b6d271cff34d..a144dc0b82c5b2f88a796620fdbccae30abc214e 100644
+index 6b29725f10ff684362ae749b89a1b6d271cff34d..cafe21a2e08d113605e23d7e9eb79e6bfc90253e 100644
 --- a/mobile-commands/mobile-deploy-device/mobile-deploy-device.command.ts
 +++ b/mobile-commands/mobile-deploy-device/mobile-deploy-device.command.ts
-@@ -16,7 +16,8 @@ export const mobileDeployDevice = {
+@@ -16,14 +16,15 @@ export const mobileDeployDevice = {
      { said: "--configuration <name>", takes: "the Xcode configuration, Debug where none is said" },
      {
        said: "--no-sync",
@@ -51,11 +56,19 @@ index 6b29725f10ff684362ae749b89a1b6d271cff34d..a144dc0b82c5b2f88a796620fdbccae3
      },
    ],
    helpNotes: [
+     "this is the path onto a phone that is plugged into the mac, and TestFlight is the path onto every other phone.",
+     "an app whose page names no phone is refused rather than installed to whichever phone is there.",
+     "the mac checks out origin/main before it builds, so the install carries what is on main rather than what is here.",
+-    "the sync runs by default so the build reflects the site and the config as they stand.",
++    "the sync runs by default so the build reflects the site and the config as they are.",
+     "the signed app is checked to carry the app's bundle id and the app's team before it is installed.",
+     "nothing is said until the build has finished, because a command prints nothing itself.",
+     "the mac's login keychain is unlocked from `MACBOOK_KEYCHAIN_PASSWORD`, and a call without it is refused.",
 diff --git a/mobile-commands/mobile-sim-eval/mobile-sim-eval.command.ts b/mobile-commands/mobile-sim-eval/mobile-sim-eval.command.ts
-index 4229bbb9b3fdd087ee390bb2a03085dd327eb5f5..2e3d73e25b2e63aae48ea77ac7a633fa2a694d85 100644
+index 4229bbb9b3fdd087ee390bb2a03085dd327eb5f5..146537c21269e483b65974e3f5f82ac32838c516 100644
 --- a/mobile-commands/mobile-sim-eval/mobile-sim-eval.command.ts
 +++ b/mobile-commands/mobile-sim-eval/mobile-sim-eval.command.ts
-@@ -9,7 +9,7 @@ export const mobileSimEval = {
+@@ -9,14 +9,14 @@ export const mobileSimEval = {
    code: "ts",
    changeKindSlug: "change-none",
    taking: [
@@ -64,6 +77,14 @@ index 4229bbb9b3fdd087ee390bb2a03085dd327eb5f5..2e3d73e25b2e63aae48ea77ac7a633fa
      { said: "--script <js>", takes: "the script to run, which returns what is to come back" },
      { said: "--script -", takes: "the script to run, read from what is piped in" },
    ],
+   helpNotes: [
+     "the script has to `return` what is wanted, since a script returning nothing comes back as nothing.",
+     "a script too long to sit on a call is piped in and named `-`, and the bare word cannot say that.",
+-    "the session already standing is what this runs in, so `mobile sim open-url` comes first.",
++    "the session already there is what this runs in, so `mobile sim open-url` comes first.",
+     "the webview is attached to before the script runs, so a session sitting in the native context still answers.",
+     "what comes back is given as JSON, whatever shape it is.",
+     "this is how a reading a page only shows on screen is taken, the keyboard-geometry counters among them.",
 diff --git a/mobile-commands/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.ts b/mobile-commands/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.ts
 index e132f01f8b64275a40b9c815eda4fb3faca14114..4c93f2c382cafbc6b3abb4b3998edb6ea219c007 100644
 --- a/mobile-commands/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.ts
@@ -78,10 +99,10 @@ index e132f01f8b64275a40b9c815eda4fb3faca14114..4c93f2c382cafbc6b3abb4b3998edb6e
    ],
    invariants: [
 diff --git a/mobile-commands/mobile-sim-open-url/mobile-sim-open-url.command.ts b/mobile-commands/mobile-sim-open-url/mobile-sim-open-url.command.ts
-index 4c6ceee694fdc972ca61245acbe1f1b1af8f0928..59cb34617342311ff591e2ece98fcf66fe799a05 100644
+index 4c6ceee694fdc972ca61245acbe1f1b1af8f0928..3b72454be51e7c51c77da85638361cbbc1c56451 100644
 --- a/mobile-commands/mobile-sim-open-url/mobile-sim-open-url.command.ts
 +++ b/mobile-commands/mobile-sim-open-url/mobile-sim-open-url.command.ts
-@@ -4,7 +4,7 @@ export const mobileSimOpenUrl = {
+@@ -4,11 +4,11 @@ export const mobileSimOpenUrl = {
    id: "01a0685d-ceae-7009-892c-425eee9c835b",
    pageTypeSlug: "command",
    slug: "mobile-sim-open-url",
@@ -90,6 +111,11 @@ index 4c6ceee694fdc972ca61245acbe1f1b1af8f0928..59cb34617342311ff591e2ece98fcf66
    code: "ts",
    changeKindSlug: "change-none",
    taking: [
+-    { said: "<path>", takes: "the route to open, standing for `--route`" },
++    { said: "<path>", takes: "the route to open, representing `--route`" },
+     { said: "--route <path>", takes: "the route to open, such as `/home` or a page's own path" },
+     { said: "--app <slug>", takes: "the app to open it in, the default app where none is said" },
+     { said: "--kb-debug", takes: "mount the keyboard-geometry readout over the block editor" },
 diff --git a/mobile-commands/mobile-sim-push-tap/mobile-sim-push-tap.command.ts b/mobile-commands/mobile-sim-push-tap/mobile-sim-push-tap.command.ts
 index d85a954fbbd7bd1296fae7ae4ddeec9eaba963f7..d75567a7294020ae20755a4e840b6506fa6364e0 100644
 --- a/mobile-commands/mobile-sim-push-tap/mobile-sim-push-tap.command.ts
@@ -104,18 +130,21 @@ index d85a954fbbd7bd1296fae7ae4ddeec9eaba963f7..d75567a7294020ae20755a4e840b6506
      { said: "--app <slug>", takes: "the app the push is for, the default app where none is said" },
      {
 diff --git a/mobile-commands/mobile-sim-screenshot/mobile-sim-screenshot.command.ts b/mobile-commands/mobile-sim-screenshot/mobile-sim-screenshot.command.ts
-index 196aaa1778102ae88ff707229a123dfe0eb59a0d..3c8949c7ee9f1790a290db63329ebc4e03998a8b 100644
+index 196aaa1778102ae88ff707229a123dfe0eb59a0d..bad1cb05a1b88315fb53fdff97449db3691a5930 100644
 --- a/mobile-commands/mobile-sim-screenshot/mobile-sim-screenshot.command.ts
 +++ b/mobile-commands/mobile-sim-screenshot/mobile-sim-screenshot.command.ts
-@@ -16,7 +16,7 @@ export const mobileSimScreenshot = {
+@@ -16,9 +16,9 @@ export const mobileSimScreenshot = {
    ],
    helpNotes: [
      "the path is answered so that whatever called this can read the picture itself.",
 -    "the session already standing is what is pictured, so `mobile sim open-url` comes first.",
 +    "the session already there is what is pictured, so `mobile sim open-url` comes first.",
      "the picture is of the whole screen rather than of the webview alone.",
-     "a path said is taken as it stands, and a folder that is not there is not made here.",
+-    "a path said is taken as it stands, and a folder that is not there is not made here.",
++    "a path said is taken as it is, and a folder that is not there is not made here.",
    ],
+   invariants: [
+     {
 diff --git a/mobile-commands/mobile-sim-status/mobile-sim-status.command.code.ts b/mobile-commands/mobile-sim-status/mobile-sim-status.command.code.ts
 index b7f9377c99d02eaa9870d09c3415d0207f4316de..36f100ebf2dd47847db15657b5a75a0b27501210 100644
 --- a/mobile-commands/mobile-sim-status/mobile-sim-status.command.code.ts
@@ -130,10 +159,10 @@ index b7f9377c99d02eaa9870d09c3415d0207f4316de..36f100ebf2dd47847db15657b5a75a0b
      ])
    }
 diff --git a/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts b/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
-index eca29f51ccd2df8a0361932e0cdb8755e94eeebe..d9a43efe5e4f18ac61a6bb2f0ea0247b4f8fb9e3 100644
+index eca29f51ccd2df8a0361932e0cdb8755e94eeebe..9a7f0dc323b8dfe055ee2464f5e5b3b53707f3fb 100644
 --- a/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
 +++ b/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
-@@ -4,7 +4,7 @@ export const mobileSimStatus = {
+@@ -4,12 +4,12 @@ export const mobileSimStatus = {
    id: "01a0685d-ceae-700c-9489-e7e3a1062803",
    pageTypeSlug: "command",
    slug: "mobile-sim-status",
@@ -142,6 +171,12 @@ index eca29f51ccd2df8a0361932e0cdb8755e94eeebe..d9a43efe5e4f18ac61a6bb2f0ea0247b
    code: "ts",
    changeKindSlug: "change-none",
    taking: [],
+   helpNotes: [
+-    "no session standing is an answer rather than a refusal, and it says which calls would start one.",
++    "no session there is an answer rather than a refusal, and it says which calls would start one.",
+     "the session is asked whether it is live rather than believed from what is written down.",
+     "a session written down that Appium no longer holds is said to be dead rather than repaired here.",
+     "the age is measured from when the session was opened against the moment this was called.",
 diff --git a/mobile-commands/mobile-sim-tap/mobile-sim-tap.command.ts b/mobile-commands/mobile-sim-tap/mobile-sim-tap.command.ts
 index ac0826a4518a65f379d8887c3a521613be4b7271..7dab8842f34db641bb1522d7f6d0777f28524e93 100644
 --- a/mobile-commands/mobile-sim-tap/mobile-sim-tap.command.ts
@@ -169,7 +204,7 @@ index 0611346a9c1cdd643f00f76dd40f85832a9ddb0f..ce6e791d033efeda0a91c64fe1dc6f1a
      try {
        await deleteSession(state.appiumBase, state.sessionId)
 diff --git a/mobile-commands/mobile-sim-teardown/mobile-sim-teardown.command.ts b/mobile-commands/mobile-sim-teardown/mobile-sim-teardown.command.ts
-index 0e9ae0b8b11e0289eaf2f5dc989cc2329a9e1c4c..3792381ced7a3cddad9e3e1c13bade4d31d3d4b5 100644
+index 0e9ae0b8b11e0289eaf2f5dc989cc2329a9e1c4c..16d40ef2c41978d541ba850e409e38109489c9b4 100644
 --- a/mobile-commands/mobile-sim-teardown/mobile-sim-teardown.command.ts
 +++ b/mobile-commands/mobile-sim-teardown/mobile-sim-teardown.command.ts
 @@ -4,7 +4,7 @@ export const mobileSimTeardown = {
@@ -181,6 +216,15 @@ index 0e9ae0b8b11e0289eaf2f5dc989cc2329a9e1c4c..3792381ced7a3cddad9e3e1c13bade4d
    code: "ts",
    changeKindSlug: "change-none",
    taking: [
+@@ -13,7 +13,7 @@ export const mobileSimTeardown = {
+   helpNotes: [
+     "the Appium server is left running by default, since something driving the simulator by hand may be using it.",
+     "a session Appium has already dropped is forgotten here rather than treated as a failure.",
+-    "no session standing is nothing to end rather than a refusal.",
++    "no session there is nothing to end rather than a refusal.",
+     "the simulator itself is left booted, and `mobile sim boot` finds it again.",
+   ],
+   invariants: [
 diff --git a/mobile-commands/mobile-sim-type/mobile-sim-type.command.ts b/mobile-commands/mobile-sim-type/mobile-sim-type.command.ts
 index a065e13c072047f236b5921c45ecfeda4dfed551..eb84c76fef3158c0c76b42d29c30cdb61556e512 100644
 --- a/mobile-commands/mobile-sim-type/mobile-sim-type.command.ts
