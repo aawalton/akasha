@@ -99,8 +99,11 @@ export const monarchEval = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What a call cost is read back off the call rather than derived from a rate card this repo would have to keep current.",
+      statement: "A call's cost is read back off the call rather than derived from a rate card.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No rate card is kept here.",
     },
     {
       invariantKind: "departure",
@@ -113,9 +116,13 @@ export const monarchEval = {
         "Nothing on a transaction records who set its category, so a row Monarch's own categorizer set reads identically to one Jenny chose.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement:
-        "A split's category belongs to a part of the transaction rather than to the whole, so what the agent is shown underdescribes what was categorized.",
+        "A split's category belongs to a part of the transaction rather than to the whole.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The transaction an agent is shown underdescribes the split categorized.",
     },
   ],
   directives: [
