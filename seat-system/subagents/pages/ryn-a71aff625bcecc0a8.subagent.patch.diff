@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/subagent-census/subagent-census.module.ts b/seat-system/subagent-census/subagent-census.module.ts
+index f36543c7c97370f1432116515f6f9cfcedb4a4ef..aadb01a2034f0468a7ec14e7eb946e25396002c6 100644
+--- a/seat-system/subagent-census/subagent-census.module.ts
++++ b/seat-system/subagent-census/subagent-census.module.ts
+@@ -88,7 +88,8 @@ export const subagentCensus = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The census names the seat, the agent id, what answers, and why, for every page.",
++      statement:
++        "The census names the seat, the agent id, the processes answering, and why, for every page.",
+     },
+     {
+       invariantKind: "absence",
