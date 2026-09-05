@@ -21,7 +21,7 @@ export const imessageContacts = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A name is matched whatever the case it was said in.",
+      statement: "A name is matched whatever the case that name was said in.",
     },
     {
       invariantKind: "departure",
