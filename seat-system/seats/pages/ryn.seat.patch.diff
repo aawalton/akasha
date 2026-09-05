@@ -1,0 +1,13 @@
+diff --git a/commands/move/parenting/move-parenting.module.ts b/commands/move/parenting/move-parenting.module.ts
+index 2bdc3bfa4716fc0e8f9e7a27eb6b777ee805fa2a..5387116dad5b2ee8eebeaaa0000a230909683c09 100644
+--- a/commands/move/parenting/move-parenting.module.ts
++++ b/commands/move/parenting/move-parenting.module.ts
+@@ -38,7 +38,7 @@ export const moveParenting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page left under the parent it has is named in the answer with why.",
++      statement: "A page left under the parent that page has is named in the answer with why.",
+     },
+     {
+       invariantKind: "departure",
