@@ -25,7 +25,7 @@ export const shapePattern = {
     },
     {
       invariantKind: "departure",
-      statement: "What a pair of backticks holds is blanked before a pattern is read.",
+      statement: "The text a pair of backticks holds is blanked before a pattern is read.",
     },
     {
       invariantKind: "departure",
