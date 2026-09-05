@@ -39,7 +39,7 @@ export const routerApp = {
     },
     {
       invariantKind: "departure",
-      statement: "A route is reached by what the table names rather than by its own file name.",
+      statement: "A route is reached by the path the table names rather than by its own file name.",
     },
     {
       invariantKind: "departure",
@@ -47,8 +47,7 @@ export const routerApp = {
     },
     {
       invariantKind: "constraint",
-      statement:
-        "The tsconfig naming a fixed name is what gives that name the package's path mappings.",
+      statement: "The tsconfig naming a fixed name gives that name the package's path mappings.",
     },
   ],
 } as const satisfies PageType
