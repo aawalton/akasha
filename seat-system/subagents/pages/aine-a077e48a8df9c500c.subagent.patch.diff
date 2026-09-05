@@ -96,3 +96,75 @@ index 79d9e3e92db916e16ac7d4aaa89314e864fa8f16..44305d8bbc852ca26edae2b22bb04cb8
 +  definition: "the path a node is at under its parent",
    code: "ts",
  } as const satisfies Module
+diff --git a/design/primitives/avatar/avatar.module.ts b/design/primitives/avatar/avatar.module.ts
+index dea2a8beca4174f66ded175439998d22ca2d8075..1a7bf9bdae35e50317e491b1350d2102fd60b84f 100644
+--- a/design/primitives/avatar/avatar.module.ts
++++ b/design/primitives/avatar/avatar.module.ts
+@@ -4,6 +4,6 @@ export const avatar = {
+   id: "01a05be9-d4c2-7882-989a-df828c0e79b6",
+   pageTypeSlug: "module",
+   slug: "avatar",
+-  definition: "a small round image standing for a person, with initials when the image is absent",
++  definition: "a small round image representing a person, with initials when the image is absent",
+   code: "tsx",
+ } as const satisfies Module
+diff --git a/design/primitives/breadcrumb/breadcrumb.module.ts b/design/primitives/breadcrumb/breadcrumb.module.ts
+index 39dbb18d37f693b6bb81bfd83996ecda9a2a6686..c1f21c6f716e27e7d2560ef8fc3db794f57da4f6 100644
+--- a/design/primitives/breadcrumb/breadcrumb.module.ts
++++ b/design/primitives/breadcrumb/breadcrumb.module.ts
+@@ -4,6 +4,6 @@ export const breadcrumb = {
+   id: "01a05be9-d4c2-76d2-8857-1cef195c270b",
+   pageTypeSlug: "module",
+   slug: "breadcrumb",
+-  definition: "the trail of links back up from where the reader stands",
++  definition: "the trail of links back up from where the reader is",
+   code: "tsx",
+ } as const satisfies Module
+diff --git a/design/primitives/context-menu/context-menu.module.ts b/design/primitives/context-menu/context-menu.module.ts
+index 3898913aa9fb32b0549ebb5ddbbf5adfb9f3f435..bfd8908ca2f4a61b10c7cab81bbb731977fd7af1 100644
+--- a/design/primitives/context-menu/context-menu.module.ts
++++ b/design/primitives/context-menu/context-menu.module.ts
+@@ -4,6 +4,6 @@ export const contextMenu = {
+   id: "01a05be9-d4c2-74f9-af3f-8713eb18c0f9",
+   pageTypeSlug: "module",
+   slug: "context-menu",
+-  definition: "the menu a right click opens where the pointer stands",
++  definition: "the menu a right click opens where the pointer is",
+   code: "tsx",
+ } as const satisfies Module
+diff --git a/design/primitives/label/label.module.ts b/design/primitives/label/label.module.ts
+index 6a32e9476232d9b74324b2bc23cedffdfcb406e1..95986cb425ab19b6ba022eadf197072b31d12a42 100644
+--- a/design/primitives/label/label.module.ts
++++ b/design/primitives/label/label.module.ts
+@@ -4,6 +4,6 @@ export const label = {
+   id: "01a05be9-d4c3-75cb-b814-5714c24c3bc3",
+   pageTypeSlug: "module",
+   slug: "label",
+-  definition: "the text naming the control it stands beside",
++  definition: "the text naming the control it sits beside",
+   code: "tsx",
+ } as const satisfies Module
+diff --git a/design/primitives/skeleton/skeleton.module.ts b/design/primitives/skeleton/skeleton.module.ts
+index 95bf5bc9c99cb4a05e7038d92a2346d3717ea0ad..8563b967b777e4849d7b843c1ce92b6dbac23463 100644
+--- a/design/primitives/skeleton/skeleton.module.ts
++++ b/design/primitives/skeleton/skeleton.module.ts
+@@ -4,6 +4,6 @@ export const skeleton = {
+   id: "01a05be9-d4c4-79bb-9b53-4a122e985104",
+   pageTypeSlug: "module",
+   slug: "skeleton",
+-  definition: "the grey block standing where content has not arrived",
++  definition: "the grey block sitting where content has not arrived",
+   code: "tsx",
+ } as const satisfies Module
+diff --git a/design/primitives/use-keyboard-registry/use-keyboard-registry.module.ts b/design/primitives/use-keyboard-registry/use-keyboard-registry.module.ts
+index 050465c5f62017e8d48bd099c1541e9fc0e54f7c..19ae87a38b7e70cca2aaf1a05e73467b35e34d6f 100644
+--- a/design/primitives/use-keyboard-registry/use-keyboard-registry.module.ts
++++ b/design/primitives/use-keyboard-registry/use-keyboard-registry.module.ts
+@@ -4,6 +4,6 @@ export const useKeyboardRegistry = {
+   id: "01a05be9-d4c6-794f-bc18-b6e64a9862a9",
+   pageTypeSlug: "module",
+   slug: "use-keyboard-registry",
+-  definition: "binding a key to an action and reading every binding that stands",
++  definition: "binding a key to an action and reading every binding there is",
+   code: "ts",
+ } as const satisfies Module
