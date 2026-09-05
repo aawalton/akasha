@@ -6,7 +6,18 @@ import { refusalFor, refusalIn, SCOPE } from "./block-destructive-git.agent-hook
 
 const SCRIPT = join(import.meta.dir, "block-destructive-git.agent-hook.code.ts")
 
-const ACTS = ["stash", "reset", "rebase", "checkout", "restore", "clean", "rm"]
+const ACTS = [
+  "stash",
+  "reset",
+  "rebase",
+  "checkout",
+  "restore",
+  "clean",
+  "rm",
+  "update-index",
+  "checkout-index",
+  "read-tree",
+]
 
 test("every act it names is refused on its own", () => {
   for (const act of ACTS) {
@@ -27,16 +38,38 @@ test("a refusal says what the call would destroy", () => {
   expect(refusalIn("git stash")).toContain("takes every uncommitted change")
 })
 
-test("a refusal over a body says how to get that body before it says to write it", () => {
+test("a refusal over a body names `akasha restore` with its flag filled in", () => {
   const said = refusalIn("git checkout -- akasha/one.ts") ?? ""
-  expect(said).toContain("git show HEAD:<path> > <body>")
-  expect(said.indexOf("git show HEAD:")).toBeLessThan(said.indexOf("akasha write"))
+  expect(said).toContain("akasha restore --file-path <path>")
+  expect(said).toContain("commits nothing, and runs no check")
+  expect(said).toContain("A path HEAD does not hold is refused rather than deleted.")
 })
 
-test("a refusal over a body names a route inside akasha and a route outside it", () => {
+test("a refusal over a body names no route this repository refuses", () => {
   const said = refusalIn("git checkout -- akasha/one.ts") ?? ""
-  expect(said).toContain("under `akasha/`:  akasha write")
-  expect(said).toContain("anywhere else:    cp <body> <path>")
+  expect(said).not.toContain("git show HEAD:")
+  expect(said).not.toContain("cp <body> <path>")
+  expect(said).not.toContain("akasha write")
+})
+
+test("each plumbing act writing the tree or the index is refused, and names akasha restore", () => {
+  for (const command of [
+    "git update-index --cacheinfo 100644,abc123,akasha/one.ts",
+    "git checkout-index -a -f",
+    "git read-tree -u HEAD",
+  ]) {
+    const said = refusalIn(command) ?? ""
+    expect(said).toContain("block-destructive-git refused this call.")
+    expect(said).toContain("akasha restore --file-path <path>")
+  }
+})
+
+test("each plumbing act says what the call would write over", () => {
+  expect(refusalIn("git update-index --refresh")).toContain(
+    "writes the git index over what another agent staged"
+  )
+  expect(refusalIn("git checkout-index -a")).toContain("writes the working tree from the index")
+  expect(refusalIn("git read-tree --empty")).toContain("writes the git index from a tree")
 })
 
 test("a refusal over a body says the worktree is shared, not that the file is akasha's", () => {
@@ -52,11 +85,9 @@ test("a refusal over a deletion names a route inside akasha and a route outside 
   expect(said).toContain("This worktree is shared")
 })
 
-test("a refusal names no flag of its own, and sends the reader to the help", () => {
-  for (const command of ["git rm one.ts", "git checkout -- one.ts", "git commit --amend"]) {
-    const said = refusalIn(command) ?? ""
-    expect(said).toContain("Say `akasha --help` for what each takes.")
-    expect(said).not.toContain("--file-path <path>")
+test("a refusal naming more than one route sends the reader to the help", () => {
+  for (const command of ["git rm one.ts", "git commit --amend"]) {
+    expect(refusalIn(command)).toContain("Say `akasha --help` for what each takes.")
   }
 })
 
@@ -78,7 +109,7 @@ test("an amend is refused, and a plain commit is not this hook's business", () =
 
 test("an amend refusal names the command that lands another commit", () => {
   expect(refusalIn("git commit --amend")).toContain(
-    "To change what a commit says, land another one with `akasha write`."
+    "To change what a commit says, draft another with `akasha write` and `akasha patch apply`."
   )
 })
 
@@ -220,7 +251,14 @@ test("the scope says what it does not reach, and refuses to be extended", () => 
   expect(said).toContain("is NOT a finding that it is safe")
   expect(said).toContain("a longer list is a longer search prompt")
   expect(said).toContain("git worktree remove --force")
-  expect(said).toContain("git checkout-index")
+  expect(said).toContain("git update-ref")
+})
+
+test("the scope names the three plumbing acts, and where `git apply` is refused", () => {
+  const said = SCOPE.join("\n")
+  expect(said).toContain("update-index checkout-index read-tree")
+  expect(said).toContain("`akasha restore` answers")
+  expect(said).toContain("`git apply -R` is refused there rather than here")
 })
 
 test("the scope says every push is refused, what answers instead, and what it misses", () => {

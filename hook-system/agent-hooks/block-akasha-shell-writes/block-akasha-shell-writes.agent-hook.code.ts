@@ -247,8 +247,10 @@ function road(shown: string): readonly string[] {
     `  akasha read --file-path ${shown}`,
     `  akasha write --file-path ${shown} --content-file <body> --message "<what this is for>"`,
     `  akasha remove --file-path ${shown} --message "<why this goes>"`,
+    `  akasha restore --file-path ${shown}`,
     "",
     "Write the body anywhere outside `akasha/` first — a shell write there is not refused.",
+    "A restore puts the path back as HEAD holds it, and is the route for undoing drift.",
   ]
 }
 
