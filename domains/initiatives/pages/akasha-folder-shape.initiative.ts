@@ -28,6 +28,11 @@ export const akashaFolderShape = {
         "`identifier-names-one-page` is the only guard, and it runs on a patch alone: `runsOnWorktree`, `runsOnDeploy` and `runsOnAudit` are all false. `akasha replace` and `akasha remove` land as `change-mechanical` and are judged by no check at all, which is the path a bulk migration takes. Measured clean today: no second line in any of the 70040 id files, nor in any file under a `slug` key.",
     },
     {
+      statement: "No relation property's name ends in `slug`.",
+      workingMemory:
+        "121 relation properties, and 90 are named `<x>-slug` or `<x>-slugs`. The types say it too: `PartOfSlugs = List<Slug>`. Every one of those names goes false as its value becomes an address. One property at a time rather than one landing: a mechanical change is judged by no check, and `akasha replace` is the only tool at this scale. `page-type-slug` and `part-of-slugs` reach the most pages, so they go last, once a small one has shown what the rename costs.",
+    },
+    {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
         "`akasha audit --check folder-matches-a-shape` answers 961 refusals over 120410 files, and one answer holds what fits in 28000 bytes, so the list is worked lex-ordered in tranches. That narrowed run costs 1.5 GB and 12 seconds, and adding `--file-path` brings it to 0.6 GB and 3 seconds, so a fix is measured where it lands rather than batched. A whole audit is the run that costs 21 GB and eight minutes.",
