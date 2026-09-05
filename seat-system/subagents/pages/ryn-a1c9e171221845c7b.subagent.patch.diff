@@ -1,0 +1,14 @@
+diff --git a/temper/temper-characters-capture-addon/character-capture-codec-constants/character-capture-codec-constants.module.ts b/temper/temper-characters-capture-addon/character-capture-codec-constants/character-capture-codec-constants.module.ts
+index 2f48b8520cb476d2e5755d6d809b9cd4420fb03b..a23eb43b45299299d2a813eea0fc9af12fad1a52 100644
+--- a/temper/temper-characters-capture-addon/character-capture-codec-constants/character-capture-codec-constants.module.ts
++++ b/temper/temper-characters-capture-addon/character-capture-codec-constants/character-capture-codec-constants.module.ts
+@@ -11,9 +11,5 @@ export const characterCaptureCodecConstants = {
+       invariantKind: "constraint",
+       statement: "A place in this table is the number a saved build hash carries.",
+     },
+-    {
+-      invariantKind: "gap",
+-      statement: "An entry moved to another place misreads every build hash already saved.",
+-    },
+   ],
+ } as const satisfies Module
