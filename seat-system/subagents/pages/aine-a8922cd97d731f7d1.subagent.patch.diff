@@ -12,7 +12,7 @@ index 27ed47328c6011b04e2b776438583d9acff5a9a2..ca1d148c9c00f899b3d5c72218b1b345
      process.exit(2)
    }
 diff --git a/checks/cluster-checks/pages/checksum-annotation-substitution/checksum-annotation-substitution.cluster-check.code.ts b/checks/cluster-checks/pages/checksum-annotation-substitution/checksum-annotation-substitution.cluster-check.code.ts
-index 7cdd74f9e3a63db395e217660e578d8b4a412dab..a201314846d936b638a03db4ea4432ab38eacd3e 100644
+index 7cdd74f9e3a63db395e217660e578d8b4a412dab..647c094ecec42d8bf0457a1115c2b64a0d318be9 100644
 --- a/checks/cluster-checks/pages/checksum-annotation-substitution/checksum-annotation-substitution.cluster-check.code.ts
 +++ b/checks/cluster-checks/pages/checksum-annotation-substitution/checksum-annotation-substitution.cluster-check.code.ts
 @@ -70,7 +70,7 @@ const TEMPLATE_PATTERNS = [`${TEMPLATE_DIR}/**/*.ts`] as const
@@ -33,6 +33,15 @@ index 7cdd74f9e3a63db395e217660e578d8b4a412dab..a201314846d936b638a03db4ea4432ab
          "pass --instructions-root, or set AKASHA_ROOT."
      )
    }
+@@ -175,7 +175,7 @@ function main(): never {
+     exitOnToolError({
+       error: new Error(
+         `gate-integrity failure: no workflow template was read under ${seam.root}/${TEMPLATE_DIR}. ` +
+-          "Every substitution site this check pairs against stands there, so reading none would " +
++          "Every substitution site this check pairs against sits there, so reading none would " +
+           "report every stamped annotation as unstamped."
+       ),
+       prefix: PREFIX,
 diff --git a/checks/cluster-checks/pages/codegen-type-identity-drift/codegen-type-identity-drift.cluster-check.code.ts b/checks/cluster-checks/pages/codegen-type-identity-drift/codegen-type-identity-drift.cluster-check.code.ts
 index 12515641dca2e947acda490102efeaa63efaa710..6e843c637631d11901b092e590b05a567019faf9 100644
 --- a/checks/cluster-checks/pages/codegen-type-identity-drift/codegen-type-identity-drift.cluster-check.code.ts
