@@ -25,7 +25,7 @@ index 933344ef534f4d28dc81ee96c465f78b738dc86a..209dd0fffe147aeb56d1ee491df2c3a1
    expect(dataIn("/repo")).toBe("/repo/.git/data")
  })
 diff --git a/file-system/data-place/data-place.module.ts b/file-system/data-place/data-place.module.ts
-index 239bd98c9a63d0b79f710ecc94090358f95317d1..00f7a0930c14e4b4fb0351889c893f6391f19938 100644
+index 239bd98c9a63d0b79f710ecc94090358f95317d1..7b03d4e195c3fedb3b95820a9e995e2bea2a203b 100644
 --- a/file-system/data-place/data-place.module.ts
 +++ b/file-system/data-place/data-place.module.ts
 @@ -14,7 +14,7 @@ export const dataPlace = {
@@ -37,11 +37,20 @@ index 239bd98c9a63d0b79f710ecc94090358f95317d1..00f7a0930c14e4b4fb0351889c893f63
      },
      {
        invariantKind: "departure",
+@@ -34,7 +34,7 @@ export const dataPlace = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Where the place stands is an answer.",
++      statement: "Where the place sits is an answer.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/file-system/exclusive/exclusive.module.ts b/file-system/exclusive/exclusive.module.ts
-index 48a6a28abd1281920e9c72108b4786f752694ad9..fad6c273956963052aedebae3583858c4985c034 100644
+index 48a6a28abd1281920e9c72108b4786f752694ad9..830134da6064557b71710bf38de5f972af6d827a 100644
 --- a/file-system/exclusive/exclusive.module.ts
 +++ b/file-system/exclusive/exclusive.module.ts
-@@ -9,7 +9,7 @@ export const exclusive = {
+@@ -9,11 +9,11 @@ export const exclusive = {
    invariants: [
      {
        invariantKind: "departure",
@@ -50,11 +59,16 @@ index 48a6a28abd1281920e9c72108b4786f752694ad9..fad6c273956963052aedebae3583858c
      },
      {
        invariantKind: "departure",
+-      statement: "Making it is one act that fails where it already stands.",
++      statement: "Making it is one act that fails where it already exists.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/file-system/lock-holder/lock-holder.module.test.ts b/file-system/lock-holder/lock-holder.module.test.ts
-index ddf19e101ce247fc2cac13ca4a9f2edcfbacb02f..e8730fa8b7e8f538aa45c7497db6c73636e398d9 100644
+index ddf19e101ce247fc2cac13ca4a9f2edcfbacb02f..5079bdf813231e1d7ffb5c2e4d195b587e513327 100644
 --- a/file-system/lock-holder/lock-holder.module.test.ts
 +++ b/file-system/lock-holder/lock-holder.module.test.ts
-@@ -36,7 +36,7 @@ test("a pid nothing is running under answers unknown rather than failing", async
+@@ -36,12 +36,12 @@ test("a pid nothing is running under answers unknown rather than failing", async
    expect(startedAt(await gonePid())).toBe(UNKNOWN)
  })
  
@@ -63,8 +77,15 @@ index ddf19e101ce247fc2cac13ca4a9f2edcfbacb02f..e8730fa8b7e8f538aa45c7497db6c736
    expect(markIn(marked(`${process.pid} 1\n`))).toBe(`${process.pid} 1`)
  })
  
+-test("a mark that never stood, or stands empty, is no mark rather than a failure", () => {
+-  expect(markIn(join(rooted(), "never stood"))).toBeNull()
++test("a mark never written, or one that is empty, is no mark rather than a failure", () => {
++  expect(markIn(join(rooted(), "never written"))).toBeNull()
+   expect(markIn(marked("   \n"))).toBeNull()
+ })
+ 
 diff --git a/file-system/lock-holder/lock-holder.module.ts b/file-system/lock-holder/lock-holder.module.ts
-index 8c25dc53a4bcdfa2f0c618aa16b822e331e29527..ac7520af0d562453158f812033f42ae14ed9baf7 100644
+index 8c25dc53a4bcdfa2f0c618aa16b822e331e29527..1b86fd77f109b082f20cf1c8c14cf4c3b40edf62 100644
 --- a/file-system/lock-holder/lock-holder.module.ts
 +++ b/file-system/lock-holder/lock-holder.module.ts
 @@ -39,7 +39,7 @@ export const lockHolder = {
@@ -76,3 +97,12 @@ index 8c25dc53a4bcdfa2f0c618aa16b822e331e29527..ac7520af0d562453158f812033f42ae1
      },
      {
        invariantKind: "departure",
+@@ -59,7 +59,7 @@ export const lockHolder = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows where a lock stands.",
++      statement: "Nothing here knows where a lock is.",
+     },
+     {
+       invariantKind: "absence",
