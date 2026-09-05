@@ -25,7 +25,7 @@ index 8cd14558b79a9adf9dd3c21852fe1d6d238176c2..9408175b57d80ae7d1594ada7a97c31d
      {
        invariantKind: "absence",
 diff --git a/code-system/code-specifier/code-specifier.module.test.ts b/code-system/code-specifier/code-specifier.module.test.ts
-index 103602d2450599c022331de5343c0381f500f4b7..eae591902ba7e5ed78ea9706ca83e1c352e84c15 100644
+index 103602d2450599c022331de5343c0381f500f4b7..7ec72be8c8a4c3a0c245a8e6e60536ca54231350 100644
 --- a/code-system/code-specifier/code-specifier.module.test.ts
 +++ b/code-system/code-specifier/code-specifier.module.test.ts
 @@ -26,7 +26,7 @@ test("a string that names no module is passed over", () => {
@@ -46,6 +46,15 @@ index 103602d2450599c022331de5343c0381f500f4b7..eae591902ba7e5ed78ea9706ca83e1c3
    const body = 'import { one } from "./one.ts"\n'
    const found = placedIn(AT, body)
    expect(found).toHaveLength(1)
+@@ -64,7 +64,7 @@ test("every string a body holds is spelled, whether or not it names a module", (
+   expect(specifiersIn(AT, body)).toEqual(["./one.ts"])
+ })
+ 
+-test("what a body spells carries where it stands, so it can be written over in place", () => {
++test("what a body spells carries where it is, so it can be written over in place", () => {
+   const body = 'const one = "akasha/one/held.module.code.ts"\n'
+   const held = spelledIn(AT, body)[0]
+   if (held === undefined) throw new Error("nothing was read out of the body")
 diff --git a/code-system/code-specifier/code-specifier.module.ts b/code-system/code-specifier/code-specifier.module.ts
 index efe2806c7da22883b6fec7b4d0296d667aae0906..d53cf19b9a93ce969597d2ef4e410f3794d77202 100644
 --- a/code-system/code-specifier/code-specifier.module.ts
