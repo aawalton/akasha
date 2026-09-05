@@ -1,0 +1,13 @@
+diff --git a/alan/fitness/commands/exercise-select/exercise-select.command.ts b/alan/fitness/commands/exercise-select/exercise-select.command.ts
+index bd79591ca5ecf728d3539721e89efaf36e7035e4..5dabfaaf0e744f45b1a7756c52717bed5a07667f 100644
+--- a/alan/fitness/commands/exercise-select/exercise-select.command.ts
++++ b/alan/fitness/commands/exercise-select/exercise-select.command.ts
+@@ -21,8 +21,6 @@ export const exerciseSelect = {
+   helpNotes: [
+     "the plan is worked out from the day's focus, the week's pattern coverage, the policy, the in-kit pool and each movement's history.",
+     "every pick is answered with its per-goal scores, the features read, the rules fired, its anchor state and what it beat.",
+-    "a slot nothing filled is answered with why nothing filled it.",
+-    "a day with no focus scheduled is an empty plan rather than a refusal.",
+   ],
+   invariants: [
+     {
