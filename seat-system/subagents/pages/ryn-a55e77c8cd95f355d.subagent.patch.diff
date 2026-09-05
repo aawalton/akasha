@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/carry/page-carry.module.ts b/pages/carry/page-carry.module.ts
+index 25dd317aaf000a0a568f8e2809ca2db3ee1f3bec..95c771fad158ced3aa939cb915027cb85cf4abc2 100644
+--- a/pages/carry/page-carry.module.ts
++++ b/pages/carry/page-carry.module.ts
+@@ -9,7 +9,7 @@ export const pageCarry = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A value that is already text is carried as it is.",
++      statement: "A value that is already text is carried as the value is.",
+     },
+     {
+       invariantKind: "departure",
