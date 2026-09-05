@@ -1,0 +1,109 @@
+diff --git a/temper/temper-items-rules-core/package.json b/temper/temper-items-rules-core/package.json
+index 2c952bc1619507b2f9eec85924baf93f839c3631..b054ccbca2b0655afaf3ea3a136b7d4a6168e7a1 100644
+--- a/temper/temper-items-rules-core/package.json
++++ b/temper/temper-items-rules-core/package.json
+@@ -39,7 +39,9 @@
+     "./inventory-rule-compiler-types": "./inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts",
+     "./inventory-rule-controlled": "./inventory-rule-controlled/inventory-rule-controlled.module.code.ts",
+     "./inventory-rule-engine": "./inventory-rule-engine/inventory-rule-engine.module.code.ts",
++    "./inventory-rule-from-pages": "./inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts",
+     "./inventory-rule-goals": "./inventory-rule-goals/inventory-rule-goals.module.code.ts",
++    "./inventory-rule-writes": "./inventory-rule-writes/inventory-rule-writes.module.code.ts",
+     "./inventory-rule-mapping": "./inventory-rule-mapping/inventory-rule-mapping.module.code.ts",
+     "./inventory-rule-matcher-types": "./inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts",
+     "./inventory-rule-settings": "./inventory-rule-settings/inventory-rule-settings.module.code.ts",
+diff --git a/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts b/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts
+index 0952013e3ee761eeda5b9c03a1ad38ab34113990..23ac88a50b2b76fe1fb12b15a25b73466b282892 100644
+--- a/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts
++++ b/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts
+@@ -1,8 +1,9 @@
+ "use client"
+ 
+ import { useSingleFlight } from "@akasha/design-primitives/use-single-flight"
++import { deletePages } from "@akasha/pages-access/delete"
+ import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
+-import { upsertPage } from "@akasha/pages-access/upsert"
++import { upsertPage, upsertPages } from "@akasha/pages-access/upsert"
+ import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
+ import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
+ import { useUserId } from "@akasha/pages-ui/use-user-id"
+@@ -20,13 +21,22 @@ import {
+   type ManagedGuildBankSettings,
+   readManagedGuildBanks,
+ } from "@akasha/temper-items-core/inventory-guild-bank-types"
++import {
++  heldFromRows,
++  rulesFromPages,
++} from "@akasha/temper-items-rules-core/inventory-rule-from-pages"
+ import type { InventoryRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-types"
++import { writesFor } from "@akasha/temper-items-rules-core/inventory-rule-writes"
+ import { isRecord } from "@akasha/utils-narrow/is-record"
+ import type { Json } from "@akasha/utils-narrow/json-value"
+ import { useCallback, useMemo } from "react"
+ 
+ const PLAYER_PAGE_TYPE_SLUG = "temper-player"
+ 
++const RULE_PAGE_TYPE_SLUG = "temper-inventory-rule"
++
++const RULES_AT_MOST = 500
++
+ interface SettingsBlob {
+   "craft-bag-access"?: CraftBagAccessSettings
+   "managed-guild-banks"?: ManagedGuildBankSettings
+@@ -119,14 +129,53 @@ export function useManagedGuildBanks() {
+ }
+ 
+ export function useInventorySettings() {
+-  const { settings, write } = useSettingsBlob()
+-  const inventorySettings = settings.inventory
++  const { settings, write, userId } = useSettingsBlob()
++  const { rows } = usePagesSupabase({
++    pageTypeSlug: RULE_PAGE_TYPE_SLUG,
++    where:
++      userId != null
++        ? [{ key: "accountPage", eq: userId }]
++        : [{ key: "accountPage", eq: NEVER_MATCH_VALUE }],
++    limit: RULES_AT_MOST,
++  })
++  const held = useMemo(
++    () => heldFromRows(rows as unknown as readonly Record<string, unknown>[]),
++    [rows]
++  )
++  const blob = settings.inventory
++
++  const inventorySettings = useMemo<InventoryRuleSettings>(
++    () => ({
++      version: 2,
++      rules: rulesFromPages(held),
++      ...(blob?.itemRules === undefined ? {} : { itemRules: blob.itemRules }),
++      ...(blob?.buyRules === undefined ? {} : { buyRules: blob.buyRules }),
++    }),
++    [held, blob?.itemRules, blob?.buyRules]
++  )
+ 
+   const updateInventorySettings = useCallback(
+     async (next: InventoryRuleSettings) => {
++      if (userId == null) return
++      const { upserts, deletes } = writesFor(next.rules, held, userId)
++      if (upserts.length > 0) {
++        await upsertPages({
++          pageTypeSlug: RULE_PAGE_TYPE_SLUG,
++          items: upserts.map((one) => ({
++            where: [{ key: "slug", eq: one.slug }],
++            set: one.values as Record<string, Json>,
++          })),
++        })
++      }
++      if (deletes.length > 0) {
++        await deletePages({
++          pageTypeSlug: RULE_PAGE_TYPE_SLUG,
++          where: [{ key: "slug", in: [...deletes] }],
++        })
++      }
+       await write({ ...settings, inventory: next })
+     },
+-    [settings, write]
++    [held, settings, userId, write]
+   )
+ 
+   return {
