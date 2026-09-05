@@ -1,5 +1,5 @@
 diff --git a/infrastructure/zimage/zimage-explore-worker/zimage-explore-worker.module.ts b/infrastructure/zimage/zimage-explore-worker/zimage-explore-worker.module.ts
-index d7db8bfad7abee791badcc08c0c633d7279c1b98..ceb041c69b3c84df8ee040c720ea92af6231c145 100644
+index d7db8bfad7abee791badcc08c0c633d7279c1b98..0b179ded7ee3dd3ecc6dba55eb7b34e8a1909fbe 100644
 --- a/infrastructure/zimage/zimage-explore-worker/zimage-explore-worker.module.ts
 +++ b/infrastructure/zimage/zimage-explore-worker/zimage-explore-worker.module.ts
 @@ -13,11 +13,12 @@ export const zimageExploreWorker = {
@@ -14,6 +14,15 @@ index d7db8bfad7abee791badcc08c0c633d7279c1b98..ceb041c69b3c84df8ee040c720ea92af
        invariantKind: "departure",
 -      statement: "A queue holding nothing leaves the worker idling rather than ending it.",
 +      statement: "A queue holding nothing leaves the worker idling rather than ending that worker.",
+     },
+     {
+       invariantKind: "departure",
+@@ -29,7 +30,7 @@ export const zimageExploreWorker = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A prompt file may pin the seed with a leading line naming it.",
++      statement: "A prompt file may pin the seed with a leading line naming that seed.",
      },
      {
        invariantKind: "departure",
