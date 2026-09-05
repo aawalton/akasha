@@ -66,10 +66,6 @@ export const folderShape = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A folder matching any shape is right.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A folder may match more than one shape.",
     },
     {
