@@ -13,7 +13,7 @@ export const harnessJson = {
     },
     {
       invariantKind: "constraint",
-      statement: "A command printing what is no JSON is refused by the command's name.",
+      statement: "A command printing output that is no JSON is refused by the command's name.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const harnessJson = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what any answer means.",
+      statement: "Nothing here knows the meaning of any answer.",
     },
   ],
 } as const satisfies Module
