@@ -13,3 +13,15 @@ index 0000000000000000000000000000000000000000..fd787e71b63bfb6cdcfeaa75efb044a9
 +  definition: "the deployment and service running Jenny's command center",
 +  code: "ts",
 +} as const satisfies Manifest
+diff --git a/smilingjenny/smilingjenny-web/smilingjenny-web.router-app.ts b/smilingjenny/smilingjenny-web/smilingjenny-web.router-app.ts
+index da9c11ae41738b3ce2c21fe6cf555b83ea6fbfce..9f8e40a0324d951b67f139d5d860961330b915c1 100644
+--- a/smilingjenny/smilingjenny-web/smilingjenny-web.router-app.ts
++++ b/smilingjenny/smilingjenny-web/smilingjenny-web.router-app.ts
+@@ -12,6 +12,7 @@ export const smilingjennyWeb = {
+   routerConfig: "ts",
+   compileConfig: "json",
+   partSlugs: [
++    "manifest/smilingjenny-web-manifests",
+     "stylesheet/smilingjenny-web-look",
+     "module/jenny-capacitor-bridge",
+     "module/jenny-push-registration-sync",
