@@ -1,0 +1,55 @@
+diff --git a/domains/initiatives/pages/nimue-computed-properties.initiative.ts b/domains/initiatives/pages/nimue-computed-properties.initiative.ts
+index 3fd9153d6849c2ab3d2d99839e9492ee61d8fde2..e3304db67e5f67ffb5e0dc1c3d26e8746a9d9e88 100644
+--- a/domains/initiatives/pages/nimue-computed-properties.initiative.ts
++++ b/domains/initiatives/pages/nimue-computed-properties.initiative.ts
+@@ -10,18 +10,18 @@ export const nimueComputedProperties = {
+     {
+       statement: "A property states the calculation that fills it.",
+       workingMemory:
+-        "strength-calories is landed as the first computed property, and a query answers volume/7 exactly on every day carrying strength work. Its code file exports `work`, which page-asking loads by transpiling that file's text rather than importing it, so the pages package reaches a calculation without naming the domain holding it. Left here: the generated registry the compiler checks, and moving `holds` off formula-properties when that type goes.",
++        "Every wake-day property and every collection property is a calculation now, and no formula-property page remains anywhere in akasha. A calculation loads by transpiling its code file's text, so the pages package reaches one without naming the domain holding it. Left here: the generated registry the compiler checks, moving `holds` off formula-properties when that type goes, and the WorkedX types each page type hand-writes beside its stored type.",
+     },
+     {
+       statement: "A calculation names its inputs rather than reaching for what it likes.",
+       workingMemory:
+-        "One shape rather than three. A same-page read needs no surface at all, the page type already declaring every key and typing it, which is why all sixteen existing formulas need nothing but `page`. A cross-page read goes through `reach.target<T>(slug)`, answering the same lazily worked page so hops compose. A generated slug-to-type registry would make that generic inferrable without one call site changing.",
++        "One shape rather than three. A same-page read needs no surface at all, the page type already declaring every key and typing it, which is why all twenty-eight landed calculations read `page` alone and none has used `reach` yet. A cross-page read goes through `reach.target<T>(slug)`, answering the same lazily worked page so hops compose. A generated slug-to-type registry would make that generic inferrable without one call site changing.",
+     },
+     {
+       statement:
+         "A check refuses a calculation reaching outside its shape or answering twice over.",
+       workingMemory:
+-        "Two guarantees the expression language gave for nothing: a function can read a clock or a network, and a signature settles what is handed in rather than what a code file imports. The check judges the imports of a computed property's code file, that its one export is named `work` and matches `Work<Page, Held>`, and that `holds` agrees with the return type.",
++        "`calculation-imports-only-types` is landed and judging at every phase. It refuses a value import in a computed property's code file, which typecheck passes and which fails only at query time. Proved by a seeded import that resolves: one refusal, typecheck silent. Left here: that the one export is named `work`, which `workIn` already states so a second statement would be one rule in two files, and that `holds` agrees with the return type.",
+     },
+     {
+       statement: "A cycle among calculations is refused by name rather than run.",
+@@ -31,7 +31,7 @@ export const nimueComputedProperties = {
+     {
+       statement: "No calculation is written as an expression the system parses.",
+       workingMemory:
+-        "`pages/formulas` parses text like `case({faith-points} >= 2 -> 4, otherwise -> 0)`. Fifteen formula properties are left on wake-day: six *-level, six *-stoplight, stoplights, total-level and activity-calories. strength-calories is already a calculation, and a formula reads a computed key as a formula reads a stored one, so the rest carry one at a time. `alan/tracking/daily/day-figures` has no code importer. All fifteen are carried before the parser goes.",
++        "No formula-property page remains in akasha. Sixteen went from wake-day, twelve from collection, and three on persona-day were ablated rather than carried because that page type is being rebuilt. Every migration was held to answering exactly what the formula answered, measured over the pages of each type. The parser at `pages/formula` and the formula-property page type can go now, and `holds` moves to computed-properties with them.",
+     },
+     {
+       statement: "Sleep hours and surplus hours answer from a calculation.",
+@@ -41,7 +41,7 @@ export const nimueComputedProperties = {
+     {
+       statement: "No page query sums a key no page type declares.",
+       workingMemory:
+-        "Two page queries name wake-day for keys it does not declare: activity-calories-on-day and surplus-hours-on-day. The census found an inversion: the ten keys with no code reader are the ten wake-day declares, and the three with live readers are the three it does not. The views tracking-value-levels and tracking-value-points draw the levels and stoplights.",
++        "Eight page queries reduce and seven of them sum a key no page type declares: activity-calories-on-day, surplus-hours-on-day, sleep-hours-on-day, episodes-watched, episodes-watched-on-day and the two claude-account mean-used queries. Only the first is a spelling fault, its target written kebab where wake-day carries camel; the rest are absent under any spelling. food-entry-plants-since-waking is the one healthy reducer.",
+     },
+   ],
+   constraints: [
+diff --git a/pages/queries/pages/activity-calories-on-day.page-query.ts b/pages/queries/pages/activity-calories-on-day.page-query.ts
+index 34e4acdfce67d4be5da26bdadc0ffdbdaf4e4ef8..e67609e0f62d9650b57f93865ba87806e396887e 100644
+--- a/pages/queries/pages/activity-calories-on-day.page-query.ts
++++ b/pages/queries/pages/activity-calories-on-day.page-query.ts
+@@ -8,5 +8,5 @@ export const activityCaloriesOnDay = {
+   parameters: [{ name: "date", type: "calendar-date" }],
+   narrows: [{ key: "date", comparison: "is", values: ["$date"] }],
+   reduction: "sum",
+-  targetKey: "activity-calories",
++  targetKey: "activityCalories",
+ } as const satisfies PageQuery
