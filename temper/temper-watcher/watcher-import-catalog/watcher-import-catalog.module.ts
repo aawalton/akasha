@@ -51,11 +51,11 @@ export const watcherImportCatalog = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller may hand in what changes a page.",
+      statement: "A caller may hand in the patch that changes a page.",
     },
     {
       invariantKind: "departure",
-      statement: "A caller may hand in what is reported to.",
+      statement: "A caller may hand in the reporter.",
     },
     {
       invariantKind: "absence",
