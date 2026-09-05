@@ -21,7 +21,7 @@ export const temperTradingPricing = {
     {
       invariantKind: "departure",
       statement:
-        "A price here is what Tamriel Trade Centre last saw rather than what the game asks.",
+        "A price here is the price Tamriel Trade Centre last saw rather than the price the game asks.",
     },
     {
       invariantKind: "departure",
