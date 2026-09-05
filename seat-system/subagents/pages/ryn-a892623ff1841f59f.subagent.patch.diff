@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/agents/models/gateway/modules/proxy-seats/proxy-seats.module.ts b/agents/models/gateway/modules/proxy-seats/proxy-seats.module.ts
+index 9e8e02a5bb372b21c2ff4822b531cf2400f4cede..d14f8cfe57d0a9c07313e26505d81c862d6b5698 100644
+--- a/agents/models/gateway/modules/proxy-seats/proxy-seats.module.ts
++++ b/agents/models/gateway/modules/proxy-seats/proxy-seats.module.ts
+@@ -50,7 +50,7 @@ export const proxySeats = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "A caller hands in the read answering what a seat holds.",
++      statement: "A caller hands in the read answering the values a seat holds.",
+     },
+     {
+       invariantKind: "constraint",
