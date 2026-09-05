@@ -1143,3 +1143,11 @@ index 95f857d9a473593fec4350fc039a433b30219c47..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-keybinder-addon
 \ No newline at end of file
+diff --git a/temper/temper-lib-addon-keybinds/temper-lib-addon-keybinds b/temper/temper-lib-addon-keybinds/temper-lib-addon-keybinds
+deleted file mode 120000
+index 22ace7eb3a8eda5547f1a0e5e576e9b30efeab3c..0000000000000000000000000000000000000000
+--- a/temper/temper-lib-addon-keybinds/temper-lib-addon-keybinds
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-lib-addon-keybinds
+\ No newline at end of file
