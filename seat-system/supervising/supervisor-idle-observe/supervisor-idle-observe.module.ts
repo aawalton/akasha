@@ -34,7 +34,7 @@ export const supervisorIdleObserve = {
     {
       invariantKind: "departure",
       statement:
-        "A dispatch child counts only where its principal is this agent and it is not absent.",
+        "A dispatch child counts only where its principal is this agent and that child is not absent.",
     },
     {
       invariantKind: "departure",
