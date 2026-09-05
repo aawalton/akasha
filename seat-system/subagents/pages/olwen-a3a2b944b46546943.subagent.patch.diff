@@ -11,6 +11,23 @@ index 8696740b4466fd754afbb228423d22ca5af23bf0..9e72600139eaba8592d6471aaa5bfa60
  
  export const READOUT_PAGE =
    "readout-system/readouts/pages/upkeep-activity/upkeep-activity.readout.ts"
+diff --git a/alan/harness/capacity/reading/capacity-reading.module.code.ts b/alan/harness/capacity/reading/capacity-reading.module.code.ts
+index b9a08ad69f5c14bf0d3131c6fb768a2a379284ec..83a2886e8f75bd8a6f464d1aeab6917cad20ebba 100644
+--- a/alan/harness/capacity/reading/capacity-reading.module.code.ts
++++ b/alan/harness/capacity/reading/capacity-reading.module.code.ts
+@@ -1,10 +1,8 @@
+ import { getEsoDayStr } from "@akasha/day/eso-day"
+ import { keepReading } from "@akasha/readout-system/readout-reading"
+ import { capacityHoursOf, capacityIn } from "@akasha/readout-system/upkeep-capacity"
+-import {
+-  dayValuesByDate,
+-  sessionsOfDay,
+-} from "../../../tracking/daily/day-place/day-place.module.code.ts"
++import { dayValuesByDate } from "../../../tracking/daily/day-reading/day-reading.module.code.ts"
++import { sessionsOfDay } from "../../../tracking/daily/day-stretches/day-stretches.module.code.ts"
+ 
+ export const READOUT_PAGE =
+   "readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts"
 diff --git a/alan/harness/inboxes/reading/inbox-reading.module.code.ts b/alan/harness/inboxes/reading/inbox-reading.module.code.ts
 index dde7c0d3c9343940e4cf9baa46d67caae715f4a5..2dfe3e41c9d0f93e19df137e49f6d35979586b3d 100644
 --- a/alan/harness/inboxes/reading/inbox-reading.module.code.ts
