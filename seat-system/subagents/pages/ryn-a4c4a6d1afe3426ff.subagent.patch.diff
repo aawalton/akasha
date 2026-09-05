@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/commands/remove/remove.command.ts b/commands/remove/remove.command.ts
-index 6df6abe454eb69ce67cc4a29545723031636e8a4..a49e83d7dcddb439345d83bbc119b3b6badccb2e 100644
+index 6df6abe454eb69ce67cc4a29545723031636e8a4..df2cf63641594994db4940012e1e152a0a96aae3 100644
 --- a/commands/remove/remove.command.ts
 +++ b/commands/remove/remove.command.ts
 @@ -45,7 +45,7 @@ export const remove = {
@@ -22,7 +22,7 @@ index 6df6abe454eb69ce67cc4a29545723031636e8a4..a49e83d7dcddb439345d83bbc119b3b6
      },
      {
        invariantKind: "departure",
-@@ -189,7 +190,8 @@ export const remove = {
+@@ -189,11 +190,13 @@ export const remove = {
      },
      {
        invariantKind: "departure",
@@ -32,3 +32,9 @@ index 6df6abe454eb69ce67cc4a29545723031636e8a4..a49e83d7dcddb439345d83bbc119b3b6
      },
      {
        invariantKind: "departure",
+-      statement: "A removal finding no list to mend writes exactly what a removal wrote before.",
++      statement:
++        "A removal finding no list to mend writes exactly the commit a removal wrote before.",
+     },
+     {
+       invariantKind: "gap",
