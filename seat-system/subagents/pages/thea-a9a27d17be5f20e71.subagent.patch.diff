@@ -1,0 +1,41 @@
+diff --git a/temper/temper-web/routes.ts b/temper/temper-web/routes.ts
+index 6c9f5edc14cfd2b5537a514f70c1210987550758..cc9b44a459a1dcb4198808265494da095ddaee96 100644
+--- a/temper/temper-web/routes.ts
++++ b/temper/temper-web/routes.ts
+@@ -46,8 +46,8 @@ const API_ROUTES: RouteConfig = [
+   route("api/watcher/upsert-mined-quests", "routes/api.watcher.upsert-mined-quests.tsx"),
+   route("api/watcher/upsert-pricing-extract", "routes/api.watcher.upsert-pricing-extract.tsx"),
+   route("api/watcher/upsert-pricing-snapshot", "routes/api.watcher.upsert-pricing-snapshot.tsx"),
+-  route("api/addons/version", "routes/api.addons.version.tsx"),
+-  route("api/addons/download", "routes/api.addons.download.tsx"),
++  route("api/addons/version", "routes/addon-bundle-version/addon-bundle-version.route.code.tsx"),
++  route("api/addons/download", "routes/addon-bundle/addon-bundle.route.code.tsx"),
+   route("character-build/h/:hash", "routes/character.h.$hash.tsx"),
+   route("companion-build/h/:hash", "routes/companion.h.$hash.tsx"),
+ ]
+diff --git a/temper/temper-web/routes/addon-bundle-version/addon-bundle-version.route.code.tsx b/temper/temper-web/routes/addon-bundle-version/addon-bundle-version.route.code.tsx
+index 22ec3f2d016cf2ba25f40802535c893576542f81..2802d8dcd3456c4841e37a1fa5d987cd97938ecd 100644
+--- a/temper/temper-web/routes/addon-bundle-version/addon-bundle-version.route.code.tsx
++++ b/temper/temper-web/routes/addon-bundle-version/addon-bundle-version.route.code.tsx
+@@ -1,7 +1,7 @@
+ import { existsSync, readFileSync } from "node:fs"
+ import { join } from "node:path"
+ import { ADDONS_BUNDLE_DIR } from "../../.server/addons-bundle-dir/addons-bundle-dir.module.code.ts"
+-import type { Route } from "../+types/api.addons.version"
++import type { Route } from "./+types/addon-bundle-version.route.code"
+ 
+ const VERSION_FILE = join(ADDONS_BUNDLE_DIR, "version.txt")
+ 
+diff --git a/temper/temper-web/routes/addon-bundle/addon-bundle.route.code.tsx b/temper/temper-web/routes/addon-bundle/addon-bundle.route.code.tsx
+index e1b26b4e2a554dcfa826901eabdb32dea6c6dd53..5430a98f8ac7bcc41935fad02ad7ffd7a9b79bc4 100644
+--- a/temper/temper-web/routes/addon-bundle/addon-bundle.route.code.tsx
++++ b/temper/temper-web/routes/addon-bundle/addon-bundle.route.code.tsx
+@@ -1,7 +1,7 @@
+ import { existsSync, statSync } from "node:fs"
+ import { join } from "node:path"
+ import { ADDONS_BUNDLE_DIR } from "../../.server/addons-bundle-dir/addons-bundle-dir.module.code.ts"
+-import type { Route } from "../+types/api.addons.download"
++import type { Route } from "./+types/addon-bundle.route.code"
+ 
+ const BUNDLE_FILE = join(ADDONS_BUNDLE_DIR, "temper-addons.zip")
+ 
