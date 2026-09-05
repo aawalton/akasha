@@ -1,0 +1,13 @@
+diff --git a/alan/fitness/exercise-access/schedule-focus/schedule-focus.module.ts b/alan/fitness/exercise-access/schedule-focus/schedule-focus.module.ts
+index a0615e56c80ee330a47c7f3313eb3262cd5552da..3d86d51a0b57854282e60696e3633b3953b25462 100644
+--- a/alan/fitness/exercise-access/schedule-focus/schedule-focus.module.ts
++++ b/alan/fitness/exercise-access/schedule-focus/schedule-focus.module.ts
+@@ -18,7 +18,7 @@ export const scheduleFocus = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A focus is trained on whichever days of the rotation carry it.",
++      statement: "A focus is trained on whichever days of the rotation carry that focus.",
+     },
+     {
+       invariantKind: "departure",
