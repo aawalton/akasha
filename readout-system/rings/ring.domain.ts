@@ -35,7 +35,7 @@ export const ring = {
     {
       invariantKind: "departure",
       statement:
-        "What a ring draws in place of itself is drawn at the size the ring draws rather than is given.",
+        "The emoji a ring draws in place of itself is drawn at the size the ring draws rather than is given.",
     },
   ],
 } as const satisfies Domain
