@@ -68,12 +68,12 @@ export const message = {
     {
       invariantKind: "departure",
       statement:
-        "A message is named for the last twelve hex of its identity rather than for what it says.",
+        "A message is named for the last twelve hex of its identity rather than for what that message says.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A message is named as it is written, when nothing readable about it is known yet.",
+        "A message is named as that message is written, when nothing readable about the message is known yet.",
     },
     {
       invariantKind: "gap",
