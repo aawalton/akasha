@@ -1,0 +1,19 @@
+diff --git a/akasha.domain.ts b/akasha.domain.ts
+index 2af1f1a31309c4af1352378d8756347c0ff96756..29e4b9b6f29586d5ccae236589c65e85ff5e83d8 100644
+--- a/akasha.domain.ts
++++ b/akasha.domain.ts
+@@ -211,6 +211,14 @@ export const akasha = {
+         "Say what you changed when you hand work back.",
+       ],
+     },
++    {
++      directiveKind: "rule",
++      name: "Neither Clock Nor Meter",
++      act: "Never estimate, report or act on the time, effort, context or usage work will take; Alan holds them.",
++      warrant:
++        "You know none of them, and a meter you can see covers part of the spend and reads like the whole.",
++      aids: ["Quick, small and a lot are all estimates.", "A duration already elapsed is a fact."],
++    },
+     {
+       directiveKind: "rule",
+       name: "Trust The Index",
