@@ -1,5 +1,5 @@
 diff --git a/alan/library/book-of-everything/topic-tree/topic-tree.module.ts b/alan/library/book-of-everything/topic-tree/topic-tree.module.ts
-index 0cc0255293b9927c1841fbe2a62977974d034fe0..c194a5b89c672a4c768d412ce784f0e985708343 100644
+index 0cc0255293b9927c1841fbe2a62977974d034fe0..d2b447708405f9964af767d1d897d5084ba5600e 100644
 --- a/alan/library/book-of-everything/topic-tree/topic-tree.module.ts
 +++ b/alan/library/book-of-everything/topic-tree/topic-tree.module.ts
 @@ -14,11 +14,12 @@ export const topicTree = {
@@ -17,3 +17,13 @@ index 0cc0255293b9927c1841fbe2a62977974d034fe0..c194a5b89c672a4c768d412ce784f0e9
      },
      {
        invariantKind: "departure",
+@@ -34,7 +35,8 @@ export const topicTree = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A topic naming several topics above it hangs under the first it names.",
++      statement:
++        "A topic naming several topics above that topic hangs under the first that topic names.",
+     },
+   ],
+ } as const satisfies Module
