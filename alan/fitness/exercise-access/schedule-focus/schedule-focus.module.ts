@@ -18,7 +18,7 @@ export const scheduleFocus = {
     },
     {
       invariantKind: "departure",
-      statement: "A focus is trained on whichever days of the rotation carry it.",
+      statement: "A focus is trained on whichever days of the rotation carry that focus.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const scheduleFocus = {
     },
     {
       invariantKind: "departure",
-      statement: "A focus is counted once however many days of the rotation carry it.",
+      statement: "A focus is counted once however many days of the rotation carry that focus.",
     },
   ],
 } as const satisfies Module
