@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/alan/harness/monarch/shape/monarch-shape.module.ts b/alan/harness/monarch/shape/monarch-shape.module.ts
-index dd85ff64e232e8214347edaf15cd17ae0d3f9d92..9af490538f1d6764af01e271dd415369d41c867e 100644
+index dd85ff64e232e8214347edaf15cd17ae0d3f9d92..14ef383cb2476e1b35f1f7cb42952cb67c6f3662 100644
 --- a/alan/harness/monarch/shape/monarch-shape.module.ts
 +++ b/alan/harness/monarch/shape/monarch-shape.module.ts
 @@ -20,7 +20,7 @@ export const monarchShape = {
@@ -12,3 +12,12 @@ index dd85ff64e232e8214347edaf15cd17ae0d3f9d92..9af490538f1d6764af01e271dd415369
      },
      {
        invariantKind: "departure",
+@@ -36,7 +36,7 @@ export const monarchShape = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows what Monarch's replies hold.",
++      statement: "Nothing here knows the fields Monarch's replies hold.",
+     },
+     {
+       invariantKind: "absence",
