@@ -85,3 +85,18 @@ index 1cdef3e6e9c483340a7524b8e242263c8a3eac92..3ea51a6ad92a1d987d6547e8dd6248d7
 +    return refusedBy([thrown instanceof Error ? thrown.message : String(thrown)])
 +  }
 +}
+diff --git a/browser/browser-commands/package.json b/browser/browser-commands/package.json
+index 3516cad23bfd54c2bbe6603e58a3ce3443006055..7679fe452c1d4da4dce956fa462ff3b466af1963 100644
+--- a/browser/browser-commands/package.json
++++ b/browser/browser-commands/package.json
+@@ -2,7 +2,9 @@
+   "name": "@akasha/browser-commands",
+   "private": true,
+   "type": "module",
+-  "exports": {},
++  "exports": {
++    "./browser-test-storage-state": "./browser-test-storage-state/browser-test-storage-state.command.code.ts"
++  },
+   "dependencies": {
+     "@akasha/browser-test-harness": "workspace:*",
+     "@akasha/code-system": "workspace:*",
