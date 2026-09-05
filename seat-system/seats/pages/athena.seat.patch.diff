@@ -1,3 +1,17 @@
+diff --git a/command-system/command-system.workspace-package.ts b/command-system/command-system.workspace-package.ts
+index 135e3d3b2865afdf8597a1508bbfdba87915e1cf..0189b0310db76be0341e3f4d389e7e18a38f2aa8 100644
+--- a/command-system/command-system.workspace-package.ts
++++ b/command-system/command-system.workspace-package.ts
+@@ -83,5 +83,9 @@ export const commandSystem = {
+       invariantKind: "departure",
+       statement: "A command's answer carries a code saying whose fault the refusal was.",
+     },
++    {
++      invariantKind: "absence",
++      statement: "No command of the old ops CLI remains, and nothing dispatches one.",
++    },
+   ],
+ } as const satisfies WorkspacePackage
 diff --git a/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts b/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
 index be63bd0d2dffbee18664b132114e2fae8d6633e9..be4e1fff43226e47e35a38b8f95d161d9a21b322 100644
 --- a/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
