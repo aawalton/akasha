@@ -1,3 +1,66 @@
+diff --git a/alan/harness/code-editor/code-editor.domain.ts b/alan/harness/code-editor/code-editor.domain.ts
+index d535ce7075ffa5883e775c489ee978328362cdbd..d012ca2012ca7c6850de65a6cd79299e1f67a3e3 100644
+--- a/alan/harness/code-editor/code-editor.domain.ts
++++ b/alan/harness/code-editor/code-editor.domain.ts
+@@ -13,6 +13,32 @@ export const codeEditor = {
+     "repo/code-editor-repo",
+   ],
+   invariants: [
++    {
++      invariantKind: "constraint",
++      statement: "More than a second of work on the extension host's thread locks the editor up.",
++    },
++    {
++      invariantKind: "constraint",
++      statement: "Enough watch events arriving together ends the extension host.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A panel, a tab or the status line reads one file and works nothing out from the repository.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That file is written by one service rather than by the editor.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A panel, a tab or the status line re-reads when its own file is written.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A file's cooldown lands the first change at once and collects the rest for its own wait.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The editor is a fork of openvscode-server never rebased onto openvscode-server.",
+@@ -57,14 +83,6 @@ export const codeEditor = {
+       invariantKind: "departure",
+       statement: "A change reaches Alan's window only on a window reload.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A panel re-reads when the repository the panel shows is written.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A panel re-reads on a write rather than on a timer.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A read that failed leaves the last good rows on screen.",
+@@ -82,10 +100,6 @@ export const codeEditor = {
+       invariantKind: "departure",
+       statement: "A turn state is shown within 100ms of the file carrying the state being written.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A color is read through the command's own file rather than the `ops` dispatcher.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "The work panel's roots are the initiatives under no other initiative.",
 diff --git a/seat-system/seat-page-beat/seat-page-beat.module.code.ts b/seat-system/seat-page-beat/seat-page-beat.module.code.ts
 index 87caa202278a89020e63e3976542f584baa7fa4d..257964dd16935739363deea925a7ee7c2cbc19bf 100644
 --- a/seat-system/seat-page-beat/seat-page-beat.module.code.ts
@@ -53,7 +116,7 @@ index 79bd22f00c52f38a55ed793620f5d61e8de38f11..058378bec524f480433cbe1a8e98a06c
        invariantKind: "departure",
        statement:
 diff --git a/seat-system/seat-system.workspace-package.ts b/seat-system/seat-system.workspace-package.ts
-index b03b756f8409a6bd94446dd1e5a0dd3db488a6ec..876a6a91dad1b8657b8f3b0ae1c6ad9a91b5cbe4 100644
+index 0194577809659189e6b3791ff428931070534e49..f005afd99c6f92773da7bacf3110e9907ed36c60 100644
 --- a/seat-system/seat-system.workspace-package.ts
 +++ b/seat-system/seat-system.workspace-package.ts
 @@ -97,6 +97,7 @@ export const seatSystem = {
