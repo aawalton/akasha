@@ -71,6 +71,10 @@ export const syntaxRule = {
     },
     {
       invariantKind: "absence",
+      statement: "Only the file handed in is read.",
+    },
+    {
+      invariantKind: "absence",
       statement: "A rule carries no status.",
     },
     {
