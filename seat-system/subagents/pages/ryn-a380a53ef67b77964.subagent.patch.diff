@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/code-system/code-lint/code-lint.module.ts b/code-system/code-lint/code-lint.module.ts
-index 1b1059a797c9b150392e8e597e7e2c366b85c582..952bec9c9ff25d035056c16cbd3af63f696ef6f4 100644
+index 1b1059a797c9b150392e8e597e7e2c366b85c582..ba6bf1cf7161c0843da1cfd8557a61c25c1c5bb9 100644
 --- a/code-system/code-lint/code-lint.module.ts
 +++ b/code-system/code-lint/code-lint.module.ts
 @@ -11,7 +11,7 @@ export const codeLint = {
@@ -12,3 +12,12 @@ index 1b1059a797c9b150392e8e597e7e2c366b85c582..952bec9c9ff25d035056c16cbd3af63f
      },
      {
        invariantKind: "departure",
+@@ -62,7 +62,7 @@ export const codeLint = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "What is checked is what the linter is configured by.",
++      statement: "The checks made are the checks the linter's configuration sets.",
+     },
+     {
+       invariantKind: "absence",
