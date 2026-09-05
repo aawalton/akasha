@@ -1,0 +1,30 @@
+diff --git a/infrastructure/dirty.domain.ts b/infrastructure/dirty.domain.ts
+index 57716fffcef39a120bfa943207901c446a38bc46..11a2e568e3e44969a7f624b3cf986d6876f8ae48 100644
+--- a/infrastructure/dirty.domain.ts
++++ b/infrastructure/dirty.domain.ts
+@@ -5,4 +5,5 @@ export const dirty = {
+   pageTypeSlug: "domain",
+   slug: "dirty",
+   definition: "content a repository holds that nothing yet owns",
++  partSlugs: ["page-type/partslug-probe"],
+ } as const satisfies Domain
+diff --git a/infrastructure/partslug-probes/partslug-probe.page-type.ts b/infrastructure/partslug-probes/partslug-probe.page-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1ed643443ec60e849c9ecde5623ebab4de30b4be
+--- /dev/null
++++ b/infrastructure/partslug-probes/partslug-probe.page-type.ts
+@@ -0,0 +1,14 @@
++import type { Page } from "@akasha/pages-system/page"
++import type { PageType } from "@akasha/pages-system/page-type"
++
++export type PartslugProbe = Page
++
++export const partslugProbe = {
++  id: "01a071ac-a793-7e80-a9cb-c60f55268ec0",
++  pageTypeSlug: "page-type",
++  slug: "partslug-probe",
++  definition: "a disposable subject nothing keeps",
++  pluralSlug: "partslug-probes",
++  extendsSlug: ["page-type/page"],
++  properties: [],
++} as const satisfies PageType
