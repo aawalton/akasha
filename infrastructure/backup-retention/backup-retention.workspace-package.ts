@@ -7,6 +7,7 @@ export const backupRetention = {
   definition: "what thins the database's backups as the backups age",
   manifest: "json",
   partSlugs: [
+    "manifest/seaweedfs-backup-longtail",
     "module/keep-decision",
     "module/backup-info",
     "module/barman-output",
