@@ -11,6 +11,8 @@ import {
   readingOf,
   servedOf,
 } from "@akasha/code-system/code-typing"
+import { lua50Config } from "@akasha/code-system/lua-runtime-library/lua50-config"
+import { universalConfig } from "@akasha/code-system/lua-runtime-library/universal-config"
 import { reachesIn } from "@akasha/code-system/package-manifest"
 import { reachingInto } from "@akasha/graph/graph-asking"
 import { importEdge } from "@akasha/graph/import-edge"
@@ -39,6 +41,10 @@ const TYPEGEN = "+types"
 
 const DECLARED = ".d.ts"
 
+const LIBRARY = ".lua-runtime-library.ts"
+
+const CONFIGS = [universalConfig.fileName, lua50Config.fileName]
+
 const CONFIG_NAME = "tsconfig.typecheck.json"
 
 const TYPES_AT = "node_modules/@types"
@@ -53,7 +59,7 @@ const SETTINGS = {
   module: "preserve",
   moduleResolution: "bundler",
   target: "esnext",
-  skipLibCheck: true,
+  skipLibCheck: false,
   jsx: "react-jsx",
 } as const
 
@@ -214,11 +220,38 @@ export function foundOf(root: string, said: Diagnosed): Found {
   }
 }
 
+type Configured = {
+  readonly include?: readonly string[]
+}
+
+export function matching(one: string): RegExp {
+  const held = one.replace(/[.+^${}()|[\]\\]/g, "\\$&")
+  const said = held.replace(/\*\*\/|\*/g, (each) => (each === "*" ? "[^/]*" : "(?:.*/)?"))
+  return new RegExp(`^${said}$`)
+}
+
+export function claimedIn(change: Change, index: Answering): (path: string) => boolean {
+  const held: RegExp[] = []
+  for (const one of index.everyPath()) {
+    if (!one.endsWith(LIBRARY)) continue
+    const folder = dirname(one)
+    for (const name of CONFIGS) {
+      const bytes = change.after(join(folder, name))
+      if (bytes === null) continue
+      const said = JSON.parse(textIn(bytes)) as Configured
+      for (const each of said.include ?? []) held.push(matching(join(folder, each)))
+    }
+  }
+  return (path) => held.some((one) => one.test(path))
+}
+
 export async function foundIn(change: Change, shadow: Shadow): Promise<readonly Found[]> {
-  const roots = rootsOf(change, shadow.index)
+  const claimed = claimedIn(change, shadow.index)
+  const roots = rootsOf(change, shadow.index).filter((one) => !claimed(one))
   if (roots.length === 0) return []
   const root = resolve(change.root)
-  const named = [...new Set([...roots, ...declaringIn(change, shadow.index)])]
+  const declared = declaringIn(change, shadow.index).filter((one) => !claimed(one))
+  const named = [...new Set([...roots, ...declared])]
   const read = bodiesOf(change, mintingIn(change, [...waitingKeys(shadow)], shadow.index))
   const at = join(root, CONFIG_NAME)
   const config = configOf(root, named)

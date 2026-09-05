@@ -79,11 +79,15 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A declaration file compiled this way is not itself judged.",
+      statement: "A declaration file the change reaches is judged as any other file is judged.",
     },
     {
-      invariantKind: "absence",
-      statement: "Its standing errors are the audit's.",
+      invariantKind: "departure",
+      statement: "A file another config compiles is compiled by that config rather than here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A lua runtime library's config names the files that config compiles.",
     },
     {
       invariantKind: "departure",

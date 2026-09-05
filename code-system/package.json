@@ -30,6 +30,8 @@
     "./javascript-module": "./javascript-modules/javascript-module.page-type.ts",
     "./lua-module": "./lua-modules/lua-module.page-type.ts",
     "./lua-runtime-library": "./lua-runtime-libraries/lua-runtime-library.page-type.ts",
+    "./lua-runtime-library/lua50-config": "./lua-runtime-libraries/properties/lua50-config.named-file-property.ts",
+    "./lua-runtime-library/universal-config": "./lua-runtime-libraries/properties/universal-config.named-file-property.ts",
     "./module": "./modules/module.page-type.ts",
     "./name-series": "./name-series/name-series.module.code.ts",
     "./module/test": "./modules/properties/test.file-property.ts",
