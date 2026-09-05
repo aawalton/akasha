@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/fitness/exercise-access/day-of-week/day-of-week.module.ts b/alan/fitness/exercise-access/day-of-week/day-of-week.module.ts
+index 532da3e19f4887beabdcee9515d5d967cd328748..5f79e35eb931d432656b69566cce7828ed43d7e0 100644
+--- a/alan/fitness/exercise-access/day-of-week/day-of-week.module.ts
++++ b/alan/fitness/exercise-access/day-of-week/day-of-week.module.ts
+@@ -22,7 +22,7 @@ export const dayOfWeek = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The seven days counted from Sunday are what a UTC day number indexes.",
++      statement: "A UTC day number indexes the seven days counted from Sunday.",
+     },
+     {
+       invariantKind: "departure",
