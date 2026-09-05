@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
-import type { Action } from "./properties/action.relation-property.ts"
+import type { Action } from "../rules/properties/action.relation-property.ts"
 import type { Active } from "./properties/active.boolean-property.ts"
 import type { Conditions } from "./properties/conditions.page-property-entry.ts"
 import type { Destination } from "./properties/destination.text-property.ts"
@@ -26,7 +26,6 @@ export const temperRuleTemplate = {
   partSlugs: [
     "boolean-property/active",
     "page-property-entry/conditions",
-    "relation-property/action",
     "relation-property/condition-field",
     "text-property/condition-value",
     "text-property/destination",
