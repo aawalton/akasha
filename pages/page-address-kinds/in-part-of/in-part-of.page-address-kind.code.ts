@@ -1,10 +1,9 @@
+import type { PageAddress } from "../../address/page-address.module.code.ts"
 import type { Slug } from "../../properties/slug.text-property.ts"
-import type { ById } from "../by-id/by-id.page-address-kind.code.ts"
-import type { InPageType } from "../in-page-type/in-page-type.page-address-kind.code.ts"
 
 export type InPartOf = {
   readonly pageTypeSlug: Slug
-  readonly partOf: ById | InPageType | InPartOf
+  readonly partOf: PageAddress
   readonly propertySlug: Slug
   readonly value: string
 }
