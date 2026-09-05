@@ -45,7 +45,7 @@ export const watcherTokenCheck = {
     {
       invariantKind: "departure",
       statement:
-        "The keys a page type declares are gathered by walking what that page type extends.",
+        "The keys a page type declares are gathered by walking the page types that type extends.",
     },
     {
       invariantKind: "gap",
