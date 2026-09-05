@@ -17,7 +17,7 @@ export const bundleMemberSavedVars = {
     },
     {
       invariantKind: "departure",
-      statement: "A migration already done leaves a marker naming what was written.",
+      statement: "A migration already done leaves a marker naming the globals written.",
     },
     {
       invariantKind: "departure",
