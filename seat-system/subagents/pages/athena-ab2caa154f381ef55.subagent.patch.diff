@@ -101,3 +101,16 @@ index 50268503fa06b2225bd4c18e92c2a7993704d037..8867a8c22e5bb901b328d58434f2f29e
      (reason.description != null ? ` Server said: ${reason.description}` : "")
    )
  }
+diff --git a/seat-system/supervising/supervisor-rebind/supervisor-rebind.module.code.ts b/seat-system/supervising/supervisor-rebind/supervisor-rebind.module.code.ts
+index 804598c3f8ed05a56947334c9287e387411a8b25..f2f306034539ca99fb22d407a6c99e4dec8c59cd 100644
+--- a/seat-system/supervising/supervisor-rebind/supervisor-rebind.module.code.ts
++++ b/seat-system/supervising/supervisor-rebind/supervisor-rebind.module.code.ts
+@@ -23,7 +23,7 @@ export type ClearRebindHooks = {
+ function reportNoSuccessor(oldAgentId: string): void {
+   console.error(
+     `${LOG} /clear rebind: no successor for ${oldAgentId} — its seat page was taken when it was ` +
+-      `stopped, so no page is there for this seat until \`ops seat resume\` brings it back`
++      `stopped, so no page is there for this seat until \`akasha seat resume\` brings it back`
+   )
+ }
+ 
