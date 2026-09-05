@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-character/mines/properties/item-name.text-property.ts b/temper/temper-character/mines/properties/item-name.text-property.ts
+index 841904cab3ea9e25f3bc72f8252410d276aabf00..c9afca788e92a1d0cfcaf1852b7ebea232012272 100644
+--- a/temper/temper-character/mines/properties/item-name.text-property.ts
++++ b/temper/temper-character/mines/properties/item-name.text-property.ts
+@@ -13,7 +13,7 @@ export const itemName = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A name is what one sweep read where a title is what the item is called now.",
++      statement: "A name is the text one sweep read where a title is the item's name now.",
+     },
+     {
+       invariantKind: "departure",
