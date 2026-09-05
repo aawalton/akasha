@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/commands/command.page-type.ts b/command-system/commands/command.page-type.ts
+index b08b72871aa4cff32b45efca3a6daf3021495816..b075850bdfe9a37578587a9deb4a4f2f1e5c5ee8 100644
+--- a/command-system/commands/command.page-type.ts
++++ b/command-system/commands/command.page-type.ts
+@@ -119,7 +119,7 @@ export const command = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A command's page states what the command takes and what is worth knowing about the taking.",
++        "A command's page states the command's arguments and the notes worth knowing about the taking.",
+     },
+     {
+       invariantKind: "departure",
