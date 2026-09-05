@@ -1,5 +1,5 @@
 diff --git a/editor-extension/terminal-sync/terminal-sync.module.ts b/editor-extension/terminal-sync/terminal-sync.module.ts
-index 43df2537d3c094151e9a2d0e4b5354281410cdf1..6fc4501f6d0301a5fff89d36b9fc28d3b8369765 100644
+index 43df2537d3c094151e9a2d0e4b5354281410cdf1..a0367ceb0cdc4dd3b149be6eb2b0e918f9161847 100644
 --- a/editor-extension/terminal-sync/terminal-sync.module.ts
 +++ b/editor-extension/terminal-sync/terminal-sync.module.ts
 @@ -9,7 +9,7 @@ export const terminalSync = {
@@ -25,12 +25,18 @@ index 43df2537d3c094151e9a2d0e4b5354281410cdf1..6fc4501f6d0301a5fff89d36b9fc28d3
      },
      {
        invariantKind: "departure",
-@@ -33,7 +33,7 @@ export const terminalSync = {
+@@ -33,11 +33,12 @@ export const terminalSync = {
      },
      {
        invariantKind: "departure",
 -      statement: "A terminal whose seat is gone is renamed for the shell running in it.",
 +      statement: "A terminal whose seat is gone is renamed for the shell running in that terminal.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A terminal whose shell is not in the ps snapshot keeps the name it has.",
++      statement:
++        "A terminal whose shell is not in the ps snapshot keeps the name that terminal has.",
      },
      {
        invariantKind: "departure",
