@@ -1,0 +1,54 @@
+diff --git a/commands/test/test.command.code.ts b/commands/test/test.command.code.ts
+index 7d8f4c63f21f7cbd6eafc3b9b65db081d58f547a..d6993c22276d2c7b4a5c2c8d46406b4d1dc55843 100644
+--- a/commands/test/test.command.code.ts
++++ b/commands/test/test.command.code.ts
+@@ -106,6 +106,12 @@ const NONE: Summary = { files: 0, failed: 0, passed: 0 }
+ const DETAIL =
+   'name one test to see why: akasha test --file-path <path> --named "<the test\'s name>"'
+ 
++const TAIL_LINES = 20
++
++const TAIL_BYTES = 2000
++
++const NO_SUMMARY = "the runner printed no summary"
++
+ type Read = {
+   readonly failing: ReadonlyMap<string, number>
+   readonly unloadable: ReadonlyMap<string, string>
+diff --git a/commands/test/test.command.test.ts b/commands/test/test.command.test.ts
+index 776d7ab63b7371cdf00fe78ca862bcdb9f73c500..6679683aa331ea6af7c1c8e46f596915f5dfb2c6 100644
+--- a/commands/test/test.command.test.ts
++++ b/commands/test/test.command.test.ts
+@@ -3,7 +3,7 @@ import { mkdirSync, realpathSync, writeFileSync } from "node:fs"
+ import { dirname, join } from "node:path"
+ import type { Given } from "../../command-system/calling/calling.module.code.ts"
+ import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
+-import { ANSWER_CEILING, aiming, bounded, test } from "./test.command.code.ts"
++import { ANSWER_CEILING, aiming, bounded, tailOf, test } from "./test.command.code.ts"
+ 
+ const PASSES = 'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'
+ 
+diff --git a/commands/test/test.command.ts b/commands/test/test.command.ts
+index 288c01610e81c2b9f94e327a9c51fa7c6304bc47..86b539e110763141df03445c26cce6c015c2ba4b 100644
+--- a/commands/test/test.command.ts
++++ b/commands/test/test.command.ts
+@@ -36,6 +36,19 @@ export const test = {
+       invariantKind: "departure",
+       statement: "A run reaching fewer files than are under it has failed rather than passed.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A run printing no summary carries the tail of what the runner printed.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "That tail is bounded in lines and in bytes alike, and a whole line goes rather than part of one.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run printing no summary names no test, no test having run to be named.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A run naming a test runs the one test whose whole name that is.",
