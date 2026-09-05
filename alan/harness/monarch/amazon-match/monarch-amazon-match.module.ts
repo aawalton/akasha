@@ -41,7 +41,7 @@ export const monarchAmazonMatch = {
     {
       invariantKind: "departure",
       statement:
-        "A note is cut to nine hundred characters, and the order number it ends in is never what is cut.",
+        "A note is cut to nine hundred characters, and the order number the note ends in is never cut.",
     },
     {
       invariantKind: "departure",
