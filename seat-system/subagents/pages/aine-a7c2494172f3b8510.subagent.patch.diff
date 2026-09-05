@@ -57,7 +57,7 @@ index 4d249ccaf7532513a6a7963e7f4158124581d39c..59388defb843ac80414f91f76b1814b2
  // again inside one call was reading past its own write before this.
  export function scanGlob(pattern: string, root: string): readonly string[] {
 diff --git a/markdown-pages/markdown-page-seq/markdown-page-seq.module.code.ts b/markdown-pages/markdown-page-seq/markdown-page-seq.module.code.ts
-index 8131c472b8b657094fad4502a5a512b714c0da60..38a8229388cee24b70f96201a0eebbed823c797c 100644
+index 8131c472b8b657094fad4502a5a512b714c0da60..477c8135f9dd0f227489b12ab6467eb76a9d4957 100644
 --- a/markdown-pages/markdown-page-seq/markdown-page-seq.module.code.ts
 +++ b/markdown-pages/markdown-page-seq/markdown-page-seq.module.code.ts
 @@ -84,8 +84,8 @@ async function advance(source: SeqSource, first: number, count: number): Promise
@@ -71,7 +71,7 @@ index 8131c472b8b657094fad4502a5a512b714c0da60..38a8229388cee24b70f96201a0eebbed
      }
    }
    const landed = await landBodies(
-@@ -108,15 +108,15 @@ export async function takeSeqsOf(source: SeqSource, count: number): Promise<numb
+@@ -108,22 +108,22 @@ export async function takeSeqsOf(source: SeqSource, count: number): Promise<numb
    }
    const absolute = join(rootFor(resolveRoots(), AKASHA), source.pageTypeRelPath)
    return await exclusively(`${absolute}${ALLOCATING}`, async () => {
@@ -90,6 +90,14 @@ index 8131c472b8b657094fad4502a5a512b714c0da60..38a8229388cee24b70f96201a0eebbed
            "changed and uncommitted. Land or undo the change before asking again. What the attempt " +
            `said:\n${run.output}`
        )
+     }
+     throw new Error(
+       `no ${source.noun} seq was taken: advancing \`${NEXT_SEQ_KEY}\` in ` +
+-        `${source.pageTypeRelPath} by ${count} was refused with the counter left where it stood, ` +
++        `${source.pageTypeRelPath} by ${count} was refused with the counter left where it was, ` +
+         "and nothing was created. Asking again reads the same number and meets the same refusal, " +
+         `so read what it said and fix that:\n${run.output}`
+     )
 diff --git a/markdown-pages/markdown-uncommitted/markdown-uncommitted.module.code.ts b/markdown-pages/markdown-uncommitted/markdown-uncommitted.module.code.ts
 index ff08132a7e89374cae61f9f4608b5f210170cde7..5b0b14ab86f443edf677bdef809bfc9a3c0c4063 100644
 --- a/markdown-pages/markdown-uncommitted/markdown-uncommitted.module.code.ts
