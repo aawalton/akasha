@@ -43,7 +43,7 @@ export const storeReaching = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what a question or a write is made of.",
+      statement: "Nothing here knows the parts a question or a write holds.",
     },
   ],
 } as const satisfies Module
