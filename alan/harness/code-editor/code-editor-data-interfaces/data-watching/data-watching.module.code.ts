@@ -14,6 +14,7 @@ import { akashaRoot, akashaSeatsThatExist } from "@akasha/seat-system/seat-akash
 import { colorOfState } from "@akasha/seat-system/seat-turn-color"
 import { SEAT_TURN_STATES, seatTurnStateOf } from "@akasha/seat-system/seat-turn-state"
 import { followWithin } from "@akasha/service-system/file-following"
+import { agentTreeLine, statusBarLine } from "../beat-drawing/beat-drawing.module.code.ts"
 import {
   decide,
   type Held,
@@ -44,6 +45,8 @@ const SIDECAR = ".uncommitted.ts"
 const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.jsonl"
 const SETTLE_MS = 25
 const TABS_EVERY_MS = 1_000
+const FLEET_EVERY_MS = 1_000
+const STATUS_EVERY_MS = 30_000
 
 // One picture, the folders it is made from, and the cooldown it is written under. `holds` answers
 // whether a file is one this picture reads, so a change reaches only the pictures it can move.
@@ -119,6 +122,31 @@ function terminalTabsLine(): string {
   } satisfies TerminalTabsState)
 }
 
+let fleetHeld = JSON.stringify({
+  roots: [],
+  alanPrincipalCount: 0,
+  runningCount: 0,
+  unreadSeats: 0,
+} satisfies AgentTreeState)
+
+async function refreshAgentTree(): Promise<undefined> {
+  fleetHeld = await agentTreeLine()
+  return undefined
+}
+
+let statusHeld = JSON.stringify({
+  sessionPct: null,
+  weeklyPct: null,
+  inbox: null,
+  upkeep: null,
+  attributes: null,
+} satisfies StatusBarState)
+
+async function refreshStatusBar(): Promise<undefined> {
+  statusHeld = await statusBarLine()
+  return undefined
+}
+
 export function picturesOf(root: string): ReadonlyMap<string, Picture> {
   const seats = join(root, SEATS_AT)
   const turnStates = join(root, TURN_STATES_AT)
@@ -134,6 +162,32 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
           within(turnStates, ".seat-turn-state.ts")
         ),
         line: agentColorsLine,
+        held: NOTHING_WRITTEN,
+        waking: null,
+      },
+    ],
+    [
+      "agent-tree",
+      {
+        cooldownMs: 1_000,
+        folders: [seats],
+        holds: within(seats, SIDECAR, ".seat.ts"),
+        line: () => fleetHeld,
+        refresh: refreshAgentTree,
+        everyMs: FLEET_EVERY_MS,
+        held: NOTHING_WRITTEN,
+        waking: null,
+      },
+    ],
+    [
+      "status-bar",
+      {
+        cooldownMs: 1_000,
+        folders: [],
+        holds: () => false,
+        line: () => statusHeld,
+        refresh: refreshStatusBar,
+        everyMs: STATUS_EVERY_MS,
         held: NOTHING_WRITTEN,
         waking: null,
       },
@@ -230,10 +284,19 @@ export function watchEditorData(): () => undefined {
       keep(root, slug, picture)
       continue
     }
-    // A throw inside a beat is left to end the process, as a throw anywhere here is.
+    // A throw inside a beat is left to end the process, as a throw anywhere here is. A beat still
+    // running when the next falls due is left to finish rather than joined by a second of itself,
+    // because the fleet read is slower than its own beat when the fleet is busy.
+    let beating = false
     const beat = async (): Promise<undefined> => {
-      await refresh()
-      keep(root, slug, picture)
+      if (beating) return undefined
+      beating = true
+      try {
+        await refresh()
+        keep(root, slug, picture)
+      } finally {
+        beating = false
+      }
       return undefined
     }
     void beat()

@@ -19,6 +19,7 @@ export const codeEditorDataInterface = {
   extendsSlug: ["page-type/domain"],
   partSlugs: [
     "file-property/state",
+    "module/beat-drawing",
     "module/data-watching",
     "module/state-cooldown",
     "type-declaration/tree-row",
