@@ -23,7 +23,7 @@ export const write = {
     "a --file-path naming no --content-file reads that body from standard input.",
     "pipe the body in with a quoted heredoc: --message <text> <<'EOF', the body, then EOF.",
     "a folder at the top of the repository is refused — name what is inside it.",
-    "the files standing beside a path given to --remove go with it.",
+    "the files beside a path given to --remove go with it.",
     "a folder left holding nothing by what --remove takes is cleared off the disk.",
     "the change is kept in the patch beside this agent's page, and `akasha patch apply` lands it.",
     "a draft is warranted as a landing is, and says what the checks refused without refusing.",
@@ -86,7 +86,7 @@ export const write = {
     },
     {
       invariantKind: "departure",
-      statement: "The record must show a path's writer read the body standing there.",
+      statement: "The record must show a path's writer read the body that is there.",
     },
     {
       invariantKind: "departure",
@@ -94,8 +94,7 @@ export const write = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path taken away carries the files standing beside the path like `move` and `remove` do.",
+      statement: "A path taken away carries the files beside the path like `move` and `remove` do.",
     },
     {
       invariantKind: "departure",

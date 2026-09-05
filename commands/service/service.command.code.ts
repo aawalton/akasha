@@ -58,7 +58,7 @@ function installed(argv: readonly string[], given: Given): Answer {
 
   const home = homeAt()
   if (home === null) {
-    return refused("no home directory is stated, so no unit has anywhere to stand", OPERATIONAL)
+    return refused("no home directory is stated, so no unit has anywhere to sit", OPERATIONAL)
   }
 
   const owned = slug === undefined ? ourInstalled(home) : ownedByService(ourInstalled(home), slug)

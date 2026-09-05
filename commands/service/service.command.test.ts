@@ -45,9 +45,9 @@ test("a flag this command does not take is refused by name", () => {
 })
 
 test("a slug no service page carries is refused as the data's fault", () => {
-  const answer = service(["install", "no-such-service-stands-here", "--dry-run"], HERE)
+  const answer = service(["install", "no-such-service-is-here", "--dry-run"], HERE)
   expect(answer.code).toBe(2)
-  expect(answer.refusals[0]).toContain("no-such-service-stands-here")
+  expect(answer.refusals[0]).toContain("no-such-service-is-here")
 })
 
 test("a dry run reports the plan and writes nothing", () => {
@@ -83,9 +83,9 @@ test("every service is nothing an act asking systemd takes", () => {
 })
 
 test("an act asking systemd for a slug no page carries is the data's fault", () => {
-  const answer = service(["restart", "no-such-service-stands-here"], HERE)
+  const answer = service(["restart", "no-such-service-is-here"], HERE)
   expect(answer.code).toBe(2)
-  expect(answer.refusals[0]).toContain("no-such-service-stands-here")
+  expect(answer.refusals[0]).toContain("no-such-service-is-here")
 })
 
 test("a dry run names the unit systemd would be asked about and asks nothing", () => {

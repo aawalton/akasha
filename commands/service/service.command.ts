@@ -21,7 +21,7 @@ export const service = {
     { said: "--dry-run", takes: "say what would happen and change nothing" },
   ],
   helpNotes: [
-    "the act stands first and one call names one act.",
+    "the act is first and one call names one act.",
     "a service is named or `--all` is said, never both.",
     "`--all` belongs to `install`, and one service is started, stopped or restarted at a time.",
     "a scheduled service is reached by its timer, and one that is not by its service unit.",
@@ -33,7 +33,7 @@ export const service = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The act stands first and what the act acts on stands after the act.",
+      statement: "The act is first and what the act acts on is after the act.",
     },
     {
       invariantKind: "departure",

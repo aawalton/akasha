@@ -65,7 +65,7 @@ test("a body the record shows read is written over", async () => {
   expect(said.code).toBe(0)
 })
 
-test("a path standing at no body is written without a reading", async () => {
+test("a path no body is at is written without a reading", async () => {
   const root = repoWith()
   const said = await wroteAt(root, "akasha/new.ts")
   expect(said.refusals).toEqual([])
@@ -180,7 +180,7 @@ test("a path git does not track is taken away where --remove names it", async ()
   expect(existsSync(join(root, at))).toBe(false)
 })
 
-test("a file standing beside a path this call writes is not taken away", async () => {
+test("a file beside a path this call writes is not taken away", async () => {
   const root = repoWith({
     "akasha/held.module.ts": "committed\n",
     "akasha/held.module.code.ts": "committed\n",
@@ -308,7 +308,7 @@ test("a content file that is not there is a caller's mistake, not a refusal by t
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
 })
 
-test("a content file standing that will not open says so rather than that it is not there", async () => {
+test("a content file that is there and will not open says so rather than that it is not there", async () => {
   const root = repoWith()
   const said = await write(["--file-path", "akasha/two.ts", "--content-file", root], givenIn(root))
   expect(said.code).toBe(1)
@@ -338,7 +338,7 @@ test("a body that is text lands as the bytes it is, multi-byte and all", async (
   expect([...readFileSync(join(root, "akasha/two.txt"))]).toEqual([...raw])
 })
 
-test("a change asking for what already stands commits nothing and says so", async () => {
+test("a change asking for what is already there commits nothing and says so", async () => {
   const root = repoWith()
   const was = headOf(root)
   const from = put(root, "body.txt", "committed\n")
