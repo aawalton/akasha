@@ -1,0 +1,36 @@
+diff --git a/temper/temper-watcher/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.test.ts b/temper/temper-watcher/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.test.ts
+index 9763d57a045a329c377333f69cd548200a8b84e6..037161e32128d75f10d550dc45cfa3f116b23600 100644
+--- a/temper/temper-watcher/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.test.ts
++++ b/temper/temper-watcher/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.test.ts
+@@ -179,7 +179,7 @@ test("a queued verdict becomes an item rule and the count is logged", async () =
+     content,
+     knownUserSource("user-1"),
+     recordingLog(lines),
+-    fakeStore({ present: true, inventory: undefined }, written)
++    fakeStore({ present: true, inventory: { version: 2, rules: [] } }, written)
+   )
+   expect(lines).toEqual([
+     "INFO Item-rule verdicts: materialized 2/2 queued verdict(s) into settings.inventory.",
+@@ -216,6 +216,22 @@ test("an item rule already saved for that item is overwritten rather than added
+   expect(settings.itemRules[0]?.action).toBe("nothing")
+ })
+ 
++test("settings that could not be read are not amended and not written back", async () => {
++  const content = savedVariables(accountWith("@alan", verdictEntry(123, "Foo", "sell")))
++  const lines: string[] = []
++  const written: unknown[] = []
++  await runImportItemRuleVerdicts(
++    content,
++    knownUserSource("user-1"),
++    recordingLog(lines),
++    fakeStore({ present: true, inventory: undefined }, written)
++  )
++  expect(written).toEqual([])
++  expect(lines).toEqual([
++    "ERROR Item-rule verdicts: materialized 0/1 queued verdict(s) into settings.inventory — this account's inventory settings could not be read.",
++  ])
++})
++
+ test("no page for the user leaves the settings unwritten and reports an error", async () => {
+   const content = savedVariables(accountWith("@alan", verdictEntry(123, "Foo", "sell")))
+   const lines: string[] = []
