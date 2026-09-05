@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/food/food.command.ts b/commands/food/food.command.ts
+index f07a184289950a8e61805237a7b5392c8ac1bab8..6e5fa74f3589d2660d15f69651c82549e5d415ba 100644
+--- a/commands/food/food.command.ts
++++ b/commands/food/food.command.ts
+@@ -48,7 +48,7 @@ export const food = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Which day an entry counts to is worked out from the instant it happened at against when Alan woke.",
++        "Which day an entry counts to is worked out from when the entry happened against when Alan woke.",
+     },
+     {
+       invariantKind: "departure",
