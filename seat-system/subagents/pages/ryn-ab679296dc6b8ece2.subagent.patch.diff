@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/inference-commands/inference-generate/inference-generate.command.ts b/infrastructure/inference-commands/inference-generate/inference-generate.command.ts
+index 9a88aed32f378b8ba2f8ba51d6d7526dd80fb9d3..9e7ec5eef223ed32085108167648574d8beca6ff 100644
+--- a/infrastructure/inference-commands/inference-generate/inference-generate.command.ts
++++ b/infrastructure/inference-commands/inference-generate/inference-generate.command.ts
+@@ -50,7 +50,7 @@ export const inferenceGenerate = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A seed is recorded whether it was drawn or said.",
++      statement: "A seed is recorded whether that seed was drawn or said.",
+     },
+     {
+       invariantKind: "departure",
