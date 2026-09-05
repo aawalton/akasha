@@ -1,5 +1,5 @@
 diff --git a/idle-system/idle-saves/idle-save.page-type.ts b/idle-system/idle-saves/idle-save.page-type.ts
-index b7a2a59c2623360aed895888257dd93788b68d3e..1f24e3d859a823fe5f47b0534ef7f500a00300f7 100644
+index b7a2a59c2623360aed895888257dd93788b68d3e..3a57f277f8a520b217285c05546580b6a38a264a 100644
 --- a/idle-system/idle-saves/idle-save.page-type.ts
 +++ b/idle-system/idle-saves/idle-save.page-type.ts
 @@ -17,7 +17,7 @@ export const idleSave = {
@@ -11,3 +11,12 @@ index b7a2a59c2623360aed895888257dd93788b68d3e..1f24e3d859a823fe5f47b0534ef7f500
      },
      {
        invariantKind: "departure",
+@@ -30,7 +30,7 @@ export const idleSave = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "The state a save holds and the player it belongs to are properties this type does not yet declare.",
++        "The state a save holds and that save's player are properties this type does not yet declare.",
+     },
+   ],
+ } as const satisfies PageType
