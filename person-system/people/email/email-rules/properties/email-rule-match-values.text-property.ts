@@ -13,7 +13,7 @@ export const emailRuleMatchValues = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A value is written as the mail carries it rather than as a title.",
+      statement: "A value is written as the mail carries that value rather than as a title.",
     },
   ],
 } as const satisfies TextProperty
