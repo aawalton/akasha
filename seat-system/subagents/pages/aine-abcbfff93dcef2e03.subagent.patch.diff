@@ -100,7 +100,7 @@ index edf0697d915c93b79ae3cc4b77e1c826d7a43998..c3d9095197397b5bab2396fc010beaa4
      {
        invariantKind: "departure",
 diff --git a/testing-system/testing-system.workspace-package.ts b/testing-system/testing-system.workspace-package.ts
-index 9e951a20191b298a9e9eed396f6847d6460d0639..e300a0b5c7a460583bf7bd222d6231c3150c6a7c 100644
+index 9e951a20191b298a9e9eed396f6847d6460d0639..ed4d67d5387a34b55107704c257d772f35bcd82a 100644
 --- a/testing-system/testing-system.workspace-package.ts
 +++ b/testing-system/testing-system.workspace-package.ts
 @@ -4,7 +4,7 @@ export const testingSystem = {
@@ -112,7 +112,7 @@ index 9e951a20191b298a9e9eed396f6847d6460d0639..e300a0b5c7a460583bf7bd222d6231c3
    manifest: "json",
    partSlugs: [
      "domain/test",
-@@ -22,20 +22,20 @@ export const testingSystem = {
+@@ -22,24 +22,24 @@ export const testingSystem = {
    invariants: [
      {
        invariantKind: "departure",
@@ -134,6 +134,11 @@ index 9e951a20191b298a9e9eed396f6847d6460d0639..e300a0b5c7a460583bf7bd222d6231c3
        statement:
 -        "A fixture beside a module reaches for what stands here rather than spelling it again.",
 +        "A fixture beside a module reaches for what is here rather than spelling it again.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What stands here is reached by tests alone.",
++      statement: "What is here is reached by tests alone.",
      },
      {
        invariantKind: "departure",
