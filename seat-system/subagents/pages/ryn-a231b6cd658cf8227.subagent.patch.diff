@@ -1,5 +1,5 @@
 diff --git a/person-system/people/email/gmail-mailboxes/properties/processed-messages.page-property-entry.ts b/person-system/people/email/gmail-mailboxes/properties/processed-messages.page-property-entry.ts
-index 649c69b01c019b76e6e1330843ef9500c59745d0..83acc6e61f267640951bbe082bf208bf5b1ee5c5 100644
+index 649c69b01c019b76e6e1330843ef9500c59745d0..c347076bbd1a16ce9d68b87f603254f71c5b88ab 100644
 --- a/person-system/people/email/gmail-mailboxes/properties/processed-messages.page-property-entry.ts
 +++ b/person-system/people/email/gmail-mailboxes/properties/processed-messages.page-property-entry.ts
 @@ -23,7 +23,7 @@ export const processedMessages = {
@@ -11,3 +11,12 @@ index 649c69b01c019b76e6e1330843ef9500c59745d0..83acc6e61f267640951bbe082bf208bf
      },
      {
        invariantKind: "departure",
+@@ -31,7 +31,7 @@ export const processedMessages = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A processed message sits beside the mailbox it was read from.",
++      statement: "A processed message sits beside the mailbox that message was read from.",
+     },
+     {
+       invariantKind: "absence",
