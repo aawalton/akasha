@@ -10,7 +10,7 @@ export const clusterWorkloads = {
     {
       invariantKind: "departure",
       statement:
-        "A delete of what is already gone is answered as no delete rather than as a fault.",
+        "A delete of a workload already gone is answered as no delete rather than as a fault.",
     },
     {
       invariantKind: "departure",
