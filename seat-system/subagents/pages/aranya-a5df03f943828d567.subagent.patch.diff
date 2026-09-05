@@ -13,3 +13,15 @@ index 0000000000000000000000000000000000000000..d4abd0fd6cbc5aeafc58aee4757efb6c
 +  definition: "the deployment running the builder that turns a Dockerfile into an image",
 +  code: "ts",
 +} as const satisfies Manifest
+diff --git a/infrastructure/container-image/container-image.domain.ts b/infrastructure/container-image/container-image.domain.ts
+index 22596edc6d121bfe2995f818ea218c203498364a..0283f795c018d0cd276a6bc790acf691309f33ab 100644
+--- a/infrastructure/container-image/container-image.domain.ts
++++ b/infrastructure/container-image/container-image.domain.ts
+@@ -8,6 +8,7 @@ export const containerImage = {
+   partSlugs: [
+     "workspace-package/dockerfiles",
+     "container-recipe/postgres-cnpg-image",
++    "manifest/buildkit",
+     "manifest/buildkit-prune",
+   ],
+   invariants: [
