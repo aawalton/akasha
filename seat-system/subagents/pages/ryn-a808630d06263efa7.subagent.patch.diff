@@ -1,0 +1,13 @@
+diff --git a/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.ts b/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.ts
+index 0d22e903d22a174b7d3dbbfedcd5378681eeb6c8..0747d91d85deb31a045ee7ac265794570b9b4176 100644
+--- a/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.ts
++++ b/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.ts
+@@ -12,7 +12,7 @@ export const blockTypecheck = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Every `tsc` call is refused whether it names a file or none.",
++      statement: "Every `tsc` call is refused whether that call names a file or none.",
+     },
+     {
+       invariantKind: "departure",
