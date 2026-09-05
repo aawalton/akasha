@@ -52,7 +52,7 @@ export const inferenceVoiceClone = {
     },
     {
       invariantKind: "departure",
-      statement: "The audio is written where the caller named it and nowhere else.",
+      statement: "The audio is written where the caller named that audio and nowhere else.",
     },
     {
       invariantKind: "departure",
