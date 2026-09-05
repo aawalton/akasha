@@ -13,7 +13,7 @@ export const defaultValue = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A default is what a writer states when the writer is told nothing.",
+      statement: "A default is the value a writer states when the writer is told nothing.",
     },
     {
       invariantKind: "departure",
