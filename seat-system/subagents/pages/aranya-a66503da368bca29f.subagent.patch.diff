@@ -1,0 +1,11 @@
+diff --git a/service-system/cluster-services/pages/temper-web.cluster-service.ts b/service-system/cluster-services/pages/temper-web.cluster-service.ts
+index bfb85951176f663b1c1a2203951ef38fd25ab1ac..70495becbcda075a5502dcb4e1a6c585c08bdd85 100644
+--- a/service-system/cluster-services/pages/temper-web.cluster-service.ts
++++ b/service-system/cluster-services/pages/temper-web.cluster-service.ts
+@@ -11,5 +11,5 @@ export const temperWeb = {
+   image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
+   replicas: 1,
+   containerPort: 3000,
+-  manifestCode: "temper/temper-web/temper-web.cluster-service.code.attachment.ts",
++  manifestSlug: "temper-web-manifests",
+ } as const satisfies ClusterService
