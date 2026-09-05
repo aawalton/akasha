@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/access/file-write/file-write.module.ts b/pages/access/file-write/file-write.module.ts
-index c5987ec93f4bc016459f72546397d9cd161b3415..1a758dd3c05d69691b16a03847ac815cc250f981 100644
+index c5987ec93f4bc016459f72546397d9cd161b3415..48f1e5bdb1c17549922b069048122aaeba494749 100644
 --- a/pages/access/file-write/file-write.module.ts
 +++ b/pages/access/file-write/file-write.module.ts
 @@ -19,7 +19,7 @@ export const fileWrite = {
@@ -22,3 +22,12 @@ index c5987ec93f4bc016459f72546397d9cd161b3415..1a758dd3c05d69691b16a03847ac815c
      },
      {
        invariantKind: "departure",
+@@ -67,7 +68,7 @@ export const fileWrite = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here reads what a page type declares.",
++      statement: "Nothing here reads the properties a page type declares.",
+     },
+   ],
+ } as const satisfies Module
