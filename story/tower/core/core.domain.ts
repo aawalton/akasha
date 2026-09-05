@@ -26,7 +26,7 @@ export const core = {
     },
     {
       invariantKind: "departure",
-      statement: "What a player is shown of a sheet is a shape of its own.",
+      statement: "The part of a sheet a player is shown is a shape of its own.",
     },
   ],
 } as const satisfies Domain
