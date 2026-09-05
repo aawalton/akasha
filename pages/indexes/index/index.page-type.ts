@@ -1,7 +1,7 @@
 import type { Module } from "@akasha/code-system/module"
 import type { Test } from "@akasha/code-system/module/test"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { IndexName } from "./properties/index-name.text-property.ts"
+import type { IndexName } from "../properties/index-name.text-property.ts"
 
 export type Index = Module & {
   test: Test
@@ -14,7 +14,7 @@ export const index = {
   slug: "index",
   definition: "one question the pages can be asked, answered by reading one file",
   pluralSlug: "indexes",
-  partSlugs: ["text-property/index-name"],
+  partSlugs: [],
   extendsSlug: ["page-type/module"],
   properties: [
     { pagePropertySlug: "index-name", required: true, many: false },
