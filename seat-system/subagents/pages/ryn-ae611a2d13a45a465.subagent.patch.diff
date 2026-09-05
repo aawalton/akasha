@@ -1,0 +1,14 @@
+diff --git a/editor-extension/work-tree-view/work-tree-view.module.ts b/editor-extension/work-tree-view/work-tree-view.module.ts
+index bfccc4191d841efb5958fb35e6f8504a4189c63a..8cf288e4b8b934af43fc9922e3e80293565c36fa 100644
+--- a/editor-extension/work-tree-view/work-tree-view.module.ts
++++ b/editor-extension/work-tree-view/work-tree-view.module.ts
+@@ -25,7 +25,8 @@ export const workTreeView = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row is identified apart while a filter is there, so the editor redraws it.",
++      statement:
++        "A row is identified apart while a filter is there, so the editor redraws that row.",
+     },
+     {
+       invariantKind: "departure",
