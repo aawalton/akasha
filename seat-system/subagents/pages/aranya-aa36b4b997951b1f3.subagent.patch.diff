@@ -1,0 +1,13 @@
+diff --git a/service-system/cluster-services/pages/loki.cluster-service.ts b/service-system/cluster-services/pages/loki.cluster-service.ts
+index dffe46a7bc79a350ee3740f35bdc04339996e93b..95b10616fca811901f78808de920f54df5ff7e6c 100644
+--- a/service-system/cluster-services/pages/loki.cluster-service.ts
++++ b/service-system/cluster-services/pages/loki.cluster-service.ts
+@@ -11,7 +11,7 @@ export const loki = {
+   image: "grafana/loki:3.1.0",
+   replicas: 1,
+   containerPort: 3100,
+-  manifestCode: "infrastructure/loki-service/loki/loki.cluster-service.code.attachment.ts",
++  manifestSlug: "loki",
+   invariants: [
+     {
+       invariantKind: "departure",
