@@ -190,3 +190,26 @@ index a6c02badd49eeb74561d4c7ac516114e5cc10660..d37f1304729a10e7e588f77b82195838
      {
        invariantKind: "departure",
        statement:
+diff --git a/commands/replace/replace.command.ts b/commands/replace/replace.command.ts
+index 5ba6a75ac2a11ac79236dfd23b0c2224c9ba4a1e..952907b9429940dfbc691dd8432464cf7d8c9eaa 100644
+--- a/commands/replace/replace.command.ts
++++ b/commands/replace/replace.command.ts
+@@ -24,6 +24,7 @@ export const replace = {
+     "a passage piped in sits between <<<<<<< old and =======, and what it becomes before >>>>>>> new.",
+     "a payload names a run of its own on the line it opens with, so a passage may carry a marker line.",
+     "opening at <<<<<<<ZZ old marks that payload with =======ZZ and >>>>>>>ZZ new throughout.",
++    "a marker carrying mid-line ends its passage before the last line ending, so a passage may end mid-line.",
+     "the passage is matched as the bytes it is rather than as a pattern.",
+     "a file named that holds the passage nowhere refuses the call, so name only the files that change.",
+     "--dry-run is how the files that hold the passage are found.",
+@@ -79,6 +80,10 @@ export const replace = {
+       invariantKind: "departure",
+       statement: "A passage carries the trailing newline of the file naming it.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A block marker carrying `mid-line` ends its passage before that newline.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "An empty passage names no place and is refused.",
