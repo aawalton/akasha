@@ -27,7 +27,6 @@ export const exerciseScheduleCreate = {
   ],
   helpNotes: [
     "every day takes a focus, and rest is one of them.",
-    "the schedule already active is stood down before this one is set up.",
     "a day's slug is derived from the schedule's slug and the weekday.",
   ],
   invariants: [
