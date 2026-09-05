@@ -179,7 +179,7 @@ test("a queued verdict becomes an item rule and the count is logged", async () =
     content,
     knownUserSource("user-1"),
     recordingLog(lines),
-    fakeStore({ present: true, inventory: undefined }, written)
+    fakeStore({ present: true, inventory: { version: 2, rules: [] } }, written)
   )
   expect(lines).toEqual([
     "INFO Item-rule verdicts: materialized 2/2 queued verdict(s) into settings.inventory.",
@@ -214,6 +214,22 @@ test("an item rule already saved for that item is overwritten rather than added 
   expect(settings.itemRules.length).toBe(1)
   expect(settings.itemRules[0]?.itemName).toBe("Renamed")
   expect(settings.itemRules[0]?.action).toBe("nothing")
+})
+
+test("settings that could not be read are not amended and not written back", async () => {
+  const content = savedVariables(accountWith("@alan", verdictEntry(123, "Foo", "sell")))
+  const lines: string[] = []
+  const written: unknown[] = []
+  await runImportItemRuleVerdicts(
+    content,
+    knownUserSource("user-1"),
+    recordingLog(lines),
+    fakeStore({ present: true, inventory: undefined }, written)
+  )
+  expect(written).toEqual([])
+  expect(lines).toEqual([
+    "ERROR Item-rule verdicts: materialized 0/1 queued verdict(s) into settings.inventory — this account's inventory settings could not be read.",
+  ])
 })
 
 test("no page for the user leaves the settings unwritten and reports an error", async () => {
