@@ -14,7 +14,7 @@ export const instrument = {
     },
     {
       invariantKind: "departure",
-      statement: "An instrument never changes what the instrument was run on.",
+      statement: "An instrument never changes the subject the instrument was run on.",
     },
     {
       invariantKind: "departure",
