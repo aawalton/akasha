@@ -1,5 +1,5 @@
 diff --git a/graph/asking/graph-asking.module.test-fixtures.ts b/graph/asking/graph-asking.module.test-fixtures.ts
-index 510707ce5269255d0630992e20de3cbde2a5cfbd..aa6e6243f6334487de54785e0100bcfdc45ce4ed 100644
+index 510707ce5269255d0630992e20de3cbde2a5cfbd..902e4b38693f0a30604af8adaa69e5ad732eb19c 100644
 --- a/graph/asking/graph-asking.module.test-fixtures.ts
 +++ b/graph/asking/graph-asking.module.test-fixtures.ts
 @@ -147,10 +147,10 @@ function edged(
@@ -16,3 +16,21 @@ index 510707ce5269255d0630992e20de3cbde2a5cfbd..aa6e6243f6334487de54785e0100bcfd
    filed(root, `path/${TARGET_AT}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
    filed(root, `path/${SIDECAR_AT}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
    if (lines > 0) {
+@@ -201,7 +201,7 @@ export function reachingWorld(reaching: Readonly<Record<string, readonly string[
+   return root
+ }
+ 
+-export function loadingWorld(loadedBySlug: string | null, typeStands = true): string {
++export function loadingWorld(loadedBySlug: string | null, typeExists = true): string {
+   const root = worldFor(IMPORT)
+   filed(root, `${IMPORT}/path/${LOADED_AT}.jsonl`, { path: SOURCE_AT })
+   paged(root, TYPE_AT, {
+@@ -211,7 +211,7 @@ export function loadingWorld(loadedBySlug: string | null, typeStands = true): st
+     definition: "a page type a test invented",
+     ...(loadedBySlug === null ? {} : { loadedBySlug }),
+   })
+-  if (typeStands) filed(root, TYPE_FILED_AT, { path: TYPE_AT, id: TYPE_ID })
++  if (typeExists) filed(root, TYPE_FILED_AT, { path: TYPE_AT, id: TYPE_ID })
+   paged(root, LOADER_AT, {
+     id: LOADER_ID,
+     pageTypeSlug: MODULE,
