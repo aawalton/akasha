@@ -24,7 +24,7 @@ export const temperAddonBundleBuild = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What is packed is the build output already written.",
+      statement: "The build output already written is packed.",
     },
     {
       invariantKind: "departure",
