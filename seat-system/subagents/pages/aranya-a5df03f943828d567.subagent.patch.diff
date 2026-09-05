@@ -1,3 +1,15 @@
+diff --git a/infrastructure/node/node.domain.ts b/infrastructure/node/node.domain.ts
+index 87a3a85ffd6f92d07307553c4885437adca11613..1cdcd9592acf7306bfa774faf216b76430a06618 100644
+--- a/infrastructure/node/node.domain.ts
++++ b/infrastructure/node/node.domain.ts
+@@ -5,6 +5,7 @@ export const node = {
+   pageTypeSlug: "domain",
+   slug: "node",
+   definition: "one machine in a cluster",
++  partSlugs: ["manifest/nvidia-device-plugin"],
+   invariants: [
+     {
+       invariantKind: "departure",
 diff --git a/infrastructure/node/nvidia-device-plugin/nvidia-device-plugin.manifest.ts b/infrastructure/node/nvidia-device-plugin/nvidia-device-plugin.manifest.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..390116b3b9ade36d08abd27bf826bacc0e140be4
