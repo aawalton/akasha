@@ -4,7 +4,7 @@ import { join } from "node:path"
 import type { Given } from "@akasha/command-system/calling"
 import type { FileEdit } from "@akasha/command-system/landing"
 import { rootOf } from "@akasha/command-system/rooting"
-import type { Value } from "@akasha/pages-system/page-value"
+import type { Value } from "@akasha/pages/page-value"
 import {
   appendedOnto,
   askingFor,

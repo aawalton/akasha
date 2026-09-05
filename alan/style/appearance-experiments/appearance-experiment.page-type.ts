@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages-system/page"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { Page } from "@akasha/pages/page"
+import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { AppearanceExperimentDay } from "./properties/appearance-experiment-day.calendar-date-property.ts"
 import type { AppearanceVerdict } from "./properties/appearance-verdict.select-property.ts"

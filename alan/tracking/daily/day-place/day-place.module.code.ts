@@ -1,6 +1,6 @@
 import { dataError } from "@akasha/errors-core/exit-code"
-import { kebabisedRow } from "@akasha/pages-system/akasha-page-values"
-import { AKASHA as AKASHA_REPO, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { kebabisedRow } from "@akasha/pages/akasha-page-values"
+import { AKASHA as AKASHA_REPO, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { asking } from "@akasha/pages-system-service/asking"
 import { landAkashaDayPage, landAkashaSessionRow } from "../akasha-day/akasha-day.module.code.ts"
 import type {

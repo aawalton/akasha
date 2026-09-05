@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const scriptureTranslation = {
   id: "01a0658d-fe50-7004-9783-8442718557a7",

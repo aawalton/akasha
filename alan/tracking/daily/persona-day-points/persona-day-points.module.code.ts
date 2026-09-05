@@ -1,6 +1,6 @@
 import { landedMechanically } from "@akasha/command-system/asking"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { refuseALiveTestWrite } from "@akasha/pages-system/live-store-write-guard"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import { refuseALiveTestWrite } from "@akasha/pages/live-store-write-guard"
 import { asking } from "@akasha/pages-system-service/asking"
 import { composedFor } from "@akasha/pages-system-service/composing"
 import { greenDayPointsOf } from "@akasha/personas-core/green-day-fraction"

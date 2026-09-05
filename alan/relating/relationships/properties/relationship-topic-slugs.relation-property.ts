@@ -1,5 +1,5 @@
-import type { Slug } from "@akasha/pages-system/page/slug"
-import type { RelationProperty } from "@akasha/pages-system/relation-property"
+import type { Slug } from "@akasha/pages/page/slug"
+import type { RelationProperty } from "@akasha/pages/relation-property"
 
 export type RelationshipTopicSlugs = Slug
 

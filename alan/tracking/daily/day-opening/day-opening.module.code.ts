@@ -1,5 +1,5 @@
 import { getEsoDayStr, getEsoDayWindow } from "@akasha/day/eso-day"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import type { Roots } from "@akasha/pages/markdown-page-at"
 
 export const WAKE_DAY = "wake-day"
 

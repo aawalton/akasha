@@ -1,4 +1,4 @@
-import type { Rung } from "@akasha/pages-system/rank-property"
+import type { Rung } from "@akasha/pages/rank-property"
 
 export type MusicRating = Rung
 

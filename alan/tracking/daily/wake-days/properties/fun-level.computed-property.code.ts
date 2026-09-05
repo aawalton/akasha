@@ -1,4 +1,4 @@
-import type { Work } from "@akasha/pages-system/computed-property"
+import type { Work } from "@akasha/pages/computed-property"
 import type { WakeDay } from "../wake-day.page-type.ts"
 
 const NO_RUNG = 0

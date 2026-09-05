@@ -4,7 +4,7 @@ import { indexThere } from "@akasha/indexes"
 import type { Catalog } from "@akasha/music-choosing/music-exploration"
 import { selectNextExploration } from "@akasha/music-choosing/music-exploration"
 import { MUSIC_RATINGS } from "@akasha/music-choosing/rating-ladder"
-import { codeRoot } from "@akasha/pages-system/code-root"
+import { codeRoot } from "@akasha/pages/code-root"
 import {
   catalogIn,
   gradeAmiss,

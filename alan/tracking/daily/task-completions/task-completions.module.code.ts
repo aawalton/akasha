@@ -1,5 +1,5 @@
 import { getEsoDayWindow } from "@akasha/day/eso-day"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { asking } from "@akasha/pages-system-service/asking"
 import { completedTasksInSpan } from "../day-place/day-place.module.code.ts"
 import { textOf } from "../day-scan-window/day-scan-window.module.code.ts"

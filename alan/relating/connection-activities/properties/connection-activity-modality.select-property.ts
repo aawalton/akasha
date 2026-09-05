@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const connectionActivityModality = {
   id: "01a0658e-c30e-784d-97bf-716f7ed651a5",

@@ -10,8 +10,8 @@ import type {
 import { selectNextExploration } from "@akasha/music-choosing/music-exploration"
 import type { MusicRating } from "@akasha/music-choosing/rating-ladder"
 import { MUSIC_RATINGS } from "@akasha/music-choosing/rating-ladder"
-import { propertiesIfNamedOf } from "@akasha/pages-system/page-type-properties"
-import { valueAt } from "@akasha/pages-system/page-value"
+import { propertiesIfNamedOf } from "@akasha/pages/page-type-properties"
+import { valueAt } from "@akasha/pages/page-value"
 
 const INPUT = 1
 

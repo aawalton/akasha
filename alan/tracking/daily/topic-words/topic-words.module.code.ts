@@ -1,6 +1,6 @@
 import { getEsoDayWindow } from "@akasha/day/eso-day"
 import { runGit } from "@akasha/git/git-answering"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import {
   type WriteOutcome,
   writeIntelligenceWords,

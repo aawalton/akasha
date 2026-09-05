@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const episodeType = {
   id: "01a06599-ee09-700b-b9c1-3c28e65e2b56",
