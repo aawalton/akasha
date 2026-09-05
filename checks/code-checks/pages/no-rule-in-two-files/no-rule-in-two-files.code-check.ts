@@ -35,7 +35,7 @@ export const noRuleInTwoFiles = {
     },
     {
       invariantKind: "absence",
-      statement: "No file owns a rule by exporting it.",
+      statement: "No file owns a rule by exporting that rule.",
     },
     {
       invariantKind: "absence",
