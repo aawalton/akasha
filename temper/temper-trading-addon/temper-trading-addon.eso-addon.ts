@@ -42,11 +42,7 @@ export const temperTradingAddon = {
       invariantKind: "departure",
       statement: "A captured listing is dropped once the listing has aged past the expiry.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "A suggested sale price comes from the trade centre where that trade centre has one.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A search a player named is kept between sessions.",
