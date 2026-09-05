@@ -17,7 +17,7 @@ export const useCompletionCatalogs = {
     },
     {
       invariantKind: "departure",
-      statement: "A navigation inside the app reuses what is held rather than asking again.",
+      statement: "A navigation inside the app reuses the held catalogs rather than asking again.",
     },
     {
       invariantKind: "constraint",
@@ -45,7 +45,7 @@ export const useCompletionCatalogs = {
     },
     {
       invariantKind: "departure",
-      statement: "Narrowing a row to the keys named is what makes the assertion true.",
+      statement: "Narrowing a row to the keys named makes the assertion true.",
     },
     {
       invariantKind: "departure",
