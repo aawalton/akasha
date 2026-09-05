@@ -82,3 +82,17 @@ index 18feda1897bafa93203a3a7b668652ac72b64e1b..d825095ce16eeebfabfb6aa48b5c66ec
      },
      {
        invariantKind: "absence",
+diff --git a/command-system/harness-landing/harness-landing.module.ts b/command-system/harness-landing/harness-landing.module.ts
+index 761ec0515f70c831b2379f0774c59caa9c32ea95..b32593162dfb43a429a248e83d06de2fd55becf2 100644
+--- a/command-system/harness-landing/harness-landing.module.ts
++++ b/command-system/harness-landing/harness-landing.module.ts
+@@ -9,8 +9,7 @@ export const harnessLanding = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Bodies land, removals unlink and carries rename before anything commits, so a failed commit is no no-op.",
++      statement: "Bodies land, removals unlink and carries rename before anything commits.",
+     },
+     {
+       invariantKind: "departure",
