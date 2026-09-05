@@ -73,6 +73,21 @@ export async function loggedAt(at: string, within: number): Promise<string> {
   return existsSync(at) ? readFileSync(at, "utf8") : ""
 }
 
+export const STAMP = /^(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}[+-]\d{2}:\d{2}) /
+
+// WHAT THE LINE SAYS ITS TIME WAS, or nothing where the line opens with no time. Read here rather
+// than in the test so the seeded control and the assertion ask one question.
+export function stampOpening(line: string): Date | null {
+  const read = STAMP.exec(line)
+  if (read === null) return null
+  const held = Date.parse(read[1] ?? "")
+  return Number.isNaN(held) ? null : new Date(held)
+}
+
+export function pastTheStamp(line: string): string {
+  return line.replace(STAMP, "")
+}
+
 export function idIn(body: string): string | null {
   return /\n {2}id: "([^"]+)",/.exec(body)?.[1] ?? null
 }

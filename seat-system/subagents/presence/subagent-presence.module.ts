@@ -85,6 +85,18 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
+      statement: "Every line that log carries opens with the time that line was written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The time is put on where the line is written rather than where a reason is made.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A time is said to the millisecond, carrying the offset it was written at.",
+    },
+    {
+      invariantKind: "departure",
       statement: "That log is in the seat's own folder beside the seat's supervisor log.",
     },
     {

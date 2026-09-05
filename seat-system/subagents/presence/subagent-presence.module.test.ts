@@ -16,6 +16,7 @@ import {
   pathOf,
   seatNamedIn,
   slugOf,
+  stampedAt,
   took,
   WRITING,
   wrote,
@@ -35,13 +36,26 @@ import {
   MECHANICAL,
   messageIn,
   OWN,
+  pastTheStamp,
   SEAT_AT,
   SEAT_BODY,
   SEAT_ID,
   seated,
+  stampOpening,
   WENT,
   whyIn,
 } from "./subagent-presence.module.test-fixtures.ts"
+
+test("a stamp says the time to the millisecond, carrying the offset it was written at", () => {
+  const when = new Date(1788600000123)
+  const said = stampedAt(when)
+  expect(said).toMatch(/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}[+-]\d{2}:\d{2}$/)
+  expect(stampOpening(`${said} anything`)?.getTime()).toBe(when.getTime())
+})
+
+test("a line carrying no stamp is read as carrying none", () => {
+  expect(stampOpening(`subagent-presence: take ryn ${OWN} — the lock was held`)).toBe(null)
+})
 
 test("a slug joins the seat's name to the id the subagent runs under", () => {
   expect(slugOf("akasha", OWN)).toBe(`akasha-${OWN}`)
@@ -344,6 +358,11 @@ test("a write the seat's assignment refuses leaves its reason in the log", async
     const base = world.rootFor("subagent-presence-logs-")
     asking(root, SEAT_ID, [WRITING, "thea", OWN, "Explore", SEAT_ID], base)
     const held = await loggedAt(logPathOf(SEAT_ID, base), 30000)
+    const line = held.split("\n")[0] ?? ""
+    const at = stampOpening(line)
+    expect(at).not.toBe(null)
+    expect(Math.abs((at?.getTime() ?? 0) - Date.now())).toBeLessThan(120000)
+    expect(pastTheStamp(line).startsWith(`subagent-presence: write thea ${OWN} — `)).toBe(true)
     expect(held).toContain("thea")
     expect(held).toContain("no assignment is stated")
   } finally {

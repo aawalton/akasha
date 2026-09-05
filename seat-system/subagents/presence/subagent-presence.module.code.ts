@@ -296,8 +296,32 @@ export function takingDown(
   asking(root, seatId, [TAKING, seatName, own], baseDir)
 }
 
+function padded(held: number, wide = 2): string {
+  return String(held).padStart(wide, "0")
+}
+
+// THE TIME GOES ON WHERE THE LINE IS WRITTEN rather than where the reason is composed. These lines
+// are the only record of a put-up or a take-down that did not land, and a put-up that did not land
+// leaves a subagent at work with no page, which blinds the restart interlock `standingSubagentsOf`
+// feeds. A record of that carrying no time cannot be lined up against the landing that blocked it,
+// and the file's own mtime says only when its last line arrived. One stamping point means no line
+// added later can go without one.
+//
+// THE OFFSET IS WRITTEN OUT, because a reader lines these up against `git log`, which says its
+// times in the offset they were made at.
+export function stampedAt(when: Date): string {
+  const off = -when.getTimezoneOffset()
+  const held = Math.abs(off)
+  return (
+    `${String(when.getFullYear())}-${padded(when.getMonth() + 1)}-${padded(when.getDate())}` +
+    `T${padded(when.getHours())}:${padded(when.getMinutes())}:${padded(when.getSeconds())}` +
+    `.${padded(when.getMilliseconds(), 3)}${off < 0 ? "-" : "+"}` +
+    `${padded(Math.floor(held / 60))}:${padded(held % 60)}`
+  )
+}
+
 function saying(why: string): number {
-  process.stderr.write(`${CALLED_AS}: ${why}\n`)
+  process.stderr.write(`${stampedAt(new Date())} ${CALLED_AS}: ${why}\n`)
   return 1
 }
 
