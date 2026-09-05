@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-lib-map-data/map-data-index-01/map-data-index-01.module.ts b/temper/temper-lib-map-data/map-data-index-01/map-data-index-01.module.ts
+index acf3d8f0f748042c7eda05802aa408799b194538..4075b645a22a3215b7742a128994473792b745bd 100644
+--- a/temper/temper-lib-map-data/map-data-index-01/map-data-index-01.module.ts
++++ b/temper/temper-lib-map-data/map-data-index-01/map-data-index-01.module.ts
+@@ -9,7 +9,7 @@ export const mapDataIndex01 = {
+   invariants: [
+     {
+       invariantKind: "constraint",
+-      statement: "These rows are what upstream LibMapData v1.21 states.",
++      statement: "These rows are the rows upstream LibMapData v1.21 states.",
+     },
+   ],
+ } as const satisfies Module
