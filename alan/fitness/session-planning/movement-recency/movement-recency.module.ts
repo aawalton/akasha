@@ -26,7 +26,7 @@ export const movementRecency = {
     },
     {
       invariantKind: "departure",
-      statement: "The gain is added to the blend rather than folded into it.",
+      statement: "The gain is added to the blend rather than folded into that blend.",
     },
   ],
 } as const satisfies Module
