@@ -1,3 +1,15 @@
+diff --git a/pages/pages.workspace-package.ts b/pages/pages.workspace-package.ts
+index fdab3568118dcb0f8e7554d595bd65f86d513838..aea785ff43649237d704703a0ca00db9aaaf149d 100644
+--- a/pages/pages.workspace-package.ts
++++ b/pages/pages.workspace-package.ts
+@@ -72,6 +72,7 @@ export const pages = {
+     "module/markdown-property",
+     "module/markdown-property-stated",
+     "module/page-answer-sweeping",
++    "module/calculation-loading",
+     "module/page-carry",
+     "module/page-computing",
+     "module/page-derive-shape",
 diff --git a/pages/value/page-value.module.code.ts b/pages/value/page-value.module.code.ts
 index 9dbb493f6d57041c99dbea284a1a5694bb711cc2..ddb7c7054f2d9c53ccfe09f03302a5b5a6bd9ae5 100644
 --- a/pages/value/page-value.module.code.ts
