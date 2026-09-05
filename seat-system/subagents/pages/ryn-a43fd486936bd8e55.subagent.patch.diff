@@ -103,3 +103,16 @@ index 885ad521048871c33ea4e3c7e123b8342255afbc..0bb48309409c2885f494952cd35e1ee9
      },
    ],
  } as const satisfies PageType
+diff --git a/seat-system/recipient-resolving/domain-lead-decide/domain-lead-decide.module.ts b/seat-system/recipient-resolving/domain-lead-decide/domain-lead-decide.module.ts
+index ee8a91d1edfc98c618244d446fd29eabc2d3a081..20ccef6be1b890f4d028caf0d14f458c35808671 100644
+--- a/seat-system/recipient-resolving/domain-lead-decide/domain-lead-decide.module.ts
++++ b/seat-system/recipient-resolving/domain-lead-decide/domain-lead-decide.module.ts
+@@ -17,7 +17,7 @@ export const domainLeadDecide = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A declared domain reaching no champion reports a tree that lost one rather than a domain nobody owns.",
++        "A declared domain reaching no champion reports a gap in the tree rather than a domain nobody owns.",
+     },
+     {
+       invariantKind: "departure",
