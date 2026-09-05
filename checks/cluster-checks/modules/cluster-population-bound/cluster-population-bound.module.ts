@@ -30,7 +30,8 @@ export const clusterPopulationBound = {
     },
     {
       invariantKind: "departure",
-      statement: "A shortfall against a least count names that count and where it was declared.",
+      statement:
+        "A shortfall against a least count names that count and where that count was declared.",
     },
     {
       invariantKind: "departure",
