@@ -52,7 +52,7 @@ export const temperRule = {
     },
     {
       invariantKind: "gap",
-      statement: "What a rule does to an item is done outside these pages.",
+      statement: "A rule's action on an item is done outside these pages.",
     },
   ],
 } as const satisfies PageType
