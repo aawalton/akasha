@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/modules/check-cost/check-cost.module.ts b/checks/modules/check-cost/check-cost.module.ts
+index 00388b8aad04ce50232719836f396aa591a91ba2..bd72bcf3f5427d50c44b36f2a3c2ed8fd79ba6d9 100644
+--- a/checks/modules/check-cost/check-cost.module.ts
++++ b/checks/modules/check-cost/check-cost.module.ts
+@@ -64,7 +64,7 @@ export const checkCost = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A run's peak carries what earlier runs left resident.",
++      statement: "A run's peak carries the memory earlier runs left resident.",
+     },
+     {
+       invariantKind: "gap",
