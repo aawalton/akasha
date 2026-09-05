@@ -75,7 +75,7 @@ export const track = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What to act on is the first word and the act is the second.",
+      statement: "The thing acted on is the first word and the act is the second.",
     },
     {
       invariantKind: "departure",
@@ -115,7 +115,7 @@ export const track = {
     },
     {
       invariantKind: "departure",
-      statement: "What `show` says to a reader carries each stretch's own id.",
+      statement: "`show` says each stretch's own id to a reader.",
     },
     {
       invariantKind: "departure",
@@ -260,7 +260,7 @@ export const track = {
     },
     {
       invariantKind: "departure",
-      statement: "An `amend` replaces what a stretch carried rather than adding to the stretch.",
+      statement: "An `amend` replaces a stretch's relationships rather than adding to the stretch.",
     },
     {
       invariantKind: "departure",
@@ -288,7 +288,7 @@ export const track = {
     },
     {
       invariantKind: "departure",
-      statement: "A `--dry-run` judges what would land and writes nothing.",
+      statement: "A `--dry-run` judges the change that would land and writes nothing.",
     },
     {
       invariantKind: "absence",
@@ -376,7 +376,7 @@ export const track = {
     },
     {
       invariantKind: "absence",
-      statement: "`check` says nothing beyond what `check` refuses.",
+      statement: "`check` says nothing beyond its own refusals.",
     },
     {
       invariantKind: "departure",
@@ -388,7 +388,7 @@ export const track = {
     },
     {
       invariantKind: "departure",
-      statement: "Every act that writes is judged by what `check` judges.",
+      statement: "Every act that writes is judged as `check` judges.",
     },
     {
       invariantKind: "departure",
@@ -404,7 +404,7 @@ export const track = {
     },
     {
       invariantKind: "departure",
-      statement: "Every check that judges a write judges what lands here.",
+      statement: "Every check that judges a write judges the rows landed here.",
     },
     {
       invariantKind: "absence",
