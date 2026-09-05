@@ -25,7 +25,7 @@ export const fileItself = {
     },
     {
       invariantKind: "departure",
-      statement: "Which files a machine writes is read from the properties naming them.",
+      statement: "Which files a machine writes is read from the properties naming those files.",
     },
     {
       invariantKind: "departure",
