@@ -68,5 +68,9 @@ export const story = {
       invariantKind: "departure",
       statement: "A sketch a story has told becomes lore.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Every story engine and story content file sits under `story/`.",
+    },
   ],
 } as const satisfies Domain
