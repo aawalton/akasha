@@ -75,21 +75,230 @@ index 63c2d0f35dea5add3df7e3e4a5445e40a12fd527..6d7d75cdd8cf6056894e90a67a0400ce
      const unread = unreadIn(root, outside.calledAs)
      const held = [saying(unread)]
      if (unread !== null) held.push(unread)
+diff --git a/command-system/calling/calling.module.test-fixtures.ts b/command-system/calling/calling.module.test-fixtures.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ca8861c3ed88932cfda2dfc680a32f440696225d
+--- /dev/null
++++ b/command-system/calling/calling.module.test-fixtures.ts
+@@ -0,0 +1,93 @@
++import { mkdirSync, writeFileSync } from "node:fs"
++import { join } from "node:path"
++import { idFiled, listedFiled, noneOfTypeFiled } from "@akasha/indexes/testing"
++import { exportedAs } from "@akasha/pages-system/page-export-name"
++import { scratchWorld } from "../scratching/scratching.module.code.ts"
++import type { Surface } from "./calling.module.code.ts"
++
++export const COMMAND = "command"
++
++export const COMMAND_TYPE = "01a04bdd-596d-7b81-9204-1a882f474a5f"
++
++export const REPAIR_AT = "commands/index/index.command.code.ts"
++
++const BOOTSTRAP_AT = "commands/index/index.command.ts"
++
++export const ANSWERS = `export function held(argv, given) {
++  return { report: [argv.join(" "), given.calledAs], refusals: [], code: 0 }
++}
++`
++
++export const ANSWERS_NOTHING = `export const held = 1\n`
++
++export const WILL_NOT_LOAD = `export function held( {\n`
++
++export const THROWS_NO_ERROR = `throw "the value was never set"\n`
++
++export const ANSWERS_LATER = `export async function held(argv, given) {
++  await new Promise((keep) => setTimeout(keep, 1))
++  return { report: [argv.join(" "), given.calledAs], refusals: [], code: 0 }
++}
++`
++
++export const SAYS_KIND = `export function held(argv, given) {
++  return { report: [JSON.stringify(given.changeKind ?? null)], refusals: [], code: 0 }
++}
++`
++
++export const OUTSIDE = { calledAs: "akasha", from: "/nowhere", writer: null, agentId: null }
++
++const scratch = scratchWorld()
++
++export const sweep = scratch.sweep
++
++export type Named = {
++  readonly slug: string
++  readonly body: string
++  readonly also?: string
++  readonly definition?: string
++  readonly surface?: Surface
++}
++
++export function rootWith(named: readonly Named[], typeSlug: string = COMMAND): string {
++  const root = scratch.rootFor("akasha-calling-")
++  noneOfTypeFiled(root, typeSlug)
++  idFiled(root, COMMAND_TYPE, [
++    { path: `akasha/command-system/command/${typeSlug}.page-type.ts`, id: COMMAND_TYPE },
++  ])
++  let minted = 0
++  for (const one of named) {
++    const at = `akasha/command-system/command/${one.slug}/${one.slug}.command.ts`
++    mkdirSync(join(root, at.slice(0, at.lastIndexOf("/"))), { recursive: true })
++    const stated =
++      one.definition === undefined ? "" : `, definition: ${JSON.stringify(one.definition)}`
++    const shown =
++      one.surface === undefined
++        ? ""
++        : `, taking: ${JSON.stringify(one.surface.taking)}, helpNotes: ${JSON.stringify(one.surface.helpNotes)}`
++    writeFileSync(
++      join(root, at),
++      `export const ${exportedAs(one.slug)} = { slug: "${one.slug}"${stated}${shown} }\n`
++    )
++    writeFileSync(join(root, `${at.slice(0, -".ts".length)}.code.ts`), one.body)
++    minted = minted + 1
++    const lines = [{ path: at, id: `01a04bdd-0000-7000-8000-00000000000${minted}` }]
++    if (one.also !== undefined) {
++      lines.push({ path: one.also, id: "01a04bdd-0000-7000-8000-000000000099" })
++    }
++    listedFiled(root, typeSlug, one.slug, lines)
++  }
++  return root
++}
++
++export function bootstrapped(root: string): undefined {
++  const at = join(root, BOOTSTRAP_AT)
++  mkdirSync(join(at, ".."), { recursive: true })
++  writeFileSync(at, 'export const index = { slug: "index" }\n')
++  writeFileSync(
++    join(root, REPAIR_AT),
++    "export function index(argv, given) {\n" +
++      '  return { report: [argv.join(" "), given.calledAs], refusals: [], code: 0 }\n' +
++      "}\n"
++  )
++}
 diff --git a/command-system/calling/calling.module.test.ts b/command-system/calling/calling.module.test.ts
-index 8cba27929e0f2ac1559a23248849b3d8049ec919..8d945b7d5b6acd634aae71af733eac9c4783b6dc 100644
+index 8cba27929e0f2ac1559a23248849b3d8049ec919..9a8241b572e3eeda98a2bf35434c681479a47d6a 100644
 --- a/command-system/calling/calling.module.test.ts
 +++ b/command-system/calling/calling.module.test.ts
-@@ -238,45 +238,56 @@ test("a command answering later is waited for rather than handed back as it stan
+@@ -1,9 +1,7 @@
+ import { afterAll, expect, test } from "bun:test"
+-import { mkdirSync, rmSync, writeFileSync } from "node:fs"
++import { rmSync } from "node:fs"
+ import { join } from "node:path"
+-import { idFiled, idTakenFrom, listedFiled, noneOfTypeFiled } from "@akasha/indexes/testing"
+-import { exportedAs } from "@akasha/pages-system/page-export-name"
+-import { scratchWorld } from "../scratching/scratching.module.code.ts"
++import { idTakenFrom } from "@akasha/indexes/testing"
+ import {
+   calling,
+   commandsIn,
+@@ -12,67 +10,22 @@ import {
+   type Surface,
+   wordsIn,
+ } from "./calling.module.code.ts"
+-
+-const COMMAND = "command"
+-
+-const COMMAND_TYPE = "01a04bdd-596d-7b81-9204-1a882f474a5f"
+-
+-const ANSWERS = `export function held(argv, given) {
+-  return { report: [argv.join(" "), given.calledAs], refusals: [], code: 0 }
+-}
+-`
+-
+-const ANSWERS_NOTHING = `export const held = 1\n`
+-
+-const WILL_NOT_LOAD = `export function held( {\n`
+-
+-const THROWS_NO_ERROR = `throw "the value was never set"\n`
+-
+-const scratch = scratchWorld()
+-
+-afterAll(scratch.sweep)
+-
+-function rootWith(
+-  named: readonly {
+-    readonly slug: string
+-    readonly body: string
+-    readonly also?: string
+-    readonly definition?: string
+-    readonly surface?: Surface
+-  }[],
+-  typeSlug: string = COMMAND
+-): string {
+-  const root = scratch.rootFor("akasha-calling-")
+-  noneOfTypeFiled(root, typeSlug)
+-  idFiled(root, COMMAND_TYPE, [
+-    { path: `akasha/command-system/command/${typeSlug}.page-type.ts`, id: COMMAND_TYPE },
+-  ])
+-  let minted = 0
+-  for (const one of named) {
+-    const at = `akasha/command-system/command/${one.slug}/${one.slug}.command.ts`
+-    mkdirSync(join(root, at.slice(0, at.lastIndexOf("/"))), { recursive: true })
+-    const stated =
+-      one.definition === undefined ? "" : `, definition: ${JSON.stringify(one.definition)}`
+-    const shown =
+-      one.surface === undefined
+-        ? ""
+-        : `, taking: ${JSON.stringify(one.surface.taking)}, helpNotes: ${JSON.stringify(one.surface.helpNotes)}`
+-    writeFileSync(
+-      join(root, at),
+-      `export const ${exportedAs(one.slug)} = { slug: "${one.slug}"${stated}${shown} }\n`
+-    )
+-    writeFileSync(join(root, `${at.slice(0, -".ts".length)}.code.ts`), one.body)
+-    minted = minted + 1
+-    const lines = [{ path: at, id: `01a04bdd-0000-7000-8000-00000000000${minted}` }]
+-    if (one.also !== undefined) {
+-      lines.push({ path: one.also, id: "01a04bdd-0000-7000-8000-000000000099" })
+-    }
+-    listedFiled(root, typeSlug, one.slug, lines)
+-  }
+-  return root
+-}
+-
+-const OUTSIDE = { calledAs: "akasha", from: "/nowhere", writer: null, agentId: null }
++import {
++  ANSWERS,
++  ANSWERS_LATER,
++  ANSWERS_NOTHING,
++  bootstrapped,
++  COMMAND_TYPE,
++  OUTSIDE,
++  REPAIR_AT,
++  rootWith,
++  SAYS_KIND,
++  sweep,
++  THROWS_NO_ERROR,
++  WILL_NOT_LOAD,
++} from "./calling.module.test-fixtures.ts"
++
++afterAll(sweep)
+ 
+ test("a command is found through the index and handed the rest of the line", async () => {
+   const root = rootWith([{ slug: "held", body: ANSWERS }])
+@@ -224,12 +177,6 @@ test("a command page throwing what is no Error is still refused with what it sai
+   expect(said.refusals[0]).toContain("could not be loaded — the value was never set")
+ })
+ 
+-const ANSWERS_LATER = `export async function held(argv, given) {
+-  await new Promise((keep) => setTimeout(keep, 1))
+-  return { report: [argv.join(" "), given.calledAs], refusals: [], code: 0 }
+-}
+-`
+-
+ test("a command answering later is waited for rather than handed back as it stands", async () => {
+   const root = rootWith([{ slug: "held", body: ANSWERS_LATER }])
+   const said = await calling(["held", "one"], { ...OUTSIDE, root })
+@@ -238,54 +185,74 @@ test("a command answering later is waited for rather than handed back as it stan
    expect(said.report[1]).toBe("akasha held")
  })
  
 -const ROOTED_AT = "commands/index/index.command.ts"
++<<<<<<< what this change would leave
 +const BOOTSTRAP_AT = "commands/index/index.command.ts"
++
++const REPAIR_AT = "commands/index/index.command.code.ts"
  
 -function rooted(root: string): undefined {
 -  const at = join(root, ROOTED_AT)
-+const REPAIR_AT = "commands/index/index.command.code.ts"
-+
 +function bootstrapped(root: string): undefined {
 +  const at = join(root, BOOTSTRAP_AT)
    mkdirSync(join(at, ".."), { recursive: true })
@@ -107,6 +316,8 @@ index 8cba27929e0f2ac1559a23248849b3d8049ec919..8d945b7d5b6acd634aae71af733eac9c
 -  const root = rootWith([{ slug: "held", body: ANSWERS }])
 -  rooted(root)
 -  rmSync(join(root, ".git"), { recursive: true })
++=======
++>>>>>>> what HEAD holds
 +test("the command that repairs the index is found through the index as any other is", async () => {
 +  const root = rootWith([{ slug: "index", body: ANSWERS }])
    const said = await calling(["index", "refresh"], { ...OUTSIDE, root })
@@ -141,8 +352,10 @@ index 8cba27929e0f2ac1559a23248849b3d8049ec919..8d945b7d5b6acd634aae71af733eac9c
 +  const said = await calling(["index", "refresh"], { ...OUTSIDE, root })
 +  expect(said.code).toBe(1)
 +  expect(said.refusals[0]).toContain("was looked for and not read")
-+})
-+
++<<<<<<< what this change would leave
+ })
+ 
+-test("a name looked for where no index stands is answered as unread, not as uncarried", async () => {
 +test("a call reaching no index is told the bun run that builds one without it", async () => {
 +  const root = rootWith([{ slug: "held", body: ANSWERS }])
 +  rmSync(join(root, ".git"), { recursive: true })
@@ -151,14 +364,48 @@ index 8cba27929e0f2ac1559a23248849b3d8049ec919..8d945b7d5b6acd634aae71af733eac9c
 +  expect(said.refusals[0]).toContain("bun -e ")
 +  expect(said.refusals[0]).toContain(join(root, REPAIR_AT))
 +  expect(said.refusals[0]).not.toContain("is found without the index")
++=======
++>>>>>>> what HEAD holds
++})
++
++test("a name looked for where no index is answers as unread and says how to build one", async () => {
+   const root = rootWith([{ slug: "held", body: ANSWERS }])
+   rmSync(join(root, ".git"), { recursive: true })
+   const said = await calling(["held"], { ...OUTSIDE, root })
+   expect(said.code).toBe(1)
+   expect(said.refusals[0]).toContain("was looked for and not read")
+   expect(said.refusals[0]).not.toContain("is no command akasha carries")
++  expect(said.refusals[0]).toContain("bun -e ")
++  expect(said.refusals[0]).toContain(join(root, REPAIR_AT))
++  expect(said.refusals[0]).not.toContain("is found without the index")
  })
  
- test("a name looked for where no index stands is answered as unread, not as uncarried", async () => {
+ test("the commands there are come from the index", () => {
+@@ -350,11 +317,6 @@ test("a name no command carries is told where the surface is written down", asyn
+   expect(said.refusals[0]).toContain("Say `akasha --help` for what each of them takes.")
+ })
+ 
+-const SAYS_KIND = `export function held(argv, given) {
+-  return { report: [JSON.stringify(given.changeKind ?? null)], refusals: [], code: 0 }
+-}
+-`
+-
+ const CARRIED = { slug: "change-mechanical", runsChecks: false, runsWarrants: false }
+ 
+ test("the change kind a call already carries is what the command is handed", async () => {
 diff --git a/command-system/calling/calling.module.ts b/command-system/calling/calling.module.ts
-index 0ac29daf258a3f1e8af82318cbf3faafa9a19fd3..b44149a3000c8912e71156909f8aa0df36be2299 100644
+index 0ac29daf258a3f1e8af82318cbf3faafa9a19fd3..ec0b6f3033952da86c6756c097292d305084b713 100644
 --- a/command-system/calling/calling.module.ts
 +++ b/command-system/calling/calling.module.ts
-@@ -20,12 +20,11 @@ export const calling = {
+@@ -7,6 +7,7 @@ export const calling = {
+   definition: "a name from the command line answered by the command that carries it",
+   code: "ts",
+   test: "ts",
++  testFixtures: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+@@ -20,12 +21,11 @@ export const calling = {
      {
        invariantKind: "departure",
        statement:
