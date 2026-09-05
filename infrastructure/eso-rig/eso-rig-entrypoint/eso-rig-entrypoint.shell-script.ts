@@ -22,7 +22,8 @@ export const esoRigEntrypoint = {
     },
     {
       invariantKind: "departure",
-      statement: "The named input device is the authority on what the X server reads input from.",
+      statement:
+        "The named input device is the authority on the event node the X server reads input from.",
     },
     {
       invariantKind: "departure",
