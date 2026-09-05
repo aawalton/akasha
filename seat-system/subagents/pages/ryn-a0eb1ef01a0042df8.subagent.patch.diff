@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/messaging/message-reach-write/message-reach-write.module.ts b/seat-system/messaging/message-reach-write/message-reach-write.module.ts
+index 43ecf33e3b2cb5a801ca03f6ab7b21c638f98706..cf9059d9ff6df70e09f684f58a685ca761131d7b 100644
+--- a/seat-system/messaging/message-reach-write/message-reach-write.module.ts
++++ b/seat-system/messaging/message-reach-write/message-reach-write.module.ts
+@@ -13,7 +13,7 @@ export const messageReachWrite = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An address that cannot be read refuses the write rather than landing it.",
++      statement: "An address that cannot be read refuses the write rather than landing that write.",
+     },
+     {
+       invariantKind: "departure",
