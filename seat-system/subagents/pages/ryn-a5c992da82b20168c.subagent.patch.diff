@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/shadow/shadow.module.ts b/pages/shadow/shadow.module.ts
+index ada2250113ab8235184088d4185d9cc6bdcb8896..87b7ce572e4f5d65138917a84cba05e36749ea79 100644
+--- a/pages/shadow/shadow.module.ts
++++ b/pages/shadow/shadow.module.ts
+@@ -70,7 +70,8 @@ export const shadow = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the change files is worked out by the same rule a landing settles by.",
++      statement:
++        "The entry files the change writes are worked out by the same rule a landing settles by.",
+     },
+     {
+       invariantKind: "departure",
