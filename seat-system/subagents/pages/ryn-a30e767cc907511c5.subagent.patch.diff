@@ -1,5 +1,5 @@
 diff --git a/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.ts b/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.ts
-index 15a080eec9c5be5f368de3133b9ed9f2545be201..d87885a9735bee5fa4d71239ed23347339b9c293 100644
+index 15a080eec9c5be5f368de3133b9ed9f2545be201..3dc5e3cc28b087a5c1f9fec7a2f1522c90dce283 100644
 --- a/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.ts
 +++ b/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.ts
 @@ -55,7 +55,8 @@ export const blockAkashaShellWrites = {
@@ -9,6 +9,16 @@ index 15a080eec9c5be5f368de3133b9ed9f2545be201..d87885a9735bee5fa4d71239ed233473
 -      statement: "A redirect is read outside the body a heredoc carries rather than inside it.",
 +      statement:
 +        "A redirect is read outside the body a heredoc carries rather than inside that body.",
+     },
+     {
+       invariantKind: "departure",
+@@ -67,7 +68,8 @@ export const blockAkashaShellWrites = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An interpreter is judged on every path the call handing it a program names.",
++      statement:
++        "An interpreter is judged on every path the call handing that interpreter a program names.",
      },
      {
        invariantKind: "departure",
