@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/data.file-property.ts b/temper/temper-holdings/inventory-snapshots/properties/data.file-property.ts
+index 684605ed923e894b84937caad22b21f3b774b06d..98ff0408057878052104fe75ba4477fc7f0ade35 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/data.file-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/data.file-property.ts
+@@ -40,7 +40,8 @@ export const data = {
+     },
+     {
+       invariantKind: "stopgap",
+-      statement: "The transport's division is not carried into akasha with the bytes it divided.",
++      statement:
++        "The transport's division is not carried into akasha with the bytes that transport divided.",
+     },
+   ],
+ } as const satisfies FileProperty
