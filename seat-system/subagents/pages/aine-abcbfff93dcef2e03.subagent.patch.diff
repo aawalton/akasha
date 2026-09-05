@@ -1,0 +1,104 @@
+diff --git a/mobile-commands/mobile-sim-push-tap/mobile-sim-push-tap.command.ts b/mobile-commands/mobile-sim-push-tap/mobile-sim-push-tap.command.ts
+index d85a954fbbd7bd1296fae7ae4ddeec9eaba963f7..d75567a7294020ae20755a4e840b6506fa6364e0 100644
+--- a/mobile-commands/mobile-sim-push-tap/mobile-sim-push-tap.command.ts
++++ b/mobile-commands/mobile-sim-push-tap/mobile-sim-push-tap.command.ts
+@@ -9,7 +9,7 @@ export const mobileSimPushTap = {
+   code: "ts",
+   changeKindSlug: "change-none",
+   taking: [
+-    { said: "<path>", takes: "the route the push carries, standing for `--route`" },
++    { said: "<path>", takes: "the route the push carries, representing `--route`" },
+     { said: "--route <path>", takes: "the route the push carries, such as a question's own path" },
+     { said: "--app <slug>", takes: "the app the push is for, the default app where none is said" },
+     {
+diff --git a/mobile-commands/mobile-sim-screenshot/mobile-sim-screenshot.command.ts b/mobile-commands/mobile-sim-screenshot/mobile-sim-screenshot.command.ts
+index 196aaa1778102ae88ff707229a123dfe0eb59a0d..3c8949c7ee9f1790a290db63329ebc4e03998a8b 100644
+--- a/mobile-commands/mobile-sim-screenshot/mobile-sim-screenshot.command.ts
++++ b/mobile-commands/mobile-sim-screenshot/mobile-sim-screenshot.command.ts
+@@ -16,7 +16,7 @@ export const mobileSimScreenshot = {
+   ],
+   helpNotes: [
+     "the path is answered so that whatever called this can read the picture itself.",
+-    "the session already standing is what is pictured, so `mobile sim open-url` comes first.",
++    "the session already there is what is pictured, so `mobile sim open-url` comes first.",
+     "the picture is of the whole screen rather than of the webview alone.",
+     "a path said is taken as it stands, and a folder that is not there is not made here.",
+   ],
+diff --git a/mobile-commands/mobile-sim-status/mobile-sim-status.command.code.ts b/mobile-commands/mobile-sim-status/mobile-sim-status.command.code.ts
+index b7f9377c99d02eaa9870d09c3415d0207f4316de..36f100ebf2dd47847db15657b5a75a0b27501210 100644
+--- a/mobile-commands/mobile-sim-status/mobile-sim-status.command.code.ts
++++ b/mobile-commands/mobile-sim-status/mobile-sim-status.command.code.ts
+@@ -40,7 +40,7 @@ async function stated(): Promise<Answer> {
+   const state = loadSessionState()
+   if (state === null) {
+     return told([
+-      `none\tno session stands, since ${SIM_SESSION_PATH} is absent`,
++      `none\tno session is there, since ${SIM_SESSION_PATH} is absent`,
+       "start one with `mobile sim boot` and then `mobile sim open-url`",
+     ])
+   }
+diff --git a/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts b/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
+index eca29f51ccd2df8a0361932e0cdb8755e94eeebe..d9a43efe5e4f18ac61a6bb2f0ea0247b4f8fb9e3 100644
+--- a/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
++++ b/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
+@@ -4,7 +4,7 @@ export const mobileSimStatus = {
+   id: "01a0685d-ceae-700c-9489-e7e3a1062803",
+   pageTypeSlug: "command",
+   slug: "mobile-sim-status",
+-  definition: "the command saying what the simulator session standing is",
++  definition: "the command saying what simulator session is there",
+   code: "ts",
+   changeKindSlug: "change-none",
+   taking: [],
+diff --git a/mobile-commands/mobile-sim-tap/mobile-sim-tap.command.ts b/mobile-commands/mobile-sim-tap/mobile-sim-tap.command.ts
+index ac0826a4518a65f379d8887c3a521613be4b7271..7dab8842f34db641bb1522d7f6d0777f28524e93 100644
+--- a/mobile-commands/mobile-sim-tap/mobile-sim-tap.command.ts
++++ b/mobile-commands/mobile-sim-tap/mobile-sim-tap.command.ts
+@@ -16,7 +16,7 @@ export const mobileSimTap = {
+     "the tap is native rather than a click in the page, which is what raises the keyboard.",
+     "a call names either an element or a point, and naming both is refused rather than chosen between.",
+     "a point is named by both `--x` and `--y`, and one without the other is no point.",
+-    "the session already standing is what is tapped, so `mobile sim open-url` comes first.",
++    "the session already there is what is tapped, so `mobile sim open-url` comes first.",
+     "an element no selector finds is a refusal rather than a tap at nowhere.",
+   ],
+   invariants: [
+diff --git a/mobile-commands/mobile-sim-teardown/mobile-sim-teardown.command.code.ts b/mobile-commands/mobile-sim-teardown/mobile-sim-teardown.command.code.ts
+index 0611346a9c1cdd643f00f76dd40f85832a9ddb0f..ce6e791d033efeda0a91c64fe1dc6f1a0b7bb567 100644
+--- a/mobile-commands/mobile-sim-teardown/mobile-sim-teardown.command.code.ts
++++ b/mobile-commands/mobile-sim-teardown/mobile-sim-teardown.command.code.ts
+@@ -31,7 +31,7 @@ async function tornDown(read: Read): Promise<Answer> {
+   const report: string[] = []
+   const state = loadSessionState()
+   if (state === null) {
+-    report.push("no session stood, so none was ended")
++    report.push("no session was there, so none was ended")
+   } else {
+     try {
+       await deleteSession(state.appiumBase, state.sessionId)
+diff --git a/mobile-commands/mobile-sim-teardown/mobile-sim-teardown.command.ts b/mobile-commands/mobile-sim-teardown/mobile-sim-teardown.command.ts
+index 0e9ae0b8b11e0289eaf2f5dc989cc2329a9e1c4c..3792381ced7a3cddad9e3e1c13bade4d31d3d4b5 100644
+--- a/mobile-commands/mobile-sim-teardown/mobile-sim-teardown.command.ts
++++ b/mobile-commands/mobile-sim-teardown/mobile-sim-teardown.command.ts
+@@ -4,7 +4,7 @@ export const mobileSimTeardown = {
+   id: "01a0685d-ceae-700e-bb0c-c5b113d526fd",
+   pageTypeSlug: "command",
+   slug: "mobile-sim-teardown",
+-  definition: "the command ending the simulator session standing",
++  definition: "the command ending the simulator session that is there",
+   code: "ts",
+   changeKindSlug: "change-none",
+   taking: [
+diff --git a/mobile-commands/mobile-sim-type/mobile-sim-type.command.ts b/mobile-commands/mobile-sim-type/mobile-sim-type.command.ts
+index a065e13c072047f236b5921c45ecfeda4dfed551..eb84c76fef3158c0c76b42d29c30cdb61556e512 100644
+--- a/mobile-commands/mobile-sim-type/mobile-sim-type.command.ts
++++ b/mobile-commands/mobile-sim-type/mobile-sim-type.command.ts
+@@ -18,7 +18,7 @@ export const mobileSimType = {
+   helpNotes: [
+     "the element is tapped before the text goes in, since typing into an element nothing focused reaches nothing.",
+     "a call naming no element types into whatever the session already has focused.",
+-    "the session already standing is what is typed into, so `mobile sim open-url` comes first.",
++    "the session already there is what is typed into, so `mobile sim open-url` comes first.",
+     "text too long to sit on a call is piped in and named `-`.",
+     "how many characters went in is the answer, rather than the text itself.",
+   ],
