@@ -34,7 +34,8 @@ export const library = {
     },
     {
       invariantKind: "departure",
-      statement: "What holds what is the one edge every part of this domain is read along.",
+      statement:
+        "Which collection holds which collection is the one edge every part of this domain is read along.",
     },
   ],
 } as const satisfies Domain
