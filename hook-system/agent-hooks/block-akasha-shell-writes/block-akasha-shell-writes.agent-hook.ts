@@ -96,7 +96,7 @@ export const blockAkashaShellWrites = {
     {
       invariantKind: "departure",
       statement:
-        "What the repository ignores is asked only over a landing that would otherwise be refused.",
+        "The repository's ignore rules are read only over a landing that would otherwise be refused.",
     },
     {
       invariantKind: "constraint",
