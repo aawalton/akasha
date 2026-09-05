@@ -1,5 +1,5 @@
 diff --git a/pages/shadow/shadow.module.test.ts b/pages/shadow/shadow.module.test.ts
-index 14655b12f1c5e4bb3f6a03c2ef36117150f77dce..3afab5db888c1f9173ac2e190cd7808b64794d29 100644
+index 14655b12f1c5e4bb3f6a03c2ef36117150f77dce..989633f51a6a1cb1068018b04a39f7e9c4165b2a 100644
 --- a/pages/shadow/shadow.module.test.ts
 +++ b/pages/shadow/shadow.module.test.ts
 @@ -229,7 +229,7 @@ test("a relation through a property the same change declares is filed, as a land
@@ -11,8 +11,17 @@ index 14655b12f1c5e4bb3f6a03c2ef36117150f77dce..3afab5db888c1f9173ac2e190cd7808b
    const repo = seeded()
    const twin = landedInto(repo, CHANGES)
    const reading = shadowOf(shadowFor(changeOver(repo, CHANGES)))
+@@ -245,7 +245,7 @@ test("a body the change carries is the body the shadow reads a page from", () =>
+   expect(cast.shadow.pageOf(inside("one/same.domain.ts"))).toBe(null)
+ })
+ 
+-test("an audit leaves everything as it stands, so nothing is worked out and no body is asked for", () => {
++test("an audit leaves everything as it is, so nothing is worked out and no body is asked for", () => {
+   const repo = seeded()
+   let asked = 0
+   const held = onDisk(repo)
 diff --git a/pages/shadow/shadow.module.ts b/pages/shadow/shadow.module.ts
-index ada2250113ab8235184088d4185d9cc6bdcb8896..721d54094ecd356f46e6ee73aaba774087d84075 100644
+index ada2250113ab8235184088d4185d9cc6bdcb8896..3b0ff4fa6d4d911ac74e98552d5e68682cb1b977 100644
 --- a/pages/shadow/shadow.module.ts
 +++ b/pages/shadow/shadow.module.ts
 @@ -78,7 +78,7 @@ export const shadow = {
@@ -24,11 +33,20 @@ index ada2250113ab8235184088d4185d9cc6bdcb8896..721d54094ecd356f46e6ee73aaba7740
      },
      {
        invariantKind: "departure",
+@@ -91,7 +91,7 @@ export const shadow = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A body the change only carries elsewhere stands at the path the body came from.",
++      statement: "A body the change only carries elsewhere is at the path the body came from.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/uncommitted/page-uncommitted.module.code.ts b/pages/uncommitted/page-uncommitted.module.code.ts
-index 4c9eab1870351ec7a92b26d31a182d44ce9ca2dd..e4ec629edd6a51a281df81dd62612500a275b67a 100644
+index 4c9eab1870351ec7a92b26d31a182d44ce9ca2dd..b76b9beb1d016f4f92d039c49811a106fc3b78c5 100644
 --- a/pages/uncommitted/page-uncommitted.module.code.ts
 +++ b/pages/uncommitted/page-uncommitted.module.code.ts
-@@ -93,7 +93,7 @@ function valuesIn(full: string, at: string): Value | null {
+@@ -93,12 +93,12 @@ function valuesIn(full: string, at: string): Value | null {
    const held = loadedFrom(readFileSync(full, "utf8"))
    if (held.failed !== null) {
      throw new Error(
@@ -37,11 +55,17 @@ index 4c9eab1870351ec7a92b26d31a182d44ce9ca2dd..e4ec629edd6a51a281df81dd62612500
      )
    }
    if (held.value === null) {
+     throw new Error(
+-      `'${at}' stands beside a page and declares no values, so what it holds is unknown rather than nothing`
++      `'${at}' sits beside a page and declares no values, so what it holds is unknown rather than nothing`
+     )
+   }
+   return held.value
 diff --git a/pages/uncommitted/page-uncommitted.module.test.ts b/pages/uncommitted/page-uncommitted.module.test.ts
-index 4b951ea3e02fbb76b6a94350a9bdaad9df8503c8..83158f9f88a967d72d439042f4d0f6a4decaff5b 100644
+index 4b951ea3e02fbb76b6a94350a9bdaad9df8503c8..a6e4a6a16b6e1f26dc59e8f15daf478b67a339fe 100644
 --- a/pages/uncommitted/page-uncommitted.module.test.ts
 +++ b/pages/uncommitted/page-uncommitted.module.test.ts
-@@ -98,7 +98,7 @@ test("what is kept beside a page is read back from it", () => {
+@@ -98,13 +98,13 @@ test("what is kept beside a page is read back from it", () => {
    expect(uncommittedIn(root, PAGE)).toEqual({ claudeCodeSessionUuid: "one", beats: 3 })
  })
  
@@ -50,8 +74,15 @@ index 4b951ea3e02fbb76b6a94350a9bdaad9df8503c8..83158f9f88a967d72d439042f4d0f6a4
    const root = rooted()
    keepUncommitted(root, PAGE, { held: "one" })
    expect(existsSync(join(root, BESIDE))).toBe(true)
+ })
+ 
+-test("keeping again replaces what stood there", () => {
++test("keeping again replaces what was there", () => {
+   const root = rooted()
+   keepUncommitted(root, PAGE, { held: "one" })
+   keepUncommitted(root, PAGE, { held: "two" })
 diff --git a/pages/uncommitted/page-uncommitted.module.ts b/pages/uncommitted/page-uncommitted.module.ts
-index 90ea594df756c9bbc095d8d341ba6d8d5d3e291c..94e2e6da389fe7a5c5859bf8e6fff280aef84a96 100644
+index 90ea594df756c9bbc095d8d341ba6d8d5d3e291c..0f01fd6fe94c3212a140eb4c010d1338193229b4 100644
 --- a/pages/uncommitted/page-uncommitted.module.ts
 +++ b/pages/uncommitted/page-uncommitted.module.ts
 @@ -64,7 +64,7 @@ export const pageUncommitted = {
@@ -60,6 +91,15 @@ index 90ea594df756c9bbc095d8d341ba6d8d5d3e291c..94e2e6da389fe7a5c5859bf8e6fff280
        invariantKind: "departure",
 -      statement: "The lock is taken by one create that fails where the lock already stands.",
 +      statement: "The lock is taken by one create that fails where the lock is already there.",
+     },
+     {
+       invariantKind: "departure",
+@@ -86,7 +86,7 @@ export const pageUncommitted = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A lock naming no holder that can be read is taken once that lock has stood too long.",
++        "A lock naming no holder that can be read is taken once that lock has been there too long.",
      },
      {
        invariantKind: "departure",
