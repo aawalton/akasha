@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-stated-name-refusal/seat-stated-name-refusal.module.ts b/seat-system/seat-stated-name-refusal/seat-stated-name-refusal.module.ts
+index 03921efccb8c4f641963d69781614e13eef802bc..c175156ce77cf009656760d54043ef45585fd361 100644
+--- a/seat-system/seat-stated-name-refusal/seat-stated-name-refusal.module.ts
++++ b/seat-system/seat-stated-name-refusal/seat-stated-name-refusal.module.ts
+@@ -11,7 +11,7 @@ export const seatStatedNameRefusal = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A seat's name is composed from what the seat is rather than typed beside what the seat is.",
++        "A seat's name is composed from the seat's attributes rather than typed beside those attributes.",
+     },
+     {
+       invariantKind: "departure",
