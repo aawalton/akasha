@@ -11,5 +11,6 @@ export const telemetry = {
     "manifest/dcgm-exporter-daemonset",
     "manifest/kube-state-metrics",
     "manifest/node-exporter-daemonset",
+    "manifest/pgbouncer-exporter",
   ],
 } as const satisfies Domain
