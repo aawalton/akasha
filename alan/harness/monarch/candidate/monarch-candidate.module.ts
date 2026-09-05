@@ -10,8 +10,7 @@ export const monarchCandidate = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A candidate is checked by the same reader a standing rule is, so it cannot be tried in a shape a page could not hold.",
+      statement: "A candidate is checked by the same reader a standing rule is.",
     },
     {
       invariantKind: "departure",
