@@ -14,3 +14,19 @@ index 9351630cc5956f0c3eddd8ff4d7fd308f0ef26f7..4833989d6d6ff374672d73d8bc5e2dc7
      {
        invariantKind: "absence",
        statement: "No rule about quoting or basenames exists here.",
+diff --git a/hook-system/git-calls/git-calls.module.ts b/hook-system/git-calls/git-calls.module.ts
+index f145faf1f5be40b4a3e90554395fadd298e5a9b8..3e7020f7edd055b8fcf84511328489e04eb47192 100644
+--- a/hook-system/git-calls/git-calls.module.ts
++++ b/hook-system/git-calls/git-calls.module.ts
+@@ -32,10 +32,7 @@ export const gitCalls = {
+       invariantKind: "absence",
+       statement: "The cutting is `shell-calls`.",
+     },
+-    {
+-      invariantKind: "absence",
+-      statement: "The stepping over of a prefix is `shell-calls` too.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "No rule about quoting or basenames exists here.",
