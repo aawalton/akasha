@@ -1,0 +1,89 @@
+diff --git a/hook-system/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.code.ts b/hook-system/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.code.ts
+index 85998ba42875bff2b35030b405db658bb566b2cc..8c67bba476f6a50555497486d51d1fa9220107b6 100644
+--- a/hook-system/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.code.ts
++++ b/hook-system/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.code.ts
+@@ -47,10 +47,10 @@ export const SCOPE: readonly string[] = [
+   "  - a symlink swapped between this hook resolving the path and the tool writing it. The answer",
+   "    is true of the tree as it was when the hook ran.",
+   "  - another checkout of this repository. The roots are taken from where this hook's own file",
+-  "    stands, so a second worktree's `akasha/` is a different folder and is not guarded from here.",
++  "    sits, so a second worktree's `akasha/` is a different folder and is not guarded from here.",
+   "  - a change already committed. This hook judges a call before it runs and changes nothing.",
+   "",
+-  "Printed by `block-akasha-edits.agent-hook.code.ts --scope`, which is where this stands: it is what",
++  "Printed by `block-akasha-edits.agent-hook.code.ts --scope`, which is where this sits: it is what",
+   "the program says about itself, held as the text it prints rather than as a comment.",
+ ]
+ 
+diff --git a/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.code.ts b/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.code.ts
+index 01580ca1e185f95171575a8f889d0fcb73c2c1ec..48393ee6cdeb107303c200ac9681b2c347fa390d 100644
+--- a/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.code.ts
++++ b/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.code.ts
+@@ -33,9 +33,9 @@ export const SCOPE: readonly string[] = [
+   "  - a path inside akasha that is a link pointing out of it. The read lands outside, so it is",
+   "    stood aside. A path is judged by where it lands, never by how it is spelled.",
+   "  - another checkout of this repository. The folder is taken from where this hook's own file",
+-  "    stands, so a second worktree's `akasha/` is a different folder and is not guarded from here.",
++  "    sits, so a second worktree's `akasha/` is a different folder and is not guarded from here.",
+   "",
+-  "Printed by `block-akasha-reads.agent-hook.code.ts --scope`, which is where this stands: it is",
++  "Printed by `block-akasha-reads.agent-hook.code.ts --scope`, which is where this sits: it is",
+   "what the program says about itself, held as the text it prints rather than as a comment.",
+ ]
+ 
+diff --git a/hook-system/agent-hooks/block-biome/block-biome.agent-hook.code.ts b/hook-system/agent-hooks/block-biome/block-biome.agent-hook.code.ts
+index c06570075eac577c0dbb679565a2c8f59e1d73e9..30982f8ef6fc4205ccea9596b5ff0e003c75e894 100644
+--- a/hook-system/agent-hooks/block-biome/block-biome.agent-hook.code.ts
++++ b/hook-system/agent-hooks/block-biome/block-biome.agent-hook.code.ts
+@@ -43,8 +43,8 @@ export const SCOPE: readonly string[] = [
+   "with it so that one command answers the question instead of two, not because a read harms.",
+   "",
+   "WHERE THE CALL RUNS:",
+-  "  The repository this guards is the one this hook's own file stands in.",
+-  "  A call whose working directory stands outside it is let through, so a scratch copy is",
++  "  The repository this guards is the one this hook's own file is in.",
++  "  A call whose working directory is outside it is let through, so a scratch copy is",
+   "    checked as usual. A second worktree of this repository is not guarded from here either.",
+   "  A call stating no working directory is judged as though it ran here.",
+   "",
+diff --git a/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts b/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts
+index 909c140961484feabe4cdd30e8f6c98ede2d4834..6d7e14ad9f1bad8d9da0e207970bc898d5f736b9 100644
+--- a/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts
++++ b/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts
+@@ -42,7 +42,7 @@ export const SCOPE: readonly string[] = [
+   "",
+   "WHERE THE CALL RUNS:",
+   "  The repository this guards is the one this hook's own file is in.",
+-  "  A call whose working directory stands outside it is let through, so a scratch copy of the",
++  "  A call whose working directory is outside it is let through, so a scratch copy of the",
+   "    akasha folder is tested as usual. A second worktree of this repository is not guarded",
+   "    from here either, which is the same bound `block-akasha-edits` carries.",
+   "  A call stating no working directory is judged as though it ran here.",
+diff --git a/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.code.ts b/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.code.ts
+index 0e4a65dc74fdada58628df15023d38aa0f370d1c..3b6411d07740c787db8f548037e5201b5998d838 100644
+--- a/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.code.ts
++++ b/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.code.ts
+@@ -71,8 +71,8 @@ export const SCOPE: readonly string[] = [
+   "name bound by nothing but a re-export, and a variable used after it was taken away.",
+   "",
+   "WHERE THE CALL RUNS:",
+-  "  The repository this guards is the one this hook's own file stands in.",
+-  "  A call whose working directory stands outside it is let through, so a scratch copy is",
++  "  The repository this guards is the one this hook's own file is in.",
++  "  A call whose working directory is outside it is let through, so a scratch copy is",
+   "    checked as usual. A second worktree of this repository is not guarded from here either.",
+   "  A call stating no working directory is judged as though it ran here.",
+   "",
+diff --git a/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.code.ts b/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.code.ts
+index c93f3a9ec9645ba6f40be095b8f9577f8e145054..d8c847c224457c0d28d2e4e77109ffb2d8d28766 100644
+--- a/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.code.ts
++++ b/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.code.ts
+@@ -37,7 +37,7 @@ export const SCOPE: readonly string[] = [
+   "NOT REACHED. Each measured against this hook, not supposed:",
+   "  a source this does not name, which leaves the record in place rather than guessing at it",
+   "  a compaction seen at PreCompact or PostCompact, which this is not registered at",
+-  "  a record that will not be removed, which is left as it stands and never fails the session",
++  "  a record that will not be removed, which is left as it is and never fails the session",
+   "  a sibling subagent's record, which belongs to a context this event says nothing about",
+   "  a seat's subagents' records when the seat's own context goes, which nothing here takes",
+   "  every other record an agent keeps, none of which this reads or writes",
