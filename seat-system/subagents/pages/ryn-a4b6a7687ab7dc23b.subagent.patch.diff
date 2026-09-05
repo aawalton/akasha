@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/commands/work-tree/work-tree.command.ts b/command-system/commands/work-tree/work-tree.command.ts
+index cd3d1fe0b789aac77a4858b3eabae3e259a224ab..5f32472495db78f6b0274fa12a3f0687360913e3 100644
+--- a/command-system/commands/work-tree/work-tree.command.ts
++++ b/command-system/commands/work-tree/work-tree.command.ts
+@@ -45,7 +45,7 @@ export const workTree = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Each word names what to print.",
++      statement: "Each word names the thing to print.",
+     },
+     {
+       invariantKind: "departure",
