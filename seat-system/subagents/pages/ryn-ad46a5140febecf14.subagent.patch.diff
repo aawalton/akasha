@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/story/games/game.page-type.ts b/story/games/game.page-type.ts
+index 3838535ece11d4e935e00ac976b683f193bb4cce..2a80e8970adb5d353770f881ae032a02d6151caa 100644
+--- a/story/games/game.page-type.ts
++++ b/story/games/game.page-type.ts
+@@ -214,7 +214,7 @@ export const game = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "An entry superseding an earlier one names the entry superseded rather than replacing it.",
++        "An entry superseding an earlier one names the entry superseded rather than replacing that entry.",
+     },
+     {
+       invariantKind: "departure",
