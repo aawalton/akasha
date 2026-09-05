@@ -13,7 +13,7 @@ export const seatRotatedSession = {
     },
     {
       invariantKind: "departure",
-      statement: "A record that is no uuid falls through to what the page says.",
+      statement: "A record that is no uuid falls through to the page's own value.",
     },
     {
       invariantKind: "departure",
