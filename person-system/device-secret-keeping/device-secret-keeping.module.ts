@@ -67,7 +67,7 @@ export const deviceSecretKeeping = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here decides what an account may reach.",
+      statement: "Nothing here decides an account's reach.",
     },
     {
       invariantKind: "gap",
