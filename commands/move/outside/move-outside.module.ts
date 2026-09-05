@@ -30,11 +30,13 @@ export const moveOutside = {
     },
     {
       invariantKind: "departure",
-      statement: "A resolved path is weighed against what moved as a path rather than as text.",
+      statement:
+        "A resolved path is weighed against the paths that moved as a path rather than as text.",
     },
     {
       invariantKind: "departure",
-      statement: "A resolved path under a folder that moved arrives under what that folder became.",
+      statement:
+        "A resolved path under a folder that moved arrives under the path that folder became.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +46,7 @@ export const moveOutside = {
     {
       invariantKind: "departure",
       statement:
-        "What is written back is a relative path from the folder of the file carrying that path.",
+        "The path written back is a relative path from the folder of the file carrying that path.",
     },
     {
       invariantKind: "departure",
