@@ -17,7 +17,7 @@ export const territoryMap = {
     },
     {
       invariantKind: "departure",
-      statement: "The map is read from the checkout this code stands in.",
+      statement: "The map is read from the checkout this code sits in.",
     },
   ],
 } as const satisfies Module

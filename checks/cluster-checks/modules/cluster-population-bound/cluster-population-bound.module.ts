@@ -26,7 +26,7 @@ export const clusterPopulationBound = {
     },
     {
       invariantKind: "departure",
-      statement: "A population with no site on this filesystem is said to stand under no tree.",
+      statement: "A population with no site on this filesystem is said to sit under no tree.",
     },
     {
       invariantKind: "departure",

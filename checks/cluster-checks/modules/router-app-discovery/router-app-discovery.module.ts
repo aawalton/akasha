@@ -4,7 +4,7 @@ export const routerAppDiscovery = {
   id: "01a06880-1000-7000-9000-000000000005",
   pageTypeSlug: "module",
   slug: "router-app-discovery",
-  definition: "the router apps standing in the tree, each with its app folder and its build root",
+  definition: "the router apps in the tree, each with its app folder and its build root",
   code: "ts",
   invariants: [
     {

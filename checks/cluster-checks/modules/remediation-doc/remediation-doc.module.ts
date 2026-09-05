@@ -13,7 +13,7 @@ export const remediationDoc = {
     },
     {
       invariantKind: "departure",
-      statement: "A path is refused unless it stands under apps, docs, infra, scripts or tools.",
+      statement: "A path is refused unless it sits under apps, docs, infra, scripts or tools.",
     },
     {
       invariantKind: "departure",
