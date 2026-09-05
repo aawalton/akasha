@@ -9,7 +9,8 @@ export const cyrodiilWayshrine = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Cyrodiil's wayshrines are left out of what a character is measured on.",
+      statement:
+        "Cyrodiil's wayshrines are left out of the points of interest a character is measured on.",
     },
   ],
 } as const satisfies Module
