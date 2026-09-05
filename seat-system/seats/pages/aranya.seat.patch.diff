@@ -103,3 +103,11 @@ index 57a167a2812ea2c92820233f7398045c6e2a1ac7..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../checks
 \ No newline at end of file
+diff --git a/code-system/code-system b/code-system/code-system
+deleted file mode 120000
+index 486c7043c3428d1367205dc62110436886d493bf..0000000000000000000000000000000000000000
+--- a/code-system/code-system
++++ /dev/null
+@@ -1 +0,0 @@
+-../../code-system
+\ No newline at end of file
