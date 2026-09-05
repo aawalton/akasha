@@ -35,7 +35,7 @@ export const testingSystem = {
     {
       invariantKind: "departure",
       statement:
-        "A fixture beside a module reaches for what is here rather than spelling it again.",
+        "A fixture beside a module reaches for what is here rather than spelling what is here again.",
     },
     {
       invariantKind: "departure",
