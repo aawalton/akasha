@@ -23,7 +23,7 @@ export const processedMessages = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A message is written here once what to do about that message is settled.",
+      statement: "A message is written here once the decision about that message is settled.",
     },
     {
       invariantKind: "departure",
