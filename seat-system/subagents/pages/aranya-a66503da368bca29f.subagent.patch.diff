@@ -1,0 +1,15 @@
+diff --git a/smilingjenny/smilingjenny-web/manifests/smilingjenny-web-manifests.manifest.ts b/smilingjenny/smilingjenny-web/manifests/smilingjenny-web-manifests.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fd787e71b63bfb6cdcfeaa75efb044a912a10b70
+--- /dev/null
++++ b/smilingjenny/smilingjenny-web/manifests/smilingjenny-web-manifests.manifest.ts
+@@ -0,0 +1,9 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const smilingjennyWebManifests = {
++  id: "01a0738a-19b1-7fe7-872a-08b04bd574dd",
++  pageTypeSlug: "manifest",
++  slug: "smilingjenny-web-manifests",
++  definition: "the deployment and service running Jenny's command center",
++  code: "ts",
++} as const satisfies Manifest
