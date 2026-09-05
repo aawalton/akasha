@@ -33,6 +33,19 @@ index a44f6fc575bf506f9b495a0cb2fd548a825d9977..2a46470895d4940a1f6e3bc9a593069a
      kindsUnder: (slug) => kindsUnder(slug, reading, pageOf),
      knownIn: () => knownIn(reading, pageOf),
      listedAt: (pageTypeSlug, slug) => listedAt(reading, pageTypeSlug, slug),
+diff --git a/pages/indexes/answering/index-answering.module.test.ts b/pages/indexes/answering/index-answering.module.test.ts
+index db19efdc4707b002bffeb2346e08c9f719bc5086..73e6b4e15477b62d4478e4c219949ea15b40989f 100644
+--- a/pages/indexes/answering/index-answering.module.test.ts
++++ b/pages/indexes/answering/index-answering.module.test.ts
+@@ -117,7 +117,7 @@ function seeded(): string {
+ test("every question answers what the reader beneath it answers with the reading bound", () => {
+   const root = seeded()
+   const reading = readingIn(root)
+-  const index = answeringOver(reading, root, pageOf)
++  const index = answeringOver(reading, pageOf)
+   expect(index.carriedIn(TYPE_VALUE, MODULE)).toEqual(carriedIn(TYPE_VALUE, reading, MODULE))
+   expect(index.carryingOf(SLUG)).toEqual(carryingOf(reading, SLUG))
+   expect(index.declarationsOf(MODULE)).toEqual(declarationsOf(MODULE, reading, pageOf))
 diff --git a/pages/indexes/reading/index-reading.module.code.ts b/pages/indexes/reading/index-reading.module.code.ts
 index ed0dff829933eb31fba0f14536a2b8cf85ae8d83..4ec4e6aa06f74f0e1bef2ad240c866bd3a440cee 100644
 --- a/pages/indexes/reading/index-reading.module.code.ts
