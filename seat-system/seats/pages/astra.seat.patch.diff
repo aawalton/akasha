@@ -13,3 +13,18 @@ index 0000000000000000000000000000000000000000..51f18a3cd35f37fdc9ec8138fa5200ab
 +  definition: "a named act a page offers",
 +  partSlugs: ["module/action-verb-registry"],
 +} as const satisfies Domain
+diff --git a/pages/ui/app-version/pages-ui-app-version.domain.ts b/pages/ui/app-version/pages-ui-app-version.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..38a458858f7e817f589728b9f2f172f457632723
+--- /dev/null
++++ b/pages/ui/app-version/pages-ui-app-version.domain.ts
+@@ -0,0 +1,9 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesUiAppVersion = {
++  id: "01a071ce-f0cf-7b67-870b-8e95b49f98bf",
++  pageTypeSlug: "domain",
++  slug: "pages-ui-app-version",
++  definition: "which build of the app is running",
++  partSlugs: ["module/app-version-check", "module/use-app-version-check"],
++} as const satisfies Domain
