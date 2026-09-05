@@ -50,7 +50,7 @@ export const fileLength = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal for a prose file names what dividing prose costs a reader.",
+      statement: "A refusal for a prose file names the cost dividing prose puts on a reader.",
     },
     {
       invariantKind: "departure",
