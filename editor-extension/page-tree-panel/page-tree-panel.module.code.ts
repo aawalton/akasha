@@ -1,25 +1,31 @@
 import * as vscode from "vscode"
-import { repositoryPath, unreachableMessage } from "../harness-call/harness-call.module.code.ts"
-import { recordObservation } from "../observation-store/observation-store.module.code.ts"
-import type { PageNode } from "../page-tree-assemble/page-tree-assemble.module.code.ts"
-import { REFRESH_COMMAND, VIEW_ID } from "../page-tree-ids/page-tree-ids.module.code.ts"
 import {
-  countPages,
-  countRows,
-  readPageTree,
-} from "../page-tree-reading/page-tree-reading.module.code.ts"
+  followState,
+  readState,
+  stateAt,
+} from "../../alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts"
+import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
+import { recordObservation } from "../observation-store/observation-store.module.code.ts"
+import type { PageNode, PageTree } from "../page-tree-assemble/page-tree-assemble.module.code.ts"
+import { REFRESH_COMMAND, VIEW_ID } from "../page-tree-ids/page-tree-ids.module.code.ts"
+import { countPages, countRows } from "../page-tree-reading/page-tree-reading.module.code.ts"
 import { createPageTree } from "../page-tree-view/page-tree-view.module.code.ts"
-import { createSettledRefresh } from "../settled-refresh/settled-refresh.module.code.ts"
 
 const FEATURE = "page-tree"
+const SLUG = "page-tree"
 
-const SETTLE_MS = 2_000
-
-// THE CORPUS THIS DRAWS, which is what it must watch. The read moved to the index over `akasha/`,
-// so watching `**/*.md` watched neither end of it: an akasha page changing raised nothing, and
-// every markdown write anywhere in the checkout raised a re-read that could not differ. That is
-// 54,334 files a dozen agents write to, against 997 this draws.
-const CORPUS_GLOB = "**/*.ts"
+// The file spells a row the way every state file spells one. The panel spells it another way, so
+// the two are bridged here. The document needs no work: the file names it by a whole path and the
+// panel opens exactly that.
+function asNode(row: PageTreeRow): PageNode {
+  return {
+    id: row.key,
+    label: row.label,
+    at: row.at,
+    detail: row.detail,
+    children: row.children.map(asNode),
+  }
+}
 
 let output: vscode.OutputChannel
 
@@ -46,23 +52,30 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     return undefined
   }
 
-  const refresh = async (trigger: string): Promise<undefined> => {
+  // What the file last said, drawn or waiting to be drawn.
+  let held: PageTreeState | null = null
+
+  // The file moved while nobody was looking at the panel. Nothing was drawn for it, and the
+  // drawing is owed until the panel is looked at again.
+  let owed = false
+
+  const draw = (state: PageTreeState, trigger: string): undefined => {
     try {
-      const next = await readPageTree()
+      const next: PageTree = {
+        repo: akashaRoot(),
+        roots: state.roots.map(asNode),
+        unreached: state.unreached,
+      }
       tree.replace(next)
-      watchCorpus(next.repo)
       const rows = countRows(next.roots)
       const pages = countPages(next.roots)
       total = rows
       describe()
-      view.badge = {
-        value: rows,
-        tooltip: rows === 1 ? "1 row" : `${rows} rows`,
-      }
+      view.badge = { value: rows, tooltip: rows === 1 ? "1 row" : `${rows} rows` }
       view.message = undefined
       output.appendLine(
         `[${trigger}] ${rows} row(s), ${pages} of them opening a document, ` +
-          `under ${next.roots.length} root(s) from ${next.repo}` +
+          `under ${next.roots.length} root(s)` +
           (next.unreached.length === 0
             ? ""
             : `; ${next.unreached.length} reached by no root: ${next.unreached.join(", ")}`)
@@ -83,48 +96,56 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
         )
       }
     } catch (err) {
-      view.message = unreachableMessage(err)
-      output.appendLine(`[${trigger}] read failed: ${String(err)}`)
+      output.appendLine(`[${trigger}] drawing failed: ${String(err)}`)
       recordObservation(FEATURE, { outcome: "failed", failure: String(err) })
     }
     return undefined
   }
 
-  const settled = createSettledRefresh(SETTLE_MS, refresh)
-
-  const moved = (why: string) => (): void => {
-    settled.request(why)
-  }
-
-  let watched: string | undefined
-  const watchCorpus = (named: string): undefined => {
-    if (watched !== undefined) {
+  // NOTHING IS DRAWN FOR A PANEL NOBODY IS LOOKING AT. The Pages view shares the secondary sidebar
+  // with Agents, Work and Domains, so it is hidden most of the time, and rebuilding five thousand
+  // rows for a hidden view spends the extension host's thread on nothing Alan can see. The state
+  // is kept all the same, so becoming visible draws what the file says now.
+  const show = (state: PageTreeState, trigger: string): undefined => {
+    held = state
+    if (!view.visible) {
+      owed = true
       return undefined
     }
-    const repo = repositoryPath(named)
-    watched = repo
-    const watcher = vscode.workspace.createFileSystemWatcher(
-      new vscode.RelativePattern(vscode.Uri.file(repo), CORPUS_GLOB)
-    )
-    context.subscriptions.push(
-      watcher,
-      watcher.onDidChange(moved("written")),
-      watcher.onDidCreate(moved("added")),
-      watcher.onDidDelete(moved("removed"))
-    )
-    output.appendLine(`watching ${repo}/${CORPUS_GLOB}, re-reading ${SETTLE_MS}ms after it settles`)
-    return undefined
+    owed = false
+    return draw(state, trigger)
   }
 
+  // Asking for the file again answers a manual refresh at once rather than waiting to be told.
+  // A file the service has not written leaves the rows on the screen as they are.
+  const refresh = (trigger: string): undefined => {
+    const state = readState<PageTreeState>(stateAt(akashaRoot(), SLUG))
+    if (state === null) {
+      return undefined
+    }
+    return show(state, trigger)
+  }
+
+  const reading = followState<PageTreeState>(akashaRoot(), SLUG, (state) => show(state, "pages"))
+
   context.subscriptions.push(
-    settled,
+    {
+      dispose: () => {
+        reading.stop()
+      },
+    },
+    view.onDidChangeVisibility((event) => {
+      if (!event.visible || !owed || held === null) {
+        return
+      }
+      owed = false
+      draw(held, "shown")
+    }),
     view.onDidChangeFilterValue((pattern) => {
       tree.filter(pattern)
       describe()
     }),
     vscode.commands.registerCommand(REFRESH_COMMAND, () => refresh("manual"))
   )
-
-  await refresh("activate")
   return undefined
 }

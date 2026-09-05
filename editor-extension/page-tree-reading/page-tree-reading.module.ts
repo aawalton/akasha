@@ -4,50 +4,32 @@ export const pageTreeReading = {
   id: "01a06867-dbcb-7300-9560-2f216f804af7",
   pageTypeSlug: "module",
   slug: "page-tree-reading",
-  definition: "the index answers a page tree is asked for, and the tree assembled out of them",
+  definition: "how many rows a page tree holds and which document each of its rows opens",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The answers are asked as a child process because reading the index wants a runtime this host is not.",
+      statement: "How many rows the tree holds is counted apart from how many open a document.",
     },
     {
       invariantKind: "departure",
-      statement: "The command answers three groups of rows and the tree is assembled here.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "An answer that is no JSON is refused with the text the command printed named.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "An answer failing the shape asked for is refused with the failure said.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A row's value is text, a list of text, or nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A row states the checkout that row was read from ahead of the path inside that checkout.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A row naming a checkout this module does not hold opens no document.",
+      statement: "A row names its document by a whole path, so nothing is joined to open one.",
     },
     {
       invariantKind: "departure",
       statement: "A row representing no page opens no document.",
     },
     {
-      invariantKind: "departure",
-      statement: "How many rows the tree holds is counted apart from how many open a document.",
+      invariantKind: "absence",
+      statement: "Nothing here reads the index.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads the index.",
+      statement: "Nothing here asks a command anything.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here assembles a tree.",
     },
     {
       invariantKind: "absence",
