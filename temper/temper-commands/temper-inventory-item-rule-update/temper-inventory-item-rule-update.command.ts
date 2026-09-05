@@ -29,7 +29,7 @@ export const temperInventoryItemRuleUpdate = {
     },
     {
       invariantKind: "departure",
-      statement: "A field the call names nothing for is left as it was.",
+      statement: "A field the call names nothing for is left as the field was.",
     },
     {
       invariantKind: "departure",
