@@ -1,4 +1,3 @@
-runsWarrants: false
 diff --git a/infrastructure/seaweedfs/etcd-snapshot/seaweedfs-etcd-snapshot.cluster-service.code.attachment.ts b/infrastructure/seaweedfs/etcd-snapshot/seaweedfs-etcd-snapshot.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 897767dc535a8bec0f69901c70f9dfb1f1e3cc8c..0000000000000000000000000000000000000000
@@ -22,7 +21,7 @@ index 0000000000000000000000000000000000000000..897767dc535a8bec0f69901c70f9dfb1
 +  return [{ name: "etcd-snapshot", yaml: etcdSnapshotCronJobYaml() }]
 +}
 diff --git a/service-system/cluster-services/pages/seaweedfs-etcd-snapshot.cluster-service.ts b/service-system/cluster-services/pages/seaweedfs-etcd-snapshot.cluster-service.ts
-index 32df674703e65ef03c49a2572bab4b8a6f49d0ce..279dd8e953dd3ada166aea7da92576a46e2c30f4 100644
+index 32df674703e65ef03c49a2572bab4b8a6f49d0ce..3098c15163f34cb0c0105d5ac1e7be9b0e11286e 100644
 --- a/service-system/cluster-services/pages/seaweedfs-etcd-snapshot.cluster-service.ts
 +++ b/service-system/cluster-services/pages/seaweedfs-etcd-snapshot.cluster-service.ts
 @@ -10,6 +10,5 @@ export const seaweedfsEtcdSnapshot = {
@@ -31,5 +30,5 @@ index 32df674703e65ef03c49a2572bab4b8a6f49d0ce..279dd8e953dd3ada166aea7da92576a4
    schedule: "17 3 * * *",
 -  manifestCode:
 -    "infrastructure/seaweedfs/etcd-snapshot/seaweedfs-etcd-snapshot.cluster-service.code.attachment.ts",
-+  manifestCode: "infrastructure/seaweedfs/etcd-snapshot/seaweedfs-etcd-snapshot.manifest.code.ts",
++  manifestSlug: "seaweedfs-etcd-snapshot",
  } as const satisfies ClusterService
