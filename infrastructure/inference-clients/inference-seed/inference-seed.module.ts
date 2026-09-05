@@ -18,7 +18,7 @@ export const inferenceSeed = {
     {
       invariantKind: "departure",
       statement:
-        "A drawn seed is narrowed to a positive signed 32-bit integer so every service takes it.",
+        "A drawn seed is narrowed to a positive signed 32-bit integer so every service takes that seed.",
     },
     {
       invariantKind: "absence",
