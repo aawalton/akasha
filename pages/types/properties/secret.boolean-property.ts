@@ -12,11 +12,12 @@ export const secret = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Whoever can read the repository can read every other value in it from the files.",
+      statement:
+        "Whoever can read the repository can read every other value in that repository from the files.",
     },
     {
       invariantKind: "departure",
-      statement: "A secret value is put in through a command that encrypts it.",
+      statement: "A secret value is put in through a command that encrypts that value.",
     },
     {
       invariantKind: "absence",
@@ -24,7 +25,7 @@ export const secret = {
     },
     {
       invariantKind: "departure",
-      statement: "A secret value is withheld from a read that did not ask for it.",
+      statement: "A secret value is withheld from a read that did not ask for that value.",
     },
   ],
 } as const satisfies BooleanProperty
