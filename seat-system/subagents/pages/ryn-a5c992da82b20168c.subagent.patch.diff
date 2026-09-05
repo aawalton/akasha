@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/alan/attributes/attribute.page-type.ts b/alan/attributes/attribute.page-type.ts
-index 263f7e8304b7cf4ff396f620c3cb11bb8a59aba6..1583eb8031e260bf006fef117f005a96cad74cd8 100644
+index 263f7e8304b7cf4ff396f620c3cb11bb8a59aba6..3a3107717dcea215be9d38402b0adc27ee3668d4 100644
 --- a/alan/attributes/attribute.page-type.ts
 +++ b/alan/attributes/attribute.page-type.ts
 @@ -33,7 +33,7 @@ export const attribute = {
@@ -9,6 +9,15 @@ index 263f7e8304b7cf4ff396f620c3cb11bb8a59aba6..1583eb8031e260bf006fef117f005a96
        invariantKind: "departure",
 -      statement: "What earns one point never changes.",
 +      statement: "An attribute's point unit never changes.",
+     },
+     {
+       invariantKind: "departure",
+@@ -49,7 +49,7 @@ export const attribute = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Recalibrating the daily target leaves what earns a point unchanged.",
++      statement: "Recalibrating the daily target leaves an attribute's point unit unchanged.",
      },
      {
        invariantKind: "departure",
