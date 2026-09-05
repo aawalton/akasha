@@ -17,6 +17,50 @@ index db7735878cbc2d016325b1416f267c29c18f3efc..7db23551cd4b63679b998da2d85c5bd2
      parent: one.parent,
      sequence: one.sequence,
    }))
+diff --git a/commands/domain-tree/domain-tree.command.test.ts b/commands/domain-tree/domain-tree.command.test.ts
+index 08d6ce34eb52213c6fe9372a53097291deb3767c..95953528b28e7a567fe20c0a203fc8bb28dedd53 100644
+--- a/commands/domain-tree/domain-tree.command.test.ts
++++ b/commands/domain-tree/domain-tree.command.test.ts
+@@ -55,22 +55,36 @@ test("a domain no root reaches is named in unreached", () => {
+   expect(said.unreached).toEqual(["one", "two"])
+ })
+ 
+-test("the panel's path is said as the tree's relPath, and no row carries a persona", () => {
++test("the panel's path is said as the tree's relPath, and the champion is carried on", () => {
+   const said = rowsFrom([
+-    { slug: "domain/akasha", path: "akasha/akasha.domain.ts", parent: null, sequence: [] },
++    {
++      slug: "domain/akasha",
++      path: "akasha/akasha.domain.ts",
++      persona: "amy",
++      parent: null,
++      sequence: [],
++    },
+   ])
+ 
+   expect(said).toEqual([
+     {
+       slug: "domain/akasha",
+       relPath: "akasha/akasha.domain.ts",
+-      persona: null,
++      persona: "amy",
+       parent: null,
+       sequence: [],
+     },
+   ])
+ })
+ 
++test("a domain no persona champions is said with no champion", () => {
++  const said = rowsFrom([
++    { slug: "domain/pages", path: "pages.domain.ts", persona: null, parent: null, sequence: [] },
++  ])
++
++  expect(said[0]?.persona).toBeNull()
++})
++
+ test("a call naming nothing is refused nothing", () => {
+   expect(refusalsIn([])).toEqual([])
+ })
 diff --git a/editor-extension/panel-domains/panel-domains.module.code.ts b/editor-extension/panel-domains/panel-domains.module.code.ts
 index f7370074bb0c3c8ad233436f83bac0a57166c3b7..e5c152086ce46a8501ccea0610e5d1e3276208a3 100644
 --- a/editor-extension/panel-domains/panel-domains.module.code.ts
