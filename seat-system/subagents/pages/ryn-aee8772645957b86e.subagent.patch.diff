@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/music/commands/music-import-artist/music-import-artist.command.ts b/alan/music/commands/music-import-artist/music-import-artist.command.ts
+index 4e675b439d990da7c42980a6191536521e8155de..14ae024b3e835b8954fd76272246e0cd206b09f6 100644
+--- a/alan/music/commands/music-import-artist/music-import-artist.command.ts
++++ b/alan/music/commands/music-import-artist/music-import-artist.command.ts
+@@ -42,7 +42,7 @@ export const musicImportArtist = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A field this command does not fetch is left as it was.",
++      statement: "A field this command does not fetch is left as that field was.",
+     },
+     {
+       invariantKind: "departure",
