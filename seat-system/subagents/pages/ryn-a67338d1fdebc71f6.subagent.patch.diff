@@ -30,3 +30,19 @@ index 9057716d4ba018335f988c7aec082a5f1b223512..06f63614991ce7b726b3ee4b42ea6847
      {
        invariantKind: "absence",
        statement: "Nothing here reads a figure the tracking day carries.",
+diff --git a/readout-system/readouts/pages/attribute-endurance/attribute-endurance.readout.ts b/readout-system/readouts/pages/attribute-endurance/attribute-endurance.readout.ts
+index 82e64159112f9b5938ba095e07a3b024cd09ede4..ffad641479427a27b05a0eb325f3e7d4f2c40abf 100644
+--- a/readout-system/readouts/pages/attribute-endurance/attribute-endurance.readout.ts
++++ b/readout-system/readouts/pages/attribute-endurance/attribute-endurance.readout.ts
+@@ -36,10 +36,7 @@ export const attributeEndurance = {
+       statement:
+         "A day carrying no active calories is no reading rather than an endurance of zero.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A store that refuses is a fault rather than a reading of nothing.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here caches a reading or decides when a reading is taken.",
