@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/commands/move/siding/move-siding.module.ts b/commands/move/siding/move-siding.module.ts
-index 226ae4b93cce4285893f978edd74a57addfd63a4..32b8be1117fb454297dca2af30f0cec14d260dbe 100644
+index 226ae4b93cce4285893f978edd74a57addfd63a4..57b56d1492649d6d75bfff9df346df32e0ad2427 100644
 --- a/commands/move/siding/move-siding.module.ts
 +++ b/commands/move/siding/move-siding.module.ts
 @@ -80,7 +80,7 @@ export const moveSiding = {
@@ -9,6 +9,15 @@ index 226ae4b93cce4285893f978edd74a57addfd63a4..32b8be1117fb454297dca2af30f0cec1
        invariantKind: "departure",
 -      statement: "An index that will not say what the page types are refuses the pair.",
 +      statement: "An index that will not name the page types refuses the pair.",
+     },
+     {
+       invariantKind: "departure",
+@@ -88,7 +88,7 @@ export const moveSiding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file beside what is named arrives in the folder that named file arrives in.",
++      statement: "A file beside a named file arrives in the folder that named file arrives in.",
      },
      {
        invariantKind: "departure",
