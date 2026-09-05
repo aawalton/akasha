@@ -1,0 +1,13 @@
+diff --git a/alan/fitness/commands/exercise-equipment-set/exercise-equipment-set.command.ts b/alan/fitness/commands/exercise-equipment-set/exercise-equipment-set.command.ts
+index 7579c8a6bab5dc7b9111c21449f2ef542d6e3a3e..380065d3a4bc0c7b42d9a2f69742193fff0fb63c 100644
+--- a/alan/fitness/commands/exercise-equipment-set/exercise-equipment-set.command.ts
++++ b/alan/fitness/commands/exercise-equipment-set/exercise-equipment-set.command.ts
+@@ -36,7 +36,7 @@ export const exerciseEquipmentSet = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A field the call does not name is left as it was.",
++      statement: "A field the call does not name is left as that field was.",
+     },
+     {
+       invariantKind: "departure",
