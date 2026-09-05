@@ -37,7 +37,7 @@ export const noRefusedSyntax = {
     },
     {
       invariantKind: "departure",
-      statement: "The rules stand together under one check rather than each rule apart.",
+      statement: "The rules sit together under one check rather than each rule apart.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +49,7 @@ export const noRefusedSyntax = {
     },
     {
       invariantKind: "departure",
-      statement: "No rule standing is refused.",
+      statement: "A check with no rule at all is refused.",
     },
     {
       invariantKind: "departure",
