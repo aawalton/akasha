@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/identifier-names-one-page/identifier-names-one-page.code-check.ts b/checks/code-checks/pages/identifier-names-one-page/identifier-names-one-page.code-check.ts
+index 21f4f591386ccca6881c5197c90af09dd4dd3fe5..6fa2b85fc97ae88d0ced73e911d09fd8d8852103 100644
+--- a/checks/code-checks/pages/identifier-names-one-page/identifier-names-one-page.code-check.ts
++++ b/checks/code-checks/pages/identifier-names-one-page/identifier-names-one-page.code-check.ts
+@@ -60,7 +60,7 @@ export const identifierNamesOnePage = {
+     {
+       invariantKind: "absence",
+       statement:
+-        "Working the index out does open the page type and record property pages it names.",
++        "Working the index out does open the page type and record property pages that index names.",
+     },
+   ],
+ } as const satisfies CodeCheck
