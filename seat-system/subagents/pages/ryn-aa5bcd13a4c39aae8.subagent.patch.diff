@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/types/properties/load-scroll.text-property.ts b/pages/types/properties/load-scroll.text-property.ts
+index e7a13b0a3fb06d7f3641bd349ad98f2c81567695..bf5fe102e1c249b299e851acaf232114278067a0 100644
+--- a/pages/types/properties/load-scroll.text-property.ts
++++ b/pages/types/properties/load-scroll.text-property.ts
+@@ -13,7 +13,8 @@ export const loadScroll = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A page opens at its start, at its end, at what is new, or where reading stopped.",
++      statement:
++        "A page opens at its start, at its end, at its newest part, or where reading stopped.",
+     },
+     {
+       invariantKind: "departure",
