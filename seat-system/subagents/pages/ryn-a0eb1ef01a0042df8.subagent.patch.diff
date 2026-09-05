@@ -1,0 +1,13 @@
+diff --git a/command-system/committing/committing.module.ts b/command-system/committing/committing.module.ts
+index ed7c96fed588312111c68abae48a490fe2b2e9fb..d09f0b642b176055cc2f5aea5729a8a0d471af2a 100644
+--- a/command-system/committing/committing.module.ts
++++ b/command-system/committing/committing.module.ts
+@@ -112,7 +112,7 @@ export const committing = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A caller has written what it asked for before this module is reached.",
++      statement: "A caller has written what that caller asked for before this module is reached.",
+     },
+     {
+       invariantKind: "absence",
