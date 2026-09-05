@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/service-system/cluster-services/workload-census/workload-census.module.ts b/service-system/cluster-services/workload-census/workload-census.module.ts
+index 1926f2df2b02a9b4321485717d636fa8482c37a4..22919ee4a372a01bcef4c58df5ae7dbf7b1e278e 100644
+--- a/service-system/cluster-services/workload-census/workload-census.module.ts
++++ b/service-system/cluster-services/workload-census/workload-census.module.ts
+@@ -13,7 +13,8 @@ export const workloadCensus = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A kind kubectl will not list stops the census rather than shortening it.",
++      statement:
++        "A kind kubectl will not list stops the census rather than shortening that census.",
+     },
+     {
+       invariantKind: "absence",
