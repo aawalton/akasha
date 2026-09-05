@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-page-beat/seat-page-beat.module.ts b/seat-system/seat-page-beat/seat-page-beat.module.ts
+index 69264b539544e5581e125f7c0be44f262ed7e259..ce91eb0a9224f41d01cabf73d6e2349539a3caf4 100644
+--- a/seat-system/seat-page-beat/seat-page-beat.module.ts
++++ b/seat-system/seat-page-beat/seat-page-beat.module.ts
+@@ -17,7 +17,7 @@ export const seatPageBeat = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run names the seat it writes for with --agent.",
++      statement: "A run names the seat that run writes for with --agent.",
+     },
+     {
+       invariantKind: "departure",
