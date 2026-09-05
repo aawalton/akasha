@@ -1,0 +1,12 @@
+diff --git a/service-system/cluster-services/pages/registry/registry.cluster-service.ts b/service-system/cluster-services/pages/registry/registry.cluster-service.ts
+index fb47b6d5e23f39a811329617340db0eedc078275..e3a68822c459e0c99ba4aa34bbcfe7feb2063100 100644
+--- a/service-system/cluster-services/pages/registry/registry.cluster-service.ts
++++ b/service-system/cluster-services/pages/registry/registry.cluster-service.ts
+@@ -11,6 +11,5 @@ export const registry = {
+   image: "registry:3.0.0",
+   replicas: 1,
+   containerPort: 5000,
+-  manifestCode:
+-    "service-system/cluster-services/pages/registry/registry.cluster-service.code.attachment.ts",
++  manifestSlug: "registry",
+ } as const satisfies ClusterService
