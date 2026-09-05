@@ -122,7 +122,7 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type declares what every type above that page type declares.",
+      statement: "A page type declares the properties every type above that page type declares.",
     },
     {
       invariantKind: "departure",
