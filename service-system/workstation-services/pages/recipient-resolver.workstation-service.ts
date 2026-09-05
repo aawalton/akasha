@@ -16,7 +16,7 @@ export const recipientResolver = {
   invariants: [
     {
       invariantKind: "gap",
-      statement: "A message with no recipient is resolved by what it states.",
+      statement: "A message with no recipient is resolved by what that message states.",
     },
     {
       invariantKind: "gap",
