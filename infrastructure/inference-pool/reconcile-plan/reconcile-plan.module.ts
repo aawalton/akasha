@@ -14,7 +14,7 @@ export const reconcilePlan = {
     },
     {
       invariantKind: "departure",
-      statement: "A managed environment is kept even though no service declares it.",
+      statement: "A managed environment is kept even though no service declares that environment.",
     },
     {
       invariantKind: "departure",
