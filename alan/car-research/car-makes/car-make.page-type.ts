@@ -61,7 +61,7 @@ export const carMake = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "A make names no model it builds.",
+      statement: "A make names no model that make builds.",
     },
   ],
 } as const satisfies PageType
