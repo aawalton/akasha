@@ -43,3 +43,18 @@ index b465cf83a015c15e1bc1b364c983bff6dd40c74b..a4497e553c24af4633c3895fec43ef44
 +    },
 +  ],
  } as const satisfies Domain
+diff --git a/temper/temper-lib-media-provider/temper-lib-media-provider.eso-addon.ts b/temper/temper-lib-media-provider/temper-lib-media-provider.eso-addon.ts
+index 8f298441b6003c02fdcc797c8ee043d986fa5431..8c2a8f832716aeaf64973863380372202155e4a7 100644
+--- a/temper/temper-lib-media-provider/temper-lib-media-provider.eso-addon.ts
++++ b/temper/temper-lib-media-provider/temper-lib-media-provider.eso-addon.ts
+@@ -65,6 +65,10 @@ export const temperLibMediaProvider = {
+       invariantKind: "departure",
+       statement: "The font path the XML sets differs between a console and a desktop.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The font path is declared as a string the other documents read.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "Another addon reaches this library only through the global name.",
