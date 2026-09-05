@@ -1,5 +1,5 @@
 diff --git a/alan/fitness/session-planning/session-planning.workspace-package.ts b/alan/fitness/session-planning/session-planning.workspace-package.ts
-index 9ec289294648ee1ecb8497fda2d3815027ba62dc..cc825e34acc1c839822884f0e1188506fadc7cc5 100644
+index 9ec289294648ee1ecb8497fda2d3815027ba62dc..e1a0e2093abd2cd5e8ffa5b8adf0ed49bb84fb81 100644
 --- a/alan/fitness/session-planning/session-planning.workspace-package.ts
 +++ b/alan/fitness/session-planning/session-planning.workspace-package.ts
 @@ -33,7 +33,8 @@ export const sessionPlanning = {
@@ -9,6 +9,15 @@ index 9ec289294648ee1ecb8497fda2d3815027ba62dc..cc825e34acc1c839822884f0e1188506
 -      statement: "A value a movement carries is named by the exercise property that declares it.",
 +      statement:
 +        "A value a movement carries is named by the exercise property that declares that value.",
+     },
+     {
+       invariantKind: "departure",
+@@ -41,7 +42,7 @@ export const sessionPlanning = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A plan states why each movement is where it is.",
++      statement: "A plan states why each movement is where that movement is.",
      },
      {
        invariantKind: "departure",
