@@ -19,11 +19,11 @@ export const ki = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What Ki keeps here is reached by Ki alone among the people outside akasha.",
+      statement: "The pages Ki keeps here are reached by Ki alone among the people outside akasha.",
     },
     {
       invariantKind: "departure",
-      statement: "A page type here serves Ki what the matching page type of Alan's serves Alan.",
+      statement: "A page type here serves Ki as the matching page type of Alan's serves Alan.",
     },
   ],
 } as const satisfies Domain
