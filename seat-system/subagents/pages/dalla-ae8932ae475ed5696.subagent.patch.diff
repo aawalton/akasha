@@ -84,6 +84,27 @@ index 0a47a917ce5546869dd5738e74380a3d285cf24e..8c5890e178b8a2a5932a1be31dd22201
      const said = merged(one.was, one.body, now)
      if ("why" in said) return { why: `${path} — ${said.why}` }
      next.set(path, { was: now, body: said.body })
+diff --git a/command-system/drafting/drafting.module.ts b/command-system/drafting/drafting.module.ts
+index 82178b6b0e0639e2ff134e9d533ed6ea4442acfb..4ea48fe70aae262462abb6904e10611c07b64b72 100644
+--- a/command-system/drafting/drafting.module.ts
++++ b/command-system/drafting/drafting.module.ts
+@@ -45,7 +45,15 @@ export const drafting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A path taken away by no rename refuses the rebase.",
++      statement: "A path taken away by no rename is carried into the patch as a conflict.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A conflict left by a path taken away marks the body the patch held at that path.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body spelling no text at a path taken away refuses the rebase.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/commands/patch/patch.command.code.ts b/commands/patch/patch.command.code.ts
 index 49883bf72972b875cea0b3139bc2a194f414559b..28ffd619df397839bc783d7257392a97858ca2a4 100644
 --- a/commands/patch/patch.command.code.ts
