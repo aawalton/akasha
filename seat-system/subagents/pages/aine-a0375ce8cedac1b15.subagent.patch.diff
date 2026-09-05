@@ -1,0 +1,54 @@
+diff --git a/editor-extension/work-tree-colors/work-tree-colors.module.code.ts b/editor-extension/work-tree-colors/work-tree-colors.module.code.ts
+index 81d0756c2cc6e7521fa5ab75f54b516d5bbd0395..2e783523e75b1ab49440f8837da6707fa473cb0b 100644
+--- a/editor-extension/work-tree-colors/work-tree-colors.module.code.ts
++++ b/editor-extension/work-tree-colors/work-tree-colors.module.code.ts
+@@ -5,8 +5,8 @@ import type {
+ } from "../work-tree-rows/work-tree-rows.module.code.ts"
+ 
+ // THE LIVELIEST FIRST. A row several seats state takes the liveliest of them, and a row takes the
+-// liveliest of everything standing under it, so a row says whether anything is moving on it. A
+-// color this does not rank sits behind every color it does.
++// liveliest of everything under it, so a row says whether anything is moving on it. A color this
++// does not rank sits behind every color it does.
+ const COLOR_RANK: readonly string[] = ["green", "blue", "yellow"]
+ 
+ function colorFor(node: WorkNode, colors: WorkColors): string | null {
+diff --git a/editor-extension/work-tree-colors/work-tree-colors.module.ts b/editor-extension/work-tree-colors/work-tree-colors.module.ts
+index 66c49302dada87ec171134d46e7d668e6617d33c..4f5bc40fa060f98560ee1778e89c4a064fc20bb7 100644
+--- a/editor-extension/work-tree-colors/work-tree-colors.module.ts
++++ b/editor-extension/work-tree-colors/work-tree-colors.module.ts
+@@ -4,7 +4,7 @@ export const workTreeColors = {
+   id: "01a06867-dbcb-7466-9dd7-57e1eb113be5",
+   pageTypeSlug: "module",
+   slug: "work-tree-colors",
+-  definition: "the color a work tree row is drawn in, raised through everything standing under it",
++  definition: "the color a work tree row is drawn in, raised through everything under it",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/editor-extension/work-tree-rows/work-tree-rows.module.ts b/editor-extension/work-tree-rows/work-tree-rows.module.ts
+index 5a92de60cca44311eb5db48898d92b0eea5c7b00..e544eed93b5cf614396ac15e7bdc7c6b9b92fe62 100644
+--- a/editor-extension/work-tree-rows/work-tree-rows.module.ts
++++ b/editor-extension/work-tree-rows/work-tree-rows.module.ts
+@@ -13,7 +13,7 @@ export const workTreeRows = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row standing for nothing declared carries no path and opens no document.",
++      statement: "A row representing nothing declared carries no path and opens no document.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/work-tree-view/work-tree-view.module.code.ts b/editor-extension/work-tree-view/work-tree-view.module.code.ts
+index 9c536edf27debbaa4db1e6874d89f1b08eb67fc7..36bbd244ccc21664359743ce69d3ab09e7fc3df8 100644
+--- a/editor-extension/work-tree-view/work-tree-view.module.code.ts
++++ b/editor-extension/work-tree-view/work-tree-view.module.code.ts
+@@ -116,7 +116,7 @@ function buildTreeItem(
+ }
+ 
+ // A ROW IS COLORED THROUGH A URI RATHER THAN DIRECTLY. A tree item takes no color of its own, so a
+-// row carrying one stands under a scheme of this panel's making and the decoration answering that
++// row carrying one sits under a scheme of this panel's making and the decoration answering that
+ // scheme is what the editor draws the color from.
+ export function createWorkDecorationProvider(): vscode.FileDecorationProvider {
+   return {
