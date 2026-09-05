@@ -102,7 +102,7 @@ export const view = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A view belongs to the nav item that owns it and is drawn nowhere else.",
+      statement: "A view belongs to the nav item that owns that view and is drawn nowhere else.",
     },
     {
       invariantKind: "departure",
@@ -112,7 +112,7 @@ export const view = {
     {
       invariantKind: "departure",
       statement:
-        "A view carries the order its properties are shown in, the hidden ones among them.",
+        "A view carries the order its properties are shown in, the hidden ones among those properties.",
     },
     {
       invariantKind: "departure",
@@ -130,7 +130,8 @@ export const view = {
     },
     {
       invariantKind: "gap",
-      statement: "A view states its own question rather than naming a page query that holds it.",
+      statement:
+        "A view states its own question rather than naming a page query that holds that question.",
     },
   ],
 } as const satisfies PageType
