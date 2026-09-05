@@ -1,5 +1,5 @@
 diff --git a/seat-system/compose-boot/compose-boot.module.code.ts b/seat-system/compose-boot/compose-boot.module.code.ts
-index 83a442fcb3ed4cecb9a38389032f35d5bb2c6917..8d280176e6be623f3fc346e9e659047784cc5953 100644
+index 83a442fcb3ed4cecb9a38389032f35d5bb2c6917..7c53cd045afd545aeaf84344a65e3a7e62122868 100644
 --- a/seat-system/compose-boot/compose-boot.module.code.ts
 +++ b/seat-system/compose-boot/compose-boot.module.code.ts
 @@ -14,7 +14,7 @@ WHAT A SEAT IS BOUND TO IS NOT IN ITS PROMPT. This composes who the seat is, fro
@@ -11,6 +11,15 @@ index 83a442fcb3ed4cecb9a38389032f35d5bb2c6917..8d280176e6be623f3fc346e9e6590477
  credited, and a seat begins owing every page it is bound to.
  
  The call names the seat's own page. What that page warrants is what the seat must read, and the
+@@ -67,7 +67,7 @@ function claim(attributes: Attributes): string {
+ export const SEAT_READ = "akasha read --file-path"
+ 
+ const READING =
+-  "What that means stands in pages, and none of them stands here. They are read rather than handed " +
++  "What that means is in pages, and none of them is here. They are read rather than handed " +
+   "over, so that what you act on is the text on disk now rather than the text that was composed when " +
+   "you started. This one call names every one of them and hands back as many as one answer carries:"
+ 
 diff --git a/seat-system/compose-seat-name/compose-seat-name.module.code.ts b/seat-system/compose-seat-name/compose-seat-name.module.code.ts
 index 58f4b89a931c6b0433cfa87ca24a0f36fd53f29d..47d2afef47ce623711d78e61d0170602a8dd0efd 100644
 --- a/seat-system/compose-seat-name/compose-seat-name.module.code.ts
@@ -101,7 +110,7 @@ index 06e05bf14a79e1f5c56c5fe530350cc1001564cc..c3246bf38a3e7dff249e56de00ee3fd1
    } catch (error) {
      fail(error instanceof Error ? error.message : String(error))
 diff --git a/seat-system/compose-subagents/compose-subagents.module.ts b/seat-system/compose-subagents/compose-subagents.module.ts
-index a7eb4bd34d9996d9d453e78c400cee5c4aefd31e..eca5a9033764dfa328805032fce3341dec4b15aa 100644
+index a7eb4bd34d9996d9d453e78c400cee5c4aefd31e..48dcdf0428f8d09cb89a40f131ed9283ab1585fe 100644
 --- a/seat-system/compose-subagents/compose-subagents.module.ts
 +++ b/seat-system/compose-subagents/compose-subagents.module.ts
 @@ -17,7 +17,7 @@ export const composeSubagents = {
@@ -113,3 +122,12 @@ index a7eb4bd34d9996d9d453e78c400cee5c4aefd31e..eca5a9033764dfa328805032fce3341d
      },
      {
        invariantKind: "departure",
+@@ -33,7 +33,7 @@ export const composeSubagents = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "The old copy at tools/compose-subagents.ts still stands and still has readers.",
++      statement: "The old copy at tools/compose-subagents.ts is still there and still has readers.",
+     },
+   ],
+ } as const satisfies Module
