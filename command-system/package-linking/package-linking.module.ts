@@ -15,7 +15,7 @@ export const packageLinking = {
     },
     {
       invariantKind: "departure",
-      statement: "What the workspace is reached through is a link beside the packages.",
+      statement: "The workspace is reached through a link beside the packages.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +43,7 @@ export const packageLinking = {
     },
     {
       invariantKind: "departure",
-      statement: "Making a link hands back what takes that link back.",
+      statement: "Making a link hands back the call that takes that link back.",
     },
     {
       invariantKind: "departure",
