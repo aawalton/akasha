@@ -96,3 +96,38 @@ index 0000000000000000000000000000000000000000..723000579241af4a9d41adfb342b018e
 +  definition: "the TypeScript settings a router app's own compile runs under",
 +  fileName: "tsconfig.json",
 +} as const satisfies NamedFileProperty
+diff --git a/code-system/router-apps/router-app.page-type.ts b/code-system/router-apps/router-app.page-type.ts
+index 8ad57a80f15ff97f1f83e978de636eea89afdb47..37ce67d2e7f13be34004fd3e086ed0aa4d4bdf17 100644
+--- a/code-system/router-apps/router-app.page-type.ts
++++ b/code-system/router-apps/router-app.page-type.ts
+@@ -1,5 +1,6 @@
+ import type { PageType } from "@akasha/pages/page-type"
+ import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.ts"
++import type { CompileConfig } from "./properties/compile-config.named-file-property.ts"
+ import type { RootRoute } from "./properties/root-route.named-file-property.ts"
+ import type { RouteTable } from "./properties/route-table.named-file-property.ts"
+ import type { RouterConfig } from "./properties/router-config.named-file-property.ts"
+@@ -10,6 +11,7 @@ export type RouterApp = WorkspacePackage & {
+   routeTable: RouteTable
+   serverEntry: ServerEntry
+   routerConfig: RouterConfig
++  compileConfig?: CompileConfig
+ }
+ 
+ export const routerApp = {
+@@ -19,6 +21,7 @@ export const routerApp = {
+   definition: "what serves the routes its own table declares",
+   pluralSlug: "router-apps",
+   partSlugs: [
++    "named-file-property/compile-config",
+     "named-file-property/root-route",
+     "named-file-property/route-table",
+     "named-file-property/router-config",
+@@ -31,6 +34,7 @@ export const routerApp = {
+     { pagePropertySlug: "route-table", required: true, many: false },
+     { pagePropertySlug: "server-entry", required: true, many: false },
+     { pagePropertySlug: "router-config", required: true, many: false },
++    { pagePropertySlug: "compile-config", required: false, many: false },
+   ],
+   invariants: [
+     {
