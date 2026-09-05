@@ -10,11 +10,11 @@ export const hudAddonVisibilityVersion = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The baseline stored what each part was hidden by.",
+      statement: "The baseline stored the flag each part was hidden by.",
     },
     {
       invariantKind: "departure",
-      statement: "The current version stores what each part is shown by.",
+      statement: "The current version stores the flag each part is shown by.",
     },
     {
       invariantKind: "departure",
