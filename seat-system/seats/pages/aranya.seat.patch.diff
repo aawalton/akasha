@@ -799,3 +799,11 @@ index 3d240bb1037b0a1cfeb1383538e62ff5357730c6..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-characters-stats
 \ No newline at end of file
+diff --git a/temper/temper-classes/temper-classes b/temper/temper-classes/temper-classes
+deleted file mode 120000
+index f5a9069df60cd45735368fe6032c739a3257f230..0000000000000000000000000000000000000000
+--- a/temper/temper-classes/temper-classes
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-classes
+\ No newline at end of file
