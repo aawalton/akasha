@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/person-system/people/email/email-action/email-action.domain.ts b/person-system/people/email/email-action/email-action.domain.ts
+index afb8d255f7768b9f640cabb7ff49bb4ddd3512b4..a74673b21c86792b072ba6aefef1bf9d7b1b7392 100644
+--- a/person-system/people/email/email-action/email-action.domain.ts
++++ b/person-system/people/email/email-action/email-action.domain.ts
+@@ -20,7 +20,7 @@ export const emailAction = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Every action taken on a piece of mail is recorded with whatever took it and when.",
++        "Every action taken on a piece of mail is recorded with whatever took that action and when.",
+     },
+     {
+       invariantKind: "departure",
