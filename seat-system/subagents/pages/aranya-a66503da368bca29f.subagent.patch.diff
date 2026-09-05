@@ -404,23 +404,6 @@ index 13aeec0814c5a7a7e8a32366477391b1a654ec01..6d4eac0383898000b7152305fb8795e6
      "tunnel-routes.ts"
    ],
    "exclude": ["node_modules", "dist", "build"]
-diff --git a/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff b/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff
-index 92f32bfc82f4f22d0e95b67cdecd1dac3681a5c5..b20bf68313a134803efa613d99fe529cfbf3dbea 100644
---- a/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff
-@@ -424,8 +424,12 @@ index d490840953b8edf1158f773acf05b9b0409604f5..c9465308998455f9d45a08a7b5c351f8
-    image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
-    replicas: 1,
-    containerPort: 3000,
-+<<<<<<< what this change would leave
-+-  manifestCode: "alan/atlas-web/alanwalton-atlas/alanwalton-atlas.manifest.code.ts",
-+=======
- -  manifestCode: "alan/atlas-web/alanwalton-atlas.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "alanwalton-atlas",
- +=======
- +  manifestCode: "alan/atlas-web/alanwalton-atlas/alanwalton-atlas.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/alanwalton-atlas.cluster-service.ts b/service-system/cluster-services/pages/alanwalton-atlas.cluster-service.ts
 index d490840953b8edf1158f773acf05b9b0409604f5..ea6f0b33eb9f7464529582f9ed7f9c86f4bc2471 100644
 --- a/service-system/cluster-services/pages/alanwalton-atlas.cluster-service.ts
