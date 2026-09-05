@@ -1,13 +1,18 @@
 diff --git a/editor-extension/transcript-reading/transcript-reading.module.ts b/editor-extension/transcript-reading/transcript-reading.module.ts
-index e5cc2bf89bc47e1784192ca2e760539bd12d40bb..9ae4f6db107f53086493f29f91f800812bacb33c 100644
+index e5cc2bf89bc47e1784192ca2e760539bd12d40bb..8f54ab44198168f9ca31223c8304dff3ad350bf4 100644
 --- a/editor-extension/transcript-reading/transcript-reading.module.ts
 +++ b/editor-extension/transcript-reading/transcript-reading.module.ts
-@@ -26,7 +26,7 @@ export const transcriptReading = {
+@@ -26,11 +26,11 @@ export const transcriptReading = {
      {
        invariantKind: "departure",
        statement:
 -        "A file no longer reading as it did where the fold stopped is folded from its first byte.",
 +        "A file no longer reading as that file did where the fold stopped is folded from its first byte.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A read says which files it folded from their first byte.",
++      statement: "A read says which files that read folded from their first byte.",
      },
      {
        invariantKind: "departure",
