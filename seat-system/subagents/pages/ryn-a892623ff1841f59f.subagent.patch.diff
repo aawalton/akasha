@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/fitness/exercise-access/coaching-context/coaching-context.module.ts b/alan/fitness/exercise-access/coaching-context/coaching-context.module.ts
+index 9c17d55cc659cfdf4f83885f109aa9bfb9457c6e..e6f6b75c1468b1873545eb5b3ddc8f46d402a844 100644
+--- a/alan/fitness/exercise-access/coaching-context/coaching-context.module.ts
++++ b/alan/fitness/exercise-access/coaching-context/coaching-context.module.ts
+@@ -33,7 +33,7 @@ export const coachingContext = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "What a piece of kit is, how it is set up and what it loads are no page properties of it yet.",
++        "A piece of kit's kind, its setup and its load are no page properties of that kit yet.",
+     },
+     {
+       invariantKind: "gap",
