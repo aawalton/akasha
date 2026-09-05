@@ -1,5 +1,5 @@
 diff --git a/temper/temper-addon-data/addon-data-writes-equipment/addon-data-writes-equipment.module.ts b/temper/temper-addon-data/addon-data-writes-equipment/addon-data-writes-equipment.module.ts
-index aa5b21e7efda11bdb54761b6f58cb48721b4fc90..257165d459a616e172c1150bb437decf9454e719 100644
+index aa5b21e7efda11bdb54761b6f58cb48721b4fc90..1f97303f4f993f53e88ea5bd67b66ede4a5e47a2 100644
 --- a/temper/temper-addon-data/addon-data-writes-equipment/addon-data-writes-equipment.module.ts
 +++ b/temper/temper-addon-data/addon-data-writes-equipment/addon-data-writes-equipment.module.ts
 @@ -9,7 +9,8 @@ export const addonDataWritesEquipment = {
@@ -12,3 +12,12 @@ index aa5b21e7efda11bdb54761b6f58cb48721b4fc90..257165d459a616e172c1150bb437decf
      },
      {
        invariantKind: "departure",
+@@ -17,7 +18,7 @@ export const addonDataWritesEquipment = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A section states its writes rather than performing them.",
++      statement: "A section states its writes rather than performing those writes.",
+     },
+   ],
+ } as const satisfies Module
