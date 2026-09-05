@@ -44,7 +44,7 @@ export const seatTranscriptRotation = {
     {
       invariantKind: "departure",
       statement:
-        "A record's timestamp is read off the top of that record rather than out of anything nested in it.",
+        "A record's timestamp is read off the record's top rather than out of anything nested in the record.",
     },
     {
       invariantKind: "departure",
