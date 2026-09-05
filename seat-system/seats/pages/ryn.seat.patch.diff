@@ -1,3 +1,346 @@
+diff --git a/domains/plain-language/package.json b/domains/plain-language/package.json
+index 10307fe99a05194a50d038647a16cd5925af3b09..525ce70628f66c11e9aaca24a8fe365a51da4c94 100644
+--- a/domains/plain-language/package.json
++++ b/domains/plain-language/package.json
+@@ -3,10 +3,8 @@
+   "private": true,
+   "type": "module",
+   "exports": {
+-    ".": "./plain-grammar/plain-grammar.module.code.ts",
+-    "./parsing": "./phrase-parsing/phrase-parsing.module.code.ts",
++    ".": "./spelt-scanning/spelt-scanning.module.code.ts",
+     "./shapes": "./shape-reading/shape-reading.module.code.ts",
+-    "./words": "./word-classing/word-classing.module.code.ts",
+     "./dependency-graph": "./dependency-graph/dependency-graph.module.code.ts",
+     "./word-tokenizing": "./word-tokenizing/word-tokenizing.module.code.ts",
+     "./shape-predicate": "./shape-predicate/shape-predicate.module.code.ts",
+diff --git a/domains/plain-language/phrase-parsing/phrase-parsing.module.code.ts b/domains/plain-language/phrase-parsing/phrase-parsing.module.code.ts
+deleted file mode 100644
+index a56d2207cf3a681c2969432d1ca25f89d2db13e3..0000000000000000000000000000000000000000
+--- a/domains/plain-language/phrase-parsing/phrase-parsing.module.code.ts
++++ /dev/null
+@@ -1,104 +0,0 @@
+-export type Rule = {
+-  readonly left: string
+-  readonly right: readonly string[]
+-}
+-
+-export type Grammar = {
+-  readonly rules: readonly Rule[]
+-  readonly start: string
+-  readonly byLeft: ReadonlyMap<string, readonly Rule[]>
+-  readonly named: ReadonlySet<string>
+-}
+-
+-export type Reading = readonly (readonly string[])[]
+-
+-export type Parsed = {
+-  readonly plain: boolean
+-  readonly stoppedAt: number
+-}
+-
+-type State = {
+-  readonly rule: Rule
+-  readonly dot: number
+-  readonly from: number
+-}
+-
+-export function grammarOf(said: readonly string[], start: string): Grammar {
+-  const rules: Rule[] = []
+-  for (const line of said) {
+-    const sides = line.split("->")
+-    const left = (sides[0] ?? "").trim()
+-    if (left === "" || sides.length < 2) continue
+-    for (const one of (sides[1] ?? "").split("|")) {
+-      const right = one
+-        .trim()
+-        .split(/\s+/)
+-        .filter((word) => word !== "")
+-      if (right.length > 0) rules.push({ left, right })
+-    }
+-  }
+-  const byLeft = new Map<string, Rule[]>()
+-  for (const rule of rules) {
+-    const held = byLeft.get(rule.left) ?? []
+-    held.push(rule)
+-    byLeft.set(rule.left, held)
+-  }
+-  return { rules, start, byLeft, named: new Set(rules.map((rule) => rule.left)) }
+-}
+-
+-function keyOf(state: State): string {
+-  return `${state.rule.left}>${state.rule.right.join(" ")}@${state.dot}:${state.from}`
+-}
+-
+-export function parsed(grammar: Grammar, reading: Reading): Parsed {
+-  const n = reading.length
+-  const chart: State[][] = Array.from({ length: n + 1 }, () => [])
+-  const seen: Set<string>[] = Array.from({ length: n + 1 }, () => new Set<string>())
+-
+-  const push = (at: number, state: State): undefined => {
+-    const held = seen[at]
+-    const row = chart[at]
+-    if (held === undefined || row === undefined) return undefined
+-    const key = keyOf(state)
+-    if (held.has(key)) return undefined
+-    held.add(key)
+-    row.push(state)
+-    return undefined
+-  }
+-
+-  for (const rule of grammar.byLeft.get(grammar.start) ?? []) push(0, { rule, dot: 0, from: 0 })
+-
+-  for (let at = 0; at <= n; at += 1) {
+-    const row = chart[at]
+-    if (row === undefined) continue
+-    for (let i = 0; i < row.length; i += 1) {
+-      const state = row[i]
+-      if (state === undefined) continue
+-      const next = state.rule.right[state.dot]
+-      if (next === undefined) {
+-        const back = chart[state.from]
+-        if (back === undefined) continue
+-        for (const one of back) {
+-          if (one.rule.right[one.dot] !== state.rule.left) continue
+-          push(at, { rule: one.rule, dot: one.dot + 1, from: one.from })
+-        }
+-        continue
+-      }
+-      if (grammar.named.has(next)) {
+-        for (const rule of grammar.byLeft.get(next) ?? []) push(at, { rule, dot: 0, from: at })
+-        continue
+-      }
+-      if (reading[at]?.includes(next) === true) {
+-        push(at + 1, { rule: state.rule, dot: state.dot + 1, from: state.from })
+-      }
+-    }
+-  }
+-
+-  let stoppedAt = 0
+-  for (let at = 0; at <= n; at += 1) if ((chart[at]?.length ?? 0) > 0) stoppedAt = at
+-  const last = chart[n] ?? []
+-  const plain = last.some(
+-    (one) => one.from === 0 && one.dot === one.rule.right.length && one.rule.left === grammar.start
+-  )
+-  return { plain, stoppedAt }
+-}
+diff --git a/domains/plain-language/phrase-parsing/phrase-parsing.module.ts b/domains/plain-language/phrase-parsing/phrase-parsing.module.ts
+deleted file mode 100644
+index 72247e0fa7a7eea2f3a5e340acaf6cedb28f16fa..0000000000000000000000000000000000000000
+--- a/domains/plain-language/phrase-parsing/phrase-parsing.module.ts
++++ /dev/null
+@@ -1,39 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const phraseParsing = {
+-  id: "01a05d93-dbee-7e54-9e8d-403e045e0ce6",
+-  pageTypeSlug: "module",
+-  slug: "phrase-parsing",
+-  definition: "a sentence read against a grammar, and where the reading stopped",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A word carrying several classes is read every way.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A sentence parses where any one reading of the sentence reaches the end.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A refusal names the word the reading stopped at.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The word a reading stopped at is where the grammar wants a rule.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A rule carrying no symbols on its right is dropped.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No tree is built.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here knows any grammar of its own.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/domains/plain-language/plain-grammar/plain-grammar.module.code.ts b/domains/plain-language/plain-grammar/plain-grammar.module.code.ts
+deleted file mode 100644
+index 09ad6c16045eec738806cb9f5645f76ba5c93278..0000000000000000000000000000000000000000
+--- a/domains/plain-language/plain-grammar/plain-grammar.module.code.ts
++++ /dev/null
+@@ -1,109 +0,0 @@
+-import type { Answering } from "@akasha/indexes/answering"
+-import type { Grammar, Parsed } from "../phrase-parsing/phrase-parsing.module.code.ts"
+-import { grammarOf, parsed } from "../phrase-parsing/phrase-parsing.module.code.ts"
+-import type { Shape } from "../shape-reading/shape-reading.module.code.ts"
+-import { shapesIn } from "../shape-reading/shape-reading.module.code.ts"
+-import { classesOf, wordsIn } from "../word-classing/word-classing.module.code.ts"
+-
+-export const START = "S"
+-
+-const SPELT = /`[^`]*`/g
+-
+-export function scanned(text: string): string {
+-  return text.replace(SPELT, (held) => `\`${"x".repeat(held.length - 2)}\``)
+-}
+-
+-export type Refused = {
+-  readonly slug: string
+-  readonly reason: string | null
+-  readonly grammar: Grammar
+-}
+-
+-export type Marked = {
+-  readonly slug: string
+-  readonly reason: string | null
+-  readonly pattern: RegExp
+-}
+-
+-export type Grammars = {
+-  readonly plain: Grammar
+-  readonly refused: readonly Refused[]
+-  readonly marked: readonly Marked[]
+-}
+-
+-export function grammarsFrom(shapes: readonly Shape[]): Grammars {
+-  const admitted = shapes.filter((one) => one.allowed !== false).flatMap((one) => one.rules)
+-  const refused = shapes
+-    .filter((one) => one.allowed === false)
+-    .map((one) => ({
+-      slug: one.slug,
+-      reason: one.reason,
+-      grammar: grammarOf([...admitted, ...one.rules], START),
+-    }))
+-  const marked = shapes
+-    .filter((one) => one.allowed === false && one.pattern !== null)
+-    .map((one) => ({
+-      slug: one.slug,
+-      reason: one.reason,
+-      pattern: new RegExp(one.pattern ?? ""),
+-    }))
+-  return { plain: grammarOf(admitted, START), refused, marked }
+-}
+-
+-export type Said = Parsed & {
+-  readonly words: readonly string[]
+-  readonly stoppedOn: string | null
+-  readonly shape: string | null
+-  readonly reason: string | null
+-}
+-
+-function shapeFor(grammars: Grammars, reading: readonly (readonly string[])[]): Refused | null {
+-  for (const one of grammars.refused) {
+-    if (parsed(one.grammar, reading).plain) return one
+-  }
+-  return null
+-}
+-
+-function markFor(grammars: Grammars, sentence: string): Marked | null {
+-  const said = scanned(sentence)
+-  for (const one of grammars.marked) if (one.pattern.test(said)) return one
+-  return null
+-}
+-
+-export function plainlyBy(grammars: Grammars, sentence: string): Said {
+-  const words = wordsIn(sentence)
+-  const mark = markFor(grammars, sentence)
+-  if (mark !== null) {
+-    return {
+-      plain: false,
+-      stoppedAt: words.length,
+-      words,
+-      stoppedOn: null,
+-      shape: mark.slug,
+-      reason: mark.reason,
+-    }
+-  }
+-  const reading = words.map(classesOf)
+-  const said = parsed(grammars.plain, reading)
+-  if (said.plain) {
+-    return { ...said, words, stoppedOn: null, shape: null, reason: null }
+-  }
+-  const one = shapeFor(grammars, reading)
+-  return {
+-    ...said,
+-    words,
+-    stoppedOn: words[said.stoppedAt] ?? null,
+-    shape: one?.slug ?? null,
+-    reason: one?.reason ?? null,
+-  }
+-}
+-
+-const HELD = new WeakMap<Answering, Grammars>()
+-
+-export function grammarsIn(index: Answering): Grammars {
+-  const found = HELD.get(index)
+-  if (found !== undefined) return found
+-  const made = grammarsFrom(shapesIn(index))
+-  HELD.set(index, made)
+-  return made
+-}
+diff --git a/domains/plain-language/plain-grammar/plain-grammar.module.ts b/domains/plain-language/plain-grammar/plain-grammar.module.ts
+deleted file mode 100644
+index e4dde1974bb896c7bc8a93d414957a0ff52bb40a..0000000000000000000000000000000000000000
+--- a/domains/plain-language/plain-grammar/plain-grammar.module.ts
++++ /dev/null
+@@ -1,35 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const plainGrammar = {
+-  id: "01a05d93-dbee-7669-8dd5-73c44646e342",
+-  pageTypeSlug: "module",
+-  slug: "plain-grammar",
+-  definition: "a sentence judged plain, or named for the shape that refuses it",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The grammar is read as text rather than built by hand.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Every rule the grammar holds is read from a sentence shape.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A sentence the plain grammar refuses is put to each refused shape in turn.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A refusal names the first refused shape whose rules let the sentence parse.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "One sentence carries one clause.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement: "Every construction the grammar admits was put to Alan first.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/domains/plain-language/plain-language.workspace-package.ts b/domains/plain-language/plain-language.workspace-package.ts
+index f4ee6113183c17bcd8f49dd6a58b1c69481f46a7..b45a80dcc8f9934b7ee2cefb3a2e236dfa73c14d 100644
+--- a/domains/plain-language/plain-language.workspace-package.ts
++++ b/domains/plain-language/plain-language.workspace-package.ts
+@@ -7,10 +7,8 @@ export const plainLanguage = {
+   definition: "whether a sentence is written in plain language",
+   manifest: "json",
+   partSlugs: [
+-    "module/word-classing",
+-    "module/phrase-parsing",
+     "module/shape-reading",
+-    "module/plain-grammar",
++    "module/spelt-scanning",
+     "module/dependency-graph",
+     "module/word-tokenizing",
+     "module/shape-predicate",
 diff --git a/domains/plain-language/spelt-scanning/spelt-scanning.module.code.ts b/domains/plain-language/spelt-scanning/spelt-scanning.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..410e5f77261f4a6eeeecac1333520e2f71eb9659
@@ -38,3 +381,194 @@ index 0000000000000000000000000000000000000000..49673bf61be0177a8af8c0e01bc5ed56
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/domains/plain-language/word-classing/word-classing.module.code.ts b/domains/plain-language/word-classing/word-classing.module.code.ts
+deleted file mode 100644
+index c0556ea1a54a13b433b864ad0d03449ddee98e67..0000000000000000000000000000000000000000
+--- a/domains/plain-language/word-classing/word-classing.module.code.ts
++++ /dev/null
+@@ -1,134 +0,0 @@
+-const listed = (said: string): ReadonlySet<string> => new Set(said.split(/\s+/))
+-
+-export const DET = listed("a an the this that these those its his her their our my your")
+-
+-export const QUANT = listed(
+-  "every each all any no some both one two three four five many few none neither either another"
+-)
+-
+-export const PRON = listed("it they them he she him we us you i me")
+-
+-export const PREP = listed(
+-  "of in on at to for with by from into onto over under above below through across against " +
+-    "about after before between beyond during without within outside inside beside past up down " +
+-    "off out per via upon among around behind beneath toward towards until since as like"
+-)
+-
+-export const REL = listed("that which who whom whose where when what")
+-
+-export const WH = listed("which who whom whose where when what how however")
+-
+-export const REL_NOUN = listed("what")
+-
+-export const DEM = listed("this that these those")
+-
+-export const RATHER = listed("rather")
+-
+-export const THAN = listed("than")
+-
+-export const TO = listed("to")
+-
+-export const BE = listed("is are was were be been being")
+-
+-export const AUX = listed("has have had does do did")
+-
+-export const MODAL = listed("may might can could will would shall should must")
+-
+-export const NEG = listed("not never no nor")
+-
+-export const ADV = listed(
+-  "only also still already now then here there always ever once again instead " +
+-    "even just yet so too very more most less least alone apart back away together"
+-)
+-
+-export const SELF = listed("itself themselves")
+-
+-export const INDEF = listed("anything nothing")
+-
+-export const CONJ = listed("and or but")
+-
+-export const SUBORD = listed(
+-  "if unless while whether because although though whenever wherever however"
+-)
+-
+-export type WordClass =
+-  | "DET"
+-  | "QUANT"
+-  | "PRON"
+-  | "SELF"
+-  | "INDEF"
+-  | "PREP"
+-  | "REL"
+-  | "WH"
+-  | "BE"
+-  | "AUX"
+-  | "MODAL"
+-  | "NEG"
+-  | "ADV"
+-  | "CONJ"
+-  | "SUBORD"
+-  | "DEM"
+-  | "RATHER"
+-  | "THAN"
+-  | "TO"
+-  | "N"
+-  | "V"
+-  | "VEN"
+-  | "VING"
+-  | "ADJ"
+-
+-const CLOSED: readonly (readonly [ReadonlySet<string>, WordClass])[] = [
+-  [DET, "DET"],
+-  [QUANT, "QUANT"],
+-  [PRON, "PRON"],
+-  [SELF, "SELF"],
+-  [INDEF, "INDEF"],
+-  [PREP, "PREP"],
+-  [REL, "REL"],
+-  [WH, "WH"],
+-  [BE, "BE"],
+-  [AUX, "AUX"],
+-  [MODAL, "MODAL"],
+-  [NEG, "NEG"],
+-  [ADV, "ADV"],
+-  [CONJ, "CONJ"],
+-  [SUBORD, "SUBORD"],
+-  [DEM, "DEM"],
+-  [RATHER, "RATHER"],
+-  [THAN, "THAN"],
+-  [TO, "TO"],
+-]
+-
+-const IRREGULAR = listed(
+-  "written read held said made taken given known shown found built kept left put set " +
+-    "sent spent brought thought caught taught bought sought told sold understood stood " +
+-    "meant felt slept swept crept dealt drawn grown thrown blown flown seen been done gone come run"
+-)
+-
+-export const NOT_ADVERB = listed("reply apply supply imply comply family assembly anomaly multiply")
+-
+-export function classesOf(word: string): readonly WordClass[] {
+-  const said = word.toLowerCase()
+-  const found: WordClass[] = []
+-  for (const [held, named] of CLOSED) if (held.has(said)) found.push(named)
+-  if (found.includes("AUX")) found.push("V")
+-  if (REL_NOUN.has(said)) found.push("N", "V", "ADJ")
+-  if (found.length > 0) return found
+-  if (word.startsWith("`")) return ["N"]
+-  if (/^[0-9]/.test(said)) return ["ADJ", "N"]
+-  if (said.endsWith("ly") && !NOT_ADVERB.has(said)) return ["ADV", "ADJ"]
+-  if (said.endsWith("ing")) return ["VING", "N", "ADJ"]
+-  if (said.endsWith("ed") || IRREGULAR.has(said)) return ["VEN", "V", "ADJ", "N"]
+-  if (said.endsWith("s")) return ["N", "V"]
+-  return ["N", "V", "ADJ"]
+-}
+-
+-export function wordsIn(said: string): readonly string[] {
+-  return said
+-    .replace(/’/g, "'")
+-    .trim()
+-    .replace(/[.!?]+$/, "")
+-    .split(/\s+/)
+-    .map((word) => word.replace(/^[("',]+/, "").replace(/[)",;:]+$/, ""))
+-    .filter((word) => word !== "")
+-}
+diff --git a/domains/plain-language/word-classing/word-classing.module.ts b/domains/plain-language/word-classing/word-classing.module.ts
+deleted file mode 100644
+index a079c7c4f901401e7b3b480b5d412685470b0a53..0000000000000000000000000000000000000000
+--- a/domains/plain-language/word-classing/word-classing.module.ts
++++ /dev/null
+@@ -1,45 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const wordClassing = {
+-  id: "01a05d93-dbed-7e96-a4d2-43e3cf407d27",
+-  pageTypeSlug: "module",
+-  slug: "word-classing",
+-  definition: "the classes a word may carry, before a grammar chooses between them",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A closed class is written out word by word.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A word in no closed class is classed by its ending.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An auxiliary is a plain verb as well.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A pronoun naming a thing outside its sentence is classed apart from one naming a thing inside.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A relativizer naming the thing that relativizer refers to is a noun as well.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A relativizer that can open a clause used as a noun is classed apart from one that cannot.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A word opening with a backtick is a noun.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No word is looked up in a list built from example text.",
+-    },
+-  ],
+-} as const satisfies Module
