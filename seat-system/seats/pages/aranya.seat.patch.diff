@@ -1239,3 +1239,11 @@ index b6fe7e5c574d1e096733cfb6e97ccfb853a91096..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-lib-gps
 \ No newline at end of file
+diff --git a/temper/temper-lib-histoire/temper-lib-histoire b/temper/temper-lib-histoire/temper-lib-histoire
+deleted file mode 120000
+index 5a7137a3b6df2198c18c4933575f8f7aecc26782..0000000000000000000000000000000000000000
+--- a/temper/temper-lib-histoire/temper-lib-histoire
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-lib-histoire
+\ No newline at end of file
