@@ -35,7 +35,8 @@ export const emailUnsubscribe = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here says what an unsubscribe would do without doing that unsubscribe.",
+      statement:
+        "Nothing here says the effect an unsubscribe would have without doing that unsubscribe.",
     },
   ],
 } as const satisfies Command
