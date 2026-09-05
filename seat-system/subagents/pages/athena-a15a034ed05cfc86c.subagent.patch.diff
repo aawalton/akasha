@@ -28,7 +28,7 @@ index 43e00625d6ee03c01c8dcbba9ed35940d9bc391e..50c93f22b9017f374686df2d635dba14
    try {
      return fs.realpathSync(repo)
 diff --git a/editor-extension/seat-acts/seat-acts.module.code.ts b/editor-extension/seat-acts/seat-acts.module.code.ts
-index d69256318f8f3fb588470ac71f8ac64660f49566..d50c52669b0f183537669445685f5f2fa33c638e 100644
+index d69256318f8f3fb588470ac71f8ac64660f49566..9b72f7f90fd8eccd1b5174fec1806f9efb381800 100644
 --- a/editor-extension/seat-acts/seat-acts.module.code.ts
 +++ b/editor-extension/seat-acts/seat-acts.module.code.ts
 @@ -1,7 +1,7 @@
@@ -63,3 +63,39 @@ index d69256318f8f3fb588470ac71f8ac64660f49566..d50c52669b0f183537669445685f5f2f
    return undefined
  }
  
+@@ -44,23 +51,20 @@ async function detachTerminal(seat: ToggleTarget): Promise<undefined> {
+ 
+ async function resumeInteractive(seat: ToggleTarget): Promise<undefined> {
+   const line = attachCommandLine(seat.name)
+-  await runSeatOps(["seat", "resume", seat.id, "--start-mode", "interactive"])
++  await runSeat(["resume", seat.name, "--start-mode", "interactive"])
+   return attachTerminal(seat, line)
+ }
+ 
+ async function performStep(seat: ToggleTarget, step: SeatStep): Promise<undefined> {
+   switch (step.kind) {
+     case "stop":
+-      await runSeatOps(["seat", "stop", seat.id])
++      await runSeat(["supervisor", "stop", seat.name])
+       return undefined
+     case "revive": {
+       const prompt = await resumePrompt()
+-      await runSeatOps(["seat", "resume", seat.id, "--prompt", prompt])
++      await runSeat(["resume", seat.name, "--prompt", prompt])
+       return undefined
+     }
+-    case "state-place":
+-      await runSeatOps(["instructions", "seat", "--agent", seat.id, "--mode", step.place])
+-      return undefined
+     case "resume-interactive":
+       return resumeInteractive(seat)
+     case "attach":
+@@ -68,7 +72,7 @@ async function performStep(seat: ToggleTarget, step: SeatStep): Promise<undefine
+     case "detach":
+       return detachTerminal(seat)
+     case "reset":
+-      await runSeatOps(["seat", "reset", seat.id])
++      await runSeat(["reset", seat.name])
+       return undefined
+     default: {
+       const unreached: never = step
