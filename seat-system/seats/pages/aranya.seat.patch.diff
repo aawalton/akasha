@@ -87,3 +87,11 @@ index 2a7506e3cdabdf5b5226a85f6e6bdc59415d088b..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../collections/royal-road
 \ No newline at end of file
+diff --git a/design/badges/design-badges b/design/badges/design-badges
+deleted file mode 120000
+index c07811f3ef1940c309fed839055f3b27fbe91d26..0000000000000000000000000000000000000000
+--- a/design/badges/design-badges
++++ /dev/null
+@@ -1 +0,0 @@
+-../../design/badges
+\ No newline at end of file
