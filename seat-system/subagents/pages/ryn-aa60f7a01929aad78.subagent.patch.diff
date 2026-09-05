@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/story/gm-doctrine-packs/properties/doctrine-version.number-property.ts b/story/gm-doctrine-packs/properties/doctrine-version.number-property.ts
+index 81b639f172eb955fb928b3bb82e6d8a0cdb06749..cdad71b4049dafb7d63a24a4cccc3a2583674259 100644
+--- a/story/gm-doctrine-packs/properties/doctrine-version.number-property.ts
++++ b/story/gm-doctrine-packs/properties/doctrine-version.number-property.ts
+@@ -12,7 +12,7 @@ export const doctrineVersion = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Changing what a pack holds without raising this number is refused.",
++      statement: "Changing the doctrine a pack carries without raising this number is refused.",
+     },
+   ],
+ } as const satisfies NumberProperty
