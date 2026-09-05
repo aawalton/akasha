@@ -1,0 +1,23 @@
+diff --git a/checks/modules/checking/checking.module.test-fixtures.ts b/checks/modules/checking/checking.module.test-fixtures.ts
+index e85e670778005ea9884db4cf9fd40552ea703a11..cd360619e97a6960102778b94b89d8ff061e351c 100644
+--- a/checks/modules/checking/checking.module.test-fixtures.ts
++++ b/checks/modules/checking/checking.module.test-fixtures.ts
+@@ -55,14 +55,14 @@ export function rootWith(
+     readonly raw?: string
+     readonly body: string
+   }[],
+-  stands: PageType = CHECK_PAGE_TYPE
++  filedUnder: PageType = CHECK_PAGE_TYPE
+ ): string {
+   const root = scratch.rootFor("akasha-checking-")
+-  noneOfTypeFiled(root, stands.slug)
+-  idFiled(root, CHECK_TYPE, [{ path: stands.at, id: CHECK_TYPE }])
++  noneOfTypeFiled(root, filedUnder.slug)
++  idFiled(root, CHECK_TYPE, [{ path: filedUnder.at, id: CHECK_TYPE }])
+   let minted = 0
+   for (const one of named) {
+-    const at = `akasha/checks-system/code-check/${one.slug}/${one.slug}.${stands.slug}.ts`
++    const at = `akasha/checks-system/code-check/${one.slug}/${one.slug}.${filedUnder.slug}.ts`
+     mkdirSync(join(root, at.slice(0, at.lastIndexOf("/"))), { recursive: true })
+     writeFileSync(
+       join(root, at),
