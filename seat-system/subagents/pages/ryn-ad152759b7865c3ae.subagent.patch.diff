@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/infrastructure/inference-runs/inference-runs.workspace-package.ts b/infrastructure/inference-runs/inference-runs.workspace-package.ts
-index 932f893853a1dfa576d76b4aa79d23af01788fe4..328a974f89b80d90655a287bbc11643d59c7426a 100644
+index 932f893853a1dfa576d76b4aa79d23af01788fe4..3ddd949b2c8fe92d9755c87ff814aa62cf6414f7 100644
 --- a/infrastructure/inference-runs/inference-runs.workspace-package.ts
 +++ b/infrastructure/inference-runs/inference-runs.workspace-package.ts
 @@ -19,7 +19,8 @@ export const inferenceRuns = {
@@ -13,3 +13,13 @@ index 932f893853a1dfa576d76b4aa79d23af01788fe4..328a974f89b80d90655a287bbc11643d
      },
      {
        invariantKind: "departure",
+@@ -27,7 +28,8 @@ export const inferenceRuns = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a run made is kept as an object and named from the page it was made under.",
++      statement:
++        "What a run made is kept as an object and named from the page that object was made under.",
+     },
+     {
+       invariantKind: "absence",
