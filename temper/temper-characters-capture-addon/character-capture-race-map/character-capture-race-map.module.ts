@@ -11,9 +11,5 @@ export const characterCaptureRaceMap = {
       invariantKind: "constraint",
       statement: "A place in this table is the number a saved build hash carries.",
     },
-    {
-      invariantKind: "gap",
-      statement: "An entry moved to another place misreads every build hash already saved.",
-    },
   ],
 } as const satisfies Module
