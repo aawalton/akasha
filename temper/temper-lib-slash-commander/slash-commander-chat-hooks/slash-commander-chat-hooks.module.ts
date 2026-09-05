@@ -17,7 +17,8 @@ export const slashCommanderChatHooks = {
     },
     {
       invariantKind: "departure",
-      statement: "The text before the token is kept so a chosen completion is put back after it.",
+      statement:
+        "The text before the token is kept so a chosen completion is put back after that text.",
     },
     {
       invariantKind: "departure",
