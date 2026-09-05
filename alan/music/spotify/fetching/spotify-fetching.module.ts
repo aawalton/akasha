@@ -22,7 +22,7 @@ export const spotifyFetching = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what a Spotify URL means.",
+      statement: "Nothing here reads a Spotify URL.",
     },
   ],
 } as const satisfies Module
