@@ -25,7 +25,8 @@ export const workTreeColors = {
     },
     {
       invariantKind: "departure",
-      statement: "A repaint reads each row's color afresh rather than raising the one it holds.",
+      statement:
+        "A repaint reads each row's color afresh rather than raising the one that row holds.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +34,7 @@ export const workTreeColors = {
     },
     {
       invariantKind: "departure",
-      statement: "A tree is rebuilt rather than colored where it is.",
+      statement: "A tree is rebuilt rather than colored where that tree is.",
     },
     {
       invariantKind: "absence",
