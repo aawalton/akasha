@@ -1,17 +1,4 @@
 runsWarrants: false
-diff --git a/checks/cluster-checks/modules/k8s-node-selector/k8s-node-selector.module.code.ts b/checks/cluster-checks/modules/k8s-node-selector/k8s-node-selector.module.code.ts
-index c0f5fd4de1c766d8cfbabe2acfb617e6b5e6cbb3..76da215b920e7f7d2af34075f5ca5047d98d46d8 100644
---- a/checks/cluster-checks/modules/k8s-node-selector/k8s-node-selector.module.code.ts
-+++ b/checks/cluster-checks/modules/k8s-node-selector/k8s-node-selector.module.code.ts
-@@ -54,7 +54,7 @@ function isAcceptedSelectorKey(key: string): boolean {
- }
- 
- const NODE_NAME_ALLOW: ReadonlySet<string> = new Set([
--  "infrastructure/voice-inference/voice-infer.cluster-service.code.attachment.ts",
-+  "infrastructure/voice-inference/voice-infer/voice-infer.manifest.code.ts",
-   "infra/voice-infer/generated/deployment.generated.yaml",
- ])
- 
 diff --git a/infrastructure/voice-inference/voice-infer.cluster-service.code.attachment.ts b/infrastructure/voice-inference/voice-infer.cluster-service.code.attachment.ts
 deleted file mode 100644
 index c662417df16c07a66e98eb489efb871ad510e1ad..0000000000000000000000000000000000000000
