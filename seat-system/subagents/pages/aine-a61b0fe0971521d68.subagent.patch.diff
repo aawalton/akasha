@@ -1,0 +1,130 @@
+diff --git a/service-system/workstation-services/service-installing/service-installing.module.code.ts b/service-system/workstation-services/service-installing/service-installing.module.code.ts
+index a42640cfe3d032292c1d5da1a56019923f7402b2..81a72ecee1f69661cbe23f7b3dd6e7fcac0b04cf 100644
+--- a/service-system/workstation-services/service-installing/service-installing.module.code.ts
++++ b/service-system/workstation-services/service-installing/service-installing.module.code.ts
+@@ -97,7 +97,7 @@ export function textFor(given: Service): ReadonlyMap<string, string> {
+   return held
+ }
+ 
+-export function planFor(standing: readonly Service[], owned: readonly string[]): Plan {
++export function planFor(services: readonly Service[], owned: readonly string[]): Plan {
+   const write = new Map<string, string>()
+   const enable: string[] = []
+   const stop: string[] = []
+diff --git a/service-system/workstation-services/service-installing/service-installing.module.test.ts b/service-system/workstation-services/service-installing/service-installing.module.test.ts
+index e7c2979ab7102efc11a25e74882ef42e766bacb7..3e4de8cdd8be844a550e56aaf739161d04f5fd53 100644
+--- a/service-system/workstation-services/service-installing/service-installing.module.test.ts
++++ b/service-system/workstation-services/service-installing/service-installing.module.test.ts
+@@ -61,7 +61,7 @@ test("only the timer of a scheduled service is enabled", () => {
+   expect([...plan.write.keys()].length).toBe(2)
+ })
+ 
+-test("a unit standing that no service accounts for is removed", () => {
++test("a unit there that no service accounts for is removed", () => {
+   const plan = planFor([pageOf({})], ["held-service.service", "gone-away.service"])
+   expect(plan.remove).toEqual(["gone-away.service"])
+ })
+diff --git a/service-system/workstation-services/service-installing/service-installing.module.ts b/service-system/workstation-services/service-installing/service-installing.module.ts
+index 08db4517b19b3c6da006353bc2c8b8de76c2b9f7..6337425d0fbf2d8f4dc34d390c2cda79fb817fc4 100644
+--- a/service-system/workstation-services/service-installing/service-installing.module.ts
++++ b/service-system/workstation-services/service-installing/service-installing.module.ts
+@@ -4,7 +4,7 @@ export const serviceInstalling = {
+   id: "01a05a62-6da2-7e4f-9186-137486a0d1e2",
+   pageTypeSlug: "module",
+   slug: "service-installing",
+-  definition: "the units a workstation service stands installed as",
++  definition: "the units a workstation service is installed as",
+   code: "ts",
+   test: "ts",
+   invariants: [
+diff --git a/service-system/workstation-services/service-reaching/service-reaching.module.test.ts b/service-system/workstation-services/service-reaching/service-reaching.module.test.ts
+index 1fee8866f252a8464a69151a4bbe7e923e373be6..828f49cd3921b205c53ec252e02aa0079364e05c 100644
+--- a/service-system/workstation-services/service-reaching/service-reaching.module.test.ts
++++ b/service-system/workstation-services/service-reaching/service-reaching.module.test.ts
+@@ -20,7 +20,7 @@ function fileAt(rel: string, text: string): string {
+   return at
+ }
+ 
+-test("a file standing under the root is reached and one standing outside it is not", () => {
++test("a file under the root is reached and one outside it is not", () => {
+   expect(insideRepo("/a/b", "/a/b/c.ts")).toBe(true)
+   expect(insideRepo("/a/b", "/a/c.ts")).toBe(false)
+   expect(insideRepo("/a/b", "/a/bc/d.ts")).toBe(false)
+diff --git a/service-system/workstation-services/service-reaching/service-reaching.module.ts b/service-system/workstation-services/service-reaching/service-reaching.module.ts
+index 5d8f495349f979eadcc85edb837b99c1716307bf..60a0a500f15bfc9422556b5e116fb0c4d23a4120 100644
+--- a/service-system/workstation-services/service-reaching/service-reaching.module.ts
++++ b/service-system/workstation-services/service-reaching/service-reaching.module.ts
+@@ -14,7 +14,7 @@ export const serviceReaching = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file is reached at the path it really stands at rather than the one naming it.",
++      statement: "A file is reached at the path it really is at rather than the one naming it.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/service-system/workstation-services/service-reading/service-reading.module.test.ts b/service-system/workstation-services/service-reading/service-reading.module.test.ts
+index 2166ebb7bb6ef6486742452c67c7c430455672cd..db1eb4b69f9a41ed01b0ed03ca116a4dd8bd017b 100644
+--- a/service-system/workstation-services/service-reading/service-reading.module.test.ts
++++ b/service-system/workstation-services/service-reading/service-reading.module.test.ts
+@@ -13,7 +13,7 @@ const WHOLE = {
+   id: "01a05a51-0000-7000-8000-00000000000c",
+   pageTypeSlug: "workstation-service",
+   slug: "a-service",
+-  definition: "a service standing for a test",
++  definition: "a service representing a test",
+   runs: ["bun a.ts"],
+   enabled: true,
+ }
+diff --git a/service-system/workstation-services/service-wrapping/service-wrapping.module.code.ts b/service-system/workstation-services/service-wrapping/service-wrapping.module.code.ts
+index d1a4e22615c89b21efa51b2dd1f4526a4a464412..6e5c5caf58def6c6cea80d4d6faf7d12f3b7ba4c 100644
+--- a/service-system/workstation-services/service-wrapping/service-wrapping.module.code.ts
++++ b/service-system/workstation-services/service-wrapping/service-wrapping.module.code.ts
+@@ -91,7 +91,7 @@ export async function wrapping(given: Wrapping): Promise<number> {
+   }
+   if (service.stopped) {
+     process.stderr.write(
+-      `${says} stopped at ${REACHED_CEILING} file(s), which is the ceiling; what stands past it is not followed\n`
++      `${says} stopped at ${REACHED_CEILING} file(s), which is the ceiling; what is past it is not followed\n`
+     )
+   }
+ 
+diff --git a/service-system/workstation-services/service-wrapping/service-wrapping.module.test.ts b/service-system/workstation-services/service-wrapping/service-wrapping.module.test.ts
+index 91ce5b3ce6ad9c2867dcc4f46e4b5c672fd58854..bae89281b541e0fbd4abbdfb82f93ae00d57ab5a 100644
+--- a/service-system/workstation-services/service-wrapping/service-wrapping.module.test.ts
++++ b/service-system/workstation-services/service-wrapping/service-wrapping.module.test.ts
+@@ -22,7 +22,7 @@ test("a JSON file beside a code file leaves only the code file waited on", () =>
+   expect(unparsedIn([`${ROOT}/a.json`, `${ROOT}/b.ts`])).toEqual([`${ROOT}/b.ts`])
+ })
+ 
+-test("the command is what stands after the first double dash", () => {
++test("the command is what comes after the first double dash", () => {
+   expect(commandIn(["--also", "x", "--", "bun", "a.ts"])).toEqual(["bun", "a.ts"])
+ })
+ 
+diff --git a/service-system/workstation-services/service-wrapping/service-wrapping.module.ts b/service-system/workstation-services/service-wrapping/service-wrapping.module.ts
+index f36f1d5148df1f858064784bdd522c28315e0b03..6ed5f416ee1ca252ddeb541655ecb89ddff9a076 100644
+--- a/service-system/workstation-services/service-wrapping/service-wrapping.module.ts
++++ b/service-system/workstation-services/service-wrapping/service-wrapping.module.ts
+@@ -36,7 +36,7 @@ export const serviceWrapping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The command is what stands after the first double dash.",
++      statement: "The command is what comes after the first double dash.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/service-system/workstation-services/unit-writing/unit-writing.module.ts b/service-system/workstation-services/unit-writing/unit-writing.module.ts
+index 025c4da1b80088a557bb6ba84d1941733c63a48c..bc2c6e76b0fbba368e5d8cd3cea604a06d67f2b9 100644
+--- a/service-system/workstation-services/unit-writing/unit-writing.module.ts
++++ b/service-system/workstation-services/unit-writing/unit-writing.module.ts
+@@ -10,7 +10,7 @@ export const unitWriting = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A unit is written from a page's value and the path that page stands at.",
++      statement: "A unit is written from a page's value and the path that page is at.",
+     },
+     {
+       invariantKind: "departure",
