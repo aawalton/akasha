@@ -16,6 +16,19 @@ const SLOT_FAMILIES = ["nsubj", "obj", "iobj", "obl", "conj", "appos"]
 const SLOTS = ["nmod", "root"]
 const RELATIVE = ["which", "who", "whom", "whose"]
 const DEMONSTRATIVE = ["this", "that", "these", "those"]
+const INDEFINITE = [
+  "anybody",
+  "anyone",
+  "anything",
+  "everybody",
+  "everyone",
+  "everything",
+  "nobody",
+  "nothing",
+  "somebody",
+  "someone",
+  "something",
+]
 const REFLEXIVE = [
   "herself",
   "himself",
@@ -167,6 +180,10 @@ export function isSummingCount(token: DepToken): boolean {
 
 export function isQuantifier(token: DepToken): boolean {
   return QUANTIFIER.includes(lower(token))
+}
+
+export function isIndefinite(token: DepToken): boolean {
+  return INDEFINITE.includes(lower(token))
 }
 
 export function marksADegree(sentence: DepSentence, token: DepToken): boolean {

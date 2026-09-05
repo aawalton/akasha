@@ -101,12 +101,22 @@ test("a sentence naming the thing holds no match", () => {
   expect(lonePronoun(said)).toEqual([])
 })
 
-test("a pronoun pointing at nothing is found", () => {
+test("an indefinite pronoun is passed over, because no noun takes its place", () => {
   const said = sentenceOf([
     ["Nothing", "PRON", 2, "nsubj"],
     ["fetches", "VERB", 0, "root"],
   ])
-  expect(lonePronoun(said)).toEqual([{ at: [1] }])
+  expect(lonePronoun(said)).toEqual([])
+})
+
+test("an indefinite pronoun filling the object slot is passed over", () => {
+  const said = sentenceOf([
+    ["A", "DET", 2, "det"],
+    ["page", "NOUN", 3, "nsubj"],
+    ["binds", "VERB", 0, "root"],
+    ["nothing", "PRON", 3, "obj"],
+  ])
+  expect(lonePronoun(said)).toEqual([])
 })
 
 test("a pronoun supplying its own content is found", () => {

@@ -101,6 +101,10 @@ export const sentenceShape = {
       invariantKind: "departure",
       statement: "The grammar built from rules refuses nothing.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Many shapes that each refuse truly find more than one shape that refuses widely.",
+    },
   ],
   directives: [
     {

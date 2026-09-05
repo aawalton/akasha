@@ -9,4 +9,15 @@ export const lonePronoun = {
   code: "ts",
   test: "ts",
   reason: "Resolving a pronoun costs a reader a step that naming the thing does not.",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "An indefinite pronoun points at no thing, so no noun takes its place.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A free relative is a lone pronoun, because naming the thing a clause holds costs less.",
+    },
+  ],
 } as const satisfies SentenceShape

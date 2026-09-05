@@ -2,6 +2,7 @@ import type { Match, ShapePredicate } from "@akasha/plain-language/shape-predica
 import {
   fillsNounSlot,
   isDemonstrative,
+  isIndefinite,
   isPronoun,
   isQuantifier,
   isReflexive,
@@ -17,6 +18,7 @@ export const lonePronoun: ShapePredicate = (sentence) => {
     if (isRelative(sentence, token)) continue
     if (isDemonstrative(token)) continue
     if (isQuantifier(token)) continue
+    if (isIndefinite(token)) continue
     if (isReflexive(token)) continue
     found.push({ at: [token.id] })
   }
