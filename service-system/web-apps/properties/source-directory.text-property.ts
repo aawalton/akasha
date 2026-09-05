@@ -17,7 +17,7 @@ export const sourceDirectory = {
     },
     {
       invariantKind: "absence",
-      statement: "No slash opens or closes what is here.",
+      statement: "No slash opens or closes the folder named here.",
     },
     {
       invariantKind: "departure",
