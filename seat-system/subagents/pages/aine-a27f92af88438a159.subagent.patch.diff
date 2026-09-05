@@ -1,0 +1,118 @@
+diff --git a/pages/answer-sweeping/page-answer-sweeping.module.code.ts b/pages/answer-sweeping/page-answer-sweeping.module.code.ts
+index 9b0479f2e67ca6e8a950dec886b5df81c0d002cc..54be810c625c34793e6d4716c4498527d8ea8d7a 100644
+--- a/pages/answer-sweeping/page-answer-sweeping.module.code.ts
++++ b/pages/answer-sweeping/page-answer-sweeping.module.code.ts
+@@ -7,7 +7,7 @@ const RESOLVED = ".git/pages/resolved/page-type"
+ 
+ const DAY_MS = 24 * 60 * 60 * 1000
+ 
+-function stood(at: string, now: number): boolean {
++function old(at: string, now: number): boolean {
+   try {
+     return now - statSync(at).mtimeMs > DAY_MS
+   } catch {
+diff --git a/pages/carry/page-carry.module.ts b/pages/carry/page-carry.module.ts
+index 25d139391b8c4fd1067f9fb740bdc2f9391e68fc..25dd317aaf000a0a568f8e2809ca2db3ee1f3bec 100644
+--- a/pages/carry/page-carry.module.ts
++++ b/pages/carry/page-carry.module.ts
+@@ -9,7 +9,7 @@ export const pageCarry = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A value that is already text is carried as it stands.",
++      statement: "A value that is already text is carried as it is.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/pages/derive-shape/page-derive-shape.module.ts b/pages/derive-shape/page-derive-shape.module.ts
+index 06d77d669ee3dd3f2f35b3bfdb40dc390f571eb3..d4995ddccc831db62cbd3851ae996d1c9593c420 100644
+--- a/pages/derive-shape/page-derive-shape.module.ts
++++ b/pages/derive-shape/page-derive-shape.module.ts
+@@ -9,7 +9,7 @@ export const pageDeriveShape = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A row is where it stands and the values it holds.",
++      statement: "A row is where it is and the values it holds.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/pages/email-address-properties/email-address-property.page-type.ts b/pages/email-address-properties/email-address-property.page-type.ts
+index 3730b382387eba9ad35babf43abad349b63fde18..0d22dd7d5b3ef4d8b693849a9854cb18c29cda06 100644
+--- a/pages/email-address-properties/email-address-property.page-type.ts
++++ b/pages/email-address-properties/email-address-property.page-type.ts
+@@ -25,7 +25,7 @@ export const emailAddressProperty = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The `@` divides the mailbox from the domain the mailbox stands at.",
++      statement: "The `@` divides the mailbox from the domain the mailbox is at.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/pages/formula-properties/properties/formula.text-property.ts b/pages/formula-properties/properties/formula.text-property.ts
+index b05fd3b9d2c19b54e109bb2d060dd438939d3f7d..725cf90076c0d8aa8167cba4ad31d15a0d25a03e 100644
+--- a/pages/formula-properties/properties/formula.text-property.ts
++++ b/pages/formula-properties/properties/formula.text-property.ts
+@@ -17,7 +17,7 @@ export const formula = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A key a formula names is a property of the page type the formula stands on.",
++      statement: "A key a formula names is a property of the page type the formula is on.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/pages/process-properties/process-property.page-type.ts b/pages/process-properties/process-property.page-type.ts
+index 068956da81b379cb1c3f346b8170a331504fb4bb..e67abcc0f6abb8435fe6a7514f7ac43fa6cebbb3 100644
+--- a/pages/process-properties/process-property.page-type.ts
++++ b/pages/process-properties/process-property.page-type.ts
+@@ -31,7 +31,7 @@ export const processProperty = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A process still standing is the one named only where the start time read now matches the one held.",
++        "A process that still exists is the one named only where the start time read now matches the one held.",
+     },
+   ],
+ } as const satisfies PageType
+diff --git a/pages/properties/cover.text-property.ts b/pages/properties/cover.text-property.ts
+index 51d5f3f4a51a313c92bf67669d2a140a91aedfaa..484504733e57b981c7f74c325421773d86e769aa 100644
+--- a/pages/properties/cover.text-property.ts
++++ b/pages/properties/cover.text-property.ts
+@@ -7,7 +7,7 @@ export const cover = {
+   pageTypeSlug: "text-property",
+   slug: "cover",
+   propertySlug: "cover",
+-  definition: "the image that stands for a page",
++  definition: "the image that represents a page",
+   max: 100,
+   nameFormatSlug: null,
+   invariants: [
+diff --git a/pages/query-day/page-query-day.module.code.ts b/pages/query-day/page-query-day.module.code.ts
+index 19c0111449d9e34d5d6a97d5bad5711a55ca6565..43bc95c4a7e3eccacfa2757898a852a654e194f3 100644
+--- a/pages/query-day/page-query-day.module.code.ts
++++ b/pages/query-day/page-query-day.module.code.ts
+@@ -2,7 +2,7 @@
+  * The type an argument takes when what it names is one of Alan's tracked days.
+  *
+  * A caller has a date, so a query takes a date. What a session row holds is the *name* of the day
+- * page it stands beside, and that name is the date on one side of the migration and `day-` and the
++ * page it sits beside, and that name is the date on one side of the migration and `day-` and the
+  * date on the other. `dayNameOf` in `tools/lib/tracking/day-place.ts` is the one rule that says
+  * which, and an argument declared here is bound through it, so a query and the writer that filed
+  * the row can never disagree about how a day is spelled: they are the same call.
+diff --git a/pages/query-narrow/page-query-narrow.module.ts b/pages/query-narrow/page-query-narrow.module.ts
+index 70477a469dc1ea4c889986d8a57e222c7b686bd0..b73894e061c317cb8992e2c8a29fc4e51c33430d 100644
+--- a/pages/query-narrow/page-query-narrow.module.ts
++++ b/pages/query-narrow/page-query-narrow.module.ts
+@@ -25,8 +25,7 @@ export const pageQueryNarrow = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A test that cannot be read is said as unreadable and the tests beside it still stand.",
++      statement: "A test that cannot be read is said as unreadable and the tests beside it remain.",
+     },
+     {
+       invariantKind: "departure",
