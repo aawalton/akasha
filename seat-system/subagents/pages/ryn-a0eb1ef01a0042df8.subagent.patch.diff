@@ -1,0 +1,13 @@
+diff --git a/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts b/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
+index 31f983a848e690fc19f0cba7b496ccc529830268..7f52b3e10a70de21e06e483929e964852cca24d6 100644
+--- a/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
++++ b/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
+@@ -10,7 +10,7 @@ export const accountUpkeepStallReading = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Upkeep dying takes every claude account down with it once the last token runs out.",
++        "Upkeep dying takes every claude account down with upkeep once the last token runs out.",
+     },
+     {
+       invariantKind: "departure",
