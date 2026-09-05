@@ -38,3 +38,16 @@ index 6ca19dda23622339afed065457a8c62961a61859..7f357b98b2f4844cc792176ebbce2ff5
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/notifications/push-notifying/push-notifying.module.ts b/alan/harness/notifications/push-notifying/push-notifying.module.ts
+index d825095ce16eeebfabfb6aa48b5c66ec8bd3f2ab..a583a8b2947a91af87d8424f85b61e4333aef5b7 100644
+--- a/alan/harness/notifications/push-notifying/push-notifying.module.ts
++++ b/alan/harness/notifications/push-notifying/push-notifying.module.ts
+@@ -51,7 +51,7 @@ export const pushNotifying = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "Notifications are read and the feed written from the pages data directly rather than through the pages system service, as code on the workstation must.",
++        "The feed is read and written in pages data, not the pages system service, as workstation code must.",
+     },
+   ],
+ } as const satisfies Module
