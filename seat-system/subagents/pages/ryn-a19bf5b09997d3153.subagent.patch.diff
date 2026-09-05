@@ -1,0 +1,16 @@
+diff --git a/agents/models/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.ts b/agents/models/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.ts
+index 011ce8469928192e3d9a94f2fdbf8c5e5c6b3ae5..4b49c31a3e43707b85896d584650f52ff23df11f 100644
+--- a/agents/models/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.ts
++++ b/agents/models/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.ts
+@@ -86,10 +86,7 @@ export const modelUnavailableRebind = {
+       invariantKind: "departure",
+       statement: "Every 404 answered here is answered 404.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "The response body is read to text the once through `peek-response`.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "Every terminal 404 goes to the error seam rather than the output seam.",
