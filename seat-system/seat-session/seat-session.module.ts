@@ -13,7 +13,8 @@ export const seatSession = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat whose page has gone is read out of the history it was committed into.",
+      statement:
+        "A seat whose page has gone is read out of the history that seat was committed into.",
     },
     {
       invariantKind: "departure",
@@ -21,11 +22,12 @@ export const seatSession = {
     },
     {
       invariantKind: "departure",
-      statement: "A session cannot be observed again, so it is committed with the page.",
+      statement: "A session cannot be observed again, so that session is committed with the page.",
     },
     {
       invariantKind: "departure",
-      statement: "Keeping a session does nothing, because the page write is what lands it.",
+      statement:
+        "Keeping a session does nothing, because the page write is what lands that session.",
     },
   ],
 } as const satisfies Module
