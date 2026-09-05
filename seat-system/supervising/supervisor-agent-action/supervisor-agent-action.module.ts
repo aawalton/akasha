@@ -13,7 +13,7 @@ export const supervisorAgentAction = {
     },
     {
       invariantKind: "departure",
-      statement: "A restart-now clears the request before it signals the child.",
+      statement: "A restart-now clears the request before that restart-now signals the child.",
     },
     {
       invariantKind: "departure",
