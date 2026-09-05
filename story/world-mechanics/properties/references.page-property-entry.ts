@@ -43,7 +43,8 @@ export const references = {
     },
     {
       invariantKind: "departure",
-      statement: "A quote is carried so a reading can be checked against the text it came from.",
+      statement:
+        "A quote is carried so a reading can be checked against the text that quote came from.",
     },
   ],
 } as const satisfies PagePropertyEntry
