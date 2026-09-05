@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/command-system/manifest-locking/manifest-locking.module.ts b/command-system/manifest-locking/manifest-locking.module.ts
+index 55cf6af022ae59be7ad9d740d8aa0761deaace6c..f1a3ae17523fbb49e90d2ce810014e8813a2cbab 100644
+--- a/command-system/manifest-locking/manifest-locking.module.ts
++++ b/command-system/manifest-locking/manifest-locking.module.ts
+@@ -67,7 +67,8 @@ export const manifestLocking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A landing carrying a manifest installs the checkout onto the commit it landed.",
++      statement:
++        "A landing carrying a manifest installs the checkout onto the commit that landing landed.",
+     },
+     {
+       invariantKind: "departure",
