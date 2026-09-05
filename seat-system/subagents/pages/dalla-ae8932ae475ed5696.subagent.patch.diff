@@ -1,0 +1,31 @@
+diff --git a/command-system/body-merging/body-merging.module.code.ts b/command-system/body-merging/body-merging.module.code.ts
+index b550a3da43e6eeb04c514478e54e4ee0f9e9284f..b29b6f73b6254e2cc16a332c40eaa17108bbe132 100644
+--- a/command-system/body-merging/body-merging.module.code.ts
++++ b/command-system/body-merging/body-merging.module.code.ts
+@@ -22,6 +22,12 @@ const THEIRS_SAID = "what HEAD holds"
+ 
+ export const CLASH_MARK = `<<<<<<< ${MINE_SAID}`
+ 
++const SPLIT = "======="
++
++const AWAY_AT = `>>>>>>> ${THEIRS_SAID}`
++
++const BYTES = new TextEncoder()
++
+ export type Merged =
+   | { readonly body: Uint8Array | null }
+   | { readonly why: string; readonly marked?: Uint8Array }
+@@ -37,6 +43,13 @@ export function clashing(body: Uint8Array | null): boolean {
+   return said === null ? false : said.split("\n").includes(CLASH_MARK)
+ }
+ 
++export function markedAway(mine: Uint8Array): Uint8Array | null {
++  const said = decodeUtf8(mine)
++  if (said === null) return null
++  const body = said.endsWith("\n") ? said : `${said}\n`
++  return BYTES.encode(`${CLASH_MARK}\n${body}${SPLIT}\n${AWAY_AT}\n`)
++}
++
+ function mergedByGit(base: Uint8Array, mine: Uint8Array, theirs: Uint8Array): Merged {
+   const dir = mkdtempSync(join(SCRATCH_AT, MERGING_AT))
+   try {
