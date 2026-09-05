@@ -197,6 +197,21 @@ index 449abb5b20ccc09c9fedc7e9929e9ebb542c3694..b68fa3672f94da342900cb9da02d7c6f
    writing(
      root,
      path,
+diff --git a/context/warrants/role-page-type/role-page-type.context-warrant.test.ts b/context/warrants/role-page-type/role-page-type.context-warrant.test.ts
+index 4d20fa970f363cc25b704e00efad44e9bd700d9e..a4eabda1ed5824fc864715db57bfec18ce183a5a 100644
+--- a/context/warrants/role-page-type/role-page-type.context-warrant.test.ts
++++ b/context/warrants/role-page-type/role-page-type.context-warrant.test.ts
+@@ -25,8 +25,8 @@ afterAll(scratch.sweep)
+ const AGENT = "01a0596c-0000-7000-8000-000000000005"
+ 
+ function typeWorld(root: string): readonly string[] {
+-  const page = pageTypeListed(root, "page", null)
+-  const role = pageTypeListed(root, "role", "page")
++  const page = pageTypeListed(root, "page", [])
++  const role = pageTypeListed(root, "role", ["page"])
+   return [role, page]
+ }
+ 
 diff --git a/pages/core/schema/page-type-inheritance/page-type-inheritance.module.test.ts b/pages/core/schema/page-type-inheritance/page-type-inheritance.module.test.ts
 index 036110c1a965832096ff8f1ffecee7b5fd88fd0b..1498729979da491776388f937add84582dfd564d 100644
 --- a/pages/core/schema/page-type-inheritance/page-type-inheritance.module.test.ts
