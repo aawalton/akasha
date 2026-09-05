@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/git/git-push-handoff/git-push-handoff.module.ts b/git/git-push-handoff/git-push-handoff.module.ts
+index 2edeb66b79fec64d7ba3d63fb92090ac7fda9e2d..2d2bba1d38589de0fffcc68a22ce05fea666f8bd 100644
+--- a/git/git-push-handoff/git-push-handoff.module.ts
++++ b/git/git-push-handoff/git-push-handoff.module.ts
+@@ -24,7 +24,7 @@ export const gitPushHandoff = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A hand-off that cannot start says the commit is already durable locally and what to run instead.",
++        "A hand-off that cannot start says the commit is already durable locally and the push to run instead.",
+     },
+     {
+       invariantKind: "departure",
