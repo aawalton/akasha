@@ -17,7 +17,7 @@ export const graph = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The indexes answer what stands.",
+      statement: "The indexes answer what exists.",
     },
     {
       invariantKind: "departure",

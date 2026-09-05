@@ -4,8 +4,7 @@ export const fileKindAuthorship = {
   id: "01a0685e-59a0-7002-862e-796571404269",
   pageTypeSlug: "module",
   slug: "file-kind-authorship",
-  definition:
-    "whether a file kind is written by hand or emitted by a tool, and the node it stands as",
+  definition: "whether a file kind is written by hand or emitted by a tool, and the node it is",
   code: "ts",
   test: "ts",
   invariants: [

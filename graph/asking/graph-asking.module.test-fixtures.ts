@@ -119,7 +119,7 @@ export function edgeFiledAt(kind: string): string {
   return `identity/${GRAPH_EDGE}/slug/${kind}.jsonl`
 }
 
-function indexed(root: string, indexName: string, stands: boolean): undefined {
+function indexed(root: string, indexName: string, exists: boolean): undefined {
   paged(root, INDEX_AT, {
     id: INDEX_ID,
     pageTypeSlug: INDEX,
@@ -127,14 +127,14 @@ function indexed(root: string, indexName: string, stands: boolean): undefined {
     definition: INVENTED,
     name: indexName,
   })
-  if (stands) filed(root, INDEX_FILED_AT, { path: INDEX_AT, id: INDEX_ID })
+  if (exists) filed(root, INDEX_FILED_AT, { path: INDEX_AT, id: INDEX_ID })
 }
 
 function edged(
   root: string,
   kind: string,
   held: Record<string, unknown>,
-  stands: boolean
+  exists: boolean
 ): undefined {
   paged(root, EDGE_AT, {
     id: EDGE_ID,
@@ -144,7 +144,7 @@ function edged(
     indexSlug: `${INDEX}/${HELD_INDEX}`,
     ...held,
   })
-  if (stands) filed(root, edgeFiledAt(kind), { path: EDGE_AT, id: EDGE_ID })
+  if (exists) filed(root, edgeFiledAt(kind), { path: EDGE_AT, id: EDGE_ID })
 }
 
 export function relationWorld(lines: number, pagesStand = true): string {

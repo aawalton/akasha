@@ -158,7 +158,7 @@ test("a page type stating a loader is answered no differently from one stating n
   )
 })
 
-test("an import edge standing only in the index given is answered, and none without it", () => {
+test("an import edge existing only in the index given is answered, and none without it", () => {
   const root = importWorld(IMPORT)
   const over = readingLaidOver(root, {
     [`${IMPORT}/path/${FIRST_AT}.jsonl`]: [{ path: SECOND_AT }],
@@ -170,7 +170,7 @@ test("an import edge standing only in the index given is answered, and none with
   expect(edgesInto(FIRST_AT, [IMPORT_EDGE], indexOf(root))).toEqual([])
 })
 
-test("an import edge the index given empties is not answered, and stands without it", () => {
+test("an import edge the index given empties is not answered, and exists without it", () => {
   const root = importWorld(IMPORT)
   filed(root, `${IMPORT}/path/${FIRST_AT}.jsonl`, { path: THIRD_AT })
   const over = readingLaidOver(root, { [`${IMPORT}/path/${TARGET_AT}.jsonl`]: [] })
@@ -181,7 +181,7 @@ test("an import edge the index given empties is not answered, and stands without
   ])
 })
 
-test("a relation edge standing only in the index given is answered, and none without it", () => {
+test("a relation edge existing only in the index given is answered, and none without it", () => {
   const root = relationWorld(0)
   const over = readingLaidOver(root, { [LEAF_AT]: [{ path: SOURCE_AT }] })
 
@@ -191,7 +191,7 @@ test("a relation edge standing only in the index given is answered, and none wit
   expect(edgesInto(TARGET_AT, [RELATION], indexOf(root))).toEqual([])
 })
 
-test("an edge kind's own pages, standing only in the index given, still answer it", () => {
+test("an edge kind's own pages, existing only in the index given, still answer it", () => {
   const root = relationWorld(1, false)
   const over = readingLaidOver(root, {
     [edgeFiledAt(RELATION)]: [{ path: EDGE_AT, id: EDGE_ID }],
@@ -222,7 +222,7 @@ test("a cycle is walked once, so an answer comes back rather than a run that doe
   expect(reachingInto([FIRST_AT], [IMPORT_EDGE], indexOf(root))).toEqual([FIRST_AT, SECOND_AT])
 })
 
-test("a node the predicate turns away is left out, and what stands behind it is not reached", () => {
+test("a node the predicate turns away is left out, and what is behind it is not reached", () => {
   const root = reachingWorld({ [FIRST_AT]: [APART_AT], [APART_AT]: [THIRD_AT] })
 
   const kept = reachingInto([FIRST_AT], [IMPORT_EDGE], indexOf(root), (one) => one.endsWith(ENDING))

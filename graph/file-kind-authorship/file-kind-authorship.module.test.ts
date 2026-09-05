@@ -28,7 +28,7 @@ test("a kind's node type is the kind's own name followed by `-file`", () => {
   expect(nodeTypeOf("yml")).toBe("yml-file")
 })
 
-test("every authored kind is authored and stands as its own node type", () => {
+test("every authored kind is authored and is its own node type", () => {
   for (const kind of AUTHORED_FILE_KINDS) {
     expect(authorshipOf(kind)).toBe("authored")
   }

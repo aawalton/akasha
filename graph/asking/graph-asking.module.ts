@@ -20,7 +20,7 @@ export const graphAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "An import edge stands only where the index answers an import edge.",
+      statement: "An import edge exists only where the index answers an import edge.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +38,7 @@ export const graphAsking = {
     },
     {
       invariantKind: "absence",
-      statement: "The folder an index stands in is spelled by the indexes rather than here.",
+      statement: "The folder an index is in is spelled by the indexes rather than here.",
     },
     {
       invariantKind: "absence",
