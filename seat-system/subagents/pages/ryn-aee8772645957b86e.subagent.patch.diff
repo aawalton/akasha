@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/alan/fitness/exercise-access/exercise-digest/exercise-digest.module.ts b/alan/fitness/exercise-access/exercise-digest/exercise-digest.module.ts
+index ce50640849bf44427923d2e27716771cd22b43e5..8c83d8e0cf8333750ff0c0d8763f81ddb41954e9 100644
+--- a/alan/fitness/exercise-access/exercise-digest/exercise-digest.module.ts
++++ b/alan/fitness/exercise-access/exercise-digest/exercise-digest.module.ts
+@@ -9,7 +9,8 @@ export const exerciseDigest = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The ops dispatcher imports this module and calls the default export it declares.",
++      statement:
++        "The ops dispatcher imports this module and calls the default export this module declares.",
+     },
+     {
+       invariantKind: "departure",
