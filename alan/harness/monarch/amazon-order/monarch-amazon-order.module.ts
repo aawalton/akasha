@@ -33,7 +33,7 @@ export const monarchAmazonOrder = {
     },
     {
       invariantKind: "departure",
-      statement: "A summary is what the subject says after its first colon.",
+      statement: "A summary is the text the subject says after its first colon.",
     },
     {
       invariantKind: "departure",
