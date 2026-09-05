@@ -1,5 +1,5 @@
 diff --git a/agents/models/gateway/modules/proxy-run/proxy-run.module.code.ts b/agents/models/gateway/modules/proxy-run/proxy-run.module.code.ts
-index 6e54acc7bfceb3fd4ed4d87e934c6ff712fa6f7c..ffe670b6f7faf20c355b2ab4b0eff01b6872fccb 100644
+index 6e54acc7bfceb3fd4ed4d87e934c6ff712fa6f7c..61d4be2dbde44b3deed9a2919afff427274a0f97 100644
 --- a/agents/models/gateway/modules/proxy-run/proxy-run.module.code.ts
 +++ b/agents/models/gateway/modules/proxy-run/proxy-run.module.code.ts
 @@ -3,8 +3,7 @@ import { dirname, join } from "node:path"
@@ -36,6 +36,15 @@ index 6e54acc7bfceb3fd4ed4d87e934c6ff712fa6f7c..ffe670b6f7faf20c355b2ab4b0eff01b
    const seat = seams.seatOf(asked.agentId)
    if (seat !== null) {
      return (
+@@ -102,7 +93,7 @@ export async function startedOn(
+   const socketPath = seams.socketFor(asked.agentId)
+   const logDir = asked.logDir ?? dirname(socketPath)
+   seams.madeDir(logDir)
+-  const entry = entryIn(root)
++  const entry = modelGatewayEntrypoint()
+   const proc = seams.spawned(entry, envFor(asked, logDir), join(logDir, STDERR_LOG))
+   const pid = proc.pid
+   if (pid === undefined) {
 diff --git a/browser/browser-commands/browser-test-storage-state/browser-test-storage-state.command.code.ts b/browser/browser-commands/browser-test-storage-state/browser-test-storage-state.command.code.ts
 index 1cdef3e6e9c483340a7524b8e242263c8a3eac92..3ea51a6ad92a1d987d6547e8dd6248d7deed79d7 100644
 --- a/browser/browser-commands/browser-test-storage-state/browser-test-storage-state.command.code.ts
