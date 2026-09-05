@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-web/path-tracker/path-tracker.module.ts b/temper/temper-web/path-tracker/path-tracker.module.ts
+index 780087cff88ba8de0071ef6b14eff3fe7c5fa1c9..e6d2932d10332b6d8ef2276a1ac8942851edf998 100644
+--- a/temper/temper-web/path-tracker/path-tracker.module.ts
++++ b/temper/temper-web/path-tracker/path-tracker.module.ts
+@@ -13,7 +13,7 @@ export const pathTracker = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What tracks the path is a hook rather than a component.",
++      statement: "The path is tracked by a hook rather than by a component.",
+     },
+   ],
+ } as const satisfies Module
