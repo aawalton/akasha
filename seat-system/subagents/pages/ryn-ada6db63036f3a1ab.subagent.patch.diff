@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/system-service/page-serving/page-serving.module.ts b/pages/system-service/page-serving/page-serving.module.ts
-index 42b89d4b9a6fa9478e3f6ec988135e7a3b41b45e..2ddc7fca64e2ed8471128e1e6df9d50ffa6135ee 100644
+index 42b89d4b9a6fa9478e3f6ec988135e7a3b41b45e..1e325eff156492eeadf59e7351a1263331909942 100644
 --- a/pages/system-service/page-serving/page-serving.module.ts
 +++ b/pages/system-service/page-serving/page-serving.module.ts
 @@ -94,7 +94,7 @@ export const pageServing = {
@@ -12,3 +12,12 @@ index 42b89d4b9a6fa9478e3f6ec988135e7a3b41b45e..2ddc7fca64e2ed8471128e1e6df9d50f
      },
      {
        invariantKind: "departure",
+@@ -130,7 +130,7 @@ export const pageServing = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A refusal says whose fault it was.",
++      statement: "A refusal says whose fault that refusal was.",
+     },
+   ],
+ } as const satisfies Module
