@@ -1,0 +1,52 @@
+diff --git a/temper/temper-commands/temper-addon-bundle-publish/temper-addon-bundle-publish.command.code.ts b/temper/temper-commands/temper-addon-bundle-publish/temper-addon-bundle-publish.command.code.ts
+index df88ed5db92161745361424df4bacc5847d35df5..6091778613b3901321a430c8291dacb7c0b3d25a 100644
+--- a/temper/temper-commands/temper-addon-bundle-publish/temper-addon-bundle-publish.command.code.ts
++++ b/temper/temper-commands/temper-addon-bundle-publish/temper-addon-bundle-publish.command.code.ts
+@@ -61,7 +61,7 @@ function mustRun(argv: readonly string[], what: string): string | null {
+     Date.now() - started >= PUSH_CEILING_MS
+       ? `was still running after ${String(PUSH_CEILING_MS / A_SECOND)}s and was killed, so it is stuck rather than slow`
+       : "failed"
+-  return `${what} ${why}, so nothing it would have produced stands. It ran as \`${argv.join(" ")}\`.\n${done.err.trim()}`
++  return `${what} ${why}, so nothing it would have produced is there. It ran as \`${argv.join(" ")}\`.\n${done.err.trim()}`
+ }
+ 
+ function tagBody(contentHash: string): string {
+diff --git a/temper/temper-commands/temper-auto-quest-trace/temper-auto-quest-trace.command.code.ts b/temper/temper-commands/temper-auto-quest-trace/temper-auto-quest-trace.command.code.ts
+index bff21238a693fd8f65c124db818d204f087bd1ff..75494d1f123b83fa1ca6435d3837ad9853dac1aa 100644
+--- a/temper/temper-commands/temper-auto-quest-trace/temper-auto-quest-trace.command.code.ts
++++ b/temper/temper-commands/temper-auto-quest-trace/temper-auto-quest-trace.command.code.ts
+@@ -103,7 +103,7 @@ export function temperAutoQuestTrace(argv: readonly string[] = []): Answer {
+     content = readFileSync(tracePath, "utf8")
+   } catch (thrown) {
+     return refused(
+-      `no capture stands at ${tracePath}, so there is no trace to read: ${messageOf(thrown)}`,
++      `no capture is at ${tracePath}, so there is no trace to read: ${messageOf(thrown)}`,
+       DATA
+     )
+   }
+diff --git a/temper/temper-commands/temper-catalog-status/temper-catalog-status.command.code.ts b/temper/temper-commands/temper-catalog-status/temper-catalog-status.command.code.ts
+index c59e646763c907ce87f260371c7b0e226cbea791..02e4cfd6367d3c2a827a1e1d44feb5417cbe5f1b 100644
+--- a/temper/temper-commands/temper-catalog-status/temper-catalog-status.command.code.ts
++++ b/temper/temper-commands/temper-catalog-status/temper-catalog-status.command.code.ts
+@@ -83,7 +83,7 @@ function summaryLines(
+   return [
+     ...said,
+     sideFile === undefined
+-      ? "the request file stands at nothing, so no collection is owed"
++      ? "the request file is not there, so no collection is owed"
+       : `the request is version ${String(sideFile.invalidateVersion)} over ${JSON.stringify(sideFile.invalidateDomains)}`,
+   ]
+ }
+diff --git a/temper/temper-commands/temper-errors-list/temper-errors-list.command.code.ts b/temper/temper-commands/temper-errors-list/temper-errors-list.command.code.ts
+index c0d34ad796187a4b2b289a648edcfc5b43066409..57193c9f7f828c1fb7a25662f0309ea539439632 100644
+--- a/temper/temper-commands/temper-errors-list/temper-errors-list.command.code.ts
++++ b/temper/temper-commands/temper-errors-list/temper-errors-list.command.code.ts
+@@ -208,7 +208,7 @@ export async function temperErrorsList(argv: readonly string[] = []): Promise<An
+     content = readFileSync(errorsPath, "utf8")
+   } catch (thrown) {
+     return refused(
+-      `no capture stands at ${errorsPath}, so there is no error to read: ${messageOf(thrown)}`,
++      `no capture is at ${errorsPath}, so there is no error to read: ${messageOf(thrown)}`,
+       DATA
+     )
+   }
