@@ -1,0 +1,12 @@
+diff --git a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
+index 26b1c714044e720c60f4f47a5c1d5de6eeca4474..6c6c08cb972f462aa0516fc66dcdc6841f27c2f9 100644
+--- a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
++++ b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
+@@ -116,6 +116,7 @@ const PRONOUN = [
+   "yourselves",
+ ]
+ const SUMMING = ["both", "each", "either", "neither"]
++const RECIPROCAL = ["each other", "one another"]
+ const DEGREE = ["all", "least", "most"]
+ const MARKERS = ["advmod", "case", "cc", "det", "fixed", "punct"]
+ const OPENERS = ["SCONJ", "CCONJ"]
