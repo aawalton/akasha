@@ -15,6 +15,7 @@ export const inferenceRun = {
     "module/persist-audio",
     "module/persist-image",
     "module/persist-media",
+    "page-type/inference-run",
   ],
   invariants: [
     {
