@@ -64,3 +64,16 @@ index 8c2fd0474918f855e8d73cc5df5f199f38de2f03..2b20f0abb75a4a15f98cdeb1e7b65a61
      },
      {
        invariantKind: "departure",
+diff --git a/infrastructure/inference-clients/inference-clients.workspace-package.ts b/infrastructure/inference-clients/inference-clients.workspace-package.ts
+index 9a50f0955cea66a665de3f1d8e32475a4b7cd865..bc746bd2068f2457f5bd01b0aa1b56be6081d830 100644
+--- a/infrastructure/inference-clients/inference-clients.workspace-package.ts
++++ b/infrastructure/inference-clients/inference-clients.workspace-package.ts
+@@ -26,7 +26,7 @@ export const inferenceClients = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A client answers with the bytes the service made rather than with a path those bytes were written to.",
++        "A client answers with the bytes the service made rather than a path those bytes were written to.",
+     },
+     {
+       invariantKind: "absence",
