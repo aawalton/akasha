@@ -62,7 +62,7 @@ index d1390f239d4104919d3b352a380dab3e0cfe78b6..e55309d7a54302ecff5bdf241098f4e2
      {
        invariantKind: "departure",
 diff --git a/commands/write/write.command.test.ts b/commands/write/write.command.test.ts
-index c0c8a3e10cd2ca891f81862745f6a8717be5cfc4..22c48c7e97cb2240463cfcf56069f0d64ba35df6 100644
+index c0c8a3e10cd2ca891f81862745f6a8717be5cfc4..bfd77b4f5c42149be38dcad6f49fda79bb939981 100644
 --- a/commands/write/write.command.test.ts
 +++ b/commands/write/write.command.test.ts
 @@ -65,7 +65,7 @@ test("a body the record shows read is written over", async () => {
@@ -74,6 +74,15 @@ index c0c8a3e10cd2ca891f81862745f6a8717be5cfc4..22c48c7e97cb2240463cfcf56069f0d6
    const root = repoWith()
    const said = await wroteAt(root, "akasha/new.ts")
    expect(said.refusals).toEqual([])
+@@ -180,7 +180,7 @@ test("a path git does not track is taken away where --remove names it", async ()
+   expect(existsSync(join(root, at))).toBe(false)
+ })
+ 
+-test("a file standing beside a path this call writes is not taken away", async () => {
++test("a file beside a path this call writes is not taken away", async () => {
+   const root = repoWith({
+     "akasha/held.module.ts": "committed\n",
+     "akasha/held.module.code.ts": "committed\n",
 diff --git a/commands/write/write.command.ts b/commands/write/write.command.ts
 index 9b1b9cac9ab509e1360b085c3bed5fbef05a6032..94edd51bc77bf0023471eed553d957bd79eef075 100644
 --- a/commands/write/write.command.ts
