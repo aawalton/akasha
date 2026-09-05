@@ -32,7 +32,8 @@ export const codeFormat = {
     },
     {
       invariantKind: "departure",
-      statement: "What comes back is taken only when the run exited clean and said something.",
+      statement:
+        "The body that comes back is taken only when the run exited clean and said something.",
     },
     {
       invariantKind: "departure",
@@ -97,7 +98,7 @@ export const codeFormat = {
     },
     {
       invariantKind: "absence",
-      statement: "What a body's trouble means is left to the checks that judge the body.",
+      statement: "The meaning of a body's trouble is left to the checks that judge the body.",
     },
     {
       invariantKind: "absence",
