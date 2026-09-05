@@ -1,9 +1,12 @@
+import { landBodies } from "@akasha/command-system/gated-landing"
 import { valuesOfType } from "@akasha/indexes"
-import { patchPage } from "@akasha/markdown-pages/page-write"
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { composedFor } from "@akasha/pages-system-service/composing"
 import { selectionPolicy as stated } from "../../selection-policies/pages/selection-policy/selection-policy.selection-policy.ts"
 
 const PROFILE = "client-profile"
+
+const WRITER = "exercise-profile-writer"
 
 export interface GoalWeights {
   readonly longevity: number
@@ -95,8 +98,21 @@ export function readBodyweight(): number {
 }
 
 export async function writeBodyweight(bodyweight: number): Promise<string> {
-  const written = await patchPage(resolveRoots(), PROFILE, PROFILE, { bodyweight })
-  if (written === null) throw new Error(`\`${PROFILE}\` names no page type whose pages are files`)
-  if (written.commitError !== null) throw new Error(written.commitError)
-  return written.relPath
+  const was = only(PROFILE)
+  const slug = was["slug"]
+  if (typeof slug !== "string") {
+    throw new Error(`the \`${PROFILE}\` page states no slug, so there is no page to write back to`)
+  }
+  const composed = composedFor(rootOf(), {
+    pageTypeSlug: PROFILE,
+    slug,
+    values: { ...was, bodyweight },
+  })
+  if ("refused" in composed) throw new Error(composed.refused)
+  const landed = await landBodies(
+    { repo: AKASHA, writer: WRITER, message: `record a bodyweight of ${String(bodyweight)}` },
+    [{ relPath: composed.put.path, body: composed.put.content }]
+  )
+  if (!landed.ok) throw new Error(landed.why)
+  return composed.put.path
 }
