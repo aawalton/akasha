@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/checks.workspace-package.ts b/checks/checks.workspace-package.ts
+index b827a3112351951747453ec6d85be94a7213f2a2..f9c4d8214fdca5ecb44c1ae6dc9afbeb415cd9f6 100644
+--- a/checks/checks.workspace-package.ts
++++ b/checks/checks.workspace-package.ts
+@@ -70,7 +70,7 @@ export const checks = {
+     },
+     {
+       invariantKind: "upkeep",
+-      statement: "Every check says what its input is.",
++      statement: "Every check names its input.",
+     },
+     {
+       invariantKind: "departure",
