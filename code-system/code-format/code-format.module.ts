@@ -77,7 +77,7 @@ export const codeFormat = {
     },
     {
       invariantKind: "departure",
-      statement: "Reordering one of them is not changing one.",
+      statement: "Reordering one of those characters is not changing one.",
     },
     {
       invariantKind: "departure",
@@ -85,7 +85,7 @@ export const codeFormat = {
     },
     {
       invariantKind: "departure",
-      statement: "Whether a body moved is answered beside it.",
+      statement: "Whether a body moved is answered beside that body.",
     },
     {
       invariantKind: "absence",
@@ -93,7 +93,7 @@ export const codeFormat = {
     },
     {
       invariantKind: "absence",
-      statement: "This rewrites or it does not.",
+      statement: "This rewrites or does not.",
     },
     {
       invariantKind: "absence",
