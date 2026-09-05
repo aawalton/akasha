@@ -18,7 +18,7 @@ export const recipes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Any one of these sets brews the same drink.",
+      statement: "Any one of the reagent sets brews the same drink.",
     },
   ],
 } as const satisfies RecordProperty

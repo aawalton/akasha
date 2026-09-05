@@ -58,7 +58,7 @@ export const indexEntries = {
     {
       invariantKind: "departure",
       statement:
-        "The numbered files of an uncommitted property are claimed as those of one the page states are.",
+        "The numbered files of an uncommitted property are claimed as the files of one the page states are.",
     },
     {
       invariantKind: "departure",

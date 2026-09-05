@@ -31,7 +31,7 @@ export const temperInventoryKnowledge = {
     },
     {
       invariantKind: "departure",
-      statement: "A key naming no kind this holds refuses the call.",
+      statement: "A key naming no kind this command holds refuses the call.",
     },
     {
       invariantKind: "departure",

@@ -30,7 +30,7 @@ export const seatCall = {
     },
     {
       invariantKind: "departure",
-      statement: "This reads the seat it names rather than the caller's own.",
+      statement: "This module reads the seat it names rather than the caller's own.",
     },
     {
       invariantKind: "departure",

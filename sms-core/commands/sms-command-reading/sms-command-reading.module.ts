@@ -18,7 +18,8 @@ export const smsCommandReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag whose value is another flag this takes is a flag no value followed.",
+      statement:
+        "A flag whose value is another flag the command takes is a flag no value followed.",
     },
     {
       invariantKind: "departure",

@@ -12,7 +12,7 @@ export const toolTimeout = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "What runs the agent reads this as milliseconds.",
+      statement: "What runs the agent reads this number as milliseconds.",
     },
   ],
 } as const satisfies NumberProperty

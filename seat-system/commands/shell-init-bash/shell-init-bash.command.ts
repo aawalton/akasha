@@ -32,7 +32,7 @@ export const shellInitBash = {
     },
     {
       invariantKind: "departure",
-      statement: "A word given to this is refused, because it takes none.",
+      statement: "A word given to this command is refused, because it takes none.",
     },
     {
       invariantKind: "departure",

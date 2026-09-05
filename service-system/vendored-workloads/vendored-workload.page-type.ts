@@ -54,7 +54,7 @@ export const vendoredWorkload = {
     {
       invariantKind: "departure",
       statement:
-        "A workload this repository emits manifests for is a cluster service rather than one of these.",
+        "A workload this repository emits manifests for is a cluster service rather than a vendored workload.",
     },
   ],
 } as const satisfies PageType

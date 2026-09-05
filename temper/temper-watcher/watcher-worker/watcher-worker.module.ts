@@ -38,7 +38,8 @@ export const watcherWorker = {
     },
     {
       invariantKind: "departure",
-      statement: "The checkout a source update advances is the akasha checkout this runs from.",
+      statement:
+        "The checkout a source update advances is the akasha checkout this module runs from.",
     },
     {
       invariantKind: "departure",

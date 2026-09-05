@@ -21,7 +21,7 @@ export const seatPresenceRead = {
     },
     {
       invariantKind: "departure",
-      statement: "The agents listed are those akasha holds a seat for, in sorted order.",
+      statement: "The agents listed are the ones akasha holds a seat for, in sorted order.",
     },
     {
       invariantKind: "departure",

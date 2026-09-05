@@ -128,7 +128,7 @@ export const seatTurn = {
       invariantKind: "departure",
       statement: "An idle seat is pending or handed or answered or unknown.",
     },
-    { invariantKind: "departure", statement: "An idle seat is never two of those at once." },
+    { invariantKind: "departure", statement: "An idle seat is never two of those four at once." },
     {
       invariantKind: "departure",
       statement: "An idle seat is pending while a turn start the seat arranged is still to come.",

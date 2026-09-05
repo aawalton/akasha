@@ -13,7 +13,7 @@ export const deviceSecretDeviceId = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An iOS device states this as the identifier it holds for its vendor.",
+      statement: "An iOS device states this value as the identifier it holds for its vendor.",
     },
     {
       invariantKind: "departure",

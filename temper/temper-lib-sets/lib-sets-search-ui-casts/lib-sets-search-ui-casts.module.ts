@@ -7,6 +7,9 @@ export const libSetsSearchUiCasts = {
   definition: "the narrowings for the untyped values the search window handles",
   code: "ts",
   invariants: [
-    { invariantKind: "departure", statement: "Every one of these is an unchecked cast." },
+    {
+      invariantKind: "departure",
+      statement: "Every one of these narrowings is an unchecked cast.",
+    },
   ],
 } as const satisfies Module

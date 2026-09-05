@@ -9,7 +9,7 @@ export const supervisorDecide = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This is run as its own program so a supervisor can kill it at a ceiling.",
+      statement: "This module is run as its own program so a supervisor can kill it at a ceiling.",
     },
     {
       invariantKind: "departure",
@@ -17,7 +17,8 @@ export const supervisorDecide = {
     },
     {
       invariantKind: "departure",
-      statement: "A payload asking nothing, or naming a decision this does not make, is refused.",
+      statement:
+        "A payload asking nothing, or naming a decision this module does not make, is refused.",
     },
     {
       invariantKind: "departure",

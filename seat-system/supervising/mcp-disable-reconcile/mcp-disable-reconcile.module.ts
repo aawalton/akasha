@@ -22,7 +22,7 @@ export const mcpDisableReconcile = {
     },
     {
       invariantKind: "departure",
-      statement: "A configuration this cannot read is left alone rather than rewritten.",
+      statement: "A configuration this module cannot read is left alone rather than rewritten.",
     },
     {
       invariantKind: "departure",
