@@ -1,5 +1,5 @@
 diff --git a/markdown-pages/markdown-page-commit-queue/markdown-page-commit-queue.module.code.ts b/markdown-pages/markdown-page-commit-queue/markdown-page-commit-queue.module.code.ts
-index 78ef253e3364a681cb7897aa1e351c94e437979d..d39c44d3bb0c065b81aea140dbe5f7100822db9d 100644
+index 78ef253e3364a681cb7897aa1e351c94e437979d..e0b85aa505105732b26c14216243021c78a47fd5 100644
 --- a/markdown-pages/markdown-page-commit-queue/markdown-page-commit-queue.module.code.ts
 +++ b/markdown-pages/markdown-page-commit-queue/markdown-page-commit-queue.module.code.ts
 @@ -31,7 +31,7 @@ export const STALL_ATTEMPTS = 6
@@ -20,6 +20,15 @@ index 78ef253e3364a681cb7897aa1e351c94e437979d..d39c44d3bb0c065b81aea140dbe5f710
    readonly deferred: boolean
    readonly pending: number
    readonly unlanded: number
+@@ -58,7 +58,7 @@ export interface Standing {
+   readonly lastError: string | null
+ }
+ 
+-export function standing(): Standing {
++export function health(): Health {
+   let pending = 0
+   for (const one of waiting.values()) pending += one.entries.size
+   let unlanded = 0
 diff --git a/markdown-pages/markdown-page-write-compose/markdown-page-write-compose.module.code.ts b/markdown-pages/markdown-page-write-compose/markdown-page-write-compose.module.code.ts
 index ccdaa2a30fed633c168a53cfd72460083cbe79fc..aba26d1d0353483334c62ed6c90ee2fe8f367411 100644
 --- a/markdown-pages/markdown-page-write-compose/markdown-page-write-compose.module.code.ts
@@ -42,7 +51,7 @@ index ccdaa2a30fed633c168a53cfd72460083cbe79fc..aba26d1d0353483334c62ed6c90ee2fe
    const front = frontOf(tree, pageType, withId(merged as Record<string, Rendered>, text, at))
    return `${front}${split.body ?? bodyIn(text)}`
 diff --git a/markdown-pages/markdown-page-write-where/markdown-page-write-where.module.code.ts b/markdown-pages/markdown-page-write-where/markdown-page-write-where.module.code.ts
-index 3c84a6c4f997f6b7ffcb438f0fc92c7265e11a36..d22ebae7e2816ff244bf4776b80122f62deb6d2b 100644
+index 3c84a6c4f997f6b7ffcb438f0fc92c7265e11a36..dc58459c8fae0aa6ac6973f77a8a1c9e18b3d262 100644
 --- a/markdown-pages/markdown-page-write-where/markdown-page-write-where.module.code.ts
 +++ b/markdown-pages/markdown-page-write-where/markdown-page-write-where.module.code.ts
 @@ -32,9 +32,9 @@ export interface Where {
@@ -57,8 +66,17 @@ index 3c84a6c4f997f6b7ffcb438f0fc92c7265e11a36..d22ebae7e2816ff244bf4776b80122f6
   * answers the empty text for a `.ts` name, so it was false for every one of Alan's 133 moved days
   * before the name was ever compared; `statesSlug` then read a frontmatter block a TypeScript page
   * does not carry. Nothing was found, and the fallback built a name ending `.md` under a folder
+@@ -44,7 +44,7 @@ export interface Where {
+  *
+  * So the fallback is built from the type's markdown places only, and a type stating none of them is
+  * refused rather than answered. A caller asking where to put a page this cannot place gets nothing
+- * and can say so; a caller asking where a landed page stands gets the page, of either kind.
++ * and can say so; a caller asking where a landed page is gets the page, of either kind.
+  */
+ export function whereFor(
+   roots: Roots,
 diff --git a/markdown-pages/markdown-page-write/markdown-page-write.module.code.ts b/markdown-pages/markdown-page-write/markdown-page-write.module.code.ts
-index e12a646ab72c39d45358e4e945d2c20d50a2e293..36a99c78019191cae3bb2acf35a8847e503c145a 100644
+index e12a646ab72c39d45358e4e945d2c20d50a2e293..755518d392fd6da51ba82c052acfe7b962eb6466 100644
 --- a/markdown-pages/markdown-page-write/markdown-page-write.module.code.ts
 +++ b/markdown-pages/markdown-page-write/markdown-page-write.module.code.ts
 @@ -106,9 +106,9 @@ function clearRows(tree: FileTree, pageType: string, at: Where): readonly Taken[
@@ -84,3 +102,12 @@ index e12a646ab72c39d45358e4e945d2c20d50a2e293..36a99c78019191cae3bb2acf35a8847e
            const front = withId(await withSeq(roots, pageType, split.front, held), held, at)
            return `${frontOf(tree, pageType, front)}${split.body ?? ""}`
          },
+@@ -173,7 +173,7 @@ export async function patchPage(
+     composing: [
+       {
+         relPath: at.relPath,
+-        compose: (standing) => patchedText(roots, pageType, standing ?? "", split, at, clear, tree),
++        compose: (before) => patchedText(roots, pageType, before ?? "", split, at, clear, tree),
+       },
+     ],
+     alongside,
