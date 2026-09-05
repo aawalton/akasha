@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/agents/models/modules/asking/model-asking.module.ts b/agents/models/modules/asking/model-asking.module.ts
+index 94819b83caecf0bcde12189a69da94e064235812..1358af25ab22f1204c8685537139221d9fb9b544 100644
+--- a/agents/models/modules/asking/model-asking.module.ts
++++ b/agents/models/modules/asking/model-asking.module.ts
+@@ -53,8 +53,7 @@ export const modelAsking = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement:
+-        "The gateway named by the environment is what sits between this module and Anthropic.",
++      statement: "The gateway named by the environment sits between this module and Anthropic.",
+     },
+     {
+       invariantKind: "absence",
