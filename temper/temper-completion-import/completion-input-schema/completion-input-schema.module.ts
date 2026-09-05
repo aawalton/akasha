@@ -22,7 +22,7 @@ export const completionInputSchema = {
     },
     {
       invariantKind: "gap",
-      statement: "The reading names fields without saying what any field means.",
+      statement: "The reading names fields without saying any field's meaning.",
     },
   ],
 } as const satisfies Module
