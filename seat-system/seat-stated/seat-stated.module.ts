@@ -21,7 +21,7 @@ export const seatStated = {
     },
     {
       invariantKind: "departure",
-      statement: "Each observed key is copied from the page back into the record beside it.",
+      statement: "Each observed key is copied from the page back into the record beside that page.",
     },
     {
       invariantKind: "departure",
