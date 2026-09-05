@@ -55,7 +55,7 @@ export const drive = {
     },
     {
       invariantKind: "departure",
-      statement: "The name a fetched file lands under is the name Drive holds for it.",
+      statement: "The name a fetched file lands under is the name Drive holds for that file.",
     },
     {
       invariantKind: "departure",
