@@ -26,7 +26,8 @@ export const terminalAccountLaunchers = {
     },
     {
       invariantKind: "departure",
-      statement: "A new account is named and given an address before any client opens on it.",
+      statement:
+        "A new account is named and given an address before any client opens on that account.",
     },
     {
       invariantKind: "departure",
