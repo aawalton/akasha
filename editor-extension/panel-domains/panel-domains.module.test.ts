@@ -3,8 +3,8 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import {
-  listedFiled,
   relationFiled,
+  valueAlsoFiled,
 } from "../../pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { domainsDrawn, kindsUnderDomain } from "./panel-domains.module.code.ts"
 
@@ -28,9 +28,12 @@ function pageAt(root: string, path: string, body: string): undefined {
   writeFileSync(at, body)
 }
 
+// The pages of a page type are read out of the value index, one line for each page, so that is
+// where a test puts them. The identity index answers which page carries one slug, which is a
+// narrower question than this panel asks.
 function filing(root: string, kind: string, slug: string, id: string, body?: string): undefined {
   const path = `akasha/held/${slug}.${kind}.ts`
-  listedFiled(root, kind, slug, [{ path, id }])
+  valueAlsoFiled(root, kind, [{ path, value: { id, slug } }])
   if (body !== undefined) pageAt(root, path, body)
 }
 

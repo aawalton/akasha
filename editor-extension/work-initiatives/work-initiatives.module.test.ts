@@ -4,9 +4,8 @@ import { dirname, join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import {
   idFiled,
-  listedFiled,
-  noneOfTypeFiled,
   relationFiled,
+  valueAlsoFiled,
 } from "../../pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { initiativesDrawn } from "./work-initiatives.module.code.ts"
 
@@ -38,8 +37,11 @@ function worldFor(typeSlug: string = INITIATIVE): string {
   return root
 }
 
+// The pages of a page type are read out of the value index, one line for each page, so that is
+// where a test puts them. The identity index answers which page carries one slug, which is a
+// narrower question than this panel asks.
 function filing(root: string, slug: string, id: string, typeSlug: string = INITIATIVE): undefined {
-  listedFiled(root, typeSlug, slug, [{ path: pathFor(slug, typeSlug), id }])
+  valueAlsoFiled(root, typeSlug, [{ path: pathFor(slug, typeSlug), value: { id, slug } }])
 }
 
 function under(root: string, child: string, parent: string): undefined {
@@ -60,12 +62,6 @@ test("every initiative is drawn though the page type saying what one is carries 
 })
 
 test("an index filing no initiative draws nothing", () => {
-  const root = worldFor()
-  noneOfTypeFiled(root, INITIATIVE)
-  expect(initiativesDrawn(root)).toEqual([])
-})
-
-test("an index filing initiatives nowhere draws nothing either", () => {
   const root = worldFor()
   expect(initiativesDrawn(root)).toEqual([])
 })
@@ -123,8 +119,8 @@ test("a parent under two children keeps each of them under it", () => {
 
 test("a path the file name says is no initiative is passed over", () => {
   const root = worldFor()
-  listedFiled(root, INITIATIVE, "stray", [
-    { path: "akasha/editor-extension/stray.module.ts", id: ONE },
+  valueAlsoFiled(root, INITIATIVE, [
+    { path: "akasha/editor-extension/stray.module.ts", value: { id: ONE, slug: "stray" } },
   ])
   expect(initiativesDrawn(root)).toEqual([])
 })
