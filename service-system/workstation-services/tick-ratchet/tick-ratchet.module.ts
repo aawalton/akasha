@@ -28,7 +28,11 @@ export const tickRatchet = {
     {
       invariantKind: "absence",
       statement:
-        "A loop that catches its own throw and logs it leaves the unit reading healthy, so ending is the only thing the unit can see.",
+        "A loop that catches its own throw and logs that throw leaves the unit reading healthy.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Ending is the only thing the unit can see.",
     },
   ],
 } as const satisfies Module
