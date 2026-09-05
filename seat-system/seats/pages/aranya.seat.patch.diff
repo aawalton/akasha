@@ -1135,3 +1135,11 @@ index c02da5cb7516fbdd0680a49738ef53874ad62e75..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-items-rules-routing
 \ No newline at end of file
+diff --git a/temper/temper-keybinder-addon/temper-keybinder-addon b/temper/temper-keybinder-addon/temper-keybinder-addon
+deleted file mode 120000
+index 95f857d9a473593fec4350fc039a433b30219c47..0000000000000000000000000000000000000000
+--- a/temper/temper-keybinder-addon/temper-keybinder-addon
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-keybinder-addon
+\ No newline at end of file
