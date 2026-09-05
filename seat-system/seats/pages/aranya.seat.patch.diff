@@ -591,3 +591,11 @@ index 6debdae7cf5f2fb44056494d99fcd91e5ec8d7f4..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-build-support
 \ No newline at end of file
+diff --git a/temper/temper-capture-datamining-addon/temper-capture-datamining-addon b/temper/temper-capture-datamining-addon/temper-capture-datamining-addon
+deleted file mode 120000
+index 36964fd3b3aee735f0e8b9bfc343a8713dd2341a..0000000000000000000000000000000000000000
+--- a/temper/temper-capture-datamining-addon/temper-capture-datamining-addon
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-capture-datamining-addon
+\ No newline at end of file
