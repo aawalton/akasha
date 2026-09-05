@@ -63,7 +63,7 @@ index c236920847729757117f9ead937e5218c5e92b70..d831b6e81106165a5093a93b1ca179f9
    max: 200,
  } as const satisfies UrlProperty
 diff --git a/alan/harness/notification-feeds/notification-feed.page-type.ts b/alan/harness/notification-feeds/notification-feed.page-type.ts
-index f49f5789a640be117a14d7d86cdf70c671f1e5b1..1a9218e2555b3b3356355e632dfc8104a20e2abf 100644
+index f49f5789a640be117a14d7d86cdf70c671f1e5b1..8063d25c915308515389f7022fcb75a724621073 100644
 --- a/alan/harness/notification-feeds/notification-feed.page-type.ts
 +++ b/alan/harness/notification-feeds/notification-feed.page-type.ts
 @@ -31,7 +31,7 @@ export const notificationFeed = {
@@ -75,11 +75,20 @@ index f49f5789a640be117a14d7d86cdf70c671f1e5b1..1a9218e2555b3b3356355e632dfc8104
      },
      {
        invariantKind: "departure",
+@@ -43,7 +43,7 @@ export const notificationFeed = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "The feeds stand as pages under this type rather than as markdown.",
++      statement: "The feeds are pages under this type rather than markdown.",
+     },
+   ],
+ } as const satisfies PageType
 diff --git a/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts b/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts
-index 51292b786a6d55f05185db013695391c847278ed..1ea11534b7e08a507ea61d69c6c0b3e8e1cbb102 100644
+index 51292b786a6d55f05185db013695391c847278ed..d4bd655f30aa86c911b93ea8f2568fd35a983f2b 100644
 --- a/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts
 +++ b/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts
-@@ -21,7 +21,7 @@ export const notifications = {
+@@ -21,11 +21,11 @@ export const notifications = {
      {
        invariantKind: "departure",
        statement:
@@ -88,6 +97,11 @@ index 51292b786a6d55f05185db013695391c847278ed..1ea11534b7e08a507ea61d69c6c0b3e8
      },
      {
        invariantKind: "departure",
+-      statement: "Notifications stand in the order they were pushed, oldest first.",
++      statement: "Notifications sit in the order they were pushed, oldest first.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/alan/harness/notifications/apns-sending/apns-sending.module.code.ts b/alan/harness/notifications/apns-sending/apns-sending.module.code.ts
 index e4e03f8b10002166fa4016dc54dd5f3255db1a2d..00939307ac7963870c44c178c8bbfcd888e2cfcc 100644
 --- a/alan/harness/notifications/apns-sending/apns-sending.module.code.ts
@@ -102,15 +116,21 @@ index e4e03f8b10002166fa4016dc54dd5f3255db1a2d..00939307ac7963870c44c178c8bbfcd8
    }
    return { sender: apnsSender(pem), why: null }
 diff --git a/alan/harness/notifications/push-notifying/push-notifying.module.ts b/alan/harness/notifications/push-notifying/push-notifying.module.ts
-index cd727f340c2458c2bccc40103e3b00db20d3ac90..3b2850442ae24a7f9995b91f207138ec6b7267e5 100644
+index cd727f340c2458c2bccc40103e3b00db20d3ac90..15a19143d094b6bbded309e9087ef24181cc5bb1 100644
 --- a/alan/harness/notifications/push-notifying/push-notifying.module.ts
 +++ b/alan/harness/notifications/push-notifying/push-notifying.module.ts
-@@ -18,7 +18,7 @@ export const pushNotifying = {
+@@ -18,12 +18,12 @@ export const pushNotifying = {
      {
        invariantKind: "departure",
        statement:
 -        "A notification stands as a row in the feed of the person it was pushed at, so the feed is what is watched.",
 +        "A notification is a row in the feed of the person it was pushed at, so the feed is what is watched.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "The first tick after a start begins at the newest row already standing, so a start is no flood.",
++        "The first tick after a start begins at the newest row already there, so a start is no flood.",
      },
      {
        invariantKind: "departure",
