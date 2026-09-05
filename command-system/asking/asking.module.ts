@@ -55,6 +55,18 @@ export const asking = {
     },
     {
       invariantKind: "departure",
+      statement: "That refusal names what puts a subagent's page up and what to run to put one up.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal names the log where a refusal to put that page up was said.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What the refusal names is filled in from the agent id as far as that id says.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body drafted is recorded as read by nobody.",
     },
     {

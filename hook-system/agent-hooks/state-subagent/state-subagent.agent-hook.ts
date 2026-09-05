@@ -43,6 +43,18 @@ export const stateSubagent = {
     },
     {
       invariantKind: "departure",
+      statement: "The seat's id reaches the take-down as the seat's id reaches the put-up.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing refused after this hook stepped aside leaves its reason in a log.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Nothing reads that log to put up a page the refusal left unwritten.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The landing left to finish here and the restore of a dirty akasha take one lock.",
     },
     {

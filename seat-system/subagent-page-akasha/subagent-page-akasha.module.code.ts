@@ -26,6 +26,10 @@ export async function removeAkashaSubagentPagesOf(
 ): Promise<Outcome> {
   const root = rootFor(roots, AKASHA)
   if (pathsUnder(root, seatName).length === 0) return { kind: "unchanged" }
-  if (await tookUnder(root, seatName, why)) return { kind: "removed" }
-  return { kind: "refused", detail: `the subagent pages under ${seatName} did not go` }
+  const gone = await tookUnder(root, seatName, why)
+  if (!("why" in gone)) return { kind: "removed" }
+  return {
+    kind: "refused",
+    detail: `the subagent pages under ${seatName} did not go — ${gone.why}`,
+  }
 }

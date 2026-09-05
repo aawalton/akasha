@@ -25,6 +25,7 @@ export const SCOPE: readonly string[] = [
   "  the page states the seat that ran the subagent and the kind it was dispatched as",
   "  the page states the agent id the subagent acts under, which is its seat's id and its own",
   "  the landing is asked for and left to finish, because a hook is given five seconds",
+  "  what that landing says goes to a log in the seat's own folder, so a refusal there is kept",
   "",
   "WHERE THE RULE COMES FROM: what a seat's subagents are doing is read from what is there,",
   "a seat is stopped or restarted against that reading. Without a page put up and taken away,",
@@ -46,7 +47,7 @@ export const SCOPE: readonly string[] = [
   "",
   "NOT REACHED. Each measured against this hook, not supposed:",
   "  a subagent running when the page lands and gone before it does, whose page outlives it",
-  "  a landing refused after the hook stood aside, which is unreported because nothing is waiting",
+  "  a landing refused after the hook stood aside, which reaches that log and no reader of it",
   "  every event but the two named, at which this is not registered",
   "  the old store outside the akasha folder, which nothing here writes or reads",
   "",
@@ -102,7 +103,7 @@ export function stated(
   const act = asked.act
   if (act.act === "put") {
     puttingUp(root, asked.seatName, asked.seatId, act.own, act.dispatchedAs)
-  } else takingDown(root, asked.seatName, act.own)
+  } else takingDown(root, asked.seatName, asked.seatId, act.own)
   return asked
 }
 

@@ -6,4 +6,10 @@ export const subagentPageAkasha = {
   slug: "subagent-page-akasha",
   definition: "where a subagent's akasha page stands, and what it is called",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A sweep of the pages under a seat that was refused answers why they did not go.",
+    },
+  ],
 } as const satisfies Module

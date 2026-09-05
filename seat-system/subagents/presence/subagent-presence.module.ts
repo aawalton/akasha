@@ -46,6 +46,30 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
+      statement: "A call that wrote nothing answers why rather than answering that it did not.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The reason a landing refused is the reason that call answers with.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What the program left to finish says goes to a log named for this module.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That log is in the seat's own folder beside the seat's supervisor log.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seat whose folder holds that log is named by the id the call carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A log that will not open leaves the landing asked for and its output dropped.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page states the agent id the subagent acts under.",
     },
     {

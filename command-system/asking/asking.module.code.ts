@@ -32,7 +32,7 @@ import {
   lockingFor,
   sameBytes,
 } from "../manifest-locking/manifest-locking.module.code.ts"
-import type { Reading } from "../reading/reading.module.code.ts"
+import { type Reading, SUBAGENT_MARK } from "../reading/reading.module.code.ts"
 import type { Minted } from "../value-minting/value-minting.module.code.ts"
 import { mintingOnto } from "../value-minting/value-minting.module.code.ts"
 
@@ -271,6 +271,32 @@ async function reporting(
   }
 }
 
+const PRESENCE_AT = "seat-system/subagents/presence/subagent-presence.module.code.ts"
+
+const PRESENCE_LOG = "subagent-presence.log"
+
+const PUTTING_UP = "write"
+
+const NO_AGENT_PAGE =
+  "a patch is kept beside the page of the agent drafting it, and this call names no such page"
+
+const PUT_UP =
+  "A subagent's page is put up by the `state-subagent` hook at SubagentStart, which asks for that" +
+  " landing and does not wait on it, so a landing refused there leaves the subagent working with" +
+  ` no page. What that landing said is in \`${PRESENCE_LOG}\` under the seat's own folder.` +
+  " This puts the page up, run from a terminal rather than from an agent's shell, which refuses" +
+  " a program named inside the akasha folder:"
+
+export function puttingUpSaid(root: string, agentId: string | null): string {
+  const mark = agentId === null ? -1 : agentId.indexOf(SUBAGENT_MARK)
+  const held =
+    agentId === null || mark <= 0
+      ? "<the seat> <the id the subagent runs under> <the kind it was dispatched as> <the seat's id>"
+      : `<the seat> ${agentId.slice(mark + SUBAGENT_MARK.length)}` +
+        ` <the kind it was dispatched as> ${agentId.slice(0, mark)}`
+  return `bun ${join(root, PRESENCE_AT)} ${root} ${PUTTING_UP} ${held}`
+}
+
 async function draftingAsked(
   given: Given,
   asked: Asked,
@@ -281,9 +307,8 @@ async function draftingAsked(
 ): Promise<Answer> {
   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
   if (page === null) {
-    return mistaking([
-      "a patch is kept beside the page of the agent drafting it, and this call names no such page",
-    ])
+    const said = `${NO_AGENT_PAGE}. ${PUT_UP}\n  ${puttingUpSaid(given.root, given.agentId)}`
+    return mistaking([said])
   }
   let said: Drafted | Refused
   try {
