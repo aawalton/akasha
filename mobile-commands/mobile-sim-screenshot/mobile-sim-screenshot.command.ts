@@ -31,7 +31,7 @@ export const mobileSimScreenshot = {
     },
     {
       invariantKind: "departure",
-      statement: "A call naming no path names one for the moment it was called at.",
+      statement: "A call naming no path names one for the moment that call was called at.",
     },
     {
       invariantKind: "absence",
