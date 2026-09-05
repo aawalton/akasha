@@ -35,7 +35,7 @@ export const role = {
     {
       invariantKind: "upkeep",
       statement:
-        "Every figure an agent holds as true was taken after the last change to what the figure measures.",
+        "Every figure an agent holds as true was taken after the last change to the figure's subject.",
     },
   ],
   directives: [
