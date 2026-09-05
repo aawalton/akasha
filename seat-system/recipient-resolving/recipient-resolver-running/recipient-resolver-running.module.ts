@@ -31,8 +31,7 @@ export const recipientResolverRunning = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What the recipient resolver is configured with is stated when that resolver starts.",
+      statement: "The recipient resolver's configuration is stated when that resolver starts.",
     },
     {
       invariantKind: "departure",
