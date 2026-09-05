@@ -1,9 +1,14 @@
-import { getPage } from "@akasha/pages-access/get"
+import { getPage, getPages } from "@akasha/pages-access/get"
 import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
 import type { BackpackSettings } from "@akasha/temper-items-core/backpack-settings-types"
 import { DEFAULT_BACKPACK_SETTINGS } from "@akasha/temper-items-core/backpack-settings-types"
 import { compileRules } from "@akasha/temper-items-rules-core/inventory-rule-compiler"
 import { buildAllControlledRules } from "@akasha/temper-items-rules-core/inventory-rule-controlled"
+import type { HeldRule } from "@akasha/temper-items-rules-core/inventory-rule-from-pages"
+import {
+  heldFromRows,
+  rulesFromPages,
+} from "@akasha/temper-items-rules-core/inventory-rule-from-pages"
 import { rulesToInventoryConfig } from "@akasha/temper-items-rules-core/inventory-rule-mapping"
 import type { InventoryTimestamps } from "@akasha/temper-items-rules-core/inventory-settings-types"
 import { ruleFingerprint } from "@akasha/temper-items-rules-core/rule-fingerprint"
@@ -48,6 +53,10 @@ const TEMPER_INVENTORY_SIBLINGS = ["db", "version"] as const
 
 const TEMPER_PLAYER_PAGE_TYPE_SLUG = "temper-player"
 
+const TEMPER_INVENTORY_RULE_PAGE_TYPE_SLUG = "temper-inventory-rule"
+
+const RULES_AT_MOST = 500
+
 const INVENTORY_TYPE = "inventory"
 const AUTOMATION_TYPE = "automation"
 const LOGGING_TYPE = "logging"
@@ -72,6 +81,7 @@ export interface ExportSettingsSeams {
     userId: string,
     types: readonly string[]
   ) => Promise<Record<string, unknown>>
+  readonly readPlayerRules: (userId: string) => Promise<readonly HeldRule[]>
   readonly pricingTables: (say: Say) => Promise<PricingTables>
   readonly writeSideFile: (path: string, content: string) => string
 }
@@ -110,9 +120,19 @@ async function readSettings(
   return held
 }
 
+async function readRules(userId: string): Promise<readonly HeldRule[]> {
+  const { rows } = await getPages({
+    pageTypeSlug: TEMPER_INVENTORY_RULE_PAGE_TYPE_SLUG,
+    where: [{ key: "accountPage", eq: userId }],
+    limit: RULES_AT_MOST,
+  })
+  return heldFromRows(rows as unknown as readonly Record<string, unknown>[])
+}
+
 const WATCHER_SEAMS: ExportSettingsSeams = {
   say: log,
   readPlayerSettings: readSettings,
+  readPlayerRules: readRules,
   pricingTables: computePricingTables,
   writeSideFile: writeSideFileIfChanged,
 }
@@ -158,10 +178,15 @@ type InventoryValues = Pick<SideFileValues, "sell" | "sellTimestamps" | "sellCom
 async function compileInventoryValues(
   userId: string,
   inventoryValue: unknown,
+  heldRules: readonly HeldRule[],
   automationSettings: AutomationSettings | undefined,
   say: Say
 ): Promise<InventoryValues> {
-  const ruleSettings = withControlledRules(toRuleSettings(inventoryValue), automationSettings)
+  const saved = toRuleSettings(inventoryValue)
+  const ruleSettings = withControlledRules(
+    { ...saved, rules: rulesFromPages(heldRules) },
+    automationSettings
+  )
 
   const [wantedEquipment, wantedCompanionEquipment] = await Promise.all([
     compileWantedEquipment(userId, automationSettings),
@@ -235,22 +260,26 @@ export async function runExportSettings(
   const say = seams.say
   const userId = await userIdFor(supabase, options.userId, "export these settings")
 
-  const settingsByType = await seams.readPlayerSettings(userId, ALL_SETTING_TYPES)
+  const [settingsByType, heldRules] = await Promise.all([
+    seams.readPlayerSettings(userId, ALL_SETTING_TYPES),
+    seams.readPlayerRules(userId),
+  ])
   const named = Object.keys(settingsByType)
-  if (named.length === 0) {
+  if (named.length === 0 && heldRules.length === 0) {
     say(NOTHING_TO_EXPORT)
     return { content, modified: false, inventoryConfigSideFileHash: null }
   }
-  say(`settings to export: ${named.join(", ")}`)
+  if (named.length > 0) say(`settings to export: ${named.join(", ")}`)
+  say(`rules to export: ${heldRules.length}`)
 
   const automationValue = settingsByType[AUTOMATION_TYPE]
   const automationSettings = isAutomationSettings(automationValue) ? automationValue : undefined
 
   const inventoryValue = settingsByType[INVENTORY_TYPE]
   const inventoryValues: InventoryValues =
-    inventoryValue === undefined
+    inventoryValue === undefined && heldRules.length === 0
       ? {}
-      : await compileInventoryValues(userId, inventoryValue, automationSettings, say)
+      : await compileInventoryValues(userId, inventoryValue, heldRules, automationSettings, say)
 
   const { currencyRates, crownReplacementCosts } = await seams.pricingTables(say)
 

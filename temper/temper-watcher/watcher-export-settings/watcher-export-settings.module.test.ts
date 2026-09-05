@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import type { HeldRule } from "@akasha/temper-items-rules-core/inventory-rule-from-pages"
 import {
   type ExportSettingsSeams,
   runExportSettings,
@@ -86,7 +87,8 @@ interface Recorded {
 
 function seamsFor(
   settings: Record<string, unknown>,
-  recorded: Recorded
+  recorded: Recorded,
+  rules: readonly HeldRule[] = []
 ): { seams: ExportSettingsSeams } {
   return {
     seams: {
@@ -95,6 +97,7 @@ function seamsFor(
         return undefined
       },
       readPlayerSettings: async () => settings,
+      readPlayerRules: async () => rules,
       pricingTables: async () => ({ currencyRates: {}, crownReplacementCosts: {} }),
       writeSideFile: (path, content) => {
         recorded.written.push({ path, content })
@@ -240,4 +243,53 @@ test("an export with neither a named user nor a signed-in account is refused by 
   await expect(runExportSettings(BEFORE, refusing, {}, seams)).rejects.toThrow(
     "no signed-in user to export these settings (token expired)"
   )
+})
+
+const A_RULE: HeldRule = {
+  page: {
+    slug: "rule-gold-stock",
+    categoryId: "currency-gold",
+    displayOrder: 0,
+    action: "stock",
+    active: true,
+    updatedAt: "2026-05-04T16:04:31.132Z",
+  },
+}
+
+test("the rules exported are the ones the player's rule pages carry", async () => {
+  const recorded = recorder()
+  const { seams } = seamsFor(SETTINGS_WITHOUT_INVENTORY, recorded, [A_RULE])
+  const result = await runExportSettings(BEFORE, NO_CLIENT, { userId: "alan" }, seams)
+  expect(result.content).toContain("currency-gold")
+})
+
+test("a rule page reaches the export although the player set no inventory blob", async () => {
+  const recorded = recorder()
+  const { seams } = seamsFor({}, recorded, [A_RULE])
+  const result = await runExportSettings(BEFORE, NO_CLIENT, { userId: "alan" }, seams)
+  expect(recorded.said).not.toContain("No settings to export.")
+  expect(result.content).toContain("currency-gold")
+})
+
+test("the rules the settings blob still holds are passed over for the rule pages", async () => {
+  const recorded = recorder()
+  const blobbed = {
+    ...SETTINGS_WITHOUT_INVENTORY,
+    inventory: {
+      version: 2,
+      rules: [
+        {
+          id: "blobbed",
+          categoryId: "currency-alliance-points",
+          action: "sell",
+          active: true,
+          displayOrder: 0,
+        },
+      ],
+    },
+  }
+  const { seams } = seamsFor(blobbed, recorded, [A_RULE])
+  const result = await runExportSettings(BEFORE, NO_CLIENT, { userId: "alan" }, seams)
+  expect(result.content).not.toContain("currency-alliance-points")
+  expect(result.content).toContain("currency-gold")
 })
