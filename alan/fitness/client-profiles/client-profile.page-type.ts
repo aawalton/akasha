@@ -23,7 +23,8 @@ export const clientProfile = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "One client profile page exists, and a second leaves neither of them holding.",
+      statement:
+        "One client profile page exists, and a second leaves neither of those two pages holding.",
     },
     {
       invariantKind: "gap",
