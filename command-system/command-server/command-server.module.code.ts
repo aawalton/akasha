@@ -1,5 +1,4 @@
 import { writeSync } from "node:fs"
-import { join } from "node:path"
 import { sayAnswer } from "../answer-bytes/answer-bytes.module.code.ts"
 import {
   COMMANDS_SERVED,
@@ -31,15 +30,20 @@ Commands: ${COMMANDS_SERVED.join(", ")}
   --help  This.
 `
 
-const COMMANDS_AT = "commands"
-
+/**
+ * The file a command's page names, for the `argv[1]` a command loaded here reads.
+ *
+ * Answered from the index rather than assembled out of the command's name, so a command that moves
+ * is followed without this file being touched. A command the index cannot answer for is named by
+ * its own name rather than by a path that is nowhere.
+ */
 async function commandFile(command: string): Promise<string> {
-  const at = join(COMMANDS_AT, command, `${command}.command.code.ts`)
   try {
     const { akashaRoot } = await import("@akasha/pages-system/checkout-roots")
-    return join(akashaRoot(), at)
+    const { commandFileIn } = await import("../calling/calling.module.code.ts")
+    return commandFileIn(akashaRoot(), command) ?? command
   } catch {
-    return at
+    return command
   }
 }
 

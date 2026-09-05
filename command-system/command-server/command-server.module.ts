@@ -174,7 +174,11 @@ export const commandServer = {
     },
     {
       invariantKind: "departure",
-      statement: "That path is read from the commands folder rather than assembled from `tools`.",
+      statement: "That path is answered from the index rather than assembled from a name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command the index cannot answer for is given its own name as `argv[1]`.",
     },
     {
       invariantKind: "departure",
