@@ -1,0 +1,28 @@
+diff --git a/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh b/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh
+index 291b8d87737a3749f25329fc60e54b795ec44d9c..78553420d50382f202e4e54b81bbf80088baf20d 100644
+--- a/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh
++++ b/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh
+@@ -143,7 +143,7 @@ export PATH="$BUN_INSTALL/bin:$PATH"
+ # the generator it replaced kept being evalled after its own imports had stopped resolving, and a
+ # generator that exits nonzero inside `$(...)` leaves the shell with no functions and says nothing.
+ # `_akasha_reload` probes this same spelling on every launch, so the two agree by construction.
+-eval "$("${AKASHA_ROOT:-$HOME/repos/akasha}/dotfiles/bin/akasha" shell-init-bash)"
++eval "$("${AKASHA_ROOT:-$HOME/repos/akasha}/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh" shell-init-bash)"
+ export DISABLE_COST_WARNINGS=1
+ 
+ 
+diff --git a/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.test.ts b/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.test.ts
+index dc3676cfd96dcd8b6e082008b77aee93ac971229..af4f3563070b8bea0e812ad5c9831df66cc17051 100644
+--- a/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.test.ts
++++ b/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.test.ts
+@@ -40,7 +40,9 @@ describe("what a seat comes up under", () => {
+ 
+ describe("the commands a terminal reaches", () => {
+   test("name akasha through the one file on the path", () => {
+-    expect(AKASHA).toBe('"${AKASHA_ROOT:-$HOME/repos/akasha}/dotfiles/bin/akasha"')
++    expect(AKASHA).toBe(
++      '"${AKASHA_ROOT:-$HOME/repos/akasha}/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh"'
++    )
+   })
+ 
+   test("name the resume module a terminal runs to put a seat back on its session", () => {
