@@ -13,7 +13,8 @@ export const inferenceRunStore = {
     },
     {
       invariantKind: "departure",
-      statement: "An audio operation records what it made as audio and every other as an image.",
+      statement:
+        "An audio operation records what that operation made as audio and every other as an image.",
     },
     {
       invariantKind: "departure",
