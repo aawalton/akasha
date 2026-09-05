@@ -41,11 +41,11 @@ export const relationshipDeposit = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A deposit names the relationship it went into rather than a person.",
+      statement: "A deposit names the relationship that deposit went into rather than a person.",
     },
     {
       invariantKind: "departure",
-      statement: "A deposit names the value it served.",
+      statement: "A deposit names the value that deposit served.",
     },
   ],
 } as const satisfies PageType
