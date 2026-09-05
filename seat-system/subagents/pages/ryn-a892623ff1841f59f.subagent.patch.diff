@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/context/modules/warranting/warranting.module.ts b/context/modules/warranting/warranting.module.ts
-index b85145f9f5e9b17a79cb88ee27dafac1a5269bae..16386c08e94fce9c285972f86c7e42d99cac1178 100644
+index b85145f9f5e9b17a79cb88ee27dafac1a5269bae..8ea9e08ca7c34f82cc62f79a4525ddf25bf7dc3b 100644
 --- a/context/modules/warranting/warranting.module.ts
 +++ b/context/modules/warranting/warranting.module.ts
 @@ -11,7 +11,7 @@ export const warranting = {
@@ -18,6 +18,15 @@ index b85145f9f5e9b17a79cb88ee27dafac1a5269bae..16386c08e94fce9c285972f86c7e42d9
        invariantKind: "departure",
 -      statement: "A refusal says what is owed rather than only that something is.",
 +      statement: "A refusal names the reading owed rather than only saying something is owed.",
+     },
+     {
+       invariantKind: "departure",
+@@ -74,7 +74,7 @@ export const warranting = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A warrant is what the change owes rather than what changing a warranted file would owe.",
++        "A warrant is the reading a change owes rather than the reading changing a warranted file would owe.",
      },
      {
        invariantKind: "departure",
