@@ -1,5 +1,5 @@
 diff --git a/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts b/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts
-index c0316ff98eb29c5838fd022bbdd416251c7f3651..cdc1b85df3bb34baea4f03a8f167747049095784 100644
+index c0316ff98eb29c5838fd022bbdd416251c7f3651..8f528be4d7c55fdf296edd8214eb0347cc2729d2 100644
 --- a/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts
 +++ b/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts
 @@ -29,7 +29,7 @@ export const royalRoadSyncing = {
@@ -29,7 +29,7 @@ index c0316ff98eb29c5838fd022bbdd416251c7f3651..cdc1b85df3bb34baea4f03a8f1677470
      },
      {
        invariantKind: "departure",
-@@ -67,12 +67,12 @@ export const royalRoadSyncing = {
+@@ -67,17 +67,17 @@ export const royalRoadSyncing = {
      {
        invariantKind: "departure",
        statement:
@@ -41,6 +41,12 @@ index c0316ff98eb29c5838fd022bbdd416251c7f3651..cdc1b85df3bb34baea4f03a8f1677470
        statement:
 -        "Pages land fifty at a time, each fifty its own commit, every page with the files beside it.",
 +        "Pages land fifty at a time, each fifty its own commit, every page with the files beside that page.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A chapter refused for holding no prose is named by the page read and by which refusal it hit.",
++        "A chapter refused for holding no prose is named by the page read and the refusal that chapter hit.",
      },
      {
        invariantKind: "departure",
