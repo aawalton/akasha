@@ -32,7 +32,7 @@ export const mobileSimEval = {
     },
     {
       invariantKind: "departure",
-      statement: "What a script returns is answered as JSON.",
+      statement: "The value a script returns is answered as JSON.",
     },
     {
       invariantKind: "departure",
