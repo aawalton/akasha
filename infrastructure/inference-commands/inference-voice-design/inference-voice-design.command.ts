@@ -28,7 +28,6 @@ export const inferenceVoiceDesign = {
     "the language is sent to the backend that takes one, and the other takes accent and language inside the description.",
     "the text is not cut into pieces, so a few sentences is what this is for.",
     "the sampling the server is asked for is fixed here and recorded on the run row.",
-    "a run row is filed whether the speaking finished or failed.",
   ],
   invariants: [
     {
