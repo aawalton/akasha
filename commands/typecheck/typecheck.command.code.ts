@@ -119,7 +119,7 @@ function seededOf(files: readonly string[], found: ReadonlyMap<string, number>):
   return { report, refusals, code: refusals.length === 0 ? 0 : 3 }
 }
 
-export function typecheck(argv: readonly string[], given: Given): Answer {
+export async function typecheck(argv: readonly string[], given: Given): Promise<Answer> {
   const meant = meaning(argv)
   if (meant.refusal !== null) return { report: [], refusals: [meant.refusal], code: 1 }
   const root = resolve(given.root)
@@ -149,7 +149,7 @@ export function typecheck(argv: readonly string[], given: Given): Answer {
   try {
     const shadow = shadowAsked(change)
     roots = rootsOf(change, shadow.index)
-    found = foundIn(change, shadow)
+    found = await foundIn(change, shadow)
   } catch (thrown) {
     return { report: [], refusals: [`nothing was judged — ${whyOf(thrown)}`], code: 3 }
   }

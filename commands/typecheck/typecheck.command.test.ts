@@ -40,23 +40,23 @@ check("the seeded flag is read wherever it sits among the paths", () => {
   expect(said.paths).toEqual(["akasha/one.ts"])
 })
 
-check("a path outside the repository is refused, and nothing is judged", () => {
+check("a path outside the repository is refused, and nothing is judged", async () => {
   const root = staged({ "akasha/one.ts": CLEAN })
-  const said = typecheck(["--file-path", "../one.ts"], given(root))
+  const said = await typecheck(["--file-path", "../one.ts"], given(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("outside the repository")
 })
 
-check("a file the folder does not compile is refused rather than read clean", () => {
+check("a file the folder does not compile is refused rather than read clean", async () => {
   const root = staged({ "akasha/one.ts": CLEAN, "akasha/held.md": "held\n" })
-  const said = typecheck(["--file-path", "akasha/held.md"], given(root))
+  const said = await typecheck(["--file-path", "akasha/held.md"], given(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("no file the folder compiles")
 })
 
-check("a file that compiles answers 0, and says what was judged and what was not", () => {
+check("a file that compiles answers 0, and says what was judged and what was not", async () => {
   const root = staged({ "akasha/one.ts": CLEAN })
-  const said = typecheck(["--file-path", "akasha/one.ts"], given(root))
+  const said = await typecheck(["--file-path", "akasha/one.ts"], given(root))
   expect(said.code).toBe(0)
   expect(said.refusals).toEqual([])
   expect(said.report[0]).toBe(
@@ -65,36 +65,39 @@ check("a file that compiles answers 0, and says what was judged and what was not
   expect(said.report[1]).toBe(NOT_THE_FOLDER)
 })
 
-check("a file whose type does not hold is refused as an audit says it, naming the line", () => {
-  const root = staged({ "akasha/one.ts": WRONG })
-  const said = typecheck(["--file-path", "akasha/one.ts"], given(root))
-  expect(said.code).toBe(2)
-  expect(said.report[0]).toContain("1 refusal in all")
-  expect(said.refusals).toHaveLength(1)
-  expect(said.refusals[0]).toStartWith("akasha/one.ts — line 1: TS2322: ")
-  expect(said.refusals[0]).not.toContain(REACHED)
-})
+check(
+  "a file whose type does not hold is refused as an audit says it, naming the line",
+  async () => {
+    const root = staged({ "akasha/one.ts": WRONG })
+    const said = await typecheck(["--file-path", "akasha/one.ts"], given(root))
+    expect(said.code).toBe(2)
+    expect(said.report[0]).toContain("1 refusal in all")
+    expect(said.refusals).toHaveLength(1)
+    expect(said.refusals[0]).toStartWith("akasha/one.ts — line 1: TS2322: ")
+    expect(said.refusals[0]).not.toContain(REACHED)
+  }
+)
 
-check("a file importing a file named is judged too, and marked as reached", () => {
+check("a file importing a file named is judged too, and marked as reached", async () => {
   const root = staged({ "akasha/one.ts": CLEAN, "akasha/two.ts": IMPORTING })
-  const said = typecheck(["--file-path", "akasha/one.ts"], given(root))
+  const said = await typecheck(["--file-path", "akasha/one.ts"], given(root))
   expect(said.code).toBe(2)
   expect(said.report[0]).toContain("2 files, the 1 file named and 1 file importing them")
   expect(said.refusals[0]).toStartWith("akasha/two.ts — line 3: TS2322: ")
   expect(said.refusals[0]).toEndWith(` — ${REACHED}`)
 })
 
-check("a folder named is the compiled files under it", () => {
+check("a folder named is the compiled files under it", async () => {
   const root = staged({ "akasha/held/one.ts": CLEAN, "akasha/held/two.ts": WRONG })
   expect(filesUnder(root, ["akasha/held"])).toEqual(["akasha/held/one.ts", "akasha/held/two.ts"])
-  const said = typecheck(["--file-path", "akasha/held"], given(root))
+  const said = await typecheck(["--file-path", "akasha/held"], given(root))
   expect(said.code).toBe(2)
   expect(said.refusals[0]).toStartWith("akasha/held/two.ts — line 1: TS2322: ")
 })
 
-check("a seeded run draws a diagnostic from a clean file, and writes nothing", () => {
+check("a seeded run draws a diagnostic from a clean file, and writes nothing", async () => {
   const root = staged({ "akasha/one.ts": CLEAN })
-  const said = typecheck(["--file-path", "akasha/one.ts", "--seeded"], given(root))
+  const said = await typecheck(["--file-path", "akasha/one.ts", "--seeded"], given(root))
   expect(said.code).toBe(0)
   expect(said.refusals).toEqual([])
   expect(said.report[0]).toBe("akasha/one.ts — seen: 1 diagnostic with a fault seeded into it")
@@ -102,8 +105,13 @@ check("a seeded run draws a diagnostic from a clean file, and writes nothing", (
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe(CLEAN)
 })
 
-check("a clean run over the same file is clean, so the seeded diagnostic was the seed", () => {
-  const root = staged({ "akasha/one.ts": CLEAN })
-  expect(typecheck(["--file-path", "akasha/one.ts", "--seeded"], given(root)).code).toBe(0)
-  expect(typecheck(["--file-path", "akasha/one.ts"], given(root)).code).toBe(0)
-})
+check(
+  "a clean run over the same file is clean, so the seeded diagnostic was the seed",
+  async () => {
+    const root = staged({ "akasha/one.ts": CLEAN })
+    expect((await typecheck(["--file-path", "akasha/one.ts", "--seeded"], given(root))).code).toBe(
+      0
+    )
+    expect((await typecheck(["--file-path", "akasha/one.ts"], given(root))).code).toBe(0)
+  }
+)

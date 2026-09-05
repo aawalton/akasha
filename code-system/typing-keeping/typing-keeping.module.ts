@@ -4,7 +4,7 @@ export const typingKeeping = {
   id: "01a06364-1679-7d55-a520-c4515ba15f89",
   pageTypeSlug: "module",
   slug: "typing-keeping",
-  definition: "what a typed program keeps between runs, and the version a body is known by",
+  definition: "the version a body is known by, and how a file a program writes lands",
   code: "ts",
   invariants: [
     {
@@ -17,19 +17,7 @@ export const typingKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "What a run keeps is named for the worktree the program was built over.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "What a run keeps is the one file the workspace page declares.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A name carrying how many roots a run had would collide across unlike programs.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "What a run keeps lands by rename.",
+      statement: "A file a program writes lands by rename.",
     },
     {
       invariantKind: "absence",

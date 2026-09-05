@@ -31,6 +31,10 @@ const WAITS = "waiting"
 
 export const EARLY = "uuid-v7"
 
+export const HERE = "/var/home/walton/repos/akasha"
+
+export const NAMING_NO_COMMIT = "names no commit"
+
 const KIND_AT = "akasha/waiting.generator-kind.ts"
 
 const EARLY_AT = "akasha/uuid-v7.generator-kind.ts"
@@ -38,6 +42,29 @@ const EARLY_AT = "akasha/uuid-v7.generator-kind.ts"
 const THING_TYPE =
   "export type Thing = { held: string; slug: string }\n" +
   `export const thing = { id: "${GENERATED_ID}", pageTypeSlug: "page-type", slug: "thing" }\n`
+
+export const THING_AT = "akasha/one.thing.ts"
+
+const READS_ITS_TYPE = 'import type { Thing } from "./thing.page-type.ts"\n\n'
+
+export const WHOLE = `${READS_ITS_TYPE}export const one = { held: "h", slug: "one" } as const satisfies Thing\n`
+
+export const WITHOUT = `${READS_ITS_TYPE}export const one = { slug: "one" } as const satisfies Thing\n`
+
+export const WRONG = `${READS_ITS_TYPE}export const one = { slug: 1 } as const satisfies Thing\n`
+
+export const MADE: Readonly<Record<string, string>> = {
+  "akasha/made/reader.ts": 'import { held } from "./held.ts"\n\nexport const reader = held\n',
+  "akasha/made/held.ts": "export const held = 1\n",
+}
+
+export const ONE_NUMBER = "export const one: number = 1\n"
+
+export const TWO_BREAKS = `${ONE_NUMBER}export const two: string = one\n`
+
+export const TAKES_NUMBER = "export function held(one: number): number {\n  return one\n}\n"
+
+export const CALLS_HELD = 'import { held } from "./held.ts"\nexport const one = held(1)\n'
 
 const PAGE_TYPE = "page-type"
 

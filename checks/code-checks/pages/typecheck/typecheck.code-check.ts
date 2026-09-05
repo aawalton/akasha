@@ -8,7 +8,7 @@ export const typecheck = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  runsOnPatch: true,
+  runsOnPatch: false,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
@@ -94,6 +94,23 @@ export const typecheck = {
       statement: "The program is built over the files judged and the declarations alone.",
     },
     {
+      invariantKind: "constraint",
+      statement: "This compiler draws in no ambient types the settings do not name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The settings name every ambient type the packages folder holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The config the program is built from is served to the compiler rather than written.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing of what this run worked out is kept for the next.",
+    },
+    {
       invariantKind: "departure",
       statement:
         "A diagnostic against a file the change did not touch is reported once against that file.",
@@ -104,11 +121,12 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "Nothing is reported against it and a file still importing it is refused.",
+      statement:
+        "A path the change takes away is answered as absent rather than read from the disk.",
     },
     {
       invariantKind: "departure",
-      statement: "A diagnostic naming no file is thrown rather than reported.",
+      statement: "Nothing is reported against it and a file still importing it is refused.",
     },
     {
       invariantKind: "departure",

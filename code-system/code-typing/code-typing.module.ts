@@ -140,30 +140,6 @@ export const codeTyping = {
       statement: "A body served to the program carries a version.",
     },
     {
-      invariantKind: "departure",
-      statement: "What the checker said of a body is kept between runs.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "What was kept is read back where the version of a body is unchanged.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "What was kept is dropped for every file a changed body reaches.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A program that keeps what the checker said is checked as the program is built.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A program built over some of the bodies keeps nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A program built to be read for names alone keeps nothing.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here writes inside the akasha folder.",
     },

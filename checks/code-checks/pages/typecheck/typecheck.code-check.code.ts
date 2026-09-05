@@ -1,14 +1,14 @@
-import { dirname, resolve } from "node:path"
+import { readdirSync } from "node:fs"
+import { dirname, join, resolve } from "node:path"
 import { textIn } from "@akasha/code-system/body-text"
-import { lineAt, parsedAs } from "@akasha/code-system/code-source"
+import { parsedAs } from "@akasha/code-system/code-source"
 import {
   compiled,
-  insideOf,
+  directoriesIn,
   linkedOf,
   manifested,
-  programKeptOver,
-  programOver,
   readingOf,
+  servedOf,
 } from "@akasha/code-system/code-typing"
 import { reachesIn } from "@akasha/code-system/package-manifest"
 import { rootRoute } from "@akasha/code-system/router-app/root-route"
@@ -20,10 +20,11 @@ import type { Change } from "@akasha/pages-system/change"
 import { pageNamed } from "@akasha/pages-system/page-file-name"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import ts from "typescript"
+import { API } from "typescript-7/unstable/async"
 import type { Body, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"
 import {
   FILES,
-  input,
+  inputAsync,
   textNamed,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
@@ -39,6 +40,24 @@ const ROUTER_APP = ".router-app.ts"
 const ROUTES = "routes/"
 
 const DECLARED = ".d.ts"
+
+const CONFIG_NAME = "tsconfig.typecheck.json"
+
+const TYPES_AT = "node_modules/@types"
+
+const FIRST_LINE = 1
+
+const SETTINGS = {
+  noEmit: true,
+  strict: true,
+  noUncheckedIndexedAccess: true,
+  allowImportingTsExtensions: true,
+  module: "preserve",
+  moduleResolution: "bundler",
+  target: "esnext",
+  skipLibCheck: true,
+  jsx: "react-jsx",
+} as const
 
 export type Found = {
   readonly path: string
@@ -96,15 +115,6 @@ export function rootsOf(change: Change, index: Answering): readonly string[] {
   return held.filter((one) => !routed(one, folders))
 }
 
-export function wholeIn(named: ReadonlySet<string>, change: Change, index: Answering): boolean {
-  const folders = routingIn(index)
-  for (const one of index.everyPath()) {
-    if (!compiled(one) || routed(one, folders) || named.has(one)) continue
-    if (change.after(one) !== null) return false
-  }
-  return true
-}
-
 export function declaringIn(change: Change, index: Answering): readonly string[] {
   const held = index.everyPath()
   return held.filter((one) => compiled(one) && one.endsWith(DECLARED) && change.after(one) !== null)
@@ -154,50 +164,105 @@ export function bodiesOf(change: Change, minting: Minting): (at: string) => stri
   }
 }
 
-export function foundOf(root: string, said: ts.Diagnostic): Found {
-  const text = ts.flattenDiagnosticMessageText(said.messageText, " ")
-  if (said.file === undefined || said.start === undefined) {
-    throw new Error(
-      `the compiler said \`TS${said.code}: ${text}\`, which names no file it could be kept against`
-    )
-  }
-  const line = lineAt(said.file, said.start)
-  const at = insideOf(root, resolve(said.file.fileName))
-  return {
-    path: at ?? said.file.fileName,
-    reason: `line ${line}: TS${said.code}: ${text}`,
+export function typesIn(root: string): readonly string[] {
+  try {
+    return readdirSync(join(root, TYPES_AT)).sort()
+  } catch {
+    return []
   }
 }
 
-export function foundIn(change: Change, shadow: Shadow): readonly Found[] {
+export function configOf(root: string, named: readonly string[]): string {
+  return JSON.stringify({ compilerOptions: { ...SETTINGS, types: typesIn(root) }, files: named })
+}
+
+export function servingOf(
+  root: string,
+  at: string,
+  config: string,
+  read: (path: string) => string | undefined
+): (name: string) => string | null | undefined {
+  return (name) => {
+    if (name === at) return config
+    if (servedOf(root, resolve(name)) === null) return undefined
+    const body = read(name)
+    return body === undefined ? null : body
+  }
+}
+
+export function existingOf(
+  served: (name: string) => string | null | undefined
+): (name: string) => boolean | undefined {
+  return (name) => {
+    const body = served(name)
+    return body === undefined ? undefined : body !== null
+  }
+}
+
+export function foldersIn(
+  root: string,
+  named: readonly string[]
+): (name: string) => boolean | undefined {
+  const held = directoriesIn(root, named)
+  return (name) => (held.has(resolve(name)) ? true : undefined)
+}
+
+type Diagnosed = {
+  readonly fileName?: string
+  readonly code: number
+  readonly text: string
+  readonly startPosition?: { readonly line: number }
+}
+
+export function foundOf(root: string, said: Diagnosed): Found {
+  const at = said.fileName === undefined ? null : servedOf(root, resolve(said.fileName))
+  const line = (said.startPosition?.line ?? 0) + FIRST_LINE
+  return {
+    path: at ?? said.fileName ?? "",
+    reason: `line ${line}: TS${said.code}: ${said.text}`,
+  }
+}
+
+export async function foundIn(change: Change, shadow: Shadow): Promise<readonly Found[]> {
   const roots = rootsOf(change, shadow.index)
   if (roots.length === 0) return []
   const root = resolve(change.root)
-  const keys = [...waitingKeys(shadow)]
-  const read = bodiesOf(change, mintingIn(change, keys, shadow.index))
   const named = [...new Set([...roots, ...declaringIn(change, shadow.index)])]
-  const whole = wholeIn(new Set(named), change, shadow.index)
-  const program = whole ? programKeptOver(root, named, read) : programOver(root, named, read)
-  const held = new Map<string, ts.SourceFile>()
-  for (const file of program.getSourceFiles()) {
-    const at = insideOf(root, resolve(file.fileName))
-    if (at !== null) held.set(at, file)
+  const read = bodiesOf(change, mintingIn(change, [...waitingKeys(shadow)], shadow.index))
+  const at = join(root, CONFIG_NAME)
+  const config = configOf(root, named)
+  const readFile = servingOf(root, at, config, read)
+  const api = new API({
+    cwd: root,
+    fs: {
+      readFile,
+      fileExists: existingOf(readFile),
+      directoryExists: foldersIn(root, named),
+    },
+  })
+  try {
+    const snapshot = await api.updateSnapshot({ openProjects: [at] })
+    const project = await snapshot.getProject(at)
+    if (project === undefined) throw new Error(`${CONFIG_NAME} named nothing a check could read`)
+    const found: Found[] = []
+    const program = await project.program
+    for (const one of roots) {
+      const file = join(root, one)
+      for (const said of await program.getSyntacticDiagnostics(file))
+        found.push(foundOf(root, said))
+      for (const said of await program.getSemanticDiagnostics(file)) found.push(foundOf(root, said))
+    }
+    return found
+  } finally {
+    await api.close()
   }
-  const found: Found[] = []
-  for (const one of roots) {
-    const file = held.get(one)
-    if (file === undefined) continue
-    const said = [...program.getSyntacticDiagnostics(file), ...program.getSemanticDiagnostics(file)]
-    for (const diagnostic of said) found.push(foundOf(root, diagnostic))
-  }
-  return found
 }
 
-function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
+async function refusalsIn(change: Change, shadow: Shadow): Promise<readonly Judged[]> {
   const changed = new Set(change.changed)
   const seen = new Set<string>()
   const said: Judged[] = []
-  for (const one of foundIn(change, shadow)) {
+  for (const one of await foundIn(change, shadow)) {
     const key = `${one.path}\n${one.reason}`
     if (seen.has(key)) continue
     seen.add(key)
@@ -207,4 +272,4 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   return said
 }
 
-export const typecheck = input(BUILT, refusalsIn)
+export const typecheck = inputAsync(BUILT, refusalsIn)
