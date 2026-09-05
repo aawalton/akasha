@@ -1,5 +1,5 @@
 diff --git a/agents/claude-accounts/modules/identity/claude-account-identity.module.ts b/agents/claude-accounts/modules/identity/claude-account-identity.module.ts
-index e013dccce9be2a417c90d18f17c8a75f0602c000..88c2017bbd2915f8581121c9f916cbc3948216a6 100644
+index e013dccce9be2a417c90d18f17c8a75f0602c000..8c3c25daf6b286e7dd953fa4e319be895a78d1d9 100644
 --- a/agents/claude-accounts/modules/identity/claude-account-identity.module.ts
 +++ b/agents/claude-accounts/modules/identity/claude-account-identity.module.ts
 @@ -40,7 +40,8 @@ export const claudeAccountIdentity = {
@@ -12,3 +12,12 @@ index e013dccce9be2a417c90d18f17c8a75f0602c000..88c2017bbd2915f8581121c9f916cbc3
      },
      {
        invariantKind: "departure",
+@@ -120,7 +121,7 @@ export const claudeAccountIdentity = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "A pin that clears the previous account's readings and then fails leaves them cleared.",
++        "A pin that clears the previous account's readings and then fails leaves those readings cleared.",
+     },
+     {
+       invariantKind: "gap",
