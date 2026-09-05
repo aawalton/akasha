@@ -1,0 +1,13 @@
+diff --git a/collection-system/royal-road-accounts/royal-road-account.page-type.ts b/collection-system/royal-road-accounts/royal-road-account.page-type.ts
+index 8b8b6ee9c7a472b0664bbb6aae37fc2ffb2fe07e..4c87838fa8a3f7faae9440d372718ac9d61c488c 100644
+--- a/collection-system/royal-road-accounts/royal-road-account.page-type.ts
++++ b/collection-system/royal-road-accounts/royal-road-account.page-type.ts
+@@ -23,7 +23,7 @@ export const royalRoadAccount = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "An account is the sign-in rather than any story reached through it.",
++      statement: "An account is the sign-in rather than any story reached through that account.",
+     },
+     {
+       invariantKind: "departure",
