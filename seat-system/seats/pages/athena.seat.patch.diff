@@ -1,0 +1,16 @@
+diff --git a/seat-system/seat-revive-verify-signal/seat-revive-verify-signal.module.code.ts b/seat-system/seat-revive-verify-signal/seat-revive-verify-signal.module.code.ts
+index 3532afe41f44b0a40c5373cd44276920055f50b7..2f4a46e264c83dac574c80fbc4799768a2e416cf 100644
+--- a/seat-system/seat-revive-verify-signal/seat-revive-verify-signal.module.code.ts
++++ b/seat-system/seat-revive-verify-signal/seat-revive-verify-signal.module.code.ts
+@@ -1,11 +1 @@
+ export type ReviveVerifySignal = "revived" | "unverified" | "failed" | "benign"
+-
+-const REVIVED_EXIT = 0
+-
+-const UNVERIFIED_EXIT = 3
+-
+-export function classifyReviveVerifyExit(exitCode: number): ReviveVerifySignal {
+-  if (exitCode === REVIVED_EXIT) return "revived"
+-  if (exitCode === UNVERIFIED_EXIT) return "unverified"
+-  return "failed"
+-}
