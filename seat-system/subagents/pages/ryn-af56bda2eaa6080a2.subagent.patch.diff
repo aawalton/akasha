@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/types/properties/frame-focus-mode.boolean-property.ts b/pages/types/properties/frame-focus-mode.boolean-property.ts
+index 3cd3ae305b51e7be0d617d513c7136de853b3d5f..5802bfe28c9c384d1880b30c90b5afd254f9972a 100644
+--- a/pages/types/properties/frame-focus-mode.boolean-property.ts
++++ b/pages/types/properties/frame-focus-mode.boolean-property.ts
+@@ -11,7 +11,7 @@ export const frameFocusMode = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What is put away comes back the moment the reader asks for it.",
++      statement: "What is put away comes back the moment the reader asks for what is put away.",
+     },
+   ],
+ } as const satisfies BooleanProperty
