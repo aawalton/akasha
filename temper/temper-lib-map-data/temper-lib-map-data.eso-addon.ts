@@ -50,7 +50,7 @@ export const temperLibMapData = {
     },
     {
       invariantKind: "constraint",
-      statement: "The zone rows are what upstream LibMapData v1.21 states.",
+      statement: "The zone rows are the rows upstream LibMapData v1.21 states.",
     },
     {
       invariantKind: "constraint",
