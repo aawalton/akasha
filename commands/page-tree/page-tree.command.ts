@@ -31,7 +31,7 @@ export const pageTree = {
     },
     {
       invariantKind: "departure",
-      statement: "The three groups are handed back and whoever asked assembles the tree.",
+      statement: "The three groups are handed back and the caller assembles the tree.",
     },
     {
       invariantKind: "departure",
