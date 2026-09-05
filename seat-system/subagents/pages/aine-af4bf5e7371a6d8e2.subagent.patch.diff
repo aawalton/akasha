@@ -1,0 +1,117 @@
+diff --git a/context/context.workspace-package.ts b/context/context.workspace-package.ts
+index 937fe3a4ea7b1a4f303b877dc41f7b1571357232..cfe70d0631ffb8ccd874a49a0b20069076fade0b 100644
+--- a/context/context.workspace-package.ts
++++ b/context/context.workspace-package.ts
+@@ -10,7 +10,7 @@ export const context = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A warrant stands over the seat changing a file rather than over one reading it.",
++      statement: "A warrant applies to the seat changing a file rather than to one reading it.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/context/modules/warranting/warranting.module.ts b/context/modules/warranting/warranting.module.ts
+index 414a7e194ce1dc3e5f94df1ae7d8eb480eb00cab..36c225693ea9d48a60ef1bda174ceaebe6e08844 100644
+--- a/context/modules/warranting/warranting.module.ts
++++ b/context/modules/warranting/warranting.module.ts
+@@ -53,7 +53,7 @@ export const warranting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Warrants stand over an authored change alone.",
++      statement: "Warrants apply to an authored change alone.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts
+index cde895b4482e043b05e7e47fbc11e1cbdaa41126..3e074746a029aa52e97875c52a25d1f64a2d7c50 100644
+--- a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts
++++ b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts
+@@ -51,7 +51,7 @@ export const changeTabooTerms = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Text a change leaves standing is not text the change adds.",
++      statement: "Text a change leaves unchanged is not text the change adds.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/context/warrants/domain-ancestors/domain-ancestors.context-warrant.ts b/context/warrants/domain-ancestors/domain-ancestors.context-warrant.ts
+index 08f4358705394b20af57a7392c2545e2169b5d72..a4357a08ff3e9bdb4bf5f3fd476ecf3f89b1052a 100644
+--- a/context/warrants/domain-ancestors/domain-ancestors.context-warrant.ts
++++ b/context/warrants/domain-ancestors/domain-ancestors.context-warrant.ts
+@@ -33,7 +33,7 @@ export const domainAncestors = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A seat stating a domain nothing stands above warrants no domain.",
++      statement: "A seat stating a domain with nothing above it warrants no domain.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/context/warrants/file-import/file-import.context-warrant.ts b/context/warrants/file-import/file-import.context-warrant.ts
+index 4e68efe51e969da647cd006760cc3578b08875dc..5dc1e6a5d6c9a04ac57a046c60b60b64a06b0c09 100644
+--- a/context/warrants/file-import/file-import.context-warrant.ts
++++ b/context/warrants/file-import/file-import.context-warrant.ts
+@@ -26,7 +26,7 @@ export const fileImport = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file that does not stand imports nothing.",
++      statement: "A file that does not exist imports nothing.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/context/warrants/file-itself/file-itself.context-warrant.ts b/context/warrants/file-itself/file-itself.context-warrant.ts
+index 972280addb4d4036b13115fd1efb807915e5560f..177496e9e3fa00ad56c1bfdb4a4807b442bfd1d6 100644
+--- a/context/warrants/file-itself/file-itself.context-warrant.ts
++++ b/context/warrants/file-itself/file-itself.context-warrant.ts
+@@ -17,7 +17,7 @@ export const fileItself = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file not yet standing warrants nothing of itself.",
++      statement: "A file that does not yet exist warrants nothing of itself.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/context/warrants/file-page-type/file-page-type.context-warrant.ts b/context/warrants/file-page-type/file-page-type.context-warrant.ts
+index d4aba6e4657ccca0c45fe17e8b13776feb930f24..e8871f05b4ae54225c50bda79ae4d00a258caa17 100644
+--- a/context/warrants/file-page-type/file-page-type.context-warrant.ts
++++ b/context/warrants/file-page-type/file-page-type.context-warrant.ts
+@@ -26,7 +26,7 @@ export const filePageType = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A file standing beside a page by a file property is no page and warrants no type of its own.",
++        "A file sitting beside a page by a file property is no page and warrants no type of its own.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.ts b/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.ts
+index 44542507c666361e7025968a7f74a30d7a8d84a0..0694c3b6186d6fe11c2cfc1ac38c771699723071 100644
+--- a/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.ts
++++ b/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.ts
+@@ -13,7 +13,7 @@ export const initiativeAncestors = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A seat warrants every initiative the one it states stands under.",
++      statement: "A seat warrants every initiative the one it states is under.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/context/warrants/role-page-type/role-page-type.context-warrant.ts b/context/warrants/role-page-type/role-page-type.context-warrant.ts
+index 859994afac341a3436a6eb29621930ff55f12c82..d299877ac583de86b365a0b27a1a7cb23bb75235 100644
+--- a/context/warrants/role-page-type/role-page-type.context-warrant.ts
++++ b/context/warrants/role-page-type/role-page-type.context-warrant.ts
+@@ -21,7 +21,7 @@ export const rolePageType = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What every role is held to stands on the type rather than on any one role.",
++      statement: "What every role is held to is on the type rather than on any one role.",
+     },
+     {
+       invariantKind: "departure",
