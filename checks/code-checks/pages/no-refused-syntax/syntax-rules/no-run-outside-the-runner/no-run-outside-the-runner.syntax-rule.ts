@@ -10,10 +10,6 @@ export const noRunOutsideTheRunner = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A call is found in the parse and never in the text.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A name is refused only where the name was taken from node's child process.",
     },
     {

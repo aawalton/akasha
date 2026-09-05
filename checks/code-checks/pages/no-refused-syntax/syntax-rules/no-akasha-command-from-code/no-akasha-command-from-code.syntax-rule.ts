@@ -10,10 +10,6 @@ export const noAkashaCommandFromCode = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A call is found in the parse and never in the text.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "The dispatcher's path is refused wherever that path sits among a launching call's arguments.",
     },

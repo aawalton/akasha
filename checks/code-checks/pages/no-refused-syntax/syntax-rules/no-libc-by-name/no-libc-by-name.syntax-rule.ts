@@ -17,10 +17,7 @@ export const noLibcByName = {
       invariantKind: "departure",
       statement: "`libc.so.6` names no library of any kind where musl runs.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A call is found in the parse and never in the text.",
-    },
+
     {
       invariantKind: "departure",
       statement: "`dlopen` reached through an object is refused as a bare one is.",
