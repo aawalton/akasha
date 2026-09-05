@@ -1,0 +1,14 @@
+diff --git a/story/chapters-played/story-chapter-played.page-type.ts b/story/chapters-played/story-chapter-played.page-type.ts
+index 3105765de04f6d660afdd61276afb567148bd6f5..504031cac23062d4dc8617bb2ee5895b56794cd3 100644
+--- a/story/chapters-played/story-chapter-played.page-type.ts
++++ b/story/chapters-played/story-chapter-played.page-type.ts
+@@ -32,9 +32,5 @@ export const storyChapterPlayed = {
+       invariantKind: "departure",
+       statement: "A chapter is part of the one story the chapter was played in.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A chapter's slug opens with the story the chapter is part of.",
+-    },
+   ],
+ } as const satisfies PageType
