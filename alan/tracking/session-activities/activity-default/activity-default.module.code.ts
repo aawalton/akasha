@@ -59,7 +59,7 @@ export type Standing = {
   readonly title: string
 }
 
-export function activitiesStanding(root: string): readonly Standing[] {
+export function activitiesFiled(root: string): readonly Standing[] {
   const asked = asking(root, {
     pageTypeSlug: PAGE_TYPE,
     keys: ["id", "slug", "title"],
@@ -125,7 +125,7 @@ export default async function trackingActivitySet(args: readonly string[]): Prom
   const json = parsed.boolean("--json")
 
   const root = akashaRoot()
-  const held = activityNamed(activitiesStanding(root), title)
+  const held = activityNamed(activitiesFiled(root), title)
   const slug = held?.slug === undefined || held.slug === "" ? pageStem(title) : held.slug
   const id = held?.id === undefined || held.id === "" ? Bun.randomUUIDv7() : held.id
 
