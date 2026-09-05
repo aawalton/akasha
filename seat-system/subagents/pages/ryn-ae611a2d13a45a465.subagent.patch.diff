@@ -1,13 +1,19 @@
 diff --git a/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts b/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts
-index fb4ce52ecba9e129350424b298fc849692dab43f..f6afecb0865b4308fea27a288ca86b292aaaa5d0 100644
+index fb4ce52ecba9e129350424b298fc849692dab43f..c202e361c0cbc4a96e5ad5de6c0323ee65bded5c 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts
 +++ b/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts
-@@ -78,7 +78,7 @@ export const learnEverythingTopic = {
+@@ -78,11 +78,12 @@ export const learnEverythingTopic = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "Every level of the map is a topic, the whole of it included.",
 +      statement: "Every level of the map is a topic, the whole of that map included.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A topic's depth is judged by hand and its coverage worked out from beneath it.",
++      statement:
++        "A topic's depth is judged by hand and its coverage worked out from beneath that topic.",
      },
      {
        invariantKind: "departure",
