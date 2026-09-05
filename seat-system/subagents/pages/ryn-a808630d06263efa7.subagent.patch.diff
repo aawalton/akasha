@@ -1,5 +1,5 @@
 diff --git a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
-index 7a49076106d034646c5ca3cfc30598b8ea652575..dd3299878568b5cda861b6db8da413007fd36d29 100644
+index 7a49076106d034646c5ca3cfc30598b8ea652575..4baf3df147c49f02d56a774d8437058abcd8679e 100644
 --- a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
 +++ b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
 @@ -74,7 +74,7 @@ export const claudeAccountUpkeepStall = {
@@ -11,3 +11,12 @@ index 7a49076106d034646c5ca3cfc30598b8ea652575..dd3299878568b5cda861b6db8da41300
      },
      {
        invariantKind: "absence",
+@@ -95,7 +95,7 @@ export const claudeAccountUpkeepStall = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "A page with nothing beside it has never been reached rather than reading as unread.",
++        "A page with nothing beside that page has never been reached rather than reading as unread.",
+     },
+   ],
+ } as const satisfies Module
