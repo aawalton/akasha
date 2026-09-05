@@ -1,0 +1,20 @@
+diff --git a/pages/package.json b/pages/package.json
+index 368d21108357e06dd9ee068ff00cf9c6d07d4877..2e620210c167623723855ca5bac0bc4f468fb732 100644
+--- a/pages/package.json
++++ b/pages/package.json
+@@ -9,6 +9,7 @@
+     "./change": "./change/change.module.code.ts",
+     "./checkout-roots": "./checkout-roots/checkout-roots.module.code.ts",
+     "./code-root": "./code-root/code-root.module.code.ts",
++    "./computed-property": "./computed-properties/computed-property.page-type.ts",
+     "./email-address-property": "./email-address-properties/email-address-property.page-type.ts",
+     "./entry-ceiling": "./entry-ceiling/entry-ceiling.module.code.ts",
+     "./file-property": "./file-properties/file-property.page-type.ts",
+@@ -42,6 +43,7 @@
+     "./page-beside": "./beside/page-beside.module.code.ts",
+     "./page-body": "./body/page-body.module.code.ts",
+     "./page-carry": "./carry/page-carry.module.code.ts",
++    "./page-computing": "./computing/page-computing.module.code.ts",
+     "./page-derive-shape": "./derive-shape/page-derive-shape.module.code.ts",
+     "./page-entries": "./entries/page-entries.module.code.ts",
+     "./page-entry-queue": "./entry-queue/page-entry-queue.module.code.ts",
