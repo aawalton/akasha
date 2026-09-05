@@ -1,30 +1,17 @@
 runsWarrants: false
-diff --git a/alan/music/music.domain.ts b/alan/music/music.domain.ts
-index 1adc6e13a426c3a7b2f0ad6b1f1ec4ec012d08bc..8ef1a22c8c5cfbd3afb05d15b8e649f3d4a9c4b9 100644
---- a/alan/music/music.domain.ts
-+++ b/alan/music/music.domain.ts
-@@ -41,7 +41,7 @@ export const music = {
+diff --git a/temper/temper-addon-data/page-row-totals/page-row-totals.module.ts b/temper/temper-addon-data/page-row-totals/page-row-totals.module.ts
+index 93aad84fa71196dda4b9a3d7f042fc12f37ad24c..33af93484c945a8bf124edab098b8fa03b03dbe4 100644
+--- a/temper/temper-addon-data/page-row-totals/page-row-totals.module.ts
++++ b/temper/temper-addon-data/page-row-totals/page-row-totals.module.ts
+@@ -24,7 +24,7 @@ export const pageRowTotals = {
      },
      {
        invariantKind: "departure",
--      statement: "Music keeps what was made apart from what was heard.",
-+      statement: "Music keeps the songs made apart from the plays heard.",
+-      statement: "What is counted is how many rows came back rather than what the rows carry.",
++      statement: "Rows that came back are counted rather than the values those rows carry.",
      },
    ],
- } as const satisfies Domain
-diff --git a/checks/code-checks/pages/file-length/file-length.code-check.ts b/checks/code-checks/pages/file-length/file-length.code-check.ts
-index c53360f730612912dfed8ca3d375567a7ab6446c..48f540ffc4780d8823fad3300d86d1ac8891acf9 100644
---- a/checks/code-checks/pages/file-length/file-length.code-check.ts
-+++ b/checks/code-checks/pages/file-length/file-length.code-check.ts
-@@ -50,7 +50,7 @@ export const fileLength = {
-     },
-     {
-       invariantKind: "departure",
--      statement: "A refusal for a prose file names what dividing prose costs a reader.",
-+      statement: "A refusal for a prose file names the cost dividing prose puts on a reader.",
-     },
-     {
-       invariantKind: "departure",
+ } as const satisfies Module
 diff --git a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts b/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
 index 910f682ee48b2b6498cda7941614276606e78993..dc38a6dd5479b64e7fea376aaa8cc974f0788048 100644
 --- a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
