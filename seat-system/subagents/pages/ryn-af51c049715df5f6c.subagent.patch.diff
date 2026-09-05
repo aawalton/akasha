@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts b/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
+index 743ab7d2fb57d9b77378db32d39089b41406b06d..2a4d5332e6b47592a7685108d345c9d75ae8445a 100644
+--- a/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
++++ b/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
+@@ -22,7 +22,7 @@ export const mobileSimStatus = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Whether a session is live is asked of Appium rather than read from what is written down.",
++        "Whether a session is live is asked of Appium rather than read from the session written down.",
+     },
+     {
+       invariantKind: "departure",
