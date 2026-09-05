@@ -14,8 +14,6 @@ import {
 import {
   COPY_SEAT_NAME_COMMAND,
   OPEN_PAGE_COMMAND,
-  PLACE_HEADLESS_COMMAND,
-  PLACE_INTERACTIVE_COMMAND,
   POLL_INTERVAL_MS,
   REFRESH_COMMAND,
   RUN_RESET_COMMAND,
@@ -49,7 +47,6 @@ import {
 } from "../seat-tab-context/seat-tab-context.module.code.ts"
 import { tabInstanceIds } from "../seat-terminals/seat-terminals.module.code.ts"
 import {
-  planPlaceToggle,
   planReset,
   planRunToggle,
   type SeatStep,
@@ -244,12 +241,6 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   context.subscriptions.push(
     { dispose: () => clearInterval(timer) },
     vscode.commands.registerCommand(REFRESH_COMMAND, () => refresh("manual")),
-    vscode.commands.registerCommand(PLACE_INTERACTIVE_COMMAND, (n: unknown) =>
-      runPlan(n, planPlaceToggle, "place-interactive")
-    ),
-    vscode.commands.registerCommand(PLACE_HEADLESS_COMMAND, (n: unknown) =>
-      runPlan(n, planPlaceToggle, "place-headless")
-    ),
     vscode.commands.registerCommand(RUN_STOP_COMMAND, (n: unknown) =>
       runPlan(n, planRunToggle, "run-stop")
     ),

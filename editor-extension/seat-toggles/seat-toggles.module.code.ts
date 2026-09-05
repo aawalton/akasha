@@ -16,7 +16,6 @@ export type SeatStep =
   | { readonly kind: "stop" }
   | { readonly kind: "revive" }
   | { readonly kind: "resume-interactive" }
-  | { readonly kind: "state-place"; readonly place: SeatMode }
   | { readonly kind: "attach" }
   | { readonly kind: "detach" }
   | { readonly kind: "reset" }
@@ -26,15 +25,6 @@ export function planRunToggle(state: SeatToggleState): readonly SeatStep[] {
     return [{ kind: "stop" }]
   }
   return state.place === "interactive" ? [{ kind: "resume-interactive" }] : [{ kind: "revive" }]
-}
-
-export function planPlaceToggle(state: SeatToggleState): readonly SeatStep[] {
-  const place: SeatMode = state.place === "interactive" ? "headless" : "interactive"
-  const stated: SeatStep = { kind: "state-place", place }
-  if (!state.running) {
-    return [stated]
-  }
-  return place === "interactive" ? [stated, { kind: "attach" }] : [stated, { kind: "detach" }]
 }
 
 export function planReset(state: SeatToggleState): readonly SeatStep[] {

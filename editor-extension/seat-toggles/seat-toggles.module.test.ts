@@ -2,7 +2,6 @@ import { describe, expect, test } from "bun:test"
 import { SEAT_TAB_KEY_NAMES } from "../seat-tab-context/seat-tab-context.module.code.ts"
 import {
   attachCommandLine,
-  planPlaceToggle,
   planReset,
   planRunToggle,
   seatContextValue,
@@ -21,23 +20,6 @@ describe("the steps a toggle plans", () => {
       { kind: "resume-interactive" },
     ])
     expect(planRunToggle({ running: false, place: "headless" })).toEqual([{ kind: "revive" }])
-  })
-
-  test("a place toggle on a stopped seat states the place and does nothing else", () => {
-    expect(planPlaceToggle({ running: false, place: "headless" })).toEqual([
-      { kind: "state-place", place: "interactive" },
-    ])
-  })
-
-  test("a place toggle on a running seat attaches or detaches after stating the place", () => {
-    expect(planPlaceToggle({ running: true, place: "headless" })).toEqual([
-      { kind: "state-place", place: "interactive" },
-      { kind: "attach" },
-    ])
-    expect(planPlaceToggle({ running: true, place: "interactive" })).toEqual([
-      { kind: "state-place", place: "headless" },
-      { kind: "detach" },
-    ])
   })
 
   test("a reset attaches only where the seat is interactive", () => {
@@ -64,21 +46,19 @@ describe("the name a seat is attached by", () => {
 })
 
 describe("the menus the manifest hangs on a row", () => {
-  test("a running interactive seat is offered stop, place-headless, reset, copy and open", () => {
+  test("a running interactive seat is offered stop, reset, copy and open", () => {
     expect([...shownFor(true, "interactive")].sort()).toEqual([
       "opsAgentTree.copySeatName",
       "opsAgentTree.openPage",
-      "opsAgentTree.placeHeadless",
       "opsAgentTree.runReset",
       "opsAgentTree.runStop",
     ])
   })
 
-  test("a stopped headless seat is offered resume, place-interactive, reset, copy and open", () => {
+  test("a stopped headless seat is offered resume, reset, copy and open", () => {
     expect([...shownFor(false, "headless")].sort()).toEqual([
       "opsAgentTree.copySeatName",
       "opsAgentTree.openPage",
-      "opsAgentTree.placeInteractive",
       "opsAgentTree.runReset",
       "opsAgentTree.runResume",
     ])

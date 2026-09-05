@@ -1,11 +1,6 @@
 import type { SeatStep, SeatToggleState } from "../seat-toggles/seat-toggles.module.code.ts"
 
-export type SeatAct =
-  | "place-interactive"
-  | "place-headless"
-  | "run-stop"
-  | "run-resume"
-  | "run-reset"
+export type SeatAct = "run-stop" | "run-resume" | "run-reset"
 
 export interface TurnLossPrompt {
   readonly message: string
@@ -14,8 +9,6 @@ export interface TurnLossPrompt {
 }
 
 const ACT_WORDS: Record<SeatAct, { readonly question: string; readonly confirm: string }> = {
-  "place-interactive": { question: "run", confirm: "Run Interactively" },
-  "place-headless": { question: "run", confirm: "Run Headless" },
   "run-stop": { question: "stop", confirm: "Stop" },
   "run-resume": { question: "resume", confirm: "Resume" },
   "run-reset": { question: "reset", confirm: "Reset" },

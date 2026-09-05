@@ -4,8 +4,7 @@ export const seatToggles = {
   id: "01a0686b-bfe9-7373-bdd9-fdc5b5f86ce5",
   pageTypeSlug: "module",
   slug: "seat-toggles",
-  definition:
-    "the steps a run, a place or a reset asks of a seat, and the line a terminal attaches by",
+  definition: "the steps a run or a reset asks of a seat, and the line a terminal attaches by",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -21,14 +20,6 @@ export const seatToggles = {
     {
       invariantKind: "departure",
       statement: "A stopped headless seat is revived without one.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A place toggle states the other place before attaching or detaching.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A place toggle on a stopped seat states the place and does nothing else.",
     },
     {
       invariantKind: "departure",

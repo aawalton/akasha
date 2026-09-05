@@ -4,7 +4,7 @@ export const seatActs = {
   id: "01a0686b-bfe9-770c-b16a-b99c4d15eec7",
   pageTypeSlug: "module",
   slug: "seat-acts",
-  definition: "the ops calls and terminals a planned step is carried out as, one seat at a time",
+  definition: "the seat command and terminals a planned step is carried out as, one seat at a time",
   code: "ts",
   invariants: [
     {
@@ -22,6 +22,14 @@ export const seatActs = {
     {
       invariantKind: "departure",
       statement: "A step that fails is said to Alan as well as written to the output.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A step names the seat to the command by the seat's name rather than by its id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop asks the seat's supervisor without forcing it.",
     },
     {
       invariantKind: "departure",

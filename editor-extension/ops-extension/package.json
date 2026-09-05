@@ -102,16 +102,6 @@
         "icon": "$(refresh)"
       },
       {
-        "command": "opsAgentTree.placeInteractive",
-        "category": "Ops Agents",
-        "title": "Run Interactively"
-      },
-      {
-        "command": "opsAgentTree.placeHeadless",
-        "category": "Ops Agents",
-        "title": "Run Headless"
-      },
-      {
         "command": "opsAgentTree.runStop",
         "category": "Ops Agents",
         "title": "Stop"
@@ -162,16 +152,6 @@
       ],
       "view/item/context": [
         {
-          "command": "opsAgentTree.placeInteractive",
-          "when": "view == opsAgentTree && viewItem =~ /^seat\\..+\\.headless$/",
-          "group": "1_place@1"
-        },
-        {
-          "command": "opsAgentTree.placeHeadless",
-          "when": "view == opsAgentTree && viewItem =~ /^seat\\..+\\.interactive$/",
-          "group": "1_place@1"
-        },
-        {
           "command": "opsAgentTree.runStop",
           "when": "view == opsAgentTree && viewItem =~ /^seat\\.running\\./",
           "group": "2_run@1"
@@ -198,16 +178,6 @@
         }
       ],
       "editor/title/context/replace": [
-        {
-          "command": "opsAgentTree.placeInteractive",
-          "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabsHeadless",
-          "group": "1_place@1"
-        },
-        {
-          "command": "opsAgentTree.placeHeadless",
-          "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabsInteractive",
-          "group": "1_place@1"
-        },
         {
           "command": "opsAgentTree.runStop",
           "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabsRunning",

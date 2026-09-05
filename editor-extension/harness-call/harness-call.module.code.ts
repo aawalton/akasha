@@ -18,10 +18,6 @@ export function akashaRoot(): string {
   return stated === undefined || stated === "" ? path.join(os.homedir(), "repos", "akasha") : stated
 }
 
-export function opsPath(): string {
-  return path.join(akashaRoot(), "dotfiles", "bin", "ops")
-}
-
 const COMMANDS_AT = "commands"
 
 const SERVER_AT = "command-system/command-server/command-server.module.code.ts"
@@ -101,13 +97,6 @@ async function run(
     maxBuffer: options.maxBuffer,
   })
   return whole(what, stdout, stderr)
-}
-
-export async function runOps(
-  args: readonly string[],
-  options: HarnessCallOptions
-): Promise<string> {
-  return run("ops", opsPath(), args, options)
 }
 
 export function repositoryPath(repo: string): string {

@@ -1,7 +1,7 @@
 import * as vscode from "vscode"
 import { output } from "../agent-tree-state/agent-tree-state.module.code.ts"
 import { seatTerminalOptions } from "../editor-group/editor-group.module.code.ts"
-import { runOps } from "../harness-call/harness-call.module.code.ts"
+import { commandPath, runCommand } from "../harness-call/harness-call.module.code.ts"
 import type { ToggleTarget } from "../invoked-seat/invoked-seat.module.code.ts"
 import { columnForSeat, terminalForSeat } from "../seat-showing/seat-showing.module.code.ts"
 import { readSeatLookup } from "../seat-terminals/seat-terminals.module.code.ts"
@@ -11,12 +11,19 @@ import {
   type SeatStep,
 } from "../seat-toggles/seat-toggles.module.code.ts"
 
-const OPS_TIMEOUT_MS = 120_000
+const SEAT_COMMAND = "seat"
+
+const SEAT_TIMEOUT_MS = 120_000
+
+const MAX_BUFFER = 1024 * 1024
 
 const inFlight = new Set<string>()
 
-async function runSeatOps(args: readonly string[]): Promise<undefined> {
-  await runOps(args, { timeout: OPS_TIMEOUT_MS, maxBuffer: 1024 * 1024 })
+async function runSeat(args: readonly string[]): Promise<undefined> {
+  await runCommand(commandPath(SEAT_COMMAND), args, {
+    timeout: SEAT_TIMEOUT_MS,
+    maxBuffer: MAX_BUFFER,
+  })
   return undefined
 }
 
@@ -44,23 +51,20 @@ async function detachTerminal(seat: ToggleTarget): Promise<undefined> {
 
 async function resumeInteractive(seat: ToggleTarget): Promise<undefined> {
   const line = attachCommandLine(seat.name)
-  await runSeatOps(["seat", "resume", seat.id, "--start-mode", "interactive"])
+  await runSeat(["resume", seat.name, "--start-mode", "interactive"])
   return attachTerminal(seat, line)
 }
 
 async function performStep(seat: ToggleTarget, step: SeatStep): Promise<undefined> {
   switch (step.kind) {
     case "stop":
-      await runSeatOps(["seat", "stop", seat.id])
+      await runSeat(["supervisor", "stop", seat.name])
       return undefined
     case "revive": {
       const prompt = await resumePrompt()
-      await runSeatOps(["seat", "resume", seat.id, "--prompt", prompt])
+      await runSeat(["resume", seat.name, "--prompt", prompt])
       return undefined
     }
-    case "state-place":
-      await runSeatOps(["instructions", "seat", "--agent", seat.id, "--mode", step.place])
-      return undefined
     case "resume-interactive":
       return resumeInteractive(seat)
     case "attach":
@@ -68,7 +72,7 @@ async function performStep(seat: ToggleTarget, step: SeatStep): Promise<undefine
     case "detach":
       return detachTerminal(seat)
     case "reset":
-      await runSeatOps(["seat", "reset", seat.id])
+      await runSeat(["reset", seat.name])
       return undefined
     default: {
       const unreached: never = step
