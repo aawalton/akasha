@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/access/answer/answer.module.ts b/pages/access/answer/answer.module.ts
+index 693029755c9b39ad5a04c694a1095e4068f0b462..2b097de43d13cd3f73b7228828ca718b66b64428 100644
+--- a/pages/access/answer/answer.module.ts
++++ b/pages/access/answer/answer.module.ts
+@@ -32,7 +32,7 @@ export const answer = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A question the pages refuse is answered 503 carrying what the refusal said.",
++      statement: "A question the pages refuse is answered 503 carrying the refusal's own words.",
+     },
+     {
+       invariantKind: "departure",
