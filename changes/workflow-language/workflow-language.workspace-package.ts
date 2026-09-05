@@ -28,7 +28,7 @@ export const workflowLanguage = {
     "module/rollback-image",
     "module/set-image",
     "workflow-step/sops-decrypt",
-    "module/source-sync",
+    "workflow-step/source-sync",
     "module/verify-rollout",
   ],
   invariants: [
