@@ -9,7 +9,7 @@ export const monarchPropose = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Nothing is written, so a rule can be weighed before it stands.",
+      statement: "Nothing is written, so a rule can be weighed before that rule stands.",
     },
     {
       invariantKind: "departure",
