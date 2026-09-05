@@ -1,5 +1,5 @@
 diff --git a/pages/system-service/page-composing/page-composing.module.code.ts b/pages/system-service/page-composing/page-composing.module.code.ts
-index 0489bbbba7441353a25cd3579868df87baa828ec..419d971ef1cd34735f7786ab210af8f09f9b04a4 100644
+index 0489bbbba7441353a25cd3579868df87baa828ec..2d352d97a0a6f7ef30fb4d08322515cf5212ed55 100644
 --- a/pages/system-service/page-composing/page-composing.module.code.ts
 +++ b/pages/system-service/page-composing/page-composing.module.code.ts
 @@ -18,11 +18,34 @@ const ID = "id"
@@ -37,7 +37,7 @@ index 0489bbbba7441353a25cd3579868df87baa828ec..419d971ef1cd34735f7786ab210af8f0
  }
  
  export type Put = {
-@@ -184,14 +207,31 @@ export function composedFor(root: string, named: Naming): Composed {
+@@ -184,14 +207,36 @@ export function composedFor(root: string, named: Naming): Composed {
    const parts: Put[] = []
    const removes: string[] = []
    const filedBy = filePropertiesAt(root).get(named.pageTypeSlug)
@@ -63,7 +63,12 @@ index 0489bbbba7441353a25cd3579868df87baa828ec..419d971ef1cd34735f7786ab210af8f0
 +      if (beside === null) {
 +        return { refused: `\`${at}\` is no page file, so no file sits beside it` }
 +      }
++<<<<<<< what this change would leave
 +      parts.push({ path: beside, content: bodies[one.key] ?? "" })
++=======
++      inside[one.key] = ending
++      continue
++>>>>>>> what HEAD holds
 +      inside[one.key] = ending
 +      continue
 +    }
