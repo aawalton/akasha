@@ -1,3 +1,15 @@
+diff --git a/command-system/commands/command.page-type.ts b/command-system/commands/command.page-type.ts
+index 1899d8310921eb70745b935d1b66beb41260f16c..b08b72871aa4cff32b45efca3a6daf3021495816 100644
+--- a/command-system/commands/command.page-type.ts
++++ b/command-system/commands/command.page-type.ts
+@@ -69,6 +69,7 @@ export const command = {
+     "command/restore",
+     "command/seat",
+     "command/seat-transcripts",
++    "command/subagent-sweep",
+     "command/service",
+     "command/test",
+     "command/track",
 diff --git a/commands/subagent-sweep/subagent-sweep.command.code.ts b/commands/subagent-sweep/subagent-sweep.command.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..6640c77a416bb0087849ae371134c7f596f4ad70
@@ -422,3 +434,15 @@ index 0000000000000000000000000000000000000000..9c4acc0a99f7fc4e6779673a957f86e9
 +    },
 +  ],
 +} as const satisfies Command
+diff --git a/seat-system/package.json b/seat-system/package.json
+index 46988b7d62ae481ed5378a104dca1dd09937e1d6..5ff18b0b55f23e6154de8fa0df8a96177fd8130e 100644
+--- a/seat-system/package.json
++++ b/seat-system/package.json
+@@ -19,6 +19,7 @@
+     "./state-spawned-seat": "./state-spawned-seat/state-spawned-seat.module.code.ts",
+     "./stop-seat": "./stop-seat/stop-seat.module.code.ts",
+     "./subagent-guard": "./subagent-guard/subagent-guard.module.code.ts",
++    "./subagent-census": "./subagent-census/subagent-census.module.code.ts",
+     "./subagent-page": "./subagent-page/subagent-page.module.code.ts",
+     "./subagent-page-akasha": "./subagent-page-akasha/subagent-page-akasha.module.code.ts",
+     "./takeover-seat": "./takeover-seat/takeover-seat.module.code.ts",
