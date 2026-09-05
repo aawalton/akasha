@@ -39,7 +39,7 @@ export const noSopsOnDevStdin = {
     },
     {
       invariantKind: "departure",
-      statement: "What the call is named is not asked.",
+      statement: "The call's own name is not asked.",
     },
     {
       invariantKind: "gap",
