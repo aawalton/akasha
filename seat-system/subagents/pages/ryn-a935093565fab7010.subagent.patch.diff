@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
-index 85a1910b8f004f074c44760092c9010b53fd6d1e..791365dd22fb196d627ff40b5ecaa599038aefca 100644
+index 85a1910b8f004f074c44760092c9010b53fd6d1e..b0d944769afb9f38f8e2a7cf4f80cb7a84671c8f 100644
 --- a/code-system/code-tests/code-tests.module.ts
 +++ b/code-system/code-tests/code-tests.module.ts
 @@ -12,7 +12,7 @@ export const codeTests = {
@@ -126,6 +126,15 @@ index 85a1910b8f004f074c44760092c9010b53fd6d1e..791365dd22fb196d627ff40b5ecaa599
        invariantKind: "absence",
 -      statement: "What a refusal says belongs to whoever asked for the run.",
 +      statement: "The words a refusal says belong to the caller that asked for the run.",
+     },
+     {
+       invariantKind: "absence",
+@@ -299,7 +300,7 @@ export const codeTests = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A world is only what is made of the paths and the bodies.",
++      statement: "A world is made of the paths and the bodies alone.",
      },
      {
        invariantKind: "absence",
