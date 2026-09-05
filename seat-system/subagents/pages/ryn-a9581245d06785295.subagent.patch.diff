@@ -1,0 +1,13 @@
+diff --git a/commands/read/read.command.ts b/commands/read/read.command.ts
+index cb4000454fd7c993da8893fbba3282b9e6f19356..6d3c7c19e2bbc516b2ca4ab34e2679c1203f7807 100644
+--- a/commands/read/read.command.ts
++++ b/commands/read/read.command.ts
+@@ -44,7 +44,7 @@ export const read = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What changed comes back only where it is shorter than the whole file.",
++      statement: "What changed comes back only where what changed is shorter than the whole file.",
+     },
+     {
+       invariantKind: "departure",
