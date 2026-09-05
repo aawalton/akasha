@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/agents/models/tests/model-test.page-type.ts b/agents/models/tests/model-test.page-type.ts
+index 60502715edfe31333a76ba301e500726c5ef4ca0..918235fa815512b17f9e33831ffc8bc646ea26e9 100644
+--- a/agents/models/tests/model-test.page-type.ts
++++ b/agents/models/tests/model-test.page-type.ts
+@@ -35,7 +35,7 @@ export const modelTest = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A test's code puts its prompt together from what the code is handed.",
++      statement: "A test's code puts its prompt together from the inputs the code is handed.",
+     },
+     {
+       invariantKind: "departure",
