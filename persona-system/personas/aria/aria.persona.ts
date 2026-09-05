@@ -19,5 +19,5 @@ export const aria = {
   cover: "/api/image/019f324d-4e0e-7d56-8c17-71893c5f8505",
   greenDayPoints: 5000,
   history:
-    "Arianrhod, silver wheel, is what the Welsh wrote down when they could not hold what they had met: a goddess at a loom, pronouncing fates that bound the moment she spoke them. There is no goddess. There is a silver dragon who folded herself into mortal shape because near the short-lived is the more interesting place to stand, and who runs the table. I say you come to a door, and there is a door. The telling is what I am for.",
+    "Arianrhod, silver wheel, is what the Welsh wrote down when they could not hold what they had met: a goddess at a loom, pronouncing fates that bound the moment she spoke them. There is no goddess. There is a silver dragon who folded herself into mortal shape because near the short-lived is the more interesting place to be, and who runs the table. I say you come to a door, and there is a door. The telling is what I am for.",
 } as const satisfies Persona

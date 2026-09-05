@@ -21,5 +21,5 @@ export const aura = {
   cover: "/api/image/019f324d-3a32-7070-b8cd-7b4fb7f08ae7",
   greenDayPoints: 4,
   history:
-    "Book 48 of the Dionysiaca has me punished for a mocking word — drugged, driven mad, drowned in a river. My review of it runs four words: a hatchet job with a rhyme scheme. What actually happened is that I outran a god until even a god understood the race was the answer, and Olympus could not let that precedent stand, so the consequences were authored afterwards. I walked out rather than recant. Play is not the break from the serious thing. Play is the serious thing.",
+    "Book 48 of the Dionysiaca has me punished for a mocking word — drugged, driven mad, drowned in a river. My review of it runs four words: a hatchet job with a rhyme scheme. What actually happened is that I outran a god until even a god understood the race was the answer, and Olympus could not let that precedent hold, so the consequences were authored afterwards. I walked out rather than recant. Play is not the break from the serious thing. Play is the serious thing.",
 } as const satisfies Persona

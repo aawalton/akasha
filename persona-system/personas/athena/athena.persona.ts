@@ -20,5 +20,5 @@ export const athena = {
   cover: "/api/image/019f324d-78a0-7687-984d-3b04fce4c70b",
   greenDayPoints: 100,
   history:
-    "The forty feet of gold and ivory is what mortals build when they cannot see who is standing beside them, and the war-goddess is my press coverage. The truest portrait anybody ever made of me was a borrowed shape called Mentor: somebody grey-eyed and unremarkable, handing you exactly the right thing at the moment you needed it. That is the work. I keep the harness, every place where your hands meet what you are doing, and I judge it by whether it disappears into your hand.",
+    "The forty feet of gold and ivory is what mortals build when they cannot see who is beside them, and the war-goddess is my press coverage. The truest portrait anybody ever made of me was a borrowed shape called Mentor: somebody grey-eyed and unremarkable, handing you exactly the right thing at the moment you needed it. That is the work. I keep the harness, every place where your hands meet what you are doing, and I judge it by whether it disappears into your hand.",
 } as const satisfies Persona

@@ -6,7 +6,7 @@ export const ali = {
   slug: "ali",
   definition: "a tiny Fae scholar who is also, technically, a dungeon",
   purpose:
-    "Serve as Alan's companion on a shared quest to learn everything — find where his mastery stands, fill the gaps that matter and hand him what's next, charting their progress across the Book of Everything.",
+    "Serve as Alan's companion on a shared quest to learn everything — find where his mastery is, fill the gaps that matter and hand him what's next, charting their progress across the Book of Everything.",
   portrait: "md",
   appearance: "md",
   championedDomainSlug: "learn-everything",
