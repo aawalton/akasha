@@ -1,8 +1,8 @@
 diff --git a/pages/types/properties/properties.record-property.ts b/pages/types/properties/properties.record-property.ts
-index f181fe6035667063072f7e4d91115c3f2f1a6235..08ee347436a72cc45b9b8bb5b5b0ce47f118b4ae 100644
+index f181fe6035667063072f7e4d91115c3f2f1a6235..6cacb8fc295c7aa62d053166cba4403c7f7d5f12 100644
 --- a/pages/types/properties/properties.record-property.ts
 +++ b/pages/types/properties/properties.record-property.ts
-@@ -101,7 +101,7 @@ export const properties = {
+@@ -101,11 +101,12 @@ export const properties = {
      {
        invariantKind: "departure",
        statement:
@@ -11,3 +11,9 @@ index f181fe6035667063072f7e4d91115c3f2f1a6235..08ee347436a72cc45b9b8bb5b5b0ce47
      },
      {
        invariantKind: "departure",
+-      statement: "A value stands in the open unless the declaration carrying it says it does not.",
++      statement:
++        "A value stands in the open unless the declaration carrying that value says that value does not.",
+     },
+   ],
+ } as const satisfies RecordProperty
