@@ -31,7 +31,7 @@ export const rescuedCredential = {
     },
     {
       invariantKind: "departure",
-      statement: "A rescued credential is a reading rather than what an account states.",
+      statement: "A rescued credential is a reading rather than a value an account states.",
     },
     {
       invariantKind: "departure",
