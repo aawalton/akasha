@@ -1,0 +1,133 @@
+diff --git a/markdown-pages/markdown-attachment-file/markdown-attachment-file.module.ts b/markdown-pages/markdown-attachment-file/markdown-attachment-file.module.ts
+index 29823ff2c1ae5a8c00afe56c992b8e8ff80764f3..12b822e4012dfd3383ae9ed8cd32ad618f6503b9 100644
+--- a/markdown-pages/markdown-attachment-file/markdown-attachment-file.module.ts
++++ b/markdown-pages/markdown-attachment-file/markdown-attachment-file.module.ts
+@@ -4,13 +4,13 @@ export const markdownAttachmentFile = {
+   id: "01a06895-1cca-7000-89b3-1d9fa2df3d32",
+   pageTypeSlug: "module",
+   slug: "markdown-attachment-file",
+-  definition: "the file an attachment stands in, beside the markdown page that names it",
++  definition: "the file an attachment is in, beside the markdown page that names it",
+   code: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+       statement:
+-        "An attachment file stands beside the page that names it rather than under a folder of its own.",
++        "An attachment file sits beside the page that names it rather than under a folder of its own.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/markdown-pages/markdown-body-not-utf8/markdown-body-not-utf8.module.ts b/markdown-pages/markdown-body-not-utf8/markdown-body-not-utf8.module.ts
+index 10a30d9e6caacd077509141e428376361af47e2c..ba0d2e7a84edce10d03548ea8621829071311fe1 100644
+--- a/markdown-pages/markdown-body-not-utf8/markdown-body-not-utf8.module.ts
++++ b/markdown-pages/markdown-body-not-utf8/markdown-body-not-utf8.module.ts
+@@ -10,7 +10,7 @@ export const markdownBodyNotUtf8 = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The refusal names the source it read, how many bytes stood there, and the leading bytes themselves.",
++        "The refusal names the source it read, how many bytes were there, and the leading bytes themselves.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/markdown-pages/markdown-page-derive-backing/markdown-page-derive-backing.module.ts b/markdown-pages/markdown-page-derive-backing/markdown-page-derive-backing.module.ts
+index bd0b17c4330ff3266751c742d96f7ef78701d20f..e036c4132a261c4ff0b9fa9d43ecd57a5a3868c6 100644
+--- a/markdown-pages/markdown-page-derive-backing/markdown-page-derive-backing.module.ts
++++ b/markdown-pages/markdown-page-derive-backing/markdown-page-derive-backing.module.ts
+@@ -4,6 +4,6 @@ export const markdownPageDeriveBacking = {
+   id: "01a0689a-318d-7000-9041-20cb23abfcba",
+   pageTypeSlug: "module",
+   slug: "markdown-page-derive-backing",
+-  definition: "which markdown pages back a derived value and where they stand",
++  definition: "which markdown pages back a derived value and where they are",
+   code: "ts",
+ } as const satisfies Module
+diff --git a/markdown-pages/markdown-page-fault/markdown-page-fault.module.code.ts b/markdown-pages/markdown-page-fault/markdown-page-fault.module.code.ts
+index 797cef8c9fb6d95ee4f4d4d4b2d4547bf7a68a26..83571d133fa83b29148957f064a2f2d8e5dbe28b 100644
+--- a/markdown-pages/markdown-page-fault/markdown-page-fault.module.code.ts
++++ b/markdown-pages/markdown-page-fault/markdown-page-fault.module.code.ts
+@@ -9,6 +9,6 @@ export function noteUnreadable(
+   if (isAttachmentFile(relPath)) return
+   faults.add(
+     `\`${repo}:${relPath}\` matches the glob for \`${kind}\` and does not read as a page, ` +
+-      `so it stands in no count`
++      `so it is in no count`
+   )
+ }
+diff --git a/markdown-pages/markdown-page-file/markdown-page-file.module.ts b/markdown-pages/markdown-page-file/markdown-page-file.module.ts
+index 7c78e9bc10a6b310d9fc8aa853bb8e131fc9657f..0d32f1e23cf7d79c0650bbefd5cf73ee0a0f38db 100644
+--- a/markdown-pages/markdown-page-file/markdown-page-file.module.ts
++++ b/markdown-pages/markdown-page-file/markdown-page-file.module.ts
+@@ -4,6 +4,6 @@ export const markdownPageFile = {
+   id: "01a06895-1cdf-7000-9fed-b23106805aa9",
+   pageTypeSlug: "module",
+   slug: "markdown-page-file",
+-  definition: "finding the markdown file a page stem stands in",
++  definition: "finding the markdown file a page stem is in",
+   code: "ts",
+ } as const satisfies Module
+diff --git a/markdown-pages/markdown-page-types/markdown-page-types.module.ts b/markdown-pages/markdown-page-types/markdown-page-types.module.ts
+index 9b1dad5c567e5ec3dc6c16a4b0de48fd51ab7206..cfa1ea70e1dd6b7a81fce120fe02a0ddaa6f2a21 100644
+--- a/markdown-pages/markdown-page-types/markdown-page-types.module.ts
++++ b/markdown-pages/markdown-page-types/markdown-page-types.module.ts
+@@ -10,7 +10,7 @@ export const markdownPageTypes = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A page type is read from the file its frontmatter stands in.",
++      statement: "A page type is read from the file its frontmatter is in.",
+     },
+     { invariantKind: "departure", statement: "A path git ignores is never scanned as a page." },
+   ],
+diff --git a/markdown-pages/markdown-property-registry/markdown-property-registry.module.ts b/markdown-pages/markdown-property-registry/markdown-property-registry.module.ts
+index 1c070f9ff6b589e6c51791f8bccac5af5ede3bd5..d55fcfa841cfce6327cc2694f5588f8b84a75c3e 100644
+--- a/markdown-pages/markdown-property-registry/markdown-property-registry.module.ts
++++ b/markdown-pages/markdown-property-registry/markdown-property-registry.module.ts
+@@ -4,6 +4,6 @@ export const markdownPropertyRegistry = {
+   id: "01a06895-1cec-7000-8595-d893a7286d7d",
+   pageTypeSlug: "module",
+   slug: "markdown-property-registry",
+-  definition: "every markdown page type in a tree, indexed by where it stands",
++  definition: "every markdown page type in a tree, indexed by where it is",
+   code: "ts",
+ } as const satisfies Module
+diff --git a/markdown-pages/markdown-repo-claim/markdown-repo-claim.module.ts b/markdown-pages/markdown-repo-claim/markdown-repo-claim.module.ts
+index 18b315d1b0166e0f29e688a4b39490c13990b217..79df879eb92f12694c7590903d9b51d470270960 100644
+--- a/markdown-pages/markdown-repo-claim/markdown-repo-claim.module.ts
++++ b/markdown-pages/markdown-repo-claim/markdown-repo-claim.module.ts
+@@ -9,7 +9,7 @@ export const markdownRepoClaim = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A stated path claiming no repository stands in the instructions checkout.",
++      statement: "A stated path claiming no repository is in the instructions checkout.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/markdown-pages/markdown-rows-file/markdown-rows-file.module.ts b/markdown-pages/markdown-rows-file/markdown-rows-file.module.ts
+index 477d576c51ef0f1e08da3bf685ce2be8113fc623..a80a89e14b5ea2130de186960fcd449e6de43b16 100644
+--- a/markdown-pages/markdown-rows-file/markdown-rows-file.module.ts
++++ b/markdown-pages/markdown-rows-file/markdown-rows-file.module.ts
+@@ -4,7 +4,7 @@ export const markdownRowsFile = {
+   id: "01a06895-1cf5-7000-9dee-256c1061791d",
+   pageTypeSlug: "module",
+   slug: "markdown-rows-file",
+-  definition: "the file the rows of one markdown property stand in, beside the page naming them",
++  definition: "the file the rows of one markdown property are in, beside the page naming them",
+   code: "ts",
+   test: "ts",
+   invariants: [
+diff --git a/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.ts b/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.ts
+index c66596b8b3f638c5bf169e8c4d552679eecfb2bf..618d090e20959c0d6979f55a2897c471df2ccc4b 100644
+--- a/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.ts
++++ b/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.ts
+@@ -4,7 +4,7 @@ export const markdownShapeMark = {
+   id: "01a06895-1cf8-7000-b5c1-b9a6d42e2c66",
+   pageTypeSlug: "module",
+   slug: "markdown-shape-mark",
+-  definition: "one mark standing for the whole shape of the markdown corpus at a commit",
++  definition: "one mark representing the whole shape of the markdown corpus at a commit",
+   code: "ts",
+   test: "ts",
+ } as const satisfies Module
