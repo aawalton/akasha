@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/indexes/shape/index-shape.module.ts b/pages/indexes/shape/index-shape.module.ts
+index 168850e0e8a233f151e5f4e7a8966f5928624142..0713e22f48ebcbd4c07fa4fe7af863ce04e9f05a 100644
+--- a/pages/indexes/shape/index-shape.module.ts
++++ b/pages/indexes/shape/index-shape.module.ts
+@@ -13,7 +13,8 @@ export const indexShape = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A reader takes a shape from here rather than from what does the reading.",
++      statement:
++        "A reader takes a shape from here rather than from the code that does the reading.",
+     },
+     {
+       invariantKind: "absence",
