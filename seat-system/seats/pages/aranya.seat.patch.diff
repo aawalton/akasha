@@ -327,3 +327,11 @@ index 5f1f3f9944b13d6f010558bf30cae9d67cd3dfc5..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../location-traces-access
 \ No newline at end of file
+diff --git a/migration-system/migration-system b/migration-system/migration-system
+deleted file mode 120000
+index ad582b3709f7a5bd61494934af1444d438377b68..0000000000000000000000000000000000000000
+--- a/migration-system/migration-system
++++ /dev/null
+@@ -1 +0,0 @@
+-../../migration-system
+\ No newline at end of file
