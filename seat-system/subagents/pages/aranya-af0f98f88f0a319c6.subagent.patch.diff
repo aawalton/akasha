@@ -1,0 +1,15 @@
+diff --git a/infrastructure/seaweedfs/s3-gateway/seaweedfs-s3-gateway.manifest.ts b/infrastructure/seaweedfs/s3-gateway/seaweedfs-s3-gateway.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5d77e91d5e4de23b34d67e60b8e11e56633129c9
+--- /dev/null
++++ b/infrastructure/seaweedfs/s3-gateway/seaweedfs-s3-gateway.manifest.ts
+@@ -0,0 +1,9 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const seaweedfsS3Gateway = {
++  id: "01a0737e-4ab7-770b-9a76-2fa23955be63",
++  pageTypeSlug: "manifest",
++  slug: "seaweedfs-s3-gateway",
++  definition: "the deployment serving the stored files over the S3 interface, and the way in to it",
++  code: "ts",
++} as const satisfies Manifest
