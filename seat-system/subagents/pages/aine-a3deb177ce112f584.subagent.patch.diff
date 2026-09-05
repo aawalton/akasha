@@ -1,0 +1,138 @@
+diff --git a/command-system/asking/asking.module.ts b/command-system/asking/asking.module.ts
+index 84390de47fe7b38b158a9717265ffc263ee50d26..eee8ced5ada75c15df8425aba70b622dc6587fd8 100644
+--- a/command-system/asking/asking.module.ts
++++ b/command-system/asking/asking.module.ts
+@@ -144,7 +144,7 @@ export const asking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Reaching a body tells a path standing at nothing from one that will not open.",
++      statement: "Reaching a body tells a path nothing is at from one that will not open.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/command-system/change-freshness/change-freshness.module.ts b/command-system/change-freshness/change-freshness.module.ts
+index 16f0bfc025785c02f8791b242cdfdba7edb7cb47..7fc9a1e9fb649a925a02c3ede64017e6adb0d1c9 100644
+--- a/command-system/change-freshness/change-freshness.module.ts
++++ b/command-system/change-freshness/change-freshness.module.ts
+@@ -11,8 +11,7 @@ export const changeFreshness = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A body is overwritten only where what stands on disk is the body its writer read.",
++      statement: "A body is overwritten only where what is on disk is the body its writer read.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/command-system/differing/differing.module.ts b/command-system/differing/differing.module.ts
+index 6e67e91fbac8ce9d2fd35635cab879bbb3ab32d0..ce088fdeb6a083aafd8cff6fc7d9ec1af6630307 100644
+--- a/command-system/differing/differing.module.ts
++++ b/command-system/differing/differing.module.ts
+@@ -4,7 +4,8 @@ export const differing = {
+   id: "01a04ebb-d762-7000-92c3-765835d1b7a3",
+   pageTypeSlug: "module",
+   slug: "differing",
+-  definition: "the body an object id names, and what moved between it and the body that stands now",
++  definition:
++    "the body an object id names, and what moved between it and the body that is there now",
+   code: "ts",
+   test: "ts",
+   invariants: [
+diff --git a/command-system/gate-building/gate-building.module.ts b/command-system/gate-building/gate-building.module.ts
+index e81421dac3c9ceb96859f97bcf191ed7ada27668..cfbfb98822eb199099cf9d3d8e0887d9a6bf6382 100644
+--- a/command-system/gate-building/gate-building.module.ts
++++ b/command-system/gate-building/gate-building.module.ts
+@@ -68,7 +68,7 @@ export const gateBuilding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Which checks stand on a phase is answered where the checks are.",
++      statement: "Which checks sit on a phase is answered where the checks are.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/command-system/holding/holding.module.ts b/command-system/holding/holding.module.ts
+index 1706865e83c92a2ae8f79f4fbf64b84e67587ac9..3554caefa906b7737ebafb189bd3220aff3d5b92 100644
+--- a/command-system/holding/holding.module.ts
++++ b/command-system/holding/holding.module.ts
+@@ -14,11 +14,11 @@ export const holding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Taking it is one create that fails if it stands.",
++      statement: "Taking it is one create that fails if it is there.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The hold stands under `.git`.",
++      statement: "The hold sits under `.git`.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/command-system/ios-widget-emit/ios-widget-emit.module.ts b/command-system/ios-widget-emit/ios-widget-emit.module.ts
+index 8cb178e3ef2634f564fe5484b9b84b8931ea5022..7f9a5e3046fe92c04c897caddfa04cc68b6b5922 100644
+--- a/command-system/ios-widget-emit/ios-widget-emit.module.ts
++++ b/command-system/ios-widget-emit/ios-widget-emit.module.ts
+@@ -4,7 +4,7 @@ export const iosWidgetEmit = {
+   id: "01a069f1-8def-708e-8119-d023bf9ed009",
+   pageTypeSlug: "module",
+   slug: "ios-widget-emit",
+-  definition: "one widget's Swift written out and set against the Swift already standing",
++  definition: "one widget's Swift written out and set against the Swift already there",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
+index 40bb0ca8ee60247b96f4f77ead256f4ebc401d85..f3a132ed0a97296c6dbdaca84f8a830e6cc7541c 100644
+--- a/command-system/landing/landing.module.ts
++++ b/command-system/landing/landing.module.ts
+@@ -43,7 +43,7 @@ export const landing = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A path that moved between that commit and what stands is refused unwritten rather than written over.",
++        "A path that moved between that commit and now is refused unwritten rather than written over.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/command-system/reading/reading.module.ts b/command-system/reading/reading.module.ts
+index 596c42f33558dc187573bb890edfb9d611f68d16..f29d842d0cd69f853d4be7c54bf33cbd0518cd4a 100644
+--- a/command-system/reading/reading.module.ts
++++ b/command-system/reading/reading.module.ts
+@@ -46,7 +46,7 @@ export const reading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The record stands beside the index under `.git/data`.",
++      statement: "The record sits beside the index under `.git/data`.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/command-system/scratching/scratching.module.ts b/command-system/scratching/scratching.module.ts
+index 5aa70eab84b66c029065be3580d89f05f5cd424b..3b2347c9ebef86a048fc0dd43d93feefab414597 100644
+--- a/command-system/scratching/scratching.module.ts
++++ b/command-system/scratching/scratching.module.ts
+@@ -5,7 +5,7 @@ export const scratching = {
+   pageTypeSlug: "module",
+   slug: "scratching",
+   definition:
+-    "the scratch root a test stands up, the bodies it stands there, and the sweep that takes it",
++    "the scratch root a test sets up, the bodies it puts there, and the sweep that takes it",
+   code: "ts",
+   test: "ts",
+   testFixtures: "ts",
+diff --git a/command-system/value-minting/value-minting.module.ts b/command-system/value-minting/value-minting.module.ts
+index 02c8589aea5e5eaa02cd81106b4dcd68c50c28bb..9f3ef551de832725b62615e7d93cd8409ae98f03 100644
+--- a/command-system/value-minting/value-minting.module.ts
++++ b/command-system/value-minting/value-minting.module.ts
+@@ -79,8 +79,7 @@ export const valueMinting = {
+     },
+     {
+       invariantKind: "absence",
+-      statement:
+-        "This module answers the changes as those changes would stand with their values in.",
++      statement: "This module answers the changes as those changes would be with their values in.",
+     },
+   ],
+ } as const satisfies Module
