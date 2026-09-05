@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/car-research/car-makes/car-make.page-type.ts b/alan/car-research/car-makes/car-make.page-type.ts
+index fe9c9d3ba35e0f842d91990950ad0a345df86c73..4f7b14e62a1d39238d7b2d6de423c3a0f8acb597 100644
+--- a/alan/car-research/car-makes/car-make.page-type.ts
++++ b/alan/car-research/car-makes/car-make.page-type.ts
+@@ -61,7 +61,7 @@ export const carMake = {
+   invariants: [
+     {
+       invariantKind: "absence",
+-      statement: "A make names no model it builds.",
++      statement: "A make names no model that make builds.",
+     },
+   ],
+ } as const satisfies PageType
