@@ -23,7 +23,6 @@ export const exerciseConstraintSet = {
   ],
   helpNotes: [
     "the first call on a headline makes the page and every later call changes the one already there.",
-    "a field the call does not name is left as it was.",
     "what the constraint asks for lands in a file beside the page rather than in the page.",
     "a constraint is active unless `--inactive` is said.",
     "a constraint tagged all reaches every focus, so it needs no other tag.",
