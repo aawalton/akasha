@@ -55,7 +55,7 @@ export const capacityClassification = {
     },
     {
       invariantKind: "departure",
-      statement: "Every class carries a reason naming what the headers said.",
+      statement: "Every class carries a reason naming the values the headers held.",
     },
     {
       invariantKind: "stopgap",
@@ -63,7 +63,7 @@ export const capacityClassification = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here decides what to do about a 429.",
+      statement: "Nothing here decides the answer to a 429.",
     },
     {
       invariantKind: "absence",
