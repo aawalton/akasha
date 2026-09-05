@@ -37,3 +37,16 @@ index 67b5f83c9c058391aeebedea4f14001423fb182b..a276625925b1d8aab369ce3987486cee
    partSlugs: ["module/remove-manifesting", "module/remove-workspacing"],
    taking: [
      { said: "--file-path <path>", takes: "a path anywhere in the repository to take away" },
+diff --git a/commands/replace/replace.command.ts b/commands/replace/replace.command.ts
+index 952907b9429940dfbc691dd8432464cf7d8c9eaa..34d081bf1678d6aa59600072edfb1bbb9fbd8e89 100644
+--- a/commands/replace/replace.command.ts
++++ b/commands/replace/replace.command.ts
+@@ -8,7 +8,7 @@ export const replace = {
+     "one literal passage replaced wherever it is in the files named, landed as one commit",
+   code: "ts",
+   test: "ts",
+-  changeKindSlug: "change-mechanical",
++  changeKindSlug: "change-checked",
+   taking: [
+     { said: "--file-path <path>", takes: "a file the passage is replaced in, said once per file" },
+     { said: "--old-file <file>", takes: "a file holding the passage to replace" },
