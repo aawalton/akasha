@@ -346,17 +346,22 @@ index 0000000000000000000000000000000000000000..9abfc70174b06d913b9c3202fc26bae1
 +  ]
 +}
 diff --git a/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff b/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff
-index a7310d7843ae2d16890f187e77ae4e8903441519..a86edb36858b4d271f2b31d5af564e5c9304d33a 100644
+index 5bc9d8b872e66543da1e120834067c893319353f..01b2817ff751581edbda524357861639073a6343 100644
 --- a/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff
 +++ b/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff
-@@ -7,6 +7,6 @@ index 1c5c40fe78ab78a285f369af0f86dbc462543b6a..2ba6e60d4b9d7261b516d5e99cf1e4a9
+@@ -713,8 +713,12 @@ index 1c5c40fe78ab78a285f369af0f86dbc462543b6a..6552b7b809cc899e83c1f9a465b7d4fe
     replicas: 1,
     containerPort: 4000,
  -  manifestCode:
---    "service-system/cluster-services/pages/supabase-realtime/supabase-realtime.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +-    "infrastructure/databases/supabase-realtime/supabase-realtime.manifest.code.ts",
++=======
+ -    "service-system/cluster-services/pages/supabase-realtime/supabase-realtime.cluster-service.code.attachment.ts",
+ +<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
  +  manifestSlug: "supabase-realtime",
-  } as const satisfies ClusterService
+ +=======
+ +  manifestCode: "infrastructure/databases/supabase-realtime/supabase-realtime.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/supabase-realtime/supabase-realtime.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/supabase-realtime/supabase-realtime.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 9abfc70174b06d913b9c3202fc26bae1b1f9a108..0000000000000000000000000000000000000000
@@ -705,18 +710,14 @@ index 9abfc70174b06d913b9c3202fc26bae1b1f9a108..00000000000000000000000000000000
 -  ]
 -}
 diff --git a/service-system/cluster-services/pages/supabase-realtime/supabase-realtime.cluster-service.ts b/service-system/cluster-services/pages/supabase-realtime/supabase-realtime.cluster-service.ts
-index 1c5c40fe78ab78a285f369af0f86dbc462543b6a..6552b7b809cc899e83c1f9a465b7d4fe67fe983c 100644
+index 1c5c40fe78ab78a285f369af0f86dbc462543b6a..2ba6e60d4b9d7261b516d5e99cf1e4a9d048928c 100644
 --- a/service-system/cluster-services/pages/supabase-realtime/supabase-realtime.cluster-service.ts
 +++ b/service-system/cluster-services/pages/supabase-realtime/supabase-realtime.cluster-service.ts
-@@ -11,6 +11,9 @@ export const supabaseRealtime = {
+@@ -11,6 +11,5 @@ export const supabaseRealtime = {
    image: "supabase/realtime:v2.86.3",
    replicas: 1,
    containerPort: 4000,
 -  manifestCode:
 -    "service-system/cluster-services/pages/supabase-realtime/supabase-realtime.cluster-service.code.attachment.ts",
-+<<<<<<< what this change would leave
 +  manifestSlug: "supabase-realtime",
-+=======
-+  manifestCode: "infrastructure/databases/supabase-realtime/supabase-realtime.manifest.code.ts",
-+>>>>>>> what HEAD holds
  } as const satisfies ClusterService
