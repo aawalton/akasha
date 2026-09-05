@@ -17,7 +17,7 @@ export const version = {
     },
     {
       invariantKind: "departure",
-      statement: "Writing it as a number would flatten `1.0` to `1`.",
+      statement: "Writing a version as a number would flatten `1.0` to `1`.",
     },
   ],
 } as const satisfies TextProperty
