@@ -1,5 +1,5 @@
 diff --git a/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.code.ts b/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.code.ts
-index 30c24c8c54c2d71a6c84f972fc746351f789c342..d1d49ba4f6f8445429df9d44fbc0e872e7bf7b03 100644
+index 30c24c8c54c2d71a6c84f972fc746351f789c342..4c74b02063d13fc3c43cf093d72a07f8e237db2d 100644
 --- a/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.code.ts
 +++ b/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.code.ts
 @@ -32,8 +32,8 @@ function numberOf(value: unknown): number | null {
@@ -13,7 +13,7 @@ index 30c24c8c54c2d71a6c84f972fc746351f789c342..d1d49ba4f6f8445429df9d44fbc0e872
    return held === null || count < held ? count : null
  }
  
-@@ -136,9 +136,9 @@ function encoded(body: string): Uint8Array {
+@@ -136,16 +136,16 @@ function encoded(body: string): Uint8Array {
  }
  
  function stoodAs(root: string, at: string, body: string, slug: string): undefined {
@@ -25,6 +25,14 @@ index 30c24c8c54c2d71a6c84f972fc746351f789c342..d1d49ba4f6f8445429df9d44fbc0e872
    } catch (thrown) {
      throw new Error(
        `the landing of \`${slug}\` reported no fault and ${at} cannot be read back, so nothing says ` +
+         `the entry was written: ${thrown instanceof Error ? thrown.message : String(thrown)}`
+     )
+   }
+-  if (stood !== body) {
++  if (onDisk !== body) {
+     throw new Error(
+       `the landing of \`${slug}\` reported no fault and ${at} does not hold what it was handed, so ` +
+         `the entry on disk is not the entry this tick wrote`
 diff --git a/alan/harness/inboxes/email-rules/email-rule-agents/pages/ki-invitations.email-rule-agent.ts b/alan/harness/inboxes/email-rules/email-rule-agents/pages/ki-invitations.email-rule-agent.ts
 index 70711102fb397064f4431ae84fea6c327fc37e47..0a22601929bd8bbd8a24b7de66e0a5a5296b2db5 100644
 --- a/alan/harness/inboxes/email-rules/email-rule-agents/pages/ki-invitations.email-rule-agent.ts
