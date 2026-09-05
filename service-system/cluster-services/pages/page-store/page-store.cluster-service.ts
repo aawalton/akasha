@@ -11,8 +11,7 @@ export const pageStore = {
   image: "alpine/socat:1.8.0.3",
   replicas: 1,
   containerPort: 8787,
-  manifestCode:
-    "service-system/cluster-services/pages/page-store/page-store.cluster-service.code.attachment.ts",
+  manifestSlug: "page-store",
   invariants: [
     {
       invariantKind: "departure",
