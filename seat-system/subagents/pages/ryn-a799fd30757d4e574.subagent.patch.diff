@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/domains/properties/aids.text-property.ts b/domains/properties/aids.text-property.ts
+index 8e4fb6ae51f50a4f7b8a66a78593bf7c8c2326b5..819e4d3641ca0a4b44df8e2591c733010bbbdeaf 100644
+--- a/domains/properties/aids.text-property.ts
++++ b/domains/properties/aids.text-property.ts
+@@ -15,7 +15,7 @@ export const aids = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "An aid runs to what an act or a warrant runs to.",
++      statement: "An aid runs to the same length as an act or a warrant.",
+     },
+   ],
+ } as const satisfies TextProperty
