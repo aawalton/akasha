@@ -1,5 +1,5 @@
 diff --git a/google/email/commands/email-command-reading/email-command-reading.module.ts b/google/email/commands/email-command-reading/email-command-reading.module.ts
-index 6662f18d6aafeae346bd349a873894020521f9de..9f868ce8f6729b5cd8e5988b2db51dcf91f7961e 100644
+index 6662f18d6aafeae346bd349a873894020521f9de..6e3aa04cee03466ee9a937708b3e05a67b03be4f 100644
 --- a/google/email/commands/email-command-reading/email-command-reading.module.ts
 +++ b/google/email/commands/email-command-reading/email-command-reading.module.ts
 @@ -22,7 +22,7 @@ export const emailCommandReading = {
@@ -20,12 +20,18 @@ index 6662f18d6aafeae346bd349a873894020521f9de..9f868ce8f6729b5cd8e5988b2db51dcf
      },
      {
        invariantKind: "departure",
-@@ -47,7 +47,7 @@ export const emailCommandReading = {
+@@ -47,11 +47,12 @@ export const emailCommandReading = {
      },
      {
        invariantKind: "departure",
 -      statement: "One call reads the input once, so two flags naming it are refused.",
 +      statement: "One call reads the input once, so two flags naming that input are refused.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Text read whole keeps its line endings and text read as a line loses them.",
++      statement:
++        "Text read whole keeps its line endings and text read as a line loses those line endings.",
      },
      {
        invariantKind: "departure",
