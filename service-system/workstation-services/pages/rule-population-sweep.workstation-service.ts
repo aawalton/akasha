@@ -5,9 +5,7 @@ export const rulePopulationSweep = {
   pageTypeSlug: "workstation-service",
   slug: "rule-population-sweep",
   definition: "the service reading what every enforcement rule weighed and filing it for `dalla`",
-  runs: [
-    "bun rule-population/rule-population-sweeping/rule-population-sweeping.module.code.ts",
-  ],
+  runs: ["bun rule-population/rule-population-sweeping/rule-population-sweeping.module.code.ts"],
   enabled: true,
   systemd: {
     schedule: "*-*-* 09:53:00",
@@ -31,7 +29,7 @@ export const rulePopulationSweep = {
     },
     {
       invariantKind: "departure",
-      statement: "No graph cache is read, so the population is the checkout as it now stands.",
+      statement: "No graph cache is read, so the population is the checkout as it now is.",
     },
   ],
 } as const satisfies WorkstationService

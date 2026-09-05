@@ -17,7 +17,7 @@ export const surplusFallNotifier = {
     },
     {
       invariantKind: "departure",
-      statement: "Every rung between where the day opened and where it stands is claimed.",
+      statement: "Every rung between where the day opened and where it is now is claimed.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,7 @@ export const surplusFallNotifier = {
     {
       invariantKind: "stopgap",
       statement:
-        "The exit status that must prevent a restart stands nowhere the unit is written from.",
+        "The exit status that must prevent a restart exists nowhere the unit is written from.",
     },
     {
       invariantKind: "gap",

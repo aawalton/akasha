@@ -4,7 +4,7 @@ export const sweepPageAnswers = {
   id: "019ffe91-4c22-7a30-b5f1-6d3a7c4e8b02",
   pageTypeSlug: "workstation-service",
   slug: "sweep-page-answers",
-  definition: "the service taking away a kept page answer once it has stood for a day",
+  definition: "the service taking away a kept page answer once it has been there a day",
   runs: ["bun pages/answer-sweeping/page-answer-sweeping.module.code.ts"],
   enabled: true,
   systemd: {
@@ -16,12 +16,12 @@ export const sweepPageAnswers = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Answers from different states stand together, so no writing path takes an old one.",
+      statement: "Answers from different states sit together, so no writing path takes an old one.",
     },
     {
       invariantKind: "departure",
-      statement: "How long an answer has stood is read from the file rather than from the state.",
+      statement:
+        "How long an answer has been there is read from the file rather than from the state.",
     },
     {
       invariantKind: "departure",

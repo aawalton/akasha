@@ -23,8 +23,7 @@ export const apnsPushNotifier = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A start begins at the newest notification standing rather than at the feed's head.",
+      statement: "A start begins at the newest notification there rather than at the feed's head.",
     },
     {
       invariantKind: "departure",
