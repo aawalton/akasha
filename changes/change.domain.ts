@@ -59,7 +59,7 @@ export const change = {
     {
       directiveKind: "rule",
       name: "Mechanical By Command",
-      act: "Use the command for a move, a rename, a replace or a removal rather than editing by hand.",
+      act: "Use the command for a move, a remove, a refactor or a replace rather than editing by hand.",
       warrant:
         "A command changes every place at once, and by hand you reach only the places you saw.",
       aids: [
