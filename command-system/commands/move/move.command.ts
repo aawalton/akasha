@@ -247,7 +247,7 @@ export const move = {
     },
     {
       invariantKind: "departure",
-      statement: "An index that cannot answer what imports a path refuses the move.",
+      statement: "An index that cannot name the files importing a path refuses the move.",
     },
     {
       invariantKind: "constraint",
