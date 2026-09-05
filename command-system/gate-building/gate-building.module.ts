@@ -92,7 +92,7 @@ export const gateBuilding = {
     },
     {
       invariantKind: "absence",
-      statement: "This module is never told whether it ran.",
+      statement: "This module is never told whether the gate ran.",
     },
     {
       invariantKind: "gap",
