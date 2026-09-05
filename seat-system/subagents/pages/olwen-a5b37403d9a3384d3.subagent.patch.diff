@@ -1,0 +1,20 @@
+diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
+index c01a98711d9dc20a0ad592f81708e94b0abd2d62..8af453651f0aed29a08fd5dab6ee24dbf407b1cd 100644
+--- a/command-system/asking/asking.module.code.ts
++++ b/command-system/asking/asking.module.code.ts
+@@ -60,6 +60,7 @@ export type Asked = {
+   readonly read?: string | null
+   readonly carries?: readonly FileCarry[]
+   readonly draft?: boolean
++  readonly reaching?: () => undefined
+ }
+ 
+ export type Trouble = {
+@@ -363,6 +364,7 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer>
+   if ("broken" in built && bypass === null) return unloadable(built.broken)
+   const broken = "broken" in built ? built.broken : null
+   const gate = gateFor(held, bypass === null && "gate" in built ? built.gate : NO_GATE)
++  held.reaching?.()
+   if (held.dryRun) return await reporting(given.root, held, gate, aside)
+   const message = messageWith(held, bypass, broken)
+   const asRead = asReadIn(given, formatting.changes)
