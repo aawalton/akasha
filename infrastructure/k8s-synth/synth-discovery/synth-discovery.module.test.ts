@@ -25,10 +25,9 @@ const SERVICES: readonly (readonly [string, string | null])[] = [
   ["alpha/five/five.cluster-service.ts", "no-such-manifest"],
 ]
 
-const ATTACHMENTS: readonly string[] = [
-  "alpha/one.cluster-service.code.attachment.ts",
-  "beta/two.cluster-service.code.attachment.ts",
-  "beta/src/three.cluster-service.code.attachment.ts",
+const GLOBBED: readonly string[] = [
+  "infrastructure/cluster-manifests/one-synth/one-synth.module.code.ts",
+  "infrastructure/upscale/two-synth/two-synth.module.code.ts",
 ]
 
 let root = ""
@@ -49,7 +48,7 @@ function found(pkgFilter?: string): readonly string[] {
 
 beforeAll(() => {
   root = mkdtempSync(join(tmpdir(), "synth-discovery-"))
-  for (const rel of ATTACHMENTS) put(rel, "export default () => []\n")
+  for (const rel of GLOBBED) put(rel, "export default () => []\n")
   for (const [path] of MANIFESTS)
     put(path.replace(/\.ts$/, ".code.ts"), "export default () => []\n")
   filed(
@@ -78,20 +77,16 @@ test("the code file of the manifest a cluster service is applied as is found", (
 })
 
 test("a file the globs match is found still", () => {
-  expect(found()).toContain("alpha/one.cluster-service.code.attachment.ts")
-  expect(found()).toContain("beta/two.cluster-service.code.attachment.ts")
+  expect(found()).toContain("infrastructure/cluster-manifests/one-synth/one-synth.module.code.ts")
+  expect(found()).toContain("infrastructure/upscale/two-synth/two-synth.module.code.ts")
 })
 
-test("a path reached through a `src` folder is left out of both sources", () => {
+test("a path reached through a `src` folder is left out", () => {
   expect(found()).not.toContain("alpha/src/hidden/hidden.manifest.code.ts")
-  expect(found()).not.toContain("beta/src/three.cluster-service.code.attachment.ts")
 })
 
-test("a package filter narrows both sources", () => {
-  expect(found("alpha")).toEqual([
-    "alpha/gamma/gamma.manifest.code.ts",
-    "alpha/one.cluster-service.code.attachment.ts",
-  ])
+test("a package filter narrows the answer", () => {
+  expect(found("alpha")).toEqual(["alpha/gamma/gamma.manifest.code.ts"])
 })
 
 test("a manifest no cluster service is applied as is left out", () => {
@@ -119,6 +114,8 @@ test("a manifest code path reads as a synth path", () => {
 })
 
 test("a glob path reads as a synth path still", () => {
-  expect(isSynthPath("alpha/one.cluster-service.code.attachment.ts")).toBe(true)
-  expect(isSynthPath("beta/src/three.cluster-service.code.attachment.ts")).toBe(false)
+  expect(isSynthPath("infrastructure/cluster-manifests/one-synth/one-synth.module.code.ts")).toBe(
+    true
+  )
+  expect(isSynthPath("infrastructure/cluster-manifests/one-synth/one-synth.module.ts")).toBe(false)
 })

@@ -2,7 +2,6 @@ import { isAbsolute, join, relative } from "node:path"
 import { valuesOfType } from "@akasha/indexes"
 
 export const DISCOVERY_GLOBS: readonly string[] = [
-  "**/*.cluster-service.code.attachment.ts",
   "infrastructure/cluster-manifests/*-synth/*-synth.module.code.ts",
   "infrastructure/upscale/*-synth/*-synth.module.code.ts",
 ]
