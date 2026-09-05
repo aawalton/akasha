@@ -19,7 +19,7 @@ export const mountainWall = {
     },
     {
       invariantKind: "departure",
-      statement: "A timestamp closing in Z or in an offset is the instant it states.",
+      statement: "A timestamp closing in Z or in an offset is the instant that timestamp states.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +48,8 @@ export const mountainWall = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading is looked for from one hour after now back as far as it repeats in.",
+      statement:
+        "A reading is looked for from one hour after now back as far as that reading repeats in.",
     },
     {
       invariantKind: "departure",
