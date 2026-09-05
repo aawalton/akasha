@@ -13,7 +13,7 @@ export const authoring = {
     },
     {
       invariantKind: "departure",
-      statement: "What is kept here is kept about a book rather than inside the book.",
+      statement: "Every page kept here is kept about a book rather than inside the book.",
     },
     {
       invariantKind: "departure",
