@@ -11,12 +11,12 @@ export const supervisorUncertainWaitDecide = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat no longer blocked forgets how long it was blocked for.",
+      statement: "A seat no longer blocked forgets how long that seat was blocked for.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A block is timed from the first tick that read it rather than from the seat's start.",
+        "A block is timed from the first tick that read that block rather than from the seat's start.",
     },
     {
       invariantKind: "departure",
