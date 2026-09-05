@@ -191,3 +191,26 @@ index a9a475dd6d7d0f5fd68e930091e36429e06fc593..f9f8580615aa2e90761f141d15ada0e5
 +  removeUncommitted(root, relPath)
    return { kind: "taken" }
  }
+diff --git a/seat-system/messaging/message-file/message-file.module.ts b/seat-system/messaging/message-file/message-file.module.ts
+index 7c30b13b11c96da048f5c6576a71ed6257344dc7..a481a261b1a591d0c3bff61dfeae0fad73303139 100644
+--- a/seat-system/messaging/message-file/message-file.module.ts
++++ b/seat-system/messaging/message-file/message-file.module.ts
+@@ -23,18 +23,6 @@ export const messageFile = {
+       invariantKind: "departure",
+       statement: "A message is written to the page store alone.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "The old markdown store is read still and written never.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A message waiting in the old markdown store is delivered as it always was.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The old markdown store goes once the old markdown store holds no message.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A message addressed to no seat the seat index knows is refused.",
