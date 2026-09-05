@@ -1,5 +1,5 @@
 diff --git a/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts b/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts
-index c0316ff98eb29c5838fd022bbdd416251c7f3651..85196a34a273248917c520bc376923a5472d842c 100644
+index c0316ff98eb29c5838fd022bbdd416251c7f3651..0ebdcbe3a1036212c2dca3791920d57f4402a84e 100644
 --- a/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts
 +++ b/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts
 @@ -29,7 +29,7 @@ export const royalRoadSyncing = {
@@ -26,6 +26,15 @@ index c0316ff98eb29c5838fd022bbdd416251c7f3651..85196a34a273248917c520bc376923a5
        statement:
 -        "A chapter names the story it is part of by page type and slug rather than by slug alone.",
 +        "A chapter names the story that chapter is part of by page type and slug rather than by slug alone.",
+     },
+     {
+       invariantKind: "departure",
+@@ -67,7 +67,7 @@ export const royalRoadSyncing = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What is composed is shown rather than landed unless the run was asked to commit it.",
++        "What is composed is shown rather than landed unless the run was asked to commit what is composed.",
      },
      {
        invariantKind: "departure",
