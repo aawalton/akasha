@@ -24,8 +24,7 @@ export const monarchRuleAmounts = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A clause naming an amount of zero is refused, because no transaction this project writes carries one and the clause would read as a merchant that has stopped coming.",
+      statement: "A clause naming an amount of zero is refused.",
     },
     {
       invariantKind: "departure",
@@ -41,8 +40,7 @@ export const monarchRuleAmounts = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An inclusion is said with `or` and an exclusion with `and`, because excluding several excludes every one.",
+      statement: "An inclusion is said with `or` and an exclusion with `and`.",
     },
   ],
 } as const satisfies Module
