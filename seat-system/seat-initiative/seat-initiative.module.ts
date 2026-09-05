@@ -17,7 +17,8 @@ export const seatInitiative = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat's initiative is the assignment it states, addressed as an initiative.",
+      statement:
+        "A seat's initiative is the assignment that seat states, addressed as an initiative.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +30,7 @@ export const seatInitiative = {
     },
     {
       invariantKind: "departure",
-      statement: "A place is answered only where the file it names is there.",
+      statement: "A place is answered only where the file that place names is there.",
     },
   ],
 } as const satisfies Module
