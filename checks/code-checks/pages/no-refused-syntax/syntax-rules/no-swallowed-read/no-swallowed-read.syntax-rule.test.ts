@@ -34,19 +34,19 @@ test("a read whose failure falls out of the catch is refused", () => {
   expect(found[0]?.reason).toContain("rounds up to clean")
 })
 
-test("a catch that throws stands", () => {
+test("a catch that throws is left", () => {
   const body =
     "function one(l: Change) { try { return readFileSync(l.root) } catch (why) { throw why } }\n"
   expect(walking(body)).toEqual([])
 })
 
-test("a catch calling `process.exit` stands", () => {
+test("a catch calling `process.exit` is left", () => {
   const body =
     "function one(l: Change) { try { return readFileSync(l.root) } catch { process.exit(1) } }\n"
   expect(walking(body)).toEqual([])
 })
 
-test("a catch calling a function typed `never` stands", () => {
+test("a catch calling a function typed `never` is left", () => {
   const body =
     "function gone(why: string): never { throw new Error(why) }\n" +
     'function one(l: Change) { try { return readFileSync(l.root) } catch { gone("no") } }\n'
@@ -91,7 +91,7 @@ test("a decoder is no read, the bytes having already arrived", () => {
   expect(walking(body)).toEqual([])
 })
 
-test("a catch carrying what it caught stands", () => {
+test("a catch carrying what it caught is left", () => {
   const body =
     "function why(t: unknown) { return String(t) }\n" +
     "function one(l: Change) { try { return readFileSync(l.root) } catch (t) { return { broken: why(t) } } }\n"

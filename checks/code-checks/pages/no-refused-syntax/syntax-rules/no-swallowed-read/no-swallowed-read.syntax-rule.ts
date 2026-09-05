@@ -48,19 +48,19 @@ export const noSwallowedRead = {
     },
     {
       invariantKind: "departure",
-      statement: "The read stands in the try itself or through a function beside it.",
+      statement: "The read sits in the try itself or through a function beside it.",
     },
     {
       invariantKind: "departure",
-      statement: "A catch that throws stands.",
+      statement: "A catch that throws is left.",
     },
     {
       invariantKind: "departure",
-      statement: "A catch that calls `process.exit` stands.",
+      statement: "A catch that calls `process.exit` is left.",
     },
     {
       invariantKind: "departure",
-      statement: "A catch that calls a function typed `never` stands.",
+      statement: "A catch that calls a function typed `never` is left.",
     },
     {
       invariantKind: "departure",
