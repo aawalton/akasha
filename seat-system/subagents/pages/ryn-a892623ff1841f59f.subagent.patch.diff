@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/alan/library/watching/watching.domain.ts b/alan/library/watching/watching.domain.ts
-index 8b332f6bbf46e4b1b5b436a0ab802bebc9545ff2..22493471dfc1d75de06d2ee0d9ce73664870e4e1 100644
+index 8b332f6bbf46e4b1b5b436a0ab802bebc9545ff2..d83e16e6407f3e1c2b759c741744d0a6d448428c 100644
 --- a/alan/library/watching/watching.domain.ts
 +++ b/alan/library/watching/watching.domain.ts
-@@ -43,7 +43,7 @@ export const watching = {
+@@ -43,11 +43,12 @@ export const watching = {
      },
      {
        invariantKind: "departure",
@@ -12,3 +12,9 @@ index 8b332f6bbf46e4b1b5b436a0ab802bebc9545ff2..22493471dfc1d75de06d2ee0d9ce7366
      },
      {
        invariantKind: "gap",
+-      statement: "Nothing here records that Alan watched any of what this domain holds.",
++      statement:
++        "Nothing here records that Alan watched any of the shows and films this domain holds.",
+     },
+   ],
+ } as const satisfies Domain
