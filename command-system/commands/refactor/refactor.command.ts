@@ -233,7 +233,7 @@ export const refactor = {
     {
       invariantKind: "departure",
       statement:
-        "Which files outside that folder name a renamed package is answered by searching what git tracks.",
+        "Which files outside that folder name a renamed package is answered by searching git's tracked files.",
     },
     {
       invariantKind: "absence",
