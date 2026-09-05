@@ -1,3 +1,21 @@
+diff --git a/seat-system/messaging/message-reach-write/message-reach-write.module.code.ts b/seat-system/messaging/message-reach-write/message-reach-write.module.code.ts
+index b8728d4fc691f3bb0ae2f5c402ca25bb68a35db8..d5f80045ca977bccc0a9d53f569ec3d2990de8e3 100644
+--- a/seat-system/messaging/message-reach-write/message-reach-write.module.code.ts
++++ b/seat-system/messaging/message-reach-write/message-reach-write.module.code.ts
+@@ -78,10 +78,9 @@ export async function reaching(
+ export async function revived(reached: Reaching, relPath: string): Promise<string | null> {
+   if (reached.kind !== "reached" || reached.at.reviveId === null) return null
+   const woke = await resumeSeat(reached.at.reviveId)
+-  if (woke.code === 0) return null
+-  const detail = (woke.stderr.trim() !== "" ? woke.stderr : woke.stdout).trim()
++  if (woke.kind === "woke") return null
+   return (
+-    `the message is at ${relPath} and reviving ${reached.at.reviveId} to read it exited ` +
+-    `${woke.code}: ${detail.slice(0, DETAIL)}`
++    `the message is at ${relPath} and reviving ${reached.at.reviveId} to read it did not ` +
++    `land: ${woke.reason.slice(0, DETAIL)}`
+   )
+ }
 diff --git a/seat-system/messaging/message-to-start/message-to-start.module.code.ts b/seat-system/messaging/message-to-start/message-to-start.module.code.ts
 index 537e57aaaa3b0dd5dfb6b4273abfcaea5a09367a..df5b83a3101011a4f7908eda53781742c61275b4 100644
 --- a/seat-system/messaging/message-to-start/message-to-start.module.code.ts
