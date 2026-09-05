@@ -1,0 +1,13 @@
+diff --git a/idle-system/idle-saves/idle-save.page-type.ts b/idle-system/idle-saves/idle-save.page-type.ts
+index b7a2a59c2623360aed895888257dd93788b68d3e..1f24e3d859a823fe5f47b0534ef7f500a00300f7 100644
+--- a/idle-system/idle-saves/idle-save.page-type.ts
++++ b/idle-system/idle-saves/idle-save.page-type.ts
+@@ -17,7 +17,7 @@ export const idleSave = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A write replaces the whole save rather than amending part of it.",
++      statement: "A write replaces the whole save rather than amending part of that save.",
+     },
+     {
+       invariantKind: "departure",
