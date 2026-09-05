@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-eso-types/eso-main-menu-bar/eso-main-menu-bar.type-declaration.ts b/temper/temper-eso-types/eso-main-menu-bar/eso-main-menu-bar.type-declaration.ts
+index ff0278aecf81a0a445f26844a3c4a85fb92e858f..ded3e3720e05f1ec98efdb79a0b3e2fa67078347 100644
+--- a/temper/temper-eso-types/eso-main-menu-bar/eso-main-menu-bar.type-declaration.ts
++++ b/temper/temper-eso-types/eso-main-menu-bar/eso-main-menu-bar.type-declaration.ts
+@@ -14,7 +14,7 @@ export const esoMainMenuBar = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A method takes an explicit `this` parameter so the built Lua calls it with a colon.",
++        "A method takes an explicit `this` parameter so the built Lua calls that method with a colon.",
+     },
+     {
+       invariantKind: "departure",
