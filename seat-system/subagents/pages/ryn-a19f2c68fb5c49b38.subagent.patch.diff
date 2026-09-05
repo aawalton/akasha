@@ -81,3 +81,30 @@ index de7727d60e971ea097ff796d69f17754231f1b9c..cfb6c12e1af7d53ea1c76985c103bdc7
      },
      {
        invariantKind: "departure",
+diff --git a/errors-client/global-error-capture/global-error-capture.module.ts b/errors-client/global-error-capture/global-error-capture.module.ts
+index 36ce55dba08a5ac6b723bac1f1a22b32fd98d7c1..1fa8d5632ad34242030fca276d9e500bc3be7fdb 100644
+--- a/errors-client/global-error-capture/global-error-capture.module.ts
++++ b/errors-client/global-error-capture/global-error-capture.module.ts
+@@ -9,7 +9,7 @@ export const globalErrorCapture = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The handlers are installed once however often this is called.",
++      statement: "The handlers are installed once however often this module is called.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/hook-system/agent-hooks/block-biome/block-biome.agent-hook.ts b/hook-system/agent-hooks/block-biome/block-biome.agent-hook.ts
+index 220ad7d614b4efbb5bef00451aa299935ca45758..8fcf2c91665dc0c20bf3f10d97864a02e5a172c5 100644
+--- a/hook-system/agent-hooks/block-biome/block-biome.agent-hook.ts
++++ b/hook-system/agent-hooks/block-biome/block-biome.agent-hook.ts
+@@ -28,7 +28,8 @@ export const blockBiome = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A prefix that only runs the call behind it does not hide a biome call from this.",
++      statement:
++        "A prefix that only runs the call behind it does not hide a biome call from this hook.",
+     },
+     {
+       invariantKind: "absence",
