@@ -29,9 +29,5 @@ export const storyPlayed = {
       invariantKind: "departure",
       statement: "A story played was made in play rather than written before the play.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A story names the world the story is of.",
-    },
   ],
 } as const satisfies PageType
