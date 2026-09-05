@@ -27,7 +27,7 @@ export const chainRefusal = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what a call is or why a call would be refused.",
+      statement: "Nothing here defines a call or a reason to refuse a call.",
     },
     {
       invariantKind: "absence",
