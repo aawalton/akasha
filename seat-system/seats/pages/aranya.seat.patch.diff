@@ -1511,3 +1511,11 @@ index fe15fd4e249e89ba0060baa4bda9ffdcc9d2e692..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-selector-addon
 \ No newline at end of file
+diff --git a/temper/temper-settings-panel/temper-settings-panel b/temper/temper-settings-panel/temper-settings-panel
+deleted file mode 120000
+index fdcda856f1e5ed429cba749d101430a350d4058a..0000000000000000000000000000000000000000
+--- a/temper/temper-settings-panel/temper-settings-panel
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-settings-panel
+\ No newline at end of file
