@@ -17,7 +17,7 @@ export const inboxes = {
     },
     {
       invariantKind: "departure",
-      statement: "What any other reading colors to is stated by that reading's own scale.",
+      statement: "The color any other reading takes is stated by that reading's own scale.",
     },
   ],
 } as const satisfies ReadoutGroup
