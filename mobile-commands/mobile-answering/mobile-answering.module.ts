@@ -25,11 +25,11 @@ export const mobileAnswering = {
     },
     {
       invariantKind: "departure",
-      statement: "A bare word stands for the flag a command says it stands for.",
+      statement: "A bare word represents the flag a command says it represents.",
     },
     {
       invariantKind: "departure",
-      statement: "A bare word is refused where the flag it stands for was also named.",
+      statement: "A bare word is refused where the flag it represents was also named.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +42,7 @@ export const mobileAnswering = {
     {
       invariantKind: "departure",
       statement:
-        "A command driving the simulator attaches to the session already standing rather than opening one.",
+        "A command driving the simulator attaches to the session already there rather than opening one.",
     },
     {
       invariantKind: "departure",

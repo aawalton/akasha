@@ -4,12 +4,12 @@ export const mobileSimStatus = {
   id: "01a0685d-ceae-700c-9489-e7e3a1062803",
   pageTypeSlug: "command",
   slug: "mobile-sim-status",
-  definition: "the command saying what the simulator session standing is",
+  definition: "the command saying what simulator session is there",
   code: "ts",
   changeKindSlug: "change-none",
   taking: [],
   helpNotes: [
-    "no session standing is an answer rather than a refusal, and it says which calls would start one.",
+    "no session there is an answer rather than a refusal, and it says which calls would start one.",
     "the session is asked whether it is live rather than believed from what is written down.",
     "a session written down that Appium no longer holds is said to be dead rather than repaired here.",
     "the age is measured from when the session was opened against the moment this was called.",
@@ -17,7 +17,7 @@ export const mobileSimStatus = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "No session standing is answered rather than refused.",
+      statement: "No session there is answered rather than refused.",
     },
     {
       invariantKind: "departure",

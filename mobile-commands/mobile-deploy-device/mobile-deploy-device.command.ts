@@ -16,14 +16,15 @@ export const mobileDeployDevice = {
     { said: "--configuration <name>", takes: "the Xcode configuration, Debug where none is said" },
     {
       said: "--no-sync",
-      takes: "build without syncing the native seam first, which is faster and reuses what stands",
+      takes:
+        "build without syncing the native seam first, which is faster and reuses what is there",
     },
   ],
   helpNotes: [
     "this is the path onto a phone that is plugged into the mac, and TestFlight is the path onto every other phone.",
     "an app whose page names no phone is refused rather than installed to whichever phone is there.",
     "the mac checks out origin/main before it builds, so the install carries what is on main rather than what is here.",
-    "the sync runs by default so the build reflects the site and the config as they stand.",
+    "the sync runs by default so the build reflects the site and the config as they are.",
     "the signed app is checked to carry the app's bundle id and the app's team before it is installed.",
     "nothing is said until the build has finished, because a command prints nothing itself.",
     "the mac's login keychain is unlocked from `MACBOOK_KEYCHAIN_PASSWORD`, and a call without it is refused.",
@@ -43,7 +44,7 @@ export const mobileDeployDevice = {
     },
     {
       invariantKind: "departure",
-      statement: "The commit built is origin/main rather than what this checkout stands at.",
+      statement: "The commit built is origin/main rather than what this checkout is at.",
     },
     {
       invariantKind: "departure",

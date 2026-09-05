@@ -9,14 +9,14 @@ export const mobileSimEval = {
   code: "ts",
   changeKindSlug: "change-none",
   taking: [
-    { said: "<js>", takes: "the script to run, standing for `--script`" },
+    { said: "<js>", takes: "the script to run, representing `--script`" },
     { said: "--script <js>", takes: "the script to run, which returns what is to come back" },
     { said: "--script -", takes: "the script to run, read from what is piped in" },
   ],
   helpNotes: [
     "the script has to `return` what is wanted, since a script returning nothing comes back as nothing.",
     "a script too long to sit on a call is piped in and named `-`, and the bare word cannot say that.",
-    "the session already standing is what this runs in, so `mobile sim open-url` comes first.",
+    "the session already there is what this runs in, so `mobile sim open-url` comes first.",
     "the webview is attached to before the script runs, so a session sitting in the native context still answers.",
     "what comes back is given as JSON, whatever shape it is.",
     "this is how a reading a page only shows on screen is taken, the keyboard-geometry counters among them.",
@@ -24,7 +24,7 @@ export const mobileSimEval = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A script runs in the session already standing rather than in one opened here.",
+      statement: "A script runs in the session already there rather than in one opened here.",
     },
     {
       invariantKind: "departure",

@@ -40,7 +40,7 @@ async function stated(): Promise<Answer> {
   const state = loadSessionState()
   if (state === null) {
     return told([
-      `none\tno session stands, since ${SIM_SESSION_PATH} is absent`,
+      `none\tno session is there, since ${SIM_SESSION_PATH} is absent`,
       "start one with `mobile sim boot` and then `mobile sim open-url`",
     ])
   }

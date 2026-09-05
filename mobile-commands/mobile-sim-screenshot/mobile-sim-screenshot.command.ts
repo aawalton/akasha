@@ -16,15 +16,14 @@ export const mobileSimScreenshot = {
   ],
   helpNotes: [
     "the path is answered so that whatever called this can read the picture itself.",
-    "the session already standing is what is pictured, so `mobile sim open-url` comes first.",
+    "the session already there is what is pictured, so `mobile sim open-url` comes first.",
     "the picture is of the whole screen rather than of the webview alone.",
-    "a path said is taken as it stands, and a folder that is not there is not made here.",
+    "a path said is taken as it is, and a folder that is not there is not made here.",
   ],
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A picture is taken of the session already standing rather than of one opened here.",
+      statement: "A picture is taken of the session already there rather than of one opened here.",
     },
     {
       invariantKind: "departure",

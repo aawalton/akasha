@@ -39,7 +39,7 @@ export const mobileCommands = {
     {
       invariantKind: "departure",
       statement:
-        "One simulator session stands at a time, and a command driving it attaches to that session rather than opening its own.",
+        "One simulator session is there at a time, and a command driving it attaches to that session rather than opening its own.",
     },
     {
       invariantKind: "gap",

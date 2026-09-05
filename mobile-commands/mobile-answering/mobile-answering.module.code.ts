@@ -80,7 +80,7 @@ export function standingFor(said: Said, flag: string): Reading<Said> {
       .map((one) => `\`${one}\``)
       .join(", ")
     return {
-      refused: [`this takes one bare word standing for \`${flag}\`, and ${extra} followed it`],
+      refused: [`this takes one bare word representing \`${flag}\`, and ${extra} followed it`],
     }
   }
   const bare = said.loose[0]

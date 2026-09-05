@@ -9,7 +9,7 @@ export const mobileSimPushTap = {
   code: "ts",
   changeKindSlug: "change-none",
   taking: [
-    { said: "<path>", takes: "the route the push carries, standing for `--route`" },
+    { said: "<path>", takes: "the route the push carries, representing `--route`" },
     { said: "--route <path>", takes: "the route the push carries, such as a question's own path" },
     { said: "--app <slug>", takes: "the app the push is for, the default app where none is said" },
     {

@@ -31,7 +31,7 @@ async function tornDown(read: Read): Promise<Answer> {
   const report: string[] = []
   const state = loadSessionState()
   if (state === null) {
-    report.push("no session stood, so none was ended")
+    report.push("no session was there, so none was ended")
   } else {
     try {
       await deleteSession(state.appiumBase, state.sessionId)

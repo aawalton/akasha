@@ -4,7 +4,7 @@ export const mobileSimTeardown = {
   id: "01a0685d-ceae-700e-bb0c-c5b113d526fd",
   pageTypeSlug: "command",
   slug: "mobile-sim-teardown",
-  definition: "the command ending the simulator session standing",
+  definition: "the command ending the simulator session that is there",
   code: "ts",
   changeKindSlug: "change-none",
   taking: [
@@ -13,7 +13,7 @@ export const mobileSimTeardown = {
   helpNotes: [
     "the Appium server is left running by default, since something driving the simulator by hand may be using it.",
     "a session Appium has already dropped is forgotten here rather than treated as a failure.",
-    "no session standing is nothing to end rather than a refusal.",
+    "no session there is nothing to end rather than a refusal.",
     "the simulator itself is left booted, and `mobile sim boot` finds it again.",
   ],
   invariants: [

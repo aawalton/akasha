@@ -4,11 +4,11 @@ export const mobileSimOpenUrl = {
   id: "01a0685d-ceae-7009-892c-425eee9c835b",
   pageTypeSlug: "command",
   slug: "mobile-sim-open-url",
-  definition: "the command opening a route in the simulator and leaving a session standing at it",
+  definition: "the command opening a route in the simulator and leaving a session at it",
   code: "ts",
   changeKindSlug: "change-none",
   taking: [
-    { said: "<path>", takes: "the route to open, standing for `--route`" },
+    { said: "<path>", takes: "the route to open, representing `--route`" },
     { said: "--route <path>", takes: "the route to open, such as `/home` or a page's own path" },
     { said: "--app <slug>", takes: "the app to open it in, the default app where none is said" },
     { said: "--kb-debug", takes: "mount the keyboard-geometry readout over the block editor" },
@@ -23,8 +23,8 @@ export const mobileSimOpenUrl = {
     },
   ],
   helpNotes: [
-    "this is what leaves a session standing, and every driving command after it attaches to that session.",
-    "a session already standing on the same simulator is reused rather than replaced.",
+    "this is what leaves a session there, and every driving command after it attaches to that session.",
+    "a session already there on the same simulator is reused rather than replaced.",
     "signing in is done by putting a session in before the route is navigated to, rather than by typing into a form.",
     "the identity is a throwaway by default, since anything typed in the simulator is written as whoever is signed in.",
     "`--as-real-user` is for reading what Alan's own pages look like and nothing is to be changed through it.",
@@ -33,7 +33,7 @@ export const mobileSimOpenUrl = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A session already standing on the same simulator is reused.",
+      statement: "A session already there on the same simulator is reused.",
     },
     {
       invariantKind: "departure",
