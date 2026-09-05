@@ -19,7 +19,7 @@ export const pagesUiStore = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A write is shown before it lands and settled once it does.",
+      statement: "A write is shown before that write lands and settled once that write does.",
     },
     {
       invariantKind: "departure",
