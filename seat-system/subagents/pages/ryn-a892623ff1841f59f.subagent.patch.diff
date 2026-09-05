@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/context/modules/warranting/warranting.module.ts b/context/modules/warranting/warranting.module.ts
+index b85145f9f5e9b17a79cb88ee27dafac1a5269bae..58fa45cb9cdcac15fae0c4f47836555028d5b1c3 100644
+--- a/context/modules/warranting/warranting.module.ts
++++ b/context/modules/warranting/warranting.module.ts
+@@ -11,7 +11,7 @@ export const warranting = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Every path a change names is asked what the path warrants.",
++      statement: "Every path a change names is asked for the warrants that path carries.",
+     },
+     {
+       invariantKind: "departure",
