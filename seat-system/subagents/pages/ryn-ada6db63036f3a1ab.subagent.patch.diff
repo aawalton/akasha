@@ -1,5 +1,5 @@
 diff --git a/hook-system/agent-hooks/block-ops-cli/block-ops-cli.agent-hook.ts b/hook-system/agent-hooks/block-ops-cli/block-ops-cli.agent-hook.ts
-index ac8107bcd804325aae876eadd5b3415eeb8056da..741fdc441e4d48444baed4090dd878f4410283ae 100644
+index ac8107bcd804325aae876eadd5b3415eeb8056da..9be49974cc2aac2827a6ab1bb876fac9cdc1d21c 100644
 --- a/hook-system/agent-hooks/block-ops-cli/block-ops-cli.agent-hook.ts
 +++ b/hook-system/agent-hooks/block-ops-cli/block-ops-cli.agent-hook.ts
 @@ -12,7 +12,7 @@ export const blockOpsCli = {
@@ -21,3 +21,12 @@ index ac8107bcd804325aae876eadd5b3415eeb8056da..741fdc441e4d48444baed4090dd878f4
      },
      {
        invariantKind: "departure",
+@@ -40,7 +41,7 @@ export const blockOpsCli = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A word only holding the name inside it is no call to the CLI.",
++      statement: "A word only holding the name inside that word is no call to the CLI.",
+     },
+     {
+       invariantKind: "gap",
