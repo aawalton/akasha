@@ -19,7 +19,8 @@ export const supervisorArgs = {
     },
     {
       invariantKind: "departure",
-      statement: "A resume with a prompt is driven by the prompt rather than by what is inbound.",
+      statement:
+        "A resume with a prompt is driven by the prompt rather than by the inbound messages.",
     },
   ],
 } as const satisfies Module
