@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/monarch-holdings/properties/cost-basis.number-property.ts b/alan/harness/monarch/monarch-holdings/properties/cost-basis.number-property.ts
+index 9cad99cfcf037b94d175cc4d1e1d385a97bc7542..b2edce990c7b9d14fd5f01bd1e7fd3f9382e2dfc 100644
+--- a/alan/harness/monarch/monarch-holdings/properties/cost-basis.number-property.ts
++++ b/alan/harness/monarch/monarch-holdings/properties/cost-basis.number-property.ts
+@@ -12,7 +12,8 @@ export const costBasis = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A holding reports nothing paid where the account never told Monarch what was.",
++      statement:
++        "A holding reports nothing paid where the account never told Monarch the cost basis.",
+     },
+   ],
+ } as const satisfies NumberProperty
