@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/supabase-client/supabase-client.workspace-package.ts b/supabase-client/supabase-client.workspace-package.ts
+index 3147ec3a18bb5142279a9e7a247fb47942bbb1f3..3a2232580a18f57cd920355c12260f76b2ebd815 100644
+--- a/supabase-client/supabase-client.workspace-package.ts
++++ b/supabase-client/supabase-client.workspace-package.ts
+@@ -14,7 +14,7 @@ export const supabaseClient = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is made here reaches only what the signed-in person may reach.",
++      statement: "The client made here reaches only as far as the signed-in person may.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
