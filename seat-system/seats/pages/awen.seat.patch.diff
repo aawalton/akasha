@@ -75,7 +75,7 @@ index fec08f6e2f3caf541465c01a155627f1d3af63a7..1c47f785efc81292962c41328030fa46
 +  })
 +}
 diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
-index 7944ba0ada3fc1a23e25d8964b3df1aff81be4e4..a3a4f8d4448277d20d25c71085b53c95e4042194 100644
+index 7944ba0ada3fc1a23e25d8964b3df1aff81be4e4..fd5d7c1064481bee427558e4bcc373c8a57f10b0 100644
 --- a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 +++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 @@ -5,7 +5,9 @@ import type { Change } from "@akasha/pages/change"
@@ -147,3 +147,17 @@ index 7944ba0ada3fc1a23e25d8964b3df1aff81be4e4..a3a4f8d4448277d20d25c71085b53c95
    const said = await over(root, "akasha/held.ts", null)
    expect(said).toHaveLength(1)
    expect(said[0]?.path).toBe("akasha/calls.ts")
+@@ -237,12 +248,7 @@ test("a diagnostic against a file the change did not touch is reported once, how
+ })
+ 
+ test("an index read without a guard is refused, so the settings are the strict ones", async () => {
+-  const root = staged({ "akasha/one.ts": "export const one = 1\n" })
+-  const said = await over(
+-    root,
+-    "akasha/one.ts",
+-    "export function first(held: readonly string[]): string {\n  return held[0]\n}\n"
+-  )
++  const said = await over(holding(), "akasha/one.ts", FIRST_OF)
+   expect(said).toHaveLength(1)
+   expect(said[0]?.reason).toContain("undefined")
+ })
