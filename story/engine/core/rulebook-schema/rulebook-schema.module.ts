@@ -9,7 +9,7 @@ export const rulebookSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A rulebook is read out of the mechanics key of what a game declares.",
+      statement: "A rulebook is read out of the mechanics key of a game's declaration.",
     },
   ],
 } as const satisfies Module
