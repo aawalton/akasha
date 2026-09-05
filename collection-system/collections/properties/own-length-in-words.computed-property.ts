@@ -1,13 +1,13 @@
-import type { FormulaProperty } from "@akasha/pages-system/formula-property"
+import type { ComputedProperty } from "@akasha/pages-system/computed-property"
 
 export type OwnLengthInWords = number
 
 export const ownLengthInWords = {
-  id: "01a06935-8627-70d9-a39f-333e3535fb22",
-  pageTypeSlug: "formula-property",
+  id: "01a07231-dd64-7de6-9bf2-d8ac9ec72972",
+  pageTypeSlug: "computed-property",
   slug: "own-length-in-words",
   propertySlug: "own-length-in-words",
   definition: "how much there is to work through on the collection itself, counted in words",
   holds: "number",
-  formula: "({own-length} ?? 0) * ({unit-words} ?? 0)",
-} as const satisfies FormulaProperty
+  code: "ts",
+} as const satisfies ComputedProperty
