@@ -23,7 +23,7 @@ const BYTES = new TextEncoder()
 
 export class FilingRefused extends Error {}
 
-export function assertStoryStands(): undefined {
+export function assertStoryExists(): undefined {
   const asked = asking(akashaRoot(), {
     pageTypeSlug: STORY_PAGE_TYPE,
     where: { slug: { is: STORY_SLUG } },
@@ -35,12 +35,12 @@ export function assertStoryStands(): undefined {
   }
   if (asked.rows.length === 0) {
     throw new FilingRefused(
-      `no page stands at ${STORY_PAGE_TYPE}/${STORY_SLUG}, so a chapter filed under it would ` +
+      `no page is at ${STORY_PAGE_TYPE}/${STORY_SLUG}, so a chapter filed under it would ` +
         `hang off a story that is not there`
     )
   }
   if (asked.rows.length > 1) {
-    throw new FilingRefused(`${asked.rows.length} pages stand at ${STORY_PAGE_TYPE}/${STORY_SLUG}`)
+    throw new FilingRefused(`${asked.rows.length} pages are at ${STORY_PAGE_TYPE}/${STORY_SLUG}`)
   }
 }
 

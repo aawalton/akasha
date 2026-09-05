@@ -59,12 +59,12 @@ async function pastAnyChallenge(page: Page): Promise<void> {
     page.evaluate(() => document.title.includes("Just a moment"))
   )
   if (!held) return
-  console.log("  a challenge page stands in the way; waiting for it to clear")
+  console.log("  a challenge page is in the way; waiting for it to clear")
   await page
     .waitForFunction(() => !document.title.includes("Just a moment"), {
       timeout: CHALLENGE_CEILING_MS,
     })
-    .catch(() => console.log("  the challenge did not clear; reading what stands"))
+    .catch(() => console.log("  the challenge did not clear; reading what is there"))
 }
 
 export interface ListedChapter {

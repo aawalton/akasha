@@ -36,7 +36,7 @@ export const syncing = {
     },
     {
       invariantKind: "departure",
-      statement: "A second stands between one chapter read and the next.",
+      statement: "A second sits between one chapter read and the next.",
     },
     {
       invariantKind: "departure",

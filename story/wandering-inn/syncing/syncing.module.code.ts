@@ -4,7 +4,7 @@ import {
   strippedOfTrailingNav,
 } from "../chapter/chapter.module.code.ts"
 import {
-  assertStoryStands,
+  assertStoryExists,
   fileChapter,
   filedChapterLinks,
 } from "../chapter-filing/chapter-filing.module.code.ts"
@@ -56,7 +56,7 @@ async function takeChapter(
 
   const text = strippedOfTrailingNav(read.text).trim()
   if (text === "") {
-    console.log(`  ${at} chapter ${listed.position}: no prose stood on the page; left`)
+    console.log(`  ${at} chapter ${listed.position}: no prose was on the page; left`)
     tally.skipped += 1
     return
   }
@@ -82,7 +82,7 @@ export async function syncWanderingInn(argv: readonly string[]): Promise<RunCoun
   const site = await openSite()
   const tally: Tally = { created: 0, skipped: 0, failed: 0 }
   try {
-    assertStoryStands()
+    assertStoryExists()
 
     const filed = filedChapterLinks()
     console.log(`${filed.size} chapter(s) already filed`)
