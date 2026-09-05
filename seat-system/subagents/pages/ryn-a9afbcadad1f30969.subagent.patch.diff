@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts b/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
+index c6d83752e3712867329ce220e5bbc59455b10d4a..34b9da2cdbb9c3b7eb436257d132438fd930456f 100644
+--- a/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
++++ b/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
+@@ -19,7 +19,7 @@ export const mobilityStanding = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A reading stating no number counts toward how many readings there are and not toward the way it moved.",
++        "A reading stating no number counts toward the reading count and not toward the way the metric moved.",
+     },
+     {
+       invariantKind: "departure",
