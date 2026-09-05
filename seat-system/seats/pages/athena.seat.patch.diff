@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/story/games/pages/the-violet-hour/the-violet-hour.game.gm-context.json b/story/games/pages/the-violet-hour/the-violet-hour.game.gm-context.json
-index fc5f01cf5118d067b1a825a8e99b8141294cf6f4..348fcdbdab9430dc4b8092ecdee10badf4e5ece7 100644
+index fc5f01cf5118d067b1a825a8e99b8141294cf6f4..ed117d2b7d5d816f1190db1f027ceb84e4d0669e 100644
 --- a/story/games/pages/the-violet-hour/the-violet-hour.game.gm-context.json
 +++ b/story/games/pages/the-violet-hour/the-violet-hour.game.gm-context.json
-@@ -384,7 +384,7 @@
+@@ -384,12 +384,12 @@
        {
          "id": "draft",
          "detail": "A draft is invisible everywhere until published.",
@@ -12,3 +12,9 @@ index fc5f01cf5118d067b1a825a8e99b8141294cf6f4..348fcdbdab9430dc4b8092ecdee10bad
        },
        {
          "id": "request-reviews",
+         "detail": "--no-action explicitly marks the actionless turn so the facts seat distinguishes 'no action this turn' from 'author forgot'.",
+-        "requirement": "Fan the draft out to all six advisory editor seats in one call: `bun ops awen request-reviews --game the-violet-hour --turn <draft-ref> --no-action` (non-interactive: there is no player action). Await their findings."
++        "requirement": "Fan the draft out to all six advisory editor seats (non-interactive: there is no player action). Await their findings."
+       },
+       {
+         "id": "incorporate",
