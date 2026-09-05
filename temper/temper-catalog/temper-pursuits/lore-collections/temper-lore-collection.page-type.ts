@@ -32,7 +32,8 @@ export const temperLoreCollection = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A collection is numbered inside its lore category rather than across them all.",
+      statement:
+        "A collection is numbered inside its lore category rather than across all the lore categories.",
     },
     {
       invariantKind: "departure",
