@@ -9,7 +9,7 @@ export const seatPlanRunning = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An act invoked on what is no seat does nothing.",
+      statement: "An act invoked on a row that is no seat does nothing.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,7 @@ export const seatPlanRunning = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what a step does.",
+      statement: "Nothing here knows the work a step does.",
     },
   ],
 } as const satisfies Module
