@@ -19,3 +19,23 @@ index 4321824e2d3bec429ef2cc2f53d2f0ebf3bb677b..00fa82ad272e0c89616d10a7f9ef6a71
      {
        directiveKind: "rule",
        name: "Currency",
+diff --git a/required-reading/required-reading.domain.ts b/required-reading/required-reading.domain.ts
+index c6f9280998fee820fc1452f256004e7e844ed4fd..bf81dd5e1293baa496e0323e528f38319d761b5e 100644
+--- a/required-reading/required-reading.domain.ts
++++ b/required-reading/required-reading.domain.ts
+@@ -107,15 +107,5 @@ export const requiredReading = {
+         "Never reword a narrow line to sound general.",
+       ],
+     },
+-    {
+-      directiveKind: "principle",
+-      name: "Cut The Obvious",
+-      act: "Keep an instruction only where Opus 5 would consistently make avoidable mistakes without it.",
+-      warrant: "A line the model would have obeyed anyway reads exactly like one it needs.",
+-      aids: [
+-        "One agent's slip is not a consistent mistake.",
+-        "Test a single word the way you test a document.",
+-      ],
+-    },
+   ],
+ } as const satisfies Domain
