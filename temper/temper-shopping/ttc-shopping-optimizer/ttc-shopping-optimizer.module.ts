@@ -21,7 +21,7 @@ export const ttcShoppingOptimizer = {
     },
     {
       invariantKind: "departure",
-      statement: "A kiosk holding more of what is still wanted breaks a tie on price.",
+      statement: "A kiosk holding more of the items still wanted breaks a tie on price.",
     },
     {
       invariantKind: "departure",
