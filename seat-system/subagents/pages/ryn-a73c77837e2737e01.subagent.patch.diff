@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/domains/properties/directives.record-property.ts b/domains/properties/directives.record-property.ts
+index b130da1a5d6b13f6a8a004caf8432712dd3caaea..f9cf5c7a735ea3ab6fbdd47344c756ad8dd21578 100644
+--- a/domains/properties/directives.record-property.ts
++++ b/domains/properties/directives.record-property.ts
+@@ -37,7 +37,7 @@ export const directives = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A directive that needs more aids than it may hold is carrying design that belongs in an invariant.",
++        "A directive needing more aids than that directive may hold carries design belonging in an invariant.",
+     },
+   ],
+ } as const satisfies RecordProperty
