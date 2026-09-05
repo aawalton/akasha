@@ -14,7 +14,7 @@ export const calculationLoading = {
     },
     {
       invariantKind: "departure",
-      statement: "A code file exporting no `work` is refused by what that file does export.",
+      statement: "A code file exporting no `work` is refused by the names that file does export.",
     },
     {
       invariantKind: "departure",
