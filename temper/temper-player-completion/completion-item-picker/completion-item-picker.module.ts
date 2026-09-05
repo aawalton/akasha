@@ -21,7 +21,8 @@ export const completionItemPicker = {
     },
     {
       invariantKind: "departure",
-      statement: "What a card offers is read off the static catalog rather than off saved data.",
+      statement:
+        "The levels a card offers are read off the static catalog rather than off saved data.",
     },
   ],
 } as const satisfies Module
