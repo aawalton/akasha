@@ -122,7 +122,7 @@ export function rooted(carrying: boolean = true): string {
     count += 1
     const path = `akasha/t/${slug}.page-type.ts`
     const id = `01a04d99-71ca-7e06-9000-00000000000${count}`
-    const said = extendsSlug === null ? "null" : `"${extendsSlug}"`
+    const said = extendsSlug === null ? "[]" : `["${extendsSlug}"]`
     const dies = mortal ? ", mortal: true" : ""
     filing(
       root,

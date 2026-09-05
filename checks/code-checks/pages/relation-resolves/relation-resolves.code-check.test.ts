@@ -129,6 +129,12 @@ test("a page and the page it names land together when the change carries both", 
   ])
 })
 
+test("a part-slug reaching a page the change adds is let through", () => {
+  const root = rooted()
+  const said = { ...note(', partSlugs: ["domain/e"]'), [E]: stating(E_ID, "e", "domain") }
+  expect(judged(over(root, [A, E], said))).toEqual([])
+})
+
 test("a change taking away a page refuses the page still naming it, though the change never names it", () => {
   const root = rooted()
   naming(root, D_ID, "domain-slug", A_ID, A)
