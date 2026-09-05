@@ -14,7 +14,7 @@ export const watcherTrayLogger = {
     },
     {
       invariantKind: "departure",
-      statement: "The live log is rotated once it reaches a megabyte.",
+      statement: "The live log is rotated once that log reaches a megabyte.",
     },
     {
       invariantKind: "departure",
