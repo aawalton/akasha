@@ -1,14 +1,19 @@
 runsWarrants: false
 diff --git a/commands/write/write.command.ts b/commands/write/write.command.ts
-index a1aa3e0344299957d353b63f7b4f18923faafa6d..125361d52340228c331d7e734dd68ef028556e41 100644
+index a1aa3e0344299957d353b63f7b4f18923faafa6d..7c76358ecbb9f59f3ff8d00360121a11ee7af5b4 100644
 --- a/commands/write/write.command.ts
 +++ b/commands/write/write.command.ts
-@@ -59,7 +59,7 @@ export const write = {
+@@ -59,11 +59,11 @@ export const write = {
      },
      {
        invariantKind: "departure",
 -      statement: "What a call said is read here.",
 +      statement: "The arguments a call said are read here.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a call asked for is landed by `asking`.",
++      statement: "The change a call asked for is landed by `asking`.",
      },
      {
        invariantKind: "departure",
