@@ -14,7 +14,7 @@ export const observerSlot = {
     },
     {
       invariantKind: "departure",
-      statement: "A slot's end is what ends the stream that slot holds.",
+      statement: "A slot's end ends the stream that slot holds.",
     },
     {
       invariantKind: "departure",
