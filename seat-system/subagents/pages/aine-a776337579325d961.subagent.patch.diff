@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.test.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.test.ts
-index 9f5d87f4ddae11790b25b9ca85da336413d4bd34..d6d8a4bef4e5ce92ca2a148ac2135c76b799c092 100644
+index 9f5d87f4ddae11790b25b9ca85da336413d4bd34..3f09f2d35a8300a4397ac66f8ad157db6942b8f6 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.test.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.test.ts
 @@ -32,31 +32,31 @@ test("a getter is refused", () => {
@@ -41,8 +41,17 @@ index 9f5d87f4ddae11790b25b9ca85da336413d4bd34..d6d8a4bef4e5ce92ca2a148ac2135c76
    expect(noVoidReturn(parsed("function one(): () => void {\n  return () => {}\n}\n"))).toEqual([])
  })
  
+@@ -66,7 +66,7 @@ test("an arrow filling a `void` slot is refused for its own annotation alone", (
+   expect(said[0]?.line).toBe(1)
+ })
+ 
+-test("`undefined` in the same place stands", () => {
++test("`undefined` in the same place is left", () => {
+   expect(noVoidReturn(parsed("function one(): undefined {}\n"))).toEqual([])
+ })
+ 
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.ts
-index 022d67f8e8e2fa9bdb12c1bc2cecee49a016ec1c..785e1a734fa6626075ea913db1bfffddfc174df5 100644
+index 022d67f8e8e2fa9bdb12c1bc2cecee49a016ec1c..eb9e157af50a51800c7a9662291bed2dc79601c7 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.ts
 @@ -10,7 +10,7 @@ export const noVoidReturn = {
@@ -51,6 +60,15 @@ index 022d67f8e8e2fa9bdb12c1bc2cecee49a016ec1c..785e1a734fa6626075ea913db1bfffdd
        invariantKind: "departure",
 -      statement: "`undefined` is what stands in its place.",
 +      statement: "`undefined` is what takes its place.",
+     },
+     {
+       invariantKind: "departure",
+@@ -70,7 +70,7 @@ export const noVoidReturn = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A type describing a function written elsewhere stands.",
++      statement: "A type describing a function written elsewhere is left.",
      },
      {
        invariantKind: "departure",
