@@ -1,3 +1,20 @@
+diff --git a/agents/models/gateway/commands/model-gateway-start/model-gateway-start.command.code.ts b/agents/models/gateway/commands/model-gateway-start/model-gateway-start.command.code.ts
+index 4012c58d0c94eebdf127f017cde9c52ef988856b..c33b99b754023ee1b7d5f38134dbe5a89b9ab4cb 100644
+--- a/agents/models/gateway/commands/model-gateway-start/model-gateway-start.command.code.ts
++++ b/agents/models/gateway/commands/model-gateway-start/model-gateway-start.command.code.ts
+@@ -86,10 +86,10 @@ export function askedOf(argv: readonly string[], at: number, salt: number): Aske
+   }
+ }
+ 
+-export async function modelGatewayStart(argv: readonly string[], given: Given): Promise<Answer> {
++export async function modelGatewayStart(argv: readonly string[]): Promise<Answer> {
+   const asked = askedOf(argv, Date.now(), Math.floor(Math.random() * 1_000_000))
+   if (typeof asked === "string") return { report: [], refusals: [asked], code: INPUT }
+-  const started = await startedOn(given.root, asked, RUN_SEAMS)
++  const started = await startedOn(asked, RUN_SEAMS)
+   if (typeof started === "string") return { report: [], refusals: [started], code: NO_PORT }
+   return { report: [...saidOf(started)], refusals: [], code: 0 }
+ }
 diff --git a/agents/models/gateway/modules/proxy-run/proxy-run.module.code.ts b/agents/models/gateway/modules/proxy-run/proxy-run.module.code.ts
 index 6e54acc7bfceb3fd4ed4d87e934c6ff712fa6f7c..61d4be2dbde44b3deed9a2919afff427274a0f97 100644
 --- a/agents/models/gateway/modules/proxy-run/proxy-run.module.code.ts
