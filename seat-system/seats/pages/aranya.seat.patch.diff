@@ -31,3 +31,11 @@ index 440c61d818eb9d527bc480546054e76b48b2155e..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../alan/web
 \ No newline at end of file
+diff --git a/archive-of-worlds/archive-of-worlds-web/archive-of-worlds-web b/archive-of-worlds/archive-of-worlds-web/archive-of-worlds-web
+deleted file mode 120000
+index e3e6f52f15d367ff1bd07d3f633cb39eaf81ffad..0000000000000000000000000000000000000000
+--- a/archive-of-worlds/archive-of-worlds-web/archive-of-worlds-web
++++ /dev/null
+@@ -1 +0,0 @@
+-../../archive-of-worlds/archive-of-worlds-web
+\ No newline at end of file
