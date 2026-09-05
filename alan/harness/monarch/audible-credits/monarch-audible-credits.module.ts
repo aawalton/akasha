@@ -43,7 +43,7 @@ export const monarchAudibleCredits = {
     {
       invariantKind: "departure",
       statement:
-        "Nothing is written unless writing was asked for, and what would be written is printed either way.",
+        "Nothing is written unless writing was asked for, and the rows are printed either way.",
     },
     {
       invariantKind: "departure",
