@@ -1,0 +1,13 @@
+diff --git a/alan/fitness/commands/exercise-session-start/exercise-session-start.command.ts b/alan/fitness/commands/exercise-session-start/exercise-session-start.command.ts
+index ce7eb82e1c8a2b095fa01ea95db085a61fb4b908..387a707ebb148ddbfa97bd70ed64c2d8a6a449fc 100644
+--- a/alan/fitness/commands/exercise-session-start/exercise-session-start.command.ts
++++ b/alan/fitness/commands/exercise-session-start/exercise-session-start.command.ts
+@@ -32,7 +32,7 @@ export const exerciseSessionStart = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A rest day refuses the session unless the call says to open it anyway.",
++      statement: "A rest day refuses the session unless the call says to open that session anyway.",
+     },
+     {
+       invariantKind: "departure",
