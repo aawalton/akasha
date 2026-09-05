@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/fault-saying/fault-saying.module.ts b/command-system/fault-saying/fault-saying.module.ts
-index 86c03a4af9cf2e957400de23cd3e34086d43531c..c4bca20cd326831c92fd7ce28650b794a23be125 100644
+index 86c03a4af9cf2e957400de23cd3e34086d43531c..fba160215db3e2da3486641fa7702cf21e612766 100644
 --- a/command-system/fault-saying/fault-saying.module.ts
 +++ b/command-system/fault-saying/fault-saying.module.ts
 @@ -10,19 +10,19 @@ export const faultSaying = {
@@ -24,6 +24,15 @@ index 86c03a4af9cf2e957400de23cd3e34086d43531c..c4bca20cd326831c92fd7ce28650b794
        invariantKind: "departure",
 -      statement: "A caller keeping the fault wants what is said whole.",
 +      statement: "A caller keeping the fault wants the message whole.",
+     },
+     {
+       invariantKind: "departure",
+@@ -43,7 +43,7 @@ export const faultSaying = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A caller catching a fault says what that fault means.",
++      statement: "A caller catching a fault says that fault's meaning.",
      },
      {
        invariantKind: "departure",
