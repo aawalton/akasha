@@ -1,8 +1,8 @@
 diff --git a/alan/fitness/session-planning/session-anchor/session-anchor.module.ts b/alan/fitness/session-planning/session-anchor/session-anchor.module.ts
-index fa80d4aeed310fcdc6db2511cf281e8d2372c289..d883dcc048591aab46a3c545f03d7d8aebeb6793 100644
+index fa80d4aeed310fcdc6db2511cf281e8d2372c289..480dfa0f6206319f4b1b4625359b7596d5f06250 100644
 --- a/alan/fitness/session-planning/session-anchor/session-anchor.module.ts
 +++ b/alan/fitness/session-planning/session-anchor/session-anchor.module.ts
-@@ -26,7 +26,7 @@ export const sessionAnchor = {
+@@ -26,11 +26,11 @@ export const sessionAnchor = {
      },
      {
        invariantKind: "departure",
@@ -11,3 +11,8 @@ index fa80d4aeed310fcdc6db2511cf281e8d2372c289..d883dcc048591aab46a3c545f03d7d8a
      },
      {
        invariantKind: "departure",
+-      statement: "Every pick states in words why it was picked.",
++      statement: "Every pick states in words why that pick was picked.",
+     },
+   ],
+ } as const satisfies Module
