@@ -1415,3 +1415,11 @@ index 57ab9174d8b4bf5a8ffa74ff5caa959cc88c8ba1..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-player-completion-skills-morphs-ui
 \ No newline at end of file
+diff --git a/temper/temper-player-completion-state/temper-player-completion-state b/temper/temper-player-completion-state/temper-player-completion-state
+deleted file mode 120000
+index c2bde6a8662860b286c14c2a1e612dd2d58226f8..0000000000000000000000000000000000000000
+--- a/temper/temper-player-completion-state/temper-player-completion-state
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-player-completion-state
+\ No newline at end of file
