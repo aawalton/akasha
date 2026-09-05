@@ -1,5 +1,5 @@
 diff --git a/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.test.ts b/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.test.ts
-index e6956c5141c32b23af0f77a8bcef7267a243d217..b029f28728bf6117816c9ff28253fd706c5f441a 100644
+index e6956c5141c32b23af0f77a8bcef7267a243d217..618a00ce78fe559e64d27bd3e0448a7786ddd897 100644
 --- a/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.test.ts
 +++ b/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.test.ts
 @@ -122,12 +122,12 @@ test("skew outlives a status and an index refresh", () => {
@@ -17,3 +17,12 @@ index e6956c5141c32b23af0f77a8bcef7267a243d217..b029f28728bf6117816c9ff28253fd70
    const root = madeCheckout()
    try {
      execFileSync("git", ["update-index", "--force-remove", "--", "page/a.ts"], {
+@@ -284,7 +284,7 @@ test("a page path git would quote is still in the named blobs", () => {
+ })
+ 
+ // NOT REPORTED. One real change is enough: skew and a changed file together are a changed tree.
+-test("skew standing beside a changed file is not skew", () => {
++test("skew beside a changed file is not skew", () => {
+   const root = madeCheckout()
+   try {
+     stagedThen(root, "page/a.ts", "STAGED\n", "one\n")
