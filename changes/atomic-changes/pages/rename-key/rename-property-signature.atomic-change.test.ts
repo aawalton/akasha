@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../../command-system/scratching/scratching.module.code.ts"
-import { renameKey } from "./rename-key.atomic-change.code.ts"
+import { renamePropertySignature } from "./rename-property-signature.atomic-change.code.ts"
 
 const scratch = scratchWorld()
 
@@ -11,7 +11,7 @@ const CODE = "akasha/one/held/held.module.code.ts"
 const NOTHING = (): null => null
 
 function whyOf(at: string, of: string, to: string): string {
-  const said = renameKey(scratch.rootFor("rename-key-"), { at, of, to }, NOTHING)
+  const said = renamePropertySignature(scratch.rootFor("rename-key-"), { at, of, to }, NOTHING)
   expect(said.bodies).toBe(null)
   return said.refused ?? ""
 }

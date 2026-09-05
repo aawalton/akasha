@@ -1,9 +1,9 @@
 import type { AtomicChange } from "../../atomic-change.page-type.ts"
 
-export const renameKey = {
+export const renamePropertySignature = {
   id: "01a07312-42ab-7ae4-b3a5-b3ecceb263fc",
   pageTypeSlug: "atomic-change",
-  slug: "rename-key",
+  slug: "rename-property-signature",
   definition: "the change spelling one key and everywhere the checker resolves to it",
   code: "ts",
   test: "ts",

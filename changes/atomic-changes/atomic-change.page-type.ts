@@ -11,7 +11,7 @@ export const atomicChange = {
   pluralSlug: "atomic-changes",
   partSlugs: [
     "atomic-change/rename-export",
-    "atomic-change/rename-key",
+    "atomic-change/rename-property-signature",
     "atomic-change/rename-local-variable",
   ],
   extendsSlug: ["page-type/module"],

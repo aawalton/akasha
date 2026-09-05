@@ -47,7 +47,7 @@ function alsoANameIn(typing: Typing, path: string, key: string): boolean {
   return declaredNamed(typing, path, key).length > 0
 }
 
-export function renameKey(
+export function renamePropertySignature(
   root: string,
   given: Asked,
   textOf: (path: string) => string | null
