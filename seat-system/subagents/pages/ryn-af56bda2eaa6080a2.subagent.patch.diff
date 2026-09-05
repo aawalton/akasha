@@ -1,8 +1,8 @@
 diff --git a/alan/relating/relationship-deposits/relationship-deposit.page-type.ts b/alan/relating/relationship-deposits/relationship-deposit.page-type.ts
-index 7fb085815dd8ffb8b8475eb22e17f1b8b698eed5..596594ac365bf92ba9612f1cab56ffc752ef88b6 100644
+index 7fb085815dd8ffb8b8475eb22e17f1b8b698eed5..c104e563a9aec6d4290cf165abcc7c4804524c93 100644
 --- a/alan/relating/relationship-deposits/relationship-deposit.page-type.ts
 +++ b/alan/relating/relationship-deposits/relationship-deposit.page-type.ts
-@@ -41,7 +41,7 @@ export const relationshipDeposit = {
+@@ -41,11 +41,11 @@ export const relationshipDeposit = {
    invariants: [
      {
        invariantKind: "departure",
@@ -11,3 +11,8 @@ index 7fb085815dd8ffb8b8475eb22e17f1b8b698eed5..596594ac365bf92ba9612f1cab56ffc7
      },
      {
        invariantKind: "departure",
+-      statement: "A deposit names the value it served.",
++      statement: "A deposit names the value that deposit served.",
+     },
+   ],
+ } as const satisfies PageType
