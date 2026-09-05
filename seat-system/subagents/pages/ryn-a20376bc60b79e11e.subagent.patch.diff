@@ -1,14 +1,19 @@
 runsWarrants: false
 diff --git a/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts b/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts
-index dd92e487a0c1870e4b22a86311176cb573e0bd80..2fff36b6e480560d2c6fee6d0e226aa2e4ad693e 100644
+index dd92e487a0c1870e4b22a86311176cb573e0bd80..97bc60fe4835034ce5ed859a0a10d23fc8dc41ea 100644
 --- a/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts
 +++ b/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts
-@@ -28,7 +28,7 @@ export const seatRefreshSettings = {
+@@ -28,11 +28,11 @@ export const seatRefreshSettings = {
      },
      {
        invariantKind: "departure",
 -      statement: "The per-spawn keys a file holds are carried into what replaces that file.",
 +      statement: "The per-spawn keys a file holds are carried into the file replacing that file.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file already holding what would be written is left alone.",
++      statement: "A file already holding the body that would be written is left alone.",
      },
      {
        invariantKind: "departure",
