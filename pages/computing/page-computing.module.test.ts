@@ -160,8 +160,8 @@ describe("the values a page type's calculations work out", () => {
       },
     })
     const working = computingOver(source).workedAt("day")
-    expect(working?.dark.get("faith-stoplight")).toContain("a calculation reads no formula")
-    expect("faith-stoplight" in (working?.value ?? {})).toBe(false)
+    expect(working?.dark.get("faithStoplight")).toContain("a calculation reads no formula")
+    expect("faithStoplight" in (working?.value ?? {})).toBe(false)
   })
 
   test("a key no calculation has worked yet is left out of what a page carries", () => {
