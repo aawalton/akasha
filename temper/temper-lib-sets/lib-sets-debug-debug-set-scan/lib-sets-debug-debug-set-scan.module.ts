@@ -10,12 +10,12 @@ export const libSetsDebugDebugSetScan = {
     {
       invariantKind: "departure",
       statement:
-        "An item id is tried by building a link for it and asking the client for set info.",
+        "An item id is tried by building a link for that id and asking the client for set info.",
     },
     { invariantKind: "departure", statement: "Crafted items are skipped." },
     {
       invariantKind: "constraint",
-      statement: "The uncompressed item id table is deleted again unless asked to keep it.",
+      statement: "The uncompressed item id table is deleted again unless asked to keep that table.",
     },
   ],
 } as const satisfies Module
