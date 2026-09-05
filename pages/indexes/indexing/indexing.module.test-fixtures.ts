@@ -232,6 +232,8 @@ export const NAMER_CODE = `${TREE}/two/namer.module.code.ts`
 
 export const HELD_EXPORT = "kept"
 
+export const HELD_SLUG = "held"
+
 const HELD_BODY = `export const ${HELD_EXPORT} = 1\n`
 
 const NAMER_BODY = `import { ${HELD_EXPORT} } from "../one/held.module.code.ts"
@@ -245,8 +247,11 @@ const REPO_VOCABULARY: readonly Named[] = [
   aType(idOf("3"), "page-property", ["page-type/page"]),
   aType(idOf("4"), "file-property", ["page-type/page-property"]),
   aType(idOf("5"), "domain", ["page-type/page"]),
-  aType(idOf("6"), "module", ["page-type/domain"], ["code"]),
+  aType(idOf("6"), "module", ["page-type/domain"], ["code", "note", "part-slugs"]),
   aProperty(idOf("7"), "code", "file-property"),
+  aType(idOf("a"), "relation-property", ["page-type/page-property"]),
+  aProperty(idOf("b"), "note", "relation-property", { targetPageTypeSlug: "module" }),
+  aProperty(idOf("c"), "part-slugs", "relation-property", { targetPageTypeSlug: "domain" }),
 ]
 
 const modulePage = (slug: string, id: string): Held => ({
@@ -260,7 +265,11 @@ const modulePage = (slug: string, id: string): Held => ({
 const REPO: Readonly<Record<string, string>> = {
   ...Object.fromEntries(REPO_VOCABULARY.map(([at, value]) => [`${TREE}/${at}`, bodyOf(value)])),
   [HELD_PAGE]: bodyOf(modulePage("held", idOf("8"))),
-  [NAMER_PAGE]: bodyOf(modulePage("namer", idOf("9"))),
+  [NAMER_PAGE]: bodyOf({
+    ...modulePage("namer", idOf("9")),
+    note: HELD_SLUG,
+    partSlugs: [`module/${HELD_SLUG}`],
+  }),
   [HELD_CODE]: HELD_BODY,
   [NAMER_CODE]: NAMER_BODY,
 }
@@ -275,6 +284,7 @@ export function indexedRepo(named: Readonly<Record<string, string>> = {}): strin
   }
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
+  rebuiltWhole(root, join(root, TREE), true)
   rebuiltWhole(root, join(root, TREE), true)
   return root
 }
