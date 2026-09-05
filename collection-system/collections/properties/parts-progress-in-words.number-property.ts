@@ -12,7 +12,8 @@ export const partsProgressInWords = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This value is added up over the collection's parts rather than stated on it.",
+      statement:
+        "This value is added up over the collection's parts rather than stated on that collection.",
     },
     {
       invariantKind: "departure",
