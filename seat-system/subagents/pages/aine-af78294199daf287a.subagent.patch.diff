@@ -1,0 +1,13 @@
+diff --git a/commands/measure/measure.command.code.ts b/commands/measure/measure.command.code.ts
+index b21a89d06228ee63aff56e092dd648b50249ca33..1bb6c24d2cb1bb3eedcf658caac1994f3ff8e8a5 100644
+--- a/commands/measure/measure.command.code.ts
++++ b/commands/measure/measure.command.code.ts
+@@ -42,7 +42,7 @@ async function measureClaudeAccounts(given: Given): Promise<Answer> {
+     return {
+       report: [],
+       refusals: [
+-        `no claude-account page stands under \`${given.root}\`, and every account holding a page ` +
++        `no claude-account page sits under \`${given.root}\`, and every account holding a page ` +
+           `is answered, so a fleet of none is the pages being wrong rather than a fleet`,
+       ],
+       code: 2,
