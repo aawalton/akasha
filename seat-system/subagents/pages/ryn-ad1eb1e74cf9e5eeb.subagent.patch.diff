@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.ts b/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.ts
+index f1b0a05d5f8ac1ecbd2599aac502bfef0fe49c43..c309d41e3e5e3c9f768499e509ede35d3e821093 100644
+--- a/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.ts
++++ b/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.ts
+@@ -54,7 +54,8 @@ export const noImportCycle = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A loop closed through one alone is not refused though it may still be one.",
++      statement:
++        "A loop closed through one alone is not refused though that loop may still be one.",
+     },
+   ],
+ } as const satisfies CodeCheck
