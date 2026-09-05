@@ -1527,3 +1527,11 @@ index 738a239cff3d32950ccdf492dde4ab961acff7a1..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-shopping
 \ No newline at end of file
+diff --git a/temper/temper-skill-kinds/temper-skill-kinds b/temper/temper-skill-kinds/temper-skill-kinds
+deleted file mode 120000
+index c8ab55ad20ac4a7001773e09ea0749a801d9e6d4..0000000000000000000000000000000000000000
+--- a/temper/temper-skill-kinds/temper-skill-kinds
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-skill-kinds
+\ No newline at end of file
