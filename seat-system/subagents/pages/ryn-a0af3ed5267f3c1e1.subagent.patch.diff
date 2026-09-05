@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/infrastructure/auth-proxy/proxy-core/proxy-core.module.ts b/infrastructure/auth-proxy/proxy-core/proxy-core.module.ts
+index acb6ecae104ad27875e9d1fbbb43cb6c1bec9e82..648c6b3b18e72777c82b5e850f136be6f1357120 100644
+--- a/infrastructure/auth-proxy/proxy-core/proxy-core.module.ts
++++ b/infrastructure/auth-proxy/proxy-core/proxy-core.module.ts
+@@ -13,8 +13,7 @@ export const proxyCore = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "What went wrong is reported to the caller of the fetch rather than to the client.",
++      statement: "The failure is reported to the caller of the fetch rather than to the client.",
+     },
+   ],
+ } as const satisfies Module
