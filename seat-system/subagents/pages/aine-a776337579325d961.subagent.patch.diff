@@ -65,7 +65,7 @@ index 367669f7ac65002b794914cb6f9c6acfca3d6f1a..40d8c13eac9bacc959ceaa0eba30d0ac
    expect(noLocalMidnightParse(parsed(text))[0]?.line).toBe(2)
  })
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-local-midnight-parse/no-local-midnight-parse.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-local-midnight-parse/no-local-midnight-parse.syntax-rule.ts
-index 0a8403d747f5d614008f81ce16e133ebbd88e2a2..aa616e07cdaf63c5634941006ffe5884e184cef5 100644
+index 0a8403d747f5d614008f81ce16e133ebbd88e2a2..274c22bebc8581a0cb1c6d329466a75020cf9712 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-local-midnight-parse/no-local-midnight-parse.syntax-rule.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-local-midnight-parse/no-local-midnight-parse.syntax-rule.ts
 @@ -38,7 +38,7 @@ export const noLocalMidnightParse = {
@@ -77,3 +77,12 @@ index 0a8403d747f5d614008f81ce16e133ebbd88e2a2..aa616e07cdaf63c5634941006ffe5884
      },
      {
        invariantKind: "departure",
+@@ -51,7 +51,7 @@ export const noLocalMidnightParse = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "The two stand apart.",
++      statement: "The two sit apart.",
+     },
+   ],
+ } as const satisfies SyntaxRule
