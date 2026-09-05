@@ -12,11 +12,11 @@ export const test = {
     },
     {
       invariantKind: "departure",
-      statement: "A test over invented data proves what the fixture holds.",
+      statement: "A test over invented data proves the truths the fixture holds.",
     },
     {
       invariantKind: "departure",
-      statement: "A test over the pages proves what the pages hold.",
+      statement: "A test over the pages proves the truths the pages hold.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const test = {
     {
       invariantKind: "departure",
       statement:
-        "A test reaching the pages reads the pages whole rather than pinning what the test found.",
+        "A test reaching the pages reads the pages whole rather than pinning the values the test found.",
     },
     {
       invariantKind: "gap",
