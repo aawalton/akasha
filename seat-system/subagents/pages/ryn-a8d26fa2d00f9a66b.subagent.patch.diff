@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/editor-extension/transcript-view/transcript-view.module.ts b/editor-extension/transcript-view/transcript-view.module.ts
-index b6aedf0d3d1e258d794b1789ffb7d0b5c3bad774..2cf6eca2de5feddc60a64531b9309e61cd6b4d15 100644
+index b6aedf0d3d1e258d794b1789ffb7d0b5c3bad774..ab1ed4ecfd5d386ef13047eea70927548411a470 100644
 --- a/editor-extension/transcript-view/transcript-view.module.ts
 +++ b/editor-extension/transcript-view/transcript-view.module.ts
 @@ -66,7 +66,7 @@ export const transcriptView = {
@@ -12,3 +12,12 @@ index b6aedf0d3d1e258d794b1789ffb7d0b5c3bad774..2cf6eca2de5feddc60a64531b9309e61
      },
      {
        invariantKind: "departure",
+@@ -106,7 +106,7 @@ export const transcriptView = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One channel says what every transcript panel's read cost.",
++      statement: "One channel reports every transcript panel's read cost.",
+     },
+     {
+       invariantKind: "absence",
