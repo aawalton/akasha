@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-items-rules-core/trait-actions/trait-actions.module.ts b/temper/temper-items-rules-core/trait-actions/trait-actions.module.ts
+index 1aae6e5a05de26ed866376ca90c96dc204859f78..95f8b06f7f8453152f29884adb6ecbe2e22e8561 100644
+--- a/temper/temper-items-rules-core/trait-actions/trait-actions.module.ts
++++ b/temper/temper-items-rules-core/trait-actions/trait-actions.module.ts
+@@ -9,7 +9,7 @@ export const traitActions = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The first rule naming a trait on a category settles what becomes of that trait.",
++      statement: "The first rule naming a trait on a category settles the action for that trait.",
+     },
+   ],
+ } as const satisfies Module
