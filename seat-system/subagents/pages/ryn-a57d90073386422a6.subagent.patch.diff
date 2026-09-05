@@ -1,0 +1,89 @@
+diff --git a/infrastructure/backup-retention/backup-retention.workspace-package.ts b/infrastructure/backup-retention/backup-retention.workspace-package.ts
+index 1b946abc35bf1e2b56388f4e9e4c642716a051b6..8f167ad98ad39e7fbb232f5c78aba84ff10cab1e 100644
+--- a/infrastructure/backup-retention/backup-retention.workspace-package.ts
++++ b/infrastructure/backup-retention/backup-retention.workspace-package.ts
+@@ -51,7 +51,7 @@ export const backupRetention = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The cluster runs both of these on a schedule.",
++      statement: "The cluster starts both of these runs on a schedule.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
+diff --git a/infrastructure/voice-inference/voice-inference.workspace-package.ts b/infrastructure/voice-inference/voice-inference.workspace-package.ts
+index 4680f12f88d7d97724bba082f33d37a8c550016a..f93133cc87f4430aed8ca07a185555d0cce7f461 100644
+--- a/infrastructure/voice-inference/voice-inference.workspace-package.ts
++++ b/infrastructure/voice-inference/voice-inference.workspace-package.ts
+@@ -26,7 +26,7 @@ export const voiceInference = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "The card this runs on takes int8 weights and not float16 ones.",
++      statement: "The card this package runs on takes int8 weights and not float16 ones.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
+diff --git a/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts b/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
+index 2df4b6b2a36f2edec1e4f02b4e9713f506f4ba32..eca29f51ccd2df8a0361932e0cdb8755e94eeebe 100644
+--- a/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
++++ b/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
+@@ -30,7 +30,7 @@ export const mobileSimStatus = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An age is measured against the moment this was called.",
++      statement: "An age is measured against the moment this command was called.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/person-system/device-secrets/properties/device-secret-revoked-at.instant-property.ts b/person-system/device-secrets/properties/device-secret-revoked-at.instant-property.ts
+index 4a025d842b7c067abde8d2bd816be84df1fdb7a0..dab1872a4e87bfa0bcf48a95d48fc5c7fa1b0416 100644
+--- a/person-system/device-secrets/properties/device-secret-revoked-at.instant-property.ts
++++ b/person-system/device-secrets/properties/device-secret-revoked-at.instant-property.ts
+@@ -11,7 +11,7 @@ export const deviceSecretRevokedAt = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A device secret stating none of this still stands.",
++      statement: "A device secret stating no value for this property still stands.",
+     },
+   ],
+ } as const satisfies InstantProperty
+diff --git a/service-system/services/service.page-type.ts b/service-system/services/service.page-type.ts
+index 797287490db4698a8edf7ece0db67440c723f670..afaa3d1881e558de22b22462722d8ca566ff6681 100644
+--- a/service-system/services/service.page-type.ts
++++ b/service-system/services/service.page-type.ts
+@@ -29,7 +29,7 @@ export const service = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "This adds no property of its own.",
++      statement: "This page type adds no property of its own.",
+     },
+   ],
+ } as const satisfies PageType
+diff --git a/service-system/workstation-services/pages/orphaned-resources-sweep.workstation-service.ts b/service-system/workstation-services/pages/orphaned-resources-sweep.workstation-service.ts
+index c747227134c8df69767f5369bdfa1d91eec41d1e..427370ace54e334845fcf0b8d1ad3c160b4935bb 100644
+--- a/service-system/workstation-services/pages/orphaned-resources-sweep.workstation-service.ts
++++ b/service-system/workstation-services/pages/orphaned-resources-sweep.workstation-service.ts
+@@ -5,9 +5,7 @@ export const orphanedResourcesSweep = {
+   pageTypeSlug: "workstation-service",
+   slug: "orphaned-resources-sweep",
+   definition: "the service saying which live cluster resources no source manifest accounts for",
+-  runs: [
+-    "bun infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.code.ts",
+-  ],
++  runs: ["bun infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.code.ts"],
+   enabled: true,
+   needsSecrets: true,
+   systemd: {
+@@ -28,7 +26,7 @@ export const orphanedResourcesSweep = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A clean sweep says nothing, so every message this sends is drift.",
++      statement: "A clean sweep says nothing, so every message this service sends is drift.",
+     },
+     {
+       invariantKind: "departure",
