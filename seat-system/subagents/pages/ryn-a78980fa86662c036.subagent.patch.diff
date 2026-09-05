@@ -1,0 +1,23 @@
+runsWarrants: false
+diff --git a/editor-extension/seat-plan-running/seat-plan-running.module.ts b/editor-extension/seat-plan-running/seat-plan-running.module.ts
+index bb7764914faea4025612f275424e50786cbf3b11..f5caec157b13c8488d23889f9d10871aa25da27d 100644
+--- a/editor-extension/seat-plan-running/seat-plan-running.module.ts
++++ b/editor-extension/seat-plan-running/seat-plan-running.module.ts
+@@ -9,7 +9,7 @@ export const seatPlanRunning = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "An act invoked on what is no seat does nothing.",
++      statement: "An act invoked on a row that is no seat does nothing.",
+     },
+     {
+       invariantKind: "departure",
+@@ -33,7 +33,7 @@ export const seatPlanRunning = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows what a step does.",
++      statement: "Nothing here knows the work a step does.",
+     },
+   ],
+ } as const satisfies Module
