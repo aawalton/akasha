@@ -1,5 +1,5 @@
 diff --git a/checks/modules/checking/checking.module.test-fixtures.ts b/checks/modules/checking/checking.module.test-fixtures.ts
-index e85e670778005ea9884db4cf9fd40552ea703a11..cd360619e97a6960102778b94b89d8ff061e351c 100644
+index e85e670778005ea9884db4cf9fd40552ea703a11..9087d898c9341f80163829077a117132c9e3f204 100644
 --- a/checks/modules/checking/checking.module.test-fixtures.ts
 +++ b/checks/modules/checking/checking.module.test-fixtures.ts
 @@ -55,14 +55,14 @@ export function rootWith(
@@ -21,3 +21,12 @@ index e85e670778005ea9884db4cf9fd40552ea703a11..cd360619e97a6960102778b94b89d8ff
      mkdirSync(join(root, at.slice(0, at.lastIndexOf("/"))), { recursive: true })
      writeFileSync(
        join(root, at),
+@@ -80,7 +80,7 @@ export function rootWith(
+     minted = minted + 1
+     const id = `01a04bc4-0000-7000-8000-00000000000${minted}`
+     const held = [{ path: at, id }]
+-    listedFiled(root, stands.slug, one.slug, held)
++    listedFiled(root, filedUnder.slug, one.slug, held)
+     idFiled(root, id, held)
+     pathFiled(root, at, held)
+     pathFiled(root, `${at.slice(0, -".ts".length)}.code.ts`, held)
