@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/temper/temper-watcher/watcher-page-landing/watcher-page-landing.module.ts b/temper/temper-watcher/watcher-page-landing/watcher-page-landing.module.ts
-index 9cb89de2a4ec0e85b51ce7b08d04279972fd670f..ab10132cc754fbe882eb1ba350501bf6e587f8ff 100644
+index 9cb89de2a4ec0e85b51ce7b08d04279972fd670f..c765f926b8239192b509f93f6536bc9285ecdcb8 100644
 --- a/temper/temper-watcher/watcher-page-landing/watcher-page-landing.module.ts
 +++ b/temper/temper-watcher/watcher-page-landing/watcher-page-landing.module.ts
-@@ -102,11 +102,11 @@ export const watcherPageLanding = {
+@@ -102,15 +102,15 @@ export const watcherPageLanding = {
      },
      {
        invariantKind: "departure",
@@ -17,3 +17,8 @@ index 9cb89de2a4ec0e85b51ce7b08d04279972fd670f..ab10132cc754fbe882eb1ba350501bf6
      },
      {
        invariantKind: "absence",
+-      statement: "Nothing here knows what any one page type carries.",
++      statement: "Nothing here knows the properties any one page type carries.",
+     },
+   ],
+ } as const satisfies Module
