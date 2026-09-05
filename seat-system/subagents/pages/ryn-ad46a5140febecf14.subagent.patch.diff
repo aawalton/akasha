@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/cli/cli.module.ts b/command-system/cli/cli.module.ts
+index 31007948f1defa879ae382957eaa1c9034d613a1..d14a6774bd99fccf1790d081f0d707846d249267 100644
+--- a/command-system/cli/cli.module.ts
++++ b/command-system/cli/cli.module.ts
+@@ -52,7 +52,7 @@ export const cli = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A commit names the persona of the seat that wrote it as the author.",
++      statement: "A commit names the persona of the seat that wrote that commit as the author.",
+     },
+     {
+       invariantKind: "departure",
