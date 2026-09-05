@@ -1,5 +1,5 @@
 diff --git a/great-courses/catalogue-syncing/catalogue-syncing.module.ts b/great-courses/catalogue-syncing/catalogue-syncing.module.ts
-index b97da6d827fe3796e32b422e32595d03d0765260..5d147a21715eb3df267ecae332f7329e202a2cb3 100644
+index b97da6d827fe3796e32b422e32595d03d0765260..f86a14148208e28da94a95ed1ad90db706952a60 100644
 --- a/great-courses/catalogue-syncing/catalogue-syncing.module.ts
 +++ b/great-courses/catalogue-syncing/catalogue-syncing.module.ts
 @@ -27,7 +27,7 @@ export const catalogueSyncing = {
@@ -11,6 +11,15 @@ index b97da6d827fe3796e32b422e32595d03d0765260..5d147a21715eb3df267ecae332f7329e
      },
      {
        invariantKind: "departure",
+@@ -41,7 +41,7 @@ export const catalogueSyncing = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "No credential stands behind the run.",
++      statement: "No credential is behind the run.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/rule-population/rule-population-reading/rule-population-reading.module.ts b/rule-population/rule-population-reading/rule-population-reading.module.ts
 index 84ebcff1b277fb5c7febc1c23b53657ed6e32604..e815949654efe558d8fc233585a8e959d123a8d9 100644
 --- a/rule-population/rule-population-reading/rule-population-reading.module.ts
