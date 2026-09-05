@@ -1,14 +1,19 @@
 runsWarrants: false
 diff --git a/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts b/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts
-index acb9b047e3d131566c51e6f597c6161966837d4e..69f1152707be37dcb6d5839a3fb4d78c7cd84b57 100644
+index acb9b047e3d131566c51e6f597c6161966837d4e..30b3659fb32e399061639102f408f42d53126857 100644
 --- a/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts
 +++ b/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts
-@@ -21,7 +21,7 @@ export const completions = {
+@@ -21,11 +21,11 @@ export const completions = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "A line holds what is true of the completion rather than of the task.",
 +      statement: "A line holds the facts true of the completion rather than of the task.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a task is called and how often a task comes round is read from the task.",
++      statement: "A task's name and how often a task comes round is read from the task.",
      },
      {
        invariantKind: "departure",
