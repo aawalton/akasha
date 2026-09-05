@@ -44,8 +44,11 @@ export const inboxWatching = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A claim an agent rule took is put to the handler as his to judge, and a claim a rule asked him be told of is put to him as news.",
+      statement: "A claim an agent rule took is put to the handler as the handler's to judge.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A claim a rule asked the handler be told of is put to the handler as news.",
     },
     {
       invariantKind: "departure",
