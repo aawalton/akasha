@@ -210,23 +210,6 @@ index 0000000000000000000000000000000000000000..4202bba2a211bc8d4431eb2a0c9d2d8b
 +    { name: "service", yaml: serviceYaml() },
 +  ]
 +}
-diff --git a/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff b/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
-index 0646f80979823a7fd6d89d37d9ae9bbe352eb475..c267de8375022c56aea4f480e7667f1a176da065 100644
---- a/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
-@@ -443,8 +443,12 @@ index fb47b6d5e23f39a811329617340db0eedc078275..58e2c492dfbef53b16eb913e3f451312
-    replicas: 1,
-    containerPort: 5000,
- -  manifestCode:
-+<<<<<<< what this change would leave
-+-    "infrastructure/container-registries/registry/registry.manifest.code.ts",
-+=======
- -    "service-system/cluster-services/pages/registry/registry.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "registry",
- +=======
- +  manifestCode: "infrastructure/container-registries/registry/registry.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/registry/registry.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/registry/registry.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 4202bba2a211bc8d4431eb2a0c9d2d8b75113554..0000000000000000000000000000000000000000
