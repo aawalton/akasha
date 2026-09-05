@@ -1,0 +1,12 @@
+diff --git a/service-system/cluster-services/pages/postgrest/postgrest.cluster-service.ts b/service-system/cluster-services/pages/postgrest/postgrest.cluster-service.ts
+index 9c3db2bff09384e0d17664e7d13885a889c6f96b..d52d6f002a4e5e9c916d84f0ae171688480f17cc 100644
+--- a/service-system/cluster-services/pages/postgrest/postgrest.cluster-service.ts
++++ b/service-system/cluster-services/pages/postgrest/postgrest.cluster-service.ts
+@@ -11,6 +11,5 @@ export const postgrest = {
+   image: "postgrest/postgrest:v12.2.3",
+   replicas: 2,
+   containerPort: 3000,
+-  manifestCode:
+-    "service-system/cluster-services/pages/postgrest/postgrest.cluster-service.code.attachment.ts",
++  manifestSlug: "postgrest",
+ } as const satisfies ClusterService
