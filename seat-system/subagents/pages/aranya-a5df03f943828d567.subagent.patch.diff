@@ -93,23 +93,6 @@ index 0000000000000000000000000000000000000000..9e8b2337fa556fc8b15c71a406bba39e
 +    { name: "nvidia-daemonset", yaml: nvidiaDaemonsetYaml() },
 +  ]
 +}
-diff --git a/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff b/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
-index b44544d643559e3c6b9fd42c16dae30690d2b382..a82c70080ae30b099b9df1f27a15f3491fb59485 100644
---- a/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
-@@ -209,8 +209,12 @@ index d4c09063ba24f8c6675c1edfabf6552910bd1964..0318d7c078e533c14fda9875faa58115
-    resourceName: "nvidia-device-plugin-daemonset",
-    image: "nvcr.io/nvidia/k8s-device-plugin:v0.14.5",
- -  manifestCode:
-+<<<<<<< what this change would leave
-+-    "infrastructure/node/nvidia-device-plugin/nvidia-device-plugin.manifest.code.ts",
-+=======
- -    "service-system/cluster-services/pages/nvidia-device-plugin/nvidia-device-plugin.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "nvidia-device-plugin",
- +=======
- +  manifestCode: "infrastructure/node/nvidia-device-plugin/nvidia-device-plugin.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/nvidia-device-plugin/nvidia-device-plugin.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/nvidia-device-plugin/nvidia-device-plugin.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 9e8b2337fa556fc8b15c71a406bba39e5f3beb93..0000000000000000000000000000000000000000
