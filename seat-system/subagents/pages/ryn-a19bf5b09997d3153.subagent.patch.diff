@@ -1,0 +1,16 @@
+diff --git a/temper/temper-addon-data/addon-data-writes-skills/addon-data-writes-skills.module.ts b/temper/temper-addon-data/addon-data-writes-skills/addon-data-writes-skills.module.ts
+index a3602ac84fb374f5da18ef842ef83fa6118a9408..3ad5c197d13f065ae1b3db207e691a9085eecbfd 100644
+--- a/temper/temper-addon-data/addon-data-writes-skills/addon-data-writes-skills.module.ts
++++ b/temper/temper-addon-data/addon-data-writes-skills/addon-data-writes-skills.module.ts
+@@ -7,11 +7,6 @@ export const addonDataWritesSkills = {
+   definition: "the skills section of a run's output, as the writes the section represents",
+   code: "ts",
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A render that throws names the file that render was rendering rather than failing alone.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A render runs when the write runs rather than when the section is built.",
