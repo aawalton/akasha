@@ -216,3 +216,17 @@ export function partsOf(sentence: DepSentence, token: DepToken): DepToken[] {
     childrenByRel(sentence, one.id, "case").some((mark) => lower(mark) === "of")
   )
 }
+
+export function isBackticked(sentence: DepSentence, token: DepToken): boolean {
+  let ticks = 0
+  for (const one of sentence.tokens) {
+    if (one.id >= token.id) break
+    if (lower(one) === "`") ticks += 1
+  }
+  return ticks % 2 === 1
+}
+
+export function determinesABacktickedName(sentence: DepSentence, token: DepToken): boolean {
+  const next = byId(sentence, token.id + 1)
+  return next !== undefined && lower(next) === "`"
+}

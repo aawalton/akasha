@@ -2,7 +2,9 @@ import type { DepSentence, DepToken } from "@akasha/plain-language/dependency-gr
 import { childrenByRel, lower } from "@akasha/plain-language/dependency-graph"
 import type { Match, ShapePredicate } from "@akasha/plain-language/shape-predicate"
 import {
+  determinesABacktickedName,
   fillsNounSlot,
+  isBackticked,
   isQuantifier,
   marksADegree,
   partsOf,
@@ -26,6 +28,8 @@ export const loneQuantifier: ShapePredicate = (sentence) => {
   const found: Match[] = []
   for (const token of sentence.tokens) {
     if (!isQuantifier(token)) continue
+    if (isBackticked(sentence, token)) continue
+    if (determinesABacktickedName(sentence, token)) continue
     if (!fillsNounSlot(token)) continue
     if (partsOf(sentence, token).length > 0) continue
     if (marksADegree(sentence, token)) continue

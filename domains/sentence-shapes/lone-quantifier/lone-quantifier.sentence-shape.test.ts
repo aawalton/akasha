@@ -99,3 +99,37 @@ test("most naming what it counts is found", () => {
   ])
   expect(loneQuantifier(said)).toEqual([{ at: [1] }])
 })
+
+test("a quantifier inside backticks is passed over", () => {
+  const said = sentenceOf([
+    ["`", "PUNCT", 2, "punct"],
+    ["any", "PRON", 4, "nsubj"],
+    ["`", "PUNCT", 2, "punct"],
+    ["widens", "VERB", 0, "root"],
+  ])
+  expect(loneQuantifier(said)).toEqual([])
+})
+
+test("a quantifier determining a backticked name is passed over", () => {
+  const said = sentenceOf([
+    ["An", "DET", 2, "det"],
+    ["address", "NOUN", 3, "nsubj"],
+    ["holds", "VERB", 0, "root"],
+    ["one", "NUM", 3, "obj"],
+    ["`", "PUNCT", 6, "punct"],
+    ["@", "PUNCT", 3, "punct"],
+    ["`", "PUNCT", 6, "punct"],
+  ])
+  expect(loneQuantifier(said)).toEqual([])
+})
+
+test("a quantifier after a closed backticked name is found", () => {
+  const said = sentenceOf([
+    ["`", "PUNCT", 2, "punct"],
+    ["max", "NOUN", 0, "root"],
+    ["`", "PUNCT", 2, "punct"],
+    ["and", "CCONJ", 5, "cc"],
+    ["many", "PRON", 2, "conj"],
+  ])
+  expect(loneQuantifier(said)).toEqual([{ at: [5] }])
+})
