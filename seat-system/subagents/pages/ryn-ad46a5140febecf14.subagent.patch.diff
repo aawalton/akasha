@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/git/running/git-running.module.ts b/git/running/git-running.module.ts
+index 0128ab23291d8fe255a2ee4126bc7b5be2540a90..5541c35d9c0ce47c769fe53a65759d9fab1b51d6 100644
+--- a/git/running/git-running.module.ts
++++ b/git/running/git-running.module.ts
+@@ -15,7 +15,7 @@ export const gitRunning = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "`git` is spelled here rather than by a caller naming it again.",
++      statement: "`git` is spelled here rather than by a caller naming `git` again.",
+     },
+     {
+       invariantKind: "departure",
