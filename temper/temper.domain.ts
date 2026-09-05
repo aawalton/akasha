@@ -167,7 +167,7 @@ export const temper = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type temper carries is worked out from what its pages state.",
+      statement: "A page type temper carries is worked out from the page types its pages state.",
     },
     {
       invariantKind: "departure",
