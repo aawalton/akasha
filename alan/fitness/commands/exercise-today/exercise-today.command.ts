@@ -17,7 +17,6 @@ export const exerciseToday = {
   helpNotes: [
     "the focus comes from the active schedule's day for the weekday the date falls on.",
     "a day no schedule day exists for is answered with an empty focus rather than refused.",
-    "the session answered is the newest one started on that date.",
   ],
   invariants: [
     {
