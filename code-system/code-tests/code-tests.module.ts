@@ -60,23 +60,35 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A group is one run.",
+      statement: "A group is run in batches, and a batch is one run.",
     },
     {
       invariantKind: "departure",
-      statement: "The output every run printed is read as one answer.",
+      statement: "A batch holds the test files of one group alone.",
     },
     {
       invariantKind: "departure",
-      statement: "A run answers the first non-zero code a group exited.",
+      statement: "A batch is bounded so one run reaches the end of every batch.",
     },
     {
       invariantKind: "departure",
-      statement: "A group that died on a signal answers that signal and that group's code instead.",
+      statement: "The output every batch printed is read as one answer.",
     },
     {
       invariantKind: "departure",
-      statement: "The first group to die on a signal is the group answered.",
+      statement: "A run answers the first non-zero code a batch exited.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A batch that died on a signal answers that signal and that batch's code instead.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The first batch to die on a signal is the batch answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The batches after a batch that died still run.",
     },
     {
       invariantKind: "departure",

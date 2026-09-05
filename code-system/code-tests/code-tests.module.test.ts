@@ -13,6 +13,8 @@ import { readingIn } from "@akasha/indexes"
 import { linesFiled } from "@akasha/indexes/testing"
 import {
   alreadyRunning,
+  BATCH,
+  batchedOf,
   CARRIED,
   groupedBy,
   plain,
@@ -372,6 +374,27 @@ check("the bunfig.toml at the root is left to the runner rather than handed over
   writeFileSync(join(root, "bunfig.toml"), '[test]\npreload = ["./akasha/sets.ts"]\n')
   expect(groupedBy(root, ["akasha"])).toEqual([{ preloads: [], named: ["akasha/one.test.ts"] }])
   expect(ranOver(root, ["akasha"], 1).verdict).toBe("pass")
+})
+
+check("a list past one batch is parted into batches, and nothing is lost", () => {
+  expect(batchedOf([])).toEqual([[]])
+  const named = Array.from({ length: BATCH * 2 + 1 }, (one, at) => `${at}.test.ts`)
+  const batches = batchedOf(named)
+  expect(batches.length).toBe(3)
+  expect(batches[0]?.length).toBe(BATCH)
+  expect(batches[2]?.length).toBe(1)
+  expect(batches.flat()).toEqual(named)
+})
+
+check("a group past one batch is run as several, and the counts are the sum", () => {
+  const held: Record<string, string> = {}
+  const many = BATCH + 5
+  for (let at = 0; at < many; at += 1) held[`one-${at}.test.ts`] = PASSES
+  const done = ranOver(repo(held), ["akasha"], many)
+  expect(plain(done.output).match(/Ran \d+ tests across \d+ files/g)?.length).toBe(2)
+  expect(done.summary.files).toBe(many)
+  expect(done.summary.passed).toBe(many)
+  expect(done.verdict).toBe("pass")
 })
 
 check("a path named twice over is run once", () => {

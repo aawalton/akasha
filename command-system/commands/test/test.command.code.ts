@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
 import { textIn } from "@akasha/code-system/body-text"
-import type { Summary, Verdict } from "@akasha/code-system/code-tests"
+import type { Ran, Summary, Verdict } from "@akasha/code-system/code-tests"
 import { plain, ranOver, testNamed, testsUnder } from "@akasha/code-system/code-tests"
 import { endingOf } from "@akasha/utils-run/running"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
@@ -242,19 +242,19 @@ function reportOf(
   return named ? [...told, ...detailOf(output)] : [...told, DETAIL]
 }
 
-function toldOf(
-  verdict: Verdict,
-  said: Summary,
-  expected: number,
-  ended: string
-): readonly string[] {
-  if (verdict === "fail") {
+function toldOf(done: Ran, expected: number): readonly string[] {
+  const said = done.summary
+  const ended = endingOf(done.code, done.signal)
+  if (done.verdict === "fail") {
     return [`${said.failed} of ${(said.passed ?? 0) + (said.failed ?? 0)} tests failed.`]
   }
-  if (verdict === "short") {
+  if (done.verdict === "short") {
     return [
       `${said.files} of the ${expected} test files under what was named ran, so the ones that did ` +
-        "pass say nothing about the rest. A file that will not load is counted here as not run.",
+        "pass say nothing about the rest. A file that will not load is counted here as not run." +
+        (done.signal === null
+          ? ""
+          : ` A batch ${ended}, so what that batch held is in none of these counts.`),
     ]
   }
   return [
@@ -279,7 +279,7 @@ export function test(argv: readonly string[], given: Given): Answer {
   if (done.verdict === "pass") return { report, refusals: [], code: 0 }
   return {
     report,
-    refusals: [...toldOf(done.verdict, done.summary, expected, endingOf(done.code, done.signal))],
+    refusals: [...toldOf(done, expected)],
     code: done.verdict === "fail" ? 1 : 3,
   }
 }

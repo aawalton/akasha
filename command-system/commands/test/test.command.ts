@@ -48,6 +48,11 @@ export const test = {
     {
       invariantKind: "departure",
       statement:
+        "A run reaching fewer files because one batch died names the signal that batch died on.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "That tail is bounded in lines and in bytes alike, and a whole line goes rather than part of one.",
     },
     {
