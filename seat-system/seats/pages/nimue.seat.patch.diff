@@ -1,0 +1,12 @@
+diff --git a/pages/package.json b/pages/package.json
+index 2e620210c167623723855ca5bac0bc4f468fb732..632d667e9d34d6bfc647caeb2ad1852b1015906b 100644
+--- a/pages/package.json
++++ b/pages/package.json
+@@ -4,6 +4,7 @@
+   "type": "module",
+   "exports": {
+     "./boolean-property": "./boolean-properties/boolean-property.page-type.ts",
++    "./calculation-loading": "./calculations/calculation-loading.module.code.ts",
+     "./calendar-date-property": "./calendar-date-properties/calendar-date-property.page-type.ts",
+     "./calendar-time-property": "./calendar-time-properties/calendar-time-property.page-type.ts",
+     "./change": "./change/change.module.code.ts",
