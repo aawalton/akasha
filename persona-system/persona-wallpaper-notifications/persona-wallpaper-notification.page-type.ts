@@ -26,7 +26,7 @@ export const personaWallpaperNotification = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The page being there is the whole of what the page records.",
+      statement: "The page being there is the whole record.",
     },
     {
       invariantKind: "departure",
