@@ -330,9 +330,5 @@ export const refactor = {
       invariantKind: "departure",
       statement: "An address naming a retyped page under its old page type is repointed.",
     },
-    {
-      invariantKind: "absence",
-      statement: "A retype changes no page's slug.",
-    },
   ],
 } as const satisfies Command
