@@ -192,7 +192,7 @@ export const codeEditor = {
     {
       invariantKind: "gap",
       statement:
-        "The editor's build resolves what the build needs inside the editor's own checkout.",
+        "The editor's build resolves the dependencies the build needs inside the editor's own checkout.",
     },
     {
       invariantKind: "gap",
