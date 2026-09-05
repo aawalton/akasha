@@ -19,7 +19,7 @@ export const alanWebCapacitor = {
     {
       invariantKind: "departure",
       statement:
-        "What a route here draws comes from the package beside this router app through its manifest.",
+        "The view a route here draws comes from the package beside this router app through its manifest.",
     },
     {
       invariantKind: "absence",
