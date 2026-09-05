@@ -11,3 +11,40 @@ index 200e0ae6f6d1291e4e3716413702dd7f54de8387..0315a229d4c9bf5eb05cd86e61cac1d3
  
  const RUNS_NOTHING: Running = { checks: false, warrants: false }
  
+diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
+index f7b342c60514c15330b943787a26f26ab4372a44..32f9db2927a73505980e185362bcf875271daca8 100644
+--- a/command-system/landing/landing.module.code.ts
++++ b/command-system/landing/landing.module.code.ts
+@@ -8,7 +8,7 @@ import { movedOnDisk } from "../change-freshness/change-freshness.module.code.ts
+ import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
+ import { committed, whileIndexFrees } from "../committing/committing.module.code.ts"
+ import type { Bodies, Draft, Running } from "../drafting/drafting.module.code.ts"
+-import { drafted as draftedOnto, wouldHold } from "../drafting/drafting.module.code.ts"
++import { AUTHORED, drafted as draftedOnto, wouldHold } from "../drafting/drafting.module.code.ts"
+ import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
+ import { clearedOff } from "../folder-clearing/folder-clearing.module.code.ts"
+ import type { Keeping } from "../gate-building/gate-building.module.code.ts"
+@@ -48,13 +48,7 @@ export type Refused = {
+ 
+ export type Drafting = {
+   readonly page: string
+-  readonly mechanical?: boolean
+-}
+-
+-function runningFor(drafting: Drafting): Running {
+-  return drafting.mechanical === true
+-    ? { checks: false, warrants: false }
+-    : { checks: true, warrants: true }
++  readonly running?: Running
+ }
+ 
+ export type Drafted = {
+@@ -402,7 +396,7 @@ export async function landing(
+       drafts,
+       edits.map((one) => one.path).sort(),
+       said,
+-      runningFor(drafting)
++      drafting.running ?? AUTHORED
+     )
+   }
+   const orphaned = orphaningIn(change, absentAfter(edits, carries))
