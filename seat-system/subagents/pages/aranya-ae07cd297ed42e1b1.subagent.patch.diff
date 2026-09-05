@@ -20,23 +20,6 @@ index 0000000000000000000000000000000000000000..d3c7173804d1785c3fcc1c43529578d8
 +    { name: "postgres-exporter-service", yaml: postgresExporterServiceYaml() },
 +  ]
 +}
-diff --git a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
-index 713424ef288d47fae85417ab572a59c0b1622433..b8c85ec89386ffa36cfca183c6b22e321dcf2809 100644
---- a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
-@@ -63,8 +63,12 @@ index 1db0e4951623ea6daec4f77eab24ffcbace6d23f..689893e9c623db6b07c6a1f1cfafc225
-    replicas: 1,
-    containerPort: 9187,
- -  manifestCode:
-+<<<<<<< what this change would leave
-+-    "infrastructure/telemetry/postgres-exporter/postgres-exporter.manifest.code.ts",
-+=======
- -    "service-system/cluster-services/pages/postgres-exporter/postgres-exporter.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "postgres-exporter",
- +=======
- +  manifestCode: "infrastructure/telemetry/postgres-exporter/postgres-exporter.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/postgres-exporter/postgres-exporter.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/postgres-exporter/postgres-exporter.cluster-service.code.attachment.ts
 deleted file mode 100644
 index d3c7173804d1785c3fcc1c43529578d8af2326bc..0000000000000000000000000000000000000000
