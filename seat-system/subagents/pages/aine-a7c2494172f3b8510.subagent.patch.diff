@@ -1,5 +1,5 @@
 diff --git a/markdown-pages/markdown-page-commit-queue/markdown-page-commit-queue.module.code.ts b/markdown-pages/markdown-page-commit-queue/markdown-page-commit-queue.module.code.ts
-index 78ef253e3364a681cb7897aa1e351c94e437979d..8f4bd2355a0c516f2a54c65cdce0cdea0f9aca3a 100644
+index 78ef253e3364a681cb7897aa1e351c94e437979d..1533512772ed4f6a8842d552a9b431d97434e465 100644
 --- a/markdown-pages/markdown-page-commit-queue/markdown-page-commit-queue.module.code.ts
 +++ b/markdown-pages/markdown-page-commit-queue/markdown-page-commit-queue.module.code.ts
 @@ -31,7 +31,7 @@ export const STALL_ATTEMPTS = 6
@@ -38,7 +38,7 @@ index 78ef253e3364a681cb7897aa1e351c94e437979d..8f4bd2355a0c516f2a54c65cdce0cdea
    if (one.stalled.length > 0) return false
    return one.oldestUnlandedMs === null || one.oldestUnlandedMs < UNLANDED_GRACE_MS
  }
-@@ -140,7 +140,7 @@ function record(root: string, one: Waiting): void {
+@@ -140,13 +140,13 @@ function record(root: string, one: Waiting): void {
    writeJournal({ root, pid: process.pid, attempts: one.failures, reason: one.reason, paths })
  }
  
@@ -47,6 +47,13 @@ index 78ef253e3364a681cb7897aa1e351c94e437979d..8f4bd2355a0c516f2a54c65cdce0cdea
    for (const one of waiting.values()) if (one.entries.size > 0) return false
    return readJournals().length === 0
  }
+ 
+ function settle(): void {
+-  if (nothingStandsUnlanded()) lastError = null
++  if (nothingIsUnlanded()) lastError = null
+ }
+ 
+ function saysUnlanded(root: string, files: number, attempts: number, why: string): string {
 diff --git a/markdown-pages/markdown-page-write-compose/markdown-page-write-compose.module.code.ts b/markdown-pages/markdown-page-write-compose/markdown-page-write-compose.module.code.ts
 index ccdaa2a30fed633c168a53cfd72460083cbe79fc..aba26d1d0353483334c62ed6c90ee2fe8f367411 100644
 --- a/markdown-pages/markdown-page-write-compose/markdown-page-write-compose.module.code.ts
