@@ -5,7 +5,7 @@ script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 # The package, not the script's parent: these scripts stand in a folder of
 # their own now, and www/ belongs beside the manifest Capacitor reads.
 native_shell_dir="$(cd "${script_dir}/../.." && pwd)"
-spa_dir="${NATIVE_SHELL_SPA_SOURCE_DIR:?is unset. The ios-app page states spa-source-repo-path, and the ops mobile command running this build exports it as an absolute path. This script states no value of its own to fall back to.}"
+spa_dir="${NATIVE_SHELL_SPA_SOURCE_DIR:?is unset. The ios-app page states spa-source-repo-path, and whatever runs this build exports it as an absolute path. This script states no value of its own to fall back to.}"
 # The SPA is its own package now, and the page states its path whole rather than the path of
 # the package it once sat inside. The package beside it holds the env file the client bundle
 # is built against and the favicon the shell serves.

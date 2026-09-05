@@ -68,16 +68,16 @@ if [[ ! -f "$SHARED_IOS_SEAM_DIR/widget-components/widget-components.shell-scrip
 fi
 # shellcheck source=code-system/ios-apps/scripts/widget-components/widget-components.shell-script.shell.sh
 . "$SHARED_IOS_SEAM_DIR/widget-components/widget-components.shell-script.shell.sh"
-WIDGET_COMPONENTS="${NATIVE_SHELL_COMPONENTS:?is unset. The ios-app page names the components its widget extension compiles, and the ops mobile command running this build exports them. This script states no list of its own to fall back to.}"
+WIDGET_COMPONENTS="${NATIVE_SHELL_COMPONENTS:?is unset. The ios-app page names the components its widget extension compiles, and whatever runs this build exports them. This script states no list of its own to fall back to.}"
 WIDGET_NAME="${NATIVE_SHELL_WIDGET_NAME:?is unset. The widget program page states target-name, and whatever runs this build reads it off that page and exports it. This script states no name of its own to fall back to.}"
 WIDGET_DEST="ios/App/${WIDGET_NAME}"
-WIDGET_BUNDLE_ID="${NATIVE_SHELL_WIDGET_BUNDLE_ID:?is unset. The ios-app page states widget-bundle-id, and the ops mobile command running this build exports it. This script states no value of its own to fall back to.}"
-WIDGET_TEAM="${NATIVE_SHELL_DEVELOPMENT_TEAM:?is unset. The ios-app page states development-team, and the ops mobile command running this build exports it. This script states no value of its own to fall back to.}"
+WIDGET_BUNDLE_ID="${NATIVE_SHELL_WIDGET_BUNDLE_ID:?is unset. The ios-app page states widget-bundle-id, and whatever runs this build exports it. This script states no value of its own to fall back to.}"
+WIDGET_TEAM="${NATIVE_SHELL_DEVELOPMENT_TEAM:?is unset. The ios-app page states development-team, and whatever runs this build exports it. This script states no value of its own to fall back to.}"
 WIDGET_DEPLOYMENT_TARGET="17.0"
-WIDGET_PROFILE_NAME="${NATIVE_SHELL_WIDGET_PROFILE_NAME:?is unset. The ios-app page states widget-profile-name, and the ops mobile command running this build exports it. This script states no value of its own to fall back to.}"
-APP_PROFILE_NAME="${NATIVE_SHELL_APP_PROFILE_NAME:?is unset. The ios-app page states app-profile-name, and the ops mobile command running this build exports it. This script states no value of its own to fall back to.}"
-KEYCHAIN_ACCESS_GROUP="${NATIVE_SHELL_KEYCHAIN_ACCESS_GROUP:?is unset. The ios-app page states development-team and bundle-id, and the ops mobile command running this build joins them into the access group and exports it. This script states no value of its own to fall back to.}"
-DEVICE_SECRET_SERVICE="${NATIVE_SHELL_DEVICE_SECRET_SERVICE:?is unset. The ios-app page states bundle-id, and the ops mobile command running this build derives the device secret service from it and exports it. This script states no value of its own to fall back to.}"
+WIDGET_PROFILE_NAME="${NATIVE_SHELL_WIDGET_PROFILE_NAME:?is unset. The ios-app page states widget-profile-name, and whatever runs this build exports it. This script states no value of its own to fall back to.}"
+APP_PROFILE_NAME="${NATIVE_SHELL_APP_PROFILE_NAME:?is unset. The ios-app page states app-profile-name, and whatever runs this build exports it. This script states no value of its own to fall back to.}"
+KEYCHAIN_ACCESS_GROUP="${NATIVE_SHELL_KEYCHAIN_ACCESS_GROUP:?is unset. The ios-app page states development-team and bundle-id, and whatever runs this build joins them into the access group and exports it. This script states no value of its own to fall back to.}"
+DEVICE_SECRET_SERVICE="${NATIVE_SHELL_DEVICE_SECRET_SERVICE:?is unset. The ios-app page states bundle-id, and whatever runs this build derives the device secret service from it and exports it. This script states no value of its own to fall back to.}"
 PROJECT_PBXPROJ="ios/App/App.xcodeproj"
 
 WIDGET_ENABLED="${NATIVE_SHELL_WIDGET:-1}"
@@ -109,7 +109,7 @@ KOKORO_FLUIDAUDIO_REVISION="300165b240c45375add402265f62410b6df33cf1"
 
 URL_SCHEME_ENABLED="${NATIVE_SHELL_URL_SCHEME:-1}"
 URL_SCHEME="alanwalton"
-URL_SCHEME_NAME="${NATIVE_SHELL_BUNDLE_ID:?is unset. The ios-app page states bundle-id, and the ops mobile command running this build exports it. This script states no value of its own to fall back to.}"
+URL_SCHEME_NAME="${NATIVE_SHELL_BUNDLE_ID:?is unset. The ios-app page states bundle-id, and whatever runs this build exports it. This script states no value of its own to fall back to.}"
 
 if [[ ! -x "$PB" ]]; then
   echo "ERROR: PlistBuddy not found at $PB (this script is macOS-only)." >&2
