@@ -82,7 +82,7 @@ export const selectionPolicy = {
     },
     {
       invariantKind: "departure",
-      statement: "Every number the selector weighs by stands on this page rather than in code.",
+      statement: "Every number the selector weighs by is on this page rather than in code.",
     },
     {
       invariantKind: "constraint",
@@ -90,7 +90,7 @@ export const selectionPolicy = {
     },
     {
       invariantKind: "departure",
-      statement: "Each number the selector reads stands as a property of this page type.",
+      statement: "Each number the selector reads is a property of this page type.",
     },
   ],
 } as const satisfies PageType
