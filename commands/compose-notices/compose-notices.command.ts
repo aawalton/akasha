@@ -39,7 +39,7 @@ export const composeNotices = {
     {
       invariantKind: "departure",
       statement:
-        "Named `--out`, the command writes there and says nothing rather than saying what that command wrote.",
+        "Named `--out`, the command writes there and says nothing rather than saying the JSON written.",
     },
     {
       invariantKind: "departure",
