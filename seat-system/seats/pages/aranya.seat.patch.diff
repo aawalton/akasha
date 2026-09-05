@@ -207,3 +207,11 @@ index 01a9185e513f18601df4d7e50568580892a689a4..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../file-system
 \ No newline at end of file
+diff --git a/geo-io/geo-io b/geo-io/geo-io
+deleted file mode 120000
+index ba3c9c71cd41f728705aaea27fd130574b10634d..0000000000000000000000000000000000000000
+--- a/geo-io/geo-io
++++ /dev/null
+@@ -1 +0,0 @@
+-../../geo-io
+\ No newline at end of file
