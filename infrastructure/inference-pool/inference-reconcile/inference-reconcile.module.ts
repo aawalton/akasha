@@ -10,7 +10,7 @@ export const inferenceReconcile = {
     { invariantKind: "departure", statement: "The plan is printed before anything is applied." },
     {
       invariantKind: "departure",
-      statement: "A dry run reaches the host to read it and changes nothing.",
+      statement: "A dry run reaches the host to read that host and changes nothing.",
     },
     {
       invariantKind: "departure",
