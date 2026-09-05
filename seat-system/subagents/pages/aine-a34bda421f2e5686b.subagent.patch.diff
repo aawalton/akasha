@@ -94,7 +94,7 @@ index d3706856eca0c20da24910c40b84c22c2a61ab35..345bd31e54cb1d9cc44e9a1f56969bcb
      }
    })
 diff --git a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.test.ts b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.test.ts
-index 5b277c1f758830c670aeef878b8bf20ad7aec6c2..5d5e828116469eee214ab03936e22f8ddf2bc824 100644
+index 5b277c1f758830c670aeef878b8bf20ad7aec6c2..223fc82ac87e97d5e5cb5edc3d83033a7551f93a 100644
 --- a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.test.ts
 +++ b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.test.ts
 @@ -116,7 +116,7 @@ describe("judgeAccount", () => {
@@ -138,6 +138,15 @@ index 5b277c1f758830c670aeef878b8bf20ad7aec6c2..5d5e828116469eee214ab03936e22f8d
    })
  
    test("an expired token is answered ahead of a stale usage reading", () => {
+@@ -166,7 +164,7 @@ describe("judgeAccount", () => {
+   })
+ 
+   test("a stated why is answered ahead of every stamp beside the page", () => {
+-    expect(judgeAccount(reading(null, "no page stands"), NOW).detail).toBe("no page stands")
++    expect(judgeAccount(reading(null, "no page exists"), NOW).detail).toBe("no page exists")
+   })
+ 
+   test("the slug asked about is the slug answered", () => {
 diff --git a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
 index 06373812984c0912d03100d6c23acd47571f0954..7a49076106d034646c5ca3cfc30598b8ea652575 100644
 --- a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
