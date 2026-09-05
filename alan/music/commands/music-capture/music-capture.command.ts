@@ -24,10 +24,7 @@ export const musicCapture = {
       invariantKind: "departure",
       statement: "Capture adds to the rows filed and rewrites none of the rows filed.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A priming run scores no first listen.",
-    },
+
     {
       invariantKind: "departure",
       statement: "The plays are worked oldest first.",
