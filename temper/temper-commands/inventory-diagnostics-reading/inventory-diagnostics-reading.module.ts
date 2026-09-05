@@ -30,7 +30,7 @@ export const inventoryDiagnosticsReading = {
     {
       invariantKind: "departure",
       statement:
-        "The refusal names what was looked for and what the reader should do to make that diagnostic exist.",
+        "The refusal names the diagnostic looked for and the reader's steps to make that diagnostic exist.",
     },
   ],
 } as const satisfies Module
