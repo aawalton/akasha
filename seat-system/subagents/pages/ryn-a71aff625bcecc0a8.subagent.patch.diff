@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/image-generation/image-generation.domain.ts b/image-generation/image-generation.domain.ts
-index 82330ba7f9de94d477ae2626d5ca813e2c8b69a4..dc09435fd3d758c3fb976fa4c560be7c1c76d997 100644
+index 82330ba7f9de94d477ae2626d5ca813e2c8b69a4..29c4df49286bf182adc82fa274925b31a2a06983 100644
 --- a/image-generation/image-generation.domain.ts
 +++ b/image-generation/image-generation.domain.ts
-@@ -13,7 +13,8 @@ export const imageGeneration = {
+@@ -13,11 +13,12 @@ export const imageGeneration = {
      },
      {
        invariantKind: "departure",
@@ -13,3 +13,8 @@ index 82330ba7f9de94d477ae2626d5ca813e2c8b69a4..dc09435fd3d758c3fb976fa4c560be7c
      },
      {
        invariantKind: "departure",
+-      statement: "What a page holds is what was learned by generating with the model.",
++      statement: "A page holds the lessons learned by generating with the model.",
+     },
+   ],
+ } as const satisfies Domain
