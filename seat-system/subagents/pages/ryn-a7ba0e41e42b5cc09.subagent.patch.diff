@@ -1,14 +1,19 @@
 runsWarrants: false
 diff --git a/graph/graph.workspace-package.ts b/graph/graph.workspace-package.ts
-index e6135e8684aa2526c75254e464c9af1c6aa9b093..2e5a08e0d26e67b7044a000bc5765059792f58cd 100644
+index e6135e8684aa2526c75254e464c9af1c6aa9b093..14c944d31bcea8a52847f1b475df4733483d2d29 100644
 --- a/graph/graph.workspace-package.ts
 +++ b/graph/graph.workspace-package.ts
-@@ -17,7 +17,7 @@ export const graph = {
+@@ -17,11 +17,11 @@ export const graph = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "The indexes answer what exists.",
 +      statement: "The indexes answer which pages exist.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The graph answers what follows from the pages.",
++      statement: "The graph answers the nodes, edges and attributes that follow from the pages.",
      },
      {
        invariantKind: "departure",
