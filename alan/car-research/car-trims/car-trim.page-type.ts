@@ -23,7 +23,7 @@ export const carTrim = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A trim names the year above it and is the last level of the catalogue.",
+      statement: "A trim names the year above that trim and is the last level of the catalogue.",
     },
     {
       invariantKind: "departure",
