@@ -1,0 +1,15 @@
+diff --git a/service-system/cluster-services/pages/buildkit-prune/buildkit-prune.manifest.ts b/service-system/cluster-services/pages/buildkit-prune/buildkit-prune.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6d25577e963687c5709d50e6b520cfb46c980a31
+--- /dev/null
++++ b/service-system/cluster-services/pages/buildkit-prune/buildkit-prune.manifest.ts
+@@ -0,0 +1,9 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const buildkitPrune = {
++  id: "01a07333-04fb-7f25-afaf-5df2b52c2cf4",
++  pageTypeSlug: "manifest",
++  slug: "buildkit-prune",
++  definition: "the cron job that clears the builder's unused cache",
++  code: "ts",
++} as const satisfies Manifest
