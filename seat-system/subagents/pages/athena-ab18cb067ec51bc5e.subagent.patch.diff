@@ -101,7 +101,7 @@ index 3516cad23bfd54c2bbe6603e58a3ce3443006055..7679fe452c1d4da4dce956fa462ff3b4
      "@akasha/browser-test-harness": "workspace:*",
      "@akasha/code-system": "workspace:*",
 diff --git a/seat-system/supervising/supervisor-mcp/supervisor-mcp.module.code.ts b/seat-system/supervising/supervisor-mcp/supervisor-mcp.module.code.ts
-index 163a6cfd9e8252ab23f47f6176cefdeaa9630585..21ea7be42ce789aba37db799e7f8ab2cc19bac81 100644
+index 163a6cfd9e8252ab23f47f6176cefdeaa9630585..5294e7df3d0131e0acc179003190af7bf1bf46da 100644
 --- a/seat-system/supervising/supervisor-mcp/supervisor-mcp.module.code.ts
 +++ b/seat-system/supervising/supervisor-mcp/supervisor-mcp.module.code.ts
 @@ -12,7 +12,6 @@ import {
@@ -123,3 +123,48 @@ index 163a6cfd9e8252ab23f47f6176cefdeaa9630585..21ea7be42ce789aba37db799e7f8ab2c
  
  const RefreshEnvSchema = shape.object({
    SUPABASE_URL: shape.string().url(),
+@@ -84,27 +81,27 @@ function atomicWriteStorageState(path: string, contents: string): undefined {
+   renameSync(tmp, path)
+ }
+ 
+-async function runExportScript(): Promise<undefined> {
+-  const cliPath = `${ownRepoRoot()}/${EXPORT_CLI_RELPATH}`
+-  console.log(`${LOG} re-exporting playwright storage state via \`akasha ${EXPORT_COMMAND}\``)
+-  const proc = Bun.spawn(["bun", cliPath, EXPORT_COMMAND], {
+-    stdout: "pipe",
+-    stderr: "pipe",
+-    timeout: EXPORT_TIMEOUT_MS,
+-  })
+-  const [exitCode, stdout, stderr] = await Promise.all([
+-    proc.exited,
+-    new Response(proc.stdout).text(),
+-    new Response(proc.stderr).text(),
+-  ])
+-  if (exitCode !== 0) {
++/**
++ * The export is imported where it is called rather than at the top of this file.
++ *
++ * It drives a chromium through `playwright-core`, which the browser packages hold as an optional
++ * dependency, and a supervisor that never seeds a browser MCP never needs it. A specifier at the
++ * top would load it into every supervisor at boot and kill one on a tree that has none.
++ */
++async function runExport(): Promise<undefined> {
++  console.log(`${LOG} re-exporting playwright storage state`)
++  const { exportBrowserTestStorageState } = await import(
++    "@akasha/browser-commands/browser-test-storage-state"
++  )
++  try {
++    for (const line of await exportBrowserTestStorageState()) console.log(`${LOG} ${line}`)
++  } catch (err) {
+     throw new Error(
+-      `${LOG} storage-state re-export failed (exit ${exitCode}). ` +
++      `${LOG} storage-state re-export failed (${err instanceof Error ? err.message : String(err)}). ` +
+         `The browser MCP cannot be seeded with an authenticated session. ` +
+         `Fix and re-run: akasha ${EXPORT_COMMAND} ` +
+         `(requires BROWSER_TEST_URL / BROWSER_TEST_EMAIL / BROWSER_TEST_PASSWORD / ` +
+-        `SUPABASE_URL / SUPABASE_ANON_KEY / SUPABASE_SERVICE_ROLE_KEY in ~/.secrets.env). ` +
+-        `Command output: ${stdout.slice(-500)} ${stderr.slice(-500)}`
++        `SUPABASE_URL / SUPABASE_ANON_KEY / SUPABASE_SERVICE_ROLE_KEY in ~/.secrets.env).`
+     )
+   }
+ }
