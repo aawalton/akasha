@@ -10,6 +10,83 @@ index 8235134dc207f9f8ef064e024f26528a6e7bda50..2705d19eded506c12ae64a5fa8faf91e
      "text-property/index-name",
    ],
    invariants: [
+diff --git a/pages/indexes/indexing/indexing.module.code.ts b/pages/indexes/indexing/indexing.module.code.ts
+index 874b89a3bc0579ca7bc5fc8e25affaabaed43bb6..09b57eeb4a27f8e8ccca01e9ab717725c0d5c158 100644
+--- a/pages/indexes/indexing/indexing.module.code.ts
++++ b/pages/indexes/indexing/indexing.module.code.ts
+@@ -1,7 +1,6 @@
+ import {
+   existsSync,
+   mkdirSync,
+-  readdirSync,
+   readFileSync,
+   renameSync,
+   rmdirSync,
+@@ -10,7 +9,6 @@ import {
+ } from "node:fs"
+ import { dirname, isAbsolute, join, relative } from "node:path"
+ import { typed } from "@akasha/code-system/code-typing"
+-import { QUARANTINE_ROOT, VENDOR_ROOT } from "@akasha/pages-system/checkout-roots"
+ import { pageNamed, partedIn } from "@akasha/pages-system/page-file-name"
+ import {
+   identifyingFrom,
+@@ -58,6 +56,7 @@ import {
+   readingAt,
+   readingNone,
+ } from "../surface/index-surface.module.code.ts"
++import { pagesUnder, walkedUnder } from "../tree-reading/tree-reading.module.code.ts"
+ import { valueIn } from "../value/index-value.index.code.ts"
+ import { indexValue } from "../value/index-value.index.ts"
+ 
+@@ -73,8 +72,6 @@ const SCHEMA = indexSchema.name
+ 
+ const VALUE = indexValue.name
+ 
+-const PAGE_TYPE = "page-type"
+-
+ function pruneAbove(at: string, root: string): undefined {
+   let here = at
+   while (here !== root && here.startsWith(root)) {
+@@ -136,39 +133,6 @@ function pageShaped(path: string, fileProperties: ReadonlyMap<string, string | n
+   return !fileProperties.has(said.pageType)
+ }
+ 
+-// The akasha folder is the repository root, so a walk from the tree meets the vendored
+-// packages, the quarantine, git's own store and the agents' own working state beside the pages
+-// rather than above them. None of the four holds a page of this repository's own, and walking
+-// them is both wrong — `.supervisors/` keeps copies of module pages that collide with the
+-// originals — and slow. The four are named rather than matched on a leading dot: `.server/`
+-// under `alan/web` holds 35 module pages that a dot rule would drop, and dropping them is not
+-// quiet, it refuses every part that names one.
+-const UNWALKED = new Set<string>([VENDOR_ROOT, QUARANTINE_ROOT, ".git", ".supervisors"])
+-
+-function walkedUnder(at: string, taking: (name: string) => boolean): readonly string[] {
+-  const found: string[] = []
+-  const walk = (here: string): undefined => {
+-    for (const one of readdirSync(here, { withFileTypes: true })) {
+-      if (one.isDirectory() && UNWALKED.has(one.name)) continue
+-      const next = join(here, one.name)
+-      if (one.isDirectory()) walk(next)
+-      else if (taking(one.name)) found.push(next)
+-    }
+-  }
+-  walk(at)
+-  return found
+-}
+-
+-function pagesUnder(tree: string): readonly string[] {
+-  const found = walkedUnder(tree, (name) => partedIn(name)?.sections.length === 0)
+-  const pageTypes = new Set<string>([PAGE_TYPE])
+-  for (const one of found) {
+-    const said = partedIn(one)
+-    if (said?.pageType === PAGE_TYPE) pageTypes.add(said.slug)
+-  }
+-  return found.filter((one) => pageTypes.has(partedIn(one)?.pageType ?? ""))
+-}
+-
+ function reconcile(under: string, entries: readonly Entry[], root: string): undefined {
+   const wanted = Map.groupBy(entries, (one) => one.at)
+   for (const one of existsSync(under) ? walkedUnder(under, () => true) : []) {
 diff --git a/pages/indexes/indexing/indexing.module.ts b/pages/indexes/indexing/indexing.module.ts
 index cc81cdfbc1e5d36e61d77fc219942362ed3fcfb2..a51a224b683021b90c59933c4028ba0b1a937bed 100644
 --- a/pages/indexes/indexing/indexing.module.ts
