@@ -14,7 +14,7 @@ export const running = {
     },
     {
       invariantKind: "departure",
-      statement: "What a process says on each stream is taken whole.",
+      statement: "Each stream a process says on is taken whole.",
     },
     {
       invariantKind: "departure",
@@ -38,8 +38,7 @@ export const running = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A caller wanting a throw asks for what the process said rather than how the process ran.",
+      statement: "A caller wanting a throw asks for the streams rather than how the process ran.",
     },
     {
       invariantKind: "departure",
@@ -51,8 +50,7 @@ export const running = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What a process says on its output stream is answered as bytes where bytes are asked for.",
+      statement: "A process's output stream is answered as bytes where bytes are asked for.",
     },
     {
       invariantKind: "departure",
