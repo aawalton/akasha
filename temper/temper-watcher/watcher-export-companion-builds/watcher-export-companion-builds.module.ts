@@ -53,19 +53,19 @@ export const watcherExportCompanionBuilds = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller may hand in what reads the progress pages.",
+      statement: "A caller may hand in the reader of the progress pages.",
     },
     {
       invariantKind: "departure",
-      statement: "A caller may hand in what reads the build pages.",
+      statement: "A caller may hand in the reader of the build pages.",
     },
     {
       invariantKind: "departure",
-      statement: "A caller may hand in what writes the side file.",
+      statement: "A caller may hand in the writer of the side file.",
     },
     {
       invariantKind: "departure",
-      statement: "A caller may hand in what tells the time.",
+      statement: "A caller may hand in the clock.",
     },
     {
       invariantKind: "departure",
