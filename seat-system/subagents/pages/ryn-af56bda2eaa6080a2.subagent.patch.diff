@@ -1,0 +1,13 @@
+diff --git a/editor-extension/status-bar-drawing/status-bar-drawing.module.ts b/editor-extension/status-bar-drawing/status-bar-drawing.module.ts
+index 6c1dffd202061ff06671e1d475d291bdb5d11ecd..b8f58ad644e7fd379a3c86d499a6c7c25828bbff 100644
+--- a/editor-extension/status-bar-drawing/status-bar-drawing.module.ts
++++ b/editor-extension/status-bar-drawing/status-bar-drawing.module.ts
+@@ -9,7 +9,7 @@ export const statusBarDrawing = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A reading that answered is fresh at the moment it answered.",
++      statement: "A reading that answered is fresh at the moment that reading answered.",
+     },
+     {
+       invariantKind: "departure",
