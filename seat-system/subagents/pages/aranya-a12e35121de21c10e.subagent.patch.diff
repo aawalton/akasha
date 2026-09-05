@@ -1,0 +1,12 @@
+diff --git a/service-system/cluster-services/pages/tailnet-egress/tailnet-egress.cluster-service.ts b/service-system/cluster-services/pages/tailnet-egress/tailnet-egress.cluster-service.ts
+index edb213eeade27cf611a9f68099597cd5f8f44266..bad3250a6a7eae6bf60d7e125eb4e0e225763364 100644
+--- a/service-system/cluster-services/pages/tailnet-egress/tailnet-egress.cluster-service.ts
++++ b/service-system/cluster-services/pages/tailnet-egress/tailnet-egress.cluster-service.ts
+@@ -11,6 +11,5 @@ export const tailnetEgress = {
+   image: "tailscale/tailscale:v1.98.10",
+   replicas: 1,
+   containerPort: 1055,
+-  manifestCode:
+-    "service-system/cluster-services/pages/tailnet-egress/tailnet-egress.cluster-service.code.attachment.ts",
++  manifestSlug: "tailnet-egress",
+ } as const satisfies ClusterService
