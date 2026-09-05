@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/sms-core/commands/sms-command-reading/sms-command-reading.module.ts b/sms-core/commands/sms-command-reading/sms-command-reading.module.ts
+index a9cb93160b1e1dc8a287619b68b9f2735b8d2a10..ccb615aed0f5a066616b4ca590baa0bd987f412b 100644
+--- a/sms-core/commands/sms-command-reading/sms-command-reading.module.ts
++++ b/sms-core/commands/sms-command-reading/sms-command-reading.module.ts
+@@ -23,7 +23,7 @@ export const smsCommandReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A word alone fills the flag the command names for it.",
++      statement: "A word alone fills the flag the command names for that word.",
+     },
+     {
+       invariantKind: "departure",
