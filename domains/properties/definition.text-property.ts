@@ -13,7 +13,7 @@ export const definition = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "A definition holds no clause saying what the thing is for.",
+      statement: "A definition holds no clause saying the thing's purpose.",
     },
     {
       invariantKind: "absence",
@@ -40,7 +40,7 @@ export const definition = {
     {
       invariantKind: "departure",
       statement:
-        "What a domain is about stays on its own line even where every sibling is about the same thing.",
+        "A domain's concern stays on its own line even where every sibling is about the same thing.",
     },
   ],
 } as const satisfies TextProperty
