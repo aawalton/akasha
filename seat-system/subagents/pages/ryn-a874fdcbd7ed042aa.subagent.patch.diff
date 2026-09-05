@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/service-system/workstation-services/unit-writing/unit-writing.module.ts b/service-system/workstation-services/unit-writing/unit-writing.module.ts
+index 1926424055fd38a322485b382da9a9a9d1dea8ed..e5ffb3dd7170924f98cc8092e7d84151aa0dc645 100644
+--- a/service-system/workstation-services/unit-writing/unit-writing.module.ts
++++ b/service-system/workstation-services/unit-writing/unit-writing.module.ts
+@@ -42,7 +42,8 @@ export const unitWriting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A service stating it needs secrets is handed them by the shell its unit starts.",
++      statement:
++        "A service stating that service needs secrets is handed those secrets by the shell its unit starts.",
+     },
+     {
+       invariantKind: "departure",
