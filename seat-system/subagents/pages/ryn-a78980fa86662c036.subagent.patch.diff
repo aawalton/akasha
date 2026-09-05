@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/attributes/reading/attributes-reading.module.ts b/alan/harness/attributes/reading/attributes-reading.module.ts
+index 87eb1863bc09336496cb24696c1e47d69d10c23b..5a16aa5bfad05be8629056ef9e4dbf479744b99d 100644
+--- a/alan/harness/attributes/reading/attributes-reading.module.ts
++++ b/alan/harness/attributes/reading/attributes-reading.module.ts
+@@ -17,7 +17,7 @@ export const attributesReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What to ask and how to read each answer are on each readout's own page.",
++      statement: "The question to ask and how to read each answer are on each readout's own page.",
+     },
+     {
+       invariantKind: "departure",
