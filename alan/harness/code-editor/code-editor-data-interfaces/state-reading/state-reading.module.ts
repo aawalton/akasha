@@ -18,7 +18,7 @@ export const stateReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A part draws what is there before any change arrives.",
+      statement: "A part draws the state already there before any change arrives.",
     },
     {
       invariantKind: "departure",
