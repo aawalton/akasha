@@ -1,0 +1,12 @@
+diff --git a/infrastructure/inference-commands/inference-apply/inference-apply.command.ts b/infrastructure/inference-commands/inference-apply/inference-apply.command.ts
+index c0acb30cb6ec0b02b57369e5e008753045cca967..65107bf013812d8301f7c24622fb00dc11efb558 100644
+--- a/infrastructure/inference-commands/inference-apply/inference-apply.command.ts
++++ b/infrastructure/inference-commands/inference-apply/inference-apply.command.ts
+@@ -12,7 +12,6 @@ export const inferenceApply = {
+     "the services are the ones the registry declares, grouped by the host each names.",
+     "these hosts are outside the cluster, and each service is reached over ssh and held by launchd.",
+     "a service already at the hash its inputs carry is applied again by nothing.",
+-    "a managed service the registry no longer declares is taken away.",
+     "the answer is how many were applied, how many were passed over, and how many were taken away.",
+   ],
+   invariants: [
