@@ -106,7 +106,8 @@ export const connectionActivity = {
     },
     {
       invariantKind: "departure",
-      statement: "Two activities differing only in how they reach him are rated apart.",
+      statement:
+        "Two activities differing only in how those activities reach Alan are rated apart.",
     },
     {
       invariantKind: "departure",
@@ -136,7 +137,8 @@ export const connectionActivity = {
     },
     {
       invariantKind: "departure",
-      statement: "An hour of it meets the multiplier over thirty-two of his connection need.",
+      statement:
+        "An hour of an activity meets the multiplier over thirty-two of his connection need.",
     },
     {
       invariantKind: "departure",
