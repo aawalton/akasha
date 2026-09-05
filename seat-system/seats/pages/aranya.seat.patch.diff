@@ -335,3 +335,11 @@ index 66e6771aa9f6caba4900063c1e74ed2e7dda0591..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../infrastructure/seaweedfs
 \ No newline at end of file
+diff --git a/infrastructure/upscale/upscale b/infrastructure/upscale/upscale
+deleted file mode 120000
+index f2e3ca37dca60dec3ad2a153ea75861b50ee79d0..0000000000000000000000000000000000000000
+--- a/infrastructure/upscale/upscale
++++ /dev/null
+@@ -1 +0,0 @@
+-../../infrastructure/upscale
+\ No newline at end of file
