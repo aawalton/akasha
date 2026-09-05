@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/k8s-types/manifests/manifest.page-type.ts b/infrastructure/k8s-types/manifests/manifest.page-type.ts
+index 033b6b3a97a85d2ed1eb956e6f6e9978106a43d5..19e8541d07c936d4033061645566686cba547050 100644
+--- a/infrastructure/k8s-types/manifests/manifest.page-type.ts
++++ b/infrastructure/k8s-types/manifests/manifest.page-type.ts
+@@ -27,7 +27,7 @@ export const manifest = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A manifest is generated into YAML before it is applied.",
++      statement: "A manifest is generated into YAML before that manifest is applied.",
+     },
+   ],
+ } as const satisfies PageType
