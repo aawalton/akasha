@@ -232,6 +232,16 @@ export function determinesABacktickedName(sentence: DepSentence, token: DepToken
   return next !== undefined && lower(next) === "`"
 }
 
+export function marksAProportion(sentence: DepSentence, token: DepToken): boolean {
+  return lower(token) === "much" && partsOf(sentence, token).length > 0
+}
+
+export function countsItsParts(sentence: DepSentence, token: DepToken): boolean {
+  return partsOf(sentence, token).some(
+    (one) => childrenByRel(sentence, one.id, "nummod").length > 0
+  )
+}
+
 export function isReciprocal(sentence: DepSentence, token: DepToken): boolean {
   return childrenByRel(sentence, token.id, "fixed").some((one) =>
     RECIPROCAL.includes(`${lower(token)} ${lower(one)}`)

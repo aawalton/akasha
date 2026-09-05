@@ -59,3 +59,40 @@ test("a noun followed by an of phrase is passed over", () => {
   ])
   expect(partitiveQuantifier(said)).toEqual([])
 })
+
+test("how much of a thing is passed over", () => {
+  const said = sentenceOf([
+    ["How", "ADV", 2, "advmod"],
+    ["much", "PRON", 5, "nsubj"],
+    ["of", "ADP", 4, "case"],
+    ["output", "NOUN", 2, "nmod"],
+    ["printed", "VERB", 0, "root"],
+  ])
+  expect(partitiveQuantifier(said)).toEqual([])
+})
+
+test("a quantifier whose phrase carries a count is passed over", () => {
+  const said = sentenceOf([
+    ["An", "DET", 2, "det"],
+    ["entry", "NOUN", 3, "nsubj"],
+    ["takes", "VERB", 0, "root"],
+    ["one", "PRON", 3, "obj"],
+    ["of", "ADP", 7, "case"],
+    ["three", "NUM", 7, "nummod"],
+    ["shapes", "NOUN", 4, "nmod"],
+  ])
+  expect(partitiveQuantifier(said)).toEqual([])
+})
+
+test("a quantifier whose phrase carries no count is found", () => {
+  const said = sentenceOf([
+    ["The", "DET", 2, "det"],
+    ["resolver", "NOUN", 3, "nsubj"],
+    ["holds", "VERB", 0, "root"],
+    ["none", "PRON", 3, "obj"],
+    ["of", "ADP", 7, "case"],
+    ["the", "DET", 7, "det"],
+    ["pages", "NOUN", 4, "nmod"],
+  ])
+  expect(partitiveQuantifier(said)).toEqual([{ at: [4, 7] }])
+})
