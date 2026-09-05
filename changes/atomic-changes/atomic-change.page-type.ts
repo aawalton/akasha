@@ -27,7 +27,7 @@ export const atomicChange = {
     {
       invariantKind: "departure",
       statement:
-        "An atomic change asks the index what a thing reaches rather than walking the tree.",
+        "An atomic change asks the index for the files a thing reaches rather than walking the tree.",
     },
     {
       invariantKind: "departure",
