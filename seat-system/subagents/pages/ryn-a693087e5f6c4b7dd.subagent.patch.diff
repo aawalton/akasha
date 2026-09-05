@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/commands/shell-init-bash/shell-init-bash.command.ts b/seat-system/commands/shell-init-bash/shell-init-bash.command.ts
+index 852ab9465796a5b2e8e6f0a2d0996153d686e0d9..8a3ad5e94bbcf55e5e290bb7076cfcfb276839af 100644
+--- a/seat-system/commands/shell-init-bash/shell-init-bash.command.ts
++++ b/seat-system/commands/shell-init-bash/shell-init-bash.command.ts
+@@ -24,7 +24,7 @@ export const shellInitBash = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is composed goes to the report, so a shell can evaluate the output stream.",
++      statement: "The set goes to the report, so a shell can evaluate the output stream.",
+     },
+     {
+       invariantKind: "departure",
