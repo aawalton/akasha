@@ -120,8 +120,7 @@ export const monarchEval = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A run spends money and keeps its whole result, and scoring reads that result, so a report can be redrawn any number of ways without paying again.",
+      statement: "A run spends money and keeps its whole result, and scoring reads that result.",
     },
     {
       invariantKind: "gap",
