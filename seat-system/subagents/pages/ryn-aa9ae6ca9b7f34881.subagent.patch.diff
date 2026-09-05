@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-addon-data/page-row-totals/page-row-totals.module.ts b/temper/temper-addon-data/page-row-totals/page-row-totals.module.ts
+index 93aad84fa71196dda4b9a3d7f042fc12f37ad24c..33af93484c945a8bf124edab098b8fa03b03dbe4 100644
+--- a/temper/temper-addon-data/page-row-totals/page-row-totals.module.ts
++++ b/temper/temper-addon-data/page-row-totals/page-row-totals.module.ts
+@@ -24,7 +24,7 @@ export const pageRowTotals = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is counted is how many rows came back rather than what the rows carry.",
++      statement: "Rows that came back are counted rather than the values those rows carry.",
+     },
+   ],
+ } as const satisfies Module
