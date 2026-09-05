@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/editor-extension/page-tree-panel/page-tree-panel.module.ts b/editor-extension/page-tree-panel/page-tree-panel.module.ts
-index fbaabdad644297ae391062a1d9164fcb29e77ecf..e9de85e1fe2d2bc488d6caeb1153ea57302d5c7d 100644
+index fbaabdad644297ae391062a1d9164fcb29e77ecf..1e52b84739747f5d2528a488444ac1defcae93e5 100644
 --- a/editor-extension/page-tree-panel/page-tree-panel.module.ts
 +++ b/editor-extension/page-tree-panel/page-tree-panel.module.ts
 @@ -13,7 +13,8 @@ export const pageTreePanel = {
@@ -10,6 +10,15 @@ index fbaabdad644297ae391062a1d9164fcb29e77ecf..e9de85e1fe2d2bc488d6caeb1153ea57
 -      statement: "The panel draws what that file holds before any change to it arrives.",
 +      statement:
 +        "The panel draws the pages that file holds before any change to that file arrives.",
+     },
+     {
+       invariantKind: "departure",
+@@ -29,7 +30,7 @@ export const pageTreePanel = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A panel becoming visible with a drawing owed draws what the file last said.",
++      statement: "A panel becoming visible with a drawing owed draws the pages the file last said.",
      },
      {
        invariantKind: "departure",
