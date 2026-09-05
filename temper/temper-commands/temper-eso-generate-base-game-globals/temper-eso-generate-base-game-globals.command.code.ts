@@ -146,7 +146,7 @@ export function temperEsoGenerateBaseGameGlobals(argv: readonly string[] = []): 
   ]
 
   const held = pages.find((one) => one.slug === STEM)
-  if (staged.files.some((one) => one.rel === held?.pageRel && one.standing)) {
+  if (staged.files.some((one) => one.rel === held?.pageRel && one.alreadyThere)) {
     report.push(
       `the aggregate's page is there and was not staged again, so what a hand put on ${String(held?.pageRel)} survives`
     )

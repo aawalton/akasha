@@ -225,7 +225,7 @@ export function runSlugsThere(root: string, spec: SeriesSpec): readonly string[]
 export interface StagedFile {
   readonly rel: string
   readonly at: string | null
-  readonly standing: boolean
+  readonly alreadyThere: boolean
 }
 
 export interface Staged {
@@ -269,17 +269,17 @@ export function stageSeries(
     for (const [rel, body, isPage] of candidates) {
       const there = existsSync(resolve(root, rel))
       if (isPage && there) {
-        files.push({ rel, at: null, standing: true })
+        files.push({ rel, at: null, alreadyThere: true })
         continue
       }
       if (holdsBody(root, rel, body)) {
-        files.push({ rel, at: null, standing: true })
+        files.push({ rel, at: null, alreadyThere: true })
         continue
       }
       const at = join(stage, rel)
       mkdirSync(dirname(at), { recursive: true })
       writeFileSync(at, body)
-      files.push({ rel, at, standing: there })
+      files.push({ rel, at, alreadyThere: there })
       changed.push(rel)
       argv.push("--file-path", rel, "--content-file", at)
     }
