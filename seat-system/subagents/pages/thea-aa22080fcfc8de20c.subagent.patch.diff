@@ -1,0 +1,36 @@
+diff --git a/code-system/code-tests/code-tests.module.code.ts b/code-system/code-tests/code-tests.module.code.ts
+index 9d54ba514dbcd294d1598068f806e91424bfbbf1..dfdfe572e522c57fcbcd06d1f4bb80b026e71d76 100644
+--- a/code-system/code-tests/code-tests.module.code.ts
++++ b/code-system/code-tests/code-tests.module.code.ts
+@@ -376,10 +376,13 @@ export function ranOver(
+       env: { ...process.env, [RUNNING]: MARK },
+     })
+     output += `${done.out}${done.err}`
+-    if (code === 0) {
++    if (signal !== null) continue
++    if (done.signal !== null) {
+       code = done.code
+       signal = done.signal
++      continue
+     }
++    if (code === 0) code = done.code
+   }
+   return {
+     code,
+diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
+index 45f0ada41eee74a1b5e43aa11b173324b2ffbe25..85a1910b8f004f074c44760092c9010b53fd6d1e 100644
+--- a/code-system/code-tests/code-tests.module.ts
++++ b/code-system/code-tests/code-tests.module.ts
+@@ -72,7 +72,11 @@ export const codeTests = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run answers the signal that same group ended on beside that code.",
++      statement: "A group that died on a signal answers that signal and that group's code instead.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The first group to die on a signal is the group answered.",
+     },
+     {
+       invariantKind: "departure",
