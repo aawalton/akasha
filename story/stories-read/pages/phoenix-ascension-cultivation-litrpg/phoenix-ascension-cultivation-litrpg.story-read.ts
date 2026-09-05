@@ -4,10 +4,13 @@ export const phoenixAscensionCultivationLitrpg = {
   id: "01a0657d-ada4-766d-995d-5c6bf82373eb",
   pageTypeSlug: "story-read",
   slug: "phoenix-ascension-cultivation-litrpg",
+  rank: "C",
+  unitSlug: "words",
+  externalId: "129188",
+  externalLink: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg",
   title: "Phoenix Ascension",
   worldSlug: "phoenix-ascension-cultivation-litrpg",
   source: "royal-road",
-  rank: "C",
   externalTags: [
     "LitRPG",
     "Reincarnation",
@@ -28,7 +31,5 @@ export const phoenixAscensionCultivationLitrpg = {
     "Strong Lead",
     "Supernatural",
   ],
-  unitSlug: "words",
-  externalLink: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg",
-  externalId: "129188",
+  publicationStatus: "ongoing",
 } as const satisfies StoryRead

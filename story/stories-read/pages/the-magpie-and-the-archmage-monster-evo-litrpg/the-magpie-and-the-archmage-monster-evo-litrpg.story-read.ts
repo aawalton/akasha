@@ -4,10 +4,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg = {
   id: "01a0657d-ada5-7118-90a5-c56286b50e57",
   pageTypeSlug: "story-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  rank: "C",
+  unitSlug: "words",
+  externalId: "129182",
+  externalLink:
+    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-monster-evo-litrpg",
   title: "The Magpie and The Archmage",
   worldSlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
   source: "royal-road",
-  rank: "C",
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",
@@ -26,8 +30,5 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg = {
     "Reincarnation",
     "Secret Identity",
   ],
-  unitSlug: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-monster-evo-litrpg",
-  externalId: "129182",
+  publicationStatus: "ongoing",
 } as const satisfies StoryRead

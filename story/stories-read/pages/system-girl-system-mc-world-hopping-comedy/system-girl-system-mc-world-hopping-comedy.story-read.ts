@@ -4,10 +4,14 @@ export const systemGirlSystemMcWorldHoppingComedy = {
   id: "01a0657d-ada5-7638-97a1-adc2b888f303",
   pageTypeSlug: "story-read",
   slug: "system-girl-system-mc-world-hopping-comedy",
+  rank: "C",
+  unitSlug: "words",
+  externalId: "131265",
+  externalLink:
+    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy",
   title: "System Girl",
   worldSlug: "system-girl-system-mc-world-hopping-comedy",
   source: "royal-road",
-  rank: "C",
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",
@@ -24,8 +28,5 @@ export const systemGirlSystemMcWorldHoppingComedy = {
     "Reader Interactive",
     "Reincarnation",
   ],
-  unitSlug: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy",
-  externalId: "131265",
+  publicationStatus: "ongoing",
 } as const satisfies StoryRead

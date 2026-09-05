@@ -4,10 +4,13 @@ export const catGirlEvolution = {
   id: "01a0657d-ada1-79cb-b4b1-b6be3202e080",
   pageTypeSlug: "story-read",
   slug: "cat-girl-evolution",
+  rank: "C",
+  unitSlug: "words",
+  externalId: "129180",
+  externalLink: "https://www.royalroad.com/fiction/129180/cat-girl-evolution",
   title: "Cat Girl Evolution",
   worldSlug: "cat-girl-evolution",
   source: "royal-road",
-  rank: "C",
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",
@@ -33,7 +36,5 @@ export const catGirlEvolution = {
     "Strong Lead",
     "Survival",
   ],
-  unitSlug: "words",
-  externalLink: "https://www.royalroad.com/fiction/129180/cat-girl-evolution",
-  externalId: "129180",
+  publicationStatus: "ongoing",
 } as const satisfies StoryRead

@@ -4,10 +4,13 @@ export const fleshEaterDemonEvolutionLitrpg = {
   id: "01a0657d-ada2-781e-be0f-880ef97c51fe",
   pageTypeSlug: "story-read",
   slug: "flesh-eater-demon-evolution-litrpg",
+  rank: "C",
+  unitSlug: "words",
+  externalId: "129187",
+  externalLink: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg",
   title: "Flesh Eater",
   worldSlug: "flesh-eater-demon-evolution-litrpg",
   source: "royal-road",
-  rank: "C",
   externalTags: [
     "LitRPG",
     "Reincarnation",
@@ -26,7 +29,5 @@ export const fleshEaterDemonEvolutionLitrpg = {
     "Secret Identity",
     "Strong Lead",
   ],
-  unitSlug: "words",
-  externalLink: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg",
-  externalId: "129187",
+  publicationStatus: "ongoing",
 } as const satisfies StoryRead
