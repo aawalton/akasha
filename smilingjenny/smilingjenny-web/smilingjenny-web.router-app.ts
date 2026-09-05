@@ -12,6 +12,7 @@ export const smilingjennyWeb = {
   routerConfig: "ts",
   compileConfig: "json",
   partSlugs: [
+    "manifest/smilingjenny-web-manifests",
     "stylesheet/smilingjenny-web-look",
     "module/jenny-capacitor-bridge",
     "module/jenny-push-registration-sync",
