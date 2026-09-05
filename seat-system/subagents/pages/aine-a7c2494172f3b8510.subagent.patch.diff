@@ -1,0 +1,13 @@
+diff --git a/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.code.ts b/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.code.ts
+index 89c5deca024a6d2acb895fea52cebedbb86bb232..f141b69e801718d0b41d2dde41da076381b52f28 100644
+--- a/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.code.ts
++++ b/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.code.ts
+@@ -141,7 +141,7 @@ function amongNamed(at: string): boolean {
+ // read out of, and it is the index a reader is being told to look at. The listing without it also
+ // carries the stale stat — a file rewritten with its own content, which `diff-index --quiet` calls
+ // a difference and no content ever backed — and that state is nobody's to act on, so it comes back
+-// here as no paths at all: the mark stands and nothing is said.
++// here as no paths at all: the mark holds and nothing is said.
+ export function diskAtCommit(
+   root: string,
+   specs: readonly string[]
