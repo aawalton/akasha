@@ -7,6 +7,7 @@ export const calendarSync = {
   definition: "the events a public library publishes, brought into the page store each day",
   manifest: "json",
   partSlugs: [
+    "manifest/calendar-sync-manifests",
     "module/caldata-schema",
     "module/zoned-time",
     "module/caldata-client",
