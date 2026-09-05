@@ -19,7 +19,7 @@ export const indexSurface = {
     },
     {
       invariantKind: "departure",
-      statement: "One operation answers what a directory lists.",
+      statement: "One operation answers the children a directory lists.",
     },
     {
       invariantKind: "departure",
