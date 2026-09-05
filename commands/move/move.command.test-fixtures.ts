@@ -377,7 +377,7 @@ function stated(value: Readonly<Record<string, unknown>>): string {
 function typed(
   said: string,
   slug: string,
-  extendsSlug: string | null,
+  extendsSlug: readonly string[],
   declares: readonly string[] = []
 ): readonly [string, string] {
   const properties = declares.map((one) => ({
@@ -398,12 +398,12 @@ function thingPage(slug: string, said: string, names: string | null): string {
 
 export const THING_VOCABULARY: Readonly<Record<string, string>> = {
   ...Object.fromEntries([
-    typed("01", "page", null, ["id", "slug"]),
-    typed("02", "page-property", "page-type/page"),
-    typed("03", "relation-property", "page-type/page-property"),
-    typed("04", "thing", "page-type/page", ["names"]),
-    typed("06", "page-type", "page-type/page"),
-    typed("10", "domain", "page-type/page"),
+    typed("01", "page", [], ["id", "slug"]),
+    typed("02", "page-property", ["page-type/page"]),
+    typed("03", "relation-property", ["page-type/page-property"]),
+    typed("04", "thing", ["page-type/page"], ["names"]),
+    typed("06", "page-type", ["page-type/page"]),
+    typed("10", "domain", ["page-type/page"]),
   ]),
   [`${TREE}/names.relation-property.ts`]: stated({
     id: idOf("05"),
