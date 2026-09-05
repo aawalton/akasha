@@ -29,7 +29,6 @@ export const inferenceGenerate = {
     "a seed nothing named is drawn, and the seed is recorded whether it was drawn or said.",
     "the guidance is recorded on the run row, and a turbo distill passes it over.",
     "the pool serves one request at a time, so the timeout counts the queue wait as well as the render.",
-    "a run row is filed whether the render finished or failed.",
   ],
   invariants: [
     {
