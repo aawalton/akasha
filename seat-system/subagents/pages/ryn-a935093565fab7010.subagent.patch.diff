@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/agent-turn-colors/agent-turn-colors.command.ts b/commands/agent-turn-colors/agent-turn-colors.command.ts
+index 7ec06807041f3ece8221fdf2e6192a23d551ecd9..b873a1ab7f6e330b83ba9638e8e7bc448ec4a834 100644
+--- a/commands/agent-turn-colors/agent-turn-colors.command.ts
++++ b/commands/agent-turn-colors/agent-turn-colors.command.ts
+@@ -76,7 +76,7 @@ export const agentTurnColors = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run keeps beside each seat what its transcript was read to say.",
++      statement: "A run keeps beside each seat the reading of that seat's transcript.",
+     },
+   ],
+ } as const satisfies Command
