@@ -14,8 +14,7 @@ export const statusline = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What this script cannot read this script leaves out rather than saying that value is unknown.",
+      statement: "A value this script cannot read is left out rather than said to be unknown.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +26,7 @@ export const statusline = {
     },
     {
       invariantKind: "stopgap",
-      statement: "What the payload observed is kept by code outside akasha.",
+      statement: "The usage the payload observed is kept by code outside akasha.",
     },
   ],
 } as const satisfies ShellScript
