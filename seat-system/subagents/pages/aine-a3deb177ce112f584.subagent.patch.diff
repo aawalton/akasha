@@ -38,7 +38,7 @@ index 4bf49ea00e412445706516b840aea85b6f99ba16..a25219d33f0830b1e598c08e7e67e5a1
    }
    const committed = readFileSync(absolute, "utf8")
 diff --git a/command-system/landing-saying/landing-saying.module.code.ts b/command-system/landing-saying/landing-saying.module.code.ts
-index 851b4939961a56e36f2053e66db9312585d8f2dd..b83d954f034ff0477a940fcf90ba2723acee89d4 100644
+index 851b4939961a56e36f2053e66db9312585d8f2dd..743ca744ed6d81dc63f2519b1f838299a1588a01 100644
 --- a/command-system/landing-saying/landing-saying.module.code.ts
 +++ b/command-system/landing-saying/landing-saying.module.code.ts
 @@ -20,7 +20,7 @@ export type Reported = {
@@ -50,8 +50,17 @@ index 851b4939961a56e36f2053e66db9312585d8f2dd..b83d954f034ff0477a940fcf90ba2723
    )
  }
  
+@@ -37,7 +37,7 @@ export function pathsOf(changes: readonly FileEdit[]): readonly string[] {
+ }
+ 
+ export function committedLine(said: Landed): string {
+-  if (said.commit === null) return "nothing was committed — what was asked for already stands"
++  if (said.commit === null) return "nothing was committed — what was asked for is already there"
+   if (said.commit === UNNAMED) return "committed — the commit could not be named"
+   return `committed as ${said.commit}`
+ }
 diff --git a/command-system/landing-saying/landing-saying.module.test.ts b/command-system/landing-saying/landing-saying.module.test.ts
-index f71a16eeb644cfe5e9c7ae63828d973e3984c292..c26246e93895a82eb74188c3f85aaa3c037c701f 100644
+index f71a16eeb644cfe5e9c7ae63828d973e3984c292..7c8687b63dc9b006ab1def6370d07c252985716a 100644
 --- a/command-system/landing-saying/landing-saying.module.test.ts
 +++ b/command-system/landing-saying/landing-saying.module.test.ts
 @@ -63,7 +63,7 @@ test("a commit that could not be named is told apart from a landing that committ
@@ -63,8 +72,17 @@ index f71a16eeb644cfe5e9c7ae63828d973e3984c292..c26246e93895a82eb74188c3f85aaa3c
    )
  })
  
+@@ -106,7 +106,7 @@ test("what the index took less than the whole of is named in the report", () =>
+ 
+ test("a body that landed other than as it was handed in is named in the report", () => {
+   expect(formattedSaid(["akasha/two.ts"])).toEqual([
+-    "formatted akasha/two.ts as it landed — what stands there is not what was handed in",
++    "formatted akasha/two.ts as it landed — what is there is not what was handed in",
+   ])
+   expect(formattedSaid([])).toEqual([])
+ })
 diff --git a/command-system/payload/payload.module.code.ts b/command-system/payload/payload.module.code.ts
-index 443e23fa0d505ec784846a2dd471b53ec02d9933..c7aeac6775d238de7795c25a41b51f26f8f40a03 100644
+index 443e23fa0d505ec784846a2dd471b53ec02d9933..1609f57f9f999a57a07c160053613eab055d0d7f 100644
 --- a/command-system/payload/payload.module.code.ts
 +++ b/command-system/payload/payload.module.code.ts
 @@ -136,7 +136,7 @@ export function addressOf(argv: readonly string[], also: readonly string[] = [])
@@ -73,6 +91,15 @@ index 443e23fa0d505ec784846a2dd471b53ec02d9933..c7aeac6775d238de7795c25a41b51f26
      fail(
 -      "the paths named here stand in more than one repo, and a call addresses one: " +
 +      "the paths named here are in more than one repo, and a call addresses one: " +
+         [...where].map(([repo, absolute]) => `${absolute} is inside ${repo}`).join(", ")
+     )
+   }
+@@ -176,7 +176,7 @@ export function rootsOfSide(flag: string, paths: readonly string[]): Roots {
+   }
+   if (where.size > 1) {
+     fail(
+-      `the paths ${flag} names stand in more than one repo, and one side of a move addresses one: ` +
++      `the paths ${flag} names are in more than one repo, and one side of a move addresses one: ` +
          [...where].map(([repo, absolute]) => `${absolute} is inside ${repo}`).join(", ")
      )
    }
