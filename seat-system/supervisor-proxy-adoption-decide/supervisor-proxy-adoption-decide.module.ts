@@ -18,7 +18,8 @@ export const supervisorProxyAdoptionDecide = {
     },
     {
       invariantKind: "departure",
-      statement: "A live proxy at another version is taken over anyway while it is healthy.",
+      statement:
+        "A live proxy at another version is taken over anyway while that proxy is healthy.",
     },
     {
       invariantKind: "departure",
