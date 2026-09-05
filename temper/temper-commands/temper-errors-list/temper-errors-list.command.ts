@@ -27,7 +27,8 @@ export const temperErrorsList = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An entry is stale where it falls more than the window behind the log frontier.",
+      statement:
+        "An entry is stale where that entry falls more than the window behind the log frontier.",
     },
     {
       invariantKind: "departure",
