@@ -1,3 +1,16 @@
+diff --git a/seat-system/commands/shell-init-bash/shell-init-bash.command.test.ts b/seat-system/commands/shell-init-bash/shell-init-bash.command.test.ts
+index cde07aaa5a42d767002716606e98faba4f76ab64..ea90de8b7ea475f867247ad9dff27ffd49fc468a 100644
+--- a/seat-system/commands/shell-init-bash/shell-init-bash.command.test.ts
++++ b/seat-system/commands/shell-init-bash/shell-init-bash.command.test.ts
+@@ -1,5 +1,8 @@
+ import { describe, expect, test } from "bun:test"
+ import type { Given } from "@akasha/command-system/calling"
++import { scratchWorld } from "@akasha/command-system/scratching"
++import { writing } from "@akasha/command-system/scratching/testing"
++import { listedFiled, pageFiled } from "@akasha/indexes/testing"
+ import { readIn, shellInitBash } from "./shell-init-bash.command.code.ts"
+ 
+ const given: Given = {
 diff --git a/seat-system/seat-stopping/seat-stopping.module.test.ts b/seat-system/seat-stopping/seat-stopping.module.test.ts
 index a70658b06024eb0a760c185ff73c816e8d7aca5b..9bf756672e942354b56da1976078646f8dab28f7 100644
 --- a/seat-system/seat-stopping/seat-stopping.module.test.ts
