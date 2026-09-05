@@ -14,7 +14,7 @@ export const designTokens = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here says what any color is used for.",
+      statement: "Nothing here names the use of any color.",
     },
   ],
 } as const satisfies WorkspacePackage
