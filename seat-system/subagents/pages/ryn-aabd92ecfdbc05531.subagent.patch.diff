@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/temper/temper-companions-core/companion-skills-00/companion-skills-00.module.ts b/temper/temper-companions-core/companion-skills-00/companion-skills-00.module.ts
+index 55523ff794d4c65c417ad71244439ecaf3408fdd..1197c98618f623be3c12af384f9c41ead1e35159 100644
+--- a/temper/temper-companions-core/companion-skills-00/companion-skills-00.module.ts
++++ b/temper/temper-companions-core/companion-skills-00/companion-skills-00.module.ts
+@@ -13,7 +13,8 @@ export const companionSkills00 = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "These bytes are the last good build rather than what the generator emits today.",
++      statement:
++        "These bytes are the last good build rather than the bytes the generator emits today.",
+     },
+     {
+       invariantKind: "gap",
