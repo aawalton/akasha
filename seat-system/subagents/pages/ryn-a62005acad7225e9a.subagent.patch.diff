@@ -1,0 +1,15 @@
+diff --git a/alan/music/spotify/client/spotify-client.module.ts b/alan/music/spotify/client/spotify-client.module.ts
+index d66da0ca35d06f036291010ed537114f75b9ea2f..5e85d7b62be58d780e9a1add0382ff7c134e8897 100644
+--- a/alan/music/spotify/client/spotify-client.module.ts
++++ b/alan/music/spotify/client/spotify-client.module.ts
+@@ -8,10 +8,6 @@ export const spotifyClient = {
+   code: "ts",
+   test: "ts",
+   invariants: [
+-    {
+-      invariantKind: "constraint",
+-      statement: "An unpaced sweep of the Web API bans the account for about a day.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "Two calls are never in flight at once.",
