@@ -1,0 +1,13 @@
+diff --git a/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts b/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
+index c89c1778689315855227d15d2b9e24fa1f459912..ebfbf39c25030f8a87337c7bf977397ff3a9052e 100644
+--- a/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
++++ b/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
+@@ -36,7 +36,7 @@ export const transactions = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Ten thousand of them arrive from a poller and nobody writes one by hand.",
++      statement: "Ten thousand transactions arrive from a poller and nobody writes one by hand.",
+     },
+     {
+       invariantKind: "departure",
