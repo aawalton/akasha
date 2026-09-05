@@ -1,0 +1,14 @@
+diff --git a/commands/move/siding/move-siding.module.ts b/commands/move/siding/move-siding.module.ts
+index c561bb989b8da69b40640fbc453266d0070a7a2c..3397e2e0ab3cda52e57a868fb70286bd23329a29 100644
+--- a/commands/move/siding/move-siding.module.ts
++++ b/commands/move/siding/move-siding.module.ts
+@@ -10,7 +10,8 @@ export const moveSiding = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A pair is read against the repository root, and one side outside it is refused.",
++      statement:
++        "A pair is read against the repository root, and one side outside that root is refused.",
+     },
+     {
+       invariantKind: "departure",
