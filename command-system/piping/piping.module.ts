@@ -89,7 +89,7 @@ export const piping = {
     {
       invariantKind: "departure",
       statement:
-        "The split marker ends the passage and the closing marker ends what that passage becomes.",
+        "The split marker ends the old passage and the closing marker ends the new passage.",
     },
     {
       invariantKind: "departure",
@@ -117,7 +117,7 @@ export const piping = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names what the payload is missing.",
+      statement: "A refusal names the marker the payload is missing.",
     },
     {
       invariantKind: "absence",
@@ -125,7 +125,7 @@ export const piping = {
     },
     {
       invariantKind: "absence",
-      statement: "What a caller is told to say instead is handed in by that caller.",
+      statement: "The wording a caller is told to say instead is handed in by that caller.",
     },
     {
       invariantKind: "gap",
