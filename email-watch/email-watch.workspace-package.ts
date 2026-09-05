@@ -21,7 +21,7 @@ export const emailWatch = {
     },
     {
       invariantKind: "departure",
-      statement: "What a run owes the next run is kept outside the repository.",
+      statement: "The state a run owes the next run is kept outside the repository.",
     },
     {
       invariantKind: "departure",
