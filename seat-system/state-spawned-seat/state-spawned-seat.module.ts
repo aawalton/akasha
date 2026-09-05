@@ -21,7 +21,7 @@ export const stateSpawnedSeat = {
     },
     {
       invariantKind: "departure",
-      statement: "What refused a stating is answered as the words that refused it.",
+      statement: "A stating's refusal is answered as the refusal's own words.",
     },
   ],
 } as const satisfies Module
