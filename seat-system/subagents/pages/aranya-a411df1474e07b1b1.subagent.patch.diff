@@ -101,18 +101,22 @@ index 0000000000000000000000000000000000000000..d75c8a443aa988752f58f1590eba9e7a
 +  ]
 +}
 diff --git a/seat-system/subagents/pages/aranya-a411df1474e07b1b1.subagent.patch.diff b/seat-system/subagents/pages/aranya-a411df1474e07b1b1.subagent.patch.diff
-index b5eb5b5f29a6384c6cda1c7897add1f95c40e38a..a88ad80699ef20b83d0cd5af3e64bc21887ad197 100644
+index 7f59a9dbfeb518e14131a6d74e2c71b60e201ed9..0cd85b7e5d5f57bb231ed5582dffec37aa7aefdb 100644
 --- a/seat-system/subagents/pages/aranya-a411df1474e07b1b1.subagent.patch.diff
 +++ b/seat-system/subagents/pages/aranya-a411df1474e07b1b1.subagent.patch.diff
-@@ -7,7 +7,7 @@ index 1d9b96f870d70659ace3b4239041e6595a0cb10e..b0820dad9dfdf4e3ffc829a5016e4b79
+@@ -224,8 +224,12 @@ index 1d9b96f870d70659ace3b4239041e6595a0cb10e..b147d4e8e6f8dfcf45706b66701e3452
     image: "registry.registry.svc.cluster.local:5000/cluster/eso-rig:serving",
     replicas: 0,
  -  manifestCode:
---    "service-system/cluster-services/pages/eso-rig/eso-rig.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +-    "infrastructure/eso-rig/manifests/eso-rig-manifests.manifest.code.ts",
++=======
+ -    "service-system/cluster-services/pages/eso-rig/eso-rig.cluster-service.code.attachment.ts",
+ +<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
  +  manifestSlug: "eso-rig-manifests",
-    invariants: [
-      {
+ +=======
+ +  manifestCode: "infrastructure/eso-rig/manifests/eso-rig-manifests.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/eso-rig/eso-rig.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/eso-rig/eso-rig.cluster-service.code.attachment.ts
 deleted file mode 100644
 index d75c8a443aa988752f58f1590eba9e7a5544ea2d..0000000000000000000000000000000000000000
@@ -216,20 +220,16 @@ index d75c8a443aa988752f58f1590eba9e7a5544ea2d..00000000000000000000000000000000
 -  ]
 -}
 diff --git a/service-system/cluster-services/pages/eso-rig/eso-rig.cluster-service.ts b/service-system/cluster-services/pages/eso-rig/eso-rig.cluster-service.ts
-index 1d9b96f870d70659ace3b4239041e6595a0cb10e..b147d4e8e6f8dfcf45706b66701e3452dd04dc46 100644
+index 1d9b96f870d70659ace3b4239041e6595a0cb10e..b0820dad9dfdf4e3ffc829a5016e4b795e6dc52e 100644
 --- a/service-system/cluster-services/pages/eso-rig/eso-rig.cluster-service.ts
 +++ b/service-system/cluster-services/pages/eso-rig/eso-rig.cluster-service.ts
-@@ -10,8 +10,11 @@ export const esoRig = {
+@@ -10,8 +10,7 @@ export const esoRig = {
    resourceName: "eso-rig",
    image: "registry.registry.svc.cluster.local:5000/cluster/eso-rig:serving",
    replicas: 0,
 -  manifestCode:
 -    "service-system/cluster-services/pages/eso-rig/eso-rig.cluster-service.code.attachment.ts",
-+<<<<<<< what this change would leave
 +  manifestSlug: "eso-rig-manifests",
-+=======
-+  manifestCode: "infrastructure/eso-rig/manifests/eso-rig-manifests.manifest.code.ts",
-+>>>>>>> what HEAD holds
    invariants: [
      {
        invariantKind: "departure",
