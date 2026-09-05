@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/temper/temper-build-deploy-checks/check-addon-dependency-floor/check-addon-dependency-floor.module.ts b/temper/temper-build-deploy-checks/check-addon-dependency-floor/check-addon-dependency-floor.module.ts
+index 23a02ae828d4da1247fdcd51f601857b2d309a8a..8bb28dcabe262b139110d3f273496bd609da5ac7 100644
+--- a/temper/temper-build-deploy-checks/check-addon-dependency-floor/check-addon-dependency-floor.module.ts
++++ b/temper/temper-build-deploy-checks/check-addon-dependency-floor/check-addon-dependency-floor.module.ts
+@@ -17,7 +17,8 @@ export const checkAddonDependencyFloor = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "What the run declined to judge is reported beside what the run judged.",
++      statement:
++        "The add-ons the run declined to judge are reported beside the add-ons the run judged.",
+     },
+   ],
+ } as const satisfies Module
