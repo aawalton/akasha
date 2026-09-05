@@ -225,11 +225,7 @@ export const refactor = {
       invariantKind: "constraint",
       statement: "The index carries the pages rather than every file git tracks.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "A tracked file outside that folder naming a renamed package is respelled in the same commit.",
-    },
+
     {
       invariantKind: "departure",
       statement:
