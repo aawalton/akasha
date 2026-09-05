@@ -1,9 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
 import { readingAt } from "../index-surface/index-surface.module.code.ts"
 import {
-  type FilePropertiesBy,
   fileKeysAt,
   fileKeysIn,
   filePropertiesAt,
@@ -14,16 +11,21 @@ import {
   sidecarsIn,
   uniquePropertiesAt,
 } from "./index-entries.module.code.ts"
-import { A, grounded, scratch } from "./index-entries.module.test-fixtures.ts"
+import {
+  A,
+  claimingBeside,
+  declaring,
+  EQUALLY_NEAR,
+  filedAs,
+  grounded,
+  HELD_PAGE,
+  NEARER,
+  SHARED_NAME,
+  scratch,
+  TWO_ABOVE,
+} from "./index-entries.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
-
-function filedAs(
-  pageTypeSlug: string,
-  said: Readonly<Record<string, string | null>>
-): FilePropertiesBy {
-  return new Map([[pageTypeSlug, new Map(Object.entries(said))]])
-}
 
 test("a property no page property declares to be a file is filed under no path", () => {
   const value = { id: A, pageTypeSlug: "domain", slug: "a", definition: "what is held" }
@@ -125,17 +127,6 @@ test("a page carrying both is claimed under the built name and under the stated 
     "deep/package.json",
   ])
 })
-
-function declaring(
-  index: string,
-  pageTypeSlug: string,
-  slug: string,
-  said: Record<string, unknown>
-): undefined {
-  const at = join(index, "schema", "page-property", pageTypeSlug, "slug", `${slug}.jsonl`)
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, `${JSON.stringify(said)}\n`, "utf8")
-}
 
 test("a schema line saying nothing about unique declares no identifier", () => {
   const index = scratch.rootFor("akasha-entries-schema-")
@@ -248,24 +239,7 @@ test("a stated file name holds a property in a file whatever page type the prope
 })
 
 test("a file property is answered under the page type declaring it and under no other", () => {
-  const values = [
-    { id: "1", pageTypeSlug: "file-property", slug: "notes", propertySlug: "notes" },
-    { id: "2", pageTypeSlug: "text-property", slug: "location-notes", propertySlug: "notes" },
-    {
-      id: "3",
-      pageTypeSlug: "page-type",
-      slug: "review-session",
-      properties: [{ pagePropertySlug: "notes" }],
-    },
-    {
-      id: "4",
-      pageTypeSlug: "page-type",
-      slug: "location",
-      properties: [{ pagePropertySlug: "location-notes" }],
-    },
-  ]
-
-  const said = filePropertiesIn(values)
+  const said = filePropertiesIn(SHARED_NAME)
 
   expect([...(said.get("review-session") ?? [])]).toEqual([["notes", null]])
   expect([...(said.get("location") ?? [])]).toEqual([])
@@ -350,88 +324,21 @@ test("what each page type holds in a file is answered off the index carrying no 
   expect(filePropertiesAt(reading)).toEqual(filePropertiesOver(reading, []))
 })
 
-function manifest(slug: string, fileName: string): Record<string, unknown> {
-  return { id: slug, pageTypeSlug: "named-file-property", slug, propertySlug: "manifest", fileName }
-}
-
 test("a page type naming two page types above it carries what each of them declares", () => {
-  const values = [
-    { id: "1", pageTypeSlug: "file-property", slug: "alpha", propertySlug: "alpha" },
-    { id: "2", pageTypeSlug: "file-property", slug: "beta", propertySlug: "beta" },
-    {
-      id: "3",
-      pageTypeSlug: "page-type",
-      slug: "one",
-      properties: [{ pagePropertySlug: "alpha" }],
-    },
-    { id: "4", pageTypeSlug: "page-type", slug: "two", properties: [{ pagePropertySlug: "beta" }] },
-    {
-      id: "5",
-      pageTypeSlug: "page-type",
-      slug: "both",
-      extendsSlug: ["page-type/one", "page-type/two"],
-    },
-  ]
-
-  expect([...(filePropertiesIn(values).get("both") ?? [])]).toEqual([
+  expect([...(filePropertiesIn(TWO_ABOVE).get("both") ?? [])]).toEqual([
     ["beta", null],
     ["alpha", null],
   ])
 })
 
 test("a property two page types above declare is taken from the nearer of them", () => {
-  const values = [
-    manifest("near-manifest", "near.json"),
-    manifest("far-manifest", "far.json"),
-    {
-      id: "a",
-      pageTypeSlug: "page-type",
-      slug: "far",
-      properties: [{ pagePropertySlug: "named-file-property/far-manifest" }],
-    },
-    {
-      id: "b",
-      pageTypeSlug: "page-type",
-      slug: "near",
-      properties: [{ pagePropertySlug: "named-file-property/near-manifest" }],
-    },
-    { id: "c", pageTypeSlug: "page-type", slug: "mid", extendsSlug: ["page-type/far"] },
-    {
-      id: "d",
-      pageTypeSlug: "page-type",
-      slug: "leaf",
-      extendsSlug: ["page-type/near", "page-type/mid"],
-    },
-  ]
-
-  expect([...(filePropertiesIn(values).get("leaf") ?? [])]).toEqual([["manifest", "near.json"]])
+  expect([...(filePropertiesIn(NEARER).get("leaf") ?? [])]).toEqual([["manifest", "near.json"]])
 })
 
 test("a property two page types equally near declare is taken from the last one named", () => {
-  const values = [
-    manifest("first-manifest", "first.json"),
-    manifest("second-manifest", "second.json"),
-    {
-      id: "a",
-      pageTypeSlug: "page-type",
-      slug: "first-parent",
-      properties: [{ pagePropertySlug: "named-file-property/first-manifest" }],
-    },
-    {
-      id: "b",
-      pageTypeSlug: "page-type",
-      slug: "second-parent",
-      properties: [{ pagePropertySlug: "named-file-property/second-manifest" }],
-    },
-    {
-      id: "c",
-      pageTypeSlug: "page-type",
-      slug: "leaf",
-      extendsSlug: ["page-type/first-parent", "page-type/second-parent"],
-    },
-  ]
-
-  expect([...(filePropertiesIn(values).get("leaf") ?? [])]).toEqual([["manifest", "second.json"]])
+  expect([...(filePropertiesIn(EQUALLY_NEAR).get("leaf") ?? [])]).toEqual([
+    ["manifest", "second.json"],
+  ])
 })
 
 test("the files beside a page are read from every page type above it", () => {
@@ -461,4 +368,52 @@ test("the files beside a page are read from every page type above it", () => {
   expect(said?.secret).toBe(true)
   expect(said?.uncommitted).toBe(true)
   expect([...(said?.besides ?? [])]).toEqual([["patch", "two-default"]])
+})
+
+const LINES = { pagePropertySlug: "lines", uncommitted: true, default: "jsonl" }
+
+const LINED = filedAs("held-type", { lines: null })
+
+const VALUES = "deep/a.held-type.uncommitted.ts"
+
+const FIRST = "deep/a.held-type.lines.uncommitted.jsonl"
+
+const PART2 = "deep/a.held-type.lines.part2.uncommitted.jsonl"
+
+const PART3 = "deep/a.held-type.lines.part3.uncommitted.jsonl"
+
+test("a file property a page type declares uncommitted is claimed under its uncommitted name", () => {
+  expect(claimingBeside(LINES, LINED)).toEqual([HELD_PAGE, VALUES, FIRST])
+})
+
+test("a file property a page type declares without that word is claimed under its plain name", () => {
+  const said = { pagePropertySlug: "patch", default: "diff" }
+
+  expect(claimingBeside(said, filedAs("held-type", { patch: null }))).toEqual([
+    HELD_PAGE,
+    "deep/a.held-type.patch.diff",
+  ])
+})
+
+test("the numbered files of an uncommitted property are claimed while they are there", () => {
+  const there = new Set([PART2, PART3])
+
+  expect(claimingBeside(LINES, LINED, (at) => there.has(at))).toEqual([
+    HELD_PAGE,
+    VALUES,
+    FIRST,
+    PART2,
+    PART3,
+  ])
+})
+
+test("naming an uncommitted property's files stops at the first that is not there", () => {
+  expect(claimingBeside(LINES, LINED, (at) => at === PART3)).toEqual([HELD_PAGE, VALUES, FIRST])
+})
+
+test("a page whose type declares an uncommitted value claims the values file beside the page", () => {
+  expect(claimingBeside({ uncommitted: true }, filedAs("held-type", {}))).toEqual([
+    HELD_PAGE,
+    VALUES,
+  ])
 })

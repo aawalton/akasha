@@ -3,7 +3,14 @@ import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { id as idPage } from "@akasha/pages-system/page/id"
 import { slug as slugPage } from "@akasha/pages-system/page/slug"
+import type { Value } from "@akasha/pages-system/page-value"
 import type { Shaped } from "../reaching/reaching.module.code.ts"
+import {
+  claimsOf,
+  type FilePropertiesBy,
+  type IsThere,
+  sidecarsIn,
+} from "./index-entries.module.code.ts"
 
 export const A = "01a04b79-0000-7000-8000-00000000000a"
 export const B = "01a04b79-0000-7000-8000-00000000000b"
@@ -136,3 +143,116 @@ export function shaped(pages: Readonly<Record<string, string>>): Shaped {
     },
   }
 }
+
+export function filedAs(
+  pageTypeSlug: string,
+  said: Readonly<Record<string, string | null>>
+): FilePropertiesBy {
+  return new Map([[pageTypeSlug, new Map(Object.entries(said))]])
+}
+
+export function declaring(
+  index: string,
+  pageTypeSlug: string,
+  slug: string,
+  said: Record<string, unknown>
+): undefined {
+  const at = join(index, "schema", "page-property", pageTypeSlug, "slug", `${slug}.jsonl`)
+  mkdirSync(dirname(at), { recursive: true })
+  writeFileSync(at, `${JSON.stringify(said)}\n`, "utf8")
+}
+
+export function manifest(slug: string, fileName: string): Value {
+  return { id: slug, pageTypeSlug: "named-file-property", slug, propertySlug: "manifest", fileName }
+}
+
+export const HELD_PAGE = "deep/a.held-type.ts"
+
+export function claimingBeside(
+  said: Record<string, unknown>,
+  filed: FilePropertiesBy,
+  there?: IsThere
+): readonly string[] {
+  const types: readonly Value[] = [
+    { id: "1", pageTypeSlug: "page-type", slug: "held-type", properties: [said] },
+  ]
+  const value: Value = { id: A, pageTypeSlug: "held-type", slug: "a" }
+  return claimsOf(value, `/repo/${HELD_PAGE}`, "/repo", filed, sidecarsIn(types), there)
+}
+
+export const SHARED_NAME: readonly Value[] = [
+  { id: "1", pageTypeSlug: "file-property", slug: "notes", propertySlug: "notes" },
+  { id: "2", pageTypeSlug: "text-property", slug: "location-notes", propertySlug: "notes" },
+  {
+    id: "3",
+    pageTypeSlug: "page-type",
+    slug: "review-session",
+    properties: [{ pagePropertySlug: "notes" }],
+  },
+  {
+    id: "4",
+    pageTypeSlug: "page-type",
+    slug: "location",
+    properties: [{ pagePropertySlug: "location-notes" }],
+  },
+]
+
+export const TWO_ABOVE: readonly Value[] = [
+  { id: "1", pageTypeSlug: "file-property", slug: "alpha", propertySlug: "alpha" },
+  { id: "2", pageTypeSlug: "file-property", slug: "beta", propertySlug: "beta" },
+  { id: "3", pageTypeSlug: "page-type", slug: "one", properties: [{ pagePropertySlug: "alpha" }] },
+  { id: "4", pageTypeSlug: "page-type", slug: "two", properties: [{ pagePropertySlug: "beta" }] },
+  {
+    id: "5",
+    pageTypeSlug: "page-type",
+    slug: "both",
+    extendsSlug: ["page-type/one", "page-type/two"],
+  },
+]
+
+export const NEARER: readonly Value[] = [
+  manifest("near-manifest", "near.json"),
+  manifest("far-manifest", "far.json"),
+  {
+    id: "a",
+    pageTypeSlug: "page-type",
+    slug: "far",
+    properties: [{ pagePropertySlug: "named-file-property/far-manifest" }],
+  },
+  {
+    id: "b",
+    pageTypeSlug: "page-type",
+    slug: "near",
+    properties: [{ pagePropertySlug: "named-file-property/near-manifest" }],
+  },
+  { id: "c", pageTypeSlug: "page-type", slug: "mid", extendsSlug: ["page-type/far"] },
+  {
+    id: "d",
+    pageTypeSlug: "page-type",
+    slug: "leaf",
+    extendsSlug: ["page-type/near", "page-type/mid"],
+  },
+]
+
+export const EQUALLY_NEAR: readonly Value[] = [
+  manifest("first-manifest", "first.json"),
+  manifest("second-manifest", "second.json"),
+  {
+    id: "a",
+    pageTypeSlug: "page-type",
+    slug: "first-parent",
+    properties: [{ pagePropertySlug: "named-file-property/first-manifest" }],
+  },
+  {
+    id: "b",
+    pageTypeSlug: "page-type",
+    slug: "second-parent",
+    properties: [{ pagePropertySlug: "named-file-property/second-manifest" }],
+  },
+  {
+    id: "c",
+    pageTypeSlug: "page-type",
+    slug: "leaf",
+    extendsSlug: ["page-type/first-parent", "page-type/second-parent"],
+  },
+]
