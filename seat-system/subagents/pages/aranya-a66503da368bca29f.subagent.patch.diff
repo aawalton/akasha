@@ -1,3 +1,23 @@
+diff --git a/audhdalan/audhdalan-web/tsconfig.json b/audhdalan/audhdalan-web/tsconfig.json
+index ab8455e15d79ba046c81d6abe474550ea8830d65..2d5c456da527177768f738aff582ed81077b23ac 100644
+--- a/audhdalan/audhdalan-web/tsconfig.json
++++ b/audhdalan/audhdalan-web/tsconfig.json
+@@ -23,13 +23,14 @@
+     "*/*.module.code.ts",
+     "*/*.module.code.tsx",
+     "*/*.stylesheet.ts",
++    "*/*.manifest.ts",
++    "*/*.manifest.code.ts",
+     ".react-router/types/**/*.ts",
+     ".react-router/types/**/*.tsx",
+     ".react-router/types/**/+types/*.ts",
+     "server.ts",
+     "vite.config.ts",
+     "react-router.config.ts",
+-    "*.cluster-service.code.attachment.ts",
+     "tunnel-routes.ts"
+   ],
+   "exclude": ["node_modules", "dist", "build"]
 diff --git a/service-system/cluster-services/pages/audhdalan-web.cluster-service.ts b/service-system/cluster-services/pages/audhdalan-web.cluster-service.ts
 index df7e8d08f15c220f112ed17808068dfdd21b564a..5ce068effe84bd186439beb822fca9958f1773a3 100644
 --- a/service-system/cluster-services/pages/audhdalan-web.cluster-service.ts
