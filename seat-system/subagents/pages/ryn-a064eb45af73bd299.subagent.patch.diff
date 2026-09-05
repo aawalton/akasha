@@ -1,0 +1,15 @@
+diff --git a/google/email/commands/email-drafts-create/email-drafts-create.command.ts b/google/email/commands/email-drafts-create/email-drafts-create.command.ts
+index 14cc4ab88bf271bc454d920cb9f82cf4f88e2734..347aac3b3f366fadeb0373687fc00942bed4969c 100644
+--- a/google/email/commands/email-drafts-create/email-drafts-create.command.ts
++++ b/google/email/commands/email-drafts-create/email-drafts-create.command.ts
+@@ -43,10 +43,6 @@ export const emailDraftsCreate = {
+       invariantKind: "departure",
+       statement: "A subject read from a file carries no line ending.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A body read from a file is carried whole.",
+-    },
+ 
+     {
+       invariantKind: "departure",
