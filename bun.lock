@@ -288,7 +288,6 @@
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "@akasha/utils-sync": "workspace:*",
         "@akasha/voice-core": "workspace:*",
         "@akasha/web-build-version": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
@@ -1185,16 +1184,9 @@
         "@akasha/day": "workspace:*",
         "@akasha/digit-padding": "workspace:*",
         "@akasha/id-minting": "workspace:*",
-        "@akasha/pages-formula": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
-      },
-    },
-    "pages/formula": {
-      "name": "@akasha/pages-formula",
-      "dependencies": {
-        "@akasha/utils-narrow": "workspace:*",
       },
     },
     "pages/indexes": {
@@ -3104,8 +3096,6 @@
     "@akasha/pages-access": ["@akasha/pages-access@workspace:pages/access"],
 
     "@akasha/pages-core": ["@akasha/pages-core@workspace:pages/core"],
-
-    "@akasha/pages-formula": ["@akasha/pages-formula@workspace:pages/formula"],
 
     "@akasha/pages-query": ["@akasha/pages-query@workspace:pages/query"],
 

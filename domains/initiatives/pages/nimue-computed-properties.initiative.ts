@@ -31,7 +31,7 @@ export const nimueComputedProperties = {
     {
       statement: "No calculation is written as an expression the system parses.",
       workingMemory:
-        "No formula-property page remains in akasha, the page type itself is gone, and `holds` moved to computed-properties keeping its id. Sixteen went from wake-day, twelve from collection, and three on persona-day were ablated because that page type is being rebuilt. Each answered exactly what the formula answered, measured over every page of its type. The parser is reached by nothing: a color rule is a function a property definition carries, and `pages/formula` stays unused.",
+        "No formula-property page remains in akasha, the page type itself is gone, and `holds` moved to computed-properties keeping its id. Sixteen went from wake-day, twelve from collection, and three on persona-day were ablated because that page type is being rebuilt. Each answered exactly what the formula answered, measured over every page of its type. The parser is gone: `pages/formula` is deleted whole, a color rule being a function a property definition carries rather than a string.",
     },
     {
       statement: "Sleep hours and surplus hours answer from a calculation.",
