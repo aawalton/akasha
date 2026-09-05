@@ -10,7 +10,7 @@ export const digitPadding = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what the number this package fills out counts.",
+      statement: "Nothing here knows the thing the number this package fills out counts.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +22,7 @@ export const digitPadding = {
     },
     {
       invariantKind: "departure",
-      statement: "A shorter answer breaks a caller that parses back what this writes.",
+      statement: "A shorter answer breaks a caller that parses back the answer this writes.",
     },
   ],
 } as const satisfies WorkspacePackage
