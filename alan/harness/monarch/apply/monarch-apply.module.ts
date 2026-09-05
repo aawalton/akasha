@@ -22,8 +22,7 @@ export const monarchApply = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An ambiguity is refused rather than guessed between, because Alan ruled these fall through to semantic review.",
+      statement: "An ambiguity is refused rather than guessed between.",
     },
     {
       invariantKind: "departure",
