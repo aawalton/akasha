@@ -10,7 +10,7 @@ export const completionCumulativeCards = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "Nothing here counts what a character has earned.",
+      statement: "Nothing here counts the completions a character has earned.",
     },
   ],
 } as const satisfies Module
