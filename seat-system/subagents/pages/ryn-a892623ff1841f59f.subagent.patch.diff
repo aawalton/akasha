@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-addon-data/addon-data-writes-stats/addon-data-writes-stats.module.ts b/temper/temper-addon-data/addon-data-writes-stats/addon-data-writes-stats.module.ts
+index 07cc90bd2092c0ec63e64f642af108c681dd8c9c..cab71be74b726ec6bb24f3626a10e3ca40bd0811 100644
+--- a/temper/temper-addon-data/addon-data-writes-stats/addon-data-writes-stats.module.ts
++++ b/temper/temper-addon-data/addon-data-writes-stats/addon-data-writes-stats.module.ts
+@@ -9,7 +9,7 @@ export const addonDataWritesStats = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The metric tree is the whole of what the stats section renders.",
++      statement: "The metric tree is the whole of the output the stats section renders.",
+     },
+     {
+       invariantKind: "departure",
