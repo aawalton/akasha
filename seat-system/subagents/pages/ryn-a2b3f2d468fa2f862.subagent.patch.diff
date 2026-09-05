@@ -15,3 +15,21 @@ index b39d3882d8b6bab1a9fc582ba6c9ad49d49e43de..83e0eef942c59b7b5020768663309787
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/monarch/categorize/monarch-categorize.module.ts b/alan/harness/monarch/categorize/monarch-categorize.module.ts
+index ca4cb59ffe2b18258c97b9f7dcba913731c6a5fc..817f2dc9037387ae4858adcbf326e7abc74df455 100644
+--- a/alan/harness/monarch/categorize/monarch-categorize.module.ts
++++ b/alan/harness/monarch/categorize/monarch-categorize.module.ts
+@@ -13,8 +13,11 @@ export const monarchCategorize = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A category is named by a page that stands, and a Monarch id resolving other than exactly one page is refused.",
++      statement: "A category is named by a page that exists.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A Monarch id resolving other than exactly one page is refused.",
+     },
+     {
+       invariantKind: "departure",
