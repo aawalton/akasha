@@ -13,3 +13,15 @@ index 0000000000000000000000000000000000000000..9478feb925b4108709e10834c79cc88f
 +  definition: "the speech workload, its namespace and the way in to it",
 +  code: "ts",
 +} as const satisfies Manifest
+diff --git a/infrastructure/voice-inference/voice-inference.workspace-package.ts b/infrastructure/voice-inference/voice-inference.workspace-package.ts
+index f93133cc87f4430aed8ca07a185555d0cce7f461..24b5c7e9cb99c49a3ddafac9803923422de96c0e 100644
+--- a/infrastructure/voice-inference/voice-inference.workspace-package.ts
++++ b/infrastructure/voice-inference/voice-inference.workspace-package.ts
+@@ -8,6 +8,7 @@ export const voiceInference = {
+   manifest: "json",
+   partSlugs: [
+     "container-recipe/voice-infer-image",
++    "manifest/voice-infer",
+     "python-module/voice-infer-server",
+     "python-module/voice-models",
+     "python-module/voice-object-store",
