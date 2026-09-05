@@ -9,7 +9,7 @@ export const tradingPrune = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "A listing older than the expiry is no longer what the guild store holds.",
+      statement: "A listing older than the expiry is no longer among the guild store's listings.",
     },
   ],
 } as const satisfies Module
