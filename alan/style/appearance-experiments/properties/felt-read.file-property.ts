@@ -11,7 +11,7 @@ export const feltRead = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A felt read is Alan's own rather than the persona's reading of him.",
+      statement: "A felt read is Alan's own rather than the persona's reading of Alan.",
     },
   ],
 } as const satisfies FileProperty
