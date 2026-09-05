@@ -28,8 +28,7 @@ import {
   TO,
   VALUED,
 } from "./arguing/refactor-arguing.module.code.ts"
-import type { Keying, Respelling } from "./key-respelling/key-respelling.module.code.ts"
-import { keyingFor, respellingFor } from "./key-respelling/key-respelling.module.code.ts"
+import { keyingFor, keyLanded } from "./key-respelling/key-respelling.module.code.ts"
 import { bodyTextOf, respelledLanded, were } from "./landing/refactor-landing.module.code.ts"
 import { packageLanded } from "./package-renaming/package-renaming.module.code.ts"
 import { retypeLanded } from "./page-retyping/page-retyping.module.code.ts"
@@ -240,43 +239,6 @@ export async function landed(
     [...saying(one, carries, repointing, pages, left, true), ...landing.report],
     landing.refusals,
     landing.code
-  )
-}
-
-function keySaying(one: Keying, respelling: Respelling, dry: boolean): readonly string[] {
-  const paths = [...respelling.changes.keys()].sort()
-  const pages = respelling.pages.length
-  const types = respelling.declarers.length
-  return [
-    `\`${one.named}\` ${dry ? "would be read" : "is read"} by \`${one.nowKey}\` ` +
-      `rather than \`${one.wasKey}\``,
-    `${one.path} states the key, and its slug \`${one.was}\` does not move`,
-    `${counted(types, "type")} ${types === 1 ? "declares" : "declare"} it`,
-    ...respelling.declarers.map((path) => `  ${path}`),
-    `${counted(pages, "page")} ${pages === 1 ? "states" : "state"} it`,
-    `${counted(paths.length, "file")} ${were(paths.length, dry)} respelled`,
-    ...(dry ? paths.map((path) => `  ${path}`) : []),
-  ]
-}
-
-export async function keyLanded(
-  given: Given,
-  root: string,
-  one: Keying,
-  dryRun: boolean,
-  argv: readonly string[]
-): Promise<Answer> {
-  const made = respellingFor(root, readingIn(root), one, bodyTextOf(root, baseOf(root)))
-  if ("refused" in made) return answering([], [made.refused], 1)
-  return await respelledLanded(
-    given,
-    root,
-    made.respelling.changes,
-    `read \`${one.named}\` by \`${one.nowKey}\` rather than \`${one.wasKey}\``,
-    (dry) => keySaying(one, made.respelling, dry),
-    dryRun,
-    argv,
-    VALUED
   )
 }
 

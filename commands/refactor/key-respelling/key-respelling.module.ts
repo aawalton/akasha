@@ -60,8 +60,32 @@ export const keyRespelling = {
       statement: "The property's own page states the key the property becomes.",
     },
     {
+      invariantKind: "departure",
+      statement: "A file beside a page is named for the key rather than for the slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every file named for the key is carried to the name the new key makes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A numbered part of that property's file is carried with the first.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file holding that property uncommitted is carried with the committed ones.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file beside a page named for another key is left as it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which pages the files are looked for beside is what the index answers.",
+    },
+    {
       invariantKind: "absence",
-      statement: "No file is carried and no path changes.",
+      statement: "A carried file changes folder for no rename.",
     },
     {
       invariantKind: "absence",

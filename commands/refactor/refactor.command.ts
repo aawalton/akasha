@@ -56,7 +56,8 @@ export const refactor = {
     "--dry-run names every file it would carry; a landing says how many.",
     "a spelling it cannot judge to be a path is named in the answer rather than changed.",
     "a property is named by the address it stands at, since a key on its own reaches no property.",
-    "a key rename carries no file, so it takes no plural and repoints no address.",
+    "a key rename carries every file named for the key to the name the new key makes.",
+    "a key rename moves no page and repoints no address, and a key carries no plural.",
     "a name is named by the file exporting it, since one name is carried by many files.",
     "a name is renamed where the checker resolves to it rather than where a body spells it.",
     "--line picks one where the file declares that name in more than one place.",
@@ -165,6 +166,14 @@ export const refactor = {
     {
       invariantKind: "departure",
       statement: "Every place the checker resolves to a renamed key is respelled in one commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key rename carries every file beside a page named for the key it renames.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file a key rename carries arrives under the name the new key makes.",
     },
     {
       invariantKind: "departure",

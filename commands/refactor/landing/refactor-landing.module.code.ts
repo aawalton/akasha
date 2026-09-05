@@ -1,9 +1,10 @@
+import { uncommittedHeld } from "@akasha/pages-system/page-file-name"
 import type { Asked } from "../../../command-system/asking/asking.module.code.ts"
 import { landingAsked, textOf } from "../../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
 import { answering } from "../../../command-system/calling/calling.module.code.ts"
 import { bodyAt } from "../../../command-system/commit-reading/commit-reading.module.code.ts"
-import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
+import type { FileCarry, FileEdit } from "../../../command-system/landing/landing.module.code.ts"
 import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
 import type { Carry } from "../../../command-system/reading/reading.module.code.ts"
 import { blobIdOf, carryReadings } from "../../../command-system/reading/reading.module.code.ts"
@@ -32,24 +33,45 @@ export async function respelledLanded(
   saying: Saying,
   dryRun: boolean,
   argv: readonly string[],
-  flags: readonly string[]
+  flags: readonly string[],
+  carries: readonly FileCarry[] = []
 ): Promise<Answer> {
   const glass = glassIn(argv, flags)
   if ("refusals" in glass) return answering([], glass.refusals, 1)
   const asked = messageIn(argv, flags)
   if ("refusals" in asked) return answering([], asked.refusals, 1)
   const base = baseOf(root)
+  const carried = new Set(carries.map((one) => one.from))
   const changes: FileEdit[] = []
   const readings: Carry[] = []
+  const moving: FileCarry[] = []
   for (const path of [...said.keys()].sort()) {
     const body = said.get(path)
-    if (body === undefined) continue
+    if (body === undefined || carried.has(path)) continue
     const bytes = bodyAt(root, base, path)
     if (bytes === null) {
-      return answering([], [`${path} stands in no commit at \`${base}\``], 2)
+      return answering([], [`${path} is in no commit at \`${base}\``], 2)
     }
     readings.push({ was: path, now: path, from: blobIdOf(bytes) })
     changes.push({ path, body: BYTES.encode(body), carried: true })
+  }
+  for (const one of carries) {
+    if (uncommittedHeld(one.from)) {
+      moving.push(one)
+      continue
+    }
+    const bytes = bodyAt(root, base, one.from)
+    if (bytes === null) {
+      return answering([], [`${one.from} is in no commit at \`${base}\``], 2)
+    }
+    readings.push({ was: one.from, now: one.to, from: blobIdOf(bytes) })
+    changes.push({ path: one.from, body: null })
+    const body = said.get(one.from)
+    changes.push({
+      path: one.to,
+      body: body === undefined ? bytes : BYTES.encode(body),
+      carried: true,
+    })
   }
   const asking: Asked = {
     changes,
@@ -58,6 +80,7 @@ export async function respelledLanded(
     glass: glass.glass,
     unmoved: [],
     read: base,
+    carries: moving,
     saying: () => saying(false),
   }
   const landing = await landingAsked({ ...given, root }, asking)

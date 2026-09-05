@@ -36,16 +36,26 @@ export const refactorLanding = {
       statement: "What an act says about its own rename is handed in rather than worked out here.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A file a rename carries is taken away at the name it had and written at the name it becomes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file holding uncommitted values is carried rather than read from a commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading of a carried file is carried to the name that file becomes.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body respelled at a path this carries is written at the name that path becomes.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here works out what a rename would change.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "No file is carried and no path changes.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "No test stands over what lands here.",
     },
   ],
 } as const satisfies Module
