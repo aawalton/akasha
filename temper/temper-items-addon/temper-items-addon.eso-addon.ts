@@ -176,7 +176,7 @@ export const temperItemsAddon = {
     },
     {
       invariantKind: "departure",
-      statement: "The compiled rules alone decide what happens to an item.",
+      statement: "The compiled rules alone decide the action taken on an item.",
     },
     {
       invariantKind: "departure",
