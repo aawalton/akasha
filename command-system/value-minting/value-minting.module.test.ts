@@ -122,7 +122,7 @@ test("two worked out in the same millisecond are still two", () => {
   expect(uuidVersion7(at)).not.toBe(uuidVersion7(at))
 })
 
-test("a value goes in first in the literal, and the rest of the body stands", () => {
+test("a value goes in first in the literal, and the rest of the body is unchanged", () => {
   const said = insertedInto(AT, BODY, "id", '"held"') ?? ""
   expect(said).toContain('{ id: "held", pageTypeSlug: "thing"')
   expect(said.split("\n").length).toBe(BODY.split("\n").length)
@@ -179,7 +179,7 @@ test("a page carrying the value already keeps the one it carries", () => {
   expect(textOf(said.changes)).toBe(body)
 })
 
-test("a body carried from another path is left as it stands", () => {
+test("a body carried from another path is left as it is", () => {
   const root = rooted("uuid-v7")
   const said = mintingOnto(root, [{ ...carrying(BODY), carried: true }])
   expect(said.filled).toEqual([])
@@ -192,7 +192,7 @@ test("a path naming no page takes no value", () => {
   expect(said.filled).toEqual([])
 })
 
-test("a page already standing keeps the value it was given", () => {
+test("a page already committed keeps the value it was given", () => {
   const root = rooted("uuid-v7")
   put(root, AT, BODY)
   gitIn(root, ["add", "--", AT])

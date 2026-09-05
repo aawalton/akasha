@@ -81,7 +81,7 @@ test("a package name is respelled and a longer name it only opens is left alone"
   expect(said).toBe('"@akasha/first/two" "@akasha/one-other" "@akasha/first"')
 })
 
-test("the search covers every file the commit tracks, wherever in the tree it stands", () => {
+test("the search covers every file the commit tracks, wherever in the tree it is", () => {
   const root = world({ [OUTSIDE_AT]: SPELT, [INSIDE_AT]: SPELT })
   const whole = namedTracked(root, baseOf(root), ["akasha/one"])
   expect("paths" in whole ? whole.paths : ["it refused"]).toEqual([INSIDE_AT, OUTSIDE_AT])

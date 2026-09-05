@@ -65,7 +65,7 @@ test("a body the change touches is read as the change would leave it", () => {
   readingEnded()
 })
 
-test("a body the change takes away reads as gone rather than as what stands", () => {
+test("a body the change takes away reads as gone rather than as what was there", () => {
   const root = repoWith({ "one.txt": "committed" })
   const change = changeOf(root, {
     base: baseOf(root),
@@ -206,7 +206,7 @@ test("asking for nothing is refused rather than committed empty", async () => {
   expect(baseOf(root)).toBe(was)
 })
 
-test("a change asking for what already stands commits nothing", async () => {
+test("a change asking for what is already there commits nothing", async () => {
   const root = repoWith({ "one.txt": "committed" })
   const was = baseOf(root)
   const said = await landing(root, [{ path: "one.txt", body: bytes("committed") }], "held", ADMITS)
@@ -254,7 +254,7 @@ test("a change read against a commit that moved nothing it carries is landed", a
   expect(readFileSync(join(root, "akasha/a.domain.ts"), "utf8")).toBe("moved")
 })
 
-test("a change read against the commit that stands is landed", async () => {
+test("a change read against the commit at HEAD is landed", async () => {
   const root = pagesRepo()
   await landing(root, CARRIED, "held", ADMITS)
   const said = await landing(
@@ -282,7 +282,7 @@ test("a change read against an abbreviated commit is read against the commit it 
   expect(readFileSync(join(root, "akasha/a.domain.ts"), "utf8")).toBe("moved")
 })
 
-test("a change read against a name standing for no commit is refused unwritten", async () => {
+test("a change read against a name that names no commit is refused unwritten", async () => {
   const root = repoWith({ "one.txt": "committed" })
   const was = baseOf(root)
   const change = [{ path: "new.txt", body: bytes("proposed") }]

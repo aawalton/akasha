@@ -105,7 +105,7 @@ test("a name no command carries is a caller's mistake too", async () => {
   expect(said.err[0]).toContain("is no command akasha carries")
 })
 
-test("a name looked for where no index stands says nothing was read, not that none is carried", async () => {
+test("a name looked for where there is no index says nothing was read, not that none is carried", async () => {
   const said = await answering(["held"], { AKASHA_ROOT: "/nowhere-at-all" }, AT, "/nowhere")
   expect(said.code).toBe(INPUT)
   expect(said.err[0]).toContain("was looked for and not read")

@@ -215,7 +215,7 @@ test("a hold another process took over is not released by the one that lost it",
   expect(readFileSync(at, "utf8")).toBe(theirs)
 })
 
-test("a holder whose pid stands for another process than the one that took it is no holder", () => {
+test("a holder whose pid represents another process than the one that took it is no holder", () => {
   const root = repoWith({ "one.txt": "committed" })
   mkdirSync(join(root, ".git"), { recursive: true })
   writeFileSync(join(root, LOCK_AT), `${process.pid} 1`)
@@ -224,7 +224,7 @@ test("a holder whose pid stands for another process than the one that took it is
   expect(Date.now() - from).toBeLessThan(2000)
 })
 
-test("a mark no holder can be read from wedges nothing once it has stood too long", () => {
+test("a mark no holder can be read from wedges nothing once it has been there too long", () => {
   const root = repoWith({ "one.txt": "committed" })
   const at = join(root, LOCK_AT)
   mkdirSync(join(root, ".git"), { recursive: true })

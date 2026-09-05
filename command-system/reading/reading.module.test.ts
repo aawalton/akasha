@@ -148,7 +148,7 @@ test("a carry chains off the mechanical id, and the body read stays pinned", () 
   expect(carriedInto(held, { was: A, now: B, from: "one" }, "three")).toBeNull()
 })
 
-test("a carried reading stands at the new path and the old file is gone", () => {
+test("a carried reading is at the new path and the old file is gone", () => {
   const root = scratch.rootFor("akasha-reading-")
   const was = writing(root, A, "one\n")
   const now = writing(root, B, "two\n")
@@ -164,7 +164,7 @@ test("a carried reading stands at the new path and the old file is gone", () => 
   expect(existsSync(readingFileAt(root, AGENT, A))).toBe(false)
 })
 
-test("a body rewritten where it stands keeps its path and gains the mechanical id", () => {
+test("a body rewritten where it is keeps its path and gains the mechanical id", () => {
   const root = scratch.rootFor("akasha-reading-")
   const was = blobIdOf(new TextEncoder().encode("one\n"))
   const now = writing(root, A, "two\n")
@@ -257,14 +257,14 @@ test("an acting name without a seat named is not honoured either", () => {
   expect(writerIn({ [SEAT_NAMED]: "", [ACTING_NAMED]: UNDER })).toBeNull()
 })
 
-test("a subagent's readings stand under its own name and not its seat's", () => {
+test("a subagent's readings sit under its own name and not its seat's", () => {
   const root = scratch.rootFor("akasha-reading-")
   recordRead(root, UNDER, { path: A, oid: "one", seenAt: 1, mechanicalOid: null })
   expect(readingIn(root, UNDER, A)?.oid).toBe("one")
   expect(readingIn(root, AGENT, A)).toBeNull()
 })
 
-test("a seat's readings do not stand under its subagent's name", () => {
+test("a seat's readings do not sit under its subagent's name", () => {
   const root = scratch.rootFor("akasha-reading-")
   recordRead(root, AGENT, { path: A, oid: "one", seenAt: 1, mechanicalOid: null })
   expect(readingIn(root, UNDER, A)).toBeNull()

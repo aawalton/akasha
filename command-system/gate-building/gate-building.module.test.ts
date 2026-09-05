@@ -37,7 +37,7 @@ test("a gate that could not be built judges nothing rather than passing everythi
   ).toEqual([])
 })
 
-test("the two modules loaded late are named as paths under the root, and both stand", () => {
+test("the two modules loaded late are named as paths under the root, and both are there", () => {
   expect(existsSync(join(HERE, CHECKING_AT))).toBe(true)
   expect(existsSync(join(HERE, INDEXING_AT))).toBe(true)
 })

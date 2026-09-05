@@ -9,11 +9,11 @@ afterAll(scratch.sweep)
 
 const PREFIX = "akasha-scratching-"
 
-test("the place a scratch world stands in is named here, and it is /var/tmp", () => {
+test("the place a scratch world sits in is named here, and it is /var/tmp", () => {
   expect(SCRATCH_AT).toBe("/var/tmp")
 })
 
-test("a root stands under /var/tmp, carrying the prefix it was asked for", () => {
+test("a root sits under /var/tmp, carrying the prefix it was asked for", () => {
   const root = scratch.rootFor(PREFIX)
   expect(dirname(root)).toBe("/var/tmp")
   expect(root).toStartWith(`/var/tmp/${PREFIX}`)
