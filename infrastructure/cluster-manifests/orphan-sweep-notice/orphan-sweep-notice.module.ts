@@ -18,7 +18,7 @@ export const orphanSweepNotice = {
     },
     {
       invariantKind: "departure",
-      statement: "Every orphan is named with the deploy that manages it.",
+      statement: "Every orphan is named with the deploy that manages that orphan.",
     },
   ],
 } as const satisfies Module
