@@ -42,7 +42,7 @@ export const commitReading = {
     },
     {
       invariantKind: "departure",
-      statement: "What git says on the error stream is carried into what is thrown.",
+      statement: "The text git says on the error stream is carried into the error thrown.",
     },
     {
       invariantKind: "absence",
@@ -58,7 +58,7 @@ export const commitReading = {
     },
     {
       invariantKind: "absence",
-      statement: "The commit is named by whoever asks.",
+      statement: "The commit is named by the caller asking.",
     },
   ],
 } as const satisfies Module
