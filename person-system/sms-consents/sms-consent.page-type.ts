@@ -54,7 +54,7 @@ export const smsConsent = {
     },
     {
       invariantKind: "departure",
-      statement: "A consent is written before the visitor is told they are signed up.",
+      statement: "A consent is written before the visitor is told that visitor is signed up.",
     },
     {
       invariantKind: "departure",
