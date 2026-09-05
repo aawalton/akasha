@@ -21,7 +21,7 @@ export const wan = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A graph is built here and run by whoever holds the daemon.",
+      statement: "A graph is built here and run by the holder of the daemon.",
     },
     {
       invariantKind: "departure",
