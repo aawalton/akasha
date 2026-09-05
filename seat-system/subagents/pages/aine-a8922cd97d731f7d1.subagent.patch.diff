@@ -11,6 +11,63 @@ index 430bb8bc1409a0f6262e28a76519062c4e27a32b..feb22aa9b5205dc26a2bb4b66e084d3d
  
  const UNLOOKED = "A linter that could not look has verified nothing, so this change is not judged."
  
+diff --git a/checks/code-checks/pages/lint-clean/lint-clean.code-check.test.ts b/checks/code-checks/pages/lint-clean/lint-clean.code-check.test.ts
+index 4e0ef09b1b30f2cfdba78911b7404798936c79b0..5cc28d21f8009f0a04b5561355e14f53a2767717 100644
+--- a/checks/code-checks/pages/lint-clean/lint-clean.code-check.test.ts
++++ b/checks/code-checks/pages/lint-clean/lint-clean.code-check.test.ts
+@@ -113,13 +113,13 @@ test("a change the linter finds fault in is refused, and the reason names the ru
+   expect(said[0]?.reason).toContain("This variable spare is unused.")
+ })
+ 
+-test("every finding is answered, each against the file it stands in", () => {
++test("every finding is answered, each against the file it is in", () => {
+   const root = repo({ "akasha/one.ts": UNUSED, "akasha/two.ts": UNUSED })
+   const said = linted(change(root, ["akasha/one.ts", "akasha/two.ts"]))
+   expect(said.map((one) => one.path)).toEqual(["akasha/one.ts", "akasha/two.ts"])
+ })
+ 
+-test("a change is judged by the body it proposes, not the one standing on disk", () => {
++test("a change is judged by the body it proposes, not the one on disk", () => {
+   const root = repo({ "akasha/one.ts": CLEAN })
+   const at = proposing(root, "akasha/one.ts", UNUSED)
+   const said = linted(change(root, ["akasha/one.ts"], at))
+@@ -129,7 +129,7 @@ test("a change is judged by the body it proposes, not the one standing on disk",
+   expect(linted(change(root, ["akasha/one.ts"]))).toEqual([])
+ })
+ 
+-test("a change taking a fault away passes, though the fault still stands on disk", () => {
++test("a change taking a fault away passes, though the fault is still on disk", () => {
+   const root = repo({ "akasha/one.ts": UNUSED })
+   const at = proposing(root, "akasha/one.ts", CLEAN)
+   expect(linted(change(root, ["akasha/one.ts"], at))).toEqual([])
+@@ -148,16 +148,16 @@ test("the reason names no tree that has been swept", () => {
+   const root = repo({ "akasha/one.ts": CLEAN }, false)
+   const said = linted(change(root, ["akasha/one.ts"]))
+   expect(said[0]?.reason).not.toContain("/var/tmp/akasha-world-")
+-  expect(said[0]?.reason).toContain("the world this change was stood up in")
++  expect(said[0]?.reason).toContain("the world this change was set up in")
+ })
+ 
+ test("the world's root is taken out of what is reported", () => {
+   expect(outsideOf("held at /held/one.ts, under /held", "/held")).toBe(
+-    "held at one.ts, under the world this change was stood up in"
++    "held at one.ts, under the world this change was set up in"
+   )
+ })
+ 
+-test("a finding is said as its rule, where it stands and what the linter said", () => {
++test("a finding is said as its rule, where it is and what the linter said", () => {
+   const found = { path: "akasha/one.ts", line: 12, column: 7, rule: RULE, said: "This is unused." }
+   expect(reasonOf(found)).toBe(`\`${RULE}\` at line 12, column 7 — This is unused.`)
+ })
+@@ -168,6 +168,6 @@ test("a run that failed is answered against the first file named", () => {
+   expect(said.length).toBe(1)
+   expect(said[0]?.path).toBe("akasha/one.ts")
+   expect(said[0]?.reason).toBe(
+-    "nothing stands under the world this change was stood up in. A linter that could not look has verified nothing, so this change is not judged."
++    "nothing stands under the world this change was set up in. A linter that could not look has verified nothing, so this change is not judged."
+   )
+ })
 diff --git a/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts b/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts
 index 86d392ee6ae1448dd6eb96bd31735a1442b6b783..4ee499bd7c03d440b748063a359dc82c0b7fcbf3 100644
 --- a/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts
