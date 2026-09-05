@@ -37,7 +37,7 @@ export const git = {
     },
     {
       invariantKind: "gap",
-      statement: "What `repo/git` holds beyond running a command belongs here.",
+      statement: "The code `repo/git` holds beyond running a command belongs here.",
     },
   ],
 } as const satisfies WorkspacePackage
