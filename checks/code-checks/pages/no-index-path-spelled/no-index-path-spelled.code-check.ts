@@ -43,7 +43,7 @@ export const noIndexPathSpelled = {
     },
     {
       invariantKind: "absence",
-      statement: "What a caller does with a path the caller was given is not judged.",
+      statement: "The use a caller makes of a path the caller was given is not judged.",
     },
   ],
 } as const satisfies CodeCheck
