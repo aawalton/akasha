@@ -271,3 +271,172 @@ index 15c867076404849300293f9e902779ce4b2e3282..a41cfd14e715fc95c0fa278f9a54138f
  }
  
  if (import.meta.main) {
+diff --git a/seat-system/subagents/presence/subagent-presence.module.test.ts b/seat-system/subagents/presence/subagent-presence.module.test.ts
+index ab229a557448972c168f3e5ba35cbbddf6d09230..5c85fbce1855ad54cfed9a27e4471f05e13ddf3c 100644
+--- a/seat-system/subagents/presence/subagent-presence.module.test.ts
++++ b/seat-system/subagents/presence/subagent-presence.module.test.ts
+@@ -9,12 +9,16 @@ import { listedFiled, pageFiled, rebuiltIn } from "@akasha/indexes/testing"
+ import { declaringUnder } from "@akasha/testing-system/declaring"
+ import {
+   agentIdOf,
++  asking,
+   assignedTo,
+   bodyOf,
++  LOG_AT,
++  logPathOf,
+   pathOf,
+   seatNamedIn,
+   slugOf,
+   took,
++  WRITING,
+   wrote,
+ } from "./subagent-presence.module.code.ts"
+ 
+@@ -34,6 +38,8 @@ const TREE = "akasha"
+ 
+ const MECHANICAL = "Checks-bypassed: a `change-mechanical` change runs no check"
+ 
++const WENT = { went: true }
++
+ function seated(root: string): string {
+   gitIn(root, ["init", "--quiet"])
+   gitIn(root, ["config", "user.email", "held@nowhere"])
+@@ -51,6 +57,22 @@ function messageIn(root: string): string {
+   return gitIn(root, ["log", "-1", "--pretty=%B"])
+ }
+ 
++function whyIn(went: unknown): string {
++  return typeof went === "object" && went !== null && "why" in went ? String(went.why) : ""
++}
++
++async function loggedAt(at: string, within: number): Promise<string> {
++  const until = Date.now() + within
++  while (Date.now() < until) {
++    if (existsSync(at)) {
++      const held = readFileSync(at, "utf8")
++      if (held !== "") return held
++    }
++    await Bun.sleep(50)
++  }
++  return existsSync(at) ? readFileSync(at, "utf8") : ""
++}
++
+ test("a slug joins the seat's name to the id the subagent runs under", () => {
+   expect(slugOf("akasha", OWN)).toBe(`akasha-${OWN}`)
+ })
+@@ -72,6 +94,10 @@ test("a page sits under the subagents folder named for its slug", () => {
+   expect(pathOf("akasha-abc")).toBe("seat-system/subagents/pages/akasha-abc.subagent.ts")
+ })
+ 
++test("a log sits in the seat's own folder named for this module", () => {
++  expect(logPathOf(SEAT_ID, "/var/tmp/base")).toBe(`/var/tmp/base/${SEAT_ID}/${LOG_AT}`)
++})
++
+ test("a body states the type and slug and seat and assignment and kind and agent id", () => {
+   const body = bodyOf("akasha-abc", "akasha", "domain/akasha-system", "Explore", "seat--own")
+   expect(body).toContain("export const akashaAbc = {")
+@@ -149,7 +175,7 @@ test("a page is landed by a program, its commit saying no check ran", async () =
+   const world = scratchWorld()
+   try {
+     const root = seated(world.rootFor("subagent-presence-"))
+-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toBe(true)
++    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toEqual(WENT)
+     const at = join(root, pathOf(slugOf("akasha", OWN)))
+     expect(readFileSync(at, "utf8")).toContain('dispatchedAs: "Explore"')
+     expect(messageIn(root)).toContain(MECHANICAL)
+@@ -162,7 +188,7 @@ test("a page that landed states the agent id the subagent acts under", async ()
+   const world = scratchWorld()
+   try {
+     const root = seated(world.rootFor("subagent-presence-"))
+-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toBe(true)
++    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toEqual(WENT)
+     const at = join(root, pathOf(slugOf("akasha", OWN)))
+     expect(readFileSync(at, "utf8")).toContain(`agentId: "${SEAT_ID}--${OWN}"`)
+   } finally {
+@@ -174,20 +200,23 @@ test("a page already there is left as it is", async () => {
+   const world = scratchWorld()
+   try {
+     const root = seated(world.rootFor("subagent-presence-"))
+-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toBe(true)
++    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toEqual(WENT)
+     const held = gitIn(root, ["rev-parse", "HEAD"])
+-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task")).toBe(true)
++    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task")).toEqual(WENT)
+     expect(gitIn(root, ["rev-parse", "HEAD"])).toBe(held)
+   } finally {
+     world.sweep()
+   }
+ })
+ 
+-test("a seat stating no assignment writes nothing", async () => {
++test("a seat stating no assignment writes nothing and says which seat and why", async () => {
+   const world = scratchWorld()
+   try {
+     const root = seated(world.rootFor("subagent-presence-"))
+-    expect(await wrote(root, "thea", SEAT_ID, OWN, "Explore")).toBe(false)
++    const went = await wrote(root, "thea", SEAT_ID, OWN, "Explore")
++    expect(whyIn(went)).toContain("thea")
++    expect(whyIn(went)).toContain("no assignment is stated")
++    expect(whyIn(went)).toContain(pathOf(slugOf("thea", OWN)))
+     expect(existsSync(join(root, pathOf(slugOf("thea", OWN))))).toBe(false)
+   } finally {
+     world.sweep()
+@@ -199,7 +228,7 @@ test("a page taken away goes, and the commit says a program took it", async () =
+   try {
+     const root = seated(world.rootFor("subagent-presence-"))
+     await wrote(root, "akasha", SEAT_ID, OWN, "Explore")
+-    expect(await took(root, "akasha", OWN)).toBe(true)
++    expect(await took(root, "akasha", OWN)).toEqual(WENT)
+     expect(existsSync(join(root, pathOf(slugOf("akasha", OWN))))).toBe(false)
+     expect(messageIn(root)).toContain(MECHANICAL)
+   } finally {
+@@ -216,7 +245,7 @@ test("a page taken away is forgotten by whoever read it", async () => {
+     const oid = blobIdOf(new TextEncoder().encode(readFileSync(join(root, at), "utf8")))
+     recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
+     expect(readingIn(root, AGENT, at)).not.toBe(null)
+-    expect(await took(root, "akasha", OWN)).toBe(true)
++    expect(await took(root, "akasha", OWN)).toEqual(WENT)
+     expect(readingIn(root, AGENT, at)).toBe(null)
+   } finally {
+     world.sweep()
+@@ -228,9 +257,39 @@ test("a page that is not there is taken away by doing nothing", async () => {
+   try {
+     const root = seated(world.rootFor("subagent-presence-"))
+     const held = gitIn(root, ["rev-parse", "HEAD"])
+-    expect(await took(root, "akasha", OWN)).toBe(true)
++    expect(await took(root, "akasha", OWN)).toEqual(WENT)
+     expect(gitIn(root, ["rev-parse", "HEAD"])).toBe(held)
+   } finally {
+     world.sweep()
+   }
+ })
++
++test("a write the seat's assignment refuses leaves its reason in the log", async () => {
++  const world = scratchWorld()
++  try {
++    const root = seated(world.rootFor("subagent-presence-"))
++    const base = world.rootFor("subagent-presence-logs-")
++    asking(root, SEAT_ID, [WRITING, "thea", OWN, "Explore", SEAT_ID], base)
++    const held = await loggedAt(logPathOf(SEAT_ID, base), 30000)
++    expect(held).toContain("thea")
++    expect(held).toContain("no assignment is stated")
++  } finally {
++    world.sweep()
++  }
++}, 40000)
++
++test("a write that landed leaves no reason in the log", async () => {
++  const world = scratchWorld()
++  try {
++    const root = seated(world.rootFor("subagent-presence-"))
++    const base = world.rootFor("subagent-presence-logs-")
++    asking(root, SEAT_ID, [WRITING, "akasha", OWN, "Explore", SEAT_ID], base)
++    const at = join(root, pathOf(slugOf("akasha", OWN)))
++    const until = Date.now() + 30000
++    while (Date.now() < until && !existsSync(at)) await Bun.sleep(50)
++    expect(existsSync(at)).toBe(true)
++    expect(await loggedAt(logPathOf(SEAT_ID, base), 500)).toBe("")
++  } finally {
++    world.sweep()
++  }
++}, 40000)
