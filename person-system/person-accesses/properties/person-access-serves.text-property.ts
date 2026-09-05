@@ -13,7 +13,8 @@ export const personAccessServes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A target serves a page type only where it is a person's own copy of one.",
+      statement:
+        "A target serves a page type only where that target is a person's own copy of one.",
     },
     {
       invariantKind: "stopgap",
