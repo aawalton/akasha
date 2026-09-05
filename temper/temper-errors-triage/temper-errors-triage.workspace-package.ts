@@ -17,7 +17,8 @@ export const temperErrorsTriage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An error is judged from what the addon saved rather than from the live game.",
+      statement:
+        "An error is judged from the variables the addon saved rather than from the live game.",
     },
     {
       invariantKind: "departure",
