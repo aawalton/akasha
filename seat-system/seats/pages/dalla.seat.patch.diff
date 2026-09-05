@@ -1,0 +1,13 @@
+diff --git a/pages/indexes/path-naming/path-naming.module.ts b/pages/indexes/path-naming/path-naming.module.ts
+index 52199d39c93796e649e00a138eff0dfd31b0f477..dde2b631c18d2ddad1b2d4738ef8c7742ef2aecd 100644
+--- a/pages/indexes/path-naming/path-naming.module.ts
++++ b/pages/indexes/path-naming/path-naming.module.ts
+@@ -4,7 +4,7 @@ export const pathNaming = {
+   id: "01a06310-8e44-7798-ae4b-af7b4b182be8",
+   pageTypeSlug: "module",
+   slug: "path-naming",
+-  definition: "the tracked files that name a path a move is carrying",
++  definition: "the tracked files that name a path",
+   code: "ts",
+   test: "ts",
+   invariants: [
