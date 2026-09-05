@@ -11,7 +11,7 @@ export const frameEdgeToEdge = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A body running to the edges leaves no room for a frame beside it.",
+      statement: "A body running to the edges leaves no room for a frame beside that body.",
     },
   ],
 } as const satisfies BooleanProperty
