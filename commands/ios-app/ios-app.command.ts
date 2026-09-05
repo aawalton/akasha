@@ -14,7 +14,6 @@ export const iosApp = {
     { said: "--www <dir>", takes: "the site to install inside it, as some other build left it" },
   ],
   helpNotes: [
-    "the act is the first word and the app is the second.",
     "one call names one app, and naming none or two is refused rather than guessed at.",
     "what an app is built from is read from its page rather than said here.",
     "a build needs Xcode, so a workstation that is not a mac hands it to one that is.",
