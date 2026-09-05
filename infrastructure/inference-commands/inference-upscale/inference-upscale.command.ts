@@ -21,7 +21,6 @@ export const inferenceUpscale = {
     "the host is the cluster where nothing names one, and naming the workstation opts into the card sitting in it.",
     "on the cluster the work is a Job and the image travels through the object store, and on the workstation it is a container reading a data directory.",
     "the environment holds where that data directory sits under `UPSCALE_HOME`.",
-    "a run row is filed whether the remake finished or failed.",
   ],
   invariants: [
     {
