@@ -1,5 +1,5 @@
 diff --git a/commands/refactor/page-retyping/page-retyping.module.ts b/commands/refactor/page-retyping/page-retyping.module.ts
-index 4152d271224c021518503a5a19ac4f0ccc674bbb..8776ce40e296ff500ace8def63f2c00ce4d3ca7c 100644
+index 4152d271224c021518503a5a19ac4f0ccc674bbb..add11f6946b4893ef499137b40ec40669e3e7730 100644
 --- a/commands/refactor/page-retyping/page-retyping.module.ts
 +++ b/commands/refactor/page-retyping/page-retyping.module.ts
 @@ -31,7 +31,7 @@ export const pageRetyping = {
@@ -23,6 +23,15 @@ index 4152d271224c021518503a5a19ac4f0ccc674bbb..8776ce40e296ff500ace8def63f2c00c
        invariantKind: "departure",
 -      statement: "A page's own file arrives under the tail of the page type it becomes.",
 +      statement: "A page's own file arrives under the tail of the page type that page becomes.",
+     },
+     {
+       invariantKind: "departure",
+@@ -55,7 +56,7 @@ export const pageRetyping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file beside a page arrives under the tail of the page type it becomes.",
++      statement: "A file beside a page arrives under the tail of the page type that page becomes.",
      },
      {
        invariantKind: "departure",
