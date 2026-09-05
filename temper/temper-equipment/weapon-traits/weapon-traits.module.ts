@@ -15,9 +15,5 @@ export const weaponTraits = {
       invariantKind: "constraint",
       statement: "A trait's place in this table is the index a build hash carries.",
     },
-    {
-      invariantKind: "gap",
-      statement: "A trait moved to another place breaks every build hash saved.",
-    },
   ],
 } as const satisfies Module
