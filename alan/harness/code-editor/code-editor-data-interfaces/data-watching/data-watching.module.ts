@@ -29,7 +29,7 @@ export const dataWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "What is written first is outside the folder the editor watches.",
+      statement: "The file written first is outside the folder the editor watches.",
     },
     {
       invariantKind: "departure",
