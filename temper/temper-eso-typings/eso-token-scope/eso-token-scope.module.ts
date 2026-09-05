@@ -30,7 +30,7 @@ export const esoTokenScope = {
     },
     {
       invariantKind: "departure",
-      statement: "What is taken keeps the order the dump described.",
+      statement: "The tokens taken keep the order the dump described.",
     },
   ],
 } as const satisfies Module
