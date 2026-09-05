@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/piping/piping.module.ts b/command-system/piping/piping.module.ts
-index de0b5cbe29b5aa7ae00a447ee433537c0c21b86c..6003d9ea95c09ea13d79fd0d8aff3247e159eef7 100644
+index de0b5cbe29b5aa7ae00a447ee433537c0c21b86c..c67d7d6cd60e32704df39dd8a9592201ad0a37ef 100644
 --- a/command-system/piping/piping.module.ts
 +++ b/command-system/piping/piping.module.ts
 @@ -89,7 +89,7 @@ export const piping = {
@@ -12,3 +12,12 @@ index de0b5cbe29b5aa7ae00a447ee433537c0c21b86c..6003d9ea95c09ea13d79fd0d8aff3247
      },
      {
        invariantKind: "departure",
+@@ -117,7 +117,7 @@ export const piping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A refusal names what the payload is missing.",
++      statement: "A refusal names the marker the payload is missing.",
+     },
+     {
+       invariantKind: "absence",
