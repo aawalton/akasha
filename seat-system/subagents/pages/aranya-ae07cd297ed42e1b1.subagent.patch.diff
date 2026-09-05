@@ -17,23 +17,6 @@ index 0000000000000000000000000000000000000000..6c509fbbedd0ff87ec2c773de50b95ab
 +    { name: "kube-state-metrics-service", yaml: kubeStateMetricsServiceYaml() },
 +  ]
 +}
-diff --git a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
-index 71def907c0299a57724bb88f0c1d60b112375e3f..8d71e0819431533313374cf088c82bff556e24ba 100644
---- a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
-@@ -57,8 +57,12 @@ index 93aa346c901e9f3adc41820d5ead13f451bf1f46..df90cc4aaf626ceae63fb48c36c594ed
-    replicas: 1,
-    containerPort: 8080,
- -  manifestCode:
-+<<<<<<< what this change would leave
-+-    "infrastructure/telemetry/kube-state-metrics/kube-state-metrics.manifest.code.ts",
-+=======
- -    "service-system/cluster-services/pages/kube-state-metrics/kube-state-metrics.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "kube-state-metrics",
- +=======
- +  manifestCode: "infrastructure/telemetry/kube-state-metrics/kube-state-metrics.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/kube-state-metrics/kube-state-metrics.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/kube-state-metrics/kube-state-metrics.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 6c509fbbedd0ff87ec2c773de50b95ab7d8b4fc9..0000000000000000000000000000000000000000
