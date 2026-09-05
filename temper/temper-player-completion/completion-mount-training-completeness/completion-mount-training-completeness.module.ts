@@ -10,7 +10,7 @@ export const completionMountTrainingCompleteness = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One of the three mount statistics is asked after by naming it.",
+      statement: "One of the three mount statistics is asked after by naming that statistic.",
     },
   ],
 } as const satisfies Module
