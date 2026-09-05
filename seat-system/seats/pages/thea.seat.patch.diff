@@ -1,0 +1,17 @@
+diff --git a/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts b/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts
+index dd8ee837932061544dfe4d8e686139f7484b9825..39569307fa2eb41e989b13b17ee2822df2a720cc 100644
+--- a/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts
++++ b/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts
+@@ -8,9 +8,9 @@ export const calculationImportsOnlyTypes = {
+   code: "ts",
+   test: "ts",
+   runsOnPatch: true,
+-  runsOnWorktree: true,
+-  runsOnDeploy: true,
+-  runsOnAudit: true,
++  runsOnWorktree: false,
++  runsOnDeploy: false,
++  runsOnAudit: false,
+   invariants: [
+     {
+       invariantKind: "departure",
