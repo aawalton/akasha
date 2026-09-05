@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/access/file-property-defs/file-property-defs.module.ts b/pages/access/file-property-defs/file-property-defs.module.ts
+index 987028f9b3e4eb23135249b24de4d06d5c9fbd91..d801dca394b517771979c88b9d9ae1202344554b 100644
+--- a/pages/access/file-property-defs/file-property-defs.module.ts
++++ b/pages/access/file-property-defs/file-property-defs.module.ts
+@@ -9,7 +9,8 @@ export const filePropertyDefs = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What a page type declares is asked of `@akasha/pages-system-service`.",
++      statement:
++        "The property definitions a page type declares are asked of `@akasha/pages-system-service`.",
+     },
+     {
+       invariantKind: "absence",
