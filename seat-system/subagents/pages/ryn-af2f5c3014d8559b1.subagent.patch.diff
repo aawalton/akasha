@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/subagents/presence/subagent-presence.module.ts b/seat-system/subagents/presence/subagent-presence.module.ts
+index 805b58acb4eed9bf1c35ca3464d9306ee90983aa..4b83a1a4a47061b657eb312709d0c7944c13fb5a 100644
+--- a/seat-system/subagents/presence/subagent-presence.module.ts
++++ b/seat-system/subagents/presence/subagent-presence.module.ts
+@@ -27,7 +27,7 @@ export const subagentPresence = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What lands a page composed mints the id the page keeps.",
++      statement: "The landing of a page composed mints the id that page keeps.",
+     },
+     {
+       invariantKind: "departure",
