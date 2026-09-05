@@ -37,7 +37,7 @@ export const pendingMaintaining = {
     },
     {
       invariantKind: "departure",
-      statement: "The store watched is the store the run it triggers reads.",
+      statement: "The store watched is the store the run that store triggers reads.",
     },
     {
       invariantKind: "departure",
@@ -79,11 +79,12 @@ export const pendingMaintaining = {
     },
     {
       invariantKind: "departure",
-      statement: "A run stopped part way leaves every seat it reached correct.",
+      statement: "A run stopped part way leaves every seat that run reached correct.",
     },
     {
       invariantKind: "departure",
-      statement: "A run stopped part way leaves every seat it did not reach as that seat was.",
+      statement:
+        "A run stopped part way leaves every seat that run did not reach as that seat was.",
     },
     {
       invariantKind: "departure",
