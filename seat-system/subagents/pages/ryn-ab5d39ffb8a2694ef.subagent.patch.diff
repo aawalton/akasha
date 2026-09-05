@@ -1,0 +1,15 @@
+diff --git a/temper/temper-housing-addon/housing-visit-card-send/housing-visit-card-send.module.ts b/temper/temper-housing-addon/housing-visit-card-send/housing-visit-card-send.module.ts
+index 8f20a71ec3d2ffd06188122c30ba73c78b11ede1..e1c57d2131e848f06226c3ce124e4aaf656c5853 100644
+--- a/temper/temper-housing-addon/housing-visit-card-send/housing-visit-card-send.module.ts
++++ b/temper/temper-housing-addon/housing-visit-card-send/housing-visit-card-send.module.ts
+@@ -6,10 +6,4 @@ export const housingVisitCardSend = {
+   slug: "housing-visit-card-send",
+   definition: "sending a visit card to a friend, a guild or a zone",
+   code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A card is sent as an ordinary chat line carrying the agreed key word.",
+-    },
+-  ],
+ } as const satisfies Module
