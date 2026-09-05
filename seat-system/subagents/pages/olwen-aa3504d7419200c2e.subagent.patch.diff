@@ -1,0 +1,1506 @@
+diff --git a/commands/wan/wan-arguing/wan-arguing.module.code.ts b/commands/wan/wan-arguing/wan-arguing.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a05f7dd84de5c9b0db1cf5b003ef125cef9ee550
+--- /dev/null
++++ b/commands/wan/wan-arguing/wan-arguing.module.code.ts
+@@ -0,0 +1,221 @@
++import { readFileSync } from "node:fs"
++import { homedir } from "node:os"
++import { isAbsolute, join, resolve } from "node:path"
++import type { Given } from "../../../command-system/calling/calling.module.code.ts"
++import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
++
++export const GENERATE = "generate"
++
++export const EXTEND = "extend"
++
++export const FRAMES = "frames"
++
++export const SCORE = "score"
++
++const ACTS = [GENERATE, EXTEND, FRAMES, SCORE] as const
++
++export type Act = (typeof ACTS)[number]
++
++const ROUTE = "-file"
++
++const STDIN = "-"
++
++type Shape = "token" | "prose" | "switch"
++
++const TAKEN: { readonly [A in Act]: ReadonlyMap<string, Shape> } = {
++  [GENERATE]: new Map<string, Shape>([
++    ["--start-image", "token"],
++    ["--end-image", "token"],
++    ["--prompt", "prose"],
++    ["--negative-prompt", "prose"],
++    ["--seed", "token"],
++    ["--steps", "token"],
++    ["--lightning", "switch"],
++    ["--size", "token"],
++    ["--frames", "token"],
++    ["--output", "token"],
++    ["--timeout", "token"],
++  ]),
++  [EXTEND]: new Map<string, Shape>([
++    ["--context", "token"],
++    ["--direction", "token"],
++    ["--prompt", "prose"],
++    ["--negative-prompt", "prose"],
++    ["--context-frames", "token"],
++    ["--new-frames", "token"],
++    ["--seed", "token"],
++    ["--steps", "token"],
++    ["--lightning", "switch"],
++    ["--size", "token"],
++    ["--output", "token"],
++    ["--timeout", "token"],
++  ]),
++  [FRAMES]: new Map<string, Shape>([
++    ["--video", "token"],
++    ["--fps", "token"],
++    ["--out-dir", "token"],
++  ]),
++  [SCORE]: new Map<string, Shape>([
++    ["--frames-dir", "token"],
++    ["--reference", "token"],
++    ["--floor", "token"],
++  ]),
++}
++
++const FILLED: { readonly [A in Act]: ReadonlyMap<string, string> } = {
++  [GENERATE]: new Map([
++    ["--size", "1280x720"],
++    ["--frames", "81"],
++    ["--timeout", "3600"],
++  ]),
++  [EXTEND]: new Map([
++    ["--context-frames", "24"],
++    ["--new-frames", "16"],
++    ["--timeout", "3600"],
++  ]),
++  [FRAMES]: new Map<string, string>(),
++  [SCORE]: new Map([["--floor", "0.45"]]),
++}
++
++const NEEDED: { readonly [A in Act]: readonly string[] } = {
++  [GENERATE]: ["--prompt"],
++  [EXTEND]: ["--context", "--direction", "--prompt"],
++  [FRAMES]: ["--video"],
++  [SCORE]: ["--frames-dir", "--reference"],
++}
++
++const WHOLE = new Set([
++  "--seed",
++  "--steps",
++  "--frames",
++  "--timeout",
++  "--context-frames",
++  "--new-frames",
++  "--fps",
++])
++
++const REAL = new Set(["--floor"])
++
++export type Taken = {
++  readonly act: Act
++  readonly said: ReadonlyMap<string, string>
++  readonly on: ReadonlySet<string>
++}
++
++export type Read = Taken | { readonly refused: readonly string[] }
++
++function acts(): string {
++  return ACTS.map((one) => `\`${one}\``).join(", ")
++}
++
++function flagsOf(act: Act): string {
++  return [...TAKEN[act].keys()].map((one) => `\`${one}\``).join(", ")
++}
++
++function isAct(said: string): said is Act {
++  return (ACTS as readonly string[]).includes(said)
++}
++
++function routedIn(said: string, shapes: ReadonlyMap<string, Shape>): string | null {
++  if (!said.endsWith(ROUTE)) return null
++  const named = said.slice(0, -ROUTE.length)
++  return shapes.get(named) === "prose" ? named : null
++}
++
++function textIn(path: string): { readonly text: string } | { readonly why: string } {
++  try {
++    return { text: path === STDIN ? readFileSync(0, "utf8") : readFileSync(path, "utf8") }
++  } catch (thrown) {
++    return { why: whyOf(thrown) }
++  }
++}
++
++function wholeIn(raw: string): number | null {
++  const said = raw.trim()
++  if (!/^\d+$/.test(said)) return null
++  const held = Number.parseInt(said, 10)
++  return Number.isSafeInteger(held) ? held : null
++}
++
++export function readIn(argv: readonly string[]): Read {
++  const [named, ...rest] = argv
++  if (named === undefined) {
++    return { refused: [`this names no act — it carries ${acts()}`] }
++  }
++  if (!isAct(named)) {
++    return { refused: [`\`${named}\` is no act this carries — it carries ${acts()}`] }
++  }
++  const act: Act = named
++  const shapes = TAKEN[act]
++  const refusals: string[] = []
++  const said = new Map<string, string>()
++  const on = new Set<string>()
++  const holding = (flag: string, value: string): undefined => {
++    if (said.has(flag)) {
++      refusals.push(`\`${flag}\` is said more than once, and it carries one value`)
++      return
++    }
++    said.set(flag, value)
++    return
++  }
++  for (let at = 0; at < rest.length; at += 1) {
++    const one = rest[at]
++    if (one === undefined) continue
++    if (!one.startsWith("-")) {
++      refusals.push(`\`${one}\` is no flag, and \`${act}\` is said with flags alone`)
++      continue
++    }
++    const shape = shapes.get(one)
++    if (shape === "switch") {
++      on.add(one)
++      continue
++    }
++    const routed = shape === undefined ? routedIn(one, shapes) : null
++    if (shape === undefined && routed === null) {
++      refusals.push(`\`${one}\` is no flag \`${act}\` takes — it takes ${flagsOf(act)}`)
++      continue
++    }
++    const value = rest[at + 1]
++    at += 1
++    if (value === undefined) {
++      refusals.push(`\`${one}\` carries a value, and nothing followed it`)
++      continue
++    }
++    if (routed === null) {
++      holding(one, value)
++      continue
++    }
++    const read = textIn(value)
++    if ("why" in read) {
++      refusals.push(`\`${one}\` could not read \`${value}\` — ${read.why}`)
++      continue
++    }
++    holding(routed, read.text)
++  }
++  for (const [flag, value] of FILLED[act]) if (!said.has(flag)) said.set(flag, value)
++  for (const flag of NEEDED[act]) {
++    if (!said.has(flag)) refusals.push(`\`${act}\` names \`${flag}\`, and nothing said it`)
++  }
++  for (const [flag, value] of said) {
++    if (WHOLE.has(flag) && wholeIn(value) === null) {
++      refusals.push(
++        `\`${flag}\` carries a whole number that is not below zero, and \`${value}\` is not one`
++      )
++    }
++    if (REAL.has(flag) && (value.trim() === "" || !Number.isFinite(Number(value)))) {
++      refusals.push(`\`${flag}\` carries a number, and \`${value}\` is not one`)
++    }
++  }
++  if (refusals.length > 0) return { refused: refusals }
++  return { act, said, on }
++}
++
++export function at(given: Given, path: string): string {
++  if (path.startsWith("~/")) return join(homedir(), path.slice(2))
++  return isAbsolute(path) ? path : resolve(given.root, path)
++}
++
++export function numberIn(said: ReadonlyMap<string, string>, flag: string): number | undefined {
++  const raw = said.get(flag)
++  return raw === undefined ? undefined : (wholeIn(raw) ?? undefined)
++}
+diff --git a/commands/wan/wan-arguing/wan-arguing.module.ts b/commands/wan/wan-arguing/wan-arguing.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f090f128b934712d6fdc70daa876dbb97eaee91a
+--- /dev/null
++++ b/commands/wan/wan-arguing/wan-arguing.module.ts
+@@ -0,0 +1,44 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const wanArguing = {
++  id: "01a072fa-322b-78f2-bd8b-a4fa1b843b1d",
++  pageTypeSlug: "module",
++  slug: "wan-arguing",
++  definition: "the arguments a wan call was made with, read off the command line",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The act is the first word and one call names one act.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A flag the named act does not take is refused rather than passed along.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A flag said more than once is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A flag carrying a value and given none is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A flag ending in `-file` reads its value from the path that flag names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A default the named act carries fills a flag nothing said.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A path is read against the repository root rather than the folder the call was made from.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reaches the GPU or the disk, past a flag routed through a path.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/commands/wan/wan-clip-rendering/wan-clip-rendering.module.code.ts b/commands/wan/wan-clip-rendering/wan-clip-rendering.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..33040db4b7d806451f671510d4c4a37532366421
+--- /dev/null
++++ b/commands/wan/wan-clip-rendering/wan-clip-rendering.module.code.ts
+@@ -0,0 +1,344 @@
++import { webcrypto } from "node:crypto"
++import { mkdir, readFile, writeFile } from "node:fs/promises"
++import { homedir } from "node:os"
++import { basename, dirname, join } from "node:path"
++import { fetchImage, runComfyGraph } from "@akasha/inference-clients/comfy-client"
++import { buildInferenceRunRecord, sha256Hex } from "@akasha/inference-runs/inference-run-record"
++import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
++import {
++  WAN_DEFAULT_NEGATIVE_PROMPT,
++  WAN_FPS,
++  WAN_FULL_STEPS,
++  WAN_LIGHTNING_STEPS,
++} from "@akasha/wan/wan-backbone"
++import type { ExtendDirection } from "@akasha/wan/wan-extend-graph"
++import {
++  buildExtendGraph,
++  computeSkipFirstFrames,
++  resolveComfyInputName,
++  snapToVaeLength,
++} from "@akasha/wan/wan-extend-graph"
++import { buildI2vGraph } from "@akasha/wan/wan-i2v-graph"
++import { parseSizeOrNull } from "@akasha/wan/wan-size"
++import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
++import { refused } from "../../../command-system/calling/calling.module.code.ts"
++import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
++import type { Act, Taken } from "../wan-arguing/wan-arguing.module.code.ts"
++import { at, EXTEND, GENERATE, numberIn } from "../wan-arguing/wan-arguing.module.code.ts"
++import { framesIn, homeIn, portIn, sizeIn } from "../wan-hosting/wan-hosting.module.code.ts"
++
++const SERVICE = "wan-i2v"
++
++const MODEL = "QuantStack/Wan2.2-I2V-A14B-GGUF Q5_K_M"
++
++const HOST = "workstation"
++
++const NEW_FRAMES_FLOOR = 13
++
++const DIRECTIONS = ["forward", "back"] as const
++
++function drawSeed(): number {
++  const held = new Uint32Array(1)
++  webcrypto.getRandomValues(held)
++  return (held[0] ?? 0) & (2 ** 31 - 1)
++}
++
++function madeOf(calledAs: string, act: Act, argv: readonly string[]): string {
++  const quoted = argv.map((one) => (/\s/.test(one) ? `'${one}'` : one))
++  return `${calledAs} ${act} ${quoted.slice(1).join(" ")}`.trim()
++}
++
++export async function generating(
++  read: Taken,
++  given: Given,
++  argv: readonly string[],
++  report: string[]
++): Promise<Answer> {
++  const said = read.said
++  const startSaid = said.get("--start-image")
++  const endSaid = said.get("--end-image")
++  if (startSaid === undefined && endSaid === undefined) {
++    return refused("a generate names `--start-image` or `--end-image`, and neither was said", 1)
++  }
++  const startPath = startSaid === undefined ? undefined : at(given, startSaid)
++  const endPath = endSaid === undefined ? undefined : at(given, endSaid)
++  const prompt = said.get("--prompt") ?? ""
++  const negative = said.get("--negative-prompt") ?? WAN_DEFAULT_NEGATIVE_PROMPT
++  const lightning = read.on.has("--lightning")
++  const steps = numberIn(said, "--steps") ?? (lightning ? WAN_LIGHTNING_STEPS : WAN_FULL_STEPS)
++  const seed = numberIn(said, "--seed") ?? drawSeed()
++  const size = said.get("--size") ?? ""
++  const held = parseSizeOrNull(size)
++  if (held === null) {
++    return refused(`\`--size\` is two whole numbers parted by \`x\`, and \`${size}\` is not`, 1)
++  }
++  const { width, height } = held
++  const frames = numberIn(said, "--frames") ?? 0
++  const waiting = (numberIn(said, "--timeout") ?? 0) * 1000
++  const nowMs = Date.now()
++  const outSaid = said.get("--output")
++  const outPath =
++    outSaid === undefined
++      ? join(homedir(), "Pictures", "Generated", `i2v-${Math.floor(nowMs / 1000)}.mp4`)
++      : at(given, outSaid)
++
++  const bytesIn = async (
++    flag: string,
++    path: string
++  ): Promise<{ bytes: Uint8Array } | { why: string }> => {
++    try {
++      return { bytes: await readFile(path) }
++    } catch (thrown) {
++      return { why: `\`${flag}\` names \`${path}\`, which would not be read — ${whyOf(thrown)}` }
++    }
++  }
++
++  let startBytes: Uint8Array | undefined
++  if (startPath !== undefined) {
++    const one = await bytesIn("--start-image", startPath)
++    if ("why" in one) return refused(one.why, 2)
++    startBytes = one.bytes
++  }
++  let endBytes: Uint8Array | undefined
++  if (endPath !== undefined) {
++    const one = await bytesIn("--end-image", endPath)
++    if ("why" in one) return refused(one.why, 2)
++    endBytes = one.bytes
++  }
++  const startName = startPath === undefined ? undefined : basename(startPath)
++  const endName = endPath === undefined ? undefined : basename(endPath)
++  if (
++    startPath !== undefined &&
++    endPath !== undefined &&
++    startName === endName &&
++    startPath !== endPath
++  ) {
++    return refused(
++      `\`--start-image\` and \`--end-image\` are two files named \`${startName}\`, ` +
++        "and staging would put one over the other — name one of them otherwise",
++      1
++    )
++  }
++
++  const home = homeIn()
++  const inputs = join(home, "inputs")
++  await mkdir(inputs, { recursive: true })
++  if (startBytes !== undefined && startName !== undefined) {
++    await writeFile(join(inputs, startName), startBytes)
++  }
++  if (endBytes !== undefined && endName !== undefined) {
++    await writeFile(join(inputs, endName), endBytes)
++  }
++  report.push(`the conditioning images stand staged under ${inputs}`)
++
++  const record = buildInferenceRunRecord({
++    service: SERVICE,
++    operation: "i2v",
++    model: MODEL,
++    host: HOST,
++    commandLine: madeOf(given.calledAs, GENERATE, argv),
++    startedAt: new Date(nowMs).toISOString(),
++    prompt,
++    negativePrompt: negative,
++    seed,
++    steps,
++    width,
++    height,
++    size,
++    frames,
++    fps: WAN_FPS,
++    lightning,
++    ...(startPath !== undefined ? { inputImagePath: startPath } : {}),
++    ...(startBytes !== undefined ? { inputImageSha256: sha256Hex(startBytes) } : {}),
++    ...(endPath !== undefined ? { endImagePath: endPath } : {}),
++    ...(endBytes !== undefined ? { endImageSha256: sha256Hex(endBytes) } : {}),
++  })
++
++  const baseUrl = `http://127.0.0.1:${portIn()}`
++  await recordInferenceRun(record, async () => {
++    const run = await runComfyGraph({
++      baseUrl,
++      buildGraph: () =>
++        buildI2vGraph({
++          ...(startName !== undefined ? { startImageName: startName } : {}),
++          ...(endName !== undefined ? { endImageName: endName } : {}),
++          prompt,
++          negativePrompt: negative,
++          width,
++          height,
++          frames,
++          seed,
++          steps,
++          lightning,
++          filenamePrefix: "i2v",
++        }),
++      pollDeadlineMs: waiting,
++      onProgress: (one: string) => {
++        report.push(one)
++        return undefined
++      },
++    })
++    const mp4 = await fetchImage(baseUrl, run.image)
++    await mkdir(dirname(outPath), { recursive: true })
++    await writeFile(outPath, mp4)
++    report.push(`${mp4.byteLength} bytes stand at ${outPath}`)
++    return { outputPath: outPath, outputBytes: mp4 }
++  })
++  report.push(`the recipe it ran under is kept as an inference run, at seed ${seed}`)
++  return { report, refusals: [], code: 0 }
++}
++
++export async function extending(
++  read: Taken,
++  given: Given,
++  argv: readonly string[],
++  report: string[]
++): Promise<Answer> {
++  const said = read.said
++  const contextPath = at(given, said.get("--context") ?? "")
++  const directionSaid = said.get("--direction") ?? ""
++  const direction: ExtendDirection | undefined = DIRECTIONS.find((one) => one === directionSaid)
++  if (direction === undefined) {
++    return refused(
++      `\`--direction\` is \`forward\` or \`back\`, and \`${directionSaid}\` is neither`,
++      1
++    )
++  }
++  const prompt = said.get("--prompt") ?? ""
++  const negative = said.get("--negative-prompt") ?? WAN_DEFAULT_NEGATIVE_PROMPT
++  const lightning = read.on.has("--lightning")
++  const steps = numberIn(said, "--steps") ?? (lightning ? WAN_LIGHTNING_STEPS : WAN_FULL_STEPS)
++  const seed = numberIn(said, "--seed") ?? drawSeed()
++  const contextFrames = numberIn(said, "--context-frames") ?? 0
++  const asked = numberIn(said, "--new-frames") ?? 0
++  const waiting = (numberIn(said, "--timeout") ?? 0) * 1000
++  const sizeSaid = said.get("--size")
++  const nowMs = Date.now()
++  const outSaid = said.get("--output")
++  const outPath =
++    outSaid === undefined
++      ? join(homedir(), "Pictures", "Generated", `extend-${Math.floor(nowMs / 1000)}.mp4`)
++      : at(given, outSaid)
++
++  if (contextFrames < 1) {
++    return refused("`--context-frames` is one frame or more", 1)
++  }
++  let contextBytes: Uint8Array
++  try {
++    contextBytes = await readFile(contextPath)
++  } catch (thrown) {
++    return refused(
++      `\`--context\` names \`${contextPath}\`, which would not be read — ${whyOf(thrown)}`,
++      2
++    )
++  }
++
++  const counted = await framesIn(contextPath)
++  if ("why" in counted) return { report, refusals: [counted.why], code: 3 }
++  if (contextFrames >= counted.many) {
++    return refused(
++      `\`--context-frames\` is ${contextFrames}, and the clip holds ${counted.many} frames — ` +
++        "the window is fewer frames than the clip",
++      1
++    )
++  }
++  let width: number
++  let height: number
++  if (sizeSaid === undefined) {
++    const probed = await sizeIn(contextPath)
++    if ("why" in probed) return { report, refusals: [probed.why], code: 3 }
++    width = probed.width
++    height = probed.height
++    report.push(`the context clip holds ${counted.many} frames at ${width}x${height}`)
++  } else {
++    const held = parseSizeOrNull(sizeSaid)
++    if (held === null) {
++      return refused(
++        `\`--size\` is two whole numbers parted by \`x\`, and \`${sizeSaid}\` is not`,
++        1
++      )
++    }
++    width = held.width
++    height = held.height
++    report.push(`the context clip holds ${counted.many} frames, rendered out at ${width}x${height}`)
++  }
++
++  const raw = contextFrames + asked
++  const length = snapToVaeLength(raw)
++  const newFrames = length - contextFrames
++  if (length !== raw) {
++    report.push(
++      `\`--new-frames\` ${asked} stands as ${newFrames}, so the whole ${length} is four times a whole number plus one`
++    )
++  }
++  if (newFrames < NEW_FRAMES_FLOOR) {
++    report.push(
++      `${newFrames} new frames is under ${NEW_FRAMES_FLOOR}, where the free window collapses under a second — the result will be near still`
++    )
++  }
++
++  const skip = computeSkipFirstFrames(direction, counted.many, contextFrames)
++  const home = homeIn()
++  const inputs = join(home, "inputs")
++  const contextName = basename(contextPath)
++  await mkdir(inputs, { recursive: true })
++  await writeFile(join(inputs, contextName), contextBytes)
++  report.push(`the context clip stands staged under ${inputs}`)
++
++  const size = `${width}x${height}`
++  const record = buildInferenceRunRecord({
++    service: SERVICE,
++    operation: "i2v-extend",
++    model: MODEL,
++    host: HOST,
++    commandLine: madeOf(given.calledAs, EXTEND, argv),
++    startedAt: new Date(nowMs).toISOString(),
++    prompt,
++    negativePrompt: negative,
++    seed,
++    steps,
++    width,
++    height,
++    size,
++    frames: length,
++    fps: WAN_FPS,
++    lightning,
++    inputImagePath: contextPath,
++    inputImageSha256: sha256Hex(contextBytes),
++  })
++
++  const baseUrl = `http://127.0.0.1:${portIn()}`
++  await recordInferenceRun(record, async () => {
++    const run = await runComfyGraph({
++      baseUrl,
++      buildGraph: () =>
++        buildExtendGraph({
++          contextVideoName: resolveComfyInputName(contextName),
++          direction,
++          skipFirstFrames: skip,
++          contextFrames,
++          length,
++          prompt,
++          negativePrompt: negative,
++          width,
++          height,
++          seed,
++          steps,
++          lightning,
++          filenamePrefix: "extend",
++        }),
++      pollDeadlineMs: waiting,
++      onProgress: (one: string) => {
++        report.push(one)
++        return undefined
++      },
++    })
++    const mp4 = await fetchImage(baseUrl, run.image)
++    await mkdir(dirname(outPath), { recursive: true })
++    await writeFile(outPath, mp4)
++    report.push(`${mp4.byteLength} bytes stand at ${outPath}`)
++    return { outputPath: outPath, outputBytes: mp4 }
++  })
++  report.push(`the recipe it ran under is kept as an inference run, at seed ${seed}`)
++  return { report, refusals: [], code: 0 }
++}
+diff --git a/commands/wan/wan-clip-rendering/wan-clip-rendering.module.ts b/commands/wan/wan-clip-rendering/wan-clip-rendering.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4fab8ffe9083082ed0aadcc5a96c05225da5a360
+--- /dev/null
++++ b/commands/wan/wan-clip-rendering/wan-clip-rendering.module.ts
+@@ -0,0 +1,49 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const wanClipRendering = {
++  id: "01a072fa-322d-7288-8757-5da45309b677",
++  pageTypeSlug: "module",
++  slug: "wan-clip-rendering",
++  definition: "the clip a wan call has the model make",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A generate naming neither a first frame nor a last frame is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "Two conditioning images carrying one file name are refused rather than staged over each other.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "An extend's context window is fewer frames than the clip that window is pulled from holds.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An extend's whole length is four times a whole number plus one.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An extend told no size renders at the context clip's own.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seed nothing named is drawn and recorded with the run.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The recipe a generate or an extend ran under is kept as an inference run.",
++    },
++    {
++      invariantKind: "constraint",
++      statement: "One workload runs on the GPU at a time.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here starts the container or provisions the weights.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/commands/wan/wan-hosting/wan-hosting.module.code.ts b/commands/wan/wan-hosting/wan-hosting.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..32b1e05472a49fc4cf083ea33172832c3f62c777
+--- /dev/null
++++ b/commands/wan/wan-hosting/wan-hosting.module.code.ts
+@@ -0,0 +1,84 @@
++import { homedir } from "node:os"
++import { join } from "node:path"
++
++const DEFAULT_PORT = "8676"
++
++export function portIn(): string {
++  const held = process.env.WAN_PORT
++  return held === undefined || held === "" ? DEFAULT_PORT : held
++}
++
++export function homeIn(): string {
++  const held = process.env.WAN_HOME
++  return held === undefined || held === "" ? join(homedir(), ".local", "share", "wan") : held
++}
++
++export function imageIn(): string {
++  const held = process.env.WAN_IMAGE
++  return held === undefined || held === "" ? "wan:local" : held
++}
++
++export function spawned(argv: readonly string[]): Bun.Subprocess<"ignore", "pipe", "pipe"> | null {
++  try {
++    return Bun.spawn([...argv], { stdout: "pipe", stderr: "pipe" })
++  } catch {
++    return null
++  }
++}
++
++async function probed(argv: readonly string[]): Promise<{ out: string } | { why: string }> {
++  const proc = spawned(["ffprobe", ...argv])
++  if (proc === null) return { why: "ffprobe is not on PATH — install ffmpeg" }
++  const out = await new Response(proc.stdout).text()
++  const err = await new Response(proc.stderr).text()
++  if ((await proc.exited) !== 0) {
++    const last = err.trimEnd().split("\n").at(-1)?.trim() ?? "no reason given"
++    return { why: `ffprobe would not read it — ${last}` }
++  }
++  return { out: out.trim() }
++}
++
++export async function framesIn(path: string): Promise<{ many: number } | { why: string }> {
++  const said = await probed([
++    "-v",
++    "error",
++    "-count_frames",
++    "-select_streams",
++    "v:0",
++    "-show_entries",
++    "stream=nb_read_frames",
++    "-of",
++    "csv=p=0",
++    path,
++  ])
++  if ("why" in said) return said
++  const many = Number.parseInt(said.out.split(/\r?\n/)[0]?.trim() ?? "", 10)
++  if (!Number.isInteger(many) || many <= 0) {
++    return { why: `ffprobe answered \`${said.out}\` for the frames in \`${path}\`` }
++  }
++  return { many }
++}
++
++export async function sizeIn(
++  path: string
++): Promise<{ width: number; height: number } | { readonly why: string }> {
++  const said = await probed([
++    "-v",
++    "error",
++    "-select_streams",
++    "v:0",
++    "-show_entries",
++    "stream=width,height",
++    "-of",
++    "csv=p=0",
++    path,
++  ])
++  if ("why" in said) return said
++  const [w, h] = (said.out.split(/\r?\n/)[0]?.trim() ?? "").split(",")
++  const width = Number.parseInt(w ?? "", 10)
++  const height = Number.parseInt(h ?? "", 10)
++  if (!Number.isInteger(width) || !Number.isInteger(height) || width <= 0 || height <= 0) {
++    return { why: `ffprobe answered \`${said.out}\` for the size of \`${path}\`` }
++  }
++  return { width, height }
++}
+diff --git a/commands/wan/wan-hosting/wan-hosting.module.ts b/commands/wan/wan-hosting/wan-hosting.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..958a60a7a4d4071957855d67946a46a8522749bf
+--- /dev/null
++++ b/commands/wan/wan-hosting/wan-hosting.module.ts
+@@ -0,0 +1,37 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const wanHosting = {
++  id: "01a072fa-322d-77af-bb5a-82b475102492",
++  pageTypeSlug: "module",
++  slug: "wan-hosting",
++  definition: "the host a wan call runs on",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "The port, the data directory and the scorer's image are read from the environment.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "An environment naming none of those is answered with a default rather than refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A program that will not start is answered as nothing rather than thrown.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "How many frames a clip holds and how large they are is what ffprobe answers.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An ffprobe ending at anything but zero is answered with the last line it wrote.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reaches the GPU.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/commands/wan/wan.command.code.ts b/commands/wan/wan.command.code.ts
+index dd3afe76603d42ebd53c8f3eb018fc2356d4c1b4..19f653f73f916bb5f63067aca468ddd680386006 100644
+--- a/commands/wan/wan.command.code.ts
++++ b/commands/wan/wan.command.code.ts
+@@ -1,648 +1,24 @@
+-import { webcrypto } from "node:crypto"
+-import { readFileSync } from "node:fs"
+-import { mkdir, readdir, readFile, writeFile } from "node:fs/promises"
+-import { homedir } from "node:os"
+-import { basename, dirname, extname, isAbsolute, join, resolve } from "node:path"
+-import { fetchImage, runComfyGraph } from "@akasha/inference-clients/comfy-client"
+-import { buildInferenceRunRecord, sha256Hex } from "@akasha/inference-runs/inference-run-record"
+-import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
+-import {
+-  WAN_DEFAULT_NEGATIVE_PROMPT,
+-  WAN_FPS,
+-  WAN_FULL_STEPS,
+-  WAN_LIGHTNING_STEPS,
+-} from "@akasha/wan/wan-backbone"
+-import type { ExtendDirection } from "@akasha/wan/wan-extend-graph"
+-import {
+-  buildExtendGraph,
+-  computeSkipFirstFrames,
+-  resolveComfyInputName,
+-  snapToVaeLength,
+-} from "@akasha/wan/wan-extend-graph"
+-import { buildI2vGraph } from "@akasha/wan/wan-i2v-graph"
+-import { parseSizeOrNull } from "@akasha/wan/wan-size"
++import { mkdir, readdir } from "node:fs/promises"
++import { basename, dirname, extname, join } from "node:path"
+ import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+ import { refused } from "../../command-system/calling/calling.module.code.ts"
+ import { whyOf } from "../../command-system/fault-saying/fault-saying.module.code.ts"
+-
+-const GENERATE = "generate"
+-
+-const EXTEND = "extend"
+-
+-const FRAMES = "frames"
+-
+-const SCORE = "score"
+-
+-const ACTS = [GENERATE, EXTEND, FRAMES, SCORE] as const
+-
+-export type Act = (typeof ACTS)[number]
+-
+-const SERVICE = "wan-i2v"
+-
+-const MODEL = "QuantStack/Wan2.2-I2V-A14B-GGUF Q5_K_M"
+-
+-const HOST = "workstation"
+-
+-const DEFAULT_PORT = "8676"
+-
+-const NEW_FRAMES_FLOOR = 13
++import type { Taken } from "./wan-arguing/wan-arguing.module.code.ts"
++import {
++  at,
++  EXTEND,
++  FRAMES,
++  GENERATE,
++  numberIn,
++  readIn,
++} from "./wan-arguing/wan-arguing.module.code.ts"
++import { extending, generating } from "./wan-clip-rendering/wan-clip-rendering.module.code.ts"
++import { homeIn, imageIn, spawned } from "./wan-hosting/wan-hosting.module.code.ts"
+ 
+ const REJECTED_INPUTS = 2
+ 
+-const DIRECTIONS = ["forward", "back"] as const
+-
+ const FRAME_PATTERN = /^frame-\d{4}\.png$/
+ 
+-const ROUTE = "-file"
+-
+-const STDIN = "-"
+-
+-type Shape = "token" | "prose" | "switch"
+-
+-const TAKEN: { readonly [A in Act]: ReadonlyMap<string, Shape> } = {
+-  [GENERATE]: new Map<string, Shape>([
+-    ["--start-image", "token"],
+-    ["--end-image", "token"],
+-    ["--prompt", "prose"],
+-    ["--negative-prompt", "prose"],
+-    ["--seed", "token"],
+-    ["--steps", "token"],
+-    ["--lightning", "switch"],
+-    ["--size", "token"],
+-    ["--frames", "token"],
+-    ["--output", "token"],
+-    ["--timeout", "token"],
+-  ]),
+-  [EXTEND]: new Map<string, Shape>([
+-    ["--context", "token"],
+-    ["--direction", "token"],
+-    ["--prompt", "prose"],
+-    ["--negative-prompt", "prose"],
+-    ["--context-frames", "token"],
+-    ["--new-frames", "token"],
+-    ["--seed", "token"],
+-    ["--steps", "token"],
+-    ["--lightning", "switch"],
+-    ["--size", "token"],
+-    ["--output", "token"],
+-    ["--timeout", "token"],
+-  ]),
+-  [FRAMES]: new Map<string, Shape>([
+-    ["--video", "token"],
+-    ["--fps", "token"],
+-    ["--out-dir", "token"],
+-  ]),
+-  [SCORE]: new Map<string, Shape>([
+-    ["--frames-dir", "token"],
+-    ["--reference", "token"],
+-    ["--floor", "token"],
+-  ]),
+-}
+-
+-const FILLED: { readonly [A in Act]: ReadonlyMap<string, string> } = {
+-  [GENERATE]: new Map([
+-    ["--size", "1280x720"],
+-    ["--frames", "81"],
+-    ["--timeout", "3600"],
+-  ]),
+-  [EXTEND]: new Map([
+-    ["--context-frames", "24"],
+-    ["--new-frames", "16"],
+-    ["--timeout", "3600"],
+-  ]),
+-  [FRAMES]: new Map<string, string>(),
+-  [SCORE]: new Map([["--floor", "0.45"]]),
+-}
+-
+-const NEEDED: { readonly [A in Act]: readonly string[] } = {
+-  [GENERATE]: ["--prompt"],
+-  [EXTEND]: ["--context", "--direction", "--prompt"],
+-  [FRAMES]: ["--video"],
+-  [SCORE]: ["--frames-dir", "--reference"],
+-}
+-
+-const WHOLE = new Set([
+-  "--seed",
+-  "--steps",
+-  "--frames",
+-  "--timeout",
+-  "--context-frames",
+-  "--new-frames",
+-  "--fps",
+-])
+-
+-const REAL = new Set(["--floor"])
+-
+-export type Taken = {
+-  readonly act: Act
+-  readonly said: ReadonlyMap<string, string>
+-  readonly on: ReadonlySet<string>
+-}
+-
+-export type Read = Taken | { readonly refused: readonly string[] }
+-
+-function acts(): string {
+-  return ACTS.map((one) => `\`${one}\``).join(", ")
+-}
+-
+-function flagsOf(act: Act): string {
+-  return [...TAKEN[act].keys()].map((one) => `\`${one}\``).join(", ")
+-}
+-
+-function isAct(said: string): said is Act {
+-  return (ACTS as readonly string[]).includes(said)
+-}
+-
+-function routedIn(said: string, shapes: ReadonlyMap<string, Shape>): string | null {
+-  if (!said.endsWith(ROUTE)) return null
+-  const named = said.slice(0, -ROUTE.length)
+-  return shapes.get(named) === "prose" ? named : null
+-}
+-
+-function textIn(path: string): { readonly text: string } | { readonly why: string } {
+-  try {
+-    return { text: path === STDIN ? readFileSync(0, "utf8") : readFileSync(path, "utf8") }
+-  } catch (thrown) {
+-    return { why: whyOf(thrown) }
+-  }
+-}
+-
+-function wholeIn(raw: string): number | null {
+-  const said = raw.trim()
+-  if (!/^\d+$/.test(said)) return null
+-  const held = Number.parseInt(said, 10)
+-  return Number.isSafeInteger(held) ? held : null
+-}
+-
+-export function readIn(argv: readonly string[]): Read {
+-  const [named, ...rest] = argv
+-  if (named === undefined) {
+-    return { refused: [`this names no act — it carries ${acts()}`] }
+-  }
+-  if (!isAct(named)) {
+-    return { refused: [`\`${named}\` is no act this carries — it carries ${acts()}`] }
+-  }
+-  const act: Act = named
+-  const shapes = TAKEN[act]
+-  const refusals: string[] = []
+-  const said = new Map<string, string>()
+-  const on = new Set<string>()
+-  const holding = (flag: string, value: string): undefined => {
+-    if (said.has(flag)) {
+-      refusals.push(`\`${flag}\` is said more than once, and it carries one value`)
+-      return
+-    }
+-    said.set(flag, value)
+-    return
+-  }
+-  for (let at = 0; at < rest.length; at += 1) {
+-    const one = rest[at]
+-    if (one === undefined) continue
+-    if (!one.startsWith("-")) {
+-      refusals.push(`\`${one}\` is no flag, and \`${act}\` is said with flags alone`)
+-      continue
+-    }
+-    const shape = shapes.get(one)
+-    if (shape === "switch") {
+-      on.add(one)
+-      continue
+-    }
+-    const routed = shape === undefined ? routedIn(one, shapes) : null
+-    if (shape === undefined && routed === null) {
+-      refusals.push(`\`${one}\` is no flag \`${act}\` takes — it takes ${flagsOf(act)}`)
+-      continue
+-    }
+-    const value = rest[at + 1]
+-    at += 1
+-    if (value === undefined) {
+-      refusals.push(`\`${one}\` carries a value, and nothing followed it`)
+-      continue
+-    }
+-    if (routed === null) {
+-      holding(one, value)
+-      continue
+-    }
+-    const read = textIn(value)
+-    if ("why" in read) {
+-      refusals.push(`\`${one}\` could not read \`${value}\` — ${read.why}`)
+-      continue
+-    }
+-    holding(routed, read.text)
+-  }
+-  for (const [flag, value] of FILLED[act]) if (!said.has(flag)) said.set(flag, value)
+-  for (const flag of NEEDED[act]) {
+-    if (!said.has(flag)) refusals.push(`\`${act}\` names \`${flag}\`, and nothing said it`)
+-  }
+-  for (const [flag, value] of said) {
+-    if (WHOLE.has(flag) && wholeIn(value) === null) {
+-      refusals.push(
+-        `\`${flag}\` carries a whole number that is not below zero, and \`${value}\` is not one`
+-      )
+-    }
+-    if (REAL.has(flag) && (value.trim() === "" || !Number.isFinite(Number(value)))) {
+-      refusals.push(`\`${flag}\` carries a number, and \`${value}\` is not one`)
+-    }
+-  }
+-  if (refusals.length > 0) return { refused: refusals }
+-  return { act, said, on }
+-}
+-
+-function drawSeed(): number {
+-  const held = new Uint32Array(1)
+-  webcrypto.getRandomValues(held)
+-  return (held[0] ?? 0) & (2 ** 31 - 1)
+-}
+-
+-export function at(given: Given, path: string): string {
+-  if (path.startsWith("~/")) return join(homedir(), path.slice(2))
+-  return isAbsolute(path) ? path : resolve(given.root, path)
+-}
+-
+-function numberIn(said: ReadonlyMap<string, string>, flag: string): number | undefined {
+-  const raw = said.get(flag)
+-  return raw === undefined ? undefined : (wholeIn(raw) ?? undefined)
+-}
+-
+-function madeOf(calledAs: string, act: Act, argv: readonly string[]): string {
+-  const quoted = argv.map((one) => (/\s/.test(one) ? `'${one}'` : one))
+-  return `${calledAs} ${act} ${quoted.slice(1).join(" ")}`.trim()
+-}
+-
+-function portIn(): string {
+-  const held = process.env.WAN_PORT
+-  return held === undefined || held === "" ? DEFAULT_PORT : held
+-}
+-
+-function homeIn(): string {
+-  const held = process.env.WAN_HOME
+-  return held === undefined || held === "" ? join(homedir(), ".local", "share", "wan") : held
+-}
+-
+-function imageIn(): string {
+-  const held = process.env.WAN_IMAGE
+-  return held === undefined || held === "" ? "wan:local" : held
+-}
+-
+-function spawned(argv: readonly string[]): Bun.Subprocess<"ignore", "pipe", "pipe"> | null {
+-  try {
+-    return Bun.spawn([...argv], { stdout: "pipe", stderr: "pipe" })
+-  } catch {
+-    return null
+-  }
+-}
+-
+-async function probed(argv: readonly string[]): Promise<{ out: string } | { why: string }> {
+-  const proc = spawned(["ffprobe", ...argv])
+-  if (proc === null) return { why: "ffprobe is not on PATH — install ffmpeg" }
+-  const out = await new Response(proc.stdout).text()
+-  const err = await new Response(proc.stderr).text()
+-  if ((await proc.exited) !== 0) {
+-    const last = err.trimEnd().split("\n").at(-1)?.trim() ?? "no reason given"
+-    return { why: `ffprobe would not read it — ${last}` }
+-  }
+-  return { out: out.trim() }
+-}
+-
+-async function framesIn(path: string): Promise<{ many: number } | { why: string }> {
+-  const said = await probed([
+-    "-v",
+-    "error",
+-    "-count_frames",
+-    "-select_streams",
+-    "v:0",
+-    "-show_entries",
+-    "stream=nb_read_frames",
+-    "-of",
+-    "csv=p=0",
+-    path,
+-  ])
+-  if ("why" in said) return said
+-  const many = Number.parseInt(said.out.split(/\r?\n/)[0]?.trim() ?? "", 10)
+-  if (!Number.isInteger(many) || many <= 0) {
+-    return { why: `ffprobe answered \`${said.out}\` for the frames in \`${path}\`` }
+-  }
+-  return { many }
+-}
+-
+-async function sizeIn(
+-  path: string
+-): Promise<{ width: number; height: number } | { readonly why: string }> {
+-  const said = await probed([
+-    "-v",
+-    "error",
+-    "-select_streams",
+-    "v:0",
+-    "-show_entries",
+-    "stream=width,height",
+-    "-of",
+-    "csv=p=0",
+-    path,
+-  ])
+-  if ("why" in said) return said
+-  const [w, h] = (said.out.split(/\r?\n/)[0]?.trim() ?? "").split(",")
+-  const width = Number.parseInt(w ?? "", 10)
+-  const height = Number.parseInt(h ?? "", 10)
+-  if (!Number.isInteger(width) || !Number.isInteger(height) || width <= 0 || height <= 0) {
+-    return { why: `ffprobe answered \`${said.out}\` for the size of \`${path}\`` }
+-  }
+-  return { width, height }
+-}
+-
+-async function generating(
+-  read: Taken,
+-  given: Given,
+-  argv: readonly string[],
+-  report: string[]
+-): Promise<Answer> {
+-  const said = read.said
+-  const startSaid = said.get("--start-image")
+-  const endSaid = said.get("--end-image")
+-  if (startSaid === undefined && endSaid === undefined) {
+-    return refused("a generate names `--start-image` or `--end-image`, and neither was said", 1)
+-  }
+-  const startPath = startSaid === undefined ? undefined : at(given, startSaid)
+-  const endPath = endSaid === undefined ? undefined : at(given, endSaid)
+-  const prompt = said.get("--prompt") ?? ""
+-  const negative = said.get("--negative-prompt") ?? WAN_DEFAULT_NEGATIVE_PROMPT
+-  const lightning = read.on.has("--lightning")
+-  const steps = numberIn(said, "--steps") ?? (lightning ? WAN_LIGHTNING_STEPS : WAN_FULL_STEPS)
+-  const seed = numberIn(said, "--seed") ?? drawSeed()
+-  const size = said.get("--size") ?? ""
+-  const held = parseSizeOrNull(size)
+-  if (held === null) {
+-    return refused(`\`--size\` is two whole numbers parted by \`x\`, and \`${size}\` is not`, 1)
+-  }
+-  const { width, height } = held
+-  const frames = numberIn(said, "--frames") ?? 0
+-  const waiting = (numberIn(said, "--timeout") ?? 0) * 1000
+-  const nowMs = Date.now()
+-  const outSaid = said.get("--output")
+-  const outPath =
+-    outSaid === undefined
+-      ? join(homedir(), "Pictures", "Generated", `i2v-${Math.floor(nowMs / 1000)}.mp4`)
+-      : at(given, outSaid)
+-
+-  const bytesIn = async (
+-    flag: string,
+-    path: string
+-  ): Promise<{ bytes: Uint8Array } | { why: string }> => {
+-    try {
+-      return { bytes: await readFile(path) }
+-    } catch (thrown) {
+-      return { why: `\`${flag}\` names \`${path}\`, which would not be read — ${whyOf(thrown)}` }
+-    }
+-  }
+-
+-  let startBytes: Uint8Array | undefined
+-  if (startPath !== undefined) {
+-    const one = await bytesIn("--start-image", startPath)
+-    if ("why" in one) return refused(one.why, 2)
+-    startBytes = one.bytes
+-  }
+-  let endBytes: Uint8Array | undefined
+-  if (endPath !== undefined) {
+-    const one = await bytesIn("--end-image", endPath)
+-    if ("why" in one) return refused(one.why, 2)
+-    endBytes = one.bytes
+-  }
+-  const startName = startPath === undefined ? undefined : basename(startPath)
+-  const endName = endPath === undefined ? undefined : basename(endPath)
+-  if (
+-    startPath !== undefined &&
+-    endPath !== undefined &&
+-    startName === endName &&
+-    startPath !== endPath
+-  ) {
+-    return refused(
+-      `\`--start-image\` and \`--end-image\` are two files named \`${startName}\`, ` +
+-        "and staging would put one over the other — name one of them otherwise",
+-      1
+-    )
+-  }
+-
+-  const home = homeIn()
+-  const inputs = join(home, "inputs")
+-  await mkdir(inputs, { recursive: true })
+-  if (startBytes !== undefined && startName !== undefined) {
+-    await writeFile(join(inputs, startName), startBytes)
+-  }
+-  if (endBytes !== undefined && endName !== undefined) {
+-    await writeFile(join(inputs, endName), endBytes)
+-  }
+-  report.push(`the conditioning images stand staged under ${inputs}`)
+-
+-  const record = buildInferenceRunRecord({
+-    service: SERVICE,
+-    operation: "i2v",
+-    model: MODEL,
+-    host: HOST,
+-    commandLine: madeOf(given.calledAs, GENERATE, argv),
+-    startedAt: new Date(nowMs).toISOString(),
+-    prompt,
+-    negativePrompt: negative,
+-    seed,
+-    steps,
+-    width,
+-    height,
+-    size,
+-    frames,
+-    fps: WAN_FPS,
+-    lightning,
+-    ...(startPath !== undefined ? { inputImagePath: startPath } : {}),
+-    ...(startBytes !== undefined ? { inputImageSha256: sha256Hex(startBytes) } : {}),
+-    ...(endPath !== undefined ? { endImagePath: endPath } : {}),
+-    ...(endBytes !== undefined ? { endImageSha256: sha256Hex(endBytes) } : {}),
+-  })
+-
+-  const baseUrl = `http://127.0.0.1:${portIn()}`
+-  await recordInferenceRun(record, async () => {
+-    const run = await runComfyGraph({
+-      baseUrl,
+-      buildGraph: () =>
+-        buildI2vGraph({
+-          ...(startName !== undefined ? { startImageName: startName } : {}),
+-          ...(endName !== undefined ? { endImageName: endName } : {}),
+-          prompt,
+-          negativePrompt: negative,
+-          width,
+-          height,
+-          frames,
+-          seed,
+-          steps,
+-          lightning,
+-          filenamePrefix: "i2v",
+-        }),
+-      pollDeadlineMs: waiting,
+-      onProgress: (one: string) => {
+-        report.push(one)
+-        return undefined
+-      },
+-    })
+-    const mp4 = await fetchImage(baseUrl, run.image)
+-    await mkdir(dirname(outPath), { recursive: true })
+-    await writeFile(outPath, mp4)
+-    report.push(`${mp4.byteLength} bytes stand at ${outPath}`)
+-    return { outputPath: outPath, outputBytes: mp4 }
+-  })
+-  report.push(`the recipe it ran under is kept as an inference run, at seed ${seed}`)
+-  return { report, refusals: [], code: 0 }
+-}
+-
+-async function extending(
+-  read: Taken,
+-  given: Given,
+-  argv: readonly string[],
+-  report: string[]
+-): Promise<Answer> {
+-  const said = read.said
+-  const contextPath = at(given, said.get("--context") ?? "")
+-  const directionSaid = said.get("--direction") ?? ""
+-  const direction: ExtendDirection | undefined = DIRECTIONS.find((one) => one === directionSaid)
+-  if (direction === undefined) {
+-    return refused(
+-      `\`--direction\` is \`forward\` or \`back\`, and \`${directionSaid}\` is neither`,
+-      1
+-    )
+-  }
+-  const prompt = said.get("--prompt") ?? ""
+-  const negative = said.get("--negative-prompt") ?? WAN_DEFAULT_NEGATIVE_PROMPT
+-  const lightning = read.on.has("--lightning")
+-  const steps = numberIn(said, "--steps") ?? (lightning ? WAN_LIGHTNING_STEPS : WAN_FULL_STEPS)
+-  const seed = numberIn(said, "--seed") ?? drawSeed()
+-  const contextFrames = numberIn(said, "--context-frames") ?? 0
+-  const asked = numberIn(said, "--new-frames") ?? 0
+-  const waiting = (numberIn(said, "--timeout") ?? 0) * 1000
+-  const sizeSaid = said.get("--size")
+-  const nowMs = Date.now()
+-  const outSaid = said.get("--output")
+-  const outPath =
+-    outSaid === undefined
+-      ? join(homedir(), "Pictures", "Generated", `extend-${Math.floor(nowMs / 1000)}.mp4`)
+-      : at(given, outSaid)
+-
+-  if (contextFrames < 1) {
+-    return refused("`--context-frames` is one frame or more", 1)
+-  }
+-  let contextBytes: Uint8Array
+-  try {
+-    contextBytes = await readFile(contextPath)
+-  } catch (thrown) {
+-    return refused(
+-      `\`--context\` names \`${contextPath}\`, which would not be read — ${whyOf(thrown)}`,
+-      2
+-    )
+-  }
+-
+-  const counted = await framesIn(contextPath)
+-  if ("why" in counted) return { report, refusals: [counted.why], code: 3 }
+-  if (contextFrames >= counted.many) {
+-    return refused(
+-      `\`--context-frames\` is ${contextFrames}, and the clip holds ${counted.many} frames — ` +
+-        "the window is fewer frames than the clip",
+-      1
+-    )
+-  }
+-  let width: number
+-  let height: number
+-  if (sizeSaid === undefined) {
+-    const probed = await sizeIn(contextPath)
+-    if ("why" in probed) return { report, refusals: [probed.why], code: 3 }
+-    width = probed.width
+-    height = probed.height
+-    report.push(`the context clip holds ${counted.many} frames at ${width}x${height}`)
+-  } else {
+-    const held = parseSizeOrNull(sizeSaid)
+-    if (held === null) {
+-      return refused(
+-        `\`--size\` is two whole numbers parted by \`x\`, and \`${sizeSaid}\` is not`,
+-        1
+-      )
+-    }
+-    width = held.width
+-    height = held.height
+-    report.push(`the context clip holds ${counted.many} frames, rendered out at ${width}x${height}`)
+-  }
+-
+-  const raw = contextFrames + asked
+-  const length = snapToVaeLength(raw)
+-  const newFrames = length - contextFrames
+-  if (length !== raw) {
+-    report.push(
+-      `\`--new-frames\` ${asked} stands as ${newFrames}, so the whole ${length} is four times a whole number plus one`
+-    )
+-  }
+-  if (newFrames < NEW_FRAMES_FLOOR) {
+-    report.push(
+-      `${newFrames} new frames is under ${NEW_FRAMES_FLOOR}, where the free window collapses under a second — the result will be near still`
+-    )
+-  }
+-
+-  const skip = computeSkipFirstFrames(direction, counted.many, contextFrames)
+-  const home = homeIn()
+-  const inputs = join(home, "inputs")
+-  const contextName = basename(contextPath)
+-  await mkdir(inputs, { recursive: true })
+-  await writeFile(join(inputs, contextName), contextBytes)
+-  report.push(`the context clip stands staged under ${inputs}`)
+-
+-  const size = `${width}x${height}`
+-  const record = buildInferenceRunRecord({
+-    service: SERVICE,
+-    operation: "i2v-extend",
+-    model: MODEL,
+-    host: HOST,
+-    commandLine: madeOf(given.calledAs, EXTEND, argv),
+-    startedAt: new Date(nowMs).toISOString(),
+-    prompt,
+-    negativePrompt: negative,
+-    seed,
+-    steps,
+-    width,
+-    height,
+-    size,
+-    frames: length,
+-    fps: WAN_FPS,
+-    lightning,
+-    inputImagePath: contextPath,
+-    inputImageSha256: sha256Hex(contextBytes),
+-  })
+-
+-  const baseUrl = `http://127.0.0.1:${portIn()}`
+-  await recordInferenceRun(record, async () => {
+-    const run = await runComfyGraph({
+-      baseUrl,
+-      buildGraph: () =>
+-        buildExtendGraph({
+-          contextVideoName: resolveComfyInputName(contextName),
+-          direction,
+-          skipFirstFrames: skip,
+-          contextFrames,
+-          length,
+-          prompt,
+-          negativePrompt: negative,
+-          width,
+-          height,
+-          seed,
+-          steps,
+-          lightning,
+-          filenamePrefix: "extend",
+-        }),
+-      pollDeadlineMs: waiting,
+-      onProgress: (one: string) => {
+-        report.push(one)
+-        return undefined
+-      },
+-    })
+-    const mp4 = await fetchImage(baseUrl, run.image)
+-    await mkdir(dirname(outPath), { recursive: true })
+-    await writeFile(outPath, mp4)
+-    report.push(`${mp4.byteLength} bytes stand at ${outPath}`)
+-    return { outputPath: outPath, outputBytes: mp4 }
+-  })
+-  report.push(`the recipe it ran under is kept as an inference run, at seed ${seed}`)
+-  return { report, refusals: [], code: 0 }
+-}
+-
+ async function framing(read: Taken, given: Given, report: string[]): Promise<Answer> {
+   const said = read.said
+   const videoPath = at(given, said.get("--video") ?? "")
+diff --git a/commands/wan/wan.command.test.ts b/commands/wan/wan.command.test.ts
+index b2fcc9ea49e8fa13ec10e99764ba59c4af903d16..053d0c3fc22ec877b07ad5843eee0993c009fe02 100644
+--- a/commands/wan/wan.command.test.ts
++++ b/commands/wan/wan.command.test.ts
+@@ -1,6 +1,7 @@
+ import { expect, test } from "bun:test"
+ import type { Given } from "../../command-system/calling/calling.module.code.ts"
+-import { at, readIn, wan } from "./wan.command.code.ts"
++import { wan } from "./wan.command.code.ts"
++import { at, readIn } from "./wan-arguing/wan-arguing.module.code.ts"
+ 
+ function given(root: string): Given {
+   return { root, calledAs: "akasha wan", from: root, writer: null, agentId: null }
+diff --git a/commands/wan/wan.command.ts b/commands/wan/wan.command.ts
+index 806288cd11c5348333d7f1eca2c8ad0d546894ba..3f93dbfb3f44727479c2047c72a5acf193a84b4c 100644
+--- a/commands/wan/wan.command.ts
++++ b/commands/wan/wan.command.ts
+@@ -8,6 +8,7 @@ export const wan = {
+   code: "ts",
+   test: "ts",
+   changeKindSlug: "change-mechanical",
++  partSlugs: ["module/wan-arguing", "module/wan-clip-rendering", "module/wan-hosting"],
+   taking: [
+     {
+       said: "generate",
