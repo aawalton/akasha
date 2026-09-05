@@ -1,0 +1,13 @@
+diff --git a/pages/commands/page-secret-clear/page-secret-clear.command.ts b/pages/commands/page-secret-clear/page-secret-clear.command.ts
+index 0a62d41cfd3c398ae46025fed270a66fd14b8579..7e28f67944bb021d1e7750e2049e92e49361e077 100644
+--- a/pages/commands/page-secret-clear/page-secret-clear.command.ts
++++ b/pages/commands/page-secret-clear/page-secret-clear.command.ts
+@@ -28,7 +28,7 @@ export const pageSecretClear = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A key that was the last one the sops file held takes the file with it.",
++      statement: "A key that was the last one the sops file held takes the file with that key.",
+     },
+     {
+       invariantKind: "departure",
