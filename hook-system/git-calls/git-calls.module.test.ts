@@ -79,7 +79,7 @@ test("a message of more than one line does not cut the paths off its own call", 
   ])
 })
 
-test("an unclosed quote leaves the lines under it standing to be judged", () => {
+test("an unclosed quote leaves the lines under it there to be judged", () => {
   expect(gitCallsIn('echo "one\ngit reset --hard')).toEqual([{ act: "reset", rest: ["--hard"] }])
 })
 

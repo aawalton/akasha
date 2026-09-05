@@ -38,7 +38,7 @@ export const gitCalls = {
     },
     {
       invariantKind: "absence",
-      statement: "No rule about quoting or basenames stands here.",
+      statement: "No rule about quoting or basenames exists here.",
     },
     {
       invariantKind: "gap",

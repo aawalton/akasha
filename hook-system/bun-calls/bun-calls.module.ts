@@ -54,7 +54,7 @@ export const bunCalls = {
     },
     {
       invariantKind: "absence",
-      statement: "No rule about quoting or basenames stands here.",
+      statement: "No rule about quoting or basenames exists here.",
     },
   ],
 } as const satisfies Module

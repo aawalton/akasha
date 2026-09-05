@@ -21,7 +21,7 @@ export const hookSystem = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A hook stands in the akasha folder and is registered outside the akasha folder.",
+      statement: "A hook is in the akasha folder and is registered outside the akasha folder.",
     },
     {
       invariantKind: "departure",

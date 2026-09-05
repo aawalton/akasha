@@ -14,7 +14,7 @@ export const settling = {
     },
     {
       invariantKind: "departure",
-      statement: "A path settles even where nothing stands at the end of the path yet.",
+      statement: "A path settles even where nothing is at the end of the path yet.",
     },
     {
       invariantKind: "departure",

@@ -12,7 +12,7 @@ function worldAt(): string {
   return realpathSync(scratch.rootFor("akasha-settling-"))
 }
 
-test("a path that stands settles on itself", () => {
+test("a path that exists settles on itself", () => {
   const root = worldAt()
   writeFileSync(join(root, "one.ts"), "one\n")
   expect(settled(join(root, "one.ts"))).toBe(join(root, "one.ts"))
@@ -40,7 +40,7 @@ test("a link through a folder settles on where the file lands", () => {
   expect(settled(join(root, "seen", "one.ts"))).toBe(join(root, "real", "one.ts"))
 })
 
-test("a path settles even where nothing stands at the end of it yet", () => {
+test("a path settles even where nothing is at the end of it yet", () => {
   const root = worldAt()
   expect(settled(join(root, "not", "there", "yet.ts"))).toBe(join(root, "not", "there", "yet.ts"))
 })

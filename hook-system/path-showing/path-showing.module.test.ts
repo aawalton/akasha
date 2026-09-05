@@ -23,6 +23,6 @@ test("a path whose name only begins like the root is outside it", () => {
   expect(shownIn(ROOT, "/one/twothree/four.ts")).toBe("/one/twothree/four.ts")
 })
 
-test("nothing has to stand at a path for it to be shown", () => {
+test("nothing has to be at a path for it to be shown", () => {
   expect(shownIn(ROOT, `${ROOT}/nothing/stands/here.ts`)).toBe("nothing/stands/here.ts")
 })

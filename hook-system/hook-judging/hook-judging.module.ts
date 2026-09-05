@@ -4,7 +4,7 @@ export const hookJudging = {
   id: "01a04f83-5df2-71b1-a666-6309398763b8",
   pageTypeSlug: "module",
   slug: "hook-judging",
-  definition: "a hook's judgement asked the way a test asks it, from the root it stands in",
+  definition: "a hook's judgement asked the way a test asks it, from the root it is in",
   code: "ts",
   invariants: [
     {
@@ -41,7 +41,7 @@ export const hookJudging = {
     },
     {
       invariantKind: "absence",
-      statement: "What stands here is stood up by the tests that reach for this module.",
+      statement: "What is here is set up by the tests that reach for this module.",
     },
     {
       invariantKind: "absence",

@@ -4,7 +4,7 @@ export const chainRefusal = {
   id: "01a04f71-0570-763b-ac55-da9d9fca21da",
   pageTypeSlug: "module",
   slug: "chain-refusal",
-  definition: "one refusal standing for the whole command line it was found in",
+  definition: "one refusal representing the whole command line it was found in",
   code: "ts",
   test: "ts",
   invariants: [
