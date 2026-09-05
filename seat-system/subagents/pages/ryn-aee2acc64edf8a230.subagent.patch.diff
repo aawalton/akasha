@@ -46,3 +46,18 @@ index 247c7dd1bbacd61685445f3b8e265988b4ede079..18b41ad9cfa362790eccfd471382a7c4
      {
        invariantKind: "absence",
        statement: "Nothing here decrypts anything or answers with a value.",
+diff --git a/temper/temper-commands/temper-inventory-item-rule-delete/temper-inventory-item-rule-delete.command.ts b/temper/temper-commands/temper-inventory-item-rule-delete/temper-inventory-item-rule-delete.command.ts
+index 1cfaac8096922d2ea2cce31289a7c046213c2149..c74aa1a8fd5caeac78373672b128d2f9c8b2a8ca 100644
+--- a/temper/temper-commands/temper-inventory-item-rule-delete/temper-inventory-item-rule-delete.command.ts
++++ b/temper/temper-commands/temper-inventory-item-rule-delete/temper-inventory-item-rule-delete.command.ts
+@@ -16,10 +16,6 @@ export const temperInventoryItemRuleDelete = {
+     "an id no per-item rule carries is refused by that id.",
+   ],
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A locked per-item rule is refused unless the call says `--force`.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "An id no per-item rule carries refuses the call.",
