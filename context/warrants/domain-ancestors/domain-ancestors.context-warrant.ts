@@ -13,11 +13,12 @@ export const domainAncestors = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat warrants every domain above the one it answers for.",
+      statement: "A seat warrants every domain above the one that seat answers for.",
     },
     {
       invariantKind: "departure",
-      statement: "A domain above another is the one naming it among its parts.",
+      statement:
+        "A domain above another domain is the one naming that other domain among its parts.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +34,7 @@ export const domainAncestors = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat stating a domain with nothing above it warrants no domain.",
+      statement: "A seat stating a domain with nothing above that domain warrants no domain.",
     },
     {
       invariantKind: "departure",
