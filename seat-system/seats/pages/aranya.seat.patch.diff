@@ -22,7 +22,7 @@ index 1cb37b6156c8bbcf0f1373c92d06b022c491e820..1077bcb7b46035f676134ac393c557fa
    root: string,
    agentId: string,
 diff --git a/command-system/commands/patch/patch.command.code.ts b/command-system/commands/patch/patch.command.code.ts
-index ee111070d85d66994ebe6082f1d55fc35f12807a..bad2f5ef65c0110577e30f3b01ae7a0d97bc69e6 100644
+index ee111070d85d66994ebe6082f1d55fc35f12807a..ac03f0d47ae73b466402167a1580c1a5f61df6a8 100644
 --- a/command-system/commands/patch/patch.command.code.ts
 +++ b/command-system/commands/patch/patch.command.code.ts
 @@ -7,6 +7,7 @@ import { applied } from "../../applying/applying.module.code.ts"
@@ -47,6 +47,15 @@ index ee111070d85d66994ebe6082f1d55fc35f12807a..bad2f5ef65c0110577e30f3b01ae7a0d
  import { formattedSaid } from "../../landing-saying/landing-saying.module.code.ts"
  import { added, type Blobs, blobsIn, deleted } from "../../patching/patching.module.code.ts"
  import type { Piping } from "../../piping/piping.module.code.ts"
+@@ -88,6 +91,8 @@ const NO_PAGE = "this call names no agent whose page a patch would be kept besid
+ 
+ const NOT_HELD = "the patch carries no body at"
+ 
++const AS_IT_WAS = "nothing was resolved — the patch is as the patch was"
++
+ const NO_REBASE = "the patch does not rebase onto the commit at HEAD"
+ 
+ const MOVED = " — moved under the patch since it was drafted"
 diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
 index 3e79fda62c024d6f42de233b752efe6c1bb8c0c7..90fc7cb550cd66feb17a1956ad8bf3d39d4f77eb 100644
 --- a/command-system/landing/landing.module.code.ts
