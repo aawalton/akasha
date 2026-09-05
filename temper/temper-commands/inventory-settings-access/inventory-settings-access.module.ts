@@ -32,9 +32,13 @@ export const inventorySettingsAccess = {
       statement: "A write carrying an item rule or a buy rule is refused by how many it carries.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement:
-        "The automation settings live under one settings key on the player page, and the page store refuses every keyed write, so none of them is kept.",
+        "The automation settings live under one settings key, and the page store refuses every keyed write.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "No automation setting on the player page is kept.",
     },
     {
       invariantKind: "departure",
