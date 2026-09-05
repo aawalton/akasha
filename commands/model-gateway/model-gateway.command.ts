@@ -96,7 +96,7 @@ export const modelGateway = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here arms a further act on the seat it swapped.",
+      statement: "Nothing here arms a further act on the seat this command swapped.",
     },
   ],
 } as const satisfies Command
