@@ -142,7 +142,7 @@ function openedIn(
       gone.push(path)
       continue
     }
-    if (!existsSync(at) || statSync(at).isFile()) {
+    if (!existsSync(at) || lstatSync(at).isSymbolicLink() || statSync(at).isFile()) {
       opened.push(path)
       continue
     }
