@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/indexes/shape/index-shape.module.ts b/pages/indexes/shape/index-shape.module.ts
+index 0713e22f48ebcbd4c07fa4fe7af863ce04e9f05a..c122a7848697635fd42f6a003c5a462c5fc15750 100644
+--- a/pages/indexes/shape/index-shape.module.ts
++++ b/pages/indexes/shape/index-shape.module.ts
+@@ -9,7 +9,7 @@ export const indexShape = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A shape here says what a read of the index is answered with.",
++      statement: "A shape here names the answer to a read of the index.",
+     },
+     {
+       invariantKind: "departure",
