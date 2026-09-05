@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-watcher/watcher-dispatch-handling/watcher-dispatch-handling.module.ts b/temper/temper-watcher/watcher-dispatch-handling/watcher-dispatch-handling.module.ts
+index 401a1d94bc53cf5e9af61a06aeb1e5fd86efc29f..aafd5265c92d9b9ccd08fe0a2e34e4b092ba789f 100644
+--- a/temper/temper-watcher/watcher-dispatch-handling/watcher-dispatch-handling.module.ts
++++ b/temper/temper-watcher/watcher-dispatch-handling/watcher-dispatch-handling.module.ts
+@@ -84,7 +84,7 @@ export const watcherDispatchHandling = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here parses what a saved-variables file holds.",
++      statement: "Nothing here parses the content a saved-variables file holds.",
+     },
+   ],
+ } as const satisfies Module
