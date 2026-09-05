@@ -1,5 +1,5 @@
 diff --git a/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts b/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts
-index 27098e34c65334da5ea1ecfd36cc754e28bf8203..3f2bc37ed4dfca20ffe8dfe52bd028b22a59437a 100644
+index 27098e34c65334da5ea1ecfd36cc754e28bf8203..8dcb1ca9923bd47482889aedbc961b0edbd0ac4c 100644
 --- a/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts
 +++ b/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts
 @@ -9,14 +9,14 @@ const VERSION = 3
@@ -45,6 +45,15 @@ index 27098e34c65334da5ea1ecfd36cc754e28bf8203..3f2bc37ed4dfca20ffe8dfe52bd028b2
    try {
      const one = statSync(`${dir}/${name}`)
      return one.isFile() ? { at: `${dir}/${name}`, bytes: one.size, used: one.mtimeMs } : null
+@@ -82,7 +82,7 @@ function standingAt(dir: string, name: string): Standing | null {
+ }
+ 
+ // Only a finished answer is ever weighed or taken away. `writeFileAtomicSync` renames from
+-// `<path>.tmp-<pid>-<random>`, and another checkout's write may be standing at one of those while
++// `<path>.tmp-<pid>-<random>`, and another checkout's write may be sitting at one of those while
+ // this runs, so a name that is not an answer is left alone rather than pulled out from under it.
+ function looseIn(
+   dir: string,
 diff --git a/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts b/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts
 index 2b5d07636ad8c570b1a3472b9f4bad270bc6f80e..469fc9cea8438c4011921b0b744ae3731fc2d7f8 100644
 --- a/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts
@@ -72,7 +81,7 @@ index 2b5d07636ad8c570b1a3472b9f4bad270bc6f80e..469fc9cea8438c4011921b0b744ae373
    return { bySlug, fault }
  }
 diff --git a/markdown-pages/markdown-property-frontmatter/markdown-property-frontmatter.module.code.ts b/markdown-pages/markdown-property-frontmatter/markdown-property-frontmatter.module.code.ts
-index d3015c2fa566372a11b885c6cec5ecf5a224eaf2..ddc647b5a573bc12e3d9b99537f34c180c99e9d3 100644
+index d3015c2fa566372a11b885c6cec5ecf5a224eaf2..035a465c01ae98cd025ab6f4e8cd25cf8545db7c 100644
 --- a/markdown-pages/markdown-property-frontmatter/markdown-property-frontmatter.module.code.ts
 +++ b/markdown-pages/markdown-property-frontmatter/markdown-property-frontmatter.module.code.ts
 @@ -85,8 +85,8 @@ const fromData = (one: VocabularyData): Vocabulary => ({
@@ -119,6 +128,17 @@ index d3015c2fa566372a11b885c6cec5ecf5a224eaf2..ddc647b5a573bc12e3d9b99537f34c18
    const made = armFor(property, stated, vocabularyFor(ground.tree))
    ground.rules.set(at, made)
    return made
+@@ -230,8 +230,8 @@ function heldProperties(type: PageType, tree: FileTree, chain: readonly string[]
+ 
+ export function compiledPageTypeFor(type: PageType, tree: FileTree): CompiledPageType {
+   const ground = groundOf(tree)
+-  const standing = ground.held.get(type.relPath)
+-  if (standing !== undefined) return standing
++  const kept = ground.held.get(type.relPath)
++  if (kept !== undefined) return kept
+   const chain = chainOf(type, tree, typeIndex(tree)).relPaths
+   const { properties, why } = heldProperties(type, tree, chain)
+   const armed = new Map<Property, Armed>()
 diff --git a/markdown-pages/markdown-property-judge/markdown-property-judge.module.code.ts b/markdown-pages/markdown-property-judge/markdown-property-judge.module.code.ts
 index e3bd64d3175b722b9e7dec401322c27c5220e59f..4f4ef97590b446c7bb61e2cf240d1add5ecb0ab9 100644
 --- a/markdown-pages/markdown-property-judge/markdown-property-judge.module.code.ts
