@@ -51,3 +51,16 @@ index 5a4487182628f1a53319652255bcbc1524b84050..c94350f2ebba45762a36a143b6e58b5d
      },
      {
        invariantKind: "departure",
+diff --git a/infrastructure/inference-pool/inference-naming/inference-naming.module.ts b/infrastructure/inference-pool/inference-naming/inference-naming.module.ts
+index f24c6134646e3d09b3db6b857b834127b50235a8..fbab57c61261d405471c97acb442316348776943 100644
+--- a/infrastructure/inference-pool/inference-naming/inference-naming.module.ts
++++ b/infrastructure/inference-pool/inference-naming/inference-naming.module.ts
+@@ -10,7 +10,7 @@ export const inferenceNaming = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A name is turned into a label, an environment and a path here rather than spelled out at each caller.",
++        "A name is made into a label, an environment and a path here rather than spelled out at each caller.",
+     },
+   ],
+ } as const satisfies Module
