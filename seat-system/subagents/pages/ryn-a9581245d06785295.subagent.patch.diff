@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/change-freshness/change-freshness.module.ts b/command-system/change-freshness/change-freshness.module.ts
+index 5cb1fca90b0fe353f5c5668b9588ff06b780a72c..1861509cb39994b47837f3b740d69db3f1b8bc79 100644
+--- a/command-system/change-freshness/change-freshness.module.ts
++++ b/command-system/change-freshness/change-freshness.module.ts
+@@ -21,7 +21,7 @@ export const changeFreshness = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A body carried mechanically after it was read still holds for the reader it was carried for.",
++        "A body carried mechanically after being read still holds for the reader that body was carried for.",
+     },
+     {
+       invariantKind: "departure",
