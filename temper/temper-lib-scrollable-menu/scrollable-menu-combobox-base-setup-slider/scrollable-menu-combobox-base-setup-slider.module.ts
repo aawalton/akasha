@@ -9,7 +9,8 @@ export const scrollableMenuComboboxBaseSetupSlider = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The value label is anchored differently depending on whether it is shown.",
+      statement:
+        "The value label is anchored differently depending on whether that label is shown.",
     },
     {
       invariantKind: "departure",
