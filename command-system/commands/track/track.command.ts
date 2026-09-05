@@ -176,10 +176,6 @@ export const track = {
     },
     {
       invariantKind: "departure",
-      statement: "A row is identified by a mark minted when the row is written.",
-    },
-    {
-      invariantKind: "departure",
       statement: "An amend moves the stretches on either side to keep a day contiguous.",
     },
     {
