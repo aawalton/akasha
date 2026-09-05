@@ -10,11 +10,11 @@ export const pageQueryKeys = {
     {
       invariantKind: "departure",
       statement:
-        "A key a query sorts by, reduces, counts by or tests on is asked for as much as one it names.",
+        "A key a query sorts by, reduces, counts by or tests on is asked for as much as one that query names.",
     },
     {
       invariantKind: "departure",
-      statement: "A key is asked for once however many times a query names it.",
+      statement: "A key is asked for once however many times a query names that key.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +22,8 @@ export const pageQueryKeys = {
     },
     {
       invariantKind: "departure",
-      statement: "A body is carried only where the query asks for it or asks for the whole page.",
+      statement:
+        "A body is carried only where the query asks for that body or asks for the whole page.",
     },
     {
       invariantKind: "absence",
