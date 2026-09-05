@@ -1,0 +1,13 @@
+diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
+index 200e0ae6f6d1291e4e3716413702dd7f54de8387..0315a229d4c9bf5eb05cd86e61cac1d3fc911f3f 100644
+--- a/command-system/drafting/drafting.module.code.ts
++++ b/command-system/drafting/drafting.module.code.ts
+@@ -44,7 +44,7 @@ const DIFF_AT = "diff --git "
+ 
+ export type Running = { readonly checks: boolean; readonly warrants: boolean }
+ 
+-const AUTHORED: Running = { checks: true, warrants: true }
++export const AUTHORED: Running = { checks: true, warrants: true }
+ 
+ const RUNS_NOTHING: Running = { checks: false, warrants: false }
+ 
