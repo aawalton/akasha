@@ -479,6 +479,14 @@ index a7845161f4d7896d57893b58d6bb5b9157827cb4..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../shell
 \ No newline at end of file
+diff --git a/sms-access/sms-access b/sms-access/sms-access
+deleted file mode 120000
+index dfa125f444ce8f3eeb8ac9afbf2bee55935ef597..0000000000000000000000000000000000000000
+--- a/sms-access/sms-access
++++ /dev/null
+@@ -1 +0,0 @@
+-../../sms-access
+\ No newline at end of file
 diff --git a/utils-fs/utils-fs b/utils-fs/utils-fs
 deleted file mode 120000
 index 8a4350bb29c2cb7e9846cf1a8d7d0cf52c94bd83..0000000000000000000000000000000000000000
