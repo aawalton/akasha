@@ -63,7 +63,7 @@ export const value = {
     },
     {
       invariantKind: "departure",
-      statement: "A value names the query answering it rather than holding the question.",
+      statement: "A value names the query answering that value rather than holding the question.",
     },
     {
       invariantKind: "departure",
