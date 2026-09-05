@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-watcher/watcher-config-file/watcher-config-file.module.ts b/temper/temper-watcher/watcher-config-file/watcher-config-file.module.ts
+index 71c168666569c035b5861418c855f2ac30c21c6b..a58c6d6d3bce91e576cc78da904b08ff8a8f946e 100644
+--- a/temper/temper-watcher/watcher-config-file/watcher-config-file.module.ts
++++ b/temper/temper-watcher/watcher-config-file/watcher-config-file.module.ts
+@@ -58,7 +58,7 @@ export const watcherConfigFile = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here works out what belongs in a block.",
++      statement: "Nothing here works out a block's contents.",
+     },
+   ],
+ } as const satisfies Module
