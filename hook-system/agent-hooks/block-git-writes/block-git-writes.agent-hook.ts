@@ -26,7 +26,7 @@ export const blockGitWrites = {
     {
       invariantKind: "departure",
       statement:
-        "A prefix that only runs the call behind it does not hide a git write from this hook.",
+        "A prefix that only runs the call behind that prefix does not hide a git write from this hook.",
     },
     {
       invariantKind: "absence",
@@ -34,7 +34,7 @@ export const blockGitWrites = {
     },
     {
       invariantKind: "absence",
-      statement: "A refusal prescribes no bounded form of the call it refused.",
+      statement: "A refusal prescribes no bounded form of the call that refusal refused.",
     },
     {
       invariantKind: "absence",
@@ -63,7 +63,7 @@ export const blockGitWrites = {
     {
       invariantKind: "constraint",
       statement:
-        "The repository root is the akasha folder, so every path it tracks is akasha content.",
+        "The repository root is the akasha folder, so every path that repository tracks is akasha content.",
     },
     {
       invariantKind: "constraint",
