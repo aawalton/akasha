@@ -13,7 +13,7 @@ export const exerciseSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag taking a value with no value after it is a refusal.",
+      statement: "A flag taking a value with no value after that flag is a refusal.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const exerciseSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "Every refusal a call earns is gathered before any of them is answered.",
+      statement: "Every refusal a call earns is gathered before any of those refusals is answered.",
     },
     {
       invariantKind: "departure",
