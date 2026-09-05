@@ -70,7 +70,7 @@ export const typeRenaming = {
     },
     {
       invariantKind: "absence",
-      statement: "What is answered here is what a landing would be asked for.",
+      statement: "The files answered here are the files a landing would be asked for.",
     },
   ],
 } as const satisfies Module
