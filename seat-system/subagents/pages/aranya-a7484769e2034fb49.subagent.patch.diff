@@ -1,0 +1,12 @@
+diff --git a/service-system/cluster-services/pages/pgbouncer/pgbouncer.cluster-service.ts b/service-system/cluster-services/pages/pgbouncer/pgbouncer.cluster-service.ts
+index 74ed7f0a9ea5922f1d9f6adc2cb1877fcb1fd4a1..ad0e40e57cd6e86e917fef59ba17886675263c0d 100644
+--- a/service-system/cluster-services/pages/pgbouncer/pgbouncer.cluster-service.ts
++++ b/service-system/cluster-services/pages/pgbouncer/pgbouncer.cluster-service.ts
+@@ -11,6 +11,5 @@ export const pgbouncer = {
+   image: "edoburu/pgbouncer:v1.25.1-p0",
+   replicas: 1,
+   containerPort: 5432,
+-  manifestCode:
+-    "service-system/cluster-services/pages/pgbouncer/pgbouncer.cluster-service.code.attachment.ts",
++  manifestSlug: "pgbouncer",
+ } as const satisfies ClusterService
