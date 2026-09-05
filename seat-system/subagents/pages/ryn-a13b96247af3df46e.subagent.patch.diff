@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/views/properties/nav-slug.relation-property.ts b/pages/views/properties/nav-slug.relation-property.ts
+index f2fa8ce3326f80d808457defc2fb1e3da452841e..5d71e35b5e3f1018510162cd6075660bb21c92e1 100644
+--- a/pages/views/properties/nav-slug.relation-property.ts
++++ b/pages/views/properties/nav-slug.relation-property.ts
+@@ -13,7 +13,7 @@ export const navSlug = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A view belongs to the nav item that owns it and is drawn nowhere else.",
++      statement: "A view belongs to the nav item that owns that view and is drawn nowhere else.",
+     },
+   ],
+ } as const satisfies RelationProperty
