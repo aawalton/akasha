@@ -29,10 +29,7 @@ export const monarchSyncing = {
       statement:
         "A run told to be incremental lands the trusted window rather than the whole of Monarch.",
     },
-    {
-      invariantKind: "departure",
-      statement: "Only the full run speaks for rows older than the trusted window.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A failing account is caught and named rather than stopping the rest.",
