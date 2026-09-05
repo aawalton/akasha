@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/fault-saying/fault-saying.module.ts b/command-system/fault-saying/fault-saying.module.ts
-index 86c03a4af9cf2e957400de23cd3e34086d43531c..fba160215db3e2da3486641fa7702cf21e612766 100644
+index 86c03a4af9cf2e957400de23cd3e34086d43531c..780e64dec1aa43b4f1251bfe7782cda2adae2e0f 100644
 --- a/command-system/fault-saying/fault-saying.module.ts
 +++ b/command-system/fault-saying/fault-saying.module.ts
 @@ -10,19 +10,19 @@ export const faultSaying = {
@@ -36,3 +36,12 @@ index 86c03a4af9cf2e957400de23cd3e34086d43531c..fba160215db3e2da3486641fa7702cf2
      },
      {
        invariantKind: "departure",
+@@ -63,7 +63,7 @@ export const faultSaying = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "What is said carries no frame.",
++      statement: "The message carries no frame.",
+     },
+   ],
+ } as const satisfies Module
