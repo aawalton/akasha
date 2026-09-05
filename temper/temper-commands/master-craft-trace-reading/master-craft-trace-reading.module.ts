@@ -9,7 +9,7 @@ export const masterCraftTraceReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every trace names the outcome that ended it.",
+      statement: "Every trace names the outcome that ended that trace.",
     },
     {
       invariantKind: "departure",
