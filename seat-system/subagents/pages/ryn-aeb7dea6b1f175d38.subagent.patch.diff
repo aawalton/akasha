@@ -32,3 +32,20 @@ index 170c6e5b93e1f672f579a5d5a4a75361e9605031..8ef7e32a20cd98b8f77867d1e499b732
      {
        invariantKind: "departure",
        statement: "One timer takes every attribute reading.",
+diff --git a/alan/harness/capacity/capacity.domain.ts b/alan/harness/capacity/capacity.domain.ts
+index d0d5e06416ab3ab825180048c1a16c4f75ea1f89..32b5dcfb0a38f5d0135856251a4b15c44e60bb99 100644
+--- a/alan/harness/capacity/capacity.domain.ts
++++ b/alan/harness/capacity/capacity.domain.ts
+@@ -21,11 +21,7 @@ export const capacity = {
+       statement:
+         "The capacity is summed over the stretches of the day rather than read off the day.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The reading is taken by a workstation timer rather than by a pod serving a route.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "Every site showing the capacity is carried the capacity rather than taking one.",
