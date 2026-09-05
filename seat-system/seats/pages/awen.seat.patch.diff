@@ -1,0 +1,361 @@
+runsWarrants: false
+diff --git a/story/world-mechanics/world-items/pages/bow-of-thiypc-s-promise.world-item.ts b/story/world-mechanics/world-items/pages/bow-of-thiypc-s-promise.world-item.ts
+deleted file mode 100644
+index 88f345cc9345c8434436555f36b4a5e2aa823871..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-items/pages/bow-of-thiypc-s-promise.world-item.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldItem } from "../world-item.page-type.ts"
+-
+-export const bowOfThiypcSPromise = {
+-  id: "01a0655a-7b7f-7514-9a57-701b02842dbb",
+-  pageTypeSlug: "world-item",
+-  slug: "bow-of-thiypc-s-promise",
+-  title: "Bow of Thiypc’s Promise",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/bow-of-thiypc-s-promise/bow-of-thiypc-s-promise.world-item.ts b/story/world-mechanics/world-items/pages/bow-of-thiypc-s-promise/bow-of-thiypc-s-promise.world-item.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..819ef5e988b3e89b3da7023a2cba1590143bd6af
+--- /dev/null
++++ b/story/world-mechanics/world-items/pages/bow-of-thiypc-s-promise/bow-of-thiypc-s-promise.world-item.ts
+@@ -0,0 +1,9 @@
++import type { WorldItem } from "../../world-item.page-type.ts"
++
++export const bowOfThiypcSPromise = {
++  id: "01a0655a-7b7f-7514-9a57-701b02842dbb",
++  pageTypeSlug: "world-item",
++  slug: "bow-of-thiypc-s-promise",
++  title: "Bow of Thiypc’s Promise",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/brooch-of-golem-speech.world-item.ts b/story/world-mechanics/world-items/pages/brooch-of-golem-speech.world-item.ts
+deleted file mode 100644
+index e0a30e77def07f577e6b35d08fc90158676b7e8d..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-items/pages/brooch-of-golem-speech.world-item.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldItem } from "../world-item.page-type.ts"
+-
+-export const broochOfGolemSpeech = {
+-  id: "01a0655a-7b7f-7c9e-b788-c7a70f8ca72f",
+-  pageTypeSlug: "world-item",
+-  slug: "brooch-of-golem-speech",
+-  title: "Brooch of Golem Speech",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/brooch-of-golem-speech/brooch-of-golem-speech.world-item.ts b/story/world-mechanics/world-items/pages/brooch-of-golem-speech/brooch-of-golem-speech.world-item.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a40722f9ea9e50e2d0300be3808d50d633328b3a
+--- /dev/null
++++ b/story/world-mechanics/world-items/pages/brooch-of-golem-speech/brooch-of-golem-speech.world-item.ts
+@@ -0,0 +1,9 @@
++import type { WorldItem } from "../../world-item.page-type.ts"
++
++export const broochOfGolemSpeech = {
++  id: "01a0655a-7b7f-7c9e-b788-c7a70f8ca72f",
++  pageTypeSlug: "world-item",
++  slug: "brooch-of-golem-speech",
++  title: "Brooch of Golem Speech",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/clean-crelerchitin-dagger.world-item.ts b/story/world-mechanics/world-items/pages/clean-crelerchitin-dagger.world-item.ts
+deleted file mode 100644
+index 51482a8441776ba5ef0e4f38f153cc69c932c27c..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-items/pages/clean-crelerchitin-dagger.world-item.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldItem } from "../world-item.page-type.ts"
+-
+-export const cleanCrelerchitinDagger = {
+-  id: "01a0655a-7b7f-766d-a109-c518e3a611c6",
+-  pageTypeSlug: "world-item",
+-  slug: "clean-crelerchitin-dagger",
+-  title: "Clean Crelerchitin Dagger",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/clean-crelerchitin-dagger/clean-crelerchitin-dagger.world-item.ts b/story/world-mechanics/world-items/pages/clean-crelerchitin-dagger/clean-crelerchitin-dagger.world-item.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..94ab39c1fa6e18c371aec287d1eec7be9259f445
+--- /dev/null
++++ b/story/world-mechanics/world-items/pages/clean-crelerchitin-dagger/clean-crelerchitin-dagger.world-item.ts
+@@ -0,0 +1,9 @@
++import type { WorldItem } from "../../world-item.page-type.ts"
++
++export const cleanCrelerchitinDagger = {
++  id: "01a0655a-7b7f-766d-a109-c518e3a611c6",
++  pageTypeSlug: "world-item",
++  slug: "clean-crelerchitin-dagger",
++  title: "Clean Crelerchitin Dagger",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/mask-of-the-yellow-smog-tribe.world-item.ts b/story/world-mechanics/world-items/pages/mask-of-the-yellow-smog-tribe.world-item.ts
+deleted file mode 100644
+index 3cebcec41d748e9a3275c26e6ea23eda42454cfb..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-items/pages/mask-of-the-yellow-smog-tribe.world-item.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldItem } from "../world-item.page-type.ts"
+-
+-export const maskOfTheYellowSmogTribe = {
+-  id: "01a0655a-7b7f-7518-9899-48959ecbe5a1",
+-  pageTypeSlug: "world-item",
+-  slug: "mask-of-the-yellow-smog-tribe",
+-  title: "Mask of the Yellow Smog Tribe",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/mask-of-the-yellow-smog-tribe/mask-of-the-yellow-smog-tribe.world-item.ts b/story/world-mechanics/world-items/pages/mask-of-the-yellow-smog-tribe/mask-of-the-yellow-smog-tribe.world-item.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..31f897058c226db215212d1629ac13658fd43ac3
+--- /dev/null
++++ b/story/world-mechanics/world-items/pages/mask-of-the-yellow-smog-tribe/mask-of-the-yellow-smog-tribe.world-item.ts
+@@ -0,0 +1,9 @@
++import type { WorldItem } from "../../world-item.page-type.ts"
++
++export const maskOfTheYellowSmogTribe = {
++  id: "01a0655a-7b7f-7518-9899-48959ecbe5a1",
++  pageTypeSlug: "world-item",
++  slug: "mask-of-the-yellow-smog-tribe",
++  title: "Mask of the Yellow Smog Tribe",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/medal-of-bravery-salazsar.world-item.ts b/story/world-mechanics/world-items/pages/medal-of-bravery-salazsar.world-item.ts
+deleted file mode 100644
+index c62f03a116e144aa56b9de797b71ee818b21e72d..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-items/pages/medal-of-bravery-salazsar.world-item.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldItem } from "../world-item.page-type.ts"
+-
+-export const medalOfBraverySalazsar = {
+-  id: "01a0655a-7b7f-78cc-b747-c04bf130115e",
+-  pageTypeSlug: "world-item",
+-  slug: "medal-of-bravery-salazsar",
+-  title: "Medal of Bravery (Salazsar)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/medal-of-bravery-salazsar/medal-of-bravery-salazsar.world-item.ts b/story/world-mechanics/world-items/pages/medal-of-bravery-salazsar/medal-of-bravery-salazsar.world-item.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5cdd28c40bc5f1908976642e8d9fa7615228b986
+--- /dev/null
++++ b/story/world-mechanics/world-items/pages/medal-of-bravery-salazsar/medal-of-bravery-salazsar.world-item.ts
+@@ -0,0 +1,9 @@
++import type { WorldItem } from "../../world-item.page-type.ts"
++
++export const medalOfBraverySalazsar = {
++  id: "01a0655a-7b7f-78cc-b747-c04bf130115e",
++  pageTypeSlug: "world-item",
++  slug: "medal-of-bravery-salazsar",
++  title: "Medal of Bravery (Salazsar)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/mysterious-blue-fruit.world-item.ts b/story/world-mechanics/world-items/pages/mysterious-blue-fruit.world-item.ts
+deleted file mode 100644
+index 51844c53800ac31024c09d7383ccbea8933fbbb7..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-items/pages/mysterious-blue-fruit.world-item.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldItem } from "../world-item.page-type.ts"
+-
+-export const mysteriousBlueFruit = {
+-  id: "01a0655a-7b7f-7508-988d-e962bde97929",
+-  pageTypeSlug: "world-item",
+-  slug: "mysterious-blue-fruit",
+-  title: "Mysterious Blue Fruit",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/mysterious-blue-fruit/mysterious-blue-fruit.world-item.ts b/story/world-mechanics/world-items/pages/mysterious-blue-fruit/mysterious-blue-fruit.world-item.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..475d8f27c12f0d3a8ec2df9decf599e8ff85a6e1
+--- /dev/null
++++ b/story/world-mechanics/world-items/pages/mysterious-blue-fruit/mysterious-blue-fruit.world-item.ts
+@@ -0,0 +1,9 @@
++import type { WorldItem } from "../../world-item.page-type.ts"
++
++export const mysteriousBlueFruit = {
++  id: "01a0655a-7b7f-7508-988d-e962bde97929",
++  pageTypeSlug: "world-item",
++  slug: "mysterious-blue-fruit",
++  title: "Mysterious Blue Fruit",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/original-ring-of-salazsar-house-of-gem-s-scales.world-item.ts b/story/world-mechanics/world-items/pages/original-ring-of-salazsar-house-of-gem-s-scales.world-item.ts
+deleted file mode 100644
+index 410386ca9de2f31ac2abf1489076fa75108fad2c..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-items/pages/original-ring-of-salazsar-house-of-gem-s-scales.world-item.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldItem } from "../world-item.page-type.ts"
+-
+-export const originalRingOfSalazsarHouseOfGemSScales = {
+-  id: "01a0655a-7b7f-712b-9685-218182cc632e",
+-  pageTypeSlug: "world-item",
+-  slug: "original-ring-of-salazsar-house-of-gem-s-scales",
+-  title: "Original Ring of Salazsar (House of Gem’s Scales)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/original-ring-of-salazsar-house-of-gem-s-scales/original-ring-of-salazsar-house-of-gem-s-scales.world-item.ts b/story/world-mechanics/world-items/pages/original-ring-of-salazsar-house-of-gem-s-scales/original-ring-of-salazsar-house-of-gem-s-scales.world-item.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..968604d0ea6c9a037a419993174ba1ec66e90265
+--- /dev/null
++++ b/story/world-mechanics/world-items/pages/original-ring-of-salazsar-house-of-gem-s-scales/original-ring-of-salazsar-house-of-gem-s-scales.world-item.ts
+@@ -0,0 +1,9 @@
++import type { WorldItem } from "../../world-item.page-type.ts"
++
++export const originalRingOfSalazsarHouseOfGemSScales = {
++  id: "01a0655a-7b7f-712b-9685-218182cc632e",
++  pageTypeSlug: "world-item",
++  slug: "original-ring-of-salazsar-house-of-gem-s-scales",
++  title: "Original Ring of Salazsar (House of Gem’s Scales)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/robes-of-the-world-s-treekeeper-resized.world-item.ts b/story/world-mechanics/world-items/pages/robes-of-the-world-s-treekeeper-resized.world-item.ts
+deleted file mode 100644
+index ca77c075a05f943db9cea29f32c820e1a8df6102..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-items/pages/robes-of-the-world-s-treekeeper-resized.world-item.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldItem } from "../world-item.page-type.ts"
+-
+-export const robesOfTheWorldSTreekeeperResized = {
+-  id: "01a0655a-7b7f-7e74-b8fa-bc98939dd9e8",
+-  pageTypeSlug: "world-item",
+-  slug: "robes-of-the-world-s-treekeeper-resized",
+-  title: "Robes of the World’s Treekeeper (Resized)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/robes-of-the-world-s-treekeeper-resized/robes-of-the-world-s-treekeeper-resized.world-item.ts b/story/world-mechanics/world-items/pages/robes-of-the-world-s-treekeeper-resized/robes-of-the-world-s-treekeeper-resized.world-item.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7f8e666b39192b35ea5d18ebc2f3402ce3a89c0e
+--- /dev/null
++++ b/story/world-mechanics/world-items/pages/robes-of-the-world-s-treekeeper-resized/robes-of-the-world-s-treekeeper-resized.world-item.ts
+@@ -0,0 +1,9 @@
++import type { WorldItem } from "../../world-item.page-type.ts"
++
++export const robesOfTheWorldSTreekeeperResized = {
++  id: "01a0655a-7b7f-7e74-b8fa-bc98939dd9e8",
++  pageTypeSlug: "world-item",
++  slug: "robes-of-the-world-s-treekeeper-resized",
++  title: "Robes of the World’s Treekeeper (Resized)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/shield-of-the-lamb.world-item.ts b/story/world-mechanics/world-items/pages/shield-of-the-lamb.world-item.ts
+deleted file mode 100644
+index de7ce750b9e5ffadc5cdf5da3c441883184e4950..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-items/pages/shield-of-the-lamb.world-item.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldItem } from "../world-item.page-type.ts"
+-
+-export const shieldOfTheLamb = {
+-  id: "01a0655a-7b7f-7f94-96da-268327e3ae32",
+-  pageTypeSlug: "world-item",
+-  slug: "shield-of-the-lamb",
+-  title: "Shield of the Lamb",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/shield-of-the-lamb/shield-of-the-lamb.world-item.ts b/story/world-mechanics/world-items/pages/shield-of-the-lamb/shield-of-the-lamb.world-item.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..58e5b4f7a684637478a4188f67b3bc553fbcff7e
+--- /dev/null
++++ b/story/world-mechanics/world-items/pages/shield-of-the-lamb/shield-of-the-lamb.world-item.ts
+@@ -0,0 +1,9 @@
++import type { WorldItem } from "../../world-item.page-type.ts"
++
++export const shieldOfTheLamb = {
++  id: "01a0655a-7b7f-7f94-96da-268327e3ae32",
++  pageTypeSlug: "world-item",
++  slug: "shield-of-the-lamb",
++  title: "Shield of the Lamb",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/signet-ring-of-liscor.world-item.ts b/story/world-mechanics/world-items/pages/signet-ring-of-liscor.world-item.ts
+deleted file mode 100644
+index 4ac3804b33658e7ce51b38517a7e5fca147ba8a4..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-items/pages/signet-ring-of-liscor.world-item.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldItem } from "../world-item.page-type.ts"
+-
+-export const signetRingOfLiscor = {
+-  id: "01a0655a-7b7f-72fc-ad5e-c0c18418e609",
+-  pageTypeSlug: "world-item",
+-  slug: "signet-ring-of-liscor",
+-  title: "Signet Ring of Liscor",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/signet-ring-of-liscor/signet-ring-of-liscor.world-item.ts b/story/world-mechanics/world-items/pages/signet-ring-of-liscor/signet-ring-of-liscor.world-item.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0fda625f2453bff776b44430ccf6a5560ad9e897
+--- /dev/null
++++ b/story/world-mechanics/world-items/pages/signet-ring-of-liscor/signet-ring-of-liscor.world-item.ts
+@@ -0,0 +1,9 @@
++import type { WorldItem } from "../../world-item.page-type.ts"
++
++export const signetRingOfLiscor = {
++  id: "01a0655a-7b7f-72fc-ad5e-c0c18418e609",
++  pageTypeSlug: "world-item",
++  slug: "signet-ring-of-liscor",
++  title: "Signet Ring of Liscor",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/the-crown-of-medain-ownership.world-item.ts b/story/world-mechanics/world-items/pages/the-crown-of-medain-ownership.world-item.ts
+deleted file mode 100644
+index 30bf378d9c2366bb2fbff1aa9b730d85ac086c84..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-items/pages/the-crown-of-medain-ownership.world-item.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldItem } from "../world-item.page-type.ts"
+-
+-export const theCrownOfMedainOwnership = {
+-  id: "01a0655a-7b80-7f07-a690-0cc322404a31",
+-  pageTypeSlug: "world-item",
+-  slug: "the-crown-of-medain-ownership",
+-  title: "The Crown of Medain ownership",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/the-crown-of-medain-ownership/the-crown-of-medain-ownership.world-item.ts b/story/world-mechanics/world-items/pages/the-crown-of-medain-ownership/the-crown-of-medain-ownership.world-item.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..994a7aaf21f47926ee475cdd65cfde42df687a94
+--- /dev/null
++++ b/story/world-mechanics/world-items/pages/the-crown-of-medain-ownership/the-crown-of-medain-ownership.world-item.ts
+@@ -0,0 +1,9 @@
++import type { WorldItem } from "../../world-item.page-type.ts"
++
++export const theCrownOfMedainOwnership = {
++  id: "01a0655a-7b80-7f07-a690-0cc322404a31",
++  pageTypeSlug: "world-item",
++  slug: "the-crown-of-medain-ownership",
++  title: "The Crown of Medain ownership",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/wand-of-the-mrsha.world-item.ts b/story/world-mechanics/world-items/pages/wand-of-the-mrsha.world-item.ts
+deleted file mode 100644
+index d678c84f20b776080d2ca2d648a585090f8102d9..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-items/pages/wand-of-the-mrsha.world-item.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldItem } from "../world-item.page-type.ts"
+-
+-export const wandOfTheMrsha = {
+-  id: "01a0655a-7b80-748a-b385-faf19e7022d6",
+-  pageTypeSlug: "world-item",
+-  slug: "wand-of-the-mrsha",
+-  title: "Wand of the Mrsha",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldItem
+diff --git a/story/world-mechanics/world-items/pages/wand-of-the-mrsha/wand-of-the-mrsha.world-item.ts b/story/world-mechanics/world-items/pages/wand-of-the-mrsha/wand-of-the-mrsha.world-item.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5003b4ce91456cdceafc4d20b9f8bde24a7073ec
+--- /dev/null
++++ b/story/world-mechanics/world-items/pages/wand-of-the-mrsha/wand-of-the-mrsha.world-item.ts
+@@ -0,0 +1,9 @@
++import type { WorldItem } from "../../world-item.page-type.ts"
++
++export const wandOfTheMrsha = {
++  id: "01a0655a-7b80-748a-b385-faf19e7022d6",
++  pageTypeSlug: "world-item",
++  slug: "wand-of-the-mrsha",
++  title: "Wand of the Mrsha",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldItem
