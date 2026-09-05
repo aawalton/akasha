@@ -1,0 +1,94 @@
+diff --git a/alan/fitness/session-planning/session-loading/session-loading.module.code.ts b/alan/fitness/session-planning/session-loading/session-loading.module.code.ts
+index 8d40b61b2baf70dab52bff688577f4773f73d62d..49b78ef7a7f1d3efe15412053c871c0109671128 100644
+--- a/alan/fitness/session-planning/session-loading/session-loading.module.code.ts
++++ b/alan/fitness/session-planning/session-loading/session-loading.module.code.ts
+@@ -1,7 +1,8 @@
+ import { MS_PER_DAY, NOON, parseDay } from "@akasha/day/day-string"
+ import { getEsoDayStr, getEsoDayStrOffset } from "@akasha/day/eso-day"
+-import { type Asking, type Row, rowsFor } from "@akasha/exercise-access/exercise-rows"
++import { type Asking, checkoutRoot, type Row, rowsFor } from "@akasha/exercise-access/exercise-rows"
+ import type { SelectionPolicy } from "@akasha/exercise-access/selection-policy"
++import { typeSlugOf } from "@akasha/indexes"
+ import type { EquipmentCategory } from "../../equipment-items/properties/equipment-category.select-property.ts"
+ import type { Equipment } from "../../exercises/properties/equipment.select-property.ts"
+ import type { Laterality } from "../../exercises/properties/laterality.select-property.ts"
+@@ -21,6 +22,21 @@ import {
+   type WeekMovement,
+ } from "../weekly-coverage/weekly-coverage.module.code.ts"
+ 
++/**
++ * The page types read here, each reached by the id it keeps rather than by the slug it answers
++ * to, so a rename of a slug reaches this file through the index instead of going unnoticed.
++ */
++const WORKOUT_SCHEDULE_TYPE = "01a0657a-e618-70c5-b2cf-b1655f061afa"
++const SCHEDULE_DAY_TYPE = "01a0657a-e62d-71ab-9830-6a438684618d"
++const EQUIPMENT_ITEM_TYPE = "01a06834-ca86-76cb-a54a-6f86a5225afc"
++const SET_LOG_TYPE = "01a06580-66fc-7e15-9138-eda9b0267961"
++const WORKOUT_SESSION_TYPE = "01a06580-5ee5-7910-8166-f0cd56fc50de"
++const EXERCISE_TYPE = "01a0657e-2bbf-7c1f-a05c-77af77f54cbf"
++
++function typeSlug(id: string): string {
++  return typeSlugOf(checkoutRoot(), id)
++}
++
+ const CATALOG_READ_LIMIT = 2000
+ const SET_LOG_READ_LIMIT = 5000
+ const HISTORY_WINDOW_DAYS = 56
+@@ -115,7 +131,7 @@ async function resolveFocus(
+ ): Promise<string | null> {
+   if (focusAsked !== undefined) return focusAsked
+   const schedules = await rowsRead({
+-    pageTypeSlug: "workout-schedule",
++    pageTypeSlug: typeSlug(WORKOUT_SCHEDULE_TYPE),
+     where: [{ key: "workoutScheduleActive", eq: true }],
+     select: ["id", "slug"],
+     limit: 2,
+@@ -123,7 +139,7 @@ async function resolveFocus(
+   const active = schedules[0]
+   if (active === undefined || active.slug === null) return null
+   const days = await rowsRead({
+-    pageTypeSlug: "schedule-day",
++    pageTypeSlug: typeSlug(SCHEDULE_DAY_TYPE),
+     where: [
+       { key: "scheduleSlug", eq: active.slug },
+       { key: "dayOfWeek", eq: dayOfWeekOf(dayStr) },
+@@ -142,7 +158,7 @@ type EquipmentKit = {
+ 
+ async function loadEquipmentKit(): Promise<EquipmentKit> {
+   const items = await rowsRead({
+-    pageTypeSlug: "equipment-item",
++    pageTypeSlug: typeSlug(EQUIPMENT_ITEM_TYPE),
+     select: ["id", "category", "loads", "available"],
+     limit: 200,
+   })
+@@ -248,7 +264,7 @@ async function loadHistory(
+   todayDayStr: string
+ ): Promise<HistoryData> {
+   const logs = await rowsRead({
+-    pageTypeSlug: "set-log",
++    pageTypeSlug: typeSlug(SET_LOG_TYPE),
+     order: [{ by: "id", dir: "desc" }],
+     select: [
+       "id",
+@@ -274,7 +290,7 @@ async function loadHistory(
+   const dayBySession = new Map<string, string>()
+   if (sessionSlugs.length > 0) {
+     const sessions = await rowsRead({
+-      pageTypeSlug: "workout-session",
++      pageTypeSlug: typeSlug(WORKOUT_SESSION_TYPE),
+       where: [{ key: "slug", in: sessionSlugs }],
+       select: ["id", "slug", "workoutSessionDate"],
+       limit: sessionSlugs.length,
+@@ -358,7 +374,11 @@ export async function loadSelectorInputs(
+ 
+   const [kit, catalog, history] = await Promise.all([
+     loadEquipmentKit(),
+-    rowsRead({ pageTypeSlug: "exercise", select: CATALOG_SELECT, limit: CATALOG_READ_LIMIT }),
++    rowsRead({
++      pageTypeSlug: typeSlug(EXERCISE_TYPE),
++      select: CATALOG_SELECT,
++      limit: CATALOG_READ_LIMIT,
++    }),
+     loadHistory(windowStartDay, weekStartDay, dayStr),
+   ])
+ 
