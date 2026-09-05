@@ -1,5 +1,5 @@
 diff --git a/story/engine/core/gm-doctrine-pack/gm-doctrine-pack.module.test.ts b/story/engine/core/gm-doctrine-pack/gm-doctrine-pack.module.test.ts
-index 1cad1e112eb489c959ad33b0a37ff699b038e859..9e856155e822a89c5ea13ec2afb4d66d7d99336c 100644
+index 1cad1e112eb489c959ad33b0a37ff699b038e859..d6b3d7ced9a10745879f1e2af87f9578c9dab81f 100644
 --- a/story/engine/core/gm-doctrine-pack/gm-doctrine-pack.module.test.ts
 +++ b/story/engine/core/gm-doctrine-pack/gm-doctrine-pack.module.test.ts
 @@ -67,7 +67,7 @@ describe("withDoctrinePack", () => {
@@ -20,6 +20,15 @@ index 1cad1e112eb489c959ad33b0a37ff699b038e859..9e856155e822a89c5ea13ec2afb4d66d
      const replaced = preserveDoctrineOnReplace({ policies: [PER_GAME_POLICY] }, null)
      expect(replaced.policies).toEqual([PER_GAME_POLICY])
      expect(replaced.doctrineVersion).toBe(undefined)
+@@ -158,7 +158,7 @@ describe("buildDoctrinePackUpdate", () => {
+     expect(built.error).toContain("invalid patch")
+   })
+ 
+-  test("what the patch leaves out is taken from the pack standing", () => {
++  test("what the patch leaves out is taken from the pack already there", () => {
+     const built = buildDoctrinePackUpdate(FIXTURE_PACK, { doctrineVersion: 9 })
+     if (!built.ok) throw new Error(built.error)
+     expect(built.pack.policies).toEqual(FIXTURE_PACK.policies)
 diff --git a/story/engine/core/gm-doctrine-pack/gm-doctrine-pack.module.ts b/story/engine/core/gm-doctrine-pack/gm-doctrine-pack.module.ts
 index 69bdef7d3198b53c09b47e3ca160146a6d194f99..dc0041e8d4870c692803530de0e66abdc73fb05a 100644
 --- a/story/engine/core/gm-doctrine-pack/gm-doctrine-pack.module.ts
