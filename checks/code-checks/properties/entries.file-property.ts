@@ -39,7 +39,7 @@ export const entries = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here judges what a run cost.",
+      statement: "Nothing here judges a run's cost.",
     },
     {
       invariantKind: "absence",
