@@ -1,0 +1,164 @@
+diff --git a/alan/web/alan-web.router-app.ts b/alan/web/alan-web.router-app.ts
+index c066a4ed06ca8e5be36b059105c8370c0c5a7745..92861aa941d57918fba8fd0de7029e4c912bff09 100644
+--- a/alan/web/alan-web.router-app.ts
++++ b/alan/web/alan-web.router-app.ts
+@@ -141,5 +141,6 @@ export const alanWeb = {
+     "module/use-next-unread",
+     "module/use-reader-active-marks",
+     "module/wallpaper-candidates",
++    "route/about",
+   ],
+ } as const satisfies RouterApp
+diff --git a/alan/web/routes.ts b/alan/web/routes.ts
+index c406d261448fa8745d403f02bd2c81baf90a1cdf..2ca892c7a7e37837a80c52fff42ad9ad40f1099f 100644
+--- a/alan/web/routes.ts
++++ b/alan/web/routes.ts
+@@ -9,7 +9,7 @@ export default [
+     route(":pageTypeSlug", "routes/page-listing.tsx"),
+   ]),
+   index("routes/landing.tsx"),
+-  route("about", "routes/about.tsx"),
++  route("about", "routes/about/about.route.code.tsx"),
+   route("services", "routes/services.tsx"),
+   route("contact", "routes/contact.tsx"),
+   route("terms", "routes/terms.tsx"),
+diff --git a/alan/web/routes/about.tsx b/alan/web/routes/about.tsx
+deleted file mode 100644
+index 25250ae2443c81a349ef5affe61381fc633c94d9..0000000000000000000000000000000000000000
+--- a/alan/web/routes/about.tsx
++++ /dev/null
+@@ -1,50 +0,0 @@
+-import { PageTitle } from "@akasha/design-layout/page-layout"
+-import { PanelCard } from "@akasha/design-layout/panel-card"
+-import { Heading } from "@akasha/design-primitives/heading"
+-
+-export function meta() {
+-  return [
+-    { title: "About — Alan Walton" },
+-    {
+-      name: "description",
+-      content:
+-        "About Alan Walton, sole proprietor, and the Amy personal-assistant messaging service.",
+-    },
+-  ]
+-}
+-
+-export default function AboutRoute() {
+-  return (
+-    <main className="mx-auto w-full max-w-3xl px-6 py-12">
+-      <div className="space-y-6">
+-        <header className="space-y-2">
+-          <PageTitle>About</PageTitle>
+-          <p className="text-secondary text-sm">
+-            Alan Walton is a sole proprietor operating a personal-assistant service.
+-          </p>
+-        </header>
+-
+-        <PanelCard id="who" title="Who we are">
+-          <p className="text-secondary text-sm">
+-            The business is Alan Walton, operating as a sole proprietor. Its personal-assistant
+-            service &mdash; branded <strong>Amy</strong> &mdash; sends text messages on Alan
+-            Walton&rsquo;s behalf to coordinate with the people he works and communicates with.
+-          </p>
+-        </PanelCard>
+-
+-        <PanelCard id="what" title="What we do">
+-          <div className="space-y-3">
+-            <Heading variant="subsection-accent">
+-              Two-way texts for scheduling, reminders, and coordination.
+-            </Heading>
+-            <p className="text-secondary text-sm">
+-              Messages are conversational and transactional &mdash; scheduling, reminders, and
+-              day-to-day coordination with known contacts. This is not a marketing service and not a
+-              bulk-messaging service.
+-            </p>
+-          </div>
+-        </PanelCard>
+-      </div>
+-    </main>
+-  )
+-}
+diff --git a/alan/web/routes/about/about.route.code.tsx b/alan/web/routes/about/about.route.code.tsx
+new file mode 100644
+index 0000000000000000000000000000000000000000..25250ae2443c81a349ef5affe61381fc633c94d9
+--- /dev/null
++++ b/alan/web/routes/about/about.route.code.tsx
+@@ -0,0 +1,50 @@
++import { PageTitle } from "@akasha/design-layout/page-layout"
++import { PanelCard } from "@akasha/design-layout/panel-card"
++import { Heading } from "@akasha/design-primitives/heading"
++
++export function meta() {
++  return [
++    { title: "About — Alan Walton" },
++    {
++      name: "description",
++      content:
++        "About Alan Walton, sole proprietor, and the Amy personal-assistant messaging service.",
++    },
++  ]
++}
++
++export default function AboutRoute() {
++  return (
++    <main className="mx-auto w-full max-w-3xl px-6 py-12">
++      <div className="space-y-6">
++        <header className="space-y-2">
++          <PageTitle>About</PageTitle>
++          <p className="text-secondary text-sm">
++            Alan Walton is a sole proprietor operating a personal-assistant service.
++          </p>
++        </header>
++
++        <PanelCard id="who" title="Who we are">
++          <p className="text-secondary text-sm">
++            The business is Alan Walton, operating as a sole proprietor. Its personal-assistant
++            service &mdash; branded <strong>Amy</strong> &mdash; sends text messages on Alan
++            Walton&rsquo;s behalf to coordinate with the people he works and communicates with.
++          </p>
++        </PanelCard>
++
++        <PanelCard id="what" title="What we do">
++          <div className="space-y-3">
++            <Heading variant="subsection-accent">
++              Two-way texts for scheduling, reminders, and coordination.
++            </Heading>
++            <p className="text-secondary text-sm">
++              Messages are conversational and transactional &mdash; scheduling, reminders, and
++              day-to-day coordination with known contacts. This is not a marketing service and not a
++              bulk-messaging service.
++            </p>
++          </div>
++        </PanelCard>
++      </div>
++    </main>
++  )
++}
+diff --git a/alan/web/routes/about/about.route.ts b/alan/web/routes/about/about.route.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9ee5a17bed0b031e362e1a0c0f629f498c5632d1
+--- /dev/null
++++ b/alan/web/routes/about/about.route.ts
+@@ -0,0 +1,10 @@
++import type { Route } from "@akasha/code-system/route"
++
++export const about = {
++  id: "01a071e3-0687-72b9-b61c-de5214ae1458",
++  pageTypeSlug: "route",
++  slug: "about",
++  definition: "what the business is and who runs it",
++  code: "tsx",
++  urlPath: "about",
++} as const satisfies Route
+diff --git a/code-system/package.json b/code-system/package.json
+index e919f2e8999177bc17032cb222953a885085d866..7300bc81a9f458e9c8bf7b9482ade0de796ffd7c 100644
+--- a/code-system/package.json
++++ b/code-system/package.json
+@@ -35,6 +35,7 @@
+     "./module/test": "./modules/properties/test.file-property.ts",
+     "./package-manifest": "./package-manifest/package-manifest.module.code.ts",
+     "./python-module": "./python-modules/python-module.page-type.ts",
++    "./route": "./routes/route.page-type.ts",
+     "./router-app/root-route": "./router-apps/properties/root-route.named-file-property.ts",
+     "./shape-progress": "./shape-progress/shape-progress.module.code.ts",
+     "./shell-script": "./shell-scripts/shell-script.page-type.ts",
