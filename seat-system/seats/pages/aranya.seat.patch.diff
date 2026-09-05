@@ -199,3 +199,11 @@ index 8f32ee53a2560c42e471d97b649a2fa3600d34a5..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../infrastructure/auth-proxy
 \ No newline at end of file
+diff --git a/infrastructure/backup-retention/backup-retention b/infrastructure/backup-retention/backup-retention
+deleted file mode 120000
+index ed88780bc032dd0eb9dc0d53668aa7871b300156..0000000000000000000000000000000000000000
+--- a/infrastructure/backup-retention/backup-retention
++++ /dev/null
+@@ -1 +0,0 @@
+-../../infrastructure/backup-retention
+\ No newline at end of file
