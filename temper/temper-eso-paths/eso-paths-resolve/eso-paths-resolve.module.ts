@@ -22,7 +22,7 @@ export const esoPathsResolve = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller may hand in what counts as present.",
+      statement: "A caller may hand in the test that says a candidate is present.",
     },
     {
       invariantKind: "departure",
