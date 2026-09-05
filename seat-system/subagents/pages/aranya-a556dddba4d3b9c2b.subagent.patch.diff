@@ -12,7 +12,7 @@ index 51987aa8c2dd12102189ae0df3cb3281664de40d..a8ca9593aee9a0925c937a29e9dc353d
        const why = cause instanceof Error ? cause.message : String(cause)
        return { unread: `${why}, so none were repointed` }
 diff --git a/graph/asking/graph-asking.module.test.ts b/graph/asking/graph-asking.module.test.ts
-index 1255ca9cb59b33b89ca99e62d041658ef1e2b121..255ea6823a035fa16e328a9b316be8bdfd54cf38 100644
+index 1255ca9cb59b33b89ca99e62d041658ef1e2b121..545672de7be4158b69948b8884d73e2ca5660eb7 100644
 --- a/graph/asking/graph-asking.module.test.ts
 +++ b/graph/asking/graph-asking.module.test.ts
 @@ -61,12 +61,12 @@ function bodiesIn(root: string): PageOf {
@@ -31,6 +31,15 @@ index 1255ca9cb59b33b89ca99e62d041658ef1e2b121..255ea6823a035fa16e328a9b316be8bd
  }
  
  test("an empty kind list answers nothing", () => {
+@@ -164,7 +164,7 @@ test("an import edge existing only in the index given is answered, and none with
+     [`${IMPORT}/path/${FIRST_AT}.jsonl`]: [{ path: SECOND_AT }],
+   })
+ 
+-  expect(edgesInto(FIRST_AT, [IMPORT_EDGE], indexOver(root, over, bodiesIn(root)))).toEqual([
++  expect(edgesInto(FIRST_AT, [IMPORT_EDGE], indexOver(over, bodiesIn(root)))).toEqual([
+     { kind: IMPORT_EDGE, from: SECOND_AT, to: FIRST_AT, attrs: { [KNOWN]: AT_INDEX } },
+   ])
+   expect(edgesInto(FIRST_AT, [IMPORT_EDGE], indexOf(root))).toEqual([])
 diff --git a/pages/indexes/answering/index-answering.module.code.ts b/pages/indexes/answering/index-answering.module.code.ts
 index a44f6fc575bf506f9b495a0cb2fd548a825d9977..2a46470895d4940a1f6e3bc9a593069a9a9dde72 100644
 --- a/pages/indexes/answering/index-answering.module.code.ts
