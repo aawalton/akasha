@@ -1,8 +1,8 @@
 diff --git a/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.test.ts b/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.test.ts
-index ed9ad9bdab45d8e2d46368c34d55380bfec900d5..d2a57a6a7cccc89fa89d7a099fa9e0e920071b70 100644
+index ed9ad9bdab45d8e2d46368c34d55380bfec900d5..02cc970418bf7a48b2d6e7ad11a22be0dff2b85e 100644
 --- a/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.test.ts
 +++ b/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.test.ts
-@@ -39,7 +39,7 @@ const READINGS: readonly Row[] = [
+@@ -39,13 +39,13 @@ const READINGS: readonly Row[] = [
    }),
  ]
  
@@ -11,11 +11,18 @@ index ed9ad9bdab45d8e2d46368c34d55380bfec900d5..d2a57a6a7cccc89fa89d7a099fa9e0e9
    test("the fixture holds four readings over three standings, so an empty one cannot read clean", () => {
      expect(READINGS.length).toBe(4)
      expect(gatheredIn(READINGS).length).toBe(3)
+   })
+ 
+-  test("a metric read on each side stands as two", () => {
++  test("a metric read on each side counts as two", () => {
+     const standings = standingsIn(READINGS)
+     const slr = standings.filter((one) => one.metric === "supine-slr")
+     expect(slr.map((one) => one.side)).toEqual(["left", "right"])
 diff --git a/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts b/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
-index cd544e4bd3516f4a9ca9576921182eef965b9981..ed0a53e4cb014eadb87bc27496ee5905b2127022 100644
+index cd544e4bd3516f4a9ca9576921182eef965b9981..a60cadbdda8e2fa815ac173ad20d96fcbeb83b7b 100644
 --- a/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
 +++ b/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
-@@ -4,7 +4,7 @@ export const mobilityStanding = {
+@@ -4,13 +4,13 @@ export const mobilityStanding = {
    id: "01a0685d-cca7-77f0-a19b-11e24ae9f69e",
    pageTypeSlug: "module",
    slug: "mobility-standing",
@@ -24,8 +31,15 @@ index cd544e4bd3516f4a9ca9576921182eef965b9981..ed0a53e4cb014eadb87bc27496ee5905
    code: "ts",
    test: "ts",
    invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A metric read on each side stands as two, and one read on neither stands as one.",
++      statement: "A metric read on each side counts as two, and one read on neither counts as one.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/alan/fitness/exercise-access/movement-standing/movement-standing.module.test.ts b/alan/fitness/exercise-access/movement-standing/movement-standing.module.test.ts
-index 53fa239fe354282800b2cfaf5e6c3227b5ff2da5..6e880ac6ae09ea25ccd8f86cecca9c7702dda22e 100644
+index 53fa239fe354282800b2cfaf5e6c3227b5ff2da5..e366e8de7b79ceeff67be11ce9e9eb99b91c76ae 100644
 --- a/alan/fitness/exercise-access/movement-standing/movement-standing.module.test.ts
 +++ b/alan/fitness/exercise-access/movement-standing/movement-standing.module.test.ts
 @@ -56,7 +56,7 @@ const SESSIONS: readonly Row[] = [
@@ -37,11 +51,20 @@ index 53fa239fe354282800b2cfaf5e6c3227b5ff2da5..6e880ac6ae09ea25ccd8f86cecca9c77
    test("the fixture holds four sets over two movements and two sessions", () => {
      expect(LOGS.length).toBe(4)
      expect(movementSlugsIn(LOGS).length).toBe(2)
+@@ -96,7 +96,7 @@ describe("which movements stand and where", () => {
+     expect(bestSet(lines)?.weight).toBe(45)
+   })
+ 
+-  test("the last working set skips the warmup standing before it", () => {
++  test("the last working set skips the warmup before it", () => {
+     const lines = linesIn(LOGS.slice(1, 3), datesBySession(SESSIONS))
+     expect(lastWorkingSet(lines)?.weight).toBe(40)
+   })
 diff --git a/alan/fitness/exercise-access/movement-standing/movement-standing.module.ts b/alan/fitness/exercise-access/movement-standing/movement-standing.module.ts
-index 40ff28608e62d501c5794bdf56834283aec03ec1..f0b9a47e05f1a60aa068dbe45584b27fb0f80bc3 100644
+index 40ff28608e62d501c5794bdf56834283aec03ec1..e3b4c6f49c419d8c0cec6f6d3e434a7d2f765c3d 100644
 --- a/alan/fitness/exercise-access/movement-standing/movement-standing.module.ts
 +++ b/alan/fitness/exercise-access/movement-standing/movement-standing.module.ts
-@@ -4,7 +4,7 @@ export const movementStanding = {
+@@ -4,13 +4,13 @@ export const movementStanding = {
    id: "01a0685d-cca7-717c-9288-578ad8f3bbb4",
    pageTypeSlug: "module",
    slug: "movement-standing",
@@ -50,3 +73,10 @@ index 40ff28608e62d501c5794bdf56834283aec03ec1..f0b9a47e05f1a60aa068dbe45584b27f
    code: "ts",
    test: "ts",
    invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A movement is named once however many of its sets stand.",
++      statement: "A movement is named once however many sets it has.",
+     },
+     {
+       invariantKind: "departure",
