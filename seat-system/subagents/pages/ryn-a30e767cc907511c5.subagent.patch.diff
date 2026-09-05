@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/service-system/workstation-services/pages/great-courses-sync.workstation-service.ts b/service-system/workstation-services/pages/great-courses-sync.workstation-service.ts
+index d5abf23b5e7b93860ca5ee0b874e277550bf784f..b43d0899352f3a24793224e4c4e5d98cb65b7903 100644
+--- a/service-system/workstation-services/pages/great-courses-sync.workstation-service.ts
++++ b/service-system/workstation-services/pages/great-courses-sync.workstation-service.ts
+@@ -25,7 +25,8 @@ export const greatCoursesSync = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A read answering fewer pages than it counted is refused rather than returned.",
++      statement:
++        "A read answering fewer pages than that read counted is refused rather than returned.",
+     },
+     {
+       invariantKind: "departure",
