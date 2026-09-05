@@ -1,5 +1,5 @@
 diff --git a/seat-system/compose-notices/compose-notices.module.ts b/seat-system/compose-notices/compose-notices.module.ts
-index c76c054000e921424babde7cefc1a45274e28313..eb6f9e811e03e1cb62cff9a58a489bf34ae6e2ae 100644
+index c76c054000e921424babde7cefc1a45274e28313..64d342a5ecbf163a86832a78a58fc97fbb0779eb 100644
 --- a/seat-system/compose-notices/compose-notices.module.ts
 +++ b/seat-system/compose-notices/compose-notices.module.ts
 @@ -9,7 +9,8 @@ export const composeNotices = {
@@ -12,8 +12,18 @@ index c76c054000e921424babde7cefc1a45274e28313..eb6f9e811e03e1cb62cff9a58a489bf3
      },
      {
        invariantKind: "departure",
+@@ -21,8 +22,7 @@ export const composeNotices = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A folder that is not there, or that holds no notice, is refused rather than empty.",
++      statement: "A folder that is not there, or holds no notice, is refused rather than empty.",
+     },
+     {
+       invariantKind: "gap",
 diff --git a/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts b/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
-index a40233a55e4d4f23b193b72043ba90041824fb1f..790ed67e488f18a8524172779d9d29349e772911 100644
+index a40233a55e4d4f23b193b72043ba90041824fb1f..f9857f8bf5d93b9dc5139a46b50f18566a6fa24d 100644
 --- a/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
 +++ b/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
 @@ -33,7 +33,7 @@ export const pendingMaintaining = {
@@ -22,6 +32,15 @@ index a40233a55e4d4f23b193b72043ba90041824fb1f..790ed67e488f18a8524172779d9d2934
        invariantKind: "departure",
 -      statement: "A file changing is the only thing that moves this.",
 +      statement: "A file changing is the only thing that moves this module.",
+     },
+     {
+       invariantKind: "departure",
+@@ -41,7 +41,7 @@ export const pendingMaintaining = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A turn starts in a transcript rather than in a store this writes.",
++      statement: "A turn starts in a transcript rather than in a store this module writes.",
      },
      {
        invariantKind: "departure",
