@@ -37,7 +37,7 @@ export const luaRuntimeLibrary = {
     },
     {
       invariantKind: "departure",
-      statement: "Which of the two a build reaches is what that build's config overlays.",
+      statement: "A build's config overlays which of the two files that build reaches.",
     },
     {
       invariantKind: "departure",
