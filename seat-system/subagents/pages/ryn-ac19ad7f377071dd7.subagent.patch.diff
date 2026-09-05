@@ -1,0 +1,12 @@
+diff --git a/temper/temper-commands/temper-inventory-rule-update/temper-inventory-rule-update.command.ts b/temper/temper-commands/temper-inventory-rule-update/temper-inventory-rule-update.command.ts
+index 698d7c8d3573329326983d0fbde6ba314114d3e8..178b2a9f991f9e8d106cf614c5ff25290cf7e383 100644
+--- a/temper/temper-commands/temper-inventory-rule-update/temper-inventory-rule-update.command.ts
++++ b/temper/temper-commands/temper-inventory-rule-update/temper-inventory-rule-update.command.ts
+@@ -32,7 +32,6 @@ export const temperInventoryRuleUpdate = {
+   ],
+   helpNotes: [
+     "a locked category rule is refused rather than changed, unless `--force` is said.",
+-    "a field the call names nothing for is left as it was.",
+     "a title, a note and a goal are held for the web alone and never reach the addon.",
+   ],
+   invariants: [
