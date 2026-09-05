@@ -12,10 +12,7 @@ export const characterSkills = {
       statement:
         "Scribed skills follow the catalog skills rather than sorting among the catalog skills.",
     },
-    {
-      invariantKind: "constraint",
-      statement: "A skill's place in this table is the index a build hash carries.",
-    },
+
     {
       invariantKind: "gap",
       statement: "A skill moved to another place breaks every build hash saved.",
