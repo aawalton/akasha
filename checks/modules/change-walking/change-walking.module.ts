@@ -27,7 +27,7 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
-      statement: "A check judging both reaches them through one selector.",
+      statement: "A check judging both reaches code and stylesheets through one selector.",
     },
     {
       invariantKind: "departure",
