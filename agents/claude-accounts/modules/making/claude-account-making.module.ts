@@ -27,7 +27,8 @@ export const claudeAccountMaking = {
     },
     {
       invariantKind: "departure",
-      statement: "The rest of what an account states is left for the upstream probe to answer.",
+      statement:
+        "The rest of the values an account states is left for the upstream probe to answer.",
     },
     {
       invariantKind: "departure",
