@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.ts
+index 3ec04467cf7e5ce099f960cf2cfaadd4d8a76860..545c09950d1cf1d00487f5018ecb6b371323d1f5 100644
+--- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.ts
++++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.ts
+@@ -10,7 +10,7 @@ export const noVoidReturn = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "`undefined` is what takes its place.",
++      statement: "`undefined` takes its place.",
+     },
+     {
+       invariantKind: "departure",
