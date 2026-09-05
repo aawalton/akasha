@@ -99,11 +99,6 @@ export const wan = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An extend's context window is fewer frames than the clip that window is pulled from holds.",
-    },
-    {
-      invariantKind: "departure",
       statement: "An extend's whole length is four times a whole number plus one.",
     },
     {
