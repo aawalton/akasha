@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/email-watch/inbox-pass/inbox-pass.module.ts b/email-watch/inbox-pass/inbox-pass.module.ts
-index 870b1d3e73c46e021a9fdaf1b7805dd65617c341..70628969f915a51e3fd510481ada8384e8ac6c9b 100644
+index 870b1d3e73c46e021a9fdaf1b7805dd65617c341..b167be776c2f2fdfd231f383f1c4632e136c05a2 100644
 --- a/email-watch/inbox-pass/inbox-pass.module.ts
 +++ b/email-watch/inbox-pass/inbox-pass.module.ts
-@@ -35,7 +35,7 @@ export const inboxPass = {
+@@ -35,11 +35,11 @@ export const inboxPass = {
      {
        invariantKind: "departure",
        statement:
@@ -12,3 +12,8 @@ index 870b1d3e73c46e021a9fdaf1b7805dd65617c341..70628969f915a51e3fd510481ada8384
      },
      {
        invariantKind: "absence",
+-      statement: "Nothing here says what a rule does to a message.",
++      statement: "Nothing here says the action a rule takes on a message.",
+     },
+   ],
+ } as const satisfies Module
