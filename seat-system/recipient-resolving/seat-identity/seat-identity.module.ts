@@ -14,7 +14,7 @@ export const seatIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "A name in an old message still resolves to whoever held it.",
+      statement: "A name in an old message still resolves to whoever held that name.",
     },
     {
       invariantKind: "absence",
