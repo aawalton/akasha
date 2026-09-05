@@ -25,11 +25,11 @@ export const codeAuditAstUnused = {
     },
     {
       invariantKind: "departure",
-      statement: "Reachability is computed from what the curation names as entry globs.",
+      statement: "Reachability is computed from the entry globs the curation names.",
     },
     {
       invariantKind: "departure",
-      statement: "A change to the entry globs moves what reads as reached.",
+      statement: "A change to the entry globs moves the files that read as reached.",
     },
   ],
 } as const satisfies Domain
