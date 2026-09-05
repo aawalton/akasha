@@ -1,0 +1,14 @@
+diff --git a/alan/harness/monarch/amazon-refund/monarch-amazon-refund.module.ts b/alan/harness/monarch/amazon-refund/monarch-amazon-refund.module.ts
+index c26eda537f4197eb1db207c65a877edc02dffcf1..76865b4d4953e818b512dbb44d1e35b75cab95cc 100644
+--- a/alan/harness/monarch/amazon-refund/monarch-amazon-refund.module.ts
++++ b/alan/harness/monarch/amazon-refund/monarch-amazon-refund.module.ts
+@@ -9,7 +9,8 @@ export const monarchAmazonRefund = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A refund names the order it is against, the total, and the item it is for.",
++      statement:
++        "A refund names the order that refund is against, the total, and the item that refund is for.",
+     },
+     {
+       invariantKind: "departure",
