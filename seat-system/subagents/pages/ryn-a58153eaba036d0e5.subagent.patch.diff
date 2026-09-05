@@ -14,6 +14,22 @@ index b2290b150db82698ae6fc92f89adba1a1e663495..ac37ded51e2930651876d32ed81b70c8
      {
        invariantKind: "constraint",
        statement: "A caller hands in the act a signal is listened for by.",
+diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
+index 347f7f705f973e03d7490d8600d969761c5a6f2a..2807b7445a7c1afa8c858681af599de3c182ac31 100644
+--- a/command-system/landing/landing.module.ts
++++ b/command-system/landing/landing.module.ts
+@@ -54,10 +54,7 @@ export const landing = {
+       statement:
+         "A change stating no commit the change was read against is taken as read against the commit at HEAD.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A body is overwritten only where the body on disk is the body its writer read.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "One that moved is refused unwritten.",
 diff --git a/story/chapters-played/story-chapter-played.page-type.ts b/story/chapters-played/story-chapter-played.page-type.ts
 index 3105765de04f6d660afdd61276afb567148bd6f5..504031cac23062d4dc8617bb2ee5895b56794cd3 100644
 --- a/story/chapters-played/story-chapter-played.page-type.ts
