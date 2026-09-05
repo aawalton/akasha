@@ -13,11 +13,11 @@ export const kiShow = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A show of Ki's names the seasons it holds.",
+      statement: "A show of Ki's names the seasons that show holds.",
     },
     {
       invariantKind: "departure",
-      statement: "A show of Ki's names the franchise it belongs to.",
+      statement: "A show of Ki's names the franchise that show belongs to.",
     },
   ],
 } as const satisfies PageType
