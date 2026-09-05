@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/editor-extension/ops-extension/extension-entry/extension-entry.module.ts b/editor-extension/ops-extension/extension-entry/extension-entry.module.ts
+index 5629829dc6f88ff1ac267c6b2eda4395f44df01a..aa632a7fff52a35c292dbf78873b8b21220eb12e 100644
+--- a/editor-extension/ops-extension/extension-entry/extension-entry.module.ts
++++ b/editor-extension/ops-extension/extension-entry/extension-entry.module.ts
+@@ -54,7 +54,7 @@ export const extensionEntry = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows what a panel draws.",
++      statement: "Nothing here knows the contents a panel draws.",
+     },
+     {
+       invariantKind: "absence",
