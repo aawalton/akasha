@@ -45,14 +45,6 @@
  */
 
 /**
- * The page type a day is in MARKDOWN, declared at `pages/page-type/daily-tracking.page-type.md`.
- *
- * This is the name the source corpus states and the name the converter reads a day back out of. It
- * is NOT the name a day answers to once it stands in akasha — see `AKASHA_DAY_PAGE_TYPE` below.
- */
-export const DAY_PAGE_TYPE = "daily-tracking"
-
-/**
  * The page type a day is in AKASHA, declared at
  * `alan/tracking/daily/wake-days/wake-day.page-type.ts`, which states `slug: "wake-day"` and
  * `pluralSlug: "wake-days"`.

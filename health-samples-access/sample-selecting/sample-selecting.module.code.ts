@@ -5,8 +5,6 @@ import { instantMs } from "../sample-identity/sample-identity.module.code.ts"
 import { ANCHOR_PAGE_TYPE, ROW_CEILING, recordOf } from "../sample-rows/sample-rows.module.code.ts"
 import type { HealthMetric, HealthSampleRecord } from "../sample-shape/sample-shape.module.code.ts"
 
-export const HEALTH_SAMPLE_PAGE_TYPE = "health-sample"
-
 export const SAMPLE_ROWS_KEY = "health-samples"
 
 export const DAYS_KEPT_IN = "alan/tracking/daily/eso-days/pages"
