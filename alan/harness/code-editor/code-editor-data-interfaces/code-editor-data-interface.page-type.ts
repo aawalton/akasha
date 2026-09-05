@@ -19,6 +19,7 @@ export const codeEditorDataInterface = {
   extendsSlug: ["page-type/domain"],
   partSlugs: [
     "file-property/state",
+    "module/state-cooldown",
     "type-declaration/tree-row",
     "number-property/cooldown-milliseconds",
     "code-editor-data-interface/agent-colors",
