@@ -25,7 +25,7 @@ export const supervisorIdleDecide = {
     },
     {
       invariantKind: "departure",
-      statement: "Past the context cliff only what is in flight holds a restart back.",
+      statement: "Past the context cliff only work in flight holds a restart back.",
     },
     {
       invariantKind: "departure",
