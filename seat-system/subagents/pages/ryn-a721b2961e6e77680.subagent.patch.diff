@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/code-system/code-specifier/code-specifier.module.ts b/code-system/code-specifier/code-specifier.module.ts
+index 5cf3d8cf6c51fa885e87b254575a71c066d87a63..15bedb641a43f7ee5e9344af21d05517dc54e551 100644
+--- a/code-system/code-specifier/code-specifier.module.ts
++++ b/code-system/code-specifier/code-specifier.module.ts
+@@ -18,7 +18,7 @@ export const codeSpecifier = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What names a module is a part of what a body spells.",
++      statement: "A specifier is one of the strings a body spells.",
+     },
+     {
+       invariantKind: "departure",
