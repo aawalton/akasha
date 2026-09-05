@@ -355,3 +355,45 @@ index 0000000000000000000000000000000000000000..e7fda36d17e113048a07b06f4d053353
 +    },
 +  ],
 +} as const satisfies Domain
+diff --git a/infrastructure/log.domain.ts b/infrastructure/log.domain.ts
+deleted file mode 100644
+index bc4c6e4426a95f9e7176d80f261af1ddf4d8634c..0000000000000000000000000000000000000000
+--- a/infrastructure/log.domain.ts
++++ /dev/null
+@@ -1,15 +0,0 @@
+-import type { Domain } from "../domains/domain.page-type.ts"
+-
+-export const log = {
+-  id: "01a0658b-0f02-79a4-861b-f04b48ab54ce",
+-  pageTypeSlug: "domain",
+-  slug: "log",
+-  definition: "the lines a program wrote about what it was doing",
+-  pluralSlug: "logs",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A log is kept for days.",
+-    },
+-  ],
+-} as const satisfies Domain
+diff --git a/infrastructure/logs/log.domain.ts b/infrastructure/logs/log.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8a66a8588478a4f84e06afd7c0e7c14a1ac14d70
+--- /dev/null
++++ b/infrastructure/logs/log.domain.ts
+@@ -0,0 +1,15 @@
++import type { Domain } from "../../domains/domain.page-type.ts"
++
++export const log = {
++  id: "01a0658b-0f02-79a4-861b-f04b48ab54ce",
++  pageTypeSlug: "domain",
++  slug: "log",
++  definition: "the lines a program wrote about what it was doing",
++  pluralSlug: "logs",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A log is kept for days.",
++    },
++  ],
++} as const satisfies Domain
