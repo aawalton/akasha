@@ -1,0 +1,192 @@
+diff --git a/persona-system/closeness-levels/properties/level.number-property.ts b/persona-system/closeness-levels/properties/level.number-property.ts
+index b0051173df82d7617393c52c35a5d181a4787426..47bd205fe9c9babba73269766c0fb3890142adae 100644
+--- a/persona-system/closeness-levels/properties/level.number-property.ts
++++ b/persona-system/closeness-levels/properties/level.number-property.ts
+@@ -7,6 +7,6 @@ export const level = {
+   pageTypeSlug: "number-property",
+   slug: "level",
+   propertySlug: "level",
+-  definition: "how far along the closeness ladder this rung stands",
++  definition: "how far along the closeness ladder this rung is",
+   max: null,
+ } as const satisfies NumberProperty
+diff --git a/persona-system/persona-craft-days/properties/improvement-count.number-property.ts b/persona-system/persona-craft-days/properties/improvement-count.number-property.ts
+index b1627bba0e20ccda83c7a47b862f23ebf9f7e264..b79e307525b0105caf321a4be6fe4d23fb722993 100644
+--- a/persona-system/persona-craft-days/properties/improvement-count.number-property.ts
++++ b/persona-system/persona-craft-days/properties/improvement-count.number-property.ts
+@@ -7,6 +7,6 @@ export const improvementCount = {
+   pageTypeSlug: "number-property",
+   slug: "improvement-count",
+   propertySlug: "improvement-count",
+-  definition: "how many personas already standing were bettered on a day",
++  definition: "how many personas that already existed were bettered on a day",
+   max: null,
+ } as const satisfies NumberProperty
+diff --git a/persona-system/persona-craft-days/properties/new-persona-count.number-property.ts b/persona-system/persona-craft-days/properties/new-persona-count.number-property.ts
+index 7693f747410c80f27b5d8ffcb8c369e14ce6a1ba..11caadde566849be64374ccdc8166aa7758e0e5f 100644
+--- a/persona-system/persona-craft-days/properties/new-persona-count.number-property.ts
++++ b/persona-system/persona-craft-days/properties/new-persona-count.number-property.ts
+@@ -7,6 +7,6 @@ export const newPersonaCount = {
+   pageTypeSlug: "number-property",
+   slug: "new-persona-count",
+   propertySlug: "new-persona-count",
+-  definition: "how many personas first stood on a day",
++  definition: "how many personas came to be on a day",
+   max: null,
+ } as const satisfies NumberProperty
+diff --git a/persona-system/persona-days/properties/source-total-snapshot.number-property.ts b/persona-system/persona-days/properties/source-total-snapshot.number-property.ts
+index f3aacda68f86584787b9fd2ab507937cddf9d799..7600be877c23fe0bd1477e46e4908507d6a6c68f 100644
+--- a/persona-system/persona-days/properties/source-total-snapshot.number-property.ts
++++ b/persona-system/persona-days/properties/source-total-snapshot.number-property.ts
+@@ -7,7 +7,7 @@ export const sourceTotalSnapshot = {
+   pageTypeSlug: "number-property",
+   slug: "source-total-snapshot",
+   propertySlug: "source-total-snapshot",
+-  definition: "the lifetime figure a persona's source stood at when a day was scored",
++  definition: "the lifetime figure a persona's source was at when a day was scored",
+   max: null,
+   invariants: [
+     {
+diff --git a/persona-system/persona-images/persona-image.page-type.ts b/persona-system/persona-images/persona-image.page-type.ts
+index 8a2861ce0ae1dffa987dfa5c5b4e14a3945f3845..7d9490b89600c299e0ec68337c4cdad946f45282 100644
+--- a/persona-system/persona-images/persona-image.page-type.ts
++++ b/persona-system/persona-images/persona-image.page-type.ts
+@@ -37,7 +37,7 @@ export const personaImage = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The picture itself stands outside this repository.",
++      statement: "The picture itself is outside this repository.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/persona-system/persona-images/properties/image-path.text-property.ts b/persona-system/persona-images/properties/image-path.text-property.ts
+index 0a5cb1ff71f21815e8bb18b913455ed5ae4e19d7..e331e5d8614c677a63907bab0d18bac23445917b 100644
+--- a/persona-system/persona-images/properties/image-path.text-property.ts
++++ b/persona-system/persona-images/properties/image-path.text-property.ts
+@@ -7,7 +7,7 @@ export const imagePath = {
+   pageTypeSlug: "text-property",
+   slug: "image-path",
+   propertySlug: "image-path",
+-  definition: "where a picture stands, read against the root it names",
++  definition: "where a picture is, read against the root it names",
+   max: 300,
+   nameFormatSlug: null,
+   invariants: [
+diff --git a/persona-system/persona-reading/persona-reading.module.code.ts b/persona-system/persona-reading/persona-reading.module.code.ts
+index 04a3d2414a07c2b3379b737306f0117f4a179883..763b105e159b2fde2082571bdd9190dcb9a5395a 100644
+--- a/persona-system/persona-reading/persona-reading.module.code.ts
++++ b/persona-system/persona-reading/persona-reading.module.code.ts
+@@ -49,7 +49,7 @@ function portraitIn(path: string, value: Value): string | null {
+   if (held === null) return null
+   const beside = besideAt(path, PORTRAIT, held)
+   if (beside === null) {
+-    throw new Error(`${path} is a persona page and no portrait can stand beside a name like it`)
++    throw new Error(`${path} is a persona page and no portrait can sit beside a name like it`)
+   }
+   return beside
+ }
+diff --git a/persona-system/persona-wallpaper-notifications/persona-wallpaper-notification.page-type.ts b/persona-system/persona-wallpaper-notifications/persona-wallpaper-notification.page-type.ts
+index 3f24664cb5f441e6cce5270b7287193a0a9a9db2..146df8cc5a0a8c55313fe6f331e4ffbef3a1c2d2 100644
+--- a/persona-system/persona-wallpaper-notifications/persona-wallpaper-notification.page-type.ts
++++ b/persona-system/persona-wallpaper-notifications/persona-wallpaper-notification.page-type.ts
+@@ -26,7 +26,7 @@ export const personaWallpaperNotification = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The page standing is the whole of what the page records.",
++      statement: "The page being there is the whole of what the page records.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/persona-system/personas/persona.page-type.ts b/persona-system/personas/persona.page-type.ts
+index 4c933d2bf7cef1416a00a2ba53f3ece4a55da9c6..ec641815cedb72932c5aad329c6b73dcaa7b250e 100644
+--- a/persona-system/personas/persona.page-type.ts
++++ b/persona-system/personas/persona.page-type.ts
+@@ -123,7 +123,7 @@ export const persona = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A persona stands alone in a folder.",
++      statement: "A persona is alone in a folder.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/persona-system/personas/properties/last-messaged-at.text-property.ts b/persona-system/personas/properties/last-messaged-at.text-property.ts
+index 03b8ec51afb97dbcd501d4624eaba6510be2a1a8..d3083d5360dc0ec4d286169069b8358d37b94534 100644
+--- a/persona-system/personas/properties/last-messaged-at.text-property.ts
++++ b/persona-system/personas/properties/last-messaged-at.text-property.ts
+@@ -13,7 +13,7 @@ export const lastMessagedAt = {
+   invariants: [
+     {
+       invariantKind: "stopgap",
+-      statement: "No name format stands for an instant.",
++      statement: "No name format exists for an instant.",
+     },
+   ],
+ } as const satisfies TextProperty
+diff --git a/persona-system/personas/properties/value-slug.text-property.ts b/persona-system/personas/properties/value-slug.text-property.ts
+index a8ce0ea59885d84892daf0b122e328343d195767..7340c8a732f03ab6448bb4e130cc34884b4facf3 100644
+--- a/persona-system/personas/properties/value-slug.text-property.ts
++++ b/persona-system/personas/properties/value-slug.text-property.ts
+@@ -7,7 +7,7 @@ export const valueSlug = {
+   pageTypeSlug: "text-property",
+   slug: "value-slug",
+   propertySlug: "value-slug",
+-  definition: "the value a persona stands for",
++  definition: "the value a persona represents",
+   max: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+diff --git a/persona-system/questions/properties/question-ask.text-property.ts b/persona-system/questions/properties/question-ask.text-property.ts
+index f781a5733b6181ca780e38cf5c16d720d69d9908..060f73be4dfaed91ee2f7aafa122102f9482d61e 100644
+--- a/persona-system/questions/properties/question-ask.text-property.ts
++++ b/persona-system/questions/properties/question-ask.text-property.ts
+@@ -13,7 +13,7 @@ export const questionAsk = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "An ask is the whole question rather than a title standing for one.",
++      statement: "An ask is the whole question rather than a title representing one.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/persona-system/questions/properties/question-context.file-property.ts b/persona-system/questions/properties/question-context.file-property.ts
+index d1d664275de248e07cd5d510eaa58ea4a8b65b18..23daa6ad3f57eb306cef23210631823de3fe056a 100644
+--- a/persona-system/questions/properties/question-context.file-property.ts
++++ b/persona-system/questions/properties/question-context.file-property.ts
+@@ -15,7 +15,7 @@ export const questionContext = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A question stands without context where the ask carries itself.",
++      statement: "A question does without context where the ask carries itself.",
+     },
+   ],
+ } as const satisfies FileProperty
+diff --git a/persona-system/questions/properties/question-offered.text-property.ts b/persona-system/questions/properties/question-offered.text-property.ts
+index ff1c8ccf0a90a5a51774620a0d0944d58a9d9e41..e724d311e9509472271cee1ff822e45c078abf34 100644
+--- a/persona-system/questions/properties/question-offered.text-property.ts
++++ b/persona-system/questions/properties/question-offered.text-property.ts
+@@ -17,7 +17,7 @@ export const questionOffered = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The offered answers stand in the order the question held them out in.",
++      statement: "The offered answers keep the order the question held them out in.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/persona-system/questions/question.page-type.ts b/persona-system/questions/question.page-type.ts
+index ccb02542c32e9cb9a2c7c0ad286dc1630d31cd28..a70db8b203424e288cd99377c7e93a247fc4a449 100644
+--- a/persona-system/questions/question.page-type.ts
++++ b/persona-system/questions/question.page-type.ts
+@@ -78,7 +78,7 @@ export const question = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What stood around a question when it was put stands beside the page rather than in it.",
++        "What was around a question when it was put sits beside the page rather than in it.",
+     },
+     {
+       invariantKind: "gap",
