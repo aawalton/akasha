@@ -22,7 +22,7 @@ index 1cb37b6156c8bbcf0f1373c92d06b022c491e820..1077bcb7b46035f676134ac393c557fa
    root: string,
    agentId: string,
 diff --git a/command-system/commands/patch/patch.command.code.ts b/command-system/commands/patch/patch.command.code.ts
-index ee111070d85d66994ebe6082f1d55fc35f12807a..ac03f0d47ae73b466402167a1580c1a5f61df6a8 100644
+index ee111070d85d66994ebe6082f1d55fc35f12807a..38da2fde0d0af2dc74a6e9daa2f15b6d601d81e8 100644
 --- a/command-system/commands/patch/patch.command.code.ts
 +++ b/command-system/commands/patch/patch.command.code.ts
 @@ -7,6 +7,7 @@ import { applied } from "../../applying/applying.module.code.ts"
@@ -56,6 +56,53 @@ index ee111070d85d66994ebe6082f1d55fc35f12807a..ac03f0d47ae73b466402167a1580c1a5
  const NO_REBASE = "the patch does not rebase onto the commit at HEAD"
  
  const MOVED = " — moved under the patch since it was drafted"
+@@ -283,30 +288,30 @@ export async function resolving(
+   if (!("gate" in built)) {
+     return { report: [], refusals: [`the checks would not load — ${built.broken}`], code: 3 }
+   }
+-  const formatting = formattingIn(given.root, [{ path: named.path, body: BYTES.encode(held.body) }])
+-  const change = changeOf(given.root, {
+-    base: baseOf(given.root),
+-    edits: formatting.changes,
+-  })
+-  const judged = await built.gate.over(change)
+-  if (judged.length > 0) {
+-    return {
+-      report: [],
+-      refusals: [
+-        ...judged.map((one) => `${one.path} — ${one.reason}`),
+-        `nothing was resolved — the patch is as the patch was`,
+-      ],
+-      code: 3,
+-    }
++  const would = wouldHold(given.root, page, [])
++  if ("why" in would) {
++    return { report: [], refusals: [would.why, AS_IT_WAS], code: 3 }
+   }
++  const had = would.held.get(named.path)
++  if (had === undefined) return mistaking([`${NOT_HELD} ${named.path}`])
++  const formatting = formattingIn(given.root, [{ path: named.path, body: BYTES.encode(held.body) }])
+   const body = formatting.changes[0]?.body ?? BYTES.encode(held.body)
++  const edits = editsOf(new Map(would.held).set(named.path, { was: had.was, body }))
++  const change = changeOf(given.root, { base: baseOf(given.root), edits })
++  const judged = await built.gate.over(change)
+   const said = resolved(given.root, page, named.path, body)
+   if ("why" in said) return { report: [], refusals: [said.why], code: 2 }
+   return {
+     report: [
+       `resolved ${named.path}`,
+       ...formattedSaid(formatting.formatted),
+-      ...said.clashed.map(clashSaid),
++      ...draftSaid(
++        counted,
++        built.gate.named.length,
++        edits.map((one) => one.path).sort(),
++        judged,
++        said.clashed
++      ),
+       said.patch === null
+         ? "the patch was worked out to nothing and taken away"
+         : `the patch is kept at ${patchAt(page)}`,
 diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
 index 3e79fda62c024d6f42de233b752efe6c1bb8c0c7..90fc7cb550cd66feb17a1956ad8bf3d39d4f77eb 100644
 --- a/command-system/landing/landing.module.code.ts
