@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/health-samples-access/sample-identity/sample-identity.module.ts b/health-samples-access/sample-identity/sample-identity.module.ts
+index 8a9f9e818f6116c551d9de728088bb3d513aa006..0f470acaf4dbb6fbe7848ae4d37aa96b83424737 100644
+--- a/health-samples-access/sample-identity/sample-identity.module.ts
++++ b/health-samples-access/sample-identity/sample-identity.module.ts
+@@ -10,7 +10,7 @@ export const sampleIdentity = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What names a reading is its metric with its source and the span the reading covers.",
++        "A reading's identity is its metric with its source and the span the reading covers.",
+     },
+     {
+       invariantKind: "departure",
