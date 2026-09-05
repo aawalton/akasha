@@ -13,7 +13,8 @@ export const emailRuleDelay = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule takes the mail when it matches, and the delay postpones only the acting.",
+      statement:
+        "A rule takes the mail when that rule matches, and the delay postpones only the acting.",
     },
     {
       invariantKind: "departure",
