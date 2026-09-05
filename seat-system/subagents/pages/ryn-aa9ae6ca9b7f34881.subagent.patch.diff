@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/migration-system/landing/migration-landing.module.ts b/migration-system/landing/migration-landing.module.ts
+index 40d075ac0cdd53d46ff944fc5fc1986b610d8b81..6ffd35fb3bd19533eebfd2267a2b4190eeaa5c61 100644
+--- a/migration-system/landing/migration-landing.module.ts
++++ b/migration-system/landing/migration-landing.module.ts
+@@ -14,7 +14,7 @@ export const migrationLanding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A migration states what the migration is called as.",
++      statement: "A migration states the name the migration is called as.",
+     },
+     {
+       invariantKind: "departure",
