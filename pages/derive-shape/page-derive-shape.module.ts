@@ -21,7 +21,7 @@ export const pageDeriveShape = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here holds a value; these are the shapes a deriver answers in.",
+      statement: "Nothing here holds a value; these types are the shapes a deriver answers in.",
     },
   ],
 } as const satisfies Module

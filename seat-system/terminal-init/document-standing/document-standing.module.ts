@@ -18,7 +18,8 @@ export const documentStanding = {
     },
     {
       invariantKind: "departure",
-      statement: "Only the last two parts of a path carry the slug, so only those are blanked.",
+      statement:
+        "Only the last two parts of a path carry the slug, so only those parts are blanked.",
     },
     {
       invariantKind: "departure",

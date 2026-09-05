@@ -10,7 +10,7 @@ export const memoryReaperProcScan = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A process this cannot read is passed over rather than refused.",
+      statement: "A process this module cannot read is passed over rather than refused.",
     },
     {
       invariantKind: "departure",

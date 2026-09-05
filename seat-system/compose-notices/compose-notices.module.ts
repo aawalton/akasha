@@ -9,7 +9,8 @@ export const composeNotices = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This is run as its own program rather than imported by what asks for a notice.",
+      statement:
+        "This module is run as its own program rather than imported by what asks for a notice.",
     },
     {
       invariantKind: "departure",
@@ -21,8 +22,7 @@ export const composeNotices = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A folder that is not there, or that holds no notice, is refused rather than empty.",
+      statement: "A folder that is not there, or holds no notice, is refused rather than empty.",
     },
     {
       invariantKind: "gap",

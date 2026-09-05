@@ -10,7 +10,7 @@ export const smsAllowlist = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This raises rather than answering that nobody may send.",
+      statement: "This module raises rather than answering that nobody may send.",
     },
     {
       invariantKind: "departure",

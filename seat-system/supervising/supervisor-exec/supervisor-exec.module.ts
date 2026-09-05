@@ -21,7 +21,7 @@ export const supervisorExec = {
     },
     {
       invariantKind: "constraint",
-      statement: "This runs on Linux alone.",
+      statement: "This module runs on Linux alone.",
     },
   ],
 } as const satisfies Module

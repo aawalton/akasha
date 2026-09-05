@@ -33,7 +33,7 @@ export const pendingMaintaining = {
     },
     {
       invariantKind: "departure",
-      statement: "A file changing is the only thing that moves this.",
+      statement: "A file changing is the only thing that moves this module.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +41,7 @@ export const pendingMaintaining = {
     },
     {
       invariantKind: "departure",
-      statement: "A turn starts in a transcript rather than in a store this writes.",
+      statement: "A turn starts in a transcript rather than in a store this module writes.",
     },
     {
       invariantKind: "departure",
@@ -62,7 +62,8 @@ export const pendingMaintaining = {
     },
     {
       invariantKind: "departure",
-      statement: "This writes into no transcript folder, so a transcript run triggers no other.",
+      statement:
+        "This module writes into no transcript folder, so a transcript run triggers no other.",
     },
     {
       invariantKind: "departure",

@@ -13,7 +13,7 @@ export const seatConditionsModel = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A subagent naming no model of its own answers on this too.",
+      statement: "A subagent naming no model of its own answers on this model too.",
     },
   ],
 } as const satisfies TextProperty

@@ -25,7 +25,7 @@ export const pageQueryShape = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here answers a query; these are the shapes a query is said in.",
+      statement: "Nothing here answers a query; these types are the shapes a query is said in.",
     },
   ],
 } as const satisfies Module

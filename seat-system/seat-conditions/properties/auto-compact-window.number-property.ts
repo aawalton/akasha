@@ -12,7 +12,8 @@ export const autoCompactWindow = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "What runs the agent holds this between 100,000 and 1,000,000 whatever is stated.",
+      statement:
+        "What runs the agent holds this count between 100,000 and 1,000,000 whatever is stated.",
     },
     {
       invariantKind: "departure",

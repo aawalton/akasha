@@ -13,7 +13,7 @@ export const pageLandingJudge = {
     },
     {
       invariantKind: "departure",
-      statement: "Three of those acts land on a row rather than on the page.",
+      statement: "Three of the eight acts land on a row rather than on the page.",
     },
     {
       invariantKind: "absence",
