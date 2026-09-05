@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/subagent-page-akasha/subagent-page-akasha.module.ts b/seat-system/subagent-page-akasha/subagent-page-akasha.module.ts
+index 70d707567eb795aad4cca028a655a1ef09838bd2..43d348b46ba6c5ff6ea10d540df9815eeda2d029 100644
+--- a/seat-system/subagent-page-akasha/subagent-page-akasha.module.ts
++++ b/seat-system/subagent-page-akasha/subagent-page-akasha.module.ts
+@@ -9,7 +9,8 @@ export const subagentPageAkasha = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A sweep of the pages under a seat that was refused answers why they did not go.",
++      statement:
++        "A sweep of the pages under a seat that was refused answers why those pages did not go.",
+     },
+   ],
+ } as const satisfies Module
