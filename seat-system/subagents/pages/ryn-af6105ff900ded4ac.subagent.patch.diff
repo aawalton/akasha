@@ -1,3 +1,18 @@
+diff --git a/alan/fitness/commands/exercise-session-finish/exercise-session-finish.command.ts b/alan/fitness/commands/exercise-session-finish/exercise-session-finish.command.ts
+index 7f03ac46ac7016f7583c690093dabc1ed212e7a4..7d3eadc2c47a466ab3b50ecc1b036efe7557a262 100644
+--- a/alan/fitness/commands/exercise-session-finish/exercise-session-finish.command.ts
++++ b/alan/fitness/commands/exercise-session-finish/exercise-session-finish.command.ts
+@@ -21,10 +21,6 @@ export const exerciseSessionFinish = {
+     "the volume counts the bodyweight the client profile states.",
+   ],
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The session left unsaid is the most recent one still open.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "Notes given are added under the notes already there.",
 diff --git a/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts b/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts
 index a7d6387750d124e93d74d1479cc354a4d15fde02..bf1e5617bada3460773a2553d5f6734fbf7e2964 100644
 --- a/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts
