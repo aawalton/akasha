@@ -101,7 +101,7 @@ export const readoutGroupServing = {
     {
       invariantKind: "departure",
       statement:
-        "A stoplight carrying no figure carries the figure as empty text rather than leaving it out.",
+        "A stoplight carrying no figure carries the figure as empty text rather than leaving that figure out.",
     },
     {
       invariantKind: "departure",
