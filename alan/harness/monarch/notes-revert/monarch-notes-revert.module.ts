@@ -24,7 +24,8 @@ export const monarchNotesRevert = {
     },
     {
       invariantKind: "departure",
-      statement: "A revert says what it would do before it is asked to do it.",
+      statement:
+        "A revert says the changes that revert would make before being asked to make the changes.",
     },
     {
       invariantKind: "departure",
