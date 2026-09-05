@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/commands/refactor/refactor.command.ts b/commands/refactor/refactor.command.ts
-index dfb3c068fc99e645f0970d2aa27f298838eaa826..74821cdff71c812ec77e939465e340d811739630 100644
+index dfb3c068fc99e645f0970d2aa27f298838eaa826..9bb6377168f75587cbf144c4d231aaf73d6832c8 100644
 --- a/commands/refactor/refactor.command.ts
 +++ b/commands/refactor/refactor.command.ts
 @@ -101,7 +101,7 @@ export const refactor = {
@@ -18,6 +18,15 @@ index dfb3c068fc99e645f0970d2aa27f298838eaa826..74821cdff71c812ec77e939465e340d8
        invariantKind: "departure",
 -      statement: "Every file importing what moved is repointed in the same commit.",
 +      statement: "Every file importing a file that moved is repointed in the same commit.",
+     },
+     {
+       invariantKind: "departure",
+@@ -154,7 +154,7 @@ export const refactor = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An answer names every place that still names what was renamed.",
++      statement: "An answer names every place that still names the old name.",
      },
      {
        invariantKind: "departure",
