@@ -38,3 +38,16 @@ index 9abf90caaeedfcd3a2add155517fd1b56ffaeb45..c3bab3e3034916f1eeef41c13b505e02
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/monarch/categorize-recent/monarch-categorize-recent.module.ts b/alan/harness/monarch/categorize-recent/monarch-categorize-recent.module.ts
+index 223bfcd577fcd8e41110f0ae6e20ed5b8bb4a69e..8595772d528ba411c84899b388655c0410f08b32 100644
+--- a/alan/harness/monarch/categorize-recent/monarch-categorize-recent.module.ts
++++ b/alan/harness/monarch/categorize-recent/monarch-categorize-recent.module.ts
+@@ -10,7 +10,7 @@ export const monarchCategorizeRecent = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The window is the unattended one rather than the trusted one, because this runs without asking.",
++        "The window is the unattended one rather than the trusted one, because this module runs without asking.",
+     },
+     {
+       invariantKind: "departure",
