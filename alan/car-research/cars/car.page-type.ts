@@ -37,7 +37,7 @@ export const car = {
     },
     {
       invariantKind: "departure",
-      statement: "A level names the level above it and never the levels below.",
+      statement: "A level names the level above that level and never the levels below.",
     },
     {
       invariantKind: "absence",
