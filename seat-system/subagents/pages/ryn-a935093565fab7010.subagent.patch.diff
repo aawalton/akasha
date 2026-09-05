@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/commands/page-secret-set/page-secret-set.command.ts b/pages/commands/page-secret-set/page-secret-set.command.ts
-index e6e639b44ac773022ecb9f4404f2731a33e9bf37..9f658e4e1ea162ce1095ae0330a2a6ff96beeb4d 100644
+index e6e639b44ac773022ecb9f4404f2731a33e9bf37..4d43da72f674497e739ca6308c860ca6a3cd12a6 100644
 --- a/pages/commands/page-secret-set/page-secret-set.command.ts
 +++ b/pages/commands/page-secret-set/page-secret-set.command.ts
 @@ -44,7 +44,7 @@ export const pageSecretSet = {
@@ -12,3 +12,12 @@ index e6e639b44ac773022ecb9f4404f2731a33e9bf37..9f658e4e1ea162ce1095ae0330a2a6ff
      },
      {
        invariantKind: "departure",
+@@ -56,7 +56,7 @@ export const pageSecretSet = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "What is composed is not decrypted again before what is composed lands.",
++      statement: "The composed file is not decrypted again before that file lands.",
+     },
+     {
+       invariantKind: "gap",
