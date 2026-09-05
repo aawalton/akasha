@@ -10,7 +10,7 @@ export const rollbackChecks = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A rollback to the latest published turn or past it is refused.",
+      statement: "A rollback to the latest published turn or past that turn is refused.",
     },
     {
       invariantKind: "departure",
