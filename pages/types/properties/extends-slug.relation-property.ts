@@ -22,7 +22,7 @@ export const extendsSlug = {
     {
       invariantKind: "departure",
       statement:
-        "Where both are equally near, the last named decides, so reordering changes what the type declares.",
+        "Where both are equally near, the last named decides, so reordering changes the type's properties.",
     },
     {
       invariantKind: "departure",
