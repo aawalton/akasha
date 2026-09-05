@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/story/story.domain.ts b/story/story.domain.ts
-index bf0d3535b8df51c8a832b13f0f298f099a98d09c..cb317cb59858bfe5319f611eca2e386e58e83922 100644
+index bf0d3535b8df51c8a832b13f0f298f099a98d09c..daa4c1b6fd53a3503173c8d187f65172d7f76db0 100644
 --- a/story/story.domain.ts
 +++ b/story/story.domain.ts
 @@ -34,7 +34,7 @@ export const story = {
@@ -23,6 +23,15 @@ index bf0d3535b8df51c8a832b13f0f298f099a98d09c..cb317cb59858bfe5319f611eca2e386e
        invariantKind: "departure",
 -      statement: "A chapter tells what happens next rather than states what is so.",
 +      statement: "A chapter tells the events that come next rather than states the facts.",
+     },
+     {
+       invariantKind: "departure",
+@@ -60,7 +60,7 @@ export const story = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is true in a world that no story has told is a sketch.",
++      statement: "A truth in a world that no story has told is a sketch.",
      },
      {
        invariantKind: "departure",
