@@ -29,6 +29,22 @@ index ef5daffe5d3eddcf39e5b50d4ec711999b41ac6d..81b823fc256a7a420c273b8b95b10051
  import { composeNotices, OUT, pathOf, readIn, saidOf } from "./compose-notices.command.code.ts"
  
  const ROOT = resolve(import.meta.dir, "../..")
+diff --git a/editor-extension/seat-toggles/seat-toggles.module.code.ts b/editor-extension/seat-toggles/seat-toggles.module.code.ts
+index c069f4d89ebeb004b1199e0b59307571fa4bcf10..042f8017776388726865e2b2904892a9c365e034 100644
+--- a/editor-extension/seat-toggles/seat-toggles.module.code.ts
++++ b/editor-extension/seat-toggles/seat-toggles.module.code.ts
+@@ -1,10 +1,5 @@
+-import * as path from "node:path"
++import { notices } from "@akasha/seat-system/compose-notices"
+ import { z } from "zod"
+-import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
+-import { askHarnessFile } from "../harness-json/harness-json.module.code.ts"
+-
+-const COMPOSE_NOTICES_AT = "seat-system/compose-notices/compose-notices.module.code.ts"
+-
+ import type { SeatMode } from "../seat-mode/seat-mode.module.code.ts"
+ 
+ export interface SeatToggleState {
 diff --git a/seat-system/package.json b/seat-system/package.json
 index 685b0ba6ec0fb7d71ab6f4b3f752c47155ff6f88..46988b7d62ae481ed5378a104dca1dd09937e1d6 100644
 --- a/seat-system/package.json
