@@ -60,7 +60,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "Every mechanical change is an atomic change a refactor command runs.",
       workingMemory:
-        "Built: `rename-local-variable`, `rename-export`, `rename-property-signature` addressed as `Type.property`, `rename-path` carrying every importer the index names, and `rename-code-token` composing the first two as the first refactor change. `path-repointing` is lifted out of the move command into `code-system` so no atomic change reaches into a command. Left: nothing loads either page type, since `calling` binds commands by the `command` page type id alone.",
+        "Atomic: `rename-local-variable`, `rename-export`, `rename-property-signature` addressed as `Type.property`, `rename-path`, `rename-slug`. Refactor: `rename-code-token`, and `rename-page-slug` running the slug and path renames as one act. Blocked: `rename-export` refuses a page file, since a page's export is its slug, and `rename-slug` defers the export to it, so a page's exported const is renamed by nothing and the two pages contradict each other.",
     },
     {
       statement: "The change page types are named change-atomic and change-refactor.",
