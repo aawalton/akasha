@@ -1,3 +1,30 @@
+diff --git a/pages/indexes/indexes.workspace-package.ts b/pages/indexes/indexes.workspace-package.ts
+index 8235134dc207f9f8ef064e024f26528a6e7bda50..2705d19eded506c12ae64a5fa8faf91e41a297ed 100644
+--- a/pages/indexes/indexes.workspace-package.ts
++++ b/pages/indexes/indexes.workspace-package.ts
+@@ -26,6 +26,7 @@ export const indexes = {
+     "module/package-reaching",
+     "module/property-carrying",
+     "module/index-answering",
++    "module/tree-reading",
+     "text-property/index-name",
+   ],
+   invariants: [
+diff --git a/pages/indexes/indexing/indexing.module.ts b/pages/indexes/indexing/indexing.module.ts
+index cc81cdfbc1e5d36e61d77fc219942362ed3fcfb2..a51a224b683021b90c59933c4028ba0b1a937bed 100644
+--- a/pages/indexes/indexing/indexing.module.ts
++++ b/pages/indexes/indexing/indexing.module.ts
+@@ -34,10 +34,6 @@ export const indexing = {
+       statement:
+         "An edge for a specifier naming a package is filed from the manifests the pages state.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "Every tree read here is read by one rule.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A body a file property holds is never loaded.",
 diff --git a/pages/indexes/tree-reading/tree-reading.module.code.ts b/pages/indexes/tree-reading/tree-reading.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..10060b25066564d7dd1fec1c206c885316aca451
