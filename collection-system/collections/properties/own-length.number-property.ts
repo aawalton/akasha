@@ -12,7 +12,8 @@ export const ownLength = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A length is the collection's own rather than the sum of the parts it holds.",
+      statement:
+        "A length is the collection's own rather than the sum of the parts that collection holds.",
     },
   ],
 } as const satisfies NumberProperty
