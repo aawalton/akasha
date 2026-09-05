@@ -56,3 +56,29 @@ index 034fc3932065fe38b1be50038862f0233b714ef5..40bb0ca8ee60247b96f4f77ead256f4e
      },
      {
        invariantKind: "departure",
+diff --git a/commands/measure/claude-account-costing/claude-account-costing.module.ts b/commands/measure/claude-account-costing/claude-account-costing.module.ts
+index 6c54919e73603cb84644072ff555f4035aad3b6d..f2eb7a194ce4cad8779598f1fcb5fd4018712ba2 100644
+--- a/commands/measure/claude-account-costing/claude-account-costing.module.ts
++++ b/commands/measure/claude-account-costing/claude-account-costing.module.ts
+@@ -27,7 +27,7 @@ export const claudeAccountCosting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A model this holds no price for is named rather than counted at nothing.",
++      statement: "A model this module holds no price for is named rather than counted at nothing.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/commands/refactor/refactor.command.ts b/commands/refactor/refactor.command.ts
+index f113872fb56985b1273972415776fe1911ee0eed..eb43944539056a61523e90cb8965958be7d0a545 100644
+--- a/commands/refactor/refactor.command.ts
++++ b/commands/refactor/refactor.command.ts
+@@ -78,7 +78,7 @@ export const refactor = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An act this does not carry is refused with the ones it does.",
++      statement: "An act this command does not carry is refused with the ones it does.",
+     },
+     {
+       invariantKind: "departure",
