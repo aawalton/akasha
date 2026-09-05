@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/alan/relating/relationships/relationship.page-type.ts b/alan/relating/relationships/relationship.page-type.ts
+index 49716b823c7daef696ac92642ef8759001ae9391..63e877d1b4c6b4b5adc5638de7f9c126cc4723db 100644
+--- a/alan/relating/relationships/relationship.page-type.ts
++++ b/alan/relating/relationships/relationship.page-type.ts
+@@ -93,8 +93,7 @@ export const relationship = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Four ratings sit apart: what this person changes, how much Alan wants them, how connected they already are, and what he means to keep putting in.",
++      statement: "Four ratings sit apart: impact, interest, connection, and commitment.",
+     },
+     {
+       invariantKind: "departure",
