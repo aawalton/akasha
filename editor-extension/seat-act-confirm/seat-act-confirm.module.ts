@@ -25,7 +25,7 @@ export const seatActConfirm = {
     },
     {
       invariantKind: "departure",
-      statement: "A reset says what is lost is the agent rather than the turn.",
+      statement: "A reset says the agent is lost rather than the turn.",
     },
     {
       invariantKind: "absence",
