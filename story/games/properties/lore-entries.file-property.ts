@@ -8,10 +8,4 @@ export const loreEntries = {
   slug: "lore-entries",
   propertySlug: "lore-entries",
   definition: "what a game has settled as true in its world",
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "One row is one json object on one line.",
-    },
-  ],
 } as const satisfies FileProperty
