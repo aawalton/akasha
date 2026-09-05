@@ -26,8 +26,11 @@ export const testStepLoading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A typed test file is one ending in a known kind, and every test file is read apart from the typed ones.",
+      statement: "A typed test file is one ending in a known kind.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every test file apart from the typed ones is read.",
     },
   ],
 } as const satisfies Module
