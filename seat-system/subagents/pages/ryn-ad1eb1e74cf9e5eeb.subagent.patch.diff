@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/commands/edit/edit.command.ts b/commands/edit/edit.command.ts
+index 0df2eacfb10b2b99bf0359d1b8be4e2bd3d76260..dac835af06c345da02473198458eb7ec119f5be1 100644
+--- a/commands/edit/edit.command.ts
++++ b/commands/edit/edit.command.ts
+@@ -133,7 +133,8 @@ export const edit = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A caller states what a passage is and learns whether it was still that.",
++      statement:
++        "A caller states what a passage is and learns whether that passage was still that.",
+     },
+   ],
+ } as const satisfies Command
