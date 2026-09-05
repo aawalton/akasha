@@ -61,7 +61,7 @@ export const deployWebPuttingUp = {
     {
       invariantKind: "departure",
       statement:
-        "A value the build needs is reported by its name rather than by what the value holds.",
+        "A value the build needs is reported by its name rather than by the text the value holds.",
     },
     {
       invariantKind: "departure",
