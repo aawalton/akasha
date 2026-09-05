@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-lib-character-knowledge/temper-lib-character-knowledge.eso-addon.ts b/temper/temper-lib-character-knowledge/temper-lib-character-knowledge.eso-addon.ts
+index e15974996de21d13c7e10284ddebdcc72df49c62..392096977e5648d6a2aa3c6c2bcdee286a4106e1 100644
+--- a/temper/temper-lib-character-knowledge/temper-lib-character-knowledge.eso-addon.ts
++++ b/temper/temper-lib-character-knowledge/temper-lib-character-knowledge.eso-addon.ts
+@@ -57,7 +57,7 @@ export const temperLibCharacterKnowledge = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What one character knows is kept as a bitfield over the whole item table.",
++      statement: "One character's knowledge is kept as a bitfield over the whole item table.",
+     },
+     {
+       invariantKind: "departure",
