@@ -40,7 +40,7 @@ export const inferenceMusic = {
     },
     {
       invariantKind: "departure",
-      statement: "The render is submitted as a task and polled until it finishes.",
+      statement: "The render is submitted as a task and polled until that task finishes.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +52,7 @@ export const inferenceMusic = {
     },
     {
       invariantKind: "departure",
-      statement: "The audio is written where the caller named it and nowhere else.",
+      statement: "The audio is written where the caller named that audio and nowhere else.",
     },
     {
       invariantKind: "departure",
