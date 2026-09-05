@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/credential/monarch-credential.module.ts b/alan/harness/monarch/credential/monarch-credential.module.ts
+index 68b09cf088c0487858e6b09c78423fb184dca89d..6c33d23ad939aa3dfa16b84ff97f4cc5c150081e 100644
+--- a/alan/harness/monarch/credential/monarch-credential.module.ts
++++ b/alan/harness/monarch/credential/monarch-credential.module.ts
+@@ -24,7 +24,7 @@ export const monarchCredential = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The headers are frozen, so what is handed out cannot be altered by whoever holds those headers.",
++        "The headers are frozen, so the headers handed out cannot be altered by their holder.",
+     },
+     {
+       invariantKind: "departure",
