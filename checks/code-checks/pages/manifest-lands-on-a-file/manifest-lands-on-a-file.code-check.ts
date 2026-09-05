@@ -23,7 +23,7 @@ export const manifestLandsOnAFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A file moving away from under a way in is what this check catches.",
+      statement: "This check catches a file moving away from under a way in.",
     },
     {
       invariantKind: "departure",
