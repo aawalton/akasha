@@ -265,3 +265,23 @@ index 6d5c2f28234e05b516fe42c4c4b52bf686018182..dbe4e010ef0e1fabbd67dba78bf53522
  test("a file is beside a property naming it where a page carrying it sits in the file's folder", () => {
    expect(heldBeside("bun.lock", [NAMING], saidTrue, carryingAt(OWNER))).toBe(true)
  })
+diff --git a/pages/indexes/property-carrying/property-carrying.module.ts b/pages/indexes/property-carrying/property-carrying.module.ts
+index 6a6358e7d1e8157f1f4eda3b80a75b28b0549888..1a83367b65ab37ceb0b2094f2d03dba9d50d330a 100644
+--- a/pages/indexes/property-carrying/property-carrying.module.ts
++++ b/pages/indexes/property-carrying/property-carrying.module.ts
+@@ -77,6 +77,15 @@ export const propertyCarrying = {
+       invariantKind: "departure",
+       statement: "Which properties naming a file are meant is the caller's to say.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "Whether a machine writes the file at a path is answered here rather than by each caller.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An index that cannot answer that is a file no machine writes.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "No page body is read.",
