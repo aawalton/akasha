@@ -18,7 +18,7 @@ const SLUG = "slug"
 
 const ID = "id"
 
-const REACHES: readonly string[] = ["part-of", "page-type", "always"]
+const REACHES: readonly string[] = ["part-of", "page-type", "page", "always"]
 
 const NO_REACH = "none"
 

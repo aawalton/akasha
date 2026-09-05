@@ -116,7 +116,7 @@ function scopesFor(
   pageTypeSlug: string,
   partOf: PartOf
 ): readonly string[] {
-  if (reach === ALWAYS) return [PAGE]
+  if (reach === ALWAYS || reach === PAGE) return [PAGE]
   if (reach === PAGE_TYPE) return [pageTypeSlug]
   if (reach === PART_OF) return partOf(value)
   throw new Error(`\`${reach}\` is no reach a page is filed under`)
