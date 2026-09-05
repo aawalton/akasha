@@ -47,7 +47,8 @@ export const folderClearing = {
     },
     {
       invariantKind: "departure",
-      statement: "One rule answers what a change would empty and what a change did empty.",
+      statement:
+        "One rule answers the folders a change would empty and the folders a change did empty.",
     },
     {
       invariantKind: "departure",
