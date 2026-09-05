@@ -1343,3 +1343,11 @@ index 602811c39842c46ec999fcb057e5cb7f5aeb51c9..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-lib-slash-commander
 \ No newline at end of file
+diff --git a/temper/temper-lib-table-functions/temper-lib-table-functions b/temper/temper-lib-table-functions/temper-lib-table-functions
+deleted file mode 120000
+index b59c8dcd16f5b56c5d916dbc1aa32ae2205ea445..0000000000000000000000000000000000000000
+--- a/temper/temper-lib-table-functions/temper-lib-table-functions
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-lib-table-functions
+\ No newline at end of file
