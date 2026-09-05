@@ -1,0 +1,13 @@
+diff --git a/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.code.ts b/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.code.ts
+index 8a2efcf32297ac3aacbc554f1b26be37a094f12c..cc4360018b336048b3d5f0edce1cede9c43bf9e7 100644
+--- a/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.code.ts
++++ b/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.code.ts
+@@ -33,7 +33,7 @@ export function sameRow(one: Row, two: Row | undefined): boolean {
+ 
+ export function sameRows(one: readonly Row[], two: readonly Row[]): boolean {
+   if (one.length !== two.length) return false
+-  return true
++  return one.every((row, at) => sameRow(row, two[at]))
+ }
+ 
+ export function valuesFor(wanted: HeldRule, was: HeldRule | undefined): Record<string, unknown> {
