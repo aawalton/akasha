@@ -1,14 +1,19 @@
 runsWarrants: false
 diff --git a/command-system/fault-saying/fault-saying.module.ts b/command-system/fault-saying/fault-saying.module.ts
-index 86c03a4af9cf2e957400de23cd3e34086d43531c..87f77ca1b0564b174dc598444fc3e10d9d4b2615 100644
+index 86c03a4af9cf2e957400de23cd3e34086d43531c..7f942099060bd401be8778a783a06470271a76d8 100644
 --- a/command-system/fault-saying/fault-saying.module.ts
 +++ b/command-system/fault-saying/fault-saying.module.ts
-@@ -10,7 +10,7 @@ export const faultSaying = {
+@@ -10,11 +10,11 @@ export const faultSaying = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "What is thrown is read for a message.",
 +      statement: "A thrown thing is read for a message.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is thrown is made to speak even where what is thrown is no Error.",
++      statement: "A thrown thing is made to speak even where that thing is no Error.",
      },
      {
        invariantKind: "departure",
