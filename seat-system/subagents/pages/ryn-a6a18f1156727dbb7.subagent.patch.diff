@@ -61,6 +61,21 @@ index f396dc328ab8359587c95f1c1ec0a59a29908cb9..693d8d6e3f4c8eb23f8c7d72ee4f504f
      {
        invariantKind: "departure",
        statement: "A body read from a file is carried whole.",
+diff --git a/pages/computed-properties/computed-property.page-type.ts b/pages/computed-properties/computed-property.page-type.ts
+index 6db111c24b07946eeef8f14c3c4dd17c2f9e1965..1717dfc43d2870d75dcd9cecbc590e05095c70e0 100644
+--- a/pages/computed-properties/computed-property.page-type.ts
++++ b/pages/computed-properties/computed-property.page-type.ts
+@@ -63,10 +63,6 @@ export const computedProperty = {
+       invariantKind: "departure",
+       statement: "A query may answer with a computed property's key.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A calculation reading a refused calculation is refused too.",
+-    },
+ 
+     {
+       invariantKind: "departure",
 diff --git a/temper/temper-character-skills/character-skills-from-pages/character-skills-from-pages.module.ts b/temper/temper-character-skills/character-skills-from-pages/character-skills-from-pages.module.ts
 index 15fd8f43881e0aa6119c7ba9bd77ba63d15804b3..c6af13ff373cbe1dffd46bde33b826f221926748 100644
 --- a/temper/temper-character-skills/character-skills-from-pages/character-skills-from-pages.module.ts
