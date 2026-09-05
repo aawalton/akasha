@@ -177,14 +177,6 @@ function judgedOne(page: SubagentPage, seen: Seen): Judged {
   // THE ONE THING A TRANSCRIPT MAY DO. Every branch below this one can reach STALE, so the
   // transcript is asked before them and answers working or says nothing at all. A page whose own id
   // is empty is a page no transcript entry could name, and it falls through untouched.
-  if (seen.runningOwn.has(page.own)) {
-    return {
-      page,
-      verdict: WORKING,
-      pids,
-      why: "its seat's transcript names it as a subagent that has not returned",
-    }
-  }
   if (page.agentId === "" || page.seatId === "") {
     return {
       page,
