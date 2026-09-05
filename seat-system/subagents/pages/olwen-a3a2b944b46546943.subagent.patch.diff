@@ -1308,6 +1308,27 @@ index 68c9270c699a96eb8ad4bde4698183df5afa27cb..b4302b2164080726c620561f813debf4
      "module/tracking-shape",
      "module/akasha-day",
      "module/tracking-keys",
+diff --git a/alan/tracking/daily/tracking-resolve/tracking-resolve.module.code.ts b/alan/tracking/daily/tracking-resolve/tracking-resolve.module.code.ts
+index aafd807cebd5f18969de80247b6c4ee565cd1f28..ca5f1d66e1ff237608ae2c8b6a5073067b605d7e 100644
+--- a/alan/tracking/daily/tracking-resolve/tracking-resolve.module.code.ts
++++ b/alan/tracking/daily/tracking-resolve/tracking-resolve.module.code.ts
+@@ -1,13 +1,12 @@
+ import { inputError, operationalError } from "@akasha/errors-core/exit-code"
+ import type { Page, PageAccessClient } from "../day-narrow-types/day-narrow-types.module.code.ts"
++import { landDayPage } from "../day-place/day-place.module.code.ts"
++import { dayByDate, dayById } from "../day-reading/day-reading.module.code.ts"
+ import {
+-  dayByDate,
+-  dayById,
+-  landDayPage,
+   openSession,
+   sessionsBefore,
+   sessionsOfDay,
+-} from "../day-place/day-place.module.code.ts"
++} from "../day-stretches/day-stretches.module.code.ts"
+ import { displayTitle, fieldStr } from "../tracking-format/tracking-format.module.code.ts"
+ 
+ const PRIOR_SCAN_LIMIT = 5
 diff --git a/alan/tracking/daily/write-daily-points/write-daily-points.module.code.ts b/alan/tracking/daily/write-daily-points/write-daily-points.module.code.ts
 index 2321acb8d3f9d7176eed744981fd0b882e01c57c..db2926a547f28a2791fc0b040cc011466a7ec27a 100644
 --- a/alan/tracking/daily/write-daily-points/write-daily-points.module.code.ts
