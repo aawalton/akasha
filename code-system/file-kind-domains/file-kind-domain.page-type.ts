@@ -18,7 +18,7 @@ export const fileKindDomain = {
     },
     {
       invariantKind: "departure",
-      statement: "A kind is told from a file's name rather than from what the file holds.",
+      statement: "A kind is told from a file's name rather than from the bytes the file holds.",
     },
     {
       invariantKind: "gap",
