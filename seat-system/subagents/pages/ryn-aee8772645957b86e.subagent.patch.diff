@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-commands/inventory-plan-capabilities/inventory-plan-capabilities.module.ts b/temper/temper-commands/inventory-plan-capabilities/inventory-plan-capabilities.module.ts
+index dde0cfbcb7264a8fc6f7532cfa7c7fd1c89978c1..1b3b49ab61fae8dcecdd15b479fbc8fd8ea93970 100644
+--- a/temper/temper-commands/inventory-plan-capabilities/inventory-plan-capabilities.module.ts
++++ b/temper/temper-commands/inventory-plan-capabilities/inventory-plan-capabilities.module.ts
+@@ -14,7 +14,7 @@ export const inventoryPlanCapabilities = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Each part is handed over on its own so a run may take only what it needs.",
++      statement: "Each part is handed over on its own so a run may take only what that run needs.",
+     },
+     {
+       invariantKind: "absence",
