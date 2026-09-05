@@ -18,8 +18,7 @@ export const monarchRuleDescribe = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A clause excluding several values is joined with `and`, because excluding several excludes every one.",
+      statement: "A clause excluding several values is joined with `and`.",
     },
     {
       invariantKind: "departure",
