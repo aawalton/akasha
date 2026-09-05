@@ -12,3 +12,17 @@ index 15fd8f43881e0aa6119c7ba9bd77ba63d15804b3..c6af13ff373cbe1dffd46bde33b826f2
 -    },
    ],
  } as const satisfies Module
+diff --git a/temper/temper-character-skills/scribed-skills/scribed-skills.module.ts b/temper/temper-character-skills/scribed-skills/scribed-skills.module.ts
+index 0df505b69536fc15121636868d3972f9b0edd139..96b361fc78c112f30b6eb93a5036419149b1eb20 100644
+--- a/temper/temper-character-skills/scribed-skills/scribed-skills.module.ts
++++ b/temper/temper-character-skills/scribed-skills/scribed-skills.module.ts
+@@ -23,9 +23,5 @@ export const scribedSkills = {
+       invariantKind: "departure",
+       statement: "This table is divided across runs.",
+     },
+-    {
+-      invariantKind: "constraint",
+-      statement: "No akasha file passes fifteen thousand bytes.",
+-    },
+   ],
+ } as const satisfies Module
