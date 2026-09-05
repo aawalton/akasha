@@ -40,7 +40,7 @@ export const fileImport = {
     },
     {
       invariantKind: "absence",
-      statement: "The index of what imports a path is not read here.",
+      statement: "The index of the files importing a path is not read here.",
     },
   ],
 } as const satisfies ContextWarrant
