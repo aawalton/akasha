@@ -85,6 +85,10 @@ export const folderShape = {
       statement: "Every subfolder is a folder of its own.",
     },
     {
+      invariantKind: "absence",
+      statement: "The files a part holds are judged where that part is judged.",
+    },
+    {
       invariantKind: "departure",
       statement: "A shape reads the folders sitting directly under the folder that shape judges.",
     },

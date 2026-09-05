@@ -29,6 +29,10 @@ export const inventoryRuleCalling = {
     },
     {
       invariantKind: "departure",
+      statement: "A field the call names nothing for is left as that field was.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A rule is named by its id rather than by its place in the list.",
     },
     {
