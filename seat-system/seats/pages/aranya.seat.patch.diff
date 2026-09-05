@@ -679,3 +679,11 @@ index 120970693e596069284250c134dc0e7b122b45f6..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-capture-writer
 \ No newline at end of file
+diff --git a/temper/temper-catalog-addon/temper-catalog-addon b/temper/temper-catalog-addon/temper-catalog-addon
+deleted file mode 120000
+index 507ecb34fa54cb3833630d266bdf5ec0db33d630..0000000000000000000000000000000000000000
+--- a/temper/temper-catalog-addon/temper-catalog-addon
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-catalog-addon
+\ No newline at end of file
