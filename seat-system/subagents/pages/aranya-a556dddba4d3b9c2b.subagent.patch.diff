@@ -68,7 +68,7 @@ index ed0dff829933eb31fba0f14536a2b8cf85ae8d83..4ec4e6aa06f74f0e1bef2ad240c866bd
    return answered(reading, under, asked, (held) => importersIn(held, path))
  }
 diff --git a/pages/indexes/reading/index-reading.module.test.ts b/pages/indexes/reading/index-reading.module.test.ts
-index 997019cbffe56476c881e884c44d90fe09d7a6b7..0b7610da5cdcee84fe7d386f4b1f31c9df49776d 100644
+index 997019cbffe56476c881e884c44d90fe09d7a6b7..86602ead247b02bdbf1fc02b0b69614fb88efb7d 100644
 --- a/pages/indexes/reading/index-reading.module.test.ts
 +++ b/pages/indexes/reading/index-reading.module.test.ts
 @@ -1,9 +1,5 @@
@@ -109,6 +109,91 @@ index 997019cbffe56476c881e884c44d90fe09d7a6b7..0b7610da5cdcee84fe7d386f4b1f31c9
  test("a path the index carries is answered with the page carrying it", () => {
    const root = rootAt()
    pathFiled(root, "akasha/a.module.code.ts", [{ path: "akasha/a.module.ts", id: A }])
+@@ -266,77 +241,30 @@ test("a bare slug two page types carry is refused and must name its page type",
+ })
+ 
+ test("a path the index carries edges for is answered with every file importing it", () => {
+-  const root = stampedAt()
++  const root = rootAt()
+   importFiled(root, "akasha/a.module.code.ts", [
+     { path: "akasha/two.module.code.ts" },
+     { path: "akasha/one.module.code.ts" },
+   ])
+ 
+-  expect(importersOf(root, "akasha/a.module.code.ts", readingIn(root))).toEqual([
++  expect(importersOf("akasha/a.module.code.ts", readingIn(root))).toEqual([
+     "akasha/one.module.code.ts",
+     "akasha/two.module.code.ts",
+   ])
+ })
+ 
+ test("a path nothing imports is answered with nothing rather than by throwing", () => {
+-  const root = stampedAt()
++  const root = rootAt()
+   importFiled(root, "akasha/a.module.code.ts", [{ path: "akasha/one.module.code.ts" }])
+ 
+-  expect(importersOf(root, "akasha/nowhere.module.code.ts", readingIn(root))).toEqual([])
++  expect(importersOf("akasha/nowhere.module.code.ts", readingIn(root))).toEqual([])
+ })
+ 
+ test("what imports a file is refused when the import index is not there, no folder being no answer", () => {
+-  const root = stampedAt()
+-
+-  expect(() => importersOf(root, "akasha/a.module.code.ts", readingIn(root))).toThrow(
+-    /import\/path/
+-  )
+-})
+-
+-test("what imports a file is refused when the index names no commit", () => {
+-  const root = committedAt()
+-  importFiled(root, "akasha/a.module.code.ts", [{ path: "akasha/one.module.code.ts" }])
+-
+-  expect(() => importersOf(root, "akasha/a.module.code.ts", readingIn(root))).toThrow(
+-    /names no commit/
+-  )
+-})
+-
+-test("what imports a file is refused when a commit the index never saw stands", () => {
+-  const root = stampedAt()
+-  importFiled(root, "akasha/a.module.code.ts", [{ path: "akasha/one.module.code.ts" }])
+-  mkdirSync(join(root, "akasha"), { recursive: true })
+-  writeFileSync(join(root, "akasha", "late.ts"), "export const late = 1\n")
+-  gitIn(root, ["add", "--", "akasha/late.ts"])
+-  gitIn(root, ["commit", "--quiet", "-m", "late", "--", "akasha/late.ts"])
+-
+-  expect(() => importersOf(root, "akasha/a.module.code.ts", readingIn(root))).toThrow(
+-    /akasha\/late\.ts/
+-  )
+-})
+-
+-test("a caller filing a change reads those importers though the index never saw HEAD", () => {
+-  const root = stampedAt()
+-  importFiled(root, "akasha/a.module.code.ts", [{ path: "akasha/one.module.code.ts" }])
+-  mkdirSync(join(root, "akasha"), { recursive: true })
+-  writeFileSync(join(root, "akasha", "late.ts"), "export const late = 1\n")
+-  gitIn(root, ["add", "--", "akasha/late.ts"])
+-  gitIn(root, ["commit", "--quiet", "-m", "late", "--", "akasha/late.ts"])
+-
+-  expect(() => importersOf(root, "akasha/a.module.code.ts", readingIn(root))).toThrow(
+-    /akasha\/late\.ts/
+-  )
+-  expect(importersOf(null, "akasha/a.module.code.ts", readingIn(root))).toEqual([
+-    "akasha/one.module.code.ts",
+-  ])
+-})
+-
+-test("a caller filing a change is refused all the same where the import index is not there", () => {
+-  const root = stampedAt()
++  const root = rootAt()
++  nothingFiled(root)
+ 
+-  expect(() => importersOf(null, "akasha/a.module.code.ts", readingIn(root))).toThrow(
+-    /import\/path/
+-  )
++  expect(() => importersOf("akasha/a.module.code.ts", readingIn(root))).toThrow(/import\/path/)
+ })
+ 
+ test("an index's own place is answered under the index root", () => {
 diff --git a/pages/shadow/shadow.module.code.ts b/pages/shadow/shadow.module.code.ts
 index 76d21dab0f56cfc20bd9573be8913ce13af71825..ea966ba98ee2011b50b18b7f587dcbc43f09e0ff 100644
 --- a/pages/shadow/shadow.module.code.ts
