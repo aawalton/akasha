@@ -35,7 +35,7 @@ export const sampleUpsert = {
     },
     {
       invariantKind: "departure",
-      statement: "A write is refused where the rows file no longer holds what was read.",
+      statement: "A write is refused where the rows file no longer holds the rows read.",
     },
     {
       invariantKind: "departure",
