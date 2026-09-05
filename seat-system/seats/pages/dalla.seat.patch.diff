@@ -1,0 +1,204 @@
+diff --git a/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.code.ts b/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..be09656e00895bfd5ee55c4cc17e81f07fb11267
+--- /dev/null
++++ b/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.code.ts
+@@ -0,0 +1,93 @@
++import {
++  boundAs,
++  exportsNamed,
++  reachedFrom,
++  readingOf,
++  referencesOf,
++  typed,
++  typingOver,
++} from "@akasha/code-system/code-typing"
++import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
++
++const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/
++
++const BESIDE = [".code.ts", ".code.tsx", ".test.ts", ".test.tsx", ".test-fixtures.ts"]
++
++export type Asked = {
++  readonly at: string
++  readonly of: string
++  readonly to: string
++}
++
++export type Renamed = {
++  readonly bodies: ReadonlyMap<string, string> | null
++  readonly refused: string | null
++}
++
++type Spot = {
++  readonly start: number
++  readonly end: number
++  readonly put: string
++}
++
++function refusing(why: string): Renamed {
++  return { bodies: null, refused: why }
++}
++
++function besideAPage(at: string): boolean {
++  return BESIDE.some((one) => at.endsWith(one))
++}
++
++function whyNot(given: Asked): string | null {
++  if (!typed(given.at)) return `\`${given.at}\` names no TypeScript body`
++  if (!besideAPage(given.at)) return `\`${given.at}\` is a page, and a page's export is its slug`
++  if (!NAMED.test(given.of)) return `\`${given.of}\` is no name a body carries`
++  if (!NAMED.test(given.to)) return `\`${given.to}\` is no name a body carries`
++  if (given.of === given.to) return `\`${given.to}\` is the name it already carries`
++  return null
++}
++
++export function renameExport(
++  root: string,
++  given: Asked,
++  textOf: (path: string) => string | null
++): Renamed {
++  const why = whyNot(given)
++  if (why !== null) return refusing(why)
++  const reading = importingOf(root, new Map([[given.at, given.at]]))
++  if ("unread" in reading) return refusing(reading.unread)
++  const over = [given.at, ...reading.importers]
++  const typing = typingOver(root, over, readingOf(root, textOf))
++  const declared = new Set(exportsNamed(typing, given.at, given.of))
++  if (declared.size === 0) return refusing(`\`${given.at}\` exports no \`${given.of}\``)
++  const held = new Map<string, Spot[]>()
++  const seen = new Set<string>()
++  for (const found of referencesOf(typing, root, declared)) {
++    const spot = `${found.path}:${found.start}`
++    if (seen.has(spot)) continue
++    seen.add(spot)
++    const at = held.get(found.path) ?? []
++    at.push({ start: found.start, end: found.end, put: boundAs(found, given.of, given.to) })
++    held.set(found.path, at)
++  }
++  if (held.size === 0)
++    return refusing(`nothing names \`${given.of}\`, so there is nothing to spell`)
++  for (const path of held.keys()) {
++    const source = typing.sourceAt(path)
++    if (source === null) return refusing(`\`${path}\` would change and could not be read`)
++    if (reachedFrom(typing, source, given.to).length > 0) {
++      return refusing(`\`${path}\` already reaches a \`${given.to}\``)
++    }
++  }
++  const bodies = new Map<string, string>()
++  for (const [path, spots] of held) {
++    const text = textOf(path)
++    if (text === null) return refusing(`\`${path}\` would change and could not be read`)
++    let body = text
++    for (const one of [...spots].sort((here, there) => there.start - here.start)) {
++      body = body.slice(0, one.start) + one.put + body.slice(one.end)
++    }
++    bodies.set(path, body)
++  }
++  return { bodies, refused: null }
++}
+diff --git a/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.test.ts b/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e653c5c28952d97dbf5741ffa6728cffb9e7caa2
+--- /dev/null
++++ b/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.test.ts
+@@ -0,0 +1,47 @@
++import { afterAll, expect, test } from "bun:test"
++import { scratchWorld } from "../../../../command-system/scratching/scratching.module.code.ts"
++import { renameExport } from "./rename-export.atomic-change.code.ts"
++
++const scratch = scratchWorld()
++
++afterAll(scratch.sweep)
++
++const CODE = "akasha/one/held/held.module.code.ts"
++
++const NOTHING = (): null => null
++
++function whyOf(at: string, of: string, to: string): string {
++  const said = renameExport(scratch.rootFor("rename-export-"), { at, of, to }, NOTHING)
++  expect(said.bodies).toBe(null)
++  return said.refused ?? ""
++}
++
++test("a path that is no TypeScript body is refused", () => {
++  expect(whyOf("akasha/one/held/held.md", "one", "two")).toBe(
++    "`akasha/one/held/held.md` names no TypeScript body"
++  )
++})
++
++test("a page is refused, since a page's export is its slug", () => {
++  expect(whyOf("akasha/one/held/held.module.ts", "held", "kept")).toBe(
++    "`akasha/one/held/held.module.ts` is a page, and a page's export is its slug"
++  )
++})
++
++test("a test file beside a page is renamed as its code is", () => {
++  expect(whyOf("akasha/one/held/held.module.test.ts", "one", "two")).not.toContain("is a page")
++})
++
++test("a name no body could carry is refused", () => {
++  expect(whyOf(CODE, "one", "2two")).toBe("`2two` is no name a body carries")
++  expect(whyOf(CODE, "1one", "two")).toBe("`1one` is no name a body carries")
++})
++
++test("the name it already carries is refused", () => {
++  expect(whyOf(CODE, "one", "one")).toBe("`one` is the name it already carries")
++})
++
++test("an index that cannot answer refuses rather than narrowing the reach", () => {
++  const said = whyOf(CODE, "one", "two")
++  expect(said).toContain("so none were repointed")
++})
+diff --git a/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts b/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..61c9da4235ccb4714f9a09495019ceba5f98467a
+--- /dev/null
++++ b/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts
+@@ -0,0 +1,46 @@
++import type { AtomicChange } from "../../atomic-change.page-type.ts"
++
++export const renameExport = {
++  id: "01a07306-11a5-77c5-a8d6-6f609f0223b1",
++  pageTypeSlug: "atomic-change",
++  slug: "rename-export",
++  definition: "the change spelling one export and everything that names it anew",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "An export is spelled anew in a code file rather than in a page.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A page's export is its slug, and renaming that is a slug rename rather than this.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "Which files name the declaring file is asked of the index rather than walked for.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An index that cannot answer refuses the change rather than narrowing its reach.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A rename refuses where any file it would change already reaches the new name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A shorthand keeps its key and points its value at the new name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A name imported under another name is left as that name is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The bodies are answered rather than written, so the caller lands them as one.",
++    },
++  ],
++} as const satisfies AtomicChange
