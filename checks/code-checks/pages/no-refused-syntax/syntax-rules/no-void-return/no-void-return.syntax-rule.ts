@@ -98,7 +98,7 @@ export const noVoidReturn = {
     },
     {
       invariantKind: "departure",
-      statement: "It is no type at all.",
+      statement: "`void` used as an operator on an expression is no type at all.",
     },
     {
       invariantKind: "gap",
