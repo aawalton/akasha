@@ -33,7 +33,7 @@ export const tracking = {
     },
     {
       invariantKind: "departure",
-      statement: "What a call asks for is read by `write` and landed by `tracking-landing`.",
+      statement: "The change a call asks for is read by `write` and landed by `tracking-landing`.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +49,7 @@ export const tracking = {
     },
     {
       invariantKind: "departure",
-      statement: "Every check that judges a write judges what lands here.",
+      statement: "Every check that judges a write judges the change landed here.",
     },
     {
       invariantKind: "absence",
