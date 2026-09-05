@@ -24,7 +24,7 @@ export const claudeAccountMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "What an account has spent is read from what stands beside its page.",
+      statement: "What an account has spent is read from what sits beside its page.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +41,7 @@ export const claudeAccountMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "Accounts stand in the order their seven-day windows reset.",
+      statement: "Accounts sit in the order their seven-day windows reset.",
     },
     {
       invariantKind: "departure",

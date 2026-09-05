@@ -125,7 +125,7 @@ test("a seven-day window already past counts as the furthest away", () => {
   expect(aheadOf(ahead, past, NOW)).toBeLessThan(0)
 })
 
-test("accounts stand in the order their seven-day windows reset", () => {
+test("accounts sit in the order their seven-day windows reset", () => {
   const one = reading({ account: "one", sevenDayResetsAt: "2026-09-05T12:00:00.000Z" })
   const two = reading({ account: "two", sevenDayResetsAt: "2026-09-01T12:00:00.000Z" })
   const none = reading({ account: "none" })
@@ -171,7 +171,7 @@ test("an instant nothing states is no clock, and one that is no instant is no cl
   expect(instantOf("the day after")).toBeNull()
 })
 
-test("one line stands for each account, and the taken one is the marked one", () => {
+test("one line represents each account, and the taken one is the marked one", () => {
   const soon = reading({
     account: "soon",
     fiveHourPercentUsed: 5,

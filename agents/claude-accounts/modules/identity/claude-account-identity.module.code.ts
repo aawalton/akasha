@@ -86,7 +86,7 @@ export function sayFailedPin(args: {
         ? ""
         : ` The previous account's pacing and at-limit bookkeeping is already off the page, and clearing it again costs nothing.`
     return (
-      `${what}: the credential did not reach the page — ${args.why}. The credential still stands where it ` +
+      `${what}: the credential did not reach the page — ${args.why}. The credential still sits where it ` +
       `was issued and the page is pinned where it was, so the same push run again lands all of it.${alreadyCleared}`
     )
   }
@@ -212,7 +212,7 @@ export async function pinnedIn(
   try {
     const page = accountPathIn(reading, slug)
     if (page === null) {
-      return refused(`no page stands for \`${slug}\`, and a pin belongs to a page`)
+      return refused(`no page exists for \`${slug}\`, and a pin belongs to a page`)
     }
 
     if (given.previousUuid !== null) {

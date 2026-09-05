@@ -71,7 +71,7 @@ describe("shouldTriggerWindow", () => {
     expect(shouldTriggerWindow(usage, NOW)).toBe(true)
   })
 
-  test("a reset standing exactly at the moment asked about counts as passed", () => {
+  test("a reset at exactly the moment asked about counts as passed", () => {
     const usage = usageOf(isoAt(NOW), isoAt(NOW + HOUR_MS * 24))
     expect(shouldTriggerWindow(usage, NOW)).toBe(true)
   })
@@ -221,7 +221,7 @@ describe("retriedOn429", () => {
     expect(lines).toEqual([])
   })
 
-  test("a backoff handed in stands in for the one this module names", async () => {
+  test("a backoff handed in takes the place of the one this module names", async () => {
     const { waits, slept } = waitsRecorded()
     const { warned } = linesRecorded()
     let tries = 0

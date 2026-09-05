@@ -13,7 +13,7 @@ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roo
 // THE PAGE TYPE MOVING IN IS ONLY HALF OF WHY. `54ee772b64` took
 // `pages/page-type/claude-account.page-type.md` away, so `answer(roots, { pageType:
 // "claude-account" })` answers null here. But nothing the editor runs asks the local engine: the
-// router in `shared/pages-query/src/here.ts` sends a page type that does not stand here on to the
+// router in `shared/pages-query/src/here.ts` sends a page type that is not here on to the
 // store, and the store answers all eight accounts. What it cannot answer is what those two queries
 // reduce over. `effective-five-hour-percent-used` and `effective-seven-day-percent-used` were
 // derived properties declared in `pages/page-property-definition/claude-account-effective-*.md`,
@@ -22,7 +22,7 @@ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roo
 // null. Repointing the reader is the fix; teaching the old engine the page type would not be,
 // because the derivations went with it and the account pages are TypeScript besides.
 //
-// THE TWO EXPRESSIONS ALREADY STAND IN AKASHA, SO NOTHING IS RE-DERIVED HERE. `fiveHourSpent` and
+// THE TWO EXPRESSIONS ARE ALREADY IN AKASHA, SO NOTHING IS RE-DERIVED HERE. `fiveHourSpent` and
 // `sevenDaySpent` in `claude-account-measuring` carry exactly what the deleted definitions said:
 // a withdrawn subscription has spent all of both windows, and a five-hour window on an account
 // whose seven-day window is spent is spent too. `akasha measure claude-accounts` prints its
@@ -30,7 +30,7 @@ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roo
 //
 // WHAT IS SPENT IS OBSERVED RATHER THAN STATED, WHICH IS WHY THE STORE HAS NONE OF IT. Every
 // figure this reduces — both percentages and the disabled reason — is declared `uncommitted` on
-// the claude-account page type and stands in the file beside each account's page. Only what an
+// the claude-account page type and sits in the file beside each account's page. Only what an
 // account states is landed, so only what it states reaches the store. Anything reading these
 // numbers reads the checkout or reads nothing.
 
@@ -60,7 +60,7 @@ export function readFleetUsage(): FleetUsage {
   const readings: readonly Reading[] = readingsIn(rootFor(resolveRoots(), AKASHA))
   if (readings.length === 0) {
     throw new Error(
-      "no claude-account page stands in akasha, and every account holding a page is answered, " +
+      "no claude-account page exists in akasha, and every account holding a page is answered, " +
         "so a fleet of none is the pages going unread rather than a fleet with nothing spent"
     )
   }

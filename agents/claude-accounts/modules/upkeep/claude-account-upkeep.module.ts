@@ -22,7 +22,7 @@ export const claudeAccountUpkeep = {
     },
     {
       invariantKind: "departure",
-      statement: "No wait stands before the first account or after the last.",
+      statement: "There is no wait before the first account or after the last.",
     },
     {
       invariantKind: "departure",

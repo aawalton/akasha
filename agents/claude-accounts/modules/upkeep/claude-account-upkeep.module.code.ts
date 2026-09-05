@@ -325,7 +325,7 @@ export async function upkeepPassIn(args: {
   const every = inAccountOrder(everyAccountSlugIn(root).map((slug) => ({ slug })))
   if (every.length === 0) {
     throw new Error(
-      `no claude-account page stands under ${root}, and renewing a token happens here and ` +
+      `no claude-account page exists under ${root}, and renewing a token happens here and ` +
         "nowhere else, so a pass over none of them renews nothing in the whole fleet — " +
         "answering that as a done tick would read healthy while every token ages out"
     )
