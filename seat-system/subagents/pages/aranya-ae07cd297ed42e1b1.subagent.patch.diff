@@ -1,0 +1,16 @@
+diff --git a/infrastructure/telemetry/node-exporter-daemonset/node-exporter-daemonset.manifest.ts b/infrastructure/telemetry/node-exporter-daemonset/node-exporter-daemonset.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..63ecb6231a7a18fef18a31306e9bfdfd3a1fe022
+--- /dev/null
++++ b/infrastructure/telemetry/node-exporter-daemonset/node-exporter-daemonset.manifest.ts
+@@ -0,0 +1,10 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const nodeExporterDaemonset = {
++  id: "01a07390-ce05-777e-ac13-7b3f78051162",
++  pageTypeSlug: "manifest",
++  slug: "node-exporter-daemonset",
++  definition:
++    "the daemon set publishing each node's processor, memory, disk and network as metrics",
++  code: "ts",
++} as const satisfies Manifest
