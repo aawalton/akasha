@@ -17,7 +17,7 @@ export const upkeepCapacity = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is what every stretch of the day adds up to.",
+      statement: "The reading is the sum of every stretch of the day.",
     },
     {
       invariantKind: "departure",
