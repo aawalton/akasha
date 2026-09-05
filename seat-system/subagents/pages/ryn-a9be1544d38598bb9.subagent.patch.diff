@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/body-merging/body-merging.module.ts b/command-system/body-merging/body-merging.module.ts
+index 87bcad8f9b60c710eb76ec7c0f7428fe14bc256d..c2330945e9aa3121717fd7cf55d7b64c32190f4e 100644
+--- a/command-system/body-merging/body-merging.module.ts
++++ b/command-system/body-merging/body-merging.module.ts
+@@ -11,7 +11,7 @@ export const bodyMerging = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The body a change was built from is what a merge reads as its base.",
++      statement: "A merge reads the body a change was built from as its base.",
+     },
+     {
+       invariantKind: "departure",
