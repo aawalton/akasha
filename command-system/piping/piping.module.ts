@@ -59,6 +59,26 @@ export const piping = {
     },
     {
       invariantKind: "departure",
+      statement: "A payload names a run of its own on the line the payload opens with.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run of its own is the letters, digits and dashes after the opening run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every marker of that payload carries the run the payload named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A payload naming no run of its own is read by the three runs above.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line carrying a run the payload did not name is a line of the passage.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A passage is the bytes between its markers with its trailing newline included.",
     },
     {
@@ -71,7 +91,11 @@ export const piping = {
     },
     {
       invariantKind: "departure",
-      statement: "A line beginning with a marker run inside a passage is refused.",
+      statement: "A line beginning with the payload's own marker run inside a passage is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal says a run of its own may be named.",
     },
     {
       invariantKind: "departure",

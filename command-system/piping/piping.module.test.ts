@@ -145,6 +145,38 @@ test("a marker run inside a passage is refused, naming what to hand it in at", (
   const opened = "<<<<<<< old\n<<<<<<< held\n=======\ndelta\n>>>>>>> new\n"
   expect(refusalIn(opened)).toContain(INSTEAD)
   expect(refusalIn(opened)).toContain("line 2")
+  expect(refusalIn(opened)).toContain("name a run of your own")
   const closed = "<<<<<<< old\nalpha\n=======\n======= held\n>>>>>>> new\n"
   expect(refusalIn(closed)).toContain("line 4")
+})
+
+test("a payload names its own run on the line it opens with", () => {
+  const said = "<<<<<<<ZZ old\nalpha\n=======ZZ\ndelta\n>>>>>>>ZZ new\n"
+  expect(passagesOf(said)).toEqual([["alpha\n", "delta\n"]])
+})
+
+test("a run of its own carries a passage holding a bare marker line", () => {
+  const said = "<<<<<<<ZZ old\n=======\n=======ZZ\n>>>>>>> new\n>>>>>>>ZZ new\n"
+  expect(passagesOf(said)).toEqual([["=======\n", ">>>>>>> new\n"]])
+})
+
+test("a line of many equals is carried where a run of its own is named", () => {
+  const bar = "=".repeat(39)
+  const said = `<<<<<<<Q old\n${bar}\n=======Q\nalpha\n>>>>>>>Q new\n`
+  expect(passagesOf(said)).toEqual([[`${bar}\n`, "alpha\n"]])
+})
+
+test("a run named is refused all the same where a passage carries that very run", () => {
+  const said = "<<<<<<<ZZ old\n=======ZZ held\n=======ZZ\nalpha\n>>>>>>>ZZ new\n"
+  expect(refusalIn(said)).toContain("line 2")
+})
+
+test("a marked line is judged against the run the payload names", () => {
+  expect(markedLine("=======ZZ", "ZZ")).toBe(true)
+  expect(markedLine("=======", "ZZ")).toBe(false)
+  expect(markedLine("=======", "")).toBe(true)
+})
+
+test("a run named is carried into what a refusal says is missing", () => {
+  expect(refusalIn("<<<<<<<ZZ old\nalpha\n")).toContain("closed by no `=======ZZ`")
 })
