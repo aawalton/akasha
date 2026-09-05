@@ -211,7 +211,7 @@ export function renderSeries(root: string, spec: SeriesSpec): readonly SeriesPag
   return pages
 }
 
-export function runSlugsStanding(root: string, spec: SeriesSpec): readonly string[] {
+export function runSlugsThere(root: string, spec: SeriesSpec): readonly string[] {
   const at = resolve(root, spec.generatedDirRel)
   if (!existsSync(at)) return []
   const pattern = new RegExp(`^${spec.stem}-\\d+$`)
@@ -253,7 +253,7 @@ export function stageSeries(
   message: string
 ): Staged {
   const kept = new Set(pages.map((one) => one.slug))
-  const goneRels = runSlugsStanding(root, spec)
+  const goneRels = runSlugsThere(root, spec)
     .filter((slug) => !kept.has(slug))
     .map((slug) => pageRelOf(spec, slug))
 
