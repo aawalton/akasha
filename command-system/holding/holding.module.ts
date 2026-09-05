@@ -14,7 +14,7 @@ export const holding = {
     },
     {
       invariantKind: "departure",
-      statement: "Taking it is one create that fails if it is there.",
+      statement: "Taking the hold is one create that fails if the hold is there.",
     },
     {
       invariantKind: "departure",
