@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/persona-system/questions/properties/question-asked-by.relation-property.ts b/persona-system/questions/properties/question-asked-by.relation-property.ts
+index f36b4dd483bd9e38fdf0252a454c7a8f1ed2ff19..9c1bf611f1e6ba1b50566ca050791e6a79b34bd3 100644
+--- a/persona-system/questions/properties/question-asked-by.relation-property.ts
++++ b/persona-system/questions/properties/question-asked-by.relation-property.ts
+@@ -13,7 +13,8 @@ export const questionAskedBy = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A question is put by a persona rather than by the seat she was working from.",
++      statement:
++        "A question is put by a persona rather than by the seat that persona was working from.",
+     },
+     {
+       invariantKind: "departure",
