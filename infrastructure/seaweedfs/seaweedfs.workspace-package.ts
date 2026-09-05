@@ -9,6 +9,7 @@ export const seaweedfs = {
   partSlugs: [
     "manifest/seaweedfs-filer",
     "manifest/seaweedfs-master",
+    "manifest/seaweedfs-s3-gateway",
     "manifest/seaweedfs-volume",
     "module/seaweedfs-constants",
     "module/seaweedfs-namespace",
