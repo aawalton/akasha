@@ -1,0 +1,14 @@
+diff --git a/temper/temper-characters-capture-addon/character-capture-equipment-map/character-capture-equipment-map.module.ts b/temper/temper-characters-capture-addon/character-capture-equipment-map/character-capture-equipment-map.module.ts
+index 642d37f69587da386c73ff213dcdf0b6632e197e..9bd71e4f2af0a6df53f25e49bb921a45e410c93a 100644
+--- a/temper/temper-characters-capture-addon/character-capture-equipment-map/character-capture-equipment-map.module.ts
++++ b/temper/temper-characters-capture-addon/character-capture-equipment-map/character-capture-equipment-map.module.ts
+@@ -11,9 +11,5 @@ export const characterCaptureEquipmentMap = {
+       invariantKind: "constraint",
+       statement: "A place in this table is the number a saved build hash carries.",
+     },
+-    {
+-      invariantKind: "gap",
+-      statement: "An entry moved to another place misreads every build hash already saved.",
+-    },
+   ],
+ } as const satisfies Module
