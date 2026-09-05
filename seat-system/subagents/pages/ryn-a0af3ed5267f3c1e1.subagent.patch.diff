@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/k8s-synth/generated-file/generated-file.module.ts b/infrastructure/k8s-synth/generated-file/generated-file.module.ts
+index 39efb330b4e86a061def10881c6160e0601b3ded..503ac5a37642b9aecd755c8cb08d1da29c5ecae4 100644
+--- a/infrastructure/k8s-synth/generated-file/generated-file.module.ts
++++ b/infrastructure/k8s-synth/generated-file/generated-file.module.ts
+@@ -13,7 +13,7 @@ export const generatedFile = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file already holding what would be written is left alone.",
++      statement: "A file already holding the bytes that would be written is left alone.",
+     },
+   ],
+ } as const satisfies Module
