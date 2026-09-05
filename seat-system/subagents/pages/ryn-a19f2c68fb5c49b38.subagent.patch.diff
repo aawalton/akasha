@@ -1,0 +1,26 @@
+diff --git a/code-system/code-tokens/code-tokens.module.ts b/code-system/code-tokens/code-tokens.module.ts
+index bc3232fca359ea45177b18774b78045c39afb2cf..9c854575df47e0ac9adf7a703cfd2988ad1270a6 100644
+--- a/code-system/code-tokens/code-tokens.module.ts
++++ b/code-system/code-tokens/code-tokens.module.ts
+@@ -57,7 +57,7 @@ export const codeTokens = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "This reads a body without a parser where the tree already carries one.",
++      statement: "This module reads a body without a parser where the tree already carries one.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/command-system/committing/committing.module.ts b/command-system/committing/committing.module.ts
+index ec103a1165be62160681dc20d261680343a30cc1..74fcfe472be55cee9eb7d2bf513ac201be03fe1e 100644
+--- a/command-system/committing/committing.module.ts
++++ b/command-system/committing/committing.module.ts
+@@ -112,7 +112,7 @@ export const committing = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A caller has written what it asked for before this is reached.",
++      statement: "A caller has written what it asked for before this module is reached.",
+     },
+     {
+       invariantKind: "absence",
