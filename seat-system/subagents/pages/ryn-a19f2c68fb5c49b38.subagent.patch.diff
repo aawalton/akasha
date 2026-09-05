@@ -1,0 +1,26 @@
+diff --git a/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.ts b/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.ts
+index a91f78938dcb25c1af2b61cd3a1f5254ca7d1a8d..fac67083e3b1fd8dda80d4901f9dbe005af1971e 100644
+--- a/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.ts
++++ b/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.ts
+@@ -28,7 +28,7 @@ export const orphanSweeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A clean sweep says nothing, so every message this sends is drift.",
++      statement: "A clean sweep says nothing, so every message this module sends is drift.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/mobile-cli/mobile-cuts/properties/shell-sha.text-property.ts b/mobile-cli/mobile-cuts/properties/shell-sha.text-property.ts
+index ceb756280aa75ccca536abd76b9c7ba501e67948..986e040257e9f79b9731685cc9d4c32140d1c2ce 100644
+--- a/mobile-cli/mobile-cuts/properties/shell-sha.text-property.ts
++++ b/mobile-cli/mobile-cuts/properties/shell-sha.text-property.ts
+@@ -14,7 +14,7 @@ export const shellSha = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A cut built from no separate shell leaves this off rather than repeating its main sha.",
++        "A cut built from no separate shell leaves this property off rather than repeating its main sha.",
+     },
+   ],
+ } as const satisfies TextProperty
