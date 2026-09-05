@@ -30,7 +30,8 @@ export const akashaPageValues = {
     },
     {
       invariantKind: "departure",
-      statement: "What a page keeps outside the commit is put back before any value is read.",
+      statement:
+        "The values a page keeps outside the commit are put back before any value is read.",
     },
     {
       invariantKind: "departure",
