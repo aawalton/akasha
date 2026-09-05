@@ -1,5 +1,5 @@
 diff --git a/alan/harness/surplus/surplus-fall-ticking/surplus-fall-ticking.module.ts b/alan/harness/surplus/surplus-fall-ticking/surplus-fall-ticking.module.ts
-index 7511c2e417d836e55bb847e4447872a0f3c009b7..bb23b8d6d956ecfa4b7caa0900de2c440921acff 100644
+index 7511c2e417d836e55bb847e4447872a0f3c009b7..72ee07b9de3d0be83295b4d82c25dc7f4a8bbf50 100644
 --- a/alan/harness/surplus/surplus-fall-ticking/surplus-fall-ticking.module.ts
 +++ b/alan/harness/surplus/surplus-fall-ticking/surplus-fall-ticking.module.ts
 @@ -11,7 +11,8 @@ export const surplusFallTicking = {
@@ -12,3 +12,12 @@ index 7511c2e417d836e55bb847e4447872a0f3c009b7..bb23b8d6d956ecfa4b7caa0900de2c44
      },
      {
        invariantKind: "departure",
+@@ -45,7 +46,7 @@ export const surplusFallTicking = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A tick still working at the ceiling ends rather than letting a second begin beside it.",
++        "A tick still working at the ceiling ends rather than letting a second begin beside that tick.",
+     },
+     {
+       invariantKind: "constraint",
