@@ -1,3 +1,92 @@
+diff --git a/collection-system/collections/collection.page-type.ts b/collection-system/collections/collection.page-type.ts
+index 23eaecd75900020c781124e36d7eade4303b41e9..6eed1b0e6fe4bc5e802bfa3c64fcc5f3486d826c 100644
+--- a/collection-system/collections/collection.page-type.ts
++++ b/collection-system/collections/collection.page-type.ts
+@@ -2,19 +2,31 @@ import type { Page } from "@akasha/pages-system/page"
+ import type { PageType } from "@akasha/pages-system/page-type"
+ import type { CollectionAuthor } from "./properties/collection-author.text-property.ts"
+ import type { CollectionCompletedAt } from "./properties/collection-completed-at.instant-property.ts"
++import type { CollectionCompletion } from "./properties/collection-completion.computed-property.ts"
+ import type { CollectionDescription } from "./properties/collection-description.text-property.ts"
+ import type { CollectionPublishedAt } from "./properties/collection-published-at.one-of-property.ts"
+ import type { CollectionTags } from "./properties/collection-tags.text-property.ts"
+ import type { CollectionTypeSlug } from "./properties/collection-type-slug.relation-property.ts"
+ import type { Following } from "./properties/following.boolean-property.ts"
+ import type { OwnLength } from "./properties/own-length.number-property.ts"
++import type { OwnLengthInWords } from "./properties/own-length-in-words.computed-property.ts"
+ import type { OwnProgress } from "./properties/own-progress.number-property.ts"
++import type { OwnProgressInWords } from "./properties/own-progress-in-words.computed-property.ts"
++import type { OwnRemaining } from "./properties/own-remaining.computed-property.ts"
++import type { OwnRemainingInWords } from "./properties/own-remaining-in-words.computed-property.ts"
+ import type { PartOfSlugs } from "./properties/part-of-slugs.relation-property.ts"
+ import type { PartsLengthInWords } from "./properties/parts-length-in-words.number-property.ts"
+ import type { PartsProgressInWords } from "./properties/parts-progress-in-words.number-property.ts"
++import type { PartsRemainingInWords } from "./properties/parts-remaining-in-words.computed-property.ts"
+ import type { Position } from "./properties/position.number-property.ts"
+ import type { Rank } from "./properties/rank.rank-property.ts"
+ import type { Status } from "./properties/status.select-property.ts"
++import type { TotalLength } from "./properties/total-length.computed-property.ts"
++import type { TotalLengthInWords } from "./properties/total-length-in-words.computed-property.ts"
++import type { TotalProgress } from "./properties/total-progress.computed-property.ts"
++import type { TotalProgressInWords } from "./properties/total-progress-in-words.computed-property.ts"
++import type { TotalRemaining } from "./properties/total-remaining.computed-property.ts"
++import type { TotalRemainingInWords } from "./properties/total-remaining-in-words.computed-property.ts"
+ import type { UnitSlug } from "./properties/unit-slug.relation-property.ts"
+ import type { UnitWords } from "./properties/unit-words.number-property.ts"
+ 
+@@ -38,6 +50,21 @@ export type Collection = Page & {
+   collectionTypeSlug?: CollectionTypeSlug
+ }
+ 
++export type WorkedCollection = Collection & {
++  completion?: CollectionCompletion
++  ownLengthInWords?: OwnLengthInWords
++  ownProgressInWords?: OwnProgressInWords
++  ownRemaining?: OwnRemaining
++  ownRemainingInWords?: OwnRemainingInWords
++  partsRemainingInWords?: PartsRemainingInWords
++  totalLength?: TotalLength
++  totalLengthInWords?: TotalLengthInWords
++  totalProgress?: TotalProgress
++  totalProgressInWords?: TotalProgressInWords
++  totalRemaining?: TotalRemaining
++  totalRemainingInWords?: TotalRemainingInWords
++}
++
+ export const collection = {
+   id: "01a063de-2c60-7006-8395-50a12e499f8e",
+   pageTypeSlug: "page-type",
+@@ -47,18 +74,18 @@ export const collection = {
+   partSlugs: [
+     "boolean-property/following",
+     "calendar-date-property/published-day",
+-    "formula-property/collection-completion",
+-    "formula-property/own-length-in-words",
+-    "formula-property/own-progress-in-words",
+-    "formula-property/own-remaining",
+-    "formula-property/own-remaining-in-words",
+-    "formula-property/parts-remaining-in-words",
+-    "formula-property/total-length",
+-    "formula-property/total-length-in-words",
+-    "formula-property/total-progress",
+-    "formula-property/total-progress-in-words",
+-    "formula-property/total-remaining",
+-    "formula-property/total-remaining-in-words",
++    "computed-property/collection-completion",
++    "computed-property/own-length-in-words",
++    "computed-property/own-progress-in-words",
++    "computed-property/own-remaining",
++    "computed-property/own-remaining-in-words",
++    "computed-property/parts-remaining-in-words",
++    "computed-property/total-length",
++    "computed-property/total-length-in-words",
++    "computed-property/total-progress",
++    "computed-property/total-progress-in-words",
++    "computed-property/total-remaining",
++    "computed-property/total-remaining-in-words",
+     "instant-property/collection-completed-at",
+     "instant-property/published-at",
+     "number-property/own-length",
 diff --git a/collection-system/collections/properties/collection-completion.computed-property.code.ts b/collection-system/collections/properties/collection-completion.computed-property.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..f3e03d4086b9285c914b86b596cfc200867f95b6
