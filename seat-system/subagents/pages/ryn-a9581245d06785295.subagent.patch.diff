@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/seat-observation/idle-live-seat/idle-live-seat.list.ts b/seat-system/seat-observation/idle-live-seat/idle-live-seat.list.ts
+index ae6e62913cb777d4a0cb9f3c7159eff25cee4af6..e566a6600f78dcab67b19085cca07cfaf2214125 100644
+--- a/seat-system/seat-observation/idle-live-seat/idle-live-seat.list.ts
++++ b/seat-system/seat-observation/idle-live-seat/idle-live-seat.list.ts
+@@ -32,7 +32,8 @@ export const idleLiveSeat = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Whether a seat states an assignment says nothing about whether it is idle.",
++      statement:
++        "Whether a seat states an assignment says nothing about whether that seat is idle.",
+     },
+     {
+       invariantKind: "departure",
