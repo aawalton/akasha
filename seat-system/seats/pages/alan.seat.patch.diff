@@ -1,0 +1,13 @@
+diff --git a/seat-system/seat-launching/seat-launching.module.code.ts b/seat-system/seat-launching/seat-launching.module.code.ts
+index 2670541c5e22d4efcd113beffd0a6fc699c4eb73..424df506d23e98f806b083cb6bb2c9c645fdf6a9 100644
+--- a/seat-system/seat-launching/seat-launching.module.code.ts
++++ b/seat-system/seat-launching/seat-launching.module.code.ts
+@@ -8,6 +8,8 @@ export const PTY_PROXY_REL = "seat-system/pty-proxy/pty-proxy.module.code.ts"
+ 
+ export const SUPERVISOR_REL = "seat-system/run-supervisor/run-supervisor.module.code.ts"
+ 
++export const SEAT_RESUME_REL = "seat-system/seat-resume/seat-resume.module.code.ts"
++
+ export const SEAT_MODE_INTERACTIVE = "interactive"
+ 
+ export const SEAT_MODE_HEADLESS = "headless"
