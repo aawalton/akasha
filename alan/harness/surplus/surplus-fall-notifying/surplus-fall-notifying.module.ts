@@ -15,7 +15,7 @@ export const surplusFallNotifying = {
     {
       invariantKind: "departure",
       statement:
-        "Where the day opened is what Alan slept, placed on the readout's own scale, before anything the day costs has come off it.",
+        "Where the day opened is Alan's sleep on the readout's own scale, before the day's costs come off.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const surplusFallNotifying = {
     {
       invariantKind: "departure",
       statement:
-        "What was already said today is read back off the notifications already sent, each of which names its rung in its own source.",
+        "Rungs said today are read back off the notifications sent, each naming its rung in its own source.",
     },
     {
       invariantKind: "departure",
