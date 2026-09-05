@@ -252,10 +252,10 @@ index 3b78496f64cfa5166574e37019bb177cdb80eb0c..e9d6b34c99496cb885e124b3ad9bc961
    const root = await repo()
    drafting(root)
 diff --git a/commands/patch/patch.command.ts b/commands/patch/patch.command.ts
-index f4fc4c2f63bbdeaeb9f34f175cf7c272aa57f117..f6a7b38f172230288c86e8e83254e2dc590c307b 100644
+index f4fc4c2f63bbdeaeb9f34f175cf7c272aa57f117..70184493f645c39e57ceee6308688486905b6d3f 100644
 --- a/commands/patch/patch.command.ts
 +++ b/commands/patch/patch.command.ts
-@@ -10,7 +10,7 @@ export const patch = {
+@@ -10,10 +10,10 @@ export const patch = {
    changeKindSlug: "change-authored",
    taking: [
      { said: "apply", takes: "the act, which is to land the patch through the gate as one commit" },
@@ -263,4 +263,8 @@ index f4fc4c2f63bbdeaeb9f34f175cf7c272aa57f117..f6a7b38f172230288c86e8e83254e2dc
 +    { said: "drop", takes: "the act, which is to take the patch away, or one path out of it" },
      { said: "show", takes: "the act, which is to say the body the patch would leave at one path" },
      { said: "resolve", takes: "the act, which is to replace the body the patch holds at one path" },
-     { said: "--file-path <path>", takes: "the path a show or a resolve acts on" },
+-    { said: "--file-path <path>", takes: "the path a show or a resolve acts on" },
++    { said: "--file-path <path>", takes: "the path a show, a resolve or a drop acts on" },
+     { said: "--content-file <file>", takes: "a file the body for a resolve is read from" },
+     { said: "--message <text>", takes: "what the commit an apply makes is for" },
+     { said: "--message-file <file>", takes: "a file that message is read from" },
