@@ -14,7 +14,7 @@ export const copAdmin = {
     {
       invariantKind: "departure",
       statement:
-        "A cop that answers something other than what is expected is raised as an operational failure.",
+        "A cop that answers something other than the expected answer is raised as an operational failure.",
     },
   ],
 } as const satisfies Module
