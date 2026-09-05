@@ -12,7 +12,7 @@ index 36a860645d6fe3dd4059ccea0b5c088ff6d4f379..4b8e6d80531c17e05843202a83c689bd
  export const SEAT_AT = "akasha/seat-system/seats/pages/tester.seat.ts"
  
 diff --git a/command-system/asking/asking.module.test.ts b/command-system/asking/asking.module.test.ts
-index d38cb140483532726a3d64a0b9fd96998e042a49..8fdd2cf3c98f241b3815ae46f6db535f818cb85f 100644
+index d38cb140483532726a3d64a0b9fd96998e042a49..8a309f0431d2a229c1bfdc0f48f2eb7c47a11256 100644
 --- a/command-system/asking/asking.module.test.ts
 +++ b/command-system/asking/asking.module.test.ts
 @@ -1,6 +1,7 @@
@@ -23,3 +23,11 @@ index d38cb140483532726a3d64a0b9fd96998e042a49..8fdd2cf3c98f241b3815ae46f6db535f
  import { listedTakenFrom } from "@akasha/indexes/testing"
  import { bytesOf as bytes } from "@akasha/testing-system/bodying"
  import { ADMITS_CODE, REFUSES_CODE } from "@akasha/testing-system/minting"
+@@ -9,6 +10,7 @@ import { write } from "../../commands/write/write.command.code.ts"
+ import { baseOf as headOf } from "../landing/landing.module.code.ts"
+ import { landedMechanically, landingAsked, NO_CHECKS } from "./asking.module.code.ts"
+ import {
++  AGENT,
+   applied,
+   asking,
+   BROKEN,
