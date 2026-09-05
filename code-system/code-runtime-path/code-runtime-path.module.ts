@@ -14,7 +14,7 @@ export const codeRuntimePath = {
     },
     {
       invariantKind: "departure",
-      statement: "A body naming neither its own url nor its own directory is left as it is.",
+      statement: "A body naming neither its own url nor its own directory is left as that body is.",
     },
     {
       invariantKind: "departure",
