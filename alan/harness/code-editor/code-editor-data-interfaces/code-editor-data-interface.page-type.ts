@@ -57,7 +57,7 @@ export const codeEditorDataInterface = {
     },
     {
       invariantKind: "departure",
-      statement: "A part of the editor reads the one file named for what that part draws.",
+      statement: "A part of the editor reads the one file named for the data that part draws.",
     },
     {
       invariantKind: "departure",
