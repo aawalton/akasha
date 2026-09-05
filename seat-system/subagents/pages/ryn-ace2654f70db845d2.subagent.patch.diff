@@ -38,3 +38,16 @@ index 6bdee2ab0e8c1b049faba40b36907e3db888f925..2eedc1dbd6d9533283c0795eff429fd7
      },
      {
        invariantKind: "departure",
+diff --git a/command-system/commands/food/food.command.ts b/command-system/commands/food/food.command.ts
+index 5a4487182628f1a53319652255bcbc1524b84050..c94350f2ebba45762a36a143b6e58b5d1b124407 100644
+--- a/command-system/commands/food/food.command.ts
++++ b/command-system/commands/food/food.command.ts
+@@ -61,7 +61,7 @@ export const food = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "An entry is filed under the day and the food's name, numbered where that name is already taken on that day.",
++        "An entry is filed under the day and the food's name, numbered where that name is taken on that day.",
+     },
+     {
+       invariantKind: "departure",
