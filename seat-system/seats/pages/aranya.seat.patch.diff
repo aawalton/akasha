@@ -431,6 +431,14 @@ index 266c66a2d233628761782f3e4813d2a50f736729..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../recurrence
 \ No newline at end of file
+diff --git a/reminder-system/reminder-system b/reminder-system/reminder-system
+deleted file mode 120000
+index d658c1418c010c81a3168f0dbd1491bca358baae..0000000000000000000000000000000000000000
+--- a/reminder-system/reminder-system
++++ /dev/null
+@@ -1 +0,0 @@
+-../../reminder-system
+\ No newline at end of file
 diff --git a/utils-fs/utils-fs b/utils-fs/utils-fs
 deleted file mode 120000
 index 8a4350bb29c2cb7e9846cf1a8d7d0cf52c94bd83..0000000000000000000000000000000000000000
