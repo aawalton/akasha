@@ -14,7 +14,7 @@ export const statusBarAccess = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here decides what a reading means or what color the reading draws.",
+      statement: "Nothing here decides a reading's meaning or what color the reading draws.",
     },
     {
       invariantKind: "absence",
