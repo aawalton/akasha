@@ -5,6 +5,8 @@ import type { InPartOf } from "../page-address-kinds/in-part-of/in-part-of.page-
 
 export type PageAddress = ById | InPageType | InPartOf
 
+const SLUG = "slug"
+
 export type Address =
   | { readonly kind: "id"; readonly id: string }
   | {
@@ -36,4 +38,20 @@ export function addressIn(named: string): Address {
 export function slugIn(named: string): string | null {
   const address = addressIn(named)
   return address.kind === "id" ? null : address.slug
+}
+
+export function addressedIn(named: string): PageAddress | { readonly refused: string } {
+  const address = addressIn(named)
+  if (address.kind === "id") return { id: address.id }
+  if (address.kind === "qualified") {
+    return { pageTypeSlug: address.pageTypeSlug, propertySlug: SLUG, value: address.slug }
+  }
+  if (address.kind === "bare") {
+    return {
+      refused: `\`${named}\` names no page type, so which page it reaches is read off whoever asked`,
+    }
+  }
+  return {
+    refused: `\`${named}\` names its parent by a slug, and a slug names pages of more than one type`,
+  }
 }

@@ -28,5 +28,14 @@ export const pageAddress = {
       invariantKind: "departure",
       statement: "The shape an id is judged by is the lower uuid format's own.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A bare address is refused, what it names being read off whoever asked.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An address naming its parent by a slug is refused, a slug naming pages of many types.",
+    },
   ],
 } as const satisfies Module

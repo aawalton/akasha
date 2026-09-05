@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { lowerUuid } from "../name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 import type { Address } from "./page-address.module.code.ts"
-import { addressIn, slugIn } from "./page-address.module.code.ts"
+import { addressedIn, addressIn, slugIn } from "./page-address.module.code.ts"
 
 const ID = "01a04b14-4355-7352-9c98-ad67e309f5f6"
 
@@ -76,4 +76,24 @@ test("what an id is judged by is the lower uuid format's own shape", () => {
   expect(addressIn(ID).kind).toBe("id")
   expect(lowerUuid(ID.toUpperCase())).toBe(false)
   expect(addressIn(ID.toUpperCase()).kind).toBe("bare")
+})
+
+test("a uuid becomes an address naming a page by the id it keeps", () => {
+  expect(addressedIn(ID)).toEqual({ id: ID })
+})
+
+test("a page type and a slug become an address read by the slug property", () => {
+  expect(addressedIn("page-type/domain")).toEqual({
+    pageTypeSlug: "page-type",
+    propertySlug: "slug",
+    value: "domain",
+  })
+})
+
+test("a slug alone is refused rather than reaching whatever the caller had in mind", () => {
+  expect("refused" in addressedIn("landing")).toBe(true)
+})
+
+test("a parent named by a slug alone is refused, that slug naming pages of two types", () => {
+  expect("refused" in addressedIn("book-section/all-about-alan/notes")).toBe(true)
 })
