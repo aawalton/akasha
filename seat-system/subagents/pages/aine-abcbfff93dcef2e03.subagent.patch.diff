@@ -1,0 +1,139 @@
+diff --git a/domains/directive-kinds/directive-kind.page-type.ts b/domains/directive-kinds/directive-kind.page-type.ts
+index d3ed0ff2ccd0ba63a84b4c19d6218388f68f00d8..3e510ced965ed54dd056459d101fa4914f666c00 100644
+--- a/domains/directive-kinds/directive-kind.page-type.ts
++++ b/domains/directive-kinds/directive-kind.page-type.ts
+@@ -14,8 +14,7 @@ export const directiveKind = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Every kind of directive stands as the same four lines and differs in what that kind is.",
++      statement: "Every kind of directive is the same four lines and differs in what that kind is.",
+     },
+   ],
+ } as const satisfies PageType
+diff --git a/domains/initiatives/properties/intents.record-property.ts b/domains/initiatives/properties/intents.record-property.ts
+index 5eaf7f0bdad5c83087cbe0aa418146ac7415fa0c..9eab6ef157a6a7608c647258ef57c715c381a905 100644
+--- a/domains/initiatives/properties/intents.record-property.ts
++++ b/domains/initiatives/properties/intents.record-property.ts
+@@ -27,7 +27,7 @@ export const intents = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An intent stands as a gap rather than stating which kind of invariant it is.",
++      statement: "An intent is a gap rather than stating which kind of invariant it is.",
+     },
+   ],
+ } as const satisfies RecordProperty
+diff --git a/domains/initiatives/properties/parent-slug.relation-property.ts b/domains/initiatives/properties/parent-slug.relation-property.ts
+index 2194e7de5d27b3f38a240ce0bc6a3eeda6889835..04ae2d7b683d3361f41ae242d34173e8bfc3346e 100644
+--- a/domains/initiatives/properties/parent-slug.relation-property.ts
++++ b/domains/initiatives/properties/parent-slug.relation-property.ts
+@@ -13,7 +13,7 @@ export const parentSlug = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "An initiative lists nothing standing beneath that initiative.",
++      statement: "An initiative lists nothing beneath that initiative.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/domains/invariant-kinds/invariant-kind.page-type.ts b/domains/invariant-kinds/invariant-kind.page-type.ts
+index 05a4931f6fac2ca2bf50801734d967b636159b8d..27dc164fc16286ddd0243a4f320d2c439a118289 100644
+--- a/domains/invariant-kinds/invariant-kind.page-type.ts
++++ b/domains/invariant-kinds/invariant-kind.page-type.ts
+@@ -26,7 +26,7 @@ export const invariantKind = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A kind stands in one group.",
++      statement: "A kind is in one group.",
+     },
+   ],
+ } as const satisfies PageType
+diff --git a/domains/lists/list.page-type.ts b/domains/lists/list.page-type.ts
+index 015ddfcb9e4fe325bd928c76c6df5294d6f97cd6..02fb72e163e9647c325e9c85bcd7ed29ac107932 100644
+--- a/domains/lists/list.page-type.ts
++++ b/domains/lists/list.page-type.ts
+@@ -18,7 +18,7 @@ export const list = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A list's members stand as a property rather than as the shape of a body.",
++      statement: "A list's members are a property rather than the shape of a body.",
+     },
+     {
+       invariantKind: "departure",
+@@ -26,7 +26,7 @@ export const list = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A member the list orders by is ordered where the members stand.",
++      statement: "A member the list orders by is ordered where the members are.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/domains/lists/properties/members.record-property.ts b/domains/lists/properties/members.record-property.ts
+index 21a564469f70d0f06c9e2edd99f6a236e0ed3b31..149b8b615911580cf47f3bc58100aa1c43b36dcc 100644
+--- a/domains/lists/properties/members.record-property.ts
++++ b/domains/lists/properties/members.record-property.ts
+@@ -27,7 +27,7 @@ export const members = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The order the members stand in is the order the list means.",
++      statement: "The order the members are in is the order the list means.",
+     },
+   ],
+ } as const satisfies RecordProperty
+diff --git a/domains/modules/reading/domain-reading.module.code.ts b/domains/modules/reading/domain-reading.module.code.ts
+index 0edeee7b50569b89b2dfcb68a2ffe0fa48762598..30f1932797e0c6f44fa80d25809357dc935ad93e 100644
+--- a/domains/modules/reading/domain-reading.module.code.ts
++++ b/domains/modules/reading/domain-reading.module.code.ts
+@@ -18,10 +18,10 @@ function textIn(value: Value, key: string): string | null {
+ function heldIn(root: string): readonly DomainRead[] {
+   const found: DomainRead[] = []
+   for (const kind of kindsUnder(DOMAIN, readingIn(root), (path) => valueAt(path, root))) {
+-    for (const standing of everyOfType(root, kind)) {
++    for (const page of everyOfType(root, kind)) {
+       let value: Value | null
+       try {
+-        value = valueAt(standing.path, root)
++        value = valueAt(page.path, root)
+       } catch {
+         continue
+       }
+@@ -29,7 +29,7 @@ function heldIn(root: string): readonly DomainRead[] {
+       const slug = textIn(value, "slug")
+       const pageTypeSlug = textIn(value, "pageTypeSlug")
+       if (slug === null || pageTypeSlug === null) continue
+-      found.push({ relPath: standing.path, slug, address: `${pageTypeSlug}/${slug}` })
++      found.push({ relPath: page.path, slug, address: `${pageTypeSlug}/${slug}` })
+     }
+   }
+   return found
+diff --git a/domains/taboo-terms/pages/draw.taboo-term.ts b/domains/taboo-terms/pages/draw.taboo-term.ts
+index 1bd2f6712d0b2e9510cc16e94fe594dd272eb171..75961e2fd107f60bd6959e1a3f224297ff7841c8 100644
+--- a/domains/taboo-terms/pages/draw.taboo-term.ts
++++ b/domains/taboo-terms/pages/draw.taboo-term.ts
+@@ -6,6 +6,6 @@ export const draw = {
+   slug: "draw",
+   pattern: "\\bdraw\\b",
+   tabooSenses: [
+-    { sense: "a document arriving with a read or standing in a prompt", instead: "carried" },
++    { sense: "a document arriving with a read or sitting in a prompt", instead: "carried" },
+   ],
+ } as const satisfies TabooTerm
+diff --git a/domains/taboo-terms/properties/instead.text-property.ts b/domains/taboo-terms/properties/instead.text-property.ts
+index 0fd6a313f1a036d14566e914dea4da349f3f0b4e..378333ac001eb38b89cbe578fb768dac1cd0b366 100644
+--- a/domains/taboo-terms/properties/instead.text-property.ts
++++ b/domains/taboo-terms/properties/instead.text-property.ts
+@@ -7,7 +7,7 @@ export const instead = {
+   pageTypeSlug: "text-property",
+   slug: "instead",
+   propertySlug: "instead",
+-  definition: "what stands where a taboo sense was meant",
++  definition: "what is written where a taboo sense was meant",
+   max: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
