@@ -2289,64 +2289,6 @@ index 0000000000000000000000000000000000000000..edb58ca6e7b5bec2866d3af0e70446fa
 +  definition: "the exporter that publishes the cluster's objects as metrics",
 +  code: "ts",
 +} as const satisfies Module
-diff --git a/infrastructure/cluster-manifests/package.json b/infrastructure/cluster-manifests/package.json
-index 2e3f1f19ad85a1923ea5d149c7560f380f47bd64..769f68d84e01cf8110b7c4a04e5da4e50e1bf5b4 100644
---- a/infrastructure/cluster-manifests/package.json
-+++ b/infrastructure/cluster-manifests/package.json
-@@ -13,19 +13,26 @@
-     "./ci-namespace-synth": "./ci-namespace-synth/ci-namespace-synth.module.code.ts",
-     "./cloudflared-rbac": "./cloudflared-rbac/cloudflared-rbac.module.code.ts",
-     "./cloudnative-pg-rbac": "./cloudnative-pg-rbac/cloudnative-pg-rbac.module.code.ts",
--    "./cnpg-cluster": "./cnpg-cluster/cnpg-cluster.manifest.code.ts",
-+<<<<<<< what this change would leave
-     "./cnpg-object-store": "./cnpg-object-store/cnpg-object-store.manifest.code.ts",
-+<<<<<<< what this change would leave
-+=======
-+    "./cnpg-cluster": "./cnpg-cluster/cnpg-cluster.manifest.code.ts",
-+>>>>>>> what HEAD holds
-     "./cnpg-scheduled-backup": "./cnpg-scheduled-backup/cnpg-scheduled-backup.manifest.code.ts",
-+=======
-+>>>>>>> what HEAD holds
-     "./collections-rbac": "./collections-rbac/collections-rbac.module.code.ts",
-     "./eso-rig-rbac": "./eso-rig-rbac/eso-rig-rbac.module.code.ts",
--    "./exporter-daemonsets": "./exporter-daemonsets/exporter-daemonsets.manifest.code.ts",
-     "./gotrue-rbac": "./gotrue-rbac/gotrue-rbac.module.code.ts",
-     "./grafana-rbac": "./grafana-rbac/grafana-rbac.module.code.ts",
--    "./headscale-configmaps": "./headscale-configmaps/headscale-configmaps.manifest.code.ts",
-     "./headscale-constants": "./headscale-constants/headscale-constants.module.code.ts",
-     "./headscale-rbac": "./headscale-rbac/headscale-rbac.module.code.ts",
--    "./headscale-statefulsets": "./headscale-statefulsets/headscale-statefulsets.manifest.code.ts",
-+<<<<<<< what this change would leave
-     "./kube-state-metrics-manifests": "./kube-state-metrics-manifests/kube-state-metrics-manifests.manifest.code.ts",
-+=======
-+    "./headscale-statefulsets": "./headscale-statefulsets/headscale-statefulsets.manifest.code.ts",
-+>>>>>>> what HEAD holds
-     "./kubectl-permissions": "./kubectl-permissions/kubectl-permissions.module.code.ts",
-     "./kubepods-oom-constants": "./kubepods-oom-constants/kubepods-oom-constants.module.code.ts",
-     "./loki-rbac": "./loki-rbac/loki-rbac.module.code.ts",
-@@ -34,14 +41,11 @@
-     "./orphan-resource-audit": "./orphan-resource-audit/orphan-resource-audit.module.code.ts",
-     "./orphan-resource-listing": "./orphan-resource-listing/orphan-resource-listing.module.code.ts",
-     "./orphan-sweep-notice": "./orphan-sweep-notice/orphan-sweep-notice.module.code.ts",
--    "./pgbouncer-exporter-manifests": "./pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.manifest.code.ts",
-     "./pgbouncer-rbac": "./pgbouncer-rbac/pgbouncer-rbac.module.code.ts",
-     "./pod-janitor-rbac": "./pod-janitor-rbac/pod-janitor-rbac.module.code.ts",
--    "./postgres-exporter-manifests": "./postgres-exporter-manifests/postgres-exporter-manifests.manifest.code.ts",
-     "./postgres-rbac": "./postgres-rbac/postgres-rbac.module.code.ts",
-     "./postgrest-rbac": "./postgrest-rbac/postgrest-rbac.module.code.ts",
-     "./prometheus-constants": "./prometheus-constants/prometheus-constants.module.code.ts",
--    "./prometheus-manifests": "./prometheus-manifests/prometheus-manifests.manifest.code.ts",
-     "./prometheus-rbac": "./prometheus-rbac/prometheus-rbac.module.code.ts",
-     "./query-perf-constants": "./query-perf-constants/query-perf-constants.module.code.ts",
-     "./rbac-cluster-role-rules": "./rbac-cluster-role-rules/rbac-cluster-role-rules.module.code.ts",
-@@ -51,7 +55,6 @@
-     "./rbac-profiles": "./rbac-profiles/rbac-profiles.module.code.ts",
-     "./rbac-yaml": "./rbac-yaml/rbac-yaml.module.code.ts",
-     "./registry-constants": "./registry-constants/registry-constants.module.code.ts",
--    "./registry-gc-manifests": "./registry-gc-manifests/registry-gc-manifests.manifest.code.ts",
-     "./seaweedfs-rbac": "./seaweedfs-rbac/seaweedfs-rbac.module.code.ts",
-     "./smilingjenny-web-rbac": "./smilingjenny-web-rbac/smilingjenny-web-rbac.module.code.ts",
-     "./supabase-realtime-rbac": "./supabase-realtime-rbac/supabase-realtime-rbac.module.code.ts",
 diff --git a/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.manifest.code.ts b/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.manifest.code.ts
 deleted file mode 100644
 index 42074de4a21137062c9bf94978a4c0203b0f882b..0000000000000000000000000000000000000000
