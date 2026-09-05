@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.test.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.test.ts
-index 7590169c5f0dc68f2be60eb2ed91c2e8b35bf61f..ba86b5b3b705e2a348cd65172a1f1f962248a734 100644
+index 7590169c5f0dc68f2be60eb2ed91c2e8b35bf61f..bc63e7c45e9a58010d2d5dac0133bb38e99cb7e8 100644
 --- a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.test.ts
 +++ b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.test.ts
 @@ -58,7 +58,7 @@ test("every folder above a path is an ancestor, nearest first", () => {
@@ -11,8 +11,17 @@ index 7590169c5f0dc68f2be60eb2ed91c2e8b35bf61f..ba86b5b3b705e2a348cd65172a1f1f96
    expect(reachedFolders("akasha/c/two.ts", "akasha/a/one.ts")).toEqual(["akasha/c"])
  })
  
+@@ -102,7 +102,7 @@ test("an import the change takes away carries the folder it used to reach", () =
+   expect(said.has("akasha/c")).toBe(true)
+ })
+ 
+-test("an import the change leaves standing carries no folder of its own", () => {
++test("an import the change leaves unchanged carries no folder of its own", () => {
+   const body = 'import { two } from "../c/two.ts"\n'
+   const said = foldersTouchedBy(
+     change(["akasha/a/one.ts"], { "akasha/a/one.ts": body }, { "akasha/a/one.ts": body })
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.ts
-index 568e8d06586ed3422f88edcf9a08275783d362d1..9b7e3c0f2ab8a14c02c720aa24ed53c87855d074 100644
+index 568e8d06586ed3422f88edcf9a08275783d362d1..a5820de09574cb11a735d5a2040c2880bf9bd4d8 100644
 --- a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.ts
 +++ b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.ts
 @@ -95,7 +95,7 @@ export const folderMatchesAShape = {
@@ -21,6 +30,15 @@ index 568e8d06586ed3422f88edcf9a08275783d362d1..9b7e3c0f2ab8a14c02c720aa24ed53c8
        invariantKind: "departure",
 -      statement: "A shape reads what stands under a folder as well as what sits in the folder.",
 +      statement: "A shape reads what is under a folder as well as what sits in the folder.",
+     },
+     {
+       invariantKind: "departure",
+@@ -122,7 +122,7 @@ export const folderMatchesAShape = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Which files stand in a folder is read as the index stands joined to what the change carries.",
++        "Which files sit in a folder is read as the index is joined to what the change carries.",
      },
      {
        invariantKind: "departure",
