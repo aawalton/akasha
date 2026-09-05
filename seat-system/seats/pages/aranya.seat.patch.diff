@@ -21,6 +21,32 @@ index 1cb37b6156c8bbcf0f1373c92d06b022c491e820..1077bcb7b46035f676134ac393c557fa
  export function warrantedAgain(
    root: string,
    agentId: string,
+diff --git a/command-system/commands/patch/patch.command.code.ts b/command-system/commands/patch/patch.command.code.ts
+index ee111070d85d66994ebe6082f1d55fc35f12807a..bad2f5ef65c0110577e30f3b01ae7a0d97bc69e6 100644
+--- a/command-system/commands/patch/patch.command.code.ts
++++ b/command-system/commands/patch/patch.command.code.ts
+@@ -7,6 +7,7 @@ import { applied } from "../../applying/applying.module.code.ts"
+ import {
+   BREAK_GLASS,
+   bypassedIn,
++  counted,
+   formattingIn,
+   glassSaid,
+   mistaking,
+@@ -22,10 +23,12 @@ import {
+   type Rebased,
+   rebasedOnto,
+   resolved,
++  wouldHold,
+ } from "../../drafting/drafting.module.code.ts"
+ import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+ import { gateBuilt, NO_GATE } from "../../gate-building/gate-building.module.code.ts"
+-import { baseOf, changeOf } from "../../landing/landing.module.code.ts"
++import { draftSaid } from "../../judged-saying/judged-saying.module.code.ts"
++import { baseOf, changeOf, editsOf } from "../../landing/landing.module.code.ts"
+ import { formattedSaid } from "../../landing-saying/landing-saying.module.code.ts"
+ import { added, type Blobs, blobsIn, deleted } from "../../patching/patching.module.code.ts"
+ import type { Piping } from "../../piping/piping.module.code.ts"
 diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
 index 3e79fda62c024d6f42de233b752efe6c1bb8c0c7..90fc7cb550cd66feb17a1956ad8bf3d39d4f77eb 100644
 --- a/command-system/landing/landing.module.code.ts
