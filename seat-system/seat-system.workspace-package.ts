@@ -28,6 +28,7 @@ export const seatSystem = {
     "module/state-spawned-seat",
     "module/stop-seat",
     "module/subagent-guard",
+    "module/subagent-census",
     "module/subagent-page",
     "module/subagent-page-akasha",
     "module/subagent-page-history",
