@@ -56,7 +56,7 @@ const SESSIONS: readonly Row[] = [
   rowOf({ id: "b", slug: "s2", workoutSessionDate: "2026-06-22" }),
 ]
 
-describe("which movements stand and where", () => {
+describe("which movements there are and each one's standing", () => {
   test("the fixture holds four sets over two movements and two sessions", () => {
     expect(LOGS.length).toBe(4)
     expect(movementSlugsIn(LOGS).length).toBe(2)
@@ -96,7 +96,7 @@ describe("which movements stand and where", () => {
     expect(bestSet(lines)?.weight).toBe(45)
   })
 
-  test("the last working set skips the warmup standing before it", () => {
+  test("the last working set skips the warmup before it", () => {
     const lines = linesIn(LOGS.slice(1, 3), datesBySession(SESSIONS))
     expect(lastWorkingSet(lines)?.weight).toBe(40)
   })

@@ -39,13 +39,13 @@ const READINGS: readonly Row[] = [
   }),
 ]
 
-describe("where a mobility metric stands", () => {
+describe("a mobility metric's standing", () => {
   test("the fixture holds four readings over three standings, so an empty one cannot read clean", () => {
     expect(READINGS.length).toBe(4)
     expect(gatheredIn(READINGS).length).toBe(3)
   })
 
-  test("a metric read on each side stands as two", () => {
+  test("a metric read on each side counts as two", () => {
     const standings = standingsIn(READINGS)
     const slr = standings.filter((one) => one.metric === "supine-slr")
     expect(slr.map((one) => one.side)).toEqual(["left", "right"])
@@ -56,7 +56,7 @@ describe("where a mobility metric stands", () => {
     expect(fold?.side).toBeNull()
   })
 
-  test("the latest reading says where the metric stands and on which day", () => {
+  test("the latest reading says the metric's standing and on which day", () => {
     const fold = standingsIn(READINGS).find((one) => one.metric === "forward-fold")
     expect(fold?.latestNum).toBe(6)
     expect(fold?.latestText).toBe("fingertips to floor")

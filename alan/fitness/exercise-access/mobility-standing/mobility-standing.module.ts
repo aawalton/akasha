@@ -4,17 +4,17 @@ export const mobilityStanding = {
   id: "01a0685d-cca7-77f0-a19b-11e24ae9f69e",
   pageTypeSlug: "module",
   slug: "mobility-standing",
-  definition: "where each mobility metric stands now and which way it has moved",
+  definition: "the standing of each mobility metric now and which way it has moved",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A metric read on each side stands as two, and one read on neither stands as one.",
+      statement: "A metric read on each side counts as two, and one read on neither counts as one.",
     },
     {
       invariantKind: "departure",
-      statement: "The latest reading of a metric is the one that says where it stands.",
+      statement: "The latest reading of a metric is the one that says its standing.",
     },
     {
       invariantKind: "departure",

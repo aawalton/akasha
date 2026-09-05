@@ -4,13 +4,13 @@ export const movementStanding = {
   id: "01a0685d-cca7-717c-9288-578ad8f3bbb4",
   pageTypeSlug: "module",
   slug: "movement-standing",
-  definition: "which movements the recent sessions held, and where each one stands across its sets",
+  definition: "which movements the recent sessions held, and each one's standing across its sets",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A movement is named once however many of its sets stand.",
+      statement: "A movement is named once however many sets it has.",
     },
     {
       invariantKind: "departure",
