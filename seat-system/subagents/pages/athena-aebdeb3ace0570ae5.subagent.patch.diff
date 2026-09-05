@@ -46,6 +46,28 @@ index bb4e0a7d097f7cc09670eeb72e664c48e6e27786..1e79f4c948eb1381ac20a738f7d8730c
        mode = named as Mode
      } else {
        const stated = [...ATTRIBUTES, ...ASSIGNMENTS].find((one) => arg === `--${one}`)
+diff --git a/seat-system/seat-call/seat-call.module.code.ts b/seat-system/seat-call/seat-call.module.code.ts
+index cd90a505c89a185d0aecfb6a87df3dffc97369b9..7e52d6c6f7ecd476e4ab2e0412a450c71b3ea455 100644
+--- a/seat-system/seat-call/seat-call.module.code.ts
++++ b/seat-system/seat-call/seat-call.module.code.ts
+@@ -1,7 +1,7 @@
+ import { fail } from "@akasha/command-system/command-failing"
+ import { readPayload, record, rejectUnknownFlags } from "@akasha/command-system/payload"
+ import { type SeatWhoami, seatWhoami } from "@akasha/seat-system/seat-whoami"
+-import { run } from "../seat-running/seat-running.module.code.ts"
++import { stateSeatFromArgv } from "../seat-running/seat-running.module.code.ts"
+ 
+ const VALUES: readonly (readonly [string, string])[] = [
+   ["agent", "--agent"],
+@@ -114,7 +114,7 @@ async function main(): Promise<void> {
+     answerWhoami(payload)
+     return
+   }
+-  await run(argvFor(payload))
++  await stateSeatFromArgv(argvFor(payload))
+ }
+ 
+ if (import.meta.main) await main()
 diff --git a/seat-system/seat-running/seat-running.module.code.ts b/seat-system/seat-running/seat-running.module.code.ts
 index da4b9e78e6d1f851b63c8940016c89997fea9bd2..26309843da46e7f7924a3109b914d6204497137c 100644
 --- a/seat-system/seat-running/seat-running.module.code.ts
