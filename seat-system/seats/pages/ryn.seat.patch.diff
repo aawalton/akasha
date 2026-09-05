@@ -108,3 +108,30 @@ index da1037cf343ab90d97a14fc3659be1f796d23ee1..e3de877888b5c110e81a5b8f1b7a5548
  export function isSummingCount(token: DepToken): boolean {
    return SUMMING.includes(lower(token))
  }
+diff --git a/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.code.ts b/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.code.ts
+index 9c205fdf3088d3b911e004d8523a96d773767d92..111178965a8b26a36561d75fed14572455e49be4 100644
+--- a/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.code.ts
++++ b/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.code.ts
+@@ -2,7 +2,9 @@ import type { Match, ShapePredicate } from "@akasha/plain-language/shape-predica
+ import {
+   fillsNounSlot,
+   isDemonstrative,
++  isPronoun,
+   isQuantifier,
++  isReflexive,
+   isRelative,
+ } from "@akasha/plain-language/shape-predicate"
+ 
+@@ -10,10 +12,12 @@ export const lonePronoun: ShapePredicate = (sentence) => {
+   const found: Match[] = []
+   for (const token of sentence.tokens) {
+     if (token.upos !== "PRON") continue
++    if (!isPronoun(token)) continue
+     if (!fillsNounSlot(token)) continue
+     if (isRelative(sentence, token)) continue
+     if (isDemonstrative(token)) continue
+     if (isQuantifier(token)) continue
++    if (isReflexive(token)) continue
+     found.push({ at: [token.id] })
+   }
+   return found
