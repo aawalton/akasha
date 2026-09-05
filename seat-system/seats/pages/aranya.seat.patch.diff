@@ -337,6 +337,34 @@ index 0000000000000000000000000000000000000000..f6851e34b8f3bf06746937b194e0bc87
 +  definition: "the bucket the database's backups are written to",
 +  code: "ts",
 +} as const satisfies Module
+diff --git a/infrastructure/cluster-manifests/cnpg-scheduled-backup/cnpg-scheduled-backup.module.code.ts b/infrastructure/cluster-manifests/cnpg-scheduled-backup/cnpg-scheduled-backup.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0888248cbd6bfb21cab39c6faa0db9856cdc711b
+--- /dev/null
++++ b/infrastructure/cluster-manifests/cnpg-scheduled-backup/cnpg-scheduled-backup.module.code.ts
+@@ -0,0 +1,22 @@
++import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
++
++const NAMESPACE = "postgres"
++
++export function scheduledBackupYaml(): string {
++  return synthOne(NAMESPACE, "postgres-cnpg-scheduledbackup", {
++    apiVersion: "postgresql.cnpg.io/v1",
++    kind: "ScheduledBackup",
++    metadata: {
++      name: "postgres-cnpg-daily",
++      namespace: NAMESPACE,
++    },
++    spec: {
++      cluster: { name: "postgres-cnpg" },
++      schedule: "0 0 3 * * *",
++      method: "plugin",
++      pluginConfiguration: { name: "barman-cloud.cloudnative-pg.io" },
++      backupOwnerReference: "self",
++      immediate: false,
++    },
++  })
++}
 diff --git a/infrastructure/cluster-manifests/cnpg-scheduled-backup/cnpg-scheduled-backup.module.ts b/infrastructure/cluster-manifests/cnpg-scheduled-backup/cnpg-scheduled-backup.module.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..90b7ffb07fdefc0d9a5c2a6c0314c4689cc8544f
