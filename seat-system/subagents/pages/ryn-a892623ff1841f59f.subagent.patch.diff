@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/music/spotify/cache-file/spotify-cache-file.module.ts b/alan/music/spotify/cache-file/spotify-cache-file.module.ts
+index 593c62d3cc1832c723414403365012111238d026..6decc83ca0f4fc84c55d180074b0c6158e252cb2 100644
+--- a/alan/music/spotify/cache-file/spotify-cache-file.module.ts
++++ b/alan/music/spotify/cache-file/spotify-cache-file.module.ts
+@@ -46,7 +46,7 @@ export const spotifyCacheFile = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows what a Spotify file holds.",
++      statement: "Nothing here knows the values a Spotify file holds.",
+     },
+   ],
+ } as const satisfies Module
