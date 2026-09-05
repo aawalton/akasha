@@ -28,6 +28,20 @@ index b9a08ad69f5c14bf0d3131c6fb768a2a379284ec..83a2886e8f75bd8a6f464d1aeab6917c
  
  export const READOUT_PAGE =
    "readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts"
+diff --git a/alan/harness/inboxes/inbox-count-writing/inbox-count-writing.module.code.ts b/alan/harness/inboxes/inbox-count-writing/inbox-count-writing.module.code.ts
+index 7a1448f81f26f690e1c845168155d86a4957e992..8cdf51852d37077566c184c73e4548bf04161753 100644
+--- a/alan/harness/inboxes/inbox-count-writing/inbox-count-writing.module.code.ts
++++ b/alan/harness/inboxes/inbox-count-writing/inbox-count-writing.module.code.ts
+@@ -1,8 +1,8 @@
+ import {
+-  askDayByDate,
+   DAILY_TRACKING,
+   landDayPage,
+ } from "../../../tracking/daily/day-place/day-place.module.code.ts"
++import { askDayByDate } from "../../../tracking/daily/day-reading/day-reading.module.code.ts"
+ import { resolveOrCreateDaily } from "../../../tracking/daily/tracking-resolve/tracking-resolve.module.code.ts"
+ import {
+   INBOX_WRITER,
 diff --git a/alan/harness/inboxes/reading/inbox-reading.module.code.ts b/alan/harness/inboxes/reading/inbox-reading.module.code.ts
 index dde7c0d3c9343940e4cf9baa46d67caae715f4a5..2dfe3e41c9d0f93e19df137e49f6d35979586b3d 100644
 --- a/alan/harness/inboxes/reading/inbox-reading.module.code.ts
