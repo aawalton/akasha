@@ -1,5 +1,5 @@
 diff --git a/story/games/pages/the-tower.game.gm-context.json b/story/games/pages/the-tower.game.gm-context.json
-index 54305b06942c29ee061cdf8acce8a803efa3036c..188dae800f0ae9738292717d13bf68db97c41787 100644
+index 54305b06942c29ee061cdf8acce8a803efa3036c..e809aa119bb10c0d7bbb8a02a1f9ddc8951d6463 100644
 --- a/story/games/pages/the-tower.game.gm-context.json
 +++ b/story/games/pages/the-tower.game.gm-context.json
 @@ -240,7 +240,7 @@
@@ -11,3 +11,12 @@ index 54305b06942c29ee061cdf8acce8a803efa3036c..188dae800f0ae9738292717d13bf68db
          "| 3 | Plinth Golem | non-keystone **×0.25** · clean keystone strike **×3** |",
          "| 4 | Gloomward Stalker | in darkness **×0.3** (+ lethal turn-one ambush) · lit/cornered **×1.8** |",
          "| 4 | Counterweight Colossus | non-pawl **×0.25** · clean pawl strike **×3** (optional over-tension setup: pawl at intent +2, unmitigated) |",
+@@ -269,7 +269,7 @@
+         "**Axis 2 — MAGNITUDE (scale + difficulty ramp).** The newer mandate. Later floors should be genuinely *bigger and harder*, not just *different*:",
+         "**SIZE** — more rooms / more interacting systems. (f4 = 3 rooms → f5 = 5 rooms.)",
+         "**COMPLEXITY** — layered or COMPOUNDING mechanics, not one static gimmick. A mechanic that *evolves* across the floor (e.g. f5's verification ladder: the deception learns to fake each tell that beat it, forcing the player up a rung of proof room by room) beats a single weak-point repeated.",
+-        "**THREAT STRUCTURE** — vary it: single warden → coordinated MULTI-THREAT (a flanking pair) → STAGED multi-phase boss (identify → fight → escape). Avoid \"one warden + one gimmick\" as the standing shape.",
++        "**THREAT STRUCTURE** — vary it: single warden → coordinated MULTI-THREAT (a flanking pair) → STAGED multi-phase boss (identify → fight → escape). Avoid \"one warden + one gimmick\" as the usual shape.",
+         "**DIFFICULTY** — the power budget grows with the player (level, gear, affinities, companions), so the floor's lethality must grow to match. A later boss should carry a REAL kill-risk phase (f5's true-form acts first and ~2-shots Alan), not just a bigger HP bar.",
+         "**Avoid the template trap.** The seductive default is `scout → light/solve → one boss-via-readable-weakness`. That was right for f1–f4; from f5 on, deliberately break it — multi-phase bosses, identification puzzles (not just placement puzzles), multi-threat encounters, environmental climax beats, staged objectives. Reading-beats-brute-force stays the spine; the SHAPE around it must keep changing.",
+         "**The whole-tower curve (design target, not a hard table).** Each floor ≈ the previous in size/complexity/difficulty, plus one meaningful step:",
