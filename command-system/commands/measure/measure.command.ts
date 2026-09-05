@@ -9,13 +9,17 @@ export const measure = {
   test: "ts",
   changeKindSlug: "change-mechanical",
   partSlugs: [
+    "module/check-measuring",
     "module/checkout-counting",
     "module/claude-account-costing",
     "module/page-measuring",
     "module/repo-measuring",
   ],
   taking: [
-    { said: "<subject>", takes: "what to measure, which is `claude-accounts`, `repo` or `pages`" },
+    {
+      said: "<subject>",
+      takes: "what to measure, which is `claude-accounts`, `repo`, `pages` or `checks`",
+    },
     { said: "cost", takes: "the act, which is to price the calls the transcripts here hold" },
   ],
   helpNotes: [
@@ -46,6 +50,13 @@ export const measure = {
     "how many files are no page at all is said beneath the total.",
     "`repo` counts what git counts: tracked files, and untracked files the repository keeps.",
     "what the repository ignores is not counted, so built output is no file waiting to arrive.",
+    "`checks` says what each check's runs cost in processor time and memory, split by phase.",
+    "a patch run judges the paths a change carries, and an audit run judges every page.",
+    "a run's processor time is that run's own together with the children that run reaped.",
+    "a run's memory is what that run added over the memory resident when the run opened.",
+    "a run that forgot no high-water mark is left out of the memory it would otherwise report.",
+    "a phase no run was judged at is drawn as `-`, which is not a median of zero.",
+    "checks are ordered by what their patch runs took, and a check with no patch run comes last.",
   ],
   invariants: [
     {

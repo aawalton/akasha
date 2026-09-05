@@ -1,6 +1,7 @@
 import { linesOf, readingsIn } from "@akasha/agents/claude-account-measuring"
 import { notesOf, refreshAll } from "@akasha/agents/claude-account-refreshing"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
+import { linesOf as checkLinesOf, costsIn } from "./check-measuring/check-measuring.module.code.ts"
 import {
   linesOf as costLinesOf,
   countedIn,
@@ -19,11 +20,13 @@ const REPO = "repo"
 
 const PAGES = "pages"
 
+const CHECKS = "checks"
+
 const COST = "cost"
 
 const DAYS = 30
 
-const SUBJECTS: readonly string[] = [CLAUDE_ACCOUNTS, REPO, PAGES]
+const SUBJECTS: readonly string[] = [CLAUDE_ACCOUNTS, REPO, PAGES, CHECKS]
 
 const ACTS: readonly string[] = [COST]
 
@@ -64,6 +67,10 @@ function measurePages(given: Given): Answer {
   return { report: [...pageLinesOf(pageCountsIn(given.root))], refusals: [], code: 0 }
 }
 
+function measureChecks(given: Given): Answer {
+  return { report: [...checkLinesOf(costsIn(given.root))], refusals: [], code: 0 }
+}
+
 function measureCost(): Answer {
   const until = Date.now()
   const counted = countedIn(storeHere(), sinceOf(until, DAYS), until)
@@ -83,7 +90,8 @@ export function measure(argv: readonly string[], given: Given): Answer | Promise
   const act = argv[1]
   if (act === undefined) {
     if (subject === CLAUDE_ACCOUNTS) return measureClaudeAccounts(given)
-    return subject === REPO ? measureRepo(given) : measurePages(given)
+    if (subject === REPO) return measureRepo(given)
+    return subject === PAGES ? measurePages(given) : measureChecks(given)
   }
   if (argv.length > 2) {
     return refusing(
