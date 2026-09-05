@@ -1,5 +1,5 @@
 diff --git a/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts b/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
-index 2adf6525cfb821b093aadacca6f8781efdf8735a..bd3c42550b2fb3baa65df06c36c94d9f5f1172d0 100644
+index 2adf6525cfb821b093aadacca6f8781efdf8735a..6c09d0f626ef8216120b507425a19745fafd9c62 100644
 --- a/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
 +++ b/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
 @@ -1,4 +1,5 @@
@@ -16,6 +16,24 @@ index 2adf6525cfb821b093aadacca6f8781efdf8735a..bd3c42550b2fb3baa65df06c36c94d9f
  import {
    chunkForEncoder,
    encodeWordPieces,
+@@ -297,9 +299,16 @@ export async function loadOnnxParser(options: OnnxParserOptions = {}): Promise<D
+     capabilities: CAPABILITIES,
+     modelHash: manifest["source_checkpoint_sha256"],
+   }
++  const cache = makeParseCache(descriptor.modelHash, dirname(fileURLToPath(import.meta.url)))
+   return {
+     descriptor,
+-    parse: (text: string) => parsedText(held, text),
++    parse: async (text: string) => {
++      const already = cache.read(text)
++      if (already !== null) return already
++      const found = await parsedText(held, text)
++      cache.write(text, found)
++      return found
++    },
+   }
+ }
+ 
 diff --git a/domains/plain-language/parse-cache/parse-cache.module.code.ts b/domains/plain-language/parse-cache/parse-cache.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..8b0a30ccb9086b7e948f76ab97158c94ae0929a5
