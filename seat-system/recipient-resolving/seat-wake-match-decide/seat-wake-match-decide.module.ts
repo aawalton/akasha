@@ -18,7 +18,7 @@ export const seatWakeMatchDecide = {
     },
     {
       invariantKind: "departure",
-      statement: "Every decision carries the reason it was reached for.",
+      statement: "Every decision carries the reason that decision was reached for.",
     },
   ],
 } as const satisfies Module
