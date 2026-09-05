@@ -74,17 +74,22 @@ index 0000000000000000000000000000000000000000..5ae6ea1becf948bcd6be74cf4589a605
 +  partSlugs: ["module/apply", "module/jsonb-ops"],
 +} as const satisfies Domain
 diff --git a/pages/core/pages-core.workspace-package.ts b/pages/core/pages-core.workspace-package.ts
-index efbac57a6131a6b2d0063f3d221f67bb83e5e0cb..dd23d0c93873873194afa1f8968f595bebdf619d 100644
+index efbac57a6131a6b2d0063f3d221f67bb83e5e0cb..a31eb8c741205af74210d862d0c57351423a0290 100644
 --- a/pages/core/pages-core.workspace-package.ts
 +++ b/pages/core/pages-core.workspace-package.ts
-@@ -7,11 +7,16 @@ export const pagesCore = {
+@@ -7,11 +7,21 @@ export const pagesCore = {
    definition: "what a page's values mean before any store or screen",
    manifest: "json",
    partSlugs: [
 -    "module/action-button",
++<<<<<<< what this change would leave
 +    "domain/pages-core-property-types",
      "module/action-button-config",
 +<<<<<<< what this change would leave
++=======
++    "module/action-button",
++    "domain/pages-core-schema",
++>>>>>>> what HEAD holds
      "module/aggregate",
      "module/aggregate-filter",
 +    "domain/pages-core-json-patch",
@@ -95,9 +100,11 @@ index efbac57a6131a6b2d0063f3d221f67bb83e5e0cb..dd23d0c93873873194afa1f8968f595b
      "module/apply-filters",
      "module/apply-grouping",
      "module/apply-grouping-shared",
-@@ -21,21 +26,35 @@ export const pagesCore = {
+@@ -20,22 +30,45 @@ export const pagesCore = {
+     "module/apply-sorts",
      "module/apply-view",
      "module/as-json",
++<<<<<<< what this change would leave
      "module/badge-display",
 +    "module/calendar-date-to-value",
 +    "module/calendar-grid",
@@ -105,6 +112,8 @@ index efbac57a6131a6b2d0063f3d221f67bb83e5e0cb..dd23d0c93873873194afa1f8968f595b
 +    "domain/pages-core-view",
 +    "module/as-json",
 +    "module/badge-display",
++=======
++>>>>>>> what HEAD holds
      "module/block-markers",
      "module/block-selection",
      "module/block-shortcuts",
@@ -112,15 +121,14 @@ index efbac57a6131a6b2d0063f3d221f67bb83e5e0cb..dd23d0c93873873194afa1f8968f595b
 -    "module/calendar-date-to-value",
 -    "module/calendar-grid",
      "module/calendar-time",
++<<<<<<< what this change would leave
 +>>>>>>> what HEAD holds
      "module/coherence-rules",
      "module/color-rule",
      "module/color-rules",
      "module/content-tier",
      "module/cross-type-predicates",
--    "module/date",
--    "module/date-sentinels",
-     "module/detail-config",
++    "module/detail-config",
 +<<<<<<< what this change would leave
 +    "domain/pages-core-generated",
 +    "module/expand-date-mentions",
@@ -132,10 +140,16 @@ index efbac57a6131a6b2d0063f3d221f67bb83e5e0cb..dd23d0c93873873194afa1f8968f595b
 +    "module/group-granularity",
 +    "module/group-key-to-value",
 +=======
++=======
++    "module/color-rules",
+     "module/date",
+     "module/date-sentinels",
+-    "module/detail-config",
++>>>>>>> what HEAD holds
      "module/entries-00",
      "module/entries-01",
      "module/entries-02",
-@@ -74,68 +93,54 @@ export const pagesCore = {
+@@ -74,68 +107,88 @@ export const pagesCore = {
      "module/entries-35",
      "module/entries-36",
      "module/entries-37",
@@ -158,20 +172,27 @@ index efbac57a6131a6b2d0063f3d221f67bb83e5e0cb..dd23d0c93873873194afa1f8968f595b
 +=======
 +    "module/icon-search-index",
      "module/jsonb-ops",
++<<<<<<< what this change would leave
 +>>>>>>> what HEAD holds
      "module/listing-config",
--    "module/markdown",
--    "module/markdown-shorthand",
-     "module/media-config",
++    "module/media-config",
++    "module/media-formats",
++    "module/nav-config",
++=======
+     "module/markdown",
+     "module/markdown-shorthand",
+-    "module/media-config",
      "module/media-formats",
--    "module/multi-relation",
--    "module/multi-select-property",
-     "module/nav-config",
--    "module/notes",
+     "module/multi-relation",
+     "module/multi-select-property",
+-    "module/nav-config",
+     "module/notes",
++>>>>>>> what HEAD holds
      "module/null-ordering",
 -    "module/number",
      "module/page-data",
 -    "module/page-query-times",
++<<<<<<< what this change would leave
      "module/page-type-inheritance",
      "module/page-types",
      "module/pages",
@@ -179,18 +200,27 @@ index efbac57a6131a6b2d0063f3d221f67bb83e5e0cb..dd23d0c93873873194afa1f8968f595b
 +    "module/path-select",
 +    "module/progress",
 +=======
++=======
++    "module/page-query-times",
++    "module/page-types",
++>>>>>>> what HEAD holds
      "module/pascal-to-kebab-00",
      "module/pascal-to-kebab-01",
      "module/pascal-to-kebab-02",
      "module/pascal-to-kebab-03",
      "module/pascal-to-kebab-04",
--    "module/path-select",
--    "module/progress",
-+>>>>>>> what HEAD holds
-     "module/property-config-schemas",
--    "module/property-type-ops",
-     "module/quick-add",
 +<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
++    "module/property-config-schemas",
++    "module/quick-add",
++<<<<<<< what this change would leave
++=======
+     "module/path-select",
+     "module/progress",
+-    "module/property-config-schemas",
+     "module/property-type-ops",
+-    "module/quick-add",
++>>>>>>> what HEAD holds
      "module/reducers",
 +=======
 +    "domain/pages-core-view-state",
@@ -198,23 +228,31 @@ index efbac57a6131a6b2d0063f3d221f67bb83e5e0cb..dd23d0c93873873194afa1f8968f595b
      "module/relation",
      "module/resolution-target-types",
      "module/resolve-computed-type",
++<<<<<<< what this change would leave
 +>>>>>>> what HEAD holds
      "module/resolve-select-options",
--    "module/rich-document",
--    "module/rich-document-ops",
--    "module/rich-document-tree",
--    "module/rollup",
--    "module/rrule",
--    "module/select",
-     "module/select-option-create",
-     "module/sequence-config",
--    "module/sort-accessors",
++    "module/select-option-create",
++    "module/sequence-config",
++    "module/task-lifecycle",
++    "module/view-data",
++    "module/view-data-locked",
++=======
+     "module/rich-document",
+     "module/rich-document-ops",
+     "module/rich-document-tree",
+     "module/rollup",
+     "module/rrule",
+     "module/select",
+-    "module/select-option-create",
+-    "module/sequence-config",
+     "module/sort-accessors",
      "module/task-lifecycle",
--    "module/text",
--    "module/url",
-     "module/view-data",
-     "module/view-data-locked",
--    "module/view-state-change",
+     "module/text",
+     "module/url",
+-    "module/view-data",
+-    "module/view-data-locked",
+     "module/view-state-change",
++>>>>>>> what HEAD holds
    ],
    invariants: [
      {
