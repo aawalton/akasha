@@ -1,5 +1,5 @@
 diff --git a/hook-system/shell-calls/shell-calls.module.ts b/hook-system/shell-calls/shell-calls.module.ts
-index 5ce8ee2113a5e078a0cfe640649f6b332b3420e6..4afd0805f315cdcda46197a147f05cb56ca2fba3 100644
+index 5ce8ee2113a5e078a0cfe640649f6b332b3420e6..e2789974c08f9c8eb76fb0adb710b6c4d47fb999 100644
 --- a/hook-system/shell-calls/shell-calls.module.ts
 +++ b/hook-system/shell-calls/shell-calls.module.ts
 @@ -30,7 +30,8 @@ export const shellCalls = {
@@ -12,3 +12,12 @@ index 5ce8ee2113a5e078a0cfe640649f6b332b3420e6..4afd0805f315cdcda46197a147f05cb5
      },
      {
        invariantKind: "departure",
+@@ -106,7 +107,7 @@ export const shellCalls = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "A shell marks no word as one that runs the call behind it.",
++      statement: "A shell marks no word as one that runs the call behind that word.",
+     },
+     {
+       invariantKind: "gap",
