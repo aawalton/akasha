@@ -1,5 +1,5 @@
 diff --git a/code-system/code-typing/code-typing.module.test.ts b/code-system/code-typing/code-typing.module.test.ts
-index 03135216336e67a7ad948e1e9ab0a09ebf96ea81..a27b238a689503a9e0109bf0949003b05c0e0349 100644
+index 03135216336e67a7ad948e1e9ab0a09ebf96ea81..d73ce01ec57a15d4c0281554d23c399dceb57455 100644
 --- a/code-system/code-typing/code-typing.module.test.ts
 +++ b/code-system/code-typing/code-typing.module.test.ts
 @@ -56,7 +56,7 @@ test("a manifest reached through the packages folder is answered where it links
@@ -11,3 +11,12 @@ index 03135216336e67a7ad948e1e9ab0a09ebf96ea81..a27b238a689503a9e0109bf0949003b0
    expect(manifestOf(root, join(root, "akasha/one/one.module.code.ts"))).toBe(null)
  })
  
+@@ -67,7 +67,7 @@ test("the program is served a body it compiles and a manifest reaching one alike
+     "akasha/one/one.module.code.ts"
+   )
+   expect(servedOf(root, join(root, PACKAGED, "one/package.json"))).toBe("akasha/one/package.json")
+-  expect(servedOf(root, join(root, "tools/one.ts"))).toBe(null)
++  expect(servedOf(root, join(root, "tools/one.ts"))).toBe("tools/one.ts")
+ })
+ 
+ test("a manifest the change carries is read from the change where resolution asks for it", () => {
