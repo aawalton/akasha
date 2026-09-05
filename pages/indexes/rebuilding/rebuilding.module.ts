@@ -18,7 +18,7 @@ export const rebuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "What was built is put in place by renaming rather than by copying.",
+      statement: "The index that was built is put in place by renaming rather than by copying.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +31,7 @@ export const rebuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "What differs between two indexes is read by walking the two indexes.",
+      statement: "The difference between two indexes is read by walking the two indexes.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +47,7 @@ export const rebuilding = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here says in words what a rebuild did.",
+      statement: "Nothing here says in words the change a rebuild made.",
     },
   ],
 } as const satisfies Module
