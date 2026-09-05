@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts
-index 7146397adbe4fe5b246e172063825e660d61811b..d1c468e92e745e6de19dffc27c93df7f60ad64fd 100644
+index 7146397adbe4fe5b246e172063825e660d61811b..4d4305ad94121ed89b214ef6c4c34f994cefc500 100644
 --- a/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts
 +++ b/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts
 @@ -11,6 +11,8 @@ import {
@@ -11,6 +11,17 @@ index 7146397adbe4fe5b246e172063825e660d61811b..d1c468e92e745e6de19dffc27c93df7f
  import { reachesIn } from "@akasha/code-system/package-manifest"
  import { reachingInto } from "@akasha/graph/graph-asking"
  import { importEdge } from "@akasha/graph/import-edge"
+@@ -39,6 +41,10 @@ const TYPEGEN = "+types"
+ 
+ const DECLARED = ".d.ts"
+ 
++const LIBRARY = ".lua-runtime-library.ts"
++
++const CONFIGS = [universalConfig.fileName, lua50Config.fileName]
++
+ const CONFIG_NAME = "tsconfig.typecheck.json"
+ 
+ const TYPES_AT = "node_modules/@types"
 diff --git a/code-system/package.json b/code-system/package.json
 index 7300bc81a9f458e9c8bf7b9482ade0de796ffd7c..428a2f46ff909d20d6fdbd1070345ccf3c26e136 100644
 --- a/code-system/package.json
