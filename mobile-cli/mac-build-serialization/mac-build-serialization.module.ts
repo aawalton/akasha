@@ -45,7 +45,8 @@ export const macBuildSerialization = {
     },
     {
       invariantKind: "departure",
-      statement: "Reserving re-reads the counter file rather than trusting what choosing read.",
+      statement:
+        "Reserving re-reads the counter file rather than trusting the number choosing read.",
     },
     {
       invariantKind: "departure",
