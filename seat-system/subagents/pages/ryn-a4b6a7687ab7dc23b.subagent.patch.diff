@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/commands/track/track.command.ts b/command-system/commands/track/track.command.ts
-index bf6a282b775defc749d92e87683ec7437cca0f02..9b30ad5e2ef4b5b1859f5426155116eeb3a905cb 100644
+index bf6a282b775defc749d92e87683ec7437cca0f02..d90acc3f64027adc1b676639709df5d412bc5561 100644
 --- a/command-system/commands/track/track.command.ts
 +++ b/command-system/commands/track/track.command.ts
 @@ -75,7 +75,7 @@ export const track = {
@@ -45,6 +45,15 @@ index bf6a282b775defc749d92e87683ec7437cca0f02..9b30ad5e2ef4b5b1859f5426155116ee
        invariantKind: "absence",
 -      statement: "`check` says nothing beyond what `check` refuses.",
 +      statement: "`check` says nothing beyond its own refusals.",
+     },
+     {
+       invariantKind: "departure",
+@@ -388,7 +388,7 @@ export const track = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every act that writes is judged by what `check` judges.",
++      statement: "Every act that writes is judged as `check` judges.",
      },
      {
        invariantKind: "departure",
