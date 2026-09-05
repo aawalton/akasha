@@ -13,7 +13,7 @@ export const domainTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "The panel draws what that file holds before any change to it arrives.",
+      statement: "The panel draws the rows that file holds before any change to the file arrives.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +29,8 @@ export const domainTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A panel becoming visible with a drawing owed draws what the file last said.",
+      statement:
+        "A panel becoming visible with a drawing owed draws the rows the file last carried.",
     },
     {
       invariantKind: "departure",
