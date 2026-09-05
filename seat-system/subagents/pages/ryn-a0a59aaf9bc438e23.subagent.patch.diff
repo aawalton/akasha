@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/name-places/pages/type-identifier.name-place.ts b/pages/name-places/pages/type-identifier.name-place.ts
+index c18e7bc71ae1728542fa5973f5232e18c243474a..e1d7accdd720363a4bf59b5a7ca57aeb48424529 100644
+--- a/pages/name-places/pages/type-identifier.name-place.ts
++++ b/pages/name-places/pages/type-identifier.name-place.ts
+@@ -9,7 +9,8 @@ export const typeIdentifier = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A type is named for what the type holds rather than for the file the type is in.",
++      statement:
++        "A type is named for the thing the type holds rather than for the file the type is in.",
+     },
+     {
+       invariantKind: "departure",
