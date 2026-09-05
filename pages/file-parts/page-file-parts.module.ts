@@ -26,7 +26,7 @@ export const pageFileParts = {
     },
     {
       invariantKind: "departure",
-      statement: "What `partAt` puts together `heldIn` takes apart again.",
+      statement: "The name `partAt` puts together `heldIn` takes apart again.",
     },
     {
       invariantKind: "departure",
