@@ -36,7 +36,7 @@ export const temperMetricTree = {
     },
     {
       invariantKind: "departure",
-      statement: "A node of type `metric` is what the catalog names by `metric-id`.",
+      statement: "A node of type `metric` is the metric the catalog names by `metric-id`.",
     },
     {
       invariantKind: "departure",
