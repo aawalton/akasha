@@ -23,7 +23,8 @@ export const readoutAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A fault names what could not be read ahead of the store's own words.",
+      statement:
+        "A fault names the reading that could not be taken ahead of the store's own words.",
     },
     {
       invariantKind: "departure",
