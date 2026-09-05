@@ -47,7 +47,8 @@ export const indexAnswering = {
     },
     {
       invariantKind: "departure",
-      statement: "A question here takes what the reader beneath takes besides what is bound here.",
+      statement:
+        "A question here takes the arguments the reader beneath takes besides the arguments bound here.",
     },
     {
       invariantKind: "departure",
@@ -55,7 +56,7 @@ export const indexAnswering = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer here is what the reader beneath answers with that reading.",
+      statement: "An answer here is the answer the reader beneath gives with that reading.",
     },
     {
       invariantKind: "departure",
