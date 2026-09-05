@@ -8,6 +8,7 @@ export const esoRig = {
   manifest: "json",
   partSlugs: [
     "container-recipe/eso-rig-image",
+    "manifest/eso-rig-manifests",
     "python-module/eso-rig-probe",
     "shell-script/eso-rig-cluster-publish",
     "shell-script/eso-rig-entrypoint",
