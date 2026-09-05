@@ -36,7 +36,7 @@ export const exerciseEquipmentSet = {
     },
     {
       invariantKind: "departure",
-      statement: "A field the call does not name is left as it was.",
+      statement: "A field the call does not name is left as that field was.",
     },
     {
       invariantKind: "departure",
