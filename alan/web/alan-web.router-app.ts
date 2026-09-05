@@ -144,5 +144,6 @@ export const alanWeb = {
     "route/about",
     "route/claude-usage",
     "route/inbox-stoplights",
+    "route/pages-ready",
   ],
 } as const satisfies RouterApp
