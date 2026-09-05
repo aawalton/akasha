@@ -53,8 +53,15 @@ export const supervisorLogSweeping = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A directory whose entries cannot be listed is named as unread, left as it is, and the run that met it exits non-zero.",
+      statement: "A directory whose entries cannot be listed is named as unread.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A directory whose entries cannot be listed is not taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The run exits non-zero where a directory's entries cannot be listed.",
     },
     {
       invariantKind: "departure",
