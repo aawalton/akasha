@@ -54,3 +54,24 @@ index 6f7e0d02222da9b6c2013070c25a49c071cfe1a4..b7bf18220f58542f9ac93e558782bace
    }
  }
  
+diff --git a/seat-system/subagent-census/subagent-census.module.ts b/seat-system/subagent-census/subagent-census.module.ts
+index b9eb2c02084d8667271645064875dd27379f7a53..06ac39db96be23fe156a52c0b15e2a30c9b3fe3b 100644
+--- a/seat-system/subagent-census/subagent-census.module.ts
++++ b/seat-system/subagent-census/subagent-census.module.ts
+@@ -35,7 +35,15 @@ export const subagentCensus = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page whose seat runs on no live process reads as stale.",
++      statement: "A page whose seat's agent id is carried by no process at all reads as stale.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No command line is read, because a removal leans on no pattern matching one.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A process a seat left behind reads that seat as there.",
+     },
+     {
+       invariantKind: "departure",
