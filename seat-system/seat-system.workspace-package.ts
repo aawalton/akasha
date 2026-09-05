@@ -30,6 +30,7 @@ export const seatSystem = {
     "module/subagent-guard",
     "module/subagent-page",
     "module/subagent-page-akasha",
+    "module/subagent-page-history",
     "module/takeover-seat",
     "module/transcript-materialize",
     "module/agent-io-probe",
