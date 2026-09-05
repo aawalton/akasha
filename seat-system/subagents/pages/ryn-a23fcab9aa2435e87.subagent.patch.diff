@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/story/story-chapters-read/properties/removed-at.instant-property.ts b/story/story-chapters-read/properties/removed-at.instant-property.ts
+index b79b85a26346efb61f51362a6bcc6fffc908dd69..eff8932f59c48004061fa41ba6410ff8841542ea 100644
+--- a/story/story-chapters-read/properties/removed-at.instant-property.ts
++++ b/story/story-chapters-read/properties/removed-at.instant-property.ts
+@@ -12,7 +12,7 @@ export const removedAt = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What akasha holds of a collection is kept after the source takes the collection down.",
++        "The pages akasha holds of a collection are kept after the source takes the collection down.",
+     },
+   ],
+ } as const satisfies InstantProperty
