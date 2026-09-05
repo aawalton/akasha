@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper.domain.ts b/temper/temper.domain.ts
+index 79ecb6b1a7023b3af6a2a18131676a9b09cf9a20..39d0d5a5cec4a2883303ae26682c3244c5e47286 100644
+--- a/temper/temper.domain.ts
++++ b/temper/temper.domain.ts
+@@ -167,7 +167,7 @@ export const temper = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page type temper carries is worked out from what its pages state.",
++      statement: "A page type temper carries is worked out from the page types its pages state.",
+     },
+     {
+       invariantKind: "departure",
