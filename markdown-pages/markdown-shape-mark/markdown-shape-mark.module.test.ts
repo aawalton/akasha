@@ -122,12 +122,12 @@ test("skew outlives a status and an index refresh", () => {
   }
 })
 
-// NOT REPORTED, and the mark stays null. A path staged as deleted whose file still stands holds
+// NOT REPORTED, and the mark stays null. A path staged as deleted whose file is still there holds
 // the commit's own content, so a mark could in principle be worked out for it — but `git diff`
 // walks the index and answers for that path as a deletion, so this refuses it rather than reading
 // past what git will say. The cost is the recompute that was always paid here; the alternative was
 // a second kind of reasoning about a rarer state, which is where a wrong answer would come from.
-test("a path staged as deleted whose file still stands is refused", () => {
+test("a path staged as deleted whose file is still there is refused", () => {
   const root = madeCheckout()
   try {
     execFileSync("git", ["update-index", "--force-remove", "--", "page/a.ts"], {
@@ -284,7 +284,7 @@ test("a page path git would quote is still in the named blobs", () => {
 })
 
 // NOT REPORTED. One real change is enough: skew and a changed file together are a changed tree.
-test("skew standing beside a changed file is not skew", () => {
+test("skew beside a changed file is not skew", () => {
   const root = madeCheckout()
   try {
     stagedThen(root, "page/a.ts", "STAGED\n", "one\n")
@@ -295,7 +295,7 @@ test("skew standing beside a changed file is not skew", () => {
   }
 })
 
-// NOT REPORTED, and the mark stands. A file rewritten with its own content is a difference to
+// NOT REPORTED, and the mark holds. A file rewritten with its own content is a difference to
 // `diff-index --quiet` and to nothing else: no blob anywhere disagrees, so there is no path here
 // for an agent to act on and none is named. This is the other silent null the mark used to take.
 test("a stale stat is no paths at all, not skew", () => {

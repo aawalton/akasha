@@ -25,7 +25,7 @@ test("an akasha page's name carries its page type", () => {
   expect(typeSlotOf("akasha/t/s.spark.ts")).toBe("spark")
 })
 
-test("a file standing beside a page carries no page type", () => {
+test("a file beside a page carries no page type", () => {
   expect(typeSlotOf("akasha/pages-system/pages/beside/page-beside.module.code.ts")).toBeNull()
   expect(typeSlotOf("akasha/pages-system/pages/beside/page-beside.module.test.ts")).toBeNull()
   expect(
@@ -41,7 +41,7 @@ test("a file naming no page type at all carries none", () => {
   expect(typeSlotOf("README.md")).toBeNull()
 })
 
-test("a `.ts` name is claimed only where its page type stands here", () => {
+test("a `.ts` name is claimed only where its page type is here", () => {
   const types = [typeNamed("daily-tracking")]
   const claimed = claimant(
     "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05/day-2026-03-05.daily-tracking.ts",

@@ -19,9 +19,9 @@ export function isAttachmentExtension(one: string): boolean {
 }
 
 /**
- * The file an attachment stands in, beside the page that names it.
+ * The file an attachment is in, beside the page that names it.
  *
- * A page is a markdown file under `pages/` or a TypeScript file under `akasha/`, and what stands
+ * A page is a markdown file under `pages/` or a TypeScript file under `akasha/`, and what sits
  * beside either one is named by dropping the page's own extension. `besideAt` is where akasha states
  * that rule, so a `.ts` page is asked of it rather than answered by a second copy of the rule here.
  */
@@ -65,7 +65,7 @@ export function attachmentPathFor(
     besideAt(pagePath, key, tailOf(extension, uncommitted)) !== null ||
     pagePath.endsWith(PAGE_SUFFIX)
   if (!named) {
-    throw new Error(`an attachment stands beside a page, and '${pagePath}' is not one`)
+    throw new Error(`an attachment sits beside a page, and '${pagePath}' is not one`)
   }
   return attachmentFileOf(pagePath, key, extension, uncommitted)
 }

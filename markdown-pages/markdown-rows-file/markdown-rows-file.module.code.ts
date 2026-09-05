@@ -29,7 +29,7 @@ export function isRowsFile(relPath: string): boolean {
 }
 
 /**
- * The file the rows of one property stand in, beside the page that names them.
+ * The file the rows of one property are in, beside the page that names them.
  *
  * A markdown page drops `.md` and takes the key and the suffix. An akasha page is a `.ts` file and
  * drops `.ts` the same way — but that rule is akasha's own and is stated once, in `besideAt`, which

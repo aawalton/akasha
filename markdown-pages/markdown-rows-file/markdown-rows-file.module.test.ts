@@ -20,7 +20,7 @@ const MARKDOWN_DAY = "pages/daily-tracking/2026-03-05.daily-tracking.md"
 const AKASHA_DAY =
   "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05/day-2026-03-05.daily-tracking.ts"
 
-describe("what stands beside a page", () => {
+describe("what sits beside a page", () => {
   test("a markdown page's rows drop `.md`", () => {
     expect(rowsFileOf(MARKDOWN_DAY, "sessions")).toBe(
       "pages/daily-tracking/2026-03-05.daily-tracking.sessions.jsonl"
