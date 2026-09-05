@@ -1,0 +1,32 @@
+diff --git a/alan/tracking/daily/tracking-shape/tracking-shape.module.code.ts b/alan/tracking/daily/tracking-shape/tracking-shape.module.code.ts
+index 095fc3716dcbb54ce8375d8ef3fa04994dd3c376..d878f462942ef74d93d7b44557e25c8ca3faa651 100644
+--- a/alan/tracking/daily/tracking-shape/tracking-shape.module.code.ts
++++ b/alan/tracking/daily/tracking-shape/tracking-shape.module.code.ts
+@@ -44,14 +44,6 @@
+  * fails a typecheck nobody ran.
+  */
+ 
+-/**
+- * The page type a day is in MARKDOWN, declared at `pages/page-type/daily-tracking.page-type.md`.
+- *
+- * This is the name the source corpus states and the name the converter reads a day back out of. It
+- * is NOT the name a day answers to once it stands in akasha — see `AKASHA_DAY_PAGE_TYPE` below.
+- */
+-export const DAY_PAGE_TYPE = "daily-tracking"
+-
+ /**
+  * The page type a day is in AKASHA, declared at
+  * `alan/tracking/daily/wake-days/wake-day.page-type.ts`, which states `slug: "wake-day"` and
+diff --git a/health-samples-access/sample-selecting/sample-selecting.module.code.ts b/health-samples-access/sample-selecting/sample-selecting.module.code.ts
+index b4936189025a4e820d551cf3a5a1e467fae40888..9c062ada86a8227b1f1f0178a0dab9c80280deeb 100644
+--- a/health-samples-access/sample-selecting/sample-selecting.module.code.ts
++++ b/health-samples-access/sample-selecting/sample-selecting.module.code.ts
+@@ -5,8 +5,6 @@ import { instantMs } from "../sample-identity/sample-identity.module.code.ts"
+ import { ANCHOR_PAGE_TYPE, ROW_CEILING, recordOf } from "../sample-rows/sample-rows.module.code.ts"
+ import type { HealthMetric, HealthSampleRecord } from "../sample-shape/sample-shape.module.code.ts"
+ 
+-export const HEALTH_SAMPLE_PAGE_TYPE = "health-sample"
+-
+ export const SAMPLE_ROWS_KEY = "health-samples"
+ 
+ export const DAYS_KEPT_IN = "alan/tracking/daily/eso-days/pages"
