@@ -1,19 +1,24 @@
 diff --git a/infrastructure/cluster-manifests/cluster-manifests.workspace-package.ts b/infrastructure/cluster-manifests/cluster-manifests.workspace-package.ts
-index a5120965c7a2a7ca47d58b117c0980c46e3b9adc..60abe49323be2880f973b88766b1ecfd41dd158f 100644
+index a5120965c7a2a7ca47d58b117c0980c46e3b9adc..749a8c2e753204f6a8c92a0b50a2756d310dc17b 100644
 --- a/infrastructure/cluster-manifests/cluster-manifests.workspace-package.ts
 +++ b/infrastructure/cluster-manifests/cluster-manifests.workspace-package.ts
-@@ -20,7 +20,10 @@ export const clusterManifests = {
+@@ -20,8 +20,15 @@ export const clusterManifests = {
      "module/cloudflared-rbac",
      "module/cloudnative-pg-rbac",
      "module/cloudnative-pg-synth",
 -    "manifest/cnpg-cluster",
 +<<<<<<< what this change would leave
++<<<<<<< what this change would leave
 +    "module/cnpg-cluster",
 +=======
 +>>>>>>> what HEAD holds
      "manifest/cnpg-object-store",
++=======
++    "manifest/cnpg-cluster",
++>>>>>>> what HEAD holds
      "manifest/cnpg-scheduled-backup",
      "module/collections-rbac",
+     "module/eso-rig-rbac",
 diff --git a/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.manifest.code.ts b/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.manifest.code.ts
 deleted file mode 100644
 index 53f432e0acb9c459f679378de93c8ff0c8be60b3..0000000000000000000000000000000000000000
@@ -282,6 +287,61 @@ index 0000000000000000000000000000000000000000..fceb2e8c93dcda106c2660cc50904705
 +  definition: "the managed Postgres cluster and the instances it keeps",
 +  code: "ts",
 +} as const satisfies Module
+diff --git a/infrastructure/cluster-manifests/cnpg-object-store/cnpg-object-store.manifest.code.ts b/infrastructure/cluster-manifests/cnpg-object-store/cnpg-object-store.manifest.code.ts
+deleted file mode 100644
+index 0d3673b627fe9bc3351486ec49a51871c68e7085..0000000000000000000000000000000000000000
+--- a/infrastructure/cluster-manifests/cnpg-object-store/cnpg-object-store.manifest.code.ts
++++ /dev/null
+@@ -1,34 +0,0 @@
+-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+-
+-const NAMESPACE = "postgres"
+-
+-const BACKUP_S3_SECRET = "postgres-cnpg-backup-s3"
+-
+-export function objectStoreYaml(): string {
+-  return synthOne(NAMESPACE, "postgres-cnpg-objectstore", {
+-    apiVersion: "barmancloud.cnpg.io/v1",
+-    kind: "ObjectStore",
+-    metadata: {
+-      name: "postgres-cnpg-backup-store",
+-      namespace: NAMESPACE,
+-    },
+-    spec: {
+-      configuration: {
+-        destinationPath: "s3://postgres-cnpg-backups/",
+-        endpointURL: "http://s3-gateway.seaweedfs.svc.cluster.local:8333",
+-        s3Credentials: {
+-          accessKeyId: { name: BACKUP_S3_SECRET, key: "access_key" },
+-          secretAccessKey: { name: BACKUP_S3_SECRET, key: "secret_key" },
+-        },
+-        data: {
+-          compression: "gzip",
+-          immediateCheckpoint: true,
+-          jobs: 1,
+-          additionalCommandArgs: ["--min-chunk-size=5MB", "--max-archive-size=5GB"],
+-        },
+-        wal: { compression: "gzip" },
+-      },
+-      retentionPolicy: "7d",
+-    },
+-  })
+-}
+diff --git a/infrastructure/cluster-manifests/cnpg-object-store/cnpg-object-store.manifest.ts b/infrastructure/cluster-manifests/cnpg-object-store/cnpg-object-store.manifest.ts
+deleted file mode 100644
+index 25efd1d70c4dabae0f861e59710745a75ffe4f57..0000000000000000000000000000000000000000
+--- a/infrastructure/cluster-manifests/cnpg-object-store/cnpg-object-store.manifest.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Manifest } from "@akasha/k8s-types/manifest"
+-
+-export const cnpgObjectStore = {
+-  id: "01a06810-1262-7032-8aec-41b84efe28f1",
+-  pageTypeSlug: "manifest",
+-  slug: "cnpg-object-store",
+-  definition: "the bucket the database's backups are written to",
+-  code: "ts",
+-} as const satisfies Manifest
 diff --git a/infrastructure/cluster-manifests/cnpg-object-store/cnpg-object-store.module.code.ts b/infrastructure/cluster-manifests/cnpg-object-store/cnpg-object-store.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..0d3673b627fe9bc3351486ec49a51871c68e7085
@@ -861,17 +921,22 @@ index 0000000000000000000000000000000000000000..edb58ca6e7b5bec2866d3af0e70446fa
 +  code: "ts",
 +} as const satisfies Module
 diff --git a/infrastructure/cluster-manifests/package.json b/infrastructure/cluster-manifests/package.json
-index 2e3f1f19ad85a1923ea5d149c7560f380f47bd64..4fdd5ae07c185fefe04a12503f9d33760694a558 100644
+index 2e3f1f19ad85a1923ea5d149c7560f380f47bd64..5f6c7ee9a0f741665ca0c217c39b9085bf3f5d32 100644
 --- a/infrastructure/cluster-manifests/package.json
 +++ b/infrastructure/cluster-manifests/package.json
-@@ -13,7 +13,6 @@
+@@ -13,8 +13,11 @@
      "./ci-namespace-synth": "./ci-namespace-synth/ci-namespace-synth.module.code.ts",
      "./cloudflared-rbac": "./cloudflared-rbac/cloudflared-rbac.module.code.ts",
      "./cloudnative-pg-rbac": "./cloudnative-pg-rbac/cloudnative-pg-rbac.module.code.ts",
 -    "./cnpg-cluster": "./cnpg-cluster/cnpg-cluster.manifest.code.ts",
++<<<<<<< what this change would leave
      "./cnpg-object-store": "./cnpg-object-store/cnpg-object-store.manifest.code.ts",
++=======
++    "./cnpg-cluster": "./cnpg-cluster/cnpg-cluster.manifest.code.ts",
++>>>>>>> what HEAD holds
      "./cnpg-scheduled-backup": "./cnpg-scheduled-backup/cnpg-scheduled-backup.manifest.code.ts",
      "./collections-rbac": "./collections-rbac/collections-rbac.module.code.ts",
+     "./eso-rig-rbac": "./eso-rig-rbac/eso-rig-rbac.module.code.ts",
 diff --git a/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.module.code.ts b/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..42074de4a21137062c9bf94978a4c0203b0f882b
