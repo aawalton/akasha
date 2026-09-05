@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/gate-building/gate-building.module.ts b/command-system/gate-building/gate-building.module.ts
+index cfbfb98822eb199099cf9d3d8e0887d9a6bf6382..d0df97acf7a385791f8760a6bb490a0cf5b6027f 100644
+--- a/command-system/gate-building/gate-building.module.ts
++++ b/command-system/gate-building/gate-building.module.ts
+@@ -92,7 +92,7 @@ export const gateBuilding = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "This module is never told whether it ran.",
++      statement: "This module is never told whether the gate ran.",
+     },
+     {
+       invariantKind: "gap",
