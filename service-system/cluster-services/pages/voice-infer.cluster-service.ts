@@ -11,6 +11,5 @@ export const voiceInfer = {
   image: "registry.registry.svc.cluster.local:5000/cluster/voice-infer-cu121:serving",
   replicas: 1,
   containerPort: 8080,
-  manifestCode:
-    "infrastructure/voice-inference/voice-infer.cluster-service.code.attachment.ts",
+  manifestSlug: "voice-infer",
 } as const satisfies ClusterService
