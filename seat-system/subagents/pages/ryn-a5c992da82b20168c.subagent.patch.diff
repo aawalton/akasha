@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/attributes/attribute.page-type.ts b/alan/attributes/attribute.page-type.ts
+index 263f7e8304b7cf4ff396f620c3cb11bb8a59aba6..1583eb8031e260bf006fef117f005a96cad74cd8 100644
+--- a/alan/attributes/attribute.page-type.ts
++++ b/alan/attributes/attribute.page-type.ts
+@@ -33,7 +33,7 @@ export const attribute = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What earns one point never changes.",
++      statement: "An attribute's point unit never changes.",
+     },
+     {
+       invariantKind: "departure",
