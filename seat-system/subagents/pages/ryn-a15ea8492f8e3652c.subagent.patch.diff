@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/service-system/workstation-services/pages/surplus-fall-notifier.workstation-service.ts b/service-system/workstation-services/pages/surplus-fall-notifier.workstation-service.ts
+index 6f99f5ae4c7e0ca3c5c83622932af50908104fc7..ff351fbb3d193323fa725fed1fee6187042f71a8 100644
+--- a/service-system/workstation-services/pages/surplus-fall-notifier.workstation-service.ts
++++ b/service-system/workstation-services/pages/surplus-fall-notifier.workstation-service.ts
+@@ -17,7 +17,7 @@ export const surplusFallNotifier = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every rung between where the day opened and where it is now is claimed.",
++      statement: "Every rung between where the day opened and where that day is now is claimed.",
+     },
+     {
+       invariantKind: "departure",
