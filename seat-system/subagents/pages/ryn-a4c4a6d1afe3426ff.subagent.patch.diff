@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-quests-addon/quests-trace/quests-trace.module.ts b/temper/temper-quests-addon/quests-trace/quests-trace.module.ts
+index 93e980e99aea1ed359bacc4f3d7ed0a7b8f3e2c1..ae240b030689748fb3d09245389227ce5aef7307 100644
+--- a/temper/temper-quests-addon/quests-trace/quests-trace.module.ts
++++ b/temper/temper-quests-addon/quests-trace/quests-trace.module.ts
+@@ -25,7 +25,7 @@ export const questsTrace = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Turning tracing on again clears what was written before.",
++      statement: "Turning tracing on again clears the trace written before.",
+     },
+   ],
+ } as const satisfies Module
