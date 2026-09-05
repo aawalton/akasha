@@ -23,8 +23,6 @@ import { identityIn } from "../identity/index-identity.index.code.ts"
 import { indexIdentity } from "../identity/index-identity.index.ts"
 import { importIn } from "../import/index-import.index.code.ts"
 import { indexImport } from "../import/index-import.index.ts"
-import { valueIn } from "../index/value/index-value.index.code.ts"
-import { indexValue } from "../index/value/index-value.index.ts"
 import {
   type Entry,
   fileKeysAt,
@@ -60,6 +58,8 @@ import { NOTHING_FILED, relationIn } from "../relation/index-relation.index.code
 import { indexRelation } from "../relation/index-relation.index.ts"
 import { schemaIn } from "../schema/index-schema.index.code.ts"
 import { indexSchema } from "../schema/index-schema.index.ts"
+import { valueIn } from "../value/index-value.index.code.ts"
+import { indexValue } from "../value/index-value.index.ts"
 
 const IDENTITY = indexIdentity.name
 
