@@ -9,10 +9,6 @@ export const wanArguing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The act is the first word and one call names one act.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A flag the named act does not take is refused rather than passed along.",
     },
     {
