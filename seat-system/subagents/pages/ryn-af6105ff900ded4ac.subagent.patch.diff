@@ -13,6 +13,21 @@ index 7f03ac46ac7016f7583c690093dabc1ed212e7a4..7d3eadc2c47a466ab3b50ecc1b036efe
      {
        invariantKind: "departure",
        statement: "Notes given are added under the notes already there.",
+diff --git a/alan/fitness/commands/exercise-session-show/exercise-session-show.command.ts b/alan/fitness/commands/exercise-session-show/exercise-session-show.command.ts
+index 437809ee89da135a5359e0b6b60224cd31310313..9a52747d1d54ea9030178f3514eb639eaff66538 100644
+--- a/alan/fitness/commands/exercise-session-show/exercise-session-show.command.ts
++++ b/alan/fitness/commands/exercise-session-show/exercise-session-show.command.ts
+@@ -20,10 +20,6 @@ export const exerciseSessionShow = {
+     "the volume counts the bodyweight the client profile states.",
+   ],
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The session left unsaid is the most recent one still open.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "The sets are ordered by movement and then by set number.",
 diff --git a/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts b/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts
 index a7d6387750d124e93d74d1479cc354a4d15fde02..bf1e5617bada3460773a2553d5f6734fbf7e2964 100644
 --- a/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts
