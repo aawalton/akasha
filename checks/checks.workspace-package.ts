@@ -7,6 +7,8 @@ export const checks = {
   definition: "how a change is judged against what must be true of it",
   manifest: "json",
   partSlugs: [
+    "module/body-not-utf8",
+    "module/refusal-text",
     "page-type/code-check",
     "page-type/cluster-check",
     "page-type/model-check",

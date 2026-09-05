@@ -1,6 +1,6 @@
 import { AKASHA, rootFor, rootsHere } from "@akasha/pages-system/checkout-roots"
 import { textAt, valueAt } from "@akasha/pages-system/page-value"
-import { HOLE } from "../markdown-document-holes/markdown-document-holes.module.code.ts"
+import { HOLE } from "../../../markdown-pages/markdown-document-holes/markdown-document-holes.module.code.ts"
 
 const REFUSALS = "checks/refusals/pages"
 

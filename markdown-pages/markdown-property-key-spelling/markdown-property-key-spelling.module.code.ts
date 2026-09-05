@@ -1,4 +1,4 @@
-import { refusalText } from "../markdown-refusal-text/markdown-refusal-text.module.code.ts"
+import { refusalText } from "../../checks/modules/refusal-text/refusal-text.module.code.ts"
 
 export function kebabized(key: string): string {
   return key.replace(/([a-z0-9])([A-Z])/g, "$1-$2").toLowerCase()

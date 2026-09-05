@@ -1,4 +1,5 @@
 import type { Property } from "@akasha/pages-system/markdown-property"
+import { refusalText } from "../../checks/modules/refusal-text/refusal-text.module.code.ts"
 import {
   blanked,
   boundsFor,
@@ -11,7 +12,6 @@ import type {
   Vocabulary,
 } from "../markdown-property-stating/markdown-property-stating.module.code.ts"
 import { arms, ruleFor } from "../markdown-property-value/markdown-property-value.module.code.ts"
-import { refusalText } from "../markdown-refusal-text/markdown-refusal-text.module.code.ts"
 import { NONE } from "../markdown-text-at/markdown-text-at.module.code.ts"
 
 export interface RowJudgment {

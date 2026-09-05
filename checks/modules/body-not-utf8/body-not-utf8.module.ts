@@ -1,9 +1,9 @@
 import type { Module } from "@akasha/code-system/module"
 
-export const markdownBodyNotUtf8 = {
+export const bodyNotUtf8 = {
   id: "01a06982-39cd-7000-aaed-afa3d4b4e20b",
   pageTypeSlug: "module",
-  slug: "markdown-body-not-utf8",
+  slug: "body-not-utf8",
   definition: "the words refusing a body whose bytes are not utf8, with what was read of them",
   code: "ts",
   invariants: [

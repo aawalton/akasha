@@ -4,7 +4,6 @@
   "type": "module",
   "exports": {
     "./attachment-file": "./markdown-attachment-file/markdown-attachment-file.module.code.ts",
-    "./body-not-utf8": "./markdown-body-not-utf8/markdown-body-not-utf8.module.code.ts",
     "./document-frontmatter": "./markdown-document-frontmatter/markdown-document-frontmatter.module.code.ts",
     "./document-holes": "./markdown-document-holes/markdown-document-holes.module.code.ts",
     "./document-position": "./markdown-document-position/markdown-document-position.module.code.ts",
@@ -46,7 +45,6 @@
     "./property-type-cache": "./markdown-property-type-cache/markdown-property-type-cache.module.code.ts",
     "./property-value": "./markdown-property-value/markdown-property-value.module.code.ts",
     "./property-vocabulary": "./markdown-property-vocabulary/markdown-property-vocabulary.module.code.ts",
-    "./refusal-text": "./markdown-refusal-text/markdown-refusal-text.module.code.ts",
     "./repo-claim": "./markdown-repo-claim/markdown-repo-claim.module.code.ts",
     "./rows-file": "./markdown-rows-file/markdown-rows-file.module.code.ts",
     "./runtime-mark": "./markdown-runtime-mark/markdown-runtime-mark.module.code.ts",

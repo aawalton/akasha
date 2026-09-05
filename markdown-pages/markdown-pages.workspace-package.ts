@@ -8,7 +8,6 @@ export const markdownPages = {
   manifest: "json",
   partSlugs: [
     "module/markdown-attachment-file",
-    "module/markdown-body-not-utf8",
     "module/markdown-document-frontmatter",
     "module/markdown-document-holes",
     "module/markdown-document-position",
@@ -60,7 +59,6 @@ export const markdownPages = {
     "module/markdown-property-type-cache",
     "module/markdown-property-value",
     "module/markdown-property-vocabulary",
-    "module/markdown-refusal-text",
     "module/markdown-repo-claim",
     "module/markdown-rows-file",
     "module/markdown-runtime-mark",
