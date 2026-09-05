@@ -1,0 +1,15 @@
+diff --git a/temper/temper-upstream-data/map-data-upstream-port/map-data-upstream-port.module.ts b/temper/temper-upstream-data/map-data-upstream-port/map-data-upstream-port.module.ts
+index 636fbc86e4fad4a4e030f98a5870f55c43d46220..20c26bd9f62e047c577d9e0de4bb6d96d81edb7f 100644
+--- a/temper/temper-upstream-data/map-data-upstream-port/map-data-upstream-port.module.ts
++++ b/temper/temper-upstream-data/map-data-upstream-port/map-data-upstream-port.module.ts
+@@ -7,10 +7,6 @@ export const mapDataUpstreamPort = {
+   definition: "the map tables upstream LibMapData carries, copied out as TypeScript",
+   code: "ts",
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The upstream Lua file is read by running the file in a sandboxed Lua machine.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "The tables are serialized by Lua rather than carried across as values.",
