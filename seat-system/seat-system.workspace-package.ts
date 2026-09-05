@@ -422,7 +422,7 @@ export const seatSystem = {
     },
     {
       invariantKind: "gap",
-      statement: "Nothing outside akasha says what a seat is.",
+      statement: "Nothing outside akasha defines a seat.",
     },
     {
       invariantKind: "gap",
