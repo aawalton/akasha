@@ -1,0 +1,79 @@
+diff --git a/check/akasha-check.domain.ts b/check/akasha-check.domain.ts
+index 8d04b1853ec694a0196d0eab8063e30af01bd2a1..fd07533a92d6ca6d8a781b49c57b5781ce864d70 100644
+--- a/check/akasha-check.domain.ts
++++ b/check/akasha-check.domain.ts
+@@ -9,7 +9,7 @@ export const akashaCheck = {
+     {
+       invariantKind: "stopgap",
+       statement:
+-        "No check stands only to test what the compiler tests apart from the one that runs it.",
++        "No check exists only to test what the compiler tests apart from the one that runs it.",
+     },
+     {
+       invariantKind: "gap",
+diff --git a/email-inbound/sender/sender.module.ts b/email-inbound/sender/sender.module.ts
+index d414f05ebde94a0da572528efc56ad2e7ddc817f..e3c18e9a623510e234727a2b11b1cebbaafe7740 100644
+--- a/email-inbound/sender/sender.module.ts
++++ b/email-inbound/sender/sender.module.ts
+@@ -9,8 +9,7 @@ export const sender = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "An address inside angle brackets wins over the text standing around that address.",
++      statement: "An address inside angle brackets wins over the text around that address.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/ki/ki-collection-templates/ki-collection-template.page-type.ts b/ki/ki-collection-templates/ki-collection-template.page-type.ts
+index 30084a4760c24672570611a1bc1e7a3866c4d327..952faa75c6d0cf8ff8880c5ad6aec1d9ffb92490 100644
+--- a/ki/ki-collection-templates/ki-collection-template.page-type.ts
++++ b/ki/ki-collection-templates/ki-collection-template.page-type.ts
+@@ -17,7 +17,7 @@ export const kiCollectionTemplate = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Every page type of Ki's stands under this one.",
++      statement: "Every page type of Ki's is under this one.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/object-store/key/object-store-key.module.ts b/object-store/key/object-store-key.module.ts
+index 7c27ea7906b39debade6aa614107351caf5b0c59..5ce8a3f6ff718cb57826dc8c4bc853bb7bc4a88d 100644
+--- a/object-store/key/object-store-key.module.ts
++++ b/object-store/key/object-store-key.module.ts
+@@ -4,6 +4,6 @@ export const objectStoreKey = {
+   id: "01a05cbb-139e-779a-847d-a660983cf782",
+   pageTypeSlug: "module",
+   slug: "object-store-key",
+-  definition: "the key each kind of stored object stands under",
++  definition: "the key each kind of stored object is kept under",
+   code: "ts",
+ } as const satisfies Module
+diff --git a/reminder-system/due-reminder-sending/due-reminder-sending.module.ts b/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
+index 1e11e336ad67e68e314d4d87cd11311592aa9ec0..53eb7101decc920a8f382b7e13cb42b8a22ac2ae 100644
+--- a/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
++++ b/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
+@@ -47,7 +47,7 @@ export const dueReminderSending = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A spent reminder still standing after it was to be taken away is reported rather than passed over.",
++        "A spent reminder still there after it was to be taken away is reported rather than passed over.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/web-page-answers/web-page-answers.workspace-package.ts b/web-page-answers/web-page-answers.workspace-package.ts
+index 409191dc933fc17b7fca6cd46232f91bb97bbc01..be37eae45a704172081776ab2d2022a0978def1d 100644
+--- a/web-page-answers/web-page-answers.workspace-package.ts
++++ b/web-page-answers/web-page-answers.workspace-package.ts
+@@ -24,8 +24,7 @@ export const webPageAnswers = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The three answers reaching a service-role client stand behind a `.server` folder.",
++      statement: "The three answers reaching a service-role client sit behind a `.server` folder.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
