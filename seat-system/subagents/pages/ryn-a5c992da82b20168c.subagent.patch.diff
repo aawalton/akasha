@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/required-reading/required-reading.domain.ts b/required-reading/required-reading.domain.ts
-index bf81dd5e1293baa496e0323e528f38319d761b5e..cbdf8bfe195712f078adf9959b43c7cd08e179e2 100644
+index bf81dd5e1293baa496e0323e528f38319d761b5e..36ce626e10ee761b60b22dbae75f1d8b6f3403df 100644
 --- a/required-reading/required-reading.domain.ts
 +++ b/required-reading/required-reading.domain.ts
 @@ -8,7 +8,7 @@ export const requiredReading = {
@@ -9,6 +9,15 @@ index bf81dd5e1293baa496e0323e528f38319d761b5e..cbdf8bfe195712f078adf9959b43c7cd
        invariantKind: "absence",
 -      statement: "Nothing outside akasha asks an agent what the agent has read.",
 +      statement: "Nothing outside akasha asks an agent which bodies the agent has read.",
+     },
+     {
+       invariantKind: "departure",
+@@ -49,7 +49,7 @@ export const requiredReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A body counts as read by whoever landed that body.",
++      statement: "A body counts as read by the agent that landed that body.",
      },
      {
        invariantKind: "departure",
