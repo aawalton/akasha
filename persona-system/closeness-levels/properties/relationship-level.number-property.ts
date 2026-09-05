@@ -16,7 +16,7 @@ export const relationshipLevel = {
     },
     {
       invariantKind: "departure",
-      statement: "A level is read whether it is stored as a number or as text.",
+      statement: "A level is read whether that level is stored as a number or as text.",
     },
     {
       invariantKind: "gap",
