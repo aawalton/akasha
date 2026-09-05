@@ -895,3 +895,11 @@ index 7cc1aa2ca03df5ac3eca9d8fc8b21379698ef467..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-crafting-addon
 \ No newline at end of file
+diff --git a/temper/temper-dungeon-champions/temper-dungeon-champions b/temper/temper-dungeon-champions/temper-dungeon-champions
+deleted file mode 120000
+index b71a990ebea249929d214b9643d8f6b6b7202fb6..0000000000000000000000000000000000000000
+--- a/temper/temper-dungeon-champions/temper-dungeon-champions
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-dungeon-champions
+\ No newline at end of file
