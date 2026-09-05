@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/testing-system/dom-registering/dom-registering.module.ts b/testing-system/dom-registering/dom-registering.module.ts
+index cd16768f57cbc0521ac75ac68e9da14321afedc1..3439d882adfbca959898edfd95b1782dbc835d3d 100644
+--- a/testing-system/dom-registering/dom-registering.module.ts
++++ b/testing-system/dom-registering/dom-registering.module.ts
+@@ -17,7 +17,7 @@ export const domRegistering = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What one test rendered is taken away before the next test runs.",
++      statement: "The components one test rendered are taken away before the next test runs.",
+     },
+     {
+       invariantKind: "absence",
