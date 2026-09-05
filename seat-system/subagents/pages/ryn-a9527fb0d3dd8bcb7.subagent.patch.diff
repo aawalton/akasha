@@ -1,0 +1,13 @@
+diff --git a/checks/cluster-checks/modules/test-step-paths/test-step-paths.module.ts b/checks/cluster-checks/modules/test-step-paths/test-step-paths.module.ts
+index 1ad48d7e22ad60ff023cdf6bbf5912c6002ec35c..bcbc23354387ca254edecff7c5febbd13d2751b8 100644
+--- a/checks/cluster-checks/modules/test-step-paths/test-step-paths.module.ts
++++ b/checks/cluster-checks/modules/test-step-paths/test-step-paths.module.ts
+@@ -9,7 +9,7 @@ export const testStepPaths = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A test file's kind is read from the name it ends with.",
++      statement: "A test file's kind is read from the name that file ends with.",
+     },
+     {
+       invariantKind: "departure",
