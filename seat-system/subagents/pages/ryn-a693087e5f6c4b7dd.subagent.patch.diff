@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts
+index affb930d65b7fef806272a71137e63e1b66a06da..1771722fee59f958a5fc19b703ddf2880b2ea275 100644
+--- a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts
++++ b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts
+@@ -76,7 +76,7 @@ export const keyNamesOneProperty = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What declares a property is read from the index rather than composed here.",
++      statement: "The declarers of a property are read from the index rather than composed here.",
+     },
+     {
+       invariantKind: "departure",
