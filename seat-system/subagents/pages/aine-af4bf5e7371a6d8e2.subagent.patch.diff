@@ -12,7 +12,7 @@ index 3925580b249947a6eb2db6c703e3c495bae31373..ca94aecf34bc59a362669b46cfcbea14
    expect(slugStated(root, "akasha/seat-system/seat/seats/gone.seat.ts", "personaSlug")).toBe(null)
  })
 diff --git a/context/modules/warranting/warranting.module.test.ts b/context/modules/warranting/warranting.module.test.ts
-index 4d77deebe61eca7343c8aa8986ec61ed8d22bd94..fa4699883dffcb7f1e84fe7ad184b89bf84ebd99 100644
+index 4d77deebe61eca7343c8aa8986ec61ed8d22bd94..4f7aac0faaa12ed5cda1b12d42db4ff6a9b52fa2 100644
 --- a/context/modules/warranting/warranting.module.test.ts
 +++ b/context/modules/warranting/warranting.module.test.ts
 @@ -106,7 +106,7 @@ test("a path the record holds no reading of is refused", () => {
@@ -33,8 +33,17 @@ index 4d77deebe61eca7343c8aa8986ec61ed8d22bd94..fa4699883dffcb7f1e84fe7ad184b89b
    const root = rootWith()
    const was = blobIdOf(new TextEncoder().encode("one\n"))
    const oid = writing(root, PATH, "two\n")
+@@ -226,7 +226,7 @@ test("a call charged to no agent is refused whole", () => {
+   expect(unreadIn(root, null, [PATH])).toEqual([NO_AGENT])
+ })
+ 
+-test("a call charged to no agent is refused even where nothing stands", () => {
++test("a call charged to no agent is refused even where nothing exists", () => {
+   const root = rootWith()
+   expect(unreadIn(root, null, ["akasha/thing/new.module.ts"])).toEqual([NO_AGENT])
+ })
 diff --git a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test.ts b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test.ts
-index 3a2f10c6b1c60f0429d00306a47297b66a76f7bf..1f36102b239706214bb6bff820792642cafa485f 100644
+index 3a2f10c6b1c60f0429d00306a47297b66a76f7bf..6127999b5feb1c70bb348d1f5f297e4e75438bc8 100644
 --- a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test.ts
 +++ b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test.ts
 @@ -14,11 +14,11 @@ test("what a change adds is the lines the body did not already hold", () => {
@@ -49,5 +58,14 @@ index 3a2f10c6b1c60f0429d00306a47297b66a76f7bf..1f36102b239706214bb6bff820792642
 -test("a file that stood nowhere adds the whole of itself", () => {
 +test("a file that was not there adds the whole of itself", () => {
    expect(addedIn("", "one\ntwo")).toBe("one\ntwo")
+ })
+ 
+@@ -26,7 +26,7 @@ test("a line moved rather than written is not added", () => {
+   expect(addedIn("one\ntwo", "two\none")).toBe("")
+ })
+ 
+-test("a line written twice where it stood once is added once", () => {
++test("a line written twice where it was there once is added once", () => {
+   expect(addedIn("one", "one\none")).toBe("one")
  })
  
