@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/recurrence/recurrence.workspace-package.ts b/recurrence/recurrence.workspace-package.ts
+index 8d16094b4ee9358a143514a0079af7e22c1665c8..d76c5850738455b81b98dc482667630ee86e2a12 100644
+--- a/recurrence/recurrence.workspace-package.ts
++++ b/recurrence/recurrence.workspace-package.ts
+@@ -22,7 +22,7 @@ export const recurrence = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The caller states what now is.",
++      statement: "The caller states the current time.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
