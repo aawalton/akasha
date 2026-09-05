@@ -9,7 +9,7 @@ export const charactersCollectorMerge = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "A collector never drops what an earlier read stored and this read cannot see.",
+      statement: "A collector never drops a value an earlier read stored and this read cannot see.",
     },
   ],
 } as const satisfies Module
