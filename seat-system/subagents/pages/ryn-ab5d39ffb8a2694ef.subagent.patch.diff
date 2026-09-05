@@ -1,0 +1,16 @@
+diff --git a/alan/harness/monarch/domain-files/monarch-domain-files.module.ts b/alan/harness/monarch/domain-files/monarch-domain-files.module.ts
+index e58d3540752200825410304d192952da70258b38..e427ef76a91818fb5abe0b9efe3a12a5c2e60449 100644
+--- a/alan/harness/monarch/domain-files/monarch-domain-files.module.ts
++++ b/alan/harness/monarch/domain-files/monarch-domain-files.module.ts
+@@ -34,10 +34,7 @@ export const monarchDomainFiles = {
+       statement:
+         "Two rows slugging alike are told apart by Monarch's own id rather than by a number.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A page holds the fields its readers name rather than a copy of Monarch's reply.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "Every page landed is landed from inside akasha.",
