@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/monarch-accounts/properties/current-balance.number-property.ts b/alan/harness/monarch/monarch-accounts/properties/current-balance.number-property.ts
+index bd949b398f481192976d68d53c33a946945b5068..8944d889818a181ab20a18232575ce9b41d3e9ba 100644
+--- a/alan/harness/monarch/monarch-accounts/properties/current-balance.number-property.ts
++++ b/alan/harness/monarch/monarch-accounts/properties/current-balance.number-property.ts
+@@ -16,7 +16,8 @@ export const currentBalance = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A balance is what the sync last read rather than what any row sums to.",
++      statement:
++        "A balance is the figure the sync last read rather than the figure any row sums to.",
+     },
+   ],
+ } as const satisfies NumberProperty
