@@ -29,7 +29,8 @@ export const definition = {
     },
     {
       invariantKind: "departure",
-      statement: "Where a second concern is needed to cover the area it is more than one domain.",
+      statement:
+        "Where a second concern is needed to cover the area, that area is more than one domain.",
     },
     {
       invariantKind: "departure",
