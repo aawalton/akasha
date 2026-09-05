@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/commands/read/read.command.ts b/commands/read/read.command.ts
-index d96451ddfe3a6d439e56bdbaaacc785f7104aea6..50d49925be95a6ba0639077a87e2d0a79a554ed1 100644
+index d96451ddfe3a6d439e56bdbaaacc785f7104aea6..7ec52d29548e121f108d6d140d268ab01997981a 100644
 --- a/commands/read/read.command.ts
 +++ b/commands/read/read.command.ts
 @@ -32,7 +32,7 @@ export const read = {
@@ -34,6 +34,15 @@ index d96451ddfe3a6d439e56bdbaaacc785f7104aea6..50d49925be95a6ba0639077a87e2d0a7
        statement:
 -        "A read of a body that is not UTF-8 text returns what the body is instead of the body.",
 +        "A read of a body that is not UTF-8 text returns a description of the body instead of the body.",
+     },
+     {
+       invariantKind: "departure",
+@@ -79,7 +80,7 @@ export const read = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A body past what one answer holds comes back a run of lines at a time.",
++      statement: "A body past the bytes one answer holds comes back a run of lines at a time.",
      },
      {
        invariantKind: "departure",
