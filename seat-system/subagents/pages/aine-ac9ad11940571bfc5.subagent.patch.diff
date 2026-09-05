@@ -1,0 +1,13 @@
+diff --git a/alan/web-capacitor/vite.config.ts b/alan/web-capacitor/vite.config.ts
+index 3b18681e27edba814cc0b25c67645a9757ad3900..38762639089f5b888593976c2ae13a24e2bf8238 100644
+--- a/alan/web-capacitor/vite.config.ts
++++ b/alan/web-capacitor/vite.config.ts
+@@ -97,7 +97,7 @@ const noNodeInClient: Plugin = {
+ 
+ export default defineConfig({
+   base: "/",
+-  // `@akasha/alanwalton-web` is where the env file the client bundle is built against stands,
++  // `@akasha/alanwalton-web` is where the env file the client bundle is built against sits,
+   // and the two apps are built against one set of names.
+   envDir: "../web",
+   plugins: [tailwindcss(), reactRouter(), noNodeInClient],
