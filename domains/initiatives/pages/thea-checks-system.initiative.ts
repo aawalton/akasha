@@ -24,6 +24,11 @@ export const theaChecksSystem = {
         "Six steps per check: 1 the failure category prevented, 2 the file set covered, 3 the cost over one file not judged, 4 over one judged, 5 over the whole repository, 6 whether green. The entries jsonl holds every run. 43 checks, alphabetical over all 43 whether or not one runs already. Done: domain-is-named-by-a-parent, email-address-is-well-formed. Now: file-has-its-page, steps 1 and 2 done; it judges what a change carries, so audit waits on routes and the old system.",
     },
     {
+      statement: "Every file the repository tracks is claimed by a page.",
+      workingMemory:
+        "630 tracked files no page claims, measured by diffing .git/data/index/path against `git ls-files`, seeded both ways: dotfiles/bin/akasha reads unclaimed, akasha.domain.ts reads claimed. 155 are routes; 149 are cluster-check module bodies whose pages were never written, though 129 claimed check bodies import them; 114 are lua-compiler/lualib/src; the rest are spread over service-system, infrastructure and alan. file-has-its-page cannot reach audit until this is zero.",
+    },
+    {
       statement: "The new system carries every check of the old system that still applies.",
       workingMemory:
         "Ninety old scanners: 11 already carried, 12 hold no rule, 49 judge what has no subject under `akasha/` and wait on the migration, 18 had a subject and are all settled. Carried: no-non-null-assertion, no-angle-bracket-cast, manifest-names-what-is-reached, shell-clean, the property-id taboo term. The other 13 were left, most having nothing here to judge. Twenty-one of the ninety cannot run at all, the graph layer they read being deleted. Resume at the 49 once the migration reaches them.",
