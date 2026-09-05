@@ -41,7 +41,7 @@ export const monarchMonth = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A slug opens with `month-` ahead of the year and the month it covers.",
+      statement: "A slug opens with `month-` ahead of the year and the month that slug covers.",
     },
     {
       invariantKind: "departure",
@@ -57,7 +57,7 @@ export const monarchMonth = {
     },
     {
       invariantKind: "departure",
-      statement: "A month states what it covers and nothing else.",
+      statement: "A month states what that month covers and nothing else.",
     },
     {
       invariantKind: "departure",
