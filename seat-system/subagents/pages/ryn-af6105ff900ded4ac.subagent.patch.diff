@@ -1,3 +1,16 @@
+diff --git a/alan/fitness/exercise-access/exercise-finding/exercise-finding.module.ts b/alan/fitness/exercise-access/exercise-finding/exercise-finding.module.ts
+index 34c44b1603b78ca7ca09eceb24e4c011a9dc4fae..23128cb8d4b72f963d0b4767a39a5a68db492b9e 100644
+--- a/alan/fitness/exercise-access/exercise-finding/exercise-finding.module.ts
++++ b/alan/fitness/exercise-access/exercise-finding/exercise-finding.module.ts
+@@ -21,7 +21,7 @@ export const exerciseFinding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The session a call falls to is the open one when the caller names none.",
++      statement: "The session left unsaid is the most recent one still open.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/changes/atomic-changes/atomic-change.page-type.ts b/changes/atomic-changes/atomic-change.page-type.ts
 index 5c11acd517a726013794d7c13b62dee96089bab8..c0114ddde5d87cdccccf3e05c35832f6606886cb 100644
 --- a/changes/atomic-changes/atomic-change.page-type.ts
