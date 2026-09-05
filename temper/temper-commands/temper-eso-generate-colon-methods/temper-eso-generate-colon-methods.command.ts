@@ -45,7 +45,7 @@ export const temperEsoGenerateColonMethods = {
     },
     {
       invariantKind: "departure",
-      statement: "The command remains while nothing reads what that command would make.",
+      statement: "The command remains while nothing reads the census that command would make.",
     },
     {
       invariantKind: "absence",
