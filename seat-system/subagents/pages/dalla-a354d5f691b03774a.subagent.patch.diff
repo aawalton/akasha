@@ -28,6 +28,30 @@ index 83a05ec003faf65d156d48a337d8fe6d50b27134..1cb37b6156c8bbcf0f1373c92d06b022
    const asRead = agentId === null ? [] : asReadOf(root, agentId, said.held)
    const done = await landing(root, formatting.changes, said0, gate, writer, head, asRead, carries)
    if ("refusals" in done) return done
+diff --git a/command-system/applying/applying.module.test.ts b/command-system/applying/applying.module.test.ts
+index fb97650c877d62934ec9c59837e941231940e3ae..a4cd4826c20c8cd8d6d399c92acaf04787548dbc 100644
+--- a/command-system/applying/applying.module.test.ts
++++ b/command-system/applying/applying.module.test.ts
+@@ -4,7 +4,7 @@ import { join } from "node:path"
+ import { patchAt, patchIn } from "@akasha/agents/patch-keeping"
+ import { said as gitSaid } from "@akasha/git/git-running"
+ import { CLASH_MARK } from "../body-merging/body-merging.module.code.ts"
+-import { drafted } from "../drafting/drafting.module.code.ts"
++import { drafted, runningIn } from "../drafting/drafting.module.code.ts"
+ import { landing } from "../landing/landing.module.code.ts"
+ import {
+   A,
+@@ -118,8 +118,8 @@ test("a patch carrying a conflict does not apply", async () => {
+ test("a patch a mechanical draft opened is a diff git still reads", async () => {
+   const root = await indexed()
+   const draft = [{ path: PAGE, was: bytes(A), body: bytes(MORE) }]
+-  expect("why" in drafted(root, PAGE, draft, true)).toBe(false)
+-  expect(patchIn(root, PAGE)?.startsWith("Akasha-mechanical: true\n")).toBe(true)
++  expect("why" in drafted(root, PAGE, draft, { checks: false, warrants: false })).toBe(false)
++  expect(runningIn(patchIn(root, PAGE))).toEqual({ checks: false, warrants: false })
+   expect(() => gitSaid(root, ["apply", "--check", patchAt(PAGE) as string])).not.toThrow()
+ })
+ 
 diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
 index 20ae9471210086cabf221fae96d8d85a1e802792..ce57cc8dafed6182f677372327c3aeb8c0ed2dd3 100644
 --- a/command-system/drafting/drafting.module.code.ts
