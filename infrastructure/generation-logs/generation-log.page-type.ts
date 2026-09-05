@@ -8,7 +8,7 @@ export const generationLog = {
   id: "01a01d18-306b-7000-9796-b41f285a1bad",
   pageTypeSlug: "page-type",
   slug: "generation-log",
-  definition: "the standing record of what one set of model services has made",
+  definition: "the record kept of what one set of model services has made",
   pluralSlug: "generation-logs",
   extendsSlug: ["page-type/page"],
   partSlugs: [
@@ -33,7 +33,8 @@ export const generationLog = {
     },
     {
       invariantKind: "gap",
-      statement: "Nothing lands a row, so the log stands as far as its last hand-written line.",
+      statement:
+        "Nothing lands a row, so the log reaches only as far as its last hand-written line.",
     },
   ],
 } as const satisfies PageType

@@ -15,7 +15,7 @@ export const generationAudios = {
     },
     {
       invariantKind: "departure",
-      statement: "An audio row records where its bytes stand, never the bytes.",
+      statement: "An audio row records where its bytes are, never the bytes.",
     },
   ],
 } as const satisfies FileProperty

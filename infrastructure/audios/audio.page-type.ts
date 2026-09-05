@@ -12,11 +12,11 @@ export const audio = {
     {
       invariantKind: "departure",
       statement:
-        "An audio's bytes stand in the object store under the audio's own id, and on disk where the audio says they were written.",
+        "An audio's bytes sit in the object store under the audio's own id, and on disk where the audio says they were written.",
     },
     {
       invariantKind: "departure",
-      statement: "An audio records where its bytes stand, never the bytes.",
+      statement: "An audio records where its bytes are, never the bytes.",
     },
   ],
 } as const satisfies PageType

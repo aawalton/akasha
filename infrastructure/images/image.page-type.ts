@@ -15,11 +15,11 @@ export const image = {
     {
       invariantKind: "departure",
       statement:
-        "An image's bytes stand in the object store under the image's own id, and on disk where the image says they were written.",
+        "An image's bytes sit in the object store under the image's own id, and on disk where the image says they were written.",
     },
     {
       invariantKind: "departure",
-      statement: "An image records where its bytes stand, never the bytes.",
+      statement: "An image records where its bytes are, never the bytes.",
     },
     {
       invariantKind: "departure",
