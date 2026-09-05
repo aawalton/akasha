@@ -25,7 +25,7 @@ export const columnSampling = {
     },
     {
       invariantKind: "departure",
-      statement: "The trigger that started the sweep is recorded with it.",
+      statement: "The trigger that started the sweep is recorded with that sweep.",
     },
     {
       invariantKind: "absence",
