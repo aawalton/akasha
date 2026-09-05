@@ -10,7 +10,8 @@ export const emailRuleMatchField = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A field is named as the mail carries it rather than as its own page is slugged.",
+      statement:
+        "A field is named as the mail carries that field rather than as its own page is slugged.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +19,7 @@ export const emailRuleMatchField = {
     },
     {
       invariantKind: "departure",
-      statement: "A field the mail offers sits here whether or not a rule names it yet.",
+      statement: "A field the mail offers sits here whether or not a rule names that field yet.",
     },
   ],
 } as const satisfies SelectProperty
