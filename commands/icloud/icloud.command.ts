@@ -12,7 +12,7 @@ export const icloud = {
     { said: "fetch", takes: "the act, which is to write every photo in an album to disk" },
     { said: "<share-url>", takes: "the album to fetch, said in place as its share URL" },
     { said: "--url <share-url>", takes: "the album to fetch, said as a flag rather than in place" },
-    { said: "--out <dir>", takes: "the folder to write into, made where it stands at nothing" },
+    { said: "--out <dir>", takes: "the folder to write into, made where nothing is there" },
     {
       said: "--json",
       takes: "report each written path as a JSON object rather than as a path alone",
@@ -65,7 +65,7 @@ export const icloud = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder standing at nothing is made before a photo is written.",
+      statement: "A folder nothing is at is made before a photo is written.",
     },
     {
       invariantKind: "departure",

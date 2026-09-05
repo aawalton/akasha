@@ -42,7 +42,7 @@ test("a flag with no value after it is refused", () => {
   expect(refusedBy(["fetch", "--url"])[0]).toContain("takes a value")
 })
 
-test("the album is read from the word standing after the act", () => {
+test("the album is read from the word after the act", () => {
   const read = readIn(["fetch", ALBUM])
   if ("refused" in read) throw new Error("this was refused")
   expect(read.said.get("--url")).toBe(ALBUM)
@@ -66,7 +66,7 @@ test("the folder flag said under both spellings is refused", () => {
   expect(refusedBy(["fetch", ALBUM, "--out", "/a", "--output", "/b"])[0]).toContain("twice")
 })
 
-test("the json flag stands alone and takes no value", () => {
+test("the json flag is alone and takes no value", () => {
   const read = readIn(["fetch", ALBUM, "--json"])
   if ("refused" in read) throw new Error("this was refused")
   expect(read.json).toBe(true)
@@ -76,7 +76,7 @@ test("a folder named as a relative path is read against the repository root", ()
   expect(folderOf("album", "/repo", "/called/from")).toBe("/repo/album")
 })
 
-test("a folder named as an absolute path stands as it is", () => {
+test("a folder named as an absolute path is taken as it is", () => {
   expect(folderOf("/pictures/in", "/repo", "/called/from")).toBe("/pictures/in")
 })
 

@@ -75,7 +75,7 @@ export function lint(argv: readonly string[], given: Given): Answer {
       report: [],
       refusals: [
         `${linted.failed}. A linter that could not look has verified nothing, so this says ` +
-          `nothing about what stands under ${over}.`,
+          `nothing about what sits under ${over}.`,
       ],
       code: 3,
     }

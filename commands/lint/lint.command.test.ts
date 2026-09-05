@@ -86,7 +86,7 @@ check("a tree the linter finds nothing in answers 0 and says so", () => {
   expect(said.report.join("\n")).toContain("found nothing under `.`")
 })
 
-check("a finding is reported where it stands, by the rule that named it, and counted", () => {
+check("a finding is reported where it is, by the rule that named it, and counted", () => {
   const root = repo({ "one.ts": UNUSED }, true)
   const said = lint([], given(root))
   expect(said.code).toBe(1)
@@ -110,7 +110,7 @@ check("a run that could not be made answers 3 and says the tree was not judged",
   expect(said.refusals[0]).toContain("could not look has verified nothing")
 })
 
-check("findings are grouped by the file they stand in", () => {
+check("findings are grouped by the file they are in", () => {
   const said = reportOf([
     finding("akasha/one.ts", 1),
     finding("akasha/one.ts", 12),
@@ -122,14 +122,14 @@ check("findings are grouped by the file they stand in", () => {
   expect(said[3]).toBe(`akasha/two.ts:3:1  ${RULE}  This variable is unused.`)
 })
 
-check("what is counted is the findings and the files they stand in", () => {
+check("what is counted is the findings and the files they are in", () => {
   expect(many(1, "finding")).toBe("1 finding")
   expect(many(0, "file")).toBe("0 files")
   const said = sayingOf([finding("akasha/one.ts", 1), finding("akasha/two.ts", 3)])
   expect(said[said.length - 1]).toBe("2 findings in 2 files.")
 })
 
-check("a report past what one answer holds keeps its end, where the count stands", () => {
+check("a report past what one answer holds keeps its end, where the count is", () => {
   const found = Array.from({ length: 4000 }, (_, at) => finding(`akasha/held-${at}.ts`, at))
   const said = sayingOf(found).join("\n")
   expect(said).toContain("4000 findings in 4000 files.")
