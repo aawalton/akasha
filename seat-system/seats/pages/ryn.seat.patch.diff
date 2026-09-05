@@ -1,14 +1,14 @@
 runsWarrants: false
-diff --git a/infrastructure/generation-logs/generation-log.page-type.ts b/infrastructure/generation-logs/generation-log.page-type.ts
-index 44f0a9c79c83a5376c1cc9a5d7936902dab1adfd..18a2d3ab9b7e7a8925f65f71a8c37f6a923e7a0b 100644
---- a/infrastructure/generation-logs/generation-log.page-type.ts
-+++ b/infrastructure/generation-logs/generation-log.page-type.ts
-@@ -25,7 +25,7 @@ export const generationLog = {
+diff --git a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts b/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
+index df2147458831d542c5e160b7631f0a0d860dcebe..a806e3faf95289c3f3549054e2808fa1b183813a 100644
+--- a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
++++ b/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
+@@ -45,7 +45,7 @@ export const temperInventoryRule = {
+     },
      {
        invariantKind: "departure",
-       statement:
--        "A generation log holds its runs and their outputs beside it, rather than filing each on its own.",
-+        "A generation log holds its runs and their outputs beside the log rather than filing each on its own.",
+-      statement: "Where a rule falls among the rules is what settles which rule acts first.",
++      statement: "Where a rule falls among the rules settles which rule acts first.",
      },
      {
        invariantKind: "departure",
