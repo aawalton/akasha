@@ -175,12 +175,11 @@ export const claudeAccount = {
     },
     {
       invariantKind: "departure",
-      statement: "What is observed of an account stands beside its page rather than in that page.",
+      statement: "What is observed of an account sits beside its page rather than in that page.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A declaration saying where a value stands is what routes every mark written here.",
+      statement: "A declaration saying where a value sits is what routes every mark written here.",
     },
     {
       invariantKind: "departure",
