@@ -1,0 +1,26 @@
+diff --git a/context/modules/warranting/warranting.module.code.ts b/context/modules/warranting/warranting.module.code.ts
+index 260bc700ab6a1316fb6d3de7749b8f58dda4d1d9..7dda160bb1986a708e11cf0f1013d86b25dfdaa5 100644
+--- a/context/modules/warranting/warranting.module.code.ts
++++ b/context/modules/warranting/warranting.module.code.ts
+@@ -141,7 +141,7 @@ export function notReadOf(warrant: Warrant): string {
+ }
+ 
+ function movedSaid(warrant: Warrant, held: string): string {
+-  return `Your record holds ${held}, and ${warrant.oid} stands there now.`
++  return `Your record holds ${held}, and ${warrant.oid} is there now.`
+ }
+ 
+ function farSaid(reach: number): string {
+diff --git a/domains/taboo-terms/taboo-term.page-type.ts b/domains/taboo-terms/taboo-term.page-type.ts
+index 452cfaeca2aef44a0d51e53aa72525f9c3b24dd1..ed8fac49f9232e3a580f9ebba5dc9b95df1d0721 100644
+--- a/domains/taboo-terms/taboo-term.page-type.ts
++++ b/domains/taboo-terms/taboo-term.page-type.ts
+@@ -36,7 +36,7 @@ export const tabooTerm = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The word stands wherever the word carries a sense the term does not bar.",
++      statement: "The word is written wherever the word carries a sense the term does not bar.",
+     },
+     {
+       invariantKind: "departure",
