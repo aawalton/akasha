@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.ts
+index 17fe95ef984a9da74dd3dfbbe310852fc3b3cdda..0e32e1990686f1d643c028b4327c2c6e2d78c353 100644
+--- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.ts
++++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.ts
+@@ -30,7 +30,7 @@ export const noDoubleCast = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The pair is one assertion on another however it is written.",
++      statement: "The pair is one assertion on another however that pair is written.",
+     },
+     {
+       invariantKind: "departure",
