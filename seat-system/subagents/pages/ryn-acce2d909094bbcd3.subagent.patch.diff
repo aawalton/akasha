@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/loki/loki.command.ts b/commands/loki/loki.command.ts
+index 1bb1155d44eda58ea400648c0fbf01e34618e276..8986ffaa44dbd54a4bdff9cd77016e8bb463812b 100644
+--- a/commands/loki/loki.command.ts
++++ b/commands/loki/loki.command.ts
+@@ -55,7 +55,7 @@ export const loki = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The last line answered states what bounded the answer.",
++      statement: "The last line answered states the bound on the answer.",
+     },
+     {
+       invariantKind: "departure",
