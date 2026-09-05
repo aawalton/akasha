@@ -30,7 +30,8 @@ export const mcpDisableReconcile = {
     },
     {
       invariantKind: "departure",
-      statement: "A configuration is rewritten keeping whether it ended in a newline.",
+      statement:
+        "A configuration is rewritten keeping whether that configuration ended in a newline.",
     },
   ],
 } as const satisfies Module
