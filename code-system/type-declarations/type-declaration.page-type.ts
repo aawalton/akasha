@@ -10,7 +10,7 @@ export const typeDeclaration = {
   id: "01a0605a-98f4-7c54-8030-4fec48465bda",
   pageTypeSlug: "page-type",
   slug: "type-declaration",
-  definition: "types a compiler reads about code it does not hold",
+  definition: "types a compiler reads and emits nothing from",
   pluralSlug: "type-declarations",
   partSlugs: ["file-property/ambient-types"],
   extendsSlug: ["page-type/domain"],
@@ -30,11 +30,11 @@ export const typeDeclaration = {
     },
     {
       invariantKind: "departure",
-      statement: "What a declaration describes is written in another language or by a generator.",
+      statement: "A declaration describes code written elsewhere or types shared between ours.",
     },
     {
       invariantKind: "departure",
-      statement: "A module states its own types.",
+      statement: "A module states the types that module alone uses.",
     },
     {
       invariantKind: "departure",

@@ -5,6 +5,6 @@ export const agentTree = {
   pageTypeSlug: "code-editor-data-interface",
   slug: "agent-tree",
   definition: "the rows the agents panel draws",
-  stateType: "ts",
+  d: "ts",
   cooldownMilliseconds: 1000,
 } as const satisfies CodeEditorDataInterface

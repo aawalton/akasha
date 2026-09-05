@@ -5,6 +5,6 @@ export const agentColors = {
   pageTypeSlug: "code-editor-data-interface",
   slug: "agent-colors",
   definition: "the color each agent is drawn in",
-  stateType: "ts",
+  d: "ts",
   cooldownMilliseconds: 100,
 } as const satisfies CodeEditorDataInterface

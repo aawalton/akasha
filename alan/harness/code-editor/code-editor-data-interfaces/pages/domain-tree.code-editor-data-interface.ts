@@ -5,6 +5,6 @@ export const domainTree = {
   pageTypeSlug: "code-editor-data-interface",
   slug: "domain-tree",
   definition: "the rows the domains panel draws",
-  stateType: "ts",
+  d: "ts",
   cooldownMilliseconds: 1000,
 } as const satisfies CodeEditorDataInterface

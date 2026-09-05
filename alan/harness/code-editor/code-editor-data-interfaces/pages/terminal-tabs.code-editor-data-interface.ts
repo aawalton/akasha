@@ -5,6 +5,6 @@ export const terminalTabs = {
   pageTypeSlug: "code-editor-data-interface",
   slug: "terminal-tabs",
   definition: "the name and color each terminal tab draws",
-  stateType: "ts",
+  d: "ts",
   cooldownMilliseconds: 1000,
 } as const satisfies CodeEditorDataInterface
