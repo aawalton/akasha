@@ -1,0 +1,529 @@
+diff --git a/command-system/ops-commands/pages/ops-seat-reset/ops-seat-reset.ops-command.ops-help.txt b/command-system/ops-commands/pages/ops-seat-reset/ops-seat-reset.ops-command.ops-help.txt
+deleted file mode 100644
+index df28baaa716e060153b65bc42e661b08333ad351..0000000000000000000000000000000000000000
+--- a/command-system/ops-commands/pages/ops-seat-reset/ops-seat-reset.ops-command.ops-help.txt
++++ /dev/null
+@@ -1,51 +0,0 @@
+-Replace the agent in a seat with a new one, keeping every declaration the
+-seat states.
+-
+-THE NEW AGENT IS A NEW AGENT. An agent is a model working from one continuous
+-memory, and a reset makes a new one, so a fresh id is minted rather than the
+-old one carried over. Nothing of the old agent's context comes across: this is
+-what separates a reset from `ops seat resume`, which puts the SAME agent back
+-on the session it was bound to with everything it held.
+-
+-THE SEAT IS THE SAME SEAT. A seat is a place an agent works from, and its name
+-SPELLS what it is, so the same persona, domain, role, principal, task and flex
+-compose the same name and the new agent sits down under it. The task, errand,
+-initiative, on-call standing, start mode, registration account and the seat
+-above are all read off the seat and stated again on the new agent.
+-
+-WHAT THE SEAT STATES IS READ BEFORE ANYTHING IS STOPPED, because the stop takes
+-the seat's page and a declaration not read by then is gone.
+-
+-A STOPPED SEAT HAS NO PAGE TO READ. A seat's page stands while an agent is present
+-in it and goes when none is, so where nothing stands the seat's LAST COMMITTED PAGE
+-in the memory repository is read instead. A deliberate stop commits the removal, which
+-is what makes a stopped seat's declarations committed by construction rather than by
+-luck; where they were never committed there is nothing to read and the reset refuses.
+-That page is found by the AGENT'S OWN ID rather than by name, and the `id:` it carries
+-is checked against the agent being reset — a reset is addressed to the seat and the
+-name is what persists across it, so a later seat that took the same name would read as
+-this one unless the id said otherwise. Where neither the standing page nor history
+-states a domain, a role and a principal, the reset refuses rather than guessing.
+-
+-THE TARGET IS REQUIRED and defaults to nothing. A seat resetting itself would
+-take the turn issuing the command with it, and there would be nothing left to
+-answer. A seat that wants to come back
+-as itself runs `ops seat resume`; a reset is somebody else's to run.
+-
+-Resetting a seat whose subagents are working is REFUSED: they run inside the
+-process this ends and go with it, and nothing reports what they were doing.
+-Wait for them to return, or pass --force to end them with the seat.
+-
+-A HEADLESS SEAT COMES BACK ON ITS ERRAND. The errand is what a headless seat
+-was sent to do, so it is handed to the new agent as its first turn. An
+-interactive seat comes back idle, detached under its own name, for whoever ran
+-the reset to attach to.
+-
+-Default stdout (TSV, one line):
+-  <agent_id>\t<name>\t<start_mode>
+-
+---json stdout (stable shape):
+-  {"agent_id": ..., "name": ..., "start_mode": ...}
+-
+-Note: `agent_id` is the NEW agent's; `name` is the name the kept declarations
+-compose, which is the name the old seat held.
+diff --git a/command-system/ops-commands/pages/ops-seat-reset/ops-seat-reset.ops-command.ts b/command-system/ops-commands/pages/ops-seat-reset/ops-seat-reset.ops-command.ts
+deleted file mode 100644
+index 386c9ff2db41a9e8d0adebe4196cc4702f664bda..0000000000000000000000000000000000000000
+--- a/command-system/ops-commands/pages/ops-seat-reset/ops-seat-reset.ops-command.ts
++++ /dev/null
+@@ -1,12 +0,0 @@
+-import type { OpsCommand } from "../../ops-command.page-type.ts"
+-
+-export const opsSeatReset = {
+-  id: "01a06904-5249-7e07-aa59-7aa1253b5025",
+-  pageTypeSlug: "ops-command",
+-  slug: "ops-seat-reset",
+-  definition:
+-    "a new agent minted into a named seat, holding every declaration the one it replaces stated.",
+-  opsPath: "seat reset",
+-  opsEntryFile: "seat-system/seat-reset/seat-reset.module.code.ts",
+-  opsHelp: "txt",
+-} as const satisfies OpsCommand
+diff --git a/command-system/ops-commands/pages/ops-seat-resume/ops-seat-resume.ops-command.ops-help.txt b/command-system/ops-commands/pages/ops-seat-resume/ops-seat-resume.ops-command.ops-help.txt
+deleted file mode 100644
+index b491bf3187d9b50a53a780d05f2d7e222aed5b2b..0000000000000000000000000000000000000000
+--- a/command-system/ops-commands/pages/ops-seat-resume/ops-seat-resume.ops-command.ops-help.txt
++++ /dev/null
+@@ -1,65 +0,0 @@
+-Put a seat back on the session it was bound to, with its prior context.
+-
+-WHETHER A SUPERVISOR IS STILL RUNNING IN THE SEAT IS THIS COMMAND'S TO FIND
+-OUT, never the caller's to know, and it takes whichever act the answer calls
+-for:
+-
+-  live   the seat is cycled IN PLACE: `restart` goes into its uncommitted
+-         file, its supervisor's poll picks it up and arms an idle gate. At the
+-         next turn boundary the gate SIGTERMs the Claude CLI and spawns an
+-         iteration resuming the session. The turn is kept — nothing is killed
+-         out from under it. Prints `queued-on-idle`, because the value clears
+-         when the restart is ARMED rather than when it fires.
+-  gone   a detached supervisor is launched on the bound session, hydrating the
+-         local transcript from the object store where the local copy has gone.
+-         Prints `revived`.
+-  SELF   never the immediate signal: `restart` goes into its own file and
+-         `queued-on-idle` returns at once, so the seat is not killed mid-turn
+-         and its issuer is answered before it dies.
+-
+-`--now` writes `restart-now` instead, which the supervisor takes up at once:
+-it interrupts the turn the agent is in and prints `restarted`. The flag is
+-`--now` rather than `--force` because `--force` already means something else
+-here — restart though subagents are working, ending them with it.
+-
+-A supervisor whose presence CANNOT BE READ is not a gone one: no sidecar, an
+-unparsable process and an unreadable /proc entry all reach the guard as a LIVE
+-holder, so the seat is cycled rather than launched over. A handshake that times
+-out re-probes once and launches fresh if the supervisor has since died, closing
+-the died-mid-wait race; a live but unresponsive one exits ack-timeout.
+-
+-`--start-mode` says who launches, the same split `ops seat start` makes.
+-  `headless` (default)  launches here, and is everything above.
+-  `interactive`         launches the seat DETACHED and prints the id and session,
+-                        leaving the front that asked to attach to it. A live
+-                        holder is TAKEN: SIGTERM,
+-                        escalated to SIGKILL past the grace window, and polled
+-                        to exit before anything prints, so two supervisors
+-                        never race on one session.
+-It defaults to `headless` where `ops seat start` defaults to `interactive`,
+-because every caller here launches detached and a default that flipped under
+-them would start the wrong kind of seat with nothing to catch it.
+-
+-THE TARGET IS OPTIONAL AND DEFAULTS TO SELF ($AGENT_ID), so a seat queues its
+-own restart with a bare `ops seat resume`.
+-
+-WHETHER A REVIVED SEAT TAKES A TURN IS THE CALLER'S TO SAY, and the default is
+-no. Bare, a gone seat comes back IDLE and reads nothing: a `--resume` on an
+-empty prompt drives nothing, so Claude Code fills the void with `Continue from
+-where you left off.`, the model answers `No response requested.`, and the seat
+-sits there. A revive meant to put a seat back to WORK must say what the work
+-is, with `--prompt`. A row property does not start a seat.
+-
+-Do NOT revive bare and then `send`: the send races the boot, the row being
+-`pending` before the resumed session can receive, and the booting backlog drain
+-claims the notice. The prompt rides argv, where there is no row to lose.
+-
+-A FIRST TURN IS FOR A SEAT THAT IS NOT RUNNING, so the launch flags are REFUSED
+-against a live holder rather than dropped. A running seat has a turn already;
+-hand it work with `ops seat send`, which reaches a live seat and revives a
+-stopped one.
+-
+-Default stdout (TSV, one line):
+-  <agent_id>\t<name>\t<restarted|revived>
+-  <agent_id>\tqueued-on-idle        (self-target)
+-  <agent_id>\t<session_id>          (`interactive`)
+diff --git a/command-system/ops-commands/pages/ops-seat-resume/ops-seat-resume.ops-command.ts b/command-system/ops-commands/pages/ops-seat-resume/ops-seat-resume.ops-command.ts
+deleted file mode 100644
+index d8b19087480e0c6516f67d437d517064fbc07a72..0000000000000000000000000000000000000000
+--- a/command-system/ops-commands/pages/ops-seat-resume/ops-seat-resume.ops-command.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { OpsCommand } from "../../ops-command.page-type.ts"
+-
+-export const opsSeatResume = {
+-  id: "01a06904-524a-7396-b361-c22083ff9533",
+-  pageTypeSlug: "ops-command",
+-  slug: "ops-seat-resume",
+-  definition: "a seat put back on its bound session, live or stopped.",
+-  opsPath: "seat resume",
+-  opsEntryFile: "seat-system/seat-resume/seat-resume.module.code.ts",
+-  opsHelp: "txt",
+-} as const satisfies OpsCommand
+diff --git a/command-system/ops-commands/pages/ops-seat-start/ops-seat-start.ops-command.ops-help.txt b/command-system/ops-commands/pages/ops-seat-start/ops-seat-start.ops-command.ops-help.txt
+deleted file mode 100644
+index 8a578aad2a1b17598e5ce1948e7c7589808983f2..0000000000000000000000000000000000000000
+--- a/command-system/ops-commands/pages/ops-seat-start/ops-seat-start.ops-command.ops-help.txt
++++ /dev/null
+@@ -1,42 +0,0 @@
+-Start a seat. One act: create the seat, bind its name, state what the
+-seat is, and — where asked — launch it.
+-
+-`--start-mode` says whether a terminal is attached to the seat as it starts,
+-which is also what decides who launches it.
+-  `headless`     none is attached, so this command launches it here,
+-                 resident in its own supervisor.
+-  `interactive`  one is attached, so this command starts it DETACHED and
+-                 prints the id: the caller attaches to the session by
+-                 name, and attaching is the whole of what it does.
+-The value is stated on the seat, so the roster knows how it began without
+-probing for it. `mode` shares this vocabulary and is a different claim: a
+-seat's mode can change after it starts, and its start mode cannot.
+-
+-THE PARENT IS NOT STATED. The seat this one answers to is the seat running
+-this command, read from AGENT_ID in its own environment and from nowhere a
+-caller can reach: a seat naming a parent it was merely told about reads
+-exactly like one naming the seat that made it. A seat answering to a person
+-needs none, that person having started it.
+-
+-STATE WHAT THE SEAT IS with --persona / --role / --domain. Nothing is read
+-back out of the name: a name SPELLS what a seat's attributes are, so a seat
+-is what whoever started it said it is. A slot nobody states takes the stated
+-persona's own default, and failing that the default that attribute carries.
+-
+-A PERSONA AND A PERSON GO TOGETHER. A persona is how one person addresses a
+-seat of their own, so a seat working for the fleet takes the default persona
+-and the principal `agent`. Either alone is refused before anything is made.
+-
+-NAMING TAKES NO NAME. A seat's name is composed from what the seat is, and
+-there is no way to type one beside the attributes: a name SPELLS what a seat
+-is, so a typed one that disagreed would be a second claim about the same seat.
+-
+-REFUSES a name any seat already holds, rather than stealing it, and makes
+-NOTHING on a refusal — the whole decision is taken before the seat exists,
+-because creating then binding leaves a nameless seat behind every refusal.
+-
+-Default stdout, `interactive`: the agent id alone, one line.
+-Default stdout, `headless`:    <agent_id>\t<name>\theadless
+-
+---json stdout (stable shape):
+-  {"agent_id": ..., "name": ..., "start_mode": ..., "pid": ..., "log_path": ...}
+diff --git a/command-system/ops-commands/pages/ops-seat-start/ops-seat-start.ops-command.ts b/command-system/ops-commands/pages/ops-seat-start/ops-seat-start.ops-command.ts
+deleted file mode 100644
+index 8f86678658772b8fbca7d3111d4db3b8799a01cd..0000000000000000000000000000000000000000
+--- a/command-system/ops-commands/pages/ops-seat-start/ops-seat-start.ops-command.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { OpsCommand } from "../../ops-command.page-type.ts"
+-
+-export const opsSeatStart = {
+-  id: "01a06904-524b-7cfb-b71c-493681e372b9",
+-  pageTypeSlug: "ops-command",
+-  slug: "ops-seat-start",
+-  definition: "a seat created under a name, with its process started here or left to the caller.",
+-  opsPath: "seat start",
+-  opsEntryFile: "seat-system/seat-start/seat-start.module.code.ts",
+-  opsHelp: "txt",
+-} as const satisfies OpsCommand
+diff --git a/commands/seat/seat.command.code.ts b/commands/seat/seat.command.code.ts
+index 47abe038db150de3fc60d48e78a8ebb1e84c5f21..5ba111bca9afc483542666ac2c5c2125079b21a7 100644
+--- a/commands/seat/seat.command.code.ts
++++ b/commands/seat/seat.command.code.ts
+@@ -1,5 +1,6 @@
+ import { existsSync, writeFileSync } from "node:fs"
+ import { join } from "node:path"
++import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
+ import type { Holder } from "@akasha/file-system/lock-holder"
+ import { alive } from "@akasha/file-system/lock-holder"
+ import { told } from "@akasha/git/git-running"
+@@ -21,10 +22,24 @@ const RESTART = "restart"
+ 
+ const STOP = "stop"
+ 
++const RESUME = "resume"
++
++const RESET = "reset"
++
++const START = "start"
++
+ const ALL = "--all"
+ 
+ const FORCE = "--force"
+ 
++const PROMPT = "--prompt"
++
++const START_MODE = "--start-mode"
++
++const TARGET = "--agent-id"
++
++const ACTED_ON = `\`${SUPERVISOR}\`, \`${RESUME}\`, \`${RESET}\` and \`${START}\``
++
+ const ASK = "reExecAsk"
+ 
+ const ASKED = "asked"
+@@ -39,6 +54,14 @@ export type Seat = {
+   readonly holder: Holder | null
+ }
+ 
++type Named = { readonly name: string }
++
++type Carried = { readonly carried: readonly string[] }
++
++function quoted(every: readonly string[]): string {
++  return every.map((one) => `\`${one}\``).join(", ")
++}
++
+ function seatsIn(root: string): readonly Seat[] {
+   const found: Seat[] = []
+   for (const one of everyOfType(root, typeSlugOf(root, SEAT_TYPE))) {
+@@ -79,32 +102,70 @@ function saidOf(one: Stopped): string {
+   return `${one.name} was stopped, ending ${one.pids.map((pid) => String(pid)).join(", ")}`
+ }
+ 
+-async function stoppedBy(given: Given, rest: readonly string[]): Promise<Answer> {
+-  const [name, ...flags] = rest
++function namedIn(word: string, act: string, rest: readonly string[]): Named | Answer {
++  const name = rest[0]
+   if (name === undefined) {
+-    return refused(`\`${SUPERVISOR} ${STOP}\` names the seat to stop, and nothing followed it`, 1)
++    return refused(`\`${word}\` names the seat to ${act}, and nothing followed it`, 1)
+   }
+   if (name.startsWith("-")) {
++    return refused(`\`${word}\` names the seat to ${act} first, and \`${name}\` is a flag`, 1)
++  }
++  return { name }
++}
++
++function carriedIn(
++  word: string,
++  taking: readonly string[],
++  flags: readonly string[]
++): Carried | Answer {
++  const held: string[] = []
++  for (let at = 0; at < flags.length; at = at + 2) {
++    const one = flags[at]
++    if (one !== undefined && taking.includes(one)) {
++      const value = flags[at + 1]
++      if (value === undefined) {
++        return refused(`\`${one}\` names what follows it, and nothing did`, 1)
++      }
++      held.push(one, value)
++      continue
++    }
+     return refused(
+-      `\`${SUPERVISOR} ${STOP}\` names the seat to stop first, and \`${name}\` is a flag`,
++      `\`${word}\` takes ${quoted(taking)} and nothing else, and ` +
++        `${quoted(flags.slice(at, at + 1))} followed it`,
+       1
+     )
+   }
++  return { carried: held }
++}
++
++async function ran(running: () => Promise<void>): Promise<Answer> {
++  try {
++    await running()
++  } catch (thrown) {
++    const why = thrown instanceof Error ? thrown.message : String(thrown)
++    return refused(why, exitCodeForThrowable(thrown))
++  }
++  return { report: [], refusals: [], code: 0 }
++}
++
++async function stoppedBy(given: Given, rest: readonly string[]): Promise<Answer> {
++  const named = namedIn(`${SUPERVISOR} ${STOP}`, STOP, rest)
++  if (!("name" in named)) return named
++  const flags = rest.slice(1)
+   const stray = flags.filter((one) => one !== FORCE)
+   if (stray.length > 0) {
+-    const said = stray.map((one) => `\`${one}\``).join(", ")
+     return refused(
+-      `\`${SUPERVISOR} ${STOP}\` takes \`${FORCE}\` and nothing else, and ${said} followed it`,
++      `\`${SUPERVISOR} ${STOP}\` takes \`${FORCE}\` and nothing else, and ${quoted(stray)} followed it`,
+       1
+     )
+   }
+-  const page = seatPathForName(name)
++  const page = seatPathForName(named.name)
+   const at = join(given.root, page)
+   if (!existsSync(at)) {
+     const held = told(given.root, ["show", `HEAD:${page}`])
+     if (held === null) {
+       return refused(
+-        `no seat named \`${name}\` holds a page under \`${given.root}\`, so there is nothing to stop`,
++        `no seat named \`${named.name}\` holds a page under \`${given.root}\`, so there is nothing to stop`,
+         2
+       )
+     }
+@@ -114,15 +175,49 @@ async function stoppedBy(given: Given, rest: readonly string[]): Promise<Answer>
+   const agentId = value === null ? null : textAt(value, ID)
+   if (agentId === null || agentId === "") {
+     return refused(
+-      `the page for \`${name}\` states no id, and a seat's id is its agent's id, so nothing here says which processes are its own`,
++      `the page for \`${named.name}\` states no id, and a seat's id is its agent's id, so nothing here says which processes are its own`,
+       2
+     )
+   }
+-  const said = await stopping(given, agentId, name, flags.includes(FORCE))
++  const said = await stopping(given, agentId, named.name, flags.includes(FORCE))
+   if ("refused" in said) return refused(said.refused, 1)
+   return { report: [saidOf(said.stopped)], refusals: [], code: 0 }
+ }
+ 
++async function resumedBy(rest: readonly string[]): Promise<Answer> {
++  const named = namedIn(RESUME, RESUME, rest)
++  if (!("name" in named)) return named
++  const carried = carriedIn(RESUME, [PROMPT, START_MODE], rest.slice(1))
++  if (!("carried" in carried)) return carried
++  const { default: resuming } = await import("@akasha/seat-system/seat-resume")
++  return await ran(async () => {
++    await resuming([TARGET, named.name, ...carried.carried])
++  })
++}
++
++async function resetBy(rest: readonly string[]): Promise<Answer> {
++  const named = namedIn(RESET, RESET, rest)
++  if (!("name" in named)) return named
++  const stray = rest.slice(1)
++  if (stray.length > 0) {
++    return refused(
++      `\`${RESET}\` names the seat to reset and takes nothing else, and ${quoted(stray)} followed it`,
++      1
++    )
++  }
++  const { default: resetting } = await import("@akasha/seat-system/seat-reset")
++  return await ran(async () => {
++    await resetting([named.name])
++  })
++}
++
++async function startedBy(rest: readonly string[]): Promise<Answer> {
++  const { default: starting } = await import("@akasha/seat-system/seat-start")
++  return await ran(async () => {
++    await starting(rest)
++  })
++}
++
+ function restartedAll(given: Given, rest: readonly string[]): Answer {
+   if (rest.length !== 1 || rest[0] !== ALL) {
+     return refused(`\`${SUPERVISOR} ${RESTART}\` takes \`${ALL}\` and nothing else`, 1)
+@@ -139,28 +234,32 @@ function restartedAll(given: Given, rest: readonly string[]): Answer {
+ }
+ 
+ export async function seat(argv: readonly string[], given: Given): Promise<Answer> {
+-  const [subject, act, ...rest] = argv
++  const [subject, ...rest] = argv
+   if (subject === undefined) {
+     return refused(
+-      `${given.calledAs} names what to act on, and nothing followed it — it takes \`${SUPERVISOR}\``,
++      `${given.calledAs} names what to act on, and nothing followed it — it takes ${ACTED_ON}`,
+       1
+     )
+   }
++  if (subject === RESUME) return await resumedBy(rest)
++  if (subject === RESET) return await resetBy(rest)
++  if (subject === START) return await startedBy(rest)
+   if (subject !== SUPERVISOR) {
+-    return refused(`\`${subject}\` is nothing this acts on — it acts on \`${SUPERVISOR}\``, 1)
++    return refused(`\`${subject}\` is nothing this acts on — it acts on ${ACTED_ON}`, 1)
+   }
++  const [act, ...after] = rest
+   if (act === undefined) {
+     return refused(
+       `\`${SUPERVISOR}\` names an act, and nothing followed it — it takes \`${RESTART}\` and \`${STOP}\``,
+       1
+     )
+   }
+-  if (act === STOP) return await stoppedBy(given, rest)
++  if (act === STOP) return await stoppedBy(given, after)
+   if (act !== RESTART) {
+     return refused(
+       `\`${act}\` is nothing this does to a ${SUPERVISOR} — it does \`${RESTART}\` and \`${STOP}\``,
+       1
+     )
+   }
+-  return restartedAll(given, rest)
++  return restartedAll(given, after)
+ }
+diff --git a/commands/seat/seat.command.ts b/commands/seat/seat.command.ts
+index 3f77b86eb0a6a3324aec3241205090e5e526b849..ecc8be43acfe2986bd50dbeca4f96383c92c155d 100644
+--- a/commands/seat/seat.command.ts
++++ b/commands/seat/seat.command.ts
+@@ -16,8 +16,22 @@ export const seat = {
+     },
+     { said: "--all", takes: "every seat akasha carries, which is the only reach a restart has" },
+     { said: "stop", takes: "the act, which is to end that process and take the page it held" },
+-    { said: "<name>", takes: "the seat to stop, named as its page is named" },
+     { said: "--force", takes: "stop it though subagents are working, ending them with it" },
++    { said: "resume", takes: "the act putting a seat back on the session it was bound to" },
++    {
++      said: "reset",
++      takes: "the act sitting a new agent down under everything the seat already states",
++    },
++    { said: "<name>", takes: "the seat to stop, resume or reset, named as its page is named" },
++    {
++      said: "--prompt <text>",
++      takes: "the first turn a resumed seat takes up, where it was stopped",
++    },
++    {
++      said: "--start-mode <mode>",
++      takes: "whether a terminal is attached to the seat as it comes up",
++    },
++    { said: "start", takes: "the act composing a fresh seat from the slots stated after it" },
+   ],
+   helpNotes: [
+     "the words stand in order, and one call names one act.",
+@@ -28,11 +42,19 @@ export const seat = {
+     "a stop names one seat, where a restart reaches every one of them.",
+     "a stop ends what the seat dispatched before it ends the seat, so nothing is left orphaned.",
+     "a name no seat holds a page for answers as a data refusal, which a caller can tell from a misspelling.",
++    "a stop, a resume and a reset each name one seat, spelled as that seat's page is spelled rather than as an id.",
++    "a reset reads the last committed page where the seat is stopped, and that page is reached by the name.",
++    "a start names no seat: it takes the slots a name is composed from, and what they compose is the name.",
++    "what a resume, a reset or a start says is written where it runs rather than carried back as a report.",
+   ],
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What to act on is the first word and the act is the second.",
++      statement: "A supervisor is named by the first word and the act on it by the second.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An act on a seat is the first word and the seat it acts on is the second.",
+     },
+     {
+       invariantKind: "departure",
+@@ -78,6 +100,31 @@ export const seat = {
+       statement:
+         "A flag standing where the seat should be named is refused rather than read as a name.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A seat to stop, to resume or to reset is named as its page is named.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A start is given the slots a seat's name is composed from rather than a name.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The code a resume, a reset or a start runs is reached only once that act is read.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "What a resume, a reset or a start prints is written where it runs.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A start prints on the output stream what a caller reads back as the agent's id.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A refusal from a wrapped act carries the exit code that act's error states.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here restarts a client.",
