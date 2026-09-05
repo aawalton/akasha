@@ -66,7 +66,7 @@ export const transcriptView = {
     },
     {
       invariantKind: "departure",
-      statement: "A name moving beside the transcript is what says the transcript may have moved.",
+      statement: "A name moving beside the transcript says the transcript may have moved.",
     },
     {
       invariantKind: "departure",
@@ -106,7 +106,7 @@ export const transcriptView = {
     },
     {
       invariantKind: "departure",
-      statement: "One channel says what every transcript panel's read cost.",
+      statement: "One channel reports every transcript panel's read cost.",
     },
     {
       invariantKind: "absence",
