@@ -155,3 +155,53 @@ index 20ae9471210086cabf221fae96d8d85a1e802792..ce57cc8dafed6182f677372327c3aeb8
      if (!held.has(path)) return { why: `${NOT_HELD} ${path}` }
      const next: Held = new Map(held)
      next.delete(path)
+diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
+index 510a10f9e117f0c79b3b6fd62547785423d89fc3..389c880f306cd2e81babadf5d9ec5046c7801707 100644
+--- a/command-system/landing/landing.module.code.ts
++++ b/command-system/landing/landing.module.code.ts
+@@ -7,7 +7,7 @@ import type { Change } from "@akasha/pages-system/change"
+ import { movedOnDisk } from "../change-freshness/change-freshness.module.code.ts"
+ import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
+ import { committed, whileIndexFrees } from "../committing/committing.module.code.ts"
+-import type { Bodies, Draft } from "../drafting/drafting.module.code.ts"
++import type { Bodies, Draft, Running } from "../drafting/drafting.module.code.ts"
+ import { drafted as draftedOnto, wouldHold } from "../drafting/drafting.module.code.ts"
+ import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
+ import { clearedOff } from "../folder-clearing/folder-clearing.module.code.ts"
+@@ -50,6 +50,12 @@ export type Drafting = {
+   readonly mechanical?: boolean
+ }
+ 
++function runningFor(drafting: Drafting): Running {
++  return drafting.mechanical === true
++    ? { checks: false, warrants: false }
++    : { checks: true, warrants: true }
++}
++
+ export type Drafted = {
+   readonly base: string
+   readonly drafted: readonly string[]
+@@ -298,12 +304,12 @@ function draftedBy(
+   drafts: readonly Draft[],
+   paths: readonly string[],
+   refused: readonly Judged[],
+-  mechanical: boolean
++  running: Running
+ ): Drafted | Refused {
+   const base = baseOf(root)
+   const stale = unfresh(root, named, base, changes, asRead, AGAIN_DRAFTED)
+   if (stale !== null) return stale
+-  const said = draftedOnto(root, page, drafts, mechanical)
++  const said = draftedOnto(root, page, drafts, running)
+   if ("why" in said) return { refusals: [said.why, KEPT_AS_IT_WAS] }
+   return {
+     base,
+@@ -394,7 +400,7 @@ export async function landing(
+       drafts,
+       edits.map((one) => one.path).sort(),
+       said,
+-      drafting.mechanical === true
++      runningFor(drafting)
+     )
+   }
+   if (said.length > 0) {
