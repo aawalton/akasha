@@ -1,0 +1,14 @@
+diff --git a/agents/claude-accounts/modules/renewing/claude-account-renewing.module.ts b/agents/claude-accounts/modules/renewing/claude-account-renewing.module.ts
+index eb937ab8e58fff91e7df803f243618311775e23c..f8827adc5d090519463b911f525666bd7515c85c 100644
+--- a/agents/claude-accounts/modules/renewing/claude-account-renewing.module.ts
++++ b/agents/claude-accounts/modules/renewing/claude-account-renewing.module.ts
+@@ -37,7 +37,8 @@ export const claudeAccountRenewing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A renewed pair is written back to the account's page before it is answered.",
++      statement:
++        "A renewed pair is written back to the account's page before that pair is answered.",
+     },
+     {
+       invariantKind: "departure",
