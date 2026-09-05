@@ -1,5 +1,5 @@
 import { describe, expect, it } from "bun:test"
-import { rowToMinedItemData } from "../mined-item-rows/mined-item-rows.module.code.ts"
+import { rowToMinedItemData } from "./mined-item-rows.module.code.ts"
 
 const MINED_ITEM_DATA_KEYS = [
   "itemId",
