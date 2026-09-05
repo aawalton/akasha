@@ -326,7 +326,7 @@ index e4dde1974bb896c7bc8a93d414957a0ff52bb40a..00000000000000000000000000000000
 -  ],
 -} as const satisfies Module
 diff --git a/domains/plain-language/plain-language.workspace-package.ts b/domains/plain-language/plain-language.workspace-package.ts
-index f4ee6113183c17bcd8f49dd6a58b1c69481f46a7..b45a80dcc8f9934b7ee2cefb3a2e236dfa73c14d 100644
+index f4ee6113183c17bcd8f49dd6a58b1c69481f46a7..c5067a32808707ef23e86293e18e8409469e4ae1 100644
 --- a/domains/plain-language/plain-language.workspace-package.ts
 +++ b/domains/plain-language/plain-language.workspace-package.ts
 @@ -7,10 +7,8 @@ export const plainLanguage = {
@@ -341,6 +341,24 @@ index f4ee6113183c17bcd8f49dd6a58b1c69481f46a7..b45a80dcc8f9934b7ee2cefb3a2e236d
      "module/dependency-graph",
      "module/word-tokenizing",
      "module/shape-predicate",
+@@ -21,15 +19,11 @@ export const plainLanguage = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A sentence the grammar refuses is not plain.",
++      statement: "A sentence a refused shape matches is not plain.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A construction Alan has refused is out of the plain grammar.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A sentence refused for a construction Alan calls plain is a gap in the grammar.",
++      statement: "A sentence refused for a construction Alan calls plain is a gap in the shapes.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/domains/plain-language/spelt-scanning/spelt-scanning.module.code.ts b/domains/plain-language/spelt-scanning/spelt-scanning.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..410e5f77261f4a6eeeecac1333520e2f71eb9659
