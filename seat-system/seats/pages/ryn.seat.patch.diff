@@ -1,6 +1,19 @@
 runsWarrants: false
+diff --git a/story/decisions/story-decision.page-type.ts b/story/decisions/story-decision.page-type.ts
+index 3301a5687861f2ebfb63be8712fb438ea1805303..c3b5f9631ee75a67e849a04cbe9f6cbd2c888fdb 100644
+--- a/story/decisions/story-decision.page-type.ts
++++ b/story/decisions/story-decision.page-type.ts
+@@ -57,7 +57,7 @@ export const storyDecision = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What a decision changed is stated rather than worked out from the chapters after the decision.",
++        "The effect a decision had is stated rather than worked out from the chapters after the decision.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts b/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
-index df2147458831d542c5e160b7631f0a0d860dcebe..a806e3faf95289c3f3549054e2808fa1b183813a 100644
+index 910f682ee48b2b6498cda7941614276606e78993..dc38a6dd5479b64e7fea376aaa8cc974f0788048 100644
 --- a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
 +++ b/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
 @@ -45,7 +45,7 @@ export const temperInventoryRule = {
