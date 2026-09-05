@@ -1,3 +1,43 @@
+diff --git a/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts b/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts
+index 8a12f3322abf11b82470244803794390be2145a9..53b50466e62a16b011e066f68d284f18b6c3e0be 100644
+--- a/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts
++++ b/checks/code-checks/pages/typescript-7/typescript-7.code-check.code.ts
+@@ -1,6 +1,6 @@
+ import { readdirSync } from "node:fs"
+ import { join, resolve } from "node:path"
+-import { servedOf } from "@akasha/code-system/code-typing"
++import { directoriesIn, servedOf } from "@akasha/code-system/code-typing"
+ import { waitingKeys } from "@akasha/indexes/generated-properties"
+ import type { Change } from "@akasha/pages-system/change"
+ import type { Shadow } from "@akasha/pages-system/shadow"
+@@ -78,6 +78,14 @@ export function existingOf(
+   }
+ }
+ 
++export function foldersIn(
++  root: string,
++  named: readonly string[]
++): (name: string) => boolean | undefined {
++  const held = directoriesIn(root, named)
++  return (name) => (held.has(resolve(name)) ? true : undefined)
++}
++
+ export function foundOf(root: string, said: Diagnosed): Found {
+   const at = said.fileName === undefined ? null : servedOf(root, resolve(said.fileName))
+   const line = (said.startPosition?.line ?? 0) + FIRST_LINE
+@@ -105,7 +113,11 @@ export async function foundIn(change: Change, shadow: Shadow): Promise<readonly
+   const readFile = servingOf(root, at, config, read)
+   const api = new API({
+     cwd: root,
+-    fs: { readFile, fileExists: existingOf(readFile) },
++    fs: {
++      readFile,
++      fileExists: existingOf(readFile),
++      directoryExists: foldersIn(root, named),
++    },
+   })
+   try {
+     const snapshot = await api.updateSnapshot({ openProjects: [at] })
 diff --git a/checks/code-checks/pages/typescript-7/typescript-7.code-check.test.ts b/checks/code-checks/pages/typescript-7/typescript-7.code-check.test.ts
 index c6c94d173416ece1926ddbfe4c15657a06408e25..0dd67e8e1835b372a30e4d09e886fda22b8bd1bb 100644
 --- a/checks/code-checks/pages/typescript-7/typescript-7.code-check.test.ts
