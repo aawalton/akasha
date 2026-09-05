@@ -367,3 +367,11 @@ index ae862537472ab7421d0142ea53bc2b83c5224575..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../object-store
 \ No newline at end of file
+diff --git a/pages/pages b/pages/pages
+deleted file mode 120000
+index d91c3eb0b86bc295c191cdcfdc18be3f2a342f83..0000000000000000000000000000000000000000
+--- a/pages/pages
++++ /dev/null
+@@ -1 +0,0 @@
+-../../pages
+\ No newline at end of file
