@@ -10,7 +10,8 @@ export const weeklyCoverage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Coverage is read from what was performed rather than from what was planned.",
+      statement:
+        "Coverage is read from the movements performed rather than from the movements planned.",
     },
     {
       invariantKind: "departure",
