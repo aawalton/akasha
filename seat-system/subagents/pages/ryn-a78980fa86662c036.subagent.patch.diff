@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/domains/properties/invariants.record-property.ts b/domains/properties/invariants.record-property.ts
+index 1488806701de5f6eaa1840653be22f3888898509..ce6637973e361e36dfca4e90849bd0c71d810747 100644
+--- a/domains/properties/invariants.record-property.ts
++++ b/domains/properties/invariants.record-property.ts
+@@ -31,7 +31,7 @@ export const invariants = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An invariant states what is true rather than why.",
++      statement: "An invariant states the truth rather than the reason behind that truth.",
+     },
+     {
+       invariantKind: "departure",
