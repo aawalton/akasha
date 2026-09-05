@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/code-system/rust-crates/properties/crate-icon.file-property.ts b/code-system/rust-crates/properties/crate-icon.file-property.ts
+index 740de522e81b5d29a19d42e88c9e44013d2b26a3..282db58277f474c58fe35457db91078877ce964f 100644
+--- a/code-system/rust-crates/properties/crate-icon.file-property.ts
++++ b/code-system/rust-crates/properties/crate-icon.file-property.ts
+@@ -23,7 +23,7 @@ export const crateIcon = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The seam building the crate writes the picture where Cargo reads it.",
++      statement: "The seam building the crate writes the picture where Cargo reads that picture.",
+     },
+   ],
+ } as const satisfies FileProperty
