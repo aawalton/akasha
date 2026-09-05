@@ -19,8 +19,7 @@ export const seatAttached = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Unknown and absent are told apart, because a seat nobody watches is not a seat nothing can be read of.",
+      statement: "Unknown and absent are told apart.",
     },
     {
       invariantKind: "departure",
