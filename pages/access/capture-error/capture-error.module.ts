@@ -10,7 +10,7 @@ export const captureError = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A capture is filed as a page of the error page type.",
+      statement: "A capture is filed as a page of the runtime-error page type.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +46,7 @@ export const captureError = {
     },
     {
       invariantKind: "departure",
-      statement: "Which values reach the commit is settled by the error page type.",
+      statement: "Which values reach the commit is settled by the runtime-error page type.",
     },
     {
       invariantKind: "absence",
