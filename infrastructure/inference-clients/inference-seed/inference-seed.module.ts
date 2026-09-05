@@ -22,7 +22,7 @@ export const inferenceSeed = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reaches a service or reads what a service made of the seed.",
+      statement: "Nothing here reaches a service or reads the bytes a service made of the seed.",
     },
   ],
 } as const satisfies Module
