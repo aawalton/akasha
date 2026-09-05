@@ -1,0 +1,26 @@
+diff --git a/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.code.ts b/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.code.ts
+index 89c5deca024a6d2acb895fea52cebedbb86bb232..74a7aa03e5e0fc6db2b741c1b08acd0b75223b3e 100644
+--- a/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.code.ts
++++ b/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.code.ts
+@@ -58,7 +58,7 @@ interface Ground {
+ }
+ 
+ // What one checkout is asked for. A root is asked once, however many repositories or code
+-// folders stand in it, because every `git` here loads the whole index — 17MB in this checkout —
++// folders are in it, because every `git` here loads the whole index — 17MB in this checkout —
+ // and that load, not the answer, is what a call costs. `diff-index` over the sixteen code
+ // folders, over the six shape folders and over the six shape names measured 103ms, 63ms and
+ // 144ms apart and 156ms together, so asking three times spends 154ms on nothing but re-reading
+diff --git a/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.test.ts b/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.test.ts
+index e6956c5141c32b23af0f77a8bcef7267a243d217..6074fdb389568f90348f826eb915c739e89cd388 100644
+--- a/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.test.ts
++++ b/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.test.ts
+@@ -122,7 +122,7 @@ test("skew outlives a status and an index refresh", () => {
+   }
+ })
+ 
+-// NOT REPORTED, and the mark stays null. A path staged as deleted whose file still stands holds
++// NOT REPORTED, and the mark stays null. A path staged as deleted whose file is still there holds
+ // the commit's own content, so a mark could in principle be worked out for it — but `git diff`
+ // walks the index and answers for that path as a deletion, so this refuses it rather than reading
+ // past what git will say. The cost is the recompute that was always paid here; the alternative was
