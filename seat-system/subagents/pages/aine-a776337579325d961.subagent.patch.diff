@@ -12,10 +12,10 @@ index f8e7098b45919fe22710d86b3b649c8001002d44..ef6896c84b0a0d91f8907f11ae5c92aa
    expect(said[0]?.line).toBe(2)
  })
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.test.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.test.ts
-index 3d6fbb00f04006a1ff25ccfce48573878b1763e1..bd519051f235c6a2f27bb5901253c103c72156eb 100644
+index 3d6fbb00f04006a1ff25ccfce48573878b1763e1..7117b24210e4b5bec78dab1532037ad1f7c254eb 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.test.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.test.ts
-@@ -32,27 +32,27 @@ test("the dispatcher reached through a bound name and a join is refused", () =>
+@@ -32,33 +32,33 @@ test("the dispatcher reached through a bound name and a join is refused", () =>
    expect(said[0]?.line).toBe(2)
  })
  
@@ -48,6 +48,13 @@ index 3d6fbb00f04006a1ff25ccfce48573878b1763e1..bd519051f235c6a2f27bb5901253c103
    const at = "akasha/command-system/cli/cli.module.test.ts"
    const text = 'Bun.spawnSync([process.execPath, "akasha/command-system/cli/cli.module.code.ts"])\n'
    expect(noAkashaCommandFromCode({ path: at, source: parsedAs(at, text) })).toEqual([])
+ })
+ 
+-test("a program starting itself to outlive its caller stands", () => {
++test("a program starting itself to outlive its caller is left", () => {
+   const text = "Bun.spawn([process.execPath, import.meta.path, root, ...args])\n"
+   expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
+ })
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.ts
 index 6d9831c63b8626df68044b9b0cddbc13ec779032..249ec46fda0cb48f3f762427419f3c9e1ce01349 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.ts
