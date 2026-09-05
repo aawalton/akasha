@@ -33,17 +33,17 @@ test("waitForFunction hands text to the browser too", () => {
   expect(said[0]?.reason).toContain("`waitForFunction`")
 })
 
-test("the arrow form stands, its arguments being bound apart from the text", () => {
+test("the arrow form is left, its arguments being bound apart from the text", () => {
   const text = "page.evaluate((one) => document.write(one), password)\n"
   expect(noCredentialInScriptText(parsed(text))).toEqual([])
 })
 
-test("the function-expression form stands as the arrow form does", () => {
+test("the function-expression form is left as the arrow form is", () => {
   const text = "page.evaluate(function (one) { return one }, credential)\n"
   expect(noCredentialInScriptText(parsed(text))).toEqual([])
 })
 
-test("evaluate carrying no credential stands", () => {
+test("evaluate carrying no credential is left", () => {
   expect(noCredentialInScriptText(parsed("page.evaluate(`x = ${count}`)\n"))).toEqual([])
 })
 
@@ -56,7 +56,7 @@ test("a property named for a credential is read as a name is", () => {
   expect(said).toHaveLength(1)
 })
 
-test("a method that is no sink stands, however it is named", () => {
+test("a method that is no sink is left, however it is named", () => {
   expect(noCredentialInScriptText(parsed("held.compute(`x = ${password}`)\n"))).toEqual([])
 })
 
@@ -64,7 +64,7 @@ test("a bare call with no property before it is no sink", () => {
   expect(noCredentialInScriptText(parsed("evaluate(`x = ${password}`)\n"))).toEqual([])
 })
 
-test("the line named is the line the call stands on", () => {
+test("the line named is the line the call is on", () => {
   const said = noCredentialInScriptText(parsed("const one = 1\npage.evaluate(password)\n"))
   expect(said[0]?.line).toBe(2)
 })
@@ -74,7 +74,7 @@ test("two leaking calls are refused once each", () => {
   expect(noCredentialInScriptText(parsed(text))).toHaveLength(2)
 })
 
-test("a credential is found however deep in the text it stands", () => {
+test("a credential is found however deep in the text it sits", () => {
   const source = parsed("const one = [[{ held: passwd }]]\n").source
   expect(credentialNamedIn(source)).toBe("passwd")
 })

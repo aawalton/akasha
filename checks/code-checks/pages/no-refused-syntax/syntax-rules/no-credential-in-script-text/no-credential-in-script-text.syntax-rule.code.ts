@@ -7,7 +7,7 @@ const SINKS: ReadonlySet<string> = new Set(["evaluate", "evaluateHandle", "waitF
 const CREDENTIAL = /password|passwd|pwd|secret|credential/i
 
 const LEAKS =
-  "so it is handed to the browser as source and stands in every log and trace that run leaves"
+  "so it is handed to the browser as source and is in every log and trace that run leaves"
 
 function sinkNamed(node: ts.CallExpression): string | null {
   const called = node.expression

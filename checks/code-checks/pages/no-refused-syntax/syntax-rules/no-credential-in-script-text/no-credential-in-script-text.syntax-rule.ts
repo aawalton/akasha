@@ -14,7 +14,7 @@ export const noCredentialInScriptText = {
     },
     {
       invariantKind: "departure",
-      statement: "The function form stands.",
+      statement: "The function form is left.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +36,7 @@ export const noCredentialInScriptText = {
     {
       invariantKind: "departure",
       statement:
-        "A name a credential would carry is refused wherever the name stands inside the text.",
+        "A name a credential would carry is refused wherever the name sits inside the text.",
     },
     {
       invariantKind: "departure",
