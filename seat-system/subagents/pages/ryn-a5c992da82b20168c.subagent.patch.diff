@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/collections/royal-road-accounts/royal-road-account.page-type.ts b/collections/royal-road-accounts/royal-road-account.page-type.ts
-index d81132295c10956deaca59cfea22e25acec84544..df418c221843ba7224cfe0d72330f8a1c4cb8630 100644
+index d81132295c10956deaca59cfea22e25acec84544..4e71848d5cee2d01a698ac129f3d3efcc3aa0473 100644
 --- a/collections/royal-road-accounts/royal-road-account.page-type.ts
 +++ b/collections/royal-road-accounts/royal-road-account.page-type.ts
 @@ -27,7 +27,8 @@ export const royalRoadAccount = {
@@ -13,3 +13,12 @@ index d81132295c10956deaca59cfea22e25acec84544..df418c221843ba7224cfe0d72330f8a1
      },
      {
        invariantKind: "departure",
+@@ -36,7 +37,7 @@ export const royalRoadAccount = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "The sync signs in as no account and reads only what is open to anyone.",
++      statement: "The sync signs in as no account and reads only the pages open to anyone.",
+     },
+     {
+       invariantKind: "gap",
