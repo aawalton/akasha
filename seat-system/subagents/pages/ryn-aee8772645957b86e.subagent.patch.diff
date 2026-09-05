@@ -1,0 +1,13 @@
+diff --git a/infrastructure/inference-clients/voice-clone-client/voice-clone-client.module.ts b/infrastructure/inference-clients/voice-clone-client/voice-clone-client.module.ts
+index 8055811a76ba4f09e2c75fecc4b047f38af12e30..7850f226bb14012971035090cf1d7488509a4d2e 100644
+--- a/infrastructure/inference-clients/voice-clone-client/voice-clone-client.module.ts
++++ b/infrastructure/inference-clients/voice-clone-client/voice-clone-client.module.ts
+@@ -13,7 +13,7 @@ export const voiceCloneClient = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The reference clip is named where it is on the service's host.",
++      statement: "The reference clip is named where that clip is on the service's host.",
+     },
+     {
+       invariantKind: "departure",
