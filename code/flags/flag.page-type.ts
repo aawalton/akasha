@@ -13,7 +13,7 @@ export const flag = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A flag is read at the moment it is needed rather than at start-up.",
+      statement: "A flag is read at the moment that flag is needed rather than at start-up.",
     },
   ],
 } as const satisfies PageType
