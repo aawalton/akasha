@@ -32,7 +32,7 @@ export const refusal = {
     },
     {
       invariantKind: "departure",
-      statement: "A hole marked in the text is filled by whoever prints the refusal.",
+      statement: "A hole marked in the text is filled by the instrument printing the refusal.",
     },
     {
       invariantKind: "departure",
