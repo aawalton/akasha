@@ -7,14 +7,14 @@ export const ruleTrophiesBank = {
   title: "Bank trophies",
   description:
     "Deposits miscellaneous trophies (keys, key fragments, toys, dungeon buff ingredients, material upgraders) in the bank for safekeeping.",
+  goal: "hoard",
+  destination: "bank",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "trophies",
   displayOrder: 62,
   action: "move-to",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
-  goal: "hoard",
   locked: true,
   fromTemplate: "trophies-bank",
-  destination: "bank",
 } as const satisfies TemperInventoryRule
