@@ -36,7 +36,7 @@ export const storePageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "What names a page is found by asking each page type in turn.",
+      statement: "The pages naming a page are found by asking each page type in turn.",
     },
     {
       invariantKind: "departure",
