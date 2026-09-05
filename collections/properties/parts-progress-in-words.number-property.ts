@@ -17,7 +17,7 @@ export const partsProgressInWords = {
     },
     {
       invariantKind: "departure",
-      statement: "What is added up is each part's own total progress in words.",
+      statement: "Each part's own total progress in words is added up.",
     },
     {
       invariantKind: "gap",
