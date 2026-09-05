@@ -50,7 +50,7 @@ export const smsConsent = {
     },
     {
       invariantKind: "departure",
-      statement: "The wording is what the agreement was to.",
+      statement: "The agreement was to the wording.",
     },
     {
       invariantKind: "departure",
