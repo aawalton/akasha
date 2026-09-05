@@ -1,8 +1,12 @@
 import { landedMechanically } from "@akasha/command-system/asking"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
+import { typeSlugOf } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { aliasIndexesIn } from "../../modules/reading/claude-account-reading.module.code.ts"
+
+/** The claude-account page type, reached by the id it keeps rather than by the slug it answers to. */
+const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
 
 const EMAIL = "--email"
 
@@ -67,14 +71,15 @@ export function pageTextFor(
   account: string,
   email: string,
   aliasIndex: number,
-  id: string
+  id: string,
+  pageTypeSlug: string
 ): string {
   return [
     `import type { ClaudeAccount } from "../../claude-account.page-type.ts"`,
     ``,
     `export const ${exportedAs(account)} = {`,
     `  id: "${id}",`,
-    `  pageTypeSlug: "claude-account",`,
+    `  pageTypeSlug: "${pageTypeSlug}",`,
     `  slug: "${account}",`,
     `  email: "${email}",`,
     `  aliasIndex: ${aliasIndex},`,
@@ -109,8 +114,9 @@ export async function claudeAccountAdd(argv: readonly string[], given: Given): P
     }
     const slot = slotFrom(held, read.alias)
     if (typeof slot === "string") return { report: [], refusals: [slot], code: 1 }
-    const at = `${PAGES_AT}/${read.account}/${read.account}.claude-account.ts`
-    const body = pageTextFor(read.account, read.email, slot, Bun.randomUUIDv7())
+    const pageType = typeSlugOf(given.root, ACCOUNT_TYPE)
+    const at = `${PAGES_AT}/${read.account}/${read.account}.${pageType}.ts`
+    const body = pageTextFor(read.account, read.email, slot, Bun.randomUUIDv7(), pageType)
     const said = await landedMechanically(
       given.root,
       "claude-account-add",

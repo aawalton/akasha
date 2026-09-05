@@ -2,12 +2,18 @@ import { existsSync, mkdirSync, statSync } from "node:fs"
 import { appendFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
 import { landedMechanically } from "@akasha/command-system/asking"
+import { typeSlugOf } from "@akasha/indexes"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { uncommittedPartAt } from "@akasha/pages-system/page-file-parts"
 
 const CALLED_AS = "log-day-writing"
+
+/** The two page types written here, each reached by the id it keeps rather than by its slug. */
+const LOG_SOURCE_TYPE = "01a0657c-cb14-7c6f-83df-0d533f4f7821"
+
+const SEAT_LOG_DAY_TYPE = "01a0657c-cb14-7b5b-a206-18059a84a88a"
 
 const SOURCES_AT = "seat-system/log-sources/pages"
 
@@ -56,24 +62,30 @@ export function dayPathOf(slug: string): string {
   return `${DAYS_AT}/${slug}.seat-log-day.ts`
 }
 
-export function sourceBodyOf(source: string): string {
+export function sourceBodyOf(root: string, source: string): string {
   return [
     'import type { LogSource } from "../log-source.page-type.ts"',
     "",
     `export const ${exportedAs(source)} = {`,
-    '  pageTypeSlug: "log-source",',
+    `  pageTypeSlug: ${said(typeSlugOf(root, LOG_SOURCE_TYPE))},`,
     `  slug: ${said(source)},`,
     "} as const satisfies LogSource",
     "",
   ].join("\n")
 }
 
-export function dayBodyOf(slug: string, source: string, seatName: string, date: string): string {
+export function dayBodyOf(
+  root: string,
+  slug: string,
+  source: string,
+  seatName: string,
+  date: string
+): string {
   return [
     'import type { SeatLogDay } from "../seat-log-day.page-type.ts"',
     "",
     `export const ${exportedAs(slug)} = {`,
-    '  pageTypeSlug: "seat-log-day",',
+    `  pageTypeSlug: ${said(typeSlugOf(root, SEAT_LOG_DAY_TYPE))},`,
     `  slug: ${said(slug)},`,
     `  sourceSlug: ${said(source)},`,
     `  seatName: ${said(seatName)},`,
@@ -129,7 +141,7 @@ function appenderFor(
     !putUp(
       root,
       sourcePathOf(source),
-      sourceBodyOf(source),
+      sourceBodyOf(root, source),
       `${source}: a log source is the log one program keeps`
     )
   ) {
@@ -141,7 +153,7 @@ function appenderFor(
     !putUp(
       root,
       pagePath,
-      dayBodyOf(slug, source, seatName, date),
+      dayBodyOf(root, slug, source, seatName, date),
       `${slug}: one source's lines for one seat on one day`
     )
   ) {
