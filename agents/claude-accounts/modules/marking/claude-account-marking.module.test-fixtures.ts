@@ -179,7 +179,7 @@ export function typeWritten(
   id: string,
   slug: string,
   at: string,
-  above: string | null,
+  above: readonly string[],
   declared: readonly Declared[]
 ): undefined {
   filed(
@@ -245,13 +245,13 @@ export function accountWritten(
 
 export function bareTypeIn(prefix: string): string {
   const root = rootFor(prefix)
-  typeWritten(root, ACCOUNT_TYPE, "claude-account", TYPE_AT, null, [])
+  typeWritten(root, ACCOUNT_TYPE, "claude-account", TYPE_AT, [], [])
   return root
 }
 
 export function worldIn(root: string, declared: readonly Declared[] = ACCOUNT_DECLARED): string {
-  typeWritten(root, ABOVE_TYPE, "page", ABOVE_AT, null, ABOVE_DECLARED)
-  typeWritten(root, ACCOUNT_TYPE, "claude-account", TYPE_AT, "page-type/page", declared)
+  typeWritten(root, ABOVE_TYPE, "page", ABOVE_AT, [], ABOVE_DECLARED)
+  typeWritten(root, ACCOUNT_TYPE, "claude-account", TYPE_AT, ["page-type/page"], declared)
   accountWritten(root, "aine", { fiveHourPercentUsed: 12, terminalAt: RESETS_AT })
   accountWritten(root, "aow", null)
   accountWritten(root, "ctw", { sevenDayPercentUsed: 40 })
