@@ -160,7 +160,7 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "Several pages compose into what one write puts, keeps and takes away.",
+      statement: "Several pages compose into the files one write puts, keeps and takes away.",
     },
     {
       invariantKind: "departure",
