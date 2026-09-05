@@ -391,6 +391,14 @@ index 9d1c9d92adda30b76db01d7534cbb51509649b14..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../pages/ui/components
 \ No newline at end of file
+diff --git a/personas-core/personas-core b/personas-core/personas-core
+deleted file mode 120000
+index 0436875587c04a0797257a7ee9a567e5c70e4ff2..0000000000000000000000000000000000000000
+--- a/personas-core/personas-core
++++ /dev/null
+@@ -1 +0,0 @@
+-../../personas-core
+\ No newline at end of file
 diff --git a/utils-fs/utils-fs b/utils-fs/utils-fs
 deleted file mode 120000
 index 8a4350bb29c2cb7e9846cf1a8d7d0cf52c94bd83..0000000000000000000000000000000000000000
