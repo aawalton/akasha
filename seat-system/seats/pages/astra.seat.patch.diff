@@ -1,0 +1,58 @@
+diff --git a/commands/refactor/refactor.command.ts b/commands/refactor/refactor.command.ts
+index d81c677723d2e8877b3a4b0a8add995429823e9f..15ddc8e9034e62c6d874702f704d4e36029277eb 100644
+--- a/commands/refactor/refactor.command.ts
++++ b/commands/refactor/refactor.command.ts
+@@ -102,10 +102,6 @@ export const refactor = {
+       invariantKind: "departure",
+       statement: "What a rename would touch is answered before the rename is asked to land.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "Every file a rename touches lands in one commit or none of them does.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "Every page of the renamed type states the slug that type becomes.",
+@@ -248,6 +244,42 @@ export const refactor = {
+       invariantKind: "absence",
+       statement: "A package rename changes no page's slug.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A package rename wider than one batch lands as expand, migrate and contract.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Which phase a package rename is in is read from the manifests.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A package rename run again carries on from the phase the manifests name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Expand renames the package and writes a compat package carrying the old name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The compat package names every way in the renamed package names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every commit from expand to contract resolves under the old name and the new.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Migrate respells the files naming the old name, a batch to a commit.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file that moved under a batch is left to a later batch rather than refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Contract takes the compat package away once no file names the old name.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A retype names no namespace.",
