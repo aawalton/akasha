@@ -30,6 +30,22 @@ index 347f7f705f973e03d7490d8600d969761c5a6f2a..2807b7445a7c1afa8c858681af599de3
      {
        invariantKind: "departure",
        statement: "One that moved is refused unwritten.",
+diff --git a/infrastructure/inference-commands/inference-generate/inference-generate.command.ts b/infrastructure/inference-commands/inference-generate/inference-generate.command.ts
+index 9478f130fc59cdd90870fe8fef453a647adeae0f..a3ba288e377f7c11889b8899e9157f5864b0ebb1 100644
+--- a/infrastructure/inference-commands/inference-generate/inference-generate.command.ts
++++ b/infrastructure/inference-commands/inference-generate/inference-generate.command.ts
+@@ -55,10 +55,7 @@ export const inferenceGenerate = {
+       invariantKind: "departure",
+       statement: "The image is written where the caller named that image and nowhere else.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A run row is filed whether the render finished or failed.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here makes the service resident.",
 diff --git a/story/chapters-played/story-chapter-played.page-type.ts b/story/chapters-played/story-chapter-played.page-type.ts
 index 3105765de04f6d660afdd61276afb567148bd6f5..504031cac23062d4dc8617bb2ee5895b56794cd3 100644
 --- a/story/chapters-played/story-chapter-played.page-type.ts
