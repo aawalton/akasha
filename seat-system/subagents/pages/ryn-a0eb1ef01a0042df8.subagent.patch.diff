@@ -1,0 +1,13 @@
+diff --git a/persona-system/questions/question.page-type.ts b/persona-system/questions/question.page-type.ts
+index a70db8b203424e288cd99377c7e93a247fc4a449..bb1c86503bcb46f16d508db2dbcdce4c923356c4 100644
+--- a/persona-system/questions/question.page-type.ts
++++ b/persona-system/questions/question.page-type.ts
+@@ -61,7 +61,7 @@ export const question = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A question names the persona who put it.",
++      statement: "A question names the persona who put that question.",
+     },
+     {
+       invariantKind: "departure",
