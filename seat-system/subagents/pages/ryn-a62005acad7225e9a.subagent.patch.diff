@@ -1,0 +1,15 @@
+diff --git a/command-system/commands/wan/wan.command.ts b/command-system/commands/wan/wan.command.ts
+index 5134690da267abff035de09b8370e537df1881ff..300bf8cc620ad7fd571b7d04f8aaed32ceda213c 100644
+--- a/command-system/commands/wan/wan.command.ts
++++ b/command-system/commands/wan/wan.command.ts
+@@ -97,10 +97,6 @@ export const wan = {
+       statement:
+         "Two conditioning images carrying one file name are refused rather than staged over each other.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "An extend's whole length is four times a whole number plus one.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A seed nothing named is drawn and recorded with the run.",
