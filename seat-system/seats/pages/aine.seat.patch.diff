@@ -1,0 +1,13 @@
+diff --git a/commands/edit/edit.command.ts b/commands/edit/edit.command.ts
+index 50345247a97250e349a1d2eefd9cea786427476e..f4ff89df1c2965462dc190f11bc33e0ea97ddb51 100644
+--- a/commands/edit/edit.command.ts
++++ b/commands/edit/edit.command.ts
+@@ -20,6 +20,8 @@ export const edit = {
+     { said: "--break-the-glass <reason>", takes: "why no warrant is owed, said in the commit" },
+   ],
+   helpNotes: [
++    "a mechanical change is made by the command for it rather than by passages stated here.",
++    "`move` carries and repoints, `refactor` renames and retypes, `replace` substitutes across files, `remove` takes away.",
+     "--file-path, --old-file and --new-file repeat in triples, so several files change as one.",
+     "a passage stated must stand exactly once in the file, or the call is refused.",
+     "the passage and what it becomes are files or standard input, never text said on the command line.",
