@@ -59,7 +59,7 @@ async function made(held: ReadonlyMap<string, string>): Promise<Answer> {
   })
   const created = next.rules[next.rules.length - 1]
   if (created === undefined) {
-    return refused("a category rule was added and none stands at the end of the list", DATA)
+    return refused("a category rule was added and none is at the end of the list", DATA)
   }
   const merged: CategoryRule = { ...created, ...webIn(held) }
   await settingsAccess.write({

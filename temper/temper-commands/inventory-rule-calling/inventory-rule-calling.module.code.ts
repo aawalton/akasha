@@ -339,7 +339,7 @@ export async function copiedRule(kind: Kind, id: string): Promise<Answer> {
   const clone = kindly.heldIn(next)[at + 1]
   if (clone === undefined) {
     return refused(
-      `the ${kindly.named} \`${id}\` was copied and no clone stands after it, so the settings are wrong`,
+      `the ${kindly.named} \`${id}\` was copied and no clone is after it, so the settings are wrong`,
       DATA
     )
   }

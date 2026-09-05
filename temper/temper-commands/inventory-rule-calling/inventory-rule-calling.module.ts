@@ -21,8 +21,7 @@ export const inventoryRuleCalling = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A flag standing where the rule should be named is refused rather than read as an id.",
+      statement: "A flag where the rule should be named is refused rather than read as an id.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +42,7 @@ export const inventoryRuleCalling = {
     },
     {
       invariantKind: "departure",
-      statement: "Locking and unlocking stand in front of no guard of their own.",
+      statement: "Locking and unlocking sit in front of no guard of their own.",
     },
     {
       invariantKind: "departure",
@@ -51,7 +50,7 @@ export const inventoryRuleCalling = {
     },
     {
       invariantKind: "departure",
-      statement: "A clone stands immediately after its source.",
+      statement: "A clone sits immediately after its source.",
     },
     {
       invariantKind: "departure",

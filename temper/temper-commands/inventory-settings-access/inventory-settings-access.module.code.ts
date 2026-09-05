@@ -90,7 +90,7 @@ async function writeSlice(
   throw new Error(
     `${caller}: the \`${sliceKey}\` settings of \`${PLAYER_PAGE_TYPE_SLUG}/${player.name}\` were ` +
       `not patched — ${NO_KEYED_WRITE}. ${settings.length} character(s) of settings were built ` +
-      `and dropped, and every read of these rules still answers with what stood before`
+      `and dropped, and every read of these rules still answers with what was there before`
   )
 }
 

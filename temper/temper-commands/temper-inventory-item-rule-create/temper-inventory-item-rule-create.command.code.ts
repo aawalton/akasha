@@ -88,7 +88,7 @@ async function made(held: ReadonlyMap<string, string>): Promise<Answer> {
   })
   const created = (added.itemRules ?? [])[0]
   if (created === undefined) {
-    return refusing("an item rule was added and none stands at the front of the list", DATA)
+    return refusing("an item rule was added and none is at the front of the list", DATA)
   }
   const patch: Partial<
     Pick<

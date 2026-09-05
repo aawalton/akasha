@@ -56,7 +56,7 @@ async function made(held: ReadonlyMap<string, string>): Promise<Answer> {
   })
   const created = (added.buyRules ?? [])[0]
   if (created === undefined) {
-    return refusing("a buy rule was added and none stands at the front of the list", DATA)
+    return refusing("a buy rule was added and none is at the front of the list", DATA)
   }
   const patch: Partial<Pick<BuyRule, "active" | "goal" | "title" | "notes">> = webIn(held)
   const next =
