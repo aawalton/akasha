@@ -217,3 +217,19 @@ index 33c990a1fb9f317bbb288bfef14f9d6d57a86517..4790ac02b65fe67bfb423665979e2ac5
      {
        invariantKind: "departure",
        statement: "Completed item mining starts quest mining.",
+diff --git a/temper/temper-capture-datamining-addon/datamining-quest-miner/datamining-quest-miner.module.ts b/temper/temper-capture-datamining-addon/datamining-quest-miner/datamining-quest-miner.module.ts
+index 705215e7091654ea410d014e62f075adb178f84a..f09d48745a30a7496c60832ca6aa0835100df2f9 100644
+--- a/temper/temper-capture-datamining-addon/datamining-quest-miner/datamining-quest-miner.module.ts
++++ b/temper/temper-capture-datamining-addon/datamining-quest-miner/datamining-quest-miner.module.ts
+@@ -15,10 +15,7 @@ export const dataminingQuestMiner = {
+       invariantKind: "departure",
+       statement: "A quest id the game names nothing for is counted as a miss.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "Mining that has run past the stated misses is complete.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A quest carries the name of the zone the quest sits in.",
