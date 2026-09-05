@@ -22,7 +22,7 @@ export const monarchEvalAgent = {
     {
       invariantKind: "departure",
       statement:
-        "The prompt says what the household means by its categories rather than leaving them to be guessed at.",
+        "The prompt states the household's meaning for each category rather than leaving the agent to guess.",
     },
     {
       invariantKind: "departure",
@@ -35,11 +35,11 @@ export const monarchEvalAgent = {
     },
     {
       invariantKind: "departure",
-      statement: "A reply that holds no array is refused with what that reply did say.",
+      statement: "A reply that holds no array is refused with the words that reply did say.",
     },
     {
       invariantKind: "departure",
-      statement: "What the batch cost is reported alongside what that batch proposed.",
+      statement: "The batch's cost is reported alongside the categories that batch proposed.",
     },
     {
       invariantKind: "absence",
