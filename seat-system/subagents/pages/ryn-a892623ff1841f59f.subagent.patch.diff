@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/collections/syncs/sync.page-type.ts b/collections/syncs/sync.page-type.ts
+index 60a9ad47298702910f9b6722e0ce7aec68a8e287..4c07f6f7191b9825f9bf1ff9132dcc9a18b0bb39 100644
+--- a/collections/syncs/sync.page-type.ts
++++ b/collections/syncs/sync.page-type.ts
+@@ -30,7 +30,7 @@ export const sync = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "What holds the pull in flight is never committed.",
++      statement: "The value holding the pull in flight is never committed.",
+     },
+   ],
+ } as const satisfies PageType
