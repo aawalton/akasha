@@ -170,3 +170,44 @@ index 0000000000000000000000000000000000000000..4f34b05349334fdbb2fb730dca7cad72
 +    "module/remark-sectionize",
 +  ],
 +} as const satisfies Domain
+diff --git a/pages/ui/media/pages-ui-media.domain.ts b/pages/ui/media/pages-ui-media.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7f9a83ee9d6b932df82823821eb286abc39b8976
+--- /dev/null
++++ b/pages/ui/media/pages-ui-media.domain.ts
+@@ -0,0 +1,35 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesUiMedia = {
++  id: "01a071d0-4b6a-724c-8d8b-5d9ece92248e",
++  pageTypeSlug: "domain",
++  slug: "pages-ui-media",
++  definition: "the sound and picture a page carries",
++  partSlugs: [
++    "module/is-webkit",
++    "module/media-renditions",
++    "module/media-src",
++    "module/media-token",
++    "module/native-tts-adapter",
++    "module/page-media-player",
++    "module/play-from-sentence",
++    "module/playing-session",
++    "module/playing-session-chain",
++    "module/playing-session-context",
++    "module/playing-session-storage",
++    "module/resolve-active-sentence",
++    "module/sentence-narration-context",
++    "module/serve-media",
++    "module/transport-selection",
++    "module/use-audio-auto-advance",
++    "module/use-audio-seek-and-play",
++    "module/use-audio-time-subscription",
++    "module/use-audio-transport",
++    "module/use-cross-mode-position-write",
++    "module/use-native-tts-transport",
++    "module/use-persist-audio-session",
++    "module/use-persistent-audio-container",
++    "module/use-shell-media-src",
++    "module/use-webkit-read-aloud-ensure",
++  ],
++} as const satisfies Domain
