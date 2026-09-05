@@ -19,9 +19,5 @@ export const achievementCatalogSchema = {
       invariantKind: "departure",
       statement: "An entry says whether the achievement is earned per character.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The inferred type is checked against the shape in `temper-capture-shapes`.",
-    },
   ],
 } as const satisfies Module

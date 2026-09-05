@@ -19,9 +19,5 @@ export const cadwellCatalogSchema = {
       invariantKind: "departure",
       statement: "A point of interest carries an order number.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The inferred type is checked against the shape in `temper-capture-shapes`.",
-    },
   ],
 } as const satisfies Module

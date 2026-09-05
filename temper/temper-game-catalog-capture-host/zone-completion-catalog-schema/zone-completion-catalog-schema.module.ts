@@ -19,9 +19,5 @@ export const zoneCompletionCatalogSchema = {
       invariantKind: "departure",
       statement: "A completion type carries activities and nothing else.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The inferred type is checked against the shape in `temper-capture-shapes`.",
-    },
   ],
 } as const satisfies Module

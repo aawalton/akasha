@@ -19,9 +19,5 @@ export const poiCatalogSchema = {
       invariantKind: "constraint",
       statement: "A property outside the named set is refused.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The inferred type is checked against the shape in `temper-capture-shapes`.",
-    },
   ],
 } as const satisfies Module

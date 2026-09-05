@@ -15,9 +15,5 @@ export const antiquityLoreCatalogSchema = {
       invariantKind: "departure",
       statement: "An entry carrying a field the schema does not name is refused.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The inferred type is checked against the shape in `temper-capture-shapes`.",
-    },
   ],
 } as const satisfies Module

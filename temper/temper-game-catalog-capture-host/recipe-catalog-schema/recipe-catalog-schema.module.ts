@@ -19,9 +19,5 @@ export const recipeCatalogSchema = {
       invariantKind: "departure",
       statement: "A catalog key arrives as text and is coerced to a number.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The inferred type is checked against the shape in `temper-capture-shapes`.",
-    },
   ],
 } as const satisfies Module
