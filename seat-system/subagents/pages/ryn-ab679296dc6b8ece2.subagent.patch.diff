@@ -1,0 +1,13 @@
+diff --git a/pages/unique-kinds/pages/part-of.unique-kind.ts b/pages/unique-kinds/pages/part-of.unique-kind.ts
+index 2a0588ec112598d0876d3bf191c3b0c24bc41060..3288a2dee7abbf6b32fdad5b0c68bd5cf45c895a 100644
+--- a/pages/unique-kinds/pages/part-of.unique-kind.ts
++++ b/pages/unique-kinds/pages/part-of.unique-kind.ts
+@@ -8,7 +8,7 @@ export const partOf = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A page is part of what names it under `part-slugs`.",
++      statement: "A page is part of what names that page under `part-slugs`.",
+     },
+     {
+       invariantKind: "departure",
