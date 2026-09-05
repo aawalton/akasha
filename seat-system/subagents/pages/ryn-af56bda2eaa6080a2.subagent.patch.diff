@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/tracking/daily/eso-days/properties/surplus-tier-said.text-property.ts b/alan/tracking/daily/eso-days/properties/surplus-tier-said.text-property.ts
+index 6aeb9f6bd7516dfae29c35de6e0921839e5bfae1..a2a48cad11f9e8be6a3248d34dc07753ac115329 100644
+--- a/alan/tracking/daily/eso-days/properties/surplus-tier-said.text-property.ts
++++ b/alan/tracking/daily/eso-days/properties/surplus-tier-said.text-property.ts
+@@ -13,7 +13,7 @@ export const surplusTierSaid = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This property is what Alan was told rather than what he had.",
++      statement: "This property is what Alan was told rather than what Alan had.",
+     },
+   ],
+ } as const satisfies TextProperty
