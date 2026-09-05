@@ -27,7 +27,7 @@ export const monarchEval = {
     {
       invariantKind: "departure",
       statement:
-        "An agent trusted where it should not be spends Jenny's attention on corrections rather than on questions, which is worse than never having asked her.",
+        "An agent trusted past its reach spends Jenny's attention on corrections rather than on questions.",
     },
     {
       invariantKind: "absence",

@@ -20,8 +20,7 @@ export const staleFolders = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A package holding no workspaces of its own is not descended into, so a linked package's build output is left alone.",
+      statement: "A package holding no workspaces of its own is not descended into.",
     },
     {
       invariantKind: "absence",

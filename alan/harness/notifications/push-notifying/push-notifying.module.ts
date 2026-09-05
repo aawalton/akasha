@@ -37,7 +37,7 @@ export const pushNotifying = {
     {
       invariantKind: "departure",
       statement:
-        "With the signing key unset every push is a logged no-op and the feed is still followed, so nothing is pushed twice once the key is set.",
+        "With the signing key unset every push is a logged no-op and the feed is still followed.",
     },
     {
       invariantKind: "departure",

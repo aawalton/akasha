@@ -10,7 +10,11 @@ export const monarchPoll = {
     {
       invariantKind: "departure",
       statement:
-        "The update stamp of every row in the trusted window is asked for and compared against the watermark our copy holds, so a minute where nothing changed costs one call.",
+        "The update stamp of every row in the trusted window is asked for and compared against the watermark our copy holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A minute where nothing changed costs one call.",
     },
     {
       invariantKind: "departure",

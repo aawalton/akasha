@@ -10,8 +10,11 @@ export const inboxWatching = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The watch sits behind the guard on being the file run, so loading this file declares its value and starts nothing.",
+      statement: "The watch sits behind the guard on being the file run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Loading this file declares its value and starts nothing.",
     },
     {
       invariantKind: "departure",

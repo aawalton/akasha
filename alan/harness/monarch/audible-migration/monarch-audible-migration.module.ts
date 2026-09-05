@@ -20,7 +20,7 @@ export const monarchAudibleMigration = {
     {
       invariantKind: "departure",
       statement:
-        "A charge is found by the word Audible in its merchant, its statement line or its note, so a row the bank spelled differently is still reached.",
+        "A charge is found by the word Audible in its merchant, its statement line or its note.",
     },
     {
       invariantKind: "departure",

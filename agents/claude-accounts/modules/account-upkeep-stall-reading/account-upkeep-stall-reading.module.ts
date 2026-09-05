@@ -42,8 +42,7 @@ export const accountUpkeepStallReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The worst fault found is the one reported, so an expired token is never hidden behind a stale usage reading.",
+      statement: "The worst fault found is the fault reported.",
     },
     {
       invariantKind: "departure",

@@ -18,8 +18,11 @@ export const monarchHistory = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A neighbourhood is read from the database over twice the rule's window, which is the same span the in-memory slice takes.",
+      statement: "A neighbourhood is read from the database over twice the rule's window.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The in-memory slice takes the same span as that database read.",
     },
     {
       invariantKind: "departure",

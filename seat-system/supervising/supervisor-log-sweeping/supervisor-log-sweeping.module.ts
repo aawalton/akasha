@@ -40,8 +40,11 @@ export const supervisorLogSweeping = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "These files are gitignored, so no removal here reaches a commit and each goes with a plain remove rather than through the gated one.",
+      statement: "These files are gitignored.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each removal here goes with a plain remove rather than through the gated remove.",
     },
     {
       invariantKind: "departure",

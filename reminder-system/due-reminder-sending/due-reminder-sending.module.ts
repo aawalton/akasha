@@ -13,8 +13,12 @@ export const dueReminderSending = {
     },
     {
       invariantKind: "departure",
+      statement: "Whom the words reach is left to the recipient resolver.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "Whom the words reach is left to the recipient resolver, which treats this message as it treats any other.",
+        "The recipient resolver treats this message as that resolver treats any other message.",
     },
     {
       invariantKind: "absence",
