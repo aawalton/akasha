@@ -170,7 +170,7 @@ export const read = {
     {
       invariantKind: "departure",
       statement:
-        "A file a warrant names is asked what that file warrants only where the warrant is transitive.",
+        "A file a warrant names is asked for files that file warrants only where the warrant is transitive.",
     },
     {
       invariantKind: "departure",
