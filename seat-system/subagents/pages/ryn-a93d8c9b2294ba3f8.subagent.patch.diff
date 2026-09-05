@@ -1,3 +1,19 @@
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-domain-with-its-parts/a-domain-with-its-parts.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-domain-with-its-parts/a-domain-with-its-parts.folder-shape.ts
+index decaf77aa102ffe17d57915330c11f2d4d609bd9..e540ecb691eeadc374abc56ca7d7e0d22c49e20d 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-domain-with-its-parts/a-domain-with-its-parts.folder-shape.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-domain-with-its-parts/a-domain-with-its-parts.folder-shape.ts
+@@ -37,10 +37,7 @@ export const aDomainWithItsParts = {
+       invariantKind: "departure",
+       statement: "A subfolder holding a page the domain declares a part is a part too.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A page is declared a part by its page type and slug together.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A subfolder holding no page the domain declares is refused.",
 diff --git a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
 index d46b5520305c7527a21be788e295c4f1b9ba59cf..c18cd88409927c19558e6a6a75726aca70036b5d 100644
 --- a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
