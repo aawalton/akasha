@@ -27,7 +27,7 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement: "Finding them costs nothing the pages grow.",
+      statement: "Finding the checks costs nothing the pages grow.",
     },
     {
       invariantKind: "departure",
