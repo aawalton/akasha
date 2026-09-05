@@ -119,7 +119,7 @@ export const command = {
     {
       invariantKind: "departure",
       statement:
-        "A command's page states what the command takes and what is worth knowing about the taking.",
+        "A command's page states the command's arguments and the notes worth knowing about the taking.",
     },
     {
       invariantKind: "departure",
@@ -136,7 +136,7 @@ export const command = {
     },
     {
       invariantKind: "departure",
-      statement: "What a command takes is carried here as data rather than as prose.",
+      statement: "The arguments a command takes are carried here as data rather than as prose.",
     },
     {
       invariantKind: "departure",
