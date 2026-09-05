@@ -359,10 +359,18 @@ index dc2ad10557354f455c8fd193aa010680d7ee8ba7..ffb49b7c0aab4996d9919eaa73586329
 +  }
 +})
 diff --git a/seat-system/subagents/presence/subagent-presence.module.ts b/seat-system/subagents/presence/subagent-presence.module.ts
-index e8cf8ab862436a51dd4f6de388800906bb94907c..3f3716f255bca8a10208125ec8d3b2c337782b6c 100644
+index e8cf8ab862436a51dd4f6de388800906bb94907c..7e4ee0f47434fa1de2e58108e088c7617bb18d76 100644
 --- a/seat-system/subagents/presence/subagent-presence.module.ts
 +++ b/seat-system/subagents/presence/subagent-presence.module.ts
-@@ -22,11 +22,31 @@ export const subagentPresence = {
+@@ -7,6 +7,7 @@ export const subagentPresence = {
+   definition: "a subagent's page put up while it works and taken away when it is done",
+   code: "ts",
+   test: "ts",
++  testFixtures: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+@@ -22,11 +23,31 @@ export const subagentPresence = {
      },
      {
        invariantKind: "departure",
@@ -396,7 +404,7 @@ index e8cf8ab862436a51dd4f6de388800906bb94907c..3f3716f255bca8a10208125ec8d3b2c3
      },
      {
        invariantKind: "departure",
-@@ -38,11 +58,11 @@ export const subagentPresence = {
+@@ -38,11 +59,11 @@ export const subagentPresence = {
      },
      {
        invariantKind: "departure",
