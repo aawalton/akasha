@@ -487,3 +487,11 @@ index 49a0edf2797982c8cf3faccac5bdd9f161c8f811..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-addon-build
 \ No newline at end of file
+diff --git a/temper/temper-addon-data/temper-addon-data b/temper/temper-addon-data/temper-addon-data
+deleted file mode 120000
+index d69bfff266371fac9f1b780b0d41582bcf734714..0000000000000000000000000000000000000000
+--- a/temper/temper-addon-data/temper-addon-data
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-addon-data
+\ No newline at end of file
