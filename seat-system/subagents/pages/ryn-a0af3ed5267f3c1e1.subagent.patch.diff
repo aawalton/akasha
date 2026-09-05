@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/commands/write/write.command.ts b/commands/write/write.command.ts
-index a1aa3e0344299957d353b63f7b4f18923faafa6d..9ae5a8ce85427e99e98afd181dacf0fb508d3b49 100644
+index a1aa3e0344299957d353b63f7b4f18923faafa6d..39230a1dea31c8ede6b7744131ce5ea659c5adbf 100644
 --- a/commands/write/write.command.ts
 +++ b/commands/write/write.command.ts
 @@ -59,11 +59,11 @@ export const write = {
@@ -40,3 +40,12 @@ index a1aa3e0344299957d353b63f7b4f18923faafa6d..9ae5a8ce85427e99e98afd181dacf0fb
      },
      {
        invariantKind: "departure",
+@@ -133,7 +133,7 @@ export const write = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A path this call takes away was chosen by whoever called this call.",
++      statement: "A path this call takes away was chosen by this call's caller.",
+     },
+     {
+       invariantKind: "absence",
