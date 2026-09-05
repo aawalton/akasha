@@ -1,0 +1,13 @@
+diff --git a/command-system/asking/asking.module.ts b/command-system/asking/asking.module.ts
+index a960989d58ef88c1ef99a084e9ada8b83570388f..5905f78ff648fc9b41ac8d079629592c737b5423 100644
+--- a/command-system/asking/asking.module.ts
++++ b/command-system/asking/asking.module.ts
+@@ -118,7 +118,7 @@ export const asking = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A change carrying a package manifest installs the checkout onto the commit it landed.",
++        "A change carrying a package manifest installs the checkout onto the commit that change landed.",
+     },
+     {
+       invariantKind: "departure",
