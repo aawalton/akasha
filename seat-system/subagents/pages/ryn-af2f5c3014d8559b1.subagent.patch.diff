@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/body/page-body.module.ts b/pages/body/page-body.module.ts
-index 46486e588141737f042807d6c5c392de0a80dcb3..61b931ef179ea02a614dd77322ab2178cf687a86 100644
+index 46486e588141737f042807d6c5c392de0a80dcb3..43425e1ecbadee514dd895eff27c74c9b75b08ef 100644
 --- a/pages/body/page-body.module.ts
 +++ b/pages/body/page-body.module.ts
 @@ -35,7 +35,7 @@ export const pageBody = {
@@ -12,7 +12,7 @@ index 46486e588141737f042807d6c5c392de0a80dcb3..61b931ef179ea02a614dd77322ab2178
      },
      {
        invariantKind: "departure",
-@@ -47,7 +47,7 @@ export const pageBody = {
+@@ -47,11 +47,11 @@ export const pageBody = {
      },
      {
        invariantKind: "absence",
@@ -21,3 +21,8 @@ index 46486e588141737f042807d6c5c392de0a80dcb3..61b931ef179ea02a614dd77322ab2178
      },
      {
        invariantKind: "departure",
+-      statement: "What lands the body mints and formats the body.",
++      statement: "The landing mints and formats the body.",
+     },
+   ],
+ } as const satisfies Module
