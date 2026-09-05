@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.ts b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.ts
+index 78344daa568432699d6a59355e5a4d3a3d0cfd8e..08c2f88bcaff14f57da00e413f16dfa99945a153 100644
+--- a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.ts
++++ b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.ts
+@@ -75,7 +75,8 @@ export const restatementNarrowsSomething = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A restatement raising a total while it narrows something else is refused.",
++      statement:
++        "A restatement raising a total while that restatement narrows something else is refused.",
+     },
+   ],
+ } as const satisfies CodeCheck
