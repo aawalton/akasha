@@ -1,0 +1,189 @@
+diff --git a/temper/temper-watcher/watcher-export-settings/watcher-export-settings.module.code.ts b/temper/temper-watcher/watcher-export-settings/watcher-export-settings.module.code.ts
+index 90e00b8bbad19b7592ad35985c142f31af3123d6..761a30161c5bc4436a08e61d94eb841e55e00346 100644
+--- a/temper/temper-watcher/watcher-export-settings/watcher-export-settings.module.code.ts
++++ b/temper/temper-watcher/watcher-export-settings/watcher-export-settings.module.code.ts
+@@ -1,9 +1,14 @@
+-import { getPage } from "@akasha/pages-access/get"
++import { getPage, getPages } from "@akasha/pages-access/get"
+ import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
+ import type { BackpackSettings } from "@akasha/temper-items-core/backpack-settings-types"
+ import { DEFAULT_BACKPACK_SETTINGS } from "@akasha/temper-items-core/backpack-settings-types"
+ import { compileRules } from "@akasha/temper-items-rules-core/inventory-rule-compiler"
+ import { buildAllControlledRules } from "@akasha/temper-items-rules-core/inventory-rule-controlled"
++import type { HeldRule } from "@akasha/temper-items-rules-core/inventory-rule-from-pages"
++import {
++  heldFromRows,
++  rulesFromPages,
++} from "@akasha/temper-items-rules-core/inventory-rule-from-pages"
+ import { rulesToInventoryConfig } from "@akasha/temper-items-rules-core/inventory-rule-mapping"
+ import type { InventoryTimestamps } from "@akasha/temper-items-rules-core/inventory-settings-types"
+ import { ruleFingerprint } from "@akasha/temper-items-rules-core/rule-fingerprint"
+@@ -48,6 +53,10 @@ const TEMPER_INVENTORY_SIBLINGS = ["db", "version"] as const
+ 
+ const TEMPER_PLAYER_PAGE_TYPE_SLUG = "temper-player"
+ 
++const TEMPER_INVENTORY_RULE_PAGE_TYPE_SLUG = "temper-inventory-rule"
++
++const RULES_AT_MOST = 500
++
+ const INVENTORY_TYPE = "inventory"
+ const AUTOMATION_TYPE = "automation"
+ const LOGGING_TYPE = "logging"
+@@ -72,6 +81,7 @@ export interface ExportSettingsSeams {
+     userId: string,
+     types: readonly string[]
+   ) => Promise<Record<string, unknown>>
++  readonly readPlayerRules: (userId: string) => Promise<readonly HeldRule[]>
+   readonly pricingTables: (say: Say) => Promise<PricingTables>
+   readonly writeSideFile: (path: string, content: string) => string
+ }
+@@ -110,9 +120,19 @@ async function readSettings(
+   return held
+ }
+ 
++async function readRules(userId: string): Promise<readonly HeldRule[]> {
++  const { rows } = await getPages({
++    pageTypeSlug: TEMPER_INVENTORY_RULE_PAGE_TYPE_SLUG,
++    where: [{ key: "accountPage", eq: userId }],
++    limit: RULES_AT_MOST,
++  })
++  return heldFromRows(rows as unknown as readonly Record<string, unknown>[])
++}
++
+ const WATCHER_SEAMS: ExportSettingsSeams = {
+   say: log,
+   readPlayerSettings: readSettings,
++  readPlayerRules: readRules,
+   pricingTables: computePricingTables,
+   writeSideFile: writeSideFileIfChanged,
+ }
+@@ -158,10 +178,15 @@ type InventoryValues = Pick<SideFileValues, "sell" | "sellTimestamps" | "sellCom
+ async function compileInventoryValues(
+   userId: string,
+   inventoryValue: unknown,
++  heldRules: readonly HeldRule[],
+   automationSettings: AutomationSettings | undefined,
+   say: Say
+ ): Promise<InventoryValues> {
+-  const ruleSettings = withControlledRules(toRuleSettings(inventoryValue), automationSettings)
++  const saved = toRuleSettings(inventoryValue)
++  const ruleSettings = withControlledRules(
++    { ...saved, rules: rulesFromPages(heldRules) },
++    automationSettings
++  )
+ 
+   const [wantedEquipment, wantedCompanionEquipment] = await Promise.all([
+     compileWantedEquipment(userId, automationSettings),
+@@ -235,22 +260,26 @@ export async function runExportSettings(
+   const say = seams.say
+   const userId = await userIdFor(supabase, options.userId, "export these settings")
+ 
+-  const settingsByType = await seams.readPlayerSettings(userId, ALL_SETTING_TYPES)
++  const [settingsByType, heldRules] = await Promise.all([
++    seams.readPlayerSettings(userId, ALL_SETTING_TYPES),
++    seams.readPlayerRules(userId),
++  ])
+   const named = Object.keys(settingsByType)
+-  if (named.length === 0) {
++  if (named.length === 0 && heldRules.length === 0) {
+     say(NOTHING_TO_EXPORT)
+     return { content, modified: false, inventoryConfigSideFileHash: null }
+   }
+-  say(`settings to export: ${named.join(", ")}`)
++  if (named.length > 0) say(`settings to export: ${named.join(", ")}`)
++  say(`rules to export: ${heldRules.length}`)
+ 
+   const automationValue = settingsByType[AUTOMATION_TYPE]
+   const automationSettings = isAutomationSettings(automationValue) ? automationValue : undefined
+ 
+   const inventoryValue = settingsByType[INVENTORY_TYPE]
+   const inventoryValues: InventoryValues =
+-    inventoryValue === undefined
++    inventoryValue === undefined && heldRules.length === 0
+       ? {}
+-      : await compileInventoryValues(userId, inventoryValue, automationSettings, say)
++      : await compileInventoryValues(userId, inventoryValue, heldRules, automationSettings, say)
+ 
+   const { currencyRates, crownReplacementCosts } = await seams.pricingTables(say)
+ 
+diff --git a/temper/temper-watcher/watcher-export-settings/watcher-export-settings.module.test.ts b/temper/temper-watcher/watcher-export-settings/watcher-export-settings.module.test.ts
+index efaa223a1391e4df26fbb55289843f3b27f45306..618de049f58ff87c83739a6be75ae30c2fa1c53f 100644
+--- a/temper/temper-watcher/watcher-export-settings/watcher-export-settings.module.test.ts
++++ b/temper/temper-watcher/watcher-export-settings/watcher-export-settings.module.test.ts
+@@ -1,4 +1,5 @@
+ import { expect, test } from "bun:test"
++import type { HeldRule } from "@akasha/temper-items-rules-core/inventory-rule-from-pages"
+ import {
+   type ExportSettingsSeams,
+   runExportSettings,
+@@ -86,7 +87,8 @@ interface Recorded {
+ 
+ function seamsFor(
+   settings: Record<string, unknown>,
+-  recorded: Recorded
++  recorded: Recorded,
++  rules: readonly HeldRule[] = []
+ ): { seams: ExportSettingsSeams } {
+   return {
+     seams: {
+@@ -95,6 +97,7 @@ function seamsFor(
+         return undefined
+       },
+       readPlayerSettings: async () => settings,
++      readPlayerRules: async () => rules,
+       pricingTables: async () => ({ currencyRates: {}, crownReplacementCosts: {} }),
+       writeSideFile: (path, content) => {
+         recorded.written.push({ path, content })
+@@ -241,3 +244,52 @@ test("an export with neither a named user nor a signed-in account is refused by
+     "no signed-in user to export these settings (token expired)"
+   )
+ })
++
++const A_RULE: HeldRule = {
++  page: {
++    slug: "rule-gold-stock",
++    categoryId: "currency-gold",
++    displayOrder: 0,
++    action: "stock",
++    active: true,
++    updatedAt: "2026-05-04T16:04:31.132Z",
++  },
++}
++
++test("the rules exported are the ones the player's rule pages carry", async () => {
++  const recorded = recorder()
++  const { seams } = seamsFor(SETTINGS_WITHOUT_INVENTORY, recorded, [A_RULE])
++  const result = await runExportSettings(BEFORE, NO_CLIENT, { userId: "alan" }, seams)
++  expect(result.content).toContain("currency-gold")
++})
++
++test("a rule page reaches the export although the player set no inventory blob", async () => {
++  const recorded = recorder()
++  const { seams } = seamsFor({}, recorded, [A_RULE])
++  const result = await runExportSettings(BEFORE, NO_CLIENT, { userId: "alan" }, seams)
++  expect(recorded.said).not.toContain("No settings to export.")
++  expect(result.content).toContain("currency-gold")
++})
++
++test("the rules the settings blob still holds are passed over for the rule pages", async () => {
++  const recorded = recorder()
++  const blobbed = {
++    ...SETTINGS_WITHOUT_INVENTORY,
++    inventory: {
++      version: 2,
++      rules: [
++        {
++          id: "blobbed",
++          categoryId: "currency-alliance-points",
++          action: "sell",
++          active: true,
++          displayOrder: 0,
++        },
++      ],
++    },
++  }
++  const { seams } = seamsFor(blobbed, recorded, [A_RULE])
++  const result = await runExportSettings(BEFORE, NO_CLIENT, { userId: "alan" }, seams)
++  expect(result.content).not.toContain("currency-alliance-points")
++  expect(result.content).toContain("currency-gold")
++})
