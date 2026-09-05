@@ -36,7 +36,7 @@ index 566093ea0af6a9d67dd8a6b24e368360a1e24dfb..296cc88df2a8bc83d598d06b8ee4d19d
 +  })
 +}
 diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
-index c70536b6a67282fc3d9e4bf031e92e4022f44e92..58bb2db8bae7e7090bf11acf7537bfc5af551c0f 100644
+index c70536b6a67282fc3d9e4bf031e92e4022f44e92..3e78bad0466df3c29026d08c0b07837917f1fd7c 100644
 --- a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 +++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 @@ -5,7 +5,9 @@ import type { Change } from "@akasha/pages-system/change"
@@ -129,3 +129,16 @@ index c70536b6a67282fc3d9e4bf031e92e4022f44e92..58bb2db8bae7e7090bf11acf7537bfc5
    expect(reached(change(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
      "akasha/deep/three.ts",
      "akasha/deep/two.ts",
+@@ -340,11 +351,7 @@ test("a file whole at base and deleted from the worktree alone still answers for
+ 
+ test("a diagnostic carried in a chain is one reason", async () => {
+   const root = staged({ "akasha/one.ts": "export const one = 1\n" })
+-  const said = await over(
+-    root,
+-    "akasha/one.ts",
+-    "type A = { a: number }\ntype B = { a: number; b: number }\nexport const one: B = { a: 1 } as A\n"
+-  )
++  const said = await over(root, "akasha/one.ts", CHAINED)
+   expect(said).toHaveLength(1)
+   expect(said[0]?.reason).toContain("missing")
+ })
