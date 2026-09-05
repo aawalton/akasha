@@ -63,3 +63,11 @@ index 89e9636bbbe87a84a0fc87fe228ee68f54c46ff9..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../alan/library/reading
 \ No newline at end of file
+diff --git a/alan/music/choosing/music-choosing b/alan/music/choosing/music-choosing
+deleted file mode 120000
+index 58574f14f86c0b28117c773035b4ed8f07ae3c8d..0000000000000000000000000000000000000000
+--- a/alan/music/choosing/music-choosing
++++ /dev/null
+@@ -1 +0,0 @@
+-../../alan/music/choosing
+\ No newline at end of file
