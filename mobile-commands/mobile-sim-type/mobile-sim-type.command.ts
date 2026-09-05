@@ -25,7 +25,7 @@ export const mobileSimType = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An element named is tapped before anything is typed into it.",
+      statement: "An element named is tapped before anything is typed into that element.",
     },
     {
       invariantKind: "departure",
