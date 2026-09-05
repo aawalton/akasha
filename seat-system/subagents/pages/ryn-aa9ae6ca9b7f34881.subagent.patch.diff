@@ -1,4 +1,17 @@
 runsWarrants: false
+diff --git a/seat-system/seat-stopping/seat-stopping.module.ts b/seat-system/seat-stopping/seat-stopping.module.ts
+index 4adb420c1f487c94175f76de41779575aeae47ef..bba789c46cad6aaa7451e071813f2486bba4f462 100644
+--- a/seat-system/seat-stopping/seat-stopping.module.ts
++++ b/seat-system/seat-stopping/seat-stopping.module.ts
+@@ -11,7 +11,7 @@ export const seatStopping = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What is signalled is every process carrying the agent's id rather than the page's supervisor alone.",
++        "Every process carrying the agent's id is signalled rather than the page's supervisor alone.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts b/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
 index df2147458831d542c5e160b7631f0a0d860dcebe..910f682ee48b2b6498cda7941614276606e78993 100644
 --- a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
