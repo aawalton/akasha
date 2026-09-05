@@ -11,6 +11,5 @@ export const tailnetEgress = {
   image: "tailscale/tailscale:v1.98.10",
   replicas: 1,
   containerPort: 1055,
-  manifestCode:
-    "service-system/cluster-services/pages/tailnet-egress/tailnet-egress.cluster-service.code.attachment.ts",
+  manifestSlug: "tailnet-egress",
 } as const satisfies ClusterService

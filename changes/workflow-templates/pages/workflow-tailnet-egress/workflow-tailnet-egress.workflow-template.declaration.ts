@@ -4,7 +4,7 @@ import { applyRbac } from "@akasha/workflow-language/rbac-apply"
 import { workflow } from "@akasha/workflow-language/workflow"
 
 const TAILNET_EGRESS_SYNTH =
-  "service-system/cluster-services/pages/tailnet-egress/tailnet-egress.cluster-service.code.attachment.ts"
+  "infrastructure/networks/tailnet-egress/tailnet-egress.manifest.code.ts"
 
 export default workflow("tailnet-egress", {
   kind: "foundation",
