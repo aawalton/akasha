@@ -13,7 +13,7 @@ export const fileKind = {
     },
     {
       invariantKind: "departure",
-      statement: "A whole basename is read before any extension of it is.",
+      statement: "A whole basename is read before any extension of that basename is.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +49,7 @@ export const fileKind = {
     },
     {
       invariantKind: "departure",
-      statement: "A systemd timer stands on the service it starts.",
+      statement: "A systemd timer stands on the service that timer starts.",
     },
     {
       invariantKind: "departure",
