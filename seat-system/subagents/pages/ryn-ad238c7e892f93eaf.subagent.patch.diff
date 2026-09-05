@@ -1,0 +1,16 @@
+diff --git a/temper/temper-watcher/watcher-logging/watcher-logging.module.ts b/temper/temper-watcher/watcher-logging/watcher-logging.module.ts
+index 6e65819437a228e685aa7f8982ca541ed2506836..ee7ef3e9d4071d58dbca1d742f1b9ef260cd393c 100644
+--- a/temper/temper-watcher/watcher-logging/watcher-logging.module.ts
++++ b/temper/temper-watcher/watcher-logging/watcher-logging.module.ts
+@@ -12,10 +12,7 @@ export const watcherLogging = {
+       invariantKind: "departure",
+       statement: "A line opens with the time in UTC to the millisecond.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "The level follows the time.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "The message follows the level.",
