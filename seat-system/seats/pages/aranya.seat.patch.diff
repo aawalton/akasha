@@ -383,3 +383,11 @@ index 9cbdd544f3a165747598deb854ee63f9e0a846e4..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../pages/access
 \ No newline at end of file
+diff --git a/pages/commands/page-commands b/pages/commands/page-commands
+deleted file mode 120000
+index 501ab221d7e8e38515c21f8572bd735e64b93ce2..0000000000000000000000000000000000000000
+--- a/pages/commands/page-commands
++++ /dev/null
+@@ -1 +0,0 @@
+-../../pages/commands
+\ No newline at end of file
