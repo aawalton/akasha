@@ -27,7 +27,7 @@ export const observationStore = {
     },
     {
       invariantKind: "departure",
-      statement: "A refused write leaves the last written state where it was.",
+      statement: "A refused write leaves the last written state where that state was.",
     },
     {
       invariantKind: "departure",
