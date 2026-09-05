@@ -1,5 +1,5 @@
 diff --git a/editor-extension/agent-forest-answer/agent-forest-answer.module.ts b/editor-extension/agent-forest-answer/agent-forest-answer.module.ts
-index f979bf441b477b35effdbfcebe8e99f974133195..6cdb83f0e9c0b110573f002cfdd7f02300da89cf 100644
+index f979bf441b477b35effdbfcebe8e99f974133195..e0b990cf4bcda12cdeaa25fc5712e34524cdaafc 100644
 --- a/editor-extension/agent-forest-answer/agent-forest-answer.module.ts
 +++ b/editor-extension/agent-forest-answer/agent-forest-answer.module.ts
 @@ -25,7 +25,7 @@ export const agentForestAnswer = {
@@ -8,6 +8,16 @@ index f979bf441b477b35effdbfcebe8e99f974133195..6cdb83f0e9c0b110573f002cfdd7f023
        invariantKind: "departure",
 -      statement: "A row's color is read from `color` or from `colour`, whichever it carries.",
 +      statement: "A row's color is read from `color` or from `colour`, whichever that row carries.",
+     },
+     {
+       invariantKind: "departure",
+@@ -37,7 +37,8 @@ export const agentForestAnswer = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A subagent page is keyed by the seat that ran it and the id it runs under.",
++      statement:
++        "A subagent page is keyed by the seat that ran that subagent and the id that subagent runs under.",
      },
      {
        invariantKind: "departure",
