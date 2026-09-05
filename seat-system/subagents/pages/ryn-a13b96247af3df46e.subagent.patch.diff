@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/queries/properties/narrow-comparison.text-property.ts b/pages/queries/properties/narrow-comparison.text-property.ts
+index 6c9fd23ee2a9cd3dd4886ff293ab56047a4d4890..f481444f19ef891e4bd6f05625353e8c1db6c6a6 100644
+--- a/pages/queries/properties/narrow-comparison.text-property.ts
++++ b/pages/queries/properties/narrow-comparison.text-property.ts
+@@ -26,7 +26,7 @@ export const narrowComparison = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A comparison taking many is given as many as it needs.",
++      statement: "A comparison taking many is given as many as that comparison needs.",
+     },
+   ],
+ } as const satisfies TextProperty
