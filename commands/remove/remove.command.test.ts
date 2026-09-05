@@ -11,26 +11,29 @@ import {
   BODY,
   DANGLING,
   DEEP,
+  deepWorld,
   emptyIn,
   fileIn,
+  GLASSED,
   GONE,
-  GONE_WAY,
   git,
   givenIn,
   HELD,
   head,
+  heldWorld,
   KEPT,
-  KEPT_WAY,
   linkIn,
   linkThere,
   looseIn,
   looseLinkIn,
   MANIFEST,
+  MANY_HELD,
   MOVED_MANIFEST,
   manifested,
   manifestIn,
   naming,
   OUTSIDE,
+  outsideWorld,
   PACKAGE_WITH_WAYS,
   PACKAGE_WITHOUT_GONE,
   REACHING,
@@ -41,9 +44,12 @@ import {
   removing,
   reportOf,
   repoWith,
+  SAYING,
   scratch,
+  sidecarWorld,
   WAYS_IN,
   WORKSPACE,
+  waysWorld,
 } from "./remove.command.test-fixtures.ts"
 import { remove as removeCommand } from "./remove.command.ts"
 
@@ -63,7 +69,7 @@ test("named paths are taken away and the removal is committed", async () => {
 })
 
 test("a path that is not there is already gone, and what does stand is still taken", async () => {
-  const root = repoWith({ [HELD]: BODY })
+  const root = heldWorld()
   const said = await removing(root, naming(HELD, GONE))
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
@@ -83,7 +89,7 @@ test("a removal forgets the reading of what went, for every agent holding one", 
 })
 
 test("naming a path already gone forgets its reading and commits nothing", async () => {
-  const root = repoWith({ [HELD]: BODY })
+  const root = heldWorld()
   const was = head(root)
   recordRead(root, AGENT, { path: GONE, oid: "one", seenAt: 1, mechanicalOid: null })
   const said = await removing(root, naming(GONE))
@@ -97,7 +103,7 @@ test("naming a path already gone forgets its reading and commits nothing", async
 })
 
 test("a link reaching nothing is taken away rather than answered as already gone", async () => {
-  const root = repoWith({ [HELD]: BODY })
+  const root = heldWorld()
   linkIn(root, DANGLING, "nowhere.txt")
   const said = await removing(root, naming(DANGLING))
   expect(said.refusals).toEqual([])
@@ -108,7 +114,7 @@ test("a link reaching nothing is taken away rather than answered as already gone
 })
 
 test("a link is taken away and the file that link reached is left as it is", async () => {
-  const root = repoWith({ [HELD]: BODY })
+  const root = heldWorld()
   linkIn(root, REACHING, "held.module.ts")
   const said = await removing(root, naming(REACHING))
   expect(said.refusals).toEqual([])
@@ -130,16 +136,8 @@ test("a link reaching nothing that git does not track is taken off the disk", as
   expect(head(root)).toBe(was)
 })
 
-test("a directory opens onto every tracked file under it", async () => {
-  const root = repoWith({ [HELD]: BODY, "akasha/one/deep/under.module.ts": BODY, [KEPT]: BODY })
-  const said = await removing(root, naming("akasha/one"))
-  expect(said.refusals).toEqual([])
-  expect(git(root, ["ls-files"]).trim()).toBe(KEPT)
-  expect(reportOf(said)).toContain("stood under a directory you named")
-})
-
 test("a directory holding only files git does not track is refused", async () => {
-  const root = repoWith({ [HELD]: BODY })
+  const root = heldWorld()
   looseIn(root, "akasha/loose")
   const said = await removing(root, naming("akasha/loose"))
   expect(said.code).toBe(1)
@@ -148,7 +146,7 @@ test("a directory holding only files git does not track is refused", async () =>
 })
 
 test("a directory holding nothing at all goes, and nothing is committed", async () => {
-  const root = repoWith({ [HELD]: BODY })
+  const root = heldWorld()
   const was = head(root)
   emptyIn(root, "akasha/empty/deeper")
   const said = await removing(root, naming("akasha/empty"))
@@ -160,7 +158,7 @@ test("a directory holding nothing at all goes, and nothing is committed", async 
 })
 
 test("a top folder holding nothing goes, and one inside `.git` never does", async () => {
-  const root = repoWith({ [HELD]: BODY })
+  const root = heldWorld()
   emptyIn(root, "husk")
   emptyIn(root, ".git/empty")
   expect((await removing(root, naming("husk"))).code).toBe(0)
@@ -172,12 +170,7 @@ test("a top folder holding nothing goes, and one inside `.git` never does", asyn
 })
 
 test("a page's sidecars go with it without being named", async () => {
-  const root = repoWith({
-    [HELD]: BODY,
-    [BESIDE]: BODY,
-    "akasha/one/held.module.test.ts": BODY,
-    "akasha/one/kept.module.ts": BODY,
-  })
+  const root = sidecarWorld()
   const said = await removing(root, naming(HELD))
   expect(said.refusals).toEqual([])
   expect(there(root, BESIDE)).toBe(false)
@@ -187,7 +180,7 @@ test("a page's sidecars go with it without being named", async () => {
 })
 
 test("a directory the removal leaves empty goes with it", async () => {
-  const root = repoWith({ [DEEP]: BODY, [KEPT]: BODY })
+  const root = deepWorld()
   const said = await removing(root, naming(DEEP))
   expect(said.refusals).toEqual([])
   expect(there(root, "akasha/one/deep")).toBe(false)
@@ -209,7 +202,7 @@ test("a refused removal leaves nothing behind, and takes none of the paths it co
 })
 
 test("a check refusing the removal leaves an empty directory it would have cleared", async () => {
-  const root = repoWith({ [HELD]: BODY })
+  const root = heldWorld()
   emptyIn(root, "akasha/empty")
   refusing(root)
   const said = await removing(root, naming(HELD, "akasha/empty"))
@@ -218,30 +211,19 @@ test("a check refusing the removal leaves an empty directory it would have clear
   expect(there(root, "akasha/empty")).toBe(true)
 })
 
-test("a check that refuses a deletion stops the removal, and nothing is taken away", async () => {
-  const root = repoWith({ [HELD]: BODY })
-  refusing(root)
-  const was = head(root)
-  const said = await removing(root, naming(HELD))
-  expect(said.code).toBe(3)
-  expect(refusalOf(said)).toContain("refused for the test")
-  expect(there(root, HELD)).toBe(true)
-  expect(head(root)).toBe(was)
-})
-
 test("a path named twice is refused", async () => {
-  const root = repoWith({ [HELD]: BODY })
+  const root = heldWorld()
   const twice = await removing(root, naming(HELD, HELD))
   expect(twice.code).toBe(1)
   expect(twice.refusals[0]).toContain("named more than once")
 })
 
 test("a directory named opens onto every file git holds under it", async () => {
-  const root = repoWith({ [OUTSIDE]: BODY, "temper/one/deep/under.ts": BODY, [HELD]: BODY })
+  const root = outsideWorld()
   expect((await removing(root, naming("temper/one"))).refusals).toEqual([])
   expect(git(root, ["ls-files"]).trim()).toBe(HELD)
   expect(there(root, "temper/one")).toBe(false)
-  expect(there(root, "temper")).toBe(true)
+  expect(there(root, "temper")).toBe(false)
 })
 
 test("a folder at the top of the repository is refused, and so is a path inside .git", async () => {
@@ -253,12 +235,7 @@ test("a folder at the top of the repository is refused, and so is a path inside 
 })
 
 test("a way into a package is dropped where the removal takes the file it lands on", async () => {
-  const root = repoWith({
-    [HELD]: BODY,
-    [WAYS_IN]: PACKAGE_WITH_WAYS,
-    [KEPT_WAY]: BODY,
-    [GONE_WAY]: BODY,
-  })
+  const root = waysWorld()
   const said = await removing(root, naming("temper/one/gone"))
   expect(said.refusals).toEqual([])
   expect(fileIn(root, WAYS_IN)).toBe(PACKAGE_WITHOUT_GONE)
@@ -266,19 +243,14 @@ test("a way into a package is dropped where the removal takes the file it lands 
 })
 
 test("a way into a package whose file the removal leaves keeps its place", async () => {
-  const root = repoWith({
-    [HELD]: BODY,
-    [WAYS_IN]: PACKAGE_WITH_WAYS,
-    [KEPT_WAY]: BODY,
-    [GONE_WAY]: BODY,
-  })
+  const root = waysWorld()
   const said = await removing(root, naming(HELD))
   expect(said.refusals).toEqual([])
   expect(fileIn(root, WAYS_IN)).toBe(PACKAGE_WITH_WAYS)
 })
 
 test("naming no path is refused rather than committed empty", async () => {
-  const root = repoWith({ [HELD]: BODY })
+  const root = heldWorld()
   const said = await removing(root, [])
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toBe("name at least one path to remove, as `--file-path <path>`")
@@ -301,18 +273,12 @@ test("a flag the removal does not take is refused rather than read as a path", (
 })
 
 test("a removal names everything that went, named or not, down to the emptied directory", async () => {
-  const held = {
-    [DEEP]: BODY,
-    "akasha/one/deep/held.module.code.ts": BODY,
-    "akasha/one/deep/under.module.ts": BODY,
-    [KEPT]: BODY,
-  }
-  const said = reportOf(await removing(repoWith(held), naming(DEEP)))
+  const said = reportOf(await removing(repoWith(MANY_HELD), naming(DEEP)))
   expect(said).toContain(`${DEEP} taken away`)
   expect(said).toContain("akasha/one/deep/held.module.code.ts taken away")
   expect(said).toContain("stood beside what you named and went with it")
   expect(said).not.toContain(KEPT)
-  const root = repoWith(held)
+  const root = repoWith(MANY_HELD)
   const also = reportOf(await removing(root, naming("akasha/one")))
   expect(also).toContain("stood under a directory you named and went with it")
   expect(also).toContain("akasha/one/deep/under.module.ts taken away")
@@ -321,22 +287,16 @@ test("a removal names everything that went, named or not, down to the emptied di
 })
 
 test("breaking the glass takes away what the checks refuse, and only breaking it does", async () => {
-  const root = repoWith({ [HELD]: BODY })
+  const root = heldWorld()
   refusing(root)
   const was = head(root)
-  const gated = await removing(root, [...naming(HELD), "--message", "held goes"])
+  const gated = await removing(root, SAYING)
   expect(gated.code).toBe(3)
   expect(refusalOf(gated)).toContain("refused for the test")
   expect(there(root, HELD)).toBe(true)
   expect(head(root)).toBe(was)
 
-  const said = await removing(root, [
-    ...naming(HELD),
-    "--message",
-    "held goes",
-    "--break-the-glass",
-    "  the check is wrong  ",
-  ])
+  const said = await removing(root, GLASSED)
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(reportOf(said)).toContain("no check ran — the glass was broken for: the check is wrong")
@@ -348,7 +308,7 @@ test("breaking the glass takes away what the checks refuse, and only breaking it
 })
 
 test("breaking the glass with no reason is refused", async () => {
-  const root = repoWith({ [HELD]: BODY })
+  const root = heldWorld()
   const ends = await removing(root, [...naming(HELD), "--break-the-glass"])
   expect(ends.code).toBe(1)
   expect(ends.refusals[0]).toBe("--break-the-glass needs a value, and the line ends")
@@ -361,7 +321,7 @@ test("breaking the glass with no reason is refused", async () => {
 })
 
 test("a directory left holding a file git does not track is kept, and the removal says so", async () => {
-  const root = repoWith({ [DEEP]: BODY, [KEPT]: BODY })
+  const root = deepWorld()
   const loose = "akasha/one/deep/unsaid.txt"
   put(root, loose, "work in progress\n")
   const said = await removing(root, naming(DEEP))
@@ -374,7 +334,7 @@ test("a directory left holding a file git does not track is kept, and the remova
 })
 
 test("a message is read from a file and trimmed, and stated twice over or empty is refused", async () => {
-  const root = repoWith({ [HELD]: BODY })
+  const root = heldWorld()
   const at = join(root, "message.txt")
   writeFileSync(at, "taken by a file\n")
   const both = await removing(root, [
@@ -410,7 +370,7 @@ test("the root manifest loses a row only where nothing else moved the manifest m
 })
 
 test("a path is read against the repository root, wherever the call was made", async () => {
-  const root = repoWith({ [HELD]: BODY })
+  const root = heldWorld()
   const said = await remove(naming(HELD), { ...givenIn(root), from: join(root, "akasha") })
   expect(said.refusals).toEqual([])
   const out = await removing(root, ["--file-path", "../elsewhere/held.ts"])
