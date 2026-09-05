@@ -35,7 +35,8 @@ export const supervisorLimitResumeEffects = {
     },
     {
       invariantKind: "departure",
-      statement: "A decide that throws is at fault, and the fault carries what that decide said.",
+      statement:
+        "A decide that throws is at fault, and the fault carries that decide's own message.",
     },
   ],
 } as const satisfies Module
