@@ -1,0 +1,275 @@
+diff --git a/pages/file-parts/page-file-parts.module.code.ts b/pages/file-parts/page-file-parts.module.code.ts
+index 8517e4278981b7d19c57bc21c13701eb3f2c0b76..762ba64693ca4daedd9dacea8a6a8b9337dcb695 100644
+--- a/pages/file-parts/page-file-parts.module.code.ts
++++ b/pages/file-parts/page-file-parts.module.code.ts
+@@ -26,18 +26,34 @@ export function uncommittedPartAt(
+   return uncommittedBesideAt(path, sectionFor(propertySlug, part), held)
+ }
+ 
+-export function partsOf(
+-  path: string,
+-  propertySlug: string,
+-  held: string,
++function walking(
++  naming: (part: number) => string | null,
+   standing: (at: string) => boolean
+ ): readonly string[] {
+   const found: string[] = []
+   for (let part = FIRST_PART; ; part += 1) {
+-    const at = partAt(path, propertySlug, held, part)
++    const at = naming(part)
+     if (at === null) break
+     if (part > FIRST_PART && !standing(at)) break
+     found.push(at)
+   }
+   return found
+ }
++
++export function partsOf(
++  path: string,
++  propertySlug: string,
++  held: string,
++  standing: (at: string) => boolean
++): readonly string[] {
++  return walking((part) => partAt(path, propertySlug, held, part), standing)
++}
++
++export function uncommittedPartsOf(
++  path: string,
++  propertySlug: string,
++  held: string,
++  standing: (at: string) => boolean
++): readonly string[] {
++  return walking((part) => uncommittedPartAt(path, propertySlug, held, part), standing)
++}
+diff --git a/pages/file-parts/page-file-parts.module.ts b/pages/file-parts/page-file-parts.module.ts
+index 8f97d32ea358f91f871fb96ba5e5971f1b091c06..bf31f8736da4af0c4f2ac031264f3f5e3158eb8b 100644
+--- a/pages/file-parts/page-file-parts.module.ts
++++ b/pages/file-parts/page-file-parts.module.ts
+@@ -32,6 +32,10 @@ export const pageFileParts = {
+       invariantKind: "departure",
+       statement: "The files of one property are named in order from the first.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The files of a property held uncommitted are named in that same order.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "Naming stops at the first file that is not there.",
+diff --git a/pages/indexes/index-entries/index-entries.module.code.ts b/pages/indexes/index-entries/index-entries.module.code.ts
+index 804561e605d4b1455f866078d819590315a0ae6b..3a2d085c37018e73c1faabd1bb94fc32329916a7 100644
+--- a/pages/indexes/index-entries/index-entries.module.code.ts
++++ b/pages/indexes/index-entries/index-entries.module.code.ts
+@@ -1,7 +1,7 @@
+ import { dirname, isAbsolute, join, relative } from "node:path"
+ import { exportedAs } from "@akasha/pages-system/page-export-name"
+ import { besideAt, secretAt, uncommittedAt } from "@akasha/pages-system/page-file-name"
+-import { partsOf } from "@akasha/pages-system/page-file-parts"
++import { partsOf, uncommittedPartsOf } from "@akasha/pages-system/page-file-parts"
+ import { slugFor } from "@akasha/pages-system/page-property-key"
+ import { slugAt, slugsIn, textAt, type Value } from "@akasha/pages-system/page-value"
+ import { indexIdentity } from "../index/identity/index-identity.index.ts"
+@@ -93,10 +93,15 @@ export function pathsOf(
+   return found
+ }
+ 
++export type Beside = {
++  readonly held: string
++  readonly uncommitted: boolean
++}
++
+ export type Sidecars = {
+   readonly secret: boolean
+   readonly uncommitted: boolean
+-  readonly besides: ReadonlyMap<string, string>
++  readonly besides: ReadonlyMap<string, Beside>
+ }
+ 
+ export type SidecarsBy = ReadonlyMap<string, Sidecars>
+@@ -114,17 +119,20 @@ const FALLBACK = "default"
+ function declaredIn(value: Value): Sidecars {
+   let secret = false
+   let uncommitted = false
+-  const found = new Map<string, string>()
++  const found = new Map<string, Beside>()
+   const declared = value[DECLARED]
+   if (!Array.isArray(declared)) return { secret, uncommitted, besides: found }
+   for (const one of declared) {
+     if (one === null || typeof one !== "object" || Array.isArray(one)) continue
+     const held = one as Record<string, unknown>
++    const withheld = held["uncommitted"] === true
+     if (held["secret"] === true) secret = true
+-    if (held["uncommitted"] === true) uncommitted = true
++    if (withheld) uncommitted = true
+     const slug = held[DECLARES]
+     const fallback = held[FALLBACK]
+-    if (typeof slug === "string" && typeof fallback === "string") found.set(slug, fallback)
++    if (typeof slug === "string" && typeof fallback === "string") {
++      found.set(slug, { held: fallback, uncommitted: withheld })
++    }
+   }
+   return { secret, uncommitted, besides: found }
+ }
+@@ -144,7 +152,7 @@ export function sidecarsIn(values: Iterable<Value>): SidecarsBy {
+   for (const slug of own.keys()) {
+     let secret = false
+     let uncommitted = false
+-    const beside = new Map<string, string>()
++    const beside = new Map<string, Beside>()
+     const walked = new Set<string>()
+     const waiting: string[] = [slug]
+     for (let at = 0; at < waiting.length; at += 1) {
+@@ -169,6 +177,12 @@ export function sidecarsOver(given: string | Reading, left: Iterable<Value>): Si
+   return sidecarsIn([...filed, ...left])
+ }
+ 
++function besidesOf(own: string, slug: string, beside: Beside, there: IsThere): readonly string[] {
++  if (beside.uncommitted) return uncommittedPartsOf(own, slug, beside.held, there)
++  const at = besideAt(own, slug, beside.held)
++  return at === null ? [] : [at]
++}
++
+ export function claimsOf(
+   value: Value,
+   path: string,
+@@ -191,10 +205,11 @@ export function claimsOf(
+     const beside = uncommittedAt(own)
+     if (beside !== null) found.push(beside)
+   }
+-  for (const [slug, fallback] of held.besides) {
++  for (const [slug, beside] of held.besides) {
+     if (carried?.get(slug) !== null) continue
+-    const beside = besideAt(own, slug, fallback)
+-    if (beside !== null && !found.includes(beside)) found.push(beside)
++    for (const at of besidesOf(own, slug, beside, there)) {
++      if (!found.includes(at)) found.push(at)
++    }
+   }
+   return found
+ }
+diff --git a/pages/indexes/index-entries/index-entries.module.test.ts b/pages/indexes/index-entries/index-entries.module.test.ts
+index b767894dbae68359c3c30443222933a64f3294af..ebc9c911d38dd01be142d697044a9c5d8d81dd75 100644
+--- a/pages/indexes/index-entries/index-entries.module.test.ts
++++ b/pages/indexes/index-entries/index-entries.module.test.ts
+@@ -367,7 +367,9 @@ test("the files beside a page are read from every page type above it", () => {
+ 
+   expect(said?.secret).toBe(true)
+   expect(said?.uncommitted).toBe(true)
+-  expect([...(said?.besides ?? [])]).toEqual([["patch", "two-default"]])
++  expect([...(said?.besides ?? [])]).toEqual([
++    ["patch", { held: "two-default", uncommitted: false }],
++  ])
+ })
+ 
+ const LINES = { pagePropertySlug: "lines", uncommitted: true, default: "jsonl" }
+diff --git a/pages/indexes/index-entries/index-entries.module.ts b/pages/indexes/index-entries/index-entries.module.ts
+index 9488c63729ec5673f0641914bce5c1f8a2405b6e..4d309f5f8af80326f0907592d1380fd9823cda42 100644
+--- a/pages/indexes/index-entries/index-entries.module.ts
++++ b/pages/indexes/index-entries/index-entries.module.ts
+@@ -45,6 +45,21 @@ export const indexEntries = {
+       invariantKind: "departure",
+       statement: "That file is held under the extension its declaration states as a default.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "A file property declared uncommitted is claimed under the name an uncommitted file carries.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A file property declared with a default alone is claimed under the name a committed file carries.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The numbered files of an uncommitted property are claimed as those of one the page states are.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A property whose file is named outright is claimed once rather than twice.",
+diff --git a/pages/indexes/index/path/index-path.index.test.ts b/pages/indexes/index/path/index-path.index.test.ts
+index 2826d1c1e70f0a3b95d9f22c6aca1c4e275059db..d6ba029790b9849aeb7999dbf6440a7b6de17a6c 100644
+--- a/pages/indexes/index/path/index-path.index.test.ts
++++ b/pages/indexes/index/path/index-path.index.test.ts
+@@ -1,9 +1,13 @@
+ import { expect, test } from "bun:test"
+-import type { FilePropertiesBy, SidecarsBy } from "../../index-entries/index-entries.module.code.ts"
++import type {
++  Beside,
++  FilePropertiesBy,
++  SidecarsBy,
++} from "../../index-entries/index-entries.module.code.ts"
+ import { A } from "../../index-entries/index-entries.module.test-fixtures.ts"
+ import { pathIn } from "./index-path.index.code.ts"
+ 
+-const BESIDES: ReadonlyMap<string, string> = new Map()
++const BESIDES: ReadonlyMap<string, Beside> = new Map()
+ 
+ const NO_FILES: FilePropertiesBy = new Map()
+ 
+@@ -50,7 +54,14 @@ test("a page whose type declares a file property with a default claims that file
+   const value = { id: A, pageTypeSlug: "domain", slug: "a" }
+   const line = `{"path":"a.domain.ts","id":"${A}"}`
+   const drafting: SidecarsBy = new Map([
+-    ["domain", { secret: false, uncommitted: true, besides: new Map([["patch", "diff"]]) }],
++    [
++      "domain",
++      {
++        secret: false,
++        uncommitted: true,
++        besides: new Map([["patch", { held: "diff", uncommitted: false }]]),
++      },
++    ],
+   ])
+   const filed: FilePropertiesBy = new Map([["domain", new Map([["patch", null]])]])
+ 
+@@ -65,7 +76,14 @@ test("a page stating the property its type defaults claims that file once", () =
+   const value = { id: A, pageTypeSlug: "domain", slug: "a", patch: "diff" }
+   const line = `{"path":"a.domain.ts","id":"${A}"}`
+   const drafting: SidecarsBy = new Map([
+-    ["domain", { secret: false, uncommitted: false, besides: new Map([["patch", "diff"]]) }],
++    [
++      "domain",
++      {
++        secret: false,
++        uncommitted: false,
++        besides: new Map([["patch", { held: "diff", uncommitted: false }]]),
++      },
++    ],
+   ])
+   const filed: FilePropertiesBy = new Map([["domain", new Map([["patch", null]])]])
+ 
+@@ -79,7 +97,14 @@ test("an uncommitted value held in no file claims no file beside the page", () =
+   const value = { id: A, pageTypeSlug: "domain", slug: "a" }
+   const line = `{"path":"a.domain.ts","id":"${A}"}`
+   const held: SidecarsBy = new Map([
+-    ["domain", { secret: false, uncommitted: true, besides: new Map([["model", "ts"]]) }],
++    [
++      "domain",
++      {
++        secret: false,
++        uncommitted: true,
++        besides: new Map([["model", { held: "ts", uncommitted: false }]]),
++      },
++    ],
+   ])
+ 
+   expect(pathIn(value, "/repo/a.domain.ts", "/repo", NO_FILES, held)).toEqual([
+@@ -92,7 +117,14 @@ test("a property naming its file outright claims no uncommitted file beside it",
+   const value = { id: A, pageTypeSlug: "domain", slug: "a" }
+   const line = `{"path":"a.domain.ts","id":"${A}"}`
+   const held: SidecarsBy = new Map([
+-    ["domain", { secret: false, uncommitted: false, besides: new Map([["manifest", "json"]]) }],
++    [
++      "domain",
++      {
++        secret: false,
++        uncommitted: false,
++        besides: new Map([["manifest", { held: "json", uncommitted: false }]]),
++      },
++    ],
+   ])
+   const filed: FilePropertiesBy = new Map([["domain", new Map([["manifest", "package.json"]])]])
+ 
