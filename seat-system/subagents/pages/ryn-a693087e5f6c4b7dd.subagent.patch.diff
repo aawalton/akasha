@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/refusals/refusal.page-type.ts b/checks/refusals/refusal.page-type.ts
+index 31ee33f275a7f603056d2c4d286b2c32963644dc..8842678f4d1ccf60c3e2e2bce805f2902053f53a 100644
+--- a/checks/refusals/refusal.page-type.ts
++++ b/checks/refusals/refusal.page-type.ts
+@@ -32,7 +32,7 @@ export const refusal = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A hole marked in the text is filled by whoever prints the refusal.",
++      statement: "A hole marked in the text is filled by the instrument printing the refusal.",
+     },
+     {
+       invariantKind: "departure",
