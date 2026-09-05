@@ -47,6 +47,27 @@ index 256d8c5ced5fd94f5a01d848de4ff69e4b31dc24..a0bd57638e109e31f656c98b2027f956
      position: chapter.position,
      ownLength: countChapterWords(chapter.text),
      unitSlug: WORDS,
+diff --git a/story/wandering-inn/chapter-filing/chapter-filing.module.ts b/story/wandering-inn/chapter-filing/chapter-filing.module.ts
+index 0095abe328092e23166b12407841bd6d43fea185..51b1a29bec00915f36105c6298e2a2ed87cc72e9 100644
+--- a/story/wandering-inn/chapter-filing/chapter-filing.module.ts
++++ b/story/wandering-inn/chapter-filing/chapter-filing.module.ts
+@@ -15,6 +15,16 @@ export const chapterFiling = {
+       invariantKind: "departure",
+       statement: "Exactly one page sits at the story's slug.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "A chapter is filed under the story's qualified address rather than the story's slug alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The chapters already filed are looked for under the address they were filed under.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A chapter already filed is known by the link it was filed under.",
 diff --git a/story/wandering-inn/chapter/chapter.module.code.ts b/story/wandering-inn/chapter/chapter.module.code.ts
 index ad93d42b8aedb1a671d1a727a2a104a9d51799ab..15a9157487b7c55e7b76d30e740bdc694fe7a673 100644
 --- a/story/wandering-inn/chapter/chapter.module.code.ts
