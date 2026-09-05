@@ -1,3 +1,164 @@
+diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
+index 2b0e21ab7f6302ee0d6480d638963c29b0f8b998..97ebad6c29acfeaf9ed614c5fb7e832a66a8466a 100644
+--- a/command-system/asking/asking.module.code.ts
++++ b/command-system/asking/asking.module.code.ts
+@@ -1,4 +1,4 @@
+-import { existsSync, readFileSync } from "node:fs"
++import { readFileSync } from "node:fs"
+ import { join } from "node:path"
+ import { patchAt } from "@akasha/agents/patch-keeping"
+ import type { Judged, Judging } from "@akasha/checks/judging"
+@@ -6,7 +6,6 @@ import { formattedBody } from "@akasha/code-system/code-format"
+ import { agentPathOf } from "@akasha/context-system/warranting"
+ import { nameFaultIn } from "@akasha/pages-system/page-export-name"
+ import { isMissing } from "@akasha/utils-fs/missing"
+-import { applied } from "../applying/applying.module.code.ts"
+ import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
+ import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
+ import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
+@@ -60,7 +59,6 @@ export type Asked = {
+   readonly read?: string | null
+   readonly carries?: readonly FileCarry[]
+   readonly draft?: boolean
+-  readonly applies?: boolean
+ }
+ 
+ export type Trouble = {
+@@ -208,11 +206,20 @@ export function bypassedIn(message: string, reason: string): string {
+   return `${message}\n\nChecks-bypassed: ${reason}`
+ }
+ 
++export function noCheckSaid(slug: string): string {
++  return `a \`${slug}\` change ${NO_CHECKS}`
++}
++
++export function mechanicallyIn(given: Given): boolean {
++  const kind = given.changeKind
++  return kind !== undefined && !kind.runsChecks
++}
++
+ function bypassIn(given: Given, asked: Asked): Bypass | null {
+   if (asked.glass !== null) return { reason: asked.glass, said: glassSaid(asked.glass) }
+   const kind = given.changeKind
+   if (kind === undefined || kind.runsChecks) return null
+-  const said = `a \`${kind.slug}\` change ${NO_CHECKS}`
++  const said = noCheckSaid(kind.slug)
+   return { reason: said, said }
+ }
+ 
+@@ -264,45 +271,6 @@ async function reporting(
+   }
+ }
+ 
+-function pageFor(given: Given): string | null {
+-  return given.agentId === null ? null : agentPathOf(given.root, given.agentId)
+-}
+-
+-async function appliedThrough(
+-  given: Given,
+-  asked: Asked,
+-  gate: Judging,
+-  message: string,
+-  asRead: readonly Reading[],
+-  page: string
+-): Promise<Landed | Refused> {
+-  const draft = await landing(
+-    given.root,
+-    asked.changes,
+-    message,
+-    gate,
+-    given.writer,
+-    asked.read ?? null,
+-    asRead,
+-    asked.carries ?? [],
+-    { page }
+-  )
+-  if ("refusals" in draft) return draft
+-  const nothing = { base: draft.base, commit: null, wrote: [], took: [], noted: [], cleared: [] }
+-  if (draft.patch === null) return nothing
+-  const done = await applied(given.root, page, given.agentId, message, gate, given.writer)
+-  if ("refusals" in done) return done
+-  const there = (one: string): boolean => existsSync(join(given.root, one))
+-  return {
+-    base: done.base,
+-    commit: done.commit,
+-    wrote: done.landed.filter(there),
+-    took: done.landed.filter((one) => !there(one)),
+-    noted: [],
+-    cleared: [],
+-  }
+-}
+-
+ async function draftingAsked(
+   given: Given,
+   asked: Asked,
+@@ -311,7 +279,7 @@ async function draftingAsked(
+   asRead: readonly Reading[],
+   aside: readonly string[]
+ ): Promise<Answer> {
+-  const page = pageFor(given)
++  const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
+   if (page === null) {
+     return mistaking([
+       "a patch is kept beside the page of the agent drafting it, and this call names no such page",
+@@ -328,7 +296,7 @@ async function draftingAsked(
+       asked.read ?? null,
+       asRead,
+       asked.carries ?? [],
+-      { page }
++      { page, mechanical: mechanicallyIn(given) }
+     )
+   } catch (thrown) {
+     return { report: [], refusals: [`nothing was drafted — ${whyOf(thrown)}`], code: 3 }
+@@ -372,22 +340,18 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer>
+   const message = messageWith(held, bypass, broken)
+   const asRead = asReadIn(given, formatting.changes)
+   if (held.draft === true) return await draftingAsked(given, held, gate, message, asRead, aside)
+-  const page = held.applies === true ? pageFor(given) : null
+   let said: Landed | Refused
+   try {
+-    said =
+-      page === null
+-        ? await landing(
+-            given.root,
+-            held.changes,
+-            message,
+-            gate,
+-            given.writer,
+-            held.read ?? null,
+-            asRead,
+-            held.carries ?? []
+-          )
+-        : await appliedThrough(given, held, gate, message, asRead, page)
++    said = await landing(
++      given.root,
++      held.changes,
++      message,
++      gate,
++      given.writer,
++      held.read ?? null,
++      asRead,
++      held.carries ?? []
++    )
+   } catch (thrown) {
+     return {
+       report: [],
+@@ -429,6 +393,14 @@ export async function landedMechanically(
+ ): Promise<Answer> {
+   return await landingAsked(
+     { root, calledAs, from: root, writer: null, agentId, changeKind: MECHANICAL },
+-    { changes, message, dryRun: false, glass: null, unmoved, saying: wroteAndTook, applies: true }
++    {
++      changes,
++      message,
++      dryRun: false,
++      glass: null,
++      unmoved,
++      saying: wroteAndTook,
++      draft: agentId !== null,
++    }
+   )
+ }
 diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
 index 4de99c8c11a3867fd5c449e24aa480d6d3403413..0a47a917ce5546869dd5738e74380a3d285cf24e 100644
 --- a/command-system/drafting/drafting.module.code.ts
