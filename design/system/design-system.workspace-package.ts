@@ -57,7 +57,7 @@ export const designSystem = {
     },
     {
       invariantKind: "absence",
-      statement: "No component takes a prop letting its caller space it.",
+      statement: "No component takes a prop letting its caller space that component.",
     },
     {
       invariantKind: "departure",
