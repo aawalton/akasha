@@ -42,7 +42,7 @@ export const workTreeColors = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what a color is drawn as.",
+      statement: "Nothing here knows the look a color is drawn as.",
     },
   ],
 } as const satisfies Module
