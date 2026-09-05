@@ -10,7 +10,8 @@ export const rbacProfiles = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A profile source is found by where it is rather than by anything importing it.",
+      statement:
+        "A profile source is found by where that source is rather than by anything importing that source.",
     },
     {
       invariantKind: "departure",
