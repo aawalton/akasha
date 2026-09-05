@@ -1,0 +1,16 @@
+diff --git a/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts b/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
+index efc50a95dce4361bb8635aba572e719a2fc31dc1..eb4a27fc65bb17705c20e6976609acb1248b0e89 100644
+--- a/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
++++ b/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
+@@ -51,8 +51,9 @@ export const renamePropertySignature = {
+       statement: "A class member implementing the renamed property is not respelled.",
+     },
+     {
+-      invariantKind: "gap",
+-      statement: "A file reaching the type through a re-export is out of reach.",
++      invariantKind: "constraint",
++      statement:
++        "A body reaching the type through a re-export is out of reach, and `no-re-export` bars one.",
+     },
+   ],
+ } as const satisfies AtomicChange
