@@ -1,4 +1,5 @@
 import { dirname, join, relative } from "node:path"
+import { machineWrittenAt } from "@akasha/indexes/property-carrying"
 import { counted } from "../../../command-system/asking/asking.module.code.ts"
 import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
 import type { Placed } from "../../../command-system/outside-naming/outside-naming.module.code.ts"
@@ -100,6 +101,7 @@ export function outsideIn(
   const changes: FileEdit[] = []
   const carries: Carry[] = []
   for (const one of found.respelt) {
+    if (machineWrittenAt(root, one.path)) continue
     paths.push(one.path)
     if (reachesIn(one.path, one.was, moved).length > 0) reaching.push(one.path)
     carries.push({ was: one.path, now: one.path, from: blobIdOf(one.held) })

@@ -11,6 +11,7 @@ import {
   type Carried,
   carryingOf,
   heldBeside,
+  machineWrote,
   type Naming,
 } from "./property-carrying.module.code.ts"
 
@@ -203,6 +204,18 @@ function carryingAt(at: string): (named: string) => Carried {
 function refusing(): Carried {
   return { refused: "no page property carries that slug" }
 }
+
+test("a property saying a machine writes its file says so of its value", () => {
+  expect(machineWrote({ machineWritten: true })).toBe(true)
+})
+
+test("a property saying nothing of a machine says nothing of its value", () => {
+  expect(machineWrote({ fileName: "bun.lock" })).toBe(false)
+})
+
+test("a property saying an author writes its file says nothing of its value", () => {
+  expect(machineWrote({ machineWritten: false })).toBe(false)
+})
 
 test("a file is beside a property naming it where a page carrying it sits in the file's folder", () => {
   expect(heldBeside("bun.lock", [NAMING], saidTrue, carryingAt(OWNER))).toBe(true)

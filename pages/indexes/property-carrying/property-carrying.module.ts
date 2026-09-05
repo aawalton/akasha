@@ -78,6 +78,15 @@ export const propertyCarrying = {
       statement: "Which properties naming a file are meant is the caller's to say.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "Whether a machine writes the file at a path is answered here rather than by each caller.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An index that cannot answer that is a file no machine writes.",
+    },
+    {
       invariantKind: "absence",
       statement: "No page body is read.",
     },

@@ -25,14 +25,6 @@ export const fileItself = {
     },
     {
       invariantKind: "departure",
-      statement: "Which files a machine writes is read from the properties naming those files.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A property reaches the folder of a page carrying that property.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A file of that name in another folder warrants itself.",
     },
     {

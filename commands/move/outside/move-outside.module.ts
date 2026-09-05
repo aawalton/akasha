@@ -67,12 +67,16 @@ export const moveOutside = {
       statement: "A body no rewriting changed is left out of the change.",
     },
     {
+      invariantKind: "absence",
+      statement: "A file a machine writes is left out of the change.",
+    },
+    {
       invariantKind: "departure",
       statement: "The files that reached in by a relative path are named apart from the rest.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here reads the index.",
+      invariantKind: "constraint",
+      statement: "The index is asked which files a machine writes and nothing else.",
     },
     {
       invariantKind: "absence",

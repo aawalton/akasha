@@ -41,6 +41,7 @@ export const move = {
     "a file git is told to ignore goes as a sidecar rather than as folder contents.",
     "the files naming what moves are repointed in the same commit.",
     "any tracked file spelling a path that moves is repointed with it, once and only once.",
+    "a file a machine writes is left alone, since whoever lands the change makes that file again.",
     "an agent settings document a live seat watches is rewritten once the move has landed.",
     "one that would not take the rewrite is named, and the move lands rather than refusing.",
     "one reaching in by a relative path is repointed where that path resolves to what moves.",
@@ -255,6 +256,10 @@ export const move = {
     {
       invariantKind: "departure",
       statement: "A tracked file spelling a path that moves is repointed in the same commit.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A file a machine writes is left out of that repointing.",
     },
     {
       invariantKind: "departure",

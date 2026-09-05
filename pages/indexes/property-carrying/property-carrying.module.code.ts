@@ -8,6 +8,7 @@ import {
   listedById,
   readingIn,
   schemaOf,
+  valuesOfType,
 } from "../reading/index-reading.module.code.ts"
 import type { Reading } from "../shape/index-shape.module.code.ts"
 
@@ -20,6 +21,10 @@ const PAGE_TYPE = "page-type"
 const RECORD_PROPERTY = "record-property"
 
 const FILE_NAME = "fileName"
+
+const NAMED_FILE_PROPERTY = "named-file-property"
+
+const MACHINE_WRITTEN = "machineWritten"
 
 export type Carrying = {
   readonly pageTypeSlug: string
@@ -136,4 +141,18 @@ export function heldBeside(
     if (held.carrying.some((two) => dirname(two.path) === folder)) return true
   }
   return false
+}
+
+export function machineWrote(value: Value): boolean {
+  return value[MACHINE_WRITTEN] === true
+}
+
+export function machineWrittenAt(given: string | Reading, path: string): boolean {
+  try {
+    return heldBeside(path, valuesOfType(given, NAMED_FILE_PROPERTY), machineWrote, (named) =>
+      carryingOf(given, named)
+    )
+  } catch {
+    return false
+  }
 }

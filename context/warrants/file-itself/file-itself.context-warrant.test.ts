@@ -3,6 +3,7 @@ import { mkdirSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { writing } from "@akasha/command-system/scratching/testing"
+import { machineWrittenAt } from "@akasha/indexes/property-carrying"
 import {
   idFiled,
   listedFiled,
@@ -11,12 +12,7 @@ import {
   valueAlsoFiled,
 } from "@akasha/indexes/testing"
 import type { Value } from "@akasha/pages-system/page-value"
-import {
-  fileItself,
-  ITSELF,
-  machineWrote,
-  writtenBeside,
-} from "./file-itself.context-warrant.code.ts"
+import { fileItself, ITSELF } from "./file-itself.context-warrant.code.ts"
 
 const scratch = scratchWorld()
 
@@ -106,27 +102,15 @@ test("a warrant carries why the reading is owed", () => {
   expect(fileItself(root, PATH)[0]?.owed).toBe(ITSELF)
 })
 
-test("a property saying a machine writes its file says so of its value", () => {
-  expect(machineWrote({ machineWritten: true })).toBe(true)
-})
-
-test("a property saying nothing of a machine says nothing of its value", () => {
-  expect(machineWrote({ fileName: LOCKFILE })).toBe(false)
-})
-
-test("a property saying an author writes its file says nothing of its value", () => {
-  expect(machineWrote({ machineWritten: false })).toBe(false)
-})
-
 test("a file a machine writes, beside the page owning the property, warrants nothing", () => {
   const root = written()
-  expect(writtenBeside(root, LOCKFILE)).toBe(true)
+  expect(machineWrittenAt(root, LOCKFILE)).toBe(true)
   expect(fileItself(root, LOCKFILE)).toEqual([])
 })
 
 test("a file of the same name in another folder warrants itself", () => {
   const root = written()
-  expect(writtenBeside(root, ELSEWHERE)).toBe(false)
+  expect(machineWrittenAt(root, ELSEWHERE)).toBe(false)
   expect(fileItself(root, ELSEWHERE)).toEqual([
     { path: ELSEWHERE, oid: writing(root, ELSEWHERE, "one\n"), owed: ITSELF },
   ])
@@ -134,31 +118,31 @@ test("a file of the same name in another folder warrants itself", () => {
 
 test("a file beside the owning page that no property names warrants itself", () => {
   const root = written()
-  expect(writtenBeside(root, "package.json")).toBe(false)
+  expect(machineWrittenAt(root, "package.json")).toBe(false)
   expect(fileItself(root, "package.json")).toHaveLength(1)
 })
 
 test("a property saying nothing of a machine leaves the file it names warranting itself", () => {
   const root = seeded({ fileName: LOCKFILE })
-  expect(writtenBeside(root, LOCKFILE)).toBe(false)
+  expect(machineWrittenAt(root, LOCKFILE)).toBe(false)
   expect(fileItself(root, LOCKFILE)).toHaveLength(1)
 })
 
 test("a property saying an author writes it leaves the file it names warranting itself", () => {
   const root = seeded({ fileName: LOCKFILE, machineWritten: false })
-  expect(writtenBeside(root, LOCKFILE)).toBe(false)
+  expect(machineWrittenAt(root, LOCKFILE)).toBe(false)
   expect(fileItself(root, LOCKFILE)).toHaveLength(1)
 })
 
 test("a property naming no file leaves every file warranting itself", () => {
   const root = seeded({ machineWritten: true })
-  expect(writtenBeside(root, LOCKFILE)).toBe(false)
+  expect(machineWrittenAt(root, LOCKFILE)).toBe(false)
   expect(fileItself(root, LOCKFILE)).toHaveLength(1)
 })
 
 test("where the index cannot answer, no file is beside the property naming it", () => {
   const root = scratch.rootFor("akasha-file-itself-")
-  expect(writtenBeside(root, LOCKFILE)).toBe(false)
+  expect(machineWrittenAt(root, LOCKFILE)).toBe(false)
 })
 
 test("where the index cannot answer, a file still warrants itself", () => {
