@@ -1,14 +1,19 @@
 runsWarrants: false
 diff --git a/checks/checks.workspace-package.ts b/checks/checks.workspace-package.ts
-index 75cc4baf82fab4582022f3c3cc2f41fe1508b711..e9ef2a891c576639aed3892dcc980b1adf57c37f 100644
+index 75cc4baf82fab4582022f3c3cc2f41fe1508b711..791de231ecbf62bb5cd0b40f1d12f8dc5a648ce3 100644
 --- a/checks/checks.workspace-package.ts
 +++ b/checks/checks.workspace-package.ts
-@@ -50,7 +50,7 @@ export const checks = {
+@@ -50,11 +50,11 @@ export const checks = {
      },
      {
        invariantKind: "departure",
 -      statement: "The other phases judge only what changed.",
 +      statement: "The other phases judge only the changed pages.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A check's answer is undone by a change to what the check runs on.",
++      statement: "A check's answer is undone by a change to the input the check runs on.",
      },
      {
        invariantKind: "departure",
