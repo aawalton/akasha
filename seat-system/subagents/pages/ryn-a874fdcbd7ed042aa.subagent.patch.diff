@@ -1,5 +1,5 @@
 diff --git a/editor-extension/work-tree-reading/work-tree-reading.module.ts b/editor-extension/work-tree-reading/work-tree-reading.module.ts
-index 180d32731fe0b350b3990727c94470508b40bcee..2024558ee7d087ad6596fd9cef7fe9f052d6d88b 100644
+index 180d32731fe0b350b3990727c94470508b40bcee..f6ad8fe9018975ded0cd9c175c993f358f62f151 100644
 --- a/editor-extension/work-tree-reading/work-tree-reading.module.ts
 +++ b/editor-extension/work-tree-reading/work-tree-reading.module.ts
 @@ -14,7 +14,8 @@ export const workTreeReading = {
@@ -9,6 +9,16 @@ index 180d32731fe0b350b3990727c94470508b40bcee..2024558ee7d087ad6596fd9cef7fe9f0
 -      statement: "The colors are asked apart from the tree, since reading them opens no page.",
 +      statement:
 +        "The colors are asked apart from the tree, since reading those colors opens no page.",
+     },
+     {
+       invariantKind: "constraint",
+@@ -22,7 +23,8 @@ export const workTreeReading = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "An answer naming no checkout is refused, since no path could be joined to it.",
++      statement:
++        "An answer naming no checkout is refused, since no path could be joined to that checkout.",
      },
      {
        invariantKind: "constraint",
