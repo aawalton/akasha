@@ -34,7 +34,7 @@ index b70c5d5cd3f66e5b7d2d1ec9c7cfd5796fb123d0..be74b6cf23d5992e4331dcc437ea3819
      {
        invariantKind: "departure",
 diff --git a/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.test.ts b/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.test.ts
-index da0d3c540edeb0f75e1774e6b36d62390d112bc0..2a63fde40907c75e4dba204bbe627d877e41a92a 100644
+index da0d3c540edeb0f75e1774e6b36d62390d112bc0..9d6b758f26cbef75b4d5f88d5174b7a91a4843bd 100644
 --- a/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.test.ts
 +++ b/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.test.ts
 @@ -44,7 +44,7 @@ function byRule(held: readonly Held[]): ReadonlyMap<string, readonly Said[]> {
@@ -55,6 +55,15 @@ index da0d3c540edeb0f75e1774e6b36d62390d112bc0..2a63fde40907c75e4dba204bbe627d87
    const every = byRule([
      { path: "one.ts", text: CAMEL },
      { path: "two.ts", text: EXPORTED_AS },
+@@ -188,7 +188,7 @@ function bothArriving(root: string): Change {
+   }
+ }
+ 
+-test("the files a change brings stand among those a rule is looked for in", () => {
++test("the files a change brings are among those a rule is looked for in", () => {
+   const change = bothArriving(rooted())
+   const cast = shadowFor(change)
+   if ("refused" in cast) throw new Error(cast.refused)
 diff --git a/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.ts b/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.ts
 index 368e74200cec9ad7ba76bfabc076ec696817aa52..2f58923f1a169a940e856316396ee46a8ecaf1cc 100644
 --- a/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.ts
