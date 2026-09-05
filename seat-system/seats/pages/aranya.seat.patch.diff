@@ -1383,3 +1383,11 @@ index 66f7ccd947f4503c5ec85bbe1103a9b780ad59cd..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-lost-treasure
 \ No newline at end of file
+diff --git a/temper/temper-lua-runner/temper-lua-runner b/temper/temper-lua-runner/temper-lua-runner
+deleted file mode 120000
+index 5deb6994c19a69392ecf3b9dfc2c5de32975b281..0000000000000000000000000000000000000000
+--- a/temper/temper-lua-runner/temper-lua-runner
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-lua-runner
+\ No newline at end of file
