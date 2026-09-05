@@ -47,7 +47,7 @@ export const temperCommunityAddonUpdate = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reports a change without making it.",
+      statement: "Nothing here reports a change without making that change.",
     },
   ],
 } as const satisfies Command
