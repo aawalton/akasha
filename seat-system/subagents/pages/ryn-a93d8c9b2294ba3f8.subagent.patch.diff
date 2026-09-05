@@ -202,3 +202,19 @@ index 096f8799f3fd7bd52a8112d28510bde55cf3318f..fccbad8bca0f1a763a30c5059b28628f
      {
        invariantKind: "absence",
        statement: "Nothing here asks the pages system service.",
+diff --git a/pages/commands/page-icon-search-index-generate/page-icon-search-index-generate.command.ts b/pages/commands/page-icon-search-index-generate/page-icon-search-index-generate.command.ts
+index 015990e98d745537be83f4085a2bb06d930371be..6fd6d16f14b6d9f439c7b0fa3c512a2f17e62ec1 100644
+--- a/pages/commands/page-icon-search-index-generate/page-icon-search-index-generate.command.ts
++++ b/pages/commands/page-icon-search-index-generate/page-icon-search-index-generate.command.ts
+@@ -28,11 +28,6 @@ export const pageIconSearchIndexGenerate = {
+         "The release the index is built from is stated here rather than taken as the latest.",
+     },
+ 
+-    {
+-      invariantKind: "departure",
+-      statement: "A shard holds at least one icon however long that icon's line is.",
+-    },
+-
+     {
+       invariantKind: "departure",
+       statement: "A body rendered at or past the size a write refuses stages nothing at all.",
