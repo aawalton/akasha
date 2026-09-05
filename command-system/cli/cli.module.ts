@@ -52,7 +52,7 @@ export const cli = {
     },
     {
       invariantKind: "departure",
-      statement: "A commit names the persona of the seat that wrote it as the author.",
+      statement: "A commit names the persona of the seat that wrote that commit as the author.",
     },
     {
       invariantKind: "departure",
