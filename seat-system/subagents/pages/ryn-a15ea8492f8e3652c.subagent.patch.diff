@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/persona-system/persona-craft-days/persona-craft-day.page-type.ts b/persona-system/persona-craft-days/persona-craft-day.page-type.ts
+index 78a552e142b50f100463d18e7b162846446599d8..0681ec5ef10363166ebd9bdf32a0f3e88d94a1ea 100644
+--- a/persona-system/persona-craft-days/persona-craft-day.page-type.ts
++++ b/persona-system/persona-craft-days/persona-craft-day.page-type.ts
+@@ -58,7 +58,7 @@ export const personaCraftDay = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The personas crafted are named apart from her.",
++      statement: "The personas crafted are named apart from the crafter.",
+     },
+     {
+       invariantKind: "departure",
