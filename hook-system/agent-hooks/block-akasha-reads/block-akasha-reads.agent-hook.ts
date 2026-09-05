@@ -40,7 +40,7 @@ export const blockAkashaReads = {
     },
     {
       invariantKind: "absence",
-      statement: "What Grep and Glob show is not refused here.",
+      statement: "A Grep or Glob answer is not refused here.",
     },
     {
       invariantKind: "gap",
