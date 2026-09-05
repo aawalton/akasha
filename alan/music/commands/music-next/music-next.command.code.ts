@@ -59,7 +59,7 @@ function list(held: Held, key: string): readonly string[] {
 //
 // `rating` and `rank` are ONE value space, not two, so the key is the whole of the fault.
 // `MusicRating` is `Rung` from `@akasha/pages-system/rank-property`, and `rank.rank-property.ts`
-// states those same sixteen rungs as its values; every grade standing on a page — `S`, `S-`,
+// states those same sixteen rungs as its values; every grade on a page — `S`, `S-`,
 // `A+`, `A`, `B+`, `B`, `C`, `D` — is one of them.
 //
 // The two spellings come from the two layers. `--rating` is the flag `music-rate` takes the

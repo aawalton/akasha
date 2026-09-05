@@ -96,7 +96,7 @@ test("the catalogue is read from the song pages and the artist pages", () => {
 // `selectNextExploration` a catalogue built by hand — already carrying `rank`, so the reader is
 // never asked — or checks only that rows came back and their slugs are not empty. A reader
 // dropping every grade satisfies all of them. This asks whether a grade survived the read.
-test("the grades standing on the pages reach the catalogue", () => {
+test("the grades on the pages reach the catalogue", () => {
   if (!indexThere(ROOT)) return
   const catalog = catalogIn(ROOT)
   expect(catalog.artists.some((one) => one.rank !== undefined)).toBe(true)
