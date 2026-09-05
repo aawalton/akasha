@@ -1,0 +1,270 @@
+diff --git a/temper/temper-progress/item-actions/pages/character-equip.temper-item-action.ts b/temper/temper-progress/item-actions/pages/character-equip.temper-item-action.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..70a12f7e715024a92d5871a1ca0c23d8a88fa25a
+--- /dev/null
++++ b/temper/temper-progress/item-actions/pages/character-equip.temper-item-action.ts
+@@ -0,0 +1,9 @@
++import type { TemperItemAction } from "../temper-item-action.page-type.ts"
++
++export const characterEquip = {
++  id: "01a071f0-4c82-73e1-9946-1dc48e9b2d78",
++  pageTypeSlug: "temper-item-action",
++  slug: "character-equip",
++  title: "Equip on character",
++  description: "Equips the item on the character the rule names.",
++} as const satisfies TemperItemAction
+diff --git a/temper/temper-progress/item-actions/pages/companion-equip.temper-item-action.ts b/temper/temper-progress/item-actions/pages/companion-equip.temper-item-action.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5178d59a689f218b8bf6c0c506071db3aa018d63
+--- /dev/null
++++ b/temper/temper-progress/item-actions/pages/companion-equip.temper-item-action.ts
+@@ -0,0 +1,9 @@
++import type { TemperItemAction } from "../temper-item-action.page-type.ts"
++
++export const companionEquip = {
++  id: "01a071f0-4c83-7121-afdc-587d911a55ed",
++  pageTypeSlug: "temper-item-action",
++  slug: "companion-equip",
++  title: "Equip on companion",
++  description: "Equips the item on the companion the rule names.",
++} as const satisfies TemperItemAction
+diff --git a/temper/temper-progress/item-actions/pages/deconstruct.temper-item-action.ts b/temper/temper-progress/item-actions/pages/deconstruct.temper-item-action.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0aef596de9ed8b2993689827530c738e178e4ac4
+--- /dev/null
++++ b/temper/temper-progress/item-actions/pages/deconstruct.temper-item-action.ts
+@@ -0,0 +1,9 @@
++import type { TemperItemAction } from "../temper-item-action.page-type.ts"
++
++export const deconstruct = {
++  id: "01a071f0-4c83-71e2-94a3-f462adf5820c",
++  pageTypeSlug: "temper-item-action",
++  slug: "deconstruct",
++  title: "Deconstruct",
++  description: "Breaks the item down for the materials the item yields.",
++} as const satisfies TemperItemAction
+diff --git a/temper/temper-progress/item-actions/pages/destroy.temper-item-action.ts b/temper/temper-progress/item-actions/pages/destroy.temper-item-action.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..941bcf61525ffa7b6d3b8f157fa190b01aa724f9
+--- /dev/null
++++ b/temper/temper-progress/item-actions/pages/destroy.temper-item-action.ts
+@@ -0,0 +1,9 @@
++import type { TemperItemAction } from "../temper-item-action.page-type.ts"
++
++export const destroy = {
++  id: "01a071f0-4c84-7cab-b3ea-39919d0728c9",
++  pageTypeSlug: "temper-item-action",
++  slug: "destroy",
++  title: "Destroy",
++  description: "Destroys the item outright.",
++} as const satisfies TemperItemAction
+diff --git a/temper/temper-progress/item-actions/pages/fence-launder.temper-item-action.ts b/temper/temper-progress/item-actions/pages/fence-launder.temper-item-action.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5af4273b6b1899c07f428c6e28ed690887f93e27
+--- /dev/null
++++ b/temper/temper-progress/item-actions/pages/fence-launder.temper-item-action.ts
+@@ -0,0 +1,9 @@
++import type { TemperItemAction } from "../temper-item-action.page-type.ts"
++
++export const fenceLaunder = {
++  id: "01a071f0-4c84-7b4d-8467-1404cf41193c",
++  pageTypeSlug: "temper-item-action",
++  slug: "fence-launder",
++  title: "Launder",
++  description: "Launders a stolen item at a fence.",
++} as const satisfies TemperItemAction
+diff --git a/temper/temper-progress/item-actions/pages/fence-sell.temper-item-action.ts b/temper/temper-progress/item-actions/pages/fence-sell.temper-item-action.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7e6bf84306b716226b2f7a3be71c0fba335d7104
+--- /dev/null
++++ b/temper/temper-progress/item-actions/pages/fence-sell.temper-item-action.ts
+@@ -0,0 +1,9 @@
++import type { TemperItemAction } from "../temper-item-action.page-type.ts"
++
++export const fenceSell = {
++  id: "01a071f0-4c85-7ebd-948c-7d677bdb19af",
++  pageTypeSlug: "temper-item-action",
++  slug: "fence-sell",
++  title: "Fence",
++  description: "Sells a stolen item at a fence.",
++} as const satisfies TemperItemAction
+diff --git a/temper/temper-progress/item-actions/pages/list.temper-item-action.ts b/temper/temper-progress/item-actions/pages/list.temper-item-action.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e00ed77ebdb776184e5a378626e1da0041985731
+--- /dev/null
++++ b/temper/temper-progress/item-actions/pages/list.temper-item-action.ts
+@@ -0,0 +1,9 @@
++import type { TemperItemAction } from "../temper-item-action.page-type.ts"
++
++export const list = {
++  id: "01a071f0-4c85-705f-8d7c-29387f5b39ab",
++  pageTypeSlug: "temper-item-action",
++  slug: "list",
++  title: "List",
++  description: "Lists the item at a guild trader.",
++} as const satisfies TemperItemAction
+diff --git a/temper/temper-progress/item-actions/pages/lock.temper-item-action.ts b/temper/temper-progress/item-actions/pages/lock.temper-item-action.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b14e3ebb8f25ff4f960a06d6b05beb45fe6762c4
+--- /dev/null
++++ b/temper/temper-progress/item-actions/pages/lock.temper-item-action.ts
+@@ -0,0 +1,9 @@
++import type { TemperItemAction } from "../temper-item-action.page-type.ts"
++
++export const lock = {
++  id: "01a071f0-4c85-7404-8a53-dd9a8dc5e1e0",
++  pageTypeSlug: "temper-item-action",
++  slug: "lock",
++  title: "Lock",
++  description: "Locks the item against other rules.",
++} as const satisfies TemperItemAction
+diff --git a/temper/temper-progress/item-actions/pages/mail.temper-item-action.ts b/temper/temper-progress/item-actions/pages/mail.temper-item-action.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..54b9bd6ee1050db8c927abba9281c681c561cc7e
+--- /dev/null
++++ b/temper/temper-progress/item-actions/pages/mail.temper-item-action.ts
+@@ -0,0 +1,9 @@
++import type { TemperItemAction } from "../temper-item-action.page-type.ts"
++
++export const mail = {
++  id: "01a071f0-4c85-74f6-8a4a-351d6d18d9d2",
++  pageTypeSlug: "temper-item-action",
++  slug: "mail",
++  title: "Mail",
++  description: "Mails the item to the recipient the rule names.",
++} as const satisfies TemperItemAction
+diff --git a/temper/temper-progress/item-actions/pages/move-to.temper-item-action.ts b/temper/temper-progress/item-actions/pages/move-to.temper-item-action.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2f0d3706358e5e176ea7040583803f4441e0493d
+--- /dev/null
++++ b/temper/temper-progress/item-actions/pages/move-to.temper-item-action.ts
+@@ -0,0 +1,9 @@
++import type { TemperItemAction } from "../temper-item-action.page-type.ts"
++
++export const moveTo = {
++  id: "01a071f0-4c85-7772-9c83-1d70b2f35077",
++  pageTypeSlug: "temper-item-action",
++  slug: "move-to",
++  title: "Move",
++  description: "Moves the item to the destination the rule names.",
++} as const satisfies TemperItemAction
+diff --git a/temper/temper-progress/item-actions/pages/nothing.temper-item-action.ts b/temper/temper-progress/item-actions/pages/nothing.temper-item-action.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..da785984784ed8e7c3aa70e9c97108e79635a45b
+--- /dev/null
++++ b/temper/temper-progress/item-actions/pages/nothing.temper-item-action.ts
+@@ -0,0 +1,9 @@
++import type { TemperItemAction } from "../temper-item-action.page-type.ts"
++
++export const nothing = {
++  id: "01a071f0-4c85-7eb9-9625-4b57c018d0b1",
++  pageTypeSlug: "temper-item-action",
++  slug: "nothing",
++  title: "Leave alone",
++  description: "Leaves the item in place.",
++} as const satisfies TemperItemAction
+diff --git a/temper/temper-progress/item-actions/pages/open.temper-item-action.ts b/temper/temper-progress/item-actions/pages/open.temper-item-action.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..38a6fe2f54c9dd14e61ae12f8a77f403a3cdfa14
+--- /dev/null
++++ b/temper/temper-progress/item-actions/pages/open.temper-item-action.ts
+@@ -0,0 +1,9 @@
++import type { TemperItemAction } from "../temper-item-action.page-type.ts"
++
++export const open = {
++  id: "01a071f0-4c85-7ee8-b672-ae4b86c4dedf",
++  pageTypeSlug: "temper-item-action",
++  slug: "open",
++  title: "Open",
++  description: "Opens the container.",
++} as const satisfies TemperItemAction
+diff --git a/temper/temper-progress/item-actions/pages/refine.temper-item-action.ts b/temper/temper-progress/item-actions/pages/refine.temper-item-action.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f4656d32e45f39018e4f342904a1001032ae1ef6
+--- /dev/null
++++ b/temper/temper-progress/item-actions/pages/refine.temper-item-action.ts
+@@ -0,0 +1,9 @@
++import type { TemperItemAction } from "../temper-item-action.page-type.ts"
++
++export const refine = {
++  id: "01a071f0-4c86-72f2-9d33-e4fd765cf675",
++  pageTypeSlug: "temper-item-action",
++  slug: "refine",
++  title: "Refine",
++  description: "Refines raw material into the worked form.",
++} as const satisfies TemperItemAction
+diff --git a/temper/temper-progress/item-actions/pages/research.temper-item-action.ts b/temper/temper-progress/item-actions/pages/research.temper-item-action.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..35357ac5534671890b0cf041d9151a502a6132cc
+--- /dev/null
++++ b/temper/temper-progress/item-actions/pages/research.temper-item-action.ts
+@@ -0,0 +1,9 @@
++import type { TemperItemAction } from "../temper-item-action.page-type.ts"
++
++export const research = {
++  id: "01a071f0-4c86-7187-ac64-c45f8423f9c7",
++  pageTypeSlug: "temper-item-action",
++  slug: "research",
++  title: "Research",
++  description: "Researches the trait the item carries.",
++} as const satisfies TemperItemAction
+diff --git a/temper/temper-progress/item-actions/pages/sell.temper-item-action.ts b/temper/temper-progress/item-actions/pages/sell.temper-item-action.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9fedff0782b46d3ca6f0b56ed026401c8ac26680
+--- /dev/null
++++ b/temper/temper-progress/item-actions/pages/sell.temper-item-action.ts
+@@ -0,0 +1,9 @@
++import type { TemperItemAction } from "../temper-item-action.page-type.ts"
++
++export const sell = {
++  id: "01a071f0-4c86-7bcb-99d3-fe4cbcfa326b",
++  pageTypeSlug: "temper-item-action",
++  slug: "sell",
++  title: "Sell",
++  description: "Sells the item to a merchant.",
++} as const satisfies TemperItemAction
+diff --git a/temper/temper-progress/item-actions/pages/stock.temper-item-action.ts b/temper/temper-progress/item-actions/pages/stock.temper-item-action.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3c629ef726721726681c14a7a96edc3c56c3053e
+--- /dev/null
++++ b/temper/temper-progress/item-actions/pages/stock.temper-item-action.ts
+@@ -0,0 +1,9 @@
++import type { TemperItemAction } from "../temper-item-action.page-type.ts"
++
++export const stock = {
++  id: "01a071f0-4c86-735a-92fe-07fa9541b270",
++  pageTypeSlug: "temper-item-action",
++  slug: "stock",
++  title: "Stock",
++  description: "Keeps a target quantity of the item at the destination the rule names.",
++} as const satisfies TemperItemAction
+diff --git a/temper/temper-progress/item-actions/pages/unlock.temper-item-action.ts b/temper/temper-progress/item-actions/pages/unlock.temper-item-action.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..edec2681239a06bbb198a4f05c2d14f6ca11d3c1
+--- /dev/null
++++ b/temper/temper-progress/item-actions/pages/unlock.temper-item-action.ts
+@@ -0,0 +1,9 @@
++import type { TemperItemAction } from "../temper-item-action.page-type.ts"
++
++export const unlock = {
++  id: "01a071f0-4c87-70b7-b714-09c3e0d7e0b9",
++  pageTypeSlug: "temper-item-action",
++  slug: "unlock",
++  title: "Unlock",
++  description: "Unlocks the item for other rules.",
++} as const satisfies TemperItemAction
+diff --git a/temper/temper-progress/item-actions/pages/use.temper-item-action.ts b/temper/temper-progress/item-actions/pages/use.temper-item-action.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d2d5554d921b03dd7e0c35f0db1aca4526eaa93d
+--- /dev/null
++++ b/temper/temper-progress/item-actions/pages/use.temper-item-action.ts
+@@ -0,0 +1,9 @@
++import type { TemperItemAction } from "../temper-item-action.page-type.ts"
++
++export const use = {
++  id: "01a071f0-4c87-7025-9afc-001a1598e3cf",
++  pageTypeSlug: "temper-item-action",
++  slug: "use",
++  title: "Use",
++  description: "Uses the item up.",
++} as const satisfies TemperItemAction
