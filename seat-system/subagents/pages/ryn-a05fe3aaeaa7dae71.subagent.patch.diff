@@ -1,0 +1,13 @@
+diff --git a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
+index 77db1001c19dd1277791bc2f5c5ae484efb34c2e..9726d2edd75e94db4419ecd9aa3a965d6ecdfdd4 100644
+--- a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
++++ b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
+@@ -24,7 +24,7 @@ export const supervisorLogSweeping = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The window leaves a stopped seat's log readable for as long as somebody might open it.",
++        "The window leaves a stopped seat's log readable for as long as somebody might open that log.",
+     },
+     {
+       invariantKind: "absence",
