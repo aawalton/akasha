@@ -29,6 +29,30 @@ index b550a3da43e6eeb04c514478e54e4ee0f9e9284f..b29b6f73b6254e2cc16a332c40eaa171
  function mergedByGit(base: Uint8Array, mine: Uint8Array, theirs: Uint8Array): Merged {
    const dir = mkdtempSync(join(SCRATCH_AT, MERGING_AT))
    try {
+diff --git a/command-system/body-merging/body-merging.module.ts b/command-system/body-merging/body-merging.module.ts
+index e7adee98d0926ce6359ef8e8f8d7934349ef1d55..6bbf773eaaa27636ef10e344f27c1ccb5bde94c4 100644
+--- a/command-system/body-merging/body-merging.module.ts
++++ b/command-system/body-merging/body-merging.module.ts
+@@ -53,6 +53,19 @@ export const bodyMerging = {
+       invariantKind: "departure",
+       statement: "The labels marking a conflict are spelled here rather than by a caller.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "A body marked as taken away is that body under the label for what a change would leave.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body marked as taken away carries no line under the label for what HEAD holds.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Bytes spelling no text are refused rather than marked as taken away.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A body carrying the label for what a change would leave is carrying a conflict.",
 diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
 index 0a47a917ce5546869dd5738e74380a3d285cf24e..8c5890e178b8a2a5932a1be31dd222018e51cee6 100644
 --- a/command-system/drafting/drafting.module.code.ts
