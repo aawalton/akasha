@@ -27,10 +27,7 @@ export const pageIconSearchIndexGenerate = {
       statement:
         "The release the index is built from is stated here rather than taken as the latest.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A shard already standing keeps the identity that shard had.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A shard holds at least one icon however long that icon's line is.",
