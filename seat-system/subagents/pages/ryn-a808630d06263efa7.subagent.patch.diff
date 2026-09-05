@@ -1,0 +1,13 @@
+diff --git a/temper/temper-commands/inventory-characters-reading/inventory-characters-reading.module.ts b/temper/temper-commands/inventory-characters-reading/inventory-characters-reading.module.ts
+index 34604b59c11d26adc491102c81c55377612c6960..f4eb14e20c3fa31fb95166030eeddf65e8e29942 100644
+--- a/temper/temper-commands/inventory-characters-reading/inventory-characters-reading.module.ts
++++ b/temper/temper-commands/inventory-characters-reading/inventory-characters-reading.module.ts
+@@ -10,7 +10,7 @@ export const inventoryCharactersReading = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A character is named by the key the addon filed it under.",
++      statement: "A character is named by the key the addon filed that character under.",
+     },
+     {
+       invariantKind: "departure",
