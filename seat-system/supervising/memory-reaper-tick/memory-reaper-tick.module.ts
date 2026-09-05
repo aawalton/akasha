@@ -13,7 +13,7 @@ export const memoryReaperTick = {
     },
     {
       invariantKind: "departure",
-      statement: "A tick that cannot read what the host holds free disarms its headroom leg.",
+      statement: "A tick that cannot read the memory the host holds free disarms its headroom leg.",
     },
     {
       invariantKind: "departure",
