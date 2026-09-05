@@ -25,7 +25,7 @@ index 933344ef534f4d28dc81ee96c465f78b738dc86a..209dd0fffe147aeb56d1ee491df2c3a1
    expect(dataIn("/repo")).toBe("/repo/.git/data")
  })
 diff --git a/file-system/data-place/data-place.module.ts b/file-system/data-place/data-place.module.ts
-index 239bd98c9a63d0b79f710ecc94090358f95317d1..7b03d4e195c3fedb3b95820a9e995e2bea2a203b 100644
+index 239bd98c9a63d0b79f710ecc94090358f95317d1..a5bd2241de41e98953e148fb89a1efc680781a4f 100644
 --- a/file-system/data-place/data-place.module.ts
 +++ b/file-system/data-place/data-place.module.ts
 @@ -14,7 +14,7 @@ export const dataPlace = {
@@ -37,7 +37,7 @@ index 239bd98c9a63d0b79f710ecc94090358f95317d1..7b03d4e195c3fedb3b95820a9e995e2b
      },
      {
        invariantKind: "departure",
-@@ -34,7 +34,7 @@ export const dataPlace = {
+@@ -34,11 +34,11 @@ export const dataPlace = {
      },
      {
        invariantKind: "absence",
@@ -46,8 +46,13 @@ index 239bd98c9a63d0b79f710ecc94090358f95317d1..7b03d4e195c3fedb3b95820a9e995e2b
      },
      {
        invariantKind: "absence",
+-      statement: "Whether anything stands there is asked of the disk by whoever asks.",
++      statement: "Whether anything is there is asked of the disk by whoever asks.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/file-system/exclusive/exclusive.module.ts b/file-system/exclusive/exclusive.module.ts
-index 48a6a28abd1281920e9c72108b4786f752694ad9..830134da6064557b71710bf38de5f972af6d827a 100644
+index 48a6a28abd1281920e9c72108b4786f752694ad9..70bdf10087a5114d840155d38a17ebc2c101abae 100644
 --- a/file-system/exclusive/exclusive.module.ts
 +++ b/file-system/exclusive/exclusive.module.ts
 @@ -9,11 +9,11 @@ export const exclusive = {
@@ -64,8 +69,17 @@ index 48a6a28abd1281920e9c72108b4786f752694ad9..830134da6064557b71710bf38de5f972
      },
      {
        invariantKind: "departure",
+@@ -21,7 +21,7 @@ export const exclusive = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A turn is given up only by the process whose mark stands in the turn.",
++      statement: "A turn is given up only by the process whose mark is in the turn.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/file-system/lock-holder/lock-holder.module.test.ts b/file-system/lock-holder/lock-holder.module.test.ts
-index ddf19e101ce247fc2cac13ca4a9f2edcfbacb02f..5079bdf813231e1d7ffb5c2e4d195b587e513327 100644
+index ddf19e101ce247fc2cac13ca4a9f2edcfbacb02f..cd48ea7099b1f8e0d33bbbeb85f6277ddf9bd08c 100644
 --- a/file-system/lock-holder/lock-holder.module.test.ts
 +++ b/file-system/lock-holder/lock-holder.module.test.ts
 @@ -36,12 +36,12 @@ test("a pid nothing is running under answers unknown rather than failing", async
@@ -82,6 +96,15 @@ index ddf19e101ce247fc2cac13ca4a9f2edcfbacb02f..5079bdf813231e1d7ffb5c2e4d195b58
 +test("a mark never written, or one that is empty, is no mark rather than a failure", () => {
 +  expect(markIn(join(rooted(), "never written"))).toBeNull()
    expect(markIn(marked("   \n"))).toBeNull()
+ })
+ 
+@@ -73,7 +73,7 @@ test("a holder whose process is gone is no holder", async () => {
+   expect(alive({ pid: await gonePid(), started: startedAt(process.pid) })).toBe(false)
+ })
+ 
+-test("a pid standing for another process than the one that wrote the mark is no holder", () => {
++test("a pid representing another process than the one that wrote the mark is no holder", () => {
+   expect(alive({ pid: process.pid, started: "1" })).toBe(false)
  })
  
 diff --git a/file-system/lock-holder/lock-holder.module.ts b/file-system/lock-holder/lock-holder.module.ts
