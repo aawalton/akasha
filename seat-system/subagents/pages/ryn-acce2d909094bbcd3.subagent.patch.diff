@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/manifest-locking/manifest-locking.module.ts b/command-system/manifest-locking/manifest-locking.module.ts
+index 04f3e37d3592c2ada7d04e11286a61ec5b5f6a71..394211e27181f9f784494ce2c2c1636abb8dd020 100644
+--- a/command-system/manifest-locking/manifest-locking.module.ts
++++ b/command-system/manifest-locking/manifest-locking.module.ts
+@@ -63,7 +63,7 @@ export const manifestLocking = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "An install is what points the workspace at the folders its manifests name.",
++      statement: "An install points the workspace at the folders its manifests name.",
+     },
+     {
+       invariantKind: "departure",
