@@ -9,7 +9,7 @@ export const libSetsConstCasts = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The cast asserts the type rather than checking it.",
+      statement: "The cast asserts the type rather than checking that type.",
     },
   ],
 } as const satisfies Module
