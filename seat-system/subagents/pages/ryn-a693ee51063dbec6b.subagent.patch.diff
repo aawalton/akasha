@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/monarch-syncing/monarch-syncing.module.ts b/alan/harness/monarch/monarch-syncing/monarch-syncing.module.ts
+index 284d506a208267c4f8a75e9426e08ac406d43487..00e8df937d8b4da5a835d34796ce2c51ac69f6f5 100644
+--- a/alan/harness/monarch/monarch-syncing/monarch-syncing.module.ts
++++ b/alan/harness/monarch/monarch-syncing/monarch-syncing.module.ts
+@@ -18,7 +18,7 @@ export const monarchSyncing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The category rules are run over what arrived.",
++      statement: "The category rules are run over the rows that arrived.",
+     },
+     {
+       invariantKind: "departure",
