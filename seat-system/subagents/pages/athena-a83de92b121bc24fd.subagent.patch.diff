@@ -216,3 +216,55 @@ index c55f3d8f4767a2bbbadaaee6d0575e93bd82eebb..f1891e20b1877fca02e5820dbcdf7ddd
      "page-type/to-do",
      "page-type/tracking-capture",
      "page-type/tracking-entry",
+diff --git a/commands/tracking/tracking.command.code.ts b/commands/tracking/tracking.command.code.ts
+index 3726a83a80962cbf9fea2f82274c961d491556e5..1c5feadeabffe0813380cc6fbeaafb745375ec17 100644
+--- a/commands/tracking/tracking.command.code.ts
++++ b/commands/tracking/tracking.command.code.ts
+@@ -1,25 +1,22 @@
++import {
++  landingTracked,
++  outsideTracked,
++  trackedIn,
++} from "../../alan/tracking/tracking-landing/tracking-landing.module.code.ts"
+ import { BREAK_GLASS, mistaking } from "../../command-system/asking/asking.module.code.ts"
+ import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+ import { inputIn } from "../../command-system/piping/piping.module.code.ts"
+-import { FILE_PATH, filing, pathAt, REMOVE, VALUED, valuesOf } from "../write/write.command.code.ts"
+-
+-export const DAYS_AT = "alan/tracking/daily/wake-days/pages/"
+-
+-export const FOOD_ENTRIES_AT = "alan/tracking/food-entries/pages/"
+-
+-export const TRACKED_AT: readonly string[] = [DAYS_AT, FOOD_ENTRIES_AT]
++import {
++  builtIn,
++  FILE_PATH,
++  pathAt,
++  REMOVE,
++  VALUED,
++  valuesOf,
++} from "../write/write.command.code.ts"
+ 
+ export const NO_GLASS = `${BREAK_GLASS} is no flag this takes: a body the checks refuse is a fault in the program that composed it`
+ 
+-export function trackedIn(path: string | null): boolean {
+-  return path !== null && TRACKED_AT.some((one) => path.startsWith(one))
+-}
+-
+-export function outsideTracked(said: string): string {
+-  const under = TRACKED_AT.map((one) => `\`${one}\``).join(" or ")
+-  return `${said} is not under ${under}, and this lands what Alan's tracking composes and nothing else`
+-}
+-
+ export function strayIn(root: string, argv: readonly string[]): readonly string[] {
+   const said: string[] = []
+   for (const flag of [FILE_PATH, REMOVE]) {
+@@ -35,5 +32,7 @@ export async function tracking(argv: readonly string[], given: Given): Promise<A
+   if (argv.includes(BREAK_GLASS)) return mistaking([NO_GLASS])
+   const stray = strayIn(given.root, argv)
+   if (stray.length > 0) return mistaking(stray)
+-  return await filing(argv, given, inputIn)
++  const built = builtIn(argv, given, inputIn)
++  if ("code" in built) return built
++  return await landingTracked(given.root, built.changes, built.message, given.calledAs)
+ }
