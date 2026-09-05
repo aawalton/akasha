@@ -45,8 +45,6 @@ export const move = {
     "an agent settings document a live seat watches is rewritten once the move has landed.",
     "one that would not take the rewrite is named, and the move lands rather than refusing.",
     "one reaching in by a relative path is repointed where that path resolves to what moves.",
-    "a package manifest naming a file that moves is repointed with it.",
-    "a manifest that moves states its ways in from the folder it arrives in.",
     "a way in whose file leaves the package is taken out of that manifest.",
     "a package folder that moves is reached again where it arrives, before anything is judged.",
     "a value beside a renamed page named for its old slug is renamed with it.",
