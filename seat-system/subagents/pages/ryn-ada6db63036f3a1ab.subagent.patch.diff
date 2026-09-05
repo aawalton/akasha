@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-stated/seat-stated.module.ts b/seat-system/seat-stated/seat-stated.module.ts
+index 04daa57413d5a2e4e8690ea0eea2c4acc1bc22cc..daaafc1f509587fd1fc93f962a8ee6b63b043b3b 100644
+--- a/seat-system/seat-stated/seat-stated.module.ts
++++ b/seat-system/seat-stated/seat-stated.module.ts
+@@ -21,7 +21,7 @@ export const seatStated = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Each observed key is copied from the page back into the record beside it.",
++      statement: "Each observed key is copied from the page back into the record beside that page.",
+     },
+     {
+       invariantKind: "departure",
