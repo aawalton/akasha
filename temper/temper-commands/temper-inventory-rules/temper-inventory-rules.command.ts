@@ -24,7 +24,7 @@ export const temperInventoryRules = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What is read is the compiled configuration.",
+      statement: "The configuration read is the compiled configuration.",
     },
     {
       invariantKind: "departure",
