@@ -31,7 +31,6 @@ export const inferenceMusic = {
     "the render is submitted as a task and then polled, so the timeout counts the whole wait rather than one request.",
     "a seed nothing named is drawn, and the seed is recorded whether it was drawn or said.",
     "the steps default to what the turbo distill was trained for, and raising them costs time for quality.",
-    "a run row is filed whether the render finished or failed.",
   ],
   invariants: [
     {
