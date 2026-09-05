@@ -10,7 +10,7 @@ export const nimueComputedProperties = {
     {
       statement: "A property states the calculation that fills it.",
       workingMemory:
-        "Every wake-day property and every collection property is a calculation now, and no formula-property page remains anywhere in akasha. A calculation loads by transpiling its code file's text, so the pages package reaches one without naming the domain holding it. Left here: the generated registry the compiler checks, moving `holds` off formula-properties when that type goes, and the WorkedX types each page type hand-writes beside its stored type.",
+        "Every wake-day property and every collection property is a calculation now, and no formula-property page remains anywhere in akasha. A calculation loads by transpiling its code file's text, so the pages package reaches one without naming the domain holding it. Left here: the generated registry the compiler checks, and the WorkedX types each page type hand-writes beside its stored type.",
     },
     {
       statement: "A calculation names its inputs rather than reaching for what it likes.",
@@ -31,7 +31,7 @@ export const nimueComputedProperties = {
     {
       statement: "No calculation is written as an expression the system parses.",
       workingMemory:
-        "No formula-property page remains in akasha. Sixteen went from wake-day, twelve from collection, and three on persona-day were ablated rather than carried because that page type is being rebuilt. Every migration was held to answering exactly what the formula answered, measured over the pages of each type. The parser at `pages/formula` and the formula-property page type can go now, and `holds` moves to computed-properties with them.",
+        "No formula-property page remains in akasha, the page type itself is gone, and `holds` moved to computed-properties keeping its id. Sixteen went from wake-day, twelve from collection, and three on persona-day were ablated because that page type is being rebuilt. Each answered exactly what the formula answered, measured over every page of its type. The parser stays: `pages/core/color-rules` runs it at render time, and Alan has settled that color rules follow the same path.",
     },
     {
       statement: "Sleep hours and surplus hours answer from a calculation.",
