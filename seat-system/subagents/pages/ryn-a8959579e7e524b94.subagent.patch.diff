@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-commands/temper-catalog-list/temper-catalog-list.command.ts b/temper/temper-commands/temper-catalog-list/temper-catalog-list.command.ts
+index 5b002b32f144029b64765a270779e71cb84a89d1..46f8ba15d47df3619903e8b446af6f81557f6d1b 100644
+--- a/temper/temper-commands/temper-catalog-list/temper-catalog-list.command.ts
++++ b/temper/temper-commands/temper-catalog-list/temper-catalog-list.command.ts
+@@ -15,7 +15,7 @@ export const temperCatalogList = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The domains are read from what the catalog addon registers.",
++      statement: "The domains are read from the keys the catalog addon registers.",
+     },
+     {
+       invariantKind: "departure",
