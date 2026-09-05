@@ -21,7 +21,8 @@ export const runCost = {
     },
     {
       invariantKind: "departure",
-      statement: "The cpu time counted is this process together with every child it reaped.",
+      statement:
+        "The cpu time counted is this process together with every child this process reaped.",
     },
     {
       invariantKind: "departure",
