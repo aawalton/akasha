@@ -1,0 +1,13 @@
+diff --git a/domains/initiatives/pages/thea-checks-system.initiative.ts b/domains/initiatives/pages/thea-checks-system.initiative.ts
+index cb7307cdc1ddb316b7b5be9cbd75d991fa2109db..a430b920171c19d4e234dbcbacc90d841d18a206 100644
+--- a/domains/initiatives/pages/thea-checks-system.initiative.ts
++++ b/domains/initiatives/pages/thea-checks-system.initiative.ts
+@@ -21,7 +21,7 @@ export const theaChecksSystem = {
+     {
+       statement: "Every check is clean.",
+       workingMemory:
+-        "Six steps per check: 1 the failure category prevented, 2 the file set covered, 3 the cost over one file not judged, 4 over one judged, 5 over the whole repository, 6 whether green. Turn a green check on at patch early: live landings measure better than probes. The entries jsonl holds every run. 43 checks, 7 running on a phase and 36 on none, alphabetical over all 43 whether or not a check already runs. Done: domain-is-named-by-a-parent, email-address-is-well-formed. Now: file-has-its-page.",
++        "Six steps per check: 1 the failure category prevented, 2 the file set covered, 3 the cost over one file not judged, 4 over one judged, 5 over the whole repository, 6 whether green. The entries jsonl holds every run. 43 checks, alphabetical over all 43 whether or not one runs already. Done: domain-is-named-by-a-parent, email-address-is-well-formed. Now: file-has-its-page, steps 1 and 2 done; it judges what a change carries, so audit waits on routes and the old system.",
+     },
+     {
+       statement: "The new system carries every check of the old system that still applies.",
