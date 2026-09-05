@@ -21,7 +21,7 @@ export const porcelainStatusReading = {
     },
     {
       invariantKind: "departure",
-      statement: "What git said is handed on untrimmed.",
+      statement: "The output git printed is handed on untrimmed.",
     },
     {
       invariantKind: "departure",
