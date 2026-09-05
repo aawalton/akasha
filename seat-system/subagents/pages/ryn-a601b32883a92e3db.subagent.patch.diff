@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/utils-run/spawn-ceiling/spawn-ceiling.module.ts b/utils-run/spawn-ceiling/spawn-ceiling.module.ts
+index ea0426ccca48e9328072e2b9135f6ea43d36e8ae..ada0b0c18d97051f828cf5190bd40fbda6cdc658 100644
+--- a/utils-run/spawn-ceiling/spawn-ceiling.module.ts
++++ b/utils-run/spawn-ceiling/spawn-ceiling.module.ts
+@@ -13,7 +13,7 @@ export const spawnCeiling = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The refusal names the process and the ceiling it ran past.",
++      statement: "The refusal names the process and the ceiling that process ran past.",
+     },
+     {
+       invariantKind: "departure",
