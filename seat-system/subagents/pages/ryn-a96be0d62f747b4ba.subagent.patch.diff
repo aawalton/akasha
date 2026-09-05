@@ -26,7 +26,7 @@ index 09ced8528387b373fd1d89ce511a6f3aff78b1c4..c284295ddad8ee85cc824080ca60278f
      {
        invariantKind: "departure",
 diff --git a/alan/harness/monarch/eval/monarch-eval.domain.ts b/alan/harness/monarch/eval/monarch-eval.domain.ts
-index 2ef02704723ba810e7e659a1b95cc67e68e795bf..7f3c4530611e3933099d59eedd36430172da30be 100644
+index 44af0a909e1acf802df22f3576339fea8c212f1e..ba273e042e48b0486b89566947c68adb62ed2992 100644
 --- a/alan/harness/monarch/eval/monarch-eval.domain.ts
 +++ b/alan/harness/monarch/eval/monarch-eval.domain.ts
 @@ -22,7 +22,7 @@ export const monarchEval = {
@@ -38,3 +38,21 @@ index 2ef02704723ba810e7e659a1b95cc67e68e795bf..7f3c4530611e3933099d59eedd364301
      },
      {
        invariantKind: "absence",
+diff --git a/alan/harness/monarch/history/monarch-history.module.ts b/alan/harness/monarch/history/monarch-history.module.ts
+index 852736197db025afbdd2e72f8f0f404d63372b57..594f4d26a9c365d8b68d291b927575bda382cc31 100644
+--- a/alan/harness/monarch/history/monarch-history.module.ts
++++ b/alan/harness/monarch/history/monarch-history.module.ts
+@@ -18,8 +18,11 @@ export const monarchHistory = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A neighbourhood is read from the database over twice the rule's window, which is the same span the in-memory slice takes.",
++      statement: "A neighbourhood is read from the database over twice the rule's window.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The in-memory slice takes the same span as that database read.",
+     },
+     {
+       invariantKind: "departure",
