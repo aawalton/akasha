@@ -1,0 +1,25 @@
+diff --git a/alan/authoring/book-records/pages/my-faith-overview/my-faith-overview.book-record.ts b/alan/authoring/book-records/pages/my-faith-overview/my-faith-overview.book-record.ts
+index fd94defff61b497b58b852158ea366b48e716e11..20cf30e09a01781fd828f8f3f27572399d752eb7 100644
+--- a/alan/authoring/book-records/pages/my-faith-overview/my-faith-overview.book-record.ts
++++ b/alan/authoring/book-records/pages/my-faith-overview/my-faith-overview.book-record.ts
+@@ -8,7 +8,7 @@ export const myFaithOverview = {
+   definition: "the shape and the method of the My Faith book",
+   bookSlug: "my-faith",
+   brief:
+-    "Standing orientation to the My Faith book — the distillation the /a talia apparatus loads at session start so the interpreter and her helpers walk in knowing the corpus's shape, method, and where the build is. A briefing for the apparatus, not a note for Future-Alan; every structural claim traces to a CLAUDE.md convention file. This file invents no doctrine.",
++    "Continuing orientation to the My Faith book — the distillation the /a talia apparatus loads at session start so the interpreter and her helpers walk in knowing the corpus's shape, method, and where the build is. A briefing for the apparatus, not a note for Future-Alan; every structural claim traces to a CLAUDE.md convention file. This file invents no doctrine.",
+   keptBy: "the archivist",
+   writing: "md",
+ } as const satisfies BookRecord
+diff --git a/alan/authoring/book-records/pages/my-strategy-overview/my-strategy-overview.book-record.ts b/alan/authoring/book-records/pages/my-strategy-overview/my-strategy-overview.book-record.ts
+index afa2110c4b258f87d966be676487c04ada975f76..e8987bb89e93e51747c05209743b683ee1af7117 100644
+--- a/alan/authoring/book-records/pages/my-strategy-overview/my-strategy-overview.book-record.ts
++++ b/alan/authoring/book-records/pages/my-strategy-overview/my-strategy-overview.book-record.ts
+@@ -8,6 +8,6 @@ export const myStrategyOverview = {
+   definition: "what is settled and what is open in My Strategy",
+   bookSlug: "my-strategy",
+   brief:
+-    "Standing orientation for My Strategy — what the book is, what Alan has settled, and what is still open. Read this before an interview session on strategy so nothing already settled gets re-derived and nothing still open gets treated as decided. The numbered pages carry the detail and the quotations; this page carries the map.",
++    "Continuing orientation for My Strategy — what the book is, what Alan has settled, and what is still open. Read this before an interview session on strategy so nothing already settled gets re-derived and nothing still open gets treated as decided. The numbered pages carry the detail and the quotations; this page carries the map.",
+   writing: "md",
+ } as const satisfies BookRecord
