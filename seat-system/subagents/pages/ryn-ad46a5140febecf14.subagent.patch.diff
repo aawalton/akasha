@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/types/page-properties/key/page-property-key.module.ts b/pages/types/page-properties/key/page-property-key.module.ts
+index 9af28ebaef2bec66a5f577cb784a30800cc9a712..39d3b2672343d505cf3a75462f230f240e308bb8 100644
+--- a/pages/types/page-properties/key/page-property-key.module.ts
++++ b/pages/types/page-properties/key/page-property-key.module.ts
+@@ -10,7 +10,8 @@ export const pagePropertyKey = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A key becomes a slug by lowering each capital and setting a `-` before it.",
++      statement:
++        "A key becomes a slug by lowering each capital and setting a `-` before that capital.",
+     },
+     {
+       invariantKind: "departure",
