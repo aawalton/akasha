@@ -28,3 +28,18 @@ index f75427929b11537e1fb4dffba22113e5a2803845..70a453ebf500e0ed7636970eae0dfa50
      {
        invariantKind: "departure",
        statement: "The source a chapter came from is no page type of its own.",
+diff --git a/temper/temper-capture-datamining-addon/temper-capture-datamining-addon.eso-addon.ts b/temper/temper-capture-datamining-addon/temper-capture-datamining-addon.eso-addon.ts
+index 06bf0d5f9502ce56d9bad70a4d4f0703a49d9da4..a785b1c4fce688a9cbdb10b387601741b040ed71 100644
+--- a/temper/temper-capture-datamining-addon/temper-capture-datamining-addon.eso-addon.ts
++++ b/temper/temper-capture-datamining-addon/temper-capture-datamining-addon.eso-addon.ts
+@@ -30,6 +30,10 @@ export const temperCaptureDataminingAddon = {
+       invariantKind: "departure",
+       statement: "Mining runs in batches so the game stays playable.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "Mining that has run past the stated misses is complete.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "What mining takes lands in the saved variables rather than over the wire.",
