@@ -10,7 +10,8 @@ export const temperCaptureHost = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A capture host reads what a capture addon saved rather than the running game.",
+      statement:
+        "A capture host reads the payload a capture addon saved rather than the running game.",
     },
     {
       invariantKind: "departure",
