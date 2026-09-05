@@ -7,12 +7,12 @@ export const ruleAcb23368 = {
   title: "Sell Psijic Ambrosia recipe fragments",
   description:
     "Sells Psijic Ambrosia recipe fragments (Fragment I–IV) regardless of quality. Item: 64702–64705.",
+  goal: "sell",
+  conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "recipe-fragments",
   displayOrder: 27,
   action: "sell",
   active: true,
   updatedAt: "2026-05-07T22:10:37.410Z",
-  goal: "sell",
-  conditions: "jsonl",
 } as const satisfies TemperInventoryRule
