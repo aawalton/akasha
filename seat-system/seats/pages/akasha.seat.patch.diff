@@ -98,7 +98,7 @@ index 92620ff1d45c6b862a5eb8b2b1ba6a0091cbd6a6..414d84227e14dcc24f777636bda2444c
  
  export function schemaOf(given: string | Reading, named: string): Schemad {
 diff --git a/pages/indexes/reading/index-reading.module.test.ts b/pages/indexes/reading/index-reading.module.test.ts
-index 91006b53e032cae31e5ba55b7b5cc87f2ea59494..0bbd221648b31a3602b7193254991a8885f0b5a6 100644
+index 91006b53e032cae31e5ba55b7b5cc87f2ea59494..c5c16fc9e76cd56410654a277a9b78ffa2fb2fcf 100644
 --- a/pages/indexes/reading/index-reading.module.test.ts
 +++ b/pages/indexes/reading/index-reading.module.test.ts
 @@ -151,7 +151,7 @@ test("every reader is refused where the index stands nowhere, whatever it was as
@@ -137,3 +137,12 @@ index 91006b53e032cae31e5ba55b7b5cc87f2ea59494..0bbd221648b31a3602b7193254991a88
  })
  
  test("a name saying its page type reads that one file, and passes over another of the slug", () => {
+@@ -227,7 +227,7 @@ test("a property the index does not carry is refused rather than answered as not
+   const root = rootAt()
+   nothingFiled(root)
+ 
+-  expect(schemaOf(root, "nowhere")).toEqual({
++  expect(schemaOf(root, "text-property/nowhere")).toEqual({
+     refused: "no page property carries the slug `nowhere`",
+   })
+ })
