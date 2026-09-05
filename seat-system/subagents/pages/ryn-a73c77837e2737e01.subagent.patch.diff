@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/inference-commands/inference-upscale/inference-upscale.command.ts b/infrastructure/inference-commands/inference-upscale/inference-upscale.command.ts
+index 232e2da7754e4779b909ac50af4634fdacddcd85..66ad3b4756885b17103f4d7c15c5f2cafe12337c 100644
+--- a/infrastructure/inference-commands/inference-upscale/inference-upscale.command.ts
++++ b/infrastructure/inference-commands/inference-upscale/inference-upscale.command.ts
+@@ -46,7 +46,7 @@ export const inferenceUpscale = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The image is written where the caller named it and nowhere else.",
++      statement: "The image is written where the caller named that image and nowhere else.",
+     },
+     {
+       invariantKind: "departure",
