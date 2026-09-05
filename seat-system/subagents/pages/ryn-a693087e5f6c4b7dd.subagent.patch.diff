@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/reading/reading.module.ts b/command-system/reading/reading.module.ts
+index aff24f8e303750f13038897d273518acf3912dc0..7c06f3db573bae3debff76cc80e5a95f96d6921c 100644
+--- a/command-system/reading/reading.module.ts
++++ b/command-system/reading/reading.module.ts
+@@ -18,7 +18,7 @@ export const reading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A line carries the object id of what was read.",
++      statement: "A line carries the object id of the body read.",
+     },
+     {
+       invariantKind: "departure",
