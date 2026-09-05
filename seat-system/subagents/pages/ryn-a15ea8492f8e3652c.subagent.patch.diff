@@ -1,8 +1,8 @@
 diff --git a/editor-extension/page-tree-assemble/page-tree-assemble.module.ts b/editor-extension/page-tree-assemble/page-tree-assemble.module.ts
-index a3a198892942a0f0a3b93a238ac7487f3e3abf07..d1b058fda380d3b9bca8a983c72970558f7f7273 100644
+index a3a198892942a0f0a3b93a238ac7487f3e3abf07..1d7456b105b2a24ca3ff750bbdc7ca2d2986e195 100644
 --- a/editor-extension/page-tree-assemble/page-tree-assemble.module.ts
 +++ b/editor-extension/page-tree-assemble/page-tree-assemble.module.ts
-@@ -55,16 +55,17 @@ export const pageTreeAssemble = {
+@@ -55,20 +55,21 @@ export const pageTreeAssemble = {
      },
      {
        invariantKind: "departure",
@@ -20,6 +20,11 @@ index a3a198892942a0f0a3b93a238ac7487f3e3abf07..d1b058fda380d3b9bca8a983c7297055
        statement:
 -        "The drawing under the first type a page type names above it keeps the id `type/<slug>`.",
 +        "The drawing under the first type a page type names above that page type keeps the id `type/<slug>`.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A later drawing takes its id from the parent it hangs under.",
++      statement: "A later drawing takes its id from the parent that drawing hangs under.",
      },
      {
        invariantKind: "departure",
