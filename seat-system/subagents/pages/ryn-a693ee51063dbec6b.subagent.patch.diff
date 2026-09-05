@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/library/book-of-everything/coverage-status/coverage-status.module.ts b/alan/library/book-of-everything/coverage-status/coverage-status.module.ts
+index aa606c7293e52ccce969faa47a8efabc98bf5fac..7be13111a23e9aafffdf98db8e050e6d7c9db435 100644
+--- a/alan/library/book-of-everything/coverage-status/coverage-status.module.ts
++++ b/alan/library/book-of-everything/coverage-status/coverage-status.module.ts
+@@ -17,7 +17,7 @@ export const coverageStatus = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A total counts what the outline holds rather than what the disk holds.",
++      statement: "A total counts the nodes the outline holds rather than the nodes the disk holds.",
+     },
+     {
+       invariantKind: "departure",
