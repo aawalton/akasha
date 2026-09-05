@@ -1,12 +1,50 @@
+diff --git a/infrastructure/container-registries/registry-gc/registry-gc.manifest.code.ts b/infrastructure/container-registries/registry-gc/registry-gc.manifest.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2bcde6688d9e1117926b311ebea815001815610b
+--- /dev/null
++++ b/infrastructure/container-registries/registry-gc/registry-gc.manifest.code.ts
+@@ -0,0 +1,5 @@
++import { cronjobGcYaml } from "@akasha/cluster-manifests/registry-gc-manifests"
++
++export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
++  return [{ name: "cronjob-gc", yaml: cronjobGcYaml() }]
++}
+diff --git a/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff b/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
+index 59241a78a7ffdd089c4011bccfb9acfd398c8273..57a22b501453f558efcdd2a0aa33d456080b4ee4 100644
+--- a/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
++++ b/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
+@@ -7,6 +7,6 @@ index 61816fe79007f40118ece3ab8b2e3b4b6a7806b9..9b41a9c7ee54ed0b72eba71175456124
+    image: "registry.registry.svc.cluster.local:5000/cluster/ci:latest",
+    schedule: "0 4 * * *",
+ -  manifestCode:
+--    "service-system/cluster-services/pages/registry-gc/registry-gc.cluster-service.code.attachment.ts",
++-    "infrastructure/container-registries/registry-gc/registry-gc.manifest.code.ts",
+ +  manifestSlug: "registry-gc",
+  } as const satisfies ClusterService
+diff --git a/service-system/cluster-services/pages/registry-gc/registry-gc.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/registry-gc/registry-gc.cluster-service.code.attachment.ts
+deleted file mode 100644
+index 2bcde6688d9e1117926b311ebea815001815610b..0000000000000000000000000000000000000000
+--- a/service-system/cluster-services/pages/registry-gc/registry-gc.cluster-service.code.attachment.ts
++++ /dev/null
+@@ -1,5 +0,0 @@
+-import { cronjobGcYaml } from "@akasha/cluster-manifests/registry-gc-manifests"
+-
+-export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
+-  return [{ name: "cronjob-gc", yaml: cronjobGcYaml() }]
+-}
 diff --git a/service-system/cluster-services/pages/registry-gc/registry-gc.cluster-service.ts b/service-system/cluster-services/pages/registry-gc/registry-gc.cluster-service.ts
-index 61816fe79007f40118ece3ab8b2e3b4b6a7806b9..9b41a9c7ee54ed0b72eba711754561241de77930 100644
+index 61816fe79007f40118ece3ab8b2e3b4b6a7806b9..7d1c42cb4d88871ea17cd4a2bf3e0acd48d0af3d 100644
 --- a/service-system/cluster-services/pages/registry-gc/registry-gc.cluster-service.ts
 +++ b/service-system/cluster-services/pages/registry-gc/registry-gc.cluster-service.ts
-@@ -10,6 +10,5 @@ export const registryGc = {
+@@ -10,6 +10,9 @@ export const registryGc = {
    resourceName: "registry-gc",
    image: "registry.registry.svc.cluster.local:5000/cluster/ci:latest",
    schedule: "0 4 * * *",
 -  manifestCode:
 -    "service-system/cluster-services/pages/registry-gc/registry-gc.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +  manifestSlug: "registry-gc",
++=======
++  manifestCode: "infrastructure/container-registries/registry-gc/registry-gc.manifest.code.ts",
++>>>>>>> what HEAD holds
  } as const satisfies ClusterService
