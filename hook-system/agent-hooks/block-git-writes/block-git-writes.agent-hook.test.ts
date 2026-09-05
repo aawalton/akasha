@@ -135,6 +135,9 @@ test("an act this does not name is stood aside from, whatever else it does", () 
     "git rm akasha/one.ts",
     "git checkout -- akasha/one.ts",
     "git restore .",
+    "git update-index --refresh",
+    "git checkout-index -a -f",
+    "git read-tree -u HEAD",
   ]) {
     expect(refusalIn(command)).toBeNull()
   }
@@ -208,7 +211,8 @@ test("the scope says what it does not reach, and refuses to be extended", () => 
 test("the scope says which acts it leaves to the other hook, and why", () => {
   const said = SCOPE.join("\n")
   expect(said).toContain("block-destructive-git")
-  expect(said).toContain("`rm`, `checkout` and `restore`")
+  expect(said).toContain("`rm`, `checkout`, `restore`, `update-index`, `read-tree` and")
+  expect(said).toContain("`checkout-index`")
   expect(said).toContain("second reason for a call already refused")
 })
 
