@@ -1,3 +1,95 @@
+diff --git a/mobile-commands/mobile-answering/mobile-answering.module.code.ts b/mobile-commands/mobile-answering/mobile-answering.module.code.ts
+index 9d6fc1789bd7bdab9011a1d43ee279e11a76d11a..bcd37649359fa9e9fc05ad20ccf5f020b7681697 100644
+--- a/mobile-commands/mobile-answering/mobile-answering.module.code.ts
++++ b/mobile-commands/mobile-answering/mobile-answering.module.code.ts
+@@ -80,7 +80,7 @@ export function standingFor(said: Said, flag: string): Reading<Said> {
+       .map((one) => `\`${one}\``)
+       .join(", ")
+     return {
+-      refused: [`this takes one bare word standing for \`${flag}\`, and ${extra} followed it`],
++      refused: [`this takes one bare word representing \`${flag}\`, and ${extra} followed it`],
+     }
+   }
+   const bare = said.loose[0]
+diff --git a/mobile-commands/mobile-answering/mobile-answering.module.ts b/mobile-commands/mobile-answering/mobile-answering.module.ts
+index dc78153acca10a2a0bad9ffcd15ea7d09d560ecf..750592e4ab3409c8f464ef7a1a9436b9bb3a0664 100644
+--- a/mobile-commands/mobile-answering/mobile-answering.module.ts
++++ b/mobile-commands/mobile-answering/mobile-answering.module.ts
+@@ -25,7 +25,7 @@ export const mobileAnswering = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A bare word stands for the flag a command says it stands for.",
++      statement: "A bare word represents the flag a command says it represents.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/mobile-commands/mobile-commands.workspace-package.ts b/mobile-commands/mobile-commands.workspace-package.ts
+index 83266ca31ab7c6715852b1368e0caf427f0ee72a..1083fad1d3c548165aac39cbccdc95df15e4d068 100644
+--- a/mobile-commands/mobile-commands.workspace-package.ts
++++ b/mobile-commands/mobile-commands.workspace-package.ts
+@@ -39,7 +39,7 @@ export const mobileCommands = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "One simulator session stands at a time, and a command driving it attaches to that session rather than opening its own.",
++        "One simulator session is there at a time, and a command driving it attaches to that session rather than opening its own.",
+     },
+     {
+       invariantKind: "gap",
+diff --git a/mobile-commands/mobile-deploy-device/mobile-deploy-device.command.ts b/mobile-commands/mobile-deploy-device/mobile-deploy-device.command.ts
+index 6b29725f10ff684362ae749b89a1b6d271cff34d..a144dc0b82c5b2f88a796620fdbccae30abc214e 100644
+--- a/mobile-commands/mobile-deploy-device/mobile-deploy-device.command.ts
++++ b/mobile-commands/mobile-deploy-device/mobile-deploy-device.command.ts
+@@ -16,7 +16,8 @@ export const mobileDeployDevice = {
+     { said: "--configuration <name>", takes: "the Xcode configuration, Debug where none is said" },
+     {
+       said: "--no-sync",
+-      takes: "build without syncing the native seam first, which is faster and reuses what stands",
++      takes:
++        "build without syncing the native seam first, which is faster and reuses what is there",
+     },
+   ],
+   helpNotes: [
+diff --git a/mobile-commands/mobile-sim-eval/mobile-sim-eval.command.ts b/mobile-commands/mobile-sim-eval/mobile-sim-eval.command.ts
+index 4229bbb9b3fdd087ee390bb2a03085dd327eb5f5..2e3d73e25b2e63aae48ea77ac7a633fa2a694d85 100644
+--- a/mobile-commands/mobile-sim-eval/mobile-sim-eval.command.ts
++++ b/mobile-commands/mobile-sim-eval/mobile-sim-eval.command.ts
+@@ -9,7 +9,7 @@ export const mobileSimEval = {
+   code: "ts",
+   changeKindSlug: "change-none",
+   taking: [
+-    { said: "<js>", takes: "the script to run, standing for `--script`" },
++    { said: "<js>", takes: "the script to run, representing `--script`" },
+     { said: "--script <js>", takes: "the script to run, which returns what is to come back" },
+     { said: "--script -", takes: "the script to run, read from what is piped in" },
+   ],
+diff --git a/mobile-commands/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.ts b/mobile-commands/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.ts
+index e132f01f8b64275a40b9c815eda4fb3faca14114..4c93f2c382cafbc6b3abb4b3998edb6ea219c007 100644
+--- a/mobile-commands/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.ts
++++ b/mobile-commands/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.ts
+@@ -23,7 +23,7 @@ export const mobileSimLongPressDrag = {
+     "the hold is what opens a long-press menu, and the drag is what reaches an item on it.",
+     "a drag that ends where it began is still a drag, which is how a menu is opened and left open.",
+     "the four coordinates are each required, since a gesture missing an end is no gesture.",
+-    "the session already standing is what is dragged in, so `mobile sim open-url` comes first.",
++    "the session already there is what is dragged in, so `mobile sim open-url` comes first.",
+     "the drag is made of moves rather than of one jump, because one jump reads as a tap somewhere else.",
+   ],
+   invariants: [
+diff --git a/mobile-commands/mobile-sim-open-url/mobile-sim-open-url.command.ts b/mobile-commands/mobile-sim-open-url/mobile-sim-open-url.command.ts
+index 4c6ceee694fdc972ca61245acbe1f1b1af8f0928..59cb34617342311ff591e2ece98fcf66fe799a05 100644
+--- a/mobile-commands/mobile-sim-open-url/mobile-sim-open-url.command.ts
++++ b/mobile-commands/mobile-sim-open-url/mobile-sim-open-url.command.ts
+@@ -4,7 +4,7 @@ export const mobileSimOpenUrl = {
+   id: "01a0685d-ceae-7009-892c-425eee9c835b",
+   pageTypeSlug: "command",
+   slug: "mobile-sim-open-url",
+-  definition: "the command opening a route in the simulator and leaving a session standing at it",
++  definition: "the command opening a route in the simulator and leaving a session at it",
+   code: "ts",
+   changeKindSlug: "change-none",
+   taking: [
 diff --git a/mobile-commands/mobile-sim-push-tap/mobile-sim-push-tap.command.ts b/mobile-commands/mobile-sim-push-tap/mobile-sim-push-tap.command.ts
 index d85a954fbbd7bd1296fae7ae4ddeec9eaba963f7..d75567a7294020ae20755a4e840b6506fa6364e0 100644
 --- a/mobile-commands/mobile-sim-push-tap/mobile-sim-push-tap.command.ts
