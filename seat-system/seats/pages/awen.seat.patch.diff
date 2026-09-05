@@ -1,0 +1,3385 @@
+runsWarrants: false
+diff --git a/story/world-mechanics/world-skills/pages/absorb-blow.world-skill.ts b/story/world-mechanics/world-skills/pages/absorb-blow.world-skill.ts
+deleted file mode 100644
+index 6cdb5aa9347e7080ad9798ea3aafb68731a62678..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/absorb-blow.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const absorbBlow = {
+-  id: "01a06575-97e8-7e00-8b21-5aa8aaf8bcee",
+-  pageTypeSlug: "world-skill",
+-  slug: "absorb-blow",
+-  title: "Absorb Blow",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/absorb-blow/absorb-blow.world-skill.ts b/story/world-mechanics/world-skills/pages/absorb-blow/absorb-blow.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..da419c8be4bf3d7efb15b1fbd1506f14e3f91b33
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/absorb-blow/absorb-blow.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const absorbBlow = {
++  id: "01a06575-97e8-7e00-8b21-5aa8aaf8bcee",
++  pageTypeSlug: "world-skill",
++  slug: "absorb-blow",
++  title: "Absorb Blow",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/advanced-proficiency-boxing.world-skill.ts b/story/world-mechanics/world-skills/pages/advanced-proficiency-boxing.world-skill.ts
+deleted file mode 100644
+index 40e0c15538c71d04087c1bc091b6577576d8a09a..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/advanced-proficiency-boxing.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const advancedProficiencyBoxing = {
+-  id: "01a06575-97e9-7625-9d41-c714350dc693",
+-  pageTypeSlug: "world-skill",
+-  slug: "advanced-proficiency-boxing",
+-  title: "Advanced Proficiency: Boxing",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/advanced-proficiency-boxing/advanced-proficiency-boxing.world-skill.ts b/story/world-mechanics/world-skills/pages/advanced-proficiency-boxing/advanced-proficiency-boxing.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e4983769df64830aa92cff7efcd1101b1e1e0a6b
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/advanced-proficiency-boxing/advanced-proficiency-boxing.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const advancedProficiencyBoxing = {
++  id: "01a06575-97e9-7625-9d41-c714350dc693",
++  pageTypeSlug: "world-skill",
++  slug: "advanced-proficiency-boxing",
++  title: "Advanced Proficiency: Boxing",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/aleieta-s-melded-perspective.world-skill.ts b/story/world-mechanics/world-skills/pages/aleieta-s-melded-perspective.world-skill.ts
+deleted file mode 100644
+index 329c1334346896bf7a1434cb8984ba3aed367447..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/aleieta-s-melded-perspective.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const aleietaSMeldedPerspective = {
+-  id: "01a06575-97ea-71e8-9464-2b80b8d88907",
+-  pageTypeSlug: "world-skill",
+-  slug: "aleieta-s-melded-perspective",
+-  title: "Aleieta’s Melded Perspective",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/aleieta-s-melded-perspective/aleieta-s-melded-perspective.world-skill.ts b/story/world-mechanics/world-skills/pages/aleieta-s-melded-perspective/aleieta-s-melded-perspective.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7aa6de9b958f2a8acb53436a6289209327d862d0
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/aleieta-s-melded-perspective/aleieta-s-melded-perspective.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const aleietaSMeldedPerspective = {
++  id: "01a06575-97ea-71e8-9464-2b80b8d88907",
++  pageTypeSlug: "world-skill",
++  slug: "aleieta-s-melded-perspective",
++  title: "Aleieta’s Melded Perspective",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/armored-blow.world-skill.ts b/story/world-mechanics/world-skills/pages/armored-blow.world-skill.ts
+deleted file mode 100644
+index 29cb75e739546842a14b9bd5e9b54baeb8409dc9..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/armored-blow.world-skill.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const armoredBlow = {
+-  id: "01a06575-97ec-74c6-aa25-ea0a928588fe",
+-  pageTypeSlug: "world-skill",
+-  slug: "armored-blow",
+-  title: "Armored Blow",
+-  worldSlug: "the-wandering-inn",
+-  evolvesToSlugs: ["full-armor-onslaught"],
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/armored-blow/armored-blow.world-skill.ts b/story/world-mechanics/world-skills/pages/armored-blow/armored-blow.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4c350d76c852d19f7d6fbd4baecc02aa08f8a255
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/armored-blow/armored-blow.world-skill.ts
+@@ -0,0 +1,10 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const armoredBlow = {
++  id: "01a06575-97ec-74c6-aa25-ea0a928588fe",
++  pageTypeSlug: "world-skill",
++  slug: "armored-blow",
++  title: "Armored Blow",
++  worldSlug: "the-wandering-inn",
++  evolvesToSlugs: ["full-armor-onslaught"],
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/aura-of-radiance.world-skill.ts b/story/world-mechanics/world-skills/pages/aura-of-radiance.world-skill.ts
+deleted file mode 100644
+index c440468d92339604452d26d0a4234ef88a9d66df..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/aura-of-radiance.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const auraOfRadiance = {
+-  id: "01a06575-97ef-78ce-a4ff-12cff59149fe",
+-  pageTypeSlug: "world-skill",
+-  slug: "aura-of-radiance",
+-  title: "Aura of Radiance",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/aura-of-radiance/aura-of-radiance.world-skill.ts b/story/world-mechanics/world-skills/pages/aura-of-radiance/aura-of-radiance.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e4815e7f26257349e77e641534c3ccafd78e2932
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/aura-of-radiance/aura-of-radiance.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const auraOfRadiance = {
++  id: "01a06575-97ef-78ce-a4ff-12cff59149fe",
++  pageTypeSlug: "world-skill",
++  slug: "aura-of-radiance",
++  title: "Aura of Radiance",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/ballista-covering-fire.world-skill.ts b/story/world-mechanics/world-skills/pages/ballista-covering-fire.world-skill.ts
+deleted file mode 100644
+index 2ae9f74f4a8d31a85a78b97b6d5a1a74cec376a3..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/ballista-covering-fire.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const ballistaCoveringFire = {
+-  id: "01a06575-97f2-7968-8914-99fa3d596977",
+-  pageTypeSlug: "world-skill",
+-  slug: "ballista-covering-fire",
+-  title: "Ballista: Covering Fire",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/ballista-covering-fire/ballista-covering-fire.world-skill.ts b/story/world-mechanics/world-skills/pages/ballista-covering-fire/ballista-covering-fire.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e81c3f4117098ab2e34bc95ba35275415b368566
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/ballista-covering-fire/ballista-covering-fire.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const ballistaCoveringFire = {
++  id: "01a06575-97f2-7968-8914-99fa3d596977",
++  pageTypeSlug: "world-skill",
++  slug: "ballista-covering-fire",
++  title: "Ballista: Covering Fire",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/berr-s-stare.world-skill.ts b/story/world-mechanics/world-skills/pages/berr-s-stare.world-skill.ts
+deleted file mode 100644
+index 7fe511abd82d0ea32f6394817ddbb4d551c7864c..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/berr-s-stare.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const berrSStare = {
+-  id: "01a06575-97f5-7073-ad12-797abec00ae1",
+-  pageTypeSlug: "world-skill",
+-  slug: "berr-s-stare",
+-  title: "Berr’s Stare",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/berr-s-stare/berr-s-stare.world-skill.ts b/story/world-mechanics/world-skills/pages/berr-s-stare/berr-s-stare.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3b71930451d46b183bcc43c28c2467f5e84dd432
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/berr-s-stare/berr-s-stare.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const berrSStare = {
++  id: "01a06575-97f5-7073-ad12-797abec00ae1",
++  pageTypeSlug: "world-skill",
++  slug: "berr-s-stare",
++  title: "Berr’s Stare",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/bleed-cuts.world-skill.ts b/story/world-mechanics/world-skills/pages/bleed-cuts.world-skill.ts
+deleted file mode 100644
+index b47a6fe340b1da3b84ed0b9206a88f9757b01c9d..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/bleed-cuts.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const bleedCuts = {
+-  id: "01a06575-97f6-74e1-8602-f366db93f2c8",
+-  pageTypeSlug: "world-skill",
+-  slug: "bleed-cuts",
+-  title: "Bleed Cuts",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/bleed-cuts/bleed-cuts.world-skill.ts b/story/world-mechanics/world-skills/pages/bleed-cuts/bleed-cuts.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7cb3352e99178c3061d798ab29c16790053573a6
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/bleed-cuts/bleed-cuts.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const bleedCuts = {
++  id: "01a06575-97f6-74e1-8602-f366db93f2c8",
++  pageTypeSlug: "world-skill",
++  slug: "bleed-cuts",
++  title: "Bleed Cuts",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/body-aspect-of-the-jinn.world-skill.ts b/story/world-mechanics/world-skills/pages/body-aspect-of-the-jinn.world-skill.ts
+deleted file mode 100644
+index 3cd2b178e941f93ea0a2cbb323b2ac3f5b3cabfe..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/body-aspect-of-the-jinn.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const bodyAspectOfTheJinn = {
+-  id: "01a06575-97f6-7f18-8735-43044a7b07fb",
+-  pageTypeSlug: "world-skill",
+-  slug: "body-aspect-of-the-jinn",
+-  title: "Body: Aspect of the Jinn",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/body-aspect-of-the-jinn/body-aspect-of-the-jinn.world-skill.ts b/story/world-mechanics/world-skills/pages/body-aspect-of-the-jinn/body-aspect-of-the-jinn.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1ccd9e27416ef83712c46e42b92518c28e449b7f
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/body-aspect-of-the-jinn/body-aspect-of-the-jinn.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const bodyAspectOfTheJinn = {
++  id: "01a06575-97f6-7f18-8735-43044a7b07fb",
++  pageTypeSlug: "world-skill",
++  slug: "body-aspect-of-the-jinn",
++  title: "Body: Aspect of the Jinn",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/bond-of-species-humans-gnolls.world-skill.ts b/story/world-mechanics/world-skills/pages/bond-of-species-humans-gnolls.world-skill.ts
+deleted file mode 100644
+index f438cc72b572bf78b93f929b21e0fbb4e126f3f6..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/bond-of-species-humans-gnolls.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const bondOfSpeciesHumansGnolls = {
+-  id: "01a06575-97f7-7fee-88ab-8322e63c495f",
+-  pageTypeSlug: "world-skill",
+-  slug: "bond-of-species-humans-gnolls",
+-  title: "Bond of Species (Humans, Gnolls)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/bond-of-species-humans-gnolls/bond-of-species-humans-gnolls.world-skill.ts b/story/world-mechanics/world-skills/pages/bond-of-species-humans-gnolls/bond-of-species-humans-gnolls.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ede9177a4a4c11766831030cc0c5b58eeb557c6c
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/bond-of-species-humans-gnolls/bond-of-species-humans-gnolls.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const bondOfSpeciesHumansGnolls = {
++  id: "01a06575-97f7-7fee-88ab-8322e63c495f",
++  pageTypeSlug: "world-skill",
++  slug: "bond-of-species-humans-gnolls",
++  title: "Bond of Species (Humans, Gnolls)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/bound-item-pickaxe-of-naamreles.world-skill.ts b/story/world-mechanics/world-skills/pages/bound-item-pickaxe-of-naamreles.world-skill.ts
+deleted file mode 100644
+index 72f1cb837afd0ce694a40f908acc96de6d82b63d..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/bound-item-pickaxe-of-naamreles.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const boundItemPickaxeOfNaamreles = {
+-  id: "01a06575-97f8-734b-b6b8-c1adb794f26f",
+-  pageTypeSlug: "world-skill",
+-  slug: "bound-item-pickaxe-of-naamreles",
+-  title: "Bound Item: Pickaxe of Naamreles",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/bound-item-pickaxe-of-naamreles/bound-item-pickaxe-of-naamreles.world-skill.ts b/story/world-mechanics/world-skills/pages/bound-item-pickaxe-of-naamreles/bound-item-pickaxe-of-naamreles.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3d55b9eb1bb9f594284bb760b0afb39588a72ab0
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/bound-item-pickaxe-of-naamreles/bound-item-pickaxe-of-naamreles.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const boundItemPickaxeOfNaamreles = {
++  id: "01a06575-97f8-734b-b6b8-c1adb794f26f",
++  pageTypeSlug: "world-skill",
++  slug: "bound-item-pickaxe-of-naamreles",
++  title: "Bound Item: Pickaxe of Naamreles",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/braggarty-i-was-there.world-skill.ts b/story/world-mechanics/world-skills/pages/braggarty-i-was-there.world-skill.ts
+deleted file mode 100644
+index 9c9c9c7e9de0dc63061f0fd49d3120a4d57542e7..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/braggarty-i-was-there.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const braggartyIWasThere = {
+-  id: "01a06575-97f8-7d0d-851e-f81b50891e8b",
+-  pageTypeSlug: "world-skill",
+-  slug: "braggarty-i-was-there",
+-  title: "Braggarty: I Was There",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/braggarty-i-was-there/braggarty-i-was-there.world-skill.ts b/story/world-mechanics/world-skills/pages/braggarty-i-was-there/braggarty-i-was-there.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1ee67b7f1ee38093321a5365e8805481f5ef4e18
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/braggarty-i-was-there/braggarty-i-was-there.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const braggartyIWasThere = {
++  id: "01a06575-97f8-7d0d-851e-f81b50891e8b",
++  pageTypeSlug: "world-skill",
++  slug: "braggarty-i-was-there",
++  title: "Braggarty: I Was There",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/brawler-s-footwork.world-skill.ts b/story/world-mechanics/world-skills/pages/brawler-s-footwork.world-skill.ts
+deleted file mode 100644
+index 1af39eabc3c5da406092d6c105d159ef4206fd52..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/brawler-s-footwork.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const brawlerSFootwork = {
+-  id: "01a06575-97f8-7795-8d99-c811c35dfcc4",
+-  pageTypeSlug: "world-skill",
+-  slug: "brawler-s-footwork",
+-  title: "Brawler’s Footwork",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/brawler-s-footwork/brawler-s-footwork.world-skill.ts b/story/world-mechanics/world-skills/pages/brawler-s-footwork/brawler-s-footwork.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5768d4f82ad78a92aa45dbdda116674b24dff9cc
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/brawler-s-footwork/brawler-s-footwork.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const brawlerSFootwork = {
++  id: "01a06575-97f8-7795-8d99-c811c35dfcc4",
++  pageTypeSlug: "world-skill",
++  slug: "brawler-s-footwork",
++  title: "Brawler’s Footwork",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/cooking-no-bad-poos.world-skill.ts b/story/world-mechanics/world-skills/pages/cooking-no-bad-poos.world-skill.ts
+deleted file mode 100644
+index 2ae61f5abb493b6c6df2447f98ca0dad58e9b67f..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/cooking-no-bad-poos.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const cookingNoBadPoos = {
+-  id: "01a06575-97fd-7f62-a800-841718d4bb16",
+-  pageTypeSlug: "world-skill",
+-  slug: "cooking-no-bad-poos",
+-  title: "Cooking: No Bad Poos",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/cooking-no-bad-poos/cooking-no-bad-poos.world-skill.ts b/story/world-mechanics/world-skills/pages/cooking-no-bad-poos/cooking-no-bad-poos.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ccc408cf98f440db62fa3d9d35b56afa2641e420
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/cooking-no-bad-poos/cooking-no-bad-poos.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const cookingNoBadPoos = {
++  id: "01a06575-97fd-7f62-a800-841718d4bb16",
++  pageTypeSlug: "world-skill",
++  slug: "cooking-no-bad-poos",
++  title: "Cooking: No Bad Poos",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/copy-low-level.world-skill.ts b/story/world-mechanics/world-skills/pages/copy-low-level.world-skill.ts
+deleted file mode 100644
+index 3705e8c1301a48c082eb15ebea7ca8f58bb5c418..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/copy-low-level.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const copyLowLevel = {
+-  id: "01a06575-97fd-704e-81cc-d94047546873",
+-  pageTypeSlug: "world-skill",
+-  slug: "copy-low-level",
+-  title: "Copy Low-Level",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/copy-low-level/copy-low-level.world-skill.ts b/story/world-mechanics/world-skills/pages/copy-low-level/copy-low-level.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..40857f41f416c860c8b480dff4b9b3494dc1ac6e
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/copy-low-level/copy-low-level.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const copyLowLevel = {
++  id: "01a06575-97fd-704e-81cc-d94047546873",
++  pageTypeSlug: "world-skill",
++  slug: "copy-low-level",
++  title: "Copy Low-Level",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/copy-weapon-art.world-skill.ts b/story/world-mechanics/world-skills/pages/copy-weapon-art.world-skill.ts
+deleted file mode 100644
+index 30ac6634268ae3f7c3f1158c7f43c9107f91f69b..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/copy-weapon-art.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const copyWeaponArt = {
+-  id: "01a06575-97fe-71d0-b1de-69aac26bcd4a",
+-  pageTypeSlug: "world-skill",
+-  slug: "copy-weapon-art",
+-  title: "Copy Weapon Art",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/copy-weapon-art/copy-weapon-art.world-skill.ts b/story/world-mechanics/world-skills/pages/copy-weapon-art/copy-weapon-art.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..53a9526a9d5916ddbc535af25dfabe35cedbd021
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/copy-weapon-art/copy-weapon-art.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const copyWeaponArt = {
++  id: "01a06575-97fe-71d0-b1de-69aac26bcd4a",
++  pageTypeSlug: "world-skill",
++  slug: "copy-weapon-art",
++  title: "Copy Weapon Art",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/create-automagic.world-skill.ts b/story/world-mechanics/world-skills/pages/create-automagic.world-skill.ts
+deleted file mode 100644
+index 692bf693fd922eaf62eb13076634d24ce30bcecd..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/create-automagic.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const createAutomagic = {
+-  id: "01a06575-97fe-7fc4-a4c2-a1b09828e5c2",
+-  pageTypeSlug: "world-skill",
+-  slug: "create-automagic",
+-  title: "Create Automagic",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/create-automagic/create-automagic.world-skill.ts b/story/world-mechanics/world-skills/pages/create-automagic/create-automagic.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5ceecb3fd399f5ecba684c4d988375d563219757
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/create-automagic/create-automagic.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const createAutomagic = {
++  id: "01a06575-97fe-7fc4-a4c2-a1b09828e5c2",
++  pageTypeSlug: "world-skill",
++  slug: "create-automagic",
++  title: "Create Automagic",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/create-lucky-charm-memorabilia.world-skill.ts b/story/world-mechanics/world-skills/pages/create-lucky-charm-memorabilia.world-skill.ts
+deleted file mode 100644
+index f8995f3043c9f34cece49ea8f735d4d2636b1414..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/create-lucky-charm-memorabilia.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const createLuckyCharmMemorabilia = {
+-  id: "01a06575-97ff-7546-98ee-25454ce0d9a3",
+-  pageTypeSlug: "world-skill",
+-  slug: "create-lucky-charm-memorabilia",
+-  title: "Create Lucky Charm (Memorabilia)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/create-lucky-charm-memorabilia/create-lucky-charm-memorabilia.world-skill.ts b/story/world-mechanics/world-skills/pages/create-lucky-charm-memorabilia/create-lucky-charm-memorabilia.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..78a36b5e4b102f804c86edac9b0948a1c616da71
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/create-lucky-charm-memorabilia/create-lucky-charm-memorabilia.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const createLuckyCharmMemorabilia = {
++  id: "01a06575-97ff-7546-98ee-25454ce0d9a3",
++  pageTypeSlug: "world-skill",
++  slug: "create-lucky-charm-memorabilia",
++  title: "Create Lucky Charm (Memorabilia)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/cut-of-mirrors.world-skill.ts b/story/world-mechanics/world-skills/pages/cut-of-mirrors.world-skill.ts
+deleted file mode 100644
+index 2f81a82195609f74d9df6f648f6c570787f799c6..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/cut-of-mirrors.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const cutOfMirrors = {
+-  id: "01a06575-9800-775b-82bc-283216c3aa43",
+-  pageTypeSlug: "world-skill",
+-  slug: "cut-of-mirrors",
+-  title: "Cut of Mirrors",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/cut-of-mirrors/cut-of-mirrors.world-skill.ts b/story/world-mechanics/world-skills/pages/cut-of-mirrors/cut-of-mirrors.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9d5cfdcc29ebb099527c580e71cc8478f65f281f
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/cut-of-mirrors/cut-of-mirrors.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const cutOfMirrors = {
++  id: "01a06575-9800-775b-82bc-283216c3aa43",
++  pageTypeSlug: "world-skill",
++  slug: "cut-of-mirrors",
++  title: "Cut of Mirrors",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/dark-aura.world-skill.ts b/story/world-mechanics/world-skills/pages/dark-aura.world-skill.ts
+deleted file mode 100644
+index 1ae09f82c0642be12f0a8189a4852722fda1b203..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/dark-aura.world-skill.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const darkAura = {
+-  id: "01a06575-9801-7272-9cd8-a040c69949e1",
+-  pageTypeSlug: "world-skill",
+-  slug: "dark-aura",
+-  title: "Dark Aura",
+-  worldSlug: "the-wandering-inn",
+-  evolvesToSlugs: ["aura-of-midnight"],
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/dark-aura/dark-aura.world-skill.ts b/story/world-mechanics/world-skills/pages/dark-aura/dark-aura.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1247d603ff0d671df8ca0acca3bbf9e71495dbca
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/dark-aura/dark-aura.world-skill.ts
+@@ -0,0 +1,10 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const darkAura = {
++  id: "01a06575-9801-7272-9cd8-a040c69949e1",
++  pageTypeSlug: "world-skill",
++  slug: "dark-aura",
++  title: "Dark Aura",
++  worldSlug: "the-wandering-inn",
++  evolvesToSlugs: ["aura-of-midnight"],
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/deep-breath.world-skill.ts b/story/world-mechanics/world-skills/pages/deep-breath.world-skill.ts
+deleted file mode 100644
+index 2a4379ac6d5fe1aafe4e2db802324e20131edf19..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/deep-breath.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const deepBreath = {
+-  id: "01a06575-9802-71e9-a261-b6c7bb835780",
+-  pageTypeSlug: "world-skill",
+-  slug: "deep-breath",
+-  title: "Deep Breath",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/deep-breath/deep-breath.world-skill.ts b/story/world-mechanics/world-skills/pages/deep-breath/deep-breath.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9b5762aa954f592eb7173718cffc64c000eecc58
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/deep-breath/deep-breath.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const deepBreath = {
++  id: "01a06575-9802-71e9-a261-b6c7bb835780",
++  pageTypeSlug: "world-skill",
++  slug: "deep-breath",
++  title: "Deep Breath",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/dirtdweller-s-friend.world-skill.ts b/story/world-mechanics/world-skills/pages/dirtdweller-s-friend.world-skill.ts
+deleted file mode 100644
+index 344db228fcbe4f2cac3829d420f6dd9b541541ed..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/dirtdweller-s-friend.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const dirtdwellerSFriend = {
+-  id: "01a06575-9803-79bc-99fb-de2cde4972be",
+-  pageTypeSlug: "world-skill",
+-  slug: "dirtdweller-s-friend",
+-  title: "Dirtdweller’s Friend",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/dirtdweller-s-friend/dirtdweller-s-friend.world-skill.ts b/story/world-mechanics/world-skills/pages/dirtdweller-s-friend/dirtdweller-s-friend.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ecfff6eafa69cf686eb0b20ee9c54ee3cb4b439c
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/dirtdweller-s-friend/dirtdweller-s-friend.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const dirtdwellerSFriend = {
++  id: "01a06575-9803-79bc-99fb-de2cde4972be",
++  pageTypeSlug: "world-skill",
++  slug: "dirtdweller-s-friend",
++  title: "Dirtdweller’s Friend",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/disguise-of-mundanity-item.world-skill.ts b/story/world-mechanics/world-skills/pages/disguise-of-mundanity-item.world-skill.ts
+deleted file mode 100644
+index fce05099e39349175cf84dc629af98e6f61657cd..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/disguise-of-mundanity-item.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const disguiseOfMundanityItem = {
+-  id: "01a06575-9804-7180-b6fb-01c4ff8ca43e",
+-  pageTypeSlug: "world-skill",
+-  slug: "disguise-of-mundanity-item",
+-  title: "Disguise of Mundanity (Item)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/disguise-of-mundanity-item/disguise-of-mundanity-item.world-skill.ts b/story/world-mechanics/world-skills/pages/disguise-of-mundanity-item/disguise-of-mundanity-item.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bc5dc08a6289ce60e5027c76a5f0bb6f3aa3dd5c
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/disguise-of-mundanity-item/disguise-of-mundanity-item.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const disguiseOfMundanityItem = {
++  id: "01a06575-9804-7180-b6fb-01c4ff8ca43e",
++  pageTypeSlug: "world-skill",
++  slug: "disguise-of-mundanity-item",
++  title: "Disguise of Mundanity (Item)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/don-t-you-dare-lie-i-mean-it.world-skill.ts b/story/world-mechanics/world-skills/pages/don-t-you-dare-lie-i-mean-it.world-skill.ts
+deleted file mode 100644
+index 8cbbba94ce4a1bec17fcac3bbc2aa67a1a1b0481..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/don-t-you-dare-lie-i-mean-it.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const donTYouDareLieIMeanIt = {
+-  id: "01a06575-9804-73b8-99f6-a634cedaa55d",
+-  pageTypeSlug: "world-skill",
+-  slug: "don-t-you-dare-lie-i-mean-it",
+-  title: "Don’t You Dare Lie, I Mean It",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/don-t-you-dare-lie-i-mean-it/don-t-you-dare-lie-i-mean-it.world-skill.ts b/story/world-mechanics/world-skills/pages/don-t-you-dare-lie-i-mean-it/don-t-you-dare-lie-i-mean-it.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3ced714bc8862723cdea25d02ebba10dc816e90c
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/don-t-you-dare-lie-i-mean-it/don-t-you-dare-lie-i-mean-it.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const donTYouDareLieIMeanIt = {
++  id: "01a06575-9804-73b8-99f6-a634cedaa55d",
++  pageTypeSlug: "world-skill",
++  slug: "don-t-you-dare-lie-i-mean-it",
++  title: "Don’t You Dare Lie, I Mean It",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/driver-inert-cargo-box.world-skill.ts b/story/world-mechanics/world-skills/pages/driver-inert-cargo-box.world-skill.ts
+deleted file mode 100644
+index 05787c58d38453eb55f6b3024017df95070b1157..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/driver-inert-cargo-box.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const driverInertCargoBox = {
+-  id: "01a06575-9806-748f-829e-46ff84e1c831",
+-  pageTypeSlug: "world-skill",
+-  slug: "driver-inert-cargo-box",
+-  title: "Driver – Inert Cargo (Box)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/driver-inert-cargo-box/driver-inert-cargo-box.world-skill.ts b/story/world-mechanics/world-skills/pages/driver-inert-cargo-box/driver-inert-cargo-box.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..72566c410e8d7646ea57183f6c95e5db85384ae1
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/driver-inert-cargo-box/driver-inert-cargo-box.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const driverInertCargoBox = {
++  id: "01a06575-9806-748f-829e-46ff84e1c831",
++  pageTypeSlug: "world-skill",
++  slug: "driver-inert-cargo-box",
++  title: "Driver – Inert Cargo (Box)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/employee.world-skill.ts b/story/world-mechanics/world-skills/pages/employee.world-skill.ts
+deleted file mode 100644
+index c1a88c1484fad4d73f8bcb6b3c5c1cbdee99299e..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/employee.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const employee = {
+-  id: "01a06575-9808-75ba-a7f0-0766ed986db4",
+-  pageTypeSlug: "world-skill",
+-  slug: "employee",
+-  title: "Employee",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/employee/employee.world-skill.ts b/story/world-mechanics/world-skills/pages/employee/employee.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2e97c9ba2b185983e9c0f144fe29d2b151a3cd88
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/employee/employee.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const employee = {
++  id: "01a06575-9808-75ba-a7f0-0766ed986db4",
++  pageTypeSlug: "world-skill",
++  slug: "employee",
++  title: "Employee",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/explosive-venting.world-skill.ts b/story/world-mechanics/world-skills/pages/explosive-venting.world-skill.ts
+deleted file mode 100644
+index a579628e7b65651c7ceae87d7f5d93daee880c57..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/explosive-venting.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const explosiveVenting = {
+-  id: "01a06575-980a-7d06-bb99-14a220009da8",
+-  pageTypeSlug: "world-skill",
+-  slug: "explosive-venting",
+-  title: "Explosive Venting",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/explosive-venting/explosive-venting.world-skill.ts b/story/world-mechanics/world-skills/pages/explosive-venting/explosive-venting.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0356db0aafeac97fe4f382610c58fe88bf01a06b
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/explosive-venting/explosive-venting.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const explosiveVenting = {
++  id: "01a06575-980a-7d06-bb99-14a220009da8",
++  pageTypeSlug: "world-skill",
++  slug: "explosive-venting",
++  title: "Explosive Venting",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/flag-lesser-missile-defense.world-skill.ts b/story/world-mechanics/world-skills/pages/flag-lesser-missile-defense.world-skill.ts
+deleted file mode 100644
+index 8042227a1bfa437b7571c4e7519f2c8bc707d27d..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/flag-lesser-missile-defense.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const flagLesserMissileDefense = {
+-  id: "01a06575-980d-7296-a6b6-1d703d85795c",
+-  pageTypeSlug: "world-skill",
+-  slug: "flag-lesser-missile-defense",
+-  title: "Flag: Lesser Missile Defense",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/flag-lesser-missile-defense/flag-lesser-missile-defense.world-skill.ts b/story/world-mechanics/world-skills/pages/flag-lesser-missile-defense/flag-lesser-missile-defense.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..992e138fc576d3297c3db7cd519228ecd35fa3d6
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/flag-lesser-missile-defense/flag-lesser-missile-defense.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const flagLesserMissileDefense = {
++  id: "01a06575-980d-7296-a6b6-1d703d85795c",
++  pageTypeSlug: "world-skill",
++  slug: "flag-lesser-missile-defense",
++  title: "Flag: Lesser Missile Defense",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/flying-headbutt-re.world-skill.ts b/story/world-mechanics/world-skills/pages/flying-headbutt-re.world-skill.ts
+deleted file mode 100644
+index 28b01e3bd8e952212b1fd2eed74f125a384cd976..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/flying-headbutt-re.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const flyingHeadbuttRe = {
+-  id: "01a06575-980f-752e-9660-8acfe472212a",
+-  pageTypeSlug: "world-skill",
+-  slug: "flying-headbutt-re",
+-  title: "Flying Headbutt Re",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/flying-headbutt-re/flying-headbutt-re.world-skill.ts b/story/world-mechanics/world-skills/pages/flying-headbutt-re/flying-headbutt-re.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bef995af78e9ac5410e48ce41f6965cc610ebb2b
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/flying-headbutt-re/flying-headbutt-re.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const flyingHeadbuttRe = {
++  id: "01a06575-980f-752e-9660-8acfe472212a",
++  pageTypeSlug: "world-skill",
++  slug: "flying-headbutt-re",
++  title: "Flying Headbutt Re",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/free-upgrade-plumbing.world-skill.ts b/story/world-mechanics/world-skills/pages/free-upgrade-plumbing.world-skill.ts
+deleted file mode 100644
+index e0d8cacdca3198a0bb4c0dad463b4123936d506c..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/free-upgrade-plumbing.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const freeUpgradePlumbing = {
+-  id: "01a06575-9810-72fd-9774-a14fbad3ca75",
+-  pageTypeSlug: "world-skill",
+-  slug: "free-upgrade-plumbing",
+-  title: "Free Upgrade (Plumbing)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/free-upgrade-plumbing/free-upgrade-plumbing.world-skill.ts b/story/world-mechanics/world-skills/pages/free-upgrade-plumbing/free-upgrade-plumbing.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e0ba5437709e854c41061b2df1337db10d147076
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/free-upgrade-plumbing/free-upgrade-plumbing.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const freeUpgradePlumbing = {
++  id: "01a06575-9810-72fd-9774-a14fbad3ca75",
++  pageTypeSlug: "world-skill",
++  slug: "free-upgrade-plumbing",
++  title: "Free Upgrade (Plumbing)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/fur-of-the-fortress-form.world-skill.ts b/story/world-mechanics/world-skills/pages/fur-of-the-fortress-form.world-skill.ts
+deleted file mode 100644
+index 4439bc62a0701acade642aaeb781a7e42e80fa20..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/fur-of-the-fortress-form.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const furOfTheFortressForm = {
+-  id: "01a06575-9811-7833-aed2-526708cf42db",
+-  pageTypeSlug: "world-skill",
+-  slug: "fur-of-the-fortress-form",
+-  title: "Fur of the Fortress form",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/fur-of-the-fortress-form/fur-of-the-fortress-form.world-skill.ts b/story/world-mechanics/world-skills/pages/fur-of-the-fortress-form/fur-of-the-fortress-form.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f2f26ea79acd1e90bae3f9644466ace6316002c2
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/fur-of-the-fortress-form/fur-of-the-fortress-form.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const furOfTheFortressForm = {
++  id: "01a06575-9811-7833-aed2-526708cf42db",
++  pageTypeSlug: "world-skill",
++  slug: "fur-of-the-fortress-form",
++  title: "Fur of the Fortress form",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/gift-of-the-reclaimer-walled-cities.world-skill.ts b/story/world-mechanics/world-skills/pages/gift-of-the-reclaimer-walled-cities.world-skill.ts
+deleted file mode 100644
+index 79496f52f5077024901f23beab0fe83d0afadb84..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/gift-of-the-reclaimer-walled-cities.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const giftOfTheReclaimerWalledCities = {
+-  id: "01a06575-9815-78a8-be1f-b979127f1cad",
+-  pageTypeSlug: "world-skill",
+-  slug: "gift-of-the-reclaimer-walled-cities",
+-  title: "Gift of the Reclaimer (Walled Cities)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/gift-of-the-reclaimer-walled-cities/gift-of-the-reclaimer-walled-cities.world-skill.ts b/story/world-mechanics/world-skills/pages/gift-of-the-reclaimer-walled-cities/gift-of-the-reclaimer-walled-cities.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..38fd0d7f68194c5cb4797eef1a8ccba7d666618a
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/gift-of-the-reclaimer-walled-cities/gift-of-the-reclaimer-walled-cities.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const giftOfTheReclaimerWalledCities = {
++  id: "01a06575-9815-78a8-be1f-b979127f1cad",
++  pageTypeSlug: "world-skill",
++  slug: "gift-of-the-reclaimer-walled-cities",
++  title: "Gift of the Reclaimer (Walled Cities)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/gnoll-drake-command.world-skill.ts b/story/world-mechanics/world-skills/pages/gnoll-drake-command.world-skill.ts
+deleted file mode 100644
+index 7df0b441ef3d630516166626788471d01551891a..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/gnoll-drake-command.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const gnollDrakeCommand = {
+-  id: "01a06575-9815-7674-9cd4-42cb87f9d628",
+-  pageTypeSlug: "world-skill",
+-  slug: "gnoll-drake-command",
+-  title: "Gnoll-Drake Command",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/gnoll-drake-command/gnoll-drake-command.world-skill.ts b/story/world-mechanics/world-skills/pages/gnoll-drake-command/gnoll-drake-command.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..28614bb00798155897eebeaa07cf28d2e1307395
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/gnoll-drake-command/gnoll-drake-command.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const gnollDrakeCommand = {
++  id: "01a06575-9815-7674-9cd4-42cb87f9d628",
++  pageTypeSlug: "world-skill",
++  slug: "gnoll-drake-command",
++  title: "Gnoll-Drake Command",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/goblin-cookbook.world-skill.ts b/story/world-mechanics/world-skills/pages/goblin-cookbook.world-skill.ts
+deleted file mode 100644
+index 8f19e0837ca60b1a2f4b8ff2c7d0fbb135888f60..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/goblin-cookbook.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const goblinCookbook = {
+-  id: "01a06575-9815-796d-9eb9-66754e54c5a5",
+-  pageTypeSlug: "world-skill",
+-  slug: "goblin-cookbook",
+-  title: "Goblin Cookbook",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/goblin-cookbook/goblin-cookbook.world-skill.ts b/story/world-mechanics/world-skills/pages/goblin-cookbook/goblin-cookbook.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..12ea249f4463e73bc71c33eaff8cb80f2051f407
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/goblin-cookbook/goblin-cookbook.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const goblinCookbook = {
++  id: "01a06575-9815-796d-9eb9-66754e54c5a5",
++  pageTypeSlug: "world-skill",
++  slug: "goblin-cookbook",
++  title: "Goblin Cookbook",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/goblin-s-smile.world-skill.ts b/story/world-mechanics/world-skills/pages/goblin-s-smile.world-skill.ts
+deleted file mode 100644
+index e1638d717caaefb7a3fb357f49a7fa7f98745f74..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/goblin-s-smile.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const goblinSSmile = {
+-  id: "01a06575-9815-7c31-9916-764014b43e9b",
+-  pageTypeSlug: "world-skill",
+-  slug: "goblin-s-smile",
+-  title: "Goblin’s Smile",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/goblin-s-smile/goblin-s-smile.world-skill.ts b/story/world-mechanics/world-skills/pages/goblin-s-smile/goblin-s-smile.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2e0faf2a6021f96866a7c750af7234b9cf9837d4
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/goblin-s-smile/goblin-s-smile.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const goblinSSmile = {
++  id: "01a06575-9815-7c31-9916-764014b43e9b",
++  pageTypeSlug: "world-skill",
++  slug: "goblin-s-smile",
++  title: "Goblin’s Smile",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/grand-diplomacy-move-the-hearts-of-all-that-think.world-skill.ts b/story/world-mechanics/world-skills/pages/grand-diplomacy-move-the-hearts-of-all-that-think.world-skill.ts
+deleted file mode 100644
+index cca2544487a04bd3a73e445fcf61897da466dcbb..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/grand-diplomacy-move-the-hearts-of-all-that-think.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const grandDiplomacyMoveTheHeartsOfAllThatThink = {
+-  id: "01a06575-9816-79b9-ae37-34f0a724cf00",
+-  pageTypeSlug: "world-skill",
+-  slug: "grand-diplomacy-move-the-hearts-of-all-that-think",
+-  title: "Grand Diplomacy: Move the Hearts of All That Think",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/grand-diplomacy-move-the-hearts-of-all-that-think/grand-diplomacy-move-the-hearts-of-all-that-think.world-skill.ts b/story/world-mechanics/world-skills/pages/grand-diplomacy-move-the-hearts-of-all-that-think/grand-diplomacy-move-the-hearts-of-all-that-think.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cfd8ec0cd612089b9185c5dd27306892df7a4afa
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/grand-diplomacy-move-the-hearts-of-all-that-think/grand-diplomacy-move-the-hearts-of-all-that-think.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const grandDiplomacyMoveTheHeartsOfAllThatThink = {
++  id: "01a06575-9816-79b9-ae37-34f0a724cf00",
++  pageTypeSlug: "world-skill",
++  slug: "grand-diplomacy-move-the-hearts-of-all-that-think",
++  title: "Grand Diplomacy: Move the Hearts of All That Think",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/heavily-reinforced-pipes.world-skill.ts b/story/world-mechanics/world-skills/pages/heavily-reinforced-pipes.world-skill.ts
+deleted file mode 100644
+index 6f80122521efbf0eba7c237c4a38566949995f19..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/heavily-reinforced-pipes.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const heavilyReinforcedPipes = {
+-  id: "01a06575-9819-74b0-a331-5f99cd04326a",
+-  pageTypeSlug: "world-skill",
+-  slug: "heavily-reinforced-pipes",
+-  title: "Heavily Reinforced Pipes",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/heavily-reinforced-pipes/heavily-reinforced-pipes.world-skill.ts b/story/world-mechanics/world-skills/pages/heavily-reinforced-pipes/heavily-reinforced-pipes.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2ab98b79af5a7aedaf4b0df88f81320a575c5c41
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/heavily-reinforced-pipes/heavily-reinforced-pipes.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const heavilyReinforcedPipes = {
++  id: "01a06575-9819-74b0-a331-5f99cd04326a",
++  pageTypeSlug: "world-skill",
++  slug: "heavily-reinforced-pipes",
++  title: "Heavily Reinforced Pipes",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/helper-s-increased-experience-the-wandering-inn.world-skill.ts b/story/world-mechanics/world-skills/pages/helper-s-increased-experience-the-wandering-inn.world-skill.ts
+deleted file mode 100644
+index 470c24a0f9b2132fcac9e33f7a9a883a18d47fab..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/helper-s-increased-experience-the-wandering-inn.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const helperSIncreasedExperienceTheWanderingInn = {
+-  id: "01a06575-9819-7073-a5bd-e8676147e4e0",
+-  pageTypeSlug: "world-skill",
+-  slug: "helper-s-increased-experience-the-wandering-inn",
+-  title: "Helper’s Increased Experience (The Wandering Inn)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/helper-s-increased-experience-the-wandering-inn/helper-s-increased-experience-the-wandering-inn.world-skill.ts b/story/world-mechanics/world-skills/pages/helper-s-increased-experience-the-wandering-inn/helper-s-increased-experience-the-wandering-inn.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b4305ad4510cce9bd40b39768fc619c705554b9c
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/helper-s-increased-experience-the-wandering-inn/helper-s-increased-experience-the-wandering-inn.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const helperSIncreasedExperienceTheWanderingInn = {
++  id: "01a06575-9819-7073-a5bd-e8676147e4e0",
++  pageTypeSlug: "world-skill",
++  slug: "helper-s-increased-experience-the-wandering-inn",
++  title: "Helper’s Increased Experience (The Wandering Inn)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/hexer-s-rebuke.world-skill.ts b/story/world-mechanics/world-skills/pages/hexer-s-rebuke.world-skill.ts
+deleted file mode 100644
+index afa7cca6357eaa67a94ebef924ccaa3453acae2c..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/hexer-s-rebuke.world-skill.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const hexerSRebuke = {
+-  id: "01a06575-9819-7f5d-af89-ae474a186d03",
+-  pageTypeSlug: "world-skill",
+-  slug: "hexer-s-rebuke",
+-  title: "Hexer’s Rebuke",
+-  worldSlug: "the-wandering-inn",
+-  evolvesFromSlugs: ["dizzying-rebuke"],
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/hexer-s-rebuke/hexer-s-rebuke.world-skill.ts b/story/world-mechanics/world-skills/pages/hexer-s-rebuke/hexer-s-rebuke.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d831b7d55bbaef9d012193a9303bee2aa5ee7c73
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/hexer-s-rebuke/hexer-s-rebuke.world-skill.ts
+@@ -0,0 +1,10 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const hexerSRebuke = {
++  id: "01a06575-9819-7f5d-af89-ae474a186d03",
++  pageTypeSlug: "world-skill",
++  slug: "hexer-s-rebuke",
++  title: "Hexer’s Rebuke",
++  worldSlug: "the-wandering-inn",
++  evolvesFromSlugs: ["dizzying-rebuke"],
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/huge-chomp.world-skill.ts b/story/world-mechanics/world-skills/pages/huge-chomp.world-skill.ts
+deleted file mode 100644
+index acd5570c3abfe71cf16e094247045cf93ded1bb6..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/huge-chomp.world-skill.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const hugeChomp = {
+-  id: "01a06575-981b-7329-bf93-d934fd79e599",
+-  pageTypeSlug: "world-skill",
+-  slug: "huge-chomp",
+-  title: "Huge Chomp",
+-  worldSlug: "the-wandering-inn",
+-  evolvesToSlugs: ["yawning-bite"],
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/huge-chomp/huge-chomp.world-skill.ts b/story/world-mechanics/world-skills/pages/huge-chomp/huge-chomp.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..205e5b4c90f9df7160ee167dfb7aa8b4693fe5bf
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/huge-chomp/huge-chomp.world-skill.ts
+@@ -0,0 +1,10 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const hugeChomp = {
++  id: "01a06575-981b-7329-bf93-d934fd79e599",
++  pageTypeSlug: "world-skill",
++  slug: "huge-chomp",
++  title: "Huge Chomp",
++  worldSlug: "the-wandering-inn",
++  evolvesToSlugs: ["yawning-bite"],
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/i-keep-my-promises-nerul-gemscale.world-skill.ts b/story/world-mechanics/world-skills/pages/i-keep-my-promises-nerul-gemscale.world-skill.ts
+deleted file mode 100644
+index 1a77a2aeb714fe5c15bf0abd56bf0a9635094f72..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/i-keep-my-promises-nerul-gemscale.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const iKeepMyPromisesNerulGemscale = {
+-  id: "01a06575-981b-7736-980b-d9af28c366b8",
+-  pageTypeSlug: "world-skill",
+-  slug: "i-keep-my-promises-nerul-gemscale",
+-  title: "I Keep My Promises (Nerul Gemscale)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/i-keep-my-promises-nerul-gemscale/i-keep-my-promises-nerul-gemscale.world-skill.ts b/story/world-mechanics/world-skills/pages/i-keep-my-promises-nerul-gemscale/i-keep-my-promises-nerul-gemscale.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5a892097f025758b3c47a0205e96e767962e3e2e
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/i-keep-my-promises-nerul-gemscale/i-keep-my-promises-nerul-gemscale.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const iKeepMyPromisesNerulGemscale = {
++  id: "01a06575-981b-7736-980b-d9af28c366b8",
++  pageTypeSlug: "world-skill",
++  slug: "i-keep-my-promises-nerul-gemscale",
++  title: "I Keep My Promises (Nerul Gemscale)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/if-i-keep-talking-you-ll-see-it-my-way.world-skill.ts b/story/world-mechanics/world-skills/pages/if-i-keep-talking-you-ll-see-it-my-way.world-skill.ts
+deleted file mode 100644
+index 7a77d205c4d582e48c49af3486b4bcb1291f0b5b..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/if-i-keep-talking-you-ll-see-it-my-way.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const ifIKeepTalkingYouLlSeeItMyWay = {
+-  id: "01a06575-981c-770a-a17e-e4a57cd5df24",
+-  pageTypeSlug: "world-skill",
+-  slug: "if-i-keep-talking-you-ll-see-it-my-way",
+-  title: "If I Keep Talking You’ll See It My Way",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/if-i-keep-talking-you-ll-see-it-my-way/if-i-keep-talking-you-ll-see-it-my-way.world-skill.ts b/story/world-mechanics/world-skills/pages/if-i-keep-talking-you-ll-see-it-my-way/if-i-keep-talking-you-ll-see-it-my-way.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..af667a68915d5c23c12365634a9aeef85ee8e8c3
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/if-i-keep-talking-you-ll-see-it-my-way/if-i-keep-talking-you-ll-see-it-my-way.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const ifIKeepTalkingYouLlSeeItMyWay = {
++  id: "01a06575-981c-770a-a17e-e4a57cd5df24",
++  pageTypeSlug: "world-skill",
++  slug: "if-i-keep-talking-you-ll-see-it-my-way",
++  title: "If I Keep Talking You’ll See It My Way",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/imperial-aura-true-manipulation.world-skill.ts b/story/world-mechanics/world-skills/pages/imperial-aura-true-manipulation.world-skill.ts
+deleted file mode 100644
+index bb5907e9d37deac4628ac7c09b23284ea40117ad..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/imperial-aura-true-manipulation.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const imperialAuraTrueManipulation = {
+-  id: "01a06575-981d-7dcb-a682-8ccd87288b37",
+-  pageTypeSlug: "world-skill",
+-  slug: "imperial-aura-true-manipulation",
+-  title: "Imperial Aura: True Manipulation",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/imperial-aura-true-manipulation/imperial-aura-true-manipulation.world-skill.ts b/story/world-mechanics/world-skills/pages/imperial-aura-true-manipulation/imperial-aura-true-manipulation.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4df6eaa4c761bdb6949e5c98f3f44b970ee77476
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/imperial-aura-true-manipulation/imperial-aura-true-manipulation.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const imperialAuraTrueManipulation = {
++  id: "01a06575-981d-7dcb-a682-8ccd87288b37",
++  pageTypeSlug: "world-skill",
++  slug: "imperial-aura-true-manipulation",
++  title: "Imperial Aura: True Manipulation",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/impressive-dodge.world-skill.ts b/story/world-mechanics/world-skills/pages/impressive-dodge.world-skill.ts
+deleted file mode 100644
+index 3f72ff6ca7ec9117e2515df41e0a6238b9409a7d..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/impressive-dodge.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const impressiveDodge = {
+-  id: "01a06575-981d-7422-a69f-695522067ee1",
+-  pageTypeSlug: "world-skill",
+-  slug: "impressive-dodge",
+-  title: "Impressive Dodge",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/impressive-dodge/impressive-dodge.world-skill.ts b/story/world-mechanics/world-skills/pages/impressive-dodge/impressive-dodge.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c36224165c07620a1c0c1e823d8f7c485ba629d0
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/impressive-dodge/impressive-dodge.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const impressiveDodge = {
++  id: "01a06575-981d-7422-a69f-695522067ee1",
++  pageTypeSlug: "world-skill",
++  slug: "impressive-dodge",
++  title: "Impressive Dodge",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/inkless-fur-re.world-skill.ts b/story/world-mechanics/world-skills/pages/inkless-fur-re.world-skill.ts
+deleted file mode 100644
+index e493f896a70e3023f2faa26e2b71cb00bc826ec1..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/inkless-fur-re.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const inklessFurRe = {
+-  id: "01a06575-981e-7e7d-8275-cd87bbb845d7",
+-  pageTypeSlug: "world-skill",
+-  slug: "inkless-fur-re",
+-  title: "Inkless Fur Re",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/inkless-fur-re/inkless-fur-re.world-skill.ts b/story/world-mechanics/world-skills/pages/inkless-fur-re/inkless-fur-re.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6f2b6e48bb247902f03f60a789cbb3f9251a004f
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/inkless-fur-re/inkless-fur-re.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const inklessFurRe = {
++  id: "01a06575-981e-7e7d-8275-cd87bbb845d7",
++  pageTypeSlug: "world-skill",
++  slug: "inkless-fur-re",
++  title: "Inkless Fur Re",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/innkeeper-convert-object-food-inefficient.world-skill.ts b/story/world-mechanics/world-skills/pages/innkeeper-convert-object-food-inefficient.world-skill.ts
+deleted file mode 100644
+index b9499a870e82e276d3bd4ed5113c5ff9e9a7d026..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/innkeeper-convert-object-food-inefficient.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const innkeeperConvertObjectFoodInefficient = {
+-  id: "01a06575-981f-7952-98d6-f3b570033c24",
+-  pageTypeSlug: "world-skill",
+-  slug: "innkeeper-convert-object-food-inefficient",
+-  title: "Innkeeper – Convert Object: Food (Inefficient)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/innkeeper-convert-object-food-inefficient/innkeeper-convert-object-food-inefficient.world-skill.ts b/story/world-mechanics/world-skills/pages/innkeeper-convert-object-food-inefficient/innkeeper-convert-object-food-inefficient.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b599de59447f05f877a2d65743bdcd48e6753143
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/innkeeper-convert-object-food-inefficient/innkeeper-convert-object-food-inefficient.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const innkeeperConvertObjectFoodInefficient = {
++  id: "01a06575-981f-7952-98d6-f3b570033c24",
++  pageTypeSlug: "world-skill",
++  slug: "innkeeper-convert-object-food-inefficient",
++  title: "Innkeeper – Convert Object: Food (Inefficient)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/innkeeper-lease-lesser-room.world-skill.ts b/story/world-mechanics/world-skills/pages/innkeeper-lease-lesser-room.world-skill.ts
+deleted file mode 100644
+index 3f8679c64bd52eb0e261e63522ef225641911b88..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/innkeeper-lease-lesser-room.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const innkeeperLeaseLesserRoom = {
+-  id: "01a06575-981f-786f-80de-3dbbb26cc9cd",
+-  pageTypeSlug: "world-skill",
+-  slug: "innkeeper-lease-lesser-room",
+-  title: "Innkeeper – Lease Lesser Room",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/innkeeper-lease-lesser-room/innkeeper-lease-lesser-room.world-skill.ts b/story/world-mechanics/world-skills/pages/innkeeper-lease-lesser-room/innkeeper-lease-lesser-room.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d1f74cbd41a5a04564ac039e98d1f9a8e3932e47
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/innkeeper-lease-lesser-room/innkeeper-lease-lesser-room.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const innkeeperLeaseLesserRoom = {
++  id: "01a06575-981f-786f-80de-3dbbb26cc9cd",
++  pageTypeSlug: "world-skill",
++  slug: "innkeeper-lease-lesser-room",
++  title: "Innkeeper – Lease Lesser Room",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/intensify.world-skill.ts b/story/world-mechanics/world-skills/pages/intensify.world-skill.ts
+deleted file mode 100644
+index 179873a07a1d3ddd1fd6c5501c6372c905f6a040..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/intensify.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const intensify = {
+-  id: "01a06575-9820-70d4-9f81-38c0697fb24f",
+-  pageTypeSlug: "world-skill",
+-  slug: "intensify",
+-  title: "Intensify",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/intensify/intensify.world-skill.ts b/story/world-mechanics/world-skills/pages/intensify/intensify.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..14826bfb6b705dafbfb2f4e60ef34e7846c66f48
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/intensify/intensify.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const intensify = {
++  id: "01a06575-9820-70d4-9f81-38c0697fb24f",
++  pageTypeSlug: "world-skill",
++  slug: "intensify",
++  title: "Intensify",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/keen-shot.world-skill.ts b/story/world-mechanics/world-skills/pages/keen-shot.world-skill.ts
+deleted file mode 100644
+index 2b6d2f9bfb4daa38c485a24ebc1094c00e23a3e7..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/keen-shot.world-skill.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const keenShot = {
+-  id: "01a06575-9821-77bb-9c01-a28c06201358",
+-  pageTypeSlug: "world-skill",
+-  slug: "keen-shot",
+-  title: "Keen Shot",
+-  worldSlug: "the-wandering-inn",
+-  evolvesToSlugs: ["silverstake-spreadshot"],
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/keen-shot/keen-shot.world-skill.ts b/story/world-mechanics/world-skills/pages/keen-shot/keen-shot.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9881b2deb226129e6f736ed3d32991d46024babb
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/keen-shot/keen-shot.world-skill.ts
+@@ -0,0 +1,10 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const keenShot = {
++  id: "01a06575-9821-77bb-9c01-a28c06201358",
++  pageTypeSlug: "world-skill",
++  slug: "keen-shot",
++  title: "Keen Shot",
++  worldSlug: "the-wandering-inn",
++  evolvesToSlugs: ["silverstake-spreadshot"],
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/lesser-immunity-fate-re.world-skill.ts b/story/world-mechanics/world-skills/pages/lesser-immunity-fate-re.world-skill.ts
+deleted file mode 100644
+index 37b110593fc5bc8cbfdd6bda09344d77d8203081..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/lesser-immunity-fate-re.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const lesserImmunityFateRe = {
+-  id: "01a06575-9822-7b5a-9f50-b7e4e744e896",
+-  pageTypeSlug: "world-skill",
+-  slug: "lesser-immunity-fate-re",
+-  title: "Lesser Immunity: Fate Re",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/lesser-immunity-fate-re/lesser-immunity-fate-re.world-skill.ts b/story/world-mechanics/world-skills/pages/lesser-immunity-fate-re/lesser-immunity-fate-re.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ce87948064a661cee92a2d07e439ff6a8fe0d29e
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/lesser-immunity-fate-re/lesser-immunity-fate-re.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const lesserImmunityFateRe = {
++  id: "01a06575-9822-7b5a-9f50-b7e4e744e896",
++  pageTypeSlug: "world-skill",
++  slug: "lesser-immunity-fate-re",
++  title: "Lesser Immunity: Fate Re",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/lesser-speed-golems.world-skill.ts b/story/world-mechanics/world-skills/pages/lesser-speed-golems.world-skill.ts
+deleted file mode 100644
+index dbeb231c40efc03230700a327911d8497d75d924..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/lesser-speed-golems.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const lesserSpeedGolems = {
+-  id: "01a06575-9823-76bd-bb7a-4c2189929ad0",
+-  pageTypeSlug: "world-skill",
+-  slug: "lesser-speed-golems",
+-  title: "Lesser Speed (Golems)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/lesser-speed-golems/lesser-speed-golems.world-skill.ts b/story/world-mechanics/world-skills/pages/lesser-speed-golems/lesser-speed-golems.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..79aaa6775197be70ebb03cc98690d70fe5a398f0
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/lesser-speed-golems/lesser-speed-golems.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const lesserSpeedGolems = {
++  id: "01a06575-9823-76bd-bb7a-4c2189929ad0",
++  pageTypeSlug: "world-skill",
++  slug: "lesser-speed-golems",
++  title: "Lesser Speed (Golems)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/lesser-toughness-re.world-skill.ts b/story/world-mechanics/world-skills/pages/lesser-toughness-re.world-skill.ts
+deleted file mode 100644
+index ad3d52c4d7dddfb6e5c52ca4bf61a291570178d8..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/lesser-toughness-re.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const lesserToughnessRe = {
+-  id: "01a06575-9823-7841-949d-89f4728ca980",
+-  pageTypeSlug: "world-skill",
+-  slug: "lesser-toughness-re",
+-  title: "Lesser Toughness Re",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/lesser-toughness-re/lesser-toughness-re.world-skill.ts b/story/world-mechanics/world-skills/pages/lesser-toughness-re/lesser-toughness-re.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..031b60291eff169a53957b51d5d4be4416a3ff44
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/lesser-toughness-re/lesser-toughness-re.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const lesserToughnessRe = {
++  id: "01a06575-9823-7841-949d-89f4728ca980",
++  pageTypeSlug: "world-skill",
++  slug: "lesser-toughness-re",
++  title: "Lesser Toughness Re",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/line-ending-inferno.world-skill.ts b/story/world-mechanics/world-skills/pages/line-ending-inferno.world-skill.ts
+deleted file mode 100644
+index 336ddc066920505fb68bac1d3db20814b3b7f23b..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/line-ending-inferno.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const lineEndingInferno = {
+-  id: "01a0657d-023f-7fe7-b055-32eb43ec3643",
+-  pageTypeSlug: "world-skill",
+-  slug: "line-ending-inferno",
+-  title: "Line-Ending Inferno",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/line-ending-inferno/line-ending-inferno.world-skill.ts b/story/world-mechanics/world-skills/pages/line-ending-inferno/line-ending-inferno.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..edbacd0513047ca2ac9a4be3d1f2d7623ce2c4c3
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/line-ending-inferno/line-ending-inferno.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const lineEndingInferno = {
++  id: "01a0657d-023f-7fe7-b055-32eb43ec3643",
++  pageTypeSlug: "world-skill",
++  slug: "line-ending-inferno",
++  title: "Line-Ending Inferno",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/local-landmark-liscor.world-skill.ts b/story/world-mechanics/world-skills/pages/local-landmark-liscor.world-skill.ts
+deleted file mode 100644
+index c7141ace224e39ccd497dfbb6bb8a663a531c7e2..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/local-landmark-liscor.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const localLandmarkLiscor = {
+-  id: "01a0657d-0240-76bd-a108-cd30ba2d437c",
+-  pageTypeSlug: "world-skill",
+-  slug: "local-landmark-liscor",
+-  title: "Local Landmark: Liscor",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/local-landmark-liscor/local-landmark-liscor.world-skill.ts b/story/world-mechanics/world-skills/pages/local-landmark-liscor/local-landmark-liscor.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..91cdb98b7ba43e42992339d1ff6245d8d79cdca1
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/local-landmark-liscor/local-landmark-liscor.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const localLandmarkLiscor = {
++  id: "01a0657d-0240-76bd-a108-cd30ba2d437c",
++  pageTypeSlug: "world-skill",
++  slug: "local-landmark-liscor",
++  title: "Local Landmark: Liscor",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/locate-my-people-s-legacies.world-skill.ts b/story/world-mechanics/world-skills/pages/locate-my-people-s-legacies.world-skill.ts
+deleted file mode 100644
+index 481057525bf31bf151173d335b096c93e203b283..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/locate-my-people-s-legacies.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const locateMyPeopleSLegacies = {
+-  id: "01a0657d-0240-7ffd-8e88-e0eb240c56d4",
+-  pageTypeSlug: "world-skill",
+-  slug: "locate-my-people-s-legacies",
+-  title: "Locate My People’s Legacies",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/locate-my-people-s-legacies/locate-my-people-s-legacies.world-skill.ts b/story/world-mechanics/world-skills/pages/locate-my-people-s-legacies/locate-my-people-s-legacies.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3e786a1cd4903eb79b4109b6291e42d7fa0dde83
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/locate-my-people-s-legacies/locate-my-people-s-legacies.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const locateMyPeopleSLegacies = {
++  id: "01a0657d-0240-7ffd-8e88-e0eb240c56d4",
++  pageTypeSlug: "world-skill",
++  slug: "locate-my-people-s-legacies",
++  title: "Locate My People’s Legacies",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/lucky-charge.world-skill.ts b/story/world-mechanics/world-skills/pages/lucky-charge.world-skill.ts
+deleted file mode 100644
+index f1bea163768f1084c4ebc5c108e3375d64bb14f4..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/lucky-charge.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const luckyCharge = {
+-  id: "01a0657d-0241-7c87-902f-990e3f250906",
+-  pageTypeSlug: "world-skill",
+-  slug: "lucky-charge",
+-  title: "Lucky Charge",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/lucky-charge/lucky-charge.world-skill.ts b/story/world-mechanics/world-skills/pages/lucky-charge/lucky-charge.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..82e8f57e0263a103ea8999cd48f88491713f331f
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/lucky-charge/lucky-charge.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const luckyCharge = {
++  id: "01a0657d-0241-7c87-902f-990e3f250906",
++  pageTypeSlug: "world-skill",
++  slug: "lucky-charge",
++  title: "Lucky Charge",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/lucky-moment-re.world-skill.ts b/story/world-mechanics/world-skills/pages/lucky-moment-re.world-skill.ts
+deleted file mode 100644
+index fdc5123e7c9c8a124c97c1e2d03b86abf10910c5..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/lucky-moment-re.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const luckyMomentRe = {
+-  id: "01a0657d-0241-7538-b44f-a9b0cecb0a0c",
+-  pageTypeSlug: "world-skill",
+-  slug: "lucky-moment-re",
+-  title: "Lucky Moment Re",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/lucky-moment-re/lucky-moment-re.world-skill.ts b/story/world-mechanics/world-skills/pages/lucky-moment-re/lucky-moment-re.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2e2ac65f8e687eb5c973139503a8834a45973042
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/lucky-moment-re/lucky-moment-re.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const luckyMomentRe = {
++  id: "01a0657d-0241-7538-b44f-a9b0cecb0a0c",
++  pageTypeSlug: "world-skill",
++  slug: "lucky-moment-re",
++  title: "Lucky Moment Re",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/mass-restore-stamina.world-skill.ts b/story/world-mechanics/world-skills/pages/mass-restore-stamina.world-skill.ts
+deleted file mode 100644
+index e52e34067352868085c9e09467e755fc35325a9a..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/mass-restore-stamina.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const massRestoreStamina = {
+-  id: "01a0657d-024b-78fb-a1c7-a6428647ede4",
+-  pageTypeSlug: "world-skill",
+-  slug: "mass-restore-stamina",
+-  title: "Mass Restore Stamina",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/mass-restore-stamina/mass-restore-stamina.world-skill.ts b/story/world-mechanics/world-skills/pages/mass-restore-stamina/mass-restore-stamina.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..522d037794d86805db30c54d627f5a2c25ed80f6
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/mass-restore-stamina/mass-restore-stamina.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const massRestoreStamina = {
++  id: "01a0657d-024b-78fb-a1c7-a6428647ede4",
++  pageTypeSlug: "world-skill",
++  slug: "mass-restore-stamina",
++  title: "Mass Restore Stamina",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/memorize-elementary-homework-re.world-skill.ts b/story/world-mechanics/world-skills/pages/memorize-elementary-homework-re.world-skill.ts
+deleted file mode 100644
+index cc55fc211c29e164f5e049df76bac0bd11d2f0aa..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/memorize-elementary-homework-re.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const memorizeElementaryHomeworkRe = {
+-  id: "01a0657d-024c-7c4d-a89a-b328abd2f8d5",
+-  pageTypeSlug: "world-skill",
+-  slug: "memorize-elementary-homework-re",
+-  title: "Memorize Elementary Homework Re",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/memorize-elementary-homework-re/memorize-elementary-homework-re.world-skill.ts b/story/world-mechanics/world-skills/pages/memorize-elementary-homework-re/memorize-elementary-homework-re.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..37be4c3b139881087ca0a292ca2e250966ccdc04
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/memorize-elementary-homework-re/memorize-elementary-homework-re.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const memorizeElementaryHomeworkRe = {
++  id: "01a0657d-024c-7c4d-a89a-b328abd2f8d5",
++  pageTypeSlug: "world-skill",
++  slug: "memorize-elementary-homework-re",
++  title: "Memorize Elementary Homework Re",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/memory-of-a-hundred-lifetimes.world-skill.ts b/story/world-mechanics/world-skills/pages/memory-of-a-hundred-lifetimes.world-skill.ts
+deleted file mode 100644
+index d0eeb47bdc11f0914429a5d3da466893e7019603..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/memory-of-a-hundred-lifetimes.world-skill.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const memoryOfAHundredLifetimes = {
+-  id: "01a0657d-024c-75bd-962b-69412b9244a6",
+-  pageTypeSlug: "world-skill",
+-  slug: "memory-of-a-hundred-lifetimes",
+-  title: "Memory of a Hundred Lifetimes",
+-  worldSlug: "the-wandering-inn",
+-  evolvesToSlugs: ["memory-of-a-thousand-lifetimes"],
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/memory-of-a-hundred-lifetimes/memory-of-a-hundred-lifetimes.world-skill.ts b/story/world-mechanics/world-skills/pages/memory-of-a-hundred-lifetimes/memory-of-a-hundred-lifetimes.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1f49f91b89c0ef52f988312cf8101e6d4e283ef0
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/memory-of-a-hundred-lifetimes/memory-of-a-hundred-lifetimes.world-skill.ts
+@@ -0,0 +1,10 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const memoryOfAHundredLifetimes = {
++  id: "01a0657d-024c-75bd-962b-69412b9244a6",
++  pageTypeSlug: "world-skill",
++  slug: "memory-of-a-hundred-lifetimes",
++  title: "Memory of a Hundred Lifetimes",
++  worldSlug: "the-wandering-inn",
++  evolvesToSlugs: ["memory-of-a-thousand-lifetimes"],
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/natural-allies-ogres.world-skill.ts b/story/world-mechanics/world-skills/pages/natural-allies-ogres.world-skill.ts
+deleted file mode 100644
+index 56e6b49dc673bb17093fee557fcadfbe243e54b1..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/natural-allies-ogres.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const naturalAlliesOgres = {
+-  id: "01a0657d-0271-75da-bcce-841298ef6c64",
+-  pageTypeSlug: "world-skill",
+-  slug: "natural-allies-ogres",
+-  title: "Natural Allies: Ogres",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/natural-allies-ogres/natural-allies-ogres.world-skill.ts b/story/world-mechanics/world-skills/pages/natural-allies-ogres/natural-allies-ogres.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c6b27a63ef9208707530ec9286bdadeea80bdf61
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/natural-allies-ogres/natural-allies-ogres.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const naturalAlliesOgres = {
++  id: "01a0657d-0271-75da-bcce-841298ef6c64",
++  pageTypeSlug: "world-skill",
++  slug: "natural-allies-ogres",
++  title: "Natural Allies: Ogres",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/natural-allies-sariant-lamb.world-skill.ts b/story/world-mechanics/world-skills/pages/natural-allies-sariant-lamb.world-skill.ts
+deleted file mode 100644
+index dea6098bfb05605b1f38deda0dabe1eb0306032f..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/natural-allies-sariant-lamb.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const naturalAlliesSariantLamb = {
+-  id: "01a0657d-0271-7780-b4d9-15ac29f446ea",
+-  pageTypeSlug: "world-skill",
+-  slug: "natural-allies-sariant-lamb",
+-  title: "Natural Allies: Sariant Lamb",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/natural-allies-sariant-lamb/natural-allies-sariant-lamb.world-skill.ts b/story/world-mechanics/world-skills/pages/natural-allies-sariant-lamb/natural-allies-sariant-lamb.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..15b04aebe1b9d40abef1e45ffbe44d91d3af6e9e
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/natural-allies-sariant-lamb/natural-allies-sariant-lamb.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const naturalAlliesSariantLamb = {
++  id: "01a0657d-0271-7780-b4d9-15ac29f446ea",
++  pageTypeSlug: "world-skill",
++  slug: "natural-allies-sariant-lamb",
++  title: "Natural Allies: Sariant Lamb",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/natural-gift-fortress-beavers-fur-of-the-fortress-re.world-skill.ts b/story/world-mechanics/world-skills/pages/natural-gift-fortress-beavers-fur-of-the-fortress-re.world-skill.ts
+deleted file mode 100644
+index fe4e5e49491d7dcc61c160edacd45a8b32b237cb..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/natural-gift-fortress-beavers-fur-of-the-fortress-re.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const naturalGiftFortressBeaversFurOfTheFortressRe = {
+-  id: "01a0657d-0271-7066-82f2-08b4e9f23108",
+-  pageTypeSlug: "world-skill",
+-  slug: "natural-gift-fortress-beavers-fur-of-the-fortress-re",
+-  title: "Natural Gift (Fortress Beavers): Fur of the Fortress Re",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/natural-gift-fortress-beavers-fur-of-the-fortress-re/natural-gift-fortress-beavers-fur-of-the-fortress-re.world-skill.ts b/story/world-mechanics/world-skills/pages/natural-gift-fortress-beavers-fur-of-the-fortress-re/natural-gift-fortress-beavers-fur-of-the-fortress-re.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7841a6888adc1b859e7ccf2f0925cbf29aaa7864
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/natural-gift-fortress-beavers-fur-of-the-fortress-re/natural-gift-fortress-beavers-fur-of-the-fortress-re.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const naturalGiftFortressBeaversFurOfTheFortressRe = {
++  id: "01a0657d-0271-7066-82f2-08b4e9f23108",
++  pageTypeSlug: "world-skill",
++  slug: "natural-gift-fortress-beavers-fur-of-the-fortress-re",
++  title: "Natural Gift (Fortress Beavers): Fur of the Fortress Re",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/never-late-to-work-bound-location.world-skill.ts b/story/world-mechanics/world-skills/pages/never-late-to-work-bound-location.world-skill.ts
+deleted file mode 100644
+index a7961eadb6d796765792a6383bcd119180c47e52..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/never-late-to-work-bound-location.world-skill.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const neverLateToWorkBoundLocation = {
+-  id: "01a0657d-027b-712e-af12-f44c0456f316",
+-  pageTypeSlug: "world-skill",
+-  slug: "never-late-to-work-bound-location",
+-  title: "Never Late To Work (Bound Location)",
+-  worldSlug: "the-wandering-inn",
+-  evolvesToSlugs: ["where-i-m-needed-i-am-6-locations"],
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/never-late-to-work-bound-location/never-late-to-work-bound-location.world-skill.ts b/story/world-mechanics/world-skills/pages/never-late-to-work-bound-location/never-late-to-work-bound-location.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..478c99a761a5f50aa69be696fc87b0c28d3e20a2
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/never-late-to-work-bound-location/never-late-to-work-bound-location.world-skill.ts
+@@ -0,0 +1,10 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const neverLateToWorkBoundLocation = {
++  id: "01a0657d-027b-712e-af12-f44c0456f316",
++  pageTypeSlug: "world-skill",
++  slug: "never-late-to-work-bound-location",
++  title: "Never Late To Work (Bound Location)",
++  worldSlug: "the-wandering-inn",
++  evolvesToSlugs: ["where-i-m-needed-i-am-6-locations"],
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/other-me-s.world-skill.ts b/story/world-mechanics/world-skills/pages/other-me-s.world-skill.ts
+deleted file mode 100644
+index c8a9f88a5b7ea2cbdc682b3be5f01e39b4b179ae..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/other-me-s.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const otherMeS = {
+-  id: "01a0657d-027d-7132-80da-fd59a7054972",
+-  pageTypeSlug: "world-skill",
+-  slug: "other-me-s",
+-  title: "Other Me’s",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/other-me-s/other-me-s.world-skill.ts b/story/world-mechanics/world-skills/pages/other-me-s/other-me-s.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a4ef2bdc9a1f51ff9ce4cf67f1eecabc2c45daad
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/other-me-s/other-me-s.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const otherMeS = {
++  id: "01a0657d-027d-7132-80da-fd59a7054972",
++  pageTypeSlug: "world-skill",
++  slug: "other-me-s",
++  title: "Other Me’s",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/overcharge.world-skill.ts b/story/world-mechanics/world-skills/pages/overcharge.world-skill.ts
+deleted file mode 100644
+index a20e5fc7478ca7039b8162fe2cbe4504c5d40b72..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/overcharge.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const overcharge = {
+-  id: "01a0657d-027f-7a5d-a0b1-a52a66b67cbc",
+-  pageTypeSlug: "world-skill",
+-  slug: "overcharge",
+-  title: "Overcharge",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/overcharge/overcharge.world-skill.ts b/story/world-mechanics/world-skills/pages/overcharge/overcharge.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..dfa579753271f5c06eec0e8b485e32ba2870b099
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/overcharge/overcharge.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const overcharge = {
++  id: "01a0657d-027f-7a5d-a0b1-a52a66b67cbc",
++  pageTypeSlug: "world-skill",
++  slug: "overcharge",
++  title: "Overcharge",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/overrule-authority.world-skill.ts b/story/world-mechanics/world-skills/pages/overrule-authority.world-skill.ts
+deleted file mode 100644
+index eb734dfcd88d330450dd1b06c5c70bc5423f9a32..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/overrule-authority.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const overruleAuthority = {
+-  id: "01a0657d-027f-7edb-856e-bc2059752c73",
+-  pageTypeSlug: "world-skill",
+-  slug: "overrule-authority",
+-  title: "Overrule Authority",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/overrule-authority/overrule-authority.world-skill.ts b/story/world-mechanics/world-skills/pages/overrule-authority/overrule-authority.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9c01ccdc352ac07d3145a4727b567c87530ce102
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/overrule-authority/overrule-authority.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const overruleAuthority = {
++  id: "01a0657d-027f-7edb-856e-bc2059752c73",
++  pageTypeSlug: "world-skill",
++  slug: "overrule-authority",
++  title: "Overrule Authority",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/pact-the-hard-working-lamb-sariant.world-skill.ts b/story/world-mechanics/world-skills/pages/pact-the-hard-working-lamb-sariant.world-skill.ts
+deleted file mode 100644
+index 354de110f6bb5a667a440d6a19180ea54ea7a38a..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/pact-the-hard-working-lamb-sariant.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const pactTheHardWorkingLambSariant = {
+-  id: "01a0657d-027f-7518-b4f7-a7d1cda59790",
+-  pageTypeSlug: "world-skill",
+-  slug: "pact-the-hard-working-lamb-sariant",
+-  title: "Pact: The Hard-Working Lamb (Sariant)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/pact-the-hard-working-lamb-sariant/pact-the-hard-working-lamb-sariant.world-skill.ts b/story/world-mechanics/world-skills/pages/pact-the-hard-working-lamb-sariant/pact-the-hard-working-lamb-sariant.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..63905fab103bd24a2b925a10b84200ba72936df7
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/pact-the-hard-working-lamb-sariant/pact-the-hard-working-lamb-sariant.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const pactTheHardWorkingLambSariant = {
++  id: "01a0657d-027f-7518-b4f7-a7d1cda59790",
++  pageTypeSlug: "world-skill",
++  slug: "pact-the-hard-working-lamb-sariant",
++  title: "Pact: The Hard-Working Lamb (Sariant)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/pass-on-enthusiasm.world-skill.ts b/story/world-mechanics/world-skills/pages/pass-on-enthusiasm.world-skill.ts
+deleted file mode 100644
+index 0667ee280b66bc31be407e2acc9e3fe68228c9fe..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/pass-on-enthusiasm.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const passOnEnthusiasm = {
+-  id: "01a0657d-0287-7b7b-b447-a03ddd4e290f",
+-  pageTypeSlug: "world-skill",
+-  slug: "pass-on-enthusiasm",
+-  title: "Pass On Enthusiasm",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/pass-on-enthusiasm/pass-on-enthusiasm.world-skill.ts b/story/world-mechanics/world-skills/pages/pass-on-enthusiasm/pass-on-enthusiasm.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b15f4b899fc7f902476ea8c6586a9e74dfa21f35
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/pass-on-enthusiasm/pass-on-enthusiasm.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const passOnEnthusiasm = {
++  id: "01a0657d-0287-7b7b-b447-a03ddd4e290f",
++  pageTypeSlug: "world-skill",
++  slug: "pass-on-enthusiasm",
++  title: "Pass On Enthusiasm",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/per-procura-walled-cities.world-skill.ts b/story/world-mechanics/world-skills/pages/per-procura-walled-cities.world-skill.ts
+deleted file mode 100644
+index b03d14705f25fae118c9ba6c67751a77dda8da4f..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/per-procura-walled-cities.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const perProcuraWalledCities = {
+-  id: "01a0657d-028e-7311-9176-03b69f231b52",
+-  pageTypeSlug: "world-skill",
+-  slug: "per-procura-walled-cities",
+-  title: "Per Procura (Walled Cities)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/per-procura-walled-cities/per-procura-walled-cities.world-skill.ts b/story/world-mechanics/world-skills/pages/per-procura-walled-cities/per-procura-walled-cities.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..38ae969997b483a4dedecfaa5b132c7c074f2ac2
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/per-procura-walled-cities/per-procura-walled-cities.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const perProcuraWalledCities = {
++  id: "01a0657d-028e-7311-9176-03b69f231b52",
++  pageTypeSlug: "world-skill",
++  slug: "per-procura-walled-cities",
++  title: "Per Procura (Walled Cities)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/personal-sewage-network-residential.world-skill.ts b/story/world-mechanics/world-skills/pages/personal-sewage-network-residential.world-skill.ts
+deleted file mode 100644
+index d595bf6288106876c9805de4982dc6d15d9a4ba4..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/personal-sewage-network-residential.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const personalSewageNetworkResidential = {
+-  id: "01a0657d-028f-759e-ade2-bcab31d35e23",
+-  pageTypeSlug: "world-skill",
+-  slug: "personal-sewage-network-residential",
+-  title: "Personal Sewage Network (Residential)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/personal-sewage-network-residential/personal-sewage-network-residential.world-skill.ts b/story/world-mechanics/world-skills/pages/personal-sewage-network-residential/personal-sewage-network-residential.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b244587f2af5f861a2883c7ddc71bf6f96886ae9
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/personal-sewage-network-residential/personal-sewage-network-residential.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const personalSewageNetworkResidential = {
++  id: "01a0657d-028f-759e-ade2-bcab31d35e23",
++  pageTypeSlug: "world-skill",
++  slug: "personal-sewage-network-residential",
++  title: "Personal Sewage Network (Residential)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/personal-sewage-network-service-line-ceramic.world-skill.ts b/story/world-mechanics/world-skills/pages/personal-sewage-network-service-line-ceramic.world-skill.ts
+deleted file mode 100644
+index 167aa2298dad39c24dd0fd6593e14a0782c77da6..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/personal-sewage-network-service-line-ceramic.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const personalSewageNetworkServiceLineCeramic = {
+-  id: "01a0657d-028f-7a8b-968b-8aa2b974ea8b",
+-  pageTypeSlug: "world-skill",
+-  slug: "personal-sewage-network-service-line-ceramic",
+-  title: "Personal Sewage Network: Service Line (Ceramic)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/personal-sewage-network-service-line-ceramic/personal-sewage-network-service-line-ceramic.world-skill.ts b/story/world-mechanics/world-skills/pages/personal-sewage-network-service-line-ceramic/personal-sewage-network-service-line-ceramic.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d4557ffc23e917510f980a86974a3862e400ec76
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/personal-sewage-network-service-line-ceramic/personal-sewage-network-service-line-ceramic.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const personalSewageNetworkServiceLineCeramic = {
++  id: "01a0657d-028f-7a8b-968b-8aa2b974ea8b",
++  pageTypeSlug: "world-skill",
++  slug: "personal-sewage-network-service-line-ceramic",
++  title: "Personal Sewage Network: Service Line (Ceramic)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/persuasion-of-the-heart-of-opulence.world-skill.ts b/story/world-mechanics/world-skills/pages/persuasion-of-the-heart-of-opulence.world-skill.ts
+deleted file mode 100644
+index 69ec2bf0bf7a0aeac8b33b9b03bac4aa4949a115..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/persuasion-of-the-heart-of-opulence.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const persuasionOfTheHeartOfOpulence = {
+-  id: "01a0657d-028f-762a-a815-ca9c73772dda",
+-  pageTypeSlug: "world-skill",
+-  slug: "persuasion-of-the-heart-of-opulence",
+-  title: "Persuasion of the Heart of Opulence",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/persuasion-of-the-heart-of-opulence/persuasion-of-the-heart-of-opulence.world-skill.ts b/story/world-mechanics/world-skills/pages/persuasion-of-the-heart-of-opulence/persuasion-of-the-heart-of-opulence.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7a28349da994430aea8005d3039f57d7c4f3d4d2
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/persuasion-of-the-heart-of-opulence/persuasion-of-the-heart-of-opulence.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const persuasionOfTheHeartOfOpulence = {
++  id: "01a0657d-028f-762a-a815-ca9c73772dda",
++  pageTypeSlug: "world-skill",
++  slug: "persuasion-of-the-heart-of-opulence",
++  title: "Persuasion of the Heart of Opulence",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/phoenix-s-tango.world-skill.ts b/story/world-mechanics/world-skills/pages/phoenix-s-tango.world-skill.ts
+deleted file mode 100644
+index d64244b9e353698fd21c4456cc86a22c3456b2ef..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/phoenix-s-tango.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const phoenixSTango = {
+-  id: "01a0657d-0290-725d-a4d0-d9aba1610857",
+-  pageTypeSlug: "world-skill",
+-  slug: "phoenix-s-tango",
+-  title: "Phoenix’s Tango",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/phoenix-s-tango/phoenix-s-tango.world-skill.ts b/story/world-mechanics/world-skills/pages/phoenix-s-tango/phoenix-s-tango.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8d4a821b3bf8957b3d1218b75db36ea5c90e5af2
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/phoenix-s-tango/phoenix-s-tango.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const phoenixSTango = {
++  id: "01a0657d-0290-725d-a4d0-d9aba1610857",
++  pageTypeSlug: "world-skill",
++  slug: "phoenix-s-tango",
++  title: "Phoenix’s Tango",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/pot-of-secrets.world-skill.ts b/story/world-mechanics/world-skills/pages/pot-of-secrets.world-skill.ts
+deleted file mode 100644
+index 0ba1cad21dd6af5aa8b2d960da1d467447eeae55..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/pot-of-secrets.world-skill.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const potOfSecrets = {
+-  id: "01a0657d-0295-7674-8469-c74c4e240161",
+-  pageTypeSlug: "world-skill",
+-  slug: "pot-of-secrets",
+-  title: "Pot of Secrets",
+-  worldSlug: "the-wandering-inn",
+-  evolvesToSlugs: ["pot-of-conspiracies"],
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/pot-of-secrets/pot-of-secrets.world-skill.ts b/story/world-mechanics/world-skills/pages/pot-of-secrets/pot-of-secrets.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..47e615ad10e9526bebae242cbbb4723139fedf79
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/pot-of-secrets/pot-of-secrets.world-skill.ts
+@@ -0,0 +1,10 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const potOfSecrets = {
++  id: "01a0657d-0295-7674-8469-c74c4e240161",
++  pageTypeSlug: "world-skill",
++  slug: "pot-of-secrets",
++  title: "Pot of Secrets",
++  worldSlug: "the-wandering-inn",
++  evolvesToSlugs: ["pot-of-conspiracies"],
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/power-jump.world-skill.ts b/story/world-mechanics/world-skills/pages/power-jump.world-skill.ts
+deleted file mode 100644
+index 54c7874d6746370514822275af6175d07b60589d..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/power-jump.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const powerJump = {
+-  id: "01a0657d-0295-737a-890f-f31b7a666c4c",
+-  pageTypeSlug: "world-skill",
+-  slug: "power-jump",
+-  title: "Power Jump",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/power-jump/power-jump.world-skill.ts b/story/world-mechanics/world-skills/pages/power-jump/power-jump.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c6eacec2c8a859d9299d8e76fe93a62b0e3a11b4
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/power-jump/power-jump.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const powerJump = {
++  id: "01a0657d-0295-737a-890f-f31b7a666c4c",
++  pageTypeSlug: "world-skill",
++  slug: "power-jump",
++  title: "Power Jump",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/purifying-blood-re.world-skill.ts b/story/world-mechanics/world-skills/pages/purifying-blood-re.world-skill.ts
+deleted file mode 100644
+index 3db455ad37da54719d05f8a244c4a659c5a67ecd..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/purifying-blood-re.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const purifyingBloodRe = {
+-  id: "01a0657d-029a-7e15-9514-0951ee485261",
+-  pageTypeSlug: "world-skill",
+-  slug: "purifying-blood-re",
+-  title: "Purifying Blood Re",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/purifying-blood-re/purifying-blood-re.world-skill.ts b/story/world-mechanics/world-skills/pages/purifying-blood-re/purifying-blood-re.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8a9fa21603724dd54374df24ec2fe85ceb1dcaf6
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/purifying-blood-re/purifying-blood-re.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const purifyingBloodRe = {
++  id: "01a0657d-029a-7e15-9514-0951ee485261",
++  pageTypeSlug: "world-skill",
++  slug: "purifying-blood-re",
++  title: "Purifying Blood Re",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/rally-the-crowds.world-skill.ts b/story/world-mechanics/world-skills/pages/rally-the-crowds.world-skill.ts
+deleted file mode 100644
+index b862281a8a24d65e9c6def931a1bf83f0a8a73d9..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/rally-the-crowds.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const rallyTheCrowds = {
+-  id: "01a0657d-029c-723e-9b74-b19244c91621",
+-  pageTypeSlug: "world-skill",
+-  slug: "rally-the-crowds",
+-  title: "Rally the Crowds",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/rally-the-crowds/rally-the-crowds.world-skill.ts b/story/world-mechanics/world-skills/pages/rally-the-crowds/rally-the-crowds.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..696000e2ade4238ae6e4cb33458851f7c27d55ce
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/rally-the-crowds/rally-the-crowds.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const rallyTheCrowds = {
++  id: "01a0657d-029c-723e-9b74-b19244c91621",
++  pageTypeSlug: "world-skill",
++  slug: "rally-the-crowds",
++  title: "Rally the Crowds",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/recall-my-greatest-hour.world-skill.ts b/story/world-mechanics/world-skills/pages/recall-my-greatest-hour.world-skill.ts
+deleted file mode 100644
+index 7bdf1988dbfb96325d904a31ae4ef03043f7f9c5..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/recall-my-greatest-hour.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const recallMyGreatestHour = {
+-  id: "01a0657d-02a5-7fff-9c3c-d45a025cdf03",
+-  pageTypeSlug: "world-skill",
+-  slug: "recall-my-greatest-hour",
+-  title: "Recall My Greatest Hour",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/recall-my-greatest-hour/recall-my-greatest-hour.world-skill.ts b/story/world-mechanics/world-skills/pages/recall-my-greatest-hour/recall-my-greatest-hour.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..47c40a8e7bd9966e8e1aec882a91e356a768c670
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/recall-my-greatest-hour/recall-my-greatest-hour.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const recallMyGreatestHour = {
++  id: "01a0657d-02a5-7fff-9c3c-d45a025cdf03",
++  pageTypeSlug: "world-skill",
++  slug: "recall-my-greatest-hour",
++  title: "Recall My Greatest Hour",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/recipe-parasytebane-brew.world-skill.ts b/story/world-mechanics/world-skills/pages/recipe-parasytebane-brew.world-skill.ts
+deleted file mode 100644
+index 54ac73412bdc5a64f2632ddf2aa17e7cc13f58d4..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/recipe-parasytebane-brew.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const recipeParasytebaneBrew = {
+-  id: "01a0657d-02a5-73cd-9c1c-0a3906426f29",
+-  pageTypeSlug: "world-skill",
+-  slug: "recipe-parasytebane-brew",
+-  title: "Recipe: Parasytebane Brew",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/recipe-parasytebane-brew/recipe-parasytebane-brew.world-skill.ts b/story/world-mechanics/world-skills/pages/recipe-parasytebane-brew/recipe-parasytebane-brew.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2967b2a42f8f6faae8801d0227b68dbedf7c2398
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/recipe-parasytebane-brew/recipe-parasytebane-brew.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const recipeParasytebaneBrew = {
++  id: "01a0657d-02a5-73cd-9c1c-0a3906426f29",
++  pageTypeSlug: "world-skill",
++  slug: "recipe-parasytebane-brew",
++  title: "Recipe: Parasytebane Brew",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/record.world-skill.ts b/story/world-mechanics/world-skills/pages/record.world-skill.ts
+deleted file mode 100644
+index a6f8fa84d3b24df8eaa29f0dc7338adf2cadedb4..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/record.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const record = {
+-  id: "01a0657d-02a6-73af-8e16-13a7b4c7b028",
+-  pageTypeSlug: "world-skill",
+-  slug: "record",
+-  title: "Record",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/record/record.world-skill.ts b/story/world-mechanics/world-skills/pages/record/record.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e3eae180fa7631fa5e19f7c402b7c99246947082
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/record/record.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const record = {
++  id: "01a0657d-02a6-73af-8e16-13a7b4c7b028",
++  pageTypeSlug: "world-skill",
++  slug: "record",
++  title: "Record",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/remembered.world-skill.ts b/story/world-mechanics/world-skills/pages/remembered.world-skill.ts
+deleted file mode 100644
+index f03c301c2702f15f0c2ad996a892f7210af66c65..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/remembered.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const remembered = {
+-  id: "01a0657d-02b0-7e0a-a2ef-aac8dc812f64",
+-  pageTypeSlug: "world-skill",
+-  slug: "remembered",
+-  title: "Remembered",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/remembered/remembered.world-skill.ts b/story/world-mechanics/world-skills/pages/remembered/remembered.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e76da9fef685489f9ab88567eee73a75d8ccc4ef
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/remembered/remembered.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const remembered = {
++  id: "01a0657d-02b0-7e0a-a2ef-aac8dc812f64",
++  pageTypeSlug: "world-skill",
++  slug: "remembered",
++  title: "Remembered",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/resistance-disease-re.world-skill.ts b/story/world-mechanics/world-skills/pages/resistance-disease-re.world-skill.ts
+deleted file mode 100644
+index 5ed4b342012188881c202cc606282b94265f283e..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/resistance-disease-re.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const resistanceDiseaseRe = {
+-  id: "01a0657d-02b1-7090-8216-23048833031a",
+-  pageTypeSlug: "world-skill",
+-  slug: "resistance-disease-re",
+-  title: "Resistance: Disease Re",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/resistance-disease-re/resistance-disease-re.world-skill.ts b/story/world-mechanics/world-skills/pages/resistance-disease-re/resistance-disease-re.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5e0dc75049c3e604e267fd2ee9d93691f6c1c17a
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/resistance-disease-re/resistance-disease-re.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const resistanceDiseaseRe = {
++  id: "01a0657d-02b1-7090-8216-23048833031a",
++  pageTypeSlug: "world-skill",
++  slug: "resistance-disease-re",
++  title: "Resistance: Disease Re",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/revive-golems-autonomous-weekly.world-skill.ts b/story/world-mechanics/world-skills/pages/revive-golems-autonomous-weekly.world-skill.ts
+deleted file mode 100644
+index e1bd8f0f52f78fc05bba9b1a746dc484b4f37f1e..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/revive-golems-autonomous-weekly.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const reviveGolemsAutonomousWeekly = {
+-  id: "01a0657d-02b2-7629-964e-0127c6841b88",
+-  pageTypeSlug: "world-skill",
+-  slug: "revive-golems-autonomous-weekly",
+-  title: "Revive Golems (Autonomous, Weekly)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/revive-golems-autonomous-weekly/revive-golems-autonomous-weekly.world-skill.ts b/story/world-mechanics/world-skills/pages/revive-golems-autonomous-weekly/revive-golems-autonomous-weekly.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..01f9f06c5373618dfe8ff82182f83de124e0eed8
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/revive-golems-autonomous-weekly/revive-golems-autonomous-weekly.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const reviveGolemsAutonomousWeekly = {
++  id: "01a0657d-02b2-7629-964e-0127c6841b88",
++  pageTypeSlug: "world-skill",
++  slug: "revive-golems-autonomous-weekly",
++  title: "Revive Golems (Autonomous, Weekly)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/revive-golems-autonomous.world-skill.ts b/story/world-mechanics/world-skills/pages/revive-golems-autonomous.world-skill.ts
+deleted file mode 100644
+index 731838cd2f80be2ca8e4871a805e353ca9200bc6..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/revive-golems-autonomous.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const reviveGolemsAutonomous = {
+-  id: "01a0657d-02b2-7341-aac2-9da76ec2c250",
+-  pageTypeSlug: "world-skill",
+-  slug: "revive-golems-autonomous",
+-  title: "Revive Golems (Autonomous)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/revive-golems-autonomous/revive-golems-autonomous.world-skill.ts b/story/world-mechanics/world-skills/pages/revive-golems-autonomous/revive-golems-autonomous.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c2cf7c45d04832abae200fc17ba1cc1671739470
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/revive-golems-autonomous/revive-golems-autonomous.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const reviveGolemsAutonomous = {
++  id: "01a0657d-02b2-7341-aac2-9da76ec2c250",
++  pageTypeSlug: "world-skill",
++  slug: "revive-golems-autonomous",
++  title: "Revive Golems (Autonomous)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/sense-corruption.world-skill.ts b/story/world-mechanics/world-skills/pages/sense-corruption.world-skill.ts
+deleted file mode 100644
+index 46b78de633681d3ce9e79af4557f075cf3b1714b..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/sense-corruption.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const senseCorruption = {
+-  id: "01a0657d-02b9-7a80-a572-251ed0ca3235",
+-  pageTypeSlug: "world-skill",
+-  slug: "sense-corruption",
+-  title: "Sense Corruption",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/sense-corruption/sense-corruption.world-skill.ts b/story/world-mechanics/world-skills/pages/sense-corruption/sense-corruption.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..35373b46d4eb96486a413696d26d54f7e068d904
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/sense-corruption/sense-corruption.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const senseCorruption = {
++  id: "01a0657d-02b9-7a80-a572-251ed0ca3235",
++  pageTypeSlug: "world-skill",
++  slug: "sense-corruption",
++  title: "Sense Corruption",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/sharper-edge.world-skill.ts b/story/world-mechanics/world-skills/pages/sharper-edge.world-skill.ts
+deleted file mode 100644
+index a7ebf6ef02fab1c68a86bf38a36224dddb781193..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/sharper-edge.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const sharperEdge = {
+-  id: "01a0657d-02bf-7fdb-8f8b-7159b42be6ba",
+-  pageTypeSlug: "world-skill",
+-  slug: "sharper-edge",
+-  title: "Sharper Edge",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/sharper-edge/sharper-edge.world-skill.ts b/story/world-mechanics/world-skills/pages/sharper-edge/sharper-edge.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..30fa356719733f83c7776f9eb6b56ece31230976
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/sharper-edge/sharper-edge.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const sharperEdge = {
++  id: "01a0657d-02bf-7fdb-8f8b-7159b42be6ba",
++  pageTypeSlug: "world-skill",
++  slug: "sharper-edge",
++  title: "Sharper Edge",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/she-flies-on-another-world-s-wings-5-seconds.world-skill.ts b/story/world-mechanics/world-skills/pages/she-flies-on-another-world-s-wings-5-seconds.world-skill.ts
+deleted file mode 100644
+index a1fbc7cc0dedbe228143f27fcba603126b98f782..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/she-flies-on-another-world-s-wings-5-seconds.world-skill.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const sheFliesOnAnotherWorldSWings5Seconds = {
+-  id: "01a0657d-02c0-73c8-a95c-bf901f273b96",
+-  pageTypeSlug: "world-skill",
+-  slug: "she-flies-on-another-world-s-wings-5-seconds",
+-  title: "She Flies On Another World’s Wings (5 Seconds)",
+-  worldSlug: "the-wandering-inn",
+-  evolvesToSlugs: ["she-flies-on-another-world-s-wings-7-seconds"],
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/she-flies-on-another-world-s-wings-5-seconds/she-flies-on-another-world-s-wings-5-seconds.world-skill.ts b/story/world-mechanics/world-skills/pages/she-flies-on-another-world-s-wings-5-seconds/she-flies-on-another-world-s-wings-5-seconds.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..50a60292b8d4bd6047f516eece59fc18e2d66ec4
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/she-flies-on-another-world-s-wings-5-seconds/she-flies-on-another-world-s-wings-5-seconds.world-skill.ts
+@@ -0,0 +1,10 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const sheFliesOnAnotherWorldSWings5Seconds = {
++  id: "01a0657d-02c0-73c8-a95c-bf901f273b96",
++  pageTypeSlug: "world-skill",
++  slug: "she-flies-on-another-world-s-wings-5-seconds",
++  title: "She Flies On Another World’s Wings (5 Seconds)",
++  worldSlug: "the-wandering-inn",
++  evolvesToSlugs: ["she-flies-on-another-world-s-wings-7-seconds"],
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/sing-hearts-of-stone-petria-s.world-skill.ts b/story/world-mechanics/world-skills/pages/sing-hearts-of-stone-petria-s.world-skill.ts
+deleted file mode 100644
+index d1ce801a8dd7278d1004dd9b5d5b31d35f0ecc6b..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/sing-hearts-of-stone-petria-s.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const singHeartsOfStonePetriaS = {
+-  id: "01a0657d-02c5-71f6-a4f5-ddecc523aec7",
+-  pageTypeSlug: "world-skill",
+-  slug: "sing-hearts-of-stone-petria-s",
+-  title: "Sing, Hearts of Stone (Petria’s)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/sing-hearts-of-stone-petria-s/sing-hearts-of-stone-petria-s.world-skill.ts b/story/world-mechanics/world-skills/pages/sing-hearts-of-stone-petria-s/sing-hearts-of-stone-petria-s.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8eb92a8b42f06207ed3a22a2dc2f46d61491ca9a
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/sing-hearts-of-stone-petria-s/sing-hearts-of-stone-petria-s.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const singHeartsOfStonePetriaS = {
++  id: "01a0657d-02c5-71f6-a4f5-ddecc523aec7",
++  pageTypeSlug: "world-skill",
++  slug: "sing-hearts-of-stone-petria-s",
++  title: "Sing, Hearts of Stone (Petria’s)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/slow-metabolism-re.world-skill.ts b/story/world-mechanics/world-skills/pages/slow-metabolism-re.world-skill.ts
+deleted file mode 100644
+index c24b02917eb5a5c4a8a6f87756b76f5d01be4a5e..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/slow-metabolism-re.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const slowMetabolismRe = {
+-  id: "01a0657d-02c6-711b-b15e-f17261d24f2f",
+-  pageTypeSlug: "world-skill",
+-  slug: "slow-metabolism-re",
+-  title: "Slow Metabolism Re",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/slow-metabolism-re/slow-metabolism-re.world-skill.ts b/story/world-mechanics/world-skills/pages/slow-metabolism-re/slow-metabolism-re.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2b3daf9fc0ba0101186401377f616b22d712b419
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/slow-metabolism-re/slow-metabolism-re.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const slowMetabolismRe = {
++  id: "01a0657d-02c6-711b-b15e-f17261d24f2f",
++  pageTypeSlug: "world-skill",
++  slug: "slow-metabolism-re",
++  title: "Slow Metabolism Re",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/spearmaster-advanced-spear-training.world-skill.ts b/story/world-mechanics/world-skills/pages/spearmaster-advanced-spear-training.world-skill.ts
+deleted file mode 100644
+index ae7dbf966b4b3864dd576251e26c972ac7583f7e..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/spearmaster-advanced-spear-training.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const spearmasterAdvancedSpearTraining = {
+-  id: "01a0657d-02ed-7d9f-ac16-561ea4fbcd74",
+-  pageTypeSlug: "world-skill",
+-  slug: "spearmaster-advanced-spear-training",
+-  title: "Spearmaster – Advanced Spear Training",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/spearmaster-advanced-spear-training/spearmaster-advanced-spear-training.world-skill.ts b/story/world-mechanics/world-skills/pages/spearmaster-advanced-spear-training/spearmaster-advanced-spear-training.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5af3a4f33fca09f08fcb9dbd91bbe19e33959340
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/spearmaster-advanced-spear-training/spearmaster-advanced-spear-training.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const spearmasterAdvancedSpearTraining = {
++  id: "01a0657d-02ed-7d9f-ac16-561ea4fbcd74",
++  pageTypeSlug: "world-skill",
++  slug: "spearmaster-advanced-spear-training",
++  title: "Spearmaster – Advanced Spear Training",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/squad-elite-operative-agents.world-skill.ts b/story/world-mechanics/world-skills/pages/squad-elite-operative-agents.world-skill.ts
+deleted file mode 100644
+index 83a58dbd354cb974cb55f1e74272557eadc527b3..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/squad-elite-operative-agents.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const squadEliteOperativeAgents = {
+-  id: "01a0657d-02ee-7c1e-9faf-a7d326939266",
+-  pageTypeSlug: "world-skill",
+-  slug: "squad-elite-operative-agents",
+-  title: "Squad: Elite Operative Agents",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/squad-elite-operative-agents/squad-elite-operative-agents.world-skill.ts b/story/world-mechanics/world-skills/pages/squad-elite-operative-agents/squad-elite-operative-agents.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..115460e3eff6d3bcbab0f8ad85ea086a239b3a99
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/squad-elite-operative-agents/squad-elite-operative-agents.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const squadEliteOperativeAgents = {
++  id: "01a0657d-02ee-7c1e-9faf-a7d326939266",
++  pageTypeSlug: "world-skill",
++  slug: "squad-elite-operative-agents",
++  title: "Squad: Elite Operative Agents",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/squad-the-chess-club-s-stand.world-skill.ts b/story/world-mechanics/world-skills/pages/squad-the-chess-club-s-stand.world-skill.ts
+deleted file mode 100644
+index fb678b49a965c2a69d722f3cbd479c2938472159..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/squad-the-chess-club-s-stand.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const squadTheChessClubSStand = {
+-  id: "01a0657d-02ee-7976-b63b-76080e2d7b50",
+-  pageTypeSlug: "world-skill",
+-  slug: "squad-the-chess-club-s-stand",
+-  title: "Squad: The Chess Club’s Stand",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/squad-the-chess-club-s-stand/squad-the-chess-club-s-stand.world-skill.ts b/story/world-mechanics/world-skills/pages/squad-the-chess-club-s-stand/squad-the-chess-club-s-stand.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..266ce715e73af6835726c91c08ea32c0cfb0aced
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/squad-the-chess-club-s-stand/squad-the-chess-club-s-stand.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const squadTheChessClubSStand = {
++  id: "01a0657d-02ee-7976-b63b-76080e2d7b50",
++  pageTypeSlug: "world-skill",
++  slug: "squad-the-chess-club-s-stand",
++  title: "Squad: The Chess Club’s Stand",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/sword-art-diamond-cleaver.world-skill.ts b/story/world-mechanics/world-skills/pages/sword-art-diamond-cleaver.world-skill.ts
+deleted file mode 100644
+index 00cda066b597686298245a2af36b438eb949381c..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/sword-art-diamond-cleaver.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const swordArtDiamondCleaver = {
+-  id: "01a0657d-0307-7305-b30e-8eb40158b836",
+-  pageTypeSlug: "world-skill",
+-  slug: "sword-art-diamond-cleaver",
+-  title: "Sword Art: Diamond Cleaver",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/sword-art-diamond-cleaver/sword-art-diamond-cleaver.world-skill.ts b/story/world-mechanics/world-skills/pages/sword-art-diamond-cleaver/sword-art-diamond-cleaver.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..daa99825fdcca93ad3aa6c323bb69ae85db23dd4
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/sword-art-diamond-cleaver/sword-art-diamond-cleaver.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const swordArtDiamondCleaver = {
++  id: "01a0657d-0307-7305-b30e-8eb40158b836",
++  pageTypeSlug: "world-skill",
++  slug: "sword-art-diamond-cleaver",
++  title: "Sword Art: Diamond Cleaver",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/sword-fighting-basic.world-skill.ts b/story/world-mechanics/world-skills/pages/sword-fighting-basic.world-skill.ts
+deleted file mode 100644
+index c74c8ae9e06b93f64c3c7123a8c3cc48c5b8cee8..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/sword-fighting-basic.world-skill.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const swordFightingBasic = {
+-  id: "01a0657d-0307-7af0-8d3a-8655bb93ffb9",
+-  pageTypeSlug: "world-skill",
+-  slug: "sword-fighting-basic",
+-  title: "Sword Fighting – Basic",
+-  worldSlug: "the-wandering-inn",
+-  evolvesToSlugs: ["sword-fighting-expert"],
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/sword-fighting-basic/sword-fighting-basic.world-skill.ts b/story/world-mechanics/world-skills/pages/sword-fighting-basic/sword-fighting-basic.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2906bdbf52d17f59578f1d01eed92bb740bf4805
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/sword-fighting-basic/sword-fighting-basic.world-skill.ts
+@@ -0,0 +1,10 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const swordFightingBasic = {
++  id: "01a0657d-0307-7af0-8d3a-8655bb93ffb9",
++  pageTypeSlug: "world-skill",
++  slug: "sword-fighting-basic",
++  title: "Sword Fighting – Basic",
++  worldSlug: "the-wandering-inn",
++  evolvesToSlugs: ["sword-fighting-expert"],
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/synced-aim-ballista.world-skill.ts b/story/world-mechanics/world-skills/pages/synced-aim-ballista.world-skill.ts
+deleted file mode 100644
+index a2572914b584f2ef9e1bf339447fae466dd74a0f..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/synced-aim-ballista.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const syncedAimBallista = {
+-  id: "01a0657d-0307-7966-a50f-5f7e902e97d2",
+-  pageTypeSlug: "world-skill",
+-  slug: "synced-aim-ballista",
+-  title: "Synced Aim: Ballista",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/synced-aim-ballista/synced-aim-ballista.world-skill.ts b/story/world-mechanics/world-skills/pages/synced-aim-ballista/synced-aim-ballista.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..826cfd44993138256fa35995b2a69a761d4c0568
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/synced-aim-ballista/synced-aim-ballista.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const syncedAimBallista = {
++  id: "01a0657d-0307-7966-a50f-5f7e902e97d2",
++  pageTypeSlug: "world-skill",
++  slug: "synced-aim-ballista",
++  title: "Synced Aim: Ballista",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/teammate-locate-teammates.world-skill.ts b/story/world-mechanics/world-skills/pages/teammate-locate-teammates.world-skill.ts
+deleted file mode 100644
+index 55cef84de0366218e6ff58d15fd8380e35195752..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/teammate-locate-teammates.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const teammateLocateTeammates = {
+-  id: "01a0657d-0311-7e9c-96b6-6770657306a4",
+-  pageTypeSlug: "world-skill",
+-  slug: "teammate-locate-teammates",
+-  title: "Teammate – Locate Teammates",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/teammate-locate-teammates/teammate-locate-teammates.world-skill.ts b/story/world-mechanics/world-skills/pages/teammate-locate-teammates/teammate-locate-teammates.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..00c41697a3170599d0b32dbd215be1c86bbdfe8d
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/teammate-locate-teammates/teammate-locate-teammates.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const teammateLocateTeammates = {
++  id: "01a0657d-0311-7e9c-96b6-6770657306a4",
++  pageTypeSlug: "world-skill",
++  slug: "teammate-locate-teammates",
++  title: "Teammate – Locate Teammates",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/ten-foot-strike.world-skill.ts b/story/world-mechanics/world-skills/pages/ten-foot-strike.world-skill.ts
+deleted file mode 100644
+index a84bc99da2af883cabd04e5286c3af85ca8a5ad6..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/ten-foot-strike.world-skill.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const tenFootStrike = {
+-  id: "01a0657d-0311-79e5-926d-6819e04bb814",
+-  pageTypeSlug: "world-skill",
+-  slug: "ten-foot-strike",
+-  title: "Ten-foot Strike",
+-  worldSlug: "the-wandering-inn",
+-  evolvesToSlugs: ["twenty-foot-strike"],
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/ten-foot-strike/ten-foot-strike.world-skill.ts b/story/world-mechanics/world-skills/pages/ten-foot-strike/ten-foot-strike.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a6288aed81cb51327becf58e863ce273ca572334
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/ten-foot-strike/ten-foot-strike.world-skill.ts
+@@ -0,0 +1,10 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const tenFootStrike = {
++  id: "01a0657d-0311-79e5-926d-6819e04bb814",
++  pageTypeSlug: "world-skill",
++  slug: "ten-foot-strike",
++  title: "Ten-foot Strike",
++  worldSlug: "the-wandering-inn",
++  evolvesToSlugs: ["twenty-foot-strike"],
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/the-curve-of-the-world.world-skill.ts b/story/world-mechanics/world-skills/pages/the-curve-of-the-world.world-skill.ts
+deleted file mode 100644
+index d6a2f5baabdf512a3bd70fd13e5845a714836d4f..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/the-curve-of-the-world.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const theCurveOfTheWorld = {
+-  id: "01a0657d-0311-7bb0-aa54-0a01aa9c7ed7",
+-  pageTypeSlug: "world-skill",
+-  slug: "the-curve-of-the-world",
+-  title: "The Curve of the World",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/the-curve-of-the-world/the-curve-of-the-world.world-skill.ts b/story/world-mechanics/world-skills/pages/the-curve-of-the-world/the-curve-of-the-world.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..51ddd68b914330a8c2256fc5ccf1bf53c35f4c47
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/the-curve-of-the-world/the-curve-of-the-world.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const theCurveOfTheWorld = {
++  id: "01a0657d-0311-7bb0-aa54-0a01aa9c7ed7",
++  pageTypeSlug: "world-skill",
++  slug: "the-curve-of-the-world",
++  title: "The Curve of the World",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/the-floodplains-vanished.world-skill.ts b/story/world-mechanics/world-skills/pages/the-floodplains-vanished.world-skill.ts
+deleted file mode 100644
+index 035e111e65f7d34fc09496bdf417650d9b1e3ebd..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/the-floodplains-vanished.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const theFloodplainsVanished = {
+-  id: "01a0657d-0312-7d6c-8175-98b075c31d13",
+-  pageTypeSlug: "world-skill",
+-  slug: "the-floodplains-vanished",
+-  title: "The Floodplains Vanished",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/the-floodplains-vanished/the-floodplains-vanished.world-skill.ts b/story/world-mechanics/world-skills/pages/the-floodplains-vanished/the-floodplains-vanished.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c171d2723255cb8a9efe4a8f061fc4f68605a613
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/the-floodplains-vanished/the-floodplains-vanished.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const theFloodplainsVanished = {
++  id: "01a0657d-0312-7d6c-8175-98b075c31d13",
++  pageTypeSlug: "world-skill",
++  slug: "the-floodplains-vanished",
++  title: "The Floodplains Vanished",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/the-man-who-grants-wishes.world-skill.ts b/story/world-mechanics/world-skills/pages/the-man-who-grants-wishes.world-skill.ts
+deleted file mode 100644
+index 38801f2ea0cabe02829f4a8dee718fbcfcd92bf8..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/the-man-who-grants-wishes.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const theManWhoGrantsWishes = {
+-  id: "01a0657d-0312-7c2a-b388-220c003f494a",
+-  pageTypeSlug: "world-skill",
+-  slug: "the-man-who-grants-wishes",
+-  title: "The Man Who Grants Wishes",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/the-man-who-grants-wishes/the-man-who-grants-wishes.world-skill.ts b/story/world-mechanics/world-skills/pages/the-man-who-grants-wishes/the-man-who-grants-wishes.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cc8eb539c83a7a54dd54b5723420b2a036319c3b
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/the-man-who-grants-wishes/the-man-who-grants-wishes.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const theManWhoGrantsWishes = {
++  id: "01a0657d-0312-7c2a-b388-220c003f494a",
++  pageTypeSlug: "world-skill",
++  slug: "the-man-who-grants-wishes",
++  title: "The Man Who Grants Wishes",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/the-sky-is-falling-advance-tier-3-magic.world-skill.ts b/story/world-mechanics/world-skills/pages/the-sky-is-falling-advance-tier-3-magic.world-skill.ts
+deleted file mode 100644
+index 854aaf8b545695fdea32426feebc2171064e0963..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/the-sky-is-falling-advance-tier-3-magic.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const theSkyIsFallingAdvanceTier3Magic = {
+-  id: "01a0657d-0312-7635-835f-964c22d27554",
+-  pageTypeSlug: "world-skill",
+-  slug: "the-sky-is-falling-advance-tier-3-magic",
+-  title: "The Sky is Falling, Advance (Tier 3 Magic)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/the-sky-is-falling-advance-tier-3-magic/the-sky-is-falling-advance-tier-3-magic.world-skill.ts b/story/world-mechanics/world-skills/pages/the-sky-is-falling-advance-tier-3-magic/the-sky-is-falling-advance-tier-3-magic.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9dd4dc17c1897c1b0a9912d66c9605822b774372
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/the-sky-is-falling-advance-tier-3-magic/the-sky-is-falling-advance-tier-3-magic.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const theSkyIsFallingAdvanceTier3Magic = {
++  id: "01a0657d-0312-7635-835f-964c22d27554",
++  pageTypeSlug: "world-skill",
++  slug: "the-sky-is-falling-advance-tier-3-magic",
++  title: "The Sky is Falling, Advance (Tier 3 Magic)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/tiebreaking-vote-monthly.world-skill.ts b/story/world-mechanics/world-skills/pages/tiebreaking-vote-monthly.world-skill.ts
+deleted file mode 100644
+index 15027db7f1dddadb03d63bfc26b91ef76fc5e3db..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/tiebreaking-vote-monthly.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const tiebreakingVoteMonthly = {
+-  id: "01a0657d-0315-7333-a4b6-d127cc037caa",
+-  pageTypeSlug: "world-skill",
+-  slug: "tiebreaking-vote-monthly",
+-  title: "Tiebreaking Vote (Monthly)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/tiebreaking-vote-monthly/tiebreaking-vote-monthly.world-skill.ts b/story/world-mechanics/world-skills/pages/tiebreaking-vote-monthly/tiebreaking-vote-monthly.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6a110fc0d28217cc9e14c4f5d64c49f59229a55c
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/tiebreaking-vote-monthly/tiebreaking-vote-monthly.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const tiebreakingVoteMonthly = {
++  id: "01a0657d-0315-7333-a4b6-d127cc037caa",
++  pageTypeSlug: "world-skill",
++  slug: "tiebreaking-vote-monthly",
++  title: "Tiebreaking Vote (Monthly)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/treasuresense.world-skill.ts b/story/world-mechanics/world-skills/pages/treasuresense.world-skill.ts
+deleted file mode 100644
+index 955e2139a406f23c19a017d528621766390cc5ed..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/treasuresense.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const treasuresense = {
+-  id: "01a0657d-0316-77e7-bcc7-e9bf645a85cd",
+-  pageTypeSlug: "world-skill",
+-  slug: "treasuresense",
+-  title: "Treasuresense",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/treasuresense/treasuresense.world-skill.ts b/story/world-mechanics/world-skills/pages/treasuresense/treasuresense.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..572ed298d3d109a1e810ea19b3c3fafeaec4d5bc
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/treasuresense/treasuresense.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const treasuresense = {
++  id: "01a0657d-0316-77e7-bcc7-e9bf645a85cd",
++  pageTypeSlug: "world-skill",
++  slug: "treasuresense",
++  title: "Treasuresense",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/twenty-foot-strike.world-skill.ts b/story/world-mechanics/world-skills/pages/twenty-foot-strike.world-skill.ts
+deleted file mode 100644
+index 9cd07a8e8ed198c1b3d3a5a108613dadb6fcf801..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/twenty-foot-strike.world-skill.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const twentyFootStrike = {
+-  id: "01a0657d-0317-7669-b81b-2c35e1c082e3",
+-  pageTypeSlug: "world-skill",
+-  slug: "twenty-foot-strike",
+-  title: "Twenty-foot Strike",
+-  worldSlug: "the-wandering-inn",
+-  evolvesFromSlugs: ["ten-foot-strike"],
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/twenty-foot-strike/twenty-foot-strike.world-skill.ts b/story/world-mechanics/world-skills/pages/twenty-foot-strike/twenty-foot-strike.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c15d36778d6f5764673eaf20a536315152c62b91
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/twenty-foot-strike/twenty-foot-strike.world-skill.ts
+@@ -0,0 +1,10 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const twentyFootStrike = {
++  id: "01a0657d-0317-7669-b81b-2c35e1c082e3",
++  pageTypeSlug: "world-skill",
++  slug: "twenty-foot-strike",
++  title: "Twenty-foot Strike",
++  worldSlug: "the-wandering-inn",
++  evolvesFromSlugs: ["ten-foot-strike"],
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/understand-enchantment.world-skill.ts b/story/world-mechanics/world-skills/pages/understand-enchantment.world-skill.ts
+deleted file mode 100644
+index d1e7cf1c971c2c6838757e15f6915bc77a280483..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/understand-enchantment.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const understandEnchantment = {
+-  id: "01a0657d-031e-7523-b0d2-709bd9c4970f",
+-  pageTypeSlug: "world-skill",
+-  slug: "understand-enchantment",
+-  title: "Understand Enchantment",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/understand-enchantment/understand-enchantment.world-skill.ts b/story/world-mechanics/world-skills/pages/understand-enchantment/understand-enchantment.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c7af0324ffb2a6af7721815bdc6b7da128703c3f
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/understand-enchantment/understand-enchantment.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const understandEnchantment = {
++  id: "01a0657d-031e-7523-b0d2-709bd9c4970f",
++  pageTypeSlug: "world-skill",
++  slug: "understand-enchantment",
++  title: "Understand Enchantment",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/unstoppable-run.world-skill.ts b/story/world-mechanics/world-skills/pages/unstoppable-run.world-skill.ts
+deleted file mode 100644
+index 0b44dd216ef192df2365f5c528efbdff8dd41a35..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/unstoppable-run.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const unstoppableRun = {
+-  id: "01a0657d-031f-7510-8467-b9317e7852da",
+-  pageTypeSlug: "world-skill",
+-  slug: "unstoppable-run",
+-  title: "Unstoppable Run",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/unstoppable-run/unstoppable-run.world-skill.ts b/story/world-mechanics/world-skills/pages/unstoppable-run/unstoppable-run.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..97cc0492c04ee28b9da4a526fd13e8b7490ff7a2
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/unstoppable-run/unstoppable-run.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const unstoppableRun = {
++  id: "01a0657d-031f-7510-8467-b9317e7852da",
++  pageTypeSlug: "world-skill",
++  slug: "unstoppable-run",
++  title: "Unstoppable Run",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/wild-flailing.world-skill.ts b/story/world-mechanics/world-skills/pages/wild-flailing.world-skill.ts
+deleted file mode 100644
+index e94828c2f62a9e4ce64d49980f228fc31ad4139b..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/wild-flailing.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const wildFlailing = {
+-  id: "01a0657d-032e-74de-9c82-0294b6b2e3d9",
+-  pageTypeSlug: "world-skill",
+-  slug: "wild-flailing",
+-  title: "Wild Flailing",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/wild-flailing/wild-flailing.world-skill.ts b/story/world-mechanics/world-skills/pages/wild-flailing/wild-flailing.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a571e6b773c91b632ce1f4ee4ff2a2767e31da8f
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/wild-flailing/wild-flailing.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const wildFlailing = {
++  id: "01a0657d-032e-74de-9c82-0294b6b2e3d9",
++  pageTypeSlug: "world-skill",
++  slug: "wild-flailing",
++  title: "Wild Flailing",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/wild-growth.world-skill.ts b/story/world-mechanics/world-skills/pages/wild-growth.world-skill.ts
+deleted file mode 100644
+index ecb0fb3f7a9e538958bc640b023f1c6929cda63f..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/wild-growth.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const wildGrowth = {
+-  id: "01a0657d-032e-7d2a-8c4f-81dc2a6610d3",
+-  pageTypeSlug: "world-skill",
+-  slug: "wild-growth",
+-  title: "Wild Growth",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/wild-growth/wild-growth.world-skill.ts b/story/world-mechanics/world-skills/pages/wild-growth/wild-growth.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5ad252f8020011a52935ba5eb6a2847a1420ef29
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/wild-growth/wild-growth.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const wildGrowth = {
++  id: "01a0657d-032e-7d2a-8c4f-81dc2a6610d3",
++  pageTypeSlug: "world-skill",
++  slug: "wild-growth",
++  title: "Wild Growth",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/will-of-steel-re.world-skill.ts b/story/world-mechanics/world-skills/pages/will-of-steel-re.world-skill.ts
+deleted file mode 100644
+index 0030526203cd3e4b1e9969975a4c2edcf9bf730b..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/will-of-steel-re.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const willOfSteelRe = {
+-  id: "01a0657d-0336-76f2-adbe-e5d6e9cc2849",
+-  pageTypeSlug: "world-skill",
+-  slug: "will-of-steel-re",
+-  title: "Will of Steel Re",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/will-of-steel-re/will-of-steel-re.world-skill.ts b/story/world-mechanics/world-skills/pages/will-of-steel-re/will-of-steel-re.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..85e395c07773f5337742a7c241a7e3e5382c95be
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/will-of-steel-re/will-of-steel-re.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const willOfSteelRe = {
++  id: "01a0657d-0336-76f2-adbe-e5d6e9cc2849",
++  pageTypeSlug: "world-skill",
++  slug: "will-of-steel-re",
++  title: "Will of Steel Re",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/will-of-the-beasts.world-skill.ts b/story/world-mechanics/world-skills/pages/will-of-the-beasts.world-skill.ts
+deleted file mode 100644
+index c205dba3aa581c55099b0a100e79e219ac1fddad..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/will-of-the-beasts.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const willOfTheBeasts = {
+-  id: "01a0657d-0336-756f-91c6-9ee128c7c398",
+-  pageTypeSlug: "world-skill",
+-  slug: "will-of-the-beasts",
+-  title: "Will of the Beasts",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/will-of-the-beasts/will-of-the-beasts.world-skill.ts b/story/world-mechanics/world-skills/pages/will-of-the-beasts/will-of-the-beasts.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..784c73421a8f2f1781335a8f7998143c77c25592
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/will-of-the-beasts/will-of-the-beasts.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const willOfTheBeasts = {
++  id: "01a0657d-0336-756f-91c6-9ee128c7c398",
++  pageTypeSlug: "world-skill",
++  slug: "will-of-the-beasts",
++  title: "Will of the Beasts",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/zigzag-dash-re.world-skill.ts b/story/world-mechanics/world-skills/pages/zigzag-dash-re.world-skill.ts
+deleted file mode 100644
+index b95457a980729e556825e6585fba6daa4b619a2b..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-skills/pages/zigzag-dash-re.world-skill.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldSkill } from "../world-skill.page-type.ts"
+-
+-export const zigzagDashRe = {
+-  id: "01a0657d-0338-7dc5-a069-9e1b51ae7c10",
+-  pageTypeSlug: "world-skill",
+-  slug: "zigzag-dash-re",
+-  title: "Zigzag Dash Re",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldSkill
+diff --git a/story/world-mechanics/world-skills/pages/zigzag-dash-re/zigzag-dash-re.world-skill.ts b/story/world-mechanics/world-skills/pages/zigzag-dash-re/zigzag-dash-re.world-skill.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..aef9c5710b02642247e2aab9833c4fde589c39bf
+--- /dev/null
++++ b/story/world-mechanics/world-skills/pages/zigzag-dash-re/zigzag-dash-re.world-skill.ts
+@@ -0,0 +1,9 @@
++import type { WorldSkill } from "../../world-skill.page-type.ts"
++
++export const zigzagDashRe = {
++  id: "01a0657d-0338-7dc5-a069-9e1b51ae7c10",
++  pageTypeSlug: "world-skill",
++  slug: "zigzag-dash-re",
++  title: "Zigzag Dash Re",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldSkill
