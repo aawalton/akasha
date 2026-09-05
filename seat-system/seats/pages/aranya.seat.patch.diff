@@ -1551,3 +1551,11 @@ index 530b0f36ff4b788f1c0e32e7d5df9f04862499b6..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-skill-morphs-access
 \ No newline at end of file
+diff --git a/temper/temper-skill-morphs/temper-skill-morphs b/temper/temper-skill-morphs/temper-skill-morphs
+deleted file mode 120000
+index 3add7cd8570a6fe9b9316c6ac0cefe618ba99c79..0000000000000000000000000000000000000000
+--- a/temper/temper-skill-morphs/temper-skill-morphs
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-skill-morphs
+\ No newline at end of file
