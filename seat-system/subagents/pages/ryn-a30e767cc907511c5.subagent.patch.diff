@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/story/tower/engine/combat-types/combat-types.module.ts b/story/tower/engine/combat-types/combat-types.module.ts
+index ac082adcbe2b3ba4a2415de2893cd1e267a6b310..73aa106492ccd0f835eca103279fa1cf031b1ee3 100644
+--- a/story/tower/engine/combat-types/combat-types.module.ts
++++ b/story/tower/engine/combat-types/combat-types.module.ts
+@@ -9,7 +9,7 @@ export const combatTypes = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A combatant is known here by less than the sheet it was stored as.",
++      statement: "A combatant is known here by less than the sheet that combatant was stored as.",
+     },
+     {
+       invariantKind: "departure",
