@@ -1,0 +1,91 @@
+runsWarrants: false
+diff --git a/story/world-mechanics/world-boons/pages/commonfolk-s-blessing-lesser-folk-s-vitales-gift.world-boon.ts b/story/world-mechanics/world-boons/pages/commonfolk-s-blessing-lesser-folk-s-vitales-gift.world-boon.ts
+deleted file mode 100644
+index cf72b3dba4c251b4ee4ae3fb35abdd089e57edae..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-boons/pages/commonfolk-s-blessing-lesser-folk-s-vitales-gift.world-boon.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldBoon } from "../world-boon.page-type.ts"
+-
+-export const commonfolkSBlessingLesserFolkSVitalesGift = {
+-  id: "01a0655a-0687-7c4c-ac0d-726c51518feb",
+-  pageTypeSlug: "world-boon",
+-  slug: "commonfolk-s-blessing-lesser-folk-s-vitales-gift",
+-  title: "Commonfolk’s Blessing (Lesser) — Folk’s Vitales Gift",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldBoon
+diff --git a/story/world-mechanics/world-boons/pages/commonfolk-s-blessing-lesser-folk-s-vitales-gift/commonfolk-s-blessing-lesser-folk-s-vitales-gift.world-boon.ts b/story/world-mechanics/world-boons/pages/commonfolk-s-blessing-lesser-folk-s-vitales-gift/commonfolk-s-blessing-lesser-folk-s-vitales-gift.world-boon.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..73b751a918237ea7b3c78aad4ab7068a3c9d633c
+--- /dev/null
++++ b/story/world-mechanics/world-boons/pages/commonfolk-s-blessing-lesser-folk-s-vitales-gift/commonfolk-s-blessing-lesser-folk-s-vitales-gift.world-boon.ts
+@@ -0,0 +1,9 @@
++import type { WorldBoon } from "../../world-boon.page-type.ts"
++
++export const commonfolkSBlessingLesserFolkSVitalesGift = {
++  id: "01a0655a-0687-7c4c-ac0d-726c51518feb",
++  pageTypeSlug: "world-boon",
++  slug: "commonfolk-s-blessing-lesser-folk-s-vitales-gift",
++  title: "Commonfolk’s Blessing (Lesser) — Folk’s Vitales Gift",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldBoon
+diff --git a/story/world-mechanics/world-boons/pages/commonfolk-s-blessing-minor-a-finger-s-discount.world-boon.ts b/story/world-mechanics/world-boons/pages/commonfolk-s-blessing-minor-a-finger-s-discount.world-boon.ts
+deleted file mode 100644
+index b463b26c859a73573a919c079aae55c2907fc517..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-boons/pages/commonfolk-s-blessing-minor-a-finger-s-discount.world-boon.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldBoon } from "../world-boon.page-type.ts"
+-
+-export const commonfolkSBlessingMinorAFingerSDiscount = {
+-  id: "01a0655a-0687-7e01-b216-956ad9782dab",
+-  pageTypeSlug: "world-boon",
+-  slug: "commonfolk-s-blessing-minor-a-finger-s-discount",
+-  title: "Commonfolk’s Blessing (Minor) — A Finger’s Discount",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldBoon
+diff --git a/story/world-mechanics/world-boons/pages/commonfolk-s-blessing-minor-a-finger-s-discount/commonfolk-s-blessing-minor-a-finger-s-discount.world-boon.ts b/story/world-mechanics/world-boons/pages/commonfolk-s-blessing-minor-a-finger-s-discount/commonfolk-s-blessing-minor-a-finger-s-discount.world-boon.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..70fa45653ddba6dccf24380f91d8440a344abbb6
+--- /dev/null
++++ b/story/world-mechanics/world-boons/pages/commonfolk-s-blessing-minor-a-finger-s-discount/commonfolk-s-blessing-minor-a-finger-s-discount.world-boon.ts
+@@ -0,0 +1,9 @@
++import type { WorldBoon } from "../../world-boon.page-type.ts"
++
++export const commonfolkSBlessingMinorAFingerSDiscount = {
++  id: "01a0655a-0687-7e01-b216-956ad9782dab",
++  pageTypeSlug: "world-boon",
++  slug: "commonfolk-s-blessing-minor-a-finger-s-discount",
++  title: "Commonfolk’s Blessing (Minor) — A Finger’s Discount",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldBoon
+diff --git a/story/world-mechanics/world-boons/pages/sanguinum-gratitude-minor-silent-footfalls.world-boon.ts b/story/world-mechanics/world-boons/pages/sanguinum-gratitude-minor-silent-footfalls.world-boon.ts
+deleted file mode 100644
+index af50c2eda21ddf1ef76ea6c68fb0d430139f5f14..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-boons/pages/sanguinum-gratitude-minor-silent-footfalls.world-boon.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldBoon } from "../world-boon.page-type.ts"
+-
+-export const sanguinumGratitudeMinorSilentFootfalls = {
+-  id: "01a0655a-0687-75c1-9ce7-01f39385d0a6",
+-  pageTypeSlug: "world-boon",
+-  slug: "sanguinum-gratitude-minor-silent-footfalls",
+-  title: "Sanguinum Gratitude (Minor) — Silent Footfalls",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldBoon
+diff --git a/story/world-mechanics/world-boons/pages/sanguinum-gratitude-minor-silent-footfalls/sanguinum-gratitude-minor-silent-footfalls.world-boon.ts b/story/world-mechanics/world-boons/pages/sanguinum-gratitude-minor-silent-footfalls/sanguinum-gratitude-minor-silent-footfalls.world-boon.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e22d523bf4186f4d2bd7a38ae72b9e374597c6db
+--- /dev/null
++++ b/story/world-mechanics/world-boons/pages/sanguinum-gratitude-minor-silent-footfalls/sanguinum-gratitude-minor-silent-footfalls.world-boon.ts
+@@ -0,0 +1,9 @@
++import type { WorldBoon } from "../../world-boon.page-type.ts"
++
++export const sanguinumGratitudeMinorSilentFootfalls = {
++  id: "01a0655a-0687-75c1-9ce7-01f39385d0a6",
++  pageTypeSlug: "world-boon",
++  slug: "sanguinum-gratitude-minor-silent-footfalls",
++  title: "Sanguinum Gratitude (Minor) — Silent Footfalls",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldBoon
