@@ -32,7 +32,7 @@ export const commandServerClient = {
     {
       invariantKind: "departure",
       statement:
-        "A caller naming a lease bound replaces the server's number here rather than tightening it.",
+        "A caller naming a lease bound replaces the server's number here rather than tightening that number.",
     },
     {
       invariantKind: "departure",
