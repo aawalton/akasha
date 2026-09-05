@@ -30,7 +30,7 @@ index f1bedd844599fe99a7aa22c3df0917ff82e54b92..2fac4e17aa4835d0ec1bf5f4e56c2012
      naps
    )
 diff --git a/person-system/device-secret-keeping/device-secret-keeping.module.test.ts b/person-system/device-secret-keeping/device-secret-keeping.module.test.ts
-index b9b1ca7f39b8c6db265300730feec6a48ffc9503..f7e28f855be927eef9bd2e0f0028cbf8e428f17e 100644
+index b9b1ca7f39b8c6db265300730feec6a48ffc9503..9938e417ef4f4829d0c96cd734ee1e312be2df1a 100644
 --- a/person-system/device-secret-keeping/device-secret-keeping.module.test.ts
 +++ b/person-system/device-secret-keeping/device-secret-keeping.module.test.ts
 @@ -107,7 +107,7 @@ test("a slug becomes an export name that opens with a letter", () => {
@@ -73,6 +73,13 @@ index b9b1ca7f39b8c6db265300730feec6a48ffc9503..f7e28f855be927eef9bd2e0f0028cbf8
    const secret = generateDeviceSecret()
    const rows = [pageFor(secret), pageFor(secret, { slug: "alan-another" })]
    const held = await deviceSecretPresented(
+@@ -243,5 +243,5 @@ test("the store answers for the device secret page type rather than refusing", a
+   )
+   expect(held.outcome).toBe("refused")
+   if (held.outcome !== "refused") return
+-  expect(held.why).toBe("no device secret stands for the secret presented")
++  expect(held.why).toBe("no device secret represents the secret presented")
+ })
 diff --git a/person-system/device-secret-keeping/device-secret-keeping.module.ts b/person-system/device-secret-keeping/device-secret-keeping.module.ts
 index 9687f40bb4fffb87fba4e42ead7225723ff33d0f..530cc3a96aa49f6dfce44d631498117c582a2a39 100644
 --- a/person-system/device-secret-keeping/device-secret-keeping.module.ts
