@@ -863,3 +863,11 @@ index 6927c999d8f544519c45d0bcb7b952e5ff607cb7..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-companions-core
 \ No newline at end of file
+diff --git a/temper/temper-companions-ui/temper-companions-ui b/temper/temper-companions-ui/temper-companions-ui
+deleted file mode 120000
+index 91439c4b21445056a68fd29f7e37f07282fc9b63..0000000000000000000000000000000000000000
+--- a/temper/temper-companions-ui/temper-companions-ui
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-companions-ui
+\ No newline at end of file
