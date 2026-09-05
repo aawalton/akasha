@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/infrastructure/eso-rig/eso-rig-entrypoint/eso-rig-entrypoint.shell-script.ts b/infrastructure/eso-rig/eso-rig-entrypoint/eso-rig-entrypoint.shell-script.ts
+index cd65a6a55e7c7f195b7acbbb0cb13dbc2f49475f..45cd28f840e366e79d70251a39c71fb9c3f1ae5b 100644
+--- a/infrastructure/eso-rig/eso-rig-entrypoint/eso-rig-entrypoint.shell-script.ts
++++ b/infrastructure/eso-rig/eso-rig-entrypoint/eso-rig-entrypoint.shell-script.ts
+@@ -22,7 +22,8 @@ export const esoRigEntrypoint = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The named input device is the authority on what the X server reads input from.",
++      statement:
++        "The named input device is the authority on the event node the X server reads input from.",
+     },
+     {
+       invariantKind: "departure",
