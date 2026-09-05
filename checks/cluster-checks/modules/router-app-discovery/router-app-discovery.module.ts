@@ -17,7 +17,7 @@ export const routerAppDiscovery = {
     },
     {
       invariantKind: "departure",
-      statement: "An app's build root is the nearest folder above it holding a manifest.",
+      statement: "An app's build root is the nearest folder above that app holding a manifest.",
     },
     {
       invariantKind: "departure",
