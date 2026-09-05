@@ -25,7 +25,7 @@ index 58f4b89a931c6b0433cfa87ca24a0f36fd53f29d..47d2afef47ce623711d78e61d0170602
    return !personPrincipals(root).includes(name)
  }
 diff --git a/seat-system/compose-subagents/compose-subagents.module.code.ts b/seat-system/compose-subagents/compose-subagents.module.code.ts
-index 06e05bf14a79e1f5c56c5fe530350cc1001564cc..64e8e0605477175cfe22cfae31dfa73612a31a9a 100644
+index 06e05bf14a79e1f5c56c5fe530350cc1001564cc..7456987a22c0bdbda8f7cdfbfe3e1d9193f6995a 100644
 --- a/seat-system/compose-subagents/compose-subagents.module.code.ts
 +++ b/seat-system/compose-subagents/compose-subagents.module.code.ts
 @@ -17,7 +17,7 @@ const PAGE_TYPE = "subagent-kind"
@@ -62,6 +62,19 @@ index 06e05bf14a79e1f5c56c5fe530350cc1001564cc..64e8e0605477175cfe22cfae31dfa736
    }
    if (!existsSync(join(root, beside))) {
      throw new Error(`${beside} is not there, and a subagent boots on that alone`)
+@@ -109,10 +109,10 @@ function brief(root: string, path: string, value: Value): string {
+ 
+ export function kindsIn(
+   root: string,
+-  standing: readonly Listed[]
++  listed: readonly Listed[]
+ ): Readonly<Record<string, Definition>> {
+   const definitions: Record<string, Definition> = {}
+-  for (const one of standing) {
++  for (const one of listed) {
+     const value = valueOf(root, one.path)
+     const name = textAt(value, DISPATCHED_AS)
+     if (name === null || name === "") {
 diff --git a/seat-system/compose-subagents/compose-subagents.module.ts b/seat-system/compose-subagents/compose-subagents.module.ts
 index a7eb4bd34d9996d9d453e78c400cee5c4aefd31e..eca5a9033764dfa328805032fce3341dec4b15aa 100644
 --- a/seat-system/compose-subagents/compose-subagents.module.ts
