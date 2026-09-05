@@ -1,0 +1,17 @@
+diff --git a/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts b/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts
+index d8294a323cb861c7f22b0c7dd01a7475b442a7fb..8fb3c633ddee41172197e3ba7ab46bfa17ec7712 100644
+--- a/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts
++++ b/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts
+@@ -27,7 +27,11 @@ export const rulePopulationSweeping = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A rule weighing nothing may have had its construct retired out from under it, or may never have had a population at all.",
++        "A rule weighing nothing may have had its construct retired out from under that rule.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A rule weighing nothing may never have had a population at all.",
+     },
+     {
+       invariantKind: "departure",
