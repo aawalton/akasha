@@ -1,0 +1,13 @@
+diff --git a/command-system/command-server/command-server.module.code.ts b/command-system/command-server/command-server.module.code.ts
+index 8690fa82f298b7e69a86acd102aa1aac5ddb2957..4564034ca636e55c167fa93bdb854bd02b80e7ad 100644
+--- a/command-system/command-server/command-server.module.code.ts
++++ b/command-system/command-server/command-server.module.code.ts
+@@ -31,7 +31,7 @@ Commands: ${COMMANDS_SERVED.join(", ")}
+   --help  This.
+ `
+ 
+-const COMMANDS_AT = "command-system/commands"
++const COMMANDS_AT = "commands"
+ 
+ async function commandFile(command: string): Promise<string> {
+   const at = join(COMMANDS_AT, command, `${command}.command.code.ts`)
