@@ -519,6 +519,14 @@ index 9287525bc03c55d84ca27c9cba35d5c7e60b9a27..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../story/engine/core
 \ No newline at end of file
+diff --git a/story/tower/core/story-tower-core b/story/tower/core/story-tower-core
+deleted file mode 120000
+index 3fe98cbbcbbb1df61585594dd20e93c745f6f3e9..0000000000000000000000000000000000000000
+--- a/story/tower/core/story-tower-core
++++ /dev/null
+@@ -1 +0,0 @@
+-../../story/tower/core
+\ No newline at end of file
 diff --git a/utils-fs/utils-fs b/utils-fs/utils-fs
 deleted file mode 120000
 index 8a4350bb29c2cb7e9846cf1a8d7d0cf52c94bd83..0000000000000000000000000000000000000000
