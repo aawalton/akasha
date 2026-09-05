@@ -12,3 +12,17 @@ index f16f7d1008f4d6a6c677ab8a32488f031357c5ea..94a5e74df81d694e6f070bc08eaec674
 -    },
    ],
  } as const satisfies Module
+diff --git a/temper/temper-game-catalog-capture-host/antiquity-lore-catalog-schema/antiquity-lore-catalog-schema.module.ts b/temper/temper-game-catalog-capture-host/antiquity-lore-catalog-schema/antiquity-lore-catalog-schema.module.ts
+index 85fd3a8d05977a8f74b5ee502e5ffb92cb222bdd..e9ae3adfd69fea8252f0c1aa85c01012f49b51e7 100644
+--- a/temper/temper-game-catalog-capture-host/antiquity-lore-catalog-schema/antiquity-lore-catalog-schema.module.ts
++++ b/temper/temper-game-catalog-capture-host/antiquity-lore-catalog-schema/antiquity-lore-catalog-schema.module.ts
+@@ -15,9 +15,5 @@ export const antiquityLoreCatalogSchema = {
+       invariantKind: "departure",
+       statement: "An entry carrying a field the schema does not name is refused.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "The inferred type is checked against the shape in `temper-capture-shapes`.",
+-    },
+   ],
+ } as const satisfies Module
