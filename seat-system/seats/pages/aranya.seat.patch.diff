@@ -1287,3 +1287,11 @@ index 3ab99f0e2a9acb2376147360bb1e05f1a570e068..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-lib-media-provider
 \ No newline at end of file
+diff --git a/temper/temper-lib-notification/temper-lib-notification b/temper/temper-lib-notification/temper-lib-notification
+deleted file mode 120000
+index 86272dfcd78e81b5a2b3e43b588bc13db3a2e801..0000000000000000000000000000000000000000
+--- a/temper/temper-lib-notification/temper-lib-notification
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-lib-notification
+\ No newline at end of file
