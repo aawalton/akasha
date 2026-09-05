@@ -30,7 +30,8 @@ export const typeDeclaration = {
     },
     {
       invariantKind: "departure",
-      statement: "A declaration describes code written elsewhere or types shared between ours.",
+      statement:
+        "A declaration describes code written elsewhere or types shared between our modules.",
     },
     {
       invariantKind: "departure",
