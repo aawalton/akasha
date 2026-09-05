@@ -35,12 +35,12 @@ export function durationOf(startedAt: string | undefined, completedAt: string): 
 }
 
 export function notesUnder(
-  standing: string | undefined,
+  held: string | undefined,
   added: string | undefined
 ): string | undefined {
   if (added === undefined) return undefined
-  if (standing === undefined || standing === "") return added
-  return `${standing}\n\n${added}`
+  if (held === undefined || held === "") return added
+  return `${held}\n\n${added}`
 }
 
 export async function exerciseSessionFinish(

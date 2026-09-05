@@ -4,7 +4,7 @@ export const exerciseToday = {
   id: "01a0685d-b7ab-71db-86ab-5d91f00a25e6",
   pageTypeSlug: "command",
   slug: "exercise-today",
-  definition: "the command naming one day's scheduled focus and whether a session stands for it",
+  definition: "the command naming one day's scheduled focus and whether a session exists for it",
   code: "ts",
   changeKindSlug: "change-none",
   taking: [
@@ -16,7 +16,7 @@ export const exerciseToday = {
   ],
   helpNotes: [
     "the focus comes from the active schedule's day for the weekday the date falls on.",
-    "a day with no schedule day standing is answered with an empty focus rather than refused.",
+    "a day no schedule day exists for is answered with an empty focus rather than refused.",
     "the session answered is the newest one started on that date.",
   ],
   invariants: [
@@ -30,7 +30,7 @@ export const exerciseToday = {
     },
     {
       invariantKind: "departure",
-      statement: "No active schedule standing is an empty focus rather than a refusal.",
+      statement: "No active schedule existing is an empty focus rather than a refusal.",
     },
     {
       invariantKind: "departure",

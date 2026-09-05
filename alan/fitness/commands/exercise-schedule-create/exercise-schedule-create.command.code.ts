@@ -104,8 +104,8 @@ export async function exerciseScheduleCreate(
   const focuses = focusByDay(said.named)
   if ("refused" in focuses) return refusedBy(focuses.refused)
 
-  const standing = await rowsFor({ pageTypeSlug: WORKOUT_SCHEDULE, select: ["id", "slug"] })
-  if ("unread" in standing) return refusedBy([standing.unread], DATA)
+  const schedules = await rowsFor({ pageTypeSlug: WORKOUT_SCHEDULE, select: ["id", "slug"] })
+  if ("unread" in schedules) return refusedBy([schedules.unread], DATA)
   const active = await rowsFor({
     pageTypeSlug: WORKOUT_SCHEDULE,
     where: [{ key: "workoutScheduleActive", eq: true }],
@@ -120,7 +120,7 @@ export async function exerciseScheduleCreate(
   if ("refused" in stood) return refusedBy([stood.refused], DATA)
 
   const taken = new Set(
-    standing.rows.map((row) => row.slug).filter((slug): slug is string => slug !== null)
+    schedules.rows.map((row) => row.slug).filter((slug): slug is string => slug !== null)
   )
   const scheduleSlug = freeSlug(pageStem(title), taken)
 

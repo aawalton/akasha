@@ -4,7 +4,7 @@ export const exerciseScheduleCreate = {
   id: "01a0685d-b7ab-7644-9eae-33ce30094126",
   pageTypeSlug: "command",
   slug: "exercise-schedule-create",
-  definition: "the command standing up a weekly schedule and the seven days it is made of",
+  definition: "the command setting up a weekly schedule and the seven days it is made of",
   code: "ts",
   changeKindSlug: "change-mechanical",
   taking: [
@@ -27,7 +27,7 @@ export const exerciseScheduleCreate = {
   ],
   helpNotes: [
     "every day takes a focus, and rest is one of them.",
-    "the schedule already active is stood down before this one is stood up.",
+    "the schedule already active is stood down before this one is set up.",
     "a day's slug is derived from the schedule's slug and the weekday.",
   ],
   invariants: [
@@ -37,7 +37,7 @@ export const exerciseScheduleCreate = {
     },
     {
       invariantKind: "departure",
-      statement: "The schedule already active is stood down before this one is stood up.",
+      statement: "The schedule already active is stood down before this one is set up.",
     },
     {
       invariantKind: "departure",
