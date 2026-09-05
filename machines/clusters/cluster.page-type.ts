@@ -19,7 +19,7 @@ export const cluster = {
     {
       invariantKind: "gap",
       statement:
-        "A workload reaches a node by what that workload needs rather than by a class node carries.",
+        "A workload reaches a node by the needs that workload states rather than by a class node carries.",
     },
     {
       invariantKind: "gap",
@@ -28,7 +28,7 @@ export const cluster = {
     {
       invariantKind: "gap",
       statement:
-        "What a person did on one of those machines under Windows, that person can still do.",
+        "The work a person did on one of those machines under Windows, that person can still do.",
     },
     {
       invariantKind: "gap",
