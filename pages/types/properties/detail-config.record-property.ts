@@ -48,7 +48,7 @@ export const detailConfig = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type stating none takes what the page type above states.",
+      statement: "A page type stating none takes the layout the page type above states.",
     },
     {
       invariantKind: "departure",
@@ -57,7 +57,7 @@ export const detailConfig = {
     },
     {
       invariantKind: "departure",
-      statement: "A page gathering other pages is laid out by what that page gathers.",
+      statement: "A page gathering other pages is laid out by the pages that page gathers.",
     },
   ],
 } as const satisfies RecordProperty
