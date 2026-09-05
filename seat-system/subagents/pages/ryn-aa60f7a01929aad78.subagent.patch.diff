@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-progress/rules/properties/conditions.page-property-entry.ts b/temper/temper-progress/rules/properties/conditions.page-property-entry.ts
+index a69c3894e1c94fe498d42056b251a9ac2e371a70..780cac128f4ba54e5ad8d96b09ab67ad10781c75 100644
+--- a/temper/temper-progress/rules/properties/conditions.page-property-entry.ts
++++ b/temper/temper-progress/rules/properties/conditions.page-property-entry.ts
+@@ -19,7 +19,7 @@ export const conditions = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A field names a temper-condition-field page holding what the field tests.",
++      statement: "A field names a temper-condition-field page holding the key the field tests.",
+     },
+     {
+       invariantKind: "departure",
