@@ -45,7 +45,7 @@ export const temperUpstreamData = {
     {
       invariantKind: "departure",
       statement:
-        "A ruling is refused where the upstream files it reads are not on this workstation.",
+        "A ruling is refused where the upstream files that ruling reads are not on this workstation.",
     },
     {
       invariantKind: "departure",
