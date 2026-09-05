@@ -46,3 +46,19 @@ index 4eb2651e09e2d86b5b019c94306848f8004b9798..a68b3d8ae88e6eb089288b7c69e60ddb
      {
        invariantKind: "absence",
        statement: "No watcher on a source file is registered here.",
+diff --git a/editor-extension/status-bar-panel/status-bar-panel.module.ts b/editor-extension/status-bar-panel/status-bar-panel.module.ts
+index 4e1776bfa9b59a305c9fff57e77aff1b95326c1a..ff03e912998f9c7ea8de33d9f2ec2ef0baa8d6a7 100644
+--- a/editor-extension/status-bar-panel/status-bar-panel.module.ts
++++ b/editor-extension/status-bar-panel/status-bar-panel.module.ts
+@@ -55,10 +55,7 @@ export const statusBarPanel = {
+       invariantKind: "departure",
+       statement: "Every drawing's outcome is recorded as an observation.",
+     },
+-    {
+-      invariantKind: "absence",
+-      statement: "No timer starts a drawing.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here reads a stoplight or a usage figure.",
