@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts b/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts
+index 5735835abb9f2fd75886194bd56123ac1c464164..f616e709bcbd688e3ccf225046c6ecbc5e31744a 100644
+--- a/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts
++++ b/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts
+@@ -44,7 +44,7 @@ export const seatTranscriptRotation = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A record's timestamp is read off the top of that record rather than out of anything nested in it.",
++        "A record's timestamp is read off the record's top rather than out of anything nested in the record.",
+     },
+     {
+       invariantKind: "departure",
