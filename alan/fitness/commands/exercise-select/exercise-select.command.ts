@@ -21,8 +21,6 @@ export const exerciseSelect = {
   helpNotes: [
     "the plan is worked out from the day's focus, the week's pattern coverage, the policy, the in-kit pool and each movement's history.",
     "every pick is answered with its per-goal scores, the features read, the rules fired, its anchor state and what it beat.",
-    "a slot nothing filled is answered with why nothing filled it.",
-    "a day with no focus scheduled is an empty plan rather than a refusal.",
   ],
   invariants: [
     {
