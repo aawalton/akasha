@@ -1,3 +1,20 @@
+diff --git a/temper/temper-upstream-data/map-data-upstream-port/map-data-upstream-port.module.code.ts b/temper/temper-upstream-data/map-data-upstream-port/map-data-upstream-port.module.code.ts
+index 289eb3d5ff32de5d80d03d98eeaee06cd3798a04..6fce7a017d8c004dbd8f3ae19cb6ba0457a92857 100644
+--- a/temper/temper-upstream-data/map-data-upstream-port/map-data-upstream-port.module.code.ts
++++ b/temper/temper-upstream-data/map-data-upstream-port/map-data-upstream-port.module.code.ts
+@@ -10,9 +10,9 @@ const SOURCE = join(addonsDir(), "LibMapData", "LibMapData_Data.lua")
+ const OUT_REL = "src/generated/map-data.generated.ts"
+ 
+ const HEADER =
+-  "// Ported 1:1 from LibMapData v1.21 (AddOnVersion 121) LibMapData_Data.lua via `ops temper upstream-data port lib-map-data`.\n" +
+-  "// Regenerate with: ops temper upstream-data port lib-map-data --code-root <code-checkout>\n" +
+-  "// Verify with:     ops temper upstream-data verify lib-map-data\n"
++  "// Ported 1:1 from LibMapData v1.21 (AddOnVersion 121) LibMapData_Data.lua via `akasha temper-upstream-data-port lib-map-data`.\n" +
++  "// Regenerate with: akasha temper-upstream-data-port lib-map-data --code-root <code-checkout>\n" +
++  "// Verify with:     akasha temper-upstream-data-verify lib-map-data\n"
+ 
+ export async function port(codeRoot: string): Promise<void> {
+   const pkgDir = join(codeRoot, PACKAGE_OF["lib-map-data"])
 diff --git a/temper/temper-upstream-data/zone-upstream-port/zone-upstream-port.module.code.ts b/temper/temper-upstream-data/zone-upstream-port/zone-upstream-port.module.code.ts
 index e5033a85d65d091ae081407c9e9637e2fe5dfb3b..265717b66a083b16f598137a4b5783d9d34e4df8 100644
 --- a/temper/temper-upstream-data/zone-upstream-port/zone-upstream-port.module.code.ts
