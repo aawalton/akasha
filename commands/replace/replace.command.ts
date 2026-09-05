@@ -13,6 +13,7 @@ export const replace = {
     { said: "--file-path <path>", takes: "a file the passage is replaced in, said once per file" },
     { said: "--old-file <file>", takes: "a file holding the passage to replace" },
     { said: "--new-file <file>", takes: "a file holding what that passage becomes" },
+    { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
     { said: "--dry-run", takes: "read what each file named holds and change nothing" },
     { said: "--message <text>", takes: "what the commit is for" },
     { said: "--message-file <file>", takes: "a file the commit message is read from" },
