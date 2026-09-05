@@ -35,7 +35,7 @@ index eac319141ba75c230e6403dbc341fb883e2a6308..c68f7b906645c1c9d791f1f2875fec39
    expect(refusalIn("", root, root)).toBeNull()
    expect(refusalIn("   ", root, root)).toBeNull()
 diff --git a/hook-system/agent-hooks/block-biome/block-biome.agent-hook.test.ts b/hook-system/agent-hooks/block-biome/block-biome.agent-hook.test.ts
-index 062ca4c8ee2f8c5ba0018acdbd780af2c0906b09..158b95bbaaa6038beb9b1367f1b3936ff0defc06 100644
+index 062ca4c8ee2f8c5ba0018acdbd780af2c0906b09..3143be91c6e62926288974c760f645412263dd5e 100644
 --- a/hook-system/agent-hooks/block-biome/block-biome.agent-hook.test.ts
 +++ b/hook-system/agent-hooks/block-biome/block-biome.agent-hook.test.ts
 @@ -76,7 +76,7 @@ test("a package script reaching biome is not read here", () => {
@@ -47,8 +47,17 @@ index 062ca4c8ee2f8c5ba0018acdbd780af2c0906b09..158b95bbaaa6038beb9b1367f1b3936f
    expect(judged("ls && biome check .")).not.toBeNull()
    expect(judged("biome check . ; echo done")).not.toBeNull()
  })
+@@ -85,7 +85,7 @@ test("a call inside a quoted run is not read as a call", () => {
+   expect(judged('echo "biome check ."')).toBeNull()
+ })
+ 
+-test("a call running outside the repository this hook stands in is let through", () => {
++test("a call running outside the repository this hook sits in is let through", () => {
+   expect(judged("biome check .", "/var/tmp/probe")).toBeNull()
+ })
+ 
 diff --git a/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.test.ts b/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.test.ts
-index f31d96b426cb407fd569f9d434d3a15bb4093081..232d991c531844d5521ec9c9a6c77103b5b73b56 100644
+index f31d96b426cb407fd569f9d434d3a15bb4093081..4cbbf29fab2d126a37f5b38f94d4cc961fa4f746 100644
 --- a/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.test.ts
 +++ b/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.test.ts
 @@ -49,7 +49,7 @@ test("a path naming no akasha segment is refused as well, which is what closed t
@@ -60,6 +69,15 @@ index f31d96b426cb407fd569f9d434d3a15bb4093081..232d991c531844d5521ec9c9a6c77103
    expect(judged("bun test", "/var/tmp/probe")).toBeNull()
    expect(judged("bun test akasha/", "/var/tmp/probe")).toBeNull()
    expect(judged("bun test shared/one", "/var/tmp/probe")).toBeNull()
+@@ -101,7 +101,7 @@ test("a runner that is not bun is stood aside", () => {
+   }
+ })
+ 
+-test("a refusal answers the whole call, wherever the act stands in the chain", () => {
++test("a refusal answers the whole call, wherever the act is in the chain", () => {
+   expect(judged("ls && bun test")).not.toBeNull()
+   expect(judged("bun test akasha/ ; echo done")).not.toBeNull()
+ })
 diff --git a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts b/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts
 index c5a83597e843954f4b76ca76429bd36998a3c8c3..6a98d4ca07dfbc877741d4b3a6f064087242cfec 100644
 --- a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts
