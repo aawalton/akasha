@@ -101,7 +101,7 @@ export const subagentCensus = {
     },
     {
       invariantKind: "departure",
-      statement: "What a seat's transcript says is handed in rather than read here.",
+      statement: "The evidence a seat's transcript carries is handed in rather than read here.",
     },
   ],
 } as const satisfies Module
