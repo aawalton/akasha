@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/story/games/game.page-type.ts b/story/games/game.page-type.ts
-index 13652a4996b9c861b50ad0ed80616ca457971e27..f0578f6f532f6ca5cace0df7b8e2ea9bc5aaa1aa 100644
+index 13652a4996b9c861b50ad0ed80616ca457971e27..d38e8bba4b85db003507d0d872eb00b5e2c056f0 100644
 --- a/story/games/game.page-type.ts
 +++ b/story/games/game.page-type.ts
 @@ -144,7 +144,7 @@ export const game = {
@@ -18,6 +18,15 @@ index 13652a4996b9c861b50ad0ed80616ca457971e27..f0578f6f532f6ca5cace0df7b8e2ea9b
        invariantKind: "departure",
 -      statement: "A game's rulebook settles what an action does.",
 +      statement: "A game's rulebook settles the effect of an action.",
+     },
+     {
+       invariantKind: "departure",
+@@ -197,7 +197,7 @@ export const game = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A state holds what has been revealed rather than everything the game knows.",
++      statement: "A state holds the world as revealed rather than everything the game knows.",
      },
      {
        invariantKind: "departure",
