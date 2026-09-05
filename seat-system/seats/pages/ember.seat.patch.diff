@@ -1,0 +1,12 @@
+diff --git a/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts b/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts
+index 030befdd1a4a9dba935970f100a85511b2a8d95e..d058fa402af6644dac2ee6cbf6d9c81478a3a12b 100644
+--- a/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts
++++ b/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts
+@@ -102,6 +102,6 @@ export function ruleFromPage(held: HeldRule): CategoryRule {
+ 
+ export function rulesFromPages(held: readonly HeldRule[]): readonly CategoryRule[] {
+   return [...held]
+-    .sort((one, two) => one.page.displayOrder - two.page.displayOrder)
++    .sort((one, two) => two.page.displayOrder - one.page.displayOrder)
+     .map(ruleFromPage)
+ }
