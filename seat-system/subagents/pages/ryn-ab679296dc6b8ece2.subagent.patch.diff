@@ -1,0 +1,13 @@
+diff --git a/editor-extension/work-tree-panel/work-tree-panel.module.ts b/editor-extension/work-tree-panel/work-tree-panel.module.ts
+index ea3d2c398650eac5e383cf76b6f68327d657ae60..b856a4d5f84751452d6b5bc1e70f730b043059c1 100644
+--- a/editor-extension/work-tree-panel/work-tree-panel.module.ts
++++ b/editor-extension/work-tree-panel/work-tree-panel.module.ts
+@@ -9,7 +9,7 @@ export const workTreePanel = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The panel is read once as it starts, before any write asks for a read.",
++      statement: "The panel is read once as that panel starts, before any write asks for a read.",
+     },
+     {
+       invariantKind: "departure",
