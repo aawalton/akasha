@@ -8,10 +8,4 @@ export const designEntries = {
   slug: "design-entries",
   propertySlug: "design-entries",
   definition: "the decisions a game's design rests on",
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "One row is one json object on one line.",
-    },
-  ],
 } as const satisfies FileProperty
