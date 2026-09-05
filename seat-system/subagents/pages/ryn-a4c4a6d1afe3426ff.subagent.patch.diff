@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/reminder-system/reminder-system.workspace-package.ts b/reminder-system/reminder-system.workspace-package.ts
+index 9201f67afe06dc0e22c2e39fe84d56c7e872af5a..d969dc61d8c2af30a54c3e675ec0dd46f6a52bac 100644
+--- a/reminder-system/reminder-system.workspace-package.ts
++++ b/reminder-system/reminder-system.workspace-package.ts
+@@ -10,7 +10,7 @@ export const reminderSystem = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A reminder is sent by a clock rather than by whoever wrote the reminder.",
++      statement: "A reminder is sent by a clock rather than by the person who wrote the reminder.",
+     },
+     {
+       invariantKind: "departure",
