@@ -9,11 +9,11 @@ export const iosProgramComponents = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "Nothing here reads the Swift to learn what a program compiles.",
+      statement: "Nothing here reads the Swift to learn the components a program compiles.",
     },
     {
       invariantKind: "departure",
-      statement: "What a program compiles is stated on its akasha ios-program page.",
+      statement: "The components a program compiles are stated on its akasha ios-program page.",
     },
     {
       invariantKind: "constraint",
