@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/seat-reset/seat-reset.module.ts b/seat-system/seat-reset/seat-reset.module.ts
+index 0c220ea959e6e2b2b58fc7f3fd491123e0d82fa0..dd8ae60830b4bddcb018735647a48ebce57e7c4e 100644
+--- a/seat-system/seat-reset/seat-reset.module.ts
++++ b/seat-system/seat-reset/seat-reset.module.ts
+@@ -9,7 +9,8 @@ export const seatReset = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The ops dispatcher imports this module and calls the default export it declares.",
++      statement:
++        "The ops dispatcher imports this module and calls the default export this module declares.",
+     },
+     {
+       invariantKind: "departure",
