@@ -1,0 +1,204 @@
+diff --git a/seat-system/supervisor-decide/supervisor-decide.module.code.ts b/seat-system/supervisor-decide/supervisor-decide.module.code.ts
+index 6bc3af4ffb155915eba8e203505a85473931b967..dd0fe79081afa5920dbcd719a7139ef1b39de16d 100644
+--- a/seat-system/supervisor-decide/supervisor-decide.module.code.ts
++++ b/seat-system/supervisor-decide/supervisor-decide.module.code.ts
+@@ -36,7 +36,7 @@ const NOTICE_OWNER = "seat-system/compose-notices/compose-notices.module.code.ts
+ function requireNotice(all: Readonly<Record<string, string>>, key: string): string {
+   const text = all[key]
+   if (text === undefined) {
+-    fail(
++    throw new Error(
+       `no notice is called \`${key}\` — ${NOTICE_OWNER} owns that name and the document behind ` +
+         "it, and a notice carrying nothing would reach a seat as an empty turn"
+     )
+@@ -44,18 +44,8 @@ function requireNotice(all: Readonly<Record<string, string>>, key: string): stri
+   return text
+ }
+ 
+-// `notices` throws, because it is a function rather than a command. Here it is one, so a
+-// composing that fails says what failed on the line a caller's mistake is said on.
+-function allNotices(): Readonly<Record<string, string>> {
+-  try {
+-    return notices()
+-  } catch (error) {
+-    fail(error instanceof Error ? error.message : String(error))
+-  }
+-}
+-
+ function resumeNotices(): ResumeNotices {
+-  const all = allNotices()
++  const all = notices()
+   return {
+     "restart-immediate": requireNotice(all, "restart-immediate"),
+     "restart-deferred": requireNotice(all, "restart-deferred"),
+@@ -75,7 +65,7 @@ export type LimitResumeAnswer =
+ 
+ function limitResumeAnswer(decision: LimitResumeDecision): LimitResumeAnswer {
+   if (decision.kind !== "nudge") return decision
+-  const nudge = requireNotice(allNotices(), NUDGE_NOTICE)
++  const nudge = requireNotice(notices(), NUDGE_NOTICE)
+   return { kind: "nudge", reason: decision.reason, nudge, floorMs: LIMIT_RESUME_FLOOR_MS }
+ }
+ 
+@@ -91,7 +81,7 @@ export type WaitResumeAnswer =
+ 
+ function waitResumeAnswer(decision: WaitResumeDecision): WaitResumeAnswer {
+   if (decision.kind !== "nudge") return decision
+-  const nudge = requireNotice(allNotices(), WAIT_NUDGE_NOTICE)
++  const nudge = requireNotice(notices(), WAIT_NUDGE_NOTICE)
+   return { kind: "nudge", reason: decision.reason, attempt: decision.attempt, nudge }
+ }
+ 
+@@ -111,15 +101,17 @@ const DECISIONS: Readonly<Record<string, (value: unknown, path: string) => unkno
+ 
+ const KEYS: readonly string[] = Object.keys(DECISIONS)
+ 
++// What an importer asks for: an answer to every decision the payload names. It throws rather
++// than exiting, so a supervisor asking a question wrong is told rather than ended.
+ export function answer(payload: Record<string, unknown>): Record<string, unknown> {
+   const asked = Object.keys(payload)
+   if (asked.length === 0) {
+-    fail(`the payload asks nothing — this command takes ${KEYS.join(", ")}`)
++    throw new Error(`the payload asks nothing — this takes ${KEYS.join(", ")}`)
+   }
+   const stray = asked.filter((key) => !KEYS.includes(key))
+   if (stray.length > 0) {
+-    fail(
+-      `\`${stray.join("`, `")}\` names no decision this command makes — it takes ${KEYS.join(", ")}`
++    throw new Error(
++      `\`${stray.join("`, `")}\` names no decision this makes — it takes ${KEYS.join(", ")}`
+     )
+   }
+   const answers: Record<string, unknown> = {}
+@@ -144,7 +136,13 @@ function rejectArguments(argv: readonly string[]): void {
+ async function main(): Promise<void> {
+   rejectArguments(process.argv.slice(2))
+   const payload = record(await readPayload("-"), "the payload")
+-  process.stdout.write(`${JSON.stringify(answer(payload), null, 2)}\n`)
++  let answered: Record<string, unknown>
++  try {
++    answered = answer(payload)
++  } catch (error) {
++    fail(error instanceof Error ? error.message : String(error))
++  }
++  process.stdout.write(`${JSON.stringify(answered, null, 2)}\n`)
+ }
+ 
+ if (import.meta.main) await main()
+diff --git a/seat-system/supervisor-decide/supervisor-decide.module.ts b/seat-system/supervisor-decide/supervisor-decide.module.ts
+index 32ea61ff118b0132d3063814407bdeb0a61eee35..5d4f12b69730504bccfc39fad7e22065b36357fb 100644
+--- a/seat-system/supervisor-decide/supervisor-decide.module.ts
++++ b/seat-system/supervisor-decide/supervisor-decide.module.ts
+@@ -9,7 +9,7 @@ export const supervisorDecide = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This module is run as its own program so a supervisor can kill it at a ceiling.",
++      statement: "What asks for a decision imports this and calls it rather than running it.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts b/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts
+index ba6c6b97b1c3bf2f7ceddb9a03f31d52a0b7f521..43f7c66f5c9d15b06161eab187be610471fe0b37 100644
+--- a/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts
++++ b/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts
+@@ -1,4 +1,4 @@
+-import type { answer } from "../supervisor-decide/supervisor-decide.module.code.ts"
++import { answer } from "../supervisor-decide/supervisor-decide.module.code.ts"
+ 
+ export function classifyRateLimitDeath(text: string): boolean {
+   let lastAssistant: Record<string, unknown> | null = null
+@@ -20,39 +20,25 @@ export function classifyRateLimitDeath(text: string): boolean {
+ 
+ export const SUPERVISOR_DECIDE_COMMAND = "supervisor-decide"
+ 
+-export const SUPERVISOR_DECIDE_CEILING_MS = 5_000
+-
+-// The specifier here is the one the type import above holds, so moving the decide module is a
+-// diagnostic rather than a path that is not there when a decision is asked for.
+-const SUPERVISOR_DECIDE_AT = new URL(
+-  "../supervisor-decide/supervisor-decide.module.code.ts",
+-  import.meta.url
+-).pathname
+-
+-/** What the decide command answers. Callers narrow it themselves. */
++/** What the decide module answers. Callers narrow it themselves. */
+ type DecideAnswer = ReturnType<typeof answer>
+ 
+-export function askSupervisorDecide(stdin: string): Promise<unknown> {
+-  return askCommandAt(SUPERVISOR_DECIDE_AT, stdin)
++// Every caller states its question as JSON, so that is what arrives here. The answering is a call
++// rather than a program, so a question that is no use is a throw rather than an exit code.
++function decided(stdin: string): DecideAnswer {
++  const payload: unknown = JSON.parse(stdin)
++  if (payload === null || typeof payload !== "object" || Array.isArray(payload)) {
++    throw new Error("the payload is not an object")
++  }
++  return answer(payload as Record<string, unknown>)
+ }
+ 
+-async function askCommandAt(entry: string, stdin: string): Promise<DecideAnswer> {
+-  const proc = Bun.spawn({
+-    cmd: [process.execPath, entry],
+-    stdin: new TextEncoder().encode(stdin),
+-    stdout: "pipe",
+-    stderr: "pipe",
+-  })
+-  const ceiling = setTimeout(() => proc.kill(), SUPERVISOR_DECIDE_CEILING_MS)
++// Every caller stages this as a promise and catches a rejection, so a throw is handed back that
++// way rather than raised at the call.
++export function askSupervisorDecide(stdin: string): Promise<unknown> {
+   try {
+-    const [out, err, code] = await Promise.all([
+-      new Response(proc.stdout).text(),
+-      new Response(proc.stderr).text(),
+-      proc.exited,
+-    ])
+-    if (code !== 0) throw new Error(`${entry} exited ${code}: ${err.trim()}`)
+-    return JSON.parse(out) as DecideAnswer
+-  } finally {
+-    clearTimeout(ceiling)
++    return Promise.resolve(decided(stdin))
++  } catch (error) {
++    return Promise.reject(error instanceof Error ? error : new Error(String(error)))
+   }
+ }
+diff --git a/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.ts b/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.ts
+index 042ffc5b2e2e9ae332e617b0fd6b7edff0511da8..b77ec373b9ac91191db3b300675182454e051fae 100644
+--- a/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.ts
++++ b/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.ts
+@@ -4,7 +4,7 @@ export const supervisorLimitResumeEffects = {
+   id: "01a06838-5a84-7006-be45-2e23ffbbeeca",
+   pageTypeSlug: "module",
+   slug: "supervisor-limit-resume-effects",
+-  definition: "a rate-limit death read out of a transcript, and the decide command asked about it",
++  definition: "a rate-limit death read out of a transcript, and the decide module asked about it",
+   code: "ts",
+   test: "ts",
+   invariants: [
+@@ -27,22 +27,15 @@ export const supervisorLimitResumeEffects = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The decide command is spawned as a program rather than called as a function here.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A decide that has not answered in five seconds is killed.",
++      statement: "The decision is made by the decide module rather than here.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A decide that exits non-zero is at fault, and the fault carries what it wrote to stderr.",
++      statement: "The decide module is imported from beside this one and its function called.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The decide module is reached beside this one rather than by a path from the root.",
++      statement: "A decide that throws is at fault, and the fault carries what it said.",
+     },
+   ],
+ } as const satisfies Module
