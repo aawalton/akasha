@@ -1,5 +1,5 @@
 diff --git a/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts b/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts
-index 794422a02c4fbecda7a54055dc051f0080647c68..f86658437b3d587607e9b6e8441521af0d83723a 100644
+index 794422a02c4fbecda7a54055dc051f0080647c68..de148a9955d22635370d137f6f666a53626d1635 100644
 --- a/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts
 +++ b/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts
 @@ -109,7 +109,7 @@ test("a resumed session keeps its readings", () => {
@@ -29,6 +29,15 @@ index 794422a02c4fbecda7a54055dc051f0080647c68..f86658437b3d587607e9b6e8441521af
    const root = rooted()
    cleared(root, ONE, "resume")
    expect(existsSync(readingAt(root, TWO))).toBe(true)
+@@ -200,7 +200,7 @@ test("a record that is not there is no error, and nothing is put in its place",
+   expect(existsSync(join(root, READS_AT))).toBe(false)
+ })
+ 
+-test("a record that cannot be reached is left as it stands", () => {
++test("a record that cannot be reached is left as it is", () => {
+   const root = bare()
+   const at = join(root, READS_AT, "agent", "id")
+   mkdirSync(join(at, ".."), { recursive: true })
 diff --git a/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.test.ts b/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.test.ts
 index 228333f1bbf8824ad0318039c1aa724a3258ea42..43f91d7f93bfc9cde41673227e7da10ddbe22b68 100644
 --- a/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.test.ts
