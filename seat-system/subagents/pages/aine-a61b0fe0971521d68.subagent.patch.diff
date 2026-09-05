@@ -50,7 +50,7 @@ index 4ddbc6903b18a23d0e7a0307e504e2b4ee9a8542..5b0c68b160f7547bcd5b97853c73513a
    ],
  } as const satisfies WorkstationService
 diff --git a/service-system/workstation-services/pages/surplus-fall-notifier.workstation-service.ts b/service-system/workstation-services/pages/surplus-fall-notifier.workstation-service.ts
-index cf8271d6af6de186d053900a668de8fef921d1cd..f183246ff816454a7a436c7e9ac660b8422556fa 100644
+index cf8271d6af6de186d053900a668de8fef921d1cd..6f99f5ae4c7e0ca3c5c83622932af50908104fc7 100644
 --- a/service-system/workstation-services/pages/surplus-fall-notifier.workstation-service.ts
 +++ b/service-system/workstation-services/pages/surplus-fall-notifier.workstation-service.ts
 @@ -17,7 +17,7 @@ export const surplusFallNotifier = {
@@ -62,8 +62,17 @@ index cf8271d6af6de186d053900a668de8fef921d1cd..f183246ff816454a7a436c7e9ac660b8
      },
      {
        invariantKind: "departure",
+@@ -35,7 +35,7 @@ export const surplusFallNotifier = {
+     {
+       invariantKind: "stopgap",
+       statement:
+-        "The exit status that must prevent a restart stands nowhere the unit is written from.",
++        "The exit status that must prevent a restart exists nowhere the unit is written from.",
+     },
+     {
+       invariantKind: "gap",
 diff --git a/service-system/workstation-services/pages/sweep-page-answers.workstation-service.ts b/service-system/workstation-services/pages/sweep-page-answers.workstation-service.ts
-index 4d9d48b20d6d89949cfc9b4e59edae7636830d64..40ba03f96225343c170491aeb22da545ad1ee566 100644
+index 4d9d48b20d6d89949cfc9b4e59edae7636830d64..22500bd026a6d39aa569aeb78c5ca86f9b0cd6e7 100644
 --- a/service-system/workstation-services/pages/sweep-page-answers.workstation-service.ts
 +++ b/service-system/workstation-services/pages/sweep-page-answers.workstation-service.ts
 @@ -4,7 +4,7 @@ export const sweepPageAnswers = {
@@ -75,3 +84,13 @@ index 4d9d48b20d6d89949cfc9b4e59edae7636830d64..40ba03f96225343c170491aeb22da545
    runs: ["bun pages/answer-sweeping/page-answer-sweeping.module.code.ts"],
    enabled: true,
    systemd: {
+@@ -16,8 +16,7 @@ export const sweepPageAnswers = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Answers from different states stand together, so no writing path takes an old one.",
++      statement: "Answers from different states sit together, so no writing path takes an old one.",
+     },
+     {
+       invariantKind: "departure",
