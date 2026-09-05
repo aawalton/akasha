@@ -1,0 +1,12 @@
+diff --git a/infrastructure/inference-commands/inference-music/inference-music.command.ts b/infrastructure/inference-commands/inference-music/inference-music.command.ts
+index 18aadeba69cc6f83e686668690db825ac246092b..528526bc15ae96d8f1090f76ddbf0695cd9a59e0 100644
+--- a/infrastructure/inference-commands/inference-music/inference-music.command.ts
++++ b/infrastructure/inference-commands/inference-music/inference-music.command.ts
+@@ -31,7 +31,6 @@ export const inferenceMusic = {
+     "the render is submitted as a task and then polled, so the timeout counts the whole wait rather than one request.",
+     "a seed nothing named is drawn, and the seed is recorded whether it was drawn or said.",
+     "the steps default to what the turbo distill was trained for, and raising them costs time for quality.",
+-    "a run row is filed whether the render finished or failed.",
+   ],
+   invariants: [
+     {
