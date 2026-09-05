@@ -1,0 +1,59 @@
+runsWarrants: false
+diff --git a/infrastructure/seaweedfs/backup-bulk/seaweedfs-backup-bulk.cluster-service.code.attachment.ts b/infrastructure/seaweedfs/backup-bulk/seaweedfs-backup-bulk.cluster-service.code.attachment.ts
+deleted file mode 100644
+index 5bc5250fb7e51c5f7994fc86ab514ed33883638e..0000000000000000000000000000000000000000
+--- a/infrastructure/seaweedfs/backup-bulk/seaweedfs-backup-bulk.cluster-service.code.attachment.ts
++++ /dev/null
+@@ -1,17 +0,0 @@
+-import {
+-  BULK_NAMESPACE,
+-  backupBulkCronJobYaml,
+-  backupPvcYaml,
+-  backupPvYaml,
+-  COMPONENT_BACKUP,
+-} from "../seaweedfs-backup-manifests/seaweedfs-backup-manifests.module.code.ts"
+-import { namespaceYaml } from "../seaweedfs-namespace/seaweedfs-namespace.module.code.ts"
+-
+-export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
+-  return [
+-    { name: "namespace", yaml: namespaceYaml(BULK_NAMESPACE, COMPONENT_BACKUP) },
+-    { name: "backup-pv", yaml: backupPvYaml(BULK_NAMESPACE, BULK_NAMESPACE) },
+-    { name: "backup-pvc", yaml: backupPvcYaml(BULK_NAMESPACE, BULK_NAMESPACE) },
+-    { name: "backup-bulk", yaml: backupBulkCronJobYaml() },
+-  ]
+-}
+diff --git a/infrastructure/seaweedfs/backup-bulk/seaweedfs-backup-bulk.manifest.code.ts b/infrastructure/seaweedfs/backup-bulk/seaweedfs-backup-bulk.manifest.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5bc5250fb7e51c5f7994fc86ab514ed33883638e
+--- /dev/null
++++ b/infrastructure/seaweedfs/backup-bulk/seaweedfs-backup-bulk.manifest.code.ts
+@@ -0,0 +1,17 @@
++import {
++  BULK_NAMESPACE,
++  backupBulkCronJobYaml,
++  backupPvcYaml,
++  backupPvYaml,
++  COMPONENT_BACKUP,
++} from "../seaweedfs-backup-manifests/seaweedfs-backup-manifests.module.code.ts"
++import { namespaceYaml } from "../seaweedfs-namespace/seaweedfs-namespace.module.code.ts"
++
++export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
++  return [
++    { name: "namespace", yaml: namespaceYaml(BULK_NAMESPACE, COMPONENT_BACKUP) },
++    { name: "backup-pv", yaml: backupPvYaml(BULK_NAMESPACE, BULK_NAMESPACE) },
++    { name: "backup-pvc", yaml: backupPvcYaml(BULK_NAMESPACE, BULK_NAMESPACE) },
++    { name: "backup-bulk", yaml: backupBulkCronJobYaml() },
++  ]
++}
+diff --git a/service-system/cluster-services/pages/seaweedfs-backup-bulk.cluster-service.ts b/service-system/cluster-services/pages/seaweedfs-backup-bulk.cluster-service.ts
+index 3367591e30600e3813c288a33536df8018465f82..b1c9156a26b82e0a3ebeed101ef9d001f5f4be7e 100644
+--- a/service-system/cluster-services/pages/seaweedfs-backup-bulk.cluster-service.ts
++++ b/service-system/cluster-services/pages/seaweedfs-backup-bulk.cluster-service.ts
+@@ -10,6 +10,5 @@ export const seaweedfsBackupBulk = {
+   resourceName: "seaweedfs-backup-bulk",
+   image: "rclone/rclone:1.74.3",
+   schedule: "40 4 * * *",
+-  manifestCode:
+-    "infrastructure/seaweedfs/backup-bulk/seaweedfs-backup-bulk.cluster-service.code.attachment.ts",
++  manifestCode: "infrastructure/seaweedfs/backup-bulk/seaweedfs-backup-bulk.manifest.code.ts",
+ } as const satisfies ClusterService
