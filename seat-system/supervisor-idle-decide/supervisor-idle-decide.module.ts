@@ -16,7 +16,7 @@ export const supervisorIdleDecide = {
     {
       invariantKind: "departure",
       statement:
-        "A count that was not read is not a count of zero, so a seat it belongs to is not idle.",
+        "A count that was not read is not a count of zero, so a seat that count belongs to is not idle.",
     },
     {
       invariantKind: "departure",
