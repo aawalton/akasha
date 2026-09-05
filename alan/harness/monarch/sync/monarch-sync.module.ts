@@ -10,8 +10,7 @@ export const monarchSync = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The full pass is what repairs the minutely poll, because the poll fetches no accounts and lands no categories.",
+      statement: "The full pass is what repairs the minutely poll.",
     },
     {
       invariantKind: "departure",
