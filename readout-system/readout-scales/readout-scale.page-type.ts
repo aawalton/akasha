@@ -59,7 +59,8 @@ export const readoutScale = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A scale is named by the readings drawn against it and belongs to none of them.",
+      statement:
+        "A scale is named by the readings drawn against that scale and belongs to none of those readings.",
     },
     {
       invariantKind: "departure",
