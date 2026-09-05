@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/migration-system/reach/migration-reach.module.ts b/migration-system/reach/migration-reach.module.ts
-index 2830438630ed55a4935e5bf55a2633fe68bb0964..07d844b855d363776f6beddb84bbda05606eb175 100644
+index 2830438630ed55a4935e5bf55a2633fe68bb0964..ba5f6537696f16f43aa61a81db544053379ae614 100644
 --- a/migration-system/reach/migration-reach.module.ts
 +++ b/migration-system/reach/migration-reach.module.ts
 @@ -70,7 +70,7 @@ export const migrationReach = {
@@ -30,3 +30,12 @@ index 2830438630ed55a4935e5bf55a2633fe68bb0964..07d844b855d363776f6beddb84bbda05
      },
      {
        invariantKind: "departure",
+@@ -111,7 +111,7 @@ export const migrationReach = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here judges whether what is inside akasha is any good.",
++      statement: "Nothing here judges whether the files inside akasha are any good.",
+     },
+     {
+       invariantKind: "constraint",
