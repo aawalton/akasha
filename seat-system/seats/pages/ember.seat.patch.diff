@@ -193,3 +193,34 @@ index d66eec41c861c8d5c29e436641d706473bb51811..8eda66096e0a87e3aa01f13e3d8ce505
      {
        invariantKind: "departure",
        statement: "A value under an entry property is the rows themselves or that file's ending.",
+diff --git a/pages/system-service/page-serving/page-serving.module.code.ts b/pages/system-service/page-serving/page-serving.module.code.ts
+index df0d0a7626fce70e2138496a3a5b139621f47876..d826880307a4cc33637ef867397d7c3b6079da10 100644
+--- a/pages/system-service/page-serving/page-serving.module.code.ts
++++ b/pages/system-service/page-serving/page-serving.module.code.ts
+@@ -196,6 +196,7 @@ function namingsIn(given: unknown): readonly Naming[] | string {
+       slug: string
+       values: Record<string, unknown>
+       merge?: boolean
++      bodies?: Record<string, string>
+     } = { pageTypeSlug: page.pageTypeSlug, slug: page.slug, values }
+     if (page.merge !== undefined) {
+       if (typeof page.merge !== "boolean") {
+@@ -203,6 +204,18 @@ function namingsIn(given: unknown): readonly Naming[] | string {
+       }
+       naming.merge = page.merge
+     }
++    if (page.bodies !== undefined) {
++      const bodies = objectIn(page.bodies)
++      if (bodies === null) return "a page hands over its `bodies` as a JSON object"
++      const held: Record<string, string> = {}
++      for (const [key, one] of Object.entries(bodies)) {
++        if (typeof one !== "string") {
++          return `\`bodies.${key}\` is the whole body that file holds, written as a string`
++        }
++        held[key] = one
++      }
++      naming.bodies = held
++    }
+     pages.push(naming)
+   }
+   return pages
