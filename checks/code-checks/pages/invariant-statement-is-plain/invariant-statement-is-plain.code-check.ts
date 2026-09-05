@@ -36,6 +36,10 @@ export const invariantStatementIsPlain = {
     },
     {
       invariantKind: "departure",
+      statement: "A word inside a spelt name is no word of the statement's own.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A statement written in a shape akasha refuses is not plain.",
     },
     {

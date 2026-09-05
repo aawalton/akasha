@@ -174,7 +174,7 @@ function parserHeld(): ReturnType<typeof loadParser> {
 async function shapedOf(one: Stated, refused: readonly Refused[]): Promise<string | null> {
   if (refused.length === 0) return null
   const parser = await parserHeld()
-  const parsed = await parser.parse(one.text)
+  const parsed = await parser.parse(scanned(one.text))
   const first = parsed[0]
   if (first === undefined) return null
   const sentence = makeSentence(first)
