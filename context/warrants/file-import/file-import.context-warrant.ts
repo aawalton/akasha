@@ -18,7 +18,8 @@ export const fileImport = {
     },
     {
       invariantKind: "departure",
-      statement: "The page of an imported code property file is the page whose property it is.",
+      statement:
+        "The page of an imported code property file is the page whose property that file is.",
     },
     {
       invariantKind: "departure",
