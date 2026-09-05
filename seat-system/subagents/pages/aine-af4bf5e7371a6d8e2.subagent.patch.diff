@@ -12,7 +12,7 @@ index b748b23f344b7e24825289ed8b3a54674a5d4b49..f7c2710b93194388ce288ad5184803f1
    const said = domainListed(root, "akasha-system")
    const at = seatListed(root, "one", `assignmentSlug: "domain/akasha-system"`)
 diff --git a/context/warrants/domain-ancestors/domain-ancestors.context-warrant.test.ts b/context/warrants/domain-ancestors/domain-ancestors.context-warrant.test.ts
-index 2088b546f69f53b33675ee6963548b5281e58114..9408c1343c0b087ce94be63e6163770d1221dfc1 100644
+index 2088b546f69f53b33675ee6963548b5281e58114..150a01414a91258dbbacafb104b9fa25dce49341 100644
 --- a/context/warrants/domain-ancestors/domain-ancestors.context-warrant.test.ts
 +++ b/context/warrants/domain-ancestors/domain-ancestors.context-warrant.test.ts
 @@ -31,7 +31,7 @@ test("a seat warrants the domain the one it states is a part of", () => {
@@ -24,8 +24,17 @@ index 2088b546f69f53b33675ee6963548b5281e58114..9408c1343c0b087ce94be63e6163770d
    const root = scratch.rootFor("akasha-domain-ancestors-")
    const top = domainListed(root, "akasha-system")
    const mid = typedListed(root, "workspace-package", "checks-system")
+@@ -60,7 +60,7 @@ test("the domain the seat states is no ancestor of itself", () => {
+   expect(pathsOf(domainAncestors(root, at))).not.toContain(mid.path)
+ })
+ 
+-test("a seat stating a domain nothing stands above warrants none", () => {
++test("a seat stating a domain with nothing above it warrants none", () => {
+   const root = scratch.rootFor("akasha-domain-ancestors-")
+   domainListed(root, "akasha-system")
+   const at = seatListed(root, "one", `assignmentSlug: "domain/akasha-system"`)
 diff --git a/context/warrants/file-domain/file-domain.context-warrant.test.ts b/context/warrants/file-domain/file-domain.context-warrant.test.ts
-index ce8a1669db7d2981137e09bc3e71bb88fa012fd3..4e304087d2473eb5ea083892daa3ef6055eff5d5 100644
+index ce8a1669db7d2981137e09bc3e71bb88fa012fd3..1972897265c69264eb29fc362bc233dcda8b4cd2 100644
 --- a/context/warrants/file-domain/file-domain.context-warrant.test.ts
 +++ b/context/warrants/file-domain/file-domain.context-warrant.test.ts
 @@ -36,7 +36,7 @@ test("a file warrants the page that names it among its parts", () => {
@@ -37,8 +46,17 @@ index ce8a1669db7d2981137e09bc3e71bb88fa012fd3..4e304087d2473eb5ea083892daa3ef60
    const root = scratch.rootFor("akasha-file-domain-")
    const whole = domainListed(root, "whole")
    const part = domainListed(root, "part")
+@@ -44,7 +44,7 @@ test("a file standing beside a page warrants what names that page among its part
+   expect(pathsOf(fileDomain(root, beside(root, part, "code")))).toEqual([whole.path])
+ })
+ 
+-test("a warrant carries the body standing at the naming page, and why it is owed", () => {
++test("a warrant carries the body at the naming page, and why it is owed", () => {
+   const root = scratch.rootFor("akasha-file-domain-")
+   const whole = domainListed(root, "whole")
+   const part = domainListed(root, "part")
 diff --git a/context/warrants/file-import/file-import.context-warrant.test.ts b/context/warrants/file-import/file-import.context-warrant.test.ts
-index 735372160e1f5dc64ddd5aa0ef2e06f951f42560..fc4952ebf86d5aae7082d2b9fe4364661a8cd542 100644
+index 735372160e1f5dc64ddd5aa0ef2e06f951f42560..08dcd0f26326357babebe6eab4b45faebf00a104 100644
 --- a/context/warrants/file-import/file-import.context-warrant.test.ts
 +++ b/context/warrants/file-import/file-import.context-warrant.test.ts
 @@ -234,7 +234,7 @@ test("what a file imports is read from its own body", () => {
@@ -50,8 +68,17 @@ index 735372160e1f5dc64ddd5aa0ef2e06f951f42560..fc4952ebf86d5aae7082d2b9fe436466
    const root = scratch.rootFor(PREFIX)
    world(root, ["a"])
    expect(importedIn(root, "akasha/gone/gone.module.code.ts")).toEqual([])
+@@ -247,7 +247,7 @@ test("an imported path the index names no page for warrants nothing", () => {
+   expect(pathsOf(warrantsAt(root, at))).toEqual([])
+ })
+ 
+-test("a page that is not standing warrants nothing of itself", () => {
++test("a page that is not there warrants nothing of itself", () => {
+   const root = scratch.rootFor(PREFIX)
+   world(root, ["a", "b"])
+   codeAt(root, "b", "")
 diff --git a/context/warrants/file-page-type/file-page-type.context-warrant.test.ts b/context/warrants/file-page-type/file-page-type.context-warrant.test.ts
-index 5a706b4ca09440547b2366bf2921c3b28712e9f1..60ce4dff391a5cae57798a3779d4f59eece91411 100644
+index 5a706b4ca09440547b2366bf2921c3b28712e9f1..94f3d13eb7205653152d0e5a541546da4a1f7be2 100644
 --- a/context/warrants/file-page-type/file-page-type.context-warrant.test.ts
 +++ b/context/warrants/file-page-type/file-page-type.context-warrant.test.ts
 @@ -43,7 +43,7 @@ test("a page warrants its type, and every type that one extends", () => {
@@ -63,8 +90,17 @@ index 5a706b4ca09440547b2366bf2921c3b28712e9f1..60ce4dff391a5cae57798a3779d4f59e
    const root = scratch.rootFor("akasha-file-page-type-")
    typeWorld(root)
    writing(root, PATH, "one\n")
+@@ -54,7 +54,7 @@ test("a type warrants the body standing at the type's page", () => {
+   expect(held?.owed).toBe(TYPE)
+ })
+ 
+-test("a file standing beside a page warrants no type of its own", () => {
++test("a file sitting beside a page warrants no type of its own", () => {
+   const root = scratch.rootFor("akasha-file-page-type-")
+   typeWorld(root)
+   schemaFiled(root, "file-property", "code", [
 diff --git a/context/warrants/file-property-file/file-property-file.context-warrant.test.ts b/context/warrants/file-property-file/file-property-file.context-warrant.test.ts
-index e67b7b54ba18fd9935f6437a215847e0685a6fcb..787f186c0a47096015aecb5ddc73086566dd4b50 100644
+index e67b7b54ba18fd9935f6437a215847e0685a6fcb..013877261a2a7c844b73d706b044840f0065b01f 100644
 --- a/context/warrants/file-property-file/file-property-file.context-warrant.test.ts
 +++ b/context/warrants/file-property-file/file-property-file.context-warrant.test.ts
 @@ -73,7 +73,7 @@ function warrantsAt(root: string, path: string): readonly Warrant[] {
@@ -76,8 +112,17 @@ index e67b7b54ba18fd9935f6437a215847e0685a6fcb..787f186c0a47096015aecb5ddc730865
    const root = scratch.rootFor("akasha-file-property-file-")
    const held = propertyWorld(root)
    writing(root, CODE_AT, "code\n")
+@@ -89,7 +89,7 @@ test("the property is warranted by its own page, never by the page type it answe
+   expect(pathsOf(warrantsAt(root, CODE_AT))).not.toContain(TYPE_AT)
+ })
+ 
+-test("a test file standing beside the same page warrants that page and its own property", () => {
++test("a test file sitting beside the same page warrants that page and its own property", () => {
+   const root = scratch.rootFor("akasha-file-property-file-")
+   propertyWorld(root)
+   writing(root, TEST_AT, "test\n")
 diff --git a/context/warrants/file-property/file-property.context-warrant.test.ts b/context/warrants/file-property/file-property.context-warrant.test.ts
-index 7c0e59470a99e5a6d86a2678b7b929b7ca925ae7..d2307562d5c4318c18fc96c8bb15436224b0ff85 100644
+index 7c0e59470a99e5a6d86a2678b7b929b7ca925ae7..709ff94f08a3cd749db494237f3706db8aeeabd0 100644
 --- a/context/warrants/file-property/file-property.context-warrant.test.ts
 +++ b/context/warrants/file-property/file-property.context-warrant.test.ts
 @@ -74,7 +74,7 @@ test("a page warrants the page defining every property it states", () => {
@@ -89,8 +134,17 @@ index 7c0e59470a99e5a6d86a2678b7b929b7ca925ae7..d2307562d5c4318c18fc96c8bb154362
    const root = scratch.rootFor("akasha-file-property-")
    statingWorld(root)
    stating(root, PATH, ["definition"])
+@@ -142,7 +142,7 @@ test("a cold index is refused rather than warranting nothing", () => {
+   expect(() => warrantsAt(root, PATH)).toThrow("is not an index naming none")
+ })
+ 
+-test("a file standing beside a page is no page, and warrants nothing", () => {
++test("a file sitting beside a page is no page, and warrants nothing", () => {
+   const root = scratch.rootFor("akasha-file-property-")
+   statingWorld(root)
+   const beside = "akasha/thing/thing.module.code.ts"
 diff --git a/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.test.ts b/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.test.ts
-index fbf429724148e0ead68b0298d4e47f5a3a2feb86..64b3bd8db043ad29407f76675fe0997c4092f231 100644
+index fbf429724148e0ead68b0298d4e47f5a3a2feb86..86fa7e50ea5368f9a3f678b29830e53df586505e 100644
 --- a/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.test.ts
 +++ b/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.test.ts
 @@ -20,7 +20,7 @@ afterAll(scratch.sweep)
@@ -102,6 +156,15 @@ index fbf429724148e0ead68b0298d4e47f5a3a2feb86..64b3bd8db043ad29407f76675fe0997c
    const root = scratch.rootFor("akasha-initiative-ancestors-")
    const top = initiativeListed(root, "one-work")
    initiativeListed(root, "one-step", `parentSlug: "initiative/one-work"`)
+@@ -54,7 +54,7 @@ test("a chain that turns back on itself is walked once", () => {
+   expect(pathsOf(initiativeAncestors(root, at))).not.toContain(one.path)
+ })
+ 
+-test("a seat stating an initiative nothing stands above warrants none", () => {
++test("a seat stating an initiative with nothing above it warrants none", () => {
+   const root = scratch.rootFor("akasha-initiative-ancestors-")
+   initiativeListed(root, "one-work")
+   const at = seatListed(root, "one", `assignmentSlug: "initiative/one-work"`)
 diff --git a/context/warrants/person-itself/person-itself.context-warrant.test.ts b/context/warrants/person-itself/person-itself.context-warrant.test.ts
 index d37a00dbc78285b52c18f42514b918719b37c300..162d280ccdbf0bbd1df7b04bb77eb5e34019f7a6 100644
 --- a/context/warrants/person-itself/person-itself.context-warrant.test.ts
