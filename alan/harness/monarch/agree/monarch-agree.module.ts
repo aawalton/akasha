@@ -10,8 +10,11 @@ export const monarchAgree = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The bucketed index and a full scan are claimed to give one neighbourhood, over every pairing subject the standing rules reach.",
+      statement: "The bucketed index and a full scan are claimed to give one neighbourhood.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That claim covers every pairing subject the standing rules reach.",
     },
     {
       invariantKind: "departure",
