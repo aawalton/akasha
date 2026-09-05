@@ -1,0 +1,12 @@
+diff --git a/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.ts b/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.ts
+index d0ebc0a5b05b9b3eaf0d8373a1f0985817d597b7..640b85e605999331366736f59e8702cc054f5f55 100644
+--- a/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.ts
++++ b/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.ts
+@@ -15,7 +15,6 @@ export const temperInventorySnapshot = {
+   ],
+   helpNotes: [
+     "the record sits whole in a data file beside the snapshot page, so nothing here rejoins pieces.",
+-    "the pieces a reading arrived in were rejoined before the snapshot landed.",
+     "a snapshot is named or `--latest` is said, never both.",
+     "`--latest` reads the newest reading on the account, ordered by when the reading was taken.",
+     "a snapshot carrying no data file refuses the call rather than giving back an empty record.",
