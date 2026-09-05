@@ -26,7 +26,7 @@ export const testingSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "What the tests of more than one system need is here.",
+      statement: "The scaffolding the tests of more than one system need is here.",
     },
     {
       invariantKind: "departure",
@@ -35,11 +35,11 @@ export const testingSystem = {
     {
       invariantKind: "departure",
       statement:
-        "A fixture beside a module reaches for what is here rather than spelling what is here again.",
+        "A fixture beside a module reaches for this scaffolding rather than spelling this scaffolding again.",
     },
     {
       invariantKind: "departure",
-      statement: "What is here is reached by tests alone.",
+      statement: "This scaffolding is reached by tests alone.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +52,7 @@ export const testingSystem = {
     },
     {
       invariantKind: "absence",
-      statement: "What is here is set up by the tests that reach for what is here.",
+      statement: "This scaffolding is set up by the tests that reach for this scaffolding.",
     },
     {
       invariantKind: "absence",
