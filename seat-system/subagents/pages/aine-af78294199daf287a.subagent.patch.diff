@@ -1,8 +1,8 @@
 diff --git a/commands/seat-transcripts/seat-transcripts.command.code.ts b/commands/seat-transcripts/seat-transcripts.command.code.ts
-index 3c1fc3d641b7e3f406869359af223d81296f5f34..6d070c6076fed9614531efad5c717381a95608f8 100644
+index 3c1fc3d641b7e3f406869359af223d81296f5f34..6d09bb90a71e63d1fac970ff5f31b2b342b35733 100644
 --- a/commands/seat-transcripts/seat-transcripts.command.code.ts
 +++ b/commands/seat-transcripts/seat-transcripts.command.code.ts
-@@ -12,7 +12,7 @@ export interface SeatTranscript {
+@@ -12,14 +12,14 @@ export interface SeatTranscript {
  }
  
  // One value read off a seat, in the shape the seat readers answer it in. It is named here so the
@@ -11,6 +11,14 @@ index 3c1fc3d641b7e3f406869359af223d81296f5f34..6d070c6076fed9614531efad5c717381
  // what each of them holds, changes between one call and the next, so a check that asked the live
  // fleet would agree with whatever it was handed and prove nothing about the walk.
  export type Held = { readonly value: string } | null
+ 
+ export type Reading = (agentId: string, key: string) => Held
+ 
+-// WHERE EACH SEAT'S TRANSCRIPT STANDS, over the seats handed in. A seat holding no transcript, or
++// WHERE EACH SEAT'S TRANSCRIPT IS, over the seats handed in. A seat holding no transcript, or
+ // holding an empty one, is left out rather than answered with an empty path: an empty path names
+ // a file, and the caller opening it would read the absence as a broken transcript rather than as
+ // a seat that has none yet.
 diff --git a/commands/seat-transcripts/seat-transcripts.command.test.ts b/commands/seat-transcripts/seat-transcripts.command.test.ts
 index a00d8438d01e8d9f02b25d0ceba609cf3b273028..b141d0588b48bf9193af90eb07e33541c6e1408c 100644
 --- a/commands/seat-transcripts/seat-transcripts.command.test.ts
@@ -25,7 +33,7 @@ index a00d8438d01e8d9f02b25d0ceba609cf3b273028..b141d0588b48bf9193af90eb07e33541
      SEATS,
      holding({
 diff --git a/commands/seat-transcripts/seat-transcripts.command.ts b/commands/seat-transcripts/seat-transcripts.command.ts
-index 44f3e2ed084a0e108008637984ca214d3b53259f..8c042473deb7241d4a2b468076a5c7ea122325a8 100644
+index 44f3e2ed084a0e108008637984ca214d3b53259f..6c4f8eab1ef8516d668c3f84bc146a01b450ce70 100644
 --- a/commands/seat-transcripts/seat-transcripts.command.ts
 +++ b/commands/seat-transcripts/seat-transcripts.command.ts
 @@ -4,7 +4,7 @@ export const seatTranscripts = {
@@ -37,8 +45,17 @@ index 44f3e2ed084a0e108008637984ca214d3b53259f..8c042473deb7241d4a2b468076a5c7ea
    code: "ts",
    test: "ts",
    changeKindSlug: "change-none",
+@@ -12,7 +12,7 @@ export const seatTranscripts = {
+   helpNotes: [
+     "it takes no word at all, and every word it is given is refused.",
+     "it prints one JSON object carrying a `seats` list, and nothing else.",
+-    "each seat in that list carries its agent id, its seat name, and where its transcript stands.",
++    "each seat in that list carries its agent id, its seat name, and where its transcript is.",
+     "a seat is named by the index, so a seat kept only in akasha is answered here like any other.",
+     "a transcript is read from the values kept beside a seat's page rather than from the page itself.",
+     "a seat holding no transcript, or holding an empty one, is left out rather than answered with an empty path.",
 diff --git a/commands/zimage/zimage.command.code.ts b/commands/zimage/zimage.command.code.ts
-index ac782f454da194a7abcba83cdd3ab05a2289e12e..1e178e9a876334cacefdf5f6b0b39c2e1264865b 100644
+index ac782f454da194a7abcba83cdd3ab05a2289e12e..16b6bedc0dd929b07ba1b10d2fab2a60b2465d51 100644
 --- a/commands/zimage/zimage.command.code.ts
 +++ b/commands/zimage/zimage.command.code.ts
 @@ -203,8 +203,8 @@ async function staged(
@@ -52,6 +69,15 @@ index ac782f454da194a7abcba83cdd3ab05a2289e12e..1e178e9a876334cacefdf5f6b0b39c2e
    await mkdir(lorasDir, { recursive: true })
    const scratch = `${dest}.staging-${process.pid}`
    await copyFile(sourcePath, scratch)
+@@ -254,7 +254,7 @@ async function generating(read: Taken, given: Given, report: string[]): Promise<
+     const held = await staged(at(given, loraSaid), join(homeIn(), "models", "loras"))
+     if ("why" in held) return refused(held.why, 2)
+     loraName = held.name
+-    report.push(`the checkpoint stands staged as loras/${loraName}, mixed in at ${loraStrength}`)
++    report.push(`the checkpoint is staged as loras/${loraName}, mixed in at ${loraStrength}`)
+   }
+ 
+   const baseUrl = `http://127.0.0.1:${portIn()}`
 diff --git a/commands/zimage/zimage.command.test.ts b/commands/zimage/zimage.command.test.ts
 index b9f8bbc6071378258e59736a78ec95e1802c007a..1a3655994945ab2bb2550527b2bcc23aeef8f4b3 100644
 --- a/commands/zimage/zimage.command.test.ts
