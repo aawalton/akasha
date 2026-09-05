@@ -34,7 +34,7 @@ export const changeTabooTerms = {
     },
     {
       invariantKind: "departure",
-      statement: "An underscore or a hyphen is left as it is.",
+      statement: "An underscore or a hyphen is left as that character is.",
     },
     {
       invariantKind: "departure",
