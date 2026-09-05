@@ -44,7 +44,7 @@ export const pageSecretSet = {
     },
     {
       invariantKind: "departure",
-      statement: "What the sops file already holds is carried into what is written.",
+      statement: "The secrets the sops file already holds are carried into the file written.",
     },
     {
       invariantKind: "departure",
@@ -56,7 +56,7 @@ export const pageSecretSet = {
     },
     {
       invariantKind: "gap",
-      statement: "What is composed is not decrypted again before what is composed lands.",
+      statement: "The composed file is not decrypted again before that file lands.",
     },
     {
       invariantKind: "gap",
