@@ -20,7 +20,7 @@ export const gmDoctrinePack = {
     },
     {
       invariantKind: "departure",
-      statement: "Replacing a game's context leaves the doctrine the pack owns standing.",
+      statement: "Replacing a game's context leaves the doctrine the pack owns in place.",
     },
   ],
 } as const satisfies Module

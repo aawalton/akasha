@@ -67,7 +67,7 @@ describe("withDoctrinePack", () => {
 describe("preserveDoctrineOnReplace", () => {
   const current: GmContext = withDoctrinePack({ policies: [PER_GAME_POLICY] }, FIXTURE_PACK)
 
-  test("replacing a context leaves the doctrine the pack owns standing", () => {
+  test("replacing a context leaves the doctrine the pack owns in place", () => {
     const replaced = preserveDoctrineOnReplace({ policies: [PER_GAME_POLICY] }, current)
     expect(replaced.policies.map((p) => p.id)).toEqual([
       "doctrine:alpha",
@@ -90,7 +90,7 @@ describe("preserveDoctrineOnReplace", () => {
     expect(replaced.gateDimensions).toHaveLength(2)
   })
 
-  test("with nothing current the incoming context stands alone", () => {
+  test("with nothing current the incoming context is alone", () => {
     const replaced = preserveDoctrineOnReplace({ policies: [PER_GAME_POLICY] }, null)
     expect(replaced.policies).toEqual([PER_GAME_POLICY])
     expect(replaced.doctrineVersion).toBe(undefined)
@@ -158,7 +158,7 @@ describe("buildDoctrinePackUpdate", () => {
     expect(built.error).toContain("invalid patch")
   })
 
-  test("what the patch leaves out is taken from the pack standing", () => {
+  test("what the patch leaves out is taken from the pack already there", () => {
     const built = buildDoctrinePackUpdate(FIXTURE_PACK, { doctrineVersion: 9 })
     if (!built.ok) throw new Error(built.error)
     expect(built.pack.policies).toEqual(FIXTURE_PACK.policies)

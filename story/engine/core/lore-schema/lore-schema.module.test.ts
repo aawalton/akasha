@@ -41,7 +41,7 @@ describe("LoreContentSchema", () => {
 describe("decideCitationIntegrity", () => {
   const turn = "She lets her shoulders drop.\n\n  Something settles below   her ribs."
 
-  test("a quote standing word for word in the turn holds", () => {
+  test("a quote appearing word for word in the turn holds", () => {
     expect(decideCitationIntegrity("She lets her shoulders drop.", turn)).toEqual({ ok: true })
   })
 

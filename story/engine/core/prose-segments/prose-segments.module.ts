@@ -14,7 +14,7 @@ export const proseSegments = {
     },
     {
       invariantKind: "departure",
-      statement: "A marker stands alone in its own block.",
+      statement: "A marker is alone in its own block.",
     },
     {
       invariantKind: "departure",
