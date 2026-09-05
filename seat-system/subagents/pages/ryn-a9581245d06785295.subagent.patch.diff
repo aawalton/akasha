@@ -1,14 +1,19 @@
 runsWarrants: false
 diff --git a/story/wandering-inn/chapter-filing/chapter-filing.module.ts b/story/wandering-inn/chapter-filing/chapter-filing.module.ts
-index 51b1a29bec00915f36105c6298e2a2ed87cc72e9..8acf9450dfd6ef1dfc302504089bd121e965b6b6 100644
+index 51b1a29bec00915f36105c6298e2a2ed87cc72e9..59b2550b61cbd7249258e30124f28ccb4d3aff64 100644
 --- a/story/wandering-inn/chapter-filing/chapter-filing.module.ts
 +++ b/story/wandering-inn/chapter-filing/chapter-filing.module.ts
-@@ -23,7 +23,7 @@ export const chapterFiling = {
+@@ -23,11 +23,11 @@ export const chapterFiling = {
      {
        invariantKind: "departure",
        statement:
 -        "The chapters already filed are looked for under the address they were filed under.",
 +        "The chapters already filed are looked for under the address those chapters were filed under.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A chapter already filed is known by the link it was filed under.",
++      statement: "A chapter already filed is known by the link that chapter was filed under.",
      },
      {
        invariantKind: "departure",
