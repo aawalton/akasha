@@ -13,7 +13,7 @@ export const inventoryManagementPlanCapacityFilter = {
     },
     {
       invariantKind: "departure",
-      statement: "An audit says what was dropped as well as what was kept.",
+      statement: "An audit names the items dropped as well as the items kept.",
     },
   ],
 } as const satisfies Module
