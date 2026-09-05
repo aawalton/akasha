@@ -1,0 +1,28 @@
+diff --git a/temper/temper-web/routes/addon-bundle-version/addon-bundle-version.route.ts b/temper/temper-web/routes/addon-bundle-version/addon-bundle-version.route.ts
+index 1297e07f39aa942c3ad20d450d92a8c484f64438..8abd9c03afba49137bf7ab70339228c0834d7c5e 100644
+--- a/temper/temper-web/routes/addon-bundle-version/addon-bundle-version.route.ts
++++ b/temper/temper-web/routes/addon-bundle-version/addon-bundle-version.route.ts
+@@ -5,7 +5,7 @@ export const addonBundleVersion = {
+   pageTypeSlug: "route",
+   slug: "addon-bundle-version",
+   definition: "the build the addon bundle now offered was packed from",
+-  code: "tsx",
+-  test: "tsx",
++  code: "ts",
++  test: "ts",
+   urlPath: "api/addons/version",
+ } as const satisfies Route
+diff --git a/temper/temper-web/routes/addon-bundle/addon-bundle.route.ts b/temper/temper-web/routes/addon-bundle/addon-bundle.route.ts
+index 3935859382616fdd6ddbd3221d81f2b3d6b75f50..a376f87a6d99d69b2327573c6ae6165ab94ff002 100644
+--- a/temper/temper-web/routes/addon-bundle/addon-bundle.route.ts
++++ b/temper/temper-web/routes/addon-bundle/addon-bundle.route.ts
+@@ -5,7 +5,7 @@ export const addonBundle = {
+   pageTypeSlug: "route",
+   slug: "addon-bundle",
+   definition: "the zip archive holding every distributable addon",
+-  code: "tsx",
+-  test: "tsx",
++  code: "ts",
++  test: "ts",
+   urlPath: "api/addons/download",
+ } as const satisfies Route
