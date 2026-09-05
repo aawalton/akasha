@@ -9,7 +9,7 @@ export const supervisorDeferredRestartRule = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An unread verdict holds the state it was given and does not fire.",
+      statement: "An unread verdict holds the state that verdict was given and does not fire.",
     },
     {
       invariantKind: "departure",
