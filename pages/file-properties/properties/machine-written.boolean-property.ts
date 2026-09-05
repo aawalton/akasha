@@ -11,7 +11,7 @@ export const machineWritten = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A property saying nothing here holds what an author writes.",
+      statement: "A property saying nothing here holds the files an author writes.",
     },
     {
       invariantKind: "departure",
