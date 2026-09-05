@@ -14,3 +14,15 @@ index 0000000000000000000000000000000000000000..7b99f663a6a8619a8fdeedf7f0b0b2c3
 +    "the namespace and the cron job rebalancing and compacting the volumes files are held in",
 +  code: "ts",
 +} as const satisfies Manifest
+diff --git a/infrastructure/seaweedfs/seaweedfs.workspace-package.ts b/infrastructure/seaweedfs/seaweedfs.workspace-package.ts
+index 0bf1ec9bc0ea17c1785e49c170b0f023f3134233..1a12cca45ebb7c157861ca8722af04e2d0a9341b 100644
+--- a/infrastructure/seaweedfs/seaweedfs.workspace-package.ts
++++ b/infrastructure/seaweedfs/seaweedfs.workspace-package.ts
+@@ -8,6 +8,7 @@ export const seaweedfs = {
+   manifest: "json",
+   partSlugs: [
+     "manifest/seaweedfs-filer",
++    "manifest/seaweedfs-maintenance",
+     "manifest/seaweedfs-master",
+     "manifest/seaweedfs-s3-gateway",
+     "manifest/seaweedfs-volume",
