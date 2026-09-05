@@ -12,6 +12,7 @@ const SLOTS = ["nmod", "root"]
 const RELATIVE = ["which", "who", "whom", "whose"]
 const DEMONSTRATIVE = ["this", "that", "these", "those"]
 const SUMMING = ["both", "each", "either", "neither"]
+const OPENERS = ["SCONJ", "CCONJ"]
 const QUANTIFIER = [
   "all",
   "any",
@@ -40,11 +41,21 @@ export function fillsNounSlot(token: DepToken): boolean {
   return SLOT_FAMILIES.some((slot) => token.deprel === slot || token.deprel.startsWith(`${slot}:`))
 }
 
+function wordBefore(sentence: DepSentence, token: DepToken): DepToken | undefined {
+  for (let at = token.id - 1; at >= 1; at -= 1) {
+    const one = byId(sentence, at)
+    if (one !== undefined && one.upos !== "PUNCT") return one
+  }
+  return undefined
+}
+
 export function isRelative(sentence: DepSentence, token: DepToken): boolean {
   const said = lower(token)
   if (RELATIVE.includes(said)) return true
   if (said !== "that") return false
-  return byId(sentence, token.head)?.deprel.startsWith("acl") ?? false
+  const before = wordBefore(sentence, token)
+  if (before === undefined) return false
+  return !OPENERS.includes(before.upos)
 }
 
 export function isDemonstrative(token: DepToken): boolean {
