@@ -1,8 +1,8 @@
 diff --git a/editor-extension/status-bar-drawing/status-bar-drawing.module.ts b/editor-extension/status-bar-drawing/status-bar-drawing.module.ts
-index 6c1dffd202061ff06671e1d475d291bdb5d11ecd..af1523d1638443d06143cf1d43d512f84a683506 100644
+index 6c1dffd202061ff06671e1d475d291bdb5d11ecd..8ec6baba04c18a2d378cd84cd700a4c133a623fe 100644
 --- a/editor-extension/status-bar-drawing/status-bar-drawing.module.ts
 +++ b/editor-extension/status-bar-drawing/status-bar-drawing.module.ts
-@@ -9,11 +9,11 @@ export const statusBarDrawing = {
+@@ -9,15 +9,15 @@ export const statusBarDrawing = {
    invariants: [
      {
        invariantKind: "departure",
@@ -13,6 +13,11 @@ index 6c1dffd202061ff06671e1d475d291bdb5d11ecd..af1523d1638443d06143cf1d43d512f8
        invariantKind: "departure",
 -      statement: "A reading that failed is stale and keeps the moment it was last fresh.",
 +      statement: "A reading that failed is stale and keeps the moment that reading was last fresh.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A stale slot keeps the text it last had.",
++      statement: "A stale slot keeps the text that slot last had.",
      },
      {
        invariantKind: "departure",
