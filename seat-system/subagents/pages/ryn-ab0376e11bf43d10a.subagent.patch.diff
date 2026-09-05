@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/file-properties/properties/machine-written.boolean-property.ts b/pages/file-properties/properties/machine-written.boolean-property.ts
+index 99521122050a4a620294636bdcf56ac2e054e894..9e8586c2308f31581261cfa12398df30dc192cb7 100644
+--- a/pages/file-properties/properties/machine-written.boolean-property.ts
++++ b/pages/file-properties/properties/machine-written.boolean-property.ts
+@@ -11,7 +11,7 @@ export const machineWritten = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A property saying nothing here holds what an author writes.",
++      statement: "A property saying nothing here holds the files an author writes.",
+     },
+     {
+       invariantKind: "departure",
