@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/alan/web-capacitor/alan-web-capacitor.router-app.ts b/alan/web-capacitor/alan-web-capacitor.router-app.ts
+index 57aa2a69c8cf93d2976fccc900538db138bb1421..9d8b157840b9e56bf0a79c4a2770993675102070 100644
+--- a/alan/web-capacitor/alan-web-capacitor.router-app.ts
++++ b/alan/web-capacitor/alan-web-capacitor.router-app.ts
+@@ -18,7 +18,8 @@ export const alanWebCapacitor = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a route here draws comes from the package beside it through its manifest.",
++      statement:
++        "What a route here draws comes from the package beside this router app through its manifest.",
+     },
+     {
+       invariantKind: "absence",
