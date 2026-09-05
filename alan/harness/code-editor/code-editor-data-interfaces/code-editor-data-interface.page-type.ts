@@ -2,9 +2,11 @@ import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { CooldownMilliseconds } from "./properties/cooldown-milliseconds.number-property.ts"
 import type { State } from "./properties/state.file-property.ts"
+import type { StateType } from "./properties/state-type.file-property.ts"
 
 export type CodeEditorDataInterface = Domain & {
   cooldownMilliseconds: CooldownMilliseconds
+  stateType: StateType
   state?: State
 }
 
@@ -17,6 +19,7 @@ export const codeEditorDataInterface = {
   extendsSlug: ["page-type/domain"],
   partSlugs: [
     "file-property/state",
+    "file-property/state-type",
     "number-property/cooldown-milliseconds",
     "code-editor-data-interface/agent-colors",
     "code-editor-data-interface/agent-tree",
@@ -28,12 +31,13 @@ export const codeEditorDataInterface = {
   ],
   properties: [
     { pagePropertySlug: "cooldown-milliseconds", required: true, many: false },
+    { pagePropertySlug: "state-type", required: true, many: false, default: "ts" },
     {
       pagePropertySlug: "state",
       required: false,
       many: false,
       uncommitted: true,
-      default: "json",
+      default: "jsonl",
     },
   ],
   invariants: [
