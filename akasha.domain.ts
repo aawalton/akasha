@@ -196,11 +196,10 @@ export const akasha = {
       directiveKind: "rule",
       name: "Currency",
       act: "State what is true now, and leave how it became true to git.",
-      warrant:
-        "Git holds the history better, and a line carrying it costs every reader who did not want it.",
+      warrant: "Git holds the history, writing it again is a second place that can be wrong.",
       aids: [
-        "A guard's own words say what it enforces.",
-        "Say what you changed when you hand work back.",
+        "Mortal pages become history.",
+        "Write for the new reader who doesn't know what was there before.",
       ],
     },
     {
