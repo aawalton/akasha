@@ -18,7 +18,7 @@ export const codeSpecifier = {
     },
     {
       invariantKind: "departure",
-      statement: "What names a module is a part of what a body spells.",
+      statement: "A specifier is one of the strings a body spells.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +43,7 @@ export const codeSpecifier = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing else can be written over without reading what fills it.",
+      statement: "Nothing else can be written over without reading its contents.",
     },
     {
       invariantKind: "departure",
@@ -84,7 +84,7 @@ export const codeSpecifier = {
     {
       invariantKind: "absence",
       statement:
-        "A specifier is what the source says whether or not the file that specifier names is there.",
+        "A specifier is the string the source says whether or not the file that specifier names is there.",
     },
     {
       invariantKind: "departure",
