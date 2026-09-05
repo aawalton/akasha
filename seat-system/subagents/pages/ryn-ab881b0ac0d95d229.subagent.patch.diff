@@ -92,3 +92,30 @@ index cae6f4dc1c356257986750c47cda45d80c93009b..72bb80e645408dff0f58f8bb11e0b6f5
      },
      {
        invariantKind: "departure",
+diff --git a/git-transport/bare-repo-init/bare-repo-init.module.ts b/git-transport/bare-repo-init/bare-repo-init.module.ts
+index 4f5a731415aeafd294fe5a84802879add853aa9d..136891a32a99659ee7efdfbf3a0e03948ae7ab9a 100644
+--- a/git-transport/bare-repo-init/bare-repo-init.module.ts
++++ b/git-transport/bare-repo-init/bare-repo-init.module.ts
+@@ -34,7 +34,7 @@ export const bareRepoInit = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A hook is a stub this writes, running the script the source cache holds.",
++      statement: "A hook is a stub this module writes, running the script the source cache holds.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.ts b/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.ts
+index ffb1165535391cecd964171121f8d56ed7b4d21b..4ce9e9a3253b8a848e51ca88bd7af6e2bc67ca35 100644
+--- a/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.ts
++++ b/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.ts
+@@ -20,7 +20,8 @@ export const blockBunTest = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A prefix that only runs the call behind it does not hide a `bun test` from this.",
++      statement:
++        "A prefix that only runs the call behind it does not hide a `bun test` from this hook.",
+     },
+     {
+       invariantKind: "absence",
