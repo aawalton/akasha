@@ -17,7 +17,7 @@ export const state = {
     },
     {
       invariantKind: "departure",
-      statement: "A page's type is what puts this file beside the page.",
+      statement: "A page's type puts this file beside the page.",
     },
     {
       invariantKind: "absence",
@@ -30,7 +30,7 @@ export const state = {
     },
     {
       invariantKind: "departure",
-      statement: "One line holds the whole of what a part of the editor draws.",
+      statement: "One line holds the whole state a part of the editor draws.",
     },
     {
       invariantKind: "departure",
