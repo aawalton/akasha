@@ -22,7 +22,8 @@ export const domainTreeReading = {
     },
     {
       invariantKind: "constraint",
-      statement: "An answer naming no checkout is refused, since no path could be joined to it.",
+      statement:
+        "An answer naming no checkout is refused, since no path could be joined to that checkout.",
     },
     {
       invariantKind: "constraint",
@@ -30,7 +31,7 @@ export const domainTreeReading = {
     },
     {
       invariantKind: "constraint",
-      statement: "A row carrying no path is refused, since nothing could be opened for it.",
+      statement: "A row carrying no path is refused, since nothing could be opened for that row.",
     },
     {
       invariantKind: "departure",
