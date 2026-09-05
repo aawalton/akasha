@@ -38,7 +38,8 @@ export const exerciseToday = {
     },
     {
       invariantKind: "departure",
-      statement: "A session is complete where it carries the moment it was completed.",
+      statement:
+        "A session is complete where that session carries the moment that session was completed.",
     },
     {
       invariantKind: "absence",
