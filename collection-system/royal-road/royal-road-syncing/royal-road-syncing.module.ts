@@ -12,8 +12,20 @@ export const royalRoadSyncing = {
       statement: "A story is followed by the royal road id the story states.",
     },
     {
+      invariantKind: "absence",
+      statement: "No story page is created here.",
+    },
+    {
       invariantKind: "departure",
       statement: "A chapter already held is known by its royal road id rather than by its title.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A chapter stating no royal road id is known by the id its link carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A chapter already filed is read whatever source that chapter states.",
     },
     {
       invariantKind: "departure",
@@ -22,16 +34,31 @@ export const royalRoadSyncing = {
     {
       invariantKind: "departure",
       statement:
-        "A chapter's name is its position padded to four digits joined to its title cut back to whole words at fifty characters.",
+        "A chapter's name opens with its story's slug, then its position padded to four digits, then its title cut back to whole words at fifty characters.",
     },
     {
       invariantKind: "departure",
-      statement: "A name a sibling already holds takes the chapter's royal road id on the end.",
+      statement:
+        "A name is cut back further where it would otherwise run past the hundred characters a slug holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A name another chapter already holds takes the chapter's royal road id on the end.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A chapter names the story it is part of by page type and slug rather than by slug alone.",
     },
     {
       invariantKind: "departure",
       statement:
         "A story's status is restated from royal road only where royal road says ongoing, completed or hiatus.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A story naming no world is left unrestated and said to be.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +71,8 @@ export const royalRoadSyncing = {
     },
     {
       invariantKind: "departure",
-      statement: "Files land fifty at a time, each fifty its own commit.",
+      statement:
+        "Pages land fifty at a time, each fifty its own commit, every page with the files beside it.",
     },
     {
       invariantKind: "departure",
@@ -54,16 +82,6 @@ export const royalRoadSyncing = {
     {
       invariantKind: "departure",
       statement: "A run that failed a chapter is a failed run however much else it composed.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "Stories are read from the store the stories are now in, which is `story/stories-read/pages` rather than `pages/story-read-royal-road`.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "Chapters are filed into the store the chapters are now in, which is `story/story-chapters-read/pages` rather than `pages/story-chapter-royal-road`.",
     },
   ],
 } as const satisfies Module
