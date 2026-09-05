@@ -13,7 +13,7 @@ export const gmailMessageId = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The id is spelled as Gmail spells it rather than as a slug is spelled.",
+      statement: "The id is spelled as Gmail spells that id rather than as a slug is spelled.",
     },
   ],
 } as const satisfies TextProperty
