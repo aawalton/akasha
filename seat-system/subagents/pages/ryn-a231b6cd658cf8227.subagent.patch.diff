@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/tracking/daily/wake-days/properties/version.text-property.ts b/alan/tracking/daily/wake-days/properties/version.text-property.ts
+index fbe1fc93161f6acef2425533b639df15a713f992..ba7656166df43e076b8bcdaaffa8176659698a45 100644
+--- a/alan/tracking/daily/wake-days/properties/version.text-property.ts
++++ b/alan/tracking/daily/wake-days/properties/version.text-property.ts
+@@ -17,7 +17,7 @@ export const version = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Writing it as a number would flatten `1.0` to `1`.",
++      statement: "Writing a version as a number would flatten `1.0` to `1`.",
+     },
+   ],
+ } as const satisfies TextProperty
