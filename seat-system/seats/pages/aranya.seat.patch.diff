@@ -40,3 +40,23 @@ index 38da2fde0d0af2dc74a6e9daa2f15b6d601d81e8..0480ff0d6a16c942b8bb238cdcb5213c
    const change = changeOf(given.root, { base: baseOf(given.root), edits })
    const judged = await built.gate.over(change)
    const said = resolved(given.root, page, named.path, body)
+diff --git a/command-system/commands/patch/patch.command.test.ts b/command-system/commands/patch/patch.command.test.ts
+index 023a2dac11f0f7401d6eea8ca664540b17b14c8a..26ff0b785470c02a75801a1370270e65408c5777 100644
+--- a/command-system/commands/patch/patch.command.test.ts
++++ b/command-system/commands/patch/patch.command.test.ts
+@@ -6,7 +6,14 @@ import { drafted, resolved, runningIn } from "../../drafting/drafting.module.cod
+ import type { Piping } from "../../piping/piping.module.code.ts"
+ import { scratchWorld } from "../../scratching/scratching.module.code.ts"
+ import { writing } from "../../scratching/scratching.module.test-fixtures.ts"
+-import { dropping, patch, resolving, showing, showingBody } from "./patch.command.code.ts"
++import {
++  dropping,
++  patch,
++  resolving,
++  resolvingEdits,
++  showing,
++  showingBody,
++} from "./patch.command.code.ts"
+ 
+ const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
+ 
