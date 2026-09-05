@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper.domain.ts b/temper/temper.domain.ts
+index 16f72e925faedbb3c15fb49a4b5d258121b628f1..79ecb6b1a7023b3af6a2a18131676a9b09cf9a20 100644
+--- a/temper/temper.domain.ts
++++ b/temper/temper.domain.ts
+@@ -172,7 +172,7 @@ export const temper = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A property more than one page type carries is declared by a page type above them.",
++        "A property more than one page type carries is declared by a page type above those page types.",
+     },
+     {
+       invariantKind: "gap",
