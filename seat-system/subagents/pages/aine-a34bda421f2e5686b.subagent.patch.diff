@@ -1,5 +1,5 @@
 diff --git a/code-system/code-tests/code-tests.module.test.ts b/code-system/code-tests/code-tests.module.test.ts
-index caeef3c40502bb5a864f2c2b06208c2dfde299d1..1184db47aa5443851e4d029d0ced33c8544cbd3c 100644
+index caeef3c40502bb5a864f2c2b06208c2dfde299d1..15655b0b035c201ccedec3f2e0aef9c94f1eb43a 100644
 --- a/code-system/code-tests/code-tests.module.test.ts
 +++ b/code-system/code-tests/code-tests.module.test.ts
 @@ -104,7 +104,7 @@ check("a test answers itself alone, whichever of the two it is written in", () =
@@ -20,7 +20,7 @@ index caeef3c40502bb5a864f2c2b06208c2dfde299d1..1184db47aa5443851e4d029d0ced33c8
    const output = " 1 pass\n 0 fail\nRan 1 tests across 1 files."
    expect(verdictOf(0, output, 4)).toBe("short")
    expect(verdictOf(0, output, 1)).toBe("pass")
-@@ -164,7 +164,7 @@ check("one named path runs alone, and its neighbour does not", () => {
+@@ -164,12 +164,12 @@ check("one named path runs alone, and its neighbour does not", () => {
    expect(done.verdict).toBe("pass")
  })
  
@@ -29,8 +29,14 @@ index caeef3c40502bb5a864f2c2b06208c2dfde299d1..1184db47aa5443851e4d029d0ced33c8
    const root = repo({ "one.test.ts": MARKED })
    expect(ranOver(root, ["akasha"], 1).verdict).toBe("pass")
  })
+ 
+-check("the mark a run carries is read back by whoever stands inside it", () => {
++check("the mark a run carries is read back by whoever is inside it", () => {
+   expect(RUNNING).toBe("AKASHA_TESTS_RUNNING")
+   const was = process.env[RUNNING]
+   process.env[RUNNING] = "1"
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
-index 269bb5bdfbca656f09a9f2a9f96489aaaab3034a..8d0a71aa6793db30742f40e9c3c804c4c9e9a5b7 100644
+index 269bb5bdfbca656f09a9f2a9f96489aaaab3034a..7ee14a3c9b8b3910328c3b9d2697657873a2f831 100644
 --- a/code-system/code-tests/code-tests.module.ts
 +++ b/code-system/code-tests/code-tests.module.ts
 @@ -5,7 +5,7 @@ export const codeTests = {
@@ -57,6 +63,15 @@ index 269bb5bdfbca656f09a9f2a9f96489aaaab3034a..8d0a71aa6793db30742f40e9c3c804c4
        statement:
 -        "The test standing beside a file is named by the same rule that names any file beside a page.",
 +        "The test sitting beside a file is named by the same rule that names any file beside a page.",
+     },
+     {
+       invariantKind: "departure",
+@@ -167,7 +167,7 @@ export const codeTests = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A package standing outside the akasha folder is answered from that tree.",
++      statement: "A package outside the akasha folder is answered from that tree.",
      },
      {
        invariantKind: "departure",
