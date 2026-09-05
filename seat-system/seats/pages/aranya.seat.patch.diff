@@ -287,3 +287,11 @@ index 21d7038210155ea3288abcb75b69f8920e40e80c..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../infrastructure/inference-runs
 \ No newline at end of file
+diff --git a/infrastructure/infrastructure-commands/infrastructure-commands b/infrastructure/infrastructure-commands/infrastructure-commands
+deleted file mode 120000
+index bce4afff3fdcd47f44b8336b8ae4492b6901b9fd..0000000000000000000000000000000000000000
+--- a/infrastructure/infrastructure-commands/infrastructure-commands
++++ /dev/null
+@@ -1 +0,0 @@
+-../../infrastructure/infrastructure-commands
+\ No newline at end of file
