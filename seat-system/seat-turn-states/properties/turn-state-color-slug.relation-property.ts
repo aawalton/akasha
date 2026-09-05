@@ -13,7 +13,7 @@ export const turnStateColorSlug = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What this color draws is the seat rather than the turn state's own page.",
+      statement: "This color draws the seat rather than the turn state's own page.",
     },
   ],
 } as const satisfies RelationProperty
