@@ -90,6 +90,22 @@ index c7896ff0c55bad90257d8cca1af3f74d719bc674..8915d6a294fe58671940a0cc76b06d1f
      {
        invariantKind: "departure",
        statement: "The documents are reported where no output file is named.",
+diff --git a/infrastructure/infrastructure-commands/talos-kubeconfig/talos-kubeconfig.command.ts b/infrastructure/infrastructure-commands/talos-kubeconfig/talos-kubeconfig.command.ts
+index ddd5198d9196cc31920db67c7238b7afd8b8b5e3..76802b0ab982f92a97b05b53d68fa694eeaefc55 100644
+--- a/infrastructure/infrastructure-commands/talos-kubeconfig/talos-kubeconfig.command.ts
++++ b/infrastructure/infrastructure-commands/talos-kubeconfig/talos-kubeconfig.command.ts
+@@ -37,10 +37,7 @@ export const talosKubeconfig = {
+       invariantKind: "departure",
+       statement: "A destination nothing names is the cluster's own file under the home.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A path named for the output is read against the repository root.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "The folder above the destination is made before the fetch runs.",
 diff --git a/readout-system/readouts/pages/attribute-endurance/attribute-endurance.readout.ts b/readout-system/readouts/pages/attribute-endurance/attribute-endurance.readout.ts
 index ffad641479427a27b05a0eb325f3e7d4f2c40abf..9e0ff3a664deac48e87e84fdf3a629a879f9e818 100644
 --- a/readout-system/readouts/pages/attribute-endurance/attribute-endurance.readout.ts
