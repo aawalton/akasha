@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/tests-pass/tests-pass.code-check.code.ts b/checks/code-checks/pages/tests-pass/tests-pass.code-check.code.ts
-index 15611754595e2b10654233054be38c3142aa7adb..dd4f4a168cb5185f4626f056676ee8ecf55cfd7d 100644
+index 15611754595e2b10654233054be38c3142aa7adb..09112f4b20bce0e668679457685b8928b0c98270 100644
 --- a/checks/code-checks/pages/tests-pass/tests-pass.code-check.code.ts
 +++ b/checks/code-checks/pages/tests-pass/tests-pass.code-check.code.ts
 @@ -8,6 +8,7 @@ import {
@@ -10,6 +10,17 @@ index 15611754595e2b10654233054be38c3142aa7adb..dd4f4a168cb5185f4626f056676ee8ec
  import {
    everyFileOf,
    input,
+@@ -68,8 +69,9 @@ export function reasonOf(ran: Ran, named: readonly string[]): string {
+       `pass say nothing about the rest. A file that will not load is counted here as not run:\n${tailOf(ran.output)}`
+     )
+   }
++  const ended = endingOf(ran.code, ran.signal)
+   return (
+-    `the run printed no summary, so nothing says the tests ran at all — it exited ${ran.code}. ` +
++    `the run printed no summary, so nothing says the tests ran at all — it ${ended}. ` +
+     `This is the runner failing, not a test:\n${tailOf(ran.output)}`
+   )
+ }
 diff --git a/checks/code-checks/pages/tests-pass/tests-pass.code-check.test.ts b/checks/code-checks/pages/tests-pass/tests-pass.code-check.test.ts
 index f4039af0efcfebaa3715cf00fc9e90c9572d7ade..c09f9f1045175003071c92186923604388cc5084 100644
 --- a/checks/code-checks/pages/tests-pass/tests-pass.code-check.test.ts
@@ -24,7 +35,7 @@ index f4039af0efcfebaa3715cf00fc9e90c9572d7ade..c09f9f1045175003071c921869236043
  
  test("the tests named are the ones standing beside the files the change carries", () => {
 diff --git a/code-system/code-tests/code-tests.module.code.ts b/code-system/code-tests/code-tests.module.code.ts
-index cc6dab8b912f21b93d727ce54bc0382a007fc9a7..6d4805f086c56cf9da3ce2c98ae7a8150377855f 100644
+index cc6dab8b912f21b93d727ce54bc0382a007fc9a7..9d54ba514dbcd294d1598068f806e91424bfbbf1 100644
 --- a/code-system/code-tests/code-tests.module.code.ts
 +++ b/code-system/code-tests/code-tests.module.code.ts
 @@ -91,6 +91,7 @@ export type Summary = {
@@ -35,8 +46,32 @@ index cc6dab8b912f21b93d727ce54bc0382a007fc9a7..6d4805f086c56cf9da3ce2c98ae7a815
    readonly output: string
    readonly summary: Summary
    readonly verdict: Verdict
+@@ -366,6 +367,7 @@ export function ranOver(
+   const runs = grouped.length === 0 ? [{ preloads: [], named: [...named] }] : grouped
+   const naming = name === null ? [] : [NAMING, wholeOf(name)]
+   let code = 0
++  let signal: string | null = null
+   let output = ""
+   for (const group of runs) {
+     const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
+@@ -374,10 +376,14 @@ export function ranOver(
+       env: { ...process.env, [RUNNING]: MARK },
+     })
+     output += `${done.out}${done.err}`
+-    if (code === 0) code = done.code
++    if (code === 0) {
++      code = done.code
++      signal = done.signal
++    }
+   }
+   return {
+     code,
++    signal,
+     output,
+     summary: summaryIn(output),
+     verdict: verdictOf(code, output, expected),
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
-index 2736394b876c6ec11bcb471981ee7ffaf00159ee..bb0e0c7e55957b08f0463fa15613fcac861c25ed 100644
+index 2736394b876c6ec11bcb471981ee7ffaf00159ee..45f0ada41eee74a1b5e43aa11b173324b2ffbe25 100644
 --- a/code-system/code-tests/code-tests.module.ts
 +++ b/code-system/code-tests/code-tests.module.ts
 @@ -14,6 +14,10 @@ export const codeTests = {
@@ -50,8 +85,19 @@ index 2736394b876c6ec11bcb471981ee7ffaf00159ee..bb0e0c7e55957b08f0463fa15613fcac
      {
        invariantKind: "departure",
        statement: "A run's answer carries what the run printed.",
+@@ -66,6 +70,10 @@ export const codeTests = {
+       invariantKind: "departure",
+       statement: "A run answers the first non-zero code a group exited.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A run answers the signal that same group ended on beside that code.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A group is answered in the order of the first path the group holds.",
 diff --git a/commands/test/test.command.code.ts b/commands/test/test.command.code.ts
-index 66762ab758ed6527576b2bac39eac095ec7f7a67..1f50e232c997db50148e0584c22b3ab2e9cbb512 100644
+index 66762ab758ed6527576b2bac39eac095ec7f7a67..ddd597e3b7588ede0e101109f6d5140e0cad5d03 100644
 --- a/commands/test/test.command.code.ts
 +++ b/commands/test/test.command.code.ts
 @@ -3,6 +3,7 @@ import { join, relative, resolve } from "node:path"
@@ -62,6 +108,15 @@ index 66762ab758ed6527576b2bac39eac095ec7f7a67..1f50e232c997db50148e0584c22b3ab2
  import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
  
  const FILE_PATH = "--file-path"
+@@ -216,7 +217,7 @@ function toldOf(
+   verdict: Verdict,
+   said: Summary,
+   expected: number,
+-  code: number
++  ended: string
+ ): readonly string[] {
+   if (verdict === "fail") {
+     return [`${said.failed} of ${(said.passed ?? 0) + (said.failed ?? 0)} tests failed.`]
 diff --git a/commands/test/test.command.ts b/commands/test/test.command.ts
 index 86b539e110763141df03445c26cce6c015c2ba4b..3d9f456d331aa75d0a0733926b2bd07a7d737887 100644
 --- a/commands/test/test.command.ts
@@ -78,7 +133,7 @@ index 86b539e110763141df03445c26cce6c015c2ba4b..3d9f456d331aa75d0a0733926b2bd07a
        invariantKind: "departure",
        statement:
 diff --git a/utils-run/running/running.module.code.ts b/utils-run/running/running.module.code.ts
-index 081c65fe3e7464e6c98f6553ad6fd85ad865322c..afe31ea93142ae5dfa455064a2df81c6d89e0364 100644
+index 081c65fe3e7464e6c98f6553ad6fd85ad865322c..b8b65b765a085f39d9ea8ab8851a92f3b5cb8756 100644
 --- a/utils-run/running/running.module.code.ts
 +++ b/utils-run/running/running.module.code.ts
 @@ -2,12 +2,14 @@ export const NO_CODE = -1
@@ -96,8 +151,41 @@ index 081c65fe3e7464e6c98f6553ad6fd85ad865322c..afe31ea93142ae5dfa455064a2df81c6
    readonly out: Uint8Array
    readonly err: string
  }
+@@ -30,20 +32,30 @@ export function bytes(argv: readonly string[], asked: Asked = {}): Held {
+   })
+   return {
+     code: done.exitCode ?? NO_CODE,
++    signal: done.signalCode ?? null,
+     out: new Uint8Array(done.stdout),
+     err: done.stderr.toString(),
+   }
+ }
+ 
++export function endingOf(code: number, signal: string | null): string {
++  return signal === null ? `exited ${String(code)}` : `died on ${signal}`
++}
++
+ export function ran(argv: readonly string[], asked: Asked = {}): Said {
+   const done = bytes(argv, asked)
+-  return { code: done.code, out: new TextDecoder().decode(done.out), err: done.err }
++  return {
++    code: done.code,
++    signal: done.signal,
++    out: new TextDecoder().decode(done.out),
++    err: done.err,
++  }
+ }
+ 
+ export function said(argv: readonly string[], asked: Asked = {}): string {
+   const done = ran(argv, asked)
+   if (done.code === 0) return done.out
+-  throw new Error(`\`${argv[0] ?? ""}\` exited ${String(done.code)} — ${done.err.trim()}`)
++  throw new Error(`\`${argv[0] ?? ""}\` ${endingOf(done.code, done.signal)} — ${done.err.trim()}`)
+ }
+ 
+ export function shown(argv: readonly string[], asked: Asked = {}): undefined {
 diff --git a/utils-run/running/running.module.test.ts b/utils-run/running/running.module.test.ts
-index cb13c959dd57cba159ab4b276012664e90e00c6a..61fcdbe3391ace2375453a3349f39ef3cd461263 100644
+index cb13c959dd57cba159ab4b276012664e90e00c6a..d28aa1aba24ff48a7d06b2277cd53e5cc30dc5b4 100644
 --- a/utils-run/running/running.module.test.ts
 +++ b/utils-run/running/running.module.test.ts
 @@ -1,22 +1,51 @@
@@ -155,6 +243,15 @@ index cb13c959dd57cba159ab4b276012664e90e00c6a..61fcdbe3391ace2375453a3349f39ef3
  test("what a process said comes back where it exited zero", () => {
    expect(said(["sh", "-c", "printf hello"])).toBe("hello")
  })
+@@ -32,7 +61,7 @@ test("a process runs where the caller says", () => {
+ test("a process is given the environment the caller states", () => {
+   expect(
+     ran(["printenv", "AKASHA_RUNNING_PROBE"], { env: { AKASHA_RUNNING_PROBE: "here" } })
+-  ).toEqual({ code: 0, out: "here\n", err: "" })
++  ).toEqual({ code: 0, signal: null, out: "here\n", err: "" })
+ })
+ 
+ test("what a caller hands in reaches the process", () => {
 diff --git a/utils-run/running/running.module.ts b/utils-run/running/running.module.ts
 index 3687b918b8eb621d9dc189c724ab22679622c915..5755ae59c46dfb7089c069bf80d74c3c52fd555e 100644
 --- a/utils-run/running/running.module.ts
