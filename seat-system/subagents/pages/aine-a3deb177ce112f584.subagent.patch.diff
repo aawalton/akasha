@@ -51,7 +51,7 @@ index 0512a7ebfabc5807d4bd5aec3b0fe55667e70739..f145faf1f5be40b4a3e90554395fadd2
      {
        invariantKind: "gap",
 diff --git a/hook-system/hook-judging/hook-judging.module.ts b/hook-system/hook-judging/hook-judging.module.ts
-index d803a5c4e070fc741df6bfb930d16e47ba234707..c6b45fb5b95064a624b4779c4aad1d3beef72fca 100644
+index d803a5c4e070fc741df6bfb930d16e47ba234707..a718df855f63de067c39e5f14d8d11ccb98da0a1 100644
 --- a/hook-system/hook-judging/hook-judging.module.ts
 +++ b/hook-system/hook-judging/hook-judging.module.ts
 @@ -4,7 +4,7 @@ export const hookJudging = {
@@ -63,6 +63,15 @@ index d803a5c4e070fc741df6bfb930d16e47ba234707..c6b45fb5b95064a624b4779c4aad1d3b
    code: "ts",
    invariants: [
      {
+@@ -41,7 +41,7 @@ export const hookJudging = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "What stands here is stood up by the tests that reach for this module.",
++      statement: "What is here is set up by the tests that reach for this module.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/hook-system/hook-system.workspace-package.ts b/hook-system/hook-system.workspace-package.ts
 index 806bb9d88899508baa419388f4943703512abc10..83194f6c6b00a1b6204655dd2f82d3aec4e6b1fe 100644
 --- a/hook-system/hook-system.workspace-package.ts
@@ -102,7 +111,7 @@ index 8d1b7038d3a615f11f77422d7d281c69465eb990..6efc03df798d11ee1cf2c41ac393fc9f
    test: "ts",
    invariants: [
 diff --git a/hook-system/settling/settling.module.test.ts b/hook-system/settling/settling.module.test.ts
-index 3a002bcfdea6237ed8a0ccfa87bac4563e1f169e..463be704c9f7629e5c015c5f8cdcf8a2ea244523 100644
+index 3a002bcfdea6237ed8a0ccfa87bac4563e1f169e..b653c0891efedf834b675fcb57baea00061a57aa 100644
 --- a/hook-system/settling/settling.module.test.ts
 +++ b/hook-system/settling/settling.module.test.ts
 @@ -12,7 +12,7 @@ function worldAt(): string {
@@ -114,6 +123,15 @@ index 3a002bcfdea6237ed8a0ccfa87bac4563e1f169e..463be704c9f7629e5c015c5f8cdcf8a2
    const root = worldAt()
    writeFileSync(join(root, "one.ts"), "one\n")
    expect(settled(join(root, "one.ts"))).toBe(join(root, "one.ts"))
+@@ -40,7 +40,7 @@ test("a link through a folder settles on where the file lands", () => {
+   expect(settled(join(root, "seen", "one.ts"))).toBe(join(root, "real", "one.ts"))
+ })
+ 
+-test("a path settles even where nothing stands at the end of it yet", () => {
++test("a path settles even where nothing is at the end of it yet", () => {
+   const root = worldAt()
+   expect(settled(join(root, "not", "there", "yet.ts"))).toBe(join(root, "not", "there", "yet.ts"))
+ })
 diff --git a/hook-system/settling/settling.module.ts b/hook-system/settling/settling.module.ts
 index 0017808e98b546eab5d4cf64fcdaa1e6396c3ca0..0af910fbd0d810ca1dc5771ff472990d92a8931f 100644
 --- a/hook-system/settling/settling.module.ts
