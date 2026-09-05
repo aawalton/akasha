@@ -25,7 +25,7 @@ index 458e0ba8075f3140ecc86275011644c541036db9..15b9f4e1c81e974510a51d2717a003da
      {
        invariantKind: "departure",
 diff --git a/email-watch/email-rule-set/email-rule-set.module.ts b/email-watch/email-rule-set/email-rule-set.module.ts
-index 53d3761b51cab4a4e7aef63769dc813afb7d37e5..967cff2679b5f668ead5be11f9efb0b284683610 100644
+index 53d3761b51cab4a4e7aef63769dc813afb7d37e5..048188efcf1751b6c6bdf11590727ab4e3f3445a 100644
 --- a/email-watch/email-rule-set/email-rule-set.module.ts
 +++ b/email-watch/email-rule-set/email-rule-set.module.ts
 @@ -4,7 +4,7 @@ export const emailRuleSet = {
@@ -37,7 +37,7 @@ index 53d3761b51cab4a4e7aef63769dc813afb7d37e5..967cff2679b5f668ead5be11f9efb0b2
    code: "ts",
    test: "ts",
    invariants: [
-@@ -14,7 +14,7 @@ export const emailRuleSet = {
+@@ -14,11 +14,11 @@ export const emailRuleSet = {
      },
      {
        invariantKind: "departure",
@@ -46,6 +46,11 @@ index 53d3761b51cab4a4e7aef63769dc813afb7d37e5..967cff2679b5f668ead5be11f9efb0b2
      },
      {
        invariantKind: "departure",
+-      statement: "The folder a rule stands in names the person whose rule it is.",
++      statement: "The folder a rule is in names the person whose rule it is.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/email-watch/inbox-pass/inbox-pass.module.test.ts b/email-watch/inbox-pass/inbox-pass.module.test.ts
 index 1d315bc85debf655e7f712f5f776b8febf7ee246..94bd379bbe985c948282ef784006afc0f2c68954 100644
 --- a/email-watch/inbox-pass/inbox-pass.module.test.ts
