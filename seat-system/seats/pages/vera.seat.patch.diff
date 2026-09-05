@@ -1,0 +1,19 @@
+diff --git a/domains/initiatives/pages/vera-context-cleanup.initiative.ts b/domains/initiatives/pages/vera-context-cleanup.initiative.ts
+index 8d1ac19d6926afb94f330226f07a9c6798382e37..413267349dba0e194d1f2cfd77c2dc3cb37f44d1 100644
+--- a/domains/initiatives/pages/vera-context-cleanup.initiative.ts
++++ b/domains/initiatives/pages/vera-context-cleanup.initiative.ts
+@@ -10,12 +10,12 @@ export const veraContextCleanup = {
+     {
+       statement: "All context files are organized in the context/ folder.",
+       workingMemory:
+-        "Met at 362c3d16 and 4f2448cf: the folder, the page slug and the package name are all `context`, and `bun install` settled the lockfile. Three places still spell `context-system` and each is right to: a made-up domain in `domain-ancestors.context-warrant.test.ts`, prose in a finding measured 2026-09-02, and one line of amy's `amy-seat-turn-reading` working memory, which is hers to mend.",
++        "Met at 362c3d16 and 4f2448cf: folder, page slug and package name are all `context`. The rename left `asking` and `patch` importing `@akasha/context-system`, which resolved only through a node_modules link no manifest names; repointed at f292fa40 and proved by deleting that link. What still spells the old name is prose: a made-up domain in `domain-ancestors.context-warrant.test.ts`, a finding measured 2026-09-02, and amy's working memory, which is hers to mend.",
+     },
+     {
+       statement: "The context folder tree passes the folder-matches-a-shape check.",
+       workingMemory:
+-        "`akasha audit --check folder-matches-a-shape --file-path context` answers none refused. `context-warrants` became `warrants` in the move that renamed the package, so the stutter the rename would have made never landed. `warrant-scratch` has since folded into the fixtures beside `warranting`, being test scaffolding rather than a module, leaving `agent-stated`, `warranting` and `warrants`.",
++        "`akasha audit --check folder-matches-a-shape --file-path context` answers none refused over 58 files. `context-warrants` became `warrants` in the move that renamed the package. `warrant-scratch` folded into the fixtures beside `warranting`, being test scaffolding rather than a module. `agent-stated` and `warranting` sit under `modules/` as of d65b1071 and beafc049, leaving `modules` and `warrants`.",
+     },
+   ],
+ } as const satisfies Initiative
