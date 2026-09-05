@@ -1,0 +1,56 @@
+diff --git a/seat-system/subagent-census/subagent-census.module.code.ts b/seat-system/subagent-census/subagent-census.module.code.ts
+index 6f7e0d02222da9b6c2013070c25a49c071cfe1a4..b7bf18220f58542f9ac93e558782bace7f2aa848 100644
+--- a/seat-system/subagent-census/subagent-census.module.code.ts
++++ b/seat-system/subagent-census/subagent-census.module.code.ts
+@@ -6,7 +6,6 @@ import { textAt, valueAt } from "@akasha/pages-system/page-value"
+ import { supervisorsRootDir } from "@akasha/seat-system/supervisor-log-path"
+ import {
+   actingAgentPidsFromProc,
+-  liveAgentPidsFromProc,
+   type ProcLivenessEntry,
+ } from "../seat-proc-liveness/seat-proc-liveness.module.code.ts"
+ import { LOG_AT, SUBAGENTS_AT } from "../subagents/presence/subagent-presence.module.code.ts"
+@@ -125,9 +124,25 @@ export function takenDownIn(baseDir: string = supervisorsRootDir()): ReadonlySet
+   return held
+ }
+ 
++// A REMOVAL LEANS ON NO COMMAND LINE. `liveAgentPidsFromProc` counts a seat alive only where one of
++// its own processes matches the Claude child or the supervisor pattern, and a pattern that stopped
++// matching would read every seat as gone and take away every page under it. What is asked here is
++// weaker and safer: whether any process at all carries the seat's agent id. A process a seat left
++// behind reads the seat as alive, which leaves its pages undetermined rather than removed.
++function pidsByAgentId(entries: readonly ProcLivenessEntry[]): Map<string, number[]> {
++  const byId = new Map<string, number[]>()
++  for (const { agentId, pid } of entries) {
++    if (agentId === "") continue
++    const existing = byId.get(agentId)
++    if (existing === undefined) byId.set(agentId, [pid])
++    else existing.push(pid)
++  }
++  return byId
++}
++
+ export function seenIn(entries: readonly ProcLivenessEntry[], baseDir?: string): Seen {
+   return {
+-    seatPids: liveAgentPidsFromProc(entries),
++    seatPids: pidsByAgentId(entries),
+     actingPids: actingAgentPidsFromProc(entries),
+     takenDown: takenDownIn(baseDir),
+   }
+@@ -160,14 +175,14 @@ function judgedOne(page: SubagentPage, seen: Seen): Judged {
+       page,
+       verdict: STALE,
+       pids,
+-      why: "no live process runs as its seat, so nothing is left that could be running it",
++      why: "no process at all carries its seat's agent id, so the seat that would host it is gone",
+     }
+   }
+   return {
+     page,
+     verdict: UNDETERMINED,
+     pids,
+-    why: `its seat is at work on ${String(seat.length)} process(es) and none acts under this agent id, which is what a subagent waiting on the model looks like too`,
++    why: `its seat is on ${String(seat.length)} process(es) and none acts under this agent id, which is what a subagent waiting on the model looks like too`,
+   }
+ }
+ 
