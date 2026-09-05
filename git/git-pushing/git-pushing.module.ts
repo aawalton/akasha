@@ -19,7 +19,7 @@ export const gitPushing = {
     },
     {
       invariantKind: "departure",
-      statement: "A HEAD that is on no branch has nothing to push it as.",
+      statement: "A HEAD that is on no branch has nothing to push that HEAD as.",
     },
     {
       invariantKind: "departure",
