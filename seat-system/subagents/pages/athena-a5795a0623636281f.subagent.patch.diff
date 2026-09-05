@@ -48,6 +48,28 @@ index fa74452c2e2696141d8751d84df349af5169fd85..8d62fa78f68ab2196c2ba0dd7058f6b0
          )
        })
      )
+diff --git a/alan/harness/monarch/gmail-cache/monarch-gmail-cache.module.ts b/alan/harness/monarch/gmail-cache/monarch-gmail-cache.module.ts
+index c1a2a8b5a329f83e36baff4c08671c8c1347d466..8cbc35306c139d88a85a551cb2696c76b0e037e4 100644
+--- a/alan/harness/monarch/gmail-cache/monarch-gmail-cache.module.ts
++++ b/alan/harness/monarch/gmail-cache/monarch-gmail-cache.module.ts
+@@ -18,15 +18,11 @@ export const monarchGmailCache = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Mail is reached through the `akasha` command rather than through Google directly.",
++        "Mail is reached by calling the message functions rather than by running a command.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A non-zero exit from `akasha` is refused carrying what it said.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The akasha command is spawned by its whole path rather than found on a path.",
++      statement: "A fault at Gmail rises to the caller rather than being caught here.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/google/email/commands/email-messages-get/email-messages-get.command.code.ts b/google/email/commands/email-messages-get/email-messages-get.command.code.ts
 index 67807ea8c88381fa92b41cfbb7650ca57a1063ea..128843d3087e85ba8cf6e92a76abe2219773cf79 100644
 --- a/google/email/commands/email-messages-get/email-messages-get.command.code.ts
@@ -152,3 +174,27 @@ index 0000000000000000000000000000000000000000..4a0fd15e9816fd5f63c941e902fa4f45
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/google/email/google-email.workspace-package.ts b/google/email/google-email.workspace-package.ts
+index f954a086b8c8819b000c2c4865d8763a28810df8..8aeceebc7de30d963c926f479e2bdf293d6621df 100644
+--- a/google/email/google-email.workspace-package.ts
++++ b/google/email/google-email.workspace-package.ts
+@@ -22,6 +22,7 @@ export const googleEmail = {
+     "module/gmail-mailbox",
+     "module/forwarded-message",
+     "module/email-operations",
++    "module/email-message-fetching",
+     "module/compose-input-from-arguments",
+     "module/email-command-reading",
+     "command/email-attachments-get",
+diff --git a/google/email/package.json b/google/email/package.json
+index 29eba6845eae058701ccb6ce42eb9d5ba10efe48..d9eb0ac70750657732540014718c3864fce8cac4 100644
+--- a/google/email/package.json
++++ b/google/email/package.json
+@@ -18,6 +18,7 @@
+     "./gmail-mailbox": "./gmail-mailbox/gmail-mailbox.module.code.ts",
+     "./forwarded-message": "./forwarded-message/forwarded-message.module.code.ts",
+     "./email-operations": "./email-operations/email-operations.module.code.ts",
++    "./email-message-fetching": "./email-message-fetching/email-message-fetching.module.code.ts",
+     "./compose-input-from-arguments": "./compose-input-from-arguments/compose-input-from-arguments.module.code.ts",
+     "./email-command-help": "./email-command-help/email-command-help.module.code.ts"
+   },
