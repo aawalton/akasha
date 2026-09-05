@@ -10,7 +10,7 @@ export const terminalEnded = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What is left names when the shell ended, what it ended with and where it stood.",
+      statement: "What is left names when the shell ended, what it ended with and where it was.",
     },
     {
       invariantKind: "departure",

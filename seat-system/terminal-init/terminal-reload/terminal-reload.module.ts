@@ -15,7 +15,7 @@ export const terminalReload = {
     {
       invariantKind: "departure",
       statement:
-        "What a launcher does stands under a name of its own rather than under the name typed.",
+        "What a launcher does sits under a name of its own rather than under the name typed.",
     },
     {
       invariantKind: "departure",

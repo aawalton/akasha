@@ -60,7 +60,7 @@ describe("the launch", () => {
     expect(launching).toContain("is not there, so this seat has nowhere to start.")
   })
 
-  test("attaches once the session stands", () => {
+  test("attaches once the session is there", () => {
     expect(launching.trimEnd().endsWith('tmux attach-session -t "=$_seat"\n}')).toBe(true)
   })
 

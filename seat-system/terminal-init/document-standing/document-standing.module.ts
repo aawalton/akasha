@@ -4,17 +4,17 @@ export const documentStanding = {
   id: "01a0680a-fa30-7f0d-89f4-80ea9c4f2e25",
   pageTypeSlug: "module",
   slug: "document-standing",
-  definition: "whether a persona's or a person's document stands, asked in shell by its slug",
+  definition: "whether a persona's or a person's document is there, asked in shell by its slug",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Where a document sits is read off the pages standing rather than spelled here.",
+      statement: "Where a document sits is read off the pages there rather than spelled here.",
     },
     {
       invariantKind: "departure",
-      statement: "A shape is one standing page's own path with its slug blanked out.",
+      statement: "A shape is the path of a page that is there, with its slug blanked out.",
     },
     {
       invariantKind: "departure",
@@ -23,8 +23,7 @@ export const documentStanding = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every shape the standing pages take is asked, so a tree half moved still answers.",
+      statement: "Every shape the pages there take is asked, so a tree half moved still answers.",
     },
     {
       invariantKind: "departure",

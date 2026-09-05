@@ -46,7 +46,7 @@ export const terminalSeatLaunchers = {
     },
     {
       invariantKind: "departure",
-      statement: "One word naming a persona no document stands for is split into a name.",
+      statement: "One word naming a persona with no document is split into a name.",
     },
     {
       invariantKind: "departure",

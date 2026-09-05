@@ -13,11 +13,11 @@ export interface Named {
   readonly path: string
 }
 
-// A DOCUMENT'S PLACE IS READ OFF THE PAGES STANDING RATHER THAN SPELLED HERE. The akasha tree is
+// A DOCUMENT'S PLACE IS READ OFF THE PAGES THERE RATHER THAN SPELLED HERE. The akasha tree is
 // still being arranged, so a folder written into this file goes stale the next time a page type
 // moves, and the shell function built from it then refuses a seat that is perfectly well declared.
-// Reading one standing page's own path and blanking its slug survives every move that keeps a page
-// named for its slug.
+// Reading the path of a page that is there and blanking its slug survives every move that keeps a
+// page named for its slug.
 export function shapeOf(path: string, slug: string): string {
   const parts = path.split("/")
   return parts

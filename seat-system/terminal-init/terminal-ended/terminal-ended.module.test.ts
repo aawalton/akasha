@@ -16,13 +16,13 @@ async function parses(text: string): Promise<number> {
 }
 
 describe("what is left", () => {
-  test("names when the shell ended, what it ended with and where it stood", () => {
+  test("names when the shell ended, what it ended with and where it was", () => {
     for (const key of ["ended-at", "status", "signal", "pid", "ppid", "tty"]) {
       expect(said).toContain(`"${key}"`)
     }
   })
 
-  test("stands beside the terminal's own page under the tree the reader looks in", () => {
+  test("sits beside the terminal's own page under the tree the reader looks in", () => {
     expect(said).toContain(`local _dir="$_root/${ENDED_DIR}"`)
     expect(said).toContain(".code-editor-terminal.ended.uncommitted.attachment.json")
   })

@@ -9,7 +9,7 @@ async function parses(said: string): Promise<number> {
 describe("a client opened on one account", () => {
   const said = supervisorFn("c1", " -a aawalton")
 
-  test("stands under the launcher's own name", () => {
+  test("sits under the launcher's own name", () => {
     expect(said.startsWith("_akasha_fn_c1() {")).toBe(true)
   })
 
@@ -40,7 +40,7 @@ describe("a new account", () => {
     expect(said).toContain("cna: aborted — no email")
   })
 
-  test("says its own alias stands only once the set is composed again", () => {
+  test("says its own alias is there only once the set is composed again", () => {
     expect(said).toContain("Run 's.' to load the new c-alias")
   })
 

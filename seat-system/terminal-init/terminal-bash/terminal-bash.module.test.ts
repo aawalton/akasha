@@ -15,7 +15,7 @@ const ACCOUNTS: readonly AliasEntry[] = [
 const said = generateBashInit(ACCOUNTS)
 
 describe("the launchers", () => {
-  test("stand in the order of the alias indexes rather than of the slugs", () => {
+  test("are in the order of the alias indexes rather than of the slugs", () => {
     expect(inAliasOrder(ACCOUNTS).map((one) => one.account)).toEqual(["aawalton", "aow", "ctw"])
     expect(said.indexOf("c1() {")).toBeLessThan(said.indexOf("c2() {"))
     expect(said.indexOf("c2() {")).toBeLessThan(said.indexOf("c3() {"))

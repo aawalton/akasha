@@ -34,7 +34,7 @@ export const terminalAccountLaunchers = {
     },
     {
       invariantKind: "departure",
-      statement: "A new account's own alias stands only once the set is composed again.",
+      statement: "A new account's own alias is there only once the set is composed again.",
     },
     {
       invariantKind: "absence",

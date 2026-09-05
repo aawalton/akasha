@@ -11,7 +11,7 @@ import {
 } from "./document-standing.module.code.ts"
 
 describe("a shape", () => {
-  test("is one standing page's path with its slug blanked out", () => {
+  test("is the path of a page that is there with its slug blanked out", () => {
     expect(shapeOf("akasha/persona-system/personas/akasha/akasha.persona.ts", "akasha")).toBe(
       `akasha/persona-system/personas/${SLUG_MARK}/${SLUG_MARK}.persona.ts`
     )
@@ -79,7 +79,7 @@ describe("what is asked in shell", () => {
 describe("the persona gate", () => {
   const said = personaDocumentGateLines("sn", "name").join("\n")
 
-  test("refuses only where no shape stands", () => {
+  test("refuses only where no shape is there", () => {
     expect(said).toContain('[ ! -f "$_root/')
     expect(said).not.toContain(" || ")
   })
