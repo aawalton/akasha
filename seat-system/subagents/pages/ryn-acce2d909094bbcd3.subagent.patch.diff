@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/types/properties/secret.boolean-property.ts b/pages/types/properties/secret.boolean-property.ts
+index d80ea9a001a9c793301f37e302695fb8e62bf4f0..b0b2f958678c844c192c80ae7c763c9911620dfb 100644
+--- a/pages/types/properties/secret.boolean-property.ts
++++ b/pages/types/properties/secret.boolean-property.ts
+@@ -13,7 +13,7 @@ export const secret = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Whoever can read the repository can read every other value in that repository from the files.",
++        "A person who can read the repository can read every other value in that repository from the files.",
+     },
+     {
+       invariantKind: "departure",
