@@ -271,3 +271,18 @@ index 0000000000000000000000000000000000000000..28762da6267efc3a65fe16420d66dfd0
 +  definition: "pages held under one another",
 +  partSlugs: ["module/parent-child-tree"],
 +} as const satisfies Domain
+diff --git a/pages/ui/units/pages-ui-units.domain.ts b/pages/ui/units/pages-ui-units.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..31bf46f1e702509700f1c4ab1d00e5250d0da5b2
+--- /dev/null
++++ b/pages/ui/units/pages-ui-units.domain.ts
+@@ -0,0 +1,9 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesUiUnits = {
++  id: "01a071d1-781e-7338-87ff-dee331044eb4",
++  pageTypeSlug: "domain",
++  slug: "pages-ui-units",
++  definition: "how much text is read at one time",
++  partSlugs: ["module/reading-units"],
++} as const satisfies Domain
