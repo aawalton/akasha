@@ -98,7 +98,7 @@ index 92620ff1d45c6b862a5eb8b2b1ba6a0091cbd6a6..414d84227e14dcc24f777636bda2444c
  
  export function schemaOf(given: string | Reading, named: string): Schemad {
 diff --git a/pages/indexes/reading/index-reading.module.test.ts b/pages/indexes/reading/index-reading.module.test.ts
-index 91006b53e032cae31e5ba55b7b5cc87f2ea59494..ad60464d2ebb638f0d8ca6eda5247e4486bce7bd 100644
+index 91006b53e032cae31e5ba55b7b5cc87f2ea59494..e7c442704bb9a6349b00fa583af16619355aeda0 100644
 --- a/pages/indexes/reading/index-reading.module.test.ts
 +++ b/pages/indexes/reading/index-reading.module.test.ts
 @@ -151,7 +151,7 @@ test("every reader is refused where the index stands nowhere, whatever it was as
@@ -119,3 +119,12 @@ index 91006b53e032cae31e5ba55b7b5cc87f2ea59494..ad60464d2ebb638f0d8ca6eda5247e44
  })
  
  test("a property that names no page is answered with a shape that is not a relation", () => {
+@@ -181,7 +181,7 @@ test("a property that names no page is answered with a shape that is not a relat
+   }
+   schemaFiled(root, "text-property", "definition", [held])
+ 
+-  expect(schemaOf(root, "definition")).toEqual({ schema: held })
++  expect(schemaOf(root, "text-property/definition")).toEqual({ schema: held })
+ })
+ 
+ test("a property naming many pages is answered with the target it names itself", () => {
