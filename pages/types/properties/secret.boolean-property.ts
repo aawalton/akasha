@@ -13,7 +13,7 @@ export const secret = {
     {
       invariantKind: "departure",
       statement:
-        "Whoever can read the repository can read every other value in that repository from the files.",
+        "A person who can read the repository can read every other value in that repository from the files.",
     },
     {
       invariantKind: "departure",
