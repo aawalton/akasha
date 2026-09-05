@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/uncommitted/page-uncommitted.module.ts b/pages/uncommitted/page-uncommitted.module.ts
+index 617e058961c2b430ce5eabdde2644a0ac6a5cc8e..e1572d37d9cef6848ed0b31cae38bb113ef218bd 100644
+--- a/pages/uncommitted/page-uncommitted.module.ts
++++ b/pages/uncommitted/page-uncommitted.module.ts
+@@ -91,7 +91,7 @@ export const pageUncommitted = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Values merge key by key into what stands.",
++      statement: "Values merge key by key into the values already standing.",
+     },
+     {
+       invariantKind: "departure",
