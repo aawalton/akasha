@@ -5,6 +5,7 @@ export const job = {
   pageTypeSlug: "domain",
   slug: "job",
   definition: "a workload that runs to completion and stops",
+  partSlugs: ["manifest/pod-janitor"],
   invariants: [
     {
       invariantKind: "departure",
