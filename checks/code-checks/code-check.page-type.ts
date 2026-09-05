@@ -161,7 +161,7 @@ export const codeCheck = {
     },
     {
       invariantKind: "gap",
-      statement: "A check's phases are derived from what the check reads.",
+      statement: "A check's phases are derived from the input the check reads.",
     },
   ],
   directives: [
