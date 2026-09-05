@@ -6,4 +6,6 @@ export const subagentPage = {
   slug: "subagent-page",
   definition: "the subagents standing under a seat, and their pages removed with it",
   code: "ts",
+  test: "ts",
+  testFixtures: "ts",
 } as const satisfies Module
