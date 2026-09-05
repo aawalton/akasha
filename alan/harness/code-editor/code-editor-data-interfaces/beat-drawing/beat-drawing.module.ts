@@ -24,6 +24,10 @@ export const beatDrawing = {
       statement: "One section failing leaves the other three read.",
     },
     {
+      invariantKind: "departure",
+      statement: "A group answering no stoplights was not read, every group naming at least one.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes a file or holds a timer.",
     },

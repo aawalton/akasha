@@ -62,6 +62,10 @@ export async function agentTreeLine(): Promise<string> {
 async function stoplightsOf(group: string): Promise<StatusBarStoplights | null> {
   try {
     const drawn = await drawGroup(group)
+    // A store that cannot be reached answers no stoplights rather than throwing, so an empty
+    // group is a read that failed rather than a group that is well. Every group names at least
+    // one readout, and answering null here is what keeps the last good glyphs on the screen.
+    if (drawn.glyphs === "") return null
     return { glyphs: drawn.glyphs, legend: drawn.legend }
   } catch {
     return null
