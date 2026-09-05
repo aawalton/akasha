@@ -60,3 +60,18 @@ index 3505b650558240c72295a3abaee81bf5a1a92d9a..0dd1ad1e5a024fcfc0f31d34346de4f2
      )
    }
  
+diff --git a/seat-system/seat-resume/seat-resume.module.code.ts b/seat-system/seat-resume/seat-resume.module.code.ts
+index 4d954a0db94677a59d9f2b082ef765aef030444b..6e5af22c2b96de784079a7716936543a0d3f358e 100644
+--- a/seat-system/seat-resume/seat-resume.module.code.ts
++++ b/seat-system/seat-resume/seat-resume.module.code.ts
+@@ -258,8 +258,8 @@ export async function resumeSeat(request: ResumeSeatRequest): Promise<ResumedSea
+         `agent '${seat.name ?? agentId}' is live, and ${launching.join(", ")} ` +
+           `${launching.length === 1 ? "speaks" : "speak"} to a LAUNCH. A running seat already has a ` +
+           "turn, so there is no first turn to give it and no transcript to hydrate: it is cycled " +
+-          "in place instead. Hand it work with `ops seat send`, which reaches a live seat and " +
+-          `revives a stopped one, or stop it first with \`akasha seat supervisor stop ${seat.name ?? agentId}\`.`
++          "in place instead. Drop the launch flags, or stop it first with " +
++          `\`akasha seat supervisor stop ${seat.name ?? agentId}\`.`
+       )
+     }
+     refuseWhereSubagentsWork(agentId, request.force === true)
