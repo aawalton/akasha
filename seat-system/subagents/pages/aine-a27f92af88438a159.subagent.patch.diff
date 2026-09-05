@@ -1,5 +1,5 @@
 diff --git a/pages/beside/page-beside.module.test.ts b/pages/beside/page-beside.module.test.ts
-index 1fb05a6c6d6fb8567a8906cd0993e53889b2b42b..03dc8dde0b421854176f2af7b77e91e24d2ba82d 100644
+index 1fb05a6c6d6fb8567a8906cd0993e53889b2b42b..c7de1a291f386655a0d5f8015616257a8163f320 100644
 --- a/pages/beside/page-beside.module.test.ts
 +++ b/pages/beside/page-beside.module.test.ts
 @@ -27,7 +27,7 @@ function rootWith(paths: readonly string[]): string {
@@ -11,8 +11,17 @@ index 1fb05a6c6d6fb8567a8906cd0993e53889b2b42b..03dc8dde0b421854176f2af7b77e91e2
    const root = rootWith([PAGE, "akasha/one/held.module.code.ts", "akasha/one/held.module.test.ts"])
    expect(besideOf(root, PAGE)).toEqual([
      "akasha/one/held.module.code.ts",
+@@ -72,7 +72,7 @@ test("a file carrying more than one part past the page's name is not beside it",
+   expect(besideOf(root, PAGE)).toEqual(["akasha/one/held.module.code.ts"])
+ })
+ 
+-test("what stands beside several paths is answered once, sorted, and holds none of them", () => {
++test("what sits beside several paths is answered once, sorted, and holds none of them", () => {
+   const root = rootWith([
+     PAGE,
+     "akasha/one/held.module.code.ts",
 diff --git a/pages/beside/page-beside.module.ts b/pages/beside/page-beside.module.ts
-index a5bb3f6538cec2c615102089c51f9d0be5179cad..f6e95085a2e9b27023d48f2e9640a47ff4938ec0 100644
+index a5bb3f6538cec2c615102089c51f9d0be5179cad..49597d75338c0ee077922cdc258dd5d4abd1ecfb 100644
 --- a/pages/beside/page-beside.module.ts
 +++ b/pages/beside/page-beside.module.ts
 @@ -4,7 +4,7 @@ export const pageBeside = {
@@ -24,8 +33,17 @@ index a5bb3f6538cec2c615102089c51f9d0be5179cad..f6e95085a2e9b27023d48f2e9640a47f
    code: "ts",
    test: "ts",
    invariants: [
+@@ -61,7 +61,7 @@ export const pageBeside = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file no page claims cannot stand.",
++      statement: "A file no page claims cannot exist.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/checkout-roots/checkout-roots.module.code.ts b/pages/checkout-roots/checkout-roots.module.code.ts
-index 99e7c32913f002317db3d3f7af4e6d51ea157762..fe49354ac2a491c333799bda1f4d89ed3728bb4d 100644
+index 99e7c32913f002317db3d3f7af4e6d51ea157762..5549ae5a51beeec7e04175bd75b062dab15c83c9 100644
 --- a/pages/checkout-roots/checkout-roots.module.code.ts
 +++ b/pages/checkout-roots/checkout-roots.module.code.ts
 @@ -206,7 +206,7 @@ export function rootsNamed(at: Readonly<Record<string, string>>, target?: Repo):
@@ -37,8 +55,19 @@ index 99e7c32913f002317db3d3f7af4e6d51ea157762..fe49354ac2a491c333799bda1f4d89ed
          ` checked out in, or leave the key out to say it is not cloned here`
      )
    }
+@@ -220,9 +220,7 @@ export function targetRepo(roots: Roots): Repo {
+ export function rootFor(roots: Roots, repo: string): string {
+   const root = roots[repo]
+   if (root === undefined) {
+-    throw new Error(
+-      `no \`${repo}\` repository is cloned here, so nothing says where its paths stand`
+-    )
++    throw new Error(`no \`${repo}\` repository is cloned here, so nothing says where its paths are`)
+   }
+   return root
+ }
 diff --git a/pages/checkout-roots/checkout-roots.module.ts b/pages/checkout-roots/checkout-roots.module.ts
-index 14ac63df14a1b3d0fb133d8d8985f907a29e4a5a..14dcbfeb3517c43aed3caaac47b7024431a15d54 100644
+index 14ac63df14a1b3d0fb133d8d8985f907a29e4a5a..ce28eb5a06ebbc1dd59944b1efa0c02cad520323 100644
 --- a/pages/checkout-roots/checkout-roots.module.ts
 +++ b/pages/checkout-roots/checkout-roots.module.ts
 @@ -4,7 +4,7 @@ export const checkoutRoots = {
@@ -50,8 +79,17 @@ index 14ac63df14a1b3d0fb133d8d8985f907a29e4a5a..14dcbfeb3517c43aed3caaac47b70244
    code: "ts",
    invariants: [
      {
+@@ -14,7 +14,7 @@ export const checkoutRoots = {
+     },
+     {
+       invariantKind: "stopgap",
+-      statement: "A path standing under no marked checkout answers the folder two above this one.",
++      statement: "A path under no marked checkout answers the folder two above this one.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/file-name/page-file-name.module.ts b/pages/file-name/page-file-name.module.ts
-index da038d95b684c6dea1e4c77726fbe37ae5bb25fa..31af8b03cf14bed79526d5c91259402964c8c162 100644
+index da038d95b684c6dea1e4c77726fbe37ae5bb25fa..67ad069c22980db45ce14bf02edc069486cf9b06 100644
 --- a/pages/file-name/page-file-name.module.ts
 +++ b/pages/file-name/page-file-name.module.ts
 @@ -4,7 +4,7 @@ export const pageFileName = {
@@ -63,11 +101,20 @@ index da038d95b684c6dea1e4c77726fbe37ae5bb25fa..31af8b03cf14bed79526d5c912594029
    code: "ts",
    test: "ts",
    testFixtures: "ts",
+@@ -57,7 +57,7 @@ export const pageFileName = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page and a file standing beside the page answer the same page.",
++      statement: "A page and a file beside the page answer the same page.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/file-parts/page-file-parts.module.code.ts b/pages/file-parts/page-file-parts.module.code.ts
-index 762ba64693ca4daedd9dacea8a6a8b9337dcb695..4ee007625d373cec28f2014e8db6cc9bae23bb04 100644
+index 762ba64693ca4daedd9dacea8a6a8b9337dcb695..18d32d35be000431afe7082abf430225c9e27baf 100644
 --- a/pages/file-parts/page-file-parts.module.code.ts
 +++ b/pages/file-parts/page-file-parts.module.code.ts
-@@ -28,7 +28,7 @@ export function uncommittedPartAt(
+@@ -28,13 +28,13 @@ export function uncommittedPartAt(
  
  function walking(
    naming: (part: number) => string | null,
@@ -76,3 +123,10 @@ index 762ba64693ca4daedd9dacea8a6a8b9337dcb695..4ee007625d373cec28f2014e8db6cc9b
  ): readonly string[] {
    const found: string[] = []
    for (let part = FIRST_PART; ; part += 1) {
+     const at = naming(part)
+     if (at === null) break
+-    if (part > FIRST_PART && !standing(at)) break
++    if (part > FIRST_PART && !existing(at)) break
+     found.push(at)
+   }
+   return found
