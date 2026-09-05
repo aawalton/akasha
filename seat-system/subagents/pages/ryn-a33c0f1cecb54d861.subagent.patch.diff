@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/system-service/page-writing/page-writing.module.ts b/pages/system-service/page-writing/page-writing.module.ts
-index bbff844021eb491928f6c2349fddfe96f168a2b0..4052bba6dd09304e58eecb8104c13dec937cf9da 100644
+index bbff844021eb491928f6c2349fddfe96f168a2b0..732be1f8e5ae91115e3d5808cd81545740b31b51 100644
 --- a/pages/system-service/page-writing/page-writing.module.ts
 +++ b/pages/system-service/page-writing/page-writing.module.ts
 @@ -18,7 +18,7 @@ export const pageWriting = {
@@ -18,6 +18,16 @@ index bbff844021eb491928f6c2349fddfe96f168a2b0..4052bba6dd09304e58eecb8104c13dec
        invariantKind: "absence",
 -      statement: "A write stating no commit is taken as read against what stands.",
 +      statement: "A write stating no commit is taken as read against the bodies now standing.",
+     },
+     {
+       invariantKind: "departure",
+@@ -71,7 +71,8 @@ export const pageWriting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A value kept outside the commit is merged onto what its page already keeps.",
++      statement:
++        "A value kept outside the commit is merged onto the values its page already keeps.",
      },
      {
        invariantKind: "departure",
