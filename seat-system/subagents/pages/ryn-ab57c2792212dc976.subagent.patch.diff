@@ -1,0 +1,14 @@
+diff --git a/alan/harness/monarch/rules/monarch-rules.module.ts b/alan/harness/monarch/rules/monarch-rules.module.ts
+index 5f056f7203094c5457e22d872f72166b6cdc51b9..fa4a3fdd8fa104efee8371b533e31d1f58be594f 100644
+--- a/alan/harness/monarch/rules/monarch-rules.module.ts
++++ b/alan/harness/monarch/rules/monarch-rules.module.ts
+@@ -62,8 +62,7 @@ export const monarchRules = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The bucketed neighbourhood is the plain one, because a counterpart's amount agrees in size by definition.",
++      statement: "The bucketed neighbourhood is the plain one.",
+     },
+     {
+       invariantKind: "absence",
