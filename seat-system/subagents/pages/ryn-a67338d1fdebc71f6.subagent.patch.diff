@@ -1,0 +1,16 @@
+diff --git a/readout-system/readouts/pages/attribute-charisma/attribute-charisma.readout.ts b/readout-system/readouts/pages/attribute-charisma/attribute-charisma.readout.ts
+index 31bec75783da6efc0fb73d40c5cb61d2e30d93eb..67d3acde3cc14801cbc7649e418090af55c47363 100644
+--- a/readout-system/readouts/pages/attribute-charisma/attribute-charisma.readout.ts
++++ b/readout-system/readouts/pages/attribute-charisma/attribute-charisma.readout.ts
+@@ -47,10 +47,7 @@ export const attributeCharisma = {
+       invariantKind: "departure",
+       statement: "A day is read as holding two hundred stretches at the most.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A store that refuses is a fault rather than a reading of nothing.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here caches a reading or decides when a reading is taken.",
