@@ -13,7 +13,7 @@ export const emailMessage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A message is what an email rule is matched against.",
+      statement: "An email rule is matched against a message.",
     },
     {
       invariantKind: "departure",
