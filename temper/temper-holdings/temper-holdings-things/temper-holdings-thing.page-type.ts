@@ -23,7 +23,7 @@ export const temperHoldingsThing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reading states what an account was worth at one moment.",
+      statement: "A reading states an account's worth at one moment.",
     },
   ],
 } as const satisfies PageType
