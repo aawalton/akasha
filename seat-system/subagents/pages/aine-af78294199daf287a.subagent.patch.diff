@@ -1,0 +1,13 @@
+diff --git a/commands/service/service.command.ts b/commands/service/service.command.ts
+index d1390f239d4104919d3b352a380dab3e0cfe78b6..603153ac185c16ec8d6d8fa89f6df98d5d5c24ae 100644
+--- a/commands/service/service.command.ts
++++ b/commands/service/service.command.ts
+@@ -21,7 +21,7 @@ export const service = {
+     { said: "--dry-run", takes: "say what would happen and change nothing" },
+   ],
+   helpNotes: [
+-    "the act stands first and one call names one act.",
++    "the act is first and one call names one act.",
+     "a service is named or `--all` is said, never both.",
+     "`--all` belongs to `install`, and one service is started, stopped or restarted at a time.",
+     "a scheduled service is reached by its timer, and one that is not by its service unit.",
