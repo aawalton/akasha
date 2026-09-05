@@ -1,0 +1,13 @@
+diff --git a/checks/modules/change-walking/change-walking.module.ts b/checks/modules/change-walking/change-walking.module.ts
+index 8330360b1d34e6e5b770df87a572a43486a61ecf..654119577458bdc5546cab139b46f27ecd65379d 100644
+--- a/checks/modules/change-walking/change-walking.module.ts
++++ b/checks/modules/change-walking/change-walking.module.ts
+@@ -38,7 +38,7 @@ export const changeWalking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A body that stands and will not open refuses the check reading that body.",
++      statement: "A body that is there and will not open refuses the check reading that body.",
+     },
+     {
+       invariantKind: "departure",
