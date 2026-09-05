@@ -1,0 +1,128 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.test.ts b/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.test.ts
+index 39fa4358dc6258706bea2c5c711220605a945abc..f10e80291205830053b3a41248ba2f897551ce70 100644
+--- a/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.test.ts
++++ b/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.test.ts
+@@ -183,8 +183,16 @@ test("a path the change takes away is passed over", () => {
+ 
+ test("no path is exempt by where it sits, the akasha folder being the repository root", () => {
+   const root = rooted()
+-  const said = judged(arriving(root, ["dotfiles/bin/akasha", "README.md"]))
+-  expect(said.map((one) => one.path)).toEqual(["dotfiles/bin/akasha", "README.md"])
++  const said = judged(
++    arriving(root, [
++      "machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh",
++      "README.md",
++    ])
++  )
++  expect(said.map((one) => one.path)).toEqual([
++    "machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh",
++    "README.md",
++  ])
+ })
+ 
+ test("a page named for a page type nothing knows still claims the path it stands at", () => {
+diff --git a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.test.ts b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.test.ts
+index 93366da02058621aca792b53d119453006e914ad..9b4213dd4bbbdb2e54d21dd49ae8f4c3d9b5e27c 100644
+--- a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.test.ts
++++ b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.test.ts
+@@ -211,7 +211,15 @@ test("an index entry pointing at a page whose body will not load raises nothing"
+ 
+ test("a path outside the akasha folder is passed over", () => {
+   const root = rooted()
+-  expect(judged(over(root, ["dotfiles/bin/akasha"], {}))).toEqual([])
++  expect(
++    judged(
++      over(
++        root,
++        ["machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh"],
++        {}
++      )
++    )
++  ).toEqual([])
+ })
+ 
+ test("a page is judged once, whether the change names the page, the file, or both", () => {
+diff --git a/domains/initiatives/pages/thea-checks-system.initiative.ts b/domains/initiatives/pages/thea-checks-system.initiative.ts
+index 08cb4daadaf638a1fce8d603a623af296dd4bc09..18d3c6b839a9ca66304f45965a197e561fdc9ca7 100644
+--- a/domains/initiatives/pages/thea-checks-system.initiative.ts
++++ b/domains/initiatives/pages/thea-checks-system.initiative.ts
+@@ -26,7 +26,7 @@ export const theaChecksSystem = {
+     {
+       statement: "Every file the repository tracks is claimed by a page.",
+       workingMemory:
+-        "630 tracked files no page claims, measured by diffing .git/data/index/path against `git ls-files`, seeded both ways: dotfiles/bin/akasha reads unclaimed, akasha.domain.ts reads claimed. 155 are routes; 149 are cluster-check module bodies whose pages were never written, though 129 claimed check bodies import them; 114 are lua-compiler/lualib/src; the rest are spread over service-system, infrastructure and alan. file-has-its-page cannot reach audit until this is zero.",
++        "630 tracked files no page claims, measured by diffing .git/data/index/path against `git ls-files`, seeded both ways: machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh reads unclaimed, akasha.domain.ts reads claimed. 155 are routes; 149 are cluster-check module bodies whose pages were never written, though 129 claimed check bodies import them; 114 are lua-compiler/lualib/src; the rest are spread over service-system, infrastructure and alan. file-has-its-page cannot reach audit until this is zero.",
+     },
+     {
+       statement: "The new system carries every check of the old system that still applies.",
+diff --git a/dotfiles/bin/akasha b/dotfiles/bin/akasha
+deleted file mode 100755
+index fec3f68d7ddc8244121f476ee6db206bd23f4695..0000000000000000000000000000000000000000
+--- a/dotfiles/bin/akasha
++++ /dev/null
+@@ -1,29 +0,0 @@
+-#!/usr/bin/env bash
+-#
+-# The `akasha` name on PATH, resolving into the repository the dispatcher stands in.
+-#
+-# The dispatcher stands at `command-system/cli/cli.module.code.ts`, inside the akasha folder
+-# itself, so a change to what `akasha` says or refuses is live on the commit that makes it, with
+-# no build and no deploy in between. This file is the only part of the name that lives outside
+-# that folder, and it does nothing but name it: an akasha file imports nothing from out here.
+-#
+-# The akasha folder is becoming the repository root, so the dispatcher stands one directory
+-# higher after that move than before it. Both places are named below and the first that holds the
+-# file wins, so this name keeps working across the move rather than dying in the middle of it.
+-
+-set -euo pipefail
+-
+-root="${AKASHA_ROOT:-$HOME/repos/akasha}"
+-within="$root/akasha/command-system/cli/cli.module.code.ts"
+-reparented="$root/command-system/cli/cli.module.code.ts"
+-
+-if [[ -f $within ]]; then
+-  dispatcher="$within"
+-elif [[ -f $reparented ]]; then
+-  dispatcher="$reparented"
+-else
+-  echo "akasha: no dispatcher at $within or $reparented — set AKASHA_ROOT to an akasha checkout" >&2
+-  exit 70
+-fi
+-
+-exec bun "$dispatcher" "$@"
+diff --git a/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh b/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh
+new file mode 100644
+index 0000000000000000000000000000000000000000..fec3f68d7ddc8244121f476ee6db206bd23f4695
+--- /dev/null
++++ b/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh
+@@ -0,0 +1,29 @@
++#!/usr/bin/env bash
++#
++# The `akasha` name on PATH, resolving into the repository the dispatcher stands in.
++#
++# The dispatcher stands at `command-system/cli/cli.module.code.ts`, inside the akasha folder
++# itself, so a change to what `akasha` says or refuses is live on the commit that makes it, with
++# no build and no deploy in between. This file is the only part of the name that lives outside
++# that folder, and it does nothing but name it: an akasha file imports nothing from out here.
++#
++# The akasha folder is becoming the repository root, so the dispatcher stands one directory
++# higher after that move than before it. Both places are named below and the first that holds the
++# file wins, so this name keeps working across the move rather than dying in the middle of it.
++
++set -euo pipefail
++
++root="${AKASHA_ROOT:-$HOME/repos/akasha}"
++within="$root/akasha/command-system/cli/cli.module.code.ts"
++reparented="$root/command-system/cli/cli.module.code.ts"
++
++if [[ -f $within ]]; then
++  dispatcher="$within"
++elif [[ -f $reparented ]]; then
++  dispatcher="$reparented"
++else
++  echo "akasha: no dispatcher at $within or $reparented — set AKASHA_ROOT to an akasha checkout" >&2
++  exit 70
++fi
++
++exec bun "$dispatcher" "$@"
