@@ -1,8 +1,8 @@
 diff --git a/infrastructure/inference-commands/inference-answering/inference-answering.module.ts b/infrastructure/inference-commands/inference-answering/inference-answering.module.ts
-index ec32dd64fd0f7f8fbca34617b1004a73d9f49b7e..aca2a860f338c5b1b56c71046e9118afb3c378bd 100644
+index ec32dd64fd0f7f8fbca34617b1004a73d9f49b7e..53b6577c3b6db57809d3ae2cf903375dcbe4261d 100644
 --- a/infrastructure/inference-commands/inference-answering/inference-answering.module.ts
 +++ b/infrastructure/inference-commands/inference-answering/inference-answering.module.ts
-@@ -10,15 +10,15 @@ export const inferenceAnswering = {
+@@ -10,19 +10,19 @@ export const inferenceAnswering = {
    invariants: [
      {
        invariantKind: "departure",
@@ -18,6 +18,11 @@ index ec32dd64fd0f7f8fbca34617b1004a73d9f49b7e..aca2a860f338c5b1b56c71046e9118af
        invariantKind: "departure",
 -      statement: "A flag said more than once holds every value where it repeats.",
 +      statement: "A flag said more than once holds every value where that flag repeats.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A flag said more than once holds the last value where it does not.",
++      statement: "A flag said more than once holds the last value where that flag does not.",
      },
      {
        invariantKind: "departure",
