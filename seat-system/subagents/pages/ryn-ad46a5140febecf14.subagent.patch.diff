@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/drive/drive.command.ts b/commands/drive/drive.command.ts
+index 4be9259f03a12041831cf20a811c067ed39b1254..d50b76ec87a828aef3e2e9f2b12e0b34536bb57e 100644
+--- a/commands/drive/drive.command.ts
++++ b/commands/drive/drive.command.ts
+@@ -55,7 +55,7 @@ export const drive = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The name a fetched file lands under is the name Drive holds for it.",
++      statement: "The name a fetched file lands under is the name Drive holds for that file.",
+     },
+     {
+       invariantKind: "departure",
