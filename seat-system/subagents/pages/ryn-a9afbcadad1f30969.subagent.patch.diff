@@ -51,3 +51,16 @@ index d14a6774bd99fccf1790d081f0d707846d249267..0b8b6e3160377bcea18e36b459e54a01
      },
      {
        invariantKind: "absence",
+diff --git a/infrastructure/cluster-manifests/rbac-cluster-role-rules/rbac-cluster-role-rules.module.ts b/infrastructure/cluster-manifests/rbac-cluster-role-rules/rbac-cluster-role-rules.module.ts
+index 6cf63eae9abee5c499b1f06a7cfbbf940f97b658..33d9108c3869306a9316b0e3a48795d425efdb36 100644
+--- a/infrastructure/cluster-manifests/rbac-cluster-role-rules/rbac-cluster-role-rules.module.ts
++++ b/infrastructure/cluster-manifests/rbac-cluster-role-rules/rbac-cluster-role-rules.module.ts
+@@ -14,7 +14,7 @@ export const rbacClusterRoleRules = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A cluster-scoped name the pipeline engine applies more than once is in the resourceNames of the patch rule.",
++        "A cluster-scoped name the engine applies more than once is in the resourceNames of the patch rule.",
+     },
+   ],
+ } as const satisfies Module
