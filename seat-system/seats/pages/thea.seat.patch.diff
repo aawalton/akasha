@@ -1,0 +1,10 @@
+diff --git a/alan/web/idle-actions/idle-actions.module.ts b/alan/web/idle-actions/idle-actions.module.ts
+index c307341121b9939a8c36571b4b1832a3b0ff6f71..3548db141335f34d8355b4843e09a6054b21b784 100644
+--- a/alan/web/idle-actions/idle-actions.module.ts
++++ b/alan/web/idle-actions/idle-actions.module.ts
+@@ -6,5 +6,4 @@ export const idleActions = {
+   slug: "idle-actions",
+   definition: "what may be asked of the idle game, and what an ask answers with",
+   code: "ts",
+-  test: "ts",
+ } as const satisfies Module
