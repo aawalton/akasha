@@ -42,7 +42,7 @@ export const transcriptReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A read says how many bytes it folded and how many stand.",
+      statement: "A read says how many bytes it folded and how many remain.",
     },
     {
       invariantKind: "departure",

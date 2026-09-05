@@ -82,12 +82,12 @@ test("a guarded bun reach below the top level is carried", () => {
   expect(refusedIn(reachOf({ guarded: false }))).toBe(true)
 })
 
-test("a reach is said with its global, its file and whether it stands at import", () => {
+test("a reach is said with its global, its file and whether it is at import", () => {
   expect(saidAs(reachOf())).toBe("Bun.file in a.ts")
   expect(saidAs(reachOf({ atImport: true }))).toBe("Bun.file in a.ts, at import")
 })
 
-test("a reach is found under the section it stands in", () => {
+test("a reach is found under the section it is in", () => {
   const bundle = ["// a/one.ts", "  const x = Bun.file(at)"].join("\n")
   expect(reachesIn(bundle)).toEqual([
     { global: "Bun.file", file: "a/one.ts", atImport: false, guarded: false },
@@ -110,7 +110,7 @@ test("a guard in one file does not guard the file beside it", () => {
   expect(found[0]?.guarded).toBe(false)
 })
 
-test("a reach standing at the bundle's top level is at import", () => {
+test("a reach at the bundle's top level is at import", () => {
   const bundle = ["// a/one.ts", "Bun.file(at)"].join("\n")
   expect(reachesIn(bundle)[0]?.atImport).toBe(true)
 })

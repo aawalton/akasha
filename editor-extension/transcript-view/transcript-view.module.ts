@@ -25,7 +25,7 @@ export const transcriptView = {
     },
     {
       invariantKind: "departure",
-      statement: "A poll that folded nothing anywhere leaves the panel as it stands.",
+      statement: "A poll that folded nothing anywhere leaves the panel as it is.",
     },
     {
       invariantKind: "departure",

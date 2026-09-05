@@ -17,7 +17,7 @@ export const transcriptPanel = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a seat whose transcript file stands is offered.",
+      statement: "Only a seat whose transcript file exists is offered.",
     },
     {
       invariantKind: "departure",

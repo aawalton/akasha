@@ -1,7 +1,7 @@
 // The editor's API is ambient: `vscode` is injected by the editor host and is no runtime module,
 // so its typings are a `declare module 'vscode'` block rather than a file anything imports.
 //
-// The block is the `vscode-api` type declaration, and it stands beside its page at
+// The block is the `vscode-api` type declaration, and it sits beside its page at
 // `editor-extension/vscode-api/vscode-api.type-declaration.d.ts`. That page states what it
 // is: a restatement of the editor fork's own `src/vscode-dts/vscode.d.ts`, written by no hand, and
 // a promote of the fork refuses while the two differ. Referencing it is what lets akasha see the

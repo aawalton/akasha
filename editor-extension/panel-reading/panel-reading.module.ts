@@ -53,7 +53,7 @@ export const panelReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The run exits rather than waiting, activation leaving poll timers standing.",
+      statement: "The run exits rather than waiting, activation leaving poll timers running.",
     },
     {
       invariantKind: "departure",

@@ -71,7 +71,7 @@ export const nodeCleanliness = {
     },
     {
       invariantKind: "departure",
-      statement: "A reach standing at the bundle's top level is refused whatever its file spells.",
+      statement: "A reach at the bundle's top level is refused whatever its file spells.",
     },
     {
       invariantKind: "departure",

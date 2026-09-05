@@ -9,7 +9,7 @@ export const turnColorScheme = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A color is named by the palette name standing in the path.",
+      statement: "A color is named by the palette name in the path.",
     },
     {
       invariantKind: "departure",
