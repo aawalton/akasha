@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-trading-addon/trading-prune/trading-prune.module.ts b/temper/temper-trading-addon/trading-prune/trading-prune.module.ts
+index 0ccde004ef41ac60e0b433b16e66bb8ca00cb139..4e0ebcbebc163ec86375787e45463d47e58cad50 100644
+--- a/temper/temper-trading-addon/trading-prune/trading-prune.module.ts
++++ b/temper/temper-trading-addon/trading-prune/trading-prune.module.ts
+@@ -9,7 +9,7 @@ export const tradingPrune = {
+   invariants: [
+     {
+       invariantKind: "constraint",
+-      statement: "A listing older than the expiry is no longer what the guild store holds.",
++      statement: "A listing older than the expiry is no longer among the guild store's listings.",
+     },
+   ],
+ } as const satisfies Module
