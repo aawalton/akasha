@@ -39,11 +39,7 @@ export const mobileAnswering = {
       invariantKind: "departure",
       statement: "An app slug no page carries is refused rather than defaulted.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "A command driving the simulator attaches to the session already there rather than opening one.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A fault carrying a code of its own is answered with that code.",
