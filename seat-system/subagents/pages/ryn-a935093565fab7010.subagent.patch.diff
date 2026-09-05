@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/service-system/workstation-services/service-reading/service-reading.module.ts b/service-system/workstation-services/service-reading/service-reading.module.ts
+index 7482198074e5181d30cd53b69cac5aa50883fd49..1eb3bba894c4722f938289ffb296c176995985db 100644
+--- a/service-system/workstation-services/service-reading/service-reading.module.ts
++++ b/service-system/workstation-services/service-reading/service-reading.module.ts
+@@ -22,7 +22,7 @@ export const serviceReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page missing what a service needs refuses rather than reading as a service.",
++      statement: "A page missing a value a service needs refuses rather than reading as a service.",
+     },
+     {
+       invariantKind: "departure",
