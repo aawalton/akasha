@@ -125,3 +125,38 @@ index bac4b68ca9db78bbf98077ec175e2392d3d891ea..918859a1d8e1c3ed6d19c44e1e677cc8
  check("a path is read against the root rather than the folder the call was made in", () => {
    const root = repo({ "one.test.ts": PASSES })
    const said = aiming(["akasha/one.test.ts"], { ...given(root), from: join(root, "akasha") })
+diff --git a/commands/test/test.command.ts b/commands/test/test.command.ts
+index 3dc0357977d63f39a70ba9e52dea1d8720ef8a20..ed5f22ecac391593907f6cf460785296a3cdc269 100644
+--- a/commands/test/test.command.ts
++++ b/commands/test/test.command.ts
+@@ -17,6 +17,7 @@ export const test = {
+     "named nothing, it runs every test in the repository.",
+     "--named matches a whole test name rather than a pattern or a part of one.",
+     "--named naming no test runs nothing rather than refusing.",
++    "--named carries what the runner said about the test rather than a pointer back here.",
+   ],
+   invariants: [
+     {
+@@ -69,5 +70,22 @@ export const test = {
+       invariantKind: "departure",
+       statement: "A run naming a test is not weighed against the test files under the paths named.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A run naming one test carries what the runner printed about that test.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run naming no test points at naming one rather than carrying what was printed.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "What a named run carries is bounded in lines and in bytes alike.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A named run whose output holds no failing line carries that output from its head.",
++    },
+   ],
+ } as const satisfies Command
