@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/context/warrants/file-import/file-import.context-warrant.ts b/context/warrants/file-import/file-import.context-warrant.ts
+index 02a9e8a01b4e629c9ac9615d5a7df36548797e59..e0174b90410bd5a66c64cea7051fe87d8741386a 100644
+--- a/context/warrants/file-import/file-import.context-warrant.ts
++++ b/context/warrants/file-import/file-import.context-warrant.ts
+@@ -40,7 +40,7 @@ export const fileImport = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "The index of what imports a path is not read here.",
++      statement: "The index of the files importing a path is not read here.",
+     },
+   ],
+ } as const satisfies ContextWarrant
