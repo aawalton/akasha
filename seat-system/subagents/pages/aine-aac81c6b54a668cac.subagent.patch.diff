@@ -1,3 +1,16 @@
+diff --git a/alan/harness/attributes/reading/attributes-reading.module.code.ts b/alan/harness/attributes/reading/attributes-reading.module.code.ts
+index 16df2689777d8bda5cf6462a23c73896041b21e5..2a8cd0d55eca263adc20ca951d9eae4b73a04ae9 100644
+--- a/alan/harness/attributes/reading/attributes-reading.module.code.ts
++++ b/alan/harness/attributes/reading/attributes-reading.module.code.ts
+@@ -87,7 +87,7 @@ async function constitutionOf(now: Date): Promise<number> {
+   const checkout = here[AKASHA]
+   if (checkout === undefined || checkout === "") {
+     throw new Error(
+-      "no akasha checkout stands here, so the plants Alan ate are unknown rather than none"
++      "no akasha checkout exists here, so the plants Alan ate are unknown rather than none"
+     )
+   }
+   return fetchConstitutionPoints(askingIn(checkout), window.from, window.to)
 diff --git a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-base-url.url-property.ts b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-base-url.url-property.ts
 index a7310a9ce8520ac4fd34c9d73d62c4672b5899f5..8c36d28cb3e1bf812efb31bc1bb4f50da2e4360c 100644
 --- a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-base-url.url-property.ts
@@ -49,3 +62,68 @@ index c236920847729757117f9ead937e5218c5e92b70..d831b6e81106165a5093a93b1ca179f9
 +  definition: "the address an event is at on its source",
    max: 200,
  } as const satisfies UrlProperty
+diff --git a/alan/harness/notification-feeds/notification-feed.page-type.ts b/alan/harness/notification-feeds/notification-feed.page-type.ts
+index f49f5789a640be117a14d7d86cdf70c671f1e5b1..1a9218e2555b3b3356355e632dfc8104a20e2abf 100644
+--- a/alan/harness/notification-feeds/notification-feed.page-type.ts
++++ b/alan/harness/notification-feeds/notification-feed.page-type.ts
+@@ -31,7 +31,7 @@ export const notificationFeed = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A feed stands in a place of its own rather than beside the person's page.",
++      statement: "A feed sits in a place of its own rather than beside the person's page.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts b/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts
+index 51292b786a6d55f05185db013695391c847278ed..1ea11534b7e08a507ea61d69c6c0b3e8e1cbb102 100644
+--- a/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts
++++ b/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts
+@@ -21,7 +21,7 @@ export const notifications = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A notification stands in the feed of the person it was pushed at rather than in a page of its own.",
++        "A notification sits in the feed of the person it was pushed at rather than in a page of its own.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/harness/notifications/apns-sending/apns-sending.module.code.ts b/alan/harness/notifications/apns-sending/apns-sending.module.code.ts
+index e4e03f8b10002166fa4016dc54dd5f3255db1a2d..00939307ac7963870c44c178c8bbfcd888e2cfcc 100644
+--- a/alan/harness/notifications/apns-sending/apns-sending.module.code.ts
++++ b/alan/harness/notifications/apns-sending/apns-sending.module.code.ts
+@@ -195,7 +195,7 @@ export function apnsSenderFromEnv(): SenderRead {
+   if (pem === "") {
+     return {
+       sender: null,
+-      why: `${APNS_AUTH_KEY_ENV} is unset, so no provider token can be signed — every push is a logged no-op until it stands in ~/.secrets.env`,
++      why: `${APNS_AUTH_KEY_ENV} is unset, so no provider token can be signed — every push is a logged no-op until it is in ~/.secrets.env`,
+     }
+   }
+   return { sender: apnsSender(pem), why: null }
+diff --git a/alan/harness/notifications/push-notifying/push-notifying.module.ts b/alan/harness/notifications/push-notifying/push-notifying.module.ts
+index cd727f340c2458c2bccc40103e3b00db20d3ac90..3b2850442ae24a7f9995b91f207138ec6b7267e5 100644
+--- a/alan/harness/notifications/push-notifying/push-notifying.module.ts
++++ b/alan/harness/notifications/push-notifying/push-notifying.module.ts
+@@ -18,7 +18,7 @@ export const pushNotifying = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A notification stands as a row in the feed of the person it was pushed at, so the feed is what is watched.",
++        "A notification is a row in the feed of the person it was pushed at, so the feed is what is watched.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
+index fc2d988325d08e87d1b29de05a6936c5448bf564..b5dd8d597083ab1e5ef43d1f8df4ac8a598ebddd 100644
+--- a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
++++ b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
+@@ -20,7 +20,7 @@ export const surplusFallNotifying = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Where the day stands is the readout's reading now, and a stand below the open is a fall.",
++        "Where the day sits is the readout's reading now, and a reading below the open is a fall.",
+     },
+     {
+       invariantKind: "departure",
