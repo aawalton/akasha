@@ -1,5 +1,5 @@
 diff --git a/pages/types/properties/secret.boolean-property.ts b/pages/types/properties/secret.boolean-property.ts
-index 9398b840593fbc278672e40904832debe2dee0f1..d9d3f0963eb69c2d983921089a5717293b6c462f 100644
+index 9398b840593fbc278672e40904832debe2dee0f1..d80ea9a001a9c793301f37e302695fb8e62bf4f0 100644
 --- a/pages/types/properties/secret.boolean-property.ts
 +++ b/pages/types/properties/secret.boolean-property.ts
 @@ -12,11 +12,12 @@ export const secret = {
@@ -17,3 +17,12 @@ index 9398b840593fbc278672e40904832debe2dee0f1..d9d3f0963eb69c2d983921089a571729
      },
      {
        invariantKind: "absence",
+@@ -24,7 +25,7 @@ export const secret = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A secret value is withheld from a read that did not ask for it.",
++      statement: "A secret value is withheld from a read that did not ask for that value.",
+     },
+   ],
+ } as const satisfies BooleanProperty
