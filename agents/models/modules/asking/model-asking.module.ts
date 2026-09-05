@@ -53,12 +53,11 @@ export const modelAsking = {
     },
     {
       invariantKind: "constraint",
-      statement:
-        "The gateway named by the environment is what sits between this module and Anthropic.",
+      statement: "The gateway named by the environment sits between this module and Anthropic.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here judges what a model answered.",
+      statement: "Nothing here judges a model's answer.",
     },
   ],
 } as const satisfies Module
