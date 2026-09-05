@@ -1,0 +1,16 @@
+diff --git a/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts b/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
+index be63bd0d2dffbee18664b132114e2fae8d6633e9..be4e1fff43226e47e35a38b8f95d161d9a21b322 100644
+--- a/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
++++ b/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
+@@ -38,11 +38,6 @@ export const athenaCommandsAtTheRoot = {
+       workingMemory:
+         "Reading a term's page clears it for every later change, for any file, because `owingOf` owes nothing while the record holds that page at its current blob. Alan ruled this intended: answering a warrant by when something was read is barred, so a re-owed warrant would have no escape. The refusal text contradicted itself and was fixed at 2356754c61. What is left is telling the writer without refusing, and no such channel exists: `troubling` turns any non-empty array into refusals.",
+     },
+-    {
+-      statement: "There are no remaining ops cli commands.",
+-      workingMemory:
+-        "9 ops pages remain: 7 tracking, 2 loose, and no seat page left. `dotfiles/bin/ops` and the ops dispatcher are both gone, so every ops call was already dead rather than pending. seat-inbox went, and a message now reaches a started seat as its boot prompt. fleet-restart went superseded twice, `seat supervisor restart --all` holding its reach and `seat refresh-settings` its subject. compose-boot and compose-subagents are functions rather than commands, so their pages went and their code stays.",
+-    },
+     {
+       statement: "Nothing names a command by its path.",
+       workingMemory:
