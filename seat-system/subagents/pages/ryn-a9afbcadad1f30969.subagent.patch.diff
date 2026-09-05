@@ -12,3 +12,16 @@ index c6d83752e3712867329ce220e5bbc59455b10d4a..34b9da2cdbb9c3b7eb436257d132438f
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/monarch/audible-credits/monarch-audible-credits.module.ts b/alan/harness/monarch/audible-credits/monarch-audible-credits.module.ts
+index 4084a505d6088035d43b4727ec63f2a5ed54ceaf..111b9b0e1ee970dbd3ac9c4925442ad8972208b7 100644
+--- a/alan/harness/monarch/audible-credits/monarch-audible-credits.module.ts
++++ b/alan/harness/monarch/audible-credits/monarch-audible-credits.module.ts
+@@ -11,7 +11,7 @@ export const monarchAudibleCredits = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A credit spent is two rows against one cash account, one out of the category that paid and one into Audible.",
++        "A credit spent is two rows on one cash account, out of the category that paid and into Audible.",
+     },
+     {
+       invariantKind: "departure",
