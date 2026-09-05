@@ -9,7 +9,6 @@ export const trackingDaily = {
     "page-type/email-entry",
     "page-type/eso-day",
     "page-type/wake-day",
-    "module/day-figures",
     "module/day-narrow-types",
     "module/day-place",
     "module/tracking-shape",

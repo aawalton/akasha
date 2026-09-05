@@ -1,7 +1,7 @@
 import type { Module } from "@akasha/code-system/module"
-import type { Holds } from "../formula-properties/properties/holds.select-property.ts"
 import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
+import type { Holds } from "./properties/holds.select-property.ts"
 
 export type ComputedProperty = Module &
   PageProperty & {
@@ -21,6 +21,7 @@ export const computedProperty = {
   definition: "a page property a function works out from the page",
   pluralSlug: "computed-properties",
   extendsSlug: ["page-type/module", "page-type/page-property"],
+  partSlugs: ["select-property/holds"],
   properties: [{ pagePropertySlug: "holds", required: true, many: false }],
   invariants: [
     {

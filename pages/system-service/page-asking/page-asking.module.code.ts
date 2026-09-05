@@ -1,5 +1,4 @@
 import { listedAt, type Valued } from "@akasha/indexes"
-import { type Barred, type Working, workedInto } from "@akasha/pages-system/page-formulas"
 import type { Carried } from "@akasha/pages-system/page-type-properties"
 import { slugAt, slugsIn, textAt, type Value } from "@akasha/pages-system/page-value"
 import {
@@ -198,17 +197,6 @@ function unlit(query: Query, dark: ReadonlyMap<string, string>): string | null {
   return null
 }
 
-function unworked(query: Query, barred: readonly Barred[]): string | null {
-  for (const one of barred) {
-    const keys = new Set(one.keys)
-    for (const [key, at] of askedFor(query)) {
-      if (!keys.has(key)) continue
-      return `\`${at}\` names \`${key}\`, and no formula is worked out for that key here: ${one.barred}. the keys darkened by the same fault are ${[...one.keys].sort().join(", ")}`
-    }
-  }
-  return null
-}
-
 function narrows(value: Value, where: Readonly<Record<string, Test>> | undefined): boolean {
   if (where === undefined) return true
   for (const [key, test] of Object.entries(where)) if (!meets(value, key, test)) return false
@@ -226,18 +214,7 @@ function byPath(one: Valued, two: Valued): number {
   return one.path < two.path ? -1 : one.path > two.path ? 1 : 0
 }
 
-function workedFor(
-  rows: readonly Valued[],
-  working: readonly (Working | null)[],
-  now: number
-): readonly Valued[] {
-  return rows.map((one, at) => {
-    const held = working[at] ?? null
-    return held === null ? one : { path: one.path, value: workedInto(held, one.value, now) }
-  })
-}
-
-export function asking(root: string, query: Query, at: number = Date.now()): Asked {
+export function asking(root: string, query: Query): Asked {
   const { limit, offset } = query
   if (limit !== undefined && (!Number.isInteger(limit) || limit < 0)) {
     return { refused: `a limit is a whole number that is not below nothing, and ${limit} is not` }
@@ -257,18 +234,10 @@ export function asking(root: string, query: Query, at: number = Date.now()): Ask
   if (unnamed !== null) return { refused: unnamed }
   let held: readonly Valued[]
   try {
-    const gathered = gatheredFor(root, query.pageTypeSlug, carried)
-    const named = unworked(query, gathered.barred)
-    if (named !== null) return { refused: named }
-    const counted = computedInto(gathered.counting)
+    const counted = computedInto(gatheredFor(root, query.pageTypeSlug, carried))
     const darkened = unlit(query, counted.dark)
     if (darkened !== null) return { refused: darkened }
-    const worked = workedFor(
-      counted.rows,
-      gathered.counting.map((one) => one.working),
-      at
-    )
-    held = worked.filter((one) => narrows(one.value, query.where))
+    held = counted.rows.filter((one) => narrows(one.value, query.where))
   } catch (thrown) {
     return { refused: thrown instanceof Error ? thrown.message : String(thrown) }
   }

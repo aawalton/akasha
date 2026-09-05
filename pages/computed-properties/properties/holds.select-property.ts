@@ -5,16 +5,12 @@ export const holds = {
   pageTypeSlug: "select-property",
   slug: "holds",
   propertySlug: "holds",
-  definition: "the kind of value a formula works out",
+  definition: "the kind of value a calculation works out",
   values: ["text", "number", "boolean", "instant", "date"],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A formula answering another kind than the kind stated here is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Every kind stated here is a kind the formula language names.",
+      statement: "A calculation answering another kind than the kind stated here is refused.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +18,7 @@ export const holds = {
     },
     {
       invariantKind: "absence",
-      statement: "No formula states a list.",
+      statement: "No calculation states a list.",
     },
   ],
 } as const satisfies SelectProperty

@@ -11,7 +11,6 @@ export const pagesFormula = {
     "list/formula-operators",
     "list/formula-values",
     "module/formula-check",
-    "module/formula-held",
     "module/formula-language",
     "module/formula-reading",
     "module/formula-refusal",

@@ -27,15 +27,7 @@ export const kindsGathering = {
     },
     {
       invariantKind: "departure",
-      statement: "A formula is worked out from that page type's own declarations.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A calculation is read from that page type's own declarations.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page type whose formulas are barred is answered beside the rows.",
     },
     {
       invariantKind: "departure",
@@ -44,10 +36,6 @@ export const kindsGathering = {
     {
       invariantKind: "departure",
       statement: "A calculation reaching a slug reaches the first row gathered under that slug.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Every calculation is worked out before any formula.",
     },
     {
       invariantKind: "absence",

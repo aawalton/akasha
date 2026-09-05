@@ -3,7 +3,6 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { listedFiled, schemaFiled, valueAlsoFiled } from "@akasha/indexes/testing"
-import { workedInto } from "@akasha/pages-system/page-formulas"
 import { carriedFor, computedInto, gatheredFor, kindsFor } from "./kinds-gathering.module.code.ts"
 
 const scratch = scratchWorld()
@@ -58,30 +57,40 @@ function propertied(
   return path
 }
 
+function calculated(root: string, slug: string, holds: string, body: string): undefined {
+  const at = propertied(root, "computed-property", slug, { holds, code: "ts" })
+  const beside = join(root, at.replace(/\.ts$/, ".code.ts"))
+  mkdirSync(dirname(beside), { recursive: true })
+  writeFileSync(beside, `${body}\n`)
+}
+
 function worlded(root: string): undefined {
   propertied(root, "number-property", "count", { max: null })
-  propertied(root, "formula-property", "twice", { holds: "number", formula: "{count} + {count}" })
-  propertied(root, "formula-property", "thrice", {
-    holds: "number",
-    formula: "{count} + {count} + {count}",
-  })
+  calculated(root, "twice", "number", "export function work(page) { return (page.count ?? 0) * 2 }")
+  calculated(
+    root,
+    "thrice",
+    "number",
+    "export function work(page) { return (page.count ?? 0) * 3 }"
+  )
   typed(root, "held", [], [{ pagePropertySlug: "number-property/count", required: false }])
-  typed(root, "nearer", ["held"], [{ pagePropertySlug: "formula-property/twice", required: false }])
+  typed(
+    root,
+    "nearer",
+    ["held"],
+    [{ pagePropertySlug: "computed-property/twice", required: false }]
+  )
   typed(
     root,
     "further",
     ["nearer"],
-    [{ pagePropertySlug: "formula-property/thrice", required: false }]
+    [{ pagePropertySlug: "computed-property/thrice", required: false }]
   )
 }
 
 function rowsOf(root: string, pageTypeSlug: string): readonly Record<string, unknown>[] {
-  const gathered = gatheredFor(root, pageTypeSlug, carriedFor(root, pageTypeSlug))
-  const counted = computedInto(gathered.counting)
-  return counted.rows.map((one, at) => {
-    const working = gathered.counting[at]?.working ?? null
-    return working === null ? one.value : workedInto(working, one.value, 0)
-  })
+  const counted = computedInto(gatheredFor(root, pageTypeSlug, carriedFor(root, pageTypeSlug)))
+  return counted.rows.map((one) => one.value)
 }
 
 test("a page type is gathered together with every page type under it", () => {
@@ -98,7 +107,7 @@ test("a page type is gathered together with every page type under it", () => {
   ).toEqual(["one", "three", "two"])
 })
 
-test("a formula a page type under the one named declares is worked out on that type's rows", () => {
+test("a calculation a page type under the one named declares is worked out on that type's rows", () => {
   const root = scratch.rootFor("akasha-kinds-")
   worlded(root)
   filed(root, "held", "one", { count: 1 })
@@ -134,34 +143,18 @@ test("a page type under the one named that no page is filed under is passed over
   const root = scratch.rootFor("akasha-kinds-")
   worlded(root)
   filed(root, "held", "one", { count: 1 })
-  expect(gatheredFor(root, "held", carriedFor(root, "held")).counting.length).toBe(1)
-})
-
-test("a page type under the one named whose formulas are barred is answered beside the rows", () => {
-  const root = scratch.rootFor("akasha-kinds-")
-  worlded(root)
-  propertied(root, "formula-property", "unkinded", { formula: "{count}" })
-  typed(
-    root,
-    "barred",
-    ["held"],
-    [{ pagePropertySlug: "formula-property/unkinded", required: false }]
-  )
-  filed(root, "held", "one", { count: 1 })
-  filed(root, "barred", "two", { count: 2 })
-  const gathered = gatheredFor(root, "held", carriedFor(root, "held"))
-  expect(gathered.counting.length).toBe(2)
-  expect(gathered.barred.length).toBe(1)
-  expect(gathered.barred[0]?.keys).toEqual(["unkinded"])
+  expect(gatheredFor(root, "held", carriedFor(root, "held")).length).toBe(1)
 })
 
 test("a calculation is read from the page type that row is of", () => {
   const root = scratch.rootFor("akasha-kinds-")
   worlded(root)
-  const at = propertied(root, "computed-property", "doubled", { holds: "number", code: "ts" })
-  const beside = join(root, at.replace(/\.ts$/, ".code.ts"))
-  mkdirSync(dirname(beside), { recursive: true })
-  writeFileSync(beside, "export function work(page) { return (page.count ?? 0) * 2 }\n")
+  calculated(
+    root,
+    "doubled",
+    "number",
+    "export function work(page) { return (page.count ?? 0) * 2 }"
+  )
   typed(
     root,
     "counted",
@@ -173,4 +166,20 @@ test("a calculation is read from the page type that row is of", () => {
   const said = new Map(rowsOf(root, "held").map((one) => [one["slug"], one]))
   expect(said.get("two")?.["doubled"]).toBe(4)
   expect(said.get("one")?.["doubled"]).toBeUndefined()
+})
+
+test("a property whose code file is not there darkens that property's key alone", () => {
+  const root = scratch.rootFor("akasha-kinds-")
+  worlded(root)
+  propertied(root, "computed-property", "missing", { holds: "number", code: "ts" })
+  typed(
+    root,
+    "lacking",
+    ["held"],
+    [{ pagePropertySlug: "computed-property/missing", required: false }]
+  )
+  filed(root, "lacking", "two", { count: 2 })
+  const counted = computedInto(gatheredFor(root, "held", carriedFor(root, "held")))
+  expect(counted.dark.get("missing")).toContain("names no code file beside its page")
+  expect(counted.rows[0]?.value["slug"]).toBe("two")
 })

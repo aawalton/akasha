@@ -95,30 +95,6 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A formula is worked out over every page answered.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A formula over one page is the one that page's own page type declares.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A figure is worked out before the tests narrow.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A figure is worked out before the rows are ordered.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A key a figure answers is answered as a stored key is.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A figure answering absent puts no key in the row.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A calculation is worked out over every page answered.",
     },
     {
@@ -127,8 +103,19 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A calculation is worked out before any formula reading what that calculation answers.",
+      statement: "A calculation is worked out before the tests narrow.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A calculation is worked out before the rows are ordered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key a calculation answers is answered as a stored key is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A calculation answering absent puts no key in the row.",
     },
     {
       invariantKind: "departure",
@@ -142,14 +129,6 @@ export const pageAsking = {
     {
       invariantKind: "departure",
       statement: "A question naming a key a calculation refused is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A question naming a key no figure works out is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A refusal over a figure names every key the same fault darkens.",
     },
     {
       invariantKind: "departure",

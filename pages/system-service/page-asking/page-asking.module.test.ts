@@ -128,7 +128,7 @@ test("a page type nothing extends answers its own pages alone", () => {
   for (const one of rows) expect(one.pageTypeSlug).toBe("invariant-kind")
 })
 
-test("a formula the page type named declares is worked out over a page of a type under it", () => {
+test("a calculation the page type named declares is worked out over a page of a type under it", () => {
   const rows = rowsOf(
     asking(root, {
       pageTypeSlug: "collection",

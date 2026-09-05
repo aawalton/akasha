@@ -13,16 +13,10 @@ export type Computed = {
   readonly work: Work<Held, unknown>
 }
 
-export type Unready = {
-  readonly key: string
-  readonly why: string
-}
-
 export type Subject = {
   readonly id: string
   readonly value: Held
   readonly computed: readonly Computed[]
-  readonly unready?: readonly Unready[]
 }
 
 export type Source = {
@@ -60,8 +54,8 @@ function faultIn(thrown: unknown): string {
   return thrown instanceof Error ? thrown.message : String(thrown)
 }
 
-// A number that is not finite is no reading akasha keeps: a formula reads one as absent, a
-// query narrows one away, and `JUDGED.number` above refuses a calculation that answers one.
+// A number that is not finite is no reading akasha keeps: a query narrows one away, and
+// `JUDGED.number` above refuses a calculation that answers one.
 // So one a page carries is left off the page a calculation is handed, and the calculation
 // meets absent where it would otherwise meet Infinity or NaN.
 function presentIn(value: Held): Held {
@@ -129,16 +123,6 @@ export function computingOver(source: Source): Computing {
         enumerable: true,
         configurable: true,
         get: () => heldBy(subject, one, view),
-      })
-    }
-    for (const one of subject.unready ?? []) {
-      if (Object.hasOwn(view, one.key)) continue
-      Object.defineProperty(view, one.key, {
-        enumerable: false,
-        configurable: true,
-        get: () => {
-          throw new Error(one.why)
-        },
       })
     }
     views.set(slug, view)

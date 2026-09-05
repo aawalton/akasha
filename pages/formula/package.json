@@ -3,8 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
-    ".": "./formula-language/formula-language.module.code.ts",
-    "./held": "./formula-held/formula-held.module.code.ts"
+    ".": "./formula-language/formula-language.module.code.ts"
   },
   "dependencies": {
     "@akasha/utils-narrow": "workspace:*"
