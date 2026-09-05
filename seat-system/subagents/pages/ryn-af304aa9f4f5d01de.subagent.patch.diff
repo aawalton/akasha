@@ -1,0 +1,15 @@
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
+index 2804d4f49dfd8be76e76c27886d69701e8ec891e..a8c14b01bcbf12d4ef3d22c57522ea65449df534 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
+@@ -64,10 +64,6 @@ export const folderShape = {
+     { pagePropertySlug: "folder-shape-enabled", required: true, many: false },
+   ],
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A folder matching any shape is right.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A folder may match more than one shape.",
