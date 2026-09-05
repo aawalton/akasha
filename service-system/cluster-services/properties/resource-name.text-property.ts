@@ -14,7 +14,7 @@ export const resourceName = {
     {
       invariantKind: "departure",
       statement:
-        "The resource name is what the cluster is asked for rather than the page's own slug.",
+        "The resource name is the name the cluster is asked for rather than the page's own slug.",
     },
   ],
 } as const satisfies TextProperty
