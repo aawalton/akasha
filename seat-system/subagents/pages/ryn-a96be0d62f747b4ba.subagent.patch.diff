@@ -26,7 +26,7 @@ index 09ced8528387b373fd1d89ce511a6f3aff78b1c4..c284295ddad8ee85cc824080ca60278f
      {
        invariantKind: "departure",
 diff --git a/alan/harness/monarch/eval/monarch-eval.domain.ts b/alan/harness/monarch/eval/monarch-eval.domain.ts
-index b87c60461f66b562777a8e0a15f1ce99433f6963..b1cd6f7e78eb51e391c294ff21c3126e49aea21a 100644
+index fa5a97f4fe748342184d19cfda53ab2aeb068351..aba866b4d4b69194df60f612992c135340d219f0 100644
 --- a/alan/harness/monarch/eval/monarch-eval.domain.ts
 +++ b/alan/harness/monarch/eval/monarch-eval.domain.ts
 @@ -27,7 +27,7 @@ export const monarchEval = {
@@ -124,3 +124,21 @@ index ec53e80dbd93fd8acc7315ba63d3a332090873ca..64d660b517692f81cd112c29a5e3672f
      },
      {
        invariantKind: "absence",
+diff --git a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
+index 679cd35d141d8dacad7813c30aa3781070d3dac1..1eeea06d46612d6a818aa62d80ede97477bb8cfe 100644
+--- a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
++++ b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
+@@ -40,8 +40,11 @@ export const supervisorLogSweeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "These files are gitignored, so no removal here reaches a commit and each goes with a plain remove rather than through the gated one.",
++      statement: "These files are gitignored.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Each removal here goes with a plain remove rather than through the gated remove.",
+     },
+     {
+       invariantKind: "departure",
