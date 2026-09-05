@@ -74,7 +74,7 @@ index 0000000000000000000000000000000000000000..5ae6ea1becf948bcd6be74cf4589a605
 +  partSlugs: ["module/apply", "module/jsonb-ops"],
 +} as const satisfies Domain
 diff --git a/pages/core/pages-core.workspace-package.ts b/pages/core/pages-core.workspace-package.ts
-index efbac57a6131a6b2d0063f3d221f67bb83e5e0cb..97d7301a267b787ef25fc7c661c38d18302e0527 100644
+index efbac57a6131a6b2d0063f3d221f67bb83e5e0cb..dd23d0c93873873194afa1f8968f595bebdf619d 100644
 --- a/pages/core/pages-core.workspace-package.ts
 +++ b/pages/core/pages-core.workspace-package.ts
 @@ -7,11 +7,16 @@ export const pagesCore = {
@@ -135,7 +135,7 @@ index efbac57a6131a6b2d0063f3d221f67bb83e5e0cb..97d7301a267b787ef25fc7c661c38d18
      "module/entries-00",
      "module/entries-01",
      "module/entries-02",
-@@ -74,65 +93,44 @@ export const pagesCore = {
+@@ -74,68 +93,54 @@ export const pagesCore = {
      "module/entries-35",
      "module/entries-36",
      "module/entries-37",
@@ -190,11 +190,15 @@ index efbac57a6131a6b2d0063f3d221f67bb83e5e0cb..97d7301a267b787ef25fc7c661c38d18
      "module/property-config-schemas",
 -    "module/property-type-ops",
      "module/quick-add",
++<<<<<<< what this change would leave
      "module/reducers",
--    "module/registry",
--    "module/relation",
--    "module/resolution-target-types",
--    "module/resolve-computed-type",
++=======
++    "domain/pages-core-view-state",
+     "module/registry",
+     "module/relation",
+     "module/resolution-target-types",
+     "module/resolve-computed-type",
++>>>>>>> what HEAD holds
      "module/resolve-select-options",
 -    "module/rich-document",
 -    "module/rich-document-ops",
@@ -210,7 +214,10 @@ index efbac57a6131a6b2d0063f3d221f67bb83e5e0cb..97d7301a267b787ef25fc7c661c38d18
 -    "module/url",
      "module/view-data",
      "module/view-data-locked",
-     "module/view-state-change",
+-    "module/view-state-change",
+   ],
+   invariants: [
+     {
 diff --git a/pages/core/property-types/pages-core-property-types.domain.ts b/pages/core/property-types/pages-core-property-types.domain.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..adc32eb111ad4e1f625a59f7a3afec26815db560
