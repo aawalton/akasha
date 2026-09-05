@@ -27,7 +27,7 @@ export const pagesCore = {
     {
       invariantKind: "departure",
       statement:
-        "A property type answers for its own values rather than the store answering for all of them.",
+        "A property type answers for its own values rather than the store answering for all the values.",
     },
     {
       invariantKind: "departure",
