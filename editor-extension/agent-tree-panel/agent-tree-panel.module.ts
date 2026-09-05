@@ -4,7 +4,7 @@ export const agentTreePanel = {
   id: "01a0686b-bfe9-7a38-b901-76035639ad29",
   pageTypeSlug: "module",
   slug: "agent-tree-panel",
-  definition: "the fleet Alan watches, read on a poll and on a seat file changing, and acted on",
+  definition: "the fleet Alan watches, read from the file the service writes, and acted on",
   code: "ts",
   invariants: [
     {
@@ -13,29 +13,40 @@ export const agentTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "The fleet is read once as the panel starts and every second after that.",
+      statement: "The fleet is read from the file the service writes rather than from the harness.",
     },
     {
       invariantKind: "departure",
-      statement: "A seat file changing is waited out before the fleet is read again.",
+      statement: "The panel draws what that file holds before any change to it arrives.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The panel draws again when that file is written and at no other time.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An act on a seat asks for the file again rather than waiting to be told.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file the service has not written leaves the rows on the screen as they are.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row is spelled for the panel from the row the file carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A color is carried on as its name, the decoration being what reads that name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One drawing runs at a time.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A second change during that wait replaces the first rather than adding to that first change.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A seat file change drops the answers held from the last read.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "One read runs at a time.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A trigger arriving mid-read waits on the read in flight rather than starting one.",
+        "A trigger arriving mid-drawing waits on the drawing in flight rather than starting one.",
     },
     {
       invariantKind: "departure",
@@ -53,16 +64,12 @@ export const agentTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A read that failed says the harness cannot be reached.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Every read's outcome is recorded as an observation under the panel's name.",
+      statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The terminal tabs holding a seat are published after every read and on a tab change.",
+        "The terminal tabs holding a seat are published after every drawing and on a tab change.",
     },
     {
       invariantKind: "departure",
@@ -71,6 +78,14 @@ export const agentTreePanel = {
     {
       invariantKind: "departure",
       statement: "Copying a seat's name reaches the seat the same way an act does.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No timer starts a drawing.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No watcher on a seat file is registered here.",
     },
     {
       invariantKind: "absence",

@@ -39,5 +39,9 @@ export const agentRow = {
       invariantKind: "gap",
       statement: "The shape sits apart from its composer so either can land first.",
     },
+    {
+      invariantKind: "gap",
+      statement: "A row is spelled here as every other tree the editor draws spells one.",
+    },
   ],
 } as const satisfies Module

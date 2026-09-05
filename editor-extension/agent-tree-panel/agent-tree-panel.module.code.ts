@@ -1,9 +1,10 @@
 import * as vscode from "vscode"
-import { countRows } from "../agent-forest/agent-forest.module.code.ts"
 import {
-  dropSeatAnswers,
-  readAgentForest,
-} from "../agent-forest-reading/agent-forest-reading.module.code.ts"
+  followState,
+  readState,
+  stateAt,
+} from "../../alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts"
+import { countRows } from "../agent-forest/agent-forest.module.code.ts"
 import { openAgentPage } from "../agent-page-opening/agent-page-opening.module.code.ts"
 import type { AgentNode } from "../agent-row/agent-row.module.code.ts"
 import {
@@ -14,12 +15,10 @@ import {
 import {
   COPY_SEAT_NAME_COMMAND,
   OPEN_PAGE_COMMAND,
-  POLL_INTERVAL_MS,
   REFRESH_COMMAND,
   RUN_RESET_COMMAND,
   RUN_RESUME_COMMAND,
   RUN_STOP_COMMAND,
-  SEAT_SETTLE_MS,
   VIEW_ID,
 } from "../agent-tree-ids/agent-tree-ids.module.code.ts"
 import { seatsByName } from "../agent-tree-lookup/agent-tree-lookup.module.code.ts"
@@ -35,7 +34,7 @@ import {
 } from "../agent-tree-state/agent-tree-state.module.code.ts"
 import { createColumnMemory } from "../column-memory/column-memory.module.code.ts"
 import { sampleColumns } from "../column-sampling/column-sampling.module.code.ts"
-import { unreachableMessage } from "../harness-call/harness-call.module.code.ts"
+import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
 import { invokedSeat } from "../invoked-seat/invoked-seat.module.code.ts"
 import { recordObservation } from "../observation-store/observation-store.module.code.ts"
 import type { SeatAct } from "../seat-act-confirm/seat-act-confirm.module.code.ts"
@@ -52,10 +51,31 @@ import {
   type SeatStep,
   type SeatToggleState,
 } from "../seat-toggles/seat-toggles.module.code.ts"
-import { SEAT_SIDECAR_GLOB, seatDirs } from "../seat-turn-colors/seat-turn-colors.module.code.ts"
-import { createSubagentReader } from "../subagent-reading/subagent-reading.module.code.ts"
 
 const FEATURE = "agent-tree"
+const SLUG = "agent-tree"
+
+// The file spells a row the way every state file spells one. The panel spells it another way, and
+// so do the payloads vscode hands back when a menu is used, which are read by name at runtime
+// rather than checked by the compiler. Bridging the two here keeps that runtime reading untouched.
+//
+// A color is carried on as the name it is. The decoration provider puts that name in a uri path
+// and matches it against the palette, so a color turned into something drawable here would fail
+// that match and leave the row uncolored.
+function asNode(row: AgentTreeRow): AgentNode {
+  return {
+    id: row.key,
+    name: row.label,
+    kind: row.kind,
+    place: row.place ?? undefined,
+    live: row.live,
+    state: row.state ?? undefined,
+    waitingOn: row.waitingOn ?? undefined,
+    color: row.color ?? undefined,
+    at: row.at ?? undefined,
+    children: row.children.map(asNode),
+  }
+}
 
 export async function activate(context: vscode.ExtensionContext): Promise<undefined> {
   setOutput(vscode.window.createOutputChannel("Ops: Agent Tree"))
@@ -70,7 +90,6 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     showFilter: true,
   })
   view.message = "Reading the fleet…"
-  const subagents = createSubagentReader()
   context.subscriptions.push(
     tree,
     view,
@@ -123,102 +142,89 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     return undefined
   }
 
-  const readOnce = async (trigger: string): Promise<undefined> => {
+  const drawOnce = async (held: AgentTreeState, trigger: string): Promise<undefined> => {
     const sampled = await sampleColumns(trigger, FEATURE)
     if (sampled !== undefined) {
       setSeatTerminals(sampled)
     }
     try {
-      const forestRead = await readAgentForest(subagents)
-      const { roots, alanPrincipalCount, runningCount, unreadSeats, unreadSaid } = forestRead
+      const roots = held.roots.map(asNode)
       setForest(roots)
       tree.replace(roots)
-      running = runningCount
+      running = held.runningCount
       describe()
       view.badge = {
-        value: runningCount,
-        tooltip: runningCount === 1 ? "1 agent running" : `${runningCount} agents running`,
+        value: held.runningCount,
+        tooltip:
+          held.runningCount === 1 ? "1 agent running" : `${held.runningCount} agents running`,
       }
       view.message =
-        unreadSeats === 0
+        held.unreadSeats === 0
           ? undefined
-          : `${unreadSeats} seat(s) went unread — the subagents under them are missing`
+          : `${held.unreadSeats} seat(s) went unread — the subagents under them are missing`
       output.appendLine(
-        `[${trigger}] ${runningCount} running, ${countRows(roots)} rows, ` +
-          `${roots.length} roots, ${alanPrincipalCount} answering to Alan` +
-          (unreadSeats === 0 ? "" : `, ${unreadSeats} seat(s) UNREAD — ${unreadSaid ?? ""}`)
+        `[${trigger}] ${held.runningCount} running, ${countRows(roots)} rows, ` +
+          `${roots.length} roots, ${held.alanPrincipalCount} answering to Alan` +
+          (held.unreadSeats === 0 ? "" : `, ${held.unreadSeats} seat(s) UNREAD`)
       )
       recordObservation(FEATURE, {
         outcome: "ok",
         counts: {
-          running: runningCount,
+          running: held.runningCount,
           rows: countRows(roots),
           roots: roots.length,
-          answeringToAlan: alanPrincipalCount,
-          unreadSeats,
+          answeringToAlan: held.alanPrincipalCount,
+          unreadSeats: held.unreadSeats,
         },
       })
     } catch (err) {
-      view.message = unreachableMessage(err)
-      output.appendLine(`[${trigger}] read failed: ${String(err)}`)
+      output.appendLine(`[${trigger}] drawing failed: ${String(err)}`)
       recordObservation(FEATURE, { outcome: "failed", failure: String(err) })
     }
     await publishSeatTabs(trigger)
     return undefined
   }
 
-  let reading: Promise<undefined> | undefined
+  let drawing: Promise<undefined> | undefined
 
-  const refresh = async (trigger: string): Promise<undefined> => {
-    const inFlight = reading
+  const draw = async (held: AgentTreeState, trigger: string): Promise<undefined> => {
+    const inFlight = drawing
     if (inFlight !== undefined) {
-      output.appendLine(`[${trigger}] a read is already in flight — waiting for it`)
       await inFlight
       return undefined
     }
-    const started = readOnce(trigger)
-    reading = started
+    const started = drawOnce(held, trigger)
+    drawing = started
     try {
       await started
     } finally {
-      reading = undefined
+      drawing = undefined
     }
     return undefined
   }
 
-  const timer = setInterval(() => void refresh("poll"), POLL_INTERVAL_MS)
-
-  let settling: ReturnType<typeof setTimeout> | undefined
-  const followSeats = (): void => {
-    if (settling !== undefined) {
-      clearTimeout(settling)
+  // An act on a seat asks for the file again rather than waiting for the service to notice, so the
+  // panel answers the act at once. A file the service has not written leaves the rows as they are.
+  const refresh = async (trigger: string): Promise<undefined> => {
+    const held = readState<AgentTreeState>(stateAt(akashaRoot(), SLUG))
+    if (held === null) {
+      return undefined
     }
-    settling = setTimeout(() => {
-      settling = undefined
-      dropSeatAnswers()
-      void refresh("seat")
-    }, SEAT_SETTLE_MS)
+    await draw(held, trigger)
+    return undefined
   }
+
+  const reading = followState<AgentTreeState>(akashaRoot(), SLUG, (held) => {
+    void draw(held, "fleet")
+    return undefined
+  })
+
   context.subscriptions.push(
-    ...seatDirs().map((dir) => {
-      const seats = vscode.workspace.createFileSystemWatcher(
-        new vscode.RelativePattern(vscode.Uri.file(dir), SEAT_SIDECAR_GLOB)
-      )
-      seats.onDidChange(followSeats)
-      seats.onDidCreate(followSeats)
-      seats.onDidDelete(followSeats)
-      return seats
-    }),
     {
       dispose: () => {
-        if (settling !== undefined) {
-          clearTimeout(settling)
-        }
+        reading.stop()
       },
-    }
-  )
-
-  context.subscriptions.push(
+    },
     vscode.window.tabGroups.onDidChangeTabs(() => void publishSeatTabs("tabs"))
   )
 
@@ -239,7 +245,6 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   }
 
   context.subscriptions.push(
-    { dispose: () => clearInterval(timer) },
     vscode.commands.registerCommand(REFRESH_COMMAND, () => refresh("manual")),
     vscode.commands.registerCommand(RUN_STOP_COMMAND, (n: unknown) =>
       runPlan(n, planRunToggle, "run-stop")
@@ -253,7 +258,5 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     vscode.commands.registerCommand(COPY_SEAT_NAME_COMMAND, (n: unknown) => copySeatName(n)),
     vscode.commands.registerCommand(OPEN_PAGE_COMMAND, (n: unknown) => openAgentPage(n))
   )
-
-  await refresh("activate")
   return undefined
 }

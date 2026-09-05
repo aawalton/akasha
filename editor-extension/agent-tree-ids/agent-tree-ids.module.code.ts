@@ -11,7 +11,3 @@ export const RUN_RESET_COMMAND = "opsAgentTree.runReset"
 export const COPY_SEAT_NAME_COMMAND = "opsAgentTree.copySeatName"
 
 export const OPEN_PAGE_COMMAND = "opsAgentTree.openPage"
-
-export const POLL_INTERVAL_MS = 1_000
-
-export const SEAT_SETTLE_MS = 25

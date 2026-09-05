@@ -4,8 +4,7 @@ export const agentTreeIds = {
   id: "01a064d3-f9f8-7c48-8cd9-1747ef827506",
   pageTypeSlug: "module",
   slug: "agent-tree-ids",
-  definition:
-    "the strings the editor knows the agent tree's view and commands by, and the tree's two waits",
+  definition: "the strings the editor knows the agent tree's view and commands by",
   code: "ts",
   invariants: [
     {
@@ -15,23 +14,6 @@ export const agentTreeIds = {
     {
       invariantKind: "departure",
       statement: "A command name here opens with the agent tree's view name.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A wait here is counted in milliseconds.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The agent tree is read again every second while the editor runs.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A seat file changing is waited out before the agent tree is read again.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The wait after a seat file changes is far shorter than the wait between readings.",
     },
     {
       invariantKind: "absence",
