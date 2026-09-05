@@ -10,7 +10,7 @@ export const minimapViewTypes = {
     {
       invariantKind: "departure",
       statement:
-        "A shape here is what the minimap reads of a game table rather than what the game declares.",
+        "A shape here is the members the minimap reads of a game table rather than the game's declaration.",
     },
     {
       invariantKind: "absence",
