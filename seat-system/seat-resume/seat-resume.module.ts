@@ -14,7 +14,7 @@ export const seatResume = {
     {
       invariantKind: "departure",
       statement:
-        "The command reads the arguments and writes the answer, and the functions it calls do neither.",
+        "The command reads arguments and writes the answer, and the functions the command calls do neither.",
     },
     {
       invariantKind: "departure",
