@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/effect-seconds.number-property.ts b/temper/temper-catalog/temper-catalog-things/properties/effect-seconds.number-property.ts
+index feac0a45952c21c27b1c3d2dc796df032ff3d4b2..28d25d5539f486b4e9d1329d44fdacc6b1ea359b 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/effect-seconds.number-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/effect-seconds.number-property.ts
+@@ -12,7 +12,7 @@ export const effectSeconds = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "An effect stating no seconds lasts as long as what carries the effect.",
++      statement: "An effect stating no seconds lasts as long as the thing carrying the effect.",
+     },
+   ],
+ } as const satisfies NumberProperty
