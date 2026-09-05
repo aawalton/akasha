@@ -18,7 +18,7 @@ export const pushNotifying = {
     {
       invariantKind: "departure",
       statement:
-        "A notification is a row in the feed of the person pushed at, so the feed is what is watched.",
+        "A notification is a row in the feed of the person pushed at, so the feed is watched.",
     },
     {
       invariantKind: "departure",
