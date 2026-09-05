@@ -126,3 +126,27 @@ index 0000000000000000000000000000000000000000..d324f01792e7dab939177c4830b67fca
 +  definition: "a click on a page's cover",
 +  partSlugs: ["module/cover-click-registry", "module/cover-mask-registry"],
 +} as const satisfies Domain
+diff --git a/pages/ui/frame/pages-ui-frame.domain.ts b/pages/ui/frame/pages-ui-frame.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5f8217ceb560081bee4fdf70264b78b6ef393c30
+--- /dev/null
++++ b/pages/ui/frame/pages-ui-frame.domain.ts
+@@ -0,0 +1,18 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesUiFrame = {
++  id: "01a071cf-928b-7c4c-91ab-a706461ea825",
++  pageTypeSlug: "domain",
++  slug: "pages-ui-frame",
++  definition: "the frame a page is drawn inside",
++  partSlugs: [
++    "module/display-frame",
++    "module/frame-config",
++    "module/frame-safe-area-masks",
++    "module/frame-sticky-footer",
++    "module/frame-sticky-header",
++    "module/frame-view-properties-menu",
++    "module/use-follow-anchor",
++    "module/viewport-thresholds",
++  ],
++} as const satisfies Domain
