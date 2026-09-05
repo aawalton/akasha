@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/name-places/pages/function-identifier.name-place.ts b/pages/name-places/pages/function-identifier.name-place.ts
+index 5e635d75d36b285235d27b7cb5e0362f9b00bbfe..221916ac31a7e790dcb02552824968e7b15384f2 100644
+--- a/pages/name-places/pages/function-identifier.name-place.ts
++++ b/pages/name-places/pages/function-identifier.name-place.ts
+@@ -9,8 +9,7 @@ export const functionIdentifier = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A function is named for what the function answers rather than for how the answer is worked out.",
++      statement: "A function is named for its answer rather than for how the answer is worked out.",
+     },
+   ],
+ } as const satisfies NamePlace
