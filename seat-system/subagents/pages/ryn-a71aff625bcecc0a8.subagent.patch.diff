@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/agents/models/modules/asking/model-asking.module.ts b/agents/models/modules/asking/model-asking.module.ts
-index 94819b83caecf0bcde12189a69da94e064235812..1358af25ab22f1204c8685537139221d9fb9b544 100644
+index 94819b83caecf0bcde12189a69da94e064235812..ff68f765a0edd9408455399885a5604320b72419 100644
 --- a/agents/models/modules/asking/model-asking.module.ts
 +++ b/agents/models/modules/asking/model-asking.module.ts
-@@ -53,8 +53,7 @@ export const modelAsking = {
+@@ -53,12 +53,11 @@ export const modelAsking = {
      },
      {
        invariantKind: "constraint",
@@ -13,3 +13,8 @@ index 94819b83caecf0bcde12189a69da94e064235812..1358af25ab22f1204c8685537139221d
      },
      {
        invariantKind: "absence",
+-      statement: "Nothing here judges what a model answered.",
++      statement: "Nothing here judges a model's answer.",
+     },
+   ],
+ } as const satisfies Module
