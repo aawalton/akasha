@@ -16,7 +16,8 @@ export const currentBalance = {
     },
     {
       invariantKind: "departure",
-      statement: "A balance is what the sync last read rather than what any row sums to.",
+      statement:
+        "A balance is the figure the sync last read rather than the figure any row sums to.",
     },
   ],
 } as const satisfies NumberProperty
