@@ -47,7 +47,6 @@ export const loki = {
     "a stamp is read before any query is sent, so a malformed one is refused rather than quietly matching nothing.",
     "`--all` is bounded by the window and never by a line count, so a window that clipped is reached by widening `--since`.",
     "a pod prefix matching nothing answers no log line, and the bounding line says whether that absence means anything.",
-    "nothing here filters a log body.",
   ],
   invariants: [
     {
