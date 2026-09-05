@@ -1,0 +1,14 @@
+diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
+index c70536b6a67282fc3d9e4bf031e92e4022f44e92..80128db53c61d09904e6731caf4a7557f2e26025 100644
+--- a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
++++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
+@@ -5,7 +5,9 @@ import type { Change } from "@akasha/pages-system/change"
+ import { shadowAsked, shadowFor } from "@akasha/pages-system/shadow"
+ import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+ import {
++  claimedIn,
+   configOf,
++  matching,
+   omittingIn,
+   reachedBy,
+   reachesTypegen,
