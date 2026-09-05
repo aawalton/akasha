@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-build-deploy-checks/addon-dependency-floor/addon-dependency-floor.module.ts b/temper/temper-build-deploy-checks/addon-dependency-floor/addon-dependency-floor.module.ts
+index 3f7e30d3344d2df8c5ecc9ccd5f7059944c768a3..7c91b5177d2396f9cc9b7036ead861cf7aff19a5 100644
+--- a/temper/temper-build-deploy-checks/addon-dependency-floor/addon-dependency-floor.module.ts
++++ b/temper/temper-build-deploy-checks/addon-dependency-floor/addon-dependency-floor.module.ts
+@@ -21,7 +21,7 @@ export const addonDependencyFloor = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "What is not judged is counted and reported.",
++      statement: "A dependency that is not judged is counted and reported.",
+     },
+   ],
+ } as const satisfies Module
