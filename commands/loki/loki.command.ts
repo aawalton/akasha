@@ -55,7 +55,7 @@ export const loki = {
     },
     {
       invariantKind: "departure",
-      statement: "The last line answered states what bounded the answer.",
+      statement: "The last line answered states the bound on the answer.",
     },
     {
       invariantKind: "departure",
