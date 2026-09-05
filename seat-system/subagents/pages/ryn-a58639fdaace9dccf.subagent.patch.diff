@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/browser/browser-commands/browser-commands.workspace-package.ts b/browser/browser-commands/browser-commands.workspace-package.ts
+index 9e967d2221b7e3cfdaf75d2af9addf63875e61ce..4a678aa86a95f486a814bd7034dc44096046fd26 100644
+--- a/browser/browser-commands/browser-commands.workspace-package.ts
++++ b/browser/browser-commands/browser-commands.workspace-package.ts
+@@ -27,7 +27,7 @@ export const browserCommands = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows what any page this package looks at is for.",
++      statement: "Nothing here knows the purpose of any page this package looks at.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
