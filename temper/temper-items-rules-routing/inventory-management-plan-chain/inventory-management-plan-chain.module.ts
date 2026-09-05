@@ -13,11 +13,11 @@ export const inventoryManagementPlanChain = {
     },
     {
       invariantKind: "departure",
-      statement: "What one tier leaves over is offered to the tier below.",
+      statement: "The items one tier leaves over are offered to the tier below.",
     },
     {
       invariantKind: "departure",
-      statement: "What the last tier leaves over is threaded on to the next rule.",
+      statement: "The items the last tier leaves over are threaded on to the next rule.",
     },
   ],
 } as const satisfies Module
