@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/code-system/eso-addons/eso-addon.page-type.ts b/code-system/eso-addons/eso-addon.page-type.ts
+index 27c18479313d0ba896fbde7735c46734edd7f570..4e47ab92b8e83618442c701dcece38770bc409b4 100644
+--- a/code-system/eso-addons/eso-addon.page-type.ts
++++ b/code-system/eso-addons/eso-addon.page-type.ts
+@@ -46,7 +46,8 @@ export const esoAddon = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "An addon states what the game reads about that addon in a file beside the page.",
++      statement:
++        "An addon states the facts the game reads about that addon in a file beside the page.",
+     },
+     {
+       invariantKind: "departure",
