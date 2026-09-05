@@ -44,11 +44,11 @@ export const noSwallowedRead = {
     {
       invariantKind: "departure",
       statement:
-        "A body that will not decode is a fact about that body rather than a failure to reach it.",
+        "A body that will not decode is a fact about that body rather than a failure to reach that body.",
     },
     {
       invariantKind: "departure",
-      statement: "The read sits in the try itself or through a function beside it.",
+      statement: "The read sits in the try itself or through a function beside that try.",
     },
     {
       invariantKind: "departure",
@@ -88,7 +88,8 @@ export const noSwallowedRead = {
     },
     {
       invariantKind: "departure",
-      statement: "A catch using what it caught is carrying it rather than dropping it.",
+      statement:
+        "A catch using what that catch caught is carrying that failure rather than dropping that failure.",
     },
     {
       invariantKind: "departure",
