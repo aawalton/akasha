@@ -55,7 +55,8 @@ export const blockAkashaShellWrites = {
     },
     {
       invariantKind: "departure",
-      statement: "A redirect is read outside the body a heredoc carries rather than inside it.",
+      statement:
+        "A redirect is read outside the body a heredoc carries rather than inside that body.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +68,8 @@ export const blockAkashaShellWrites = {
     },
     {
       invariantKind: "departure",
-      statement: "An interpreter is judged on every path the call handing it a program names.",
+      statement:
+        "An interpreter is judged on every path the call handing that interpreter a program names.",
     },
     {
       invariantKind: "departure",
