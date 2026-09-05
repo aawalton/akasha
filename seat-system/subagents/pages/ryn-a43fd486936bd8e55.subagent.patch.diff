@@ -116,3 +116,16 @@ index ee8a91d1edfc98c618244d446fd29eabc2d3a081..20ccef6be1b890f4d028caf0d14f458c
      },
      {
        invariantKind: "departure",
+diff --git a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
+index ae5654ad8054a61c5b6d3f5a50e3f1849fd17f3d..28c39221db59d448bf21cddbd37e9c5a6d68f331 100644
+--- a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
++++ b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
+@@ -46,7 +46,7 @@ export const supervisorLogSweeping = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A loose file directly under the supervisors root, past the window, goes with the departed directories.",
++        "A file directly under the supervisors root, past the window, goes with the departed directories.",
+     },
+     {
+       invariantKind: "departure",
