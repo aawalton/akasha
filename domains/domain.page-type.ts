@@ -50,8 +50,7 @@ export const domain = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "What makes a page a domain is its page type rather than the folder the page sits in.",
+      statement: "A page is a domain by its page type rather than by the folder the page sits in.",
     },
     {
       invariantKind: "departure",
