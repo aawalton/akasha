@@ -23,7 +23,7 @@ export const monarchAmazonMatch = {
     {
       invariantKind: "departure",
       statement:
-        "A refund's window opens three days before the mail and runs twenty-one days after, because a card may post a credit before the mail arrives.",
+        "A refund's window opens three days before the mail and runs twenty-one days after.",
     },
     {
       invariantKind: "departure",
