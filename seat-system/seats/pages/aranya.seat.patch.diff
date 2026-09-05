@@ -351,3 +351,11 @@ index 6a0a23c79f485491053ed4f8ac3739ab6eab7e1c..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../mobile-commands
 \ No newline at end of file
+diff --git a/named-for/named-for b/named-for/named-for
+deleted file mode 120000
+index 2d88de6ff38e8db1d69362e1277068028080b90f..0000000000000000000000000000000000000000
+--- a/named-for/named-for
++++ /dev/null
+@@ -1 +0,0 @@
+-../../named-for
+\ No newline at end of file
