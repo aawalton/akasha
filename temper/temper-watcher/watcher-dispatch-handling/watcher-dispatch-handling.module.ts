@@ -84,7 +84,7 @@ export const watcherDispatchHandling = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here parses what a saved-variables file holds.",
+      statement: "Nothing here parses the content a saved-variables file holds.",
     },
   ],
 } as const satisfies Module
