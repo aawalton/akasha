@@ -35,12 +35,13 @@ export const orphanSweeping = {
     },
     {
       invariantKind: "departure",
-      statement: "The manifests compared against are read from this checkout as it now is.",
+      statement:
+        "The manifests compared against are read from this checkout as that checkout now is.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The cluster is reached with the same credentials every other service here reaches it with.",
+        "The cluster is reached with the same credentials every other service here reaches the cluster with.",
     },
     {
       invariantKind: "departure",
