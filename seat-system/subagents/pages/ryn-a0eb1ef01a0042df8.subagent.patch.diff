@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/node.domain.ts b/infrastructure/node.domain.ts
+index a18507762c0366d5a4c60cfd9ffc653f6480db23..b661bdc4a7831bcb390aedc49f81db5c8a0c4351 100644
+--- a/infrastructure/node.domain.ts
++++ b/infrastructure/node.domain.ts
+@@ -13,7 +13,7 @@ export const node = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A node's disks are matched by what they are rather than by device path.",
++      statement: "A node's disks are matched by what those disks are rather than by device path.",
+     },
+     {
+       invariantKind: "departure",
