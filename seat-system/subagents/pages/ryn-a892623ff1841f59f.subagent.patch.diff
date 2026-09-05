@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/code-system/shell-scripts/pages/statusline/statusline.shell-script.ts b/code-system/shell-scripts/pages/statusline/statusline.shell-script.ts
+index e73cbff8e856f3bbc3a6405f02eae0ecc543f3ec..6a753a3a78b2f1b4559c10118ad3753de16dc03b 100644
+--- a/code-system/shell-scripts/pages/statusline/statusline.shell-script.ts
++++ b/code-system/shell-scripts/pages/statusline/statusline.shell-script.ts
+@@ -14,8 +14,7 @@ export const statusline = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "What this script cannot read this script leaves out rather than saying that value is unknown.",
++      statement: "A value this script cannot read is left out rather than said to be unknown.",
+     },
+     {
+       invariantKind: "departure",
