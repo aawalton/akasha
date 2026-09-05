@@ -12,7 +12,7 @@ index 4a954ed370cf9de275bac8d413653dfff80041f1..9243711a36ae94ea90f9908a0ada6b62
    const cc = said.report.map((one) => Number(one.split("\t")[3]))
  
 diff --git a/commands/complexity/complexity.command.ts b/commands/complexity/complexity.command.ts
-index 4e0b3b905ed41d30eef9e82b2a114aa4e2a0cf8d..9ff2924809c8f72d6ba822f7104e931b23a5e278 100644
+index 4e0b3b905ed41d30eef9e82b2a114aa4e2a0cf8d..18577747c6050b6b456db08f0d5e0739138e815b 100644
 --- a/commands/complexity/complexity.command.ts
 +++ b/commands/complexity/complexity.command.ts
 @@ -14,8 +14,8 @@ export const complexity = {
@@ -44,8 +44,17 @@ index 4e0b3b905ed41d30eef9e82b2a114aa4e2a0cf8d..9ff2924809c8f72d6ba822f7104e931b
      },
      {
        invariantKind: "departure",
+@@ -81,7 +81,7 @@ export const complexity = {
+     {
+       invariantKind: "stopgap",
+       statement:
+-        "The workspace read is the one the process stands in rather than the root the call names.",
++        "The workspace read is the one the process is in rather than the root the call names.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/commands/model-gateway/model-gateway.command.ts b/commands/model-gateway/model-gateway.command.ts
-index 98bb62d864587b1faa9762bc77cc20d28404ccdd..347883b938fc52851b123124c0512a3c761e1952 100644
+index 98bb62d864587b1faa9762bc77cc20d28404ccdd..4486197c95a8bb144092a27fa1b260e472112142 100644
 --- a/commands/model-gateway/model-gateway.command.ts
 +++ b/commands/model-gateway/model-gateway.command.ts
 @@ -15,7 +15,7 @@ export const modelGateway = {
@@ -72,3 +81,12 @@ index 98bb62d864587b1faa9762bc77cc20d28404ccdd..347883b938fc52851b123124c0512a3c
      "a swap is for rolling out a fix that cannot wait, since an ordinary deploy no longer reaches a running gateway.",
    ],
    invariants: [
+@@ -40,7 +40,7 @@ export const modelGateway = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A status weighs the running version against the tree standing here rather than a published one.",
++        "A status weighs the running version against the tree here rather than a published one.",
+     },
+     {
+       invariantKind: "departure",
