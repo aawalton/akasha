@@ -4,7 +4,7 @@ export const pageTreeIds = {
   id: "01a064c8-9a9c-7e5f-b6da-e2f88bc5c4c9",
   pageTypeSlug: "module",
   slug: "page-tree-ids",
-  definition: "the strings the editor knows the page tree's container, view and refresh command by",
+  definition: "the strings the editor knows the page tree's view and refresh command by",
   code: "ts",
   invariants: [
     {
@@ -14,10 +14,6 @@ export const pageTreeIds = {
     {
       invariantKind: "departure",
       statement: "The refresh command's name opens with the view's name.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The container holding the page tree carries a name apart from the tree's name.",
     },
     {
       invariantKind: "absence",

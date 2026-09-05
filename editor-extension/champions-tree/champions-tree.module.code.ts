@@ -85,25 +85,3 @@ export function countNodes(nodes: readonly Nested[]): number {
   for (const node of nodes) total += 1 + countNodes(node.children)
   return total
 }
-
-function linesOf(node: DomainNode, depth: number): readonly string[] {
-  const champion = node.persona === null ? "— the descent reaches no persona" : node.persona
-  return [
-    `${"  ".repeat(depth)}${node.slug}  ${champion}  ${node.relPath}`,
-    ...node.children.flatMap((child) => linesOf(child, depth + 1)),
-  ]
-}
-
-export function treeLines(tree: ChampionTree): readonly string[] {
-  const drawn = tree.roots.flatMap((root) => linesOf(root, 0))
-  if (tree.unreached.length === 0) return drawn
-  return [
-    ...drawn,
-    "",
-    `${tree.unreached.length} domain(s) no root reaches: ${tree.unreached.join(", ")}`,
-  ]
-}
-
-export function treeRecord(tree: ChampionTree, root: string): Record<string, unknown> {
-  return { repo: root, roots: tree.roots, unreached: tree.unreached }
-}

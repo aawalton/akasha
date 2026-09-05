@@ -4,29 +4,12 @@ export const editorLayoutColumns = {
   id: "01a0680d-8b3d-7000-9414-939aff9377c5",
   pageTypeSlug: "module",
   slug: "editor-layout-columns",
-  definition:
-    "the editor's groups and their tabs, and the arrangement of them a panel is drawn from",
+  definition: "the editor's groups and the tabs sitting in them, as a panel reads them",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "A group is placed by the column that group is in.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An arrangement names the window that arrangement was taken from.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A tab with no process carries no terminal in the arrangement.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A tab with no seat carries no seat in the arrangement.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A tab's kind and uri are left out of an arrangement.",
     },
     {
       invariantKind: "absence",

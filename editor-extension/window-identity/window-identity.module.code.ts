@@ -1,11 +1,16 @@
 import { readFile } from "node:fs/promises"
 
-export interface WindowIdentity {
+// A WINDOW IS SAID AS ONE STRING, THE PID ALONE NOT TELLING ONE WINDOW FROM ANOTHER. A pid is
+// handed to a new process once the process holding it ends, so the moment the process started is
+// read alongside the pid and the two are said together.
+interface WindowIdentity {
   readonly pid: number
   readonly startedAt: number
 }
 
-export function parseProcessStart(stat: string): number | undefined {
+// The command a process runs under can hold spaces and brackets of its own, so the fields after it
+// are found by seeking the last closing bracket rather than by counting from the front.
+function parseProcessStart(stat: string): number | undefined {
   const afterComm = stat.lastIndexOf(")")
   if (afterComm === -1) {
     return undefined
@@ -22,14 +27,6 @@ export function parseProcessStart(stat: string): number | undefined {
   return Number.isFinite(parsed) ? parsed : undefined
 }
 
-export function sameWindow(one: WindowIdentity, other: WindowIdentity | undefined): boolean {
-  return other !== undefined && one.pid === other.pid && one.startedAt === other.startedAt
-}
-
-export async function readWindowIdentity(pid: number): Promise<WindowIdentity> {
-  return { pid, startedAt: (await readProcessStart(pid)) ?? 0 }
-}
-
 async function readProcessStart(pid: number): Promise<number | undefined> {
   try {
     return parseProcessStart(await readFile(`/proc/${pid}/stat`, "utf8"))
@@ -38,22 +35,11 @@ async function readProcessStart(pid: number): Promise<number | undefined> {
   }
 }
 
+async function readWindowIdentity(pid: number): Promise<WindowIdentity> {
+  return { pid, startedAt: (await readProcessStart(pid)) ?? 0 }
+}
+
 export async function readProcess(pid: number): Promise<string> {
   const identity = await readWindowIdentity(pid)
   return `${identity.pid}-${identity.startedAt}`
-}
-
-export async function isWindowLive(identity: WindowIdentity): Promise<boolean> {
-  const now = await readProcessStart(identity.pid)
-  if (now === undefined) {
-    return false
-  }
-  if (identity.startedAt === 0) {
-    return true
-  }
-  return now === identity.startedAt
-}
-
-export function recordNameFor(identity: WindowIdentity): string {
-  return `${identity.pid}.json`
 }

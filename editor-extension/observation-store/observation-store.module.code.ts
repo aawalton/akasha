@@ -28,7 +28,6 @@ const REPRESENTS_AN_ORIGIN = "http://127.0.0.1:8787"
 export interface ObservationStore {
   readonly record: (feature: string, patch: ObservationPatch) => void
   readonly recordSweep: (feature: string, report: SweepReport) => void
-  readonly current: (feature: string) => Observation | undefined
   readonly flush: () => Promise<void>
   readonly dispose: () => Promise<void>
   readonly url: string
@@ -97,8 +96,6 @@ export function createObservationStore(options: StoreOptions): ObservationStore 
   const self: ObservationStore = {
     url,
 
-    current: (feature) => features[feature],
-
     recordSweep: (feature, report) => {
       self.record(feature, {
         sweep: foldSweep(features[feature]?.sweep, {
@@ -154,8 +151,4 @@ export function recordObservation(feature: string, patch: ObservationPatch): voi
 
 export function recordSweep(feature: string, report: SweepReport): void {
   store?.recordSweep(feature, report)
-}
-
-export function currentObservation(feature: string): Observation | undefined {
-  return store?.current(feature)
 }

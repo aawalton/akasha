@@ -4,8 +4,7 @@ export const domainTreeIds = {
   id: "01a064c8-9a9c-76e0-a025-5d952e3be0ea",
   pageTypeSlug: "module",
   slug: "domain-tree-ids",
-  definition:
-    "the strings the editor knows the domain tree's container, view and refresh command by",
+  definition: "the strings the editor knows the domain tree's view and refresh command by",
   code: "ts",
   invariants: [
     {
@@ -15,10 +14,6 @@ export const domainTreeIds = {
     {
       invariantKind: "departure",
       statement: "The refresh command's name opens with the view's name.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The container holding the domain tree carries a name apart from the tree's name.",
     },
     {
       invariantKind: "absence",

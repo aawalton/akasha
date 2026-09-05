@@ -4,26 +4,9 @@ export const seatObservations = {
   id: "01a0680d-8b1a-7000-abf8-16f7ab595a99",
   pageTypeSlug: "module",
   slug: "seat-observations",
-  definition:
-    "what each feature was last seen doing, with the writer that wrote it and the version it is in",
+  definition: "what each feature was last seen doing, and the key saying two readings differ",
   code: "ts",
   invariants: [
-    {
-      invariantKind: "departure",
-      statement: "A record of another version is read as no record.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A record that does not parse is read as no record.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The writer is read off a record of any version.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A record naming no start time names a writer started at zero.",
-    },
     {
       invariantKind: "departure",
       statement: "A change key leaves every timestamp out.",
@@ -42,16 +25,12 @@ export const seatObservations = {
       statement: "An array keeps its order in a change key.",
     },
     {
-      invariantKind: "departure",
-      statement: "A sweep paying the bound is one that left something never answered.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here reads or writes a file.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here says whether a writer is still alive.",
+      statement: "Nothing here knows which window wrote a reading.",
     },
   ],
 } as const satisfies Module
