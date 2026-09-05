@@ -1,0 +1,299 @@
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/beat-drawing/beat-drawing.module.code.ts b/alan/harness/code-editor/code-editor-data-interfaces/beat-drawing/beat-drawing.module.code.ts
+index 8d89e987e529faa02fbc1bd638cd04876045b7a6..8ac68037c861321c3404480bc5e4cf3d09d70ab4 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/beat-drawing/beat-drawing.module.code.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/beat-drawing/beat-drawing.module.code.ts
+@@ -80,8 +80,7 @@ export async function statusBarLine(): Promise<string> {
+     readUsage().catch(() => null),
+   ])
+   return JSON.stringify({
+-    sessionPct: usage?.sessionPct ?? null,
+-    weeklyPct: usage?.weeklyPct ?? null,
++    usage,
+     inbox,
+     upkeep,
+     attributes,
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
+index fa5b21e959e7a7616901acda27548aa44d4d4d68..eb807a4ee7b2ff0f9b77e5051ad8a176984c11e4 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
+@@ -139,8 +139,7 @@ async function refreshAgentTree(): Promise<undefined> {
+ }
+ 
+ let statusHeld = JSON.stringify({
+-  sessionPct: null,
+-  weeklyPct: null,
++  usage: null,
+   inbox: null,
+   upkeep: null,
+   attributes: null,
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/status-bar.code-editor-data-interface.d.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/status-bar.code-editor-data-interface.d.ts
+index e3d0788b795dbd859bfbc578594da4fa1ceea655..8012c02fba4bd5b378b36169721f6215cd600ef6 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/pages/status-bar.code-editor-data-interface.d.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/status-bar.code-editor-data-interface.d.ts
+@@ -1,14 +1,20 @@
+ // The status bar. A section the service could not read is null, and the editor keeps what it last
+-// drew there rather than blanking it.
++// drew there rather than blanking it. The usage figures are a section like any other: a figure
++// taken over no account is null inside a reading that is there, which is a different fact from
++// there being no reading at all, and only the second keeps the last figure on the screen.
+ 
+ declare type StatusBarStoplights = {
+   readonly glyphs: string
+   readonly legend: string
+ }
+ 
+-declare type StatusBarState = {
++declare type StatusBarUsage = {
+   readonly sessionPct: number | null
+   readonly weeklyPct: number | null
++}
++
++declare type StatusBarState = {
++  readonly usage: StatusBarUsage | null
+   readonly inbox: StatusBarStoplights | null
+   readonly upkeep: StatusBarStoplights | null
+   readonly attributes: StatusBarStoplights | null
+diff --git a/editor-extension/status-bar-panel/status-bar-panel.module.code.ts b/editor-extension/status-bar-panel/status-bar-panel.module.code.ts
+index 5489a9e0aeaa00dc34df1e628a8c59a16733741c..9e9b0e15f3fcdf9fc627c3603a13a486e22da9ed 100644
+--- a/editor-extension/status-bar-panel/status-bar-panel.module.code.ts
++++ b/editor-extension/status-bar-panel/status-bar-panel.module.code.ts
+@@ -1,12 +1,10 @@
+-import * as os from "node:os"
+-import * as path from "node:path"
+-import { duringOneCall } from "@akasha/command-system/during-call"
+ import * as vscode from "vscode"
+ import {
+-  drawGroup,
+-  type GroupDrawing,
+-  nameTheStore,
+-} from "../group-stoplights/group-stoplights.module.code.ts"
++  followState,
++  readState,
++  stateAt,
++} from "../../alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts"
++import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
+ import { recordObservation } from "../observation-store/observation-store.module.code.ts"
+ import {
+   applyToItems,
+@@ -20,43 +18,36 @@ import {
+ } from "../status-bar-legends/status-bar-legends.module.code.ts"
+ import { SLOTS } from "../status-bar-slots/status-bar-slots.module.code.ts"
+ import { SEPARATOR_GLYPH, SEPARATOR_HEX } from "../status-bar-theme/status-bar-theme.module.code.ts"
+-import { readUsage } from "../status-bar-usage/status-bar-usage.module.code.ts"
++import type { UsageReading } from "../status-bar-usage/status-bar-usage.module.code.ts"
+ 
+ const FEATURE = "status-bar"
+-
+-const POLL_INTERVAL_MS = 30_000
+-
+-const UPKEEP_GROUP = "upkeep"
+-
+-const ATTRIBUTES_GROUP = "attributes"
+-
+-const INBOX_GROUP = "inboxes"
++const SLUG = "status-bar"
+ 
+ let output: vscode.OutputChannel
+ 
+-function glyphsSettled(settled: PromiseSettledResult<GroupDrawing>): PromiseSettledResult<string> {
+-  return settled.status === "fulfilled"
+-    ? { status: "fulfilled", value: settled.value.glyphs }
+-    : settled
++// A SECTION THE SERVICE COULD NOT READ IS SAID TO HAVE FAILED. The drawing already knows what to
++// do with a reading that failed — keep the text the slot last had and say since when it has been
++// stale — so a null section is handed on as a rejection rather than as a blank.
++function sectionOf<Held>(said: Held | null | undefined): PromiseSettledResult<Held> {
++  return said === null || said === undefined
++    ? { status: "rejected", reason: new Error("the service read nothing for this section") }
++    : { status: "fulfilled", value: said }
+ }
+ 
+ function legendKept(
+-  settled: PromiseSettledResult<GroupDrawing>,
++  said: StatusBarStoplights | null,
+   held: string | undefined
+ ): string | undefined {
+-  if (settled.status !== "fulfilled" || settled.value.legend === "") {
++  if (said === null || said.legend === "") {
+     return held
+   }
+-  return settled.value.legend
++  return said.legend
+ }
+ 
+ export async function activate(context: vscode.ExtensionContext): Promise<undefined> {
+   output = vscode.window.createOutputChannel("Ops: Status Bar")
+   context.subscriptions.push(output)
+ 
+-  process.env.AKASHA_ROOT ??= path.join(os.homedir(), "repos", "akasha")
+-  nameTheStore()
+-
+   const items = SLOTS.map((slot) => {
+     const item = vscode.window.createStatusBarItem(
+       slot.id,
+@@ -88,25 +79,17 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
+ 
+   let legends: StoplightLegends = NO_LEGENDS
+ 
+-  const readOnce = async (trigger: string): Promise<undefined> => {
+-    const [inbox, upkeep, attributes, usage] = await duringOneCall(async () =>
+-      Promise.allSettled([
+-        drawGroup(INBOX_GROUP),
+-        drawGroup(UPKEEP_GROUP),
+-        drawGroup(ATTRIBUTES_GROUP),
+-        readUsage(),
+-      ])
+-    )
++  const draw = (held: StatusBarState, trigger: string): undefined => {
+     const outcomes: ReadOutcomes = {
+-      inbox: glyphsSettled(inbox),
+-      upkeep: glyphsSettled(upkeep),
+-      attributes: glyphsSettled(attributes),
+-      usage,
++      inbox: sectionOf(held.inbox?.glyphs),
++      upkeep: sectionOf(held.upkeep?.glyphs),
++      attributes: sectionOf(held.attributes?.glyphs),
++      usage: sectionOf<UsageReading>(held.usage),
+     }
+     legends = {
+-      inbox: legendKept(inbox, legends.inbox),
+-      upkeep: legendKept(upkeep, legends.upkeep),
+-      attributes: legendKept(attributes, legends.attributes),
++      inbox: legendKept(held.inbox, legends.inbox),
++      upkeep: legendKept(held.upkeep, legends.upkeep),
++      attributes: legendKept(held.attributes, legends.attributes),
+     }
+     const reads = settleReads(outcomes, freshAts, Date.now())
+     applyToItems(items, reads, legends)
+@@ -120,31 +103,24 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
+     return undefined
+   }
+ 
+-  let reading: Promise<undefined> | undefined
+-
+-  const refresh = async (trigger: string): Promise<undefined> => {
+-    const inFlight = reading
+-    if (inFlight !== undefined) {
+-      output.appendLine(`[${trigger}] a read is already in flight — waiting for it`)
+-      await inFlight
++  // Asking for the file again answers a click at once rather than waiting to be told.
++  // A file the service has not written leaves the strip as it is.
++  const refresh = (trigger: string): undefined => {
++    const held = readState<StatusBarState>(stateAt(akashaRoot(), SLUG))
++    if (held === null) {
+       return undefined
+     }
+-    const started = readOnce(trigger)
+-    reading = started
+-    try {
+-      await started
+-    } finally {
+-      reading = undefined
+-    }
+-    return undefined
++    return draw(held, trigger)
+   }
+ 
+-  await refresh("activate")
+-
+-  const timer = setInterval(() => void refresh("poll"), POLL_INTERVAL_MS)
+-  context.subscriptions.push({ dispose: () => clearInterval(timer) })
++  const reading = followState<StatusBarState>(akashaRoot(), SLUG, (held) => draw(held, "status"))
+ 
+   context.subscriptions.push(
++    {
++      dispose: () => {
++        reading.stop()
++      },
++    },
+     vscode.commands.registerCommand("opsStatusBar.refreshNow", () => refresh("manual"))
+   )
+   return undefined
+@@ -165,10 +141,10 @@ function logRefresh(trigger: string, outcomes: ReadOutcomes): undefined {
+     failures.push(`usage: ${String(outcomes.usage.reason)}`)
+   }
+   if (failures.length === 0) {
+-    output.appendLine(`[${trigger}] refreshed`)
++    output.appendLine(`[${trigger}] drawn`)
+     recordObservation(FEATURE, { outcome: "ok", counts: { failedReads: 0 } })
+   } else {
+-    output.appendLine(`[${trigger}] partial refresh — ${failures.join("; ")}`)
++    output.appendLine(`[${trigger}] partly drawn — ${failures.join("; ")}`)
+     recordObservation(FEATURE, {
+       outcome: "failed",
+       failure: failures.join("; "),
+diff --git a/editor-extension/status-bar-panel/status-bar-panel.module.ts b/editor-extension/status-bar-panel/status-bar-panel.module.ts
+index 8233ae0313e220932fa6eec980f3295fb1c0ace1..4e1776bfa9b59a305c9fff57e77aff1b95326c1a 100644
+--- a/editor-extension/status-bar-panel/status-bar-panel.module.ts
++++ b/editor-extension/status-bar-panel/status-bar-panel.module.ts
+@@ -4,7 +4,7 @@ export const statusBarPanel = {
+   id: "01a06816-69fa-7001-a0ca-bd4a904571ee",
+   pageTypeSlug: "module",
+   slug: "status-bar-panel",
+-  definition: "the strip of readings Alan keeps in view, refreshed on a poll and on a click",
++  definition: "the strip of readings Alan keeps in view, drawn from one file and on a click",
+   code: "ts",
+   invariants: [
+     {
+@@ -17,43 +17,51 @@ export const statusBarPanel = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The checkout root is named before any group is drawn.",
++      statement: "The readings are read from the file the service writes rather than taken here.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The four readings are taken within one call.",
++      statement: "The strip draws again when that file is written and at no other time.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One read runs at a time.",
++      statement: "A file the service has not written leaves the strip as that strip is.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A trigger arriving mid-read waits for the read in flight.",
++      statement: "A section the file says nothing for is drawn as a reading that failed.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A click answers with the reading in hand rather than taking the reading again.",
++      statement: "A click reads the file again rather than waiting to be told it moved.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A group that would not answer keeps the labels the group last named.",
++      statement: "A section the file says nothing for keeps the labels that section last named.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A group answering an empty legend keeps the labels the group last named.",
++      statement: "A section carrying an empty legend keeps the labels that section last named.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The glyph row is read off the group's drawing.",
++      statement: "The glyph row is read off the section the file carries.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A refresh says which readings failed.",
++      statement: "A drawing says which readings the file carried nothing for.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The refresh's outcome is recorded as an observation.",
++      statement: "Every drawing's outcome is recorded as an observation.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No timer starts a drawing.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads a stoplight or a usage figure.",
+     },
+   ],
+ } as const satisfies Module
