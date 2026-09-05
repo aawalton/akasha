@@ -10,7 +10,7 @@ export const categorySource = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A source that is not Monarch holds against what Monarch reports.",
+      statement: "A source that is not Monarch holds against the category Monarch reports.",
     },
     {
       invariantKind: "departure",
