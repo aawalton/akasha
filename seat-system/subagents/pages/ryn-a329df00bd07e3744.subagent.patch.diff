@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/migration-system/landing/migration-landing.module.ts b/migration-system/landing/migration-landing.module.ts
+index af0f138b905d3779cbf0a6b53ce8e697176d2efa..6605ebfda25fe2b5d5c3c876de2fae84b301f266 100644
+--- a/migration-system/landing/migration-landing.module.ts
++++ b/migration-system/landing/migration-landing.module.ts
+@@ -18,7 +18,7 @@ export const migrationLanding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A migration states what the migration is of.",
++      statement: "A migration states the folder the migration is of.",
+     },
+     {
+       invariantKind: "departure",
