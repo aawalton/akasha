@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/readout-system/readout-system.workspace-package.ts b/readout-system/readout-system.workspace-package.ts
+index 587e921a275260e426a99c9b5916a80c3ad4498a..25ac7445b9efb799ea1ae6fd14d206b561315ce7 100644
+--- a/readout-system/readout-system.workspace-package.ts
++++ b/readout-system/readout-system.workspace-package.ts
+@@ -86,7 +86,7 @@ export const readoutSystem = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "What a readout's reader wants from that readout costs one glance.",
++      statement: "The reading a readout's reader wants from that readout costs one glance.",
+     },
+     {
+       invariantKind: "gap",
