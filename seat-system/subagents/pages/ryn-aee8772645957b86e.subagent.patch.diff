@@ -1,0 +1,13 @@
+diff --git a/great-courses/catalogue-syncing/catalogue-syncing.module.ts b/great-courses/catalogue-syncing/catalogue-syncing.module.ts
+index f86a14148208e28da94a95ed1ad90db706952a60..1e0e3d1b305bb9bff546ee4ae9a3a49faae8c527 100644
+--- a/great-courses/catalogue-syncing/catalogue-syncing.module.ts
++++ b/great-courses/catalogue-syncing/catalogue-syncing.module.ts
+@@ -18,7 +18,7 @@ export const catalogueSyncing = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A course sits on the All Great Courses shelf and on the shelf of every subject naming it.",
++        "A course sits on the All Great Courses shelf and on the shelf of every subject naming that course.",
+     },
+     {
+       invariantKind: "departure",
