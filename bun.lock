@@ -907,6 +907,82 @@
         "zod": "^4.3.6",
       },
     },
+    "inference/clients": {
+      "name": "@akasha/inference-clients",
+      "dependencies": {
+        "@akasha/comfy": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
+    "inference/comfy": {
+      "name": "@akasha/comfy",
+    },
+    "inference/commands": {
+      "name": "@akasha/inference-commands",
+      "dependencies": {
+        "@akasha/command-system": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
+        "@akasha/inference-clients": "workspace:*",
+        "@akasha/inference-pool": "workspace:*",
+        "@akasha/inference-runs": "workspace:*",
+        "@akasha/pages": "workspace:*",
+        "@akasha/upscale": "workspace:*",
+      },
+    },
+    "inference/generations/upscale": {
+      "name": "@akasha/upscale",
+      "dependencies": {
+        "@akasha/cluster-api": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
+        "@akasha/k8s-types": "workspace:*",
+        "@akasha/object-store": "workspace:*",
+        "@akasha/pages": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
+    "inference/generations/wan": {
+      "name": "@akasha/wan",
+      "dependencies": {
+        "@akasha/comfy": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
+    "inference/generations/zimage": {
+      "name": "@akasha/zimage",
+      "dependencies": {
+        "@akasha/comfy": "workspace:*",
+      },
+    },
+    "inference/pool": {
+      "name": "@akasha/inference-pool",
+      "dependencies": {
+        "@akasha/errors-core": "workspace:*",
+        "@akasha/utils-fs": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "@akasha/workflow-language": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
+    "inference/runs": {
+      "name": "@akasha/inference-runs",
+      "dependencies": {
+        "@akasha/errors-core": "workspace:*",
+        "@akasha/object-store": "workspace:*",
+        "@akasha/pages-access": "workspace:*",
+        "@akasha/pages-url": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
+    "inference/voice-inference": {
+      "name": "@akasha/voice-inference",
+      "dependencies": {
+        "@akasha/k8s-types": "workspace:*",
+      },
+    },
     "infrastructure/analysis-complexity": {
       "name": "@akasha/analysis-complexity",
       "dependencies": {
@@ -962,9 +1038,6 @@
         "zod": "^4.3.6",
       },
     },
-    "infrastructure/comfy": {
-      "name": "@akasha/comfy",
-    },
     "infrastructure/dockerfiles": {
       "name": "@akasha/dockerfiles",
       "dependencies": {
@@ -978,47 +1051,6 @@
       "dependencies": {
         "@akasha/code-system": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
-      },
-    },
-    "infrastructure/inference-clients": {
-      "name": "@akasha/inference-clients",
-      "dependencies": {
-        "@akasha/comfy": "workspace:*",
-        "@akasha/errors-core": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "infrastructure/inference-commands": {
-      "name": "@akasha/inference-commands",
-      "dependencies": {
-        "@akasha/command-system": "workspace:*",
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/inference-clients": "workspace:*",
-        "@akasha/inference-pool": "workspace:*",
-        "@akasha/inference-runs": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/upscale": "workspace:*",
-      },
-    },
-    "infrastructure/inference-pool": {
-      "name": "@akasha/inference-pool",
-      "dependencies": {
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/utils-fs": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "@akasha/workflow-language": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "infrastructure/inference-runs": {
-      "name": "@akasha/inference-runs",
-      "dependencies": {
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/object-store": "workspace:*",
-        "@akasha/pages-access": "workspace:*",
-        "@akasha/pages-url": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "zod": "^4.3.6",
       },
     },
     "infrastructure/infrastructure-commands": {
@@ -1060,38 +1092,6 @@
       "name": "@akasha/seaweedfs",
       "dependencies": {
         "@akasha/k8s-types": "workspace:*",
-      },
-    },
-    "infrastructure/upscale": {
-      "name": "@akasha/upscale",
-      "dependencies": {
-        "@akasha/cluster-api": "workspace:*",
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/k8s-types": "workspace:*",
-        "@akasha/object-store": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "infrastructure/voice-inference": {
-      "name": "@akasha/voice-inference",
-      "dependencies": {
-        "@akasha/k8s-types": "workspace:*",
-      },
-    },
-    "infrastructure/wan": {
-      "name": "@akasha/wan",
-      "dependencies": {
-        "@akasha/comfy": "workspace:*",
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "infrastructure/zimage": {
-      "name": "@akasha/zimage",
-      "dependencies": {
-        "@akasha/comfy": "workspace:*",
       },
     },
     "language-design/lua-compiler": {
@@ -2987,7 +2987,7 @@
 
     "@akasha/code-system": ["@akasha/code-system@workspace:code-system"],
 
-    "@akasha/comfy": ["@akasha/comfy@workspace:infrastructure/comfy"],
+    "@akasha/comfy": ["@akasha/comfy@workspace:inference/comfy"],
 
     "@akasha/command-system": ["@akasha/command-system@workspace:command-system"],
 
@@ -3073,13 +3073,13 @@
 
     "@akasha/indexes": ["@akasha/indexes@workspace:pages/indexes"],
 
-    "@akasha/inference-clients": ["@akasha/inference-clients@workspace:infrastructure/inference-clients"],
+    "@akasha/inference-clients": ["@akasha/inference-clients@workspace:inference/clients"],
 
-    "@akasha/inference-commands": ["@akasha/inference-commands@workspace:infrastructure/inference-commands"],
+    "@akasha/inference-commands": ["@akasha/inference-commands@workspace:inference/commands"],
 
-    "@akasha/inference-pool": ["@akasha/inference-pool@workspace:infrastructure/inference-pool"],
+    "@akasha/inference-pool": ["@akasha/inference-pool@workspace:inference/pool"],
 
-    "@akasha/inference-runs": ["@akasha/inference-runs@workspace:infrastructure/inference-runs"],
+    "@akasha/inference-runs": ["@akasha/inference-runs@workspace:inference/runs"],
 
     "@akasha/infrastructure-commands": ["@akasha/infrastructure-commands@workspace:infrastructure/infrastructure-commands"],
 
@@ -3477,7 +3477,7 @@
 
     "@akasha/testing-system": ["@akasha/testing-system@workspace:testing-system"],
 
-    "@akasha/upscale": ["@akasha/upscale@workspace:infrastructure/upscale"],
+    "@akasha/upscale": ["@akasha/upscale@workspace:inference/generations/upscale"],
 
     "@akasha/utils-fs": ["@akasha/utils-fs@workspace:utils-fs"],
 
@@ -3495,9 +3495,9 @@
 
     "@akasha/voice-core": ["@akasha/voice-core@workspace:voice-core"],
 
-    "@akasha/voice-inference": ["@akasha/voice-inference@workspace:infrastructure/voice-inference"],
+    "@akasha/voice-inference": ["@akasha/voice-inference@workspace:inference/voice-inference"],
 
-    "@akasha/wan": ["@akasha/wan@workspace:infrastructure/wan"],
+    "@akasha/wan": ["@akasha/wan@workspace:inference/generations/wan"],
 
     "@akasha/web-build-version": ["@akasha/web-build-version@workspace:version/web-build"],
 
@@ -3511,7 +3511,7 @@
 
     "@akasha/workspace-paths": ["@akasha/workspace-paths@workspace:workspace-paths"],
 
-    "@akasha/zimage": ["@akasha/zimage@workspace:infrastructure/zimage"],
+    "@akasha/zimage": ["@akasha/zimage@workspace:inference/generations/zimage"],
 
     "@alanwalton/atlas-native-shell": ["@alanwalton/atlas-native-shell@workspace:code-system/ios-apps/pages/atlas"],
 

@@ -27,7 +27,7 @@ const SERVICES: readonly (readonly [string, string | null])[] = [
 
 const GLOBBED: readonly string[] = [
   "infrastructure/cluster-manifests/one-synth/one-synth.module.code.ts",
-  "infrastructure/upscale/two-synth/two-synth.module.code.ts",
+  "inference/generations/upscale/two-synth/two-synth.module.code.ts",
 ]
 
 let root = ""
@@ -78,7 +78,7 @@ test("the code file of the manifest a cluster service is applied as is found", (
 
 test("a file the globs match is found still", () => {
   expect(found()).toContain("infrastructure/cluster-manifests/one-synth/one-synth.module.code.ts")
-  expect(found()).toContain("infrastructure/upscale/two-synth/two-synth.module.code.ts")
+  expect(found()).toContain("inference/generations/upscale/two-synth/two-synth.module.code.ts")
 })
 
 test("a path reached through a `src` folder is left out", () => {

@@ -3,7 +3,7 @@ import { valuesOfType } from "@akasha/indexes"
 
 export const DISCOVERY_GLOBS: readonly string[] = [
   "infrastructure/cluster-manifests/*-synth/*-synth.module.code.ts",
-  "infrastructure/upscale/*-synth/*-synth.module.code.ts",
+  "inference/generations/upscale/*-synth/*-synth.module.code.ts",
 ]
 
 const CLUSTER_SERVICE = "cluster-service"
