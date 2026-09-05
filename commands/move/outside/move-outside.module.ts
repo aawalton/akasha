@@ -38,7 +38,8 @@ export const moveOutside = {
     },
     {
       invariantKind: "departure",
-      statement: "The longest path that moved and covers a resolved path is the one it follows.",
+      statement:
+        "The longest path that moved and covers a resolved path is the one that resolved path follows.",
     },
     {
       invariantKind: "departure",
