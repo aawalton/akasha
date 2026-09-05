@@ -52,11 +52,12 @@ export const claudeAccountCredentialPush = {
     },
     {
       invariantKind: "departure",
-      statement: "What landed is read back through sops and weighed against what was handed in.",
+      statement:
+        "The file that landed is read back through sops and weighed against the pair handed in.",
     },
     {
       invariantKind: "departure",
-      statement: "A sops file reading back as other than what was handed in is refused.",
+      statement: "A sops file reading back as other than the pair handed in is refused.",
     },
     {
       invariantKind: "departure",
