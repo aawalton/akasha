@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/calling/calling.module.ts b/command-system/calling/calling.module.ts
+index 0ca96246e4bd0ec6014a583e9daa5c14da0516b4..e368a5c72dd15d86d2a6a07afd5d6ffbf7594b80 100644
+--- a/command-system/calling/calling.module.ts
++++ b/command-system/calling/calling.module.ts
+@@ -75,7 +75,7 @@ export const calling = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the commands there are is read only where a name was not answered.",
++      statement: "The whole list of commands is read only where a name was not answered.",
+     },
+     {
+       invariantKind: "departure",
