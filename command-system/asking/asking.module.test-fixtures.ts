@@ -77,9 +77,13 @@ export function repoWith(
   return repoAt(scratch.rootFor("akasha-asking-"), named)
 }
 
+export function checksBroken(root: string): undefined {
+  rmSync(join(root, UNLOADABLE_AT))
+}
+
 export function repoNoCheckLoads(): string {
   const root = repoWith()
-  rmSync(join(root, UNLOADABLE_AT))
+  checksBroken(root)
   return root
 }
 

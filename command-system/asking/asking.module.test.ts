@@ -9,12 +9,15 @@ import { write } from "../../commands/write/write.command.code.ts"
 import { baseOf as headOf } from "../landing/landing.module.code.ts"
 import { landedMechanically, landingAsked, NO_CHECKS } from "./asking.module.code.ts"
 import {
+  applied,
   asking,
   BROKEN,
   blocked,
   bodyIn,
   checking,
+  checksBroken,
   commitIn,
+  drafting,
   git,
   givenIn,
   LOOSE,
@@ -109,9 +112,17 @@ test("checks that will not load refuse the change, and nothing reaches the disk"
   expect(headOf(root)).toBe(was)
 })
 
-test("the glass carries a change past checks that will not load, and the commit says why", async () => {
-  const root = repoNoCheckLoads()
-  const said = await wrote(root, ["--message", "held", "--break-the-glass", "mid-refactor"])
+test("the glass carries a patch past checks that stopped loading, and the commit says why", async () => {
+  const root = repoWith()
+  const drafted = await drafting(root, ["--message", "held"])
+  expect(drafted.code).toBe(0)
+  checksBroken(root)
+  const said = await applied(root, drafted, [
+    "--message",
+    "held",
+    "--break-the-glass",
+    "mid-refactor",
+  ])
   expect(said.code).toBe(0)
   expect(said.report).toContain("landed akasha/two.ts")
   const body = commitIn(root, said)
