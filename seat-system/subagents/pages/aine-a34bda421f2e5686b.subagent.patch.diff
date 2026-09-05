@@ -25,7 +25,7 @@ index 8cd14558b79a9adf9dd3c21852fe1d6d238176c2..9408175b57d80ae7d1594ada7a97c31d
      {
        invariantKind: "absence",
 diff --git a/code-system/code-specifier/code-specifier.module.test.ts b/code-system/code-specifier/code-specifier.module.test.ts
-index 103602d2450599c022331de5343c0381f500f4b7..e6dffc0c4412aafdf323dc553f9f4d341bcd68b2 100644
+index 103602d2450599c022331de5343c0381f500f4b7..eae591902ba7e5ed78ea9706ca83e1c352e84c15 100644
 --- a/code-system/code-specifier/code-specifier.module.test.ts
 +++ b/code-system/code-specifier/code-specifier.module.test.ts
 @@ -26,7 +26,7 @@ test("a string that names no module is passed over", () => {
@@ -37,8 +37,17 @@ index 103602d2450599c022331de5343c0381f500f4b7..e6dffc0c4412aafdf323dc553f9f4d34
    const body =
      'import { one } from "./one.ts"\n' +
      "async function two(): Promise<unknown> {\n" +
+@@ -36,7 +36,7 @@ test("what is read stands in the order it is written, however deep it sits", ()
+   expect(specifiersIn(AT, body)).toEqual(["./one.ts", "./two.ts", "./three.ts"])
+ })
+ 
+-test("a specifier carries where it stands, so it can be written over in place", () => {
++test("a specifier carries where it is, so it can be written over in place", () => {
+   const body = 'import { one } from "./one.ts"\n'
+   const found = placedIn(AT, body)
+   expect(found).toHaveLength(1)
 diff --git a/code-system/code-specifier/code-specifier.module.ts b/code-system/code-specifier/code-specifier.module.ts
-index efe2806c7da22883b6fec7b4d0296d667aae0906..c1d913205d4be0c21d4eedf36baa690efe1d76ce 100644
+index efe2806c7da22883b6fec7b4d0296d667aae0906..d53cf19b9a93ce969597d2ef4e410f3794d77202 100644
 --- a/code-system/code-specifier/code-specifier.module.ts
 +++ b/code-system/code-specifier/code-specifier.module.ts
 @@ -26,7 +26,7 @@ export const codeSpecifier = {
@@ -47,6 +56,15 @@ index efe2806c7da22883b6fec7b4d0296d667aae0906..c1d913205d4be0c21d4eedf36baa690e
        invariantKind: "departure",
 -      statement: "A specifier is answered with where the specifier stands.",
 +      statement: "A specifier is answered with where the specifier is.",
+     },
+     {
+       invariantKind: "departure",
+@@ -83,7 +83,7 @@ export const codeSpecifier = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A specifier is what the source says whether or not the file it names stands.",
++      statement: "A specifier is what the source says whether or not the file it names is there.",
      },
      {
        invariantKind: "departure",
@@ -64,7 +82,7 @@ index ecce5d47e3aab828575633c8b188d90e51287747..4214d221590dd1002d6e1e367789e484
    expect(held.get("one")).toBe("akasha/one/a.ts")
  })
 diff --git a/code-system/package-manifest/package-manifest.module.ts b/code-system/package-manifest/package-manifest.module.ts
-index 2fff9740ae04ab7a0f2d4f2803767c718447ba3e..bbbc72f286fff75a9967a958713161ff9a571135 100644
+index 2fff9740ae04ab7a0f2d4f2803767c718447ba3e..2bfe41b655f32a08689d96c435c4722495fc43f2 100644
 --- a/code-system/package-manifest/package-manifest.module.ts
 +++ b/code-system/package-manifest/package-manifest.module.ts
 @@ -26,7 +26,7 @@ export const packageManifest = {
@@ -76,3 +94,12 @@ index 2fff9740ae04ab7a0f2d4f2803767c718447ba3e..bbbc72f286fff75a9967a958713161ff
      },
      {
        invariantKind: "departure",
+@@ -56,7 +56,7 @@ export const packageManifest = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Whether the file a way in names stands is not judged here.",
++      statement: "Whether the file a way in names is there is not judged here.",
+     },
+     {
+       invariantKind: "absence",
