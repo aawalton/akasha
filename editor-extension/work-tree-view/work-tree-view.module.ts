@@ -25,7 +25,8 @@ export const workTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row is identified apart while a filter is there, so the editor redraws it.",
+      statement:
+        "A row is identified apart while a filter is there, so the editor redraws that row.",
     },
     {
       invariantKind: "departure",
@@ -50,7 +51,7 @@ export const workTreeView = {
     {
       invariantKind: "departure",
       statement:
-        "A row opening no document says in its tooltip that it represents nothing declared.",
+        "A row opening no document says in its tooltip that the row represents nothing declared.",
     },
     {
       invariantKind: "absence",
