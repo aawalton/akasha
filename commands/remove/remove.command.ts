@@ -105,7 +105,8 @@ export const remove = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder at the top of the repository is refused unless it holds nothing.",
+      statement:
+        "A folder at the top of the repository is refused unless that folder holds nothing.",
     },
     {
       invariantKind: "absence",
@@ -155,7 +156,7 @@ export const remove = {
     },
     {
       invariantKind: "departure",
-      statement: "A path is named behind `--file-path` like `write` and `edit` name theirs.",
+      statement: "A path is named behind `--file-path` like `write` and `edit` name their paths.",
     },
     {
       invariantKind: "departure",
