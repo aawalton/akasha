@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/agents/models/gateway/modules/account-walk/account-walk.module.ts b/agents/models/gateway/modules/account-walk/account-walk.module.ts
+index 30be1db34c40ed32e635ce53f30698f864c68319..901bc170f4783b0f3da53f673787162f93da7d5b 100644
+--- a/agents/models/gateway/modules/account-walk/account-walk.module.ts
++++ b/agents/models/gateway/modules/account-walk/account-walk.module.ts
+@@ -212,7 +212,7 @@ export const accountWalk = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "A caller hands in each act that changes what an account is allowed.",
++      statement: "A caller hands in each act that changes an account's allowance.",
+     },
+     {
+       invariantKind: "absence",
