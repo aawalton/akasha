@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/service-system/cluster-services/cluster-api-reaching/cluster-api-reaching.module.ts b/service-system/cluster-services/cluster-api-reaching/cluster-api-reaching.module.ts
-index 3f8b12d474ab18afa788ff2f94de2166c78847fa..7a7fe07b8f69454f05226ac4f4f2a92ef8716715 100644
+index 3f8b12d474ab18afa788ff2f94de2166c78847fa..48e2d0e97fbe4237052a2247961483a7d2785fa0 100644
 --- a/service-system/cluster-services/cluster-api-reaching/cluster-api-reaching.module.ts
 +++ b/service-system/cluster-services/cluster-api-reaching/cluster-api-reaching.module.ts
 @@ -13,7 +13,7 @@ export const clusterApiReaching = {
@@ -9,6 +9,15 @@ index 3f8b12d474ab18afa788ff2f94de2166c78847fa..7a7fe07b8f69454f05226ac4f4f2a92e
        invariantKind: "departure",
 -      statement: "An environment missing what a reach needs is a caller's mistake.",
 +      statement: "An environment missing a value a reach needs is a caller's mistake.",
+     },
+     {
+       invariantKind: "departure",
+@@ -21,7 +21,7 @@ export const clusterApiReaching = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the environment gave is held for the life of the process.",
++      statement: "The values the environment gave are held for the life of the process.",
      },
      {
        invariantKind: "departure",
