@@ -9,7 +9,8 @@ export const searchHelp = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The help states the ceilings by reading them off the module that holds them.",
+      statement:
+        "The help states the ceilings by reading those ceilings off the module that holds those ceilings.",
     },
     {
       invariantKind: "departure",
