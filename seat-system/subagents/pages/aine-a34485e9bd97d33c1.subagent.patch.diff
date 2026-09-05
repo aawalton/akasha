@@ -12,7 +12,7 @@ index 8459242791e13c193ad8ccd0f734be911fd503a7..6345264e5629628b4b2e95534200bf73
      {
        invariantKind: "gap",
 diff --git a/alan/fitness/coaching-constraints/coaching-constraint.page-type.ts b/alan/fitness/coaching-constraints/coaching-constraint.page-type.ts
-index 95093733610eeacc68c8cfcf3a57209b06258cb3..6ce78a98a508192d18ac0e967845f87f21c6be58 100644
+index 95093733610eeacc68c8cfcf3a57209b06258cb3..39a5682696b8c87cd96a9b300ae980447680b22c 100644
 --- a/alan/fitness/coaching-constraints/coaching-constraint.page-type.ts
 +++ b/alan/fitness/coaching-constraints/coaching-constraint.page-type.ts
 @@ -20,7 +20,7 @@ export const coachingConstraint = {
@@ -24,6 +24,16 @@ index 95093733610eeacc68c8cfcf3a57209b06258cb3..6ce78a98a508192d18ac0e967845f87f
    pluralSlug: "coaching-constraints",
    extendsSlug: ["page-type/page"],
    partSlugs: [
+@@ -41,8 +41,7 @@ export const coachingConstraint = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "What a constraint asks for stands in its own file rather than in a value beside it.",
++      statement: "What a constraint asks for is in its own file rather than in a value beside it.",
+     },
+   ],
+ } as const satisfies PageType
 diff --git a/alan/fitness/equipment-items/properties/equipment-loads.number-property.ts b/alan/fitness/equipment-items/properties/equipment-loads.number-property.ts
 index 3445e49af272c24b463b24cdb0cfa217819f5c2c..fad79b86a115b2950ea48576794f472c000fe5af 100644
 --- a/alan/fitness/equipment-items/properties/equipment-loads.number-property.ts
