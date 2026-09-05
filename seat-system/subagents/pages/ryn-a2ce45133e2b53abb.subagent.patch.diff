@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-lib-treasure/treasure-pins-data-02/treasure-pins-data-02.module.ts b/temper/temper-lib-treasure/treasure-pins-data-02/treasure-pins-data-02.module.ts
+index abe80fe42a4efe461cba60879b3fc9d2b3b768a6..8f4e9f4ebc8b476145211b22721fcc7c3bb4219f 100644
+--- a/temper/temper-lib-treasure/treasure-pins-data-02/treasure-pins-data-02.module.ts
++++ b/temper/temper-lib-treasure/treasure-pins-data-02/treasure-pins-data-02.module.ts
+@@ -9,7 +9,7 @@ export const treasurePinsData02 = {
+   invariants: [
+     {
+       invariantKind: "constraint",
+-      statement: "These rows are what upstream LibTreasure v24 states.",
++      statement: "These rows are the rows upstream LibTreasure v24 states.",
+     },
+   ],
+ } as const satisfies Module
