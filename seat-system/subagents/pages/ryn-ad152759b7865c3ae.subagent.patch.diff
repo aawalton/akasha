@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts b/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts
-index 89bfe6f52026abbd77047f9b38ffa87d8df757f3..f5e6d02ccdbb994b09690c4a2967c3b2117fd217 100644
+index 89bfe6f52026abbd77047f9b38ffa87d8df757f3..2b4151c54a3194d68e0b50cc500ca7c053fe978e 100644
 --- a/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts
 +++ b/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts
 @@ -38,7 +38,7 @@ export const postReceiveMirror = {
@@ -9,6 +9,16 @@ index 89bfe6f52026abbd77047f9b38ffa87d8df757f3..f5e6d02ccdbb994b09690c4a2967c3b2
        invariantKind: "departure",
 -      statement: "A history copy pushes every branch and tag as they are.",
 +      statement: "A history copy pushes every branch and tag as those branches and tags are.",
+     },
+     {
+       invariantKind: "departure",
+@@ -50,7 +50,8 @@ export const postReceiveMirror = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A push with no ceiling would outlive the reason for it, so it carries one.",
++      statement:
++        "A push with no ceiling would outlive the reason for that push, so that push carries one.",
      },
      {
        invariantKind: "departure",
