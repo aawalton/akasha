@@ -78,3 +78,19 @@ index 0b0f033d5be5876fc28a5ec9c8698620db052a99..c5462f5bd2491e861b2b9d46e3d506fc
      {
        invariantKind: "absence",
        statement: "Nothing here caches a reading or decides when a reading is taken.",
+diff --git a/readout-system/readouts/pages/attribute-wisdom/attribute-wisdom.readout.ts b/readout-system/readouts/pages/attribute-wisdom/attribute-wisdom.readout.ts
+index cd4906085276fa6a7739ff2e54517bc67b43d781..34a734af39264b7e52ffaa098d285fa0203afac4 100644
+--- a/readout-system/readouts/pages/attribute-wisdom/attribute-wisdom.readout.ts
++++ b/readout-system/readouts/pages/attribute-wisdom/attribute-wisdom.readout.ts
+@@ -35,10 +35,7 @@ export const attributeWisdom = {
+       invariantKind: "departure",
+       statement: "A day carrying no words is no reading rather than a wisdom of zero.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A store that refuses is a fault rather than a reading of nothing.",
+-    },
++
+     {
+       invariantKind: "stopgap",
+       statement: "Nothing writes those words onto a day yet.",
