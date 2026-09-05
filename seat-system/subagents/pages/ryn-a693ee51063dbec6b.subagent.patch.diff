@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/editor-extension/activation/activation.module.ts b/editor-extension/activation/activation.module.ts
+index d3220154494e232ca259087c206b138381208a8e..0324bfd3fd2e6b16c7db706e2fac73b6d317daa7 100644
+--- a/editor-extension/activation/activation.module.ts
++++ b/editor-extension/activation/activation.module.ts
+@@ -53,7 +53,7 @@ export const activation = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows what a start does.",
++      statement: "Nothing here knows the work a start does.",
+     },
+     {
+       invariantKind: "absence",
