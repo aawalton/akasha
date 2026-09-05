@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-resolve/seat-resolve.module.ts b/seat-system/seat-resolve/seat-resolve.module.ts
+index fa5a3972e1a88994f02a0e7f760762c9946a94de..735dfcaceda865e6d4d74735cb5b383b0c3485b7 100644
+--- a/seat-system/seat-resolve/seat-resolve.module.ts
++++ b/seat-system/seat-resolve/seat-resolve.module.ts
+@@ -21,7 +21,7 @@ export const seatResolve = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a slot defaults to is read from the seat page type in akasha.",
++      statement: "The default a slot takes is read from the seat page type in akasha.",
+     },
+     {
+       invariantKind: "departure",
