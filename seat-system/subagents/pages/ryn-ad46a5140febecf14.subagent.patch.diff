@@ -1,5 +1,5 @@
 diff --git a/seat-system/supervising/memory-reaping/memory-reaping.module.ts b/seat-system/supervising/memory-reaping/memory-reaping.module.ts
-index 6d7d9865f0e4c17c5660f2440822e3878389ceb8..d156e72e7c35fdeca11a0a4d7f2e900e3535959c 100644
+index 6d7d9865f0e4c17c5660f2440822e3878389ceb8..ac9cf5198c68feb933effe3fa9f7f15bb3a02f98 100644
 --- a/seat-system/supervising/memory-reaping/memory-reaping.module.ts
 +++ b/seat-system/supervising/memory-reaping/memory-reaping.module.ts
 @@ -9,7 +9,7 @@ export const memoryReaping = {
@@ -8,6 +8,15 @@ index 6d7d9865f0e4c17c5660f2440822e3878389ceb8..d156e72e7c35fdeca11a0a4d7f2e900e
        invariantKind: "departure",
 -      statement: "It sits outside the fleet it polices.",
 +      statement: "The reaper sits outside the fleet that reaper polices.",
+     },
+     {
+       invariantKind: "departure",
+@@ -33,7 +33,7 @@ export const memoryReaping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What it is configured with is stated when it starts.",
++      statement: "What the reaper is configured with is stated when that reaper starts.",
      },
      {
        invariantKind: "departure",
