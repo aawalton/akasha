@@ -14,3 +14,19 @@ index aba8c0d4ccbf40671de11c332bbb47869c14790d..3f202d4a0f03e7195fbc3f37bb6aaf49
      {
        invariantKind: "departure",
        statement: "The same reading covers one change and the whole tree.",
+diff --git a/checks/code-checks/pages/tests-pass/tests-pass.code-check.ts b/checks/code-checks/pages/tests-pass/tests-pass.code-check.ts
+index 7b5e6dfa2e3b1a94953d286906be93dd018857b8..ff241dc0462c70e2cf33ea32e543a3e536644834 100644
+--- a/checks/code-checks/pages/tests-pass/tests-pass.code-check.ts
++++ b/checks/code-checks/pages/tests-pass/tests-pass.code-check.ts
+@@ -17,10 +17,7 @@ export const testsPass = {
+       statement:
+         "The tests a change is judged by are the ones standing beside the files the change carries.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "Audit is handed every file.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement:
