@@ -313,23 +313,6 @@ index 0000000000000000000000000000000000000000..72e32aa14b3270d27282525ddae60aac
 +    { name: "service", yaml: serviceYaml() },
 +  ]
 +}
-diff --git a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
-index deff7c1b5c30589e88d0d2b10382f5721886d3e3..55d894ee45a4126b58223e7b4ddb8b309bd77f5e 100644
---- a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
-@@ -649,8 +649,12 @@ index 9933382daf77c910171ce7ae18b5ed4a328b79b0..00ba9c2f0fd810379231ab64eb47fda0
-    replicas: 1,
-    containerPort: 3000,
- -  manifestCode:
-+<<<<<<< what this change would leave
-+-    "infrastructure/telemetry/grafana/grafana.manifest.code.ts",
-+=======
- -    "service-system/cluster-services/pages/grafana/grafana.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "grafana",
- +=======
- +  manifestCode: "infrastructure/telemetry/grafana/grafana.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/grafana/grafana.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/grafana/grafana.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 72e32aa14b3270d27282525ddae60aacf88d71ec..0000000000000000000000000000000000000000
