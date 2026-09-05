@@ -1,0 +1,13 @@
+diff --git a/pages/value/page-value.module.ts b/pages/value/page-value.module.ts
+index a10428bb43c3d9434f2b4b408a6fa8df8420495e..f874c269129b945227162de298880958b9079beb 100644
+--- a/pages/value/page-value.module.ts
++++ b/pages/value/page-value.module.ts
+@@ -30,7 +30,7 @@ export const pageValue = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A key is read as the type it is asked for or as nothing.",
++      statement: "A key is read as the type that key is asked for or as nothing.",
+     },
+     {
+       invariantKind: "departure",
