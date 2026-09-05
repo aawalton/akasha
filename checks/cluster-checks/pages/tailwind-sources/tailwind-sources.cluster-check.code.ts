@@ -67,7 +67,7 @@ const bodyAt = (reading: TreeReading, path: string, kind: string): string => {
   const body = reading.read(path)
   if (body === null) {
     throw new Error(
-      `${path} stands as a ${kind} in the tree this run read and that tree holds no body for it, so whether it belongs in this population cannot be answered`
+      `${path} is a ${kind} in the tree this run read and that tree holds no body for it, so whether it belongs in this population cannot be answered`
     )
   }
   return body

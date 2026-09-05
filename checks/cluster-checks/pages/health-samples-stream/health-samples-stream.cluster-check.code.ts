@@ -44,7 +44,7 @@ function main(): undefined {
       population,
       prefix: "[health-samples-stream]",
       header: "The health-sample stream must not silently lose samples",
-      successMessage: `${ALANWALTON_IOS_SEAM_SCRIPT} and its ${fileCount - 1} sourced parts: the anchor advances only on an acknowledged POST, no floor is persisted, the cursor-free backstop stands and is reached, and the one-shot state reset runs first.`,
+      successMessage: `${ALANWALTON_IOS_SEAM_SCRIPT} and its ${fileCount - 1} sourced parts: the anchor advances only on an acknowledged POST, no floor is persisted, the cursor-free backstop exists and is reached, and the one-shot state reset runs first.`,
       formatViolation: (v) => `${ALANWALTON_IOS_SEAM_SCRIPT} — ${v.rule}: ${v.message}`,
     },
   })

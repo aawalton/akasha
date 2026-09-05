@@ -70,7 +70,7 @@ const TEMPLATE_PATTERNS = [`${TEMPLATE_DIR}/**/*.ts`] as const
 const OWN_REPO_FROM_HERE = "../../../../.."
 
 const SEAM_RESTS_ON =
-  "the workflow templates standing in the instructions checkout named above. The substitution " +
+  "the workflow templates in the instructions checkout named above. The substitution " +
   "half of every pair moved there with the workflows, so a template this check does not read " +
   "makes it LOUDER — a stamped annotation is reported as unstamped — and a substitution site " +
   "anchored to the wrong manifest makes it QUIETER, pairing an emit that nothing stamps. The " +
@@ -135,7 +135,7 @@ function instructionsRootFrom(named: string | undefined): string {
   if (!existsSync(resolve(root, TEMPLATE_DIR))) {
     throw new Error(
       `instructionsRootFrom: ${root} holds no ${TEMPLATE_DIR}, so it is not a checkout of the ` +
-        "instructions repo. Every substitution site this check pairs against now stands there: " +
+        "instructions repo. Every substitution site this check pairs against now sits there: " +
         "pass --instructions-root, or set AKASHA_ROOT."
     )
   }
@@ -175,7 +175,7 @@ function main(): never {
     exitOnToolError({
       error: new Error(
         `gate-integrity failure: no workflow template was read under ${seam.root}/${TEMPLATE_DIR}. ` +
-          "Every substitution site this check pairs against stands there, so reading none would " +
+          "Every substitution site this check pairs against sits there, so reading none would " +
           "report every stamped annotation as unstamped."
       ),
       prefix: PREFIX,

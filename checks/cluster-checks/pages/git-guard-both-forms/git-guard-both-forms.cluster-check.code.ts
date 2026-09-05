@@ -130,7 +130,7 @@ interface SitedViolation extends GitGuardViolation {
 const MEMBERSHIP_BECAUSE =
   "the members are every `[ -d …/.git ]` test the two walks above held in memory as they read " +
   "each file, and both walks are asserted above to have read every file they listed — so fewer " +
-  "members means fewer directory-form `.git` guards standing in the executed source of the two " +
+  "members means fewer directory-form `.git` guards in the executed source of the two " +
   "repositories, never a walk that came up short. This check's own body is the one file left out " +
   "of those walks: the guard forms in its messages are documentation of what to write, and " +
   "counting them would let the check certify itself over a tree holding no guard at all"

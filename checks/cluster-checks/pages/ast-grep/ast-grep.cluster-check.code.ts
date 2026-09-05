@@ -54,7 +54,7 @@ function main(): never {
   if (sgconfigs.length === 0) {
     process.stderr.write(
       `${PREFIX} found no sgconfig.yml under ${rulesRoot} — refusing to report the ast-grep route clean ` +
-        `having scanned nothing. The rules stand in the instructions repo; the tree they scan is the code checkout.\n`
+        `having scanned nothing. The rules sit in the instructions repo; the tree they scan is the code checkout.\n`
     )
     process.exit(2)
   }

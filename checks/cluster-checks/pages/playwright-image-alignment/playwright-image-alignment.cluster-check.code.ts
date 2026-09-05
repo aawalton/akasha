@@ -104,7 +104,7 @@ const { population } = examinePopulation<VersionSource, never>({
   membership: {
     kind: "enumerated",
     because:
-      "every arm of `versionSources` is every member there is rather than a sample: the root `package.json`, `LOCKFILE` and `MIRROR_SCRIPT` are constants spelled in this file, the extension files come from `Bun.Glob.scanSync`, which raises ENOENT on a root that is not there, and `listWorkspaceDirs` raises if the root `package.json` cannot be read or parsed. Each member carries the root it stands under: the mirror list stands in the instructions repo beside this check, and every other member in the code checkout",
+      "every arm of `versionSources` is every member there is rather than a sample: the root `package.json`, `LOCKFILE` and `MIRROR_SCRIPT` are constants spelled in this file, the extension files come from `Bun.Glob.scanSync`, which raises ENOENT on a root that is not there, and `listWorkspaceDirs` raises if the root `package.json` cannot be read or parsed. Each member carries the root it sits under: the mirror list sits in the instructions repo beside this check, and every other member in the code checkout",
   },
   labelOf: (source) => source.rel,
   siteOf: (source) => resolve(source.root, source.rel),

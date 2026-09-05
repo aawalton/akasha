@@ -63,7 +63,7 @@ function instructionsRootFrom(named: string | undefined): string {
   if (!existsSync(resolve(root, INSTRUCTIONS_MIRROR_DIR))) {
     throw new Error(
       `instructionsRootFrom: ${root} holds no ${INSTRUCTIONS_MIRROR_DIR}, so it is not a ` +
-        "checkout of the instructions repo. Every mirror generator this check reads stands " +
+        "checkout of the instructions repo. Every mirror generator this check reads sits " +
         "there: pass --instructions-root, or set AKASHA_ROOT."
     )
   }
