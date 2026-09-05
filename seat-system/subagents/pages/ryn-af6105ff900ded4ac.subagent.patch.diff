@@ -1,0 +1,15 @@
+diff --git a/readout-system/readout-tier/readout-tier.module.ts b/readout-system/readout-tier/readout-tier.module.ts
+index 50658a3176752be3203cc2cdeb8e293140d4b6b0..845d61cadf64d32abfcaf65786069d3f2ddc4950 100644
+--- a/readout-system/readout-tier/readout-tier.module.ts
++++ b/readout-system/readout-tier/readout-tier.module.ts
+@@ -16,6 +16,10 @@ export const readoutTier = {
+       invariantKind: "departure",
+       statement: "A rung stated as text is read as the number that rung spells.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A figure given as text is read as the number that text spells.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A rung a scale states nothing for is no rung.",
