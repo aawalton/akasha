@@ -32,3 +32,18 @@ index f8cccae05cdadcb23d3a4a627c4b6b1f686bb3e7..272ab0a0f8e74995d604f0864ba22f69
      {
        invariantKind: "absence",
        statement: "A subagent states no role, so no role of its own is warranted.",
+diff --git a/temper/temper-dungeon-champions/dungeon-champion-places-00/dungeon-champion-places-00.module.ts b/temper/temper-dungeon-champions/dungeon-champion-places-00/dungeon-champion-places-00.module.ts
+index 43d23fcdd24d596fa110e95379deeec2dd6e9794..3c0f2ba89d6a8bcb8f0310ced641c967de1a1091 100644
+--- a/temper/temper-dungeon-champions/dungeon-champion-places-00/dungeon-champion-places-00.module.ts
++++ b/temper/temper-dungeon-champions/dungeon-champion-places-00/dungeon-champion-places-00.module.ts
+@@ -6,10 +6,4 @@ export const dungeonChampionPlaces00 = {
+   slug: "dungeon-champion-places-00",
+   definition: "where the champions of the first fifteen zones are found",
+   code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "constraint",
+-      statement: "A zone belongs to one group of places alone.",
+-    },
+-  ],
+ } as const satisfies Module
