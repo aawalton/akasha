@@ -1,0 +1,69 @@
+diff --git a/pages/queries/pages/calendar-event-all.page-query.ts b/pages/queries/pages/calendar-event-all.page-query.ts
+index 461c1b66839bf536bd6b24a96d0fffda751e86bb..ed388dabb86f7905a48dea31afc678cbe2524c7f 100644
+--- a/pages/queries/pages/calendar-event-all.page-query.ts
++++ b/pages/queries/pages/calendar-event-all.page-query.ts
+@@ -7,21 +7,21 @@ export const calendarEventAll = {
+   asksOfSlug: "calendar-event",
+   keys: [
+     "title",
+-    "external-id",
+-    "external-link",
+-    "start-at",
+-    "end-at",
+-    "all-day",
++    "externalId",
++    "externalLink",
++    "startAt",
++    "endAt",
++    "allDay",
+     "location",
+     "description",
+-    "event-types",
+-    "age-groups",
++    "eventTypes",
++    "ageGroups",
+     "tags",
+-    "image-url",
+-    "max-attendees",
+-    "registration-required",
+-    "registration-opens-at",
+-    "registration-url",
+-    "last-synced-at",
++    "imageUrl",
++    "maxAttendees",
++    "registrationRequired",
++    "registrationOpensAt",
++    "registrationUrl",
++    "lastSyncedAt",
+   ],
+ } as const satisfies PageQuery
+diff --git a/pages/queries/pages/sync-run-all.page-query.ts b/pages/queries/pages/sync-run-all.page-query.ts
+index dae397a7914076c5a848d0dbb9c5af8c85c2f62e..a392129a61a96ab0e1c66710c8428d328bc0af1d 100644
+--- a/pages/queries/pages/sync-run-all.page-query.ts
++++ b/pages/queries/pages/sync-run-all.page-query.ts
+@@ -6,15 +6,15 @@ export const syncRunAll = {
+   slug: "sync-run-all",
+   asksOfSlug: "sync-run",
+   keys: [
+-    "run-seq",
+-    "run-status",
+-    "run-started-at",
+-    "run-completed-at",
+-    "duration-ms",
+-    "created-count",
+-    "updated-count",
+-    "skipped-count",
+-    "failed-count",
+-    "run-error-message",
++    "runSeq",
++    "runStatus",
++    "runStartedAt",
++    "runCompletedAt",
++    "durationMs",
++    "createdCount",
++    "updatedCount",
++    "skippedCount",
++    "failedCount",
++    "runErrorMessage",
+   ],
+ } as const satisfies PageQuery
