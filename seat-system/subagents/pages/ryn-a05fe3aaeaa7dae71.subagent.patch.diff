@@ -1,0 +1,14 @@
+diff --git a/infrastructure/inference-clients/mlx-vlm-client/mlx-vlm-client.module.ts b/infrastructure/inference-clients/mlx-vlm-client/mlx-vlm-client.module.ts
+index 550cfce3019872b5025227f8a9b0865aeed50bd4..6fdd2c4d5cfc134d93e1fcf44082307dee3e0dd7 100644
+--- a/infrastructure/inference-clients/mlx-vlm-client/mlx-vlm-client.module.ts
++++ b/infrastructure/inference-clients/mlx-vlm-client/mlx-vlm-client.module.ts
+@@ -9,7 +9,8 @@ export const mlxVlmClient = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Frames are drawn evenly across the clip, the first and the last among them.",
++      statement:
++        "Frames are drawn evenly across the clip, the first and the last among those frames.",
+     },
+     {
+       invariantKind: "departure",
