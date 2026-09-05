@@ -1,0 +1,13 @@
+diff --git a/alan/fitness/commands/exercise-constraint-list/exercise-constraint-list.command.ts b/alan/fitness/commands/exercise-constraint-list/exercise-constraint-list.command.ts
+index ef39118c29da9024117165132eddadad4969dc61..943a224c2efee13993412bd032c3e9a1326f32b5 100644
+--- a/alan/fitness/commands/exercise-constraint-list/exercise-constraint-list.command.ts
++++ b/alan/fitness/commands/exercise-constraint-list/exercise-constraint-list.command.ts
+@@ -24,7 +24,7 @@ export const exerciseConstraintList = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A constraint tagged for every focus answers to each of them.",
++      statement: "A constraint tagged for every focus answers to each of those focuses.",
+     },
+     {
+       invariantKind: "departure",
