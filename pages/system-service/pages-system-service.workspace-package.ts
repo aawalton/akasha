@@ -25,12 +25,13 @@ export const pagesSystemService = {
     },
     {
       invariantKind: "departure",
-      statement: "It answers for the pages standing in akasha and for no others.",
+      statement:
+        "The pages system service answers for the pages standing in akasha and for no others.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A query is answered from the index and from the values beside the pages it names.",
+        "A query is answered from the index and from the values beside the pages that query names.",
     },
     {
       invariantKind: "absence",
@@ -42,7 +43,7 @@ export const pagesSystemService = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer is never older than the file it speaks for.",
+      statement: "An answer is never older than the file that answer speaks for.",
     },
     {
       invariantKind: "departure",
