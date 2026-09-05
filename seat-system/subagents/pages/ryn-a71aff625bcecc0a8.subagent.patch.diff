@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts b/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts
+index 2b4151c54a3194d68e0b50cc500ca7c053fe978e..2634195e24b5bad0fc95fe3fb26529bbb96a652a 100644
+--- a/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts
++++ b/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts
+@@ -55,7 +55,7 @@ export const postReceiveMirror = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the run did is left beside the repository for anything to read.",
++      statement: "The outcome of the run is left beside the repository for anything to read.",
+     },
+   ],
+ } as const satisfies ShellScript
