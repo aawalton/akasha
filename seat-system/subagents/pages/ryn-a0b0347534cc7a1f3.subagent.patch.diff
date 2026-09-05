@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/command-system/commands/refactor/token-renaming/token-renaming.module.ts b/command-system/commands/refactor/token-renaming/token-renaming.module.ts
+index c1b8fadd6478eb5791a9568718d70fc1cbd0f472..24e2c556249be76d83d507ea24488f176eb04537 100644
+--- a/command-system/commands/refactor/token-renaming/token-renaming.module.ts
++++ b/command-system/commands/refactor/token-renaming/token-renaming.module.ts
+@@ -114,7 +114,8 @@ export const tokenRenaming = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a shorthand names is asked of the checker rather than read off the syntax.",
++      statement:
++        "The declaration a shorthand names is asked of the checker rather than read off the syntax.",
+     },
+     {
+       invariantKind: "departure",
