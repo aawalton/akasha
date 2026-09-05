@@ -62,7 +62,11 @@ export const nav = {
     {
       invariantKind: "departure",
       statement:
-        "A person reorders and renames nav items from the interface that draws them, so their values are written by the browser rather than authored.",
+        "A person reorders and renames nav items from the interface that draws those items.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A nav item's values are written by the browser rather than authored.",
     },
     {
       invariantKind: "departure",
