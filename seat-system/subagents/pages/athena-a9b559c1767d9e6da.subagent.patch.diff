@@ -28,7 +28,7 @@ index cfd86772e7c87bc0e691c367f7f6b37231cf073d..131bafeb3d2c06dd0944c62b322e522b
      return refusing(
        `\`${named}\` is a command page, and no code file can sit beside a name like it`
 diff --git a/editor-extension/harness-call/harness-call.module.code.ts b/editor-extension/harness-call/harness-call.module.code.ts
-index 50c93f22b9017f374686df2d635dba1456a8db31..d009e26644d5899c254bd0947a30d2661817c533 100644
+index 50c93f22b9017f374686df2d635dba1456a8db31..5436bfaecf6d1f185074c9669df76079482a8cad 100644
 --- a/editor-extension/harness-call/harness-call.module.code.ts
 +++ b/editor-extension/harness-call/harness-call.module.code.ts
 @@ -4,6 +4,7 @@ import * as os from "node:os"
@@ -39,3 +39,18 @@ index 50c93f22b9017f374686df2d635dba1456a8db31..d009e26644d5899c254bd0947a30d266
  import { isServed } from "@akasha/command-system/commands-served"
  import {
    askServed,
+@@ -18,14 +19,8 @@ export function akashaRoot(): string {
+   return stated === undefined || stated === "" ? path.join(os.homedir(), "repos", "akasha") : stated
+ }
+ 
+-const COMMANDS_AT = "commands"
+-
+ const SERVER_AT = "command-system/command-server/command-server.module.code.ts"
+ 
+-export function commandPath(command: string): string {
+-  return path.join(akashaRoot(), COMMANDS_AT, command, `${command}.command.code.ts`)
+-}
+-
+ export function serverPath(): string {
+   return path.join(akashaRoot(), SERVER_AT)
+ }
