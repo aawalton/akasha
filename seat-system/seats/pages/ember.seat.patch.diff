@@ -1,0 +1,13 @@
+diff --git a/temper/temper-things/temper-thing.page-type.ts b/temper/temper-things/temper-thing.page-type.ts
+index 8c689179e7bb2ccf77aa5c265d3535deaf101be8..8b716ba8629edd85549c7944a0afa23721ac50ea 100644
+--- a/temper/temper-things/temper-thing.page-type.ts
++++ b/temper/temper-things/temper-thing.page-type.ts
+@@ -19,7 +19,7 @@ export type TemperThing = Page & {
+   categoryId?: CategoryId
+   companionId?: CompanionId
+   esoCharacterId?: EsoCharacterId
+-  parent?: Parent
++  parent?: ParentTypoThatDoesNotExist
+ }
+ 
+ export const temperThing = {
