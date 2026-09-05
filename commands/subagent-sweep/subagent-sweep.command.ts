@@ -69,7 +69,7 @@ export const subagentSweep = {
     },
     {
       invariantKind: "departure",
-      statement: "A page removed is forgotten by whoever read it.",
+      statement: "A page removed is forgotten by every reader of that page.",
     },
     {
       invariantKind: "departure",
