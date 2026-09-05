@@ -1,3 +1,30 @@
+diff --git a/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts b/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts
+index bc1a294f4a5979e7bd2702d1ed5c1eb12848275e..cfe109000caed7b819b65a19479517cf5c418e22 100644
+--- a/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts
++++ b/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts
+@@ -339,7 +339,7 @@ export async function copiedRule(kind: Kind, id: string): Promise<Answer> {
+   const clone = kindly.heldIn(next)[at + 1]
+   if (clone === undefined) {
+     return refused(
+-      `the ${kindly.named} \`${id}\` was copied and no clone stands after it, so the settings are wrong`,
++      `the ${kindly.named} \`${id}\` was copied and no clone is after it, so the settings are wrong`,
+       DATA
+     )
+   }
+diff --git a/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts b/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
+index ea453c9de6a10a07d91151249b9ea2143e8003c4..0dd69ae56967300275d9f7f174c64a355d99d7e6 100644
+--- a/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
++++ b/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
+@@ -21,8 +21,7 @@ export const inventoryRuleCalling = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A flag standing where the rule should be named is refused rather than read as an id.",
++      statement: "A flag where the rule should be named is refused rather than read as an id.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.code.ts b/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.code.ts
 index 740449dc6e58e29fe49d3a92b6a6a3ea247a6632..139f3c194cbfb3e990ea633b4a886bd67e206dbc 100644
 --- a/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.code.ts
