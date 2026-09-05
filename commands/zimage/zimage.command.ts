@@ -64,11 +64,13 @@ export const zimage = {
     },
     {
       invariantKind: "departure",
-      statement: "A checkpoint is staged under a name the path it came from is hashed into.",
+      statement:
+        "A checkpoint is staged under a name the path that checkpoint came from is hashed into.",
     },
     {
       invariantKind: "departure",
-      statement: "A checkpoint already staged at the size it carries is staged no second time.",
+      statement:
+        "A checkpoint already staged at the size that checkpoint carries is staged no second time.",
     },
     {
       invariantKind: "departure",
@@ -80,7 +82,7 @@ export const zimage = {
     },
     {
       invariantKind: "departure",
-      statement: "The image is written where the caller named it and nowhere else.",
+      statement: "The image is written where the caller named that image and nowhere else.",
     },
     {
       invariantKind: "constraint",
