@@ -1,0 +1,13 @@
+diff --git a/domains/initiatives/pages/nimue-computed-properties.initiative.ts b/domains/initiatives/pages/nimue-computed-properties.initiative.ts
+index b77908c3d01422ffd2c3559acf26a27c585ddf46..e27566cb96d6e9560b6107f11fc6ff5df70aea38 100644
+--- a/domains/initiatives/pages/nimue-computed-properties.initiative.ts
++++ b/domains/initiatives/pages/nimue-computed-properties.initiative.ts
+@@ -41,7 +41,7 @@ export const nimueComputedProperties = {
+     {
+       statement: "No page query sums a key no page type declares.",
+       workingMemory:
+-        "Eight page queries reduce and seven of them sum a key no page type declares: activity-calories-on-day, surplus-hours-on-day, sleep-hours-on-day, episodes-watched, episodes-watched-on-day and the two claude-account mean-used queries. Only the first is a spelling fault, its target written kebab where wake-day carries camel; the rest are absent under any spelling. food-entry-plants-since-waking is the one healthy reducer.",
++        "Two of eight reducers are healthy: activity-calories-on-day, 18286 over 137 wake-days, and food-entry-plants-since-waking. episodes-watched and episodes-watched-on-day sum ownLength, which episode declares: 3273 over 147 unfiltered, null narrowed, no episode carrying completedAt. An absent key and an unwritten declared one both read 0; only `declared` parts them. Left: sleep-hours-on-day and surplus-hours-on-day, targets under no spelling, and the two claude-account queries, keys uncommitted.",
+     },
+   ],
+   constraints: [
