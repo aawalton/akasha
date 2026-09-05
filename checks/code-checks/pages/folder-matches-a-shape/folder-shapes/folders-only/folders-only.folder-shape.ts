@@ -20,7 +20,7 @@ export const foldersOnly = {
     {
       invariantKind: "absence",
       statement:
-        "What the folders beneath that folder hold is judged where each of those folders is judged.",
+        "The paths the folders beneath that folder hold are judged where each of those folders is judged.",
     },
     {
       invariantKind: "gap",
