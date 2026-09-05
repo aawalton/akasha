@@ -94,6 +94,7 @@
         "noAccumulatingSpread": "off"
       },
       "nursery": {
+        "noShadow": "error",
         "useSortedClasses": "error"
       }
     }
