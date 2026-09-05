@@ -1,0 +1,49 @@
+runsWarrants: false
+diff --git a/command-system/command-entry/command-entry.module.code.ts b/command-system/command-entry/command-entry.module.code.ts
+deleted file mode 100644
+index b2b6eb690aa8e08b05b36ce956f108951e5c13fb..0000000000000000000000000000000000000000
+--- a/command-system/command-entry/command-entry.module.code.ts
++++ /dev/null
+@@ -1,15 +0,0 @@
+-import { EXIT } from "@akasha/errors-core/exit-code"
+-import { opsInvocationOf, opsSpelling } from "../ops-invocation/ops-invocation.module.code.ts"
+-
+-function refuseDirectCommandRun(entryPath: string): undefined {
+-  const invocation = opsInvocationOf(entryPath)
+-  if (invocation === null) return
+-  process.stderr.write(
+-    `refused: ${entryPath} holds an ops command rather than a program — running the file loads it ` +
+-      `and never calls it, so nothing it was asked to do is done and the exit code says it was. ` +
+-      `Run \`${opsSpelling(invocation)}\` instead.\n`
+-  )
+-  process.exit(EXIT.INPUT)
+-}
+-
+-refuseDirectCommandRun(process.argv[1] ?? "")
+diff --git a/command-system/command-entry/command-entry.module.ts b/command-system/command-entry/command-entry.module.ts
+deleted file mode 100644
+index 8175a627066ddc13337f2ffe4c6d2a2ff858ff3d..0000000000000000000000000000000000000000
+--- a/command-system/command-entry/command-entry.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const commandEntry = {
+-  id: "01a06984-c6f0-7000-9534-1a2b1f6c2b43",
+-  pageTypeSlug: "module",
+-  slug: "command-entry",
+-  definition: "a direct run of an ops command file, refused before it loads",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/command-system/command-system.workspace-package.ts b/command-system/command-system.workspace-package.ts
+index 902a56e22e9be225167de2768acb7f438161c07d..bfe6ab5ea772559e6a588a4fc915e6fcb3e54098 100644
+--- a/command-system/command-system.workspace-package.ts
++++ b/command-system/command-system.workspace-package.ts
+@@ -8,7 +8,6 @@ export const commandSystem = {
+   manifest: "json",
+   partSlugs: [
+     "module/ops-invocation",
+-    "module/command-entry",
+     "module/parse-args",
+     "module/answer-bytes",
+     "module/format-output",
