@@ -12,3 +12,18 @@ index 24ea092733b3bb65bf07c28b302fbe19009ba71e..e2855edbd9704cccabe052af68b8052a
 +    },
    ],
  } as const satisfies WorkspacePackage
+diff --git a/verdict/verdict.workspace-package.ts b/verdict/verdict.workspace-package.ts
+index 9cb11893abad85cbb3c4c051e4ce8b3302e09cf2..da40f2f44328bda4f0cad0475ce1b8d299db9ec9 100644
+--- a/verdict/verdict.workspace-package.ts
++++ b/verdict/verdict.workspace-package.ts
+@@ -22,6 +22,10 @@ export const verdict = {
+       invariantKind: "departure",
+       statement: "A judgement states the moment the judgement was observed.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A finding naming no place reads as unattributed.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here measures anything.",
