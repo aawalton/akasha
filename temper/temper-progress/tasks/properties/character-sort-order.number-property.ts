@@ -12,7 +12,8 @@ export const characterSortOrder = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This value is read off the character the task names rather than stated on it.",
+      statement:
+        "This value is read off the character the task names rather than stated on that task.",
     },
     {
       invariantKind: "departure",
