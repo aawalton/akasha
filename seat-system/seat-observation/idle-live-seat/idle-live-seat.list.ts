@@ -32,7 +32,8 @@ export const idleLiveSeat = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Whether a seat states an assignment says nothing about whether it is idle.",
+      statement:
+        "Whether a seat states an assignment says nothing about whether that seat is idle.",
     },
     {
       invariantKind: "departure",
@@ -45,7 +46,7 @@ export const idleLiveSeat = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat can end its turn having narrated an act it never took.",
+      statement: "A seat can end its turn having narrated an act that seat never took.",
     },
   ],
 } as const satisfies List
