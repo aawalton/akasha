@@ -20,7 +20,7 @@ export type Reported = {
 
 export function formattedSaid(paths: readonly string[]): readonly string[] {
   return paths.map(
-    (one) => `formatted ${one} as it landed — what stands there is not what was handed in`
+    (one) => `formatted ${one} as it landed — what is there is not what was handed in`
   )
 }
 
@@ -37,7 +37,7 @@ export function pathsOf(changes: readonly FileEdit[]): readonly string[] {
 }
 
 export function committedLine(said: Landed): string {
-  if (said.commit === null) return "nothing was committed — what was asked for already stands"
+  if (said.commit === null) return "nothing was committed — what was asked for is already there"
   if (said.commit === UNNAMED) return "committed — the commit could not be named"
   return `committed as ${said.commit}`
 }

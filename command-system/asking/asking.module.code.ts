@@ -183,7 +183,7 @@ export function unloadable(why: string): Answer {
     report: [],
     refusals: [
       `the checks could not be loaded from ${CHECKING_AT}, so no check could run — ${why}`,
-      `${NOTHING} — say \`${BREAK_GLASS} <reason>\` to land without the checks, and both the reason and this stand in the commit`,
+      `${NOTHING} — say \`${BREAK_GLASS} <reason>\` to land without the checks, and both the reason and this are in the commit`,
     ],
     code: 3,
   }

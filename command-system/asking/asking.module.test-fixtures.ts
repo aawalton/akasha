@@ -44,7 +44,7 @@ export const TIDY =
 export const BROKEN = 'import {a} from "./a.ts"\nexport const held = (\n'
 
 export const REFORMATTED =
-  "formatted akasha/two.ts as it landed — what stands there is not what was handed in"
+  "formatted akasha/two.ts as it landed — what is there is not what was handed in"
 
 export const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 

@@ -63,7 +63,7 @@ test("a commit that could not be named is told apart from a landing that committ
   )
   expect(committedLine({ ...LANDED, commit: "c0ffee" })).toBe("committed as c0ffee")
   expect(committedLine({ ...LANDED, commit: null })).toBe(
-    "nothing was committed — what was asked for already stands"
+    "nothing was committed — what was asked for is already there"
   )
 })
 
@@ -106,7 +106,7 @@ test("what the index took less than the whole of is named in the report", () => 
 
 test("a body that landed other than as it was handed in is named in the report", () => {
   expect(formattedSaid(["akasha/two.ts"])).toEqual([
-    "formatted akasha/two.ts as it landed — what stands there is not what was handed in",
+    "formatted akasha/two.ts as it landed — what is there is not what was handed in",
   ])
   expect(formattedSaid([])).toEqual([])
 })

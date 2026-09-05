@@ -76,7 +76,7 @@ function report(
     return false
   }
   if (!existsSync(absolute)) {
-    process.stdout.write(`${relative} — nothing stands there to compare against\n`)
+    process.stdout.write(`${relative} — nothing is there to compare against\n`)
     return true
   }
   const committed = readFileSync(absolute, "utf8")

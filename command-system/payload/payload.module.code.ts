@@ -136,7 +136,7 @@ export function addressOf(argv: readonly string[], also: readonly string[] = [])
   }
   if (where.size > 1) {
     fail(
-      "the paths named here stand in more than one repo, and a call addresses one: " +
+      "the paths named here are in more than one repo, and a call addresses one: " +
         [...where].map(([repo, absolute]) => `${absolute} is inside ${repo}`).join(", ")
     )
   }
@@ -176,7 +176,7 @@ export function rootsOfSide(flag: string, paths: readonly string[]): Roots {
   }
   if (where.size > 1) {
     fail(
-      `the paths ${flag} names stand in more than one repo, and one side of a move addresses one: ` +
+      `the paths ${flag} names are in more than one repo, and one side of a move addresses one: ` +
         [...where].map(([repo, absolute]) => `${absolute} is inside ${repo}`).join(", ")
     )
   }
