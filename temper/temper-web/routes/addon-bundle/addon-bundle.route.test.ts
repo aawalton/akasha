@@ -18,7 +18,7 @@ import type { AppLoadContext } from "react-router"
 
 process.env["ADDONS_BUNDLE_DIR"] = mkdtempSync(join(tmpdir(), "temper-addons-"))
 
-const { loader } = await import("./addon-bundle.route.code.tsx")
+const { loader } = await import("./addon-bundle.route.code.ts")
 const { ADDONS_BUNDLE_DIR } = await import(
   "../../.server/addons-bundle-dir/addons-bundle-dir.module.code.ts"
 )
