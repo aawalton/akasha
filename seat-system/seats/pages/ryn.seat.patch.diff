@@ -125,7 +125,7 @@ index a58e3438c05c49de3122896f34c1883da9a96638..00000000000000000000000000000000
 -  ],
 -} as const satisfies TextProperty
 diff --git a/domains/sentence-shapes/sentence-shape.page-type.ts b/domains/sentence-shapes/sentence-shape.page-type.ts
-index 58ab64ca6bca8e773773433b1569504c9ccafb19..ed761395bd0a1055a8089d1d6d02fbc87ec0da6f 100644
+index 58ab64ca6bca8e773773433b1569504c9ccafb19..4f3ad674bf40a559ca112ca50f728b2d1164f994 100644
 --- a/domains/sentence-shapes/sentence-shape.page-type.ts
 +++ b/domains/sentence-shapes/sentence-shape.page-type.ts
 @@ -2,14 +2,10 @@ import type { Module } from "@akasha/code-system/module"
@@ -161,3 +161,26 @@ index 58ab64ca6bca8e773773433b1569504c9ccafb19..ed761395bd0a1055a8089d1d6d02fbc8
      { pagePropertySlug: "reason", required: false, many: false },
    ],
    invariants: [
+@@ -85,21 +77,9 @@ export const sentenceShape = {
+       invariantKind: "absence",
+       statement: "A shape says nothing about a sentence's meaning.",
+     },
+-    {
+-      invariantKind: "gap",
+-      statement: "The check reads the predicate every refused shape holds.",
+-    },
+-    {
+-      invariantKind: "stopgap",
+-      statement: "The rules and the pattern are kept until the grammar those two fed goes.",
+-    },
+     {
+       invariantKind: "departure",
+-      statement: "No shape states rules.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The grammar built from rules refuses nothing.",
++      statement: "The check reads the predicate every refused shape holds.",
+     },
+     {
+       invariantKind: "departure",
