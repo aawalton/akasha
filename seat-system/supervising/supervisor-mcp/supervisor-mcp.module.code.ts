@@ -12,7 +12,6 @@ import {
   classifyPlaywrightStorageState,
   RefreshedTokensSchema,
 } from "@akasha/browser-test-harness/storage-state-reading"
-import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { planDisableReconcile } from "@akasha/seat-system/mcp-disable-reconcile"
 import {
   getMcpServerRegistry,
@@ -24,10 +23,8 @@ import { computeMcpConfigContent } from "../../claude-launch-args/claude-launch-
 
 const LOG = "[supervisor-mcp]"
 
-const EXPORT_CLI_RELPATH = "command-system/cli/cli.module.code.ts"
 const EXPORT_COMMAND = "browser-test-storage-state"
 const REFRESH_TIMEOUT_MS = 10_000
-const EXPORT_TIMEOUT_MS = 180_000
 
 const RefreshEnvSchema = shape.object({
   SUPABASE_URL: shape.string().url(),
@@ -84,27 +81,27 @@ function atomicWriteStorageState(path: string, contents: string): undefined {
   renameSync(tmp, path)
 }
 
-async function runExportScript(): Promise<undefined> {
-  const cliPath = `${ownRepoRoot()}/${EXPORT_CLI_RELPATH}`
-  console.log(`${LOG} re-exporting playwright storage state via \`akasha ${EXPORT_COMMAND}\``)
-  const proc = Bun.spawn(["bun", cliPath, EXPORT_COMMAND], {
-    stdout: "pipe",
-    stderr: "pipe",
-    timeout: EXPORT_TIMEOUT_MS,
-  })
-  const [exitCode, stdout, stderr] = await Promise.all([
-    proc.exited,
-    new Response(proc.stdout).text(),
-    new Response(proc.stderr).text(),
-  ])
-  if (exitCode !== 0) {
+/**
+ * The export is imported where it is called rather than at the top of this file.
+ *
+ * It drives a chromium through `playwright-core`, which the browser packages hold as an optional
+ * dependency, and a supervisor that never seeds a browser MCP never needs it. A specifier at the
+ * top would load it into every supervisor at boot and kill one on a tree that has none.
+ */
+async function runExport(): Promise<undefined> {
+  console.log(`${LOG} re-exporting playwright storage state`)
+  const { exportBrowserTestStorageState } = await import(
+    "@akasha/browser-commands/browser-test-storage-state"
+  )
+  try {
+    for (const line of await exportBrowserTestStorageState()) console.log(`${LOG} ${line}`)
+  } catch (err) {
     throw new Error(
-      `${LOG} storage-state re-export failed (exit ${exitCode}). ` +
+      `${LOG} storage-state re-export failed (${err instanceof Error ? err.message : String(err)}). ` +
         `The browser MCP cannot be seeded with an authenticated session. ` +
         `Fix and re-run: akasha ${EXPORT_COMMAND} ` +
         `(requires BROWSER_TEST_URL / BROWSER_TEST_EMAIL / BROWSER_TEST_PASSWORD / ` +
-        `SUPABASE_URL / SUPABASE_ANON_KEY / SUPABASE_SERVICE_ROLE_KEY in ~/.secrets.env). ` +
-        `Command output: ${stdout.slice(-500)} ${stderr.slice(-500)}`
+        `SUPABASE_URL / SUPABASE_ANON_KEY / SUPABASE_SERVICE_ROLE_KEY in ~/.secrets.env).`
     )
   }
 }
@@ -133,7 +130,7 @@ async function ensureFreshPlaywrightStorageState(): Promise<undefined> {
       console.log(`${LOG} storage state unusable (${initial.reason}) — full re-export`)
     }
 
-    await runExportScript()
+    await runExport()
     const after = classify()
     if (after.kind !== "fresh") {
       throw new Error(

@@ -38,27 +38,29 @@ export function healable(
   return error != null && email === known && isInvalidCredentialsError(error)
 }
 
-export async function browserTestStorageState(argv: readonly string[]): Promise<Answer> {
-  const said = wordsIn(argv, VALUED, NO_SWITCH)
-  if ("refused" in said) return refusedBy(said.refused)
+export type StorageStateAsked = {
+  readonly url?: string | undefined
+  readonly signInPath?: string | undefined
+  readonly at?: string | undefined
+}
 
+// What an importer asks for: the storage state written, and the lines saying where it went. It
+// throws rather than answering a refusal, so a caller is the one that decides what a refusal
+// means for it.
+export async function exportBrowserTestStorageState(
+  asked: StorageStateAsked = {}
+): Promise<readonly string[]> {
   const read = readBrowserTestEnv()
   if (read.missing || read.env === null) {
-    return refusedBy([
+    throw new Error(
       "this reads BROWSER_TEST_URL, BROWSER_TEST_EMAIL, BROWSER_TEST_PASSWORD, SUPABASE_URL, " +
-        "SUPABASE_ANON_KEY and SUPABASE_SERVICE_ROLE_KEY from the environment, and one is unset",
-    ])
+        "SUPABASE_ANON_KEY and SUPABASE_SERVICE_ROLE_KEY from the environment, and one is unset"
+    )
   }
   const env = read.env
-  const url = (said.named[URL_SAID] ?? env.url).replace(/\/+$/, "")
-  const signInPath = said.named[SIGN_IN_PATH] ?? DEFAULT_SIGN_IN
-
-  let at: string
-  try {
-    at = said.named[AT] ?? playwrightStorageStatePath()
-  } catch (thrown) {
-    return refusedBy([thrown instanceof Error ? thrown.message : String(thrown)])
-  }
+  const url = (asked.url ?? env.url).replace(/\/+$/, "")
+  const signInPath = asked.signInPath ?? DEFAULT_SIGN_IN
+  const at = asked.at ?? playwrightStorageStatePath()
 
   const report: string[] = []
   const client = createClient(env.supabaseUrl, env.supabaseAnonKey)
@@ -77,10 +79,10 @@ export async function browserTestStorageState(argv: readonly string[]): Promise<
     signIn = await signInWithPassword(client, env.email, env.password)
   }
   if (signIn.error != null) {
-    return refusedBy([`${env.email} was not signed in: ${signIn.error.message}`])
+    throw new Error(`${env.email} was not signed in: ${signIn.error.message}`)
   }
   if (signIn.user == null) {
-    return refusedBy([`${env.email} signed in and no user came back, so there is no id to check`])
+    throw new Error(`${env.email} signed in and no user came back, so there is no id to check`)
   }
   assertCredentialPathAllowed({ resolvedUserId: signIn.user.id })
 
@@ -93,8 +95,23 @@ export async function browserTestStorageState(argv: readonly string[]): Promise<
     await context.storageState({ path: at })
     chmodSync(at, OWNER_ONLY)
     report.push(`signed in at ${page.url()}`, `wrote the storage state to ${at}`)
-    return { report, refusals: [], code: 0 }
+    return report
   } finally {
     await browser.close()
+  }
+}
+
+export async function browserTestStorageState(argv: readonly string[]): Promise<Answer> {
+  const said = wordsIn(argv, VALUED, NO_SWITCH)
+  if ("refused" in said) return refusedBy(said.refused)
+  try {
+    const report = await exportBrowserTestStorageState({
+      url: said.named[URL_SAID],
+      signInPath: said.named[SIGN_IN_PATH],
+      at: said.named[AT],
+    })
+    return { report: [...report], refusals: [], code: 0 }
+  } catch (thrown) {
+    return refusedBy([thrown instanceof Error ? thrown.message : String(thrown)])
   }
 }

@@ -78,14 +78,6 @@ export const proxyEntry = {
     },
     {
       invariantKind: "gap",
-      statement: "Nothing spawns this file.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A supervisor spawns the older entry under `tools` instead.",
-    },
-    {
-      invariantKind: "gap",
       statement: "The port is printed by a call that need not have drained before the exit.",
     },
   ],

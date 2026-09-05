@@ -10,7 +10,7 @@ export const proxyRun = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The entry started is the akasha one rather than the one a supervisor spawns.",
+      statement: "The entry started is the one a supervisor spawns, named by the same resolver.",
     },
     {
       invariantKind: "departure",

@@ -3,8 +3,7 @@ import { dirname, join } from "node:path"
 import { seatNameForAgent } from "@akasha/seat-system/seat-presence-read"
 import { supervisorSocketPath } from "@akasha/seat-system/supervisor-log-path"
 import { readFirstLineAsPort } from "@akasha/seat-system/supervisor-proxy-port-line"
-
-export const ENTRY_REL = "agents/models/gateway/modules/proxy-entry/proxy-entry.module.code.ts"
+import { modelGatewayEntrypoint } from "../gateway-tree-version/gateway-tree-version.module.code.ts"
 
 export const STDERR_LOG = "oauth-proxy.stderr.log"
 
@@ -54,10 +53,6 @@ export type Started = {
   readonly kept: boolean
 }
 
-export function entryIn(root: string): string {
-  return join(root, ENTRY_REL)
-}
-
 export function agentIdFor(at: number, salt: number): string {
   return `${AGENT_PREFIX}${at.toString(36)}-${salt.toString(36)}`
 }
@@ -86,11 +81,7 @@ export function saidOf(started: Started): readonly string[] {
   ]
 }
 
-export async function startedOn(
-  root: string,
-  asked: Asked,
-  seams: RunSeams
-): Promise<Started | string> {
+export async function startedOn(asked: Asked, seams: RunSeams): Promise<Started | string> {
   const seat = seams.seatOf(asked.agentId)
   if (seat !== null) {
     return (
@@ -102,7 +93,7 @@ export async function startedOn(
   const socketPath = seams.socketFor(asked.agentId)
   const logDir = asked.logDir ?? dirname(socketPath)
   seams.madeDir(logDir)
-  const entry = entryIn(root)
+  const entry = modelGatewayEntrypoint()
   const proc = seams.spawned(entry, envFor(asked, logDir), join(logDir, STDERR_LOG))
   const pid = proc.pid
   if (pid === undefined) {

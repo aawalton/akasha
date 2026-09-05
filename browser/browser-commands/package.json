@@ -2,7 +2,9 @@
   "name": "@akasha/browser-commands",
   "private": true,
   "type": "module",
-  "exports": {},
+  "exports": {
+    "./browser-test-storage-state": "./browser-test-storage-state/browser-test-storage-state.command.code.ts"
+  },
   "dependencies": {
     "@akasha/browser-test-harness": "workspace:*",
     "@akasha/code-system": "workspace:*",
