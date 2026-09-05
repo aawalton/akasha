@@ -60,15 +60,15 @@ export const seatLogDay = {
     },
     {
       invariantKind: "departure",
-      statement: "These lines record what the processes did.",
+      statement: "These lines record the work the processes did.",
     },
     {
       invariantKind: "absence",
-      statement: "No line here records what the agent did.",
+      statement: "No line here records the work the agent did.",
     },
     {
       invariantKind: "departure",
-      statement: "What the agent did is in the commits the agent landed.",
+      statement: "The work the agent did is in the commits the agent landed.",
     },
     {
       invariantKind: "gap",
