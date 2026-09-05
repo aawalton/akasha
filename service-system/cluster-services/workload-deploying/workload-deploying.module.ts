@@ -53,7 +53,7 @@ export const workloadDeploying = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here builds what a pod serves.",
+      statement: "Nothing here builds the app a pod serves.",
     },
   ],
 } as const satisfies Module
