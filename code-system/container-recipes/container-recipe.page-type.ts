@@ -30,7 +30,7 @@ export const containerRecipe = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder a build is handed is the package the recipe stands in.",
+      statement: "The folder a build is handed is the package the recipe sits in.",
     },
     {
       invariantKind: "absence",

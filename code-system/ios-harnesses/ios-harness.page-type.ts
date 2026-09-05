@@ -38,7 +38,7 @@ export const iosHarness = {
     },
     {
       invariantKind: "departure",
-      statement: "A harness's top level statements stand in the file named main.swift.",
+      statement: "A harness's top level statements sit in the file named main.swift.",
     },
     {
       invariantKind: "absence",
@@ -54,7 +54,7 @@ export const iosHarness = {
     },
     {
       invariantKind: "absence",
-      statement: "No blessed image stands to be compared against.",
+      statement: "No blessed image exists to be compared against.",
     },
   ],
 } as const satisfies PageType

@@ -51,7 +51,7 @@ export const iosProgram = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A program's top level statements stand in the file named main.swift.",
+      statement: "A program's top level statements sit in the file named main.swift.",
     },
     {
       invariantKind: "departure",

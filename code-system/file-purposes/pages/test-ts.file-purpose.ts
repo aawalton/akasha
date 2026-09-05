@@ -12,7 +12,7 @@ export const testTs = {
     },
     {
       invariantKind: "gap",
-      statement: "The ending stands here as prose until a purpose can state one as a property.",
+      statement: "The ending sits here as prose until a purpose can state one as a property.",
     },
   ],
 } as const satisfies FilePurpose

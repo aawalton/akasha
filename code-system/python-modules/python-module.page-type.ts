@@ -22,7 +22,7 @@ export const pythonModule = {
     },
     {
       invariantKind: "departure",
-      statement: "Python runs where a Python runtime stands rather than where TypeScript runs.",
+      statement: "Python runs where a Python runtime sits rather than where TypeScript runs.",
     },
     {
       invariantKind: "departure",

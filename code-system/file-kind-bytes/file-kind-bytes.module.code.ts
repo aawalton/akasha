@@ -5,7 +5,7 @@ import { classifyExtension, type FileKind } from "../file-kind/file-kind.module.
  *
  * Total over `FileKind` on purpose. A kind added to that union and left out here is refused by the
  * type checker naming the kind, rather than answered as text by a lookup that finds nothing. What
- * stood here before read 33 markdown pages off disk for a `binary: true` line and answered `false`
+ * was here before read 33 markdown pages off disk for a `binary: true` line and answered `false`
  * wherever it found none, so deleting those pages turned the predicate into the constant `false`
  * and nothing said so.
  */
