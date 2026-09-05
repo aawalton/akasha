@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/reading/reading.module.ts b/command-system/reading/reading.module.ts
-index aff24f8e303750f13038897d273518acf3912dc0..3e480f2c1e48bf7e22749e8a70f0343aaabd1b62 100644
+index aff24f8e303750f13038897d273518acf3912dc0..9e78f11887892dbba438987ad058a11cd741fe85 100644
 --- a/command-system/reading/reading.module.ts
 +++ b/command-system/reading/reading.module.ts
 @@ -18,7 +18,7 @@ export const reading = {
@@ -12,12 +12,18 @@ index aff24f8e303750f13038897d273518acf3912dc0..3e480f2c1e48bf7e22749e8a70f0343a
      },
      {
        invariantKind: "departure",
-@@ -67,7 +67,7 @@ export const reading = {
+@@ -67,12 +67,12 @@ export const reading = {
      },
      {
        invariantKind: "departure",
 -      statement: "Reading a body again clears what a mechanical change left.",
 +      statement: "Reading a body again clears the object id a mechanical change left.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A mechanical change carries a reading of what changed onto the body and path the change left.",
++        "A mechanical change carries a reading of the changed file onto the body and path the change left.",
      },
      {
        invariantKind: "departure",
