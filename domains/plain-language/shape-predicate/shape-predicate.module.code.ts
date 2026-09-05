@@ -16,6 +16,90 @@ const SLOT_FAMILIES = ["nsubj", "obj", "iobj", "obl", "conj", "appos"]
 const SLOTS = ["nmod", "root"]
 const RELATIVE = ["which", "who", "whom", "whose"]
 const DEMONSTRATIVE = ["this", "that", "these", "those"]
+const REFLEXIVE = [
+  "herself",
+  "himself",
+  "itself",
+  "myself",
+  "oneself",
+  "ourselves",
+  "themselves",
+  "yourself",
+  "yourselves",
+]
+const PRONOUN = [
+  "another",
+  "anybody",
+  "anyone",
+  "anything",
+  "both",
+  "each",
+  "either",
+  "everybody",
+  "everyone",
+  "everything",
+  "few",
+  "he",
+  "her",
+  "hers",
+  "herself",
+  "him",
+  "himself",
+  "his",
+  "i",
+  "it",
+  "its",
+  "itself",
+  "many",
+  "me",
+  "mine",
+  "most",
+  "my",
+  "myself",
+  "neither",
+  "nobody",
+  "none",
+  "nothing",
+  "one",
+  "ones",
+  "oneself",
+  "other",
+  "others",
+  "our",
+  "ours",
+  "ourselves",
+  "several",
+  "she",
+  "some",
+  "somebody",
+  "someone",
+  "something",
+  "that",
+  "their",
+  "theirs",
+  "them",
+  "themselves",
+  "these",
+  "they",
+  "this",
+  "those",
+  "us",
+  "we",
+  "what",
+  "whatever",
+  "which",
+  "whichever",
+  "who",
+  "whoever",
+  "whom",
+  "whomever",
+  "whose",
+  "you",
+  "your",
+  "yours",
+  "yourself",
+  "yourselves",
+]
 const SUMMING = ["both", "each", "either", "neither"]
 const DEGREE = ["all", "least", "most"]
 const MARKERS = ["advmod", "case", "cc", "det", "fixed", "punct"]
@@ -67,6 +151,14 @@ export function isRelative(sentence: DepSentence, token: DepToken): boolean {
 
 export function isDemonstrative(token: DepToken): boolean {
   return DEMONSTRATIVE.includes(lower(token))
+}
+
+export function isReflexive(token: DepToken): boolean {
+  return REFLEXIVE.includes(lower(token))
+}
+
+export function isPronoun(token: DepToken): boolean {
+  return PRONOUN.includes(lower(token))
 }
 
 export function isSummingCount(token: DepToken): boolean {

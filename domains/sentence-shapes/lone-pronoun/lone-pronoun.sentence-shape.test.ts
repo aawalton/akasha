@@ -100,3 +100,51 @@ test("a sentence naming the thing holds no match", () => {
   ])
   expect(lonePronoun(said)).toEqual([])
 })
+
+test("a pronoun pointing at nothing is found", () => {
+  const said = sentenceOf([
+    ["Nothing", "PRON", 2, "nsubj"],
+    ["fetches", "VERB", 0, "root"],
+  ])
+  expect(lonePronoun(said)).toEqual([{ at: [1] }])
+})
+
+test("a pronoun supplying its own content is found", () => {
+  const said = sentenceOf([
+    ["What", "PRON", 2, "nsubj"],
+    ["lands", "VERB", 4, "csubj"],
+    ["is", "AUX", 4, "cop"],
+    ["judged", "ADJ", 0, "root"],
+  ])
+  expect(lonePronoun(said)).toEqual([{ at: [1] }])
+})
+
+test("a reflexive is passed over, because no noun can take its place", () => {
+  const said = sentenceOf([
+    ["A", "DET", 2, "det"],
+    ["page", "NOUN", 3, "nsubj"],
+    ["names", "VERB", 0, "root"],
+    ["itself", "PRON", 3, "obj"],
+  ])
+  expect(lonePronoun(said)).toEqual([])
+})
+
+test("a word tagged a pronoun that is no pronoun is passed over", () => {
+  const said = sentenceOf([
+    ["A", "DET", 2, "det"],
+    ["line", "NOUN", 3, "nsubj"],
+    ["names", "VERB", 0, "root"],
+    ["the", "PRON", 3, "obj"],
+  ])
+  expect(lonePronoun(said)).toEqual([])
+})
+
+test("an expletive there is passed over", () => {
+  const said = sentenceOf([
+    ["Whether", "SCONJ", 4, "mark"],
+    ["there", "PRON", 4, "nsubj"],
+    ["is", "AUX", 4, "cop"],
+    ["one", "NUM", 0, "root"],
+  ])
+  expect(lonePronoun(said)).toEqual([])
+})
