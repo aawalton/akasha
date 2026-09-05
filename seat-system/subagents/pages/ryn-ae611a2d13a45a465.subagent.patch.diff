@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/fitness/exercise-access/exercise-vocabulary/exercise-vocabulary.module.ts b/alan/fitness/exercise-access/exercise-vocabulary/exercise-vocabulary.module.ts
+index af4c23f8327d2f5c0eb95c4bf1f304b237ea2b40..6925368fd062ecb455a17715526a8be3d1066045 100644
+--- a/alan/fitness/exercise-access/exercise-vocabulary/exercise-vocabulary.module.ts
++++ b/alan/fitness/exercise-access/exercise-vocabulary/exercise-vocabulary.module.ts
+@@ -13,7 +13,7 @@ export const exerciseVocabulary = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A coaching constraint takes a focus or takes all of them.",
++      statement: "A coaching constraint takes a focus or takes all of the focuses.",
+     },
+     {
+       invariantKind: "departure",
