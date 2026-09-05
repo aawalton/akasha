@@ -220,18 +220,6 @@ index 0000000000000000000000000000000000000000..70d86bf7addb954a58386f167c297f6d
 +    { name: "backup-pvc", yaml: backupPvcYaml(NAMESPACE, SHARED_BACKUP) },
 +  ]
 +}
-diff --git a/seat-system/subagents/pages/aranya-af0f98f88f0a319c6.subagent.patch.diff b/seat-system/subagents/pages/aranya-af0f98f88f0a319c6.subagent.patch.diff
-index a9e014a2bd7b6fccfc3f5e2b3d098abf38ef1db5..e134a1c1c4022dfdd7fcdee0524019b8ef320dbb 100644
---- a/seat-system/subagents/pages/aranya-af0f98f88f0a319c6.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-af0f98f88f0a319c6.subagent.patch.diff
-@@ -7,6 +7,6 @@ index 799344c40e10a2d5d1a13749ac0d48f1eaa239b3..608945567cea59b7b7c6fc85ab48bce0
-    replicas: 1,
-    containerPort: 9333,
- -  manifestCode:
---    "infrastructure/seaweedfs/master/seaweedfs-master.cluster-service.code.attachment.ts",
-+-    "infrastructure/seaweedfs/master/seaweedfs-master.manifest.code.ts",
- +  manifestSlug: "seaweedfs-master",
-  } as const satisfies ClusterService
 diff --git a/service-system/cluster-services/pages/seaweedfs-master.cluster-service.ts b/service-system/cluster-services/pages/seaweedfs-master.cluster-service.ts
 index 799344c40e10a2d5d1a13749ac0d48f1eaa239b3..cdfc162f36554f9ae22c040b0f0bcc5359a83304 100644
 --- a/service-system/cluster-services/pages/seaweedfs-master.cluster-service.ts
