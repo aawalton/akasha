@@ -31,7 +31,7 @@ export const lintClean = {
     {
       invariantKind: "departure",
       statement:
-        "The linter reads a world written out of what the change proposes rather than the working tree.",
+        "The linter reads a world written out of the files the change proposes rather than the working tree.",
     },
     {
       invariantKind: "departure",
@@ -63,11 +63,11 @@ export const lintClean = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here says what the linter looks for.",
+      statement: "Nothing here says which rules the linter looks for.",
     },
     {
       invariantKind: "absence",
-      statement: "Which rules bind is what the linter is configured by.",
+      statement: "The linter's own configuration settles which rules bind.",
     },
     {
       invariantKind: "absence",
@@ -79,7 +79,7 @@ export const lintClean = {
     },
     {
       invariantKind: "constraint",
-      statement: "The world's root is taken out of what is reported.",
+      statement: "The world's root is taken out of every reason reported.",
     },
     {
       invariantKind: "departure",
@@ -87,7 +87,7 @@ export const lintClean = {
     },
     {
       invariantKind: "gap",
-      statement: "Only what the linter is configured to read is judged.",
+      statement: "Only the files the linter is configured to read are judged.",
     },
   ],
 } as const satisfies CodeCheck
