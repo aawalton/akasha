@@ -68,6 +68,7 @@ export const role = {
         "A search that found nothing is a search to widen.",
         "Reading the code is not running it.",
         "A commit you remember is not a commit you read.",
+        "A correction is a claim.",
       ],
     },
     {
