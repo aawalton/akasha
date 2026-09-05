@@ -1,0 +1,541 @@
+runsWarrants: false
+diff --git a/story/world-mechanics/world-miracles/pages/a-ray-of-sunlight.world-miracle.ts b/story/world-mechanics/world-miracles/pages/a-ray-of-sunlight.world-miracle.ts
+deleted file mode 100644
+index 3ae6953ff84eb833538e340ccc0100e2a81e144a..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-miracles/pages/a-ray-of-sunlight.world-miracle.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldMiracle } from "../world-miracle.page-type.ts"
+-
+-export const aRayOfSunlight = {
+-  id: "01a0655a-7b7b-702e-a80c-55ab3d721c01",
+-  pageTypeSlug: "world-miracle",
+-  slug: "a-ray-of-sunlight",
+-  title: "A Ray of Sunlight",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/a-ray-of-sunlight/a-ray-of-sunlight.world-miracle.ts b/story/world-mechanics/world-miracles/pages/a-ray-of-sunlight/a-ray-of-sunlight.world-miracle.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f626cfb353ab54f685cf646a090ed126c9d43d2f
+--- /dev/null
++++ b/story/world-mechanics/world-miracles/pages/a-ray-of-sunlight/a-ray-of-sunlight.world-miracle.ts
+@@ -0,0 +1,9 @@
++import type { WorldMiracle } from "../../world-miracle.page-type.ts"
++
++export const aRayOfSunlight = {
++  id: "01a0655a-7b7b-702e-a80c-55ab3d721c01",
++  pageTypeSlug: "world-miracle",
++  slug: "a-ray-of-sunlight",
++  title: "A Ray of Sunlight",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/amass-the-faithful-s-will.world-miracle.ts b/story/world-mechanics/world-miracles/pages/amass-the-faithful-s-will.world-miracle.ts
+deleted file mode 100644
+index 8664cc3e4771b0827512291f70e59d5c2c4b69d2..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-miracles/pages/amass-the-faithful-s-will.world-miracle.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldMiracle } from "../world-miracle.page-type.ts"
+-
+-export const amassTheFaithfulSWill = {
+-  id: "01a0655a-7b7b-7bce-9dc4-cec597c138ce",
+-  pageTypeSlug: "world-miracle",
+-  slug: "amass-the-faithful-s-will",
+-  title: "Amass the Faithful’s Will",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/amass-the-faithful-s-will/amass-the-faithful-s-will.world-miracle.ts b/story/world-mechanics/world-miracles/pages/amass-the-faithful-s-will/amass-the-faithful-s-will.world-miracle.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4c19b66e3b9156a53795c899d495cabf0e4e39ea
+--- /dev/null
++++ b/story/world-mechanics/world-miracles/pages/amass-the-faithful-s-will/amass-the-faithful-s-will.world-miracle.ts
+@@ -0,0 +1,9 @@
++import type { WorldMiracle } from "../../world-miracle.page-type.ts"
++
++export const amassTheFaithfulSWill = {
++  id: "01a0655a-7b7b-7bce-9dc4-cec597c138ce",
++  pageTypeSlug: "world-miracle",
++  slug: "amass-the-faithful-s-will",
++  title: "Amass the Faithful’s Will",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/avatar-of-faith.world-miracle.ts b/story/world-mechanics/world-miracles/pages/avatar-of-faith.world-miracle.ts
+deleted file mode 100644
+index 483252de72148a6929482ff45e4863a61d0a5ab3..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-miracles/pages/avatar-of-faith.world-miracle.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldMiracle } from "../world-miracle.page-type.ts"
+-
+-export const avatarOfFaith = {
+-  id: "01a0655a-7b7c-754b-8c6e-83a12aedf146",
+-  pageTypeSlug: "world-miracle",
+-  slug: "avatar-of-faith",
+-  title: "Avatar of Faith",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/avatar-of-faith/avatar-of-faith.world-miracle.ts b/story/world-mechanics/world-miracles/pages/avatar-of-faith/avatar-of-faith.world-miracle.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bc80625bc8e2fdaf8c1f6f27217de3b5b1432aef
+--- /dev/null
++++ b/story/world-mechanics/world-miracles/pages/avatar-of-faith/avatar-of-faith.world-miracle.ts
+@@ -0,0 +1,9 @@
++import type { WorldMiracle } from "../../world-miracle.page-type.ts"
++
++export const avatarOfFaith = {
++  id: "01a0655a-7b7c-754b-8c6e-83a12aedf146",
++  pageTypeSlug: "world-miracle",
++  slug: "avatar-of-faith",
++  title: "Avatar of Faith",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/biblical-earthquake.world-miracle.ts b/story/world-mechanics/world-miracles/pages/biblical-earthquake.world-miracle.ts
+deleted file mode 100644
+index bd3d2b825e52cce8cc78ebdab45e67f8a57df9a7..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-miracles/pages/biblical-earthquake.world-miracle.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldMiracle } from "../world-miracle.page-type.ts"
+-
+-export const biblicalEarthquake = {
+-  id: "01a0655a-7b7c-7044-8885-4c8e007eecb5",
+-  pageTypeSlug: "world-miracle",
+-  slug: "biblical-earthquake",
+-  title: "Biblical Earthquake",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/biblical-earthquake/biblical-earthquake.world-miracle.ts b/story/world-mechanics/world-miracles/pages/biblical-earthquake/biblical-earthquake.world-miracle.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8f78257be2fbdc8d27bf132e21707a7afed02d1a
+--- /dev/null
++++ b/story/world-mechanics/world-miracles/pages/biblical-earthquake/biblical-earthquake.world-miracle.ts
+@@ -0,0 +1,9 @@
++import type { WorldMiracle } from "../../world-miracle.page-type.ts"
++
++export const biblicalEarthquake = {
++  id: "01a0655a-7b7c-7044-8885-4c8e007eecb5",
++  pageTypeSlug: "world-miracle",
++  slug: "biblical-earthquake",
++  title: "Biblical Earthquake",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/big-kick.world-miracle.ts b/story/world-mechanics/world-miracles/pages/big-kick.world-miracle.ts
+deleted file mode 100644
+index 47a2da0c898a9be6ab43e937adf456ce99ad79b7..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-miracles/pages/big-kick.world-miracle.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldMiracle } from "../world-miracle.page-type.ts"
+-
+-export const bigKick = {
+-  id: "01a0655a-7b7c-7148-808d-ec7bc279fc7c",
+-  pageTypeSlug: "world-miracle",
+-  slug: "big-kick",
+-  title: "Big Kick",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/big-kick/big-kick.world-miracle.ts b/story/world-mechanics/world-miracles/pages/big-kick/big-kick.world-miracle.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6ed82588e126f6b369be3e6a467d036556147333
+--- /dev/null
++++ b/story/world-mechanics/world-miracles/pages/big-kick/big-kick.world-miracle.ts
+@@ -0,0 +1,9 @@
++import type { WorldMiracle } from "../../world-miracle.page-type.ts"
++
++export const bigKick = {
++  id: "01a0655a-7b7c-7148-808d-ec7bc279fc7c",
++  pageTypeSlug: "world-miracle",
++  slug: "big-kick",
++  title: "Big Kick",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/breath-of-giants.world-miracle.ts b/story/world-mechanics/world-miracles/pages/breath-of-giants.world-miracle.ts
+deleted file mode 100644
+index 218b59a69031e092a0ee377cc29eacd3574f9b59..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-miracles/pages/breath-of-giants.world-miracle.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldMiracle } from "../world-miracle.page-type.ts"
+-
+-export const breathOfGiants = {
+-  id: "01a0655a-7b7c-7005-9e09-17bef9d42737",
+-  pageTypeSlug: "world-miracle",
+-  slug: "breath-of-giants",
+-  title: "Breath of Giants",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/breath-of-giants/breath-of-giants.world-miracle.ts b/story/world-mechanics/world-miracles/pages/breath-of-giants/breath-of-giants.world-miracle.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..46e3a04391300834bdfc44437a213755b646f2d8
+--- /dev/null
++++ b/story/world-mechanics/world-miracles/pages/breath-of-giants/breath-of-giants.world-miracle.ts
+@@ -0,0 +1,9 @@
++import type { WorldMiracle } from "../../world-miracle.page-type.ts"
++
++export const breathOfGiants = {
++  id: "01a0655a-7b7c-7005-9e09-17bef9d42737",
++  pageTypeSlug: "world-miracle",
++  slug: "breath-of-giants",
++  title: "Breath of Giants",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/explosion-of-faith-orb.world-miracle.ts b/story/world-mechanics/world-miracles/pages/explosion-of-faith-orb.world-miracle.ts
+deleted file mode 100644
+index d3481637b5dfbfef6bbe26cc8d96a626f61c9d39..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-miracles/pages/explosion-of-faith-orb.world-miracle.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldMiracle } from "../world-miracle.page-type.ts"
+-
+-export const explosionOfFaithOrb = {
+-  id: "01a0655a-7b7c-7c46-99ae-11e147102b60",
+-  pageTypeSlug: "world-miracle",
+-  slug: "explosion-of-faith-orb",
+-  title: "Explosion of Faith (Orb)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/explosion-of-faith-orb/explosion-of-faith-orb.world-miracle.ts b/story/world-mechanics/world-miracles/pages/explosion-of-faith-orb/explosion-of-faith-orb.world-miracle.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bdd54454314ee117be29189f3597cda8b716ba14
+--- /dev/null
++++ b/story/world-mechanics/world-miracles/pages/explosion-of-faith-orb/explosion-of-faith-orb.world-miracle.ts
+@@ -0,0 +1,9 @@
++import type { WorldMiracle } from "../../world-miracle.page-type.ts"
++
++export const explosionOfFaithOrb = {
++  id: "01a0655a-7b7c-7c46-99ae-11e147102b60",
++  pageTypeSlug: "world-miracle",
++  slug: "explosion-of-faith-orb",
++  title: "Explosion of Faith (Orb)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/flood-of-life-s-colors.world-miracle.ts b/story/world-mechanics/world-miracles/pages/flood-of-life-s-colors.world-miracle.ts
+deleted file mode 100644
+index 0922e86f8d25c2725b5719c43b471108cca62400..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-miracles/pages/flood-of-life-s-colors.world-miracle.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldMiracle } from "../world-miracle.page-type.ts"
+-
+-export const floodOfLifeSColors = {
+-  id: "01a0655a-7b7c-76bd-9f32-8cb84fa7e173",
+-  pageTypeSlug: "world-miracle",
+-  slug: "flood-of-life-s-colors",
+-  title: "Flood of Life’s Colors",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/flood-of-life-s-colors/flood-of-life-s-colors.world-miracle.ts b/story/world-mechanics/world-miracles/pages/flood-of-life-s-colors/flood-of-life-s-colors.world-miracle.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..041dae97805565f3292fa645ecc00e860d73f7a5
+--- /dev/null
++++ b/story/world-mechanics/world-miracles/pages/flood-of-life-s-colors/flood-of-life-s-colors.world-miracle.ts
+@@ -0,0 +1,9 @@
++import type { WorldMiracle } from "../../world-miracle.page-type.ts"
++
++export const floodOfLifeSColors = {
++  id: "01a0655a-7b7c-76bd-9f32-8cb84fa7e173",
++  pageTypeSlug: "world-miracle",
++  slug: "flood-of-life-s-colors",
++  title: "Flood of Life’s Colors",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/holy-sword.world-miracle.ts b/story/world-mechanics/world-miracles/pages/holy-sword.world-miracle.ts
+deleted file mode 100644
+index ae37e37345e3ed8331b693cf9440d00334af5ff3..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-miracles/pages/holy-sword.world-miracle.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldMiracle } from "../world-miracle.page-type.ts"
+-
+-export const holySword = {
+-  id: "01a0655a-7b7c-791a-a216-650d972d3e94",
+-  pageTypeSlug: "world-miracle",
+-  slug: "holy-sword",
+-  title: "Holy Sword",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/holy-sword/holy-sword.world-miracle.ts b/story/world-mechanics/world-miracles/pages/holy-sword/holy-sword.world-miracle.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ea29cbd37f0e6eedbfc32d0cda912c630c3381cf
+--- /dev/null
++++ b/story/world-mechanics/world-miracles/pages/holy-sword/holy-sword.world-miracle.ts
+@@ -0,0 +1,9 @@
++import type { WorldMiracle } from "../../world-miracle.page-type.ts"
++
++export const holySword = {
++  id: "01a0655a-7b7c-791a-a216-650d972d3e94",
++  pageTypeSlug: "world-miracle",
++  slug: "holy-sword",
++  title: "Holy Sword",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/mass-prayer-of-magic-s-denial.world-miracle.ts b/story/world-mechanics/world-miracles/pages/mass-prayer-of-magic-s-denial.world-miracle.ts
+deleted file mode 100644
+index fe607cea1f63067161c11481faacafae94880133..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-miracles/pages/mass-prayer-of-magic-s-denial.world-miracle.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldMiracle } from "../world-miracle.page-type.ts"
+-
+-export const massPrayerOfMagicSDenial = {
+-  id: "01a0655a-7b7c-74b6-b5fe-756bf5a44d8e",
+-  pageTypeSlug: "world-miracle",
+-  slug: "mass-prayer-of-magic-s-denial",
+-  title: "Mass Prayer of Magic’s Denial",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/mass-prayer-of-magic-s-denial/mass-prayer-of-magic-s-denial.world-miracle.ts b/story/world-mechanics/world-miracles/pages/mass-prayer-of-magic-s-denial/mass-prayer-of-magic-s-denial.world-miracle.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fa9d7621803df84f054e032de4c8f216e201bf5b
+--- /dev/null
++++ b/story/world-mechanics/world-miracles/pages/mass-prayer-of-magic-s-denial/mass-prayer-of-magic-s-denial.world-miracle.ts
+@@ -0,0 +1,9 @@
++import type { WorldMiracle } from "../../world-miracle.page-type.ts"
++
++export const massPrayerOfMagicSDenial = {
++  id: "01a0655a-7b7c-74b6-b5fe-756bf5a44d8e",
++  pageTypeSlug: "world-miracle",
++  slug: "mass-prayer-of-magic-s-denial",
++  title: "Mass Prayer of Magic’s Denial",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/return-vengeance-to-thee.world-miracle.ts b/story/world-mechanics/world-miracles/pages/return-vengeance-to-thee.world-miracle.ts
+deleted file mode 100644
+index 2c2c439986a9a8ec053ffb4ca70aafa93ab5a40a..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-miracles/pages/return-vengeance-to-thee.world-miracle.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldMiracle } from "../world-miracle.page-type.ts"
+-
+-export const returnVengeanceToThee = {
+-  id: "01a0655a-7b7c-7df8-b1fb-33db8a84fb6e",
+-  pageTypeSlug: "world-miracle",
+-  slug: "return-vengeance-to-thee",
+-  title: "Return Vengeance to Thee",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/return-vengeance-to-thee/return-vengeance-to-thee.world-miracle.ts b/story/world-mechanics/world-miracles/pages/return-vengeance-to-thee/return-vengeance-to-thee.world-miracle.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..77685fbf3c39848617aa2d676cbfd153e68629e9
+--- /dev/null
++++ b/story/world-mechanics/world-miracles/pages/return-vengeance-to-thee/return-vengeance-to-thee.world-miracle.ts
+@@ -0,0 +1,9 @@
++import type { WorldMiracle } from "../../world-miracle.page-type.ts"
++
++export const returnVengeanceToThee = {
++  id: "01a0655a-7b7c-7df8-b1fb-33db8a84fb6e",
++  pageTypeSlug: "world-miracle",
++  slug: "return-vengeance-to-thee",
++  title: "Return Vengeance to Thee",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/sacrament-summon-the-divine-angel.world-miracle.ts b/story/world-mechanics/world-miracles/pages/sacrament-summon-the-divine-angel.world-miracle.ts
+deleted file mode 100644
+index 1cc4ea0903c207513df65d5f008dd9c2f238b71e..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-miracles/pages/sacrament-summon-the-divine-angel.world-miracle.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldMiracle } from "../world-miracle.page-type.ts"
+-
+-export const sacramentSummonTheDivineAngel = {
+-  id: "01a0655a-7b7c-76ec-a986-2ab5f8e77ffd",
+-  pageTypeSlug: "world-miracle",
+-  slug: "sacrament-summon-the-divine-angel",
+-  title: "Sacrament: Summon the Divine (Angel)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/sacrament-summon-the-divine-angel/sacrament-summon-the-divine-angel.world-miracle.ts b/story/world-mechanics/world-miracles/pages/sacrament-summon-the-divine-angel/sacrament-summon-the-divine-angel.world-miracle.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..12b61be7d415fcc19437f7091b9f062c90b5205c
+--- /dev/null
++++ b/story/world-mechanics/world-miracles/pages/sacrament-summon-the-divine-angel/sacrament-summon-the-divine-angel.world-miracle.ts
+@@ -0,0 +1,9 @@
++import type { WorldMiracle } from "../../world-miracle.page-type.ts"
++
++export const sacramentSummonTheDivineAngel = {
++  id: "01a0655a-7b7c-76ec-a986-2ab5f8e77ffd",
++  pageTypeSlug: "world-miracle",
++  slug: "sacrament-summon-the-divine-angel",
++  title: "Sacrament: Summon the Divine (Angel)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/summon-heaven-s-guardians.world-miracle.ts b/story/world-mechanics/world-miracles/pages/summon-heaven-s-guardians.world-miracle.ts
+deleted file mode 100644
+index 1e14190dc444fcfd8b65609c58495f446fbe5c7a..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-miracles/pages/summon-heaven-s-guardians.world-miracle.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldMiracle } from "../world-miracle.page-type.ts"
+-
+-export const summonHeavenSGuardians = {
+-  id: "01a0655a-7b7c-7296-9823-fad461b1bdc5",
+-  pageTypeSlug: "world-miracle",
+-  slug: "summon-heaven-s-guardians",
+-  title: "Summon Heaven’s Guardians",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/summon-heaven-s-guardians/summon-heaven-s-guardians.world-miracle.ts b/story/world-mechanics/world-miracles/pages/summon-heaven-s-guardians/summon-heaven-s-guardians.world-miracle.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0bdb44ebfb458897eeb7ac76efb3e623c114bc83
+--- /dev/null
++++ b/story/world-mechanics/world-miracles/pages/summon-heaven-s-guardians/summon-heaven-s-guardians.world-miracle.ts
+@@ -0,0 +1,9 @@
++import type { WorldMiracle } from "../../world-miracle.page-type.ts"
++
++export const summonHeavenSGuardians = {
++  id: "01a0655a-7b7c-7296-9823-fad461b1bdc5",
++  pageTypeSlug: "world-miracle",
++  slug: "summon-heaven-s-guardians",
++  title: "Summon Heaven’s Guardians",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/summon-workers-holy.world-miracle.ts b/story/world-mechanics/world-miracles/pages/summon-workers-holy.world-miracle.ts
+deleted file mode 100644
+index 080d2941e0fb56ddb4330992eb5ee7486d09a61f..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-miracles/pages/summon-workers-holy.world-miracle.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldMiracle } from "../world-miracle.page-type.ts"
+-
+-export const summonWorkersHoly = {
+-  id: "01a0655a-7b7c-7a07-9ad0-4659361cec24",
+-  pageTypeSlug: "world-miracle",
+-  slug: "summon-workers-holy",
+-  title: "Summon Workers (Holy)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/summon-workers-holy/summon-workers-holy.world-miracle.ts b/story/world-mechanics/world-miracles/pages/summon-workers-holy/summon-workers-holy.world-miracle.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fd4073a6e365f8d49be5d40ffc1e94c4ce5d5cc2
+--- /dev/null
++++ b/story/world-mechanics/world-miracles/pages/summon-workers-holy/summon-workers-holy.world-miracle.ts
+@@ -0,0 +1,9 @@
++import type { WorldMiracle } from "../../world-miracle.page-type.ts"
++
++export const summonWorkersHoly = {
++  id: "01a0655a-7b7c-7a07-9ad0-4659361cec24",
++  pageTypeSlug: "world-miracle",
++  slug: "summon-workers-holy",
++  title: "Summon Workers (Holy)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/the-sky-is-falling.world-miracle.ts b/story/world-mechanics/world-miracles/pages/the-sky-is-falling.world-miracle.ts
+deleted file mode 100644
+index 2be4c61238153993a58589f731282b19e10cc584..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-miracles/pages/the-sky-is-falling.world-miracle.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldMiracle } from "../world-miracle.page-type.ts"
+-
+-export const theSkyIsFalling = {
+-  id: "01a0655a-7b7c-7060-b680-48839937842c",
+-  pageTypeSlug: "world-miracle",
+-  slug: "the-sky-is-falling",
+-  title: "The Sky is Falling",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/the-sky-is-falling/the-sky-is-falling.world-miracle.ts b/story/world-mechanics/world-miracles/pages/the-sky-is-falling/the-sky-is-falling.world-miracle.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2bd9ba8744e1c0cd85cc3898e338a69855a17198
+--- /dev/null
++++ b/story/world-mechanics/world-miracles/pages/the-sky-is-falling/the-sky-is-falling.world-miracle.ts
+@@ -0,0 +1,9 @@
++import type { WorldMiracle } from "../../world-miracle.page-type.ts"
++
++export const theSkyIsFalling = {
++  id: "01a0655a-7b7c-7060-b680-48839937842c",
++  pageTypeSlug: "world-miracle",
++  slug: "the-sky-is-falling",
++  title: "The Sky is Falling",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/upgrade-spell-futuristic-magic.world-miracle.ts b/story/world-mechanics/world-miracles/pages/upgrade-spell-futuristic-magic.world-miracle.ts
+deleted file mode 100644
+index 0f5bcf47d83446e76b6f1ee71eaa805099ce8883..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-miracles/pages/upgrade-spell-futuristic-magic.world-miracle.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldMiracle } from "../world-miracle.page-type.ts"
+-
+-export const upgradeSpellFuturisticMagic = {
+-  id: "01a0655a-7b7c-786b-96f8-90d2a37f6aa5",
+-  pageTypeSlug: "world-miracle",
+-  slug: "upgrade-spell-futuristic-magic",
+-  title: "Upgrade Spell (Futuristic Magic)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/upgrade-spell-futuristic-magic/upgrade-spell-futuristic-magic.world-miracle.ts b/story/world-mechanics/world-miracles/pages/upgrade-spell-futuristic-magic/upgrade-spell-futuristic-magic.world-miracle.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..688d3079a8754da0349af5df8c719984b0c9f897
+--- /dev/null
++++ b/story/world-mechanics/world-miracles/pages/upgrade-spell-futuristic-magic/upgrade-spell-futuristic-magic.world-miracle.ts
+@@ -0,0 +1,9 @@
++import type { WorldMiracle } from "../../world-miracle.page-type.ts"
++
++export const upgradeSpellFuturisticMagic = {
++  id: "01a0655a-7b7c-786b-96f8-90d2a37f6aa5",
++  pageTypeSlug: "world-miracle",
++  slug: "upgrade-spell-futuristic-magic",
++  title: "Upgrade Spell (Futuristic Magic)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/we-return-to-safe-harbors.world-miracle.ts b/story/world-mechanics/world-miracles/pages/we-return-to-safe-harbors.world-miracle.ts
+deleted file mode 100644
+index 39e5da03949452fdcef7571a88a12d3351184663..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-miracles/pages/we-return-to-safe-harbors.world-miracle.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldMiracle } from "../world-miracle.page-type.ts"
+-
+-export const weReturnToSafeHarbors = {
+-  id: "01a0655a-7b7c-7cd8-88e5-ff3603895c2e",
+-  pageTypeSlug: "world-miracle",
+-  slug: "we-return-to-safe-harbors",
+-  title: "We Return to Safe Harbors",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/we-return-to-safe-harbors/we-return-to-safe-harbors.world-miracle.ts b/story/world-mechanics/world-miracles/pages/we-return-to-safe-harbors/we-return-to-safe-harbors.world-miracle.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3113cd6e27e79efe291581faf1f5c0902013482a
+--- /dev/null
++++ b/story/world-mechanics/world-miracles/pages/we-return-to-safe-harbors/we-return-to-safe-harbors.world-miracle.ts
+@@ -0,0 +1,9 @@
++import type { WorldMiracle } from "../../world-miracle.page-type.ts"
++
++export const weReturnToSafeHarbors = {
++  id: "01a0655a-7b7c-7cd8-88e5-ff3603895c2e",
++  pageTypeSlug: "world-miracle",
++  slug: "we-return-to-safe-harbors",
++  title: "We Return to Safe Harbors",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/witness-it-twice.world-miracle.ts b/story/world-mechanics/world-miracles/pages/witness-it-twice.world-miracle.ts
+deleted file mode 100644
+index be0eb534727afcadeb7f7ade351223cfc3e701d9..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-miracles/pages/witness-it-twice.world-miracle.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldMiracle } from "../world-miracle.page-type.ts"
+-
+-export const witnessItTwice = {
+-  id: "01a0655a-7b7c-7b2a-b87f-8d6211e031ca",
+-  pageTypeSlug: "world-miracle",
+-  slug: "witness-it-twice",
+-  title: "Witness It, Twice",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldMiracle
+diff --git a/story/world-mechanics/world-miracles/pages/witness-it-twice/witness-it-twice.world-miracle.ts b/story/world-mechanics/world-miracles/pages/witness-it-twice/witness-it-twice.world-miracle.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f7744a9509cb638480914d6c4bd33114ac8a37ff
+--- /dev/null
++++ b/story/world-mechanics/world-miracles/pages/witness-it-twice/witness-it-twice.world-miracle.ts
+@@ -0,0 +1,9 @@
++import type { WorldMiracle } from "../../world-miracle.page-type.ts"
++
++export const witnessItTwice = {
++  id: "01a0655a-7b7c-7b2a-b87f-8d6211e031ca",
++  pageTypeSlug: "world-miracle",
++  slug: "witness-it-twice",
++  title: "Witness It, Twice",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldMiracle
