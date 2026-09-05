@@ -22,7 +22,7 @@ export const seatModes = {
     },
     {
       invariantKind: "departure",
-      statement: "A mode carried to a launch and back is the mode it set out as.",
+      statement: "A mode carried to a launch and back is the mode that mode set out as.",
     },
     {
       invariantKind: "absence",
