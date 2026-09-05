@@ -14,7 +14,7 @@ export const inboxTrackingPolling = {
     {
       invariantKind: "departure",
       statement:
-        "What is written is the count now, together with whether that inbox was cleared to zero today.",
+        "The write puts the count now, together with whether that inbox was cleared to zero today.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,7 @@ export const inboxTrackingPolling = {
     },
     {
       invariantKind: "departure",
-      statement: "A source that fails is named in what the run reports as failed.",
+      statement: "A source that fails is named among the sources the run reports as failed.",
     },
     {
       invariantKind: "departure",
