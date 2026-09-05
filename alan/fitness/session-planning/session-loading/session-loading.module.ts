@@ -9,7 +9,7 @@ export const sessionLoading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This is the one module of the package that reads pages.",
+      statement: "This module is the only module of the package that reads pages.",
     },
     {
       invariantKind: "departure",

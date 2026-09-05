@@ -41,7 +41,7 @@ export const monarchEval = {
     {
       invariantKind: "departure",
       statement:
-        "A row carrying no category anyone chose has no answer to be scored against, and those are the rows this pipeline most exists to serve.",
+        "A row carrying no category anyone chose has no answer to be scored against, and those rows are the ones this pipeline most exists to serve.",
     },
     {
       invariantKind: "departure",

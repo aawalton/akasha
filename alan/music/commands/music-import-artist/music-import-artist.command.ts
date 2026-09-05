@@ -42,7 +42,7 @@ export const musicImportArtist = {
     },
     {
       invariantKind: "departure",
-      statement: "A field this does not fetch is left as it was.",
+      statement: "A field this command does not fetch is left as it was.",
     },
     {
       invariantKind: "departure",

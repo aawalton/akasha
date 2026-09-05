@@ -33,7 +33,7 @@ export const monarchRuleClauses = {
     {
       invariantKind: "departure",
       statement:
-        "A rule narrowing on nothing but a sign, an amount, a counterpart or a date is refused, because none of those says which transactions the rule is about.",
+        "A rule narrowing on nothing but a sign, an amount, a counterpart or a date is refused, because none of those clauses says which transactions the rule is about.",
     },
     {
       invariantKind: "departure",

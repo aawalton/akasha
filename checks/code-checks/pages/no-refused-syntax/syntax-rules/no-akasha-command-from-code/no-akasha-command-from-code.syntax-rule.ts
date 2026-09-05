@@ -43,7 +43,8 @@ export const noAkashaCommandFromCode = {
     },
     {
       invariantKind: "departure",
-      statement: "A process a program starts to outlive its caller is not this.",
+      statement:
+        "A process a program starts to outlive its caller is not the call this rule refuses.",
     },
     {
       invariantKind: "absence",

@@ -18,7 +18,7 @@ export const propertyIsDeclaredByAType = {
     },
     {
       invariantKind: "departure",
-      statement: "This holds the properties tree to the parts tree one page at a time.",
+      statement: "This check holds the properties tree to the parts tree one page at a time.",
     },
     {
       invariantKind: "departure",

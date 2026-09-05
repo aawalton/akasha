@@ -147,7 +147,7 @@ export const claudeAccountSelection = {
     {
       invariantKind: "gap",
       statement:
-        "The account types this reads sit under the gateway rather than under the accounts.",
+        "The account types this module reads sit under the gateway rather than under the accounts.",
     },
   ],
 } as const satisfies Module

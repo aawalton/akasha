@@ -43,7 +43,7 @@ export const emailAddressIsWellFormed = {
     },
     {
       invariantKind: "departure",
-      statement: "An address longer than that is refused for its length alone.",
+      statement: "An address longer than 254 characters is refused for its length alone.",
     },
     {
       invariantKind: "departure",
