@@ -48,7 +48,7 @@ export const agent = {
     },
     {
       invariantKind: "departure",
-      statement: "What an agent has read is the agent's own rather than its seat's.",
+      statement: "The pages an agent has read are the agent's own rather than its seat's.",
     },
     {
       invariantKind: "departure",
