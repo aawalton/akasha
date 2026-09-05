@@ -1,5 +1,5 @@
 diff --git a/seat-system/seat-session/seat-session.module.ts b/seat-system/seat-session/seat-session.module.ts
-index a67d5368abaecee3b517a1dfb2ee41c036f36ba7..301413895b92cba2e2c358d1c0a0440fe3b20c22 100644
+index a67d5368abaecee3b517a1dfb2ee41c036f36ba7..d277f6f132b9600aaf88be33c2cb45ff426efba8 100644
 --- a/seat-system/seat-session/seat-session.module.ts
 +++ b/seat-system/seat-session/seat-session.module.ts
 @@ -13,7 +13,8 @@ export const seatSession = {
@@ -12,7 +12,7 @@ index a67d5368abaecee3b517a1dfb2ee41c036f36ba7..301413895b92cba2e2c358d1c0a0440f
      },
      {
        invariantKind: "departure",
-@@ -21,7 +22,7 @@ export const seatSession = {
+@@ -21,11 +22,12 @@ export const seatSession = {
      },
      {
        invariantKind: "departure",
@@ -21,3 +21,9 @@ index a67d5368abaecee3b517a1dfb2ee41c036f36ba7..301413895b92cba2e2c358d1c0a0440f
      },
      {
        invariantKind: "departure",
+-      statement: "Keeping a session does nothing, because the page write is what lands it.",
++      statement:
++        "Keeping a session does nothing, because the page write is what lands that session.",
+     },
+   ],
+ } as const satisfies Module
