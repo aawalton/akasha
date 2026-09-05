@@ -23,7 +23,7 @@ export const resources = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A check stating nothing here is run on whatever the cluster gives it.",
+      statement: "A check stating nothing here is run on whatever the cluster gives that check.",
     },
   ],
 } as const satisfies RecordProperty
