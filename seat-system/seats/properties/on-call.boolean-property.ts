@@ -11,7 +11,7 @@ export const onCall = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What is not on call states false.",
+      statement: "A page not on call states false.",
     },
     {
       invariantKind: "departure",
