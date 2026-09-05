@@ -19,7 +19,6 @@ export const temperProgress = {
     "page-type/temper-item-action",
     "page-type/temper-rule",
     "page-type/temper-rule-goal",
-    "page-type/temper-rule",
     "page-type/temper-rule-template",
     "page-type/temper-task",
     "page-type/temper-watcher-enrolment",
