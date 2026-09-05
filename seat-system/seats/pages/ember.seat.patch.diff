@@ -1009,6 +1009,30 @@ index 0000000000000000000000000000000000000000..86d7a0a025bb19e587b4796bdd43ea3c
 +  fromTemplate: "crafting-craft-bag",
 +  destination: "craft-bag",
 +} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-junk-sell/rule-junk-sell.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-junk-sell/rule-junk-sell.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..917e2f41f273e1619a0189be4c93bcfec6cc58b2
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-junk-sell/rule-junk-sell.temper-inventory-rule.ts
+@@ -0,0 +1,18 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleJunkSell = {
++  id: "01a07288-fea0-75c2-b465-de501e595399",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-junk-sell",
++  title: "Sell junk",
++  description: "Sells items in the junk category at a merchant.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "junk",
++  displayOrder: 65,
++  action: "sell",
++  active: true,
++  goal: "sell",
++  locked: true,
++  fromTemplate: "junk-sell",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
 diff --git a/temper/temper-progress/inventory-rules/pages/x/x.ts b/temper/temper-progress/inventory-rules/pages/x/x.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..13147ea35766dba2871b557428bf333f2f20bd91
