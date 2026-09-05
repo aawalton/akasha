@@ -27,7 +27,7 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "What lands a page composed mints the id the page keeps.",
+      statement: "The landing of a page composed mints the id that page keeps.",
     },
     {
       invariantKind: "departure",
@@ -81,7 +81,7 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "What the program left to finish says goes to a log named for this module.",
+      statement: "Every line the program left to finish says goes to a log named for this module.",
     },
     {
       invariantKind: "departure",
