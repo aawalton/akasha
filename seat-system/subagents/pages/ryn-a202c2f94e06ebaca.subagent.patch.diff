@@ -1,0 +1,13 @@
+diff --git a/alan/harness/monarch/eval/monarch-eval.domain.ts b/alan/harness/monarch/eval/monarch-eval.domain.ts
+index 17a16c16bab031ae4c822df02c990067b0cc34ac..2ef02704723ba810e7e659a1b95cc67e68e795bf 100644
+--- a/alan/harness/monarch/eval/monarch-eval.domain.ts
++++ b/alan/harness/monarch/eval/monarch-eval.domain.ts
+@@ -59,7 +59,7 @@ export const monarchEval = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A figure taken after a first one had been seen is reported as a rerun in its own output, so it cannot be quoted as though it were clean.",
++        "A figure taken after a first figure had been seen is reported as a rerun in its own output.",
+     },
+     {
+       invariantKind: "departure",
