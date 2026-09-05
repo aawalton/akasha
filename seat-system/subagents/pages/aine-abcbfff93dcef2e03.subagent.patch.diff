@@ -38,7 +38,7 @@ index 351b5f25bc88e8b9c8ecda5fd219fe8015fe8b8b..510707ce5269255d0630992e20de3cbd
  
  export function relationWorld(lines: number, pagesStand = true): string {
 diff --git a/graph/asking/graph-asking.module.test.ts b/graph/asking/graph-asking.module.test.ts
-index e56f359afa23419d9e0e739f7af5d27ccb1bdd5e..13bf8e741768b86ec2cc85454fe37e8864ed379c 100644
+index e56f359afa23419d9e0e739f7af5d27ccb1bdd5e..1255ca9cb59b33b89ca99e62d041658ef1e2b121 100644
 --- a/graph/asking/graph-asking.module.test.ts
 +++ b/graph/asking/graph-asking.module.test.ts
 @@ -158,7 +158,7 @@ test("a page type stating a loader is answered no differently from one stating n
@@ -77,6 +77,15 @@ index e56f359afa23419d9e0e739f7af5d27ccb1bdd5e..13bf8e741768b86ec2cc85454fe37e88
    const root = relationWorld(1, false)
    const over = readingLaidOver(root, {
      [edgeFiledAt(RELATION)]: [{ path: EDGE_AT, id: EDGE_ID }],
+@@ -222,7 +222,7 @@ test("a cycle is walked once, so an answer comes back rather than a run that doe
+   expect(reachingInto([FIRST_AT], [IMPORT_EDGE], indexOf(root))).toEqual([FIRST_AT, SECOND_AT])
+ })
+ 
+-test("a node the predicate turns away is left out, and what stands behind it is not reached", () => {
++test("a node the predicate turns away is left out, and what is behind it is not reached", () => {
+   const root = reachingWorld({ [FIRST_AT]: [APART_AT], [APART_AT]: [THIRD_AT] })
+ 
+   const kept = reachingInto([FIRST_AT], [IMPORT_EDGE], indexOf(root), (one) => one.endsWith(ENDING))
 diff --git a/graph/asking/graph-asking.module.ts b/graph/asking/graph-asking.module.ts
 index 447cb572561509daaee0585185566bb4bd526b39..5271270ed0ee9cba43bfcaeba37a458ceb2e4b57 100644
 --- a/graph/asking/graph-asking.module.ts
