@@ -62,7 +62,7 @@ export const replace = {
     },
     {
       invariantKind: "departure",
-      statement: "`--dry-run` reports what the files named hold together.",
+      statement: "`--dry-run` reports how many occurrences the files named hold together.",
     },
     {
       invariantKind: "departure",
