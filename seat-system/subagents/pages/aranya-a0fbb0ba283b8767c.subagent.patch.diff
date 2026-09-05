@@ -1,3 +1,27 @@
+diff --git a/changes/workflow-templates/workflow-template.page-type.ts b/changes/workflow-templates/workflow-template.page-type.ts
+index 74f6cd65d20f695bd93882f09707246a5145f897..503c869d44c04806343f83ccca43971698bdf56b 100644
+--- a/changes/workflow-templates/workflow-template.page-type.ts
++++ b/changes/workflow-templates/workflow-template.page-type.ts
+@@ -19,6 +19,7 @@ export const workflowTemplate = {
+   definition: "a named group of steps a run carries out",
+   pluralSlug: "workflow-templates",
+   extendsSlug: ["page-type/page"],
++  allowsTmpPaths: true,
+   partSlugs: [
+     "file-property/declaration",
+     "relation-property/workflow-cluster-service-slugs",
+diff --git a/infrastructure/k8s-types/manifests/manifest.page-type.ts b/infrastructure/k8s-types/manifests/manifest.page-type.ts
+index 553fb5dca7c1c41d4019a00fad9dbec18f6d4de3..033b6b3a97a85d2ed1eb956e6f6e9978106a43d5 100644
+--- a/infrastructure/k8s-types/manifests/manifest.page-type.ts
++++ b/infrastructure/k8s-types/manifests/manifest.page-type.ts
+@@ -14,6 +14,7 @@ export const manifest = {
+   pluralSlug: "manifests",
+   partSlugs: ["file-property/manifest-code"],
+   extendsSlug: ["page-type/domain"],
++  allowsTmpPaths: true,
+   properties: [{ pagePropertySlug: "manifest-code", required: true, many: false }],
+   invariants: [
+     {
 diff --git a/pages/types/page-type.page-type.ts b/pages/types/page-type.page-type.ts
 index 31c5e90bb3090b6d2bfcc1aceae4e40cf28abb7e..1aca959cee746e6a143c8537cebc2e99256e5b5a 100644
 --- a/pages/types/page-type.page-type.ts
@@ -75,3 +99,15 @@ index 0000000000000000000000000000000000000000..052fdb89824c925fac5c3140c6b95b68
 +    },
 +  ],
 +} as const satisfies BooleanProperty
+diff --git a/service-system/cluster-services/cluster-service.page-type.ts b/service-system/cluster-services/cluster-service.page-type.ts
+index 719098efc8736f0361e942a4bbada5a85dd42c17..43ae105e308fdd9aa0537cea10d9721ab7caef71 100644
+--- a/service-system/cluster-services/cluster-service.page-type.ts
++++ b/service-system/cluster-services/cluster-service.page-type.ts
+@@ -27,6 +27,7 @@ export const clusterService = {
+   definition: "a service the cluster runs as a workload",
+   pluralSlug: "cluster-services",
+   extendsSlug: ["page-type/service"],
++  allowsTmpPaths: true,
+   partSlugs: [
+     "cluster-service/alanwalton-atlas",
+     "cluster-service/alanwalton-web",
