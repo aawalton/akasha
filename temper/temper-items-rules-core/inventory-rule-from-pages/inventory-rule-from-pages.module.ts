@@ -10,7 +10,7 @@ export const inventoryRuleFromPages = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A rule's id is what its page's slug carries after the leading `rule-`.",
+      statement: "A rule's id is the part of its page's slug after the leading `rule-`.",
     },
     {
       invariantKind: "departure",
