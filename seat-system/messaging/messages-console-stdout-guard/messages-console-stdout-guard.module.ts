@@ -14,7 +14,7 @@ export const messagesConsoleStdoutGuard = {
     {
       invariantKind: "departure",
       statement:
-        "This module is loaded for what loading it does rather than for anything it exports.",
+        "This module is loaded for what loading this module does rather than anything this module exports.",
     },
     {
       invariantKind: "departure",
