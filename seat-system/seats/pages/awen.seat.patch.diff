@@ -1,0 +1,751 @@
+runsWarrants: false
+diff --git a/story/world-mechanics/world-enchantments/pages/appraisal.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/appraisal.world-enchantment.ts
+deleted file mode 100644
+index 716ace2af73898761587ebaef8fe031a066f1d10..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/appraisal.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const appraisal = {
+-  id: "01a0655a-7b7b-779c-9310-0b0bbadde5e9",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "appraisal",
+-  title: "Appraisal",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/appraisal/appraisal.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/appraisal/appraisal.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..27d948af6f068dbbaed3be7aff8e03227f2b2e57
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/appraisal/appraisal.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const appraisal = {
++  id: "01a0655a-7b7b-779c-9310-0b0bbadde5e9",
++  pageTypeSlug: "world-enchantment",
++  slug: "appraisal",
++  title: "Appraisal",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/bloodletter.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/bloodletter.world-enchantment.ts
+deleted file mode 100644
+index 545473c89222ac5f8d52600dde816ceb56553a5c..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/bloodletter.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const bloodletter = {
+-  id: "01a0655a-7b7b-705b-84fb-257e641470f7",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "bloodletter",
+-  title: "Bloodletter",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/bloodletter/bloodletter.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/bloodletter/bloodletter.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..40651601c0d69e905e9f276fc111c9532880b606
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/bloodletter/bloodletter.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const bloodletter = {
++  id: "01a0655a-7b7b-705b-84fb-257e641470f7",
++  pageTypeSlug: "world-enchantment",
++  slug: "bloodletter",
++  title: "Bloodletter",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/durability.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/durability.world-enchantment.ts
+deleted file mode 100644
+index 3a489ef3373d985700ff2be982b66947532312be..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/durability.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const durability = {
+-  id: "01a0655a-7b7b-7dbd-afa9-24bc9931dca0",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "durability",
+-  title: "Durability",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/durability/durability.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/durability/durability.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..53da19d2cc60efac058e464be04b31a76a8f7868
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/durability/durability.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const durability = {
++  id: "01a0655a-7b7b-7dbd-afa9-24bc9931dca0",
++  pageTypeSlug: "world-enchantment",
++  slug: "durability",
++  title: "Durability",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/evercut.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/evercut.world-enchantment.ts
+deleted file mode 100644
+index c6bd119533e142c54aa96185cb2370df96607541..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/evercut.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const evercut = {
+-  id: "01a0655a-7b7b-7c60-8e22-7b75d0769c0c",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "evercut",
+-  title: "Evercut",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/evercut/evercut.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/evercut/evercut.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..119a3bc99e08307bb07c7c30b18a8c50086f7115
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/evercut/evercut.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const evercut = {
++  id: "01a0655a-7b7b-7c60-8e22-7b75d0769c0c",
++  pageTypeSlug: "world-enchantment",
++  slug: "evercut",
++  title: "Evercut",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/fear.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/fear.world-enchantment.ts
+deleted file mode 100644
+index 4029a41653f40f1c93f1316e6e094ae066895cef..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/fear.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const fear = {
+-  id: "01a0655a-7b7b-7cf8-81ab-e66f3260effe",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "fear",
+-  title: "Fear",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/fear/fear.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/fear/fear.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bf64807b0a66f9444328daba0b8247f8e40a5f76
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/fear/fear.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const fear = {
++  id: "01a0655a-7b7b-7cf8-81ab-e66f3260effe",
++  pageTypeSlug: "world-enchantment",
++  slug: "fear",
++  title: "Fear",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/featherweight.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/featherweight.world-enchantment.ts
+deleted file mode 100644
+index cb94259ff67438fef8772d57a8a73c8ad8aa4f53..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/featherweight.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const featherweight = {
+-  id: "01a0655a-7b7b-74c8-b4bd-cec3ab217cf6",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "featherweight",
+-  title: "Featherweight",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/featherweight/featherweight.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/featherweight/featherweight.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7fd9d496f658bd4c647873eb1f1096e0970f0a89
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/featherweight/featherweight.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const featherweight = {
++  id: "01a0655a-7b7b-74c8-b4bd-cec3ab217cf6",
++  pageTypeSlug: "world-enchantment",
++  slug: "featherweight",
++  title: "Featherweight",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/flight.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/flight.world-enchantment.ts
+deleted file mode 100644
+index 4f0807a948b07aa7d410c3161faffddfe89a154e..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/flight.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const flight = {
+-  id: "01a0655a-7b7b-72b3-9a3c-b5992a14b37b",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "flight",
+-  title: "Flight",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/flight/flight.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/flight/flight.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0f57a1cf5544e7ca6b155b6b77393b1f4ad376ee
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/flight/flight.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const flight = {
++  id: "01a0655a-7b7b-72b3-9a3c-b5992a14b37b",
++  pageTypeSlug: "world-enchantment",
++  slug: "flight",
++  title: "Flight",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/flying-wheels.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/flying-wheels.world-enchantment.ts
+deleted file mode 100644
+index 1c710e09cfbdbc1322b80c7011b46343aeaddd36..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/flying-wheels.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const flyingWheels = {
+-  id: "01a0655a-7b7b-713a-bfd8-41af88203685",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "flying-wheels",
+-  title: "Flying Wheels",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/flying-wheels/flying-wheels.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/flying-wheels/flying-wheels.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..61e8cecceab021aac1305bc6d1533898bc9d37f3
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/flying-wheels/flying-wheels.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const flyingWheels = {
++  id: "01a0655a-7b7b-713a-bfd8-41af88203685",
++  pageTypeSlug: "world-enchantment",
++  slug: "flying-wheels",
++  title: "Flying Wheels",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/forceful.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/forceful.world-enchantment.ts
+deleted file mode 100644
+index 7b5028fc11de91092f0f34536122f2800288ee6e..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/forceful.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const forceful = {
+-  id: "01a0655a-7b7b-797b-aa02-038cf852547e",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "forceful",
+-  title: "Forceful",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/forceful/forceful.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/forceful/forceful.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5d9d676cf5979c513bca9fd5e6ba36d37c557f8a
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/forceful/forceful.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const forceful = {
++  id: "01a0655a-7b7b-797b-aa02-038cf852547e",
++  pageTypeSlug: "world-enchantment",
++  slug: "forceful",
++  title: "Forceful",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/grease.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/grease.world-enchantment.ts
+deleted file mode 100644
+index 5e5ed0c0425bfa188989d7d2c4cc85f249aeb337..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/grease.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const grease = {
+-  id: "01a0655a-7b7b-7839-9696-b10c3ace84ee",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "grease",
+-  title: "Grease",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/grease/grease.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/grease/grease.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7014ee5436f1ed2767e8f47c8bce4ca8d14760a2
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/grease/grease.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const grease = {
++  id: "01a0655a-7b7b-7839-9696-b10c3ace84ee",
++  pageTypeSlug: "world-enchantment",
++  slug: "grease",
++  title: "Grease",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/hardening.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/hardening.world-enchantment.ts
+deleted file mode 100644
+index 00ecd26faaa569d960869c5781419c84db374a24..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/hardening.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const hardening = {
+-  id: "01a0655a-7b7b-7471-bc1b-ee7287c70062",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "hardening",
+-  title: "Hardening",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/hardening/hardening.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/hardening/hardening.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..92ae8c8a35bac6b692fbd69a3018c4f1012165ba
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/hardening/hardening.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const hardening = {
++  id: "01a0655a-7b7b-7471-bc1b-ee7287c70062",
++  pageTypeSlug: "world-enchantment",
++  slug: "hardening",
++  title: "Hardening",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/haste.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/haste.world-enchantment.ts
+deleted file mode 100644
+index a25b181f6c6377a68d48c75bd562be22c06a734e..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/haste.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const haste = {
+-  id: "01a0655a-7b7b-7669-a3fc-357e420a5cd7",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "haste",
+-  title: "Haste",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/haste/haste.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/haste/haste.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..00c5f3ce29d02f87bb0d7167c0f85ee8945c44ec
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/haste/haste.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const haste = {
++  id: "01a0655a-7b7b-7669-a3fc-357e420a5cd7",
++  pageTypeSlug: "world-enchantment",
++  slug: "haste",
++  title: "Haste",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/impact-guard.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/impact-guard.world-enchantment.ts
+deleted file mode 100644
+index 7b0934febbde82a2ebeda94b07a382834482734a..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/impact-guard.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const impactGuard = {
+-  id: "01a0655a-7b7b-77da-b56f-5982a459ffaa",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "impact-guard",
+-  title: "Impact Guard",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/impact-guard/impact-guard.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/impact-guard/impact-guard.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..01350b7c02c8fdab7b22f741aeaf37c0884cb4d3
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/impact-guard/impact-guard.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const impactGuard = {
++  id: "01a0655a-7b7b-77da-b56f-5982a459ffaa",
++  pageTypeSlug: "world-enchantment",
++  slug: "impact-guard",
++  title: "Impact Guard",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/invisibility.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/invisibility.world-enchantment.ts
+deleted file mode 100644
+index a79924b45ec6d9e84b1a9d02b69e715911cfe226..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/invisibility.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const invisibility = {
+-  id: "01a0655a-7b7b-7e4d-ac68-525d9e0063e5",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "invisibility",
+-  title: "Invisibility",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/invisibility/invisibility.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/invisibility/invisibility.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1a20094a5e827a2b11feec35d9515d4a7b01dc17
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/invisibility/invisibility.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const invisibility = {
++  id: "01a0655a-7b7b-7e4d-ac68-525d9e0063e5",
++  pageTypeSlug: "world-enchantment",
++  slug: "invisibility",
++  title: "Invisibility",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/lightweight.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/lightweight.world-enchantment.ts
+deleted file mode 100644
+index e589b3bd7b95d898b25481a89441379a6bb0e748..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/lightweight.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const lightweight = {
+-  id: "01a0655a-7b7b-7715-84bd-864665616fff",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "lightweight",
+-  title: "Lightweight",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/lightweight/lightweight.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/lightweight/lightweight.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cd931113a58039a2a54504a1cd769560fac7eb38
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/lightweight/lightweight.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const lightweight = {
++  id: "01a0655a-7b7b-7715-84bd-864665616fff",
++  pageTypeSlug: "world-enchantment",
++  slug: "lightweight",
++  title: "Lightweight",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/mighty-cleaving.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/mighty-cleaving.world-enchantment.ts
+deleted file mode 100644
+index cb86a4bb0398cfc2354d997597d9fe1f21952adf..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/mighty-cleaving.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const mightyCleaving = {
+-  id: "01a0655a-7b7b-7e33-ab03-2eba05bf9675",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "mighty-cleaving",
+-  title: "Mighty Cleaving",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/mighty-cleaving/mighty-cleaving.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/mighty-cleaving/mighty-cleaving.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..789da73e55ab8518e5f89df4c42337989105e391
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/mighty-cleaving/mighty-cleaving.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const mightyCleaving = {
++  id: "01a0655a-7b7b-7e33-ab03-2eba05bf9675",
++  pageTypeSlug: "world-enchantment",
++  slug: "mighty-cleaving",
++  title: "Mighty Cleaving",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/nighteye.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/nighteye.world-enchantment.ts
+deleted file mode 100644
+index 7ef76e649a3a670d4a9c3ed38dbfa2ee25cc8f69..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/nighteye.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const nighteye = {
+-  id: "01a0655a-7b7b-7e51-a2c8-3a123cd5a806",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "nighteye",
+-  title: "Nighteye",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/nighteye/nighteye.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/nighteye/nighteye.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1d00d7d403fffc29694f139e4d36a8d90ab310c3
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/nighteye/nighteye.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const nighteye = {
++  id: "01a0655a-7b7b-7e51-a2c8-3a123cd5a806",
++  pageTypeSlug: "world-enchantment",
++  slug: "nighteye",
++  title: "Nighteye",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/piercing.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/piercing.world-enchantment.ts
+deleted file mode 100644
+index 5f8cfe6264700e6b679e71554986ee119d28dc71..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/piercing.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const piercing = {
+-  id: "01a0655a-7b7b-7555-9178-338b205460c8",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "piercing",
+-  title: "Piercing",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/piercing/piercing.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/piercing/piercing.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..20f458ba2c5f9efd287270e17294551cc3c5017f
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/piercing/piercing.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const piercing = {
++  id: "01a0655a-7b7b-7555-9178-338b205460c8",
++  pageTypeSlug: "world-enchantment",
++  slug: "piercing",
++  title: "Piercing",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/sleep.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/sleep.world-enchantment.ts
+deleted file mode 100644
+index adb78674be5bb0db3ef19a786bda6a507f71a4ce..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/sleep.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const sleep = {
+-  id: "01a0655a-7b7b-7947-b97a-32b4af7fe0b3",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "sleep",
+-  title: "Sleep",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/sleep/sleep.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/sleep/sleep.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f98bce0f7e06cfa4ae801e03d9637e0eefabbcd9
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/sleep/sleep.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const sleep = {
++  id: "01a0655a-7b7b-7947-b97a-32b4af7fe0b3",
++  pageTypeSlug: "world-enchantment",
++  slug: "sleep",
++  title: "Sleep",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/speed.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/speed.world-enchantment.ts
+deleted file mode 100644
+index c1f68b81d297914904a5c283881cb87fabdc09a2..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/speed.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const speed = {
+-  id: "01a0655a-7b7b-7d69-9fd1-f3166d0921ae",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "speed",
+-  title: "Speed",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/speed/speed.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/speed/speed.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..13bb87b21d649dd8e266dddaf4ef17484a3e2569
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/speed/speed.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const speed = {
++  id: "01a0655a-7b7b-7d69-9fd1-f3166d0921ae",
++  pageTypeSlug: "world-enchantment",
++  slug: "speed",
++  title: "Speed",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/spellguard.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/spellguard.world-enchantment.ts
+deleted file mode 100644
+index 82a0f3d204069b75dc4b5be13e812da27a2e6832..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/spellguard.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const spellguard = {
+-  id: "01a0655a-7b7b-76f5-bf20-635a0a64c3b2",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "spellguard",
+-  title: "Spellguard",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/spellguard/spellguard.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/spellguard/spellguard.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d3cd6de1ac9c137bcf9067ab37ae7177a74810c5
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/spellguard/spellguard.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const spellguard = {
++  id: "01a0655a-7b7b-76f5-bf20-635a0a64c3b2",
++  pageTypeSlug: "world-enchantment",
++  slug: "spellguard",
++  title: "Spellguard",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/spellward.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/spellward.world-enchantment.ts
+deleted file mode 100644
+index a0feab2269baeef70ca644045ed73163ca42b09f..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/spellward.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const spellward = {
+-  id: "01a0655a-7b7b-711a-ba84-a9d749120c21",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "spellward",
+-  title: "Spellward",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/spellward/spellward.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/spellward/spellward.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..843b4f27287eb63228c540e03607c0c151d87b65
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/spellward/spellward.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const spellward = {
++  id: "01a0655a-7b7b-711a-ba84-a9d749120c21",
++  pageTypeSlug: "world-enchantment",
++  slug: "spellward",
++  title: "Spellward",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/stone-skin.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/stone-skin.world-enchantment.ts
+deleted file mode 100644
+index 4f3ad65878b0ffceb17c8ea13f0fe8ddc7361890..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/stone-skin.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const stoneSkin = {
+-  id: "01a0655a-7b7b-7220-9553-a62810300ecb",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "stone-skin",
+-  title: "Stone Skin",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/stone-skin/stone-skin.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/stone-skin/stone-skin.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..04b59b3df9a91192f9eded70a49f46917f12f5a7
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/stone-skin/stone-skin.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const stoneSkin = {
++  id: "01a0655a-7b7b-7220-9553-a62810300ecb",
++  pageTypeSlug: "world-enchantment",
++  slug: "stone-skin",
++  title: "Stone Skin",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/stoneskin.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/stoneskin.world-enchantment.ts
+deleted file mode 100644
+index 8f63ea033e797b4e762172fc53cd380ea4a4835d..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/stoneskin.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const stoneskin = {
+-  id: "01a0655a-7b7b-7e20-b761-f7a6d2b10eb1",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "stoneskin",
+-  title: "Stoneskin",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/stoneskin/stoneskin.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/stoneskin/stoneskin.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6976d43e9fd9133ae6142b93e63e9194af628b5d
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/stoneskin/stoneskin.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const stoneskin = {
++  id: "01a0655a-7b7b-7e20-b761-f7a6d2b10eb1",
++  pageTypeSlug: "world-enchantment",
++  slug: "stoneskin",
++  title: "Stoneskin",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/terror.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/terror.world-enchantment.ts
+deleted file mode 100644
+index 68ec0295a9c5908215375ca8947bc38608101313..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-enchantments/pages/terror.world-enchantment.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldEnchantment } from "../world-enchantment.page-type.ts"
+-
+-export const terror = {
+-  id: "01a0655a-7b7b-776b-9668-c1354e0058bd",
+-  pageTypeSlug: "world-enchantment",
+-  slug: "terror",
+-  title: "Terror",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldEnchantment
+diff --git a/story/world-mechanics/world-enchantments/pages/terror/terror.world-enchantment.ts b/story/world-mechanics/world-enchantments/pages/terror/terror.world-enchantment.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f0e09b26e7beed5c726681cc92bd0364a85c8ed1
+--- /dev/null
++++ b/story/world-mechanics/world-enchantments/pages/terror/terror.world-enchantment.ts
+@@ -0,0 +1,9 @@
++import type { WorldEnchantment } from "../../world-enchantment.page-type.ts"
++
++export const terror = {
++  id: "01a0655a-7b7b-776b-9668-c1354e0058bd",
++  pageTypeSlug: "world-enchantment",
++  slug: "terror",
++  title: "Terror",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldEnchantment
