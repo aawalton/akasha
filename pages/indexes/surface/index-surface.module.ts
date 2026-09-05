@@ -31,7 +31,7 @@ export const indexSurface = {
     },
     {
       invariantKind: "departure",
-      statement: "What it reads can be something other than the committed index.",
+      statement: "What that reader reads can be something other than the committed index.",
     },
     {
       invariantKind: "departure",
