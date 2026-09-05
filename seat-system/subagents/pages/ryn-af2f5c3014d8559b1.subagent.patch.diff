@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/rules-engine/rules-engine.domain.ts b/rules-engine/rules-engine.domain.ts
-index 4bd11057f08ccb8777b1fe0cb6aca2ce9d67776e..f686a922b95cdb16288af1fb2ae2be3a55a368ff 100644
+index 4bd11057f08ccb8777b1fe0cb6aca2ce9d67776e..77691ac9bf03a742d8ab5b501e820767ac8335ab 100644
 --- a/rules-engine/rules-engine.domain.ts
 +++ b/rules-engine/rules-engine.domain.ts
 @@ -25,11 +25,11 @@ export const rulesEngine = {
@@ -14,6 +14,16 @@ index 4bd11057f08ccb8777b1fe0cb6aca2ce9d67776e..f686a922b95cdb16288af1fb2ae2be3a
        invariantKind: "departure",
 -      statement: "An agent writes the rules that cover what no other rule names.",
 +      statement: "An agent writes the rules that cover the cases no other rule names.",
+     },
+     {
+       invariantKind: "departure",
+@@ -81,7 +81,8 @@ export const rulesEngine = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A match covers a second match where the first matches what the second matches.",
++      statement:
++        "A match covers a second match where the first matches every case the second matches.",
      },
      {
        invariantKind: "departure",
