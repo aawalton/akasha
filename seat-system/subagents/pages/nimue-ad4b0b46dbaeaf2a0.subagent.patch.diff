@@ -164,3 +164,28 @@ index 36bbcb3d7ce70c2e699dcdfe7a5a8bf77edadb05..00000000000000000000000000000000
 -    "case({love-points} >= 2 -> 4, {love-points} >= 1 -> 3, {love-points} >= 0.5 -> 2, " +
 -    "{love-points} >= 0.25 -> 1, otherwise -> 0)",
 -} as const satisfies FormulaProperty
+diff --git a/alan/tracking/daily/wake-days/wake-day.page-type.ts b/alan/tracking/daily/wake-days/wake-day.page-type.ts
+index fbe3a9ca493ffda9352d23db0159b9cb100983ae..45d4f9533e1c68b50be55c270648298d905a9054 100644
+--- a/alan/tracking/daily/wake-days/wake-day.page-type.ts
++++ b/alan/tracking/daily/wake-days/wake-day.page-type.ts
+@@ -92,17 +92,17 @@ export const wakeDay = {
+     "boolean-property/inbox-temper-tasks-cleared-today",
+     "boolean-property/inbox-texts-cleared-today",
+     "boolean-property/spanned-from-day-boundary",
++    "computed-property/activity-calories",
++    "computed-property/faith-level",
+     "computed-property/health-level",
+     "computed-property/learn-level",
++    "computed-property/love-level",
+     "computed-property/strength-calories",
+-    "formula-property/activity-calories",
+-    "formula-property/faith-level",
+     "formula-property/faith-stoplight",
+     "formula-property/fun-level",
+     "formula-property/fun-stoplight",
+     "formula-property/health-stoplight",
+     "formula-property/learn-stoplight",
+-    "formula-property/love-level",
+     "formula-property/love-stoplight",
+     "formula-property/stoplights",
+     "formula-property/total-level",
