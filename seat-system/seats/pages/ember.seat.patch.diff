@@ -1766,3 +1766,380 @@ index 0000000000000000000000000000000000000000..f969a9bab5f3fafccb3f90b0fab30239
 +  fromTemplate: "ornate-sell",
 +  conditions: "jsonl",
 +} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-other-currency-bank/rule-other-currency-bank.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-other-currency-bank/rule-other-currency-bank.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..51d44aa4728c6b9c99593842015379b7743d1898
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-other-currency-bank/rule-other-currency-bank.temper-inventory-rule.ts
+@@ -0,0 +1,19 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleOtherCurrencyBank = {
++  id: "01a0728b-6d6d-7c4b-ad71-6b92012f5852",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-other-currency-bank",
++  title: "Bank other currencies",
++  description:
++    "Deposits alliance points, tel var stones, and writ vouchers into the bank when visiting.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "currency",
++  displayOrder: 6,
++  action: "move-to",
++  active: true,
++  goal: "hoard",
++  locked: true,
++  fromTemplate: "other-currency-bank",
++  destination: "bank",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-poisons-normal-sell/rule-poisons-normal-sell.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-poisons-normal-sell/rule-poisons-normal-sell.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..5bb4e7edd0be27d8a5d42fc39eaaa6be577fac08
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-poisons-normal-sell/rule-poisons-normal-sell.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1,3 @@
++{"id":"01a0728b-6d5c-77b9-a816-d52578ee5347","conditionField":"can-sell","conditionValue":"can-sell"}
++{"id":"01a0728b-6d5c-7f8e-ae03-17f9c985e442","conditionField":"crafted","conditionValue":"not-crafted"}
++{"id":"01a0728b-6d5c-738b-8175-8cbe55b1cd9c","conditionField":"max-quality","conditionValue":"1"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-poisons-normal-sell/rule-poisons-normal-sell.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-poisons-normal-sell/rule-poisons-normal-sell.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a0f4162995b074aa79801608dfbf1e89a2cd0368
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-poisons-normal-sell/rule-poisons-normal-sell.temper-inventory-rule.ts
+@@ -0,0 +1,19 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const rulePoisonsNormalSell = {
++  id: "01a0728b-6d6d-78ad-89e0-d935fa86f48a",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-poisons-normal-sell",
++  title: "Sell basic poisons",
++  description:
++    "Sells normal (white) quality non-crafted poisons. Crafted and higher-quality poisons are kept.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "poisons",
++  displayOrder: 71,
++  action: "sell",
++  active: true,
++  goal: "sell",
++  locked: true,
++  fromTemplate: "poisons-normal-sell",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-potions-normal-sell/rule-potions-normal-sell.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-potions-normal-sell/rule-potions-normal-sell.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..6e370112e1c7119181e4f9c1fe4d83bfe664abdb
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-potions-normal-sell/rule-potions-normal-sell.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1,3 @@
++{"id":"01a0728b-6d5c-75a2-9a5b-145f22f39184","conditionField":"can-sell","conditionValue":"can-sell"}
++{"id":"01a0728b-6d5c-7b98-8c1e-7f9f9c98e4b8","conditionField":"crafted","conditionValue":"not-crafted"}
++{"id":"01a0728b-6d5c-77ee-8d0e-882c011a84e3","conditionField":"max-quality","conditionValue":"1"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-potions-normal-sell/rule-potions-normal-sell.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-potions-normal-sell/rule-potions-normal-sell.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0d64d307407cb5c548676e9d812cfb08649f727c
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-potions-normal-sell/rule-potions-normal-sell.temper-inventory-rule.ts
+@@ -0,0 +1,19 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const rulePotionsNormalSell = {
++  id: "01a0728b-6d6e-7dd3-a9e3-450646599b73",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-potions-normal-sell",
++  title: "Sell basic potions",
++  description:
++    "Sells normal (white) quality non-crafted potions. Crafted and higher-quality potions are kept.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "potions",
++  displayOrder: 70,
++  action: "sell",
++  active: true,
++  goal: "sell",
++  locked: true,
++  fromTemplate: "potions-normal-sell",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-quest-items-nothing/rule-quest-items-nothing.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-quest-items-nothing/rule-quest-items-nothing.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..21ccf9609b2546b2984dc3e0f23a569c7e30a095
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-quest-items-nothing/rule-quest-items-nothing.temper-inventory-rule.ts
+@@ -0,0 +1,18 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleQuestItemsNothing = {
++  id: "01a0728b-6d6e-7c82-a363-ba9229c0e24f",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-quest-items-nothing",
++  title: "Protect quest items",
++  description:
++    "Prevents quest-related items from being affected by lower-priority rules. Keep them safe until the associated quest is completed.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "quest-items",
++  displayOrder: 53,
++  action: "nothing",
++  active: true,
++  goal: "task",
++  locked: true,
++  fromTemplate: "quest-items-nothing",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-reconstructed-nothing/rule-reconstructed-nothing.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-reconstructed-nothing/rule-reconstructed-nothing.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..beeb40682c257a486d2f76d7380dce85b3466bd6
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-reconstructed-nothing/rule-reconstructed-nothing.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1 @@
++{"id":"01a0728b-6d5c-7676-ac0d-02692cac4ad3","conditionField":"reconstructed","conditionValue":"reconstructed"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-reconstructed-nothing/rule-reconstructed-nothing.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-reconstructed-nothing/rule-reconstructed-nothing.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f5a9b38bbcc9a4e108f6c839647b2628b1bdec05
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-reconstructed-nothing/rule-reconstructed-nothing.temper-inventory-rule.ts
+@@ -0,0 +1,19 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleReconstructedNothing = {
++  id: "01a0728b-6d6e-7127-8119-73a98594b44c",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-reconstructed-nothing",
++  title: "Protect reconstructed gear",
++  description:
++    "Prevents reconstructed equipment from being affected by lower-priority rules. Reconstructed gear costs transmute crystals and set collection knowledge.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "equipment",
++  displayOrder: 24,
++  action: "nothing",
++  active: true,
++  goal: "equip",
++  locked: true,
++  fromTemplate: "reconstructed-nothing",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-research-by-priority/rule-research-by-priority.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-research-by-priority/rule-research-by-priority.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..b3d5f852b1e22e2d117b9ad0c22740be88e90434
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-research-by-priority/rule-research-by-priority.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1 @@
++{"id":"01a0728b-6d5c-78ca-a0a3-046fb286d97f","conditionField":"can-research","conditionValue":"can-research"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-research-by-priority/rule-research-by-priority.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-research-by-priority/rule-research-by-priority.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c94fbc6fe45a768712b38d55770af3b52b0f6416
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-research-by-priority/rule-research-by-priority.temper-inventory-rule.ts
+@@ -0,0 +1,20 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleResearchByPriority = {
++  id: "01a0728b-6d6e-7d08-943c-060decea6265",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-research-by-priority",
++  title: "Research traits",
++  description:
++    "Routes equipment with researchable traits to the character that needs them most. Characters are checked in priority order using TemperCharacters saved variable data for cross-character trait knowledge. The current character is checked first via the ESO API; others are checked via saved data.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "equipment",
++  displayOrder: 41,
++  action: "research",
++  active: true,
++  goal: "unlock",
++  locked: true,
++  fromTemplate: "research-by-priority",
++  destination: "character:by-priority",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-research-stolen/rule-research-stolen.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-research-stolen/rule-research-stolen.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..6d00ec438f04f07a461259ce980f64153459496b
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-research-stolen/rule-research-stolen.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1,2 @@
++{"id":"01a0728b-6d5c-7e5e-a477-e3e7ee05d89a","conditionField":"stolen","conditionValue":"stolen"}
++{"id":"01a0728b-6d5c-7a72-818e-3c90a7554081","conditionField":"can-research","conditionValue":"can-research"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-research-stolen/rule-research-stolen.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-research-stolen/rule-research-stolen.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..568dfe0524884b65a917539b12327f4604f92419
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-research-stolen/rule-research-stolen.temper-inventory-rule.ts
+@@ -0,0 +1,19 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleResearchStolen = {
++  id: "01a0728b-6d6f-78a3-a8ee-4d5c402d674a",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-research-stolen",
++  title: "Launder stolen researchables",
++  description:
++    "Launders stolen equipment with a researchable trait so it can be submitted at a crafting station. Place before other research rules.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "equipment",
++  displayOrder: 40,
++  action: "fence-launder",
++  active: true,
++  goal: "unlock",
++  locked: true,
++  fromTemplate: "research-stolen",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-soul-gems-empty-bank/rule-soul-gems-empty-bank.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-soul-gems-empty-bank/rule-soul-gems-empty-bank.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..42a096811c30af2ef054d5461b0b6eff00db0981
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-soul-gems-empty-bank/rule-soul-gems-empty-bank.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1 @@
++{"id":"01a0728b-6d5c-730f-89be-afb9f7c69960","conditionField":"max-quality","conditionValue":"1"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-soul-gems-empty-bank/rule-soul-gems-empty-bank.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-soul-gems-empty-bank/rule-soul-gems-empty-bank.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..468ba18c85eb98083b2021497c28b72b2342937f
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-soul-gems-empty-bank/rule-soul-gems-empty-bank.temper-inventory-rule.ts
+@@ -0,0 +1,20 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleSoulGemsEmptyBank = {
++  id: "01a0728b-6d6f-7226-88d1-5d7267781a0e",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-soul-gems-empty-bank",
++  title: "Bank empty soul gems",
++  description:
++    "Deposits empty (white quality) soul gems in the bank. Filled and crown soul gems are kept.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "soul-gems",
++  displayOrder: 51,
++  action: "move-to",
++  active: true,
++  goal: "task",
++  locked: true,
++  fromTemplate: "soul-gems-empty-bank",
++  destination: "bank",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-tasks-stolen/rule-tasks-stolen.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-tasks-stolen/rule-tasks-stolen.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..7b667c003dabc87eec123f542176372c46636747
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-tasks-stolen/rule-tasks-stolen.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1 @@
++{"id":"01a0728b-6d5c-705c-b02b-162844501d0e","conditionField":"stolen","conditionValue":"stolen"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-tasks-stolen/rule-tasks-stolen.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-tasks-stolen/rule-tasks-stolen.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4f8dfa98bbac82cf08bd0f6965d6b5228c0fbb92
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-tasks-stolen/rule-tasks-stolen.temper-inventory-rule.ts
+@@ -0,0 +1,19 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleTasksStolen = {
++  id: "01a0728b-6d6f-72d7-9a3d-426fdaf75e61",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-tasks-stolen",
++  title: "Launder stolen task items",
++  description:
++    "Launders stolen task-type items (writs, maps, etc.) so they can be completed or banked.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "tasks",
++  displayOrder: 45,
++  action: "fence-launder",
++  active: true,
++  goal: "task",
++  locked: true,
++  fromTemplate: "tasks-stolen",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-tools-bank/rule-tools-bank.temper-inventory-rule.destination-chain.jsonl b/temper/temper-progress/inventory-rules/pages/rule-tools-bank/rule-tools-bank.temper-inventory-rule.destination-chain.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..1b1ae2ae7a85aec0df8bf9c16ce1c5ff2436eb7f
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-tools-bank/rule-tools-bank.temper-inventory-rule.destination-chain.jsonl
+@@ -0,0 +1,2 @@
++{"id":"01a0728b-6d5c-7d54-b5ba-a2265d8fb4e9","destination":"character:by-priority","targetQuantity":200}
++{"id":"01a0728b-6d5c-7c80-bfba-0d56dddc2599","destination":"bank"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-tools-bank/rule-tools-bank.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-tools-bank/rule-tools-bank.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0d8090ad81206bcc0977323cd661a92a61d77f72
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-tools-bank/rule-tools-bank.temper-inventory-rule.ts
+@@ -0,0 +1,20 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleToolsBank = {
++  id: "01a0728b-6d6f-721e-a2cd-e61cc89fdac5",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-tools-bank",
++  title: "Stock tools",
++  description: "Deposits tools (lockpicks, repair kits, etc.) in the bank for safekeeping.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "tools",
++  displayOrder: 59,
++  action: "stock",
++  active: true,
++  goal: "hoard",
++  locked: true,
++  fromTemplate: "tools-bank",
++  destination: "bank",
++  stockScope: "any-character",
++  destinationChain: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-transmuted-nothing/rule-transmuted-nothing.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-transmuted-nothing/rule-transmuted-nothing.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..a7c404e5837e09be522af73e4cda563d689e8fe2
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-transmuted-nothing/rule-transmuted-nothing.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1 @@
++{"id":"01a0728b-6d5c-74b2-88f7-a2e9f4d16622","conditionField":"transmuted","conditionValue":"transmuted"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-transmuted-nothing/rule-transmuted-nothing.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-transmuted-nothing/rule-transmuted-nothing.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..69ed3344c2189766191f0ec2492892e18d62d870
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-transmuted-nothing/rule-transmuted-nothing.temper-inventory-rule.ts
+@@ -0,0 +1,19 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleTransmutedNothing = {
++  id: "01a0728b-6d6f-78a2-8c9b-4d79e20601a6",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-transmuted-nothing",
++  title: "Protect transmuted gear",
++  description:
++    "Prevents transmuted equipment from being affected by lower-priority rules. Transmuted gear represents a transmute crystal investment.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "equipment",
++  displayOrder: 25,
++  action: "nothing",
++  active: true,
++  goal: "equip",
++  locked: true,
++  fromTemplate: "transmuted-nothing",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-trash-sell/rule-trash-sell.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-trash-sell/rule-trash-sell.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..cdcc4658ade29daab8376243da6ca33485eb7e76
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-trash-sell/rule-trash-sell.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1 @@
++{"id":"01a0728b-6d5c-7f6b-ba78-a1f567e8f93e","conditionField":"can-sell","conditionValue":"can-sell"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-trash-sell/rule-trash-sell.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-trash-sell/rule-trash-sell.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ddad32c43bb2ae22f7f122a4582225f482fc7e0d
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-trash-sell/rule-trash-sell.temper-inventory-rule.ts
+@@ -0,0 +1,18 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleTrashSell = {
++  id: "01a0728b-6d6f-7ad9-99e1-27e4b6415eed",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-trash-sell",
++  title: "Sell trash",
++  description: "Sells items categorized as trash. These have no crafting or collectible value.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "trash",
++  displayOrder: 64,
++  action: "sell",
++  active: true,
++  goal: "sell",
++  locked: true,
++  fromTemplate: "trash-sell",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
