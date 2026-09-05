@@ -11,11 +11,9 @@ import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
 import { ran } from "@akasha/utils-run/running"
 
-export const ENTRY =
-  "editor-extension/ops-extension/extension-entry/extension-entry.module.code.ts"
+export const ENTRY = "editor-extension/ops-extension/extension-entry/extension-entry.module.code.ts"
 
-export const STUB =
-  "editor-extension/vscode-stub/vscode-stub.javascript-module.javascript.mjs"
+export const STUB = "editor-extension/vscode-stub/vscode-stub.javascript-module.javascript.mjs"
 
 const REACHED = /(?<!['"`])\bvscode\d*\.([A-Za-z_][A-Za-z0-9_]*)/g
 
@@ -103,6 +101,20 @@ try {
   activateError = String((err && err.stack) || err)
 }
 const activateMs = Date.now() - began
+// A PANEL WHOSE FIRST DRAWING IS ASYNCHRONOUS HAS NOT DRAWN WHEN \`activate\` RETURNS. The agents
+// panel samples the editor's terminals before it draws its first rows, so reading the moment
+// activation returned read that panel as empty and called a working panel broken. Every panel says
+// on its channel that it drew, so the run waits for that count to stop rising.
+const SETTLE_MS = 150
+const SETTLE_BOUND_MS = 10000
+const until = Date.now() + SETTLE_BOUND_MS
+let drawings = -1
+while (Date.now() < until) {
+  const now = vscode.__drawings()
+  if (now === drawings) break
+  drawings = now
+  await new Promise((go) => setTimeout(go, SETTLE_MS))
+}
 const walked = Date.now()
 try {
   report = await vscode.__report()

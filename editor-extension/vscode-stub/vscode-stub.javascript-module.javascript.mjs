@@ -400,6 +400,15 @@ export const env = overlaid({
   appName: "panel-reading",
 })
 
+// HOW MANY LINES EVERY CHANNEL HOLDS, WHICH IS CHEAP WHERE A READING IS NOT. Every panel says
+// on its channel that it drew, so a count that stopped rising is every drawing that was coming
+// having come. A reading walks every row of every tree and cannot be asked that often.
+export const __drawings = () => {
+  let lines = 0
+  for (const held of channels.values()) lines += held.length
+  return lines
+}
+
 export const __report = report
 
 export const __makeContext = makeContext

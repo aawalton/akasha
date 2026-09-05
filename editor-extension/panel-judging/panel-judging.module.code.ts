@@ -21,7 +21,7 @@ const PINNED_GROUPS: readonly {
   readonly said: string
   readonly count: number
 }[] = [
-  { id: "opsStatusBar.upkeepStoplights", said: "upkeep", count: 6 },
+  { id: "opsStatusBar.upkeepStoplights", said: "upkeep", count: 4 },
   { id: "opsStatusBar.inboxStoplights", said: "inboxes", count: 3 },
 ]
 
@@ -247,7 +247,9 @@ export function judgeStatusBar(reading: Drawn): Verdict {
   return {
     surface: "statusBar",
     green: true,
-    said: `the status bar drew ${String(items.length)} slots, both usage numbers and 6/3 stoplights`,
+    said:
+      `the status bar drew ${String(items.length)} slots, both usage numbers and ` +
+      `${PINNED_GROUPS.map((one) => String(one.count)).join("/")} stoplights`,
     notes,
   }
 }

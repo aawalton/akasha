@@ -60,7 +60,7 @@ export const panelJudging = {
     },
     {
       invariantKind: "departure",
-      statement: "The upkeep group shows six stoplights and the inboxes group three.",
+      statement: "The upkeep group shows four stoplights and the inboxes group three.",
     },
     {
       invariantKind: "departure",

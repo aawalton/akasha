@@ -50,6 +50,14 @@ export const panelReading = {
     },
     {
       invariantKind: "departure",
+      statement: "The reading waits for the count of drawings said on the channels to stop rising.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count still rising at the bound is read all the same rather than refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The reading goes to a file rather than down a pipe.",
     },
     {
