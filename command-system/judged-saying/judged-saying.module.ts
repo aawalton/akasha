@@ -14,7 +14,7 @@ export const judgedSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "A draft answers with what the checks refused rather than with a refusal.",
+      statement: "A draft answers with the paths the checks refused rather than with a refusal.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +22,7 @@ export const judgedSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "A count over a draft a check refused leads into what refused.",
+      statement: "A count over a draft a check refused leads into the paths that refused.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const judgedSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "A count of what was judged names the paths a check reached.",
+      statement: "A count of the paths judged names the paths a check reached.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +52,7 @@ export const judgedSaying = {
     {
       invariantKind: "departure",
       statement:
-        "The line counting what was judged and the line naming the rest are built from one rule.",
+        "The line counting the paths judged and the line naming the rest are built from one rule.",
     },
     {
       invariantKind: "departure",
