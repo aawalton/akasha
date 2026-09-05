@@ -113,5 +113,9 @@ export const editorExtension = {
       invariantKind: "departure",
       statement: "A panel row that represents a page names that page.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A row holding a match is drawn open while a filter is there.",
+    },
   ],
 } as const satisfies WorkspacePackage

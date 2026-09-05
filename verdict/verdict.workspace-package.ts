@@ -23,6 +23,10 @@ export const verdict = {
       statement: "A judgement states the moment the judgement was observed.",
     },
     {
+      invariantKind: "departure",
+      statement: "A finding naming no place reads as unattributed.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here measures anything.",
     },
