@@ -17,7 +17,7 @@ export const inboxCountTick = {
     },
     {
       invariantKind: "departure",
-      statement: "Every inbox that answered nothing is named among what the run reports as failed.",
+      statement: "Every inbox that answered nothing is named among the failures the run reports.",
     },
     {
       invariantKind: "departure",
