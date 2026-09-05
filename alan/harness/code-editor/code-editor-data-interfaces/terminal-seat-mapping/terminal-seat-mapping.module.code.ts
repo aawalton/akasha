@@ -39,7 +39,13 @@ export function parentOfPid(pid: number): number | undefined {
   return Number.isInteger(ppid) ? ppid : undefined
 }
 
-export async function tmuxClients(): Promise<readonly TmuxClient[]> {
+// A CALL THAT FAILED ANSWERS NOTHING, WHICH IS NOT THE SAME ANSWER AS NO CLIENT. `tmux` refuses
+// while its server is coming back up and answers nothing at all where the call runs past its
+// bound, and both were handed back as an empty list. Whoever read that list then held that no
+// terminal sits on any seat, which is a fact rather than a gap, and acted on it: sixteen tabs in
+// Alan's window lost the seat's name and the seat's color together and were given them back a
+// second later, by the next beat, whose call went through.
+export async function tmuxClients(): Promise<readonly TmuxClient[] | null> {
   let stdout: string
   try {
     ;({ stdout } = await execFileP(
@@ -48,7 +54,7 @@ export async function tmuxClients(): Promise<readonly TmuxClient[]> {
       { timeout: TMUX_TIMEOUT_MS }
     ))
   } catch {
-    return []
+    return null
   }
   const clients: TmuxClient[] = []
   for (const line of stdout.split("\n")) {

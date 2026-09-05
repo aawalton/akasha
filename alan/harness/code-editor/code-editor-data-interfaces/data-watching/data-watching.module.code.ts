@@ -106,14 +106,19 @@ function agentColorsLine(): string {
 // What a terminal sits on cannot be watched for: no file changes when a client attaches, so this
 // one picture is taken on a beat. The beat is what costs; the file moves only where the map does.
 //
-// NOTHING IS HELD UNTIL THE FIRST BEAT HAS RUN. A picture seeded with an empty value is a picture
-// that can be written before it has ever been read: the watching is set up while the first beat is
-// still in flight, so a seat file changing in that window wrote the seed over the last good line
-// and took every tab's color away until the beat landed.
+// NOTHING IS HELD UNTIL THE FIRST BEAT HAS RUN, AND A BEAT THAT COULD NOT ASK HOLDS THE PICTURE
+// BEFORE IT. A picture seeded with an empty value is a picture that can be written before it has
+// ever been read: the watching is set up while the first beat is still in flight, so a seat file
+// changing in that window wrote the seed over the last good line. A beat whose `tmux` call failed
+// wrote the same empty line for the same reason, once every few hours, and both say the one thing
+// to the editor — that no terminal sits on any seat — which takes the name and the color off all
+// sixteen of Alan's tabs at once and gives them back a second later.
 let tabsHeld: ReadonlyMap<number, string> | null = null
 
 async function refreshTerminalTabs(): Promise<undefined> {
-  tabsHeld = seatByShellPid(await tmuxClients(), new Set(akashaSeatsThatExist().values()))
+  const clients = await tmuxClients()
+  if (clients === null) return undefined
+  tabsHeld = seatByShellPid(clients, new Set(akashaSeatsThatExist().values()))
   return undefined
 }
 

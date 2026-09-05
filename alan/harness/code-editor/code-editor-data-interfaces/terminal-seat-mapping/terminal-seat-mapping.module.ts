@@ -38,7 +38,7 @@ export const terminalSeatMapping = {
     },
     {
       invariantKind: "departure",
-      statement: "A `tmux` call that fails answers with no clients.",
+      statement: "A `tmux` call that failed answers nothing rather than answering no client.",
     },
     {
       invariantKind: "absence",

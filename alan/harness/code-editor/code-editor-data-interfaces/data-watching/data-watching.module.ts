@@ -57,6 +57,10 @@ export const dataWatching = {
     },
     {
       invariantKind: "departure",
+      statement: "A beat that could not take its picture leaves the picture before it as it is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "No file is written for a picture answering no line.",
     },
     {
