@@ -1,14 +1,20 @@
 diff --git a/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.ts b/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.ts
-index 837b0a492926548a03d01a317cc88e5068ec8820..8487941c567243187d1a0111c0856c2856ee2435 100644
+index 837b0a492926548a03d01a317cc88e5068ec8820..2717731699a367c394fd88333d2beba5e03cf1de 100644
 --- a/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.ts
 +++ b/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.ts
-@@ -35,7 +35,8 @@ export const orphanSweeping = {
+@@ -35,12 +35,13 @@ export const orphanSweeping = {
      },
      {
        invariantKind: "departure",
 -      statement: "The manifests compared against are read from this checkout as it now is.",
 +      statement:
 +        "The manifests compared against are read from this checkout as that checkout now is.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "The cluster is reached with the same credentials every other service here reaches it with.",
++        "The cluster is reached with the same credentials every other service here reaches the cluster with.",
      },
      {
        invariantKind: "departure",
