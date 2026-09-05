@@ -126,7 +126,7 @@ index e132f01f8b64275a40b9c815eda4fb3faca14114..4c93f2c382cafbc6b3abb4b3998edb6e
    ],
    invariants: [
 diff --git a/mobile-commands/mobile-sim-open-url/mobile-sim-open-url.command.ts b/mobile-commands/mobile-sim-open-url/mobile-sim-open-url.command.ts
-index 4c6ceee694fdc972ca61245acbe1f1b1af8f0928..1ca08cf05c87b0ac17c1d7f96efab42fd12a2a12 100644
+index 4c6ceee694fdc972ca61245acbe1f1b1af8f0928..701307241a4a10cce3e0c9703c04f8bd203bf78b 100644
 --- a/mobile-commands/mobile-sim-open-url/mobile-sim-open-url.command.ts
 +++ b/mobile-commands/mobile-sim-open-url/mobile-sim-open-url.command.ts
 @@ -4,11 +4,11 @@ export const mobileSimOpenUrl = {
@@ -143,15 +143,21 @@ index 4c6ceee694fdc972ca61245acbe1f1b1af8f0928..1ca08cf05c87b0ac17c1d7f96efab42f
      { said: "--route <path>", takes: "the route to open, such as `/home` or a page's own path" },
      { said: "--app <slug>", takes: "the app to open it in, the default app where none is said" },
      { said: "--kb-debug", takes: "mount the keyboard-geometry readout over the block editor" },
-@@ -23,7 +23,7 @@ export const mobileSimOpenUrl = {
+@@ -23,8 +23,13 @@ export const mobileSimOpenUrl = {
      },
    ],
    helpNotes: [
 -    "this is what leaves a session standing, and every driving command after it attaches to that session.",
++<<<<<<< what this change would leave
 +    "this is what leaves a session there, and every driving command after it attaches to that session.",
      "a session already standing on the same simulator is reused rather than replaced.",
++=======
++    "this is what leaves a session standing, and every driving command after it attaches to that session.",
++    "a session already there on the same simulator is reused rather than replaced.",
++>>>>>>> what HEAD holds
      "signing in is done by putting a session in before the route is navigated to, rather than by typing into a form.",
      "the identity is a throwaway by default, since anything typed in the simulator is written as whoever is signed in.",
+     "`--as-real-user` is for reading what Alan's own pages look like and nothing is to be changed through it.",
 diff --git a/mobile-commands/mobile-sim-push-tap/mobile-sim-push-tap.command.ts b/mobile-commands/mobile-sim-push-tap/mobile-sim-push-tap.command.ts
 index d85a954fbbd7bd1296fae7ae4ddeec9eaba963f7..d75567a7294020ae20755a4e840b6506fa6364e0 100644
 --- a/mobile-commands/mobile-sim-push-tap/mobile-sim-push-tap.command.ts
