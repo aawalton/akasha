@@ -1,5 +1,5 @@
 diff --git a/commands/move/parenting/move-parenting.module.ts b/commands/move/parenting/move-parenting.module.ts
-index 4be1260b0b67ffc45221f927c8f739715d8e806e..1d7a1d7d9b6cb61329e8d45948c69971577a4a84 100644
+index 4be1260b0b67ffc45221f927c8f739715d8e806e..81599e0fdb159b27a90d9a3061535748a01d2547 100644
 --- a/commands/move/parenting/move-parenting.module.ts
 +++ b/commands/move/parenting/move-parenting.module.ts
 @@ -34,7 +34,7 @@ export const moveParenting = {
@@ -33,6 +33,16 @@ index 4be1260b0b67ffc45221f927c8f739715d8e806e..1d7a1d7d9b6cb61329e8d45948c69971
        statement:
 -        "A page the holder of where it arrives already names is asked nothing of its source.",
 +        "A page the holder of where that page arrives already names is asked nothing of its source.",
+     },
+     {
+       invariantKind: "departure",
+@@ -80,7 +81,8 @@ export const moveParenting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a folder holds is read as the move leaves it rather than as it is now.",
++      statement:
++        "What a folder holds is read as the move leaves that folder rather than as that folder is now.",
      },
      {
        invariantKind: "departure",
