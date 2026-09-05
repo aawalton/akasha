@@ -1,0 +1,15 @@
+diff --git a/pages/ui-store/optimistic/pages-ui-store-optimistic.domain.ts b/pages/ui-store/optimistic/pages-ui-store-optimistic.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..036c88a7d196348bd46bded23d6d2a2ef89620e1
+--- /dev/null
++++ b/pages/ui-store/optimistic/pages-ui-store-optimistic.domain.ts
+@@ -0,0 +1,9 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesUiStoreOptimistic = {
++  id: "01a071cb-e8e9-764a-a670-4e9f2cc593fa",
++  pageTypeSlug: "domain",
++  slug: "pages-ui-store-optimistic",
++  definition: "a change shown before the server has answered",
++  partSlugs: ["module/convergence", "module/optimistic-mutation", "module/plan"],
++} as const satisfies Domain
