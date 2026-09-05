@@ -72,7 +72,7 @@ function statusOf(items: readonly DrawnItem[]): Drawn {
 const WHOLE_BAR: readonly DrawnItem[] = [
   itemOf({ id: "opsStatusBar.usage.session", text: "9%" }),
   itemOf({ id: "opsStatusBar.usage.weekly", text: "41%" }),
-  itemOf({ id: "opsStatusBar.upkeepStoplights", text: "🟢🟢🟢🟢🟢🟢" }),
+  itemOf({ id: "opsStatusBar.upkeepStoplights", text: "🟢🟢🟢🟢" }),
   itemOf({ id: "opsStatusBar.inboxStoplights", text: "🟢🟢🟢" }),
 ]
 
@@ -155,7 +155,7 @@ test("a status bar creating no item at all is red", () => {
 test("a whole status bar is green", () => {
   const said = judgeStatusBar(statusOf(WHOLE_BAR))
   expect(said.green).toBe(true)
-  expect(said.said).toContain("6/3 stoplights")
+  expect(said.said).toContain("4/3 stoplights")
 })
 
 test("a usage slot reading anything but a number is red", () => {
@@ -172,10 +172,10 @@ test("a missing usage slot is named rather than passed over", () => {
 
 test("a group showing fewer stoplights than the invariant pins is red", () => {
   const bent = WHOLE_BAR.map((one) =>
-    one.id === "opsStatusBar.upkeepStoplights" ? itemOf({ ...one, text: "🟢🟢🟢🟢" }) : one
+    one.id === "opsStatusBar.upkeepStoplights" ? itemOf({ ...one, text: "🟢🟢" }) : one
   )
   expect(judgeStatusBar(statusOf(bent)).said).toContain(
-    "shows 4 stoplights and the invariant pins 6"
+    "shows 2 stoplights and the invariant pins 4"
   )
 })
 
