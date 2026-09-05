@@ -9,11 +9,11 @@ export const sellPricing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What the item last sold for outranks what the market says.",
+      statement: "The price the item last sold for outranks the price the market says.",
     },
     {
       invariantKind: "departure",
-      statement: "What the market says outranks a multiple of what the vendor pays.",
+      statement: "The price the market says outranks a multiple of the price the vendor pays.",
     },
     {
       invariantKind: "departure",
