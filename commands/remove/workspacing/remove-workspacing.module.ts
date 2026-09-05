@@ -50,11 +50,11 @@ export const removeWorkspacing = {
     },
     {
       invariantKind: "absence",
-      statement: "A manifest that will not parse is left as it is.",
+      statement: "A manifest that will not parse is left as that manifest is.",
     },
     {
       invariantKind: "absence",
-      statement: "A root manifest naming no workspaces list is left as it is.",
+      statement: "A root manifest naming no workspaces list is left as that manifest is.",
     },
     {
       invariantKind: "absence",
