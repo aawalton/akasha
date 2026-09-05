@@ -21,7 +21,6 @@
     "./markdown-document": "./markdown-document/markdown-document.module.code.ts",
     "./markdown-page-at": "./markdown-page-at/markdown-page-at.module.code.ts",
     "./markdown-page-name": "./markdown-page-name/markdown-page-name.module.code.ts",
-    "./markdown-page-type": "./markdown-page-type/markdown-page-type.module.code.ts",
     "./name-format/format-reaching": "./name-formats/modules/format-reaching/format-reaching.module.code.ts",
     "./name-format/lower-camel-case": "./name-formats/pages/lower-camel-case/lower-camel-case.name-format.code.ts",
     "./name-format/lower-kebab-case": "./name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.ts",
@@ -87,8 +86,6 @@
     "./url-property": "./url-properties/url-property.page-type.ts",
     "./live-store-write-guard": "./live-store-write-guard/live-store-write-guard.module.code.ts",
     "./test-run-marking": "./test-run-marking/test-run-marking.module.code.ts",
-    "./markdown-property": "./markdown-property/markdown-property.module.code.ts",
-    "./markdown-property-stated": "./markdown-property-stated/markdown-property-stated.module.code.ts",
     "./akasha-page-values": "./akasha-page-values/akasha-page-values.module.code.ts",
     "./index-reading": "./indexes/reading/index-reading.module.code.ts"
   }
