@@ -148,6 +148,11 @@ export async function runImportItemRuleVerdicts(
     return
   }
 
+  if (current.inventory === undefined) {
+    reportOutcome(logger, found, 0, "this account's inventory settings could not be read")
+    return
+  }
+
   let ruleSettings = toRuleSettings(current.inventory)
   for (const verdict of mutations) {
     ruleSettings = upsertItemRuleByItemId(ruleSettings, {

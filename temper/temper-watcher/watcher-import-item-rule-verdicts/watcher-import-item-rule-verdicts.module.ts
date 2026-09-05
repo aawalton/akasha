@@ -43,6 +43,15 @@ export const watcherImportItemRuleVerdicts = {
     },
     {
       invariantKind: "departure",
+      statement: "Settings that could not be read are not amended and not written back.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An empty rule set is what unreadable settings read as, so writing one loses them.",
+    },
+    {
+      invariantKind: "departure",
       statement: "This module declares its own shape for a queued verdict.",
     },
     {
