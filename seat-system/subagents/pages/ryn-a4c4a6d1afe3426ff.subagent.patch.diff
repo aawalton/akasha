@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/backup-retention/rclone/rclone.module.ts b/infrastructure/backup-retention/rclone/rclone.module.ts
+index 5ab1626c2e4e5814fca3d6a60e64130dac61061c..dbc24dc55e1c21b4bc7c1c55fc03eab416509bd8 100644
+--- a/infrastructure/backup-retention/rclone/rclone.module.ts
++++ b/infrastructure/backup-retention/rclone/rclone.module.ts
+@@ -9,7 +9,7 @@ export const rclone = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A command that exits non-zero is an error carrying what the command said.",
++      statement: "A command that exits non-zero is an error carrying the text the command said.",
+     },
+     {
+       invariantKind: "departure",
