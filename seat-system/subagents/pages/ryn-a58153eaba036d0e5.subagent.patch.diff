@@ -1,3 +1,18 @@
+diff --git a/infrastructure/inference-commands/inference-commands.workspace-package.ts b/infrastructure/inference-commands/inference-commands.workspace-package.ts
+index 40493ba2f0bf802f96ead0b07b077a8093d95770..655ddc4c8957b395d0a00a7d8283254db71bea34 100644
+--- a/infrastructure/inference-commands/inference-commands.workspace-package.ts
++++ b/infrastructure/inference-commands/inference-commands.workspace-package.ts
+@@ -32,6 +32,10 @@ export const inferenceCommands = {
+       invariantKind: "departure",
+       statement: "A command here files a run row for the work that command sends to a model.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A run row is filed whether the work finished or failed.",
++    },
+     {
+       invariantKind: "gap",
+       statement: "The run rows a command here files are akasha pages.",
 diff --git a/story/story.domain.ts b/story/story.domain.ts
 index f75427929b11537e1fb4dffba22113e5a2803845..70a453ebf500e0ed7636970eae0dfa5026838d9e 100644
 --- a/story/story.domain.ts
