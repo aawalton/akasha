@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/land-files/monarch-land-files.module.ts b/alan/harness/monarch/land-files/monarch-land-files.module.ts
-index bb4d830ae29a8f2154dd87af6dc5da67d2b71a85..4a6f703693c5382ba4da804b6ac57ee9f1e26ef6 100644
+index bb4d830ae29a8f2154dd87af6dc5da67d2b71a85..fd97e68f566fab7dc418fb93c74fd8467339a126 100644
 --- a/alan/harness/monarch/land-files/monarch-land-files.module.ts
 +++ b/alan/harness/monarch/land-files/monarch-land-files.module.ts
 @@ -11,7 +11,7 @@ export const monarchLandFiles = {
@@ -8,6 +8,15 @@ index bb4d830ae29a8f2154dd87af6dc5da67d2b71a85..4a6f703693c5382ba4da804b6ac57ee9
        statement:
 -        "A month page sits in a folder of its own with its transactions entry file beside it.",
 +        "A month page sits in a folder of its own with its transactions entry file beside that page.",
+     },
+     {
+       invariantKind: "departure",
+@@ -26,7 +26,7 @@ export const monarchLandFiles = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A category we decided is held against one arriving from Monarch, and holding it is said.",
++        "A category akasha decided is held against one arriving from Monarch, and that holding is said.",
      },
      {
        invariantKind: "departure",
