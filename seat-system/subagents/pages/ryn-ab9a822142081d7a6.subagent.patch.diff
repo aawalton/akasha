@@ -1,0 +1,14 @@
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-domain-with-its-parts/a-domain-with-its-parts.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-domain-with-its-parts/a-domain-with-its-parts.folder-shape.ts
+index 56bda117ecda401a1830636c35cd01310c11c298..decaf77aa102ffe17d57915330c11f2d4d609bd9 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-domain-with-its-parts/a-domain-with-its-parts.folder-shape.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-domain-with-its-parts/a-domain-with-its-parts.folder-shape.ts
+@@ -45,9 +45,5 @@ export const aDomainWithItsParts = {
+       invariantKind: "departure",
+       statement: "A subfolder holding no page the domain declares is refused.",
+     },
+-    {
+-      invariantKind: "absence",
+-      statement: "The files a part holds are judged where that part is judged.",
+-    },
+   ],
+ } as const satisfies FolderShape
