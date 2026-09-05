@@ -1,0 +1,12 @@
+diff --git a/service-system/cluster-services/pages/node-exporter-daemonset/node-exporter-daemonset.cluster-service.ts b/service-system/cluster-services/pages/node-exporter-daemonset/node-exporter-daemonset.cluster-service.ts
+index b57af7b0f77197bd51547092bc52644f613e8a49..501a9b399e8dad439b40e900ff2d22be2945e813 100644
+--- a/service-system/cluster-services/pages/node-exporter-daemonset/node-exporter-daemonset.cluster-service.ts
++++ b/service-system/cluster-services/pages/node-exporter-daemonset/node-exporter-daemonset.cluster-service.ts
+@@ -10,6 +10,5 @@ export const nodeExporterDaemonset = {
+   resourceName: "node-exporter",
+   image: "prom/node-exporter:v1.8.2",
+   containerPort: 9100,
+-  manifestCode:
+-    "service-system/cluster-services/pages/node-exporter-daemonset/node-exporter-daemonset.cluster-service.code.attachment.ts",
++  manifestSlug: "node-exporter-daemonset",
+ } as const satisfies ClusterService
