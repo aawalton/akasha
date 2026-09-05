@@ -455,3 +455,11 @@ index 316d2485005b620b9de2f5009ab55c7d55b919a2..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../smilingjenny/smilingjenny-web
 \ No newline at end of file
+diff --git a/story/tower/story-tower b/story/tower/story-tower
+deleted file mode 120000
+index 1c34be6c23033a5c0b79df1288c68339bd7d0145..0000000000000000000000000000000000000000
+--- a/story/tower/story-tower
++++ /dev/null
+@@ -1 +0,0 @@
+-../../story/tower
+\ No newline at end of file
