@@ -11,6 +11,19 @@ index 96f292454fab5b9c248b715e85ac3af676a44efb..accc941bffcd4f078ab0dfa735a1d982
    partSlugs: [
      "module/move-arguing",
      "module/move-listing",
+diff --git a/commands/refactor/refactor.command.ts b/commands/refactor/refactor.command.ts
+index 4b974d541e86fc88d156b35fad5e2aa00262fe9d..43e695aaaf00fd357de4034f53617088630bba7c 100644
+--- a/commands/refactor/refactor.command.ts
++++ b/commands/refactor/refactor.command.ts
+@@ -7,7 +7,7 @@ export const refactor = {
+   definition: "a name the pages are spelled by changed everywhere it is spelled, as one act",
+   code: "ts",
+   test: "ts",
+-  changeKindSlug: "change-mechanical",
++  changeKindSlug: "change-checked",
+   partSlugs: [
+     "module/key-respelling",
+     "module/package-phasing",
 diff --git a/commands/remove/remove.command.ts b/commands/remove/remove.command.ts
 index 67b5f83c9c058391aeebedea4f14001423fb182b..a276625925b1d8aab369ce3987486ceef2d83301 100644
 --- a/commands/remove/remove.command.ts
