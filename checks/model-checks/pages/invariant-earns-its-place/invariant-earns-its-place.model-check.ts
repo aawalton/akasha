@@ -21,7 +21,7 @@ export const invariantEarnsItsPlace = {
     },
     {
       invariantKind: "gap",
-      statement: "A test stands here for each way a departure fails.",
+      statement: "A test is here for each way a departure fails.",
     },
   ],
 } as const satisfies ModelCheck

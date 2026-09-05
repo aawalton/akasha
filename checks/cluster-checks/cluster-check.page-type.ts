@@ -133,7 +133,7 @@ export const clusterCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A check the system works out from the packages stands in code rather than here.",
+      statement: "A check the system works out from the packages sits in code rather than here.",
     },
     {
       invariantKind: "departure",
@@ -146,7 +146,7 @@ export const clusterCheck = {
     },
     {
       invariantKind: "gap",
-      statement: "Every cluster check a person wrote stands as a page here.",
+      statement: "Every cluster check a person wrote is a page here.",
     },
     {
       invariantKind: "gap",

@@ -39,7 +39,7 @@ export const modelCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A count of no runs is a check that stands and does not run.",
+      statement: "A count of no runs is a check that exists and does not run.",
     },
     {
       invariantKind: "departure",
