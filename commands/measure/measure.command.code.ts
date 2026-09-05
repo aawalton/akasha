@@ -42,7 +42,7 @@ async function measureClaudeAccounts(given: Given): Promise<Answer> {
     return {
       report: [],
       refusals: [
-        `no claude-account page stands under \`${given.root}\`, and every account holding a page ` +
+        `no claude-account page sits under \`${given.root}\`, and every account holding a page ` +
           `is answered, so a fleet of none is the pages being wrong rather than a fleet`,
       ],
       code: 2,

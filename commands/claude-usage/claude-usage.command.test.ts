@@ -62,12 +62,12 @@ test("a fleet that reads answers one line and no refusal", () => {
 
 test("a fleet that cannot be read is a throw carried out as a refusal", () => {
   const said = answerFrom(() => {
-    throw new Error("no claude-account page stands in akasha")
+    throw new Error("no claude-account page sits in akasha")
   })
 
   expect(said.code).toBe(3)
   expect(said.report).toEqual([])
-  expect(said.refusals[0]).toContain("no claude-account page stands in akasha")
+  expect(said.refusals[0]).toContain("no claude-account page sits in akasha")
 })
 
 test("the happy answer parses as the JSON the status bar reads", () => {

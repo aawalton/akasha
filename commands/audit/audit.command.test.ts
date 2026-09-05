@@ -61,7 +61,7 @@ test("checks finding nothing answer 0 and say how much was judged", async () => 
   expect(said.report).toEqual(["2 checks judged 3 files, and none refused"])
 })
 
-test("what an audit finds is the data's fault, and stands as a refusal per path", async () => {
+test("what an audit finds is the data's fault, and is a refusal per path", async () => {
   const found = [
     { path: "akasha/one.ts", reason: "one thing" },
     { path: "akasha/two.ts", reason: "another" },
@@ -304,7 +304,7 @@ test("more refusals than one answer holds keep their start and say how many ther
   expect(new TextEncoder().encode(said.join("\n")).length).toBeLessThan(ANSWER_CEILING + 200)
 })
 
-test("every refusal stands when they all fit", () => {
+test("every refusal remains when they all fit", () => {
   expect(heldTo(["one", "two"], ANSWER_CEILING)).toEqual(["one", "two"])
 })
 
