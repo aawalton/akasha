@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-parentless-refusal/seat-parentless-refusal.module.ts b/seat-system/seat-parentless-refusal/seat-parentless-refusal.module.ts
+index f297b5c7587d635f5079963a76a3cbc2a5e3cdc1..b2b6bd0dabbf2da27429862938a9497085998356 100644
+--- a/seat-system/seat-parentless-refusal/seat-parentless-refusal.module.ts
++++ b/seat-system/seat-parentless-refusal/seat-parentless-refusal.module.ts
+@@ -10,7 +10,7 @@ export const seatParentlessRefusal = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A seat a person opened needs no parent, that person having opened it.",
++      statement: "A seat a person opened needs no parent, that person having opened that seat.",
+     },
+     {
+       invariantKind: "departure",
