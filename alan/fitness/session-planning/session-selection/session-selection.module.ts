@@ -40,7 +40,7 @@ export const sessionSelection = {
     },
     {
       invariantKind: "departure",
-      statement: "The plan is what to do and the envelope is why.",
+      statement: "The plan is the work to do and the envelope is why.",
     },
   ],
 } as const satisfies Module
