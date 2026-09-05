@@ -42,7 +42,8 @@ export const unitWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A service stating it needs secrets is handed them by the shell its unit starts.",
+      statement:
+        "A service stating that service needs secrets is handed those secrets by the shell its unit starts.",
     },
     {
       invariantKind: "departure",
