@@ -37,7 +37,7 @@ export const transportServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A signal stops the server rather than killing the process under it.",
+      statement: "A signal stops the server rather than killing the process under that server.",
     },
   ],
 } as const satisfies Module
