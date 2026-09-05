@@ -30,3 +30,19 @@ index 1fb0d863cd2932e83137d3610b64c68a7e65b13b..aa67ae553257e751e5842ffc8874aa92
      {
        invariantKind: "absence",
        statement: "No watcher on a source file is registered here.",
+diff --git a/editor-extension/page-tree-panel/page-tree-panel.module.ts b/editor-extension/page-tree-panel/page-tree-panel.module.ts
+index 4eb2651e09e2d86b5b019c94306848f8004b9798..a68b3d8ae88e6eb089288b7c69e60ddb15fa940f 100644
+--- a/editor-extension/page-tree-panel/page-tree-panel.module.ts
++++ b/editor-extension/page-tree-panel/page-tree-panel.module.ts
+@@ -50,10 +50,7 @@ export const pageTreePanel = {
+       invariantKind: "departure",
+       statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
+     },
+-    {
+-      invariantKind: "absence",
+-      statement: "No timer starts a drawing.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "No watcher on a source file is registered here.",
