@@ -1,5 +1,5 @@
 diff --git a/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.test.ts b/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.test.ts
-index e6956c5141c32b23af0f77a8bcef7267a243d217..618a00ce78fe559e64d27bd3e0448a7786ddd897 100644
+index e6956c5141c32b23af0f77a8bcef7267a243d217..99faed4520272ce39bdf3bfe534b27796365f93b 100644
 --- a/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.test.ts
 +++ b/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.test.ts
 @@ -122,12 +122,12 @@ test("skew outlives a status and an index refresh", () => {
@@ -26,3 +26,12 @@ index e6956c5141c32b23af0f77a8bcef7267a243d217..618a00ce78fe559e64d27bd3e0448a77
    const root = madeCheckout()
    try {
      stagedThen(root, "page/a.ts", "STAGED\n", "one\n")
+@@ -295,7 +295,7 @@ test("skew standing beside a changed file is not skew", () => {
+   }
+ })
+ 
+-// NOT REPORTED, and the mark stands. A file rewritten with its own content is a difference to
++// NOT REPORTED, and the mark holds. A file rewritten with its own content is a difference to
+ // `diff-index --quiet` and to nothing else: no blob anywhere disagrees, so there is no path here
+ // for an agent to act on and none is named. This is the other silent null the mark used to take.
+ test("a stale stat is no paths at all, not skew", () => {
