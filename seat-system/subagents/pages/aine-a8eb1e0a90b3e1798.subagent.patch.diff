@@ -1,5 +1,5 @@
 diff --git a/seat-system/seat-stated/seat-stated.module.code.ts b/seat-system/seat-stated/seat-stated.module.code.ts
-index 485f090baa475e8323158a08eed3cb36260b5e74..3b55351bb1c7ee2804a5967df337ea53768df91a 100644
+index 485f090baa475e8323158a08eed3cb36260b5e74..76a9962ec37bfcc98bbb47c587cc625ba882d594 100644
 --- a/seat-system/seat-stated/seat-stated.module.code.ts
 +++ b/seat-system/seat-stated/seat-stated.module.code.ts
 @@ -93,11 +93,11 @@ function modeIn(said: string | null): declarations.Mode | null {
@@ -60,3 +60,39 @@ index 485f090baa475e8323158a08eed3cb36260b5e74..3b55351bb1c7ee2804a5967df337ea53
  }
  
  export interface Said {
+@@ -139,23 +138,23 @@ export interface Said {
+ }
+ 
+ export function statedNow(agent: string, attributes: declarations.Attributes, said: Said): Stated {
+-  const stood = statedOf(agent)
++  const now = statedOf(agent)
+   const gone = new Set(said.clear)
+   const kept = <T>(key: string, held: T | null): T | null => (gone.has(key) ? null : held)
+   return {
+     agent,
+     attributes,
+-    assignment: stood.assignment,
+-    flex: said.flex === null ? kept("flex", stood.flex) : { value: said.flex },
+-    mode: said.mode ?? stood.mode,
+-    recordedMode: said.mode === null ? stood.recordedMode : { value: said.mode },
+-    principal: said.principal === null ? stood.principal : { value: said.principal },
+-    onCall: said.onCall || (!gone.has("on-call") && stood.onCall),
++    assignment: now.assignment,
++    flex: said.flex === null ? kept("flex", now.flex) : { value: said.flex },
++    mode: said.mode ?? now.mode,
++    recordedMode: said.mode === null ? now.recordedMode : { value: said.mode },
++    principal: said.principal === null ? now.principal : { value: said.principal },
++    onCall: said.onCall || (!gone.has("on-call") && now.onCall),
+     initiative:
+-      said.initiative === null ? kept("initiative", stood.initiative) : { value: said.initiative },
+-    registration: said.registration === null ? stood.registration : { value: said.registration },
+-    session: stood.session,
+-    rotated: stood.rotated,
+-    transcript: stood.transcript,
++      said.initiative === null ? kept("initiative", now.initiative) : { value: said.initiative },
++    registration: said.registration === null ? now.registration : { value: said.registration },
++    session: now.session,
++    rotated: now.rotated,
++    transcript: now.transcript,
+   }
+ }
