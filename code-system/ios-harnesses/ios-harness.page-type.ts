@@ -50,7 +50,7 @@ export const iosHarness = {
     },
     {
       invariantKind: "departure",
-      statement: "Whoever changed the drawing looks at what the harness drew.",
+      statement: "The agent that changed the drawing looks at the image the harness drew.",
     },
     {
       invariantKind: "absence",
