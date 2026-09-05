@@ -1,0 +1,815 @@
+diff --git a/editor-extension/domain-tree-reading/domain-tree-reading.module.code.ts b/editor-extension/domain-tree-reading/domain-tree-reading.module.code.ts
+index 0bc45e0589666efa3b431695c225ef05ceb59d9c..1fb283b7889c3caa119142b6b1875d5f6cf34862 100644
+--- a/editor-extension/domain-tree-reading/domain-tree-reading.module.code.ts
++++ b/editor-extension/domain-tree-reading/domain-tree-reading.module.code.ts
+@@ -1,12 +1,5 @@
+ import * as path from "node:path"
+ import type { ChampionTree, DomainNode } from "../champions-tree/champions-tree.module.code.ts"
+-import { runCommand } from "../harness-call/harness-call.module.code.ts"
+-
+-const COMMAND = "domain-tree"
+-
+-const CALL_TIMEOUT_MS = 30_000
+-
+-const MAX_BUFFER = 16 * 1024 * 1024
+ 
+ // The champion tree beside the checkout it was composed from, so a reader joins the two to open the
+ // document a row represents.
+@@ -17,65 +10,3 @@ export interface DomainTree extends ChampionTree {
+ export function documentPath(tree: DomainTree, node: DomainNode): string {
+   return path.join(tree.repo, node.relPath)
+ }
+-
+-function nodeIn(raw: unknown, at: string): DomainNode {
+-  if (raw === null || typeof raw !== "object") {
+-    throw new Error(`${COMMAND}: ${at} is not an object`)
+-  }
+-  const row = raw as Record<string, unknown>
+-  if (typeof row.slug !== "string" || row.slug === "") {
+-    throw new Error(`${COMMAND}: ${at} carries no slug, and a row with none is no domain`)
+-  }
+-  if (typeof row.relPath !== "string" || row.relPath === "") {
+-    throw new Error(`${COMMAND}: ${at} carries no relPath, so nothing could be opened for it`)
+-  }
+-  const children = Array.isArray(row.children) ? row.children : []
+-  return {
+-    slug: row.slug,
+-    relPath: row.relPath,
+-    persona: typeof row.persona === "string" ? row.persona : null,
+-    position: typeof row.position === "number" ? row.position : null,
+-    children: children.map((one, index) => nodeIn(one, `${at}.children[${index}]`)),
+-  }
+-}
+-
+-export function readDomainTreeAnswer(answered: unknown): DomainTree {
+-  if (answered === null || typeof answered !== "object") {
+-    throw new Error(`${COMMAND}: the answer is not an object, so it names no domain at all`)
+-  }
+-  const held = answered as Record<string, unknown>
+-  if (typeof held.repo !== "string" || held.repo === "") {
+-    throw new Error(`${COMMAND}: the answer names no repo, so no path could be joined against it`)
+-  }
+-  if (!Array.isArray(held.roots)) {
+-    throw new Error(`${COMMAND}: the answer carries no \`roots\` array`)
+-  }
+-  const unreached = Array.isArray(held.unreached)
+-    ? held.unreached.filter((one): one is string => typeof one === "string")
+-    : []
+-  return {
+-    repo: held.repo,
+-    roots: held.roots.map((one, index) => nodeIn(one, `roots[${index}]`)),
+-    unreached,
+-  }
+-}
+-
+-export function domainTreeIn(said: string): DomainTree {
+-  let answered: unknown
+-  try {
+-    answered = JSON.parse(said)
+-  } catch (err) {
+-    throw new Error(`${COMMAND} did not print JSON: ${String(err)}`)
+-  }
+-  return readDomainTreeAnswer(answered)
+-}
+-
+-// THE BYTES THE COMMAND SAID, HANDED BACK UNREAD. The panel hashes them to tell an answer that
+-// carries news from one that says what is already drawn, and a hash of a parsed tree would cost
+-// the parse this is here to save.
+-export async function askDomainTree(): Promise<string> {
+-  return runCommand(COMMAND, [], {
+-    timeout: CALL_TIMEOUT_MS,
+-    maxBuffer: MAX_BUFFER,
+-  })
+-}
+diff --git a/editor-extension/domain-tree-reading/domain-tree-reading.module.ts b/editor-extension/domain-tree-reading/domain-tree-reading.module.ts
+index 3c919597ed4c7a8dfb0665e36d768a2412203507..21d9c45d01b9416d088eb4fa49b7be0b8d7d2a2d 100644
+--- a/editor-extension/domain-tree-reading/domain-tree-reading.module.ts
++++ b/editor-extension/domain-tree-reading/domain-tree-reading.module.ts
+@@ -4,46 +4,12 @@ export const domainTreeReading = {
+   id: "01a06867-dbcb-7956-a5a6-01ace3eca2d4",
+   pageTypeSlug: "module",
+   slug: "domain-tree-reading",
+-  definition: "the domain tree asked of the harness and the answer read back into rows",
++  definition: "the checkout a domain tree was composed beside, and the document each row opens",
+   code: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Composing the tree opens page bodies, which only bun loads, so the tree is asked as a child process.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "What the command said is handed back as bytes before anything is parsed.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement: "An answer that is no JSON object is refused as naming no domain at all.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement:
+-        "An answer naming no checkout is refused, since no path could be joined to that checkout.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement: "A row carrying no slug is refused rather than drawn as a nameless domain.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement: "A row carrying no path is refused, since nothing could be opened for that row.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A refusal names the place in the answer the bad row was at.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A persona or a position that is no string or number is read as none.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An answer naming no unreached domain is read as reaching every domain.",
++      statement: "A tree carries the checkout that tree was composed beside.",
+     },
+     {
+       invariantKind: "departure",
+@@ -51,7 +17,7 @@ export const domainTreeReading = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here composes the tree the command answers with.",
++      statement: "Nothing here composes a tree or reads an answer.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/editor-extension/editor-extension.workspace-package.ts b/editor-extension/editor-extension.workspace-package.ts
+index a2cc80d8fcb8db7508006cd52e1506244db5f28e..e1e019d5f53c777f5da22a882382786f555fd42c 100644
+--- a/editor-extension/editor-extension.workspace-package.ts
++++ b/editor-extension/editor-extension.workspace-package.ts
+@@ -29,7 +29,6 @@ export const editorExtension = {
+     "module/tree-filter",
+     "module/editor-group",
+     "module/window-identity",
+-    "module/settled-refresh",
+     "module/activation",
+     "module/group-stoplights",
+     "module/terminal-lookup",
+@@ -43,7 +42,6 @@ export const editorExtension = {
+     "module/observation-merging",
+     "module/observation-store",
+     "module/seat-observations",
+-    "module/seat-turn-colors",
+     "module/status-bar-drawing",
+     "module/status-bar-panel",
+     "module/terminal-renaming",
+@@ -61,7 +59,6 @@ export const editorExtension = {
+     "module/page-tree-view",
+     "module/page-tree-panel",
+     "module/work-tree-rows",
+-    "module/work-tree-colors",
+     "module/work-tree-reading",
+     "module/work-tree-view",
+     "module/work-tree-panel",
+diff --git a/editor-extension/package.json b/editor-extension/package.json
+index 30b496f8e351949193ecff546b7f2f0595f799b7..def87699a2ae07c8241c01f739e358f607bae3bb 100644
+--- a/editor-extension/package.json
++++ b/editor-extension/package.json
+@@ -41,7 +41,6 @@
+     "./seat-tab-context": "./seat-tab-context/seat-tab-context.module.code.ts",
+     "./seat-terminals": "./seat-terminals/seat-terminals.module.code.ts",
+     "./seat-toggles": "./seat-toggles/seat-toggles.module.code.ts",
+-    "./settled-refresh": "./settled-refresh/settled-refresh.module.code.ts",
+     "./status-bar-legends": "./status-bar-legends/status-bar-legends.module.code.ts",
+     "./status-bar-panel": "./status-bar-panel/status-bar-panel.module.code.ts",
+     "./status-bar-slot-types": "./status-bar-slot-types/status-bar-slot-types.module.code.ts",
+diff --git a/editor-extension/seat-turn-colors/seat-turn-colors.module.code.ts b/editor-extension/seat-turn-colors/seat-turn-colors.module.code.ts
+deleted file mode 100644
+index e17aef19d985b1bba8c33d84e8bcd42dde86c52a..0000000000000000000000000000000000000000
+--- a/editor-extension/seat-turn-colors/seat-turn-colors.module.code.ts
++++ /dev/null
+@@ -1,70 +0,0 @@
+-import * as path from "node:path"
+-import { akashaRoot, repositoryPath, runCommand } from "../harness-call/harness-call.module.code.ts"
+-import { colorNamed } from "../palette/palette.module.code.ts"
+-
+-const CALL_TIMEOUT_MS = 30_000
+-
+-const MAX_BUFFER = 4 * 1024 * 1024
+-
+-const COMMAND = "agent-turn-colors"
+-
+-const AKASHA_SEAT_DIR = "seat-system/seats/pages"
+-
+-export const SEAT_SIDECAR_GLOB = "*.uncommitted.ts"
+-
+-export function seatDirs(): readonly string[] {
+-  return [repositoryPath(seatPagesDir())]
+-}
+-
+-export function seatPagesDir(): string {
+-  return path.join(akashaRoot(), AKASHA_SEAT_DIR)
+-}
+-
+-export function colorsOf(named: Readonly<Record<string, string>>): ReadonlyMap<string, string> {
+-  const found = new Map<string, string>()
+-  for (const [id, name] of Object.entries(named)) {
+-    const color = colorNamed(name)
+-    if (color !== undefined) {
+-      found.set(id, color)
+-    }
+-  }
+-  return found
+-}
+-
+-export function readTurnColorAnswer(answered: unknown): Readonly<Record<string, string>> {
+-  if (answered === null || typeof answered !== "object") {
+-    throw new Error(`${COMMAND}: the answer is not an object, so it names no color`)
+-  }
+-  const held = answered as { colors?: unknown; colours?: unknown }
+-  const named = held.colors ?? held.colours
+-  if (named === null || named === undefined || typeof named !== "object") {
+-    throw new Error(`${COMMAND}: the answer carries neither a \`colors\` nor a \`colours\` record`)
+-  }
+-  const found: Record<string, string> = {}
+-  for (const [id, color] of Object.entries(named as Record<string, unknown>)) {
+-    if (typeof color !== "string" || color === "") {
+-      throw new Error(`${COMMAND}: the color answered for ${id} is no name`)
+-    }
+-    found[id] = color
+-  }
+-  return found
+-}
+-
+-export async function readSeatTurnColors(
+-  agentIds: readonly string[]
+-): Promise<ReadonlyMap<string, string>> {
+-  if (agentIds.length === 0) {
+-    return new Map<string, string>()
+-  }
+-  const stdout = await runCommand(COMMAND, agentIds, {
+-    timeout: CALL_TIMEOUT_MS,
+-    maxBuffer: MAX_BUFFER,
+-  })
+-  let answered: unknown
+-  try {
+-    answered = JSON.parse(stdout)
+-  } catch (err) {
+-    throw new Error(`${COMMAND} did not print JSON: ${String(err)}`)
+-  }
+-  return colorsOf(readTurnColorAnswer(answered))
+-}
+diff --git a/editor-extension/seat-turn-colors/seat-turn-colors.module.ts b/editor-extension/seat-turn-colors/seat-turn-colors.module.ts
+deleted file mode 100644
+index 6852a84a351e29b6f62376f8c59b5141024cc432..0000000000000000000000000000000000000000
+--- a/editor-extension/seat-turn-colors/seat-turn-colors.module.ts
++++ /dev/null
+@@ -1,61 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const seatTurnColors = {
+-  id: "01a0680d-8b64-7000-9775-e45a6bce09cf",
+-  pageTypeSlug: "module",
+-  slug: "seat-turn-colors",
+-  definition:
+-    "the color each agent's turn is drawn in, and the folder every seat's page is watched in",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A seat's page sits in the akasha folder and nowhere else.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Every watcher a feature registers is built from the seat folder named here.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A seat's sidecar is matched as an uncommitted TypeScript file.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The seat folder is answered as a real path rather than as the link to that folder.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The turn colors are asked of a child rather than read here.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement: "Reading a seat's turn state here would want a transpiler only bun carries.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An answer's colors are taken from `colors` or from `colours`.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement: "An answer that is no object is refused.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement: "An answer carrying neither `colors` nor `colours` is refused.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement: "A color that is no non-empty string is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A color name the palette does not hold is dropped rather than refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "No agent ids is no call.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/editor-extension/settled-refresh/settled-refresh.module.code.ts b/editor-extension/settled-refresh/settled-refresh.module.code.ts
+deleted file mode 100644
+index a690524495d9594c06a09b7af495717ac276f1c6..0000000000000000000000000000000000000000
+--- a/editor-extension/settled-refresh/settled-refresh.module.code.ts
++++ /dev/null
+@@ -1,56 +0,0 @@
+-export interface SettledRefresh {
+-  readonly request: (trigger: string) => undefined
+-  readonly dispose: () => undefined
+-}
+-
+-export function createSettledRefresh(
+-  quiet: number | (() => number),
+-  run: (trigger: string) => Promise<undefined>
+-): SettledRefresh {
+-  const quietMs = typeof quiet === "number" ? (): number => quiet : quiet
+-  let timer: ReturnType<typeof setTimeout> | undefined
+-  let running = false
+-  let queued: string | undefined
+-
+-  const drain = async (first: string): Promise<undefined> => {
+-    running = true
+-    try {
+-      let trigger: string | undefined = first
+-      while (trigger !== undefined) {
+-        try {
+-          await run(trigger)
+-        } catch {}
+-        trigger = queued
+-        queued = undefined
+-      }
+-    } finally {
+-      running = false
+-    }
+-    return undefined
+-  }
+-
+-  return {
+-    request: (trigger: string) => {
+-      if (timer !== undefined) {
+-        clearTimeout(timer)
+-      }
+-      timer = setTimeout(() => {
+-        timer = undefined
+-        if (running) {
+-          queued = trigger
+-          return
+-        }
+-        void drain(trigger)
+-      }, quietMs())
+-      return undefined
+-    },
+-    dispose: () => {
+-      if (timer !== undefined) {
+-        clearTimeout(timer)
+-      }
+-      timer = undefined
+-      queued = undefined
+-      return undefined
+-    },
+-  }
+-}
+diff --git a/editor-extension/settled-refresh/settled-refresh.module.ts b/editor-extension/settled-refresh/settled-refresh.module.ts
+deleted file mode 100644
+index 801c61de1eb39ff5d10f8af28dc0597c8c4b7fae..0000000000000000000000000000000000000000
+--- a/editor-extension/settled-refresh/settled-refresh.module.ts
++++ /dev/null
+@@ -1,55 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const settledRefresh = {
+-  id: "01a064e4-627c-7e79-9f26-4239bd8cb95f",
+-  pageTypeSlug: "module",
+-  slug: "settled-refresh",
+-  definition: "a run put off until the quiet has lasted and the trigger that asked for the run",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A request restarts the quiet rather than adding a run.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The length of the quiet is asked for at each request rather than fixed once.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A caller passing a number is asked for the same length every time.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A request arriving while a run is in flight starts no second run.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Only the last trigger queued behind a run in flight is kept.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A run that throws is swallowed and the queued trigger is run all the same.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A run finishing to a queued trigger goes straight on rather than waiting again.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Disposing clears the timer and the queued trigger and stops no run in flight.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A request after disposal starts the quiet afresh.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here knows what a run does.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here knows what a trigger names.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/editor-extension/work-tree-colors/work-tree-colors.module.code.ts b/editor-extension/work-tree-colors/work-tree-colors.module.code.ts
+deleted file mode 100644
+index 2e783523e75b1ab49440f8837da6707fa473cb0b..0000000000000000000000000000000000000000
+--- a/editor-extension/work-tree-colors/work-tree-colors.module.code.ts
++++ /dev/null
+@@ -1,60 +0,0 @@
+-import type {
+-  WorkColors,
+-  WorkNode,
+-  WorkTree,
+-} from "../work-tree-rows/work-tree-rows.module.code.ts"
+-
+-// THE LIVELIEST FIRST. A row several seats state takes the liveliest of them, and a row takes the
+-// liveliest of everything under it, so a row says whether anything is moving on it. A color this
+-// does not rank sits behind every color it does.
+-const COLOR_RANK: readonly string[] = ["green", "blue", "yellow"]
+-
+-function colorFor(node: WorkNode, colors: WorkColors): string | null {
+-  return colors.byInitiative[node.key] ?? null
+-}
+-
+-function raised(one: string | null, other: string | null): string | null {
+-  if (one === null) {
+-    return other
+-  }
+-  if (other === null) {
+-    return one
+-  }
+-  const rankOf = (color: string): number => {
+-    const at = COLOR_RANK.indexOf(color)
+-    return at === -1 ? COLOR_RANK.length : at
+-  }
+-  return rankOf(one) <= rankOf(other) ? one : other
+-}
+-
+-export function rollUp(nodes: readonly WorkNode[]): readonly WorkNode[] {
+-  return nodes.map((node) => {
+-    const children = rollUp(node.children)
+-    let color = node.color
+-    for (const child of children) {
+-      color = raised(color, child.color)
+-    }
+-    return { ...node, color, children }
+-  })
+-}
+-
+-// NOTHING IS REDRAWN WHERE NO COLOR MOVED. A repaint arrives whenever any seat's sidecar is
+-// written, which is far more often than a turn state changes, so answering nothing where the tree
+-// would look the same is what keeps the panel off this host's thread.
+-export function recolor(tree: WorkTree, colors: WorkColors): WorkTree | undefined {
+-  let moved = false
+-  const walk = (nodes: readonly WorkNode[]): readonly WorkNode[] =>
+-    nodes.map((node) => {
+-      const children = walk(node.children)
+-      let color = colorFor(node, colors)
+-      for (const child of children) {
+-        color = raised(color, child.color)
+-      }
+-      if (color !== node.color) {
+-        moved = true
+-      }
+-      return { ...node, color, children }
+-    })
+-  const roots = walk(tree.roots)
+-  return moved ? { repo: tree.repo, roots } : undefined
+-}
+diff --git a/editor-extension/work-tree-colors/work-tree-colors.module.ts b/editor-extension/work-tree-colors/work-tree-colors.module.ts
+deleted file mode 100644
+index f0ef46379276a3946876e99c8ab4b082c8fc3916..0000000000000000000000000000000000000000
+--- a/editor-extension/work-tree-colors/work-tree-colors.module.ts
++++ /dev/null
+@@ -1,48 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const workTreeColors = {
+-  id: "01a06867-dbcb-7466-9dd7-57e1eb113be5",
+-  pageTypeSlug: "module",
+-  slug: "work-tree-colors",
+-  definition: "the color a work tree row is drawn in, raised through everything under it",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A row takes the liveliest color of itself and everything under it.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A color the ranking does not name sits behind every color the ranking names.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A row with no color takes whatever color is under it.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A row nothing states and holding nothing stated carries no color.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A repaint reads each row's color afresh rather than raising the one that row holds.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A repaint moving no row's color answers nothing rather than an equal tree.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A tree is rebuilt rather than colored where that tree is.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here reads a color from the seats.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here knows the look a color is drawn as.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/editor-extension/work-tree-reading/work-tree-reading.module.code.ts b/editor-extension/work-tree-reading/work-tree-reading.module.code.ts
+index bb87c7ce2e81186e836f886a45a13dcd010a719b..c89a86865846ca33c0abdfe1f76c002cf1823ce3 100644
+--- a/editor-extension/work-tree-reading/work-tree-reading.module.code.ts
++++ b/editor-extension/work-tree-reading/work-tree-reading.module.code.ts
+@@ -1,17 +1,5 @@
+ import * as path from "node:path"
+-import { runCommand } from "../harness-call/harness-call.module.code.ts"
+-import { rollUp } from "../work-tree-colors/work-tree-colors.module.code.ts"
+-import type {
+-  WorkColors,
+-  WorkNode,
+-  WorkTree,
+-} from "../work-tree-rows/work-tree-rows.module.code.ts"
+-
+-const COMMAND = "work-tree"
+-
+-const CALL_TIMEOUT_MS = 60_000
+-
+-const MAX_BUFFER = 16 * 1024 * 1024
++import type { WorkNode, WorkTree } from "../work-tree-rows/work-tree-rows.module.code.ts"
+ 
+ export function countRows(nodes: readonly WorkNode[]): number {
+   let total = 0
+@@ -25,95 +13,8 @@ export function workKeys(nodes: readonly WorkNode[]): readonly string[] {
+   return nodes.flatMap((node) => [node.key, ...workKeys(node.children)])
+ }
+ 
++// A ROW REPRESENTING NOTHING DECLARED OPENS NOTHING. Every other row names its document by a path
++// under the checkout the tree carries, so the two are joined here rather than at each caller.
+ export function documentPath(tree: WorkTree, node: WorkNode): string | undefined {
+   return node.relPath === null ? undefined : path.join(tree.repo, node.relPath)
+ }
+-
+-function textOrNull(value: unknown): string | null {
+-  return typeof value === "string" ? value : null
+-}
+-
+-function nodeIn(raw: unknown, at: string): WorkNode {
+-  if (raw === null || typeof raw !== "object") {
+-    throw new Error(`${COMMAND}: ${at} is not an object`)
+-  }
+-  const row = raw as Record<string, unknown>
+-  if (typeof row.key !== "string" || row.key === "") {
+-    throw new Error(`${COMMAND}: ${at} carries no key, and a row with none is no initiative`)
+-  }
+-  const children = Array.isArray(row.children) ? row.children : []
+-  return {
+-    key: row.key,
+-    label: typeof row.label === "string" ? row.label : row.key,
+-    relPath: textOrNull(row.relPath),
+-    detail: textOrNull(row.detail),
+-    note: textOrNull(row.note),
+-    color: textOrNull(row.color ?? row.colour),
+-    children: children.map((one, index) => nodeIn(one, `${at}.children[${index}]`)),
+-  }
+-}
+-
+-function repoIn(held: Record<string, unknown>): string {
+-  if (typeof held.repo !== "string" || held.repo === "") {
+-    throw new Error(`${COMMAND}: the answer names no repo, so no path could be joined against it`)
+-  }
+-  return held.repo
+-}
+-
+-function answerIn(answered: unknown): Record<string, unknown> {
+-  if (answered === null || typeof answered !== "object") {
+-    throw new Error(`${COMMAND}: the answer is not an object, so it names no initiative at all`)
+-  }
+-  return answered as Record<string, unknown>
+-}
+-
+-export function readWorkTreeAnswer(answered: unknown): WorkTree {
+-  const held = answerIn(answered)
+-  if (!Array.isArray(held.roots)) {
+-    throw new Error(`${COMMAND}: the answer carries no \`roots\` array`)
+-  }
+-  return {
+-    repo: repoIn(held),
+-    roots: rollUp(held.roots.map((one, index) => nodeIn(one, `roots[${index}]`))),
+-  }
+-}
+-
+-export function readWorkColorsAnswer(answered: unknown): WorkColors {
+-  const held = answerIn(answered)
+-  const named = held.byInitiative
+-  if (named === null || named === undefined || typeof named !== "object") {
+-    throw new Error(`${COMMAND}: the answer carries no \`byInitiative\` record`)
+-  }
+-  const byInitiative: Record<string, string> = {}
+-  for (const [key, color] of Object.entries(named as Record<string, unknown>)) {
+-    if (typeof color === "string" && color !== "") {
+-      byInitiative[key] = color
+-    }
+-  }
+-  return { repo: repoIn(held), byInitiative }
+-}
+-
+-async function ask(args: readonly string[]): Promise<unknown> {
+-  const stdout = await runCommand(COMMAND, args, {
+-    timeout: CALL_TIMEOUT_MS,
+-    maxBuffer: MAX_BUFFER,
+-  })
+-  try {
+-    return JSON.parse(stdout) as unknown
+-  } catch (err) {
+-    throw new Error(`${COMMAND} did not print JSON: ${String(err)}`)
+-  }
+-}
+-
+-// ASKED AS A CHILD RATHER THAN COMPOSED HERE. Composing the tree opens every initiative page, and
+-// loading a page body wants a transpiler only bun carries, so in this node host the whole reach
+-// threw at import.
+-export async function readWorkTree(): Promise<WorkTree> {
+-  return readWorkTreeAnswer(await ask(["--json"]))
+-}
+-
+-// `--colors` opens no initiative page: it reads the seat pages and their sidecars alone, which is
+-// what a repaint after a seat's turn moves needs and is a small part of what the tree costs.
+-export async function readWorkColors(): Promise<WorkColors> {
+-  return readWorkColorsAnswer(await ask(["--colors"]))
+-}
+diff --git a/editor-extension/work-tree-reading/work-tree-reading.module.ts b/editor-extension/work-tree-reading/work-tree-reading.module.ts
+index 60cf5e69dda0c747c6a6cecc2c9c87e430ca8cc7..0235ca75f4a3c8e50d32bd821765477a02f1f24d 100644
+--- a/editor-extension/work-tree-reading/work-tree-reading.module.ts
++++ b/editor-extension/work-tree-reading/work-tree-reading.module.ts
+@@ -4,59 +4,28 @@ export const workTreeReading = {
+   id: "01a06867-dbcb-78e4-a9b3-4a59f26c06ca",
+   pageTypeSlug: "module",
+   slug: "work-tree-reading",
+-  definition: "the work tree asked of the harness and the answer read back into rows",
++  definition: "what is counted, keyed and opened from work tree rows already in hand",
+   code: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Composing the tree opens page bodies, which only bun loads, so the tree is asked as a child process.",
++      statement: "A count of the rows counts every row beneath a root as well as that root.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The colors are asked apart from the tree, since reading those colors opens no page.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement: "An answer that is no JSON object is refused as naming no initiative at all.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement:
+-        "An answer naming no checkout is refused, since no path could be joined to that checkout.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement: "A row carrying no key is refused rather than drawn as a keyless initiative.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A refusal names the place in the answer the bad row was at.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A row carrying no label is labelled by its key.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A color is read under either spelling the command answers with.",
++      statement: "The keys are answered with a row before every row beneath that row.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A color that is no text or is empty is read as no color.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The colors are raised through the tree as the answer is read rather than after.",
++      statement: "A row's document is the checkout joined to the path that row carries.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row's document is the checkout joined to the path that row carries.",
++      statement: "A row carrying no path opens no document.",
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here composes the tree the command answers with.",
++      statement: "Nothing here composes a tree or reads an answer.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/editor-extension/work-tree-rows/work-tree-rows.module.code.ts b/editor-extension/work-tree-rows/work-tree-rows.module.code.ts
+index 1a533664a188e191fab0e85b547e519f4494b9ad..b387cf834b0579e67f0f177b119a8e371e3e778a 100644
+--- a/editor-extension/work-tree-rows/work-tree-rows.module.code.ts
++++ b/editor-extension/work-tree-rows/work-tree-rows.module.code.ts
+@@ -1,9 +1,7 @@
+-// THE SHAPE OF THE WORK TREE, HELD APART FROM THE READING THAT FILLS IT.
++// THE SHAPE OF THE WORK TREE, HELD APART FROM BOTH SIDES THAT HANDLE IT.
+ //
+-// `work-tree-reading` parses an answer into these and calls `rollUp` in `work-tree-colors` to raise
+-// the colors through them. Holding the shape here leaves that one call as the only edge between the
+-// two, so each can land on its own; naming the shape from its parser would put an edge back the
+-// other way and neither could land first.
++// The panel composes these from the rows the service writes, and the view draws them. Holding the
++// shape here leaves neither of those naming the other, so each can land on its own.
+ 
+ export interface WorkNode {
+   readonly key: string
+@@ -19,8 +17,3 @@ export interface WorkTree {
+   readonly repo: string
+   readonly roots: readonly WorkNode[]
+ }
+-
+-export interface WorkColors {
+-  readonly repo: string
+-  readonly byInitiative: Readonly<Record<string, string>>
+-}
+diff --git a/editor-extension/work-tree-rows/work-tree-rows.module.ts b/editor-extension/work-tree-rows/work-tree-rows.module.ts
+index 506909f7335ff305ede879e0396a2ecb4057f99d..ce2859c5464df27a41d9bff156f4103cd8c135ac 100644
+--- a/editor-extension/work-tree-rows/work-tree-rows.module.ts
++++ b/editor-extension/work-tree-rows/work-tree-rows.module.ts
+@@ -4,7 +4,7 @@ export const workTreeRows = {
+   id: "01a06867-dbcb-7799-8db6-bc35df7360fc",
+   pageTypeSlug: "module",
+   slug: "work-tree-rows",
+-  definition: "the shape of a work tree row, held apart from the reading that fills it",
++  definition: "the shape of a work tree row, held apart from both sides that handle it",
+   code: "ts",
+   invariants: [
+     {
+@@ -25,12 +25,7 @@ export const workTreeRows = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The colors are answered keyed the way a row is keyed.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The shape sits here so the parser and the coloring share one edge rather than two.",
++      statement: "The shape sits here so the panel and the view share one edge rather than two.",
+     },
+     {
+       invariantKind: "absence",
