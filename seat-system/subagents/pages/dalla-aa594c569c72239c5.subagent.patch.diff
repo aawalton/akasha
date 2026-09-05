@@ -30,7 +30,7 @@ index b5de8b88ad7131d009721a8f1d0a0d1331f9ef5e..997c659006dea17ce5172d82bceee6b8
  export const SEAT_AT = "akasha/seat-system/seats/pages/tester.seat.ts"
  
 diff --git a/command-system/asking/asking.module.test.ts b/command-system/asking/asking.module.test.ts
-index c1fe76508583e35def2b39a7610410c2eb0559ec..d7989faa5e4b3d0f8ee86ef896daccb7642c94ac 100644
+index c1fe76508583e35def2b39a7610410c2eb0559ec..84ce24c75aa477cc6d53878f3cb3b6618f0c792b 100644
 --- a/command-system/asking/asking.module.test.ts
 +++ b/command-system/asking/asking.module.test.ts
 @@ -1,6 +1,7 @@
@@ -49,3 +49,45 @@ index c1fe76508583e35def2b39a7610410c2eb0559ec..d7989faa5e4b3d0f8ee86ef896daccb7
    asking,
    BROKEN,
    blocked,
+@@ -206,6 +208,41 @@ test("a landing made by a program is told apart from a glass that was broken", a
+   expect(said.report.join("\n")).not.toContain("the glass was broken")
+ })
+ 
++const THREE = [{ path: "akasha/three.ts", body: bytes(PROPOSED) }]
++
++const PATCH_AT = patchAt(SEAT_AT) as string
++
++test("a mechanical change goes through the patch beside the agent's page", async () => {
++  const root = repoWith()
++  const said = await landedMechanically(root, "akasha write", THREE, "held", [], AGENT)
++  expect(said.code).toBe(0)
++  expect(readFileSync(join(root, "akasha/three.ts"), "utf8")).toBe(PROPOSED)
++  expect(git(root, ["log", "--format=%s"])).toContain(PATCH_AT)
++})
++
++test("a mechanical change applies the patch in the same call, so none is left kept", async () => {
++  const root = repoWith()
++  const from = put(root, "body.txt", PROPOSED)
++  const drafting = await write(
++    ["--file-path", "akasha/two.ts", "--content-file", from],
++    givenIn(root)
++  )
++  expect(drafting.code).toBe(0)
++  const said = await landedMechanically(root, "akasha write", THREE, "held", [], AGENT)
++  expect(said.code).toBe(0)
++  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(PROPOSED)
++  expect(existsSync(join(root, PATCH_AT))).toBe(false)
++})
++
++test("a mechanical change through a patch runs no check and says so in the commit", async () => {
++  const root = repoWith()
++  checking(root, "refuses", REFUSES_CODE)
++  const said = await landedMechanically(root, "akasha write", THREE, "held", [], AGENT)
++  expect(said.code).toBe(0)
++  expect(readFileSync(join(root, "akasha/three.ts"), "utf8")).toBe(PROPOSED)
++  expect(commitIn(root, said)).toContain("Checks-bypassed: a `change-mechanical` change")
++})
++
+ test("a loose body lands formatted and sorted, and the report says it did", async () => {
+   const root = repoWithTheFormatter()
+   const said = await wrote(root, ["--message", "held"], LOOSE)
