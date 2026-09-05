@@ -30,7 +30,8 @@ export const storeSpelling = {
     },
     {
       invariantKind: "departure",
-      statement: "The store leaves out a key it has no column for and answers null for one it has.",
+      statement:
+        "The store leaves out a key the store has no column for and answers null for one the store has.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +39,8 @@ export const storeSpelling = {
     },
     {
       invariantKind: "departure",
-      statement: "Reaching them would put a page-file reader behind a package that opens none.",
+      statement:
+        "Reaching the two spellings would put a page-file reader behind a package that opens none.",
     },
     {
       invariantKind: "absence",
