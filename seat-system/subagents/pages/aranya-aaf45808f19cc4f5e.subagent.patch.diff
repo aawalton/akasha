@@ -113,29 +113,30 @@ index 0000000000000000000000000000000000000000..ab36bb2e9f9b2df37db726ea96f3e80d
 +  return [{ name: "cronjob", yaml: cronjobYaml() }]
 +}
 diff --git a/seat-system/subagents/pages/aranya-aaf45808f19cc4f5e.subagent.patch.diff b/seat-system/subagents/pages/aranya-aaf45808f19cc4f5e.subagent.patch.diff
-index fecc4650f0134dc42456c32241a7224857da4e68..fa4666e67f218963ddb83b7c632cb769fc8eea1d 100644
+index d00bae498bdc1d1420e9d37ecf81c81d9fae8ece..0f22af5f86812287eb5b109f5d72359fe015d4d4 100644
 --- a/seat-system/subagents/pages/aranya-aaf45808f19cc4f5e.subagent.patch.diff
 +++ b/seat-system/subagents/pages/aranya-aaf45808f19cc4f5e.subagent.patch.diff
-@@ -6,6 +6,6 @@ index 8217e4d4c6d930d31737c5a825683d1e52ffd126..a306e55cb9fccdd6b80fecefa2075dcb
+@@ -132,8 +132,12 @@ index 8217e4d4c6d930d31737c5a825683d1e52ffd126..dacedd8a56f54b15eb0152da49f88799
     resourceName: "calendar-sync",
     image: "registry.registry.svc.cluster.local:5000/alanwalton/alanwalton-calendar-sync",
     schedule: "40 8 * * *",
---  manifestCode: "calendar-sync/calendar-sync.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +-  manifestCode: "calendar-sync/manifests/calendar-sync-manifests.manifest.code.ts",
++=======
+ -  manifestCode: "calendar-sync/calendar-sync.cluster-service.code.attachment.ts",
+ +<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
  +  manifestSlug: "calendar-sync-manifests",
-  } as const satisfies ClusterService
+ +=======
+ +  manifestCode: "calendar-sync/manifests/calendar-sync-manifests.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/calendar-sync.cluster-service.ts b/service-system/cluster-services/pages/calendar-sync.cluster-service.ts
-index 8217e4d4c6d930d31737c5a825683d1e52ffd126..dacedd8a56f54b15eb0152da49f88799ea43554b 100644
+index 8217e4d4c6d930d31737c5a825683d1e52ffd126..a306e55cb9fccdd6b80fecefa2075dcb20a4184d 100644
 --- a/service-system/cluster-services/pages/calendar-sync.cluster-service.ts
 +++ b/service-system/cluster-services/pages/calendar-sync.cluster-service.ts
-@@ -10,5 +10,9 @@ export const calendarSync = {
+@@ -10,5 +10,5 @@ export const calendarSync = {
    resourceName: "calendar-sync",
    image: "registry.registry.svc.cluster.local:5000/alanwalton/alanwalton-calendar-sync",
    schedule: "40 8 * * *",
 -  manifestCode: "calendar-sync/calendar-sync.cluster-service.code.attachment.ts",
-+<<<<<<< what this change would leave
 +  manifestSlug: "calendar-sync-manifests",
-+=======
-+  manifestCode: "calendar-sync/manifests/calendar-sync-manifests.manifest.code.ts",
-+>>>>>>> what HEAD holds
  } as const satisfies ClusterService
