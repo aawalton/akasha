@@ -82,10 +82,7 @@ export const drive = {
       invariantKind: "departure",
       statement: "A Drive name that cannot be written to disk is answered as operational.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A minted refresh token is written out and held nowhere.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here writes to Drive.",

@@ -135,10 +135,7 @@ export const calendar = {
       invariantKind: "departure",
       statement: "Everyone attending is emailed unless the call says who to email instead.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A minted refresh token is written out and held nowhere.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A flag under an act that does not take that flag is refused.",
