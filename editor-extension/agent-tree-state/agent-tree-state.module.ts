@@ -14,7 +14,8 @@ export const agentTreeState = {
     },
     {
       invariantKind: "departure",
-      statement: "A forest and a set of seat tabs are empty until the first read replaces them.",
+      statement:
+        "A forest and a set of seat tabs are empty until the first read replaces that forest and that set.",
     },
     {
       invariantKind: "absence",
@@ -26,7 +27,8 @@ export const agentTreeState = {
     },
     {
       invariantKind: "gap",
-      statement: "The state is held here rather than passed between the pieces that share it.",
+      statement:
+        "The state is held here rather than passed between the pieces that share that state.",
     },
   ],
 } as const satisfies Module
