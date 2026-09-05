@@ -181,7 +181,7 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A page answers with the collections that page names as holding it.",
+      statement: "A page answers with the collections that page names as holding that page.",
     },
     {
       invariantKind: "departure",
