@@ -1,5 +1,5 @@
 diff --git a/alan/fitness/session-planning/equipment-kit/equipment-kit.module.test.ts b/alan/fitness/session-planning/equipment-kit/equipment-kit.module.test.ts
-index 4fd9ecbd77b02e6f82ce456b00a2c621d1556016..961348e5bd60ede2a0eaa4aad272238d1ac89a6e 100644
+index 4fd9ecbd77b02e6f82ce456b00a2c621d1556016..236531157c2faaac10ef6085eb650b142c445849 100644
 --- a/alan/fitness/session-planning/equipment-kit/equipment-kit.module.test.ts
 +++ b/alan/fitness/session-planning/equipment-kit/equipment-kit.module.test.ts
 @@ -17,7 +17,7 @@ test("a dumbbell is an implement", () => {
@@ -10,6 +10,15 @@ index 4fd9ecbd77b02e6f82ce456b00a2c621d1556016..961348e5bd60ede2a0eaa4aad272238d
 +test("kit with no implement names no category", () => {
    expect(kitCategoryFor("body-only")).toBeNull()
    expect(kitCategoryFor(null)).toBeNull()
+ })
+@@ -28,7 +28,7 @@ test("each mapped implement names its category", () => {
+   expect(kitCategoryFor("bands")).toBe("band")
+ })
+ 
+-test("an implement standing for no category is out of the kit", () => {
++test("an implement naming no category is out of the kit", () => {
+   expect(kitCategoryFor("barbell")).toBeNull()
+   expect(isInKit("barbell", DUMBBELLS)).toBe(false)
  })
 diff --git a/alan/fitness/session-planning/equipment-kit/equipment-kit.module.ts b/alan/fitness/session-planning/equipment-kit/equipment-kit.module.ts
 index fa45bed61429c20e14554559b1df9060425e2a25..b6949c9948a3360a480cc7efdcb9aff4229ead3d 100644
