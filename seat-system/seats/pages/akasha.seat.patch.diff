@@ -97,3 +97,16 @@ index 92620ff1d45c6b862a5eb8b2b1ba6a0091cbd6a6..414d84227e14dcc24f777636bda2444c
  }
  
  export function schemaOf(given: string | Reading, named: string): Schemad {
+diff --git a/pages/indexes/reading/index-reading.module.test.ts b/pages/indexes/reading/index-reading.module.test.ts
+index 91006b53e032cae31e5ba55b7b5cc87f2ea59494..63d788c363f7a9fa24778e85ec289ef6e3ef0d92 100644
+--- a/pages/indexes/reading/index-reading.module.test.ts
++++ b/pages/indexes/reading/index-reading.module.test.ts
+@@ -151,7 +151,7 @@ test("every reader is refused where the index stands nowhere, whatever it was as
+   expect(() => listedById(root, A)).toThrow(/is not an index naming none/)
+   expect(() => everyPath(root)).toThrow(/is not an index naming none/)
+   expect(() => listedByPath(root, "akasha/a.module.ts")).toThrow(/is not an index naming none/)
+-  expect(() => schemaOf(root, "nowhere")).toThrow(/is not an index naming none/)
++  expect(() => schemaOf(root, "text-property/nowhere")).toThrow(/is not an index naming none/)
+ })
+ 
+ test("a relation property is answered with the shape it is and the page type it may name", () => {
