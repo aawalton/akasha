@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/story/elements-played/story-element-played.page-type.ts b/story/elements-played/story-element-played.page-type.ts
+index c86f9fe0531ab4cd92973f242a6630ed65bef8b9..25299aa2e38bb12913f129c3c5a374e50a6f6255 100644
+--- a/story/elements-played/story-element-played.page-type.ts
++++ b/story/elements-played/story-element-played.page-type.ts
+@@ -55,7 +55,7 @@ export const storyElementPlayed = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An element's five faculties on its page are what holds across the whole story.",
++      statement: "An element's five faculties on its page hold across the whole story.",
+     },
+     {
+       invariantKind: "departure",
