@@ -35,7 +35,7 @@ export const usZoneOffset = {
     },
     {
       invariantKind: "constraint",
-      statement: "The rule as it is today is applied to every year.",
+      statement: "The rule as the rule is today is applied to every year.",
     },
     {
       invariantKind: "departure",
