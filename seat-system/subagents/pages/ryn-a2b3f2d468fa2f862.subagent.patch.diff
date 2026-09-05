@@ -163,3 +163,21 @@ index 107fc0ba26a5238876e4a03d126493e0405a7bc7..b584e1ef3fd879ab4f0e0c8cdc4e83c2
      },
      {
        invariantKind: "departure",
+diff --git a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
+index 9726d2edd75e94db4419ecd9aa3a965d6ecdfdd4..679cd35d141d8dacad7813c30aa3781070d3dac1 100644
+--- a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
++++ b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
+@@ -14,8 +14,11 @@ export const supervisorLogSweeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A directory is kept where a seat page that still exists names its agent, or where a file in it was written inside the window.",
++      statement: "A directory is kept where a seat page that still exists names its agent.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A directory holding a file written inside the window is kept.",
+     },
+     {
+       invariantKind: "departure",
