@@ -1,5 +1,5 @@
 diff --git a/commands/write/write.command.code.ts b/commands/write/write.command.code.ts
-index aaf9ff99fdc823990a5cc2163097b69079350715..e84ac529740d43563148a7ad02405c588bf53bb2 100644
+index aaf9ff99fdc823990a5cc2163097b69079350715..4753e757f4c2b11bd7fb60522f2b71c12f955fe0 100644
 --- a/commands/write/write.command.code.ts
 +++ b/commands/write/write.command.code.ts
 @@ -28,6 +28,7 @@ import {
@@ -10,3 +10,23 @@ index aaf9ff99fdc823990a5cc2163097b69079350715..e84ac529740d43563148a7ad02405c58
  
  export const FILE_PATH = "--file-path"
  
+@@ -82,6 +83,19 @@ export function restatedIn(
+   return { given: { ...given, changeKind: kind } }
+ }
+ 
++function wasAt(root: string, path: string): Uint8Array | null {
++  const held = bytesAt(join(root, path))
++  return "bytes" in held ? held.bytes : null
++}
++
++export function unrestatedFor(given: Given, changes: readonly FileEdit[]): readonly string[] {
++  if (given.changeKind?.slug !== RESTATED_KIND) return []
++  return unrestatedIn(
++    given.root,
++    changes.map((one) => ({ path: one.path, was: wasAt(given.root, one.path), now: one.body }))
++  )
++}
++
+ export function pathAt(root: string, said: string): string | null {
+   const full = isAbsolute(said) ? resolve(said) : resolve(root, said)
+   const rel = relative(resolve(root), full)
