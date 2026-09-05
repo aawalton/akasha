@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/body/page-body.module.ts b/pages/body/page-body.module.ts
-index 46486e588141737f042807d6c5c392de0a80dcb3..a5ee58df6174dd9a3dda7d0be7afb1a3f3099097 100644
+index 46486e588141737f042807d6c5c392de0a80dcb3..61b931ef179ea02a614dd77322ab2178cf687a86 100644
 --- a/pages/body/page-body.module.ts
 +++ b/pages/body/page-body.module.ts
 @@ -35,7 +35,7 @@ export const pageBody = {
@@ -9,6 +9,15 @@ index 46486e588141737f042807d6c5c392de0a80dcb3..a5ee58df6174dd9a3dda7d0be7afb1a3
        invariantKind: "departure",
 -      statement: "Only what JSON holds may be a value.",
 +      statement: "Only data JSON holds may be a value.",
+     },
+     {
+       invariantKind: "departure",
+@@ -47,7 +47,7 @@ export const pageBody = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here formats what this module wrote.",
++      statement: "Nothing here formats the body this module wrote.",
      },
      {
        invariantKind: "departure",
