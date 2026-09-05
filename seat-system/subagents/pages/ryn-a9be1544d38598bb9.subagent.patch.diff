@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/command-system/body-merging/body-merging.module.ts b/command-system/body-merging/body-merging.module.ts
-index 87bcad8f9b60c710eb76ec7c0f7428fe14bc256d..03524f5fc1e4e36abac5968ec158b87e5ba02a38 100644
+index 87bcad8f9b60c710eb76ec7c0f7428fe14bc256d..bbda6177d70a13bad2b8b185e0a23859db931ddb 100644
 --- a/command-system/body-merging/body-merging.module.ts
 +++ b/command-system/body-merging/body-merging.module.ts
-@@ -11,11 +11,11 @@ export const bodyMerging = {
+@@ -11,15 +11,15 @@ export const bodyMerging = {
    invariants: [
      {
        invariantKind: "departure",
@@ -14,6 +14,11 @@ index 87bcad8f9b60c710eb76ec7c0f7428fe14bc256d..03524f5fc1e4e36abac5968ec158b87e
        invariantKind: "departure",
 -      statement: "The body a change would leave is what a merge reads as the change's own.",
 +      statement: "A merge reads the body a change would leave as the change's own.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The body HEAD holds is what a merge reads as what moved under the change.",
++      statement: "A merge reads the body HEAD holds as the body that moved under the change.",
      },
      {
        invariantKind: "departure",
