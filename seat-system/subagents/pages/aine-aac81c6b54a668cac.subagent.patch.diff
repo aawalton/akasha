@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts
-index 7818329b0eda848cf6b89ba72c92dbf451ba6105..55c36686fa647e7f649a16e126b369679204f7d6 100644
+index 7818329b0eda848cf6b89ba72c92dbf451ba6105..0b4d95d1f1a5e628b20975ed50e525fd646edff6 100644
 --- a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts
 +++ b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts
 @@ -7,10 +7,10 @@ import { categoryTitles } from "../rule-pages/monarch-rule-pages.module.code.ts"
@@ -34,8 +34,17 @@ index 7818329b0eda848cf6b89ba72c92dbf451ba6105..55c36686fa647e7f649a16e126b36967
          )
        }
        held.set(slug, path)
+@@ -129,7 +129,7 @@ function outcomeOf(page: RulePage, categories: ReadonlyMap<string, string>): Out
+   if (slug === null) return { kind: "reserve" }
+   if (!categories.has(slug)) {
+     throw new Error(
+-      `${page.path}: no category stands at \`${slug}\`. It may have been merged or renamed ` +
++      `${page.path}: no category exists at \`${slug}\`. It may have been merged or renamed ` +
+         "in Monarch."
+     )
+   }
 diff --git a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
-index 1dad0a9d1f4c6185417aae8f7e8d016b29e7e6a5..3f81a42cc0f7e47cf2fda3788f2da1cc7357d12f 100644
+index 1dad0a9d1f4c6185417aae8f7e8d016b29e7e6a5..2968ce8fff69023a4180d6680edf362b12531c1e 100644
 --- a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
 +++ b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
 @@ -4,17 +4,17 @@ export const monarchRuleDocuments = {
@@ -59,6 +68,15 @@ index 1dad0a9d1f4c6185417aae8f7e8d016b29e7e6a5..3f81a42cc0f7e47cf2fda3788f2da1cc
      },
      {
        invariantKind: "departure",
+@@ -48,7 +48,7 @@ export const monarchRuleDocuments = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A rule naming a category that no longer stands is refused, because it may have been merged or renamed in Monarch.",
++        "A rule naming a category that no longer exists is refused, because it may have been merged or renamed in Monarch.",
+     },
+   ],
+ } as const satisfies Module
 diff --git a/alan/harness/monarch/rule-pages/monarch-rule-pages.module.code.ts b/alan/harness/monarch/rule-pages/monarch-rule-pages.module.code.ts
 index cd6c452cb3fec9d6998e0ea107533c335dcf3cb9..f31d22ac41a5e150955cc673c99598188e46ff46 100644
 --- a/alan/harness/monarch/rule-pages/monarch-rule-pages.module.code.ts
