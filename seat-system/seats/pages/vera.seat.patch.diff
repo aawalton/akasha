@@ -48,6 +48,86 @@ index c44654e01a861f03b9cf166d9c7a92f1ca176b79..8a671786f9d802e07e295a01c38aec96
 +  expect(said.refusals).toEqual([])
 +  expect(fileIn(root, WAYS_IN)).toBe(PACKAGE_WITH_WAYS)
 +})
+diff --git a/commands/remove/remove.command.test.ts b/commands/remove/remove.command.test.ts
+index 9761cc5741e2b1b9b5f0ff7825965e4527ddf114..9ab561d846fa1a373cf71242f480f4ce65037dfa 100644
+--- a/commands/remove/remove.command.test.ts
++++ b/commands/remove/remove.command.test.ts
+@@ -13,7 +13,6 @@ import {
+   DEEP,
+   deepWorld,
+   emptyIn,
+-  fileIn,
+   GLASSED,
+   GONE,
+   git,
+@@ -26,16 +25,10 @@ import {
+   linkThere,
+   looseIn,
+   looseLinkIn,
+-  MANIFEST,
+   MANY_HELD,
+-  MOVED_MANIFEST,
+-  manifested,
+-  manifestIn,
+   naming,
+   OUTSIDE,
+   outsideWorld,
+-  PACKAGE_WITH_WAYS,
+-  PACKAGE_WITHOUT_GONE,
+   REACHING,
+   REFUSED_ENDS,
+   REFUSED_FLAGGED,
+@@ -47,9 +40,6 @@ import {
+   SAYING,
+   scratch,
+   sidecarWorld,
+-  WAYS_IN,
+-  WORKSPACE,
+-  waysWorld,
+ } from "./remove.command.test-fixtures.ts"
+ import { remove as removeCommand } from "./remove.command.ts"
+ 
+@@ -234,21 +224,6 @@ test("a folder at the top of the repository is refused, and so is a path inside
+   expect(git(root, ["ls-files"]).trim()).toBe(`${HELD}\n${OUTSIDE}`)
+ })
+ 
+-test("a way into a package is dropped where the removal takes the file it lands on", async () => {
+-  const root = waysWorld()
+-  const said = await removing(root, naming("temper/one/gone"))
+-  expect(said.refusals).toEqual([])
+-  expect(fileIn(root, WAYS_IN)).toBe(PACKAGE_WITHOUT_GONE)
+-  expect(reportOf(said)).toContain("stopped naming 1 way in")
+-})
+-
+-test("a way into a package whose file the removal leaves keeps its place", async () => {
+-  const root = waysWorld()
+-  const said = await removing(root, naming(HELD))
+-  expect(said.refusals).toEqual([])
+-  expect(fileIn(root, WAYS_IN)).toBe(PACKAGE_WITH_WAYS)
+-})
+-
+ test("naming no path is refused rather than committed empty", async () => {
+   const root = heldWorld()
+   const said = await removing(root, [])
+@@ -357,18 +332,6 @@ test("a message is read from a file and trimmed, and stated twice over or empty
+   expect(git(root, ["log", "-1", "--pretty=%B"]).trim()).toBe("taken by a file")
+ })
+ 
+-test("the root manifest loses a row only where nothing else moved the manifest meanwhile", async () => {
+-  const clean = manifested()
+-  expect((await removing(clean, naming(WORKSPACE))).refusals).toEqual([])
+-  expect(manifestIn(clean)).not.toContain(WORKSPACE)
+-
+-  const root = manifested()
+-  writeFileSync(join(root, MANIFEST), MOVED_MANIFEST)
+-  const said = await removing(root, naming(WORKSPACE))
+-  expect(refusalOf(said)).toContain("changed after this call read it")
+-  expect(manifestIn(root)).toBe(MOVED_MANIFEST)
+-})
+-
+ test("a path is read against the repository root, wherever the call was made", async () => {
+   const root = heldWorld()
+   const said = await remove(naming(HELD), { ...givenIn(root), from: join(root, "akasha") })
 diff --git a/commands/remove/workspacing/remove-workspacing.module.test.ts b/commands/remove/workspacing/remove-workspacing.module.test.ts
 index fb987810d473856434b35f3af050e01c6017b6de..db127a54befff18acc5bff48bb188953b637addf 100644
 --- a/commands/remove/workspacing/remove-workspacing.module.test.ts
