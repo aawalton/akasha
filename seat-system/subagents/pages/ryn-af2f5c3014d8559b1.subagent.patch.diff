@@ -1,15 +1,20 @@
 runsWarrants: false
 diff --git a/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.ts b/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.ts
-index 4d48f3c225d097d1cb5441d4e67ff0fe87add2cc..fa4a0726f34770f56645cc7296ded212cd52b8e9 100644
+index 4d48f3c225d097d1cb5441d4e67ff0fe87add2cc..bd2a4c27b1b395e41be20fabb0afa39e4962a0ae 100644
 --- a/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.ts
 +++ b/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.ts
-@@ -52,7 +52,8 @@ export const claudeAccountCredentialPush = {
+@@ -52,11 +52,12 @@ export const claudeAccountCredentialPush = {
      },
      {
        invariantKind: "departure",
 -      statement: "What landed is read back through sops and weighed against what was handed in.",
 +      statement:
 +        "The file that landed is read back through sops and weighed against the pair handed in.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A sops file reading back as other than what was handed in is refused.",
++      statement: "A sops file reading back as other than the pair handed in is refused.",
      },
      {
        invariantKind: "departure",
