@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/editor-extension/window-identity/window-identity.module.ts b/editor-extension/window-identity/window-identity.module.ts
+index cd0557dc3863c0500600e02c5ba0c016bfe50d4f..92b4baadf362a9e9208927e8e71225af32e33339 100644
+--- a/editor-extension/window-identity/window-identity.module.ts
++++ b/editor-extension/window-identity/window-identity.module.ts
+@@ -57,7 +57,7 @@ export const windowIdentity = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows what a window record holds.",
++      statement: "Nothing here knows the fields a window record holds.",
+     },
+   ],
+ } as const satisfies Module
