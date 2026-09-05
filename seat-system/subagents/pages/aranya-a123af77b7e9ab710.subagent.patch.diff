@@ -1,3 +1,31 @@
+diff --git a/commands/subagent-sweep/subagent-sweep.command.code.ts b/commands/subagent-sweep/subagent-sweep.command.code.ts
+index 6640c77a416bb0087849ae371134c7f596f4ad70..b22b1e9edbd85323838cb97ea1d5941cae6afd13 100644
+--- a/commands/subagent-sweep/subagent-sweep.command.code.ts
++++ b/commands/subagent-sweep/subagent-sweep.command.code.ts
+@@ -64,8 +64,8 @@ export function messageOf(stale: readonly Judged[]): string {
+     `${String(stale.length)} subagent page(s) go, one for each subagent nothing says is at work`,
+     "",
+     "A page is judged from evidence rather than from age: a live process acting under its agent",
+-    "id, a take-down its seat's subagent-presence log says was refused, or no live process running",
+-    "as its seat at all. These are the pages the evidence settled as done.",
++    "id, a take-down its seat's subagent-presence log says was refused, or no process at all",
++    "carrying its seat's agent id. These are the pages the evidence settled as done.",
+     "",
+     ...stale.map((one) => `${one.page.slug} — ${one.why}`),
+   ].join("\n")
+diff --git a/commands/subagent-sweep/subagent-sweep.command.ts b/commands/subagent-sweep/subagent-sweep.command.ts
+index 9c4acc0a99f7fc4e6779673a957f86e94d572ead..92226ded82b95565e1a3f03da4f6ccbf94af22a5 100644
+--- a/commands/subagent-sweep/subagent-sweep.command.ts
++++ b/commands/subagent-sweep/subagent-sweep.command.ts
+@@ -14,7 +14,7 @@ export const subagentSweep = {
+     "a run naming nothing reports and writes nothing, which is how a person reads the census first.",
+     "a page is judged WORKING, STALE or UNDETERMINED, and only STALE ever goes.",
+     "WORKING is a live process acting under the page's agent id, which beats every other reading.",
+-    "STALE is a take-down the seat's subagent-presence log says was refused, or a seat on no live process.",
++    "STALE is a take-down the seat's log says was refused, or a seat no process at all carries the id of.",
+     "UNDETERMINED is everything else, because a subagent waiting on the model runs no process of its own.",
+     "no page's age is read: a page written long ago under a process still running says nothing.",
+     "the report names, for each page, its seat, its agent id, what answers for it, and why.",
 diff --git a/seat-system/subagent-census/subagent-census.module.code.ts b/seat-system/subagent-census/subagent-census.module.code.ts
 index 6f7e0d02222da9b6c2013070c25a49c071cfe1a4..b7bf18220f58542f9ac93e558782bace7f2aa848 100644
 --- a/seat-system/subagent-census/subagent-census.module.code.ts
