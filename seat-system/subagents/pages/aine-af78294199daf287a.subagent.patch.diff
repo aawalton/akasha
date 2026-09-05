@@ -1,5 +1,5 @@
 diff --git a/commands/drive/drive.command.ts b/commands/drive/drive.command.ts
-index f1ba2aeea59b446a0585a3994cf570611fd9e24e..7ee8d1b22ba18f498f8b9dc84912401e31b7badc 100644
+index f1ba2aeea59b446a0585a3994cf570611fd9e24e..599f2b858626d0f5fe97543b8fe5aafafde4ee26 100644
 --- a/commands/drive/drive.command.ts
 +++ b/commands/drive/drive.command.ts
 @@ -4,7 +4,7 @@ export const drive = {
@@ -11,3 +11,16 @@ index f1ba2aeea59b446a0585a3994cf570611fd9e24e..7ee8d1b22ba18f498f8b9dc84912401e
    code: "ts",
    test: "ts",
    changeKindSlug: "change-mechanical",
+@@ -28,10 +28,10 @@ export const drive = {
+       said: "--source <url-or-id>",
+       takes: "the file to fetch, said as a flag rather than in place",
+     },
+-    { said: "--out <dir>", takes: "the folder to write into, made where it stands at nothing" },
++    { said: "--out <dir>", takes: "the folder to write into, made where nothing is there" },
+   ],
+   helpNotes: [
+-    "the words stand in order, and one call names one act.",
++    "the words are in order, and one call names one act.",
+     "the file is named in place after the act or as a flag, and naming it both ways over is refused.",
+     "every Drive URL shape is read for the id it carries, and a bare id is taken as it stands.",
+     "the name the file lands under on disk is the name Drive holds for it.",
