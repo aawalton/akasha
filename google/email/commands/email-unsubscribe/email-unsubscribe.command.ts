@@ -23,7 +23,7 @@ export const emailUnsubscribe = {
     },
     {
       invariantKind: "departure",
-      statement: "One-click is used only where the sender says it is offered.",
+      statement: "One-click is used only where the sender says one-click is offered.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,7 @@ export const emailUnsubscribe = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here says what an unsubscribe would do without doing it.",
+      statement: "Nothing here says what an unsubscribe would do without doing that unsubscribe.",
     },
   ],
 } as const satisfies Command
