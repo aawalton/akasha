@@ -170,6 +170,22 @@ index 34a734af39264b7e52ffaa098d285fa0203afac4..c7473e0d51607a91b54ae2d173b30b95
      {
        invariantKind: "departure",
        statement: "No tracking day is no reading rather than a wisdom of zero.",
+diff --git a/readout-system/readouts/pages/inboxes-email/inboxes-email.readout.ts b/readout-system/readouts/pages/inboxes-email/inboxes-email.readout.ts
+index 43640395b019f71682c8cd370718aa345b7c29fe..0d7f7dfbd443edf330ba77a02eb6866123efd4a5 100644
+--- a/readout-system/readouts/pages/inboxes-email/inboxes-email.readout.ts
++++ b/readout-system/readouts/pages/inboxes-email/inboxes-email.readout.ts
+@@ -29,10 +29,7 @@ export const inboxesEmail = {
+       invariantKind: "departure",
+       statement: "A count stated as text is read as the number that count spells.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A count of zero is a count.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "No mail entry is no reading rather than a count of zero.",
 diff --git a/readout-system/readouts/pages/upkeep-activity/upkeep-activity.readout.ts b/readout-system/readouts/pages/upkeep-activity/upkeep-activity.readout.ts
 index 91921bc4d8f9f827ab5d1a5707f88c12318bc8d0..e33e99745feed77d741ec5874f09a49342bd4e6c 100644
 --- a/readout-system/readouts/pages/upkeep-activity/upkeep-activity.readout.ts
