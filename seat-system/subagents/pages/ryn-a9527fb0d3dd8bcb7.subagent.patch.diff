@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/persona-system/persona-images/properties/image-path.text-property.ts b/persona-system/persona-images/properties/image-path.text-property.ts
+index e7c1b51bac6b43c5de397b538c75ed3d643cdb95..13dc2c0f39ca16bceb60954b5f0639a9f09f2cad 100644
+--- a/persona-system/persona-images/properties/image-path.text-property.ts
++++ b/persona-system/persona-images/properties/image-path.text-property.ts
+@@ -13,7 +13,7 @@ export const imagePath = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A path already absolute is read as it is rather than against a root.",
++      statement: "A path already absolute is read as that path is rather than against a root.",
+     },
+     {
+       invariantKind: "departure",
