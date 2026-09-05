@@ -15,7 +15,8 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
-      statement: "A settle answers the reading the change leaves beside what the change files.",
+      statement:
+        "A settle answers the reading the change leaves beside the entries the change files.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +28,7 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
-      statement: "A rebuild reads the index only to find what no page carries.",
+      statement: "A rebuild reads the index only to find the values no page carries.",
     },
     {
       invariantKind: "departure",
@@ -84,7 +85,8 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
-      statement: "What a change withdraws is read against the world standing before the change.",
+      statement:
+        "The entries a change withdraws are read against the world standing before the change.",
     },
     {
       invariantKind: "departure",
@@ -118,7 +120,7 @@ export const indexing = {
     {
       invariantKind: "departure",
       statement:
-        "A settle reads off the relation index what the change that settle carries does not say.",
+        "A settle reads off the relation index the edges the change that settle carries does not say.",
     },
     {
       invariantKind: "departure",
