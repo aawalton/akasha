@@ -7,6 +7,7 @@ export const workflowLanguage = {
   definition: "the words a workflow template's declaration is written in",
   manifest: "json",
   partSlugs: [
+    "page-type/workflow-step",
     "module/workflow-types",
     "module/workflow-discovery",
     "module/step",

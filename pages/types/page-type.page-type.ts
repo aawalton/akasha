@@ -1,5 +1,6 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PluralSlug } from "../../domains/properties/plural-slug.text-property.ts"
+import type { AllowsTmpPaths } from "./properties/allows-tmp-paths.boolean-property.ts"
 import type { DetailConfig } from "./properties/detail-config.record-property.ts"
 import type { ExtendsSlug } from "./properties/extends-slug.relation-property.ts"
 import type { LoadedBySlug } from "./properties/loaded-by-slug.relation-property.ts"
@@ -23,6 +24,7 @@ export type PageType = Domain & {
   nextSeq?: NextSeq
   ownerSlug?: OwnerSlug
   runsTabooCheck?: RunsTabooCheck
+  allowsTmpPaths?: AllowsTmpPaths
 }
 
 export const pageType = {
@@ -34,6 +36,7 @@ export const pageType = {
   partSlugs: [
     "module/page-type-descent",
     "module/declared-properties",
+    "boolean-property/allows-tmp-paths",
     "boolean-property/frame-edge-to-edge",
     "boolean-property/frame-focus-mode",
     "boolean-property/full-bleed",
@@ -89,6 +92,7 @@ export const pageType = {
     { pagePropertySlug: "media-config", required: false, many: false },
     { pagePropertySlug: "sequence", required: false, many: false },
     { pagePropertySlug: "runs-taboo-check", required: false, many: false },
+    { pagePropertySlug: "allows-tmp-paths", required: false, many: false },
     { pagePropertySlug: "next-seq", required: false, many: false },
     { pagePropertySlug: "owner-slug", required: false, many: false },
   ],
@@ -112,6 +116,10 @@ export const pageType = {
     {
       invariantKind: "departure",
       statement: "A page type says here whether the taboo terms are judged over its pages.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type says here whether the paths its pages spell are a container's.",
     },
   ],
 } as const satisfies PageType

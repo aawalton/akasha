@@ -27,6 +27,7 @@ export const clusterService = {
   definition: "a service the cluster runs as a workload",
   pluralSlug: "cluster-services",
   extendsSlug: ["page-type/service"],
+  allowsTmpPaths: true,
   partSlugs: [
     "cluster-service/alanwalton-atlas",
     "cluster-service/alanwalton-web",

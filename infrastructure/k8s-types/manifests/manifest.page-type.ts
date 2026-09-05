@@ -14,6 +14,7 @@ export const manifest = {
   pluralSlug: "manifests",
   partSlugs: ["file-property/manifest-code"],
   extendsSlug: ["page-type/domain"],
+  allowsTmpPaths: true,
   properties: [{ pagePropertySlug: "manifest-code", required: true, many: false }],
   invariants: [
     {
