@@ -1,0 +1,15 @@
+diff --git a/command-system/commands/wan/wan-clip-rendering/wan-clip-rendering.module.ts b/command-system/commands/wan/wan-clip-rendering/wan-clip-rendering.module.ts
+index 4fab8ffe9083082ed0aadcc5a96c05225da5a360..03b83e7ea026266ced7bad659f2ba91f87519a3c 100644
+--- a/command-system/commands/wan/wan-clip-rendering/wan-clip-rendering.module.ts
++++ b/command-system/commands/wan/wan-clip-rendering/wan-clip-rendering.module.ts
+@@ -37,10 +37,6 @@ export const wanClipRendering = {
+       invariantKind: "departure",
+       statement: "The recipe a generate or an extend ran under is kept as an inference run.",
+     },
+-    {
+-      invariantKind: "constraint",
+-      statement: "One workload runs on the GPU at a time.",
+-    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here starts the container or provisions the weights.",
