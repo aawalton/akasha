@@ -14,7 +14,7 @@ export const watcherLogLine = {
     },
     {
       invariantKind: "departure",
-      statement: "A reader says which of the two it is reading.",
+      statement: "A reader says which of the two that reader is reading.",
     },
     {
       invariantKind: "departure",
