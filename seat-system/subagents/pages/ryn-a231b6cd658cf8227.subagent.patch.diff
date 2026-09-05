@@ -1,0 +1,13 @@
+diff --git a/code-system/code-typing/code-typing.module.ts b/code-system/code-typing/code-typing.module.ts
+index f070fa577d38e8704a8d19761b05d6fd2296173f..11a5027be102dbe230edef63ea8c1b1703fcbae9 100644
+--- a/code-system/code-typing/code-typing.module.ts
++++ b/code-system/code-typing/code-typing.module.ts
+@@ -55,7 +55,7 @@ export const codeTyping = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A key more than one part of a union declares apart is resolved through none of them.",
++        "A key more than one part of a union declares apart is resolved through none of those parts.",
+     },
+     {
+       invariantKind: "departure",
