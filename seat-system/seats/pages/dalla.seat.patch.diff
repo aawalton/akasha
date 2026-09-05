@@ -52,3 +52,16 @@ index c5cc6ba3e89417ed2bdc196d1c9f20135efbc368..4edf8938480f28ac2c48ff373d1adc82
      },
    ],
  } as const satisfies Module
+diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
+index 7fd96d61939d23238e0f9c484b0e5929a0e4cf84..8272df958bbe720e49c940e7985ada2cb06fca56 100644
+--- a/command-system/landing/landing.module.ts
++++ b/command-system/landing/landing.module.ts
+@@ -266,7 +266,7 @@ export const landing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A draft says whether the change drafted into the patch was mechanical.",
++      statement: "A draft says what the change drafted into the patch runs.",
+     },
+     {
+       invariantKind: "departure",
