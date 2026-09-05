@@ -1,5 +1,5 @@
 diff --git a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
-index 55335249f28d8135d090a6f8063d0f1d9ecf1b9f..a7eae962e476898e4daddfb004a51cf55a4b0abd 100644
+index 55335249f28d8135d090a6f8063d0f1d9ecf1b9f..7fbb03f6cb13c8959858837f6b050858a3b1871e 100644
 --- a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
 +++ b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
 @@ -21,7 +21,8 @@ export const agentTreePanel = {
@@ -21,3 +21,12 @@ index 55335249f28d8135d090a6f8063d0f1d9ecf1b9f..a7eae962e476898e4daddfb004a51cf5
      },
      {
        invariantKind: "departure",
+@@ -73,7 +74,7 @@ export const agentTreePanel = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here hangs a row under another or draws one.",
++      statement: "Nothing here hangs a row under another row or draws one.",
+     },
+     {
+       invariantKind: "absence",
