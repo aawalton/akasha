@@ -31,7 +31,7 @@ export const provisioning = {
     {
       invariantKind: "departure",
       statement:
-        "A script that sets a machine up names the files it places rather than holding them.",
+        "A script that sets a machine up names the files that script places rather than holding those files.",
     },
     {
       invariantKind: "gap",
