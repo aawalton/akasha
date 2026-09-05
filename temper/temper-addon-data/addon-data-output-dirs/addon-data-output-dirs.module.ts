@@ -29,7 +29,7 @@ export const addonDataOutputDirs = {
     },
     {
       invariantKind: "gap",
-      statement: "A rendered table names the module it lands as rather than a folder.",
+      statement: "A rendered table names the module that table lands as rather than a folder.",
     },
   ],
 } as const satisfies Module
