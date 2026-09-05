@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/tracking/tracking-entries/tracking-entry.page-type.ts b/alan/tracking/tracking-entries/tracking-entry.page-type.ts
+index fef71bc38901290a557e487d24bb16a4d50bb388..ef6497d26cd3d8baba633011b536f74964ceee8b 100644
+--- a/alan/tracking/tracking-entries/tracking-entry.page-type.ts
++++ b/alan/tracking/tracking-entries/tracking-entry.page-type.ts
+@@ -18,7 +18,7 @@ export const trackingEntry = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Which shape an entry takes is the page type it is rather than a value the entry states.",
++        "Which shape an entry takes is the page type that entry is rather than a value the entry states.",
+     },
+     {
+       invariantKind: "absence",
