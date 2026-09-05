@@ -1359,3 +1359,11 @@ index 7e00fccda3fab762bf6a3b03edee7304300c4ae3..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-lib-treasure
 \ No newline at end of file
+diff --git a/temper/temper-lib-zone/temper-lib-zone b/temper/temper-lib-zone/temper-lib-zone
+deleted file mode 120000
+index 0a9d15ab420eaec8588624f0aeebf026ff9dbef4..0000000000000000000000000000000000000000
+--- a/temper/temper-lib-zone/temper-lib-zone
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-lib-zone
+\ No newline at end of file
