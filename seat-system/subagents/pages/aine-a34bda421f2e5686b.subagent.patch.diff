@@ -29,7 +29,7 @@ index 666b606356d0d6eda32d2404a4c2962766540de2..cd8d29eda93ce667de550ee56a5f30c0
  })
  
 diff --git a/code-system/ios-apps/ios-app.page-type.ts b/code-system/ios-apps/ios-app.page-type.ts
-index fe34777f04412e1aaf43991a23bf73458ff0fb0c..845fe3e8da2daa47d2373e3d112c15a24e9bfc3a 100644
+index fe34777f04412e1aaf43991a23bf73458ff0fb0c..d5decb2f833fc64de0e24fa80199475049a07856 100644
 --- a/code-system/ios-apps/ios-app.page-type.ts
 +++ b/code-system/ios-apps/ios-app.page-type.ts
 @@ -120,15 +120,15 @@ export const iosApp = {
@@ -51,6 +51,15 @@ index fe34777f04412e1aaf43991a23bf73458ff0fb0c..845fe3e8da2daa47d2373e3d112c15a2
      },
      {
        invariantKind: "departure",
+@@ -136,7 +136,7 @@ export const iosApp = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The config Capacitor reads is made from the one standing beside the page.",
++      statement: "The config Capacitor reads is made from the one sitting beside the page.",
+     },
+     {
+       invariantKind: "gap",
 diff --git a/code-system/ios-apps/properties/display-name.text-property.ts b/code-system/ios-apps/properties/display-name.text-property.ts
 index f63ee7d5fa73b0e72e9415e59ef90a2c4f9759cf..67be59e047284226535e85e5a01aed54b64cef68 100644
 --- a/code-system/ios-apps/properties/display-name.text-property.ts
