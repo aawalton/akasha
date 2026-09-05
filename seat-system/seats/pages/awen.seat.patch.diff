@@ -1,0 +1,91 @@
+runsWarrants: false
+diff --git a/story/world-mechanics/world-curses/pages/helpful-servant-s-smile.world-curse.ts b/story/world-mechanics/world-curses/pages/helpful-servant-s-smile.world-curse.ts
+deleted file mode 100644
+index e4e0b64a7b569fc04fa4f3a4e33ec164e60a4125..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-curses/pages/helpful-servant-s-smile.world-curse.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCurse } from "../world-curse.page-type.ts"
+-
+-export const helpfulServantSSmile = {
+-  id: "01a0655a-0687-72cd-8749-da6001290f06",
+-  pageTypeSlug: "world-curse",
+-  slug: "helpful-servant-s-smile",
+-  title: "Helpful Servant’s Smile",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCurse
+diff --git a/story/world-mechanics/world-curses/pages/helpful-servant-s-smile/helpful-servant-s-smile.world-curse.ts b/story/world-mechanics/world-curses/pages/helpful-servant-s-smile/helpful-servant-s-smile.world-curse.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..203f8803411d52766cf8ac9b81416ff40cc6aca8
+--- /dev/null
++++ b/story/world-mechanics/world-curses/pages/helpful-servant-s-smile/helpful-servant-s-smile.world-curse.ts
+@@ -0,0 +1,9 @@
++import type { WorldCurse } from "../../world-curse.page-type.ts"
++
++export const helpfulServantSSmile = {
++  id: "01a0655a-0687-72cd-8749-da6001290f06",
++  pageTypeSlug: "world-curse",
++  slug: "helpful-servant-s-smile",
++  title: "Helpful Servant’s Smile",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCurse
+diff --git a/story/world-mechanics/world-curses/pages/stinging-warts.world-curse.ts b/story/world-mechanics/world-curses/pages/stinging-warts.world-curse.ts
+deleted file mode 100644
+index c6bc80a0a40b0c5bfa015f2ff52a0a6ce13b9c4e..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-curses/pages/stinging-warts.world-curse.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCurse } from "../world-curse.page-type.ts"
+-
+-export const stingingWarts = {
+-  id: "01a0655a-0687-7244-b030-6683332b13df",
+-  pageTypeSlug: "world-curse",
+-  slug: "stinging-warts",
+-  title: "Stinging Warts",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCurse
+diff --git a/story/world-mechanics/world-curses/pages/stinging-warts/stinging-warts.world-curse.ts b/story/world-mechanics/world-curses/pages/stinging-warts/stinging-warts.world-curse.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c3bbe39a0861e8ade6a936f9d8213ef2a7316c1a
+--- /dev/null
++++ b/story/world-mechanics/world-curses/pages/stinging-warts/stinging-warts.world-curse.ts
+@@ -0,0 +1,9 @@
++import type { WorldCurse } from "../../world-curse.page-type.ts"
++
++export const stingingWarts = {
++  id: "01a0655a-0687-7244-b030-6683332b13df",
++  pageTypeSlug: "world-curse",
++  slug: "stinging-warts",
++  title: "Stinging Warts",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCurse
+diff --git a/story/world-mechanics/world-curses/pages/the-synectic-haze.world-curse.ts b/story/world-mechanics/world-curses/pages/the-synectic-haze.world-curse.ts
+deleted file mode 100644
+index 6a32b0c88b4c904d73a236d3c8faeb6b092c1225..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-curses/pages/the-synectic-haze.world-curse.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldCurse } from "../world-curse.page-type.ts"
+-
+-export const theSynecticHaze = {
+-  id: "01a0655a-0687-7c8f-8e08-053de530425c",
+-  pageTypeSlug: "world-curse",
+-  slug: "the-synectic-haze",
+-  title: "The Synectic Haze",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldCurse
+diff --git a/story/world-mechanics/world-curses/pages/the-synectic-haze/the-synectic-haze.world-curse.ts b/story/world-mechanics/world-curses/pages/the-synectic-haze/the-synectic-haze.world-curse.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fa5b56bf6ba2ba1f4111c29bf5b6656456c14751
+--- /dev/null
++++ b/story/world-mechanics/world-curses/pages/the-synectic-haze/the-synectic-haze.world-curse.ts
+@@ -0,0 +1,9 @@
++import type { WorldCurse } from "../../world-curse.page-type.ts"
++
++export const theSynecticHaze = {
++  id: "01a0655a-0687-7c8f-8e08-053de530425c",
++  pageTypeSlug: "world-curse",
++  slug: "the-synectic-haze",
++  title: "The Synectic Haze",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldCurse
