@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/alan/music/catalog/music-catalog.domain.ts b/alan/music/catalog/music-catalog.domain.ts
-index 3b907f51f9b1d12725e28ddeed4c0927bb343d03..37e0cd73e6e5aa110ec7f03fe7f788a083e91b8b 100644
+index 3b907f51f9b1d12725e28ddeed4c0927bb343d03..18efb0bb1ecc4aae2b826bb5d84610a722209f57 100644
 --- a/alan/music/catalog/music-catalog.domain.ts
 +++ b/alan/music/catalog/music-catalog.domain.ts
-@@ -22,7 +22,7 @@ export const musicCatalog = {
+@@ -22,11 +22,11 @@ export const musicCatalog = {
    invariants: [
      {
        invariantKind: "departure",
@@ -12,3 +12,8 @@ index 3b907f51f9b1d12725e28ddeed4c0927bb343d03..37e0cd73e6e5aa110ec7f03fe7f788a0
      },
      {
        invariantKind: "departure",
+-      statement: "LRCLIB says what the words of a song are.",
++      statement: "LRCLIB states the words of a song.",
+     },
+   ],
+ } as const satisfies Domain
