@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/patch/patch.command.code.ts b/command-system/commands/patch/patch.command.code.ts
-index 38da2fde0d0af2dc74a6e9daa2f15b6d601d81e8..e9397963c86ff4fa5a7161d8fa70793913c7e107 100644
+index 38da2fde0d0af2dc74a6e9daa2f15b6d601d81e8..0480ff0d6a16c942b8bb238cdcb5213c5af1836c 100644
 --- a/command-system/commands/patch/patch.command.code.ts
 +++ b/command-system/commands/patch/patch.command.code.ts
 @@ -17,6 +17,7 @@ import {
@@ -31,3 +31,12 @@ index 38da2fde0d0af2dc74a6e9daa2f15b6d601d81e8..e9397963c86ff4fa5a7161d8fa707939
  export async function resolving(
    given: Given,
    page: string,
+@@ -296,7 +302,7 @@ export async function resolving(
+   if (had === undefined) return mistaking([`${NOT_HELD} ${named.path}`])
+   const formatting = formattingIn(given.root, [{ path: named.path, body: BYTES.encode(held.body) }])
+   const body = formatting.changes[0]?.body ?? BYTES.encode(held.body)
+-  const edits = editsOf(new Map(would.held).set(named.path, { was: had.was, body }))
++  const edits = resolvingEdits(would.held, named.path, body)
+   const change = changeOf(given.root, { base: baseOf(given.root), edits })
+   const judged = await built.gate.over(change)
+   const said = resolved(given.root, page, named.path, body)
