@@ -35,7 +35,7 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "An index page says what is filed.",
+      statement: "An index page names the answers filed.",
     },
     {
       invariantKind: "departure",
