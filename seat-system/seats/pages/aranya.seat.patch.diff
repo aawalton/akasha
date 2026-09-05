@@ -487,6 +487,14 @@ index dfa125f444ce8f3eeb8ac9afbf2bee55935ef597..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../sms-access
 \ No newline at end of file
+diff --git a/sms-core/sms-core b/sms-core/sms-core
+deleted file mode 120000
+index 8ef7d5326e4825cdee94e64d7c9b3b3af202e753..0000000000000000000000000000000000000000
+--- a/sms-core/sms-core
++++ /dev/null
+@@ -1 +0,0 @@
+-../../sms-core
+\ No newline at end of file
 diff --git a/utils-fs/utils-fs b/utils-fs/utils-fs
 deleted file mode 120000
 index 8a4350bb29c2cb7e9846cf1a8d7d0cf52c94bd83..0000000000000000000000000000000000000000
