@@ -17,7 +17,7 @@ export const iconIndexRendering = {
     },
     {
       invariantKind: "departure",
-      statement: "A shard already standing keeps the identity it had.",
+      statement: "A shard already standing keeps the identity that shard had.",
     },
     {
       invariantKind: "departure",
