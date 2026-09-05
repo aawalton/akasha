@@ -21,7 +21,7 @@ export const changeFreshness = {
     {
       invariantKind: "departure",
       statement:
-        "A body carried mechanically after it was read still holds for the reader it was carried for.",
+        "A body carried mechanically after being read still holds for the reader that body was carried for.",
     },
     {
       invariantKind: "departure",
