@@ -39,7 +39,7 @@ export const inferenceCapabilities = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here changes what is resident.",
+      statement: "Nothing here changes the resident.",
     },
   ],
 } as const satisfies Command
