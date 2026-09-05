@@ -44,6 +44,23 @@ index 4d1a758ff8157ce092b069f666900840a02cc9bf..42e0d362ae9bc26b2df0daff5cb0cfd3
  
  export const NOTHING_TO_TAKE =
    "no tracking day carries a sleep, so there is no reading to take. A tile showing no signal is " +
+diff --git a/alan/harness/surplus/reading/surplus-reading.module.code.ts b/alan/harness/surplus/reading/surplus-reading.module.code.ts
+index 6de859f5fc96b4de0e94f608a2a9c8f35cc99ef0..b3856086361e442991448abf8ed26e1cf73f4e04 100644
+--- a/alan/harness/surplus/reading/surplus-reading.module.code.ts
++++ b/alan/harness/surplus/reading/surplus-reading.module.code.ts
+@@ -1,10 +1,9 @@
+ import { getEsoDayStr } from "@akasha/day/eso-day"
+ import { keepReading } from "@akasha/readout-system/readout-reading"
+ import { surplusIn } from "@akasha/readout-system/upkeep-surplus"
+-import { askDayByDate } from "../../../tracking/daily/day-place/day-place.module.code.ts"
++import { askDayByDate } from "../../../tracking/daily/day-reading/day-reading.module.code.ts"
+ 
+-export const READOUT_PAGE =
+-  "readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts"
++export const READOUT_PAGE = "readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts"
+ 
+ export const NOTHING_TO_TAKE =
+   "no tracking day carries a surplus, so there is no reading to take. A tile showing no signal is " +
 diff --git a/alan/tracking/daily/day-completions/day-completions.module.code.ts b/alan/tracking/daily/day-completions/day-completions.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..6db113e1bae23e42d67694ba1a4a62ff8d65fb67
