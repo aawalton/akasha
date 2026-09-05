@@ -61,6 +61,21 @@ index 4eb2651e09e2d86b5b019c94306848f8004b9798..4f45cc605ad63eeb81df4d120090ca71
      {
        invariantKind: "absence",
        statement: "No timer starts a drawing.",
+diff --git a/editor-extension/page-tree-view/page-tree-view.module.ts b/editor-extension/page-tree-view/page-tree-view.module.ts
+index 1a431298bf026798900e0414ba8154748c73f24a..59936f69a0e963dcdf4f3efba2a249585e378806 100644
+--- a/editor-extension/page-tree-view/page-tree-view.module.ts
++++ b/editor-extension/page-tree-view/page-tree-view.module.ts
+@@ -7,10 +7,6 @@ export const pageTreeView = {
+   definition: "the rows the editor asks for of the page tree and what each row is drawn as",
+   code: "ts",
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The tree the editor draws is replaced whole rather than patched row by row.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A filter that reads the same as the one held redraws nothing.",
 diff --git a/editor-extension/status-bar-panel/status-bar-panel.module.ts b/editor-extension/status-bar-panel/status-bar-panel.module.ts
 index 4e1776bfa9b59a305c9fff57e77aff1b95326c1a..f3d3497efa54a6dd786c5a0e36d785b2a2b62d89 100644
 --- a/editor-extension/status-bar-panel/status-bar-panel.module.ts
