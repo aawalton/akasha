@@ -58,7 +58,7 @@ index d399ce423f1ec86aa16e50312616bfe1137a9fe5..31f983a848e690fc19f0cba7b496ccc5
      {
        invariantKind: "departure",
 diff --git a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.code.ts b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.code.ts
-index d3706856eca0c20da24910c40b84c22c2a61ab35..017fe959405304b3ad377a4926e3140e00888a4a 100644
+index d3706856eca0c20da24910c40b84c22c2a61ab35..345bd31e54cb1d9cc44e9a1f56969bcb1e175506 100644
 --- a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.code.ts
 +++ b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.code.ts
 @@ -9,7 +9,7 @@ export const ACCESS_TOKEN_EXPIRES_AT = "accessTokenExpiresAt"
@@ -84,8 +84,17 @@ index d3706856eca0c20da24910c40b84c22c2a61ab35..017fe959405304b3ad377a4926e3140e
    }
    return { at }
  }
+@@ -188,7 +188,7 @@ export function readingsIn(root: string): readonly AccountReading[] {
+       return {
+         slug: one.slug,
+         beside: null,
+-        why: `what stands beside \`${one.slug}\` would not read: ${sayOf(thrown)}`,
++        why: `what sits beside \`${one.slug}\` would not read: ${sayOf(thrown)}`,
+       }
+     }
+   })
 diff --git a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.test.ts b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.test.ts
-index 5b277c1f758830c670aeef878b8bf20ad7aec6c2..ee5d12d6407ff27b54905f4c5c8e7abb70f8c1b1 100644
+index 5b277c1f758830c670aeef878b8bf20ad7aec6c2..5d5e828116469eee214ab03936e22f8ddf2bc824 100644
 --- a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.test.ts
 +++ b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.test.ts
 @@ -116,7 +116,7 @@ describe("judgeAccount", () => {
@@ -97,7 +106,7 @@ index 5b277c1f758830c670aeef878b8bf20ad7aec6c2..ee5d12d6407ff27b54905f4c5c8e7abb
      const one = judgeAccount(reading({ accessTokenExpiresAt: null, usageReadAt: null }), NOW)
      expect(one.verdict).toBe("never-reached")
    })
-@@ -133,19 +133,19 @@ describe("judgeAccount", () => {
+@@ -133,26 +133,24 @@ describe("judgeAccount", () => {
      expect(one.detail).toBe("nothing was held to look at")
    })
  
@@ -121,8 +130,16 @@ index 5b277c1f758830c670aeef878b8bf20ad7aec6c2..ee5d12d6407ff27b54905f4c5c8e7abb
    })
  
    test("an unreadable expiry is named ahead of an unreadable usage reading", () => {
+     const one = judgeAccount(reading({ accessTokenExpiresAt: "then", usageReadAt: "soon" }), NOW)
+-    expect(one.detail).toBe(
+-      "accessTokenExpiresAt stands beside as 'then', which is not a timestamp"
+-    )
++    expect(one.detail).toBe("accessTokenExpiresAt sits beside as 'then', which is not a timestamp")
+   })
+ 
+   test("an expired token is answered ahead of a stale usage reading", () => {
 diff --git a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
-index 06373812984c0912d03100d6c23acd47571f0954..d44ca2ca141297cff54bce17d87776127a0a4841 100644
+index 06373812984c0912d03100d6c23acd47571f0954..7a49076106d034646c5ca3cfc30598b8ea652575 100644
 --- a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
 +++ b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
 @@ -25,7 +25,7 @@ export const claudeAccountUpkeepStall = {
@@ -152,3 +169,12 @@ index 06373812984c0912d03100d6c23acd47571f0954..d44ca2ca141297cff54bce17d8777612
      },
      {
        invariantKind: "departure",
+@@ -95,7 +95,7 @@ export const claudeAccountUpkeepStall = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "A page with nothing standing beside it has never been reached rather than reading as unread.",
++        "A page with nothing beside it has never been reached rather than reading as unread.",
+     },
+   ],
+ } as const satisfies Module
