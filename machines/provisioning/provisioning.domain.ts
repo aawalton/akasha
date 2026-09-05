@@ -36,7 +36,7 @@ export const provisioning = {
     {
       invariantKind: "gap",
       statement:
-        "The scripts still carry their table of what to place rather than reading the table from the pages.",
+        "The scripts still carry their table of files to place rather than reading the table from the pages.",
     },
   ],
 } as const satisfies Domain
