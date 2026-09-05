@@ -11,3 +11,18 @@ index d85de9d8fd0df1317fd59c3ee943b58f7c9a4ac0..5beec658cf438d0ec337bda1f58c65c0
      }
    }
  }
+diff --git a/checks/modules/change-walking/change-walking.module.ts b/checks/modules/change-walking/change-walking.module.ts
+index e44df439073cf832da654a65295078067de08c8d..6bdee2ab0e8c1b049faba40b36907e3db888f925 100644
+--- a/checks/modules/change-walking/change-walking.module.ts
++++ b/checks/modules/change-walking/change-walking.module.ts
+@@ -41,6 +41,10 @@ export const changeWalking = {
+       invariantKind: "departure",
+       statement: "A body that is there and will not open refuses the check reading that body.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A refusal for a body that will not open names the path that body is at.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A path nothing sits at reads as nothing rather than as unreadable.",
