@@ -1,5 +1,5 @@
 diff --git a/commands/refactor/page-retyping/page-retyping.module.ts b/commands/refactor/page-retyping/page-retyping.module.ts
-index 4152d271224c021518503a5a19ac4f0ccc674bbb..395a8ed0a651c899bb696bfdddc42c2eb9fa1322 100644
+index 4152d271224c021518503a5a19ac4f0ccc674bbb..152834c4997fa3db8f33386c147fe93771c437a4 100644
 --- a/commands/refactor/page-retyping/page-retyping.module.ts
 +++ b/commands/refactor/page-retyping/page-retyping.module.ts
 @@ -31,7 +31,7 @@ export const pageRetyping = {
@@ -59,6 +59,15 @@ index 4152d271224c021518503a5a19ac4f0ccc674bbb..395a8ed0a651c899bb696bfdddc42c2e
        invariantKind: "departure",
 -      statement: "A type in another package is imported by the export naming it.",
 +      statement: "A type in another package is imported by the export naming that type.",
+     },
+     {
+       invariantKind: "departure",
+@@ -103,7 +104,7 @@ export const pageRetyping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every file a retype touches lands in one commit or none of them does.",
++      statement: "Every file a retype touches lands in one commit or none of those files does.",
      },
      {
        invariantKind: "departure",
