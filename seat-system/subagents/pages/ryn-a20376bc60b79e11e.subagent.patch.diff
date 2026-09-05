@@ -1,14 +1,19 @@
 runsWarrants: false
 diff --git a/checks/modules/checking/checking.module.ts b/checks/modules/checking/checking.module.ts
-index e08102ad87ae9899828d9793d99ee88500a4712d..27155d0183cb756c64169701132743541c6ba012 100644
+index e08102ad87ae9899828d9793d99ee88500a4712d..5f7f771fe3b888536f694bb0e84d2d039fe040d6 100644
 --- a/checks/modules/checking/checking.module.ts
 +++ b/checks/modules/checking/checking.module.ts
-@@ -109,7 +109,7 @@ export const checking = {
+@@ -109,11 +109,11 @@ export const checking = {
      },
      {
        invariantKind: "departure",
 -      statement: "The file and line are said before what the fault said.",
 +      statement: "The file and line are said before the fault's message.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A frame the fault was called from is named after what the fault said.",
++      statement: "A frame the fault was called from is named after the fault's message.",
      },
      {
        invariantKind: "departure",
