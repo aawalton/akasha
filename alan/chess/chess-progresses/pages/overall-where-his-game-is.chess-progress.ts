@@ -1,9 +1,9 @@
 import type { ChessProgress } from "../chess-progress.page-type.ts"
 
-export const overallWhereHisGameStands = {
+export const overallWhereHisGameIs = {
   id: "019f06ba-f589-719b-b29d-f2e1cc8efcd0",
   pageTypeSlug: "chess-progress",
-  slug: "overall-where-his-game-stands",
+  slug: "overall-where-his-game-is",
   title: "Overall: where his game stands",
   category: "overall",
   status: "developing",
