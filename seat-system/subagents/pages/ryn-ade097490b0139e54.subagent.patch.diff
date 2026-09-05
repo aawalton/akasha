@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/rule-pages/monarch-rule-pages.module.ts b/alan/harness/monarch/rule-pages/monarch-rule-pages.module.ts
+index 6888a1d93684d517c3c7b44f7b03552d30f409ba..ecf63460cd3b1d4c90d10024ddcc5dbe48bd8451 100644
+--- a/alan/harness/monarch/rule-pages/monarch-rule-pages.module.ts
++++ b/alan/harness/monarch/rule-pages/monarch-rule-pages.module.ts
+@@ -19,7 +19,7 @@ export const monarchRulePages = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A category page carrying no Monarch id is refused, because nothing could be posted back for it.",
++        "A category page with no Monarch id is refused, because nothing could be posted back for the page.",
+     },
+     {
+       invariantKind: "departure",
