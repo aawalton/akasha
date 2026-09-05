@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/inference-commands/inference-voice-design/inference-voice-design.command.ts b/infrastructure/inference-commands/inference-voice-design/inference-voice-design.command.ts
+index 7a818819873a856be41b08e8609ea116a9e642ee..5a356016c48d68c490749ac94f40730aa286d5ad 100644
+--- a/infrastructure/inference-commands/inference-voice-design/inference-voice-design.command.ts
++++ b/infrastructure/inference-commands/inference-voice-design/inference-voice-design.command.ts
+@@ -49,7 +49,7 @@ export const inferenceVoiceDesign = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The audio is written where the caller named it and nowhere else.",
++      statement: "The audio is written where the caller named that audio and nowhere else.",
+     },
+     {
+       invariantKind: "departure",
