@@ -94,17 +94,22 @@ index 0000000000000000000000000000000000000000..9e8b2337fa556fc8b15c71a406bba39e
 +  ]
 +}
 diff --git a/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff b/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
-index c1965268b6fcc83d9563641cad7a3ea7e2bfe5a0..f827fb566d5f0e40bb53a0d75dbc382dbaf623cf 100644
+index b44544d643559e3c6b9fd42c16dae30690d2b382..a82c70080ae30b099b9df1f27a15f3491fb59485 100644
 --- a/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
 +++ b/seat-system/subagents/pages/aranya-a5df03f943828d567.subagent.patch.diff
-@@ -7,6 +7,6 @@ index d4c09063ba24f8c6675c1edfabf6552910bd1964..47fffe4694d809fae1b8609e45717799
+@@ -209,8 +209,12 @@ index d4c09063ba24f8c6675c1edfabf6552910bd1964..0318d7c078e533c14fda9875faa58115
     resourceName: "nvidia-device-plugin-daemonset",
     image: "nvcr.io/nvidia/k8s-device-plugin:v0.14.5",
  -  manifestCode:
---    "service-system/cluster-services/pages/nvidia-device-plugin/nvidia-device-plugin.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +-    "infrastructure/node/nvidia-device-plugin/nvidia-device-plugin.manifest.code.ts",
++=======
+ -    "service-system/cluster-services/pages/nvidia-device-plugin/nvidia-device-plugin.cluster-service.code.attachment.ts",
+ +<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
  +  manifestSlug: "nvidia-device-plugin",
-  } as const satisfies ClusterService
+ +=======
+ +  manifestCode: "infrastructure/node/nvidia-device-plugin/nvidia-device-plugin.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/nvidia-device-plugin/nvidia-device-plugin.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/nvidia-device-plugin/nvidia-device-plugin.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 9e8b2337fa556fc8b15c71a406bba39e5f3beb93..0000000000000000000000000000000000000000
@@ -201,18 +206,14 @@ index 9e8b2337fa556fc8b15c71a406bba39e5f3beb93..00000000000000000000000000000000
 -  ]
 -}
 diff --git a/service-system/cluster-services/pages/nvidia-device-plugin/nvidia-device-plugin.cluster-service.ts b/service-system/cluster-services/pages/nvidia-device-plugin/nvidia-device-plugin.cluster-service.ts
-index d4c09063ba24f8c6675c1edfabf6552910bd1964..0318d7c078e533c14fda9875faa5811574dbdaed 100644
+index d4c09063ba24f8c6675c1edfabf6552910bd1964..47fffe4694d809fae1b8609e45717799950605a5 100644
 --- a/service-system/cluster-services/pages/nvidia-device-plugin/nvidia-device-plugin.cluster-service.ts
 +++ b/service-system/cluster-services/pages/nvidia-device-plugin/nvidia-device-plugin.cluster-service.ts
-@@ -9,6 +9,9 @@ export const nvidiaDevicePlugin = {
+@@ -9,6 +9,5 @@ export const nvidiaDevicePlugin = {
    namespace: "kube-system",
    resourceName: "nvidia-device-plugin-daemonset",
    image: "nvcr.io/nvidia/k8s-device-plugin:v0.14.5",
 -  manifestCode:
 -    "service-system/cluster-services/pages/nvidia-device-plugin/nvidia-device-plugin.cluster-service.code.attachment.ts",
-+<<<<<<< what this change would leave
 +  manifestSlug: "nvidia-device-plugin",
-+=======
-+  manifestCode: "infrastructure/node/nvidia-device-plugin/nvidia-device-plugin.manifest.code.ts",
-+>>>>>>> what HEAD holds
  } as const satisfies ClusterService
