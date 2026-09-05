@@ -144,7 +144,7 @@ export const game = {
     {
       invariantKind: "departure",
       statement:
-        "What a game is made of sits in files beside the game's page rather than inside the page.",
+        "The rows a game is made of sit in files beside the game's page rather than inside the page.",
     },
     {
       invariantKind: "departure",
@@ -172,7 +172,7 @@ export const game = {
     },
     {
       invariantKind: "departure",
-      statement: "A game's rulebook settles what an action does.",
+      statement: "A game's rulebook settles the effect of an action.",
     },
     {
       invariantKind: "departure",
@@ -197,7 +197,7 @@ export const game = {
     },
     {
       invariantKind: "departure",
-      statement: "A state holds what has been revealed rather than everything the game knows.",
+      statement: "A state holds the world as revealed rather than everything the game knows.",
     },
     {
       invariantKind: "departure",
@@ -222,7 +222,7 @@ export const game = {
     },
     {
       invariantKind: "departure",
-      statement: "What the play discloses beats what the design intended.",
+      statement: "The facts the play discloses beat the facts the design intended.",
     },
   ],
 } as const satisfies PageType
