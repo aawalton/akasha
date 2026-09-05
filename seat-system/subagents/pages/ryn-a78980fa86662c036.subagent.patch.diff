@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/safety/reading/safety-reading.module.ts b/alan/harness/safety/reading/safety-reading.module.ts
+index ddecd88cc1814fa16b860cbcda3b7980cc20f521..dd9b85278bf81d1ba234e66156e51f34cd55e25d 100644
+--- a/alan/harness/safety/reading/safety-reading.module.ts
++++ b/alan/harness/safety/reading/safety-reading.module.ts
+@@ -26,7 +26,7 @@ export const safetyReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What to ask and how to read the answer are on the readout's own page.",
++      statement: "The question to ask and how to read the answer are on the readout's own page.",
+     },
+     {
+       invariantKind: "departure",
