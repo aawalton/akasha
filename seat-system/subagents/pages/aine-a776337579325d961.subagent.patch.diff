@@ -1,0 +1,78 @@
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.code.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.code.ts
+index 9f02eb135e886c9873718afbfdb7f9a3ff7f2ed7..5542bfd6e088d8cd9520f077c35096cb002d7634 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.code.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.code.ts
+@@ -6,7 +6,7 @@ export function onePageWithItsProperties(standing: Standing): readonly string[]
+   const said: string[] = []
+   if (standing.strays.length > 0) {
+     said.push(
+-      `${standing.strays.length} files are neither a page nor a file standing beside one: ${saidInside(standing.folder, standing.strays)}`
++      `${standing.strays.length} files are neither a page nor a file sitting beside one: ${saidInside(standing.folder, standing.strays)}`
+     )
+   }
+   const one = standing.pages[0]
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.test.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.test.ts
+index 05f404f2876d746e3cf260cdad7411f1513eb1aa..98311445d3e5e600633a19d973a6e4a3bd85442b 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.test.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.test.ts
+@@ -12,7 +12,7 @@ test("a folder holding no file at all takes the shape", () => {
+   expect(onePageWithItsProperties(folder([]))).toEqual([])
+ })
+ 
+-test("a file that is neither a page nor stands beside one is refused", () => {
++test("a file that is neither a page nor sits beside one is refused", () => {
+   const said = onePageWithItsProperties(folder(["one.domain.ts", "notes.txt"]))
+   expect(said.some((each) => each.includes("notes.txt"))).toBe(true)
+ })
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.ts
+index 30b10b64f6c0ab6da694b822536a13ba61302f44..e65148fea5c2864bcc0fa55dd43c647f532c1582 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.ts
+@@ -4,7 +4,7 @@ export const onePageWithItsProperties = {
+   id: "01a04e33-f281-70c7-9469-ffdb23becd61",
+   pageTypeSlug: "folder-shape",
+   slug: "one-page-with-its-properties",
+-  definition: "the shape of a folder holding one page and the files standing beside it",
++  definition: "the shape of a folder holding one page and the files sitting beside it",
+   code: "ts",
+   test: "ts",
+   enabled: false,
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-one-type/pages-of-one-type.folder-shape.code.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-one-type/pages-of-one-type.folder-shape.code.ts
+index 54a1316dc6e718a6c3fc53cd30d56533b10de40a..ee212953a2a44fec56fe3d19e25636bdc77e62c3 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-one-type/pages-of-one-type.folder-shape.code.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-one-type/pages-of-one-type.folder-shape.code.ts
+@@ -6,7 +6,7 @@ export function pagesOfOneType(standing: Standing): readonly string[] {
+   const said: string[] = []
+   if (standing.strays.length > 0) {
+     said.push(
+-      `${standing.strays.length} files are neither a page nor a file standing beside one: ${saidInside(standing.folder, standing.strays)}`
++      `${standing.strays.length} files are neither a page nor a file sitting beside one: ${saidInside(standing.folder, standing.strays)}`
+     )
+   }
+   if (standing.properties.length > 0) {
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-one-type/pages-of-one-type.folder-shape.test.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-one-type/pages-of-one-type.folder-shape.test.ts
+index 545d8e51a50b598b689dd20e0b73b2499e57f781..8c2f566702078be981164da5b460eed648e0d4bf 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-one-type/pages-of-one-type.folder-shape.test.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-one-type/pages-of-one-type.folder-shape.test.ts
+@@ -12,7 +12,7 @@ test("a folder holding no file at all takes the shape", () => {
+   expect(pagesOfOneType(folder([]))).toEqual([])
+ })
+ 
+-test("a file that is neither a page nor stands beside one is refused", () => {
++test("a file that is neither a page nor sits beside one is refused", () => {
+   const said = pagesOfOneType(folder(["one.domain.ts", "notes.txt"]))
+   expect(said.some((each) => each.includes("notes.txt"))).toBe(true)
+ })
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-one-type/pages-of-one-type.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-one-type/pages-of-one-type.folder-shape.ts
+index a43be26aeb01b16a76253e0a0350cd3bef8f3459..ce11f1a94d8ed5704e1249530736a7540d209fb5 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-one-type/pages-of-one-type.folder-shape.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-one-type/pages-of-one-type.folder-shape.ts
+@@ -11,7 +11,7 @@ export const pagesOfOneType = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A file standing beside a page is not a page.",
++      statement: "A file sitting beside a page is not a page.",
+     },
+     {
+       invariantKind: "departure",
