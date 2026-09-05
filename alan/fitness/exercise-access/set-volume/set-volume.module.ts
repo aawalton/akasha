@@ -10,7 +10,7 @@ export const setVolume = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A set is worth the load it moves once for each rep.",
+      statement: "A set is worth the load that set moves once for each rep.",
     },
     {
       invariantKind: "departure",
