@@ -1,3 +1,33 @@
+diff --git a/command-system/applying/applying.module.code.ts b/command-system/applying/applying.module.code.ts
+index 83a05ec003faf65d156d48a337d8fe6d50b27134..1cb37b6156c8bbcf0f1373c92d06b022c491e820 100644
+--- a/command-system/applying/applying.module.code.ts
++++ b/command-system/applying/applying.module.code.ts
+@@ -6,8 +6,8 @@ import {
+   APPLIED,
+   type Bodies,
+   droppedPatch,
+-  mechanicalIn,
+   rebasedOnto,
++  runningIn,
+ } from "../drafting/drafting.module.code.ts"
+ import { NO_GATE } from "../gate-building/gate-building.module.code.ts"
+ import {
+@@ -98,11 +98,11 @@ export async function applied(
+       ],
+     }
+   }
+-  const mechanical = mechanicalIn(patch)
+-  const gate = mechanical ? NO_GATE : judging
+-  const said0 = mechanical ? bypassedIn(message, noCheckSaid(MECHANICAL.slug)) : message
++  const running = runningIn(patch)
++  const gate = running.checks ? judging : NO_GATE
++  const said0 = running.checks ? message : bypassedIn(message, noCheckSaid(MECHANICAL.slug))
+   const formatting = formattingIn(root, editsOf(said.held))
+-  if (agentId !== null) warrantedAgain(root, agentId, said.held, said.moved)
++  if (running.warrants && agentId !== null) warrantedAgain(root, agentId, said.held, said.moved)
+   const asRead = agentId === null ? [] : asReadOf(root, agentId, said.held)
+   const done = await landing(root, formatting.changes, said0, gate, writer, head, asRead, carries)
+   if ("refusals" in done) return done
 diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
 index 20ae9471210086cabf221fae96d8d85a1e802792..ce57cc8dafed6182f677372327c3aeb8c0ed2dd3 100644
 --- a/command-system/drafting/drafting.module.code.ts
