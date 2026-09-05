@@ -38,10 +38,10 @@ index 435a30700249e3d412a05534b204c483c2e243ca..daca0e85bb37f2a349dae8a3d2fb61f9
    ],
  } as const satisfies PageType
 diff --git a/person-system/people/email/email-rules/properties/email-rule-match-comparison.select-property.ts b/person-system/people/email/email-rules/properties/email-rule-match-comparison.select-property.ts
-index b550bc7d8279b9dcfe6fef0a3b110388f78c6141..13d5b564c73e5bf6c35c2a9890f06f43a91083b5 100644
+index b550bc7d8279b9dcfe6fef0a3b110388f78c6141..14cd8bd019fd4c3b1b16b8111e362a0ee97c4c4b 100644
 --- a/person-system/people/email/email-rules/properties/email-rule-match-comparison.select-property.ts
 +++ b/person-system/people/email/email-rules/properties/email-rule-match-comparison.select-property.ts
-@@ -23,7 +23,7 @@ export const emailRuleMatchComparison = {
+@@ -23,11 +23,11 @@ export const emailRuleMatchComparison = {
      },
      {
        invariantKind: "departure",
@@ -50,6 +50,11 @@ index b550bc7d8279b9dcfe6fef0a3b110388f78c6141..13d5b564c73e5bf6c35c2a9890f06f43
      },
      {
        invariantKind: "departure",
+-      statement: "A comparison a text field takes stands here whether or not a rule names it yet.",
++      statement: "A comparison a text field takes sits here whether or not a rule names it yet.",
+     },
+   ],
+ } as const satisfies SelectProperty
 diff --git a/person-system/people/email/email-rules/properties/email-rule-match-field.select-property.ts b/person-system/people/email/email-rules/properties/email-rule-match-field.select-property.ts
 index b74df03239f31e2e9fc71e0693572dd1851b759d..80908b0089a28f27f11858d7a400296a1bbf3b42 100644
 --- a/person-system/people/email/email-rules/properties/email-rule-match-field.select-property.ts
@@ -64,10 +69,10 @@ index b74df03239f31e2e9fc71e0693572dd1851b759d..80908b0089a28f27f11858d7a400296a
    ],
  } as const satisfies SelectProperty
 diff --git a/person-system/people/email/gmail-mailboxes/gmail-mailbox.page-type.ts b/person-system/people/email/gmail-mailboxes/gmail-mailbox.page-type.ts
-index c90e2606363e54a30be26a87a52aaa91e4315228..051f9d437a5009070457b8843ea97c93460dde62 100644
+index c90e2606363e54a30be26a87a52aaa91e4315228..91973635777eebfd10fe6807892553a33e4e565a 100644
 --- a/person-system/people/email/gmail-mailboxes/gmail-mailbox.page-type.ts
 +++ b/person-system/people/email/gmail-mailboxes/gmail-mailbox.page-type.ts
-@@ -30,7 +30,7 @@ export const gmailMailbox = {
+@@ -30,12 +30,12 @@ export const gmailMailbox = {
      },
      {
        invariantKind: "departure",
@@ -76,11 +81,17 @@ index c90e2606363e54a30be26a87a52aaa91e4315228..051f9d437a5009070457b8843ea97c93
      },
      {
        invariantKind: "gap",
+       statement:
+-        "The address stands under the address a person sends and receives at rather than a key of its own.",
++        "The address sits under the address a person sends and receives at rather than a key of its own.",
+     },
+   ],
+ } as const satisfies PageType
 diff --git a/person-system/people/email/gmail-mailboxes/properties/processed-messages.page-property-entry.ts b/person-system/people/email/gmail-mailboxes/properties/processed-messages.page-property-entry.ts
-index 22d7736432ec6e7d1aed269fc7588dbad7617bb7..5a22fa2dbd4d1519d19d65f454fbd5393bfa1580 100644
+index 22d7736432ec6e7d1aed269fc7588dbad7617bb7..649c69b01c019b76e6e1330843ef9500c59745d0 100644
 --- a/person-system/people/email/gmail-mailboxes/properties/processed-messages.page-property-entry.ts
 +++ b/person-system/people/email/gmail-mailboxes/properties/processed-messages.page-property-entry.ts
-@@ -31,7 +31,7 @@ export const processedMessages = {
+@@ -31,11 +31,11 @@ export const processedMessages = {
      },
      {
        invariantKind: "departure",
@@ -89,3 +100,8 @@ index 22d7736432ec6e7d1aed269fc7588dbad7617bb7..5a22fa2dbd4d1519d19d65f454fbd539
      },
      {
        invariantKind: "absence",
+-      statement: "A processed message stands in no row of its own.",
++      statement: "A processed message sits in no row of its own.",
+     },
+     {
+       invariantKind: "departure",
