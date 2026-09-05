@@ -17,7 +17,7 @@ export const completionCatalogs = {
     },
     {
       invariantKind: "departure",
-      statement: "A catalog is named for what the catalog holds rather than for its reader.",
+      statement: "A catalog is named for the entries the catalog holds rather than for its reader.",
     },
     {
       invariantKind: "departure",
