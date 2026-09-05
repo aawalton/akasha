@@ -101,7 +101,7 @@ index 3516cad23bfd54c2bbe6603e58a3ce3443006055..7679fe452c1d4da4dce956fa462ff3b4
      "@akasha/browser-test-harness": "workspace:*",
      "@akasha/code-system": "workspace:*",
 diff --git a/seat-system/supervising/supervisor-mcp/supervisor-mcp.module.code.ts b/seat-system/supervising/supervisor-mcp/supervisor-mcp.module.code.ts
-index 163a6cfd9e8252ab23f47f6176cefdeaa9630585..5294e7df3d0131e0acc179003190af7bf1bf46da 100644
+index 163a6cfd9e8252ab23f47f6176cefdeaa9630585..df8093908c864be1343d30e4a8182d60bfd2e39f 100644
 --- a/seat-system/supervising/supervisor-mcp/supervisor-mcp.module.code.ts
 +++ b/seat-system/supervising/supervisor-mcp/supervisor-mcp.module.code.ts
 @@ -12,7 +12,6 @@ import {
@@ -168,3 +168,12 @@ index 163a6cfd9e8252ab23f47f6176cefdeaa9630585..5294e7df3d0131e0acc179003190af7b
      )
    }
  }
+@@ -133,7 +130,7 @@ async function ensureFreshPlaywrightStorageState(): Promise<undefined> {
+       console.log(`${LOG} storage state unusable (${initial.reason}) — full re-export`)
+     }
+ 
+-    await runExportScript()
++    await runExport()
+     const after = classify()
+     if (after.kind !== "fresh") {
+       throw new Error(
