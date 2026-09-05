@@ -1,0 +1,512 @@
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
+index 25b7614cdae0a836cb10c233f2fad31315aec395..9730f40af1537e5d3cb311dcd78c36d0553a19d6 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
+@@ -1,12 +1,12 @@
+ import type { Domain } from "@akasha/domains/domain"
+ import type { PageType } from "@akasha/pages-system/page-type"
++import type { AmbientTypes } from "../../../../code-system/type-declarations/properties/ambient-types.file-property.ts"
+ import type { CooldownMilliseconds } from "./properties/cooldown-milliseconds.number-property.ts"
+ import type { State } from "./properties/state.file-property.ts"
+-import type { StateType } from "./properties/state-type.file-property.ts"
+ 
+ export type CodeEditorDataInterface = Domain & {
+   cooldownMilliseconds: CooldownMilliseconds
+-  stateType: StateType
++  d: AmbientTypes
+   state?: State
+ }
+ 
+@@ -19,7 +19,7 @@ export const codeEditorDataInterface = {
+   extendsSlug: ["page-type/domain"],
+   partSlugs: [
+     "file-property/state",
+-    "file-property/state-type",
++    "type-declaration/tree-row",
+     "number-property/cooldown-milliseconds",
+     "code-editor-data-interface/agent-colors",
+     "code-editor-data-interface/agent-tree",
+@@ -31,7 +31,7 @@ export const codeEditorDataInterface = {
+   ],
+   properties: [
+     { pagePropertySlug: "cooldown-milliseconds", required: true, many: false },
+-    { pagePropertySlug: "state-type", required: true, many: false, default: "ts" },
++    { pagePropertySlug: "ambient-types", required: true, many: false, default: "ts" },
+     {
+       pagePropertySlug: "state",
+       required: false,
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.d.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.d.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0829c5aca3c183b69a2ad7798e4b7e76e22a922d
+--- /dev/null
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.d.ts
+@@ -0,0 +1,7 @@
++// The color every agent is drawn in, and the color every turn state is drawn in, so the editor
++// asks for neither. A value is the name of a color rather than what that name is drawn as.
++
++declare type AgentColorsState = {
++  readonly byAgent: Readonly<Record<string, string>>
++  readonly byState: Readonly<Record<string, string>>
++}
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.state-type.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.state-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5f1dfdd36360fced0d94a605ed8bc43057ce5699
+--- /dev/null
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.state-type.ts
+@@ -0,0 +1,7 @@
++// The color every agent is drawn in, and the color every turn state is drawn in, so the editor
++// asks for neither. A value is the name of a color rather than what that name is drawn as.
++
++export type AgentColorsState = {
++  readonly byAgent: Readonly<Record<string, string>>
++  readonly byState: Readonly<Record<string, string>>
++}
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.ts
+index 0343c4343e8a78c7d84d07b16e3b3b2a8dba4e39..d1b23ee36285d61f4e872eb270177004b68827b1 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.ts
+@@ -5,6 +5,6 @@ export const agentColors = {
+   pageTypeSlug: "code-editor-data-interface",
+   slug: "agent-colors",
+   definition: "the color each agent is drawn in",
+-  stateType: "ts",
++  d: "ts",
+   cooldownMilliseconds: 100,
+ } as const satisfies CodeEditorDataInterface
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-tree.code-editor-data-interface.d.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-tree.code-editor-data-interface.d.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0f1f57419da599df71b87ebb2a454160b140dcf9
+--- /dev/null
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-tree.code-editor-data-interface.d.ts
+@@ -0,0 +1,17 @@
++// The agents panel. A seat holds its subagents as children.
++
++declare type AgentTreeRow = TreeRow & {
++  readonly kind: "seat" | "subagent"
++  readonly live: boolean
++  readonly place: "interactive" | "headless" | null
++  readonly state: string | null
++  readonly waitingOn: string | null
++  readonly children: readonly AgentTreeRow[]
++}
++
++declare type AgentTreeState = {
++  readonly roots: readonly AgentTreeRow[]
++  readonly alanPrincipalCount: number
++  readonly runningCount: number
++  readonly unreadSeats: number
++}
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-tree.code-editor-data-interface.state-type.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-tree.code-editor-data-interface.state-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6f4263c9d23e59bf3f0ee557335228a9f9b68ff9
+--- /dev/null
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-tree.code-editor-data-interface.state-type.ts
+@@ -0,0 +1,19 @@
++import type { TreeRow } from "../tree-row/tree-row.module.code.ts"
++
++// The agents panel. A seat holds its subagents as children.
++
++export type AgentTreeRow = TreeRow & {
++  readonly kind: "seat" | "subagent"
++  readonly live: boolean
++  readonly place: "interactive" | "headless" | null
++  readonly state: string | null
++  readonly waitingOn: string | null
++  readonly children: readonly AgentTreeRow[]
++}
++
++export type AgentTreeState = {
++  readonly roots: readonly AgentTreeRow[]
++  readonly alanPrincipalCount: number
++  readonly runningCount: number
++  readonly unreadSeats: number
++}
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-tree.code-editor-data-interface.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-tree.code-editor-data-interface.ts
+index 0b12bfc2652e755b99225698aed091ffca54faff..1e5975acce95ea6f5665c96dadf0951c8dd4f696 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-tree.code-editor-data-interface.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-tree.code-editor-data-interface.ts
+@@ -5,6 +5,6 @@ export const agentTree = {
+   pageTypeSlug: "code-editor-data-interface",
+   slug: "agent-tree",
+   definition: "the rows the agents panel draws",
+-  stateType: "ts",
++  d: "ts",
+   cooldownMilliseconds: 1000,
+ } as const satisfies CodeEditorDataInterface
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/domain-tree.code-editor-data-interface.d.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/domain-tree.code-editor-data-interface.d.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8a47532a531a95e925cd7c68cd5b3d844dbe2e76
+--- /dev/null
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/domain-tree.code-editor-data-interface.d.ts
+@@ -0,0 +1,12 @@
++// The domains panel. A domain a sequence names carries the place it takes in that sequence.
++
++declare type DomainTreeRow = TreeRow & {
++  readonly persona: string | null
++  readonly position: number | null
++  readonly children: readonly DomainTreeRow[]
++}
++
++declare type DomainTreeState = {
++  readonly roots: readonly DomainTreeRow[]
++  readonly unreached: readonly string[]
++}
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/domain-tree.code-editor-data-interface.state-type.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/domain-tree.code-editor-data-interface.state-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..12e9455532dc38cd155e2eb0c74333059ed8544f
+--- /dev/null
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/domain-tree.code-editor-data-interface.state-type.ts
+@@ -0,0 +1,14 @@
++import type { TreeRow } from "../tree-row/tree-row.module.code.ts"
++
++// The domains panel. A domain a sequence names carries the place it takes in that sequence.
++
++export type DomainTreeRow = TreeRow & {
++  readonly persona: string | null
++  readonly position: number | null
++  readonly children: readonly DomainTreeRow[]
++}
++
++export type DomainTreeState = {
++  readonly roots: readonly DomainTreeRow[]
++  readonly unreached: readonly string[]
++}
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/domain-tree.code-editor-data-interface.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/domain-tree.code-editor-data-interface.ts
+index 37a961d7cc39c5b0b1bcf54d403c6d35a8f351e1..80f5d84871e7d361081099330263c20c229edfe0 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/pages/domain-tree.code-editor-data-interface.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/domain-tree.code-editor-data-interface.ts
+@@ -5,6 +5,6 @@ export const domainTree = {
+   pageTypeSlug: "code-editor-data-interface",
+   slug: "domain-tree",
+   definition: "the rows the domains panel draws",
+-  stateType: "ts",
++  d: "ts",
+   cooldownMilliseconds: 1000,
+ } as const satisfies CodeEditorDataInterface
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/page-tree.code-editor-data-interface.d.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/page-tree.code-editor-data-interface.d.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3fb009b45e8bd4b2c9d459856d88f721e8a8604e
+--- /dev/null
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/page-tree.code-editor-data-interface.d.ts
+@@ -0,0 +1,12 @@
++// The pages panel, assembled whole. The editor was building this tree out of three flat lists of
++// rows on its own thread; the service builds it now and the editor reads it.
++
++declare type PageTreeRow = TreeRow & {
++  readonly detail: string | null
++  readonly children: readonly PageTreeRow[]
++}
++
++declare type PageTreeState = {
++  readonly roots: readonly PageTreeRow[]
++  readonly unreached: readonly string[]
++}
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/page-tree.code-editor-data-interface.state-type.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/page-tree.code-editor-data-interface.state-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..793e16ab511bdf4fa4319b6188d01e3067096f0f
+--- /dev/null
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/page-tree.code-editor-data-interface.state-type.ts
+@@ -0,0 +1,14 @@
++import type { TreeRow } from "../tree-row/tree-row.module.code.ts"
++
++// The pages panel, assembled whole. The editor was building this tree out of three flat lists of
++// rows on its own thread; the service builds it now and the editor reads it.
++
++export type PageTreeRow = TreeRow & {
++  readonly detail: string | null
++  readonly children: readonly PageTreeRow[]
++}
++
++export type PageTreeState = {
++  readonly roots: readonly PageTreeRow[]
++  readonly unreached: readonly string[]
++}
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/page-tree.code-editor-data-interface.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/page-tree.code-editor-data-interface.ts
+index d9a1c7d397268f7567602bcbedb167ed6bd918ff..710fe270d43e27bf7d578623181406a5de3c3f9e 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/pages/page-tree.code-editor-data-interface.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/page-tree.code-editor-data-interface.ts
+@@ -5,6 +5,6 @@ export const pageTree = {
+   pageTypeSlug: "code-editor-data-interface",
+   slug: "page-tree",
+   definition: "the rows the pages panel draws",
+-  stateType: "ts",
++  d: "ts",
+   cooldownMilliseconds: 1000,
+ } as const satisfies CodeEditorDataInterface
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/status-bar.code-editor-data-interface.d.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/status-bar.code-editor-data-interface.d.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e3d0788b795dbd859bfbc578594da4fa1ceea655
+--- /dev/null
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/status-bar.code-editor-data-interface.d.ts
+@@ -0,0 +1,15 @@
++// The status bar. A section the service could not read is null, and the editor keeps what it last
++// drew there rather than blanking it.
++
++declare type StatusBarStoplights = {
++  readonly glyphs: string
++  readonly legend: string
++}
++
++declare type StatusBarState = {
++  readonly sessionPct: number | null
++  readonly weeklyPct: number | null
++  readonly inbox: StatusBarStoplights | null
++  readonly upkeep: StatusBarStoplights | null
++  readonly attributes: StatusBarStoplights | null
++}
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/status-bar.code-editor-data-interface.state-type.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/status-bar.code-editor-data-interface.state-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6feeec23b9425919765cc8f64ac37567fba7acde
+--- /dev/null
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/status-bar.code-editor-data-interface.state-type.ts
+@@ -0,0 +1,15 @@
++// The status bar. A section the service could not read is null, and the editor keeps what it last
++// drew there rather than blanking it.
++
++export type StatusBarStoplights = {
++  readonly glyphs: string
++  readonly legend: string
++}
++
++export type StatusBarState = {
++  readonly sessionPct: number | null
++  readonly weeklyPct: number | null
++  readonly inbox: StatusBarStoplights | null
++  readonly upkeep: StatusBarStoplights | null
++  readonly attributes: StatusBarStoplights | null
++}
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/status-bar.code-editor-data-interface.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/status-bar.code-editor-data-interface.ts
+index b59b69dd658af2a71eaac35c354745afbd256b6a..3b180af8ac7b64b41c46d58217ef9c8240cd3856 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/pages/status-bar.code-editor-data-interface.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/status-bar.code-editor-data-interface.ts
+@@ -5,6 +5,6 @@ export const statusBar = {
+   pageTypeSlug: "code-editor-data-interface",
+   slug: "status-bar",
+   definition: "the slots the status bar draws",
+-  stateType: "ts",
++  d: "ts",
+   cooldownMilliseconds: 1000,
+ } as const satisfies CodeEditorDataInterface
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/terminal-tabs.code-editor-data-interface.d.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/terminal-tabs.code-editor-data-interface.d.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..be7460f03154722ed3ff2b6d43819ccb8de6cf0b
+--- /dev/null
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/terminal-tabs.code-editor-data-interface.d.ts
+@@ -0,0 +1,12 @@
++// Every terminal sitting on a seat, named by that seat. A terminal holding no seat is not here:
++// nothing names one, so the editor is what puts such a terminal back to its own shell's name.
++
++declare type TerminalTab = {
++  readonly seat: string
++  readonly label: string
++  readonly color: string | null
++}
++
++declare type TerminalTabsState = {
++  readonly tabs: readonly TerminalTab[]
++}
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/terminal-tabs.code-editor-data-interface.state-type.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/terminal-tabs.code-editor-data-interface.state-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..982888370a4b81c1385cc8a84601fc993566aa34
+--- /dev/null
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/terminal-tabs.code-editor-data-interface.state-type.ts
+@@ -0,0 +1,12 @@
++// Every terminal sitting on a seat, named by that seat. A terminal holding no seat is not here:
++// nothing names one, so the editor is what puts such a terminal back to its own shell's name.
++
++export type TerminalTab = {
++  readonly seat: string
++  readonly label: string
++  readonly color: string | null
++}
++
++export type TerminalTabsState = {
++  readonly tabs: readonly TerminalTab[]
++}
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/terminal-tabs.code-editor-data-interface.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/terminal-tabs.code-editor-data-interface.ts
+index 69f25e8abd8a1dc52c384b986b3e89b6b7718003..10057e51ed915ffb0dfe317c4fbdbccde124871b 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/pages/terminal-tabs.code-editor-data-interface.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/terminal-tabs.code-editor-data-interface.ts
+@@ -5,6 +5,6 @@ export const terminalTabs = {
+   pageTypeSlug: "code-editor-data-interface",
+   slug: "terminal-tabs",
+   definition: "the name and color each terminal tab draws",
+-  stateType: "ts",
++  d: "ts",
+   cooldownMilliseconds: 1000,
+ } as const satisfies CodeEditorDataInterface
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/work-tree.code-editor-data-interface.d.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/work-tree.code-editor-data-interface.d.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ef72845872ed3d09978a6562814bd8aa6ffe23bd
+--- /dev/null
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/work-tree.code-editor-data-interface.d.ts
+@@ -0,0 +1,12 @@
++// The work panel. A row's color is already raised from the rows beneath it, so the editor draws
++// the color it is given rather than working one out.
++
++declare type WorkTreeRow = TreeRow & {
++  readonly detail: string | null
++  readonly note: string | null
++  readonly children: readonly WorkTreeRow[]
++}
++
++declare type WorkTreeState = {
++  readonly roots: readonly WorkTreeRow[]
++}
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/work-tree.code-editor-data-interface.state-type.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/work-tree.code-editor-data-interface.state-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4ae9cf39b4613e183c6e200c0ba709b888838987
+--- /dev/null
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/work-tree.code-editor-data-interface.state-type.ts
+@@ -0,0 +1,14 @@
++import type { TreeRow } from "../tree-row/tree-row.module.code.ts"
++
++// The work panel. A row's color is already raised from the rows beneath it, so the editor draws
++// the color it is given rather than working one out.
++
++export type WorkTreeRow = TreeRow & {
++  readonly detail: string | null
++  readonly note: string | null
++  readonly children: readonly WorkTreeRow[]
++}
++
++export type WorkTreeState = {
++  readonly roots: readonly WorkTreeRow[]
++}
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/work-tree.code-editor-data-interface.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/work-tree.code-editor-data-interface.ts
+index ce1dd85b0b6f76d401d00012718e78f28a02d776..d9fde812338ca8879ceb03ab2cce6306929f4ea1 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/pages/work-tree.code-editor-data-interface.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/work-tree.code-editor-data-interface.ts
+@@ -5,6 +5,6 @@ export const workTree = {
+   pageTypeSlug: "code-editor-data-interface",
+   slug: "work-tree",
+   definition: "the rows the work panel draws",
+-  stateType: "ts",
++  d: "ts",
+   cooldownMilliseconds: 1000,
+ } as const satisfies CodeEditorDataInterface
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/properties/state-type.file-property.ts b/alan/harness/code-editor/code-editor-data-interfaces/properties/state-type.file-property.ts
+deleted file mode 100644
+index 4507573e85e50a904b4819c930de1d940bde1fd2..0000000000000000000000000000000000000000
+--- a/alan/harness/code-editor/code-editor-data-interfaces/properties/state-type.file-property.ts
++++ /dev/null
+@@ -1,29 +0,0 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
+-
+-export type StateType = "ts"
+-
+-export const stateType = {
+-  id: "01a07245-dce5-7a6b-b280-8d4dd7179a71",
+-  pageTypeSlug: "file-property",
+-  slug: "state-type",
+-  propertySlug: "state-type",
+-  definition: "the TypeScript type the state beside it is written and read as",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "This file is committed where the state it types is not.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The service writing the state is judged against this type.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The editor takes this type without loading the file the editor reads.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "One type names the whole of one line rather than one row of it.",
+-    },
+-  ],
+-} as const satisfies FileProperty
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/tree-row/tree-row.type-declaration.d.ts b/alan/harness/code-editor/code-editor-data-interfaces/tree-row/tree-row.type-declaration.d.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..34fc8022e002dc71f374ae95a3aec3da50a830e6
+--- /dev/null
++++ b/alan/harness/code-editor/code-editor-data-interfaces/tree-row/tree-row.type-declaration.d.ts
+@@ -0,0 +1,16 @@
++// THE FIELDS EVERY TREE ROW CARRIES, HELD IN ONE PLACE SO FOUR TREES SPELL THEM ONE WAY.
++//
++// Before this, four panels each named a row of their own and no two agreed: what told a row apart
++// was `id`, `key`, `slug` and `id`; the text drawn was `name`, `label`, `slug` and `label`; the
++// document was `at` absolute, `relPath` relative twice, and a `"repo:path"` pair. A reader had to
++// know which tree it held before it could read a field off a row.
++//
++// Children are left to each tree rather than declared here, because a tree's own row type is what
++// its children are, and a base naming `TreeRow[]` would lose the fields the tree added.
++
++declare type TreeRow = {
++  readonly key: string
++  readonly label: string
++  readonly at: string | null
++  readonly color: string | null
++}
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/tree-row/tree-row.type-declaration.ts b/alan/harness/code-editor/code-editor-data-interfaces/tree-row/tree-row.type-declaration.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..701b5e6ddfbf4186a3c0b05e8fad7badc36f235b
+--- /dev/null
++++ b/alan/harness/code-editor/code-editor-data-interfaces/tree-row/tree-row.type-declaration.ts
+@@ -0,0 +1,35 @@
++import type { TypeDeclaration } from "../../../../../code-system/type-declarations/type-declaration.page-type.ts"
++
++export const treeRow = {
++  id: "01a07254-9a16-7f32-8d54-29daa3227516",
++  pageTypeSlug: "type-declaration",
++  slug: "tree-row",
++  definition: "the fields every row of every tree the editor draws carries",
++  d: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "One name is used for one thing across every tree the editor draws.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A tree names its own row type, which takes these fields and adds its own.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A row holds its children under the type that row is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A value that is absent is null rather than missing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path is whole, the service knowing the checkout the editor does not join.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A color is the name of one, the editor holding what each name is drawn as.",
++    },
++  ],
++} as const satisfies TypeDeclaration
+diff --git a/code-system/type-declarations/type-declaration.page-type.ts b/code-system/type-declarations/type-declaration.page-type.ts
+index e671a24404cc415ef6b531bb60a90c2e39e1a644..7c080d09f913a924afc6554ebcdc14cc718bdac0 100644
+--- a/code-system/type-declarations/type-declaration.page-type.ts
++++ b/code-system/type-declarations/type-declaration.page-type.ts
+@@ -10,7 +10,7 @@ export const typeDeclaration = {
+   id: "01a0605a-98f4-7c54-8030-4fec48465bda",
+   pageTypeSlug: "page-type",
+   slug: "type-declaration",
+-  definition: "types a compiler reads about code it does not hold",
++  definition: "types a compiler reads and emits nothing from",
+   pluralSlug: "type-declarations",
+   partSlugs: ["file-property/ambient-types"],
+   extendsSlug: ["page-type/domain"],
+@@ -30,11 +30,11 @@ export const typeDeclaration = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a declaration describes is written in another language or by a generator.",
++      statement: "A declaration describes code written elsewhere or types shared between ours.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A module states its own types.",
++      statement: "A module states the types that module alone uses.",
+     },
+     {
+       invariantKind: "departure",
