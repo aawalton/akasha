@@ -415,3 +415,11 @@ index f1adf5edf8fd7f3e0ad458b9f9ae0dc25531c6cf..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../pages/query
 \ No newline at end of file
+diff --git a/pages/system-service/pages-system-service b/pages/system-service/pages-system-service
+deleted file mode 120000
+index d8b5abd6d1ef4de316c5f1222379ea5cb665720a..0000000000000000000000000000000000000000
+--- a/pages/system-service/pages-system-service
++++ /dev/null
+@@ -1 +0,0 @@
+-../../pages/system-service
+\ No newline at end of file
