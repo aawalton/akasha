@@ -21,6 +21,7 @@ export const parserModel = {
   extendsSlug: ["page-type/page"],
   partSlugs: [
     "file-property/model-manifest",
+    "parser-model/compact-parser",
     "file-property/parser-weights",
     "file-property/relation-weights",
     "file-property/word-pieces",
