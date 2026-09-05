@@ -14,7 +14,7 @@ export const retrofitSystemCards = {
     {
       invariantKind: "departure",
       statement:
-        "What has been announced is remembered across the whole text rather than within one card.",
+        "The announcements already made are remembered across the whole text rather than within one card.",
     },
     {
       invariantKind: "departure",
@@ -23,7 +23,7 @@ export const retrofitSystemCards = {
     {
       invariantKind: "departure",
       statement:
-        "A card that remains is headed as the tower rather than by what the card said before.",
+        "A card that remains is headed as the tower rather than by that card's former heading.",
     },
   ],
 } as const satisfies Module
