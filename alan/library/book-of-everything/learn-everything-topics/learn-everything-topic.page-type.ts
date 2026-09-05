@@ -78,15 +78,16 @@ export const learnEverythingTopic = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every level of the map is a topic, the whole of it included.",
+      statement: "Every level of the map is a topic, the whole of that map included.",
     },
     {
       invariantKind: "departure",
-      statement: "A topic's depth is judged by hand and its coverage worked out from beneath it.",
+      statement:
+        "A topic's depth is judged by hand and its coverage worked out from beneath that topic.",
     },
     {
       invariantKind: "departure",
-      statement: "A topic names the topic it sits under and sits in that topic's folder.",
+      statement: "A topic names the topic above and sits in that topic's folder.",
     },
     {
       invariantKind: "departure",
@@ -98,7 +99,8 @@ export const learnEverythingTopic = {
     },
     {
       invariantKind: "departure",
-      statement: "A topic named for the number it opens with is slugged for its page type first.",
+      statement:
+        "A topic named for the number that topic opens with is slugged for its page type first.",
     },
   ],
 } as const satisfies PageType
