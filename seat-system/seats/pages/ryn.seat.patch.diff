@@ -11,3 +11,18 @@ index 8c6b20eee0204288dd02cca9d088097a91736dab..8832c98ff3967e47840cb2192e979280
    const first = parsed[0]
    if (first === undefined) return null
    const sentence = makeSentence(first)
+diff --git a/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts b/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts
+index 516e6a6fe45d6b9ddaafb3f13a21594bfa985482..d6531e3efd8ff343be0d9e256965cd37479d607a 100644
+--- a/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts
++++ b/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts
+@@ -34,6 +34,10 @@ export const invariantStatementIsPlain = {
+       invariantKind: "departure",
+       statement: "A mark inside a spelt name is no mark of the statement's own.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A word inside a spelt name is no word of the statement's own.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A statement written in a shape akasha refuses is not plain.",
