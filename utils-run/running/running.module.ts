@@ -31,7 +31,7 @@ export const running = {
     },
     {
       invariantKind: "departure",
-      statement: "A process inherits the environment of the one that started it.",
+      statement: "A process inherits the environment of the one that started that process.",
     },
     {
       invariantKind: "departure",
