@@ -22,7 +22,7 @@ export const watcherSideFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A file already holding what is wanted is left alone.",
+      statement: "A file already holding the content wanted is left alone.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,8 @@ export const watcherSideFile = {
     },
     {
       invariantKind: "departure",
-      statement: "The hash answered is of what was wanted rather than of what the file holds.",
+      statement:
+        "The hash answered is of the content wanted rather than of the content the file holds.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +43,7 @@ export const watcherSideFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller may hand in what reads and writes the file.",
+      statement: "A caller may hand in the disk that reads and writes the file.",
     },
     {
       invariantKind: "absence",
