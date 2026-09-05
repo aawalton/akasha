@@ -30,7 +30,17 @@ interface ParsedRuleTemplate {
   conditions?: unknown
 }
 
-function parseRuleTemplate(row: Page): ParsedRuleTemplate {
+function keyBySlug(rows: readonly Page[]): ReadonlyMap<string, string> {
+  const held = new Map<string, string>()
+  for (const row of rows) {
+    const slug = row.slug
+    const key = row.key
+    if (typeof slug === "string" && typeof key === "string") held.set(slug, key)
+  }
+  return held
+}
+
+function parseRuleTemplate(row: Page, keyOf: ReadonlyMap<string, string>): ParsedRuleTemplate {
   if (row.title === null) {
     throw new Error(`temper-rule-template row ${row.id} has null title`)
   }
@@ -62,7 +72,7 @@ function parseRuleTemplate(row: Page): ParsedRuleTemplate {
   if (typeof eav.stockScope === "string" && eav.stockScope.length > 0) {
     out.stockScope = eav.stockScope
   }
-  const conditions = conditionsOf(eav.conditions)
+  const conditions = conditionsOf(eav.conditions, keyOf, eav.key)
   if (conditions !== null) {
     out.conditions = conditions
   }
@@ -77,7 +87,11 @@ function spelt(value: string): unknown {
   }
 }
 
-function conditionsOf(held: unknown): Record<string, unknown> | null {
+function conditionsOf(
+  held: unknown,
+  keyOf: ReadonlyMap<string, string>,
+  rule: string
+): Record<string, unknown> | null {
   if (!Array.isArray(held)) return null
   const out: Record<string, unknown> = {}
   for (const one of held) {
@@ -85,7 +99,13 @@ function conditionsOf(held: unknown): Record<string, unknown> | null {
     const field = row.conditionField
     const value = row.conditionValue
     if (typeof field !== "string" || field === "" || typeof value !== "string") continue
-    out[field] = spelt(value)
+    const key = keyOf.get(field)
+    if (key === undefined) {
+      throw new Error(
+        `temper-rule-template ${rule} names condition field ${field}, which no temper-condition-field page holds`
+      )
+    }
+    out[key] = spelt(value)
   }
   return Object.keys(out).length === 0 ? null : out
 }
@@ -112,8 +132,12 @@ function emitRuleEntry(rule: ParsedRuleTemplate): string {
   return lines.join("\n")
 }
 
-export function generateTemperRuleTemplate(rows: readonly Page[]): string {
-  const parsed = rows.map(parseRuleTemplate)
+export function generateTemperRuleTemplate(
+  rows: readonly Page[],
+  conditionFieldRows: readonly Page[]
+): string {
+  const keyOf = keyBySlug(conditionFieldRows)
+  const parsed = rows.map((row) => parseRuleTemplate(row, keyOf))
 
   const sorted = [...parsed].sort((a, b) => {
     const delta = a.displayOrder - b.displayOrder
@@ -131,6 +155,9 @@ export function generateTemperRuleTemplate(rows: readonly Page[]): string {
  * (page type: temper-rule-template). The player enables individual rules;
  * none are active by default. Order matters — rules are evaluated
  * top-to-bottom, first-match-wins.
+ *
+ * A condition names its field by the slug of a temper-condition-field
+ * page, and the key emitted here is the one that page holds.
  *
  * DO NOT EDIT — regenerate with: ops temper addon-data generate
  */

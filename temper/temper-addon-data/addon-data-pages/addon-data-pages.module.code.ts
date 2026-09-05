@@ -51,6 +51,7 @@ export type AddonDataPages = {
   companionWeaponSlotPages: PageResult
   companionWeaponTypePages: PageResult
   comparisonOpPages: PageResult
+  conditionFieldPages: PageResult
   cursePages: PageResult
   debuffMajorPages: PageResult
   debuffMinorPages: PageResult
@@ -157,6 +158,7 @@ export const ASKED: readonly Asked[] = [
   { accessor: "companionWeaponSlotPages", pageTypeSlug: "temper-companion-weapon-slot" },
   { accessor: "companionWeaponTypePages", pageTypeSlug: "temper-companion-weapon-type" },
   { accessor: "comparisonOpPages", pageTypeSlug: "temper-comparison-op" },
+  { accessor: "conditionFieldPages", pageTypeSlug: "temper-condition-field" },
   { accessor: "cursePages", pageTypeSlug: "temper-curse" },
   { accessor: "debuffMajorPages", pageTypeSlug: "temper-debuff-major", sidecars: true },
   { accessor: "debuffMinorPages", pageTypeSlug: "temper-debuff-minor", sidecars: true },

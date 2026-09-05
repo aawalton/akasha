@@ -18,8 +18,12 @@ export const conditions = {
       statement: "A rule stating no condition matches every item of its category.",
     },
     {
-      invariantKind: "gap",
-      statement: "What a field means is held by the code reading the field rather than here.",
+      invariantKind: "departure",
+      statement: "A field names a temper-condition-field page holding what the field tests.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The key a rule engine reads is held by that page rather than written here.",
     },
     {
       invariantKind: "gap",

@@ -16,7 +16,7 @@ export function buildAddonDataWritesRules(
     w(
       WEB_ENGINE_INVENTORY_DIR,
       "temper-rule-template.generated.ts",
-      generateTemperRuleTemplate(p.ruleTemplatePages.rows)
+      generateTemperRuleTemplate(p.ruleTemplatePages.rows, p.conditionFieldPages.rows)
     ),
   ]
 }

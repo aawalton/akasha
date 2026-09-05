@@ -27,7 +27,7 @@ export const temperRuleTemplate = {
     "boolean-property/active",
     "page-property-entry/conditions",
     "relation-property/action",
-    "text-property/condition-field",
+    "relation-property/condition-field",
     "text-property/condition-value",
     "text-property/destination",
     "relation-property/goal",
