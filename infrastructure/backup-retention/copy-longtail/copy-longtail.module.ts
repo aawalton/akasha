@@ -14,7 +14,7 @@ export const copyLongtail = {
     {
       invariantKind: "departure",
       statement:
-        "A unit is complete only once a marker naming what that unit holds is written into that unit.",
+        "A unit is complete only once a marker naming the unit's contents is written into that unit.",
     },
     {
       invariantKind: "departure",
