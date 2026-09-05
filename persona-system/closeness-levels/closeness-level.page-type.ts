@@ -1,5 +1,5 @@
 import type { Domain } from "@akasha/domains/domain"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { DaysToHere } from "./properties/days-to-here.number-property.ts"
 import type { DaysToNext } from "./properties/days-to-next.number-property.ts"
 import type { Level } from "./properties/level.number-property.ts"

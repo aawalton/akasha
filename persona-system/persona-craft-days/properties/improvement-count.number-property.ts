@@ -1,4 +1,4 @@
-import type { NumberProperty } from "@akasha/pages-system/number-property"
+import type { NumberProperty } from "@akasha/pages/number-property"
 
 export type ImprovementCount = number
 

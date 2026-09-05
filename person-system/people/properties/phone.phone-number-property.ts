@@ -1,4 +1,4 @@
-import type { PhoneNumberProperty } from "@akasha/pages-system/phone-number-property"
+import type { PhoneNumberProperty } from "@akasha/pages/phone-number-property"
 
 export type Phone = string
 

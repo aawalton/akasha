@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { EsoDay } from "../../alan/tracking/daily/eso-days/properties/eso-day.text-property.ts"
 import type { Description } from "../../pages/properties/description.text-property.ts"
 import type { RelationshipLevel } from "../closeness-levels/properties/relationship-level.number-property.ts"

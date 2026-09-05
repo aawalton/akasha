@@ -1,5 +1,5 @@
-import type { List } from "@akasha/pages-system/page-property"
-import type { RecordProperty } from "@akasha/pages-system/record-property"
+import type { List } from "@akasha/pages/page-property"
+import type { RecordProperty } from "@akasha/pages/record-property"
 import type { LinkLabel } from "./link-label.text-property.ts"
 import type { LinkPlatform } from "./link-platform.select-property.ts"
 import type { LinkTarget } from "./link-target.text-property.ts"

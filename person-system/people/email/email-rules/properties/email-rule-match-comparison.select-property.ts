@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const emailRuleMatchComparison = {
   id: "01a06860-549f-73bf-9cb1-d6bcba6417f3",

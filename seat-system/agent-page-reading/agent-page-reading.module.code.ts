@@ -1,5 +1,5 @@
 import { everyOfType } from "@akasha/indexes"
-import { type Value, valueAt } from "@akasha/pages-system/page-value"
+import { type Value, valueAt } from "@akasha/pages/page-value"
 import { akashaSeatPathForAgent } from "../seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 const SUBAGENT = "subagent"

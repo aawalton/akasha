@@ -1,5 +1,5 @@
-import { everyOfType, type Listed, listedAt } from "@akasha/pages-system/index-reading"
-import { textAt, type Value, valueAt } from "@akasha/pages-system/page-value"
+import { everyOfType, type Listed, listedAt } from "@akasha/pages/index-reading"
+import { textAt, type Value, valueAt } from "@akasha/pages/page-value"
 
 const PAGE_TYPE = "person"
 

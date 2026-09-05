@@ -1,11 +1,7 @@
 import { landedMechanically } from "@akasha/command-system/asking"
 import { valuesOfType } from "@akasha/indexes"
-import {
-  mergeUncommitted,
-  removeUncommitted,
-  uncommittedIn,
-} from "@akasha/pages-system/page-uncommitted"
-import { textAt } from "@akasha/pages-system/page-value"
+import { mergeUncommitted, removeUncommitted, uncommittedIn } from "@akasha/pages/page-uncommitted"
+import { textAt } from "@akasha/pages/page-value"
 import { ran } from "@akasha/utils-run/running"
 
 const CALLED_AS = "reminder-sending"

@@ -1,5 +1,5 @@
 import type { Domain } from "@akasha/domains/domain"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { GroupSlugs } from "../readouts/properties/group-slugs.relation-property.ts"
 import type { Place } from "../readouts/properties/place.number-property.ts"
 import type { AppSlug } from "./properties/app-slug.relation-property.ts"

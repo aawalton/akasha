@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages-system/page"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { Page } from "@akasha/pages/page"
+import type { PageType } from "@akasha/pages/page-type"
 import type { BreathingPoints } from "../../alan/tracking/daily/wake-days/properties/breathing-points.number-property.ts"
 import type { CardioPoints } from "../../alan/tracking/daily/wake-days/properties/cardio-points.number-property.ts"
 import type { Date as TrackedDate } from "../../alan/tracking/daily/wake-days/properties/date.text-property.ts"

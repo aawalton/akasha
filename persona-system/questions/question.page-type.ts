@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages-system/page"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { Page } from "@akasha/pages/page"
+import type { PageType } from "@akasha/pages/page-type"
 import type { QuestionAnswer } from "./properties/question-answer.text-property.ts"
 import type { QuestionAsk } from "./properties/question-ask.text-property.ts"
 import type { QuestionAskedBy } from "./properties/question-asked-by.relation-property.ts"

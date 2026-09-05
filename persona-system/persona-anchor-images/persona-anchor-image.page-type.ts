@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { PersonaImage } from "../persona-images/persona-image.page-type.ts"
 import type { Grade } from "./properties/grade.text-property.ts"
 

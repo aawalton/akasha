@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages-system/page"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { Page } from "@akasha/pages/page"
+import type { PageType } from "@akasha/pages/page-type"
 import type { AccessKind } from "./properties/person-access-kind.relation-property.ts"
 import type { PersonSlug } from "./properties/person-access-person-slug.relation-property.ts"
 import type { Serves } from "./properties/person-access-serves.text-property.ts"

@@ -1,4 +1,4 @@
-import { mergeUncommitted, uncommittedIn } from "@akasha/pages-system/page-uncommitted"
+import { mergeUncommitted, uncommittedIn } from "@akasha/pages/page-uncommitted"
 
 const LAST_VALUE = "lastValue"
 

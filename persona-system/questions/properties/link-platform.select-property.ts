@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const linkPlatform = {
   id: "01a06823-89b2-700c-876a-8f2a761dc8e5",

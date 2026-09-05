@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { RelationshipLevel } from "../closeness-levels/properties/relationship-level.number-property.ts"
 import type { PersonaImage } from "../persona-images/persona-image.page-type.ts"
 
