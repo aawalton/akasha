@@ -36,7 +36,7 @@ export const pageProperty = {
     {
       invariantKind: "departure",
       statement:
-        "What shape a property has is the page type that property is rather than a value the property states.",
+        "A property's shape is the page type that property is rather than a value the property states.",
     },
     {
       invariantKind: "departure",
