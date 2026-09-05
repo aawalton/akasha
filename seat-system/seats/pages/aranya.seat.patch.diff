@@ -1607,3 +1607,11 @@ index a3d251a44cc28763e5620b70c3e5254eed7266a7..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-trading-pricing-client
 \ No newline at end of file
+diff --git a/temper/temper-trading-pricing/temper-trading-pricing b/temper/temper-trading-pricing/temper-trading-pricing
+deleted file mode 120000
+index 46c33b42cc39fb96c65c9402e3020b3325fd8b7c..0000000000000000000000000000000000000000
+--- a/temper/temper-trading-pricing/temper-trading-pricing
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-trading-pricing
+\ No newline at end of file
