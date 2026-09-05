@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.ts b/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.ts
+index 41ffe5abfe9fb87ab0ccdaff7cfb3b24bcbecd18..f26488b2a1e6c89e9261fdc6794b68357979dd0d 100644
+--- a/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.ts
++++ b/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.ts
+@@ -44,7 +44,7 @@ export const blockAkashaReads = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "What an agent has seen of an akasha file is what its record shows.",
++      statement: "The body of an akasha file an agent has seen is the body its record shows.",
+     },
+   ],
+ } as const satisfies AgentHook
