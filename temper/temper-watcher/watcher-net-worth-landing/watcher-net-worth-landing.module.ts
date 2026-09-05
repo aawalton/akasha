@@ -71,7 +71,7 @@ export const watcherNetWorthLanding = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here works out what a reading is worth.",
+      statement: "Nothing here works out a reading's total.",
     },
   ],
 } as const satisfies Module
