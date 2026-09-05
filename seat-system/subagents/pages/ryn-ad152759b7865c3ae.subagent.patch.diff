@@ -1,8 +1,8 @@
 diff --git a/editor-extension/vscode-stub/vscode-stub.javascript-module.ts b/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
-index 683cdff4c2407e15fbbd762abcce2dfc97fe03c4..4c842186e5281e78746c5c448a1448e42b69adb9 100644
+index 683cdff4c2407e15fbbd762abcce2dfc97fe03c4..6706bcceeeb1ee93b05d40c79831907e4d1491ab 100644
 --- a/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
 +++ b/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
-@@ -13,11 +13,11 @@ export const vscodeStub = {
+@@ -13,15 +13,15 @@ export const vscodeStub = {
      },
      {
        invariantKind: "departure",
@@ -13,6 +13,11 @@ index 683cdff4c2407e15fbbd762abcce2dfc97fe03c4..4c842186e5281e78746c5c448a1448e4
        invariantKind: "departure",
 -      statement: "A tree item keeps the label it was constructed with.",
 +      statement: "A tree item keeps the label that tree item was constructed with.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A tree view keeps the provider it was created with.",
++      statement: "A tree view keeps the provider that tree view was created with.",
      },
      {
        invariantKind: "departure",
