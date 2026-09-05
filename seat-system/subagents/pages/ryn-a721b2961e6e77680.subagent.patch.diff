@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/code-system/code-specifier/code-specifier.module.ts b/code-system/code-specifier/code-specifier.module.ts
-index 5cf3d8cf6c51fa885e87b254575a71c066d87a63..15bedb641a43f7ee5e9344af21d05517dc54e551 100644
+index 5cf3d8cf6c51fa885e87b254575a71c066d87a63..487701f9c1bf68fc3e68049a95c34df92e0e1fe8 100644
 --- a/code-system/code-specifier/code-specifier.module.ts
 +++ b/code-system/code-specifier/code-specifier.module.ts
 @@ -18,7 +18,7 @@ export const codeSpecifier = {
@@ -9,6 +9,15 @@ index 5cf3d8cf6c51fa885e87b254575a71c066d87a63..15bedb641a43f7ee5e9344af21d05517
        invariantKind: "departure",
 -      statement: "What names a module is a part of what a body spells.",
 +      statement: "A specifier is one of the strings a body spells.",
+     },
+     {
+       invariantKind: "departure",
+@@ -43,7 +43,7 @@ export const codeSpecifier = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing else can be written over without reading what fills it.",
++      statement: "Nothing else can be written over without reading its contents.",
      },
      {
        invariantKind: "departure",
