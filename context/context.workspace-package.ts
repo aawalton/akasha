@@ -23,7 +23,7 @@ export const context = {
     },
     {
       invariantKind: "departure",
-      statement: "What a change owes is worked out from the warrant pages.",
+      statement: "The warrants a change owes are worked out from the warrant pages.",
     },
   ],
 } as const satisfies WorkspacePackage
