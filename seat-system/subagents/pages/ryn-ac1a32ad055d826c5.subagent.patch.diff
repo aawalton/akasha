@@ -90,3 +90,16 @@ index 5e56f10b81d3147d63eced502dd5dc9f3396384c..d358babf7c44ef5b806cfc0eef4aab65
      },
      {
        invariantKind: "departure",
+diff --git a/seat-system/messaging/message-to-start/message-to-start.module.ts b/seat-system/messaging/message-to-start/message-to-start.module.ts
+index 06dc0d4f5c10a387c9253957b1df87e976f7c3a7..085972353b1f82da348c59ec40185510a339ede2 100644
+--- a/seat-system/messaging/message-to-start/message-to-start.module.ts
++++ b/seat-system/messaging/message-to-start/message-to-start.module.ts
+@@ -19,7 +19,7 @@ export const messageToStart = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A seat is started for an address nothing has ever stated only where the sender is an agent or the address answers to a person.",
++        "A seat starts for an unstated address only if the sender is an agent or the address is a person's.",
+     },
+     {
+       invariantKind: "departure",
