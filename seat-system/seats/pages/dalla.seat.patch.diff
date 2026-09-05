@@ -1,0 +1,45 @@
+diff --git a/changes/atomic-changes/atomic-change.page-type.ts b/changes/atomic-changes/atomic-change.page-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4536085f54b299127f7674764f71fe0e0a8db698
+--- /dev/null
++++ b/changes/atomic-changes/atomic-change.page-type.ts
+@@ -0,0 +1,20 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++import type { PageType } from "../../pages/types/page-type.page-type.ts"
++
++export type AtomicChange = Module
++
++export const atomicChange = {
++  id: "01a072c8-f35d-7ffc-afc3-75b72460b059",
++  pageTypeSlug: "page-type",
++  slug: "atomic-change",
++  definition: "a change that leaves the tree whole and splits into none that do",
++  pluralSlug: "atomic-changes",
++  extendsSlug: ["page-type/module"],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "A change that splits into two that each leave the tree whole is two atomic changes rather than one.",
++    },
++  ],
++} as const satisfies PageType
+diff --git a/command-system/refactor-commands/refactor-command.page-type.ts b/command-system/refactor-commands/refactor-command.page-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..20004b6d9ffed3c899ff8a6ed28b87ee25d364c1
+--- /dev/null
++++ b/command-system/refactor-commands/refactor-command.page-type.ts
+@@ -0,0 +1,13 @@
++import type { PageType } from "@akasha/pages-system/page-type"
++import type { Command } from "../commands/command.page-type.ts"
++
++export type RefactorCommand = Command
++
++export const refactorCommand = {
++  id: "01a072c8-f35c-7256-b138-59c7d4c96679",
++  pageTypeSlug: "page-type",
++  slug: "refactor-command",
++  definition: "a command built only from atomic changes in sequence",
++  pluralSlug: "refactor-commands",
++  extendsSlug: ["page-type/command"],
++} as const satisfies PageType
