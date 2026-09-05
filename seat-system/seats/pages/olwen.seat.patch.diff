@@ -1,0 +1,13 @@
+diff --git a/domains/domain.page-type.ts b/domains/domain.page-type.ts
+index 1069ee1d405c3c90497ab73e08ab33fb06bf6d61..cc9d65c4e76a3dbaa980aae2938026cbfd3ccfc6 100644
+--- a/domains/domain.page-type.ts
++++ b/domains/domain.page-type.ts
+@@ -20,8 +20,6 @@ export const domain = {
+   id: "01a049c8-3ead-7c52-9ab6-88767954ed5f",
+   partSlugs: [
+     "boolean-property/expands",
+-    "domain/domain-championing",
+-    "domain/domain-parent",
+     "record-property/directives",
+     "record-property/invariants",
+     "relation-property/directive-kind",
