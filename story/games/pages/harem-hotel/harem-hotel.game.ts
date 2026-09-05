@@ -1,4 +1,4 @@
-import type { Game } from "../game.page-type.ts"
+import type { Game } from "../../game.page-type.ts"
 
 export const haremHotel = {
   id: "01a0673f-a3d6-7001-854b-30d81fd19b31",
