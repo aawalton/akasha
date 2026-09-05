@@ -1,0 +1,16 @@
+diff --git a/infrastructure/loki-service/promtail/promtail.manifest.ts b/infrastructure/loki-service/promtail/promtail.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b34e6bd71a337a902cb97d06d71eb7ff0c21274b
+--- /dev/null
++++ b/infrastructure/loki-service/promtail/promtail.manifest.ts
+@@ -0,0 +1,10 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const promtail = {
++  id: "01a0737b-690e-7979-8a39-9a70362ce116",
++  pageTypeSlug: "manifest",
++  slug: "promtail",
++  definition:
++    "the log collector's configuration, its permissions and the daemonset running it on every node",
++  code: "ts",
++} as const satisfies Manifest
