@@ -31,7 +31,7 @@ export const STALL_ATTEMPTS = 6
 export const UNLANDED_GRACE_MS = 60_000
 
 export const UNLANDED_SAYS =
-  "run `bun tools/unlanded.ts` to see every file standing written but uncommitted, and who wrote it"
+  "run `bun tools/unlanded.ts` to see every file left written but uncommitted, and who wrote it"
 
 const NAMED_CEILING = 4
 
@@ -49,7 +49,7 @@ let deferred = false
 
 let lastError: string | null = null
 
-export interface Standing {
+export interface Health {
   readonly deferred: boolean
   readonly pending: number
   readonly unlanded: number
@@ -58,7 +58,7 @@ export interface Standing {
   readonly lastError: string | null
 }
 
-export function standing(): Standing {
+export function health(): Health {
   let pending = 0
   for (const one of waiting.values()) pending += one.entries.size
   let unlanded = 0
@@ -81,7 +81,7 @@ export function standing(): Standing {
   }
 }
 
-export function landingsHealthy(one: Standing): boolean {
+export function landingsHealthy(one: Health): boolean {
   if (one.stalled.length > 0) return false
   return one.oldestUnlandedMs === null || one.oldestUnlandedMs < UNLANDED_GRACE_MS
 }
@@ -140,13 +140,13 @@ function record(root: string, one: Waiting): void {
   writeJournal({ root, pid: process.pid, attempts: one.failures, reason: one.reason, paths })
 }
 
-function nothingStandsUnlanded(): boolean {
+function nothingIsUnlanded(): boolean {
   for (const one of waiting.values()) if (one.entries.size > 0) return false
   return readJournals().length === 0
 }
 
 function settle(): void {
-  if (nothingStandsUnlanded()) lastError = null
+  if (nothingIsUnlanded()) lastError = null
 }
 
 function saysUnlanded(root: string, files: number, attempts: number, why: string): string {
@@ -156,7 +156,7 @@ function saysUnlanded(root: string, files: number, attempts: number, why: string
         `nothing has been dropped — ${UNLANDED_SAYS}.`
       : ""
   return (
-    `${files} file(s) stand written but uncommitted in ${root} after ${attempts} attempt(s): ` +
+    `${files} file(s) are written but uncommitted in ${root} after ${attempts} attempt(s): ` +
     `${why}${stalling}`
   )
 }

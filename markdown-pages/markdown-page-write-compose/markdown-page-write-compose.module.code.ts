@@ -69,11 +69,11 @@ export function patchedText(
   clear: readonly string[] = [],
   tree: FileTree = diskFileTree(roots)
 ): string {
-  const standing = statedIn(text)
-  delete standing["page-type-slug"]
-  for (const key of uncommittedKeysFor(tree, pageType)) delete standing[key]
-  for (const key of attachmentKeysFor(tree, pageType).keys()) delete standing[key]
-  const merged: Record<string, unknown> = { ...standing, ...split.front }
+  const stated = statedIn(text)
+  delete stated["page-type-slug"]
+  for (const key of uncommittedKeysFor(tree, pageType)) delete stated[key]
+  for (const key of attachmentKeysFor(tree, pageType).keys()) delete stated[key]
+  const merged: Record<string, unknown> = { ...stated, ...split.front }
   for (const key of clear) delete merged[key]
   const front = frontOf(tree, pageType, withId(merged as Record<string, Rendered>, text, at))
   return `${front}${split.body ?? bodyIn(text)}`

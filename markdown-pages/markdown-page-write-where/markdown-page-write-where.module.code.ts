@@ -32,9 +32,9 @@ export interface Where {
 }
 
 /**
- * Where a page of this type and name stands, or where a new markdown one would.
+ * Where a page of this type and name is, or where a new markdown one would be.
  *
- * Both halves of the question used to be the markdown half. `stands` asked `typeSuffixOf`, which
+ * Both halves of the question used to be the markdown half. `named` asked `typeSuffixOf`, which
  * answers the empty text for a `.ts` name, so it was false for every one of Alan's 133 moved days
  * before the name was ever compared; `statesSlug` then read a frontmatter block a TypeScript page
  * does not carry. Nothing was found, and the fallback built a name ending `.md` under a folder
@@ -44,7 +44,7 @@ export interface Where {
  *
  * So the fallback is built from the type's markdown places only, and a type stating none of them is
  * refused rather than answered. A caller asking where to put a page this cannot place gets nothing
- * and can say so; a caller asking where a landed page stands gets the page, of either kind.
+ * and can say so; a caller asking where a landed page is gets the page, of either kind.
  */
 export function whereFor(
   roots: Roots,
@@ -58,7 +58,7 @@ export function whereFor(
   if (repo === null || !isAddressable(repo)) return null
   const root = roots[repo]
   if (root === undefined) return null
-  const stands = (one: string): boolean => {
+  const named = (one: string): boolean => {
     const last = one.split("/").at(-1) ?? one
     if (typeSlotOf(last) !== type.slug) return false
     return last === `${name}${MARKDOWN}` || slugOf(last) === name
@@ -69,7 +69,7 @@ export function whereFor(
   }
   const stated = placesIn(type, repo)
   const filed = scanIn(root, stated, repo)
-  const held = filed.find(stands) ?? filed.find(statesSlug)
+  const held = filed.find(named) ?? filed.find(statesSlug)
   if (held !== undefined) return { root, repo, relPath: held, path: join(root, held) }
   const markdown = stated.filter((one) => one.endsWith(MARKDOWN))
   if (markdown.length === 0) return null

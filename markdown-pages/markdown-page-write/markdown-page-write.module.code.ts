@@ -106,9 +106,9 @@ function clearRows(tree: FileTree, pageType: string, at: Where): readonly Taken[
     const relPath = rowsFileOf(at.relPath, holding.key, holding.uncommitted)
     for (const part of rowsPartsFor(path, relPath)) {
       const pages = exclusively(part.path, () => {
-        const stood = rowsIn(part.path)
+        const was = rowsIn(part.path)
         rmSync(part.path, { force: true })
-        return stood
+        return was
       })
       if (pages !== null) took.push({ at: part.at, pageType: holding.target, pages })
     }
@@ -143,8 +143,8 @@ export async function writePage(
     composing: [
       {
         relPath: at.relPath,
-        compose: async (standing) => {
-          const held = standing ?? ""
+        compose: async (before) => {
+          const held = before ?? ""
           const front = withId(await withSeq(roots, pageType, split.front, held), held, at)
           return `${frontOf(tree, pageType, front)}${split.body ?? ""}`
         },
@@ -173,7 +173,7 @@ export async function patchPage(
     composing: [
       {
         relPath: at.relPath,
-        compose: (standing) => patchedText(roots, pageType, standing ?? "", split, at, clear, tree),
+        compose: (before) => patchedText(roots, pageType, before ?? "", split, at, clear, tree),
       },
     ],
     alongside,
@@ -193,7 +193,7 @@ export async function patchPage(
 // 250ms settle from inside the extension host, where every walk is a synchronous stall of the node
 // event loop. Counted by a line printed from `scannedGlob`, one write was 3 walks and 1990ms and
 // is now 2 walks and 897ms; the scanning alone, timed apart from the write, was 922ms and is
-// 205ms. Both were measured with the shape mark unavailable, which is how this worktree stands
+// 205ms. Both were measured with the shape mark unavailable, which is how this worktree is
 // whenever `page/` is dirty — with the mark in hand the registry answers from its own file, does
 // not scan, and the one walk left is `whereFor`'s, which this does not remove.
 //
@@ -253,6 +253,6 @@ export async function removePage(
   return {
     ...at,
     commitError,
-    absent: `\`${pageType}\` has no page \`${name}\`: nothing stood at ${at.relPath}, so nothing was taken away`,
+    absent: `\`${pageType}\` has no page \`${name}\`: nothing was at ${at.relPath}, so nothing was taken away`,
   }
 }
