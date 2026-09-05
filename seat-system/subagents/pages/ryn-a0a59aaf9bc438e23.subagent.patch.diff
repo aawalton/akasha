@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/evidence/monarch-evidence.module.ts b/alan/harness/monarch/evidence/monarch-evidence.module.ts
+index 393eeda7815fe99c9f3fbf347c65177d1b5a5db9..e3f236e4b8543bec5a1683923e5e57db88a9a01c 100644
+--- a/alan/harness/monarch/evidence/monarch-evidence.module.ts
++++ b/alan/harness/monarch/evidence/monarch-evidence.module.ts
+@@ -15,7 +15,7 @@ export const monarchEvidence = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A transaction is looked up on its own, by its merchant, by its account over a span, or by what happened around it.",
++        "A transaction is looked up on its own, by its merchant, by its account over a span, or by the rows around it.",
+     },
+     {
+       invariantKind: "departure",
