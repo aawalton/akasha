@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/context/modules/warranting/warranting.module.ts b/context/modules/warranting/warranting.module.ts
-index b85145f9f5e9b17a79cb88ee27dafac1a5269bae..e8eadbe3c70d127ee251e833383878910eb3cdd9 100644
+index b85145f9f5e9b17a79cb88ee27dafac1a5269bae..fae95edd49a38a9d1415f4b443701d302de2c504 100644
 --- a/context/modules/warranting/warranting.module.ts
 +++ b/context/modules/warranting/warranting.module.ts
 @@ -11,7 +11,7 @@ export const warranting = {
@@ -21,7 +21,7 @@ index b85145f9f5e9b17a79cb88ee27dafac1a5269bae..e8eadbe3c70d127ee251e83338387891
      },
      {
        invariantKind: "departure",
-@@ -74,12 +74,12 @@ export const warranting = {
+@@ -74,16 +74,17 @@ export const warranting = {
      {
        invariantKind: "departure",
        statement:
@@ -33,6 +33,12 @@ index b85145f9f5e9b17a79cb88ee27dafac1a5269bae..e8eadbe3c70d127ee251e83338387891
        statement:
 -        "A read is handed each named path followed by what the warrants running on read name for the path.",
 +        "A read is handed each named path followed by the paths warrants running on read name for the path.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Within what a read is handed a path sits once in the place that path first sat.",
++      statement:
++        "Within the paths a read is handed a path sits once in the place that path first sat.",
      },
      {
        invariantKind: "departure",
