@@ -89,7 +89,8 @@ export const seatDeclaration = {
     { invariantKind: "absence", statement: "Being on call names no work to finish." },
     {
       invariantKind: "departure",
-      statement: "Being on call ends only where the seat's principal or Alan ends it.",
+      statement:
+        "Being on call ends only where the seat's principal or Alan ends the seat's being on call.",
     },
     {
       invariantKind: "departure",
