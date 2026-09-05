@@ -1,0 +1,52 @@
+diff --git a/imessage/commands/imessage-command-reading/imessage-command-reading.module.test.ts b/imessage/commands/imessage-command-reading/imessage-command-reading.module.test.ts
+index 9dbf33cf7f6fece5734fcc00b63b5ab3338be497..de20350fd2a925806c2f32146f9d31fd754c90a0 100644
+--- a/imessage/commands/imessage-command-reading/imessage-command-reading.module.test.ts
++++ b/imessage/commands/imessage-command-reading/imessage-command-reading.module.test.ts
+@@ -43,7 +43,7 @@ describe("wordsIn", () => {
+     expect(read.loose).toEqual(["sleep"])
+   })
+ 
+-  test("carries an alias to the flag it stands for", () => {
++  test("carries an alias to the flag it represents", () => {
+     expect(said(["--tail", "5"]).named[LIMIT_SAID]).toBe("5")
+   })
+ 
+diff --git a/imessage/commands/imessage-contacts/imessage-contacts.command.ts b/imessage/commands/imessage-contacts/imessage-contacts.command.ts
+index 8072e1a69c0f3db3a3f03cd4e3ef7df6b3e4a5a8..d251a5833cdae31185dbf57f34e01452b03bbf43 100644
+--- a/imessage/commands/imessage-contacts/imessage-contacts.command.ts
++++ b/imessage/commands/imessage-contacts/imessage-contacts.command.ts
+@@ -25,7 +25,7 @@ export const imessageContacts = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run of letters standing anywhere in the name matches.",
++      statement: "A run of letters anywhere in the name matches.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/imessage/commands/imessage-recent/imessage-recent.command.ts b/imessage/commands/imessage-recent/imessage-recent.command.ts
+index a1b1f91e3aa575e3f710e8a9f837c21b89b3e5e7..6989ff37eb6c6a5acb83d8641e7db60082af3fbe 100644
+--- a/imessage/commands/imessage-recent/imessage-recent.command.ts
++++ b/imessage/commands/imessage-recent/imessage-recent.command.ts
+@@ -30,7 +30,7 @@ export const imessageRecent = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A contact holds the answer to every conversation that contact stands in.",
++      statement: "A contact holds the answer to every conversation that contact is in.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/imessage/host/imessage-host.module.ts b/imessage/host/imessage-host.module.ts
+index d225418e3086076de703ddc4badb9fef1e592af9..db8b16747a1b0ff015194ef81648aba896d69004 100644
+--- a/imessage/host/imessage-host.module.ts
++++ b/imessage/host/imessage-host.module.ts
+@@ -4,7 +4,7 @@ export const imessageHost = {
+   id: "01a05bc9-4308-7001-a41a-2e92dace6248",
+   pageTypeSlug: "module",
+   slug: "imessage-host",
+-  definition: "the machine Alan's iMessage history stands on",
++  definition: "the machine Alan's iMessage history is on",
+   code: "ts",
+   invariants: [
+     {
