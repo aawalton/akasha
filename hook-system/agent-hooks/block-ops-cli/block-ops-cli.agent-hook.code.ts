@@ -58,7 +58,7 @@ export const SCOPE: readonly string[] = [
   "  a call behind a prefix the list above does not name, which hides it as `sh -c` does",
   "  a call inside a quoted run, which the dequoting step takes out before the cut",
   "",
-  `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this stands:`,
+  `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this sits:`,
   "it is what the program says about itself, held as text it prints rather than as a comment.",
 ]
 

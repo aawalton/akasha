@@ -27,7 +27,7 @@ const HELP = "Say `akasha audit --help` for what it takes."
 
 const INSTEAD: readonly string[] = [
   "  akasha audit --check typecheck   every file the akasha index names",
-  "  akasha audit                     that check and the thirty-one standing beside it",
+  "  akasha audit                     that check and the thirty-one beside it",
   "",
   HELP,
 ]
@@ -50,7 +50,7 @@ const REFUSAL = toldOf(HOOK, [
 const BUN_REFUSAL = toldOf(HOOK, [
   "`bun typecheck` reaches a package script, and what that script compiles is not on the line.",
   "",
-  "The scripts standing today reach `tsc` against a config naming the files of one package or,",
+  "The scripts there today reach `tsc` against a config naming the files of one package or,",
   "at the root, naming none. Neither is the answer for the akasha folder, which is typechecked",
   "over the files its index names rather than over a directory.",
   "",

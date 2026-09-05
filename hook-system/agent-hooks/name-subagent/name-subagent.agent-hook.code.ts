@@ -27,7 +27,7 @@ export const SCOPE: readonly string[] = [
   `  the call runs with \`export ${ACTING_NAMED}='<name>'\` and a newline before it`,
   "",
   "WHERE THE RULE COMES FROM: a read record is kept under whoever read, and a read is what lets",
-  "a write stand. A subagent is handed its seat's environment whole, so without this it reads and",
+  "a write land. A subagent is handed its seat's environment whole, so without this it reads and",
   "writes under its seat's own name, and one agent's read authorises another agent's write. The",
   "name written here is what tells a seat's subagents apart, and apart from the seat.",
   "",
@@ -55,7 +55,7 @@ export const SCOPE: readonly string[] = [
   "A call reaching the akasha commands unnamed is recorded under the seat, which is the shape",
   "this hook exists to end, not a gap that closes by widening what is written into a command.",
   "",
-  `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this stands:`,
+  `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this sits:`,
   "it is what the program says about itself, held as text it prints rather than as a comment.",
 ]
 
