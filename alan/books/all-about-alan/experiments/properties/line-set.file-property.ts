@@ -11,7 +11,7 @@ export const lineSet = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A line's id is what a grade is joined back onto.",
+      statement: "A grade is joined back onto a line's id.",
     },
   ],
 } as const satisfies FileProperty
