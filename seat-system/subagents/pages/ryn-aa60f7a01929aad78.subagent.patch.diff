@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/system-service/page-composing/page-composing.module.ts b/pages/system-service/page-composing/page-composing.module.ts
+index 8eda66096e0a87e3aa01f13e3d8ce505bfcf6c28..ec92442ae5d9558c12fb01f334e74c8c6326b319 100644
+--- a/pages/system-service/page-composing/page-composing.module.ts
++++ b/pages/system-service/page-composing/page-composing.module.ts
+@@ -160,7 +160,7 @@ export const pageComposing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Several pages compose into what one write puts, keeps and takes away.",
++      statement: "Several pages compose into the files one write puts, keeps and takes away.",
+     },
+     {
+       invariantKind: "departure",
