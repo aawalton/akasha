@@ -77,3 +77,62 @@ index 4a025d842b7c067abde8d2bd816be84df1fdb7a0..03ad40aa601c2870a8833ea9b64c70dd
      },
    ],
  } as const satisfies InstantProperty
+diff --git a/seat-system/compose-notices/compose-notices.module.ts b/seat-system/compose-notices/compose-notices.module.ts
+index c76c054000e921424babde7cefc1a45274e28313..575583f442e81807a5f473382d92e8f8cbde9ac4 100644
+--- a/seat-system/compose-notices/compose-notices.module.ts
++++ b/seat-system/compose-notices/compose-notices.module.ts
+@@ -9,7 +9,8 @@ export const composeNotices = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This is run as its own program rather than imported by what asks for a notice.",
++      statement:
++        "This module is run as its own program rather than imported by what asks for a notice.",
+     },
+     {
+       invariantKind: "departure",
+@@ -22,7 +23,7 @@ export const composeNotices = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A folder that is not there, or that holds no notice, is refused rather than empty.",
++        "A folder that is not there, or one that holds no notice, is refused rather than empty.",
+     },
+     {
+       invariantKind: "gap",
+diff --git a/seat-system/seat-conditions/properties/auto-compact-window.number-property.ts b/seat-system/seat-conditions/properties/auto-compact-window.number-property.ts
+index 713772d36d9db109d261ac7cfe9dc83fb81b0cf4..8889e0fc6b42bca1f48f049c9732ddb5e8ed43a1 100644
+--- a/seat-system/seat-conditions/properties/auto-compact-window.number-property.ts
++++ b/seat-system/seat-conditions/properties/auto-compact-window.number-property.ts
+@@ -12,7 +12,8 @@ export const autoCompactWindow = {
+   invariants: [
+     {
+       invariantKind: "constraint",
+-      statement: "What runs the agent holds this between 100,000 and 1,000,000 whatever is stated.",
++      statement:
++        "What runs the agent holds this count between 100,000 and 1,000,000 whatever is stated.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/seat-fleet-restart/seat-fleet-restart.module.ts b/seat-system/seat-fleet-restart/seat-fleet-restart.module.ts
+index 091210add32e8fa0468741cf9f6b67c90ab98464..cc40c362004ecc8b068160484f14cd83d874bff8 100644
+--- a/seat-system/seat-fleet-restart/seat-fleet-restart.module.ts
++++ b/seat-system/seat-fleet-restart/seat-fleet-restart.module.ts
+@@ -9,7 +9,7 @@ export const seatFleetRestart = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The ops dispatcher imports this and calls the default export it declares.",
++      statement: "The ops dispatcher imports this module and calls the default export it declares.",
+     },
+     {
+       invariantKind: "departure",
+@@ -17,7 +17,7 @@ export const seatFleetRestart = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A client this cannot read is left alone rather than counted as behind.",
++      statement: "A client this module cannot read is left alone rather than counted as behind.",
+     },
+     {
+       invariantKind: "departure",
