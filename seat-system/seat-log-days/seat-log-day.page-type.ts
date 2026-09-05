@@ -52,11 +52,11 @@ export const seatLogDay = {
     },
     {
       invariantKind: "departure",
-      statement: "The page is committed and the lines beside it are not.",
+      statement: "The page is committed and the lines beside that page are not.",
     },
     {
       invariantKind: "departure",
-      statement: "Removing the page removes the lines with it.",
+      statement: "Removing the page removes the lines with that page.",
     },
     {
       invariantKind: "departure",
