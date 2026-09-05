@@ -9,7 +9,7 @@ export const akashaCheck = {
     {
       invariantKind: "stopgap",
       statement:
-        "No check exists only to test what the compiler tests apart from the one that runs that compiler.",
+        "No check but the one running the compiler exists only to test the claims the compiler tests.",
     },
     {
       invariantKind: "gap",
