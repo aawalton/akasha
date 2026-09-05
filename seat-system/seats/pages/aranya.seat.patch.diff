@@ -215,3 +215,11 @@ index ba3c9c71cd41f728705aaea27fd130574b10634d..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../geo-io
 \ No newline at end of file
+diff --git a/git-transport/git-transport b/git-transport/git-transport
+deleted file mode 120000
+index ae40b0b97d09a11e5d210b52e53a770f2a222802..0000000000000000000000000000000000000000
+--- a/git-transport/git-transport
++++ /dev/null
+@@ -1 +0,0 @@
+-../../git-transport
+\ No newline at end of file
