@@ -1,8 +1,8 @@
 diff --git a/service-system/workstation-services/service-installing/service-installing.module.ts b/service-system/workstation-services/service-installing/service-installing.module.ts
-index cb66d63a28fad8ba24edd28d86e9e2affd1f41ea..620fc40341918628fd0beadc86603e942450af07 100644
+index cb66d63a28fad8ba24edd28d86e9e2affd1f41ea..3391b4ba6492be5ceadb0edd324e81398394518a 100644
 --- a/service-system/workstation-services/service-installing/service-installing.module.ts
 +++ b/service-system/workstation-services/service-installing/service-installing.module.ts
-@@ -10,11 +10,11 @@ export const serviceInstalling = {
+@@ -10,15 +10,15 @@ export const serviceInstalling = {
    invariants: [
      {
        invariantKind: "departure",
@@ -13,6 +13,11 @@ index cb66d63a28fad8ba24edd28d86e9e2affd1f41ea..620fc40341918628fd0beadc86603e94
        invariantKind: "departure",
 -      statement: "A unit of ours is a unit whose link points into that folder.",
 +      statement: "A unit akasha owns is a unit whose link points into that folder.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Anything else sitting beside a unit of ours is left alone.",
++      statement: "Anything else sitting beside a unit akasha owns is left alone.",
      },
      {
        invariantKind: "departure",
