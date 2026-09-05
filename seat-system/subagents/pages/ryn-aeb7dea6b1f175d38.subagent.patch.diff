@@ -49,3 +49,20 @@ index d0d5e06416ab3ab825180048c1a16c4f75ea1f89..32b5dcfb0a38f5d0135856251a4b15c4
      {
        invariantKind: "departure",
        statement: "Every site showing the capacity is carried the capacity rather than taking one.",
+diff --git a/alan/harness/inboxes/inbox.domain.ts b/alan/harness/inboxes/inbox.domain.ts
+index 8087f05332b7aa1eda4ddd96e172850c4b81a97e..4d42e121ae2d2a491a9a669423c44b92246a50c8 100644
+--- a/alan/harness/inboxes/inbox.domain.ts
++++ b/alan/harness/inboxes/inbox.domain.ts
+@@ -24,11 +24,7 @@ export const inbox = {
+       invariantKind: "departure",
+       statement: "A count is read from the pages the workstation's checkout carries.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The reading is taken by a workstation timer rather than by a pod serving a route.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "Every site showing an inbox is carried the count rather than taking one.",
