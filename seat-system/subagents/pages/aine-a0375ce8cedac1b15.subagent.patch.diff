@@ -1,0 +1,91 @@
+diff --git a/person-system/person-enrolment/person-enrolment.module.ts b/person-system/person-enrolment/person-enrolment.module.ts
+index c0b0b58987d2e6e7f88703660df1069e0501749a..af01b49bca5057d7f0b507cf073cfa8ac24b2265 100644
+--- a/person-system/person-enrolment/person-enrolment.module.ts
++++ b/person-system/person-enrolment/person-enrolment.module.ts
+@@ -4,7 +4,7 @@ export const personEnrolment = {
+   id: "01a05afe-7a0e-7ae1-ad39-ba070a334a6b",
+   pageTypeSlug: "module",
+   slug: "person-enrolment",
+-  definition: "the person an account signing in stands for",
++  definition: "the person an account signing in represents",
+   code: "ts",
+   test: "ts",
+   testFixtures: "ts",
+diff --git a/person-system/person-reading/person-reading.module.code.ts b/person-system/person-reading/person-reading.module.code.ts
+index 796dfbf2f0a8d8670438b4ab0056a214977090d7..a2741b1c7454454d817ec1f2208bbe8d7e17596d 100644
+--- a/person-system/person-reading/person-reading.module.code.ts
++++ b/person-system/person-reading/person-reading.module.code.ts
+@@ -30,16 +30,16 @@ function valueOf(root: string, path: string): Value {
+   return held
+ }
+ 
+-function personFrom(root: string, standing: Listed): Person {
+-  const value = valueOf(root, standing.path)
++function personFrom(root: string, listed: Listed): Person {
++  const value = valueOf(root, listed.path)
+   const slug = textAt(value, "slug")
+   if (slug === null) {
+-    throw new Error(`${standing.path} is a person page and states no slug, so nothing names them`)
++    throw new Error(`${listed.path} is a person page and states no slug, so nothing names them`)
+   }
+   return {
+-    id: standing.id,
++    id: listed.id,
+     slug,
+-    path: standing.path,
++    path: listed.path,
+     definition: textAt(value, "definition"),
+     answeredBy: textAt(value, "answeredBy"),
+     phone: textAt(value, "phone"),
+diff --git a/person-system/push-apps/push-apps.module.ts b/person-system/push-apps/push-apps.module.ts
+index 68d50808cd6376c1de3b60c8d0953e59e3f269b3..4dcf138208a36a9a34a487122bc3b115afe5b5c4 100644
+--- a/person-system/push-apps/push-apps.module.ts
++++ b/person-system/push-apps/push-apps.module.ts
+@@ -4,7 +4,7 @@ export const pushApps = {
+   id: "01a05c96-89f6-764e-b32f-d57a6a43bb6b",
+   pageTypeSlug: "module",
+   slug: "push-apps",
+-  definition: "the bundle and the owner each app registering for push stands under",
++  definition: "the bundle and the owner each app registering for push sits under",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/person-system/push-permission/push-permission.module.ts b/person-system/push-permission/push-permission.module.ts
+index 61d23852c58a30a867580fd1118896e8707a9d5d..3b9f02573c247614d895cca326d8418d4ad69220 100644
+--- a/person-system/push-permission/push-permission.module.ts
++++ b/person-system/push-permission/push-permission.module.ts
+@@ -4,7 +4,7 @@ export const pushPermission = {
+   id: "01a05b54-a909-7753-8cc3-52b02c145266",
+   pageTypeSlug: "module",
+   slug: "push-permission",
+-  definition: "what the app does about the push permission a device stands at",
++  definition: "what the app does about the push permission a device is at",
+   code: "ts",
+   test: "ts",
+   invariants: [
+diff --git a/person-system/route-access/route-access.module.test.ts b/person-system/route-access/route-access.module.test.ts
+index b2bd1870037139c7e3bb960b6434a5d12d82ee3a..2fec8d4be1090d5cee759d1b97c23218ab2d9ebb 100644
+--- a/person-system/route-access/route-access.module.test.ts
++++ b/person-system/route-access/route-access.module.test.ts
+@@ -48,7 +48,7 @@ test("an account no person states reaches no route", async () => {
+   expect(decided.why).toContain("no person states the account")
+ })
+ 
+-test("a person standing with no route access reaches no route", async () => {
++test("a person with no route access reaches no route", async () => {
+   const decided = await overTheLiveStore(async () =>
+     routeAccessForPerson("ki", ROUTE_TARGETS.READOUT_FEED)
+   )
+diff --git a/person-system/route-access/route-access.module.ts b/person-system/route-access/route-access.module.ts
+index b5bf33afaac07af43724a39f9ce0bc80880b630d..307ffb66fdd104b6e6306bcfd9ce4c860ab8ff47 100644
+--- a/person-system/route-access/route-access.module.ts
++++ b/person-system/route-access/route-access.module.ts
+@@ -4,7 +4,7 @@ export const routeAccess = {
+   id: "01a05afe-7a0f-7405-b894-524372b09614",
+   pageTypeSlug: "module",
+   slug: "route-access",
+-  definition: "whether the person an account stands for may reach a route",
++  definition: "whether the person an account represents may reach a route",
+   code: "ts",
+   test: "ts",
+   invariants: [
