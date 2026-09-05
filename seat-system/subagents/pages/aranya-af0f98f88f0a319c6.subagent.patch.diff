@@ -1,0 +1,16 @@
+diff --git a/infrastructure/seaweedfs/backup-assets/seaweedfs-backup-assets.manifest.ts b/infrastructure/seaweedfs/backup-assets/seaweedfs-backup-assets.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..852b79031478ba443beabf600d31c34bdd374583
+--- /dev/null
++++ b/infrastructure/seaweedfs/backup-assets/seaweedfs-backup-assets.manifest.ts
+@@ -0,0 +1,10 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const seaweedfsBackupAssets = {
++  id: "01a07383-16d2-7fb8-aa65-d8a380cac6a5",
++  pageTypeSlug: "manifest",
++  slug: "seaweedfs-backup-assets",
++  definition:
++    "the namespace, the disk and the cron job copying the stored assets off to separate storage",
++  code: "ts",
++} as const satisfies Manifest
