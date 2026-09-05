@@ -25,7 +25,7 @@ export const temperConditionField = {
     },
     {
       invariantKind: "departure",
-      statement: "A condition names one field here and what that field is tested against.",
+      statement: "A condition names one field here and the value that field is tested against.",
     },
     {
       invariantKind: "departure",
