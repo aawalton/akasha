@@ -8,7 +8,7 @@ export const alanWaltonJenniferWaltonBrokerageAccount8993445936 = {
   definition: "money the family holds, standing in a brokerage account",
   monarchId: "231274616895445936",
   accountDisplayName: "Alan Walton, Jennifer Walton - Brokerage Account - ****8993 (...8993)",
-  currentBalance: 1723065.64,
+  currentBalance: 1746285.56,
   accountType: "brokerage",
   asset: true,
   accountActive: true,

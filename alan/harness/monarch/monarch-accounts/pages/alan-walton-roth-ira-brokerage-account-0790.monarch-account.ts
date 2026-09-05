@@ -8,7 +8,7 @@ export const alanWaltonRothIraBrokerageAccount0790 = {
   definition: "money the family holds, standing in a Roth IRA account",
   monarchId: "231274616693070766",
   accountDisplayName: "Alan Walton - Roth IRA Brokerage Account - ****0790 (...0790)",
-  currentBalance: 24271.42,
+  currentBalance: 24495.5,
   accountType: "brokerage",
   asset: true,
   accountActive: true,

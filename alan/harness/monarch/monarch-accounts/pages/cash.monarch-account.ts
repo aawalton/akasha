@@ -8,7 +8,7 @@ export const cash = {
   definition: "money the family holds, standing in a cash management account",
   monarchId: "151732808422660966",
   accountDisplayName: "Cash",
-  currentBalance: 12348.43,
+  currentBalance: 12388.43,
   accountType: "depository",
   asset: true,
   accountActive: true,
