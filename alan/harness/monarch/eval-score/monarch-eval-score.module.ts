@@ -29,7 +29,7 @@ export const monarchEvalScore = {
     {
       invariantKind: "departure",
       statement:
-        "Every figure is reported inside the population it sits in rather than on its own.",
+        "Every figure is reported inside the population that figure sits in rather than on its own.",
     },
     {
       invariantKind: "departure",
