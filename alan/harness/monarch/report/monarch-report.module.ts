@@ -34,8 +34,11 @@ export const monarchReport = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An ambiguity is reported with every candidate, and a candidate outside the history read is said to be outside it.",
+      statement: "An ambiguity is reported with every candidate.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A candidate outside the history read is said to be outside that history.",
     },
     {
       invariantKind: "departure",
