@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-characters-addon/characters-collector-merge/characters-collector-merge.module.ts b/temper/temper-characters-addon/characters-collector-merge/characters-collector-merge.module.ts
+index 1bccce16934f31b134a964b6209196fe7028ef87..550649410873d8d8075289717cb7de0d291c39dd 100644
+--- a/temper/temper-characters-addon/characters-collector-merge/characters-collector-merge.module.ts
++++ b/temper/temper-characters-addon/characters-collector-merge/characters-collector-merge.module.ts
+@@ -9,7 +9,7 @@ export const charactersCollectorMerge = {
+   invariants: [
+     {
+       invariantKind: "constraint",
+-      statement: "A collector never drops what an earlier read stored and this read cannot see.",
++      statement: "A collector never drops a value an earlier read stored and this read cannot see.",
+     },
+   ],
+ } as const satisfies Module
