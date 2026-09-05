@@ -1,5 +1,5 @@
 diff --git a/code-system/carried-file/carried-file.module.ts b/code-system/carried-file/carried-file.module.ts
-index 4e6bf0438bd1167a3a2a1bf6843e9d2d54ac91a8..a9fd4cb859a5196e02383359ff0232971c18d678 100644
+index 4e6bf0438bd1167a3a2a1bf6843e9d2d54ac91a8..2a047316d8b8b1d966388660a5c2b3faf5a14f13 100644
 --- a/code-system/carried-file/carried-file.module.ts
 +++ b/code-system/carried-file/carried-file.module.ts
 @@ -18,7 +18,7 @@ export const carriedFile = {
@@ -8,6 +8,16 @@ index 4e6bf0438bd1167a3a2a1bf6843e9d2d54ac91a8..a9fd4cb859a5196e02383359ff023297
        invariantKind: "departure",
 -      statement: "A carrier states the byte count and the sha256 of what it carries.",
 +      statement: "A carrier states the byte count and the sha256 of what that carrier carries.",
+     },
+     {
+       invariantKind: "departure",
+@@ -26,7 +26,8 @@ export const carriedFile = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The base64 is one line, so a seam with no json reader takes it in one read.",
++      statement:
++        "The base64 is one line, so a seam with no json reader takes that base64 in one read.",
      },
      {
        invariantKind: "departure",
