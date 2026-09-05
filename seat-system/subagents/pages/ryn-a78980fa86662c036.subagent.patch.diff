@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/ios-app/ios-app.command.ts b/commands/ios-app/ios-app.command.ts
+index a1eb30daf781591ae9704d1eb72e6e8f42f4fcbd..bdb86dd879a8ebf7ea96987471ea98d73e96b548 100644
+--- a/commands/ios-app/ios-app.command.ts
++++ b/commands/ios-app/ios-app.command.ts
+@@ -40,7 +40,7 @@ export const iosApp = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What an app is built from is read from its page.",
++      statement: "The sources an app is built from are read from its page.",
+     },
+     {
+       invariantKind: "departure",
