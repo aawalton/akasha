@@ -167,3 +167,11 @@ index ec3b5ebaf2a16f89620d771a5727d75769a67523..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../email-inbound
 \ No newline at end of file
+diff --git a/email-watch/email-watch b/email-watch/email-watch
+deleted file mode 120000
+index 7d0e785d4c8259c17154511551acceb6521474bd..0000000000000000000000000000000000000000
+--- a/email-watch/email-watch
++++ /dev/null
+@@ -1 +0,0 @@
+-../../email-watch
+\ No newline at end of file
