@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-player-completion/completion-generic-checker-progress/completion-generic-checker-progress.module.ts b/temper/temper-player-completion/completion-generic-checker-progress/completion-generic-checker-progress.module.ts
+index 635c9bd56ad0e50d1fd5cfd58c5430dd1ef4f108..5af91b5b82e4ddd6d12c5658903f940d3e2b43b4 100644
+--- a/temper/temper-player-completion/completion-generic-checker-progress/completion-generic-checker-progress.module.ts
++++ b/temper/temper-player-completion/completion-generic-checker-progress/completion-generic-checker-progress.module.ts
+@@ -10,7 +10,7 @@ export const completionGenericCheckerProgress = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A total is what the static catalog holds rather than what saved data records.",
++      statement: "A total is read from the static catalog rather than from saved data.",
+     },
+     {
+       invariantKind: "departure",
