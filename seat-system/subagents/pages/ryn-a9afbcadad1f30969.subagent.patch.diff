@@ -64,3 +64,16 @@ index 6cf63eae9abee5c499b1f06a7cfbbf940f97b658..33d9108c3869306a9316b0e3a48795d4
      },
    ],
  } as const satisfies Module
+diff --git a/infrastructure/upscale/upscale-workstation/upscale-workstation.module.ts b/infrastructure/upscale/upscale-workstation/upscale-workstation.module.ts
+index d91cf1a1e17e5f07edd0fee34c5b8c1a6440e631..d95e43b82ebbd020b3c0b3ffa3337e6729da7e9f 100644
+--- a/infrastructure/upscale/upscale-workstation/upscale-workstation.module.ts
++++ b/infrastructure/upscale/upscale-workstation/upscale-workstation.module.ts
+@@ -10,7 +10,7 @@ export const upscaleWorkstation = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The scripts are reached at the path their pages are at rather than at the path they were once installed to.",
++        "The scripts are reached at their pages' path rather than where the scripts were once installed.",
+     },
+     {
+       invariantKind: "departure",
