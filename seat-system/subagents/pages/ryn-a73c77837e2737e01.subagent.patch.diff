@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-addon-data/addon-data-writes-alchemy/addon-data-writes-alchemy.module.ts b/temper/temper-addon-data/addon-data-writes-alchemy/addon-data-writes-alchemy.module.ts
+index 26d3d79782173800fd1fd28527981f9b7cd6ef8a..02b3316f7afa924afa6516a5f49351d1456da4bb 100644
+--- a/temper/temper-addon-data/addon-data-writes-alchemy/addon-data-writes-alchemy.module.ts
++++ b/temper/temper-addon-data/addon-data-writes-alchemy/addon-data-writes-alchemy.module.ts
+@@ -14,7 +14,7 @@ export const addonDataWritesAlchemy = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A section states its writes rather than performing them.",
++      statement: "A section states its writes rather than performing those writes.",
+     },
+   ],
+ } as const satisfies Module
