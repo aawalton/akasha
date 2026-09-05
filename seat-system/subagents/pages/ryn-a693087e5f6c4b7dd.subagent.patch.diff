@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
-index 9a9834e30195a04239fa27a962567f3311d72c71..7b669572a4143a1e1ae40f0ef082a900e51e5250 100644
+index 9a9834e30195a04239fa27a962567f3311d72c71..160ea8c949dfe25d48310d2780cbc5f428d2677f 100644
 --- a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
 +++ b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
 @@ -17,7 +17,8 @@ export const agentTreePanel = {
@@ -10,6 +10,15 @@ index 9a9834e30195a04239fa27a962567f3311d72c71..7b669572a4143a1e1ae40f0ef082a900
 -      statement: "The panel draws what that file holds before any change to it arrives.",
 +      statement:
 +        "The panel draws the fleet that file holds before any change to that file arrives.",
+     },
+     {
+       invariantKind: "departure",
+@@ -73,7 +74,7 @@ export const agentTreePanel = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row's own state is what an act on that row is planned from.",
++      statement: "An act on a row is planned from that row's own state.",
      },
      {
        invariantKind: "departure",
