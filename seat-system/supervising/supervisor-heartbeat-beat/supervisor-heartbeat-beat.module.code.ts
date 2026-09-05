@@ -6,7 +6,7 @@ import {
   getCurrentSessionIdForSelfHeal,
 } from "@akasha/seat-system/supervisor-self-heal-state"
 import { keepBeside } from "../../seat-beside/seat-beside.module.code.ts"
-import type { BeatReport } from "../../seat-page-beat/seat-page-beat.module.code.ts"
+import { type BeatReport, beat } from "../../seat-page-beat/seat-page-beat.module.code.ts"
 import { nameFromHistory } from "../../seat-page-history/seat-page-history.module.code.ts"
 import {
   formatSeatProcKey,
@@ -17,8 +17,11 @@ import { clearRotated } from "../../seat-rotated-session/seat-rotated-session.mo
 import { keepSession } from "../../seat-session/seat-session.module.code.ts"
 import { keepTranscript } from "../../seat-transcript-path/seat-transcript-path.module.code.ts"
 
-// The specifier here is the one the type import of BeatReport above holds, so moving the
-// beat module is a diagnostic rather than a path that is not there when a beat spawns.
+// `beat` writes the page over an await, and the four writes below are called from places that
+// cannot await one: `clearSeatRotation` is reached through a rotation watcher whose callback is
+// declared as returning a value rather than a promise. They run the beat as a child, which is
+// what blocks until the page is written. The specifier here is the one the import above holds,
+// so moving the beat module is a diagnostic rather than a path that is not there at a beat.
 const BEAT = new URL("../../seat-page-beat/seat-page-beat.module.code.ts", import.meta.url).pathname
 
 function beatArgv(args: readonly string[]): readonly string[] {
@@ -58,14 +61,11 @@ function runBeat(args: readonly string[]): BeatReport {
   }
 }
 
-async function runBeatAsync(args: readonly string[]): Promise<BeatReport> {
+// `beat` throws where what it is handed says nothing it can write for. That was a child exiting
+// non-zero before, and a heartbeat swallows it either way, so no beat fails its caller.
+async function beatReport(args: readonly string[]): Promise<BeatReport> {
   try {
-    const proc = Bun.spawn([process.execPath, ...beatArgv(args)], {
-      stdout: "pipe",
-      stderr: "inherit",
-    })
-    const output = await new Response(proc.stdout).text()
-    return reportFrom(output, await proc.exited)
+    return await beat(args)
   } catch (err) {
     return {
       outcome: { kind: "refused", detail: `the seat page writer did not run: ${String(err)}` },
@@ -121,7 +121,7 @@ export async function keepSeatPage(
 ): Promise<void> {
   const selfHealAgent = getCurrentAgentIdForSelfHeal()
   const selfHealSession = getCurrentSessionIdForSelfHeal()
-  const report = await runBeatAsync([
+  const report = await beatReport([
     "--agent",
     agentId,
     ...(account === null ? [] : ["--account", account]),

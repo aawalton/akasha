@@ -4,17 +4,21 @@ export const supervisorHeartbeatBeat = {
   id: "01a06871-3115-7000-88a3-356a4726a3a1",
   pageTypeSlug: "module",
   slug: "supervisor-heartbeat-beat",
-  definition: "the seat page writes a supervisor makes by running the seat page beat as a child",
+  definition: "the seat page writes a supervisor makes through the seat page beat",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Every write here runs the seat page beat as a child rather than writing the page itself.",
+      statement: "Every write here reaches the seat page beat rather than writing the page itself.",
     },
     {
       invariantKind: "departure",
-      statement: "The report is the last line of the child's stdout, read as JSON.",
+      statement:
+        "A write that can await the beat calls it, and one that cannot runs it as a child.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A child's report is the last line of its stdout, read as JSON.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +26,7 @@ export const supervisorHeartbeatBeat = {
     },
     {
       invariantKind: "departure",
-      statement: "A child that never ran is a refusal naming the error rather than a throw.",
+      statement: "A beat that throws or never ran is a refusal naming what happened, not a throw.",
     },
     {
       invariantKind: "departure",
@@ -46,8 +50,7 @@ export const supervisorHeartbeatBeat = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The report's type is taken from the beat module, so a move of it is a diagnostic.",
+      statement: "The beat is imported from beside this one, so a move of it is a diagnostic.",
     },
   ],
 } as const satisfies Module

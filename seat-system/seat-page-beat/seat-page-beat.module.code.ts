@@ -33,7 +33,7 @@ function valueOf(argv: readonly string[], flag: string): string | null {
   const at = argv.indexOf(flag)
   if (at === -1) return null
   const value = argv[at + 1]
-  if (value === undefined) fail(`${flag} takes a value`)
+  if (value === undefined) throw new Error(`${flag} takes a value`)
   return value
 }
 
@@ -50,9 +50,11 @@ export function statedForPage(
   return running === null ? held : { ...held, session: running }
 }
 
+// What an importer asks for: one seat page written or taken down from what these arguments say.
+// It throws rather than exiting, so a supervisor holding the call is told rather than ended.
 export async function beat(argv: readonly string[]): Promise<BeatReport> {
   const agentId = valueOf(argv, "--agent")
-  if (agentId === null) fail("--agent names the seat this writes for")
+  if (agentId === null) throw new Error("--agent names the seat this writes for")
 
   const stopReason = valueOf(argv, "--remove")
   if (stopReason !== null) return { outcome: await removeSeatPage(agentId, stopReason), seat: null }
@@ -113,7 +115,12 @@ export async function beat(argv: readonly string[]): Promise<BeatReport> {
 }
 
 if (import.meta.main) {
-  const report = await beat(process.argv.slice(2))
+  let report: BeatReport
+  try {
+    report = await beat(process.argv.slice(2))
+  } catch (error) {
+    fail(error instanceof Error ? error.message : String(error))
+  }
   process.stdout.write(`${JSON.stringify(report)}\n`)
   if (report.outcome.kind === "refused") process.exitCode = 1
 }
