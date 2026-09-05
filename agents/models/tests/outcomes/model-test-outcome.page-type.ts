@@ -28,7 +28,7 @@ export const modelTestOutcome = {
     },
     {
       invariantKind: "departure",
-      statement: "An outcome is what a reader found rather than what the model answered.",
+      statement: "An outcome is the finding a reader made rather than the answer the model gave.",
     },
   ],
 } as const satisfies PageType
