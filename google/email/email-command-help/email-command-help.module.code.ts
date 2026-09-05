@@ -14,7 +14,7 @@ export const GMAIL_ENV_VARS: readonly HelpEnvVar[] = [
   {
     name: "GOOGLE_GMAIL_OAUTH_REFRESH_TOKEN",
     required: true,
-    description: "Refresh token minted by `ops email auth login`",
+    description: "Refresh token minted by `akasha email-auth-login`",
   },
 ]
 

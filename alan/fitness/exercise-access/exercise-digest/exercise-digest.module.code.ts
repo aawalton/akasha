@@ -22,11 +22,6 @@ export const HELP: CommandHelp = {
     { code: 0, meaning: "digest printed" },
     { code: 1, meaning: "bad input or query failure" },
   ],
-  examples: [
-    "ops exercise digest",
-    "ops exercise digest --focus push",
-    "ops exercise digest --json",
-  ],
 }
 
 function setLineStr(line: SetLine | null): string {
