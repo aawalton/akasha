@@ -6,6 +6,7 @@ export const database = {
   slug: "database",
   definition: "the queryable store",
   pluralSlug: "databases",
+  partSlugs: ["manifest/postgrest"],
   invariants: [
     {
       invariantKind: "departure",
