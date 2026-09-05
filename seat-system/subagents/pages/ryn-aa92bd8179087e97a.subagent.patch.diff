@@ -1,0 +1,14 @@
+diff --git a/alan/relating/connection-activities/connection-activity.page-type.ts b/alan/relating/connection-activities/connection-activity.page-type.ts
+index 23e5699f29af114b5556f257fdf12d1fbbec8d82..8ef2e89a89d5fcfb22b7bdc654866c7e5f0a6fa4 100644
+--- a/alan/relating/connection-activities/connection-activity.page-type.ts
++++ b/alan/relating/connection-activities/connection-activity.page-type.ts
+@@ -101,8 +101,7 @@ export const connectionActivity = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Every rating is a multiplier against one, so an activity worth an ordinary hour scores one throughout.",
++      statement: "Every rating is a multiplier against an ordinary hour.",
+     },
+     {
+       invariantKind: "departure",
