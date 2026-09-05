@@ -10,6 +10,21 @@ index afc4da8e562338fa17be060b37999141a9ef330b..090ef02d20eef91c1b1bd73bd201988e
    ],
    extendsSlug: ["page-type/module"],
    loadedBySlug: "module/warranting",
+diff --git a/context/warrants/role-page-type/role-page-type.context-warrant.ts b/context/warrants/role-page-type/role-page-type.context-warrant.ts
+index 3d8314557105d9846993ce67e4a776fdd7d63314..20f35b9f310db67b85e016a92d0993948fd53cbd 100644
+--- a/context/warrants/role-page-type/role-page-type.context-warrant.ts
++++ b/context/warrants/role-page-type/role-page-type.context-warrant.ts
+@@ -16,8 +16,8 @@ export const rolePageType = {
+       statement: "A seat warrants the type of the role the seat states.",
+     },
+     {
+-      invariantKind: "departure",
+-      statement: "A seat warrants every type that the type of the role the seat states extends.",
++      invariantKind: "absence",
++      statement: "A seat warrants no type that the type of the role the seat states extends.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/context/warrants/subagent-role/subagent-role.context-warrant.code.ts b/context/warrants/subagent-role/subagent-role.context-warrant.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..7fe5692f6251a2bc23fa866e2093f997402e76df
