@@ -1,0 +1,21 @@
+diff --git a/command-system/commands/patch/patch.command.code.ts b/command-system/commands/patch/patch.command.code.ts
+index 38da2fde0d0af2dc74a6e9daa2f15b6d601d81e8..e2a12f679dc0c8818132b2bb02af3248b23b1fe7 100644
+--- a/command-system/commands/patch/patch.command.code.ts
++++ b/command-system/commands/patch/patch.command.code.ts
+@@ -17,6 +17,7 @@ import {
+ } from "../../asking/asking.module.code.ts"
+ import type { Answer, Given } from "../../calling/calling.module.code.ts"
+ import {
++  type Bodies,
+   DROPPED,
+   droppedAt,
+   droppedPatch,
+@@ -28,7 +29,7 @@ import {
+ import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+ import { gateBuilt, NO_GATE } from "../../gate-building/gate-building.module.code.ts"
+ import { draftSaid } from "../../judged-saying/judged-saying.module.code.ts"
+-import { baseOf, changeOf, editsOf } from "../../landing/landing.module.code.ts"
++import { baseOf, changeOf, editsOf, type FileEdit } from "../../landing/landing.module.code.ts"
+ import { formattedSaid } from "../../landing-saying/landing-saying.module.code.ts"
+ import { added, type Blobs, blobsIn, deleted } from "../../patching/patching.module.code.ts"
+ import type { Piping } from "../../piping/piping.module.code.ts"
