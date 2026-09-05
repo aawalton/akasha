@@ -21,7 +21,7 @@ export const personaPageType = {
     },
     {
       invariantKind: "departure",
-      statement: "What a page answers to its type for is one rule wherever the rule is asked.",
+      statement: "The readings a page owes its type are one rule wherever the rule is asked.",
     },
     {
       invariantKind: "departure",
