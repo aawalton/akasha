@@ -58,7 +58,7 @@ export const messageHandler = {
     },
     {
       invariantKind: "departure",
-      statement: "What was thrown is written about beside the line naming the fallthrough.",
+      statement: "The error thrown is written about beside the line naming the fallthrough.",
     },
     {
       invariantKind: "departure",
