@@ -18,7 +18,7 @@ index 8234a8e29452b94846c898313321976e6b927c7b..f5164d461c9be0dbdb0853ac760f1b32
    const parts = path.split("/")
    return parts
 diff --git a/seat-system/terminal-init/document-standing/document-standing.module.test.ts b/seat-system/terminal-init/document-standing/document-standing.module.test.ts
-index 41cbb425c4ffcc18ae75bccf0f31e9a8c74bc1ba..a8d7f44a1caeae5cd9b7ff11343ba50d6a3105eb 100644
+index 41cbb425c4ffcc18ae75bccf0f31e9a8c74bc1ba..511247f54d733b16d93969911064e412f0c49100 100644
 --- a/seat-system/terminal-init/document-standing/document-standing.module.test.ts
 +++ b/seat-system/terminal-init/document-standing/document-standing.module.test.ts
 @@ -11,7 +11,7 @@ import {
@@ -30,6 +30,15 @@ index 41cbb425c4ffcc18ae75bccf0f31e9a8c74bc1ba..a8d7f44a1caeae5cd9b7ff11343ba50d
      expect(shapeOf("akasha/persona-system/personas/akasha/akasha.persona.ts", "akasha")).toBe(
        `akasha/persona-system/personas/${SLUG_MARK}/${SLUG_MARK}.persona.ts`
      )
+@@ -79,7 +79,7 @@ describe("what is asked in shell", () => {
+ describe("the persona gate", () => {
+   const said = personaDocumentGateLines("sn", "name").join("\n")
+ 
+-  test("refuses only where no shape stands", () => {
++  test("refuses only where no shape is there", () => {
+     expect(said).toContain('[ ! -f "$_root/')
+     expect(said).not.toContain(" || ")
+   })
 diff --git a/seat-system/terminal-init/document-standing/document-standing.module.ts b/seat-system/terminal-init/document-standing/document-standing.module.ts
 index 513a96731ba5abd442823d8e354f022db2d67ff9..399864b5c7b3784d0df08c4da223b9f1ebb577cc 100644
 --- a/seat-system/terminal-init/document-standing/document-standing.module.ts
