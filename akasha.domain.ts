@@ -70,20 +70,6 @@ export const akasha = {
     "workspace-package/mobile-commands",
     "workspace/akasha-workspace",
   ],
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "The repository is a database.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "This tree is its master replica.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "What is missing was lost rather than not yet made.",
-    },
-  ],
   directives: [
     {
       directiveKind: "rule",
