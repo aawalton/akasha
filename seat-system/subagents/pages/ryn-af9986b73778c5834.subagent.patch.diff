@@ -1,14 +1,19 @@
 runsWarrants: false
 diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
-index c535fa6cc31e1ed491e208359b47be8e34bf1d40..a6a2a370d6293b6c69252769ba20f82b81ed1cd7 100644
+index c535fa6cc31e1ed491e208359b47be8e34bf1d40..5727b1865fcb345c8643769f7474ef72a123485e 100644
 --- a/command-system/landing/landing.module.ts
 +++ b/command-system/landing/landing.module.ts
-@@ -52,7 +52,7 @@ export const landing = {
+@@ -52,11 +52,11 @@ export const landing = {
      {
        invariantKind: "absence",
        statement:
 -        "A change stating no commit the change was read against is taken as read against what is checked out.",
 +        "A change stating no commit the change was read against is taken as read against the commit at HEAD.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A body is overwritten only where what is on disk is the body its writer read.",
++      statement: "A body is overwritten only where the body on disk is the body its writer read.",
      },
      {
        invariantKind: "departure",
