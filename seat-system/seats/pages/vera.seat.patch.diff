@@ -16,6 +16,30 @@ index 808a11f8bf9006e9d7a3e88d5adc708b21dbf6bf..0ad35e5728271783521310f1a5dfde87
      paths.push(one.path)
      if (reachesIn(one.path, one.was, moved).length > 0) reaching.push(one.path)
      carries.push({ was: one.path, now: one.path, from: blobIdOf(one.held) })
+diff --git a/commands/move/outside/move-outside.module.ts b/commands/move/outside/move-outside.module.ts
+index ece3fe49faf0c07d2e9f8dcd7a569203e4bf79e6..d3cd5d5504a7368bcf65a17244a0e8e5568b7988 100644
+--- a/commands/move/outside/move-outside.module.ts
++++ b/commands/move/outside/move-outside.module.ts
+@@ -66,13 +66,17 @@ export const moveOutside = {
+       invariantKind: "departure",
+       statement: "A body no rewriting changed is left out of the change.",
+     },
++    {
++      invariantKind: "absence",
++      statement: "A file a machine writes is left out of the change.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The files that reached in by a relative path are named apart from the rest.",
+     },
+     {
+-      invariantKind: "absence",
+-      statement: "Nothing here reads the index.",
++      invariantKind: "constraint",
++      statement: "The index is asked which files a machine writes and nothing else.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/context/warrants/file-itself/file-itself.context-warrant.code.ts b/context/warrants/file-itself/file-itself.context-warrant.code.ts
 index 5730340ca2d5c650e810196903e3f2b2f580d2fa..5644c1c214cf5dc1a008795e35c1f50f5b9b1799 100644
 --- a/context/warrants/file-itself/file-itself.context-warrant.code.ts
