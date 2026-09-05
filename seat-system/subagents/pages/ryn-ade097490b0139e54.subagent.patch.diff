@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/notes-revert/monarch-notes-revert.module.ts b/alan/harness/monarch/notes-revert/monarch-notes-revert.module.ts
+index 6671b344b63db3cec868c18c3f5aa1e1cfb299d9..560ca7b9345cb6a24aee0b18b6000ab61a02de71 100644
+--- a/alan/harness/monarch/notes-revert/monarch-notes-revert.module.ts
++++ b/alan/harness/monarch/notes-revert/monarch-notes-revert.module.ts
+@@ -15,7 +15,7 @@ export const monarchNotesRevert = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A run over a snapshot that already stands leaves it alone and says how many rows postdate it.",
++        "A run leaves an already standing snapshot alone and says how many rows postdate that snapshot.",
+     },
+     {
+       invariantKind: "departure",
