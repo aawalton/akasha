@@ -7,15 +7,15 @@ export const ruleCompanionEpicNothing = {
   title: "Protect epic+ companion gear",
   description:
     "Prevents epic (purple) quality or higher companion equipment from being affected by lower-priority rules. Place above sell and deconstruct rules to safeguard your best companion gear.",
+  goal: "equip",
+  conditions: "jsonl",
+  destination: "bank",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "companion",
   displayOrder: 12,
   action: "move-to",
   active: true,
   updatedAt: "2026-06-01T21:39:51.449Z",
-  goal: "equip",
   locked: true,
   fromTemplate: "companion-epic-nothing",
-  destination: "bank",
-  conditions: "jsonl",
 } as const satisfies TemperInventoryRule
