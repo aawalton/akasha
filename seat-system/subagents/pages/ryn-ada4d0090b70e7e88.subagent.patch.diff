@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/reminder-system/reminders/modules/sending/reminder-sending.module.ts b/reminder-system/reminders/modules/sending/reminder-sending.module.ts
+index e88f90479a173d6f76c05b8b7b5e9d24d96eb61b..ed2d37a734cc7342e83aa34fde1463f77a3d11bb 100644
+--- a/reminder-system/reminders/modules/sending/reminder-sending.module.ts
++++ b/reminder-system/reminders/modules/sending/reminder-sending.module.ts
+@@ -26,7 +26,7 @@ export const reminderSending = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A reminder taken away loses what was kept beside the page too.",
++      statement: "A reminder taken away loses the values kept beside the page too.",
+     },
+     {
+       invariantKind: "departure",
