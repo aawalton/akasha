@@ -1,0 +1,66 @@
+diff --git a/command-system/landing/landing.module.test-fixtures.ts b/command-system/landing/landing.module.test-fixtures.ts
+index 2ca21d9d1556dca3dd9c996b14915877c87691e9..48e7ae34ebd331cdf77c9d81731250e6799d1cc6 100644
+--- a/command-system/landing/landing.module.test-fixtures.ts
++++ b/command-system/landing/landing.module.test-fixtures.ts
+@@ -73,7 +73,7 @@ export function pageRepo(): string {
+ function typed(
+   said: string,
+   slug: string,
+-  above: string | null,
++  above: readonly string[],
+   declares: readonly string[] = []
+ ): string {
+   const properties = declares.map((one) => ({
+@@ -101,7 +101,7 @@ export async function landedMoving(root: string, read: string): Promise<Landed |
+   return await landing(root, [{ path: PAGE, body: bytes("moved") }], "m", ADMITS, null, read)
+ }
+ 
+-export const TYPE = typed("02", "domain", "page-type/page")
++export const TYPE = typed("02", "domain", ["page-type/page"])
+ 
+ export const NUL = new Uint8Array([104, 0, 101, 108, 100, 0, 0, 10])
+ 
+@@ -117,9 +117,9 @@ export const filedFor = (id: string): readonly string[] => [
+ ]
+ 
+ const VOCABULARY: readonly (readonly [string, string])[] = [
+-  ["akasha/page.page-type.ts", typed("11", "page", null, ["id", "slug"])],
+-  ["akasha/page-type.page-type.ts", typed("12", "page-type", "page-type/page")],
+-  ["akasha/page-property.page-type.ts", typed("13", "page-property", "page-type/page")],
++  ["akasha/page.page-type.ts", typed("11", "page", [], ["id", "slug"])],
++  ["akasha/page-type.page-type.ts", typed("12", "page-type", ["page-type/page"])],
++  ["akasha/page-property.page-type.ts", typed("13", "page-property", ["page-type/page"])],
+   ["akasha/domain.page-type.ts", TYPE],
+ ]
+ 
+diff --git a/commands/index/index.command.test.ts b/commands/index/index.command.test.ts
+index d738e22293e2feb7c6246e58868035fb12774411..4d0483f2cb95c71886abc63f825ac97e895f565d 100644
+--- a/commands/index/index.command.test.ts
++++ b/commands/index/index.command.test.ts
+@@ -51,7 +51,12 @@ function bodyOf(value: Readonly<Record<string, unknown>>): string {
+   return `export const held = ${JSON.stringify(value)}\n`
+ }
+ 
+-function typed(said: string, slug: string, above: string | null, declares: readonly string[] = []) {
++function typed(
++  said: string,
++  slug: string,
++  above: readonly string[],
++  declares: readonly string[] = []
++) {
+   const properties = declares.map((one) => ({
+     pagePropertySlug: one,
+     required: false,
+@@ -67,9 +72,9 @@ function typed(said: string, slug: string, above: string | null, declares: reado
+ }
+ 
+ const PAGES: Readonly<Record<string, string>> = {
+-  "page.page-type.ts": typed("11", "page", null, ["id", "slug"]),
+-  "page-type.page-type.ts": typed("12", "page-type", "page-type/page"),
+-  "page-property.page-type.ts": typed("13", "page-property", "page-type/page"),
++  "page.page-type.ts": typed("11", "page", [], ["id", "slug"]),
++  "page-type.page-type.ts": typed("12", "page-type", ["page-type/page"]),
++  "page-property.page-type.ts": typed("13", "page-property", ["page-type/page"]),
+   "domain.page-type.ts": bodyOf({
+     id: TYPE_ID,
+     pageTypeSlug: "page-type",
