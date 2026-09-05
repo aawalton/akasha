@@ -66,7 +66,7 @@ export const nameFormatJudgesByOneShape = {
     },
     {
       invariantKind: "absence",
-      statement: "What a shape lets through is not judged here.",
+      statement: "The names a shape lets through are not judged here.",
     },
     {
       invariantKind: "absence",
