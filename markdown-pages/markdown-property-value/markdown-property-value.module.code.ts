@@ -44,7 +44,7 @@ export const SELECT = "select"
 export function refusalOf(key: string, fault: Fault, states: string, says: string): string {
   if (fault.fault === "text")
     return fault.at.trim() === ""
-      ? `\`${key}:\` stands with nothing after it, where ${states} states ${says}`
+      ? `\`${key}:\` is written with nothing after it, where ${states} states ${says}`
       : `\`${key}: ${fault.at}\` is not ${says}, which is what ${states} states`
   return fault.wanted === undefined
     ? `\`${key}\` holds ${fault.measured} where ${states} states ${says}`

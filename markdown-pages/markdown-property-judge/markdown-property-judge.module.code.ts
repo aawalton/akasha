@@ -45,7 +45,7 @@ export function judgeRow(
   values: Readonly<Record<string, unknown>>,
   slug: string,
   properties: readonly Property[],
-  standing?: Readonly<Record<string, unknown>> | null
+  before?: Readonly<Record<string, unknown>> | null
 ): RowJudgment {
   const declared = new Set(properties.map((one) => one.name))
   const keys = Object.keys(values)
@@ -54,11 +54,11 @@ export function judgeRow(
     if (declared.has(key)) continue
     refusals.push(undeclaredKey(key, slug, (name) => declared.has(name)))
   }
-  if (standing != null) {
+  if (before != null) {
     const owed = new Set<string>()
     for (const property of properties) {
       const key = property.name
-      if (!owedKey(property) || owed.has(key) || key in values || !(key in standing)) continue
+      if (!owedKey(property) || owed.has(key) || key in values || !(key in before)) continue
       owed.add(key)
       refusals.push(refusalText("page-row-required-dropped", { key, on: property.on }))
     }

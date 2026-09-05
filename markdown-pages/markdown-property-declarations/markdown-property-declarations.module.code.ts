@@ -67,7 +67,7 @@ const fromDeclarationsData = (one: DeclarationsData): Declarations => ({
 const anyDeclared = (one: Declarations): boolean => one.bySlug.size > 0
 
 // Reading the files is what `declarationsFromFiles` holds, so it is asked for the reading rather
-// than the files being read again beside it. Where the mark stands and the kept answer is good this
+// than the files being read again beside it. Where the mark exists and the kept answer is good this
 // never runs, and the two go on answering from their own stores; where it does run, one reading
 // answers both. A checkout with anything uncommitted in it has no mark at all, which is the state
 // this is read in, and there the two readings were the same 2,117 files twice over — 39ms of a
@@ -181,9 +181,9 @@ function readDeclarations(tree: FileTree): Declarations {
       fault ??= said.fault
       continue
     }
-    const standing = bySlug.get(said.on) ?? []
-    standing.push(said.one)
-    bySlug.set(said.on, standing)
+    const held = bySlug.get(said.on) ?? []
+    held.push(said.one)
+    bySlug.set(said.on, held)
   }
   return { bySlug, fault }
 }

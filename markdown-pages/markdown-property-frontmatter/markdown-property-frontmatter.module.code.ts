@@ -85,8 +85,8 @@ const fromData = (one: VocabularyData): Vocabulary => ({
 const vocabularies = new WeakMap<FileTree, Vocabulary>()
 
 export function vocabularyFor(tree: FileTree): Vocabulary {
-  const standing = vocabularies.get(tree)
-  if (standing !== undefined) return standing
+  const held = vocabularies.get(tree)
+  if (held !== undefined) return held
   const made = heldVocabulary(tree)
   vocabularies.set(tree, made)
   return made
@@ -107,8 +107,8 @@ export type Specifiers =
 const indexes = new WeakMap<FileTree, ReadonlyMap<string, string>>()
 
 function typeIndex(tree: FileTree): ReadonlyMap<string, string> {
-  const standing = indexes.get(tree)
-  if (standing !== undefined) return standing
+  const held = indexes.get(tree)
+  if (held !== undefined) return held
   const bySlug = new Map<string, string>()
   for (const one of registryOf(tree)) if (!bySlug.has(one.slug)) bySlug.set(one.slug, one.relPath)
   indexes.set(tree, bySlug)
@@ -196,8 +196,8 @@ interface Ground {
 const grounds = new WeakMap<FileTree, Ground>()
 
 function groundOf(tree: FileTree): Ground {
-  const standing = grounds.get(tree)
-  if (standing !== undefined) return standing
+  const held = grounds.get(tree)
+  if (held !== undefined) return held
   const made: Ground = { tree, rules: new Map(), held: new Map() }
   grounds.set(tree, made)
   return made
@@ -205,8 +205,8 @@ function groundOf(tree: FileTree): Ground {
 
 function armOnce(property: Property, stated: string, ground: Ground): Armed {
   const at = property.at + " " + stated
-  const standing = ground.rules.get(at)
-  if (standing !== undefined) return standing
+  const held = ground.rules.get(at)
+  if (held !== undefined) return held
   const made = armFor(property, stated, vocabularyFor(ground.tree))
   ground.rules.set(at, made)
   return made
@@ -230,8 +230,8 @@ function heldProperties(type: PageType, tree: FileTree, chain: readonly string[]
 
 export function compiledPageTypeFor(type: PageType, tree: FileTree): CompiledPageType {
   const ground = groundOf(tree)
-  const standing = ground.held.get(type.relPath)
-  if (standing !== undefined) return standing
+  const kept = ground.held.get(type.relPath)
+  if (kept !== undefined) return kept
   const chain = chainOf(type, tree, typeIndex(tree)).relPaths
   const { properties, why } = heldProperties(type, tree, chain)
   const armed = new Map<Property, Armed>()

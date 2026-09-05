@@ -9,14 +9,14 @@ const VERSION = 3
 
 const SUFFIX = ".json"
 
-// What the kept answers are allowed to stand in on disk. Answers worked out from different states
-// stand beside one another rather than replacing each other, so nothing in the writing path takes
+// What the kept answers are allowed to fill on disk. Answers worked out from different states
+// sit beside one another rather than replacing each other, so nothing in the writing path takes
 // an old state away and the set is bounded from outside it. pages/answer-sweeping bounds
 // it in time, hourly, by taking away what has gone unused for a day. This bounds it in bytes,
 // because time alone is no bound when the churn is unbounded: a whole state's answers measured
 // 1.24MB in this checkout and a busy hour laid down 20.9MB of them, which is around 500MB in the
 // day the sweep waits. 128MB holds about a hundred states, an order of magnitude past the handful
-// the agents reading this tree stand on at once, so this only ever acts on a burst.
+// the agents reading this tree are on at once, so this only ever acts on a burst.
 const BUDGET = 128 * 1024 * 1024
 
 interface Answer {
@@ -52,7 +52,7 @@ function heldAt(path: string, mark: string): { readonly data: unknown } | null {
   return { data: held.data }
 }
 
-// An answer is served without being written, so how long it has stood since it was written says
+// An answer is served without being written, so how long it has been since it was written says
 // when it was worked out and not whether anybody still wants it. The two run opposite: the answer
 // every read hits is the one that goes longest without being rewritten, so an age read off the
 // write is at its oldest exactly where the cache is working. Marking it used on the way out is
@@ -66,13 +66,13 @@ function usedAt(path: string): void {
   }
 }
 
-interface Standing {
+interface Entry {
   readonly at: string
   readonly bytes: number
   readonly used: number
 }
 
-function standingAt(dir: string, name: string): Standing | null {
+function entryAt(dir: string, name: string): Entry | null {
   try {
     const one = statSync(`${dir}/${name}`)
     return one.isFile() ? { at: `${dir}/${name}`, bytes: one.size, used: one.mtimeMs } : null
@@ -82,23 +82,20 @@ function standingAt(dir: string, name: string): Standing | null {
 }
 
 // Only a finished answer is ever weighed or taken away. `writeFileAtomicSync` renames from
-// `<path>.tmp-<pid>-<random>`, and another checkout's write may be standing at one of those while
+// `<path>.tmp-<pid>-<random>`, and another checkout's write may be sitting at one of those while
 // this runs, so a name that is not an answer is left alone rather than pulled out from under it.
-function looseIn(
-  dir: string,
-  held: string
-): { readonly total: number; readonly loose: Standing[] } {
+function looseIn(dir: string, held: string): { readonly total: number; readonly loose: Entry[] } {
   let names: readonly string[]
   try {
     names = readdirSync(dir)
   } catch {
     return { total: 0, loose: [] }
   }
-  const loose: Standing[] = []
+  const loose: Entry[] = []
   let total = 0
   for (const name of names) {
     if (!name.endsWith(SUFFIX)) continue
-    const one = standingAt(dir, name)
+    const one = entryAt(dir, name)
     if (one === null) continue
     total += one.bytes
     if (name.endsWith(`-${held}${SUFFIX}`)) continue

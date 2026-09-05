@@ -26,7 +26,7 @@ const anyStated = (one: readonly StatedPageType[]): boolean => one.length > 0
 
 function heldRegistry(tree: FileTree): readonly PageType[] {
   // The mark once carried the mtime and size of the index row file alongside the tree shape. There
-  // is no row file, so the shape of the tree is the whole of what this answer stands on.
+  // is no row file, so the shape of the tree is the whole of what this answer rests on.
   const mark = shapeMarkOf(tree)
   const root = tree.root
   const same = (one: readonly StatedPageType[]): readonly StatedPageType[] => one

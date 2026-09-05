@@ -9,7 +9,7 @@ import type { NamedSet } from "../markdown-property-stating/markdown-property-st
  * what the markdown pages system is being replaced by, so pinning it here is the migration rather
  * than a workaround for it.
  *
- * Every name `RULES` in `value.ts` states a rule for stands here, so the refusal lists what the
+ * Every name `RULES` in `value.ts` states a rule for is here, so the refusal lists what the
  * checker can build. `file`, `none`, `region` and `size` are resolved in code and never had a page
  * in that folder, so a set copied from the folder alone drops them: `none` is named by ten
  * definitions, `file` by two and `size` by one.

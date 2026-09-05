@@ -33,11 +33,11 @@ export function recordsFor(
   const records = new Map<string, readonly RecordField[]>()
   for (const [slug, kind] of kinds) {
     if (kind !== RECORD) continue
-    const standing = [...(declared.get(slug) ?? [])].sort((a, b) =>
+    const sorted = [...(declared.get(slug) ?? [])].sort((a, b) =>
       a.at < b.at ? -1 : a.at > b.at ? 1 : 0
     )
     const fields: RecordField[] = []
-    for (const one of standing) {
+    for (const one of sorted) {
       if (one.type === "") continue
       fields.push({
         name: one.name,
