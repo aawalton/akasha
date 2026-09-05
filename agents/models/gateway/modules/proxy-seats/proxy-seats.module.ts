@@ -50,7 +50,7 @@ export const proxySeats = {
     },
     {
       invariantKind: "constraint",
-      statement: "A caller hands in the read answering what a seat holds.",
+      statement: "A caller hands in the read answering the values a seat holds.",
     },
     {
       invariantKind: "constraint",
