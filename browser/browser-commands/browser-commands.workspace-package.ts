@@ -27,7 +27,7 @@ export const browserCommands = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what any page this package looks at is for.",
+      statement: "Nothing here knows the purpose of any page this package looks at.",
     },
   ],
 } as const satisfies WorkspacePackage
