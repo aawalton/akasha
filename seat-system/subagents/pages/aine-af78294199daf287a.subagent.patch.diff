@@ -62,7 +62,7 @@ index d1390f239d4104919d3b352a380dab3e0cfe78b6..e55309d7a54302ecff5bdf241098f4e2
      {
        invariantKind: "departure",
 diff --git a/commands/write/write.command.ts b/commands/write/write.command.ts
-index 9b1b9cac9ab509e1360b085c3bed5fbef05a6032..8623230b94e753ff090d89a6667fded151ead363 100644
+index 9b1b9cac9ab509e1360b085c3bed5fbef05a6032..94edd51bc77bf0023471eed553d957bd79eef075 100644
 --- a/commands/write/write.command.ts
 +++ b/commands/write/write.command.ts
 @@ -23,7 +23,7 @@ export const write = {
@@ -80,6 +80,16 @@ index 9b1b9cac9ab509e1360b085c3bed5fbef05a6032..8623230b94e753ff090d89a6667fded1
        invariantKind: "departure",
 -      statement: "The record must show a path's writer read the body standing there.",
 +      statement: "The record must show a path's writer read the body that is there.",
+     },
+     {
+       invariantKind: "departure",
+@@ -94,8 +94,7 @@ export const write = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A path taken away carries the files standing beside the path like `move` and `remove` do.",
++      statement: "A path taken away carries the files beside the path like `move` and `remove` do.",
      },
      {
        invariantKind: "departure",
