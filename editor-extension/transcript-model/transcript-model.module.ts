@@ -21,7 +21,7 @@ export const transcriptModel = {
     },
     {
       invariantKind: "departure",
-      statement: "A call emitted after its result reads that result off what the fold holds.",
+      statement: "A call emitted after its result reads that result off the state the fold holds.",
     },
     {
       invariantKind: "departure",
