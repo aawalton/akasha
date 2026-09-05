@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/checks/checks.workspace-package.ts b/checks/checks.workspace-package.ts
-index 75cc4baf82fab4582022f3c3cc2f41fe1508b711..de6097b179f0a2069f8f20a20d25e96088e87d6c 100644
+index 75cc4baf82fab4582022f3c3cc2f41fe1508b711..419084027c1e7eab24bc929aba2d32468bb6f174 100644
 --- a/checks/checks.workspace-package.ts
 +++ b/checks/checks.workspace-package.ts
-@@ -50,19 +50,19 @@ export const checks = {
+@@ -50,23 +50,23 @@ export const checks = {
      },
      {
        invariantKind: "departure",
@@ -27,3 +27,8 @@ index 75cc4baf82fab4582022f3c3cc2f41fe1508b711..de6097b179f0a2069f8f20a20d25e960
      },
      {
        invariantKind: "departure",
+-      statement: "A change to what a check runs with is caught at audit.",
++      statement: "A change to the input a check runs with is caught at audit.",
+     },
+     {
+       invariantKind: "upkeep",
