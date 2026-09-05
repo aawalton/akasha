@@ -311,3 +311,11 @@ index 63c77183ad9f57bff4708a0b005d52f58268994e..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../imessage
 \ No newline at end of file
+diff --git a/infrastructure/cluster-provisioning/talos/talos b/infrastructure/cluster-provisioning/talos/talos
+deleted file mode 120000
+index 259854cedd48553baccc5d61ba58fa94ed75076e..0000000000000000000000000000000000000000
+--- a/infrastructure/cluster-provisioning/talos/talos
++++ /dev/null
+@@ -1 +0,0 @@
+-../../infrastructure/cluster-provisioning/talos
+\ No newline at end of file
