@@ -17,7 +17,7 @@ export const contactsDb = {
     },
     {
       invariantKind: "departure",
-      statement: "One person standing in several address book sources is merged into one contact.",
+      statement: "One person held in several address book sources is merged into one contact.",
     },
     {
       invariantKind: "departure",

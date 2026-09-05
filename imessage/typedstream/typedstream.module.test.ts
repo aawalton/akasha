@@ -46,7 +46,7 @@ describe("what the three length forms agree on", () => {
 })
 
 describe("only the first string a body carries is read out", () => {
-  test("a second string standing after the first is left", () => {
+  test("a second string after the first is left", () => {
     const first = shortBody("first")
     const second = shortBody("second")
     expect(decodeAttributedBody(first + second)).toBe("first")

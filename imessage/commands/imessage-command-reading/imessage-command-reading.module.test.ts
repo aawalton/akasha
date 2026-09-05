@@ -43,7 +43,7 @@ describe("wordsIn", () => {
     expect(read.loose).toEqual(["sleep"])
   })
 
-  test("carries an alias to the flag it stands for", () => {
+  test("carries an alias to the flag it represents", () => {
     expect(said(["--tail", "5"]).named[LIMIT_SAID]).toBe("5")
   })
 

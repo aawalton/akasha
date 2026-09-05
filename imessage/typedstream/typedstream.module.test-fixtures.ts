@@ -57,7 +57,7 @@ export const UNREADABLE: readonly (readonly [string, string])[] = [
   ["length form 0x80", unknownLengthForm("80", ASCII_TEXT)],
   ["length form 0x83", unknownLengthForm("83", ASCII_TEXT)],
   ["length form 0xfe", unknownLengthForm("fe", ASCII_TEXT)],
-  ["payload marker stands before the class marker", `${PAYLOAD}05${hex("hello")}${NSSTRING}`],
+  ["payload marker sits before the class marker", `${PAYLOAD}05${hex("hello")}${NSSTRING}`],
 ]
 
 export const READABLE: readonly (readonly [string, string, string])[] = [

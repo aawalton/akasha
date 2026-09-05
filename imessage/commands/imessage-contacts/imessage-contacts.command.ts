@@ -25,7 +25,7 @@ export const imessageContacts = {
     },
     {
       invariantKind: "departure",
-      statement: "A run of letters standing anywhere in the name matches.",
+      statement: "A run of letters anywhere in the name matches.",
     },
     {
       invariantKind: "departure",
