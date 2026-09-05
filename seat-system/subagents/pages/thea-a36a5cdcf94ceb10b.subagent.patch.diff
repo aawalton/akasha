@@ -1,0 +1,167 @@
+diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts
+index 154688905e2d6d1f4f27d6f3df3bcd85f31d8c57..7146397adbe4fe5b246e172063825e660d61811b 100644
+--- a/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts
++++ b/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts
+@@ -2,6 +2,7 @@ import { readdirSync } from "node:fs"
+ import { dirname, join, resolve } from "node:path"
+ import { textIn } from "@akasha/code-system/body-text"
+ import { parsedAs } from "@akasha/code-system/code-source"
++import { specifiersIn } from "@akasha/code-system/code-specifier"
+ import {
+   compiled,
+   directoriesIn,
+@@ -11,7 +12,6 @@ import {
+   servedOf,
+ } from "@akasha/code-system/code-typing"
+ import { reachesIn } from "@akasha/code-system/package-manifest"
+-import { rootRoute } from "@akasha/code-system/router-app/root-route"
+ import { reachingInto } from "@akasha/graph/graph-asking"
+ import { importEdge } from "@akasha/graph/import-edge"
+ import type { Answering } from "@akasha/indexes/answering"
+@@ -35,9 +35,7 @@ const ELSEWHERE = "the akasha folder does not compile as this change leaves it"
+ 
+ const OMIT = "Omit"
+ 
+-const ROUTER_APP = ".router-app.ts"
+-
+-const ROUTES = "routes/"
++const TYPEGEN = "+types"
+ 
+ const DECLARED = ".d.ts"
+ 
+@@ -93,26 +91,19 @@ export function reachedBy(change: Change, index: Answering): readonly string[] {
+   return reachingInto(seeds, [IMPORT], index, compiled)
+ }
+ 
+-export function routingIn(index: Answering): readonly string[] {
+-  const found = new Set<string>()
+-  for (const one of index.everyPath()) {
+-    if (!one.endsWith(ROUTER_APP)) continue
+-    const app = dirname(one)
+-    found.add(`${app}/${ROUTES}`)
+-    found.add(`${app}/${rootRoute.fileName}`)
+-  }
+-  return [...found].sort()
+-}
+-
+-export function routed(path: string, folders: readonly string[]): boolean {
+-  return folders.some((one) => path.startsWith(one))
++export function reachesTypegen(path: string, text: string): boolean {
++  return specifiersIn(path, text).some((one) => one.split("/").includes(TYPEGEN))
+ }
+ 
+ export function rootsOf(change: Change, index: Answering): readonly string[] {
+-  const held = reachedBy(change, index).filter((one) => change.after(one) !== null)
+-  if (held.length === 0) return held
+-  const folders = routingIn(index)
+-  return held.filter((one) => !routed(one, folders))
++  const found: string[] = []
++  for (const one of reachedBy(change, index)) {
++    const bytes = change.after(one)
++    if (bytes === null) continue
++    if (reachesTypegen(one, textIn(bytes))) continue
++    found.push(one)
++  }
++  return found
+ }
+ 
+ export function declaringIn(change: Change, index: Answering): readonly string[] {
+diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts
+index 552a23f150441c24380269c6e243f03552e6bcee..566093ea0af6a9d67dd8a6b24e368360a1e24dfb 100644
+--- a/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts
++++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts
+@@ -61,6 +61,9 @@ export const TAKES_NUMBER = "export function held(one: number): number {\n  retu
+ 
+ export const CALLS_HELD = 'import { held } from "./held.ts"\nexport const one = held(1)\n'
+ 
++export const IMPORTS_TYPEGEN =
++  'import type { Route } from "./+types/two"\n\nexport const two: Route = 1\n'
++
+ const PAGE_TYPE = "page-type"
+ 
+ const TEXT_PROPERTY = "text-property"
+diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
+index 3b01cb88dc426e88abea4a958dc7e3ad06d53c2e..7e34326d57e95aa51d56f42d21967d315fd6a9b8 100644
+--- a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
++++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
+@@ -8,6 +8,7 @@ import {
+   configOf,
+   omittingIn,
+   reachedBy,
++  reachesTypegen,
+   rootsOf,
+   servingOf,
+   typecheck,
+@@ -21,6 +22,7 @@ import {
+   EARLY,
+   generating,
+   HERE,
++  IMPORTS_TYPEGEN,
+   LOADED_AT,
+   MADE,
+   ONE_NUMBER,
+@@ -346,3 +348,23 @@ test("a diagnostic carried in a chain is one reason", async () => {
+   expect(said).toHaveLength(1)
+   expect(said[0]?.reason).toContain("missing")
+ })
++
++test("what is passed over is what imports generated route types rather than where it sits", () => {
++  expect(reachesTypegen("routes/one.ts", 'import type { Route } from "./+types/one"\n')).toBe(true)
++  expect(reachesTypegen("routes/one.ts", "export const one = 1\n")).toBe(false)
++  expect(reachesTypegen("held.ts", 'export const said = "./+types/root"\n')).toBe(false)
++})
++
++test("a body importing generated route types is reached and left unjudged", async () => {
++  const root = staged({ "akasha/one.ts": ONE_NUMBER })
++  const held = change(root, { "akasha/two.ts": IMPORTS_TYPEGEN })
++  expect(reached(held)).toEqual(["akasha/two.ts"])
++  expect(await judged(held)).toEqual([])
++})
++
++test("a body sitting under a routes folder and importing none of them is judged", async () => {
++  const root = staged({ "akasha/routes/one.ts": ONE_NUMBER })
++  const said = await over(root, "akasha/routes/one.ts", "export const one: string = 1\n")
++  expect(said).toHaveLength(1)
++  expect(said[0]?.path).toBe("akasha/routes/one.ts")
++})
+diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.ts
+index 06af313de87ae773da6f858fdff4561c59df5523..28bf867ab25d12d38a54dabd9420f69c7e6114cc 100644
+--- a/checks/code-checks/pages/typecheck/typecheck.code-check.ts
++++ b/checks/code-checks/pages/typecheck/typecheck.code-check.ts
+@@ -46,11 +46,11 @@ export const typecheck = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file under a router app's routes folder is not judged.",
++      statement: "A file importing a router app's generated route types is not judged.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A router app's root route is not judged.",
++      statement: "A file under a routes folder importing none of them is judged like any other.",
+     },
+     {
+       invariantKind: "constraint",
+@@ -67,7 +67,7 @@ export const typecheck = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A router app's routes and its root route are judged by the app's own compile.",
++      statement: "A file importing generated route types is judged by its own app's compile.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/commands/typecheck/typecheck.command.code.ts b/commands/typecheck/typecheck.command.code.ts
+index 90eb65d7685a976ca3330a188a1db45a0409de3d..8a4a3fb21a1be13941b39b74aacb4156e08cd4f1 100644
+--- a/commands/typecheck/typecheck.command.code.ts
++++ b/commands/typecheck/typecheck.command.code.ts
+@@ -159,8 +159,7 @@ export async function typecheck(argv: readonly string[], given: Given): Promise<
+     return {
+       report: [],
+       refusals: unjudged.map(
+-        (one) =>
+-          `${one} was not judged — a router app's own compile judges its routes, and this does not`
++        (one) => `${one} was not judged — nothing in the tree holds the route types it imports`
+       ),
+       code: 3,
+     }
