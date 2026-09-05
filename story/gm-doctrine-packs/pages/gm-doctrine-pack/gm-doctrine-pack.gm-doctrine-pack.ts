@@ -1,4 +1,4 @@
-import type { GmDoctrinePack } from "../gm-doctrine-pack.page-type.ts"
+import type { GmDoctrinePack } from "../../gm-doctrine-pack.page-type.ts"
 
 export const gmDoctrinePack = {
   id: "01a06590-c57a-7618-b2b3-74a985855b84",
