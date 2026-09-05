@@ -1,0 +1,13 @@
+diff --git a/alan/harness/monarch/eval-agent/monarch-eval-agent.module.ts b/alan/harness/monarch/eval-agent/monarch-eval-agent.module.ts
+index dbc3c7b54fe07c1cedb1dfef336b097e014abaa8..acb0c180654f24d41ac1f0697aa73c3f7da24974 100644
+--- a/alan/harness/monarch/eval-agent/monarch-eval-agent.module.ts
++++ b/alan/harness/monarch/eval-agent/monarch-eval-agent.module.ts
+@@ -13,7 +13,7 @@ export const monarchEvalAgent = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Uncategorized is not offered, because it is no answer.",
++      statement: "Uncategorized is not offered, because Uncategorized is no answer.",
+     },
+     {
+       invariantKind: "departure",
