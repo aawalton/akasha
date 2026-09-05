@@ -32,7 +32,7 @@ export const harnessLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A dry run reports the sizes it would write and commits nothing.",
+      statement: "A dry run reports the sizes that run would write and commits nothing.",
     },
     {
       invariantKind: "departure",
