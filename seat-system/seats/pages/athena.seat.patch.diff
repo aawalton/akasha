@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/story/games/pages/the-violet-hour/the-violet-hour.game.gm-context.json b/story/games/pages/the-violet-hour/the-violet-hour.game.gm-context.json
-index fc5f01cf5118d067b1a825a8e99b8141294cf6f4..ed117d2b7d5d816f1190db1f027ceb84e4d0669e 100644
+index fc5f01cf5118d067b1a825a8e99b8141294cf6f4..70ef88231b019cd45c4941ca33287fda290577d1 100644
 --- a/story/games/pages/the-violet-hour/the-violet-hour.game.gm-context.json
 +++ b/story/games/pages/the-violet-hour/the-violet-hour.game.gm-context.json
 @@ -384,12 +384,12 @@
@@ -18,3 +18,12 @@ index fc5f01cf5118d067b1a825a8e99b8141294cf6f4..ed117d2b7d5d816f1190db1f027ceb84
        },
        {
          "id": "incorporate",
+@@ -399,7 +399,7 @@
+       {
+         "id": "publish",
+         "detail": "requiresPerTurnGate is OFF for this game.",
+-        "requirement": "Publish the drafted turn with `bun ops awen publish-turn`. There is NO player action, NO per-turn gate, and NO recorded verdict — the scene goes live directly once the author is satisfied."
++        "requirement": "Publish the drafted turn. There is NO player action, NO per-turn gate, and NO recorded verdict — the scene goes live directly once the author is satisfied."
+       }
+     ]
+   },
