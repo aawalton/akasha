@@ -12,7 +12,6 @@ export const inferenceApply = {
     "the services are the ones the registry declares, grouped by the host each names.",
     "these hosts are outside the cluster, and each service is reached over ssh and held by launchd.",
     "a service already at the hash its inputs carry is applied again by nothing.",
-    "a managed service the registry no longer declares is taken away.",
     "the answer is how many were applied, how many were passed over, and how many were taken away.",
   ],
   invariants: [
