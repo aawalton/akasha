@@ -1,0 +1,13 @@
+diff --git a/commands/move/move.command.test-fixtures.ts b/commands/move/move.command.test-fixtures.ts
+index 305a1e9c42f0ded35a9eb4aeb6f7c834e681ec94..01609f88b82c13b8cfda709c68a21ece18d7f17a 100644
+--- a/commands/move/move.command.test-fixtures.ts
++++ b/commands/move/move.command.test-fixtures.ts
+@@ -123,7 +123,7 @@ export function repoWith(named: Readonly<Record<string, string>>): string {
+   git(root, ["commit", "--quiet", "-m", "first"])
+   writeFileSync(
+     join(root, ".git/info/exclude"),
+-    "akasha/*.code-check.ts\nakasha/*.code-check.code.ts\n*.uncommitted.ts\n"
++    "akasha/*.code-check.ts\nakasha/*.code-check.code.ts\n*.uncommitted.ts\n*.uncommitted.jsonl\n"
+   )
+   return rebuilt(root)
+ }
