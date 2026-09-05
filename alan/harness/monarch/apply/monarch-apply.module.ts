@@ -13,8 +13,7 @@ export const monarchApply = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A reservation names no category to set and is refused, because it is answered by somebody saying what the transaction is.",
+      statement: "A reservation names no category to set and is refused.",
     },
     {
       invariantKind: "departure",
