@@ -535,3 +535,11 @@ index fc52d95b689c69e990eccd0923789b0e2a0a39e5..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-alchemy
 \ No newline at end of file
+diff --git a/temper/temper-antiquities-addon/temper-antiquities-addon b/temper/temper-antiquities-addon/temper-antiquities-addon
+deleted file mode 120000
+index 5edea6c56dba365befee23d374211cf500ff16b7..0000000000000000000000000000000000000000
+--- a/temper/temper-antiquities-addon/temper-antiquities-addon
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-antiquities-addon
+\ No newline at end of file
