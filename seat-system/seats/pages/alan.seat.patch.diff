@@ -87,3 +87,16 @@ index 6d905d6b408bbbf4b9bf3a96e1d019c8441d4afa..d5fb3f895a65509392d0135a03ec3eb4
      '  if [ -z "$full_sid" ]; then',
      `    if [ "$(${tmuxServerCountShell()})" -gt 1 ]; then`,
      `      echo "${name}: more than one tmux server is running and this socket reaches only one ` +
+diff --git a/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.test.ts b/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.test.ts
+index 078fd4409dc6a8c354ce87cf58b1ab9b59515645..1f67ccdc0169351d3e855eef5328acc5e188e0fc 100644
+--- a/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.test.ts
++++ b/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.test.ts
+@@ -114,7 +114,7 @@ describe("a fresh seat", () => {
+ describe("a resume", () => {
+   test("attaches to a live session without asking anything to start it", () => {
+     expect(resuming.indexOf(`${SEAT_LIVE_FN} "$name"`)).toBeLessThan(
+-      resuming.indexOf("ops seat resume")
++      resuming.indexOf("seat-resume.module.code.ts")
+     )
+     expect(resuming).toContain('tmux attach-session -t "=$name"\n    return $?')
+   })
