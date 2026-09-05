@@ -44,7 +44,7 @@ export const blockAkashaReads = {
     },
     {
       invariantKind: "gap",
-      statement: "What an agent has seen of an akasha file is what its record shows.",
+      statement: "The body of an akasha file an agent has seen is the body its record shows.",
     },
   ],
 } as const satisfies AgentHook
