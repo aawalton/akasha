@@ -41,7 +41,7 @@ export const music = {
     },
     {
       invariantKind: "departure",
-      statement: "Music keeps what was made apart from what was heard.",
+      statement: "Music keeps the songs made apart from the plays heard.",
     },
   ],
 } as const satisfies Domain
