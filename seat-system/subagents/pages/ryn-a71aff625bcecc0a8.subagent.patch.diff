@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/indexes/package-reaching/package-reaching.module.ts b/pages/indexes/package-reaching/package-reaching.module.ts
+index 1d4f007a6f4a15a75d2f797131e03f0fcb7bb20b..fddde73e4d07a56e78fb810bc05f0d073683beac 100644
+--- a/pages/indexes/package-reaching/package-reaching.module.ts
++++ b/pages/indexes/package-reaching/package-reaching.module.ts
+@@ -30,7 +30,8 @@ export const packageReaching = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A body is read through what the caller hands in rather than off the disk here.",
++      statement:
++        "A body is read through the reader the caller hands in rather than off the disk here.",
+     },
+     {
+       invariantKind: "departure",
