@@ -77,3 +77,16 @@ index 31c24923e5b8f0f2189087d642de9e4e95e5729e..ef6c9427bb6b681c72d72c053a4943ca
      },
      {
        invariantKind: "departure",
+diff --git a/reminder-system/due-reminder-sending/due-reminder-sending.module.ts b/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
+index 9dde807d51da4e0b71c8de185e50225938dc5605..4c300a02516f0d456593531a7ea88fec613c21fc 100644
+--- a/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
++++ b/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
+@@ -41,7 +41,7 @@ export const dueReminderSending = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A reminder whose schedule systemd will not read is reported and passed over rather than stopping the run.",
++        "A reminder whose schedule systemd refuses is reported and passed over rather than stopping the run.",
+     },
+     {
+       invariantKind: "departure",
