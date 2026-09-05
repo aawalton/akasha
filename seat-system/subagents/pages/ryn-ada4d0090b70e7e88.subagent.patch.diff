@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/utils-process/process-ending/process-ending.module.ts b/utils-process/process-ending/process-ending.module.ts
+index 265b098a22beb7d465bc60e18f98a126c1fa6c2b..5f0c8ddf4e8eface609d7d36c237bb76774b0a35 100644
+--- a/utils-process/process-ending/process-ending.module.ts
++++ b/utils-process/process-ending/process-ending.module.ts
+@@ -40,7 +40,8 @@ export const processEnding = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows what a process was running or what the process belonged to.",
++      statement:
++        "Nothing here knows the command a process was running or the owner of that process.",
+     },
+     {
+       invariantKind: "absence",
