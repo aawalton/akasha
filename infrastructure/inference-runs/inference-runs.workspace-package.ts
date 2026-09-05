@@ -19,7 +19,8 @@ export const inferenceRuns = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A run is written down before it starts rather than once it has finished.",
+      statement:
+        "A run is written down before that run starts rather than once that run has finished.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +28,8 @@ export const inferenceRuns = {
     },
     {
       invariantKind: "departure",
-      statement: "What a run made is kept as an object and named from the page it was made under.",
+      statement:
+        "What a run made is kept as an object and named from the page that object was made under.",
     },
     {
       invariantKind: "absence",
