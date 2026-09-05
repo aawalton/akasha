@@ -68,8 +68,7 @@ export const zimage = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A checkpoint already standing staged at the size it carries is staged no second time.",
+      statement: "A checkpoint already staged at the size it carries is staged no second time.",
     },
     {
       invariantKind: "departure",

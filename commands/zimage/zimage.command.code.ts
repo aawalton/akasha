@@ -203,8 +203,8 @@ async function staged(
   const digest = createHash("sha256").update(sourcePath).digest("hex").slice(0, STAGED_DIGEST)
   const name = `${digest}-${basename(sourcePath)}`
   const dest = join(lorasDir, name)
-  const standing = await stat(dest).catch(() => undefined)
-  if (standing !== undefined && standing.size === came.size) return { name }
+  const found = await stat(dest).catch(() => undefined)
+  if (found !== undefined && found.size === came.size) return { name }
   await mkdir(lorasDir, { recursive: true })
   const scratch = `${dest}.staging-${process.pid}`
   await copyFile(sourcePath, scratch)
@@ -254,7 +254,7 @@ async function generating(read: Taken, given: Given, report: string[]): Promise<
     const held = await staged(at(given, loraSaid), join(homeIn(), "models", "loras"))
     if ("why" in held) return refused(held.why, 2)
     loraName = held.name
-    report.push(`the checkpoint stands staged as loras/${loraName}, mixed in at ${loraStrength}`)
+    report.push(`the checkpoint is staged as loras/${loraName}, mixed in at ${loraStrength}`)
   }
 
   const baseUrl = `http://127.0.0.1:${portIn()}`
@@ -283,7 +283,7 @@ async function generating(read: Taken, given: Given, report: string[]): Promise<
   const png = await fetchImage(baseUrl, run.image)
   await mkdir(dirname(outPath), { recursive: true })
   await writeFile(outPath, png)
-  report.push(`${png.byteLength} bytes stand at ${outPath}, at seed ${seed}`)
+  report.push(`${png.byteLength} bytes are at ${outPath}, at seed ${seed}`)
   return { report, refusals: [], code: 0 }
 }
 

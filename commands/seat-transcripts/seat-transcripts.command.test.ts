@@ -32,7 +32,7 @@ function holding(byId: Readonly<Record<string, string>>): (agentId: string) => H
   }
 }
 
-test("each seat carries its agent id, its seat name and where its transcript stands", () => {
+test("each seat carries its agent id, its seat name and where its transcript is", () => {
   const found = transcriptsOver(
     SEATS,
     holding({

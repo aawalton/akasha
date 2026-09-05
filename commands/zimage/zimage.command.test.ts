@@ -28,7 +28,7 @@ test("a flag it does not take is refused", () => {
   if ("refused" in said) expect(said.refused[0]).toContain("--wat")
 })
 
-test("the mflux defaults stand where nothing said them", () => {
+test("the mflux defaults hold where nothing said them", () => {
   const said = readIn(["generate", "--prompt", "a cat", "--output", "/var/tmp/a.png"])
   expect("refused" in said).toBe(false)
   if (!("refused" in said)) {

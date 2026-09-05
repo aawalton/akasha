@@ -4,7 +4,7 @@ export const seatTranscripts = {
   id: "01a06934-ff28-7819-ad05-c50a0471362c",
   pageTypeSlug: "command",
   slug: "seat-transcripts",
-  definition: "the command saying where each seat's transcript file stands",
+  definition: "the command saying where each seat's transcript file is",
   code: "ts",
   test: "ts",
   changeKindSlug: "change-none",
@@ -12,7 +12,7 @@ export const seatTranscripts = {
   helpNotes: [
     "it takes no word at all, and every word it is given is refused.",
     "it prints one JSON object carrying a `seats` list, and nothing else.",
-    "each seat in that list carries its agent id, its seat name, and where its transcript stands.",
+    "each seat in that list carries its agent id, its seat name, and where its transcript is.",
     "a seat is named by the index, so a seat kept only in akasha is answered here like any other.",
     "a transcript is read from the values kept beside a seat's page rather than from the page itself.",
     "a seat holding no transcript, or holding an empty one, is left out rather than answered with an empty path.",
