@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/entry-landing/page-entry-landing.module.ts b/pages/entry-landing/page-entry-landing.module.ts
-index d613825a43dee00be655ea8b87c88e644d02694d..1aac778ef2a79e8c68613fad5cbea21c953b4773 100644
+index d613825a43dee00be655ea8b87c88e644d02694d..1fe0f5bfba651fff4ca94798ac9e95f8ee85e6eb 100644
 --- a/pages/entry-landing/page-entry-landing.module.ts
 +++ b/pages/entry-landing/page-entry-landing.module.ts
 @@ -18,7 +18,7 @@ export const pageEntryLanding = {
@@ -12,3 +12,12 @@ index d613825a43dee00be655ea8b87c88e644d02694d..1aac778ef2a79e8c68613fad5cbea21c
      },
      {
        invariantKind: "departure",
+@@ -68,7 +68,7 @@ export const pageEntryLanding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is written here is read back by `page-entries` in the order written.",
++      statement: "The values written here are read back by `page-entries` in the order written.",
+     },
+     {
+       invariantKind: "absence",
