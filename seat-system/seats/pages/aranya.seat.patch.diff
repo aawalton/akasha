@@ -135,3 +135,11 @@ index 67581680d2036f309843782ce52c2fca5a907be7..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../day
 \ No newline at end of file
+diff --git a/digit-padding/digit-padding b/digit-padding/digit-padding
+deleted file mode 120000
+index 07a832c8d229080722eabee372b05b038347eedc..0000000000000000000000000000000000000000
+--- a/digit-padding/digit-padding
++++ /dev/null
+@@ -1 +0,0 @@
+-../../digit-padding
+\ No newline at end of file
