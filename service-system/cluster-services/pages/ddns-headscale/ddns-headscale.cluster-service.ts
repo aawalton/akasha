@@ -10,6 +10,5 @@ export const ddnsHeadscale = {
   resourceName: "ddns-headscale",
   image: "registry.registry.svc.cluster.local:5000/cluster/ci:latest",
   schedule: "*/5 * * * *",
-  manifestCode:
-    "service-system/cluster-services/pages/ddns-headscale/ddns-headscale.cluster-service.code.attachment.ts",
+  manifestSlug: "ddns-headscale",
 } as const satisfies ClusterService
