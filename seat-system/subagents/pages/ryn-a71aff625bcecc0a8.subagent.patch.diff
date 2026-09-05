@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/queries/page-query.page-type.ts b/pages/queries/page-query.page-type.ts
+index 2bfc2a0307207d0493aae2e9c33ee70eba095975..bcbc9ad73fb201d561b1878e091c6aa3113f1700 100644
+--- a/pages/queries/page-query.page-type.ts
++++ b/pages/queries/page-query.page-type.ts
+@@ -87,7 +87,7 @@ export const pageQuery = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A query refuses what the query cannot read.",
++      statement: "A query refuses anything the query cannot read.",
+     },
+     {
+       invariantKind: "absence",
