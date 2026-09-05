@@ -12,6 +12,7 @@ import {
   mistaking,
   textAt,
   textOf,
+  unloadableIn,
 } from "../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
 import {
@@ -308,8 +309,10 @@ export async function applying(
     return { report: [], refusals: [`the checks would not load — ${built.broken}`], code: 3 }
   }
   const gate = broken === null && "gate" in built ? built.gate : NO_GATE
+  const unloaded = "gate" in built ? null : built.broken
   const said0 = message.message ?? WHY
-  const why = broken === null ? said0 : bypassedIn(said0, broken)
+  const bypassed = broken === null ? said0 : bypassedIn(said0, broken)
+  const why = unloaded === null || broken === null ? bypassed : unloadableIn(bypassed, unloaded)
   try {
     const said = await applied(given.root, page, given.agentId, why, gate, given.writer)
     if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }

@@ -214,10 +214,14 @@ function bypassIn(given: Given, asked: Asked): Bypass | null {
   return { reason: said, said }
 }
 
+export function unloadableIn(message: string, broken: string): string {
+  return `${message}\nChecks-unloadable: ${broken}`
+}
+
 function messageWith(asked: Asked, bypass: Bypass | null, broken: string | null): string {
   if (bypass === null) return asked.message
   const held = bypassedIn(asked.message, bypass.reason)
-  return broken === null ? held : `${held}\nChecks-unloadable: ${broken}`
+  return broken === null ? held : unloadableIn(held, broken)
 }
 
 export function wroteAndTook(said: Landed): readonly string[] {
