@@ -9,7 +9,7 @@ export const completionAccountRecipeScribingUnion = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What one character knows counts as known for the account.",
+      statement: "A recipe or a script one character knows counts as known for the account.",
     },
   ],
 } as const satisfies Module
