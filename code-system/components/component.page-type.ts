@@ -1,10 +1,13 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { ComponentCode } from "./properties/component-code.file-property.ts"
+import type { ComponentTest } from "./properties/component-test.file-property.ts"
+import type { ComponentTestFixtures } from "./properties/component-test-fixtures.file-property.ts"
 
 export type Component = Domain & {
-  code: "tsx"
-  test?: "tsx"
-  testFixtures?: "tsx"
+  code: ComponentCode
+  test?: ComponentTest
+  testFixtures?: ComponentTestFixtures
 }
 
 export const component = {
