@@ -17,11 +17,11 @@ export const emailMessage = {
     },
     {
       invariantKind: "departure",
-      statement: "A message belongs to the one account it arrived in.",
+      statement: "A message belongs to the one account that message arrived in.",
     },
     {
       invariantKind: "absence",
-      statement: "No message is written to a file of its own; the account holds it.",
+      statement: "No message is written to a file of its own; the account holds that message.",
     },
     {
       invariantKind: "gap",
