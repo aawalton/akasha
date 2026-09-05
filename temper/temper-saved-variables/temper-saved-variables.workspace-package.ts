@@ -23,7 +23,7 @@ export const temperSavedVariables = {
     },
     {
       invariantKind: "constraint",
-      statement: "What the game wrote is taken as written rather than corrected.",
+      statement: "The file the game wrote is taken as written rather than corrected.",
     },
     {
       invariantKind: "constraint",
