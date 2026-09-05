@@ -1,3 +1,18 @@
+diff --git a/agents/properties/patch.file-property.ts b/agents/properties/patch.file-property.ts
+index 9313838b314caadf8a7ba73e63f6f4d2c7d191f8..a6de05d1c6d0430b7209f13e8dee866780dc1006 100644
+--- a/agents/properties/patch.file-property.ts
++++ b/agents/properties/patch.file-property.ts
+@@ -18,6 +18,10 @@ export const patch = {
+       invariantKind: "departure",
+       statement: "A patch names the blob a hunk started from.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A line before the first diff header is no part of the diff git reads.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A patch states no base of its own.",
 diff --git a/command-system/applying/applying.module.code.ts b/command-system/applying/applying.module.code.ts
 index 60e75d5a0fd9a188ba68e270f47b43299ae903e7..95033c2d54c58bab1fc98d59ded83001545d557e 100644
 --- a/command-system/applying/applying.module.code.ts
@@ -34,6 +49,29 @@ index 60e75d5a0fd9a188ba68e270f47b43299ae903e7..95033c2d54c58bab1fc98d59ded83001
    if ("refusals" in done) return done
    if (agentId !== null) recordedAsLanded(root, agentId, formatting.changes)
    droppedPatch(root, page, APPLIED)
+diff --git a/command-system/applying/applying.module.ts b/command-system/applying/applying.module.ts
+index ab0298703620ec8fb21902a2956c00493b809600..4b43f66eec2843078f58cecbb85be59fd22f516d 100644
+--- a/command-system/applying/applying.module.ts
++++ b/command-system/applying/applying.module.ts
+@@ -113,6 +113,18 @@ export const applying = {
+       invariantKind: "absence",
+       statement: "Nothing is applied where no patch is kept.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "An apply over a patch that is mechanical runs no check.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Why no check ran is said in the commit the apply makes.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An apply over a patch that is not mechanical is judged as any authored apply is.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here takes the hold.",
 diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
 index 2b0e21ab7f6302ee0d6480d638963c29b0f8b998..97ebad6c29acfeaf9ed614c5fb7e832a66a8466a 100644
 --- a/command-system/asking/asking.module.code.ts
@@ -195,6 +233,26 @@ index 2b0e21ab7f6302ee0d6480d638963c29b0f8b998..97ebad6c29acfeaf9ed614c5fb7e832a
 +    }
    )
  }
+diff --git a/command-system/asking/asking.module.ts b/command-system/asking/asking.module.ts
+index fdc0ee62f2ab46f415361e8b126c8db29fbf977a..84390de47fe7b38b158a9717265ffc263ee50d26 100644
+--- a/command-system/asking/asking.module.ts
++++ b/command-system/asking/asking.module.ts
+@@ -188,6 +188,15 @@ export const asking = {
+       statement:
+         "A body holding a page's text in a template is no page and is judged for no export name.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "A mechanical change under an agent id is drafted into that agent's patch rather than landed.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A mechanical change under no agent id is landed rather than drafted.",
++    },
+     {
+       invariantKind: "gap",
+       statement: "A caller is never told nothing happened when something did.",
 diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
 index 4de99c8c11a3867fd5c449e24aa480d6d3403413..0a47a917ce5546869dd5738e74380a3d285cf24e 100644
 --- a/command-system/drafting/drafting.module.code.ts
@@ -269,6 +327,49 @@ index 4de99c8c11a3867fd5c449e24aa480d6d3403413..0a47a917ce5546869dd5738e74380a3d
      answer = kept
      return kept.patch
    })
+diff --git a/command-system/drafting/drafting.module.ts b/command-system/drafting/drafting.module.ts
+index d4b3f6dd34ce7e1a843e07e8558ede5a5ac7ee9e..82178b6b0e0639e2ff134e9d533ed6ea4442acfb 100644
+--- a/command-system/drafting/drafting.module.ts
++++ b/command-system/drafting/drafting.module.ts
+@@ -192,5 +192,38 @@ export const drafting = {
+       invariantKind: "absence",
+       statement: "No check judges the body of a patch file.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A patch carries whether every change drafted into that patch was mechanical.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A patch a mechanical change opens is mechanical.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An authored change drafted into a patch leaves that patch no longer mechanical.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body resolved leaves the patch no longer mechanical.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A patch no longer mechanical is mechanical again for no later change.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Whether a patch is mechanical is one line before the first diff header.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A patch that is not mechanical carries no line before the first diff header.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A patch taken in from another agent is mechanical only where that agent's patch was mechanical.",
++    },
+   ],
+ } as const satisfies Module
 diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
 index 9d167bdd18ff7f4d663fa217f9fbc0d46529f01e..326aaeb97d1bcd1e51687816bbe4ce0dcbf3c341 100644
 --- a/command-system/landing/landing.module.code.ts
@@ -307,3 +408,17 @@ index 9d167bdd18ff7f4d663fa217f9fbc0d46529f01e..326aaeb97d1bcd1e51687816bbe4ce0d
      )
    }
    if (said.length > 0) {
+diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
+index a3b219e86dbb5ce48066708b5e022158caaade27..034fc3932065fe38b1be50038862f0233b714ef5 100644
+--- a/command-system/landing/landing.module.ts
++++ b/command-system/landing/landing.module.ts
+@@ -265,5 +265,9 @@ export const landing = {
+       invariantKind: "departure",
+       statement: "A draft answers which paths the patch carries a conflict at.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A draft says whether the change drafted into the patch was mechanical.",
++    },
+   ],
+ } as const satisfies Module
