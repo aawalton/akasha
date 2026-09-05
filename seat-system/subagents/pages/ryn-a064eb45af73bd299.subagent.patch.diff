@@ -13,3 +13,19 @@ index 249ec46fda0cb48f3f762427419f3c9e1ce01349..d7be2bd99d0123f49f644a082056f03c
      {
        invariantKind: "departure",
        statement:
+diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-libc-by-name/no-libc-by-name.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-libc-by-name/no-libc-by-name.syntax-rule.ts
+index 48f5e721254bc7b72ed5897d3cac0aa869734996..e35dd7462da4063b3fc68df9ff829bf8ea4ab9f0 100644
+--- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-libc-by-name/no-libc-by-name.syntax-rule.ts
++++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-libc-by-name/no-libc-by-name.syntax-rule.ts
+@@ -17,10 +17,7 @@ export const noLibcByName = {
+       invariantKind: "departure",
+       statement: "`libc.so.6` names no library of any kind where musl runs.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A call is found in the parse and never in the text.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "`dlopen` reached through an object is refused as a bare one is.",
