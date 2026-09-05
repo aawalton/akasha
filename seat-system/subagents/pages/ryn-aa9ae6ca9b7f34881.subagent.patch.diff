@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/music/catalog/musicbrainz-map/musicbrainz-map.module.ts b/alan/music/catalog/musicbrainz-map/musicbrainz-map.module.ts
+index 19934e05ffc523bb30a04c5913007312e72d6d51..5081ed401221f5c3ad2dc0eba6cf14f9aa66611a 100644
+--- a/alan/music/catalog/musicbrainz-map/musicbrainz-map.module.ts
++++ b/alan/music/catalog/musicbrainz-map/musicbrainz-map.module.ts
+@@ -30,7 +30,7 @@ export const musicbrainzMap = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Whoever MusicBrainz names composer of a work wrote the work.",
++      statement: "The person MusicBrainz names composer of a work wrote the work.",
+     },
+     {
+       invariantKind: "departure",
