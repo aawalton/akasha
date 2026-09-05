@@ -11,7 +11,7 @@ export const monarchLandFiles = {
     {
       invariantKind: "departure",
       statement:
-        "A month page sits in a folder of its own with its transactions entry file beside it.",
+        "A month page sits in a folder of its own with its transactions entry file beside that page.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,7 @@ export const monarchLandFiles = {
     {
       invariantKind: "departure",
       statement:
-        "A category we decided is held against one arriving from Monarch, and holding it is said.",
+        "A category akasha decided is held against one arriving from Monarch, and that holding is said.",
     },
     {
       invariantKind: "departure",
@@ -56,7 +56,8 @@ export const monarchLandFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "The landing is made from inside akasha rather than through anything outside it.",
+      statement:
+        "The landing is made from inside akasha rather than through anything outside akasha.",
     },
   ],
 } as const satisfies Module
