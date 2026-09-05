@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/story/story.domain.ts b/story/story.domain.ts
+index bf0d3535b8df51c8a832b13f0f298f099a98d09c..df3375e4bdab097cfb626f4df8793dd4203fda1e 100644
+--- a/story/story.domain.ts
++++ b/story/story.domain.ts
+@@ -34,7 +34,7 @@ export const story = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "How a story is meant to read is kept apart from what the story says.",
++      statement: "How a story is meant to read is kept apart from the words the story says.",
+     },
+     {
+       invariantKind: "departure",
