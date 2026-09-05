@@ -258,10 +258,7 @@ export const track = {
       invariantKind: "departure",
       statement: "Both halves a `split` makes carry the relationships of the stretch parted.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A title carrying a relationship's alias tags the stretch with that relationship.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A relationship a title tags is kept beside one `--relationship` names.",
