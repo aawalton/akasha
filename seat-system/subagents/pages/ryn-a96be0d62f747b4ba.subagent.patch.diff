@@ -26,7 +26,7 @@ index 09ced8528387b373fd1d89ce511a6f3aff78b1c4..c284295ddad8ee85cc824080ca60278f
      {
        invariantKind: "departure",
 diff --git a/alan/harness/monarch/eval/monarch-eval.domain.ts b/alan/harness/monarch/eval/monarch-eval.domain.ts
-index fa5a97f4fe748342184d19cfda53ab2aeb068351..aba866b4d4b69194df60f612992c135340d219f0 100644
+index e56ef656e26325e188f2d007076dc85854641d9e..dcb85cb2ca33e35167a564c9efe2ce0c912c3bad 100644
 --- a/alan/harness/monarch/eval/monarch-eval.domain.ts
 +++ b/alan/harness/monarch/eval/monarch-eval.domain.ts
 @@ -27,7 +27,7 @@ export const monarchEval = {
@@ -74,7 +74,7 @@ index 21cacea8ed46cbd5c0b8fd1d3d1f989840ee419c..840bfc64c4a139ca666a3fbe33f1285d
      {
        invariantKind: "departure",
 diff --git a/alan/harness/notifications/push-notifying/push-notifying.module.ts b/alan/harness/notifications/push-notifying/push-notifying.module.ts
-index cd332f33a00dbec6bd1346c0fa122d6fc892f038..238e098085e7301b43f87f2444df8e343a5fc7ff 100644
+index 2c1f125381ebc19539bd8f0b937ab0d33833add9..18feda1897bafa93203a3a7b668652ac72b64e1b 100644
 --- a/alan/harness/notifications/push-notifying/push-notifying.module.ts
 +++ b/alan/harness/notifications/push-notifying/push-notifying.module.ts
 @@ -37,7 +37,7 @@ export const pushNotifying = {
@@ -124,6 +124,24 @@ index b709195f241d6427982442c35f3aa311a6922c0e..9dde807d51da4e0b71c8de185e502259
      },
      {
        invariantKind: "absence",
+diff --git a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
+index ae5654ad8054a61c5b6d3f5a50e3f1849fd17f3d..12084682434053ddd215753156090b838e271c03 100644
+--- a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
++++ b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
+@@ -40,8 +40,11 @@ export const supervisorLogSweeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "These files are gitignored, so no removal here reaches a commit and each goes with a plain remove rather than through the gated one.",
++      statement: "These files are gitignored.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Each removal here goes with a plain remove rather than through the gated remove.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/workspace-paths/stale-folders/stale-folders.module.ts b/workspace-paths/stale-folders/stale-folders.module.ts
 index 506a1ba4c4bdc9b2f97bb8e429204d1a2f7be325..5b0db6e4228b4d2917e85f5264cf0a912e824b09 100644
 --- a/workspace-paths/stale-folders/stale-folders.module.ts
