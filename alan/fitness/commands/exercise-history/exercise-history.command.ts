@@ -26,7 +26,7 @@ export const exerciseHistory = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A set takes its day from the session it was logged into.",
+      statement: "A set takes its day from the session that set was logged into.",
     },
     {
       invariantKind: "departure",
