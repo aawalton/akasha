@@ -23,7 +23,7 @@ export const proxy = {
     },
     {
       invariantKind: "departure",
-      statement: "A proxy short of any of these is no proxy at all.",
+      statement: "A proxy short of any of these fields is no proxy at all.",
     },
   ],
 } as const satisfies RecordProperty

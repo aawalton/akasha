@@ -10,7 +10,7 @@ export const kubectlPermissions = {
     {
       invariantKind: "departure",
       statement:
-        "A resource token this does not model is reported as unmodelled rather than skipped.",
+        "A resource token this module does not model is reported as unmodelled rather than skipped.",
     },
     {
       invariantKind: "departure",

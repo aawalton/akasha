@@ -32,7 +32,7 @@ export const blockTypecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A prefix that only runs the call behind it does not hide a `tsc` from this.",
+      statement: "A prefix that only runs the call behind it does not hide a `tsc` from this hook.",
     },
     {
       invariantKind: "departure",

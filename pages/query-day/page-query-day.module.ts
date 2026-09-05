@@ -14,7 +14,8 @@ export const pageQueryDay = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here says how a day is spelled; this is the name of the type alone.",
+      statement:
+        "Nothing here says how a day is spelled; this module is the name of the type alone.",
     },
   ],
 } as const satisfies Module

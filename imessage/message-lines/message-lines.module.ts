@@ -31,7 +31,7 @@ export const messageLines = {
     {
       invariantKind: "constraint",
       statement:
-        "The contact naming this takes is the shape of the contacts store rather than that module.",
+        "The contact naming this module takes is the shape of the contacts store rather than that module.",
     },
   ],
 } as const satisfies Module

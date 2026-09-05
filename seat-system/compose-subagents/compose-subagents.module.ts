@@ -9,7 +9,7 @@ export const composeSubagents = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This is run as its own program, killed at a ceiling by what asks it.",
+      statement: "This module is run as its own program, killed at a ceiling by what asks it.",
     },
     {
       invariantKind: "departure",

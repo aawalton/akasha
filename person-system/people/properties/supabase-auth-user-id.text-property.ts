@@ -17,7 +17,7 @@ export const supabaseAuthUserId = {
     },
     {
       invariantKind: "departure",
-      statement: "A person signing in nowhere states none of this.",
+      statement: "A person signing in nowhere states no account.",
     },
     {
       invariantKind: "departure",

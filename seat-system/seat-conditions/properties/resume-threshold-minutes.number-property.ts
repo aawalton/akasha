@@ -12,7 +12,7 @@ export const resumeThresholdMinutes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Only a headless seat carries this.",
+      statement: "Only a headless seat carries this property.",
     },
     {
       invariantKind: "departure",

@@ -71,7 +71,7 @@ export const markdownPages = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This reads markdown pages.",
+      statement: "This package reads markdown pages.",
     },
     {
       invariantKind: "departure",
