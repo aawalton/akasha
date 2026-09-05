@@ -335,3 +335,35 @@ index 55bd7e991072497daab3d3bc7e1f528ece4224fd..00000000000000000000000000000000
 -  max: 50,
 -  nameFormatSlug: "name-format/lower-camel-case",
 -} as const satisfies TextProperty
+diff --git a/temper/temper-progress/rule-templates/properties/conditions.page-property-entry.ts b/temper/temper-progress/rule-templates/properties/conditions.page-property-entry.ts
+index 824af7816577677e8ceba4a05df1156abdaeda75..ebf36cbeee9d926b42a13042f078cb3e695a519b 100644
+--- a/temper/temper-progress/rule-templates/properties/conditions.page-property-entry.ts
++++ b/temper/temper-progress/rule-templates/properties/conditions.page-property-entry.ts
+@@ -18,8 +18,12 @@ export const conditions = {
+       statement: "A rule stating no condition matches every item of its category.",
+     },
+     {
+-      invariantKind: "gap",
+-      statement: "What a field means is held by the code reading the field rather than here.",
++      invariantKind: "departure",
++      statement: "A field names a temper-condition-field page holding what the field tests.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The key a rule engine reads is held by that page rather than written here.",
+     },
+     {
+       invariantKind: "gap",
+diff --git a/temper/temper-progress/rule-templates/temper-rule-template.page-type.ts b/temper/temper-progress/rule-templates/temper-rule-template.page-type.ts
+index c0b1aadc8c01b2dad5769e21c6ae59dbc3fbfe8f..801236a61c013f8e408149fd4791415d1fda5ca5 100644
+--- a/temper/temper-progress/rule-templates/temper-rule-template.page-type.ts
++++ b/temper/temper-progress/rule-templates/temper-rule-template.page-type.ts
+@@ -27,7 +27,7 @@ export const temperRuleTemplate = {
+     "boolean-property/active",
+     "page-property-entry/conditions",
+     "relation-property/action",
+-    "text-property/condition-field",
++    "relation-property/condition-field",
+     "text-property/condition-value",
+     "text-property/destination",
+     "relation-property/goal",
