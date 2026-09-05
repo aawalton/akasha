@@ -92,6 +92,10 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
+      statement: "The folder of installed modules holds no test of this repository's.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Color is taken out before the summary is read.",
     },
     {

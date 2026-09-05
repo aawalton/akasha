@@ -110,8 +110,9 @@ export function testsIn(absolute: string): readonly string[] {
   const held: string[] = []
   for (const one of readdirSync(absolute, { withFileTypes: true })) {
     const at = join(absolute, one.name)
-    if (one.isDirectory()) held.push(...testsIn(at))
-    else if (one.isFile() && testNamed(one.name)) held.push(at)
+    if (one.isDirectory()) {
+      if (one.name !== MODULES) held.push(...testsIn(at))
+    } else if (one.isFile() && testNamed(one.name)) held.push(at)
   }
   return held
 }
