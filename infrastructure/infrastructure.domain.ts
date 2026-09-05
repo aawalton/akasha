@@ -22,6 +22,7 @@ export const infrastructure = {
     "workspace-package/ci-benchmark",
     "domain/cluster-operations",
     "domain/cluster-provisioning",
+    "domain/auth",
     "domain/container-image",
     "domain/job",
     "domain/node",
