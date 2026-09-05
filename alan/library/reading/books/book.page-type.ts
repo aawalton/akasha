@@ -47,10 +47,7 @@ export const book = {
       invariantKind: "departure",
       statement: "A book's own length is counted in the words the book runs to.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A book's page count is the edition's own figure and is no length.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A book names the author as the author is written rather than as a page.",
