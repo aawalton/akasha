@@ -31,7 +31,7 @@ export const noVoidSelfInObjectMethod = {
     },
     {
       invariantKind: "departure",
-      statement: "A method declaring no `this` is left.",
+      statement: "A method declaring no `this` parameter is left.",
     },
     {
       invariantKind: "gap",

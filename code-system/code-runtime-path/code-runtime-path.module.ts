@@ -53,12 +53,12 @@ export const codeRuntimePath = {
     {
       invariantKind: "departure",
       statement:
-        "A base this cannot read is counted whether or not the move reaches beneath that base.",
+        "A base this module cannot read is counted whether or not the move reaches beneath that base.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A base this cannot read is named only where the move takes a file out from under that base.",
+        "A base this module cannot read is named only where the move takes a file out from under that base.",
     },
     {
       invariantKind: "absence",

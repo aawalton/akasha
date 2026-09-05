@@ -14,7 +14,7 @@ export const bashEnv = {
     },
     {
       invariantKind: "departure",
-      statement: "A shell reading this reads the secrets held outside the repo.",
+      statement: "A shell reading this script reads the secrets held outside the repo.",
     },
     {
       invariantKind: "departure",

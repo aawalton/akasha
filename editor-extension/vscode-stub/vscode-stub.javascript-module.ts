@@ -9,7 +9,7 @@ export const vscodeStub = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This lands under node as the `vscode` an activation resolves.",
+      statement: "This module lands under node as the `vscode` an activation resolves.",
     },
     {
       invariantKind: "departure",

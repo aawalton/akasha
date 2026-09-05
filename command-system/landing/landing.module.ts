@@ -97,7 +97,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A carry that throws puts back the carries made before that carry in reverse.",
+      statement: "A carry that throws puts back in reverse the carries made before that carry.",
     },
     {
       invariantKind: "departure",

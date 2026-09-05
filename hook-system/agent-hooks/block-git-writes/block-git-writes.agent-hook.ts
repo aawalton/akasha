@@ -25,7 +25,8 @@ export const blockGitWrites = {
     },
     {
       invariantKind: "departure",
-      statement: "A prefix that only runs the call behind it does not hide a git write from this.",
+      statement:
+        "A prefix that only runs the call behind it does not hide a git write from this hook.",
     },
     {
       invariantKind: "absence",
@@ -74,7 +75,7 @@ export const blockGitWrites = {
     },
     {
       invariantKind: "constraint",
-      statement: "This reads git alone.",
+      statement: "This hook reads git alone.",
     },
     {
       invariantKind: "gap",

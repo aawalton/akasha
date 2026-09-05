@@ -26,7 +26,7 @@ export const preReceiveMainAppendOnly = {
     },
     {
       invariantKind: "departure",
-      statement: "This is the last point a rewind can be refused before the mirror copies it.",
+      statement: "This hook is the last point a rewind can be refused before the mirror copies it.",
     },
     {
       invariantKind: "absence",

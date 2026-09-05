@@ -38,7 +38,7 @@ export const nodeCleanliness = {
     },
     {
       invariantKind: "departure",
-      statement: "That repeats until nothing under the package is left over.",
+      statement: "That step repeats until nothing under the package is left over.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +67,7 @@ export const nodeCleanliness = {
     },
     {
       invariantKind: "departure",
-      statement: "That asks the file rather than the path through it.",
+      statement: "That rule asks the file rather than the path through it.",
     },
     {
       invariantKind: "departure",

@@ -78,7 +78,7 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "An act this does not carry is refused with the ones it does.",
+      statement: "An act this command does not carry is refused with the ones it does.",
     },
     {
       invariantKind: "departure",

@@ -27,7 +27,7 @@ export const claudeAccountCosting = {
     },
     {
       invariantKind: "departure",
-      statement: "A model this holds no price for is named rather than counted at nothing.",
+      statement: "A model this module holds no price for is named rather than counted at nothing.",
     },
     {
       invariantKind: "departure",
