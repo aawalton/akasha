@@ -1,5 +1,5 @@
 diff --git a/pages/system-service/page-asking/page-asking.module.ts b/pages/system-service/page-asking/page-asking.module.ts
-index cdf143a0517bd3e1eb21a32a43bc5366ec8455ba..a1cea89b7b1e6db633fe7d81daba1d2280afb864 100644
+index cdf143a0517bd3e1eb21a32a43bc5366ec8455ba..75aa295b9b2ad6a37787a3579c6d8ee7aa2b452a 100644
 --- a/pages/system-service/page-asking/page-asking.module.ts
 +++ b/pages/system-service/page-asking/page-asking.module.ts
 @@ -14,11 +14,13 @@ export const pageAsking = {
@@ -25,6 +25,16 @@ index cdf143a0517bd3e1eb21a32a43bc5366ec8455ba..a1cea89b7b1e6db633fe7d81daba1d22
 -      statement: "The keys a page type declares are its own and those of every page type above it.",
 +      statement:
 +        "The keys a page type declares are its own and those of every page type above that page type.",
+     },
+     {
+       invariantKind: "departure",
+@@ -191,7 +194,8 @@ export const pageAsking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A shape names every property the page type and those above it declare.",
++      statement:
++        "A shape names every property the page type and those above that page type declare.",
      },
      {
        invariantKind: "departure",
