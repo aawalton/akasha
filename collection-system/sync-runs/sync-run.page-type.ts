@@ -9,6 +9,18 @@ export const syncRun = {
   slug: "sync-run",
   definition: "one pull from one outside place",
   pluralSlug: "sync-runs",
+  partSlugs: [
+    "instant-property/run-completed-at",
+    "instant-property/run-started-at",
+    "number-property/created-count",
+    "number-property/duration-ms",
+    "number-property/failed-count",
+    "number-property/run-seq",
+    "number-property/skipped-count",
+    "number-property/updated-count",
+    "select-property/run-status",
+    "text-property/run-error-message",
+  ],
   extendsSlug: ["page-type/page"],
   invariants: [
     {
