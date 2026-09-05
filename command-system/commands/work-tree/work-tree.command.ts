@@ -45,7 +45,7 @@ export const workTree = {
     },
     {
       invariantKind: "departure",
-      statement: "Each word names what to print.",
+      statement: "Each word names the thing to print.",
     },
     {
       invariantKind: "departure",
