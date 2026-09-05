@@ -133,17 +133,6 @@ export const akasha = {
     },
     {
       directiveKind: "principle",
-      name: "File First",
-      act: "Keep data in a file wherever it can live in one, and project every other copy from it.",
-      warrant:
-        "An agent finds a file by what is inside it; it finds a row only if it knew the row was there.",
-      aids: [
-        "Where they differ, rewrite the row from the file.",
-        "Data a product collects at runtime stays a row.",
-      ],
-    },
-    {
-      directiveKind: "principle",
       name: "Ubiquitous Naming",
       act: "Use the same name for a concept in code, data, interface and prose alike.",
       warrant: "A second spelling reads as a second thing, and each layer looks right by itself.",
