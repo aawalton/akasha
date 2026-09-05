@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/push/push.command.ts b/commands/push/push.command.ts
+index e4173e836b5e9c197f15598db709ab2b4ce52e4f..1fb8045d182b1aa6e8669a247dbfd1be407bd1a6 100644
+--- a/commands/push/push.command.ts
++++ b/commands/push/push.command.ts
+@@ -37,7 +37,7 @@ export const push = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A push takes no argument naming what is carried.",
++      statement: "A push takes no argument naming the branch carried.",
+     },
+   ],
+ } as const satisfies Command
