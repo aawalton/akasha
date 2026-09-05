@@ -1,4 +1,3 @@
-runsWarrants: false
 diff --git a/git-transport/git-transport.cluster-service.code.attachment.ts b/git-transport/git-transport.cluster-service.code.attachment.ts
 deleted file mode 100644
 index e191d8c15bb0cb9f71b080c751c13bd5d07d4a6d..0000000000000000000000000000000000000000
@@ -202,7 +201,7 @@ index 0000000000000000000000000000000000000000..e3d1d3cf542485b3071e563212611669
 +  ]
 +}
 diff --git a/service-system/cluster-services/pages/git-transport.cluster-service.ts b/service-system/cluster-services/pages/git-transport.cluster-service.ts
-index 8b27035095cd2e6166ad707a677dcd2981220bcb..36ce7f446531bc84acdf6bd6405361840fe978dc 100644
+index 8b27035095cd2e6166ad707a677dcd2981220bcb..c9e31d68cc46850a85377e1df87801143d433f35 100644
 --- a/service-system/cluster-services/pages/git-transport.cluster-service.ts
 +++ b/service-system/cluster-services/pages/git-transport.cluster-service.ts
 @@ -11,5 +11,5 @@ export const gitTransport = {
@@ -210,5 +209,5 @@ index 8b27035095cd2e6166ad707a677dcd2981220bcb..36ce7f446531bc84acdf6bd640536184
    replicas: 1,
    containerPort: 3000,
 -  manifestCode: "git-transport/git-transport.cluster-service.code.attachment.ts",
-+  manifestCode: "git-transport/manifests/git-transport-manifests.manifest.code.ts",
++  manifestSlug: "git-transport-manifests",
  } as const satisfies ClusterService
