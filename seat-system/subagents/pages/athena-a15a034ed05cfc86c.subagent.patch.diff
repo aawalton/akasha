@@ -346,7 +346,7 @@ index 072c6a0cd044618fb71707e702d4e9ebb315a62b..030da25ea1f53e8238edb9524bd10eff
        "opsAgentTree.runResume",
      ])
 diff --git a/editor-extension/seat-toggles/seat-toggles.module.ts b/editor-extension/seat-toggles/seat-toggles.module.ts
-index 5f986ec8a985f2296597194bf1c4f789c1cd9f68..9afb43fed76880ef2072f78af2b6ddf20d21fea4 100644
+index 5f986ec8a985f2296597194bf1c4f789c1cd9f68..2d93fffdca2d6f40d83e1a50ecfb6fbb56121587 100644
 --- a/editor-extension/seat-toggles/seat-toggles.module.ts
 +++ b/editor-extension/seat-toggles/seat-toggles.module.ts
 @@ -4,8 +4,7 @@ export const seatToggles = {
@@ -359,3 +359,18 @@ index 5f986ec8a985f2296597194bf1c4f789c1cd9f68..9afb43fed76880ef2072f78af2b6ddf2
    code: "ts",
    test: "ts",
    testFixtures: "ts",
+@@ -22,14 +21,6 @@ export const seatToggles = {
+       invariantKind: "departure",
+       statement: "A stopped headless seat is revived without one.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A place toggle states the other place before attaching or detaching.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A place toggle on a stopped seat states the place and does nothing else.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A reset attaches only where the seat holds the interactive place.",
