@@ -1,0 +1,20 @@
+diff --git a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
+index aafa48e30e5998cefe2eb4d08d11d00a32c9b897..d7c3c19aced5489a271036b38972627862057b81 100644
+--- a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
++++ b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
+@@ -7,10 +7,14 @@ export const supervisorLogSweeping = {
+   definition: "the log directory of every departed supervisor taken away",
+   code: "ts",
+   invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Every supervisor keeps a directory named for its agent, holding its socket.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
+-        "Every supervisor keeps a directory named for its agent, holding its socket and the log files it falls back to when a log day page cannot be written.",
++        "A log file a supervisor falls back to when a log day page cannot be written is there too.",
+     },
+     {
+       invariantKind: "departure",
