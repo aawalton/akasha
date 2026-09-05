@@ -1,0 +1,28 @@
+diff --git a/alan/web/alan-web.router-app.ts b/alan/web/alan-web.router-app.ts
+index 5367ee13cae4d6e5dd3b59a5c939d4bbcee02517..87c92ca330ddb4ebd0d8aea158bd07c3335a1960 100644
+--- a/alan/web/alan-web.router-app.ts
++++ b/alan/web/alan-web.router-app.ts
+@@ -143,5 +143,6 @@ export const alanWeb = {
+     "module/wallpaper-candidates",
+     "route/about",
+     "route/claude-usage",
++    "route/inbox-stoplights",
+   ],
+ } as const satisfies RouterApp
+diff --git a/alan/web/routes/inbox-stoplights/inbox-stoplights.route.ts b/alan/web/routes/inbox-stoplights/inbox-stoplights.route.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..34ea99154afb74f704b28ce5a026e43e71849584
+--- /dev/null
++++ b/alan/web/routes/inbox-stoplights/inbox-stoplights.route.ts
+@@ -0,0 +1,11 @@
++import type { Route } from "@akasha/code-system/route"
++
++export const inboxStoplights = {
++  id: "01a072b2-59cc-72dc-9f34-01e609e3f191",
++  pageTypeSlug: "route",
++  slug: "inbox-stoplights",
++  definition: "Alan's inboxes as the colors their counts reach",
++  code: "ts",
++  test: "ts",
++  urlPath: "api/inbox-stoplights",
++} as const satisfies Route
