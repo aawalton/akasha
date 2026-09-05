@@ -12,7 +12,6 @@ export const answer = {
       invariantKind: "departure",
       statement: "A route here answers a signed-in reader alone.",
     },
-
     {
       invariantKind: "departure",
       statement:
