@@ -1,0 +1,12 @@
+diff --git a/commands/write/write.command.code.ts b/commands/write/write.command.code.ts
+index aaf9ff99fdc823990a5cc2163097b69079350715..e84ac529740d43563148a7ad02405c588bf53bb2 100644
+--- a/commands/write/write.command.code.ts
++++ b/commands/write/write.command.code.ts
+@@ -28,6 +28,7 @@ import {
+   pipedIn,
+   RUNS_SAID,
+ } from "../../command-system/piping/piping.module.code.ts"
++import { unrestatedIn } from "../../command-system/restating/restating.module.code.ts"
+ 
+ export const FILE_PATH = "--file-path"
+ 
