@@ -35,7 +35,7 @@ export const upscale = {
     {
       invariantKind: "constraint",
       statement:
-        "The upscaling tool answers zero when it runs out of memory, so its answer is not believed.",
+        "The upscaling tool answers zero when that tool runs out of memory, so its answer is not believed.",
     },
     {
       invariantKind: "departure",
