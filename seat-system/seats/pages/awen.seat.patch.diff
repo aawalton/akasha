@@ -75,7 +75,7 @@ index fec08f6e2f3caf541465c01a155627f1d3af63a7..1c47f785efc81292962c41328030fa46
 +  })
 +}
 diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
-index 7944ba0ada3fc1a23e25d8964b3df1aff81be4e4..ef1a7162a2dfc81b1b16ddeb55bf85e6bd0081fc 100644
+index 7944ba0ada3fc1a23e25d8964b3df1aff81be4e4..8d71831969ee58e00b556fa5fc8830f5f754190b 100644
 --- a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 +++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 @@ -5,7 +5,9 @@ import type { Change } from "@akasha/pages/change"
@@ -168,6 +168,15 @@ index 7944ba0ada3fc1a23e25d8964b3df1aff81be4e4..ef1a7162a2dfc81b1b16ddeb55bf85e6
    expect(await over(root, "akasha/notes.txt", "nothing to compile\n")).toEqual([])
    const said = await over(root, "shared/one.ts", "export const one: string = 1\n")
    expect(said).toHaveLength(1)
+@@ -318,7 +324,7 @@ test("an index standing and naming no importer is an answer, so the change alone
+ })
+ 
+ test("a change naming no TypeScript under the akasha folder asks the index nothing", async () => {
+-  const root = staged({ "akasha/one.ts": "export const one = 1\n" })
++  const root = holding()
+   rmSync(join(root, ".git"), { recursive: true })
+   expect(await judged(change(root, { "akasha/notes.txt": "nothing to compile\n" }))).toEqual([])
+ })
 @@ -339,12 +345,7 @@ test("a file whole at base and deleted from the worktree alone still answers for
  })
  
