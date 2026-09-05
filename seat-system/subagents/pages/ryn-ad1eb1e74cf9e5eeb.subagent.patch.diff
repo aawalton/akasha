@@ -1,0 +1,14 @@
+diff --git a/mathematics/propositions/proposition.page-type.ts b/mathematics/propositions/proposition.page-type.ts
+index f417c9fa7c4214fd146f99ef7a1d18f33be08619..db3d91e042fcb37b2f3a7ef63b72e1bf94e427d3 100644
+--- a/mathematics/propositions/proposition.page-type.ts
++++ b/mathematics/propositions/proposition.page-type.ts
+@@ -33,7 +33,8 @@ export const proposition = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A proposition's statement sits in its own file rather than in a value beside it.",
++      statement:
++        "A proposition's statement sits in its own file rather than in a value beside that file.",
+     },
+     {
+       invariantKind: "departure",
