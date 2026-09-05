@@ -9,7 +9,7 @@ export const zoneNamesJp03 = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "These rows are what upstream LibZone v8.98 states.",
+      statement: "These rows are the rows upstream LibZone v8.98 states.",
     },
   ],
 } as const satisfies Module
