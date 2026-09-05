@@ -13,7 +13,7 @@ export const keybinderDeclarations = {
     },
     {
       invariantKind: "departure",
-      statement: "What is left here is what this add-on alone reads.",
+      statement: "The shapes left here are the shapes this add-on alone reads.",
     },
   ],
 } as const satisfies TypeDeclaration
