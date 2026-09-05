@@ -1,0 +1,14 @@
+diff --git a/temper/temper-characters-capture-addon/character-capture-skill-line-map/character-capture-skill-line-map.module.ts b/temper/temper-characters-capture-addon/character-capture-skill-line-map/character-capture-skill-line-map.module.ts
+index 0ed895d738cbaff1a200674560184997e7cf5455..6995d22e35619508f7100e8604a6c2c0ec26534e 100644
+--- a/temper/temper-characters-capture-addon/character-capture-skill-line-map/character-capture-skill-line-map.module.ts
++++ b/temper/temper-characters-capture-addon/character-capture-skill-line-map/character-capture-skill-line-map.module.ts
+@@ -11,9 +11,5 @@ export const characterCaptureSkillLineMap = {
+       invariantKind: "constraint",
+       statement: "A place in this table is the number a saved build hash carries.",
+     },
+-    {
+-      invariantKind: "gap",
+-      statement: "An entry moved to another place misreads every build hash already saved.",
+-    },
+   ],
+ } as const satisfies Module
