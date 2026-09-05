@@ -13,7 +13,8 @@ export const personaTargets = {
     },
     {
       invariantKind: "departure",
-      statement: "The empty list is what the persona pages say rather than what could not be read.",
+      statement:
+        "The empty list is the answer the persona pages give rather than a reading that failed.",
     },
   ],
 } as const satisfies Module
