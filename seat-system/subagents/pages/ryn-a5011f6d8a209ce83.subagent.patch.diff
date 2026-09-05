@@ -90,3 +90,21 @@ index fc7e1ef1221d670ccc8608eb0e849e956c4073dc..3dd3ae0b7856a358a6e5f78e82348902
      },
    ],
  } as const satisfies Module
+diff --git a/infrastructure/cluster-manifests/orphan-resource-listing/orphan-resource-listing.module.ts b/infrastructure/cluster-manifests/orphan-resource-listing/orphan-resource-listing.module.ts
+index 06497c5da7ce01da40a437ec598b8fa44bc01067..d88e2a9da79e6cb9128733b4b70a71b9770bcc91 100644
+--- a/infrastructure/cluster-manifests/orphan-resource-listing/orphan-resource-listing.module.ts
++++ b/infrastructure/cluster-manifests/orphan-resource-listing/orphan-resource-listing.module.ts
+@@ -28,8 +28,11 @@ export const orphanResourceListing = {
+     },
+     {
+       invariantKind: "gap",
+-      statement:
+-        "The credentials are read here rather than at cluster-api-reaching, which holds the same three environment variables: that module sits in service-system, service-system already depends on this package, and it fixes one timeout where the sweep needs a shared deadline.",
++      statement: "The credentials are read here rather than at cluster-api-reaching.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "Cluster-api-reaching holds the same three environment variables.",
+     },
+   ],
+ } as const satisfies Module
