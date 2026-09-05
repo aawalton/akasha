@@ -256,3 +256,18 @@ index 0000000000000000000000000000000000000000..9006b98e7fd38819bf467318dee8097c
 +  definition: "a named act putting pages in order",
 +  partSlugs: ["module/reorder-verb-registry"],
 +} as const satisfies Domain
+diff --git a/pages/ui/tree/pages-ui-tree.domain.ts b/pages/ui/tree/pages-ui-tree.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..28762da6267efc3a65fe16420d66dfd01a2e98e0
+--- /dev/null
++++ b/pages/ui/tree/pages-ui-tree.domain.ts
+@@ -0,0 +1,9 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesUiTree = {
++  id: "01a071d1-5cdf-7e9c-bb2d-2903d6f0dc18",
++  pageTypeSlug: "domain",
++  slug: "pages-ui-tree",
++  definition: "pages held under one another",
++  partSlugs: ["module/parent-child-tree"],
++} as const satisfies Domain
