@@ -80,8 +80,7 @@ export async function statusBarLine(): Promise<string> {
     readUsage().catch(() => null),
   ])
   return JSON.stringify({
-    sessionPct: usage?.sessionPct ?? null,
-    weeklyPct: usage?.weeklyPct ?? null,
+    usage,
     inbox,
     upkeep,
     attributes,

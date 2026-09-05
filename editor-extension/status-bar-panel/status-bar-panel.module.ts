@@ -4,7 +4,7 @@ export const statusBarPanel = {
   id: "01a06816-69fa-7001-a0ca-bd4a904571ee",
   pageTypeSlug: "module",
   slug: "status-bar-panel",
-  definition: "the strip of readings Alan keeps in view, refreshed on a poll and on a click",
+  definition: "the strip of readings Alan keeps in view, drawn from one file and on a click",
   code: "ts",
   invariants: [
     {
@@ -17,43 +17,51 @@ export const statusBarPanel = {
     },
     {
       invariantKind: "departure",
-      statement: "The checkout root is named before any group is drawn.",
+      statement: "The readings are read from the file the service writes rather than taken here.",
     },
     {
       invariantKind: "departure",
-      statement: "The four readings are taken within one call.",
+      statement: "The strip draws again when that file is written and at no other time.",
     },
     {
       invariantKind: "departure",
-      statement: "One read runs at a time.",
+      statement: "A file the service has not written leaves the strip as that strip is.",
     },
     {
       invariantKind: "departure",
-      statement: "A trigger arriving mid-read waits for the read in flight.",
+      statement: "A section the file says nothing for is drawn as a reading that failed.",
     },
     {
       invariantKind: "departure",
-      statement: "A click answers with the reading in hand rather than taking the reading again.",
+      statement: "A click reads the file again rather than waiting to be told it moved.",
     },
     {
       invariantKind: "departure",
-      statement: "A group that would not answer keeps the labels the group last named.",
+      statement: "A section the file says nothing for keeps the labels that section last named.",
     },
     {
       invariantKind: "departure",
-      statement: "A group answering an empty legend keeps the labels the group last named.",
+      statement: "A section carrying an empty legend keeps the labels that section last named.",
     },
     {
       invariantKind: "departure",
-      statement: "The glyph row is read off the group's drawing.",
+      statement: "The glyph row is read off the section the file carries.",
     },
     {
       invariantKind: "departure",
-      statement: "A refresh says which readings failed.",
+      statement: "A drawing says which readings the file carried nothing for.",
     },
     {
       invariantKind: "departure",
-      statement: "The refresh's outcome is recorded as an observation.",
+      statement: "Every drawing's outcome is recorded as an observation.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No timer starts a drawing.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads a stoplight or a usage figure.",
     },
   ],
 } as const satisfies Module

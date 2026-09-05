@@ -1,12 +1,10 @@
-import * as os from "node:os"
-import * as path from "node:path"
-import { duringOneCall } from "@akasha/command-system/during-call"
 import * as vscode from "vscode"
 import {
-  drawGroup,
-  type GroupDrawing,
-  nameTheStore,
-} from "../group-stoplights/group-stoplights.module.code.ts"
+  followState,
+  readState,
+  stateAt,
+} from "../../alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts"
+import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
 import { recordObservation } from "../observation-store/observation-store.module.code.ts"
 import {
   applyToItems,
@@ -20,42 +18,35 @@ import {
 } from "../status-bar-legends/status-bar-legends.module.code.ts"
 import { SLOTS } from "../status-bar-slots/status-bar-slots.module.code.ts"
 import { SEPARATOR_GLYPH, SEPARATOR_HEX } from "../status-bar-theme/status-bar-theme.module.code.ts"
-import { readUsage } from "../status-bar-usage/status-bar-usage.module.code.ts"
+import type { UsageReading } from "../status-bar-usage/status-bar-usage.module.code.ts"
 
 const FEATURE = "status-bar"
-
-const POLL_INTERVAL_MS = 30_000
-
-const UPKEEP_GROUP = "upkeep"
-
-const ATTRIBUTES_GROUP = "attributes"
-
-const INBOX_GROUP = "inboxes"
+const SLUG = "status-bar"
 
 let output: vscode.OutputChannel
 
-function glyphsSettled(settled: PromiseSettledResult<GroupDrawing>): PromiseSettledResult<string> {
-  return settled.status === "fulfilled"
-    ? { status: "fulfilled", value: settled.value.glyphs }
-    : settled
+// A SECTION THE SERVICE COULD NOT READ IS SAID TO HAVE FAILED. The drawing already knows what to
+// do with a reading that failed — keep the text the slot last had and say since when it has been
+// stale — so a null section is handed on as a rejection rather than as a blank.
+function sectionOf<Held>(said: Held | null | undefined): PromiseSettledResult<Held> {
+  return said === null || said === undefined
+    ? { status: "rejected", reason: new Error("the service read nothing for this section") }
+    : { status: "fulfilled", value: said }
 }
 
 function legendKept(
-  settled: PromiseSettledResult<GroupDrawing>,
+  said: StatusBarStoplights | null,
   held: string | undefined
 ): string | undefined {
-  if (settled.status !== "fulfilled" || settled.value.legend === "") {
+  if (said === null || said.legend === "") {
     return held
   }
-  return settled.value.legend
+  return said.legend
 }
 
 export async function activate(context: vscode.ExtensionContext): Promise<undefined> {
   output = vscode.window.createOutputChannel("Ops: Status Bar")
   context.subscriptions.push(output)
-
-  process.env.AKASHA_ROOT ??= path.join(os.homedir(), "repos", "akasha")
-  nameTheStore()
 
   const items = SLOTS.map((slot) => {
     const item = vscode.window.createStatusBarItem(
@@ -88,25 +79,17 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 
   let legends: StoplightLegends = NO_LEGENDS
 
-  const readOnce = async (trigger: string): Promise<undefined> => {
-    const [inbox, upkeep, attributes, usage] = await duringOneCall(async () =>
-      Promise.allSettled([
-        drawGroup(INBOX_GROUP),
-        drawGroup(UPKEEP_GROUP),
-        drawGroup(ATTRIBUTES_GROUP),
-        readUsage(),
-      ])
-    )
+  const draw = (held: StatusBarState, trigger: string): undefined => {
     const outcomes: ReadOutcomes = {
-      inbox: glyphsSettled(inbox),
-      upkeep: glyphsSettled(upkeep),
-      attributes: glyphsSettled(attributes),
-      usage,
+      inbox: sectionOf(held.inbox?.glyphs),
+      upkeep: sectionOf(held.upkeep?.glyphs),
+      attributes: sectionOf(held.attributes?.glyphs),
+      usage: sectionOf<UsageReading>(held.usage),
     }
     legends = {
-      inbox: legendKept(inbox, legends.inbox),
-      upkeep: legendKept(upkeep, legends.upkeep),
-      attributes: legendKept(attributes, legends.attributes),
+      inbox: legendKept(held.inbox, legends.inbox),
+      upkeep: legendKept(held.upkeep, legends.upkeep),
+      attributes: legendKept(held.attributes, legends.attributes),
     }
     const reads = settleReads(outcomes, freshAts, Date.now())
     applyToItems(items, reads, legends)
@@ -120,31 +103,24 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     return undefined
   }
 
-  let reading: Promise<undefined> | undefined
-
-  const refresh = async (trigger: string): Promise<undefined> => {
-    const inFlight = reading
-    if (inFlight !== undefined) {
-      output.appendLine(`[${trigger}] a read is already in flight — waiting for it`)
-      await inFlight
+  // Asking for the file again answers a click at once rather than waiting to be told.
+  // A file the service has not written leaves the strip as it is.
+  const refresh = (trigger: string): undefined => {
+    const held = readState<StatusBarState>(stateAt(akashaRoot(), SLUG))
+    if (held === null) {
       return undefined
     }
-    const started = readOnce(trigger)
-    reading = started
-    try {
-      await started
-    } finally {
-      reading = undefined
-    }
-    return undefined
+    return draw(held, trigger)
   }
 
-  await refresh("activate")
-
-  const timer = setInterval(() => void refresh("poll"), POLL_INTERVAL_MS)
-  context.subscriptions.push({ dispose: () => clearInterval(timer) })
+  const reading = followState<StatusBarState>(akashaRoot(), SLUG, (held) => draw(held, "status"))
 
   context.subscriptions.push(
+    {
+      dispose: () => {
+        reading.stop()
+      },
+    },
     vscode.commands.registerCommand("opsStatusBar.refreshNow", () => refresh("manual"))
   )
   return undefined
@@ -165,10 +141,10 @@ function logRefresh(trigger: string, outcomes: ReadOutcomes): undefined {
     failures.push(`usage: ${String(outcomes.usage.reason)}`)
   }
   if (failures.length === 0) {
-    output.appendLine(`[${trigger}] refreshed`)
+    output.appendLine(`[${trigger}] drawn`)
     recordObservation(FEATURE, { outcome: "ok", counts: { failedReads: 0 } })
   } else {
-    output.appendLine(`[${trigger}] partial refresh — ${failures.join("; ")}`)
+    output.appendLine(`[${trigger}] partly drawn — ${failures.join("; ")}`)
     recordObservation(FEATURE, {
       outcome: "failed",
       failure: failures.join("; "),

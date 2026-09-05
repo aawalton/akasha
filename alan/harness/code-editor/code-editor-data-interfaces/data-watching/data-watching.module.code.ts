@@ -139,8 +139,7 @@ async function refreshAgentTree(): Promise<undefined> {
 }
 
 let statusHeld = JSON.stringify({
-  sessionPct: null,
-  weeklyPct: null,
+  usage: null,
   inbox: null,
   upkeep: null,
   attributes: null,
