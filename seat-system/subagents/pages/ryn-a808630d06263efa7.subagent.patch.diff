@@ -1,5 +1,5 @@
 diff --git a/pages/query-keys/page-query-keys.module.ts b/pages/query-keys/page-query-keys.module.ts
-index 71e6edf62f205b72164cd1be4a2c64d089b16931..bf8519565a3bdd2186d91a25a3a6d9093545ecdd 100644
+index 71e6edf62f205b72164cd1be4a2c64d089b16931..4534dfb88425f0d2b5faaf31c04774923add7554 100644
 --- a/pages/query-keys/page-query-keys.module.ts
 +++ b/pages/query-keys/page-query-keys.module.ts
 @@ -10,11 +10,11 @@ export const pageQueryKeys = {
@@ -16,3 +16,13 @@ index 71e6edf62f205b72164cd1be4a2c64d089b16931..bf8519565a3bdd2186d91a25a3a6d909
      },
      {
        invariantKind: "departure",
+@@ -22,7 +22,8 @@ export const pageQueryKeys = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A body is carried only where the query asks for it or asks for the whole page.",
++      statement:
++        "A body is carried only where the query asks for that body or asks for the whole page.",
+     },
+     {
+       invariantKind: "absence",
