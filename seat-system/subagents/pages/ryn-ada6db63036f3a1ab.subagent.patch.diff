@@ -1,8 +1,8 @@
 diff --git a/alan/harness/notification-feeds/notification-feed.page-type.ts b/alan/harness/notification-feeds/notification-feed.page-type.ts
-index 8063d25c915308515389f7022fcb75a724621073..2d5bc33777e1aed15e18e282c8fabab933a59acf 100644
+index 8063d25c915308515389f7022fcb75a724621073..ab777b22c4a6b4676860a3753358f2d2b742a63a 100644
 --- a/alan/harness/notification-feeds/notification-feed.page-type.ts
 +++ b/alan/harness/notification-feeds/notification-feed.page-type.ts
-@@ -35,7 +35,7 @@ export const notificationFeed = {
+@@ -35,11 +35,11 @@ export const notificationFeed = {
      },
      {
        invariantKind: "departure",
@@ -11,3 +11,8 @@ index 8063d25c915308515389f7022fcb75a724621073..2d5bc33777e1aed15e18e282c8fabab9
      },
      {
        invariantKind: "departure",
+-      statement: "A feed's slug is the slug of the person whose feed it is.",
++      statement: "A feed's slug is the slug of the person whose feed that feed is.",
+     },
+     {
+       invariantKind: "gap",
