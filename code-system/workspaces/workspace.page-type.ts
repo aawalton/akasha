@@ -75,7 +75,7 @@ export const workspace = {
     },
     {
       invariantKind: "departure",
-      statement: "What a workspace manifest names is reached from anywhere in the tree.",
+      statement: "A package a workspace manifest names is reached from anywhere in the tree.",
     },
     {
       invariantKind: "departure",
