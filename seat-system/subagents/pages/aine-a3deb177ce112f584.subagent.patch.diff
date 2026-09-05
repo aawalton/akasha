@@ -12,7 +12,7 @@ index 84390de47fe7b38b158a9717265ffc263ee50d26..eee8ced5ada75c15df8425aba70b622d
      {
        invariantKind: "departure",
 diff --git a/command-system/change-freshness/change-freshness.module.ts b/command-system/change-freshness/change-freshness.module.ts
-index 16f0bfc025785c02f8791b242cdfdba7edb7cb47..7fc9a1e9fb649a925a02c3ede64017e6adb0d1c9 100644
+index 16f0bfc025785c02f8791b242cdfdba7edb7cb47..5cb1fca90b0fe353f5c5668b9588ff06b780a72c 100644
 --- a/command-system/change-freshness/change-freshness.module.ts
 +++ b/command-system/change-freshness/change-freshness.module.ts
 @@ -11,8 +11,7 @@ export const changeFreshness = {
@@ -25,6 +25,20 @@ index 16f0bfc025785c02f8791b242cdfdba7edb7cb47..7fc9a1e9fb649a925a02c3ede64017e6
      },
      {
        invariantKind: "departure",
+@@ -22,11 +21,11 @@ export const changeFreshness = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A body carried mechanically after it was read still stands for the reader it was carried for.",
++        "A body carried mechanically after it was read still holds for the reader it was carried for.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A path whose body will not read at all counts as moved rather than as standing.",
++      statement: "A path whose body will not read at all counts as moved rather than as unchanged.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/command-system/differing/differing.module.ts b/command-system/differing/differing.module.ts
 index 6e67e91fbac8ce9d2fd35635cab879bbb3ab32d0..ce088fdeb6a083aafd8cff6fc7d9ec1af6630307 100644
 --- a/command-system/differing/differing.module.ts
@@ -53,7 +67,7 @@ index e81421dac3c9ceb96859f97bcf191ed7ada27668..cfbfb98822eb199099cf9d3d8e0887d9
      {
        invariantKind: "absence",
 diff --git a/command-system/holding/holding.module.ts b/command-system/holding/holding.module.ts
-index 1706865e83c92a2ae8f79f4fbf64b84e67587ac9..3554caefa906b7737ebafb189bd3220aff3d5b92 100644
+index 1706865e83c92a2ae8f79f4fbf64b84e67587ac9..c17d26f85337719972a965efaa52b2b411b53b7e 100644
 --- a/command-system/holding/holding.module.ts
 +++ b/command-system/holding/holding.module.ts
 @@ -14,11 +14,11 @@ export const holding = {
@@ -67,6 +81,15 @@ index 1706865e83c92a2ae8f79f4fbf64b84e67587ac9..3554caefa906b7737ebafb189bd3220a
        invariantKind: "departure",
 -      statement: "The hold stands under `.git`.",
 +      statement: "The hold sits under `.git`.",
+     },
+     {
+       invariantKind: "departure",
+@@ -32,7 +32,7 @@ export const holding = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A hold naming no holder that can be read is taken once the hold has stood too long.",
++        "A hold naming no holder that can be read is taken once the hold has been there too long.",
      },
      {
        invariantKind: "departure",
@@ -84,7 +107,7 @@ index 8cb178e3ef2634f564fe5484b9b84b8931ea5022..7f9a5e3046fe92c04c897caddfa04cc6
    invariants: [
      {
 diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
-index 40bb0ca8ee60247b96f4f77ead256f4ebc401d85..f3a132ed0a97296c6dbdaca84f8a830e6cc7541c 100644
+index 40bb0ca8ee60247b96f4f77ead256f4ebc401d85..c7041d421e9a8cb7f4f938980bbe392bd22a5d3a 100644
 --- a/command-system/landing/landing.module.ts
 +++ b/command-system/landing/landing.module.ts
 @@ -43,7 +43,7 @@ export const landing = {
@@ -96,8 +119,18 @@ index 40bb0ca8ee60247b96f4f77ead256f4ebc401d85..f3a132ed0a97296c6dbdaca84f8a830e
      },
      {
        invariantKind: "departure",
+@@ -56,8 +56,7 @@ export const landing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A body is overwritten only where what stands on disk is the body its writer read.",
++      statement: "A body is overwritten only where what is on disk is the body its writer read.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/command-system/reading/reading.module.ts b/command-system/reading/reading.module.ts
-index 596c42f33558dc187573bb890edfb9d611f68d16..f29d842d0cd69f853d4be7c54bf33cbd0518cd4a 100644
+index 596c42f33558dc187573bb890edfb9d611f68d16..5a56133a334df5f71e638578a3032c853571bb1a 100644
 --- a/command-system/reading/reading.module.ts
 +++ b/command-system/reading/reading.module.ts
 @@ -46,7 +46,7 @@ export const reading = {
@@ -109,8 +142,17 @@ index 596c42f33558dc187573bb890edfb9d611f68d16..f29d842d0cd69f853d4be7c54bf33cbd
      },
      {
        invariantKind: "departure",
+@@ -134,7 +134,7 @@ export const reading = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "Nothing stands in the record that did not reach the agent.",
++      statement: "Nothing is in the record that did not reach the agent.",
+     },
+   ],
+ } as const satisfies Module
 diff --git a/command-system/scratching/scratching.module.ts b/command-system/scratching/scratching.module.ts
-index 5aa70eab84b66c029065be3580d89f05f5cd424b..3b2347c9ebef86a048fc0dd43d93feefab414597 100644
+index 5aa70eab84b66c029065be3580d89f05f5cd424b..7f0293d87eff1aa46059bf463abcee1afc3c7937 100644
 --- a/command-system/scratching/scratching.module.ts
 +++ b/command-system/scratching/scratching.module.ts
 @@ -5,7 +5,7 @@ export const scratching = {
@@ -122,6 +164,15 @@ index 5aa70eab84b66c029065be3580d89f05f5cd424b..3b2347c9ebef86a048fc0dd43d93feef
    code: "ts",
    test: "ts",
    testFixtures: "ts",
+@@ -18,7 +18,7 @@ export const scratching = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A scratch root is swept when the test file that stood the scratch root up ends pass or fail.",
++        "A scratch root is swept when the test file that set the scratch root up ends pass or fail.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/command-system/value-minting/value-minting.module.ts b/command-system/value-minting/value-minting.module.ts
 index 02c8589aea5e5eaa02cd81106b4dcd68c50c28bb..9f3ef551de832725b62615e7d93cd8409ae98f03 100644
 --- a/command-system/value-minting/value-minting.module.ts
