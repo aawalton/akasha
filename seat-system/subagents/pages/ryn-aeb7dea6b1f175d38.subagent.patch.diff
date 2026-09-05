@@ -100,3 +100,20 @@ index 8de8fe31e28cc3c46ea7fa02450badc6e48649e3..2e5ca05091c3b9efd571eb206a0a29ed
      {
        invariantKind: "departure",
        statement:
+diff --git a/alan/harness/safety/safety.domain.ts b/alan/harness/safety/safety.domain.ts
+index 69f72dac3a866f8728c8b45e40a6b0a0a0f0247f..36bd4972de26309a7eec1fa8445be9e9f6ceeca2 100644
+--- a/alan/harness/safety/safety.domain.ts
++++ b/alan/harness/safety/safety.domain.ts
+@@ -16,11 +16,7 @@ export const safety = {
+       invariantKind: "departure",
+       statement: "The level is read from the tracking the workstation's checkout carries.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The reading is taken by a workstation timer rather than by a pod serving a route.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "Every site showing the level is carried the level rather than taking one.",
