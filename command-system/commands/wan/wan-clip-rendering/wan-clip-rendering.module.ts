@@ -38,10 +38,6 @@ export const wanClipRendering = {
       statement: "The recipe a generate or an extend ran under is kept as an inference run.",
     },
     {
-      invariantKind: "constraint",
-      statement: "One workload runs on the GPU at a time.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here starts the container or provisions the weights.",
     },
