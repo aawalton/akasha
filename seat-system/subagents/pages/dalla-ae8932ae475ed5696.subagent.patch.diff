@@ -1,0 +1,96 @@
+diff --git a/commands/patch/patch.command.test.ts b/commands/patch/patch.command.test.ts
+index 27859683202966ce76f41aa3bc7a65ce77df67dd..3b78496f64cfa5166574e37019bb177cdb80eb0c 100644
+--- a/commands/patch/patch.command.test.ts
++++ b/commands/patch/patch.command.test.ts
+@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
+ import { patchIn } from "@akasha/agents/patch-keeping"
+ import { said as gitSaid } from "@akasha/git/git-running"
+ import type { Given } from "../../command-system/calling/calling.module.code.ts"
+-import { drafted } from "../../command-system/drafting/drafting.module.code.ts"
++import { drafted, resolved } from "../../command-system/drafting/drafting.module.code.ts"
+ import type { Piping } from "../../command-system/piping/piping.module.code.ts"
+ import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
+ import { writing } from "../../command-system/scratching/scratching.module.test-fixtures.ts"
+@@ -39,10 +39,32 @@ async function repo(): Promise<string> {
+   return root
+ }
+ 
++async function landingAt(root: string, path: string, body: string): Promise<undefined> {
++  await writing(root, path, body)
++  gitSaid(root, ["add", "--", path])
++  gitSaid(root, [...WHO, "commit", "-q", "-m", "landed", "--", path])
++}
++
+ async function landing(root: string, body: string): Promise<undefined> {
+-  await writing(root, ONE, body)
+-  gitSaid(root, ["add", "--", ONE])
+-  gitSaid(root, [...WHO, "commit", "-q", "-m", "landed", "--", ONE])
++  await landingAt(root, ONE, body)
++}
++
++function renaming(root: string, from: string, to: string): undefined {
++  gitSaid(root, ["mv", from, to])
++  gitSaid(root, [...WHO, "commit", "-q", "-m", "renamed"])
++}
++
++function taking(root: string, path: string): undefined {
++  gitSaid(root, ["rm", "-q", "--", path])
++  gitSaid(root, [...WHO, "commit", "-q", "-m", "taken", "--", path])
++}
++
++function draftingBoth(root: string): undefined {
++  const draft = [
++    { path: ONE, was: BYTES.encode(WAS), body: BYTES.encode(NOW) },
++    { path: TWO, was: BYTES.encode(WAS), body: BYTES.encode(NOW) },
++  ]
++  expect("why" in drafted(root, PAGE, draft)).toBe(false)
+ }
+ 
+ function drafting(root: string): undefined {
+@@ -202,3 +224,46 @@ test("a drop where no patch is kept is no fault", async () => {
+   expect(said.code).toBe(0)
+   expect(said.report.join("\n")).toContain("nothing is drafted")
+ })
++
++test("a path a rename left the body at is the path named", async () => {
++  const root = await repo()
++  drafting(root)
++  renaming(root, ONE, TWO)
++  const said = showing(root, PAGE)
++  expect(said.code).toBe(0)
++  expect(said.report.join("\n")).toContain(`changed ${TWO}`)
++  expect(said.report.join("\n")).not.toContain(ONE)
++})
++
++test("a path a rename moved is named as moved where the rename left it", async () => {
++  const root = await repo()
++  drafting(root)
++  renaming(root, ONE, TWO)
++  await landingAt(root, TWO, WAS.replace("j\n", "J\n"))
++  const said = showing(root, PAGE)
++  expect(said.code).toBe(0)
++  expect(said.report.join("\n")).toContain(`${TWO} — moved under the patch`)
++})
++
++test("a path HEAD took away carries a conflict rather than refusing the rebase", async () => {
++  const root = await repo()
++  await landingAt(root, TWO, WAS)
++  draftingBoth(root)
++  taking(root, ONE)
++  const said = showing(root, PAGE)
++  expect(said.code).toBe(0)
++  expect(said.report.join("\n")).not.toContain("does not rebase")
++  expect(said.report.join("\n")).toContain(`${ONE} carries a conflict`)
++})
++
++test("a path HEAD took away is resolved and the rest of the patch is left", async () => {
++  const root = await repo()
++  await landingAt(root, TWO, WAS)
++  draftingBoth(root)
++  taking(root, ONE)
++  expect("why" in resolved(root, PAGE, ONE, BYTES.encode(NOW))).toBe(false)
++  const said = showing(root, PAGE)
++  expect(said.report.join("\n")).not.toContain("carries a conflict")
++  expect(said.report.join("\n")).toContain(`changed ${TWO}`)
++  expect(said.report.join("\n")).toContain(`added ${ONE}`)
++})
