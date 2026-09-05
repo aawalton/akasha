@@ -35,7 +35,7 @@ export const temperCatalogStatus = {
     {
       invariantKind: "departure",
       statement:
-        "A domain is owed a collection where the request is newer than what the account last saw.",
+        "A domain is owed a collection where the request is newer than the collection the account last saw.",
     },
     {
       invariantKind: "departure",
