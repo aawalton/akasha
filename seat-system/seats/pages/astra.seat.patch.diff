@@ -226,3 +226,18 @@ index 0000000000000000000000000000000000000000..86bc4e2e398de947572b97155fd40148
 +  definition: "the callbacks a view changes through",
 +  partSlugs: ["module/view-callbacks"],
 +} as const satisfies Domain
+diff --git a/pages/ui/perf/pages-ui-perf.domain.ts b/pages/ui/perf/pages-ui-perf.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..95bceaaa1b28ed8e240fa2b32c8a6b586f5cfec5
+--- /dev/null
++++ b/pages/ui/perf/pages-ui-perf.domain.ts
+@@ -0,0 +1,9 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesUiPerf = {
++  id: "01a071d1-2367-7ad6-9120-93d669869ca2",
++  pageTypeSlug: "domain",
++  slug: "pages-ui-perf",
++  definition: "how long drawing a page takes",
++  partSlugs: ["module/page-card-perf"],
++} as const satisfies Domain
