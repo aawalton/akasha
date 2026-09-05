@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/story/engine/core/beat-schema/beat-schema.module.ts b/story/engine/core/beat-schema/beat-schema.module.ts
+index 40a57fd51699bf83af2be507e48e9c4248264faa..b97a1722d0131ee8ed2ee65bbdf9c8ca5df650a0 100644
+--- a/story/engine/core/beat-schema/beat-schema.module.ts
++++ b/story/engine/core/beat-schema/beat-schema.module.ts
+@@ -10,7 +10,8 @@ export const beatSchema = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A beat is known by its id where it has one and by its content where it does not.",
++      statement:
++        "A beat is known by its id where that beat has one and by its content where that beat does not.",
+     },
+     {
+       invariantKind: "departure",
