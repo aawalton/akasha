@@ -25,7 +25,8 @@ export const gitAnswering = {
     },
     {
       invariantKind: "departure",
-      statement: "The group is killed once the process ends, so nothing it started outlives it.",
+      statement:
+        "The group is killed once the process ends, so nothing that process started outlives that process.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +42,8 @@ export const gitAnswering = {
     },
     {
       invariantKind: "departure",
-      statement: "What git said is answered trimmed, and the raw door answers it untrimmed.",
+      statement:
+        "What git said is answered trimmed, and the raw door answers what git said untrimmed.",
     },
     {
       invariantKind: "gap",
@@ -49,7 +51,8 @@ export const gitAnswering = {
     },
     {
       invariantKind: "gap",
-      statement: "The fields are spelled as the callers spell them rather than as the runner does.",
+      statement:
+        "The fields are spelled as the callers spell those fields rather than as the runner does.",
     },
   ],
 } as const satisfies Module
