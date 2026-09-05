@@ -77,3 +77,83 @@ index 37d762e5cb3efd46b96c54f6d2858e980e089539..fc2d988325d08e87d1b29de05a6936c5
      },
      {
        invariantKind: "departure",
+diff --git a/alan/music/spotify/fetching/spotify-fetching.module.ts b/alan/music/spotify/fetching/spotify-fetching.module.ts
+index fb34632ff6e3b19716e3424e2f5dacce8ee388eb..79fdb9faf08d41cae3ae82b695ed85138067c0d3 100644
+--- a/alan/music/spotify/fetching/spotify-fetching.module.ts
++++ b/alan/music/spotify/fetching/spotify-fetching.module.ts
+@@ -14,7 +14,8 @@ export const spotifyFetching = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A call over HTTP is what this answers to until something replaces the answer.",
++      statement:
++        "A call over HTTP is what this module answers to until something replaces the answer.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/tracking/daily/strength-sync/strength-sync.module.ts b/alan/tracking/daily/strength-sync/strength-sync.module.ts
+index 9c478f67604c286354c13f59bcbe2aa7c4500638..d921a108a228b5239558cfdeac54ea6998761ee0 100644
+--- a/alan/tracking/daily/strength-sync/strength-sync.module.ts
++++ b/alan/tracking/daily/strength-sync/strength-sync.module.ts
+@@ -9,7 +9,7 @@ export const strengthSync = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This is run as its own program by the name its ops-command page states.",
++      statement: "This module is run as its own program by the name its ops-command page states.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/checks/cluster-checks/modules/remediation-doc/remediation-doc.module.ts b/checks/cluster-checks/modules/remediation-doc/remediation-doc.module.ts
+index 92cd2800ce4e83028e747424b33d5ef21db21eda..01050433a7050fee8f2c0f11ef62ff00e3c5d805 100644
+--- a/checks/cluster-checks/modules/remediation-doc/remediation-doc.module.ts
++++ b/checks/cluster-checks/modules/remediation-doc/remediation-doc.module.ts
+@@ -29,7 +29,8 @@ export const remediationDoc = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every one of these is refused where the code is read rather than where it runs.",
++      statement:
++        "Every one of these refusals is made where the code is read rather than where it runs.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/property-pages-only/property-pages-only.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/property-pages-only/property-pages-only.folder-shape.ts
+index 3d012f49aa2a6bdbdba425da9890b46b40eedc80..ee87fb896f676e700d22daa63f7f75bf91cce8c5 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/property-pages-only/property-pages-only.folder-shape.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/property-pages-only/property-pages-only.folder-shape.ts
+@@ -32,7 +32,7 @@ export const propertyPagesOnly = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The pages here are of several types and that is the shape rather than a fault in it.",
++        "The pages here are of several types and that mix is the shape rather than a fault in it.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.ts
+index 4386c6fbd2b86c4217a294e2792ecec3315ae9b5..022d67f8e8e2fa9bdb12c1bc2cecee49a016ec1c 100644
+--- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.ts
++++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.ts
+@@ -18,7 +18,7 @@ export const noVoidReturn = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An async body is the case this is for.",
++      statement: "An async body is the case this rule is for.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/checks/modules/check-scratch/check-scratch.module.ts b/checks/modules/check-scratch/check-scratch.module.ts
+index 62b29ee347a52c1b423265613cd7a542264fe358..93a80b258b07c40ecc3f557c1e7a872c185efb0b 100644
+--- a/checks/modules/check-scratch/check-scratch.module.ts
++++ b/checks/modules/check-scratch/check-scratch.module.ts
+@@ -51,7 +51,7 @@ export const checkScratch = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "This only writes into it.",
++      statement: "This module only writes into it.",
+     },
+     {
+       invariantKind: "absence",
