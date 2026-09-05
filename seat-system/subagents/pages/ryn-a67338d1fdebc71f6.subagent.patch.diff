@@ -94,3 +94,19 @@ index cd4906085276fa6a7739ff2e54517bc67b43d781..34a734af39264b7e52ffaa098d285fa0
      {
        invariantKind: "stopgap",
        statement: "Nothing writes those words onto a day yet.",
+diff --git a/readout-system/readouts/pages/five-hour-back/five-hour-back.readout.ts b/readout-system/readouts/pages/five-hour-back/five-hour-back.readout.ts
+index b41a380e2e0e4291e84a147ae3b7aae3d445b85a..609e4711b4dd51cdbc55dbcd380809e57d6625b6 100644
+--- a/readout-system/readouts/pages/five-hour-back/five-hour-back.readout.ts
++++ b/readout-system/readouts/pages/five-hour-back/five-hour-back.readout.ts
+@@ -32,10 +32,7 @@ export const fiveHourBack = {
+       invariantKind: "departure",
+       statement: "No account with a window ahead is no reading rather than a wait of zero.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A store that refuses is a fault rather than a reading of nothing.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here caches a reading or decides when a reading is taken.",
