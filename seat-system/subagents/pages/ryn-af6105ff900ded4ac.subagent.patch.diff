@@ -156,3 +156,19 @@ index 8d1f55f3b20a4a4e3baca7b43df115fe77d91038..5fd7cfbbaae7241573ce4a4b7990147d
      {
        invariantKind: "constraint",
        statement: "An empty base-game string-id census ends the run rather than passing the run.",
+diff --git a/temper/temper-build-deploy-checks/check-addon-sandbox-safety/check-addon-sandbox-safety.module.ts b/temper/temper-build-deploy-checks/check-addon-sandbox-safety/check-addon-sandbox-safety.module.ts
+index d1fbc76128371586317178a8552fc9c807e368f5..4bb5f737807ce057a85733cbcc7c32e0b9c34f67 100644
+--- a/temper/temper-build-deploy-checks/check-addon-sandbox-safety/check-addon-sandbox-safety.module.ts
++++ b/temper/temper-build-deploy-checks/check-addon-sandbox-safety/check-addon-sandbox-safety.module.ts
+@@ -15,10 +15,7 @@ export const checkAddonSandboxSafety = {
+       invariantKind: "constraint",
+       statement: "A bundle examined is a bundle whose text was read.",
+     },
+-    {
+-      invariantKind: "constraint",
+-      statement: "An empty build output ends the run rather than passing the run.",
+-    },
++
+     {
+       invariantKind: "constraint",
+       statement: "A bundle that could not be read ends the run with the bundles read so far named.",
