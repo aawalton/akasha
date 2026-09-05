@@ -30,7 +30,6 @@ export const rynTrainedParser = {
     { statement: "Every sentence shape akasha holds carries a decision." },
     { statement: "A sentence akasha refuses names the shape it is refused for." },
     { statement: "A change writing a sentence akasha refuses does not land." },
-    { statement: "The phrase grammar and the word lexicon are gone." },
     {
       statement: "Every invariant under akasha is written in plain language.",
       workingMemory:
