@@ -103,3 +103,16 @@ index fc27d4fd2d598fbb261cfa6e74fba3c8bb1a6d1e..68ec6289541867a438c52df1f18e7ba1
      },
      {
        invariantKind: "departure",
+diff --git a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
+index 679cd35d141d8dacad7813c30aa3781070d3dac1..ae5654ad8054a61c5b6d3f5a50e3f1849fd17f3d 100644
+--- a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
++++ b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
+@@ -61,7 +61,7 @@ export const supervisorLogSweeping = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "A seat store that has stopped being written is refused rather than read as every seat having departed at once.",
++        "A seat store that stopped being written is refused rather than read as every seat departing at once.",
+     },
+   ],
+ } as const satisfies Module
