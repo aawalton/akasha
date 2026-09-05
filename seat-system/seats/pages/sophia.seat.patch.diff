@@ -24,3 +24,36 @@ index 0000000000000000000000000000000000000000..6aa949bde337bef581f863ad39293e92
 +  const oid = blobAt(root, listed.path)
 +  return oid === null ? [] : [{ path: listed.path, oid, owed: AKASHA }]
 +}
+diff --git a/context/warrants/seat-akasha/seat-akasha.context-warrant.ts b/context/warrants/seat-akasha/seat-akasha.context-warrant.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1e7459e940c7c3abe596b6e689ce031975afc170
+--- /dev/null
++++ b/context/warrants/seat-akasha/seat-akasha.context-warrant.ts
+@@ -0,0 +1,27 @@
++import type { ContextWarrant } from "../context-warrant.page-type.ts"
++
++export const seatAkasha = {
++  id: "01a07342-4f26-7000-a08d-68ea33c583d6",
++  pageTypeSlug: "context-warrant",
++  slug: "seat-akasha",
++  definition: "what an agent must read for the akasha domain it works within",
++  code: "ts",
++  test: "ts",
++  runsOnRead: true,
++  runsOnWrite: true,
++  transitive: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "An agent warrants the akasha domain.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Only an agent warrants the akasha domain.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An akasha domain whose page cannot be found is no warrant.",
++    },
++  ],
++} as const satisfies ContextWarrant
