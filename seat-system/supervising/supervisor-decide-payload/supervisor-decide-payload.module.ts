@@ -9,7 +9,7 @@ export const supervisorDecidePayload = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A field that is not what that field should be names its own path in the fault.",
+      statement: "A field of the wrong type names its own path in the fault.",
     },
     {
       invariantKind: "absence",
