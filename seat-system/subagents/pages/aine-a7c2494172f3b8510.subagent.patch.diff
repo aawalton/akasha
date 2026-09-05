@@ -21,7 +21,7 @@ index 1820e25f81703821849d59512ad4d74a4cacfd56..6f02c24397ce4296394d9a9b20f572e0
      if (lead.slot === "hole" && lead.mark !== null)
        return no(
 diff --git a/markdown-pages/markdown-glob/markdown-glob.module.code.ts b/markdown-pages/markdown-glob/markdown-glob.module.code.ts
-index 4d249ccaf7532513a6a7963e7f4158124581d39c..642b0488365c2b3b00416884f1505b769c5988a2 100644
+index 4d249ccaf7532513a6a7963e7f4158124581d39c..59388defb843ac80414f91f76b1814b211817e07 100644
 --- a/markdown-pages/markdown-glob/markdown-glob.module.code.ts
 +++ b/markdown-pages/markdown-glob/markdown-glob.module.code.ts
 @@ -12,7 +12,7 @@ const held = new Map<string, Minimatch>()
@@ -44,8 +44,20 @@ index 4d249ccaf7532513a6a7963e7f4158124581d39c..642b0488365c2b3b00416884f1505b76
  // whatever they are named — which is what `endsWith` answers.
  const TAIL_ONLY = /^\*\*\/\*([A-Za-z0-9._-]+)$/
  
+@@ -78,9 +78,9 @@ function scannedGlob(pattern: string, root: string): readonly string[] {
+ // times: six saved queries, each scanning for the query pages, for the pages of its type, and for
+ // the page-type registry under those. Held for the length of a `duringOneCall` scope the 22 walks
+ // are one, and the answer is the same answer — measured byte for byte against what the 22 walks
+-// composed. A reader outside such a scope memoizes nothing and walks the disk as it stands.
++// composed. A reader outside such a scope memoizes nothing and walks the disk as it is.
+ //
+-// What a call gets is therefore the tree as it stood when that call first asked. `page-type-files`
++// What a call gets is therefore the tree as it was when that call first asked. `page-type-files`
+ // and `documents` already hold a scan on those terms, so a writer landing a file and scanning
+ // again inside one call was reading past its own write before this.
+ export function scanGlob(pattern: string, root: string): readonly string[] {
 diff --git a/markdown-pages/markdown-page-seq/markdown-page-seq.module.code.ts b/markdown-pages/markdown-page-seq/markdown-page-seq.module.code.ts
-index 8131c472b8b657094fad4502a5a512b714c0da60..d58341dcede26a4dc7bf15f037252caec1958183 100644
+index 8131c472b8b657094fad4502a5a512b714c0da60..7c4a61edf735c420583e0dd1736d08a4c303eb61 100644
 --- a/markdown-pages/markdown-page-seq/markdown-page-seq.module.code.ts
 +++ b/markdown-pages/markdown-page-seq/markdown-page-seq.module.code.ts
 @@ -84,8 +84,8 @@ async function advance(source: SeqSource, first: number, count: number): Promise
@@ -59,7 +71,7 @@ index 8131c472b8b657094fad4502a5a512b714c0da60..d58341dcede26a4dc7bf15f037252cae
      }
    }
    const landed = await landBodies(
-@@ -108,7 +108,7 @@ export async function takeSeqsOf(source: SeqSource, count: number): Promise<numb
+@@ -108,11 +108,11 @@ export async function takeSeqsOf(source: SeqSource, count: number): Promise<numb
    }
    const absolute = join(rootFor(resolveRoots(), AKASHA), source.pageTypeRelPath)
    return await exclusively(`${absolute}${ALLOCATING}`, async () => {
@@ -68,8 +80,13 @@ index 8131c472b8b657094fad4502a5a512b714c0da60..d58341dcede26a4dc7bf15f037252cae
      const first = readNextSeqOf(source)
      const run = await advance(source, first, count)
      if (run.code === 0) return first
+-    if (!stoodChanged && uncommitted(source.pageTypeRelPath)) {
++    if (!wasChanged && uncommitted(source.pageTypeRelPath)) {
+       throw new Error(
+         `nothing was created and ${count === 1 ? "seq" : "seqs"} ${runOf(first, count)} cannot be ` +
+           `given back: the edit advancing \`${NEXT_SEQ_KEY}\` in ${source.pageTypeRelPath} ` +
 diff --git a/markdown-pages/markdown-uncommitted/markdown-uncommitted.module.code.ts b/markdown-pages/markdown-uncommitted/markdown-uncommitted.module.code.ts
-index ff08132a7e89374cae61f9f4608b5f210170cde7..08f8644ee98fbf7b8166407723b2a782010b98e1 100644
+index ff08132a7e89374cae61f9f4608b5f210170cde7..5b0b14ab86f443edf677bdef809bfc9a3c0c4063 100644
 --- a/markdown-pages/markdown-uncommitted/markdown-uncommitted.module.code.ts
 +++ b/markdown-pages/markdown-uncommitted/markdown-uncommitted.module.code.ts
 @@ -17,7 +17,7 @@ const STRINGIFY_OPTIONS = {
@@ -90,3 +107,17 @@ index ff08132a7e89374cae61f9f4608b5f210170cde7..08f8644ee98fbf7b8166407723b2a782
      )
    }
    if (typeof parsed !== "object" || parsed === null || Array.isArray(parsed)) {
+@@ -77,10 +77,10 @@ export function patchUncommittedUnder(
+ ): void {
+   exclusively(uncommittedPathFor(pagePath), () => {
+     const held = readUncommittedNow(pagePath) ?? {}
+-    const standing = held[key]
++    const inside = held[key]
+     const under =
+-      typeof standing === "object" && standing !== null && !Array.isArray(standing)
+-        ? (standing as Record<string, unknown>)
++      typeof inside === "object" && inside !== null && !Array.isArray(inside)
++        ? (inside as Record<string, unknown>)
+         : {}
+     writeUncommitted(pagePath, { ...held, [key]: { ...under, ...values } })
+   })
