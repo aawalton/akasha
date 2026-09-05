@@ -96,3 +96,18 @@ index 0000000000000000000000000000000000000000..9461d9fb232cc955144b3b3f5f874583
 +  definition: "what the host a page is drawn in can do",
 +  partSlugs: ["module/capability-hosts", "module/page-display-registry"],
 +} as const satisfies Domain
+diff --git a/pages/ui/contexts/pages-ui-contexts.domain.ts b/pages/ui/contexts/pages-ui-contexts.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..758624398d9a6b17444bd10635ae2ca2a70e802a
+--- /dev/null
++++ b/pages/ui/contexts/pages-ui-contexts.domain.ts
+@@ -0,0 +1,9 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesUiContexts = {
++  id: "01a071cf-5cb5-7515-985b-9a9999073b99",
++  pageTypeSlug: "domain",
++  slug: "pages-ui-contexts",
++  definition: "a value a React tree carries down",
++  partSlugs: ["module/page-resolver-context", "module/relation-picker-context"],
++} as const satisfies Domain
