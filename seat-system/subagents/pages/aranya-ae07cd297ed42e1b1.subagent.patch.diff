@@ -14,3 +14,14 @@ index 0000000000000000000000000000000000000000..6de193ea31dc7306dd2611fe6d2d87c8
 +    "the chart server's deployment, its namespace, its configuration and the way in to it",
 +  code: "ts",
 +} as const satisfies Manifest
+diff --git a/infrastructure/telemetry/telemetry.domain.ts b/infrastructure/telemetry/telemetry.domain.ts
+index ecbd1b5aad0be63daefb899711fb325f08a67bc0..0d384287a5dfe2da60eb74d04f6d360ea8f010cc 100644
+--- a/infrastructure/telemetry/telemetry.domain.ts
++++ b/infrastructure/telemetry/telemetry.domain.ts
+@@ -5,5 +5,5 @@ export const telemetry = {
+   pageTypeSlug: "domain",
+   slug: "telemetry",
+   definition: "somewhere a program records what it is doing",
+-  partSlugs: ["domain/log", "domain/metric"],
++  partSlugs: ["domain/log", "domain/metric", "manifest/grafana"],
+ } as const satisfies Domain
