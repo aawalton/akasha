@@ -138,7 +138,7 @@ export function rulesOf(person: string, root: string): readonly Rule[] {
     const names = [...held].filter((one) => one.endsWith(suffix)).sort()
     if (names.length === 0)
       throw new Error(
-        `\`${folder}\` holds no ${kind} rule, and no rule standing is not the same as no rule matching`
+        `\`${folder}\` holds no ${kind} rule, and no rule at all is not the same as no rule matching`
       )
     for (const name of names) {
       const relPath = `${folder}/${name}`

@@ -18,7 +18,7 @@ export const inboxPass = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag standing where a person's name was asked for is no name.",
+      statement: "A flag where a person's name was asked for is no name.",
     },
     {
       invariantKind: "departure",

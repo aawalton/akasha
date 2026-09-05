@@ -11,7 +11,7 @@ export const inboxWatching = {
     {
       invariantKind: "departure",
       statement:
-        "The watch stands behind the guard on being the file run, so loading this file declares its value and starts nothing.",
+        "The watch sits behind the guard on being the file run, so loading this file declares its value and starts nothing.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +46,7 @@ export const inboxWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "The mail announced is still standing in the inbox.",
+      statement: "The mail announced is still in the inbox.",
     },
     {
       invariantKind: "departure",

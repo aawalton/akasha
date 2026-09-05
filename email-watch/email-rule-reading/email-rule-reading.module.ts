@@ -15,7 +15,7 @@ export const emailRuleReading = {
     {
       invariantKind: "departure",
       statement:
-        "A rule source that cannot be read raises rather than standing as a person holding no rule.",
+        "A rule source that cannot be read raises rather than counting as a person holding no rule.",
     },
     {
       invariantKind: "departure",

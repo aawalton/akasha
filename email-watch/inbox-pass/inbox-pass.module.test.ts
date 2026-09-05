@@ -16,7 +16,7 @@ test("a person named after the flag is the person read", () => {
   expect(personIn(["--dry-run", "--person", "elaine"])).toBe("elaine")
 })
 
-test("a flag standing where a person's name was asked for is no name", () => {
+test("a flag where a person's name was asked for is no name", () => {
   expect(personIn(["--person", "--dry-run"])).toBe("alan")
   expect(personIn(["--person"])).toBe("alan")
   expect(personIn(["--person", ""])).toBe("alan")
