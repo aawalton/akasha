@@ -103,3 +103,40 @@ index 6cbfead5d0fff5c14bd011283eb1e7faec44d856..142066bdc303e22e3639fee0d2f703df
    }
    const done = ran([at, ...ARGV, ...named], { cwd: root })
    if (!JUDGED.has(done.code)) {
+diff --git a/checks/code-checks/pages/shell-clean/shell-clean.code-check.ts b/checks/code-checks/pages/shell-clean/shell-clean.code-check.ts
+index 2e61015ab4231af35c5799865db5f666bafe5c9d..c047530844f84c028689978ba09cc360326f65f3 100644
+--- a/checks/code-checks/pages/shell-clean/shell-clean.code-check.ts
++++ b/checks/code-checks/pages/shell-clean/shell-clean.code-check.ts
+@@ -47,8 +47,7 @@ export const shellClean = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A script standing outside the world is a script the linter cannot follow a source into.",
++      statement: "A script outside the world is a script the linter cannot follow a source into.",
+     },
+     {
+       invariantKind: "departure",
+@@ -56,11 +55,11 @@ export const shellClean = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every finding is answered against the file the finding stands in.",
++      statement: "Every finding is answered against the file the finding is in.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The findings are answered in the order the findings stand in the files.",
++      statement: "The findings are answered in the order the findings are in the files.",
+     },
+     {
+       invariantKind: "constraint",
+@@ -101,7 +100,7 @@ export const shellClean = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "The linter stands on the host rather than among the declared dependencies.",
++      statement: "The linter is on the host rather than among the declared dependencies.",
+     },
+     {
+       invariantKind: "gap",
