@@ -13,7 +13,7 @@ export const zoneEsoStubs = {
     },
     {
       invariantKind: "departure",
-      statement: "What a stub answers is never read as game data.",
+      statement: "A stub's answer is never read as game data.",
     },
   ],
 } as const satisfies Module
