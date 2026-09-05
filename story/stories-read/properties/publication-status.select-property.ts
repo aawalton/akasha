@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const publicationStatus = {
   id: "01a06554-d8bd-750b-95f4-3b810f2c4875",

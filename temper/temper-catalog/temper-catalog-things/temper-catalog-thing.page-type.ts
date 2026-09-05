@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { TemperThing } from "../../temper-things/temper-thing.page-type.ts"
 import type { Available } from "./properties/available.boolean-property.ts"
 import type { Effect } from "./properties/effect.text-property.ts"

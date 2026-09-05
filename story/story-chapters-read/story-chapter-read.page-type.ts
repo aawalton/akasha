@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { CollectionExternal } from "../../collections/collection-externals/collection-external.page-type.ts"
 import type { ExternalLink } from "../../collections/collection-externals/properties/external-link.url-property.ts"
 import type { OwnLength } from "../../collections/properties/own-length.number-property.ts"

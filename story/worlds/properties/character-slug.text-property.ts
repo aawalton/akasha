@@ -1,4 +1,4 @@
-import type { TextProperty } from "@akasha/pages-system/text-property"
+import type { TextProperty } from "@akasha/pages/text-property"
 
 export type CharacterSlug = string
 

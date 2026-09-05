@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { Abbreviation } from "../temper-companion-things/properties/abbreviation.text-property.ts"
 import type { ValidArmorWeights } from "../temper-companion-things/properties/valid-armor-weights.text-property.ts"
 import type { ValidTraitIds } from "../temper-companion-things/properties/valid-trait-ids.text-property.ts"

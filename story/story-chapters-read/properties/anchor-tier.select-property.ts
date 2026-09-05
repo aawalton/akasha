@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const anchorTier = {
   id: "01a0685e-ef8a-7c8d-8b8c-de6047bf0040",

@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 
 const COMPILER_PACKAGE = "language-design/lua-compiler"
 

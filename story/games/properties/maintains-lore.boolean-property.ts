@@ -1,4 +1,4 @@
-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
+import type { BooleanProperty } from "@akasha/pages/boolean-property"
 
 export type MaintainsLore = boolean
 

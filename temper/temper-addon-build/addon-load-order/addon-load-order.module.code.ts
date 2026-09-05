@@ -1,7 +1,7 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { valuesOfType } from "@akasha/indexes"
-import { numberAt, textAt } from "@akasha/pages-system/page-value"
+import { numberAt, textAt } from "@akasha/pages/page-value"
 import type { AddonManifest } from "@akasha/temper-addons-resolve/addon-json"
 import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
 import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"

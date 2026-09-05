@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages-system/page"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { Page } from "@akasha/pages/page"
+import type { PageType } from "@akasha/pages/page-type"
 import type { Doing } from "./properties/doing.text-property.ts"
 import type { ElementKind } from "./properties/element-kind.select-property.ts"
 import type { Feeling } from "./properties/feeling.text-property.ts"

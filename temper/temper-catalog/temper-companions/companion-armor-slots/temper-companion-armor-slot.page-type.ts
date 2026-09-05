@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.ts"
 
 export type TemperCompanionArmorSlot = TemperCompanionThing

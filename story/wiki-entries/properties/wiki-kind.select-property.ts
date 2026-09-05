@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const wikiKind = {
   id: "01a06577-f385-7cda-a112-1e8887344a93",
