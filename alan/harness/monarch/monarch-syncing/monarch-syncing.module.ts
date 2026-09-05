@@ -18,11 +18,11 @@ export const monarchSyncing = {
     },
     {
       invariantKind: "departure",
-      statement: "The category rules are run over what arrived.",
+      statement: "The category rules are run over the rows that arrived.",
     },
     {
       invariantKind: "departure",
-      statement: "The full pass is what repairs the rows the minutely poll left alone.",
+      statement: "The full pass repairs the rows the minutely poll left alone.",
     },
     {
       invariantKind: "departure",
