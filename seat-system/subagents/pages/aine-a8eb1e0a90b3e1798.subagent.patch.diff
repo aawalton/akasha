@@ -1,0 +1,62 @@
+diff --git a/seat-system/seat-stated/seat-stated.module.code.ts b/seat-system/seat-stated/seat-stated.module.code.ts
+index 485f090baa475e8323158a08eed3cb36260b5e74..3b55351bb1c7ee2804a5967df337ea53768df91a 100644
+--- a/seat-system/seat-stated/seat-stated.module.code.ts
++++ b/seat-system/seat-stated/seat-stated.module.code.ts
+@@ -93,11 +93,11 @@ function modeIn(said: string | null): declarations.Mode | null {
+   return declarations.MODES.find((one) => one === said) ?? null
+ }
+ 
+-export function mergeHeld(standing: Stated, held: StatedFromHistory | null): Stated {
+-  if (held === null) return standing
++export function mergeHeld(now: Stated, held: StatedFromHistory | null): Stated {
++  if (held === null) return now
+   const heldMode = modeIn(held.mode)
+   const attributes: { -readonly [K in declarations.AttributeKey]?: declarations.Attribute } = {
+-    ...standing.attributes,
++    ...now.attributes,
+   }
+   for (const slot of declarations.ATTRIBUTES) {
+     const slug = held.set[slot]
+@@ -105,27 +105,26 @@ export function mergeHeld(standing: Stated, held: StatedFromHistory | null): Sta
+   }
+   const principal: Principal | null = held.principal
+   return {
+-    ...standing,
++    ...now,
+     attributes,
+     // What the page said before the stop took it away, which is where the address is read from once
+-    // there is no page to read. What stands wins, as it does for every other value here.
+-    assignment: standing.assignment ?? held.assignment,
+-    principal: standing.principal ?? (principal === null ? null : { value: principal }),
+-    onCall: standing.onCall || held.onCall,
+-    initiative:
+-      standing.initiative ?? (held.initiative === null ? null : { value: held.initiative }),
+-    // What stands wins, and history fills what is missing. A seat that still states its own mode is
+-    // never told a older one, and a seat that states none takes what it last said rather than
+-    // composing to nothing.
+-    recordedMode: standing.recordedMode ?? (heldMode === null ? null : { value: heldMode }),
+-    mode: standing.recordedMode === null && heldMode !== null ? heldMode : standing.mode,
+-    registration: standing.registration ?? (held.account === null ? null : { value: held.account }),
++    // there is no page to read. What the seat says now wins, as it does for every other value here.
++    assignment: now.assignment ?? held.assignment,
++    principal: now.principal ?? (principal === null ? null : { value: principal }),
++    onCall: now.onCall || held.onCall,
++    initiative: now.initiative ?? (held.initiative === null ? null : { value: held.initiative }),
++    // What the seat says now wins, and history fills what is missing. A seat that still states its
++    // own mode is never told a older one, and a seat that states none takes what it last said
++    // rather than composing to nothing.
++    recordedMode: now.recordedMode ?? (heldMode === null ? null : { value: heldMode }),
++    mode: now.recordedMode === null && heldMode !== null ? heldMode : now.mode,
++    registration: now.registration ?? (held.account === null ? null : { value: held.account }),
+   }
+ }
+ 
+-export function fallBackToHistory(standing: Stated, seatName: string, roots: Roots): Stated {
+-  if (pageWouldCompose(standing)) return standing
+-  return mergeHeld(standing, statedFromHistory(seatName, roots))
++export function fallBackToHistory(now: Stated, seatName: string, roots: Roots): Stated {
++  if (pageWouldCompose(now)) return now
++  return mergeHeld(now, statedFromHistory(seatName, roots))
+ }
+ 
+ export interface Said {
