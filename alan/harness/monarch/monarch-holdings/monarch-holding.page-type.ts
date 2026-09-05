@@ -42,11 +42,13 @@ export const monarchHolding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Monarch reports a holding only for an account that says it has holdings.",
+      statement:
+        "Monarch reports a holding only for an account that says that account has holdings.",
     },
     {
       invariantKind: "departure",
-      statement: "A holding is three figures the daily sync rewrites, so it sits in memory.",
+      statement:
+        "A holding is three figures the daily sync rewrites, so that holding sits in memory.",
     },
   ],
 } as const satisfies PageType
