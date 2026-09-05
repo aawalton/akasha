@@ -79,3 +79,11 @@ index d177a45253b26b4c32ae79c15399fcf8f160c60c..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../alan/music/commands
 \ No newline at end of file
+diff --git a/alan/music/spotify/spotify b/alan/music/spotify/spotify
+deleted file mode 120000
+index 0c1eabc8742658a9cdd94121d4cc5829ece7d698..0000000000000000000000000000000000000000
+--- a/alan/music/spotify/spotify
++++ /dev/null
+@@ -1 +0,0 @@
+-../../alan/music/spotify
+\ No newline at end of file
