@@ -1,0 +1,9 @@
+import type { Manifest } from "@akasha/k8s-types/manifest"
+
+export const kubeStateMetrics = {
+  id: "01a07393-6503-7393-861b-7b34e761f6d1",
+  pageTypeSlug: "manifest",
+  slug: "kube-state-metrics",
+  definition: "the cluster object exporter's permissions, its deployment and the way in to it",
+  code: "ts",
+} as const satisfies Manifest

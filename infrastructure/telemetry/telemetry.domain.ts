@@ -9,6 +9,7 @@ export const telemetry = {
     "domain/log",
     "domain/metric",
     "manifest/dcgm-exporter-daemonset",
+    "manifest/kube-state-metrics",
     "manifest/node-exporter-daemonset",
   ],
 } as const satisfies Domain
