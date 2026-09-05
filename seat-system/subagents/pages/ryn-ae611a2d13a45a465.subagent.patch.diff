@@ -1,5 +1,5 @@
 diff --git a/editor-extension/work-tree-view/work-tree-view.module.ts b/editor-extension/work-tree-view/work-tree-view.module.ts
-index bfccc4191d841efb5958fb35e6f8504a4189c63a..8cf288e4b8b934af43fc9922e3e80293565c36fa 100644
+index bfccc4191d841efb5958fb35e6f8504a4189c63a..915e7a6800885f7436c0836e5fdb04a5bb0ec313 100644
 --- a/editor-extension/work-tree-view/work-tree-view.module.ts
 +++ b/editor-extension/work-tree-view/work-tree-view.module.ts
 @@ -25,7 +25,8 @@ export const workTreeView = {
@@ -12,3 +12,12 @@ index bfccc4191d841efb5958fb35e6f8504a4189c63a..8cf288e4b8b934af43fc9922e3e80293
      },
      {
        invariantKind: "departure",
+@@ -50,7 +51,7 @@ export const workTreeView = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A row opening no document says in its tooltip that it represents nothing declared.",
++        "A row opening no document says in its tooltip that the row represents nothing declared.",
+     },
+     {
+       invariantKind: "absence",
