@@ -1,4 +1,3 @@
-runsWarrants: false
 diff --git a/infrastructure/seaweedfs/filer/seaweedfs-filer.cluster-service.code.attachment.ts b/infrastructure/seaweedfs/filer/seaweedfs-filer.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 2fee0ac8460139292a40029b2fc181e3f9e82014..0000000000000000000000000000000000000000
@@ -90,7 +89,7 @@ index 0000000000000000000000000000000000000000..2fee0ac8460139292a40029b2fc181e3
 +  ]
 +}
 diff --git a/service-system/cluster-services/pages/seaweedfs-filer.cluster-service.ts b/service-system/cluster-services/pages/seaweedfs-filer.cluster-service.ts
-index 2caa2bbda342f15fb248557517f4d5143291dacb..dbe5fad558a07499d7af5a383fa3ca35fcd1858f 100644
+index 2caa2bbda342f15fb248557517f4d5143291dacb..b8b5fd794c2db18502f410fe0584422fc943976e 100644
 --- a/service-system/cluster-services/pages/seaweedfs-filer.cluster-service.ts
 +++ b/service-system/cluster-services/pages/seaweedfs-filer.cluster-service.ts
 @@ -11,6 +11,5 @@ export const seaweedfsFiler = {
@@ -99,5 +98,5 @@ index 2caa2bbda342f15fb248557517f4d5143291dacb..dbe5fad558a07499d7af5a383fa3ca35
    containerPort: 8888,
 -  manifestCode:
 -    "infrastructure/seaweedfs/filer/seaweedfs-filer.cluster-service.code.attachment.ts",
-+  manifestCode: "infrastructure/seaweedfs/filer/seaweedfs-filer.manifest.code.ts",
++  manifestSlug: "seaweedfs-filer",
  } as const satisfies ClusterService
