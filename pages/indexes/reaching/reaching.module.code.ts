@@ -225,6 +225,11 @@ export function reaches(named: string, wanted: Wanted, known: Known): Reached {
       return { refused: `no \`${pageTypeSlug}\` carries the slug \`${slug}\`` }
     return { refused: among(named, found) }
   }
+  if (address.kind === "scoped") {
+    return {
+      refused: `\`${named}\` names its parent by a slug, and a slug names pages of more than one type`,
+    }
+  }
   if (every.length === 0) {
     return { refused: `\`${named}\` names no page type and its property declares no target` }
   }

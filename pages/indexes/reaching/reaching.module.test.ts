@@ -167,3 +167,10 @@ test("a record property answers the fields it declares, and another property ans
   expect(known.fieldsOf("parts")).toEqual(["part-slugs"])
   expect(known.fieldsOf("part-slugs")).toEqual([])
 })
+
+test("an address naming a parent is refused rather than read as the slug it ends with", () => {
+  const reached = reaches("domain/whatever/b", "domain", shaped({ "domain/b": B }))
+
+  expect("refused" in reached).toBe(true)
+  if ("refused" in reached) expect(reached.refused).toContain("names its parent by a slug")
+})
