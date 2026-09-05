@@ -15,7 +15,7 @@ import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule"
 import { parseConfig } from "@akasha/pages-core/schema/pages"
 import { selectConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
 import type { SelectOption } from "@akasha/pages-core/schema/select-option-create"
-import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
+import type { PropertyDefinition } from "@akasha/pages-core/types"
 import type { PropertyBadgeProps } from "@akasha/pages-ui-components/property-badge"
 
 function getOptions(definition: PropertyDefinition): readonly SelectOption[] {
@@ -38,14 +38,12 @@ function SelectDropdown({
   trigger,
   onPropertyChange,
   align,
-  pageData,
 }: {
   definition: PropertyDefinition
   currentValue: PropertyValue
   trigger: React.ReactNode
   onPropertyChange: NonNullable<PropertyBadgeProps["onPropertyChange"]>
   align: "start" | "end"
-  pageData: PageDataJSON | undefined
 }) {
   const options = getOptions(definition)
   return (
@@ -62,13 +60,7 @@ function SelectDropdown({
       >
         {options.map((opt) => {
           const isActive = opt.id === currentValue
-          const base: PageDataJSON = pageData ?? {}
-          const hypotheticalPageData: PageDataJSON = {
-            ...base,
-            [definition.id]: opt.id,
-          }
-          const optVariant =
-            resolveBadgeVariant(definition, hypotheticalPageData, opt.id) ?? "elevation-muted"
+          const optVariant = resolveBadgeVariant(definition, opt.id) ?? "elevation-muted"
           return (
             <DropdownMenuItem
               key={opt.id}
@@ -91,7 +83,6 @@ export function SelectPropertyBadge({
   property,
   value,
   editable,
-  pageData,
   onPropertyChange,
 }: PropertyBadgeProps) {
   const layout = useBadgeLayoutContext()
@@ -100,7 +91,7 @@ export function SelectPropertyBadge({
   const option = typeof value === "string" ? findOption(options, value) : undefined
   const accentVariant = property.accent ? "accent" : "elevation-muted"
   const variantForValue = (v: PropertyValue): BadgeVariant =>
-    resolveBadgeVariant(property, pageData ?? {}, v) ?? accentVariant
+    resolveBadgeVariant(property, v) ?? accentVariant
 
   const trigger = option ? (
     <Badge variant={variantForValue(value)}>{option.label}</Badge>
@@ -121,7 +112,6 @@ export function SelectPropertyBadge({
       trigger={trigger}
       onPropertyChange={onPropertyChange}
       align={align}
-      pageData={pageData}
     />
   )
 }

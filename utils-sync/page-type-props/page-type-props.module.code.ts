@@ -13,6 +13,5 @@ export interface PropSpec {
   readonly options?: readonly string[]
   readonly relation?: RelationTarget
   readonly config?: Readonly<Record<string, Json>>
-  readonly colorRules?: Json
   readonly storage?: StorageTier
 }

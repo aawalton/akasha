@@ -1,5 +1,4 @@
 import type { PropertyDefinition } from "@akasha/pages-core/types"
-import type { PropSpec } from "@akasha/utils-sync/page-type-props"
 
 export const IDLE_PERSONA_CARD_PAGE_TYPE_SLUG = "idle-persona-card"
 
@@ -68,80 +67,6 @@ const IDLE_ACTION_BUTTON_BASES = {
   },
 } as const
 
-export const IDLE_CARD_PROPS: readonly PropSpec[] = [
-  {
-    stringId: "persona",
-    title: "Persona",
-    type: "relation",
-    relation: { target: "persona", back: "idleCards" },
-  },
-  {
-    stringId: "stars",
-    title: "Stars",
-    type: "number",
-    config: { icon: "star", badgeVariant: "red" },
-  },
-  {
-    stringId: "seatIndex",
-    title: "Seat Index",
-    type: "number",
-  },
-  {
-    stringId: "ratePerSec",
-    title: "Rate /s",
-    type: "number",
-    config: { format: "short", units: "/s", icon: "heart", badgeVariant: "yellow" },
-  },
-  {
-    stringId: "rank",
-    title: "Rank",
-    type: "number",
-    config: { prefix: "Rank ", badgeVariant: "yellow", format: "short" },
-  },
-  {
-    stringId: "trainCost",
-    title: "Train Cost",
-    type: "number",
-  },
-  {
-    stringId: "lockState",
-    title: "Status",
-    type: "select",
-    options: ["Unlocked", "Locked"],
-    colorRules: [
-      { when: `{value} == "${IDLE_LOCK_STATE_UNLOCKED}"`, variant: "green" },
-      { when: `{value} == "${IDLE_LOCK_STATE_LOCKED}"`, variant: "default" },
-    ],
-  },
-  { stringId: IDLE_TRAIN_VERB_ID, ...IDLE_ACTION_BUTTON_BASES.train },
-  { stringId: IDLE_TRAIN10_VERB_ID, ...IDLE_ACTION_BUTTON_BASES.train10 },
-  { stringId: IDLE_TRAINMAX_VERB_ID, ...IDLE_ACTION_BUTTON_BASES.trainMax },
-  {
-    stringId: "lockEligible",
-    title: "Lock Eligible",
-    type: "boolean",
-  },
-  {
-    stringId: "specializeLocked",
-    title: "Specialize Locked",
-    type: "boolean",
-  },
-  { stringId: "remove", ...IDLE_ACTION_BUTTON_BASES.remove },
-  { stringId: "lock", ...IDLE_ACTION_BUTTON_BASES.lock },
-]
-
-const IDLE_CARD_CONTROL_PROPERTY_IDS: readonly string[] = [
-  "remove",
-  "lock",
-  IDLE_TRAIN_VERB_ID,
-  IDLE_TRAIN10_VERB_ID,
-  IDLE_TRAINMAX_VERB_ID,
-]
-
-export const IDLE_CARD_DATA_PROPERTY_IDS: readonly string[] = IDLE_CARD_PROPS.map(
-  (p) => p.stringId
-).filter((id) => !IDLE_CARD_CONTROL_PROPERTY_IDS.includes(id))
-
 export const IDLE_CARD_PROPERTY_DEFINITIONS: readonly PropertyDefinition[] = [
   { id: "cover", title: "Cover", type: "url" },
   { id: "stars", title: "Stars", type: "number", config: { icon: "star", badgeVariant: "red" } },
@@ -187,10 +112,11 @@ export const IDLE_CARD_PROPERTY_DEFINITIONS: readonly PropertyDefinition[] = [
         { id: IDLE_LOCK_STATE_LOCKED, label: "Locked" },
       ],
     },
-    colorRules: [
-      { when: `{value} == "${IDLE_LOCK_STATE_UNLOCKED}"`, variant: "green" },
-      { when: `{value} == "${IDLE_LOCK_STATE_LOCKED}"`, variant: "default" },
-    ],
+    colorRule: (value) => {
+      if (value === IDLE_LOCK_STATE_UNLOCKED) return "green"
+      if (value === IDLE_LOCK_STATE_LOCKED) return "default"
+      return null
+    },
   },
   { id: IDLE_TRAIN_VERB_ID, ...IDLE_ACTION_BUTTON_BASES.train },
   { id: IDLE_TRAIN10_VERB_ID, ...IDLE_ACTION_BUTTON_BASES.train10 },

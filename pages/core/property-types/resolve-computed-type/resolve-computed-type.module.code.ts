@@ -168,7 +168,7 @@ function synthesizeDefinition(
     accent?: boolean
     display?: "badge" | "inline"
     sort?: "alpha" | "manual"
-    colorRules?: NonNullable<PropertyDefinition["colorRules"]>
+    colorRule?: NonNullable<PropertyDefinition["colorRule"]>
     columnName?: string
     indexName?: string
     skipRelationMirroring?: boolean
@@ -178,7 +178,7 @@ function synthesizeDefinition(
   if (source.accent !== undefined) optional.accent = source.accent
   if (source.display !== undefined) optional.display = source.display
   if (source.sort !== undefined) optional.sort = source.sort
-  if (source.colorRules !== undefined) optional.colorRules = source.colorRules
+  if (source.colorRule !== undefined) optional.colorRule = source.colorRule
   if (source.columnName !== undefined) optional.columnName = source.columnName
   if (source.indexName !== undefined) optional.indexName = source.indexName
   if (source.skipRelationMirroring !== undefined) {

@@ -1,26 +1,9 @@
 import { isRecord } from "@akasha/utils-narrow/is-record"
 import * as z from "zod"
-import { type PropertyDefinition, STORAGE_TIERS } from "../../page-data/page-data.module.code.ts"
-import { actionButtonConfigSchema } from "../action-button-config/action-button-config.module.code.ts"
-import { colorRuleSchema } from "../color-rule/color-rule.module.code.ts"
+import type { PropertyDefinition } from "../../page-data/page-data.module.code.ts"
 import { detailConfigSchema } from "../detail-config/detail-config.module.code.ts"
 import { listingConfigSchema } from "../listing-config/listing-config.module.code.ts"
 import { mediaConfigSchema } from "../media-config/media-config.module.code.ts"
-import {
-  aggregateConfigSchema,
-  baseConfigSchema,
-  dateConfigSchema,
-  formulaConfigSchema,
-  instantConfigSchema,
-  multiRelationConfigSchema,
-  multiSelectConfigSchema,
-  numberConfigSchema,
-  pathSelectConfigSchema,
-  relationConfigSchema,
-  rollupConfigSchema,
-  selectConfigSchema,
-  textConfigSchema,
-} from "../property-config-schemas/property-config-schemas.module.code.ts"
 import { sequenceConfigSchema } from "../sequence-config/sequence-config.module.code.ts"
 
 export type ReadonlyJSONValue =
@@ -35,123 +18,6 @@ export function parseConfig<T>(schema: z.ZodType<T>, raw: unknown, fallback: T):
   const result = schema.safeParse(raw ?? {})
   return result.success ? result.data : fallback
 }
-
-const BASE_FIELDS = {
-  id: z.string(),
-  title: z.string(),
-  accent: z.boolean().optional(),
-  display: z.enum(["badge", "inline"]).optional(),
-  sort: z.enum(["alpha", "manual"]).optional(),
-  storage: z.enum(STORAGE_TIERS).optional(),
-  groupable: z.boolean().optional(),
-  colorRules: z.array(colorRuleSchema).optional(),
-} as const
-
-export const PropertyDefinitionSchema = z.discriminatedUnion("type", [
-  z
-    .object({ ...BASE_FIELDS, type: z.literal("text"), config: textConfigSchema.nullish() })
-    .passthrough(),
-  z
-    .object({ ...BASE_FIELDS, type: z.literal("markdown"), config: baseConfigSchema.nullish() })
-    .passthrough(),
-  z
-    .object({ ...BASE_FIELDS, type: z.literal("number"), config: numberConfigSchema.nullish() })
-    .passthrough(),
-  z
-    .object({ ...BASE_FIELDS, type: z.literal("select"), config: selectConfigSchema.nullish() })
-    .passthrough(),
-  z
-    .object({
-      ...BASE_FIELDS,
-      type: z.literal("multi-select"),
-      config: multiSelectConfigSchema.nullish(),
-    })
-    .passthrough(),
-  z
-    .object({
-      ...BASE_FIELDS,
-      type: z.literal("path-select"),
-      config: pathSelectConfigSchema.nullish(),
-    })
-    .passthrough(),
-  z
-    .object({
-      ...BASE_FIELDS,
-      type: z.literal("calendar-date"),
-      config: dateConfigSchema.nullish(),
-    })
-    .passthrough(),
-  z
-    .object({
-      ...BASE_FIELDS,
-      type: z.literal("calendar-time"),
-      config: baseConfigSchema.nullish(),
-    })
-    .passthrough(),
-  z
-    .object({ ...BASE_FIELDS, type: z.literal("instant"), config: instantConfigSchema.nullish() })
-    .passthrough(),
-  z
-    .object({ ...BASE_FIELDS, type: z.literal("boolean"), config: baseConfigSchema.nullish() })
-    .passthrough(),
-  z
-    .object({ ...BASE_FIELDS, type: z.literal("url"), config: baseConfigSchema.nullish() })
-    .passthrough(),
-  z
-    .object({ ...BASE_FIELDS, type: z.literal("relation"), config: relationConfigSchema.nullish() })
-    .passthrough(),
-  z
-    .object({
-      ...BASE_FIELDS,
-      type: z.literal("multi-relation"),
-      config: multiRelationConfigSchema.nullish(),
-    })
-    .passthrough(),
-  z
-    .object({
-      ...BASE_FIELDS,
-      type: z.literal("rollup"),
-      config: rollupConfigSchema.nullish(),
-    })
-    .passthrough(),
-  z
-    .object({
-      ...BASE_FIELDS,
-      type: z.literal("aggregate"),
-      config: aggregateConfigSchema.nullish(),
-    })
-    .passthrough(),
-  z
-    .object({
-      ...BASE_FIELDS,
-      type: z.literal("formula"),
-      config: formulaConfigSchema.nullish(),
-    })
-    .passthrough(),
-  z
-    .object({ ...BASE_FIELDS, type: z.literal("json"), config: baseConfigSchema.nullish() })
-    .passthrough(),
-  z
-    .object({ ...BASE_FIELDS, type: z.literal("rrule"), config: baseConfigSchema.nullish() })
-    .passthrough(),
-  z
-    .object({ ...BASE_FIELDS, type: z.literal("progress"), config: baseConfigSchema.nullish() })
-    .passthrough(),
-  z
-    .object({
-      ...BASE_FIELDS,
-      type: z.literal("rich-document"),
-      config: baseConfigSchema.nullish(),
-    })
-    .passthrough(),
-  z
-    .object({
-      ...BASE_FIELDS,
-      type: z.literal("action-button"),
-      config: actionButtonConfigSchema.nullish(),
-    })
-    .passthrough(),
-])
 
 function humanizeIdentifier(id: string): string {
   const spaced = id

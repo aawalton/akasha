@@ -69,13 +69,9 @@ function narrowProgress(value: PropertyValue): NarrowedProgress | null {
   return { current, total, activeEntryKey, entries }
 }
 
-function variantFor(
-  property: PropertyDefinition,
-  pageData: PageDataJSON | undefined,
-  value: PropertyValue
-): BadgeVariant {
+function variantFor(property: PropertyDefinition, value: PropertyValue): BadgeVariant {
   const accentVariant: BadgeVariant = property.accent ? "accent" : "elevation-muted"
-  return resolveBadgeVariant(property, pageData ?? {}, value) ?? accentVariant
+  return resolveBadgeVariant(property, value) ?? accentVariant
 }
 
 function ProgressValue(current: number, total: number) {
@@ -160,7 +156,7 @@ export function ProgressPropertyBadge({ property, value, context, pageData }: Pr
   const [dialogOpen, setDialogOpen] = useState(false)
   const v = narrowProgress(value)
   if (v === null) return null
-  const variant = variantFor(property, pageData, value)
+  const variant = variantFor(property, value)
   const scalarText = `${v.current}/${v.total}`
 
   if (context === "card") {

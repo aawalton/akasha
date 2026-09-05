@@ -50,13 +50,12 @@ export function TextPropertyBadge({
   property,
   value,
   editable,
-  pageData,
   onPropertyChange,
 }: PropertyBadgeProps) {
   const str = asText(value)
   const config = parseConfig(textConfigSchema, property.config, {})
   const variant =
-    resolveBadgeVariant(property, pageData ?? {}, str) ??
+    resolveBadgeVariant(property, str) ??
     config.badgeVariant ??
     (property.accent ? "accent" : "elevation-muted")
 

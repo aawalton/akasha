@@ -27,14 +27,12 @@ export function NumberPropertyBadge({
   property,
   value,
   editable,
-  pageData,
   onPropertyChange,
 }: PropertyBadgeProps) {
   const config = getConfig(property)
   const accentVariant: BadgeVariant = property.accent ? "accent" : "elevation-muted"
   const n = toNumber(value)
-  const variant =
-    resolveBadgeVariant(property, pageData ?? {}, n) ?? config.badgeVariant ?? accentVariant
+  const variant = resolveBadgeVariant(property, n) ?? config.badgeVariant ?? accentVariant
 
   if (editable && onPropertyChange) {
     return (

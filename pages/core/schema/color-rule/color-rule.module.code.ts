@@ -42,10 +42,3 @@ export const colorRuleVariantSchema = z.preprocess(
   (v) => (typeof v === "string" && v in LEGACY_VARIANT_COERCIONS ? LEGACY_VARIANT_COERCIONS[v] : v),
   z.enum(COLOR_RULE_VARIANTS)
 )
-
-export const colorRuleSchema = z.object({
-  when: z.string(),
-  variant: colorRuleVariantSchema,
-})
-
-export type ColorRule = z.infer<typeof colorRuleSchema>

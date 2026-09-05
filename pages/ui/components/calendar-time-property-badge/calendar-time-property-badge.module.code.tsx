@@ -20,11 +20,10 @@ export function CalendarTimePropertyBadge({
   value,
   context,
   editable,
-  pageData,
   onPropertyChange,
 }: PropertyBadgeProps) {
   const accentVariant: BadgeVariant = property.accent ? "accent" : "elevation-muted"
-  const variant = resolveBadgeVariant(property, pageData ?? {}, value) ?? accentVariant
+  const variant = resolveBadgeVariant(property, value) ?? accentVariant
   const time = asTimeString(value)
 
   if (editable && onPropertyChange) {

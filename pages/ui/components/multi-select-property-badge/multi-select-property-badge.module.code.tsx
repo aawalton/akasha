@@ -7,7 +7,7 @@ import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 import { parseConfig } from "@akasha/pages-core/schema/pages"
 import { multiSelectConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
 import type { SelectOption } from "@akasha/pages-core/schema/select-option-create"
-import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
+import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { MultiSelectPopover } from "@akasha/pages-ui-components/multi-select-popover"
 import type { PropertyBadgeProps } from "@akasha/pages-ui-components/property-badge"
 import { requireGet } from "@akasha/utils-narrow/require-get"
@@ -23,17 +23,15 @@ function getValueArray(value: PropertyValue): readonly string[] {
 
 function resolveOptionVariant(
   definition: PropertyDefinition,
-  pageData: PageDataJSON | undefined,
   optId: string
 ): ReturnType<typeof resolveBadgeVariant> {
-  return resolveBadgeVariant(definition, pageData ?? {}, optId)
+  return resolveBadgeVariant(definition, optId)
 }
 
 export function MultiSelectPropertyBadge({
   property,
   value,
   editable,
-  pageData,
   onPropertyChange,
   onCreateOption,
 }: PropertyBadgeProps) {
@@ -43,7 +41,7 @@ export function MultiSelectPropertyBadge({
   const optionMap = new Map(options.map((o) => [o.id, o]))
   const ids = getValueArray(value).filter((id) => optionMap.has(id))
   const accentVariant = property.accent ? "accent" : "elevation-muted"
-  const variantFor = (id: string) => resolveOptionVariant(property, pageData, id) ?? accentVariant
+  const variantFor = (id: string) => resolveOptionVariant(property, id) ?? accentVariant
 
   if (!editable || !onPropertyChange) {
     if (ids.length === 0) return null
@@ -91,7 +89,7 @@ export function MultiSelectPropertyBadge({
       }
       onCreate={onCreateOption ? (label) => onCreateOption(property.id, label) : undefined}
       align={align}
-      getVariant={(id) => resolveOptionVariant(property, pageData, id) ?? undefined}
+      getVariant={(id) => resolveOptionVariant(property, id) ?? undefined}
     >
       {trigger}
     </MultiSelectPopover>

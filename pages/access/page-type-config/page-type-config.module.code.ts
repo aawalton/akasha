@@ -1,5 +1,4 @@
 import type { MediaConfig } from "@akasha/pages-core/schema/media-config"
-import { PropertyDefinitionSchema } from "@akasha/pages-core/schema/pages"
 import type { SequenceConfig } from "@akasha/pages-core/schema/sequence-config"
 import type { StorageTier } from "@akasha/pages-core/types"
 import type { Json } from "@akasha/utils-narrow/json-value"
@@ -74,34 +73,4 @@ export async function getMediaConfig(args: GetMediaConfigArgs): Promise<MediaCon
 
 export async function getMediaPageTypeSlugs(): Promise<ReadonlySet<string>> {
   return fileMediaPageTypeSlugs()
-}
-
-type PropertyDefinitionList = readonly PropertyDefinition[]
-
-function readId(def: unknown): string {
-  if (def != null && typeof def === "object" && "id" in def && typeof def.id === "string") {
-    return def.id
-  }
-  return "<unknown>"
-}
-
-function assertPropertyDefinitionList(value: unknown): asserts value is PropertyDefinitionList {
-  if (!Array.isArray(value)) {
-    throw new Error("asPropertyDefinitionList: expected an array of property definitions")
-  }
-  for (const def of value) {
-    const parsed = PropertyDefinitionSchema.safeParse(def)
-    if (parsed.success) continue
-    const issue = parsed.error.issues[0]
-    const path = issue?.path.join(".") ?? "<unknown>"
-    throw new Error(
-      `asPropertyDefinitionList: invalid property definition (id=${readId(def)}): ${path}: ${issue?.message ?? parsed.error.message}`
-    )
-  }
-}
-
-export function asPropertyDefinitionList(value: unknown): PropertyDefinitionList {
-  if (Array.isArray(value) && value.length === 0) return []
-  assertPropertyDefinitionList(value)
-  return value
 }

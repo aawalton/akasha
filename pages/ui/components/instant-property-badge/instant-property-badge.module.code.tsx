@@ -89,11 +89,10 @@ export function InstantPropertyBadge({
   property,
   value,
   editable,
-  pageData,
   onPropertyChange,
 }: PropertyBadgeProps) {
   const accentVariant: BadgeVariant = property.accent ? "accent" : "elevation-muted"
-  const variant = resolveBadgeVariant(property, pageData ?? {}, value) ?? accentVariant
+  const variant = resolveBadgeVariant(property, value) ?? accentVariant
   const format = getInstantFormat(property)
 
   if (editable && onPropertyChange) {

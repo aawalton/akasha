@@ -138,7 +138,6 @@ export const aggregateConfigSchema = z.object({
 })
 
 export const formulaConfigSchema = z.object({
-  expression: z.string(),
   returnType: z.enum(["text", "number", "calendar-date", "boolean"]),
   format: numberFormatEnum.optional(),
   ...NUMBER_FORMAT_SURFACE_FIELDS,

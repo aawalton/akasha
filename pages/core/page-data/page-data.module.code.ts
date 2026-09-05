@@ -1,4 +1,4 @@
-import type { ColorRule } from "../schema/color-rule/color-rule.module.code.ts"
+import type { ColorRuleVariant } from "../schema/color-rule/color-rule.module.code.ts"
 import type { ReadonlyJSONValue } from "../schema/pages/pages.module.code.ts"
 
 export type PropertyType =
@@ -28,6 +28,8 @@ export const STORAGE_TIERS = ["indexed", "content", "external"] as const
 
 export type StorageTier = (typeof STORAGE_TIERS)[number]
 
+export type ColorRule = (value: ReadonlyJSONValue | undefined) => ColorRuleVariant | null
+
 export type PropertyDefinition = {
   readonly id: string
   readonly title: string
@@ -47,7 +49,7 @@ export type PropertyDefinition = {
   readonly isRequired?: boolean
   readonly unique?: boolean
   readonly parent?: boolean
-  readonly colorRules?: readonly ColorRule[]
+  readonly colorRule?: ColorRule
   readonly defaultValue?: ReadonlyJSONValue
 }
 
