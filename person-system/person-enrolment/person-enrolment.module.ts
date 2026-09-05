@@ -39,7 +39,7 @@ export const personEnrolment = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here decides what a person may reach.",
+      statement: "Nothing here decides a person's access.",
     },
   ],
 } as const satisfies Module
