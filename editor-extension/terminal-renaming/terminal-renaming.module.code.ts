@@ -5,6 +5,7 @@ import {
   recordObservation,
   recordSweep,
 } from "../observation-store/observation-store.module.code.ts"
+import { colorNamed } from "../palette/palette.module.code.ts"
 import {
   lastAppliedByTerminal,
   lastColorByTerminal,
@@ -88,7 +89,10 @@ async function applyOnce(trigger: string): Promise<void> {
       readings.map((reading, index) => {
         const name =
           reading.outcome === "read" ? held.seatByShellPid[String(reading.pid)] : undefined
-        const color = name === undefined ? undefined : held.colorBySeat[name]
+        // The service writes the name of a color, not something the editor can draw, so the
+        // palette is read here. Handing the name straight to `recolor` left every tab uncolored.
+        const named = name === undefined ? undefined : held.colorBySeat[name]
+        const color = named === undefined ? undefined : colorNamed(named)
         return syncTerminal(reading, name, index, terminals.length, color, trigger, output)
       })
     )

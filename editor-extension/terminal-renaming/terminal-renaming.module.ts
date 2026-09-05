@@ -41,6 +41,10 @@ export const terminalRenaming = {
     },
     {
       invariantKind: "departure",
+      statement: "A color's name is read through the palette before a terminal is given it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A closed terminal's marks are dropped.",
     },
     {
