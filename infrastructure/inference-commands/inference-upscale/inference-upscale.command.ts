@@ -46,7 +46,7 @@ export const inferenceUpscale = {
     },
     {
       invariantKind: "departure",
-      statement: "The image is written where the caller named it and nowhere else.",
+      statement: "The image is written where the caller named that image and nowhere else.",
     },
     {
       invariantKind: "departure",
