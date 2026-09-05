@@ -1,5 +1,5 @@
 diff --git a/graph/asking/graph-asking.module.test-fixtures.ts b/graph/asking/graph-asking.module.test-fixtures.ts
-index 351b5f25bc88e8b9c8ecda5fd219fe8015fe8b8b..6de11dea8f778553ee4ab94474e311f276108783 100644
+index 351b5f25bc88e8b9c8ecda5fd219fe8015fe8b8b..510707ce5269255d0630992e20de3cbde2a5cfbd 100644
 --- a/graph/asking/graph-asking.module.test-fixtures.ts
 +++ b/graph/asking/graph-asking.module.test-fixtures.ts
 @@ -119,7 +119,7 @@ export function edgeFiledAt(kind: string): string {
@@ -11,7 +11,7 @@ index 351b5f25bc88e8b9c8ecda5fd219fe8015fe8b8b..6de11dea8f778553ee4ab94474e311f2
    paged(root, INDEX_AT, {
      id: INDEX_ID,
      pageTypeSlug: INDEX,
-@@ -127,7 +127,7 @@ function indexed(root: string, indexName: string, stands: boolean): undefined {
+@@ -127,14 +127,14 @@ function indexed(root: string, indexName: string, stands: boolean): undefined {
      definition: INVENTED,
      name: indexName,
    })
@@ -20,8 +20,25 @@ index 351b5f25bc88e8b9c8ecda5fd219fe8015fe8b8b..6de11dea8f778553ee4ab94474e311f2
  }
  
  function edged(
+   root: string,
+   kind: string,
+   held: Record<string, unknown>,
+-  stands: boolean
++  exists: boolean
+ ): undefined {
+   paged(root, EDGE_AT, {
+     id: EDGE_ID,
+@@ -144,7 +144,7 @@ function edged(
+     indexSlug: `${INDEX}/${HELD_INDEX}`,
+     ...held,
+   })
+-  if (stands) filed(root, edgeFiledAt(kind), { path: EDGE_AT, id: EDGE_ID })
++  if (exists) filed(root, edgeFiledAt(kind), { path: EDGE_AT, id: EDGE_ID })
+ }
+ 
+ export function relationWorld(lines: number, pagesStand = true): string {
 diff --git a/graph/asking/graph-asking.module.test.ts b/graph/asking/graph-asking.module.test.ts
-index e56f359afa23419d9e0e739f7af5d27ccb1bdd5e..35bfcdc61a8a10cf6dc52faedf9ae13c46c11da5 100644
+index e56f359afa23419d9e0e739f7af5d27ccb1bdd5e..22bca281097da5e341bf69d6acfdbd62196bbb0d 100644
 --- a/graph/asking/graph-asking.module.test.ts
 +++ b/graph/asking/graph-asking.module.test.ts
 @@ -158,7 +158,7 @@ test("a page type stating a loader is answered no differently from one stating n
@@ -33,8 +50,17 @@ index e56f359afa23419d9e0e739f7af5d27ccb1bdd5e..35bfcdc61a8a10cf6dc52faedf9ae13c
    const root = importWorld(IMPORT)
    const over = readingLaidOver(root, {
      [`${IMPORT}/path/${FIRST_AT}.jsonl`]: [{ path: SECOND_AT }],
+@@ -170,7 +170,7 @@ test("an import edge standing only in the index given is answered, and none with
+   expect(edgesInto(FIRST_AT, [IMPORT_EDGE], indexOf(root))).toEqual([])
+ })
+ 
+-test("an import edge the index given empties is not answered, and stands without it", () => {
++test("an import edge the index given empties is not answered, and exists without it", () => {
+   const root = importWorld(IMPORT)
+   filed(root, `${IMPORT}/path/${FIRST_AT}.jsonl`, { path: THIRD_AT })
+   const over = readingLaidOver(root, { [`${IMPORT}/path/${TARGET_AT}.jsonl`]: [] })
 diff --git a/graph/asking/graph-asking.module.ts b/graph/asking/graph-asking.module.ts
-index 447cb572561509daaee0585185566bb4bd526b39..e52301860c1b877d725261371273d785a6f3ca2e 100644
+index 447cb572561509daaee0585185566bb4bd526b39..5271270ed0ee9cba43bfcaeba37a458ceb2e4b57 100644
 --- a/graph/asking/graph-asking.module.ts
 +++ b/graph/asking/graph-asking.module.ts
 @@ -20,7 +20,7 @@ export const graphAsking = {
@@ -46,6 +72,15 @@ index 447cb572561509daaee0585185566bb4bd526b39..e52301860c1b877d725261371273d785
      },
      {
        invariantKind: "departure",
+@@ -38,7 +38,7 @@ export const graphAsking = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "The folder an index stands in is spelled by the indexes rather than here.",
++      statement: "The folder an index is in is spelled by the indexes rather than here.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/graph/file-kind-authorship/file-kind-authorship.module.test.ts b/graph/file-kind-authorship/file-kind-authorship.module.test.ts
 index d8c201d6ea9e024e4eb4daffbd59af392aa02378..0e612b9c6175abcdbe4bbf3afc5578399a0e07ab 100644
 --- a/graph/file-kind-authorship/file-kind-authorship.module.test.ts
