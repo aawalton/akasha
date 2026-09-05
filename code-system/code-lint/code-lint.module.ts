@@ -11,7 +11,7 @@ export const codeLint = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A run's answer carries what the run exited.",
+      statement: "A run's answer carries the code the run exited with.",
     },
     {
       invariantKind: "departure",
@@ -62,7 +62,7 @@ export const codeLint = {
     },
     {
       invariantKind: "absence",
-      statement: "What is checked is what the linter is configured by.",
+      statement: "The checks made are the checks the linter's configuration sets.",
     },
     {
       invariantKind: "absence",
@@ -74,16 +74,16 @@ export const codeLint = {
     },
     {
       invariantKind: "absence",
-      statement: "What is printed belongs to whoever asked for the run.",
+      statement: "The printed output belongs to the caller that asked for the run.",
     },
     {
       invariantKind: "absence",
       statement:
-        "How much of what is printed a caller may hold belongs to whoever asked for the run.",
+        "How much of the printed output a caller may hold belongs to the caller that asked for the run.",
     },
     {
       invariantKind: "absence",
-      statement: "What exit follows belongs to whoever asked for the run.",
+      statement: "What exit follows belongs to the caller that asked for the run.",
     },
   ],
 } as const satisfies Module
