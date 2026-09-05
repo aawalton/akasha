@@ -151,3 +151,11 @@ index b4b580d64415b0f41d92ff0cbdf508072c1376b7..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../domains
 \ No newline at end of file
+diff --git a/editor-extension/editor-extension b/editor-extension/editor-extension
+deleted file mode 120000
+index 711fa52c6a297d3d28c268f5ecdeeb068da65863..0000000000000000000000000000000000000000
+--- a/editor-extension/editor-extension
++++ /dev/null
+@@ -1 +0,0 @@
+-../../editor-extension
+\ No newline at end of file
