@@ -1,5 +1,5 @@
 diff --git a/commands/refactor/package-renaming/package-renaming.module.ts b/commands/refactor/package-renaming/package-renaming.module.ts
-index 1aa5064a428bce8ec85cfed4c9926db456edae4c..f1320c819275da417c7b96cb2e4a469379786aa1 100644
+index 1aa5064a428bce8ec85cfed4c9926db456edae4c..0196a11a4bf4cc004683563dcdeebc4cd98f8058 100644
 --- a/commands/refactor/package-renaming/package-renaming.module.ts
 +++ b/commands/refactor/package-renaming/package-renaming.module.ts
 @@ -42,7 +42,8 @@ export const packageRenaming = {
@@ -12,7 +12,7 @@ index 1aa5064a428bce8ec85cfed4c9926db456edae4c..f1320c819275da417c7b96cb2e4a4693
      },
      {
        invariantKind: "departure",
-@@ -54,7 +55,7 @@ export const packageRenaming = {
+@@ -54,11 +55,11 @@ export const packageRenaming = {
      },
      {
        invariantKind: "departure",
@@ -21,3 +21,8 @@ index 1aa5064a428bce8ec85cfed4c9926db456edae4c..f1320c819275da417c7b96cb2e4a4693
      },
      {
        invariantKind: "absence",
+-      statement: "A file that is neither code nor a manifest is left as it is.",
++      statement: "A file that is neither code nor a manifest is left as that file is.",
+     },
+     {
+       invariantKind: "departure",
