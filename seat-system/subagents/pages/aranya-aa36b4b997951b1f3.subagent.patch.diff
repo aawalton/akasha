@@ -1,3 +1,15 @@
+diff --git a/infrastructure/loki-service/loki-service.workspace-package.ts b/infrastructure/loki-service/loki-service.workspace-package.ts
+index fc94f54a1f206b237241afc9f3d65d4dbc1496cf..6122592b70839de3c9482ae75238bec35668b186 100644
+--- a/infrastructure/loki-service/loki-service.workspace-package.ts
++++ b/infrastructure/loki-service/loki-service.workspace-package.ts
+@@ -8,6 +8,7 @@ export const lokiService = {
+   manifest: "json",
+   partSlugs: [
+     "manifest/loki",
++    "manifest/promtail",
+     "module/loki-constants",
+     "module/loki-configs",
+     "module/loki-manifests",
 diff --git a/infrastructure/loki-service/promtail/promtail.manifest.ts b/infrastructure/loki-service/promtail/promtail.manifest.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..b34e6bd71a337a902cb97d06d71eb7ff0c21274b
