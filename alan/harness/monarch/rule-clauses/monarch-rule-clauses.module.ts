@@ -23,12 +23,13 @@ export const monarchRuleClauses = {
     },
     {
       invariantKind: "departure",
-      statement: "A clause holding no values is refused, because it would weigh against nothing.",
+      statement:
+        "A clause holding no values is refused, because that clause would weigh against nothing.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A rule stating no clause is refused, because it would catch every transaction there is.",
+        "A rule stating no clause is refused, because that rule would catch every transaction there is.",
     },
     {
       invariantKind: "departure",
@@ -51,7 +52,7 @@ export const monarchRuleClauses = {
     },
     {
       invariantKind: "departure",
-      statement: "An empty note is refused, because it writes a blank over nothing.",
+      statement: "An empty note is refused, because that note writes a blank over nothing.",
     },
     {
       invariantKind: "departure",
