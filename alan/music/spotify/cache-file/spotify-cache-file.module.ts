@@ -46,7 +46,7 @@ export const spotifyCacheFile = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what a Spotify file holds.",
+      statement: "Nothing here knows the values a Spotify file holds.",
     },
   ],
 } as const satisfies Module
