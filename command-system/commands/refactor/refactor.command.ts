@@ -309,10 +309,7 @@ export const refactor = {
       invariantKind: "departure",
       statement: "A body beside a retyped page is carried rather than rewritten.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A retyped page's own body states the page type that page becomes.",
-    },
+
     {
       invariantKind: "departure",
       statement: "The type a retyped page satisfies is the one its new page type declares.",
