@@ -1,0 +1,78 @@
+diff --git a/service-system/cluster-services/web-app-building/web-app-building.module.code.ts b/service-system/cluster-services/web-app-building/web-app-building.module.code.ts
+index f9837ae899445abfeff99d1d52d87a94e94bc26e..41166242696de3b393cbb8e87392c87003bc41b5 100644
+--- a/service-system/cluster-services/web-app-building/web-app-building.module.code.ts
++++ b/service-system/cluster-services/web-app-building/web-app-building.module.code.ts
+@@ -270,7 +270,7 @@ export function resolveBuildEnv(
+     const held = secretValue(namespace, entry.fromSecret.name, entry.fromSecret.key)
+     if (held === null) {
+       missing.push(
+-        `${entry.name} is read from the key ${entry.fromSecret.key} of the secret ${entry.fromSecret.name} in ${namespace}, and nothing readable stands there`
++        `${entry.name} is read from the key ${entry.fromSecret.key} of the secret ${entry.fromSecret.name} in ${namespace}, and nothing readable is there`
+       )
+       continue
+     }
+diff --git a/service-system/cluster-services/web-app-building/web-app-building.module.test.ts b/service-system/cluster-services/web-app-building/web-app-building.module.test.ts
+index 16cab982b5ec9fe0108f36f15da44d83ec8f595f..690fa02297dbf358dd8449c328f5c01a80a5db47 100644
+--- a/service-system/cluster-services/web-app-building/web-app-building.module.test.ts
++++ b/service-system/cluster-services/web-app-building/web-app-building.module.test.ts
+@@ -121,7 +121,7 @@ test("the package built is the one a container's working directory names", () =>
+   expect(buildTargetOf(plan(pod(SERVING)))?.packagePath).toBe("one/web")
+ })
+ 
+-test("the build stands where the workload the page names stands", () => {
++test("the build sits where the workload the page names sits", () => {
+   const target = buildTargetOf(plan(pod(SERVING)))
+   expect(target?.namespace).toBe("one")
+   expect(target?.workload).toBe("web")
+diff --git a/service-system/cluster-services/web-app-building/web-app-building.module.ts b/service-system/cluster-services/web-app-building/web-app-building.module.ts
+index 391eb6261fe7093fb477d515b7305ea89e071041..fac4cf6eaf5696d4c4ca3a0fc707fbbaab7cac24 100644
+--- a/service-system/cluster-services/web-app-building/web-app-building.module.ts
++++ b/service-system/cluster-services/web-app-building/web-app-building.module.ts
+@@ -18,7 +18,7 @@ export const webAppBuilding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The sha built is the one the workstation's HEAD stands at.",
++      statement: "The sha built is the one the workstation's HEAD is at.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/service-system/cluster-services/web-app-reading/web-app-reading.module.code.ts b/service-system/cluster-services/web-app-reading/web-app-reading.module.code.ts
+index c3fdc7dec5aeea7a0179bc3ca5d008afec73d1ba..7f8ca7a240c8059947f0a6b460e01aa5b0446c6d 100644
+--- a/service-system/cluster-services/web-app-reading/web-app-reading.module.code.ts
++++ b/service-system/cluster-services/web-app-reading/web-app-reading.module.code.ts
+@@ -159,7 +159,7 @@ export function deployableNamed(root: string, slug: string): Read {
+   const synthPath = textAt(service, MANIFEST_CODE) as string
+   if (!existsSync(join(root, synthPath))) {
+     return {
+-      refused: `${found} names its manifest code at ${synthPath}, where no file stands, so nothing says what \`${slug}\` is made of`,
++      refused: `${found} names its manifest code at ${synthPath}, and no file is there, so nothing says what \`${slug}\` is made of`,
+     }
+   }
+   return {
+diff --git a/service-system/cluster-services/web-app-reading/web-app-reading.module.test.ts b/service-system/cluster-services/web-app-reading/web-app-reading.module.test.ts
+index ff0711dd854a8c3b6114fee5b35b6c934958e009..48d0f9c6444850c3818f7099014d4029716e9363 100644
+--- a/service-system/cluster-services/web-app-reading/web-app-reading.module.test.ts
++++ b/service-system/cluster-services/web-app-reading/web-app-reading.module.test.ts
+@@ -57,7 +57,7 @@ test("a web app that is named reads through to the workload the cluster runs", (
+   expect(read.deployable.synthPath).toBe(SYNTH_AT)
+ })
+ 
+-test("a web app that is named reads through to where its own source stands", () => {
++test("a web app that is named reads through to where its own source sits", () => {
+   const read = deployableNamed(WORLD.root, "one-web")
+   expect("deployable" in read).toBe(true)
+   if (!("deployable" in read)) return
+diff --git a/service-system/cluster-services/web-app-reading/web-app-reading.module.ts b/service-system/cluster-services/web-app-reading/web-app-reading.module.ts
+index b92d40026096d53d0ec202023a990477fe646740..6896c1c77b98086aa97701ac412bb13cb00f0b39 100644
+--- a/service-system/cluster-services/web-app-reading/web-app-reading.module.ts
++++ b/service-system/cluster-services/web-app-reading/web-app-reading.module.ts
+@@ -4,7 +4,7 @@ export const webAppReading = {
+   id: "01a05af7-5996-7000-9cf8-b27923a0672b",
+   pageTypeSlug: "module",
+   slug: "web-app-reading",
+-  definition: "the workload a web app's page and the cluster service page it names stand for",
++  definition: "the workload a web app's page and the cluster service page it names represent",
+   code: "ts",
+   test: "ts",
+   testFixtures: "ts",
