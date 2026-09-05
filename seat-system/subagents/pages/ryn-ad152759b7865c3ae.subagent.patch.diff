@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/service-system/workstation-services/pages/rule-population-sweep.workstation-service.ts b/service-system/workstation-services/pages/rule-population-sweep.workstation-service.ts
+index 5b0c68b160f7547bcd5b97853c73513af4fb6256..b3bd8e0fb447c75bc139f0d5017acd0f5486ef69 100644
+--- a/service-system/workstation-services/pages/rule-population-sweep.workstation-service.ts
++++ b/service-system/workstation-services/pages/rule-population-sweep.workstation-service.ts
+@@ -17,7 +17,7 @@ export const rulePopulationSweep = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A rule's population is what it weighed, never what it found, the two meeting at zero.",
++        "A rule's population is what that rule weighed, never what that rule found, the two meeting at zero.",
+     },
+     {
+       invariantKind: "departure",
