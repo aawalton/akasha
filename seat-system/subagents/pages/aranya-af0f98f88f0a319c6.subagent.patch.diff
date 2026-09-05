@@ -1,3 +1,15 @@
+diff --git a/infrastructure/seaweedfs/seaweedfs.workspace-package.ts b/infrastructure/seaweedfs/seaweedfs.workspace-package.ts
+index cd57358f5233da112085eb955c44a1c291311376..b6b2b96488e40e7d993394cf7ecdf326ca3001fb 100644
+--- a/infrastructure/seaweedfs/seaweedfs.workspace-package.ts
++++ b/infrastructure/seaweedfs/seaweedfs.workspace-package.ts
+@@ -8,6 +8,7 @@ export const seaweedfs = {
+   manifest: "json",
+   partSlugs: [
+     "manifest/seaweedfs-master",
++    "manifest/seaweedfs-volume",
+     "module/seaweedfs-constants",
+     "module/seaweedfs-namespace",
+     "module/seaweedfs-deployments",
 diff --git a/infrastructure/seaweedfs/volume/seaweedfs-volume.manifest.ts b/infrastructure/seaweedfs/volume/seaweedfs-volume.manifest.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..c8be0f1aa56c0ed9bc8b38d10abfc93f5fd5aa89
