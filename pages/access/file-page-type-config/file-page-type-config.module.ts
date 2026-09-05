@@ -19,7 +19,7 @@ export const filePageTypeConfig = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type names one page type above it or several.",
+      statement: "A page type names one page type above that page type or several.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +31,7 @@ export const filePageTypeConfig = {
     },
     {
       invariantKind: "departure",
-      statement: "A key is answered from the nearest page type above that states it.",
+      statement: "A key is answered from the nearest page type above that states that key.",
     },
     {
       invariantKind: "departure",
@@ -53,7 +53,8 @@ export const filePageTypeConfig = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type above is reached by the slug ending the address naming it.",
+      statement:
+        "A page type above is reached by the slug ending the address naming that page type.",
     },
     {
       invariantKind: "departure",
