@@ -1122,3 +1122,18 @@ index 0000000000000000000000000000000000000000..e73c21e466a0c9cea8358f29e23fae43
 +  definition: "the stretches of Alan's day, read as rows beside the day each is part of",
 +  code: "ts",
 +} as const satisfies Module
+diff --git a/alan/tracking/daily/tracking-daily.domain.ts b/alan/tracking/daily/tracking-daily.domain.ts
+index ae3f8e36bc72bd0ebef57fa5cf058051e4be859d..9fb6697cd05849e0571fc4af0e181339d6dd8ae6 100644
+--- a/alan/tracking/daily/tracking-daily.domain.ts
++++ b/alan/tracking/daily/tracking-daily.domain.ts
+@@ -11,6 +11,10 @@ export const trackingDaily = {
+     "page-type/wake-day",
+     "module/day-narrow-types",
+     "module/day-place",
++    "module/day-reading",
++    "module/day-entry-keys",
++    "module/day-stretches",
++    "module/day-completions",
+     "module/tracking-shape",
+     "module/akasha-day",
+     "module/tracking-keys",
