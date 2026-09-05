@@ -40,7 +40,7 @@ export const aPageTypeWithItsParts = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder is named what that page calls its folder.",
+      statement: "The folder carries the name that page calls its folder.",
     },
     {
       invariantKind: "departure",
@@ -84,7 +84,7 @@ export const aPageTypeWithItsParts = {
     },
     {
       invariantKind: "absence",
-      statement: "What a part holds is judged where that part is judged.",
+      statement: "The files a part holds are judged where that part is judged.",
     },
   ],
 } as const satisfies FolderShape
