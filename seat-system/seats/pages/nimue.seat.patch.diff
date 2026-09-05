@@ -1,11 +1,3 @@
-diff --git a/agents/agents b/agents/agents
-deleted file mode 120000
-index d5f58b529c22fa8bf8c330e4608ba495d8f8e6c7..0000000000000000000000000000000000000000
---- a/agents/agents
-+++ /dev/null
-@@ -1 +0,0 @@
--../../agents
-\ No newline at end of file
 diff --git a/alan/atlas-web/alanwalton-atlas-web b/alan/atlas-web/alanwalton-atlas-web
 deleted file mode 120000
 index 10ad94441bb7a0632719a7fbb5b525c4ae023ef8..0000000000000000000000000000000000000000
