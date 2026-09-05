@@ -1,5 +1,5 @@
 diff --git a/alan/tracking/daily/akasha-day/akasha-day.module.code.ts b/alan/tracking/daily/akasha-day/akasha-day.module.code.ts
-index 5da9378f6a7adf761327247dd3699d4650bfd417..de79c0772f1385a9b01d31ebcf5888a29c91422d 100644
+index 5da9378f6a7adf761327247dd3699d4650bfd417..ad2c6d9ed5b55a8e03e1642e7859c57cdcd6712c 100644
 --- a/alan/tracking/daily/akasha-day/akasha-day.module.code.ts
 +++ b/alan/tracking/daily/akasha-day/akasha-day.module.code.ts
 @@ -19,8 +19,7 @@
@@ -20,7 +20,16 @@ index 5da9378f6a7adf761327247dd3699d4650bfd417..de79c0772f1385a9b01d31ebcf5888a2
  import type { Landed } from "../day-narrow-types/day-narrow-types.module.code.ts"
  import { camelizeKey } from "../tracking-keys/tracking-keys.module.code.ts"
  import {
-@@ -157,38 +157,20 @@ function namedIn(row: Row): string {
+@@ -45,8 +45,6 @@ const ID = "id"
+ 
+ const AKASHA_REPO = "akasha"
+ 
+-const TRACKING = "tracking"
+-
+ /** The property each kind of row beside a day is declared under. */
+ export const ROW_PROPERTIES: Readonly<Record<string, string>> = {
+   [SESSIONS_SLUG]: camelizeKey(SESSIONS_SLUG),
+@@ -157,38 +155,20 @@ function namedIn(row: Row): string {
  }
  
  /**
