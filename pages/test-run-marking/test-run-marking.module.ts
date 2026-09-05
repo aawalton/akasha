@@ -9,7 +9,7 @@ export const testRunMarking = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The test runner preloads this module rather than a test importing it.",
+      statement: "The test runner preloads this module rather than a test importing that module.",
     },
     {
       invariantKind: "departure",
