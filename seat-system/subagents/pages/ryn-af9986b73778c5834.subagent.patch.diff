@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/monarch-records/properties/monarch-id.text-property.ts b/alan/harness/monarch/monarch-records/properties/monarch-id.text-property.ts
+index b5beeac3d7eb9701862262b0959576106dc4f235..1530557169d64553b1c8846feb0e73b52cf8d7c6 100644
+--- a/alan/harness/monarch/monarch-records/properties/monarch-id.text-property.ts
++++ b/alan/harness/monarch/monarch-records/properties/monarch-id.text-property.ts
+@@ -21,7 +21,7 @@ export const monarchId = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A Monarch identity is what a sync matches an existing page by.",
++      statement: "A sync matches an existing page by that page's Monarch identity.",
+     },
+   ],
+ } as const satisfies TextProperty
