@@ -18,7 +18,7 @@ export const pageWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "What a write puts and what the write takes away are stated apart.",
+      statement: "The bodies a write puts and the paths that write takes away are stated apart.",
     },
     {
       invariantKind: "departure",
@@ -55,7 +55,7 @@ export const pageWriting = {
     },
     {
       invariantKind: "absence",
-      statement: "A write stating no commit is taken as read against what stands.",
+      statement: "A write stating no commit is taken as read against the bodies now standing.",
     },
     {
       invariantKind: "departure",
@@ -71,7 +71,8 @@ export const pageWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A value kept outside the commit is merged onto what its page already keeps.",
+      statement:
+        "A value kept outside the commit is merged onto the values its page already keeps.",
     },
     {
       invariantKind: "departure",
