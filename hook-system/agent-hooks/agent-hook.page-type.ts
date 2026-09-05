@@ -99,7 +99,7 @@ export const agentHook = {
     {
       invariantKind: "gap",
       statement:
-        "A registration naming a file nothing is at refuses the call rather than passing it.",
+        "A registration naming a file nothing is at refuses the call rather than passing that call.",
     },
   ],
   directives: [
