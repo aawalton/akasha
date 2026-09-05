@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
-index 2f7664aaf8db80d797688f37b3508e35f0199069..e48e95f0f8fcb9ec0d9db8642d8127691af1b222 100644
+index 2f7664aaf8db80d797688f37b3508e35f0199069..ffc485f4a8a71ba3be7ff4dfae0126b93d7fe57c 100644
 --- a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
 +++ b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
 @@ -22,7 +22,8 @@ export const logDaySweeping = {
@@ -13,3 +13,12 @@ index 2f7664aaf8db80d797688f37b3508e35f0199069..e48e95f0f8fcb9ec0d9db8642d812769
      },
      {
        invariantKind: "departure",
+@@ -49,7 +50,7 @@ export const logDaySweeping = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Nothing is taken away unless the sweep is asked to, because what it takes is a commit.",
++        "Nothing is taken away unless the sweep is asked to, because a removal the sweep makes is a commit.",
+     },
+     {
+       invariantKind: "gap",
