@@ -12,7 +12,7 @@ export const appearance = {
     {
       invariantKind: "departure",
       statement:
-        "This property is how she describes herself rather than how an image of her was made.",
+        "This property is how a persona describes herself rather than how an image of that persona was made.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +22,7 @@ export const appearance = {
     {
       invariantKind: "departure",
       statement:
-        "Two personas may look alike in their pictures; they may never sound alike in their words.",
+        "Two personas may look alike in their pictures; those personas may never sound alike in their words.",
     },
     {
       invariantKind: "upkeep",
