@@ -79,7 +79,7 @@ export const worldMechanic = {
     },
     {
       invariantKind: "departure",
-      statement: "Which kind of mechanic a thing is settles which page type it is.",
+      statement: "Which kind of mechanic a thing is settles which page type that thing is.",
     },
     {
       invariantKind: "departure",
@@ -87,7 +87,8 @@ export const worldMechanic = {
     },
     {
       invariantKind: "departure",
-      statement: "A mechanic is what the story says it is rather than what a rulebook says.",
+      statement:
+        "A mechanic is what the story says that mechanic is rather than what a rulebook says.",
     },
     {
       invariantKind: "departure",
