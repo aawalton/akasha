@@ -1,0 +1,52 @@
+diff --git a/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.code.ts b/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.code.ts
+index 740449dc6e58e29fe49d3a92b6a6a3ea247a6632..139f3c194cbfb3e990ea633b4a886bd67e206dbc 100644
+--- a/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.code.ts
++++ b/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.code.ts
+@@ -90,7 +90,7 @@ async function writeSlice(
+   throw new Error(
+     `${caller}: the \`${sliceKey}\` settings of \`${PLAYER_PAGE_TYPE_SLUG}/${player.name}\` were ` +
+       `not patched — ${NO_KEYED_WRITE}. ${settings.length} character(s) of settings were built ` +
+-      `and dropped, and every read of these rules still answers with what stood before`
++      `and dropped, and every read of these rules still answers with what was there before`
+   )
+ }
+ 
+diff --git a/temper/temper-commands/temper-inventory-buy-rule-create/temper-inventory-buy-rule-create.command.code.ts b/temper/temper-commands/temper-inventory-buy-rule-create/temper-inventory-buy-rule-create.command.code.ts
+index 8cacee7bc3a1a452c527bc3e22febfa8f4cea2b2..828c59d1d33d984426368d413e71535771a173f6 100644
+--- a/temper/temper-commands/temper-inventory-buy-rule-create/temper-inventory-buy-rule-create.command.code.ts
++++ b/temper/temper-commands/temper-inventory-buy-rule-create/temper-inventory-buy-rule-create.command.code.ts
+@@ -56,7 +56,7 @@ async function made(held: ReadonlyMap<string, string>): Promise<Answer> {
+   })
+   const created = (added.buyRules ?? [])[0]
+   if (created === undefined) {
+-    return refusing("a buy rule was added and none stands at the front of the list", DATA)
++    return refusing("a buy rule was added and none is at the front of the list", DATA)
+   }
+   const patch: Partial<Pick<BuyRule, "active" | "goal" | "title" | "notes">> = webIn(held)
+   const next =
+diff --git a/temper/temper-commands/temper-inventory-item-rule-create/temper-inventory-item-rule-create.command.code.ts b/temper/temper-commands/temper-inventory-item-rule-create/temper-inventory-item-rule-create.command.code.ts
+index 007d617ff1aed7344f23c624fe45b1784d3df5f9..fea2e74511de2baf5aca85d5cd8f7475c64fce30 100644
+--- a/temper/temper-commands/temper-inventory-item-rule-create/temper-inventory-item-rule-create.command.code.ts
++++ b/temper/temper-commands/temper-inventory-item-rule-create/temper-inventory-item-rule-create.command.code.ts
+@@ -88,7 +88,7 @@ async function made(held: ReadonlyMap<string, string>): Promise<Answer> {
+   })
+   const created = (added.itemRules ?? [])[0]
+   if (created === undefined) {
+-    return refusing("an item rule was added and none stands at the front of the list", DATA)
++    return refusing("an item rule was added and none is at the front of the list", DATA)
+   }
+   const patch: Partial<
+     Pick<
+diff --git a/temper/temper-commands/temper-inventory-rule-create/temper-inventory-rule-create.command.code.ts b/temper/temper-commands/temper-inventory-rule-create/temper-inventory-rule-create.command.code.ts
+index 26658cb1bd136dae3a299078dfb86c1da8bf4203..f5e8cdec43780fcb204e078858deee029d404ee0 100644
+--- a/temper/temper-commands/temper-inventory-rule-create/temper-inventory-rule-create.command.code.ts
++++ b/temper/temper-commands/temper-inventory-rule-create/temper-inventory-rule-create.command.code.ts
+@@ -59,7 +59,7 @@ async function made(held: ReadonlyMap<string, string>): Promise<Answer> {
+   })
+   const created = next.rules[next.rules.length - 1]
+   if (created === undefined) {
+-    return refused("a category rule was added and none stands at the end of the list", DATA)
++    return refused("a category rule was added and none is at the end of the list", DATA)
+   }
+   const merged: CategoryRule = { ...created, ...webIn(held) }
+   await settingsAccess.write({
