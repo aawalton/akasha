@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/judged-saying/judged-saying.module.ts b/command-system/judged-saying/judged-saying.module.ts
-index ad843482ecebce37761715ed4ec470b1a383016c..3a129d63604bfa9b79aa5072647ea3b877ed1b4a 100644
+index ad843482ecebce37761715ed4ec470b1a383016c..3869de270acd470e13cb15581b9fea0be4ebbad8 100644
 --- a/command-system/judged-saying/judged-saying.module.ts
 +++ b/command-system/judged-saying/judged-saying.module.ts
 @@ -14,7 +14,7 @@ export const judgedSaying = {
@@ -27,6 +27,15 @@ index ad843482ecebce37761715ed4ec470b1a383016c..3a129d63604bfa9b79aa5072647ea3b8
        invariantKind: "departure",
 -      statement: "A count of what was judged names the paths a check reached.",
 +      statement: "A count of the paths judged names the paths a check reached.",
+     },
+     {
+       invariantKind: "departure",
+@@ -52,7 +52,7 @@ export const judgedSaying = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The line counting what was judged and the line naming the rest are built from one rule.",
++        "The line counting the paths judged and the line naming the rest are built from one rule.",
      },
      {
        invariantKind: "departure",
