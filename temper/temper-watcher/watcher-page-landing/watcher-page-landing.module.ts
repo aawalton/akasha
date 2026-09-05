@@ -102,15 +102,15 @@ export const watcherPageLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller may hand in what reaches the store.",
+      statement: "A caller may hand in the calls that reach the store.",
     },
     {
       invariantKind: "departure",
-      statement: "A caller may hand in what waits between attempts.",
+      statement: "A caller may hand in the call that waits between attempts.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what any one page type carries.",
+      statement: "Nothing here knows the properties any one page type carries.",
     },
   ],
 } as const satisfies Module
