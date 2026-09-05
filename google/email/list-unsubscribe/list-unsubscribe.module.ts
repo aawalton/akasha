@@ -9,7 +9,7 @@ export const listUnsubscribe = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One-click is used only where the sender says it is offered.",
+      statement: "One-click is used only where the sender says one-click is offered.",
     },
     {
       invariantKind: "departure",
