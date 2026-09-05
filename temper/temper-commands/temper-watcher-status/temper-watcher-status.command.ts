@@ -20,11 +20,12 @@ export const temperWatcherStatus = {
     },
     {
       invariantKind: "departure",
-      statement: "Whether it is running is read from systemd.",
+      statement: "Whether the watcher is running is read from systemd.",
     },
     {
       invariantKind: "departure",
-      statement: "How long it has been up is read from what it wrote when it started.",
+      statement:
+        "How long the watcher has been up is read from what the watcher wrote when the watcher started.",
     },
     {
       invariantKind: "departure",
