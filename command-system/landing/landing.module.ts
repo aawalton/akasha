@@ -57,7 +57,7 @@ export const landing = {
 
     {
       invariantKind: "departure",
-      statement: "One that moved is refused unwritten.",
+      statement: "A body that moved is refused unwritten.",
     },
     {
       invariantKind: "departure",
