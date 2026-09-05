@@ -138,7 +138,7 @@ describe("credentialFileIn", () => {
 })
 
 describe("credentialFileWritten", () => {
-  test("a credential reaches a directory that does not yet stand", () => {
+  test("a credential reaches a directory that is not there yet", () => {
     const dir = join(whereverIn(), "deep", "deeper")
     credentialFileWritten(dir, credentialOf())
     expect(credentialFileIn(dir)).toEqual({
@@ -185,7 +185,7 @@ describe("credentialFileWritten", () => {
     expect(credentialFileIn(dir)?.accessToken).toBe("at-1")
   })
 
-  test("an empty access token leaves the standing file untouched", () => {
+  test("an empty access token leaves the file that is there untouched", () => {
     const dir = whereverIn()
     const path = fileWritten(dir, bodyOf(WHOLE))
     const before = readFileSync(path, "utf-8")
@@ -193,7 +193,7 @@ describe("credentialFileWritten", () => {
     expect(readFileSync(path, "utf-8")).toBe(before)
   })
 
-  test("an empty refresh token leaves the standing file untouched", () => {
+  test("an empty refresh token leaves the file that is there untouched", () => {
     const dir = whereverIn()
     const path = fileWritten(dir, bodyOf(WHOLE))
     const before = readFileSync(path, "utf-8")
@@ -201,7 +201,7 @@ describe("credentialFileWritten", () => {
     expect(readFileSync(path, "utf-8")).toBe(before)
   })
 
-  test("an empty token writes no file where none stood", () => {
+  test("an empty token writes no file where there was none", () => {
     const dir = join(whereverIn(), "unmade")
     credentialFileWritten(dir, credentialOf({ accessToken: "" }))
     expect(credentialFileIn(dir)).toBeNull()
@@ -300,7 +300,7 @@ describe("fileChanged", () => {
     expect(watched.pushes).toEqual([["one", dir]])
   })
 
-  test("an expiry that stands still reads as no re-auth", async () => {
+  test("an expiry that has not moved reads as no re-auth", async () => {
     const dir = whereverIn()
     fileWritten(dir, bodyOf(WHOLE))
     const watched = watchedIn()

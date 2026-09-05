@@ -244,18 +244,18 @@ describe("decideTokenTerminalAlert", () => {
     expect(said).toBe("none")
   })
 
-  test("a refresh that worked clears a latch that stands", () => {
+  test("a refresh that worked clears a latch that is there", () => {
     const said = decideTokenTerminalAlert(
       given({ refreshOk: true, alreadyAlertedAtMs: NOW - 1000 })
     )
     expect(said).toBe("clear-latch")
   })
 
-  test("a refresh that worked with no latch standing decides nothing", () => {
+  test("a refresh that worked with no latch there decides nothing", () => {
     expect(decideTokenTerminalAlert(given({ refreshOk: true }))).toBe("none")
   })
 
-  test("a latch standing under a refresh that did not work is left standing", () => {
+  test("a latch under a refresh that did not work is left alone", () => {
     const said = decideTokenTerminalAlert(
       given({ refreshOk: false, alreadyAlertedAtMs: NOW - 1000 })
     )

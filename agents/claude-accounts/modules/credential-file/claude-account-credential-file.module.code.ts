@@ -38,7 +38,7 @@ const WATCH_POLL_MS = 3_000
 /** How long a run of writes settles before one push is made of it. */
 const PUSH_DEBOUNCE_MS = 2_000
 
-/** The mtime standing for "this watch has pushed nothing yet". */
+/** The mtime representing "this watch has pushed nothing yet". */
 const NO_MTIME_PUSHED = 0
 
 /** The expiry a file that says nothing is read as. */
@@ -74,7 +74,7 @@ function credentialPathIn(dir: string): string {
   return join(dir, CREDENTIAL_FILE_NAME)
 }
 
-/** The file's text, or null where nothing readable stands at the path. */
+/** The file's text, or null where nothing readable is at the path. */
 function rawFileIn(dir: string): string | null {
   try {
     return readFileSync(credentialPathIn(dir), "utf-8")
@@ -192,7 +192,7 @@ export function fileRefreshedFrom(args: {
     if (one.accessTokenExpiresAtMs <= now) {
       doors.warned(
         `${logPrefix} ${slug} expired at ${new Date(one.accessTokenExpiresAtMs).toISOString()} and nothing ` +
-          `here renews one — claude account upkeep has not reached it, so the file is left as it stands`
+          `here renews one — claude account upkeep has not reached it, so the file is left as it is`
       )
       return { refreshed: false, terminal: false }
     }

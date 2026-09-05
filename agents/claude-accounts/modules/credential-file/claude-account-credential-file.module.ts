@@ -20,7 +20,7 @@ export const claudeAccountCredentialFile = {
     {
       invariantKind: "departure",
       statement:
-        "A write of an empty access token or an empty refresh token leaves the file as it stands.",
+        "A write of an empty access token or an empty refresh token leaves the file as it is.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +37,7 @@ export const claudeAccountCredentialFile = {
     {
       invariantKind: "departure",
       statement:
-        "A refresh whose page credential expires no later than the file's leaves the file as it stands.",
+        "A refresh whose page credential expires no later than the file's leaves the file as it is.",
     },
     {
       invariantKind: "departure",

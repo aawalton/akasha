@@ -63,7 +63,7 @@ export const claudeAccountHealth = {
     },
     {
       invariantKind: "departure",
-      statement: "A refresh that worked clears a latch that stands.",
+      statement: "A refresh that worked clears a latch that is there.",
     },
     {
       invariantKind: "departure",
