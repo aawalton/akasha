@@ -1,0 +1,58 @@
+diff --git a/commands/replace/replace.command.code.ts b/commands/replace/replace.command.code.ts
+index 626039bda257eb49e45f92703d667fce5fd53465..82b261b5c9726a8fdc5fea2ee7f335760e510141 100644
+--- a/commands/replace/replace.command.code.ts
++++ b/commands/replace/replace.command.code.ts
+@@ -1,6 +1,7 @@
+ import { join } from "node:path"
+ import type { Asked, Held } from "../../command-system/asking/asking.module.code.ts"
+ import {
++  BREAK_GLASS,
+   bytesAt,
+   counted,
+   DRY_RUN,
+@@ -26,6 +27,7 @@ import {
+   barredIn,
+   defaultMessage,
+   FILE_PATH,
++  glassIn,
+   MESSAGE,
+   MESSAGE_FILE,
+   messageIn,
+@@ -40,7 +42,7 @@ const OLD_FILE = "--old-file"
+ 
+ const NEW_FILE = "--new-file"
+ 
+-const VALUED = [FILE_PATH, OLD_FILE, NEW_FILE, MESSAGE, MESSAGE_FILE]
++const VALUED = [FILE_PATH, OLD_FILE, NEW_FILE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
+ 
+ const BARE = [DRY_RUN]
+ 
+@@ -237,6 +239,8 @@ export async function replacing(
+       `this call names no ${FILE_PATH} — a passage is replaced only in the files a call names`,
+     ])
+   }
++  const glass = glassIn(argv, VALUED)
++  if ("refusals" in glass) return mistaking(glass.refusals)
+   const message = messageIn(argv, VALUED)
+   if ("refusals" in message) return mistaking(message.refusals)
+   const reading = passageIn(argv, given, piping)
+@@ -246,7 +250,9 @@ export async function replacing(
+   }
+   const dry = argv.includes(DRY_RUN)
+   const held = working(given, named.paths, reading.passage, dry)
+-  const wrong = dry ? held.wrong : [...held.wrong, ...unwarrantedIn(given, null, held.changes)]
++  const wrong = dry
++    ? held.wrong
++    : [...held.wrong, ...unwarrantedIn(given, glass.glass, held.changes)]
+   const troubled = troubling({ mistaken: held.mistaken, wrong })
+   if (troubled !== null) return troubled
+   if (dry) return reporting(held.counting)
+@@ -259,7 +265,7 @@ export async function replacing(
+         held.changes.map((one) => one.path)
+       ),
+     dryRun: false,
+-    glass: null,
++    glass: glass.glass,
+     unmoved: held.unmoved,
+     saying: () => held.counting.map((one) => `${one.path} — ${counted(one.found, "replacement")}`),
+   }
