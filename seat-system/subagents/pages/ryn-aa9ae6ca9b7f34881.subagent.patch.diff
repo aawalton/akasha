@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/piping/piping.module.ts b/command-system/piping/piping.module.ts
+index de0b5cbe29b5aa7ae00a447ee433537c0c21b86c..6003d9ea95c09ea13d79fd0d8aff3247e159eef7 100644
+--- a/command-system/piping/piping.module.ts
++++ b/command-system/piping/piping.module.ts
+@@ -89,7 +89,7 @@ export const piping = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The split marker ends the passage and the closing marker ends what that passage becomes.",
++        "The split marker ends the old passage and the closing marker ends the new passage.",
+     },
+     {
+       invariantKind: "departure",
