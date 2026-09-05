@@ -1,0 +1,18 @@
+diff --git a/checks/code-checks/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.code-check.ts b/checks/code-checks/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.code-check.ts
+index cb6315d91d80685a9995930ded575e1ee98b8ff6..b3332779a6753c4f99c73d71a4cf91da90cdbd1d 100644
+--- a/checks/code-checks/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.code-check.ts
++++ b/checks/code-checks/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.code-check.ts
+@@ -11,13 +11,6 @@ export const domainIsNamedByAParent = {
+   runsOnWorktree: false,
+   runsOnDeploy: false,
+   runsOnAudit: false,
+-  measured: {
+-    atCommit: "9ef8c16444",
+-    onePathMs: 14,
+-    onePathBytes: 5767168,
+-    wholeTreeMs: 4220,
+-    wholeTreeBytes: 302661632,
+-  },
+   invariants: [
+     {
+       invariantKind: "departure",
