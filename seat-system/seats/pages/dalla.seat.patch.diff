@@ -1,5 +1,5 @@
 diff --git a/hook-system/shell-calls/shell-calls.module.code.ts b/hook-system/shell-calls/shell-calls.module.code.ts
-index 4908d0283878e352ab9efa0376a84d1ec15f12b0..9125209d6e93f8faddb7e7e99737b064dc5593c8 100644
+index 4908d0283878e352ab9efa0376a84d1ec15f12b0..f8d5fb6776250fb8e707e6e15df3d9177380d2c5 100644
 --- a/hook-system/shell-calls/shell-calls.module.code.ts
 +++ b/hook-system/shell-calls/shell-calls.module.code.ts
 @@ -10,6 +10,8 @@ const LEADING_SPACE = /^\s+/
@@ -11,3 +11,25 @@ index 4908d0283878e352ab9efa0376a84d1ec15f12b0..9125209d6e93f8faddb7e7e99737b064
  const ASSIGNMENT = /^[A-Za-z_][A-Za-z0-9_]*=/
  
  const NUMBER = /^[0-9]/
+@@ -63,6 +65,21 @@ export function joinedContinuations(command: string): string {
+   return command.replace(CONTINUED, " ")
+ }
+ 
++export function pastHeredocs(command: string): string {
++  const text = joinedContinuations(command)
++  const kept: string[] = []
++  let owed: readonly string[] = []
++  for (const line of text.split("\n")) {
++    if (owed.length > 0) {
++      if (line.trim() === owed[0]) owed = owed.slice(1)
++      continue
++    }
++    kept.push(line)
++    owed = [...line.matchAll(OPENING_A_BODY)].map((said) => said[2] ?? "")
++  }
++  return owed.length > 0 ? text : kept.join("\n")
++}
++
+ function kept(_whole: string, inside: string): string {
+   return BARE_WORD.test(inside) ? inside : ""
+ }
