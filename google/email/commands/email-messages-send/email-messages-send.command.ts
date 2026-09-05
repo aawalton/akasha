@@ -50,10 +50,6 @@ export const emailMessagesSend = {
 
     {
       invariantKind: "departure",
-      statement: "A sender given in angle brackets carries the name before the brackets.",
-    },
-    {
-      invariantKind: "departure",
       statement: "An attachment is read off the disk before the mail is composed.",
     },
     {

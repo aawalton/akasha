@@ -55,10 +55,6 @@ export const permissionDeniedRebind = {
 
     {
       invariantKind: "departure",
-      statement: "An answer carries the headers upstream sent.",
-    },
-    {
-      invariantKind: "departure",
       statement: "No account left to choose is answered rather than rebound.",
     },
     {

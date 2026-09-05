@@ -32,11 +32,6 @@ export const remove = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A path is read against the repository root and never against the folder the call was made in.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A path that is not there is already gone rather than refused.",
     },
     {
@@ -99,10 +94,7 @@ export const remove = {
       invariantKind: "departure",
       statement: "A path anywhere in the repository is taken away.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A path inside `.git` is refused.",
-    },
+
     {
       invariantKind: "departure",
       statement:

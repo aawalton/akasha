@@ -24,11 +24,6 @@ export const restore = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A path is read against the repository root and never against the folder the call was made in.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A path is named behind `--file-path` like `write` and `remove` name theirs.",
     },
     {

@@ -60,10 +60,6 @@ export const modelUnavailableRebind = {
 
     {
       invariantKind: "departure",
-      statement: "An answer carries the headers upstream sent.",
-    },
-    {
-      invariantKind: "departure",
       statement: "No account left to choose is written about as `no-viable-account`.",
     },
     {

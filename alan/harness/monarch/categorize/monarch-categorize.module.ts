@@ -9,11 +9,6 @@ export const monarchCategorize = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Only a single transaction update is posted back, and Monarch's own rules engine is never written to.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A category Monarch takes and reports nothing back for is refused.",
     },
     {

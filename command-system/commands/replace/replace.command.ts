@@ -81,10 +81,7 @@ export const replace = {
       invariantKind: "departure",
       statement: "A passage carries the trailing newline of the file naming that passage.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A block marker carrying `mid-line` ends its passage before that newline.",
-    },
+
     {
       invariantKind: "departure",
       statement: "An empty passage names no place and is refused.",
@@ -100,10 +97,6 @@ export const replace = {
     {
       invariantKind: "departure",
       statement: "Once the bodies are worked out this lands exactly as `edit` lands.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path inside `.git` is refused.",
     },
 
     {

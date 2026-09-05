@@ -10,11 +10,6 @@ export const monarchNotesWrite = {
     {
       invariantKind: "departure",
       statement:
-        "Only a single transaction update is posted back, and Monarch's own rules engine is never written to.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
         "A note is written only where the transaction carries none, read live at the moment of writing rather than from our copy.",
     },
     {

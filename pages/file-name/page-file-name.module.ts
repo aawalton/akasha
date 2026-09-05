@@ -123,10 +123,7 @@ export const pageFileName = {
       invariantKind: "departure",
       statement: "A file property slug is never a reserved section.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A property's files are numbered from the first.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A part section is the word `part` and a number of two or more.",

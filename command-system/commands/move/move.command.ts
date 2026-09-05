@@ -203,11 +203,7 @@ export const move = {
       invariantKind: "absence",
       statement: "A name a page imports a renamed page's value by is left unchanged.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "A path is read against the repository root and never against the folder the call was made in.",
-    },
+
     {
       invariantKind: "departure",
       statement:

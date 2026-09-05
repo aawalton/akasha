@@ -85,10 +85,7 @@ export const edit = {
       statement:
         "A passage is the bytes of the file or block naming that passage with its trailing newline included.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A block marker carrying `mid-line` ends its passage before that newline.",
-    },
+
     {
       invariantKind: "departure",
       statement:
@@ -106,10 +103,6 @@ export const edit = {
     {
       invariantKind: "departure",
       statement: "A path anywhere in the repository is changed.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path inside `.git` is refused.",
     },
 
     {

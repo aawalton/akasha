@@ -9,10 +9,6 @@ export const companionMetrics01 = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
-      statement: "A metric's arithmetic is a tree of nodes rather than a written function.",
-    },
-    {
       invariantKind: "constraint",
       statement: "A run holds a contiguous stretch of the companion metrics table.",
     },
