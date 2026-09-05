@@ -34,7 +34,7 @@ export const monarchTransactionCreate = {
     {
       invariantKind: "departure",
       statement:
-        "A transfer between one category and itself is refused, because it writes two rows that cancel.",
+        "A transfer from a category to itself is refused, because the transfer writes two rows that cancel.",
     },
     {
       invariantKind: "departure",
