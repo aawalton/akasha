@@ -1,8 +1,8 @@
 diff --git a/editor-extension/panel-reading/panel-reading.module.ts b/editor-extension/panel-reading/panel-reading.module.ts
-index b71aa7fd0e81c03782421670beb70cac15b2288b..994a94eda1dddc4c061a590263686ffa26212e84 100644
+index b71aa7fd0e81c03782421670beb70cac15b2288b..33921314350725591a63b68e46a81d928e271ebe 100644
 --- a/editor-extension/panel-reading/panel-reading.module.ts
 +++ b/editor-extension/panel-reading/panel-reading.module.ts
-@@ -10,12 +10,12 @@ export const panelReading = {
+@@ -10,16 +10,17 @@ export const panelReading = {
    invariants: [
      {
        invariantKind: "departure",
@@ -14,6 +14,12 @@ index b71aa7fd0e81c03782421670beb70cac15b2288b..994a94eda1dddc4c061a590263686ffa
        statement:
 -        "The entry is bundled for node and its `activate` is called the way the host calls it.",
 +        "The entry is bundled for node and its `activate` is called the way the host calls that `activate`.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The `vscode` it activates against is the stub page beside it.",
++      statement:
++        "The `vscode` the extension activates against is the stub page beside that extension.",
      },
      {
        invariantKind: "departure",
