@@ -16,7 +16,7 @@ export const temperEsoPaths = {
     {
       invariantKind: "departure",
       statement:
-        "A path here is worked out from the environment rather than from what is written on disk.",
+        "A path here is worked out from the environment rather than from the directories on disk.",
     },
     {
       invariantKind: "departure",
