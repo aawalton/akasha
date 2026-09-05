@@ -13,6 +13,22 @@ index 45138866f557d409cd6b39163e6c9f720e5aa061..7035d08f5e4d372a1a3faf32dc5412ef
        const got = derive.rows(pageType)
        rowed.set(pageType, got)
        return got
+diff --git a/markdown-pages/markdown-page-derive/markdown-page-derive.module.code.ts b/markdown-pages/markdown-page-derive/markdown-page-derive.module.code.ts
+index 53c03dfe33e76a30d2e18c193c49e9ba43e32886..97c794c24bd8b9099db647b61f3547dd1371bb93 100644
+--- a/markdown-pages/markdown-page-derive/markdown-page-derive.module.code.ts
++++ b/markdown-pages/markdown-page-derive/markdown-page-derive.module.code.ts
+@@ -68,9 +68,9 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
+   if (read.fault !== null) faults.add(read.fault)
+   const declared = new Map<string, Map<string, Property>>()
+   const bySlug = new Map<string, Property>()
+-  for (const [on, standing] of read.bySlug) {
++  for (const [on, listed] of read.bySlug) {
+     const held = new Map<string, Property>()
+-    for (const one of standing) {
++    for (const one of listed) {
+       if (!held.has(one.name)) held.set(one.name, one)
+       if (!bySlug.has(one.slug)) bySlug.set(one.slug, one)
+     }
 diff --git a/markdown-pages/markdown-page-types/markdown-page-types.module.code.ts b/markdown-pages/markdown-page-types/markdown-page-types.module.code.ts
 index dafa98193db444268db4c3a3e614155b7776f99a..305e2a173d3fa1d7a293e5329f614f25502c4bb5 100644
 --- a/markdown-pages/markdown-page-types/markdown-page-types.module.code.ts
