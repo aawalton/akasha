@@ -12,7 +12,7 @@ export const spannedFromDayBoundary = {
     {
       invariantKind: "departure",
       statement:
-        "This property says how the day was spanned rather than that a figure on it is wrong.",
+        "This property says how the day was spanned rather than that a figure on that day is wrong.",
     },
     {
       invariantKind: "departure",
