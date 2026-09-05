@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/story/designs/story-design.page-type.ts b/story/designs/story-design.page-type.ts
+index 360037076a776a45e9ba7e441a57f70e521c09a9..79341578c78e9caa1f6405d3aa49ecdda920b867 100644
+--- a/story/designs/story-design.page-type.ts
++++ b/story/designs/story-design.page-type.ts
+@@ -120,7 +120,7 @@ export const storyDesign = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A design says how a story is meant to read rather than what the story says.",
++      statement: "A design says how a story is meant to read rather than the words the story says.",
+     },
+     {
+       invariantKind: "departure",
