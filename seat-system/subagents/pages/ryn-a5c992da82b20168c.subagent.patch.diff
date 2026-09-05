@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/required-reading/required-reading.domain.ts b/required-reading/required-reading.domain.ts
+index bf81dd5e1293baa496e0323e528f38319d761b5e..cbdf8bfe195712f078adf9959b43c7cd08e179e2 100644
+--- a/required-reading/required-reading.domain.ts
++++ b/required-reading/required-reading.domain.ts
+@@ -8,7 +8,7 @@ export const requiredReading = {
+   invariants: [
+     {
+       invariantKind: "absence",
+-      statement: "Nothing outside akasha asks an agent what the agent has read.",
++      statement: "Nothing outside akasha asks an agent which bodies the agent has read.",
+     },
+     {
+       invariantKind: "departure",
