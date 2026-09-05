@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/temper/temper-web/use-completion-catalogs/use-completion-catalogs.module.ts b/temper/temper-web/use-completion-catalogs/use-completion-catalogs.module.ts
-index e906f4d1791131e6a17dbfd1c47dfcff019a60b4..709baf11ab2cdd5e32cea289576b7b3ba0aee045 100644
+index e906f4d1791131e6a17dbfd1c47dfcff019a60b4..1b8f9940af41aca9e01db2d0edb5afb051a1f2d0 100644
 --- a/temper/temper-web/use-completion-catalogs/use-completion-catalogs.module.ts
 +++ b/temper/temper-web/use-completion-catalogs/use-completion-catalogs.module.ts
 @@ -17,7 +17,7 @@ export const useCompletionCatalogs = {
@@ -12,3 +12,12 @@ index e906f4d1791131e6a17dbfd1c47dfcff019a60b4..709baf11ab2cdd5e32cea289576b7b3b
      },
      {
        invariantKind: "constraint",
+@@ -45,7 +45,7 @@ export const useCompletionCatalogs = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Narrowing a row to the keys named is what makes the assertion true.",
++      statement: "Narrowing a row to the keys named makes the assertion true.",
+     },
+     {
+       invariantKind: "departure",
