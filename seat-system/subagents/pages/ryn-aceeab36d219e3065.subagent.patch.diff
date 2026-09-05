@@ -1,0 +1,14 @@
+diff --git a/alan/harness/monarch/domain-files/monarch-domain-files.module.ts b/alan/harness/monarch/domain-files/monarch-domain-files.module.ts
+index 32b9ffbb7443dacb10c76c6c12fd39b556e4746d..e58d3540752200825410304d192952da70258b38 100644
+--- a/alan/harness/monarch/domain-files/monarch-domain-files.module.ts
++++ b/alan/harness/monarch/domain-files/monarch-domain-files.module.ts
+@@ -14,8 +14,7 @@ export const monarchDomainFiles = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The whole body is composed rather than a line of it patched, because there is no front matter to patch.",
++      statement: "The whole body is composed rather than a line of it patched.",
+     },
+     {
+       invariantKind: "departure",
