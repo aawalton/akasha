@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/amazon-refund/monarch-amazon-refund.module.ts b/alan/harness/monarch/amazon-refund/monarch-amazon-refund.module.ts
-index c26eda537f4197eb1db207c65a877edc02dffcf1..76865b4d4953e818b512dbb44d1e35b75cab95cc 100644
+index c26eda537f4197eb1db207c65a877edc02dffcf1..2cd1b6601e2b31ac330017adb81e914f1a3ec5c4 100644
 --- a/alan/harness/monarch/amazon-refund/monarch-amazon-refund.module.ts
 +++ b/alan/harness/monarch/amazon-refund/monarch-amazon-refund.module.ts
 @@ -9,7 +9,8 @@ export const monarchAmazonRefund = {
@@ -9,6 +9,15 @@ index c26eda537f4197eb1db207c65a877edc02dffcf1..76865b4d4953e818b512dbb44d1e35b7
 -      statement: "A refund names the order it is against, the total, and the item it is for.",
 +      statement:
 +        "A refund names the order that refund is against, the total, and the item that refund is for.",
+     },
+     {
+       invariantKind: "departure",
+@@ -24,7 +25,7 @@ export const monarchAmazonRefund = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A stated reason for return is kept where Amazon wrote one and is null where it did not.",
++        "A stated reason for return is kept where Amazon wrote one and is null where Amazon did not.",
      },
      {
        invariantKind: "departure",
