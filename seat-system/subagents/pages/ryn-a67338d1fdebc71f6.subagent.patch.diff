@@ -238,3 +238,19 @@ index d43e02c6486cf0dd69fd9d274ffe32b28c0b5ab5..1650a3feb708d867bfce28a90d714f8d
      {
        invariantKind: "absence",
        statement: "Nothing here caches a reading or decides when a reading is taken.",
+diff --git a/readout-system/readouts/pages/weekly-back/weekly-back.readout.ts b/readout-system/readouts/pages/weekly-back/weekly-back.readout.ts
+index 363a8d5963db42aeec53d6ab1c05772e5618619e..3bd39488450419e7699dae4d93e607d99f7a8d62 100644
+--- a/readout-system/readouts/pages/weekly-back/weekly-back.readout.ts
++++ b/readout-system/readouts/pages/weekly-back/weekly-back.readout.ts
+@@ -32,10 +32,7 @@ export const weeklyBack = {
+       invariantKind: "departure",
+       statement: "No account with a window ahead is no reading rather than a wait of zero.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A store that refuses is a fault rather than a reading of nothing.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here caches a reading or decides when a reading is taken.",
