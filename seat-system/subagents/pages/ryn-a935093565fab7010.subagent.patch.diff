@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.ts b/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.ts
+index 994de49a1a42d46acd795d0605b73e36f700a0cb..69860a1ed144ed4c1817a69afdbd177a6c199860 100644
+--- a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.ts
++++ b/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.ts
+@@ -21,7 +21,7 @@ export const blockDestructiveGit = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A refusal says what the call would destroy rather than that the call looks unusual.",
++        "A refusal says the work the call would destroy rather than that the call looks unusual.",
+     },
+     {
+       invariantKind: "departure",
