@@ -9,7 +9,7 @@ export const seatPageBeat = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What writes a seat page and can await the write imports this and calls it.",
+      statement: "A writer of a seat page that can await the write imports this and calls this.",
     },
     {
       invariantKind: "gap",
