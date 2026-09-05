@@ -37,3 +37,42 @@ index 9d589bc060bb2af7d4b1a659b2e492e064865afb..359d71abcf39998e5dde48028196b1f9
      },
      {
        invariantKind: "constraint",
+diff --git a/pages/derive-shape/page-derive-shape.module.ts b/pages/derive-shape/page-derive-shape.module.ts
+index a4f608218a61df69a050fa88f389dc7b67da2b2d..37ad27abe7d499794d0c99efda6eb30aa6a45247 100644
+--- a/pages/derive-shape/page-derive-shape.module.ts
++++ b/pages/derive-shape/page-derive-shape.module.ts
+@@ -21,7 +21,7 @@ export const pageDeriveShape = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here holds a value; these are the shapes a deriver answers in.",
++      statement: "Nothing here holds a value; here are the shapes a deriver answers in.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/pages/query-shape/page-query-shape.module.ts b/pages/query-shape/page-query-shape.module.ts
+index 1fbfe763f1c76a793716239a1e1d0197d57de02a..4d79c5f30ca18cf9b5254a4f13c37dcddca4a821 100644
+--- a/pages/query-shape/page-query-shape.module.ts
++++ b/pages/query-shape/page-query-shape.module.ts
+@@ -25,7 +25,7 @@ export const pageQueryShape = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here answers a query; these are the shapes a query is said in.",
++      statement: "Nothing here answers a query; here are the shapes a query is said in.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/seat-system/channel-delivery/channel-delivery.module.ts b/seat-system/channel-delivery/channel-delivery.module.ts
+index f78a82abfc4cb3b5e4748f59bb0f8fb1c081ff3d..89f91ee9611b1c28bd52a4e60d20fd085cc63915 100644
+--- a/seat-system/channel-delivery/channel-delivery.module.ts
++++ b/seat-system/channel-delivery/channel-delivery.module.ts
+@@ -10,7 +10,7 @@ export const channelDelivery = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A transcript line this cannot read is passed over rather than refused.",
++      statement: "A transcript line this module cannot read is passed over rather than refused.",
+     },
+     {
+       invariantKind: "departure",
