@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/system-service/page-writing/page-writing.module.ts b/pages/system-service/page-writing/page-writing.module.ts
+index 3c97706321a20df7cea913435cc4dd332b7ee82d..bbff844021eb491928f6c2349fddfe96f168a2b0 100644
+--- a/pages/system-service/page-writing/page-writing.module.ts
++++ b/pages/system-service/page-writing/page-writing.module.ts
+@@ -47,7 +47,7 @@ export const pageWriting = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A write stating one is refused where a path it carries no longer holds the body that commit held.",
++        "A write stating one is refused where any of its paths no longer holds the body that commit held.",
+     },
+     {
+       invariantKind: "departure",
