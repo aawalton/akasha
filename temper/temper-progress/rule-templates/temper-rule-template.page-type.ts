@@ -24,7 +24,6 @@ export const temperRuleTemplate = {
   pluralSlug: "temper-rule-templates",
   extendsSlug: ["page-type/temper-progress-thing"],
   partSlugs: [
-    "relation-property/condition-field",
     "text-property/condition-value",
     "text-property/destination",
     "relation-property/goal",

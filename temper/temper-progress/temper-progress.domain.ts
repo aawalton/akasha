@@ -25,5 +25,6 @@ export const temperProgress = {
     "page-type/temper-watcher-enrolment",
     "readout/inboxes-temper-tasks",
     "relation-property/action",
+    "relation-property/condition-field",
   ],
 } as const satisfies Domain
