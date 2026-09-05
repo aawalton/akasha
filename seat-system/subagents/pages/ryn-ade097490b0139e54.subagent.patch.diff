@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/machines/provisioning/provisioning.domain.ts b/machines/provisioning/provisioning.domain.ts
+index acb0104a124233e6d682879653ecc2489d6dc626..9aeef353d528adc22c8efe2c04a841437049412d 100644
+--- a/machines/provisioning/provisioning.domain.ts
++++ b/machines/provisioning/provisioning.domain.ts
+@@ -36,7 +36,7 @@ export const provisioning = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "The scripts still carry their own table of what to place rather than reading it from the pages.",
++        "The scripts still carry their table of what to place rather than reading the table from the pages.",
+     },
+   ],
+ } as const satisfies Domain
