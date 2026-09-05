@@ -123,7 +123,7 @@ async function existing(slug: string): Promise<readonly TransactionLine[]> {
 }
 
 /**
- * A month page is a TypeScript page standing in a folder of its own, the transactions entry file
+ * A month page is a TypeScript page in a folder of its own, the transactions entry file
  * beside it. The slug opens `month-` ahead of the year and month, which is where the dates below
  * are cut from.
  */
@@ -148,19 +148,19 @@ function monthPage(slug: string): string {
 
 export const ARRIVED_FROM_MONARCH = "monarch"
 
-function carried(standing: TransactionLine, arriving: TransactionLine): TransactionLine {
-  const held: Record<string, unknown> = { ...arriving, id: standing.id }
-  const order = standing.amazonOrderNumber
+function carried(before: TransactionLine, arriving: TransactionLine): TransactionLine {
+  const held: Record<string, unknown> = { ...arriving, id: before.id }
+  const order = before.amazonOrderNumber
   if (order !== undefined) held.amazonOrderNumber = order
 
-  const stands = standing.categorySlug
-  const source = standing.categorySource
-  const by = standing.categoryDecidedBy
+  const was = before.categorySlug
+  const source = before.categorySource
+  const by = before.categoryDecidedBy
   const landing = arriving.categorySlug
   const ours = source !== undefined && source !== ARRIVED_FROM_MONARCH
 
-  if (landing === stands || (ours && landing !== stands)) {
-    if (stands !== undefined) held.categorySlug = stands
+  if (landing === was || (ours && landing !== was)) {
+    if (was !== undefined) held.categorySlug = was
     else delete held.categorySlug
     if (source !== undefined) held.categorySource = source
     if (by !== undefined) held.categoryDecidedBy = by
@@ -180,12 +180,12 @@ function sortLines(lines: readonly TransactionLine[]): readonly TransactionLine[
 }
 
 export function merged(
-  standing: readonly TransactionLine[],
+  already: readonly TransactionLine[],
   arriving: readonly TransactionLine[],
   retiring: ReadonlySet<string>
 ): { readonly lines: readonly TransactionLine[]; readonly held: readonly string[] } {
   const kept = new Map<string, TransactionLine>()
-  for (const line of standing) kept.set(line.monarchId, line)
+  for (const line of already) kept.set(line.monarchId, line)
   const held: string[] = []
   for (const line of arriving) {
     const id = line.monarchId
@@ -260,9 +260,9 @@ export async function patchTransactionLines(
   const touched: string[] = []
   const unfound = new Set(patches.keys())
   for (const month of await monthSlugs()) {
-    const standing = await existing(month)
+    const already = await existing(month)
     let changed = false
-    const lines = standing.map((line) => {
+    const lines = already.map((line) => {
       const patch = patches.get(line.monarchId)
       if (patch === undefined) return line
       unfound.delete(line.monarchId)
@@ -335,8 +335,8 @@ export async function landTransactionFiles(
   if (gone.size > 0) {
     for (const month of await monthSlugs()) {
       if (touched.has(month)) continue
-      const standing = await existing(month)
-      if (standing.some((line) => gone.has(line.monarchId))) touched.set(month, [])
+      const already = await existing(month)
+      if (already.some((line) => gone.has(line.monarchId))) touched.set(month, [])
     }
   }
   if (touched.size === 0) return []
@@ -344,11 +344,11 @@ export async function landTransactionFiles(
   const items: WriteItem[] = []
   const held: string[] = []
   for (const [month, lines] of [...touched.entries()].sort()) {
-    const standing = await existing(month)
-    if (standing.length === 0) {
+    const already = await existing(month)
+    if (already.length === 0) {
       items.push({ file_path: monthPagePath(month), content: monthPage(month) })
     }
-    const rows = merged(standing, lines, gone)
+    const rows = merged(already, lines, gone)
     held.push(...rows.held)
     items.push({ file_path: sidecarOf(month), content: sidecarText(rows.lines) })
   }

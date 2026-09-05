@@ -11,7 +11,7 @@ export const monarchLandFiles = {
     {
       invariantKind: "departure",
       statement:
-        "A month page stands in a folder of its own with its transactions entry file beside it.",
+        "A month page sits in a folder of its own with its transactions entry file beside it.",
     },
     {
       invariantKind: "departure",
