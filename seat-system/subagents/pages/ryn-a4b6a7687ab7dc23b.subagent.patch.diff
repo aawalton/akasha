@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/commands/replace/replace.command.ts b/command-system/commands/replace/replace.command.ts
+index b5763018504fc7baa9521932f2498e8cae274c5c..5f375c828f987f2858a5c0bbd5baf4d118199de7 100644
+--- a/command-system/commands/replace/replace.command.ts
++++ b/command-system/commands/replace/replace.command.ts
+@@ -62,7 +62,7 @@ export const replace = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "`--dry-run` reports what the files named hold together.",
++      statement: "`--dry-run` reports how many occurrences the files named hold together.",
+     },
+     {
+       invariantKind: "departure",
