@@ -1,0 +1,14 @@
+diff --git a/temper/temper-addon-data/mapping-generator-writes/mapping-generator-writes.module.ts b/temper/temper-addon-data/mapping-generator-writes/mapping-generator-writes.module.ts
+index 0dbbe8b8cbffdffa2f249eca7a0b6d4dcd3d1cbe..ff04d19a7e11f4790d8dcfd9d8aae363ded48673 100644
+--- a/temper/temper-addon-data/mapping-generator-writes/mapping-generator-writes.module.ts
++++ b/temper/temper-addon-data/mapping-generator-writes/mapping-generator-writes.module.ts
+@@ -14,7 +14,8 @@ export const mappingGeneratorWrites = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row names the file it renders whole rather than a stem a suffix is added to.",
++      statement:
++        "A row names the file that row renders whole rather than a stem a suffix is added to.",
+     },
+     {
+       invariantKind: "departure",
