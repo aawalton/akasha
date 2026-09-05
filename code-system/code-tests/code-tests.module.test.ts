@@ -5,7 +5,6 @@ import {
   mkdirSync,
   readFileSync,
   realpathSync,
-  symlinkSync,
   writeFileSync,
 } from "node:fs"
 import { dirname, join } from "node:path"
@@ -26,22 +25,16 @@ import {
   verdictOf,
   worldOf,
 } from "./code-tests.module.code.ts"
-
-const PASSES = 'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'
-
-const FAILS = 'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(2) })\n'
-
-const MARKED =
-  'import { expect, test } from "bun:test"\n' +
-  `test("one", () => { expect(process.env["${RUNNING}"]).toBe("1") })\n`
-
-const SETS = "globalThis.held = true\n"
-
-const NEEDS =
-  'import { expect, test } from "bun:test"\n' +
-  'test("one", () => { expect(globalThis.held).toBe(true) })\n'
-
-const UNDER = "/var/tmp/"
+import {
+  FAILS,
+  handing,
+  installed,
+  MARKED,
+  NEEDS,
+  PASSES,
+  SETS,
+  UNDER,
+} from "./code-tests.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 
@@ -56,13 +49,6 @@ function repo(files: Record<string, string>): string {
     writeFileSync(at, body)
   }
   return root
-}
-
-function handing(held: Record<string, string>): (path: string) => Uint8Array | null {
-  return (path: string): Uint8Array | null => {
-    const body = held[path]
-    return body === undefined ? null : new TextEncoder().encode(body)
-  }
 }
 
 check("the test files under a path are counted, and other files are not", () => {
@@ -230,17 +216,6 @@ check("a world carries the index, what a run is configured by, and the modules",
     world.sweep()
   }
 })
-
-function installed(from: string, named: string, at: string | null): undefined {
-  const to = join(from, "node_modules", named)
-  mkdirSync(dirname(to), { recursive: true })
-  if (at === null) {
-    mkdirSync(to, { recursive: true })
-    writeFileSync(join(to, "package.json"), '{"name":"third"}\n')
-    return
-  }
-  symlinkSync(join(from, at), to)
-}
 
 check("a package outside the tree is answered from the tree it was made from", () => {
   const from = repo({})

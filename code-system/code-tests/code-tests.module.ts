@@ -8,6 +8,7 @@ export const codeTests = {
     "setting a change up as a tree of its own, running the tests in it, and reading what the run said",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
