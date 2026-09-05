@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.ts b/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.ts
+index 4a01f2fabd9d98140a652b9c6200a3a304d673c7..0ea2becb270a4cabaacc6eebf3b154530d00bfee 100644
+--- a/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.ts
++++ b/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.ts
+@@ -37,7 +37,7 @@ export const temperEsoGenerateColonMethods = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The census is written as numbered runs with an aggregate composing them.",
++      statement: "The census is written as numbered runs with an aggregate composing those runs.",
+     },
+     {
+       invariantKind: "departure",
