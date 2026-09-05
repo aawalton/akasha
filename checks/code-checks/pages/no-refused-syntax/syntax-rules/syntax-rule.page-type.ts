@@ -51,6 +51,10 @@ export const syntaxRule = {
     },
     {
       invariantKind: "departure",
+      statement: "A call is found in the parse and never in the text.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A rule is handed every file the check judges and narrows nothing.",
     },
     {
