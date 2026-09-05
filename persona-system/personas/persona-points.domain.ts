@@ -10,11 +10,11 @@ export const personaPoints = {
     {
       invariantKind: "departure",
       statement:
-        "Attention counts where that attention made that part of Alan's life better, whoever did the work.",
+        "Attention counts where that attention made that part of Alan's life better, no matter the worker.",
     },
     {
       invariantKind: "departure",
-      statement: "The stoplight built from a persona's points is what prompts Alan.",
+      statement: "The stoplight built from a persona's points prompts Alan.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +40,8 @@ export const personaPoints = {
     },
     {
       invariantKind: "gap",
-      statement: "A stored day agrees with what its recipe computes, for every persona at once.",
+      statement:
+        "A stored day agrees with the points its recipe computes, for every persona at once.",
     },
     {
       invariantKind: "gap",
