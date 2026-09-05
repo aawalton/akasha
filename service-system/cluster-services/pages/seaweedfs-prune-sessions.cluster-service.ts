@@ -10,6 +10,5 @@ export const seaweedfsPruneSessions = {
   resourceName: "seaweedfs-prune-sessions",
   image: "rclone/rclone:1.74.3",
   schedule: "24 5 * * *",
-  manifestCode:
-    "infrastructure/seaweedfs/prune-sessions/seaweedfs-prune-sessions.cluster-service.code.attachment.ts",
+  manifestSlug: "seaweedfs-prune-sessions",
 } as const satisfies ClusterService
