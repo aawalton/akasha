@@ -1,0 +1,13 @@
+diff --git a/command-system/applying/applying.module.code.ts b/command-system/applying/applying.module.code.ts
+index feccf4086e5308000b9da7f093031e593852f2a9..83a05ec003faf65d156d48a337d8fe6d50b27134 100644
+--- a/command-system/applying/applying.module.code.ts
++++ b/command-system/applying/applying.module.code.ts
+@@ -104,7 +104,7 @@ export async function applied(
+   const formatting = formattingIn(root, editsOf(said.held))
+   if (agentId !== null) warrantedAgain(root, agentId, said.held, said.moved)
+   const asRead = agentId === null ? [] : asReadOf(root, agentId, said.held)
+-  const done = await landing(root, formatting.changes, said0, gate, writer, head, asRead, [])
++  const done = await landing(root, formatting.changes, said0, gate, writer, head, asRead, carries)
+   if ("refusals" in done) return done
+   if (agentId !== null) recordedAsLanded(root, agentId, formatting.changes)
+   droppedPatch(root, page, APPLIED)
