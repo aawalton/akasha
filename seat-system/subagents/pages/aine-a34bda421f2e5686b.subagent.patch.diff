@@ -1,5 +1,5 @@
 diff --git a/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.code.ts b/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.code.ts
-index 67247598f4254206b387691f623c6b9397725403..3588c02cc126efe66f68571529ba05e5899510ac 100644
+index 67247598f4254206b387691f623c6b9397725403..b517a4ada9717d5b9728ea1b941984266447ab5f 100644
 --- a/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.code.ts
 +++ b/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.code.ts
 @@ -38,7 +38,7 @@ const WATCH_POLL_MS = 3_000
@@ -20,8 +20,17 @@ index 67247598f4254206b387691f623c6b9397725403..3588c02cc126efe66f68571529ba05e5
  function rawFileIn(dir: string): string | null {
    try {
      return readFileSync(credentialPathIn(dir), "utf-8")
+@@ -192,7 +192,7 @@ export function fileRefreshedFrom(args: {
+     if (one.accessTokenExpiresAtMs <= now) {
+       doors.warned(
+         `${logPrefix} ${slug} expired at ${new Date(one.accessTokenExpiresAtMs).toISOString()} and nothing ` +
+-          `here renews one — claude account upkeep has not reached it, so the file is left as it stands`
++          `here renews one — claude account upkeep has not reached it, so the file is left as it is`
+       )
+       return { refreshed: false, terminal: false }
+     }
 diff --git a/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.test.ts b/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.test.ts
-index 12724ad279f6a3f067dea3b01f8147ece92939a8..78ebfe82f198a32d8f9fa2182a0461af5f8762dc 100644
+index 12724ad279f6a3f067dea3b01f8147ece92939a8..417dffd5dc7d9a5d44be118cc820ebefa6f93e56 100644
 --- a/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.test.ts
 +++ b/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.test.ts
 @@ -138,7 +138,7 @@ describe("credentialFileIn", () => {
@@ -39,6 +48,15 @@ index 12724ad279f6a3f067dea3b01f8147ece92939a8..78ebfe82f198a32d8f9fa2182a0461af
  
 -  test("an empty access token leaves the standing file untouched", () => {
 +  test("an empty access token leaves the file that is there untouched", () => {
+     const dir = whereverIn()
+     const path = fileWritten(dir, bodyOf(WHOLE))
+     const before = readFileSync(path, "utf-8")
+@@ -193,7 +193,7 @@ describe("credentialFileWritten", () => {
+     expect(readFileSync(path, "utf-8")).toBe(before)
+   })
+ 
+-  test("an empty refresh token leaves the standing file untouched", () => {
++  test("an empty refresh token leaves the file that is there untouched", () => {
      const dir = whereverIn()
      const path = fileWritten(dir, bodyOf(WHOLE))
      const before = readFileSync(path, "utf-8")
@@ -65,10 +83,10 @@ index 42d34ae917b27d1d7d43364539e1483bffc16ada..e7519b745ed9c92652027b2697f7066f
      {
        invariantKind: "departure",
 diff --git a/agents/claude-accounts/modules/health/claude-account-health.module.test.ts b/agents/claude-accounts/modules/health/claude-account-health.module.test.ts
-index 2c70dd11f079b23d174a19f933811ad84336f8ac..791c9d7bfee67470ca7e2486809c5684306f2729 100644
+index 2c70dd11f079b23d174a19f933811ad84336f8ac..351668ae0dadd9beb242d9db4e5e33e3f219c695 100644
 --- a/agents/claude-accounts/modules/health/claude-account-health.module.test.ts
 +++ b/agents/claude-accounts/modules/health/claude-account-health.module.test.ts
-@@ -244,14 +244,14 @@ describe("decideTokenTerminalAlert", () => {
+@@ -244,18 +244,18 @@ describe("decideTokenTerminalAlert", () => {
      expect(said).toBe("none")
    })
  
@@ -85,6 +103,11 @@ index 2c70dd11f079b23d174a19f933811ad84336f8ac..791c9d7bfee67470ca7e2486809c5684
      expect(decideTokenTerminalAlert(given({ refreshOk: true }))).toBe("none")
    })
  
+-  test("a latch standing under a refresh that did not work is left standing", () => {
++  test("a latch under a refresh that did not work is left alone", () => {
+     const said = decideTokenTerminalAlert(
+       given({ refreshOk: false, alreadyAlertedAtMs: NOW - 1000 })
+     )
 diff --git a/agents/claude-accounts/modules/health/claude-account-health.module.ts b/agents/claude-accounts/modules/health/claude-account-health.module.ts
 index f7047b3062ae1ff552fa4cb73b1177b1854b4471..71c9ed27c1e031de16631875a82ddf7b02af1731 100644
 --- a/agents/claude-accounts/modules/health/claude-account-health.module.ts
