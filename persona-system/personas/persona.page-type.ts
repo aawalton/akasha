@@ -131,7 +131,7 @@ export const persona = {
     },
     {
       invariantKind: "departure",
-      statement: "What a persona looks like is a second file beside that persona's page.",
+      statement: "A persona's appearance is a second file beside that persona's page.",
     },
     {
       invariantKind: "departure",
