@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/collections/royal-road-accounts/royal-road-account.page-type.ts b/collections/royal-road-accounts/royal-road-account.page-type.ts
+index d81132295c10956deaca59cfea22e25acec84544..df418c221843ba7224cfe0d72330f8a1c4cb8630 100644
+--- a/collections/royal-road-accounts/royal-road-account.page-type.ts
++++ b/collections/royal-road-accounts/royal-road-account.page-type.ts
+@@ -27,7 +27,8 @@ export const royalRoadAccount = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What authorises an account's sign-in is held as a secret rather than as text.",
++      statement:
++        "The password authorising an account's sign-in is held as a secret rather than as text.",
+     },
+     {
+       invariantKind: "departure",
