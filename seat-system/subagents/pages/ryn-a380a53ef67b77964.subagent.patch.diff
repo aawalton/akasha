@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/commands/move/naming/move-naming.module.ts b/commands/move/naming/move-naming.module.ts
-index 98158f3cbe1d96c51de7a5c19fa7325821f2ce21..d39be2ae2dbcca2aed6528a5003187c2ef969393 100644
+index 98158f3cbe1d96c51de7a5c19fa7325821f2ce21..28bf985d8a12313e30ca7e36ee44b25221c9d72d 100644
 --- a/commands/move/naming/move-naming.module.ts
 +++ b/commands/move/naming/move-naming.module.ts
 @@ -22,7 +22,7 @@ export const moveNaming = {
@@ -9,6 +9,15 @@ index 98158f3cbe1d96c51de7a5c19fa7325821f2ce21..d39be2ae2dbcca2aed6528a5003187c2
        invariantKind: "departure",
 -      statement: "What imports a path that moves is answered by the index.",
 +      statement: "Which files import a path that moves is answered by the index.",
+     },
+     {
+       invariantKind: "departure",
+@@ -30,7 +30,7 @@ export const moveNaming = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file moving in the same act is no importer of what moves.",
++      statement: "A file moving in the same act is no importer of the paths that move.",
      },
      {
        invariantKind: "departure",
