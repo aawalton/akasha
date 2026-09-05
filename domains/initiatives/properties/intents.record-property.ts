@@ -27,7 +27,7 @@ export const intents = {
     },
     {
       invariantKind: "departure",
-      statement: "An intent stands as a gap rather than stating which kind of invariant it is.",
+      statement: "An intent is a gap rather than stating which kind of invariant it is.",
     },
   ],
 } as const satisfies RecordProperty

@@ -18,7 +18,7 @@ export const list = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A list's members stand as a property rather than as the shape of a body.",
+      statement: "A list's members are a property rather than the shape of a body.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,7 @@ export const list = {
     },
     {
       invariantKind: "departure",
-      statement: "A member the list orders by is ordered where the members stand.",
+      statement: "A member the list orders by is ordered where the members are.",
     },
     {
       invariantKind: "departure",

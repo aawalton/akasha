@@ -18,10 +18,10 @@ function textIn(value: Value, key: string): string | null {
 function heldIn(root: string): readonly DomainRead[] {
   const found: DomainRead[] = []
   for (const kind of kindsUnder(DOMAIN, readingIn(root), (path) => valueAt(path, root))) {
-    for (const standing of everyOfType(root, kind)) {
+    for (const page of everyOfType(root, kind)) {
       let value: Value | null
       try {
-        value = valueAt(standing.path, root)
+        value = valueAt(page.path, root)
       } catch {
         continue
       }
@@ -29,7 +29,7 @@ function heldIn(root: string): readonly DomainRead[] {
       const slug = textIn(value, "slug")
       const pageTypeSlug = textIn(value, "pageTypeSlug")
       if (slug === null || pageTypeSlug === null) continue
-      found.push({ relPath: standing.path, slug, address: `${pageTypeSlug}/${slug}` })
+      found.push({ relPath: page.path, slug, address: `${pageTypeSlug}/${slug}` })
     }
   }
   return found

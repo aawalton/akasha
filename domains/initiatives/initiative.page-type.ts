@@ -41,7 +41,7 @@ export const initiative = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An initiative stands under another initiative or under none.",
+      statement: "An initiative sits under another initiative or under none.",
     },
     {
       invariantKind: "departure",
@@ -72,7 +72,7 @@ export const initiative = {
     {
       invariantKind: "departure",
       statement:
-        "An initiative dies when the initiative is reached rather than standing as a domain that is done.",
+        "An initiative dies when the initiative is reached rather than remaining as a domain that is done.",
     },
     {
       invariantKind: "upkeep",

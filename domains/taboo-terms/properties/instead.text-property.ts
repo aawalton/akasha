@@ -7,7 +7,7 @@ export const instead = {
   pageTypeSlug: "text-property",
   slug: "instead",
   propertySlug: "instead",
-  definition: "what stands where a taboo sense was meant",
+  definition: "what is written where a taboo sense was meant",
   max: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

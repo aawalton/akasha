@@ -13,7 +13,7 @@ export const parentSlug = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An initiative lists nothing standing beneath that initiative.",
+      statement: "An initiative lists nothing beneath that initiative.",
     },
     {
       invariantKind: "departure",

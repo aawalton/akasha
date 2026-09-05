@@ -6,6 +6,6 @@ export const draw = {
   slug: "draw",
   pattern: "\\bdraw\\b",
   tabooSenses: [
-    { sense: "a document arriving with a read or standing in a prompt", instead: "carried" },
+    { sense: "a document arriving with a read or sitting in a prompt", instead: "carried" },
   ],
 } as const satisfies TabooTerm

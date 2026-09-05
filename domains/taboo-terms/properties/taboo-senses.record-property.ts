@@ -15,7 +15,7 @@ export const tabooSenses = {
   pageTypeSlug: "record-property",
   slug: "taboo-senses",
   propertySlug: "taboo-senses",
-  definition: "the senses a taboo term is never written in, each with what stands instead",
+  definition: "the senses a taboo term is never written in, each with what is written instead",
   properties: [
     { pagePropertySlug: "sense", required: true, many: false },
     { pagePropertySlug: "instead", required: true, many: false },
@@ -31,7 +31,7 @@ export const tabooSenses = {
     },
     {
       invariantKind: "departure",
-      statement: "A sense stands alone among the senses one term bars.",
+      statement: "A sense is alone among the senses one term bars.",
     },
   ],
 } as const satisfies RecordProperty

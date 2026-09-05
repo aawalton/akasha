@@ -27,7 +27,7 @@ export const members = {
     },
     {
       invariantKind: "departure",
-      statement: "The order the members stand in is the order the list means.",
+      statement: "The order the members are in is the order the list means.",
     },
   ],
 } as const satisfies RecordProperty
