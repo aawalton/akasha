@@ -191,3 +191,11 @@ index 6cc54fab69f6e613fcc00a24ffcbf9a0e018c035..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../infrastructure/analysis-complexity
 \ No newline at end of file
+diff --git a/infrastructure/auth-proxy/auth-proxy b/infrastructure/auth-proxy/auth-proxy
+deleted file mode 120000
+index 8f32ee53a2560c42e471d97b649a2fa3600d34a5..0000000000000000000000000000000000000000
+--- a/infrastructure/auth-proxy/auth-proxy
++++ /dev/null
+@@ -1 +0,0 @@
+-../../infrastructure/auth-proxy
+\ No newline at end of file
