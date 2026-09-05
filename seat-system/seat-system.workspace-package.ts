@@ -97,6 +97,7 @@ export const seatSystem = {
     "module/seat-session",
     "module/seat-stated",
     "module/seat-transcript-path",
+    "module/seat-transcript-rotation",
     "module/subagent-naming",
     "module/supervisor-log-sweeping",
     "page-type/agent-settings",

@@ -22,6 +22,7 @@ import {
   keepTranscript,
   transcriptRecordOf,
 } from "../seat-transcript-path/seat-transcript-path.module.code.ts"
+import { rotatedTranscriptFor } from "../seat-transcript-rotation/seat-transcript-rotation.module.code.ts"
 
 export interface BeatReport {
   readonly outcome: Outcome
@@ -43,10 +44,10 @@ export function statedForPage(
   selfHealSession: string | null = null
 ): Stated {
   const read = statedOf(agentId)
-  const stood = account === null ? read : { ...read, registration: { value: account } }
-  if (selfHealAgent !== agentId) return stood
+  const held = account === null ? read : { ...read, registration: { value: account } }
+  if (selfHealAgent !== agentId) return held
   const running = sessionRecordOf(selfHealSession)
-  return running === null ? stood : { ...stood, session: running }
+  return running === null ? held : { ...held, session: running }
 }
 
 export async function beat(argv: readonly string[]): Promise<BeatReport> {
@@ -77,7 +78,10 @@ export async function beat(argv: readonly string[]): Promise<BeatReport> {
 
   const transcriptPath = valueOf(argv, "--transcript")
   if (transcriptPath !== null) {
-    const watching = transcriptRecordOf(transcriptPath)
+    // The caller builds this argument from a session id it started and can never revise, so a
+    // clear leaves it naming a file nothing writes to any more. Where the seat's session has
+    // rotated, the file found beside the named one is the one to watch instead.
+    const watching = transcriptRecordOf(rotatedTranscriptFor(agentId) ?? transcriptPath)
     if (watching === null) return { outcome: { kind: "unchanged" }, seat }
     keepTranscript(agentId, watching.value)
     return {

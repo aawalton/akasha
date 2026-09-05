@@ -39,6 +39,11 @@ export const seatPageBeat = {
     {
       invariantKind: "departure",
       statement:
+        "A transcript found to have been superseded is written in place of the one the run names.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A page that will not state its parent is written again under the parent history gives.",
     },
   ],

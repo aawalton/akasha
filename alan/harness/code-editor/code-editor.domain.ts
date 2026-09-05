@@ -14,6 +14,32 @@ export const codeEditor = {
   ],
   invariants: [
     {
+      invariantKind: "constraint",
+      statement: "More than a second of work on the extension host's thread locks the editor up.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Enough watch events arriving together ends the extension host.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A panel, a tab or the status line reads one file and works nothing out from the repository.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That file is written by one service rather than by the editor.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A panel, a tab or the status line re-reads when its own file is written.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file's cooldown lands the first change at once and collects the rest for its own wait.",
+    },
+    {
       invariantKind: "departure",
       statement: "The editor is a fork of openvscode-server never rebased onto openvscode-server.",
     },
@@ -59,14 +85,6 @@ export const codeEditor = {
     },
     {
       invariantKind: "departure",
-      statement: "A panel re-reads when the repository the panel shows is written.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A panel re-reads on a write rather than on a timer.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A read that failed leaves the last good rows on screen.",
     },
     {
@@ -81,10 +99,6 @@ export const codeEditor = {
     {
       invariantKind: "departure",
       statement: "A turn state is shown within 100ms of the file carrying the state being written.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A color is read through the command's own file rather than the `ops` dispatcher.",
     },
     {
       invariantKind: "departure",
