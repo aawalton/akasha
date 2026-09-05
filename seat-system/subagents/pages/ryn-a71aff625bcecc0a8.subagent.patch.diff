@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/code-system/ios-apps/properties/stage-script.relation-property.ts b/code-system/ios-apps/properties/stage-script.relation-property.ts
+index 8fd589d062ca5e5e5a4faec715092ba97072ab8f..4eb940a205a241755fcb787fb76b7becbd2f6ceb 100644
+--- a/code-system/ios-apps/properties/stage-script.relation-property.ts
++++ b/code-system/ios-apps/properties/stage-script.relation-property.ts
+@@ -17,7 +17,8 @@ export const stageScript = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What stages an app's site is read from its page rather than walked to.",
++      statement:
++        "The script that stages an app's site is read from its page rather than walked to.",
+     },
+   ],
+ } as const satisfies RelationProperty
