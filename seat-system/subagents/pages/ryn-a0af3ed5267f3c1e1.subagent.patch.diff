@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/orphaning/orphaning.module.ts b/command-system/orphaning/orphaning.module.ts
-index 2904dfee347a7c9db2441abb10906e95d2aa4b4e..7bf70c2423df963281e5372e3e305ea8e1bcef2c 100644
+index 2904dfee347a7c9db2441abb10906e95d2aa4b4e..b97750a1a3be14e8f78c25d72321dedd4e5dced7 100644
 --- a/command-system/orphaning/orphaning.module.ts
 +++ b/command-system/orphaning/orphaning.module.ts
 @@ -10,7 +10,8 @@ export const orphaning = {
@@ -13,3 +13,12 @@ index 2904dfee347a7c9db2441abb10906e95d2aa4b4e..7bf70c2423df963281e5372e3e305ea8
      },
      {
        invariantKind: "departure",
+@@ -39,7 +40,7 @@ export const orphaning = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is said names the first few importers and counts the rest.",
++      statement: "The answer names the first few importers and counts the rest.",
+     },
+     {
+       invariantKind: "gap",
