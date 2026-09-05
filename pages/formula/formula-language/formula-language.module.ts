@@ -13,7 +13,7 @@ export const formulaLanguage = {
     },
     {
       invariantKind: "departure",
-      statement: "A formula names a computed property exactly as it names a stored one.",
+      statement: "A formula names a computed property exactly as that formula names a stored one.",
     },
     {
       invariantKind: "departure",
