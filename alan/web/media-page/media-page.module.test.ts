@@ -1,4 +1,7 @@
 import { beforeAll, expect, mock, test } from "bun:test"
+import * as pagesGet from "@akasha/pages-access/get"
+import * as calling from "@akasha/pages-system-service/calling"
+import * as authServer from "@akasha/supabase-rr/auth-server"
 
 const PAGE_ID = "019db5f4-063c-710f-a432-4c822d31915a"
 
@@ -16,6 +19,7 @@ const PLAIN_ROW = { slug: "page", extendsSlug: [] }
 let storeAnswers = true
 
 mock.module("@akasha/pages-system-service/calling", () => ({
+  ...calling,
   askingFor: async (query: { pageTypeSlug: string; where?: { slug?: { is?: string } } }) => {
     if (query.pageTypeSlug !== "page-type") return { rows: [] }
     if (!storeAnswers) {
@@ -35,10 +39,12 @@ mock.module("@akasha/pages-system-service/calling", () => ({
 }))
 
 mock.module("@akasha/supabase-rr/auth-server", () => ({
+  ...authServer,
   resolveRequestUser: async () => ({ user: { id: "alan" }, headers: new Headers() }),
 }))
 
 mock.module("@akasha/pages-access/get", () => ({
+  ...pagesGet,
   getPage: async (args: { pageTypeSlug: string; where: readonly { key: string; eq: string }[] }) =>
     args.pageTypeSlug === "story-chapter-written"
       ? { id: PAGE_ID, pageTypeSlug: "story-chapter-written", title: "A chapter" }
