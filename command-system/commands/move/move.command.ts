@@ -300,10 +300,6 @@ export const move = {
     },
     {
       invariantKind: "departure",
-      statement: "A relative path is resolved against the folder of the file carrying that path.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "The files that reached in by a relative path are reported apart from those files that spelled one.",
     },
