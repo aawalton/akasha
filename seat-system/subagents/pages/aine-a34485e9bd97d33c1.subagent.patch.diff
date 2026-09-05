@@ -25,10 +25,10 @@ index 723ace50dff17420a6d71c93c064d9f6ccc03b4b..0c602343418d9bc224e4d953ec6d7aba
    ],
  } as const satisfies Module
 diff --git a/alan/fitness/exercise-access/exercise-finding/exercise-finding.module.ts b/alan/fitness/exercise-access/exercise-finding/exercise-finding.module.ts
-index 5f10598b09025beb4b7011bdf8c5397d8f4cf9b7..9fe87f695156f2d39ee3ca2bbff5b75d9bf6041b 100644
+index 5f10598b09025beb4b7011bdf8c5397d8f4cf9b7..34c44b1603b78ca7ca09eceb24e4c011a9dc4fae 100644
 --- a/alan/fitness/exercise-access/exercise-finding/exercise-finding.module.ts
 +++ b/alan/fitness/exercise-access/exercise-finding/exercise-finding.module.ts
-@@ -33,7 +33,7 @@ export const exerciseFinding = {
+@@ -33,11 +33,11 @@ export const exerciseFinding = {
      },
      {
        invariantKind: "departure",
@@ -37,6 +37,11 @@ index 5f10598b09025beb4b7011bdf8c5397d8f4cf9b7..9fe87f695156f2d39ee3ca2bbff5b75d
      },
      {
        invariantKind: "departure",
+-      statement: "No schedule standing is an empty answer rather than a refusal.",
++      statement: "No schedule existing is an empty answer rather than a refusal.",
+     },
+   ],
+ } as const satisfies Module
 diff --git a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts
 index 14e97cd85ae09d278d216d42077930352e32cd50..879e4eeb53ff0eb9539dc0a654c2c2f89c8d95a5 100644
 --- a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts
@@ -51,7 +56,7 @@ index 14e97cd85ae09d278d216d42077930352e32cd50..879e4eeb53ff0eb9539dc0a654c2c2f8
    return root
  }
 diff --git a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.test.ts b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.test.ts
-index 0ba0b646fba2416050818351426df819d84df9a0..ca7d7b6e39243a20a6674304554ed3c4f468f467 100644
+index 0ba0b646fba2416050818351426df819d84df9a0..b00e8b366c802bfbacab8794195636b6d6e4bc61 100644
 --- a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.test.ts
 +++ b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.test.ts
 @@ -41,7 +41,7 @@ const SESSIONS: readonly Row[] = [
@@ -63,6 +68,15 @@ index 0ba0b646fba2416050818351426df819d84df9a0..ca7d7b6e39243a20a6674304554ed3c4
      const row = rowFrom({
        id: "019ee093-e069-754e-bacc-b646edcd0357",
        slug: "a-set",
+@@ -145,7 +145,7 @@ describe("which rows an asking keeps", () => {
+     expect(held.map((row) => row.workoutSessionDate)).toEqual(["2026-06-24"])
+   })
+ 
+-  test("a limit past the end takes what stands rather than refusing", () => {
++  test("a limit past the end takes what is there rather than refusing", () => {
+     const held = shapedIn(SESSIONS, { pageTypeSlug: "workout-session", limit: 99 })
+     expect(held.length).toBe(3)
+   })
 diff --git a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts
 index b5c5c8e19f127ef6da651def9151c62ac5e710d5..ac2cd4cd447b1b5622d9de65d2c6c3f0d82269b1 100644
 --- a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts
@@ -90,7 +104,7 @@ index 01e95ef67ceec30b1bf85334a6fb4e47d10a4a8c..99c5a3f07af2da6f077c462128c254ae
    })
  
 diff --git a/alan/fitness/exercise-access/session-volume/session-volume.module.test.ts b/alan/fitness/exercise-access/session-volume/session-volume.module.test.ts
-index 6487958c43dfd55c04f54c5d134c49840a4d62d8..f8ff1361572c07bcb8a839beb6ae838fd2fcc4da 100644
+index 6487958c43dfd55c04f54c5d134c49840a4d62d8..0bf477a87ebdcb1300521d6bb01d6cc8ea4a55e8 100644
 --- a/alan/fitness/exercise-access/session-volume/session-volume.module.test.ts
 +++ b/alan/fitness/exercise-access/session-volume/session-volume.module.test.ts
 @@ -28,7 +28,7 @@ describe("what a session's sets come to", () => {
@@ -102,6 +116,15 @@ index 6487958c43dfd55c04f54c5d134c49840a4d62d8..f8ff1361572c07bcb8a839beb6ae838f
      expect(exerciseSlugsIn(SET_LOGS)).toEqual(["goblet-squat", "push-up", "bike"])
    })
  
+@@ -38,7 +38,7 @@ describe("what a session's sets come to", () => {
+     expect(loads.get("push-up")?.loadFactor).toBe(0.65)
+   })
+ 
+-  test("a movement no exercise page stands for leaves its load absent", () => {
++  test("a movement no exercise page represents leaves its load absent", () => {
+     const sets = volumeSetsIn(SET_LOGS, loadsIn(EXERCISES))
+     const bike = sets[3]
+     expect(bike).toBeDefined()
 diff --git a/alan/fitness/exercise-access/session-volume/session-volume.module.ts b/alan/fitness/exercise-access/session-volume/session-volume.module.ts
 index 853b6a4957a7f0044b6b9e4e7c29940454910968..a81c12b85ef76707a46f7dc276a6b08a07716af6 100644
 --- a/alan/fitness/exercise-access/session-volume/session-volume.module.ts
