@@ -9,7 +9,7 @@ export const traitActions = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The first rule naming a trait on a category settles what becomes of that trait.",
+      statement: "The first rule naming a trait on a category settles the action for that trait.",
     },
   ],
 } as const satisfies Module
