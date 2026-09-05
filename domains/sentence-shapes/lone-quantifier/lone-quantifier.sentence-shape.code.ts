@@ -4,8 +4,10 @@ import type { Match, ShapePredicate } from "@akasha/plain-language/shape-predica
 import {
   determinesABacktickedName,
   fillsNounSlot,
+  headsAComparative,
   isBackticked,
   isQuantifier,
+  isReciprocal,
   marksADegree,
   partsOf,
 } from "@akasha/plain-language/shape-predicate"
@@ -30,6 +32,8 @@ export const loneQuantifier: ShapePredicate = (sentence) => {
     if (!isQuantifier(token)) continue
     if (isBackticked(sentence, token)) continue
     if (determinesABacktickedName(sentence, token)) continue
+    if (isReciprocal(sentence, token)) continue
+    if (headsAComparative(sentence, token)) continue
     if (!fillsNounSlot(token)) continue
     if (partsOf(sentence, token).length > 0) continue
     if (marksADegree(sentence, token)) continue

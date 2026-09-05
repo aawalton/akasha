@@ -18,5 +18,13 @@ export const loneQuantifier = {
       invariantKind: "departure",
       statement: "A quantifier determining a backticked name is passed over.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A quantifier heading `each other` or `one another` counts nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A quantifier whose fixed part is `than` is comparing rather than counting.",
+    },
   ],
 } as const satisfies SentenceShape

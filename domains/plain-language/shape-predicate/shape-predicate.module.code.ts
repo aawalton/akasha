@@ -116,6 +116,7 @@ const PRONOUN = [
   "yourselves",
 ]
 const SUMMING = ["both", "each", "either", "neither"]
+const RECIPROCAL = ["each other", "one another"]
 const DEGREE = ["all", "least", "most"]
 const MARKERS = ["advmod", "case", "cc", "det", "fixed", "punct"]
 const OPENERS = ["SCONJ", "CCONJ"]
@@ -229,4 +230,14 @@ export function isBackticked(sentence: DepSentence, token: DepToken): boolean {
 export function determinesABacktickedName(sentence: DepSentence, token: DepToken): boolean {
   const next = byId(sentence, token.id + 1)
   return next !== undefined && lower(next) === "`"
+}
+
+export function isReciprocal(sentence: DepSentence, token: DepToken): boolean {
+  return childrenByRel(sentence, token.id, "fixed").some((one) =>
+    RECIPROCAL.includes(`${lower(token)} ${lower(one)}`)
+  )
+}
+
+export function headsAComparative(sentence: DepSentence, token: DepToken): boolean {
+  return childrenByRel(sentence, token.id, "fixed").some((one) => lower(one) === "than")
 }
