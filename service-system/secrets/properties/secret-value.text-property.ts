@@ -7,7 +7,7 @@ export const secretValue = {
   pageTypeSlug: "text-property",
   slug: "secret-value",
   propertySlug: "value",
-  definition: "the secret a page stands for",
+  definition: "the secret a page represents",
   max: 100000,
   nameFormatSlug: null,
   invariants: [

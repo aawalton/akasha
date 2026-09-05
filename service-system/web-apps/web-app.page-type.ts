@@ -52,7 +52,7 @@ export const webApp = {
     },
     {
       invariantKind: "absence",
-      statement: "A web app states nothing of the build standing for the web app now.",
+      statement: "A web app states nothing of the build representing the web app now.",
     },
     {
       invariantKind: "gap",

@@ -11,7 +11,7 @@ import {
 } from "../../cluster-services/workload-deploying/workload-deploying.module.code.ts"
 
 // The refusal deploy-system raised. It came from `deploy-system/refusal/refusal.ts`, which went
-// with the rest of that folder, and nothing inside akasha replaced it, so it stands here beside
+// with the rest of that folder, and nothing inside akasha replaced it, so it sits here beside
 // its only thrower.
 export class DeployRefused extends Error {
   constructor(message: string) {

@@ -7,7 +7,7 @@ export const resourceKey = {
   pageTypeSlug: "text-property",
   slug: "resource-key",
   propertySlug: "resource-key",
-  definition: "the key a value stands under inside the resource it belongs to",
+  definition: "the key a value sits under inside the resource it belongs to",
   max: 253,
   nameFormatSlug: null,
   invariants: [

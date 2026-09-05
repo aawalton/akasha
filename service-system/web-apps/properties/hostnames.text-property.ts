@@ -13,7 +13,7 @@ export const hostnames = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A name standing here is reached from outside the cluster.",
+      statement: "A name here is reached from outside the cluster.",
     },
     {
       invariantKind: "departure",

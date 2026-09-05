@@ -26,7 +26,7 @@ export const secret = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The value stands in the sops file beside the page and never in the page.",
+      statement: "The value sits in the sops file beside the page and never in the page.",
     },
     {
       invariantKind: "departure",

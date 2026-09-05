@@ -7,7 +7,7 @@ export const sourceDirectory = {
   pageTypeSlug: "text-property",
   slug: "source-directory",
   propertySlug: "source-directory",
-  definition: "the folder a web app's source stands in",
+  definition: "the folder a web app's source sits in",
   max: 200,
   nameFormatSlug: null,
   invariants: [
@@ -17,7 +17,7 @@ export const sourceDirectory = {
     },
     {
       invariantKind: "absence",
-      statement: "No slash opens or closes what stands here.",
+      statement: "No slash opens or closes what is here.",
     },
     {
       invariantKind: "departure",
