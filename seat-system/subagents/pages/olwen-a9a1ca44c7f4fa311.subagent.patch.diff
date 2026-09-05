@@ -183,6 +183,67 @@ index 0000000000000000000000000000000000000000..f37a69e62bf49503a8d689c7d84103c0
 +export function bareDir(root: string, path: string): undefined {
 +  mkdirSync(join(root, path), { recursive: true })
 +}
+diff --git a/commands/move/spreading/move-spreading.module.test.ts b/commands/move/spreading/move-spreading.module.test.ts
+index 58e45b4c08e9749426e0eed3f49c965bbd9acfe8..a2d6487e12e45262eb4d4364a240b48d2e387aa7 100644
+--- a/commands/move/spreading/move-spreading.module.test.ts
++++ b/commands/move/spreading/move-spreading.module.test.ts
+@@ -4,33 +4,35 @@ import { join } from "node:path"
+ import { put, there } from "@akasha/testing-system/putting"
+ import { move } from "../move.command.code.ts"
+ import {
+-  bareDir,
+   bodyIn,
+   FOLDER,
+   FOLDER_AT,
+   FOLDER_PAIR,
+-  folderUnsaid,
+-  folderWorld,
+   git,
+   givenIn,
+   HELD,
+-  HELD_AT,
+   HOLDER,
+-  HOLDER_AT,
+   head,
+-  LOOSE,
+-  NESTED_AT,
+-  NESTED_HELD,
+   OTHER,
+   PAGE,
+   scratch,
+   told,
+   UNSAID,
+-  UNSAID_UNDER,
+   VALUES,
+ } from "../move.command.test-fixtures.ts"
+ import type { Spread, Spreading } from "./move-spreading.module.code.ts"
+ import { expandedIn, othersUnder, spreadSaid } from "./move-spreading.module.code.ts"
++import {
++  bareDir,
++  folderUnsaid,
++  folderWorld,
++  HELD_AT,
++  HOLDER_AT,
++  LOOSE,
++  NESTED_AT,
++  NESTED_HELD,
++  UNSAID_UNDER,
++} from "./move-spreading.module.test-fixtures.ts"
+ 
+ afterAll(scratch.sweep)
+ 
+diff --git a/commands/move/spreading/move-spreading.module.ts b/commands/move/spreading/move-spreading.module.ts
+index a4f7c9a53f233f19a50fa4e108c3d598637d1700..8463c6b7f0d53c65b01722f07ea4f8a27e4f39cf 100644
+--- a/commands/move/spreading/move-spreading.module.ts
++++ b/commands/move/spreading/move-spreading.module.ts
+@@ -7,6 +7,7 @@ export const moveSpreading = {
+   definition: "a folder named for a move opened into the pairs the files under it carry",
+   code: "ts",
+   test: "ts",
++  testFixtures: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
 diff --git a/commands/track/session-rows/session-rows.module.code.ts b/commands/track/session-rows/session-rows.module.code.ts
 index d29efd47854ccb6b805610bc2c7cf829dab937d4..3bd3121f3c5707831b7166eb4ced84ef038eabc2 100644
 --- a/commands/track/session-rows/session-rows.module.code.ts
