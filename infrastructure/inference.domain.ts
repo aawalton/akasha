@@ -10,7 +10,7 @@ export const inference = {
     "page-type/inference-run",
     "workspace-package/inference-clients",
     "workspace-package/inference-pool",
-    "workspace-package/inference-runs",
+    "workspace-package/inference-run",
     "workspace-package/voice-inference",
   ],
   invariants: [

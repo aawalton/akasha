@@ -1,9 +1,9 @@
 import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
 
-export const inferenceRuns = {
+export const inferenceRun = {
   id: "01a0685d-4b35-7019-9d54-b15d9954b9b1",
   pageTypeSlug: "workspace-package",
-  slug: "inference-runs",
+  slug: "inference-run",
   definition: "the record kept of every run a model was asked for and of what that run made",
   manifest: "json",
   partSlugs: [
