@@ -95,3 +95,70 @@ index bac3f6b5d13697f6a977f48c080525cee149e3dd..a51b853957e29c52d027cf8ecfa7377c
        synthPath,
        clusterServiceSlug,
        sourceDirectory: textAt(stated, SOURCE_DIRECTORY) as string,
+diff --git a/service-system/cluster-services/web-app-reading/web-app-reading.module.test-fixtures.ts b/service-system/cluster-services/web-app-reading/web-app-reading.module.test-fixtures.ts
+index 0113c756ef2c79077e79712f12440fa5129eb00e..985252d242730b0d564f4b58cd13bc0ffe50e144 100644
+--- a/service-system/cluster-services/web-app-reading/web-app-reading.module.test-fixtures.ts
++++ b/service-system/cluster-services/web-app-reading/web-app-reading.module.test-fixtures.ts
+@@ -8,7 +8,9 @@ const PREFIX = "akasha-web-app-"
+ const WEB_APPS_AT = "akasha/service-system/web-app/web-apps"
+ const CLUSTER_SERVICES_AT = "akasha/service-system/cluster-service/cluster-services"
+ 
+-export const SYNTH_AT = "one/web/one-web.cluster-service.code.attachment.ts"
++export const MANIFEST_AT = "one/web/one-web.manifest.ts"
++export const SYNTH_AT = "one/web/one-web.manifest.code.ts"
++const BARE_MANIFEST_AT = "one/bare/bare.manifest.ts"
+ 
+ export type World = {
+   readonly root: string
+@@ -68,7 +70,7 @@ function webApp(slug: string, at: number, slugs: readonly string[], whole = true
+   return pageOf(slug, held)
+ }
+ 
+-function clusterService(slug: string, at: number, name: string, code: string): string {
++function clusterService(slug: string, at: number, name: string, manifestSlug: string): string {
+   return pageOf(slug, {
+     id: `01a05b26-0000-7001-8000-00000000000${at}`,
+     pageTypeSlug: "cluster-service",
+@@ -80,7 +82,17 @@ function clusterService(slug: string, at: number, name: string, code: string): s
+     image: "registry.example/bun:latest",
+     replicas: 1,
+     containerPort: 3000,
+-    manifestCode: code,
++    manifestSlug,
++  })
++}
++
++function manifest(slug: string, at: number): string {
++  return pageOf(slug, {
++    id: `01a05b26-0000-7002-8000-00000000000${at}`,
++    pageTypeSlug: "manifest",
++    slug,
++    definition: `the resources ${slug} is applied as`,
++    code: "ts",
+   })
+ }
+ 
+@@ -97,14 +109,21 @@ export function seededWorld(): World {
+   written(`${WEB_APPS_AT}/lost-web.web-app.ts`, webApp("lost-web", 4, ["no-such-service"]))
+   written(`${WEB_APPS_AT}/bare-web.web-app.ts`, webApp("bare-web", 5, ["bare"]))
+   written(`${WEB_APPS_AT}/short-web.web-app.ts`, webApp("short-web", 6, ["one-web"], false))
++  written(`${WEB_APPS_AT}/orphan-web.web-app.ts`, webApp("orphan-web", 7, ["orphan"]))
+   written(
+     `${CLUSTER_SERVICES_AT}/one-web.cluster-service.ts`,
+-    clusterService("one-web", 1, "web", SYNTH_AT)
++    clusterService("one-web", 1, "web", "one-web")
+   )
+   written(
+     `${CLUSTER_SERVICES_AT}/bare.cluster-service.ts`,
+-    clusterService("bare", 2, "bare", "one/bare/bare.cluster-service.code.attachment.ts")
++    clusterService("bare", 2, "bare", "bare")
++  )
++  written(
++    `${CLUSTER_SERVICES_AT}/orphan.cluster-service.ts`,
++    clusterService("orphan", 3, "orphan", "no-such-manifest")
+   )
++  written(MANIFEST_AT, manifest("one-web", 1))
++  written(BARE_MANIFEST_AT, manifest("bare", 2))
+   written(SYNTH_AT, SYNTH)
+   said(["git", "-C", root, "init", "-q"])
+   said(["git", "-C", root, "add", "-A"])
