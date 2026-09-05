@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/commands/refactor/token-renaming/token-renaming.module.ts b/commands/refactor/token-renaming/token-renaming.module.ts
-index fcfdbf2f8c8b6f83d6422abb3d3c828eb962291b..3d83a0c6fd83cf3d57a47ece3f6834a8008668ff 100644
+index fcfdbf2f8c8b6f83d6422abb3d3c828eb962291b..c1b8fadd6478eb5791a9568718d70fc1cbd0f472 100644
 --- a/commands/refactor/token-renaming/token-renaming.module.ts
 +++ b/commands/refactor/token-renaming/token-renaming.module.ts
 @@ -36,7 +36,7 @@ export const tokenRenaming = {
@@ -12,3 +12,12 @@ index fcfdbf2f8c8b6f83d6422abb3d3c828eb962291b..3d83a0c6fd83cf3d57a47ece3f6834a8
      },
      {
        invariantKind: "departure",
+@@ -194,7 +194,7 @@ export const tokenRenaming = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here lands what this module works out.",
++      statement: "Nothing here lands the bodies this module works out.",
+     },
+   ],
+ } as const satisfies Module
