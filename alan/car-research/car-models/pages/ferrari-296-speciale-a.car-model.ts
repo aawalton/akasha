@@ -9,7 +9,7 @@ export const ferrari296SpecialeA = {
   generation: "F171 (296 family) - Speciale Aperta derivative",
   modelYearsAvailable: "2026",
   overview:
-    "Open-top 'Aperta' variant of the 296 Speciale (the A stands for Aperta, Italian for 'open'). Shares the Speciale's aero bodywork, not the GTS's, with a carbon-fiber-covered retractable hardtop. Same 868 hp combined PHEV output as the 296 Speciale coupe. MY2026-onward. Sources: https://en.wikipedia.org/wiki/Ferrari_296, https://www.encycarpedia.com/us/ferrari/25-296-speciale-aperta-convertible",
+    "Open-top 'Aperta' variant of the 296 Speciale (the A is short for Aperta, Italian for 'open'). Shares the Speciale's aero bodywork, not the GTS's, with a carbon-fiber-covered retractable hardtop. Same 868 hp combined PHEV output as the 296 Speciale coupe. MY2026-onward. Sources: https://en.wikipedia.org/wiki/Ferrari_296, https://www.encycarpedia.com/us/ferrari/25-296-speciale-aperta-convertible",
   powertrainOptions: ["PHEV"],
   segment: "exotic",
   shortList: false,
