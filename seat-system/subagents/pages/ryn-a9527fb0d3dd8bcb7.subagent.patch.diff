@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-companions-core/companion-support-evaluator/companion-support-evaluator.module.ts b/temper/temper-companions-core/companion-support-evaluator/companion-support-evaluator.module.ts
+index 306ef618aefea35a97d60b38c1363ac38d232fa5..d44c0f7dd445ef8703847b90acaf7b0424829067 100644
+--- a/temper/temper-companions-core/companion-support-evaluator/companion-support-evaluator.module.ts
++++ b/temper/temper-companions-core/companion-support-evaluator/companion-support-evaluator.module.ts
+@@ -9,7 +9,7 @@ export const companionSupportEvaluator = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The support damage metric is multiplied by four before it is returned.",
++      statement: "The support damage metric is multiplied by four before that metric is returned.",
+     },
+     {
+       invariantKind: "departure",
