@@ -14,7 +14,7 @@ export const supervisorHandoffEnv = {
     },
     {
       invariantKind: "departure",
-      statement: "A malformed handoff is said before it is ignored.",
+      statement: "A malformed handoff is said before that handoff is ignored.",
     },
     {
       invariantKind: "departure",
