@@ -13,5 +13,6 @@ export const aineResolveFindings = {
   ],
   constraints: [
     "Ablate a finding as soon as you know it is resolved, rather than keeping it for review. Alan never sees a resolved finding.",
+    "End every finding put to Alan with a one-line proposal for what to do about it.",
   ],
 } as const satisfies Initiative
