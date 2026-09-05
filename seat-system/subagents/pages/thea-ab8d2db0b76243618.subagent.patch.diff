@@ -1,5 +1,5 @@
 diff --git a/code-system/code-tests/code-tests.module.code.ts b/code-system/code-tests/code-tests.module.code.ts
-index bf448681c40ce24336f4d0a573545c45e7ed1da3..d8bc227d03cf287dbe99c054013bd090a3e12976 100644
+index bf448681c40ce24336f4d0a573545c45e7ed1da3..b100045bc3a9d2b643748f39529feaffa9fb3991 100644
 --- a/code-system/code-tests/code-tests.module.code.ts
 +++ b/code-system/code-tests/code-tests.module.code.ts
 @@ -60,6 +60,12 @@ const CONFIG = "bunfig.toml"
@@ -27,6 +27,33 @@ index bf448681c40ce24336f4d0a573545c45e7ed1da3..d8bc227d03cf287dbe99c054013bd090
      failed: totalOf(clean, /^\s*(\d+)\s+fail\b/gm),
      passed: totalOf(clean, /^\s*(\d+)\s+pass\b/gm),
    }
+@@ -340,14 +348,24 @@ export function groupedBy(root: string, named: readonly string[]): readonly Grou
+   return groups
+ }
+ 
+-export function ranOver(root: string, named: readonly string[], expected: number): Ran {
++function wholeOf(name: string): string {
++  return `^${name.replace(SPECIAL, "\\$&")}$`
++}
++
++export function ranOver(
++  root: string,
++  named: readonly string[],
++  expected: number,
++  name: string | null = null
++): Ran {
+   const grouped = groupedBy(root, named)
+   const runs = grouped.length === 0 ? [{ preloads: [], named: [...named] }] : grouped
++  const naming = name === null ? [] : [NAMING, wholeOf(name)]
+   let code = 0
+   let output = ""
+   for (const group of runs) {
+     const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
+-    const done = ran([RUNNER, RUNS, ...preloading, ...group.named], {
++    const done = ran([RUNNER, RUNS, ...preloading, ...naming, ...group.named], {
+       cwd: root,
+       env: { ...process.env, [RUNNING]: MARK },
+     })
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
 index 0f78bf6450179b6de2396723a61da27263a15a72..f7bbcac95def49da9206ef8248c9536bd267fb78 100644
 --- a/code-system/code-tests/code-tests.module.ts
@@ -53,7 +80,7 @@ index 0f78bf6450179b6de2396723a61da27263a15a72..f7bbcac95def49da9206ef8248c9536b
      {
        invariantKind: "absence",
 diff --git a/commands/test/test.command.code.ts b/commands/test/test.command.code.ts
-index 427dbdddea2f1be62027e43741876cee9c195b95..25a7516e23e09e3d509dbb0d726d82038e0b21b8 100644
+index 427dbdddea2f1be62027e43741876cee9c195b95..ce6c4f474754c1916d607f0ef5f217a35f624a0f 100644
 --- a/commands/test/test.command.code.ts
 +++ b/commands/test/test.command.code.ts
 @@ -7,12 +7,15 @@ import type { Answer, Given } from "../../command-system/calling/calling.module.
@@ -72,6 +99,42 @@ index 427dbdddea2f1be62027e43741876cee9c195b95..25a7516e23e09e3d509dbb0d726d8203
    readonly refusal: string | null
  }
  
+@@ -22,8 +25,9 @@ type Aimed = {
+ }
+ 
+ function meaning(argv: readonly string[]): Meant {
+-  const refused = (said: string): Meant => ({ paths: [], refusal: said })
++  const refused = (said: string): Meant => ({ paths: [], name: null, refusal: said })
+   const paths: string[] = []
++  let name: string | null = null
+   for (let at = 0; at < argv.length; at += 1) {
+     const one = argv[at] ?? ""
+     if (one === FILE_PATH) {
+@@ -33,9 +37,22 @@ function meaning(argv: readonly string[]): Meant {
+       at += 1
+       continue
+     }
+-    return refused(`\`${one}\` is not an argument this takes — it takes \`${FILE_PATH} <path>\``)
++    if (one === NAMED) {
++      const value = argv[at + 1]
++      if (value === undefined) return refused(`${NAMED} names a test, and nothing followed it`)
++      if (name !== null) {
++        return refused(`${NAMED} names one test, and it was given more than once`)
++      }
++      name = value
++      at += 1
++      continue
++    }
++    return refused(
++      `\`${one}\` is not an argument this takes — it takes \`${FILE_PATH} <path>\` and ` +
++        `\`${NAMED} <text>\``
++    )
+   }
+-  return { paths, refusal: null }
++  return { paths, name, refusal: null }
+ }
+ 
+ export function aiming(paths: readonly string[], given: Given): Aimed {
 diff --git a/commands/test/test.command.test.ts b/commands/test/test.command.test.ts
 index 45b4ecabb0f594da3f70162a577fb29dbaf85d29..776d7ab63b7371cdf00fe78ca862bcdb9f73c500 100644
 --- a/commands/test/test.command.test.ts
