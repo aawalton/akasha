@@ -7,6 +7,7 @@ export const codeSystem = {
   definition: "how we write what runs",
   manifest: "json",
   partSlugs: [
+    "page-type/component",
     "page-type/module",
     "page-type/container-recipe",
     "page-type/python-module",
