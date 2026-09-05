@@ -127,7 +127,6 @@ export const sentenceShape = {
         "Consistently means ten cases akasha holds, or all of them where akasha holds fewer.",
         "A rewrite losing a fact has not beaten the shape.",
         "A rewrite the grammar refuses has not beaten the shape.",
-        "Repeating a noun is not a cost.",
       ],
     },
   ],

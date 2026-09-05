@@ -183,6 +183,19 @@ export const akasha = {
       ],
     },
     {
+      directiveKind: "principle",
+      name: "Cheap To Read",
+      act: "Take every chance to make a sentence cheaper to read, where no truth and no clarity is lost.",
+      warrant:
+        "An agent holds one budget for a turn, and what the agent spends reading is gone from the work.",
+      aids: [
+        "Naming a thing costs less than pointing at the thing.",
+        "Repeating a noun is free.",
+        "A narrower claim is better where the claim is truer.",
+        "Shorter is not always cheaper.",
+      ],
+    },
+    {
       directiveKind: "rule",
       name: "Currency",
       act: "State what is true now, and leave how it became true to git.",
