@@ -36,23 +36,6 @@ index 0000000000000000000000000000000000000000..9149198d217824bb0ea37ddff6ea3e15
 +    { name: "promtail-daemonset", yaml: promtailDaemonsetYaml() },
 +  ]
 +}
-diff --git a/seat-system/subagents/pages/aranya-aa36b4b997951b1f3.subagent.patch.diff b/seat-system/subagents/pages/aranya-aa36b4b997951b1f3.subagent.patch.diff
-index 6432f5a0a72554294989a0ca78d028e1161d75a5..7be6a4bc289f84520b3b4ee11cfae95cc5f1636e 100644
---- a/seat-system/subagents/pages/aranya-aa36b4b997951b1f3.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-aa36b4b997951b1f3.subagent.patch.diff
-@@ -57,8 +57,12 @@ index 66f9754eb3a5f778bf0ff3b2cc8a77e175835572..b4c38dc90e3edebb0cfedf44b7760927
-    image: "grafana/promtail:3.1.0",
-    containerPort: 3101,
- -  manifestCode:
-+<<<<<<< what this change would leave
-+-    "infrastructure/loki-service/promtail/promtail.manifest.code.ts",
-+=======
- -    "infrastructure/loki-service/promtail/promtail.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "promtail",
- +=======
- +  manifestCode: "infrastructure/loki-service/promtail/promtail.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/promtail.cluster-service.ts b/service-system/cluster-services/pages/promtail.cluster-service.ts
 index 66f9754eb3a5f778bf0ff3b2cc8a77e175835572..74addaf7760e8d1538cf86ab97996c878997ee6d 100644
 --- a/service-system/cluster-services/pages/promtail.cluster-service.ts
