@@ -13,7 +13,8 @@ export const companionSkills05 = {
     },
     {
       invariantKind: "departure",
-      statement: "These bytes are the last good build rather than what the generator emits today.",
+      statement:
+        "These bytes are the last good build rather than the build the generator emits today.",
     },
     {
       invariantKind: "gap",
