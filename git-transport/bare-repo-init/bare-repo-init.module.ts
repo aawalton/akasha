@@ -34,7 +34,7 @@ export const bareRepoInit = {
     },
     {
       invariantKind: "departure",
-      statement: "A hook is a stub this writes, running the script the source cache holds.",
+      statement: "A hook is a stub this module writes, running the script the source cache holds.",
     },
     {
       invariantKind: "departure",

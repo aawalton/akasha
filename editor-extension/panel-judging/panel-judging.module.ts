@@ -82,7 +82,7 @@ export const panelJudging = {
     },
     {
       invariantKind: "departure",
-      statement: "A surface may be genuinely empty, and that is the answer to report.",
+      statement: "A surface may be genuinely empty, and emptiness is the answer to report.",
     },
     {
       invariantKind: "departure",

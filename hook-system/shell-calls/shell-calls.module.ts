@@ -78,7 +78,7 @@ export const shellCalls = {
     },
     {
       invariantKind: "constraint",
-      statement: "This reads a shell command line without being a shell.",
+      statement: "This module reads a shell command line without being a shell.",
     },
     {
       invariantKind: "constraint",
@@ -90,7 +90,7 @@ export const shellCalls = {
     },
     {
       invariantKind: "gap",
-      statement: "A prefix this does not name hides the call behind it from every hook.",
+      statement: "A prefix this module does not name hides the call behind it from every hook.",
     },
   ],
 } as const satisfies Module

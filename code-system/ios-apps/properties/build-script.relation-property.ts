@@ -13,7 +13,7 @@ export const buildScript = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An app stating none of this is not built by any command.",
+      statement: "An app stating no build script is not built by any command.",
     },
     {
       invariantKind: "departure",

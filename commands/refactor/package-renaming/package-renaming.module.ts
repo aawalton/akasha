@@ -119,7 +119,7 @@ export const packageRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A link this made is taken back where the rename does not land.",
+      statement: "A link this module made is taken back where the rename does not land.",
     },
     {
       invariantKind: "departure",

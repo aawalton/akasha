@@ -69,7 +69,8 @@ export const contextWarrant = {
     },
     {
       invariantKind: "departure",
-      statement: "This is how a warrant states its rule before it binds anyone.",
+      statement:
+        "Landing with neither reach on is how a warrant states its rule before it binds anyone.",
     },
     {
       invariantKind: "departure",

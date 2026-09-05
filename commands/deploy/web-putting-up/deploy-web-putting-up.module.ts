@@ -18,7 +18,7 @@ export const deployWebPuttingUp = {
     },
     {
       invariantKind: "departure",
-      statement: "A web app is built from its source before that web app is put up.",
+      statement: "A web app is built from its source before the web app is put up.",
     },
     {
       invariantKind: "departure",

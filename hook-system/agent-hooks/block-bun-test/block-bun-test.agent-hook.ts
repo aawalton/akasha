@@ -20,7 +20,8 @@ export const blockBunTest = {
     },
     {
       invariantKind: "departure",
-      statement: "A prefix that only runs the call behind it does not hide a `bun test` from this.",
+      statement:
+        "A prefix that only runs the call behind it does not hide a `bun test` from this hook.",
     },
     {
       invariantKind: "absence",

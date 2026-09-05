@@ -53,7 +53,8 @@ export const typescript7 = {
     },
     {
       invariantKind: "gap",
-      statement: "This is beside `typecheck` while the two are compared rather than in its place.",
+      statement:
+        "This check is beside `typecheck` while the two are compared rather than in its place.",
     },
   ],
 } as const satisfies CodeCheck
