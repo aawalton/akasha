@@ -1,5 +1,5 @@
 diff --git a/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.code.ts b/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.code.ts
-index 6c5735177fd8d99fa56d3c92d60ac21141225d9b..cc21c6cd4c8d2cd60308613ef4297aa4f009af37 100644
+index 6c5735177fd8d99fa56d3c92d60ac21141225d9b..c38ca31afdfdfafdcda4f0a6a4431a781877cbae 100644
 --- a/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.code.ts
 +++ b/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.code.ts
 @@ -43,7 +43,7 @@ function readingsUnder(root: string): readonly AccountReading[] {
@@ -11,11 +11,20 @@ index 6c5735177fd8d99fa56d3c92d60ac21141225d9b..cc21c6cd4c8d2cd60308613ef4297aa4
          "each one, so none to read is a failure to look rather than a fleet in good health"
      )
    }
+@@ -59,7 +59,7 @@ function buildReading(stall: UpkeepStall, observedAtMs: number): StallReading {
+     return {
+       subject: "claude-account-upkeep",
+       state: "no-population",
+-      reason: "no claude-account page stands, so nothing could be ruled on",
++      reason: "no claude-account page exists, so nothing could be ruled on",
+       observedAtMs,
+       coverage,
+       evidence: stall,
 diff --git a/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts b/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
-index d399ce423f1ec86aa16e50312616bfe1137a9fe5..2ee0fb613d3532419e3894f7867b6b8818a60413 100644
+index d399ce423f1ec86aa16e50312616bfe1137a9fe5..03123070d55afee5419331bd2fe50d2de07c1456 100644
 --- a/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
 +++ b/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
-@@ -44,7 +44,7 @@ export const accountUpkeepStallReading = {
+@@ -44,12 +44,12 @@ export const accountUpkeepStallReading = {
      {
        invariantKind: "departure",
        statement:
@@ -24,8 +33,14 @@ index d399ce423f1ec86aa16e50312616bfe1137a9fe5..2ee0fb613d3532419e3894f7867b6b88
      },
      {
        invariantKind: "departure",
+       statement:
+-        "The population is the claude-account pages that stand, and it is stated on every run.",
++        "The population is the claude-account pages there are, and it is stated on every run.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.code.ts b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.code.ts
-index d3706856eca0c20da24910c40b84c22c2a61ab35..e8141712c362beb464ec09aa2943f6fb32ec8ece 100644
+index d3706856eca0c20da24910c40b84c22c2a61ab35..cd880e38c3d160131cee1cfc7a1d32e6893aabe5 100644
 --- a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.code.ts
 +++ b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.code.ts
 @@ -9,7 +9,7 @@ export const ACCESS_TOKEN_EXPIRES_AT = "accessTokenExpiresAt"
@@ -37,8 +52,17 @@ index d3706856eca0c20da24910c40b84c22c2a61ab35..e8141712c362beb464ec09aa2943f6fb
  
  const MS_AN_HOUR = 60 * 60 * 1000
  
+@@ -71,7 +71,7 @@ function stampAt(beside: Value, key: string): Stamp {
+   const raw = beside[key]
+   if (raw === undefined || raw === null) return { absent: true }
+   if (typeof raw !== "string") {
+-    return { why: `${key} stands beside as ${typeof raw}, not a timestamp` }
++    return { why: `${key} sits beside as ${typeof raw}, not a timestamp` }
+   }
+   const at = Date.parse(raw)
+   if (Number.isNaN(at)) {
 diff --git a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.test.ts b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.test.ts
-index 5b277c1f758830c670aeef878b8bf20ad7aec6c2..066e250b4b84bede59138049ffc57fc1626efc71 100644
+index 5b277c1f758830c670aeef878b8bf20ad7aec6c2..ce6df96728481f32648a45388aec84690bcc0ac5 100644
 --- a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.test.ts
 +++ b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.test.ts
 @@ -116,7 +116,7 @@ describe("judgeAccount", () => {
@@ -50,8 +74,21 @@ index 5b277c1f758830c670aeef878b8bf20ad7aec6c2..066e250b4b84bede59138049ffc57fc1
      const one = judgeAccount(reading({ accessTokenExpiresAt: null, usageReadAt: null }), NOW)
      expect(one.verdict).toBe("never-reached")
    })
+@@ -133,10 +133,10 @@ describe("judgeAccount", () => {
+     expect(one.detail).toBe("nothing was held to look at")
+   })
+ 
+-  test("a stamp standing beside as anything but a string is unread", () => {
++  test("a stamp sitting beside as anything but a string is unread", () => {
+     const one = judgeAccount(reading({ accessTokenExpiresAt: 1234, usageReadAt: at(0) }), NOW)
+     expect(one.verdict).toBe("unread")
+-    expect(one.detail).toBe("accessTokenExpiresAt stands beside as number, not a timestamp")
++    expect(one.detail).toBe("accessTokenExpiresAt sits beside as number, not a timestamp")
+   })
+ 
+   test("a stamp standing beside as a string no date parser reads is unread", () => {
 diff --git a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
-index 06373812984c0912d03100d6c23acd47571f0954..26f2bb92d972382e0c83f1f5bad759c94d0e8c03 100644
+index 06373812984c0912d03100d6c23acd47571f0954..a8092d975bb70e5e279d799ec6ff4dcfc4b2d9c8 100644
 --- a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
 +++ b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
 @@ -25,7 +25,7 @@ export const claudeAccountUpkeepStall = {
@@ -60,6 +97,15 @@ index 06373812984c0912d03100d6c23acd47571f0954..26f2bb92d972382e0c83f1f5bad759c9
        invariantKind: "departure",
 -      statement: "The worst standing fault is the verdict answered.",
 +      statement: "The worst fault found is the verdict answered.",
+     },
+     {
+       invariantKind: "departure",
+@@ -38,7 +38,7 @@ export const claudeAccountUpkeepStall = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A stamp standing beside a page as anything but a timestamp reads as unread.",
++      statement: "A stamp sitting beside a page as anything but a timestamp reads as unread.",
      },
      {
        invariantKind: "departure",
