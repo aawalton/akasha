@@ -76,7 +76,7 @@ export const agentTurnColors = {
     },
     {
       invariantKind: "departure",
-      statement: "A run keeps beside each seat what its transcript was read to say.",
+      statement: "A run keeps beside each seat the reading of that seat's transcript.",
     },
   ],
 } as const satisfies Command
