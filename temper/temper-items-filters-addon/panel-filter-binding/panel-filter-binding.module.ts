@@ -10,7 +10,7 @@ export const panelFilterBinding = {
     {
       invariantKind: "departure",
       statement:
-        "The wrapper keeps the inventory's own filter and narrows what that filter passed.",
+        "The wrapper keeps the inventory's own filter and narrows the rows that filter passed.",
     },
     {
       invariantKind: "departure",
