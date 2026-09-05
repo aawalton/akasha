@@ -77,30 +77,3 @@ index 1ebe01eed793f6a9c6fd91baa191d159e918412d..f9f39cd89015059032098536af9be03f
      const result = rowToMinedItemData(
        makeRow({
          setBonuses: [
-diff --git a/temper/temper-web/routes/api.watcher.upsert-mined-items.tsx b/temper/temper-web/routes/api.watcher.upsert-mined-items.tsx
-index 7f017555d8ee06d4e36db73c54f37d5253a2f2c1..2bb65af2e43463cf9a2340c1237d349d6467d70d 100644
---- a/temper/temper-web/routes/api.watcher.upsert-mined-items.tsx
-+++ b/temper/temper-web/routes/api.watcher.upsert-mined-items.tsx
-@@ -89,7 +89,7 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
-   }
- 
-   // A MINED ITEM LANDED AS A ROW, AND NOTHING LANDS A ROW. `patchRows` has refused every call
--  // since 4c1f05a264: a row stands inside a page's body rather than at a path of its own, and the
-+  // since 4c1f05a264: a row is inside a page's body rather than at a path of its own, and the
-   // store addresses paths and whole bodies. The watcher on Alan's machine has been posting
-   // batches of up to a thousand items here and being told 502 ever since, and has kept retrying
-   // because 502 reads as a bad gateway rather than as a road that is gone.
-@@ -98,11 +98,11 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
-   // mine again means composing the page's whole body and writing it with `writeFiles` or
-   // `patchFiles`, or going through the akasha command line.
-   console.error(
--    `upsert-mined-items: ${items.length} item(s) were not kept in \`${MINED_ITEM_PAGE_TYPE}/${MINE_NAME}\` — a row stands inside a page's body, and ${WRITER} has no way to reach one`
-+    `upsert-mined-items: ${items.length} item(s) were not kept in \`${MINED_ITEM_PAGE_TYPE}/${MINE_NAME}\` — a row is inside a page's body, and ${WRITER} has no way to reach one`
-   )
-   return Response.json(
-     {
--      error: `a row stands inside a page's body rather than at a path of its own, and the store writes a path and a whole body, so none of these ${items.length} item(s) was kept. land the mine's body with \`writeFiles\` or \`patchFiles\`, or through the akasha command line`,
-+      error: `a row is inside a page's body rather than at a path of its own, and the store writes a path and a whole body, so none of these ${items.length} item(s) was kept. land the mine's body with \`writeFiles\` or \`patchFiles\`, or through the akasha command line`,
-       upserted: 0,
-     },
-     { status: 503 }
