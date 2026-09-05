@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.test.ts b/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.test.ts
-index d6298682ed396fc95f4f3dfb401ee59c29378ab6..58dfc84585eafeb0c140d84275f17907b18aa4ba 100644
+index d6298682ed396fc95f4f3dfb401ee59c29378ab6..c01f813d0bf5beb061b34e61f0d71c3267060e27 100644
 --- a/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.test.ts
 +++ b/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.test.ts
 @@ -10,7 +10,7 @@ test("a file carrying no comment is let through", () => {
@@ -38,6 +38,15 @@ index d6298682ed396fc95f4f3dfb401ee59c29378ab6..58dfc84585eafeb0c140d84275f17907
    const body =
      "/*\n * @deprecated use the other one\n * and this line is prose\n */\nexport const one = 1\n"
    expect(reasonsIn(given(body))).toHaveLength(1)
+@@ -121,7 +121,7 @@ test("a stylesheet carrying no comment is let through", () => {
+   expect(reasonsIn(dressed(".held {\n  color: red;\n}\n"))).toEqual([])
+ })
+ 
+-test("prose in a stylesheet is refused, and names the line it stands on", () => {
++test("prose in a stylesheet is refused, and names the line it sits on", () => {
+   const body = [".held {", "  /* this holds the color */", "  color: red;", "}"].join("\n")
+   const said = reasonsIn(dressed(`${body}\n`))
+   expect(said).toHaveLength(1)
 diff --git a/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.ts b/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.ts
 index ebdb72d8f2b64b46f938ac875b936768fed82311..0910f59009cd4a3e9ef3dbaf7e71f255d1109862 100644
 --- a/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.ts
