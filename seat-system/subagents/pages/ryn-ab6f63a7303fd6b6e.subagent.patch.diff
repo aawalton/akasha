@@ -14,3 +14,19 @@ index 796b3068a1287e157731380e746a16b0cf515f7e..a7d6387750d124e93d74d1479cc354a4
  
      {
        invariantKind: "departure",
+diff --git a/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts b/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
+index 17829566e32e79dbd8b7d899b30fada56fb7609c..7dffa4c71d9b392b28f96e7f64f3ebbde1d0e13f 100644
+--- a/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
++++ b/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
+@@ -20,11 +20,6 @@ export const renamePropertySignature = {
+       invariantKind: "departure",
+       statement: "A type written as an intersection declares the members of each part it spells.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "Which files name the declaring file is asked of the index rather than walked for.",
+-    },
+ 
+     {
+       invariantKind: "departure",
