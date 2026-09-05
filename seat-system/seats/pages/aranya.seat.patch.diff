@@ -439,6 +439,14 @@ index d658c1418c010c81a3168f0dbd1491bca358baae..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../reminder-system
 \ No newline at end of file
+diff --git a/rule-population/rule-population b/rule-population/rule-population
+deleted file mode 120000
+index 000a27b1cb8a36fa12066fe8201980cf635006ef..0000000000000000000000000000000000000000
+--- a/rule-population/rule-population
++++ /dev/null
+@@ -1 +0,0 @@
+-../../rule-population
+\ No newline at end of file
 diff --git a/utils-fs/utils-fs b/utils-fs/utils-fs
 deleted file mode 120000
 index 8a4350bb29c2cb7e9846cf1a8d7d0cf52c94bd83..0000000000000000000000000000000000000000
