@@ -1,5 +1,5 @@
 diff --git a/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts b/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts
-index 27098e34c65334da5ea1ecfd36cc754e28bf8203..94932244eb5cf1cccb3f63c4d870bc744847ffc9 100644
+index 27098e34c65334da5ea1ecfd36cc754e28bf8203..3f2bc37ed4dfca20ffe8dfe52bd028b22a59437a 100644
 --- a/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts
 +++ b/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts
 @@ -9,14 +9,14 @@ const VERSION = 3
@@ -29,6 +29,22 @@ index 27098e34c65334da5ea1ecfd36cc754e28bf8203..94932244eb5cf1cccb3f63c4d870bc74
  // when it was worked out and not whether anybody still wants it. The two run opposite: the answer
  // every read hits is the one that goes longest without being rewritten, so an age read off the
  // write is at its oldest exactly where the cache is working. Marking it used on the way out is
+@@ -66,13 +66,13 @@ function usedAt(path: string): void {
+   }
+ }
+ 
+-interface Standing {
++interface Entry {
+   readonly at: string
+   readonly bytes: number
+   readonly used: number
+ }
+ 
+-function standingAt(dir: string, name: string): Standing | null {
++function entryAt(dir: string, name: string): Entry | null {
+   try {
+     const one = statSync(`${dir}/${name}`)
+     return one.isFile() ? { at: `${dir}/${name}`, bytes: one.size, used: one.mtimeMs } : null
 diff --git a/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts b/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts
 index 2b5d07636ad8c570b1a3472b9f4bad270bc6f80e..469fc9cea8438c4011921b0b744ae3731fc2d7f8 100644
 --- a/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts
@@ -56,7 +72,7 @@ index 2b5d07636ad8c570b1a3472b9f4bad270bc6f80e..469fc9cea8438c4011921b0b744ae373
    return { bySlug, fault }
  }
 diff --git a/markdown-pages/markdown-property-frontmatter/markdown-property-frontmatter.module.code.ts b/markdown-pages/markdown-property-frontmatter/markdown-property-frontmatter.module.code.ts
-index d3015c2fa566372a11b885c6cec5ecf5a224eaf2..d838ff077c0d4c8c6fae48faa94e956005488589 100644
+index d3015c2fa566372a11b885c6cec5ecf5a224eaf2..ddc647b5a573bc12e3d9b99537f34c180c99e9d3 100644
 --- a/markdown-pages/markdown-property-frontmatter/markdown-property-frontmatter.module.code.ts
 +++ b/markdown-pages/markdown-property-frontmatter/markdown-property-frontmatter.module.code.ts
 @@ -85,8 +85,8 @@ const fromData = (one: VocabularyData): Vocabulary => ({
@@ -91,6 +107,17 @@ index d3015c2fa566372a11b885c6cec5ecf5a224eaf2..d838ff077c0d4c8c6fae48faa94e9560
 +  if (held !== undefined) return held
    const made: Ground = { tree, rules: new Map(), held: new Map() }
    grounds.set(tree, made)
+   return made
+@@ -205,8 +205,8 @@ function groundOf(tree: FileTree): Ground {
+ 
+ function armOnce(property: Property, stated: string, ground: Ground): Armed {
+   const at = property.at + " " + stated
+-  const standing = ground.rules.get(at)
+-  if (standing !== undefined) return standing
++  const held = ground.rules.get(at)
++  if (held !== undefined) return held
+   const made = armFor(property, stated, vocabularyFor(ground.tree))
+   ground.rules.set(at, made)
    return made
 diff --git a/markdown-pages/markdown-property-judge/markdown-property-judge.module.code.ts b/markdown-pages/markdown-property-judge/markdown-property-judge.module.code.ts
 index e3bd64d3175b722b9e7dec401322c27c5220e59f..4f4ef97590b446c7bb61e2cf240d1add5ecb0ab9 100644
