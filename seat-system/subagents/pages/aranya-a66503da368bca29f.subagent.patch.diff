@@ -1,0 +1,15 @@
+diff --git a/audhdalan/audhdalan-web/manifests/audhdalan-web-manifests.manifest.ts b/audhdalan/audhdalan-web/manifests/audhdalan-web-manifests.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a640e56a3e991f658160f56172554e66b4d7516d
+--- /dev/null
++++ b/audhdalan/audhdalan-web/manifests/audhdalan-web-manifests.manifest.ts
+@@ -0,0 +1,9 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const audhdalanWebManifests = {
++  id: "01a07388-768e-7f43-89ee-b66e2a21d046",
++  pageTypeSlug: "manifest",
++  slug: "audhdalan-web-manifests",
++  definition: "the deployment and service serving the site Alan's neurodiversity writing is on",
++  code: "ts",
++} as const satisfies Manifest
