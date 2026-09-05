@@ -15,7 +15,7 @@ export const gatedLanding = {
     {
       invariantKind: "departure",
       statement:
-        "A body of null takes a path away, so one landing carries both what is written and what goes.",
+        "A body of null takes a path away, so one landing carries both the bodies written and the removals.",
     },
     {
       invariantKind: "departure",
