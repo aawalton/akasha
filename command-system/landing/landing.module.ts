@@ -266,7 +266,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A draft says whether the change drafted into the patch was mechanical.",
+      statement: "A draft says what the change drafted into the patch runs.",
     },
     {
       invariantKind: "departure",

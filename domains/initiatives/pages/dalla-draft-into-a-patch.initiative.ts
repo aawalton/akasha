@@ -15,7 +15,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "Every change command drafts into the patch rather than landing on its own.",
       workingMemory:
-        "Built. `landedMechanically` drafts where the caller names an agent id and lands where it names none, so the fifteen programs are untouched. A patch says it is mechanical in a line before the first `diff --git`; git reads past a preamble, and `blobsIn` answers only to diff headers. No line means authored, so a stripped line reads the safe way. An authored draft, a resolve, or a patch taken in from an authored one flips it. `applied()` takes carries and hands them to the landing now, so routing the three no longer drops their beside-file renames silently. Left: the routing itself, which Alan times, because it changes what an agent typing one of the three gets back. A draft expresses no removal of a path HEAD carries no body for, so `write --remove` answers success and leaves it; the carry a patch holds is the shape that fits, and Alan settles it.",
+        "A patch carries `runsChecks` and `runsWarrants` before the first `diff --git`, each unioned over every change drafted in, and a flag is written only where false, so a line lost reads as true. Thea moved move, remove, refactor and replace onto `change-checked`; those four draft where the caller names an agent id and land where it names none. Left: a draft expresses no removal of a path HEAD carries no body for, so `write --remove` answers success and leaves the file.",
     },
     {
       statement: "A seat and its subagents draft against one worktree of their own.",
@@ -31,7 +31,7 @@ export const dallaDraftIntoAPatch = {
     "A patch is a file committed beside its agent's page rather than a page.",
     "A patch and its conflicts are stored in the formats git already reads.",
     "A draft is an authored change.",
-    "A patch is mechanical until an authored change or a resolve flips it.",
+    "A patch runs the checks and the warrants that any change drafted into it runs.",
     "A patch applies only where the caller asked for an apply.",
     "A subagent drafts by default rather than applying.",
     "Alan settles each block's shape before it lands.",

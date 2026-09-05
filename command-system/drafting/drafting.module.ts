@@ -218,40 +218,39 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "A patch carries whether every change drafted into that patch was mechanical.",
+      statement: "A patch carries whether its changes run checks and whether they run warrants.",
     },
     {
       invariantKind: "departure",
-      statement: "A patch a mechanical change opens is mechanical.",
+      statement: "A patch runs what any change drafted into it runs.",
     },
     {
       invariantKind: "departure",
-      statement: "An authored change drafted into a patch leaves that patch no longer mechanical.",
+      statement: "Checks and warrants are unioned each on its own.",
     },
     {
       invariantKind: "departure",
-      statement: "A body resolved leaves the patch no longer mechanical.",
+      statement: "A change drafted takes away nothing an earlier change made the patch run.",
     },
     {
       invariantKind: "departure",
-      statement: "A path taken out leaves a mechanical patch mechanical.",
+      statement: "A resolve runs checks and warrants.",
     },
     {
       invariantKind: "departure",
-      statement: "A patch no longer mechanical is mechanical again for no later change.",
+      statement: "A path taken out leaves the patch running what it ran.",
     },
     {
       invariantKind: "departure",
-      statement: "Whether a patch is mechanical is one line before the first diff header.",
+      statement: "A patch taken in runs what it ran and what the patch coming in ran.",
     },
     {
       invariantKind: "departure",
-      statement: "A patch that is not mechanical carries no line before the first diff header.",
+      statement: "A flag that is false is one line before the first diff header naming that flag.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A patch taken in from another agent is mechanical only where that agent's patch was mechanical.",
+      statement: "A flag no line names is true.",
     },
   ],
 } as const satisfies Module
