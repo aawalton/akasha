@@ -9,12 +9,12 @@ export const absence = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Knowing an absence stops a reader adding what is left out.",
+      statement: "Knowing an absence stops a reader adding the thing left out.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An absence belongs where what is left out is near enough to what is kept to be reached by mistake.",
+        "An absence belongs where the thing left out is near enough to the thing kept to be reached in error.",
     },
   ],
 } as const satisfies InvariantKind
