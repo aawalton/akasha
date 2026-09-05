@@ -17,7 +17,7 @@ export const sessionRows = {
     },
     {
       invariantKind: "departure",
-      statement: "A stretch is addressed by one of the four ways a caller names it.",
+      statement: "A stretch is addressed by one of the four ways a caller names that stretch.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +29,7 @@ export const sessionRows = {
     },
     {
       invariantKind: "departure",
-      statement: "A level reading answers with the levels or with what refused them.",
+      statement: "A level reading answers with the levels or with what refused those levels.",
     },
     {
       invariantKind: "departure",
@@ -41,11 +41,12 @@ export const sessionRows = {
     },
     {
       invariantKind: "departure",
-      statement: "A relationship reading answers with the ids or with what refused them.",
+      statement: "A relationship reading answers with the ids or with what refused those ids.",
     },
     {
       invariantKind: "departure",
-      statement: "A title carrying an alias of a relationship tags the stretch with it.",
+      statement:
+        "A title carrying an alias of a relationship tags the stretch with that relationship.",
     },
     {
       invariantKind: "departure",
