@@ -11,7 +11,8 @@ export const declaredProperties = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The properties a page type carries are its own and those of every type above it.",
+      statement:
+        "The properties a page type carries are its own and those of every type above that page type.",
     },
     {
       invariantKind: "departure",
