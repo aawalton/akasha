@@ -26,7 +26,7 @@ export const readoutReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading replaces the one before it.",
+      statement: "A reading replaces the one before that reading.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const readoutReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A readout with nothing beside it has taken no reading.",
+      statement: "A readout with nothing beside that readout has taken no reading.",
     },
     {
       invariantKind: "departure",
