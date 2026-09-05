@@ -92,7 +92,7 @@ export function carriedFrom(value: Value, source: Source, declaredBy: string): r
       pageTypeSlug,
       propertySlug,
       key: exportedAs(propertySlug),
-      unique: schema.unique,
+      unique: slugAt(one, "unique") ?? schema.unique,
       declaredBy,
       required: one["required"] === true,
       many: one["many"] === true,

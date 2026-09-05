@@ -45,6 +45,10 @@ export const declaredProperties = {
     },
     {
       invariantKind: "departure",
+      statement: "A declaration stating a reach carries that reach rather than its property's.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A page type that cannot be read is refused by name rather than answered as declaring nothing.",
     },

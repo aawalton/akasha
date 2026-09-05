@@ -18,6 +18,10 @@ const SLUG = "slug"
 
 const ID = "id"
 
+const REACHES: readonly string[] = ["part-of", "page-type", "always"]
+
+const NO_REACH = "none"
+
 export type Held = {
   readonly slug: string
   readonly kind: string
@@ -80,6 +84,15 @@ function looseningAt(key: string, nearer: Declared, further: Declared, how: stri
   )
 }
 
+function reachIn(one: Declared): string {
+  return one.unique ?? NO_REACH
+}
+
+function widthOf(one: Declared): number {
+  const at = one.unique === null ? -1 : REACHES.indexOf(one.unique)
+  return at === -1 ? REACHES.length : at
+}
+
 export function looseningIn(nearer: Declared, further: Declared): string | null {
   if (further.required && !nearer.required) return "`required` falls from `true` to `false`"
   if (nearer.many !== further.many) {
@@ -87,6 +100,9 @@ export function looseningIn(nearer: Declared, further: Declared): string | null 
   }
   if (further.max !== null && (nearer.max === null || nearer.max > further.max)) {
     return `\`max\` rises from \`${further.max}\` to \`${nearer.max === null ? "none" : nearer.max}\``
+  }
+  if (widthOf(nearer) > widthOf(further)) {
+    return `\`unique\` widens from \`${reachIn(further)}\` to \`${reachIn(nearer)}\``
   }
   return null
 }

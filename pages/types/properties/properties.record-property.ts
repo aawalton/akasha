@@ -2,6 +2,7 @@ import type { RecordProperty } from "../../record-properties/record-property.pag
 import type { List } from "../page-properties/page-property.page-type.ts"
 import type { Max } from "../page-properties/properties/max.number-property.ts"
 import type { Total } from "../page-properties/properties/total.number-property.ts"
+import type { Unique } from "../page-properties/properties/unique.relation-property.ts"
 import type { DefaultValue } from "./default-value.text-property.ts"
 import type { PagePropertySlug } from "./page-property-slug.relation-property.ts"
 import type { Required } from "./required.boolean-property.ts"
@@ -16,6 +17,7 @@ export type Declaration =
       default?: DefaultValue
       uncommitted?: Uncommitted
       secret?: Secret
+      unique?: Unique
     }
   | {
       pagePropertySlug: PagePropertySlug
@@ -25,6 +27,7 @@ export type Declaration =
       total?: Total | null
       uncommitted?: Uncommitted
       secret?: Secret
+      unique?: Unique
     }
 
 export type Properties = List<Declaration>
@@ -44,6 +47,7 @@ export const properties = {
     { pagePropertySlug: "total", required: false, many: false },
     { pagePropertySlug: "uncommitted", required: false, many: false },
     { pagePropertySlug: "secret", required: false, many: false },
+    { pagePropertySlug: "unique", required: false, many: false },
   ],
   invariants: [
     {
@@ -61,6 +65,14 @@ export const properties = {
     {
       invariantKind: "departure",
       statement: "A max only falls.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reach only narrows.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A declaration stating no reach takes the reach its property states.",
     },
     {
       invariantKind: "departure",
