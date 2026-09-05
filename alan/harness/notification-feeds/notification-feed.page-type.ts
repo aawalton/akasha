@@ -35,11 +35,11 @@ export const notificationFeed = {
     },
     {
       invariantKind: "departure",
-      statement: "One person has one feed, whatever pushed at them.",
+      statement: "One person has one feed, whatever pushed at that person.",
     },
     {
       invariantKind: "departure",
-      statement: "A feed's slug is the slug of the person whose feed it is.",
+      statement: "A feed's slug is the slug of the person whose feed that feed is.",
     },
     {
       invariantKind: "gap",
