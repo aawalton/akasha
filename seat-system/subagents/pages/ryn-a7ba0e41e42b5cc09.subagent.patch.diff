@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-watcher/watcher-net-worth-landing/watcher-net-worth-landing.module.ts b/temper/temper-watcher/watcher-net-worth-landing/watcher-net-worth-landing.module.ts
+index 46cf6851a2289924842adb53498d1a23b1652968..bbb36eb93500fd5be7e412997d49aace3937e7c6 100644
+--- a/temper/temper-watcher/watcher-net-worth-landing/watcher-net-worth-landing.module.ts
++++ b/temper/temper-watcher/watcher-net-worth-landing/watcher-net-worth-landing.module.ts
+@@ -47,7 +47,7 @@ export const watcherNetWorthLanding = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What a reading broke its total into is written only where that reading broke one out.",
++        "The parts a reading broke its total into are written only where that reading broke one out.",
+     },
+     {
+       invariantKind: "departure",
