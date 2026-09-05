@@ -15,7 +15,7 @@ export const inferencePlan = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The counts are what an apply would do.",
+      statement: "The counts are the work an apply would do.",
     },
     {
       invariantKind: "departure",
