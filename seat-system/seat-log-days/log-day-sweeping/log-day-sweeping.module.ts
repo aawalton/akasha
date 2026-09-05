@@ -18,7 +18,7 @@ export const logDaySweeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A page whose date cannot be read from its text is left as it is.",
+      statement: "A page whose date cannot be read from its text is left as that page is.",
     },
     {
       invariantKind: "departure",
