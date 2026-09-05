@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/temper/temper-items-rules-routing/inventory-management-plan-chain/inventory-management-plan-chain.module.ts b/temper/temper-items-rules-routing/inventory-management-plan-chain/inventory-management-plan-chain.module.ts
-index 9a117131036a123c759986c751008c60d5cae5fd..9ef760b5485033992654c6cc9d6885cc08e5e5a4 100644
+index 9a117131036a123c759986c751008c60d5cae5fd..17d0c974d4a760962d732541e72f5775cf14a171 100644
 --- a/temper/temper-items-rules-routing/inventory-management-plan-chain/inventory-management-plan-chain.module.ts
 +++ b/temper/temper-items-rules-routing/inventory-management-plan-chain/inventory-management-plan-chain.module.ts
-@@ -13,7 +13,7 @@ export const inventoryManagementPlanChain = {
+@@ -13,11 +13,11 @@ export const inventoryManagementPlanChain = {
      },
      {
        invariantKind: "departure",
@@ -12,3 +12,8 @@ index 9a117131036a123c759986c751008c60d5cae5fd..9ef760b5485033992654c6cc9d6885cc
      },
      {
        invariantKind: "departure",
+-      statement: "What the last tier leaves over is threaded on to the next rule.",
++      statement: "The items the last tier leaves over are threaded on to the next rule.",
+     },
+   ],
+ } as const satisfies Module
