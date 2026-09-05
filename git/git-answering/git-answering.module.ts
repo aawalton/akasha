@@ -43,7 +43,7 @@ export const gitAnswering = {
     {
       invariantKind: "departure",
       statement:
-        "What git said is answered trimmed, and the raw door answers what git said untrimmed.",
+        "The streams git wrote are answered trimmed, and the raw door answers those streams untrimmed.",
     },
     {
       invariantKind: "gap",
