@@ -375,3 +375,11 @@ index 88664ce7ec5b1e3eaa7531513beefc7150c16089..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../language-design/lua-compiler
 \ No newline at end of file
+diff --git a/pages/access/pages-access b/pages/access/pages-access
+deleted file mode 120000
+index 9cbdd544f3a165747598deb854ee63f9e0a846e4..0000000000000000000000000000000000000000
+--- a/pages/access/pages-access
++++ /dev/null
+@@ -1 +0,0 @@
+-../../pages/access
+\ No newline at end of file
