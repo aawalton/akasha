@@ -8,7 +8,6 @@ export const commandSystem = {
   manifest: "json",
   partSlugs: [
     "module/ops-invocation",
-    "module/command-entry",
     "module/parse-args",
     "module/answer-bytes",
     "module/format-output",
