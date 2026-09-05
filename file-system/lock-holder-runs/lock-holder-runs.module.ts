@@ -23,8 +23,11 @@ export const lockHolderRuns = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The mark read here is the bare pid, which is not the pid-and-start-tick mark the akasha landing lock writes.",
+      statement: "The mark read here is the bare pid.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The bare pid is not the pid-and-start-tick mark the akasha landing lock writes.",
     },
   ],
 } as const satisfies Module
