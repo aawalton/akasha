@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-catalog-side-file/temper-catalog-side-file.workspace-package.ts b/temper/temper-catalog-side-file/temper-catalog-side-file.workspace-package.ts
+index 3c23ec412efaa1b897ca6be435a69fce830c784e..0796d37f7ed64dad336b21e086af0dae2a0f99c5 100644
+--- a/temper/temper-catalog-side-file/temper-catalog-side-file.workspace-package.ts
++++ b/temper/temper-catalog-side-file/temper-catalog-side-file.workspace-package.ts
+@@ -10,7 +10,7 @@ export const temperCatalogSideFile = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The addon is told what to collect again through a file rather than a call.",
++      statement: "The addon is told the things to collect again through a file rather than a call.",
+     },
+     {
+       invariantKind: "departure",
