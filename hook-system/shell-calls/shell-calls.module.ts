@@ -30,7 +30,8 @@ export const shellCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "A body is taken out from the line opening it to the line ending it.",
+      statement:
+        "A body is taken out from the line opening that body to the line ending that body.",
     },
     {
       invariantKind: "departure",
@@ -106,7 +107,7 @@ export const shellCalls = {
     },
     {
       invariantKind: "constraint",
-      statement: "A shell marks no word as one that runs the call behind it.",
+      statement: "A shell marks no word as one that runs the call behind that word.",
     },
     {
       invariantKind: "gap",
@@ -114,7 +115,8 @@ export const shellCalls = {
     },
     {
       invariantKind: "gap",
-      statement: "A prefix this module does not name hides the call behind it from every hook.",
+      statement:
+        "A prefix this module does not name hides the call behind that prefix from every hook.",
     },
   ],
 } as const satisfies Module
