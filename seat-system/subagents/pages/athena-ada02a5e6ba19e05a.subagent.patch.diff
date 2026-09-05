@@ -35,6 +35,20 @@ index 0a02c27fc8711c1ffa440c7e1697aae4b9fb8cba..836eae0959420f9c8f3a913b42286328
    if (out === null) process.stdout.write(json)
    else writeFileSync(out, json)
  }
+diff --git a/seat-system/compose-notices/compose-notices.module.ts b/seat-system/compose-notices/compose-notices.module.ts
+index 64d342a5ecbf163a86832a78a58fc97fbb0779eb..32ae50fead6abe9c59a55a9b3651ead36aa26957 100644
+--- a/seat-system/compose-notices/compose-notices.module.ts
++++ b/seat-system/compose-notices/compose-notices.module.ts
+@@ -9,8 +9,7 @@ export const composeNotices = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "This module is run as its own program rather than imported by what asks for a notice.",
++      statement: "What asks for the notices imports this and calls it rather than running it.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/seat-system/supervising/supervisor-resume-notices/supervisor-resume-notices.module.code.ts b/seat-system/supervising/supervisor-resume-notices/supervisor-resume-notices.module.code.ts
 index c66f2d1c7aaaff677a36ab84d6bd5e1060c2438a..b4554656fd2093c6537aa24818cef2aaf10c57ca 100644
 --- a/seat-system/supervising/supervisor-resume-notices/supervisor-resume-notices.module.code.ts
