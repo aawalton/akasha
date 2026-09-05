@@ -1,0 +1,130 @@
+diff --git a/temper/temper-addon-data/addon-data-writes-alchemy/addon-data-writes-alchemy.module.ts b/temper/temper-addon-data/addon-data-writes-alchemy/addon-data-writes-alchemy.module.ts
+index 19813d6d1ae299e10ac0e870078383130ebfa19b..26d3d79782173800fd1fd28527981f9b7cd6ef8a 100644
+--- a/temper/temper-addon-data/addon-data-writes-alchemy/addon-data-writes-alchemy.module.ts
++++ b/temper/temper-addon-data/addon-data-writes-alchemy/addon-data-writes-alchemy.module.ts
+@@ -4,7 +4,7 @@ export const addonDataWritesAlchemy = {
+   id: "01a06837-d6c9-78da-823e-e34e8aa19133",
+   pageTypeSlug: "module",
+   slug: "addon-data-writes-alchemy",
+-  definition: "the alchemy section of a run's output, as the writes the section stands for",
++  definition: "the alchemy section of a run's output, as the writes the section represents",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/temper/temper-addon-data/addon-data-writes-codec/addon-data-writes-codec.module.ts b/temper/temper-addon-data/addon-data-writes-codec/addon-data-writes-codec.module.ts
+index 47458bf0d59c4a2325a4af89c5b70c32625a1b68..e06058e339ea554356df18162641aa9db086c38c 100644
+--- a/temper/temper-addon-data/addon-data-writes-codec/addon-data-writes-codec.module.ts
++++ b/temper/temper-addon-data/addon-data-writes-codec/addon-data-writes-codec.module.ts
+@@ -4,7 +4,7 @@ export const addonDataWritesCodec = {
+   id: "01a06837-d6c9-7fd4-9904-6563858424cb",
+   pageTypeSlug: "module",
+   slug: "addon-data-writes-codec",
+-  definition: "the codec section of a run's output, as the writes the section stands for",
++  definition: "the codec section of a run's output, as the writes the section represents",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/temper/temper-addon-data/addon-data-writes-companion-mappings/addon-data-writes-companion-mappings.module.ts b/temper/temper-addon-data/addon-data-writes-companion-mappings/addon-data-writes-companion-mappings.module.ts
+index ee4d4e0d2b293e6733a647cac17188ecd82fe168..635b66e4dbbc92ad5bc997f36057fc3adccf23b4 100644
+--- a/temper/temper-addon-data/addon-data-writes-companion-mappings/addon-data-writes-companion-mappings.module.ts
++++ b/temper/temper-addon-data/addon-data-writes-companion-mappings/addon-data-writes-companion-mappings.module.ts
+@@ -5,7 +5,7 @@ export const addonDataWritesCompanionMappings = {
+   pageTypeSlug: "module",
+   slug: "addon-data-writes-companion-mappings",
+   definition:
+-    "the companion mapping section of a run's output, as the writes the section stands for",
++    "the companion mapping section of a run's output, as the writes the section represents",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/temper/temper-addon-data/addon-data-writes-equipment/addon-data-writes-equipment.module.ts b/temper/temper-addon-data/addon-data-writes-equipment/addon-data-writes-equipment.module.ts
+index 52e5dedd5db754503a47f4a8af91d083eeb2b192..aa5b21e7efda11bdb54761b6f58cb48721b4fc90 100644
+--- a/temper/temper-addon-data/addon-data-writes-equipment/addon-data-writes-equipment.module.ts
++++ b/temper/temper-addon-data/addon-data-writes-equipment/addon-data-writes-equipment.module.ts
+@@ -4,7 +4,7 @@ export const addonDataWritesEquipment = {
+   id: "01a06837-d6c9-74ca-91b9-4e771dc5a29b",
+   pageTypeSlug: "module",
+   slug: "addon-data-writes-equipment",
+-  definition: "the equipment section of a run's output, as the writes the section stands for",
++  definition: "the equipment section of a run's output, as the writes the section represents",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/temper/temper-addon-data/addon-data-writes-inventory/addon-data-writes-inventory.module.ts b/temper/temper-addon-data/addon-data-writes-inventory/addon-data-writes-inventory.module.ts
+index 7380e1c7e08f2dea9900a564a5dff29b157fbef6..875e283ff4e1ce7f6658de8a7691da78e07cd522 100644
+--- a/temper/temper-addon-data/addon-data-writes-inventory/addon-data-writes-inventory.module.ts
++++ b/temper/temper-addon-data/addon-data-writes-inventory/addon-data-writes-inventory.module.ts
+@@ -4,7 +4,7 @@ export const addonDataWritesInventory = {
+   id: "01a06837-d6c9-708e-ab60-6fbcfe933cbc",
+   pageTypeSlug: "module",
+   slug: "addon-data-writes-inventory",
+-  definition: "the inventory section of a run's output, as the writes the section stands for",
++  definition: "the inventory section of a run's output, as the writes the section represents",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/temper/temper-addon-data/addon-data-writes-rules/addon-data-writes-rules.module.ts b/temper/temper-addon-data/addon-data-writes-rules/addon-data-writes-rules.module.ts
+index ded593a311ae3d5b5e8c852b0734484f2f480723..c6fe7307a3e2f77ff45424fa2aad6589202d9d78 100644
+--- a/temper/temper-addon-data/addon-data-writes-rules/addon-data-writes-rules.module.ts
++++ b/temper/temper-addon-data/addon-data-writes-rules/addon-data-writes-rules.module.ts
+@@ -4,7 +4,7 @@ export const addonDataWritesRules = {
+   id: "01a06837-d6c9-7e56-9671-72f53be73b25",
+   pageTypeSlug: "module",
+   slug: "addon-data-writes-rules",
+-  definition: "the rules section of a run's output, as the writes the section stands for",
++  definition: "the rules section of a run's output, as the writes the section represents",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/temper/temper-addon-data/addon-data-writes-scribing/addon-data-writes-scribing.module.ts b/temper/temper-addon-data/addon-data-writes-scribing/addon-data-writes-scribing.module.ts
+index a72af1fe38fe6a26a2495273f6a4a29646501d5a..ad7321e30b6d9cccc373d4e67eff3e08a4bce61c 100644
+--- a/temper/temper-addon-data/addon-data-writes-scribing/addon-data-writes-scribing.module.ts
++++ b/temper/temper-addon-data/addon-data-writes-scribing/addon-data-writes-scribing.module.ts
+@@ -4,7 +4,7 @@ export const addonDataWritesScribing = {
+   id: "01a06837-d6c9-715c-b373-e4fc2572aa1c",
+   pageTypeSlug: "module",
+   slug: "addon-data-writes-scribing",
+-  definition: "the scribing section of a run's output, as the writes the section stands for",
++  definition: "the scribing section of a run's output, as the writes the section represents",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/temper/temper-addon-data/addon-data-writes-sets/addon-data-writes-sets.module.ts b/temper/temper-addon-data/addon-data-writes-sets/addon-data-writes-sets.module.ts
+index ddae89e3e9040d4a8cf15105f9229a01979d8e8c..040e9585d735c92720ade9c3bc230a88139554cf 100644
+--- a/temper/temper-addon-data/addon-data-writes-sets/addon-data-writes-sets.module.ts
++++ b/temper/temper-addon-data/addon-data-writes-sets/addon-data-writes-sets.module.ts
+@@ -4,7 +4,7 @@ export const addonDataWritesSets = {
+   id: "01a06837-d6c9-7314-9d59-027ee56c58e8",
+   pageTypeSlug: "module",
+   slug: "addon-data-writes-sets",
+-  definition: "the sets section of a run's output, as the writes the section stands for",
++  definition: "the sets section of a run's output, as the writes the section represents",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/temper/temper-addon-data/addon-data-writes-skills/addon-data-writes-skills.module.ts b/temper/temper-addon-data/addon-data-writes-skills/addon-data-writes-skills.module.ts
+index 6a2d8d25f9d2b248027c1e9f6f8337dc8c839741..f266b95d36234f71a0ed964c5f6c7ff519009c4b 100644
+--- a/temper/temper-addon-data/addon-data-writes-skills/addon-data-writes-skills.module.ts
++++ b/temper/temper-addon-data/addon-data-writes-skills/addon-data-writes-skills.module.ts
+@@ -4,7 +4,7 @@ export const addonDataWritesSkills = {
+   id: "01a06837-d6c9-7413-83bc-e8a4d54c8fa5",
+   pageTypeSlug: "module",
+   slug: "addon-data-writes-skills",
+-  definition: "the skills section of a run's output, as the writes the section stands for",
++  definition: "the skills section of a run's output, as the writes the section represents",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/temper/temper-addon-data/addon-data-writes-stats/addon-data-writes-stats.module.ts b/temper/temper-addon-data/addon-data-writes-stats/addon-data-writes-stats.module.ts
+index 3060703dad707a0dd6a9c1db368656f6b4c6646f..e3009d4e8b9c73de16008ba1bf87c9d3a83f88d3 100644
+--- a/temper/temper-addon-data/addon-data-writes-stats/addon-data-writes-stats.module.ts
++++ b/temper/temper-addon-data/addon-data-writes-stats/addon-data-writes-stats.module.ts
+@@ -4,7 +4,7 @@ export const addonDataWritesStats = {
+   id: "01a06837-d6c9-7ffe-a9b2-19686e944a5d",
+   pageTypeSlug: "module",
+   slug: "addon-data-writes-stats",
+-  definition: "the stats section of a run's output, as the writes the section stands for",
++  definition: "the stats section of a run's output, as the writes the section represents",
+   code: "ts",
+   invariants: [
+     {
