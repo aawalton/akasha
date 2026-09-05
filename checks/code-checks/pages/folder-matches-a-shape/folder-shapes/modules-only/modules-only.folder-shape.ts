@@ -40,7 +40,7 @@ export const modulesOnly = {
     },
     {
       invariantKind: "absence",
-      statement: "What a module holds is judged where that module is judged.",
+      statement: "The files a module holds are judged where that module is judged.",
     },
   ],
 } as const satisfies FolderShape
