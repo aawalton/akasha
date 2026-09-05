@@ -1,0 +1,207 @@
+diff --git a/editor-extension/transcript-view/transcript-view.module.code.ts b/editor-extension/transcript-view/transcript-view.module.code.ts
+index cfe944d6a84562b44c09837c376ccbcde762ae7f..88be2e3abe306a35c86f96fbd5cc571088b64984 100644
+--- a/editor-extension/transcript-view/transcript-view.module.code.ts
++++ b/editor-extension/transcript-view/transcript-view.module.code.ts
+@@ -1,3 +1,5 @@
++import { type FSWatcher, watch } from "node:fs"
++import { dirname, join } from "node:path"
+ import * as vscode from "vscode"
+ import { renderEntries } from "../transcript-drawing/transcript-drawing.module.code.ts"
+ import type { Entry } from "../transcript-model/transcript-model.module.code.ts"
+@@ -7,8 +9,6 @@ import {
+ } from "../transcript-reading/transcript-reading.module.code.ts"
+ import { seatTranscriptOf } from "../transcript-sources/transcript-sources.module.code.ts"
+ 
+-const POLL_INTERVAL_MS = 1_000
+-
+ export interface TranscriptTarget {
+   readonly agentId?: string
+   readonly transcriptPath?: string
+@@ -77,6 +77,32 @@ export function openTranscriptPanel(
+     return target.transcriptPath ?? null
+   }
+ 
++  // THE FOLDERS THIS PANEL IS FED BY. A transcript is appended to rather than replaced, so the
++  // file keeps its inode and could be watched directly; the folder is watched instead because a
++  // rotation writes a file beside it, and one watcher then catches the append and the rotation
++  // alike. The subagents folder is the reader's second source and is watched the same way.
++  //
++  // A folder that is not there yet throws rather than being waited for, and the next read tries
++  // again — which is what brings the subagents folder under watch the moment it is made.
++  const watching = new Set<string>()
++  const watchers: FSWatcher[] = []
++
++  const watchFolder = (folder: string): undefined => {
++    if (watching.has(folder)) {
++      return undefined
++    }
++    let watcher: FSWatcher
++    try {
++      watcher = watch(folder, () => void tick())
++    } catch {
++      return undefined
++    }
++    watcher.unref()
++    watching.add(folder)
++    watchers.push(watcher)
++    return undefined
++  }
++
+   const readOnce = async (): Promise<undefined> => {
+     const transcriptPath = await resolvePath()
+     if (transcriptPath === null) {
+@@ -95,6 +121,9 @@ export function openTranscriptPanel(
+       void panel.webview.postMessage({ kind: "reset" })
+     }
+ 
++    watchFolder(dirname(transcriptPath))
++    watchFolder(join(transcriptPath.replace(/\.jsonl$/, ""), "subagents"))
++
+     const began = Date.now()
+     const read = await reader.read(transcriptPath)
+     if (!rotated && read.bytesFolded === 0 && read.filesRefolded === 0 && state.lastSize >= 0) {
+@@ -132,18 +161,37 @@ export function openTranscriptPanel(
+ 
+   let reading: Promise<undefined> | undefined
+ 
++  // A WRITE ARRIVING MID-READ IS READ FOR RATHER THAN DROPPED. Appends land in bursts, so waiting
++  // on the read in flight and returning would lose whatever arrived while it ran, and the panel
++  // would sit behind the file until the next write. Asking again once the read finishes is what
++  // makes the last append the one on screen, and it costs nothing where no write arrived.
++  let again = false
++
++  const runOnce = async (): Promise<undefined> => {
++    try {
++      await readOnce()
++    } catch (err) {
++      say(`[transcript] read failed: ${String(err)}`)
++    }
++    return undefined
++  }
++
+   const tick = async (): Promise<undefined> => {
+-    const inFlight = reading
+-    if (inFlight !== undefined) {
+-      await inFlight
++    if (reading !== undefined) {
++      again = true
+       return undefined
+     }
+-    const started = readOnce()
++    const started = (async (): Promise<undefined> => {
++      await runOnce()
++      while (again) {
++        again = false
++        await runOnce()
++      }
++      return undefined
++    })()
+     reading = started
+     try {
+       await started
+-    } catch (err) {
+-      say(`[transcript] read failed: ${String(err)}`)
+     } finally {
+       reading = undefined
+     }
+@@ -151,8 +199,17 @@ export function openTranscriptPanel(
+   }
+ 
+   void tick()
+-  const timer = setInterval(() => void tick(), POLL_INTERVAL_MS)
+-  panel.onDidDispose(() => clearInterval(timer), null, context.subscriptions)
++  panel.onDidDispose(
++    () => {
++      for (const watcher of watchers) {
++        watcher.close()
++      }
++      watchers.length = 0
++      watching.clear()
++    },
++    null,
++    context.subscriptions
++  )
+   return panel
+ }
+ 
+diff --git a/editor-extension/transcript-view/transcript-view.module.ts b/editor-extension/transcript-view/transcript-view.module.ts
+index af0d2c40daa64c0dddf67e981e59e32230ac5584..537c2a122dd8de58b1c67c92f4e5eaa1e0fa02ee 100644
+--- a/editor-extension/transcript-view/transcript-view.module.ts
++++ b/editor-extension/transcript-view/transcript-view.module.ts
+@@ -4,7 +4,7 @@ export const transcriptView = {
+   id: "01a06811-01d3-7003-a56a-b2779b494581",
+   pageTypeSlug: "module",
+   slug: "transcript-view",
+-  definition: "the webview a seat's transcript is drawn into, and what each poll draws again",
++  definition: "the webview a seat's transcript is drawn into, and what each read draws again",
+   code: "ts",
+   invariants: [
+     {
+@@ -17,7 +17,7 @@ export const transcriptView = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The entries after the settled ones are drawn again on every poll.",
++      statement: "The entries after the settled ones are drawn again on every read.",
+     },
+     {
+       invariantKind: "departure",
+@@ -25,7 +25,7 @@ export const transcriptView = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A poll that folded nothing anywhere leaves the panel as that panel is.",
++      statement: "A read that folded nothing anywhere leaves the panel as that panel is.",
+     },
+     {
+       invariantKind: "departure",
+@@ -41,7 +41,31 @@ export const transcriptView = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A poll arriving mid-read waits for the read in flight.",
++      statement: "A write arriving mid-read is read for once that read finishes.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The panel reads when a file it is fed by is written and at no other time.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The folder holding a transcript is watched rather than the transcript.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "One watcher on that folder catches an append and a rotation alike.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The folder a transcript's subagents sit in is watched as well.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A folder that is not there yet is watched once the next read finds it.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Closing a panel closes every watcher that panel registered.",
+     },
+     {
+       invariantKind: "departure",
+@@ -65,11 +89,15 @@ export const transcriptView = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One channel says what every transcript panel's poll cost.",
++      statement: "One channel says what every transcript panel's read cost.",
+     },
+     {
+       invariantKind: "absence",
+       statement: "No transcript content passes through that channel.",
+     },
++    {
++      invariantKind: "absence",
++      statement: "No timer starts a read.",
++    },
+   ],
+ } as const satisfies Module
