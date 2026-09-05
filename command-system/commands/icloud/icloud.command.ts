@@ -41,7 +41,7 @@ export const icloud = {
     },
     {
       invariantKind: "departure",
-      statement: "The share link is the whole of what reaches the album.",
+      statement: "The share link alone reaches the album.",
     },
     {
       invariantKind: "departure",
