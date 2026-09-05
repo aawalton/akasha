@@ -28,8 +28,7 @@ export const color = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Each hex here is a gemstone shade standing under a plain name rather than the gemstone's.",
+      statement: "Each hex here is a gemstone shade under a plain name rather than the gemstone's.",
     },
     {
       invariantKind: "departure",
