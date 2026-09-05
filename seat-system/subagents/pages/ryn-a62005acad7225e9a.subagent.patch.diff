@@ -1,0 +1,15 @@
+diff --git a/temper/temper-lib-gps/temper-lib-gps.eso-addon.ts b/temper/temper-lib-gps/temper-lib-gps.eso-addon.ts
+index c504cc7b1670da92d84d7b979eaa257ca6793323..28371190ccf83bfa9f5c0c019d1da2841d972360 100644
+--- a/temper/temper-lib-gps/temper-lib-gps.eso-addon.ts
++++ b/temper/temper-lib-gps/temper-lib-gps.eso-addon.ts
+@@ -37,10 +37,6 @@ export const temperLibGps = {
+       invariantKind: "departure",
+       statement: "A measurement taken for a map is kept for as long as the game runs.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "Measuring moves the shown map and then puts the original map back.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "The game's own map changing functions are wrapped rather than replaced.",
