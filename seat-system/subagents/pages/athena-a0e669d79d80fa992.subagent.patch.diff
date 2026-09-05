@@ -1,0 +1,132 @@
+diff --git a/alan/tracking/daily/air-quality-command/air-quality-command.module.ts b/alan/tracking/daily/air-quality-command/air-quality-command.module.ts
+index 94e958bbb1449f352caf6b7fd4c3dbd83fa9c5c8..5f50d7d69e53abe25d8be4a4615f945d2177aae7 100644
+--- a/alan/tracking/daily/air-quality-command/air-quality-command.module.ts
++++ b/alan/tracking/daily/air-quality-command/air-quality-command.module.ts
+@@ -6,10 +6,4 @@ export const airQualityCommand = {
+   slug: "air-quality-command",
+   definition: "the air outside said as a verdict on exerting oneself in it",
+   code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "This module is run as its own program by the name its ops-command page states.",
+-    },
+-  ],
+ } as const satisfies Module
+diff --git a/alan/tracking/daily/cardio-sync/cardio-sync.module.ts b/alan/tracking/daily/cardio-sync/cardio-sync.module.ts
+index 60c793deb4f5b269babad1a4b407f97433329b60..51bc51c5aa38e4fc0be23f8ffee8236ebb0f13fb 100644
+--- a/alan/tracking/daily/cardio-sync/cardio-sync.module.ts
++++ b/alan/tracking/daily/cardio-sync/cardio-sync.module.ts
+@@ -6,10 +6,4 @@ export const cardioSync = {
+   slug: "cardio-sync",
+   definition: "a day's active calories counted again from the readings behind them",
+   code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "This module is run as its own program by the name its ops-command page states.",
+-    },
+-  ],
+ } as const satisfies Module
+diff --git a/alan/tracking/daily/nutrition-sync/nutrition-sync.module.ts b/alan/tracking/daily/nutrition-sync/nutrition-sync.module.ts
+index 12bace8583f6a45307cde9bf42bd34bc53b572a9..ac9aef1c6d21d2aa008d3c84ec31ed5f30b40976 100644
+--- a/alan/tracking/daily/nutrition-sync/nutrition-sync.module.ts
++++ b/alan/tracking/daily/nutrition-sync/nutrition-sync.module.ts
+@@ -6,10 +6,4 @@ export const nutritionSync = {
+   slug: "nutrition-sync",
+   definition: "a day's nutrition points counted again from what Alan ate",
+   code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "This module is run as its own program by the name its ops-command page states.",
+-    },
+-  ],
+ } as const satisfies Module
+diff --git a/alan/tracking/daily/strength-sync/strength-sync.module.ts b/alan/tracking/daily/strength-sync/strength-sync.module.ts
+index d921a108a228b5239558cfdeac54ea6998761ee0..1b746b17688aa38d97ef0a7ed705a9ea9f7a24d5 100644
+--- a/alan/tracking/daily/strength-sync/strength-sync.module.ts
++++ b/alan/tracking/daily/strength-sync/strength-sync.module.ts
+@@ -6,10 +6,4 @@ export const strengthSync = {
+   slug: "strength-sync",
+   definition: "a day's strength volume counted again from the sets behind it",
+   code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "This module is run as its own program by the name its ops-command page states.",
+-    },
+-  ],
+ } as const satisfies Module
+diff --git a/alan/tracking/daily/task-sync/task-sync.module.ts b/alan/tracking/daily/task-sync/task-sync.module.ts
+index e74e6f2b60334628c58904f9c290068f869f80f7..29398eeef8fe6f1f057ec26b4f2a4621ed133846 100644
+--- a/alan/tracking/daily/task-sync/task-sync.module.ts
++++ b/alan/tracking/daily/task-sync/task-sync.module.ts
+@@ -6,10 +6,4 @@ export const taskSync = {
+   slug: "task-sync",
+   definition: "a day's task points counted again from the rounds Alan finished",
+   code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "This module is run as its own program by the name its ops-command page states.",
+-    },
+-  ],
+ } as const satisfies Module
+diff --git a/alan/tracking/daily/words-sync/words-sync.module.ts b/alan/tracking/daily/words-sync/words-sync.module.ts
+index c00211e3d571091e15b7f42b7ce4fdf67c50936b..086f7369dcd2f0c6b7f8587d0a5c2ae8e5a758d6 100644
+--- a/alan/tracking/daily/words-sync/words-sync.module.ts
++++ b/alan/tracking/daily/words-sync/words-sync.module.ts
+@@ -6,10 +6,4 @@ export const wordsSync = {
+   slug: "words-sync",
+   definition: "a day's wisdom and intelligence words counted again from what Alan read",
+   code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "This module is run as its own program by the name its ops-command page states.",
+-    },
+-  ],
+ } as const satisfies Module
+diff --git a/command-system/command-declaring/command-declaring.module.code.ts b/command-system/command-declaring/command-declaring.module.code.ts
+index 097270b530560ed74a9b5ac12e2a9e31b63706dc..0bf182728302a894a001bc5e6c60478c07c96e5e 100644
+--- a/command-system/command-declaring/command-declaring.module.code.ts
++++ b/command-system/command-declaring/command-declaring.module.code.ts
+@@ -75,18 +75,9 @@ export interface CommandModule {
+   readonly help?: CommandHelp
+ }
+ 
+-export interface CommandDocument {
+-  readonly slug: string
+-  readonly path: readonly string[]
+-  readonly entryFile: string
+-  readonly summary: string
+-  readonly help?: string
+-}
+-
+ export interface Command {
+   readonly path: readonly string[]
+   readonly summary: string
+   readonly load: () => Promise<CommandModule>
+   readonly source?: string
+-  readonly document?: CommandDocument
+ }
+diff --git a/command-system/command-declaring/command-declaring.module.ts b/command-system/command-declaring/command-declaring.module.ts
+index 2e81463c048378675bae78e93cb8ff3f3dfdd720..733a102fe9db59c7ca36d28d92022691740b24d1 100644
+--- a/command-system/command-declaring/command-declaring.module.ts
++++ b/command-system/command-declaring/command-declaring.module.ts
+@@ -27,14 +27,6 @@ export const commandDeclaring = {
+       invariantKind: "departure",
+       statement: "The words reaching a command and the code the command loads are one entry.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A command document is one `ops-command` page read back out of the index.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A command document names the file the command runs.",
+-    },
+     {
+       invariantKind: "gap",
+       statement: "A command page carries this declaration as data rather than as prose.",
