@@ -3,7 +3,7 @@
 import { Badge } from "@akasha/design-badges/badge"
 import { Input } from "@akasha/design-primitives/input"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
-import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule"
+import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule-variant"
 import type { SelectOption } from "@akasha/pages-core/schema/select-option-create"
 import { Plus, X } from "lucide-react"
 import { useState } from "react"

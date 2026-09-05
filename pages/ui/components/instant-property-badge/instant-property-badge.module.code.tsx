@@ -3,10 +3,10 @@
 import { Badge } from "@akasha/design-badges/badge"
 import { formatRelativeTime } from "@akasha/design-primitives/format-relative-time"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
-import { resolveBadgeVariant } from "@akasha/pages-core/color-rules"
 import { formatAbsoluteInstant } from "@akasha/pages-core/property-types/instant"
 import type { PropertyValue } from "@akasha/pages-core/property-types/types"
-import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule"
+import { resolveBadgeVariant } from "@akasha/pages-core/resolve-badge-variant"
+import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule-variant"
 import { parseConfig } from "@akasha/pages-core/schema/pages"
 import {
   type InstantConfig,

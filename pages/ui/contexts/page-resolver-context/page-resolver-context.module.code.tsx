@@ -1,6 +1,6 @@
 "use client"
 
-import type { ColorRuleVariant } from "@akasha/pages-core/schema/color-rule"
+import type { ColorRuleVariant } from "@akasha/pages-core/schema/color-rule-variant"
 import { createContext, useContext } from "react"
 
 export interface PageResolverEntry {

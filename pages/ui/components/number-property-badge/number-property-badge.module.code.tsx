@@ -2,9 +2,9 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { NumberBadge } from "@akasha/design-badges/number-badge"
-import { resolveBadgeVariant } from "@akasha/pages-core/color-rules"
 import { formatPropertyNumber, toNumber } from "@akasha/pages-core/property-types/number"
-import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule"
+import { resolveBadgeVariant } from "@akasha/pages-core/resolve-badge-variant"
+import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule-variant"
 import { parseConfig } from "@akasha/pages-core/schema/pages"
 import {
   type NumberConfig,

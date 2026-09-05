@@ -1,5 +1,5 @@
 import * as z from "zod"
-import { badgeVariantSchema } from "../color-rule/color-rule.module.code.ts"
+import { badgeVariantSchema } from "../color-rule-variant/color-rule-variant.module.code.ts"
 
 export const BADGE_ICON_FIELD = {
   icon: z.string().optional(),

@@ -10,9 +10,9 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@akasha/design-primitives/dialog"
-import { resolveBadgeVariant } from "@akasha/pages-core/color-rules"
 import type { PropertyValue } from "@akasha/pages-core/property-types/types"
-import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule"
+import { resolveBadgeVariant } from "@akasha/pages-core/resolve-badge-variant"
+import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule-variant"
 import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import type { PropertyBadgeProps } from "@akasha/pages-ui-components/property-badge"

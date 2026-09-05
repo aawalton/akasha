@@ -9,9 +9,9 @@ import {
   DropdownMenuTrigger,
 } from "@akasha/design-primitives/dropdown-menu"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { resolveBadgeVariant } from "@akasha/pages-core/color-rules"
 import type { PropertyValue } from "@akasha/pages-core/property-types/types"
-import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule"
+import { resolveBadgeVariant } from "@akasha/pages-core/resolve-badge-variant"
+import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule-variant"
 import { parseConfig } from "@akasha/pages-core/schema/pages"
 import { selectConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
 import type { SelectOption } from "@akasha/pages-core/schema/select-option-create"

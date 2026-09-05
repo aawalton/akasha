@@ -12,7 +12,7 @@ export const pagesCore = {
     "domain/pages-core-json-patch",
     "domain/pages-core-view",
     "module/as-json",
-    "module/color-rules",
+    "module/resolve-badge-variant",
     "domain/pages-core-generated",
     "domain/pages-core-filter",
     "module/icon",

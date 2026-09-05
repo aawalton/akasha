@@ -9,7 +9,7 @@ export const pagesCoreSchema = {
     "module/action-button-config",
     "module/badge-display",
     "module/coherence-rules",
-    "module/color-rule",
+    "module/color-rule-variant",
     "module/content-tier",
     "module/cross-type-predicates",
     "module/detail-config",

@@ -3,9 +3,9 @@
 import { Badge } from "@akasha/design-badges/badge"
 import { TimeBadge } from "@akasha/design-badges/time-badge"
 import { formatTime12h } from "@akasha/design-forms/format-time"
-import { resolveBadgeVariant } from "@akasha/pages-core/color-rules"
 import type { PropertyValue } from "@akasha/pages-core/property-types/types"
-import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule"
+import { resolveBadgeVariant } from "@akasha/pages-core/resolve-badge-variant"
+import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule-variant"
 import type { PropertyBadgeProps } from "@akasha/pages-ui-components/property-badge"
 
 const TIME_REGEX = /^([01]\d|2[0-3]):[0-5]\d$/

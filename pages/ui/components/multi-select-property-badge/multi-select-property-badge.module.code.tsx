@@ -2,8 +2,8 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { useBadgeLayoutContext } from "@akasha/design-badges/badge-layout-context"
-import { resolveBadgeVariant } from "@akasha/pages-core/color-rules"
 import type { PropertyValue } from "@akasha/pages-core/property-types/types"
+import { resolveBadgeVariant } from "@akasha/pages-core/resolve-badge-variant"
 import { parseConfig } from "@akasha/pages-core/schema/pages"
 import { multiSelectConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
 import type { SelectOption } from "@akasha/pages-core/schema/select-option-create"

@@ -1,4 +1,4 @@
-import type { ColorRuleVariant } from "../schema/color-rule/color-rule.module.code.ts"
+import type { ColorRuleVariant } from "../schema/color-rule-variant/color-rule-variant.module.code.ts"
 import type { ReadonlyJSONValue } from "../schema/pages/pages.module.code.ts"
 
 export type PropertyType =
