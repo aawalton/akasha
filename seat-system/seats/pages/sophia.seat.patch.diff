@@ -1,0 +1,19 @@
+diff --git a/akasha.domain.ts b/akasha.domain.ts
+index bd320d328843fa2f559e6bd92a58680a9e7adc9a..a62d5170942d69f0bdc2f84c9389fa863efc0cc4 100644
+--- a/akasha.domain.ts
++++ b/akasha.domain.ts
+@@ -196,11 +196,10 @@ export const akasha = {
+       directiveKind: "rule",
+       name: "Currency",
+       act: "State what is true now, and leave how it became true to git.",
+-      warrant:
+-        "Git holds the history better, and a line carrying it costs every reader who did not want it.",
++      warrant: "Git holds the history, writing it again is a second place that can be wrong.",
+       aids: [
+-        "A guard's own words say what it enforces.",
+-        "Say what you changed when you hand work back.",
++        "Mortal pages become history.",
++        "Write for the new reader who doesn't know what was there before.",
+       ],
+     },
+     {
