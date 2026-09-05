@@ -28,6 +28,22 @@ index 7dffa4c71d9b392b28f96e7f64f3ebbde1d0e13f..d637d9be9f66b0a14f75bb0cfcc14660
      {
        invariantKind: "gap",
        statement: "A class member implementing the renamed property is not respelled.",
+diff --git a/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.ts b/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.ts
+index 435204703782d44d2c6232625b8a6301514501af..3cd470aa0abf418163b37ccbc9994ab578fb782f 100644
+--- a/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.ts
++++ b/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.ts
+@@ -41,10 +41,7 @@ export const renameSlug = {
+       invariantKind: "departure",
+       statement: "A namer no name of this page changes is left out of the answer.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "The bodies are answered rather than written, so the caller lands them as one.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "No file moves and no export is renamed, those being the path and export renames.",
 diff --git a/readout-system/readouts/pages/attribute-endurance/attribute-endurance.readout.ts b/readout-system/readouts/pages/attribute-endurance/attribute-endurance.readout.ts
 index ffad641479427a27b05a0eb325f3e7d4f2c40abf..9e0ff3a664deac48e87e84fdf3a629a879f9e818 100644
 --- a/readout-system/readouts/pages/attribute-endurance/attribute-endurance.readout.ts
