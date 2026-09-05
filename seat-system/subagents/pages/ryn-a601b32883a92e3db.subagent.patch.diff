@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/hook-system/chain-refusal/chain-refusal.module.ts b/hook-system/chain-refusal/chain-refusal.module.ts
+index 4d831500a5cf3e2334b9b18360146198685b8ef6..8b7fe77e8f9f9485cfa6b00cd17f724391ee97a6 100644
+--- a/hook-system/chain-refusal/chain-refusal.module.ts
++++ b/hook-system/chain-refusal/chain-refusal.module.ts
+@@ -23,7 +23,7 @@ export const chainRefusal = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A hook judging every call it cuts the same way binds this module rather than spelling the loop.",
++        "A hook judging each call the hook cuts the same way binds this module rather than spelling the loop.",
+     },
+     {
+       invariantKind: "absence",
