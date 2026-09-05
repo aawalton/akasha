@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/category-rules/category-rule-agents/properties/judgement.text-property.ts b/alan/harness/monarch/category-rules/category-rule-agents/properties/judgement.text-property.ts
+index 32a8fcac32d3bf6eaac766a6fd84db64b1000da1..05672842e4b6f61954f58c2cd4118c1222a3fa15 100644
+--- a/alan/harness/monarch/category-rules/category-rule-agents/properties/judgement.text-property.ts
++++ b/alan/harness/monarch/category-rules/category-rule-agents/properties/judgement.text-property.ts
+@@ -13,7 +13,8 @@ export const judgement = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A judgement opens with the act, and what follows is why it is worth an agent.",
++      statement:
++        "A judgement opens with the act, and what follows is why that act is worth an agent.",
+     },
+   ],
+ } as const satisfies TextProperty
