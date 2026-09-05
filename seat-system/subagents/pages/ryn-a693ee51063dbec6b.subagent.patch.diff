@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/commands/test/test.command.ts b/commands/test/test.command.ts
-index 3d9f456d331aa75d0a0733926b2bd07a7d737887..554c59a0048c0536c9f475aaa3b9cd1da919a89e 100644
+index 3d9f456d331aa75d0a0733926b2bd07a7d737887..25e2f6710522e0b82b92de2416ee7776d95e3ae6 100644
 --- a/commands/test/test.command.ts
 +++ b/commands/test/test.command.ts
 @@ -30,7 +30,7 @@ export const test = {
@@ -9,6 +9,15 @@ index 3d9f456d331aa75d0a0733926b2bd07a7d737887..554c59a0048c0536c9f475aaa3b9cd1d
        statement:
 -        "The verdict is read from what the run printed rather than from its exit code alone.",
 +        "The verdict is read from the output the run printed rather than from its exit code alone.",
+     },
+     {
+       invariantKind: "departure",
+@@ -38,7 +38,7 @@ export const test = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run printing no summary carries the tail of what the runner printed.",
++      statement: "A run printing no summary carries the tail of the output the runner printed.",
      },
      {
        invariantKind: "departure",
