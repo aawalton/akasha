@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts b/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts
+index cdb23094060c508dbe5cb1c76aabcde13875c1ab..c4d0327d0f82c4064f326a9361d9126ce05f21a1 100644
+--- a/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts
++++ b/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts
+@@ -28,7 +28,7 @@ export const seatRefreshSettings = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The per-spawn keys a file holds are carried into what replaces it.",
++      statement: "The per-spawn keys a file holds are carried into what replaces that file.",
+     },
+     {
+       invariantKind: "departure",
