@@ -1,0 +1,18 @@
+diff --git a/alan/harness/monarch/eval/monarch-eval.domain.ts b/alan/harness/monarch/eval/monarch-eval.domain.ts
+index 9ba9036a02e62aecd1875b102eb5f081e44c74f1..30977046723139684d4d6a065f1c0ec33f5a5d7a 100644
+--- a/alan/harness/monarch/eval/monarch-eval.domain.ts
++++ b/alan/harness/monarch/eval/monarch-eval.domain.ts
+@@ -99,8 +99,11 @@ export const monarchEval = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "What a call cost is read back off the call rather than derived from a rate card this repo would have to keep current.",
++      statement: "A call's cost is read back off the call rather than derived from a rate card.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No rate card is kept here.",
+     },
+     {
+       invariantKind: "departure",
