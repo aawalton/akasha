@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/amazon-write/monarch-amazon-write.module.ts b/alan/harness/monarch/amazon-write/monarch-amazon-write.module.ts
+index e431bf6f79f94c56355473881669fe8374da5b9a..8ea36b61bb00b58a1e94ac4d59d9966aeec6e7cf 100644
+--- a/alan/harness/monarch/amazon-write/monarch-amazon-write.module.ts
++++ b/alan/harness/monarch/amazon-write/monarch-amazon-write.module.ts
+@@ -13,8 +13,7 @@ export const monarchAmazonWrite = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "What was written is read back from Monarch before what was written is called written.",
++      statement: "The note written is read back from Monarch before that note is called written.",
+     },
+     {
+       invariantKind: "departure",
