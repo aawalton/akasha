@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/readout-system/readout-asking/readout-asking.module.ts b/readout-system/readout-asking/readout-asking.module.ts
+index 2ba867c57978bdf93efa78ca4bd6fdcebbd429e4..cc2e16437000606085a8abbb3df2fc83d55872f8 100644
+--- a/readout-system/readout-asking/readout-asking.module.ts
++++ b/readout-system/readout-asking/readout-asking.module.ts
+@@ -23,7 +23,8 @@ export const readoutAsking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A fault names what could not be read ahead of the store's own words.",
++      statement:
++        "A fault names the reading that could not be taken ahead of the store's own words.",
+     },
+     {
+       invariantKind: "departure",
