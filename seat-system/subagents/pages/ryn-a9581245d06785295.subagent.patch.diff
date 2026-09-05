@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/supervising/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.ts b/seat-system/supervising/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.ts
+index 6cfea4a7a05bb90bc0a9cd7cb2362cc97302bdfe..21fe889badbd99ea62ccd8c4391fa006fe32d6b7 100644
+--- a/seat-system/supervising/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.ts
++++ b/seat-system/supervising/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.ts
+@@ -9,7 +9,7 @@ export const supervisorDeferredRestartRule = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "An unread verdict holds the state it was given and does not fire.",
++      statement: "An unread verdict holds the state that verdict was given and does not fire.",
+     },
+     {
+       invariantKind: "departure",
