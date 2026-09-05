@@ -12,10 +12,7 @@ export const leadsLayout = {
       invariantKind: "departure",
       statement: "Every control the lead code reaches is declared here and nowhere else.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The document loads after the Lua bundle.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A row of the list is a virtual control the list clones.",
