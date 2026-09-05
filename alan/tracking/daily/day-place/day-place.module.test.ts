@@ -152,10 +152,10 @@ describe("create, edit and delete agree on where a day is", () => {
 describe("what reaches the file layer", () => {
   test("a day nothing has heard of reaches the akasha half and never the old place", async () => {
     REACHED.length = 0
-    await landDayPage("patch", UNNAMED_DAY, { date: UNNAMED_DAY }, "ops-tracking")
-    await landSessionRow("write-row", UNNAMED_DAY, { id: "one" }, "ops-tracking")
-    await landSessionRow("patch-row", UNNAMED_DAY, { id: "one" }, "ops-tracking")
-    await dropSessionRow(UNNAMED_DAY, "one", "ops-tracking")
+    await landDayPage("patch", UNNAMED_DAY, { date: UNNAMED_DAY }, "tracking")
+    await landSessionRow("write-row", UNNAMED_DAY, { id: "one" }, "tracking")
+    await landSessionRow("patch-row", UNNAMED_DAY, { id: "one" }, "tracking")
+    await dropSessionRow(UNNAMED_DAY, "one", "tracking")
     const name = `wake-day-${UNNAMED_DAY}`
     expect(REACHED).toEqual([
       { verb: "landAkashaDayPage", act: "patch", pageType: "akasha", name },
@@ -175,9 +175,9 @@ describe("what reaches the file layer", () => {
   test("no day and no session row reaches any verb but the two akasha ones", async () => {
     REACHED.length = 0
     for (const day of ["2026-03-05", UNNAMED_DAY, UNNAMED_NEXT]) {
-      await landDayPage("write", day, { date: day }, "ops-tracking")
-      await landSessionRow("write-row", day, { id: "one" }, "ops-tracking")
-      await dropSessionRow(day, "one", "ops-tracking")
+      await landDayPage("write", day, { date: day }, "tracking")
+      await landSessionRow("write-row", day, { id: "one" }, "tracking")
+      await dropSessionRow(day, "one", "tracking")
     }
     expect(REACHED).toHaveLength(9)
     expect(REACHED.filter((one) => one.pageType === "akasha")).toHaveLength(9)

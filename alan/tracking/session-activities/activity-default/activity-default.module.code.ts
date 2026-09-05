@@ -12,7 +12,7 @@ export const summary =
 
 const PAGE_TYPE = "session-activity"
 
-const WRITER = "ops-tracking"
+const WRITER = "tracking"
 
 export const help: CommandHelp = {
   flags: [
@@ -42,10 +42,6 @@ export const help: CommandHelp = {
     { code: 0, meaning: "activity default written — created, or patched in place" },
     { code: 1, meaning: "missing title, missing or unreadable --difficulty, or bad input" },
     { code: 3, meaning: "the page did not land" },
-  ],
-  examples: [
-    'ops tracking activity-set "Read" --difficulty 1',
-    'ops tracking activity-set --title "Piano" --difficulty 3',
   ],
 }
 
@@ -95,9 +91,7 @@ export default async function trackingActivitySet(args: readonly string[]): Prom
   const parsed = parseArgs(help, args)
   const titleRaw = parsed.string("--title")
   if (titleRaw === undefined || titleRaw.trim() === "") {
-    throw new Error(
-      'an activity --title is required (e.g. `ops tracking activity-set "Read" --difficulty 1`)'
-    )
+    throw new Error("an activity --title is required, and is matched within a session title")
   }
   const title = titleRaw.trim()
   const difficultyRaw = parsed.string("--difficulty")
