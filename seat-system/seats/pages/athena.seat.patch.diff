@@ -1,0 +1,189 @@
+diff --git a/agents/claude-accounts/claude-account.page-type.ts b/agents/claude-accounts/claude-account.page-type.ts
+index b183727128e75b8e3c5a6b2ccc7bd3892e05a4db..8d84490c83e71fc3bd7dc5d4599b4b7d780f6077 100644
+--- a/agents/claude-accounts/claude-account.page-type.ts
++++ b/agents/claude-accounts/claude-account.page-type.ts
+@@ -79,8 +79,6 @@ export const claudeAccount = {
+     "module/claude-account-identity",
+     "module/claude-account-making",
+     "module/claude-account-marking",
+-    "module/claude-account-alias-snapshot",
+-    "module/claude-account-alias-sync",
+     "module/claude-account-measuring",
+     "module/claude-account-oauth",
+     "module/claude-account-pacing",
+diff --git a/agents/claude-accounts/modules/alias-snapshot/claude-account-alias-snapshot.module.code.ts b/agents/claude-accounts/modules/alias-snapshot/claude-account-alias-snapshot.module.code.ts
+deleted file mode 100644
+index ad38016baba4134273dcd316e6a5d6be4965e639..0000000000000000000000000000000000000000
+--- a/agents/claude-accounts/modules/alias-snapshot/claude-account-alias-snapshot.module.code.ts
++++ /dev/null
+@@ -1,31 +0,0 @@
+-import { writeFileSync } from "node:fs"
+-import { homedir } from "node:os"
+-import { join } from "node:path"
+-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+-import { aliasIndexesIn } from "../reading/claude-account-reading.module.code.ts"
+-
+-export const ACCOUNT_ALIAS_SNAPSHOT_PATH = join(homedir(), ".claude", "account-aliases.json")
+-
+-export type AliasEntry = {
+-  readonly account: string
+-  readonly aliasIndex: number
+-}
+-
+-function inAliasIndexOrder(entries: readonly AliasEntry[]): readonly AliasEntry[] {
+-  return [...entries].sort((a, b) => a.aliasIndex - b.aliasIndex)
+-}
+-
+-function writeAliasSnapshot(entries: readonly AliasEntry[], path: string): undefined {
+-  writeFileSync(path, `${JSON.stringify(inAliasIndexOrder(entries), null, 2)}\n`)
+-}
+-
+-export function syncAliasSnapshotFromPages(
+-  path = ACCOUNT_ALIAS_SNAPSHOT_PATH
+-): readonly AliasEntry[] {
+-  const root = rootFor(resolveRoots(), AKASHA)
+-  const entries = inAliasIndexOrder(
+-    [...aliasIndexesIn(root)].map(([account, aliasIndex]) => ({ account, aliasIndex }))
+-  )
+-  writeAliasSnapshot(entries, path)
+-  return entries
+-}
+diff --git a/agents/claude-accounts/modules/alias-snapshot/claude-account-alias-snapshot.module.ts b/agents/claude-accounts/modules/alias-snapshot/claude-account-alias-snapshot.module.ts
+deleted file mode 100644
+index 9ff8549270aaeaf714f4f942a85df307ce8f6d2f..0000000000000000000000000000000000000000
+--- a/agents/claude-accounts/modules/alias-snapshot/claude-account-alias-snapshot.module.ts
++++ /dev/null
+@@ -1,23 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const claudeAccountAliasSnapshot = {
+-  id: "01a069ff-cfa6-7639-8b2a-82659221cf54",
+-  pageTypeSlug: "module",
+-  slug: "claude-account-alias-snapshot",
+-  definition: "the local file naming which shell alias each claude account answers to",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The snapshot is written whole rather than edited in place.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Entries are in alias index order.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The snapshot path is a default a caller replaces.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/agents/claude-accounts/modules/alias-sync/claude-account-alias-sync.module.code.ts b/agents/claude-accounts/modules/alias-sync/claude-account-alias-sync.module.code.ts
+deleted file mode 100644
+index e475c28eda58713b4e4ef8153cd76faea2b9afc5..0000000000000000000000000000000000000000
+--- a/agents/claude-accounts/modules/alias-sync/claude-account-alias-sync.module.code.ts
++++ /dev/null
+@@ -1,23 +0,0 @@
+-import type { CommandHelp } from "@akasha/command-system/command-declaring"
+-import { parseArgs } from "@akasha/command-system/parse-args"
+-import {
+-  ACCOUNT_ALIAS_SNAPSHOT_PATH,
+-  syncAliasSnapshotFromPages,
+-} from "../alias-snapshot/claude-account-alias-snapshot.module.code.ts"
+-
+-export const HELP: CommandHelp = {
+-  flags: [],
+-  examples: ["ops claude-account sync-aliases"],
+-}
+-
+-export default async function claudeAccountSyncAliases(args: readonly string[]): Promise<void> {
+-  parseArgs(help, args)
+-
+-  const entries = syncAliasSnapshotFromPages()
+-  process.stdout.write(
+-    `${entries.length} account(s) written to ${ACCOUNT_ALIAS_SNAPSHOT_PATH}\n` +
+-      entries.map((e) => `  c${e.aliasIndex}  ${e.account}\n`).join("")
+-  )
+-}
+-
+-export const help = HELP
+diff --git a/agents/claude-accounts/modules/alias-sync/claude-account-alias-sync.module.ts b/agents/claude-accounts/modules/alias-sync/claude-account-alias-sync.module.ts
+deleted file mode 100644
+index 9a740ea74dde903833af132f8cafc8a673f82d46..0000000000000000000000000000000000000000
+--- a/agents/claude-accounts/modules/alias-sync/claude-account-alias-sync.module.ts
++++ /dev/null
+@@ -1,23 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const claudeAccountAliasSync = {
+-  id: "01a069cb-0380-7495-bbff-ba52970a457a",
+-  pageTypeSlug: "module",
+-  slug: "claude-account-alias-sync",
+-  definition: "the local account-alias snapshot written again from the account pages",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The ops dispatcher imports this module and calls the default export it declares.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The account pages are the source and the snapshot file is only written.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Each written account is printed with the alias index the account holds.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/command-system/ops-commands/pages/ops-claude-account-sync-aliases/ops-claude-account-sync-aliases.ops-command.ops-help.txt b/command-system/ops-commands/pages/ops-claude-account-sync-aliases/ops-claude-account-sync-aliases.ops-command.ops-help.txt
+deleted file mode 100644
+index ef4b99b6acae48f3680b22d6f7c9e06d28df52a3..0000000000000000000000000000000000000000
+--- a/command-system/ops-commands/pages/ops-claude-account-sync-aliases/ops-claude-account-sync-aliases.ops-command.ops-help.txt
++++ /dev/null
+@@ -1,4 +0,0 @@
+-Rebuild the local account-alias snapshot from the `alias-index:` each account page
+-states. The shell-init alias generator (`aw init bash`) reads this file to emit the `cN`
+-family without reading the pages itself. Run it to repair drift, or on a fresh
+-workstation to materialize the snapshot (provisioning calls it for exactly this).
+diff --git a/command-system/ops-commands/pages/ops-claude-account-sync-aliases/ops-claude-account-sync-aliases.ops-command.ts b/command-system/ops-commands/pages/ops-claude-account-sync-aliases/ops-claude-account-sync-aliases.ops-command.ts
+deleted file mode 100644
+index 1bf83864f3e0b10d0b2ef7fea525cdd6303aba4a..0000000000000000000000000000000000000000
+--- a/command-system/ops-commands/pages/ops-claude-account-sync-aliases/ops-claude-account-sync-aliases.ops-command.ts
++++ /dev/null
+@@ -1,12 +0,0 @@
+-import type { OpsCommand } from "../../ops-command.page-type.ts"
+-
+-export const opsClaudeAccountSyncAliases = {
+-  id: "01a06904-5242-738d-a719-40e27a1d0891",
+-  pageTypeSlug: "ops-command",
+-  slug: "ops-claude-account-sync-aliases",
+-  definition: "the local alias snapshot rewritten from the account pages.",
+-  opsPath: "claude-account sync-aliases",
+-  opsEntryFile:
+-    "agents/claude-accounts/modules/alias-sync/claude-account-alias-sync.module.code.ts",
+-  opsHelp: "txt",
+-} as const satisfies OpsCommand
+diff --git a/machines/provisioning/scripts/provision-workstation/provision-workstation.shell-script.shell.sh b/machines/provisioning/scripts/provision-workstation/provision-workstation.shell-script.shell.sh
+old mode 100755
+new mode 100644
+index 3702ffba109136d8990131e6e51575fb351f2804..319a514fe9340ed6421b6427a27de2bc6bb46051
+--- a/machines/provisioning/scripts/provision-workstation/provision-workstation.shell-script.shell.sh
++++ b/machines/provisioning/scripts/provision-workstation/provision-workstation.shell-script.shell.sh
+@@ -162,11 +162,6 @@ else
+ fi
+ echo "    swap: $(swapon --show=NAME,SIZE,PRIO --noheadings | tr '\n' ' ')"
+ 
+-echo "==> Materializing Claude account alias snapshot (best-effort)..."
+-if ! (cd "$AKASHA" && bun ops claude-account sync-aliases) 2>/dev/null; then
+-  echo "    WARN: alias snapshot not written — run 'bun ops claude-account sync-aliases' once the akasha repo is in place." >&2
+-fi
+-
+ echo
+ echo "Done. Manual follow-up:"
+ echo "  - Ensure the kubeconfig, ~/.secrets.env, tailscale enrollment, and home symlinks"
+@@ -176,5 +171,3 @@ echo "    account page, which is their tracked source:"
+ echo "      akasha page-secret-reveal --file-path sms-core/telnyx-accounts/pages/outbound/outbound.telnyx-account.ts --key api-key"
+ echo "    and the from-number is stated on that page. Add each as"
+ echo "    'export KEY=value' (edit specific lines; never overwrite the file)."
+-echo "  - Once the akasha repo is in place, run 'bun ops claude-account sync-aliases' to"
+-echo "    rebuild ~/.claude/account-aliases.json (the cN shell aliases) from the account pages."
