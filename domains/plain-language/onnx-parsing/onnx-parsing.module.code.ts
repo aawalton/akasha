@@ -62,7 +62,10 @@ type Loaded = {
   maxBatchSentences: number
 }
 
-const MODEL_PAGE = new URL("../parser-models/pages/compact-parser.parser-model.ts", import.meta.url)
+const MODEL_PAGE = new URL(
+  "../parser-models/compact-parser/compact-parser.parser-model.ts",
+  import.meta.url
+)
 
 const DEFAULT_MAX_BATCH_SENTENCES = 16
 
