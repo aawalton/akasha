@@ -30,7 +30,8 @@ export const mobileCommands = {
     },
     {
       invariantKind: "departure",
-      statement: "A command here says what it did and the work itself is done by mobile-cli.",
+      statement:
+        "A command here says what that command did and the work itself is done by mobile-cli.",
     },
     {
       invariantKind: "absence",
