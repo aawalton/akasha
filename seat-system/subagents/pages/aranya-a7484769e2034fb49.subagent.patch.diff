@@ -1,3 +1,21 @@
+diff --git a/infrastructure/databases/database.domain.ts b/infrastructure/databases/database.domain.ts
+index 72d42a8a8dd8bc2b945ae42d790cb22b070962ef..d35803f213401af8d8149d74d667c8371ad011c8 100644
+--- a/infrastructure/databases/database.domain.ts
++++ b/infrastructure/databases/database.domain.ts
+@@ -6,7 +6,12 @@ export const database = {
+   slug: "database",
+   definition: "the queryable store",
+   pluralSlug: "databases",
+-  partSlugs: ["manifest/pgbouncer", "manifest/postgrest", "manifest/supabase-realtime"],
++  partSlugs: [
++    "manifest/pgbouncer",
++    "manifest/postgrest",
++    "manifest/supabase-realtime",
++    "manifest/supabase-studio",
++  ],
+   invariants: [
+     {
+       invariantKind: "departure",
 diff --git a/infrastructure/databases/supabase-studio/supabase-studio.manifest.ts b/infrastructure/databases/supabase-studio/supabase-studio.manifest.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..eb11611421328f276702259a9de1bc5dfdc9d15e
