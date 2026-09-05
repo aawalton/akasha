@@ -223,3 +223,15 @@ index 0000000000000000000000000000000000000000..f79f97d32886cf896838a014cde6ed98
 +    },
 +  ],
 +} as const satisfies RefactorChange
+diff --git a/changes/refactor-changes/refactor-change.page-type.ts b/changes/refactor-changes/refactor-change.page-type.ts
+index 62597741055923d479176146ad02ad70469e1a61..3826eed36ecd712856f3afa8637a6039c0cdb705 100644
+--- a/changes/refactor-changes/refactor-change.page-type.ts
++++ b/changes/refactor-changes/refactor-change.page-type.ts
+@@ -9,6 +9,7 @@ export const refactorChange = {
+   slug: "refactor-change",
+   definition: "a change built from atomic changes and other refactor changes",
+   pluralSlug: "refactor-changes",
++  partSlugs: ["refactor-change/rename-code-token"],
+   extendsSlug: ["page-type/module"],
+   invariants: [
+     {
