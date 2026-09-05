@@ -31,7 +31,8 @@ export const reaching = {
     },
     {
       invariantKind: "departure",
-      statement: "One key carried by two properties reaches each under the type carrying it.",
+      statement:
+        "One key carried by two properties reaches each under the type carrying that property.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +45,7 @@ export const reaching = {
     {
       invariantKind: "departure",
       statement:
-        "A value that narrows to more than one page is refused rather than resolved to one of them.",
+        "A value that narrows to more than one page is refused rather than resolved to one of those pages.",
     },
     {
       invariantKind: "departure",
