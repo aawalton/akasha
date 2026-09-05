@@ -35,7 +35,8 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
-      statement: "What a run added is its peak over what was resident when the run opened.",
+      statement:
+        "The memory a run added is that run's peak over the memory resident when the run opened.",
     },
     {
       invariantKind: "departure",
@@ -51,7 +52,7 @@ export const checkCost = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here refuses a check for what that check cost.",
+      statement: "Nothing here refuses a check for that check's cost.",
     },
     {
       invariantKind: "absence",
