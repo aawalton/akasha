@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/system-service/page-asking/page-asking.module.ts b/pages/system-service/page-asking/page-asking.module.ts
-index d7485de4941ea377ba02cb1fa83a34255640236a..7c115ec91d3d3251ee6dcc18b01630cd0712cd99 100644
+index d7485de4941ea377ba02cb1fa83a34255640236a..f40cf59806ee10870832f0964e95842420cdf731 100644
 --- a/pages/system-service/page-asking/page-asking.module.ts
 +++ b/pages/system-service/page-asking/page-asking.module.ts
 @@ -74,7 +74,7 @@ export const pageAsking = {
@@ -18,6 +18,15 @@ index d7485de4941ea377ba02cb1fa83a34255640236a..7c115ec91d3d3251ee6dcc18b01630cd
        invariantKind: "departure",
 -      statement: "What is skipped is skipped before what is taken is taken.",
 +      statement: "Rows are skipped before rows are taken.",
+     },
+     {
+       invariantKind: "departure",
+@@ -169,7 +169,7 @@ export const pageAsking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a page type declares is answered as its shape.",
++      statement: "The properties a page type declares are answered as its shape.",
      },
      {
        invariantKind: "departure",
