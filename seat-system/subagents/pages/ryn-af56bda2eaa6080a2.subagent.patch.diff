@@ -1,8 +1,8 @@
 diff --git a/editor-extension/status-bar-drawing/status-bar-drawing.module.ts b/editor-extension/status-bar-drawing/status-bar-drawing.module.ts
-index 6c1dffd202061ff06671e1d475d291bdb5d11ecd..8ec6baba04c18a2d378cd84cd700a4c133a623fe 100644
+index 6c1dffd202061ff06671e1d475d291bdb5d11ecd..99437ba595106a5ffe837e36dac698921e233fe9 100644
 --- a/editor-extension/status-bar-drawing/status-bar-drawing.module.ts
 +++ b/editor-extension/status-bar-drawing/status-bar-drawing.module.ts
-@@ -9,15 +9,15 @@ export const statusBarDrawing = {
+@@ -9,19 +9,19 @@ export const statusBarDrawing = {
    invariants: [
      {
        invariantKind: "departure",
@@ -18,6 +18,11 @@ index 6c1dffd202061ff06671e1d475d291bdb5d11ecd..8ec6baba04c18a2d378cd84cd700a4c1
        invariantKind: "departure",
 -      statement: "A stale slot keeps the text it last had.",
 +      statement: "A stale slot keeps the text that slot last had.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A stale slot says in its tooltip since when it has been stale.",
++      statement: "A stale slot says in its tooltip since when that slot has been stale.",
      },
      {
        invariantKind: "departure",
