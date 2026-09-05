@@ -1,0 +1,13 @@
+diff --git a/hook-system/shell-calls/shell-calls.module.code.ts b/hook-system/shell-calls/shell-calls.module.code.ts
+index 4908d0283878e352ab9efa0376a84d1ec15f12b0..9125209d6e93f8faddb7e7e99737b064dc5593c8 100644
+--- a/hook-system/shell-calls/shell-calls.module.code.ts
++++ b/hook-system/shell-calls/shell-calls.module.code.ts
+@@ -10,6 +10,8 @@ const LEADING_SPACE = /^\s+/
+ 
+ const CONTINUED = /\\\n/g
+ 
++const OPENING_A_BODY = /(?<!<)<<-?\s*(['"]?)([A-Za-z_][A-Za-z0-9_]*)\1/g
++
+ const ASSIGNMENT = /^[A-Za-z_][A-Za-z0-9_]*=/
+ 
+ const NUMBER = /^[0-9]/
