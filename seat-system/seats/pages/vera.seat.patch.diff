@@ -34,3 +34,16 @@ index 1c27dffef8a49f301aa8e244d54ac785f0fcbe4f..baf7610c0db656c19746582966b5bf29
      {
        invariantKind: "departure",
        statement: "The parts of a collection are themselves collections.",
+diff --git a/domains/findings/pages/a-collection-states-the-unit-of-a-length-it-carries-no-property-for.finding.ts b/domains/findings/pages/a-collection-states-the-unit-of-a-length-it-carries-no-property-for.finding.ts
+index 7fd039f889b3232228314bcbb0af7f7fea4bcf12..ceaf5cf5c684f5f653e6c44635cdbeab8ce004cf 100644
+--- a/domains/findings/pages/a-collection-states-the-unit-of-a-length-it-carries-no-property-for.finding.ts
++++ b/domains/findings/pages/a-collection-states-the-unit-of-a-length-it-carries-no-property-for.finding.ts
+@@ -4,7 +4,7 @@ export const aCollectionStatesTheUnitOfALengthItCarriesNoPropertyFor = {
+   id: "01a064c1-d029-7eb3-bc31-acad90dfd6d6",
+   pageTypeSlug: "finding",
+   slug: "a-collection-states-the-unit-of-a-length-it-carries-no-property-for",
+-  domainSlug: "domain/collection-system",
++  domainSlug: "page-type/collection",
+   claim:
+     "`collection` declares the unit a length is counted in and declares no length, so every kind of collection that measures itself has to define a length property of its own.",
+   evidence:
