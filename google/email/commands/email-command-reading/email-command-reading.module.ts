@@ -22,7 +22,7 @@ export const emailCommandReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A word alone fills the flag the command names for it.",
+      statement: "A word alone fills the flag the command names for that word.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +34,7 @@ export const emailCommandReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag that does not repeat is refused where it is said twice.",
+      statement: "A flag that does not repeat is refused where that flag is said twice.",
     },
     {
       invariantKind: "departure",
@@ -47,11 +47,12 @@ export const emailCommandReading = {
     },
     {
       invariantKind: "departure",
-      statement: "One call reads the input once, so two flags naming it are refused.",
+      statement: "One call reads the input once, so two flags naming that input are refused.",
     },
     {
       invariantKind: "departure",
-      statement: "Text read whole keeps its line endings and text read as a line loses them.",
+      statement:
+        "Text read whole keeps its line endings and text read as a line loses those line endings.",
     },
     {
       invariantKind: "departure",
@@ -63,7 +64,7 @@ export const emailCommandReading = {
     },
     {
       invariantKind: "departure",
-      statement: "What a command answers is JSON, one report line for each line of it.",
+      statement: "What a command answers is JSON, one report line for each line of that JSON.",
     },
     {
       invariantKind: "departure",
