@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/agree/monarch-agree.module.ts b/alan/harness/monarch/agree/monarch-agree.module.ts
+index dca2bf830a3a615f5dca08a277c7c3ee303f8208..ebe778584cfbd937dd80639069cedc86bbba560a 100644
+--- a/alan/harness/monarch/agree/monarch-agree.module.ts
++++ b/alan/harness/monarch/agree/monarch-agree.module.ts
+@@ -34,7 +34,7 @@ export const monarchAgree = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What settles the same way every run stands as the module's test rather than here.",
++        "A claim that settles the same way every run stands as the module's test rather than here.",
+     },
+     {
+       invariantKind: "absence",
