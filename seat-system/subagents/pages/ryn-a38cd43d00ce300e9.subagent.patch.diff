@@ -188,3 +188,35 @@ index 594b540a28f131ba03f6871ca4c7ddb147daaeac..2351e5067aca859feb3a8c001b6a6084
      {
        invariantKind: "departure",
        statement: "A sender given in angle brackets carries the name before the brackets.",
+diff --git a/pages/entry-landing/page-entry-landing.module.ts b/pages/entry-landing/page-entry-landing.module.ts
+index 1fe0f5bfba651fff4ca94798ac9e95f8ee85e6eb..857b588b215814c4dae1c4348e60ff6a0a7b99f0 100644
+--- a/pages/entry-landing/page-entry-landing.module.ts
++++ b/pages/entry-landing/page-entry-landing.module.ts
+@@ -49,10 +49,7 @@ export const pageEntryLanding = {
+       invariantKind: "departure",
+       statement: "A file's fill is read from that file's size rather than from that file's text.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "One value running past the ceiling alone is refused rather than divided.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement:
+diff --git a/story/wandering-inn/syncing/syncing.module.ts b/story/wandering-inn/syncing/syncing.module.ts
+index 723087cdf479f252c05173c77b58c6dc3ec4fc9d..70fd6342825601cc040148ff245aa8ee604fd98e 100644
+--- a/story/wandering-inn/syncing/syncing.module.ts
++++ b/story/wandering-inn/syncing/syncing.module.ts
+@@ -11,10 +11,7 @@ export const syncing = {
+       invariantKind: "departure",
+       statement: "The story the chapters are filed under is there before any chapter is read.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A chapter already filed is known by the link that chapter was filed under.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement:
