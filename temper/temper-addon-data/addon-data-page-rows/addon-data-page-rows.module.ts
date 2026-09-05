@@ -25,7 +25,7 @@ export const addonDataPageRows = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type answering fewer rows than it counts is refused.",
+      statement: "A page type answering fewer rows than that page type counts is refused.",
     },
     {
       invariantKind: "departure",
