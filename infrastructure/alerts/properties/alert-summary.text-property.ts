@@ -18,7 +18,7 @@ export const alertSummary = {
     },
     {
       invariantKind: "departure",
-      statement: "A template left unfilled is what an unraised alert reads as.",
+      statement: "An unraised alert reads as a template left unfilled.",
     },
   ],
 } as const satisfies TextProperty
