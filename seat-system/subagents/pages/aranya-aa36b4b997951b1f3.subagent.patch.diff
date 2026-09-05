@@ -1,0 +1,12 @@
+diff --git a/service-system/cluster-services/pages/seaweedfs-backup-longtail.cluster-service.ts b/service-system/cluster-services/pages/seaweedfs-backup-longtail.cluster-service.ts
+index 0da3288043614ad2a913167915a04136280f66c7..5471361276a3d7ea16bcdc465670b7c13c8127a5 100644
+--- a/service-system/cluster-services/pages/seaweedfs-backup-longtail.cluster-service.ts
++++ b/service-system/cluster-services/pages/seaweedfs-backup-longtail.cluster-service.ts
+@@ -10,6 +10,5 @@ export const seaweedfsBackupLongtail = {
+   resourceName: "seaweedfs-backup-longtail",
+   image: "registry.registry.svc.cluster.local:5000/cluster/postgres-gfs-promoter:r4",
+   schedule: "17 4 * * *",
+-  manifestCode:
+-    "infrastructure/backup-retention/seaweedfs-backup-longtail/seaweedfs-backup-longtail.cluster-service.code.attachment.ts",
++  manifestSlug: "seaweedfs-backup-longtail",
+ } as const satisfies ClusterService
