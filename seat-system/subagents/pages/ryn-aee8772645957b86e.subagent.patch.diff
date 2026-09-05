@@ -1,0 +1,13 @@
+diff --git a/ki/ki-seasons/ki-season.page-type.ts b/ki/ki-seasons/ki-season.page-type.ts
+index 45a0ae2a91f7534cd1a256a62eca5c3cb53f7c9f..7a151539bbe2e368796632879e51f4270b852907 100644
+--- a/ki/ki-seasons/ki-season.page-type.ts
++++ b/ki/ki-seasons/ki-season.page-type.ts
+@@ -13,7 +13,7 @@ export const kiSeason = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A season of Ki's names the show it is part of.",
++      statement: "A season of Ki's names the show that season is part of.",
+     },
+     {
+       invariantKind: "departure",
