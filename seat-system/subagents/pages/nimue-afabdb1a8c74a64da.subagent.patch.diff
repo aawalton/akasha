@@ -709,6 +709,62 @@ index ba8a3cf678c0b78abcb35a8bf9143517c448e31b..33dc8336e05512a0e966222e1107be33
  })
  
  test("a name that is no page type is refused rather than answered empty", () => {
+diff --git a/pages/system-service/page-asking/page-asking.module.ts b/pages/system-service/page-asking/page-asking.module.ts
+index 76daf67ae903fcdabfe6fc77b75e8f42512960cc..cdf143a0517bd3e1eb21a32a43bc5366ec8455ba 100644
+--- a/pages/system-service/page-asking/page-asking.module.ts
++++ b/pages/system-service/page-asking/page-asking.module.ts
+@@ -14,11 +14,23 @@ export const pageAsking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The pages of that type are read from the index.",
++      statement: "The pages of that page type and of every page type extending it are answered.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page type no page is filed under is answered empty.",
++      statement: "A page type extending it is reached however far below it that page type is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A row carries the page type its own page states rather than the one named.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Those pages are read from the index.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page type nothing extends that no page is filed under is answered empty.",
+     },
+     {
+       invariantKind: "departure",
+@@ -80,7 +92,11 @@ export const pageAsking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A formula the page type declares is worked out over every page answered.",
++      statement: "A formula is worked out over every page answered.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A formula over one page is the one that page's own page type declares.",
+     },
+     {
+       invariantKind: "departure",
+@@ -100,7 +116,11 @@ export const pageAsking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A calculation the page type declares is worked out over every page answered.",
++      statement: "A calculation is worked out over every page answered.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A calculation over one page is the one that page's own page type declares.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/system-service/pages-system-service.workspace-package.ts b/pages/system-service/pages-system-service.workspace-package.ts
 index aa770427c2c12737ad63b16446248c601195f6ca..b44f6a5a38ee47c2f9bbfda3c44cb3bdd68a9754 100644
 --- a/pages/system-service/pages-system-service.workspace-package.ts
