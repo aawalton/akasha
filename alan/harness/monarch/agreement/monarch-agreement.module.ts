@@ -4,7 +4,7 @@ export const monarchAgreement = {
   id: "01a06863-ac0b-7070-8802-ece61d5b73b6",
   pageTypeSlug: "module",
   slug: "monarch-agreement",
-  definition: "our copy of Monarch counted against Monarch, and the record filed where they part",
+  definition: "our copy of Monarch counted against Monarch, and where the two part",
   code: "ts",
   invariants: [
     {
@@ -27,18 +27,12 @@ export const monarchAgreement = {
         "A transaction naming no category counts as uncategorized alongside one naming the uncategorized page.",
     },
     {
-      invariantKind: "departure",
-      statement: "A record is filed only where the counts part.",
+      invariantKind: "absence",
+      statement: "Nothing here files a record of a disagreement or keeps what it last said.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "The same disagreement is filed once rather than every run, judged against the last body filed.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A record that fails to file is said rather than thrown, so the reading still stands.",
+      invariantKind: "gap",
+      statement: "A disagreement reaches somebody who can act on it.",
     },
     {
       invariantKind: "departure",

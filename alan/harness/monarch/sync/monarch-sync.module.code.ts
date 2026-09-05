@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import { RECORD_TO, reportAgreement } from "../agreement/monarch-agreement.module.code.ts"
+import { reportAgreement } from "../agreement/monarch-agreement.module.code.ts"
 import { categorizeRecent } from "../categorize-recent/monarch-categorize-recent.module.code.ts"
 import type {
   MonarchHolding,
@@ -113,7 +113,7 @@ export async function sync(options: { readonly incremental: boolean }): Promise<
 
   console.log("--- our copy against Monarch ---")
   try {
-    await reportAgreement(RECORD_TO)
+    await reportAgreement()
   } catch (error) {
     console.error("  could not compare our copy against Monarch:", error)
   }

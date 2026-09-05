@@ -5,14 +5,6 @@ import { monarchHeaders } from "../credential/monarch-credential.module.code.ts"
 import { categoryPages, readAllTransactions } from "../files/monarch-files.module.code.ts"
 import { UNCATEGORIZED } from "../transaction/monarch-transaction.module.code.ts"
 
-function lastReported(): string {
-  const home = process.env.HOME
-  if (home === undefined || home === "") {
-    throw new Error("$HOME is unset, so nothing says where the last record filed stands")
-  }
-  return `${home}/.cache/monarch-agreement.json`
-}
-
 export interface Reading {
   readonly what: string
   readonly monarch: number
@@ -89,59 +81,23 @@ function line(r: Reading): string {
   return `${r.what}: Monarch ${r.monarch}, our copy ${r.mirror} (${r.mirror - r.monarch >= 0 ? "+" : ""}${r.mirror - r.monarch})`
 }
 
-async function alreadyReported(body: string): Promise<boolean> {
-  const at = lastReported()
-  try {
-    return (await Bun.file(at).text()) === body
-  } catch {
-    return false
-  }
+export async function reportAgreement(): Promise<readonly Reading[]> {
+  return report(await agreement())
 }
 
-export async function reportAgreement(recordTo: string): Promise<readonly Reading[]> {
-  return report(await agreement(), recordTo)
-}
-
-export async function report(
-  readings: readonly Reading[],
-  recordTo: string
-): Promise<readonly Reading[]> {
+export function report(readings: readonly Reading[]): readonly Reading[] {
   for (const r of readings) console.log(`  ${line(r)}`)
   const parted = disagreements(readings)
   if (parted.length === 0) return parted
-
-  const body =
-    "Our copy of Monarch has stopped agreeing with Monarch.\n\n" +
-    parted.map((r) => `- ${line(r)}`).join("\n") +
-    "\n\nCounted by the monarch-agreement module after a sync, over every transaction either " +
-    "side holds. Both home-screen rings draw off our copy, so a difference here is a " +
-    "number Alan and Jenny are reading as true. the monarch-reconcile module retires what " +
-    "Monarch no longer lists, and a split parent was what parted them last (#18176)."
-  if (await alreadyReported(body)) {
-    console.log("  (unchanged since the last record filed, so no second one)")
-    return parted
-  }
-  await Bun.write(lastReported(), body)
-  const child = Bun.spawn(["ops", "seat", "record", recordTo, "--content-file", "-"], {
-    stdin: new TextEncoder().encode(body),
-    stdout: "pipe",
-    stderr: "pipe",
-  })
-  if ((await child.exited) !== 0) {
-    console.error(
-      `  filing a record for ${recordTo} failed: ${await new Response(child.stderr).text()}`
-    )
-  } else {
-    console.log(`  filed a record for ${recordTo}`)
-  }
+  console.log(
+    `  our copy and Monarch part on ${parted.length} of the three counts, and nothing carries that anywhere`
+  )
   return parted
 }
 
-export const RECORD_TO = "amy"
-
 if (import.meta.main) {
   console.log("--- our copy against Monarch ---")
-  const parted = await reportAgreement(RECORD_TO)
+  const parted = await reportAgreement()
   if (parted.length > 0) process.exit(1)
   console.log("  agreed on all three")
 }
