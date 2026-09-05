@@ -9,19 +9,19 @@ export const statusBarDrawing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reading that answered is fresh at the moment it answered.",
+      statement: "A reading that answered is fresh at the moment that reading answered.",
     },
     {
       invariantKind: "departure",
-      statement: "A reading that failed is stale and keeps the moment it was last fresh.",
+      statement: "A reading that failed is stale and keeps the moment that reading was last fresh.",
     },
     {
       invariantKind: "departure",
-      statement: "A stale slot keeps the text it last had.",
+      statement: "A stale slot keeps the text that slot last had.",
     },
     {
       invariantKind: "departure",
-      statement: "A stale slot says in its tooltip since when it has been stale.",
+      statement: "A stale slot says in its tooltip since when that slot has been stale.",
     },
     {
       invariantKind: "departure",
