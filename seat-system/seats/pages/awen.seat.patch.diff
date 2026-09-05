@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts
-index 7146397adbe4fe5b246e172063825e660d61811b..4d4305ad94121ed89b214ef6c4c34f994cefc500 100644
+index 7146397adbe4fe5b246e172063825e660d61811b..8636966b689f694eef9faaa3415a5960debf6f54 100644
 --- a/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts
 +++ b/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts
 @@ -11,6 +11,8 @@ import {
@@ -22,6 +22,47 @@ index 7146397adbe4fe5b246e172063825e660d61811b..4d4305ad94121ed89b214ef6c4c34f99
  const CONFIG_NAME = "tsconfig.typecheck.json"
  
  const TYPES_AT = "node_modules/@types"
+@@ -214,11 +220,38 @@ export function foundOf(root: string, said: Diagnosed): Found {
+   }
+ }
+ 
++type Configured = {
++  readonly include?: readonly string[]
++}
++
++export function matching(one: string): RegExp {
++  const held = one.replace(/[.+^${}()|[\]\\]/g, "\\$&")
++  const said = held.replace(/\*\*\/|\*/g, (each) => (each === "*" ? "[^/]*" : "(?:.*/)?"))
++  return new RegExp(`^${said}$`)
++}
++
++export function claimedIn(change: Change, index: Answering): (path: string) => boolean {
++  const held: RegExp[] = []
++  for (const one of index.everyPath()) {
++    if (!one.endsWith(LIBRARY)) continue
++    const folder = dirname(one)
++    for (const name of CONFIGS) {
++      const bytes = change.after(join(folder, name))
++      if (bytes === null) continue
++      const said = JSON.parse(textIn(bytes)) as Configured
++      for (const each of said.include ?? []) held.push(matching(join(folder, each)))
++    }
++  }
++  return (path) => held.some((one) => one.test(path))
++}
++
+ export async function foundIn(change: Change, shadow: Shadow): Promise<readonly Found[]> {
+-  const roots = rootsOf(change, shadow.index)
++  const claimed = claimedIn(change, shadow.index)
++  const roots = rootsOf(change, shadow.index).filter((one) => !claimed(one))
+   if (roots.length === 0) return []
+   const root = resolve(change.root)
+-  const named = [...new Set([...roots, ...declaringIn(change, shadow.index)])]
++  const declared = declaringIn(change, shadow.index).filter((one) => !claimed(one))
++  const named = [...new Set([...roots, ...declared])]
+   const read = bodiesOf(change, mintingIn(change, [...waitingKeys(shadow)], shadow.index))
+   const at = join(root, CONFIG_NAME)
+   const config = configOf(root, named)
 diff --git a/code-system/package.json b/code-system/package.json
 index 7300bc81a9f458e9c8bf7b9482ade0de796ffd7c..428a2f46ff909d20d6fdbd1070345ccf3c26e136 100644
 --- a/code-system/package.json
