@@ -1,0 +1,58 @@
+diff --git a/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.test.ts b/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.test.ts
+index eac319141ba75c230e6403dbc341fb883e2a6308..a162365e55d21b29a2f07ae3f08ca988760658c3 100644
+--- a/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.test.ts
++++ b/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.test.ts
+@@ -51,12 +51,12 @@ test("a path spelled through a parent still lands inside", () => {
+   expect(said).not.toBeNull()
+ })
+ 
+-test("a Read outside akasha stands", () => {
++test("a Read outside akasha is let through", () => {
+   const root = worldAt()
+   expect(refusalIn(join(root, "outside", "held.ts"), root, root)).toBeNull()
+ })
+ 
+-test("the index is no page, so a Read of .git/data stands", () => {
++test("the index is no page, so a Read of .git/data is let through", () => {
+   const root = worldAt()
+   mkdirSync(join(root, ".git", "data"), { recursive: true })
+   writeFileSync(join(root, ".git", "data", "one.jsonl"), "{}\n")
+diff --git a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts b/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts
+index c5a83597e843954f4b76ca76429bd36998a3c8c3..6a98d4ca07dfbc877741d4b3a6f064087242cfec 100644
+--- a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts
++++ b/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts
+@@ -186,7 +186,7 @@ export const SCOPE: readonly string[] = [
+   "not name, and a longer list is a longer search prompt. A gap found here is evidence that",
+   "this guard cannot close its class, not an invitation to extend it.",
+   "",
+-  `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this stands:`,
++  `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this sits:`,
+   "it is what the program says about itself, held as text it prints rather than as a comment.",
+ ]
+ 
+diff --git a/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.code.ts b/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.code.ts
+index ae479851f2cd91d32ea989732f3f4c9407a94a85..5205147349bbdd9e5ea9dee8337836bd5604973e 100644
+--- a/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.code.ts
++++ b/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.code.ts
+@@ -141,7 +141,7 @@ export const SCOPE: readonly string[] = [
+   "not name, and a longer list is a longer search prompt. A gap found here is evidence that",
+   "this guard cannot close its class, not an invitation to extend it.",
+   "",
+-  `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this stands:`,
++  `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this sits:`,
+   "it is what the program says about itself, held as text it prints rather than as a comment.",
+ ]
+ 
+diff --git a/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.test.ts b/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.test.ts
+index 75383959a75dbe35dfacd935881f4ad7a02e5736..68ace94bf3cac1046fa301b1abf3196b5ead7830 100644
+--- a/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.test.ts
++++ b/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.test.ts
+@@ -100,7 +100,7 @@ test("a program whose name merely carries tsc is let through", () => {
+   for (const one of ["tsconfig", "vue-tsc --noEmit", "echo tsc"]) expect(judged(one)).toBeNull()
+ })
+ 
+-test("a refusal answers the whole call, wherever it stands in the chain", () => {
++test("a refusal answers the whole call, wherever it is in the chain", () => {
+   expect(judged("ls && tsc --noEmit")).not.toBeNull()
+   expect(judged("tsc --noEmit ; echo done")).not.toBeNull()
+ })
