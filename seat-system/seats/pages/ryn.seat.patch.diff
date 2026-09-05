@@ -1,5 +1,5 @@
 diff --git a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
-index 32007c6f695cfc657a3789129d6e7d80742f67fe..9d0538b3eca5b761ffe9bc1651f030dc7c5a33f8 100644
+index 32007c6f695cfc657a3789129d6e7d80742f67fe..061947fe0d6efd475f30b94263a4cca540836535 100644
 --- a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
 +++ b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
 @@ -1,5 +1,10 @@
@@ -14,3 +14,12 @@ index 32007c6f695cfc657a3789129d6e7d80742f67fe..9d0538b3eca5b761ffe9bc1651f030dc
  
  export type Match = {
    readonly at: readonly number[]
+@@ -12,6 +17,8 @@ const SLOTS = ["nmod", "root"]
+ const RELATIVE = ["which", "who", "whom", "whose"]
+ const DEMONSTRATIVE = ["this", "that", "these", "those"]
+ const SUMMING = ["both", "each", "either", "neither"]
++const DEGREE = ["all", "least", "most"]
++const MARKERS = ["advmod", "case", "cc", "det", "fixed", "punct"]
+ const OPENERS = ["SCONJ", "CCONJ"]
+ const QUANTIFIER = [
+   "all",
