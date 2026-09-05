@@ -1,5 +1,5 @@
 diff --git a/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts b/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts
-index 9b686e951bf0a346d109502b81e44199d9276f4e..e934e9374d1428f5d2ef485415d07730648a4b70 100644
+index 9b686e951bf0a346d109502b81e44199d9276f4e..c065a14e9b7b807740d76cb9685b688084c19382 100644
 --- a/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts
 +++ b/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts
 @@ -9,7 +9,7 @@ export const violationReporting = {
@@ -17,6 +17,16 @@ index 9b686e951bf0a346d109502b81e44199d9276f4e..e934e9374d1428f5d2ef485415d07730
        invariantKind: "departure",
 -      statement: "The shortfall is said after the violations rather than before them.",
 +      statement: "The shortfall is said after the violations rather than before those violations.",
+     },
+     {
+       invariantKind: "departure",
+@@ -42,7 +42,8 @@ export const violationReporting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A violation is said as file, line and message where the violation carries them.",
++      statement:
++        "A violation is said as file, line and message where the violation carries file, line and message.",
      },
      {
        invariantKind: "departure",
