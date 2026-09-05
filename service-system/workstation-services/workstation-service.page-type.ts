@@ -87,7 +87,7 @@ export const workstationService = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A workstation service runs the code as the code stands in the repository.",
+      statement: "A workstation service runs the code as the code is in the repository.",
     },
     {
       invariantKind: "departure",

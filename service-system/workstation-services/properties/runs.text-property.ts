@@ -13,7 +13,7 @@ export const runs = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The commands start in the order the commands stand in.",
+      statement: "The commands start in the order the commands are in.",
     },
     {
       invariantKind: "departure",

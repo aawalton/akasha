@@ -21,7 +21,7 @@ export const binds = {
     },
     {
       invariantKind: "departure",
-      statement: "A name standing here is resolved when the service starts.",
+      statement: "A name here is resolved when the service starts.",
     },
     {
       invariantKind: "departure",

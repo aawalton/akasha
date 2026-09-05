@@ -7,7 +7,7 @@ export const needsSecrets = {
   pageTypeSlug: "boolean-property",
   slug: "needs-secrets",
   propertySlug: "needs-secrets",
-  definition: "whether a service is handed the secrets standing in the home directory",
+  definition: "whether a service is handed the secrets in the home directory",
   invariants: [
     {
       invariantKind: "departure",

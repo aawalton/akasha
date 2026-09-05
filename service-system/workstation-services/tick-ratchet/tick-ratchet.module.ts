@@ -4,7 +4,7 @@ export const tickRatchet = {
   id: "01a06885-0bab-7001-9235-a701e25dd098",
   pageTypeSlug: "module",
   slug: "tick-ratchet",
-  definition: "the run of throws a standing service is allowed before it has to end",
+  definition: "the run of throws a service that keeps running is allowed before it has to end",
   code: "ts",
   test: "ts",
   invariants: [

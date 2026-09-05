@@ -78,7 +78,7 @@ export const systemd = {
     },
     {
       invariantKind: "departure",
-      statement: "What a timer states stands here beside what a service states.",
+      statement: "What a timer states sits here beside what a service states.",
     },
     {
       invariantKind: "stopgap",

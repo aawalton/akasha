@@ -4,7 +4,7 @@ export const tickSleeping = {
   id: "01a0686a-7a57-7c23-b825-02e6e8625bad",
   pageTypeSlug: "module",
   slug: "tick-sleeping",
-  definition: "the wait between one tick of a standing service and the next",
+  definition: "the wait between one tick of a service that keeps running and the next",
   code: "ts",
   invariants: [
     {
@@ -21,7 +21,7 @@ export const tickSleeping = {
     },
     {
       invariantKind: "departure",
-      statement: "SIGTERM and SIGINT both ask a standing service to stop.",
+      statement: "SIGTERM and SIGINT both ask a service that keeps running to stop.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const tickSleeping = {
     {
       invariantKind: "absence",
       statement:
-        "No standing service writes this wait for itself, so no two of them drift on how a stop is honoured.",
+        "No service that keeps running writes this wait for itself, so no two of them drift on how a stop is honoured.",
     },
   ],
 } as const satisfies Module
