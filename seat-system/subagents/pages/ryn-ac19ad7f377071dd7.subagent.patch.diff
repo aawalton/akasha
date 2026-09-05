@@ -1,0 +1,13 @@
+diff --git a/commands/zimage/zimage.command.ts b/commands/zimage/zimage.command.ts
+index 0a14725f4a6c7f83d8818f813f9173c79d2085e7..c2d42da00ddefa79bc4ea7394f52ce1ad9f11348 100644
+--- a/commands/zimage/zimage.command.ts
++++ b/commands/zimage/zimage.command.ts
+@@ -32,8 +32,6 @@ export const zimage = {
+   helpNotes: [
+     "the act is the first word, and this carries one act.",
+     "the flags are the ones mflux-generate takes, so a rig aimed at this renders through it with no change to how the rig calls.",
+-    "a model nothing registers is refused, naming the models there are.",
+-    "the steps and the guidance nothing named come off the named model's own profile.",
+     "a checkpoint is staged into the container's LoRA volume under a name the path it came from is hashed into, and mixed in for this render alone.",
+     "one checkpoint is rendered against, and a comma list of them is refused.",
+     "a seed nothing named is drawn.",
