@@ -1,3 +1,16 @@
+diff --git a/pages/indexes/indexes.workspace-package.ts b/pages/indexes/indexes.workspace-package.ts
+index 541aa8aa045eefc3b7e21b8cf3c435d3a9b1200f..adde1712d2cbde8664e9ab6af2d40b03a9abc345 100644
+--- a/pages/indexes/indexes.workspace-package.ts
++++ b/pages/indexes/indexes.workspace-package.ts
+@@ -18,6 +18,8 @@ export const indexes = {
+     "module/indexing",
+     "module/index-reading",
+     "module/index-surface",
++    "module/index-stamp",
++    "module/index-stamp",
+     "module/generated-properties",
+     "module/reaching",
+     "module/rebuilding",
 diff --git a/pages/indexes/stamp/index-stamp.module.code.ts b/pages/indexes/stamp/index-stamp.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..f7b1167a0d46643ffaaa93d7bfb416e575423634
