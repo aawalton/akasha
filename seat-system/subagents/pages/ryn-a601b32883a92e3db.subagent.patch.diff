@@ -1,0 +1,13 @@
+diff --git a/ki/ki-shows/ki-show.page-type.ts b/ki/ki-shows/ki-show.page-type.ts
+index 38006a9ef52e7787b4bb3875221eea7ca4b17342..4a7fcc5f5ec7935f355f7d9b3606c4f55fcf581d 100644
+--- a/ki/ki-shows/ki-show.page-type.ts
++++ b/ki/ki-shows/ki-show.page-type.ts
+@@ -13,7 +13,7 @@ export const kiShow = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A show of Ki's names the seasons it holds.",
++      statement: "A show of Ki's names the seasons that show holds.",
+     },
+     {
+       invariantKind: "departure",
