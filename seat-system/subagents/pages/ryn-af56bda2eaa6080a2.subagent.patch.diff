@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/supervising/mcp-disable-reconcile/mcp-disable-reconcile.module.ts b/seat-system/supervising/mcp-disable-reconcile/mcp-disable-reconcile.module.ts
+index f99983daee8f7e45541097af6731332da0b2baa6..840037803853dfe52460dc1d4562c5421971a493 100644
+--- a/seat-system/supervising/mcp-disable-reconcile/mcp-disable-reconcile.module.ts
++++ b/seat-system/supervising/mcp-disable-reconcile/mcp-disable-reconcile.module.ts
+@@ -30,7 +30,8 @@ export const mcpDisableReconcile = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A configuration is rewritten keeping whether it ended in a newline.",
++      statement:
++        "A configuration is rewritten keeping whether that configuration ended in a newline.",
+     },
+   ],
+ } as const satisfies Module
