@@ -1,0 +1,13 @@
+diff --git a/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts b/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts
+index c0316ff98eb29c5838fd022bbdd416251c7f3651..42c22e730f550a3e1ef115b864a61827aa745962 100644
+--- a/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts
++++ b/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts
+@@ -29,7 +29,7 @@ export const royalRoadSyncing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A chapter royal road hides or keeps locked is left where it is.",
++      statement: "A chapter royal road hides or keeps locked is left where that chapter is.",
+     },
+     {
+       invariantKind: "departure",
