@@ -1,0 +1,14 @@
+diff --git a/alan/harness/monarch/eval-run/monarch-eval-run.module.ts b/alan/harness/monarch/eval-run/monarch-eval-run.module.ts
+index 5c3ba4f285a47527b4725d402975bde6032b1025..a8cc5237656de18ab2541d962d0ed95abd833c41 100644
+--- a/alan/harness/monarch/eval-run/monarch-eval-run.module.ts
++++ b/alan/harness/monarch/eval-run/monarch-eval-run.module.ts
+@@ -14,8 +14,7 @@ export const monarchEvalRun = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A run file's path is never defaulted to somewhere plausible, because the holdout guard reads a misplaced file as a set never seen.",
++      statement: "A run file's path is never defaulted to somewhere plausible.",
+     },
+     {
+       invariantKind: "departure",
