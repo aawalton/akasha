@@ -45,5 +45,9 @@ export const rynTrainedParser = {
     "A relative `that` is not a lone pronoun.",
     "Alan is shown one thing at a time.",
     "A sentence shape is put to Alan only where it is proposed for acceptance.",
+    "A remediation change is landed as restated rather than as authored.",
+    "A remediation landing carries one file, so agents contend on the gate rather than on each other.",
+    "Twenty agents remediate at once.",
+    "A statement an agent cannot rewrite is left as it is and handed back to ryn.",
   ],
 } as const satisfies Initiative
