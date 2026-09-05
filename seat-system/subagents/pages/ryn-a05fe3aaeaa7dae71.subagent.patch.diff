@@ -1,0 +1,13 @@
+diff --git a/commands/dev-server/dev-server.command.ts b/commands/dev-server/dev-server.command.ts
+index 8087938bcdeaede211370298f7ba46937398f017..c8c94b145509d040a53c8e9251e89402333e34eb 100644
+--- a/commands/dev-server/dev-server.command.ts
++++ b/commands/dev-server/dev-server.command.ts
+@@ -54,7 +54,7 @@ export const devServer = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A start refuses a server already running rather than replacing it.",
++      statement: "A start refuses a server already running rather than replacing that server.",
+     },
+     {
+       invariantKind: "departure",
