@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/indexes/entries/index-entries.module.ts b/pages/indexes/entries/index-entries.module.ts
+index 57db5b0d8ea81788e55d9b708358030da7103c9b..396cc3895783ff1a15b92a121fb9cc7c537ced6d 100644
+--- a/pages/indexes/entries/index-entries.module.ts
++++ b/pages/indexes/entries/index-entries.module.ts
+@@ -39,7 +39,8 @@ export const indexEntries = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "That file is claimed from the page's type rather than from what the page states.",
++      statement:
++        "That file is claimed from the page's type rather than from the values the page states.",
+     },
+     {
+       invariantKind: "departure",
