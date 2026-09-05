@@ -183,8 +183,16 @@ test("a path the change takes away is passed over", () => {
 
 test("no path is exempt by where it sits, the akasha folder being the repository root", () => {
   const root = rooted()
-  const said = judged(arriving(root, ["dotfiles/bin/akasha", "README.md"]))
-  expect(said.map((one) => one.path)).toEqual(["dotfiles/bin/akasha", "README.md"])
+  const said = judged(
+    arriving(root, [
+      "machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh",
+      "README.md",
+    ])
+  )
+  expect(said.map((one) => one.path)).toEqual([
+    "machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh",
+    "README.md",
+  ])
 })
 
 test("a page named for a page type nothing knows still claims the path it stands at", () => {

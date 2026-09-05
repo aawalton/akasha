@@ -211,7 +211,15 @@ test("an index entry pointing at a page whose body will not load raises nothing"
 
 test("a path outside the akasha folder is passed over", () => {
   const root = rooted()
-  expect(judged(over(root, ["dotfiles/bin/akasha"], {}))).toEqual([])
+  expect(
+    judged(
+      over(
+        root,
+        ["machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh"],
+        {}
+      )
+    )
+  ).toEqual([])
 })
 
 test("a page is judged once, whether the change names the page, the file, or both", () => {

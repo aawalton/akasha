@@ -16,4 +16,7 @@ export const SEAT_START_DIR = "$HOME/repos"
 
 export const SEAT_RESUME = `"$_root/${SEAT_RESUME_REL}"`
 
-export const AKASHA = `"${ROOT}/dotfiles/bin/akasha"`
+const AKASHA_REL =
+  "machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh"
+
+export const AKASHA = `"${ROOT}/${AKASHA_REL}"`
