@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/temper/temper-addon-data/addon-data-writes-scribing/addon-data-writes-scribing.module.ts b/temper/temper-addon-data/addon-data-writes-scribing/addon-data-writes-scribing.module.ts
+index ad7321e30b6d9cccc373d4e67eff3e08a4bce61c..5f0c49f673674bc036263315cda0621fdf3a50b4 100644
+--- a/temper/temper-addon-data/addon-data-writes-scribing/addon-data-writes-scribing.module.ts
++++ b/temper/temper-addon-data/addon-data-writes-scribing/addon-data-writes-scribing.module.ts
+@@ -14,7 +14,8 @@ export const addonDataWritesScribing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A section takes the pages it is handed whether or not the section reads them.",
++      statement:
++        "A section takes the pages that section is handed whether or not the section reads those pages.",
+     },
+   ],
+ } as const satisfies Module
