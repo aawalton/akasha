@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts b/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts
+index 889d9d0a5bd5706180e53320630306b801df1787..af88ec35bf2dcbc2083ab98b7bbf1542bbd60231 100644
+--- a/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts
++++ b/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts
+@@ -33,7 +33,8 @@ export const claudeAccountCredentialFile = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A refresh takes what the account's page holds and asks nothing of the network.",
++      statement:
++        "A refresh takes the credential the account's page holds and asks nothing of the network.",
+     },
+     {
+       invariantKind: "departure",
