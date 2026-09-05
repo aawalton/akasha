@@ -295,6 +295,55 @@ index 0000000000000000000000000000000000000000..63024ba696b846bccb62c33d9efc417c
 +} as const satisfies SelectProperty
 +
 +export type Holds = (typeof holds.values)[number]
+diff --git a/pages/computing/page-computing.module.code.ts b/pages/computing/page-computing.module.code.ts
+index 9f4da887b18e838707b3a2ba2b1d78bd27451ddf..5a0e745436b59709550c38deaf5a362c1ff29c6f 100644
+--- a/pages/computing/page-computing.module.code.ts
++++ b/pages/computing/page-computing.module.code.ts
+@@ -13,16 +13,10 @@ export type Computed = {
+   readonly work: Work<Held, unknown>
+ }
+ 
+-export type Unready = {
+-  readonly key: string
+-  readonly why: string
+-}
+-
+ export type Subject = {
+   readonly id: string
+   readonly value: Held
+   readonly computed: readonly Computed[]
+-  readonly unready?: readonly Unready[]
+ }
+ 
+ export type Source = {
+@@ -60,8 +54,8 @@ function faultIn(thrown: unknown): string {
+   return thrown instanceof Error ? thrown.message : String(thrown)
+ }
+ 
+-// A number that is not finite is no reading akasha keeps: a formula reads one as absent, a
+-// query narrows one away, and `JUDGED.number` above refuses a calculation that answers one.
++// A number that is not finite is no reading akasha keeps: a query narrows one away, and
++// `JUDGED.number` above refuses a calculation that answers one.
+ // So one a page carries is left off the page a calculation is handed, and the calculation
+ // meets absent where it would otherwise meet Infinity or NaN.
+ function presentIn(value: Held): Held {
+@@ -131,16 +125,6 @@ export function computingOver(source: Source): Computing {
+         get: () => heldBy(subject, one, view),
+       })
+     }
+-    for (const one of subject.unready ?? []) {
+-      if (Object.hasOwn(view, one.key)) continue
+-      Object.defineProperty(view, one.key, {
+-        enumerable: false,
+-        configurable: true,
+-        get: () => {
+-          throw new Error(one.why)
+-        },
+-      })
+-    }
+     views.set(slug, view)
+     return view
+   }
 diff --git a/pages/formula-properties/formula-property.page-type.ts b/pages/formula-properties/formula-property.page-type.ts
 deleted file mode 100644
 index 5baba743503dd2b2aeda57ad8c1d69ae69b5893c..0000000000000000000000000000000000000000
