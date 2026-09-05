@@ -51,3 +51,23 @@ index 8940004ab89b837e89762e011715c46c96738760..00000000000000000000000000000000
 -  holds: "number",
 -  formula: "{strength-volume} / 7",
 -} as const satisfies FormulaProperty
+diff --git a/alan/tracking/daily/wake-days/wake-day.page-type.ts b/alan/tracking/daily/wake-days/wake-day.page-type.ts
+index 88c341ae41fc31b0326e8347a0d4cf9edd0f32be..524bfbbce29ab012273a526ef7c6332e3c2da39b 100644
+--- a/alan/tracking/daily/wake-days/wake-day.page-type.ts
++++ b/alan/tracking/daily/wake-days/wake-day.page-type.ts
+@@ -92,6 +92,7 @@ export const wakeDay = {
+     "boolean-property/inbox-temper-tasks-cleared-today",
+     "boolean-property/inbox-texts-cleared-today",
+     "boolean-property/spanned-from-day-boundary",
++    "computed-property/strength-calories",
+     "formula-property/activity-calories",
+     "formula-property/faith-level",
+     "formula-property/faith-stoplight",
+@@ -104,7 +105,6 @@ export const wakeDay = {
+     "formula-property/love-level",
+     "formula-property/love-stoplight",
+     "formula-property/stoplights",
+-    "formula-property/strength-calories",
+     "formula-property/total-level",
+     "formula-property/wealth-level",
+     "formula-property/wealth-stoplight",
