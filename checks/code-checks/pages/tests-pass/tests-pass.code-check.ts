@@ -41,7 +41,7 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement: "A run reaching fewer files than it named has failed.",
+      statement: "A run reaching fewer files than that run named has failed.",
     },
     {
       invariantKind: "departure",
