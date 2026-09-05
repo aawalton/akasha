@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/checks/checks.workspace-package.ts b/checks/checks.workspace-package.ts
-index 75cc4baf82fab4582022f3c3cc2f41fe1508b711..b545569cb2bc952b667b70422cd6b7c062fbcd8f 100644
+index 75cc4baf82fab4582022f3c3cc2f41fe1508b711..b827a3112351951747453ec6d85be94a7213f2a2 100644
 --- a/checks/checks.workspace-package.ts
 +++ b/checks/checks.workspace-package.ts
 @@ -50,23 +50,23 @@ export const checks = {
@@ -32,12 +32,17 @@ index 75cc4baf82fab4582022f3c3cc2f41fe1508b711..b545569cb2bc952b667b70422cd6b7c0
      },
      {
        invariantKind: "upkeep",
-@@ -74,7 +74,7 @@ export const checks = {
+@@ -74,11 +74,11 @@ export const checks = {
      },
      {
        invariantKind: "departure",
 -      statement: "An input wider than what the answer rests on costs a run that finds nothing.",
 +      statement: "An input wider than the answer rests on costs a run that finds nothing.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An input narrower than what the answer rests on loses a refusal for good.",
++      statement: "An input narrower than the answer rests on loses a refusal for good.",
      },
      {
        invariantKind: "departure",
