@@ -100,3 +100,15 @@ index 3516cad23bfd54c2bbe6603e58a3ce3443006055..7679fe452c1d4da4dce956fa462ff3b4
    "dependencies": {
      "@akasha/browser-test-harness": "workspace:*",
      "@akasha/code-system": "workspace:*",
+diff --git a/seat-system/supervising/supervisor-mcp/supervisor-mcp.module.code.ts b/seat-system/supervising/supervisor-mcp/supervisor-mcp.module.code.ts
+index 163a6cfd9e8252ab23f47f6176cefdeaa9630585..b8ec350723027eccc981746544350d0ba3459ea0 100644
+--- a/seat-system/supervising/supervisor-mcp/supervisor-mcp.module.code.ts
++++ b/seat-system/supervising/supervisor-mcp/supervisor-mcp.module.code.ts
+@@ -12,7 +12,6 @@ import {
+   classifyPlaywrightStorageState,
+   RefreshedTokensSchema,
+ } from "@akasha/browser-test-harness/storage-state-reading"
+-import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
+ import { planDisableReconcile } from "@akasha/seat-system/mcp-disable-reconcile"
+ import {
+   getMcpServerRegistry,
