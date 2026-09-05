@@ -1,0 +1,16 @@
+diff --git a/hook-system/bun-calls/bun-calls.module.ts b/hook-system/bun-calls/bun-calls.module.ts
+index 9351630cc5956f0c3eddd8ff4d7fd308f0ef26f7..4833989d6d6ff374672d73d8bc5e2dc7b27f1196 100644
+--- a/hook-system/bun-calls/bun-calls.module.ts
++++ b/hook-system/bun-calls/bun-calls.module.ts
+@@ -48,10 +48,7 @@ export const bunCalls = {
+       invariantKind: "absence",
+       statement: "The cutting is `shell-calls`.",
+     },
+-    {
+-      invariantKind: "absence",
+-      statement: "The stepping over of a prefix is `shell-calls` too.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "No rule about quoting or basenames exists here.",
