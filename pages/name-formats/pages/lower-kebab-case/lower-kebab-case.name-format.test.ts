@@ -6,7 +6,7 @@ test("words joined with hyphens and all letters lower are written in it", () => 
   expect(lowerKebabCase("lower-kebab-case")).toBe(true)
 })
 
-test("a digit stands inside a word", () => {
+test("a digit sits inside a word", () => {
   expect(lowerKebabCase("id-is-a-uuid-version-7")).toBe(true)
 })
 

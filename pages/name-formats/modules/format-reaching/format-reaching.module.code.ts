@@ -40,7 +40,7 @@ export function matchingIn(
     const beside = besideAt(one.path, CODE, TS)
     if (beside === null) {
       throw new Error(
-        `${one.path} is a name format, and no code file can stand beside a name like it`
+        `${one.path} is a name format, and no code file can sit beside a name like it`
       )
     }
     const codePath = codeAt(beside)

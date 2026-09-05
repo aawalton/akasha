@@ -17,7 +17,7 @@ export const fileName = {
     },
     {
       invariantKind: "departure",
-      statement: "The first part is the slug of the page the file holds or stands beside.",
+      statement: "The first part is the slug of the page the file holds or sits beside.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const fileName = {
     },
     {
       invariantKind: "departure",
-      statement: "A part standing after those two is the file's role.",
+      statement: "A part after those two is the file's role.",
     },
     {
       invariantKind: "departure",

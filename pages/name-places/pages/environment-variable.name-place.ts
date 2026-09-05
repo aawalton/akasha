@@ -9,7 +9,7 @@ export const environmentVariable = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A value handed in from outside stands fixed for the whole of a run.",
+      statement: "A value handed in from outside remains fixed for the whole of a run.",
     },
     {
       invariantKind: "departure",

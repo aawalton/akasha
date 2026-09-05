@@ -4,7 +4,7 @@ export const foreignName = {
   id: "01a04feb-819f-7c88-a837-385bf1c6a294",
   pageTypeSlug: "name-place",
   slug: "foreign-name",
-  definition: "a name whose owner stands outside akasha",
+  definition: "a name whose owner is outside akasha",
   nameFormatSlug: null,
   invariants: [
     {
@@ -30,7 +30,7 @@ export const foreignName = {
     },
     {
       invariantKind: "departure",
-      statement: "A name standing beside a name its owner spells still answers the test alone.",
+      statement: "A name beside a name its owner spells still answers the test alone.",
     },
   ],
 } as const satisfies NamePlace

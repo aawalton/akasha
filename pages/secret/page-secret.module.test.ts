@@ -79,7 +79,7 @@ test("what is composed is encrypted, names its keys in the open, and decrypts ba
   expect(keysBeside(root, PAGE)).toEqual(["access-token", "refresh-token"])
 })
 
-test("the plaintext handed to sops does not stand after the call", () => {
+test("the plaintext handed to sops does not remain after the call", () => {
   const root = rooted()
   cipherFor(root, PAGE, held({ "access-token": "one" }))
   const at = dataIn(root, "sops")

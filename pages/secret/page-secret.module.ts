@@ -10,7 +10,7 @@ export const pageSecret = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page's secret values stand in one sops file beside that page.",
+      statement: "A page's secret values are in one sops file beside that page.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,7 @@ export const pageSecret = {
     },
     {
       invariantKind: "departure",
-      statement: "The key names stand in the open and only the values are ciphertext.",
+      statement: "The key names are in the open and only the values are ciphertext.",
     },
     {
       invariantKind: "departure",
@@ -51,7 +51,7 @@ export const pageSecret = {
     {
       invariantKind: "departure",
       statement:
-        "A sops file that stands but will not decrypt is refused rather than read as empty.",
+        "A sops file that is there but will not decrypt is refused rather than read as empty.",
     },
     {
       invariantKind: "departure",

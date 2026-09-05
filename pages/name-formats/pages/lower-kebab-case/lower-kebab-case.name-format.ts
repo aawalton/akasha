@@ -10,7 +10,7 @@ export const lowerKebabCase = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A digit stands inside a word rather than between words.",
+      statement: "A digit sits inside a word rather than between words.",
     },
   ],
 } as const satisfies NameFormat

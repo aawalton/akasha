@@ -8,7 +8,7 @@ test("words parted by spaces with every one starting capital are written in it",
   expect(startCase("Zero At Turning On")).toBe(true)
 })
 
-test("a word opening lower is refused wherever it stands", () => {
+test("a word opening lower is refused wherever it sits", () => {
   expect(startCase("The Words of a Name")).toBe(false)
   expect(startCase("Every changed Line")).toBe(false)
   expect(startCase("The index is Akasha")).toBe(false)

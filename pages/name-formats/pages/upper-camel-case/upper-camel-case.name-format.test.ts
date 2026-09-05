@@ -6,7 +6,7 @@ test("words run together with every one starting capital", () => {
   expect(upperCamelCase("PagePropertySlug")).toBe(true)
 })
 
-test("a digit stands inside a word", () => {
+test("a digit sits inside a word", () => {
   expect(upperCamelCase("UuidVersion7")).toBe(true)
 })
 

@@ -72,7 +72,7 @@ export function resolveBadgeVariant(
   const declared = VALUE_TYPE[definition.type]
   if (shape === null || declared === undefined) {
     throw new Error(
-      `a color rule stands on \`${definition.id}\`, whose type \`${definition.type}\` has no value a formula can name`
+      `a color rule sits on \`${definition.id}\`, whose type \`${definition.type}\` has no value a formula can name`
     )
   }
 

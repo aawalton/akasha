@@ -15,7 +15,7 @@ export const formatReaching = {
     {
       invariantKind: "departure",
       statement:
-        "The code is loaded from wherever on disk its body stands rather than from where a change leaves it.",
+        "The code is loaded from wherever on disk its body is rather than from where a change leaves it.",
     },
     {
       invariantKind: "departure",

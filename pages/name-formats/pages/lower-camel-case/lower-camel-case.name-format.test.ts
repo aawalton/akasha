@@ -7,7 +7,7 @@ test("words run together with every one but the first starting capital", () => {
   expect(lowerCamelCase("runsOnPatch")).toBe(true)
 })
 
-test("a digit stands inside a word", () => {
+test("a digit sits inside a word", () => {
   expect(lowerCamelCase("uuidVersion7")).toBe(true)
 })
 

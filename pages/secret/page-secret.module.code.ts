@@ -44,7 +44,7 @@ export function yamlOf(values: Secrets): string {
 
 export function unfit(key: string, value: string): string | null {
   if (value === "")
-    return `\`${key}\` arrived empty, and an empty secret would stand for a usable one`
+    return `\`${key}\` arrived empty, and an empty secret would represent a usable one`
   if (value.includes("\n")) return `\`${key}\` holds a newline, and a secret's value is one line`
   return null
 }
@@ -52,7 +52,7 @@ export function unfit(key: string, value: string): string | null {
 function besideOr(page: string): string {
   const at = secretAt(page)
   if (at === null) {
-    throw new Error(`'${page}' is no TypeScript file, so nothing stands beside it to hold secrets`)
+    throw new Error(`'${page}' is no TypeScript file, so nothing sits beside it to hold secrets`)
   }
   return at
 }
@@ -151,7 +151,7 @@ export function secretsIn(root: string, page: string): Secrets | null {
   )
   if (said.text === null) {
     throw new Error(
-      `'${sidecar}' stands beside a page and could not be decrypted, so what it holds is unknown rather than nothing: ${said.why}`
+      `'${sidecar}' sits beside a page and could not be decrypted, so what it holds is unknown rather than nothing: ${said.why}`
     )
   }
   return valuesFrom(said.text, sidecar)
