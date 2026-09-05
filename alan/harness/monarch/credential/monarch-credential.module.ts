@@ -14,7 +14,7 @@ export const monarchCredential = {
     },
     {
       invariantKind: "departure",
-      statement: "The CSRF token is cut from the cookie rather than held apart from it.",
+      statement: "The CSRF token is cut from the cookie rather than held apart from that cookie.",
     },
     {
       invariantKind: "departure",
@@ -24,7 +24,7 @@ export const monarchCredential = {
     {
       invariantKind: "departure",
       statement:
-        "The headers are frozen, so what is handed out cannot be altered by whoever holds it.",
+        "The headers are frozen, so what is handed out cannot be altered by whoever holds those headers.",
     },
     {
       invariantKind: "departure",
