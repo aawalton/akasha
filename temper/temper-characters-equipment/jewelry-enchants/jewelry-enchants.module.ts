@@ -11,9 +11,5 @@ export const jewelryEnchants = {
       invariantKind: "upkeep",
       statement: "The generator writes this table outside akasha.",
     },
-    {
-      invariantKind: "upkeep",
-      statement: "Both copies of this table move together.",
-    },
   ],
 } as const satisfies Module
