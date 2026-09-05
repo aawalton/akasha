@@ -1,0 +1,178 @@
+diff --git a/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts b/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts
+index 030befdd1a4a9dba935970f100a85511b2a8d95e..b7c882c22a540f66a9f7409fc8e7f88407703ec7 100644
+--- a/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts
++++ b/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts
+@@ -77,6 +77,86 @@ function chainOf(entries: readonly ChainEntry[]): DestinationChain | undefined {
+   }))
+ }
+ 
++function textAt(row: Record<string, unknown>, key: string): string | undefined {
++  const value = row[key]
++  return typeof value === "string" ? value : undefined
++}
++
++function rowsAt(row: Record<string, unknown>, key: string): readonly Record<string, unknown>[] {
++  const value = row[key]
++  if (!Array.isArray(value)) return []
++  return value.filter((one): one is Record<string, unknown> => {
++    return typeof one === "object" && one !== null && !Array.isArray(one)
++  })
++}
++
++function conditionRowsIn(row: Record<string, unknown>): readonly ConditionEntry[] {
++  const out: ConditionEntry[] = []
++  for (const one of rowsAt(row, "conditions")) {
++    const conditionField = textAt(one, "conditionField")
++    const conditionValue = textAt(one, "conditionValue")
++    if (conditionField === undefined || conditionValue === undefined) continue
++    out.push({ conditionField, conditionValue })
++  }
++  return out
++}
++
++function chainRowsIn(row: Record<string, unknown>): readonly ChainEntry[] {
++  const out: ChainEntry[] = []
++  for (const one of rowsAt(row, "destinationChain")) {
++    const destination = textAt(one, "destination")
++    if (destination === undefined) continue
++    const targetQuantity = one.targetQuantity
++    const charEligibility = textAt(one, "charEligibility")
++    out.push({
++      destination,
++      ...(typeof targetQuantity === "number" ? { targetQuantity } : {}),
++      ...(charEligibility === undefined ? {} : { charEligibility }),
++    })
++  }
++  return out
++}
++
++export function heldFromRow(row: Record<string, unknown>): HeldRule | null {
++  const slug = textAt(row, "slug")
++  const categoryId = textAt(row, "categoryId")
++  const action = textAt(row, "action")
++  const updatedAt = textAt(row, "updatedAt")
++  const displayOrder = row.displayOrder
++  if (slug === undefined || categoryId === undefined || action === undefined) return null
++  if (updatedAt === undefined || typeof displayOrder !== "number") return null
++  const page: RulePage = {
++    slug,
++    categoryId,
++    displayOrder,
++    action,
++    active: row.active !== false,
++    updatedAt,
++    ...(textAt(row, "title") === undefined ? {} : { title: textAt(row, "title") as string }),
++    ...(textAt(row, "description") === undefined
++      ? {}
++      : { description: textAt(row, "description") as string }),
++    ...(textAt(row, "goal") === undefined ? {} : { goal: textAt(row, "goal") as string }),
++    ...(typeof row.locked === "boolean" ? { locked: row.locked } : {}),
++    ...(textAt(row, "destination") === undefined
++      ? {}
++      : { destination: textAt(row, "destination") as string }),
++    ...(textAt(row, "stockScope") === undefined
++      ? {}
++      : { stockScope: textAt(row, "stockScope") as string }),
++  }
++  return { page, conditions: conditionRowsIn(row), chain: chainRowsIn(row) }
++}
++
++export function heldFromRows(rows: readonly Record<string, unknown>[]): readonly HeldRule[] {
++  const out: HeldRule[] = []
++  for (const row of rows) {
++    const held = heldFromRow(row)
++    if (held !== null) out.push(held)
++  }
++  return out
++}
++
+ export function ruleFromPage(held: HeldRule): CategoryRule {
+   const page = held.page
+   const conditions = conditionsOf(held.conditions ?? [])
+diff --git a/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.test.ts b/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.test.ts
+index 16d9d6097582a42a314d652f4180523e61a6ba60..5de4e33465f0cb989e30f734b67074aaede19d8a 100644
+--- a/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.test.ts
++++ b/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.test.ts
+@@ -1,6 +1,11 @@
+ import { expect, test } from "bun:test"
+ import type { HeldRule, RulePage } from "./inventory-rule-from-pages.module.code.ts"
+-import { ruleFromPage, rulesFromPages } from "./inventory-rule-from-pages.module.code.ts"
++import {
++  heldFromRow,
++  heldFromRows,
++  ruleFromPage,
++  rulesFromPages,
++} from "./inventory-rule-from-pages.module.code.ts"
+ 
+ const PAGE: RulePage = {
+   slug: "rule-gold-stock",
+@@ -109,3 +114,50 @@ test("reading rules leaves what the caller handed over unchanged", () => {
+   rulesFromPages(held)
+   expect(held.map((one) => one.page.slug)).toEqual(["rule-b", "rule-a"])
+ })
++
++const A_ROW = {
++  slug: "rule-one",
++  categoryId: "scripts",
++  displayOrder: 3,
++  action: "sell",
++  active: true,
++  updatedAt: "1970-01-01T00:00:00.000Z",
++}
++
++test("a row carrying every key a rule needs becomes a held rule", () => {
++  const held = heldFromRow({ ...A_ROW, title: "a title" })
++  expect(held?.page.slug).toBe("rule-one")
++  expect(held?.page.displayOrder).toBe(3)
++  expect(held?.page.title).toBe("a title")
++})
++
++test("a row short of a key every rule carries is no rule", () => {
++  expect(heldFromRow({ ...A_ROW, categoryId: undefined })).toBeNull()
++  expect(heldFromRow({ ...A_ROW, displayOrder: "3" })).toBeNull()
++})
++
++test("a row saying nothing about being switched on is read as switched on", () => {
++  expect(heldFromRow(A_ROW)?.page.active).toBe(true)
++  expect(heldFromRow({ ...A_ROW, active: false })?.page.active).toBe(false)
++})
++
++test("the rows beside a page come back under their own keys", () => {
++  const held = heldFromRow({
++    ...A_ROW,
++    conditions: [{ id: "an-id", conditionField: "known", conditionValue: "known" }],
++    destinationChain: [{ destination: "bank", targetQuantity: 2 }],
++  })
++  expect(held?.conditions).toEqual([{ conditionField: "known", conditionValue: "known" }])
++  expect(held?.chain).toEqual([{ destination: "bank", targetQuantity: 2 }])
++})
++
++test("a row beside the page short of a field its shape declares is left out", () => {
++  const held = heldFromRow({ ...A_ROW, conditions: [{ conditionField: "known" }] })
++  expect(held?.conditions).toEqual([])
++})
++
++test("a row that is no rule is left out of the many", () => {
++  expect(heldFromRows([A_ROW, { slug: "rule-two" }]).map((one) => one.page.slug)).toEqual([
++    "rule-one",
++  ])
++})
+diff --git a/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.ts b/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.ts
+index ae78d6c0c3e76a7d7d1edb6b7b199eae63a26e76..86649bea7e4a4d9ef884a6f06041742412f96793 100644
+--- a/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.ts
++++ b/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.ts
+@@ -25,6 +25,14 @@ export const inventoryRuleFromPages = {
+       statement:
+         "A property the page leaves unsaid is left off the rule rather than written empty.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A row short of a key every rule carries is no rule and is left out.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A row beside the page short of a field its shape declares is left out.",
++    },
+     {
+       invariantKind: "gap",
+       statement: "Two rules of one account holding one display order are ordered by nothing.",
