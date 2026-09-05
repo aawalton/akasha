@@ -7,14 +7,14 @@ export const ruleResearchStolen = {
   title: "Launder stolen researchables",
   description:
     "Launders stolen equipment with a researchable trait so it can be submitted at a crafting station. Place before other research rules.",
+  goal: "unlock",
+  conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "equipment",
   displayOrder: 40,
   action: "fence-launder",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
-  goal: "unlock",
   locked: true,
   fromTemplate: "research-stolen",
-  conditions: "jsonl",
 } as const satisfies TemperInventoryRule
