@@ -29,7 +29,7 @@ export const utf8Body = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows which file the bytes came from or what the text means.",
+      statement: "Nothing here knows which file the bytes came from or the meaning of the text.",
     },
   ],
 } as const satisfies Module
