@@ -42,7 +42,8 @@ export const folderClearing = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder at the top of the repository is taken where a change leaves it empty.",
+      statement:
+        "A folder at the top of the repository is taken where a change leaves that folder empty.",
     },
     {
       invariantKind: "departure",
