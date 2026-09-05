@@ -13,7 +13,7 @@ export const messageReachWrite = {
     },
     {
       invariantKind: "departure",
-      statement: "An address that cannot be read refuses the write rather than landing it.",
+      statement: "An address that cannot be read refuses the write rather than landing that write.",
     },
     {
       invariantKind: "departure",
