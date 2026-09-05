@@ -74,6 +74,30 @@ index b0251a07e029bc022351840990adf6cfcff05ee9..dc59bc47a0763e5c0bb5d4f68aeba9b8
      },
    ],
  } as const satisfies Module
+diff --git a/commands/refactor/refactor.command.code.ts b/commands/refactor/refactor.command.code.ts
+index 408f27f8ab977c2f009713160ce93b9581c74742..00cff8e27ee4d070fa05b41af2521c8d13f599cf 100644
+--- a/commands/refactor/refactor.command.code.ts
++++ b/commands/refactor/refactor.command.code.ts
+@@ -244,7 +244,9 @@ export async function landed(
+ }
+ 
+ function keySaying(one: Keying, respelling: Respelling, dry: boolean): readonly string[] {
+-  const paths = [...respelling.changes.keys()].sort()
++  const carries = respelling.carries
++  const carried = new Set(carries.map((held) => held.from))
++  const paths = [...respelling.changes.keys()].filter((path) => !carried.has(path)).sort()
+   const pages = respelling.pages.length
+   const types = respelling.declarers.length
+   return [
+@@ -256,6 +258,8 @@ function keySaying(one: Keying, respelling: Respelling, dry: boolean): readonly
+     `${counted(pages, "page")} ${pages === 1 ? "states" : "state"} it`,
+     `${counted(paths.length, "file")} ${were(paths.length, dry)} respelled`,
+     ...(dry ? paths.map((path) => `  ${path}`) : []),
++    `${counted(carries.length, "file")} named for it ${were(carries.length, dry)} carried`,
++    ...(dry ? carries.map((held) => `  ${held.from} -> ${held.to}`) : []),
+   ]
+ }
+ 
 diff --git a/commands/refactor/refactor.command.ts b/commands/refactor/refactor.command.ts
 index eb43944539056a61523e90cb8965958be7d0a545..d81c677723d2e8877b3a4b0a8add995429823e9f 100644
 --- a/commands/refactor/refactor.command.ts
