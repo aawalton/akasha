@@ -102,3 +102,21 @@ index 8166d67ee9bfd723edc425211e4027f58a030b82..8194d501d8aa61fb26190e896a5851bc
 +  ])
 +  expect(loneQuantifier(said)).toEqual([{ at: [9] }])
 +})
+diff --git a/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.ts b/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.ts
+index a143600fff98dabe99e37f441d26c29d9c69c7e3..970ea14f80948b549436591eae6c1fc3a6516261 100644
+--- a/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.ts
++++ b/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.ts
+@@ -18,5 +18,13 @@ export const loneQuantifier = {
+       invariantKind: "departure",
+       statement: "A quantifier determining a backticked name is passed over.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A quantifier heading `each other` or `one another` counts nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A quantifier whose fixed part is `than` is comparing rather than counting.",
++    },
+   ],
+ } as const satisfies SentenceShape
