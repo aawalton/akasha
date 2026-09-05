@@ -116,6 +116,28 @@ index 3505b650558240c72295a3abaee81bf5a1a92d9a..0dd1ad1e5a024fcfc0f31d34346de4f2
      )
    }
  
+diff --git a/seat-system/seat-resume-help/seat-resume-help.module.code.ts b/seat-system/seat-resume-help/seat-resume-help.module.code.ts
+index a328fda576ca0010a6ed93cc51dc21fe539f992a..43ac034dab596f55f1bfb38f54a1968ed070dda3 100644
+--- a/seat-system/seat-resume-help/seat-resume-help.module.code.ts
++++ b/seat-system/seat-resume-help/seat-resume-help.module.code.ts
+@@ -123,11 +123,11 @@ export const HELP: CommandHelp = {
+   ],
+   mutuallyExclusive: [["--prompt", "--prompt-file"]],
+   examples: [
+-    "ops seat resume",
+-    "ops seat resume lead-12766",
+-    "ops seat resume '#12766' --json",
+-    "ops seat resume amy --verify",
+-    "ops seat resume '#12766' --prompt-file ./return.txt",
+-    "ops seat resume amy --start-mode interactive",
++    "akasha seat resume",
++    "akasha seat resume lead-12766",
++    "akasha seat resume '#12766' --json",
++    "akasha seat resume amy --verify",
++    "akasha seat resume '#12766' --prompt-file ./return.txt",
++    "akasha seat resume amy --start-mode interactive",
+   ],
+ }
 diff --git a/seat-system/seat-resume/seat-resume.module.code.ts b/seat-system/seat-resume/seat-resume.module.code.ts
 index 4d954a0db94677a59d9f2b082ef765aef030444b..6e5af22c2b96de784079a7716936543a0d3f358e 100644
 --- a/seat-system/seat-resume/seat-resume.module.code.ts
