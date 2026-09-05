@@ -10,6 +10,7 @@ import {
   schemaFiled,
 } from "@akasha/indexes/testing"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import type { Respelling } from "./key-respelling.module.code.ts"
 import { keyingFor, respellingFor } from "./key-respelling.module.code.ts"
 
 const KEYED = "01a058ed-0000-7000-8000-000000000001"
@@ -25,6 +26,20 @@ const TYPE_AT = "akasha/held.page-type.ts"
 const PAGE_AT = "akasha/one.held.ts"
 
 const CODE_AT = "akasha/reader.module.code.ts"
+
+const BESIDE_AT = "akasha/one.held.keyed.md"
+
+const PART_AT = "akasha/one.held.keyed.part2.md"
+
+const UNCOMMITTED_AT = "akasha/one.held.keyed.uncommitted.md"
+
+const OTHER_AT = "akasha/one.held.other.md"
+
+const CARRIED_AT = "akasha/one.held.read-by.md"
+
+const CARRIED_PART_AT = "akasha/one.held.read-by.part2.md"
+
+const CARRIED_UNCOMMITTED_AT = "akasha/one.held.read-by.uncommitted.md"
 
 const BODIES: Record<string, string> = {
   [PROPERTY_AT]:
@@ -45,13 +60,18 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-function rooted(): string {
+function rooted(beside: readonly string[] = []): string {
   const root = scratch.rootFor("akasha-keying-")
   for (const [path, text] of Object.entries(BODIES)) {
     const at = join(root, path)
     mkdirSync(dirname(at), { recursive: true })
     writeFileSync(at, text)
     pathFiled(root, path, [{ path, id: path }])
+  }
+  for (const path of beside) {
+    const at = join(root, path)
+    mkdirSync(dirname(at), { recursive: true })
+    writeFileSync(at, `${path}\n`)
   }
   schemaFiled(root, "text-property", "keyed", [
     {
@@ -79,6 +99,15 @@ function textOf(root: string): (path: string) => string | null {
       return null
     }
   }
+}
+
+function respelled(root: string): Respelling {
+  const given = readingIn(root)
+  const asked = keyingFor(given, "text-property/keyed", "read-by")
+  if ("refused" in asked) throw new Error(asked.refused)
+  const made = respellingFor(root, given, asked.keying, textOf(root))
+  if ("refused" in made) throw new Error(made.refused)
+  return made.respelling
 }
 
 test("a name reaching no page property is refused", () => {
@@ -149,4 +178,40 @@ test("the slug a property is reached by does not change when its key does", () =
   if ("refused" in made) throw new Error(made.refused)
 
   expect(made.respelling.changes.get(PROPERTY_AT)).toContain('slug: "keyed"')
+})
+
+test("a key rename carries the file named for the old key to the new key", () => {
+  const said = respelled(rooted([BESIDE_AT]))
+
+  expect(said.carries).toEqual([{ from: BESIDE_AT, to: CARRIED_AT }])
+})
+
+test("a numbered part of the property's file is carried with it", () => {
+  const said = respelled(rooted([BESIDE_AT, PART_AT]))
+
+  expect(said.carries).toEqual([
+    { from: BESIDE_AT, to: CARRIED_AT },
+    { from: PART_AT, to: CARRIED_PART_AT },
+  ])
+})
+
+test("a file holding the property uncommitted is carried and its body is not respelled", () => {
+  const said = respelled(rooted([UNCOMMITTED_AT]))
+
+  expect(said.carries).toEqual([{ from: UNCOMMITTED_AT, to: CARRIED_UNCOMMITTED_AT }])
+  expect(said.changes.has(UNCOMMITTED_AT)).toBe(false)
+})
+
+test("a file beside the page named for another key is left where it is", () => {
+  const said = respelled(rooted([OTHER_AT]))
+
+  expect(said.carries).toEqual([])
+})
+
+test("a key rename reaching no file beside a page respells what it respelled before", () => {
+  const said = respelled(rooted())
+
+  expect(said.declarers).toEqual([TYPE_AT])
+  expect(said.pages).toEqual([PAGE_AT])
+  expect([...said.changes.keys()].sort()).toEqual([PROPERTY_AT, TYPE_AT, PAGE_AT, CODE_AT].sort())
 })

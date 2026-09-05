@@ -30,10 +30,16 @@ export type Keying = {
 
 export type Asked = { readonly keying: Keying } | { readonly refused: string }
 
+export type Carry = {
+  readonly from: string
+  readonly to: string
+}
+
 export type Respelling = {
   readonly changes: ReadonlyMap<string, string>
   readonly declarers: readonly string[]
   readonly pages: readonly string[]
+  readonly carries: readonly Carry[]
 }
 
 export type Made = { readonly respelling: Respelling } | { readonly refused: string }
@@ -159,6 +165,7 @@ export function respellingFor(
       changes,
       declarers: declared.paths,
       pages: [...held.keys()].filter((path) => carrying.has(path)).sort(),
+      carries: [],
     },
   }
 }
