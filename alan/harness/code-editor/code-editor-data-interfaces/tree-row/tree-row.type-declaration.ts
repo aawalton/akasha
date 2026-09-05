@@ -29,7 +29,7 @@ export const treeRow = {
     },
     {
       invariantKind: "departure",
-      statement: "A color is the name of one, the editor holding what each name is drawn as.",
+      statement: "A color is the name of one, the editor holding the color each name is drawn as.",
     },
   ],
 } as const satisfies TypeDeclaration
