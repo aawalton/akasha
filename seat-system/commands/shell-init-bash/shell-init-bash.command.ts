@@ -32,11 +32,12 @@ export const shellInitBash = {
     },
     {
       invariantKind: "departure",
-      statement: "A word given to this command is refused, because it takes none.",
+      statement: "A word given to this command is refused, because this command takes none.",
     },
     {
       invariantKind: "departure",
-      statement: "The accounts are read from the pages rather than from a snapshot beside them.",
+      statement:
+        "The accounts are read from the pages rather than from a snapshot beside those pages.",
     },
     {
       invariantKind: "departure",
