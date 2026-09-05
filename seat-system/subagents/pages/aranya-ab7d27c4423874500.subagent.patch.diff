@@ -1,0 +1,85 @@
+diff --git a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts b/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts
+index 6a98d4ca07dfbc877741d4b3a6f064087242cfec..0889744f0141c3c0bc462d8185be2817bb49bbdd 100644
+--- a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts
++++ b/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts
+@@ -16,12 +16,11 @@ const NONE = [
+ ]
+ 
+ const PUT_BACK = [
+-  "To put one file back the way HEAD has it, take the body first:",
+-  "  git show HEAD:<path> > <body>",
+-  "then write <body> to <path>:",
+-  "  under `akasha/`:  akasha write",
+-  "  anywhere else:    cp <body> <path>",
+-  HELP,
++  "To put one file back the way HEAD has it:",
++  "  akasha restore --file-path <path>",
++  "`--file-path` repeats, and nothing else names a path: no --all, no folder, no whole tree.",
++  "It writes the working tree and the git index, commits nothing, and runs no check.",
++  "A path HEAD does not hold is refused rather than deleted.",
+ ]
+ 
+ const TAKE_AWAY = [
+@@ -84,6 +83,30 @@ const OVER_ACTS = new Map<string, readonly string[]>([
+       ...TAKE_AWAY,
+     ],
+   ],
++  [
++    "update-index",
++    [
++      "`git update-index` writes the git index over what another agent staged.",
++      SHARED,
++      ...PUT_BACK,
++    ],
++  ],
++  [
++    "checkout-index",
++    [
++      "`git checkout-index` writes the working tree from the index, over uncommitted work.",
++      SHARED,
++      ...PUT_BACK,
++    ],
++  ],
++  [
++    "read-tree",
++    [
++      "`git read-tree` writes the git index from a tree, and `-u` writes the working tree with it.",
++      SHARED,
++      ...PUT_BACK,
++    ],
++  ],
+ ])
+ 
+ const FORCED_PUSH: readonly string[] = [
+@@ -117,8 +140,9 @@ const DELETED = [
+ ]
+ 
+ export const SCOPE: readonly string[] = [
+-  `${HOOK} refuses eight git acts, and two flagged forms of two more.`,
++  `${HOOK} refuses eleven git acts, and two flagged forms of two more.`,
+   "  stash reset rebase checkout restore clean rm",
++  "  update-index checkout-index read-tree — the three plumbing acts `akasha restore` answers",
+   "  push, in every form — `akasha push` is the route that is not refused",
+   "  commit --amend",
+   "  push --force / -f / --force-with-lease / --force-if-includes",
+@@ -163,10 +187,8 @@ export const SCOPE: readonly string[] = [
+   "A refusal answers the whole call. One refused act in a chain refuses every command in it.",
+   "",
+   "NOT REACHED. Each measured against this hook, not supposed:",
+-  "  git checkout-index -a -f      writes the working tree from the index",
+-  "  git read-tree -u <tree>       writes the working tree from a tree",
+   "  git worktree remove --force   removes a worktree holding uncommitted work",
+-  "  git update-ref, symbolic-ref, update-index, switch, revert, apply, reflog expire, gc",
++  "  git update-ref, symbolic-ref, switch, revert, apply, reflog expire, gc",
+   "  any act reached through an alias — `git undo` carries the act `undo`",
+   "  a git call carrying no act — bare `git`, or global flags alone",
+   "  an act inside a quoted run, which the dequoting step takes out before the cut",
+@@ -178,6 +200,8 @@ export const SCOPE: readonly string[] = [
+   "",
+   "ALSO REFUSED ELSEWHERE:",
+   "  `git commit --amend` naming no paths is refused by block-git-writes as well.",
++  "  `git apply` and `git am` are refused by block-git-writes in every form but `--check`,",
++  "    `--stat`, `--numstat` and `--summary`, so `git apply -R` is refused there rather than here.",
+   "  Both refusals are true. Neither of them says the call is safe.",
+   "",
+   "The absence of an act from this list is NOT a finding that it is safe. It is unexamined.",
