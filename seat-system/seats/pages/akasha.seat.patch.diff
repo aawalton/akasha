@@ -1,0 +1,39 @@
+diff --git a/pages/address/page-address.module.code.ts b/pages/address/page-address.module.code.ts
+index dde08bd84652cf842fe80dd6eaf021a5dc08bc19..8c1dc093a4a72cd26f1e7769025b3f45528f9e2f 100644
+--- a/pages/address/page-address.module.code.ts
++++ b/pages/address/page-address.module.code.ts
+@@ -2,17 +2,29 @@ import { lowerUuid } from "../name-formats/pages/lower-uuid/lower-uuid.name-form
+ 
+ export type Address =
+   | { readonly kind: "id"; readonly id: string }
++  | {
++      readonly kind: "scoped"
++      readonly pageTypeSlug: string
++      readonly scope: string
++      readonly slug: string
++    }
+   | { readonly kind: "qualified"; readonly pageTypeSlug: string; readonly slug: string }
+   | { readonly kind: "bare"; readonly slug: string }
+ 
+ export function addressIn(named: string): Address {
+   if (lowerUuid(named)) return { kind: "id", id: named }
+-  const cut = named.indexOf("/")
+-  if (cut === -1) return { kind: "bare", slug: named }
++  const first = named.indexOf("/")
++  if (first === -1) return { kind: "bare", slug: named }
++  const rest = named.slice(first + 1)
++  const second = rest.indexOf("/")
++  if (second === -1) {
++    return { kind: "qualified", pageTypeSlug: named.slice(0, first), slug: rest }
++  }
+   return {
+-    kind: "qualified",
+-    pageTypeSlug: named.slice(0, cut),
+-    slug: named.slice(cut + 1),
++    kind: "scoped",
++    pageTypeSlug: named.slice(0, first),
++    scope: rest.slice(0, second),
++    slug: rest.slice(second + 1),
+   }
+ }
+ 
