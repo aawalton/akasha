@@ -1,0 +1,206 @@
+diff --git a/alan/tracking/tracking-landing/tracking-landing.module.code.ts b/alan/tracking/tracking-landing/tracking-landing.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d4f1dd1d2e016c892cd38dfe645bc726f47d8fe0
+--- /dev/null
++++ b/alan/tracking/tracking-landing/tracking-landing.module.code.ts
+@@ -0,0 +1,87 @@
++/**
++ * The landing every tracking write goes through, reached by importing it.
++ *
++ * A caller here already holds the composed body as a value, so nothing writes that body to a scratch
++ * file for a second process to read back in. The `tracking` command is the argv shell over this: it
++ * reads what was said on a command line and hands the same changes here.
++ */
++
++import { landedMechanically } from "@akasha/command-system/asking"
++import type { Answer } from "@akasha/command-system/calling"
++import type { FileEdit } from "@akasha/command-system/landing"
++
++export const DAYS_AT = "alan/tracking/daily/wake-days/pages/"
++
++export const FOOD_ENTRIES_AT = "alan/tracking/food-entries/pages/"
++
++export const TRACKED_AT: readonly string[] = [DAYS_AT, FOOD_ENTRIES_AT]
++
++const CALLED_AS = "akasha tracking"
++
++const NOTHING = "nothing was composed to land"
++
++export function trackedIn(path: string | null): boolean {
++  return path !== null && TRACKED_AT.some((one) => path.startsWith(one))
++}
++
++export function outsideTracked(said: string): string {
++  const under = TRACKED_AT.map((one) => `\`${one}\``).join(" or ")
++  return `${said} is not under ${under}, and this lands what Alan's tracking composes and nothing else`
++}
++
++export function strayAmong(changes: readonly FileEdit[]): readonly string[] {
++  return changes.filter((one) => !trackedIn(one.path)).map((one) => outsideTracked(one.path))
++}
++
++/**
++ * Every change landed as one commit, under no agent id and owing no reading.
++ *
++ * A path outside the tracked trees is refused before anything is written, so a program composing the
++ * wrong path takes nothing else down with it.
++ */
++export async function landingTracked(
++  root: string,
++  changes: readonly FileEdit[],
++  message: string,
++  calledAs: string = CALLED_AS
++): Promise<Answer> {
++  const stray = strayAmong(changes)
++  if (stray.length > 0) return { report: [], refusals: stray, code: 1 }
++  return await landedMechanically(root, calledAs, changes, message)
++}
++
++/** A body to land at a path, or nothing to take that path away. */
++export type TrackingChange = {
++  readonly path: string
++  readonly body: string | Uint8Array | null
++}
++
++export type TrackingAsked = {
++  readonly root: string
++  readonly changes: readonly TrackingChange[]
++  readonly message: string
++}
++
++export type TrackingLanded =
++  | { readonly landed: true; readonly report: readonly string[] }
++  | { readonly refused: string }
++
++function editsIn(changes: readonly TrackingChange[]): readonly FileEdit[] {
++  return changes.map((one) => ({
++    path: one.path,
++    body: typeof one.body === "string" ? new TextEncoder().encode(one.body) : one.body,
++  }))
++}
++
++/**
++ * What a program composed, landed under the tracked trees.
++ *
++ * A refusal is carried back rather than thrown, because the funnel above this answers for a day it
++ * could not write and a caller that throws is answering for nothing.
++ */
++export async function landTracking(asked: TrackingAsked): Promise<TrackingLanded> {
++  if (asked.changes.length === 0) return { refused: NOTHING }
++  const said = await landingTracked(asked.root, editsIn(asked.changes), asked.message)
++  if (said.code !== 0) return { refused: said.refusals.join("\n") }
++  return { landed: true, report: said.report }
++}
+diff --git a/alan/tracking/tracking-landing/tracking-landing.module.test.ts b/alan/tracking/tracking-landing/tracking-landing.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..11219661fa49ff31feaec45e2dc2c047e331f8e1
+--- /dev/null
++++ b/alan/tracking/tracking-landing/tracking-landing.module.test.ts
+@@ -0,0 +1,61 @@
++import { expect, test } from "bun:test"
++import {
++  DAYS_AT,
++  FOOD_ENTRIES_AT,
++  landTracking,
++  outsideTracked,
++  strayAmong,
++  trackedIn,
++} from "./tracking-landing.module.code.ts"
++
++const ROOT = "/nowhere"
++
++const AT = `${DAYS_AT}2026-09-01/wake-day-2026-09-01.wake-day.ts`
++
++const FOOD_AT = `${FOOD_ENTRIES_AT}2026-08-22-banana/food-entry-2026-08-22-banana.food-entry.ts`
++
++const ELSEWHERE = "alan/tracking/session-activities/pages/read.session-activity.ts"
++
++test("a path under the tracked days is tracked", () => {
++  expect(trackedIn(AT)).toBe(true)
++})
++
++test("a path under the food entries is tracked", () => {
++  expect(trackedIn(FOOD_AT)).toBe(true)
++})
++
++test("a path elsewhere under Alan's tracking is not tracked", () => {
++  expect(trackedIn(ELSEWHERE)).toBe(false)
++})
++
++test("no path is tracked", () => {
++  expect(trackedIn(null)).toBe(false)
++})
++
++test("the refusal names every tree this lands under", () => {
++  const said = outsideTracked(ELSEWHERE)
++  expect(said).toContain(DAYS_AT)
++  expect(said).toContain(FOOD_ENTRIES_AT)
++})
++
++test("only the stray paths of a change are named", () => {
++  const said = strayAmong([
++    { path: AT, body: new Uint8Array() },
++    { path: ELSEWHERE, body: new Uint8Array() },
++  ])
++  expect(said).toEqual([outsideTracked(ELSEWHERE)])
++})
++
++test("a call composing nothing lands nothing", async () => {
++  const said = await landTracking({ root: ROOT, changes: [], message: "held" })
++  expect(said).toEqual({ refused: "nothing was composed to land" })
++})
++
++test("a stray path is refused before anything is written", async () => {
++  const said = await landTracking({
++    root: ROOT,
++    changes: [{ path: ELSEWHERE, body: "held\n" }],
++    message: "held",
++  })
++  expect(said).toEqual({ refused: outsideTracked(ELSEWHERE) })
++})
+diff --git a/alan/tracking/tracking-landing/tracking-landing.module.ts b/alan/tracking/tracking-landing/tracking-landing.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1430218c96e3ef438ba31da9e2726e457d81eb9b
+--- /dev/null
++++ b/alan/tracking/tracking-landing/tracking-landing.module.ts
+@@ -0,0 +1,40 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const trackingLanding = {
++  id: "01a072c2-e567-7000-a1b9-3a51eea84ed2",
++  pageTypeSlug: "module",
++  slug: "tracking-landing",
++  definition: "a body Alan's tracking composed, landed under the tracked trees or refused",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A caller hands the body in as a value rather than as a file.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path outside the tracked trees is refused before anything is written.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every change of one call lands as one commit or none of them lands.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A change lands under no agent id and owes no reading.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A refusal is carried back to the caller rather than thrown.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here knows a command line.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reaches the disk for a body a caller already holds.",
++    },
++  ],
++} as const satisfies Module
