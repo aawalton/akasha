@@ -1,3 +1,38 @@
+diff --git a/persona-system/persona-days/persona-day.page-type.ts b/persona-system/persona-days/persona-day.page-type.ts
+index 8e1bfddc073b4ece1478387f3d44bbcb2b61036b..461e8e3b303b7768f6f75bd61080200dc2c41a42 100644
+--- a/persona-system/persona-days/persona-day.page-type.ts
++++ b/persona-system/persona-days/persona-day.page-type.ts
+@@ -43,9 +43,6 @@ export const personaDay = {
+     "number-property/byte-points",
+     "number-property/source-points",
+     "number-property/source-total-snapshot",
+-    "formula-property/green-day-fraction",
+-    "formula-property/green-day-rung",
+-    "formula-property/points",
+     "relation-property/day-persona-slug",
+   ],
+   properties: [
+@@ -63,9 +60,6 @@ export const personaDay = {
+     { pagePropertySlug: "nutrition-points", required: false, many: false },
+     { pagePropertySlug: "breathing-points", required: false, many: false },
+     { pagePropertySlug: "byte-points", required: false, many: false },
+-    { pagePropertySlug: "points", required: false, many: false },
+-    { pagePropertySlug: "green-day-fraction", required: false, many: false },
+-    { pagePropertySlug: "green-day-rung", required: false, many: false },
+   ],
+   invariants: [
+     {
+@@ -85,10 +79,6 @@ export const personaDay = {
+       invariantKind: "departure",
+       statement: "A persona's green-day points moving leaves the days already scored as they were.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "The three figures a day is read by are worked out rather than stored.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A wake day names by identity the persona days recorded against that wake day.",
 diff --git a/persona-system/persona-days/properties/green-day-fraction.formula-property.ts b/persona-system/persona-days/properties/green-day-fraction.formula-property.ts
 deleted file mode 100644
 index 4bda71cbebb820d625d29286104132b2c42aebb8..0000000000000000000000000000000000000000
