@@ -87,6 +87,21 @@ index c069f4d89ebeb004b1199e0b59307571fa4bcf10..34fea6f2bea447fb9787784868e06dad
  }
  
  const SEAT_NAME_RE = /^[a-z0-9][a-z0-9-]*$/
+diff --git a/editor-extension/seat-toggles/seat-toggles.module.ts b/editor-extension/seat-toggles/seat-toggles.module.ts
+index 6211defc6cdd59d8fd66a34f9b47fe645d49adec..ac728d852a3603e4a8db7b5d642ea4516c09f8b9 100644
+--- a/editor-extension/seat-toggles/seat-toggles.module.ts
++++ b/editor-extension/seat-toggles/seat-toggles.module.ts
+@@ -37,6 +37,10 @@ export const seatToggles = {
+       invariantKind: "departure",
+       statement: "A row's context value names whether the seat runs and where it is.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The notices are composed by the compose module rather than by a child process.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here performs a step.",
 diff --git a/seat-system/package.json b/seat-system/package.json
 index 685b0ba6ec0fb7d71ab6f4b3f752c47155ff6f88..46988b7d62ae481ed5378a104dca1dd09937e1d6 100644
 --- a/seat-system/package.json
