@@ -1,3 +1,17 @@
+diff --git a/pages/queries/properties/narrows.record-property.ts b/pages/queries/properties/narrows.record-property.ts
+index 08157bf4d11db398ae021176db6e095fbb96bb2e..8b32445ad0737787808462b9c4951096e6b2737e 100644
+--- a/pages/queries/properties/narrows.record-property.ts
++++ b/pages/queries/properties/narrows.record-property.ts
+@@ -30,7 +30,8 @@ export const narrows = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A query stating no narrow asks of every page of its type.",
++      statement:
++        "A query stating no narrow asks of every page of its type and of every type extending it.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/system-service/kinds-gathering/kinds-gathering.module.code.ts b/pages/system-service/kinds-gathering/kinds-gathering.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..e4134605c76a66da159aad454211e1b933aa5ddb
