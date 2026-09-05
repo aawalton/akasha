@@ -11,7 +11,8 @@ export const differing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A body is found again by the object id git holds it under and by nothing else.",
+      statement:
+        "A body is found again by the object id git holds that body under and by nothing else.",
     },
     {
       invariantKind: "departure",
