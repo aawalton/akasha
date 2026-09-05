@@ -11,3 +11,69 @@ index 5578617d9089a97fd5ff5b17e42fa034c25cfe5f..d399ce423f1ec86aa16e50312616bfe1
      },
      {
        invariantKind: "departure",
+diff --git a/agents/models/gateway/modules/account-walk/account-walk.module.ts b/agents/models/gateway/modules/account-walk/account-walk.module.ts
+index 8c586ee905978b6ef6992d8bf6505fd7405a2095..30be1db34c40ed32e635ce53f30698f864c68319 100644
+--- a/agents/models/gateway/modules/account-walk/account-walk.module.ts
++++ b/agents/models/gateway/modules/account-walk/account-walk.module.ts
+@@ -261,7 +261,8 @@ export const accountWalk = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A body already sent upstream is sent again without asking whether that is safe.",
++      statement:
++        "A body already sent upstream is sent again without asking whether the second send is safe.",
+     },
+     {
+       invariantKind: "gap",
+diff --git a/alan/fitness/commands/exercise-ranks/exercise-ranks.command.ts b/alan/fitness/commands/exercise-ranks/exercise-ranks.command.ts
+index 09e995a7d764b51c0e578a2e988b63aae2e8aa6d..60b38afdbc9a062be1d6a1366a4e4a771f2561a8 100644
+--- a/alan/fitness/commands/exercise-ranks/exercise-ranks.command.ts
++++ b/alan/fitness/commands/exercise-ranks/exercise-ranks.command.ts
+@@ -35,7 +35,7 @@ export const exerciseRanks = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Naming movements ranks those alone and holds back none of them.",
++      statement: "Naming movements ranks those movements alone and holds back none of them.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/harness/monarch/agreement/monarch-agreement.module.ts b/alan/harness/monarch/agreement/monarch-agreement.module.ts
+index 10e8637a19a22a7a6e6f37a196e674ea989f53ff..5a3c5857cf3a305f5c27a16cea25f76ef6824fe1 100644
+--- a/alan/harness/monarch/agreement/monarch-agreement.module.ts
++++ b/alan/harness/monarch/agreement/monarch-agreement.module.ts
+@@ -10,7 +10,7 @@ export const monarchAgreement = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Three counts are compared: every transaction, those needing review, and those uncategorized.",
++        "Three counts are compared: every transaction, the ones needing review, and the uncategorized ones.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/harness/monarch/notes-write/monarch-notes-write.module.ts b/alan/harness/monarch/notes-write/monarch-notes-write.module.ts
+index d5c9abc9f3dd75006304a802fc3d2c58f2961693..2e26543b4cf1f44aa9abb47099054ff3749afdff 100644
+--- a/alan/harness/monarch/notes-write/monarch-notes-write.module.ts
++++ b/alan/harness/monarch/notes-write/monarch-notes-write.module.ts
+@@ -39,7 +39,7 @@ export const monarchNotesWrite = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "An errors field in a two-hundred answer is a refusal, because that is the shape a refused mutation arrives in.",
++        "An errors field in a two-hundred answer is a refusal, because the field is the shape a refused mutation arrives in.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
+index 37d762e5cb3efd46b96c54f6d2858e980e089539..fc2d988325d08e87d1b29de05a6936c5448bf564 100644
+--- a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
++++ b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
+@@ -47,7 +47,7 @@ export const surplusFallNotifying = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What this writes is a notification, and nothing here knows about devices.",
++      statement: "What this module writes is a notification, and nothing here knows about devices.",
+     },
+     {
+       invariantKind: "departure",
