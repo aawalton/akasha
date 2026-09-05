@@ -1,0 +1,25 @@
+diff --git a/seat-system/seat-flex/seat-flex.module.code.ts b/seat-system/seat-flex/seat-flex.module.code.ts
+index daf567565ddec2cc53a22ff146cffc8a5dd592b0..5256592c77739042ee6d1d065c82257e9a21d385 100644
+--- a/seat-system/seat-flex/seat-flex.module.code.ts
++++ b/seat-system/seat-flex/seat-flex.module.code.ts
+@@ -85,7 +85,7 @@ export function refuseFlex(
+   if (target === own) {
+     refusals.push(
+       "flex: that is your own seat, and no seat states its own flex — only a spawned seat carries one " +
+-        "and its spawner assigns it, with `ops seat start --flex`"
++        "and its spawner assigns it, with `akasha seat start --flex`"
+     )
+     return refusals
+   }
+@@ -94,9 +94,9 @@ export function refuseFlex(
+   refusals.push(
+     launch === null
+       ? `flex: nothing says how ${target} came to exist, so it is not a seat shown to have been spawned — ` +
+-          "only a spawned seat carries a flex, and its spawner assigns it with `ops seat start --flex`"
++          "only a spawned seat carries a flex, and its spawner assigns it with `akasha seat start --flex`"
+       : `flex: ${target} was ${launch} rather than spawned, and only a spawned seat carries a flex — ` +
+-          "its spawner assigns it with `ops seat start --flex`"
++          "its spawner assigns it with `akasha seat start --flex`"
+   )
+   return refusals
+ }
