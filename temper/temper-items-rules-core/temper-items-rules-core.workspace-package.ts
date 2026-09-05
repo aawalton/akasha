@@ -110,7 +110,7 @@ export const temperItemsRulesCore = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A rule says what becomes of an item.",
+      statement: "A rule names the action an item is given.",
     },
     {
       invariantKind: "absence",
