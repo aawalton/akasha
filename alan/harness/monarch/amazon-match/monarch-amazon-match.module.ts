@@ -10,7 +10,7 @@ export const monarchAmazonMatch = {
     {
       invariantKind: "departure",
       statement:
-        "A movement is matched by its amount and the days between it and the mail, and by nothing else.",
+        "A movement is matched by its amount and the days between the movement and the mail, by nothing else.",
     },
     {
       invariantKind: "departure",
