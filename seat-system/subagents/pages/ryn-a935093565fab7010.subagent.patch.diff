@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
+index 85a1910b8f004f074c44760092c9010b53fd6d1e..df9342f4e874704174ee4cf1a3a6c123e5285904 100644
+--- a/code-system/code-tests/code-tests.module.ts
++++ b/code-system/code-tests/code-tests.module.ts
+@@ -12,7 +12,7 @@ export const codeTests = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A run's answer carries what the run exited.",
++      statement: "A run's answer carries the code the run exited.",
+     },
+     {
+       invariantKind: "departure",
