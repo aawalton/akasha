@@ -56,3 +56,20 @@ index 852736197db025afbdd2e72f8f0f404d63372b57..594f4d26a9c365d8b68d291b927575bd
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/monarch/poll/monarch-poll.module.ts b/alan/harness/monarch/poll/monarch-poll.module.ts
+index 21cacea8ed46cbd5c0b8fd1d3d1f989840ee419c..840bfc64c4a139ca666a3fbe33f1285d0e448dfa 100644
+--- a/alan/harness/monarch/poll/monarch-poll.module.ts
++++ b/alan/harness/monarch/poll/monarch-poll.module.ts
+@@ -10,7 +10,11 @@ export const monarchPoll = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The update stamp of every row in the trusted window is asked for and compared against the watermark our copy holds, so a minute where nothing changed costs one call.",
++        "The update stamp of every row in the trusted window is asked for and compared against the watermark our copy holds.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A minute where nothing changed costs one call.",
+     },
+     {
+       invariantKind: "departure",
