@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/alan/harness/monarch/client/monarch-client.module.ts b/alan/harness/monarch/client/monarch-client.module.ts
-index aead01225e14ce5963cb809906fa306a55a197dc..e39fb1e88a157eecf59b368985c6eb80625c6729 100644
+index aead01225e14ce5963cb809906fa306a55a197dc..27b9f42f81624034578071666f1346c0f6729807 100644
 --- a/alan/harness/monarch/client/monarch-client.module.ts
 +++ b/alan/harness/monarch/client/monarch-client.module.ts
 @@ -15,7 +15,7 @@ export const monarchClient = {
@@ -12,3 +12,12 @@ index aead01225e14ce5963cb809906fa306a55a197dc..e39fb1e88a157eecf59b368985c6eb80
      },
      {
        invariantKind: "departure",
+@@ -35,7 +35,7 @@ export const monarchClient = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The credential is handed in rather than read here, so what authenticates is one module's business.",
++        "The credential is handed in rather than read here, so the credential is one module's business.",
+     },
+     {
+       invariantKind: "absence",
