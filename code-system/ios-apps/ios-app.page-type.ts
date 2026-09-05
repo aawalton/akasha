@@ -128,7 +128,7 @@ export const iosApp = {
     },
     {
       invariantKind: "departure",
-      statement: "A script more than one app runs sits above them all.",
+      statement: "A script more than one app runs sits above all those apps.",
     },
     {
       invariantKind: "departure",
