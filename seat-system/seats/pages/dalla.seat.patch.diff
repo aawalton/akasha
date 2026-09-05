@@ -33,3 +33,15 @@ index 4908d0283878e352ab9efa0376a84d1ec15f12b0..f8d5fb6776250fb8e707e6e15df3d917
  function kept(_whole: string, inside: string): string {
    return BARE_WORD.test(inside) ? inside : ""
  }
+diff --git a/hook-system/shell-calls/shell-calls.module.test.ts b/hook-system/shell-calls/shell-calls.module.test.ts
+index 94c0a285f833736c4419cf154a32f181dd441b3b..3d36f42aee265deeb9137b01f25b24f6830206c6 100644
+--- a/hook-system/shell-calls/shell-calls.module.test.ts
++++ b/hook-system/shell-calls/shell-calls.module.test.ts
+@@ -4,6 +4,7 @@ import {
+   calledWords,
+   dequoted,
+   joinedContinuations,
++  pastHeredocs,
+   RUNS_ANOTHER,
+   segmentsOf,
+   wordsOf,
