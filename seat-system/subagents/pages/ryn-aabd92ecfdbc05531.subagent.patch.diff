@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-progress/metric-trees/temper-metric-tree.page-type.ts b/temper/temper-progress/metric-trees/temper-metric-tree.page-type.ts
+index 062f6f1bea639bd61724b2a35d3653eb09ff3c1f..db21657053506a9cf8fa452b736fed6ef2dcf5e3 100644
+--- a/temper/temper-progress/metric-trees/temper-metric-tree.page-type.ts
++++ b/temper/temper-progress/metric-trees/temper-metric-tree.page-type.ts
+@@ -36,7 +36,7 @@ export const temperMetricTree = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A node of type `metric` is what the catalog names by `metric-id`.",
++      statement: "A node of type `metric` is the metric the catalog names by `metric-id`.",
+     },
+     {
+       invariantKind: "departure",
