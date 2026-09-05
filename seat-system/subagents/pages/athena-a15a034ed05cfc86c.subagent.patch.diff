@@ -258,7 +258,7 @@ index bfea36c32c47cd062e38ed4b880826064a03072d..42718faa2998a8d45ac21271b125d67f
    const reset: SeatStep = { kind: "reset" }
    return state.place === "interactive" ? [reset, { kind: "attach" }] : [reset]
 diff --git a/editor-extension/seat-toggles/seat-toggles.module.test.ts b/editor-extension/seat-toggles/seat-toggles.module.test.ts
-index 072c6a0cd044618fb71707e702d4e9ebb315a62b..5954c3056eb94c50947b4a02dc5369bdd58edd88 100644
+index 072c6a0cd044618fb71707e702d4e9ebb315a62b..030da25ea1f53e8238edb9524bd10eff43bc803f 100644
 --- a/editor-extension/seat-toggles/seat-toggles.module.test.ts
 +++ b/editor-extension/seat-toggles/seat-toggles.module.test.ts
 @@ -2,7 +2,6 @@ import { describe, expect, test } from "bun:test"
@@ -293,3 +293,27 @@ index 072c6a0cd044618fb71707e702d4e9ebb315a62b..5954c3056eb94c50947b4a02dc5369bd
    test("a reset attaches only where the seat is interactive", () => {
      expect(planReset({ running: true, place: "interactive" })).toEqual([
        { kind: "reset" },
+@@ -64,21 +46,19 @@ describe("the name a seat is attached by", () => {
+ })
+ 
+ describe("the menus the manifest hangs on a row", () => {
+-  test("a running interactive seat is offered stop, place-headless, reset, copy and open", () => {
++  test("a running interactive seat is offered stop, reset, copy and open", () => {
+     expect([...shownFor(true, "interactive")].sort()).toEqual([
+       "opsAgentTree.copySeatName",
+       "opsAgentTree.openPage",
+-      "opsAgentTree.placeHeadless",
+       "opsAgentTree.runReset",
+       "opsAgentTree.runStop",
+     ])
+   })
+ 
+-  test("a stopped headless seat is offered resume, place-interactive, reset, copy and open", () => {
++  test("a stopped headless seat is offered resume, reset, copy and open", () => {
+     expect([...shownFor(false, "headless")].sort()).toEqual([
+       "opsAgentTree.copySeatName",
+       "opsAgentTree.openPage",
+-      "opsAgentTree.placeInteractive",
+       "opsAgentTree.runReset",
+       "opsAgentTree.runResume",
+     ])
