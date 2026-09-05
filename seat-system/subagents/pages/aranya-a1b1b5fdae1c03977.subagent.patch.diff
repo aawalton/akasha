@@ -125,6 +125,138 @@ index a41cfd14e715fc95c0fa278f9a54138f88bf7fde..da88d4fcf64d7f6d17c9b7d73ef3a7d2
    )
  }
  
+diff --git a/seat-system/subagents/presence/subagent-presence.module.test.ts b/seat-system/subagents/presence/subagent-presence.module.test.ts
+index dc2ad10557354f455c8fd193aa010680d7ee8ba7..ffb49b7c0aab4996d9919eaa735863292ef1622d 100644
+--- a/seat-system/subagents/presence/subagent-presence.module.test.ts
++++ b/seat-system/subagents/presence/subagent-presence.module.test.ts
+@@ -303,3 +303,127 @@ test("a write that landed leaves no reason in the log", async () => {
+     world.sweep()
+   }
+ }, 40000)
++
++const HELD_ID = "01a06d00-0000-7000-8000-000000000001"
++
++const HELD_ASSIGNMENT = "domain/held-before"
++
++const AGAIN = "a38f63805f9b94ee0"
++
++function idIn(body: string): string | null {
++  return /\n {2}id: "([^"]+)",/.exec(body)?.[1] ?? null
++}
++
++function landedAt(root: string, own: string): string {
++  return readFileSync(join(root, pathOf(slugOf("akasha", own))), "utf8")
++}
++
++function heldInHistory(root: string, own: string, agentId: string, kind: string): undefined {
++  const at = pathOf(slugOf("akasha", own))
++  writing(
++    root,
++    at,
++    bodyOf(slugOf("akasha", own), "akasha", HELD_ASSIGNMENT, kind, agentId, HELD_ID)
++  )
++  gitIn(root, ["add", "-A"])
++  gitIn(root, ["commit", "--quiet", "-m", "the page was there"])
++  gitIn(root, ["rm", "--quiet", at])
++  gitIn(root, ["commit", "--quiet", "-m", "the page went"])
++}
++
++test("a body carries the id it is handed, before everything else the body states", () => {
++  const body = bodyOf(
++    "akasha-abc",
++    "akasha",
++    "domain/akasha-system",
++    "Explore",
++    "seat--own",
++    HELD_ID
++  )
++  expect(body).toContain(`id: ${JSON.stringify(HELD_ID)}`)
++  expect(body.indexOf("id:")).toBeLessThan(body.indexOf("pageTypeSlug:"))
++})
++
++test("a subagent whose page is in history takes up that page rather than a new one", async () => {
++  const world = scratchWorld()
++  try {
++    const root = seated(world.rootFor("subagent-presence-"))
++    heldInHistory(root, OWN, agentIdOf(SEAT_ID, OWN), "Explore")
++    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task")).toEqual(WENT)
++    expect(idIn(landedAt(root, OWN))).toBe(HELD_ID)
++  } finally {
++    world.sweep()
++  }
++})
++
++test("a page taken up keeps the kind and the assignment that page carried", async () => {
++  const world = scratchWorld()
++  try {
++    const root = seated(world.rootFor("subagent-presence-"))
++    heldInHistory(root, OWN, agentIdOf(SEAT_ID, OWN), "Explore")
++    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task")).toEqual(WENT)
++    const landed = landedAt(root, OWN)
++    expect(landed).toContain('dispatchedAs: "Explore"')
++    expect(landed).toContain(`assignmentSlug: ${JSON.stringify(HELD_ASSIGNMENT)}`)
++    expect(landed).toContain(`agentId: "${SEAT_ID}--${OWN}"`)
++  } finally {
++    world.sweep()
++  }
++})
++
++test("a subagent with no page in history has one composed as before", async () => {
++  const world = scratchWorld()
++  try {
++    const root = seated(world.rootFor("subagent-presence-"))
++    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task")).toEqual(WENT)
++    const landed = landedAt(root, OWN)
++    expect(idIn(landed)).toBe(null)
++    expect(landed).toContain('dispatchedAs: "Task"')
++    expect(landed).toContain('assignmentSlug: "domain/akasha-system"')
++  } finally {
++    world.sweep()
++  }
++})
++
++test("a page in history under another agent id is composed afresh", async () => {
++  const world = scratchWorld()
++  try {
++    const root = seated(world.rootFor("subagent-presence-"))
++    heldInHistory(root, OWN, agentIdOf(ANOTHER, OWN), "Explore")
++    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task")).toEqual(WENT)
++    const landed = landedAt(root, OWN)
++    expect(idIn(landed)).toBe(null)
++    expect(landed).toContain('dispatchedAs: "Task"')
++    expect(landed).toContain('assignmentSlug: "domain/akasha-system"')
++  } finally {
++    world.sweep()
++  }
++})
++
++test("the commit says whether the page was taken up or composed", async () => {
++  const world = scratchWorld()
++  try {
++    const root = seated(world.rootFor("subagent-presence-"))
++    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toEqual(WENT)
++    expect(messageIn(root)).toContain("a subagent states the agent id it acts under")
++    heldInHistory(root, AGAIN, agentIdOf(SEAT_ID, AGAIN), "Explore")
++    expect(await wrote(root, "akasha", SEAT_ID, AGAIN, "Explore")).toEqual(WENT)
++    expect(messageIn(root)).toContain("a subagent resuming takes up the page it had")
++  } finally {
++    world.sweep()
++  }
++})
++
++test("a page put up and taken down comes back with the id it had", async () => {
++  const world = scratchWorld()
++  try {
++    const root = seated(world.rootFor("subagent-presence-"))
++    heldInHistory(root, OWN, agentIdOf(SEAT_ID, OWN), "Explore")
++    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toEqual(WENT)
++    expect(await took(root, "akasha", OWN)).toEqual(WENT)
++    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toEqual(WENT)
++    expect(idIn(landedAt(root, OWN))).toBe(HELD_ID)
++  } finally {
++    world.sweep()
++  }
++})
 diff --git a/seat-system/subagents/presence/subagent-presence.module.ts b/seat-system/subagents/presence/subagent-presence.module.ts
 index e8cf8ab862436a51dd4f6de388800906bb94907c..3f3716f255bca8a10208125ec8d3b2c337782b6c 100644
 --- a/seat-system/subagents/presence/subagent-presence.module.ts
