@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-watcher/watcher-import-data-mining/watcher-import-data-mining.module.ts b/temper/temper-watcher/watcher-import-data-mining/watcher-import-data-mining.module.ts
+index e802499d52abac4cbdb863e20dbbe9d4b32a7974..63c5b7023421f3b4552124e46b3a9061c74986a8 100644
+--- a/temper/temper-watcher/watcher-import-data-mining/watcher-import-data-mining.module.ts
++++ b/temper/temper-watcher/watcher-import-data-mining/watcher-import-data-mining.module.ts
+@@ -31,7 +31,7 @@ export const watcherImportDataMining = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "The capture file is the only copy of what a block holds.",
++      statement: "The capture file is the only copy of the entries a block holds.",
+     },
+     {
+       invariantKind: "departure",
