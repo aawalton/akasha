@@ -61,8 +61,11 @@ export const accountUpkeepStallReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A latch is a record that Alan was told, so it is held after the notification lands and never before it.",
+      statement: "A latch is a record that Alan was told.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A latch is held after the notification lands and never before that landing.",
     },
   ],
 } as const satisfies Module
