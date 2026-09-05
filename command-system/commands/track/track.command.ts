@@ -180,10 +180,6 @@ export const track = {
     },
     {
       invariantKind: "departure",
-      statement: "A day carries one open stretch at most.",
-    },
-    {
-      invariantKind: "departure",
       statement: "An amend moves the stretches on either side to keep a day contiguous.",
     },
     {
