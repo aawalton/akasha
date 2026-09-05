@@ -11,7 +11,8 @@ export const whatTried = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What was tried is the garments themselves rather than how they came out.",
+      statement:
+        "What was tried is the garments themselves rather than how those garments came out.",
     },
   ],
 } as const satisfies FileProperty
