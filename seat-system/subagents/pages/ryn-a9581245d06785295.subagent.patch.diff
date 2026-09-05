@@ -1,0 +1,14 @@
+diff --git a/infrastructure/infrastructure-commands/cluster-rbac-manifest/cluster-rbac-manifest.command.ts b/infrastructure/infrastructure-commands/cluster-rbac-manifest/cluster-rbac-manifest.command.ts
+index f240e1454b4760f074f6202974fcb059011330ba..ff79e4e903437e23ed60e390ab14a20aa1d2b0d4 100644
+--- a/infrastructure/infrastructure-commands/cluster-rbac-manifest/cluster-rbac-manifest.command.ts
++++ b/infrastructure/infrastructure-commands/cluster-rbac-manifest/cluster-rbac-manifest.command.ts
+@@ -24,7 +24,8 @@ export const clusterRbacManifest = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A gap in that cover refuses the whole document rather than part of it.",
++      statement:
++        "A gap in that cover refuses the whole document rather than part of that document.",
+     },
+     {
+       invariantKind: "departure",
