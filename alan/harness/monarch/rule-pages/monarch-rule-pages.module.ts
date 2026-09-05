@@ -33,7 +33,7 @@ export const monarchRulePages = {
     {
       invariantKind: "departure",
       statement:
-        "A value coming before any flag it could belong to is refused rather than guessed at.",
+        "A value coming before any flag that value could belong to is refused rather than guessed at.",
     },
     {
       invariantKind: "departure",
