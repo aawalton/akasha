@@ -17,7 +17,6 @@ export const move = {
     "module/move-outside",
     "module/move-parenting",
     "module/move-renaming",
-    "module/move-repointing",
     "module/move-resettling",
     "module/move-siding",
     "module/move-spreading",

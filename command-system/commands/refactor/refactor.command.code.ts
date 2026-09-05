@@ -6,6 +6,7 @@ import { importEdge } from "@akasha/graph/import-edge"
 import { everyPath, listedAt, readingIn } from "@akasha/indexes"
 import { uncommittedNamed } from "@akasha/pages/page-file-name"
 import { shadowAt } from "@akasha/pages/shadow"
+import { repointed } from "../../../code-system/path-repointing/move-repointing.module.code.ts"
 import {
   importingOf,
   spellingOf,
@@ -20,7 +21,6 @@ import { baseOf } from "../../landing/landing.module.code.ts"
 import type { Carry as Reading } from "../../reading/reading.module.code.ts"
 import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
 import { move } from "../move/move.command.code.ts"
-import { repointed } from "../move/repointing/move-repointing.module.code.ts"
 import { glassIn, messageIn } from "../write/write.command.code.ts"
 import {
   AT,

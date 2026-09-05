@@ -2,6 +2,7 @@ import { parsedAs } from "@akasha/code-system/code-source"
 import { typed } from "@akasha/code-system/code-typing"
 import { uncommittedNamed } from "@akasha/pages/page-file-name"
 import ts from "typescript"
+import { repointed } from "../../../../code-system/path-repointing/move-repointing.module.code.ts"
 import {
   importingOf,
   spellingOf,
@@ -12,7 +13,6 @@ import type { FileCarry, FileEdit } from "../../../landing/landing.module.code.t
 import type { Carry as Reading } from "../../../reading/reading.module.code.ts"
 import { blobIdOf } from "../../../reading/reading.module.code.ts"
 import { manifestingOver } from "../../move/manifesting/move-manifesting.module.code.ts"
-import { repointed } from "../../move/repointing/move-repointing.module.code.ts"
 import type { Spot } from "../type-renaming/type-renaming.module.code.ts"
 import { splicedIn, statedIn } from "../type-renaming/type-renaming.module.code.ts"
 import { respelled } from "../type-respelling/type-respelling.module.code.ts"

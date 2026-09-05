@@ -2,6 +2,7 @@ import { resolve } from "node:path"
 import { typed } from "@akasha/code-system/code-typing"
 import { everyPath } from "@akasha/indexes"
 import { valuesOver } from "@akasha/pages/page-value"
+import { repointed } from "../../../code-system/path-repointing/move-repointing.module.code.ts"
 import {
   importingOf,
   spellingOf,
@@ -33,7 +34,6 @@ import {
   unrepointedIn,
   unrepointedSaid,
 } from "./renaming/move-renaming.module.code.ts"
-import { repointed } from "./repointing/move-repointing.module.code.ts"
 import { resettlingSaid } from "./resettling/move-resettling.module.code.ts"
 import type { Sided } from "./siding/move-siding.module.code.ts"
 import { sidedIn } from "./siding/move-siding.module.code.ts"
