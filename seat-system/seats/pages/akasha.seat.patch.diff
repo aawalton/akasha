@@ -1,0 +1,32 @@
+diff --git a/alan/fitness/exercise-access/package.json b/alan/fitness/exercise-access/package.json
+index 4b38da9ea3c13a48e39cf066309e34a2df100dc6..f6a25c5251bb19f447b679c39ef60a312e3a1b89 100644
+--- a/alan/fitness/exercise-access/package.json
++++ b/alan/fitness/exercise-access/package.json
+@@ -32,9 +32,11 @@
+     "./training-digest": "./training-digest/training-digest.module.code.ts"
+   },
+   "dependencies": {
++    "@akasha/command-system": "workspace:*",
+     "@akasha/day": "workspace:*",
+     "@akasha/indexes": "workspace:*",
+     "@akasha/pages-system": "workspace:*",
++    "@akasha/pages-system-service": "workspace:*",
+     "zod": "^4.3.6"
+   }
+ }
+diff --git a/bun.lock b/bun.lock
+index bed8b8306d303370705c0151e399b50a72a4bfd3..2c02f979ad26095d847fb65a5fdc26032353283b 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -179,9 +179,11 @@
+     "alan/fitness/exercise-access": {
+       "name": "@akasha/exercise-access",
+       "dependencies": {
++        "@akasha/command-system": "workspace:*",
+         "@akasha/day": "workspace:*",
+         "@akasha/indexes": "workspace:*",
+         "@akasha/pages-system": "workspace:*",
++        "@akasha/pages-system-service": "workspace:*",
+         "zod": "^4.3.6",
+       },
+     },
