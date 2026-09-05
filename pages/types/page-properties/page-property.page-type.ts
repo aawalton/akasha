@@ -35,7 +35,8 @@ export const pageProperty = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What shape a property has is the page type it is rather than a value it states.",
+      statement:
+        "What shape a property has is the page type that property is rather than a value the property states.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +49,7 @@ export const pageProperty = {
     {
       invariantKind: "departure",
       statement:
-        "How many of a property a page carries is stated where it is declared rather than here.",
+        "How many of a property a page carries is stated where that property is declared rather than here.",
     },
     {
       invariantKind: "departure",
