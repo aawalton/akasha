@@ -81,3 +81,18 @@ index 0000000000000000000000000000000000000000..051eb9fcc71d3a01dd67e1e0a3cfd322
 +    "module/use-view-query",
 +  ],
 +} as const satisfies Domain
+diff --git a/pages/ui/capabilities/pages-ui-capabilities.domain.ts b/pages/ui/capabilities/pages-ui-capabilities.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9461d9fb232cc955144b3b3f5f87458370d482df
+--- /dev/null
++++ b/pages/ui/capabilities/pages-ui-capabilities.domain.ts
+@@ -0,0 +1,9 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesUiCapabilities = {
++  id: "01a071cf-40d3-72d4-b353-ded317e501b6",
++  pageTypeSlug: "domain",
++  slug: "pages-ui-capabilities",
++  definition: "what the host a page is drawn in can do",
++  partSlugs: ["module/capability-hosts", "module/page-display-registry"],
++} as const satisfies Domain
