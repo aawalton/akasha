@@ -8,11 +8,6 @@ export const dallaDraftIntoAPatch = {
   personaSlug: "dalla",
   intents: [
     {
-      statement: "A rename landing under an open patch leaves that patch coherent.",
-      workingMemory:
-        "`rebasedOnto` follows a path gone from HEAD to the path a rename left it at, hop by hop, by `git log --diff-filter=D` and `git diff-tree -M`. It answers under the path the rename reached, so `showing` lists and marks from `said.held` rather than the stored file. A path taken away by no rename is carried in as a conflict `markedAway` builds, so `patch resolve` acts on it and every other path still applies. Left: no act takes one path out of a patch, so accepting a deletion drops the whole patch.",
-    },
-    {
       statement: "A body reaches write and edit on the command line rather than in a file.",
       workingMemory:
         "Standard input carries a body now, so no scratch file is needed. A change accumulates across calls: `folded` merges each draft onto what the patch already holds, so a new page and its parent's part-slugs no longer have to land in one call. What is left is taking the file flags and the repeating pairs away.",
