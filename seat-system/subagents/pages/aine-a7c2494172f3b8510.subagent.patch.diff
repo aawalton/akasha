@@ -14,7 +14,7 @@ index 45138866f557d409cd6b39163e6c9f720e5aa061..7035d08f5e4d372a1a3faf32dc5412ef
        rowed.set(pageType, got)
        return got
 diff --git a/markdown-pages/markdown-page-types/markdown-page-types.module.code.ts b/markdown-pages/markdown-page-types/markdown-page-types.module.code.ts
-index dafa98193db444268db4c3a3e614155b7776f99a..8d88461d4ff6291cffca0b2bd9eed64f906845f8 100644
+index dafa98193db444268db4c3a3e614155b7776f99a..704b4bab2c3150666676e42ce1c130c6b1ad593d 100644
 --- a/markdown-pages/markdown-page-types/markdown-page-types.module.code.ts
 +++ b/markdown-pages/markdown-page-types/markdown-page-types.module.code.ts
 @@ -113,7 +113,7 @@ function suffixedIn(root: string): ReadonlyMap<string, readonly string[]> {
@@ -35,12 +35,15 @@ index dafa98193db444268db4c3a3e614155b7776f99a..8d88461d4ff6291cffca0b2bd9eed64f
  // exact read of that folder. It walks the tree for the suffix instead, which the index used to save.
  function pageTypeFilesIn(root: string): ReadonlyMap<string, string> {
    return onceInCall(`page-type-files:${root}`, () => {
-@@ -324,7 +324,7 @@ export function filedIntoAny(one: PageType, named: readonly string[]): boolean {
+@@ -324,9 +324,9 @@ export function filedIntoAny(one: PageType, named: readonly string[]): boolean {
  }
  
  /**
 - * The one repository a page type's pages stand in, or nothing where they stand in several.
 + * The one repository a page type's pages are in, or nothing where they are in several.
   *
-  * A type states one `files:` entry for each place its pages stand, and a type part way through a
+- * A type states one `files:` entry for each place its pages stand, and a type part way through a
++ * A type states one `files:` entry for each place its pages are, and a type part way through a
   * migration states two in the same repository — the markdown half and the akasha half. That is one
+  * repository named twice, not two repositories, and a writer that counted the entries rather than
+  * the repositories would refuse to write a page it can plainly place.
