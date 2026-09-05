@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/editor-extension/panel-reading/panel-reading.module.ts b/editor-extension/panel-reading/panel-reading.module.ts
-index ec03d573a863d770161dbea15bb02e733cb1487b..77bfba09b262616e879d31ed8600ce8326af9898 100644
+index ec03d573a863d770161dbea15bb02e733cb1487b..20b1a9ea8536a843ef0774dc24047a3219944c4d 100644
 --- a/editor-extension/panel-reading/panel-reading.module.ts
 +++ b/editor-extension/panel-reading/panel-reading.module.ts
 @@ -10,7 +10,7 @@ export const panelReading = {
@@ -9,6 +9,15 @@ index ec03d573a863d770161dbea15bb02e733cb1487b..77bfba09b262616e879d31ed8600ce83
        invariantKind: "departure",
 -      statement: "What is activated is the extension rather than a model of that extension.",
 +      statement: "The extension is activated rather than a model of that extension.",
+     },
+     {
+       invariantKind: "departure",
+@@ -46,7 +46,7 @@ export const panelReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is read is the row the editor would draw.",
++      statement: "The reading is the row the editor would draw.",
      },
      {
        invariantKind: "departure",
