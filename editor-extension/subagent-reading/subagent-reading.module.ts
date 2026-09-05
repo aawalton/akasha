@@ -21,7 +21,7 @@ export const subagentReading = {
     {
       invariantKind: "departure",
       statement:
-        "A fold starting again drops what the old fold knew rather than merging into that old fold.",
+        "A fold starting again drops the state the old fold knew rather than merging into that old fold.",
     },
     {
       invariantKind: "departure",
