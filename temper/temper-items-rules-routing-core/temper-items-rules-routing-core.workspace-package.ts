@@ -18,7 +18,7 @@ export const temperItemsRulesRoutingCore = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A route says where a player goes and what the player does at each stop.",
+      statement: "A route says where a player goes and the steps the player takes at each stop.",
     },
     {
       invariantKind: "absence",
