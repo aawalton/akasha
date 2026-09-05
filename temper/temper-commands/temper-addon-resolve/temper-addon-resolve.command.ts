@@ -17,7 +17,6 @@ export const temperAddonResolve = {
   ],
   helpNotes: [
     "a canonical name, a flat directory leaf and a nested parent domain all reach the same addon.",
-    "a name reaching no addon is refused by name.",
     "the resolver answers a folder path even for a name no addon carries, so the resolver's answer is checked against the roster first.",
   ],
   invariants: [
