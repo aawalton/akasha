@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/types/properties/extends-slug.relation-property.ts b/pages/types/properties/extends-slug.relation-property.ts
+index a545e92dc6ba64a4632e9dd8b7e0131a79e73825..6e6670ca5fcbf07d2c14ceff1fd5bd07174053c8 100644
+--- a/pages/types/properties/extends-slug.relation-property.ts
++++ b/pages/types/properties/extends-slug.relation-property.ts
+@@ -22,7 +22,7 @@ export const extendsSlug = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Where both are equally near, the last named decides, so reordering changes what the type declares.",
++        "Where both are equally near, the last named decides, so reordering changes the type's properties.",
+     },
+     {
+       invariantKind: "departure",
