@@ -1,5 +1,5 @@
 diff --git a/command-system/drafting/drafting.module.ts b/command-system/drafting/drafting.module.ts
-index 4edf8938480f28ac2c48ff373d1adc82cb78a5d6..a44488a7cb4730aa9d5990490613d58a6db1fddf 100644
+index 4edf8938480f28ac2c48ff373d1adc82cb78a5d6..9f96c06b6ddcc0cd652477365569ec67bbe9f004 100644
 --- a/command-system/drafting/drafting.module.ts
 +++ b/command-system/drafting/drafting.module.ts
 @@ -14,7 +14,7 @@ export const drafting = {
@@ -8,6 +8,16 @@ index 4edf8938480f28ac2c48ff373d1adc82cb78a5d6..a44488a7cb4730aa9d5990490613d58a
        invariantKind: "departure",
 -      statement: "A body is carried as the bytes it is rather than as text.",
 +      statement: "A body is carried as the bytes that body is rather than as text.",
+     },
+     {
+       invariantKind: "departure",
+@@ -170,7 +170,8 @@ export const drafting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A patch coming in is rebased onto the commit at HEAD before it is folded.",
++      statement:
++        "A patch coming in is rebased onto the commit at HEAD before that patch is folded.",
      },
      {
        invariantKind: "departure",
