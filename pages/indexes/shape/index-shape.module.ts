@@ -13,7 +13,8 @@ export const indexShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A reader takes a shape from here rather than from what does the reading.",
+      statement:
+        "A reader takes a shape from here rather than from the code that does the reading.",
     },
     {
       invariantKind: "absence",
