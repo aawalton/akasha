@@ -14,8 +14,7 @@ export const monarchDomainFiles = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The whole body is composed rather than a line of it patched, because there is no front matter to patch.",
+      statement: "The whole body is composed rather than a line of it patched.",
     },
     {
       invariantKind: "departure",
