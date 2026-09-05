@@ -12,3 +12,17 @@ index 20c26bd9f62e047c577d9e0de4bb6d96d81edb7f..6a9d6d28fe67eb461e8d707744d20c8d
 -    },
    ],
  } as const satisfies Module
+diff --git a/temper/temper-upstream-data/treasure-upstream-port/treasure-upstream-port.module.ts b/temper/temper-upstream-data/treasure-upstream-port/treasure-upstream-port.module.ts
+index b4df2b6e5b451a808ed4d82e1bf501524ed89f04..38d881083c7720d68ed64862807a900ae8216ba3 100644
+--- a/temper/temper-upstream-data/treasure-upstream-port/treasure-upstream-port.module.ts
++++ b/temper/temper-upstream-data/treasure-upstream-port/treasure-upstream-port.module.ts
+@@ -29,9 +29,5 @@ export const treasureUpstreamPort = {
+       invariantKind: "departure",
+       statement: "The ported file names the upstream version the data came out of.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "The checkout the ported file lands in is named by the caller.",
+-    },
+   ],
+ } as const satisfies Module
