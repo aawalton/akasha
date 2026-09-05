@@ -1,0 +1,10 @@
+diff --git a/pages/indexes/index-reading/index-reading.module.code.ts b/pages/indexes/index-reading/index-reading.module.code.ts
+index 58f21e09db9a2844a409ab83ec1512d414878e51..f511a778e8cb85f7fd5c4c98ee6bdbbef1ae6f79 100644
+--- a/pages/indexes/index-reading/index-reading.module.code.ts
++++ b/pages/indexes/index-reading/index-reading.module.code.ts
+@@ -1,5 +1,4 @@
+ import { join } from "node:path"
+-import { typed } from "@akasha/code-system/code-typing"
+ import { addressIn } from "@akasha/pages-system/page-address"
+ import { partedIn } from "@akasha/pages-system/page-file-name"
+ import type { Value } from "@akasha/pages-system/page-value"
