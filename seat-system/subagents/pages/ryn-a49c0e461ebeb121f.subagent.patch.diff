@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/commands/measure/check-measuring/check-measuring.module.ts b/command-system/commands/measure/check-measuring/check-measuring.module.ts
-index 1bb57437a6e4a17d30079578a7e758afdfcc2760..5252529e3afa8c7d079e604520c9178fb9c1d416 100644
+index 1bb57437a6e4a17d30079578a7e758afdfcc2760..6e84cec30f296db640ad6b6c317e314387b2deef 100644
 --- a/command-system/commands/measure/check-measuring/check-measuring.module.ts
 +++ b/command-system/commands/measure/check-measuring/check-measuring.module.ts
 @@ -19,7 +19,8 @@ export const checkMeasuring = {
@@ -10,6 +10,16 @@ index 1bb57437a6e4a17d30079578a7e758afdfcc2760..5252529e3afa8c7d079e604520c9178f
 -      statement: "A run's memory is what that run added over the memory resident when it opened.",
 +      statement:
 +        "A run's memory is the bytes that run added over the memory resident when it opened.",
+     },
+     {
+       invariantKind: "departure",
+@@ -43,8 +44,7 @@ export const checkMeasuring = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "An average is what a phase's runs took together shared out over how many there were.",
++      statement: "An average is the total a phase's runs took shared out over how many there were.",
      },
      {
        invariantKind: "departure",
