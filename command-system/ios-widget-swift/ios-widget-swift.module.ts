@@ -9,7 +9,7 @@ export const iosWidgetSwift = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A widget draws only what its own page names.",
+      statement: "A widget draws only the things its own page names.",
     },
     {
       invariantKind: "gap",
