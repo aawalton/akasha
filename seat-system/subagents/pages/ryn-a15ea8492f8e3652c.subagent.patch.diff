@@ -1,0 +1,13 @@
+diff --git a/checks/cluster-checks/modules/file-finding/file-finding.module.ts b/checks/cluster-checks/modules/file-finding/file-finding.module.ts
+index 0ebd72808768e02287c2f65ef15a87f1c457f1fb..102f633468db14cb5b535753fc21bd498f731a34 100644
+--- a/checks/cluster-checks/modules/file-finding/file-finding.module.ts
++++ b/checks/cluster-checks/modules/file-finding/file-finding.module.ts
+@@ -34,7 +34,7 @@ export const fileFinding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A dotfile is left out unless the caller asks for it.",
++      statement: "A dotfile is left out unless the caller asks for dotfiles.",
+     },
+     {
+       invariantKind: "departure",
