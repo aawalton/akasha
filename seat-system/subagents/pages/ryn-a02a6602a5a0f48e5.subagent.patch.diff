@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-watcher/watcher-net-worth-landing/watcher-net-worth-landing.module.ts b/temper/temper-watcher/watcher-net-worth-landing/watcher-net-worth-landing.module.ts
+index bbb36eb93500fd5be7e412997d49aace3937e7c6..274128bb2e9abc1b2832ab06b084540e1267b41e 100644
+--- a/temper/temper-watcher/watcher-net-worth-landing/watcher-net-worth-landing.module.ts
++++ b/temper/temper-watcher/watcher-net-worth-landing/watcher-net-worth-landing.module.ts
+@@ -71,7 +71,7 @@ export const watcherNetWorthLanding = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here works out what a reading is worth.",
++      statement: "Nothing here works out a reading's total.",
+     },
+   ],
+ } as const satisfies Module
