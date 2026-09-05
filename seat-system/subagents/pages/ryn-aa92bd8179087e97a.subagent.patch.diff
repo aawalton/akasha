@@ -1,0 +1,18 @@
+diff --git a/alan/harness/monarch/eval/monarch-eval.domain.ts b/alan/harness/monarch/eval/monarch-eval.domain.ts
+index b87c60461f66b562777a8e0a15f1ce99433f6963..fa5a97f4fe748342184d19cfda53ab2aeb068351 100644
+--- a/alan/harness/monarch/eval/monarch-eval.domain.ts
++++ b/alan/harness/monarch/eval/monarch-eval.domain.ts
+@@ -121,8 +121,11 @@ export const monarchEval = {
+     },
+     {
+       invariantKind: "gap",
+-      statement:
+-        "Nothing on a transaction records who set its category, so a row Monarch's own categorizer set reads identically to one Jenny chose.",
++      statement: "Nothing on a transaction records who set its category.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A row Monarch's own categorizer set reads identically to a row Jenny chose.",
+     },
+     {
+       invariantKind: "departure",
