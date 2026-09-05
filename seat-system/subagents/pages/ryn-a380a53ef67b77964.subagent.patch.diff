@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/code-system/code-rule/code-rule.module.ts b/code-system/code-rule/code-rule.module.ts
+index 197bb7a2067056341e81221605d2436800af4de5..da294e5ba79049d5ed694e36ce1fb93e393446d7 100644
+--- a/code-system/code-rule/code-rule.module.ts
++++ b/code-system/code-rule/code-rule.module.ts
+@@ -70,7 +70,7 @@ export const codeRule = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A rule is what the source says.",
++      statement: "A rule is the thing the source says.",
+     },
+     {
+       invariantKind: "absence",
