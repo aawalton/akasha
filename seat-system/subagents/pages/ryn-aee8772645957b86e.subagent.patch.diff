@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-spawn-name-decide/seat-spawn-name-decide.module.ts b/seat-system/seat-spawn-name-decide/seat-spawn-name-decide.module.ts
+index 3b6c6787e2ba5b082759be2e594a74766c074428..6405dde980497ec851288632ce37eaf662a9d2a6 100644
+--- a/seat-system/seat-spawn-name-decide/seat-spawn-name-decide.module.ts
++++ b/seat-system/seat-spawn-name-decide/seat-spawn-name-decide.module.ts
+@@ -21,7 +21,7 @@ export const seatSpawnNameDecide = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A seat spelling only the role it defaults to has stated nothing to be named from.",
++        "A seat spelling only the role that seat defaults to has stated nothing to be named from.",
+     },
+   ],
+ } as const satisfies Module
