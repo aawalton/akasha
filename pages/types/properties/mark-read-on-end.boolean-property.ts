@@ -15,7 +15,7 @@ export const markReadOnEnd = {
     },
     {
       invariantKind: "departure",
-      statement: "A page already recorded as read is left as it stands.",
+      statement: "A page already recorded as read is left as that page stands.",
     },
   ],
 } as const satisfies BooleanProperty
