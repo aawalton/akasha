@@ -1,0 +1,13 @@
+diff --git a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
+index 501c70013d7b6e70a59013d396276b6fe9a82ad8..bcfc7250077e72f5ece4598d5dff961e0b114dec 100644
+--- a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
++++ b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
+@@ -18,7 +18,7 @@ export const aranyaClusterCleanup = {
+     {
+       statement: "All cluster-specific files are in the cluster/ folder.",
+       workingMemory:
+-        "The keystone is `cluster-service.manifestCode`: still a text property naming a repo-root path, so no page claims the 51 attachments and `file-has-its-page` refuses any change touching one. Its file was renamed to `cluster-service-manifest-code`, freeing the slug for the manifest page type's own file property, so a path check reads as converted when nothing moved. `service-system/cluster-services` is 126 files reached through 8 subpath exports.",
++        "`manifestCode` is gone: all 51 cluster services name a manifest page and no attachment is left, so every manifest code file sits beside a page of its own. 659 tracked files are left to move: cluster-checks 300, cluster-manifests 143, cluster-services 100, cluster-provisioning 41, k8s-types 28, cluster-operations 24, k8s-synth 15, cluster-api 8. The 51 manifest pages are not among them, since this initiative's constraint puts each under the domain it serves. Alan settles those.",
+     },
+     {
+       statement: "The cluster/ folder passes the `folder-matches-a-shape` check.",
