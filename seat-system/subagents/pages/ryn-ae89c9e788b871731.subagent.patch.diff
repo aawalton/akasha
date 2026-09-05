@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/alan/fitness/exercise-access/free-exercise-mapping/free-exercise-mapping.module.ts b/alan/fitness/exercise-access/free-exercise-mapping/free-exercise-mapping.module.ts
+index 2cf0577ecdd344515d8eeb443cd98b58e433eb8a..a64e4c82dd0859a10d04fffb205910180725adf1 100644
+--- a/alan/fitness/exercise-access/free-exercise-mapping/free-exercise-mapping.module.ts
++++ b/alan/fitness/exercise-access/free-exercise-mapping/free-exercise-mapping.module.ts
+@@ -14,8 +14,7 @@ export const freeExerciseMapping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A correction overrides what the upstream row says before any trait is worked out.",
++      statement: "A correction overrides the upstream row's values before any trait is worked out.",
+     },
+     {
+       invariantKind: "departure",
