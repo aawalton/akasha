@@ -115,7 +115,7 @@ export function readIn(argv: readonly string[]): Read {
   const loose = rest[0]
   if (loose !== undefined) {
     if (said.has(POD)) {
-      refusals.push(`\`${loose}\` stands where the pod goes, and \`${POD}\` already names one`)
+      refusals.push(`\`${loose}\` sits where the pod goes, and \`${POD}\` already names one`)
     } else {
       said.set(POD, loose)
     }

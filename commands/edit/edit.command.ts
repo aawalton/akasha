@@ -23,7 +23,7 @@ export const edit = {
     "a mechanical change is made by the command for it rather than by passages stated here.",
     "`move` carries and repoints, `refactor` renames and retypes, `replace` substitutes across files, `remove` takes away.",
     "--file-path, --old-file and --new-file repeat in triples, so several files change as one.",
-    "a passage stated must stand exactly once in the file, or the call is refused.",
+    "a passage stated must be in the file exactly once, or the call is refused.",
     "the passage and what it becomes are files or standard input, never text said on the command line.",
     "a --file-path stating no --old-file reads its passages from standard input.",
     "a passage piped in sits between <<<<<<< old and =======, and what it becomes before >>>>>>> new.",
@@ -49,7 +49,8 @@ export const edit = {
     },
     {
       invariantKind: "departure",
-      statement: "A body standing that will not open is refused as itself rather than as absent.",
+      statement:
+        "A body that is there and will not open is refused as itself rather than as absent.",
     },
     {
       invariantKind: "departure",

@@ -22,7 +22,7 @@ test("an act naming no pod is refused", () => {
   expect("refused" in readIn(["logs"])).toBe(true)
 })
 
-test("a pod said as a word stands where the flag would", () => {
+test("a pod said as a word sits where the flag would", () => {
   const read = readIn(["logs", "my-pod"])
   expect("refused" in read).toBe(false)
   if ("refused" in read) return
@@ -33,7 +33,7 @@ test("a pod said twice, once as a word and once as a flag, is refused", () => {
   expect("refused" in readIn(["logs", "my-pod", "--pod", "other-pod"])).toBe(true)
 })
 
-test("the namespace, the window and the limit stand where none is said", () => {
+test("the namespace, the window and the limit hold where none is said", () => {
   const read = readIn(["logs", "my-pod"])
   expect("refused" in read).toBe(false)
   if ("refused" in read) return

@@ -129,8 +129,8 @@ function aiming(paths: readonly string[], given: Given): Aimed {
     const absolute = resolve(named.startsWith("/") ? named : join(root, named))
     if (absolute !== root && !absolute.startsWith(`${root}/`)) {
       refusals.push(
-        `${named} stands outside the repository — a path is read against the repository root, ` +
-          "and this reads what stands inside it"
+        `${named} sits outside the repository — a path is read against the repository root, ` +
+          "and this reads what sits inside it"
       )
       continue
     }

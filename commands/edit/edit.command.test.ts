@@ -294,7 +294,7 @@ test("a substitution and a removal land as one commit", async () => {
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("delta\n")
 })
 
-test("a removal alone lands, and what stands beside it goes with it", async () => {
+test("a removal alone lands, and what sits beside it goes with it", async () => {
   const root = repoWith({ "akasha/a.module.ts": "a\n", "akasha/a.module.code.ts": "b\n" })
   const said = await edited(root, ["--remove", "akasha/a.module.ts"])
   expect(said.code).toBe(0)

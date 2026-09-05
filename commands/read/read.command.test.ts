@@ -310,7 +310,7 @@ test("an agent whose record holds nothing gets the body whole", () => {
   expect(said.report.join("\n")).toContain("the whole file follows")
 })
 
-test("a read of a page hands back the types it stands under, and records them", () => {
+test("a read of a page hands back the types it is under, and records them", () => {
   const root = thingRoot()
   const said = read(["--file-path", THING], givenFor(root))
   expect(said.code).toBe(0)
