@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/service-system/cluster-services/workload-census/workload-census.module.ts b/service-system/cluster-services/workload-census/workload-census.module.ts
-index 22919ee4a372a01bcef4c58df5ae7dbf7b1e278e..db1b4eda5973c214de926afac753e96f62fa1e08 100644
+index 22919ee4a372a01bcef4c58df5ae7dbf7b1e278e..42b7a059d16f6db51a466aab1d67105f27bb487a 100644
 --- a/service-system/cluster-services/workload-census/workload-census.module.ts
 +++ b/service-system/cluster-services/workload-census/workload-census.module.ts
 @@ -9,7 +9,8 @@ export const workloadCensus = {
@@ -13,3 +13,12 @@ index 22919ee4a372a01bcef4c58df5ae7dbf7b1e278e..db1b4eda5973c214de926afac753e96f
      },
      {
        invariantKind: "departure",
+@@ -18,7 +19,7 @@ export const workloadCensus = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here changes what the cluster runs.",
++      statement: "Nothing here changes the workloads the cluster runs.",
+     },
+   ],
+ } as const satisfies Module
