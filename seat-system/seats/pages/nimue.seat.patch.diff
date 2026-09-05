@@ -1,0 +1,38 @@
+diff --git a/pages/computing/page-computing.module.code.ts b/pages/computing/page-computing.module.code.ts
+index 79fb898ca5e6677321720570e9bf16125c922399..54aca48d6ce94aeceeba31b5c30208725e098793 100644
+--- a/pages/computing/page-computing.module.code.ts
++++ b/pages/computing/page-computing.module.code.ts
+@@ -13,10 +13,16 @@ export type Computed = {
+   readonly work: Work<Held, unknown>
+ }
+ 
++export type Unready = {
++  readonly key: string
++  readonly why: string
++}
++
+ export type Subject = {
+   readonly id: string
+   readonly value: Held
+   readonly computed: readonly Computed[]
++  readonly unready?: readonly Unready[]
+ }
+ 
+ export type Source = {
+@@ -112,6 +118,16 @@ export function computingOver(source: Source): Computing {
+         get: () => heldBy(subject, one, view),
+       })
+     }
++    for (const one of subject.unready ?? []) {
++      if (Object.hasOwn(view, one.key)) continue
++      Object.defineProperty(view, one.key, {
++        enumerable: false,
++        configurable: true,
++        get: () => {
++          throw new Error(one.why)
++        },
++      })
++    }
+     views.set(slug, view)
+     return view
+   }
