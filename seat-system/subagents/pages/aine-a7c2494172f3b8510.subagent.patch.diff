@@ -1,0 +1,52 @@
+diff --git a/temper/temper-commands/temper-inventory-buy-rule-create/temper-inventory-buy-rule-create.command.code.ts b/temper/temper-commands/temper-inventory-buy-rule-create/temper-inventory-buy-rule-create.command.code.ts
+index 828c59d1d33d984426368d413e71535771a173f6..c1c737b81d97652941125a7a60fc212bec4dd0ae 100644
+--- a/temper/temper-commands/temper-inventory-buy-rule-create/temper-inventory-buy-rule-create.command.code.ts
++++ b/temper/temper-commands/temper-inventory-buy-rule-create/temper-inventory-buy-rule-create.command.code.ts
+@@ -68,7 +68,7 @@ async function made(held: ReadonlyMap<string, string>): Promise<Answer> {
+   return {
+     report: [
+       ...answer.report,
+-      `this buy rule stands inactive — say \`akasha temper-inventory-buy-rule-update ${created.id} ${ACTIVE} true\` to start it`,
++      `this buy rule is inactive — say \`akasha temper-inventory-buy-rule-update ${created.id} ${ACTIVE} true\` to start it`,
+     ],
+     refusals: [],
+     code: 0,
+diff --git a/temper/temper-commands/temper-inventory-master-consumable-trace/temper-inventory-master-consumable-trace.command.code.ts b/temper/temper-commands/temper-inventory-master-consumable-trace/temper-inventory-master-consumable-trace.command.code.ts
+index 1d2ac38344ee0eaa7339a0eacc8f3e7cd05eea2a..950b30044a181cc74fbe10a436fb663f8f249784 100644
+--- a/temper/temper-commands/temper-inventory-master-consumable-trace/temper-inventory-master-consumable-trace.command.code.ts
++++ b/temper/temper-commands/temper-inventory-master-consumable-trace/temper-inventory-master-consumable-trace.command.code.ts
+@@ -184,7 +184,7 @@ type Held = { readonly traces: readonly MasterConsumableTrace[] } | { readonly w
+ 
+ async function tracesIn(at: string): Promise<Held> {
+   const file = Bun.file(at)
+-  if (!(await file.exists())) return { why: `${INVENTORY_LUA}: nothing stands at ${at}` }
++  if (!(await file.exists())) return { why: `${INVENTORY_LUA}: nothing is at ${at}` }
+   const content = await file.text()
+   const rootSchema = savedVariablesRootSchema(
+     z
+diff --git a/temper/temper-commands/temper-inventory-parity/temper-inventory-parity.command.code.ts b/temper/temper-commands/temper-inventory-parity/temper-inventory-parity.command.code.ts
+index 6c71955a6d1b10a3dc87bc74baf06228287af8cf..db96dd56c4c836326f1bebc78876b0185a7007eb 100644
+--- a/temper/temper-commands/temper-inventory-parity/temper-inventory-parity.command.code.ts
++++ b/temper/temper-commands/temper-inventory-parity/temper-inventory-parity.command.code.ts
+@@ -314,7 +314,7 @@ export async function temperInventoryParity(
+   const resolved = resolveItemFromInventory(caps, db, read.itemId)
+   if (resolved === undefined) {
+     return refused(
+-      `item ${String(read.itemId)} stands in the stored trace and in no bag scan of ` +
++      `item ${String(read.itemId)} is in the stored trace and in no bag scan of ` +
+         `${inventoryPath}, so there is nothing fresh to compare it against`,
+       DATA
+     )
+diff --git a/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.code.ts b/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.code.ts
+index 175fefc88bb56b1858b87191030ae08bc611e404..1c6d020fa05d349bf65189cc6bf796dc74fdd9dd 100644
+--- a/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.code.ts
++++ b/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.code.ts
+@@ -31,7 +31,7 @@ const HELD = "json"
+ 
+ const ACCOUNT_PAGE = "accountPage"
+ 
+-type Standing = { readonly path: string; readonly id: string }
++type Page = { readonly path: string; readonly id: string }
+ 
+ export type Read =
+   | {
