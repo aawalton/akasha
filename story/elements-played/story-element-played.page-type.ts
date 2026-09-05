@@ -55,7 +55,7 @@ export const storyElementPlayed = {
     },
     {
       invariantKind: "departure",
-      statement: "An element's five faculties on its page are what holds across the whole story.",
+      statement: "An element's five faculties on its page hold across the whole story.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +67,7 @@ export const storyElementPlayed = {
     },
     {
       invariantKind: "departure",
-      statement: "An element states at every turn what the element would do.",
+      statement: "An element states at every turn how the element would act.",
     },
     {
       invariantKind: "departure",
