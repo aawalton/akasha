@@ -1,0 +1,14 @@
+diff --git a/alan/harness/monarch/candidate/monarch-candidate.module.ts b/alan/harness/monarch/candidate/monarch-candidate.module.ts
+index aabd921941d0f6d645c9016ae3b2c48748665d00..5882142fbeaf855c8a412eafcccd80ca2251da80 100644
+--- a/alan/harness/monarch/candidate/monarch-candidate.module.ts
++++ b/alan/harness/monarch/candidate/monarch-candidate.module.ts
+@@ -10,8 +10,7 @@ export const monarchCandidate = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A candidate is checked by the same reader a standing rule is, so it cannot be tried in a shape a page could not hold.",
++      statement: "A candidate is checked by the same reader a standing rule is.",
+     },
+     {
+       invariantKind: "departure",
