@@ -1,3 +1,15 @@
+diff --git a/machines/provisioning/provisioning.domain.ts b/machines/provisioning/provisioning.domain.ts
+index 6198eeabf3530b26efbe9432d1a82965def2806b..d5dad6d7b541cce43e27baf5b19ed50d7bcbdf01 100644
+--- a/machines/provisioning/provisioning.domain.ts
++++ b/machines/provisioning/provisioning.domain.ts
+@@ -8,6 +8,7 @@ export const provisioning = {
+   partSlugs: [
+     "page-type/provisioned-file",
+     "python-module/btw5",
++    "shell-script/akasha-launcher",
+     "shell-script/ci-cost-snapshot",
+     "shell-script/find-session",
+     "shell-script/link-making",
 diff --git a/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.ts b/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..281c57424af550aa37af70791bc85dc73149a495
