@@ -1495,3 +1495,11 @@ index ab70ccb2e8288af06b3ac4eaae734f84c9c766bc..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-saved-variables
 \ No newline at end of file
+diff --git a/temper/temper-saved-vars-migration/temper-saved-vars-migration b/temper/temper-saved-vars-migration/temper-saved-vars-migration
+deleted file mode 120000
+index 5aecd081be571cc1b5bc1d8976cd77226eb47daf..0000000000000000000000000000000000000000
+--- a/temper/temper-saved-vars-migration/temper-saved-vars-migration
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-saved-vars-migration
+\ No newline at end of file
