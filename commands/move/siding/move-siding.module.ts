@@ -10,7 +10,8 @@ export const moveSiding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A pair is read against the repository root, and one side outside it is refused.",
+      statement:
+        "A pair is read against the repository root, and one side outside that root is refused.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +60,7 @@ export const moveSiding = {
     },
     {
       invariantKind: "departure",
-      statement: "A file that is neither is carried under whatever name a pair gives it.",
+      statement: "A file that is neither is carried under whatever name a pair gives that file.",
     },
     {
       invariantKind: "departure",
@@ -91,7 +92,8 @@ export const moveSiding = {
     },
     {
       invariantKind: "departure",
-      statement: "A file whose name reserves it uncommitted is answered as no commit carrying it.",
+      statement:
+        "A file whose name reserves that file uncommitted is answered as no commit carrying that file.",
     },
     {
       invariantKind: "absence",
