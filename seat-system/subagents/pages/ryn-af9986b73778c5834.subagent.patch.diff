@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
-index c535fa6cc31e1ed491e208359b47be8e34bf1d40..144bcecf105bd9f1602d49c8796d6542fb66ea88 100644
+index c535fa6cc31e1ed491e208359b47be8e34bf1d40..83bc1f8643ec5f706221ab02b1e400e2f4f50d61 100644
 --- a/command-system/landing/landing.module.ts
 +++ b/command-system/landing/landing.module.ts
 @@ -52,11 +52,11 @@ export const landing = {
@@ -28,6 +28,15 @@ index c535fa6cc31e1ed491e208359b47be8e34bf1d40..144bcecf105bd9f1602d49c8796d6542
        invariantKind: "departure",
 -      statement: "What is put back is the base commit's bodies.",
 +      statement: "The bodies put back are the base commit's bodies.",
+     },
+     {
+       invariantKind: "departure",
+@@ -76,7 +76,7 @@ export const landing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What was staged for a commit that threw is unstaged with the bodies.",
++      statement: "The paths staged for a commit that threw are unstaged with the bodies.",
      },
      {
        invariantKind: "departure",
