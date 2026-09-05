@@ -10,7 +10,7 @@ export const containerImage = {
     {
       invariantKind: "departure",
       statement:
-        "An image is tagged with a hash of what went into building the image rather than a name or version.",
+        "An image is tagged with a hash of the image's build inputs rather than a name or version.",
     },
   ],
 } as const satisfies Domain
