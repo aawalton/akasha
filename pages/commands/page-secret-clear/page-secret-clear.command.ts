@@ -28,7 +28,7 @@ export const pageSecretClear = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A key that was the last one the sops file held takes the file with it.",
+      statement: "A key that was the last one the sops file held takes the file with that key.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +44,7 @@ export const pageSecretClear = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here puts back what it dropped.",
+      statement: "Nothing here puts back what this command dropped.",
     },
   ],
 } as const satisfies Command
