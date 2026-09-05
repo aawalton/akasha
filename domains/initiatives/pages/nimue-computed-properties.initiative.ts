@@ -10,7 +10,7 @@ export const nimueComputedProperties = {
     {
       statement: "A property states the calculation that fills it.",
       workingMemory:
-        "`pages/computed-properties/computed-property.page-type.ts` is landed, extending module and page-property both. The type carries 19 properties: code, test and test-fixtures from module, property-slug, generator and unique from page-property, holds of its own, the rest from domain and page. `Work<Page, Held>` and `Reach` are exported from that file. `holds` is still imported from formula-properties and moves here when that type goes. Next is the evaluator and the first calculation.",
+        "`pages/computing/page-computing` is landed: a pure evaluator over calculations handed in, memoised per `pageId#propertySlug`, rings caught within a page and across two, barred per key. 11 tests, and a seeded control proves the ring test sighted. It and `computed-property` are ways in on the pages manifest. The first calculation lands atomically, and `workingOver` bars every formula key on a sort it holds no kind for, so `page-formulas` learns `computed-property` in that landing.",
     },
     {
       statement: "A calculation names its inputs rather than reaching for what it likes.",
@@ -59,5 +59,8 @@ export const nimueComputedProperties = {
     "A fault of the evaluator is repaired in the evaluator rather than handed to whoever writes a calculation.",
     "A page file may state no value for a computed property, so what is stored and what is worked are two types.",
     "Activity is not part of this work: its keys are declared and written, and its silence is an outage.",
+    "A registry naming each calculation is machine-written rather than composed by an agent.",
+    "A registry is generated where `bun.lock` is generated, so a mechanical change leaves it current.",
+    "The pages package imports no domain, so a calculation is loaded at boot rather than compiled in.",
   ],
 } as const satisfies Initiative
