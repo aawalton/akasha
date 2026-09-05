@@ -23,7 +23,7 @@ index 9ac2367764cde2a531f6e13cfa859c6bfb97857a..90d07643675982e659f7f63315b3bc3b
    const scheduleSlug = freeSlug(pageStem(title), taken)
  
 diff --git a/alan/fitness/commands/exercise-schedule-create/exercise-schedule-create.command.ts b/alan/fitness/commands/exercise-schedule-create/exercise-schedule-create.command.ts
-index cc51cd883c7378b9f09b0efea268ae92ab2893c8..4cfd36738b88231696d3c73ddd8be47ad731b3f6 100644
+index cc51cd883c7378b9f09b0efea268ae92ab2893c8..4890a1b928412c3c0e7d763c66731bf04a571d43 100644
 --- a/alan/fitness/commands/exercise-schedule-create/exercise-schedule-create.command.ts
 +++ b/alan/fitness/commands/exercise-schedule-create/exercise-schedule-create.command.ts
 @@ -4,7 +4,7 @@ export const exerciseScheduleCreate = {
@@ -44,6 +44,15 @@ index cc51cd883c7378b9f09b0efea268ae92ab2893c8..4cfd36738b88231696d3c73ddd8be47a
      "a day's slug is derived from the schedule's slug and the weekday.",
    ],
    invariants: [
+@@ -37,7 +37,7 @@ export const exerciseScheduleCreate = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The schedule already active is stood down before this one is stood up.",
++      statement: "The schedule already active is stood down before this one is set up.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/alan/fitness/commands/exercise-session-finish/exercise-session-finish.command.code.ts b/alan/fitness/commands/exercise-session-finish/exercise-session-finish.command.code.ts
 index fe6c3cf9fa7f651713d1112c841b050ee4ba728f..73f345037bd1d67fd266c23ef6d36e479ed2aca4 100644
 --- a/alan/fitness/commands/exercise-session-finish/exercise-session-finish.command.code.ts
@@ -87,7 +96,7 @@ index 09e91dcbcf2144566116a30e0f0aa8fe45f0e2bc..228985cbb66aa7ea23245adcb54378f7
      {
        invariantKind: "departure",
 diff --git a/alan/fitness/commands/exercise-today/exercise-today.command.ts b/alan/fitness/commands/exercise-today/exercise-today.command.ts
-index 96eddfd35ae4eeb671173f8e1609565dc454fde9..c77690f37d15a426f7d9acdba3dc517aed52552f 100644
+index 96eddfd35ae4eeb671173f8e1609565dc454fde9..757ec723c9ec109648064be68a61875ddc9d73fa 100644
 --- a/alan/fitness/commands/exercise-today/exercise-today.command.ts
 +++ b/alan/fitness/commands/exercise-today/exercise-today.command.ts
 @@ -4,7 +4,7 @@ export const exerciseToday = {
@@ -108,3 +117,12 @@ index 96eddfd35ae4eeb671173f8e1609565dc454fde9..c77690f37d15a426f7d9acdba3dc517a
      "the session answered is the newest one started on that date.",
    ],
    invariants: [
+@@ -30,7 +30,7 @@ export const exerciseToday = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "No active schedule standing is an empty focus rather than a refusal.",
++      statement: "No active schedule existing is an empty focus rather than a refusal.",
+     },
+     {
+       invariantKind: "departure",
