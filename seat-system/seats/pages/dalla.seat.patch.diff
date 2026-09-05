@@ -95,7 +95,7 @@ index 4ea48fe70aae262462abb6904e10611c07b64b72..c5cc6ba3e89417ed2bdc196d1c9f2013
        invariantKind: "departure",
        statement: "A patch no longer mechanical is mechanical again for no later change.",
 diff --git a/commands/patch/patch.command.code.ts b/commands/patch/patch.command.code.ts
-index 28ffd619df397839bc783d7257392a97858ca2a4..661a201cf12bc3876283eb3d83cdcb5f2f9cd470 100644
+index 28ffd619df397839bc783d7257392a97858ca2a4..d5b8ecbfa3be8d82d60578db8e49ceeb1acfd084 100644
 --- a/commands/patch/patch.command.code.ts
 +++ b/commands/patch/patch.command.code.ts
 @@ -17,6 +17,7 @@ import {
@@ -151,3 +151,12 @@ index 28ffd619df397839bc783d7257392a97858ca2a4..661a201cf12bc3876283eb3d83cdcb5f
  }
  
  function bodyIn(
+@@ -361,7 +383,7 @@ export async function patching(
+   if (page === null || patchAt(page) === null) return mistaking([NO_PAGE])
+   const rest = argv.slice(1)
+   if (act === undefined) return showing(given.root, page)
+-  if (act === DROP) return dropping(given.root, page)
++  if (act === DROP) return dropping(given.root, page, rest)
+   if (act === SHOW) return showingBody(given.root, page, rest)
+   if (act === RESOLVE) return await resolving(given, page, rest, piping)
+   return await applying(given, page, rest)
