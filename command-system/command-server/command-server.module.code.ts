@@ -31,7 +31,7 @@ Commands: ${COMMANDS_SERVED.join(", ")}
   --help  This.
 `
 
-const COMMANDS_AT = "command-system/commands"
+const COMMANDS_AT = "commands"
 
 async function commandFile(command: string): Promise<string> {
   const at = join(COMMANDS_AT, command, `${command}.command.code.ts`)
