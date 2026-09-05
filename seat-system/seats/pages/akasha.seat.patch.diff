@@ -1,0 +1,44 @@
+diff --git a/context/warrants/assignment-itself/assignment-itself.context-warrant.code.ts b/context/warrants/assignment-itself/assignment-itself.context-warrant.code.ts
+index 111561aaefd425b49551a4e88715425dbbe0fa14..ef9d710b2417ece671f3579089ec701cd7e25ec8 100644
+--- a/context/warrants/assignment-itself/assignment-itself.context-warrant.code.ts
++++ b/context/warrants/assignment-itself/assignment-itself.context-warrant.code.ts
+@@ -1,4 +1,5 @@
+-import { listedAddressed, listedAt } from "@akasha/indexes"
++import { listedAt, listedFor } from "@akasha/indexes"
++import { addressedIn } from "@akasha/pages/page-address"
+ import { textAt, valueAt } from "@akasha/pages/page-value"
+ import { slugStated, typeStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
+ import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
+diff --git a/context/warrants/domain-ancestors/domain-ancestors.context-warrant.code.ts b/context/warrants/domain-ancestors/domain-ancestors.context-warrant.code.ts
+index 1a6a744ea974524b5030f8e6dd73082eab48b658..aaa638b5c1f1bfb872a2adb0ae65b56e80431089 100644
+--- a/context/warrants/domain-ancestors/domain-ancestors.context-warrant.code.ts
++++ b/context/warrants/domain-ancestors/domain-ancestors.context-warrant.code.ts
+@@ -1,4 +1,5 @@
+-import { idsNaming, type Listed, listedAddressed, listedAt, listedById } from "@akasha/indexes"
++import { idsNaming, type Listed, listedAt, listedById, listedFor } from "@akasha/indexes"
++import { addressedIn } from "@akasha/pages/page-address"
+ import { textAt, valueAt } from "@akasha/pages/page-value"
+ import { slugStated, typeStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
+ import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
+diff --git a/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.code.ts b/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.code.ts
+index 75c34800ceadfd99ca433a79d38dbf5d80514a3d..7d8ad550f3f8f980d036b879edd3a57884834891 100644
+--- a/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.code.ts
++++ b/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.code.ts
+@@ -1,4 +1,5 @@
+-import { type Listed, listedAddressed, listedAt } from "@akasha/indexes"
++import { type Listed, listedAt, listedFor } from "@akasha/indexes"
++import { addressedIn } from "@akasha/pages/page-address"
+ import { textAt, valueAt } from "@akasha/pages/page-value"
+ import { slugStated, typeStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
+ import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
+diff --git a/pages/indexes/reading/index-reading.module.code.ts b/pages/indexes/reading/index-reading.module.code.ts
+index 4bef433a80c88a0a630e9f0ac13fd94de4a1b1d2..a178d3e775b9b710f5acab76eb4f8efa2ed745e4 100644
+--- a/pages/indexes/reading/index-reading.module.code.ts
++++ b/pages/indexes/reading/index-reading.module.code.ts
+@@ -1,5 +1,5 @@
+ import { join } from "node:path"
+-import { addressIn } from "@akasha/pages/page-address"
++import { addressIn, type PageAddress } from "@akasha/pages/page-address"
+ import { partedIn } from "@akasha/pages/page-file-name"
+ import type { Value } from "@akasha/pages/page-value"
+ import { indexIdentity } from "../identity/index-identity.index.ts"
