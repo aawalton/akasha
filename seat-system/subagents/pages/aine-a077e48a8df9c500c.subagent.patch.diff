@@ -25,7 +25,7 @@ index df619b7eccf3db82a26463e6cedc206bbeb62d31..247435ddc1e84e05441b43d64875acd0
    )
  }
 diff --git a/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.ts b/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.ts
-index fac67083e3b1fd8dda80d4901f9dbe005af1971e..71c8dc8a417f11af890436421e1ea981bc66c489 100644
+index fac67083e3b1fd8dda80d4901f9dbe005af1971e..837b0a492926548a03d01a317cc88e5068ec8820 100644
 --- a/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.ts
 +++ b/infrastructure/cluster-manifests/orphan-sweeping/orphan-sweeping.module.ts
 @@ -10,8 +10,7 @@ export const orphanSweeping = {
@@ -35,6 +35,15 @@ index fac67083e3b1fd8dda80d4901f9dbe005af1971e..71c8dc8a417f11af890436421e1ea981
 -      statement:
 -        "Every Deployment, Service and StatefulSet standing in the app namespaces is read.",
 +      statement: "Every Deployment, Service and StatefulSet in the app namespaces is read.",
+     },
+     {
+       invariantKind: "departure",
+@@ -36,7 +35,7 @@ export const orphanSweeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The manifests compared against are read from this checkout as it now stands.",
++      statement: "The manifests compared against are read from this checkout as it now is.",
      },
      {
        invariantKind: "departure",
