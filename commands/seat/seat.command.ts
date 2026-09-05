@@ -50,11 +50,12 @@ export const seat = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A supervisor is named by the first word and the act on it by the second.",
+      statement:
+        "A supervisor is named by the first word and the act on that supervisor by the second.",
     },
     {
       invariantKind: "departure",
-      statement: "An act on a seat is the first word and the seat it acts on is the second.",
+      statement: "An act on a seat is the first word and the seat that act acts on is the second.",
     },
     {
       invariantKind: "departure",
@@ -115,7 +116,7 @@ export const seat = {
     },
     {
       invariantKind: "departure",
-      statement: "What a resume, a reset or a start prints is written where it runs.",
+      statement: "What a resume, a reset or a start prints is written where that act runs.",
     },
     {
       invariantKind: "departure",
