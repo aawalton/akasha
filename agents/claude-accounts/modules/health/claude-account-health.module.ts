@@ -48,7 +48,8 @@ export const claudeAccountHealth = {
     },
     {
       invariantKind: "departure",
-      statement: "A latch handed blank text is a removal, which is what such a mark would mean.",
+      statement:
+        "A latch handed blank text is a removal, which is the meaning such a mark would carry.",
     },
     {
       invariantKind: "departure",
