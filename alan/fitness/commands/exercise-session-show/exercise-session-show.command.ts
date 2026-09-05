@@ -15,7 +15,6 @@ export const exerciseSessionShow = {
     { said: "--json", takes: "give the session as JSON rather than as tab-separated rows" },
   ],
   helpNotes: [
-    "the session left unsaid is the most recent one still open.",
     "the sets come grouped by movement, and within a movement by set number.",
     "a movement is named by its exercise page's title, falling back to its slug.",
     "the volume counts the bodyweight the client profile states.",
