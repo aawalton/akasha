@@ -1631,3 +1631,11 @@ index ae455fe126c332d3e235a693fef01423ad0aa767..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-watcher
 \ No newline at end of file
+diff --git a/temper/temper-web/temper-web b/temper/temper-web/temper-web
+deleted file mode 120000
+index 71fd716e219691631266fdda2f130f6fe173d80b..0000000000000000000000000000000000000000
+--- a/temper/temper-web/temper-web
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-web
+\ No newline at end of file
