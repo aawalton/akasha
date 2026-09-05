@@ -33,6 +33,30 @@ export const packagePhasing = {
       statement: "A batch is the files naming the old name, no wider than the width asked for.",
     },
     {
+      invariantKind: "departure",
+      statement: "A phase names the change kind that phase lands under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Expand lands as a `change-mechanical` change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Migrate lands each batch as a `change-mechanical` change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Contract lands as a `change-checked` change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Contract judges every path the rename touched rather than the paths it changes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the rename respelled is judged once, by contract, over the final body.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes a file or reads the disk.",
     },
