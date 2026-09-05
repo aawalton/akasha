@@ -9,7 +9,8 @@ export const filePropertyDefs = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What a page type declares is asked of `@akasha/pages-system-service`.",
+      statement:
+        "The property definitions a page type declares are asked of `@akasha/pages-system-service`.",
     },
     {
       invariantKind: "absence",
