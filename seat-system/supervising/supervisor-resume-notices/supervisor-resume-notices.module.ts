@@ -9,12 +9,11 @@ export const supervisorResumeNotices = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The notices are composed by a child, killed at a ceiling, rather than in here.",
+      statement: "The notices are composed by the compose module rather than in here.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The compose module is reached beside this one rather than by a path from the root.",
+      statement: "The compose module is imported from beside this one and its function called.",
     },
     {
       invariantKind: "departure",

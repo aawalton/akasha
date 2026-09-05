@@ -44,8 +44,18 @@ function requireNotice(all: Readonly<Record<string, string>>, key: string): stri
   return text
 }
 
+// `notices` throws, because it is a function rather than a command. Here it is one, so a
+// composing that fails says what failed on the line a caller's mistake is said on.
+function allNotices(): Readonly<Record<string, string>> {
+  try {
+    return notices()
+  } catch (error) {
+    fail(error instanceof Error ? error.message : String(error))
+  }
+}
+
 function resumeNotices(): ResumeNotices {
-  const all = notices()
+  const all = allNotices()
   return {
     "restart-immediate": requireNotice(all, "restart-immediate"),
     "restart-deferred": requireNotice(all, "restart-deferred"),
@@ -65,7 +75,7 @@ export type LimitResumeAnswer =
 
 function limitResumeAnswer(decision: LimitResumeDecision): LimitResumeAnswer {
   if (decision.kind !== "nudge") return decision
-  const nudge = requireNotice(notices(), NUDGE_NOTICE)
+  const nudge = requireNotice(allNotices(), NUDGE_NOTICE)
   return { kind: "nudge", reason: decision.reason, nudge, floorMs: LIMIT_RESUME_FLOOR_MS }
 }
 
@@ -81,7 +91,7 @@ export type WaitResumeAnswer =
 
 function waitResumeAnswer(decision: WaitResumeDecision): WaitResumeAnswer {
   if (decision.kind !== "nudge") return decision
-  const nudge = requireNotice(notices(), WAIT_NUDGE_NOTICE)
+  const nudge = requireNotice(allNotices(), WAIT_NUDGE_NOTICE)
   return { kind: "nudge", reason: decision.reason, attempt: decision.attempt, nudge }
 }
 

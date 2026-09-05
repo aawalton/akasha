@@ -9,8 +9,7 @@ export const composeNotices = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "This module is run as its own program rather than imported by what asks for a notice.",
+      statement: "What asks for the notices imports this and calls it rather than running it.",
     },
     {
       invariantKind: "departure",
