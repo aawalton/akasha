@@ -221,13 +221,9 @@ export const akasha = {
     {
       directiveKind: "rule",
       name: "Blame The Mechanism",
-      act: "Treat a fault a mechanical change lands as a fault in the program that composed it.",
-      warrant: "Akasha is a database, and no swarm can judge every row it writes.",
-      aids: [
-        "Mend the program, never the one landing.",
-        "A command that changes code names `change-checked`.",
-        "The audit finds what no check saw.",
-      ],
+      act: "Treat a fault a mechanical change lands as a fault in the program that composed the change.",
+      warrant: "Akasha is a database, and no swarm can judge every page the swarm writes.",
+      aids: ["Mend the program, never the one landing.", "The audit finds what no check saw."],
     },
   ],
 } as const satisfies Domain
