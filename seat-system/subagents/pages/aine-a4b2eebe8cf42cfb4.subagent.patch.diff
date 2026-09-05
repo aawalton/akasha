@@ -1,0 +1,39 @@
+diff --git a/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.shell.sh b/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.shell.sh
+index d9939e0956dfd75b3ed704db4687894b26e4ecad..1fbf27f92808daa7594f4f0aef43038669b17f56 100644
+--- a/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.shell.sh
++++ b/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.shell.sh
+@@ -23,7 +23,7 @@
+ # be the only form of.
+ #
+ # MODES. `mirror.mode` is `history` by default: every branch and tag, as they
+-# stand. `snapshot` mirrors the tree of `main` onto a lineage rooted here — one
++# are. `snapshot` mirrors the tree of `main` onto a lineage rooted here — one
+ # commit per push with no parent before the first — for a repo whose own history
+ # carries an object the destination will not take. The tree is mirrored whole
+ # either way; what a snapshot gives up is the commits behind it.
+diff --git a/git-transport/hooks/pre-receive-change-branches/pre-receive-change-branches.shell-script.shell.sh b/git-transport/hooks/pre-receive-change-branches/pre-receive-change-branches.shell-script.shell.sh
+index 1b62c4fd1c3f7c18caf011fc803f039bc5d98a35..e6cdcf57754b2c17f82d59a7e73d14e689b929ef 100644
+--- a/git-transport/hooks/pre-receive-change-branches/pre-receive-change-branches.shell-script.shell.sh
++++ b/git-transport/hooks/pre-receive-change-branches/pre-receive-change-branches.shell-script.shell.sh
+@@ -31,7 +31,7 @@
+ # THE PATTERNS ANCHOR ON A DIGIT, WHICH IS NOT DECORATION. `merge-*` alone
+ # would also match a `merge-queue/...` ref, because the glob crosses `/`;
+ # `merge-[0-9]*` cannot. The merge queue is gone and its staging ref is no
+-# longer admitted, but the ref it left behind still stands on the server, and
++# longer admitted, but the ref it left behind is still on the server, and
+ # Policy 1 does not gate updates to a branch that already exists.
+ 
+ set -eu
+diff --git a/smilingjenny/smilingjenny-web/routes/api.safety-level.test.ts b/smilingjenny/smilingjenny-web/routes/api.safety-level.test.ts
+index 9df5bb7d2d74ac2e3aa22474e13999b03ff5e352..0b40f25e5275c92b0b5e9d734e4a323aa49dd097 100644
+--- a/smilingjenny/smilingjenny-web/routes/api.safety-level.test.ts
++++ b/smilingjenny/smilingjenny-web/routes/api.safety-level.test.ts
+@@ -6,7 +6,7 @@
+ // and no test asserts a level as though it were his.
+ //
+ // The level is Alan's. Jenny's widget says so in its own words — "Where Alan's safety level
+-// stands today" — so the group her route serves is the same one his site serves, and the
++// is today" — so the group her route serves is the same one his site serves, and the
+ // reading reaching her pod is the same reading, carried to two sites rather than taken twice.
+ //
+ // What this pins that nothing else does: the shipped Swift decodes `stoplights` as a NON-EMPTY
