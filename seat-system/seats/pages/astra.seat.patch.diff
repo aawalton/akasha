@@ -1,0 +1,19 @@
+diff --git a/domains/initiatives/pages/astra-pages-cleanup.initiative.ts b/domains/initiatives/pages/astra-pages-cleanup.initiative.ts
+index aadf67ef9c2610fe51f1d92dc551c532ad92ed89..0ad13939c7e4fffb8c166a27684ce5854dd7bdce 100644
+--- a/domains/initiatives/pages/astra-pages-cleanup.initiative.ts
++++ b/domains/initiatives/pages/astra-pages-cleanup.initiative.ts
+@@ -10,12 +10,12 @@ export const astraPagesCleanup = {
+     {
+       statement: "All pages-specific files are organized in the pages/ folder.",
+       workingMemory:
+-        "`page.page-type.ts` and `pages.workspace-package.ts` now sit together at the top of `pages/`, so `packageIn` pairs them. Three gaps in `move` were fixed on the way: a bare word respelt anywhere (`18a12c83`), a carried body never respelt (`9bb394be`), and a page losing a part while carried written back where it left, which duplicated its id (`649795d4`). What remains is the npm name: 3398 files spell `@akasha/pages`, which `akasha refactor rename package` carries.",
++        "`@akasha/pages-system` is renamed to `@akasha/pages` across the repository: expand at `98dc779f`, eight mechanical migrate batches, contract at `1ff9f931`. `akasha refactor rename package` runs one phase a call and reads which phase from the manifests. The alias expand writes, `workspace:@akasha/pages@*` under the old name, makes `bun install` refuse here, though that same spelling installs in a stub workspace built from these manifests, so no seat could install for the whole migrate window.",
+     },
+     {
+       statement: "The pages/ folder passes the `folder-matches-a-shape` check.",
+       workingMemory:
+-        "At `e83c3893`: `pages/` refuses twice, down from 65. The 31 grouping folders now hold domains of their own, and every rename is landed. `system-service/workstation-services` holds one page of one type, and the shape that would match it, `pages-of-one-type`, is written with `enabled: false`; `temper/temper-watcher/workstation-services` refuses identically. `pages/calculation-loading` is another seat's in-flight work.",
++        "A workspace-package page paired with a page type takes the singular slug now, and `folder-matches-a-shape` reads it that way: `pairedIn` takes the pair, `packageIn` matches the page type's slug, and `holds` answers both identities. What `pages/` refuses cannot be read: 291 untracked symlinks sit in the checkout, 9 of them under `pages/`, and the walk offers each as a file, so the check judges nothing until they go. `system-service/workstation-services` still holds one page of one type, which only the disabled `pages-of-one-type` admits.",
+     },
+   ],
+ } as const satisfies Initiative
