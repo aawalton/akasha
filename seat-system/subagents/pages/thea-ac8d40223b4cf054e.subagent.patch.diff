@@ -169,3 +169,43 @@ index 77d9a07053140450e63d54dfc777a014b23080d6..77eedd60b90c811e9d594c8ca066dfba
 +  ])
 +  expect(filedIn(WEB_HOME, DECLARING)).toEqual(filedIn(other, DECLARING))
 +})
+diff --git a/pages/types/declared-properties/declared-properties.module.test.ts b/pages/types/declared-properties/declared-properties.module.test.ts
+index d2dffca13aaea4cf43032e404b41d222507bfda9..d8b8759f311c080593f4edf989c8453ffed3de60 100644
+--- a/pages/types/declared-properties/declared-properties.module.test.ts
++++ b/pages/types/declared-properties/declared-properties.module.test.ts
+@@ -43,10 +43,11 @@ function propertied(
+   root: string,
+   pageTypeSlug: string,
+   slug: string,
+-  propertySlug: string
++  propertySlug: string,
++  unique: string | null = null
+ ): undefined {
+   schemaFiled(root, pageTypeSlug, slug, [
+-    { pageTypeSlug, targetPageTypeSlug: null, unique: null, slug, propertySlug },
++    { pageTypeSlug, targetPageTypeSlug: null, unique, slug, propertySlug },
+   ])
+ }
+ 
+@@ -193,6 +194,21 @@ test("a declaration restating an inherited property qualified binds once, the ne
+   expect(carried[0]?.required).toBe(true)
+ })
+ 
++test("a declaration narrowing `unique` binds over the reach its property states", () => {
++  const root = rootAt()
++  propertied(root, "text-property", "slug", "slug", "page-type")
++  typed(root, "page", null, [{ pagePropertySlug: "slug", required: true, many: false }])
++  typed(
++    root,
++    "route",
++    ["page"],
++    [{ pagePropertySlug: "slug", required: true, many: false, unique: "part-of" }]
++  )
++
++  expect(carriedBy(root, "route").map((one) => one.unique)).toEqual(["part-of"])
++  expect(carriedBy(root, "page").map((one) => one.unique)).toEqual(["page-type"])
++})
++
+ test("a page type standing above itself is walked once rather than forever", () => {
+   const root = rootAt()
+   propertied(root, "text-property", "slug", "slug")
