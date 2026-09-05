@@ -1,6 +1,7 @@
 import * as vscode from "vscode"
 import { followState } from "../../alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts"
 import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
+import { newestWins } from "../newest-wins/newest-wins.module.code.ts"
 import {
   recordObservation,
   recordSweep,
@@ -54,32 +55,21 @@ export async function activate(context: vscode.ExtensionContext): Promise<void> 
   output.appendLine(`activated; reading what the service writes for ${SLUG}`)
 }
 
-let applying: Promise<void> | undefined
-
-async function applyAll(trigger: string): Promise<void> {
-  const inFlight = applying
-  if (inFlight !== undefined) {
-    await inFlight
-    return
-  }
-  const started = applyOnce(trigger)
-  applying = started
-  try {
-    await started
-  } finally {
-    applying = undefined
-  }
-}
+// A TRIGGER ARRIVING MID-NAMING IS RUN AFTER THAT NAMING RATHER THAN DROPPED. A naming takes the
+// picture at the moment that naming starts, so a trigger waited on and thrown away is a write of
+// the file that reached no terminal. The colors then held until a terminal happened to be opened or
+// focused, which is a second event covering for a lost one rather than a picture that follows.
+const applyAll = newestWins<string>(applyOnce)
 
 // A terminal answers its own process id and nothing else names a seat, so the pid is what the seat
 // is looked up by. Every other fact this used to work out — which seats are there, which shell
 // each tmux client runs under, what color each turn is — the service worked out once for the
 // workstation and wrote in the picture above.
-async function applyOnce(trigger: string): Promise<void> {
+async function applyOnce(trigger: string): Promise<undefined> {
   const held = tabs
-  if (held === null) return
+  if (held === null) return undefined
   const terminals = vscode.window.terminals
-  if (terminals.length === 0) return
+  if (terminals.length === 0) return undefined
   try {
     const began = Date.now()
     const readings = await readProcessIds(terminals)
@@ -104,4 +94,5 @@ async function applyOnce(trigger: string): Promise<void> {
     output.appendLine(`[${trigger}] naming failed: ${String(err)}`)
     recordObservation(FEATURE, { outcome: "failed", failure: String(err) })
   }
+  return undefined
 }

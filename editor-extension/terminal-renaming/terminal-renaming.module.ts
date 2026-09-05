@@ -21,7 +21,7 @@ export const terminalRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A trigger arriving mid-naming waits for the naming in flight.",
+      statement: "A trigger arriving mid-naming is run once that naming ends rather than dropped.",
     },
     {
       invariantKind: "departure",

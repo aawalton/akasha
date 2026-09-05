@@ -27,6 +27,7 @@ export const editorExtension = {
     "module/seat-page",
     "module/palette",
     "module/tree-filter",
+    "module/newest-wins",
     "module/editor-group",
     "module/window-identity",
     "module/activation",

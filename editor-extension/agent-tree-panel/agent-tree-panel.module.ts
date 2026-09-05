@@ -47,7 +47,15 @@ export const agentTreePanel = {
     {
       invariantKind: "departure",
       statement:
-        "A trigger arriving mid-drawing waits on the drawing in flight rather than starting one.",
+        "A state arriving mid-drawing is drawn once that drawing ends rather than dropped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rows go up before the terminals are swept.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A sweep that failed is said on the channel and leaves the rows drawn.",
     },
     {
       invariantKind: "departure",

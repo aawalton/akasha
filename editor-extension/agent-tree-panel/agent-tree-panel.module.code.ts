@@ -36,6 +36,7 @@ import { createColumnMemory } from "../column-memory/column-memory.module.code.t
 import { sampleColumns } from "../column-sampling/column-sampling.module.code.ts"
 import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
 import { invokedSeat } from "../invoked-seat/invoked-seat.module.code.ts"
+import { newestWins } from "../newest-wins/newest-wins.module.code.ts"
 import { recordObservation } from "../observation-store/observation-store.module.code.ts"
 import type { SeatAct } from "../seat-act-confirm/seat-act-confirm.module.code.ts"
 import { runPlan as runPlanWith } from "../seat-plan-running/seat-plan-running.module.code.ts"
@@ -54,6 +55,11 @@ import {
 
 const FEATURE = "agent-tree"
 const SLUG = "agent-tree"
+
+type Drawing = {
+  readonly held: AgentTreeState
+  readonly trigger: string
+}
 
 // The file spells a row the way every state file spells one. The panel spells it another way, and
 // so do the payloads vscode hands back when a menu is used, which are read by name at runtime
@@ -142,11 +148,11 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     return undefined
   }
 
+  // THE ROWS GO UP BEFORE THE TERMINALS ARE SWEPT. The rows come off the file and want nothing from
+  // the harness; the sweep asks the harness for the process table. Sweeping first put that round
+  // trip in front of every turn state Alan is shown, and a sweep that threw took the rows down with
+  // it, so a file that had been read fine drew nothing at all.
   const drawOnce = async (held: AgentTreeState, trigger: string): Promise<undefined> => {
-    const sampled = await sampleColumns(trigger, FEATURE)
-    if (sampled !== undefined) {
-      setSeatTerminals(sampled)
-    }
     try {
       const roots = held.roots.map(asNode)
       setForest(roots)
@@ -181,27 +187,19 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
       output.appendLine(`[${trigger}] drawing failed: ${String(err)}`)
       recordObservation(FEATURE, { outcome: "failed", failure: String(err) })
     }
+    try {
+      const sampled = await sampleColumns(trigger, FEATURE)
+      if (sampled !== undefined) {
+        setSeatTerminals(sampled)
+      }
+    } catch (err) {
+      output.appendLine(`[${trigger}] sweeping the terminals failed: ${String(err)}`)
+    }
     await publishSeatTabs(trigger)
     return undefined
   }
 
-  let drawing: Promise<undefined> | undefined
-
-  const draw = async (held: AgentTreeState, trigger: string): Promise<undefined> => {
-    const inFlight = drawing
-    if (inFlight !== undefined) {
-      await inFlight
-      return undefined
-    }
-    const started = drawOnce(held, trigger)
-    drawing = started
-    try {
-      await started
-    } finally {
-      drawing = undefined
-    }
-    return undefined
-  }
+  const draw = newestWins<Drawing>(({ held, trigger }) => drawOnce(held, trigger))
 
   // An act on a seat asks for the file again rather than waiting for the service to notice, so the
   // panel answers the act at once. A file the service has not written leaves the rows as they are.
@@ -210,12 +208,12 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     if (held === null) {
       return undefined
     }
-    await draw(held, trigger)
+    await draw({ held, trigger })
     return undefined
   }
 
   const reading = followState<AgentTreeState>(akashaRoot(), SLUG, (held) => {
-    void draw(held, "fleet")
+    void draw({ held, trigger: "fleet" })
     return undefined
   })
 
