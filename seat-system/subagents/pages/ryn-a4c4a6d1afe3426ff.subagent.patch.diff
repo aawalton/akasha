@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/code-system/code-format/code-format.module.ts b/code-system/code-format/code-format.module.ts
+index 13a753120f3caf8c1580f78a4cec4ece5a541864..fa5bda3f7482a1f0f4566edbcbbaddada9124cb5 100644
+--- a/code-system/code-format/code-format.module.ts
++++ b/code-system/code-format/code-format.module.ts
+@@ -32,7 +32,8 @@ export const codeFormat = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What comes back is taken only when the run exited clean and said something.",
++      statement:
++        "The body that comes back is taken only when the run exited clean and said something.",
+     },
+     {
+       invariantKind: "departure",
