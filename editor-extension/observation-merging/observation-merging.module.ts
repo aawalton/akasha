@@ -30,7 +30,7 @@ export const observationMerging = {
     },
     {
       invariantKind: "departure",
-      statement: "A first observation is the patch with a time on it.",
+      statement: "A first observation is the patch with a time on that patch.",
     },
     {
       invariantKind: "departure",
