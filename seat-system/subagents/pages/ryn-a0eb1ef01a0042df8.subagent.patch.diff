@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/name-places/pages/property-key.name-place.ts b/pages/name-places/pages/property-key.name-place.ts
+index 90be56609492ad2acc80ecf1bb8529ea45feea6d..bca075b77de5fab7916f9a5ed7fc945bdb3dd61d 100644
+--- a/pages/name-places/pages/property-key.name-place.ts
++++ b/pages/name-places/pages/property-key.name-place.ts
+@@ -17,7 +17,8 @@ export const propertyKey = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Lowering each capital and setting a dash before it gives the slug back.",
++      statement:
++        "Lowering each capital and setting a dash before that capital gives the slug back.",
+     },
+     {
+       invariantKind: "departure",
