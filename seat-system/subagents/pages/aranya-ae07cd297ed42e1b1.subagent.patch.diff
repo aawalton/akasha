@@ -13,3 +13,15 @@ index 0000000000000000000000000000000000000000..3d454a27018ef0377d9a3f61bc992da4
 +  definition: "the cluster object exporter's permissions, its deployment and the way in to it",
 +  code: "ts",
 +} as const satisfies Manifest
+diff --git a/infrastructure/telemetry/telemetry.domain.ts b/infrastructure/telemetry/telemetry.domain.ts
+index 823a81385566b16b303a264f6abbcf637545bc27..ead491189d7f5259d6d938c99a81addefcaa2fea 100644
+--- a/infrastructure/telemetry/telemetry.domain.ts
++++ b/infrastructure/telemetry/telemetry.domain.ts
+@@ -9,6 +9,7 @@ export const telemetry = {
+     "domain/log",
+     "domain/metric",
+     "manifest/dcgm-exporter-daemonset",
++    "manifest/kube-state-metrics",
+     "manifest/node-exporter-daemonset",
+   ],
+ } as const satisfies Domain
