@@ -1,3 +1,15 @@
+diff --git a/infrastructure/loki-service/loki-service.workspace-package.ts b/infrastructure/loki-service/loki-service.workspace-package.ts
+index 13717ca5acdbb1266f00f96d340fb6ad6b45c996..fc94f54a1f206b237241afc9f3d65d4dbc1496cf 100644
+--- a/infrastructure/loki-service/loki-service.workspace-package.ts
++++ b/infrastructure/loki-service/loki-service.workspace-package.ts
+@@ -7,6 +7,7 @@ export const lokiService = {
+   definition: "the manifests the cluster's log store and its collector are applied as",
+   manifest: "json",
+   partSlugs: [
++    "manifest/loki",
+     "module/loki-constants",
+     "module/loki-configs",
+     "module/loki-manifests",
 diff --git a/infrastructure/loki-service/loki/loki.manifest.ts b/infrastructure/loki-service/loki/loki.manifest.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..8cd24c1c83f997ce0922b0803d816c255cebe32a
