@@ -9,7 +9,7 @@ export const completionRing = {
     {
       invariantKind: "departure",
       statement:
-        "The arc is what is full less the backlog measured against a recent period's intake.",
+        "The arc is a full ring less the backlog measured against a recent period's intake.",
     },
     {
       invariantKind: "departure",
