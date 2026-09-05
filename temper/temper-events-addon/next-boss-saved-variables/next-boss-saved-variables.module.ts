@@ -9,7 +9,8 @@ export const nextBossSavedVariables = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What is kept is kept for the whole account rather than for one character.",
+      statement:
+        "The saved variables are kept for the whole account rather than for one character.",
     },
     {
       invariantKind: "departure",
