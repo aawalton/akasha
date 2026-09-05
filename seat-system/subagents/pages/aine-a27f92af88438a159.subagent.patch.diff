@@ -1,5 +1,5 @@
 diff --git a/pages/export-name/page-export-name.module.test.ts b/pages/export-name/page-export-name.module.test.ts
-index 81be552594dff8afae618da20985985a90350312..9e6c997662d42c524d9497feb9631f41c37f1ad7 100644
+index 81be552594dff8afae618da20985985a90350312..8b61827d501f717d5f3ab76c589adc0eb063cf15 100644
 --- a/pages/export-name/page-export-name.module.test.ts
 +++ b/pages/export-name/page-export-name.module.test.ts
 @@ -24,7 +24,7 @@ test("the first character is never raised, so a name is one a page is exported u
@@ -11,6 +11,15 @@ index 81be552594dff8afae618da20985985a90350312..9e6c997662d42c524d9497feb9631f41
    expect(exportedAs("page-")).toBe("page-")
  })
  
+@@ -75,7 +75,7 @@ test("a slug whose name TypeScript keeps for itself names no export", () => {
+   expect(nameFaultIn("yield")).not.toBeNull()
+ })
+ 
+-test("a word reserved only where a class body stands is kept too, since a page is a module", () => {
++test("a word reserved only inside a class body is kept too, since a page is a module", () => {
+   expect(nameFaultIn("private")).not.toBeNull()
+   expect(nameFaultIn("interface")).not.toBeNull()
+ })
 diff --git a/pages/formula/formula-reading/formula-reading.module.code.ts b/pages/formula/formula-reading/formula-reading.module.code.ts
 index fb6a16787b10b4d6c964a5e66172fd6ac695ce1d..2863d39f905e8a5b0d8454fdf5b3150b3bf1f05f 100644
 --- a/pages/formula/formula-reading/formula-reading.module.code.ts
@@ -86,10 +95,10 @@ index d44d1fac50b1e506672f0dc7589cd23266f92279..cd813f39629f8a12aac97846b184c1b5
    code: "ts",
  } as const satisfies Module
 diff --git a/pages/value-key/page-value-key.module.ts b/pages/value-key/page-value-key.module.ts
-index 1dc45b437a3049a5938960426e608bf8dc40b1c4..99127f6c5f13744182e6c78ab79d5e53e902dea7 100644
+index 1dc45b437a3049a5938960426e608bf8dc40b1c4..547db88609ba27c542c82dab853102b3f54eb3f9 100644
 --- a/pages/value-key/page-value-key.module.ts
 +++ b/pages/value-key/page-value-key.module.ts
-@@ -4,7 +4,7 @@ export const pageValueKey = {
+@@ -4,12 +4,12 @@ export const pageValueKey = {
    id: "01a06879-ef4b-7000-a6f7-e981bd4744bc",
    pageTypeSlug: "module",
    slug: "page-value-key",
@@ -98,11 +107,17 @@ index 1dc45b437a3049a5938960426e608bf8dc40b1c4..99127f6c5f13744182e6c78ab79d5e53
    code: "ts",
    invariants: [
      {
+       invariantKind: "departure",
+-      statement: "A page's body stands in its values under one name, and that name is stated here.",
++      statement: "A page's body is in its values under one name, and that name is stated here.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/value/page-value.module.test.ts b/pages/value/page-value.module.test.ts
-index ccc50439f045b4fa1c4add819b6c1328b4204be9..7bada02d67e4a3f3b66b7594b3e4179d7077ebc4 100644
+index ccc50439f045b4fa1c4add819b6c1328b4204be9..c3211edf8abbca6a1bab5fa82b48d4394fb8c936 100644
 --- a/pages/value/page-value.module.test.ts
 +++ b/pages/value/page-value.module.test.ts
-@@ -32,7 +32,7 @@ test("a body that will not load answers with no value rather than throwing", ()
+@@ -32,14 +32,14 @@ test("a body that will not load answers with no value rather than throwing", ()
    expect(valueIn("the new body")).toBe(null)
  })
  
@@ -111,6 +126,14 @@ index ccc50439f045b4fa1c4add819b6c1328b4204be9..7bada02d67e4a3f3b66b7594b3e4179d
    const repo = scratch.rootFor("akasha-entries-folder-")
    mkdirSync(join(repo, "held"), { recursive: true })
  
+   expect(valueAt("held", repo)).toBe(null)
+ })
+ 
+-test("a path standing as nothing holds no page", () => {
++test("a path that is nothing holds no page", () => {
+   const repo = scratch.rootFor("akasha-entries-gone-")
+ 
+   expect(valueAt("gone.module.ts", repo)).toBe(null)
 diff --git a/pages/views/properties/view-sorts.record-property.ts b/pages/views/properties/view-sorts.record-property.ts
 index 7fd84ca92a528164009c36333eed2f65a5c4688e..f9fae7042508a5c5edd4609e490653a82f3058a2 100644
 --- a/pages/views/properties/view-sorts.record-property.ts
