@@ -303,23 +303,6 @@ index 0000000000000000000000000000000000000000..c124bf23a65d49c4bb6c864bc6e65f5f
 +    { name: "statefulset", yaml: statefulsetYaml() },
 +  ]
 +}
-diff --git a/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff b/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
-index d43a65a9e8798a596d1aa1ccd3750c3a07526cdd..111ad5282aec055f6477936d0c7feee562f2a632 100644
---- a/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-a12e35121de21c10e.subagent.patch.diff
-@@ -629,8 +629,12 @@ index 86497ba521da2852c8a4714707c6dc31067d7600..aeb139d40c8a1ca1ed6bf83e2b02ed36
-    replicas: 1,
-    containerPort: 8443,
- -  manifestCode:
-+<<<<<<< what this change would leave
-+-    "infrastructure/networks/headscale/headscale.manifest.code.ts",
-+=======
- -    "service-system/cluster-services/pages/headscale/headscale.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "headscale",
- +=======
- +  manifestCode: "infrastructure/networks/headscale/headscale.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/headscale/headscale.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/headscale/headscale.cluster-service.code.attachment.ts
 deleted file mode 100644
 index c124bf23a65d49c4bb6c864bc6e65f5f92aa91c6..0000000000000000000000000000000000000000
