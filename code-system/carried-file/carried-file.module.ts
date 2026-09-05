@@ -18,7 +18,7 @@ export const carriedFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A carrier states the byte count and the sha256 of what it carries.",
+      statement: "A carrier states the byte count and the sha256 of what that carrier carries.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,8 @@ export const carriedFile = {
     },
     {
       invariantKind: "departure",
-      statement: "The base64 is one line, so a seam with no json reader takes it in one read.",
+      statement:
+        "The base64 is one line, so a seam with no json reader takes that base64 in one read.",
     },
     {
       invariantKind: "departure",
