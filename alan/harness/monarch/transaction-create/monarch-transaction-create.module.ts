@@ -9,11 +9,12 @@ export const monarchTransactionCreate = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A transaction of zero is refused, because it moves no budget.",
+      statement: "A transaction of zero is refused, because that transaction moves no budget.",
     },
     {
       invariantKind: "departure",
-      statement: "A transaction this project creates carries the tag saying a machine made it.",
+      statement:
+        "A transaction this project creates carries the tag saying a machine made that transaction.",
     },
     {
       invariantKind: "departure",
