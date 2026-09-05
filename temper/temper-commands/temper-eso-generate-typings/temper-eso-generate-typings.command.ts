@@ -25,7 +25,8 @@ export const temperEsoGenerateTypings = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The opt-in manifest rather than the documentation decides what is declared.",
+      statement:
+        "The opt-in manifest rather than the documentation decides which tokens are declared.",
     },
     {
       invariantKind: "departure",
