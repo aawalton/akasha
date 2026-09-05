@@ -1,0 +1,13 @@
+diff --git a/editor-extension/page-tree-panel/page-tree-panel.module.ts b/editor-extension/page-tree-panel/page-tree-panel.module.ts
+index 4f8620881a297171fd715348e393173afce61f87..dd1a8563de486bc56a35acdcd0a368d1339ea8ca 100644
+--- a/editor-extension/page-tree-panel/page-tree-panel.module.ts
++++ b/editor-extension/page-tree-panel/page-tree-panel.module.ts
+@@ -9,7 +9,7 @@ export const pageTreePanel = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The panel is read once as it starts, before any write asks for a read.",
++      statement: "The panel is read once as that panel starts, before any write asks for a read.",
+     },
+     {
+       invariantKind: "departure",
