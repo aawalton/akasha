@@ -12,6 +12,22 @@ index a7d6387750d124e93d74d1479cc354a4d15fde02..bf1e5617bada3460773a2553d5f6734f
 -    },
    ],
  } as const satisfies AtomicChange
+diff --git a/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts b/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
+index 7dffa4c71d9b392b28f96e7f64f3ebbde1d0e13f..d637d9be9f66b0a14f75bb0cfcc146608b1e9789 100644
+--- a/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
++++ b/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
+@@ -34,10 +34,7 @@ export const renamePropertySignature = {
+       invariantKind: "departure",
+       statement: "A property reached through a string keeps its quotes.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "The bodies are answered rather than written, so the caller lands them as one.",
+-    },
++
+     {
+       invariantKind: "gap",
+       statement: "A class member implementing the renamed property is not respelled.",
 diff --git a/readout-system/readouts/pages/attribute-endurance/attribute-endurance.readout.ts b/readout-system/readouts/pages/attribute-endurance/attribute-endurance.readout.ts
 index ffad641479427a27b05a0eb325f3e7d4f2c40abf..9e0ff3a664deac48e87e84fdf3a629a879f9e818 100644
 --- a/readout-system/readouts/pages/attribute-endurance/attribute-endurance.readout.ts
