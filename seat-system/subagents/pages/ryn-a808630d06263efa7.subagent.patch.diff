@@ -1,5 +1,5 @@
 diff --git a/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts b/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts
-index d4bd655f30aa86c911b93ea8f2568fd35a983f2b..763ba916c9727c7f4be5cf76256a61654f196087 100644
+index d4bd655f30aa86c911b93ea8f2568fd35a983f2b..6fa94e7877a1075db550e4e035c7fcbcbb9dff08 100644
 --- a/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts
 +++ b/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts
 @@ -21,11 +21,11 @@ export const notifications = {
@@ -16,3 +16,12 @@ index d4bd655f30aa86c911b93ea8f2568fd35a983f2b..763ba916c9727c7f4be5cf76256a6165
      },
      {
        invariantKind: "absence",
+@@ -37,7 +37,7 @@ export const notifications = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A notification carrying no instant it was read at is unread.",
++      statement: "A notification carrying no instant that notification was read at is unread.",
+     },
+     {
+       invariantKind: "departure",
