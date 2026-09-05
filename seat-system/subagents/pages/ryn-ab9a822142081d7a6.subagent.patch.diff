@@ -1,0 +1,15 @@
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
+index a8c14b01bcbf12d4ef3d22c57522ea65449df534..bc2880f44717b793050a60b7c68ee40c03f9a907 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
+@@ -84,6 +84,10 @@ export const folderShape = {
+       invariantKind: "departure",
+       statement: "Every subfolder is a folder of its own.",
+     },
++    {
++      invariantKind: "absence",
++      statement: "The files a part holds are judged where that part is judged.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A shape reads the folders sitting directly under the folder that shape judges.",
