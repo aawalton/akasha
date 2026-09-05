@@ -14,3 +14,18 @@ index a3602ac84fb374f5da18ef842ef83fa6118a9408..3ad5c197d13f065ae1b3db207e691a90
      {
        invariantKind: "departure",
        statement: "A render runs when the write runs rather than when the section is built.",
+diff --git a/temper/temper-addon-data/mapping-generator-writes/mapping-generator-writes.module.ts b/temper/temper-addon-data/mapping-generator-writes/mapping-generator-writes.module.ts
+index 8e6e04c795f2650b4b41f38d4ca7f11c41c7aed7..bb65493931665ca5545a70d7d36b50a17bb92e60 100644
+--- a/temper/temper-addon-data/mapping-generator-writes/mapping-generator-writes.module.ts
++++ b/temper/temper-addon-data/mapping-generator-writes/mapping-generator-writes.module.ts
+@@ -21,10 +21,5 @@ export const mappingGeneratorWrites = {
+       invariantKind: "departure",
+       statement: "Every mapping render lands under one destination.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A render that throws names the file that render was rendering rather than failing alone.",
+-    },
+   ],
+ } as const satisfies Module
