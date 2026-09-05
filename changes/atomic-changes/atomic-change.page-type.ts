@@ -9,7 +9,11 @@ export const atomicChange = {
   slug: "atomic-change",
   definition: "a change to one thing that leaves the tree whole wherever that thing reaches",
   pluralSlug: "atomic-changes",
-  partSlugs: ["atomic-change/rename-export", "atomic-change/rename-local-variable"],
+  partSlugs: [
+    "atomic-change/rename-export",
+    "atomic-change/rename-key",
+    "atomic-change/rename-local-variable",
+  ],
   extendsSlug: ["page-type/module"],
   invariants: [
     {
