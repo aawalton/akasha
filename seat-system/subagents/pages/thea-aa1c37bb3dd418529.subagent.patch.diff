@@ -1,0 +1,89 @@
+diff --git a/commands/replace/replace.command.test.ts b/commands/replace/replace.command.test.ts
+index fd83ed38138cb756bde00aff67ab1fa0d9fc37df..cd8186989f33d5d83e1124084047aa692a5ba8f1 100644
+--- a/commands/replace/replace.command.test.ts
++++ b/commands/replace/replace.command.test.ts
+@@ -2,9 +2,10 @@ import { afterAll, expect, test } from "bun:test"
+ import { readFileSync } from "node:fs"
+ import { join } from "node:path"
+ import { bytesOf as bytes } from "@akasha/testing-system/bodying"
++import { refusing } from "@akasha/testing-system/minting"
+ import { put } from "@akasha/testing-system/putting"
+ import { MECHANICAL } from "../../command-system/asking/asking.module.code.ts"
+-import { repoAt } from "../../command-system/asking/asking.module.test-fixtures.ts"
++import { git, repoAt } from "../../command-system/asking/asking.module.test-fixtures.ts"
+ import type { Given } from "../../command-system/calling/calling.module.code.ts"
+ import { baseOf as headOf } from "../../command-system/landing/landing.module.code.ts"
+ import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
+@@ -32,6 +33,12 @@ function givenIn(root: string): Given {
+   }
+ }
+ 
++const CHECKED = { slug: "change-checked", runsChecks: true, runsWarrants: false }
++
++function checkedIn(root: string): Given {
++  return { ...givenIn(root), changeKind: CHECKED }
++}
++
+ function stating(root: string, name: string, was: string, now: string): readonly string[] {
+   return ["--old-file", put(root, `${name}.old`, was), "--new-file", put(root, `${name}.new`, now)]
+ }
+@@ -202,6 +209,59 @@ test("an old file closed by no new file is refused", async () => {
+   expect(said.refusals[0]).toContain("closed by no --new-file")
+ })
+ 
++test("breaking the glass replaces what the checks refuse, and only breaking it does", async () => {
++  const root = repoWith({ "akasha/one.ts": "alpha\n" })
++  refusing(root)
++  const passage = stating(root, "a", "alpha", "delta")
++  const gated = await replace(["--file-path", "akasha/one.ts", ...passage], checkedIn(root))
++  expect(gated.code).toBe(3)
++  expect(gated.refusals.join(" ")).toContain("refused for the test")
++  expect(bodyOf(root, "akasha/one.ts")).toBe("alpha\n")
++
++  const said = await replace(
++    [
++      "--file-path",
++      "akasha/one.ts",
++      ...passage,
++      "--message",
++      "one goes",
++      "--break-the-glass",
++      "the check is wrong",
++    ],
++    checkedIn(root)
++  )
++  expect(said.refusals).toEqual([])
++  expect(said.code).toBe(0)
++  expect(said.report.join("\n")).toContain(
++    "no check ran — the glass was broken for: the check is wrong"
++  )
++  expect(bodyOf(root, "akasha/one.ts")).toBe("delta\n")
++  expect(git(root, ["log", "-1", "--pretty=%B"]).trim()).toBe(
++    "one goes\n\nChecks-bypassed: the check is wrong"
++  )
++})
++
++test("breaking the glass twice, or with no reason, is refused", async () => {
++  const root = repoWith({ "akasha/one.ts": "alpha\n" })
++  const said = ["--file-path", "akasha/one.ts", ...stating(root, "a", "alpha", "delta")]
++  const twice = await replace(
++    [...said, "--break-the-glass", "one", "--break-the-glass", "two"],
++    givenIn(root)
++  )
++  expect(twice.code).toBe(1)
++  expect(twice.refusals[0]).toBe("--break-the-glass is given 2 times, and one call bypasses once")
++  const ends = await replace([...said, "--break-the-glass"], givenIn(root))
++  expect(ends.code).toBe(1)
++  expect(ends.refusals[0]).toBe(
++    "--break-the-glass takes the reason no check is to run, and this one is empty"
++  )
++  const empty = await replace([...said, "--break-the-glass", "  "], givenIn(root))
++  expect(empty.refusals[0]).toBe(
++    "--break-the-glass takes the reason no check is to run, and this one is empty"
++  )
++  expect(bodyOf(root, "akasha/one.ts")).toBe("alpha\n")
++})
++
+ test("every flag this command's page shows is a flag it takes", async () => {
+   const given = givenIn("/nowhere")
+   for (const one of replaceCommand.taking) {
