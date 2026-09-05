@@ -24,15 +24,20 @@ index b86168147f70246e4a7d21f4350f70c7701d0eb0..3da13aad16c30f2b8bd0e4a8c0956494
  } as const satisfies SelectProperty
  
 diff --git a/machines/provisioning/provisioned-files/provisioned-file.page-type.ts b/machines/provisioning/provisioned-files/provisioned-file.page-type.ts
-index 979e9d7abf37c9900e4cc25b0fb8727d22c86dab..d6763dca2493fc2425875e92907c3a02a439cef9 100644
+index 979e9d7abf37c9900e4cc25b0fb8727d22c86dab..2dc67a6a004ca395d8f00b2786b0369e19efe74d 100644
 --- a/machines/provisioning/provisioned-files/provisioned-file.page-type.ts
 +++ b/machines/provisioning/provisioned-files/provisioned-file.page-type.ts
-@@ -60,7 +60,7 @@ export const provisionedFile = {
+@@ -60,11 +60,11 @@ export const provisionedFile = {
      {
        invariantKind: "departure",
        statement:
 -        "The name the body stands under outside akasha is stated rather than spelled by the file.",
 +        "The name the body sits under outside akasha is stated rather than spelled by the file.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file read where it stands states no path to be put at.",
++      statement: "A file read where it is states no path to be put at.",
      },
      {
        invariantKind: "departure",
