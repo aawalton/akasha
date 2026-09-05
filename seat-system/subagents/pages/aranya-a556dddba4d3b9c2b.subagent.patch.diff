@@ -54,3 +54,18 @@ index ed0dff829933eb31fba0f14536a2b8cf85ae8d83..4ec4e6aa06f74f0e1bef2ad240c866bd
    const under = join(IMPORT, AT_PATH)
    return answered(reading, under, asked, (held) => importersIn(held, path))
  }
+diff --git a/pages/shadow/shadow.module.code.ts b/pages/shadow/shadow.module.code.ts
+index 76d21dab0f56cfc20bd9573be8913ce13af71825..2cd78caccf9f63c2994dbb98b5fccc6df03486a5 100644
+--- a/pages/shadow/shadow.module.code.ts
++++ b/pages/shadow/shadow.module.code.ts
+@@ -61,10 +61,6 @@ function nothingMoved(change: Change): boolean {
+   return change.after === change.before
+ }
+ 
+-function heldToHead(change: Change): string | null {
+-  return nothingMoved(change) ? change.root : null
+-}
+-
+ function keyOf(bytes: Uint8Array): string {
+   return createHash("sha256").update(bytes).digest("hex")
+ }
