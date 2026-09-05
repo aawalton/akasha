@@ -9,7 +9,7 @@ export const performedSet = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Each field is the set log property that recorded it.",
+      statement: "Each field is the set log property that recorded that field.",
     },
     {
       invariantKind: "departure",
