@@ -1,0 +1,13 @@
+diff --git a/alan/harness/monarch/categorize-recent/monarch-categorize-recent.module.ts b/alan/harness/monarch/categorize-recent/monarch-categorize-recent.module.ts
+index b44875a7323a6fbb48bd2e541954597368641b37..9451547bf5bf1d2c852eefb6aae6568f8fb5c56a 100644
+--- a/alan/harness/monarch/categorize-recent/monarch-categorize-recent.module.ts
++++ b/alan/harness/monarch/categorize-recent/monarch-categorize-recent.module.ts
+@@ -32,7 +32,7 @@ export const monarchCategorizeRecent = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Why each row was left is tallied, so a run says what it did not do as well as what it did.",
++        "Why each row was left is tallied, so a run says what the run did not do as well as what the run did.",
+     },
+     {
+       invariantKind: "departure",
