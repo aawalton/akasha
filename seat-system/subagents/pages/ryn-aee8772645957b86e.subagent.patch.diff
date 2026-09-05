@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/temper/temper-watcher/watcher-pricing-tables/watcher-pricing-tables.module.ts b/temper/temper-watcher/watcher-pricing-tables/watcher-pricing-tables.module.ts
+index 64d233c1b9d736140603cb5cd10d045c52b4e69b..114ec9494d86bea32b1facb62665f73888da7cce 100644
+--- a/temper/temper-watcher/watcher-pricing-tables/watcher-pricing-tables.module.ts
++++ b/temper/temper-watcher/watcher-pricing-tables/watcher-pricing-tables.module.ts
+@@ -14,7 +14,8 @@ export const watcherPricingTables = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every run says the tables are empty rather than saying it once.",
++      statement:
++        "Every run says the tables are empty rather than saying once that the tables are empty.",
+     },
+     {
+       invariantKind: "departure",
