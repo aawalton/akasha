@@ -1,3 +1,44 @@
+diff --git a/commands/service/service.command.code.ts b/commands/service/service.command.code.ts
+index bcd297ac8c8491aace330c9478e467e0d67f122c..5915a088d19114078417499c030d99f04d7f9dc1 100644
+--- a/commands/service/service.command.code.ts
++++ b/commands/service/service.command.code.ts
+@@ -58,7 +58,7 @@ function installed(argv: readonly string[], given: Given): Answer {
+ 
+   const home = homeAt()
+   if (home === null) {
+-    return refused("no home directory is stated, so no unit has anywhere to stand", OPERATIONAL)
++    return refused("no home directory is stated, so no unit has anywhere to sit", OPERATIONAL)
+   }
+ 
+   const owned = slug === undefined ? ourInstalled(home) : ownedByService(ourInstalled(home), slug)
+diff --git a/commands/service/service.command.test.ts b/commands/service/service.command.test.ts
+index 3d634b14267b5693088e4f419cf306fddd6e9436..a57f1f57e786a1c236ff6d9e969f6f4e1e9a1b53 100644
+--- a/commands/service/service.command.test.ts
++++ b/commands/service/service.command.test.ts
+@@ -45,9 +45,9 @@ test("a flag this command does not take is refused by name", () => {
+ })
+ 
+ test("a slug no service page carries is refused as the data's fault", () => {
+-  const answer = service(["install", "no-such-service-stands-here", "--dry-run"], HERE)
++  const answer = service(["install", "no-such-service-is-here", "--dry-run"], HERE)
+   expect(answer.code).toBe(2)
+-  expect(answer.refusals[0]).toContain("no-such-service-stands-here")
++  expect(answer.refusals[0]).toContain("no-such-service-is-here")
+ })
+ 
+ test("a dry run reports the plan and writes nothing", () => {
+@@ -83,9 +83,9 @@ test("every service is nothing an act asking systemd takes", () => {
+ })
+ 
+ test("an act asking systemd for a slug no page carries is the data's fault", () => {
+-  const answer = service(["restart", "no-such-service-stands-here"], HERE)
++  const answer = service(["restart", "no-such-service-is-here"], HERE)
+   expect(answer.code).toBe(2)
+-  expect(answer.refusals[0]).toContain("no-such-service-stands-here")
++  expect(answer.refusals[0]).toContain("no-such-service-is-here")
+ })
+ 
+ test("a dry run names the unit systemd would be asked about and asks nothing", () => {
 diff --git a/commands/service/service.command.ts b/commands/service/service.command.ts
 index d1390f239d4104919d3b352a380dab3e0cfe78b6..e55309d7a54302ecff5bdf241098f4e26ae6b026 100644
 --- a/commands/service/service.command.ts
