@@ -1,5 +1,5 @@
 diff --git a/commands/calendar/calendar.command.ts b/commands/calendar/calendar.command.ts
-index cab7bacb650cc7eaf2ef955eb7fcfa1ed5df9679..ae0aba7487a5a60b9f18bb5b8b1b8ee9833a01c8 100644
+index cab7bacb650cc7eaf2ef955eb7fcfa1ed5df9679..b1b7d6e12b1dd6e599331292ea0b56ec44c289a5 100644
 --- a/commands/calendar/calendar.command.ts
 +++ b/commands/calendar/calendar.command.ts
 @@ -4,7 +4,7 @@ export const calendar = {
@@ -46,6 +46,15 @@ index cab7bacb650cc7eaf2ef955eb7fcfa1ed5df9679..ae0aba7487a5a60b9f18bb5b8b1b8ee9
      "an rsvp writes the whole guest list back with Alan's response alone turned.",
      "an event an act answered with is reported as JSON.",
      "the minted refresh token is written to stdout by the consent round trip rather than answered here.",
+@@ -120,7 +120,7 @@ export const calendar = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An update leaves every field the call does not name standing as it stands.",
++      statement: "An update leaves every field the call does not name as it is.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/commands/drive/drive.command.code.ts b/commands/drive/drive.command.code.ts
 index b1b797bdcf9516fd7ff3d6033685bbd6896227aa..7333bbb4378d653d3cfec957b2f9681e7265293c 100644
 --- a/commands/drive/drive.command.code.ts
