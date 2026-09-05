@@ -21,7 +21,7 @@ export const backendEnv = {
     },
     {
       invariantKind: "departure",
-      statement: "A name the environment does not carry falls back to what is spelled here.",
+      statement: "A name the environment does not carry falls back to the value spelled here.",
     },
     {
       invariantKind: "absence",
