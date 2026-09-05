@@ -29,7 +29,8 @@ export const inventorySettingsAccess = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal says how much went unkept rather than only that it refused.",
+      statement:
+        "A refusal says how much went unkept rather than only that the page store refused.",
     },
   ],
 } as const satisfies Module
