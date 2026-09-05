@@ -38,7 +38,7 @@ export const watcherStableRead = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here parses what the file holds.",
+      statement: "Nothing here parses the file's contents.",
     },
   ],
 } as const satisfies Module
