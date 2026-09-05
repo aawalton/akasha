@@ -15,7 +15,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "Every change command drafts into the patch rather than landing on its own.",
       workingMemory:
-        "A patch carries `runsChecks` and `runsWarrants` before the first `diff --git`, each unioned over every change drafted in, and a flag is written only where false, so a line lost reads as true. Thea moved move, remove, refactor and replace onto `change-checked`; those four draft where the caller names an agent id and land where it names none. Left: a draft expresses no removal of a path HEAD carries no body for, so `write --remove` answers success and leaves the file.",
+        "A patch carries `runsChecks` and `runsWarrants` before the first `diff --git`, each unioned over every change drafted in, and a flag is written only where false, so a line lost reads as true. Move, remove, replace and refactor draft under an agent id and land under none. Left: `retype` alone still lands, its file over the length ceiling until split; and a draft expresses no removal of a path HEAD carries no body for, so `write --remove` answers success and leaves the file.",
     },
     {
       statement: "A seat and its subagents draft against one worktree of their own.",
