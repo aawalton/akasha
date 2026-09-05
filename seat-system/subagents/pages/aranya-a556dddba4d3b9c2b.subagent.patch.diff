@@ -76,6 +76,40 @@ index 9786c3c3ce53d1837ea0469510b557882278206f..9d763ce17b0884693400015fc2e610a3
      },
      {
        invariantKind: "absence",
+diff --git a/pages/indexes/indexes.workspace-package.ts b/pages/indexes/indexes.workspace-package.ts
+index 541aa8aa045eefc3b7e21b8cf3c435d3a9b1200f..76a929f01445709d748a7dbc886f7de6e20285ee 100644
+--- a/pages/indexes/indexes.workspace-package.ts
++++ b/pages/indexes/indexes.workspace-package.ts
+@@ -18,6 +18,7 @@ export const indexes = {
+     "module/indexing",
+     "module/index-reading",
+     "module/index-surface",
++    "module/index-stamp",
+     "module/generated-properties",
+     "module/reaching",
+     "module/rebuilding",
+@@ -89,10 +90,6 @@ export const indexes = {
+       invariantKind: "departure",
+       statement: "A path in the index is relative to the repository root.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "The index names the commit the index describes.",
+-    },
+     {
+       invariantKind: "stopgap",
+       statement: "The index holds every page.",
+@@ -115,10 +112,6 @@ export const indexes = {
+       statement:
+         "A change moving what a specifier reaches refiles every importer of that specifier.",
+     },
+-    {
+-      invariantKind: "gap",
+-      statement: "Only what imports a file is refused, and only for a path that makes an edge.",
+-    },
+     {
+       invariantKind: "gap",
+       statement: "A question and its answer cross this boundary.",
 diff --git a/pages/indexes/rebuilding/rebuilding.module.ts b/pages/indexes/rebuilding/rebuilding.module.ts
 index 8caef750d0be476d6ce783aa1a31bf2689d8f442..11a39b792c624ddcbe6d585f8492dada1e1f61b8 100644
 --- a/pages/indexes/rebuilding/rebuilding.module.ts
