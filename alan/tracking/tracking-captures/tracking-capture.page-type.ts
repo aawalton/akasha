@@ -22,9 +22,13 @@ export const trackingCapture = {
         "A capture carries nothing but the name that capture is reached by and that capture's meaning.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement:
-        "Alan saying so, a device measuring, a trace another system left, someone else's word and a weighing are the five captures, and each stands as a page of this type.",
+        "Alan saying so, a device measuring, a trace another system left, someone else's word and a weighing are the five captures.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Each capture is a page of this type.",
     },
   ],
 } as const satisfies PageType
