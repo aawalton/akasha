@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-items-addon/temper-items-addon.eso-addon.ts b/temper/temper-items-addon/temper-items-addon.eso-addon.ts
+index 8208f97bf6e0ce0be262366fba232ce99d9c0d9d..53f9f44dda6c2dd14fc0143ef075bf0ca32276ca 100644
+--- a/temper/temper-items-addon/temper-items-addon.eso-addon.ts
++++ b/temper/temper-items-addon/temper-items-addon.eso-addon.ts
+@@ -176,7 +176,7 @@ export const temperItemsAddon = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The compiled rules alone decide what happens to an item.",
++      statement: "The compiled rules alone decide the action taken on an item.",
+     },
+     {
+       invariantKind: "departure",
