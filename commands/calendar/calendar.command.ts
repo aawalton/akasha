@@ -120,7 +120,7 @@ export const calendar = {
     },
     {
       invariantKind: "departure",
-      statement: "An update leaves every field the call does not name as it is.",
+      statement: "An update leaves every field the call does not name as that field is.",
     },
     {
       invariantKind: "departure",
@@ -128,7 +128,8 @@ export const calendar = {
     },
     {
       invariantKind: "departure",
-      statement: "An rsvp turns Alan's own response and leaves every other guest's as it is.",
+      statement:
+        "An rsvp turns Alan's own response and leaves every other guest's response as that response is.",
     },
     {
       invariantKind: "departure",
@@ -140,7 +141,7 @@ export const calendar = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag under an act that does not take it is refused.",
+      statement: "A flag under an act that does not take that flag is refused.",
     },
     {
       invariantKind: "absence",
