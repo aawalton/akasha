@@ -155,3 +155,15 @@ index 639d13b9b5752e479dc4da2a98faf49fdefafa96..fa7fb92535064b662ea3d8a707556eb0
            )
          }
          return {
+diff --git a/seat-system/transcript-materialize/transcript-materialize.module.code.ts b/seat-system/transcript-materialize/transcript-materialize.module.code.ts
+index 3b2de3d84cb6aebe3e73a520260862c20d49ec18..6159ddc0e178eb14d74a7d6366c30d1d76e05bef 100644
+--- a/seat-system/transcript-materialize/transcript-materialize.module.code.ts
++++ b/seat-system/transcript-materialize/transcript-materialize.module.code.ts
+@@ -149,6 +149,6 @@ export async function materializeLocalTranscript(opts: {
+     `object-store transcript for agent ${opts.agentId} (key ${key}) carries no records for ` +
+       `session ${opts.sessionId} — it is foreign/cross-contaminated or empty. Refusing to ` +
+       "resume into empty context. The session's prior context is not recoverable from the " +
+-      "object store; launch a fresh seat with `ops seat start`."
++      "object store; launch a fresh seat with `akasha seat start`."
+   )
+ }
