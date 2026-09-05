@@ -102,10 +102,6 @@ export const view = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A view belongs to the nav item that owns that view and is drawn nowhere else.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "A view names the page type the view draws by slug, and its properties by each declaration's key.",
     },
