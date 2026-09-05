@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/eval-agent/monarch-eval-agent.module.ts b/alan/harness/monarch/eval-agent/monarch-eval-agent.module.ts
+index 93c20046e3cd056fad4e1fe6d4d10fe24631fe86..6ec2693ce76b69b107d116802ae0965557601d92 100644
+--- a/alan/harness/monarch/eval-agent/monarch-eval-agent.module.ts
++++ b/alan/harness/monarch/eval-agent/monarch-eval-agent.module.ts
+@@ -22,7 +22,7 @@ export const monarchEvalAgent = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The prompt says what the household means by its categories rather than leaving them to be guessed at.",
++        "The prompt states the household's meaning for each category rather than leaving the agent to guess.",
+     },
+     {
+       invariantKind: "departure",
