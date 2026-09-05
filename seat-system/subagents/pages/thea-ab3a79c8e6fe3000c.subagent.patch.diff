@@ -1,0 +1,24 @@
+diff --git a/commands/refactor/key-respelling/key-respelling.module.ts b/commands/refactor/key-respelling/key-respelling.module.ts
+index a4f0caf6e13b1a3839c9c7abcb7dc70b6143db38..d4cd73276154172800cebddd563d61cba9e922bb 100644
+--- a/commands/refactor/key-respelling/key-respelling.module.ts
++++ b/commands/refactor/key-respelling/key-respelling.module.ts
+@@ -88,8 +88,17 @@ export const keyRespelling = {
+       statement: "A carried file changes folder for no rename.",
+     },
+     {
+-      invariantKind: "absence",
+-      statement: "Nothing here lands what this module works out.",
++      invariantKind: "departure",
++      statement: "Every file a key rename touches lands in one commit or none of them does.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "`--dry-run` names every file the rename would respell and every one it would carry.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "`--dry-run` writes nothing.",
+     },
+   ],
+ } as const satisfies Module
