@@ -9,7 +9,8 @@ export const addonDataWritesEquipment = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every equipment table is rendered from the rows of the page type holding it.",
+      statement:
+        "Every equipment table is rendered from the rows of the page type holding that table.",
     },
     {
       invariantKind: "departure",
@@ -17,7 +18,7 @@ export const addonDataWritesEquipment = {
     },
     {
       invariantKind: "departure",
-      statement: "A section states its writes rather than performing them.",
+      statement: "A section states its writes rather than performing those writes.",
     },
   ],
 } as const satisfies Module
