@@ -17,7 +17,7 @@ export const dispatchedAs = {
     },
     {
       invariantKind: "departure",
-      statement: "A kind states this name and a subagent run as that kind repeats it.",
+      statement: "A kind states this name and a subagent run as that kind repeats this name.",
     },
     {
       invariantKind: "gap",
