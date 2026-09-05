@@ -61,6 +61,83 @@ index de3bab4998636b911276101a85af28e25f310a11..05a2f6be64901df7ee080244a38538a6
      {
        invariantKind: "departure",
        statement: "The balance is updated unless the caller says otherwise.",
+diff --git a/command-system/commands/edit/edit.command.ts b/command-system/commands/edit/edit.command.ts
+index 86ebfd0e32d2f07138148e8d50a37d987f697980..acd9040498423569d23d7af306946db7adfa91fe 100644
+--- a/command-system/commands/edit/edit.command.ts
++++ b/command-system/commands/edit/edit.command.ts
+@@ -105,10 +105,6 @@ export const edit = {
+       statement: "A path anywhere in the repository is changed.",
+     },
+ 
+-    {
+-      invariantKind: "departure",
+-      statement: "A path no check judged is named in the answer.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A substitution naming no passage is refused wherever the path is.",
+diff --git a/command-system/commands/write/write.command.ts b/command-system/commands/write/write.command.ts
+index 083bf212c6afef78c59e0b7a764c9086c36c4714..4e9e06aa3ebf8fb478f639a1e1e8d6b2d2fa7445 100644
+--- a/command-system/commands/write/write.command.ts
++++ b/command-system/commands/write/write.command.ts
+@@ -49,10 +49,7 @@ export const write = {
+       invariantKind: "departure",
+       statement: "A folder at the top of the repository is refused.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A path no check judged is named in the answer.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A path named at `--remove` is inside the repository.",
+diff --git a/google/email/commands/email-drafts-create/email-drafts-create.command.ts b/google/email/commands/email-drafts-create/email-drafts-create.command.ts
+index 347aac3b3f366fadeb0373687fc00942bed4969c..cee8c39a51fabd03c1bcf7723c83720e16e7574a 100644
+--- a/google/email/commands/email-drafts-create/email-drafts-create.command.ts
++++ b/google/email/commands/email-drafts-create/email-drafts-create.command.ts
+@@ -44,10 +44,6 @@ export const emailDraftsCreate = {
+       statement: "A subject read from a file carries no line ending.",
+     },
+ 
+-    {
+-      invariantKind: "departure",
+-      statement: "An attachment is read off the disk before the mail is composed.",
+-    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here sends the draft.",
+diff --git a/google/email/commands/email-messages-send/email-messages-send.command.ts b/google/email/commands/email-messages-send/email-messages-send.command.ts
+index 122f643f2a1f246e65c0b7870c861591bcfad2e6..f396dc328ab8359587c95f1c1ec0a59a29908cb9 100644
+--- a/google/email/commands/email-messages-send/email-messages-send.command.ts
++++ b/google/email/commands/email-messages-send/email-messages-send.command.ts
+@@ -48,10 +48,6 @@ export const emailMessagesSend = {
+       statement: "A body read from a file is carried whole.",
+     },
+ 
+-    {
+-      invariantKind: "departure",
+-      statement: "An attachment is read off the disk before the mail is composed.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A message carrying no attachment is one plain-text part rather than multipart.",
+diff --git a/pages/file-parts/page-file-parts.module.ts b/pages/file-parts/page-file-parts.module.ts
+index 13e85b84bdb978a0b6f50e38a7db57cfbcc96de8..b6879b5dc95f83c8705f1e749cef1079945d0c2b 100644
+--- a/pages/file-parts/page-file-parts.module.ts
++++ b/pages/file-parts/page-file-parts.module.ts
+@@ -20,10 +20,7 @@ export const pageFileParts = {
+       invariantKind: "departure",
+       statement: "Every file after the first carries a part section.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A part section follows the property slug and precedes `uncommitted`.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "The name `partAt` puts together `heldIn` takes apart again.",
 diff --git a/temper/temper-companions-core/companion-metrics-00/companion-metrics-00.module.ts b/temper/temper-companions-core/companion-metrics-00/companion-metrics-00.module.ts
 index f447a654843d1f92dea177036bf9fb8d5a3347f9..77b678cbd95c4be60a5c2505bda5cbc0bdc61539 100644
 --- a/temper/temper-companions-core/companion-metrics-00/companion-metrics-00.module.ts
