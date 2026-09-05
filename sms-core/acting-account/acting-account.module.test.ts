@@ -8,7 +8,7 @@ function surface(account: string): string {
 }
 
 describe("extractActingAccountUserId", () => {
-  test("answers nothing where no channel footer stands", () => {
+  test("answers nothing where no channel footer is there", () => {
     expect(extractActingAccountUserId(`acting for account ${ACCOUNT}`)).toBe(null)
   })
 

@@ -26,16 +26,15 @@ export const telnyxAccount = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The key stands in the sops file beside the page and never in the page.",
+      statement: "The key is in the sops file beside the page and never in the page.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The number a text is sent from stands on the account rather than in the environment.",
+      statement: "The number a text is sent from is on the account rather than in the environment.",
     },
     {
       invariantKind: "gap",
-      statement: "The accounts stand as pages under this type rather than as markdown.",
+      statement: "The accounts are pages under this type rather than markdown.",
     },
   ],
 } as const satisfies PageType

@@ -31,7 +31,7 @@ export const verifySignature = {
     },
     {
       invariantKind: "departure",
-      statement: "The base64 spelling of bytes stands here for whoever needs that spelling.",
+      statement: "The base64 spelling of bytes is here for whoever needs that spelling.",
     },
   ],
 } as const satisfies Module
