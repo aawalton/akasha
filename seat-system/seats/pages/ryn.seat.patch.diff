@@ -1,0 +1,13 @@
+diff --git a/alan/harness/monarch/monarch-categories/monarch-category.page-type.ts b/alan/harness/monarch/monarch-categories/monarch-category.page-type.ts
+index 5f4dc57b83002058c9e9ad20c143e02a8b6d3b3d..48ffd0fd780b5751497d8074a89c6734b587bda6 100644
+--- a/alan/harness/monarch/monarch-categories/monarch-category.page-type.ts
++++ b/alan/harness/monarch/monarch-categories/monarch-category.page-type.ts
+@@ -24,7 +24,7 @@ export const monarchCategory = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A category is partly a choice about which budget the money should land in rather than only a fact about what was bought.",
++        "A category is partly a choice of budget rather than only a fact about the purchase.",
+     },
+     {
+       invariantKind: "departure",
