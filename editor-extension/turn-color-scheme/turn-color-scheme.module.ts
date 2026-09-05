@@ -33,7 +33,7 @@ export const turnColorScheme = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here holds what the colors are.",
+      statement: "Nothing here holds the color values.",
     },
   ],
 } as const satisfies Module
