@@ -25,7 +25,7 @@ export const transcriptView = {
     },
     {
       invariantKind: "departure",
-      statement: "A poll that folded nothing anywhere leaves the panel as it is.",
+      statement: "A poll that folded nothing anywhere leaves the panel as that panel is.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +49,7 @@ export const transcriptView = {
     },
     {
       invariantKind: "departure",
-      statement: "A disclosure is matched again by the id of the call it draws.",
+      statement: "A disclosure is matched again by the id of the call that disclosure draws.",
     },
     {
       invariantKind: "departure",
