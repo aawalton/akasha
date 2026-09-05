@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/command-system/command-declaring/command-declaring.module.ts b/command-system/command-declaring/command-declaring.module.ts
+index 733a102fe9db59c7ca36d28d92022691740b24d1..75e6d6f33ee8aed874902f75a8ca2d60662a55a1 100644
+--- a/command-system/command-declaring/command-declaring.module.ts
++++ b/command-system/command-declaring/command-declaring.module.ts
+@@ -9,7 +9,8 @@ export const commandDeclaring = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A command declares what the command takes rather than parsing the arguments.",
++      statement:
++        "A command declares the arguments the command takes rather than parsing the arguments.",
+     },
+     {
+       invariantKind: "departure",
