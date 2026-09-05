@@ -9,10 +9,6 @@ export const mapDataUpstreamPort = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The upstream Lua file is read by running the file in a sandboxed Lua machine.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The tables are serialized by Lua rather than carried across as values.",
     },
     {
