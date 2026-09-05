@@ -88,7 +88,7 @@ index 7d3d0bff2dff900f5ed0b9d609f711caea9485d0..6bdfb9a83a9efca925494248589c7706
      const named = reached(node, taken.bound)
      if (named !== null) {
 diff --git a/checks/code-checks/pages/no-tmp/no-tmp.code-check.test.ts b/checks/code-checks/pages/no-tmp/no-tmp.code-check.test.ts
-index ee5ee30644b8f4897fa2296f39440edcfffa0d14..e199ebcac45ae3b0479bfb8dd634a53ca51953c8 100644
+index ee5ee30644b8f4897fa2296f39440edcfffa0d14..2d76d0752edec5cf391e4e8090f02a23f3d92682 100644
 --- a/checks/code-checks/pages/no-tmp/no-tmp.code-check.test.ts
 +++ b/checks/code-checks/pages/no-tmp/no-tmp.code-check.test.ts
 @@ -29,7 +29,7 @@ test("a literal that is exactly the scratch root we refuse is refused, and the l
@@ -100,6 +100,15 @@ index ee5ee30644b8f4897fa2296f39440edcfffa0d14..e199ebcac45ae3b0479bfb8dd634a53c
    expect(reasonsIn(given(AT, 'const at = "/tmp/held"\n'))).toHaveLength(1)
  })
  
+@@ -43,7 +43,7 @@ test("a path merely beginning with those letters is let through, the part read b
+   expect(reasonsIn(given(AT, 'const at = "/tmpdir"\n'))).toEqual([])
+ })
+ 
+-test("a relative path of that name is let through, standing under whatever holds it", () => {
++test("a relative path of that name is let through, sitting under whatever holds it", () => {
+   expect(reasonsIn(given(AT, 'const at = "tmp/held"\n'))).toEqual([])
+   expect(reasonsIn(given(AT, 'const at = "./tmp"\n'))).toEqual([])
+ })
 diff --git a/checks/code-checks/pages/no-tmp/no-tmp.code-check.ts b/checks/code-checks/pages/no-tmp/no-tmp.code-check.ts
 index 7480e0a5f77d99251a029c3bfd36168556e8c85f..abec0f4c601c26d75517a5031f1a97f1e8396743 100644
 --- a/checks/code-checks/pages/no-tmp/no-tmp.code-check.ts
