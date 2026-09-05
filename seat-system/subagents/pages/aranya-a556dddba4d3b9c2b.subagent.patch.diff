@@ -34,7 +34,7 @@ index a44f6fc575bf506f9b495a0cb2fd548a825d9977..2a46470895d4940a1f6e3bc9a593069a
      knownIn: () => knownIn(reading, pageOf),
      listedAt: (pageTypeSlug, slug) => listedAt(reading, pageTypeSlug, slug),
 diff --git a/pages/indexes/answering/index-answering.module.test.ts b/pages/indexes/answering/index-answering.module.test.ts
-index db19efdc4707b002bffeb2346e08c9f719bc5086..73e6b4e15477b62d4478e4c219949ea15b40989f 100644
+index db19efdc4707b002bffeb2346e08c9f719bc5086..c718063fd08d1aeb903a44de6c710aeeb0b1cc3a 100644
 --- a/pages/indexes/answering/index-answering.module.test.ts
 +++ b/pages/indexes/answering/index-answering.module.test.ts
 @@ -117,7 +117,7 @@ function seeded(): string {
@@ -46,6 +46,49 @@ index db19efdc4707b002bffeb2346e08c9f719bc5086..73e6b4e15477b62d4478e4c219949ea1
    expect(index.carriedIn(TYPE_VALUE, MODULE)).toEqual(carriedIn(TYPE_VALUE, reading, MODULE))
    expect(index.carryingOf(SLUG)).toEqual(carryingOf(reading, SLUG))
    expect(index.declarationsOf(MODULE)).toEqual(declarationsOf(MODULE, reading, pageOf))
+@@ -147,29 +147,19 @@ test("every question answers what the reader beneath it answers with the reading
+ test("a question answered through a shape hands back the shape the reader beneath hands back", () => {
+   const root = seeded()
+   const reading = readingIn(root)
+-  const index = answeringOver(reading, root, pageOf)
++  const index = answeringOver(reading, pageOf)
+   expect(index.knownIn().at(MODULE, "held")).toEqual(knownIn(reading, pageOf).at(MODULE, "held"))
+   expect(index.sourceIn().schemaFor(SLUG)).toEqual(sourceIn(reading, pageOf).schemaFor(SLUG))
+   expect(index.kindsUnder(PAGE_TYPE)).toEqual(kindsUnder(PAGE_TYPE, reading, pageOf))
+ })
+ 
+-test("what the reader beneath refuses is refused here in the same words", () => {
+-  const root = seeded()
+-  const reading = readingIn(root)
+-  const said = "the index names no commit it was built from"
+-  expect(() => answeringOver(reading, root, pageOf).importersOf(HELD_AT)).toThrow(said)
+-  expect(() => importersOf(root, HELD_AT, reading)).toThrow(said)
+-})
+-
+-test("a caller filing a change binds no root, so what imports a file is not refused", () => {
++test("what imports a file is answered as the reader beneath answers it", () => {
+   const root = seeded()
+   importFiled(root, HELD_AT, [{ path: TYPE_AT }])
+   const reading = readingIn(root)
+ 
+-  expect(() => answeringOver(reading, root, pageOf).importersOf(HELD_AT)).toThrow(
+-    "the index names no commit it was built from"
+-  )
+-  expect(answeringOver(reading, null, pageOf).importersOf(HELD_AT)).toEqual([TYPE_AT])
++  expect(answeringOver(reading, pageOf).importersOf(HELD_AT)).toEqual([TYPE_AT])
++  expect(importersOf(HELD_AT, reading)).toEqual([TYPE_AT])
+ })
+ 
+ test("a question is answered from the reading bound rather than from the index at a root", () => {
+@@ -178,7 +168,7 @@ test("a question is answered from the reading bound rather than from the index a
+     "identity/module/slug/laid.jsonl": [{ path: LAID_AT, id: LAID_ID }],
+     "path/akasha/laid/laid.module.ts.jsonl": [{ path: LAID_AT, id: LAID_ID }],
+   })
+-  const index = answeringOver(laid, root, pageOf)
++  const index = answeringOver(laid, pageOf)
+   expect(index.listedAt(MODULE, "laid")).toEqual([{ path: LAID_AT, id: LAID_ID }])
+   expect(listedAt(root, MODULE, "laid")).toEqual([])
+   expect(index.everyPath()).toContain(LAID_AT)
 diff --git a/pages/indexes/reading/index-reading.module.code.ts b/pages/indexes/reading/index-reading.module.code.ts
 index ed0dff829933eb31fba0f14536a2b8cf85ae8d83..4ec4e6aa06f74f0e1bef2ad240c866bd3a440cee 100644
 --- a/pages/indexes/reading/index-reading.module.code.ts
