@@ -1,3 +1,16 @@
+diff --git a/pages/indexes/path-naming/path-naming.module.test.ts b/pages/indexes/path-naming/path-naming.module.test.ts
+index 8ea731b2b7c1cbe77147ab9964324be12221354e..946f8e96e74a42a1992ffb0e012a982485718ec5 100644
+--- a/pages/indexes/path-naming/path-naming.module.test.ts
++++ b/pages/indexes/path-naming/path-naming.module.test.ts
+@@ -16,7 +16,7 @@ const AT = "HEAD"
+ const MOVING = new Map([[HELD, THREE]])
+ 
+ function unindexed(): string {
+-  return scratch.rootFor("move-naming-")
++  return scratch.rootFor("path-naming-")
+ }
+ 
+ test("a path no page owns is answered as owned by no page", () => {
 diff --git a/pages/indexes/path-naming/path-naming.module.ts b/pages/indexes/path-naming/path-naming.module.ts
 index 52199d39c93796e649e00a138eff0dfd31b0f477..dde2b631c18d2ddad1b2d4738ef8c7742ef2aecd 100644
 --- a/pages/indexes/path-naming/path-naming.module.ts
