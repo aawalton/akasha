@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/testing-system/test-fixture/test-fixture.domain.ts b/testing-system/test-fixture/test-fixture.domain.ts
+index 25a94588303616a2ab95d3a717087a136ebdf100..397a8f3be0ae7a204cb66dbed584497b66cef4e0 100644
+--- a/testing-system/test-fixture/test-fixture.domain.ts
++++ b/testing-system/test-fixture/test-fixture.domain.ts
+@@ -8,7 +8,7 @@ export const testFixture = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A fixture carries the page it needs rather than restating its values.",
++      statement: "A fixture carries the page that fixture needs rather than restating its values.",
+     },
+     {
+       invariantKind: "departure",
