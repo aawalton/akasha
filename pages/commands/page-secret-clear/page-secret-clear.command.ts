@@ -23,7 +23,6 @@ export const pageSecretClear = {
     "name what a page holds before dropping anything.",
     "where the key was the last one the file held, the file is taken away rather than written empty.",
     "which keys a page may hold is its page type's call, and a key it does not declare secret is refused naming the ones it does.",
-    "a key the sops file does not hold is refused rather than passed over.",
   ],
   invariants: [
     {
