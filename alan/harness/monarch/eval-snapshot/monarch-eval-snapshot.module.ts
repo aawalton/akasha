@@ -26,8 +26,7 @@ export const monarchEvalSnapshot = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What moved is said as what the mark was and what that mark became, family by family.",
+      statement: "A move is said as the mark before and the mark after, family by family.",
     },
     {
       invariantKind: "departure",
