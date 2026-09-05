@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/health-samples-import/health-import-run/health-import-run.module.ts b/health-samples-import/health-import-run/health-import-run.module.ts
-index 80f03b09686aa60b5aad9deb9f0fd8a2ea09174c..448276a520cb41dcd29e004d34ae61d45ce15db9 100644
+index 80f03b09686aa60b5aad9deb9f0fd8a2ea09174c..f4f6ba4399c51b091d5fab2486e4b085ca55b67a 100644
 --- a/health-samples-import/health-import-run/health-import-run.module.ts
 +++ b/health-samples-import/health-import-run/health-import-run.module.ts
 @@ -10,7 +10,7 @@ export const healthImportRun = {
@@ -12,3 +12,12 @@ index 80f03b09686aa60b5aad9deb9f0fd8a2ea09174c..448276a520cb41dcd29e004d34ae61d4
      },
      {
        invariantKind: "departure",
+@@ -18,7 +18,7 @@ export const healthImportRun = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run states what the run wrote for each metric rather than one total.",
++      statement: "A run states the count the run wrote for each metric rather than one total.",
+     },
+   ],
+ } as const satisfies Module
