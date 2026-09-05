@@ -19,6 +19,7 @@
     "./state-spawned-seat": "./state-spawned-seat/state-spawned-seat.module.code.ts",
     "./stop-seat": "./stop-seat/stop-seat.module.code.ts",
     "./subagent-guard": "./subagent-guard/subagent-guard.module.code.ts",
+    "./subagent-census": "./subagent-census/subagent-census.module.code.ts",
     "./subagent-page": "./subagent-page/subagent-page.module.code.ts",
     "./subagent-page-akasha": "./subagent-page-akasha/subagent-page-akasha.module.code.ts",
     "./takeover-seat": "./takeover-seat/takeover-seat.module.code.ts",
