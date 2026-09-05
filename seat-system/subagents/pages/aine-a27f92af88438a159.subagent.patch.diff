@@ -1,0 +1,126 @@
+diff --git a/pages/export-name/page-export-name.module.test.ts b/pages/export-name/page-export-name.module.test.ts
+index 81be552594dff8afae618da20985985a90350312..9e6c997662d42c524d9497feb9631f41c37f1ad7 100644
+--- a/pages/export-name/page-export-name.module.test.ts
++++ b/pages/export-name/page-export-name.module.test.ts
+@@ -24,7 +24,7 @@ test("the first character is never raised, so a name is one a page is exported u
+   expect(exportedAs("page-export-name")).toBe("pageExportName")
+ })
+ 
+-test("a trailing hyphen stands, because no character follows it to raise", () => {
++test("a trailing hyphen remains, because no character follows it to raise", () => {
+   expect(exportedAs("page-")).toBe("page-")
+ })
+ 
+diff --git a/pages/formula/formula-reading/formula-reading.module.code.ts b/pages/formula/formula-reading/formula-reading.module.code.ts
+index fb6a16787b10b4d6c964a5e66172fd6ac695ce1d..2863d39f905e8a5b0d8454fdf5b3150b3bf1f05f 100644
+--- a/pages/formula/formula-reading/formula-reading.module.code.ts
++++ b/pages/formula/formula-reading/formula-reading.module.code.ts
+@@ -155,7 +155,7 @@ const takeNamed = (reader: Reader, word: string, at: number): Expression => {
+   if (isMark(here(reader), "(")) return takeCall(reader, word, at)
+   throw new ReadingRefused(
+     at,
+-    `\`${word}\` is no value; only \`true\`, \`false\` and \`absent\` are words standing for a value`
++    `\`${word}\` is no value; only \`true\`, \`false\` and \`absent\` are words naming a value`
+   )
+ }
+ 
+diff --git a/pages/formula/formula-refusal/formula-refusal.module.ts b/pages/formula/formula-refusal/formula-refusal.module.ts
+index 6342d9b706ebaa3b33f12ed8fa621a9dc0f43606..6ebaa1a4e5372ff067cb974f64905f6143b2eb6e 100644
+--- a/pages/formula/formula-refusal/formula-refusal.module.ts
++++ b/pages/formula/formula-refusal/formula-refusal.module.ts
+@@ -4,6 +4,6 @@ export const formulaRefusal = {
+   id: "01a05c11-6371-7004-80bb-56d1f990be10",
+   pageTypeSlug: "module",
+   slug: "formula-refusal",
+-  definition: "where in a formula's text a refusal stands",
++  definition: "where in a formula's text a refusal sits",
+   code: "ts",
+ } as const satisfies Module
+diff --git a/pages/formula/pages-formula.workspace-package.ts b/pages/formula/pages-formula.workspace-package.ts
+index 2bb804007791789b7eb2a697bbde25956ea77a8c..800393a3f608b559ff7dc909bf3fb5064c3440e0 100644
+--- a/pages/formula/pages-formula.workspace-package.ts
++++ b/pages/formula/pages-formula.workspace-package.ts
+@@ -42,7 +42,7 @@ export const pagesFormula = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "The cases saying what this language means stand outside akasha.",
++      statement: "The cases saying what this language means are outside akasha.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
+diff --git a/pages/ui/block-editor/use-block-collapse/use-block-collapse.module.ts b/pages/ui/block-editor/use-block-collapse/use-block-collapse.module.ts
+index 2f12def1d9c2a8d7ae75d1fe300ab4087b68ea42..bc3e45c88c1b67ba03dcadf98b4b6f760c461d5f 100644
+--- a/pages/ui/block-editor/use-block-collapse/use-block-collapse.module.ts
++++ b/pages/ui/block-editor/use-block-collapse/use-block-collapse.module.ts
+@@ -5,6 +5,6 @@ export const useBlockCollapse = {
+   pageTypeSlug: "module",
+   slug: "use-block-collapse",
+   definition:
+-    "which blocks stand collapsed, and the toggles that shut them the first time they are seen",
++    "which blocks are collapsed, and the toggles that shut them the first time they are seen",
+   code: "ts",
+ } as const satisfies Module
+diff --git a/pages/ui/components/use-descendant-pages/use-descendant-pages.module.ts b/pages/ui/components/use-descendant-pages/use-descendant-pages.module.ts
+index cf4c25cf6afd3a61a8b1244029fe5080cd384e86..a227b585c8c97cfc36dc4607098d581193e78d2e 100644
+--- a/pages/ui/components/use-descendant-pages/use-descendant-pages.module.ts
++++ b/pages/ui/components/use-descendant-pages/use-descendant-pages.module.ts
+@@ -4,6 +4,6 @@ export const useDescendantPages = {
+   id: "01a05cce-25ec-7573-afac-aed8bece2063",
+   pageTypeSlug: "module",
+   slug: "use-descendant-pages",
+-  definition: "the pages standing under a page, gathered across the types beneath it",
++  definition: "the pages under a page, gathered across the types beneath it",
+   code: "ts",
+ } as const satisfies Module
+diff --git a/pages/ui/supabase/use-subpages/use-subpages.module.ts b/pages/ui/supabase/use-subpages/use-subpages.module.ts
+index d44d1fac50b1e506672f0dc7589cd23266f92279..cd813f39629f8a12aac97846b184c1b5bdfdbf06 100644
+--- a/pages/ui/supabase/use-subpages/use-subpages.module.ts
++++ b/pages/ui/supabase/use-subpages/use-subpages.module.ts
+@@ -4,6 +4,6 @@ export const useSubpages = {
+   id: "01a05cce-25ec-725b-9abc-9b019de92d9b",
+   pageTypeSlug: "module",
+   slug: "use-subpages",
+-  definition: "the pages standing directly beneath a page",
++  definition: "the pages directly beneath a page",
+   code: "ts",
+ } as const satisfies Module
+diff --git a/pages/value-key/page-value-key.module.ts b/pages/value-key/page-value-key.module.ts
+index 1dc45b437a3049a5938960426e608bf8dc40b1c4..99127f6c5f13744182e6c78ab79d5e53e902dea7 100644
+--- a/pages/value-key/page-value-key.module.ts
++++ b/pages/value-key/page-value-key.module.ts
+@@ -4,7 +4,7 @@ export const pageValueKey = {
+   id: "01a06879-ef4b-7000-a6f7-e981bd4744bc",
+   pageTypeSlug: "module",
+   slug: "page-value-key",
+-  definition: "the key names a page's values keep for its body and for what stands beside it",
++  definition: "the key names a page's values keep for its body and for what sits beside it",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/pages/value/page-value.module.test.ts b/pages/value/page-value.module.test.ts
+index ccc50439f045b4fa1c4add819b6c1328b4204be9..7bada02d67e4a3f3b66b7594b3e4179d7077ebc4 100644
+--- a/pages/value/page-value.module.test.ts
++++ b/pages/value/page-value.module.test.ts
+@@ -32,7 +32,7 @@ test("a body that will not load answers with no value rather than throwing", ()
+   expect(valueIn("the new body")).toBe(null)
+ })
+ 
+-test("a path standing as a folder holds no page, and is not read as though it were a file", () => {
++test("a path that is a folder holds no page, and is not read as though it were a file", () => {
+   const repo = scratch.rootFor("akasha-entries-folder-")
+   mkdirSync(join(repo, "held"), { recursive: true })
+ 
+diff --git a/pages/views/properties/view-sorts.record-property.ts b/pages/views/properties/view-sorts.record-property.ts
+index 7fd84ca92a528164009c36333eed2f65a5c4688e..f9fae7042508a5c5edd4609e490653a82f3058a2 100644
+--- a/pages/views/properties/view-sorts.record-property.ts
++++ b/pages/views/properties/view-sorts.record-property.ts
+@@ -23,7 +23,7 @@ export const viewSorts = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The keys are weighed in the order they stand.",
++      statement: "The keys are weighed in the order they are stated.",
+     },
+     {
+       invariantKind: "departure",
