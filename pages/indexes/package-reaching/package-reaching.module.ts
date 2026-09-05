@@ -56,7 +56,7 @@ export const packageReaching = {
     {
       invariantKind: "departure",
       statement:
-        "Where a specifier landed before a change is read from the manifests as they were.",
+        "Where a specifier landed before a change is read from the manifests as those manifests were.",
     },
     {
       invariantKind: "departure",
