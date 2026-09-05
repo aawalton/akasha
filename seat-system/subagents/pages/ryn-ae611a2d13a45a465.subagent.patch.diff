@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/inference-pool/inference-services/inference-services.module.ts b/infrastructure/inference-pool/inference-services/inference-services.module.ts
+index d776f7f2868fbf470924e79d502721e3f5613fac..83cda6b5b10d4991d106cc4c8b66608e3c431379 100644
+--- a/infrastructure/inference-pool/inference-services/inference-services.module.ts
++++ b/infrastructure/inference-pool/inference-services/inference-services.module.ts
+@@ -10,7 +10,7 @@ export const inferenceServices = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A service names the directory it is provisioned from as a path inside this repository.",
++        "A service names the directory that service is provisioned from as a path inside this repository.",
+     },
+     {
+       invariantKind: "departure",
