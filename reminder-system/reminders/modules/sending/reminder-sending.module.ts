@@ -26,7 +26,7 @@ export const reminderSending = {
     },
     {
       invariantKind: "departure",
-      statement: "A reminder taken away loses what was kept beside the page too.",
+      statement: "A reminder taken away loses the values kept beside the page too.",
     },
     {
       invariantKind: "departure",
