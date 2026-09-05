@@ -543,3 +543,11 @@ index 5edea6c56dba365befee23d374211cf500ff16b7..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-antiquities-addon
 \ No newline at end of file
+diff --git a/temper/temper-bit-codec/temper-bit-codec b/temper/temper-bit-codec/temper-bit-codec
+deleted file mode 120000
+index a03ffa84d49858e5005615b4a4fb504b41f39bd0..0000000000000000000000000000000000000000
+--- a/temper/temper-bit-codec/temper-bit-codec
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-bit-codec
+\ No newline at end of file
