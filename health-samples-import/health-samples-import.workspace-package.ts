@@ -29,7 +29,7 @@ export const healthSamplesImport = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here decides what a reading means.",
+      statement: "Nothing here decides the meaning of a reading.",
     },
   ],
 } as const satisfies WorkspacePackage
