@@ -177,7 +177,7 @@ index db19efdc4707b002bffeb2346e08c9f719bc5086..cbd3131d5fe8465a0e40359a6def13c8
    expect(() => index.everyOfType(MODULE)).toThrow(NOT_THERE)
    expect(() => index.everyPath()).toThrow(NOT_THERE)
 diff --git a/pages/indexes/indexing/indexing.module.code.ts b/pages/indexes/indexing/indexing.module.code.ts
-index 0a4b2d4050cb3820b02ee5ed97991cea769b77c3..8393dc6079c1b1b7d8d16d67cf5047f01b7a6b6c 100644
+index 0a4b2d4050cb3820b02ee5ed97991cea769b77c3..ae5d72d731a2161f3197c69271e4053e136a4a05 100644
 --- a/pages/indexes/indexing/indexing.module.code.ts
 +++ b/pages/indexes/indexing/indexing.module.code.ts
 @@ -7,7 +7,7 @@ import {
@@ -197,7 +197,38 @@ index 0a4b2d4050cb3820b02ee5ed97991cea769b77c3..8393dc6079c1b1b7d8d16d67cf5047f0
  import {
    indexIn,
    overlaidOn,
-@@ -133,15 +132,44 @@ function pageShaped(path: string, fileProperties: ReadonlyMap<string, string | n
+@@ -72,30 +71,6 @@ const SCHEMA = indexSchema.name
+ 
+ const VALUE = indexValue.name
+ 
+-function pruneAbove(at: string, root: string): undefined {
+-  let here = at
+-  while (here !== root && here.startsWith(root)) {
+-    try {
+-      rmdirSync(here)
+-    } catch {
+-      return
+-    }
+-    here = dirname(here)
+-  }
+-}
+-
+-function keepWhole(at: string, lines: readonly string[], root: string): undefined {
+-  if (lines.length === 0) {
+-    if (existsSync(at)) rmSync(at)
+-    pruneAbove(dirname(at), root)
+-    return
+-  }
+-  mkdirSync(dirname(at), { recursive: true })
+-  const near = `${at}.${process.pid}.part`
+-  writeFileSync(near, `${lines.join("\n")}\n`)
+-  renameSync(near, at)
+-}
+-
+ type Pending = {
+   readonly before: string | null
+   readonly after: string | null
+@@ -133,15 +108,44 @@ function pageShaped(path: string, fileProperties: ReadonlyMap<string, string | n
    return !fileProperties.has(said.pageType)
  }
  
@@ -248,7 +279,7 @@ index 0a4b2d4050cb3820b02ee5ed97991cea769b77c3..8393dc6079c1b1b7d8d16d67cf5047f0
  }
  
  export type Indexing = {
-@@ -157,12 +185,23 @@ function refusingEmpty(unique: ReadonlyMap<string, Identifier>, pages: number):
+@@ -157,12 +161,23 @@ function refusingEmpty(unique: ReadonlyMap<string, Identifier>, pages: number):
    if (pages > 0 && unique.size === 0) throw new Error(NOTHING_DECLARES)
  }
  
@@ -278,7 +309,7 @@ index 0a4b2d4050cb3820b02ee5ed97991cea769b77c3..8393dc6079c1b1b7d8d16d67cf5047f0
    const held: { readonly path: string; readonly value: Value }[] = []
    for (const path of pagesUnder(tree)) {
      const value = valueAt(path, repo)
-@@ -179,24 +218,23 @@ export function rebuiltFrom(
+@@ -179,24 +194,23 @@ export function rebuiltFrom(
    const identity = held.flatMap((one) =>
      identityIn(one.value, one.path, repo, identifying, null, parting)
    )
@@ -309,7 +340,7 @@ index 0a4b2d4050cb3820b02ee5ed97991cea769b77c3..8393dc6079c1b1b7d8d16d67cf5047f0
    return {
      pages: held.length,
      entries:
-@@ -207,6 +245,7 @@ export function rebuiltFrom(
+@@ -207,6 +221,7 @@ export function rebuiltFrom(
        imported.length +
        valued.length,
      refused: filed.flatMap((one) => one.refused),
@@ -317,7 +348,7 @@ index 0a4b2d4050cb3820b02ee5ed97991cea769b77c3..8393dc6079c1b1b7d8d16d67cf5047f0
    }
  }
  
-@@ -417,11 +456,6 @@ export function indexingAt(root: string, repo: string): Indexing {
+@@ -417,11 +432,6 @@ export function indexingAt(root: string, repo: string): Indexing {
        pending.clear()
        const found = settlingOver(readingAt(root), repo, moving, (path) => valueAt(path, repo))
        filedInto(root, found.filings)
