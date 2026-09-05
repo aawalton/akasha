@@ -62,3 +62,19 @@ index 806b6eb69e48fa05a41f5493c72f8e9af6f2854a..cf96b143efbdb6bee71827430cca6378
      {
        invariantKind: "stopgap",
        statement: "Nothing writes those words onto a day yet.",
+diff --git a/readout-system/readouts/pages/attribute-strength/attribute-strength.readout.ts b/readout-system/readouts/pages/attribute-strength/attribute-strength.readout.ts
+index 0b0f033d5be5876fc28a5ec9c8698620db052a99..c5462f5bd2491e861b2b9d46e3d506fc7ef20ac6 100644
+--- a/readout-system/readouts/pages/attribute-strength/attribute-strength.readout.ts
++++ b/readout-system/readouts/pages/attribute-strength/attribute-strength.readout.ts
+@@ -39,10 +39,7 @@ export const attributeStrength = {
+       invariantKind: "departure",
+       statement: "A day carrying no pounds moved is no reading rather than a strength of zero.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A store that refuses is a fault rather than a reading of nothing.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here caches a reading or decides when a reading is taken.",
