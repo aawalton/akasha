@@ -23,11 +23,12 @@ export const noAngleBracketCast = {
     },
     {
       invariantKind: "departure",
-      statement: "How the assertion is written is judged here rather than what it asserts.",
+      statement:
+        "How the assertion is written is judged here rather than what that assertion asserts.",
     },
     {
       invariantKind: "departure",
-      statement: "One assertion wrapping another is refused once for each assertion.",
+      statement: "One assertion wrapping another assertion is refused once for each assertion.",
     },
     {
       invariantKind: "departure",
