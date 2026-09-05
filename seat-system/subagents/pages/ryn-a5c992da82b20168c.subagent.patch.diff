@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-player-completion/completion-cumulative-cards/completion-cumulative-cards.module.ts b/temper/temper-player-completion/completion-cumulative-cards/completion-cumulative-cards.module.ts
+index 95797124930974381a22f3869ff94630f0eb1edb..81ca0ded80c7da3491fae24b93563860220e8f2e 100644
+--- a/temper/temper-player-completion/completion-cumulative-cards/completion-cumulative-cards.module.ts
++++ b/temper/temper-player-completion/completion-cumulative-cards/completion-cumulative-cards.module.ts
+@@ -10,7 +10,7 @@ export const completionCumulativeCards = {
+   invariants: [
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here counts what a character has earned.",
++      statement: "Nothing here counts the completions a character has earned.",
+     },
+   ],
+ } as const satisfies Module
