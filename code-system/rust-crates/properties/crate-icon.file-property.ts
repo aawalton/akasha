@@ -23,7 +23,7 @@ export const crateIcon = {
     },
     {
       invariantKind: "departure",
-      statement: "The seam building the crate writes the picture where Cargo reads it.",
+      statement: "The seam building the crate writes the picture where Cargo reads that picture.",
     },
   ],
 } as const satisfies FileProperty
