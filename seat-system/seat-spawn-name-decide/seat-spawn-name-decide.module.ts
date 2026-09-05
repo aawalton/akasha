@@ -21,7 +21,7 @@ export const seatSpawnNameDecide = {
     {
       invariantKind: "departure",
       statement:
-        "A seat spelling only the role it defaults to has stated nothing to be named from.",
+        "A seat spelling only the role that seat defaults to has stated nothing to be named from.",
     },
   ],
 } as const satisfies Module
