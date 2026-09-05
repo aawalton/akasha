@@ -1,0 +1,16 @@
+diff --git a/command-system/commands/calendar/calendar.command.ts b/command-system/commands/calendar/calendar.command.ts
+index d87d7cd847a2db7cd18c619a8ea99f08a0f315b1..5a66b60214d986a808c2dcc299d7e73951ae1489 100644
+--- a/command-system/commands/calendar/calendar.command.ts
++++ b/command-system/commands/calendar/calendar.command.ts
+@@ -135,10 +135,7 @@ export const calendar = {
+       invariantKind: "departure",
+       statement: "Everyone attending is emailed unless the call says who to email instead.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A minted refresh token is written out and held nowhere.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A flag under an act that does not take that flag is refused.",
