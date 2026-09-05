@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-addon-data/addon-data-writes/addon-data-writes.module.ts b/temper/temper-addon-data/addon-data-writes/addon-data-writes.module.ts
+index d194262d0402f4c39415092400a0007a7c203f55..bf446b0440c0a2f5adb86a1bc35aceb91a3cfd29 100644
+--- a/temper/temper-addon-data/addon-data-writes/addon-data-writes.module.ts
++++ b/temper/temper-addon-data/addon-data-writes/addon-data-writes.module.ts
+@@ -25,7 +25,7 @@ export const addonDataWrites = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Writing to disk is what a caller naming no way to write is given.",
++      statement: "A caller naming no way to write is given writing to disk.",
+     },
+   ],
+ } as const satisfies Module
