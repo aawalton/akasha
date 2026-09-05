@@ -35,7 +35,8 @@ export const exerciseRows = {
     },
     {
       invariantKind: "departure",
-      statement: "A read that fails gives back what went unread rather than throwing.",
+      statement:
+        "A read that fails gives back the reason the rows went unread rather than throwing.",
     },
   ],
 } as const satisfies Module
