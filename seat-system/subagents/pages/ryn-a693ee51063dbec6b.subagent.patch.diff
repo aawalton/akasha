@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/modules/change-walking/change-walking.module.ts b/checks/modules/change-walking/change-walking.module.ts
+index 5b8e1f4a28ed083182fe2c19a7347b0430ddfb3f..93d85546d3808c1599975cc62a0cf6c3ebc486f8 100644
+--- a/checks/modules/change-walking/change-walking.module.ts
++++ b/checks/modules/change-walking/change-walking.module.ts
+@@ -15,7 +15,7 @@ export const changeWalking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A selector says what a check takes as input.",
++      statement: "A selector says the input a check takes.",
+     },
+     {
+       invariantKind: "departure",
