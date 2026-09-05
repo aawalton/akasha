@@ -50,6 +50,10 @@ const INDEX = indexNamed()
 
 const MODULES = "node_modules"
 
+const GIT_DIR = ".git"
+
+const SKIPPED: readonly string[] = [MODULES, GIT_DIR]
+
 const SCOPE = "@"
 
 const OUT = ".."
@@ -117,7 +121,7 @@ export function testsIn(absolute: string): readonly string[] {
   for (const one of readdirSync(absolute, { withFileTypes: true })) {
     const at = join(absolute, one.name)
     if (one.isDirectory()) {
-      if (one.name !== MODULES) held.push(...testsIn(at))
+      if (!SKIPPED.includes(one.name)) held.push(...testsIn(at))
     } else if (one.isFile() && testNamed(one.name)) held.push(at)
   }
   return held

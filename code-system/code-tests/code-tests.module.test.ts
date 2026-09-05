@@ -83,8 +83,12 @@ check("a test written with JSX is counted as readily as one written without", ()
   expect(testsUnder(join(root, "akasha/one.test.tsx"))).toBe(1)
 })
 
-check("a test inside the installed modules folder is not counted", () => {
-  const root = repo({ "node_modules/held/one.test.ts": PASSES, "two.test.ts": PASSES })
+check("a test the installed modules folder or the git folder holds is not counted", () => {
+  const root = repo({
+    "node_modules/one.test.ts": PASSES,
+    ".git/two.test.ts": PASSES,
+    "three.test.ts": PASSES,
+  })
   expect(testsUnder(join(root, "akasha"))).toBe(1)
 })
 
