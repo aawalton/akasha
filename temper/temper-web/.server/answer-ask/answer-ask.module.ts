@@ -17,7 +17,7 @@ export const answerAsk = {
     },
     {
       invariantKind: "departure",
-      statement: "What the store answered is carried back unchanged.",
+      statement: "The store's answer is carried back unchanged.",
     },
     {
       invariantKind: "departure",
