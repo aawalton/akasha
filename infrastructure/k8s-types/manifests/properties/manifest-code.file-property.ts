@@ -19,7 +19,7 @@ export const manifestCode = {
     },
     {
       invariantKind: "departure",
-      statement: "This code builds resources rather than applying them.",
+      statement: "This code builds resources rather than applying those resources.",
     },
   ],
 } as const satisfies FileProperty
