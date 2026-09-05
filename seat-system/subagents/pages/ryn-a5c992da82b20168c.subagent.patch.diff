@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/commands/track/track.command.ts b/commands/track/track.command.ts
-index 1c3db6ed3e1034a28fc05c0c11260215df9a1376..8b03a26e62111d53efdee034df2cf3be878999b1 100644
+index 1c3db6ed3e1034a28fc05c0c11260215df9a1376..d8fe5fc14e52342450fce2e0bdb18077af996ec5 100644
 --- a/commands/track/track.command.ts
 +++ b/commands/track/track.command.ts
 @@ -75,7 +75,7 @@ export const track = {
@@ -18,6 +18,16 @@ index 1c3db6ed3e1034a28fc05c0c11260215df9a1376..8b03a26e62111d53efdee034df2cf3be
        invariantKind: "departure",
 -      statement: "What `show` says to a reader carries each stretch's own id.",
 +      statement: "The answer `show` says to a reader carries each stretch's own id.",
+     },
+     {
+       invariantKind: "departure",
+@@ -260,7 +260,8 @@ export const track = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An `amend` replaces what a stretch carried rather than adding to the stretch.",
++      statement:
++        "An `amend` replaces the relationships a stretch carried rather than adding to the stretch.",
      },
      {
        invariantKind: "departure",
