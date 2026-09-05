@@ -13,7 +13,7 @@ export const node = {
     },
     {
       invariantKind: "departure",
-      statement: "A node's disks are matched by what they are rather than by device path.",
+      statement: "A node's disks are matched by what those disks are rather than by device path.",
     },
     {
       invariantKind: "departure",
