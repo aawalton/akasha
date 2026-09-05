@@ -14,7 +14,7 @@ index 45138866f557d409cd6b39163e6c9f720e5aa061..7035d08f5e4d372a1a3faf32dc5412ef
        rowed.set(pageType, got)
        return got
 diff --git a/markdown-pages/markdown-page-types/markdown-page-types.module.code.ts b/markdown-pages/markdown-page-types/markdown-page-types.module.code.ts
-index dafa98193db444268db4c3a3e614155b7776f99a..ffdb750aa7e6a29089e18bc1ef5acdfc15a7baf7 100644
+index dafa98193db444268db4c3a3e614155b7776f99a..fb6beed63a72cb953b74c1fc6b93743ffd832f4c 100644
 --- a/markdown-pages/markdown-page-types/markdown-page-types.module.code.ts
 +++ b/markdown-pages/markdown-page-types/markdown-page-types.module.code.ts
 @@ -113,7 +113,7 @@ function suffixedIn(root: string): ReadonlyMap<string, readonly string[]> {
@@ -26,3 +26,12 @@ index dafa98193db444268db4c3a3e614155b7776f99a..ffdb750aa7e6a29089e18bc1ef5acdfc
  // still knows which repository the root is, and the reader that will want it again is being written.
  export function scanIn(
    root: string,
+@@ -241,7 +241,7 @@ export function repoPlacings(roots: Roots): ReadonlyMap<string, string> {
+ 
+ const PAGE_TYPE = "page-type"
+ 
+-// Four page-type pages stand outside `pages/page-type/` — the readout ones — so this cannot be an
++// Four page-type pages sit outside `pages/page-type/` — the readout ones — so this cannot be an
+ // exact read of that folder. It walks the tree for the suffix instead, which the index used to save.
+ function pageTypeFilesIn(root: string): ReadonlyMap<string, string> {
+   return onceInCall(`page-type-files:${root}`, () => {
