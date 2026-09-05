@@ -655,3 +655,11 @@ index 290b9c4173f90f66cf2f6961f72b44da54e95f0d..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../web-security-headers
 \ No newline at end of file
+diff --git a/web-static-assets/web-static-assets b/web-static-assets/web-static-assets
+deleted file mode 120000
+index 571fdb9ca959ed11cd24ba8abfbb12bc06b63b08..0000000000000000000000000000000000000000
+--- a/web-static-assets/web-static-assets
++++ /dev/null
+@@ -1 +0,0 @@
+-../../web-static-assets
+\ No newline at end of file
