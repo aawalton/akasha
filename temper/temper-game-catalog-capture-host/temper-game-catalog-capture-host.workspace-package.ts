@@ -27,5 +27,9 @@ export const temperGameCatalogCaptureHost = {
       invariantKind: "departure",
       statement: "A completion catalog here is read from a key the game already gives as a number.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The inferred type is checked against the shape in `temper-capture-shapes`.",
+    },
   ],
 } as const satisfies WorkspacePackage
