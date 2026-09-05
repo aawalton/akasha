@@ -631,3 +631,11 @@ index 135fa7bc4baf0a2c0eb7aa71b5182e334e8560e4..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-capture-errors
 \ No newline at end of file
+diff --git a/temper/temper-capture-host/temper-capture-host b/temper/temper-capture-host/temper-capture-host
+deleted file mode 120000
+index 1c27a2bb2db0e8780861813ad559b512927995b8..0000000000000000000000000000000000000000
+--- a/temper/temper-capture-host/temper-capture-host
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-capture-host
+\ No newline at end of file
