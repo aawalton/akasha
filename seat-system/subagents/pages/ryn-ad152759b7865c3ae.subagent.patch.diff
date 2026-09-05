@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/types/page-properties/page-property.page-type.ts b/pages/types/page-properties/page-property.page-type.ts
+index 70310d8d26600fcd51f971ebceb89576b05b41c4..0e9b0e8c01576674587be7cb364ff9d635ea2639 100644
+--- a/pages/types/page-properties/page-property.page-type.ts
++++ b/pages/types/page-properties/page-property.page-type.ts
+@@ -35,7 +35,8 @@ export const pageProperty = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What shape a property has is the page type it is rather than a value it states.",
++      statement:
++        "What shape a property has is the page type that property is rather than a value the property states.",
+     },
+     {
+       invariantKind: "departure",
