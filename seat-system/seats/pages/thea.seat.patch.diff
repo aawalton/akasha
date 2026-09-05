@@ -1,3 +1,15 @@
+diff --git a/changes/kinds/change-kind.page-type.ts b/changes/kinds/change-kind.page-type.ts
+index 7c5240b2791ab42ab2c5f354ad58ed656f0d30bc..e4046fdf772016d9d68a8ba7e4612beb4f5ff301 100644
+--- a/changes/kinds/change-kind.page-type.ts
++++ b/changes/kinds/change-kind.page-type.ts
+@@ -16,6 +16,7 @@ export const changeKind = {
+   pluralSlug: "change-kinds",
+   partSlugs: [
+     "change-kind/change-authored",
++    "change-kind/change-checked",
+     "change-kind/change-mechanical",
+     "change-kind/change-none",
+     "change-kind/change-restated",
 diff --git a/changes/kinds/pages/change-checked.change-kind.ts b/changes/kinds/pages/change-checked.change-kind.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..55b34331f77b8b67c9881922c98b410304d34eba
