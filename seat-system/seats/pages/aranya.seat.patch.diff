@@ -1311,3 +1311,11 @@ index 97b7f440bdc4dc91a702e1ce67a4ac8f6ab36858..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-lib-saved-vars
 \ No newline at end of file
+diff --git a/temper/temper-lib-scrollable-menu/temper-lib-scrollable-menu b/temper/temper-lib-scrollable-menu/temper-lib-scrollable-menu
+deleted file mode 120000
+index 207053fa6045e8be85b249097691e76b83b8cb6a..0000000000000000000000000000000000000000
+--- a/temper/temper-lib-scrollable-menu/temper-lib-scrollable-menu
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-lib-scrollable-menu
+\ No newline at end of file
