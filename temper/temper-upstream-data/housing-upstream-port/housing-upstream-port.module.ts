@@ -9,10 +9,6 @@ export const housingUpstreamPort = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The upstream Lua file is read by running the file in a sandboxed Lua machine.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The filter constants the upstream file reads are seeded before the file runs.",
     },
     {
