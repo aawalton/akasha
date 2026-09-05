@@ -184,3 +184,70 @@ index 0000000000000000000000000000000000000000..2fde5aeb57a3bbb07d7e41d3127bc268
 +  expect(found[0]).toEqual({ named: null, line: 1, from: "./x.ts" })
 +  expect(found[1]).toEqual({ named: "a", line: 2, from: "./y.ts" })
 +})
+diff --git a/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts b/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9a0015884954f86b916c6c6fbc9c4c0f5fd3d3a0
+--- /dev/null
++++ b/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts
+@@ -0,0 +1,61 @@
++import type { CodeCheck } from "../../code-check.page-type.ts"
++
++export const calculationImportsOnlyTypes = {
++  id: "01a07222-b261-7961-a84e-6a8e0c0e5ed3",
++  pageTypeSlug: "code-check",
++  slug: "calculation-imports-only-types",
++  definition: "the check refusing an import that is not type-only in a calculation's code file",
++  code: "ts",
++  test: "ts",
++  runsOnPatch: true,
++  runsOnWorktree: true,
++  runsOnDeploy: true,
++  runsOnAudit: true,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A calculation is loaded by running its code file's text.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Nothing resolves an import while that text runs.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "An import that is not type-only is missing at query time rather than at typecheck.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An import clause marked `type` is let through.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A named element marked `type` under a plain clause is let through.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An import declaration carrying no clause is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A default import is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A namespace import is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A refusal names the line, and the name or the source it came from.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Only a file named `.computed-property.code.ts` is judged.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here judges what a calculation exports.",
++    },
++  ],
++} as const satisfies CodeCheck
