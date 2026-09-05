@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/person-system/person-enrolment/person-enrolment.module.ts b/person-system/person-enrolment/person-enrolment.module.ts
+index 8dfd64fa31ea26a0acec3b7220505b789d2b7fdd..40d8c4027c44ef86e6ee9db243948052a93573a1 100644
+--- a/person-system/person-enrolment/person-enrolment.module.ts
++++ b/person-system/person-enrolment/person-enrolment.module.ts
+@@ -39,7 +39,7 @@ export const personEnrolment = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here decides what a person may reach.",
++      statement: "Nothing here decides a person's access.",
+     },
+   ],
+ } as const satisfies Module
