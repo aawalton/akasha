@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/hook-system/hook-system.workspace-package.ts b/hook-system/hook-system.workspace-package.ts
-index 83194f6c6b00a1b6204655dd2f82d3aec4e6b1fe..a15f35c440b3513ac1433491840c4cc83cc87660 100644
+index 83194f6c6b00a1b6204655dd2f82d3aec4e6b1fe..0cb84cb97f6c547673427b6a8eb1e0ca0db38971 100644
 --- a/hook-system/hook-system.workspace-package.ts
 +++ b/hook-system/hook-system.workspace-package.ts
 @@ -29,7 +29,7 @@ export const hookSystem = {
@@ -9,6 +9,15 @@ index 83194f6c6b00a1b6204655dd2f82d3aec4e6b1fe..a15f35c440b3513ac1433491840c4cc8
        invariantKind: "departure",
 -      statement: "What that name reaches is worked out at the call rather than at the spawn.",
 +      statement: "The path that name reaches is worked out at the call rather than at the spawn.",
+     },
+     {
+       invariantKind: "departure",
+@@ -37,7 +37,7 @@ export const hookSystem = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A hook that refuses names the akasha command that does what was asked.",
++      statement: "A hook that refuses names the akasha command that does the work asked for.",
      },
      {
        invariantKind: "departure",
