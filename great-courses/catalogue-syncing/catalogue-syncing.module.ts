@@ -27,7 +27,7 @@ export const catalogueSyncing = {
     },
     {
       invariantKind: "departure",
-      statement: "The run stands as a row under the source it synced.",
+      statement: "The run is a row under the source it synced.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +41,7 @@ export const catalogueSyncing = {
     },
     {
       invariantKind: "absence",
-      statement: "No credential stands behind the run.",
+      statement: "No credential is behind the run.",
     },
     {
       invariantKind: "absence",

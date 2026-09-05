@@ -23,11 +23,11 @@ export const rulesEngineRuleSet = {
     },
     {
       invariantKind: "gap",
-      statement: "The page type a rule set applies to stands as a property of this page type.",
+      statement: "The page type a rule set applies to is a property of this page type.",
     },
     {
       invariantKind: "gap",
-      statement: "The paths a rule set's rules stand at stand as a property of this page type.",
+      statement: "The paths a rule set's rules sit at are a property of this page type.",
     },
   ],
 } as const satisfies PageType

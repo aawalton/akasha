@@ -44,7 +44,7 @@ export const rulePopulationSweeping = {
     },
     {
       invariantKind: "absence",
-      statement: "No graph cache is read, so the population is the repository as it now stands.",
+      statement: "No graph cache is read, so the population is the repository as it now is.",
     },
     {
       invariantKind: "departure",
