@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/machines/provisioning/provisioned-files/provisioned-file.page-type.ts b/machines/provisioning/provisioned-files/provisioned-file.page-type.ts
-index 2dc67a6a004ca395d8f00b2786b0369e19efe74d..fea317ea4d89012470556d9c01a001e7161e5a15 100644
+index 2dc67a6a004ca395d8f00b2786b0369e19efe74d..af29a2216703422827de40612075b4074971130f 100644
 --- a/machines/provisioning/provisioned-files/provisioned-file.page-type.ts
 +++ b/machines/provisioning/provisioned-files/provisioned-file.page-type.ts
-@@ -68,7 +68,8 @@ export const provisionedFile = {
+@@ -68,12 +68,13 @@ export const provisionedFile = {
      },
      {
        invariantKind: "departure",
@@ -13,3 +13,9 @@ index 2dc67a6a004ca395d8f00b2786b0369e19efe74d..fea317ea4d89012470556d9c01a001e7
      },
      {
        invariantKind: "departure",
+       statement:
+-        "What makes a placed file take effect is stated by the page rather than by the placer.",
++        "The command making a placed file take effect is stated by the page rather than by the placer.",
+     },
+     {
+       invariantKind: "absence",
