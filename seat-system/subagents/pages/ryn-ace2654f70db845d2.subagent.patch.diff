@@ -103,3 +103,16 @@ index 5e6b9c9a684e00aa837332669f781f8cdbe88014..053ca8c28202edebaf2f337d66494579
      },
      {
        invariantKind: "departure",
+diff --git a/service-system/secrets/secret-placing/secret-placing.module.ts b/service-system/secrets/secret-placing/secret-placing.module.ts
+index 79f0df114621db7e045450a0869e157b5c06404a..0f047da33c78f65c55ab6c9409e7fdb53aa92037 100644
+--- a/service-system/secrets/secret-placing/secret-placing.module.ts
++++ b/service-system/secrets/secret-placing/secret-placing.module.ts
+@@ -15,7 +15,7 @@ export const secretPlacing = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Two secret pages placing a value in one resource under one key is refused before anything is applied.",
++        "Two secret pages placing a value in one resource at one key is refused before anything is applied.",
+     },
+     {
+       invariantKind: "departure",
