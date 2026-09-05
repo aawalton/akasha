@@ -10,19 +10,19 @@ export const inferenceAnswering = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A flag naming a value takes the word after it.",
+      statement: "A flag naming a value takes the word after that flag.",
     },
     {
       invariantKind: "departure",
-      statement: "An alias is read as the flag it represents.",
+      statement: "An alias is read as the flag that alias represents.",
     },
     {
       invariantKind: "departure",
-      statement: "A flag said more than once holds every value where it repeats.",
+      statement: "A flag said more than once holds every value where that flag repeats.",
     },
     {
       invariantKind: "departure",
-      statement: "A flag said more than once holds the last value where it does not.",
+      statement: "A flag said more than once holds the last value where that flag does not.",
     },
     {
       invariantKind: "departure",
