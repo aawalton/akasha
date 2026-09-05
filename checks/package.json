@@ -14,7 +14,6 @@
     "./test-step-paths": "./cluster-checks/modules/test-step-paths/test-step-paths.module.code.ts",
     "./typecheck": "./code-checks/pages/typecheck/typecheck.code-check.code.ts",
     "./typecheck/testing": "./code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts",
-    "./check-view": "./modules/check-view/check-view.module.code.ts",
     "./run-cost": "./modules/run-cost/run-cost.module.code.ts"
   },
   "dependencies": {

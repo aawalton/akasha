@@ -11,7 +11,6 @@ export const checks = {
     "page-type/cluster-check",
     "page-type/model-check",
     "page-type/refusal",
-    "module/check-view",
     "module/judging",
     "module/model-running",
     "module/check-scratch",
