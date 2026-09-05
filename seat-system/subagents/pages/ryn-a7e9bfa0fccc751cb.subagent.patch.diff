@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-eso-paths/temper-eso-paths.workspace-package.ts b/temper/temper-eso-paths/temper-eso-paths.workspace-package.ts
+index 1b2aa369706b197156470388667f3e797bc29adb..c7c6bc11a23b8802e247c2f2f2bff12c47b9ff29 100644
+--- a/temper/temper-eso-paths/temper-eso-paths.workspace-package.ts
++++ b/temper/temper-eso-paths/temper-eso-paths.workspace-package.ts
+@@ -16,7 +16,7 @@ export const temperEsoPaths = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A path here is worked out from the environment rather than from what is written on disk.",
++        "A path here is worked out from the environment rather than from the directories on disk.",
+     },
+     {
+       invariantKind: "departure",
