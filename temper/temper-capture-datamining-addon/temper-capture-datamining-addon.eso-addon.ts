@@ -32,6 +32,10 @@ export const temperCaptureDataminingAddon = {
     },
     {
       invariantKind: "departure",
+      statement: "Mining that has run past the stated misses is complete.",
+    },
+    {
+      invariantKind: "departure",
       statement: "What mining takes lands in the saved variables rather than over the wire.",
     },
     {

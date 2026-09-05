@@ -58,6 +58,10 @@ export const story = {
     },
     {
       invariantKind: "departure",
+      statement: "A chapter's slug opens with the story the chapter is part of.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The source a chapter came from is no page type of its own.",
     },
     {

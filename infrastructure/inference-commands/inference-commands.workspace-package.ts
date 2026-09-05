@@ -33,6 +33,10 @@ export const inferenceCommands = {
       statement: "A command here files a run row for the work that command sends to a model.",
     },
     {
+      invariantKind: "departure",
+      statement: "A run row is filed whether the work finished or failed.",
+    },
+    {
       invariantKind: "gap",
       statement: "The run rows a command here files are akasha pages.",
     },
