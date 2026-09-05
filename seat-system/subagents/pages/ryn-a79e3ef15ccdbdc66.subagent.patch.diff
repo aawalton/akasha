@@ -1,0 +1,15 @@
+diff --git a/command-system/commands/wan/wan.command.ts b/command-system/commands/wan/wan.command.ts
+index 33e8103630a1ef16989d2dade179f94ecdbd6798..0a15761c6a3f0fb75684d753492c5a17f2f377a0 100644
+--- a/command-system/commands/wan/wan.command.ts
++++ b/command-system/commands/wan/wan.command.ts
+@@ -109,10 +109,6 @@ export const wan = {
+       invariantKind: "departure",
+       statement: "A seed nothing named is drawn and recorded with the run.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "The recipe a generate or an extend ran under is kept as an inference run.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A frames act writes one numbered PNG for each frame that act takes.",
