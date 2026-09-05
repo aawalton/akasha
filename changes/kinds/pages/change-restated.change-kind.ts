@@ -22,7 +22,8 @@ export const changeRestated = {
     },
     {
       invariantKind: "departure",
-      statement: "A rewrite narrowing what a statement binds is authored rather than restated.",
+      statement:
+        "A rewrite narrowing the claim a statement binds is authored rather than restated.",
     },
     {
       invariantKind: "departure",
