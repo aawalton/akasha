@@ -29,7 +29,7 @@ export const royalRoadSyncing = {
     },
     {
       invariantKind: "departure",
-      statement: "A chapter royal road hides or keeps locked is left where it is.",
+      statement: "A chapter royal road hides or keeps locked is left where that chapter is.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const royalRoadSyncing = {
     {
       invariantKind: "departure",
       statement:
-        "A name is cut back further where it would otherwise run past the hundred characters a slug holds.",
+        "A name is cut back further where that name would otherwise run past a slug's hundred characters.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +49,7 @@ export const royalRoadSyncing = {
     {
       invariantKind: "departure",
       statement:
-        "A chapter names the story it is part of by page type and slug rather than by slug alone.",
+        "A chapter names the story that chapter is part of by page type and slug rather than by slug alone.",
     },
     {
       invariantKind: "departure",
@@ -67,21 +67,21 @@ export const royalRoadSyncing = {
     {
       invariantKind: "departure",
       statement:
-        "What is composed is shown rather than landed unless the run was asked to commit it.",
+        "What is composed is shown rather than landed unless the run was asked to commit what is composed.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Pages land fifty at a time, each fifty its own commit, every page with the files beside it.",
+        "Pages land fifty at a time, each fifty its own commit, every page with the files beside that page.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A chapter refused for holding no prose is named by the page read and by which refusal it hit.",
+        "A chapter refused for holding no prose is named by the page read and the refusal that chapter hit.",
     },
     {
       invariantKind: "departure",
-      statement: "A run that failed a chapter is a failed run however much else it composed.",
+      statement: "A run that failed a chapter is a failed run however much else that run composed.",
     },
   ],
 } as const satisfies Module
