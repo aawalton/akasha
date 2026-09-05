@@ -27,7 +27,7 @@ export const stateSubagent = {
     },
     {
       invariantKind: "departure",
-      statement: "A payload naming no subagent leaves what is there unchanged.",
+      statement: "A payload naming no subagent leaves the subagent pages unchanged.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,7 @@ export const stateSubagent = {
     },
     {
       invariantKind: "departure",
-      statement: "This hook changes what is there rather than judging a call.",
+      statement: "This hook changes the subagent pages rather than judging a call.",
     },
     {
       invariantKind: "departure",
@@ -64,7 +64,7 @@ export const stateSubagent = {
     {
       invariantKind: "departure",
       statement:
-        "A page half-landed by a process that died is swept by whoever takes that lock next.",
+        "A page half-landed by a process that died is swept by the next process to take that lock.",
     },
   ],
 } as const satisfies AgentHook
