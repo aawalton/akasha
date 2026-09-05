@@ -58,3 +58,18 @@ index 0000000000000000000000000000000000000000..4decfca58c251c1531bf2d6e2351a31a
 +    "module/pascal-to-kebab-04",
 +  ],
 +} as const satisfies Domain
+diff --git a/pages/core/json-patch/pages-core-json-patch.domain.ts b/pages/core/json-patch/pages-core-json-patch.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2804a3d0b8ee37e5d2644018c7201e94f9f624cc
+--- /dev/null
++++ b/pages/core/json-patch/pages-core-json-patch.domain.ts
+@@ -0,0 +1,9 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesCoreJsonPatch = {
++  id: "01a071cb-06e1-77a7-9b87-356db476d706",
++  pageTypeSlug: "domain",
++  slug: "pages-core-json-patch",
++  definition: "a change to a JSON value said as a patch",
++  partSlugs: ["module/apply", "module/jsonb-ops"],
++} as const satisfies Domain
