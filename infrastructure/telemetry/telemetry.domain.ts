@@ -5,5 +5,10 @@ export const telemetry = {
   pageTypeSlug: "domain",
   slug: "telemetry",
   definition: "somewhere a program records what it is doing",
-  partSlugs: ["domain/log", "domain/metric", "manifest/dcgm-exporter-daemonset"],
+  partSlugs: [
+    "domain/log",
+    "domain/metric",
+    "manifest/dcgm-exporter-daemonset",
+    "manifest/node-exporter-daemonset",
+  ],
 } as const satisfies Domain
