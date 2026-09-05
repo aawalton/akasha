@@ -23,7 +23,7 @@
 # be the only form of.
 #
 # MODES. `mirror.mode` is `history` by default: every branch and tag, as they
-# stand. `snapshot` mirrors the tree of `main` onto a lineage rooted here — one
+# are. `snapshot` mirrors the tree of `main` onto a lineage rooted here — one
 # commit per push with no parent before the first — for a repo whose own history
 # carries an object the destination will not take. The tree is mirrored whole
 # either way; what a snapshot gives up is the commits behind it.
@@ -133,7 +133,7 @@ mirror_snapshot() {
   fi
 
   TIP=$(git -C "$REPO_DIR" rev-parse -q --verify refs/heads/main 2>/dev/null || true)
-  MESSAGE="the repository as it stands at $TIP"
+  MESSAGE="the repository as it is at $TIP"
   if [ -n "$PARENT" ]; then
     COMMIT=$(git -C "$REPO_DIR" commit-tree "$TREE" -p "$PARENT" -m "$MESSAGE") || COMMIT=""
   else

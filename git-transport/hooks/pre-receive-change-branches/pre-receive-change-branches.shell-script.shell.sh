@@ -31,7 +31,7 @@
 # THE PATTERNS ANCHOR ON A DIGIT, WHICH IS NOT DECORATION. `merge-*` alone
 # would also match a `merge-queue/...` ref, because the glob crosses `/`;
 # `merge-[0-9]*` cannot. The merge queue is gone and its staging ref is no
-# longer admitted, but the ref it left behind still stands on the server, and
+# longer admitted, but the ref it left behind is still on the server, and
 # Policy 1 does not gate updates to a branch that already exists.
 
 set -eu
