@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.code-check.ts b/checks/code-checks/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.code-check.ts
+index 681b8e1cfd1fff75a4964109839d0a86d08901a5..fe25b218d8a37b631bebfb7f68d4948790878285 100644
+--- a/checks/code-checks/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.code-check.ts
++++ b/checks/code-checks/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.code-check.ts
+@@ -18,7 +18,7 @@ export const noSecondSpellingOfANameFormat = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A shape is what a regex literal reads as without its flags.",
++      statement: "A shape is the pattern a regex literal reads as without its flags.",
+     },
+     {
+       invariantKind: "departure",
