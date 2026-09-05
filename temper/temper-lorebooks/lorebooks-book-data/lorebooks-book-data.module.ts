@@ -11,9 +11,5 @@ export const lorebooksBookData = {
       invariantKind: "constraint",
       statement: "The runs are gathered in the order the whole table names.",
     },
-    {
-      invariantKind: "gap",
-      statement: "Akasha holds no map pin for a lore book.",
-    },
   ],
 } as const satisfies Module
