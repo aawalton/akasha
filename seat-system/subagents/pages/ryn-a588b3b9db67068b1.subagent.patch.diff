@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/commands/properties/taking.record-property.ts b/command-system/commands/properties/taking.record-property.ts
+index 41d6f9e3bc8b2c9a55658c392149a69b51167346..93ee137940589c338e97f4b37ea91336884c7546 100644
+--- a/command-system/commands/properties/taking.record-property.ts
++++ b/command-system/commands/properties/taking.record-property.ts
+@@ -36,7 +36,7 @@ export const taking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a command takes is stated on its page.",
++      statement: "The arguments a command takes are stated on its page.",
+     },
+     {
+       invariantKind: "departure",
