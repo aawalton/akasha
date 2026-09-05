@@ -1,5 +1,5 @@
 diff --git a/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts b/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts
-index c0316ff98eb29c5838fd022bbdd416251c7f3651..0ebdcbe3a1036212c2dca3791920d57f4402a84e 100644
+index c0316ff98eb29c5838fd022bbdd416251c7f3651..cdc1b85df3bb34baea4f03a8f167747049095784 100644
 --- a/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts
 +++ b/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts
 @@ -29,7 +29,7 @@ export const royalRoadSyncing = {
@@ -29,12 +29,18 @@ index c0316ff98eb29c5838fd022bbdd416251c7f3651..0ebdcbe3a1036212c2dca3791920d57f
      },
      {
        invariantKind: "departure",
-@@ -67,7 +67,7 @@ export const royalRoadSyncing = {
+@@ -67,12 +67,12 @@ export const royalRoadSyncing = {
      {
        invariantKind: "departure",
        statement:
 -        "What is composed is shown rather than landed unless the run was asked to commit it.",
 +        "What is composed is shown rather than landed unless the run was asked to commit what is composed.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "Pages land fifty at a time, each fifty its own commit, every page with the files beside it.",
++        "Pages land fifty at a time, each fifty its own commit, every page with the files beside that page.",
      },
      {
        invariantKind: "departure",
