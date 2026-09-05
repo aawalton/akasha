@@ -239,3 +239,11 @@ index a5cd2a57708bcd3bd0e6b25b2e1f9c7b0c28d874..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../infrastructure/comfy
 \ No newline at end of file
+diff --git a/infrastructure/dockerfiles/dockerfiles b/infrastructure/dockerfiles/dockerfiles
+deleted file mode 120000
+index 4d603159b29e35f70634ea7c830be984bb2c8eb5..0000000000000000000000000000000000000000
+--- a/infrastructure/dockerfiles/dockerfiles
++++ /dev/null
+@@ -1 +0,0 @@
+-../../infrastructure/dockerfiles
+\ No newline at end of file
