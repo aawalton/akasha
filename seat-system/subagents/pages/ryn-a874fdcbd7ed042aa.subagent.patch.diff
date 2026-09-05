@@ -1,13 +1,18 @@
 diff --git a/command-system/command-system.workspace-package.ts b/command-system/command-system.workspace-package.ts
-index 4691b3c2d00d98d9022be926dc307b7fa4611f59..5e01c0a103439d97bfef109feff9d763e99acb3a 100644
+index 4691b3c2d00d98d9022be926dc307b7fa4611f59..c00b1b1fbf3c601f5fb2925adcf054b831013f92 100644
 --- a/command-system/command-system.workspace-package.ts
 +++ b/command-system/command-system.workspace-package.ts
-@@ -77,7 +77,7 @@ export const commandSystem = {
+@@ -77,11 +77,11 @@ export const commandSystem = {
      },
      {
        invariantKind: "departure",
 -      statement: "A command may answer later than it was called.",
 +      statement: "A command may answer later than that command was called.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "It prints nothing itself.",
++      statement: "A command prints nothing itself.",
      },
      {
        invariantKind: "departure",
