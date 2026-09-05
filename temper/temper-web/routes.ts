@@ -46,8 +46,8 @@ const API_ROUTES: RouteConfig = [
   route("api/watcher/upsert-mined-quests", "routes/api.watcher.upsert-mined-quests.tsx"),
   route("api/watcher/upsert-pricing-extract", "routes/api.watcher.upsert-pricing-extract.tsx"),
   route("api/watcher/upsert-pricing-snapshot", "routes/api.watcher.upsert-pricing-snapshot.tsx"),
-  route("api/addons/version", "routes/api.addons.version.tsx"),
-  route("api/addons/download", "routes/api.addons.download.tsx"),
+  route("api/addons/version", "routes/addon-bundle-version/addon-bundle-version.route.code.tsx"),
+  route("api/addons/download", "routes/addon-bundle/addon-bundle.route.code.tsx"),
   route("character-build/h/:hash", "routes/character.h.$hash.tsx"),
   route("companion-build/h/:hash", "routes/companion.h.$hash.tsx"),
 ]
