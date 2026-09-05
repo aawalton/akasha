@@ -57,7 +57,7 @@ export const monarchMonth = {
     },
     {
       invariantKind: "departure",
-      statement: "A month states what that month covers and nothing else.",
+      statement: "A month states the period that month covers and nothing else.",
     },
     {
       invariantKind: "departure",
