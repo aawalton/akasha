@@ -15,7 +15,6 @@ export const temperCatalogInvalidate = {
   ],
   helpNotes: [
     "a domain is named or `--all` is said, never both.",
-    "a domain the addon's registry does not hold is refused by name.",
     "the request is a version the addon compares against what it last saw, so the collection happens at the next reload.",
   ],
   invariants: [
