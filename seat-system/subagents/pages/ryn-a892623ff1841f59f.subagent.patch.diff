@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/testing-system/test/test.domain.ts b/testing-system/test/test.domain.ts
+index c3d9095197397b5bab2396fc010beaa4da0cd3a1..8f8a8ad72d2dd726527f3a0e423359ea276b715a 100644
+--- a/testing-system/test/test.domain.ts
++++ b/testing-system/test/test.domain.ts
+@@ -12,7 +12,7 @@ export const test = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A test over invented data proves what the fixture holds.",
++      statement: "A test over invented data proves the truths the fixture holds.",
+     },
+     {
+       invariantKind: "departure",
