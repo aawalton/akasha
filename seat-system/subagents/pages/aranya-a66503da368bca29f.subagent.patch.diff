@@ -1,3 +1,23 @@
+diff --git a/alan/atlas-web/tsconfig.json b/alan/atlas-web/tsconfig.json
+index 13aeec0814c5a7a7e8a32366477391b1a654ec01..6d4eac0383898000b7152305fb8795e67938a621 100644
+--- a/alan/atlas-web/tsconfig.json
++++ b/alan/atlas-web/tsconfig.json
+@@ -25,13 +25,14 @@
+     "*/*.stylesheet.ts",
+     ".server/*/*.module.ts",
+     ".server/*/*.module.code.ts",
++    "*/*.manifest.ts",
++    "*/*.manifest.code.ts",
+     ".react-router/types/**/*.ts",
+     ".react-router/types/**/*.tsx",
+     ".react-router/types/**/+types/*.ts",
+     "server.ts",
+     "vite.config.ts",
+     "react-router.config.ts",
+-    "*.cluster-service.code.attachment.ts",
+     "tunnel-routes.ts"
+   ],
+   "exclude": ["node_modules", "dist", "build"]
 diff --git a/service-system/cluster-services/pages/alanwalton-atlas.cluster-service.ts b/service-system/cluster-services/pages/alanwalton-atlas.cluster-service.ts
 index d490840953b8edf1158f773acf05b9b0409604f5..ea6f0b33eb9f7464529582f9ed7f9c86f4bc2471 100644
 --- a/service-system/cluster-services/pages/alanwalton-atlas.cluster-service.ts
