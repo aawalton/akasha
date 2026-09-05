@@ -57,7 +57,7 @@ export const musicRate = {
     },
     {
       invariantKind: "departure",
-      statement: "A property the call does not name is left as it was.",
+      statement: "A property the call does not name is left as that property was.",
     },
     {
       invariantKind: "absence",
