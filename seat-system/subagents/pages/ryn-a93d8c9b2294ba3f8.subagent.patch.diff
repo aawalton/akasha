@@ -30,6 +30,21 @@ index 9e445fe25cb5733c177e45452f3553fbab681095..c8c00aa6d94cfd0e502b902bd86643b9
      {
        invariantKind: "departure",
        statement: "A subfolder holding no page the page type declares is refused.",
+diff --git a/command-system/commands/refactor/refactor.command.ts b/command-system/commands/refactor/refactor.command.ts
+index f3e8e674f69020dee235f5412e69167c1f0499b2..809e2755b6345bd49330528a3f4d701006939552 100644
+--- a/command-system/commands/refactor/refactor.command.ts
++++ b/command-system/commands/refactor/refactor.command.ts
+@@ -221,10 +221,6 @@ export const refactor = {
+       invariantKind: "departure",
+       statement: "Every manifest and every body spelling the renamed package is respelled.",
+     },
+-    {
+-      invariantKind: "constraint",
+-      statement: "The index carries the pages rather than every file git tracks.",
+-    },
+ 
+     {
+       invariantKind: "departure",
 diff --git a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
 index d46b5520305c7527a21be788e295c4f1b9ba59cf..c18cd88409927c19558e6a6a75726aca70036b5d 100644
 --- a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
