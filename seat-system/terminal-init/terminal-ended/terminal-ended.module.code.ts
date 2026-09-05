@@ -2,7 +2,7 @@ import { ROOT } from "../terminal-entry-points/terminal-entry-points.module.code
 
 export const ENDED_FN = "__editor_terminal_ended"
 
-export const ENDED_DIR = "pages/code-editor-terminal"
+export const ENDED_DIR = "alan/harness/code-editor/code-editor-terminals/pages"
 
 export function terminalEndedFnLines(): readonly string[] {
   return [
@@ -10,7 +10,7 @@ export function terminalEndedFnLines(): readonly string[] {
     "  local _status=${1:-$?}",
     `  local _root="${ROOT}"`,
     `  local _dir="$_root/${ENDED_DIR}"`,
-    '  [ -d "$_dir" ] || return 0',
+    '  mkdir -p "$_dir" 2>/dev/null || return 0',
     '  local _stat _rest _start _signal=""',
     "  _stat=$(</proc/$$/stat) || return 0",
     '  _rest="${_stat##*) }"',

@@ -37,7 +37,7 @@ describe("what is left", () => {
   })
 
   test("ends as the shell would have ended where nothing could be left", () => {
-    expect(said).toContain('[ -d "$_dir" ] || return 0')
+    expect(said).toContain('mkdir -p "$_dir" 2>/dev/null || return 0')
     expect(said).toContain("|| return 0")
     expect(said.trimEnd().endsWith("return 0\n}")).toBe(true)
   })

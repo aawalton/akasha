@@ -37,9 +37,12 @@ export const terminalEnded = {
       statement: "A shell that could not leave a record ends as it would have ended anyway.",
     },
     {
-      invariantKind: "stopgap",
-      statement:
-        "What is left stands in the old pages tree, which is where the reader still looks.",
+      invariantKind: "departure",
+      statement: "What is left sits beside the pages of the page type it describes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder not there yet is made rather than the record being dropped.",
     },
   ],
 } as const satisfies Module
