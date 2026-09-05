@@ -631,3 +631,11 @@ index 286747d0b16838c8f13d34b5c35931189ff11642..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../verdict
 \ No newline at end of file
+diff --git a/voice-core/voice-core b/voice-core/voice-core
+deleted file mode 120000
+index ac471b8530f1f3a702d46a8d10738ae2dfa75004..0000000000000000000000000000000000000000
+--- a/voice-core/voice-core
++++ /dev/null
+@@ -1 +0,0 @@
+-../../voice-core
+\ No newline at end of file
