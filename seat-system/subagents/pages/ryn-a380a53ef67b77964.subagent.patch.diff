@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/storage/page-storage.domain.ts b/pages/storage/page-storage.domain.ts
+index 28485ffa3d97c47ece9721543277f12577ddd6bc..8d08a904de04a90163d3aaddf4a66c1fac8c6f63 100644
+--- a/pages/storage/page-storage.domain.ts
++++ b/pages/storage/page-storage.domain.ts
+@@ -42,7 +42,7 @@ export const pageStorage = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The page a relation names is found by what the files say rather than by what the files are called.",
++        "The page a relation names is found by the values the files hold rather than by the file names.",
+     },
+     {
+       invariantKind: "gap",
