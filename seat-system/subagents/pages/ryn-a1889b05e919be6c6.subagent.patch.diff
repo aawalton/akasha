@@ -90,3 +90,16 @@ index a16a0920e9c32b7991031e59ae2dc32150fcb1f0..7d969e5db7fe635a23c0cba2cd9df386
      },
      {
        invariantKind: "departure",
+diff --git a/reminder-system/due-reminder-sending/due-reminder-sending.module.ts b/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
+index 9dde807d51da4e0b71c8de185e50225938dc5605..b48bfee77eae7afbb574cc9ea88240870af5ac8f 100644
+--- a/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
++++ b/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
+@@ -36,7 +36,7 @@ export const dueReminderSending = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A reminder first seen whose schedule names no time still to come is reported and left alone rather than taken away.",
++        "A reminder first seen with no time still to come is reported and left alone rather than taken away.",
+     },
+     {
+       invariantKind: "departure",
