@@ -33,7 +33,8 @@ export const characterBuild = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A build is the arrangement itself rather than the character wearing it.",
+      statement:
+        "A build is the arrangement itself rather than the character wearing that arrangement.",
     },
     {
       invariantKind: "departure",
