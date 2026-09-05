@@ -28,3 +28,15 @@ index 0000000000000000000000000000000000000000..e4fe1deb081257c67ece7036db0b587c
 +  definition: "the auth server workload, its namespace and the way in to it",
 +  code: "ts",
 +} as const satisfies Manifest
+diff --git a/infrastructure/infrastructure.domain.ts b/infrastructure/infrastructure.domain.ts
+index cc9993c5bac7063015678010f05c8da5f9b3a33e..19a917d45e6669853d46b92cd82cbdf2b44492b3 100644
+--- a/infrastructure/infrastructure.domain.ts
++++ b/infrastructure/infrastructure.domain.ts
+@@ -22,6 +22,7 @@ export const infrastructure = {
+     "workspace-package/ci-benchmark",
+     "domain/cluster-operations",
+     "domain/cluster-provisioning",
++    "domain/auth",
+     "domain/container-image",
+     "domain/job",
+     "domain/node",
