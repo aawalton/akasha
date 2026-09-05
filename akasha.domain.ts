@@ -114,10 +114,10 @@ export const akasha = {
       directiveKind: "principle",
       name: "Grounding",
       act: "Settle what is true before deciding what to do.",
-      warrant:
-        "An agent updates what it believes and what it intends together, so the goal bends the belief.",
+      warrant: "An agent updates belief and intent together, so the goal bends the belief.",
       aids: [
-        "Open what a claim is about, however it came.",
+        "Never rest a decision on an unverified assumption.",
+        "Verify how a thing works, not how many there are. Counts go stale at once.",
         "Stop looking once you can make the call.",
       ],
     },
