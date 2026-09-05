@@ -51,4 +51,4 @@ podman run -d \
   "$IMAGE" >/dev/null
 
 echo "==> Started. ComfyUI: http://localhost:$PORT"
-echo "    Data dir: $DATA  |  Verify the GPU path: shell-script/upscale-smoke"
+echo "    Data dir: $DATA"
