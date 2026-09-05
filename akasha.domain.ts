@@ -72,11 +72,6 @@ export const akasha = {
   ],
   invariants: [
     {
-      invariantKind: "gap",
-      statement: "Nothing is in akasha that nothing deployed reaches.",
-    },
-
-    {
       invariantKind: "departure",
       statement: "Code and data are text.",
     },
