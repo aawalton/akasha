@@ -1,0 +1,657 @@
+diff --git a/collection-system/collections/properties/collection-completion.computed-property.code.ts b/collection-system/collections/properties/collection-completion.computed-property.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f3e03d4086b9285c914b86b596cfc200867f95b6
+--- /dev/null
++++ b/collection-system/collections/properties/collection-completion.computed-property.code.ts
+@@ -0,0 +1,15 @@
++import type { Work } from "@akasha/pages-system/computed-property"
++import type { WorkedCollection } from "../collection.page-type.ts"
++import type { CollectionCompletion } from "./collection-completion.computed-property.ts"
++
++export const work: Work<WorkedCollection, CollectionCompletion> = (page) => {
++  // A case row an absent value is read in matches nothing, so it falls to `otherwise`.
++  const length = page.totalLengthInWords
++  const remaining = page.totalRemainingInWords
++  if (typeof length === "number" && length > 0) {
++    if (typeof remaining === "number" && remaining <= 0) return "completed"
++  }
++  const progress = page.totalProgressInWords
++  if (typeof progress === "number" && progress > 0) return "in-progress"
++  return "not-started"
++}
+diff --git a/collection-system/collections/properties/collection-completion.computed-property.ts b/collection-system/collections/properties/collection-completion.computed-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..52c065503c78960c9b96183d278090dbb15cbe46
+--- /dev/null
++++ b/collection-system/collections/properties/collection-completion.computed-property.ts
+@@ -0,0 +1,13 @@
++import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++
++export type CollectionCompletion = "completed" | "in-progress" | "not-started"
++
++export const collectionCompletion = {
++  id: "01a07231-dd66-7ecf-a99e-fe95f4120495",
++  pageTypeSlug: "computed-property",
++  slug: "collection-completion",
++  propertySlug: "completion",
++  definition: "a collection's progress as a stage rather than an amount",
++  holds: "text",
++  code: "ts",
++} as const satisfies ComputedProperty
+diff --git a/collection-system/collections/properties/collection-completion.formula-property.ts b/collection-system/collections/properties/collection-completion.formula-property.ts
+deleted file mode 100644
+index 48392cba5b54e15e2d066ce64256dbd5275c7a19..0000000000000000000000000000000000000000
+--- a/collection-system/collections/properties/collection-completion.formula-property.ts
++++ /dev/null
+@@ -1,14 +0,0 @@
+-import type { FormulaProperty } from "@akasha/pages-system/formula-property"
+-
+-export type CollectionCompletion = "completed" | "in-progress" | "not-started"
+-
+-export const collectionCompletion = {
+-  id: "01a06935-8626-7d9a-9cf5-26f5f7d88df7",
+-  pageTypeSlug: "formula-property",
+-  slug: "collection-completion",
+-  propertySlug: "completion",
+-  definition: "a collection's progress as a stage rather than an amount",
+-  holds: "text",
+-  formula:
+-    'case({total-length-in-words} > 0 && {total-remaining-in-words} <= 0 -> "completed", {total-progress-in-words} > 0 -> "in-progress", otherwise -> "not-started")',
+-} as const satisfies FormulaProperty
+diff --git a/collection-system/collections/properties/own-length-in-words.computed-property.code.ts b/collection-system/collections/properties/own-length-in-words.computed-property.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a4914900e1b31460ae2f9b7e1f51c756610d1873
+--- /dev/null
++++ b/collection-system/collections/properties/own-length-in-words.computed-property.code.ts
+@@ -0,0 +1,11 @@
++import type { Work } from "@akasha/pages-system/computed-property"
++import type { Collection } from "../collection.page-type.ts"
++
++// A stored number that is not finite is read as absent, which is what `?? 0` met.
++const counted = (held: number | undefined): number =>
++  held === undefined || !Number.isFinite(held) ? 0 : held
++
++export const work: Work<Collection, number> = (page) => {
++  const answer = counted(page.ownLength) * counted(page.unitWords)
++  return Number.isFinite(answer) ? answer : null
++}
+diff --git a/collection-system/collections/properties/own-length-in-words.computed-property.ts b/collection-system/collections/properties/own-length-in-words.computed-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..66fd50591f897543b10a0b4ba51e428e8fe5e499
+--- /dev/null
++++ b/collection-system/collections/properties/own-length-in-words.computed-property.ts
+@@ -0,0 +1,13 @@
++import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++
++export type OwnLengthInWords = number
++
++export const ownLengthInWords = {
++  id: "01a07231-dd64-7de6-9bf2-d8ac9ec72972",
++  pageTypeSlug: "computed-property",
++  slug: "own-length-in-words",
++  propertySlug: "own-length-in-words",
++  definition: "how much there is to work through on the collection itself, counted in words",
++  holds: "number",
++  code: "ts",
++} as const satisfies ComputedProperty
+diff --git a/collection-system/collections/properties/own-length-in-words.formula-property.ts b/collection-system/collections/properties/own-length-in-words.formula-property.ts
+deleted file mode 100644
+index fecfa948128ed197caac4154a4ba022b537352aa..0000000000000000000000000000000000000000
+--- a/collection-system/collections/properties/own-length-in-words.formula-property.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { FormulaProperty } from "@akasha/pages-system/formula-property"
+-
+-export type OwnLengthInWords = number
+-
+-export const ownLengthInWords = {
+-  id: "01a06935-8627-70d9-a39f-333e3535fb22",
+-  pageTypeSlug: "formula-property",
+-  slug: "own-length-in-words",
+-  propertySlug: "own-length-in-words",
+-  definition: "how much there is to work through on the collection itself, counted in words",
+-  holds: "number",
+-  formula: "({own-length} ?? 0) * ({unit-words} ?? 0)",
+-} as const satisfies FormulaProperty
+diff --git a/collection-system/collections/properties/own-progress-in-words.computed-property.code.ts b/collection-system/collections/properties/own-progress-in-words.computed-property.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d3a1682514b1efbe13ff26b68ee58517178a269a
+--- /dev/null
++++ b/collection-system/collections/properties/own-progress-in-words.computed-property.code.ts
+@@ -0,0 +1,11 @@
++import type { Work } from "@akasha/pages-system/computed-property"
++import type { Collection } from "../collection.page-type.ts"
++
++// A stored number that is not finite is read as absent, which is what `?? 0` met.
++const counted = (held: number | undefined): number =>
++  held === undefined || !Number.isFinite(held) ? 0 : held
++
++export const work: Work<Collection, number> = (page) => {
++  const answer = counted(page.ownProgress) * counted(page.unitWords)
++  return Number.isFinite(answer) ? answer : null
++}
+diff --git a/collection-system/collections/properties/own-progress-in-words.computed-property.ts b/collection-system/collections/properties/own-progress-in-words.computed-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..74134718b0f145cdac4a9d9f11f535a6d9c327e3
+--- /dev/null
++++ b/collection-system/collections/properties/own-progress-in-words.computed-property.ts
+@@ -0,0 +1,13 @@
++import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++
++export type OwnProgressInWords = number
++
++export const ownProgressInWords = {
++  id: "01a07231-dd65-7d2c-b7d0-3952fdd790d3",
++  pageTypeSlug: "computed-property",
++  slug: "own-progress-in-words",
++  propertySlug: "own-progress-in-words",
++  definition: "how much of the collection itself has been worked through, counted in words",
++  holds: "number",
++  code: "ts",
++} as const satisfies ComputedProperty
+diff --git a/collection-system/collections/properties/own-progress-in-words.formula-property.ts b/collection-system/collections/properties/own-progress-in-words.formula-property.ts
+deleted file mode 100644
+index 8223b619fd58ca74d838b91a41ebd7a2201ea229..0000000000000000000000000000000000000000
+--- a/collection-system/collections/properties/own-progress-in-words.formula-property.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { FormulaProperty } from "@akasha/pages-system/formula-property"
+-
+-export type OwnProgressInWords = number
+-
+-export const ownProgressInWords = {
+-  id: "01a06935-8627-7b0d-912c-f32a6ddb8a3d",
+-  pageTypeSlug: "formula-property",
+-  slug: "own-progress-in-words",
+-  propertySlug: "own-progress-in-words",
+-  definition: "how much of the collection itself has been worked through, counted in words",
+-  holds: "number",
+-  formula: "({own-progress} ?? 0) * ({unit-words} ?? 0)",
+-} as const satisfies FormulaProperty
+diff --git a/collection-system/collections/properties/own-remaining-in-words.computed-property.code.ts b/collection-system/collections/properties/own-remaining-in-words.computed-property.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4e88507dbc23e0248de613b1af7e5a1040701cd4
+--- /dev/null
++++ b/collection-system/collections/properties/own-remaining-in-words.computed-property.code.ts
+@@ -0,0 +1,7 @@
++import type { Work } from "@akasha/pages-system/computed-property"
++import type { WorkedCollection } from "../collection.page-type.ts"
++
++export const work: Work<WorkedCollection, number> = (page) => {
++  const answer = (page.ownLengthInWords ?? 0) - (page.ownProgressInWords ?? 0)
++  return Number.isFinite(answer) ? answer : null
++}
+diff --git a/collection-system/collections/properties/own-remaining-in-words.computed-property.ts b/collection-system/collections/properties/own-remaining-in-words.computed-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bce6429843d1a68d92d5e6ba22a237df69dae2f5
+--- /dev/null
++++ b/collection-system/collections/properties/own-remaining-in-words.computed-property.ts
+@@ -0,0 +1,13 @@
++import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++
++export type OwnRemainingInWords = number
++
++export const ownRemainingInWords = {
++  id: "01a07231-dd65-7362-baa2-75438c15234d",
++  pageTypeSlug: "computed-property",
++  slug: "own-remaining-in-words",
++  propertySlug: "own-remaining-in-words",
++  definition: "how much of the collection itself is left to work through, counted in words",
++  holds: "number",
++  code: "ts",
++} as const satisfies ComputedProperty
+diff --git a/collection-system/collections/properties/own-remaining-in-words.formula-property.ts b/collection-system/collections/properties/own-remaining-in-words.formula-property.ts
+deleted file mode 100644
+index b7ad7796ad29ce35505229f177e1206dc3968fc5..0000000000000000000000000000000000000000
+--- a/collection-system/collections/properties/own-remaining-in-words.formula-property.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { FormulaProperty } from "@akasha/pages-system/formula-property"
+-
+-export type OwnRemainingInWords = number
+-
+-export const ownRemainingInWords = {
+-  id: "01a06935-8627-78eb-8bb4-b654e259e704",
+-  pageTypeSlug: "formula-property",
+-  slug: "own-remaining-in-words",
+-  propertySlug: "own-remaining-in-words",
+-  definition: "how much of the collection itself is left to work through, counted in words",
+-  holds: "number",
+-  formula: "({own-length-in-words} ?? 0) - ({own-progress-in-words} ?? 0)",
+-} as const satisfies FormulaProperty
+diff --git a/collection-system/collections/properties/own-remaining.computed-property.code.ts b/collection-system/collections/properties/own-remaining.computed-property.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..861c43074c4f0c18c6ca6925871486c9bfab853e
+--- /dev/null
++++ b/collection-system/collections/properties/own-remaining.computed-property.code.ts
+@@ -0,0 +1,11 @@
++import type { Work } from "@akasha/pages-system/computed-property"
++import type { Collection } from "../collection.page-type.ts"
++
++// A stored number that is not finite is read as absent, which is what `?? 0` met.
++const counted = (held: number | undefined): number =>
++  held === undefined || !Number.isFinite(held) ? 0 : held
++
++export const work: Work<Collection, number> = (page) => {
++  const answer = counted(page.ownLength) - counted(page.ownProgress)
++  return Number.isFinite(answer) ? answer : null
++}
+diff --git a/collection-system/collections/properties/own-remaining.computed-property.ts b/collection-system/collections/properties/own-remaining.computed-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..dd722dba976a19ea7eb546a39a9ae40b015ed938
+--- /dev/null
++++ b/collection-system/collections/properties/own-remaining.computed-property.ts
+@@ -0,0 +1,13 @@
++import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++
++export type OwnRemaining = number
++
++export const ownRemaining = {
++  id: "01a07231-dd65-7c1d-91f5-797951efdddd",
++  pageTypeSlug: "computed-property",
++  slug: "own-remaining",
++  propertySlug: "own-remaining",
++  definition: "how much of the collection itself is left to work through",
++  holds: "number",
++  code: "ts",
++} as const satisfies ComputedProperty
+diff --git a/collection-system/collections/properties/own-remaining.formula-property.ts b/collection-system/collections/properties/own-remaining.formula-property.ts
+deleted file mode 100644
+index b5f69250dd0c87b10014b45103b19a6c98272af9..0000000000000000000000000000000000000000
+--- a/collection-system/collections/properties/own-remaining.formula-property.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { FormulaProperty } from "@akasha/pages-system/formula-property"
+-
+-export type OwnRemaining = number
+-
+-export const ownRemaining = {
+-  id: "01a06935-8627-73ac-b22e-1f3d55541df2",
+-  pageTypeSlug: "formula-property",
+-  slug: "own-remaining",
+-  propertySlug: "own-remaining",
+-  definition: "how much of the collection itself is left to work through",
+-  holds: "number",
+-  formula: "({own-length} ?? 0) - ({own-progress} ?? 0)",
+-} as const satisfies FormulaProperty
+diff --git a/collection-system/collections/properties/parts-remaining-in-words.computed-property.code.ts b/collection-system/collections/properties/parts-remaining-in-words.computed-property.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..335a9edba2e0b987f8321f003b37862e22ac651b
+--- /dev/null
++++ b/collection-system/collections/properties/parts-remaining-in-words.computed-property.code.ts
+@@ -0,0 +1,11 @@
++import type { Work } from "@akasha/pages-system/computed-property"
++import type { Collection } from "../collection.page-type.ts"
++
++// A stored number that is not finite is read as absent, which is what `?? 0` met.
++const counted = (held: number | undefined): number =>
++  held === undefined || !Number.isFinite(held) ? 0 : held
++
++export const work: Work<Collection, number> = (page) => {
++  const answer = counted(page.partsLengthInWords) - counted(page.partsProgressInWords)
++  return Number.isFinite(answer) ? answer : null
++}
+diff --git a/collection-system/collections/properties/parts-remaining-in-words.computed-property.ts b/collection-system/collections/properties/parts-remaining-in-words.computed-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..45881383da32ff6fd87905172f64e84b667afa99
+--- /dev/null
++++ b/collection-system/collections/properties/parts-remaining-in-words.computed-property.ts
+@@ -0,0 +1,13 @@
++import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++
++export type PartsRemainingInWords = number
++
++export const partsRemainingInWords = {
++  id: "01a07231-dd65-75ec-9c0e-78571de7719b",
++  pageTypeSlug: "computed-property",
++  slug: "parts-remaining-in-words",
++  propertySlug: "parts-remaining-in-words",
++  definition: "how much of everything the collection holds is left to work through",
++  holds: "number",
++  code: "ts",
++} as const satisfies ComputedProperty
+diff --git a/collection-system/collections/properties/parts-remaining-in-words.formula-property.ts b/collection-system/collections/properties/parts-remaining-in-words.formula-property.ts
+deleted file mode 100644
+index d342c3d6dab2584dd66c64d36928c180ede2da6a..0000000000000000000000000000000000000000
+--- a/collection-system/collections/properties/parts-remaining-in-words.formula-property.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { FormulaProperty } from "@akasha/pages-system/formula-property"
+-
+-export type PartsRemainingInWords = number
+-
+-export const partsRemainingInWords = {
+-  id: "01a06935-8627-7bf2-b209-a2157551806a",
+-  pageTypeSlug: "formula-property",
+-  slug: "parts-remaining-in-words",
+-  propertySlug: "parts-remaining-in-words",
+-  definition: "how much of everything the collection holds is left to work through",
+-  holds: "number",
+-  formula: "({parts-length-in-words} ?? 0) - ({parts-progress-in-words} ?? 0)",
+-} as const satisfies FormulaProperty
+diff --git a/collection-system/collections/properties/total-length-in-words.computed-property.code.ts b/collection-system/collections/properties/total-length-in-words.computed-property.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8b0451761b9fcd1cedc040aef30288407cc04671
+--- /dev/null
++++ b/collection-system/collections/properties/total-length-in-words.computed-property.code.ts
+@@ -0,0 +1,11 @@
++import type { Work } from "@akasha/pages-system/computed-property"
++import type { WorkedCollection } from "../collection.page-type.ts"
++
++// A stored number that is not finite is read as absent, which is what `?? 0` met.
++const counted = (held: number | undefined): number =>
++  held === undefined || !Number.isFinite(held) ? 0 : held
++
++export const work: Work<WorkedCollection, number> = (page) => {
++  const answer = (page.ownLengthInWords ?? 0) + counted(page.partsLengthInWords)
++  return Number.isFinite(answer) ? answer : null
++}
+diff --git a/collection-system/collections/properties/total-length-in-words.computed-property.ts b/collection-system/collections/properties/total-length-in-words.computed-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ebf2a7d3491aae80a678251bf11575cb2e4a0fbb
+--- /dev/null
++++ b/collection-system/collections/properties/total-length-in-words.computed-property.ts
+@@ -0,0 +1,13 @@
++import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++
++export type TotalLengthInWords = number
++
++export const totalLengthInWords = {
++  id: "01a07231-dd66-7734-a15d-591fa75f5b2d",
++  pageTypeSlug: "computed-property",
++  slug: "total-length-in-words",
++  propertySlug: "total-length-in-words",
++  definition: "how much there is to work through in the collection and everything it holds",
++  holds: "number",
++  code: "ts",
++} as const satisfies ComputedProperty
+diff --git a/collection-system/collections/properties/total-length-in-words.formula-property.ts b/collection-system/collections/properties/total-length-in-words.formula-property.ts
+deleted file mode 100644
+index 0b3b3b91555dc82704adbc0f96f8787d29d6b81b..0000000000000000000000000000000000000000
+--- a/collection-system/collections/properties/total-length-in-words.formula-property.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { FormulaProperty } from "@akasha/pages-system/formula-property"
+-
+-export type TotalLengthInWords = number
+-
+-export const totalLengthInWords = {
+-  id: "01a06935-8628-7af8-b6c9-82301d73a620",
+-  pageTypeSlug: "formula-property",
+-  slug: "total-length-in-words",
+-  propertySlug: "total-length-in-words",
+-  definition: "how much there is to work through in the collection and everything it holds",
+-  holds: "number",
+-  formula: "({own-length-in-words} ?? 0) + ({parts-length-in-words} ?? 0)",
+-} as const satisfies FormulaProperty
+diff --git a/collection-system/collections/properties/total-length.computed-property.code.ts b/collection-system/collections/properties/total-length.computed-property.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e7c6b684335c5bcfefcae139ba050be358bbdbfb
+--- /dev/null
++++ b/collection-system/collections/properties/total-length.computed-property.code.ts
+@@ -0,0 +1,11 @@
++import type { Work } from "@akasha/pages-system/computed-property"
++import type { WorkedCollection } from "../collection.page-type.ts"
++
++export const work: Work<WorkedCollection, number> = (page) => {
++  // The formula divides by `{unit-words}` with no `?? 0`, so an absent divisor answers absent.
++  const words = page.unitWords
++  if (words === undefined || !Number.isFinite(words)) return null
++  const answer = (page.totalLengthInWords ?? 0) / words
++  // Dividing by zero answers absent too.
++  return Number.isFinite(answer) ? answer : null
++}
+diff --git a/collection-system/collections/properties/total-length.computed-property.ts b/collection-system/collections/properties/total-length.computed-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..66165756dff49865d7a3026c2fca6fa294848af1
+--- /dev/null
++++ b/collection-system/collections/properties/total-length.computed-property.ts
+@@ -0,0 +1,13 @@
++import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++
++export type TotalLength = number
++
++export const totalLength = {
++  id: "01a07231-dd66-73da-b891-d75af575ac15",
++  pageTypeSlug: "computed-property",
++  slug: "total-length",
++  propertySlug: "total-length",
++  definition: "how much there is to work through in the collection and everything it holds",
++  holds: "number",
++  code: "ts",
++} as const satisfies ComputedProperty
+diff --git a/collection-system/collections/properties/total-length.formula-property.ts b/collection-system/collections/properties/total-length.formula-property.ts
+deleted file mode 100644
+index 62679cdfe940eb4e1ca0ddb431e0a1d02bb09bfa..0000000000000000000000000000000000000000
+--- a/collection-system/collections/properties/total-length.formula-property.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { FormulaProperty } from "@akasha/pages-system/formula-property"
+-
+-export type TotalLength = number
+-
+-export const totalLength = {
+-  id: "01a06935-8628-7b5d-851b-e501155afe6d",
+-  pageTypeSlug: "formula-property",
+-  slug: "total-length",
+-  propertySlug: "total-length",
+-  definition: "how much there is to work through in the collection and everything it holds",
+-  holds: "number",
+-  formula: "({total-length-in-words} ?? 0) / {unit-words}",
+-} as const satisfies FormulaProperty
+diff --git a/collection-system/collections/properties/total-progress-in-words.computed-property.code.ts b/collection-system/collections/properties/total-progress-in-words.computed-property.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5a72995fb351f9f97e512738fe1b22d85df34405
+--- /dev/null
++++ b/collection-system/collections/properties/total-progress-in-words.computed-property.code.ts
+@@ -0,0 +1,11 @@
++import type { Work } from "@akasha/pages-system/computed-property"
++import type { WorkedCollection } from "../collection.page-type.ts"
++
++// A stored number that is not finite is read as absent, which is what `?? 0` met.
++const counted = (held: number | undefined): number =>
++  held === undefined || !Number.isFinite(held) ? 0 : held
++
++export const work: Work<WorkedCollection, number> = (page) => {
++  const answer = (page.ownProgressInWords ?? 0) + counted(page.partsProgressInWords)
++  return Number.isFinite(answer) ? answer : null
++}
+diff --git a/collection-system/collections/properties/total-progress-in-words.computed-property.ts b/collection-system/collections/properties/total-progress-in-words.computed-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..31af08f370a989f46eb3610bcb5380751300a19f
+--- /dev/null
++++ b/collection-system/collections/properties/total-progress-in-words.computed-property.ts
+@@ -0,0 +1,13 @@
++import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++
++export type TotalProgressInWords = number
++
++export const totalProgressInWords = {
++  id: "01a07231-dd66-7e56-b4da-5e16976f160f",
++  pageTypeSlug: "computed-property",
++  slug: "total-progress-in-words",
++  propertySlug: "total-progress-in-words",
++  definition: "how much of the collection and everything it holds has been worked through",
++  holds: "number",
++  code: "ts",
++} as const satisfies ComputedProperty
+diff --git a/collection-system/collections/properties/total-progress-in-words.formula-property.ts b/collection-system/collections/properties/total-progress-in-words.formula-property.ts
+deleted file mode 100644
+index 6dea90da9a121f81a36e55c4c071731bd73ac69f..0000000000000000000000000000000000000000
+--- a/collection-system/collections/properties/total-progress-in-words.formula-property.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { FormulaProperty } from "@akasha/pages-system/formula-property"
+-
+-export type TotalProgressInWords = number
+-
+-export const totalProgressInWords = {
+-  id: "01a06935-8628-7f18-b24f-5c64c71fd00f",
+-  pageTypeSlug: "formula-property",
+-  slug: "total-progress-in-words",
+-  propertySlug: "total-progress-in-words",
+-  definition: "how much of the collection and everything it holds has been worked through",
+-  holds: "number",
+-  formula: "({own-progress-in-words} ?? 0) + ({parts-progress-in-words} ?? 0)",
+-} as const satisfies FormulaProperty
+diff --git a/collection-system/collections/properties/total-progress.computed-property.code.ts b/collection-system/collections/properties/total-progress.computed-property.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..46a1eb9079d2925f3aa9008f28d715318653f5ce
+--- /dev/null
++++ b/collection-system/collections/properties/total-progress.computed-property.code.ts
+@@ -0,0 +1,11 @@
++import type { Work } from "@akasha/pages-system/computed-property"
++import type { WorkedCollection } from "../collection.page-type.ts"
++
++export const work: Work<WorkedCollection, number> = (page) => {
++  // The formula divides by `{unit-words}` with no `?? 0`, so an absent divisor answers absent.
++  const words = page.unitWords
++  if (words === undefined || !Number.isFinite(words)) return null
++  const answer = (page.totalProgressInWords ?? 0) / words
++  // Dividing by zero answers absent too.
++  return Number.isFinite(answer) ? answer : null
++}
+diff --git a/collection-system/collections/properties/total-progress.computed-property.ts b/collection-system/collections/properties/total-progress.computed-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..83842be4eecac071ff697da4eacbf7981f644808
+--- /dev/null
++++ b/collection-system/collections/properties/total-progress.computed-property.ts
+@@ -0,0 +1,13 @@
++import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++
++export type TotalProgress = number
++
++export const totalProgress = {
++  id: "01a07231-dd66-7801-846b-93af55027f86",
++  pageTypeSlug: "computed-property",
++  slug: "total-progress",
++  propertySlug: "total-progress",
++  definition: "how much of the collection and everything it holds has been worked through",
++  holds: "number",
++  code: "ts",
++} as const satisfies ComputedProperty
+diff --git a/collection-system/collections/properties/total-progress.formula-property.ts b/collection-system/collections/properties/total-progress.formula-property.ts
+deleted file mode 100644
+index 00188d9975343993cd971db0f86da0327c0972bb..0000000000000000000000000000000000000000
+--- a/collection-system/collections/properties/total-progress.formula-property.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { FormulaProperty } from "@akasha/pages-system/formula-property"
+-
+-export type TotalProgress = number
+-
+-export const totalProgress = {
+-  id: "01a06935-8628-78b8-85c4-4908cf7c9554",
+-  pageTypeSlug: "formula-property",
+-  slug: "total-progress",
+-  propertySlug: "total-progress",
+-  definition: "how much of the collection and everything it holds has been worked through",
+-  holds: "number",
+-  formula: "({total-progress-in-words} ?? 0) / {unit-words}",
+-} as const satisfies FormulaProperty
+diff --git a/collection-system/collections/properties/total-remaining-in-words.computed-property.code.ts b/collection-system/collections/properties/total-remaining-in-words.computed-property.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9c59dc3d99e4113258ffdc3fd7cae942a51a0bfc
+--- /dev/null
++++ b/collection-system/collections/properties/total-remaining-in-words.computed-property.code.ts
+@@ -0,0 +1,7 @@
++import type { Work } from "@akasha/pages-system/computed-property"
++import type { WorkedCollection } from "../collection.page-type.ts"
++
++export const work: Work<WorkedCollection, number> = (page) => {
++  const answer = (page.totalLengthInWords ?? 0) - (page.totalProgressInWords ?? 0)
++  return Number.isFinite(answer) ? answer : null
++}
+diff --git a/collection-system/collections/properties/total-remaining-in-words.computed-property.ts b/collection-system/collections/properties/total-remaining-in-words.computed-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ba95ba15f0d977bb839a3c34f2d027ce9f5545f7
+--- /dev/null
++++ b/collection-system/collections/properties/total-remaining-in-words.computed-property.ts
+@@ -0,0 +1,13 @@
++import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++
++export type TotalRemainingInWords = number
++
++export const totalRemainingInWords = {
++  id: "01a07231-dd66-79f2-9c4d-a9e07c6fc46b",
++  pageTypeSlug: "computed-property",
++  slug: "total-remaining-in-words",
++  propertySlug: "total-remaining-in-words",
++  definition: "how much of the collection and everything it holds is left to work through",
++  holds: "number",
++  code: "ts",
++} as const satisfies ComputedProperty
+diff --git a/collection-system/collections/properties/total-remaining-in-words.formula-property.ts b/collection-system/collections/properties/total-remaining-in-words.formula-property.ts
+deleted file mode 100644
+index a3052a656bb8b1e648a5f1a35cbb863cefa405f8..0000000000000000000000000000000000000000
+--- a/collection-system/collections/properties/total-remaining-in-words.formula-property.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { FormulaProperty } from "@akasha/pages-system/formula-property"
+-
+-export type TotalRemainingInWords = number
+-
+-export const totalRemainingInWords = {
+-  id: "01a06935-8628-7d01-9cf6-30c3c0bf669b",
+-  pageTypeSlug: "formula-property",
+-  slug: "total-remaining-in-words",
+-  propertySlug: "total-remaining-in-words",
+-  definition: "how much of the collection and everything it holds is left to work through",
+-  holds: "number",
+-  formula: "({total-length-in-words} ?? 0) - ({total-progress-in-words} ?? 0)",
+-} as const satisfies FormulaProperty
+diff --git a/collection-system/collections/properties/total-remaining.computed-property.code.ts b/collection-system/collections/properties/total-remaining.computed-property.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..08cfc0f3a72bce0498859a34bc1093871c45b4f9
+--- /dev/null
++++ b/collection-system/collections/properties/total-remaining.computed-property.code.ts
+@@ -0,0 +1,11 @@
++import type { Work } from "@akasha/pages-system/computed-property"
++import type { WorkedCollection } from "../collection.page-type.ts"
++
++export const work: Work<WorkedCollection, number> = (page) => {
++  // The formula divides by `{unit-words}` with no `?? 0`, so an absent divisor answers absent.
++  const words = page.unitWords
++  if (words === undefined || !Number.isFinite(words)) return null
++  const answer = (page.totalRemainingInWords ?? 0) / words
++  // Dividing by zero answers absent too.
++  return Number.isFinite(answer) ? answer : null
++}
+diff --git a/collection-system/collections/properties/total-remaining.computed-property.ts b/collection-system/collections/properties/total-remaining.computed-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..268e33235667b6ea157d0d8804d048ba6b4b3204
+--- /dev/null
++++ b/collection-system/collections/properties/total-remaining.computed-property.ts
+@@ -0,0 +1,13 @@
++import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++
++export type TotalRemaining = number
++
++export const totalRemaining = {
++  id: "01a07231-dd66-7218-ace3-d6ea466f60de",
++  pageTypeSlug: "computed-property",
++  slug: "total-remaining",
++  propertySlug: "total-remaining",
++  definition: "how much of the collection and everything it holds is left to work through",
++  holds: "number",
++  code: "ts",
++} as const satisfies ComputedProperty
+diff --git a/collection-system/collections/properties/total-remaining.formula-property.ts b/collection-system/collections/properties/total-remaining.formula-property.ts
+deleted file mode 100644
+index 7906fa137ece74320170e667f499f78a92b6e879..0000000000000000000000000000000000000000
+--- a/collection-system/collections/properties/total-remaining.formula-property.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { FormulaProperty } from "@akasha/pages-system/formula-property"
+-
+-export type TotalRemaining = number
+-
+-export const totalRemaining = {
+-  id: "01a06935-8628-7614-b82a-a477e00a0233",
+-  pageTypeSlug: "formula-property",
+-  slug: "total-remaining",
+-  propertySlug: "total-remaining",
+-  definition: "how much of the collection and everything it holds is left to work through",
+-  holds: "number",
+-  formula: "({total-remaining-in-words} ?? 0) / {unit-words}",
+-} as const satisfies FormulaProperty
