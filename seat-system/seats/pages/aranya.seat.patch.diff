@@ -31,3 +31,11 @@ index 4372f41da7d45948580fe5f23cf0ac0f7bd0bbb7..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../alan/fitness/exercise-access
 \ No newline at end of file
+diff --git a/alan/fitness/session-planning/session-planning b/alan/fitness/session-planning/session-planning
+deleted file mode 120000
+index 7d7ea366e709cdcb20da082e5c7a046f557e31f7..0000000000000000000000000000000000000000
+--- a/alan/fitness/session-planning/session-planning
++++ /dev/null
+@@ -1 +0,0 @@
+-../../alan/fitness/session-planning
+\ No newline at end of file
