@@ -23,9 +23,5 @@ export const scribedSkills = {
       invariantKind: "departure",
       statement: "This table is divided across runs.",
     },
-    {
-      invariantKind: "constraint",
-      statement: "No akasha file passes fifteen thousand bytes.",
-    },
   ],
 } as const satisfies Module

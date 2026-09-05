@@ -63,10 +63,6 @@ export const computedProperty = {
       invariantKind: "departure",
       statement: "A query may answer with a computed property's key.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A calculation reading a refused calculation is refused too.",
-    },
 
     {
       invariantKind: "departure",

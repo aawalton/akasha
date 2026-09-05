@@ -39,10 +39,7 @@ export const emailMessagesSend = {
       invariantKind: "departure",
       statement: "A reply's threading is derived from the message replied to rather than stated.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A subject read from a file carries no line ending.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A body read from a file is carried whole.",

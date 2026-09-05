@@ -50,10 +50,7 @@ export const shellClean = {
       statement:
         "A script standing outside the world is a script the linter cannot follow a source into.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A linter that could not run is a refusal.",
-    },
+
     {
       invariantKind: "departure",
       statement: "Every finding is answered against the file the finding stands in.",

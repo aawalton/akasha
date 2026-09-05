@@ -46,10 +46,7 @@ export const lintClean = {
       invariantKind: "departure",
       statement: "The linter reads each file on its own and follows no import out of that file.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A linter that could not run is a refusal.",
-    },
+
     {
       invariantKind: "departure",
       statement: "Every finding is answered against the file the finding stands in.",

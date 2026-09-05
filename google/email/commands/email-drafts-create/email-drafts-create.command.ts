@@ -39,10 +39,6 @@ export const emailDraftsCreate = {
       invariantKind: "departure",
       statement: "A draft is composed from the flags a send is composed from.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A subject read from a file carries no line ending.",
-    },
 
     {
       invariantKind: "absence",
