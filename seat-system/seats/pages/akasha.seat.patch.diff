@@ -11,3 +11,16 @@ index 8018d710b45c21445c85cdbc90d8cd3e6a72d3d7..591b513210dcf098022eec7c68057fe3
    claim:
      "The old markdown pages parser and shape checker is inside akasha as `@akasha/markdown-pages`, carried whole rather than left to die with the markdown pages. Its 58 modules cover what the root `page/` directory held: the document parser and shape checker, frontmatter, the property registry, the file tree, globs, the beside-file and uncommitted-sidecar machinery, and `page-types`. Akasha modules and `tools/lib` both read it by package name. The shapes it parses into still come from `@akasha/pages-system/markdown-document`, which holds those types and nothing that parses.",
    evidence:
+diff --git a/domains/findings/pages/the-markdown-uncommitted-store-refuses-an-akasha-page-for-a-false-reason.finding.ts b/domains/findings/pages/the-markdown-uncommitted-store-refuses-an-akasha-page-for-a-false-reason.finding.ts
+index 49cc32d4fd0287cfef3070dbccd04db81c86d899..3007c85062c7d4d898604a4877ad690b7840c558 100644
+--- a/domains/findings/pages/the-markdown-uncommitted-store-refuses-an-akasha-page-for-a-false-reason.finding.ts
++++ b/domains/findings/pages/the-markdown-uncommitted-store-refuses-an-akasha-page-for-a-false-reason.finding.ts
+@@ -4,7 +4,7 @@ export const theMarkdownUncommittedStoreRefusesAnAkashaPageForAFalseReason = {
+   id: "01a060be-c946-7000-bd83-c2b0e1427c09",
+   pageTypeSlug: "finding",
+   slug: "the-markdown-uncommitted-store-refuses-an-akasha-page-for-a-false-reason",
+-  domainSlug: "workspace-package/markdown-pages",
++  domainSlug: "domain/akasha",
+   claim:
+     "`uncommittedPathFor` in akasha/markdown-pages/markdown-uncommitted/markdown-uncommitted.module.code.ts:18-23 refuses a `.ts` path saying it is not a page. The refusal is right and the reason is false: it is a page, and this is the markdown store alone. Copying the repair `ecd965656f` made to the identical shape in akasha/markdown-pages/markdown-attachment-file/markdown-attachment-file.module.code.ts would answer `.uncommitted.yaml` for a day that has moved, and write a file akasha does not read beside all 133 of them.",
+   evidence:
