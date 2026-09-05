@@ -1159,3 +1159,11 @@ index cb98b297277f1bd3d09cd5839b04b7b67fceadf8..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-lib-addon-menu-order-list-box
 \ No newline at end of file
+diff --git a/temper/temper-lib-addon-menu/temper-lib-addon-menu b/temper/temper-lib-addon-menu/temper-lib-addon-menu
+deleted file mode 120000
+index 92dbb043371a33616c759fb53d541f70ab10df14..0000000000000000000000000000000000000000
+--- a/temper/temper-lib-addon-menu/temper-lib-addon-menu
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-lib-addon-menu
+\ No newline at end of file
