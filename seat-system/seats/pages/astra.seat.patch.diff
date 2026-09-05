@@ -18,3 +18,25 @@ index 0000000000000000000000000000000000000000..cdec0d9b02e15a7ed04ebca0b63e8f44
 +    "module/use-inline-completion",
 +  ],
 +} as const satisfies Domain
+diff --git a/pages/ui/components/view-engine/components-view-engine.domain.ts b/pages/ui/components/view-engine/components-view-engine.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..39805777a091960b6c0d67e1c3070965954fadcc
+--- /dev/null
++++ b/pages/ui/components/view-engine/components-view-engine.domain.ts
+@@ -0,0 +1,16 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const componentsViewEngine = {
++  id: "01a071d3-819f-77d0-818b-e7da6441196a",
++  pageTypeSlug: "domain",
++  slug: "components-view-engine",
++  definition: "the rows a view draws on screen",
++  partSlugs: [
++    "module/build-page-resolver",
++    "module/generate-group-definitions",
++    "module/use-page-view",
++    "module/use-view-row-aggregates",
++    "module/use-view-row-rollups",
++    "module/view-row",
++  ],
++} as const satisfies Domain
