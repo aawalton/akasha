@@ -1,0 +1,28 @@
+diff --git a/command-system/applying/applying.module.test.ts b/command-system/applying/applying.module.test.ts
+index 63569b2a9539e621b8197edb9f8ad52ba6be664d..305f64f739bb39596ad249ca8c773170ab78a4f2 100644
+--- a/command-system/applying/applying.module.test.ts
++++ b/command-system/applying/applying.module.test.ts
+@@ -1,7 +1,7 @@
+ import { afterAll, expect, test } from "bun:test"
+ import { readFileSync, writeFileSync } from "node:fs"
+ import { join } from "node:path"
+-import { patchIn } from "@akasha/agents/patch-keeping"
++import { patchAt, patchIn } from "@akasha/agents/patch-keeping"
+ import { said as gitSaid } from "@akasha/git/git-running"
+ import { CLASH_MARK } from "../body-merging/body-merging.module.code.ts"
+ import { drafted } from "../drafting/drafting.module.code.ts"
+@@ -115,6 +115,14 @@ test("a patch carrying a conflict does not apply", async () => {
+   expect(patchIn(root, PAGE)).not.toBeNull()
+ })
+ 
++test("a patch a mechanical draft opened is a diff git still reads", async () => {
++  const root = await indexed()
++  const draft = [{ path: PAGE, was: bytes(A), body: bytes(MORE) }]
++  expect("why" in drafted(root, PAGE, draft, true)).toBe(false)
++  expect(patchIn(root, PAGE)?.startsWith("Akasha-mechanical: true\n")).toBe(true)
++  expect(() => gitSaid(root, ["apply", "--check", patchAt(PAGE) as string])).not.toThrow()
++})
++
+ test("a path the patch moved under has no reading recorded", async () => {
+   const root = pagesRepo()
+   drafting(root)
