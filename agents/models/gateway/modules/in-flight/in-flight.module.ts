@@ -87,7 +87,7 @@ export const inFlight = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what a request carries.",
+      statement: "Nothing here knows the body a request carries.",
     },
     {
       invariantKind: "absence",
