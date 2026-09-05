@@ -3,8 +3,8 @@ import type {
   Beside,
   FilePropertiesBy,
   SidecarsBy,
-} from "../../index-entries/index-entries.module.code.ts"
-import { A } from "../../index-entries/index-entries.module.test-fixtures.ts"
+} from "../index-entries/index-entries.module.code.ts"
+import { A } from "../index-entries/index-entries.module.test-fixtures.ts"
 import { pathIn } from "./index-path.index.code.ts"
 
 const BESIDES: ReadonlyMap<string, Beside> = new Map()

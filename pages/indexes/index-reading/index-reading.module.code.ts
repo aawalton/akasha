@@ -5,7 +5,6 @@ import { partedIn } from "@akasha/pages-system/page-file-name"
 import type { Value } from "@akasha/pages-system/page-value"
 import { indexIdentity } from "../identity/index-identity.index.ts"
 import { indexImport } from "../import/index-import.index.ts"
-import { indexPath } from "../index/path/index-path.index.ts"
 import { indexRelation } from "../index/relation/index-relation.index.ts"
 import { indexSchema } from "../index/schema/index-schema.index.ts"
 import { indexValue } from "../index/value/index-value.index.ts"
@@ -18,6 +17,7 @@ import {
   indexIn,
   readingOf,
 } from "../index-surface/index-surface.module.code.ts"
+import { indexPath } from "../path/index-path.index.ts"
 
 export type Listed = {
   readonly path: string

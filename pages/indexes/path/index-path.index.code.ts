@@ -8,7 +8,7 @@ import {
   type IsThere,
   type SidecarsBy,
   under,
-} from "../../index-entries/index-entries.module.code.ts"
+} from "../index-entries/index-entries.module.code.ts"
 import { indexPath } from "./index-path.index.ts"
 
 const PATH = indexPath.name
