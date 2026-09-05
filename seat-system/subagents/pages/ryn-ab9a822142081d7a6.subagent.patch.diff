@@ -73,3 +73,19 @@ index 00d9493ca084caa5babd6d1738cf8fc5be7a44e0..87f632e32ec0f0a55fd2120557e3dd15
      {
        invariantKind: "departure",
        statement: "An id no buy rule carries refuses the call.",
+diff --git a/temper/temper-commands/temper-inventory-rule-update/temper-inventory-rule-update.command.ts b/temper/temper-commands/temper-inventory-rule-update/temper-inventory-rule-update.command.ts
+index 178b2a9f991f9e8d106cf614c5ff25290cf7e383..18e9593b8bd1829e5d7c4a0c07ecea6352029cca 100644
+--- a/temper/temper-commands/temper-inventory-rule-update/temper-inventory-rule-update.command.ts
++++ b/temper/temper-commands/temper-inventory-rule-update/temper-inventory-rule-update.command.ts
+@@ -39,10 +39,7 @@ export const temperInventoryRuleUpdate = {
+       invariantKind: "departure",
+       statement: "A locked category rule is refused unless the call says `--force`.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A field the call names nothing for is left as that field was.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "An id no category rule carries refuses the call.",
