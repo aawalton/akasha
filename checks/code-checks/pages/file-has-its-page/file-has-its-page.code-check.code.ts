@@ -3,7 +3,7 @@ import type { Shadow } from "@akasha/pages/shadow"
 import { FILES, judgingEach } from "../../../modules/change-walking/change-walking.module.code.ts"
 
 export const UNCLAIMED =
-  "no page claims this file — a file no page claims is enumerated by nothing and audited by nothing"
+  "no page claims this file — a move repoints nothing to it and its page's deletion leaves it behind"
 
 function unclaimedAt(path: string, shadow: Shadow): readonly string[] {
   if (shadow.index.listedByPath(path).length > 0) return []
