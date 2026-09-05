@@ -1,0 +1,424 @@
+diff --git a/commands/subagent-sweep/subagent-sweep.command.code.ts b/commands/subagent-sweep/subagent-sweep.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6640c77a416bb0087849ae371134c7f596f4ad70
+--- /dev/null
++++ b/commands/subagent-sweep/subagent-sweep.command.code.ts
+@@ -0,0 +1,108 @@
++import { resolve } from "node:path"
++import { landedMechanically } from "@akasha/command-system/asking"
++import type { FileEdit } from "@akasha/command-system/landing"
++import { dropReadings } from "@akasha/command-system/reading"
++import { scanProcEntries } from "@akasha/seat-system/proc-scan"
++import type { ProcLivenessEntry } from "@akasha/seat-system/seat-proc-liveness"
++import {
++  censusOf,
++  type Judged,
++  judgedOver,
++  pagesIn,
++  seenIn,
++  staleAmong,
++} from "@akasha/seat-system/subagent-census"
++import {
++  type Answer,
++  answering,
++  type Given,
++} from "../../command-system/calling/calling.module.code.ts"
++
++// A CENSUS BY DEFAULT, BECAUSE THE WRONG REMOVAL IS THE HARM. A subagent's page is the restart
++// interlock, so taking away the page of a subagent that is at work tells `sr` the seat is idle and
++// it restarts under a live agent. A run therefore says what it found and writes nothing, and a
++// person reads that census before a second run is told to act on it.
++//
++// WHAT GOES IS WHAT THE CENSUS CALLED STALE, which is evidence rather than age. A page judged
++// working or undetermined is never removed however the run was called.
++//
++// WHAT WAS READ OFF /proc AND OUT OF THE LOGS IS A PARAMETER, so a test seeds a live process and
++// watches the page it answers for kept, which is the one failure this command must never make.
++
++const REMOVE = "--remove"
++
++const CALLED_AS = "akasha subagent sweep"
++
++export type Read = { readonly removing: boolean } | { readonly refused: string }
++
++export function namedIn(argv: readonly string[]): Read {
++  let removing = false
++  for (const token of argv) {
++    if (token === REMOVE) {
++      removing = true
++      continue
++    }
++    return {
++      refused:
++        `\`${token}\` is not a word this takes — a sweep takes \`${REMOVE}\` and nothing else, ` +
++        "and a run naming nothing reports without writing",
++    }
++  }
++  return { removing }
++}
++
++export function heldBack(stale: number): readonly string[] {
++  return [
++    "",
++    `${CALLED_AS} wrote nothing. Say \`${REMOVE}\` to take away the ${String(stale)} page(s) ` +
++      "judged STALE — a page judged WORKING or UNDETERMINED never goes, whatever the run says.",
++  ]
++}
++
++export function messageOf(stale: readonly Judged[]): string {
++  return [
++    `${String(stale.length)} subagent page(s) go, one for each subagent nothing says is at work`,
++    "",
++    "A page is judged from evidence rather than from age: a live process acting under its agent",
++    "id, a take-down its seat's subagent-presence log says was refused, or no live process running",
++    "as its seat at all. These are the pages the evidence settled as done.",
++    "",
++    ...stale.map((one) => `${one.page.slug} — ${one.why}`),
++  ].join("\n")
++}
++
++async function taking(root: string, stale: readonly Judged[]): Promise<Answer> {
++  const changes: readonly FileEdit[] = stale.map((one) => ({ path: one.page.path, body: null }))
++  const gone = await landedMechanically(root, CALLED_AS, changes, messageOf(stale))
++  if (gone.code !== 0) return gone
++  dropReadings(
++    root,
++    stale.map((one) => one.page.path)
++  )
++  return answering(
++    stale.map((one) => `${one.page.path} went`),
++    [],
++    0
++  )
++}
++
++export async function subagentSweep(
++  argv: readonly string[],
++  given: Given,
++  entries: readonly ProcLivenessEntry[] = scanProcEntries().entries,
++  baseDir?: string
++): Promise<Answer> {
++  const read = namedIn(argv)
++  if ("refused" in read) return answering([], [read.refused], 1)
++  const root = resolve(given.root)
++  const judged = judgedOver(pagesIn(root), seenIn(entries, baseDir))
++  const census = censusOf(judged)
++  const stale = staleAmong(judged)
++  if (!read.removing) return answering([...census, ...heldBack(stale.length)], [], 0)
++  if (stale.length === 0) {
++    return answering([...census, "", "no page was judged STALE, so nothing went"], [], 0)
++  }
++  const gone = await taking(root, stale)
++  if (gone.code !== 0) return answering([...census, ""], [...gone.refusals], gone.code)
++  return answering([...census, "", ...gone.report], [], 0)
++}
+diff --git a/commands/subagent-sweep/subagent-sweep.command.test-fixtures.ts b/commands/subagent-sweep/subagent-sweep.command.test-fixtures.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f5abf015363bc3beb43799570acc2f95163a5692
+--- /dev/null
++++ b/commands/subagent-sweep/subagent-sweep.command.test-fixtures.ts
+@@ -0,0 +1,87 @@
++import { existsSync, mkdirSync, writeFileSync } from "node:fs"
++import { join } from "node:path"
++import { writing } from "@akasha/command-system/scratching/testing"
++import { said as gitIn } from "@akasha/git/git-running"
++import { rebuiltIn } from "@akasha/indexes/testing"
++import type { ProcLivenessEntry } from "@akasha/seat-system/seat-proc-liveness"
++import { declaringUnder } from "@akasha/testing-system/declaring"
++import type { Given } from "../../command-system/calling/calling.module.code.ts"
++
++export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
++
++export const OTHER_ID = "01a05844-6e60-7000-b54c-4b14559df70c"
++
++export const OWN = "a38f63805f9b94edf"
++
++export const AGAIN = "a38f63805f9b94ee0"
++
++export const CHILD = "claude --dangerously-skip-permissions --model opus"
++
++export const TASK = "rg --json needle ."
++
++export const AT = "seat-system/subagents/pages"
++
++const TREE = "akasha"
++
++export function agentIdOf(seatId: string, own: string): string {
++  return `${seatId}--${own}`
++}
++
++export function pathOf(seatName: string, own: string): string {
++  return `${AT}/${seatName}-${own}.subagent.ts`
++}
++
++export function bodyOf(seatName: string, own: string, agentId: string): string {
++  const slug = `${seatName}${own.slice(0, 1).toUpperCase()}${own.slice(1)}`
++  return [
++    `export const ${slug} = {`,
++    '  pageTypeSlug: "subagent",',
++    `  slug: ${JSON.stringify(`${seatName}-${own}`)},`,
++    `  principalSeatName: ${JSON.stringify(seatName)},`,
++    '  assignmentSlug: "domain/akasha",',
++    '  dispatchedAs: "Explore",',
++    `  agentId: ${JSON.stringify(agentId)},`,
++    "} as const",
++    "",
++  ].join("\n")
++}
++
++export function seated(root: string): string {
++  gitIn(root, ["init", "--quiet"])
++  gitIn(root, ["config", "user.email", "held@nowhere"])
++  gitIn(root, ["config", "user.name", "Held"])
++  for (const [path, body] of Object.entries(declaringUnder(TREE))) writing(root, path, body)
++  gitIn(root, ["add", "-A"])
++  gitIn(root, ["commit", "--quiet", "-m", "first"])
++  rebuiltIn(root, TREE)
++  return root
++}
++
++export function paged(root: string, seatName: string, own: string, agentId: string): string {
++  const at = pathOf(seatName, own)
++  writing(root, at, bodyOf(seatName, own, agentId))
++  gitIn(root, ["add", "-A"])
++  gitIn(root, ["commit", "--quiet", "-m", `${seatName}-${own} is there`])
++  return at
++}
++
++export function logPut(baseDir: string, seatId: string, lines: readonly string[]): undefined {
++  mkdirSync(join(baseDir, seatId), { recursive: true })
++  writeFileSync(join(baseDir, seatId, "subagent-presence.log"), `${lines.join("\n")}\n`)
++}
++
++export function takeLine(seatName: string, own: string): string {
++  return `subagent-presence: take ${seatName} ${own} — another landing held the lock`
++}
++
++export function entry(over: Partial<ProcLivenessEntry> & { agentId: string }): ProcLivenessEntry {
++  return { cmdline: CHILD, pid: 1, ...over }
++}
++
++export function givenIn(root: string): Given {
++  return { root, calledAs: "akasha subagent sweep", from: root, writer: null, agentId: null }
++}
++
++export function there(root: string, at: string): boolean {
++  return existsSync(join(root, at))
++}
+diff --git a/commands/subagent-sweep/subagent-sweep.command.test.ts b/commands/subagent-sweep/subagent-sweep.command.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..349fc48ce3fd13a792ad354ab673c43b745914ec
+--- /dev/null
++++ b/commands/subagent-sweep/subagent-sweep.command.test.ts
+@@ -0,0 +1,143 @@
++import { expect, test } from "bun:test"
++import { scratchWorld } from "@akasha/command-system/scratching"
++import { said as gitIn } from "@akasha/git/git-running"
++import { subagentSweep } from "./subagent-sweep.command.code.ts"
++import {
++  AGAIN,
++  agentIdOf,
++  CHILD,
++  entry,
++  givenIn,
++  logPut,
++  OTHER_ID,
++  OWN,
++  paged,
++  pathOf,
++  SEAT_ID,
++  seated,
++  TASK,
++  takeLine,
++  there,
++} from "./subagent-sweep.command.test-fixtures.ts"
++
++const ACTING = agentIdOf(SEAT_ID, OWN)
++
++const world = scratchWorld()
++
++function worldWith(): { root: string; base: string; at: string } {
++  const root = seated(world.rootFor("subagent-sweep-"))
++  return {
++    root,
++    base: world.rootFor("subagent-sweep-logs-"),
++    at: paged(root, "akasha", OWN, ACTING),
++  }
++}
++
++const GONE = [entry({ agentId: OTHER_ID, cmdline: CHILD, pid: 8 })]
++
++const ALIVE = [entry({ agentId: SEAT_ID, cmdline: CHILD, pid: 8 })]
++
++const ACTS = [entry({ agentId: SEAT_ID, actingAgentId: ACTING, cmdline: TASK, pid: 9 })]
++
++test("a page whose agent no live process answers for is named stale", async () => {
++  const { root, base } = worldWith()
++  const said = await subagentSweep([], givenIn(root), GONE, base)
++  expect(said.code).toBe(0)
++  expect(said.report.join("\n")).toContain(`STALE`)
++  expect(said.report.join("\n")).toContain(`agent ${ACTING}`)
++  world.sweep()
++})
++
++test("a page a live process acts under is named working rather than stale", async () => {
++  const { root, base } = worldWith()
++  const said = (await subagentSweep([], givenIn(root), ACTS, base)).report.join("\n")
++  expect(said).toContain("1 subagent page(s): 1 working, 0 stale, 0 undetermined")
++  expect(said).toContain("pid 9 answers")
++  expect(said).not.toContain("STALE")
++  world.sweep()
++})
++
++test("a page a live process acts under is left alone by a run told to remove", async () => {
++  const { root, base, at } = worldWith()
++  const was = gitIn(root, ["rev-parse", "HEAD"])
++  const said = await subagentSweep(["--remove"], givenIn(root), ACTS, base)
++  expect(said.code).toBe(0)
++  expect(said.report.join("\n")).toContain("no page was judged STALE, so nothing went")
++  expect(there(root, at)).toBe(true)
++  expect(gitIn(root, ["rev-parse", "HEAD"])).toBe(was)
++  world.sweep()
++})
++
++test("a page nothing settles is undetermined and is left alone by a run told to remove", async () => {
++  const { root, base, at } = worldWith()
++  const said = await subagentSweep(["--remove"], givenIn(root), ALIVE, base)
++  expect(said.report.join("\n")).toContain("UNDETERMINED")
++  expect(said.report.join("\n")).toContain("no page was judged STALE, so nothing went")
++  expect(there(root, at)).toBe(true)
++  world.sweep()
++})
++
++test("a run naming nothing writes nothing, though the census called a page stale", async () => {
++  const { root, base, at } = worldWith()
++  const was = gitIn(root, ["rev-parse", "HEAD"])
++  const said = await subagentSweep([], givenIn(root), GONE, base)
++  expect(said.report.join("\n")).toContain("wrote nothing")
++  expect(said.report.join("\n")).toContain("Say `--remove`")
++  expect(there(root, at)).toBe(true)
++  expect(gitIn(root, ["rev-parse", "HEAD"])).toBe(was)
++  world.sweep()
++})
++
++test("a run told to remove takes the stale page away and says so", async () => {
++  const { root, base, at } = worldWith()
++  const was = gitIn(root, ["rev-parse", "HEAD"])
++  const said = await subagentSweep(["--remove"], givenIn(root), GONE, base)
++  expect(said.code).toBe(0)
++  expect(said.report.join("\n")).toContain(`${at} went`)
++  expect(there(root, at)).toBe(false)
++  expect(gitIn(root, ["rev-parse", "HEAD"])).not.toBe(was)
++  world.sweep()
++})
++
++test("the commit says why each page went", async () => {
++  const { root, base } = worldWith()
++  await subagentSweep(["--remove"], givenIn(root), GONE, base)
++  const said = gitIn(root, ["log", "-1", "--pretty=%B"])
++  expect(said).toContain("1 subagent page(s) go")
++  expect(said).toContain("no live process runs as its seat")
++  world.sweep()
++})
++
++test("a take-down the log says was refused is stale and goes", async () => {
++  const { root, base, at } = worldWith()
++  logPut(base, SEAT_ID, [takeLine("akasha", OWN)])
++  const said = await subagentSweep(["--remove"], givenIn(root), ALIVE, base)
++  expect(said.code).toBe(0)
++  expect(there(root, at)).toBe(false)
++  world.sweep()
++})
++
++test("the stale go and the working and undetermined remain in one run", async () => {
++  const root = seated(world.rootFor("subagent-sweep-"))
++  const base = world.rootFor("subagent-sweep-logs-")
++  const working = paged(root, "akasha", OWN, ACTING)
++  const held = paged(root, "akasha", AGAIN, agentIdOf(SEAT_ID, AGAIN))
++  const gone = paged(root, "thea", OWN, agentIdOf(OTHER_ID, OWN))
++  const said = await subagentSweep(["--remove"], givenIn(root), ACTS, base)
++  expect(said.code).toBe(0)
++  expect(there(root, working)).toBe(true)
++  expect(there(root, held)).toBe(true)
++  expect(there(root, gone)).toBe(false)
++  world.sweep()
++})
++
++test("a word this takes no flag for refuses the whole run and writes nothing", async () => {
++  const { root, base, at } = worldWith()
++  for (const word of ["--all", "--force", pathOf("akasha", OWN)]) {
++    const said = await subagentSweep([word], givenIn(root), GONE, base)
++    expect(said.code).toBe(1)
++    expect(said.refusals.join("\n")).toContain("is not a word this takes")
++  }
++  expect(there(root, at)).toBe(true)
++  world.sweep()
++})
+diff --git a/commands/subagent-sweep/subagent-sweep.command.ts b/commands/subagent-sweep/subagent-sweep.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9c4acc0a99f7fc4e6779673a957f86e94d572ead
+--- /dev/null
++++ b/commands/subagent-sweep/subagent-sweep.command.ts
+@@ -0,0 +1,62 @@
++import type { Command } from "../../command-system/commands/command.page-type.ts"
++
++export const subagentSweep = {
++  id: "01a072c2-eed8-7f35-9595-65c72afdc7aa",
++  pageTypeSlug: "command",
++  slug: "subagent-sweep",
++  definition: "every subagent page on disk judged, and the stale ones taken away when told to",
++  code: "ts",
++  test: "ts",
++  testFixtures: "ts",
++  changeKindSlug: "change-mechanical",
++  taking: [{ said: "--remove", takes: "take away the pages this run judged stale" }],
++  helpNotes: [
++    "a run naming nothing reports and writes nothing, which is how a person reads the census first.",
++    "a page is judged WORKING, STALE or UNDETERMINED, and only STALE ever goes.",
++    "WORKING is a live process acting under the page's agent id, which beats every other reading.",
++    "STALE is a take-down the seat's subagent-presence log says was refused, or a seat on no live process.",
++    "UNDETERMINED is everything else, because a subagent waiting on the model runs no process of its own.",
++    "no page's age is read: a page written long ago under a process still running says nothing.",
++    "the report names, for each page, its seat, its agent id, what answers for it, and why.",
++    "a removal is landed by this command rather than drafted, as the put-up that wrote the page was.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A run naming nothing writes nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A page goes only where the run was told to remove and the census judged it stale.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No page judged working or undetermined is ever removed.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The census is reported whether or not the run was told to remove.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A word this takes no flag for refuses the whole run.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run told to remove where nothing is stale says so and writes nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The commit says why each page went, one line for each.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page removed is forgotten by whoever read it.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A landing that refused leaves the census reported and the pages where they are.",
++    },
++  ],
++} as const satisfies Command
