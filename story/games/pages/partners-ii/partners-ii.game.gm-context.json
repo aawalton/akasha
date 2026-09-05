@@ -255,7 +255,7 @@
       "id": "gap-escalation",
       "bands": [],
       "title": "Gap escalation",
-      "description": "Engine gaps go to awen (bun ops agent send awen). Rulings only the reader can make go to the reader as structural questions, never quoting fogged content."
+      "description": "Engine gaps go to awen with the SendMessage tool. Rulings only the reader can make go to the reader as structural questions, never quoting fogged content."
     },
     {
       "id": "system-voice",
