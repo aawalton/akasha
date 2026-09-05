@@ -1,0 +1,119 @@
+diff --git a/pages/indexes/index-entries/index-entries.module.test.ts b/pages/indexes/index-entries/index-entries.module.test.ts
+index 4fe7f5256c88f84c404e2eb3dfad131c11f805ea..33a5ad48acfb6e33c698222161f999d54a9df4b0 100644
+--- a/pages/indexes/index-entries/index-entries.module.test.ts
++++ b/pages/indexes/index-entries/index-entries.module.test.ts
+@@ -3,6 +3,7 @@ import { mkdirSync, writeFileSync } from "node:fs"
+ import { dirname, join } from "node:path"
+ import { readingAt } from "../index-surface/index-surface.module.code.ts"
+ import {
++  claimsOf,
+   type FilePropertiesBy,
+   fileKeysAt,
+   fileKeysIn,
+@@ -10,6 +11,7 @@ import {
+   filePropertiesIn,
+   filePropertiesOver,
+   pathsOf,
++  type SidecarsBy,
+   schemaAt,
+   sidecarsIn,
+   uniquePropertiesAt,
+@@ -460,5 +462,97 @@ test("the files beside a page are read from every page type above it", () => {
+ 
+   expect(said?.secret).toBe(true)
+   expect(said?.uncommitted).toBe(true)
+-  expect([...(said?.besides ?? [])]).toEqual([["patch", "two-default"]])
++  expect([...(said?.besides ?? [])]).toEqual([
++    ["patch", { held: "two-default", uncommitted: false }],
++  ])
++})
++
++const PAGE = "/repo/deep/a.held-type.ts"
++
++const HELD = { id: A, pageTypeSlug: "held-type", slug: "a" }
++
++function declaringBeside(said: Record<string, unknown>): SidecarsBy {
++  return sidecarsIn([{ id: "1", pageTypeSlug: "page-type", slug: "held-type", properties: [said] }])
++}
++
++test("a file property a page type declares uncommitted is claimed under its uncommitted name", () => {
++  const sidecars = declaringBeside({
++    pagePropertySlug: "lines",
++    required: false,
++    many: false,
++    uncommitted: true,
++    default: "jsonl",
++  })
++
++  expect(claimsOf(HELD, PAGE, "/repo", filedAs("held-type", { lines: null }), sidecars)).toEqual([
++    "deep/a.held-type.ts",
++    "deep/a.held-type.uncommitted.ts",
++    "deep/a.held-type.lines.uncommitted.jsonl",
++  ])
++})
++
++test("a file property a page type declares without that word is claimed under its plain name", () => {
++  const sidecars = declaringBeside({
++    pagePropertySlug: "patch",
++    required: false,
++    many: false,
++    default: "diff",
++  })
++
++  expect(claimsOf(HELD, PAGE, "/repo", filedAs("held-type", { patch: null }), sidecars)).toEqual([
++    "deep/a.held-type.ts",
++    "deep/a.held-type.patch.diff",
++  ])
++})
++
++test("the numbered files of an uncommitted property are claimed while they are there", () => {
++  const sidecars = declaringBeside({
++    pagePropertySlug: "lines",
++    uncommitted: true,
++    default: "jsonl",
++  })
++  const there = new Set([
++    "deep/a.held-type.lines.part2.uncommitted.jsonl",
++    "deep/a.held-type.lines.part3.uncommitted.jsonl",
++  ])
++
++  expect(
++    claimsOf(HELD, PAGE, "/repo", filedAs("held-type", { lines: null }), sidecars, (at) =>
++      there.has(at)
++    )
++  ).toEqual([
++    "deep/a.held-type.ts",
++    "deep/a.held-type.uncommitted.ts",
++    "deep/a.held-type.lines.uncommitted.jsonl",
++    "deep/a.held-type.lines.part2.uncommitted.jsonl",
++    "deep/a.held-type.lines.part3.uncommitted.jsonl",
++  ])
++})
++
++test("naming an uncommitted property's files stops at the first that is not there", () => {
++  const sidecars = declaringBeside({
++    pagePropertySlug: "lines",
++    uncommitted: true,
++    default: "jsonl",
++  })
++  const there = new Set(["deep/a.held-type.lines.part3.uncommitted.jsonl"])
++
++  expect(
++    claimsOf(HELD, PAGE, "/repo", filedAs("held-type", { lines: null }), sidecars, (at) =>
++      there.has(at)
++    )
++  ).toEqual([
++    "deep/a.held-type.ts",
++    "deep/a.held-type.uncommitted.ts",
++    "deep/a.held-type.lines.uncommitted.jsonl",
++  ])
++})
++
++test("a page whose type declares an uncommitted value claims the values file beside the page", () => {
++  const sidecars = declaringBeside({ uncommitted: true })
++
++  expect(claimsOf(HELD, PAGE, "/repo", filedAs("held-type", {}), sidecars)).toEqual([
++    "deep/a.held-type.ts",
++    "deep/a.held-type.uncommitted.ts",
++  ])
+ })
