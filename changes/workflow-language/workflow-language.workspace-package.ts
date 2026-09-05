@@ -23,7 +23,7 @@ export const workflowLanguage = {
     "workflow-step/kubectl-apply",
     "module/manifest-path",
     "module/pod-selection",
-    "module/rbac-apply",
+    "workflow-step/rbac-apply",
     "module/retry-transient-ddl",
     "module/rollback-image",
     "module/set-image",

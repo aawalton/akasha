@@ -12,7 +12,7 @@
     "./kubectl-apply": "./kubectl-apply/kubectl-apply.workflow-step.code.ts",
     "./manifest-path": "./manifest-path/manifest-path.module.code.ts",
     "./pod-selection": "./pod-selection/pod-selection.module.code.ts",
-    "./rbac-apply": "./rbac-apply/rbac-apply.module.code.ts",
+    "./rbac-apply": "./rbac-apply/rbac-apply.workflow-step.code.ts",
     "./rbac-types": "./rbac-types/rbac-types.module.code.ts",
     "./retry-transient-ddl": "./retry-transient-ddl/retry-transient-ddl.module.code.ts",
     "./rollback-image": "./rollback-image/rollback-image.module.code.ts",

@@ -1,9 +1,9 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { WorkflowStep } from "../workflow-steps/workflow-step.page-type.ts"
 
 export const rbacApply = {
   id: "01a06f10-7000-700d-b000d-9d4a2f6c000de1",
-  pageTypeSlug: "module",
+  pageTypeSlug: "workflow-step",
   slug: "rbac-apply",
   definition: "a step putting a namespace's role profiles and their bindings onto the cluster",
   code: "ts",
-} as const satisfies Module
+} as const satisfies WorkflowStep
