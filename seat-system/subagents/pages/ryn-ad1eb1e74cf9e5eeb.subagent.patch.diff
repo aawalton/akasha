@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/story/story-chapters-read/properties/anchor-standing.select-property.ts b/story/story-chapters-read/properties/anchor-standing.select-property.ts
+index 874459d66937b8bfcf6f6c96b9d14ea63eff4e08..7211b883265d9ea4ac47e4317727a4164859d0f5 100644
+--- a/story/story-chapters-read/properties/anchor-standing.select-property.ts
++++ b/story/story-chapters-read/properties/anchor-standing.select-property.ts
+@@ -10,7 +10,8 @@ export const anchorStanding = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "An anchor the story tells is asserted and one a person in it says is claimed.",
++      statement:
++        "An anchor the story tells is asserted and one a person in that story says is claimed.",
+     },
+     {
+       invariantKind: "departure",
