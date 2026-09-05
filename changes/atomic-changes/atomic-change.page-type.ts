@@ -13,6 +13,7 @@ export const atomicChange = {
     "atomic-change/rename-export",
     "atomic-change/rename-property-signature",
     "atomic-change/rename-local-variable",
+    "atomic-change/rename-path",
   ],
   extendsSlug: ["page-type/module"],
   invariants: [
