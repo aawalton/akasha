@@ -1,3 +1,29 @@
+diff --git a/seat-system/messages/message.page-type.ts b/seat-system/messages/message.page-type.ts
+index 527fbb7a8f5c061080f2c908e3d1b6189c33fe47..ad7c3baffe7a7219a299db268031c86b74e2f888 100644
+--- a/seat-system/messages/message.page-type.ts
++++ b/seat-system/messages/message.page-type.ts
+@@ -77,7 +77,7 @@ export const message = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "The messages waiting stand as pages under this type rather than as markdown.",
++      statement: "The messages waiting exist as pages under this type rather than as markdown.",
+     },
+   ],
+ } as const satisfies PageType
+diff --git a/seat-system/messages/properties/message-claimed-at.instant-property.ts b/seat-system/messages/properties/message-claimed-at.instant-property.ts
+index 15a91767bd534e1cfaeabdd482d58b0e6e05a725..16f4ed30f05a0e04cfe8093c9a396c530c6c8838 100644
+--- a/seat-system/messages/properties/message-claimed-at.instant-property.ts
++++ b/seat-system/messages/properties/message-claimed-at.instant-property.ts
+@@ -19,7 +19,7 @@ export const messageClaimedAt = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A claim stands outside the commit, so a claim goes when its message goes.",
++      statement: "A claim sits outside the commit, so a claim goes when its message goes.",
+     },
+   ],
+ } as const satisfies InstantProperty
 diff --git a/seat-system/notices/notice.page-type.ts b/seat-system/notices/notice.page-type.ts
 index a67d8d878611185dfb9ae6ac8c42198cf7b1a4ad..46ecafc8906101690b8c54361267b85d2f50b710 100644
 --- a/seat-system/notices/notice.page-type.ts
