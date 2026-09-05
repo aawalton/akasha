@@ -1,0 +1,18 @@
+diff --git a/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts b/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
+index 2aeb8d18dccfab5c914196ed938e35a3cbf7598a..2a2d776204628cd676ce25b374f59f4a70b6f2c5 100644
+--- a/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
++++ b/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
+@@ -61,8 +61,11 @@ export const accountUpkeepStallReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A latch is a record that Alan was told, so it is held after the notification lands and never before it.",
++      statement: "A latch is a record that Alan was told.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A latch is held after the notification lands and never before that landing.",
+     },
+   ],
+ } as const satisfies Module
