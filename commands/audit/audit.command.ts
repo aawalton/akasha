@@ -96,7 +96,7 @@ export const audit = {
     },
     {
       invariantKind: "absence",
-      statement: "A change landing under an audit is judged half as it was.",
+      statement: "A change landing under an audit is judged half as that change was.",
     },
   ],
 } as const satisfies Command
