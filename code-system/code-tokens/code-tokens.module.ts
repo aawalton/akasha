@@ -40,7 +40,8 @@ export const codeTokens = {
     },
     {
       invariantKind: "departure",
-      statement: "A slash opens a pattern only where what precedes the slash cannot end a value.",
+      statement:
+        "A slash opens a pattern only where the token before the slash cannot end a value.",
     },
     {
       invariantKind: "departure",
