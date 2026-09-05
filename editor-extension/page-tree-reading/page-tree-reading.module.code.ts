@@ -48,7 +48,7 @@ function rootOfRepo(repo: string): string | undefined {
   return repo === AKASHA ? akashaRoot() : undefined
 }
 
-// A ROW STANDING FOR NO PAGE OPENS NOTHING. `at` names the checkout and the path inside it, and a
+// A ROW REPRESENTING NO PAGE OPENS NOTHING. `at` names the checkout and the path inside it, and a
 // checkout this does not hold leaves the row without a document rather than joining a path against
 // a root that is not the one the answer meant.
 export function documentPath(node: PageNode): string | undefined {
