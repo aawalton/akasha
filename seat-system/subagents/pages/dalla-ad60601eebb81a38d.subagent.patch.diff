@@ -10,6 +10,18 @@ index 9f7ab00202ee4d087f2074a36511280c7b292da9..cc219cd646a065577721520aa1b1fab6
    }
    const relink = read.dryRun ? () => undefined : reachedOver(root, linkingsIn(moved, bodyText))
    let landed: Answer
+diff --git a/commands/refactor/refactor.command.code.ts b/commands/refactor/refactor.command.code.ts
+index 75bc78a5462b2ffdf6ecd50d671e13f39c17fa64..6470ef2ab3750d967d36f9c643d06f139a775148 100644
+--- a/commands/refactor/refactor.command.code.ts
++++ b/commands/refactor/refactor.command.code.ts
+@@ -229,6 +229,7 @@ export async function landed(
+     read: base,
+     carries: moving,
+     saying: () => saying(one, carries, repointing, pages, left, false),
++    draft: given.agentId !== null,
+   }
+   const landing = await landingAsked({ ...given, root }, asked)
+   if (!dryRun) {
 diff --git a/commands/remove/remove.command.code.ts b/commands/remove/remove.command.code.ts
 index 0a3abc3d063f4cce717314e3521a0e678f0a5763..720a3c9ed85241599d9ae5378200fb087a18b1b6 100644
 --- a/commands/remove/remove.command.code.ts
