@@ -33,7 +33,7 @@ export const javascriptModule = {
     {
       invariantKind: "departure",
       statement:
-        "What carries a JavaScript module to where that module runs states the name that module lands under.",
+        "The code carrying a JavaScript module to its runtime states the name that module lands under.",
     },
     {
       invariantKind: "departure",
