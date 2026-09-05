@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/types/properties/child-collection.record-property.ts b/pages/types/properties/child-collection.record-property.ts
+index 003b5dccd7955b932ad6cac052ff4e74920ad7df..46803cc109b0e0bde749eb09c0e99a1a7ba89858 100644
+--- a/pages/types/properties/child-collection.record-property.ts
++++ b/pages/types/properties/child-collection.record-property.ts
+@@ -24,7 +24,8 @@ export const childCollection = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The gathered page names the page gathering it rather than the other way about.",
++      statement:
++        "The gathered page names the page gathering that gathered page rather than the other way about.",
+     },
+     {
+       invariantKind: "stopgap",
