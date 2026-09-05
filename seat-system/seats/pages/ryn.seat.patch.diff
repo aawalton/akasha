@@ -1,5 +1,5 @@
 diff --git a/domains/initiatives/pages/ryn-trained-parser.initiative.ts b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
-index 0b76d3809b2f23bc5411bbe09faed6672d6930b1..dc35378623dfdf2a691d45cb5dd54405f8648653 100644
+index 0b76d3809b2f23bc5411bbe09faed6672d6930b1..f3ea693e62ed230966d27b465b821acadc7e8447 100644
 --- a/domains/initiatives/pages/ryn-trained-parser.initiative.ts
 +++ b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
 @@ -20,7 +20,7 @@ export const rynTrainedParser = {
@@ -11,3 +11,16 @@ index 0b76d3809b2f23bc5411bbe09faed6672d6930b1..dc35378623dfdf2a691d45cb5dd54405
      },
      {
        statement: "Whether akasha writes in the passive is decided.",
+@@ -31,7 +31,11 @@ export const rynTrainedParser = {
+     { statement: "A sentence akasha refuses names the shape it is refused for." },
+     { statement: "A change writing a sentence akasha refuses does not land." },
+     { statement: "The phrase grammar and the word lexicon are gone." },
+-    { statement: "Every invariant under akasha is written in plain language." },
++    {
++      statement: "Every invariant under akasha is written in plain language.",
++      workingMemory:
++        "Two families are left. 186 statements match lone-pronoun, every one on a pronoun whose noun sits in the same sentence, and that family waits on Alan. 138 statements run past the 100-character maximum their own property declares, 87 of them by twenty characters or fewer and one at 266; those need splitting rather than rewording, so they land as authored.",
++    },
+   ],
+   constraints: [
+     "The parser is owned as a package in this repository rather than taken as a live upstream dependency.",
