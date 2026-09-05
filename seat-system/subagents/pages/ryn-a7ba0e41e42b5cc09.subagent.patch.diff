@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/graph/graph.workspace-package.ts b/graph/graph.workspace-package.ts
-index e6135e8684aa2526c75254e464c9af1c6aa9b093..31a747ab53c7f2cc73990264295d558324d863bf 100644
+index e6135e8684aa2526c75254e464c9af1c6aa9b093..92500a4a1ab71288d815114e1fd14330f347a0c7 100644
 --- a/graph/graph.workspace-package.ts
 +++ b/graph/graph.workspace-package.ts
 @@ -17,11 +17,11 @@ export const graph = {
@@ -17,12 +17,17 @@ index e6135e8684aa2526c75254e464c9af1c6aa9b093..31a747ab53c7f2cc73990264295d5583
      },
      {
        invariantKind: "departure",
-@@ -30,7 +30,7 @@ export const graph = {
+@@ -30,11 +30,11 @@ export const graph = {
      {
        invariantKind: "departure",
        statement:
 -        "What an answer rests on is worked out from the code rather than recorded as the code runs.",
 +        "The pages an answer rests on are worked out from the code rather than recorded as the code runs.",
+     },
+     {
+       invariantKind: "gap",
+-      statement: "What the graph derives is a cache and never an index.",
++      statement: "The answers the graph derives are a cache and never an index.",
      },
      {
        invariantKind: "gap",
