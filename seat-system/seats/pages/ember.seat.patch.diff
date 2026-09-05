@@ -224,3 +224,26 @@ index df0d0a7626fce70e2138496a3a5b139621f47876..d826880307a4cc33637ef867397d7c3b
      pages.push(naming)
    }
    return pages
+diff --git a/pages/system-service/page-serving/page-serving.module.ts b/pages/system-service/page-serving/page-serving.module.ts
+index 974850c7c52e89bce89debe319d76aeb40edb22a..4a044e2b1118ea10f880dd65606f75df6e5cf9a2 100644
+--- a/pages/system-service/page-serving/page-serving.module.ts
++++ b/pages/system-service/page-serving/page-serving.module.ts
+@@ -96,6 +96,18 @@ export const pageServing = {
+       invariantKind: "departure",
+       statement: "A page a write carries may say whether that page merges.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A page a write carries may hand over the bodies its file properties hold.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body is handed over under the key the property is carried as.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body that is no string refuses the write.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A page a write carries states nothing more.",
