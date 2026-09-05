@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/checks/modules/check-cost/check-cost.module.ts b/checks/modules/check-cost/check-cost.module.ts
-index 744944576943d7b205cb7f500998b765b05a01ae..a5770205f32f873a5e4b2a59d99054a98be80209 100644
+index 744944576943d7b205cb7f500998b765b05a01ae..00388b8aad04ce50232719836f396aa591a91ba2 100644
 --- a/checks/modules/check-cost/check-cost.module.ts
 +++ b/checks/modules/check-cost/check-cost.module.ts
 @@ -35,7 +35,8 @@ export const checkCost = {
@@ -13,3 +13,12 @@ index 744944576943d7b205cb7f500998b765b05a01ae..a5770205f32f873a5e4b2a59d99054a9
      },
      {
        invariantKind: "departure",
+@@ -51,7 +52,7 @@ export const checkCost = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here refuses a check for what that check cost.",
++      statement: "Nothing here refuses a check for that check's cost.",
+     },
+     {
+       invariantKind: "absence",
