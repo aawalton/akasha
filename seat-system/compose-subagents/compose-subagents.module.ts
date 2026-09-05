@@ -10,11 +10,11 @@ export const composeSubagents = {
     {
       invariantKind: "departure",
       statement:
-        "What asks for the kinds imports this module and calls that module rather than running that module.",
+        "A caller asking for the kinds imports and calls this module rather than running that module.",
     },
     {
       invariantKind: "departure",
-      statement: "A kind is named in the map by what that kind states that kind is dispatched as.",
+      statement: "A kind is named in the map by the dispatched-as that kind states.",
     },
     {
       invariantKind: "departure",
