@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/remove/remove.command.ts b/commands/remove/remove.command.ts
+index 6df6abe454eb69ce67cc4a29545723031636e8a4..3a4508a0666fe4914f93a0ac1effdf95bbed25e4 100644
+--- a/commands/remove/remove.command.ts
++++ b/commands/remove/remove.command.ts
+@@ -45,7 +45,7 @@ export const remove = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A link is taken away rather than what the link reaches.",
++      statement: "A link is taken away rather than the path the link reaches.",
+     },
+     {
+       invariantKind: "departure",
