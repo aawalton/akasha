@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/patch/patch.command.code.ts b/command-system/commands/patch/patch.command.code.ts
-index 38da2fde0d0af2dc74a6e9daa2f15b6d601d81e8..e2a12f679dc0c8818132b2bb02af3248b23b1fe7 100644
+index 38da2fde0d0af2dc74a6e9daa2f15b6d601d81e8..e9397963c86ff4fa5a7161d8fa70793913c7e107 100644
 --- a/command-system/commands/patch/patch.command.code.ts
 +++ b/command-system/commands/patch/patch.command.code.ts
 @@ -17,6 +17,7 @@ import {
@@ -19,3 +19,15 @@ index 38da2fde0d0af2dc74a6e9daa2f15b6d601d81e8..e2a12f679dc0c8818132b2bb02af3248
  import { formattedSaid } from "../../landing-saying/landing-saying.module.code.ts"
  import { added, type Blobs, blobsIn, deleted } from "../../patching/patching.module.code.ts"
  import type { Piping } from "../../piping/piping.module.code.ts"
+@@ -271,6 +272,11 @@ function bodyIn(
+   return { body }
+ }
+ 
++export function resolvingEdits(held: Bodies, path: string, body: Uint8Array): readonly FileEdit[] {
++  const had = held.get(path)
++  return editsOf(new Map(held).set(path, { was: had?.was ?? null, body }))
++}
++
+ export async function resolving(
+   given: Given,
+   page: string,
