@@ -1,0 +1,24 @@
+diff --git a/pages/queries/pages/relationships-all.page-query.ts b/pages/queries/pages/relationships-all.page-query.ts
+index a40cb8f394e0895686fbbac4f0f637234bc44601..8832887180178393e8e82296776bc7a2dc2057fb 100644
+--- a/pages/queries/pages/relationships-all.page-query.ts
++++ b/pages/queries/pages/relationships-all.page-query.ts
+@@ -7,12 +7,12 @@ export const relationshipsAll = {
+   asksOfSlug: "relationship",
+   keys: [
+     "title",
+-    "current-circle",
+-    "commitment",
+-    "connection",
+-    "impact",
+-    "interest",
+-    "email",
+-    "phone",
++    "relationship-current-circle",
++    "relationship-commitment",
++    "relationship-connection",
++    "relationship-impact",
++    "relationship-interest",
++    "relationship-email",
++    "relationship-phone",
+   ],
+ } as const satisfies PageQuery
