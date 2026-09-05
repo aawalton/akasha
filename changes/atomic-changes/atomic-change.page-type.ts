@@ -16,5 +16,9 @@ export const atomicChange = {
       statement:
         "A change that splits into two that each leave the tree whole is two atomic changes rather than one.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An atomic change refuses or leaves the tree whole.",
+    },
   ],
 } as const satisfies PageType
