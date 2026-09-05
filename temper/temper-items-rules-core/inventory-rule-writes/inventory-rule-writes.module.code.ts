@@ -33,7 +33,7 @@ export function sameRow(one: Row, two: Row | undefined): boolean {
 
 export function sameRows(one: readonly Row[], two: readonly Row[]): boolean {
   if (one.length !== two.length) return false
-  return true
+  return one.every((row, at) => sameRow(row, two[at]))
 }
 
 export function valuesFor(wanted: HeldRule, was: HeldRule | undefined): Record<string, unknown> {
