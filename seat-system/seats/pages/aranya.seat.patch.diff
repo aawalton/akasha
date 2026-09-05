@@ -319,3 +319,11 @@ index c564adf53d88f2d5b30703ba2bb945e4eb8f356e..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../infrastructure/loki-service
 \ No newline at end of file
+diff --git a/infrastructure/postgres-annual-dump/postgres-annual-dump b/infrastructure/postgres-annual-dump/postgres-annual-dump
+deleted file mode 120000
+index 183eb4f1b82d77cd2da4f72be6a166059006492e..0000000000000000000000000000000000000000
+--- a/infrastructure/postgres-annual-dump/postgres-annual-dump
++++ /dev/null
+@@ -1 +0,0 @@
+-../../infrastructure/postgres-annual-dump
+\ No newline at end of file
