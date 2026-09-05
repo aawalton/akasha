@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/eval/monarch-eval.domain.ts b/alan/harness/monarch/eval/monarch-eval.domain.ts
+index 9e111bced8687d23cbae255c632407d47e1ae00e..9968f1db07ea8a861fb727b66e95849e548d6663 100644
+--- a/alan/harness/monarch/eval/monarch-eval.domain.ts
++++ b/alan/harness/monarch/eval/monarch-eval.domain.ts
+@@ -90,7 +90,7 @@ export const monarchEval = {
+     {
+       invariantKind: "absence",
+       statement:
+-        "Monarch's own review flag is withheld, being bookkeeping about this history rather than evidence about a purchase.",
++        "Monarch's review flag is withheld as bookkeeping on this history rather than evidence of a purchase.",
+     },
+     {
+       invariantKind: "absence",
