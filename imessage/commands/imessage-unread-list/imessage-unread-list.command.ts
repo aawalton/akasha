@@ -26,7 +26,7 @@ export const imessageUnreadList = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Unread counts only what was carried to Alan's own number within thirty days.",
+      statement: "Unread counts only messages carried to Alan's own number within thirty days.",
     },
     {
       invariantKind: "departure",
