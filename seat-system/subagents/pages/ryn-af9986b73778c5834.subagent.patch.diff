@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.ts b/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.ts
+index d6e08b1951fc1f840aba6b74ce01405935d0883e..807a02c909f8940a2400c891b970dcb75fe7eae8 100644
+--- a/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.ts
++++ b/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.ts
+@@ -17,7 +17,7 @@ export const blockGitWrites = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A refusal names the akasha command that does what was asked with its flags filled in.",
++        "A refusal names the akasha command that does the git write asked for with its flags filled in.",
+     },
+     {
+       invariantKind: "departure",
