@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
-index 85a1910b8f004f074c44760092c9010b53fd6d1e..27358a215a0c94eda05b75989e7e02fbbca80fe9 100644
+index 85a1910b8f004f074c44760092c9010b53fd6d1e..4d042e6cfd13366e628f8a54b2436fb89b6c9b8f 100644
 --- a/code-system/code-tests/code-tests.module.ts
 +++ b/code-system/code-tests/code-tests.module.ts
 @@ -12,7 +12,7 @@ export const codeTests = {
@@ -91,6 +91,15 @@ index 85a1910b8f004f074c44760092c9010b53fd6d1e..27358a215a0c94eda05b75989e7e02fb
        invariantKind: "departure",
 -      statement: "What is borrowed is skipped where what is borrowed is not there.",
 +      statement: "A borrowed path is skipped where that path is not there.",
+     },
+     {
+       invariantKind: "departure",
+@@ -238,7 +238,7 @@ export const codeTests = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A world is swept by whoever asked for the world.",
++      statement: "A world is swept by the caller that asked for the world.",
      },
      {
        invariantKind: "departure",
