@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/context/modules/warranting/warranting.module.ts b/context/modules/warranting/warranting.module.ts
-index b85145f9f5e9b17a79cb88ee27dafac1a5269bae..fae95edd49a38a9d1415f4b443701d302de2c504 100644
+index b85145f9f5e9b17a79cb88ee27dafac1a5269bae..7aa080ae329e5216e4b6847a70441b612fa08899 100644
 --- a/context/modules/warranting/warranting.module.ts
 +++ b/context/modules/warranting/warranting.module.ts
 @@ -11,7 +11,7 @@ export const warranting = {
@@ -39,6 +39,15 @@ index b85145f9f5e9b17a79cb88ee27dafac1a5269bae..fae95edd49a38a9d1415f4b443701d30
 -      statement: "Within what a read is handed a path sits once in the place that path first sat.",
 +      statement:
 +        "Within the paths a read is handed a path sits once in the place that path first sat.",
+     },
+     {
+       invariantKind: "departure",
+@@ -95,7 +96,7 @@ export const warranting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An agent owes what its own page names rather than the page itself.",
++      statement: "An agent owes the readings its own page names rather than the page itself.",
      },
      {
        invariantKind: "departure",
