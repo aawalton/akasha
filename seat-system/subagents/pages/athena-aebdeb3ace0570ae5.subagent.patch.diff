@@ -46,3 +46,254 @@ index bb4e0a7d097f7cc09670eeb72e664c48e6e27786..1e79f4c948eb1381ac20a738f7d8730c
        mode = named as Mode
      } else {
        const stated = [...ATTRIBUTES, ...ASSIGNMENTS].find((one) => arg === `--${one}`)
+diff --git a/seat-system/seat-running/seat-running.module.code.ts b/seat-system/seat-running/seat-running.module.code.ts
+index da4b9e78e6d1f851b63c8940016c89997fea9bd2..26309843da46e7f7924a3109b914d6204497137c 100644
+--- a/seat-system/seat-running/seat-running.module.code.ts
++++ b/seat-system/seat-running/seat-running.module.code.ts
+@@ -1,8 +1,7 @@
+-import { fail } from "@akasha/command-system/command-failing"
+ import { AKASHA, akashaRoot, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+ import { seatId } from "@akasha/seat-system/read-record"
+ import { handlerDerives, personaIsHers, refuseAnswering } from "@akasha/seat-system/seat-answering"
+-import { parseArgs } from "@akasha/seat-system/seat-args"
++import { type Args, parseArgs } from "@akasha/seat-system/seat-args"
+ import { attributeFor } from "@akasha/seat-system/seat-attribute"
+ import { defaultLines } from "@akasha/seat-system/seat-defaults"
+ import { SEAT_HELP } from "@akasha/seat-system/seat-help"
+@@ -37,57 +36,63 @@ import {
+ } from "../seat-resolve/seat-resolve.module.code.ts"
+ import { statedNow } from "../seat-stated/seat-stated.module.code.ts"
+ 
+-export async function run(argv: readonly string[]): Promise<void> {
+-  if (argv.includes("--help") || argv.includes("-h")) {
+-    process.stdout.write(SEAT_HELP)
+-    return
+-  }
+-  const args = parseArgs(argv)
++// WHAT A STATING CAME TO IS ANSWERED RATHER THAN PRINTED, AND A REFUSAL IS AN ANSWER RATHER THAN AN
++// EXIT. A supervisor states a seat's defaults while it is booting the session it holds open, so a
++// write refused here has to come back as words that caller can report on. Ending the process would
++// end the supervisor with it.
++export type SeatStated =
++  | { readonly kind: "stated"; readonly report: string }
++  | { readonly kind: "refused"; readonly said: string }
++
++// Each answer carries the exact bytes the command writes, so the shell over this function chooses a
++// stream and an exit code and composes nothing.
++function stated(lines: readonly string[]): SeatStated {
++  return { kind: "stated", report: lines.join("\n") + "\n" }
++}
++
++function refused(lines: readonly string[]): SeatStated {
++  return { kind: "refused", said: lines.join("\n") + "\n" }
++}
++
++export async function run(args: Args): Promise<SeatStated> {
+   const roots = resolveRoots()
+   const pages = akashaRoot()
+ 
+   if (args.resolve) {
+-    if (args.asDefault) {
+-      process.stdout.write(defaultLines(pages).join("\n") + "\n")
+-      return
+-    }
++    if (args.asDefault) return stated(defaultLines(pages))
+     const resolved = resolveAttributes(args.set, args.tokens, pages, scan(pages))
+     if ("refusals" in resolved) {
+-      process.stderr.write(
+-        ["refused:", ...resolved.refusals.map((one) => `  ${one}`), "nothing was resolved"].join(
+-          "\n"
+-        ) + "\n"
+-      )
+-      process.exit(1)
++      return refused([
++        "refused:",
++        ...resolved.refusals.map((one) => `  ${one}`),
++        "nothing was resolved",
++      ])
+     }
+-    process.stdout.write(
+-      resolved.assigned.map((one) => `${one.slot}=${one.slug}`).join("\n") + "\n"
+-    )
+-    return
++    return stated(resolved.assigned.map((one) => `${one.slot}=${one.slug}`))
+   }
+   if (args.name) {
+     const nameable = nameableStated(args.set, args.flex, args.principal)
+     const spelled = composeSeatName(nameable, pages)
+     if (spelled === null) {
+-      process.stderr.write(
+-        "refused: these attributes spell no name — state a persona, a domain or a role\n"
+-      )
+-      process.exit(1)
++      return refused([
++        "refused: these attributes spell no name — state a persona, a domain or a role",
++      ])
+     }
+-    process.stdout.write(`${spelled}\n`)
+-    return
++    return stated([spelled])
+   }
+   if (args.tokens.length > 0) {
+-    fail("--token is sorted against the pages and states nothing — it needs --resolve")
++    return refused([
++      "error: --token is sorted against the pages and states nothing — it needs --resolve",
++    ])
+   }
+ 
+   const own = seatId()
+   const agent = args.agent ?? own
+   if (agent === null) {
+-    fail(
+-      "neither AGENT_ID nor CLAUDE_CODE_SESSION_ID is set, so nothing stated could be attributed to you — " +
+-        "set one, or name it with --agent"
+-    )
++    return refused([
++      "error: neither AGENT_ID nor CLAUDE_CODE_SESSION_ID is set, so nothing stated could be " +
++        "attributed to you — set one, or name it with --agent",
++    ])
+   }
+ 
+   const set: Partial<Record<Declaration, string>> = { ...args.set }
+@@ -125,9 +130,10 @@ export async function run(argv: readonly string[]): Promise<void> {
+   let mode = args.mode
+   if (args.asDefault) {
+     if (args.clear.length > 0) {
+-      fail(
+-        "--default writes where nothing is held and --clear unsets what is, so one call cannot mean both"
+-      )
++      return refused([
++        "error: --default writes where nothing is held and --clear unsets what is, so one call " +
++          "cannot mean both",
++      ])
+     }
+     for (const key of ATTRIBUTES) {
+       const standing = stands[key]
+@@ -176,20 +182,13 @@ export async function run(argv: readonly string[]): Promise<void> {
+     args.registration === null &&
+     !onCall
+   if (named.length === 0 && quiet) {
+-    if (args.asDefault) {
+-      process.stdout.write([...notes, `seat:   ${agent}`].join("\n") + "\n")
+-      return
+-    }
+-    process.stderr.write(
+-      [...notes, "error: nothing to state — name at least one attribute or --mode"].join("\n") +
+-        "\n"
+-    )
+-    process.exit(1)
++    if (args.asDefault) return stated([...notes, `seat:   ${agent}`])
++    return refused([...notes, "error: nothing to state — name at least one attribute or --mode"])
+   }
+ 
+   const heldPrincipal = principal ?? principalOf(agent)?.value ?? null
+   const openedByPerson = heldPrincipal !== null && personPrincipals(pages).includes(heldPrincipal)
+-  const refused = [
++  const refusals = [
+     ...(initiative === null ? [] : refuseInitiative(initiative, rootFor(roots, AKASHA))),
+     ...(args.flex === null
+       ? []
+@@ -199,21 +198,10 @@ export async function run(argv: readonly string[]): Promise<void> {
+   ]
+   const found: Found = slugsInTree()
+   const resolved = resolveAttributes(set, [], pages, found)
+-  const stop = (all: readonly string[]): undefined => {
+-    process.stderr.write(
+-      [...notes, "refused:", ...all.map((one) => `  ${one}`), "nothing was stated"].join("\n") +
+-        "\n"
+-    )
+-    process.exit(1)
+-  }
+-  if ("refusals" in resolved) {
+-    stop([...resolved.refusals, ...refused])
+-    return
+-  }
+-  if (refused.length > 0) {
+-    stop(refused)
+-    return
+-  }
++  const stop = (all: readonly string[]): SeatStated =>
++    refused([...notes, "refused:", ...all.map((one) => `  ${one}`), "nothing was stated"])
++  if ("refusals" in resolved) return stop([...resolved.refusals, ...refusals])
++  if (refusals.length > 0) return stop(refusals)
+   const held: { -readonly [K in AttributeKey]?: Attribute } = {}
+   for (const one of resolved.assigned) {
+     const key = ATTRIBUTES.find((slot) => slot === one.slot)
+@@ -230,18 +218,12 @@ export async function run(argv: readonly string[]): Promise<void> {
+       persona: standing["persona"]?.slug ?? null,
+       principal: principal ?? principalOf(agent)?.value ?? null,
+     })
+-    if (wrong.length > 0) {
+-      stop(wrong)
+-      return
+-    }
++    if (wrong.length > 0) return stop(wrong)
+   }
+   const nameable = nameableFrom(agent, standing, args.flex, principal, args.clear)
+   const seatName = nameStanding(agent, pages, nameable)
+   const followed = await followName(agent, pages, nameable, args.takeLiveName)
+-  if (followed.kind === "refused") {
+-    stop([followed.reason])
+-    return
+-  }
++  if (followed.kind === "refused") return stop([followed.reason])
+   if (followed.kind === "renamed") notes.push(`name:   ${followed.name}`)
+ 
+   const nowOnCall = onCall
+@@ -257,30 +239,42 @@ export async function run(argv: readonly string[]): Promise<void> {
+     }
+     const page = await writeSeatPage(statedNow(agent, standing, said), seatName, args.parentName)
+     if (page.kind === "refused") {
+-      stop([
++      return stop([
+         `${akashaSeatRelPath(seatName)} was not written, so it stands at what it last held until the next heartbeat — ${(page.detail.split("\n")[0] ?? "").trim()}`,
+       ])
+-      return
+     }
+     if (page.kind === "unstated") {
+-      stop([
++      return stop([
+         `${akashaSeatRelPath(seatName)} was not written: a seat page needs a persona, a domain, a role, ` +
+           "a principal, a start mode and a registration, and a seat whose principal is not a person " +
+           "also needs the seat above it",
+       ])
+-      return
+     }
+   }
+   const cleared = args.clear.length > 0 ? [`clear:  ${args.clear.join(", ")}`] : []
+-  process.stdout.write(
+-    [
+-      ...notes,
+-      ...cleared,
+-      `seat:   ${agent}`,
+-      "",
+-      "An armed gate names what you must read, and refuses everything but Read, Grep and Glob until you have.",
+-    ].join("\n") + "\n"
+-  )
++  return stated([
++    ...notes,
++    ...cleared,
++    `seat:   ${agent}`,
++    "",
++    "An armed gate names what you must read, and refuses everything but Read, Grep and Glob until you have.",
++  ])
++}
++
++// THE ONE SHELL OVER THE STATING, so that the words a refusal answers and the words the command
++// prints cannot drift apart. The seat call is a shell over this, and this file's own entry point is
++// the same shell, which is why the help is read here rather than inside the function.
++export async function stateSeatFromArgv(argv: readonly string[]): Promise<void> {
++  if (argv.includes("--help") || argv.includes("-h")) {
++    process.stdout.write(SEAT_HELP)
++    return
++  }
++  const answer = await run(parseArgs(argv))
++  if (answer.kind === "refused") {
++    process.stderr.write(answer.said)
++    process.exit(1)
++  }
++  process.stdout.write(answer.report)
+ }
+ 
+-if (import.meta.main) await run(process.argv.slice(2))
++if (import.meta.main) await stateSeatFromArgv(process.argv.slice(2))
