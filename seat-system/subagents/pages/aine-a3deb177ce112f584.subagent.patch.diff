@@ -1,5 +1,5 @@
 diff --git a/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts b/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts
-index 794422a02c4fbecda7a54055dc051f0080647c68..05e7d027f51412663669f941b7869aac550e3ff0 100644
+index 794422a02c4fbecda7a54055dc051f0080647c68..f86658437b3d587607e9b6e8441521af0d83723a 100644
 --- a/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts
 +++ b/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts
 @@ -109,7 +109,7 @@ test("a resumed session keeps its readings", () => {
@@ -20,8 +20,17 @@ index 794422a02c4fbecda7a54055dc051f0080647c68..05e7d027f51412663669f941b7869aac
    const root = seated()
    cleared(root, ONE, "startup")
    expect(readFileSync(readingAt(root, TWO), "utf8")).toContain(TWO)
+@@ -178,7 +178,7 @@ test("a resumed seat keeps its subagents' records too", () => {
+   for (const one of SEATED) expect(existsSync(readingAt(root, one))).toBe(true)
+ })
+ 
+-test("another agent's readings stand through a source that clears nothing", () => {
++test("another agent's readings remain through a source that clears nothing", () => {
+   const root = rooted()
+   cleared(root, ONE, "resume")
+   expect(existsSync(readingAt(root, TWO))).toBe(true)
 diff --git a/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.test.ts b/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.test.ts
-index 228333f1bbf8824ad0318039c1aa724a3258ea42..d820cc649bdb760d2d2e71649c915fc402a30d73 100644
+index 228333f1bbf8824ad0318039c1aa724a3258ea42..43f91d7f93bfc9cde41673227e7da10ddbe22b68 100644
 --- a/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.test.ts
 +++ b/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.test.ts
 @@ -41,8 +41,8 @@ function ranWith(
@@ -44,3 +53,19 @@ index 228333f1bbf8824ad0318039c1aa724a3258ea42..d820cc649bdb760d2d2e71649c915fc4
    expect(calledWith({}, payloadOf({ agent_id: SUB }))).toBeNull()
  })
  
+@@ -118,13 +118,13 @@ test("a seat whose own id is unspellable names nobody into a command", () => {
+   expect(calledWith(said, payloadOf({ agent_id: SUB }))).toBeNull()
+ })
+ 
+-test("a call carrying no command, or none that reads as one, is left as it stands", () => {
++test("a call carrying no command, or none that reads as one, is left as it is", () => {
+   for (const one of [{}, { command: "" }, { command: 3 }, { command: null }]) {
+     expect(calledWith(SEATED, payloadOf({ agent_id: SUB, tool_input: one }))).toBeNull()
+   }
+ })
+ 
+-test("a payload carrying no tool input at all is left as it stands", () => {
++test("a payload carrying no tool input at all is left as it is", () => {
+   const said = { hook_event_name: "PreToolUse", agent_id: SUB }
+   expect(calledWith(SEATED, said)).toBeNull()
+   expect(calledWith(SEATED, { ...said, tool_input: "ls" })).toBeNull()
