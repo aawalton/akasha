@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/types/properties/detail-config.record-property.ts b/pages/types/properties/detail-config.record-property.ts
+index 5daa35f370802f28de49ff8dccc30f0109686773..30c3605b987c1429272a3720bf6f6b3daf35c107 100644
+--- a/pages/types/properties/detail-config.record-property.ts
++++ b/pages/types/properties/detail-config.record-property.ts
+@@ -48,7 +48,7 @@ export const detailConfig = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page type stating none takes what the page type above states.",
++      statement: "A page type stating none takes the layout the page type above states.",
+     },
+     {
+       invariantKind: "departure",
