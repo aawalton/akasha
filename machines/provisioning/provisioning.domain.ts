@@ -8,6 +8,7 @@ export const provisioning = {
   partSlugs: [
     "page-type/provisioned-file",
     "python-module/btw5",
+    "shell-script/akasha-launcher",
     "shell-script/ci-cost-snapshot",
     "shell-script/find-session",
     "shell-script/link-making",
