@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-commands/master-craft-trace-reading/master-craft-trace-reading.module.ts b/temper/temper-commands/master-craft-trace-reading/master-craft-trace-reading.module.ts
+index b5356ccea8989f9dde0ad8b848e72cc4e99aa73f..8236dca6be2b641b024253fa60d1f5a57fe628bb 100644
+--- a/temper/temper-commands/master-craft-trace-reading/master-craft-trace-reading.module.ts
++++ b/temper/temper-commands/master-craft-trace-reading/master-craft-trace-reading.module.ts
+@@ -9,7 +9,7 @@ export const masterCraftTraceReading = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Every trace names the outcome that ended it.",
++      statement: "Every trace names the outcome that ended that trace.",
+     },
+     {
+       invariantKind: "departure",
