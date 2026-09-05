@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.ts b/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.ts
+index 9ee96a8e6d84261d13e37f6c99d825567fc92d88..61ed7bd94c6f75f1cc4fe05796d51f0bec393cfa 100644
+--- a/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.ts
++++ b/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.ts
+@@ -34,7 +34,7 @@ export const fileHasItsPage = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What claims a path is asked of the index rather than worked out here.",
++      statement: "The page that claims a path is asked of the index rather than worked out here.",
+     },
+     {
+       invariantKind: "absence",
