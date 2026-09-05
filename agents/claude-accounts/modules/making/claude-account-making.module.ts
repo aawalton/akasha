@@ -10,11 +10,11 @@ export const claudeAccountMaking = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The folder a new account is written into is read off the pages already standing.",
+      statement: "The folder a new account is written into is read off the pages already there.",
     },
     {
       invariantKind: "departure",
-      statement: "A root standing no account throws rather than guessing that folder.",
+      statement: "A root holding no account throws rather than guessing that folder.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +59,7 @@ export const claudeAccountMaking = {
     },
     {
       invariantKind: "departure",
-      statement: "An account a page already stands for is answered as standing rather than made.",
+      statement: "An account a page already exists for is answered as standing rather than made.",
     },
     {
       invariantKind: "departure",
@@ -107,7 +107,8 @@ export const claudeAccountMaking = {
     },
     {
       invariantKind: "gap",
-      statement: "Neither the address nor the alias slot is weighed against the accounts standing.",
+      statement:
+        "Neither the address nor the alias slot is weighed against the accounts there are.",
     },
   ],
 } as const satisfies Module

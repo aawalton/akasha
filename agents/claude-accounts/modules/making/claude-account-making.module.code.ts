@@ -31,15 +31,15 @@ export type Landing = (
 
 export const LANDING: Landing = landedMechanically
 
-// Where a new account page is written is read off the pages already standing rather than written
+// Where a new account page is written is read off the pages already there rather than written
 // out a second time. A folder move repoints no string in this repository, so a spelled folder is
-// the answer that goes stale; a root standing no account at all names that rather than guessing.
+// the answer that goes stale; a root holding no account at all names that rather than guessing.
 export function accountsAtIn(given: string | Reading): string {
   const first = everyAccountIn(given)[0]
   if (first === undefined) {
     throw new Error(
       `no page is filed under \`${PAGE_TYPE_SLUG}\`, and where a new one is written is read off ` +
-        `the pages already standing, so this root says nothing about where to write one`
+        `the pages already there, so this root says nothing about where to write one`
     )
   }
   const cut = first.path.lastIndexOf("/")

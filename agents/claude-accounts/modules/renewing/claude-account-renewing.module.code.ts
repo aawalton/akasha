@@ -70,7 +70,7 @@ export async function renewedIn(args: {
     if (read.kind === "absent") return { ok: false, terminal: false, reason: "no-credential" }
     const standing = read.credential
 
-    // A credential with life left past the margin is answered as it stands, so the endpoint is
+    // A credential with life left past the margin is answered as it is, so the endpoint is
     // reached only where the pair the page holds is about to be spent.
     if (standing.accessTokenExpiresAtMs >= doors.now() + marginMs) {
       return { ok: true, credential: credentialOf(standing) }
