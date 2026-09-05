@@ -46,11 +46,11 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A file under a router app's routes folder is not judged.",
+      statement: "A file importing a router app's generated route types is not judged.",
     },
     {
       invariantKind: "departure",
-      statement: "A router app's root route is not judged.",
+      statement: "A file under a routes folder importing none of them is judged like any other.",
     },
     {
       invariantKind: "constraint",
@@ -67,7 +67,7 @@ export const typecheck = {
     },
     {
       invariantKind: "gap",
-      statement: "A router app's routes and its root route are judged by the app's own compile.",
+      statement: "A file importing generated route types is judged by its own app's compile.",
     },
     {
       invariantKind: "departure",

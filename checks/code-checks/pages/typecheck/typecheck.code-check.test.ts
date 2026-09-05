@@ -8,6 +8,7 @@ import {
   configOf,
   omittingIn,
   reachedBy,
+  reachesTypegen,
   rootsOf,
   servingOf,
   typecheck,
@@ -21,6 +22,7 @@ import {
   EARLY,
   generating,
   HERE,
+  IMPORTS_TYPEGEN,
   LOADED_AT,
   MADE,
   ONE_NUMBER,
@@ -345,4 +347,17 @@ test("a diagnostic carried in a chain is one reason", async () => {
   )
   expect(said).toHaveLength(1)
   expect(said[0]?.reason).toContain("missing")
+})
+
+test("what is passed over is what imports generated route types rather than where it sits", () => {
+  expect(reachesTypegen("routes/one.ts", 'import type { Route } from "./+types/one"\n')).toBe(true)
+  expect(reachesTypegen("routes/one.ts", "export const one = 1\n")).toBe(false)
+  expect(reachesTypegen("held.ts", 'export const said = "./+types/root"\n')).toBe(false)
+})
+
+test("a body importing generated route types is reached and left unjudged", async () => {
+  const root = staged({ "akasha/one.ts": ONE_NUMBER })
+  const held = change(root, { "akasha/two.ts": IMPORTS_TYPEGEN })
+  expect(reached(held)).toEqual(["akasha/two.ts"])
+  expect(await judged(held)).toEqual([])
 })

@@ -2,6 +2,7 @@ import { readdirSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
 import { textIn } from "@akasha/code-system/body-text"
 import { parsedAs } from "@akasha/code-system/code-source"
+import { specifiersIn } from "@akasha/code-system/code-specifier"
 import {
   compiled,
   directoriesIn,
@@ -11,7 +12,6 @@ import {
   servedOf,
 } from "@akasha/code-system/code-typing"
 import { reachesIn } from "@akasha/code-system/package-manifest"
-import { rootRoute } from "@akasha/code-system/router-app/root-route"
 import { reachingInto } from "@akasha/graph/graph-asking"
 import { importEdge } from "@akasha/graph/import-edge"
 import type { Answering } from "@akasha/indexes/answering"
@@ -35,9 +35,7 @@ const ELSEWHERE = "the akasha folder does not compile as this change leaves it"
 
 const OMIT = "Omit"
 
-const ROUTER_APP = ".router-app.ts"
-
-const ROUTES = "routes/"
+const TYPEGEN = "+types"
 
 const DECLARED = ".d.ts"
 
@@ -93,26 +91,19 @@ export function reachedBy(change: Change, index: Answering): readonly string[] {
   return reachingInto(seeds, [IMPORT], index, compiled)
 }
 
-export function routingIn(index: Answering): readonly string[] {
-  const found = new Set<string>()
-  for (const one of index.everyPath()) {
-    if (!one.endsWith(ROUTER_APP)) continue
-    const app = dirname(one)
-    found.add(`${app}/${ROUTES}`)
-    found.add(`${app}/${rootRoute.fileName}`)
-  }
-  return [...found].sort()
-}
-
-export function routed(path: string, folders: readonly string[]): boolean {
-  return folders.some((one) => path.startsWith(one))
+export function reachesTypegen(path: string, text: string): boolean {
+  return specifiersIn(path, text).some((one) => one.split("/").includes(TYPEGEN))
 }
 
 export function rootsOf(change: Change, index: Answering): readonly string[] {
-  const held = reachedBy(change, index).filter((one) => change.after(one) !== null)
-  if (held.length === 0) return held
-  const folders = routingIn(index)
-  return held.filter((one) => !routed(one, folders))
+  const found: string[] = []
+  for (const one of reachedBy(change, index)) {
+    const bytes = change.after(one)
+    if (bytes === null) continue
+    if (reachesTypegen(one, textIn(bytes))) continue
+    found.push(one)
+  }
+  return found
 }
 
 export function declaringIn(change: Change, index: Answering): readonly string[] {

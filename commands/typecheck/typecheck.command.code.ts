@@ -159,8 +159,7 @@ export async function typecheck(argv: readonly string[], given: Given): Promise<
     return {
       report: [],
       refusals: unjudged.map(
-        (one) =>
-          `${one} was not judged — a router app's own compile judges its routes, and this does not`
+        (one) => `${one} was not judged — nothing in the tree holds the route types it imports`
       ),
       code: 3,
     }

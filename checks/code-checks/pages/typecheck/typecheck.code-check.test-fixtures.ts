@@ -61,6 +61,9 @@ export const TAKES_NUMBER = "export function held(one: number): number {\n  retu
 
 export const CALLS_HELD = 'import { held } from "./held.ts"\nexport const one = held(1)\n'
 
+export const IMPORTS_TYPEGEN =
+  'import type { Route } from "./+types/two"\n\nexport const two: Route = 1\n'
+
 const PAGE_TYPE = "page-type"
 
 const TEXT_PROPERTY = "text-property"
