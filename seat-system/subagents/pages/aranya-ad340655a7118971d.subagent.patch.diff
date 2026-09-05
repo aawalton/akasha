@@ -457,3 +457,38 @@ index ab229a557448972c168f3e5ba35cbbddf6d09230..f300377dc117db2007fae24e9248882d
 +    world.sweep()
 +  }
 +}, 40000)
+diff --git a/seat-system/subagents/presence/subagent-presence.module.ts b/seat-system/subagents/presence/subagent-presence.module.ts
+index 3e3c18d316a50e57e50346fe04e29344b409baed..8e76a11267a98822cb1522a5b908997d43ae36c1 100644
+--- a/seat-system/subagents/presence/subagent-presence.module.ts
++++ b/seat-system/subagents/presence/subagent-presence.module.ts
+@@ -44,6 +44,30 @@ export const subagentPresence = {
+       invariantKind: "departure",
+       statement: "A seat stating no assignment writes nothing.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A call that wrote nothing answers why rather than answering that it did not.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The reason a landing refused is the reason that call answers with.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "What the program left to finish says goes to a log named for this module.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That log is in the seat's own folder beside the seat's supervisor log.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The seat whose folder holds that log is named by the id the call carries.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A log that will not open leaves the landing asked for and its output dropped.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A page states the agent id the subagent acts under.",
