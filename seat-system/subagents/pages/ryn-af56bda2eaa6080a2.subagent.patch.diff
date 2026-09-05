@@ -1,0 +1,13 @@
+diff --git a/domains/invariant-kinds/pages/gap.invariant-kind.ts b/domains/invariant-kinds/pages/gap.invariant-kind.ts
+index 66c534414bab5dae0ea178e2667d2d1dd6b4146b..f91a86c5853b783d68f4200968e1b48385de8f4b 100644
+--- a/domains/invariant-kinds/pages/gap.invariant-kind.ts
++++ b/domains/invariant-kinds/pages/gap.invariant-kind.ts
+@@ -9,7 +9,7 @@ export const gap = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Knowing a gap stops a reader relying on it.",
++      statement: "Knowing a gap stops a reader relying on that gap.",
+     },
+     {
+       invariantKind: "departure",
