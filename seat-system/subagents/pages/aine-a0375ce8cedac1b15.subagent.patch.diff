@@ -1,0 +1,117 @@
+diff --git a/editor-extension/node-cleanliness/node-cleanliness.module.test.ts b/editor-extension/node-cleanliness/node-cleanliness.module.test.ts
+index 20ffbb459170c282bb6a2d3bfb89498ad99f897f..9228e8381d6a43dead168942cbad9855f9e16f13 100644
+--- a/editor-extension/node-cleanliness/node-cleanliness.module.test.ts
++++ b/editor-extension/node-cleanliness/node-cleanliness.module.test.ts
+@@ -82,7 +82,7 @@ test("a guarded bun reach below the top level is carried", () => {
+   expect(refusedIn(reachOf({ guarded: false }))).toBe(true)
+ })
+ 
+-test("a reach is said with its global, its file and whether it stands at import", () => {
++test("a reach is said with its global, its file and whether it is at import", () => {
+   expect(saidAs(reachOf())).toBe("Bun.file in a.ts")
+   expect(saidAs(reachOf({ atImport: true }))).toBe("Bun.file in a.ts, at import")
+ })
+diff --git a/editor-extension/node-cleanliness/node-cleanliness.module.ts b/editor-extension/node-cleanliness/node-cleanliness.module.ts
+index 00d99ccd9eee3b44c3d6a924a902efb746153a02..6930a1e4cdb2af08e1fede15abb55a5040ab35d1 100644
+--- a/editor-extension/node-cleanliness/node-cleanliness.module.ts
++++ b/editor-extension/node-cleanliness/node-cleanliness.module.ts
+@@ -71,7 +71,7 @@ export const nodeCleanliness = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A reach standing at the bundle's top level is refused whatever its file spells.",
++      statement: "A reach at the bundle's top level is refused whatever its file spells.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/ops-extension/ops-extension.workspace-package.ts b/editor-extension/ops-extension/ops-extension.workspace-package.ts
+index a20065d4403019eed8e987f61be73a3ae2f50d08..d9d2bac11ef4f3fd9923864d6101b2c5e8d7c1a5 100644
+--- a/editor-extension/ops-extension/ops-extension.workspace-package.ts
++++ b/editor-extension/ops-extension/ops-extension.workspace-package.ts
+@@ -30,7 +30,7 @@ export const opsExtension = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a panel does stands in `editor-extension` rather than here.",
++      statement: "What a panel does sits in `editor-extension` rather than here.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/panel-reading/panel-reading.module.ts b/editor-extension/panel-reading/panel-reading.module.ts
+index 99bf97abcbc085daedc873a7d33c6edd1131ba40..b71aa7fd0e81c03782421670beb70cac15b2288b 100644
+--- a/editor-extension/panel-reading/panel-reading.module.ts
++++ b/editor-extension/panel-reading/panel-reading.module.ts
+@@ -53,7 +53,7 @@ export const panelReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The run exits rather than waiting, activation leaving poll timers standing.",
++      statement: "The run exits rather than waiting, activation leaving poll timers running.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/transcript-panel/transcript-panel.module.ts b/editor-extension/transcript-panel/transcript-panel.module.ts
+index 8b010c069008d53c61302681dc2d76579774f31f..9408832e933be742fb3bcd2b6cc847c7a43790d9 100644
+--- a/editor-extension/transcript-panel/transcript-panel.module.ts
++++ b/editor-extension/transcript-panel/transcript-panel.module.ts
+@@ -17,7 +17,7 @@ export const transcriptPanel = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Only a seat whose transcript file stands is offered.",
++      statement: "Only a seat whose transcript file exists is offered.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/transcript-reading/transcript-reading.module.ts b/editor-extension/transcript-reading/transcript-reading.module.ts
+index f2fb359250c96fc1fddb9ff7e33df702513975a7..e5cc2bf89bc47e1784192ca2e760539bd12d40bb 100644
+--- a/editor-extension/transcript-reading/transcript-reading.module.ts
++++ b/editor-extension/transcript-reading/transcript-reading.module.ts
+@@ -42,7 +42,7 @@ export const transcriptReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A read says how many bytes it folded and how many stand.",
++      statement: "A read says how many bytes it folded and how many remain.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/transcript-view/transcript-view.module.ts b/editor-extension/transcript-view/transcript-view.module.ts
+index 2a3416c0709ccbda3588a5a509ee8fa30e666bfd..ff6dc501f69cc97a8be301196b9edf6fedb83d29 100644
+--- a/editor-extension/transcript-view/transcript-view.module.ts
++++ b/editor-extension/transcript-view/transcript-view.module.ts
+@@ -25,7 +25,7 @@ export const transcriptView = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A poll that folded nothing anywhere leaves the panel as it stands.",
++      statement: "A poll that folded nothing anywhere leaves the panel as it is.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/turn-color-scheme/turn-color-scheme.module.ts b/editor-extension/turn-color-scheme/turn-color-scheme.module.ts
+index f523c609f5e85ab967db1f0955cc16787cced1e4..c84a8b4fe456cae64fe5e1310844f807360cf9b8 100644
+--- a/editor-extension/turn-color-scheme/turn-color-scheme.module.ts
++++ b/editor-extension/turn-color-scheme/turn-color-scheme.module.ts
+@@ -9,7 +9,7 @@ export const turnColorScheme = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A color is named by the palette name standing in the path.",
++      statement: "A color is named by the palette name in the path.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/vscode-typings/vscode-typings.type-declaration.d.ts b/editor-extension/vscode-typings/vscode-typings.type-declaration.d.ts
+index cf4151b84a8b6daf11cf6b78a2b7b1d56a3a2a0b..dafa322e48895d8f83a1bd84cba646ad2da71a5f 100644
+--- a/editor-extension/vscode-typings/vscode-typings.type-declaration.d.ts
++++ b/editor-extension/vscode-typings/vscode-typings.type-declaration.d.ts
+@@ -1,7 +1,7 @@
+ // The editor's API is ambient: `vscode` is injected by the editor host and is no runtime module,
+ // so its typings are a `declare module 'vscode'` block rather than a file anything imports.
+ //
+-// The block is the `vscode-api` type declaration, and it stands beside its page at
++// The block is the `vscode-api` type declaration, and it sits beside its page at
+ // `editor-extension/vscode-api/vscode-api.type-declaration.d.ts`. That page states what it
+ // is: a restatement of the editor fork's own `src/vscode-dts/vscode.d.ts`, written by no hand, and
+ // a promote of the fork refuses while the two differ. Referencing it is what lets akasha see the
