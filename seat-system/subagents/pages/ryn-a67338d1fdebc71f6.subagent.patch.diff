@@ -126,3 +126,19 @@ index 0232db6b4c28a4ef78370b42824498e6e47e7e47..43640395b019f71682c8cd370718aa34
      {
        invariantKind: "absence",
        statement: "Nothing here caches a reading or decides when a reading is taken.",
+diff --git a/readout-system/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts b/readout-system/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts
+index 28f148b80f6be897e83506798aa5193bea487030..73ab44e2762024fa1643f23131a833926905961b 100644
+--- a/readout-system/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts
++++ b/readout-system/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts
+@@ -42,10 +42,7 @@ export const inboxesTasks = {
+       invariantKind: "departure",
+       statement: "A tracking day carrying no count is no reading rather than a count of zero.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A store that refuses is a fault rather than a reading of nothing.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here caches a reading or decides when a reading is taken.",
