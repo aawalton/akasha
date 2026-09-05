@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts
+index 0d104c06f2bd66b18202783f33f86512bbbb8ebc..affb930d65b7fef806272a71137e63e1b66a06da 100644
+--- a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts
++++ b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts
+@@ -28,7 +28,7 @@ export const keyNamesOneProperty = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "No narrowing makes them one.",
++      statement: "No narrowing makes those two declarations one.",
+     },
+     {
+       invariantKind: "departure",
