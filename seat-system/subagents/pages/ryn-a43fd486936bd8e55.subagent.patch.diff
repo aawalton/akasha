@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
+index 4baf3df147c49f02d56a774d8437058abcd8679e..7afc539b7e98eec2834b153fd248aa5f47e26720 100644
+--- a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
++++ b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
+@@ -65,7 +65,7 @@ export const claudeAccountUpkeepStall = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "An account whose beside would not read is answered on its own rather than refusing the whole listing.",
++        "An account whose beside would not read is answered on its own rather than refusing the listing.",
+     },
+     {
+       invariantKind: "constraint",
