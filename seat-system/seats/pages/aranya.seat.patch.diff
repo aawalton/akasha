@@ -1447,3 +1447,11 @@ index 6efbdabf8c645ce2edc22f793df3134a358a0cfb..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-player-economics-ui
 \ No newline at end of file
+diff --git a/temper/temper-player-inventory-management-ui/temper-player-inventory-management-ui b/temper/temper-player-inventory-management-ui/temper-player-inventory-management-ui
+deleted file mode 120000
+index f577915cae55cd5dd708606bdfa07ffde885b51e..0000000000000000000000000000000000000000
+--- a/temper/temper-player-inventory-management-ui/temper-player-inventory-management-ui
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-player-inventory-management-ui
+\ No newline at end of file
