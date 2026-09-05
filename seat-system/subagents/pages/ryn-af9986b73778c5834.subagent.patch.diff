@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/alan/library/book-of-everything/commands/ali-coverage/ali-coverage.command.ts b/alan/library/book-of-everything/commands/ali-coverage/ali-coverage.command.ts
+index e507dbaef52a5f774efd1e0f5a60adbd82557ba1..96c30c3ffe4e078acaf5547ad2fed57568930be4 100644
+--- a/alan/library/book-of-everything/commands/ali-coverage/ali-coverage.command.ts
++++ b/alan/library/book-of-everything/commands/ali-coverage/ali-coverage.command.ts
+@@ -21,7 +21,8 @@ export const aliCoverage = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The section count is held against the outline rather than against what there is.",
++      statement:
++        "The section count is held against the outline rather than against the sections there are.",
+     },
+     {
+       invariantKind: "departure",
