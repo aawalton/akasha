@@ -17,7 +17,7 @@ export const coverageStatus = {
     },
     {
       invariantKind: "departure",
-      statement: "A total counts what the outline holds rather than what the disk holds.",
+      statement: "A total counts the nodes the outline holds rather than the nodes the disk holds.",
     },
     {
       invariantKind: "departure",
