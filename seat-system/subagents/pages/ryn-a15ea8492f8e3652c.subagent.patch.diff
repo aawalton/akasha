@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/compose-notices/compose-notices.module.ts b/seat-system/compose-notices/compose-notices.module.ts
+index abacddc800b68952ef5315d8e7c954aaa357bed2..93974b5bae0677b26e6929c445cdcab8f9b002fb 100644
+--- a/seat-system/compose-notices/compose-notices.module.ts
++++ b/seat-system/compose-notices/compose-notices.module.ts
+@@ -9,7 +9,8 @@ export const composeNotices = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What asks for the notices imports this and calls it rather than running it.",
++      statement:
++        "What asks for the notices imports this module and calls that module rather than running that module.",
+     },
+     {
+       invariantKind: "departure",
