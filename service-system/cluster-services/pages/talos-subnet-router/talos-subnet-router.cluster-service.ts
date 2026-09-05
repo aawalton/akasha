@@ -10,6 +10,5 @@ export const talosSubnetRouter = {
   resourceName: "talos-subnet-router",
   image: "tailscale/tailscale:v1.98.10",
   replicas: 1,
-  manifestCode:
-    "service-system/cluster-services/pages/talos-subnet-router/talos-subnet-router.cluster-service.code.attachment.ts",
+  manifestSlug: "talos-subnet-router",
 } as const satisfies ClusterService
