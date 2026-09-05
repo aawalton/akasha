@@ -38,11 +38,11 @@ export const component = {
     },
     {
       invariantKind: "departure",
-      statement: "A component's test and the fixtures setting it up sit beside that code.",
+      statement: "A component's test and the fixtures setting that test up sit beside that code.",
     },
     {
       invariantKind: "departure",
-      statement: "A component is reached by importing it.",
+      statement: "A component is reached by importing that component.",
     },
   ],
 } as const satisfies PageType
