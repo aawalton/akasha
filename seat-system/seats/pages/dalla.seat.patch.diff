@@ -1,3 +1,20 @@
+diff --git a/changes/atomic-changes/atomic-change.page-type.ts b/changes/atomic-changes/atomic-change.page-type.ts
+index 3282d6cc2aa8b3c8337111b6bd9ae63d0ddffb20..906c99c51a5be12c3c0d9a407cce8cf4e7382439 100644
+--- a/changes/atomic-changes/atomic-change.page-type.ts
++++ b/changes/atomic-changes/atomic-change.page-type.ts
+@@ -9,7 +9,11 @@ export const atomicChange = {
+   slug: "atomic-change",
+   definition: "a change to one thing that leaves the tree whole wherever that thing reaches",
+   pluralSlug: "atomic-changes",
+-  partSlugs: ["atomic-change/rename-export", "atomic-change/rename-local-variable"],
++  partSlugs: [
++    "atomic-change/rename-export",
++    "atomic-change/rename-key",
++    "atomic-change/rename-local-variable",
++  ],
+   extendsSlug: ["page-type/module"],
+   invariants: [
+     {
 diff --git a/changes/atomic-changes/pages/rename-key/rename-key.atomic-change.code.ts b/changes/atomic-changes/pages/rename-key/rename-key.atomic-change.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..87984ba48c8531bece76ac5f2bbc7a1d737e1d13
