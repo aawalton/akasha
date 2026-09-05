@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-akasha-history/seat-akasha-history.module.ts b/seat-system/seat-akasha-history/seat-akasha-history.module.ts
+index 2abc079bf5a5572a2572317ea2f6942e6dd87910..a0c76aeba22213dabd96e4a26f7da130b073f5ce 100644
+--- a/seat-system/seat-akasha-history/seat-akasha-history.module.ts
++++ b/seat-system/seat-akasha-history/seat-akasha-history.module.ts
+@@ -17,7 +17,7 @@ export const seatAkashaHistory = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A seat's moment is the time of the commit that wrote it.",
++      statement: "A seat's moment is the time of the commit that wrote that seat.",
+     },
+     {
+       invariantKind: "departure",
