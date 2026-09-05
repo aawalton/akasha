@@ -1,5 +1,5 @@
 diff --git a/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts b/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts
-index 794422a02c4fbecda7a54055dc051f0080647c68..de148a9955d22635370d137f6f666a53626d1635 100644
+index 794422a02c4fbecda7a54055dc051f0080647c68..8d59931758d8840c77843a4fdd93538688863488 100644
 --- a/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts
 +++ b/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts
 @@ -109,7 +109,7 @@ test("a resumed session keeps its readings", () => {
@@ -38,6 +38,15 @@ index 794422a02c4fbecda7a54055dc051f0080647c68..de148a9955d22635370d137f6f666a53
    const root = bare()
    const at = join(root, READS_AT, "agent", "id")
    mkdirSync(join(at, ".."), { recursive: true })
+@@ -258,7 +258,7 @@ test("the session begins at every source, and the hook says nothing", () => {
+   }
+ })
+ 
+-test("the hook run as the harness runs it clears the record under the root it stands in", () => {
++test("the hook run as the harness runs it clears the record under the root it sits in", () => {
+   const one = planted(ONE)
+   expect(ranWith("startup", ONE).code).toBe(0)
+   expect(existsSync(one)).toBe(false)
 diff --git a/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.test.ts b/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.test.ts
 index 228333f1bbf8824ad0318039c1aa724a3258ea42..43f91d7f93bfc9cde41673227e7da10ddbe22b68 100644
 --- a/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.test.ts
