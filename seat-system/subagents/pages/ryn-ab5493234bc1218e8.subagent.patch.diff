@@ -14,3 +14,19 @@ index 52c7245533d2781e82923f637c55e0ad624d9a91..d46b5520305c7527a21be788e295c4f1
      {
        invariantKind: "departure",
        statement: "A row is spelled for the panel from the row the file carries.",
+diff --git a/editor-extension/domain-tree-panel/domain-tree-panel.module.ts b/editor-extension/domain-tree-panel/domain-tree-panel.module.ts
+index ff26e308776df9d542d2870133b9cb08be912084..1fb0d863cd2932e83137d3610b64c68a7e65b13b 100644
+--- a/editor-extension/domain-tree-panel/domain-tree-panel.module.ts
++++ b/editor-extension/domain-tree-panel/domain-tree-panel.module.ts
+@@ -19,10 +19,7 @@ export const domainTreePanel = {
+       invariantKind: "departure",
+       statement: "The panel draws again when that file is written and at no other time.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A file the service has not written leaves the rows on the screen as they are.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A file written while the panel is hidden is kept rather than drawn.",
