@@ -155,3 +155,53 @@ index efbac57a6131a6b2d0063f3d221f67bb83e5e0cb..80f9e781759258d841b877705a7054f6
      "module/path-select",
      "module/progress",
      "module/property-config-schemas",
+diff --git a/pages/core/property-types/pages-core-property-types.domain.ts b/pages/core/property-types/pages-core-property-types.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..adc32eb111ad4e1f625a59f7a3afec26815db560
+--- /dev/null
++++ b/pages/core/property-types/pages-core-property-types.domain.ts
+@@ -0,0 +1,44 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesCorePropertyTypes = {
++  id: "01a071c9-72b7-7316-bff7-b4a792ae928f",
++  pageTypeSlug: "domain",
++  slug: "pages-core-property-types",
++  definition: "what one kind of page property means",
++  partSlugs: [
++    "module/action-button",
++    "module/aggregate",
++    "module/aggregate-filter",
++    "module/block-markers",
++    "module/block-selection",
++    "module/block-shortcuts",
++    "module/boolean",
++    "module/calendar-time",
++    "module/date",
++    "module/date-sentinels",
++    "module/filter-utils",
++    "module/formula",
++    "module/instant",
++    "module/json",
++    "module/markdown",
++    "module/markdown-shorthand",
++    "module/multi-relation",
++    "module/multi-select-property",
++    "module/number",
++    "module/path-select",
++    "module/progress",
++    "module/property-type-ops",
++    "module/registry",
++    "module/relation",
++    "module/resolution-target-types",
++    "module/resolve-computed-type",
++    "module/rich-document",
++    "module/rich-document-ops",
++    "module/rich-document-tree",
++    "module/rollup",
++    "module/rrule",
++    "module/select",
++    "module/text",
++    "module/url",
++  ],
++} as const satisfies Domain
