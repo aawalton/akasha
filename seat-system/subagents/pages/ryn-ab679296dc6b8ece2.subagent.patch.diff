@@ -1,0 +1,13 @@
+diff --git a/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts b/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts
+index 9b686e951bf0a346d109502b81e44199d9276f4e..bd08c17b9eb9c83da3effec5cef6cf030f5fa90b 100644
+--- a/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts
++++ b/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts
+@@ -9,7 +9,7 @@ export const violationReporting = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A run that certifies nothing says so before it says what it found.",
++      statement: "A run that certifies nothing says so before that run says what that run found.",
+     },
+     {
+       invariantKind: "departure",
