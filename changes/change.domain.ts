@@ -8,6 +8,7 @@ export const change = {
   pluralSlug: "changes",
   partSlugs: [
     "page-type/atomic-change",
+    "page-type/refactor-change",
     "page-type/workflow-template",
     "page-type/change-kind",
     "workspace-package/workflow-language",
