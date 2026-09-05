@@ -18,3 +18,29 @@ index c01a98711d9dc20a0ad592f81708e94b0abd2d62..8af453651f0aed29a08fd5dab6ee24db
    if (held.dryRun) return await reporting(given.root, held, gate, aside)
    const message = messageWith(held, bypass, broken)
    const asRead = asReadIn(given, formatting.changes)
+diff --git a/command-system/commands/move/move.command.code.ts b/command-system/commands/move/move.command.code.ts
+index f1484696b2b04c1d2fac790428e789ed556fd02e..95dbb637bbb779672ea9ce74914578687f4bddd3 100644
+--- a/command-system/commands/move/move.command.code.ts
++++ b/command-system/commands/move/move.command.code.ts
+@@ -250,6 +250,7 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
+   }
+   const message =
+     said.message ?? `move ${sided.sides.map((one) => `${one.from} to ${one.to}`).join(", ")}`
++  let relink: () => undefined = () => undefined
+   const asked: Asked = {
+     changes,
+     message,
+@@ -263,8 +264,12 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
+       ...resettlingSaid(root, named, true),
+     ],
+     draft: given.agentId !== null,
++    reaching: read.dryRun
++      ? undefined
++      : (): undefined => {
++          relink = reachedOver(root, linkingsIn(moved, bodyText))
++        },
+   }
+-  const relink = read.dryRun ? () => undefined : reachedOver(root, linkingsIn(moved, bodyText))
+   let landed: Answer
+   try {
+     landed = await landingAsked({ ...given, root }, asked)
