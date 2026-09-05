@@ -21,7 +21,7 @@ export const fileBacking = {
     },
     {
       invariantKind: "gap",
-      statement: "What backs a page type the roster leaves out is read from somewhere.",
+      statement: "The backing of a page type the roster leaves out is read from somewhere.",
     },
   ],
 } as const satisfies Module
