@@ -1,3 +1,16 @@
+diff --git a/commands/compose-notices/compose-notices.command.code.ts b/commands/compose-notices/compose-notices.command.code.ts
+index d8fb71d47a496394123876eb3ded293001fb1244..b093c91fa80fc751f6821a014a4bde283374a85f 100644
+--- a/commands/compose-notices/compose-notices.command.code.ts
++++ b/commands/compose-notices/compose-notices.command.code.ts
+@@ -2,7 +2,7 @@ import { writeFileSync } from "node:fs"
+ import { isAbsolute, resolve } from "node:path"
+ import type { Answer, Given } from "@akasha/command-system/calling"
+ import { whyOf } from "@akasha/command-system/fault-saying"
+-import { notices } from "../../seat-system/compose-notices/compose-notices.module.code.ts"
++import { notices } from "@akasha/seat-system/compose-notices"
+ 
+ export const OUT = "--out"
+ 
 diff --git a/seat-system/package.json b/seat-system/package.json
 index 685b0ba6ec0fb7d71ab6f4b3f752c47155ff6f88..46988b7d62ae481ed5378a104dca1dd09937e1d6 100644
 --- a/seat-system/package.json
