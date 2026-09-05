@@ -37,7 +37,8 @@ export const claudeAccountRenewing = {
     },
     {
       invariantKind: "departure",
-      statement: "A renewed pair is written back to the account's page before it is answered.",
+      statement:
+        "A renewed pair is written back to the account's page before that pair is answered.",
     },
     {
       invariantKind: "departure",
@@ -54,7 +55,7 @@ export const claudeAccountRenewing = {
     {
       invariantKind: "departure",
       statement:
-        "A renewed pair that reached no page is answered, and said to be the only copy of it.",
+        "A renewed pair that reached no page is answered, and said to be the only copy of that pair.",
     },
     {
       invariantKind: "departure",
