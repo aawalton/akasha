@@ -42,6 +42,10 @@ export const pageTreeView = {
     },
     {
       invariantKind: "departure",
+      statement: "A row opens the whole path that row carries rather than one composed here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "How many rows matched is answered as none where no filter is there.",
     },
     {

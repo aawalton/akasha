@@ -4,20 +4,12 @@ export const pageTreeReading = {
   id: "01a06867-dbcb-7300-9560-2f216f804af7",
   pageTypeSlug: "module",
   slug: "page-tree-reading",
-  definition: "how many rows a page tree holds and which document each of its rows opens",
+  definition: "how many rows a page tree holds and how many of them open a document",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "How many rows the tree holds is counted apart from how many open a document.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A row names its document by a whole path, so nothing is joined to open one.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A row representing no page opens no document.",
     },
     {
       invariantKind: "absence",

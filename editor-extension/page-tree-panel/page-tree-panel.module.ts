@@ -34,11 +34,7 @@ export const pageTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A row is spelled for the panel from the row the file carries.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A row's document is carried on whole, there being nothing here to join.",
+      statement: "The rows the file carries are drawn as they are rather than spelled again.",
     },
     {
       invariantKind: "departure",

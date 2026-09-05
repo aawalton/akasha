@@ -6,7 +6,6 @@ import {
 } from "../../alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts"
 import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
 import { recordObservation } from "../observation-store/observation-store.module.code.ts"
-import type { PageNode, PageTree } from "../page-tree-assemble/page-tree-assemble.module.code.ts"
 import { REFRESH_COMMAND, VIEW_ID } from "../page-tree-ids/page-tree-ids.module.code.ts"
 import { countPages, countRows } from "../page-tree-reading/page-tree-reading.module.code.ts"
 import { createPageTree } from "../page-tree-view/page-tree-view.module.code.ts"
@@ -14,27 +13,16 @@ import { createPageTree } from "../page-tree-view/page-tree-view.module.code.ts"
 const FEATURE = "page-tree"
 const SLUG = "page-tree"
 
-// The file spells a row the way every state file spells one. The panel spells it another way, so
-// the two are bridged here. The document needs no work: the file names it by a whole path and the
-// panel opens exactly that.
-function asNode(row: PageTreeRow): PageNode {
-  return {
-    id: row.key,
-    label: row.label,
-    at: row.at,
-    detail: row.detail,
-    children: row.children.map(asNode),
-  }
-}
-
 let output: vscode.OutputChannel
 
 export async function activate(context: vscode.ExtensionContext): Promise<undefined> {
   output = vscode.window.createOutputChannel("Ops: Page Tree")
   context.subscriptions.push(output)
 
+  // THE FILE'S OWN ROW IS WHAT IS DRAWN. The row already names its document by a whole path, so
+  // there is nothing between the file and the view to spell it a second way.
   const tree = createPageTree()
-  const view = vscode.window.createTreeView<PageNode>(VIEW_ID, {
+  const view = vscode.window.createTreeView<PageTreeRow>(VIEW_ID, {
     treeDataProvider: tree.provider,
     showCollapseAll: true,
     showExpandAll: true,
@@ -61,37 +49,32 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 
   const draw = (state: PageTreeState, trigger: string): undefined => {
     try {
-      const next: PageTree = {
-        repo: akashaRoot(),
-        roots: state.roots.map(asNode),
-        unreached: state.unreached,
-      }
-      tree.replace(next)
-      const rows = countRows(next.roots)
-      const pages = countPages(next.roots)
+      tree.replace(state.roots)
+      const rows = countRows(state.roots)
+      const pages = countPages(state.roots)
       total = rows
       describe()
       view.badge = { value: rows, tooltip: rows === 1 ? "1 row" : `${rows} rows` }
       view.message = undefined
       output.appendLine(
         `[${trigger}] ${rows} row(s), ${pages} of them opening a document, ` +
-          `under ${next.roots.length} root(s)` +
-          (next.unreached.length === 0
+          `under ${state.roots.length} root(s)` +
+          (state.unreached.length === 0
             ? ""
-            : `; ${next.unreached.length} reached by no root: ${next.unreached.join(", ")}`)
+            : `; ${state.unreached.length} reached by no root: ${state.unreached.join(", ")}`)
       )
       recordObservation(FEATURE, {
         outcome: "ok",
         counts: {
           rows,
           pages,
-          roots: next.roots.length,
-          reachedByNoRoot: next.unreached.length,
+          roots: state.roots.length,
+          reachedByNoRoot: state.unreached.length,
         },
       })
-      if (next.unreached.length > 0) {
+      if (state.unreached.length > 0) {
         void vscode.window.showWarningMessage(
-          `Pages: ${next.unreached.length} page type(s) hang under no root and are not shown. ` +
+          `Pages: ${state.unreached.length} page type(s) hang under no root and are not shown. ` +
             "See the Ops: Page Tree output."
         )
       }
