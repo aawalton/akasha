@@ -40,7 +40,7 @@ index 566093ea0af6a9d67dd8a6b24e368360a1e24dfb..a7994b716ae3e461cf9874c0d07dfb4a
 +  })
 +}
 diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
-index c70536b6a67282fc3d9e4bf031e92e4022f44e92..d44562514de5180fe3c4245419360fe0b9bf46f8 100644
+index c70536b6a67282fc3d9e4bf031e92e4022f44e92..5e20041b8782c0aff017edf041a9d0ed47c68e06 100644
 --- a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 +++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 @@ -5,7 +5,9 @@ import type { Change } from "@akasha/pages-system/change"
@@ -81,3 +81,12 @@ index c70536b6a67282fc3d9e4bf031e92e4022f44e92..d44562514de5180fe3c4245419360fe0
    THING_AT,
    TWO_BREAKS,
    WHOLE,
+@@ -165,7 +172,7 @@ test("a proposed body that breaks what stands clean on disk is refused, so the c
+ })
+ 
+ test("a type is judged across files, so a caller is refused for a callee it no longer fits", async () => {
+-  const root = staged({ "akasha/held.ts": TAKES_NUMBER, "akasha/calls.ts": CALLS_HELD })
++  const root = calling()
+   const said = await over(
+     root,
+     "akasha/calls.ts",
