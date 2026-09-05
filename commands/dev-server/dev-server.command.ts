@@ -88,7 +88,7 @@ export const devServer = {
     },
     {
       invariantKind: "departure",
-      statement: "A restart answers with what its start answered and nothing of its stop.",
+      statement: "A restart answers with the answer its start gave and nothing of its stop.",
     },
     {
       invariantKind: "departure",
