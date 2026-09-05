@@ -1,5 +1,5 @@
 diff --git a/temper/temper-commands/temper-addon-bundle-publish/temper-addon-bundle-publish.command.code.ts b/temper/temper-commands/temper-addon-bundle-publish/temper-addon-bundle-publish.command.code.ts
-index df88ed5db92161745361424df4bacc5847d35df5..6091778613b3901321a430c8291dacb7c0b3d25a 100644
+index df88ed5db92161745361424df4bacc5847d35df5..f5d862eb827d65b864d5d81440d80e4525382266 100644
 --- a/temper/temper-commands/temper-addon-bundle-publish/temper-addon-bundle-publish.command.code.ts
 +++ b/temper/temper-commands/temper-addon-bundle-publish/temper-addon-bundle-publish.command.code.ts
 @@ -61,7 +61,7 @@ function mustRun(argv: readonly string[], what: string): string | null {
@@ -11,6 +11,21 @@ index df88ed5db92161745361424df4bacc5847d35df5..6091778613b3901321a430c8291dacb7
  }
  
  function tagBody(contentHash: string): string {
+@@ -119,11 +119,11 @@ export async function temperAddonBundlePublish(argv: readonly string[] = []): Pr
+     const pushRef = `${pushRegistry}/${IMAGE_REPO}:${contentHash}`
+ 
+     ran(["buildah", "rm", WORKING_CONTAINER], { timeout: PUSH_CEILING_MS })
+-    const stood = mustRun(
++    const setUp = mustRun(
+       ["buildah", "from", "--name", WORKING_CONTAINER, BASE_IMAGE],
+-      "standing up the image base"
++      "setting up the image base"
+     )
+-    if (stood !== null) return refused(stood, FAILED)
++    if (setUp !== null) return refused(setUp, FAILED)
+ 
+     let assembled: string | null
+     try {
 diff --git a/temper/temper-commands/temper-auto-quest-trace/temper-auto-quest-trace.command.code.ts b/temper/temper-commands/temper-auto-quest-trace/temper-auto-quest-trace.command.code.ts
 index bff21238a693fd8f65c124db818d204f087bd1ff..75494d1f123b83fa1ca6435d3837ad9853dac1aa 100644
 --- a/temper/temper-commands/temper-auto-quest-trace/temper-auto-quest-trace.command.code.ts
