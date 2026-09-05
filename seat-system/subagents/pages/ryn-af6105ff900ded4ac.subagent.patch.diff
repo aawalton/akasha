@@ -14,3 +14,19 @@ index ffad641479427a27b05a0eb325f3e7d4f2c40abf..9e0ff3a664deac48e87e84fdf3a629a8
      {
        invariantKind: "departure",
        statement: "No tracking day is no reading rather than an endurance of zero.",
+diff --git a/readout-system/readouts/pages/attribute-intelligence/attribute-intelligence.readout.ts b/readout-system/readouts/pages/attribute-intelligence/attribute-intelligence.readout.ts
+index cf96b143efbdb6bee71827430cca6378a5edd01e..779c830e1fbf4295c1cdd2b6bab3525e75ca3e30 100644
+--- a/readout-system/readouts/pages/attribute-intelligence/attribute-intelligence.readout.ts
++++ b/readout-system/readouts/pages/attribute-intelligence/attribute-intelligence.readout.ts
+@@ -23,10 +23,7 @@ export const attributeIntelligence = {
+       invariantKind: "departure",
+       statement: "Ten thousand words added is one point.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A figure given as text is read as the number that text spells.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "No tracking day is no reading rather than an intelligence of zero.",
