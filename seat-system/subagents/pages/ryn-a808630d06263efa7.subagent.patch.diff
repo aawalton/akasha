@@ -1,0 +1,13 @@
+diff --git a/changes/workflow-templates/workflow-template.page-type.ts b/changes/workflow-templates/workflow-template.page-type.ts
+index 503c869d44c04806343f83ccca43971698bdf56b..882ef38858c6e2d8781e98be2d72904b96086220 100644
+--- a/changes/workflow-templates/workflow-template.page-type.ts
++++ b/changes/workflow-templates/workflow-template.page-type.ts
+@@ -38,7 +38,7 @@ export const workflowTemplate = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A workflow is a page with code beside it rather than a module.",
++      statement: "A workflow is a page with code beside that page rather than a module.",
+     },
+     {
+       invariantKind: "departure",
