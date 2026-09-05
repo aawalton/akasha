@@ -98,8 +98,30 @@ test("a run that throws leaves the ask behind that run to run all the same", asy
     return undefined
   })
   const first = ask("first")
-  void ask("second")
+  const second = ask("second")
   release?.()
   await expect(first).rejects.toThrow("the run failed")
+  await second
   expect(ran).toEqual(["first", "second"])
+})
+
+test("a caller left waiting is answered with no throw from a run that is not its own", async () => {
+  let release: (() => undefined) | undefined
+  const ask = newestWins(async (one: string) => {
+    if (one === "first") {
+      await new Promise<undefined>((go) => {
+        release = () => {
+          go(undefined)
+          return undefined
+        }
+      })
+      throw new Error("the run failed")
+    }
+    return undefined
+  })
+  const first = ask("first")
+  const second = ask("second")
+  release?.()
+  await expect(first).rejects.toThrow("the run failed")
+  await expect(second).resolves.toBeUndefined()
 })

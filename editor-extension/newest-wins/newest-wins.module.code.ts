@@ -23,7 +23,9 @@ export function newestWins<Ask>(
     waiting = { ask }
     const held = inFlight
     if (held !== undefined) {
-      await held
+      // The run in flight is somebody else's ask, so its throw is not this caller's to answer.
+      // Letting it through rejected every caller that only wanted to hand its ask over.
+      await held.catch(() => undefined)
       return undefined
     }
     let thrown: { readonly err: unknown } | undefined

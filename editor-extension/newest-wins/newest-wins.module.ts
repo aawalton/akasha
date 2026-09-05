@@ -41,6 +41,10 @@ export const newestWins = {
       statement: "Two runs that throw are answered with the first of the two throws.",
     },
     {
+      invariantKind: "departure",
+      statement: "A caller left waiting is answered with no throw from a run that is not its own.",
+    },
+    {
       invariantKind: "constraint",
       statement: "Every ask carries a whole picture, so the newest says what the ones before said.",
     },
