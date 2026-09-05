@@ -13,7 +13,7 @@ export const activityDefault = {
     },
     {
       invariantKind: "departure",
-      statement: "An activity already written keeps the identity it carries.",
+      statement: "An activity already written keeps the identity that activity carries.",
     },
     {
       invariantKind: "departure",
