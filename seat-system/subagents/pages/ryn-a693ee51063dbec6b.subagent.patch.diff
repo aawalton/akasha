@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/seat-system/seat-turn/seat-turn.domain.ts b/seat-system/seat-turn/seat-turn.domain.ts
-index f97845ad4c9617ca8623b920f6412266e691e540..6ceb1c6ee275b634317290ff80c266e1edd9c816 100644
+index f97845ad4c9617ca8623b920f6412266e691e540..c3ddc76e32023dede66591797c3f1b643c6d2036 100644
 --- a/seat-system/seat-turn/seat-turn.domain.ts
 +++ b/seat-system/seat-turn/seat-turn.domain.ts
 @@ -9,7 +9,7 @@ export const seatTurn = {
@@ -26,12 +26,17 @@ index f97845ad4c9617ca8623b920f6412266e691e540..6ceb1c6ee275b634317290ff80c266e1
      },
      {
        invariantKind: "departure",
-@@ -139,7 +139,7 @@ export const seatTurn = {
+@@ -139,11 +139,11 @@ export const seatTurn = {
      },
      {
        invariantKind: "departure",
 -      statement: "An idle seat is answered where the turn answered what the principal asked.",
 +      statement: "An idle seat is answered where the turn answered the principal's question.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An idle seat is unknown where nothing settled what the turn did.",
++      statement: "An idle seat is unknown where nothing settled the turn's outcome.",
      },
      {
        invariantKind: "departure",
