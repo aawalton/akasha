@@ -15,7 +15,7 @@ export const propertyPagesOnly = {
     },
     {
       invariantKind: "departure",
-      statement: "The name is judged before what the folder holds is judged.",
+      statement: "The name is judged before the files the folder holds are judged.",
     },
     {
       invariantKind: "departure",
