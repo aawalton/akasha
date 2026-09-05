@@ -61,7 +61,7 @@ function mustRun(argv: readonly string[], what: string): string | null {
     Date.now() - started >= PUSH_CEILING_MS
       ? `was still running after ${String(PUSH_CEILING_MS / A_SECOND)}s and was killed, so it is stuck rather than slow`
       : "failed"
-  return `${what} ${why}, so nothing it would have produced stands. It ran as \`${argv.join(" ")}\`.\n${done.err.trim()}`
+  return `${what} ${why}, so nothing it would have produced is there. It ran as \`${argv.join(" ")}\`.\n${done.err.trim()}`
 }
 
 function tagBody(contentHash: string): string {
@@ -119,11 +119,11 @@ export async function temperAddonBundlePublish(argv: readonly string[] = []): Pr
     const pushRef = `${pushRegistry}/${IMAGE_REPO}:${contentHash}`
 
     ran(["buildah", "rm", WORKING_CONTAINER], { timeout: PUSH_CEILING_MS })
-    const stood = mustRun(
+    const setUp = mustRun(
       ["buildah", "from", "--name", WORKING_CONTAINER, BASE_IMAGE],
-      "standing up the image base"
+      "setting up the image base"
     )
-    if (stood !== null) return refused(stood, FAILED)
+    if (setUp !== null) return refused(setUp, FAILED)
 
     let assembled: string | null
     try {

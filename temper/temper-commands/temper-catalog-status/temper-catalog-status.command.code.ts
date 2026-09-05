@@ -83,7 +83,7 @@ function summaryLines(
   return [
     ...said,
     sideFile === undefined
-      ? "the request file stands at nothing, so no collection is owed"
+      ? "the request file is not there, so no collection is owed"
       : `the request is version ${String(sideFile.invalidateVersion)} over ${JSON.stringify(sideFile.invalidateDomains)}`,
   ]
 }

@@ -208,7 +208,7 @@ export async function temperErrorsList(argv: readonly string[] = []): Promise<An
     content = readFileSync(errorsPath, "utf8")
   } catch (thrown) {
     return refused(
-      `no capture stands at ${errorsPath}, so there is no error to read: ${messageOf(thrown)}`,
+      `no capture is at ${errorsPath}, so there is no error to read: ${messageOf(thrown)}`,
       DATA
     )
   }

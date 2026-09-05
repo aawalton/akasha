@@ -103,7 +103,7 @@ export function temperAutoQuestTrace(argv: readonly string[] = []): Answer {
     content = readFileSync(tracePath, "utf8")
   } catch (thrown) {
     return refused(
-      `no capture stands at ${tracePath}, so there is no trace to read: ${messageOf(thrown)}`,
+      `no capture is at ${tracePath}, so there is no trace to read: ${messageOf(thrown)}`,
       DATA
     )
   }
