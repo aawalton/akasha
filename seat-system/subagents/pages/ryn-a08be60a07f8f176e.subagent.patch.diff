@@ -1,0 +1,16 @@
+diff --git a/command-system/commands/move/spreading/move-spreading.module.ts b/command-system/commands/move/spreading/move-spreading.module.ts
+index 8463c6b7f0d53c65b01722f07ea4f8a27e4f39cf..7143b32340f9a71ebf45f7f23c1202289e690a2a 100644
+--- a/command-system/commands/move/spreading/move-spreading.module.ts
++++ b/command-system/commands/move/spreading/move-spreading.module.ts
+@@ -22,10 +22,7 @@ export const moveSpreading = {
+       invariantKind: "departure",
+       statement: "A file keeps the place the file had beneath the folder the file moved with.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A folder arrives at the path the folder names rather than inside that path.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A file beside a page is left out of the pairs.",
