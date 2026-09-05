@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/land-files/monarch-land-files.module.code.ts b/alan/harness/monarch/land-files/monarch-land-files.module.code.ts
-index 31c67c707f68cb1b98516135c89d594f5fb94b41..9e5ff649d2807a279da27bab39c0f149d717c152 100644
+index 31c67c707f68cb1b98516135c89d594f5fb94b41..51e639085bc67c51a88460115e9b83025024243d 100644
 --- a/alan/harness/monarch/land-files/monarch-land-files.module.code.ts
 +++ b/alan/harness/monarch/land-files/monarch-land-files.module.code.ts
 @@ -123,7 +123,7 @@ async function existing(slug: string): Promise<readonly TransactionLine[]> {
@@ -77,6 +77,21 @@ index 31c67c707f68cb1b98516135c89d594f5fb94b41..9e5ff649d2807a279da27bab39c0f149
      }
    }
    if (touched.size === 0) return []
+@@ -344,11 +344,11 @@ export async function landTransactionFiles(
+   const items: WriteItem[] = []
+   const held: string[] = []
+   for (const [month, lines] of [...touched.entries()].sort()) {
+-    const standing = await existing(month)
+-    if (standing.length === 0) {
++    const already = await existing(month)
++    if (already.length === 0) {
+       items.push({ file_path: monthPagePath(month), content: monthPage(month) })
+     }
+-    const rows = merged(standing, lines, gone)
++    const rows = merged(already, lines, gone)
+     held.push(...rows.held)
+     items.push({ file_path: sidecarOf(month), content: sidecarText(rows.lines) })
+   }
 diff --git a/alan/harness/monarch/land-files/monarch-land-files.module.ts b/alan/harness/monarch/land-files/monarch-land-files.module.ts
 index 3649ed8dc88f0bb2a350087ae2d20e09f5f853a4..bb4d830ae29a8f2154dd87af6dc5da67d2b71a85 100644
 --- a/alan/harness/monarch/land-files/monarch-land-files.module.ts
