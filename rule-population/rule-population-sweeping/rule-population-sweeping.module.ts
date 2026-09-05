@@ -27,7 +27,11 @@ export const rulePopulationSweeping = {
     {
       invariantKind: "departure",
       statement:
-        "A rule weighing nothing may have had its construct retired out from under it, or may never have had a population at all.",
+        "A rule weighing nothing may have had its construct retired out from under that rule.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule weighing nothing may never have had a population at all.",
     },
     {
       invariantKind: "departure",
