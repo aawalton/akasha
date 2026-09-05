@@ -87,8 +87,7 @@ export const worldMechanic = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A mechanic is what the story says that mechanic is rather than what a rulebook says.",
+      statement: "A mechanic is as the story says that mechanic is rather than as a rulebook says.",
     },
     {
       invariantKind: "departure",
@@ -109,7 +108,7 @@ export const worldMechanic = {
     },
     {
       invariantKind: "departure",
-      statement: "Every kind of mechanic carries what the base carries and adds nothing.",
+      statement: "Every kind of mechanic carries the properties the base carries and adds nothing.",
     },
     {
       invariantKind: "departure",
