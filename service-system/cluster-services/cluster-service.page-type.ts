@@ -119,7 +119,8 @@ export const clusterService = {
     },
     {
       invariantKind: "departure",
-      statement: "A cluster service's page states the shape of the workload it is.",
+      statement:
+        "A cluster service's page states the shape of the workload that cluster service is.",
     },
     {
       invariantKind: "departure",
