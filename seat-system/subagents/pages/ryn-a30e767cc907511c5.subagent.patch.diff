@@ -1,14 +1,20 @@
 diff --git a/temper/temper-addon-data/page-row-totals/page-row-totals.module.ts b/temper/temper-addon-data/page-row-totals/page-row-totals.module.ts
-index 518caa05173ccda5b4a7654d51f982ddd8c397ca..d841f09d08ab93fc4500e712db0a8ec4e091627f 100644
+index 518caa05173ccda5b4a7654d51f982ddd8c397ca..71f58733543dc0aab911e3e78915aacb935acafe 100644
 --- a/temper/temper-addon-data/page-row-totals/page-row-totals.module.ts
 +++ b/temper/temper-addon-data/page-row-totals/page-row-totals.module.ts
-@@ -9,7 +9,8 @@ export const pageRowTotals = {
+@@ -9,11 +9,13 @@ export const pageRowTotals = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "A total is keyed by the page type slug rather than by the accessor reading it.",
 +      statement:
 +        "A total is keyed by the page type slug rather than by the accessor reading that page type.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page type is named here whether or not a section renders anything from it.",
++      statement:
++        "A page type is named here whether or not a section renders anything from that page type.",
      },
      {
        invariantKind: "departure",
