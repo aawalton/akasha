@@ -39,7 +39,7 @@ export const monarchEvalScore = {
     {
       invariantKind: "departure",
       statement:
-        "Rows the agent was confident and wrong about are shown with their reasons, because those are what a reader learns from.",
+        "Rows the agent was confident and wrong about are shown with their reasons, because those rows are what a reader learns from.",
     },
     {
       invariantKind: "absence",

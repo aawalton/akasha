@@ -10,7 +10,8 @@ export const productionStatus = {
   invariants: [
     {
       invariantKind: "gap",
-      statement: "The values are those the record holds rather than all the provider answers with.",
+      statement:
+        "The values are the ones the record holds rather than all the provider answers with.",
     },
   ],
 } as const satisfies SelectProperty

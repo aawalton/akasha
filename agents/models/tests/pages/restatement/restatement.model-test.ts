@@ -34,7 +34,7 @@ export const restatement = {
     {
       invariantKind: "constraint",
       statement:
-        "What this reads is the words rather than what a reader would build from the words.",
+        "What this test reads is the words rather than what a reader would build from the words.",
     },
   ],
 } as const satisfies ModelTest

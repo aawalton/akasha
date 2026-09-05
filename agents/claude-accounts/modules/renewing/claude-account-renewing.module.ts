@@ -71,7 +71,8 @@ export const claudeAccountRenewing = {
     },
     {
       invariantKind: "constraint",
-      statement: "The reading of the index and the reader of page bodies reach this as parameters.",
+      statement:
+        "The reading of the index and the reader of page bodies reach this module as parameters.",
     },
     {
       invariantKind: "constraint",

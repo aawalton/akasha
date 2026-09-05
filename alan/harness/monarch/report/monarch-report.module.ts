@@ -19,17 +19,17 @@ export const monarchReport = {
     {
       invariantKind: "departure",
       statement:
-        "A rule is scored only inside the trusted window, because categories older than that were not maintained and neither figure would measure the rule.",
+        "A rule is scored only inside the trusted window, because categories older than that window were not maintained and neither figure would measure the rule.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A disagreement inside the window is shown in full, because those are the ones worth arguing about.",
+        "A disagreement inside the window is shown in full, because those disagreements are the ones worth arguing about.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A reserving rule is reported by what category already stands on what it caught, grouped by the bank's own words, because that is where one merchant carrying two kinds of money shows.",
+        "A reserving rule is reported by what category already stands on what it caught, grouped by the bank's own words, because that grouping is where one merchant carrying two kinds of money shows.",
     },
     {
       invariantKind: "departure",

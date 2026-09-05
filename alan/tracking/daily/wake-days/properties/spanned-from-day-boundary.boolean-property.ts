@@ -11,7 +11,8 @@ export const spannedFromDayBoundary = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This says how the day was spanned rather than that a figure on it is wrong.",
+      statement:
+        "This property says how the day was spanned rather than that a figure on it is wrong.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +32,8 @@ export const spannedFromDayBoundary = {
     },
     {
       invariantKind: "departure",
-      statement: "A day the engine writes states this either way rather than only when true.",
+      statement:
+        "A day the engine writes states this property either way rather than only when true.",
     },
   ],
 } as const satisfies BooleanProperty
