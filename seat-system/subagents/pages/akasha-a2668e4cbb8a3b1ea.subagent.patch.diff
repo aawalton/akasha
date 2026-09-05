@@ -1,5 +1,5 @@
 diff --git a/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.code.ts b/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.code.ts
-index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d02f8b374 100644
+index 297e2b34f7765b4675cdf279d7478722108a2f01..9bdecfff324ecb0ab7e86cbb8f15662fbe2a2e81 100644
 --- a/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.code.ts
 +++ b/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.code.ts
 @@ -1,7 +1,10 @@
@@ -16,7 +16,7 @@ index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d
  import type { RawChapter } from "@akasha/royal-road/royal-road-pages"
  import {
    fetchHtml,
-@@ -11,160 +14,289 @@ import {
+@@ -11,160 +14,393 @@ import {
  } from "@akasha/royal-road/royal-road-pages"
  
  const ROOT = akashaRoot()
@@ -39,11 +39,18 @@ index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d
  const BATCH_CEILING = 50
 +const BYTES = new TextEncoder()
 +
++<<<<<<< what this change would leave
 +// A title is shortened to whole words at fifty characters, and the whole slug that title is
 +// written into is held to the hundred characters `slug` states as its max. The
 +// `page-matches-its-type` check refuses a page whose slug runs past that max, and the longest
 +// story slug here is 56 characters, which leaves 38 for the title rather than 50. Shortening the
 +// title alone would name a slug of 112 characters and the landing would be refused.
++=======
++// A title is shortened to whole words at fifty characters, and the whole slug is held to the
++// hundred `slug` states as its max. The longest story slug here is 56, which leaves 38 for the
++// title; shortening the title alone would name 112 characters and `page-matches-its-type` would
++// refuse the landing.
++>>>>>>> what HEAD holds
 +const TITLE_CEILING = 50
 +const SLUG_HOLDS = 100
 +
@@ -82,8 +89,12 @@ index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d
      out = `${out}-${word}`
    }
 -  return out
++<<<<<<< what this change would leave
 +  if (out.length <= ceiling) return out
 +  return out.slice(0, ceiling).replace(/-+$/, "")
++=======
++  return out.length <= ceiling ? out : out.slice(0, ceiling).replace(/-+$/, "")
++>>>>>>> what HEAD holds
 +}
 +
 +export function chapterPageSlug(
@@ -102,16 +113,27 @@ index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d
 +function textIn(row: Row, key: string): string | null {
 +  const held = row[key]
 +  return typeof held === "string" && held !== "" ? held : null
- }
- 
--interface Story {
--  readonly home: string
++<<<<<<< what this change would leave
++}
++
 +function listIn(row: Row, key: string): readonly string[] {
 +  const held = row[key]
 +  if (!Array.isArray(held)) return []
 +  return held.filter((one): one is string => typeof one === "string")
 +}
 +
++=======
++}
++
++function listIn(row: Row, key: string): readonly string[] {
++  const held = row[key]
++  if (!Array.isArray(held)) return []
++  return held.filter((one): one is string => typeof one === "string")
+ }
+ 
+-interface Story {
+-  readonly home: string
++>>>>>>> what HEAD holds
 +export interface Story {
    readonly slug: string
 -  readonly royalRoadId: string
@@ -135,9 +157,14 @@ index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d
 +    where: { source: { is: SOURCE } },
 +    keys: ["slug", "externalId", "worldSlug", "publicationStatus", "externalTags"],
 +  })
++<<<<<<< what this change would leave
 +  if ("refused" in asked) {
 +    throw new SyncRefused(`the stories to follow went unread: ${asked.refused}`)
 +  }
++=======
++  if ("refused" in asked)
++    throw new SyncRefused(`the stories to follow went unread: ${asked.refused}`)
++>>>>>>> what HEAD holds
 +  if (asked.rows.length === 0) {
 +    throw new SyncRefused(
 +      `${STORY_PAGE_TYPE} answered with no story read from ${SOURCE} at all. Royal road stories ` +
@@ -194,10 +221,16 @@ index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d
 +  const out: string[] = []
 +  for (const one of held) {
 +    if (typeof one !== "string" || one === "") continue
++<<<<<<< what this change would leave
 +    // Both the qualified address and the bare slug are in the store: 4,206 of the royal road
 +    // chapters on file say `story-read/<slug>` and 12,623 say `<slug>`. Reading only the
 +    // qualified form would answer nothing for a story filed the bare way, and every chapter of
 +    // that story would read as new and be filed a second time.
++=======
++    // Both forms are in the store: 4,206 royal road chapters say `story-read/<slug>` and 12,623
++    // say `<slug>`. Reading only the qualified one would answer nothing for a story filed the
++    // bare way, and every chapter of it would read as new and be filed a second time.
++>>>>>>> what HEAD holds
 +    out.push(one.startsWith(OPENS_WITH) ? one.slice(OPENS_WITH.length) : one)
 +  }
 +  return out
@@ -210,13 +243,6 @@ index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d
  
 -function readHeld(home: string): Held {
 -  const ids = new Set<string>()
--  const slugs = new Set<string>()
--  const dir = `${ROOT}/${CHAPTER_DIR}/${home}`
--  let files: readonly string[]
--  try {
--    files = readdirSync(dir)
--  } catch {
--    return { ids, slugs }
 +export function heldChapters(): Held {
 +  const asked = asking(ROOT, {
 +    pageTypeSlug: CHAPTER_PAGE_TYPE,
@@ -227,6 +253,7 @@ index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d
 +      `the chapters already filed went unread, so every chapter royal road lists would read as ` +
 +        `new and be filed a second time: ${asked.refused}`
 +    )
++<<<<<<< what this change would leave
 +  }
 +  if (asked.rows.length === 0) {
 +    throw new SyncRefused(
@@ -234,6 +261,20 @@ index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d
 +        `empty answer is a broken read rather than an empty shelf, and syncing on it would file ` +
 +        `every chapter a second time.`
 +    )
++  }
+   const slugs = new Set<string>()
+-  const dir = `${ROOT}/${CHAPTER_DIR}/${home}`
+-  let files: readonly string[]
+-  try {
+-    files = readdirSync(dir)
+-  } catch {
+-    return { ids, slugs }
++  const idsByStory = new Map<string, Set<string>>()
++  for (const row of asked.rows) {
++    const slug = textIn(row, "slug")
++    // A name is taken by every chapter on file rather than by the chapters of one story: the
++    // chapters are filed flat in one folder now, and a slug is alone among the pages of its type.
++=======
    }
 -  for (const file of files) {
 -    if (!file.endsWith(".md")) continue
@@ -241,12 +282,19 @@ index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d
 -    const id = textField(fm, "royalRoadId")
 -    if (id !== null) ids.add(id)
 -    const slug = textField(fm, "slug")
++  if (asked.rows.length === 0) {
++    throw new SyncRefused(
++      `${CHAPTER_PAGE_TYPE} answered with no chapter at all. Chapters are on file here, so an ` +
++        `empty answer is a broken read rather than an empty shelf, and syncing on it would file ` +
++        `every chapter a second time.`
++    )
++  }
 +  const slugs = new Set<string>()
 +  const idsByStory = new Map<string, Set<string>>()
 +  for (const row of asked.rows) {
++    // A name is taken by every chapter rather than by one story's: the chapters are filed flat.
 +    const slug = textIn(row, "slug")
-+    // A name is taken by every chapter on file rather than by the chapters of one story: the
-+    // chapters are filed flat in one folder now, and a slug is alone among the pages of its type.
++>>>>>>> what HEAD holds
      if (slug !== null) slugs.add(slug)
 +    if (row["source"] !== SOURCE) continue
 +    const id = textIn(row, "externalId")
@@ -269,6 +317,7 @@ index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d
  }
  
 -export function composeChapter(
++<<<<<<< what this change would leave
 +export function chapterValues(
 +  story: Story,
    chapter: RawChapter,
@@ -297,11 +346,31 @@ index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d
 -  ]
 -  return lines.join("\n")
 +): Value {
++=======
++export function filedChapter(
++  story: Story,
++  chapter: RawChapter,
++  text: string,
++  wordCount: number,
++  taken: Set<string>
++): Filed {
++  const position = chapter.order + 1
++  const stem = chapterPageSlug(story.slug, position, chapter.title, chapter.id, 0)
++  const room = chapter.id.length + 1
++  const slug = taken.has(stem)
++    ? `${chapterPageSlug(story.slug, position, chapter.title, chapter.id, room)}-${chapter.id}`
++    : stem
++  taken.add(slug)
++>>>>>>> what HEAD holds
 +  const values: Value = {
 +    pageTypeSlug: CHAPTER_PAGE_TYPE,
 +    slug,
 +    title: chapter.title,
++<<<<<<< what this change would leave
 +    [PART_OF]: [storyAddress(story.slug)],
++=======
++    [PART_OF]: [`${OPENS_WITH}${story.slug}`],
++>>>>>>> what HEAD holds
 +    position,
 +    ownLength: wordCount,
 +    unitSlug: WORDS,
@@ -312,6 +381,7 @@ index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d
 +  }
 +  const day = chapter.date.slice(0, 10)
 +  if (DAY.test(day)) values["publishedAt"] = day
++<<<<<<< what this change would leave
 +  return values
  }
  
@@ -356,6 +426,28 @@ index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d
 +}
  
 -function restatedStory(
++=======
++  const named = `${CHAPTER_PAGE_TYPE}/${slug}`
++  const composed = composedFor(ROOT, { pageTypeSlug: CHAPTER_PAGE_TYPE, slug, values })
++  if ("refused" in composed) {
++    throw new SyncRefused(`${named} was composed by nothing: ${composed.refused}`)
++  }
++  const beside = besideAt(composed.put.path, PROSE, TXT)
++  if (beside === null) {
++    throw new SyncRefused(
++      `${composed.put.path} is no page file, so its prose has no name beside it`
++    )
++  }
++  return {
++    named,
++    changes: [
++      { path: composed.put.path, body: BYTES.encode(composed.put.content) },
++      { path: beside, body: BYTES.encode(text) },
++    ],
++  }
++}
++
++>>>>>>> what HEAD holds
 +export function restatementFor(
    story: Story,
    status: string | null,
@@ -379,6 +471,10 @@ index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d
 +}
 +
 +export function restatedStory(story: Story, values: Value): Filed {
++<<<<<<< what this change would leave
++=======
++  const named = `${STORY_PAGE_TYPE}/${story.slug}`
++>>>>>>> what HEAD holds
 +  const composed = composedFor(ROOT, {
 +    pageTypeSlug: STORY_PAGE_TYPE,
 +    slug: story.slug,
@@ -386,19 +482,26 @@ index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d
 +    merge: true,
 +  })
 +  if ("refused" in composed) {
++<<<<<<< what this change would leave
 +    throw new SyncRefused(
 +      `${STORY_PAGE_TYPE}/${story.slug} was composed by nothing: ${composed.refused}`
 +    )
 +  }
 +  return {
 +    named: `${STORY_PAGE_TYPE}/${story.slug}`,
++=======
++    throw new SyncRefused(`${named} was composed by nothing: ${composed.refused}`)
++  }
++  return {
++    named,
++>>>>>>> what HEAD holds
 +    changes: [{ path: composed.put.path, body: BYTES.encode(composed.put.content) }],
    }
 -  return body === story.body ? null : body
  }
  
  interface Counts {
-@@ -173,22 +305,24 @@ interface Counts {
+@@ -173,28 +409,32 @@ interface Counts {
    failed: number
    restated: number
    refused: number
@@ -425,10 +528,23 @@ index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d
    const pending = fiction.chapters.filter(
 -    (one) => one.visible && one.isUnlocked && !held.ids.has(one.id)
 +    (one) => one.visible && one.isUnlocked && !ids.has(one.id)
++<<<<<<< what this change would leave
++=======
++  )
++  const listed = `${story.slug}: ${fiction.chapters.length} listed`
++  console.log(
++    pending.length === 0 ? `  ${listed}, nothing new` : `  ${listed}, ${pending.length} new`
++>>>>>>> what HEAD holds
    )
-   if (pending.length === 0) {
-     console.log(`  ${story.slug}: ${fiction.chapters.length} listed, nothing new`)
-@@ -213,17 +347,9 @@ async function syncStory(
+-  if (pending.length === 0) {
+-    console.log(`  ${story.slug}: ${fiction.chapters.length} listed, nothing new`)
+-  } else {
+-    console.log(`  ${story.slug}: ${fiction.chapters.length} listed, ${pending.length} new`)
+-  }
+ 
+   for (const chapter of pending) {
+     if (budget.left <= 0) {
+@@ -213,17 +453,9 @@ async function syncStory(
          counts.failed += 1
          continue
        }
@@ -449,7 +565,7 @@ index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d
        counts.composed += 1
      } catch (error) {
        console.log(`    failed: ${chapter.title} — ${String(error)}`)
-@@ -231,32 +357,43 @@ async function syncStory(
+@@ -231,32 +463,54 @@ async function syncStory(
      }
    }
  
@@ -461,10 +577,16 @@ index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d
 +  const wanted = restatementFor(story, fiction.meta.status, fiction.meta.tags)
 +  if (wanted === null) return
 +  if (story.worldSlug === null) {
++<<<<<<< what this change would leave
 +    // `worldSlug` is required on a story read, and royal road answers with nothing that could
 +    // serve as one: which world a story is of is a reading of the story. Restating the page would
 +    // compose it again with no world, the check would refuse the whole batch, and every chapter
 +    // landing beside it would go down with it.
++=======
++    // `worldSlug` is required on a story read and royal road answers with nothing that could
++    // serve as one. Restating would compose the page again with no world, the check would refuse
++    // the whole batch, and every chapter landing beside it would go down with it.
++>>>>>>> what HEAD holds
 +    console.log(
 +      `    ${story.slug} not restated: ${STORY_PAGE_TYPE}/${story.slug} states no worldSlug and ` +
 +        `${SOURCE} answers with none. Put a world on that page by hand before it restates.`
@@ -491,8 +613,13 @@ index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d
 +export async function landInBatches(filing: readonly Filed[], counts: Counts): Promise<void> {
 +  for (let at = 0; at < filing.length; at += BATCH_CEILING) {
 +    const batch = filing.slice(at, at + BATCH_CEILING)
++<<<<<<< what this change would leave
 +    // A page and the prose beside it go into one commit: a commit carrying the page alone states
 +    // a `prose` file that is not there.
++=======
++    // A page and its prose go into one commit: a commit carrying the page alone states a file
++    // that is not there.
++>>>>>>> what HEAD holds
 +    const changes = batch.flatMap((one) => [...one.changes])
 +    const answer = await landedMechanically(
 +      ROOT,
@@ -513,7 +640,7 @@ index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d
    }
  }
  
-@@ -265,45 +402,58 @@ export async function main(argv: readonly string[]): Promise<number> {
+@@ -265,45 +519,62 @@ export async function main(argv: readonly string[]): Promise<number> {
    const limitRaw = argv.includes("--limit") ? argv[argv.indexOf("--limit") + 1] : undefined
    const budget = { left: limitRaw === undefined ? Number.MAX_SAFE_INTEGER : Number(limitRaw) }
  
@@ -560,11 +687,15 @@ index 297e2b34f7765b4675cdf279d7478722108a2f01..c76eb8a37a0c412ea14bbc0e3e7acd7d
 -    await landInBatches(landing, counts)
 +    await landInBatches(filing, counts)
    } else {
++<<<<<<< what this change would leave
      console.log(
 -      `${landing.length} file(s) composed and not landed; pass --commit to put them through the write command`
 +      `${filing.length} page(s) composed and not landed; pass --commit to put them through the write command`
      )
 -    for (const one of landing) console.log(`    ${one.relPath}`)
++=======
++    console.log(`${filing.length} page(s) composed and not landed; --commit lands them`)
++>>>>>>> what HEAD holds
 +    for (const one of filing) for (const change of one.changes) console.log(`    ${change.path}`)
    }
  
