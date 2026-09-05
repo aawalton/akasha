@@ -17,7 +17,8 @@ export const championsTree = {
     },
     {
       invariantKind: "departure",
-      statement: "A parent's sequence places the children it names ahead of the ones it does not.",
+      statement:
+        "A parent's sequence places the children that sequence names ahead of the ones the sequence does not.",
     },
     {
       invariantKind: "departure",
