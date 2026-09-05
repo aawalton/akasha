@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/testing-system/bodying/bodying.module.ts b/testing-system/bodying/bodying.module.ts
+index 79e99c4f7a06121ba30d9d75830cda054358250e..badf291c30b67aea50521c742a8896dbc40dcd2b 100644
+--- a/testing-system/bodying/bodying.module.ts
++++ b/testing-system/bodying/bodying.module.ts
+@@ -25,7 +25,7 @@ export const bodying = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a test binds is what the test was handed rather than a function of its own.",
++      statement: "A test binds the way the test was handed rather than a function of its own.",
+     },
+   ],
+ } as const satisfies Module
