@@ -22,7 +22,7 @@ export const pageComputing = {
     },
     {
       invariantKind: "departure",
-      statement: "A number that is not finite remains in what a page carries.",
+      statement: "A number that is not finite remains in the values a page carries.",
     },
     {
       invariantKind: "departure",
