@@ -9,7 +9,7 @@ export const temperDeclaredEffects = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Registering the verb is what loading this module is for.",
+      statement: "Loading this module is for registering the verb.",
     },
     {
       invariantKind: "departure",
