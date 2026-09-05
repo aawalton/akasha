@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/fitness/commands/exercise-constraint-set/exercise-constraint-set.command.ts b/alan/fitness/commands/exercise-constraint-set/exercise-constraint-set.command.ts
+index b18ebddd39afaf9325d833362b70d98062be1a83..1a29c731c51b980530be5e6d0236fee8b4c1496f 100644
+--- a/alan/fitness/commands/exercise-constraint-set/exercise-constraint-set.command.ts
++++ b/alan/fitness/commands/exercise-constraint-set/exercise-constraint-set.command.ts
+@@ -39,7 +39,7 @@ export const exerciseConstraintSet = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A field the call does not name is left as it was.",
++      statement: "A field the call does not name is left as that field was.",
+     },
+     {
+       invariantKind: "departure",
