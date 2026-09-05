@@ -47,8 +47,7 @@ export const storyRead = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A story read carries the words of whoever wrote the story rather than akasha's own.",
+      statement: "A story read carries the words of the story's writer rather than akasha's own.",
     },
     {
       invariantKind: "departure",
@@ -64,7 +63,7 @@ export const storyRead = {
     },
     {
       invariantKind: "departure",
-      statement: "The text a story carries here is what the source says the story is about.",
+      statement: "The text a story carries here is the description the source gives the story.",
     },
     {
       invariantKind: "departure",
