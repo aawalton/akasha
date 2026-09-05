@@ -70,7 +70,8 @@ export const inFlight = {
     },
     {
       invariantKind: "departure",
-      statement: "A timer firing while it is being armed is stopped once the arming returns.",
+      statement:
+        "A timer firing while that timer is being armed is stopped once the arming returns.",
     },
     {
       invariantKind: "departure",
