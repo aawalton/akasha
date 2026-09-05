@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-catalog/temper-gear/properties/item-level.text-property.ts b/temper/temper-catalog/temper-gear/properties/item-level.text-property.ts
+index 66850af46be8c30019133c4ec4f3269339d7da7b..ec42a927676adbe257b20d858a879fc77d097cb8 100644
+--- a/temper/temper-catalog/temper-gear/properties/item-level.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/item-level.text-property.ts
+@@ -13,7 +13,7 @@ export const itemLevel = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A level reading Scaled follows whoever carries the item.",
++      statement: "A level reading Scaled follows the character carrying the item.",
+     },
+   ],
+ } as const satisfies TextProperty
