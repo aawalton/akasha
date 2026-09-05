@@ -28,3 +28,19 @@ index 9e4565389bf4cf089897dc71160c503cb78c763e..7018d4773af6f7b06189ac8c5063c8c4
      {
        invariantKind: "departure",
        statement: "A chapter's text from before a rewrite is kept in git rather than in a page.",
+diff --git a/story/story-chapters-read/story-chapter-read.page-type.ts b/story/story-chapters-read/story-chapter-read.page-type.ts
+index 4a81b7cd9aa008db1527b76f1d6fc3cf9e1465ba..596c676419f5bcd9b91d78478c75528b0a93a9ad 100644
+--- a/story/story-chapters-read/story-chapter-read.page-type.ts
++++ b/story/story-chapters-read/story-chapter-read.page-type.ts
+@@ -90,10 +90,7 @@ export const storyChapterRead = {
+       invariantKind: "departure",
+       statement: "A chapter is part of the one story the chapter was read in.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A chapter's slug opens with the story the chapter is part of.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "The source a chapter came from is the one its story names.",
