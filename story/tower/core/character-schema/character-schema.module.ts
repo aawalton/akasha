@@ -17,7 +17,8 @@ export const characterSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "A sheet carries the fields the shape does not name rather than losing them.",
+      statement:
+        "A sheet carries the fields the shape does not name rather than losing those fields.",
     },
     {
       invariantKind: "departure",
