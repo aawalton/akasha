@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-eso-paths/eso-paths-resolve/eso-paths-resolve.module.ts b/temper/temper-eso-paths/eso-paths-resolve/eso-paths-resolve.module.ts
+index a81f549075446bdde5eb2eb5ef53ed9933b28c5e..40b5d5802d80e69a29df9317c558fd6dab2ee6d8 100644
+--- a/temper/temper-eso-paths/eso-paths-resolve/eso-paths-resolve.module.ts
++++ b/temper/temper-eso-paths/eso-paths-resolve/eso-paths-resolve.module.ts
+@@ -22,7 +22,7 @@ export const esoPathsResolve = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A caller may hand in what counts as present.",
++      statement: "A caller may hand in the test that says a candidate is present.",
+     },
+     {
+       invariantKind: "departure",
