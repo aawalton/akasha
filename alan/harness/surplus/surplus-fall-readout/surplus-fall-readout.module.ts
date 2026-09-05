@@ -60,10 +60,6 @@ export const surplusFallReadout = {
     },
     {
       invariantKind: "departure",
-      statement: "A day page declares no surplus-hours key and no sleep-hours key.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The whole day is asked for rather than keys the day page has nothing for.",
     },
     {

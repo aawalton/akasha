@@ -75,5 +75,9 @@ export const computedProperty = {
       invariantKind: "departure",
       statement: "A calculation answering absent puts no key in the row.",
     },
+    {
+      invariantKind: "absence",
+      statement: "No calculation is written as an expression the system parses.",
+    },
   ],
 } as const satisfies PageType

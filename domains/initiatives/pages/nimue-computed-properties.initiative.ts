@@ -24,21 +24,6 @@ export const nimueComputedProperties = {
         "`calculation-imports-only-types` is landed and judging at every phase. It refuses a value import in a computed property's code file, which typecheck passes and which fails only at query time. Proved by a seeded import that resolves: one refusal, typecheck silent. Left here: that the one export is named `work`, which `workIn` already states so a second statement would be one rule in two files, and that `holds` agrees with the return type.",
     },
     {
-      statement: "A cycle among calculations is refused by name rather than run.",
-      workingMemory:
-        "Transitive computed properties are supported, so one page's calculation may read another's and that one may read back. The evaluator carries a stack of pageId#propertySlug frames, entering a lazy getter pushes one, and a frame already there is the ring. Refuse in the shape `unworked` already uses at page-asking line 263: name the key, name the fault, then name every key darkened by it.",
-    },
-    {
-      statement: "No calculation is written as an expression the system parses.",
-      workingMemory:
-        "No formula-property page remains in akasha, the page type itself is gone, and `holds` moved to computed-properties keeping its id. Sixteen went from wake-day, twelve from collection, and three on persona-day were ablated because that page type is being rebuilt. Each answered exactly what the formula answered, measured over every page of its type. The parser is gone: `pages/formula` is deleted whole, a color rule being a function a property definition carries rather than a string.",
-    },
-    {
-      statement: "Sleep hours and surplus hours answer from a calculation.",
-      workingMemory:
-        "All three answer now, over the day's own session rows. Of 137 days, 68 answer a number and 69 absent, matching the 68 `.sessions.jsonl` sidecars, and 64 answer sleep above zero, matching the 64 days holding a sleep-titled row. No reverse relation and no evaluator change was needed: `entriedValue` already swaps the `sessions` string for the parsed rows before a calculation runs. The old markdown deriver summed over `session-tracking`, whose `files: none` left it no page.",
-    },
-    {
       statement: "No page query sums a key no page type declares.",
       workingMemory:
         "Two of eight reducers are healthy: activity-calories-on-day, 18286 over 137 wake-days, and food-entry-plants-since-waking. episodes-watched and episodes-watched-on-day sum ownLength, which episode declares: 3273 over 147 unfiltered, null narrowed, no episode carrying completedAt. An absent key and an unwritten declared one both read 0; only `declared` parts them. Left: sleep-hours-on-day and surplus-hours-on-day, targets under no spelling, and the two claude-account queries, keys uncommitted.",
