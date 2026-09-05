@@ -1,0 +1,19 @@
+diff --git a/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts b/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
+index 56dcf05e748b00bc3e8e2fa7e07cf9dbdf737286..3ecabfbf41a9660852de87b1f237a3032f491cfa 100644
+--- a/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
++++ b/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
+@@ -41,12 +41,12 @@ export const athenaCommandsAtTheRoot = {
+     {
+       statement: "There are no remaining ops cli commands.",
+       workingMemory:
+-        "18 ops commands sit under `command-system/ops-commands/pages`, 8 seat and 7 tracking among them, plus claude-account-sync-aliases, exercise-digest, mobile-widget-emit and page-unlanded. Alan ruled these do not go to the root: they are reviewed and many removed, and only akasha commands sit at the root. `command-system/ops-calling` is a second dispatcher, `block-ops-cli` bars an agent from calling one, and `seat-system/seat-fleet-restart` calls one.",
++        "15 ops pages remain under `command-system/ops-commands/pages`, 8 tracking among them. `dotfiles/bin/ops` went at 5b4ac772da, so every ops call was already dead: `sn` died at `ops seat start`, and five editor seat acts died with it. resume, reset and start are `akasha seat` subcommands now and their three pages went. `command-system/ops-calling` is still a second dispatcher with no test, and `block-ops-cli` still bars an agent from calling one.",
+     },
+     {
+       statement: "Nothing names a command by its path.",
+       workingMemory:
+-        "Every hazard in carrying 42 commands to the root was a path spelling. The mover repoints what contains a path: `ROOTED_AT` in calling, two `COMMAND_AT` in editor-extension, a dynamic import in command-server, `CODE_AT` and `PAGE_AT` in index.command.test.ts. It cannot repoint arithmetic, which never spells a path: `import.meta.dir` with `../../..` broke compose-notices, read and move, and ios-app passed 12 tests with a root above the checkout.",
++        "Met for the editor and the shell. The mover repoints a whole path in a literal but never a prefix assembled at runtime: `COMMANDS_AT` was stale in harness-call and in command-server, and `ENDED_DIR` named a folder gone since 648fe2d287. Each was invisible for one reason and none had a test. harness-call assembles two paths now, both covered by a test proven against a seeded fault. `REPAIR_AT` in calling is left, naming a file in a message rather than in dispatch.",
+     },
+   ],
+   constraints: [
