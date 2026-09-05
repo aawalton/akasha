@@ -79,7 +79,7 @@ export const measure = {
     },
     {
       invariantKind: "departure",
-      statement: "What a fleet has spent is read upstream before the fleet is answered.",
+      statement: "A fleet's usage is read upstream before the fleet is answered.",
     },
     {
       invariantKind: "departure",
@@ -88,11 +88,11 @@ export const measure = {
     {
       invariantKind: "departure",
       statement:
-        "An account that was not refreshed is answered from what was already beside its page.",
+        "An account that was not refreshed is answered from the usage already beside its page.",
     },
     {
       invariantKind: "departure",
-      statement: "What a call cost is what the api charges rather than what a subscription cost.",
+      statement: "A call's cost is the api's charge rather than a subscription's cost.",
     },
     {
       invariantKind: "absence",
