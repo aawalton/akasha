@@ -1,5 +1,5 @@
 diff --git a/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts b/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts
-index e7519b745ed9c92652027b2697f7066fc01fa618..c62ed5a77d602b15bf603a60cfe20e7d741e6304 100644
+index e7519b745ed9c92652027b2697f7066fc01fa618..34ec1a64c5eebd9d2c85c22613cc2a2ecd7a6d69 100644
 --- a/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts
 +++ b/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts
 @@ -10,7 +10,8 @@ export const claudeAccountCredentialFile = {
@@ -9,6 +9,15 @@ index e7519b745ed9c92652027b2697f7066fc01fa618..c62ed5a77d602b15bf603a60cfe20e7d
 -      statement: "A credential file is named `.credentials.json` inside the directory it is given.",
 +      statement:
 +        "A credential file is named `.credentials.json` inside the directory that file is given.",
+     },
+     {
+       invariantKind: "departure",
+@@ -20,7 +21,7 @@ export const claudeAccountCredentialFile = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A write of an empty access token or an empty refresh token leaves the file as it is.",
++        "A write of an empty access token or an empty refresh token leaves the file as that file is.",
      },
      {
        invariantKind: "departure",
