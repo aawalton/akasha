@@ -20,11 +20,6 @@ export const renamePropertySignature = {
       invariantKind: "departure",
       statement: "A type written as an intersection declares the members of each part it spells.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "Which files name the declaring file is asked of the index rather than walked for.",
-    },
 
     {
       invariantKind: "departure",

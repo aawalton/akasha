@@ -17,11 +17,6 @@ export const renameExport = {
       statement:
         "A page's export is its slug, and renaming that is a slug rename rather than this.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "Which files name the declaring file is asked of the index rather than walked for.",
-    },
 
     {
       invariantKind: "departure",
