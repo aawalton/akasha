@@ -1,0 +1,15 @@
+diff --git a/command-system/commands/move/move.command.ts b/command-system/commands/move/move.command.ts
+index 27c10438ee688802b3a654fea201dc325c77d2db..ba0dbb80ae7cc3f3fc93757c0e352d9a3f063e74 100644
+--- a/command-system/commands/move/move.command.ts
++++ b/command-system/commands/move/move.command.ts
+@@ -298,10 +298,6 @@ export const move = {
+       invariantKind: "absence",
+       statement: "A file the index already repointed is not repointed a second time.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A relative path is resolved against the folder of the file carrying that path.",
+-    },
+     {
+       invariantKind: "departure",
+       statement:
