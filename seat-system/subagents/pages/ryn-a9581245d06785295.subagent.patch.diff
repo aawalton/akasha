@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/testing-system/waiting/waiting.module.ts b/testing-system/waiting/waiting.module.ts
+index 79abfc9f91a408c89c9e06905e77b1593f248dcb..d862bf96360e3a5002d1ba2e3157e2b4b4954c15 100644
+--- a/testing-system/waiting/waiting.module.ts
++++ b/testing-system/waiting/waiting.module.ts
+@@ -17,7 +17,7 @@ export const waiting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "It is asked once more after time is up.",
++      statement: "What is waited for is asked once more after time is up.",
+     },
+   ],
+ } as const satisfies Module
