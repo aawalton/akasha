@@ -128,3 +128,17 @@ index 90bcd6d768a4a6d3ff373a843aa85076724d90f7..5a5a5f6df0904dc3f106a401b4f08e73
      },
      {
        invariantKind: "departure",
+diff --git a/service-system/workstation-services/tick-sleeping/tick-sleeping.module.ts b/service-system/workstation-services/tick-sleeping/tick-sleeping.module.ts
+index 96f42c6d1d68fde28f1d617b2e6a322bba0e5af0..4c6828d060fccde772af5a54f44b340fedfae11a 100644
+--- a/service-system/workstation-services/tick-sleeping/tick-sleeping.module.ts
++++ b/service-system/workstation-services/tick-sleeping/tick-sleeping.module.ts
+@@ -29,8 +29,7 @@ export const tickSleeping = {
+     },
+     {
+       invariantKind: "absence",
+-      statement:
+-        "No service that keeps running writes this wait for itself, so no two of them drift on how a stop is honoured.",
++      statement: "No service that keeps running writes this wait for itself.",
+     },
+   ],
+ } as const satisfies Module
