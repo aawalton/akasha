@@ -25,7 +25,7 @@ export const temperWatcherStatus = {
     {
       invariantKind: "departure",
       statement:
-        "How long the watcher has been up is read from what the watcher wrote when the watcher started.",
+        "How long the watcher has been up is read from the file the watcher wrote when the watcher started.",
     },
     {
       invariantKind: "departure",
