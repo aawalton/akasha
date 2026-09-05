@@ -1,0 +1,13 @@
+diff --git a/checks/modules/check-cost/check-cost.module.ts b/checks/modules/check-cost/check-cost.module.ts
+index 8ca2d915539497120bb517cd70202a182acf7ddf..2c5212380e2fee3c292fd81e89ae5fcb9c497b84 100644
+--- a/checks/modules/check-cost/check-cost.module.ts
++++ b/checks/modules/check-cost/check-cost.module.ts
+@@ -22,7 +22,7 @@ export const checkCost = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The high-water mark is forgotten before a run, so the mark after it is that run's own peak.",
++        "The high-water mark is forgotten before a run, so the mark after that run is that run's own peak.",
+     },
+     {
+       invariantKind: "departure",
