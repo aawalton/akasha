@@ -30,7 +30,7 @@ export const workTreeRows = {
     {
       invariantKind: "departure",
       statement:
-        "The shape sits here so the parser and the coloring hold one edge between them rather than two.",
+        "The shape sits here so the parser and the coloring share one edge rather than two.",
     },
     {
       invariantKind: "absence",
