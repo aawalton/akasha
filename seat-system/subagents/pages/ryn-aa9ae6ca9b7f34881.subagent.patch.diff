@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/terminal-init/terminal-bash/terminal-bash.module.ts b/seat-system/terminal-init/terminal-bash/terminal-bash.module.ts
+index 9ab95c8cc988c04de487664e40880d2f72608be9..42f5fb946f866bfb4da711698bb9234000294999 100644
+--- a/seat-system/terminal-init/terminal-bash/terminal-bash.module.ts
++++ b/seat-system/terminal-init/terminal-bash/terminal-bash.module.ts
+@@ -10,7 +10,8 @@ export const terminalBash = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The text is composed whole rather than patched onto what a terminal already has.",
++      statement:
++        "The text is composed whole rather than patched onto the bash a terminal already has.",
+     },
+     {
+       invariantKind: "departure",
