@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/capacity/reading/capacity-reading.module.ts b/alan/harness/capacity/reading/capacity-reading.module.ts
+index 56ed4bb66584a43cb60369f08d9a2950dcb4a0bf..497f38e30d101b03e12e49ba6266770b81ab85ba 100644
+--- a/alan/harness/capacity/reading/capacity-reading.module.ts
++++ b/alan/harness/capacity/reading/capacity-reading.module.ts
+@@ -25,7 +25,7 @@ export const capacityReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What to ask and how to read the answer are on the readout's own page.",
++      statement: "The query to ask and how to read the answer are on the readout's own page.",
+     },
+     {
+       invariantKind: "absence",
