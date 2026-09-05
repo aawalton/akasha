@@ -1,5 +1,5 @@
 diff --git a/story/wandering-inn/chapter-filing/chapter-filing.module.code.ts b/story/wandering-inn/chapter-filing/chapter-filing.module.code.ts
-index ebe61f509ccf4657d47ff9b0b75162a05e2dc45a..44a2371091c0ffeccff36d5ce70c8999b7ac0e33 100644
+index ebe61f509ccf4657d47ff9b0b75162a05e2dc45a..661e25ecd461a4cf46b9fb5279e5f596ac6fdd13 100644
 --- a/story/wandering-inn/chapter-filing/chapter-filing.module.code.ts
 +++ b/story/wandering-inn/chapter-filing/chapter-filing.module.code.ts
 @@ -23,7 +23,7 @@ const BYTES = new TextEncoder()
@@ -11,6 +11,15 @@ index ebe61f509ccf4657d47ff9b0b75162a05e2dc45a..44a2371091c0ffeccff36d5ce70c8999
    const asked = asking(akashaRoot(), {
      pageTypeSlug: STORY_PAGE_TYPE,
      where: { slug: { is: STORY_SLUG } },
+@@ -35,7 +35,7 @@ export function assertStoryStands(): undefined {
+   }
+   if (asked.rows.length === 0) {
+     throw new FilingRefused(
+-      `no page stands at ${STORY_PAGE_TYPE}/${STORY_SLUG}, so a chapter filed under it would ` +
++      `no page is at ${STORY_PAGE_TYPE}/${STORY_SLUG}, so a chapter filed under it would ` +
+         `hang off a story that is not there`
+     )
+   }
 diff --git a/story/wandering-inn/site/site.module.code.ts b/story/wandering-inn/site/site.module.code.ts
 index 153f1704063bf8633bd40453193df9ec6a78703d..2d21bbc218facdba0dd7926661bccd20676defc8 100644
 --- a/story/wandering-inn/site/site.module.code.ts
