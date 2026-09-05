@@ -1,3 +1,16 @@
+diff --git a/seat-system/resume-seat/resume-seat.module.code.ts b/seat-system/resume-seat/resume-seat.module.code.ts
+index c58f250569588b3f78627417c6ffc1ef8649a261..1d675240a9ca58de3584ace6471073f2fc06ce3c 100644
+--- a/seat-system/resume-seat/resume-seat.module.code.ts
++++ b/seat-system/resume-seat/resume-seat.module.code.ts
+@@ -91,7 +91,7 @@ export async function resumeSeat(
+   if (guard.kind === "reject") {
+     throw dataError(
+       `agent '${name}' is already live — stop it first with \`akasha seat supervisor stop ${name}\`. ` +
+-        "`ops seat resume` reaches this only where nothing live holds the seat; against a live " +
++        "`akasha seat resume` reaches this only where nothing live holds the seat; against a live " +
+         "one it cycles the seat in place rather than launching a second supervisor over it."
+     )
+   }
 diff --git a/seat-system/seat-flex/seat-flex.module.code.ts b/seat-system/seat-flex/seat-flex.module.code.ts
 index daf567565ddec2cc53a22ff146cffc8a5dd592b0..5256592c77739042ee6d1d065c82257e9a21d385 100644
 --- a/seat-system/seat-flex/seat-flex.module.code.ts
