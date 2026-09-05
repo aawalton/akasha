@@ -96,3 +96,17 @@ index 1f16ca891a5ef83e6eaee58b11a56341154abebf..d451cdd42f8f6f13d9745555a4f91caa
 -    },
    ],
  } as const satisfies Module
+diff --git a/temper/temper-game-catalog-capture-host/zone-completion-catalog-schema/zone-completion-catalog-schema.module.ts b/temper/temper-game-catalog-capture-host/zone-completion-catalog-schema/zone-completion-catalog-schema.module.ts
+index 8ab9b58f091d5d911e5a93bc980655508b8a6d3c..3e01cf2979ce0e79f732190e5d569394ec8e1ff5 100644
+--- a/temper/temper-game-catalog-capture-host/zone-completion-catalog-schema/zone-completion-catalog-schema.module.ts
++++ b/temper/temper-game-catalog-capture-host/zone-completion-catalog-schema/zone-completion-catalog-schema.module.ts
+@@ -19,9 +19,5 @@ export const zoneCompletionCatalogSchema = {
+       invariantKind: "departure",
+       statement: "A completion type carries activities and nothing else.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "The inferred type is checked against the shape in `temper-capture-shapes`.",
+-    },
+   ],
+ } as const satisfies Module
