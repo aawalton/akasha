@@ -1,0 +1,15 @@
+diff --git a/command-system/commands/move/resettling/move-resettling.module.ts b/command-system/commands/move/resettling/move-resettling.module.ts
+index d7399989f709c2099fd60e5811d0a0bf42f50fa6..a52cc53461665e6cded56638a495e64cc5d8c793 100644
+--- a/command-system/commands/move/resettling/move-resettling.module.ts
++++ b/command-system/commands/move/resettling/move-resettling.module.ts
+@@ -77,10 +77,6 @@ export const moveResettling = {
+       invariantKind: "departure",
+       statement: "The spelling of the root a settings document used is the spelling written back.",
+     },
+-    {
+-      invariantKind: "absence",
+-      statement: "A name carrying more of a segment than the path that moved is left alone.",
+-    },
+     {
+       invariantKind: "absence",
+       statement: "A path no spelling of this checkout's root leads is left alone.",
