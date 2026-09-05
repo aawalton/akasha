@@ -50,7 +50,7 @@ export const treeFilter = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what makes a node match.",
+      statement: "Nothing here knows why a node matches.",
     },
     {
       invariantKind: "absence",
