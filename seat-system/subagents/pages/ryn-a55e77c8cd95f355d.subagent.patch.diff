@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts b/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts
+index c4d0327d0f82c4064f326a9361d9126ce05f21a1..dd92e487a0c1870e4b22a86311176cb573e0bd80 100644
+--- a/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts
++++ b/seat-system/commands/seat-refresh-settings/seat-refresh-settings.command.ts
+@@ -36,7 +36,7 @@ export const seatRefreshSettings = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The digest in a file's name is left as it is.",
++      statement: "The digest in a file's name is left as the digest is.",
+     },
+     {
+       invariantKind: "departure",
