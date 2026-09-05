@@ -8,9 +8,9 @@ export const typescript7 = {
   code: "ts",
   test: "ts",
   runsOnPatch: true,
-  runsOnWorktree: false,
-  runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnWorktree: true,
+  runsOnDeploy: true,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "departure",
