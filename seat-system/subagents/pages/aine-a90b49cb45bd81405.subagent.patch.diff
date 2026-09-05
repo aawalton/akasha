@@ -25,7 +25,7 @@ index 458e0ba8075f3140ecc86275011644c541036db9..15b9f4e1c81e974510a51d2717a003da
      {
        invariantKind: "departure",
 diff --git a/email-watch/email-rule-set/email-rule-set.module.ts b/email-watch/email-rule-set/email-rule-set.module.ts
-index 53d3761b51cab4a4e7aef63769dc813afb7d37e5..1fe7ea175d8c2abfb407fcc75e1db7958db035b4 100644
+index 53d3761b51cab4a4e7aef63769dc813afb7d37e5..967cff2679b5f668ead5be11f9efb0b284683610 100644
 --- a/email-watch/email-rule-set/email-rule-set.module.ts
 +++ b/email-watch/email-rule-set/email-rule-set.module.ts
 @@ -4,7 +4,7 @@ export const emailRuleSet = {
@@ -37,6 +37,15 @@ index 53d3761b51cab4a4e7aef63769dc813afb7d37e5..1fe7ea175d8c2abfb407fcc75e1db795
    code: "ts",
    test: "ts",
    invariants: [
+@@ -14,7 +14,7 @@ export const emailRuleSet = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A rule's kind is the folder the rule stands in rather than a key on the rule.",
++      statement: "A rule's kind is the folder the rule is in rather than a key on the rule.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/email-watch/inbox-pass/inbox-pass.module.test.ts b/email-watch/inbox-pass/inbox-pass.module.test.ts
 index 1d315bc85debf655e7f712f5f776b8febf7ee246..94bd379bbe985c948282ef784006afc0f2c68954 100644
 --- a/email-watch/inbox-pass/inbox-pass.module.test.ts
@@ -64,7 +73,7 @@ index 7974c6be9b6b7eee0c85831e1490f99c402443d7..47f63b2e9104e2a0682bd2d045c9e5eb
      {
        invariantKind: "departure",
 diff --git a/email-watch/inbox-watching/inbox-watching.module.ts b/email-watch/inbox-watching/inbox-watching.module.ts
-index bc4a46c1a2a623a850b0c2de9b72a2711ace2af5..d707b83b37b10f694e9a539241247185b3b2b724 100644
+index bc4a46c1a2a623a850b0c2de9b72a2711ace2af5..5b1a9ec40fc32219ff404e4d1e644d17402200fc 100644
 --- a/email-watch/inbox-watching/inbox-watching.module.ts
 +++ b/email-watch/inbox-watching/inbox-watching.module.ts
 @@ -11,7 +11,7 @@ export const inboxWatching = {
@@ -73,6 +82,15 @@ index bc4a46c1a2a623a850b0c2de9b72a2711ace2af5..d707b83b37b10f694e9a539241247185
        statement:
 -        "The watch stands behind the guard on being the file run, so loading this file declares its value and starts nothing.",
 +        "The watch sits behind the guard on being the file run, so loading this file declares its value and starts nothing.",
+     },
+     {
+       invariantKind: "departure",
+@@ -46,7 +46,7 @@ export const inboxWatching = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The mail announced is still standing in the inbox.",
++      statement: "The mail announced is still in the inbox.",
      },
      {
        invariantKind: "departure",
