@@ -1,0 +1,13 @@
+diff --git a/agents/claude-accounts/modules/alias-sync/claude-account-alias-sync.module.ts b/agents/claude-accounts/modules/alias-sync/claude-account-alias-sync.module.ts
+index b2aef3d20beb97c9b8e417686e2ca69690e27766..9a740ea74dde903833af132f8cafc8a673f82d46 100644
+--- a/agents/claude-accounts/modules/alias-sync/claude-account-alias-sync.module.ts
++++ b/agents/claude-accounts/modules/alias-sync/claude-account-alias-sync.module.ts
+@@ -9,7 +9,7 @@ export const claudeAccountAliasSync = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The ops dispatcher imports this and calls the default export it declares.",
++      statement: "The ops dispatcher imports this module and calls the default export it declares.",
+     },
+     {
+       invariantKind: "departure",
