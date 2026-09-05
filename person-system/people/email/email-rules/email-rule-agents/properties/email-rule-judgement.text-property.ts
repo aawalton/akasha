@@ -13,7 +13,8 @@ export const emailRuleJudgement = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A judgement opens with the act, and what follows is why it is worth an agent.",
+      statement:
+        "A judgement opens with the act, and what follows is why that act is worth an agent.",
     },
   ],
 } as const satisfies TextProperty
