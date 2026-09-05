@@ -214,3 +214,22 @@ index c82ac345639cfd9adb13f91b274ad6a998d6069f..d471ef7cabe07fb1f4f1f63992ddce50
 -
 -  return { stdout, stderr, code }
 -}
+diff --git a/seat-system/supervising/supervisor-spawn-agents/supervisor-spawn-agents.module.ts b/seat-system/supervising/supervisor-spawn-agents/supervisor-spawn-agents.module.ts
+index f72735b8f625f24152218a1da6b018cfd8fc6fff..e943f3aabb911fdc14034765278261b43a4f5cde 100644
+--- a/seat-system/supervising/supervisor-spawn-agents/supervisor-spawn-agents.module.ts
++++ b/seat-system/supervising/supervisor-spawn-agents/supervisor-spawn-agents.module.ts
+@@ -9,12 +9,11 @@ export const supervisorSpawnAgents = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The definitions are composed by a child, killed at a ceiling, rather than here.",
++      statement: "The definitions are composed by the compose module rather than here.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The compose module is reached beside this one rather than by a path from the root.",
++      statement: "The compose module is imported from beside this one and its function called.",
+     },
+     {
+       invariantKind: "departure",
