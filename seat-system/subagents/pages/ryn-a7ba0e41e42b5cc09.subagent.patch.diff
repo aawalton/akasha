@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/checks/code-checks/pages/tests-pass/tests-pass.code-check.ts b/checks/code-checks/pages/tests-pass/tests-pass.code-check.ts
-index 07931c636ebdabb048bd7e463c8df535e16ca12a..b918f686a54ed0ad3559b344792aa1f8a4f55cdd 100644
+index 07931c636ebdabb048bd7e463c8df535e16ca12a..7b5e6dfa2e3b1a94953d286906be93dd018857b8 100644
 --- a/checks/code-checks/pages/tests-pass/tests-pass.code-check.ts
 +++ b/checks/code-checks/pages/tests-pass/tests-pass.code-check.ts
 @@ -24,7 +24,7 @@ export const testsPass = {
@@ -9,6 +9,15 @@ index 07931c636ebdabb048bd7e463c8df535e16ca12a..b918f686a54ed0ad3559b344792aa1f8
        statement:
 -        "The tests run in a world written out of what the change proposes rather than in the working tree.",
 +        "The tests run in a world written out of the change's bodies rather than in the working tree.",
+     },
+     {
+       invariantKind: "departure",
+@@ -37,7 +37,7 @@ export const testsPass = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The verdict is read from what the run printed rather than from its exit code alone.",
++        "The verdict is read from the lines the run printed rather than from its exit code alone.",
      },
      {
        invariantKind: "departure",
