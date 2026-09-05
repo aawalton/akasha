@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/design/system/design-system.workspace-package.ts b/design/system/design-system.workspace-package.ts
+index 2490079725e562f8b24e777ec91f4cf240eec7e5..211bec432d3d60bf429768a98af8b836b469865e 100644
+--- a/design/system/design-system.workspace-package.ts
++++ b/design/system/design-system.workspace-package.ts
+@@ -57,7 +57,7 @@ export const designSystem = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "No component takes a prop letting its caller space it.",
++      statement: "No component takes a prop letting its caller space that component.",
+     },
+     {
+       invariantKind: "departure",
