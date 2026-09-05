@@ -127,7 +127,7 @@ index 5a706b4ca09440547b2366bf2921c3b28712e9f1..94f3d13eb7205653152d0e5a541546da
    typeWorld(root)
    schemaFiled(root, "file-property", "code", [
 diff --git a/context/warrants/file-property-file/file-property-file.context-warrant.test.ts b/context/warrants/file-property-file/file-property-file.context-warrant.test.ts
-index e67b7b54ba18fd9935f6437a215847e0685a6fcb..53ae57529ba043cf133967727375cbb427479883 100644
+index e67b7b54ba18fd9935f6437a215847e0685a6fcb..0b699d1f14c39bc54456934d7a93d6610685e9b0 100644
 --- a/context/warrants/file-property-file/file-property-file.context-warrant.test.ts
 +++ b/context/warrants/file-property-file/file-property-file.context-warrant.test.ts
 @@ -73,7 +73,7 @@ function warrantsAt(root: string, path: string): readonly Warrant[] {
@@ -165,6 +165,15 @@ index e67b7b54ba18fd9935f6437a215847e0685a6fcb..53ae57529ba043cf133967727375cbb4
    const root = scratch.rootFor("akasha-file-property-file-")
    propertyWorld(root)
    const loose = "akasha/thing/thing.module.notes.ts"
+@@ -149,7 +149,7 @@ test("a property whose page is not there warrants the page alone", () => {
+   expect(pathsOf(warrantsAt(root, CODE_AT))).toEqual([PAGE_AT])
+ })
+ 
+-test("a property the schema does not name warrants the page alone, though a page of that slug stands", () => {
++test("a property the schema does not name warrants the page alone, though a page of that slug exists", () => {
+   const root = scratch.rootFor("akasha-file-property-file-")
+   propertyWorld(root)
+   filed(root, "notes", "file-property")
 diff --git a/context/warrants/file-property/file-property.context-warrant.test.ts b/context/warrants/file-property/file-property.context-warrant.test.ts
 index 7c0e59470a99e5a6d86a2678b7b929b7ca925ae7..709ff94f08a3cd749db494237f3706db8aeeabd0 100644
 --- a/context/warrants/file-property/file-property.context-warrant.test.ts
