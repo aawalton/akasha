@@ -5,7 +5,7 @@ export const computerStatus = {
   pageTypeSlug: "select-property",
   slug: "computer-status",
   propertySlug: "computer-status",
-  definition: "where it stands in Alan's hands",
+  definition: "where it is in Alan's hands",
   values: ["active", "needs-repair", "prepare-to-sell", "listed", "sold", "in-storage", "option"],
 } as const satisfies SelectProperty
 

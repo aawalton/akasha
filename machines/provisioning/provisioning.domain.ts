@@ -22,7 +22,7 @@ export const provisioning = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A file a machine is set up with stands in akasha and is put in place from here.",
+      statement: "A file a machine is set up with sits in akasha and is put in place from here.",
     },
     {
       invariantKind: "departure",

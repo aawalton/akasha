@@ -60,11 +60,11 @@ export const provisionedFile = {
     {
       invariantKind: "departure",
       statement:
-        "The name the body stands under outside akasha is stated rather than spelled by the file.",
+        "The name the body sits under outside akasha is stated rather than spelled by the file.",
     },
     {
       invariantKind: "departure",
-      statement: "A file read where it stands states no path to be put at.",
+      statement: "A file read where it is states no path to be put at.",
     },
     {
       invariantKind: "departure",

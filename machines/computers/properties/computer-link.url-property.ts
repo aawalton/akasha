@@ -7,6 +7,6 @@ export const computerLink = {
   pageTypeSlug: "url-property",
   slug: "computer-link",
   propertySlug: "link",
-  definition: "where its specification stands",
+  definition: "where its specification is",
   max: 200,
 } as const satisfies UrlProperty
