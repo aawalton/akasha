@@ -1,5 +1,5 @@
 diff --git a/pages/indexes/reaching/reaching.module.ts b/pages/indexes/reaching/reaching.module.ts
-index 12893b29a9a4f7e8a05e18eb0b6bca3748f3c761..52b0530a3455d234821bbb37eb2606522fd05cfd 100644
+index 12893b29a9a4f7e8a05e18eb0b6bca3748f3c761..7437cb86fa77667bf28a48c8216aacfb5620b748 100644
 --- a/pages/indexes/reaching/reaching.module.ts
 +++ b/pages/indexes/reaching/reaching.module.ts
 @@ -31,7 +31,8 @@ export const reaching = {
@@ -9,6 +9,15 @@ index 12893b29a9a4f7e8a05e18eb0b6bca3748f3c761..52b0530a3455d234821bbb37eb260652
 -      statement: "One key carried by two properties reaches each under the type carrying it.",
 +      statement:
 +        "One key carried by two properties reaches each under the type carrying that property.",
+     },
+     {
+       invariantKind: "departure",
+@@ -44,7 +45,7 @@ export const reaching = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A value that narrows to more than one page is refused rather than resolved to one of them.",
++        "A value that narrows to more than one page is refused rather than resolved to one of those pages.",
      },
      {
        invariantKind: "departure",
