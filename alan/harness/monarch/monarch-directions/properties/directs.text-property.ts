@@ -13,7 +13,7 @@ export const directs = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A direction says what to weigh, never what to decide.",
+      statement: "A direction says the things to weigh, never the decision to make.",
     },
   ],
 } as const satisfies TextProperty
