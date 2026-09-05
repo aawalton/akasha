@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { CLASH_MARK } from "../body-merging/body-merging.module.code.ts"
-import { drafted } from "../drafting/drafting.module.code.ts"
+import { drafted, runningIn } from "../drafting/drafting.module.code.ts"
 import { landing } from "../landing/landing.module.code.ts"
 import {
   A,
@@ -118,8 +118,8 @@ test("a patch carrying a conflict does not apply", async () => {
 test("a patch a mechanical draft opened is a diff git still reads", async () => {
   const root = await indexed()
   const draft = [{ path: PAGE, was: bytes(A), body: bytes(MORE) }]
-  expect("why" in drafted(root, PAGE, draft, true)).toBe(false)
-  expect(patchIn(root, PAGE)?.startsWith("Akasha-mechanical: true\n")).toBe(true)
+  expect("why" in drafted(root, PAGE, draft, { checks: false, warrants: false })).toBe(false)
+  expect(runningIn(patchIn(root, PAGE))).toEqual({ checks: false, warrants: false })
   expect(() => gitSaid(root, ["apply", "--check", patchAt(PAGE) as string])).not.toThrow()
 })
 

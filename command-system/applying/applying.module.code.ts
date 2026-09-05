@@ -6,8 +6,8 @@ import {
   APPLIED,
   type Bodies,
   droppedPatch,
-  mechanicalIn,
   rebasedOnto,
+  runningIn,
 } from "../drafting/drafting.module.code.ts"
 import { NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import {
@@ -98,11 +98,11 @@ export async function applied(
       ],
     }
   }
-  const mechanical = mechanicalIn(patch)
-  const gate = mechanical ? NO_GATE : judging
-  const said0 = mechanical ? bypassedIn(message, noCheckSaid(MECHANICAL.slug)) : message
+  const running = runningIn(patch)
+  const gate = running.checks ? judging : NO_GATE
+  const said0 = running.checks ? message : bypassedIn(message, noCheckSaid(MECHANICAL.slug))
   const formatting = formattingIn(root, editsOf(said.held))
-  if (agentId !== null) warrantedAgain(root, agentId, said.held, said.moved)
+  if (running.warrants && agentId !== null) warrantedAgain(root, agentId, said.held, said.moved)
   const asRead = agentId === null ? [] : asReadOf(root, agentId, said.held)
   const done = await landing(root, formatting.changes, said0, gate, writer, head, asRead, carries)
   if ("refusals" in done) return done

@@ -36,7 +36,19 @@ export const APPLIED = "goes; the patch it held is applied"
 
 export const DROPPED = "goes; the patch it held is dropped"
 
-const MECHANICAL_AT = "Akasha-mechanical: true"
+const NO_CHECKS_AT = "runsChecks: false"
+
+const NO_WARRANTS_AT = "runsWarrants: false"
+
+const MECHANICAL_WAS = "Akasha-mechanical: true"
+
+const DIFF_AT = "diff --git "
+
+export type Running = { readonly checks: boolean; readonly warrants: boolean }
+
+const AUTHORED: Running = { checks: true, warrants: true }
+
+const RUNS_NOTHING: Running = { checks: false, warrants: false }
 
 export type Draft = {
   readonly path: string
@@ -194,18 +206,34 @@ function changesOf(held: Held): readonly Change[] {
   return [...held].map(([path, one]) => ({ path, body: one.body }))
 }
 
-export function mechanicalIn(patch: string | null): boolean {
-  return patch !== null && patch.startsWith(`${MECHANICAL_AT}\n`)
+export function runningIn(patch: string | null): Running {
+  if (patch === null) return RUNS_NOTHING
+  const at = patch.indexOf(DIFF_AT)
+  const lines = (at < 0 ? patch : patch.slice(0, at)).split("\n")
+  if (lines.includes(MECHANICAL_WAS)) return RUNS_NOTHING
+  return { checks: !lines.includes(NO_CHECKS_AT), warrants: !lines.includes(NO_WARRANTS_AT) }
 }
 
-function keptFrom(root: string, at: string, head: string, held: Held, mechanical: boolean): Kept {
+function eitherOf(one: Running, two: Running): Running {
+  return { checks: one.checks || two.checks, warrants: one.warrants || two.warrants }
+}
+
+function preambleOf(running: Running): string {
+  const said = [
+    ...(running.checks ? [] : [NO_CHECKS_AT]),
+    ...(running.warrants ? [] : [NO_WARRANTS_AT]),
+  ]
+  return said.length === 0 ? "" : `${said.join("\n")}\n`
+}
+
+function keptFrom(root: string, at: string, head: string, held: Held, running: Running): Kept {
   const next = patchOf(root, head, changesOf(held))
   const clashed = clashedIn(held)
   if (next === "") {
     dropBlobs(root, at)
     return { patch: null, clashed }
   }
-  const text = mechanical ? `${MECHANICAL_AT}\n${next}` : next
+  const text = `${preambleOf(running)}${next}`
   keepBlobs(root, at, text)
   return { patch: text, clashed }
 }
@@ -214,7 +242,7 @@ export function drafted(
   root: string,
   page: string,
   drafts: readonly Draft[],
-  mechanical = false
+  running: Running = AUTHORED
 ): Drafted {
   const at = patchAt(page)
   if (at === null) return { why: NO_PAGE }
@@ -231,7 +259,7 @@ export function drafted(
       answer = then
       return patch
     }
-    const still = mechanical && (patch === null || mechanicalIn(patch))
+    const still = eitherOf(running, runningIn(patch))
     const kept = keptFrom(root, at, head, then.held, still)
     answer = kept
     return kept.patch
@@ -252,7 +280,7 @@ export function tookIn(root: string, page: string, from: string): Drafted {
   if (theirs === null) return { patch: patchIn(root, page), clashed: [] }
   const said = rebasedOnto(root, headOf(root), theirs)
   if ("why" in said) return said
-  const took = drafted(root, page, draftsOf(said.held), mechanicalIn(theirs))
+  const took = drafted(root, page, draftsOf(said.held), runningIn(theirs))
   if ("why" in took) return took
   droppedPatch(root, from, `goes; the patch it held went to ${page}`)
   return took
@@ -260,7 +288,7 @@ export function tookIn(root: string, page: string, from: string): Drafted {
 
 type Reworking = (held: Bodies) => Held | { readonly why: string }
 
-function reworked(root: string, page: string, mechanical: boolean, over: Reworking): Drafted {
+function reworked(root: string, page: string, running: Running, over: Reworking): Drafted {
   const at = patchAt(page)
   if (at === null) return { why: NO_PAGE }
   const head = headOf(root)
@@ -276,7 +304,7 @@ function reworked(root: string, page: string, mechanical: boolean, over: Reworki
       answer = next
       return patch
     }
-    const still = mechanical && (patch === null || mechanicalIn(patch))
+    const still = eitherOf(running, runningIn(patch))
     const kept = keptFrom(root, at, head, next, still)
     answer = kept
     return kept.patch
@@ -287,7 +315,7 @@ function reworked(root: string, page: string, mechanical: boolean, over: Reworki
 }
 
 export function resolved(root: string, page: string, path: string, body: Uint8Array): Drafted {
-  return reworked(root, page, false, (held) => {
+  return reworked(root, page, AUTHORED, (held) => {
     const had = held.get(path)
     if (had === undefined) return { why: `${NOT_HELD} ${path}` }
     const next: Held = new Map(held)
@@ -297,7 +325,7 @@ export function resolved(root: string, page: string, path: string, body: Uint8Ar
 }
 
 export function droppedAt(root: string, page: string, path: string): Drafted {
-  return reworked(root, page, true, (held) => {
+  return reworked(root, page, RUNS_NOTHING, (held) => {
     if (!held.has(path)) return { why: `${NOT_HELD} ${path}` }
     const next: Held = new Map(held)
     next.delete(path)

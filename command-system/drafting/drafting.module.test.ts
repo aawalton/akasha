@@ -9,7 +9,15 @@ import { CLASH_MARK } from "../body-merging/body-merging.module.code.ts"
 import { blobsIn, bodyOf } from "../patching/patching.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { writing } from "../scratching/scratching.module.test-fixtures.ts"
-import { type Draft, drafted, resolved, tookIn, wouldHold } from "./drafting.module.code.ts"
+import {
+  type Draft,
+  drafted,
+  type Running,
+  resolved,
+  runningIn,
+  tookIn,
+  wouldHold,
+} from "./drafting.module.code.ts"
 
 const PAGE = "akasha/seat-system/seat/seats/tester.seat.ts"
 const THEIRS = "akasha/seat-system/subagents/pages/tester-a1.subagent.ts"
@@ -23,6 +31,12 @@ const NOT_TEXT = new Uint8Array([0xff, 0xfe, 0x01, 0x02])
 const ALSO_NOT_TEXT = new Uint8Array([0x80, 0x81, 0x03])
 const THEN_NOT_TEXT = new Uint8Array([0xc0, 0xaf, 0x07])
 const WHO = ["-c", "user.email=t@t", "-c", "user.name=t", "-c", "commit.gpgsign=false"]
+
+const NOTHING_RUNS: Running = { checks: false, warrants: false }
+
+const BOTH_RUN: Running = { checks: true, warrants: true }
+
+const CHECKS_RUN: Running = { checks: true, warrants: false }
 
 const scratch = scratchWorld()
 
@@ -77,6 +91,12 @@ function swapped(was: string, from: string, to: string): string {
 
 function refs(root: string): string {
   return gitSaid(root, ["for-each-ref", "--format=%(refname)", "refs/akasha/patch"])
+}
+
+function folding(root: string, running: Running, next: Running | null): Running {
+  drafted(root, PAGE, [draft(ONE, TEN, swapped(TEN, "b", "B"))], running)
+  if (next !== null) drafted(root, PAGE, [draft(TWO, null, "fresh\n")], next)
+  return runningIn(patchIn(root, PAGE))
 }
 
 function draftedBytes(root: string, path: string): Uint8Array | null {
@@ -338,4 +358,26 @@ test("a path that is no page keeps no patch", () => {
   const root = scratch.rootFor("drafting-")
   const said = drafted(root, "akasha/not-a-page.txt", [draft(ONE, TEN, "x\n")])
   expect(said).toEqual({ why: "a path that is no page keeps no patch" })
+})
+
+test("a patch a change running nothing opened runs nothing", () => {
+  expect(folding(repoAt(), NOTHING_RUNS, null)).toEqual(NOTHING_RUNS)
+})
+
+test("a change running the checks leaves the whole patch running them", () => {
+  expect(folding(repoAt(), NOTHING_RUNS, BOTH_RUN)).toEqual(BOTH_RUN)
+})
+
+test("a patch running the checks is left running them by a change running none", () => {
+  expect(folding(repoAt(), BOTH_RUN, NOTHING_RUNS)).toEqual(BOTH_RUN)
+})
+
+test("what a patch runs is folded one field at a time", () => {
+  expect(folding(repoAt(), CHECKS_RUN, NOTHING_RUNS)).toEqual(CHECKS_RUN)
+})
+
+test("what a patch runs is read off the lines before the first diff header", () => {
+  const head = `diff --git a/${ONE} b/${ONE}\n`
+  expect(runningIn(`Akasha-mechanical: true\n${head}`)).toEqual(NOTHING_RUNS)
+  expect(runningIn(head)).toEqual(BOTH_RUN)
 })

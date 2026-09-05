@@ -2,11 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
 import type { Given } from "../../command-system/calling/calling.module.code.ts"
-import {
-  drafted,
-  mechanicalIn,
-  resolved,
-} from "../../command-system/drafting/drafting.module.code.ts"
+import { drafted, resolved, runningIn } from "../../command-system/drafting/drafting.module.code.ts"
 import type { Piping } from "../../command-system/piping/piping.module.code.ts"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import { writing } from "../../command-system/scratching/scratching.module.test-fixtures.ts"
@@ -276,10 +272,10 @@ test("a path taken out leaves a mechanical patch mechanical", async () => {
     { path: ONE, was: BYTES.encode(WAS), body: BYTES.encode(NOW) },
     { path: TWO, was: BYTES.encode(WAS), body: BYTES.encode(NOW) },
   ]
-  expect("why" in drafted(root, PAGE, draft, true)).toBe(false)
-  expect(mechanicalIn(patchIn(root, PAGE))).toBe(true)
+  expect("why" in drafted(root, PAGE, draft, { checks: false, warrants: false })).toBe(false)
+  expect(runningIn(patchIn(root, PAGE))).toEqual({ checks: false, warrants: false })
   expect(dropping(root, PAGE, ["--file-path", ONE]).code).toBe(0)
-  expect(mechanicalIn(patchIn(root, PAGE))).toBe(true)
+  expect(runningIn(patchIn(root, PAGE))).toEqual({ checks: false, warrants: false })
 })
 
 test("a path a rename left the body at is the path named", async () => {

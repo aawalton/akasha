@@ -7,7 +7,7 @@ import type { Change } from "@akasha/pages-system/change"
 import { movedOnDisk } from "../change-freshness/change-freshness.module.code.ts"
 import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { committed, whileIndexFrees } from "../committing/committing.module.code.ts"
-import type { Bodies, Draft } from "../drafting/drafting.module.code.ts"
+import type { Bodies, Draft, Running } from "../drafting/drafting.module.code.ts"
 import { drafted as draftedOnto, wouldHold } from "../drafting/drafting.module.code.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 import { clearedOff } from "../folder-clearing/folder-clearing.module.code.ts"
@@ -48,6 +48,12 @@ export type Refused = {
 export type Drafting = {
   readonly page: string
   readonly mechanical?: boolean
+}
+
+function runningFor(drafting: Drafting): Running {
+  return drafting.mechanical === true
+    ? { checks: false, warrants: false }
+    : { checks: true, warrants: true }
 }
 
 export type Drafted = {
@@ -298,12 +304,12 @@ function draftedBy(
   drafts: readonly Draft[],
   paths: readonly string[],
   refused: readonly Judged[],
-  mechanical: boolean
+  running: Running
 ): Drafted | Refused {
   const base = baseOf(root)
   const stale = unfresh(root, named, base, changes, asRead, AGAIN_DRAFTED)
   if (stale !== null) return stale
-  const said = draftedOnto(root, page, drafts, mechanical)
+  const said = draftedOnto(root, page, drafts, running)
   if ("why" in said) return { refusals: [said.why, KEPT_AS_IT_WAS] }
   return {
     base,
@@ -394,7 +400,7 @@ export async function landing(
       drafts,
       edits.map((one) => one.path).sort(),
       said,
-      drafting.mechanical === true
+      runningFor(drafting)
     )
   }
   if (said.length > 0) {
