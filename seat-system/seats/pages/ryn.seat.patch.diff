@@ -1,3 +1,17 @@
+diff --git a/changes/change.domain.ts b/changes/change.domain.ts
+index 07a3040f81c8d655862a96dcfcd7281079cf7174..50250826b8c70c68f41e36eae8747811ec6fb127 100644
+--- a/changes/change.domain.ts
++++ b/changes/change.domain.ts
+@@ -26,7 +26,8 @@ export const change = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every command's page names the kind of change that command lands.",
++      statement:
++        "Every command's page names the kind of change that command lands where the call names no other.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/commands/edit/edit.command.code.ts b/commands/edit/edit.command.code.ts
 index 9ea50e51ec4f41587cf7a5d23199a5cdafe0cf08..a57e51fecee09d9367f4dcef70a1426fbdc8392e 100644
 --- a/commands/edit/edit.command.code.ts
