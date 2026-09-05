@@ -28,7 +28,7 @@ export const pageBeside = {
     },
     {
       invariantKind: "departure",
-      statement: "What is answered is sorted.",
+      statement: "The files answered are sorted.",
     },
     {
       invariantKind: "departure",
@@ -45,15 +45,15 @@ export const pageBeside = {
     },
     {
       invariantKind: "departure",
-      statement: "What is beside several paths holds no repeated file.",
+      statement: "The files beside several paths hold no repeated file.",
     },
     {
       invariantKind: "departure",
-      statement: "What is beside several paths is sorted.",
+      statement: "The files beside several paths are sorted.",
     },
     {
       invariantKind: "departure",
-      statement: "What is beside several paths holds no path handed in.",
+      statement: "The files beside several paths hold no path handed in.",
     },
     {
       invariantKind: "departure",
