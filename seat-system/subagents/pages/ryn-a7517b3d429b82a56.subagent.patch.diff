@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/service-system/cluster-services/pages/page-store/page-store.cluster-service.ts b/service-system/cluster-services/pages/page-store/page-store.cluster-service.ts
+index 4cbac934bb03d0d8d1abd1d71c30090b002e83ef..0d572f593b8b19db6606e94714cf4aeedfc37f54 100644
+--- a/service-system/cluster-services/pages/page-store/page-store.cluster-service.ts
++++ b/service-system/cluster-services/pages/page-store/page-store.cluster-service.ts
+@@ -21,7 +21,7 @@ export const pageStore = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What runs in the cluster carries a pod's request out to that workstation and the answer back.",
++        "The forwarder in the cluster carries a pod's request out to that workstation and the answer back.",
+     },
+     {
+       invariantKind: "departure",
