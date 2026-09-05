@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.ts b/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.ts
+index 6bc8dc5fa2faf859ec493b90a563c99601da4a4a..36137ee696af6062b47b110ac836dab7dc9471c9 100644
+--- a/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.ts
++++ b/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.ts
+@@ -14,7 +14,7 @@ export const blockSubagentAudit = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "An audit is refused for the memory a run holds rather than for what a run writes.",
++        "An audit is refused for the memory a run holds rather than for the changes a run writes.",
+     },
+     {
+       invariantKind: "departure",
