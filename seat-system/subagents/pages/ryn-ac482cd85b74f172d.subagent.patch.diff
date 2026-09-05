@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-housing-addon/housing-library-data-eu-6/housing-library-data-eu-6.module.ts b/temper/temper-housing-addon/housing-library-data-eu-6/housing-library-data-eu-6.module.ts
+index 47fde1c0b7d08e24753ede2eb82ba4e2d26b3cf4..32d5b688c4fc2362ff9df62ba9402049ff9ba7c0 100644
+--- a/temper/temper-housing-addon/housing-library-data-eu-6/housing-library-data-eu-6.module.ts
++++ b/temper/temper-housing-addon/housing-library-data-eu-6/housing-library-data-eu-6.module.ts
+@@ -18,7 +18,7 @@ export const housingLibraryDataEu6 = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "An entry moved to another place moves what every library row shows.",
++      statement: "An entry moved to another place moves the entry every library row shows.",
+     },
+   ],
+ } as const satisfies Module
