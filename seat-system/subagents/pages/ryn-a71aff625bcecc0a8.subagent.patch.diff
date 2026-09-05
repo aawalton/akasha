@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/system-service/page-asking/page-asking.module.ts b/pages/system-service/page-asking/page-asking.module.ts
-index d7485de4941ea377ba02cb1fa83a34255640236a..029f1873b592bafac6daed9640176f83d73ae851 100644
+index d7485de4941ea377ba02cb1fa83a34255640236a..7c115ec91d3d3251ee6dcc18b01630cd0712cd99 100644
 --- a/pages/system-service/page-asking/page-asking.module.ts
 +++ b/pages/system-service/page-asking/page-asking.module.ts
 @@ -74,7 +74,7 @@ export const pageAsking = {
@@ -9,6 +9,15 @@ index d7485de4941ea377ba02cb1fa83a34255640236a..029f1873b592bafac6daed9640176f83
        statement:
 -        "A key is what a property page states rather than the slug reaching that property page.",
 +        "A key is the property slug a property page states rather than the slug reaching that page.",
+     },
+     {
+       invariantKind: "departure",
+@@ -144,7 +144,7 @@ export const pageAsking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is skipped is skipped before what is taken is taken.",
++      statement: "Rows are skipped before rows are taken.",
      },
      {
        invariantKind: "departure",
