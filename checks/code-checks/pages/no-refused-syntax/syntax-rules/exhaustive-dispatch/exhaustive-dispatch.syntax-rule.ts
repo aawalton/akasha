@@ -28,7 +28,7 @@ export const exhaustiveDispatch = {
     {
       invariantKind: "departure",
       statement:
-        "A default is read for what its statements do and never for what the default says.",
+        "A default is read for the work its statements do and never for the words the default says.",
     },
     {
       invariantKind: "departure",
