@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/address/page-address.module.ts b/pages/address/page-address.module.ts
+index c967cb5e4d209a65866119959a6a09387f7f8ee5..b18ff2a3efe272570379164ee251f1c0243b72ff 100644
+--- a/pages/address/page-address.module.ts
++++ b/pages/address/page-address.module.ts
+@@ -30,7 +30,7 @@ export const pageAddress = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A bare address is refused, what it names being read off whoever asked.",
++      statement: "A bare address is refused, the page reached being read off the caller.",
+     },
+     {
+       invariantKind: "departure",
