@@ -10,3 +10,21 @@ index 84f05eaea5528d441a026fa6d97e7eede888e31b..44f067685135a8edbf7cbb2fb6467d25
    "infrastructure/cluster-manifests/*-synth/*-synth.module.code.ts",
    "infrastructure/upscale/*-synth/*-synth.module.code.ts",
  ]
+diff --git a/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.test.ts b/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.test.ts
+index 5d13a46e479963ffc9b724be64e4c38c9a3aeeb1..6ac6e0f97881b30ea98f49adc61139ce55237698 100644
+--- a/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.test.ts
++++ b/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.test.ts
+@@ -25,10 +25,9 @@ const SERVICES: readonly (readonly [string, string | null])[] = [
+   ["alpha/five/five.cluster-service.ts", "no-such-manifest"],
+ ]
+ 
+-const ATTACHMENTS: readonly string[] = [
+-  "alpha/one.cluster-service.code.attachment.ts",
+-  "beta/two.cluster-service.code.attachment.ts",
+-  "beta/src/three.cluster-service.code.attachment.ts",
++const GLOBBED: readonly string[] = [
++  "infrastructure/cluster-manifests/one-synth/one-synth.module.code.ts",
++  "infrastructure/upscale/two-synth/two-synth.module.code.ts",
+ ]
+ 
+ let root = ""
