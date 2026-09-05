@@ -11,7 +11,7 @@ export const tallyBoundary = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A stretch counts as uniform once it reaches the catalog's threshold.",
+      statement: "A stretch counts as uniform once that stretch reaches the catalog's threshold.",
     },
     {
       invariantKind: "departure",
