@@ -1,0 +1,15 @@
+diff --git a/story/games/properties/tower-sessions.file-property.ts b/story/games/properties/tower-sessions.file-property.ts
+index 50d82f5dcbc0c01498a7e1287c315f63e96b736d..5da3c96f0c2d748628db00c9521bbd57d588acaa 100644
+--- a/story/games/properties/tower-sessions.file-property.ts
++++ b/story/games/properties/tower-sessions.file-property.ts
+@@ -8,10 +8,4 @@ export const towerSessions = {
+   slug: "tower-sessions",
+   propertySlug: "tower-sessions",
+   definition: "the sittings a tower game has been climbed in",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "One row is one json object on one line.",
+-    },
+-  ],
+ } as const satisfies FileProperty
