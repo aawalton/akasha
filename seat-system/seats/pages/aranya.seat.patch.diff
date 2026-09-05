@@ -135,3 +135,11 @@ index 652964790ea39ec911349eadc2ac157357f4c9bd..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../design/system
 \ No newline at end of file
+diff --git a/design/tokens/design-tokens b/design/tokens/design-tokens
+deleted file mode 120000
+index e0e6ab362a94fe27631251ac7c235d916c2d1d37..0000000000000000000000000000000000000000
+--- a/design/tokens/design-tokens
++++ /dev/null
+@@ -1 +0,0 @@
+-../../design/tokens
+\ No newline at end of file
