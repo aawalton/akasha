@@ -176,6 +176,89 @@ index db19efdc4707b002bffeb2346e08c9f719bc5086..cbd3131d5fe8465a0e40359a6def13c8
    expect(listedAt(root, MODULE, "held")).toHaveLength(1)
    expect(() => index.everyOfType(MODULE)).toThrow(NOT_THERE)
    expect(() => index.everyPath()).toThrow(NOT_THERE)
+diff --git a/pages/indexes/indexing/indexing.module.code.ts b/pages/indexes/indexing/indexing.module.code.ts
+index 0a4b2d4050cb3820b02ee5ed97991cea769b77c3..d07e525b5309a78b5855800638dad9e8907c0d3b 100644
+--- a/pages/indexes/indexing/indexing.module.code.ts
++++ b/pages/indexes/indexing/indexing.module.code.ts
+@@ -1,13 +1,5 @@
+-import {
+-  existsSync,
+-  mkdirSync,
+-  readFileSync,
+-  renameSync,
+-  rmdirSync,
+-  rmSync,
+-  writeFileSync,
+-} from "node:fs"
+-import { dirname, isAbsolute, join, relative } from "node:path"
++import { mkdirSync, readFileSync } from "node:fs"
++import { join } from "node:path"
+ import { typed } from "@akasha/code-system/code-typing"
+ import { pageNamed, partedIn } from "@akasha/pages-system/page-file-name"
+ import {
+@@ -44,12 +36,12 @@ import { claimingIn } from "../path/index-path.index.code.ts"
+ import { indexPath } from "../path/index-path.index.ts"
+ import { knownIn } from "../reaching/reaching.module.code.ts"
+ import { everyPath, indexThere, namersOf } from "../reading/index-reading.module.code.ts"
++import { type Drift, keepWhole, reconcile } from "../rebuilding/rebuilding.module.code.ts"
+ import { NOTHING_FILED, relationIn } from "../relation/index-relation.index.code.ts"
+ import { indexRelation } from "../relation/index-relation.index.ts"
+ import { schemaIn } from "../schema/index-schema.index.code.ts"
+ import { indexSchema } from "../schema/index-schema.index.ts"
+ import type { Filing, Reading } from "../shape/index-shape.module.code.ts"
+-import { stampBuilt, stampSettled } from "../stamp/index-stamp.module.code.ts"
+ import {
+   indexIn,
+   overlaidOn,
+@@ -72,30 +64,6 @@ const SCHEMA = indexSchema.name
+ 
+ const VALUE = indexValue.name
+ 
+-function pruneAbove(at: string, root: string): undefined {
+-  let here = at
+-  while (here !== root && here.startsWith(root)) {
+-    try {
+-      rmdirSync(here)
+-    } catch {
+-      return
+-    }
+-    here = dirname(here)
+-  }
+-}
+-
+-function keepWhole(at: string, lines: readonly string[], root: string): undefined {
+-  if (lines.length === 0) {
+-    if (existsSync(at)) rmSync(at)
+-    pruneAbove(dirname(at), root)
+-    return
+-  }
+-  mkdirSync(dirname(at), { recursive: true })
+-  const near = `${at}.${process.pid}.part`
+-  writeFileSync(near, `${lines.join("\n")}\n`)
+-  renameSync(near, at)
+-}
+-
+ type Pending = {
+   readonly before: string | null
+   readonly after: string | null
+@@ -133,17 +101,6 @@ function pageShaped(path: string, fileProperties: ReadonlyMap<string, string | n
+   return !fileProperties.has(said.pageType)
+ }
+ 
+-function reconcile(under: string, entries: readonly Entry[], root: string): undefined {
+-  const wanted = Map.groupBy(entries, (one) => one.at)
+-  for (const one of existsSync(under) ? walkedUnder(under, () => true) : []) {
+-    if (!wanted.has(one.slice(root.length + 1))) keepWhole(one, [], root)
+-  }
+-  for (const [at, held] of wanted) {
+-    const lines = new Set(held.map((one) => one.line))
+-    keepWhole(join(root, at), [...lines].sort(), root)
+-  }
+-}
+-
+ export type Indexing = {
+   readonly wrote: (path: string, body: string, before: string | null) => undefined
+   readonly took: (path: string, before: string | null) => undefined
 diff --git a/pages/indexes/reading/index-reading.module.code.ts b/pages/indexes/reading/index-reading.module.code.ts
 index ed0dff829933eb31fba0f14536a2b8cf85ae8d83..4ec4e6aa06f74f0e1bef2ad240c866bd3a440cee 100644
 --- a/pages/indexes/reading/index-reading.module.code.ts
