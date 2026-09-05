@@ -5,7 +5,7 @@ export const addonBundleVersion = {
   pageTypeSlug: "route",
   slug: "addon-bundle-version",
   definition: "the build the addon bundle now offered was packed from",
-  code: "tsx",
-  test: "tsx",
+  code: "ts",
+  test: "ts",
   urlPath: "api/addons/version",
 } as const satisfies Route

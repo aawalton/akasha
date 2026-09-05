@@ -5,7 +5,7 @@ export const addonBundle = {
   pageTypeSlug: "route",
   slug: "addon-bundle",
   definition: "the zip archive holding every distributable addon",
-  code: "tsx",
-  test: "tsx",
+  code: "ts",
+  test: "ts",
   urlPath: "api/addons/download",
 } as const satisfies Route
