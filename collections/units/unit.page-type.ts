@@ -25,7 +25,7 @@ export const unit = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A unit says what a unit is worth in words.",
+      statement: "A unit says its worth in words.",
     },
     {
       invariantKind: "departure",
