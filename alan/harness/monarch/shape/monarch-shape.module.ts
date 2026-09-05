@@ -10,7 +10,7 @@ export const monarchShape = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A value that is not what was asked for is refused rather than coerced.",
+      statement: "A value that does not match the shape asked for is refused rather than coerced.",
     },
     {
       invariantKind: "departure",
