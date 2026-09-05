@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/code-system/file-kind-domains/file-kind-domain.page-type.ts b/code-system/file-kind-domains/file-kind-domain.page-type.ts
+index d9f1dc192900350ba2901cb999dfbb21c0e15480..5720da82a3460ccfd6c6f87f0f888faac704ddfb 100644
+--- a/code-system/file-kind-domains/file-kind-domain.page-type.ts
++++ b/code-system/file-kind-domains/file-kind-domain.page-type.ts
+@@ -18,7 +18,7 @@ export const fileKindDomain = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A kind is told from a file's name rather than from what the file holds.",
++      statement: "A kind is told from a file's name rather than from the bytes the file holds.",
+     },
+     {
+       invariantKind: "gap",
