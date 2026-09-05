@@ -1,5 +1,5 @@
 diff --git a/editor-extension/panel-judging/panel-judging.module.ts b/editor-extension/panel-judging/panel-judging.module.ts
-index 72bb80e645408dff0f58f8bb11e0b6f56569fc79..bb5819898ec17f3b50cefbc6a06373215e1d286b 100644
+index 72bb80e645408dff0f58f8bb11e0b6f56569fc79..8f6299de7fb21156288d91be87609885a4702773 100644
 --- a/editor-extension/panel-judging/panel-judging.module.ts
 +++ b/editor-extension/panel-judging/panel-judging.module.ts
 @@ -27,7 +27,7 @@ export const panelJudging = {
@@ -29,3 +29,12 @@ index 72bb80e645408dff0f58f8bb11e0b6f56569fc79..bb5819898ec17f3b50cefbc6a0637321
      },
      {
        invariantKind: "absence",
+@@ -100,7 +100,7 @@ export const panelJudging = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What the agent tree logged reading is printed beside what it drew rather than judged.",
++        "What the agent tree logged reading is printed beside what that tree drew rather than judged.",
+     },
+     {
+       invariantKind: "departure",
