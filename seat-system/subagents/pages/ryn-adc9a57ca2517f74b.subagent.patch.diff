@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/agree/monarch-agree.module.ts b/alan/harness/monarch/agree/monarch-agree.module.ts
+index d44556db478f17b05c099d43684c3078b84075a6..20d5ee41c727cbf9975b8d84600833107198715e 100644
+--- a/alan/harness/monarch/agree/monarch-agree.module.ts
++++ b/alan/harness/monarch/agree/monarch-agree.module.ts
+@@ -16,7 +16,7 @@ export const monarchAgree = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Proposing and applying are claimed to decide alike, one reading the history in memory and the other reading a window from the database.",
++        "Proposing from history in memory and applying from a database window are claimed to decide alike.",
+     },
+     {
+       invariantKind: "departure",
