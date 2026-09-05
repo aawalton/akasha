@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/music/spotify/spotify.workspace-package.ts b/alan/music/spotify/spotify.workspace-package.ts
+index ddebc87262c16d58050af7148bcb4bfe0c3232c4..d19665a727b8ceb3025993c283c11d54bc96dbfd 100644
+--- a/alan/music/spotify/spotify.workspace-package.ts
++++ b/alan/music/spotify/spotify.workspace-package.ts
+@@ -44,7 +44,7 @@ export const spotify = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here decides what is done with what the Web API answers.",
++      statement: "Nothing here decides the use made of the Web API's answers.",
+     },
+   ],
+   directives: [
