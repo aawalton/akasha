@@ -10,7 +10,7 @@ export const composeNotices = {
     {
       invariantKind: "departure",
       statement:
-        "What asks for the notices imports this module and calls that module rather than running that module.",
+        "A caller asking for the notices imports this module and calls rather than runs that module.",
     },
     {
       invariantKind: "departure",
