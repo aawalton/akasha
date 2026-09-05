@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-watcher/watcher-updating/watcher-updating.module.ts b/temper/temper-watcher/watcher-updating/watcher-updating.module.ts
+index 2b97d66f2c88333d91c9d4eda82e53e26005540a..8f9a9ebc9a450d8ebe12a5a07f9d0d4b038d0e46 100644
+--- a/temper/temper-watcher/watcher-updating/watcher-updating.module.ts
++++ b/temper/temper-watcher/watcher-updating/watcher-updating.module.ts
+@@ -90,7 +90,7 @@ export const watcherUpdating = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A caller may hand in what fetches the deployed version.",
++      statement: "A caller may hand in the fetch answering the deployed version.",
+     },
+     {
+       invariantKind: "departure",
