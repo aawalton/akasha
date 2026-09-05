@@ -4,10 +4,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood = {
   id: "01a0657d-ada6-72c0-8787-dfbe49e472e8",
   pageTypeSlug: "story-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  rank: "C",
+  unitSlug: "words",
+  externalId: "129699",
+  externalLink:
+    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food",
   title: "Wolf Girl Evolution",
   worldSlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   source: "royal-road",
-  rank: "C",
   externalTags: [
     "LitRPG",
     "Progression",
@@ -24,8 +28,5 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood = {
     "Magic",
     "Monster Evolution",
   ],
-  unitSlug: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food",
-  externalId: "129699",
+  publicationStatus: "ongoing",
 } as const satisfies StoryRead
