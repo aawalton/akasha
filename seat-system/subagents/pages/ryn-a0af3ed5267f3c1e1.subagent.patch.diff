@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/command-system/orphaning/orphaning.module.ts b/command-system/orphaning/orphaning.module.ts
+index 2904dfee347a7c9db2441abb10906e95d2aa4b4e..7bf70c2423df963281e5372e3e305ea8e1bcef2c 100644
+--- a/command-system/orphaning/orphaning.module.ts
++++ b/command-system/orphaning/orphaning.module.ts
+@@ -10,7 +10,8 @@ export const orphaning = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A path taken away is weighed by what imports it as the change leaves the tree.",
++      statement:
++        "A path taken away is weighed by the importers of that path as the change leaves the tree.",
+     },
+     {
+       invariantKind: "departure",
