@@ -14,3 +14,34 @@ index 3532afe41f44b0a40c5373cd44276920055f50b7..2f4a46e264c83dac574c80fbc4799768
 -  if (exitCode === UNVERIFIED_EXIT) return "unverified"
 -  return "failed"
 -}
+diff --git a/seat-system/seat-revive-verify-signal/seat-revive-verify-signal.module.ts b/seat-system/seat-revive-verify-signal/seat-revive-verify-signal.module.ts
+index 5c7caa1d212f1f853622166e432d7149e96f49a4..96d9bbc53ebb7fa9d6075f2b5159d3b99f8c5d18 100644
+--- a/seat-system/seat-revive-verify-signal/seat-revive-verify-signal.module.ts
++++ b/seat-system/seat-revive-verify-signal/seat-revive-verify-signal.module.ts
+@@ -4,21 +4,20 @@ export const seatReviveVerifySignal = {
+   id: "01a0686d-9d5e-700e-98bf-06b7ad829d40",
+   pageTypeSlug: "module",
+   slug: "seat-revive-verify-signal",
+-  definition: "what the exit code of a verifying resume says became of the seat",
++  definition: "what a verifying revive says became of the seat",
+   code: "ts",
+-  test: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A resume that exited cleanly revived its seat.",
++      statement: "One signal names each way a verifying revive comes back.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A resume that exited three could not verify its seat rather than failing.",
++      statement: "A seat that could not be verified is not a seat that failed.",
+     },
+     {
+-      invariantKind: "departure",
+-      statement: "Every other exit is a failure.",
++      invariantKind: "absence",
++      statement: "Nothing here reads an exit code.",
+     },
+   ],
+ } as const satisfies Module
