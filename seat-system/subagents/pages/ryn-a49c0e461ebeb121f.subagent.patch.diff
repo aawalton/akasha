@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/commands/measure/check-measuring/check-measuring.module.ts b/command-system/commands/measure/check-measuring/check-measuring.module.ts
-index 1bb57437a6e4a17d30079578a7e758afdfcc2760..6e84cec30f296db640ad6b6c317e314387b2deef 100644
+index 1bb57437a6e4a17d30079578a7e758afdfcc2760..e5ffadf35a4b285fe873f33343fdcd5acd49d298 100644
 --- a/command-system/commands/measure/check-measuring/check-measuring.module.ts
 +++ b/command-system/commands/measure/check-measuring/check-measuring.module.ts
 @@ -19,7 +19,8 @@ export const checkMeasuring = {
@@ -20,6 +20,16 @@ index 1bb57437a6e4a17d30079578a7e758afdfcc2760..6e84cec30f296db640ad6b6c317e3143
 -      statement:
 -        "An average is what a phase's runs took together shared out over how many there were.",
 +      statement: "An average is the total a phase's runs took shared out over how many there were.",
+     },
+     {
+       invariantKind: "departure",
+@@ -64,7 +64,8 @@ export const checkMeasuring = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Checks are ordered by what their patch runs took on average, the longest first.",
++      statement:
++        "Checks are ordered by the processor time their patch runs took on average, the longest first.",
      },
      {
        invariantKind: "departure",
