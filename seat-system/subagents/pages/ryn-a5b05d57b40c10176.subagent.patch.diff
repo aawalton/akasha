@@ -1,0 +1,17 @@
+diff --git a/command-system/asking/asking.module.ts b/command-system/asking/asking.module.ts
+index 9eb5d10f9ce7f9ea87b847e8a7a3630854f334dc..94f50526abd5d7e38fae1c215c76303c01fcc06b 100644
+--- a/command-system/asking/asking.module.ts
++++ b/command-system/asking/asking.module.ts
+@@ -144,11 +144,7 @@ export const asking = {
+       statement:
+         "A landing the install would not follow is answered as operational with the commit named.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A body the caller asked for is recorded as read by the agent that landed that body.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A lockfile this command made for the change is recorded as read by nobody.",
