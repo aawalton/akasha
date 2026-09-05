@@ -1,0 +1,11 @@
+diff --git a/domains/initiatives/pages/aine-resolve-findings.initiative.ts b/domains/initiatives/pages/aine-resolve-findings.initiative.ts
+index 7d4426d30ec1bcffc5bffee3d8c3ac6fcdadd711..11a1e76a3ac511d313e563db6b31c7d9d728891f 100644
+--- a/domains/initiatives/pages/aine-resolve-findings.initiative.ts
++++ b/domains/initiatives/pages/aine-resolve-findings.initiative.ts
+@@ -13,5 +13,6 @@ export const aineResolveFindings = {
+   ],
+   constraints: [
+     "Ablate a finding as soon as you know it is resolved, rather than keeping it for review. Alan never sees a resolved finding.",
++    "End every finding put to Alan with a one-line proposal for what to do about it.",
+   ],
+ } as const satisfies Initiative
