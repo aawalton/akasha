@@ -90,7 +90,7 @@ export const toDo = {
     },
     {
       invariantKind: "departure",
-      statement: "A to-do's body is what doing that to-do takes.",
+      statement: "A to-do's body is the work doing that to-do takes.",
     },
     {
       invariantKind: "departure",
