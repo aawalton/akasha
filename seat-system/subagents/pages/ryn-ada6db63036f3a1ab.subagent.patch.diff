@@ -1,5 +1,5 @@
 diff --git a/commands/calendar/calendar.command.ts b/commands/calendar/calendar.command.ts
-index 63f20feff994fe293337918c270deef400223abd..980383778782198d3efc3da40555442f5f7ad98f 100644
+index 63f20feff994fe293337918c270deef400223abd..2d447c9db7a9a7ac761ec086592100ab41af9d4d 100644
 --- a/commands/calendar/calendar.command.ts
 +++ b/commands/calendar/calendar.command.ts
 @@ -120,7 +120,7 @@ export const calendar = {
@@ -21,3 +21,12 @@ index 63f20feff994fe293337918c270deef400223abd..980383778782198d3efc3da40555442f
      },
      {
        invariantKind: "departure",
+@@ -140,7 +141,7 @@ export const calendar = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A flag under an act that does not take it is refused.",
++      statement: "A flag under an act that does not take that flag is refused.",
+     },
+     {
+       invariantKind: "absence",
