@@ -33,7 +33,8 @@ export const statusBarDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "The slots are drawn from the slot list rather than from what answered.",
+      statement:
+        "The slots are drawn from the slot list rather than from the readings that answered.",
     },
     {
       invariantKind: "departure",
