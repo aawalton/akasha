@@ -218,3 +218,17 @@ index 015990e98d745537be83f4085a2bb06d930371be..6fd6d16f14b6d9f439c7b0fa3c512a2f
      {
        invariantKind: "departure",
        statement: "A body rendered at or past the size a write refuses stages nothing at all.",
+diff --git a/temper/temper-catalog-addon/temper-catalog-addon.eso-addon.ts b/temper/temper-catalog-addon/temper-catalog-addon.eso-addon.ts
+index 0e9e62e6d4f68b574df1c477543d54c9ac8cf556..2d7b8cf4e866c567131f937789ae0cea46bec82b 100644
+--- a/temper/temper-catalog-addon/temper-catalog-addon.eso-addon.ts
++++ b/temper/temper-catalog-addon/temper-catalog-addon.eso-addon.ts
+@@ -49,9 +49,5 @@ export const temperCatalogAddon = {
+       invariantKind: "departure",
+       statement: "A collector that fails is skipped with its reason kept beside the catalog.",
+     },
+-    {
+-      invariantKind: "constraint",
+-      statement: "The game reloads an addon only when the whole client reloads.",
+-    },
+   ],
+ } as const satisfies EsoAddon
