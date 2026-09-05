@@ -1,0 +1,26 @@
+diff --git a/code-system/code-tests/code-tests.module.test.ts b/code-system/code-tests/code-tests.module.test.ts
+index caeef3c40502bb5a864f2c2b06208c2dfde299d1..42d7e99c1779db7c633cb81963580157a327c26b 100644
+--- a/code-system/code-tests/code-tests.module.test.ts
++++ b/code-system/code-tests/code-tests.module.test.ts
+@@ -104,7 +104,7 @@ check("a test answers itself alone, whichever of the two it is written in", () =
+   ])
+ })
+ 
+-check("a file that is no TypeScript file stands beside no test", () => {
++check("a file that is no TypeScript file sits beside no test", () => {
+   expect(testsBesideOf("akasha/one/notes.md")).toEqual([])
+   expect(testsBesideOf("akasha/one/held")).toEqual([])
+ })
+diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
+index 269bb5bdfbca656f09a9f2a9f96489aaaab3034a..87b806569747de4590530b0dba0d20c3476f780b 100644
+--- a/code-system/code-tests/code-tests.module.ts
++++ b/code-system/code-tests/code-tests.module.ts
+@@ -5,7 +5,7 @@ export const codeTests = {
+   pageTypeSlug: "module",
+   slug: "code-tests",
+   definition:
+-    "standing a change up as a tree of its own, running the tests in it, and reading what the run said",
++    "setting a change up as a tree of its own, running the tests in it, and reading what the run said",
+   code: "ts",
+   test: "ts",
+   invariants: [
