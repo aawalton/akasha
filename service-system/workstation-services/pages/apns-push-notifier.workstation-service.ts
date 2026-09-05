@@ -19,7 +19,7 @@ export const apnsPushNotifier = {
     {
       invariantKind: "departure",
       statement:
-        "A push is claimed before it is sent, so a notification read twice is pushed once.",
+        "A push is claimed before that push is sent, so a notification read twice is pushed once.",
     },
     {
       invariantKind: "departure",
