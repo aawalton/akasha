@@ -1,0 +1,116 @@
+diff --git a/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.code.ts b/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.code.ts
+index ee5b50234bdb91f3a2c90bb8d22127c7b1ae8014..cc4360018b336048b3d5f0edce1cede9c43bf9e7 100644
+--- a/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.code.ts
++++ b/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.code.ts
+@@ -10,6 +10,8 @@ const CONDITIONS = "conditions"
+ 
+ const CHAIN = "destinationChain"
+ 
++type Row = ConditionEntry | ChainEntry
++
+ export interface RuleWrite {
+   readonly slug: string
+   readonly values: Record<string, unknown>
+@@ -20,11 +22,18 @@ export interface RuleWrites {
+   readonly deletes: readonly string[]
+ }
+ 
+-function sameRows(
+-  one: readonly (ConditionEntry | ChainEntry)[],
+-  two: readonly (ConditionEntry | ChainEntry)[]
+-): boolean {
+-  return JSON.stringify(one) === JSON.stringify(two)
++export function sameRow(one: Row, two: Row | undefined): boolean {
++  if (two === undefined) return false
++  const held = two as unknown as Record<string, unknown>
++  for (const [key, value] of Object.entries(one as unknown as Record<string, unknown>)) {
++    if (held[key] !== value) return false
++  }
++  return true
++}
++
++export function sameRows(one: readonly Row[], two: readonly Row[]): boolean {
++  if (one.length !== two.length) return false
++  return one.every((row, at) => sameRow(row, two[at]))
+ }
+ 
+ export function valuesFor(wanted: HeldRule, was: HeldRule | undefined): Record<string, unknown> {
+diff --git a/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.test.ts b/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.test.ts
+index 564f392d1b987b23a59bccdc66312e7a7deeddc4..e2d939cd1b8578eba946edf43702387d0b750374 100644
+--- a/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.test.ts
++++ b/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.test.ts
+@@ -1,12 +1,14 @@
+ import { expect, test } from "bun:test"
+ import type { HeldRule } from "../inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
+ import type { CategoryRule } from "../inventory-rule-types/inventory-rule-types.module.code.ts"
+-import { alreadySo, valuesFor, writesFor } from "./inventory-rule-writes.module.code.ts"
++import { alreadySo, sameRows, valuesFor, writesFor } from "./inventory-rule-writes.module.code.ts"
+ 
+ const ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
+ 
+ const AN_INSTANT = "1970-01-01T00:00:00.000Z"
+ 
++const A_ROW = { conditionField: "known", conditionValue: "known" }
++
+ function ruleOf(id: string, over: Partial<CategoryRule> = {}): CategoryRule {
+   return { id, categoryId: "scripts", action: "sell", ...over }
+ }
+@@ -67,27 +69,30 @@ test("a rule carrying rows names the entry key", () => {
+     [heldOf("one", 0)],
+     ACCOUNT
+   )
+-  expect(said.upserts[0]?.values.conditions).toEqual([
+-    { conditionField: "known", conditionValue: '"known"' },
+-  ])
++  expect(said.upserts[0]?.values.conditions).toEqual([A_ROW])
+ })
+ 
+ test("an entry key the page carries is named again where the rule carries no row", () => {
+-  const was: HeldRule = {
+-    ...heldOf("one", 0),
+-    conditions: [{ conditionField: "known", conditionValue: '"known"' }],
+-  }
++  const was: HeldRule = { ...heldOf("one", 0), conditions: [A_ROW] }
+   const said = writesFor([ruleOf("one")], [was], ACCOUNT)
+   expect(said.upserts[0]?.values.conditions).toEqual([])
+ })
+ 
+ test("rows the page already carries are no change", () => {
+-  const rows = [{ conditionField: "known", conditionValue: '"known"' }]
+-  const was: HeldRule = { ...heldOf("one", 0), conditions: rows }
++  const was: HeldRule = { ...heldOf("one", 0), conditions: [A_ROW] }
+   const said = writesFor([ruleOf("one", { conditions: { known: "known" } })], [was], ACCOUNT)
+   expect(said.upserts).toEqual([])
+ })
+ 
++test("the id a landed row carries is no difference", () => {
++  const landed = { id: "01a072b6-0546-7d78-8e19-d3cb86901c69", ...A_ROW }
++  expect(sameRows([A_ROW], [landed as unknown as typeof A_ROW])).toBe(true)
++})
++
++test("a row the page does not carry is a difference", () => {
++  expect(sameRows([A_ROW], [])).toBe(false)
++})
++
+ test("a chain leg that moved is a change", () => {
+   const was: HeldRule = { ...heldOf("one", 0), chain: [{ destination: "bank" }] }
+   const said = writesFor(
+diff --git a/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.ts b/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.ts
+index 5463400bca2faef771039e031c9d5efc2eaecbe0..1eb070a44f216e9465729633bff35f19b6addecf 100644
+--- a/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.ts
++++ b/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.ts
+@@ -29,6 +29,14 @@ export const inventoryRuleWrites = {
+       invariantKind: "departure",
+       statement: "An entry key named carrying no row empties the file beside the page.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A row is compared over the fields the write states rather than every field.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The id a landed row carries is therefore no difference.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here reaches the pages.",
