@@ -1,13 +1,16 @@
 diff --git a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
-index 726bfc255d0ed68075a4287eeba45e3fb58a42a6..9e30f4870843b78ac72f223246b56d11512a01ee 100644
+index 726bfc255d0ed68075a4287eeba45e3fb58a42a6..d4795858c38ed3d8a629c612441bf46c4be4ac65 100644
 --- a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
 +++ b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
-@@ -26,7 +26,7 @@ export const aranyaClusterCleanup = {
+@@ -26,9 +26,9 @@ export const aranyaClusterCleanup = {
          "`openingWith` refuses a folder whose name equals or opens with the name of the page above it, so `cluster-api`, `cluster-manifests`, `cluster-operations`, `cluster-provisioning` and `cluster-services` lose the prefix. Folder names only; slugs and npm names are untouched. That answers 23 of the 103 refusals here; the roots also fail on `tunnel-routes.ts`, `nodes.json`, an undeclared `cluster-secrets` and two domain pages in `cluster-provisioning`. 1137 refuse repo-wide.",
      },
      {
 -      statement: "Every module building Kubernetes resources is a manifest page.",
 +      statement: "Every cluster service names a manifest page.",
        workingMemory:
-         "24 folders carry the endings -manifests, -statefulsets, -daemonsets and -synth, and 15 are still modules. 12 manifest pages are there, 11 under cluster-manifests and one at upscale-serving-job. 8 of those landed after this memory said 10 waited on the keystone, so the keystone gates the attachments rather than the conversions. 6 are synth sources found by DISCOVERY_GLOBS, so renaming hides them until synth-discovery asks the index. `akasha refactor retype` is built.",
+-        "24 folders carry the endings -manifests, -statefulsets, -daemonsets and -synth, and 15 are still modules. 12 manifest pages are there, 11 under cluster-manifests and one at upscale-serving-job. 8 of those landed after this memory said 10 waited on the keystone, so the keystone gates the attachments rather than the conversions. 6 are synth sources found by DISCOVERY_GLOBS, so renaming hides them until synth-discovery asks the index. `akasha refactor retype` is built.",
++        "None of the 51 cluster services names a manifest page; each names its code by a path instead. The 12 pages already typed `manifest` are shared libraries: all 12 refuse to load as entry points, and 11 reach the cluster only through an attachment importing them. `manifest-slug` is declared and `synth-discovery` keys on it, so the count holds at 57 as each service converts. Those 12 are a mistyping to unwind.",
      },
+     {
+       statement: "The inference family sits in a top-level inference/ folder.",
