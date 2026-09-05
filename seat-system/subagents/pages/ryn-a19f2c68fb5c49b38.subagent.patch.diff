@@ -108,3 +108,29 @@ index 220ad7d614b4efbb5bef00451aa299935ca45758..8fcf2c91665dc0c20bf3f10d97864a02
      },
      {
        invariantKind: "absence",
+diff --git a/hook-system/chain-refusal/chain-refusal.module.ts b/hook-system/chain-refusal/chain-refusal.module.ts
+index 132cb737df7d235cc8a8836d64bd1f2cd24e38f1..4ad359166e79f8fb6c9fbfcc69cf8dcdf88eb002 100644
+--- a/hook-system/chain-refusal/chain-refusal.module.ts
++++ b/hook-system/chain-refusal/chain-refusal.module.ts
+@@ -23,7 +23,7 @@ export const chainRefusal = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A hook judging every call it cuts the same way binds this rather than spelling the loop.",
++        "A hook judging every call it cuts the same way binds this module rather than spelling the loop.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/imessage/typedstream/typedstream.module.ts b/imessage/typedstream/typedstream.module.ts
+index 0c93f78cfe098c205e0c6ae6077d156fb999dd64..05044f49c1f4859b90acfb3e7e4cc2b47bfed198 100644
+--- a/imessage/typedstream/typedstream.module.ts
++++ b/imessage/typedstream/typedstream.module.ts
+@@ -11,7 +11,7 @@ export const typedstream = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A body this cannot read answers with nothing rather than failing.",
++      statement: "A body this module cannot read answers with nothing rather than failing.",
+     },
+     {
+       invariantKind: "departure",
