@@ -82,6 +82,7 @@ export async function respelledLanded(
     read: base,
     carries: moving,
     saying: () => saying(false),
+    draft: given.agentId !== null,
   }
   const landing = await landingAsked({ ...given, root }, asking)
   if (!dryRun) {
