@@ -872,6 +872,101 @@ index 2e3f1f19ad85a1923ea5d149c7560f380f47bd64..4fdd5ae07c185fefe04a12503f9d3376
      "./cnpg-object-store": "./cnpg-object-store/cnpg-object-store.manifest.code.ts",
      "./cnpg-scheduled-backup": "./cnpg-scheduled-backup/cnpg-scheduled-backup.manifest.code.ts",
      "./collections-rbac": "./collections-rbac/collections-rbac.module.code.ts",
+diff --git a/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.module.code.ts b/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..42074de4a21137062c9bf94978a4c0203b0f882b
+--- /dev/null
++++ b/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.module.code.ts
+@@ -0,0 +1,89 @@
++import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
++import {
++  NAMESPACE,
++  PGBOUNCER_EXPORTER_IMAGE,
++  PGBOUNCER_EXPORTER_LABELS,
++  PGBOUNCER_EXPORTER_SELECTOR_LABELS,
++} from "../prometheus-constants/prometheus-constants.module.code.ts"
++
++export function pgbouncerExporterDeploymentYaml(): string {
++  return synthOne(NAMESPACE, "pgbouncer-exporter-deployment", {
++    apiVersion: "apps/v1",
++    kind: "Deployment",
++    metadata: {
++      name: "pgbouncer-exporter",
++      namespace: NAMESPACE,
++      labels: PGBOUNCER_EXPORTER_LABELS,
++    },
++    spec: {
++      replicas: 1,
++      strategy: { type: "Recreate" },
++      selector: { matchLabels: PGBOUNCER_EXPORTER_SELECTOR_LABELS },
++      template: {
++        metadata: { labels: PGBOUNCER_EXPORTER_LABELS },
++        spec: {
++          containers: [
++            {
++              name: "pgbouncer-exporter",
++              image: PGBOUNCER_EXPORTER_IMAGE,
++              env: [
++                {
++                  name: "PGBOUNCER_EXPORTER_CONNECTION_STRING",
++                  valueFrom: {
++                    secretKeyRef: { name: "prometheus-secrets", key: "PGBOUNCER_STATS_DSN" },
++                  },
++                },
++              ],
++              ports: [{ name: "metrics", containerPort: 9127 }],
++              resources: {
++                requests: { cpu: "10m", memory: "48Mi" },
++                limits: { memory: "48Mi" },
++              },
++              securityContext: {
++                runAsNonRoot: true,
++                runAsUser: 65534,
++                allowPrivilegeEscalation: false,
++                capabilities: { drop: ["ALL"] },
++                readOnlyRootFilesystem: true,
++              },
++              livenessProbe: {
++                httpGet: { path: "/", port: 9127 },
++                initialDelaySeconds: 10,
++                periodSeconds: 10,
++              },
++              readinessProbe: {
++                httpGet: { path: "/", port: 9127 },
++                initialDelaySeconds: 5,
++                periodSeconds: 5,
++              },
++            },
++          ],
++        },
++      },
++    },
++  })
++}
++
++export function pgbouncerExporterServiceYaml(): string {
++  return synthOne(NAMESPACE, "pgbouncer-exporter-service", {
++    apiVersion: "v1",
++    kind: "Service",
++    metadata: {
++      name: "pgbouncer-exporter",
++      namespace: NAMESPACE,
++      labels: PGBOUNCER_EXPORTER_LABELS,
++    },
++    spec: {
++      type: "ClusterIP",
++      selector: PGBOUNCER_EXPORTER_SELECTOR_LABELS,
++      ports: [
++        {
++          name: "metrics",
++          port: 9127,
++          targetPort: "metrics",
++          protocol: "TCP",
++        },
++      ],
++    },
++  })
++}
 diff --git a/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.module.ts b/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.module.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..feaa5c4a3f9f98bb7773ed855b7df713e2673b10
