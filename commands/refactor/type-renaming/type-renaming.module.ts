@@ -58,7 +58,7 @@ export const typeRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "Only the tail of a file's name says which page type it is.",
+      statement: "Only the tail of a file's name says which page type that file is.",
     },
     {
       invariantKind: "departure",
