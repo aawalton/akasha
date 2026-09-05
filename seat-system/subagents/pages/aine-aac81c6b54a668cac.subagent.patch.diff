@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts
-index 7818329b0eda848cf6b89ba72c92dbf451ba6105..9692d36f5683599c6d5c252adc139f4e311eb8cb 100644
+index 7818329b0eda848cf6b89ba72c92dbf451ba6105..304e2f2cf66d825eb6aa313b19c505ab03be016f 100644
 --- a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts
 +++ b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts
 @@ -7,10 +7,10 @@ import { categoryTitles } from "../rule-pages/monarch-rule-pages.module.code.ts"
@@ -16,11 +16,20 @@ index 7818329b0eda848cf6b89ba72c92dbf451ba6105..9692d36f5683599c6d5c252adc139f4e
   */
  const RULES = "alan/harness/monarch/category-rules"
  
+@@ -64,7 +64,7 @@ async function namesIn(one: Kind): Promise<readonly string[]> {
+     entries = await readdir(join(AKASHA, one.folder))
+   } catch (why) {
+     throw new Error(
+-      `no folder stands at ${one.folder}, so this reader cannot say whether the ${one.kind} ` +
++      `no folder exists at ${one.folder}, so this reader cannot say whether the ${one.kind} ` +
+         "rules are gone or merely moved. Answering with no rules would categorize nothing and " +
+         `report nothing wrong. (${why instanceof Error ? why.message : String(why)})`
+     )
 diff --git a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
-index 1dad0a9d1f4c6185417aae8f7e8d016b29e7e6a5..d352730c441c817b2df7621cc6b1b8df964ddfad 100644
+index 1dad0a9d1f4c6185417aae8f7e8d016b29e7e6a5..617b193a40dd3c2b4035f269256476c2b9cd4131 100644
 --- a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
 +++ b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
-@@ -4,7 +4,7 @@ export const monarchRuleDocuments = {
+@@ -4,12 +4,12 @@ export const monarchRuleDocuments = {
    id: "01a06866-06f1-762e-b1c3-4910e1884927",
    pageTypeSlug: "module",
    slug: "monarch-rule-documents",
@@ -29,8 +38,14 @@ index 1dad0a9d1f4c6185417aae8f7e8d016b29e7e6a5..d352730c441c817b2df7621cc6b1b8df
    code: "ts",
    invariants: [
      {
+       invariantKind: "departure",
+-      statement: "The rules stand as TypeScript pages, one file to a rule.",
++      statement: "The rules are TypeScript pages, one file to a rule.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/alan/harness/monarch/rule-pages/monarch-rule-pages.module.code.ts b/alan/harness/monarch/rule-pages/monarch-rule-pages.module.code.ts
-index cd6c452cb3fec9d6998e0ea107533c335dcf3cb9..991ca6013f336d26576aa6b52f8729e62aa8dfd2 100644
+index cd6c452cb3fec9d6998e0ea107533c335dcf3cb9..f31d22ac41a5e150955cc673c99598188e46ff46 100644
 --- a/alan/harness/monarch/rule-pages/monarch-rule-pages.module.code.ts
 +++ b/alan/harness/monarch/rule-pages/monarch-rule-pages.module.code.ts
 @@ -18,7 +18,7 @@ export async function categoryTitles(): Promise<ReadonlyMap<string, string>> {
@@ -42,8 +57,17 @@ index cd6c452cb3fec9d6998e0ea107533c335dcf3cb9..991ca6013f336d26576aa6b52f8729e6
    const held = keyOf(page, "monarchId")
    if (held === null) {
      throw new Error(`${page.path} names no \`monarch-id\`, so nothing can be posted back for it`)
+@@ -46,7 +46,7 @@ export function readFlags(argv: readonly string[]): ReadonlyMap<string, readonly
+       key = token.slice(2)
+       if (!flags.has(key)) flags.set(key, [])
+     } else if (key === null) {
+-      throw new Error(`"${token}" stands before any --flag it could belong to`)
++      throw new Error(`"${token}" comes before any --flag it could belong to`)
+     } else {
+       flags.get(key)?.push(token)
+     }
 diff --git a/alan/harness/monarch/rule-pages/monarch-rule-pages.module.ts b/alan/harness/monarch/rule-pages/monarch-rule-pages.module.ts
-index 2366f940ae3c0d6f4da6faf3f599cd6c368275b1..35be52eab09d9de26305b05a633b6ebe02c26991 100644
+index 2366f940ae3c0d6f4da6faf3f599cd6c368275b1..9ff5671d7ddcfc4297241777570e3610ae08590c 100644
 --- a/alan/harness/monarch/rule-pages/monarch-rule-pages.module.ts
 +++ b/alan/harness/monarch/rule-pages/monarch-rule-pages.module.ts
 @@ -14,7 +14,7 @@ export const monarchRulePages = {
@@ -52,6 +76,15 @@ index 2366f940ae3c0d6f4da6faf3f599cd6c368275b1..35be52eab09d9de26305b05a633b6ebe
        statement:
 -        "A slug that names no standing category is refused, so a merged or renamed category is loud.",
 +        "A slug that names no existing category is refused, so a merged or renamed category is loud.",
+     },
+     {
+       invariantKind: "departure",
+@@ -33,7 +33,7 @@ export const monarchRulePages = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A value standing before any flag it could belong to is refused rather than guessed at.",
++        "A value coming before any flag it could belong to is refused rather than guessed at.",
      },
      {
        invariantKind: "departure",
