@@ -1,0 +1,114 @@
+runsWarrants: false
+diff --git a/infrastructure/cluster-provisioning/cluster-ca/ca.crt b/infrastructure/cluster-provisioning/cluster-ca/ca.crt
+new file mode 100644
+index 0000000000000000000000000000000000000000..2058e5fec336cb7be8900a9090aa2c349ddb780f
+--- /dev/null
++++ b/infrastructure/cluster-provisioning/cluster-ca/ca.crt
+@@ -0,0 +1,29 @@
++-----BEGIN CERTIFICATE-----
++MIIFCzCCAvOgAwIBAgIUZEnCM2pCEto0tXyPM4w+0UZI2kMwDQYJKoZIhvcNAQEL
++BQAwFTETMBEGA1UEAwwKY2x1c3Rlci1jYTAeFw0yNjAzMjMxMjM3MDRaFw0zNjAz
++MjAxMjM3MDRaMBUxEzARBgNVBAMMCmNsdXN0ZXItY2EwggIiMA0GCSqGSIb3DQEB
++AQUAA4ICDwAwggIKAoICAQDXwkY3c4HbBk2EDv7Au87TY7nce0NwAXmXeithqv6s
++K+E7+5T3ZPa59dYl+EvS05w849v/9M33QsYZCH2biXpVpkU1XFgchoeCGMkjGuNX
++ih8NBxPmlCwoxhZBJMk3TB95LqYrRjyz51tyx+dNQIB7ghmbDxge6FOpybqxRFHU
++R1Hd8NSKI1y1EAr2JP3ooG9XprV+IBm7c6iy86Ru1PM79z3cmHBxv5z3C4qal7pi
++LveL6HTNZ2P94JSqwd3vCm/PEuoY/pirwwNrcrYc2720pI7frhVnlqT0NLCc/PCJ
++tyu9O6BmemNHYjxbResYreJe2Jvol7G6UEBiMzsHAm04b+84YWgFk1aEOr98Sw0O
++NDiood2wApXMiRI9+UWuuvrh+bk76ChMjbHi8l/jq0Kj4eO3RpPmMStJ8nfbYTMZ
++uAi2ByELV9JM+XQiB+KcXc193Ep5bDHnDxDAvMEIH48N7E6aOY7fyNq/x39mXMjL
++j8TLBV3o016bgKoDGi2NjxXOXxD1SwaXbGRGVjwTbgWVcrHbdE+yRdYimpOP7zRU
++EBEA8NeKRZ7fU+gtt/R8DwEdyq8+TDNE+K11bwfQKiAVyczqsahVeXuazHDX7jpM
++vzgX9NQxbyCxBi+W7XDhqNORi+yn6tUME96yLNAluV2TgH0wG5NXRyL3lt8isRze
+++QIDAQABo1MwUTAdBgNVHQ4EFgQU2mIOTsc39LM4Dd8ctw0sr/WZV9EwHwYDVR0j
++BBgwFoAU2mIOTsc39LM4Dd8ctw0sr/WZV9EwDwYDVR0TAQH/BAUwAwEB/zANBgkq
++hkiG9w0BAQsFAAOCAgEAHZ86oQz7UkGpz6FQrqfDr7KNGYsW1CFz8mm+sNequkAO
++/W2b2nw8sS1wj57DTY2SbyNi8OjfBVyPN2gCnCiFYtGzEawpwvL/Xvhof9e9deaw
++B+cG+S2W5gaIgvIeFK0SBs1Q49aVp456TChUHwT2350AzgHZOzk1gSlcT6nC5Dxn
++68BaRilN5bBg1i59gb2agRjr63qMFV4HVahHYDICqfmrY8XuxDwhrDtgMVyx2H/e
++tVMltUbnHFASvfcWVb4smxVgg9xy3RHEyA3Uwhtx2J5igpSxf8Ar4Cs3HlSYNAqG
++8i70r3y+O2/5bBm3bQelbDnSBzzmm/MP+8OnZ6jR55+jGyOh40DxB/7aRM81b+qR
++PaRzwyiU2ZD0WS/80bKGirKLpHUSu2BFGdEJ9HqGqSvnfTeYZJGJvBqBxjk9rEOn
++d+7qzd6MXJLUNRp9hgNdJomuw6royLdOmVgYleq+5uvWufEa5QvdAh7NDGubOe8f
++tdZTHUm/UWTC6c+e/CYwHrWlJwMYQNFyuCbmdHquNx+tU+pzocrhDhkYmEt56qbf
++uZ/YAue/OwMUmhW+3WgMWnHXsJoYmRDC4BIhxc3OEkEhMGkl3gu+uZMhEICpzdSn
++JcoM73OgCIhHaxdXAtFTsfF92qoCfbrwxk8aImgG6YeX2OBI7+pHtrdNXg+aqKM=
++-----END CERTIFICATE-----
+diff --git a/infrastructure/cluster-provisioning/cluster-ca/cluster-ca.certificate-authority.ts b/infrastructure/cluster-provisioning/cluster-ca/cluster-ca.certificate-authority.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5cf27a666d3004da6000135adc39dad287e16576
+--- /dev/null
++++ b/infrastructure/cluster-provisioning/cluster-ca/cluster-ca.certificate-authority.ts
+@@ -0,0 +1,9 @@
++import type { CertificateAuthority } from "../../certificate-authorities/certificate-authority.page-type.ts"
++
++export const clusterCa = {
++  id: "01a0685e-1c21-7b95-8c04-9d5a6e2f31b7",
++  pageTypeSlug: "certificate-authority",
++  slug: "cluster-ca",
++  definition: "the authority the cluster's own certificates are signed by",
++  authorityCertificate: "pem",
++} as const satisfies CertificateAuthority
+diff --git a/infrastructure/cluster-provisioning/generate-certs/ca.crt b/infrastructure/cluster-provisioning/generate-certs/ca.crt
+deleted file mode 100644
+index 2058e5fec336cb7be8900a9090aa2c349ddb780f..0000000000000000000000000000000000000000
+--- a/infrastructure/cluster-provisioning/generate-certs/ca.crt
++++ /dev/null
+@@ -1,29 +0,0 @@
+------BEGIN CERTIFICATE-----
+-MIIFCzCCAvOgAwIBAgIUZEnCM2pCEto0tXyPM4w+0UZI2kMwDQYJKoZIhvcNAQEL
+-BQAwFTETMBEGA1UEAwwKY2x1c3Rlci1jYTAeFw0yNjAzMjMxMjM3MDRaFw0zNjAz
+-MjAxMjM3MDRaMBUxEzARBgNVBAMMCmNsdXN0ZXItY2EwggIiMA0GCSqGSIb3DQEB
+-AQUAA4ICDwAwggIKAoICAQDXwkY3c4HbBk2EDv7Au87TY7nce0NwAXmXeithqv6s
+-K+E7+5T3ZPa59dYl+EvS05w849v/9M33QsYZCH2biXpVpkU1XFgchoeCGMkjGuNX
+-ih8NBxPmlCwoxhZBJMk3TB95LqYrRjyz51tyx+dNQIB7ghmbDxge6FOpybqxRFHU
+-R1Hd8NSKI1y1EAr2JP3ooG9XprV+IBm7c6iy86Ru1PM79z3cmHBxv5z3C4qal7pi
+-LveL6HTNZ2P94JSqwd3vCm/PEuoY/pirwwNrcrYc2720pI7frhVnlqT0NLCc/PCJ
+-tyu9O6BmemNHYjxbResYreJe2Jvol7G6UEBiMzsHAm04b+84YWgFk1aEOr98Sw0O
+-NDiood2wApXMiRI9+UWuuvrh+bk76ChMjbHi8l/jq0Kj4eO3RpPmMStJ8nfbYTMZ
+-uAi2ByELV9JM+XQiB+KcXc193Ep5bDHnDxDAvMEIH48N7E6aOY7fyNq/x39mXMjL
+-j8TLBV3o016bgKoDGi2NjxXOXxD1SwaXbGRGVjwTbgWVcrHbdE+yRdYimpOP7zRU
+-EBEA8NeKRZ7fU+gtt/R8DwEdyq8+TDNE+K11bwfQKiAVyczqsahVeXuazHDX7jpM
+-vzgX9NQxbyCxBi+W7XDhqNORi+yn6tUME96yLNAluV2TgH0wG5NXRyL3lt8isRze
+-+QIDAQABo1MwUTAdBgNVHQ4EFgQU2mIOTsc39LM4Dd8ctw0sr/WZV9EwHwYDVR0j
+-BBgwFoAU2mIOTsc39LM4Dd8ctw0sr/WZV9EwDwYDVR0TAQH/BAUwAwEB/zANBgkq
+-hkiG9w0BAQsFAAOCAgEAHZ86oQz7UkGpz6FQrqfDr7KNGYsW1CFz8mm+sNequkAO
+-/W2b2nw8sS1wj57DTY2SbyNi8OjfBVyPN2gCnCiFYtGzEawpwvL/Xvhof9e9deaw
+-B+cG+S2W5gaIgvIeFK0SBs1Q49aVp456TChUHwT2350AzgHZOzk1gSlcT6nC5Dxn
+-68BaRilN5bBg1i59gb2agRjr63qMFV4HVahHYDICqfmrY8XuxDwhrDtgMVyx2H/e
+-tVMltUbnHFASvfcWVb4smxVgg9xy3RHEyA3Uwhtx2J5igpSxf8Ar4Cs3HlSYNAqG
+-8i70r3y+O2/5bBm3bQelbDnSBzzmm/MP+8OnZ6jR55+jGyOh40DxB/7aRM81b+qR
+-PaRzwyiU2ZD0WS/80bKGirKLpHUSu2BFGdEJ9HqGqSvnfTeYZJGJvBqBxjk9rEOn
+-d+7qzd6MXJLUNRp9hgNdJomuw6royLdOmVgYleq+5uvWufEa5QvdAh7NDGubOe8f
+-tdZTHUm/UWTC6c+e/CYwHrWlJwMYQNFyuCbmdHquNx+tU+pzocrhDhkYmEt56qbf
+-uZ/YAue/OwMUmhW+3WgMWnHXsJoYmRDC4BIhxc3OEkEhMGkl3gu+uZMhEICpzdSn
+-JcoM73OgCIhHaxdXAtFTsfF92qoCfbrwxk8aImgG6YeX2OBI7+pHtrdNXg+aqKM=
+------END CERTIFICATE-----
+diff --git a/infrastructure/cluster-provisioning/generate-certs/cluster-ca.certificate-authority.ts b/infrastructure/cluster-provisioning/generate-certs/cluster-ca.certificate-authority.ts
+deleted file mode 100644
+index 5cf27a666d3004da6000135adc39dad287e16576..0000000000000000000000000000000000000000
+--- a/infrastructure/cluster-provisioning/generate-certs/cluster-ca.certificate-authority.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { CertificateAuthority } from "../../certificate-authorities/certificate-authority.page-type.ts"
+-
+-export const clusterCa = {
+-  id: "01a0685e-1c21-7b95-8c04-9d5a6e2f31b7",
+-  pageTypeSlug: "certificate-authority",
+-  slug: "cluster-ca",
+-  definition: "the authority the cluster's own certificates are signed by",
+-  authorityCertificate: "pem",
+-} as const satisfies CertificateAuthority
+diff --git a/infrastructure/cluster-provisioning/talos/talos-registry-ca/talos-registry-ca.module.code.ts b/infrastructure/cluster-provisioning/talos/talos-registry-ca/talos-registry-ca.module.code.ts
+index be6d6978bd5fcfad9005858499ae477705ceef55..1c65164d9b405aac06ce7f0f793818ce51b9928e 100644
+--- a/infrastructure/cluster-provisioning/talos/talos-registry-ca/talos-registry-ca.module.code.ts
++++ b/infrastructure/cluster-provisioning/talos/talos-registry-ca/talos-registry-ca.module.code.ts
+@@ -2,7 +2,7 @@ import { existsSync, readFileSync } from "node:fs"
+ import { resolve } from "node:path"
+ import { ownRepoRoot } from "@akasha/pages/checkout-roots"
+ 
+-const REPO_RELATIVE_CA = "infrastructure/cluster-provisioning/generate-certs/ca.crt"
++const REPO_RELATIVE_CA = "infrastructure/cluster-provisioning/cluster-ca/ca.crt"
+ 
+ export function registryCaPath(): string {
+   const explicit = process.env.CLUSTER_CA_PATH
