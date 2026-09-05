@@ -77,23 +77,25 @@ export const test = {
     },
     {
       invariantKind: "departure",
-      statement: "A run naming one test carries what the runner printed about that test.",
+      statement: "A run naming one test carries the output the runner printed about that test.",
     },
     {
       invariantKind: "departure",
-      statement: "A run naming no test points at naming one rather than carrying what was printed.",
+      statement:
+        "A run naming no test points at naming one rather than carrying the output the runner printed.",
     },
     {
       invariantKind: "departure",
-      statement: "What a named run carries is bounded in lines and in bytes alike.",
+      statement: "The output a named run carries is bounded in lines and in bytes alike.",
     },
     {
       invariantKind: "departure",
-      statement: "A named run carries what the runner printed from the head of that output.",
+      statement: "A named run carries the head of the output the runner printed.",
     },
     {
       invariantKind: "departure",
-      statement: "The runner says what an assertion expected on the stream its markers are not on.",
+      statement:
+        "The runner prints an assertion's expectation on the stream its markers are not on.",
     },
   ],
 } as const satisfies Command
