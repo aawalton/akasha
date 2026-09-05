@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/transaction-polling/transaction-polling.module.ts b/alan/harness/monarch/transaction-polling/transaction-polling.module.ts
+index 4447dbe319e8b25256dc5284b36ce64bac00f78b..4ea47830c73293a300c99d038514a8ef76e9af65 100644
+--- a/alan/harness/monarch/transaction-polling/transaction-polling.module.ts
++++ b/alan/harness/monarch/transaction-polling/transaction-polling.module.ts
+@@ -31,7 +31,8 @@ export const transactionPolling = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row naming a category this mirror has not landed keeps the category it holds.",
++      statement:
++        "A row naming a category this mirror has not landed keeps the category that row holds.",
+     },
+     {
+       invariantKind: "departure",
