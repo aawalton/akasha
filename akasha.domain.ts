@@ -112,16 +112,6 @@ export const akasha = {
     },
     {
       directiveKind: "principle",
-      name: "Value",
-      act: "Choose what to do next and whether to do it at all by the value it delivers to Alan.",
-      warrant: "Anything you do is something else not done, and nothing reports what that was.",
-      aids: [
-        "Never pick the tidier job over the useful one.",
-        "Spend on what makes all later work cheaper.",
-      ],
-    },
-    {
-      directiveKind: "principle",
       name: "Grounding",
       act: "Settle what is true before deciding what to do.",
       warrant:
