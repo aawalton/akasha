@@ -18,6 +18,30 @@ index c01a98711d9dc20a0ad592f81708e94b0abd2d62..8af453651f0aed29a08fd5dab6ee24db
    if (held.dryRun) return await reporting(given.root, held, gate, aside)
    const message = messageWith(held, bypass, broken)
    const asRead = asReadIn(given, formatting.changes)
+diff --git a/command-system/asking/asking.module.ts b/command-system/asking/asking.module.ts
+index d0a1165defc4b97a54fc0f7bb1874da839d6d0ba..9eb5d10f9ce7f9ea87b847e8a7a3630854f334dc 100644
+--- a/command-system/asking/asking.module.ts
++++ b/command-system/asking/asking.module.ts
+@@ -96,6 +96,19 @@ export const asking = {
+       invariantKind: "departure",
+       statement: "A body of a kind the formatter owns is formatted before the gate sees the body.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The links a caller hands in are repointed once the checks have loaded.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A gate that would not load is answered before any link is repointed.",
++    },
++    {
++      invariantKind: "constraint",
++      statement:
++        "A link repointed while this call runs reaches a folder the change has not written yet.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A body of any other kind reaches the gate as the caller handed the body in.",
 diff --git a/command-system/commands/move/move.command.code.ts b/command-system/commands/move/move.command.code.ts
 index f1484696b2b04c1d2fac790428e789ed556fd02e..95dbb637bbb779672ea9ce74914578687f4bddd3 100644
 --- a/command-system/commands/move/move.command.code.ts
