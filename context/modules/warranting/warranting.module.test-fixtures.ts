@@ -233,10 +233,11 @@ export function roleListed(root: string, slug: string): Listed {
   return pageListed(root, `role-system/role/roles/${slug}.role.ts`, "role", slug)
 }
 
-export function pageTypeListed(root: string, slug: string, above: string | null): string {
+export function pageTypeListed(root: string, slug: string, above: readonly string[]): string {
   const id = mintedId(`type-${slug}`)
   const path = `akasha/${slug}/${slug}.page-type.ts`
-  const said = above === null ? "" : `, extendsSlug: ["page-type/${above}"]`
+  const named = above.map((one) => `page-type/${one}`)
+  const said = `, extendsSlug: ${JSON.stringify(named)}`
   writing(
     root,
     path,

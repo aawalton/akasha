@@ -73,7 +73,7 @@ export function pageRepo(): string {
 function typed(
   said: string,
   slug: string,
-  above: string | null,
+  above: readonly string[],
   declares: readonly string[] = []
 ): string {
   const properties = declares.map((one) => ({
@@ -101,7 +101,7 @@ export async function landedMoving(root: string, read: string): Promise<Landed |
   return await landing(root, [{ path: PAGE, body: bytes("moved") }], "m", ADMITS, null, read)
 }
 
-export const TYPE = typed("02", "domain", "page-type/page")
+export const TYPE = typed("02", "domain", ["page-type/page"])
 
 export const NUL = new Uint8Array([104, 0, 101, 108, 100, 0, 0, 10])
 
@@ -117,9 +117,9 @@ export const filedFor = (id: string): readonly string[] => [
 ]
 
 const VOCABULARY: readonly (readonly [string, string])[] = [
-  ["akasha/page.page-type.ts", typed("11", "page", null, ["id", "slug"])],
-  ["akasha/page-type.page-type.ts", typed("12", "page-type", "page-type/page")],
-  ["akasha/page-property.page-type.ts", typed("13", "page-property", "page-type/page")],
+  ["akasha/page.page-type.ts", typed("11", "page", [], ["id", "slug"])],
+  ["akasha/page-type.page-type.ts", typed("12", "page-type", ["page-type/page"])],
+  ["akasha/page-property.page-type.ts", typed("13", "page-property", ["page-type/page"])],
   ["akasha/domain.page-type.ts", TYPE],
 ]
 

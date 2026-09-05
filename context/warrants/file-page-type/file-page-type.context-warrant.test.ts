@@ -26,9 +26,9 @@ const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 const PATH = "akasha/thing/thing.module.ts"
 
 function typeWorld(root: string): readonly string[] {
-  const page = pageTypeListed(root, "page", null)
-  const domain = pageTypeListed(root, "domain", "page")
-  const module = pageTypeListed(root, "module", "domain")
+  const page = pageTypeListed(root, "page", [])
+  const domain = pageTypeListed(root, "domain", ["page"])
+  const module = pageTypeListed(root, "module", ["domain"])
   return [module, domain, page]
 }
 
@@ -83,8 +83,8 @@ test("a file naming no page type in its name answers to no type", () => {
 
 test("a chain that turns back on itself is walked once", () => {
   const root = scratch.rootFor("akasha-file-page-type-")
-  const one = pageTypeListed(root, "one", "two")
-  const two = pageTypeListed(root, "two", "one")
+  const one = pageTypeListed(root, "one", ["two"])
+  const two = pageTypeListed(root, "two", ["one"])
   const at = "akasha/thing/thing.one.ts"
   writing(root, at, "body\n")
   expect(pathsOf(warrantsAt(root, at))).toEqual([one, two])

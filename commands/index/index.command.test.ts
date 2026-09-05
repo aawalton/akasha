@@ -51,7 +51,12 @@ function bodyOf(value: Readonly<Record<string, unknown>>): string {
   return `export const held = ${JSON.stringify(value)}\n`
 }
 
-function typed(said: string, slug: string, above: string | null, declares: readonly string[] = []) {
+function typed(
+  said: string,
+  slug: string,
+  above: readonly string[],
+  declares: readonly string[] = []
+) {
   const properties = declares.map((one) => ({
     pagePropertySlug: one,
     required: false,
@@ -67,9 +72,9 @@ function typed(said: string, slug: string, above: string | null, declares: reado
 }
 
 const PAGES: Readonly<Record<string, string>> = {
-  "page.page-type.ts": typed("11", "page", null, ["id", "slug"]),
-  "page-type.page-type.ts": typed("12", "page-type", "page-type/page"),
-  "page-property.page-type.ts": typed("13", "page-property", "page-type/page"),
+  "page.page-type.ts": typed("11", "page", [], ["id", "slug"]),
+  "page-type.page-type.ts": typed("12", "page-type", ["page-type/page"]),
+  "page-property.page-type.ts": typed("13", "page-property", ["page-type/page"]),
   "domain.page-type.ts": bodyOf({
     id: TYPE_ID,
     pageTypeSlug: "page-type",

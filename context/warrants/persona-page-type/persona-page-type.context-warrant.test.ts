@@ -25,8 +25,8 @@ afterAll(scratch.sweep)
 const AGENT = "01a0596c-0000-7000-8000-000000000004"
 
 function typeWorld(root: string): readonly string[] {
-  const page = pageTypeListed(root, "page", null)
-  const persona = pageTypeListed(root, "persona", "page")
+  const page = pageTypeListed(root, "page", [])
+  const persona = pageTypeListed(root, "persona", ["page"])
   return [persona, page]
 }
 

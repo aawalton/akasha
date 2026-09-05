@@ -81,7 +81,7 @@ function typeWritten(
   id: string,
   slug: string,
   at: string,
-  above: string | null,
+  above: readonly string[],
   declared: readonly Declared[]
 ): undefined {
   filed(
@@ -166,8 +166,8 @@ export function rootFor(prefix: string): string {
 
 export function worldMade(): string {
   const root = rootFor("oauth-effects-")
-  typeWritten(root, ABOVE_TYPE, "page", ABOVE_AT, null, ABOVE_DECLARED)
-  typeWritten(root, ACCOUNT_TYPE, "claude-account", TYPE_AT, "page-type/page", ACCOUNT_DECLARED)
+  typeWritten(root, ABOVE_TYPE, "page", ABOVE_AT, [], ABOVE_DECLARED)
+  typeWritten(root, ACCOUNT_TYPE, "claude-account", TYPE_AT, ["page-type/page"], ACCOUNT_DECLARED)
   accountWritten(
     root,
     "aine",

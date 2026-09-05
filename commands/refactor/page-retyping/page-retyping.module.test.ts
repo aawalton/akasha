@@ -27,7 +27,7 @@ function stated(value: Readonly<Record<string, unknown>>): string {
 function kind(
   said: string,
   slug: string,
-  above: string | null,
+  above: readonly string[],
   declares: readonly string[] = []
 ): readonly [string, string] {
   return [
@@ -59,14 +59,14 @@ function property(
 const VOCABULARY: Readonly<Record<string, string>> = {
   ...declaringUnder(TREE),
   ...Object.fromEntries([
-    kind("01", "page", null, ["id", "slug", "page-type-slug"]),
-    kind("02", "page-property", "page-type/page"),
-    kind("03", "relation-property", "page-type/page-property"),
-    kind("04", "file-property", "page-type/page-property"),
-    kind("05", "domain", "page-type/page"),
-    kind("06", "page-type", "page-type/page"),
-    kind("07", "thing", "page-type/page", ["names", "held-code", "only-thing"]),
-    kind("08", "mark", "page-type/page", ["names", "mark-code"]),
+    kind("01", "page", [], ["id", "slug", "page-type-slug"]),
+    kind("02", "page-property", ["page-type/page"]),
+    kind("03", "relation-property", ["page-type/page-property"]),
+    kind("04", "file-property", ["page-type/page-property"]),
+    kind("05", "domain", ["page-type/page"]),
+    kind("06", "page-type", ["page-type/page"]),
+    kind("07", "thing", ["page-type/page"], ["names", "held-code", "only-thing"]),
+    kind("08", "mark", ["page-type/page"], ["names", "mark-code"]),
     property("09", "page-type-slug", "relation-property", "page-type-slug", "page-type/page-type"),
     property("10", "names", "relation-property", "names", "page-type/page"),
     property("11", "held-code", "file-property", "code"),
