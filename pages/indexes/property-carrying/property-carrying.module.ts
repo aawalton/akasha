@@ -23,7 +23,8 @@ export const propertyCarrying = {
     },
     {
       invariantKind: "departure",
-      statement: "What declares a property is answered apart from what carries the property.",
+      statement:
+        "The declarers of a property are answered apart from the pages carrying the property.",
     },
     {
       invariantKind: "departure",
@@ -71,7 +72,7 @@ export const propertyCarrying = {
     },
     {
       invariantKind: "departure",
-      statement: "What the file is named decides nothing on its own.",
+      statement: "The file's name decides nothing on its own.",
     },
     {
       invariantKind: "departure",
