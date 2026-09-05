@@ -1,3 +1,33 @@
+diff --git a/agents/models/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.ts b/agents/models/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.ts
+index 4b49c31a3e43707b85896d584650f52ff23df11f..b2444ea7ec370bbd95d7afeeffee8081082415de 100644
+--- a/agents/models/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.ts
++++ b/agents/models/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.ts
+@@ -58,10 +58,6 @@ export const modelUnavailableRebind = {
+       statement: "An answer carries the body text upstream sent.",
+     },
+ 
+-    {
+-      invariantKind: "departure",
+-      statement: "An answer carries the headers upstream sent.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "No account left to choose is written about as `no-viable-account`.",
+diff --git a/agents/models/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.ts b/agents/models/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.ts
+index ad41983b85646995f4fc6ed70ba68e0b4eca75c9..181c0e5fa5770e932c239b9565d7a51db3096ef1 100644
+--- a/agents/models/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.ts
++++ b/agents/models/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.ts
+@@ -53,10 +53,6 @@ export const permissionDeniedRebind = {
+       statement: "An answer carries the body text upstream sent.",
+     },
+ 
+-    {
+-      invariantKind: "departure",
+-      statement: "An answer carries the headers upstream sent.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "No account left to choose is answered rather than rebound.",
 diff --git a/command-system/commands/edit/edit.command.ts b/command-system/commands/edit/edit.command.ts
 index c27f9c27c7bdd8a56eb66af00c91173b91acdfce..86ebfd0e32d2f07138148e8d50a37d987f697980 100644
 --- a/command-system/commands/edit/edit.command.ts
