@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/collection-system/collections/properties/own-length.number-property.ts b/collection-system/collections/properties/own-length.number-property.ts
+index 1c9537f377d61e978b0996d11daeca3db7871df1..1c09651a9372b6f53c45c79936e652f5f23bc4bb 100644
+--- a/collection-system/collections/properties/own-length.number-property.ts
++++ b/collection-system/collections/properties/own-length.number-property.ts
+@@ -12,7 +12,8 @@ export const ownLength = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A length is the collection's own rather than the sum of the parts it holds.",
++      statement:
++        "A length is the collection's own rather than the sum of the parts that collection holds.",
+     },
+   ],
+ } as const satisfies NumberProperty
