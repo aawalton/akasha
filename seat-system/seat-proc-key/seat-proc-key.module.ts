@@ -23,8 +23,11 @@ export const seatProcKey = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A key is written as the pid, a hyphen and the start ticks, and is read back across a hyphen or a dot.",
+      statement: "A key is written as the pid, a hyphen and the start ticks.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key is read back across a hyphen or a dot.",
     },
     {
       invariantKind: "departure",
