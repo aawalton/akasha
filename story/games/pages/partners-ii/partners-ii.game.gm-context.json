@@ -365,15 +365,11 @@
       },
       {
         "id": "narrate-turn",
-        "requirement": "Narrate the turn as prose (commit-turn) — outcomes woven as story, mechanics surfaced only through system windows."
+        "requirement": "Narrate the turn as prose — outcomes woven as story, mechanics surfaced only through system windows."
       },
       {
         "id": "update-state",
-        "requirement": "Update display state (commit-state, litrpg shape) — HUD pools, sheet, beat log with system windows for mechanical events."
-      },
-      {
-        "id": "update-entities",
-        "requirement": "If any canonical sheet changed, ALSO commit-entity for each changed entity — commit-state sets only the relation, never the sheet."
+        "requirement": "Update display state (litrpg shape) — HUD pools, sheet, beat log with system windows for mechanical events."
       },
       {
         "id": "update-continuity",
