@@ -15,7 +15,7 @@ export const fileFollowing = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder holding a file is what is watched rather than the file.",
+      statement: "The folder holding a file is watched rather than the file.",
     },
     {
       invariantKind: "departure",
@@ -53,7 +53,7 @@ export const fileFollowing = {
     {
       invariantKind: "departure",
       statement:
-        "Following a folder weighs what it holds now rather than a list fixed at the start.",
+        "Following a folder weighs the files that folder holds now rather than a list fixed at the start.",
     },
     {
       invariantKind: "departure",
