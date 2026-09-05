@@ -24,10 +24,6 @@ const HOLD_MS = 5_000
 
 let held: { readonly at: number; readonly seats: readonly SeatTranscript[] } | null = null
 
-export function dropSeatTranscripts(): void {
-  held = null
-}
-
 function seatsIn(answered: unknown): readonly SeatTranscript[] {
   if (
     answered === null ||

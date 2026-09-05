@@ -94,14 +94,6 @@ async function run(
   return whole(what, stdout, stderr)
 }
 
-export function repositoryPath(repo: string): string {
-  try {
-    return fs.realpathSync(repo)
-  } catch {
-    return repo
-  }
-}
-
 const SERVER_START_TIMEOUT_MS = 15_000
 
 let served: Serving | undefined
@@ -157,9 +149,4 @@ export async function runCommand(
     return whole(command, answer.stdout, answer.stderr)
   }
   return run(command, path.join(bunDirectory(), "bun"), [commandFile(command), ...args], options)
-}
-
-export function unreachableMessage(error: unknown): string {
-  const detail = error instanceof Error ? error.message : String(error)
-  return `Cannot reach the harness: ${detail.trim()}`
 }

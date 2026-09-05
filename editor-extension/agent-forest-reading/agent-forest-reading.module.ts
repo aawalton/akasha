@@ -33,15 +33,11 @@ export const agentForestReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The working turn's colour is asked once and held until the answers are dropped.",
+      statement: "The working turn's color is asked once and held for the life of the reader.",
     },
     {
       invariantKind: "departure",
       statement: "A turn colour that cannot be read leaves every subagent uncoloured.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Dropping the answers drops the seat transcripts with those answers.",
     },
     {
       invariantKind: "absence",

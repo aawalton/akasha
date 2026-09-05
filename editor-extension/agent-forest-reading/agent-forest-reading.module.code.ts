@@ -18,17 +18,12 @@ import type {
   SubagentNode,
   SubagentReader,
 } from "../subagent-reading/subagent-reading.module.code.ts"
-import {
-  dropSeatTranscripts,
-  seatTranscriptOf,
-} from "../transcript-sources/transcript-sources.module.code.ts"
+import { seatTranscriptOf } from "../transcript-sources/transcript-sources.module.code.ts"
 
+// ASKED ONCE AND HELD FOR AS LONG AS THIS READER LIVES. The color is a child process to ask for,
+// and the fleet is read every second, so asking again on each read would cost a bun startup a
+// second for an answer that moves when Alan rewrites a turn state's page and at no other time.
 let workingColorHeld: string | undefined | null = null
-
-export function dropSeatAnswers(): void {
-  workingColorHeld = null
-  dropSeatTranscripts()
-}
 
 async function workingColor(): Promise<string | undefined> {
   if (workingColorHeld === null) {
