@@ -656,3 +656,356 @@ index 0000000000000000000000000000000000000000..5d7d5ca84b5b0f86a4765eaed4de6952
 +  goal: "sell",
 +  conditions: "jsonl",
 +} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-9e71aab6/rule-9e71aab6.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-9e71aab6/rule-9e71aab6.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d8afdc57ddb377beb11f0fb205c1ab4cc9c4ff3e
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-9e71aab6/rule-9e71aab6.temper-inventory-rule.ts
+@@ -0,0 +1,13 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const rule9e71aab6 = {
++  id: "01a07289-9c75-7fa3-a4a6-f16b9539a9b8",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-9e71aab6",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "group-repair-kits",
++  displayOrder: 3,
++  action: "move-to",
++  active: true,
++  destination: "house-storage:4677",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-acb23368/rule-acb23368.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-acb23368/rule-acb23368.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..6fbfe547b048225b53381c3dd69c7adf258620a7
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-acb23368/rule-acb23368.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1,2 @@
++{"id":"01a07289-9c42-7ce2-a173-cae0e65c22fe","conditionField":"can-sell","conditionValue":"can-sell"}
++{"id":"01a07289-9c42-7bef-8cbf-3d81ac8c901b","conditionField":"item-name-pattern","conditionValue":"Recipe: Psijic Ambrosia"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-acb23368/rule-acb23368.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-acb23368/rule-acb23368.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..02eca06e663fe994154700b6535099e96750f7ac
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-acb23368/rule-acb23368.temper-inventory-rule.ts
+@@ -0,0 +1,17 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleAcb23368 = {
++  id: "01a07289-9c76-713a-a4ed-4866654b603e",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-acb23368",
++  title: "Sell Psijic Ambrosia recipe fragments",
++  description:
++    "Sells Psijic Ambrosia recipe fragments (Fragment I–IV) regardless of quality. Item: 64702–64705.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "recipe-fragments",
++  displayOrder: 27,
++  action: "sell",
++  active: true,
++  goal: "sell",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-alliance-war-bank/rule-alliance-war-bank.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-alliance-war-bank/rule-alliance-war-bank.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a0efacf6b9dc7cabc57717d9fd7380f399db8a8c
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-alliance-war-bank/rule-alliance-war-bank.temper-inventory-rule.ts
+@@ -0,0 +1,19 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleAllianceWarBank = {
++  id: "01a07289-9c77-7450-9840-66d483603392",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-alliance-war-bank",
++  title: "Bank Alliance War items",
++  description:
++    "Deposits Alliance War items (siege equipment, forward camps, repair kits, etc.) in the bank for safekeeping.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "alliance-war",
++  displayOrder: 63,
++  action: "move-to",
++  active: true,
++  goal: "hoard",
++  locked: true,
++  fromTemplate: "alliance-war-bank",
++  destination: "bank",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-b2aa4438/rule-b2aa4438.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-b2aa4438/rule-b2aa4438.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..afcecb0576394261e1bf35f4c5bd0bc0bfa8dbaa
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-b2aa4438/rule-b2aa4438.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1,3 @@
++{"id":"01a07289-9c42-718e-9ca9-1765b3f80b60","conditionField":"stolen","conditionValue":"not-stolen"}
++{"id":"01a07289-9c42-7070-ad92-b1e99073f1e9","conditionField":"quality-op","conditionValue":">="}
++{"id":"01a07289-9c42-7fd1-acab-c568b86b803d","conditionField":"max-quality","conditionValue":"3"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-b2aa4438/rule-b2aa4438.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-b2aa4438/rule-b2aa4438.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..89bdea6271cdf0a19affcda35cfca25a463c8b52
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-b2aa4438/rule-b2aa4438.temper-inventory-rule.ts
+@@ -0,0 +1,17 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleB2aa4438 = {
++  id: "01a07289-9c77-7ae0-8fdf-6e38d64694fd",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-b2aa4438",
++  title: "Store quality potions",
++  description:
++    "Moves blue (Superior) and higher non-stolen potions to the Potions and Poisons housing storage container, keeping bulky quality potions out of the backpack. Sits above the crafted-consumables protection so crafted quality potions are relocated rather than left loose.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "potions",
++  displayOrder: 21,
++  action: "move-to",
++  active: true,
++  destination: "house-storage:4674",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-b5b7365e/rule-b5b7365e.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-b5b7365e/rule-b5b7365e.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..d6bdb07e15d3d569d7f0d1c6d14fe4036da3f3e8
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-b5b7365e/rule-b5b7365e.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1,3 @@
++{"id":"01a07289-9c42-7d01-98de-0d9c66f6114c","conditionField":"stolen","conditionValue":"not-stolen"}
++{"id":"01a07289-9c42-78c9-aa1a-f91a18d0647e","conditionField":"quality-op","conditionValue":">="}
++{"id":"01a07289-9c42-70dc-acdf-d5760e021ac6","conditionField":"max-quality","conditionValue":"3"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-b5b7365e/rule-b5b7365e.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-b5b7365e/rule-b5b7365e.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..96fc50afcafd9d90e7e0711d43105b66ac0c2a93
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-b5b7365e/rule-b5b7365e.temper-inventory-rule.ts
+@@ -0,0 +1,17 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleB5b7365e = {
++  id: "01a07289-9c77-7503-8516-1cf4acaeb2d3",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-b5b7365e",
++  title: "Store quality food",
++  description:
++    "Moves blue (Superior) and higher non-stolen food to the Food and Drink housing storage container, keeping bulky quality food out of the backpack. Sits above the crafted-consumables protection so crafted quality food is relocated rather than left loose.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "food",
++  displayOrder: 15,
++  action: "move-to",
++  active: true,
++  destination: "house-storage:4675",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-companion-epic-nothing/rule-companion-epic-nothing.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-companion-epic-nothing/rule-companion-epic-nothing.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..68eabc1327da2d0909201ae318b2f7ad26203514
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-companion-epic-nothing/rule-companion-epic-nothing.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1,2 @@
++{"id":"01a07289-9c42-7ff2-b06f-b7e34b922df9","conditionField":"quality-op","conditionValue":">="}
++{"id":"01a07289-9c43-7a13-a9f3-13327dbe7c31","conditionField":"max-quality","conditionValue":"4"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-companion-epic-nothing/rule-companion-epic-nothing.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-companion-epic-nothing/rule-companion-epic-nothing.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3824b0cc65d4afd38b3138a70f22c36561a52058
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-companion-epic-nothing/rule-companion-epic-nothing.temper-inventory-rule.ts
+@@ -0,0 +1,20 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleCompanionEpicNothing = {
++  id: "01a07289-9c78-7b5a-bc01-73ceaf1aec13",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-companion-epic-nothing",
++  title: "Protect epic+ companion gear",
++  description:
++    "Prevents epic (purple) quality or higher companion equipment from being affected by lower-priority rules. Place above sell and deconstruct rules to safeguard your best companion gear.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "companion",
++  displayOrder: 12,
++  action: "move-to",
++  active: true,
++  goal: "equip",
++  locked: true,
++  fromTemplate: "companion-epic-nothing",
++  destination: "bank",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-companion-green-sell/rule-companion-green-sell.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-companion-green-sell/rule-companion-green-sell.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..c43447c65fd024e23c7c2b2fc29db395693a9eb2
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-companion-green-sell/rule-companion-green-sell.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1,2 @@
++{"id":"01a07289-9c43-7389-b439-c678a5cce63f","conditionField":"can-sell","conditionValue":"can-sell"}
++{"id":"01a07289-9c43-7dce-9814-96b975df6c69","conditionField":"max-quality","conditionValue":"3"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-companion-green-sell/rule-companion-green-sell.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-companion-green-sell/rule-companion-green-sell.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..54d85f029c9715eb48f1f6c7d988b94b06b77ac0
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-companion-green-sell/rule-companion-green-sell.temper-inventory-rule.ts
+@@ -0,0 +1,19 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleCompanionGreenSell = {
++  id: "01a07289-9c78-7ee2-8d5e-9a6814b3b182",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-companion-green-sell",
++  title: "Sell low-quality companion gear",
++  description:
++    "Sells companion equipment of superior (blue) quality or lower. Higher-quality companion gear is preserved.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "companion",
++  displayOrder: 66,
++  action: "sell",
++  active: true,
++  goal: "sell",
++  locked: true,
++  fromTemplate: "companion-green-sell",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-containers-open/rule-containers-open.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-containers-open/rule-containers-open.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..258d014771fda8eb70d955ec8a3b911ba22656a8
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-containers-open/rule-containers-open.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1,2 @@
++{"id":"01a07289-9c43-737a-a7f2-5f878e7f6905","conditionField":"can-open","conditionValue":"can-open"}
++{"id":"01a07289-9c43-7adf-bdb2-d4017421f6ad","conditionField":"can-give-max-rewards","conditionValue":"can-give-max-rewards"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-containers-open/rule-containers-open.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-containers-open/rule-containers-open.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ae7226251e84e2c9d43d88c0542dfdd2cf451556
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-containers-open/rule-containers-open.temper-inventory-rule.ts
+@@ -0,0 +1,19 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleContainersOpen = {
++  id: "01a07289-9c78-7344-9113-f2a09152a068",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-containers-open",
++  title: "Open containers",
++  description:
++    "Opens containers automatically. The Can Open filter skips containers on game cooldown or when transmute crystal storage is full. The Can Give Max Rewards filter skips containers during the 20-hour reward cooldown.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "containers",
++  displayOrder: 11,
++  action: "open",
++  active: true,
++  goal: "use",
++  locked: true,
++  fromTemplate: "containers-open",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-containers-stackable-bank/rule-containers-stackable-bank.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-containers-stackable-bank/rule-containers-stackable-bank.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..855cfb6efe406b304bca2e9f999a939375ed45ac
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-containers-stackable-bank/rule-containers-stackable-bank.temper-inventory-rule.ts
+@@ -0,0 +1,19 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleContainersStackableBank = {
++  id: "01a07289-9c78-78a1-a68a-a9f2cce7639c",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-containers-stackable-bank",
++  title: "Bank stackable containers",
++  description:
++    "Deposits stackable containers (reward coffers, event boxes, etc.) in the bank. Open them later in bulk or save for events.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "container-stackable",
++  displayOrder: 9,
++  action: "move-to",
++  active: true,
++  goal: "hoard",
++  locked: true,
++  fromTemplate: "containers-stackable-bank",
++  destination: "bank",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-crafted-consumables-nothing/rule-crafted-consumables-nothing.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-crafted-consumables-nothing/rule-crafted-consumables-nothing.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..53d637b8f28c4f06e3c79f46fa6348de1d4b093f
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-crafted-consumables-nothing/rule-crafted-consumables-nothing.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1 @@
++{"id":"01a07289-9c43-7f8a-a18b-4074331ec0af","conditionField":"crafted","conditionValue":"crafted"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-crafted-consumables-nothing/rule-crafted-consumables-nothing.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-crafted-consumables-nothing/rule-crafted-consumables-nothing.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1a020dee02a80007c93600ac931cba888e78f46a
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-crafted-consumables-nothing/rule-crafted-consumables-nothing.temper-inventory-rule.ts
+@@ -0,0 +1,19 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleCraftedConsumablesNothing = {
++  id: "01a07289-9c78-79c3-a29b-60017aba6970",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-crafted-consumables-nothing",
++  title: "Protect crafted consumables",
++  description:
++    "Prevents crafted food, drink, potions, poisons, and glyphs from being affected by lower-priority rules. Crafted consumables take ingredients and time to make — this keeps them safe from accidental sell or destroy rules.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "consumables",
++  displayOrder: 23,
++  action: "nothing",
++  active: true,
++  goal: "use",
++  locked: true,
++  fromTemplate: "crafted-consumables-nothing",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-crafted-nothing/rule-crafted-nothing.temper-inventory-rule.conditions.jsonl b/temper/temper-progress/inventory-rules/pages/rule-crafted-nothing/rule-crafted-nothing.temper-inventory-rule.conditions.jsonl
+new file mode 100644
+index 0000000000000000000000000000000000000000..6d67139f51446d057e9f5e4dd45b84e8c3e70aa5
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-crafted-nothing/rule-crafted-nothing.temper-inventory-rule.conditions.jsonl
+@@ -0,0 +1 @@
++{"id":"01a07289-9c43-77bb-8bab-6759dcf24d72","conditionField":"crafted","conditionValue":"crafted"}
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-crafted-nothing/rule-crafted-nothing.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-crafted-nothing/rule-crafted-nothing.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f0686f71862e1a9dba6aa45871a096f6e1e4e830
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-crafted-nothing/rule-crafted-nothing.temper-inventory-rule.ts
+@@ -0,0 +1,19 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleCraftedNothing = {
++  id: "01a07289-9c79-78b0-8426-f10d754fdedd",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-crafted-nothing",
++  title: "Protect crafted gear",
++  description:
++    "Prevents crafted equipment from being affected by lower-priority rules. Useful for keeping gear you've invested materials into.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "equipment",
++  displayOrder: 14,
++  action: "nothing",
++  active: true,
++  goal: "equip",
++  locked: true,
++  fromTemplate: "crafted-nothing",
++  conditions: "jsonl",
++} as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-crafting-craft-bag/rule-crafting-craft-bag.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-crafting-craft-bag/rule-crafting-craft-bag.temper-inventory-rule.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..55bf06f8b7dab608de92232b683cf3a02f934d7e
+--- /dev/null
++++ b/temper/temper-progress/inventory-rules/pages/rule-crafting-craft-bag/rule-crafting-craft-bag.temper-inventory-rule.ts
+@@ -0,0 +1,19 @@
++import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
++
++export const ruleCraftingCraftBag = {
++  id: "01a07289-9c79-71db-a440-e7ff4ad4cb22",
++  pageTypeSlug: "temper-inventory-rule",
++  slug: "rule-crafting-craft-bag",
++  title: "Stow crafting materials",
++  description:
++    "Moves crafting materials to the craft bag when visiting the bank. Requires ESO Plus or a craft bag entitlement. If you do not have ESO Plus, toggle off craft bag access in the ESO Plus panel above — the destination will be redirected to the bank automatically.",
++  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  categoryId: "crafting",
++  displayOrder: 57,
++  action: "move-to",
++  active: true,
++  goal: "hoard",
++  locked: true,
++  fromTemplate: "crafting-craft-bag",
++  destination: "craft-bag",
++} as const satisfies TemperInventoryRule
