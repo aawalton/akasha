@@ -32,7 +32,7 @@ export const propertyPagesOnly = {
     {
       invariantKind: "departure",
       statement:
-        "The pages here are of several types and that mix is the shape rather than a fault in it.",
+        "The pages here are of several types and that mix is the shape rather than a fault in that shape.",
     },
     {
       invariantKind: "absence",
