@@ -19,7 +19,7 @@ export const orphanResourceListing = {
     {
       invariantKind: "departure",
       statement:
-        "A resource states what manages that resource, or states nothing and is read as managed by nothing.",
+        "A resource names its manager, or states nothing and is read as managed by nothing.",
     },
     {
       invariantKind: "departure",
