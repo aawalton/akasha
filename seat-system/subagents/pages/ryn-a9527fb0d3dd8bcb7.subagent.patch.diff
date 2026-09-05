@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/inference-commands/inference-plan/inference-plan.command.ts b/infrastructure/inference-commands/inference-plan/inference-plan.command.ts
+index de1563a61ecff99d5ec5e776f03c934fb2fc8b77..5ed3d6f928737bc80c7dee03267e0c64eb4cd701 100644
+--- a/infrastructure/inference-commands/inference-plan/inference-plan.command.ts
++++ b/infrastructure/inference-commands/inference-plan/inference-plan.command.ts
+@@ -19,7 +19,7 @@ export const inferencePlan = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The hosts are read even though nothing on them changes.",
++      statement: "The hosts are read even though nothing on those hosts changes.",
+     },
+     {
+       invariantKind: "absence",
