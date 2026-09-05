@@ -13,7 +13,7 @@ export const takes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The takes text sits on one line beside what is said.",
+      statement: "The takes text sits on one line beside the said text.",
     },
   ],
 } as const satisfies TextProperty
