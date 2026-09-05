@@ -1,0 +1,15 @@
+diff --git a/infrastructure/telemetry/pgbouncer-exporter/pgbouncer-exporter.manifest.ts b/infrastructure/telemetry/pgbouncer-exporter/pgbouncer-exporter.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a8bf1f77704f5460e25ca26850b2eb0be6f12262
+--- /dev/null
++++ b/infrastructure/telemetry/pgbouncer-exporter/pgbouncer-exporter.manifest.ts
+@@ -0,0 +1,9 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const pgbouncerExporter = {
++  id: "01a07395-071f-7a7b-959d-53aefec229ea",
++  pageTypeSlug: "manifest",
++  slug: "pgbouncer-exporter",
++  definition: "the connection pool exporter's deployment and the way in to it",
++  code: "ts",
++} as const satisfies Manifest
