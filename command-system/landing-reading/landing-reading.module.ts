@@ -21,7 +21,7 @@ export const landingReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A body is recorded as it landed rather than as it was handed in.",
+      statement: "A body is recorded as that body landed rather than as that body was handed in.",
     },
     {
       invariantKind: "departure",
