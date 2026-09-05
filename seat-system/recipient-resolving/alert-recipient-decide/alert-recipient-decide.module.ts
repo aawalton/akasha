@@ -15,7 +15,7 @@ export const alertRecipientDecide = {
     },
     {
       invariantKind: "departure",
-      statement: "An alert two documents declare picks neither of them.",
+      statement: "An alert two documents declare picks neither of those documents.",
     },
     {
       invariantKind: "departure",
