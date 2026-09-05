@@ -1,0 +1,52 @@
+diff --git a/agents/claude-accounts/commands/claude-account-add/claude-account-add.command.code.ts b/agents/claude-accounts/commands/claude-account-add/claude-account-add.command.code.ts
+index 1f74d7e1c76195f0c5cb258401e0ec9d869c3cd8..5ebbbb1b52349dae14ef00243daf75bd6fe50835 100644
+--- a/agents/claude-accounts/commands/claude-account-add/claude-account-add.command.code.ts
++++ b/agents/claude-accounts/commands/claude-account-add/claude-account-add.command.code.ts
+@@ -103,7 +103,7 @@ export async function claudeAccountAdd(argv: readonly string[], given: Given): P
+     if (held.has(read.account)) {
+       return {
+         report: [],
+-        refusals: [`a page already stands for \`${read.account}\`, and this writes over none`],
++        refusals: [`a page already exists for \`${read.account}\`, and this writes over none`],
+         code: 1,
+       }
+     }
+diff --git a/agents/claude-accounts/commands/claude-account-add/claude-account-add.command.ts b/agents/claude-accounts/commands/claude-account-add/claude-account-add.command.ts
+index 4201c858dc0d39976271f49dcd77be925c24be21..fc8e9ae014aa286d490caf0802ac3060a88248b5 100644
+--- a/agents/claude-accounts/commands/claude-account-add/claude-account-add.command.ts
++++ b/agents/claude-accounts/commands/claude-account-add/claude-account-add.command.ts
+@@ -15,7 +15,7 @@ export const claudeAccountAdd = {
+   ],
+   helpNotes: [
+     "the slot is the highest one any account page states, and one more, so the slots stay in the order the accounts were added.",
+-    "an account whose page already stands is refused rather than written over.",
++    "an account whose page already exists is refused rather than written over.",
+     "only the name, the address and the slot are written: the uuid, the plan, the band, the renewal day and the scopes are all answered by the first sign-in.",
+     "the tokens are held beside the page rather than in it, so a page written here signs in nowhere until /login is run in the launching session.",
+     "the shell composes a `c<N>` launcher for each account page, so a page written here reaches a terminal that composes its set again.",
+diff --git a/agents/claude-accounts/properties/access-token.text-property.ts b/agents/claude-accounts/properties/access-token.text-property.ts
+index 928485c0d48c76d0ba2ca85f26216f9b92389a75..04aa3c441d7cdb9930387bec35f7ccc403a12d61 100644
+--- a/agents/claude-accounts/properties/access-token.text-property.ts
++++ b/agents/claude-accounts/properties/access-token.text-property.ts
+@@ -13,7 +13,7 @@ export const accessToken = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The access token stands in the page's sops file rather than in the page.",
++      statement: "The access token sits in the page's sops file rather than in the page.",
+     },
+   ],
+ } as const satisfies TextProperty
+diff --git a/agents/claude-accounts/properties/scopes.text-property.ts b/agents/claude-accounts/properties/scopes.text-property.ts
+index 703a8c2aeaa44d3094d617cadc03d97bf32c1e6a..26cfb40e8941aa7d7d55c0713e8346c584e1a09b 100644
+--- a/agents/claude-accounts/properties/scopes.text-property.ts
++++ b/agents/claude-accounts/properties/scopes.text-property.ts
+@@ -19,7 +19,7 @@ export const scopes = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The scopes stand in the order the grant returned.",
++      statement: "The scopes sit in the order the grant returned.",
+     },
+   ],
+ } as const satisfies TextProperty
