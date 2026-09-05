@@ -30,7 +30,7 @@ export const testingSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "What one module's tests need is in fixtures beside that module.",
+      statement: "The scaffolding one module's tests need is in fixtures beside that module.",
     },
     {
       invariantKind: "departure",
