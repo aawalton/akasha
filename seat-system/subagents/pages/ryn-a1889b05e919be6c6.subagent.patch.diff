@@ -12,3 +12,16 @@ index f22b4b230d211364ce592c2f4d40eded365f0618..f640c3bb7e44e88371f03a40da725b93
      },
    ],
  } as const satisfies PageType
+diff --git a/alan/harness/monarch/audible-migration/monarch-audible-migration.module.ts b/alan/harness/monarch/audible-migration/monarch-audible-migration.module.ts
+index c284295ddad8ee85cc824080ca60278f8fb42731..a63517de6c9d6df8dc1d796808c18f77f1e7140a 100644
+--- a/alan/harness/monarch/audible-migration/monarch-audible-migration.module.ts
++++ b/alan/harness/monarch/audible-migration/monarch-audible-migration.module.ts
+@@ -30,7 +30,7 @@ export const monarchAudibleMigration = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A credit, an uncategorized charge and a charge whose note says it was reimbursed are recategorized rather than transferred.",
++        "A credit, an uncategorized charge and a charge noted as reimbursed are recategorized only.",
+     },
+     {
+       invariantKind: "departure",
