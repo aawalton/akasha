@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/channel-delivery/channel-delivery.module.ts b/seat-system/channel-delivery/channel-delivery.module.ts
+index 89f91ee9611b1c28bd52a4e60d20fd085cc63915..6325193d647624fa4b53618f2de9cc9d03a5d371 100644
+--- a/seat-system/channel-delivery/channel-delivery.module.ts
++++ b/seat-system/channel-delivery/channel-delivery.module.ts
+@@ -27,7 +27,8 @@ export const channelDelivery = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A message still unseen more than four turns after it was queued is lost.",
++      statement:
++        "A message still unseen more than four turns after that message was queued is lost.",
+     },
+     {
+       invariantKind: "departure",
