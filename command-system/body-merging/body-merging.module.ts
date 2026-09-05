@@ -96,7 +96,7 @@ export const bodyMerging = {
     },
     {
       invariantKind: "departure",
-      statement: "A body a change left as it was is answered as the body HEAD holds.",
+      statement: "A body a change left as that body was is answered as the body HEAD holds.",
     },
     {
       invariantKind: "departure",
