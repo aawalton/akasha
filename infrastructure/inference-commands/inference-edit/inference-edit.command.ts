@@ -28,7 +28,6 @@ export const inferenceEdit = {
     "identity carries across a chain of single-image edits, so chaining beats re-naming an anchor.",
     "a ratio nothing named leaves the output at the input's own shape, and a size nothing named at its own size.",
     "the engine reaches Google through the key `GEMINI_API_KEY` holds, and no key set refuses the call.",
-    "a run row is filed whether the edit finished or failed.",
   ],
   invariants: [
     {
