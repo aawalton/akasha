@@ -1,0 +1,1301 @@
+diff --git a/alan/tracking/daily/day-figures/day-figures.module.code.ts b/alan/tracking/daily/day-figures/day-figures.module.code.ts
+deleted file mode 100644
+index 368709a5ac70a35848b5df83acd5aeb7cbb09dfc..0000000000000000000000000000000000000000
+--- a/alan/tracking/daily/day-figures/day-figures.module.code.ts
++++ /dev/null
+@@ -1,58 +0,0 @@
+-import { exportedAs } from "@akasha/pages-system/page-export-name"
+-import {
+-  type Barred,
+-  type Declared,
+-  FORMULA,
+-  type Working,
+-  workingOver,
+-} from "@akasha/pages-system/page-formulas"
+-
+-export type Stated = {
+-  readonly slug: string
+-  readonly propertySlug?: string
+-  readonly formula?: string
+-  readonly holds?: string
+-}
+-
+-export type Carried = {
+-  readonly pagePropertySlug: string
+-  readonly many: boolean
+-}
+-
+-export type Declaring = {
+-  readonly partSlugs: readonly string[]
+-  readonly properties?: readonly Carried[]
+-}
+-
+-export function declaredFrom(pageType: Declaring, stated: readonly Stated[]): readonly Declared[] {
+-  const said = new Map(stated.map((one) => [one.slug, one]))
+-  const many = new Map((pageType.properties ?? []).map((one) => [one.pagePropertySlug, one.many]))
+-  const declared: Declared[] = []
+-  for (const part of pageType.partSlugs) {
+-    const at = part.indexOf("/")
+-    if (at < 0) throw new Error(`\`${part}\` names no sort of property, so its kind is unknown`)
+-    const sort = part.slice(0, at)
+-    const slug = part.slice(at + 1)
+-    const one = said.get(slug)
+-    const propertySlug = one?.propertySlug ?? slug
+-    declared.push({
+-      slug: propertySlug,
+-      key: exportedAs(propertySlug),
+-      sort,
+-      many: many.get(slug) === true,
+-      formula: one?.formula ?? null,
+-      holds: one?.holds ?? null,
+-    })
+-  }
+-  return declared
+-}
+-
+-export function figuresIn(pageType: Declaring, stated: readonly Stated[]): Working | Barred {
+-  const declared = declaredFrom(pageType, stated)
+-  const working = workingOver("wake-day", declared)
+-  if (working !== null) return working
+-  return {
+-    barred: `no part of this page type is a \`${FORMULA}\`, so there is no figure to judge`,
+-    keys: [],
+-  }
+-}
+diff --git a/alan/tracking/daily/day-figures/day-figures.module.test.ts b/alan/tracking/daily/day-figures/day-figures.module.test.ts
+deleted file mode 100644
+index 75e3eb2d1107b557a82e3f0ea34ab6b77bc7b44a..0000000000000000000000000000000000000000
+--- a/alan/tracking/daily/day-figures/day-figures.module.test.ts
++++ /dev/null
+@@ -1,112 +0,0 @@
+-import { describe, expect, test } from "bun:test"
+-import { readdirSync } from "node:fs"
+-import { dirname, join } from "node:path"
+-import { KIND_OF, workingOver } from "@akasha/pages-system/page-formulas"
+-import { wakeDay } from "../wake-days/wake-day.page-type.ts"
+-import { declaredFrom, figuresIn, type Stated } from "./day-figures.module.code.ts"
+-
+-const PROPERTIES_AT = join(dirname(import.meta.dir), "wake-days", "properties")
+-
+-const ENDING = ".ts"
+-
+-async function propertiesDeclared(): Promise<readonly Stated[]> {
+-  const named = readdirSync(PROPERTIES_AT)
+-    .filter((one) => one.endsWith(ENDING))
+-    .sort()
+-  const stated: Stated[] = []
+-  for (const one of named) {
+-    const held = (await import(join(PROPERTIES_AT, one))) as Readonly<Record<string, unknown>>
+-    for (const value of Object.values(held)) {
+-      const declared = value as {
+-        slug?: unknown
+-        propertySlug?: unknown
+-        formula?: unknown
+-        holds?: unknown
+-      }
+-      if (typeof declared.slug !== "string") continue
+-      stated.push({
+-        slug: declared.slug,
+-        propertySlug: typeof declared.propertySlug === "string" ? declared.propertySlug : undefined,
+-        formula: typeof declared.formula === "string" ? declared.formula : undefined,
+-        holds: typeof declared.holds === "string" ? declared.holds : undefined,
+-      })
+-    }
+-  }
+-  return stated
+-}
+-
+-const FIGURES = wakeDay.partSlugs.filter((one) => one.startsWith("formula-property/")).length
+-
+-describe("the figures a wake day works out", () => {
+-  test("the page type declares figures at all", async () => {
+-    const stated = await propertiesDeclared()
+-    expect(stated.filter((one) => one.formula !== undefined).length).toBeGreaterThanOrEqual(16)
+-    expect(FIGURES).toBeGreaterThanOrEqual(16)
+-  })
+-
+-  test("every figure reads only keys the wake day declares", async () => {
+-    const judged = figuresIn(wakeDay, await propertiesDeclared())
+-    if ("barred" in judged) throw new Error(judged.barred)
+-    expect(judged.figures.length).toBe(FIGURES)
+-  })
+-
+-  test("every figure states the kind that figure answers", async () => {
+-    const stated = await propertiesDeclared()
+-    const said = stated.filter((one) => one.formula !== undefined)
+-    expect(said.filter((one) => one.holds === undefined)).toEqual([])
+-  })
+-
+-  test("every figure the page type names as a part has a declaration beside it", async () => {
+-    const stated = await propertiesDeclared()
+-    const declared = new Set(
+-      stated.filter((one) => one.formula !== undefined).map((one) => one.slug)
+-    )
+-    const named = wakeDay.partSlugs
+-      .filter((one) => one.startsWith("formula-property/"))
+-      .map((one) => one.slice("formula-property/".length))
+-    expect(named.filter((one) => !declared.has(one))).toEqual([])
+-  })
+-
+-  test("a sort of property with no kind written down bars every figure", async () => {
+-    const judged = figuresIn(
+-      { ...wakeDay, partSlugs: [...wakeDay.partSlugs, "no-such-property/whatever"] },
+-      await propertiesDeclared()
+-    )
+-    if (!("barred" in judged)) throw new Error("nothing was barred")
+-    expect(judged.barred).toContain("no kind is written down for `no-such-property`")
+-    expect(KIND_OF["number-property"]).toBe("number")
+-  })
+-
+-  test("a figure reading a key no day carries is refused", async () => {
+-    const stated = [
+-      ...(await propertiesDeclared()),
+-      { slug: "made-up", formula: "{no-such-key-at-all} + 1", holds: "number" },
+-    ]
+-    const judged = figuresIn(
+-      { ...wakeDay, partSlugs: [...wakeDay.partSlugs, "formula-property/made-up"] },
+-      stated
+-    )
+-    if (!("barred" in judged)) throw new Error("nothing was barred")
+-    expect(judged.barred).toBe(
+-      "checking — no property is declared under the key `no-such-key-at-all`"
+-    )
+-    expect(judged.keys).toEqual(["madeUp"])
+-  })
+-
+-  test("renaming one key darkens every figure reaching it and no other", async () => {
+-    const declared = declaredFrom(wakeDay, await propertiesDeclared())
+-    const renamed = declared.map((one) =>
+-      one.slug === "faith-points"
+-        ? { ...one, slug: "faith-points-renamed", key: "faithPointsRenamed" }
+-        : one
+-    )
+-    const over = workingOver("wake-day", renamed)
+-    if (over === null || !("barred" in over)) throw new Error("nothing was barred")
+-    expect(over.keys).toEqual(["faithLevel", "faithStoplight", "stoplights", "totalLevel"])
+-  })
+-
+-  test("surplus hours is no key this page type carries", async () => {
+-    const declared = declaredFrom(wakeDay, await propertiesDeclared())
+-    expect(declared.map((one) => one.key)).not.toContain("surplusHours")
+-  })
+-})
+diff --git a/alan/tracking/daily/day-figures/day-figures.module.ts b/alan/tracking/daily/day-figures/day-figures.module.ts
+deleted file mode 100644
+index b02054a820a0ad77f432b7f2af69822261d82ad0..0000000000000000000000000000000000000000
+--- a/alan/tracking/daily/day-figures/day-figures.module.ts
++++ /dev/null
+@@ -1,44 +0,0 @@
+-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+-
+-export const dayFigures = {
+-  id: "01a06949-857c-7000-86a0-989e679e36a7",
+-  pageTypeSlug: "module",
+-  slug: "day-figures",
+-  definition: "the figures a tracked day works out from the readings it stores",
+-  code: "ts",
+-  test: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A figure reads only keys the day's own page type declares.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A figure may read another figure.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A sort of property with no kind written down is refused rather than left out.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The checker the reader runs is the checker run here.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A figure states the kind that figure answers.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Renaming a key darkens every figure reaching that key and no other figure.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A part the page type does not name is left out here and carried by the reader.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A figure refused before a landing is a figure the reader would refuse after.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/pages/computed-properties/properties/holds.select-property.ts b/pages/computed-properties/properties/holds.select-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..63024ba696b846bccb62c33d9efc417cdcfa3fcf
+--- /dev/null
++++ b/pages/computed-properties/properties/holds.select-property.ts
+@@ -0,0 +1,26 @@
++import type { SelectProperty } from "../../select-properties/select-property.page-type.ts"
++
++export const holds = {
++  id: "01a06952-7a5c-7bad-8818-9124b8845f75",
++  pageTypeSlug: "select-property",
++  slug: "holds",
++  propertySlug: "holds",
++  definition: "the kind of value a calculation works out",
++  values: ["text", "number", "boolean", "instant", "date"],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A calculation answering another kind than the kind stated here is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A reader puts a worked value down as the kind stated here.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No calculation states a list.",
++    },
++  ],
++} as const satisfies SelectProperty
++
++export type Holds = (typeof holds.values)[number]
+diff --git a/pages/formula-properties/formula-property.page-type.ts b/pages/formula-properties/formula-property.page-type.ts
+deleted file mode 100644
+index 5baba743503dd2b2aeda57ad8c1d69ae69b5893c..0000000000000000000000000000000000000000
+--- a/pages/formula-properties/formula-property.page-type.ts
++++ /dev/null
+@@ -1,65 +0,0 @@
+-import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
+-import type { PageType } from "../types/page-type.page-type.ts"
+-import type { Formula } from "./properties/formula.text-property.ts"
+-import type { Holds } from "./properties/holds.select-property.ts"
+-
+-export type FormulaProperty = PageProperty & {
+-  formula: Formula
+-  holds: Holds
+-}
+-
+-export const formulaProperty = {
+-  id: "01a06553-4713-7003-86f0-7af8d36db81d",
+-  pageTypeSlug: "page-type",
+-  slug: "formula-property",
+-  definition: "a page property worked out from the others",
+-  pluralSlug: "formula-properties",
+-  extendsSlug: ["page-type/page-property"],
+-  partSlugs: ["select-property/holds", "text-property/formula"],
+-  properties: [
+-    { pagePropertySlug: "formula", required: true, many: false },
+-    { pagePropertySlug: "holds", required: true, many: false },
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A page carries no value for this property.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A page file stating a value for a formula property is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A query may answer with this property's key.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A formula answers the same over one page however often the formula is asked.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A formula property states the kind of value its formula works out.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A formula answering another kind than the property states is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A reader works the formula out over the values the page carries.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A formula reading a refused formula is refused too.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A question naming a refused key is refused rather than answered empty.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A formula answering absent puts no key in the row.",
+-    },
+-  ],
+-} as const satisfies PageType
+diff --git a/pages/formula-properties/properties/formula.text-property.ts b/pages/formula-properties/properties/formula.text-property.ts
+deleted file mode 100644
+index 725cf90076c0d8aa8167cba4ad31d15a0d25a03e..0000000000000000000000000000000000000000
+--- a/pages/formula-properties/properties/formula.text-property.ts
++++ /dev/null
+@@ -1,31 +0,0 @@
+-import type { TextProperty } from "../../text-properties/text-property.page-type.ts"
+-
+-export type Formula = string
+-
+-export const formula = {
+-  id: "01a06553-4713-7002-b04b-bf71acc5d15d",
+-  pageTypeSlug: "text-property",
+-  slug: "formula",
+-  propertySlug: "formula",
+-  definition: "what a property is worked out from, written in the formula language",
+-  max: 500,
+-  nameFormatSlug: null,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A key a formula names is written in braces.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A key a formula names is a property of the page type the formula is on.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A formula may name another formula.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "No formula names itself however far the chain of names runs.",
+-    },
+-  ],
+-} as const satisfies TextProperty
+diff --git a/pages/formula-properties/properties/holds.select-property.ts b/pages/formula-properties/properties/holds.select-property.ts
+deleted file mode 100644
+index e3260d6c7136b87831dbc4abdb4f1bb74e6a52fb..0000000000000000000000000000000000000000
+--- a/pages/formula-properties/properties/holds.select-property.ts
++++ /dev/null
+@@ -1,30 +0,0 @@
+-import type { SelectProperty } from "../../select-properties/select-property.page-type.ts"
+-
+-export const holds = {
+-  id: "01a06952-7a5c-7bad-8818-9124b8845f75",
+-  pageTypeSlug: "select-property",
+-  slug: "holds",
+-  propertySlug: "holds",
+-  definition: "the kind of value a formula works out",
+-  values: ["text", "number", "boolean", "instant", "date"],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A formula answering another kind than the kind stated here is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Every kind stated here is a kind the formula language names.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A reader puts a worked value down as the kind stated here.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No formula states a list.",
+-    },
+-  ],
+-} as const satisfies SelectProperty
+-
+-export type Holds = (typeof holds.values)[number]
+diff --git a/pages/formula/formula-held/formula-held.module.code.ts b/pages/formula/formula-held/formula-held.module.code.ts
+deleted file mode 100644
+index 48035bfdbb26c351b6a4f2dbf9eb8e1246152934..0000000000000000000000000000000000000000
+--- a/pages/formula/formula-held/formula-held.module.code.ts
++++ /dev/null
+@@ -1,105 +0,0 @@
+-import type { DeclaredType, Value } from "../formula-language/formula-language.module.code.ts"
+-
+-const TEXTS: ReadonlySet<string> = new Set([
+-  "text",
+-  "lower-kebab-case",
+-  "uuid",
+-  "path",
+-  "url",
+-  "relation-address",
+-  "relation-id",
+-  "relation-name",
+-  "relation-seq",
+-  "relation-slug",
+-])
+-
+-const KINDS: Readonly<Record<string, DeclaredType>> = {
+-  number: { kind: "number" },
+-  boolean: { kind: "boolean" },
+-  instant: { kind: "instant" },
+-  "calendar-date": { kind: "date" },
+-}
+-
+-const NONE = "none"
+-
+-const LIST = "list"
+-
+-const SELECT = "select"
+-
+-const DATE = /^\d{4}-\d{2}-\d{2}$/
+-
+-const partsOf = (spelling: string): { readonly head: string; readonly of: string | null } => {
+-  const open = spelling.indexOf("(")
+-  if (open < 0 || !spelling.endsWith(")")) return { head: spelling, of: null }
+-  const inside = spelling.slice(open + 1, -1)
+-  const comma = inside.indexOf(",")
+-  return {
+-    head: spelling.slice(0, open).trim(),
+-    of: (comma < 0 ? inside : inside.slice(0, comma)).trim(),
+-  }
+-}
+-
+-export const heldBy = (spelling: string): DeclaredType | null => {
+-  const arms = spelling
+-    .split("|")
+-    .map((one) => one.trim())
+-    .filter((one) => one !== NONE && one !== "")
+-  const only = arms.length === 1 ? arms[0] : undefined
+-  if (only === undefined) return null
+-
+-  const { head, of } = partsOf(only)
+-  if (TEXTS.has(head)) return { kind: "text" }
+-  const kind = KINDS[head]
+-  if (kind !== undefined) return kind
+-  if (of === null) return null
+-  if (head === SELECT) return heldBy(of)
+-  if (head !== LIST) return null
+-  const item = heldBy(of)
+-  if (item === null) return null
+-  const held = item.kind
+-  if (held === "list" || held === "date") return null
+-  return { kind: "list", of: held }
+-}
+-
+-const ABSENT: Value = { kind: "absent" }
+-
+-const scalarAs = (
+-  raw: unknown,
+-  kind: "text" | "number" | "boolean" | "instant" | "date"
+-): Value => {
+-  if (raw === null || raw === undefined) return ABSENT
+-  if (kind === "text") {
+-    if (typeof raw === "object") return ABSENT
+-    return { kind: "text", text: String(raw) }
+-  }
+-  if (kind === "boolean") {
+-    if (typeof raw === "boolean") return { kind: "boolean", boolean: raw }
+-    if (raw === "true") return { kind: "boolean", boolean: true }
+-    if (raw === "false") return { kind: "boolean", boolean: false }
+-    return ABSENT
+-  }
+-  if (kind === "number") {
+-    if (typeof raw === "number")
+-      return Number.isFinite(raw) ? { kind: "number", number: raw } : ABSENT
+-    if (typeof raw !== "string") return ABSENT
+-    const held = Number(raw.trim())
+-    return raw.trim() !== "" && Number.isFinite(held) ? { kind: "number", number: held } : ABSENT
+-  }
+-  if (kind === "date") {
+-    return typeof raw === "string" && DATE.test(raw.trim())
+-      ? { kind: "date", date: raw.trim() }
+-      : ABSENT
+-  }
+-  if (typeof raw === "number")
+-    return Number.isFinite(raw) ? { kind: "instant", instant: raw } : ABSENT
+-  if (typeof raw !== "string") return ABSENT
+-  const at = Date.parse(raw.trim())
+-  return Number.isFinite(at) ? { kind: "instant", instant: at } : ABSENT
+-}
+-
+-export const valuedAs = (raw: unknown, type: DeclaredType): Value => {
+-  if (type.kind !== "list") return scalarAs(raw, type.kind)
+-  if (!Array.isArray(raw)) return ABSENT
+-  const items = raw.map((one) => scalarAs(one, type.of)).filter((one) => one.kind !== "absent")
+-  return { kind: "list", of: type.of, items }
+-}
+diff --git a/pages/formula/formula-held/formula-held.module.ts b/pages/formula/formula-held/formula-held.module.ts
+deleted file mode 100644
+index 6d3cbfb78d7176dc253e16a639f538f098deb3d9..0000000000000000000000000000000000000000
+--- a/pages/formula/formula-held/formula-held.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const formulaHeld = {
+-  id: "01a05c11-6371-7008-9661-48ca897f904d",
+-  pageTypeSlug: "module",
+-  slug: "formula-held",
+-  definition: "the type a property's spelling declares and the value a raw reading holds",
+-  code: "ts",
+-} as const satisfies Module
+diff --git a/pages/formulas/page-formulas.module.code.ts b/pages/formulas/page-formulas.module.code.ts
+deleted file mode 100644
+index f94212804bcbae80500e6aceab1984720036dedf..0000000000000000000000000000000000000000
+--- a/pages/formulas/page-formulas.module.code.ts
++++ /dev/null
+@@ -1,195 +0,0 @@
+-import {
+-  type Checked,
+-  checkPageType,
+-  type DeclaredType,
+-  runFormula,
+-  type ScalarKind,
+-  type PageType as Shaped,
+-  type Value as Worked,
+-} from "@akasha/pages-formula"
+-import { valuedAs } from "@akasha/pages-formula/held"
+-
+-export const FORMULA = "formula-property"
+-
+-export const COMPUTED = "computed-property"
+-
+-export const KIND_OF: Readonly<Record<string, DeclaredType["kind"]>> = {
+-  "boolean-property": "boolean",
+-  "calendar-date-property": "date",
+-  "email-address-property": "text",
+-  "instant-property": "instant",
+-  "number-property": "number",
+-  "one-of-property": "text",
+-  "phone-number-property": "text",
+-  "rank-property": "text",
+-  "relation-property": "text",
+-  "select-property": "text",
+-  "text-property": "text",
+-  "url-property": "text",
+-}
+-
+-export const UNREAD: ReadonlySet<string> = new Set([
+-  "file-property",
+-  "named-file-property",
+-  "page-property-entry",
+-  "process-property",
+-  "record-property",
+-])
+-
+-export const HOLDS: Readonly<Record<string, DeclaredType>> = {
+-  boolean: { kind: "boolean" },
+-  date: { kind: "date" },
+-  instant: { kind: "instant" },
+-  number: { kind: "number" },
+-  text: { kind: "text" },
+-}
+-
+-export type Declared = {
+-  readonly slug: string
+-  readonly key: string
+-  readonly sort: string
+-  readonly many: boolean
+-  readonly formula: string | null
+-  readonly holds: string | null
+-}
+-
+-export type Figure = {
+-  readonly slug: string
+-  readonly key: string
+-  readonly checked: Checked
+-}
+-
+-export type Read = {
+-  readonly slug: string
+-  readonly key: string
+-  readonly type: DeclaredType
+-}
+-
+-export type Working = {
+-  readonly reads: readonly Read[]
+-  readonly figures: readonly Figure[]
+-}
+-
+-export type Barred = {
+-  readonly barred: string
+-  readonly keys: readonly string[]
+-}
+-
+-const SCALARS: ReadonlySet<string> = new Set(["text", "number", "boolean", "instant"])
+-
+-function typeFor(kind: DeclaredType["kind"], many: boolean): DeclaredType | null {
+-  if (!many) return { kind } as DeclaredType
+-  return SCALARS.has(kind) ? { kind: "list", of: kind as ScalarKind } : null
+-}
+-
+-function heldFrom(worked: Worked): unknown {
+-  if (worked.kind === "absent") return undefined
+-  if (worked.kind === "text") return worked.text
+-  if (worked.kind === "number") return worked.number
+-  if (worked.kind === "boolean") return worked.boolean
+-  if (worked.kind === "date") return worked.date
+-  if (worked.kind === "instant") return new Date(worked.instant).toISOString()
+-  return worked.items.map((one) => heldFrom(one))
+-}
+-
+-function everyFigure(declared: readonly Declared[]): readonly string[] {
+-  return declared.filter((one) => one.sort === FORMULA).map((one) => one.key)
+-}
+-
+-export function workingOver(
+-  pageTypeSlug: string,
+-  declared: readonly Declared[]
+-): Working | Barred | null {
+-  if (!declared.some((one) => one.sort === FORMULA)) return null
+-  const every = everyFigure(declared)
+-  const shaped: Record<string, { type: DeclaredType; formula?: string }> = {}
+-  const keyOf = new Map<string, string>()
+-  const reads: Read[] = []
+-  for (const one of declared) {
+-    keyOf.set(one.slug, one.key)
+-    if (one.sort === FORMULA) {
+-      const holds = one.holds === null ? undefined : HOLDS[one.holds]
+-      if (one.formula === null) {
+-        return {
+-          barred: `\`${pageTypeSlug}\` carries \`${one.slug}\` as a formula property, and no page states the formula it is worked out by`,
+-          keys: every,
+-        }
+-      }
+-      if (holds === undefined) {
+-        return {
+-          barred: `\`${one.slug}\` states no kind its formula answers, so nothing can judge what \`${pageTypeSlug}\` works out under that key`,
+-          keys: every,
+-        }
+-      }
+-      shaped[one.slug] = { type: holds, formula: one.formula }
+-      continue
+-    }
+-    if (one.sort === COMPUTED) {
+-      const holds = one.holds === null ? undefined : HOLDS[one.holds]
+-      if (holds === undefined) {
+-        return {
+-          barred: `\`${one.slug}\` states no kind its calculation answers, so nothing can judge what \`${pageTypeSlug}\` carries under that key`,
+-          keys: every,
+-        }
+-      }
+-      shaped[one.slug] = { type: holds }
+-      reads.push({ slug: one.slug, key: one.key, type: holds })
+-      continue
+-    }
+-    if (UNREAD.has(one.sort)) continue
+-    const kind = KIND_OF[one.sort]
+-    if (kind === undefined) {
+-      return {
+-        barred: `no kind is written down for \`${one.sort}\`, so \`${one.slug}\` would be left out of the shape and a formula reading it would be refused for a misspelling it does not have`,
+-        keys: every,
+-      }
+-    }
+-    const type = typeFor(kind, one.many)
+-    if (type === null) {
+-      return {
+-        barred: `\`${one.slug}\` carries many a ${kind}, which the formula language holds no list of`,
+-        keys: every,
+-      }
+-    }
+-    shaped[one.slug] = { type }
+-    reads.push({ slug: one.slug, key: one.key, type })
+-  }
+-
+-  const checked = checkPageType(shaped as Shaped)
+-  if (!checked.ok) {
+-    return {
+-      barred: `${checked.moment} — ${checked.message}`,
+-      keys: checked.keys.map((slug) => keyOf.get(slug) ?? slug).sort(),
+-    }
+-  }
+-
+-  const figures: Figure[] = []
+-  const placed = new Set<string>()
+-  const place = (slug: string): undefined => {
+-    if (placed.has(slug)) return
+-    const one = checked.computed.get(slug)
+-    if (one === undefined) return
+-    placed.add(slug)
+-    for (const read of one.reads) place(read)
+-    figures.push({ slug, key: keyOf.get(slug) ?? slug, checked: one })
+-  }
+-  for (const slug of checked.computed.keys()) place(slug)
+-  return { reads, figures }
+-}
+-
+-export function workedInto(
+-  working: Working,
+-  value: Readonly<Record<string, unknown>>,
+-  now: number
+-): Record<string, unknown> {
+-  const properties: Record<string, Worked> = {}
+-  for (const one of working.reads) properties[one.slug] = valuedAs(value[one.key], one.type)
+-  const filled: Record<string, unknown> = { ...value }
+-  for (const figure of working.figures) {
+-    const worked = runFormula(figure.checked, { now, properties })
+-    properties[figure.slug] = worked
+-    const held = heldFrom(worked)
+-    if (held !== undefined) filled[figure.key] = held
+-  }
+-  return filled
+-}
+diff --git a/pages/formulas/page-formulas.module.test.ts b/pages/formulas/page-formulas.module.test.ts
+deleted file mode 100644
+index 323e6eac09b685a881f38916a79eb7c0e76e1d8e..0000000000000000000000000000000000000000
+--- a/pages/formulas/page-formulas.module.test.ts
++++ /dev/null
+@@ -1,196 +0,0 @@
+-import { describe, expect, test } from "bun:test"
+-import { type Declared, workedInto, workingOver } from "./page-formulas.module.code.ts"
+-
+-const AT = Date.UTC(2026, 7, 20, 12, 0, 0)
+-
+-function stored(slug: string, sort: string, many = false): Declared {
+-  return {
+-    slug,
+-    key: slug.replace(/-([a-z0-9])/g, (_, one: string) => one.toUpperCase()),
+-    sort,
+-    many,
+-    formula: null,
+-    holds: null,
+-  }
+-}
+-
+-function figure(slug: string, formula: string, holds: string): Declared {
+-  return {
+-    slug,
+-    key: slug.replace(/-([a-z0-9])/g, (_, one: string) => one.toUpperCase()),
+-    sort: "formula-property",
+-    many: false,
+-    formula,
+-    holds,
+-  }
+-}
+-
+-const DAY: readonly Declared[] = [
+-  stored("faith-points", "number-property"),
+-  stored("love-points", "number-property"),
+-  stored("safety-level", "text-property"),
+-  stored("persona-days", "text-property", true),
+-  stored("sessions", "page-property-entry"),
+-  figure("faith-level", "case({faith-points} >= 1 -> 3, otherwise -> 0)", "number"),
+-  figure("love-level", "case({love-points} >= 1 -> 3, otherwise -> 0)", "number"),
+-  figure("faith-stoplight", 'case({faith-level} == 3 -> "🟢", otherwise -> "⚫")', "text"),
+-  figure("stoplights", '"{faith-stoplight}"', "text"),
+-  figure("total-level", "{faith-level} + {love-level}", "number"),
+-]
+-
+-function working(declared: readonly Declared[]) {
+-  const one = workingOver("wake-day", declared)
+-  if (one === null) throw new Error("nothing was worked over")
+-  return one
+-}
+-
+-describe("the figures a page type works out", () => {
+-  test("a page type declaring no formula is built for at all", () => {
+-    expect(workingOver("wake-day", [stored("faith-points", "number-property")])).toBeNull()
+-  })
+-
+-  test("every figure is worked out, each after the figures it reads", () => {
+-    const one = working(DAY)
+-    if ("barred" in one) throw new Error(one.barred)
+-    expect(one.figures.map((each) => each.slug)).toEqual([
+-      "faith-level",
+-      "love-level",
+-      "faith-stoplight",
+-      "stoplights",
+-      "total-level",
+-    ])
+-    const filled = workedInto(one, { faithPoints: 2, lovePoints: 0 }, AT)
+-    expect(filled["faithLevel"]).toBe(3)
+-    expect(filled["loveLevel"]).toBe(0)
+-    expect(filled["faithStoplight"]).toBe("🟢")
+-    expect(filled["stoplights"]).toBe("🟢")
+-    expect(filled["totalLevel"]).toBe(3)
+-  })
+-
+-  test("a figure reading a key no page carries is refused", () => {
+-    const one = working([...DAY, figure("made-up", "{no-such-key-at-all} + 1", "number")])
+-    if (!("barred" in one)) throw new Error("nothing was barred")
+-    expect(one.barred).toBe("checking — no property is declared under the key `no-such-key-at-all`")
+-    expect(one.keys).toEqual(["madeUp"])
+-  })
+-
+-  test("renaming one stored key darkens every figure reaching that key and no other", () => {
+-    const renamed = DAY.map((one) =>
+-      one.slug === "faith-points" ? stored("faith-points-renamed", "number-property") : one
+-    )
+-    const one = working(renamed)
+-    if (!("barred" in one)) throw new Error("nothing was barred")
+-    expect(one.keys).toEqual(["faithLevel", "faithStoplight", "stoplights", "totalLevel"])
+-    expect(one.keys).not.toContain("loveLevel")
+-  })
+-
+-  test("a figure answering another kind than the property states is refused", () => {
+-    const one = working([...DAY, figure("mis-stated", "{faith-points} + 1", "text")])
+-    if (!("barred" in one)) throw new Error("nothing was barred")
+-    expect(one.barred).toContain("is declared a text, and its formula answers a number")
+-  })
+-
+-  test("a sort with no kind written down bars every figure", () => {
+-    const one = working([...DAY, stored("odd-one", "no-such-property")])
+-    if (!("barred" in one)) throw new Error("nothing was barred")
+-    expect(one.barred).toContain("no kind is written down for `no-such-property`")
+-    expect([...one.keys].sort()).toEqual([
+-      "faithLevel",
+-      "faithStoplight",
+-      "loveLevel",
+-      "stoplights",
+-      "totalLevel",
+-    ])
+-  })
+-
+-  test("a formula property whose page states no formula bars every figure", () => {
+-    const missing: Declared = {
+-      slug: "gone",
+-      key: "gone",
+-      sort: "formula-property",
+-      many: false,
+-      formula: null,
+-      holds: "number",
+-    }
+-    const one = working([...DAY, missing])
+-    if (!("barred" in one)) throw new Error("nothing was barred")
+-    expect(one.barred).toContain("no page states the formula")
+-  })
+-
+-  test("a figure answering absent puts no key on the page", () => {
+-    const one = working([...DAY, figure("doubled", "{faith-points} * 2", "number")])
+-    if ("barred" in one) throw new Error(one.barred)
+-    const filled = workedInto(one, {}, AT)
+-    expect("doubled" in filled).toBe(false)
+-    expect(filled["faithLevel"]).toBe(0)
+-    const carried = workedInto(one, { faithPoints: 4 }, AT)
+-    expect(carried["doubled"]).toBe(8)
+-  })
+-
+-  test("a cycle among the figures is refused", () => {
+-    const ring = [
+-      stored("faith-points", "number-property"),
+-      figure("one-way", "{other-way} + 1", "number"),
+-      figure("other-way", "{one-way} + 1", "number"),
+-    ]
+-    const one = working(ring)
+-    if (!("barred" in one)) throw new Error("nothing was barred")
+-    expect(one.barred).toContain("a cycle among the formulas")
+-  })
+-
+-  test("a formula reads a computed property as a formula reads a stored one", () => {
+-    const worked: Declared = {
+-      slug: "strength-calories",
+-      key: "strengthCalories",
+-      sort: "computed-property",
+-      many: false,
+-      formula: null,
+-      holds: "number",
+-    }
+-    const one = working([
+-      ...DAY,
+-      worked,
+-      figure("activity-calories", "({faith-points} ?? 0) + ({strength-calories} ?? 0)", "number"),
+-    ])
+-    if ("barred" in one) throw new Error(one.barred)
+-    expect(one.reads.map((each) => each.slug)).toContain("strength-calories")
+-    const filled = workedInto(one, { faithPoints: 2, strengthCalories: 100 }, AT)
+-    expect(filled["activityCalories"]).toBe(102)
+-  })
+-
+-  test("a computed property stating no kind bars every figure", () => {
+-    const odd: Declared = {
+-      slug: "odd-one",
+-      key: "oddOne",
+-      sort: "computed-property",
+-      many: false,
+-      formula: null,
+-      holds: null,
+-    }
+-    const one = working([...DAY, odd])
+-    if (!("barred" in one)) throw new Error("nothing was barred")
+-    expect(one.barred).toContain("states no kind its calculation answers")
+-    expect([...one.keys].sort()).toEqual([
+-      "faithLevel",
+-      "faithStoplight",
+-      "loveLevel",
+-      "stoplights",
+-      "totalLevel",
+-    ])
+-  })
+-
+-  test("an entry property and a formula property are left out of what a formula reads", () => {
+-    const one = working(DAY)
+-    if ("barred" in one) throw new Error(one.barred)
+-    expect(one.reads.map((each) => each.slug)).toEqual([
+-      "faith-points",
+-      "love-points",
+-      "safety-level",
+-      "persona-days",
+-    ])
+-    expect(one.reads.find((each) => each.slug === "persona-days")?.type).toEqual({
+-      kind: "list",
+-      of: "text",
+-    })
+-  })
+-})
+diff --git a/pages/formulas/page-formulas.module.ts b/pages/formulas/page-formulas.module.ts
+deleted file mode 100644
+index e777befab16d2c8740da37309ecd8feff262bf4f..0000000000000000000000000000000000000000
+--- a/pages/formulas/page-formulas.module.ts
++++ /dev/null
+@@ -1,84 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const pageFormulas = {
+-  id: "01a06952-7a5d-7adb-9506-fb5173849dfb",
+-  pageTypeSlug: "module",
+-  slug: "page-formulas",
+-  definition: "the figures a page type's formulas work out over the values a page carries",
+-  code: "ts",
+-  test: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A formula reads only keys the page type declares.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A key a formula reads is spelled as the property's own slug.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A figure is written down under the key a page file would spell.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The sort a stored property is says what kind that property holds.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A sort with no kind written down bars every figure the page type declares.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A sort carrying no value a formula can read is left out of the shape.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A property carried many times holds a list.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A computed property is read as a value the page carries rather than as a figure.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A calculation is worked out before any formula reading that calculation's key.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A computed property stating no kind bars every figure the page type declares.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No calculation is run here.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Nothing is built for a page type declaring no formula.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A figure is worked out after every figure that figure reads.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A figure answering absent puts no key on the page.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An instant a figure answers is written down as an ISO timestamp.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A formula property whose page states no formula bars every figure.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here opens a file or reaches a store.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No figure is kept for a later question.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/pages/system-service/kinds-gathering/kinds-gathering.module.code.ts b/pages/system-service/kinds-gathering/kinds-gathering.module.code.ts
+index e4134605c76a66da159aad454211e1b933aa5ddb..0e59e8a48a386c7f9d976bcb833dcc978a4f76ee 100644
+--- a/pages/system-service/kinds-gathering/kinds-gathering.module.code.ts
++++ b/pages/system-service/kinds-gathering/kinds-gathering.module.code.ts
+@@ -2,21 +2,8 @@ import { readFileSync } from "node:fs"
+ import { isAbsolute, join } from "node:path"
+ import { readingIn, type Valued, valuesOfType } from "@akasha/indexes"
+ import { workIn } from "@akasha/pages-system/calculation-loading"
+-import {
+-  type Computed,
+-  computingOver,
+-  type Subject,
+-  type Unready,
+-} from "@akasha/pages-system/page-computing"
++import { type Computed, computingOver, type Subject } from "@akasha/pages-system/page-computing"
+ import { entriedValue } from "@akasha/pages-system/page-entries"
+-import {
+-  type Barred,
+-  COMPUTED,
+-  type Declared,
+-  FORMULA,
+-  type Working,
+-  workingOver,
+-} from "@akasha/pages-system/page-formulas"
+ import { kindsUnder } from "@akasha/pages-system/page-type-descent"
+ import {
+   type Carried,
+@@ -30,6 +17,8 @@ import { textAt, type Value } from "@akasha/pages-system/page-value"
+ 
+ const PAGE_TYPE = "page-type"
+ 
++const COMPUTED = "computed-property"
++
+ const CODE = ".code.ts"
+ 
+ export type Named = Map<string, ReadonlyMap<string, Value>>
+@@ -72,36 +61,6 @@ export function kindsFor(root: string, pageTypeSlug: string): readonly string[]
+   return [...under].sort()
+ }
+ 
+-export function declaredFor(
+-  root: string,
+-  named: Named,
+-  carried: readonly Carried[]
+-): readonly Declared[] {
+-  return carried.map((one) => {
+-    const page =
+-      one.pageTypeSlug === FORMULA || one.pageTypeSlug === COMPUTED
+-        ? pagesOfType(root, named, one.pageTypeSlug).get(one.pagePropertySlug)
+-        : undefined
+-    return {
+-      slug: one.propertySlug,
+-      key: one.key,
+-      sort: one.pageTypeSlug,
+-      many: one.many,
+-      formula: page === undefined ? null : textAt(page, "formula"),
+-      holds: page === undefined ? null : textAt(page, "holds"),
+-    }
+-  })
+-}
+-
+-export function workingFor(
+-  root: string,
+-  pageTypeSlug: string,
+-  carried: readonly Carried[],
+-  named: Named = new Map<string, ReadonlyMap<string, Value>>()
+-): Working | Barred | null {
+-  return workingOver(pageTypeSlug, declaredFor(root, named, carried))
+-}
+-
+ function codeAt(root: string, path: string): string | null {
+   const beside = path.replace(/\.ts$/, CODE)
+   const at = isAbsolute(beside) ? beside : join(root, beside)
+@@ -144,20 +103,9 @@ export function computedFor(root: string, carried: readonly Carried[]): readonly
+   return found
+ }
+ 
+-export function unreadyIn(carried: readonly Carried[]): readonly Unready[] {
+-  return carried
+-    .filter((one) => one.pageTypeSlug === FORMULA)
+-    .map((one) => ({
+-      key: one.key,
+-      why: `\`${one.propertySlug}\` is a formula, and every calculation is worked out before any formula, so a calculation reads no formula. carry \`${one.propertySlug}\` to a calculation before the calculation reading it`,
+-    }))
+-}
+-
+ export type Counting = {
+   readonly row: Valued
+   readonly computed: readonly Computed[]
+-  readonly unready: readonly Unready[]
+-  readonly working: Working | null
+ }
+ 
+ export type Counted = {
+@@ -176,7 +124,6 @@ export function computedInto(counting: readonly Counting[]): Counted {
+       id: textAt(one.row.value, "id") ?? one.row.path,
+       value: one.row.value,
+       computed: one.computed,
+-      unready: one.unready,
+     })
+     const slug = textAt(one.row.value, "slug")
+     if (slug !== null && !named.has(slug)) named.set(slug, one.row.path)
+@@ -210,32 +157,19 @@ function valuedFor(
+   })
+ }
+ 
+-export type Gathered = {
+-  readonly counting: readonly Counting[]
+-  readonly barred: readonly Barred[]
+-}
+-
+ export function gatheredFor(
+   root: string,
+   pageTypeSlug: string,
+   carried: readonly Carried[]
+-): Gathered {
++): readonly Counting[] {
+   const source = sourceFor(root)
+-  const named: Named = new Map<string, ReadonlyMap<string, Value>>()
+   const counting: Counting[] = []
+-  const barred: Barred[] = []
+   for (const kind of kindsFor(root, pageTypeSlug)) {
+     const read = valuesOfType(root, kind)
+     if (read.length === 0) continue
+     const own = kind === pageTypeSlug ? carried : carriedFor(root, kind, source)
+-    const worked = workingFor(root, kind, own, named)
+-    if (worked !== null && "barred" in worked) barred.push(worked)
+-    const working = worked === null || "barred" in worked ? null : worked
+     const computed = computedFor(root, own)
+-    const unready = unreadyIn(own)
+-    for (const row of valuedFor(root, read, own)) {
+-      counting.push({ row, computed, unready, working })
+-    }
++    for (const row of valuedFor(root, read, own)) counting.push({ row, computed })
+   }
+-  return { counting, barred }
++  return counting
+ }
+diff --git a/pages/system-service/kinds-gathering/kinds-gathering.module.test.ts b/pages/system-service/kinds-gathering/kinds-gathering.module.test.ts
+index 634e92cbb2ce2d247280edc72ea48750772968e7..85da2613d72e1789bb894d402a41e8cd287e16c5 100644
+--- a/pages/system-service/kinds-gathering/kinds-gathering.module.test.ts
++++ b/pages/system-service/kinds-gathering/kinds-gathering.module.test.ts
+@@ -3,7 +3,6 @@ import { mkdirSync, writeFileSync } from "node:fs"
+ import { dirname, join } from "node:path"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+ import { listedFiled, schemaFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+-import { workedInto } from "@akasha/pages-system/page-formulas"
+ import { carriedFor, computedInto, gatheredFor, kindsFor } from "./kinds-gathering.module.code.ts"
+ 
+ const scratch = scratchWorld()
+@@ -58,30 +57,40 @@ function propertied(
+   return path
+ }
+ 
++function calculated(root: string, slug: string, holds: string, body: string): undefined {
++  const at = propertied(root, "computed-property", slug, { holds, code: "ts" })
++  const beside = join(root, at.replace(/\.ts$/, ".code.ts"))
++  mkdirSync(dirname(beside), { recursive: true })
++  writeFileSync(beside, `${body}\n`)
++}
++
+ function worlded(root: string): undefined {
+   propertied(root, "number-property", "count", { max: null })
+-  propertied(root, "formula-property", "twice", { holds: "number", formula: "{count} + {count}" })
+-  propertied(root, "formula-property", "thrice", {
+-    holds: "number",
+-    formula: "{count} + {count} + {count}",
+-  })
++  calculated(root, "twice", "number", "export function work(page) { return (page.count ?? 0) * 2 }")
++  calculated(
++    root,
++    "thrice",
++    "number",
++    "export function work(page) { return (page.count ?? 0) * 3 }"
++  )
+   typed(root, "held", [], [{ pagePropertySlug: "number-property/count", required: false }])
+-  typed(root, "nearer", ["held"], [{ pagePropertySlug: "formula-property/twice", required: false }])
++  typed(
++    root,
++    "nearer",
++    ["held"],
++    [{ pagePropertySlug: "computed-property/twice", required: false }]
++  )
+   typed(
+     root,
+     "further",
+     ["nearer"],
+-    [{ pagePropertySlug: "formula-property/thrice", required: false }]
++    [{ pagePropertySlug: "computed-property/thrice", required: false }]
+   )
+ }
+ 
+ function rowsOf(root: string, pageTypeSlug: string): readonly Record<string, unknown>[] {
+-  const gathered = gatheredFor(root, pageTypeSlug, carriedFor(root, pageTypeSlug))
+-  const counted = computedInto(gathered.counting)
+-  return counted.rows.map((one, at) => {
+-    const working = gathered.counting[at]?.working ?? null
+-    return working === null ? one.value : workedInto(working, one.value, 0)
+-  })
++  const counted = computedInto(gatheredFor(root, pageTypeSlug, carriedFor(root, pageTypeSlug)))
++  return counted.rows.map((one) => one.value)
+ }
+ 
+ test("a page type is gathered together with every page type under it", () => {
+@@ -98,7 +107,7 @@ test("a page type is gathered together with every page type under it", () => {
+   ).toEqual(["one", "three", "two"])
+ })
+ 
+-test("a formula a page type under the one named declares is worked out on that type's rows", () => {
++test("a calculation a page type under the one named declares is worked out on that type's rows", () => {
+   const root = scratch.rootFor("akasha-kinds-")
+   worlded(root)
+   filed(root, "held", "one", { count: 1 })
+@@ -134,34 +143,18 @@ test("a page type under the one named that no page is filed under is passed over
+   const root = scratch.rootFor("akasha-kinds-")
+   worlded(root)
+   filed(root, "held", "one", { count: 1 })
+-  expect(gatheredFor(root, "held", carriedFor(root, "held")).counting.length).toBe(1)
++  expect(gatheredFor(root, "held", carriedFor(root, "held")).length).toBe(1)
+ })
+ 
+-test("a page type under the one named whose formulas are barred is answered beside the rows", () => {
++test("a calculation is read from the page type that row is of", () => {
+   const root = scratch.rootFor("akasha-kinds-")
+   worlded(root)
+-  propertied(root, "formula-property", "unkinded", { formula: "{count}" })
+-  typed(
++  calculated(
+     root,
+-    "barred",
+-    ["held"],
+-    [{ pagePropertySlug: "formula-property/unkinded", required: false }]
++    "doubled",
++    "number",
++    "export function work(page) { return (page.count ?? 0) * 2 }"
+   )
+-  filed(root, "held", "one", { count: 1 })
+-  filed(root, "barred", "two", { count: 2 })
+-  const gathered = gatheredFor(root, "held", carriedFor(root, "held"))
+-  expect(gathered.counting.length).toBe(2)
+-  expect(gathered.barred.length).toBe(1)
+-  expect(gathered.barred[0]?.keys).toEqual(["unkinded"])
+-})
+-
+-test("a calculation is read from the page type that row is of", () => {
+-  const root = scratch.rootFor("akasha-kinds-")
+-  worlded(root)
+-  const at = propertied(root, "computed-property", "doubled", { holds: "number", code: "ts" })
+-  const beside = join(root, at.replace(/\.ts$/, ".code.ts"))
+-  mkdirSync(dirname(beside), { recursive: true })
+-  writeFileSync(beside, "export function work(page) { return (page.count ?? 0) * 2 }\n")
+   typed(
+     root,
+     "counted",
+@@ -174,3 +167,19 @@ test("a calculation is read from the page type that row is of", () => {
+   expect(said.get("two")?.["doubled"]).toBe(4)
+   expect(said.get("one")?.["doubled"]).toBeUndefined()
+ })
++
++test("a property whose code file is not there darkens that property's key alone", () => {
++  const root = scratch.rootFor("akasha-kinds-")
++  worlded(root)
++  propertied(root, "computed-property", "missing", { holds: "number", code: "ts" })
++  typed(
++    root,
++    "lacking",
++    ["held"],
++    [{ pagePropertySlug: "computed-property/missing", required: false }]
++  )
++  filed(root, "lacking", "two", { count: 2 })
++  const counted = computedInto(gatheredFor(root, "held", carriedFor(root, "held")))
++  expect(counted.dark.get("missing")).toContain("names no code file beside its page")
++  expect(counted.rows[0]?.value["slug"]).toBe("two")
++})
