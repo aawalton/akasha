@@ -89,11 +89,11 @@ export const noSwallowedRead = {
     {
       invariantKind: "departure",
       statement:
-        "A catch using what that catch caught is carrying that failure rather than dropping that failure.",
+        "A catch using the caught failure is carrying that failure rather than dropping that failure.",
     },
     {
       invariantKind: "departure",
-      statement: "A catch that never names what the catch caught has dropped the failure.",
+      statement: "A catch that never names the caught failure has dropped the failure.",
     },
   ],
 } as const satisfies SyntaxRule
