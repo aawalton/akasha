@@ -9,7 +9,8 @@ export const supervisorAgentSettings = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What asks for the settings imports this and calls it rather than running it.",
+      statement:
+        "A caller wanting the settings imports and calls this module rather than running the module.",
     },
     {
       invariantKind: "departure",
