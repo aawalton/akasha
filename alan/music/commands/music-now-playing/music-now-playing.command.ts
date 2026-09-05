@@ -26,7 +26,7 @@ export const musicNowPlaying = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here changes what is playing.",
+      statement: "Nothing here changes the track playing.",
     },
   ],
 } as const satisfies Command
