@@ -16,7 +16,6 @@ export const exerciseSessionFinish = {
     { said: "--json", takes: "give the closing as JSON rather than as tab-separated rows" },
   ],
   helpNotes: [
-    "the session left unsaid is the most recent one still open.",
     "notes given are added under the notes already there rather than written over them.",
     "the duration is the minutes between the moment started and the moment closed.",
     "the volume counts the bodyweight the client profile states.",
