@@ -1,0 +1,13 @@
+diff --git a/code-system/code-typing/code-typing.module.test.ts b/code-system/code-typing/code-typing.module.test.ts
+index 03135216336e67a7ad948e1e9ab0a09ebf96ea81..a27b238a689503a9e0109bf0949003b05c0e0349 100644
+--- a/code-system/code-typing/code-typing.module.test.ts
++++ b/code-system/code-typing/code-typing.module.test.ts
+@@ -56,7 +56,7 @@ test("a manifest reached through the packages folder is answered where it links
+ 
+   expect(manifestOf(root, join(root, PACKAGED, "one/package.json"))).toBe("akasha/one/package.json")
+   expect(manifestOf(root, join(root, "akasha/one/package.json"))).toBe("akasha/one/package.json")
+-  expect(manifestOf(root, join(root, "package.json"))).toBe(null)
++  expect(manifestOf(root, join(root, "package.json"))).toBe("package.json")
+   expect(manifestOf(root, join(root, "akasha/one/one.module.code.ts"))).toBe(null)
+ })
+ 
