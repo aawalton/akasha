@@ -13,8 +13,7 @@ export const proxyCore = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What went wrong is reported to the caller of the fetch rather than to the client.",
+      statement: "The failure is reported to the caller of the fetch rather than to the client.",
     },
   ],
 } as const satisfies Module
