@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/story/tower/core/core.domain.ts b/story/tower/core/core.domain.ts
+index 17c554507a11619d0adc7499a6925fcd2a0ea4c5..3013f46ba38a3a60e9910d0563774ac1a4dec50b 100644
+--- a/story/tower/core/core.domain.ts
++++ b/story/tower/core/core.domain.ts
+@@ -26,7 +26,7 @@ export const core = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a player is shown of a sheet is a shape of its own.",
++      statement: "The part of a sheet a player is shown is a shape of its own.",
+     },
+   ],
+ } as const satisfies Domain
