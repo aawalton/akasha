@@ -107,11 +107,19 @@ export const editorExtension = {
     },
     {
       invariantKind: "departure",
+      statement: "The tree the editor draws is replaced whole rather than patched row by row.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page the index named is opened for a value the index does not file.",
     },
     {
       invariantKind: "departure",
       statement: "A panel row that represents a page names that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
     },
     {
       invariantKind: "departure",

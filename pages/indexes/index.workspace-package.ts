@@ -95,6 +95,10 @@ export const index = {
       statement: "The index holds every page.",
     },
     {
+      invariantKind: "departure",
+      statement: "The index carries the pages rather than every file git tracks.",
+    },
+    {
       invariantKind: "gap",
       statement: "No page's entry is older than the files its properties hold.",
     },

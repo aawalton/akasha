@@ -199,5 +199,9 @@ export const folderShape = {
       invariantKind: "departure",
       statement: "A shape judging no folder keeps its page.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A page is declared a part by its page type and slug together.",
+    },
   ],
 } as const satisfies PageType
