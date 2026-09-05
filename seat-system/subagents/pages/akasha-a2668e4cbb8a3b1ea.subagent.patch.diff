@@ -1,0 +1,95 @@
+diff --git a/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts b/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts
+index 85a0cfd17f5708c4634fd4e371b8436d94315ec3..c0316ff98eb29c5838fd022bbdd416251c7f3651 100644
+--- a/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts
++++ b/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts
+@@ -11,10 +11,22 @@ export const royalRoadSyncing = {
+       invariantKind: "departure",
+       statement: "A story is followed by the royal road id the story states.",
+     },
++    {
++      invariantKind: "absence",
++      statement: "No story page is created here.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A chapter already held is known by its royal road id rather than by its title.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A chapter stating no royal road id is known by the id its link carries.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A chapter already filed is read whatever source that chapter states.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A chapter royal road hides or keeps locked is left where it is.",
+@@ -22,48 +34,54 @@ export const royalRoadSyncing = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A chapter's name is its position padded to four digits joined to its title cut back to whole words at fifty characters.",
++        "A chapter's name opens with its story's slug, then its position padded to four digits, then its title cut back to whole words at fifty characters.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A name a sibling already holds takes the chapter's royal road id on the end.",
++      statement:
++        "A name is cut back further where it would otherwise run past the hundred characters a slug holds.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A story's status is restated from royal road only where royal road says ongoing, completed or hiatus.",
++        "A name another chapter already holds takes the chapter's royal road id on the end.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A second and a half sits between one request to royal road and the next.",
++      statement:
++        "A chapter names the story it is part of by page type and slug rather than by slug alone.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "What is composed is shown rather than landed unless the run was asked to commit it.",
++        "A story's status is restated from royal road only where royal road says ongoing, completed or hiatus.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Files land fifty at a time, each fifty its own commit.",
++      statement: "A story naming no world is left unrestated and said to be.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A chapter refused for holding no prose is named by the page read and by which refusal it hit.",
++      statement: "A second and a half sits between one request to royal road and the next.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run that failed a chapter is a failed run however much else it composed.",
++      statement:
++        "What is composed is shown rather than landed unless the run was asked to commit it.",
+     },
+     {
+-      invariantKind: "gap",
++      invariantKind: "departure",
+       statement:
+-        "Stories are read from the store the stories are now in, which is `story/stories-read/pages` rather than `pages/story-read-royal-road`.",
++        "Pages land fifty at a time, each fifty its own commit, every page with the files beside it.",
+     },
+     {
+-      invariantKind: "gap",
++      invariantKind: "departure",
+       statement:
+-        "Chapters are filed into the store the chapters are now in, which is `story/story-chapters-read/pages` rather than `pages/story-chapter-royal-road`.",
++        "A chapter refused for holding no prose is named by the page read and by which refusal it hit.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run that failed a chapter is a failed run however much else it composed.",
+     },
+   ],
+ } as const satisfies Module
