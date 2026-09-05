@@ -1046,6 +1046,26 @@ index e777befab16d2c8740da37309ecd8feff262bf4f..00000000000000000000000000000000
 -    },
 -  ],
 -} as const satisfies Module
+diff --git a/pages/package.json b/pages/package.json
+index 60d5d824a50eb89b9a18201559eb1855c885c4c8..b43255bc6f41b4611fc036e8e14479ac6e64d854 100644
+--- a/pages/package.json
++++ b/pages/package.json
+@@ -14,7 +14,6 @@
+     "./email-address-property": "./email-address-properties/email-address-property.page-type.ts",
+     "./entry-ceiling": "./entry-ceiling/entry-ceiling.module.code.ts",
+     "./file-property": "./file-properties/file-property.page-type.ts",
+-    "./formula-property": "./formula-properties/formula-property.page-type.ts",
+     "./generator-kind": "./generator-kinds/generator-kind.page-type.ts",
+     "./generator-kind/uuid-v7": "./generator-kinds/pages/uuid-v7.generator-kind.ts",
+     "./instant-property": "./instant-properties/instant-property.page-type.ts",
+@@ -50,7 +49,6 @@
+     "./page-export-name": "./export-name/page-export-name.module.code.ts",
+     "./page-file-name": "./file-name/page-file-name.module.code.ts",
+     "./page-file-parts": "./file-parts/page-file-parts.module.code.ts",
+-    "./page-formulas": "./formulas/page-formulas.module.code.ts",
+     "./page-landing-journal": "./landing-journal/page-landing-journal.module.code.ts",
+     "./page-landing-judge": "./landing-judge/page-landing-judge.module.code.ts",
+     "./page-narrow": "./narrow/page-narrow.module.code.ts",
 diff --git a/pages/pages.workspace-package.ts b/pages/pages.workspace-package.ts
 index d8dbcce1fbae583d83f46e42a83760d832525112..c27b6bead88d2a9f11d6bf0197f43ec4d77de90c 100644
 --- a/pages/pages.workspace-package.ts
