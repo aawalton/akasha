@@ -98,7 +98,7 @@ index 92620ff1d45c6b862a5eb8b2b1ba6a0091cbd6a6..414d84227e14dcc24f777636bda2444c
  
  export function schemaOf(given: string | Reading, named: string): Schemad {
 diff --git a/pages/indexes/reading/index-reading.module.test.ts b/pages/indexes/reading/index-reading.module.test.ts
-index 91006b53e032cae31e5ba55b7b5cc87f2ea59494..ab70aa81314ba78f101c5d2e10f7a2dc0d3e6706 100644
+index 91006b53e032cae31e5ba55b7b5cc87f2ea59494..93fdfa9bd3e98031a10443415d499ff0cb63c4e7 100644
 --- a/pages/indexes/reading/index-reading.module.test.ts
 +++ b/pages/indexes/reading/index-reading.module.test.ts
 @@ -151,7 +151,7 @@ test("every reader is refused where the index stands nowhere, whatever it was as
@@ -155,3 +155,14 @@ index 91006b53e032cae31e5ba55b7b5cc87f2ea59494..ab70aa81314ba78f101c5d2e10f7a2dc
    const root = rootAt()
    schemaFiled(root, "text-property", "foo", [
      { pageTypeSlug: "text-property", targetPageTypeSlug: null },
+@@ -253,9 +253,7 @@ test("a bare slug two page types carry is refused and must name its page type",
+   ])
+ 
+   expect(schemaOf(root, "foo")).toEqual({
+-    refused:
+-      "`foo` narrows to 2 page properties and must name its page type — " +
+-      "number-property/foo, text-property/foo",
++    refused: "`foo` names no page type, so which page it reaches is read off whoever asked",
+   })
+ })
+ 
