@@ -29,7 +29,7 @@ export const monarchNotesWrite = {
     },
     {
       invariantKind: "departure",
-      statement: "A note written carries the tag saying a machine wrote it.",
+      statement: "A note written carries the tag saying a machine wrote that note.",
     },
     {
       invariantKind: "departure",
