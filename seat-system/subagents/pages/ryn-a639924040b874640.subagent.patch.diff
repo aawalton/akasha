@@ -38,3 +38,42 @@ index eb55ba1c2a6667e530f32abbd50337fd2ca9bf59..efb75d1dda9fb951fd220c3c8948b0f4
      },
      { invariantKind: "departure", statement: "A page type and a slug are cut at the first `/`." },
    ],
+diff --git a/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts b/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
+index 2df4b6b2a36f2edec1e4f02b4e9713f506f4ba32..eca29f51ccd2df8a0361932e0cdb8755e94eeebe 100644
+--- a/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
++++ b/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
+@@ -30,7 +30,7 @@ export const mobileSimStatus = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An age is measured against the moment this was called.",
++      statement: "An age is measured against the moment this command was called.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/pages/landing-judge/page-landing-judge.module.ts b/pages/landing-judge/page-landing-judge.module.ts
+index 47fdcb664087ca62f595d410320ccd39609acb51..6ba3e0b59097f4f030656373567d4da54852e0ca 100644
+--- a/pages/landing-judge/page-landing-judge.module.ts
++++ b/pages/landing-judge/page-landing-judge.module.ts
+@@ -13,7 +13,7 @@ export const pageLandingJudge = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Three of those acts land on a row rather than on the page.",
++      statement: "Three of the eight named acts land on a row rather than on the page.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/person-system/device-secrets/properties/device-secret-revoked-at.instant-property.ts b/person-system/device-secrets/properties/device-secret-revoked-at.instant-property.ts
+index 4a025d842b7c067abde8d2bd816be84df1fdb7a0..03ad40aa601c2870a8833ea9b64c70dd4547ca6d 100644
+--- a/person-system/device-secrets/properties/device-secret-revoked-at.instant-property.ts
++++ b/person-system/device-secrets/properties/device-secret-revoked-at.instant-property.ts
+@@ -11,7 +11,7 @@ export const deviceSecretRevokedAt = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A device secret stating none of this still stands.",
++      statement: "A device secret stating no `revoked-at` is still taken.",
+     },
+   ],
+ } as const satisfies InstantProperty
