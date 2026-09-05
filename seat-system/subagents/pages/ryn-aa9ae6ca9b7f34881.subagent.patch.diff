@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/migration-system/landing/migration-landing.module.ts b/migration-system/landing/migration-landing.module.ts
-index 40d075ac0cdd53d46ff944fc5fc1986b610d8b81..cb3f4d07510f16403409f2ad8171090128b576c9 100644
+index 40d075ac0cdd53d46ff944fc5fc1986b610d8b81..4fbbd3512013a9d1744ecd52b2ab87d3abd80641 100644
 --- a/migration-system/landing/migration-landing.module.ts
 +++ b/migration-system/landing/migration-landing.module.ts
 @@ -14,7 +14,7 @@ export const migrationLanding = {
@@ -45,13 +45,19 @@ index 40d075ac0cdd53d46ff944fc5fc1986b610d8b81..cb3f4d07510f16403409f2ad81710901
      },
      {
        invariantKind: "departure",
-@@ -171,7 +172,8 @@ export const migrationLanding = {
+@@ -171,11 +172,13 @@ export const migrationLanding = {
      },
      {
        invariantKind: "departure",
 -      statement: "What each batch was told is answered alongside what landed.",
 +      statement:
 +        "The paths and message each batch was told are answered alongside the paths that landed.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is on disk is read back rather than taken from the code a landing answered.",
++      statement:
++        "The bytes on disk are read back rather than taken from the code a landing answered.",
      },
      {
        invariantKind: "departure",
