@@ -1,0 +1,13 @@
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
+index 9d1a6e7c93f2a8cfdd42d106eadd5dbdcc6a7994..8bb71d0ea1a34793e739cd4a41ccbb27c1471d9a 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
+@@ -49,7 +49,7 @@ export const codeEditorDataInterface = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The editor reads these files and writes none of them.",
++      statement: "The editor reads these files and writes none of these files.",
+     },
+     {
+       invariantKind: "departure",
