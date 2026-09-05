@@ -1,0 +1,16 @@
+diff --git a/command-system/commands/track/session-rows/session-rows.module.ts b/command-system/commands/track/session-rows/session-rows.module.ts
+index aa8d99273728da179b02d7d268747009324197e5..4397572642aa61c9283712239065228bf53ae694 100644
+--- a/command-system/commands/track/session-rows/session-rows.module.ts
++++ b/command-system/commands/track/session-rows/session-rows.module.ts
+@@ -24,10 +24,7 @@ export const sessionRows = {
+       invariantKind: "departure",
+       statement: "A safety no caller said is carried from the stretch before.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A difficulty no caller said is read off the session activities.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement:
