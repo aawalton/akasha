@@ -9,7 +9,7 @@ export const aceStepClient = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A song is asked for once and then polled for until it is done.",
+      statement: "A song is asked for once and then polled for until that song is done.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +29,7 @@ export const aceStepClient = {
     },
     {
       invariantKind: "departure",
-      statement: "The bytes are the answer only where they open `RIFF`.",
+      statement: "The bytes are the answer only where those bytes open `RIFF`.",
     },
     {
       invariantKind: "departure",
