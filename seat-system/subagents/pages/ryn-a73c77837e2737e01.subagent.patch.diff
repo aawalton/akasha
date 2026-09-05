@@ -1,0 +1,13 @@
+diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts
+index befc0f7430d842d903c438a0498c12493c6fc606..0f73ee36bcda3c38f161f282b49cfcabdef5ba11 100644
+--- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts
++++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts
+@@ -44,7 +44,7 @@ export const noSwallowedRead = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A body that will not decode is a fact about that body rather than a failure to reach it.",
++        "A body that will not decode is a fact about that body rather than a failure to reach that body.",
+     },
+     {
+       invariantKind: "departure",
