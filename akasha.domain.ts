@@ -183,7 +183,7 @@ export const akasha = {
     },
     {
       directiveKind: "principle",
-      name: "Cheap To Read",
+      name: "Cheap To Read (CTR)",
       act: "Take every chance to make a sentence cheaper to read, where no truth and no clarity is lost.",
       warrant:
         "An agent holds one budget for a turn, and what the agent spends reading is gone from the work.",
