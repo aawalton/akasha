@@ -25,7 +25,7 @@ export const stoplightRing = {
     {
       invariantKind: "departure",
       statement:
-        "The arc is how far a reading stands toward its next rung rather than on the whole scale.",
+        "The arc is how far along a reading is toward its next rung rather than on the whole scale.",
     },
   ],
 } as const satisfies Domain

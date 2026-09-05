@@ -12,7 +12,7 @@ export const smilingjennySafetyLevel = {
   feed: "https://smilingjenny.me/api/safety-level",
   caption: "Alan's Safety",
   galleryName: "Safety",
-  galleryDescription: "Where Alan's safety level stands today.",
+  galleryDescription: "Where Alan's safety level is today.",
   groupSlugs: ["safety"],
   place: 2,
 } as const satisfies ReadoutWidget

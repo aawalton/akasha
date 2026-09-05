@@ -12,7 +12,7 @@ test("the mail entry asked for is the one the day names", () => {
   expect(asked.limit).toBe(1)
 })
 
-test("the reading is how near the inbox came to empty rather than where the inbox stands now", () => {
+test("the reading is how near the inbox came to empty rather than where the inbox is now", () => {
   expect(mailOn(DAY).keys).toEqual(["lowestInboxCount"])
 })
 

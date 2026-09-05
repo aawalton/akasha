@@ -25,7 +25,7 @@ export const ring = {
     },
     {
       invariantKind: "departure",
-      statement: "The figure stands inside the ring and the label below it.",
+      statement: "The figure sits inside the ring and the label below it.",
     },
     {
       invariantKind: "departure",

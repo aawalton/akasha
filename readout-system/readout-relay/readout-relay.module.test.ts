@@ -23,7 +23,7 @@ const PAGE = `akasha/readout-system/readouts/pages/${READOUT}/${READOUT}.readout
 
 const TAKEN = "2026-08-31T12:00:00.000Z"
 
-const SECRET = "a-relay-secret-standing-only-in-this-test"
+const SECRET = "a-relay-secret-existing-only-in-this-test"
 
 beforeEach(() => dropRelayed())
 

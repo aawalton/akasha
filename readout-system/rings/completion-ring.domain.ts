@@ -39,7 +39,7 @@ export const completionRing = {
     },
     {
       invariantKind: "departure",
-      statement: "The words for nothing left stand beneath that emoji, or none do.",
+      statement: "The words for nothing left sit beneath that emoji, or none do.",
     },
   ],
 } as const satisfies Domain

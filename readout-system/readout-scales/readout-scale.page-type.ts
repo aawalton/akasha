@@ -71,7 +71,7 @@ export const readoutScale = {
     },
     {
       invariantKind: "departure",
-      statement: "Black stands at zero unless a scale moves black.",
+      statement: "Black is at zero unless a scale moves black.",
     },
     {
       invariantKind: "constraint",

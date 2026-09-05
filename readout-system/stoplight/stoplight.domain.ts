@@ -4,7 +4,7 @@ export const stoplight = {
   id: "01a0655b-9cdc-7c65-845c-0fcbf73b73dc",
   pageTypeSlug: "domain",
   slug: "stoplight",
-  definition: "one color saying where a reading stands now",
+  definition: "one color saying where a reading is now",
   invariants: [
     {
       invariantKind: "departure",

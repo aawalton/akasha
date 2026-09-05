@@ -23,7 +23,7 @@ export function readingKept(root: string, page: string): Reading | null {
   if (value === undefined && at === undefined) return null
   if (typeof value !== "number" || typeof at !== "string") {
     throw new Error(
-      `'${page}' stands beside a reading carrying only one of its two halves, so what it last ` +
+      `'${page}' sits beside a reading carrying only one of its two halves, so what it last ` +
         "read is unknown rather than nothing"
     )
   }

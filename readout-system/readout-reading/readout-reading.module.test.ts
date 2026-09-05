@@ -11,7 +11,7 @@ const scratch = scratchWorld()
 
 afterAll(() => scratch.sweep())
 
-test("a readout with nothing standing beside it has taken no reading", () => {
+test("a readout with nothing beside it has taken no reading", () => {
   expect(readingKept(scratch.rootFor("readout-reading-"), PAGE)).toBeNull()
 })
 
@@ -21,7 +21,7 @@ test("a reading kept is the reading read back", () => {
   expect(readingKept(root, PAGE)).toEqual({ value: 19, at: TAKEN })
 })
 
-test("a reading replaces the one before it rather than standing beside it", () => {
+test("a reading replaces the one before it rather than sitting beside it", () => {
   const root = scratch.rootFor("readout-reading-")
   keepReading(root, PAGE, 19, new Date(TAKEN))
   keepReading(root, PAGE, 4, new Date("2026-08-31T12:05:00.000Z"))

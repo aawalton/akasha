@@ -30,7 +30,7 @@ test("a day carrying no count is no reading rather than a count of zero", () => 
   expect(tasksIn({ "inbox-tasks": null })).toBeNull()
 })
 
-test("the temper count standing beside it is never read as the task count", () => {
+test("the temper count beside it is never read as the task count", () => {
   expect(tasksIn({ "inbox-temper-tasks": "22" })).toBeNull()
 })
 

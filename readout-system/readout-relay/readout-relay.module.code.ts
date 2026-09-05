@@ -10,7 +10,7 @@ export const RELAY_PATH = "/api/readout-relay"
 export const RELAY_SECRET_NAME = "READING_RELAY_SECRET"
 
 export const NO_READOUT_NAMED =
-  "no readout page was named, so there is no reading to carry. The page a reading stands beside " +
+  "no readout page was named, so there is no reading to carry. The page a reading sits beside " +
   "is the first of the two arguments this takes."
 
 export const NOWHERE_TO_CARRY_TO =
@@ -123,7 +123,7 @@ if (import.meta.main) {
   }
   const kept = readingKept(root, page)
   if (kept === null) {
-    process.stderr.write(`${page} stands beside no reading, so there is none to carry\n`)
+    process.stderr.write(`${page} has no reading beside it, so there is none to carry\n`)
     process.exit(2)
   }
   try {

@@ -10,8 +10,7 @@ export const readoutReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A reading is kept in the file standing beside the readout the reading was taken for.",
+      statement: "A reading is kept in the file beside the readout the reading was taken for.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +39,7 @@ export const readoutReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A readout with nothing standing beside it has taken no reading.",
+      statement: "A readout with nothing beside it has taken no reading.",
     },
     {
       invariantKind: "departure",
