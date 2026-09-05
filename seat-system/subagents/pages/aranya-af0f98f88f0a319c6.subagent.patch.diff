@@ -1,0 +1,103 @@
+runsWarrants: false
+diff --git a/infrastructure/seaweedfs/s3-gateway/seaweedfs-s3-gateway.cluster-service.code.attachment.ts b/infrastructure/seaweedfs/s3-gateway/seaweedfs-s3-gateway.cluster-service.code.attachment.ts
+deleted file mode 100644
+index f6e29d8ad4169aee3368e008302d74d90fdec2f1..0000000000000000000000000000000000000000
+--- a/infrastructure/seaweedfs/s3-gateway/seaweedfs-s3-gateway.cluster-service.code.attachment.ts
++++ /dev/null
+@@ -1,39 +0,0 @@
+-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+-import {
+-  COMPONENT_S3_GATEWAY,
+-  componentLabels,
+-  NAMESPACE,
+-  S3_GATEWAY_HTTP_PORT,
+-  selectorLabels,
+-} from "../seaweedfs-constants/seaweedfs-constants.module.code.ts"
+-import { s3GatewayDeploymentYaml } from "../seaweedfs-deployments/seaweedfs-deployments.module.code.ts"
+-
+-function serviceYaml(): string {
+-  return synthOne(NAMESPACE, "service-s3-gateway", {
+-    apiVersion: "v1",
+-    kind: "Service",
+-    metadata: {
+-      name: "s3-gateway",
+-      namespace: NAMESPACE,
+-      labels: componentLabels(COMPONENT_S3_GATEWAY),
+-    },
+-    spec: {
+-      type: "ClusterIP",
+-      ports: [
+-        {
+-          name: "http",
+-          port: S3_GATEWAY_HTTP_PORT,
+-          targetPort: S3_GATEWAY_HTTP_PORT,
+-        },
+-      ],
+-      selector: selectorLabels(COMPONENT_S3_GATEWAY),
+-    },
+-  })
+-}
+-
+-export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
+-  return [
+-    { name: "service", yaml: serviceYaml() },
+-    { name: "s3-gateway", yaml: s3GatewayDeploymentYaml() },
+-  ]
+-}
+diff --git a/infrastructure/seaweedfs/s3-gateway/seaweedfs-s3-gateway.manifest.code.ts b/infrastructure/seaweedfs/s3-gateway/seaweedfs-s3-gateway.manifest.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f6e29d8ad4169aee3368e008302d74d90fdec2f1
+--- /dev/null
++++ b/infrastructure/seaweedfs/s3-gateway/seaweedfs-s3-gateway.manifest.code.ts
+@@ -0,0 +1,39 @@
++import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
++import {
++  COMPONENT_S3_GATEWAY,
++  componentLabels,
++  NAMESPACE,
++  S3_GATEWAY_HTTP_PORT,
++  selectorLabels,
++} from "../seaweedfs-constants/seaweedfs-constants.module.code.ts"
++import { s3GatewayDeploymentYaml } from "../seaweedfs-deployments/seaweedfs-deployments.module.code.ts"
++
++function serviceYaml(): string {
++  return synthOne(NAMESPACE, "service-s3-gateway", {
++    apiVersion: "v1",
++    kind: "Service",
++    metadata: {
++      name: "s3-gateway",
++      namespace: NAMESPACE,
++      labels: componentLabels(COMPONENT_S3_GATEWAY),
++    },
++    spec: {
++      type: "ClusterIP",
++      ports: [
++        {
++          name: "http",
++          port: S3_GATEWAY_HTTP_PORT,
++          targetPort: S3_GATEWAY_HTTP_PORT,
++        },
++      ],
++      selector: selectorLabels(COMPONENT_S3_GATEWAY),
++    },
++  })
++}
++
++export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
++  return [
++    { name: "service", yaml: serviceYaml() },
++    { name: "s3-gateway", yaml: s3GatewayDeploymentYaml() },
++  ]
++}
+diff --git a/service-system/cluster-services/pages/seaweedfs-s3-gateway.cluster-service.ts b/service-system/cluster-services/pages/seaweedfs-s3-gateway.cluster-service.ts
+index b8aeddc43771a5033fc0d003087d215d9513d484..c12ce64061d9bca2bcb0d42e6f5c89b5014ba477 100644
+--- a/service-system/cluster-services/pages/seaweedfs-s3-gateway.cluster-service.ts
++++ b/service-system/cluster-services/pages/seaweedfs-s3-gateway.cluster-service.ts
+@@ -11,6 +11,5 @@ export const seaweedfsS3Gateway = {
+   image: "chrislusf/seaweedfs:3.73",
+   replicas: 1,
+   containerPort: 8333,
+-  manifestCode:
+-    "infrastructure/seaweedfs/s3-gateway/seaweedfs-s3-gateway.cluster-service.code.attachment.ts",
++  manifestCode: "infrastructure/seaweedfs/s3-gateway/seaweedfs-s3-gateway.manifest.code.ts",
+ } as const satisfies ClusterService
