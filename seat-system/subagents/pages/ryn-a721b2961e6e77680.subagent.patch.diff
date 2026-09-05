@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/checks/checks.workspace-package.ts b/checks/checks.workspace-package.ts
-index 75cc4baf82fab4582022f3c3cc2f41fe1508b711..1188cc204ff810cd29ac6ac21ce1a7f77c65c28c 100644
+index 75cc4baf82fab4582022f3c3cc2f41fe1508b711..de6097b179f0a2069f8f20a20d25e96088e87d6c 100644
 --- a/checks/checks.workspace-package.ts
 +++ b/checks/checks.workspace-package.ts
-@@ -50,15 +50,15 @@ export const checks = {
+@@ -50,19 +50,19 @@ export const checks = {
      },
      {
        invariantKind: "departure",
@@ -19,6 +19,11 @@ index 75cc4baf82fab4582022f3c3cc2f41fe1508b711..1188cc204ff810cd29ac6ac21ce1a7f7
        invariantKind: "departure",
 -      statement: "A check's answer is undone by a change to what the check runs with.",
 +      statement: "A check's answer is undone by a change to the input the check runs with.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A patch runs a check for a change to what the check runs on.",
++      statement: "A patch runs a check for a change to the input the check runs on.",
      },
      {
        invariantKind: "departure",
