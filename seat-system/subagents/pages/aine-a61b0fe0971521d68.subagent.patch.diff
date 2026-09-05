@@ -12,7 +12,7 @@ index f9837ae899445abfeff99d1d52d87a94e94bc26e..41166242696de3b393cbb8e87392c870
        continue
      }
 diff --git a/service-system/cluster-services/web-app-building/web-app-building.module.test.ts b/service-system/cluster-services/web-app-building/web-app-building.module.test.ts
-index 16cab982b5ec9fe0108f36f15da44d83ec8f595f..2c7fb8e26656e92381eb532da9e477202e36f316 100644
+index 16cab982b5ec9fe0108f36f15da44d83ec8f595f..81a8897500627a63a11246a8ccf2d7dd5f181318 100644
 --- a/service-system/cluster-services/web-app-building/web-app-building.module.test.ts
 +++ b/service-system/cluster-services/web-app-building/web-app-building.module.test.ts
 @@ -121,7 +121,7 @@ test("the package built is the one a container's working directory names", () =>
@@ -60,6 +60,15 @@ index 16cab982b5ec9fe0108f36f15da44d83ec8f595f..2c7fb8e26656e92381eb532da9e47720
    expect(livestOf("")).toBe(null)
  })
  
+@@ -275,7 +275,7 @@ test("the worktree is not what an install is proved against", () => {
+   expect(installableAt(TREES.root, TREES.missing)).not.toEqual({ installs: true })
+ })
+ 
+-test("a sha no commit stands at is refused rather than passed", () => {
++test("a sha naming no commit is refused rather than passed", () => {
+   const held = installableAt(TREES.root, "f".repeat(40))
+   expect("why" in held ? held.why : "").toContain("could not be read out")
+ })
 diff --git a/service-system/cluster-services/web-app-building/web-app-building.module.ts b/service-system/cluster-services/web-app-building/web-app-building.module.ts
 index 391eb6261fe7093fb477d515b7305ea89e071041..e09e4e34c7f75069faccbee2c7c66731c933815c 100644
 --- a/service-system/cluster-services/web-app-building/web-app-building.module.ts
