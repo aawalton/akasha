@@ -1,0 +1,14 @@
+diff --git a/readout-system/readouts/readout.page-type.ts b/readout-system/readouts/readout.page-type.ts
+index a39f72467af0fdc98ca60dba58fd4304830f7326..03aa190c864f721ef3a3e3e4759d98f826a01245 100644
+--- a/readout-system/readouts/readout.page-type.ts
++++ b/readout-system/readouts/readout.page-type.ts
+@@ -133,7 +133,8 @@ export const readout = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The place a readout carries is where it sits rather than how wide its figure is.",
++      statement:
++        "The place a readout carries is where that readout sits rather than how wide its figure is.",
+     },
+     {
+       invariantKind: "departure",
