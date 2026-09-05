@@ -15,7 +15,7 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
-      statement: "A selector says what a check takes as input.",
+      statement: "A selector says the input a check takes.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +48,7 @@ export const changeWalking = {
     {
       invariantKind: "departure",
       statement:
-        "A walk over everything takes what is in the tree rather than what the index names.",
+        "A walk over everything takes the files in the tree rather than the files the index names.",
     },
     {
       invariantKind: "departure",
