@@ -62,7 +62,7 @@ export const packageReachedWhereNamed = {
     {
       invariantKind: "departure",
       statement:
-        "A package declaring no interface is not enforced against what reaches the package.",
+        "A package declaring no interface is not enforced against the files that reach the package.",
     },
     {
       invariantKind: "departure",
@@ -74,7 +74,7 @@ export const packageReachedWhereNamed = {
     },
     {
       invariantKind: "departure",
-      statement: "A package is named in a refusal by what its manifest calls the package.",
+      statement: "A package is named in a refusal by the name its manifest calls the package.",
     },
     {
       invariantKind: "departure",
@@ -106,7 +106,7 @@ export const packageReachedWhereNamed = {
     },
     {
       invariantKind: "departure",
-      statement: "What a package keeps to itself is the code its pages hold.",
+      statement: "A package keeps to itself only the code its pages hold.",
     },
     {
       invariantKind: "departure",
