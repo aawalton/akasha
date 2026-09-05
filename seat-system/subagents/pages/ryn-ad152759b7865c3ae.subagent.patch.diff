@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/health-samples-import/verdict-reading/verdict-reading.module.ts b/health-samples-import/verdict-reading/verdict-reading.module.ts
+index 13e555b3351e556aa488c44357eee9328506717d..01e03096c6ed33708cec8beda7ec8ec66fbe7e2d 100644
+--- a/health-samples-import/verdict-reading/verdict-reading.module.ts
++++ b/health-samples-import/verdict-reading/verdict-reading.module.ts
+@@ -9,7 +9,7 @@ export const verdictReading = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A reading names the subject it is of.",
++      statement: "A reading names the subject that reading is of.",
+     },
+     {
+       invariantKind: "absence",
