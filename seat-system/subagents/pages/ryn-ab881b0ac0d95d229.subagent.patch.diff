@@ -1,0 +1,39 @@
+diff --git a/infrastructure/auth-proxy/auth-proxy-config/auth-proxy-config.module.ts b/infrastructure/auth-proxy/auth-proxy-config/auth-proxy-config.module.ts
+index 749a7e1c9bab51cd89d21ddcab17e0607b2bc344..659fb2916562da1b70f5e1b13088a49249b05c62 100644
+--- a/infrastructure/auth-proxy/auth-proxy-config/auth-proxy-config.module.ts
++++ b/infrastructure/auth-proxy/auth-proxy-config/auth-proxy-config.module.ts
+@@ -9,7 +9,7 @@ export const authProxyConfig = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Loading this reads the environment once and never again.",
++      statement: "Loading this module reads the environment once and never again.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/infrastructure/voice-inference/voice-inference.workspace-package.ts b/infrastructure/voice-inference/voice-inference.workspace-package.ts
+index 4680f12f88d7d97724bba082f33d37a8c550016a..51bf8e70cc0ecfd40b2a7e32088645fd54a7003b 100644
+--- a/infrastructure/voice-inference/voice-inference.workspace-package.ts
++++ b/infrastructure/voice-inference/voice-inference.workspace-package.ts
+@@ -26,7 +26,7 @@ export const voiceInference = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "The card this runs on takes int8 weights and not float16 ones.",
++      statement: "The card this workload runs on takes int8 weights and not float16 ones.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
+diff --git a/mobile-cli/sim-run-tree/sim-run-tree.module.ts b/mobile-cli/sim-run-tree/sim-run-tree.module.ts
+index 9d589bc060bb2af7d4b1a659b2e492e064865afb..359d71abcf39998e5dde48028196b1f90a513f65 100644
+--- a/mobile-cli/sim-run-tree/sim-run-tree.module.ts
++++ b/mobile-cli/sim-run-tree/sim-run-tree.module.ts
+@@ -22,7 +22,7 @@ export const simRunTree = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One missing path among those named refuses the delivery of every path.",
++      statement: "One missing path among the paths named refuses the delivery of every path.",
+     },
+     {
+       invariantKind: "constraint",
