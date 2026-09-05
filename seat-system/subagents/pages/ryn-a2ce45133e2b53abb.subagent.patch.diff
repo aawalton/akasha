@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.ts b/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.ts
+index eaa016a38d41389dfab761585e01e676c5b5bb33..e7c74f538b1cf94370a24ea8b40506d7bc83fd4b 100644
+--- a/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.ts
++++ b/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.ts
+@@ -34,7 +34,7 @@ export const blockBunTest = {
+     {
+       invariantKind: "constraint",
+       statement:
+-        "What `bun test` runs is a filter over every test file rather than a path `bun test` is handed.",
++        "`bun test` runs a filter over every test file rather than a path `bun test` is handed.",
+     },
+     {
+       invariantKind: "constraint",
