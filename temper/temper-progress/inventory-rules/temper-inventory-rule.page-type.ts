@@ -57,7 +57,7 @@ export const temperInventoryRule = {
     },
     {
       invariantKind: "gap",
-      statement: "A rule adopted from a template and since edited says what it changed.",
+      statement: "A rule adopted from a template and since edited says the changes that rule made.",
     },
   ],
 } as const satisfies PageType
