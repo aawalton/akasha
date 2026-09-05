@@ -9,7 +9,7 @@ export const synthManifests = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A checkout root is the folder the lockfile stands in.",
+      statement: "A checkout root is the folder the lockfile is in.",
     },
     {
       invariantKind: "departure",

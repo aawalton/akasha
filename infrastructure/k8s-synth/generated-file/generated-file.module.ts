@@ -4,12 +4,12 @@ export const generatedFile = {
   id: "01a06810-0b68-7fc5-b1b3-8bd0a620be5a",
   pageTypeSlug: "module",
   slug: "generated-file",
-  definition: "the generated file a synth's output stands in",
+  definition: "the generated file a synth's output is in",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A generated file stands in a `generated` folder beside its synth file.",
+      statement: "A generated file sits in a `generated` folder beside its synth file.",
     },
     {
       invariantKind: "departure",

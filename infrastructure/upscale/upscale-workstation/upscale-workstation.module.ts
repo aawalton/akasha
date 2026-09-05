@@ -10,7 +10,7 @@ export const upscaleWorkstation = {
     {
       invariantKind: "departure",
       statement:
-        "The scripts are reached at the path their pages stand at rather than at the path they were once installed to.",
+        "The scripts are reached at the path their pages are at rather than at the path they were once installed to.",
     },
     {
       invariantKind: "departure",

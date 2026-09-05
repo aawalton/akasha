@@ -14,7 +14,7 @@ export function checkoutRoot(from: string = import.meta.dir): string {
     const parent = dirname(dir)
     if (parent === dir) {
       throw new Error(
-        `no \`${CHECKOUT_MARKER}\` stands above ${from}, so the code checkout holding it cannot be named`
+        `no \`${CHECKOUT_MARKER}\` is above ${from}, so the code checkout holding it cannot be named`
       )
     }
     dir = parent
