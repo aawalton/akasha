@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/editor-extension/status-bar-drawing/status-bar-drawing.module.ts b/editor-extension/status-bar-drawing/status-bar-drawing.module.ts
+index 99437ba595106a5ffe837e36dac698921e233fe9..6400bb83e51439c574264088feb2bf48eeedd556 100644
+--- a/editor-extension/status-bar-drawing/status-bar-drawing.module.ts
++++ b/editor-extension/status-bar-drawing/status-bar-drawing.module.ts
+@@ -33,7 +33,8 @@ export const statusBarDrawing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The slots are drawn from the slot list rather than from what answered.",
++      statement:
++        "The slots are drawn from the slot list rather than from the readings that answered.",
+     },
+     {
+       invariantKind: "departure",
