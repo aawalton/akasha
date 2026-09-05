@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/amazon-pairs/monarch-amazon-pairs.module.ts b/alan/harness/monarch/amazon-pairs/monarch-amazon-pairs.module.ts
+index 30d9f84582014068d6bf1d77003cafa6a65417da..39108d1da787880d60bc70d81ebbd3b0b5b83332 100644
+--- a/alan/harness/monarch/amazon-pairs/monarch-amazon-pairs.module.ts
++++ b/alan/harness/monarch/amazon-pairs/monarch-amazon-pairs.module.ts
+@@ -9,7 +9,7 @@ export const monarchAmazonPairs = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "An order is a pair only where it holds both a charge and a refund.",
++      statement: "An order is a pair only where that order holds both a charge and a refund.",
+     },
+     {
+       invariantKind: "departure",
