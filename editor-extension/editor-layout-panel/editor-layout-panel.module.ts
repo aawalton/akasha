@@ -41,7 +41,7 @@ export const editorLayoutPanel = {
     },
     {
       invariantKind: "departure",
-      statement: "What is read goes to the observation store rather than to a page or a file.",
+      statement: "The reading goes to the observation store rather than to a page or a file.",
     },
   ],
 } as const satisfies Module
