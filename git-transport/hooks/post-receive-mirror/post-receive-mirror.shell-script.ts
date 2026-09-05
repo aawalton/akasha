@@ -38,7 +38,7 @@ export const postReceiveMirror = {
     },
     {
       invariantKind: "departure",
-      statement: "A history copy pushes every branch and tag as they are.",
+      statement: "A history copy pushes every branch and tag as those branches and tags are.",
     },
     {
       invariantKind: "departure",
@@ -50,7 +50,8 @@ export const postReceiveMirror = {
     },
     {
       invariantKind: "departure",
-      statement: "A push with no ceiling would outlive the reason for it, so it carries one.",
+      statement:
+        "A push with no ceiling would outlive the reason for that push, so that push carries one.",
     },
     {
       invariantKind: "departure",
