@@ -80,7 +80,7 @@ export const watcherWorker = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here decides what the watcher does with a file that watcher read.",
+      statement: "Nothing here decides the watcher's handling of a file that watcher read.",
     },
   ],
 } as const satisfies Module
