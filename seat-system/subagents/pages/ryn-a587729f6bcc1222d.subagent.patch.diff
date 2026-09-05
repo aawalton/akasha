@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/story/elements-played/story-element-played.page-type.ts b/story/elements-played/story-element-played.page-type.ts
+index 60178cacfe9023eecf3e904bfd57450ae00ec21f..50c0bd543de605096f8f065f12e23cdfa5a982db 100644
+--- a/story/elements-played/story-element-played.page-type.ts
++++ b/story/elements-played/story-element-played.page-type.ts
+@@ -59,7 +59,7 @@ export const storyElementPlayed = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What changes turn by turn sits beside the element's page.",
++      statement: "The faculties that change turn by turn sit beside the element's page.",
+     },
+     {
+       invariantKind: "departure",
