@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/service-system/services/service.page-type.ts b/service-system/services/service.page-type.ts
-index afaa3d1881e558de22b22462722d8ca566ff6681..5954355531e66dfb4b0a099a9075e8efefab8b41 100644
+index afaa3d1881e558de22b22462722d8ca566ff6681..cf16ef6bd41b8d553bd75bd2ba14bcffe11a4b71 100644
 --- a/service-system/services/service.page-type.ts
 +++ b/service-system/services/service.page-type.ts
 @@ -17,7 +17,7 @@ export const service = {
@@ -12,3 +12,12 @@ index afaa3d1881e558de22b22462722d8ca566ff6681..5954355531e66dfb4b0a099a9075e8ef
      },
      {
        invariantKind: "departure",
+@@ -25,7 +25,7 @@ export const service = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A service states whether it is to be running.",
++      statement: "A service states whether that service is to be running.",
+     },
+     {
+       invariantKind: "absence",
