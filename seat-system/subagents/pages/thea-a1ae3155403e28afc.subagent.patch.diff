@@ -1,0 +1,82 @@
+diff --git a/pages/indexes/identity/index-identity.index.code.ts b/pages/indexes/identity/index-identity.index.code.ts
+index 8244bcde31b9824db5204f0677647a90e3abb9ac..e28ccb6453ce702d8e872eb255b398654d12eeec 100644
+--- a/pages/indexes/identity/index-identity.index.code.ts
++++ b/pages/indexes/identity/index-identity.index.code.ts
+@@ -1,4 +1,6 @@
+ import { join } from "node:path"
++import { partedIn } from "@akasha/pages-system/page-file-name"
++import { slugFor } from "@akasha/pages-system/page-property-key"
+ import type { Identifying } from "@akasha/pages-system/page-type-properties"
+ import { textAt, textsAt, type Value } from "@akasha/pages-system/page-value"
+ import { type Entry, under } from "../entries/index-entries.module.code.ts"
+@@ -22,8 +24,14 @@ const PART_SLUGS = "partSlugs"
+ 
+ const QUALIFIES = "/"
+ 
++const PART_SLUGS_FILED = slugFor(PART_SLUGS)
++
+ export type PartOf = (value: Value) => readonly string[]
+ 
++export type Naming = (
++  id: string
++) => readonly { readonly path: string; readonly propertySlug: string }[]
++
+ function slugIn(address: string): string {
+   const at = address.lastIndexOf(QUALIFIES)
+   return at === -1 ? address : address.slice(at + 1)
+@@ -73,10 +81,44 @@ export function partingIn(values: Iterable<Value>): PartOf {
+   }
+ }
+ 
+-function scopesFor(reach: string, value: Value, pageTypeSlug: string): readonly string[] {
++export function partingOver(
++  naming: Naming,
++  values: Iterable<Value>,
++  carried: ReadonlySet<string>
++): PartOf {
++  const among = partingIn(values)
++  const held = new Map<string, readonly string[]>()
++  const namedBy = (id: string): readonly string[] => {
++    const found = held.get(id)
++    if (found !== undefined) return found
++    const said: string[] = []
++    for (const one of naming(id)) {
++      if (one.propertySlug !== PART_SLUGS_FILED || carried.has(one.path)) continue
++      const slug = partedIn(one.path)?.slug ?? null
++      if (slug !== null && !said.includes(slug)) said.push(slug)
++    }
++    held.set(id, said)
++    return said
++  }
++  return (value) => {
++    const found = [...among(value)]
++    const id = textAt(value, "id")
++    for (const one of id === null ? [] : namedBy(id)) {
++      if (!found.includes(one)) found.push(one)
++    }
++    return found
++  }
++}
++
++function scopesFor(
++  reach: string,
++  value: Value,
++  pageTypeSlug: string,
++  partOf: PartOf
++): readonly string[] {
+   if (reach === ALWAYS) return [PAGE]
+   if (reach === PAGE_TYPE) return [pageTypeSlug]
+-  if (reach === PART_OF) return partOfStated(value)
++  if (reach === PART_OF) return partOf(value)
+   throw new Error(`\`${reach}\` is no reach a page is filed under`)
+ }
+ 
+@@ -102,7 +144,7 @@ export function filedIn(
+     const found = value[one.key]
+     if (typeof found !== "string" && typeof found !== "number") continue
+     const said = String(found)
+-    for (const scope of scopesFor(one.reach, value, pageTypeSlug)) {
++    for (const scope of scopesFor(one.reach, value, pageTypeSlug, partOf)) {
+       held.push({ scope, propertySlug, said })
+     }
+   }
