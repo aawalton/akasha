@@ -17,7 +17,7 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
 import { matchRoutes } from "react-router"
-import routes from "../routes.ts"
+import routes from "../../routes.ts"
 
 type Entry = { path?: string; index?: boolean; file: string; children?: readonly Entry[] }
 
