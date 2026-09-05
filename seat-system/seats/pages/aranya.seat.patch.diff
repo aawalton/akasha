@@ -143,3 +143,11 @@ index e0e6ab362a94fe27631251ac7c235d916c2d1d37..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../design/tokens
 \ No newline at end of file
+diff --git a/domains/plain-language/plain-language b/domains/plain-language/plain-language
+deleted file mode 120000
+index 725112661fcc00860e1a37836e5668a74105316e..0000000000000000000000000000000000000000
+--- a/domains/plain-language/plain-language
++++ /dev/null
+@@ -1 +0,0 @@
+-../../domains/plain-language
+\ No newline at end of file
