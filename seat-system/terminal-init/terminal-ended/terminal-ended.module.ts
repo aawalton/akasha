@@ -10,11 +10,13 @@ export const terminalEnded = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What is left names when the shell ended, what it ended with and where it was.",
+      statement:
+        "What is left names when the shell ended, what that shell ended with and where that shell was.",
     },
     {
       invariantKind: "departure",
-      statement: "A shell is told apart from a later shell of the same pid by when it started.",
+      statement:
+        "A shell is told apart from a later shell of the same pid by when the shell started.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +28,8 @@ export const terminalEnded = {
     },
     {
       invariantKind: "departure",
-      statement: "A hangup is recorded and then re-raised so the shell dies of what reached it.",
+      statement:
+        "A hangup is recorded and then re-raised so the shell dies of what reached that shell.",
     },
     {
       invariantKind: "departure",
@@ -34,11 +37,12 @@ export const terminalEnded = {
     },
     {
       invariantKind: "departure",
-      statement: "A shell that could not leave a record ends as it would have ended anyway.",
+      statement:
+        "A shell that could not leave a record ends as that shell would have ended anyway.",
     },
     {
       invariantKind: "departure",
-      statement: "What is left sits beside the pages of the page type it describes.",
+      statement: "What is left sits beside the pages of the page type that record describes.",
     },
     {
       invariantKind: "departure",
