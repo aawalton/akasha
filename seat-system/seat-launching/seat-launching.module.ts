@@ -40,7 +40,7 @@ export const seatLaunching = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat takes the default share of a core it contends for.",
+      statement: "A seat takes the default share of a core that seat contends for.",
     },
     {
       invariantKind: "departure",
