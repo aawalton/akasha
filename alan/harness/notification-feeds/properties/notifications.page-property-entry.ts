@@ -21,11 +21,11 @@ export const notifications = {
     {
       invariantKind: "departure",
       statement:
-        "A notification sits in the feed of the person it was pushed at rather than in a page of its own.",
+        "A notification pushed at a person sits in that person's feed rather than in a page of its own.",
     },
     {
       invariantKind: "departure",
-      statement: "Notifications sit in the order they were pushed, oldest first.",
+      statement: "Notifications sit in the order those notifications were pushed, oldest first.",
     },
     {
       invariantKind: "absence",
@@ -37,7 +37,7 @@ export const notifications = {
     },
     {
       invariantKind: "departure",
-      statement: "A notification carrying no instant it was read at is unread.",
+      statement: "A notification carrying no instant that notification was read at is unread.",
     },
     {
       invariantKind: "departure",
