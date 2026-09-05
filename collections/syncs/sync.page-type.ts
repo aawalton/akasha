@@ -30,7 +30,7 @@ export const sync = {
     },
     {
       invariantKind: "absence",
-      statement: "What holds the pull in flight is never committed.",
+      statement: "The value holding the pull in flight is never committed.",
     },
   ],
 } as const satisfies PageType
