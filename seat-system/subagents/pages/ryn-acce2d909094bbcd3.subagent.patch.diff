@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/judged-saying/judged-saying.module.ts b/command-system/judged-saying/judged-saying.module.ts
-index ad843482ecebce37761715ed4ec470b1a383016c..137d131f9b32d709cd1a259f44d0748c17322b48 100644
+index ad843482ecebce37761715ed4ec470b1a383016c..3a129d63604bfa9b79aa5072647ea3b877ed1b4a 100644
 --- a/command-system/judged-saying/judged-saying.module.ts
 +++ b/command-system/judged-saying/judged-saying.module.ts
 @@ -14,7 +14,7 @@ export const judgedSaying = {
@@ -18,6 +18,15 @@ index ad843482ecebce37761715ed4ec470b1a383016c..137d131f9b32d709cd1a259f44d0748c
        invariantKind: "departure",
 -      statement: "A count over a draft a check refused leads into what refused.",
 +      statement: "A count over a draft a check refused leads into the paths that refused.",
+     },
+     {
+       invariantKind: "departure",
+@@ -30,7 +30,7 @@ export const judgedSaying = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A count of what was judged names the paths a check reached.",
++      statement: "A count of the paths judged names the paths a check reached.",
      },
      {
        invariantKind: "departure",
