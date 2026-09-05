@@ -1,0 +1,13 @@
+diff --git a/alan/self/identity-statements/identity-statement.page-type.ts b/alan/self/identity-statements/identity-statement.page-type.ts
+index fc29fb22519aee1d01b746f0734c049c05b1bcb8..97bfe6071046146bb181302d21051fa6b8cf126d 100644
+--- a/alan/self/identity-statements/identity-statement.page-type.ts
++++ b/alan/self/identity-statements/identity-statement.page-type.ts
+@@ -74,7 +74,7 @@ export const identityStatement = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A statement that supersedes another names it, and the superseded one names it back.",
++        "A superseding statement names the superseded one, and the superseded one names the superseding one.",
+     },
+   ],
+ } as const satisfies PageType
