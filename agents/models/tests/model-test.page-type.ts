@@ -35,7 +35,7 @@ export const modelTest = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A test's code puts its prompt together from what the code is handed.",
+      statement: "A test's code puts its prompt together from the inputs the code is handed.",
     },
     {
       invariantKind: "departure",
