@@ -25,7 +25,7 @@ export const addonDataWrites = {
     },
     {
       invariantKind: "departure",
-      statement: "Writing to disk is what a caller naming no way to write is given.",
+      statement: "A caller naming no way to write is given writing to disk.",
     },
   ],
 } as const satisfies Module
