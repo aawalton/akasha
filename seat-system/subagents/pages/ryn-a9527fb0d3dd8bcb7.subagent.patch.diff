@@ -1,0 +1,13 @@
+diff --git a/pages/indexes/answering/index-answering.module.ts b/pages/indexes/answering/index-answering.module.ts
+index 5a0ff0d3742ad3c8dede4e0210d84a3d9428d566..d31bdcfb628432a439e7dde302b75706d85b2749 100644
+--- a/pages/indexes/answering/index-answering.module.ts
++++ b/pages/indexes/answering/index-answering.module.ts
+@@ -64,7 +64,7 @@ export const indexAnswering = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The tolerant reading answers nothing for a page type it cannot read.",
++      statement: "The tolerant reading answers nothing for a page type that reading cannot read.",
+     },
+     {
+       invariantKind: "departure",
