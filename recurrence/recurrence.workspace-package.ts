@@ -22,7 +22,7 @@ export const recurrence = {
     },
     {
       invariantKind: "departure",
-      statement: "The caller states what now is.",
+      statement: "The caller states the current time.",
     },
   ],
 } as const satisfies WorkspacePackage
