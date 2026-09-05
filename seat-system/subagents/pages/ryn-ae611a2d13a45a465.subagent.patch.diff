@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-answering/seat-answering.module.ts b/seat-system/seat-answering/seat-answering.module.ts
+index c9e15db5f7117ee98f63af8df4027d368cb2240a..a598e8357658e0a3b7ffc46136a16402bab29ba5 100644
+--- a/seat-system/seat-answering/seat-answering.module.ts
++++ b/seat-system/seat-answering/seat-answering.module.ts
+@@ -10,7 +10,7 @@ export const seatAnswering = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A seat answers as somebody only where the one it answers to is a person.",
++      statement: "A seat answers as somebody only where the one that seat answers to is a person.",
+     },
+     {
+       invariantKind: "departure",
