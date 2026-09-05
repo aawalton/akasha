@@ -77,7 +77,7 @@ export const keyRespelling = {
     },
     {
       invariantKind: "departure",
-      statement: "A file beside a page named for another key is left as it is.",
+      statement: "A file beside a page named for another key is left as that file is.",
     },
     {
       invariantKind: "departure",
@@ -89,12 +89,12 @@ export const keyRespelling = {
     },
     {
       invariantKind: "departure",
-      statement: "Every file a key rename touches lands in one commit or none of them does.",
+      statement: "Every file a key rename touches lands in one commit or none of those files does.",
     },
     {
       invariantKind: "departure",
       statement:
-        "`--dry-run` names every file the rename would respell and every one it would carry.",
+        "`--dry-run` names every file the rename would respell and every one that rename would carry.",
     },
     {
       invariantKind: "departure",
