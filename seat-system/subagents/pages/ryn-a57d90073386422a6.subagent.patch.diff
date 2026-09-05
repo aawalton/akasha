@@ -22,6 +22,33 @@ index c76c054000e921424babde7cefc1a45274e28313..64d342a5ecbf163a86832a78a58fc97f
      },
      {
        invariantKind: "gap",
+diff --git a/seat-system/seat-conditions/properties/auto-compact-window.number-property.ts b/seat-system/seat-conditions/properties/auto-compact-window.number-property.ts
+index 713772d36d9db109d261ac7cfe9dc83fb81b0cf4..8889e0fc6b42bca1f48f049c9732ddb5e8ed43a1 100644
+--- a/seat-system/seat-conditions/properties/auto-compact-window.number-property.ts
++++ b/seat-system/seat-conditions/properties/auto-compact-window.number-property.ts
+@@ -12,7 +12,8 @@ export const autoCompactWindow = {
+   invariants: [
+     {
+       invariantKind: "constraint",
+-      statement: "What runs the agent holds this between 100,000 and 1,000,000 whatever is stated.",
++      statement:
++        "What runs the agent holds this count between 100,000 and 1,000,000 whatever is stated.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/seat-conditions/properties/seat-conditions-model.text-property.ts b/seat-system/seat-conditions/properties/seat-conditions-model.text-property.ts
+index 9bce295a06120bb247f0da4b45f042183933acd7..14feb3d710003fdf715d22abf0bc9a530849f8ca 100644
+--- a/seat-system/seat-conditions/properties/seat-conditions-model.text-property.ts
++++ b/seat-system/seat-conditions/properties/seat-conditions-model.text-property.ts
+@@ -13,7 +13,7 @@ export const seatConditionsModel = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A subagent naming no model of its own answers on this too.",
++      statement: "A subagent naming no model of its own answers on this model too.",
+     },
+   ],
+ } as const satisfies TextProperty
 diff --git a/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts b/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
 index a40233a55e4d4f23b193b72043ba90041824fb1f..195eb43775f96285df19e636d87a10fa96213e83 100644
 --- a/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
@@ -91,6 +118,19 @@ index 94715d59359affc59852bc98c60310d93f21d97f..513a96731ba5abd442823d8e354f022d
 -      statement: "Only the last two parts of a path carry the slug, so only those are blanked.",
 +      statement:
 +        "Only the last two parts of a path carry the slug, so only those parts are blanked.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/sms-access/sms-allowlist/sms-allowlist.module.ts b/sms-access/sms-allowlist/sms-allowlist.module.ts
+index d7810e83607633230540d9b2b9e64da5e80703ca..b0591beebae7e3e79681e6a1efd4cd378bfc0263 100644
+--- a/sms-access/sms-allowlist/sms-allowlist.module.ts
++++ b/sms-access/sms-allowlist/sms-allowlist.module.ts
+@@ -10,7 +10,7 @@ export const smsAllowlist = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This raises rather than answering that nobody may send.",
++      statement: "This module raises rather than answering that nobody may send.",
      },
      {
        invariantKind: "departure",
