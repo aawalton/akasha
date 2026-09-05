@@ -719,3 +719,11 @@ index 2b35f0dfd4e918bafb39932adc4aaccc4c5a318c..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-champion-points
 \ No newline at end of file
+diff --git a/temper/temper-character-build/temper-character-build b/temper/temper-character-build/temper-character-build
+deleted file mode 120000
+index d12309f5083e89824abe97fda3f8f5a2d778ce9e..0000000000000000000000000000000000000000
+--- a/temper/temper-character-build/temper-character-build
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-character-build
+\ No newline at end of file
