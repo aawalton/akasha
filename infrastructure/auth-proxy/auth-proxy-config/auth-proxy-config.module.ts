@@ -9,7 +9,7 @@ export const authProxyConfig = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Loading this reads the environment once and never again.",
+      statement: "Loading this module reads the environment once and never again.",
     },
     {
       invariantKind: "departure",

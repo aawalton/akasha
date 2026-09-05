@@ -22,7 +22,7 @@ export const simRunTree = {
     },
     {
       invariantKind: "departure",
-      statement: "One missing path among those named refuses the delivery of every path.",
+      statement: "One missing path among the ones named refuses the delivery of every path.",
     },
     {
       invariantKind: "constraint",

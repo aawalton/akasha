@@ -38,7 +38,7 @@ export const seatReading = {
     },
     {
       invariantKind: "departure",
-      statement: "This prints one line for each key it was asked for.",
+      statement: "This module prints one line for each key it was asked for.",
     },
     {
       invariantKind: "departure",

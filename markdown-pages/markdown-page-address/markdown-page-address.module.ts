@@ -9,7 +9,7 @@ export const markdownPageAddress = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This says what form an address takes and looks no page up.",
+      statement: "This module says what form an address takes and looks no page up.",
     },
     { invariantKind: "departure", statement: "A page type and a slug are cut at the first `/`." },
   ],

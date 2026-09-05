@@ -10,7 +10,7 @@ export const channelDelivery = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A transcript line this cannot read is passed over rather than refused.",
+      statement: "A transcript line this module cannot read is passed over rather than refused.",
     },
     {
       invariantKind: "departure",

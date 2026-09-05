@@ -13,7 +13,7 @@ export const personSlug = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Whose seat this is and what work it answers for are two facts.",
+      statement: "The person a seat is of and the work a seat answers for are two facts.",
     },
     {
       invariantKind: "departure",

@@ -78,7 +78,7 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "That commit names the seat.",
+      statement: "The commit taking that page away names the seat.",
     },
     {
       invariantKind: "departure",

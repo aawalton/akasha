@@ -9,7 +9,7 @@ export const seatFleetRestart = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The ops dispatcher imports this and calls the default export it declares.",
+      statement: "The ops dispatcher imports this module and calls the default export it declares.",
     },
     {
       invariantKind: "departure",
@@ -17,7 +17,7 @@ export const seatFleetRestart = {
     },
     {
       invariantKind: "departure",
-      statement: "A client this cannot read is left alone rather than counted as behind.",
+      statement: "A client this command cannot read is left alone rather than counted as behind.",
     },
     {
       invariantKind: "departure",
