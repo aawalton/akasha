@@ -7,10 +7,8 @@ export const plainLanguage = {
   definition: "whether a sentence is written in plain language",
   manifest: "json",
   partSlugs: [
-    "module/word-classing",
-    "module/phrase-parsing",
     "module/shape-reading",
-    "module/plain-grammar",
+    "module/spelt-scanning",
     "module/dependency-graph",
     "module/word-tokenizing",
     "module/shape-predicate",
@@ -21,15 +19,11 @@ export const plainLanguage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A sentence the grammar refuses is not plain.",
+      statement: "A sentence a refused shape matches is not plain.",
     },
     {
       invariantKind: "departure",
-      statement: "A construction Alan has refused is out of the plain grammar.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A sentence refused for a construction Alan calls plain is a gap in the grammar.",
+      statement: "A sentence refused for a construction Alan calls plain is a gap in the shapes.",
     },
     {
       invariantKind: "departure",
