@@ -108,7 +108,7 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "A name shadowing an imported one inside a scope is left as it is.",
+      statement: "A name shadowing an imported one inside a scope is left as that name is.",
     },
     {
       invariantKind: "departure",
