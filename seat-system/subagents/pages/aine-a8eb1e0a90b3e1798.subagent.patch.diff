@@ -1,0 +1,115 @@
+diff --git a/seat-system/recipient-resolving/person-handlers/person-handlers.module.ts b/seat-system/recipient-resolving/person-handlers/person-handlers.module.ts
+index fd2bbff67d95580a116134ca85bec6998513572c..6e62db2b7f6371f9f845de5e5bc15f9288725d57 100644
+--- a/seat-system/recipient-resolving/person-handlers/person-handlers.module.ts
++++ b/seat-system/recipient-resolving/person-handlers/person-handlers.module.ts
+@@ -4,7 +4,7 @@ export const personHandlers = {
+   id: "01a0691b-4f64-73b2-8015-87e24cab720b",
+   pageTypeSlug: "module",
+   slug: "person-handlers",
+-  definition: "every person standing, paired with the persona who answers them",
++  definition: "every person there is, paired with the persona who answers them",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.ts b/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.ts
+index 8ee855700d45e295b2e263c05162ee7ad994a726..024d3d5f946d7d3291562c996a236a7152348362 100644
+--- a/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.ts
++++ b/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.ts
+@@ -9,7 +9,7 @@ export const recipientResolverRunning = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "It stands outside the fleet it serves.",
++      statement: "It sits outside the fleet it serves.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/recipient-resolving/recipient-resolver-tick/recipient-resolver-tick.module.code.ts b/seat-system/recipient-resolving/recipient-resolver-tick/recipient-resolver-tick.module.code.ts
+index 6a54c5eb71a8ad8982b6d04bf38acfe16c47d05f..cf04bb48dd0fe8e06e5a93777fca2558219f229b 100644
+--- a/seat-system/recipient-resolving/recipient-resolver-tick/recipient-resolver-tick.module.code.ts
++++ b/seat-system/recipient-resolving/recipient-resolver-tick/recipient-resolver-tick.module.code.ts
+@@ -44,9 +44,7 @@ async function processSpec(
+   )
+   if (!shouldRevive) return
+ 
+-  console.log(
+-    `${LOG} '${spec.name}' (${row.id}) has no page standing and matching inbound work — reviving`
+-  )
++  console.log(`${LOG} '${spec.name}' (${row.id}) has no page and matching inbound work — reviving`)
+   const reviveSignal = await deps.revive(row.id, spec.bootPrompt)
+   if (reviveSignal !== "unverified" && reviveSignal !== "failed") return
+   await deps.reportUnrevivable(
+diff --git a/seat-system/recipient-resolving/seat-identity/seat-identity.module.code.ts b/seat-system/recipient-resolving/seat-identity/seat-identity.module.code.ts
+index 5b45566df275ea3ea4eb8464de8808a8af2302ad..0942345f9e6adc9822f7ba2708a94a4a51b5f539 100644
+--- a/seat-system/recipient-resolving/seat-identity/seat-identity.module.code.ts
++++ b/seat-system/recipient-resolving/seat-identity/seat-identity.module.code.ts
+@@ -16,8 +16,8 @@ export function seatIdentityIn(frontmatter: Record<string, unknown>): SeatIdenti
+ 
+ // `roots` is the history's now, akasha resolving its own.
+ export function seatIdentityForName(name: string, roots: Roots): SeatIdentity | null {
+-  const standing = akashaSeatIdForName(name)
+-  if (standing !== null) return { id: standing }
++  const live = akashaSeatIdForName(name)
++  if (live !== null) return { id: live }
+   const held = pageFromHistory(name, roots)?.frontmatter ?? null
+   return held === null ? null : seatIdentityIn(held)
+ }
+diff --git a/seat-system/recipient-resolving/seat-identity/seat-identity.module.ts b/seat-system/recipient-resolving/seat-identity/seat-identity.module.ts
+index be61f0323d9daf65d28305d8aaec1367f5a5a079..2d4b300fd32637de3d807d68c757c81642de4753 100644
+--- a/seat-system/recipient-resolving/seat-identity/seat-identity.module.ts
++++ b/seat-system/recipient-resolving/seat-identity/seat-identity.module.ts
+@@ -4,13 +4,13 @@ export const seatIdentity = {
+   id: "01a0691b-4f64-74ee-829a-1886f2b0a5e5",
+   pageTypeSlug: "module",
+   slug: "seat-identity",
+-  definition: "the id a seat name resolves to, from the seat standing or from the history",
++  definition: "the id a seat name resolves to, from the seat there now or from the history",
+   code: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+       statement:
+-        "A seat still standing is answered by akasha, and a seat that has stopped by the history.",
++        "A seat still there is answered by akasha, and a seat that has stopped by the history.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/recipient-resolving/seat-wake-match-decide/seat-wake-match-decide.module.code.ts b/seat-system/recipient-resolving/seat-wake-match-decide/seat-wake-match-decide.module.code.ts
+index c4d10160d0da75068934066bf7538721ffb40dc8..35e2f984395b9d4f1ecf75535ad16db7e9d399b7 100644
+--- a/seat-system/recipient-resolving/seat-wake-match-decide/seat-wake-match-decide.module.code.ts
++++ b/seat-system/recipient-resolving/seat-wake-match-decide/seat-wake-match-decide.module.code.ts
+@@ -34,7 +34,7 @@ export function decideWakeMatch(input: WakeMatchInput): WakeMatchDecision {
+   if (!input.seatIsAbsent) {
+     return {
+       kind: "no-op",
+-      reason: "the seat's page stands, so an agent is in it — no wake needed",
++      reason: "the seat's page is there, so an agent is in it — no wake needed",
+     }
+   }
+   const seat = decideSeatWake({ wakeSources: input.wakeSources, comms: input.comms })
+diff --git a/seat-system/recipient-resolving/seat-wake-match-decide/seat-wake-match-decide.module.test.ts b/seat-system/recipient-resolving/seat-wake-match-decide/seat-wake-match-decide.module.test.ts
+index 9853e21c9a9f1fae93396155725bbd99c90019ef..90369d703a5a45953b05e01f770797d5d3c57135 100644
+--- a/seat-system/recipient-resolving/seat-wake-match-decide/seat-wake-match-decide.module.test.ts
++++ b/seat-system/recipient-resolving/seat-wake-match-decide/seat-wake-match-decide.module.test.ts
+@@ -31,7 +31,7 @@ test("an armed seat that matched nothing reports what it does listen for", () =>
+   expect(said).toEqual({ kind: "armed-unmatched", declared: ["alan"] })
+ })
+ 
+-test("a seat whose page stands needs no waking", () => {
++test("a seat whose page is there needs no waking", () => {
+   const said = decideWakeMatch({ seatIsAbsent: false, comms: FROM_ALAN, wakeSources: [RULE] })
+   expect(said.kind).toBe("no-op")
+   expect(said.reason).toContain("an agent is in it")
+diff --git a/seat-system/recipient-resolving/seat-wake-match-decide/seat-wake-match-decide.module.ts b/seat-system/recipient-resolving/seat-wake-match-decide/seat-wake-match-decide.module.ts
+index 215b49fea612f2e8de3259c1d5746e746d8ec9a5..6991c29f37acb01f60c5aa3e5fbd4ccdcd63bc47 100644
+--- a/seat-system/recipient-resolving/seat-wake-match-decide/seat-wake-match-decide.module.ts
++++ b/seat-system/recipient-resolving/seat-wake-match-decide/seat-wake-match-decide.module.ts
+@@ -10,7 +10,7 @@ export const seatWakeMatchDecide = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A seat whose page stands has an agent in it and needs no waking.",
++      statement: "A seat whose page is there has an agent in it and needs no waking.",
+     },
+     {
+       invariantKind: "departure",
