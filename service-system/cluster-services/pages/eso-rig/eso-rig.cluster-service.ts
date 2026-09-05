@@ -10,8 +10,7 @@ export const esoRig = {
   resourceName: "eso-rig",
   image: "registry.registry.svc.cluster.local:5000/cluster/eso-rig:serving",
   replicas: 0,
-  manifestCode:
-    "service-system/cluster-services/pages/eso-rig/eso-rig.cluster-service.code.attachment.ts",
+  manifestSlug: "eso-rig-manifests",
   invariants: [
     {
       invariantKind: "departure",
