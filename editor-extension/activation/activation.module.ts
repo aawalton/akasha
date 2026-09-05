@@ -53,7 +53,7 @@ export const activation = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what a start does.",
+      statement: "Nothing here knows the work a start does.",
     },
     {
       invariantKind: "absence",
