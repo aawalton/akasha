@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/language-design/language-design.domain.ts b/language-design/language-design.domain.ts
+index edcf5da001a27807058b8fd63db0f9e04bfe0c01..f8d7ea6ff0931151d8f73bbdfb841a3eb524254e 100644
+--- a/language-design/language-design.domain.ts
++++ b/language-design/language-design.domain.ts
+@@ -10,7 +10,7 @@ export const languageDesign = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A program is found wrong at reading it or at checking its names or at running it.",
++        "A program is found wrong at reading the program or at checking its names or at running the program.",
+     },
+     {
+       invariantKind: "constraint",
