@@ -60,7 +60,7 @@ index 7315363c61cdfa9ac1ac170558dd65907f6784f8..297e2b34f7765b4675cdf279d7478722
    // the signal was suppressed on exactly the runs that had work to show and kept on the quiet ones.
    return counts.refused > 0 || counts.failed > 0 ? 1 : 0
 diff --git a/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts b/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts
-index 262225ce80919e2fabe5ff06298020d07f947ffd..3e1d1e65e7dde8c3f404a0c3ddea2b5e324c6892 100644
+index 262225ce80919e2fabe5ff06298020d07f947ffd..59c0d42a9c769dbe47acea0d979a8a77f114bbc9 100644
 --- a/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts
 +++ b/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts
 @@ -17,7 +17,7 @@ export const royalRoadSyncing = {
@@ -81,6 +81,15 @@ index 262225ce80919e2fabe5ff06298020d07f947ffd..3e1d1e65e7dde8c3f404a0c3ddea2b5e
      },
      {
        invariantKind: "departure",
+@@ -58,7 +58,7 @@ export const royalRoadSyncing = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "Stories are read from the store the stories now stand in, which is `story/stories-read/pages` rather than `pages/story-read-royal-road`.",
++        "Stories are read from the store the stories are now in, which is `story/stories-read/pages` rather than `pages/story-read-royal-road`.",
+     },
+     {
+       invariantKind: "gap",
 diff --git a/collection-system/sync-runs/properties/skipped-count.number-property.ts b/collection-system/sync-runs/properties/skipped-count.number-property.ts
 index 01c384d3865244785bee8e5c825ff73ee0da970d..d764e1392fadb557b3320a9a02482fdd2a1586e8 100644
 --- a/collection-system/sync-runs/properties/skipped-count.number-property.ts
