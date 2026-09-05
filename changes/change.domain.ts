@@ -26,7 +26,8 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "Every command's page names the kind of change that command lands.",
+      statement:
+        "Every command's page names the kind of change that command lands where the call names no other.",
     },
     {
       invariantKind: "departure",

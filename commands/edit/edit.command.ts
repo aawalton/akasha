@@ -18,9 +18,11 @@ export const edit = {
     { said: "--message <text>", takes: "what the commit is for" },
     { said: "--message-file <file>", takes: "a file the commit message is read from" },
     { said: "--break-the-glass <reason>", takes: "why no warrant is owed, said in the commit" },
+    { said: "--restated", takes: "the words move and what the page means does not" },
   ],
   helpNotes: [
     "a mechanical change is made by the command for it rather than by passages stated here.",
+    "`--restated` runs every check and owes no reading, so say it only where the meaning is unchanged.",
     "`move` carries and repoints, `refactor` renames and retypes, `replace` substitutes across files, `remove` takes away.",
     "--file-path, --old-file and --new-file repeat in triples, so several files change as one.",
     "a passage stated must be in the file exactly once, or the call is refused.",

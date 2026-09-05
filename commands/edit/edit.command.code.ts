@@ -33,7 +33,9 @@ import {
   offRepo,
   pathAt,
   REMOVE,
+  RESTATED,
   removingIn,
+  restatedIn,
   unknownIn,
   unwarrantedIn,
 } from "../write/write.command.code.ts"
@@ -44,7 +46,7 @@ const NEW_FILE = "--new-file"
 
 const VALUED = [FILE_PATH, OLD_FILE, NEW_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
-const BARE: readonly string[] = []
+const BARE: readonly string[] = [RESTATED]
 
 type Stated = {
   readonly old: string
@@ -315,9 +317,11 @@ export async function editing(
   given: Given,
   piping: Piping
 ): Promise<Answer> {
-  const asked = askedWith(argv, given, piping)
+  const kind = restatedIn(argv, given)
+  if ("refusals" in kind) return mistaking(kind.refusals)
+  const asked = askedWith(argv, kind.given, piping)
   if (!("changes" in asked)) return asked
-  return await landingAsked(given, asked)
+  return await landingAsked(kind.given, asked)
 }
 
 export async function edit(argv: readonly string[], given: Given): Promise<Answer> {

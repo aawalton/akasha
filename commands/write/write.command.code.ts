@@ -13,7 +13,11 @@ import {
   troubling,
   wroteAndTook,
 } from "../../command-system/asking/asking.module.code.ts"
-import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+import {
+  type Answer,
+  type Given,
+  kindNamed,
+} from "../../command-system/calling/calling.module.code.ts"
 import { bodyAt } from "../../command-system/commit-reading/commit-reading.module.code.ts"
 import type { FileEdit } from "../../command-system/landing/landing.module.code.ts"
 import { baseOf } from "../../command-system/landing/landing.module.code.ts"
@@ -35,13 +39,17 @@ export const CONTENT_FILE = "--content-file"
 
 export const REMOVE = "--remove"
 
+export const RESTATED = "--restated"
+
+export const RESTATED_KIND = "change-restated"
+
 export const GIT_DIR = ".git"
 
 const PARTED_BY = "/"
 
 export const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
-const BARE: readonly string[] = []
+const BARE: readonly string[] = [RESTATED]
 
 export function unwarrantedIn(
   given: Given,
@@ -56,6 +64,22 @@ export function unwarrantedIn(
     changes.map((one) => one.path),
     changingOf(given.root, changes)
   )
+}
+
+export function restatedIn(
+  argv: readonly string[],
+  given: Given
+): { readonly given: Given } | { readonly refusals: readonly string[] } {
+  if (!argv.includes(RESTATED)) return { given }
+  const kind = kindNamed(given.root, RESTATED_KIND)
+  if (kind === null) {
+    return {
+      refusals: [
+        `${RESTATED} lands a \`${RESTATED_KIND}\` change, and no such kind is a page here`,
+      ],
+    }
+  }
+  return { given: { ...given, changeKind: kind } }
 }
 
 export function pathAt(root: string, said: string): string | null {
@@ -419,9 +443,11 @@ export async function writing(
   given: Given,
   piping: Piping
 ): Promise<Answer> {
-  const built = builtIn(argv, given, piping)
+  const kind = restatedIn(argv, given)
+  if ("refusals" in kind) return mistaking(kind.refusals)
+  const built = builtIn(argv, kind.given, piping)
   if ("code" in built) return built
-  return await landingAsked(given, {
+  return await landingAsked(kind.given, {
     changes: built.changes,
     message: built.message,
     dryRun: false,

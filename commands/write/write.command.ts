@@ -16,9 +16,11 @@ export const write = {
     { said: "--message <text>", takes: "what the commit is for" },
     { said: "--message-file <file>", takes: "a file the commit message is read from" },
     { said: "--break-the-glass <reason>", takes: "why no warrant is owed, said in the commit" },
+    { said: "--restated", takes: "the words move and what the page means does not" },
   ],
   helpNotes: [
     "--file-path and --content-file repeat in pairs, so several files land in one commit.",
+    "`--restated` runs every check and owes no reading, so say it only where the meaning is unchanged.",
     "a body is a file or standard input, never text said on the command line.",
     "a --file-path naming no --content-file reads that body from standard input.",
     "pipe the body in with a quoted heredoc: --message <text> <<'EOF', the body, then EOF.",
