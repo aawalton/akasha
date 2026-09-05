@@ -37,7 +37,7 @@ export const introducedPropertyIsAPart = {
     {
       invariantKind: "departure",
       statement:
-        "What a page type above declares is read as the change leaves the page type above.",
+        "The properties a page type above declares are read as the change leaves the page type above.",
     },
     {
       invariantKind: "departure",
