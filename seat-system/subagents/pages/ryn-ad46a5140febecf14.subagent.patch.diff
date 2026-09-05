@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/types/properties/extends-slug.relation-property.ts b/pages/types/properties/extends-slug.relation-property.ts
-index 80bd3c3d7e5ab3afe757c6934aa8a07b26763cc7..4c0d0d2539a47bb62059e65b20d816991c79ae26 100644
+index 80bd3c3d7e5ab3afe757c6934aa8a07b26763cc7..a545e92dc6ba64a4632e9dd8b7e0131a79e73825 100644
 --- a/pages/types/properties/extends-slug.relation-property.ts
 +++ b/pages/types/properties/extends-slug.relation-property.ts
 @@ -17,7 +17,7 @@ export const extendsSlug = {
@@ -12,3 +12,12 @@ index 80bd3c3d7e5ab3afe757c6934aa8a07b26763cc7..4c0d0d2539a47bb62059e65b20d81699
      },
      {
        invariantKind: "departure",
+@@ -26,7 +26,7 @@ export const extendsSlug = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A type naming none of them states an empty list rather than nothing.",
++      statement: "A type naming no type states an empty list rather than nothing.",
+     },
+   ],
+ } as const satisfies RelationProperty
