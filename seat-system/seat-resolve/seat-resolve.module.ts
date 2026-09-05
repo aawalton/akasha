@@ -21,7 +21,7 @@ export const seatResolve = {
     },
     {
       invariantKind: "departure",
-      statement: "What a slot defaults to is read from the seat page type in akasha.",
+      statement: "The default a slot takes is read from the seat page type in akasha.",
     },
     {
       invariantKind: "departure",
