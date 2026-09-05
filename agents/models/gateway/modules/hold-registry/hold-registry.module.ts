@@ -58,7 +58,7 @@ export const holdRegistry = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what a hold is waiting on.",
+      statement: "Nothing here knows the request a hold is waiting on.",
     },
   ],
 } as const satisfies Module
