@@ -2,7 +2,7 @@ import { existsSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
 import { textIn } from "@akasha/code-system/body-text"
 import type { Summary, Verdict } from "@akasha/code-system/code-tests"
-import { ranOver, testsUnder } from "@akasha/code-system/code-tests"
+import { plain, ranOver, testNamed, testsUnder } from "@akasha/code-system/code-tests"
 import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
 
 const FILE_PATH = "--file-path"
@@ -76,6 +76,97 @@ export function bounded(output: string): readonly string[] {
   ]
 }
 
+const LISTED = 20
+
+const FAILED = "(fail) "
+
+const UNLOADED = "# Unhandled error between tests"
+
+const SAID = /^error:\s*(.*)$/
+
+const NONE: Summary = { files: 0, failed: 0, passed: 0 }
+
+const DETAIL =
+  'name one test to see why: akasha test --file-path <path> --named "<the test\'s name>"'
+
+type Read = {
+  readonly failing: ReadonlyMap<string, number>
+  readonly unloadable: ReadonlyMap<string, string>
+}
+
+function headed(line: string): string | null {
+  const at = line.endsWith(":") ? line.slice(0, -1) : ""
+  return testNamed(at) ? at : null
+}
+
+function readingOf(output: string): Read {
+  const failing = new Map<string, number>()
+  const unloadable = new Map<string, string>()
+  let at = ""
+  let awaiting = false
+  for (const line of plain(output).split("\n")) {
+    const header = headed(line)
+    if (header !== null) {
+      at = header
+      awaiting = false
+      continue
+    }
+    if (at === "") continue
+    if (line.startsWith(FAILED)) {
+      failing.set(at, (failing.get(at) ?? 0) + 1)
+      continue
+    }
+    if (line === UNLOADED) {
+      unloadable.set(at, "")
+      awaiting = true
+      continue
+    }
+    if (!awaiting) continue
+    const said = SAID.exec(line)
+    if (said === null) continue
+    unloadable.set(at, said[1] ?? "")
+    awaiting = false
+  }
+  return { failing, unloadable }
+}
+
+function many(count: number, one: string): string {
+  return `${count} ${one}${count === 1 ? "" : "s"}`
+}
+
+function listed(head: string, lines: readonly string[]): readonly string[] {
+  if (lines.length === 0) return []
+  const kept = lines.slice(0, LISTED)
+  const rest = lines.length - kept.length
+  return [head, ...kept, ...(rest === 0 ? [] : [`  and ${rest} more`])]
+}
+
+function byPath(one: readonly [string, unknown], two: readonly [string, unknown]): number {
+  return one[0] < two[0] ? -1 : 1
+}
+
+function reportOf(said: Summary, output: string): readonly string[] {
+  const read = readingOf(output)
+  const passed = said.passed ?? 0
+  const failed = said.failed ?? 0
+  const loads = read.unloadable.size
+  const failing = [...read.failing].sort(byPath)
+  const unloadable = [...read.unloadable].sort(byPath)
+  const told = [
+    `${many(passed + failed, "test")} ran: ${passed} passed, ${failed} failed.` +
+      (loads === 0 ? "" : ` ${many(loads, "file")} would not load.`),
+    ...listed(
+      `${many(failing.length, "test file")} failed:`,
+      failing.map(([at, count]) => `  ${at} — ${count} failed`)
+    ),
+    ...listed(
+      `${many(unloadable.length, "file")} would not load:`,
+      unloadable.map(([at, why]) => `  ${at} — ${why}`)
+    ),
+  ]
+  return failing.length + unloadable.length === 0 ? told : [...told, DETAIL]
+}
+
 function toldOf(
   verdict: Verdict,
   said: Summary,
@@ -104,15 +195,9 @@ export function test(argv: readonly string[], given: Given): Answer {
   const aimed = aiming(meant.paths, given)
   if (aimed.refusals.length > 0) return { report: [], refusals: aimed.refusals, code: 1 }
   const expected = aimed.named.reduce((held, one) => held + testsUnder(join(root, one)), 0)
-  if (expected === 0) {
-    return {
-      report: [],
-      refusals: [`no file under \`${aimed.named.join("`, `")}\` is a test, so nothing was run`],
-      code: 1,
-    }
-  }
+  if (expected === 0) return { report: [...reportOf(NONE, "")], refusals: [], code: 0 }
   const done = ranOver(root, aimed.named, expected)
-  const report = [...bounded(done.output)]
+  const report = [...bounded(reportOf(done.summary, done.output).join("\n"))]
   if (done.verdict === "pass") return { report, refusals: [], code: 0 }
   return {
     report,

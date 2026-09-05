@@ -9,6 +9,13 @@ const PASSES = 'import { expect, test } from "bun:test"\ntest("one", () => { exp
 
 const FAILS = 'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(2) })\n'
 
+const TWICE =
+  'import { expect, test } from "bun:test"\n' +
+  'test("first", () => { expect(1).toBe(2) })\n' +
+  'test("second", () => { expect(3).toBe(4) })\n'
+
+const LOADS = 'import { nope } from "./nowhere.ts"\nconsole.log(nope)\n'
+
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
@@ -72,11 +79,12 @@ check("a flag naming no path is refused", () => {
   expect(test(["--file-path"], given(root)).refusals[0]).toContain("nothing followed it")
 })
 
-check("a folder holding no test is refused rather than reported as a pass", () => {
+check("a folder holding no test is an empty run rather than a refusal", () => {
   const root = repo({ "held.ts": "export const held = 1\n" })
   const said = test([], given(root))
-  expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("no file under `.` is a test")
+  expect(said.code).toBe(0)
+  expect(said.refusals).toEqual([])
+  expect(said.report).toEqual(["0 tests ran: 0 passed, 0 failed."])
 })
 
 check("an output past what one answer holds keeps its end, where the summary is", () => {
@@ -87,12 +95,36 @@ check("an output past what one answer holds keeps its end, where the summary is"
   expect(new TextEncoder().encode(said).length).toBeLessThan(ANSWER_CEILING + 200)
 })
 
-check("a passing suite answers 0 and reports what ran", () => {
+check("a passing suite answers 0 and says how many tests ran", () => {
   const root = repo({ "one.test.ts": PASSES })
   const said = test([], given(root))
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
-  expect(said.report.join("\n")).toContain("1 pass")
+  expect(said.report).toEqual(["1 test ran: 1 passed, 0 failed."])
+})
+
+check("a failing run says how many ran, which files failed, and how many failed in each", () => {
+  const root = repo({ "one.test.ts": PASSES, "two.test.ts": TWICE })
+  const said = test([], given(root)).report
+  expect(said[0]).toBe("3 tests ran: 1 passed, 2 failed.")
+  expect(said[1]).toBe("1 test file failed:")
+  expect(said[2]).toBe("  akasha/two.test.ts — 2 failed")
+})
+
+check("a file that will not load is named with the one line it gave", () => {
+  const root = repo({ "one.test.ts": PASSES, "gone.test.ts": LOADS })
+  const said = test([], given(root)).report.join("\n")
+  expect(said).toContain("1 file would not load:")
+  expect(said).toContain("akasha/gone.test.ts — Cannot find module './nowhere.ts'")
+})
+
+check("a report points at one test rather than carrying a trace or a failure in full", () => {
+  const root = repo({ "one.test.ts": PASSES, "two.test.ts": FAILS })
+  const said = test([], given(root)).report.join("\n")
+  expect(said).toContain('--named "<the test\'s name>"')
+  expect(said).not.toContain("at <anonymous>")
+  expect(said).not.toContain("Expected: 2")
+  expect(new TextEncoder().encode(said).length).toBeLessThan(500)
 })
 
 check("a failing suite answers 1 and says how many failed", () => {
