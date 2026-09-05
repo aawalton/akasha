@@ -1,0 +1,91 @@
+diff --git a/pages/indexes/index-entries/index-entries.module.ts b/pages/indexes/index-entries/index-entries.module.ts
+index 4d309f5f8af80326f0907592d1380fd9823cda42..ca55870a480c8b98c656d28b3fe406060936cabf 100644
+--- a/pages/indexes/index-entries/index-entries.module.ts
++++ b/pages/indexes/index-entries/index-entries.module.ts
+@@ -58,7 +58,7 @@ export const indexEntries = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The numbered files of an uncommitted property are claimed as those of one the page states are.",
++        "The numbered files of an uncommitted property are claimed as the files of one the page states are.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/person-system/device-secrets/properties/device-secret-device-id.text-property.ts b/person-system/device-secrets/properties/device-secret-device-id.text-property.ts
+index 7c4425c3699f27f3f1a1652393c35cec7c6c4159..15c8a42cceb1f0094a301861e850a43cc40c2100 100644
+--- a/person-system/device-secrets/properties/device-secret-device-id.text-property.ts
++++ b/person-system/device-secrets/properties/device-secret-device-id.text-property.ts
+@@ -13,7 +13,7 @@ export const deviceSecretDeviceId = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "An iOS device states this as the identifier it holds for its vendor.",
++      statement: "An iOS device states this value as the identifier it holds for its vendor.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/commands/shell-init-bash/shell-init-bash.command.ts b/seat-system/commands/shell-init-bash/shell-init-bash.command.ts
+index 567c64886bbe198acdc33e3795363e808c80bd4d..0f9753ed3a8bdd8ce03db415aea543954f959d70 100644
+--- a/seat-system/commands/shell-init-bash/shell-init-bash.command.ts
++++ b/seat-system/commands/shell-init-bash/shell-init-bash.command.ts
+@@ -32,7 +32,7 @@ export const shellInitBash = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A word given to this is refused, because it takes none.",
++      statement: "A word given to this command is refused, because it takes none.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/seat-call/seat-call.module.ts b/seat-system/seat-call/seat-call.module.ts
+index d4ab21387c2fe88960dcbcfea36751b1a90e37a5..bb847d2fc977d58dee3a241351351e6988b39a65 100644
+--- a/seat-system/seat-call/seat-call.module.ts
++++ b/seat-system/seat-call/seat-call.module.ts
+@@ -30,7 +30,7 @@ export const seatCall = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "This reads the seat it names rather than the caller's own.",
++      statement: "This module reads the seat it names rather than the caller's own.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/seat-conditions/properties/tool-timeout.number-property.ts b/seat-system/seat-conditions/properties/tool-timeout.number-property.ts
+index d57960c36b0989bd93a7919b5ae5e372ad1d2b96..afac9211979bcb510de188b470e8e495e2fe2b06 100644
+--- a/seat-system/seat-conditions/properties/tool-timeout.number-property.ts
++++ b/seat-system/seat-conditions/properties/tool-timeout.number-property.ts
+@@ -12,7 +12,7 @@ export const toolTimeout = {
+   invariants: [
+     {
+       invariantKind: "constraint",
+-      statement: "What runs the agent reads this as milliseconds.",
++      statement: "What runs the agent reads this number as milliseconds.",
+     },
+   ],
+ } as const satisfies NumberProperty
+diff --git a/seat-system/seat-presence-read/seat-presence-read.module.ts b/seat-system/seat-presence-read/seat-presence-read.module.ts
+index 46ab033bed28ad86275bdbe33a272d62d425b5c1..7931fd2a6d8ad535165aaadc312f6162e2eb2436 100644
+--- a/seat-system/seat-presence-read/seat-presence-read.module.ts
++++ b/seat-system/seat-presence-read/seat-presence-read.module.ts
+@@ -21,7 +21,7 @@ export const seatPresenceRead = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The agents listed are those akasha holds a seat for, in sorted order.",
++      statement: "The agents listed are the ones akasha holds a seat for, in sorted order.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/seat-turn/seat-turn.domain.ts b/seat-system/seat-turn/seat-turn.domain.ts
+index 3b38cb4d648e69cf248358507d6d414fe9d54158..f97845ad4c9617ca8623b920f6412266e691e540 100644
+--- a/seat-system/seat-turn/seat-turn.domain.ts
++++ b/seat-system/seat-turn/seat-turn.domain.ts
+@@ -128,7 +128,7 @@ export const seatTurn = {
+       invariantKind: "departure",
+       statement: "An idle seat is pending or handed or answered or unknown.",
+     },
+-    { invariantKind: "departure", statement: "An idle seat is never two of those at once." },
++    { invariantKind: "departure", statement: "An idle seat is never two of those four at once." },
+     {
+       invariantKind: "departure",
+       statement: "An idle seat is pending while a turn start the seat arranged is still to come.",
