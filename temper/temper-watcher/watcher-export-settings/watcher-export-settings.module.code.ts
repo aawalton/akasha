@@ -184,7 +184,7 @@ async function compileInventoryValues(
 ): Promise<InventoryValues> {
   const saved = toRuleSettings(inventoryValue)
   const ruleSettings = withControlledRules(
-    { ...saved, rules: [...saved.rules] },
+    { ...saved, rules: rulesFromPages(heldRules) },
     automationSettings
   )
 
