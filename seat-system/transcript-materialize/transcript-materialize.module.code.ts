@@ -149,6 +149,6 @@ export async function materializeLocalTranscript(opts: {
     `object-store transcript for agent ${opts.agentId} (key ${key}) carries no records for ` +
       `session ${opts.sessionId} — it is foreign/cross-contaminated or empty. Refusing to ` +
       "resume into empty context. The session's prior context is not recoverable from the " +
-      "object store; launch a fresh seat with `ops seat start`."
+      "object store; launch a fresh seat with `akasha seat start`."
   )
 }

@@ -68,10 +68,10 @@ export default async function seatReset(args: readonly string[]): Promise<void> 
   const input = parsed.positionals[0]
   if (input === undefined) {
     throw inputError(
-      "no <agent-id> given — `ops seat reset` names the seat it resets and takes no default. " +
+      "no <agent-id> given — `akasha seat reset` names the seat it resets and takes no default. " +
         "A reset takes the agent out of the seat, so a seat resetting itself would destroy " +
         "the turn issuing the command before it could answer. Name the seat, or run " +
-        "`ops seat resume` to come back as yourself."
+        "`akasha seat resume` to come back as yourself."
     )
   }
 
@@ -88,7 +88,7 @@ export default async function seatReset(args: readonly string[]): Promise<void> 
     throw inputError(
       `'${input}' is the seat running this command. A reset takes the agent out of the seat, so ` +
         "a seat resetting itself destroys the turn issuing the command before it can answer. " +
-        "`ops seat resume` is how a seat comes back; a reset is somebody else's to run."
+        "`akasha seat resume` is how a seat comes back; a reset is somebody else's to run."
     )
   }
 
@@ -103,8 +103,8 @@ export default async function seatReset(args: readonly string[]): Promise<void> 
       `seat '${input}' states no domain, role and principal on a page standing for it, and the ` +
         "last page committed for it in this repository states none either. A stopped " +
         "seat's page is taken by the stop, which commits it, so a seat that ever stated what it " +
-        "is can be read back from there — and nothing here can. State what the seat is with " +
-        "`ops instructions seat`, or start a fresh one with `ops seat start`."
+        "is can be read back from there — and nothing here can. Write what the seat is onto " +
+        "its own page, or start a fresh one with `akasha seat start`."
     )
   }
 

@@ -13,7 +13,7 @@ export function terminalErrorLine(
 ): string {
   return (
     `${logPrefix} ${terminalErrorSummary(reason.code)} for account=${account} — credential refresh stopped. ` +
-    `Run \`ops seat resume\` after re-authenticating to resume.` +
+    `Run \`akasha seat resume\` after re-authenticating to resume.` +
     (reason.description != null ? ` Server said: ${reason.description}` : "")
   )
 }

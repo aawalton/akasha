@@ -258,8 +258,8 @@ export async function resumeSeat(request: ResumeSeatRequest): Promise<ResumedSea
         `agent '${seat.name ?? agentId}' is live, and ${launching.join(", ")} ` +
           `${launching.length === 1 ? "speaks" : "speak"} to a LAUNCH. A running seat already has a ` +
           "turn, so there is no first turn to give it and no transcript to hydrate: it is cycled " +
-          "in place instead. Hand it work with `ops seat send`, which reaches a live seat and " +
-          `revives a stopped one, or stop it first with \`akasha seat supervisor stop ${seat.name ?? agentId}\`.`
+          "in place instead. Drop the launch flags, or stop it first with " +
+          `\`akasha seat supervisor stop ${seat.name ?? agentId}\`.`
       )
     }
     refuseWhereSubagentsWork(agentId, request.force === true)

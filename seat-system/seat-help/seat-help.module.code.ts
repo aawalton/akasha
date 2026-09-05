@@ -86,7 +86,7 @@ Flags:
                     second seat be minted on the spot.
                     ONLY A SPAWNED SEAT CARRIES ONE AND ONLY ITS SPAWNER ASSIGNS IT, so this is
                     refused twice over: where --agent names your own seat, and where the row it
-                    names does not say that seat was spawned. \`ops seat start --flex\` is the
+                    names does not say that seat was spawned. \`akasha seat start --flex\` is the
                     command that assigns one.
   --principal <who> Who this seat's output is produced for: agent where it answers to the
                     fleet, or the slug of the person it answers to, matched against the file

@@ -85,8 +85,8 @@ export async function spawnOrAdoptOAuthProxy(
           console.log(
             `[supervisor] oauth-proxy tree-version drift — adopting live proxy ` +
               `(running ${state.oauthProxyVersion} != current ${oauthProxyVersion}); ` +
-              `drift surfaces via 'ops model-gateway status', apply with ` +
-              `'ops model-gateway swap' (#14982)`
+              `drift surfaces via 'akasha model-gateway status', apply with ` +
+              `'akasha model-gateway swap' (#14982)`
           )
         }
         return {

@@ -123,11 +123,11 @@ export const HELP: CommandHelp = {
   ],
   mutuallyExclusive: [["--prompt", "--prompt-file"]],
   examples: [
-    "ops seat resume",
-    "ops seat resume lead-12766",
-    "ops seat resume '#12766' --json",
-    "ops seat resume amy --verify",
-    "ops seat resume '#12766' --prompt-file ./return.txt",
-    "ops seat resume amy --start-mode interactive",
+    "akasha seat resume",
+    "akasha seat resume lead-12766",
+    "akasha seat resume '#12766' --json",
+    "akasha seat resume amy --verify",
+    "akasha seat resume '#12766' --prompt-file ./return.txt",
+    "akasha seat resume amy --start-mode interactive",
   ],
 }

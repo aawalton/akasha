@@ -91,7 +91,7 @@ export function handleProxyVersionUpdate(version: string | null): undefined {
   if (version === baseline) return
   console.log(
     `${LOG} New OAuth-proxy version detected: ${baseline} -> ${version} — ` +
-      `recorded as pending (auto-swap disarmed; apply via 'ops model-gateway swap')`
+      `recorded as pending (auto-swap disarmed; apply via 'akasha model-gateway swap')`
   )
   baseline = version
   pendingVersion = version
