@@ -1,5 +1,5 @@
 diff --git a/domains/initiatives/pages/ryn-trained-parser.initiative.ts b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
-index 2fbff8d17744a23b151ad695af67c2b2d819506a..b1178aaf5f8a7d871c12fca2ff8048e0caace9be 100644
+index 2fbff8d17744a23b151ad695af67c2b2d819506a..872b3c3c38082e73222cbe2ca4e9b712f37f8451 100644
 --- a/domains/initiatives/pages/ryn-trained-parser.initiative.ts
 +++ b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
 @@ -15,12 +15,12 @@ export const rynTrainedParser = {
@@ -17,3 +17,12 @@ index 2fbff8d17744a23b151ad695af67c2b2d819506a..b1178aaf5f8a7d871c12fca2ff8048e0
      },
      {
        statement: "Whether akasha writes in the passive is decided.",
+@@ -34,7 +34,7 @@ export const rynTrainedParser = {
+     {
+       statement: "Every invariant under akasha is written in plain language.",
+       workingMemory:
+-        "Two families are left. 186 statements match lone-pronoun, every one on a pronoun whose noun sits in the same sentence, and that family waits on Alan. 138 statements run past the 100-character maximum their own property declares, 87 of them by twenty characters or fewer and one at 266; those need splitting rather than rewording, so they land as authored.",
++        "Two families are left. 167 statements match lone-pronoun, every one on a pronoun whose noun sits in the same sentence, and that family waits on Alan. 135 statements run past the 100-character maximum their own property declares. Read rather than counted, they are three jobs: 59 to reword, 47 carrying a reason clause that simply goes, and 29 that are two claims to split.",
+     },
+   ],
+   constraints: [
