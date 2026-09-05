@@ -24,12 +24,12 @@ export const gitPushHandoff = {
     {
       invariantKind: "departure",
       statement:
-        "A hand-off that cannot start says the commit is already durable locally and what to run instead.",
+        "A hand-off that cannot start says the commit is already durable locally and the push to run instead.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The state file records what the last push did, so a later landing can report what that push did.",
+        "The state file records the last push's outcome, so a later landing can report that outcome.",
     },
   ],
 } as const satisfies Module
