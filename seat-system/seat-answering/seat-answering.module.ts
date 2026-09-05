@@ -10,7 +10,7 @@ export const seatAnswering = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat answers as somebody only where the one it answers to is a person.",
+      statement: "A seat answers as somebody only where the one that seat answers to is a person.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,8 @@ export const seatAnswering = {
     },
     {
       invariantKind: "departure",
-      statement: "A handler takes its persona and its principal from the person it serves.",
+      statement:
+        "A handler takes its persona and its principal from the person that handler serves.",
     },
     {
       invariantKind: "departure",
