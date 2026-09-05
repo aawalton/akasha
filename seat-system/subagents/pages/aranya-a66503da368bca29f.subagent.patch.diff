@@ -343,30 +343,31 @@ index ab8455e15d79ba046c81d6abe474550ea8830d65..2d5c456da527177768f738aff582ed81
    ],
    "exclude": ["node_modules", "dist", "build"]
 diff --git a/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff b/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff
-index a01fd21d5d412e5ae64d2a7208cddb79f9871a85..7d2b84e357767f54fb16a93de28e4071f9bfde47 100644
+index 1f8104bf983a4d78c7dc69a05c5a83b7f45ad45d..f2059355d0ae2a3308f7b0b9c308905f5cf82d5c 100644
 --- a/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff
 +++ b/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff
-@@ -27,6 +27,6 @@ index 1b34b1659a783b09ae235aa59c6db6b20fb7f5ef..0e7c103a430ec6f80a5f697442a91383
+@@ -362,7 +362,12 @@ index 1b34b1659a783b09ae235aa59c6db6b20fb7f5ef..5201a52126615ed275a4f3eab92f31ce
+    image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
     replicas: 1,
     containerPort: 3000,
- -  manifestCode:
---    "archive-of-worlds/archive-of-worlds-web/archive-of-worlds-web.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
++-  manifestCode:
 +-    "archive-of-worlds/archive-of-worlds-web/manifests/archive-of-worlds-web-manifests.manifest.code.ts",
++=======
+ +<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
  +  manifestSlug: "archive-of-worlds-web-manifests",
-  } as const satisfies ClusterService
+ +=======
+    manifestCode:
 diff --git a/service-system/cluster-services/pages/archive-of-worlds-web.cluster-service.ts b/service-system/cluster-services/pages/archive-of-worlds-web.cluster-service.ts
-index 1b34b1659a783b09ae235aa59c6db6b20fb7f5ef..5201a52126615ed275a4f3eab92f31ce731cf285 100644
+index 1b34b1659a783b09ae235aa59c6db6b20fb7f5ef..0e7c103a430ec6f80a5f697442a913836fd7c4a0 100644
 --- a/service-system/cluster-services/pages/archive-of-worlds-web.cluster-service.ts
 +++ b/service-system/cluster-services/pages/archive-of-worlds-web.cluster-service.ts
-@@ -11,6 +11,10 @@ export const archiveOfWorldsWeb = {
+@@ -11,6 +11,5 @@ export const archiveOfWorldsWeb = {
    image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
    replicas: 1,
    containerPort: 3000,
-+<<<<<<< what this change would leave
-+  manifestSlug: "archive-of-worlds-web-manifests",
-+=======
-   manifestCode:
+-  manifestCode:
 -    "archive-of-worlds/archive-of-worlds-web/archive-of-worlds-web.cluster-service.code.attachment.ts",
-+    "archive-of-worlds/archive-of-worlds-web/manifests/archive-of-worlds-web-manifests.manifest.code.ts",
-+>>>>>>> what HEAD holds
++  manifestSlug: "archive-of-worlds-web-manifests",
  } as const satisfies ClusterService
