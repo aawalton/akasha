@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.ts
-index 4d8068efacc7739e120d6863f625b9e2c022ab2b..86ac1c777a98dd0d0a12970f955bd774e61e1a58 100644
+index 4d8068efacc7739e120d6863f625b9e2c022ab2b..06af313de87ae773da6f858fdff4561c59df5523 100644
 --- a/checks/code-checks/pages/typecheck/typecheck.code-check.ts
 +++ b/checks/code-checks/pages/typecheck/typecheck.code-check.ts
 @@ -126,7 +126,8 @@ export const typecheck = {
@@ -9,6 +9,16 @@ index 4d8068efacc7739e120d6863f625b9e2c022ab2b..86ac1c777a98dd0d0a12970f955bd774
 -      statement: "Nothing is reported against it and a file still importing it is refused.",
 +      statement:
 +        "Nothing is reported against that path and a file still importing that path is refused.",
+     },
+     {
+       invariantKind: "departure",
+@@ -152,7 +153,8 @@ export const typecheck = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A way in is read from the manifest before the change and from the one after it.",
++      statement:
++        "A way in is read from the manifest before the change and from the one after that change.",
      },
      {
        invariantKind: "departure",
