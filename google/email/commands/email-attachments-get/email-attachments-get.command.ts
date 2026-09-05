@@ -19,11 +19,12 @@ export const emailAttachmentsGet = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An attachment is reached by its own id rather than by where it sits.",
+      statement:
+        "An attachment is reached by its own id rather than by where that attachment sits.",
     },
     {
       invariantKind: "departure",
-      statement: "The bytes are answered base64url-encoded with their size beside them.",
+      statement: "The bytes are answered base64url-encoded with their size beside those bytes.",
     },
     {
       invariantKind: "absence",
