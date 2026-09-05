@@ -23,7 +23,8 @@ export const chaptersOfTheBookAbove = {
     },
     {
       invariantKind: "departure",
-      statement: "Every chapter in the folder names the book above as what holds that chapter.",
+      statement:
+        "Every chapter in the folder names the book above as the collection holding that chapter.",
     },
     {
       invariantKind: "departure",
