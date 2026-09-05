@@ -30,9 +30,5 @@ export const renameExport = {
       invariantKind: "departure",
       statement: "A name imported under another name is left as that name is.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The bodies are answered rather than written, so the caller lands them as one.",
-    },
   ],
 } as const satisfies AtomicChange

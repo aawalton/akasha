@@ -44,10 +44,7 @@ export const talosConfigGen = {
       invariantKind: "departure",
       statement: "A schematic id nothing states is a placeholder rather than a refusal.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A path named for the output is read against the repository root.",
-    },
+
     {
       invariantKind: "departure",
       statement: "The documents are reported where no output file is named.",

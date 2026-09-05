@@ -15,10 +15,7 @@ export const checkAddonSandboxSafety = {
       invariantKind: "constraint",
       statement: "A bundle examined is a bundle whose text was read.",
     },
-    {
-      invariantKind: "constraint",
-      statement: "An empty build output ends the run rather than passing the run.",
-    },
+
     {
       invariantKind: "constraint",
       statement: "A bundle that could not be read ends the run with the bundles read so far named.",

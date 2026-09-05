@@ -48,10 +48,7 @@ export const characterBuild = {
       invariantKind: "departure",
       statement: "A name is author-given, so several builds answer to the same name.",
     },
-    {
-      invariantKind: "constraint",
-      statement: "A build's hash runs longer than a name is allowed to run.",
-    },
+
     {
       invariantKind: "departure",
       statement: "This page type is Temper's while its slug carries no temper- prefix.",

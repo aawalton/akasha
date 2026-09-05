@@ -30,10 +30,7 @@ export const inboxesTasks = {
       invariantKind: "departure",
       statement: "A count stated as text is read as the number that count spells.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A count of zero is a count.",
-    },
+
     {
       invariantKind: "departure",
       statement: "No tracking day is no reading rather than a count of zero.",

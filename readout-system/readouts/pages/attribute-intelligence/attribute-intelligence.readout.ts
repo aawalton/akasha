@@ -23,10 +23,7 @@ export const attributeIntelligence = {
       invariantKind: "departure",
       statement: "Ten thousand words added is one point.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A figure given as text is read as the number that text spells.",
-    },
+
     {
       invariantKind: "departure",
       statement: "No tracking day is no reading rather than an intelligence of zero.",

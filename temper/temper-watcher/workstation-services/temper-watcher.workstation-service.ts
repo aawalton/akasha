@@ -18,10 +18,6 @@ export const temperWatcher = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The worker is held in the foreground.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The unit running the worker is a simple one.",
     },
     {

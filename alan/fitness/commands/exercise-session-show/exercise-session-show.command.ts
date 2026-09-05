@@ -22,10 +22,6 @@ export const exerciseSessionShow = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The session left unsaid is the most recent one still open.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The sets are ordered by movement and then by set number.",
     },
     {

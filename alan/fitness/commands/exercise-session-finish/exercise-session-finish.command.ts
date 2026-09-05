@@ -23,10 +23,6 @@ export const exerciseSessionFinish = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The session left unsaid is the most recent one still open.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Notes given are added under the notes already there.",
     },
     {

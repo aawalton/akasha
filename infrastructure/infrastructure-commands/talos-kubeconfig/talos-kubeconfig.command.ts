@@ -37,10 +37,7 @@ export const talosKubeconfig = {
       invariantKind: "departure",
       statement: "A destination nothing names is the cluster's own file under the home.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A path named for the output is read against the repository root.",
-    },
+
     {
       invariantKind: "departure",
       statement: "The folder above the destination is made before the fetch runs.",

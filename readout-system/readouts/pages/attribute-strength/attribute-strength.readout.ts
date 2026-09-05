@@ -27,10 +27,7 @@ export const attributeStrength = {
       invariantKind: "departure",
       statement: "A thousand kilograms is 2204.62 pounds.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A figure given as text is read as the number that text spells.",
-    },
+
     {
       invariantKind: "departure",
       statement: "No tracking day is no reading rather than a strength of zero.",

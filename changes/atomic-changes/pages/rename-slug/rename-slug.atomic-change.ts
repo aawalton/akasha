@@ -41,10 +41,7 @@ export const renameSlug = {
       invariantKind: "departure",
       statement: "A namer no name of this page changes is left out of the answer.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The bodies are answered rather than written, so the caller lands them as one.",
-    },
+
     {
       invariantKind: "absence",
       statement: "No file moves and no export is renamed, those being the path and export renames.",

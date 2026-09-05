@@ -30,10 +30,7 @@ export const upkeepActivity = {
       invariantKind: "departure",
       statement: "A day's lifting is seven pounds moved to the calorie.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A figure given as text is read as the number that text spells.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A day carrying one half alone is a reading of that half.",

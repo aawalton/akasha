@@ -34,10 +34,7 @@ export const renamePropertySignature = {
       invariantKind: "departure",
       statement: "A property reached through a string keeps its quotes.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The bodies are answered rather than written, so the caller lands them as one.",
-    },
+
     {
       invariantKind: "gap",
       statement: "A class member implementing the renamed property is not respelled.",

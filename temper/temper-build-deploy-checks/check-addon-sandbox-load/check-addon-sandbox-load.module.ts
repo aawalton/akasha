@@ -12,10 +12,7 @@ export const checkAddonSandboxLoad = {
       invariantKind: "constraint",
       statement: "The population the run states is the emitted bundles under the build output.",
     },
-    {
-      invariantKind: "constraint",
-      statement: "An empty build output ends the run rather than passing the run.",
-    },
+
     {
       invariantKind: "constraint",
       statement: "An empty base-game string-id census ends the run rather than passing the run.",

@@ -15,10 +15,7 @@ export const checkAddonRemovedRefs = {
       invariantKind: "constraint",
       statement: "A bundle examined is a bundle whose text was read.",
     },
-    {
-      invariantKind: "constraint",
-      statement: "An empty build output ends the run rather than passing the run.",
-    },
+
     {
       invariantKind: "constraint",
       statement: "A bundle no longer on disk is skipped rather than counted as examined.",
