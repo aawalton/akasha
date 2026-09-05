@@ -1,0 +1,13 @@
+diff --git a/alan/fitness/commands/exercise-select/exercise-select.command.ts b/alan/fitness/commands/exercise-select/exercise-select.command.ts
+index 1780a9bc3440ee7a556c90e6de6710ec850b4911..f5ebedc17ea285cc8012618d5aa710d2f7b69aa4 100644
+--- a/alan/fitness/commands/exercise-select/exercise-select.command.ts
++++ b/alan/fitness/commands/exercise-select/exercise-select.command.ts
+@@ -35,7 +35,7 @@ export const exerciseSelect = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every pick is answered with the scores, features and rules behind it.",
++      statement: "Every pick is answered with the scores, features and rules behind that pick.",
+     },
+     {
+       invariantKind: "departure",
