@@ -7,6 +7,6 @@ export const connectionActivitySeq = {
   pageTypeSlug: "number-property",
   slug: "connection-activity-seq",
   propertySlug: "connection-activity-seq",
-  definition: "where this activity stands in the order they are listed",
+  definition: "where this activity is in the order they are listed",
   max: null,
 } as const satisfies NumberProperty

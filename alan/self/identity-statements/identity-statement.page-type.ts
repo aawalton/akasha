@@ -69,7 +69,7 @@ export const identityStatement = {
     {
       invariantKind: "departure",
       statement:
-        "A statement stands at a rank saying how hard it is to hold and a level saying how far along it is.",
+        "A statement sits at a rank saying how hard it is to hold and a level saying how far along it is.",
     },
     {
       invariantKind: "departure",

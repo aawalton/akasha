@@ -37,7 +37,7 @@ export const relationshipTopic = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A relationship topic stands under another relationship topic, or under none.",
+      statement: "A relationship topic is under another relationship topic, or under none.",
     },
     {
       invariantKind: "departure",

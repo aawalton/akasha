@@ -44,7 +44,7 @@ export const relationship = {
   id: "01a06594-c6e2-7bab-9ba9-948b607cfd13",
   pageTypeSlug: "page-type",
   slug: "relationship",
-  definition: "one person in Alan's life, and how close they stand",
+  definition: "one person in Alan's life, and how close they are",
   pluralSlug: "relationships",
   extendsSlug: ["page-type/page"],
   partSlugs: [
@@ -94,11 +94,11 @@ export const relationship = {
     {
       invariantKind: "departure",
       statement:
-        "Four ratings stand apart: what this person changes, how much Alan wants them, how connected they already are, and what he means to keep putting in.",
+        "Four ratings sit apart: what this person changes, how much Alan wants them, how connected they already are, and what he means to keep putting in.",
     },
     {
       invariantKind: "departure",
-      statement: "A relationship stands whether or not the system reaches the person.",
+      statement: "A relationship exists whether or not the system reaches the person.",
     },
     {
       invariantKind: "departure",

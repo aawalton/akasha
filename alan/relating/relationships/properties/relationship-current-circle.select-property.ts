@@ -5,7 +5,7 @@ export const relationshipCurrentCircle = {
   pageTypeSlug: "select-property",
   slug: "relationship-current-circle",
   propertySlug: "relationship-current-circle",
-  definition: "how close to Alan this person stands now",
+  definition: "how close to Alan this person is now",
   values: [
     "pair-bond",
     "intimates",

@@ -110,7 +110,7 @@ export const connectionActivity = {
     },
     {
       invariantKind: "departure",
-      statement: "Every rating stands on a quarter-step scale from a quarter to two.",
+      statement: "Every rating is on a quarter-step scale from a quarter to two.",
     },
     {
       invariantKind: "absence",

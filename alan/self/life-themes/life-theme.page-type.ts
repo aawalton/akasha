@@ -41,11 +41,11 @@ export const lifeTheme = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A life theme stands under one value.",
+      statement: "A life theme is under one value.",
     },
     {
       invariantKind: "departure",
-      statement: "A life theme stands under another life theme, or under none.",
+      statement: "A life theme is under another life theme, or under none.",
     },
   ],
 } as const satisfies PageType

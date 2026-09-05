@@ -8,6 +8,6 @@ export const lifeThemeParentSlug = {
   pageTypeSlug: "relation-property",
   slug: "life-theme-parent-slug",
   propertySlug: "life-theme-parent-slug",
-  definition: "the life theme this one stands under",
+  definition: "the life theme this one is under",
   targetPageTypeSlug: "page-type/life-theme",
 } as const satisfies RelationProperty
