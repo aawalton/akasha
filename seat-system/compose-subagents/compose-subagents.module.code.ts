@@ -1,8 +1,3 @@
-export const tool = {
-  summary: "Render the delegate definitions the `claude --agents` flag takes",
-  path: "seat subagents",
-} as const
-
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { fail } from "@akasha/command-system/command-failing"
