@@ -1,4 +1,3 @@
-runsWarrants: false
 diff --git a/infrastructure/seaweedfs/prune-sessions/seaweedfs-prune-sessions.cluster-service.code.attachment.ts b/infrastructure/seaweedfs/prune-sessions/seaweedfs-prune-sessions.cluster-service.code.attachment.ts
 deleted file mode 100644
 index f0ad571b2ad001d74b78873f0606cf8095706548..0000000000000000000000000000000000000000
@@ -38,7 +37,7 @@ index 0000000000000000000000000000000000000000..f0ad571b2ad001d74b78873f0606cf80
 +  ]
 +}
 diff --git a/service-system/cluster-services/pages/seaweedfs-prune-sessions.cluster-service.ts b/service-system/cluster-services/pages/seaweedfs-prune-sessions.cluster-service.ts
-index 2245d69a98402fdbc5d326b81e598d552e503cb3..686b9209bb75f01173b96fb96ec2b22f2b750897 100644
+index 2245d69a98402fdbc5d326b81e598d552e503cb3..9080f064e45cb95b4f744c0f24948792325fca4b 100644
 --- a/service-system/cluster-services/pages/seaweedfs-prune-sessions.cluster-service.ts
 +++ b/service-system/cluster-services/pages/seaweedfs-prune-sessions.cluster-service.ts
 @@ -10,6 +10,5 @@ export const seaweedfsPruneSessions = {
@@ -47,5 +46,5 @@ index 2245d69a98402fdbc5d326b81e598d552e503cb3..686b9209bb75f01173b96fb96ec2b22f
    schedule: "24 5 * * *",
 -  manifestCode:
 -    "infrastructure/seaweedfs/prune-sessions/seaweedfs-prune-sessions.cluster-service.code.attachment.ts",
-+  manifestCode: "infrastructure/seaweedfs/prune-sessions/seaweedfs-prune-sessions.manifest.code.ts",
++  manifestSlug: "seaweedfs-prune-sessions",
  } as const satisfies ClusterService
