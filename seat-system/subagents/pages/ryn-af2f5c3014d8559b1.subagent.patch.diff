@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/restore/restore.command.ts b/commands/restore/restore.command.ts
+index 1a6bc61fe325b609e11ee049fa909eecaa890af1..f9e02168d309fb8f33d9311f2046d5b94bf7a466 100644
+--- a/commands/restore/restore.command.ts
++++ b/commands/restore/restore.command.ts
+@@ -82,7 +82,7 @@ export const restore = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What each path discards is said before what each path was put back to.",
++      statement: "The work each path discards is said before the body each path was put back to.",
+     },
+     {
+       invariantKind: "absence",
