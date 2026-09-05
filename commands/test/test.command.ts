@@ -30,7 +30,7 @@ export const test = {
     {
       invariantKind: "departure",
       statement:
-        "The verdict is read from what the run printed rather than from its exit code alone.",
+        "The verdict is read from the output the run printed rather than from its exit code alone.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +38,7 @@ export const test = {
     },
     {
       invariantKind: "departure",
-      statement: "A run printing no summary carries the tail of what the runner printed.",
+      statement: "A run printing no summary carries the tail of the output the runner printed.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +67,7 @@ export const test = {
     },
     {
       invariantKind: "departure",
-      statement: "A run naming a test is not weighed against the test files under what was named.",
+      statement: "A run naming a test is not weighed against the test files under the paths named.",
     },
   ],
 } as const satisfies Command
