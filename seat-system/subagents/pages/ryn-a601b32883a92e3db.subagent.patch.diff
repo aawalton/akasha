@@ -1,5 +1,5 @@
 diff --git a/pages/value/page-value.module.ts b/pages/value/page-value.module.ts
-index a10428bb43c3d9434f2b4b408a6fa8df8420495e..f874c269129b945227162de298880958b9079beb 100644
+index a10428bb43c3d9434f2b4b408a6fa8df8420495e..78fbd85d0541206259a4b18e43c1fc2d98a3d926 100644
 --- a/pages/value/page-value.module.ts
 +++ b/pages/value/page-value.module.ts
 @@ -30,7 +30,7 @@ export const pageValue = {
@@ -11,3 +11,12 @@ index a10428bb43c3d9434f2b4b408a6fa8df8420495e..f874c269129b945227162de298880958
      },
      {
        invariantKind: "departure",
+@@ -38,7 +38,7 @@ export const pageValue = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A key naming one page or a list of them is read here as a list of slugs.",
++      statement: "A key naming one page or a list of pages is read here as a list of slugs.",
+     },
+     {
+       invariantKind: "absence",
