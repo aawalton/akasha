@@ -109,11 +109,11 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement: "The file and line are said before what the fault said.",
+      statement: "The file and line are said before the fault's message.",
     },
     {
       invariantKind: "departure",
-      statement: "A frame the fault was called from is named after what the fault said.",
+      statement: "A frame the fault was called from is named after the fault's message.",
     },
     {
       invariantKind: "departure",
@@ -149,7 +149,7 @@ export const checking = {
     {
       invariantKind: "departure",
       statement:
-        "A check needing what the check was not handed reads the change's body rather than the disk's.",
+        "A check needing a path the check was not handed reads the change's body rather than the disk's.",
     },
     {
       invariantKind: "gap",
