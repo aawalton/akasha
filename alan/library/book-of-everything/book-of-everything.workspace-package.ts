@@ -20,11 +20,11 @@ export const bookOfEverything = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The outline is the whole of what there is to know.",
+      statement: "The outline is the whole of knowledge.",
     },
     {
       invariantKind: "departure",
-      statement: "What is on disk is how far into the outline Ali has got.",
+      statement: "The files on disk are how far into the outline Ali has got.",
     },
     {
       invariantKind: "departure",
