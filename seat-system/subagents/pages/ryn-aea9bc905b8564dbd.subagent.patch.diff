@@ -62,3 +62,18 @@ index 38c68ebae418fd320223ea297bbad6b5061bc117..0cffbc66946eea0ad9b19870976dec43
 -    },
 -  ],
  } as const satisfies Module
+diff --git a/temper/temper-saved-vars-migration/bundle-member-saved-vars/bundle-member-saved-vars.module.ts b/temper/temper-saved-vars-migration/bundle-member-saved-vars/bundle-member-saved-vars.module.ts
+index 543ab37cc8d6105df35543cce47cfd10860a4f3f..e9b94b408d72a38bf14f189476db9c2d0833ac4f 100644
+--- a/temper/temper-saved-vars-migration/bundle-member-saved-vars/bundle-member-saved-vars.module.ts
++++ b/temper/temper-saved-vars-migration/bundle-member-saved-vars/bundle-member-saved-vars.module.ts
+@@ -24,10 +24,6 @@ export const bundleMemberSavedVars = {
+       statement: "A marker present at all means the migration is done.",
+     },
+ 
+-    {
+-      invariantKind: "departure",
+-      statement: "A copy aside is made once rather than on every run.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "The marker carries the digest of the bundle file read from.",
