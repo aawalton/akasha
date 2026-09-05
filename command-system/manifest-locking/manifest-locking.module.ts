@@ -67,7 +67,8 @@ export const manifestLocking = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing carrying a manifest installs the checkout onto the commit it landed.",
+      statement:
+        "A landing carrying a manifest installs the checkout onto the commit that landing landed.",
     },
     {
       invariantKind: "departure",
@@ -80,7 +81,7 @@ export const manifestLocking = {
     {
       invariantKind: "departure",
       statement:
-        "An install that fails leaves the commit made and says the tree reaches nothing until it runs.",
+        "A failed install leaves the commit made and says the tree reaches nothing until that install runs.",
     },
     {
       invariantKind: "departure",
