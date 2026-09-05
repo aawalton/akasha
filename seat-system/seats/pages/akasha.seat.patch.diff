@@ -1,0 +1,20 @@
+diff --git a/seat-system/seat-whoami/seat-whoami.module.code.ts b/seat-system/seat-whoami/seat-whoami.module.code.ts
+index 27df6b096538c0d594f52f6a7864faa9eaa29823..d3ff73c3d1992e4e8715697a3b9c4eb58b3f4f25 100644
+--- a/seat-system/seat-whoami/seat-whoami.module.code.ts
++++ b/seat-system/seat-whoami/seat-whoami.module.code.ts
+@@ -1,5 +1,5 @@
+-import { slugNamed } from "@akasha/markdown-pages/page-address"
+ import { resolveRoots } from "@akasha/pages-system/checkout-roots"
++import { slugIn } from "@akasha/pages-system/page-address"
+ import { attributesOf, recordedModeOf } from "../seat-attributes/seat-attributes.module.code.ts"
+ import {
+   frontmatterFromHistory,
+@@ -24,7 +24,7 @@ export interface SeatWhoami {
+ }
+ 
+ function bareSlug(value: string | null): string | null {
+-  return value === null ? null : slugNamed(value)
++  return value === null ? null : (slugIn(value) ?? value)
+ }
+ 
+ function slugAt(frontmatter: Record<string, unknown> | null, key: string): string | null {
