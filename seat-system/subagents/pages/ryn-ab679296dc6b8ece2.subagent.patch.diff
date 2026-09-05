@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/person-system/device-secret-body/device-secret-body.module.ts b/person-system/device-secret-body/device-secret-body.module.ts
+index 2125f8e1f42362962b18fee148058de14e35f436..4b8663d1022032ce834f4df000634cdff51d0cfb 100644
+--- a/person-system/device-secret-body/device-secret-body.module.ts
++++ b/person-system/device-secret-body/device-secret-body.module.ts
+@@ -14,7 +14,7 @@ export const deviceSecretBody = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A body carrying more than the device it names is refused.",
++      statement: "A body carrying more than the device that body names is refused.",
+     },
+     {
+       invariantKind: "departure",
