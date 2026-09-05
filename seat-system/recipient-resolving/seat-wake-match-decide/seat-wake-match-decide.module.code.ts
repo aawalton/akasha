@@ -34,7 +34,7 @@ export function decideWakeMatch(input: WakeMatchInput): WakeMatchDecision {
   if (!input.seatIsAbsent) {
     return {
       kind: "no-op",
-      reason: "the seat's page stands, so an agent is in it — no wake needed",
+      reason: "the seat's page is there, so an agent is in it — no wake needed",
     }
   }
   const seat = decideSeatWake({ wakeSources: input.wakeSources, comms: input.comms })

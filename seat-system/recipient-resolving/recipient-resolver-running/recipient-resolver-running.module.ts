@@ -9,7 +9,7 @@ export const recipientResolverRunning = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "It stands outside the fleet it serves.",
+      statement: "It sits outside the fleet it serves.",
     },
     {
       invariantKind: "departure",
@@ -26,8 +26,7 @@ export const recipientResolverRunning = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A seat is revived only where its page does not stand and inbound work matches it.",
+      statement: "A seat is revived only where its page is not there and inbound work matches it.",
     },
     {
       invariantKind: "departure",

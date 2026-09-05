@@ -44,9 +44,7 @@ async function processSpec(
   )
   if (!shouldRevive) return
 
-  console.log(
-    `${LOG} '${spec.name}' (${row.id}) has no page standing and matching inbound work — reviving`
-  )
+  console.log(`${LOG} '${spec.name}' (${row.id}) has no page and matching inbound work — reviving`)
   const reviveSignal = await deps.revive(row.id, spec.bootPrompt)
   if (reviveSignal !== "unverified" && reviveSignal !== "failed") return
   await deps.reportUnrevivable(

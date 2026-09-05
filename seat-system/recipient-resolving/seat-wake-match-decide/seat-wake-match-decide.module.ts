@@ -10,7 +10,7 @@ export const seatWakeMatchDecide = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat whose page stands has an agent in it and needs no waking.",
+      statement: "A seat whose page is there has an agent in it and needs no waking.",
     },
     {
       invariantKind: "departure",

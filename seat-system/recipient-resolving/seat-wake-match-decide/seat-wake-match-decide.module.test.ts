@@ -31,7 +31,7 @@ test("an armed seat that matched nothing reports what it does listen for", () =>
   expect(said).toEqual({ kind: "armed-unmatched", declared: ["alan"] })
 })
 
-test("a seat whose page stands needs no waking", () => {
+test("a seat whose page is there needs no waking", () => {
   const said = decideWakeMatch({ seatIsAbsent: false, comms: FROM_ALAN, wakeSources: [RULE] })
   expect(said.kind).toBe("no-op")
   expect(said.reason).toContain("an agent is in it")

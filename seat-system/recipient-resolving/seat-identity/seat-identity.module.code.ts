@@ -16,8 +16,8 @@ export function seatIdentityIn(frontmatter: Record<string, unknown>): SeatIdenti
 
 // `roots` is the history's now, akasha resolving its own.
 export function seatIdentityForName(name: string, roots: Roots): SeatIdentity | null {
-  const standing = akashaSeatIdForName(name)
-  if (standing !== null) return { id: standing }
+  const live = akashaSeatIdForName(name)
+  if (live !== null) return { id: live }
   const held = pageFromHistory(name, roots)?.frontmatter ?? null
   return held === null ? null : seatIdentityIn(held)
 }
