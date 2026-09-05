@@ -7,7 +7,7 @@ export const personAccessServes = {
   pageTypeSlug: "text-property",
   slug: "person-access-serves",
   propertySlug: "serves",
-  definition: "the shared page type the target stands in for",
+  definition: "the shared page type the target represents",
   max: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
@@ -17,7 +17,7 @@ export const personAccessServes = {
     },
     {
       invariantKind: "stopgap",
-      statement: "No page type served by a target stands as a page.",
+      statement: "No page type served by a target exists as a page.",
     },
     {
       invariantKind: "gap",

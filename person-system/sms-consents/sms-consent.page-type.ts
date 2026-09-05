@@ -54,7 +54,7 @@ export const smsConsent = {
     },
     {
       invariantKind: "departure",
-      statement: "A consent stands written before the visitor is told they are signed up.",
+      statement: "A consent is written before the visitor is told they are signed up.",
     },
     {
       invariantKind: "departure",
@@ -62,7 +62,7 @@ export const smsConsent = {
     },
     {
       invariantKind: "gap",
-      statement: "The consents stand as pages under this type rather than as markdown.",
+      statement: "The consents exist as pages under this type rather than as markdown.",
     },
   ],
 } as const satisfies PageType

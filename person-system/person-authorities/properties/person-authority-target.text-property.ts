@@ -18,7 +18,7 @@ export const personAuthorityTarget = {
     {
       invariantKind: "departure",
       statement:
-        "A target closing with `-*` is every area whose slug opens with what stands before the `-*`.",
+        "A target closing with `-*` is every area whose slug opens with what comes before the `-*`.",
     },
   ],
 } as const satisfies TextProperty
