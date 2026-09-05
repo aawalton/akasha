@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/git/running/git-running.module.ts b/git/running/git-running.module.ts
-index 0128ab23291d8fe255a2ee4126bc7b5be2540a90..5541c35d9c0ce47c769fe53a65759d9fab1b51d6 100644
+index 0128ab23291d8fe255a2ee4126bc7b5be2540a90..5a1478142f8c95ba88aaecd9cceca46bc4ec8d1c 100644
 --- a/git/running/git-running.module.ts
 +++ b/git/running/git-running.module.ts
 @@ -15,7 +15,7 @@ export const gitRunning = {
@@ -12,3 +12,12 @@ index 0128ab23291d8fe255a2ee4126bc7b5be2540a90..5541c35d9c0ce47c769fe53a65759d9f
      },
      {
        invariantKind: "departure",
+@@ -43,7 +43,7 @@ export const gitRunning = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "No command is run here without a repository to run it in.",
++      statement: "No command is run here without a repository to run that command in.",
+     },
+     {
+       invariantKind: "absence",
