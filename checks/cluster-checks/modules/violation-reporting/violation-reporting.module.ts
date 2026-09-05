@@ -9,7 +9,8 @@ export const violationReporting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A run that certifies nothing says so before that run says what that run found.",
+      statement:
+        "A run that certifies nothing says so before that run says the violations that run found.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +49,7 @@ export const violationReporting = {
     {
       invariantKind: "departure",
       statement:
-        "Violations are grouped only where the caller says what to group those violations by.",
+        "Violations are grouped only where the caller says the key to group those violations by.",
     },
     {
       invariantKind: "departure",
