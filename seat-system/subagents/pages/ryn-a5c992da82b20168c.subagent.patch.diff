@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/domains/plain-language/word-classing/word-classing.module.ts b/domains/plain-language/word-classing/word-classing.module.ts
+index 42c3deecddf491bb90fe9f1ba1e85f6a60459cd0..7d243deb35b9965f4c89bc0812506a82b68de650 100644
+--- a/domains/plain-language/word-classing/word-classing.module.ts
++++ b/domains/plain-language/word-classing/word-classing.module.ts
+@@ -22,7 +22,7 @@ export const wordClassing = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A pronoun naming what sits outside its sentence is classed apart from one naming what sits inside.",
++        "A pronoun naming a thing outside its sentence is classed apart from one naming a thing inside.",
+     },
+     {
+       invariantKind: "departure",
