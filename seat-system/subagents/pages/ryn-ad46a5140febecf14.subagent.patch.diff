@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/domains/domain.page-type.ts b/domains/domain.page-type.ts
+index cc9d65c4e76a3dbaa980aae2938026cbfd3ccfc6..bf451e650616fc0c322049bb3fbc92e5cc3471a4 100644
+--- a/domains/domain.page-type.ts
++++ b/domains/domain.page-type.ts
+@@ -68,7 +68,7 @@ export const domain = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A domain stays even when nothing needs it any more.",
++      statement: "A domain stays even when nothing needs that domain any more.",
+     },
+     {
+       invariantKind: "departure",
