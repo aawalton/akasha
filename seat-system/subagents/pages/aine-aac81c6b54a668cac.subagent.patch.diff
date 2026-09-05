@@ -1,0 +1,52 @@
+diff --git a/alan/harness/monarch/domain-files/monarch-domain-files.module.code.ts b/alan/harness/monarch/domain-files/monarch-domain-files.module.code.ts
+index e62910d2b1a34a6dd6264dfd1b07b14ca20a0fe8..85c182068f25f7cd97b1d1feb437911435c73fcc 100644
+--- a/alan/harness/monarch/domain-files/monarch-domain-files.module.code.ts
++++ b/alan/harness/monarch/domain-files/monarch-domain-files.module.code.ts
+@@ -62,7 +62,7 @@ function ordered(value: Readonly<Record<string, unknown>>): readonly string[] {
+ /** The width the formatter wraps a line at, stated once in `biome.json`. */
+ const WIDTH = 100
+ 
+-/** A value whose line runs past the width stands on a line of its own, as the formatter puts it. */
++/** A value whose line runs past the width is on a line of its own, as the formatter puts it. */
+ function stated(key: string, value: unknown): readonly string[] {
+   const said = written(value)
+   const one = `  ${key}: ${said},`
+diff --git a/alan/harness/monarch/domain-files/monarch-domain-files.module.ts b/alan/harness/monarch/domain-files/monarch-domain-files.module.ts
+index 68721cbe82c87a1edd2aa5880eeee258a859d7b8..32b9ffbb7443dacb10c76c6c12fd39b556e4746d 100644
+--- a/alan/harness/monarch/domain-files/monarch-domain-files.module.ts
++++ b/alan/harness/monarch/domain-files/monarch-domain-files.module.ts
+@@ -24,7 +24,7 @@ export const monarchDomainFiles = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A value whose line runs past the width the formatter wraps at stands on a line of its own.",
++        "A value whose line runs past the width the formatter wraps at is on a line of its own.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/harness/monarch/files/monarch-files.module.code.ts b/alan/harness/monarch/files/monarch-files.module.code.ts
+index e6ff375324061d9410d8f8ed8bb2aa4ee4ce64e4..9c1d464bab67b4a445335203ae46f9eb677010ab 100644
+--- a/alan/harness/monarch/files/monarch-files.module.code.ts
++++ b/alan/harness/monarch/files/monarch-files.module.code.ts
+@@ -9,7 +9,7 @@ export const AKASHA = rootFor(roots, AKASHA_REPO)
+ 
+ const MONTH_TYPE = "monarch-month"
+ 
+-/** Every Monarch page family stands under this one folder inside akasha. */
++/** Every Monarch page family sits under this one folder inside akasha. */
+ const MONARCH = "alan/harness/monarch"
+ 
+ export const MONTHS_FOLDER = `${MONARCH}/monarch-months/pages`
+diff --git a/alan/harness/monarch/files/monarch-files.module.ts b/alan/harness/monarch/files/monarch-files.module.ts
+index 24c6c2df8768ba6b862b0d229e7d72e4fe639a3f..fa78533779b9ff1b4ef315a1db87350a84324b95 100644
+--- a/alan/harness/monarch/files/monarch-files.module.ts
++++ b/alan/harness/monarch/files/monarch-files.module.ts
+@@ -9,7 +9,7 @@ export const monarchFiles = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Every Monarch page family stands under one folder inside akasha.",
++      statement: "Every Monarch page family sits under one folder inside akasha.",
+     },
+     {
+       invariantKind: "departure",
