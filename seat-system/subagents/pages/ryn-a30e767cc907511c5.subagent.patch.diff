@@ -1,0 +1,13 @@
+diff --git a/commands/replace/replace.command.ts b/commands/replace/replace.command.ts
+index 369e73e237075cafd82dd9163639d075ab6ca422..e81d7dd15c58088b47297176ea013427b0f3c0fa 100644
+--- a/commands/replace/replace.command.ts
++++ b/commands/replace/replace.command.ts
+@@ -46,7 +46,7 @@ export const replace = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The file holding it nowhere is named in that refusal.",
++      statement: "The file holding the passage nowhere is named in that refusal.",
+     },
+     {
+       invariantKind: "departure",
