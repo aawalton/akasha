@@ -7,6 +7,7 @@ export const moveSpreading = {
   definition: "a folder named for a move opened into the pairs the files under it carry",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

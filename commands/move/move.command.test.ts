@@ -19,9 +19,9 @@ import {
   carriedMoved,
   claiming,
   codeUnindexed,
-  codeWorld,
   DEEP,
   DEEPER,
+  deeperMoved,
   filedAt,
   GAMMA,
   GLASSED,
@@ -30,11 +30,9 @@ import {
   HELD,
   HOLDER,
   head,
-  held,
   heldIndexed,
   heldPage,
   heldUnindexed,
-  importing,
   LOCK,
   linkWatched,
   MISSING,
@@ -51,7 +49,7 @@ import {
   RENAME,
   REPOINTED,
   RESPELT,
-  rebuilt,
+  readingMoved,
   renamed,
   renamedText,
   renaming,
@@ -63,8 +61,10 @@ import {
   SLUG_RENAME,
   SPELLER_AT,
   SPELLS,
+  sameActMoved,
   scratch,
-  sidecarWorld,
+  sidecarDryMoved,
+  sidecarMoved,
   spellingWorld,
   TARGET,
   THING,
@@ -75,6 +75,7 @@ import {
   takenWorld,
   told,
   twoUnsaid,
+  typeMoved,
   UNSAID,
   UNSAID_AT,
   VALUES,
@@ -113,8 +114,7 @@ test("a file a move carries is repointed where its body spells a path that moved
 })
 
 test("a page's sidecars go with it without being named", async () => {
-  const root = rebuilt(sidecarWorld())
-  const said = await move(["--from", HELD, "--to", DEEP], givenIn(root))
+  const { root, said } = await sidecarMoved()
   expect(said.refusals).toEqual([])
   expect(there(root, DEEPER)).toBe(true)
   expect(there(root, SIDE_AT)).toBe(true)
@@ -123,8 +123,7 @@ test("a page's sidecars go with it without being named", async () => {
 })
 
 test("a moved body's relative specifier is repointed and a package one is not", async () => {
-  const root = codeWorld()
-  const said = await move(["--from", HOLDER, "--to", DEEPER], givenIn(root))
+  const { root, said } = await deeperMoved()
   expect(said.refusals).toEqual([])
   const now = bodyIn(root, DEEPER)
   expect(now).toContain('from "../../two/other.module.code.ts"')
@@ -142,9 +141,7 @@ test("what imports or spells what moved is repointed, and a dry run writes none"
 })
 
 test("a reading carries to the new path, and the write it warranted is not refused", async () => {
-  const root = codeWorld()
-  held(root, HOLDER, CODE)
-  const said = await move(["--from", HOLDER, "--to", DEEPER], givenIn(root))
+  const { root, said } = await readingMoved()
   expect(said.refusals).toEqual([])
   const now = readingIn(root, AGENT, DEEPER)
   expect(now?.oid).toBe(blobIdOf(new TextEncoder().encode(CODE)))
@@ -154,19 +151,14 @@ test("a reading carries to the new path, and the write it warranted is not refus
 })
 
 test("a dry run carries no reading anywhere", async () => {
-  const root = codeWorld()
-  held(root, HOLDER, CODE)
-  const said = await move(["--from", HOLDER, "--to", DEEPER, "--dry-run"], givenIn(root))
+  const { root, said } = await readingMoved(["--dry-run"])
   expect(said.refusals).toEqual([])
   expect(readingIn(root, AGENT, DEEPER)).toBeNull()
   expect(readingIn(root, AGENT, HOLDER)?.mechanicalOid).toBeNull()
 })
 
 test("a file moving in the same act is repointed from its body, not as an importer", async () => {
-  const root = codeWorld()
-  importing(root, TARGET, [HOLDER])
-  const carry = ["--from", TARGET, "--to", ARRIVES, "--from", HOLDER, "--to", DEEPER]
-  const said = await move(carry, givenIn(root))
+  const { root, said } = await sameActMoved()
   expect(said.refusals).toEqual([])
   expect(bodyIn(root, DEEPER)).toContain('from "../../four/other.module.code.ts"')
   expect(told(said)).toContain("no file naming what moved needed repointing")
@@ -203,11 +195,7 @@ test("a rename restates its slug, repoints what names it, and names what it left
 })
 
 test("a page type's slug is not renamed here", async () => {
-  const root = renaming()
-  const said = await move(
-    ["--from", THING_TYPE, "--to", "akasha/other.page-type.ts"],
-    givenIn(root)
-  )
+  const { root, said } = await typeMoved()
   expect(said.code).toBe(1)
   expect(why(said)).toContain("a page type's slug")
   expect(there(root, THING_TYPE)).toBe(true)
@@ -285,8 +273,7 @@ test("a package is reached again while the checks judge a move, and a dry run re
 })
 
 test("a dry run names the pairs it would carry, sidecars and all", async () => {
-  const root = sidecarWorld()
-  const said = await move(["--from", HELD, "--to", DEEP, "--dry-run"], givenIn(root))
+  const { said } = await sidecarDryMoved()
   const report = told(said)
   expect(report).toContain(`${HELD} would move to ${DEEP}`)
   expect(report).toContain("stand beside what you named and would go with it")

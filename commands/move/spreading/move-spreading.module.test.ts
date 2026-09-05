@@ -4,33 +4,35 @@ import { join } from "node:path"
 import { put, there } from "@akasha/testing-system/putting"
 import { move } from "../move.command.code.ts"
 import {
-  bareDir,
   bodyIn,
   FOLDER,
   FOLDER_AT,
   FOLDER_PAIR,
-  folderUnsaid,
-  folderWorld,
   git,
   givenIn,
   HELD,
-  HELD_AT,
   HOLDER,
-  HOLDER_AT,
   head,
-  LOOSE,
-  NESTED_AT,
-  NESTED_HELD,
   OTHER,
   PAGE,
   scratch,
   told,
   UNSAID,
-  UNSAID_UNDER,
   VALUES,
 } from "../move.command.test-fixtures.ts"
 import type { Spread, Spreading } from "./move-spreading.module.code.ts"
 import { expandedIn, othersUnder, spreadSaid } from "./move-spreading.module.code.ts"
+import {
+  bareDir,
+  folderUnsaid,
+  folderWorld,
+  HELD_AT,
+  HOLDER_AT,
+  LOOSE,
+  NESTED_AT,
+  NESTED_HELD,
+  UNSAID_UNDER,
+} from "./move-spreading.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

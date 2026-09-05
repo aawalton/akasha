@@ -1,6 +1,7 @@
 import { readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { mountainWallAt, readMountainWallTime } from "@akasha/day/mountain-wall"
+import { uuidVersion7 } from "../../../command-system/value-minting/value-minting.module.code.ts"
 import {
   type ActivityDifficulty,
   difficultyForTitle,
@@ -325,25 +326,7 @@ export function openIn(rows: readonly Row[]): Row | null {
 }
 
 export function mintedAt(now: Date): string {
-  const ms = now.getTime()
-  const bytes = new Uint8Array(16)
-  crypto.getRandomValues(bytes)
-  const time = ms.toString(16).padStart(12, "0")
-  for (let at = 0; at < 6; at += 1) {
-    bytes[at] = Number.parseInt(time.slice(at * 2, at * 2 + 2), 16)
-  }
-  const sixth = bytes[6] ?? 0
-  const eighth = bytes[8] ?? 0
-  bytes[6] = (sixth & 0x0f) | 0x70
-  bytes[8] = (eighth & 0x3f) | 0x80
-  const hex = Array.from(bytes, (one) => one.toString(16).padStart(2, "0")).join("")
-  return [
-    hex.slice(0, 8),
-    hex.slice(8, 12),
-    hex.slice(12, 16),
-    hex.slice(16, 20),
-    hex.slice(20),
-  ].join("-")
+  return uuidVersion7(now.getTime())
 }
 
 export function instantIn(argv: readonly string[], flag: string, now: Date): string | null {

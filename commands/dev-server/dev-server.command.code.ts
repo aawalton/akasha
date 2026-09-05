@@ -1,5 +1,4 @@
 import { existsSync, openSync, unlinkSync } from "node:fs"
-import { open } from "node:fs/promises"
 import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
 import {
   readEnvLocal,
@@ -30,6 +29,7 @@ import { enforceMemoryGuard } from "@akasha/utils-system/memory-guard"
 import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
 import { refused } from "../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../command-system/fault-saying/fault-saying.module.code.ts"
+import { lastLinesOf } from "./last-lines/last-lines.module.code.ts"
 
 export const BOOTSTRAP = "bootstrap"
 
@@ -79,8 +79,6 @@ const TERM_POLL_MS = 100
 const TERM_TIMEOUT_MS = 5000
 
 const EARLY_EXIT_MS = 200
-
-const READ_CHUNK = 64 * 1024
 
 const KIND = "dev-server"
 
@@ -435,29 +433,6 @@ async function reading(read: {
   }
   if (read.json) return { report: [JSON.stringify(records)], refusals: [], code: 0 }
   return { report: records.map(devServerTsvLine), refusals: [], code: 0 }
-}
-
-export async function lastLinesOf(path: string, many: number): Promise<readonly string[]> {
-  const handle = await open(path, "r")
-  try {
-    const stat = await handle.stat()
-    let at = stat.size
-    let held = ""
-    let lines = 0
-    while (at > 0 && lines <= many) {
-      const chunk = Math.min(READ_CHUNK, at)
-      at -= chunk
-      const buffer = Buffer.alloc(chunk)
-      await handle.read(buffer, 0, chunk, at)
-      held = buffer.toString("utf8") + held
-      lines = held.match(/\n/g)?.length ?? 0
-    }
-    const every = held.split("\n")
-    const last = every.at(-1) === "" ? every.slice(0, -1) : every
-    return last.length > many ? last.slice(last.length - many) : last
-  } finally {
-    await handle.close()
-  }
 }
 
 async function tailing(read: { seq: number; app: string; tail: number }): Promise<Answer> {

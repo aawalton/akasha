@@ -8,6 +8,7 @@ export const devServer = {
   code: "ts",
   test: "ts",
   changeKindSlug: "change-mechanical",
+  partSlugs: ["module/last-lines"],
   taking: [
     {
       said: "bootstrap",
