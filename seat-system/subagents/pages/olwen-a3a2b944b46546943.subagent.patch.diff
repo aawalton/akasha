@@ -1,3 +1,16 @@
+diff --git a/alan/harness/activity/reading/activity-reading.module.code.ts b/alan/harness/activity/reading/activity-reading.module.code.ts
+index 8696740b4466fd754afbb228423d22ca5af23bf0..9e72600139eaba8592d6471aaa5bfa60e58e4e01 100644
+--- a/alan/harness/activity/reading/activity-reading.module.code.ts
++++ b/alan/harness/activity/reading/activity-reading.module.code.ts
+@@ -1,7 +1,7 @@
+ import { getEsoDayStr } from "@akasha/day/eso-day"
+ import { keepReading } from "@akasha/readout-system/readout-reading"
+ import { activityIn } from "@akasha/readout-system/upkeep-activity"
+-import { askDayByDate } from "../../../tracking/daily/day-place/day-place.module.code.ts"
++import { askDayByDate } from "../../../tracking/daily/day-reading/day-reading.module.code.ts"
+ 
+ export const READOUT_PAGE =
+   "readout-system/readouts/pages/upkeep-activity/upkeep-activity.readout.ts"
 diff --git a/alan/tracking/daily/day-completions/day-completions.module.code.ts b/alan/tracking/daily/day-completions/day-completions.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..6db113e1bae23e42d67694ba1a4a62ff8d65fb67
@@ -1123,7 +1136,7 @@ index 0000000000000000000000000000000000000000..e73c21e466a0c9cea8358f29e23fae43
 +  code: "ts",
 +} as const satisfies Module
 diff --git a/alan/tracking/daily/tracking-daily.domain.ts b/alan/tracking/daily/tracking-daily.domain.ts
-index ae3f8e36bc72bd0ebef57fa5cf058051e4be859d..9fb6697cd05849e0571fc4af0e181339d6dd8ae6 100644
+index 68c9270c699a96eb8ad4bde4698183df5afa27cb..b4302b2164080726c620561f813debf45c566e56 100644
 --- a/alan/tracking/daily/tracking-daily.domain.ts
 +++ b/alan/tracking/daily/tracking-daily.domain.ts
 @@ -11,6 +11,10 @@ export const trackingDaily = {
