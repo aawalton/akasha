@@ -37,7 +37,7 @@ export const temperEsoGenerateColonMethods = {
     },
     {
       invariantKind: "departure",
-      statement: "The census is written as numbered runs with an aggregate composing them.",
+      statement: "The census is written as numbered runs with an aggregate composing those runs.",
     },
     {
       invariantKind: "departure",
@@ -45,7 +45,7 @@ export const temperEsoGenerateColonMethods = {
     },
     {
       invariantKind: "departure",
-      statement: "The command remains while nothing reads what it would make.",
+      statement: "The command remains while nothing reads what that command would make.",
     },
     {
       invariantKind: "absence",
