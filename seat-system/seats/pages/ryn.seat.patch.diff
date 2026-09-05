@@ -1,0 +1,123 @@
+diff --git a/domains/plain-language/shape-reading/shape-reading.module.code.ts b/domains/plain-language/shape-reading/shape-reading.module.code.ts
+index 205166ce0f4cf26ca85c2fb9e1663a21571acc91..efdd309d925fbd263a907afdcaf596e6c18ba2d4 100644
+--- a/domains/plain-language/shape-reading/shape-reading.module.code.ts
++++ b/domains/plain-language/shape-reading/shape-reading.module.code.ts
+@@ -9,8 +9,6 @@ export type Shape = {
+   readonly definition: string
+   readonly allowed: boolean | null
+   readonly reason: string | null
+-  readonly pattern: string | null
+-  readonly rules: readonly string[]
+ }
+ 
+ function textIn(held: Record<string, unknown>, key: string): string | null {
+diff --git a/domains/plain-language/shape-reading/shape-reading.module.ts b/domains/plain-language/shape-reading/shape-reading.module.ts
+index 7857bebc9e81ec194ddbe3c4382401fde59adc51..e6fcc680ff6fccaac1b09726a4879ec3fc2b0d88 100644
+--- a/domains/plain-language/shape-reading/shape-reading.module.ts
++++ b/domains/plain-language/shape-reading/shape-reading.module.ts
+@@ -4,7 +4,7 @@ export const shapeReading = {
+   id: "01a05dba-d49f-70b7-a3a3-7eb1c069e14d",
+   pageTypeSlug: "module",
+   slug: "shape-reading",
+-  definition: "the sentence shapes the index names, read for the rules they carry",
++  definition: "the sentence shapes the index names, read out of their pages",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/domains/sentence-shapes/properties/rules.text-property.ts b/domains/sentence-shapes/properties/rules.text-property.ts
+deleted file mode 100644
+index 0cb72c9b6069ca7196c4c1eb962756809a12c1d7..0000000000000000000000000000000000000000
+--- a/domains/sentence-shapes/properties/rules.text-property.ts
++++ /dev/null
+@@ -1,27 +0,0 @@
+-import type { TextProperty } from "@akasha/pages/text-property"
+-
+-export type Rules = string
+-
+-export const rules = {
+-  id: "01a05da1-60fe-71d5-b052-1cc178752887",
+-  pageTypeSlug: "text-property",
+-  slug: "rules",
+-  propertySlug: "rules",
+-  definition: "one grammar rule a sentence shape is admitted by",
+-  max: 200,
+-  nameFormatSlug: null,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A rule is written in the form the grammar reads.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A rule belongs to one sentence shape.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A shape nothing admits is refused by leaving its rules out of the grammar.",
+-    },
+-  ],
+-} as const satisfies TextProperty
+diff --git a/domains/sentence-shapes/properties/shape-pattern.text-property.ts b/domains/sentence-shapes/properties/shape-pattern.text-property.ts
+deleted file mode 100644
+index a58e3438c05c49de3122896f34c1883da9a96638..0000000000000000000000000000000000000000
+--- a/domains/sentence-shapes/properties/shape-pattern.text-property.ts
++++ /dev/null
+@@ -1,39 +0,0 @@
+-import type { TextProperty } from "@akasha/pages/text-property"
+-
+-export type ShapePattern = string
+-
+-export const shapePattern = {
+-  id: "01a05e8e-b843-7255-b6b2-33115cfe103d",
+-  pageTypeSlug: "text-property",
+-  slug: "shape-pattern",
+-  propertySlug: "pattern",
+-  definition: "the regular expression a sentence shape is found by in the words themselves",
+-  max: 200,
+-  nameFormatSlug: null,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A pattern is read against the sentence rather than against the parse.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A pattern states a shape no grammar rule holds.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A pattern refuses a sentence the grammar calls plain.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The text a pair of backticks holds is blanked before a pattern is read.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A pattern belongs to one sentence shape.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "A pattern admits nothing.",
+-    },
+-  ],
+-} as const satisfies TextProperty
+diff --git a/domains/sentence-shapes/sentence-shape.page-type.ts b/domains/sentence-shapes/sentence-shape.page-type.ts
+index 58ab64ca6bca8e773773433b1569504c9ccafb19..77ae05aa3be7ea64d5c13f14c1878e9bc593cb99 100644
+--- a/domains/sentence-shapes/sentence-shape.page-type.ts
++++ b/domains/sentence-shapes/sentence-shape.page-type.ts
+@@ -2,14 +2,10 @@ import type { Module } from "@akasha/code-system/module"
+ import type { PageType } from "@akasha/pages/page-type"
+ import type { Allowed } from "./properties/allowed.boolean-property.ts"
+ import type { Reason } from "./properties/reason.text-property.ts"
+-import type { Rules } from "./properties/rules.text-property.ts"
+-import type { ShapePattern } from "./properties/shape-pattern.text-property.ts"
+ 
+ export type SentenceShape = Module & {
+   test: NonNullable<Module["test"]>
+   allowed?: Allowed
+-  rules?: readonly Rules[]
+-  pattern?: ShapePattern
+   reason?: Reason
+ }
+ 
