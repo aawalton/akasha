@@ -1,0 +1,14 @@
+diff --git a/command-system/commands/move/parenting/move-parenting.module.code.ts b/command-system/commands/move/parenting/move-parenting.module.code.ts
+index d3dfff502487d7a68eb33756b416a3b9b9e0b5af..dd09316285bd29fe732c7aca822fb9e64b038e5d 100644
+--- a/command-system/commands/move/parenting/move-parenting.module.code.ts
++++ b/command-system/commands/move/parenting/move-parenting.module.code.ts
+@@ -124,8 +124,7 @@ export function holdersFor(placing: Placing, folder: string, moved: string): Hel
+     if (at === ROOT || at === HERE || at === "/") {
+       return { unheld: crossed.join(", ") }
+     }
+-    const held = pagesIn(placing, at).filter((one) => one.at !== moved)
+-    const holding = holdingIn(placing, held)
++    const holding = holdingIn(placing, pagesIn(placing, at)).filter((one) => one.at !== moved)
+     const named = basename(at)
+     const grouping = HELD_FOLDERS.has(named) && !namesOf(placing, holding).includes(named)
+     if (!grouping && holding.length > 0) return { holders: holding }
