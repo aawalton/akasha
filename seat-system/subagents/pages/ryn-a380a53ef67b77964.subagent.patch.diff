@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/code-system/code-lint/code-lint.module.ts b/code-system/code-lint/code-lint.module.ts
-index 1b1059a797c9b150392e8e597e7e2c366b85c582..b386882b85a5b8eb034b12dd0b9fb54f76930b11 100644
+index 1b1059a797c9b150392e8e597e7e2c366b85c582..892704552deb3a74d6395d5ab0b438c83096ad1f 100644
 --- a/code-system/code-lint/code-lint.module.ts
 +++ b/code-system/code-lint/code-lint.module.ts
 @@ -11,7 +11,7 @@ export const codeLint = {
@@ -21,7 +21,7 @@ index 1b1059a797c9b150392e8e597e7e2c366b85c582..b386882b85a5b8eb034b12dd0b9fb54f
      },
      {
        invariantKind: "absence",
-@@ -74,12 +74,12 @@ export const codeLint = {
+@@ -74,16 +74,16 @@ export const codeLint = {
      },
      {
        invariantKind: "absence",
@@ -36,3 +36,8 @@ index 1b1059a797c9b150392e8e597e7e2c366b85c582..b386882b85a5b8eb034b12dd0b9fb54f
      },
      {
        invariantKind: "absence",
+-      statement: "What exit follows belongs to whoever asked for the run.",
++      statement: "What exit follows belongs to the caller that asked for the run.",
+     },
+   ],
+ } as const satisfies Module
