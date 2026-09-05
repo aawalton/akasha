@@ -99,7 +99,7 @@ export function temperEsoGenerateBaseGameGlobals(argv: readonly string[] = []): 
   }
   if (stringIds.size === 0) {
     return refused(
-      `no string id stands among ${String(seen.size)} base-game name(s) in ` +
+      `no string id is among ${String(seen.size)} base-game name(s) in ` +
         `${String(luaFiles.length)} Lua file(s) under ${esoRoot}. An empty census reads to every ` +
         "consumer as a clean answer, so nothing was staged.",
       DATA
@@ -148,21 +148,21 @@ export function temperEsoGenerateBaseGameGlobals(argv: readonly string[] = []): 
   const held = pages.find((one) => one.slug === STEM)
   if (staged.files.some((one) => one.rel === held?.pageRel && one.standing)) {
     report.push(
-      `the aggregate's page stands and was not staged again, so what a hand put on ${String(held?.pageRel)} survives`
+      `the aggregate's page is there and was not staged again, so what a hand put on ${String(held?.pageRel)} survives`
     )
   }
 
   if (staged.landAt === null) {
     report.push(
-      "every body above already stands as this run rendered it, so there is nothing to land",
+      "every body above is already what this run rendered, so there is nothing to land",
       `that is the round trip: the ${String(runs)} runs compose back to the ${String(spec.names.length)} string ids one file would have held`
     )
     return answering(report, [], 0)
   }
 
   report.push(
-    `nothing has landed. ${String(staged.changed.length)} file(s) differ from what stands; to land them, run: bash ${staged.landAt}`,
-    "a write over a body the read record does not show you read is refused, so every body above that already stands has to be read first"
+    `nothing has landed. ${String(staged.changed.length)} file(s) differ from what is there; to land them, run: bash ${staged.landAt}`,
+    "a write over a body the read record does not show you read is refused, so every body above that is already there has to be read first"
   )
 
   const arrived = pages
@@ -170,7 +170,7 @@ export function temperEsoGenerateBaseGameGlobals(argv: readonly string[] = []): 
     .map((one) => one.slug)
   if (arrived.length > 0 || staged.goneRels.length > 0) {
     report.push(
-      "the run count changed, so the temper-build-deploy-checks workspace-package page's part slugs no longer match what stands; nothing here writes that list",
+      "the run count changed, so the temper-build-deploy-checks workspace-package page's part slugs no longer match what is there; nothing here writes that list",
       ...arrived.map((slug) => `  add     module/${slug}`),
       ...staged.goneRels.map((rel) => `  remove  ${rel}`)
     )
