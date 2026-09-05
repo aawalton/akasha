@@ -88,8 +88,17 @@ export const keyRespelling = {
       statement: "A carried file changes folder for no rename.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here lands what this module works out.",
+      invariantKind: "departure",
+      statement: "Every file a key rename touches lands in one commit or none of them does.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "`--dry-run` names every file the rename would respell and every one it would carry.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`--dry-run` writes nothing.",
     },
   ],
 } as const satisfies Module
