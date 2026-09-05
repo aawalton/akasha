@@ -1,0 +1,14 @@
+diff --git a/commands/remove/remove.command.ts b/commands/remove/remove.command.ts
+index a276625925b1d8aab369ce3987486ceef2d83301..4860043700decc8d6dbd88af42aba53c2c9dff53 100644
+--- a/commands/remove/remove.command.ts
++++ b/commands/remove/remove.command.ts
+@@ -105,7 +105,8 @@ export const remove = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A folder at the top of the repository is refused unless it holds nothing.",
++      statement:
++        "A folder at the top of the repository is refused unless that folder holds nothing.",
+     },
+     {
+       invariantKind: "absence",
