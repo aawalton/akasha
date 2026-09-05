@@ -1,0 +1,13 @@
+diff --git a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
+index 33103d3483968d20ea56022c6f5cdc0c157adae0..e3de5a4a95a887e33ae0d65f36a12d317ee1253c 100644
+--- a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
++++ b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
+@@ -16,7 +16,7 @@ export const aranyaClusterCleanup = {
+     {
+       statement: "All cluster-specific files are in the cluster/ folder.",
+       workingMemory:
+-        "The keystone is `cluster-service.manifestCode`: a text property naming a repo-root path, so no page claims the 36 attachments and `file-has-its-page` refuses any change touching one. A file property's value sits beside its page, so making it a file property is the move rather than a step before it. That one act closes the finding, frees 10 manifest conversions and opens this intent. `service-system/cluster-services` is 130 files reached through 8 subpath exports.",
++        "The keystone is `cluster-service.manifestCode`: still a text property naming a repo-root path, so no page claims the 51 attachments and `file-has-its-page` refuses any change touching one. Its file was renamed to `cluster-service-manifest-code`, freeing the slug for the manifest page type's own file property, so a path check reads as converted when nothing moved. `service-system/cluster-services` is 126 files reached through 8 subpath exports.",
+     },
+     {
+       statement: "The cluster/ folder passes the `folder-matches-a-shape` check.",
