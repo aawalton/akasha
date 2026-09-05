@@ -1,0 +1,10 @@
+diff --git a/infrastructure/inference-runs/inference-command-line/inference-command-line.module.code.ts b/infrastructure/inference-runs/inference-command-line/inference-command-line.module.code.ts
+index b223b4cf5165e233d04d7ee50135f88fe71d9867..42a0f39101e57c6fe8a285096870533ac355b341 100644
+--- a/infrastructure/inference-runs/inference-command-line/inference-command-line.module.code.ts
++++ b/infrastructure/inference-runs/inference-command-line/inference-command-line.module.code.ts
+@@ -1,4 +1,4 @@
+ export function formatCommandLine(command: string, args: readonly string[]): string {
+   const quoted = args.map((a) => (/\s/.test(a) ? `'${a}'` : a))
+-  return `ops inference ${command} ${quoted.join(" ")}`.trim()
++  return `akasha inference-${command} ${quoted.join(" ")}`.trim()
+ }
