@@ -29,7 +29,7 @@ export const inferenceRun = {
     {
       invariantKind: "departure",
       statement:
-        "What a run made is kept as an object and named from the page that object was made under.",
+        "The media a run made is kept as an object and named from the page that object was made under.",
     },
     {
       invariantKind: "absence",
