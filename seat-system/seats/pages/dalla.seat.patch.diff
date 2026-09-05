@@ -180,3 +180,47 @@ index fc1d3f616e013f5e385cb0b20bfa954eaf78e1f9..1b18c9f51095e29aca3df769a0a5f59e
 +test("a run named is carried into what a refusal says is missing", () => {
 +  expect(refusalIn("<<<<<<<ZZ old\nalpha\n")).toContain("closed by no `=======ZZ`")
 +})
+diff --git a/command-system/piping/piping.module.ts b/command-system/piping/piping.module.ts
+index 19bcec124e9f0851c38c9cdcbaf8d4b3987d634e..0cfee20a1b6e1a89dce2e8bf6ce1c8960fa484d0 100644
+--- a/command-system/piping/piping.module.ts
++++ b/command-system/piping/piping.module.ts
+@@ -57,6 +57,26 @@ export const piping = {
+       invariantKind: "departure",
+       statement: "A block closes at `>>>>>>> new`.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A payload names a run of its own on the line the payload opens with.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run of its own is the letters, digits and dashes after the opening run.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every marker of that payload carries the run the payload named.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A payload naming no run of its own is read by the three runs above.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A line carrying a run the payload did not name is a line of the passage.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A passage is the bytes between its markers with its trailing newline included.",
+@@ -71,7 +91,11 @@ export const piping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A line beginning with a marker run inside a passage is refused.",
++      statement: "A line beginning with the payload's own marker run inside a passage is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That refusal says a run of its own may be named.",
+     },
+     {
+       invariantKind: "departure",
