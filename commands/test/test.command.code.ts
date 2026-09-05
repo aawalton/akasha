@@ -106,6 +106,12 @@ const NONE: Summary = { files: 0, failed: 0, passed: 0 }
 const DETAIL =
   'name one test to see why: akasha test --file-path <path> --named "<the test\'s name>"'
 
+const TAIL_LINES = 20
+
+const TAIL_BYTES = 2000
+
+const NO_SUMMARY = "the runner printed no summary"
+
 type Read = {
   readonly failing: ReadonlyMap<string, number>
   readonly unloadable: ReadonlyMap<string, string>
@@ -162,7 +168,28 @@ function byPath(one: readonly [string, unknown], two: readonly [string, unknown]
   return one[0] < two[0] ? -1 : 1
 }
 
-function reportOf(said: Summary, output: string): readonly string[] {
+export function tailOf(output: string): readonly string[] {
+  const lines = plain(output).split("\n")
+  while (lines.length > 0 && lines[lines.length - 1] === "") lines.pop()
+  if (lines.length === 0) return [`${NO_SUMMARY}, and printed nothing at all.`]
+  const kept: string[] = []
+  let bytes = 0
+  for (let at = lines.length - 1; at >= 0; at -= 1) {
+    const line = lines[at] ?? ""
+    const size = new TextEncoder().encode(line).length + 1
+    if (kept.length >= TAIL_LINES || bytes + size > TAIL_BYTES) break
+    kept.unshift(line)
+    bytes += size
+  }
+  if (kept.length === 0) return [`${NO_SUMMARY}, and its last line runs past what this holds.`]
+  const said =
+    kept.length === lines.length
+      ? `${NO_SUMMARY} — all ${many(kept.length, "line")} of what it printed:`
+      : `${NO_SUMMARY} — its last ${many(kept.length, "line")}:`
+  return [said, ...kept.map((one) => `  ${one}`)]
+}
+
+function reportOf(verdict: Verdict, said: Summary, output: string): readonly string[] {
   const read = readingOf(output)
   const passed = said.passed ?? 0
   const failed = said.failed ?? 0
@@ -181,6 +208,7 @@ function reportOf(said: Summary, output: string): readonly string[] {
       unloadable.map(([at, why]) => `  ${at} — ${why}`)
     ),
   ]
+  if (verdict === "crash") return [...told, ...tailOf(output)]
   return failing.length + unloadable.length === 0 ? told : [...told, DETAIL]
 }
 
@@ -212,10 +240,10 @@ export function test(argv: readonly string[], given: Given): Answer {
   const aimed = aiming(meant.paths, given)
   if (aimed.refusals.length > 0) return { report: [], refusals: aimed.refusals, code: 1 }
   const expected = aimed.named.reduce((held, one) => held + testsUnder(join(root, one)), 0)
-  if (expected === 0) return { report: [...reportOf(NONE, "")], refusals: [], code: 0 }
+  if (expected === 0) return { report: [...reportOf("pass", NONE, "")], refusals: [], code: 0 }
   const weighed = meant.name === null ? expected : 0
   const done = ranOver(root, aimed.named, weighed, meant.name)
-  const report = [...bounded(reportOf(done.summary, done.output).join("\n"))]
+  const report = [...bounded(reportOf(done.verdict, done.summary, done.output).join("\n"))]
   if (done.verdict === "pass") return { report, refusals: [], code: 0 }
   return {
     report,

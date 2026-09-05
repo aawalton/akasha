@@ -38,6 +38,19 @@ export const test = {
     },
     {
       invariantKind: "departure",
+      statement: "A run printing no summary carries the tail of what the runner printed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "That tail is bounded in lines and in bytes alike, and a whole line goes rather than part of one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run printing no summary names no test, no test having run to be named.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run naming a test runs the one test whose whole name that is.",
     },
     {

@@ -3,7 +3,7 @@ import { mkdirSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import type { Given } from "../../command-system/calling/calling.module.code.ts"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
-import { ANSWER_CEILING, aiming, bounded, test } from "./test.command.code.ts"
+import { ANSWER_CEILING, aiming, bounded, tailOf, test } from "./test.command.code.ts"
 
 const PASSES = 'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'
 
@@ -143,6 +143,27 @@ check("one named file runs alone, and its neighbour does not", () => {
   const root = repo({ "one.test.ts": PASSES, "two.test.ts": FAILS })
   const said = test(["--file-path", "akasha/one.test.ts"], given(root))
   expect(said.code).toBe(0)
+})
+
+check("a run printing no summary carries what the runner printed rather than a pointer", () => {
+  const root = repo({ "web/one.test.ts": PASSES })
+  writeFileSync(join(root, "akasha/web/bunfig.toml"), '[test]\npreload = ["./nowhere.ts"]\n')
+  const said = test([], given(root))
+  expect(said.code).toBe(3)
+  expect(said.report[0]).toBe("0 tests ran: 0 passed, 0 failed.")
+  expect(said.report[1]).toContain("of what it printed")
+  expect(said.report.join("\n")).toContain("preload not found")
+  expect(said.report.join("\n")).not.toContain("--named")
+})
+
+check("the tail a crash carries is bounded in lines and in bytes alike", () => {
+  const counted = Array.from({ length: 40 }, (one, at) => `line ${at}`).join("\n")
+  expect(tailOf(counted).length).toBe(21)
+  expect(tailOf(counted)[0]).toContain("its last 20 lines")
+  expect(tailOf(counted)[1]).toBe("  line 20")
+  const wide = Array.from({ length: 40 }, () => "x".repeat(300)).join("\n")
+  expect(tailOf(wide).length).toBe(7)
+  expect(tailOf("held\nthere\n")[0]).toContain("all 2 lines of what it printed")
 })
 
 check("a run naming a test runs that one, and no test whose name it opens", () => {
