@@ -1,0 +1,14 @@
+diff --git a/infrastructure/cluster-manifests/rbac-cluster-role-rules/rbac-cluster-role-rules.module.ts b/infrastructure/cluster-manifests/rbac-cluster-role-rules/rbac-cluster-role-rules.module.ts
+index c76e72a173b2ea365430d87f1319ff9f91167dcf..6cf63eae9abee5c499b1f06a7cfbbf940f97b658 100644
+--- a/infrastructure/cluster-manifests/rbac-cluster-role-rules/rbac-cluster-role-rules.module.ts
++++ b/infrastructure/cluster-manifests/rbac-cluster-role-rules/rbac-cluster-role-rules.module.ts
+@@ -9,8 +9,7 @@ export const rbacClusterRoleRules = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A verb a namespace role grants is granted here too, because Kubernetes refuses a role granting more than its granter holds.",
++      statement: "A verb a namespace role grants is granted here too.",
+     },
+     {
+       invariantKind: "departure",
