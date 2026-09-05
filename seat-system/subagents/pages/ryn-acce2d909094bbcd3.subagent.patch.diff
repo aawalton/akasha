@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/testing-system/test-fixture/test-fixture.domain.ts b/testing-system/test-fixture/test-fixture.domain.ts
-index 50a704da738e4fec4e46af9006377d606d0706ab..33f1e1a898c28d01596737d6fe91e2c492656e95 100644
+index 50a704da738e4fec4e46af9006377d606d0706ab..a3fa58ae30931aa34849b24020a13c30824c75f9 100644
 --- a/testing-system/test-fixture/test-fixture.domain.ts
 +++ b/testing-system/test-fixture/test-fixture.domain.ts
 @@ -12,7 +12,7 @@ export const testFixture = {
@@ -12,3 +12,12 @@ index 50a704da738e4fec4e46af9006377d606d0706ab..33f1e1a898c28d01596737d6fe91e2c4
      },
      {
        invariantKind: "departure",
+@@ -25,7 +25,7 @@ export const testFixture = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A system reading what the pages declare refuses a world declaring no property unique.",
++        "A system reading the pages' declarations refuses a world declaring no property unique.",
+     },
+   ],
+   directives: [
