@@ -41,7 +41,7 @@ index 38da2fde0d0af2dc74a6e9daa2f15b6d601d81e8..0480ff0d6a16c942b8bb238cdcb5213c
    const judged = await built.gate.over(change)
    const said = resolved(given.root, page, named.path, body)
 diff --git a/command-system/commands/patch/patch.command.test.ts b/command-system/commands/patch/patch.command.test.ts
-index 023a2dac11f0f7401d6eea8ca664540b17b14c8a..26ff0b785470c02a75801a1370270e65408c5777 100644
+index 023a2dac11f0f7401d6eea8ca664540b17b14c8a..394d2ca8d15664cd20a8c7845d093a1bf7589e47 100644
 --- a/command-system/commands/patch/patch.command.test.ts
 +++ b/command-system/commands/patch/patch.command.test.ts
 @@ -6,7 +6,14 @@ import { drafted, resolved, runningIn } from "../../drafting/drafting.module.cod
@@ -60,3 +60,33 @@ index 023a2dac11f0f7401d6eea8ca664540b17b14c8a..26ff0b785470c02a75801a1370270e65
  
  const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
  
+@@ -321,18 +328,17 @@ test("a path HEAD took away is resolved and the rest of the patch is left", asyn
+   expect(said.report.join("\n")).toContain(`added ${ONE}`)
+ })
+ 
+-test("a resolve is judged over every path the patch holds", async () => {
+-  const root = await repo()
+-  await landingAt(root, TWO, WAS)
+-  draftingBoth(root)
+-  const said = await resolving(given(root), PAGE, ["--file-path", ONE], piped(NOW))
+-  expect(said.report.join("\n")).toContain("2 paths the patch would leave")
++test("a resolve is judged over every path the patch holds", () => {
++  const held = new Map([
++    [ONE, { was: BYTES.encode(WAS), body: BYTES.encode(NOW) }],
++    [TWO, { was: null, body: BYTES.encode(NOW) }],
++  ])
++  const edits = resolvingEdits(held, ONE, BYTES.encode(WAS))
++  expect(edits.map((one) => one.path)).toEqual([ONE, TWO])
+ })
+ 
+-test("a resolve a check refused takes the body all the same", async () => {
+-  const root = await repo()
+-  drafting(root)
+-  const said = await resolving(given(root), PAGE, ["--file-path", ONE], piped(NOW))
+-  expect(said.code).toBe(0)
+-  expect(said.report.join("\n")).toContain(`resolved ${ONE}`)
++test("a body resolved is the body judged at the path resolved", () => {
++  const held = new Map([[ONE, { was: BYTES.encode(WAS), body: BYTES.encode(NOW) }]])
++  const edits = resolvingEdits(held, ONE, BYTES.encode(WAS))
++  expect(edits[0]?.body).toEqual(BYTES.encode(WAS))
+ })
