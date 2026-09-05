@@ -1,4 +1,3 @@
-runsWarrants: false
 diff --git a/infrastructure/telemetry/grafana/grafana.manifest.code.ts b/infrastructure/telemetry/grafana/grafana.manifest.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..72e32aa14b3270d27282525ddae60aacf88d71ec
@@ -630,7 +629,7 @@ index 72e32aa14b3270d27282525ddae60aacf88d71ec..00000000000000000000000000000000
 -  ]
 -}
 diff --git a/service-system/cluster-services/pages/grafana/grafana.cluster-service.ts b/service-system/cluster-services/pages/grafana/grafana.cluster-service.ts
-index 9933382daf77c910171ce7ae18b5ed4a328b79b0..d8cfa623b8e1f0aa0e51de188466a3055600fec7 100644
+index 9933382daf77c910171ce7ae18b5ed4a328b79b0..e3bbb504f63d9251c82515adf10e8d34cbd142c1 100644
 --- a/service-system/cluster-services/pages/grafana/grafana.cluster-service.ts
 +++ b/service-system/cluster-services/pages/grafana/grafana.cluster-service.ts
 @@ -11,6 +11,5 @@ export const grafana = {
@@ -639,5 +638,5 @@ index 9933382daf77c910171ce7ae18b5ed4a328b79b0..d8cfa623b8e1f0aa0e51de188466a305
    containerPort: 3000,
 -  manifestCode:
 -    "service-system/cluster-services/pages/grafana/grafana.cluster-service.code.attachment.ts",
-+  manifestCode: "infrastructure/telemetry/grafana/grafana.manifest.code.ts",
++  manifestSlug: "grafana",
  } as const satisfies ClusterService
