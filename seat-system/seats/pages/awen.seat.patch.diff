@@ -1,0 +1,18 @@
+diff --git a/code-system/components/probe-a.code.ts b/code-system/components/probe-a.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d5442fbfc3bf4aa0a4f8df722250c6f040c2406a
+--- /dev/null
++++ b/code-system/components/probe-a.code.ts
+@@ -0,0 +1,5 @@
++import type { ProbeB } from "./probe-b.code.ts"
++
++export function probeA(): ProbeB {
++  return "b"
++}
+diff --git a/code-system/components/probe-b.code.ts b/code-system/components/probe-b.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ef69063b8ebf78eed7150d74d55952c7e20bee57
+--- /dev/null
++++ b/code-system/components/probe-b.code.ts
+@@ -0,0 +1 @@
++export type ProbeB = "b"
