@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.ts
+index fc5d9191f71cfa6b8e942b41ad7a2e5353656f28..3493ed5957c06e434610197865d4e6de6795fd63 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.ts
+@@ -78,7 +78,7 @@ export const folderMatchesAShape = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The refusal carries what each shape said rather than ranking those shapes.",
++      statement: "The refusal carries each shape's reasons rather than ranking those shapes.",
+     },
+     {
+       invariantKind: "departure",
