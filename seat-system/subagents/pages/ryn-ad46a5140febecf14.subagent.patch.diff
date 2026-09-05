@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/day/eso-day/eso-day.module.ts b/day/eso-day/eso-day.module.ts
+index 1e1008dc71192a9a3947c42db45c2236f039fe9d..fa348fa0d69e503b348cd37e3922187d5206b174 100644
+--- a/day/eso-day/eso-day.module.ts
++++ b/day/eso-day/eso-day.module.ts
+@@ -15,7 +15,7 @@ export const esoDay = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A window's bounds are each worked out against the offset they themselves land in.",
++        "A window's bounds are each worked out against the offset those bounds themselves land in.",
+     },
+     {
+       invariantKind: "departure",
