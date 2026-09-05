@@ -1,0 +1,60 @@
+diff --git a/alan/web/alan-web.router-app.ts b/alan/web/alan-web.router-app.ts
+index ccd09445925dff584c9298e3bcb5e66354eecee3..9a0a4141772a8fd2781cee643627a1080527b9f6 100644
+--- a/alan/web/alan-web.router-app.ts
++++ b/alan/web/alan-web.router-app.ts
+@@ -10,6 +10,7 @@ export const alanWeb = {
+   routeTable: "ts",
+   serverEntry: "tsx",
+   routerConfig: "ts",
++  compileConfig: "json",
+   partSlugs: [
+     "stylesheet/alan-web-look",
+     "stylesheet/idle-look",
+diff --git a/archive-of-worlds/archive-of-worlds-web/archive-of-worlds-web.router-app.ts b/archive-of-worlds/archive-of-worlds-web/archive-of-worlds-web.router-app.ts
+index 90786df0f71d220b3313fa387a7e2dfa942104dd..261b6747da34f0840d86b3361558a1fa8b090b34 100644
+--- a/archive-of-worlds/archive-of-worlds-web/archive-of-worlds-web.router-app.ts
++++ b/archive-of-worlds/archive-of-worlds-web/archive-of-worlds-web.router-app.ts
+@@ -10,6 +10,7 @@ export const archiveOfWorldsWeb = {
+   routeTable: "ts",
+   serverEntry: "tsx",
+   routerConfig: "ts",
++  compileConfig: "json",
+   partSlugs: [
+     "stylesheet/archive-of-worlds-web-look",
+     "module/archive-of-worlds-app-id",
+diff --git a/audhdalan/audhdalan-web/audhdalan-web.router-app.ts b/audhdalan/audhdalan-web/audhdalan-web.router-app.ts
+index ea417d63e5733b632bf9f7ad11cc2cb85a5f4ad0..a2c7f275f4c84ee54e56dc06992d185c07a8ca53 100644
+--- a/audhdalan/audhdalan-web/audhdalan-web.router-app.ts
++++ b/audhdalan/audhdalan-web/audhdalan-web.router-app.ts
+@@ -10,6 +10,7 @@ export const audhdalanWeb = {
+   routeTable: "ts",
+   serverEntry: "tsx",
+   routerConfig: "ts",
++  compileConfig: "json",
+   partSlugs: [
+     "stylesheet/audhdalan-web-look",
+     "module/deck-page-content",
+diff --git a/smilingjenny/smilingjenny-web/smilingjenny-web.router-app.ts b/smilingjenny/smilingjenny-web/smilingjenny-web.router-app.ts
+index e6a2ba0da302cf00888b88d55d85722a52160269..da9c11ae41738b3ce2c21fe6cf555b83ea6fbfce 100644
+--- a/smilingjenny/smilingjenny-web/smilingjenny-web.router-app.ts
++++ b/smilingjenny/smilingjenny-web/smilingjenny-web.router-app.ts
+@@ -10,6 +10,7 @@ export const smilingjennyWeb = {
+   routeTable: "ts",
+   serverEntry: "tsx",
+   routerConfig: "ts",
++  compileConfig: "json",
+   partSlugs: [
+     "stylesheet/smilingjenny-web-look",
+     "module/jenny-capacitor-bridge",
+diff --git a/temper/temper-web/temper-web.router-app.ts b/temper/temper-web/temper-web.router-app.ts
+index ff755e10773e2dcb766527226e383ba8f2407f74..62457435a26df9292d0224858906930f319e2b99 100644
+--- a/temper/temper-web/temper-web.router-app.ts
++++ b/temper/temper-web/temper-web.router-app.ts
+@@ -10,6 +10,7 @@ export const temperWeb = {
+   routeTable: "ts",
+   serverEntry: "tsx",
+   routerConfig: "ts",
++  compileConfig: "json",
+   partSlugs: [
+     "stylesheet/temper-web-look",
+     "module/account-achievements-panel-card",
