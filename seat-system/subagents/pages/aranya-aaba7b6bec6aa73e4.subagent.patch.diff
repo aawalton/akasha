@@ -1,15 +1,19 @@
 diff --git a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
-index e21d369b0e5d67a336646255053405a63e837dad..cf267e7dea6530e96f6f418641e98f2246739ed5 100644
+index e21d369b0e5d67a336646255053405a63e837dad..bf3ec594c13942d75b70828c3502f8122bc0243c 100644
 --- a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
 +++ b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
-@@ -43,5 +43,10 @@ export const aranyaClusterCleanup = {
+@@ -43,5 +43,14 @@ export const aranyaClusterCleanup = {
        workingMemory:
          "13 landings were refused in `.supervisors/<seat id>/subagent-presence.log`, each one because another landing held `.git/akasha-landing.lock` past 120s: 4 put-ups, whose subagents held no page from their first moment, and 9 take-downs, which are among the 105. `state-subagent.agent-hook.ts` already carries the gap as `Nothing reads that log to put up a page the refusal left unwritten.` The lock contention is a throughput question of its own at ~20 agents, which a self-heal would mask.",
      },
 +    {
 +      statement: "A landing that installs does not hold the lock every landing waits on.",
 +      workingMemory:
++<<<<<<< what this change would leave
 +        "`installingIn` in `command-system/manifest-locking/manifest-locking.module.code.ts:248` calls `holding(root, () => installedIn(root))`, which runs `bun install` while holding `.git/akasha-landing.lock`. `command-system/holding/holding.module.code.ts:7` waits at most 120000ms, so every other landing behind an install is refused. A subagent put-up refused that way leaves a working subagent with no page, which blinds the interlock `standingSubagentsOf` feeds. 13 such refusals are on disk, and the swarm lands about 90 commits a minute at peak, so queueing alone is a second candidate; the presence log carried no time until commit `9e5dcb43bf`, so neither cause is attributed yet.",
++=======
++        "`installingIn` (`manifest-locking.module.code.ts:248`) calls `holding(root, () => installedIn(root))`, running `bun install` under `.git/akasha-landing.lock` while `holding.module.code.ts:7` waits at most 120000ms and refuses every landing behind it. A refused put-up leaves a working subagent with no page, blinding the `standingSubagentsOf` interlock. 13 are on disk; at ~90 commits a minute queueing is a second candidate, and the log carried no time until `9e5dcb43bf`, so neither is attributed.",
++>>>>>>> what HEAD holds
 +    },
    ],
  } as const satisfies Initiative
