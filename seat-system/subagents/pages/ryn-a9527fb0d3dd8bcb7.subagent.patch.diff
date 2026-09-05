@@ -1,14 +1,20 @@
 diff --git a/alan/fitness/commands/exercise-next-set/exercise-next-set.command.ts b/alan/fitness/commands/exercise-next-set/exercise-next-set.command.ts
-index c486ba7686254480d560a6b6f3536bd4116743c1..a63a680de11c464b7f37236b645bffe65267d7b2 100644
+index c486ba7686254480d560a6b6f3536bd4116743c1..34080342808cb9db6f16a402e585c55d31968d07 100644
 --- a/alan/fitness/commands/exercise-next-set/exercise-next-set.command.ts
 +++ b/alan/fitness/commands/exercise-next-set/exercise-next-set.command.ts
-@@ -36,7 +36,8 @@ export const exerciseNextSet = {
+@@ -36,11 +36,13 @@ export const exerciseNextSet = {
      },
      {
        invariantKind: "departure",
 -      statement: "A movement skipped before it was worked leaves the pool the plan is drawn from.",
 +      statement:
 +        "A movement skipped before that movement was worked leaves the pool the plan is drawn from.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A movement skipped after it was worked ends its slot with nothing in its place.",
++      statement:
++        "A movement skipped after that movement was worked ends its slot with nothing in its place.",
      },
      {
        invariantKind: "departure",
