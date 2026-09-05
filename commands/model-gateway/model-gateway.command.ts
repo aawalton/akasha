@@ -22,7 +22,6 @@ export const modelGateway = {
     { said: "--json", takes: "the answer as one JSON object rather than as rows" },
   ],
   helpNotes: [
-    "the act is the first word, and one call names one act.",
     "auto-swap is disarmed, so a running gateway stays on the version it was spawned at until a swap moves it, and a status reports the lag that leaves.",
     "the version a status weighs against is the tree on disk here, which is what the next spawn would run.",
     "on disk rather than published, because the gateway is spawned from this repository rather than deployed, so nothing publishes a version for it.",
