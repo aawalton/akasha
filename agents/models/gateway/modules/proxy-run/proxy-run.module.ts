@@ -22,7 +22,8 @@ export const proxyRun = {
     },
     {
       invariantKind: "departure",
-      statement: "A gateway not asked to be kept is stopped once it has printed its port.",
+      statement:
+        "A gateway not asked to be kept is stopped once that gateway has printed its port.",
     },
     {
       invariantKind: "departure",
