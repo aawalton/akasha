@@ -14,7 +14,7 @@ export const dataPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "What stands under it is named by whatever owns that.",
+      statement: "What is under it is named by whatever owns that.",
     },
     {
       invariantKind: "departure",
@@ -34,11 +34,11 @@ export const dataPlace = {
     },
     {
       invariantKind: "absence",
-      statement: "Where the place stands is an answer.",
+      statement: "Where the place sits is an answer.",
     },
     {
       invariantKind: "absence",
-      statement: "Whether anything stands there is asked of the disk by whoever asks.",
+      statement: "Whether anything is there is asked of the disk by whoever asks.",
     },
     {
       invariantKind: "absence",

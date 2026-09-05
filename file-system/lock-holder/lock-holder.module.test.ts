@@ -36,12 +36,12 @@ test("a pid nothing is running under answers unknown rather than failing", async
   expect(startedAt(await gonePid())).toBe(UNKNOWN)
 })
 
-test("a mark that stands is read back whole, with the whitespace around it dropped", () => {
+test("a mark that is there is read back whole, with the whitespace around it dropped", () => {
   expect(markIn(marked(`${process.pid} 1\n`))).toBe(`${process.pid} 1`)
 })
 
-test("a mark that never stood, or stands empty, is no mark rather than a failure", () => {
-  expect(markIn(join(rooted(), "never stood"))).toBeNull()
+test("a mark never written, or one that is empty, is no mark rather than a failure", () => {
+  expect(markIn(join(rooted(), "never written"))).toBeNull()
   expect(markIn(marked("   \n"))).toBeNull()
 })
 
@@ -73,7 +73,7 @@ test("a holder whose process is gone is no holder", async () => {
   expect(alive({ pid: await gonePid(), started: startedAt(process.pid) })).toBe(false)
 })
 
-test("a pid standing for another process than the one that wrote the mark is no holder", () => {
+test("a pid representing another process than the one that wrote the mark is no holder", () => {
   expect(alive({ pid: process.pid, started: "1" })).toBe(false)
 })
 

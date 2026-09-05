@@ -13,7 +13,7 @@ export const answerMark = {
     },
     {
       invariantKind: "departure",
-      statement: "An input is a path and the object id of what stands at the path.",
+      statement: "An input is a path and the object id of what is at the path.",
     },
     {
       invariantKind: "absence",

@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { dataAt, dataIn } from "./data-place.module.code.ts"
 
-test("the place stands under the folder git does not track", () => {
+test("the place sits under the folder git does not track", () => {
   expect(dataAt()).toBe(".git/data")
   expect(dataIn("/repo")).toBe("/repo/.git/data")
 })

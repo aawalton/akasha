@@ -39,7 +39,7 @@ export const lockHolder = {
     },
     {
       invariantKind: "departure",
-      statement: "A mark that stands empty is answered as no holder.",
+      statement: "A mark that is empty is answered as no holder.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +59,7 @@ export const lockHolder = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows where a lock stands.",
+      statement: "Nothing here knows where a lock is.",
     },
     {
       invariantKind: "absence",

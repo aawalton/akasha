@@ -9,11 +9,11 @@ export const exclusive = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The turn is a directory made beside the path the turn stands for.",
+      statement: "The turn is a directory made beside the path the turn represents.",
     },
     {
       invariantKind: "departure",
-      statement: "Making it is one act that fails where it already stands.",
+      statement: "Making it is one act that fails where it already exists.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,7 @@ export const exclusive = {
     },
     {
       invariantKind: "departure",
-      statement: "A turn is given up only by the process whose mark stands in the turn.",
+      statement: "A turn is given up only by the process whose mark is in the turn.",
     },
     {
       invariantKind: "departure",
