@@ -10,6 +10,7 @@ export const refactor = {
   changeKindSlug: "change-mechanical",
   partSlugs: [
     "module/key-respelling",
+    "module/package-phasing",
     "module/package-renaming",
     "module/page-retyping",
     "module/refactor-arguing",
