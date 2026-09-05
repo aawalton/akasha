@@ -12,7 +12,7 @@ export const partOf = {
     },
     {
       invariantKind: "departure",
-      statement: "A collection is part of what that collection names under `part-of-slugs`.",
+      statement: "A collection is part of the pages that collection names under `part-of-slugs`.",
     },
     {
       invariantKind: "departure",
