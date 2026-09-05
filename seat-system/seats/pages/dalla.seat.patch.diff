@@ -1,13 +1,19 @@
 diff --git a/domains/findings/pages/the-shell-write-hook-reads-text-that-is-not-shell-as-shell.finding.ts b/domains/findings/pages/the-shell-write-hook-reads-text-that-is-not-shell-as-shell.finding.ts
-index d788899d9a42365a6e84f522f80a45e1c84ee8c4..3c807574598b0aed6b0821b17b2575301e29cc37 100644
+index d788899d9a42365a6e84f522f80a45e1c84ee8c4..d0197090b10500ca7b29cef601ce7b82174d5ed7 100644
 --- a/domains/findings/pages/the-shell-write-hook-reads-text-that-is-not-shell-as-shell.finding.ts
 +++ b/domains/findings/pages/the-shell-write-hook-reads-text-that-is-not-shell-as-shell.finding.ts
-@@ -6,7 +6,7 @@ export const theShellWriteHookReadsTextThatIsNotShellAsShell = {
+@@ -6,11 +6,10 @@ export const theShellWriteHookReadsTextThatIsNotShellAsShell = {
    slug: "the-shell-write-hook-reads-text-that-is-not-shell-as-shell",
    domainSlug: "workspace-package/hook-system",
    claim:
 -    "`block-akasha-shell-writes` refuses six shapes of call that write nothing into the checkout. Five of the six are one defect: it reads text that the shell would never run as a command as though it were one. The sixth resolves a relative path against the wrong directory. Each cost real time on 2026-09-04 and each pushed the agent that met it toward a workaround rather than the call it meant to make.",
 +    "`block-akasha-shell-writes` refuses four shapes of call that write nothing into the checkout. Three of the four are one defect: it reads text that the shell would never run as a command as though it were one. The fourth resolves a relative path against the wrong directory. Each cost real time on 2026-09-04 and each pushed the agent that met it toward a workaround rather than the call it meant to make.",
    evidence:
-     "Six reproductions, all met on 2026-09-04 while repairing the flatten. None of them writes anything inside the checkout.\n\n" +
-     "1. A heredoc body carrying `>>>>>>> new` is read as a redirect. `cat > /tmp/x/p.patch <<'EOF'` whose body holds conflict markers was refused with \"a redirect lands on `>>>>>` , inside the akasha folder\". The markers are data being written to a file outside the checkout; the shell never parses a quoted heredoc body.\n\n" +
+-    "Six reproductions, all met on 2026-09-04 while repairing the flatten. None of them writes anything inside the checkout.\n\n" +
+-    "1. A heredoc body carrying `>>>>>>> new` is read as a redirect. `cat > /tmp/x/p.patch <<'EOF'` whose body holds conflict markers was refused with \"a redirect lands on `>>>>>` , inside the akasha folder\". The markers are data being written to a file outside the checkout; the shell never parses a quoted heredoc body.\n\n" +
+-    '2. A heredoc body carrying `2>&1` is read as a redirect target. Writing a shell script whose text holds `akasha test --file-path "$f" > "$OUT/$n.log" 2>&1` was refused with "a redirect lands on `2>&1`, inside the akasha folder". Same class as 1: the body is written, not run.\n\n' +
++    "Four reproductions, met on 2026-09-04 while repairing the flatten, numbered as they were first filed. None of them writes anything inside the checkout.\n\n" +
++    "1 and 2 were a heredoc body read as a redirect, one carrying `>>>>>>> new` and one carrying `2>&1`. Both are fixed: `pastHeredocs` takes a body out from the line opening it to the line ending it, keeps the opening line so a redirect there is still read, and takes nothing out where the text never ends the body.\n\n" +
+     '3. A variable in a redirect target is refused unexpanded. `... > "$SP/owed3.txt"` was refused as landing on `$SP/owed3.txt` "inside the akasha folder", where `SP` held a path under `/tmp`. Spelling the same path in full was admitted, so the refusal rests on the text of the target rather than on where it lands.\n\n' +
+     "4. A relative path is resolved against the process directory rather than the one the command runs in. `cd /tmp/.../scratchpad && sed -i '...' scan2.mjs` was refused as landing on `scan2.mjs` \"inside the akasha folder\". The file is under `/tmp`; only the process directory made it look otherwise.\n\n" +
+     '5. `bun` naming a path in the checkout as an argument is refused, whether or not it writes. `bun -e \'import("<a path in the checkout>")...\'` was refused with "a program\'s own text is not read here, so a write through it is not parted from a read, and naming the path at all is what is refused". This blocks a read-only probe, which is what it blocked: the call was a control proving an import fails, and it had to be dropped.\n\n' +
