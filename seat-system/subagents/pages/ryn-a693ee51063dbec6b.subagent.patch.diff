@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/service-system/web-apps/web-app.page-type.ts b/service-system/web-apps/web-app.page-type.ts
+index ce5bfabcde535708083b107e9172eed8da44851a..73348eabd1981f7074206fe14121e77e7cdc4579 100644
+--- a/service-system/web-apps/web-app.page-type.ts
++++ b/service-system/web-apps/web-app.page-type.ts
+@@ -44,7 +44,8 @@ export const webApp = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the cluster runs for a web app is stated on the cluster service's page.",
++      statement:
++        "The workload the cluster runs for a web app is stated on the cluster service's page.",
+     },
+     {
+       invariantKind: "departure",
