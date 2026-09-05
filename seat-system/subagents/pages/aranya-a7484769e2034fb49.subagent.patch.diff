@@ -206,17 +206,22 @@ index 0000000000000000000000000000000000000000..76193fee114f0a59a0c9c2028ce9a4ae
 +  ]
 +}
 diff --git a/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff b/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff
-index d7693057ed3723ef1f3cca04707453ec3daa06b0..085db1fe8c2d323b8624b99619b3bc4cfaa8aeac 100644
+index 761fe642cd977ef43d0eb00ee7b6bc6eb77e3b77..b71e9bfdb0d51645660ac110584bde3c199fa876 100644
 --- a/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff
 +++ b/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff
-@@ -7,6 +7,6 @@ index 74ed7f0a9ea5922f1d9f6adc2cb1877fcb1fd4a1..ad0e40e57cd6e86e917fef59ba178866
+@@ -433,8 +433,12 @@ index 74ed7f0a9ea5922f1d9f6adc2cb1877fcb1fd4a1..543db43b2aa27fe0d8a07e7def4fc1e9
     replicas: 1,
     containerPort: 5432,
  -  manifestCode:
---    "service-system/cluster-services/pages/pgbouncer/pgbouncer.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +-    "infrastructure/databases/pgbouncer/pgbouncer.manifest.code.ts",
++=======
+ -    "service-system/cluster-services/pages/pgbouncer/pgbouncer.cluster-service.code.attachment.ts",
+ +<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
  +  manifestSlug: "pgbouncer",
-  } as const satisfies ClusterService
+ +=======
+ +  manifestCode: "infrastructure/databases/pgbouncer/pgbouncer.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/pgbouncer/pgbouncer.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/pgbouncer/pgbouncer.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 76193fee114f0a59a0c9c2028ce9a4ae1ad84650..0000000000000000000000000000000000000000
@@ -425,18 +430,14 @@ index 76193fee114f0a59a0c9c2028ce9a4ae1ad84650..00000000000000000000000000000000
 -  ]
 -}
 diff --git a/service-system/cluster-services/pages/pgbouncer/pgbouncer.cluster-service.ts b/service-system/cluster-services/pages/pgbouncer/pgbouncer.cluster-service.ts
-index 74ed7f0a9ea5922f1d9f6adc2cb1877fcb1fd4a1..543db43b2aa27fe0d8a07e7def4fc1e9bbfae42f 100644
+index 74ed7f0a9ea5922f1d9f6adc2cb1877fcb1fd4a1..ad0e40e57cd6e86e917fef59ba17886675263c0d 100644
 --- a/service-system/cluster-services/pages/pgbouncer/pgbouncer.cluster-service.ts
 +++ b/service-system/cluster-services/pages/pgbouncer/pgbouncer.cluster-service.ts
-@@ -11,6 +11,9 @@ export const pgbouncer = {
+@@ -11,6 +11,5 @@ export const pgbouncer = {
    image: "edoburu/pgbouncer:v1.25.1-p0",
    replicas: 1,
    containerPort: 5432,
 -  manifestCode:
 -    "service-system/cluster-services/pages/pgbouncer/pgbouncer.cluster-service.code.attachment.ts",
-+<<<<<<< what this change would leave
 +  manifestSlug: "pgbouncer",
-+=======
-+  manifestCode: "infrastructure/databases/pgbouncer/pgbouncer.manifest.code.ts",
-+>>>>>>> what HEAD holds
  } as const satisfies ClusterService
