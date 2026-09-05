@@ -1,4 +1,5 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { AKASHA as AKASHA_REPO, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 export interface EmailMessage {
   readonly id: string
@@ -9,14 +10,16 @@ export interface EmailMessage {
 
 const FETCH_WIDTH = 8
 
-export async function ops(args: readonly string[]): Promise<string> {
-  const child = Bun.spawn(["ops", ...args], { stdout: "pipe", stderr: "pipe" })
+const AKASHA_BIN = `${rootFor(resolveRoots(), AKASHA_REPO)}/dotfiles/bin/akasha`
+
+async function runAkasha(args: readonly string[]): Promise<string> {
+  const child = Bun.spawn([AKASHA_BIN, ...args], { stdout: "pipe", stderr: "pipe" })
   const [out, err, code] = await Promise.all([
     new Response(child.stdout).text(),
     new Response(child.stderr).text(),
     child.exited,
   ])
-  if (code !== 0) throw new Error(`ops ${args.join(" ")} exited ${code}\n${err.trim()}`)
+  if (code !== 0) throw new Error(`akasha ${args.join(" ")} exited ${code}\n${err.trim()}`)
   return out
 }
 
@@ -27,7 +30,7 @@ export async function cachedMessages(options: {
 }): Promise<readonly EmailMessage[]> {
   mkdirSync(options.cacheDir, { recursive: true })
   const listed = JSON.parse(
-    await ops(["email", "messages", "list", "--query", options.query, "--max", "500"])
+    await runAkasha(["email-messages-list", "--query", options.query, "--max", "500"])
   ) as { id: string }[]
   const ids = listed.map((m) => m.id)
   const wanted = ids.filter((id) => !existsSync(`${options.cacheDir}/${id}.json`))
@@ -37,7 +40,7 @@ export async function cachedMessages(options: {
       wanted.slice(at, at + FETCH_WIDTH).map(async (id) => {
         writeFileSync(
           `${options.cacheDir}/${id}.json`,
-          await ops(["email", "messages", "get", "--message", id])
+          await runAkasha(["email-messages-get", "--message", id])
         )
       })
     )
