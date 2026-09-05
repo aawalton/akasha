@@ -21,10 +21,5 @@ export const mappingGeneratorWrites = {
       invariantKind: "departure",
       statement: "Every mapping render lands under one destination.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "A render that throws names the file that render was rendering rather than failing alone.",
-    },
   ],
 } as const satisfies Module

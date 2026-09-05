@@ -9,11 +9,6 @@ export const addonDataWritesSkills = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A render that throws names the file that render was rendering rather than failing alone.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A render runs when the write runs rather than when the section is built.",
     },
     {
