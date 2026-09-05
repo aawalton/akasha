@@ -11,6 +11,5 @@ export const seaweedfsFiler = {
   image: "chrislusf/seaweedfs:3.73",
   replicas: 1,
   containerPort: 8888,
-  manifestCode:
-    "infrastructure/seaweedfs/filer/seaweedfs-filer.cluster-service.code.attachment.ts",
+  manifestSlug: "seaweedfs-filer",
 } as const satisfies ClusterService
