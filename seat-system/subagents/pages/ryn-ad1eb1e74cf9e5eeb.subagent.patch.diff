@@ -1,0 +1,14 @@
+diff --git a/agents/claude-accounts/modules/identity/claude-account-identity.module.ts b/agents/claude-accounts/modules/identity/claude-account-identity.module.ts
+index e013dccce9be2a417c90d18f17c8a75f0602c000..88c2017bbd2915f8581121c9f916cbc3948216a6 100644
+--- a/agents/claude-accounts/modules/identity/claude-account-identity.module.ts
++++ b/agents/claude-accounts/modules/identity/claude-account-identity.module.ts
+@@ -40,7 +40,8 @@ export const claudeAccountIdentity = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A claude-account pinned to no upstream account takes the one it resolves to.",
++      statement:
++        "A claude-account pinned to no upstream account takes the one that claude-account resolves to.",
+     },
+     {
+       invariantKind: "departure",
