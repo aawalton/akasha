@@ -30,7 +30,8 @@ export const sessionRows = {
     },
     {
       invariantKind: "departure",
-      statement: "A level reading answers with the levels or with what refused those levels.",
+      statement:
+        "A level reading answers with the levels or with the reasons those levels were refused.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +43,8 @@ export const sessionRows = {
     },
     {
       invariantKind: "departure",
-      statement: "A relationship reading answers with the ids or with what refused those ids.",
+      statement:
+        "A relationship reading answers with the ids or with the reasons those ids were refused.",
     },
     {
       invariantKind: "departure",
