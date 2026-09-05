@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/infrastructure-commands/talos-secrets-gen/talos-secrets-gen.command.ts b/infrastructure/infrastructure-commands/talos-secrets-gen/talos-secrets-gen.command.ts
+index 09b7bc520af13e8eef5e26d71334a1228243664a..3c3b04c7a8a617775feef120cc70da50aeae001f 100644
+--- a/infrastructure/infrastructure-commands/talos-secrets-gen/talos-secrets-gen.command.ts
++++ b/infrastructure/infrastructure-commands/talos-secrets-gen/talos-secrets-gen.command.ts
+@@ -44,7 +44,7 @@ export const talosSecretsGen = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here writes the bundle unencrypted where it is kept.",
++      statement: "Nothing here writes the bundle unencrypted where that bundle is kept.",
+     },
+     {
+       invariantKind: "absence",
