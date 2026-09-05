@@ -1,5 +1,5 @@
 diff --git a/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.ts b/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.ts
-index 406ec99c7a026b87e79a789cd8d26e581840b032..e1c2fe876b292b2a4f1707b1d758a6d6f472c8ec 100644
+index 406ec99c7a026b87e79a789cd8d26e581840b032..fbc88c668566827e705524854daea7b6d8f98288 100644
 --- a/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.ts
 +++ b/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.ts
 @@ -9,7 +9,7 @@ export const recipientResolverRunning = {
@@ -27,3 +27,13 @@ index 406ec99c7a026b87e79a789cd8d26e581840b032..e1c2fe876b292b2a4f1707b1d758a6d6
      },
      {
        invariantKind: "departure",
+@@ -38,7 +40,8 @@ export const recipientResolverRunning = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "It runs until stopped, and a stop ends the loop at its next boundary.",
++      statement:
++        "The recipient resolver runs until stopped, and a stop ends the loop at its next boundary.",
+     },
+   ],
+ } as const satisfies Module
