@@ -1583,3 +1583,11 @@ index 411f8cef9113d04a7a38f464d3fa65a07f1089f3..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-trading-addon
 \ No newline at end of file
+diff --git a/temper/temper-trading-listings/temper-trading-listings b/temper/temper-trading-listings/temper-trading-listings
+deleted file mode 120000
+index a01e8e0f670cb790d54e58adb00bce280fc083fd..0000000000000000000000000000000000000000
+--- a/temper/temper-trading-listings/temper-trading-listings
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-trading-listings
+\ No newline at end of file
