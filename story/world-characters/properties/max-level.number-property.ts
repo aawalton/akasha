@@ -12,7 +12,8 @@ export const maxLevel = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The highest level is what the text states rather than what a tally reaches.",
+      statement:
+        "The highest level is the level the text states rather than the number a tally reaches.",
     },
     {
       invariantKind: "departure",
