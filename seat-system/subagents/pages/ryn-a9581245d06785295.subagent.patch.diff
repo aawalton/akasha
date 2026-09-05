@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/agree/monarch-agree.module.ts b/alan/harness/monarch/agree/monarch-agree.module.ts
+index 29fb43cd08805469030dee81e8f60caf5cb01a6a..dca2bf830a3a615f5dca08a277c7c3ee303f8208 100644
+--- a/alan/harness/monarch/agree/monarch-agree.module.ts
++++ b/alan/harness/monarch/agree/monarch-agree.module.ts
+@@ -20,7 +20,7 @@ export const monarchAgree = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every claim is said as it is weighed rather than only at the end.",
++      statement: "Every claim is said as that claim is weighed rather than only at the end.",
+     },
+     {
+       invariantKind: "departure",
