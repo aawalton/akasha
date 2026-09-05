@@ -10,7 +10,7 @@ export const readoutBody = {
     {
       invariantKind: "departure",
       statement:
-        "The wire shape belongs to every readout rather than to the one that first had it.",
+        "The wire shape belongs to every readout rather than to the one that first had that shape.",
     },
     {
       invariantKind: "departure",
