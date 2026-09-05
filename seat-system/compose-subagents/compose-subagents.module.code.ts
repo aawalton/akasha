@@ -1,6 +1,5 @@
-import { existsSync, readFileSync, writeFileSync } from "node:fs"
+import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { fail } from "@akasha/command-system/command-failing"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { besideAt } from "../../pages/file-name/page-file-name.module.code.ts"
 import { everyOfType, type Listed } from "../../pages/indexes/reading/index-reading.module.code.ts"
@@ -21,41 +20,13 @@ const MODEL = "model"
 
 const DEFINITION = "definition"
 
-const HELP = `compose-subagents — render the delegate definitions the client takes
-
-Every \`${PAGE_TYPE}\` page there is, as the JSON object the client's \`--agents\` flag takes:
-a map of the name a seat dispatches by to its definition, its prompt, and the model it runs on
-where it states one.
-
-A kind's definition is what a dispatcher reads to choose, so the definition the page states is
-what lands in the map. A kind's prompt is the whole of what its subagent starts with, and it
-sits in the \`${PROMPT_SLUG}\` file beside the page rather than in the page.
-
-Usage:
-  bun seat-system/compose-subagents/compose-subagents.module.code.ts [--out <path>]
-
-Flags:
-  --out <path>   Write there rather than to stdout.
-  --help         This.
-`
-
-function parse(argv: readonly string[]): { readonly out: string | null } {
-  let out: string | null = null
-  for (let i = 0; i < argv.length; i += 1) {
-    const arg = argv[i]
-    if (arg === "--help") {
-      process.stdout.write(HELP)
-      process.exit(0)
-    }
-    if (arg === "--out") {
-      const value = argv[i + 1]
-      if (value === undefined) fail("`--out` takes a value")
-      i += 1
-      out = value
-    } else fail(`\`${arg}\` is not an argument this takes — run it with --help`)
-  }
-  return { out }
-}
+// Every `subagent-kind` page there is, as the JSON object the client's `--agents` flag takes: a map
+// of the name a seat dispatches by to its definition, its prompt, and the model it runs on where it
+// states one.
+//
+// A kind's definition is what a dispatcher reads to choose, so the definition the page states is
+// what lands in the map. A kind's prompt is the whole of what its subagent starts with, and it sits
+// in the `subagent-prompt` file beside the page rather than in the page.
 
 export type Definition = { description: string; prompt: string; model?: string }
 
@@ -143,18 +114,3 @@ export function everyKind(): Readonly<Record<string, Definition>> {
     [...listed].sort((one, two) => (one.path < two.path ? -1 : 1))
   )
 }
-
-function main(): void {
-  const { out } = parse(process.argv.slice(2))
-  let definitions: Readonly<Record<string, Definition>>
-  try {
-    definitions = everyKind()
-  } catch (error) {
-    fail(error instanceof Error ? error.message : String(error))
-  }
-  const json = `${JSON.stringify(definitions, null, 2)}\n`
-  if (out === null) process.stdout.write(json)
-  else writeFileSync(out, json)
-}
-
-if (import.meta.main) main()
