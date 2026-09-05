@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts b/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts
-index 8c42af62b0b846a93bca5f75a5b8bbd55ac025f5..4ecc7f78e55efd1b4dbf7f45d8121a5543bb726c 100644
+index 8c42af62b0b846a93bca5f75a5b8bbd55ac025f5..b89beb780df9fbe24f14ab6adf46e4bbf0e115d3 100644
 --- a/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts
 +++ b/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts
 @@ -9,7 +9,8 @@ export const violationReporting = {
@@ -10,6 +10,15 @@ index 8c42af62b0b846a93bca5f75a5b8bbd55ac025f5..4ecc7f78e55efd1b4dbf7f45d8121a55
 -      statement: "A run that certifies nothing says so before that run says what that run found.",
 +      statement:
 +        "A run that certifies nothing says so before that run says the violations that run found.",
+     },
+     {
+       invariantKind: "departure",
+@@ -48,7 +49,7 @@ export const violationReporting = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Violations are grouped only where the caller says what to group those violations by.",
++        "Violations are grouped only where the caller says the key to group those violations by.",
      },
      {
        invariantKind: "departure",
