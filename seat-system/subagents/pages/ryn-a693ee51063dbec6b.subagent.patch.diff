@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/alan/harness/monarch/report/monarch-report.module.ts b/alan/harness/monarch/report/monarch-report.module.ts
-index 978c721bbd2c5e2f268de57c9f88f83c493928b6..d295eabbc29f5611fcc44734f156eb9a6ee64381 100644
+index 978c721bbd2c5e2f268de57c9f88f83c493928b6..c5ed176dbd17e6022f0c283599b0908249c975a6 100644
 --- a/alan/harness/monarch/report/monarch-report.module.ts
 +++ b/alan/harness/monarch/report/monarch-report.module.ts
 @@ -9,7 +9,7 @@ export const monarchReport = {
@@ -9,6 +9,15 @@ index 978c721bbd2c5e2f268de57c9f88f83c493928b6..d295eabbc29f5611fcc44734f156eb9a
        invariantKind: "departure",
 -      statement: "Nothing is written; the report says what would happen and stops.",
 +      statement: "Nothing is written; the report says the effect the rules would have and stops.",
+     },
+     {
+       invariantKind: "departure",
+@@ -39,7 +39,7 @@ export const monarchReport = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What no rule reached is reported by merchant as evidence rather than as a proposal.",
++        "A transaction no rule reached is reported by merchant as evidence rather than as a proposal.",
      },
      {
        invariantKind: "departure",
