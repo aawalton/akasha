@@ -4743,14 +4743,18 @@ index 0000000000000000000000000000000000000000..c381f5fccd2ca3f0db809ef7c3efe24a
 +  ],
 +} as const satisfies Module
 diff --git a/infrastructure/upscale/upscale.workspace-package.ts b/infrastructure/upscale/upscale.workspace-package.ts
-index 043337108d1d1217a68fbfa8ba66348b305e24b4..53c637c864649e214fd9c6bb21f7c6b55384dc89 100644
+index 043337108d1d1217a68fbfa8ba66348b305e24b4..c890fee68a354e98fed5e4489ed531180c67804e 100644
 --- a/infrastructure/upscale/upscale.workspace-package.ts
 +++ b/infrastructure/upscale/upscale.workspace-package.ts
-@@ -11,7 +11,6 @@ export const upscale = {
+@@ -11,7 +11,10 @@ export const upscale = {
      "container-recipe/upscale-image",
      "module/upscale-bench-synth",
      "module/upscale-cluster",
 -    "manifest/upscale-serving-job",
++<<<<<<< what this change would leave
++=======
++    "module/upscale-serving-job",
++>>>>>>> what HEAD holds
      "module/upscale-workstation",
      "python-module/upscale-srpo-graph",
      "shell-script/upscale-bench-runner",
