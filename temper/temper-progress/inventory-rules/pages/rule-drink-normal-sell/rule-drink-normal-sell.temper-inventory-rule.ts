@@ -7,14 +7,14 @@ export const ruleDrinkNormalSell = {
   title: "Sell basic drinks",
   description:
     "Sells normal (white) quality non-crafted drinks. Crafted and higher-quality drinks are kept.",
+  goal: "sell",
+  conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "drink",
   displayOrder: 73,
   action: "sell",
   active: true,
   updatedAt: "2026-07-05T12:17:47.953Z",
-  goal: "sell",
   locked: true,
   fromTemplate: "drink-normal-sell",
-  conditions: "jsonl",
 } as const satisfies TemperInventoryRule
