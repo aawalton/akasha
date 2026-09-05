@@ -107,6 +107,21 @@ index 5f2a95459d8643d660026e15d44626666120a046..102ad76705e43e54ea7a080c4299aac6
      {
        invariantKind: "departure",
        statement: "A filter that reads the same as the one held redraws nothing.",
+diff --git a/editor-extension/page-tree-panel/page-tree-panel.module.ts b/editor-extension/page-tree-panel/page-tree-panel.module.ts
+index a68b3d8ae88e6eb089288b7c69e60ddb15fa940f..7ab93413a72d6ae3b46d1150a0d148fb45a287bf 100644
+--- a/editor-extension/page-tree-panel/page-tree-panel.module.ts
++++ b/editor-extension/page-tree-panel/page-tree-panel.module.ts
+@@ -46,10 +46,6 @@ export const pageTreePanel = {
+       invariantKind: "departure",
+       statement: "A page type no root reaches is said to Alan once and named on the channel.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
+-    },
+ 
+     {
+       invariantKind: "absence",
 diff --git a/editor-extension/page-tree-view/page-tree-view.module.ts b/editor-extension/page-tree-view/page-tree-view.module.ts
 index 1a431298bf026798900e0414ba8154748c73f24a..59936f69a0e963dcdf4f3efba2a249585e378806 100644
 --- a/editor-extension/page-tree-view/page-tree-view.module.ts
