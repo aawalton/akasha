@@ -32,11 +32,6 @@ export const temperHudAddon = {
     {
       invariantKind: "departure",
       statement:
-        "Another add-on reaches the heads-up add-on through the global rather than by an import.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
         "The parts of the HUD the heads-up add-on hides are read from `temper-hud-components`.",
     },
     {
