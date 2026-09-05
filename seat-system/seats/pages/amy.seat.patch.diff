@@ -1,0 +1,62 @@
+diff --git a/editor-extension/transcript-view/transcript-view.module.code.ts b/editor-extension/transcript-view/transcript-view.module.code.ts
+index 249036071345ba02828383cddacdc26461d92969..7f6ca455fc7a9a9768842bf5c657bbb02eaf189b 100644
+--- a/editor-extension/transcript-view/transcript-view.module.code.ts
++++ b/editor-extension/transcript-view/transcript-view.module.code.ts
+@@ -1,6 +1,7 @@
+ import { type FSWatcher, watch } from "node:fs"
+ import { basename, dirname, join } from "node:path"
+ import * as vscode from "vscode"
++import { newestWins } from "../newest-wins/newest-wins.module.code.ts"
+ import { renderEntries } from "../transcript-drawing/transcript-drawing.module.code.ts"
+ import type { Entry } from "../transcript-model/transcript-model.module.code.ts"
+ import {
+@@ -184,14 +185,6 @@ export function openTranscriptPanel(
+     return undefined
+   }
+ 
+-  let reading: Promise<undefined> | undefined
+-
+-  // A WRITE ARRIVING MID-READ IS READ FOR RATHER THAN DROPPED. Appends land in bursts, so waiting
+-  // on the read in flight and returning would lose whatever arrived while it ran, and the panel
+-  // would sit behind the file until the next write. Asking again once the read finishes is what
+-  // makes the last append the one on screen, and it costs nothing where no write arrived.
+-  let again = false
+-
+   const runOnce = async (): Promise<undefined> => {
+     try {
+       await readOnce()
+@@ -201,27 +194,13 @@ export function openTranscriptPanel(
+     return undefined
+   }
+ 
+-  const tick = async (): Promise<undefined> => {
+-    if (reading !== undefined) {
+-      again = true
+-      return undefined
+-    }
+-    const started = (async (): Promise<undefined> => {
+-      await runOnce()
+-      while (again) {
+-        again = false
+-        await runOnce()
+-      }
+-      return undefined
+-    })()
+-    reading = started
+-    try {
+-      await started
+-    } finally {
+-      reading = undefined
+-    }
+-    return undefined
+-  }
++  // A WRITE ARRIVING MID-READ IS READ FOR RATHER THAN DROPPED. Appends land in bursts, so waiting
++  // on the read in flight and returning would lose whatever arrived while it ran, and the panel
++  // would sit behind the file until the next write. The rule was spelled here and again in two
++  // other panels, and both of those spellings dropped what arrived; it is one module now.
++  const reading = newestWins<undefined>(runOnce)
++
++  const tick = (): Promise<undefined> => reading(undefined)
+ 
+   void tick()
+   panel.onDidDispose(
