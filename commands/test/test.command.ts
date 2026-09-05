@@ -84,8 +84,11 @@ export const test = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A named run whose output holds no failing line carries that output from its head.",
+      statement: "A named run carries what the runner printed from the head of that output.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The runner says what an assertion expected on the stream its markers are not on.",
     },
   ],
 } as const satisfies Command
