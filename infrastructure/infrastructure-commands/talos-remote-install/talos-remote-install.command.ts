@@ -68,7 +68,7 @@ export const talosRemoteInstall = {
     },
     {
       invariantKind: "departure",
-      statement: "The node answers at the address it answered at before the handover.",
+      statement: "The node answers at the address that node answered at before the handover.",
     },
     {
       invariantKind: "departure",
