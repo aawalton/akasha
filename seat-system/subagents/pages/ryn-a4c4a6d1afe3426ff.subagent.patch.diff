@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/file-parts/page-file-parts.module.ts b/pages/file-parts/page-file-parts.module.ts
+index bf31f8736da4af0c4f2ac031264f3f5e3158eb8b..13e85b84bdb978a0b6f50e38a7db57cfbcc96de8 100644
+--- a/pages/file-parts/page-file-parts.module.ts
++++ b/pages/file-parts/page-file-parts.module.ts
+@@ -26,7 +26,7 @@ export const pageFileParts = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What `partAt` puts together `heldIn` takes apart again.",
++      statement: "The name `partAt` puts together `heldIn` takes apart again.",
+     },
+     {
+       invariantKind: "departure",
