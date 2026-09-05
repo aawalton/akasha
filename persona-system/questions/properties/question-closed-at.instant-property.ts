@@ -11,7 +11,8 @@ export const questionClosedAt = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This instant is when the question closed, whether it was answered or let go.",
+      statement:
+        "This instant is when the question closed, whether that question was answered or let go.",
     },
     {
       invariantKind: "departure",
