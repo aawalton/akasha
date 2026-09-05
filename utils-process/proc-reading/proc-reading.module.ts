@@ -19,7 +19,8 @@ export const procReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A process ending while it is being read is a process that will not open.",
+      statement:
+        "A process ending while that process is being read is a process that will not open.",
     },
     {
       invariantKind: "departure",
