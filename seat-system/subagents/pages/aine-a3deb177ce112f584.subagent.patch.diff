@@ -161,7 +161,7 @@ index 596c42f33558dc187573bb890edfb9d611f68d16..5a56133a334df5f71e638578a3032c85
    ],
  } as const satisfies Module
 diff --git a/command-system/scratching/scratching.module.ts b/command-system/scratching/scratching.module.ts
-index 5aa70eab84b66c029065be3580d89f05f5cd424b..07e34fc2c3683df82db5b636fdb8ccac83313624 100644
+index 5aa70eab84b66c029065be3580d89f05f5cd424b..0f8dcf9c33cfee4f0182acac9d0cc91adc8a1ca4 100644
 --- a/command-system/scratching/scratching.module.ts
 +++ b/command-system/scratching/scratching.module.ts
 @@ -5,7 +5,7 @@ export const scratching = {
@@ -188,6 +188,15 @@ index 5aa70eab84b66c029065be3580d89f05f5cd424b..07e34fc2c3683df82db5b636fdb8ccac
        invariantKind: "departure",
 -      statement: "A scratch root stands under `/var/tmp` named here and never asked of the system.",
 +      statement: "A scratch root sits under `/var/tmp` named here and never asked of the system.",
+     },
+     {
+       invariantKind: "departure",
+@@ -46,7 +46,7 @@ export const scratching = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The place scratch stands in is spelled once here.",
++      statement: "The place scratch sits in is spelled once here.",
      },
      {
        invariantKind: "departure",
