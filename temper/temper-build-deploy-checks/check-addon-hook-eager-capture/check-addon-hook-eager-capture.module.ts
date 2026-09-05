@@ -9,7 +9,7 @@ export const checkAddonHookEagerCapture = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "The population this run states is the code the roster's add-ons hold.",
+      statement: "The population the run states is the code the roster's add-ons hold.",
     },
     {
       invariantKind: "constraint",

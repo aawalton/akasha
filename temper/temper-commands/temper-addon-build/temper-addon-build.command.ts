@@ -70,7 +70,7 @@ export const temperAddonBuild = {
     },
     {
       invariantKind: "departure",
-      statement: "An addon's build output is emptied before that addon is compiled.",
+      statement: "An addon's build output is emptied before the addon is compiled.",
     },
     {
       invariantKind: "departure",

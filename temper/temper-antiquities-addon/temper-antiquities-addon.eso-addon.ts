@@ -64,7 +64,7 @@ export const temperAntiquitiesAddon = {
     },
     {
       invariantKind: "departure",
-      statement: "The lead window is the first thing this add-on carries.",
+      statement: "The lead window is the first thing the add-on carries.",
     },
     {
       invariantKind: "departure",

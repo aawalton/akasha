@@ -10,7 +10,7 @@ export const checkAddonOrphanXmlHandler = {
     {
       invariantKind: "constraint",
       statement:
-        "The population this run states is the code and the markup the roster's add-ons hold.",
+        "The population the run states is the code and the markup the roster's add-ons hold.",
     },
     {
       invariantKind: "constraint",
