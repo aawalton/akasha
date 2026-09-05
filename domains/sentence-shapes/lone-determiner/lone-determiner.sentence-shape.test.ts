@@ -65,3 +65,22 @@ test("a relative that is passed over", () => {
   ])
   expect(loneDeterminer(said)).toEqual([])
 })
+
+test("a relative that is passed over whatever its clause is labelled", () => {
+  const said = sentenceOf([
+    ["thing", "NOUN", 0, "root"],
+    ["that", "PRON", 3, "nsubj"],
+    ["renews", "VERB", 1, "advcl:relcl"],
+  ])
+  expect(loneDeterminer(said)).toEqual([])
+})
+
+test("a that led by a conjunction points at what came before and is found", () => {
+  const said = sentenceOf([
+    ["whether", "SCONJ", 4, "mark"],
+    ["that", "PRON", 4, "nsubj"],
+    ["is", "AUX", 4, "cop"],
+    ["safe", "ADJ", 0, "root"],
+  ])
+  expect(loneDeterminer(said)).toEqual([{ at: [2] }])
+})
