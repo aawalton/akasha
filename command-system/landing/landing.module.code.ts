@@ -47,6 +47,7 @@ export type Refused = {
 
 export type Drafting = {
   readonly page: string
+  readonly mechanical?: boolean
 }
 
 export type Drafted = {
@@ -296,12 +297,13 @@ function draftedBy(
   asRead: readonly AsRead[],
   drafts: readonly Draft[],
   paths: readonly string[],
-  refused: readonly Judged[]
+  refused: readonly Judged[],
+  mechanical: boolean
 ): Drafted | Refused {
   const base = baseOf(root)
   const stale = unfresh(root, named, base, changes, asRead, AGAIN_DRAFTED)
   if (stale !== null) return stale
-  const said = draftedOnto(root, page, drafts)
+  const said = draftedOnto(root, page, drafts, mechanical)
   if ("why" in said) return { refusals: [said.why, KEPT_AS_IT_WAS] }
   return {
     base,
@@ -391,7 +393,8 @@ export async function landing(
       asRead,
       drafts,
       edits.map((one) => one.path).sort(),
-      said
+      said,
+      drafting.mechanical === true
     )
   }
   if (said.length > 0) {

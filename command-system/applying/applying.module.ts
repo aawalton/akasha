@@ -114,6 +114,18 @@ export const applying = {
       statement: "Nothing is applied where no patch is kept.",
     },
     {
+      invariantKind: "departure",
+      statement: "An apply over a patch that is mechanical runs no check.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Why no check ran is said in the commit the apply makes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply over a patch that is not mechanical is judged as any authored apply is.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here takes the hold.",
     },

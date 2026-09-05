@@ -189,6 +189,15 @@ export const asking = {
         "A body holding a page's text in a template is no page and is judged for no export name.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A mechanical change under an agent id is drafted into that agent's patch rather than landed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A mechanical change under no agent id is landed rather than drafted.",
+    },
+    {
       invariantKind: "gap",
       statement: "A caller is never told nothing happened when something did.",
     },

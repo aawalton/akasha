@@ -20,6 +20,10 @@ export const patch = {
     },
     {
       invariantKind: "departure",
+      statement: "A line before the first diff header is no part of the diff git reads.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A patch states no base of its own.",
     },
     {

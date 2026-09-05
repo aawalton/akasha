@@ -31,6 +31,8 @@ export const APPLIED = "goes; the patch it held is applied"
 
 export const DROPPED = "goes; the patch it held is dropped"
 
+const MECHANICAL_AT = "Akasha-mechanical: true"
+
 export type Draft = {
   readonly path: string
   readonly was: Uint8Array | null
@@ -181,18 +183,28 @@ function changesOf(held: Held): readonly Change[] {
   return [...held].map(([path, one]) => ({ path, body: one.body }))
 }
 
-function keptFrom(root: string, at: string, head: string, held: Held): Kept {
+export function mechanicalIn(patch: string | null): boolean {
+  return patch !== null && patch.startsWith(`${MECHANICAL_AT}\n`)
+}
+
+function keptFrom(root: string, at: string, head: string, held: Held, mechanical: boolean): Kept {
   const next = patchOf(root, head, changesOf(held))
   const clashed = clashedIn(held)
   if (next === "") {
     dropBlobs(root, at)
     return { patch: null, clashed }
   }
-  keepBlobs(root, at, next)
-  return { patch: next, clashed }
+  const text = mechanical ? `${MECHANICAL_AT}\n${next}` : next
+  keepBlobs(root, at, text)
+  return { patch: text, clashed }
 }
 
-export function drafted(root: string, page: string, drafts: readonly Draft[]): Drafted {
+export function drafted(
+  root: string,
+  page: string,
+  drafts: readonly Draft[],
+  mechanical = false
+): Drafted {
   const at = patchAt(page)
   if (at === null) return { why: NO_PAGE }
   const head = headOf(root)
@@ -208,7 +220,8 @@ export function drafted(root: string, page: string, drafts: readonly Draft[]): D
       answer = then
       return patch
     }
-    const kept = keptFrom(root, at, head, then.held)
+    const still = mechanical && (patch === null || mechanicalIn(patch))
+    const kept = keptFrom(root, at, head, then.held, still)
     answer = kept
     return kept.patch
   })
@@ -228,7 +241,7 @@ export function tookIn(root: string, page: string, from: string): Drafted {
   if (theirs === null) return { patch: patchIn(root, page), clashed: [] }
   const said = rebasedOnto(root, headOf(root), theirs)
   if ("why" in said) return said
-  const took = drafted(root, page, draftsOf(said.held))
+  const took = drafted(root, page, draftsOf(said.held), mechanicalIn(theirs))
   if ("why" in took) return took
   droppedPatch(root, from, `goes; the patch it held went to ${page}`)
   return took
@@ -252,7 +265,7 @@ export function resolved(root: string, page: string, path: string, body: Uint8Ar
     }
     const next: Held = new Map(first.held)
     next.set(path, { was: had.was, body })
-    const kept = keptFrom(root, at, head, next)
+    const kept = keptFrom(root, at, head, next, false)
     answer = kept
     return kept.patch
   })

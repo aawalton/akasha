@@ -1,13 +1,15 @@
 import { patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import type { Judging } from "@akasha/checks/judging"
 import { said as gitSaid } from "@akasha/git/git-running"
-import { formattingIn } from "../asking/asking.module.code.ts"
+import { bypassedIn, formattingIn, MECHANICAL, noCheckSaid } from "../asking/asking.module.code.ts"
 import {
   APPLIED,
   type Bodies,
   droppedPatch,
+  mechanicalIn,
   rebasedOnto,
 } from "../drafting/drafting.module.code.ts"
+import { NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import { type FileEdit, landing, type Refused } from "../landing/landing.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
 
@@ -90,10 +92,13 @@ export async function applied(
       ],
     }
   }
+  const mechanical = mechanicalIn(patch)
+  const gate = mechanical ? NO_GATE : judging
+  const said0 = mechanical ? bypassedIn(message, noCheckSaid(MECHANICAL.slug)) : message
   const formatting = formattingIn(root, editsOf(said.held))
   if (agentId !== null) warrantedAgain(root, agentId, said.held, said.moved)
   const asRead = agentId === null ? [] : asReadOf(root, agentId, said.held)
-  const done = await landing(root, formatting.changes, message, judging, writer, head, asRead, [])
+  const done = await landing(root, formatting.changes, said0, gate, writer, head, asRead, [])
   if ("refusals" in done) return done
   if (agentId !== null) recordedAsLanded(root, agentId, formatting.changes)
   droppedPatch(root, page, APPLIED)

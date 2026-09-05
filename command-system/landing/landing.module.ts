@@ -265,5 +265,9 @@ export const landing = {
       invariantKind: "departure",
       statement: "A draft answers which paths the patch carries a conflict at.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A draft says whether the change drafted into the patch was mechanical.",
+    },
   ],
 } as const satisfies Module

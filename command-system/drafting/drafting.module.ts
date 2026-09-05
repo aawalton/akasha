@@ -192,5 +192,38 @@ export const drafting = {
       invariantKind: "absence",
       statement: "No check judges the body of a patch file.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A patch carries whether every change drafted into that patch was mechanical.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A patch a mechanical change opens is mechanical.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An authored change drafted into a patch leaves that patch no longer mechanical.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body resolved leaves the patch no longer mechanical.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A patch no longer mechanical is mechanical again for no later change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether a patch is mechanical is one line before the first diff header.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A patch that is not mechanical carries no line before the first diff header.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A patch taken in from another agent is mechanical only where that agent's patch was mechanical.",
+    },
   ],
 } as const satisfies Module
