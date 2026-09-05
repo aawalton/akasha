@@ -35,7 +35,7 @@ export const webAppBuilding = {
     {
       invariantKind: "departure",
       statement:
-        "Whether a tree installs is asked of the manifests it tracks rather than of the worktree.",
+        "Whether a tree installs is asked of the manifests that tree tracks rather than of the worktree.",
     },
     {
       invariantKind: "departure",
@@ -122,7 +122,7 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "gap",
-      statement: "A build is made somewhere other than the pod that serves it.",
+      statement: "A build is made somewhere other than the pod that serves that build.",
     },
   ],
 } as const satisfies Module
