@@ -1,0 +1,14 @@
+diff --git a/reminder-system/reminder-system.workspace-package.ts b/reminder-system/reminder-system.workspace-package.ts
+index 8e39a8c18458d7cad6a360a6e92d4e56a28c9a99..88a31f0227dfc0c61edc5a032d5bc4c78dcd2992 100644
+--- a/reminder-system/reminder-system.workspace-package.ts
++++ b/reminder-system/reminder-system.workspace-package.ts
+@@ -20,9 +20,5 @@ export const reminderSystem = {
+       invariantKind: "departure",
+       statement: "The service sending a reminder reads that reminder off the index.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "When a reminder is next sent is kept beside its page rather than in the commit.",
+-    },
+   ],
+ } as const satisfies WorkspacePackage
