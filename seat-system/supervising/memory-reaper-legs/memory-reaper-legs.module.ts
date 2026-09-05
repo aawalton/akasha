@@ -4,7 +4,7 @@ export const memoryReaperLegs = {
   id: "01a0686c-f06b-7001-9b7d-734cdb98ac14",
   pageTypeSlug: "module",
   slug: "memory-reaper-legs",
-  definition: "whether one process or one supervisor tree stands over its memory ceiling",
+  definition: "whether one process or one supervisor tree is over its memory ceiling",
   code: "ts",
   test: "ts",
   invariants: [
@@ -18,7 +18,7 @@ export const memoryReaperLegs = {
     },
     {
       invariantKind: "departure",
-      statement: "A supervisor standing under another supervisor is no tree root of its own.",
+      statement: "A supervisor sitting under another supervisor is no tree root of its own.",
     },
     {
       invariantKind: "departure",

@@ -45,7 +45,7 @@ describe("assessMemoryKill", () => {
 })
 
 describe("selectTopmostSupervisors", () => {
-  test("drops a supervisor standing under another supervisor", () => {
+  test("drops a supervisor sitting under another supervisor", () => {
     const snapshots = [snap(10, 1, 1), snap(20, 10, 1)]
     expect(selectTopmostSupervisors([10, 20], snapshots)).toEqual([10])
   })

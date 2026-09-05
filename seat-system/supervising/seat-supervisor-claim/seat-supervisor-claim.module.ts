@@ -4,7 +4,7 @@ export const seatSupervisorClaim = {
   id: "01a0687e-533c-7000-b149-004c8b1c0b5f",
   pageTypeSlug: "module",
   slug: "seat-supervisor-claim",
-  definition: "a supervisor taking a seat, refused where another supervisor still stands in it",
+  definition: "a supervisor taking a seat, refused where another supervisor is still in it",
   code: "ts",
   test: "ts",
   invariants: [
@@ -22,12 +22,11 @@ export const seatSupervisorClaim = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat held by a process still standing refuses the claim.",
+      statement: "A seat held by a process still there refuses the claim.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A holder whose presence cannot be read is treated as standing rather than as gone.",
+      statement: "A holder whose presence cannot be read is treated as there rather than as gone.",
     },
     {
       invariantKind: "departure",

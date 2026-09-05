@@ -13,7 +13,7 @@ export const supervisorConfig = {
     },
     {
       invariantKind: "departure",
-      statement: "A symlink pointing elsewhere is replaced rather than left as it stands.",
+      statement: "A symlink pointing elsewhere is replaced rather than left as it is.",
     },
     {
       invariantKind: "departure",

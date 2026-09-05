@@ -63,7 +63,7 @@ describe("assessGlobalKill", () => {
     })
   })
 
-  test("falls back to the largest single process where no tree stands", () => {
+  test("falls back to the largest single process where no tree is there", () => {
     const out = assessGlobalKill({
       snapshots: [snap(10, 1, 5), snap(11, 1, 30)],
       supervisorPids: [],

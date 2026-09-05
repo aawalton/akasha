@@ -36,7 +36,7 @@ describe("seatBindingInArgv", () => {
     expect(seatBindingInArgv(["bun", "--agent-id", "athena"], 7, 0)).toBeNull()
   })
 
-  test("names no seat where the flag stands alone", () => {
+  test("names no seat where the flag is alone", () => {
     expect(seatBindingInArgv(["bun", "--agent-id"], 7, 0)).toBeNull()
   })
 })

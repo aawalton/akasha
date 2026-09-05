@@ -24,13 +24,13 @@ test("a seat held by a process that has gone is taken over", () => {
   ).toEqual({ kind: "took-over", goneProcess: "7-1" })
 })
 
-test("a holder still standing refuses the claim", () => {
+test("a holder still there refuses the claim", () => {
   expect(
     decideSeatSupervision({ holderProcess: "7-1", holderPresence: "present", selfProcess: SELF })
   ).toEqual({ kind: "refuse", holderProcess: "7-1", holderPresence: "present" })
 })
 
-test("a holder whose presence cannot be read is treated as standing", () => {
+test("a holder whose presence cannot be read is treated as there", () => {
   expect(
     decideSeatSupervision({ holderProcess: "7-1", holderPresence: "unknown", selfProcess: SELF })
       .kind

@@ -9,7 +9,7 @@ export const memoryReaping = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "It stands outside the fleet it polices.",
+      statement: "It sits outside the fleet it polices.",
     },
     {
       invariantKind: "departure",

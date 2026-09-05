@@ -86,7 +86,7 @@ export function claimSeatSupervision(agentId: string | null): undefined {
   if (verdict.kind === "took-over") {
     console.log(
       `${LOG} seat-supervision: agent=${agentId} was held by ${verdict.goneProcess}, which /proc ` +
-        "no longer stands for; taking it over"
+        "no longer names; taking it over"
     )
   }
 }
