@@ -24,7 +24,7 @@ export const zImageTurbo = {
     },
     {
       invariantKind: "departure",
-      statement: "Naming what fills the width prevents the doubling.",
+      statement: "Naming the content that fills the width prevents the doubling.",
     },
     {
       invariantKind: "constraint",
