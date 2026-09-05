@@ -36,11 +36,13 @@ export const reviewSession = {
     },
     {
       invariantKind: "departure",
-      statement: "A session names the persona who looked rather than what that persona looked at.",
+      statement:
+        "A session names the persona who looked rather than the part of Alan's life that persona looked at.",
     },
     {
       invariantKind: "departure",
-      statement: "A session's slug joins what was looked over to the day of the looking.",
+      statement:
+        "A session's slug joins the part of Alan's life looked over to the day of the looking.",
     },
     {
       invariantKind: "departure",
