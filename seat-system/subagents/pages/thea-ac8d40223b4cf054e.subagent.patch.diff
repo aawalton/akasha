@@ -39,6 +39,29 @@ index c30a95abce719426f8ff95ef16d1e8f4914be809..4f651b8a1593742081e24ee40efb9a6a
    return null
  }
  
+diff --git a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts
+index 5559ab07b5cbaec766054a9f6f5da1e36c668ad7..0d104c06f2bd66b18202783f33f86512bbbb8ebc 100644
+--- a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts
++++ b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts
+@@ -50,6 +50,18 @@ export const keyNamesOneProperty = {
+       invariantKind: "departure",
+       statement: "A max only falls.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A reach only narrows.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A reach goes from `always` to `page-type` to `part-of` and never back.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A restatement letting a reach go altogether widens that reach.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "Whether a property is carried once or many never changes.",
 diff --git a/pages/types/declared-properties/declared-properties.module.code.ts b/pages/types/declared-properties/declared-properties.module.code.ts
 index 9d74617613a03ae553c1530f134c0469b52d554f..37b583e3cea0a150d774aa7ac751b57bfe5645c9 100644
 --- a/pages/types/declared-properties/declared-properties.module.code.ts
