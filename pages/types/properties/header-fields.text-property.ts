@@ -13,7 +13,7 @@ export const headerFields = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A header naming keys states them in the order they stand in.",
+      statement: "A header naming keys states those keys in the order those keys stand in.",
     },
   ],
 } as const satisfies TextProperty
