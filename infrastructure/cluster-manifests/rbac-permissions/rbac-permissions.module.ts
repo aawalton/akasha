@@ -15,7 +15,8 @@ export const rbacPermissions = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule naming resource names grants its triple only over the objects it names.",
+      statement:
+        "A rule naming resource names grants its triple only over the objects that rule names.",
     },
   ],
 } as const satisfies Module
