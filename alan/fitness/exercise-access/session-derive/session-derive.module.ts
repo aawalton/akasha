@@ -14,7 +14,8 @@ export const sessionDerive = {
     },
     {
       invariantKind: "departure",
-      statement: "A session on a rest day drops the focus from its slug rather than spelling it.",
+      statement:
+        "A session on a rest day drops the focus from its slug rather than spelling that focus.",
     },
     {
       invariantKind: "departure",
