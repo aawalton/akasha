@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/tracking/tracking.command.ts b/commands/tracking/tracking.command.ts
+index 0fbbc25f8c037ad5f849b60f283d57f37a3bd2af..52ff037f5ca59d6d001e00536138e4992aeb7d0b 100644
+--- a/commands/tracking/tracking.command.ts
++++ b/commands/tracking/tracking.command.ts
+@@ -33,7 +33,7 @@ export const tracking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a call asks for is read by `write` and landed by `tracking-landing`.",
++      statement: "The change a call asks for is read by `write` and landed by `tracking-landing`.",
+     },
+     {
+       invariantKind: "departure",
