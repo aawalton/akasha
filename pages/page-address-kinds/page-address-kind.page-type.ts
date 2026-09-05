@@ -9,6 +9,11 @@ export const pageAddressKind = {
   slug: "page-address-kind",
   definition: "a form an address takes when it names a page",
   pluralSlug: "page-address-kinds",
+  partSlugs: [
+    "page-address-kind/by-id",
+    "page-address-kind/in-page-type",
+    "page-address-kind/in-part-of",
+  ],
   extendsSlug: ["page-type/module"],
   invariants: [
     {
