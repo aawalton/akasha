@@ -1439,3 +1439,11 @@ index a7f34eb672228897b72fea7341bc89d61004eae7..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-player-completion
 \ No newline at end of file
+diff --git a/temper/temper-player-economics-ui/temper-player-economics-ui b/temper/temper-player-economics-ui/temper-player-economics-ui
+deleted file mode 120000
+index 6efbdabf8c645ce2edc22f793df3134a358a0cfb..0000000000000000000000000000000000000000
+--- a/temper/temper-player-economics-ui/temper-player-economics-ui
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-player-economics-ui
+\ No newline at end of file
