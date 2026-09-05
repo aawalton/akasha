@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/access/answer/answer.module.ts b/pages/access/answer/answer.module.ts
+index 11bc24d924bf85b6978eafcb2b66b33ca1d6a3b5..693029755c9b39ad5a04c694a1095e4068f0b462 100644
+--- a/pages/access/answer/answer.module.ts
++++ b/pages/access/answer/answer.module.ts
+@@ -27,7 +27,8 @@ export const answer = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An answer says how many pages were counted and whether the listing reached them.",
++      statement:
++        "An answer says how many pages were counted and whether the listing reached those pages.",
+     },
+     {
+       invariantKind: "departure",
