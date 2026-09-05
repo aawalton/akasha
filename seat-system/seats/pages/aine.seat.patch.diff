@@ -1,0 +1,27 @@
+diff --git a/context/modules/warranting/warranting.module.ts b/context/modules/warranting/warranting.module.ts
+index b3473ba472f417647bc8b95eebb56ee313b50c1f..f56904a73b2a390785b16aab08ac27a9f72649a8 100644
+--- a/context/modules/warranting/warranting.module.ts
++++ b/context/modules/warranting/warranting.module.ts
+@@ -46,6 +46,22 @@ export const warranting = {
+       invariantKind: "departure",
+       statement: "A refusal names the read that would answer the warrant ready to run.",
+     },
++    {
++      invariantKind: "absence",
++      statement: "A refusal says nothing about how a read behaves.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The readings owed are held to what one answer carries.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A list held back says how many readings are owed past it and to call again.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The list is held to that ceiling here rather than by whoever reads it.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
