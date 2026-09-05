@@ -1,3 +1,16 @@
+diff --git a/editor-extension/domain-tree-reading/domain-tree-reading.module.code.ts b/editor-extension/domain-tree-reading/domain-tree-reading.module.code.ts
+index d67a2022bba18017292be605784e52118b890fcc..3cfbe17470f5c54b5cfb7ddd8768190aa7ac8ab4 100644
+--- a/editor-extension/domain-tree-reading/domain-tree-reading.module.code.ts
++++ b/editor-extension/domain-tree-reading/domain-tree-reading.module.code.ts
+@@ -76,7 +76,7 @@ export function domainTreeIn(said: string): DomainTree {
+ // carries news from one that says what is already drawn, and a hash of a parsed tree would cost
+ // the parse this is here to save.
+ export async function askDomainTree(): Promise<string> {
+-  return runCommand(path.join(akashaRoot(), COMMAND_AT), [], {
++  return runCommand(commandPath(COMMAND), [], {
+     timeout: CALL_TIMEOUT_MS,
+     maxBuffer: MAX_BUFFER,
+   })
 diff --git a/editor-extension/page-tree-reading/page-tree-reading.module.code.ts b/editor-extension/page-tree-reading/page-tree-reading.module.code.ts
 index 5d27b2a74e6e501b9902a15e42ccbe85aad56210..66372f9c25d0ac55dc7e273b98656b94bf6f7f21 100644
 --- a/editor-extension/page-tree-reading/page-tree-reading.module.code.ts
