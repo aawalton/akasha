@@ -116,7 +116,7 @@ export const seat = {
     },
     {
       invariantKind: "departure",
-      statement: "What a resume, a reset or a start prints is written where that act runs.",
+      statement: "The output a resume, a reset or a start prints is written where that act runs.",
     },
     {
       invariantKind: "departure",
