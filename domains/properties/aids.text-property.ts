@@ -15,7 +15,7 @@ export const aids = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An aid runs to what an act or a warrant runs to.",
+      statement: "An aid runs to the length an act or a warrant runs to.",
     },
   ],
 } as const satisfies TextProperty
