@@ -37,8 +37,12 @@ export const foodEntry = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "One file holds one thing eaten.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "One file holds one thing eaten, and which day it counts to is worked out from the instant it happened at.",
+        "The day a food entry counts to is worked out from the instant that entry happened at.",
     },
     {
       invariantKind: "absence",
