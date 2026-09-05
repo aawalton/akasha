@@ -83,7 +83,7 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement: "Within what a read is handed a path sits once in the place it first sat.",
+      statement: "Within what a read is handed a path sits once in the place that path first sat.",
     },
     {
       invariantKind: "departure",
