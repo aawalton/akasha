@@ -1,3 +1,79 @@
+diff --git a/pages/core/color-rules/color-rules.module.code.ts b/pages/core/color-rules/color-rules.module.code.ts
+index 755bfc49e0a8db62d6270335f6a4b9667fdfa21b..9c0dc083cdedb754018ea3672ae610297c4ba68c 100644
+--- a/pages/core/color-rules/color-rules.module.code.ts
++++ b/pages/core/color-rules/color-rules.module.code.ts
+@@ -72,7 +72,7 @@ export function resolveBadgeVariant(
+   const declared = VALUE_TYPE[definition.type]
+   if (shape === null || declared === undefined) {
+     throw new Error(
+-      `a color rule stands on \`${definition.id}\`, whose type \`${definition.type}\` has no value a formula can name`
++      `a color rule sits on \`${definition.id}\`, whose type \`${definition.type}\` has no value a formula can name`
+     )
+   }
+ 
+diff --git a/pages/core/property-types/date-sentinels/date-sentinels.module.ts b/pages/core/property-types/date-sentinels/date-sentinels.module.ts
+index 008bc095f21592b01f55fe562f5ec783fe4ae1a9..ad2303868e3789b8f86e44f4f135800486fb4594 100644
+--- a/pages/core/property-types/date-sentinels/date-sentinels.module.ts
++++ b/pages/core/property-types/date-sentinels/date-sentinels.module.ts
+@@ -4,6 +4,6 @@ export const dateSentinels = {
+   id: "01a05b92-a9c7-7e84-b70b-5836fe8ff127",
+   pageTypeSlug: "module",
+   slug: "date-sentinels",
+-  definition: "the date or date range a sentinel word like today or next month stands for",
++  definition: "the date or date range a sentinel word like today or next month represents",
+   code: "ts",
+ } as const satisfies Module
+diff --git a/pages/core/view/group-key-to-value/group-key-to-value.module.ts b/pages/core/view/group-key-to-value/group-key-to-value.module.ts
+index ff891993763582bb1ca9869a5af30cdae42682bb..67b74355cd63e9bb491662bbaec770573273e28f 100644
+--- a/pages/core/view/group-key-to-value/group-key-to-value.module.ts
++++ b/pages/core/view/group-key-to-value/group-key-to-value.module.ts
+@@ -4,6 +4,6 @@ export const groupKeyToValue = {
+   id: "01a05b92-a9c7-7a47-aa34-4d08c086e6e6",
+   pageTypeSlug: "module",
+   slug: "group-key-to-value",
+-  definition: "the property value a view's group key stands for",
++  definition: "the property value a view's group key represents",
+   code: "ts",
+ } as const satisfies Module
+diff --git a/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts b/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts
+index 45bb98fdaa1b38146d0287c053e1abab5921d60d..ff6a136c50f0611810eb67de46d56f5c5f55e3bb 100644
+--- a/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts
++++ b/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts
+@@ -40,7 +40,7 @@ export function matchingIn(
+     const beside = besideAt(one.path, CODE, TS)
+     if (beside === null) {
+       throw new Error(
+-        `${one.path} is a name format, and no code file can stand beside a name like it`
++        `${one.path} is a name format, and no code file can sit beside a name like it`
+       )
+     }
+     const codePath = codeAt(beside)
+diff --git a/pages/name-formats/modules/format-reaching/format-reaching.module.ts b/pages/name-formats/modules/format-reaching/format-reaching.module.ts
+index 84e42503713d9eba4aef76b4a1d9d956d12f5961..926549236f47d9be0f3a549a97b972117123481d 100644
+--- a/pages/name-formats/modules/format-reaching/format-reaching.module.ts
++++ b/pages/name-formats/modules/format-reaching/format-reaching.module.ts
+@@ -15,7 +15,7 @@ export const formatReaching = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The code is loaded from wherever on disk its body stands rather than from where a change leaves it.",
++        "The code is loaded from wherever on disk its body is rather than from where a change leaves it.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.ts b/pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.ts
+index da0b3f9752e1cce57acef01560ad9bc037a65389..c7c38956db6d0cb81f1468fce33116ab61bb7b7b 100644
+--- a/pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.ts
++++ b/pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.ts
+@@ -10,7 +10,7 @@ export const lowerKebabCase = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A digit stands inside a word rather than between words.",
++      statement: "A digit sits inside a word rather than between words.",
+     },
+   ],
+ } as const satisfies NameFormat
 diff --git a/pages/name-places/pages/constant-identifier.name-place.ts b/pages/name-places/pages/constant-identifier.name-place.ts
 index d40e84a9376fe1d655287c81fdd52461532ad47f..a7c783551e597f59291abd408d68cdd65cec54c5 100644
 --- a/pages/name-places/pages/constant-identifier.name-place.ts
@@ -25,7 +101,7 @@ index 86a42f13ead8413f192bcd0a0666df9030eec48c..451418e45170225712974ca7afe988ee
      {
        invariantKind: "departure",
 diff --git a/pages/name-places/pages/file-name.name-place.ts b/pages/name-places/pages/file-name.name-place.ts
-index e86423f068c19b3ff865c22ea1e12158ecd7b841..bb9c19ed87138e21a676f013ee80689fdb5370ce 100644
+index e86423f068c19b3ff865c22ea1e12158ecd7b841..be1582608f54e217f9c9dc97e11acb351b06bac6 100644
 --- a/pages/name-places/pages/file-name.name-place.ts
 +++ b/pages/name-places/pages/file-name.name-place.ts
 @@ -17,7 +17,7 @@ export const fileName = {
@@ -37,8 +113,17 @@ index e86423f068c19b3ff865c22ea1e12158ecd7b841..bb9c19ed87138e21a676f013ee80689f
      },
      {
        invariantKind: "departure",
+@@ -25,7 +25,7 @@ export const fileName = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A part standing after those two is the file's role.",
++      statement: "A part after those two is the file's role.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/name-places/pages/foreign-name.name-place.ts b/pages/name-places/pages/foreign-name.name-place.ts
-index 74286c7fd50e0c96d2e375acde26f3b3619143d6..5fe92e3f4902710b780fd0a6f9578f7a38483b81 100644
+index 74286c7fd50e0c96d2e375acde26f3b3619143d6..c7e0a1998d28b4f0cd5d1305fd82f2fe31c218ac 100644
 --- a/pages/name-places/pages/foreign-name.name-place.ts
 +++ b/pages/name-places/pages/foreign-name.name-place.ts
 @@ -4,7 +4,7 @@ export const foreignName = {
@@ -50,6 +135,15 @@ index 74286c7fd50e0c96d2e375acde26f3b3619143d6..5fe92e3f4902710b780fd0a6f9578f7a
    nameFormatSlug: null,
    invariants: [
      {
+@@ -30,7 +30,7 @@ export const foreignName = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A name standing beside a name its owner spells still answers the test alone.",
++      statement: "A name beside a name its owner spells still answers the test alone.",
+     },
+   ],
+ } as const satisfies NamePlace
 diff --git a/pages/name-places/pages/route-segment.name-place.ts b/pages/name-places/pages/route-segment.name-place.ts
 index f640aebacfa83047977aaa393d0c5d029220bacf..3e3b410310770becd2c566639f23f4bd3e97ac6b 100644
 --- a/pages/name-places/pages/route-segment.name-place.ts
@@ -78,7 +172,7 @@ index d8e371ddef9d2337d579d52b541e4f8ceda8eb42..c18e7bc71ae1728542fa5973f5232e18
      {
        invariantKind: "departure",
 diff --git a/pages/secret/page-secret.module.code.ts b/pages/secret/page-secret.module.code.ts
-index acd652f1922d2633de2cf745018c5d594f6c3909..3d57dfed27bf6d5bbabca358c8c512e9df26a573 100644
+index acd652f1922d2633de2cf745018c5d594f6c3909..083407783ad73d3a5fdf4d90c1c739f8c10a6201 100644
 --- a/pages/secret/page-secret.module.code.ts
 +++ b/pages/secret/page-secret.module.code.ts
 @@ -44,7 +44,7 @@ export function yamlOf(values: Secrets): string {
@@ -89,6 +183,15 @@ index acd652f1922d2633de2cf745018c5d594f6c3909..3d57dfed27bf6d5bbabca358c8c512e9
 +    return `\`${key}\` arrived empty, and an empty secret would represent a usable one`
    if (value.includes("\n")) return `\`${key}\` holds a newline, and a secret's value is one line`
    return null
+ }
+@@ -52,7 +52,7 @@ export function unfit(key: string, value: string): string | null {
+ function besideOr(page: string): string {
+   const at = secretAt(page)
+   if (at === null) {
+-    throw new Error(`'${page}' is no TypeScript file, so nothing stands beside it to hold secrets`)
++    throw new Error(`'${page}' is no TypeScript file, so nothing sits beside it to hold secrets`)
+   }
+   return at
  }
 diff --git a/pages/secret/page-secret.module.test.ts b/pages/secret/page-secret.module.test.ts
 index 4943cc37ecc79fb372c1cc3b3dc39132ef9fe1da..7e822c43f8f7156b8c8875ff658e9eaaa63ad737 100644
@@ -104,7 +207,7 @@ index 4943cc37ecc79fb372c1cc3b3dc39132ef9fe1da..7e822c43f8f7156b8c8875ff658e9eaa
    cipherFor(root, PAGE, held({ "access-token": "one" }))
    const at = dataIn(root, "sops")
 diff --git a/pages/secret/page-secret.module.ts b/pages/secret/page-secret.module.ts
-index c61e088a7b2c077af29117612fb14320f0a65c96..edeaf4280749da1ec6923cd113ae22b9f21cde3c 100644
+index c61e088a7b2c077af29117612fb14320f0a65c96..e7a033a6601e1aa5681138d431fc1ddc3bc86ac3 100644
 --- a/pages/secret/page-secret.module.ts
 +++ b/pages/secret/page-secret.module.ts
 @@ -10,7 +10,7 @@ export const pageSecret = {
@@ -113,6 +216,15 @@ index c61e088a7b2c077af29117612fb14320f0a65c96..edeaf4280749da1ec6923cd113ae22b9
        invariantKind: "departure",
 -      statement: "A page's secret values stand in one sops file beside that page.",
 +      statement: "A page's secret values are in one sops file beside that page.",
+     },
+     {
+       invariantKind: "departure",
+@@ -26,7 +26,7 @@ export const pageSecret = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The key names stand in the open and only the values are ciphertext.",
++      statement: "The key names are in the open and only the values are ciphertext.",
      },
      {
        invariantKind: "departure",
