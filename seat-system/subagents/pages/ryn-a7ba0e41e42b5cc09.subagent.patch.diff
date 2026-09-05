@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/rule-population/rule-population-reading/rule-population-reading.module.ts b/rule-population/rule-population-reading/rule-population-reading.module.ts
+index a0bd8b28ecebc7c98033359925e36cf0f54a5f35..5edc655bf9b2e52b20665f5a9edefaf8e3d144ec 100644
+--- a/rule-population/rule-population-reading/rule-population-reading.module.ts
++++ b/rule-population/rule-population-reading/rule-population-reading.module.ts
+@@ -9,7 +9,8 @@ export const rulePopulationReading = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What a rule weighed is counted rather than what the rule found.",
++      statement:
++        "The population a rule weighed is counted rather than the violations the rule found.",
+     },
+     {
+       invariantKind: "departure",
