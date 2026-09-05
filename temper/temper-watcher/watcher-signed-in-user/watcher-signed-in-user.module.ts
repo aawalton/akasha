@@ -30,7 +30,7 @@ export const watcherSignedInUser = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal carries what the session said was wrong.",
+      statement: "A refusal carries the error the session named.",
     },
     {
       invariantKind: "departure",
