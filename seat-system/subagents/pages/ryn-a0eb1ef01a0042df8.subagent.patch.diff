@@ -1,0 +1,13 @@
+diff --git a/alan/harness/monarch/eval-snapshot/monarch-eval-snapshot.module.ts b/alan/harness/monarch/eval-snapshot/monarch-eval-snapshot.module.ts
+index 0714a58907a07bfb744fbd1ee465c42e65bd2eaa..680f08f1e56bfdd93022b8d4b89440d1c525f11d 100644
+--- a/alan/harness/monarch/eval-snapshot/monarch-eval-snapshot.module.ts
++++ b/alan/harness/monarch/eval-snapshot/monarch-eval-snapshot.module.ts
+@@ -14,7 +14,7 @@ export const monarchEvalSnapshot = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Pages are hashed in path order, so the mark does not depend on the order they were read.",
++        "Pages are hashed in path order, so the mark does not depend on the order those pages were read.",
+     },
+     {
+       invariantKind: "departure",
