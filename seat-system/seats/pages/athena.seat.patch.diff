@@ -1,8 +1,17 @@
 runsWarrants: false
 diff --git a/story/games/pages/the-violet-hour/the-violet-hour.game.gm-context.json b/story/games/pages/the-violet-hour/the-violet-hour.game.gm-context.json
-index fc5f01cf5118d067b1a825a8e99b8141294cf6f4..70ef88231b019cd45c4941ca33287fda290577d1 100644
+index fc5f01cf5118d067b1a825a8e99b8141294cf6f4..76e7c6117e59c77770847fc9e60c581c3041f1c5 100644
 --- a/story/games/pages/the-violet-hour/the-violet-hour.game.gm-context.json
 +++ b/story/games/pages/the-violet-hour/the-violet-hour.game.gm-context.json
+@@ -374,7 +374,7 @@
+     "catalogVersion": 20
+   },
+   "turnContract": {
+-    "notes": "Non-interactive author-seat loop for a sleep-audio game with no player surface: kick (Ione messages) -> draft -> request-reviews (--no-action) -> incorporate (advisory) -> publish. No turn ever waits on a player, and no scene is authored on a timer. Founding canon: Experiment 2 (Natalie's Table) is published turn 1 and carries into every author boot via the narrative record. Experiment 1 is ANTI-CORPUS — the failed direct-address form (see gmReference anti-exemplar) — and must NEVER become a turn. TTS mirroring of published turns onto Violet Hour story-chapters is Ione's side, deliberately deferred engine-side until exp 3 proves the loop; do not build it.",
++    "notes": "Non-interactive author-seat loop for a sleep-audio game with no player surface: kick (Ione messages) -> draft -> request reviews -> incorporate (advisory) -> publish. No turn ever waits on a player, and no scene is authored on a timer. Founding canon: Experiment 2 (Natalie's Table) is published turn 1 and carries into every author boot via the narrative record. Experiment 1 is ANTI-CORPUS — the failed direct-address form (see gmReference anti-exemplar) — and must NEVER become a turn. TTS mirroring of published turns onto Violet Hour story-chapters is Ione's side, deliberately deferred engine-side until exp 3 proves the loop; do not build it.",
+     "obligations": [
+       {
+         "id": "kick",
 @@ -384,12 +384,12 @@
        {
          "id": "draft",
