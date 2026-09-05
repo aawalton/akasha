@@ -1,0 +1,28 @@
+diff --git a/alan/web/alan-web.router-app.ts b/alan/web/alan-web.router-app.ts
+index 92861aa941d57918fba8fd0de7029e4c912bff09..5367ee13cae4d6e5dd3b59a5c939d4bbcee02517 100644
+--- a/alan/web/alan-web.router-app.ts
++++ b/alan/web/alan-web.router-app.ts
+@@ -142,5 +142,6 @@ export const alanWeb = {
+     "module/use-reader-active-marks",
+     "module/wallpaper-candidates",
+     "route/about",
++    "route/claude-usage",
+   ],
+ } as const satisfies RouterApp
+diff --git a/alan/web/routes/claude-usage/claude-usage.route.ts b/alan/web/routes/claude-usage/claude-usage.route.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5c2eaf45d55af8ac1c8b71925af826c2cef34a64
+--- /dev/null
++++ b/alan/web/routes/claude-usage/claude-usage.route.ts
+@@ -0,0 +1,11 @@
++import type { Route } from "@akasha/code-system/route"
++
++export const claudeUsage = {
++  id: "01a072ae-4955-71e6-bf45-d5a4c5a59670",
++  pageTypeSlug: "route",
++  slug: "claude-usage",
++  definition: "what the Claude fleet has spent of its two windows",
++  code: "ts",
++  test: "ts",
++  urlPath: "api/claude-usage",
++} as const satisfies Route
