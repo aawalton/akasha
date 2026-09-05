@@ -22,6 +22,7 @@ export const codeEditorDataInterface = {
     "module/beat-drawing",
     "module/data-watching",
     "module/state-cooldown",
+    "module/state-reading",
     "type-declaration/tree-row",
     "module/terminal-seat-mapping",
     "module/tree-drawing",
