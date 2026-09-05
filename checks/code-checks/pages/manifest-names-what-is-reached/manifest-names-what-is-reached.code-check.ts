@@ -112,7 +112,7 @@ export const manifestNamesWhatIsReached = {
     {
       invariantKind: "departure",
       statement:
-        "A dependency a package states as a peer of its own is reached by whoever installs that package.",
+        "A dependency a package states as a peer of its own is reached by the installer of that package.",
     },
     {
       invariantKind: "departure",
