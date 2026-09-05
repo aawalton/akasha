@@ -1,5 +1,5 @@
 diff --git a/editor-extension/domain-tree-reading/domain-tree-reading.module.ts b/editor-extension/domain-tree-reading/domain-tree-reading.module.ts
-index ccf3175d8820f0ad6cb9b909cb25e38db4371227..9ce1be17ac1649d4a0abdcdb82c53dac9e6991b2 100644
+index ccf3175d8820f0ad6cb9b909cb25e38db4371227..3808714f282be5386ad68d0a9eef1f4afdb0cf3b 100644
 --- a/editor-extension/domain-tree-reading/domain-tree-reading.module.ts
 +++ b/editor-extension/domain-tree-reading/domain-tree-reading.module.ts
 @@ -22,7 +22,8 @@ export const domainTreeReading = {
@@ -12,3 +12,12 @@ index ccf3175d8820f0ad6cb9b909cb25e38db4371227..9ce1be17ac1649d4a0abdcdb82c53dac
      },
      {
        invariantKind: "constraint",
+@@ -30,7 +31,7 @@ export const domainTreeReading = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "A row carrying no path is refused, since nothing could be opened for it.",
++      statement: "A row carrying no path is refused, since nothing could be opened for that row.",
+     },
+     {
+       invariantKind: "departure",
