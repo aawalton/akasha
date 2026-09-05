@@ -30,6 +30,7 @@ const INDEFINITE = [
   "something",
 ]
 const FREE_CHOICE = ["whatever", "whichever"]
+const FREE_RELATIVE = ["what", "whoever", "whomever"]
 const REFLEXIVE = [
   "herself",
   "himself",
@@ -189,6 +190,19 @@ export function isIndefinite(token: DepToken): boolean {
 
 export function isFreeChoice(token: DepToken): boolean {
   return FREE_CHOICE.includes(lower(token))
+}
+
+export function isFreeRelative(token: DepToken): boolean {
+  return FREE_RELATIVE.includes(lower(token))
+}
+
+export function fillsNounSlotAsFreeRelative(sentence: DepSentence, token: DepToken): boolean {
+  if (!isFreeRelative(token)) return false
+  if (token.deprel === "ccomp" || token.deprel.startsWith("ccomp:")) return true
+  if (token.deprel === "acl:relcl") return true
+  if (token.deprel !== "det" && !token.deprel.startsWith("det:")) return false
+  const next = byId(sentence, token.id + 1)
+  return next === undefined || next.id !== token.head
 }
 
 export function marksADegree(sentence: DepSentence, token: DepToken): boolean {

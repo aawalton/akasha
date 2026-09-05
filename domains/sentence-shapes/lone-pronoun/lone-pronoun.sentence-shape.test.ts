@@ -195,3 +195,63 @@ test("a pronoun spelled whoever is found", () => {
   ])
   expect(lonePronoun(said)).toEqual([{ at: [1] }])
 })
+
+test("a free relative the parser tagged a determiner is found", () => {
+  const said = sentenceOf([
+    ["akasha", "PROPN", 2, "nsubj"],
+    ["holds", "VERB", 0, "root"],
+    ["what", "DET", 5, "obj"],
+    ["Monarch", "PROPN", 5, "nsubj"],
+    ["reports", "VERB", 2, "ccomp"],
+  ])
+  expect(lonePronoun(said)).toEqual([{ at: [3] }])
+})
+
+test("a free relative heading a clausal complement is found", () => {
+  const said = sentenceOf([
+    ["Every", "DET", 2, "det"],
+    ["check", "NOUN", 3, "nsubj"],
+    ["says", "VERB", 0, "root"],
+    ["what", "PRON", 3, "ccomp"],
+    ["its", "PRON", 6, "nmod:poss"],
+    ["input", "NOUN", 4, "nsubj"],
+    ["is", "AUX", 4, "cop"],
+  ])
+  expect(lonePronoun(said)).toEqual([{ at: [4] }])
+})
+
+test("a free relative the parser hung off a noun as a relative clause is found", () => {
+  const said = sentenceOf([
+    ["A", "DET", 2, "det"],
+    ["value", "NOUN", 0, "root"],
+    ["is", "AUX", 4, "cop"],
+    ["what", "PRON", 2, "acl:relcl"],
+  ])
+  expect(lonePronoun(said)).toEqual([{ at: [4] }])
+})
+
+test("a free relative labelled a determiner of a verb is found", () => {
+  const said = sentenceOf([
+    ["akasha", "PROPN", 2, "nsubj"],
+    ["decides", "VERB", 0, "root"],
+    ["what", "DET", 6, "det:predet"],
+    ["a", "DET", 5, "det"],
+    ["reading", "NOUN", 6, "nsubj"],
+    ["means", "VERB", 2, "ccomp"],
+  ])
+  expect(lonePronoun(said)).toEqual([{ at: [3] }])
+})
+
+test("a free relative determining the noun after it is left to the lone determiner shape", () => {
+  const said = sentenceOf([
+    ["A", "DET", 2, "det"],
+    ["check", "NOUN", 3, "nsubj"],
+    ["decides", "VERB", 0, "root"],
+    ["what", "PRON", 5, "det"],
+    ["work", "NOUN", 8, "obj"],
+    ["the", "DET", 7, "det"],
+    ["change", "NOUN", 8, "nsubj"],
+    ["warrants", "VERB", 3, "ccomp"],
+  ])
+  expect(lonePronoun(said)).toEqual([])
+})

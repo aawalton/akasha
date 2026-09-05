@@ -1,8 +1,10 @@
 import type { Match, ShapePredicate } from "@akasha/plain-language/shape-predicate"
 import {
   fillsNounSlot,
+  fillsNounSlotAsFreeRelative,
   isDemonstrative,
   isFreeChoice,
+  isFreeRelative,
   isIndefinite,
   isPronoun,
   isQuantifier,
@@ -13,9 +15,9 @@ import {
 export const lonePronoun: ShapePredicate = (sentence) => {
   const found: Match[] = []
   for (const token of sentence.tokens) {
-    if (token.upos !== "PRON") continue
+    if (!isFreeRelative(token) && token.upos !== "PRON") continue
     if (!isPronoun(token)) continue
-    if (!fillsNounSlot(token)) continue
+    if (!fillsNounSlot(token) && !fillsNounSlotAsFreeRelative(sentence, token)) continue
     if (isRelative(sentence, token)) continue
     if (isDemonstrative(token)) continue
     if (isQuantifier(token)) continue

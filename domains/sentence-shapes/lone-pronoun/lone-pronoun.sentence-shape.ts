@@ -26,5 +26,14 @@ export const lonePronoun = {
       invariantKind: "departure",
       statement: "The tree shapes `whatever` alike whether that word names a thing or not.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A free relative is a lone pronoun whether the parser tags that word a pronoun or a determiner.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`What` before the noun that word determines is passed over.",
+    },
   ],
 } as const satisfies SentenceShape
