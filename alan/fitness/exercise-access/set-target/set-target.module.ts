@@ -22,7 +22,7 @@ export const setTarget = {
     },
     {
       invariantKind: "departure",
-      statement: "What the target is and how the target reads are settled apart.",
+      statement: "The target and how the target reads are settled apart.",
     },
   ],
 } as const satisfies Module
