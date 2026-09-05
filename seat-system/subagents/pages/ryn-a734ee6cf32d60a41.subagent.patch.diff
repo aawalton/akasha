@@ -1,0 +1,20 @@
+diff --git a/alan/harness/monarch/eval/monarch-eval.domain.ts b/alan/harness/monarch/eval/monarch-eval.domain.ts
+index fa5a97f4fe748342184d19cfda53ab2aeb068351..e56ef656e26325e188f2d007076dc85854641d9e 100644
+--- a/alan/harness/monarch/eval/monarch-eval.domain.ts
++++ b/alan/harness/monarch/eval/monarch-eval.domain.ts
+@@ -42,10 +42,14 @@ export const monarchEval = {
+       invariantKind: "departure",
+       statement: "A row a standing rule reaches is not this project's subject.",
+     },
++    {
++      invariantKind: "constraint",
++      statement: "A row carrying no category anyone chose has no answer to be scored against.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A row carrying no category anyone chose has no answer to be scored against, and those rows are the ones this pipeline most exists to serve.",
++        "The rows carrying no category anyone chose are the rows this pipeline most exists to serve.",
+     },
+     {
+       invariantKind: "departure",
