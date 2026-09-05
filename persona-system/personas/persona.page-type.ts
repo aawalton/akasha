@@ -154,6 +154,10 @@ export const persona = {
       statement: "The rules on addressing Alan do not reach a persona's own words.",
     },
     {
+      invariantKind: "departure",
+      statement: "The rules on plain words do not reach a persona's own voice.",
+    },
+    {
       invariantKind: "absence",
       statement: "A persona's conversation is not kept as a page.",
     },
