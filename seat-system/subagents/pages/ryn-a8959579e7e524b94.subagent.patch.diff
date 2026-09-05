@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-web/temper-declared-effects/temper-declared-effects.module.ts b/temper/temper-web/temper-declared-effects/temper-declared-effects.module.ts
+index 178a94147eb987fd67c62c6b74f39d6ed10dec4d..3a390126dfdb4aa09f76e3f852c94fab1a8cb7ba 100644
+--- a/temper/temper-web/temper-declared-effects/temper-declared-effects.module.ts
++++ b/temper/temper-web/temper-declared-effects/temper-declared-effects.module.ts
+@@ -9,7 +9,7 @@ export const temperDeclaredEffects = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Registering the verb is what loading this module is for.",
++      statement: "Loading this module is for registering the verb.",
+     },
+     {
+       invariantKind: "departure",
