@@ -25,7 +25,6 @@ export const claudeUsage = {
     "asking the fleet by hand under bun answers every account, which is why running it that way never showed it.",
     "it was measured by `panel-judging`, which runs the real activation under node and reads the slots back.",
     "the work tree and the page tree already ask their children for the same reason.",
-    "it takes no word at all, so any word said to it is refused.",
   ],
   invariants: [
     {
