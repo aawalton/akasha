@@ -8,6 +8,7 @@ export const seaweedfs = {
   manifest: "json",
   partSlugs: [
     "manifest/seaweedfs-filer",
+    "manifest/seaweedfs-maintenance",
     "manifest/seaweedfs-master",
     "manifest/seaweedfs-s3-gateway",
     "manifest/seaweedfs-volume",
