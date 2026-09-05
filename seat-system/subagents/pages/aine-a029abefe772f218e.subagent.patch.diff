@@ -1,5 +1,5 @@
 diff --git a/file-page-identity/file-page/file-page.module.ts b/file-page-identity/file-page/file-page.module.ts
-index 6e7402b9abfa9d74c0615bb5f2929c946af7eba7..281b657f3cd8aac3f35d9e28e6f5072b847a124c 100644
+index 6e7402b9abfa9d74c0615bb5f2929c946af7eba7..54aacaa89ed0d8727d1e26ed1db2031cf0c04160 100644
 --- a/file-page-identity/file-page/file-page.module.ts
 +++ b/file-page-identity/file-page/file-page.module.ts
 @@ -4,7 +4,7 @@ export const filePage = {
@@ -20,6 +20,15 @@ index 6e7402b9abfa9d74c0615bb5f2929c946af7eba7..281b657f3cd8aac3f35d9e28e6f5072b
      },
      {
        invariantKind: "departure",
+@@ -21,7 +21,7 @@ export const filePage = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file's stem is what stands before its first dot.",
++      statement: "A file's stem is what comes before its first dot.",
+     },
+   ],
+ } as const satisfies Module
 diff --git a/places/locations/location.page-type.ts b/places/locations/location.page-type.ts
 index fb4066bcaff15a34a248526e6aa33d323c9ef844..5066b0aa2c07351f38a44e4cff769f6103749ea7 100644
 --- a/places/locations/location.page-type.ts
