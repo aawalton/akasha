@@ -1,0 +1,43 @@
+runsWarrants: false
+diff --git a/infrastructure/job.domain.ts b/infrastructure/job.domain.ts
+deleted file mode 100644
+index bf6bad33b8f134c364ce631dcc4827751f4ba927..0000000000000000000000000000000000000000
+--- a/infrastructure/job.domain.ts
++++ /dev/null
+@@ -1,15 +0,0 @@
+-import type { Domain } from "../domains/domain.page-type.ts"
+-
+-export const job = {
+-  id: "01a0675b-16eb-7759-adf7-dac753ca5b98",
+-  pageTypeSlug: "domain",
+-  slug: "job",
+-  definition: "a workload that runs to completion and stops",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A job that fails leaves its object behind, and a later run succeeding does not remove that object.",
+-    },
+-  ],
+-} as const satisfies Domain
+diff --git a/infrastructure/job/job.domain.ts b/infrastructure/job/job.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..84416ffbd628e5149e468340867f6e67eec0bd96
+--- /dev/null
++++ b/infrastructure/job/job.domain.ts
+@@ -0,0 +1,15 @@
++import type { Domain } from "../../domains/domain.page-type.ts"
++
++export const job = {
++  id: "01a0675b-16eb-7759-adf7-dac753ca5b98",
++  pageTypeSlug: "domain",
++  slug: "job",
++  definition: "a workload that runs to completion and stops",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "A job that fails leaves its object behind, and a later run succeeding does not remove that object.",
++    },
++  ],
++} as const satisfies Domain
