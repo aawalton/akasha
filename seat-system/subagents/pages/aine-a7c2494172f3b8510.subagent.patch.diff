@@ -1,5 +1,5 @@
 diff --git a/temper/temper-commands/temper-inventory-buy-rule-list/temper-inventory-buy-rule-list.command.code.ts b/temper/temper-commands/temper-inventory-buy-rule-list/temper-inventory-buy-rule-list.command.code.ts
-index 9106f271a4c7e49f8120287df40f0e043c2bf564..071bfcd6a143da4c5a55b914d46f0ab677f0f9dc 100644
+index 9106f271a4c7e49f8120287df40f0e043c2bf564..b41e1b22606bbeb1e8266e55d63b340f6fb8e1f3 100644
 --- a/temper/temper-commands/temper-inventory-buy-rule-list/temper-inventory-buy-rule-list.command.code.ts
 +++ b/temper/temper-commands/temper-inventory-buy-rule-list/temper-inventory-buy-rule-list.command.code.ts
 @@ -36,9 +36,9 @@ const COLUMNS = [
@@ -14,11 +14,23 @@ index 9106f271a4c7e49f8120287df40f0e043c2bf564..071bfcd6a143da4c5a55b914d46f0ab6
  
  async function latestInventory(): Promise<InventoryDatabase | null> {
    const header = await latestSnapshot(USER_ID)
+@@ -50,9 +50,9 @@ async function listed(held: ReadonlyMap<string, string>): Promise<Answer> {
+   const settings = await (await settingsOf()).read()
+   const rules = settings.buyRules ?? []
+   const inventory = await latestInventory()
+-  const standing = new Map<string, Standing>()
++  const reading = new Map<string, Reading>()
+   if (inventory === null) {
+-    for (const rule of rules) standing.set(rule.id, UNREAD)
++    for (const rule of rules) reading.set(rule.id, UNREAD)
+   } else {
+     const stock = computeItemStock(inventory, new Set(rules.map((rule) => rule.itemId)))
+     for (const rule of rules) {
 diff --git a/temper/temper-commands/temper-inventory-buy-rule-update/temper-inventory-buy-rule-update.command.code.ts b/temper/temper-commands/temper-inventory-buy-rule-update/temper-inventory-buy-rule-update.command.code.ts
-index d413a664bd5414dfaf492aeb20f89071f7e893d9..843b8cc77b1e613a586067a126fe78eaf47f8736 100644
+index d413a664bd5414dfaf492aeb20f89071f7e893d9..f2a7644cee177645385938e35b4617982d553dc2 100644
 --- a/temper/temper-commands/temper-inventory-buy-rule-update/temper-inventory-buy-rule-update.command.code.ts
 +++ b/temper/temper-commands/temper-inventory-buy-rule-update/temper-inventory-buy-rule-update.command.code.ts
-@@ -67,9 +67,9 @@ async function changed(id: string, held: ReadonlyMap<string, string>): Promise<A
+@@ -67,12 +67,12 @@ async function changed(id: string, held: ReadonlyMap<string, string>): Promise<A
    const force = held.has(FORCE)
    const settingsAccess = await settingsOf()
    const settings = await settingsAccess.read()
@@ -30,12 +42,16 @@ index d413a664bd5414dfaf492aeb20f89071f7e893d9..843b8cc77b1e613a586067a126fe78ea
 +  if (rule.locked === true && !force) return lockedOff("buy", id)
    const next = bulkUpdateBuyRules(settings, [id], patch, { force })
    await settingsAccess.write(next)
-   return toldOf((next.buyRules ?? []).find((one) => one.id === id) ?? standing)
+-  return toldOf((next.buyRules ?? []).find((one) => one.id === id) ?? standing)
++  return toldOf((next.buyRules ?? []).find((one) => one.id === id) ?? rule)
+ }
+ 
+ export async function temperInventoryBuyRuleUpdate(argv: readonly string[] = []): Promise<Answer> {
 diff --git a/temper/temper-commands/temper-inventory-item-rule-update/temper-inventory-item-rule-update.command.code.ts b/temper/temper-commands/temper-inventory-item-rule-update/temper-inventory-item-rule-update.command.code.ts
-index 1fbcdea6c80572237acff89a9e146787fe049a22..b37b5a1b42563c4e484ab283a042c79a11e3fb2a 100644
+index 1fbcdea6c80572237acff89a9e146787fe049a22..6091a872ca9e8752a3acae5b7514f770d7135cc0 100644
 --- a/temper/temper-commands/temper-inventory-item-rule-update/temper-inventory-item-rule-update.command.code.ts
 +++ b/temper/temper-commands/temper-inventory-item-rule-update/temper-inventory-item-rule-update.command.code.ts
-@@ -75,9 +75,9 @@ async function changed(id: string, held: ReadonlyMap<string, string>): Promise<A
+@@ -75,12 +75,12 @@ async function changed(id: string, held: ReadonlyMap<string, string>): Promise<A
    const force = held.has(FORCE)
    const settingsAccess = await settingsOf()
    const settings = await settingsAccess.read()
@@ -47,7 +63,11 @@ index 1fbcdea6c80572237acff89a9e146787fe049a22..b37b5a1b42563c4e484ab283a042c79a
 +  if (rule.locked === true && !force) return lockedOff("item", id)
    const next = bulkUpdateItemRules(settings, [id], patch, { force })
    await settingsAccess.write(next)
-   return toldOf((next.itemRules ?? []).find((one) => one.id === id) ?? standing)
+-  return toldOf((next.itemRules ?? []).find((one) => one.id === id) ?? standing)
++  return toldOf((next.itemRules ?? []).find((one) => one.id === id) ?? rule)
+ }
+ 
+ export async function temperInventoryItemRuleUpdate(argv: readonly string[] = []): Promise<Answer> {
 diff --git a/temper/temper-commands/temper-inventory-rule-reorder/temper-inventory-rule-reorder.command.code.ts b/temper/temper-commands/temper-inventory-rule-reorder/temper-inventory-rule-reorder.command.code.ts
 index d987c9e2660789ae9dc096672c303bad8aae3c2b..06235fe607ec35dabec36d597ac1ebcbe0da1562 100644
 --- a/temper/temper-commands/temper-inventory-rule-reorder/temper-inventory-rule-reorder.command.code.ts
