@@ -108,3 +108,18 @@ index a933a716cc576c79420072a415a1229c9e33a79e..595df8a4bccdadfbd475d5a3affb210f
      {
        invariantKind: "absence",
        statement: "No timer starts a drawing.",
+diff --git a/editor-extension/work-tree-view/work-tree-view.module.ts b/editor-extension/work-tree-view/work-tree-view.module.ts
+index 0116ab1322bf80accfffc805c0d3b1d449498439..24f98405ae8aaaf9e5d8f7718ffe20c82c9eda2c 100644
+--- a/editor-extension/work-tree-view/work-tree-view.module.ts
++++ b/editor-extension/work-tree-view/work-tree-view.module.ts
+@@ -7,10 +7,6 @@ export const workTreeView = {
+   definition: "the rows the editor asks for of the work tree and the color each row is drawn in",
+   code: "ts",
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The tree the editor draws is replaced whole rather than patched row by row.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A filter that reads the same as the one held redraws nothing.",
