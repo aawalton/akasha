@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/story/games/game.page-type.ts b/story/games/game.page-type.ts
-index 13652a4996b9c861b50ad0ed80616ca457971e27..71a2cbf4b0074767b70f490f93cb71804af1f487 100644
+index 13652a4996b9c861b50ad0ed80616ca457971e27..f0578f6f532f6ca5cace0df7b8e2ea9bc5aaa1aa 100644
 --- a/story/games/game.page-type.ts
 +++ b/story/games/game.page-type.ts
 @@ -144,7 +144,7 @@ export const game = {
@@ -9,6 +9,15 @@ index 13652a4996b9c861b50ad0ed80616ca457971e27..71a2cbf4b0074767b70f490f93cb7180
        statement:
 -        "What a game is made of sits in files beside the game's page rather than inside the page.",
 +        "The rows a game is made of sit in files beside the game's page rather than inside the page.",
+     },
+     {
+       invariantKind: "departure",
+@@ -172,7 +172,7 @@ export const game = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A game's rulebook settles what an action does.",
++      statement: "A game's rulebook settles the effect of an action.",
      },
      {
        invariantKind: "departure",
