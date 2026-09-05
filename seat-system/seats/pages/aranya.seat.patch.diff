@@ -1207,3 +1207,11 @@ index 193033dfda7cae471ea3731c530e0f19884255af..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-lib-custom-menu
 \ No newline at end of file
+diff --git a/temper/temper-lib-data-encode/temper-lib-data-encode b/temper/temper-lib-data-encode/temper-lib-data-encode
+deleted file mode 120000
+index 28c68cfdc1af3794e48e84e3e579389ea33c83e2..0000000000000000000000000000000000000000
+--- a/temper/temper-lib-data-encode/temper-lib-data-encode
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-lib-data-encode
+\ No newline at end of file
