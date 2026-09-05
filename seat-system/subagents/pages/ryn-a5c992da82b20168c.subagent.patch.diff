@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/access/file-write/file-write.module.ts b/pages/access/file-write/file-write.module.ts
+index c5987ec93f4bc016459f72546397d9cd161b3415..c2def87ceacfe0eb9395bf321697e50af8a4ed6c 100644
+--- a/pages/access/file-write/file-write.module.ts
++++ b/pages/access/file-write/file-write.module.ts
+@@ -19,7 +19,7 @@ export const fileWrite = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A `where` is answered by the service, and the slugs it names are what is written.",
++        "A `where` is answered by the service, and the slugs it names are the pages written.",
+     },
+     {
+       invariantKind: "departure",
