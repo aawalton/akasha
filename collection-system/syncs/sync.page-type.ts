@@ -13,19 +13,7 @@ export const sync = {
   definition: "one outside place this system pulls from, and how each pull went",
   pluralSlug: "syncs",
   extendsSlug: ["page-type/page"],
-  partSlugs: [
-    "page-property-entry/sync-runs",
-    "instant-property/run-started-at",
-    "instant-property/run-completed-at",
-    "number-property/created-count",
-    "number-property/duration-ms",
-    "number-property/failed-count",
-    "number-property/run-seq",
-    "number-property/skipped-count",
-    "number-property/updated-count",
-    "select-property/run-status",
-    "text-property/run-error-message",
-  ],
+  partSlugs: ["page-property-entry/sync-runs"],
   properties: [{ pagePropertySlug: "sync-runs", required: true, many: true, max: null }],
   invariants: [
     {
