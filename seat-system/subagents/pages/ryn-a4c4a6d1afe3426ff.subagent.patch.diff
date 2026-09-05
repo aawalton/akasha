@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/story/worlds/world.page-type.ts b/story/worlds/world.page-type.ts
+index 17de0ecc78a127240e9453ff1640a64a23081af8..ea98c371cf3abea0c21be36d62377d658cd9d22b 100644
+--- a/story/worlds/world.page-type.ts
++++ b/story/worlds/world.page-type.ts
+@@ -43,7 +43,8 @@ export const world = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A reading says what one name in the text reaches rather than what that thing is.",
++      statement:
++        "A reading says the thing one name in the text reaches rather than the nature of that thing.",
+     },
+     {
+       invariantKind: "departure",
