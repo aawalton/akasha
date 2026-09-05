@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/temper/temper-progress/tasks/properties/pending-sync.boolean-property.ts b/temper/temper-progress/tasks/properties/pending-sync.boolean-property.ts
+index 3f5c8e7afc6f6c624dd88e99c387def8e584b285..503b5ade9c34c66119de42ba521ace6e6b2c3a24 100644
+--- a/temper/temper-progress/tasks/properties/pending-sync.boolean-property.ts
++++ b/temper/temper-progress/tasks/properties/pending-sync.boolean-property.ts
+@@ -11,7 +11,8 @@ export const pendingSync = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The watcher clears this property as soon as it has written the task out.",
++      statement:
++        "The watcher clears this property as soon as that watcher has written the task out.",
+     },
+   ],
+ } as const satisfies BooleanProperty
