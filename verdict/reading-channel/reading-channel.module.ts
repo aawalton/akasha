@@ -16,9 +16,5 @@ export const readingChannel = {
       statement:
         "A reading's findings are written where a person reads rather than where a caller parses.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A finding naming no place reads as unattributed.",
-    },
   ],
 } as const satisfies Module

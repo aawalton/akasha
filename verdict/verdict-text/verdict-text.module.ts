@@ -15,10 +15,7 @@ export const verdictText = {
       invariantKind: "departure",
       statement: "A reach with nothing unexaminable reads as a bare count.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A finding naming no place reads as unattributed.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A judgement of a kind this build cannot read is written out as unreadable.",

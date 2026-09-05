@@ -19,10 +19,7 @@ export const pageTreeView = {
       invariantKind: "departure",
       statement: "A row is matched against its label and its detail.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A row holding a match is drawn open while a filter is there.",
-    },
+
     {
       invariantKind: "departure",
       statement:

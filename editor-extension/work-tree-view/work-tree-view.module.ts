@@ -19,10 +19,7 @@ export const workTreeView = {
       invariantKind: "departure",
       statement: "A row is matched against its label, its detail and its note.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A row holding a match is drawn open while a filter is there.",
-    },
+
     {
       invariantKind: "departure",
       statement:
