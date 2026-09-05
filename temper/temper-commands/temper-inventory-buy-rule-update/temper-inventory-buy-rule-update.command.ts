@@ -19,7 +19,6 @@ export const temperInventoryBuyRuleUpdate = {
   ],
   helpNotes: [
     "a locked buy rule is refused rather than changed, unless `--force` is said.",
-    "a field the call names nothing for is left as it was.",
     "a title, a note and a goal are held for the web alone and never reach the addon.",
   ],
   invariants: [
