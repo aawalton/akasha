@@ -38,11 +38,11 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
-      statement: "A body that stands and will not open refuses the check reading that body.",
+      statement: "A body that is there and will not open refuses the check reading that body.",
     },
     {
       invariantKind: "departure",
-      statement: "A path standing at nothing reads as nothing rather than as unreadable.",
+      statement: "A path nothing sits at reads as nothing rather than as unreadable.",
     },
     {
       invariantKind: "departure",
@@ -72,7 +72,7 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal for a body that is not text names the path that body stands at.",
+      statement: "A refusal for a body that is not text names the path that body is at.",
     },
     {
       invariantKind: "gap",
