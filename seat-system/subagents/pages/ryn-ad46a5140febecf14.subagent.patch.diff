@@ -1,0 +1,13 @@
+diff --git a/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts b/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
+index d0dffe344ab02a0496cba203a2eb031199585c98..699edde7bbec75cef2b46fdae5c6c9ea986a8a15 100644
+--- a/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
++++ b/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
+@@ -25,7 +25,7 @@ export const inventoryRuleCalling = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A flag said twice is refused rather than read as the last of them.",
++      statement: "A flag said twice is refused rather than read as the last of the two sayings.",
+     },
+     {
+       invariantKind: "departure",
