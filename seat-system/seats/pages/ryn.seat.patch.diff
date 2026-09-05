@@ -1,4 +1,17 @@
 runsWarrants: false
+diff --git a/commands/move/listing/move-listing.module.ts b/commands/move/listing/move-listing.module.ts
+index 5602530942a891c8393e44d4c6e091984dfc3898..d3234d2d3142beab4292491406a5658541a03466 100644
+--- a/commands/move/listing/move-listing.module.ts
++++ b/commands/move/listing/move-listing.module.ts
+@@ -39,7 +39,7 @@ export const moveListing = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows what a part means.",
++      statement: "Nothing here knows the meaning of a part.",
+     },
+   ],
+ } as const satisfies Module
 diff --git a/temper/temper-addon-data/page-row-totals/page-row-totals.module.ts b/temper/temper-addon-data/page-row-totals/page-row-totals.module.ts
 index 93aad84fa71196dda4b9a3d7f042fc12f37ad24c..33af93484c945a8bf124edab098b8fa03b03dbe4 100644
 --- a/temper/temper-addon-data/page-row-totals/page-row-totals.module.ts
