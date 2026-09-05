@@ -16,7 +16,7 @@ const AT = "HEAD"
 const MOVING = new Map([[HELD, THREE]])
 
 function unindexed(): string {
-  return scratch.rootFor("move-naming-")
+  return scratch.rootFor("path-naming-")
 }
 
 test("a path no page owns is answered as owned by no page", () => {
