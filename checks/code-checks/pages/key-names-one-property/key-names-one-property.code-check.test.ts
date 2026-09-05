@@ -12,8 +12,9 @@ import {
   typed,
 } from "../../../modules/check-scratch/check-scratch.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { keyNamesOneProperty } from "./key-names-one-property.code-check.code.ts"
+import { keyNamesOneProperty, looseningIn } from "./key-names-one-property.code-check.code.ts"
 import {
+  holding,
   ONE,
   PAGE_TYPE,
   propertied,
@@ -267,6 +268,45 @@ test("a record property is judged when the change carries a field it declares", 
   )
 
   expect(said.map((one) => one.path)).toEqual([at])
+})
+
+test("a restatement widening a reach from `part-of` to `page-type` is refused", () => {
+  const why = looseningIn(holding({ unique: "page-type" }), holding({ unique: "part-of" }))
+
+  expect(why).toBe("`unique` widens from `part-of` to `page-type`")
+})
+
+test("a restatement widening a reach from `page-type` to `always` is refused", () => {
+  const why = looseningIn(holding({ unique: "always" }), holding({ unique: "page-type" }))
+
+  expect(why).toBe("`unique` widens from `page-type` to `always`")
+})
+
+test("a restatement letting a reach go altogether is refused", () => {
+  const why = looseningIn(holding({ unique: null }), holding({ unique: "part-of" }))
+
+  expect(why).toBe("`unique` widens from `part-of` to `none`")
+})
+
+test("a restatement narrowing a reach from `page-type` to `part-of` is let through", () => {
+  expect(looseningIn(holding({ unique: "part-of" }), holding({ unique: "page-type" }))).toBe(null)
+})
+
+test("two declarations at one reach loosen nothing", () => {
+  expect(looseningIn(holding({ unique: "always" }), holding({ unique: "always" }))).toBe(null)
+})
+
+test("a declaration taking a reach up where the type above states none is let through", () => {
+  expect(looseningIn(holding({ unique: "always" }), holding({ unique: null }))).toBe(null)
+})
+
+test("a reach is judged after `required`, so a loosening of both is said as `required`", () => {
+  const why = looseningIn(
+    holding({ required: false, unique: "always" }),
+    holding({ required: true, unique: "part-of" })
+  )
+
+  expect(why).toBe("`required` falls from `true` to `false`")
 })
 
 test("a record property takes no declaration from the page type carrying it", () => {

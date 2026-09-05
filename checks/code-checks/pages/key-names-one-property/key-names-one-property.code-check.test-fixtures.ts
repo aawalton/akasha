@@ -1,4 +1,5 @@
 import type { Change } from "@akasha/pages-system/change"
+import type { Carried } from "@akasha/pages-system/page-type-properties"
 import { bytesOf } from "@akasha/testing-system/bodying"
 import {
   filing,
@@ -68,6 +69,24 @@ export function propertied(root: string, kind: string, slug: string, id: string)
         `slug: ${JSON.stringify(slug)}, propertySlug: ${JSON.stringify(slug)} }\n`
     )
   )
+}
+
+export function holding(one: Partial<Carried>): Carried {
+  return {
+    pagePropertySlug: "held",
+    pageTypeSlug: TEXT,
+    propertySlug: "held",
+    key: "held",
+    unique: null,
+    declaredBy: "over",
+    required: true,
+    many: false,
+    max: null,
+    total: null,
+    uncommitted: false,
+    secret: false,
+    ...one,
+  }
 }
 
 export function restating(

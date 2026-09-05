@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import type { Identifying } from "@akasha/pages-system/page-type-properties"
+import {
+  type Identifying,
+  identifyingFrom,
+  sourceOver,
+} from "@akasha/pages-system/page-type-properties"
 import type { Value } from "@akasha/pages-system/page-value"
 import type { Identifier } from "../entries/index-entries.module.code.ts"
 import { A, B, C } from "../entries/index-entries.module.test-fixtures.ts"
@@ -210,4 +214,60 @@ test("the pages in hand and the pages the index names are read together", () => 
     { at: "identity/alan-mobile/slug/home.jsonl", line: HOME_LINE },
     { at: "identity/alan-web/slug/home.jsonl", line: HOME_LINE },
   ])
+})
+
+const ROUTE_TYPE: Value = {
+  id: A,
+  pageTypeSlug: "page-type",
+  slug: "route",
+  extendsSlug: ["page-type/page"],
+  properties: [{ pagePropertySlug: "slug", required: true, many: false, unique: "part-of" }],
+}
+
+const PAGE_TYPE: Value = {
+  id: B,
+  pageTypeSlug: "page-type",
+  slug: "page",
+  extendsSlug: [],
+  properties: [{ pagePropertySlug: "slug", required: true, many: false }],
+}
+
+const SLUG_PROPERTY: Value = {
+  id: C,
+  pageTypeSlug: "text-property",
+  slug: "slug",
+  propertySlug: "slug",
+  unique: "page-type",
+}
+
+const DECLARING = identifyingFrom(sourceOver([ROUTE_TYPE, PAGE_TYPE, SLUG_PROPERTY]))
+
+const WEB_HOME: Value = { id: A, pageTypeSlug: "route", slug: "home", partOfSlugs: ["alan-web"] }
+
+test("a declaration narrowing `unique` gives the reach it states rather than its property's", () => {
+  expect(DECLARING("route").get("slug")).toEqual({ key: "slug", reach: "part-of" })
+})
+
+test("a page type narrowing no reach takes the reach its property states", () => {
+  expect(DECLARING("page").get("slug")).toEqual({ key: "slug", reach: "page-type" })
+})
+
+test("two pages of one type carrying one slug under different parents are filed apart", () => {
+  const mobile: Value = { ...WEB_HOME, id: B, partOfSlugs: ["alan-mobile"] }
+
+  expect(filedIn(WEB_HOME, DECLARING)).toEqual([
+    { scope: "alan-web", propertySlug: "slug", said: "home" },
+  ])
+  expect(filedIn(mobile, DECLARING)).toEqual([
+    { scope: "alan-mobile", propertySlug: "slug", said: "home" },
+  ])
+})
+
+test("two pages of one type carrying one slug under one parent are filed at one place", () => {
+  const other: Value = { ...WEB_HOME, id: C }
+
+  expect(filedIn(other, DECLARING)).toEqual([
+    { scope: "alan-web", propertySlug: "slug", said: "home" },
+  ])
+  expect(filedIn(WEB_HOME, DECLARING)).toEqual(filedIn(other, DECLARING))
 })

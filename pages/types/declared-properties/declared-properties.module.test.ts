@@ -43,10 +43,11 @@ function propertied(
   root: string,
   pageTypeSlug: string,
   slug: string,
-  propertySlug: string
+  propertySlug: string,
+  unique: string | null = null
 ): undefined {
   schemaFiled(root, pageTypeSlug, slug, [
-    { pageTypeSlug, targetPageTypeSlug: null, unique: null, slug, propertySlug },
+    { pageTypeSlug, targetPageTypeSlug: null, unique, slug, propertySlug },
   ])
 }
 
@@ -191,6 +192,21 @@ test("a declaration restating an inherited property qualified binds once, the ne
   expect(carried).toHaveLength(1)
   expect(carried[0]?.declaredBy).toBe("page-type")
   expect(carried[0]?.required).toBe(true)
+})
+
+test("a declaration narrowing `unique` binds over the reach its property states", () => {
+  const root = rootAt()
+  propertied(root, "text-property", "slug", "slug", "page-type")
+  typed(root, "page", null, [{ pagePropertySlug: "slug", required: true, many: false }])
+  typed(
+    root,
+    "route",
+    ["page"],
+    [{ pagePropertySlug: "slug", required: true, many: false, unique: "part-of" }]
+  )
+
+  expect(carriedBy(root, "route").map((one) => one.unique)).toEqual(["part-of"])
+  expect(carriedBy(root, "page").map((one) => one.unique)).toEqual(["page-type"])
 })
 
 test("a page type standing above itself is walked once rather than forever", () => {
