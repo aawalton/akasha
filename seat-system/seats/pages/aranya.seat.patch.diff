@@ -727,6 +727,14 @@ index d12309f5083e89824abe97fda3f8f5a2d778ce9e..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-character-build
 \ No newline at end of file
+diff --git a/temper/temper-character-skills/temper-character-skills b/temper/temper-character-skills/temper-character-skills
+deleted file mode 120000
+index 359e5b21daf3c46c2a44bc0cf99f89d6b5c69419..0000000000000000000000000000000000000000
+--- a/temper/temper-character-skills/temper-character-skills
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-character-skills
+\ No newline at end of file
 diff --git a/temper/temper-characters-addon/temper-characters-addon b/temper/temper-characters-addon/temper-characters-addon
 deleted file mode 120000
 index c65247ba5a60f9d25e54b4eb94d2060ec23f4a88..0000000000000000000000000000000000000000
