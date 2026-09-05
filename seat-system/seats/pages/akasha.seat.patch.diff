@@ -65,3 +65,23 @@ index 70cd46a81e77c88278179095a4a14d40737e6db7..509ce8a91afe0c0686d2e7cf209db840
  async function readGroups(): Promise<readonly LayoutGroup[]> {
    const seatByTerminal = new Map<vscode.Terminal, string>()
    const processByTerminal = new Map<vscode.Terminal, string>()
+diff --git a/editor-extension/work-tree-panel/work-tree-panel.module.code.ts b/editor-extension/work-tree-panel/work-tree-panel.module.code.ts
+index be978826f2ff896986b31a4334ddb135ff30be36..c71ec28ad597923c3ca9979c121da5b284fbbe2f 100644
+--- a/editor-extension/work-tree-panel/work-tree-panel.module.code.ts
++++ b/editor-extension/work-tree-panel/work-tree-panel.module.code.ts
+@@ -1,4 +1,3 @@
+-import { dropDerivers } from "@akasha/markdown-pages/deriver-hold"
+ import * as vscode from "vscode"
+ import { repositoryPath, unreachableMessage } from "../harness-call/harness-call.module.code.ts"
+ import { recordObservation } from "../observation-store/observation-store.module.code.ts"
+@@ -141,10 +140,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
+     }
+     const repo = repositoryPath(named)
+     watched = repo
+-    // AN INITIATIVE WRITTEN DROPS WHAT WAS DERIVED FROM THE ONE BEFORE IT, so the read that
+-    // follows composes the tree from the files as they now are rather than from a held answer.
+     const moved = (why: string) => (): void => {
+-      dropDerivers()
+       settled.request(why)
+     }
+     const watcher = vscode.workspace.createFileSystemWatcher(
