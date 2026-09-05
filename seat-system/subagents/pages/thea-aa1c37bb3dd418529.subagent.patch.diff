@@ -56,3 +56,15 @@ index 626039bda257eb49e45f92703d667fce5fd53465..82b261b5c9726a8fdc5fea2ee7f33576
      unmoved: held.unmoved,
      saying: () => held.counting.map((one) => `${one.path} — ${counted(one.found, "replacement")}`),
    }
+diff --git a/commands/replace/replace.command.ts b/commands/replace/replace.command.ts
+index 34d081bf1678d6aa59600072edfb1bbb9fbd8e89..369e73e237075cafd82dd9163639d075ab6ca422 100644
+--- a/commands/replace/replace.command.ts
++++ b/commands/replace/replace.command.ts
+@@ -13,6 +13,7 @@ export const replace = {
+     { said: "--file-path <path>", takes: "a file the passage is replaced in, said once per file" },
+     { said: "--old-file <file>", takes: "a file holding the passage to replace" },
+     { said: "--new-file <file>", takes: "a file holding what that passage becomes" },
++    { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
+     { said: "--dry-run", takes: "read what each file named holds and change nothing" },
+     { said: "--message <text>", takes: "what the commit is for" },
+     { said: "--message-file <file>", takes: "a file the commit message is read from" },
