@@ -66,7 +66,7 @@ export const parseCache = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here says what a parse means.",
+      statement: "Nothing here says the meaning of a parse.",
     },
   ],
 } as const satisfies Module
