@@ -1,9 +1,9 @@
 import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
 
-export const indexes = {
+export const index = {
   id: "01a04a4a-23e9-7114-90a5-11acf49a937d",
   pageTypeSlug: "workspace-package",
-  slug: "indexes",
+  slug: "index",
   definition: "the indexes the pages are read through, each answering one question of them",
   manifest: "json",
   partSlugs: [

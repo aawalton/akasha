@@ -52,7 +52,7 @@ export const pages = {
     "page-type/generator-kind",
     "page-type/unique-kind",
     "page-type/page-query",
-    "workspace-package/indexes",
+    "workspace-package/index",
     "workspace-package/pages-query",
     "workspace-package/pages-system-service",
     "workspace-package/pages-core",
