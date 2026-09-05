@@ -17,7 +17,7 @@ export const surplusFallNotifier = {
     },
     {
       invariantKind: "departure",
-      statement: "Every rung between where the day opened and where it is now is claimed.",
+      statement: "Every rung between where the day opened and where that day is now is claimed.",
     },
     {
       invariantKind: "departure",
