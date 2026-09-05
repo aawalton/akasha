@@ -4,9 +4,9 @@ import { indexAt, indexIn } from "../surface/index-surface.module.code.ts"
 import {
   everyPath,
   importersOf,
-  listedAddressed,
   listedById,
   listedByPath,
+  listedFor,
   readingIn,
   schemaOf,
 } from "./index-reading.module.code.ts"
@@ -36,17 +36,23 @@ test("a page an address names is answered under the page type that address state
   const held = { path: "akasha/one/one.workspace-package.ts", id: A }
   listedFiled(root, "workspace-package", "one", [held])
 
-  expect(listedAddressed(root, "workspace-package/one", "domain")).toEqual(held)
-  expect(listedAddressed(root, "domain/one", "domain")).toBe(null)
+  expect(
+    listedFor(root, { pageTypeSlug: "workspace-package", propertySlug: "slug", value: "one" })
+  ).toEqual(held)
+  expect(listedFor(root, { pageTypeSlug: "domain", propertySlug: "slug", value: "one" })).toBe(null)
 })
 
-test("an address stating no page type is answered under the one its caller names", () => {
+test("a page filed under one property is not answered under another of the same type", () => {
   const root = rootAt()
   const held = { path: "akasha/one/one.domain.ts", id: A }
   listedFiled(root, "domain", "one", [held])
 
-  expect(listedAddressed(root, "one", "domain")).toEqual(held)
-  expect(listedAddressed(root, "one", "workspace-package")).toBe(null)
+  expect(listedFor(root, { pageTypeSlug: "domain", propertySlug: "slug", value: "one" })).toEqual(
+    held
+  )
+  expect(listedFor(root, { pageTypeSlug: "domain", propertySlug: "bundle-id", value: "one" })).toBe(
+    null
+  )
 })
 
 test("an address naming a page by its id is answered by that id", () => {
@@ -54,7 +60,20 @@ test("an address naming a page by its id is answered by that id", () => {
   const held = { path: "akasha/a.module.ts", id: A }
   idFiled(root, A, [held])
 
-  expect(listedAddressed(root, A, "domain")).toEqual(held)
+  expect(listedFor(root, { id: A })).toEqual(held)
+})
+
+test("an address naming a parent is loud rather than answered under something else", () => {
+  const root = rootAt()
+
+  expect(() =>
+    listedFor(root, {
+      pageTypeSlug: "story-chapter-read",
+      partOf: { pageTypeSlug: "story-read", propertySlug: "slug", value: "the-wandering-inn" },
+      propertySlug: "slug",
+      value: "chapter-1",
+    })
+  ).toThrow()
 })
 
 test("a path the index carries is answered with the page carrying it", () => {

@@ -1,4 +1,5 @@
-import { idsNaming, type Listed, listedAddressed, listedAt, listedById } from "@akasha/indexes"
+import { idsNaming, type Listed, listedAt, listedById, listedFor } from "@akasha/indexes"
+import { addressedIn } from "@akasha/pages/page-address"
 import { textAt, valueAt } from "@akasha/pages/page-value"
 import { slugStated, typeStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
 import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
@@ -20,7 +21,9 @@ function domainOf(root: string, path: string): Listed | undefined {
   const value = valueAt(path, root)
   const named = value === null ? null : textAt(value, DOMAIN_KEY)
   if (named === null) return undefined
-  return listedAddressed(root, named, DOMAIN_TYPE) ?? undefined
+  const address = addressedIn(named)
+  if ("refused" in address) throw new Error(address.refused)
+  return listedFor(root, address) ?? undefined
 }
 
 function answeredFor(root: string, path: string): Listed | undefined {

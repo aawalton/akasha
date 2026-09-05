@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import { addressIn } from "@akasha/pages/page-address"
+import { addressIn, type PageAddress } from "@akasha/pages/page-address"
 import { partedIn } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
 import { indexIdentity } from "../identity/index-identity.index.ts"
@@ -140,15 +140,14 @@ export function listedById(given: string | Reading, id: string): Listed | null {
   )
 }
 
-export function listedAddressed(
-  given: string | Reading,
-  named: string,
-  unqualified: string
-): Listed | null {
-  const address = addressIn(named)
-  if (address.kind === "id") return listedById(given, address.id)
-  const under = address.kind === "qualified" ? address.pageTypeSlug : unqualified
-  return listedAt(given, under, address.slug)[0] ?? null
+export function listedFor(given: string | Reading, address: PageAddress): Listed | null {
+  if ("id" in address) return listedById(given, address.id)
+  if ("partOf" in address) {
+    throw new Error(
+      `\`${address.value}\` is named under a parent, and no page is filed under a parent yet`
+    )
+  }
+  return listedNamed(given, address.pageTypeSlug, address.propertySlug, address.value)[0] ?? null
 }
 
 export function listedByPath(given: string | Reading, path: string): readonly Listed[] {

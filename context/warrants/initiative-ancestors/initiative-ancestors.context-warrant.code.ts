@@ -1,4 +1,5 @@
-import { type Listed, listedAddressed, listedAt } from "@akasha/indexes"
+import { type Listed, listedAt, listedFor } from "@akasha/indexes"
+import { addressedIn } from "@akasha/pages/page-address"
 import { textAt, valueAt } from "@akasha/pages/page-value"
 import { slugStated, typeStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
 import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
@@ -16,7 +17,9 @@ function aboveOf(root: string, listed: Listed): Listed | undefined {
   const value = valueAt(listed.path, root)
   const named = value === null ? null : textAt(value, PARENT_KEY)
   if (named === null) return undefined
-  return listedAddressed(root, named, INITIATIVE_TYPE) ?? undefined
+  const address = addressedIn(named)
+  if ("refused" in address) throw new Error(address.refused)
+  return listedFor(root, address) ?? undefined
 }
 
 export function initiativeAncestors(root: string, path: string): readonly Warrant[] {

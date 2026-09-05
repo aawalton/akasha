@@ -1,4 +1,5 @@
-import { listedAddressed, listedAt } from "@akasha/indexes"
+import { listedAt, listedFor } from "@akasha/indexes"
+import { addressedIn } from "@akasha/pages/page-address"
 import { textAt, valueAt } from "@akasha/pages/page-value"
 import { slugStated, typeStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
 import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
@@ -30,7 +31,9 @@ function namedAt(root: string, path: string, key: string): string | null {
 function domainOf(root: string, path: string): readonly Warrant[] {
   const named = namedAt(root, path, DOMAIN_KEY)
   if (named === null) return []
-  const listed = listedAddressed(root, named, DOMAIN_TYPE)
+  const address = addressedIn(named)
+  if ("refused" in address) throw new Error(address.refused)
+  const listed = listedFor(root, address)
   return listed === null ? [] : warrantAt(root, listed.path, WITHIN)
 }
 
