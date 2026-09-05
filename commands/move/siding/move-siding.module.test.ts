@@ -1,6 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { said as gitIn } from "@akasha/git/git-running"
+import { rebuiltIn } from "@akasha/indexes/testing"
+import { declaringUnder } from "@akasha/testing-system/declaring"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import type { Pair } from "../spreading/move-spreading.module.code.ts"
 import type { Sided } from "./move-siding.module.code.ts"
@@ -22,6 +25,32 @@ const BESIDE_AT = "akasha/two/held.module.code.ts"
 
 const THIRD = "akasha/three/held.module.ts"
 
+const TREE = "akasha"
+
+const PAGE = "akasha/one/held.module.ts"
+
+const CLAIMED = "akasha/one/held.module.code.ts"
+
+const CLAIMED_AT = "akasha/one/renamed.module.code.ts"
+
+const PAGE_BODY = `export const held = {
+  id: "01a07208-15e6-7d2c-8eaf-f75a94c6b98a",
+  pageTypeSlug: "module",
+  slug: "held",
+  definition: "a page a test files in its index",
+}
+`
+
+const PLAIN = "tools/lib/plain.ts"
+
+const PLAIN_AT = "tools/lib/renamed.ts"
+
+const STEM = "tools/lib/a.b.ts"
+
+const STEM_SIBLING = "tools/lib/a.b.c.ts"
+
+const STEM_AT = "tools/lib/under/a.b.ts"
+
 function worldWith(named: readonly string[]): string {
   const root = scratch.rootFor("akasha-siding-")
   for (const one of named) {
@@ -29,6 +58,18 @@ function worldWith(named: readonly string[]): string {
     mkdirSync(join(at, ".."), { recursive: true })
     writeFileSync(at, BODY)
   }
+  return root
+}
+
+function indexedWith(named: Readonly<Record<string, string>>): string {
+  const root = scratch.rootFor("akasha-siding-")
+  gitIn(root, ["init", "--quiet"])
+  for (const [path, body] of Object.entries({ ...declaringUnder(TREE), ...named })) {
+    const at = join(root, path)
+    mkdirSync(join(at, ".."), { recursive: true })
+    writeFileSync(at, body)
+  }
+  rebuiltIn(root, TREE)
   return root
 }
 
@@ -95,4 +136,24 @@ test("a file beside what a pair names is carried without being named", () => {
     [BESIDE, BESIDE_AT, false],
   ])
   expect(said.every((one) => one.committed)).toBe(true)
+})
+
+test("a file no page claims is carried to a new name and no slug is renamed", () => {
+  const root = indexedWith({ [PLAIN]: BODY })
+  expect(refusalsOf(root, [pairOf(PLAIN, PLAIN_AT)])).toEqual([])
+  const said = sidesOf(root, [pairOf(PLAIN, PLAIN_AT)])
+  expect(said.map((one) => [one.from, one.to])).toEqual([[PLAIN, PLAIN_AT]])
+  expect(said[0]?.renaming).toBeNull()
+})
+
+test("a file a page claims beside it is refused a new name", () => {
+  const root = indexedWith({ [PAGE]: PAGE_BODY, [CLAIMED]: BODY })
+  const said = refusalsOf(root, [pairOf(CLAIMED, CLAIMED_AT)])
+  expect(said[0]).toContain(`${CLAIMED} is a file \`${PAGE}\` claims beside it`)
+})
+
+test("a file no page claims carries no sibling that merely shares its stem", () => {
+  const root = indexedWith({ [STEM]: BODY, [STEM_SIBLING]: BODY })
+  expect(refusalsOf(root, [pairOf(STEM, STEM_AT)])).toEqual([])
+  expect(sidesOf(root, [pairOf(STEM, STEM_AT)]).map((one) => one.from)).toEqual([STEM])
 })
