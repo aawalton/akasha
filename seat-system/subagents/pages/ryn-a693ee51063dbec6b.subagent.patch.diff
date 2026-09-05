@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/editor-extension/vscode-typings/vscode-typings.type-declaration.ts b/editor-extension/vscode-typings/vscode-typings.type-declaration.ts
+index 461094fdb841cda557ed06913f8e248914813a35..68764dbf0b3d6ecdf2debb60e2443477111159b5 100644
+--- a/editor-extension/vscode-typings/vscode-typings.type-declaration.ts
++++ b/editor-extension/vscode-typings/vscode-typings.type-declaration.ts
+@@ -14,7 +14,7 @@ export const vscodeTypings = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The manifest around this declaration is named for what a typecheck looks up, not for its folder.",
++        "The manifest around this declaration is named for the name a typecheck looks up, not for its folder.",
+     },
+     {
+       invariantKind: "absence",
