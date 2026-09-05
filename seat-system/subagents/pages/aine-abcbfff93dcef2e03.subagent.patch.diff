@@ -60,7 +60,7 @@ index 5bb844e04bff30884cd5ac8e260b6b6c56e3d5a2..2ccff2e0f5c362d92f6fcc440aabbb05
    invariants: [
      {
 diff --git a/testing-system/test-fixture/test-fixture.domain.ts b/testing-system/test-fixture/test-fixture.domain.ts
-index 8c0b3ee3fa18e7b5bead134cb0446dc356a99bf2..de0dc3b7270911f758a16e394749eebf76e4eb88 100644
+index 8c0b3ee3fa18e7b5bead134cb0446dc356a99bf2..25a94588303616a2ab95d3a717087a136ebdf100 100644
 --- a/testing-system/test-fixture/test-fixture.domain.ts
 +++ b/testing-system/test-fixture/test-fixture.domain.ts
 @@ -4,7 +4,7 @@ export const testFixture = {
@@ -72,7 +72,7 @@ index 8c0b3ee3fa18e7b5bead134cb0446dc356a99bf2..de0dc3b7270911f758a16e394749eebf
    invariants: [
      {
        invariantKind: "departure",
-@@ -12,7 +12,7 @@ export const testFixture = {
+@@ -12,11 +12,11 @@ export const testFixture = {
      },
      {
        invariantKind: "departure",
@@ -81,6 +81,11 @@ index 8c0b3ee3fa18e7b5bead134cb0446dc356a99bf2..de0dc3b7270911f758a16e394749eebf
      },
      {
        invariantKind: "departure",
+-      statement: "A fixture stands in a world the system could have built.",
++      statement: "A fixture sits in a world the system could have built.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/testing-system/test/test.domain.ts b/testing-system/test/test.domain.ts
 index edf0697d915c93b79ae3cc4b77e1c826d7a43998..c3d9095197397b5bab2396fc010beaa4da0cd3a1 100644
 --- a/testing-system/test/test.domain.ts
@@ -95,7 +100,7 @@ index edf0697d915c93b79ae3cc4b77e1c826d7a43998..c3d9095197397b5bab2396fc010beaa4
      {
        invariantKind: "departure",
 diff --git a/testing-system/testing-system.workspace-package.ts b/testing-system/testing-system.workspace-package.ts
-index 9e951a20191b298a9e9eed396f6847d6460d0639..02bbcc833fc676dbe88d530a525ae5da6908c874 100644
+index 9e951a20191b298a9e9eed396f6847d6460d0639..065c3b63c875c76ece5d0f225ba97b6cb865e09e 100644
 --- a/testing-system/testing-system.workspace-package.ts
 +++ b/testing-system/testing-system.workspace-package.ts
 @@ -4,7 +4,7 @@ export const testingSystem = {
@@ -107,12 +112,17 @@ index 9e951a20191b298a9e9eed396f6847d6460d0639..02bbcc833fc676dbe88d530a525ae5da
    manifest: "json",
    partSlugs: [
      "domain/test",
-@@ -22,7 +22,7 @@ export const testingSystem = {
+@@ -22,11 +22,11 @@ export const testingSystem = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "Scaffolding a test stands up is not the thing under test.",
 +      statement: "Scaffolding a test sets up is not the thing under test.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the tests of more than one system need stands here.",
++      statement: "What the tests of more than one system need is here.",
      },
      {
        invariantKind: "departure",
