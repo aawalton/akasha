@@ -10,7 +10,8 @@ export const seatStatedNameRefusal = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat's name is composed from what the seat is rather than typed beside it.",
+      statement:
+        "A seat's name is composed from what the seat is rather than typed beside what the seat is.",
     },
     {
       invariantKind: "departure",
