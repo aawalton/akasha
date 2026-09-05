@@ -47,7 +47,7 @@ export const calculationImportsOnlyTypes = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the line, and the name or the source it came from.",
+      statement: "A refusal names the line, and the name or the source the import came from.",
     },
     {
       invariantKind: "absence",
