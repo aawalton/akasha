@@ -9,7 +9,7 @@ export const tradingEvents = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every listener is named after the add-on so a reload can drop them.",
+      statement: "Every listener is named after the add-on so a reload can drop those listeners.",
     },
   ],
 } as const satisfies Module
