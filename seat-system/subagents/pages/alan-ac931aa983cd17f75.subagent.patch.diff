@@ -1,0 +1,315 @@
+diff --git a/command-system/commands/measure/check-measuring/check-measuring.module.code.ts b/command-system/commands/measure/check-measuring/check-measuring.module.code.ts
+index e3c36fffa906180f5969735ad9306f402d653fa9..f33ad1b6cf1ff61b638ed6ed9bf62f43a7fd7033 100644
+--- a/command-system/commands/measure/check-measuring/check-measuring.module.code.ts
++++ b/command-system/commands/measure/check-measuring/check-measuring.module.code.ts
+@@ -12,7 +12,15 @@ const AUDIT = "audit"
+ 
+ const ABSENT = "-"
+ 
+-const HEADING: readonly string[] = ["check", "patch cpu", "patch mem", "full cpu", "full mem"]
++const HEADING: readonly string[] = [
++  "check",
++  "patch runs",
++  "patch cpu",
++  "patch mem",
++  "full runs",
++  "full cpu",
++  "full mem",
++]
+ 
+ const UNREAD = "these were not read, and count no runs:"
+ 
+@@ -32,8 +40,10 @@ export interface Run {
+ 
+ export interface CheckCost {
+   readonly check: string
++  readonly patchRuns: number
+   readonly patchCpu: number | null
+   readonly patchMem: number | null
++  readonly auditRuns: number
+   readonly auditCpu: number | null
+   readonly auditMem: number | null
+ }
+@@ -44,12 +54,9 @@ export interface Costs {
+   readonly other: readonly string[]
+ }
+ 
+-export function medianOf(found: readonly number[]): number | null {
++export function meanOf(found: readonly number[]): number | null {
+   if (found.length === 0) return null
+-  const sorted = [...found].sort((a, b) => a - b)
+-  if (sorted.length % 2 === 1) return sorted[(sorted.length - 1) / 2] ?? null
+-  const half = sorted.length / 2
+-  return ((sorted[half - 1] ?? 0) + (sorted[half] ?? 0)) / 2
++  return found.reduce((total, one) => total + one, 0) / found.length
+ }
+ 
+ export function runsIn(body: string): readonly Run[] {
+@@ -75,10 +82,12 @@ export function costOf(check: string, runs: readonly Run[]): CheckCost {
+   const audit = runs.filter((one) => one.phase === AUDIT)
+   return {
+     check,
+-    patchCpu: medianOf(patch.map((one) => one.cpu)),
+-    patchMem: medianOf(memoryOf(patch)),
+-    auditCpu: medianOf(audit.map((one) => one.cpu)),
+-    auditMem: medianOf(memoryOf(audit)),
++    patchRuns: patch.length,
++    patchCpu: meanOf(patch.map((one) => one.cpu)),
++    patchMem: meanOf(memoryOf(patch)),
++    auditRuns: audit.length,
++    auditCpu: meanOf(audit.map((one) => one.cpu)),
++    auditMem: meanOf(memoryOf(audit)),
+   }
+ }
+ 
+@@ -132,10 +141,11 @@ export function costsIn(root: string): Costs {
+ }
+ 
+ export function bytesAs(count: number): string {
+-  if (count >= GIB) return `${(count / GIB).toFixed(1)} GiB`
+-  if (count >= MIB) return `${(count / MIB).toFixed(1)} MiB`
+-  if (count >= KIB) return `${(count / KIB).toFixed(1)} KiB`
+-  return `${count} B`
++  const whole = Math.round(count)
++  if (whole >= GIB) return `${(whole / GIB).toFixed(1)} GiB`
++  if (whole >= MIB) return `${(whole / MIB).toFixed(1)} MiB`
++  if (whole >= KIB) return `${(whole / KIB).toFixed(1)} KiB`
++  return `${whole} B`
+ }
+ 
+ export function secondsAs(count: number): string {
+@@ -145,8 +155,10 @@ export function secondsAs(count: number): string {
+ function rowOf(one: CheckCost): readonly string[] {
+   return [
+     one.check,
++    String(one.patchRuns),
+     one.patchCpu === null ? ABSENT : secondsAs(one.patchCpu),
+     one.patchMem === null ? ABSENT : bytesAs(one.patchMem),
++    String(one.auditRuns),
+     one.auditCpu === null ? ABSENT : secondsAs(one.auditCpu),
+     one.auditMem === null ? ABSENT : bytesAs(one.auditMem),
+   ]
+diff --git a/command-system/commands/measure/check-measuring/check-measuring.module.test.ts b/command-system/commands/measure/check-measuring/check-measuring.module.test.ts
+index 315ff2b50d380da7e8c80f138c4735a6725bdf1b..2a4629d4d0436054366ac58f22e1bcea600bdac9 100644
+--- a/command-system/commands/measure/check-measuring/check-measuring.module.test.ts
++++ b/command-system/commands/measure/check-measuring/check-measuring.module.test.ts
+@@ -6,7 +6,7 @@ import {
+   costOf,
+   costsIn,
+   linesOf,
+-  medianOf,
++  meanOf,
+   runsIn,
+   secondsAs,
+ } from "./check-measuring.module.code.ts"
+@@ -43,10 +43,14 @@ function rootWith(held: Record<string, readonly Record<string, unknown>[]>): str
+   return root
+ }
+ 
+-test("a median of an even count of runs is the mean of the two middle runs", () => {
+-  expect(medianOf([1, 2, 3])).toBe(2)
+-  expect(medianOf([1, 2, 3, 4])).toBe(2.5)
+-  expect(medianOf([])).toBe(null)
++function spacedOnce(said: string | undefined): string {
++  return (said ?? "").replace(/\s+/g, " ")
++}
++
++test("an average is what the runs took together shared out over how many there were", () => {
++  expect(meanOf([1, 2, 9])).toBe(4)
++  expect(meanOf([1, 2, 3, 10])).toBe(4)
++  expect(meanOf([])).toBe(null)
+ })
+ 
+ test("a run's processor time is its own together with the children it reaped", () => {
+@@ -55,20 +59,41 @@ test("a run's processor time is its own together with the children it reaped", (
+   expect(runs[0]?.cpu).toBe(3.75)
+ })
+ 
+-test("a run that forgot no high-water mark is left out of memory but kept in processor time", () => {
++test("a run that forgot no high-water mark is left out of memory but counted everywhere else", () => {
+   const runs = runsIn(
+     [
+-      lineOf({ phase: "patch", cpuSeconds: 4, peakAddedBytes: 999, peakMeasured: false }),
++      lineOf({ phase: "patch", cpuSeconds: 9, peakAddedBytes: 999, peakMeasured: false }),
+       lineOf({ phase: "patch", cpuSeconds: 2, peakAddedBytes: 100 }),
++      lineOf({ phase: "patch", cpuSeconds: 1, peakAddedBytes: 200 }),
++      lineOf({ phase: "patch", cpuSeconds: 4, peakAddedBytes: 900 }),
+     ].join("\n")
+   )
+   const cost = costOf("one", runs)
+ 
+-  expect(cost.patchCpu).toBe(3)
+-  expect(cost.patchMem).toBe(100)
++  expect(cost.patchCpu).toBe(4)
++  expect(cost.patchMem).toBe(400)
++  expect(cost.patchRuns).toBe(4)
++})
++
++test("how many runs a phase holds is counted beside that phase's averages", () => {
++  const root = rootWith({
++    one: [
++      { phase: "patch", cpuSeconds: 1 },
++      { phase: "patch", cpuSeconds: 3 },
++      { phase: "patch", cpuSeconds: 8 },
++      { phase: "audit", cpuSeconds: 8 },
++      { phase: "worktree", cpuSeconds: 9 },
++    ],
++  })
++  const cost = costsIn(root).checks[0]
++
++  expect(cost?.patchRuns).toBe(3)
++  expect(cost?.patchCpu).toBe(4)
++  expect(cost?.auditRuns).toBe(1)
++  expect(cost?.auditCpu).toBe(8)
+ })
+ 
+-test("a phase no run was judged at carries no median rather than a median of zero", () => {
++test("a phase no run was judged at carries no average rather than an average of zero", () => {
+   const cost = costOf("one", runsIn(lineOf({ phase: "patch", cpuSeconds: 0 })))
+ 
+   expect(cost.patchCpu).toBe(0)
+@@ -79,16 +104,34 @@ test("a phase no run was judged at carries no median rather than a median of zer
+   expect(said.endsWith("-")).toBe(true)
+ })
+ 
++test("a phase no run was judged at counts zero runs rather than drawing them absent", () => {
++  const cost = costOf("one", runsIn(lineOf({ phase: "patch", cpuSeconds: 0 })))
++
++  expect(cost.auditRuns).toBe(0)
++  const said = linesOf({ checks: [cost], unread: [], other: [] })
++
++  expect(spacedOnce(said[0])).toBe(
++    "check patch runs patch cpu patch mem full runs full cpu full mem"
++  )
++  expect(spacedOnce(said[1])).toBe("one 1 0.000s 0 B 0 - -")
++})
++
+ test("checks are ordered by what their patch runs took, and no patch run comes last", () => {
+   const root = rootWith({
+     fast: [{ phase: "patch", cpuSeconds: 1 }],
+     slow: [{ phase: "patch", cpuSeconds: 9 }],
+     "audit-only": [{ phase: "audit", cpuSeconds: 50 }],
+     "b-tie": [{ phase: "patch", cpuSeconds: 1 }],
++    skewed: [
++      { phase: "patch", cpuSeconds: 1 },
++      { phase: "patch", cpuSeconds: 1 },
++      { phase: "patch", cpuSeconds: 10 },
++    ],
+   })
+ 
+   expect(costsIn(root).checks.map((one) => one.check)).toEqual([
+     "slow",
++    "skewed",
+     "b-tie",
+     "fast",
+     "audit-only",
+@@ -104,8 +147,10 @@ test("a patch run and an audit run are split apart", () => {
+   })
+   const cost = costsIn(root).checks[0]
+ 
++  expect(cost?.patchRuns).toBe(1)
+   expect(cost?.patchCpu).toBe(2)
+   expect(cost?.patchMem).toBe(2048)
++  expect(cost?.auditRuns).toBe(1)
+   expect(cost?.auditCpu).toBe(8)
+   expect(cost?.auditMem).toBe(1048576)
+ })
+@@ -121,6 +166,7 @@ test("a run naming a phase this does not split by is counted beneath the table",
+   })
+   const costs = costsIn(root)
+ 
++  expect(costs.checks[0]?.patchRuns).toBe(1)
+   expect(costs.checks[0]?.patchCpu).toBe(1)
+   expect(costs.other).toEqual(["worktree: 2", "deploy: 1"])
+   expect(linesOf(costs)).toContain("these runs name a phase this does not split by:")
+@@ -145,6 +191,11 @@ test("memory is scaled to the unit that fits and processor time runs to three de
+   expect(secondsAs(3.939)).toBe("3.939s")
+ })
+ 
++test("a count of bytes is rounded to the whole byte before it is scaled", () => {
++  expect(bytesAs(512.4)).toBe("512 B")
++  expect(bytesAs(1023.6)).toBe("1.0 KiB")
++})
++
+ test("a root holding no checks answers no check rather than throwing", () => {
+   expect(costsIn(scratch.rootFor("check-measuring-empty-"))).toEqual({
+     checks: [],
+diff --git a/command-system/commands/measure/check-measuring/check-measuring.module.ts b/command-system/commands/measure/check-measuring/check-measuring.module.ts
+index 4d9feaa11aad2c8aabe4ec0f80ff48a0136c6a17..1bb57437a6e4a17d30079578a7e758afdfcc2760 100644
+--- a/command-system/commands/measure/check-measuring/check-measuring.module.ts
++++ b/command-system/commands/measure/check-measuring/check-measuring.module.ts
+@@ -23,11 +23,15 @@ export const checkMeasuring = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run that forgot no high-water mark is left out of a memory median.",
++      statement: "A run that forgot no high-water mark is left out of a memory average.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "That run is counted in a processor median all the same.",
++      statement: "That run is counted in a processor average all the same.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That run is counted among the runs its phase holds all the same.",
+     },
+     {
+       invariantKind: "departure",
+@@ -39,15 +43,28 @@ export const checkMeasuring = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A median of an even count of runs is the mean of the two middle runs.",
++      statement:
++        "An average is what a phase's runs took together shared out over how many there were.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "How many runs a phase holds is said beside that phase's averages.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A phase no run was judged at carries no average rather than an average of zero.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A phase no run was judged at holds a count of zero rather than no count.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A phase no run was judged at carries no median rather than a median of zero.",
++      statement: "A count of bytes is rounded to the whole byte before that count is scaled.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Checks are ordered by what their patch runs took, the longest first.",
++      statement: "Checks are ordered by what their patch runs took on average, the longest first.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/command-system/commands/measure/measure.command.ts b/command-system/commands/measure/measure.command.ts
+index 59bafa62764571c5fc989107372ba7519b3ae260..eab2e857c3f36dffae18832282f7c468591fadd4 100644
+--- a/command-system/commands/measure/measure.command.ts
++++ b/command-system/commands/measure/measure.command.ts
+@@ -50,13 +50,17 @@ export const measure = {
+     "how many files are no page at all is said beneath the total.",
+     "`repo` counts what git counts: tracked files, and untracked files the repository keeps.",
+     "what the repository ignores is not counted, so built output is no file waiting to arrive.",
+-    "`checks` says what each check's runs cost in processor time and memory, split by phase.",
++    "`checks` says what a check's run cost on average in processor time and memory, by phase.",
++    "an average is what a phase's runs took together shared out over how many runs there were.",
+     "a patch run judges the paths a change carries, and an audit run judges every page.",
+     "a run's processor time is that run's own together with the children that run reaped.",
+     "a run's memory is what that run added over the memory resident when the run opened.",
+     "a run that forgot no high-water mark is left out of the memory it would otherwise report.",
+-    "a phase no run was judged at is drawn as `-`, which is not a median of zero.",
+-    "checks are ordered by what their patch runs took, and a check with no patch run comes last.",
++    "that run is counted in the processor time and among the runs its phase holds all the same.",
++    "how many runs a phase holds is said before that phase's averages.",
++    "a phase no run was judged at is drawn as `-`, which is not an average of zero.",
++    "a phase no run was judged at counts `0` runs, which is a count rather than an absence.",
++    "checks are ordered by what their patch runs took on average, and no patch run comes last.",
+   ],
+   invariants: [
+     {
