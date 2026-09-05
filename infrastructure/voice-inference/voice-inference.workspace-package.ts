@@ -8,6 +8,7 @@ export const voiceInference = {
   manifest: "json",
   partSlugs: [
     "container-recipe/voice-infer-image",
+    "manifest/voice-infer",
     "python-module/voice-infer-server",
     "python-module/voice-models",
     "python-module/voice-object-store",
