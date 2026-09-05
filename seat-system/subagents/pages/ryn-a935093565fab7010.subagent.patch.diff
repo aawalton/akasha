@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
-index 85a1910b8f004f074c44760092c9010b53fd6d1e..46b12e65653a18cb98b6657659c1d6fdb09d9732 100644
+index 85a1910b8f004f074c44760092c9010b53fd6d1e..11aafbc9f34ee71d4b3728e36b0cc593e276b7d8 100644
 --- a/code-system/code-tests/code-tests.module.ts
 +++ b/code-system/code-tests/code-tests.module.ts
 @@ -12,7 +12,7 @@ export const codeTests = {
@@ -109,12 +109,18 @@ index 85a1910b8f004f074c44760092c9010b53fd6d1e..46b12e65653a18cb98b6657659c1d6fd
      },
      {
        invariantKind: "departure",
-@@ -278,7 +279,7 @@ export const codeTests = {
+@@ -278,12 +279,12 @@ export const codeTests = {
      },
      {
        invariantKind: "absence",
 -      statement: "What is printed belongs to whoever asked for the run.",
 +      statement: "The output printed belongs to the caller that asked for the run.",
+     },
+     {
+       invariantKind: "absence",
+       statement:
+-        "How much of what is printed a caller may hold belongs to whoever asked for the run.",
++        "How much of the output printed a caller may hold belongs to the caller that asked for the run.",
      },
      {
        invariantKind: "absence",
