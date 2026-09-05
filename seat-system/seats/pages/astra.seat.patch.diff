@@ -37,3 +37,24 @@ index 0000000000000000000000000000000000000000..356a95cb644e416f6062763aaa498f89
 +    "module/view-target-slugs",
 +  ],
 +} as const satisfies Domain
+diff --git a/pages/ui-store/realtime/pages-ui-store-realtime.domain.ts b/pages/ui-store/realtime/pages-ui-store-realtime.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..68d6047b2c50d8e2236cc0c7d8cc529a886ae553
+--- /dev/null
++++ b/pages/ui-store/realtime/pages-ui-store-realtime.domain.ts
+@@ -0,0 +1,15 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesUiStoreRealtime = {
++  id: "01a071cc-22d5-7e1b-a68d-925788d75f43",
++  pageTypeSlug: "domain",
++  slug: "pages-ui-store-realtime",
++  definition: "a change arriving from the server as it happens",
++  partSlugs: [
++    "module/jwt-exp",
++    "module/jwt-sub",
++    "module/payload-translator",
++    "module/shape-meta",
++    "module/snapshot-fold",
++  ],
++} as const satisfies Domain
