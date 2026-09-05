@@ -41,7 +41,6 @@ export const devServer = {
     "a stop already stopped is answered as stopped, and the stale state file it left is taken.",
     "a state file naming a process that is gone reads as stopped, and a status takes no state file away.",
     "`WORKTREE_DIR` names the worktree outright, and the seq still names the state file and the log.",
-    "a log is answered as the log stood when the answer was built.",
   ],
   invariants: [
     {
