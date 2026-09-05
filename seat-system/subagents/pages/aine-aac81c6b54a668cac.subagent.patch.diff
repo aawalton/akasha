@@ -51,10 +51,10 @@ index 5d6cb4f17812fd5c72c88c3aa277e7482e65d268..aeedeebe54951511896c08e1743eda04
    ],
  } as const satisfies PageType
 diff --git a/alan/harness/monarch/monarch-holdings/properties/account-slug.relation-property.ts b/alan/harness/monarch/monarch-holdings/properties/account-slug.relation-property.ts
-index cc0f897c43fd7b456e3dcfdc59c8e30b2d2cf5a9..c625118b366cbe3673b4ed098f0ed3d68e93f672 100644
+index cc0f897c43fd7b456e3dcfdc59c8e30b2d2cf5a9..62cdd1064c51651005a89e0f52082f91f3d4e1d6 100644
 --- a/alan/harness/monarch/monarch-holdings/properties/account-slug.relation-property.ts
 +++ b/alan/harness/monarch/monarch-holdings/properties/account-slug.relation-property.ts
-@@ -8,7 +8,7 @@ export const accountSlug = {
+@@ -8,12 +8,12 @@ export const accountSlug = {
    pageTypeSlug: "relation-property",
    slug: "account-slug",
    propertySlug: "account-slug",
@@ -63,6 +63,12 @@ index cc0f897c43fd7b456e3dcfdc59c8e30b2d2cf5a9..c625118b366cbe3673b4ed098f0ed3d6
    targetPageTypeSlug: "page-type/monarch-account",
    invariants: [
      {
+       invariantKind: "departure",
+-      statement: "A holding stands under exactly one account.",
++      statement: "A holding sits under exactly one account.",
+     },
+   ],
+ } as const satisfies RelationProperty
 diff --git a/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts b/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts
 index 7889bbfdc11acc8ada30f95e885731c7dc6088ee..74e85c5832c8739a08d0ca106ce1a22881530c1f 100644
 --- a/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts
@@ -90,7 +96,7 @@ index 7dbfc4e23822c0b6493491a60ba1948b825fdfc6..1ce70090f324790d4be6c7f9e223ea80
    ],
  } as const satisfies CalendarDateProperty
 diff --git a/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts b/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
-index 854b8820562aaefc2566747019842e13f8d3839e..c0cec55fc0b0181431049bb6a0eb150f5280fd78 100644
+index 854b8820562aaefc2566747019842e13f8d3839e..e0f9f26a97cfccb562dc4182aff3b31731a7f2fe 100644
 --- a/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
 +++ b/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
 @@ -32,7 +32,7 @@ export const transactions = {
@@ -99,6 +105,15 @@ index 854b8820562aaefc2566747019842e13f8d3839e..c0cec55fc0b0181431049bb6a0eb150f
        statement:
 -        "A transaction stands beside the month its day falls in rather than in a file of its own.",
 +        "A transaction sits beside the month its day falls in rather than in a file of its own.",
+     },
+     {
+       invariantKind: "departure",
+@@ -44,7 +44,7 @@ export const transactions = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Entries stand in the order of the day they fell on, then of their Monarch id.",
++      statement: "Entries sit in the order of the day they fell on, then of their Monarch id.",
      },
      {
        invariantKind: "departure",
