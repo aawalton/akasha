@@ -13,7 +13,7 @@ export const syncing = {
     },
     {
       invariantKind: "departure",
-      statement: "A chapter already filed is known by the link it was filed under.",
+      statement: "A chapter already filed is known by the link that chapter was filed under.",
     },
     {
       invariantKind: "departure",
