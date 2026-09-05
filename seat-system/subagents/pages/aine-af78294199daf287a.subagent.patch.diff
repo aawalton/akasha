@@ -1,5 +1,5 @@
 diff --git a/commands/calendar/calendar.command.ts b/commands/calendar/calendar.command.ts
-index cab7bacb650cc7eaf2ef955eb7fcfa1ed5df9679..c0939c65ae877011deaabbef575e56431ee2392a 100644
+index cab7bacb650cc7eaf2ef955eb7fcfa1ed5df9679..180c44364abb8dc6a2b0f65ab17076397bbeb945 100644
 --- a/commands/calendar/calendar.command.ts
 +++ b/commands/calendar/calendar.command.ts
 @@ -4,7 +4,7 @@ export const calendar = {
@@ -20,6 +20,15 @@ index cab7bacb650cc7eaf2ef955eb7fcfa1ed5df9679..c0939c65ae877011deaabbef575e5643
      { said: "get", takes: "the act, which is to answer one event named by its id" },
      {
        said: "create",
+@@ -49,7 +49,7 @@ export const calendar = {
+     { said: "--location <text>", takes: "the event's location" },
+     {
+       said: "--attendees <emails>",
+-      takes: "who attends, parted by commas, standing in place of whoever attends now",
++      takes: "who attends, parted by commas, taking the place of whoever attends now",
+     },
+     {
+       said: "--timezone <iana>",
 diff --git a/commands/drive/drive.command.code.ts b/commands/drive/drive.command.code.ts
 index b1b797bdcf9516fd7ff3d6033685bbd6896227aa..7333bbb4378d653d3cfec957b2f9681e7265293c 100644
 --- a/commands/drive/drive.command.code.ts
