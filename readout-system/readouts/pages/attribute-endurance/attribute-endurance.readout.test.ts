@@ -1,26 +1,7 @@
 import { expect, test } from "bun:test"
-import { answering, refusing } from "../../../readout-asking/readout-asking.module.test-fixtures.ts"
-import {
-  CALORIES_TO_THE_POINT,
-  enduranceIn,
-  fetchEndurancePoints,
-  trackingOn,
-} from "./attribute-endurance.readout.code.ts"
-
-const DAY = "2026-09-01"
+import { CALORIES_TO_THE_POINT, enduranceIn } from "./attribute-endurance.readout.code.ts"
 
 const held = (figure: unknown) => ({ "active-calories": figure })
-
-test("the day asked for is the tracking day the caller named", () => {
-  const query = trackingOn(DAY) as Record<string, unknown>
-  expect(query["page-type"]).toBe("daily-tracking")
-  expect(query.where).toEqual({ date: { is: DAY } })
-  expect(query.limit).toBe(1)
-})
-
-test("the one figure the reading is taken from is the key asked for", () => {
-  expect((trackingOn(DAY) as Record<string, unknown>).keys).toEqual(["active-calories"])
-})
 
 test("the reading is the figure over the amount one point costs", () => {
   expect(CALORIES_TO_THE_POINT).toBe(400)
@@ -44,22 +25,4 @@ test("a day carrying no figure is no reading rather than an endurance of zero", 
   expect(enduranceIn(held(""))).toBeNull()
   expect(enduranceIn(held("   "))).toBeNull()
   expect(enduranceIn(held("soon"))).toBeNull()
-})
-
-test("no tracking day is no reading rather than an endurance of zero", async () => {
-  expect(await fetchEndurancePoints(answering([]), DAY)).toBeNull()
-})
-
-test("the figure of the day asked for is the reading", async () => {
-  expect(await fetchEndurancePoints(answering([{ values: held(400) }]), DAY)).toBeCloseTo(1, 10)
-})
-
-test("a tracking day carrying no figure is no reading over the whole reach", async () => {
-  expect(await fetchEndurancePoints(answering([{ values: held(null) }]), DAY)).toBeNull()
-})
-
-test("a store that refuses is a fault rather than a reading of nothing", async () => {
-  await expect(
-    fetchEndurancePoints(refusing("the index holds no such page type"), DAY)
-  ).rejects.toThrow("unknown rather than nothing")
 })

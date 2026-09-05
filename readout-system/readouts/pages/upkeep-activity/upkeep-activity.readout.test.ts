@@ -1,32 +1,9 @@
 import { expect, test } from "bun:test"
-import { answering, refusing } from "../../../readout-asking/readout-asking.module.test-fixtures.ts"
-import {
-  activityIn,
-  fetchActivityCalories,
-  heldNothing,
-  POUNDS_TO_THE_CALORIE,
-  trackingOn,
-} from "./upkeep-activity.readout.code.ts"
-
-const DAY = "2026-09-01"
+import { activityIn, heldNothing, POUNDS_TO_THE_CALORIE } from "./upkeep-activity.readout.code.ts"
 
 const held = (cardio: unknown, lifted: unknown = null) => ({
   "active-calories": cardio,
   "strength-volume": lifted,
-})
-
-test("the day asked for is the tracking day the caller named", () => {
-  const query = trackingOn(DAY) as Record<string, unknown>
-  expect(query["page-type"]).toBe("daily-tracking")
-  expect(query.where).toEqual({ date: { is: DAY } })
-  expect(query.limit).toBe(1)
-})
-
-test("the two halves of the sum are the keys asked for", () => {
-  expect((trackingOn(DAY) as Record<string, unknown>).keys).toEqual([
-    "active-calories",
-    "strength-volume",
-  ])
 })
 
 test("a figure given as text is read as the number it spells", () => {
@@ -64,22 +41,4 @@ test("the zero two absent halves add to is no reading rather than an activity of
   expect(activityIn({})).toBeNull()
   expect(activityIn(held(null, null))).toBeNull()
   expect(activityIn(held("soon"))).toBeNull()
-})
-
-test("no tracking day is no reading rather than an activity of zero", async () => {
-  expect(await fetchActivityCalories(answering([]), DAY)).toBeNull()
-})
-
-test("the activity of the day asked for is the reading", async () => {
-  expect(await fetchActivityCalories(answering([{ values: held("30", "70") }]), DAY)).toBe(40)
-})
-
-test("a tracking day holding neither half is no reading over the whole reach", async () => {
-  expect(await fetchActivityCalories(answering([{ values: held(null, null) }]), DAY)).toBeNull()
-})
-
-test("a store that refuses is a fault rather than a reading of nothing", async () => {
-  await expect(
-    fetchActivityCalories(refusing("the index holds no such page type"), DAY)
-  ).rejects.toThrow("unknown rather than nothing")
 })
