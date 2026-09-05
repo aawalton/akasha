@@ -4,7 +4,7 @@ export const verdictReading = {
   id: "01a05c14-b119-7000-9120-df7558499051",
   pageTypeSlug: "module",
   slug: "verdict-reading",
-  definition: "how something stands, with what was covered and what was found",
+  definition: "how something is, with what was covered and what was found",
   code: "ts",
   invariants: [
     {
@@ -18,7 +18,7 @@ export const verdictReading = {
     {
       invariantKind: "departure",
       statement:
-        "A coverage whose denominator was not worked out says so rather than standing at zero.",
+        "A coverage whose denominator was not worked out says so rather than sitting at zero.",
     },
   ],
 } as const satisfies Module

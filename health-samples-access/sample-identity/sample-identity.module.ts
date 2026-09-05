@@ -18,7 +18,7 @@ export const sampleIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "An instant that will not parse throws rather than standing as nothing.",
+      statement: "An instant that will not parse throws rather than counting as nothing.",
     },
     {
       invariantKind: "absence",

@@ -38,11 +38,11 @@ export const migrationLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A batch hands every stated `was` to its landing as what must stand unmoved.",
+      statement: "A batch hands every stated `was` to its landing as what must remain unmoved.",
     },
     {
       invariantKind: "departure",
-      statement: "A stated `was` no longer matching what stands on disk refuses that batch.",
+      statement: "A stated `was` no longer matching what is on disk refuses that batch.",
     },
     {
       invariantKind: "absence",

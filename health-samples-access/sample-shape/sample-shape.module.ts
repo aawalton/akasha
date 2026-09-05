@@ -18,7 +18,7 @@ export const sampleShape = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here stands at runtime beyond the two lists of metrics.",
+      statement: "Nothing here exists at runtime beyond the two lists of metrics.",
     },
   ],
 } as const satisfies Module
