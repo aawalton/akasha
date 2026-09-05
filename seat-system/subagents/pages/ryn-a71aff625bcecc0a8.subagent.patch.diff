@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/checks/cluster-checks/modules/functional-type/functional-type.module.ts b/checks/cluster-checks/modules/functional-type/functional-type.module.ts
-index 90caf79d82a941917722c99cb55480665607b077..b32700427e623bdabc9a88293bfc3b741656eced 100644
+index 90caf79d82a941917722c99cb55480665607b077..e1a5c8ff4cf94530c9a1689c134ec675b62b73b5 100644
 --- a/checks/cluster-checks/modules/functional-type/functional-type.module.ts
 +++ b/checks/cluster-checks/modules/functional-type/functional-type.module.ts
 @@ -9,8 +9,7 @@ export const functionalType = {
@@ -10,6 +10,16 @@ index 90caf79d82a941917722c99cb55480665607b077..b32700427e623bdabc9a88293bfc3b74
 -      statement:
 -        "A package says what that package is for in its manifest rather than by where that package sits.",
 +      statement: "A package says its type in its manifest rather than by where that package sits.",
+     },
+     {
+       invariantKind: "departure",
+@@ -27,8 +26,7 @@ export const functionalType = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A manifest saying nothing about what the package is for carries no raw value back.",
++      statement: "A manifest saying nothing about the package's type carries no raw value back.",
      },
      {
        invariantKind: "departure",
