@@ -1,0 +1,52 @@
+diff --git a/pages/indexes/indexing/indexing.module.test-fixtures.ts b/pages/indexes/indexing/indexing.module.test-fixtures.ts
+index d8b84a7b336b17764a21f33dc8aa5c3b4e77a6d9..9752e6c204fab116d7e8612c62cbaed0bb243ae2 100644
+--- a/pages/indexes/indexing/indexing.module.test-fixtures.ts
++++ b/pages/indexes/indexing/indexing.module.test-fixtures.ts
+@@ -210,3 +210,10 @@ export function retyped(
+   }
+   return indexing.settle()
+ }
++
++export const TYPE_SLUG: Named = aProperty(idOf("e"), "type-slug", "relation-property", {
++  targetPageTypeSlug: "page-type",
++})
++
++export const namingAType = (slug: string): Named =>
++  thePage({ id: A, pageTypeSlug: "domain", slug: "namer", typeSlug: `page-type/${slug}` })
+diff --git a/pages/indexes/indexing/indexing.module.test.ts b/pages/indexes/indexing/indexing.module.test.ts
+index 00e831f76158b31cfde457a4993df7a17fad8e1d..f1e49c9ff400d5959d9d040c3ff5a757c6464407 100644
+--- a/pages/indexes/indexing/indexing.module.test.ts
++++ b/pages/indexes/indexing/indexing.module.test.ts
+@@ -22,6 +22,7 @@ import {
+   linesIn,
+   type Named,
+   NOTE,
++  namingAType,
+   pathFile,
+   put,
+   renamed,
+@@ -31,6 +32,7 @@ import {
+   scratch,
+   settled,
+   slugFile,
++  TYPE_SLUG,
+   thePage,
+   tookAway,
+   VOCABULARY,
+@@ -159,6 +161,16 @@ test("a value naming its page type is filed under the target's id", () => {
+   expect(said(edgeFile(root, B, "part-slugs", A))).toEqual({ path: relative(tree, at) })
+ })
+ 
++test("a name reaching a page type the settle adds is filed, then and later", () => {
++  const { tree, root } = grounded()
++  wrotePages(root, tree, [TYPE_SLUG])
++
++  expect(wrotePages(root, tree, [aType(D, "probe", ["page"]), namingAType("probe")])).toEqual([])
++  expect(existsSync(edgeFile(root, D, "type-slug", A))).toBe(true)
++  expect(wrotePages(root, tree, [namingAType("probe")])).toEqual([])
++  expect(wrotePages(root, tree, [namingAType("gone")]).join(" ")).toMatch(/slug `gone`/)
++})
++
+ test("a bare value reaches a page type extending the one its property names", () => {
+   const { tree, root } = grounded()
+   settled(
