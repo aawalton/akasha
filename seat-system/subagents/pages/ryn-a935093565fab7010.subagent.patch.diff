@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
-index 85a1910b8f004f074c44760092c9010b53fd6d1e..9a3ee24c5b6f233984e966888dea6c95bb120949 100644
+index 85a1910b8f004f074c44760092c9010b53fd6d1e..46b12e65653a18cb98b6657659c1d6fdb09d9732 100644
 --- a/code-system/code-tests/code-tests.module.ts
 +++ b/code-system/code-tests/code-tests.module.ts
 @@ -12,7 +12,7 @@ export const codeTests = {
@@ -109,3 +109,12 @@ index 85a1910b8f004f074c44760092c9010b53fd6d1e..9a3ee24c5b6f233984e966888dea6c95
      },
      {
        invariantKind: "departure",
+@@ -278,7 +279,7 @@ export const codeTests = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "What is printed belongs to whoever asked for the run.",
++      statement: "The output printed belongs to the caller that asked for the run.",
+     },
+     {
+       invariantKind: "absence",
