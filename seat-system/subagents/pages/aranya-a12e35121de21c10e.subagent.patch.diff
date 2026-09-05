@@ -1,0 +1,12 @@
+diff --git a/service-system/cluster-services/pages/cloudflared/cloudflared.cluster-service.ts b/service-system/cluster-services/pages/cloudflared/cloudflared.cluster-service.ts
+index 24807f3bf5dc88c8d24565c5d2781bf5b59501f2..391af58a4ca708bb6eb47fbeb48c799a54fb4283 100644
+--- a/service-system/cluster-services/pages/cloudflared/cloudflared.cluster-service.ts
++++ b/service-system/cluster-services/pages/cloudflared/cloudflared.cluster-service.ts
+@@ -11,6 +11,5 @@ export const cloudflared = {
+   image: "cloudflare/cloudflared:2026.3.0",
+   replicas: 2,
+   containerPort: 2000,
+-  manifestCode:
+-    "service-system/cluster-services/pages/cloudflared/cloudflared.cluster-service.code.attachment.ts",
++  manifestSlug: "cloudflared",
+ } as const satisfies ClusterService
