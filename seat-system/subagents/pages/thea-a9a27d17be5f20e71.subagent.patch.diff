@@ -1,4 +1,3 @@
-runsWarrants: false
 diff --git a/alan/web/routes.ts b/alan/web/routes.ts
 index 8dea144e0d21a4f7887956bb5021746ace41e051..ec3b0e94c8f707ac315deeaea353d39d0098afcd 100644
 --- a/alan/web/routes.ts
@@ -11,9 +10,18 @@ index 8dea144e0d21a4f7887956bb5021746ace41e051..ec3b0e94c8f707ac315deeaea353d39d
 +  route("api/*", "routes/no-such-route/no-such-route.route.code.ts"),
  ] satisfies RouteConfig
 diff --git a/alan/web/routes/no-such-route/no-such-route.route.test.ts b/alan/web/routes/no-such-route/no-such-route.route.test.ts
-index 70443ddbfccabe9324c8532114579d87e8ed44d7..c83fabd2e7f298e84172678cc5ae459dd916679e 100644
+index 70443ddbfccabe9324c8532114579d87e8ed44d7..207e561c826f2ac6c61e5cd46eb19b63ec8a87c6 100644
 --- a/alan/web/routes/no-such-route/no-such-route.route.test.ts
 +++ b/alan/web/routes/no-such-route/no-such-route.route.test.ts
+@@ -21,7 +21,7 @@ import routes from "../../routes.ts"
+ 
+ type Entry = { path?: string; index?: boolean; file: string; children?: readonly Entry[] }
+ 
+-const APP_DIR = join(import.meta.dir, "..")
++const APP_DIR = join(import.meta.dir, "..", "..")
+ 
+ /** The file the real route config gives a URL, resolved the way the server resolves it. */
+ function resolvedFile(url: string): string | null {
 @@ -56,13 +56,16 @@ const UNROUTED = ["/api/health-samples", "/api/health-sample", "/api/nope", "/ap
  
  test("an unrouted path under /api/ is no longer read as a page type and a page", () => {
