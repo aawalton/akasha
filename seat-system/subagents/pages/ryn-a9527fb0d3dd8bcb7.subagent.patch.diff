@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/editor-extension/seat-terminals/seat-terminals.module.ts b/editor-extension/seat-terminals/seat-terminals.module.ts
+index 364974003c32718453f3183beb366dec29da3938..a06f8626775ec67b0ee67315905583e76fe72813 100644
+--- a/editor-extension/seat-terminals/seat-terminals.module.ts
++++ b/editor-extension/seat-terminals/seat-terminals.module.ts
+@@ -10,7 +10,7 @@ export const seatTerminals = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A terminal is matched to a seat through the process running in it.",
++      statement: "A terminal is matched to a seat through the process running in that terminal.",
+     },
+     {
+       invariantKind: "departure",
