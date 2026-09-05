@@ -60,7 +60,12 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "Every mechanical change is an atomic change a refactor command runs.",
       workingMemory:
-        "`atomic-change` and `refactor-command` are page types. An atomic change changes one thing wherever it reaches, refuses or leaves the tree whole, and asks the index what a thing reaches rather than walking. Two are built: `rename-local-variable` over one file and `rename-export` across every importer. Left: nothing loads either type, since `calling` binds commands by the `command` page type id alone; and `token-renaming` carries three subjects, so it is three atomic changes rather than one.",
+        "Built: `rename-local-variable`, `rename-export`, `rename-property-signature` addressed as `Type.property`, and `rename-code-token` composing the first two as the first refactor change. `rename-path` is written and will not land: the parts check refuses `atomic-change/rename-path` though the patch adds it to the page type's own parts, so that check reads something other than the patch. Left: nothing loads either page type, since `calling` binds commands by the `command` page type id alone.",
+    },
+    {
+      statement: "The change page types are named change-atomic and change-refactor.",
+      workingMemory:
+        "`atomic-change` becomes `change-atomic` under `changes/atomic`, and `refactor-change` becomes `change-refactor` under `changes/refactor`. Held until the refactor command is built here: these renames are landed by that command rather than by `akasha refactor rename page-slug`, which is the command it replaces. `rename-path` is the primitive three of the five `refactor rename` namespaces need, and it is written but unlanded.",
     },
   ],
   constraints: [
