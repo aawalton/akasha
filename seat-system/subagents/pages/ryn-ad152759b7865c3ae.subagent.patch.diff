@@ -1,0 +1,14 @@
+diff --git a/hook-system/shell-calls/shell-calls.module.ts b/hook-system/shell-calls/shell-calls.module.ts
+index 5ce8ee2113a5e078a0cfe640649f6b332b3420e6..4afd0805f315cdcda46197a147f05cb56ca2fba3 100644
+--- a/hook-system/shell-calls/shell-calls.module.ts
++++ b/hook-system/shell-calls/shell-calls.module.ts
+@@ -30,7 +30,8 @@ export const shellCalls = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A body is taken out from the line opening it to the line ending it.",
++      statement:
++        "A body is taken out from the line opening that body to the line ending that body.",
+     },
+     {
+       invariantKind: "departure",
