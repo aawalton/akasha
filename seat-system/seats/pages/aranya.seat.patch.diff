@@ -399,3 +399,11 @@ index 2b7efb5bf4494170d6d2d485d586e04c22fc6b20..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../pages/core
 \ No newline at end of file
+diff --git a/pages/indexes/indexes b/pages/indexes/indexes
+deleted file mode 120000
+index ccdc923ba0b3231e0ac6178412d3d20057f7aced..0000000000000000000000000000000000000000
+--- a/pages/indexes/indexes
++++ /dev/null
+@@ -1 +0,0 @@
+-../../pages/indexes
+\ No newline at end of file
