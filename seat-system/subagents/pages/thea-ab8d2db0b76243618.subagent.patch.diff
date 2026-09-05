@@ -1,5 +1,5 @@
 diff --git a/commands/test/test.command.code.ts b/commands/test/test.command.code.ts
-index 7d8f4c63f21f7cbd6eafc3b9b65db081d58f547a..625e8c1aca45f08d45f9842815bc225ee9c233ad 100644
+index 7d8f4c63f21f7cbd6eafc3b9b65db081d58f547a..bbb2ee741075759c2557bf0bbab6dc884de31ed7 100644
 --- a/commands/test/test.command.code.ts
 +++ b/commands/test/test.command.code.ts
 @@ -106,6 +106,12 @@ const NONE: Summary = { files: 0, failed: 0, passed: 0 }
@@ -45,6 +45,14 @@ index 7d8f4c63f21f7cbd6eafc3b9b65db081d58f547a..625e8c1aca45f08d45f9842815bc225e
    const read = readingOf(output)
    const passed = said.passed ?? 0
    const failed = said.failed ?? 0
+@@ -181,6 +208,7 @@ function reportOf(said: Summary, output: string): readonly string[] {
+       unloadable.map(([at, why]) => `  ${at} — ${why}`)
+     ),
+   ]
++  if (verdict === "crash") return [...told, ...tailOf(output)]
+   return failing.length + unloadable.length === 0 ? told : [...told, DETAIL]
+ }
+ 
 diff --git a/commands/test/test.command.test.ts b/commands/test/test.command.test.ts
 index 776d7ab63b7371cdf00fe78ca862bcdb9f73c500..bac4b68ca9db78bbf98077ec175e2392d3d891ea 100644
 --- a/commands/test/test.command.test.ts
