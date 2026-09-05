@@ -1,4 +1,4 @@
-import { resolveRoots, targetRoot } from "@akasha/pages-system/checkout-roots"
+import { resolveRoots, targetRoot } from "@akasha/pages/checkout-roots"
 import { movesWithTheAttributes } from "../compose-seat-name/compose-seat-name.module.code.ts"
 import { seatByName } from "../seat-by-name/seat-by-name.module.code.ts"
 import { isValidSeatName } from "../seat-handle/seat-handle.module.code.ts"

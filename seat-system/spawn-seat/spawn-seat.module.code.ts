@@ -1,5 +1,5 @@
 import { dataError, inputError, operationalError } from "@akasha/errors-core/exit-code"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { ruleText } from "@akasha/rules-engine/instructions-rule"
 import { enforceSpawnAdmission } from "@akasha/utils-system/memory-guard"
 import { FLEET, personaDefaultsOf } from "../compose-seat-name/compose-seat-name.module.code.ts"

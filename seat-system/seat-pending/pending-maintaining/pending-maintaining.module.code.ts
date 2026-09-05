@@ -1,6 +1,6 @@
 import { watch } from "node:fs"
 import { dirname, join } from "node:path"
-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { akashaRoot } from "@akasha/pages/checkout-roots"
 import { messagesDirRelPath } from "../../messaging/message-file/message-file.module.code.ts"
 import { akashaSeatsThatExist } from "../../seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { akashaObservedOf } from "../../seat-akasha-read/seat-akasha-read.module.code.ts"

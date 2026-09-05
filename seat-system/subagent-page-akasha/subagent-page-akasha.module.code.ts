@@ -1,6 +1,6 @@
 import type { Outcome } from "@akasha/command-system/gated-write"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import type { Roots } from "@akasha/pages/markdown-page-at"
 import {
   pathsUnder,
   SUBAGENTS_AT,

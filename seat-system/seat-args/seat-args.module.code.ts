@@ -1,5 +1,5 @@
 import { fail } from "@akasha/command-system/command-failing"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { type Principal, principals } from "../compose-seat-name/compose-seat-name.module.code.ts"
 import {
   ASSIGNMENTS,

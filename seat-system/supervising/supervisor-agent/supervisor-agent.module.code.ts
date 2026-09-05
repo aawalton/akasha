@@ -7,7 +7,7 @@ import {
   DOORS as EFFECT_DOORS,
 } from "@akasha/agents/oauth-effects"
 import type { CredentialPick, OAuthCredential } from "@akasha/agents/oauth-types"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { configDirForAccount, LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 
 export interface AccountResolutionDeps {

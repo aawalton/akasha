@@ -3,8 +3,8 @@ import { join } from "node:path"
 import { landRemovals } from "@akasha/command-system/gated-landing"
 import { dropReadings } from "@akasha/command-system/reading"
 import { fileStemOf } from "@akasha/file-page-identity"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { besideOf } from "@akasha/pages-system/page-beside"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import { besideOf } from "@akasha/pages/page-beside"
 
 const DEFAULT_KEEP_DAYS = 7
 

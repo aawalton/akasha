@@ -1,4 +1,4 @@
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { resolveRoots } from "@akasha/pages/checkout-roots"
 import {
   frontmatterFromHistory,
   nameFromHistory,

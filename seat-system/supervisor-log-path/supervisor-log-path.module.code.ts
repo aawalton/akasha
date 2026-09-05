@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { akashaRoot } from "@akasha/pages/checkout-roots"
 
 export function supervisorsRootDir(): string {
   return join(akashaRoot(), ".supervisors")

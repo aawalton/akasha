@@ -1,7 +1,7 @@
 import { summarizePool } from "@akasha/agents/claude-account-selection"
 import { pacingIn } from "@akasha/agents/oauth-effects"
 import type { AccountState } from "@akasha/agents/oauth-types"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import {
   type AskDecide,
   askLimitResume,

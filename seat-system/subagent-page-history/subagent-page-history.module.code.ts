@@ -1,5 +1,5 @@
 import { told } from "@akasha/git/git-running"
-import { loadedFrom } from "@akasha/pages-system/page-value"
+import { loadedFrom } from "@akasha/pages/page-value"
 
 // WHAT A SUBAGENT'S PAGE SAID BEFORE THAT PAGE WENT. A subagent's page is taken away the moment the
 // subagent stops, so a subagent coming back has nothing on disk to read itself out of. The commit

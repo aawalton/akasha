@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { akashaRoot } from "@akasha/pages/checkout-roots"
 import { sessionHeld } from "../seat-stopping/seat-stopping.module.code.ts"
 
 export const TMUX_HISTORY_LIMIT = "50000"

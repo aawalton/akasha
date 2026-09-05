@@ -1,7 +1,7 @@
 import type { Outcome } from "@akasha/command-system/gated-write"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { partedIn } from "@akasha/pages-system/page-file-name"
-import { textAt, valueAt } from "@akasha/pages-system/page-value"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import { partedIn } from "@akasha/pages/page-file-name"
+import { textAt, valueAt } from "@akasha/pages/page-value"
 import { seatNameForAgent } from "../seat-presence-read/seat-presence-read.module.code.ts"
 import type { StandingSubagent } from "../subagent-guard/subagent-guard.module.code.ts"
 import {

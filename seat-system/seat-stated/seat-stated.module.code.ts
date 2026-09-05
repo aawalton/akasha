@@ -1,4 +1,4 @@
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import type { Roots } from "@akasha/pages/markdown-page-at"
 import type { Principal } from "../compose-seat-name/compose-seat-name.module.code.ts"
 import * as declarations from "../seat-attributes/seat-attributes.module.code.ts"
 import { type FlexRecord, flexOf } from "../seat-flex/seat-flex.module.code.ts"

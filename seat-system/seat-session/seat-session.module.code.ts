@@ -1,4 +1,4 @@
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { resolveRoots } from "@akasha/pages/checkout-roots"
 import { fieldFromHistory } from "../seat-page-history/seat-page-history.module.code.ts"
 import { pageTextOf } from "../seat-page-values/seat-page-values.module.code.ts"
 

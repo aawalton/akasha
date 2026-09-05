@@ -6,8 +6,8 @@ import {
 import { terminalHealthMarks } from "@akasha/agents/claude-account-health"
 import { DOORS as EFFECT_DOORS, markedOn } from "@akasha/agents/oauth-effects"
 import { readingIn } from "@akasha/indexes"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { valueAt } from "@akasha/pages-system/page-value"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import { valueAt } from "@akasha/pages/page-value"
 import type { ProxyAdoptionRuleSource } from "@akasha/seat-system/supervisor-proxy-adoption-rule"
 import {
   isAccountTerminal,

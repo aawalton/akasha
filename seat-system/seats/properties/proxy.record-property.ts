@@ -1,4 +1,4 @@
-import type { RecordProperty } from "@akasha/pages-system/record-property"
+import type { RecordProperty } from "@akasha/pages/record-property"
 import type { ProxyPort } from "./proxy-port.number-property.ts"
 import type { ProxyProcess } from "./proxy-process.process-property.ts"
 import type { ProxyVersion } from "./proxy-version.text-property.ts"

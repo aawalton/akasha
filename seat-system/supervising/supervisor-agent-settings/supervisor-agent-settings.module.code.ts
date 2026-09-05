@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
+import { ownRepoRoot } from "@akasha/pages/checkout-roots"
 import {
   type HookRegistration,
   hooksFrom,

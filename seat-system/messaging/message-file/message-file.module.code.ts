@@ -1,12 +1,8 @@
 import { existsSync, readdirSync } from "node:fs"
 import { landBodies, landRemovals } from "@akasha/command-system/gated-landing"
-import { AKASHA, akashaRoot } from "@akasha/pages-system/checkout-roots"
-import {
-  mergeUncommitted,
-  removeUncommitted,
-  uncommittedIn,
-} from "@akasha/pages-system/page-uncommitted"
-import { valueAt } from "@akasha/pages-system/page-value"
+import { AKASHA, akashaRoot } from "@akasha/pages/checkout-roots"
+import { mergeUncommitted, removeUncommitted, uncommittedIn } from "@akasha/pages/page-uncommitted"
+import { valueAt } from "@akasha/pages/page-value"
 import { composedFor } from "@akasha/pages-system-service/composing"
 import { akashaSeatIdForName } from "../../seat-akasha-beside/seat-akasha-beside.module.code.ts"
 

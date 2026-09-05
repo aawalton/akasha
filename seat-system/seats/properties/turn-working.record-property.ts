@@ -1,4 +1,4 @@
-import type { RecordProperty } from "@akasha/pages-system/record-property"
+import type { RecordProperty } from "@akasha/pages/record-property"
 import type { ActiveTurn } from "./active-turn.boolean-property.ts"
 import type { OpenAgents } from "./open-agents.text-property.ts"
 import type { OpenShells } from "./open-shells.text-property.ts"

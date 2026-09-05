@@ -1,6 +1,6 @@
 import type { Outcome } from "@akasha/command-system/gated-write"
-import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { AKASHA, rootFor } from "@akasha/pages/checkout-roots"
+import type { Roots } from "@akasha/pages/markdown-page-at"
 import { principalSeatNameOf } from "../seat-principal/seat-principal.module.code.ts"
 import type { Stated } from "../seat-stated/seat-stated.module.code.ts"
 import type { SeatStated, Stating } from "../seat-stating/seat-stating.module.code.ts"

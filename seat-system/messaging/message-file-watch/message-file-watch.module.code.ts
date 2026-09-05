@@ -1,5 +1,5 @@
 import { mkdirSync, watch } from "node:fs"
-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { akashaRoot } from "@akasha/pages/checkout-roots"
 import {
   type Message,
   messageDirRelPath,

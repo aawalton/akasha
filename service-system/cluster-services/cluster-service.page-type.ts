@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { Service } from "../services/service.page-type.ts"
 import type { ManifestCode } from "./properties/cluster-service-manifest-code.text-property.ts"
 import type { ClusterServiceSchedule } from "./properties/cluster-service-schedule.text-property.ts"

@@ -14,13 +14,13 @@ index 0000000000000000000000000000000000000000..14650092c0586a57afebb8600e309daf
 +  readUncommitted,
 +  removeUncommitted as removeBesideMarkdown,
 +} from "@akasha/markdown-pages/uncommitted"
-+import { AKASHA, akashaRoot } from "@akasha/pages-system/checkout-roots"
++import { AKASHA, akashaRoot } from "@akasha/pages/checkout-roots"
 +import {
 +  mergeUncommitted,
 +  removeUncommitted as removeBesidePage,
 +  uncommittedIn,
-+} from "@akasha/pages-system/page-uncommitted"
-+import { valueAt } from "@akasha/pages-system/page-value"
++} from "@akasha/pages/page-uncommitted"
++import { valueAt } from "@akasha/pages/page-value"
 +import { composedFor } from "@akasha/pages-system-service/composing"
 +import { akashaSeatIdForName } from "../../seat-akasha-beside/seat-akasha-beside.module.code.ts"
 +

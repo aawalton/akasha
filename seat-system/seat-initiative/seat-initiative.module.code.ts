@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
 import { initiativesDrawn } from "@akasha/editor-extension/work-initiatives"
-import { AKASHA } from "@akasha/pages-system/checkout-roots"
-import { addressIn } from "@akasha/pages-system/page-address"
+import { AKASHA } from "@akasha/pages/checkout-roots"
+import { addressIn } from "@akasha/pages/page-address"
 import { pageTextOf } from "../seat-page-values/seat-page-values.module.code.ts"
 
 const KEY = "initiative"

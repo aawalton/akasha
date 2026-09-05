@@ -1,5 +1,5 @@
-import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { AKASHA, rootFor } from "@akasha/pages/checkout-roots"
+import type { Roots } from "@akasha/pages/markdown-page-at"
 import { FLEET } from "../compose-seat-name/compose-seat-name.module.code.ts"
 import {
   akashaSeatInHistory,

@@ -1,4 +1,4 @@
-import { AKASHA, resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots } from "@akasha/pages/checkout-roots"
 import { asking } from "@akasha/pages-system-service/asking"
 
 const NONE = "none"

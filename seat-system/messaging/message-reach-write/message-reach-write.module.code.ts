@@ -1,4 +1,4 @@
-import type { WriteAct } from "@akasha/pages-system/page-landing-judge"
+import type { WriteAct } from "@akasha/pages/page-landing-judge"
 import { resolveSeatTarget } from "../../seat-handle/seat-handle.module.code.ts"
 import { messagePageAddress } from "../message-page-address/message-page-address.module.code.ts"
 import { names, undeclared } from "../message-to/message-to.module.code.ts"

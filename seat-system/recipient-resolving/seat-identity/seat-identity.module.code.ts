@@ -1,4 +1,4 @@
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import type { Roots } from "@akasha/pages/markdown-page-at"
 import { akashaSeatIdForName } from "../../seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { pageFromHistory } from "../../seat-page-history/seat-page-history.module.code.ts"
 

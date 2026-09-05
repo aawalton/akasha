@@ -1,8 +1,8 @@
 import { readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { SUBAGENT_MARK } from "@akasha/command-system/reading"
-import { partedIn } from "@akasha/pages-system/page-file-name"
-import { textAt, valueAt } from "@akasha/pages-system/page-value"
+import { partedIn } from "@akasha/pages/page-file-name"
+import { textAt, valueAt } from "@akasha/pages/page-value"
 import { supervisorsRootDir } from "@akasha/seat-system/supervisor-log-path"
 import {
   actingAgentPidsFromProc,

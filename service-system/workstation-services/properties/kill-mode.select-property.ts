@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const killMode = {
   id: "01a06738-9f12-72be-a840-02aab4c10e93",

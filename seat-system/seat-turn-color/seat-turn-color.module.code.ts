@@ -1,5 +1,5 @@
-import { akashaValuesAt } from "@akasha/pages-system/akasha-page-values"
-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { akashaValuesAt } from "@akasha/pages/akasha-page-values"
+import { akashaRoot } from "@akasha/pages/checkout-roots"
 import type { SeatTurnState } from "../seat-turn-state/seat-turn-state.module.code.ts"
 
 /**

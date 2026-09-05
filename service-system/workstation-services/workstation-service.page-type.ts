@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { Service } from "../services/service.page-type.ts"
 import type { Binds } from "./properties/binds.text-property.ts"
 import type { Enabled } from "./properties/enabled.boolean-property.ts"

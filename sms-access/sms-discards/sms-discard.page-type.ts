@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages-system/page"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { Page } from "@akasha/pages/page"
+import type { PageType } from "@akasha/pages/page-type"
 import type { SmsDiscardDiscardedAt } from "./properties/sms-discard-discarded-at.instant-property.ts"
 import type { SmsDiscardReason } from "./properties/sms-discard-reason.text-property.ts"
 import type { SmsDiscardSender } from "./properties/sms-discard-sender.text-property.ts"

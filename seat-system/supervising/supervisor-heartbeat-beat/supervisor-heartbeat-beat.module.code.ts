@@ -1,5 +1,5 @@
 import type { Outcome } from "@akasha/command-system/gated-write"
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { resolveRoots } from "@akasha/pages/checkout-roots"
 import { LOG } from "@akasha/seat-system/supervisor-config"
 import {
   getCurrentAgentIdForSelfHeal,

@@ -1,4 +1,4 @@
-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { akashaRoot } from "@akasha/pages/checkout-roots"
 import {
   ASSIGNMENTS,
   ATTRIBUTES,

@@ -1,5 +1,5 @@
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { slugIn } from "@akasha/pages-system/page-address"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import { slugIn } from "@akasha/pages/page-address"
 import { akashaSeatsInHistory } from "../seat-akasha-history/seat-akasha-history.module.code.ts"
 import { akashaSeatsStated } from "../seat-akasha-read/seat-akasha-read.module.code.ts"
 import { agentPresence } from "../seat-presence-read/seat-presence-read.module.code.ts"

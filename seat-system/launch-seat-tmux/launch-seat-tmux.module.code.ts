@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { akashaRoot } from "@akasha/pages/checkout-roots"
 import {
   envScrubArgv,
   launchModeFlags,

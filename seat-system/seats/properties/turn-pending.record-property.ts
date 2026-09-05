@@ -1,4 +1,4 @@
-import type { RecordProperty } from "@akasha/pages-system/record-property"
+import type { RecordProperty } from "@akasha/pages/record-property"
 import type { Compacting } from "./compacting.boolean-property.ts"
 import type { LiveShell } from "./live-shell.boolean-property.ts"
 import type { LiveSubagent } from "./live-subagent.boolean-property.ts"

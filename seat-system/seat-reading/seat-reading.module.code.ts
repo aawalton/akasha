@@ -1,8 +1,8 @@
 import { rootOf } from "@akasha/command-system/rooting"
 import { alive, type Holder } from "@akasha/file-system/lock-holder"
 import { everyOfType, listedById, typeSlugOf } from "@akasha/indexes"
-import { uncommittedIn } from "@akasha/pages-system/page-uncommitted"
-import { type Value, valueAt } from "@akasha/pages-system/page-value"
+import { uncommittedIn } from "@akasha/pages/page-uncommitted"
+import { type Value, valueAt } from "@akasha/pages/page-value"
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
 

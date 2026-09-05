@@ -1,4 +1,4 @@
-import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
+import { ownRepoRoot } from "@akasha/pages/checkout-roots"
 import { peopleStanding } from "@akasha/person-system/person-reading"
 import { personasStanding } from "@akasha/persona-system/persona-reading"
 

@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { Agent } from "../../agents/agent.page-type.ts"
 import type { ClaudeCodeSessionUuid } from "./properties/claude-code-session-uuid.text-property.ts"
 import type { ContextTokens } from "./properties/context-tokens.number-property.ts"

@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { Collection } from "../../collections/collection.page-type.ts"
 import type { OwnLength } from "../../collections/properties/own-length.number-property.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"

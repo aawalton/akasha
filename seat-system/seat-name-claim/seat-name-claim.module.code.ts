@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { lowerUuid } from "@akasha/pages-system/name-format/lower-uuid"
+import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
 import { statedIn } from "@akasha/utils-process/proc-reading"
 import { seatPathForName, supervisorAlive } from "../seat-reading/seat-reading.module.code.ts"
 

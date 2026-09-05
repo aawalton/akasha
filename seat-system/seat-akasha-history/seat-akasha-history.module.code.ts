@@ -1,5 +1,5 @@
 import { spawnSync } from "node:child_process"
-import { loadedFrom } from "@akasha/pages-system/page-value"
+import { loadedFrom } from "@akasha/pages/page-value"
 import { underOldKeys } from "../seat-akasha-read/seat-akasha-read.module.code.ts"
 
 // WHAT A SEAT STATED, READ BACK AFTER ITS PAGE IS GONE. A stop takes the page and commits the

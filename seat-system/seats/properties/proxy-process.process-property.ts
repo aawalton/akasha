@@ -1,4 +1,4 @@
-import type { ProcessProperty } from "@akasha/pages-system/process-property"
+import type { ProcessProperty } from "@akasha/pages/process-property"
 
 export type ProxyProcess = string
 

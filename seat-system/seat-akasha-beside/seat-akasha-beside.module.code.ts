@@ -1,10 +1,10 @@
 import { statSync } from "node:fs"
 import { join } from "node:path"
 import { onceInCall } from "@akasha/command-system/during-call"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { everyOfType, listedById } from "@akasha/pages-system/index-reading"
-import { uncommittedAt } from "@akasha/pages-system/page-file-name"
-import { uncommittedIn } from "@akasha/pages-system/page-uncommitted"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import { everyOfType, listedById } from "@akasha/pages/index-reading"
+import { uncommittedAt } from "@akasha/pages/page-file-name"
+import { uncommittedIn } from "@akasha/pages/page-uncommitted"
 import { seatAbove } from "../subagent-naming/subagent-naming.module.code.ts"
 
 export type Beside = Record<string, unknown>

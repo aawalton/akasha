@@ -1,6 +1,6 @@
 import { parseArgs } from "@akasha/command-system/parse-args"
 import { dataError, inputError } from "@akasha/errors-core/exit-code"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { launchSeatUnderTmux } from "@akasha/seat-system/launch-seat-tmux"
 import {
   handlerDerives,

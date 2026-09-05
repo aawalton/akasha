@@ -1,4 +1,4 @@
-import { AKASHA, akashaRoot, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, akashaRoot, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { seatId } from "@akasha/seat-system/read-record"
 import { handlerDerives, personaIsHers, refuseAnswering } from "@akasha/seat-system/seat-answering"
 import { type Args, parseArgs } from "@akasha/seat-system/seat-args"

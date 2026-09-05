@@ -2,7 +2,7 @@ import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { computePacingDerivations, formatPaceHours } from "@akasha/agents/claude-account-pacing"
 import { accountStateIn } from "@akasha/agents/claude-account-reading"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 
 export function writePacingSnapshot(account: string, configDir: string): void {

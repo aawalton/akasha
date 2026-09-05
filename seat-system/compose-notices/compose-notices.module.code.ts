@@ -1,6 +1,6 @@
 import { existsSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { fail } from "@akasha/command-system/command-failing"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 
 export const NOTICES = "seat-system/notices/pages"
 

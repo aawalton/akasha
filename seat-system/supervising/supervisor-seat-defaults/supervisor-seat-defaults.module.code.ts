@@ -1,4 +1,4 @@
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import type { Args } from "../../seat-args/seat-args.module.code.ts"
 import { attributesOf, recordedModeOf } from "../../seat-attributes/seat-attributes.module.code.ts"
 import { onCallOf } from "../../seat-on-call/seat-on-call.module.code.ts"
