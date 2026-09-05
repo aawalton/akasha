@@ -1,5 +1,5 @@
 diff --git a/temper/temper-addon-data/addon-data-output-dirs/addon-data-output-dirs.module.ts b/temper/temper-addon-data/addon-data-output-dirs/addon-data-output-dirs.module.ts
-index a7e445bdea063b9fb1bb91c0cccdeffbaf4a8512..b109525e5bf7921997fce34a3f7f811837a942bd 100644
+index a7e445bdea063b9fb1bb91c0cccdeffbaf4a8512..0fb848ed9ec791f12615c409ecd6d4482a72b3b9 100644
 --- a/temper/temper-addon-data/addon-data-output-dirs/addon-data-output-dirs.module.ts
 +++ b/temper/temper-addon-data/addon-data-output-dirs/addon-data-output-dirs.module.ts
 @@ -13,7 +13,7 @@ export const addonDataOutputDirs = {
@@ -11,8 +11,17 @@ index a7e445bdea063b9fb1bb91c0cccdeffbaf4a8512..b109525e5bf7921997fce34a3f7f8118
      },
      {
        invariantKind: "departure",
+@@ -21,7 +21,7 @@ export const addonDataOutputDirs = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "No dir is guarded over, the guarded list standing empty.",
++      statement: "No dir is guarded over, the guarded list being empty.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/temper/temper-addon-data/addon-data-proof/addon-data-proof.module.ts b/temper/temper-addon-data/addon-data-proof/addon-data-proof.module.ts
-index c82cc0fc0fbbcb158c8d867cf02bc5731b593368..fac4a60608d1f8403578951b57aba96f58eba4a0 100644
+index c82cc0fc0fbbcb158c8d867cf02bc5731b593368..915e0b54a7ab31d3ce44bc74e89b422b3721d1f8 100644
 --- a/temper/temper-addon-data/addon-data-proof/addon-data-proof.module.ts
 +++ b/temper/temper-addon-data/addon-data-proof/addon-data-proof.module.ts
 @@ -14,7 +14,7 @@ export const addonDataProof = {
@@ -21,6 +30,15 @@ index c82cc0fc0fbbcb158c8d867cf02bc5731b593368..fac4a60608d1f8403578951b57aba96f
        invariantKind: "departure",
 -      statement: "A file the run would emit is judged against the file standing on disk.",
 +      statement: "A file the run would emit is judged against the file on disk.",
+     },
+     {
+       invariantKind: "departure",
+@@ -30,7 +30,7 @@ export const addonDataProof = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A section is reported whether the sections beside it stood or fell.",
++      statement: "A section is reported whether the sections beside it held or fell.",
      },
      {
        invariantKind: "departure",
