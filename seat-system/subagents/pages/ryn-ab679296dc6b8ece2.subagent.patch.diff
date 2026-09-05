@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/formula/formula-language/formula-language.module.ts b/pages/formula/formula-language/formula-language.module.ts
+index f8cd2cbf51d562e22408079e9e83a68b627427d1..a8a62958d46aa912af91f7fee2c33acf5b3a0b15 100644
+--- a/pages/formula/formula-language/formula-language.module.ts
++++ b/pages/formula/formula-language/formula-language.module.ts
+@@ -13,7 +13,7 @@ export const formulaLanguage = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A formula names a computed property exactly as it names a stored one.",
++      statement: "A formula names a computed property exactly as that formula names a stored one.",
+     },
+     {
+       invariantKind: "departure",
