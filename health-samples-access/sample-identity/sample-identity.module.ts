@@ -10,7 +10,7 @@ export const sampleIdentity = {
     {
       invariantKind: "departure",
       statement:
-        "What names a reading is its metric with its source and the span the reading covers.",
+        "A reading's identity is its metric with its source and the span the reading covers.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +22,7 @@ export const sampleIdentity = {
     },
     {
       invariantKind: "absence",
-      statement: "The value read is no part of what names a reading.",
+      statement: "The value read is no part of a reading's identity.",
     },
   ],
 } as const satisfies Module
