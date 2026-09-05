@@ -15,7 +15,7 @@ export const rbacClusterRoleRules = {
     {
       invariantKind: "departure",
       statement:
-        "A cluster-scoped name the pipeline engine applies more than once stands in the resourceNames of the patch rule.",
+        "A cluster-scoped name the pipeline engine applies more than once is in the resourceNames of the patch rule.",
     },
   ],
 } as const satisfies Module

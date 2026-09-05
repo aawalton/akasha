@@ -10,7 +10,7 @@ function checkoutRootAbove(from: string): string {
   for (;;) {
     if (existsSync(join(at, "bun.lock"))) return at
     const up = dirname(at)
-    if (up === at) throw new Error(`no \`bun.lock\` stands above ${from}`)
+    if (up === at) throw new Error(`no \`bun.lock\` is above ${from}`)
     at = up
   }
 }

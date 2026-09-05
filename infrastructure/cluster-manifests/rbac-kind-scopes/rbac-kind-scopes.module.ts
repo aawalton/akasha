@@ -5,6 +5,6 @@ export const rbacKindScopes = {
   pageTypeSlug: "module",
   slug: "rbac-kind-scopes",
   definition:
-    "whether a Kubernetes kind stands in a namespace or across the cluster, and the resource it is granted as",
+    "whether a Kubernetes kind is in a namespace or across the cluster, and the resource it is granted as",
   code: "ts",
 } as const satisfies Module

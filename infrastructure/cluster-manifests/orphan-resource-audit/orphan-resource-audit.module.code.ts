@@ -41,7 +41,7 @@ export async function sourceKeys(root: string): Promise<ReadonlySet<string>> {
   const synthPaths = discoverSynthFiles(root)
   if (synthPaths.length === 0) {
     throw new Error(
-      `no synth source stands under ${root}, so every live resource would read as an orphan`
+      `no synth source is under ${root}, so every live resource would read as an orphan`
     )
   }
   const keys = new Set<string>()

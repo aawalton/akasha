@@ -40,7 +40,7 @@ export async function profileSources(root: string): Promise<readonly RbacProfile
       ? (held as readonly NamespaceProfile[])
       : []
     if (exported.length === 0) {
-      throw new Error(`${file} stands among the RBAC profiles and exports none`)
+      throw new Error(`${file} is among the RBAC profiles and exports none`)
     }
     if (typeof mod.packageName !== "string" || mod.packageName === "") {
       throw new Error(

@@ -10,8 +10,7 @@ export const orphanSweeping = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Every Deployment, Service and StatefulSet standing in the app namespaces is read.",
+      statement: "Every Deployment, Service and StatefulSet in the app namespaces is read.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +35,7 @@ export const orphanSweeping = {
     },
     {
       invariantKind: "departure",
-      statement: "The manifests compared against are read from this checkout as it now stands.",
+      statement: "The manifests compared against are read from this checkout as it now is.",
     },
     {
       invariantKind: "departure",

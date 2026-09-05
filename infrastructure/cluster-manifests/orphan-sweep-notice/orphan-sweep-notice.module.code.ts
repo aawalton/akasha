@@ -28,7 +28,7 @@ function alertText(reading: SweepReading): string {
     "Each is a live resource a deploy manages that no `synth.ts` accounts for, so what is " +
     "running has parted from what the code says should run. Put it right by taking the orphan " +
     `away or restoring its source. ${reading.liveCount} live resource(s) were read across ` +
-    `${reading.namespaceCount} app namespace(s). The whole run stands in ` +
+    `${reading.namespaceCount} app namespace(s). The whole run is in ` +
     "`journalctl --user -u orphaned-resources-sweep` on the workstation."
   )
 }
