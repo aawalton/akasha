@@ -1,0 +1,32 @@
+diff --git a/pages/types/properties/allows-tmp-paths.boolean-property.ts b/pages/types/properties/allows-tmp-paths.boolean-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..052fdb89824c925fac5c3140c6b95b68019dcab0
+--- /dev/null
++++ b/pages/types/properties/allows-tmp-paths.boolean-property.ts
+@@ -0,0 +1,26 @@
++import type { BooleanProperty } from "../../boolean-properties/boolean-property.page-type.ts"
++
++export type AllowsTmpPaths = boolean
++
++export const allowsTmpPaths = {
++  id: "01a0722b-2eaf-7edc-9104-bd5677e7020d",
++  pageTypeSlug: "boolean-property",
++  slug: "allows-tmp-paths",
++  propertySlug: "allows-tmp-paths",
++  definition:
++    "whether the paths a page of this type spells are a container's rather than this machine's",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A page type saying nothing here spells the paths of this workstation.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page type says true here where its pages spell the paths inside a container.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path inside a container is not a path on this workstation.",
++    },
++  ],
++} as const satisfies BooleanProperty
