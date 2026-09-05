@@ -59,7 +59,7 @@ export const deviceSecretKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A revoked secret keeps its page rather than losing it.",
+      statement: "A revoked secret keeps its page rather than losing that page.",
     },
     {
       invariantKind: "absence",
