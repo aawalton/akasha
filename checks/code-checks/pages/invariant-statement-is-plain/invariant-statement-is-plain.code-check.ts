@@ -65,7 +65,8 @@ export const invariantStatementIsPlain = {
     },
     {
       invariantKind: "stopgap",
-      statement: "Every phase but patch is off until the invariants akasha holds are rewritten.",
+      statement:
+        "Every phase is off until the shapes are settled and the invariants are rewritten.",
     },
     {
       invariantKind: "gap",
