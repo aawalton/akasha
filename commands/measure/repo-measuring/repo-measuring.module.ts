@@ -19,7 +19,7 @@ export const repoMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A file type is what follows the last dot in a name.",
+      statement: "A file type is the text following the last dot in a name.",
     },
     {
       invariantKind: "departure",
