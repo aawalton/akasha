@@ -1,0 +1,19 @@
+diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
+index c7041d421e9a8cb7f4f938980bbe392bd22a5d3a..59adef50fe76d9e33b7d6973cecc6d5e090b47db 100644
+--- a/command-system/landing/landing.module.ts
++++ b/command-system/landing/landing.module.ts
+@@ -250,11 +250,11 @@ export const landing = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A draft writes no file in the worktree.",
++      statement: "A draft writes no body the change carries into the worktree.",
+     },
+     {
+-      invariantKind: "absence",
+-      statement: "A draft makes no commit.",
++      invariantKind: "departure",
++      statement: "A draft commits the patch rather than the bodies the change carries.",
+     },
+     {
+       invariantKind: "departure",
