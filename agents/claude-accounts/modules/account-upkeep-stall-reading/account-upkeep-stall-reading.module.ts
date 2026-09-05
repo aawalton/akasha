@@ -10,7 +10,7 @@ export const accountUpkeepStallReading = {
     {
       invariantKind: "departure",
       statement:
-        "Upkeep dying takes every claude account down with it once the last token runs out.",
+        "Upkeep dying takes every claude account down with upkeep once the last token runs out.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +49,7 @@ export const accountUpkeepStallReading = {
     {
       invariantKind: "departure",
       statement:
-        "The population is the claude-account pages there are, and it is stated on every run.",
+        "The population is the claude-account pages there are, and that population is stated on every run.",
     },
     {
       invariantKind: "departure",
