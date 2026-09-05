@@ -50,23 +50,23 @@ export const checks = {
     },
     {
       invariantKind: "departure",
-      statement: "The other phases judge only what changed.",
+      statement: "The other phases judge only the changed pages.",
     },
     {
       invariantKind: "departure",
-      statement: "A check's answer is undone by a change to what the check runs on.",
+      statement: "A check's answer is undone by a change to the input the check runs on.",
     },
     {
       invariantKind: "departure",
-      statement: "A check's answer is undone by a change to what the check runs with.",
+      statement: "A check's answer is undone by a change to the input the check runs with.",
     },
     {
       invariantKind: "departure",
-      statement: "A patch runs a check for a change to what the check runs on.",
+      statement: "A patch runs a check for a change to the input the check runs on.",
     },
     {
       invariantKind: "departure",
-      statement: "A change to what a check runs with is caught at audit.",
+      statement: "A change to the input a check runs with is caught at audit.",
     },
     {
       invariantKind: "upkeep",
@@ -74,11 +74,11 @@ export const checks = {
     },
     {
       invariantKind: "departure",
-      statement: "An input wider than what the answer rests on costs a run that finds nothing.",
+      statement: "An input wider than the answer rests on costs a run that finds nothing.",
     },
     {
       invariantKind: "departure",
-      statement: "An input narrower than what the answer rests on loses a refusal for good.",
+      statement: "An input narrower than the answer rests on loses a refusal for good.",
     },
     {
       invariantKind: "departure",
