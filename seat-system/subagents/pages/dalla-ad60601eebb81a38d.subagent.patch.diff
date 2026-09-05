@@ -1,0 +1,12 @@
+diff --git a/commands/replace/replace.command.code.ts b/commands/replace/replace.command.code.ts
+index 82b261b5c9726a8fdc5fea2ee7f335760e510141..fe448e5279b7b35f9b13475d1afddffd76ec29df 100644
+--- a/commands/replace/replace.command.code.ts
++++ b/commands/replace/replace.command.code.ts
+@@ -268,6 +268,7 @@ export async function replacing(
+     glass: glass.glass,
+     unmoved: held.unmoved,
+     saying: () => held.counting.map((one) => `${one.path} — ${counted(one.found, "replacement")}`),
++    draft: given.agentId !== null,
+   }
+   return await landingAsked(given, asked)
+ }
