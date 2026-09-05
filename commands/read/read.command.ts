@@ -44,7 +44,7 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "What changed comes back only where it is shorter than the whole file.",
+      statement: "What changed comes back only where what changed is shorter than the whole file.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +67,7 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "A body that would not open is refused with why it would not.",
+      statement: "A body that would not open is refused with why that body would not.",
     },
     {
       invariantKind: "absence",
@@ -132,7 +132,7 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "A read records the body that reached the agent it was for.",
+      statement: "A read records the body that reached the agent that read was for.",
     },
     {
       invariantKind: "departure",
@@ -164,7 +164,7 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "A warrant reaches a read only where it says it runs on one.",
+      statement: "A warrant reaches a read only where that warrant says that warrant runs on one.",
     },
     {
       invariantKind: "departure",
