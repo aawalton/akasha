@@ -1,0 +1,59 @@
+diff --git a/code-system/code-tests/code-tests.module.code.ts b/code-system/code-tests/code-tests.module.code.ts
+index 86e6aa4735f9e796d3067bd11de63c138d3fabd0..57dc81571e5ea72afcafed8573662e53616f265b 100644
+--- a/code-system/code-tests/code-tests.module.code.ts
++++ b/code-system/code-tests/code-tests.module.code.ts
+@@ -72,6 +72,8 @@ const NONE_NAMED = /\bmatched 0 tests\b/
+ 
+ export const RUNNING = "AKASHA_TESTS_RUNNING"
+ 
++export const BATCH = 100
++
+ export const CARRIED: readonly string[] = [
+   ".gitignore",
+   ".sops.yaml",
+@@ -357,6 +359,13 @@ function wholeOf(name: string): string {
+   return `^${name.replace(SPECIAL, "\\$&")}$`
+ }
+ 
++export function batchedOf(named: readonly string[]): readonly (readonly string[])[] {
++  if (named.length <= BATCH) return [named]
++  const held: (readonly string[])[] = []
++  for (let at = 0; at < named.length; at += BATCH) held.push(named.slice(at, at + BATCH))
++  return held
++}
++
+ export function ranOver(
+   root: string,
+   named: readonly string[],
+@@ -371,18 +380,20 @@ export function ranOver(
+   let output = ""
+   for (const group of runs) {
+     const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
+-    const done = ran([RUNNER, RUNS, ...preloading, ...naming, ...group.named], {
+-      cwd: root,
+-      env: { ...process.env, [RUNNING]: MARK },
+-    })
+-    output += `${done.out}${done.err}`
+-    if (signal !== null) continue
+-    if (done.signal !== null) {
+-      code = done.code
+-      signal = done.signal
+-      continue
++    for (const batch of batchedOf(group.named)) {
++      const done = ran([RUNNER, RUNS, ...preloading, ...naming, ...batch], {
++        cwd: root,
++        env: { ...process.env, [RUNNING]: MARK },
++      })
++      output += `${done.out}${done.err}`
++      if (signal !== null) continue
++      if (done.signal !== null) {
++        code = done.code
++        signal = done.signal
++        continue
++      }
++      if (code === 0) code = done.code
+     }
+-    if (code === 0) code = done.code
+   }
+   return {
+     code,
