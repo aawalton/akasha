@@ -23,7 +23,7 @@ export const pageQueryShape = {
     {
       invariantKind: "departure",
       statement:
-        "An answer carries what that answer could not read alongside what that answer read.",
+        "An answer carries the pages that answer could not read alongside the pages that answer read.",
     },
     {
       invariantKind: "absence",
