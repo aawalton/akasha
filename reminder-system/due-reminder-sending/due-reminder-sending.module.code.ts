@@ -3,13 +3,13 @@ import {
   armedAt,
   armFor,
   everyReminder,
+  type Found,
   nextElapse,
-  type Standing,
   tookReminder,
 } from "@akasha/reminder-system/reminder-sending"
 import { writeMessage } from "@akasha/seat-system/message-file"
 
-async function sendOne(one: Standing): Promise<string | null> {
+async function sendOne(one: Found): Promise<string | null> {
   const written = await writeMessage({
     to: one.to,
     from: one.from,

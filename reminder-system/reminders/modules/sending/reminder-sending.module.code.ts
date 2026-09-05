@@ -14,7 +14,7 @@ const PAGE_TYPE = "reminder"
 
 const NEXT_AT = "nextAt"
 
-export type Standing = {
+export type Found = {
   readonly path: string
   readonly slug: string
   readonly to: string
@@ -28,8 +28,8 @@ export type Elapse =
   | { readonly kind: "never" }
   | { readonly kind: "unread"; readonly said: string }
 
-export function everyReminder(root: string): readonly Standing[] {
-  const found: Standing[] = []
+export function everyReminder(root: string): readonly Found[] {
+  const found: Found[] = []
   for (const one of valuesOfType(root, PAGE_TYPE)) {
     const slug = textAt(one.value, "slug")
     const to = textAt(one.value, "to")
