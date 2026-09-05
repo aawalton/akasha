@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/asking/asking.module.ts b/command-system/asking/asking.module.ts
-index 495467450507bb01971fe05365c54c965466a4d5..220ae330c6bce31bcf01c05f161edabc1a64415f 100644
+index 495467450507bb01971fe05365c54c965466a4d5..d76fc0be147d7e800def7cbd5d2efbcdc42fac89 100644
 --- a/command-system/asking/asking.module.ts
 +++ b/command-system/asking/asking.module.ts
 @@ -55,7 +55,8 @@ export const asking = {
@@ -10,6 +10,16 @@ index 495467450507bb01971fe05365c54c965466a4d5..220ae330c6bce31bcf01c05f161edabc
 -      statement: "That refusal names what puts a subagent's page up and what to run to put one up.",
 +      statement:
 +        "That refusal names the hook that puts a subagent's page up and the command to run to put one up.",
+     },
+     {
+       invariantKind: "departure",
+@@ -63,7 +64,8 @@ export const asking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the refusal names is filled in from the agent id as far as that id says.",
++      statement:
++        "The names that refusal gives are filled in from the agent id as far as that id says.",
      },
      {
        invariantKind: "departure",
