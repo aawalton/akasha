@@ -48,10 +48,7 @@ export const bunCalls = {
       invariantKind: "absence",
       statement: "The cutting is `shell-calls`.",
     },
-    {
-      invariantKind: "absence",
-      statement: "The stepping over of a prefix is `shell-calls` too.",
-    },
+
     {
       invariantKind: "absence",
       statement: "No rule about quoting or basenames exists here.",

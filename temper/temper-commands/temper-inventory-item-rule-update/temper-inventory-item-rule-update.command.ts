@@ -25,10 +25,6 @@ export const temperInventoryItemRuleUpdate = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A locked per-item rule is refused unless the call says `--force`.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A field the call names nothing for is left as the field was.",
     },
     {

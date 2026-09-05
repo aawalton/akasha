@@ -28,10 +28,7 @@ export const pageSecretShow = {
       invariantKind: "departure",
       statement: "The keys declared are read off the page type the page names.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A key is spelled as the page type's own key rather than as its slug.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here decrypts anything or answers with a value.",
