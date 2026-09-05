@@ -1,13 +1,18 @@
 diff --git a/command-system/gated-write/gated-write.module.ts b/command-system/gated-write/gated-write.module.ts
-index 253183a95ab7bcc0bbbbaebfa824a5f023cb3f3e..79e0ddf1fe5eb188dd93fc26c8701a9076adf8d2 100644
+index 253183a95ab7bcc0bbbbaebfa824a5f023cb3f3e..1a32c85f71241f7b2ff3125de302d94ceb7392d0 100644
 --- a/command-system/gated-write/gated-write.module.ts
 +++ b/command-system/gated-write/gated-write.module.ts
-@@ -9,7 +9,7 @@ export const gatedWrite = {
+@@ -9,11 +9,11 @@ export const gatedWrite = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "A run is its exit code together with what it printed.",
 +      statement: "A run is its exit code together with what that run printed.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Only a refusal carries a reason with it.",
++      statement: "Only a refusal carries a reason with that refusal.",
      },
      {
        invariantKind: "departure",
