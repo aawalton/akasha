@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { Alliance } from "../temper-companion-things/properties/alliance.text-property.ts"
 import type { ClassPassiveId } from "../temper-companion-things/properties/class-passive-id.text-property.ts"
 import type { EsoCompanionId } from "../temper-companion-things/properties/eso-companion-id.number-property.ts"

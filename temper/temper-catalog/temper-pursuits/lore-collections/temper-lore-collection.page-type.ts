@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { TemperPursuitThing } from "../temper-pursuit-things/temper-pursuit-thing.page-type.ts"
 import type { Books } from "./properties/books.page-property-entry.ts"
 import type { EsoCollectionIndex } from "./properties/eso-collection-index.number-property.ts"

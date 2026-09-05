@@ -1,4 +1,4 @@
-import type { TextProperty } from "@akasha/pages-system/text-property"
+import type { TextProperty } from "@akasha/pages/text-property"
 
 export type ItemLevel = string
 
@@ -13,7 +13,7 @@ export const itemLevel = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A level reading Scaled follows the character carrying the item.",
+      statement: "A level reading Scaled follows whoever carries the item.",
     },
   ],
 } as const satisfies TextProperty

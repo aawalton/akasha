@@ -1,4 +1,4 @@
-import type { RecordProperty } from "@akasha/pages-system/record-property"
+import type { RecordProperty } from "@akasha/pages/record-property"
 import type { MaxTargets } from "./max-targets.number-property.ts"
 import type { TargetKind } from "./target-kind.text-property.ts"
 import type { TargetRadius } from "./target-radius.number-property.ts"

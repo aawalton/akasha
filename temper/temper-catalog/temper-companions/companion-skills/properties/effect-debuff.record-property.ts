@@ -1,4 +1,4 @@
-import type { RecordProperty } from "@akasha/pages-system/record-property"
+import type { RecordProperty } from "@akasha/pages/record-property"
 import type { EffectValue } from "../../../temper-catalog-things/properties/effect-value.number-property.ts"
 import type { ValueType } from "../../../temper-catalog-things/properties/value-type.text-property.ts"
 import type { DebuffName } from "./debuff-name.text-property.ts"

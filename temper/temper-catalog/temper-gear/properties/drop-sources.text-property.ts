@@ -1,5 +1,5 @@
-import type { List } from "@akasha/pages-system/page-property"
-import type { TextProperty } from "@akasha/pages-system/text-property"
+import type { List } from "@akasha/pages/page-property"
+import type { TextProperty } from "@akasha/pages/text-property"
 
 export type DropSource = string
 export type DropSources = List<DropSource>

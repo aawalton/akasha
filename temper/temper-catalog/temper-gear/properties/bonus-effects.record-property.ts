@@ -1,5 +1,5 @@
-import type { List } from "@akasha/pages-system/page-property"
-import type { RecordProperty } from "@akasha/pages-system/record-property"
+import type { List } from "@akasha/pages/page-property"
+import type { RecordProperty } from "@akasha/pages/record-property"
 import type { BuffId } from "../../temper-catalog-things/properties/buff-id.text-property.ts"
 import type { EffectType } from "../../temper-catalog-things/properties/effect-type.text-property.ts"
 import type { EffectValue } from "../../temper-catalog-things/properties/effect-value.number-property.ts"

@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { EffectType } from "../../temper-catalog-things/properties/effect-type.text-property.ts"
 import type { MetricId } from "../../temper-catalog-things/properties/metric-id.text-property.ts"
 import type { IsReduction } from "../temper-companion-things/properties/is-reduction.boolean-property.ts"

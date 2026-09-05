@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { SlotCategory } from "../temper-companion-things/properties/slot-category.text-property.ts"
 import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.ts"
 

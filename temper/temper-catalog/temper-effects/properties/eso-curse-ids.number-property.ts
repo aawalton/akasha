@@ -1,5 +1,5 @@
-import type { NumberProperty } from "@akasha/pages-system/number-property"
-import type { List } from "@akasha/pages-system/page-property"
+import type { NumberProperty } from "@akasha/pages/number-property"
+import type { List } from "@akasha/pages/page-property"
 
 export type EsoCurseId = number
 export type EsoCurseIds = List<EsoCurseId>

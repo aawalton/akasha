@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { ConstantKind } from "../temper-companion-things/properties/constant-kind.text-property.ts"
 import type { KeyText } from "../temper-companion-things/properties/key-text.text-property.ts"
 import type { ValueNum } from "../temper-companion-things/properties/value-num.number-property.ts"

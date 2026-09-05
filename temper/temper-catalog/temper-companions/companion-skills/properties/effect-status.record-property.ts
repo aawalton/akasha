@@ -1,4 +1,4 @@
-import type { RecordProperty } from "@akasha/pages-system/record-property"
+import type { RecordProperty } from "@akasha/pages/record-property"
 import type { Duration } from "./duration.number-property.ts"
 import type { StatusDistance } from "./status-distance.number-property.ts"
 import type { StatusMagnitude } from "./status-magnitude.number-property.ts"
