@@ -10,7 +10,8 @@ export const pageLandingJournal = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A journal is named for the checkout it represents rather than for its writer.",
+      statement:
+        "A journal is named for the checkout that journal represents rather than for its writer.",
     },
     {
       invariantKind: "departure",
