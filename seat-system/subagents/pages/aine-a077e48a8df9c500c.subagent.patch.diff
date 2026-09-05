@@ -1,0 +1,98 @@
+diff --git a/design/badges/badge-layout-context/badge-layout-context.module.ts b/design/badges/badge-layout-context/badge-layout-context.module.ts
+index 501df67baae6a7d6f48715b495ec34dc628738cc..5329c7c1f19f6ee1194247c35cb0c796ce820320 100644
+--- a/design/badges/badge-layout-context/badge-layout-context.module.ts
++++ b/design/badges/badge-layout-context/badge-layout-context.module.ts
+@@ -4,6 +4,6 @@ export const badgeLayoutContext = {
+   id: "01a05b55-a539-7f95-a30c-8b90c271e72d",
+   pageTypeSlug: "module",
+   slug: "badge-layout-context",
+-  definition: "the layout a badge takes from the badges it stands among",
++  definition: "the layout a badge takes from the badges it sits among",
+   code: "tsx",
+ } as const satisfies Module
+diff --git a/design/badges/empty-badge/empty-badge.module.ts b/design/badges/empty-badge/empty-badge.module.ts
+index 3e04460709d1fe954b51991ed53c706ba863ef0f..befb0ccd05013310cf94e7a3d42eb774b952b915 100644
+--- a/design/badges/empty-badge/empty-badge.module.ts
++++ b/design/badges/empty-badge/empty-badge.module.ts
+@@ -4,6 +4,6 @@ export const emptyBadge = {
+   id: "01a05b55-a539-71ed-8bff-e04f82a5512a",
+   pageTypeSlug: "module",
+   slug: "empty-badge",
+-  definition: "a badge standing where a value is absent",
++  definition: "a badge sitting where a value is absent",
+   code: "tsx",
+ } as const satisfies Module
+diff --git a/design/colors/color.page-type.ts b/design/colors/color.page-type.ts
+index 4dc8bf9a3fc78a2b2f60590c13fa73607f15ecfa..d74ab4c92250768e8bc484658d5d2f059a035113 100644
+--- a/design/colors/color.page-type.ts
++++ b/design/colors/color.page-type.ts
+@@ -28,8 +28,7 @@ export const color = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Each hex here is a gemstone shade standing under a plain name rather than the gemstone's.",
++      statement: "Each hex here is a gemstone shade under a plain name rather than the gemstone's.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/design/layout/skeleton-text/skeleton-text.module.ts b/design/layout/skeleton-text/skeleton-text.module.ts
+index 501414b180df6c1637241426efcd898562182389..263e1a23e8b2eac65c58cbdceaac801b1980e2ca 100644
+--- a/design/layout/skeleton-text/skeleton-text.module.ts
++++ b/design/layout/skeleton-text/skeleton-text.module.ts
+@@ -4,6 +4,6 @@ export const skeletonText = {
+   id: "01a05b82-8b9a-74c5-8372-4df18ce05de6",
+   pageTypeSlug: "module",
+   slug: "skeleton-text",
+-  definition: "grey lines standing in for a paragraph still loading",
++  definition: "grey lines in place of a paragraph still loading",
+   code: "tsx",
+ } as const satisfies Module
+diff --git a/design/patterns/chip/chip.module.ts b/design/patterns/chip/chip.module.ts
+index 8a4f9b0fd6a5cdd6030e3ee254815996bf45ba51..d03cfecc882956008f86a9b10b4816b992e20d9e 100644
+--- a/design/patterns/chip/chip.module.ts
++++ b/design/patterns/chip/chip.module.ts
+@@ -4,6 +4,6 @@ export const chip = {
+   id: "01a05c51-8283-79cf-b56f-860e9c34636b",
+   pageTypeSlug: "module",
+   slug: "chip",
+-  definition: "a small removable token standing for one value",
++  definition: "a small removable token representing one value",
+   code: "tsx",
+ } as const satisfies Module
+diff --git a/design/patterns/item-card/item-card.module.ts b/design/patterns/item-card/item-card.module.ts
+index d8c78f9f3eeff3145dc6a6b353703af0e070dc2e..8f7531a9c8b86685e013bbade982190b2c337cfc 100644
+--- a/design/patterns/item-card/item-card.module.ts
++++ b/design/patterns/item-card/item-card.module.ts
+@@ -4,6 +4,6 @@ export const itemCard = {
+   id: "01a05c69-c062-7731-8608-3b70d88150de",
+   pageTypeSlug: "module",
+   slug: "item-card",
+-  definition: "a card standing for one item in a grid",
++  definition: "a card representing one item in a grid",
+   code: "tsx",
+ } as const satisfies Module
+diff --git a/design/patterns/item-row/item-row.module.ts b/design/patterns/item-row/item-row.module.ts
+index f85361baa824a94a2fbaf500d5b8653279d6a911..396dda42e36817cf40cdbf91e3bddd17e3a01cc2 100644
+--- a/design/patterns/item-row/item-row.module.ts
++++ b/design/patterns/item-row/item-row.module.ts
+@@ -4,6 +4,6 @@ export const itemRow = {
+   id: "01a05c69-c063-7566-8a9b-689790778f2f",
+   pageTypeSlug: "module",
+   slug: "item-row",
+-  definition: "a row standing for one item in a list",
++  definition: "a row representing one item in a list",
+   code: "tsx",
+ } as const satisfies Module
+diff --git a/design/patterns/path/path.module.ts b/design/patterns/path/path.module.ts
+index 79d9e3e92db916e16ac7d4aaa89314e864fa8f16..44305d8bbc852ca26edae2b22bb04cb8f9a4d189 100644
+--- a/design/patterns/path/path.module.ts
++++ b/design/patterns/path/path.module.ts
+@@ -4,6 +4,6 @@ export const path = {
+   id: "01a05c51-8285-728b-b90e-d0110328e046",
+   pageTypeSlug: "module",
+   slug: "path",
+-  definition: "the path a node stands at under its parent",
++  definition: "the path a node is at under its parent",
+   code: "ts",
+ } as const satisfies Module
