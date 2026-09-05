@@ -11,7 +11,7 @@ export const checkoutCounting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What git holds is what is listed.",
+      statement: "The files git holds are the files listed.",
     },
     {
       invariantKind: "departure",
