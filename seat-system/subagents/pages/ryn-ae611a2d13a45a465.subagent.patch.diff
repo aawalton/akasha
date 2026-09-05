@@ -1,0 +1,13 @@
+diff --git a/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.ts b/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.ts
+index 9f5ac54836be15a8be41c6b7c2ae2d7f553e1443..78193000f59188cc8082f0fc038843243461c367 100644
+--- a/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.ts
++++ b/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.ts
+@@ -26,7 +26,7 @@ export const blockGitWrites = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A prefix that only runs the call behind it does not hide a git write from this hook.",
++        "A prefix that only runs the call behind that prefix does not hide a git write from this hook.",
+     },
+     {
+       invariantKind: "absence",
