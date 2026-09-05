@@ -1,0 +1,13 @@
+diff --git a/commands/refactor/refactor.command.ts b/commands/refactor/refactor.command.ts
+index 43e695aaaf00fd357de4034f53617088630bba7c..5ae8ca3d4f6a32daeb1017a3ea869e194ad9eaac 100644
+--- a/commands/refactor/refactor.command.ts
++++ b/commands/refactor/refactor.command.ts
+@@ -80,7 +80,7 @@ export const refactor = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An act this command does not carry is refused with the ones it does.",
++      statement: "An act this command does not carry is refused with the ones this command does.",
+     },
+     {
+       invariantKind: "departure",
