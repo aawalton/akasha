@@ -13,7 +13,7 @@ export const deployableAddons = {
     },
     {
       invariantKind: "departure",
-      statement: "A roster handed in is taken as the answer to what the repository holds.",
+      statement: "A roster handed in is taken as the answer to which addons the repository holds.",
     },
     {
       invariantKind: "absence",
