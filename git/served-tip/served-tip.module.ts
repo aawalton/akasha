@@ -4,7 +4,7 @@ export const servedTip = {
   id: "01a0691b-4f64-7e7b-882f-6c45e18374af",
   pageTypeSlug: "module",
   slug: "served-tip",
-  definition: "the commit a branch stands at on the transport, and whether a commit stands locally",
+  definition: "the commit a branch is at on the transport, and whether a commit is there locally",
   code: "ts",
   invariants: [
     {

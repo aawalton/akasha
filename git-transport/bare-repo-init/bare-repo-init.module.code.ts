@@ -225,7 +225,7 @@ touch "$LOCK"
   # because its authority is a workstation tree and its only branch is main.
   #
   # It differs from the other four in what depends on it rather than in how it
-  # is held. Two further checkouts stand beside that workstation tree — the
+  # is held. Two further checkouts sit beside that workstation tree — the
   # staging tree a promotion builds and drives, and the live tree Alan runs —
   # and both take the working checkout as their origin rather than this store.
   # That is the three-tree split working: what he runs advances only through

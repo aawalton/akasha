@@ -38,7 +38,7 @@ export const postReceiveMirror = {
     },
     {
       invariantKind: "departure",
-      statement: "A history copy pushes every branch and tag as they stand.",
+      statement: "A history copy pushes every branch and tag as they are.",
     },
     {
       invariantKind: "departure",

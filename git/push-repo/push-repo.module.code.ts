@@ -37,7 +37,7 @@ Flags:
 
 Exit codes:
   0  the remote holds this branch, or another pusher already has it
-  1  the push failed twice; the reason stands in harness-push.state
+  1  the push failed twice; the reason is in harness-push.state
 `
 
 function parse(argv: readonly string[]): string {
