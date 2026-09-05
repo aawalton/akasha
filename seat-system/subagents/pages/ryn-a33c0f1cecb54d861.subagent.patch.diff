@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/commands/move/outside/move-outside.module.ts b/commands/move/outside/move-outside.module.ts
-index d3cd5d5504a7368bcf65a17244a0e8e5568b7988..ef293ce2d88b5e398c144f2c647c46a267ee6c3c 100644
+index d3cd5d5504a7368bcf65a17244a0e8e5568b7988..411d2573f15b39e9fd97c5d6ec5f73e17da66751 100644
 --- a/commands/move/outside/move-outside.module.ts
 +++ b/commands/move/outside/move-outside.module.ts
 @@ -30,11 +30,13 @@ export const moveOutside = {
@@ -16,6 +16,15 @@ index d3cd5d5504a7368bcf65a17244a0e8e5568b7988..ef293ce2d88b5e398c144f2c647c46a2
 -      statement: "A resolved path under a folder that moved arrives under what that folder became.",
 +      statement:
 +        "A resolved path under a folder that moved arrives under the path that folder became.",
+     },
+     {
+       invariantKind: "departure",
+@@ -44,7 +46,7 @@ export const moveOutside = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What is written back is a relative path from the folder of the file carrying that path.",
++        "The path written back is a relative path from the folder of the file carrying that path.",
      },
      {
        invariantKind: "departure",
