@@ -21,7 +21,8 @@ export const recipientResolverConfig = {
     },
     {
       invariantKind: "departure",
-      statement: "What the environment says is read without regard to case or surrounding spaces.",
+      statement:
+        "The value the environment states is read without regard to case or surrounding spaces.",
     },
   ],
 } as const satisfies Module
