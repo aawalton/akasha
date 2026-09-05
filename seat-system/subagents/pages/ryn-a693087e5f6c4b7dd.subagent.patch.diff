@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/story/tower/retrofit-system-cards/retrofit-system-cards.module.ts b/story/tower/retrofit-system-cards/retrofit-system-cards.module.ts
-index d2bda3664f0af2af68cb47871b44c45b53ddf2f8..7d211eff6f090a29e99f0a58f5676106ed5bacbe 100644
+index d2bda3664f0af2af68cb47871b44c45b53ddf2f8..91f52f971f37108afc38600d4166d68243b6dde3 100644
 --- a/story/tower/retrofit-system-cards/retrofit-system-cards.module.ts
 +++ b/story/tower/retrofit-system-cards/retrofit-system-cards.module.ts
 @@ -14,7 +14,7 @@ export const retrofitSystemCards = {
@@ -12,3 +12,12 @@ index d2bda3664f0af2af68cb47871b44c45b53ddf2f8..7d211eff6f090a29e99f0a58f5676106
      },
      {
        invariantKind: "departure",
+@@ -23,7 +23,7 @@ export const retrofitSystemCards = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A card that remains is headed as the tower rather than by what the card said before.",
++        "A card that remains is headed as the tower rather than by that card's former heading.",
+     },
+   ],
+ } as const satisfies Module
