@@ -35,7 +35,8 @@ export const exerciseRanks = {
     },
     {
       invariantKind: "departure",
-      statement: "Naming movements ranks those movements alone and holds back none of them.",
+      statement:
+        "Naming movements ranks those movements alone and holds back none of those movements.",
     },
     {
       invariantKind: "departure",
