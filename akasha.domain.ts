@@ -72,10 +72,6 @@ export const akasha = {
   ],
   invariants: [
     {
-      invariantKind: "absence",
-      statement: "No file in akasha carries a NUL byte.",
-    },
-    {
       invariantKind: "departure",
       statement: "The repository is a database.",
     },
