@@ -34,7 +34,8 @@ export const scratching = {
     },
     {
       invariantKind: "departure",
-      statement: "What the system points at is a tmpfs cut from the memory the machine runs on.",
+      statement:
+        "The place the system points at is a tmpfs cut from the memory the machine runs on.",
     },
     {
       invariantKind: "departure",
