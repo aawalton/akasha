@@ -6,11 +6,11 @@ export const rule90d1aa3b = {
   slug: "rule-90d1aa3b",
   title: "Sell known scripts",
   description: "Dispose of scribing scripts once every character knows them",
+  conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "scripts",
   displayOrder: 76,
   action: "sell",
   active: true,
   updatedAt: "2026-06-02T18:57:41.940Z",
-  conditions: "jsonl",
 } as const satisfies TemperInventoryRule
