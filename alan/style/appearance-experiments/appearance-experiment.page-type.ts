@@ -54,7 +54,7 @@ export const appearanceExperiment = {
     {
       invariantKind: "departure",
       statement:
-        "How a try read to her and how it landed on him are kept as two separate readings.",
+        "How a try read to the persona and how that try landed on Alan are kept as two separate readings.",
     },
     {
       invariantKind: "departure",
