@@ -9,7 +9,7 @@ export const recipientResolverRunning = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "It sits outside the fleet it serves.",
+      statement: "The recipient resolver sits outside the fleet that resolver serves.",
     },
     {
       invariantKind: "departure",
@@ -26,11 +26,13 @@ export const recipientResolverRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat is revived only where its page is not there and inbound work matches it.",
+      statement:
+        "A seat is revived only where its page is not there and inbound work matches that seat.",
     },
     {
       invariantKind: "departure",
-      statement: "What it is configured with is stated when it starts.",
+      statement:
+        "What the recipient resolver is configured with is stated when that resolver starts.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +40,8 @@ export const recipientResolverRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "It runs until stopped, and a stop ends the loop at its next boundary.",
+      statement:
+        "The recipient resolver runs until stopped, and a stop ends the loop at its next boundary.",
     },
   ],
 } as const satisfies Module
