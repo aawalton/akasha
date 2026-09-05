@@ -17,11 +17,11 @@ export const outcome = {
     },
     {
       invariantKind: "departure",
-      statement: "An advisory carries what the check found without refusing the change.",
+      statement: "An advisory carries the check's findings without refusing the change.",
     },
     {
       invariantKind: "departure",
-      statement: "How much was looked at is carried beside what was found.",
+      statement: "How much was looked at is carried beside the findings.",
     },
   ],
 } as const satisfies Module
