@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/temper/temper-companions-core/companion-traits/companion-traits.module.ts b/temper/temper-companions-core/companion-traits/companion-traits.module.ts
+index 0faa32c70b7096a48093f23dac1af8b7caa4d606..b7afcf41ee5d14d7fcee5a8fec12b776cd6a2e9d 100644
+--- a/temper/temper-companions-core/companion-traits/companion-traits.module.ts
++++ b/temper/temper-companions-core/companion-traits/companion-traits.module.ts
+@@ -14,7 +14,8 @@ export const companionTraits = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "These bytes are the last good build rather than what the generator emits today.",
++      statement:
++        "These bytes are the last good build rather than the table the generator emits today.",
+     },
+     {
+       invariantKind: "gap",
