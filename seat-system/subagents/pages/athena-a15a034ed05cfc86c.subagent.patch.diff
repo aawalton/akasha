@@ -1,5 +1,5 @@
 diff --git a/editor-extension/harness-call/harness-call.module.code.ts b/editor-extension/harness-call/harness-call.module.code.ts
-index 43e00625d6ee03c01c8dcbba9ed35940d9bc391e..33703f064603cdbda8cf6d5eefe173369320b3d7 100644
+index 43e00625d6ee03c01c8dcbba9ed35940d9bc391e..50c93f22b9017f374686df2d635dba1456a8db31 100644
 --- a/editor-extension/harness-call/harness-call.module.code.ts
 +++ b/editor-extension/harness-call/harness-call.module.code.ts
 @@ -18,10 +18,6 @@ export function akashaRoot(): string {
@@ -13,3 +13,17 @@ index 43e00625d6ee03c01c8dcbba9ed35940d9bc391e..33703f064603cdbda8cf6d5eefe17336
  const COMMANDS_AT = "commands"
  
  const SERVER_AT = "command-system/command-server/command-server.module.code.ts"
+@@ -103,13 +99,6 @@ async function run(
+   return whole(what, stdout, stderr)
+ }
+ 
+-export async function runOps(
+-  args: readonly string[],
+-  options: HarnessCallOptions
+-): Promise<string> {
+-  return run("ops", opsPath(), args, options)
+-}
+-
+ export function repositoryPath(repo: string): string {
+   try {
+     return fs.realpathSync(repo)
