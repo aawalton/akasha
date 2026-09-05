@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/akasha-page-values/akasha-page-values.module.ts b/pages/akasha-page-values/akasha-page-values.module.ts
+index 900bc236227a095ed55478a5f1d5d10964fb5c6f..a16a0920e9c32b7991031e59ae2dc32150fcb1f0 100644
+--- a/pages/akasha-page-values/akasha-page-values.module.ts
++++ b/pages/akasha-page-values/akasha-page-values.module.ts
+@@ -30,7 +30,8 @@ export const akashaPageValues = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a page keeps outside the commit is put back before any value is read.",
++      statement:
++        "The values a page keeps outside the commit are put back before any value is read.",
+     },
+     {
+       invariantKind: "departure",
