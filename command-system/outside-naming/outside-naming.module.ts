@@ -91,7 +91,8 @@ export const outsideNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A body that changed is answered with its bytes and with the text it came from.",
+      statement:
+        "A body that changed is answered with its bytes and with the text that body came from.",
     },
     {
       invariantKind: "departure",
