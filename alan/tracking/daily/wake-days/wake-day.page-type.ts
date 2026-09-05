@@ -37,13 +37,16 @@ import type { Meals } from "./properties/meals.text-property.ts"
 import type { NutritionPoints } from "./properties/nutrition-points.number-property.ts"
 import type { PersonaDays } from "./properties/persona-days.text-property.ts"
 import type { SafetyLevel } from "./properties/safety-level.text-property.ts"
-import type { Sessions } from "./properties/sessions.page-property-entry.ts"
+import type { Sessions, WorkedSessions } from "./properties/sessions.page-property-entry.ts"
+import type { SleepHours } from "./properties/sleep-hours.computed-property.ts"
 import type { SleepPoints } from "./properties/sleep-points.number-property.ts"
 import type { SpannedFromDayBoundary } from "./properties/spanned-from-day-boundary.boolean-property.ts"
+import type { SpendHours } from "./properties/spend-hours.computed-property.ts"
 import type { Stoplights } from "./properties/stoplights.computed-property.ts"
 import type { StrengthCalories } from "./properties/strength-calories.computed-property.ts"
 import type { StrengthPoints } from "./properties/strength-points.number-property.ts"
 import type { StrengthVolume } from "./properties/strength-volume.number-property.ts"
+import type { SurplusHours } from "./properties/surplus-hours.computed-property.ts"
 import type { TaskPoints } from "./properties/task-points.number-property.ts"
 import type { TotalLevel } from "./properties/total-level.computed-property.ts"
 import type { Version } from "./properties/version.text-property.ts"
@@ -94,7 +97,8 @@ export type WakeDay = Page & {
   completedTasks?: CompletedTasks
 }
 
-export type WorkedWakeDay = WakeDay & {
+export type WorkedWakeDay = Omit<WakeDay, "sessions"> & {
+  sessions?: WorkedSessions
   strengthCalories?: StrengthCalories
   activityCalories?: ActivityCalories
   faithLevel?: FaithLevel
@@ -111,6 +115,9 @@ export type WorkedWakeDay = WakeDay & {
   funStoplight?: FunStoplight
   wealthStoplight?: WealthStoplight
   stoplights?: Stoplights
+  sleepHours?: SleepHours
+  spendHours?: SpendHours
+  surplusHours?: SurplusHours
 }
 
 export const wakeDay = {
@@ -138,17 +145,17 @@ export const wakeDay = {
     "computed-property/learn-stoplight",
     "computed-property/love-level",
     "computed-property/love-stoplight",
+    "computed-property/sleep-hours",
+    "computed-property/spend-hours",
     "computed-property/stoplights",
     "computed-property/strength-calories",
+    "computed-property/surplus-hours",
     "computed-property/total-level",
     "computed-property/wealth-level",
     "computed-property/wealth-stoplight",
-    "instant-property/asserted-at",
     "instant-property/last-viewed-at",
     "number-property/active-calories",
     "number-property/breathing-points",
-    "number-property/breathing-sets",
-    "number-property/capacity-rate",
     "number-property/cardio-points",
     "number-property/completion-snapshot",
     "number-property/faith-points",
@@ -173,17 +180,11 @@ export const wakeDay = {
     "number-property/words-read-snapshot",
     "page-property-entry/completed-tasks",
     "page-property-entry/sessions",
-    "text-property/daily-tracking",
     "text-property/date",
-    "text-property/difficulty-level",
-    "text-property/end-time",
     "text-property/meals",
-    "text-property/owner",
     "text-property/persona-days",
     "text-property/recurrence",
-    "text-property/relationships",
     "text-property/safety-level",
-    "text-property/start-time",
     "text-property/to-do-slug",
     "text-property/version",
   ],
@@ -241,6 +242,9 @@ export const wakeDay = {
     { pagePropertySlug: "fun-stoplight", required: false, many: false },
     { pagePropertySlug: "wealth-stoplight", required: false, many: false },
     { pagePropertySlug: "stoplights", required: false, many: false },
+    { pagePropertySlug: "sleep-hours", required: false, many: false },
+    { pagePropertySlug: "spend-hours", required: false, many: false },
+    { pagePropertySlug: "surplus-hours", required: false, many: false },
   ],
   invariants: [
     {

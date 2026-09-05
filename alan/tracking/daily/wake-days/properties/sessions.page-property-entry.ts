@@ -2,12 +2,44 @@ import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
 
 export type Sessions = "jsonl"
 
+// A page file states this property as the extension of the file beside it, and a calculation is
+// handed the rows themselves: the evaluator reads that file and puts its parsed lines under the
+// key in place of the `"jsonl"` the page carries. A row is spelled as the file spells it.
+export type SessionRow = {
+  readonly id?: string
+  readonly title?: string
+  readonly startTime?: string
+  readonly endTime?: string
+  readonly dailyTracking?: string
+  readonly safetyLevel?: string | number
+  readonly difficultyLevel?: string | number
+  readonly version?: string
+  readonly capacityRate?: number
+  readonly relationships?: readonly string[]
+  readonly assertedAt?: string
+  readonly owner?: string
+  readonly breathingSets?: number
+}
+
+export type WorkedSessions = readonly SessionRow[]
+
 export const sessions = {
   id: "01a05fd8-c30f-799b-aa06-004072744b31",
   pageTypeSlug: "page-property-entry",
   slug: "sessions",
   propertySlug: "sessions",
   definition: "every stretch of time a day was spent in, one to a line",
+  partSlugs: [
+    "instant-property/asserted-at",
+    "number-property/breathing-sets",
+    "number-property/capacity-rate",
+    "text-property/daily-tracking",
+    "text-property/difficulty-level",
+    "text-property/end-time",
+    "text-property/owner",
+    "text-property/relationships",
+    "text-property/start-time",
+  ],
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "start-time", required: true, many: false },
