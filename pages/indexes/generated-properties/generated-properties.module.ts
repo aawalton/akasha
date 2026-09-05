@@ -38,7 +38,7 @@ export const generatedProperties = {
     {
       invariantKind: "departure",
       statement:
-        "That key is read from what the property states rather than camelised from a slug.",
+        "That key is read from the property slug that property states rather than camelised from a slug.",
     },
     {
       invariantKind: "departure",
@@ -51,7 +51,7 @@ export const generatedProperties = {
     {
       invariantKind: "departure",
       statement:
-        "The two kinds are told apart by what the two kinds say rather than by their names.",
+        "The two kinds are told apart by the value each kind states rather than by their names.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +59,7 @@ export const generatedProperties = {
     },
     {
       invariantKind: "departure",
-      statement: "The shadow is what is asked rather than a root.",
+      statement: "The shadow is asked rather than a root.",
     },
     {
       invariantKind: "absence",
