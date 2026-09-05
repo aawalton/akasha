@@ -186,23 +186,6 @@ index 0000000000000000000000000000000000000000..849d45a82f95756d85b488fda5c15422
 +export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
 +  return [{ name: "cronjob", yaml: cronjobYaml() }]
 +}
-diff --git a/seat-system/subagents/pages/aranya-aa36b4b997951b1f3.subagent.patch.diff b/seat-system/subagents/pages/aranya-aa36b4b997951b1f3.subagent.patch.diff
-index 943bc610f2d2ff084afa581fe2bede6735a3a3d5..e865436e18c6f8195aa7bff411e1ad564684a1fd 100644
---- a/seat-system/subagents/pages/aranya-aa36b4b997951b1f3.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-aa36b4b997951b1f3.subagent.patch.diff
-@@ -207,8 +207,12 @@ index bd1c0b738eec46a68aa17ad88a81bb7b68872dff..6c19181b3d549109216978156d506ef7
-    image: "registry.registry.svc.cluster.local:5000/cluster/postgres-gfs-promoter:r4",
-    schedule: "17 2 * * *",
- -  manifestCode:
-+<<<<<<< what this change would leave
-+-    "infrastructure/backup-retention/gfs-promoter/gfs-promoter.manifest.code.ts",
-+=======
- -    "infrastructure/backup-retention/gfs-promoter/gfs-promoter.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "gfs-promoter",
- +=======
- +  manifestCode: "infrastructure/backup-retention/gfs-promoter/gfs-promoter.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/gfs-promoter.cluster-service.ts b/service-system/cluster-services/pages/gfs-promoter.cluster-service.ts
 index bd1c0b738eec46a68aa17ad88a81bb7b68872dff..cd5c836e3d3f6622097d9ca01f1a25b9928abf2e 100644
 --- a/service-system/cluster-services/pages/gfs-promoter.cluster-service.ts
