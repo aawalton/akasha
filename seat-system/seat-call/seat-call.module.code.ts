@@ -1,7 +1,7 @@
 import { fail } from "@akasha/command-system/command-failing"
 import { readPayload, record, rejectUnknownFlags } from "@akasha/command-system/payload"
 import { type SeatWhoami, seatWhoami } from "@akasha/seat-system/seat-whoami"
-import { run } from "../seat-running/seat-running.module.code.ts"
+import { stateSeatFromArgv } from "../seat-running/seat-running.module.code.ts"
 
 const VALUES: readonly (readonly [string, string])[] = [
   ["agent", "--agent"],
@@ -114,7 +114,7 @@ async function main(): Promise<void> {
     answerWhoami(payload)
     return
   }
-  await run(argvFor(payload))
+  await stateSeatFromArgv(argvFor(payload))
 }
 
 if (import.meta.main) await main()

@@ -1,10 +1,9 @@
-import { existsSync } from "node:fs"
-import { join } from "node:path"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { SEAT_COMMAND_REL } from "@akasha/seat-system/terminal-seat-stating"
+import type { Args } from "../../seat-args/seat-args.module.code.ts"
 import { attributesOf, recordedModeOf } from "../../seat-attributes/seat-attributes.module.code.ts"
 import { onCallOf } from "../../seat-on-call/seat-on-call.module.code.ts"
 import { defaultSlots } from "../../seat-resolve/seat-resolve.module.code.ts"
+import { run } from "../../seat-running/seat-running.module.code.ts"
 
 export type SeatMode = "interactive" | "headless"
 
@@ -12,62 +11,27 @@ export const AGENT_MODE_INTERACTIVE: SeatMode = "interactive"
 
 export const AGENT_MODE_HEADLESS: SeatMode = "headless"
 
-export interface SeatCall {
-  readonly agent?: string | null
-  readonly persona?: string | null
-  readonly domain?: string | null
-  readonly role?: string | null
-  readonly project?: number | string | null
-  readonly flex?: string | null
-  readonly principal?: string | null
-  readonly mode?: string | null
-  readonly resolve?: boolean
-  readonly name?: boolean
-  readonly show?: boolean
-  readonly default?: boolean
-  readonly onCall?: boolean
-  readonly initiative?: string | readonly string[] | null
-  readonly clear?: readonly string[] | null
-  readonly token?: readonly string[] | null
-}
-
-export interface SeatCallOutcome {
-  readonly code: number
-  readonly stdout: string
-  readonly stderr: string
-}
-
-export function seatCallIn(root: string): string | null {
-  const at = join(root, SEAT_COMMAND_REL)
-  return existsSync(at) ? at : null
-}
-
-function seatCallPayload(call: SeatCall): string {
-  const stated: Record<string, unknown> = {}
-  for (const [key, value] of Object.entries(call)) {
-    if (value === undefined || value === null) continue
-    stated[key] = value
+// THE DEFAULTS A SEAT IS GIVEN ARE STATED AS VALUES. A supervisor holds the agent id and the mode
+// already, so nothing writes them out as a payload for a second process to read back in.
+export function defaultStating(agentId: string, mode: SeatMode): Args {
+  return {
+    set: {},
+    initiative: null,
+    flex: null,
+    tokens: [],
+    clear: [],
+    mode,
+    principal: null,
+    onCall: mode === AGENT_MODE_INTERACTIVE,
+    takeLiveName: false,
+    resolve: false,
+    name: false,
+    fromHistory: false,
+    asDefault: true,
+    agent: agentId,
+    parentName: null,
+    registration: null,
   }
-  return JSON.stringify(stated)
-}
-
-export async function callSeatAt(entry: string, call: SeatCall): Promise<SeatCallOutcome> {
-  const proc = Bun.spawn({
-    cmd: [process.execPath, entry],
-    stdin: new TextEncoder().encode(seatCallPayload(call)),
-    stdout: "pipe",
-    stderr: "pipe",
-  })
-  const [stdout, stderr, code] = await Promise.all([
-    new Response(proc.stdout).text(),
-    new Response(proc.stderr).text(),
-    proc.exited,
-  ])
-  return { code, stdout, stderr }
-}
-
-export function defaultSeatCall(agentId: string, mode: SeatMode): SeatCall {
-  return { agent: agentId, mode, default: true, onCall: mode === "interactive" }
 }
 
 export function seatDefaultsStand(agentId: string, mode: SeatMode): boolean {
@@ -83,9 +47,7 @@ export async function stateSeatDefaults(opts: {
   readonly mode: SeatMode
 }): Promise<void> {
   if (seatDefaultsStand(opts.agentId, opts.mode)) return
-  const entry = seatCallIn(rootFor(resolveRoots(), AKASHA))
-  if (entry === null) return
   try {
-    await callSeatAt(entry, defaultSeatCall(opts.agentId, opts.mode))
+    await run(defaultStating(opts.agentId, opts.mode))
   } catch {}
 }

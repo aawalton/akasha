@@ -6,4 +6,22 @@ export const stateSpawnedSeat = {
   slug: "state-spawned-seat",
   definition: "the attributes a spawned seat is stated with",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The stating module is imported from beside this one and its function called.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No command is spawned to state a spawned seat, and no ceiling bounds one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A mode or a principal the stating would refuse is refused before anything runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What refused a stating is answered as the words that refused it.",
+    },
+  ],
 } as const satisfies Module
