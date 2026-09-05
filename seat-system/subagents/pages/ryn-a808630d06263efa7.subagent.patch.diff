@@ -1,0 +1,13 @@
+diff --git a/editor-extension/node-cleanliness/node-cleanliness.module.ts b/editor-extension/node-cleanliness/node-cleanliness.module.ts
+index 6930a1e4cdb2af08e1fede15abb55a5040ab35d1..e897c7b87284e80e83dd076cbd6d818fe63a63ec 100644
+--- a/editor-extension/node-cleanliness/node-cleanliness.module.ts
++++ b/editor-extension/node-cleanliness/node-cleanliness.module.ts
+@@ -55,7 +55,7 @@ export const nodeCleanliness = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "`import.meta.main` is carried, node holding it.",
++      statement: "`import.meta.main` is carried, node holding `import.meta.main`.",
+     },
+     {
+       invariantKind: "departure",
