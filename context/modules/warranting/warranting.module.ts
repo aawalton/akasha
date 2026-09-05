@@ -47,6 +47,22 @@ export const warranting = {
       statement: "A refusal names the read that would answer the warrant ready to run.",
     },
     {
+      invariantKind: "absence",
+      statement: "A refusal says nothing about how a read behaves.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The readings owed are held to what one answer carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A list held back says how many readings are owed past it and to call again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The list is held to that ceiling here rather than by whoever reads it.",
+    },
+    {
       invariantKind: "departure",
       statement:
         "A call charged to no agent is refused whole and said to be impossible rather than merely wrong.",
