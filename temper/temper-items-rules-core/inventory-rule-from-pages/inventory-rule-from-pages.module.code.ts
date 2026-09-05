@@ -102,6 +102,6 @@ export function ruleFromPage(held: HeldRule): CategoryRule {
 
 export function rulesFromPages(held: readonly HeldRule[]): readonly CategoryRule[] {
   return [...held]
-    .sort((one, two) => one.page.displayOrder - two.page.displayOrder)
+    .sort((one, two) => two.page.displayOrder - one.page.displayOrder)
     .map(ruleFromPage)
 }
