@@ -261,6 +261,21 @@ index 0000000000000000000000000000000000000000..adc32eb111ad4e1f625a59f7a3afec26
 +    "module/url",
 +  ],
 +} as const satisfies Domain
+diff --git a/pages/core/view-state/pages-core-view-state.domain.ts b/pages/core/view-state/pages-core-view-state.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8b05c40bce95f6dc5fbcced268626057ade67de7
+--- /dev/null
++++ b/pages/core/view-state/pages-core-view-state.domain.ts
+@@ -0,0 +1,9 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesCoreViewState = {
++  id: "01a071c9-ea7d-7094-8d19-702924a297bc",
++  pageTypeSlug: "domain",
++  slug: "pages-core-view-state",
++  definition: "what a view holds between one change and the next",
++  partSlugs: ["module/reducers", "module/view-state-change"],
++} as const satisfies Domain
 diff --git a/pages/core/view/pages-core-view.domain.ts b/pages/core/view/pages-core-view.domain.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..18a9ffffd9fa32c94747cc443980267776609d96
