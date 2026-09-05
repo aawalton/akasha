@@ -1,3 +1,16 @@
+diff --git a/command-system/ios-widget-swift/ios-widget-swift.module.code.ts b/command-system/ios-widget-swift/ios-widget-swift.module.code.ts
+index 7b43ef416e3b11d4010026143f90cea454bbcf1c..d0241468abdd43cb2b1428984cfa3361a3c72935 100644
+--- a/command-system/ios-widget-swift/ios-widget-swift.module.code.ts
++++ b/command-system/ios-widget-swift/ios-widget-swift.module.code.ts
+@@ -167,7 +167,7 @@ export function ringWidgetSwift(resolved: ResolvedWidget): string {
+   const upper = key.toUpperCase()
+   const ring = `${pascal(key)}Ring`
+   const caption = doc.caption ?? reading.label ?? doc.galleryName
+-  return `// Generated from akasha:${pagePath} by \`ops mobile widget-emit\`. Change the document, not this file.
++  return `// Generated from akasha:${pagePath} by the widget emitter. Change the document, not this file.
+ import SwiftUI
+ import WidgetKit
+ 
 diff --git a/google/email/email-command-help/email-command-help.module.code.ts b/google/email/email-command-help/email-command-help.module.code.ts
 index 25dbd6d36aa61e5728913446378c47e83b8c66b1..7b0bbbeddd51746d9c64d42d0775c5f2c2118c0d 100644
 --- a/google/email/email-command-help/email-command-help.module.code.ts
