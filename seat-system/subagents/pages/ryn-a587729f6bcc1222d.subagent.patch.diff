@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/service-system/workstation-services/service-wrapping/service-wrapping.module.ts b/service-system/workstation-services/service-wrapping/service-wrapping.module.ts
+index 32ec036aa7b762a5c4d048630ed36707e02ef9e2..09890b6c956a32923896f24bc6c427fc2842ccb2 100644
+--- a/service-system/workstation-services/service-wrapping/service-wrapping.module.ts
++++ b/service-system/workstation-services/service-wrapping/service-wrapping.module.ts
+@@ -32,7 +32,7 @@ export const serviceWrapping = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The wrapper follows what the wrapper reaches itself as well as what its service reaches.",
++        "The wrapper follows the files the wrapper reaches itself as well as the files its service reaches.",
+     },
+     {
+       invariantKind: "departure",
