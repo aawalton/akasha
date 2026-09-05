@@ -20,7 +20,7 @@ import {
 } from "./domain.command.code.ts"
 import { domain as domainCommand } from "./domain.command.ts"
 
-const ROOT = new URL("../../../", import.meta.url).pathname.replace(/\/$/, "")
+const ROOT = new URL("../../", import.meta.url).pathname.replace(/\/$/, "")
 
 const scratch = scratchWorld()
 
