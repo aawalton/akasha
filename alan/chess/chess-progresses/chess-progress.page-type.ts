@@ -55,7 +55,7 @@ export const chessProgress = {
     },
     {
       invariantKind: "departure",
-      statement: "A page of category `motif` names the motif it is about.",
+      statement: "A page of category `motif` names the motif that page is about.",
     },
     {
       invariantKind: "departure",
