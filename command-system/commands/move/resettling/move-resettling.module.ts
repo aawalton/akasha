@@ -79,10 +79,6 @@ export const moveResettling = {
     },
     {
       invariantKind: "absence",
-      statement: "A name carrying more of a segment than the path that moved is left alone.",
-    },
-    {
-      invariantKind: "absence",
       statement: "A path no spelling of this checkout's root leads is left alone.",
     },
     {
