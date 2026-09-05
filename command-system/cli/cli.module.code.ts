@@ -35,7 +35,7 @@ export function outsideOf(
     root: stated === undefined || stated === "" ? rootOf(at) : resolve(stated),
     calledAs: "akasha",
     from,
-    writer: said === undefined || said === "" ? commitAuthor() : said,
+    writer: said === undefined || said === "" ? commitAuthor(env) : said,
     agentId: writerIn(env),
   }
 }

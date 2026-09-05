@@ -53,11 +53,13 @@ function defaultPersona(): string | null {
 
 let answered: string | null = null
 
-export function commitAuthor(): string {
+export function commitAuthor(
+  env: Readonly<Record<string, string | undefined>> = process.env
+): string {
   if (answered !== null) return answered
   let found = CLAUDE_AUTHOR
   try {
-    const writer = writerIn(process.env)
+    const writer = writerIn(env)
     const persona = writer === null ? null : personaOf(writer)
     found =
       persona === null || persona === defaultPersona()

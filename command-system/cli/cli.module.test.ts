@@ -3,7 +3,7 @@ import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { indexNamed } from "@akasha/indexes"
 import { idFiled, listedFiled } from "@akasha/indexes/testing"
-import { AUTHOR } from "../committing/committing.module.code.ts"
+import { CLAUDE_AUTHOR, forgetCommitAuthor } from "../commit-author/commit-author.module.code.ts"
 import { MARKED } from "../rooting/rooting.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { answering, INPUT, OK, outsideOf, saidOf, UNCLASSIFIED } from "./cli.module.code.ts"
@@ -34,15 +34,17 @@ test("an empty stated root is treated as none stated", () => {
   expect(said.root).toBe(STANDING)
 })
 
-test("a commit is authored by akasha when nothing states a writer", () => {
-  expect(outsideOf({}, AT, "/nowhere").writer).toBe("Akasha <akasha@alanwalton.com>")
+test("a commit is authored as Claude when no agent and no writer are stated", () => {
+  forgetCommitAuthor()
+  expect(outsideOf({}, AT, "/nowhere").writer).toBe(CLAUDE_AUTHOR)
 })
 
 test("an empty stated writer is treated as none stated", () => {
-  expect(outsideOf({ AKASHA_WRITER: "" }, AT, "/nowhere").writer).toBe(AUTHOR)
+  forgetCommitAuthor()
+  expect(outsideOf({ AKASHA_WRITER: "" }, AT, "/nowhere").writer).toBe(CLAUDE_AUTHOR)
 })
 
-test("a stated writer wins over akasha", () => {
+test("a stated writer wins over the persona", () => {
   const said = outsideOf({ AKASHA_WRITER: "Someone <one@two.three>" }, AT, "/nowhere")
   expect(said.writer).toBe("Someone <one@two.three>")
 })
