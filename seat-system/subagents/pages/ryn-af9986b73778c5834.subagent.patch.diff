@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
-index c535fa6cc31e1ed491e208359b47be8e34bf1d40..5727b1865fcb345c8643769f7474ef72a123485e 100644
+index c535fa6cc31e1ed491e208359b47be8e34bf1d40..899ae343fd24862747e2aae43e2e8dea87268c0a 100644
 --- a/command-system/landing/landing.module.ts
 +++ b/command-system/landing/landing.module.ts
 @@ -52,11 +52,11 @@ export const landing = {
@@ -14,6 +14,15 @@ index c535fa6cc31e1ed491e208359b47be8e34bf1d40..5727b1865fcb345c8643769f7474ef72
        invariantKind: "departure",
 -      statement: "A body is overwritten only where what is on disk is the body its writer read.",
 +      statement: "A body is overwritten only where the body on disk is the body its writer read.",
+     },
+     {
+       invariantKind: "departure",
+@@ -64,7 +64,7 @@ export const landing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What was written is put back when anything after the writing throws.",
++      statement: "The bodies written are put back when anything after the writing throws.",
      },
      {
        invariantKind: "departure",
