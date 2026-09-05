@@ -16,10 +16,7 @@ export const temperCompletionImport = {
       invariantKind: "departure",
       statement: "A record read here keeps every key the reading does not name.",
     },
-    {
-      invariantKind: "departure",
-      statement: "Which companion a saved definition id names is asked of the caller.",
-    },
+
     {
       invariantKind: "absence",
       statement: "No page is written here.",
