@@ -22,7 +22,7 @@ export const terminalAccountLaunchers = {
     },
     {
       invariantKind: "departure",
-      statement: "What the client ended with is what the launcher ends with.",
+      statement: "The launcher ends with the status the client ended with.",
     },
     {
       invariantKind: "departure",
