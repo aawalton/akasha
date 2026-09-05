@@ -39,10 +39,6 @@ export const temperLibGps = {
     },
     {
       invariantKind: "departure",
-      statement: "Measuring moves the shown map and then puts the original map back.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The game's own map changing functions are wrapped rather than replaced.",
     },
     {
