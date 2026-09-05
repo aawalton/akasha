@@ -1,0 +1,16 @@
+diff --git a/role-system/roles/role.page-type.ts b/role-system/roles/role.page-type.ts
+index d57cf5fd944684880f422abcc699977410410ccb..683f19291a043f08173165eb9f6a2795da381074 100644
+--- a/role-system/roles/role.page-type.ts
++++ b/role-system/roles/role.page-type.ts
+@@ -37,6 +37,11 @@ export const role = {
+       statement:
+         "Every figure an agent holds as true was taken after the last change to the figure's subject.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "The invariants and directives every role is held to are on the type rather than on any one role.",
++    },
+   ],
+   directives: [
+     {
