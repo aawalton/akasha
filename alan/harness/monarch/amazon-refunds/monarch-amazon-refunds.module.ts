@@ -10,7 +10,7 @@ export const monarchAmazonRefunds = {
     {
       invariantKind: "departure",
       statement:
-        "A refund note names the item that came back, drawn from the order that bought it.",
+        "A refund note names the item that came back, drawn from the order that bought that item.",
     },
     {
       invariantKind: "departure",
