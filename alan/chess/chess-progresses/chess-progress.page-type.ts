@@ -51,7 +51,7 @@ export const chessProgress = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What was written about a part of Alan's chess is its description.",
+      statement: "The prose written about a part of Alan's chess is its description.",
     },
     {
       invariantKind: "departure",
