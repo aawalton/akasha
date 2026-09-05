@@ -22,7 +22,7 @@ export const characterSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "Most of what a sheet may carry is optional.",
+      statement: "Most of the fields a sheet may carry are optional.",
     },
   ],
 } as const satisfies Module
