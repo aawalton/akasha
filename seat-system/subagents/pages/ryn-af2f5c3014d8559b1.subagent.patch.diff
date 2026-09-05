@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-watcher/watcher-import-completion/watcher-import-completion.module.ts b/temper/temper-watcher/watcher-import-completion/watcher-import-completion.module.ts
+index d7066777c8312d0f5b8f369bade7da49d93f8902..8db2110591ce09d01d46534cdc0d5857d219bba1 100644
+--- a/temper/temper-watcher/watcher-import-completion/watcher-import-completion.module.ts
++++ b/temper/temper-watcher/watcher-import-completion/watcher-import-completion.module.ts
+@@ -39,7 +39,7 @@ export const watcherImportCompletion = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A completion equal to what its file holds lands nothing.",
++      statement: "A completion equal to the completion its file holds lands nothing.",
+     },
+     {
+       invariantKind: "departure",
