@@ -172,7 +172,7 @@ export const temper = {
     {
       invariantKind: "departure",
       statement:
-        "A property more than one page type carries is declared by a page type above them.",
+        "A property more than one page type carries is declared by a page type above those page types.",
     },
     {
       invariantKind: "gap",
