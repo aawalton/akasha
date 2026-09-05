@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/temper/temper-progress/tasks/properties/character-sort-order.number-property.ts b/temper/temper-progress/tasks/properties/character-sort-order.number-property.ts
+index f387414414d050f9160cd5878b098b1051fad3bb..94d3c24398458a5edf7ac72756d5a488a7275a08 100644
+--- a/temper/temper-progress/tasks/properties/character-sort-order.number-property.ts
++++ b/temper/temper-progress/tasks/properties/character-sort-order.number-property.ts
+@@ -12,7 +12,8 @@ export const characterSortOrder = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This value is read off the character the task names rather than stated on it.",
++      statement:
++        "This value is read off the character the task names rather than stated on that task.",
+     },
+     {
+       invariantKind: "departure",
