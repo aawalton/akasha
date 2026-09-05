@@ -57,6 +57,34 @@ export const ONE_NUMBER = "export const one: number = 1\n"
 
 export const TWO_BREAKS = `${ONE_NUMBER}export const two: string = one\n`
 
+export function exporting(): string {
+  return staged({
+    "akasha/held.ts": "export const one = 1\nexport const two = 2\n",
+    "akasha/calls.ts": 'import { two } from "./held.ts"\nexport const said = two\n',
+  })
+}
+
+export function across(): string {
+  return staged({
+    "akasha/one.ts": "export const one = 1\n",
+    "shared/two.ts": 'import { one } from "../akasha/one.ts"\nexport const two = one\n',
+  })
+}
+
+export function pairing(): string {
+  return staged({
+    "akasha/one.ts": "export const one = 1\n",
+    "akasha/two.ts": 'import { one } from "./one.ts"\nexport const two: string = one\n',
+  })
+}
+
+export function basing(): string {
+  return staged({
+    "akasha/a.ts": ONE_NUMBER,
+    "akasha/b.ts": 'import { one } from "./a.ts"\nexport const two: string = one\n',
+  })
+}
+
 export const TAKES_NUMBER = "export function held(one: number): number {\n  return one\n}\n"
 
 export const CALLS_HELD = 'import { held } from "./held.ts"\nexport const one = held(1)\n'
@@ -244,4 +272,37 @@ export function change(
     },
     before: based,
   }
+}
+
+export const FIRST_OF =
+  "export function first(held: readonly string[]): string {\n  return held[0]\n}\n"
+
+export const CHAINED =
+  "type A = { a: number }\ntype B = { a: number; b: number }\nexport const one: B = { a: 1 } as A\n"
+
+export function holding(): string {
+  return staged({ "akasha/one.ts": "export const one = 1\n" })
+}
+
+export function calling(): string {
+  return staged({ "akasha/held.ts": TAKES_NUMBER, "akasha/calls.ts": CALLS_HELD })
+}
+
+export function reading(): string {
+  return staged({
+    "akasha/broken.ts":
+      'import { a } from "./a.ts"\nimport { b } from "./b.ts"\nimport { c } from "./c.ts"\nexport const one: string = a + b + c\n',
+    "akasha/a.ts": "export const a = 1\n",
+    "akasha/b.ts": "export const b = 2\n",
+    "akasha/c.ts": "export const c = 3\n",
+  })
+}
+
+export function deep(): string {
+  return staged({
+    "akasha/one.ts": "export const one = 1\n",
+    "akasha/deep/two.ts": 'import { one } from "../one.ts"\nexport const two = one\n',
+    "akasha/deep/three.ts": 'import { two } from "./two.ts"\nexport const three = two\n',
+    "akasha/apart.ts": "export const apart = 1\n",
+  })
 }
