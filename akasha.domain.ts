@@ -193,5 +193,16 @@ export const akasha = {
         "Say what you changed when you hand work back.",
       ],
     },
+    {
+      directiveKind: "rule",
+      name: "Trust The Index",
+      act: "Read what the index answers. Never check that it is there, and never re-derive what it said.",
+      warrant:
+        "A reader that validates pays on every call for a fault a command should never have written.",
+      aids: [
+        "A wrong index is a root cause to fix, not a case each reader handles.",
+        "An index that cannot answer refuses where it is read.",
+      ],
+    },
   ],
 } as const satisfies Domain
