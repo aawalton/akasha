@@ -1,0 +1,13 @@
+diff --git a/domains/initiatives/pages/ember-repair-temper-tasks.initiative.ts b/domains/initiatives/pages/ember-repair-temper-tasks.initiative.ts
+index 126ac9f4d5e2c0a3436c536f1c82b6d7373acb49..7bf7e712dd13d6a3fcfc5ddce5b7d6df58a7dfa4 100644
+--- a/domains/initiatives/pages/ember-repair-temper-tasks.initiative.ts
++++ b/domains/initiatives/pages/ember-repair-temper-tasks.initiative.ts
+@@ -50,7 +50,7 @@ export const emberRepairTemperTasks = {
+     {
+       statement: "The rules a player automates are pages rather than one JSON blob.",
+       workingMemory:
+-        "All 82 are pages under temper-inventory-rule now, and temper-rule is the parent declaring what a template and a rule in force both carry. Conditions and destination chains sit beside each page as jsonl. Every field of every rule reconstructs from the landed bytes exactly, updated-at included, which the game reads as sellTimestamps. The blob still holds them and nothing is repointed. Left: the one live UI writer, the seven dead CLI writers, then emptying the blob.",
++        "All 82 are pages under temper-inventory-rule, with temper-rule the parent a template and a rule in force share. Conditions and chains sit beside each page as jsonl, which /ask folds server-side, so the watcher reaches them with no checkout. Rebuilt over that road, sellCompiled, sell and sellTimestamps come out byte-identical to the blob. Ask with askingFor: getPages throws where a refusal should skip. Left: the live UI writer, seven dead CLI writers, then emptying the blob.",
+     },
+   ],
+   constraints: [
