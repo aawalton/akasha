@@ -315,3 +315,17 @@ index 408f27f8ab977c2f009713160ce93b9581c74742..75bc78a5462b2ffdf6ecd50d671e13f3
  export async function tokenLanded(
    given: Given,
    root: string,
+diff --git a/commands/refactor/refactor.command.ts b/commands/refactor/refactor.command.ts
+index eb43944539056a61523e90cb8965958be7d0a545..80d7841c1c9c1712d5657e0195b630925fa474b8 100644
+--- a/commands/refactor/refactor.command.ts
++++ b/commands/refactor/refactor.command.ts
+@@ -56,7 +56,8 @@ export const refactor = {
+     "--dry-run names every file it would carry; a landing says how many.",
+     "a spelling it cannot judge to be a path is named in the answer rather than changed.",
+     "a property is named by the address it stands at, since a key on its own reaches no property.",
+-    "a key rename carries no file, so it takes no plural and repoints no address.",
++    "a key rename carries every file named for the key to the name the new key makes.",
++    "a key rename moves no page and repoints no address, and a key carries no plural.",
+     "a name is named by the file exporting it, since one name is carried by many files.",
+     "a name is renamed where the checker resolves to it rather than where a body spells it.",
+     "--line picks one where the file declares that name in more than one place.",
