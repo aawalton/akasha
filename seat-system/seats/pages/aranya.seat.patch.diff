@@ -1027,3 +1027,38 @@ index 0000000000000000000000000000000000000000..f7925fbe5666b3c03696ab9fef414204
 +  definition: "the job that drops an image layer and tag nothing refers to",
 +  code: "ts",
 +} as const satisfies Module
+diff --git a/infrastructure/upscale/upscale-serving-job/upscale-serving-job.module.ts b/infrastructure/upscale/upscale-serving-job/upscale-serving-job.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c381f5fccd2ca3f0db809ef7c3efe24a9fd32a82
+--- /dev/null
++++ b/infrastructure/upscale/upscale-serving-job/upscale-serving-job.module.ts
+@@ -0,0 +1,29 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const upscaleServingJob = {
++  id: "01a073af-4669-7130-ac05-5cb2a15a6313",
++  pageTypeSlug: "module",
++  slug: "upscale-serving-job",
++  definition: "the cluster job one image is upscaled by on a GPU node",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The job runs on a node holding at least the stated usable video memory.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The job is never retried, so a failure is read rather than hidden by a second attempt.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The weights are cached on the node rather than fetched for each job.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The image comes in and goes out through the object store rather than through the job's arguments.",
++    },
++  ],
++} as const satisfies Module
