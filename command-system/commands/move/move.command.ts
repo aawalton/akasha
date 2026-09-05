@@ -138,7 +138,7 @@ export const move = {
     },
     {
       invariantKind: "absence",
-      statement: "What a package names under its dependencies is not moved with a file.",
+      statement: "A dependency a package names is not moved with a file.",
     },
     {
       invariantKind: "departure",
@@ -263,7 +263,7 @@ export const move = {
     {
       invariantKind: "departure",
       statement:
-        "Which files beyond the index spell a path that moves is answered by searching what git tracks.",
+        "Which files beyond the index spell a path that moves is answered by searching the files git tracks.",
     },
     {
       invariantKind: "departure",
@@ -288,7 +288,7 @@ export const move = {
     },
     {
       invariantKind: "departure",
-      statement: "A file carrying a name what moved is also called is named in the answer.",
+      statement: "A file carrying a name a moved file is also called is named in the answer.",
     },
     {
       invariantKind: "absence",
