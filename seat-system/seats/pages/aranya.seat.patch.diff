@@ -343,3 +343,11 @@ index f05cf92974a6a2d3856beab672b7fcd6b6c0a695..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../mobile-cli
 \ No newline at end of file
+diff --git a/mobile-commands/mobile-commands b/mobile-commands/mobile-commands
+deleted file mode 120000
+index 6a0a23c79f485491053ed4f8ac3739ab6eab7e1c..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-commands
++++ /dev/null
+@@ -1 +0,0 @@
+-../../mobile-commands
+\ No newline at end of file
