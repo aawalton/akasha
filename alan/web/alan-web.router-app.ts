@@ -12,6 +12,7 @@ export const alanWeb = {
   routerConfig: "ts",
   compileConfig: "json",
   partSlugs: [
+    "manifest/alanwalton-web",
     "stylesheet/alan-web-look",
     "stylesheet/idle-look",
     "stylesheet/reveal-host-look",
