@@ -65,3 +65,30 @@ index c534e2d003f50e87a86ca4d13e56d65851012d2e..1aa5064a428bce8ec85cfed4c9926db4
      },
      {
        invariantKind: "departure",
+diff --git a/context/warrants/context-warrant.page-type.ts b/context/warrants/context-warrant.page-type.ts
+index 3d33dfaea5b18eba6feef454e4be686ec2747128..5c4f35437d8e082b82ba5ffda217ed1d285985b4 100644
+--- a/context/warrants/context-warrant.page-type.ts
++++ b/context/warrants/context-warrant.page-type.ts
+@@ -69,7 +69,8 @@ export const contextWarrant = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "This is how a warrant states its rule before it binds anyone.",
++      statement:
++        "Landing with neither reach on is how a warrant states its rule before it binds anyone.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/panel-judging/panel-judging.module.ts b/editor-extension/panel-judging/panel-judging.module.ts
+index cae6f4dc1c356257986750c47cda45d80c93009b..72bb80e645408dff0f58f8bb11e0b6f56569fc79 100644
+--- a/editor-extension/panel-judging/panel-judging.module.ts
++++ b/editor-extension/panel-judging/panel-judging.module.ts
+@@ -82,7 +82,7 @@ export const panelJudging = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A surface may be genuinely empty, and that is the answer to report.",
++      statement: "A surface may be genuinely empty, and emptiness is the answer to report.",
+     },
+     {
+       invariantKind: "departure",
