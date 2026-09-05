@@ -43,9 +43,6 @@ export const personaDay = {
     "number-property/byte-points",
     "number-property/source-points",
     "number-property/source-total-snapshot",
-    "formula-property/green-day-fraction",
-    "formula-property/green-day-rung",
-    "formula-property/points",
     "relation-property/day-persona-slug",
   ],
   properties: [
@@ -63,9 +60,6 @@ export const personaDay = {
     { pagePropertySlug: "nutrition-points", required: false, many: false },
     { pagePropertySlug: "breathing-points", required: false, many: false },
     { pagePropertySlug: "byte-points", required: false, many: false },
-    { pagePropertySlug: "points", required: false, many: false },
-    { pagePropertySlug: "green-day-fraction", required: false, many: false },
-    { pagePropertySlug: "green-day-rung", required: false, many: false },
   ],
   invariants: [
     {
@@ -84,10 +78,6 @@ export const personaDay = {
     {
       invariantKind: "departure",
       statement: "A persona's green-day points moving leaves the days already scored as they were.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The three figures a day is read by are worked out rather than stored.",
     },
     {
       invariantKind: "departure",
