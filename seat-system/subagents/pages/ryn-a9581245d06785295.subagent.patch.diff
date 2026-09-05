@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/types/descent/page-type-descent.module.ts b/pages/types/descent/page-type-descent.module.ts
+index 5e5d698d4eb23eb67db29be0166604b31f41bfa7..e6d640bcc20dddadbe2df0ab2627a28634ba27d5 100644
+--- a/pages/types/descent/page-type-descent.module.ts
++++ b/pages/types/descent/page-type-descent.module.ts
+@@ -23,7 +23,8 @@ export const pageTypeDescent = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A caller holding the index as its change leaves it is answered from that.",
++      statement:
++        "A caller holding the index as its change leaves that index is answered from that.",
+     },
+     {
+       invariantKind: "departure",
