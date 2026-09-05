@@ -15,7 +15,6 @@ export const temperInventorySnapshot = {
   ],
   helpNotes: [
     "the record sits whole in a data file beside the snapshot page, so nothing here rejoins pieces.",
-    "the pieces a reading arrived in were rejoined before the snapshot landed.",
     "a snapshot is named or `--latest` is said, never both.",
     "`--latest` reads the newest reading on the account, ordered by when the reading was taken.",
     "a snapshot carrying no data file refuses the call rather than giving back an empty record.",
