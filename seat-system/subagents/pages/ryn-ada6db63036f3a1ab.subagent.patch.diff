@@ -1,5 +1,5 @@
 diff --git a/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts b/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
-index 195eb43775f96285df19e636d87a10fa96213e83..f9bfff9a7f74c61cf69e8b6bf89daa3cf22c0d9b 100644
+index 195eb43775f96285df19e636d87a10fa96213e83..ffb3cd45d6372dbed3864dbb894a10dbe223518a 100644
 --- a/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
 +++ b/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
 @@ -37,7 +37,7 @@ export const pendingMaintaining = {
@@ -11,12 +11,18 @@ index 195eb43775f96285df19e636d87a10fa96213e83..f9bfff9a7f74c61cf69e8b6bf89daa3c
      },
      {
        invariantKind: "departure",
-@@ -79,7 +79,7 @@ export const pendingMaintaining = {
+@@ -79,11 +79,12 @@ export const pendingMaintaining = {
      },
      {
        invariantKind: "departure",
 -      statement: "A run stopped part way leaves every seat it reached correct.",
 +      statement: "A run stopped part way leaves every seat that run reached correct.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run stopped part way leaves every seat it did not reach as that seat was.",
++      statement:
++        "A run stopped part way leaves every seat that run did not reach as that seat was.",
      },
      {
        invariantKind: "departure",
