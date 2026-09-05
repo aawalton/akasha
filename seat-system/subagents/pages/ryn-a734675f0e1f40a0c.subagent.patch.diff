@@ -1,0 +1,14 @@
+diff --git a/temper/temper-lorebooks/lorebooks-library-data/lorebooks-library-data.module.ts b/temper/temper-lorebooks/lorebooks-library-data/lorebooks-library-data.module.ts
+index fcd8e62034258e42bf6aedfcd123d81acfd4a39e..8623b1116d8092b249e819ec49dadc9ef1691633 100644
+--- a/temper/temper-lorebooks/lorebooks-library-data/lorebooks-library-data.module.ts
++++ b/temper/temper-lorebooks/lorebooks-library-data/lorebooks-library-data.module.ts
+@@ -11,9 +11,5 @@ export const lorebooksLibraryData = {
+       invariantKind: "constraint",
+       statement: "The runs are gathered in the order the whole table names.",
+     },
+-    {
+-      invariantKind: "gap",
+-      statement: "Akasha holds no map pin for a lore book.",
+-    },
+   ],
+ } as const satisfies Module
