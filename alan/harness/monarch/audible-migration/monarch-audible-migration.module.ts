@@ -10,8 +10,11 @@ export const monarchAudibleMigration = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A charge is either transferred, recategorized only, or already done, and which it is is decided before anything is written.",
+      statement: "A charge is either transferred, recategorized only, or already done.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The outcome is decided before anything is written.",
     },
     {
       invariantKind: "departure",
