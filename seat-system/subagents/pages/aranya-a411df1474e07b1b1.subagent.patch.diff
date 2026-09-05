@@ -100,23 +100,6 @@ index 0000000000000000000000000000000000000000..d75c8a443aa988752f58f1590eba9e7a
 +    { name: "deployment", yaml: synthOne(NAMESPACE, "deployment", DEPLOYMENT_MANIFEST) },
 +  ]
 +}
-diff --git a/seat-system/subagents/pages/aranya-a411df1474e07b1b1.subagent.patch.diff b/seat-system/subagents/pages/aranya-a411df1474e07b1b1.subagent.patch.diff
-index 7f59a9dbfeb518e14131a6d74e2c71b60e201ed9..0cd85b7e5d5f57bb231ed5582dffec37aa7aefdb 100644
---- a/seat-system/subagents/pages/aranya-a411df1474e07b1b1.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-a411df1474e07b1b1.subagent.patch.diff
-@@ -224,8 +224,12 @@ index 1d9b96f870d70659ace3b4239041e6595a0cb10e..b147d4e8e6f8dfcf45706b66701e3452
-    image: "registry.registry.svc.cluster.local:5000/cluster/eso-rig:serving",
-    replicas: 0,
- -  manifestCode:
-+<<<<<<< what this change would leave
-+-    "infrastructure/eso-rig/manifests/eso-rig-manifests.manifest.code.ts",
-+=======
- -    "service-system/cluster-services/pages/eso-rig/eso-rig.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "eso-rig-manifests",
- +=======
- +  manifestCode: "infrastructure/eso-rig/manifests/eso-rig-manifests.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/eso-rig/eso-rig.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/eso-rig/eso-rig.cluster-service.code.attachment.ts
 deleted file mode 100644
 index d75c8a443aa988752f58f1590eba9e7a5544ea2d..0000000000000000000000000000000000000000
