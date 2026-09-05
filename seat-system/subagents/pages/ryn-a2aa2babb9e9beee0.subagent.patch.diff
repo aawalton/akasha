@@ -1,0 +1,17 @@
+diff --git a/temper/temper-trading-addon/temper-trading-addon.eso-addon.ts b/temper/temper-trading-addon/temper-trading-addon.eso-addon.ts
+index 04b618a4d529b797e6a2d9166db46a08a3cd5933..8a7af998e71ac5de23ca13f7176783c4ad4434db 100644
+--- a/temper/temper-trading-addon/temper-trading-addon.eso-addon.ts
++++ b/temper/temper-trading-addon/temper-trading-addon.eso-addon.ts
+@@ -42,11 +42,7 @@ export const temperTradingAddon = {
+       invariantKind: "departure",
+       statement: "A captured listing is dropped once the listing has aged past the expiry.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A suggested sale price comes from the trade centre where that trade centre has one.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A search a player named is kept between sessions.",
