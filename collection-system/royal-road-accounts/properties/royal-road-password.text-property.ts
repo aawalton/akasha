@@ -13,7 +13,7 @@ export const royalRoadPassword = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The password stands in the page's sops file rather than in the page.",
+      statement: "The password is in the page's sops file rather than in the page.",
     },
   ],
 } as const satisfies TextProperty

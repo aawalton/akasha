@@ -39,7 +39,7 @@ export const royalRoadAccount = {
     },
     {
       invariantKind: "gap",
-      statement: "What an account signs in as stands in the cluster's secrets too.",
+      statement: "What an account signs in as is in the cluster's secrets too.",
     },
   ],
 } as const satisfies PageType

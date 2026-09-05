@@ -7,6 +7,6 @@ export const skippedCount = {
   pageTypeSlug: "number-property",
   slug: "skipped-count",
   propertySlug: "skipped-count",
-  definition: "how many pages a pull left as they stood",
+  definition: "how many pages a pull left as they were",
   max: null,
 } as const satisfies NumberProperty

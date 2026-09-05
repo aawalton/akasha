@@ -35,7 +35,7 @@ export const collectionType = {
     {
       invariantKind: "gap",
       statement:
-        "Six thousand collections of these kinds stand outside akasha and have no page of their own.",
+        "Six thousand collections of these kinds sit outside akasha and have no page of their own.",
     },
   ],
 } as const satisfies PageType

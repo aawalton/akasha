@@ -267,7 +267,7 @@ export async function main(argv: readonly string[]): Promise<number> {
 
   const stories = readStories(only)
   if (stories.length === 0 && only === undefined) {
-    console.log(`royal road sync: no ${STORY_TYPE} page stands under ${ROOT}/${STORY_DIR}`)
+    console.log(`royal road sync: no ${STORY_TYPE} page sits under ${ROOT}/${STORY_DIR}`)
     return 1
   }
   console.log(`royal road sync: ${stories.length} stor${stories.length === 1 ? "y" : "ies"}`)
@@ -300,7 +300,7 @@ export async function main(argv: readonly string[]): Promise<number> {
   )
   // A RUN THAT FAILED ITEMS IS A FAILED RUN. This was `failed > 0 && composed === 0`, so a run
   // reported red only when it managed nothing at all: one new chapter landing anywhere across 103
-  // stories turned the same 61 standing failures into exit 0. Of the 259 completed runs between
+  // stories turned the same 61 ongoing failures into exit 0. Of the 259 completed runs between
   // 2026-08-17 and 2026-09-02, 127 exited 0 while reporting 61 failed, which is the wrong 127 —
   // the signal was suppressed on exactly the runs that had work to show and kept on the quiet ones.
   return counts.refused > 0 || counts.failed > 0 ? 1 : 0

@@ -17,7 +17,7 @@ export const royalRoadSyncing = {
     },
     {
       invariantKind: "departure",
-      statement: "A chapter royal road hides or keeps locked is left where it stands.",
+      statement: "A chapter royal road hides or keeps locked is left where it is.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,7 @@ export const royalRoadSyncing = {
     },
     {
       invariantKind: "departure",
-      statement: "A second and a half stands between one request to royal road and the next.",
+      statement: "A second and a half sits between one request to royal road and the next.",
     },
     {
       invariantKind: "departure",
@@ -58,12 +58,12 @@ export const royalRoadSyncing = {
     {
       invariantKind: "gap",
       statement:
-        "Stories are read from the store the stories now stand in, which is `story/stories-read/pages` rather than `pages/story-read-royal-road`.",
+        "Stories are read from the store the stories are now in, which is `story/stories-read/pages` rather than `pages/story-read-royal-road`.",
     },
     {
       invariantKind: "gap",
       statement:
-        "Chapters are filed into the store the chapters now stand in, which is `story/story-chapters-read/pages` rather than `pages/story-chapter-royal-road`.",
+        "Chapters are filed into the store the chapters are now in, which is `story/story-chapters-read/pages` rather than `pages/story-chapter-royal-road`.",
     },
   ],
 } as const satisfies Module
