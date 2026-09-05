@@ -9,12 +9,13 @@ export const monarchClient = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every reply is read into a named shape rather than passed on as Monarch sent it.",
+      statement:
+        "Every reply is read into a named shape rather than passed on as Monarch sent that reply.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A reply carrying a GraphQL error is refused with what it said, however the status read.",
+        "A reply carrying a GraphQL error is refused with what that error said, however the status read.",
     },
     {
       invariantKind: "departure",
