@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/chess/chess-progresses/chess-progress.page-type.ts b/alan/chess/chess-progresses/chess-progress.page-type.ts
+index 633d2f9920abeffbebeb797a99a20e4205ee3713..df70754c0934dc135deb044a5ceff7a4536b2889 100644
+--- a/alan/chess/chess-progresses/chess-progress.page-type.ts
++++ b/alan/chess/chess-progresses/chess-progress.page-type.ts
+@@ -51,7 +51,7 @@ export const chessProgress = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What was written about a part of Alan's chess is its description.",
++      statement: "The prose written about a part of Alan's chess is its description.",
+     },
+     {
+       invariantKind: "departure",
