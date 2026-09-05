@@ -43,6 +43,29 @@ index 808a11f8bf9006e9d7a3e88d5adc708b21dbf6bf..5d0e9fd4b8c4e1ee501b2f4c575aff22
      paths.push(one.path)
      if (reachesIn(one.path, one.was, moved).length > 0) reaching.push(one.path)
      carries.push({ was: one.path, now: one.path, from: blobIdOf(one.held) })
+diff --git a/commands/refactor/page-retyping/page-retyping.module.code.ts b/commands/refactor/page-retyping/page-retyping.module.code.ts
+index f532917499b8b0cff0a8f51012ad8833d61a5c56..ed795c1cb11b89f2023aff5f8e06fff048e79731 100644
+--- a/commands/refactor/page-retyping/page-retyping.module.code.ts
++++ b/commands/refactor/page-retyping/page-retyping.module.code.ts
+@@ -2,6 +2,7 @@ import { basename, dirname, join } from "node:path"
+ import { parsedAs } from "@akasha/code-system/code-source"
+ import { typed } from "@akasha/code-system/code-typing"
+ import { listedAt, namersOf, readingIn } from "@akasha/indexes"
++import { machineWrittenAt } from "@akasha/indexes/property-carrying"
+ import { knownIn } from "@akasha/indexes/reaching"
+ import type { Reading as Filed } from "@akasha/indexes/shape"
+ import { addressIn } from "@akasha/pages-system/page-address"
+@@ -500,7 +501,9 @@ export async function retypeLanded(
+   const manifests = manifested(root, base, moved, bodyText)
+   const changes: FileEdit[] = [...carried.changes, ...repointing.changes, ...manifests.changes]
+   const readings: Reading[] = [...carried.readings, ...repointing.readings, ...manifests.readings]
+-  const outside = outsideIn(root, base, moved, new Set(changes.map((each) => each.path)))
++  const outside = outsideIn(root, base, moved, new Set(changes.map((each) => each.path)), (path) =>
++    machineWrittenAt(root, path)
++  )
+   if ("refusal" in outside) return answering([], [outside.refusal], 1)
+   changes.push(...outside.changes)
+   readings.push(...outside.carries)
 diff --git a/context/warrants/file-itself/file-itself.context-warrant.code.ts b/context/warrants/file-itself/file-itself.context-warrant.code.ts
 index 5730340ca2d5c650e810196903e3f2b2f580d2fa..5644c1c214cf5dc1a008795e35c1f50f5b9b1799 100644
 --- a/context/warrants/file-itself/file-itself.context-warrant.code.ts
