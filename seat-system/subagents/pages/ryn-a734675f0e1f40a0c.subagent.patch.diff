@@ -1,0 +1,14 @@
+diff --git a/temper/temper-lorebooks/lorebooks-shalidor-locations/lorebooks-shalidor-locations.module.ts b/temper/temper-lorebooks/lorebooks-shalidor-locations/lorebooks-shalidor-locations.module.ts
+index 19d192136767e711889d2c6c14dd0d0dc60908c0..05cef9dd21355d8b19f2e5900a5051e1b6c7411b 100644
+--- a/temper/temper-lorebooks/lorebooks-shalidor-locations/lorebooks-shalidor-locations.module.ts
++++ b/temper/temper-lorebooks/lorebooks-shalidor-locations/lorebooks-shalidor-locations.module.ts
+@@ -11,9 +11,5 @@ export const lorebooksShalidorLocations = {
+       invariantKind: "constraint",
+       statement: "The runs are gathered in the order the whole table names.",
+     },
+-    {
+-      invariantKind: "gap",
+-      statement: "Akasha holds no map pin for a lore book.",
+-    },
+   ],
+ } as const satisfies Module
