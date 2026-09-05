@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/alan/fitness/client-profiles/client-profile.page-type.ts b/alan/fitness/client-profiles/client-profile.page-type.ts
+index 6345264e5629628b4b2e95534200bf73b3e49be5..c09545085dfce8056bf7e717db92659da4e09432 100644
+--- a/alan/fitness/client-profiles/client-profile.page-type.ts
++++ b/alan/fitness/client-profiles/client-profile.page-type.ts
+@@ -23,7 +23,8 @@ export const clientProfile = {
+   invariants: [
+     {
+       invariantKind: "constraint",
+-      statement: "One client profile page exists, and a second leaves neither of them holding.",
++      statement:
++        "One client profile page exists, and a second leaves neither of those two pages holding.",
+     },
+     {
+       invariantKind: "gap",
