@@ -12,7 +12,7 @@ export const testFixture = {
     },
     {
       invariantKind: "departure",
-      statement: "A fixture invents a page only where no page represents what the test needs.",
+      statement: "A fixture invents a page only where no page represents the thing the test needs.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const testFixture = {
     {
       invariantKind: "departure",
       statement:
-        "A system reading what the pages declare refuses a world declaring no property unique.",
+        "A system reading the pages' declarations refuses a world declaring no property unique.",
     },
   ],
   directives: [
