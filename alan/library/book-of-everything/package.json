@@ -13,6 +13,6 @@
   },
   "dependencies": {
     "@akasha/indexes": "workspace:*",
-    "@akasha/pages-system": "workspace:*"
+    "@akasha/pages": "workspace:*"
   }
 }

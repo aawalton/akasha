@@ -7,7 +7,7 @@
     "@akasha/book-of-everything": "workspace:*",
     "@akasha/command-system": "workspace:*",
     "@akasha/indexes": "workspace:*",
-    "@akasha/pages-system": "workspace:*",
+    "@akasha/pages": "workspace:*",
     "@akasha/pages-system-service": "workspace:*"
   }
 }

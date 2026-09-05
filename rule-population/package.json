@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@akasha/checks": "workspace:*",
-    "@akasha/pages-system": "workspace:*",
+    "@akasha/pages": "workspace:*",
     "@akasha/seat-system": "workspace:*"
   }
 }

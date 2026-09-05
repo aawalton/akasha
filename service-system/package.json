@@ -29,7 +29,7 @@
     "@akasha/errors-core": "workspace:*",
     "@akasha/git": "workspace:*",
     "@akasha/k8s-types": "workspace:*",
-    "@akasha/pages-system": "workspace:*",
+    "@akasha/pages": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@akasha/utils-process": "workspace:*",
     "@akasha/workflow-language": "workspace:*",

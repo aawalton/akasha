@@ -5,6 +5,6 @@
   "dependencies": {
     "@akasha/code-system": "workspace:*",
     "@akasha/command-system": "workspace:*",
-    "@akasha/pages-system": "workspace:*"
+    "@akasha/pages": "workspace:*"
   }
 }

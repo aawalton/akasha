@@ -9,7 +9,7 @@
     "@akasha/exercise-access": "workspace:*",
     "@akasha/indexes": "workspace:*",
     "@akasha/named-for": "workspace:*",
-    "@akasha/pages-system": "workspace:*",
+    "@akasha/pages": "workspace:*",
     "@akasha/pages-system-service": "workspace:*",
     "@akasha/session-planning": "workspace:*"
   }

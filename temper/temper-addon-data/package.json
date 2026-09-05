@@ -54,7 +54,7 @@
   "dependencies": {
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-query": "workspace:*",
-    "@akasha/pages-system": "workspace:*",
+    "@akasha/pages": "workspace:*",
     "@akasha/temper-addon-generators": "workspace:*",
     "@akasha/temper-alchemy": "workspace:*",
     "@akasha/temper-build-codec": "workspace:*",

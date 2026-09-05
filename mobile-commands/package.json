@@ -7,7 +7,7 @@
     "@akasha/code-system": "workspace:*",
     "@akasha/command-system": "workspace:*",
     "@akasha/mobile-cli": "workspace:*",
-    "@akasha/pages-system": "workspace:*",
+    "@akasha/pages": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }

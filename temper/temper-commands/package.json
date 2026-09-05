@@ -30,7 +30,7 @@
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/command-system": "workspace:*",
     "@akasha/errors-core": "workspace:*",
-    "@akasha/pages-system": "workspace:*",
+    "@akasha/pages": "workspace:*",
     "@akasha/temper-addon-build": "workspace:*",
     "@akasha/temper-addon-data": "workspace:*",
     "@akasha/temper-addons-resolve": "workspace:*",

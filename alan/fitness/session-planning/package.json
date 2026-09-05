@@ -22,6 +22,6 @@
     "@akasha/exercise-access": "workspace:*",
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-core": "workspace:*",
-    "@akasha/pages-system": "workspace:*"
+    "@akasha/pages": "workspace:*"
   }
 }

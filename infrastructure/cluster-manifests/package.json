@@ -66,7 +66,7 @@
   "dependencies": {
     "@akasha/k8s-synth": "workspace:*",
     "@akasha/k8s-types": "workspace:*",
-    "@akasha/pages-system": "workspace:*",
+    "@akasha/pages": "workspace:*",
     "@akasha/seat-system": "workspace:*",
     "@akasha/workflow-language": "workspace:*",
     "yaml": "^2.8.0",

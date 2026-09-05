@@ -8,6 +8,6 @@
     "./persona-reading": "./persona-reading/persona-reading.module.code.ts"
   },
   "dependencies": {
-    "@akasha/pages-system": "workspace:*"
+    "@akasha/pages": "workspace:*"
   }
 }
