@@ -15,7 +15,7 @@ export const alertDescription = {
     },
     {
       invariantKind: "departure",
-      statement: "A runbook outlives the deployment gap the alert it belongs to sits in.",
+      statement: "A runbook outlives the deployment gap the alert that runbook belongs to sits in.",
     },
   ],
 } as const satisfies FileProperty
