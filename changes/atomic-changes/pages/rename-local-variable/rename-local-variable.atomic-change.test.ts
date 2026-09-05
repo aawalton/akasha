@@ -72,7 +72,13 @@ test("a var is refused", () => {
 
 test("a destructured declaration is refused", () => {
   const text = "export function f(o: { n: number }): number {\n  const { n } = o\n  return n\n}\n"
-  expect(whyOf(text, "n } = o", "total")).toBe("a destructured declaration is no simple binding")
+  expect(whyOf(text, "n } = o", "total")).toBe("a destructured name is no simple binding")
+})
+
+test("a name declared again inside its own scope is refused", () => {
+  const text =
+    "export function f(): number {\n  const n = 1\n  {\n    const n = 2\n    return n\n  }\n}\n"
+  expect(whyOf(text, "n = 1", "total")).toBe("`n` is declared again inside its own scope")
 })
 
 test("the name it already carries is refused", () => {

@@ -169,8 +169,9 @@ function bindingOf(
 function localDeclaration(declared: ts.Node): string | null {
   const up = declared.parent
   if (up === undefined) return "the binding has no declaration this change can read"
+  if (ts.isBindingElement(up)) return "a destructured name is no simple binding"
   if (ts.isParameter(up))
-    return ts.isIdentifier(up.name) ? null : "a destructured parameter is no simple binding"
+    return ts.isIdentifier(up.name) ? null : "a destructured name is no simple binding"
   if (!ts.isVariableDeclaration(up)) return "the binding is no `let`, `const` or parameter"
   if (!ts.isIdentifier(up.name)) return "a destructured declaration is no simple binding"
   const list = up.parent
@@ -178,6 +179,19 @@ function localDeclaration(declared: ts.Node): string | null {
   const held = ts.getCombinedNodeFlags(list)
   const blocked = (held & ts.NodeFlags.Let) !== 0 || (held & ts.NodeFlags.Const) !== 0
   return blocked ? null : "a `var` binding is scoped by its function rather than by its block"
+}
+
+function shadowedIn(scope: ts.Node, of: string): boolean {
+  let found = false
+  const walk = (node: ts.Node): undefined => {
+    if (node !== scope && scoping(node) && declaredIn(node).has(of)) {
+      found = true
+      return
+    }
+    ts.forEachChild(node, walk)
+  }
+  ts.forEachChild(scope, walk)
+  return found
 }
 
 function takenBy(source: ts.SourceFile, scope: ts.Node, to: string): string | null {
@@ -211,6 +225,8 @@ export function renameLocalVariable(path: string, text: string, given: Asked): R
     return refusing(`\`${named.text}\` is bound by the file rather than locally`)
   const why = localDeclaration(bound.declared)
   if (why !== null) return refusing(why)
+  if (shadowedIn(bound.scope, named.text))
+    return refusing(`\`${named.text}\` is declared again inside its own scope`)
   const taken = takenBy(source, bound.scope, given.to)
   if (taken !== null) return refusing(taken)
   const found = spanning(source, bound.scope, named.text)
