@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/instrument/instrument.domain.ts b/instrument/instrument.domain.ts
-index b06cfdbb377e3ed7acc3491f3198904272279698..44178e4188b644d4fd652f38bd95136c896fca4a 100644
+index b06cfdbb377e3ed7acc3491f3198904272279698..26443807831ccdc90e06b4c4d770f7c1266ce78b 100644
 --- a/instrument/instrument.domain.ts
 +++ b/instrument/instrument.domain.ts
 @@ -39,7 +39,7 @@ export const instrument = {
@@ -9,6 +9,15 @@ index b06cfdbb377e3ed7acc3491f3198904272279698..44178e4188b644d4fd652f38bd95136c
        invariantKind: "departure",
 -      statement: "A run is never shorter on the clock than the longest run inside it.",
 +      statement: "A run is never shorter on the clock than the longest run inside that run.",
+     },
+     {
+       invariantKind: "departure",
+@@ -57,7 +57,7 @@ export const instrument = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A first run against an empty cache costs more than the run it is.",
++      statement: "A first run against an empty cache costs more than the run that first run is.",
      },
      {
        invariantKind: "departure",
