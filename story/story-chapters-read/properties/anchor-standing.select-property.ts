@@ -10,7 +10,8 @@ export const anchorStanding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An anchor the story tells is asserted and one a person in it says is claimed.",
+      statement:
+        "An anchor the story tells is asserted and one a person in that story says is claimed.",
     },
     {
       invariantKind: "departure",
