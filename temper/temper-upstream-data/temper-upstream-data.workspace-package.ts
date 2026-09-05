@@ -51,5 +51,9 @@ export const temperUpstreamData = {
       invariantKind: "departure",
       statement: "A library is ported by the one module named for that library.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The checkout the ported file lands in is named by the caller.",
+    },
   ],
 } as const satisfies WorkspacePackage

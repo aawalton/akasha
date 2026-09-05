@@ -16,6 +16,10 @@ export const setIds = {
       statement: "This union names exactly the set keys the set pages carry.",
     },
     {
+      invariantKind: "constraint",
+      statement: "One module holding all 707 set ids would pass the byte ceiling.",
+    },
+    {
       invariantKind: "gap",
       statement: "A set page added while this union is left alone cannot be named in typed code.",
     },
