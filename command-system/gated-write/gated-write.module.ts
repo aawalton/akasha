@@ -9,11 +9,11 @@ export const gatedWrite = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A run is its exit code together with what it printed.",
+      statement: "A run is its exit code together with what that run printed.",
     },
     {
       invariantKind: "departure",
-      statement: "Only a refusal carries a reason with it.",
+      statement: "Only a refusal carries a reason with that refusal.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,8 @@ export const gatedWrite = {
     },
     {
       invariantKind: "departure",
-      statement: "A line is a failure where it opens with a bracketed name followed by fail.",
+      statement:
+        "A line is a failure where that line opens with a bracketed name followed by fail.",
     },
     {
       invariantKind: "departure",
