@@ -1,4 +1,3 @@
-runsWarrants: false
 diff --git a/infrastructure/auth/gotrue/gotrue.manifest.code.ts b/infrastructure/auth/gotrue/gotrue.manifest.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..06365a2e8210cf286a37c54ca24f52a4daa522d5
@@ -428,7 +427,7 @@ index 06365a2e8210cf286a37c54ca24f52a4daa522d5..00000000000000000000000000000000
 -  ]
 -}
 diff --git a/service-system/cluster-services/pages/gotrue/gotrue.cluster-service.ts b/service-system/cluster-services/pages/gotrue/gotrue.cluster-service.ts
-index fb0a480a7520f6527375c46f54642aa5f5314ac2..7da0f07c655ae0a345d1193c3f2ddb0de9a4c09e 100644
+index fb0a480a7520f6527375c46f54642aa5f5314ac2..d6ce2fd5708d199736e5416e20c2cf943a686921 100644
 --- a/service-system/cluster-services/pages/gotrue/gotrue.cluster-service.ts
 +++ b/service-system/cluster-services/pages/gotrue/gotrue.cluster-service.ts
 @@ -11,6 +11,5 @@ export const gotrue = {
@@ -437,5 +436,5 @@ index fb0a480a7520f6527375c46f54642aa5f5314ac2..7da0f07c655ae0a345d1193c3f2ddb0d
    containerPort: 9999,
 -  manifestCode:
 -    "service-system/cluster-services/pages/gotrue/gotrue.cluster-service.code.attachment.ts",
-+  manifestCode: "infrastructure/auth/gotrue/gotrue.manifest.code.ts",
++  manifestSlug: "gotrue",
  } as const satisfies ClusterService
