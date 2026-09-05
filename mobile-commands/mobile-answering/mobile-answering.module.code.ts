@@ -72,7 +72,7 @@ export function wordsIn(
   return { named, loose, flags }
 }
 
-export function standingFor(said: Said, flag: string): Reading<Said> {
+export function bareWordAs(said: Said, flag: string): Reading<Said> {
   if (said.loose.length === 0) return said
   if (said.loose.length > 1) {
     const extra = said.loose

@@ -3,10 +3,10 @@ import { inputIn } from "@akasha/command-system/piping"
 import { executeScript } from "@akasha/mobile-cli/appium-client"
 import {
   answering,
+  bareWordAs,
   driving,
   type Reading,
   refusedBy,
-  standingFor,
   told,
   wordsIn,
 } from "../mobile-answering/mobile-answering.module.code.ts"
@@ -41,7 +41,7 @@ function pipedScript(): Reading<string> {
 export function readIn(argv: readonly string[]): Reading<Read> {
   const words = wordsIn(argv, VALUED, [])
   if ("refused" in words) return words
-  const said = standingFor(words, SCRIPT)
+  const said = bareWordAs(words, SCRIPT)
   if ("refused" in said) return said
   const script = said.named[SCRIPT]
   if (script === undefined) {

@@ -7,10 +7,10 @@ import {
   APP_SAID,
   answering,
   appIn,
+  bareWordAs,
   keyedLines,
   type Reading,
   refusedBy,
-  standingFor,
   told,
   UDID_SAID,
   wordsIn,
@@ -37,7 +37,7 @@ export type Read = {
 export function readIn(argv: readonly string[]): Reading<Read> {
   const words = wordsIn(argv, VALUED, SWITCHES)
   if ("refused" in words) return words
-  const said = standingFor(words, ROUTE)
+  const said = bareWordAs(words, ROUTE)
   if ("refused" in said) return said
   const route = said.named[ROUTE]
   if (route === undefined) {
