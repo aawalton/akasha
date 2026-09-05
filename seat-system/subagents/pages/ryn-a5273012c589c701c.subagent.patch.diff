@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-items-rules-routing/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.ts b/temper/temper-items-rules-routing/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.ts
+index 5fe3823e33b112086d44ff7f0c031920998c6ab2..4ff1a483e92bbf1ffd418f89c3fa6014fd5a0ffc 100644
+--- a/temper/temper-items-rules-routing/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.ts
++++ b/temper/temper-items-rules-routing/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.ts
+@@ -13,7 +13,7 @@ export const inventoryManagementPlanCapacityFilter = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An audit says what was dropped as well as what was kept.",
++      statement: "An audit names the items dropped as well as the items kept.",
+     },
+   ],
+ } as const satisfies Module
