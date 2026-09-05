@@ -284,18 +284,22 @@ index 0000000000000000000000000000000000000000..dd7d04dd4a449145584f801c325d1c0f
 +  ]
 +}
 diff --git a/seat-system/subagents/pages/aranya-a411df1474e07b1b1.subagent.patch.diff b/seat-system/subagents/pages/aranya-a411df1474e07b1b1.subagent.patch.diff
-index b4f87d8254fd0374b57425f588d92e51f929b27c..d4f18bfd4af7dca8a12d784a24f33d76a81f29a7 100644
+index bd05bc7d68b378596727e85c9ac9c0f432d93ffd..f14d33e659ffc55ba89fd7e8407608664b8d0c83 100644
 --- a/seat-system/subagents/pages/aranya-a411df1474e07b1b1.subagent.patch.diff
 +++ b/seat-system/subagents/pages/aranya-a411df1474e07b1b1.subagent.patch.diff
-@@ -7,7 +7,7 @@ index 0d572f593b8b19db6606e94714cf4aeedfc37f54..6fa08466942bff0f68bbc842914c4743
+@@ -590,8 +590,12 @@ index 0d572f593b8b19db6606e94714cf4aeedfc37f54..40e00837a24539d856f25339208fcd67
     replicas: 1,
     containerPort: 8787,
  -  manifestCode:
---    "service-system/cluster-services/pages/page-store/page-store.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +-    "pages/system-service/page-store/page-store.manifest.code.ts",
++=======
+ -    "service-system/cluster-services/pages/page-store/page-store.cluster-service.code.attachment.ts",
+ +<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
  +  manifestSlug: "page-store",
-    invariants: [
-      {
+ +=======
+ +  manifestCode: "pages/system-service/page-store/page-store.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/page-store/page-store.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/page-store/page-store.cluster-service.code.attachment.ts
 deleted file mode 100644
 index dd7d04dd4a449145584f801c325d1c0f88767fd0..0000000000000000000000000000000000000000
@@ -582,20 +586,16 @@ index dd7d04dd4a449145584f801c325d1c0f88767fd0..00000000000000000000000000000000
 -  ]
 -}
 diff --git a/service-system/cluster-services/pages/page-store/page-store.cluster-service.ts b/service-system/cluster-services/pages/page-store/page-store.cluster-service.ts
-index 0d572f593b8b19db6606e94714cf4aeedfc37f54..40e00837a24539d856f25339208fcd67d0e5f174 100644
+index 0d572f593b8b19db6606e94714cf4aeedfc37f54..6fa08466942bff0f68bbc842914c474369f0320c 100644
 --- a/service-system/cluster-services/pages/page-store/page-store.cluster-service.ts
 +++ b/service-system/cluster-services/pages/page-store/page-store.cluster-service.ts
-@@ -11,8 +11,11 @@ export const pageStore = {
+@@ -11,8 +11,7 @@ export const pageStore = {
    image: "alpine/socat:1.8.0.3",
    replicas: 1,
    containerPort: 8787,
 -  manifestCode:
 -    "service-system/cluster-services/pages/page-store/page-store.cluster-service.code.attachment.ts",
-+<<<<<<< what this change would leave
 +  manifestSlug: "page-store",
-+=======
-+  manifestCode: "pages/system-service/page-store/page-store.manifest.code.ts",
-+>>>>>>> what HEAD holds
    invariants: [
      {
        invariantKind: "departure",
