@@ -44,7 +44,7 @@ index 0000000000000000000000000000000000000000..a42cf98e02e2ae552780287c32b51131
 +  symlinkSync(join(from, at), to)
 +}
 diff --git a/code-system/code-tests/code-tests.module.test.ts b/code-system/code-tests/code-tests.module.test.ts
-index 65780586f3908ffcf7ea4b1f531dfd5733bca552..69f8eb4bc2b810747c19402ad68d96f80dc035e4 100644
+index 65780586f3908ffcf7ea4b1f531dfd5733bca552..23bf8d7a0df6de09eea20c5277923f8190e07532 100644
 --- a/code-system/code-tests/code-tests.module.test.ts
 +++ b/code-system/code-tests/code-tests.module.test.ts
 @@ -5,7 +5,6 @@ import {
@@ -55,6 +55,39 @@ index 65780586f3908ffcf7ea4b1f531dfd5733bca552..69f8eb4bc2b810747c19402ad68d96f8
    writeFileSync,
  } from "node:fs"
  import { dirname, join } from "node:path"
+@@ -26,22 +25,16 @@ import {
+   verdictOf,
+   worldOf,
+ } from "./code-tests.module.code.ts"
+-
+-const PASSES = 'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'
+-
+-const FAILS = 'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(2) })\n'
+-
+-const MARKED =
+-  'import { expect, test } from "bun:test"\n' +
+-  `test("one", () => { expect(process.env["${RUNNING}"]).toBe("1") })\n`
+-
+-const SETS = "globalThis.held = true\n"
+-
+-const NEEDS =
+-  'import { expect, test } from "bun:test"\n' +
+-  'test("one", () => { expect(globalThis.held).toBe(true) })\n'
+-
+-const UNDER = "/var/tmp/"
++import {
++  FAILS,
++  handing,
++  installed,
++  MARKED,
++  NEEDS,
++  PASSES,
++  SETS,
++  UNDER,
++} from "./code-tests.module.test-fixtures.ts"
+ 
+ const scratch = scratchWorld()
+ 
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
 index 7e429c3af80b55f4f24a769608e70b946d7ca1d5..2736394b876c6ec11bcb471981ee7ffaf00159ee 100644
 --- a/code-system/code-tests/code-tests.module.ts
