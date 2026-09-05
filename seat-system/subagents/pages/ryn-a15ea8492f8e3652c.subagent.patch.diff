@@ -1,0 +1,13 @@
+diff --git a/seat-system/supervising/supervisor-boot-stage/supervisor-boot-stage.module.ts b/seat-system/supervising/supervisor-boot-stage/supervisor-boot-stage.module.ts
+index da9bac3ff1022db0f26a4c769e531c9a364ba650..8efa23bfb1ab721f2fef393e1414de1a87db3353 100644
+--- a/seat-system/supervising/supervisor-boot-stage/supervisor-boot-stage.module.ts
++++ b/seat-system/supervising/supervisor-boot-stage/supervisor-boot-stage.module.ts
+@@ -9,7 +9,7 @@ export const supervisorBootStage = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A stage still pending past its notice window says so while it waits.",
++      statement: "A stage still pending past its notice window says so while that stage waits.",
+     },
+     {
+       invariantKind: "departure",
