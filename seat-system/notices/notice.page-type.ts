@@ -44,8 +44,7 @@ export const notice = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A notice that arrives on a message row carries no opening marker, because the row records its own sender.",
+      statement: "A notice that arrives on a message row carries no opening marker.",
     },
     {
       invariantKind: "departure",
