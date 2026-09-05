@@ -86,7 +86,7 @@ export const panelJudging = {
     },
     {
       invariantKind: "departure",
-      statement: "What each feature cost is printed whether the run is green or red.",
+      statement: "Each feature's cost is printed whether the run is green or red.",
     },
     {
       invariantKind: "departure",
