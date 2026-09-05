@@ -35,7 +35,7 @@ export const panelJudging = {
     },
     {
       invariantKind: "departure",
-      statement: "A tree where no row carries what the tree is for is red.",
+      statement: "A tree where no row carries the value the tree is for is red.",
     },
     {
       invariantKind: "departure",
@@ -64,7 +64,7 @@ export const panelJudging = {
     },
     {
       invariantKind: "departure",
-      statement: "Those two counts are what the harness domain states about Alan's two widgets.",
+      statement: "The harness domain states those two counts about Alan's two widgets.",
     },
     {
       invariantKind: "departure",
@@ -100,7 +100,7 @@ export const panelJudging = {
     {
       invariantKind: "departure",
       statement:
-        "What the agent tree logged reading is printed beside what that tree drew rather than judged.",
+        "The rows the agent tree logged reading are printed beside that tree's rows rather than judged.",
     },
     {
       invariantKind: "departure",
@@ -108,7 +108,7 @@ export const panelJudging = {
     },
     {
       invariantKind: "departure",
-      statement: "Where a surface is red, what each feature said on activation is printed.",
+      statement: "Where a surface is red, the lines each feature said on activation are printed.",
     },
     {
       invariantKind: "absence",
