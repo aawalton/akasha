@@ -1,0 +1,13 @@
+diff --git a/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.ts b/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.ts
+index 406ec99c7a026b87e79a789cd8d26e581840b032..abd5109be73f7d89a16d260a25df286b041694fa 100644
+--- a/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.ts
++++ b/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.ts
+@@ -9,7 +9,7 @@ export const recipientResolverRunning = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "It sits outside the fleet it serves.",
++      statement: "The recipient resolver sits outside the fleet that resolver serves.",
+     },
+     {
+       invariantKind: "departure",
