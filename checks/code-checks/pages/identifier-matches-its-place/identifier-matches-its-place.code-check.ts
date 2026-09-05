@@ -150,7 +150,7 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "Each name a pattern binds is judged and the key it binds from is not.",
+      statement: "Each name a pattern binds is judged and the key that pattern binds from is not.",
     },
     {
       invariantKind: "departure",
