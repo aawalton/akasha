@@ -1,0 +1,12 @@
+diff --git a/service-system/cluster-services/pages/promtail.cluster-service.ts b/service-system/cluster-services/pages/promtail.cluster-service.ts
+index 66f9754eb3a5f778bf0ff3b2cc8a77e175835572..74addaf7760e8d1538cf86ab97996c878997ee6d 100644
+--- a/service-system/cluster-services/pages/promtail.cluster-service.ts
++++ b/service-system/cluster-services/pages/promtail.cluster-service.ts
+@@ -10,6 +10,5 @@ export const promtail = {
+   resourceName: "promtail",
+   image: "grafana/promtail:3.1.0",
+   containerPort: 3101,
+-  manifestCode:
+-    "infrastructure/loki-service/promtail/promtail.cluster-service.code.attachment.ts",
++  manifestSlug: "promtail",
+ } as const satisfies ClusterService
