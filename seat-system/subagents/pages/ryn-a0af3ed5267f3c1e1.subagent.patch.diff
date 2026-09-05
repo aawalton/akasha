@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-log-days/seat-log-day.page-type.ts b/seat-system/seat-log-days/seat-log-day.page-type.ts
+index ccb59d505b3b6d397a21fc58a30189bd2e4fae77..289e9887c95ddcdb8bc13539699a3978a8ff6c41 100644
+--- a/seat-system/seat-log-days/seat-log-day.page-type.ts
++++ b/seat-system/seat-log-days/seat-log-day.page-type.ts
+@@ -60,7 +60,7 @@ export const seatLogDay = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "These lines record what the processes did.",
++      statement: "These lines record the work the processes did.",
+     },
+     {
+       invariantKind: "absence",
