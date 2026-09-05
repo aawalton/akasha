@@ -1,5 +1,5 @@
 diff --git a/pages/query/store-spelling/store-spelling.module.ts b/pages/query/store-spelling/store-spelling.module.ts
-index 945da208173a79d2a3922c978b063c28a2ccadc8..d30600efc672ea35c5a9165b69e0fdfe392a724f 100644
+index 945da208173a79d2a3922c978b063c28a2ccadc8..756c8a2b6b17a99a307425590c70e4dd8ccc18f1 100644
 --- a/pages/query/store-spelling/store-spelling.module.ts
 +++ b/pages/query/store-spelling/store-spelling.module.ts
 @@ -30,7 +30,8 @@ export const storeSpelling = {
@@ -12,3 +12,13 @@ index 945da208173a79d2a3922c978b063c28a2ccadc8..d30600efc672ea35c5a9165b69e0fdfe
      },
      {
        invariantKind: "departure",
+@@ -38,7 +39,8 @@ export const storeSpelling = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Reaching them would put a page-file reader behind a package that opens none.",
++      statement:
++        "Reaching the two spellings would put a page-file reader behind a package that opens none.",
+     },
+     {
+       invariantKind: "absence",
