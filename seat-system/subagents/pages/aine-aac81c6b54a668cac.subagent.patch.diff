@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/domain-files/monarch-domain-files.module.code.ts b/alan/harness/monarch/domain-files/monarch-domain-files.module.code.ts
-index e62910d2b1a34a6dd6264dfd1b07b14ca20a0fe8..8f439056cbad4dd957c7c4cc1f430f1b102eb773 100644
+index e62910d2b1a34a6dd6264dfd1b07b14ca20a0fe8..4e54b8c9883254d378e2a2060521b2a38cd915eb 100644
 --- a/alan/harness/monarch/domain-files/monarch-domain-files.module.code.ts
 +++ b/alan/harness/monarch/domain-files/monarch-domain-files.module.code.ts
 @@ -62,7 +62,7 @@ function ordered(value: Readonly<Record<string, unknown>>): readonly string[] {
@@ -27,6 +27,15 @@ index e62910d2b1a34a6dd6264dfd1b07b14ca20a0fe8..8f439056cbad4dd957c7c4cc1f430f1b
      taken.add(page.slug)
      const id = keyOf(page, "monarchId")
      if (id !== null && id !== "") byMonarchId.set(id, page)
+@@ -218,7 +218,7 @@ export function holdingWanted(accountSlug: string, h: MonarchHolding): Wanted {
+     title: h.ticker ?? h.securityName,
+     slugFrom: h.ticker ?? h.securityName,
+     values,
+-    definition: `the ${h.ticker ?? h.securityName} units standing in ${accountSlug}.`,
++    definition: `the ${h.ticker ?? h.securityName} units sitting in ${accountSlug}.`,
+   }
+ }
+ 
 diff --git a/alan/harness/monarch/domain-files/monarch-domain-files.module.ts b/alan/harness/monarch/domain-files/monarch-domain-files.module.ts
 index 68721cbe82c87a1edd2aa5880eeee258a859d7b8..32b9ffbb7443dacb10c76c6c12fd39b556e4746d 100644
 --- a/alan/harness/monarch/domain-files/monarch-domain-files.module.ts
@@ -41,7 +50,7 @@ index 68721cbe82c87a1edd2aa5880eeee258a859d7b8..32b9ffbb7443dacb10c76c6c12fd39b5
      {
        invariantKind: "departure",
 diff --git a/alan/harness/monarch/files/monarch-files.module.code.ts b/alan/harness/monarch/files/monarch-files.module.code.ts
-index e6ff375324061d9410d8f8ed8bb2aa4ee4ce64e4..ee008863086ee46427ba977027ba6671dcfcacb7 100644
+index e6ff375324061d9410d8f8ed8bb2aa4ee4ce64e4..714e5e542f0fe0952d3ec7e4696079d0e6a1187d 100644
 --- a/alan/harness/monarch/files/monarch-files.module.code.ts
 +++ b/alan/harness/monarch/files/monarch-files.module.code.ts
 @@ -9,7 +9,7 @@ export const AKASHA = rootFor(roots, AKASHA_REPO)
@@ -62,11 +71,20 @@ index e6ff375324061d9410d8f8ed8bb2aa4ee4ce64e4..ee008863086ee46427ba977027ba6671
   *
   * The keys are the entry shape's own, declared at
   * `alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts`.
+@@ -121,7 +121,7 @@ export function monthOf(date: string): string {
+   return `month-${date.slice(0, 7)}`
+ }
+ 
+-/** A month page stands in a folder of its own, the entry file beside it. */
++/** A month page sits in a folder of its own, the entry file beside it. */
+ export function monthPagePath(slug: string): string {
+   return `${MONTHS_FOLDER}/${slug}/${slug}.${MONTH_TYPE}.ts`
+ }
 diff --git a/alan/harness/monarch/files/monarch-files.module.ts b/alan/harness/monarch/files/monarch-files.module.ts
-index 24c6c2df8768ba6b862b0d229e7d72e4fe639a3f..74798c864bc081a57ed2893aae44f3fa8b267edc 100644
+index 24c6c2df8768ba6b862b0d229e7d72e4fe639a3f..9b8c515d07e28ad237d55f07036ef5838d3bc417 100644
 --- a/alan/harness/monarch/files/monarch-files.module.ts
 +++ b/alan/harness/monarch/files/monarch-files.module.ts
-@@ -9,12 +9,12 @@ export const monarchFiles = {
+@@ -9,17 +9,17 @@ export const monarchFiles = {
    invariants: [
      {
        invariantKind: "departure",
@@ -78,6 +96,12 @@ index 24c6c2df8768ba6b862b0d229e7d72e4fe639a3f..74798c864bc081a57ed2893aae44f3fa
        statement:
 -        "The checkout is read directly, because the categorization ring runs under a workstation timer where no service stands.",
 +        "The checkout is read directly, because the categorization ring runs under a workstation timer where there is no service.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A month page stands in a folder of its own with its transactions entry file beside it.",
++        "A month page sits in a folder of its own with its transactions entry file beside it.",
      },
      {
        invariantKind: "departure",
