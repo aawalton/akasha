@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/indexes/reaching/reaching.module.ts b/pages/indexes/reaching/reaching.module.ts
-index 7437cb86fa77667bf28a48c8216aacfb5620b748..f7c3da26ccc5d22cb3c28368718a4f1acffbdf21 100644
+index 7437cb86fa77667bf28a48c8216aacfb5620b748..2dbf96cc051670eb2857b47a354487f4f7a38706 100644
 --- a/pages/indexes/reaching/reaching.module.ts
 +++ b/pages/indexes/reaching/reaching.module.ts
 @@ -66,7 +66,7 @@ export const reaching = {
@@ -9,6 +9,15 @@ index 7437cb86fa77667bf28a48c8216aacfb5620b748..f7c3da26ccc5d22cb3c28368718a4f1a
        invariantKind: "departure",
 -      statement: "What a name reaches is said here alone.",
 +      statement: "The page a name reaches is said here alone.",
+     },
+     {
+       invariantKind: "departure",
+@@ -74,7 +74,7 @@ export const reaching = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What stands under that key is answered with that property.",
++      statement: "The value standing under that key is answered with that property.",
      },
      {
        invariantKind: "departure",
