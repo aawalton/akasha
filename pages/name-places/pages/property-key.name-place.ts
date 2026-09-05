@@ -17,7 +17,8 @@ export const propertyKey = {
     },
     {
       invariantKind: "departure",
-      statement: "Lowering each capital and setting a dash before it gives the slug back.",
+      statement:
+        "Lowering each capital and setting a dash before that capital gives the slug back.",
     },
     {
       invariantKind: "departure",
