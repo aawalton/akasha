@@ -1,0 +1,14 @@
+diff --git a/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts b/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
+index c1bcef256ae185d58d3479e9f86c7ab9f544b8f6..ae0c2ed407fca50c896e0a471bcda4555bd5ade3 100644
+--- a/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
++++ b/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
+@@ -52,7 +52,8 @@ export const monarchAccount = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An account named by digits alone takes `account-` ahead of them for its slug.",
++      statement:
++        "An account named by digits alone takes `account-` ahead of those digits for its slug.",
+     },
+     {
+       invariantKind: "gap",
