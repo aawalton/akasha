@@ -13,7 +13,8 @@ export const trackingField = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A field is observed rather than set, so each value it holds is one observation.",
+      statement:
+        "A field is observed rather than set, so each value that field holds is one observation.",
     },
     {
       invariantKind: "gap",
