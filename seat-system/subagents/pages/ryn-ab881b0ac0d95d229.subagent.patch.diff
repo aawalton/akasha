@@ -39,3 +39,29 @@ index 074b34ad059f0ec9f9b4759efa89827e51d22cf5..c5ad4598e32dbcde24aadf323a50ed34
      },
      {
        invariantKind: "absence",
+diff --git a/commands/deploy/web-putting-up/deploy-web-putting-up.module.ts b/commands/deploy/web-putting-up/deploy-web-putting-up.module.ts
+index b0eb3f183d9dddb480d2947e0788ce94bd0c600f..8c629df5ebdbe7cba7dd1d0f1638cd1d28f3893a 100644
+--- a/commands/deploy/web-putting-up/deploy-web-putting-up.module.ts
++++ b/commands/deploy/web-putting-up/deploy-web-putting-up.module.ts
+@@ -18,7 +18,7 @@ export const deployWebPuttingUp = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A web app is built from its source before that web app is put up.",
++      statement: "A web app is built from its source before the web app is put up.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/commands/refactor/package-renaming/package-renaming.module.ts b/commands/refactor/package-renaming/package-renaming.module.ts
+index c534e2d003f50e87a86ca4d13e56d65851012d2e..1aa5064a428bce8ec85cfed4c9926db456edae4c 100644
+--- a/commands/refactor/package-renaming/package-renaming.module.ts
++++ b/commands/refactor/package-renaming/package-renaming.module.ts
+@@ -119,7 +119,7 @@ export const packageRenaming = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A link this made is taken back where the rename does not land.",
++      statement: "A link this module made is taken back where the rename does not land.",
+     },
+     {
+       invariantKind: "departure",
