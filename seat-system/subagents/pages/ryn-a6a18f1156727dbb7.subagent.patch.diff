@@ -26,3 +26,17 @@ index 0df505b69536fc15121636868d3972f9b0edd139..96b361fc78c112f30b6eb93a50364191
 -    },
    ],
  } as const satisfies Module
+diff --git a/temper/temper-character-skills/scribing-grimoires/scribing-grimoires.module.ts b/temper/temper-character-skills/scribing-grimoires/scribing-grimoires.module.ts
+index f7ca4f131f45606899df3a37bdac462fb2edf40d..86f52e0d0008e7d550a31e9cf12794ebb1d313c2 100644
+--- a/temper/temper-character-skills/scribing-grimoires/scribing-grimoires.module.ts
++++ b/temper/temper-character-skills/scribing-grimoires/scribing-grimoires.module.ts
+@@ -23,9 +23,5 @@ export const scribingGrimoires = {
+       invariantKind: "departure",
+       statement: "This table is divided across runs.",
+     },
+-    {
+-      invariantKind: "constraint",
+-      statement: "No akasha file passes fifteen thousand bytes.",
+-    },
+   ],
+ } as const satisfies Module
