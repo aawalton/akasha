@@ -18,7 +18,7 @@ export const noVoidReturn = {
     },
     {
       invariantKind: "departure",
-      statement: "An async body is the case this is for.",
+      statement: "An async body is the case this rule is for.",
     },
     {
       invariantKind: "departure",

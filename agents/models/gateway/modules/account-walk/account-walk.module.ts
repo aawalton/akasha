@@ -261,7 +261,8 @@ export const accountWalk = {
     },
     {
       invariantKind: "gap",
-      statement: "A body already sent upstream is sent again without asking whether that is safe.",
+      statement:
+        "A body already sent upstream is sent again without asking whether the second send is safe.",
     },
     {
       invariantKind: "gap",

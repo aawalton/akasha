@@ -51,7 +51,7 @@ export const checkScratch = {
     },
     {
       invariantKind: "absence",
-      statement: "This only writes into it.",
+      statement: "This module only writes into it.",
     },
     {
       invariantKind: "absence",

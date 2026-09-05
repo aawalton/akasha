@@ -47,7 +47,7 @@ export const surplusFallNotifying = {
     },
     {
       invariantKind: "departure",
-      statement: "What this writes is a notification, and nothing here knows about devices.",
+      statement: "What this module writes is a notification, and nothing here knows about devices.",
     },
     {
       invariantKind: "departure",

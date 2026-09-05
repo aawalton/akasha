@@ -10,7 +10,7 @@ export const monarchAgreement = {
     {
       invariantKind: "departure",
       statement:
-        "Three counts are compared: every transaction, those needing review, and those uncategorized.",
+        "Three counts are compared: every transaction, the ones needing review, and the uncategorized ones.",
     },
     {
       invariantKind: "departure",

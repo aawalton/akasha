@@ -14,7 +14,8 @@ export const spotifyFetching = {
     },
     {
       invariantKind: "departure",
-      statement: "A call over HTTP is what this answers to until something replaces the answer.",
+      statement:
+        "A call over HTTP is what this module answers to until something replaces the answer.",
     },
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const strengthSync = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This is run as its own program by the name its ops-command page states.",
+      statement: "This module is run as its own program by the name its ops-command page states.",
     },
   ],
 } as const satisfies Module

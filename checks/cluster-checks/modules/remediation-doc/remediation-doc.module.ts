@@ -29,7 +29,8 @@ export const remediationDoc = {
     },
     {
       invariantKind: "departure",
-      statement: "Every one of these is refused where the code is read rather than where it runs.",
+      statement:
+        "Every one of these refusals is made where the code is read rather than where it runs.",
     },
     {
       invariantKind: "departure",

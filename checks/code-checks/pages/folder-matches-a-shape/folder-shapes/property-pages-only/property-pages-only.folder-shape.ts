@@ -32,7 +32,7 @@ export const propertyPagesOnly = {
     {
       invariantKind: "departure",
       statement:
-        "The pages here are of several types and that is the shape rather than a fault in it.",
+        "The pages here are of several types and that mix is the shape rather than a fault in it.",
     },
     {
       invariantKind: "absence",
@@ -40,7 +40,7 @@ export const propertyPagesOnly = {
     },
     {
       invariantKind: "absence",
-      statement: "The folder above says which page these are properties of.",
+      statement: "The folder above says which page these pages are properties of.",
     },
   ],
 } as const satisfies FolderShape

@@ -39,7 +39,7 @@ export const monarchNotesWrite = {
     {
       invariantKind: "departure",
       statement:
-        "An errors field in a two-hundred answer is a refusal, because that is the shape a refused mutation arrives in.",
+        "An errors field in a two-hundred answer is a refusal, because the field is the shape a refused mutation arrives in.",
     },
     {
       invariantKind: "departure",
