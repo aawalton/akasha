@@ -1,0 +1,21 @@
+diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
+index 51721f9a101d8671e0df5d7973f1b609f4f83780..200e0ae6f6d1291e4e3716413702dd7f54de8387 100644
+--- a/command-system/drafting/drafting.module.code.ts
++++ b/command-system/drafting/drafting.module.code.ts
+@@ -40,8 +40,6 @@ const NO_CHECKS_AT = "runsChecks: false"
+ 
+ const NO_WARRANTS_AT = "runsWarrants: false"
+ 
+-const MECHANICAL_WAS = "Akasha-mechanical: true"
+-
+ const DIFF_AT = "diff --git "
+ 
+ export type Running = { readonly checks: boolean; readonly warrants: boolean }
+@@ -210,7 +208,6 @@ export function runningIn(patch: string | null): Running {
+   if (patch === null) return RUNS_NOTHING
+   const at = patch.indexOf(DIFF_AT)
+   const lines = (at < 0 ? patch : patch.slice(0, at)).split("\n")
+-  if (lines.includes(MECHANICAL_WAS)) return RUNS_NOTHING
+   return { checks: !lines.includes(NO_CHECKS_AT), warrants: !lines.includes(NO_WARRANTS_AT) }
+ }
+ 
