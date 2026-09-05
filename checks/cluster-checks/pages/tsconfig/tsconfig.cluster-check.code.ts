@@ -77,7 +77,7 @@ function asRecord(x: unknown): Record<string, unknown> {
 
 function readTsconfig(reading: TreeReading, path: string): Record<string, unknown> {
   const body = reading.read(path)
-  if (body === null) throw new Error(`${path} stood in the tree and then read back as nothing`)
+  if (body === null) throw new Error(`${path} was in the tree and then read back as nothing`)
   const parsed = ts.parseConfigFileTextToJson(path, body)
   if (parsed.error) {
     throw new Error(
@@ -196,9 +196,9 @@ function main(): never {
 
   const nested = new Map<string, Violation[]>()
   for (const violation of validateNestedPackageContainment(members.map((m) => m.workspace))) {
-    const standing = nested.get(violation.workspace) ?? []
-    standing.push(violation)
-    nested.set(violation.workspace, standing)
+    const gathered = nested.get(violation.workspace) ?? []
+    gathered.push(violation)
+    nested.set(violation.workspace, gathered)
   }
 
   const examine = (member: Member): readonly Violation[] => {

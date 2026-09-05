@@ -32,7 +32,7 @@ test("a truncated scan states its counts as a floor", () => {
   expect(lines).toHaveLength(3)
   expect(lines[2]).toContain("FLOOR rather than a census")
   // The old wording said the scan "came back full", which reads as *complete* — the opposite
-  // of the branch it stands on.
+  // of the branch it sits on.
   expect(lines[2]).not.toContain("came back full")
 })
 

@@ -61,6 +61,6 @@ function secondLine(reading: Extract<AuditReading, { kind: "measured" }>): strin
 function truncationLines(coverage: ScanCoverage): readonly string[] {
   if (coverage === "complete") return []
   // "came back full", which this said before it carried, reads as easily as *complete* — the
-  // opposite of the branch it stands on. What is meant is that the scan hit its own ceiling.
+  // opposite of the branch it sits on. What is meant is that the scan hit its own ceiling.
   return ["  The scan stopped at its limit, so every count above is a FLOOR rather than a census."]
 }
