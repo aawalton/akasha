@@ -10,6 +10,5 @@ export const seaweedfsBackupCnpg = {
   resourceName: "seaweedfs-backup-cnpg",
   image: "rclone/rclone:1.74.3",
   schedule: "7,22,37,52 * * * *",
-  manifestCode:
-    "infrastructure/seaweedfs/backup-cnpg/seaweedfs-backup-cnpg.cluster-service.code.attachment.ts",
+  manifestSlug: "seaweedfs-backup-cnpg",
 } as const satisfies ClusterService
