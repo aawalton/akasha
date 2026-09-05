@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/context/modules/warranting/warranting.module.ts b/context/modules/warranting/warranting.module.ts
+index f56904a73b2a390785b16aab08ac27a9f72649a8..5261c8e5404d4042722ab8bc4b99298886faf3e5 100644
+--- a/context/modules/warranting/warranting.module.ts
++++ b/context/modules/warranting/warranting.module.ts
+@@ -52,7 +52,7 @@ export const warranting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The readings owed are held to what one answer carries.",
++      statement: "The readings owed are held to the ceiling one answer carries.",
+     },
+     {
+       invariantKind: "departure",
