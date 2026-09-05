@@ -4742,3 +4742,16 @@ index 0000000000000000000000000000000000000000..c381f5fccd2ca3f0db809ef7c3efe24a
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/infrastructure/upscale/upscale.workspace-package.ts b/infrastructure/upscale/upscale.workspace-package.ts
+index 043337108d1d1217a68fbfa8ba66348b305e24b4..448a67c83fa274f27d82d206523125637adf49ed 100644
+--- a/infrastructure/upscale/upscale.workspace-package.ts
++++ b/infrastructure/upscale/upscale.workspace-package.ts
+@@ -11,7 +11,7 @@ export const upscale = {
+     "container-recipe/upscale-image",
+     "module/upscale-bench-synth",
+     "module/upscale-cluster",
+-    "manifest/upscale-serving-job",
++    "module/upscale-serving-job",
+     "module/upscale-workstation",
+     "python-module/upscale-srpo-graph",
+     "shell-script/upscale-bench-runner",
