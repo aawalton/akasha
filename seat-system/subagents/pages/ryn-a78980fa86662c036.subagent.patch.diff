@@ -1,0 +1,32 @@
+runsWarrants: false
+diff --git a/pages/indexes/reading/index-reading.module.ts b/pages/indexes/reading/index-reading.module.ts
+index 75e43c219ec1b84dab7e27eeb6b274e0ed3970b5..85672ada9f1ee982a0c8d429f908207639581c47 100644
+--- a/pages/indexes/reading/index-reading.module.ts
++++ b/pages/indexes/reading/index-reading.module.ts
+@@ -54,7 +54,7 @@ export const indexReading = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Only what imports a file is refused for a tree missing beneath an index that stands.",
++        "Only the importers of a file are refused for a tree missing beneath an index that stands.",
+     },
+     {
+       invariantKind: "departure",
+@@ -76,7 +76,7 @@ export const indexReading = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What imports a file is refused when the index and HEAD differ in a path that makes an edge.",
++        "The importers of a file are refused when the index and HEAD differ in a path that makes an edge.",
+     },
+     {
+       invariantKind: "departure",
+@@ -114,7 +114,7 @@ export const indexReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What every page of one page type carries is one file read.",
++      statement: "The value every page of one page type carries is one file read.",
+     },
+     {
+       invariantKind: "departure",
