@@ -1,5 +1,5 @@
 diff --git a/code-system/routes/route.page-type.ts b/code-system/routes/route.page-type.ts
-index 22afe9b010f2fec13cd09c5c7e29a6d360c6d20a..a246895c30c1a3177b434e5ee0d46778555ac2ce 100644
+index 22afe9b010f2fec13cd09c5c7e29a6d360c6d20a..c4f6d21b5f0d734e83fe79846b58191368a02e3b 100644
 --- a/code-system/routes/route.page-type.ts
 +++ b/code-system/routes/route.page-type.ts
 @@ -26,7 +26,7 @@ export const route = {
@@ -8,6 +8,15 @@ index 22afe9b010f2fec13cd09c5c7e29a6d360c6d20a..a246895c30c1a3177b434e5ee0d46778
        invariantKind: "departure",
 -      statement: "A route is reached by a url rather than by importing it.",
 +      statement: "A route is reached by a url rather than by importing that route.",
+     },
+     {
+       invariantKind: "departure",
+@@ -34,7 +34,7 @@ export const route = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A route states the url path the router serves it under.",
++      statement: "A route states the url path the router serves that route under.",
      },
      {
        invariantKind: "departure",
