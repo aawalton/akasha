@@ -17,7 +17,7 @@ export const rulePopulationSweeping = {
     },
     {
       invariantKind: "departure",
-      statement: "What a rule weighed is counted rather than what that rule found.",
+      statement: "The population a rule weighed is counted rather than the faults that rule found.",
     },
     {
       invariantKind: "departure",
