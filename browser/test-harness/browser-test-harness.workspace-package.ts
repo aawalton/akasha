@@ -24,7 +24,7 @@ export const browserTestHarness = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what any test the harness carries is asserting.",
+      statement: "Nothing here knows the assertion any test the harness carries makes.",
     },
   ],
 } as const satisfies WorkspacePackage
