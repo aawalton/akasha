@@ -19,7 +19,7 @@ export const supervisorLimitResumeDecide = {
     {
       invariantKind: "departure",
       statement:
-        "An eligible account pool nudges only once it has read eligible for the whole eligibility hold.",
+        "An eligible account pool nudges only once the pool has read eligible for the whole eligibility hold.",
     },
     {
       invariantKind: "departure",
