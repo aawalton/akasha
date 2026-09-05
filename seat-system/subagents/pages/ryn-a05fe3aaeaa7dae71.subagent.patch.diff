@@ -1,0 +1,13 @@
+diff --git a/commands/write/write.command.ts b/commands/write/write.command.ts
+index 4be99a58f0250068d68407bdfb1c84094e39aa7f..3ca2c15c8d5715db6194bf3e6c498cd9a8a6e4f3 100644
+--- a/commands/write/write.command.ts
++++ b/commands/write/write.command.ts
+@@ -75,7 +75,7 @@ export const write = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The seat this call is charged to is warranted alongside them.",
++      statement: "The seat this call is charged to is warranted alongside the paths.",
+     },
+     {
+       invariantKind: "departure",
