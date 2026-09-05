@@ -13,7 +13,7 @@ export const transportRepos = {
     },
     {
       invariantKind: "departure",
-      statement: "A repository that mirrors nowhere states so rather than leaving it out.",
+      statement: "A repository that mirrors nowhere states so rather than leaving the mirror out.",
     },
     {
       invariantKind: "departure",
