@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/landing-saying/landing-saying.module.ts b/command-system/landing-saying/landing-saying.module.ts
-index 7ac75d3898bb5da34ed504b7fcede484a72bc981..aa2671815f9c395861b94afc869dcac170731861 100644
+index 7ac75d3898bb5da34ed504b7fcede484a72bc981..7ac83a0e1574e9325ac47461cf30708632dc5fae 100644
 --- a/command-system/landing-saying/landing-saying.module.ts
 +++ b/command-system/landing-saying/landing-saying.module.ts
 @@ -10,11 +10,12 @@ export const landingSaying = {
@@ -24,6 +24,15 @@ index 7ac75d3898bb5da34ed504b7fcede484a72bc981..aa2671815f9c395861b94afc869dcac1
        invariantKind: "departure",
 -      statement: "A report says what became of the commit.",
 +      statement: "A report says the commit's outcome.",
+     },
+     {
+       invariantKind: "departure",
+@@ -43,7 +44,7 @@ export const landingSaying = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a draft left is named in the report as what was drafted.",
++      statement: "The paths a draft left are named in the report as drafted.",
      },
      {
        invariantKind: "departure",
