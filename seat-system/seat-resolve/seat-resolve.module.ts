@@ -9,15 +9,11 @@ export const seatResolve = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A document already gone when it is read is skipped rather than raised.",
+      statement: "A domain is found by its address first and by its bare slug after.",
     },
     {
       invariantKind: "departure",
-      statement: "A read that fails for any reason but absence is raised.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A slug naming more than one file is refused rather than chosen between.",
+      statement: "A bare slug names whichever page claimed it first.",
     },
     {
       invariantKind: "departure",
