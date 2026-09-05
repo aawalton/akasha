@@ -121,7 +121,6 @@ export const seatSystem = {
     "module/seat-start",
     "module/seat-resume",
     "module/seat-reset",
-    "module/seat-fleet-restart",
     "module/keeper-unrevivable-push",
     "module/pending-from-files",
     "module/person-handlers",
