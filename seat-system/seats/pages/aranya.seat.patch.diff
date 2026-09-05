@@ -51,3 +51,18 @@ index 5e8b1c43c38a41daef41104028dad5cf161c4a30..2f7baa969c9b507a0283e76cc69d75e0
 +    ["workspace-package/deep", NEST, "akasha/two/two.workspace-package.ts"],
 +  ])
 +})
+diff --git a/command-system/commands/move/parenting/move-parenting.module.ts b/command-system/commands/move/parenting/move-parenting.module.ts
+index fa27a4dbe3dccc94cc3ba60f370711595d59ae3b..7335ff0b88ca8c20ca58551c101b6bc9bb29711c 100644
+--- a/command-system/commands/move/parenting/move-parenting.module.ts
++++ b/command-system/commands/move/parenting/move-parenting.module.ts
+@@ -16,6 +16,10 @@ export const moveParenting = {
+       invariantKind: "departure",
+       statement: "A folder is held by the one page whose own file sits in that folder.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A page a carried page holds is not the page holding that carried page.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A page type and the package named for its plural hold a folder together.",
