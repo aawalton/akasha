@@ -81,7 +81,7 @@ export async function revived(reached: Reaching, relPath: string): Promise<strin
   if (woke.code === 0) return null
   const detail = (woke.stderr.trim() !== "" ? woke.stderr : woke.stdout).trim()
   return (
-    `the message stands at ${relPath} and reviving ${reached.at.reviveId} to read it exited ` +
+    `the message is at ${relPath} and reviving ${reached.at.reviveId} to read it exited ` +
     `${woke.code}: ${detail.slice(0, DETAIL)}`
   )
 }

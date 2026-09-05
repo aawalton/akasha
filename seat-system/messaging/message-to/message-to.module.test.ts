@@ -24,16 +24,16 @@ describe("readStated", () => {
     expect(readStated("  ", " ")).toEqual({ kind: "none" })
   })
 
-  test("refuses a domain standing without a role", () => {
+  test("refuses a domain stated without a role", () => {
     const stated = readStated("akasha-migration", undefined)
     expect(stated.kind).toBe("refuse")
     expect(stated.kind === "refuse" && stated.reason).toContain("Add --role")
   })
 
-  test("refuses a role standing without a domain", () => {
+  test("refuses a role stated without a domain", () => {
     const stated = readStated(undefined, "worker")
     expect(stated.kind).toBe("refuse")
-    expect(stated.kind === "refuse" && stated.reason).toContain("stands alone")
+    expect(stated.kind === "refuse" && stated.reason).toContain("is alone")
   })
 
   test("trims what it is handed", () => {

@@ -25,11 +25,11 @@ export const messageReachWrite = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat is woken after the message stands rather than before.",
+      statement: "A seat is woken after the message is there rather than before.",
     },
     {
       invariantKind: "departure",
-      statement: "A waking that fails is said aloud and the message still stands.",
+      statement: "A waking that fails is said aloud and the message remains.",
     },
   ],
 } as const satisfies Module

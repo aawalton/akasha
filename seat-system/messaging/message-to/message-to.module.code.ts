@@ -34,7 +34,7 @@ export function readStated(domain: string | undefined, role: string | undefined)
     return {
       kind: "refuse",
       reason:
-        `--role '${wantedRole}' stands alone, and a role is stated with a domain. ` +
+        `--role '${wantedRole}' is alone, and a role is stated with a domain. ` +
         "The same role is held across every domain, so alone it names no one seat.",
     }
   }

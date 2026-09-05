@@ -17,7 +17,7 @@ export const messagePageAddress = {
     },
     {
       invariantKind: "departure",
-      statement: "A two-segment name is read as an address only where a person stands behind it.",
+      statement: "A two-segment name is read as an address only where a person is behind it.",
     },
     {
       invariantKind: "departure",
