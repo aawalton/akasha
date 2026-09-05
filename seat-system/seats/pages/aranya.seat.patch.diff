@@ -1,0 +1,36 @@
+diff --git a/command-system/commands/move/parenting/move-parenting.module.code.ts b/command-system/commands/move/parenting/move-parenting.module.code.ts
+index dd09316285bd29fe732c7aca822fb9e64b038e5d..5665f6d456e64b98bfeb198d972153d9b75398ec 100644
+--- a/command-system/commands/move/parenting/move-parenting.module.code.ts
++++ b/command-system/commands/move/parenting/move-parenting.module.code.ts
+@@ -102,10 +102,14 @@ function pluralOf(placing: Placing, one: Holder): string | null {
+   return typeof said === "string" && said !== "" ? said : null
+ }
+ 
+-export function holdingIn(placing: Placing, held: readonly Holder[]): readonly Holder[] {
+-  if (held.length < 2) return held
++export function holdingIn(
++  placing: Placing,
++  all: readonly Holder[],
++  held: readonly Holder[] = all
++): readonly Holder[] {
++  if (all.length < 2) return held
+   const kept = held.filter(
+-    (one) => !held.some((two) => two.at !== one.at && holdsPart(placing, two, [one.address]))
++    (one) => !all.some((two) => two.at !== one.at && holdsPart(placing, two, [one.address]))
+   )
+   return kept.length === 1 ? kept : []
+ }
+@@ -124,7 +128,12 @@ export function holdersFor(placing: Placing, folder: string, moved: string): Hel
+     if (at === ROOT || at === HERE || at === "/") {
+       return { unheld: crossed.join(", ") }
+     }
+-    const holding = holdingIn(placing, pagesIn(placing, at)).filter((one) => one.at !== moved)
++    const all = pagesIn(placing, at)
++    const holding = holdingIn(
++      placing,
++      all,
++      all.filter((one) => one.at !== moved)
++    )
+     const named = basename(at)
+     const grouping = HELD_FOLDERS.has(named) && !namesOf(placing, holding).includes(named)
+     if (!grouping && holding.length > 0) return { holders: holding }
