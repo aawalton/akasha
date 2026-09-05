@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/messages/properties/message-from.text-property.ts b/seat-system/messages/properties/message-from.text-property.ts
+index f9fb7a5b0137c38d2792966f52d730c5e4474009..cc5c330caf49a8810f60da08bc83ac735868eeae 100644
+--- a/seat-system/messages/properties/message-from.text-property.ts
++++ b/seat-system/messages/properties/message-from.text-property.ts
+@@ -17,7 +17,7 @@ export const messageFrom = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "This property is a relation to whoever sent the message.",
++      statement: "This property is a relation to the sender of the message.",
+     },
+   ],
+ } as const satisfies TextProperty
