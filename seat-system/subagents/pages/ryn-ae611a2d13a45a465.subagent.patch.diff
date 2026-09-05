@@ -1,0 +1,13 @@
+diff --git a/command-system/reading/reading.module.ts b/command-system/reading/reading.module.ts
+index 5a56133a334df5f71e638578a3032c853571bb1a..e9c12fb338db47b8071308ad4f077dc5e0486543 100644
+--- a/command-system/reading/reading.module.ts
++++ b/command-system/reading/reading.module.ts
+@@ -58,7 +58,7 @@ export const reading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A reading of a path replaces the one before it.",
++      statement: "A reading of a path replaces the one before that reading.",
+     },
+     {
+       invariantKind: "departure",
