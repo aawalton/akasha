@@ -1,0 +1,168 @@
+runsWarrants: false
+diff --git a/akasha.domain.ts b/akasha.domain.ts
+index 6d7d7155759cdbd107612f02f534cb8273417e48..9b39d3f543e4078cfb522a99178983265b9c1c67 100644
+--- a/akasha.domain.ts
++++ b/akasha.domain.ts
+@@ -19,7 +19,7 @@ export const akasha = {
+     "workspace-package/git",
+     "workspace-package/shell",
+     "workspace-package/pages",
+-    "workspace-package/domains",
++    "workspace-package/domain",
+     "workspace-package/graph",
+     "domain/type",
+     "domain/change",
+diff --git a/domains/domain.workspace-package.ts b/domains/domain.workspace-package.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..beb3f6b45bde74d939c9c2bc7472490673128a52
+--- /dev/null
++++ b/domains/domain.workspace-package.ts
+@@ -0,0 +1,45 @@
++import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++
++export const domain = {
++  id: "01a04a26-9105-7001-a1cc-60a031152982",
++  pageTypeSlug: "workspace-package",
++  slug: "domain",
++  definition: "how we define how things should be",
++  manifest: "json",
++  partSlugs: [
++    "page-type/domain",
++    "page-type/finding",
++    "page-type/initiative",
++    "page-type/invariant-group",
++    "page-type/list",
++    "page-type/invariant-kind",
++    "page-type/directive-kind",
++    "page-type/taboo-term",
++    "page-type/sentence-shape",
++    "workspace-package/plain-language",
++    "domain/domain-purpose",
++    "domain/domain-champions",
++    "domain/domain-parent",
++    "module/domain-reading",
++  ],
++  invariants: [
++    {
++      invariantKind: "gap",
++      statement: "Everything Alan wants done is a finding or an intent.",
++    },
++
++    {
++      invariantKind: "departure",
++      statement: "Context a choice does not need does not reach the agent making that choice.",
++    },
++    {
++      invariantKind: "gap",
++      statement:
++        "Agents have the context each choice needs at the time those agents make that choice.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seat's attributes represent the choices that seat will make.",
++    },
++  ],
++} as const satisfies WorkspacePackage
+diff --git a/domains/domains.workspace-package.ts b/domains/domains.workspace-package.ts
+deleted file mode 100644
+index 51f8c4e3d322a80695221bf3605d6d8116ec5c42..0000000000000000000000000000000000000000
+--- a/domains/domains.workspace-package.ts
++++ /dev/null
+@@ -1,45 +0,0 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+-
+-export const domains = {
+-  id: "01a04a26-9105-7001-a1cc-60a031152982",
+-  pageTypeSlug: "workspace-package",
+-  slug: "domains",
+-  definition: "how we define how things should be",
+-  manifest: "json",
+-  partSlugs: [
+-    "page-type/domain",
+-    "page-type/finding",
+-    "page-type/initiative",
+-    "page-type/invariant-group",
+-    "page-type/list",
+-    "page-type/invariant-kind",
+-    "page-type/directive-kind",
+-    "page-type/taboo-term",
+-    "page-type/sentence-shape",
+-    "workspace-package/plain-language",
+-    "domain/domain-purpose",
+-    "domain/domain-champions",
+-    "domain/domain-parent",
+-    "module/domain-reading",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "gap",
+-      statement: "Everything Alan wants done is a finding or an intent.",
+-    },
+-
+-    {
+-      invariantKind: "departure",
+-      statement: "Context a choice does not need does not reach the agent making that choice.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement:
+-        "Agents have the context each choice needs at the time those agents make that choice.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A seat's attributes represent the choices that seat will make.",
+-    },
+-  ],
+-} as const satisfies WorkspacePackage
+diff --git a/domains/findings/pages/the-taboo-gate-reads-a-games-own-names-as-this-systems-prose.finding.ts b/domains/findings/pages/the-taboo-gate-reads-a-games-own-names-as-this-systems-prose.finding.ts
+index 358cadde4ddc091e63802841335bd1142867cb73..04e42285313c7f65da9e1779cc16331cb4429892 100644
+--- a/domains/findings/pages/the-taboo-gate-reads-a-games-own-names-as-this-systems-prose.finding.ts
++++ b/domains/findings/pages/the-taboo-gate-reads-a-games-own-names-as-this-systems-prose.finding.ts
+@@ -4,7 +4,7 @@ export const theTabooGateReadsAGamesOwnNamesAsThisSystemsProse = {
+   id: "01a06271-8a44-7002-a1f6-83d9e0b4c527",
+   pageTypeSlug: "finding",
+   slug: "the-taboo-gate-reads-a-games-own-names-as-this-systems-prose",
+-  domainSlug: "workspace-package/domains",
++  domainSlug: "workspace-package/domain",
+   claim:
+     "A taboo term reaches into an entry row's data, where a word is another system's name rather than this system's prose. Landing 4,027 recipe names tripped five terms — door, dormant, floor, slice and stand — on furnishing names such as `Apocrypha Door, Stone`. No such name can be reworded, because the game chose the name. Clearing the gate means reading five pages and judging each sense, which costs the same whether a change adds one row or a hundred thousand.",
+   evidence:
+diff --git a/domains/initiatives/pages/olwen-domain-cleanup.initiative.ts b/domains/initiatives/pages/olwen-domain-cleanup.initiative.ts
+index 95b7dc5e1650decfaf15bf151866efeb030db303..8c0493019fdc82f446060051670a3119c160d6b9 100644
+--- a/domains/initiatives/pages/olwen-domain-cleanup.initiative.ts
++++ b/domains/initiatives/pages/olwen-domain-cleanup.initiative.ts
+@@ -4,7 +4,7 @@ export const olwenDomainCleanup = {
+   id: "01a06d80-f837-7845-8ef8-bfccd653aab4",
+   pageTypeSlug: "initiative",
+   slug: "olwen-domain-cleanup",
+-  domainSlug: "workspace-package/domains",
++  domainSlug: "workspace-package/domain",
+   personaSlug: "olwen",
+   constraints: [
+     "The folder is named `domains/`, the plural, as `pages/` is named for `page`. Alan settled this against `domain/`.",
+diff --git a/domains/initiatives/pages/ryn-trained-parser.initiative.ts b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
+index 14bbdf34ed86885601dbbc6fc2f601a915e0ef3a..5ed54840c08d8c89bf7372576ba57b1eecf0a07c 100644
+--- a/domains/initiatives/pages/ryn-trained-parser.initiative.ts
++++ b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
+@@ -4,7 +4,7 @@ export const rynTrainedParser = {
+   id: "01a06d30-4bca-74a1-b610-dcc27a519d56",
+   pageTypeSlug: "initiative",
+   slug: "ryn-trained-parser",
+-  domainSlug: "workspace-package/domains",
++  domainSlug: "workspace-package/domain",
+   personaSlug: "ryn",
+   intents: [
+     {
+diff --git a/persona-system/personas/ryn/ryn.persona.ts b/persona-system/personas/ryn/ryn.persona.ts
+index 84b6783d3fed92bbdc4c103477748a40bb607cf9..eed1c4c83c2db4b3e86a5d16cf5359e8839c3e24 100644
+--- a/persona-system/personas/ryn/ryn.persona.ts
++++ b/persona-system/personas/ryn/ryn.persona.ts
+@@ -10,7 +10,7 @@ export const ryn = {
+     "Keep the system's abstractions clearly defined and consistently named — one concept, one name, one definition, on every shelf it appears (data, code, UI, docs) — hunting down conflated names and split definitions and coordinating the projects that make each abstraction ubiquitous again, so every reader meets the same idea by the same name wherever they find it. Keeping the docs under their length cap is my standing secondary duty now, run through my length-cop helper.",
+   portrait: "md",
+   appearance: "md",
+-  championedDomainSlug: "domains",
++  championedDomainSlug: "domain",
+   roleSlug: "definer",
+   valueSlug: "wealth",
+   origin: "canon",
