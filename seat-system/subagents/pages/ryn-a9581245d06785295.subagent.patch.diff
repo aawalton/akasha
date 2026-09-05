@@ -1,5 +1,5 @@
 diff --git a/commands/read/read.command.ts b/commands/read/read.command.ts
-index cb4000454fd7c993da8893fbba3282b9e6f19356..9ad4092c1c61e6c2f382535b378527bbfef3670a 100644
+index cb4000454fd7c993da8893fbba3282b9e6f19356..f7ef9f661d1bf506025f67dca8263463d6924849 100644
 --- a/commands/read/read.command.ts
 +++ b/commands/read/read.command.ts
 @@ -44,7 +44,7 @@ export const read = {
@@ -20,3 +20,12 @@ index cb4000454fd7c993da8893fbba3282b9e6f19356..9ad4092c1c61e6c2f382535b378527bb
      },
      {
        invariantKind: "absence",
+@@ -132,7 +132,7 @@ export const read = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A read records the body that reached the agent it was for.",
++      statement: "A read records the body that reached the agent that read was for.",
+     },
+     {
+       invariantKind: "departure",
