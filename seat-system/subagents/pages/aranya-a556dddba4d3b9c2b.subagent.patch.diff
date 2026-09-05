@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts
-index f36ec6087b63a8cdb35a6c42aa1d0e7d6124048c..6ac086e8c55b316e198529f41b5682f116cd7cb0 100644
+index 49f5daf94458c804b1af92b6031179762bf318ee..3ea81f72c36bae6ba308b63806225ed03db1d889 100644
 --- a/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts
 +++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts
 @@ -1,18 +1,15 @@
@@ -21,7 +21,7 @@ index f36ec6087b63a8cdb35a6c42aa1d0e7d6124048c..6ac086e8c55b316e198529f41b5682f1
  } from "@akasha/indexes/testing"
  import type { Change } from "@akasha/pages-system/change"
  import { put, there } from "@akasha/testing-system/putting"
-@@ -103,16 +100,6 @@ function graphed(root: string): undefined {
+@@ -130,16 +127,6 @@ function graphed(root: string): undefined {
    pathFiled(root, INDEX_PAGE_AT, [{ path: INDEX_PAGE_AT, id: indexImport.id }])
  }
  
@@ -38,7 +38,7 @@ index f36ec6087b63a8cdb35a6c42aa1d0e7d6124048c..6ac086e8c55b316e198529f41b5682f1
  export function staged(files: Readonly<Record<string, string>>): string {
    const root = scratch.rootFor("akasha-typecheck-")
    mkdirSync(join(root, "akasha"))
-@@ -122,7 +109,6 @@ export function staged(files: Readonly<Record<string, string>>): string {
+@@ -149,7 +136,6 @@ export function staged(files: Readonly<Record<string, string>>): string {
    }
    reaching(root, files)
    graphed(root)
@@ -47,7 +47,7 @@ index f36ec6087b63a8cdb35a6c42aa1d0e7d6124048c..6ac086e8c55b316e198529f41b5682f1
  }
  
 diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
-index 7632d65c7b309284cdfd039e35e23ba9fcd4a5f8..e7a5c0e705ee06fd3e786a8cf8c0098736495493 100644
+index 7382cd695d37f6fc678b2eabb5901a88a61f7f6f..156861e56d5c1ed5ac9f8ecc3170104fcdb2bc86 100644
 --- a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 +++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 @@ -1,7 +1,6 @@
@@ -57,22 +57,38 @@ index 7632d65c7b309284cdfd039e35e23ba9fcd4a5f8..e7a5c0e705ee06fd3e786a8cf8c00987
 -import { stampTakenFrom } from "@akasha/indexes/testing"
  import type { Change } from "@akasha/pages-system/change"
  import { shadowAsked, shadowFor } from "@akasha/pages-system/shadow"
- import ts from "typescript"
-@@ -20,8 +19,6 @@ import {
+ import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+@@ -38,7 +37,21 @@ import {
  
  afterAll(scratch.sweep)
  
--const NAMING_NO_COMMIT = "names no commit"
--
- const THING_AT = "akasha/one.thing.ts"
- 
- const READS_ITS_TYPE = 'import type { Thing } from "./thing.page-type.ts"\n\n'
-@@ -280,17 +277,12 @@ test("a file outside the akasha folder never becomes a root, however the index n
++<<<<<<< what this change would leave
++const THING_AT = "akasha/one.thing.ts"
++
++const READS_ITS_TYPE = 'import type { Thing } from "./thing.page-type.ts"\n\n'
++
++const WHOLE = `${READS_ITS_TYPE}export const one = { held: "h", slug: "one" } as const satisfies Thing\n`
++
++const WITHOUT = `${READS_ITS_TYPE}export const one = { slug: "one" } as const satisfies Thing\n`
++
++const WRONG = `${READS_ITS_TYPE}export const one = { slug: 1 } as const satisfies Thing\n`
++
++function judged(change: Change): readonly Judged[] {
++=======
+ async function judged(change: Change): Promise<readonly Judged[]> {
++>>>>>>> what HEAD holds
+   const cast = shadowFor(change)
+   if ("refused" in cast) throw new Error(cast.refused)
+   return await typecheck(change, cast.shadow)
+@@ -293,17 +306,16 @@ test("a file outside the akasha folder never becomes a root, however the index n
    ])
  })
  
--test("an index naming no commit still answers a change, its importers being the ones it leaves", () => {
++<<<<<<< what this change would leave
 +test("a shadow asked for a change reaches the importers the change itself reaches", () => {
++=======
+ test("an index naming no commit still answers a change, its importers being the ones it leaves", async () => {
++>>>>>>> what HEAD holds
    const root = staged({
      "akasha/one.ts": "export const one = 1\n",
      "akasha/two.ts": 'import { one } from "./one.ts"\nexport const two: string = one\n',
@@ -86,7 +102,7 @@ index 7632d65c7b309284cdfd039e35e23ba9fcd4a5f8..e7a5c0e705ee06fd3e786a8cf8c00987
 +  const held = change(root, { "akasha/one.ts": "export const one = 2\n" })
    expect(reached(held)).toEqual(["akasha/one.ts", "akasha/two.ts"])
    expect(reachedBy(held, shadowAsked(held).index)).toEqual(["akasha/one.ts", "akasha/two.ts"])
-   expect(judged(held).map((one) => one.path)).toEqual(["akasha/two.ts"])
+   expect((await judged(held)).map((one) => one.path)).toEqual(["akasha/two.ts"])
 diff --git a/checks/modules/change-walking/change-walking.module.test.ts b/checks/modules/change-walking/change-walking.module.test.ts
 index d906ff417d9a79b1bdcc3155ca3fcef38e89cd22..a15c2b35c1de557fefbae742b7fe7b2d37d9a2f0 100644
 --- a/checks/modules/change-walking/change-walking.module.test.ts
@@ -367,6 +383,45 @@ index 51987aa8c2dd12102189ae0df3cb3281664de40d..a8ca9593aee9a0925c937a29e9dc353d
      } catch (cause) {
        const why = cause instanceof Error ? cause.message : String(cause)
        return { unread: `${why}, so none were repointed` }
+diff --git a/graph/asking/graph-asking.module.test-fixtures.ts b/graph/asking/graph-asking.module.test-fixtures.ts
+index 902e4b38693f0a30604af8adaa69e5ad732eb19c..a91dd461321047cfb4e08e5e6d800f76c3e29154 100644
+--- a/graph/asking/graph-asking.module.test-fixtures.ts
++++ b/graph/asking/graph-asking.module.test-fixtures.ts
+@@ -1,6 +1,5 @@
+ import { scratchWorld } from "@akasha/command-system/scratching"
+-import { said as gitIn } from "@akasha/git/git-running"
+-import { linesFiled, stampedIn } from "@akasha/indexes/testing"
++import { linesFiled } from "@akasha/indexes/testing"
+ import { put } from "@akasha/testing-system/putting"
+ 
+ const GRAPH_EDGE = "graph-edge"
+@@ -19,8 +18,6 @@ const LOADED = "loaded"
+ 
+ const INVENTED = "an index a test invented so that no name could be assumed"
+ 
+-const TREE = "akasha"
+-
+ const PREFIX = "graph-asking-"
+ 
+ export const EDGE_ID = "01a04ff4-0000-7000-8000-00000000000e"
+@@ -165,17 +162,6 @@ export function relationWorld(lines: number, pagesExist = true): string {
+ 
+ function worldFor(indexName: string): string {
+   const root = scratch.rootFor(PREFIX)
+-  gitIn(root, ["init", "--quiet"])
+-  gitIn(root, ["config", "user.email", HELD])
+-  gitIn(root, ["config", "user.name", HELD])
+-  put(root, HELD, `${HELD}\n`)
+-  gitIn(root, ["add", "--", HELD])
+-  gitIn(root, ["commit", "--quiet", "-m", HELD, "--", HELD])
+-  stampedIn(root, {
+-    commit: gitIn(root, ["rev-parse", "HEAD"]).trim(),
+-    tree: TREE,
+-    settled: [],
+-  })
+   edged(root, IMPORT_EDGE, { attributeSlugs: [`${GRAPH_ATTRIBUTE}/${KNOWN}`] }, true)
+   indexed(root, indexName, true)
+   filed(root, `path/${EDGE_AT}.jsonl`, { path: EDGE_AT, id: EDGE_ID })
 diff --git a/graph/asking/graph-asking.module.test.ts b/graph/asking/graph-asking.module.test.ts
 index 1255ca9cb59b33b89ca99e62d041658ef1e2b121..aa4cae5d7189e7b032e0d0501f848eb567a20d56 100644
 --- a/graph/asking/graph-asking.module.test.ts
