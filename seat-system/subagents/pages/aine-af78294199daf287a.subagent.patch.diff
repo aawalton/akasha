@@ -1,5 +1,5 @@
 diff --git a/commands/calendar/calendar.command.ts b/commands/calendar/calendar.command.ts
-index cab7bacb650cc7eaf2ef955eb7fcfa1ed5df9679..b9ad9f4ade5e97cef776c6f1f9e5a3e4327f774a 100644
+index cab7bacb650cc7eaf2ef955eb7fcfa1ed5df9679..63f20feff994fe293337918c270deef400223abd 100644
 --- a/commands/calendar/calendar.command.ts
 +++ b/commands/calendar/calendar.command.ts
 @@ -4,7 +4,7 @@ export const calendar = {
@@ -64,6 +64,15 @@ index cab7bacb650cc7eaf2ef955eb7fcfa1ed5df9679..b9ad9f4ade5e97cef776c6f1f9e5a3e4
      },
      {
        invariantKind: "departure",
+@@ -140,7 +140,7 @@ export const calendar = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A flag standing under an act that does not take it is refused.",
++      statement: "A flag under an act that does not take it is refused.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/commands/drive/drive.command.code.ts b/commands/drive/drive.command.code.ts
 index b1b797bdcf9516fd7ff3d6033685bbd6896227aa..7333bbb4378d653d3cfec957b2f9681e7265293c 100644
 --- a/commands/drive/drive.command.code.ts
