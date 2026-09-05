@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/access/file-shape/file-shape.module.ts b/pages/access/file-shape/file-shape.module.ts
+index 7e47e2e0293c43eecaae28198dfe41c3c933d174..54da2e18c9905d8604f04c393ea50ecf604d5bff 100644
+--- a/pages/access/file-shape/file-shape.module.ts
++++ b/pages/access/file-shape/file-shape.module.ts
+@@ -30,7 +30,7 @@ export const fileShape = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "What a page type declares goes unread here.",
++      statement: "A page type's declarations go unread here.",
+     },
+   ],
+ } as const satisfies Module
