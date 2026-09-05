@@ -9,7 +9,7 @@ export const memoryReaperKill = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A process is asked to end before it is made to.",
+      statement: "A process is asked to end before that process is made to.",
     },
     {
       invariantKind: "departure",
