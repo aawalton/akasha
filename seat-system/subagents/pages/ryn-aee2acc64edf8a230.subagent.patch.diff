@@ -60,3 +60,19 @@ index c29680bfccb76db820e998134d415fdc050820ec..7d609d828cfc87a841702c8e464b5f17
 -    },
    ],
  } as const satisfies Module
+diff --git a/verdict/verdict-text/verdict-text.module.ts b/verdict/verdict-text/verdict-text.module.ts
+index eae25870b0b732647f8b0ca14be688289d4efa06..c4c304aea584db9f60de87f8f992095467b8c981 100644
+--- a/verdict/verdict-text/verdict-text.module.ts
++++ b/verdict/verdict-text/verdict-text.module.ts
+@@ -15,10 +15,7 @@ export const verdictText = {
+       invariantKind: "departure",
+       statement: "A reach with nothing unexaminable reads as a bare count.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A finding naming no place reads as unattributed.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A judgement of a kind this build cannot read is written out as unreadable.",
