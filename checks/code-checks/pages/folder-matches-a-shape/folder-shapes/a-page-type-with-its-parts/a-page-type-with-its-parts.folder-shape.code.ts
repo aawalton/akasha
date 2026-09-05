@@ -12,9 +12,9 @@ const HELD = new Set<string>(["modules", "pages", "properties", "scripts"])
 function packageIn(standing: Standing): Held | null {
   if (standing.pages.length !== 2) return null
   const above = standing.declaring(standing.folder)
-  if (above === null || above.pluralSlug === null) return null
+  if (above === null) return null
   const found = standing.pages.filter(
-    (one) => one.pageTypeSlug === PACKAGE && one.slug === above.pluralSlug
+    (one) => one.pageTypeSlug === PACKAGE && one.slug === above.slug
   )
   return found.length === 1 ? (found[0] ?? null) : null
 }

@@ -90,8 +90,8 @@ test("a subfolder named properties is a part", () => {
   expect(judged(["properties/held.text-property.ts"], ["model.page-type.ts"])).toEqual([])
 })
 
-test("a workspace package slugged the page type's plural slug may sit beside it", () => {
-  expect(judgedBy([], ["model.page-type.ts", "models.workspace-package.ts"], DECLARING)).toEqual([])
+test("a workspace package slugged the page type's slug may sit beside it", () => {
+  expect(judgedBy([], ["model.page-type.ts", "model.workspace-package.ts"], DECLARING)).toEqual([])
 })
 
 test("a workspace package slugged anything else is a second page and is refused", () => {
@@ -112,12 +112,8 @@ test("a subfolder named scripts is a part", () => {
   )
 })
 
-test("a page type stating no plural slug takes no workspace package beside it", () => {
-  const said = judgedBy([], ["model.page-type.ts", "models.workspace-package.ts"], {
-    slug: "model",
-    pluralSlug: null,
-    propertySlugs: new Set<string>(),
-  })
+test("a workspace package slugged the page type's plural slug is a second page and is refused", () => {
+  const said = judgedBy([], ["model.page-type.ts", "models.workspace-package.ts"], DECLARING)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("2 pages rather than one")
 })
