@@ -19,7 +19,8 @@ export const tower = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What is stored of a combatant is wider than what the combat engine takes.",
+      statement:
+        "The sheet a combatant is stored as is wider than the combatant the combat engine takes.",
     },
     {
       invariantKind: "departure",
