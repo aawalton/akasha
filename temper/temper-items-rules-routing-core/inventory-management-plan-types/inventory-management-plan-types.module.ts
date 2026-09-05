@@ -13,7 +13,8 @@ export const inventoryManagementPlanTypes = {
     },
     {
       invariantKind: "departure",
-      statement: "A character session gathers what one character does before the next takes over.",
+      statement:
+        "A character session gathers the venue stops one character makes before the next takes over.",
     },
   ],
 } as const satisfies Module
