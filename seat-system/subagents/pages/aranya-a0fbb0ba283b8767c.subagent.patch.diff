@@ -1,0 +1,14 @@
+diff --git a/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts b/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts
+index eb53a12f52957771c900d909aa4c5b8359524ee7..996be5d2a702ad950c5f007504fd3b9ea44f5de0 100644
+--- a/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts
++++ b/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts
+@@ -14,8 +14,7 @@ export const LOG = "[local]"
+ function getAgentCacheDir(): string {
+   const cacheDir = shape.string().optional().parse(process.env.AGENT_CACHE_DIR)
+   if (cacheDir != null) return cacheDir
+-  const home = shape.string().default("/tmp").parse(process.env.HOME)
+-  return home === "/tmp" ? "/data/agent-cache" : home
++  return shape.string().parse(process.env.HOME)
+ }
+ 
+ function getAgentCachePaths(baseDir: string) {
