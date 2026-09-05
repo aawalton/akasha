@@ -1,0 +1,12 @@
+diff --git a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
+index 010b31502e93a1b281b3561e59e7184289842a1a..379d87ebbde9e3ee1045319406a326d1bc89160f 100644
+--- a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
++++ b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
+@@ -30,6 +30,7 @@ const INDEFINITE = [
+   "something",
+ ]
+ const FREE_CHOICE = ["whatever", "whichever"]
++const FREE_RELATIVE = ["what", "whoever", "whomever"]
+ const REFLEXIVE = [
+   "herself",
+   "himself",
