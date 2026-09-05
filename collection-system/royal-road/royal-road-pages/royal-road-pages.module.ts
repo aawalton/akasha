@@ -26,7 +26,8 @@ export const royalRoadPages = {
     },
     {
       invariantKind: "departure",
-      statement: "A chapter that yields a paragraph is read byte for byte as it was before.",
+      statement:
+        "A chapter that yields a paragraph is read byte for byte as that chapter was before.",
     },
     {
       invariantKind: "departure",
