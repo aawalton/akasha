@@ -14,7 +14,7 @@ export const seatStatedIdentity = {
     {
       invariantKind: "departure",
       statement:
-        "A stated identity that cannot be checked refuses the start rather than booting a seat holding none of it.",
+        "A stated identity that cannot be checked refuses the start rather than a seat without that identity.",
     },
     {
       invariantKind: "departure",

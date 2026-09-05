@@ -28,7 +28,7 @@ export const pageLandingJournal = {
     {
       invariantKind: "departure",
       statement:
-        "Where the journals are is said by `PAGE_LANDING_JOURNAL_DIR` and falls back to the user's state directory.",
+        "The journals sit where `PAGE_LANDING_JOURNAL_DIR` says and fall back to the user's state directory.",
     },
     {
       invariantKind: "departure",

@@ -57,7 +57,7 @@ export const changeWalking = {
     {
       invariantKind: "departure",
       statement:
-        "A file git leaves out of the tree is walked only where its name holds the reserved section `uncommitted`.",
+        "A file outside git's tree is walked only where its name holds the reserved section `uncommitted`.",
     },
     {
       invariantKind: "departure",

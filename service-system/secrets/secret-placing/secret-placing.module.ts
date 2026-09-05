@@ -15,7 +15,7 @@ export const secretPlacing = {
     {
       invariantKind: "departure",
       statement:
-        "Two secret pages placing a value in one resource under one key is refused before anything is applied.",
+        "Two secret pages placing a value in one resource at one key is refused before anything is applied.",
     },
     {
       invariantKind: "departure",

@@ -10,7 +10,7 @@ export const transactionPolling = {
     {
       invariantKind: "departure",
       statement:
-        "The update stamp of every transaction in the trusted window is asked of Monarch and compared against the watermark our copy holds.",
+        "Every row's stamp in the trusted window is asked of Monarch and compared with our copy's watermark.",
     },
     {
       invariantKind: "departure",

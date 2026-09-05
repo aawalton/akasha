@@ -90,7 +90,7 @@ export const monarchEval = {
     {
       invariantKind: "absence",
       statement:
-        "Monarch's own review flag is withheld, being bookkeeping about this history rather than evidence about a purchase.",
+        "Monarch's review flag is withheld as bookkeeping on this history rather than evidence of a purchase.",
     },
     {
       invariantKind: "absence",

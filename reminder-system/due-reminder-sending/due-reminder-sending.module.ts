@@ -41,7 +41,7 @@ export const dueReminderSending = {
     {
       invariantKind: "departure",
       statement:
-        "A reminder whose schedule systemd will not read is reported and passed over rather than stopping the run.",
+        "A reminder whose schedule systemd refuses is reported and passed over rather than stopping the run.",
     },
     {
       invariantKind: "departure",

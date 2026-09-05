@@ -61,7 +61,7 @@ export const food = {
     {
       invariantKind: "departure",
       statement:
-        "An entry is filed under the day and the food's name, numbered where that name is already taken on that day.",
+        "An entry is filed under the day and the food's name, numbered where that name is taken on that day.",
     },
     {
       invariantKind: "departure",
