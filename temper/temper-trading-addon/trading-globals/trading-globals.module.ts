@@ -9,7 +9,7 @@ export const tradingGlobals = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Only what an outside caller needs is reachable.",
+      statement: "Only the names an outside caller needs are reachable.",
     },
   ],
 } as const satisfies Module
