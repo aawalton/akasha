@@ -30,7 +30,7 @@ index 218744a43920c2ce3fa3c11aa3ce74ce983b30a8..cdb23094060c508dbe5cb1c76aabcde1
      {
        invariantKind: "departure",
 diff --git a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts
-index 5947f0b6832c624149925529d3b90ba58d0df37d..72594dadd5ea6ec7a64e7d37094f3c80ac970b17 100644
+index 5947f0b6832c624149925529d3b90ba58d0df37d..59f1998fe4cc1cf805bcf21c565d6059afa4e7a0 100644
 --- a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts
 +++ b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts
 @@ -99,20 +99,20 @@ async function main(argv: readonly string[]): Promise<number> {
@@ -58,6 +58,15 @@ index 5947f0b6832c624149925529d3b90ba58d0df37d..72594dadd5ea6ec7a64e7d37094f3c80
      return 0
    }
  
+@@ -133,7 +133,7 @@ async function main(argv: readonly string[]): Promise<number> {
+   }
+   for (const one of taken) removeLines(root, one.relPath)
+   // A page under akasha is held to what its writer read, so a page taken away leaves a reading
+-  // standing over a path at nothing. The reading goes with the page.
++  // kept over a path at nothing. The reading goes with the page.
+   if (taken.length > 0)
+     dropReadings(
+       root,
 diff --git a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
 index 60a8bb4422362620ac5ef04fa078d61f60c08663..4715f1fb1bf818189ecfbac38040986042ef1b1e 100644
 --- a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
