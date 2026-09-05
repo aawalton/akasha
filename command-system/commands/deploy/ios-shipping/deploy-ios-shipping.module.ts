@@ -62,7 +62,7 @@ export const deployIosShipping = {
     },
     {
       invariantKind: "departure",
-      statement: "What the build said is carried back in the report rather than printed.",
+      statement: "The lines the build said are carried back in the report rather than printed.",
     },
     {
       invariantKind: "departure",
