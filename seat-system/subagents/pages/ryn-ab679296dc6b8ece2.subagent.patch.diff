@@ -1,8 +1,8 @@
 diff --git a/pages/unique-kinds/pages/part-of.unique-kind.ts b/pages/unique-kinds/pages/part-of.unique-kind.ts
-index 2a0588ec112598d0876d3bf191c3b0c24bc41060..3937462aed082bafcde6a0bf08b84038db920449 100644
+index 2a0588ec112598d0876d3bf191c3b0c24bc41060..5eb5e7110fcb6936f4b49393ce4660664bb2b664 100644
 --- a/pages/unique-kinds/pages/part-of.unique-kind.ts
 +++ b/pages/unique-kinds/pages/part-of.unique-kind.ts
-@@ -8,11 +8,11 @@ export const partOf = {
+@@ -8,15 +8,15 @@ export const partOf = {
    invariants: [
      {
        invariantKind: "departure",
@@ -13,6 +13,11 @@ index 2a0588ec112598d0876d3bf191c3b0c24bc41060..3937462aed082bafcde6a0bf08b84038
        invariantKind: "departure",
 -      statement: "A collection is part of what it names under `part-of-slugs`.",
 +      statement: "A collection is part of what that collection names under `part-of-slugs`.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page part of more than one page is filed under each of them.",
++      statement: "A page part of more than one page is filed under each of those pages.",
      },
      {
        invariantKind: "departure",
