@@ -1,3 +1,16 @@
+diff --git a/commands/drive/drive.command.code.ts b/commands/drive/drive.command.code.ts
+index b1b797bdcf9516fd7ff3d6033685bbd6896227aa..7333bbb4378d653d3cfec957b2f9681e7265293c 100644
+--- a/commands/drive/drive.command.code.ts
++++ b/commands/drive/drive.command.code.ts
+@@ -204,7 +204,7 @@ async function fetching(
+     if (files.isNativeGoogleDoc(metadata.mimeType)) {
+       return refusing(
+         `"${metadata.name}" is a native Google ${metadata.mimeType ?? "app"} file holding no ` +
+-          "bytes to download, and exporting one stands outside what this reaches",
++          "bytes to download, and exporting one sits outside what this reaches",
+         1
+       )
+     }
 diff --git a/commands/drive/drive.command.test.ts b/commands/drive/drive.command.test.ts
 index 5fce5473380e920bdab297acc45a40e82cae5497..144660a41a3e381308f82333a65fae81857762f0 100644
 --- a/commands/drive/drive.command.test.ts
