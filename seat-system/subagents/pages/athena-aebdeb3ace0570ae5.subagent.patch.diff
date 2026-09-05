@@ -1,0 +1,48 @@
+diff --git a/seat-system/seat-args/seat-args.module.code.ts b/seat-system/seat-args/seat-args.module.code.ts
+index bb4e0a7d097f7cc09670eeb72e664c48e6e27786..1e79f4c948eb1381ac20a738f7d8730c3c0705f9 100644
+--- a/seat-system/seat-args/seat-args.module.code.ts
++++ b/seat-system/seat-args/seat-args.module.code.ts
+@@ -29,6 +29,20 @@ export interface Args {
+   readonly registration: string | null
+ }
+ 
++// A MODE AND A PRINCIPAL ARE JUDGED WHERE THEY ARE READ AND ALSO WHERE THEY ARE STATED. A caller
++// reaching the seat as a function hands these over as values rather than as words on a command
++// line, so the sentence that refuses a wrong one is written here once and read by both.
++export function modeRefusal(named: string): string | null {
++  if (MODES.includes(named as Mode)) return null
++  return `\`${named}\` is no mode — one of: ${MODES.join(", ")}`
++}
++
++export function principalRefusal(named: string): string | null {
++  const allowed = principals(rootFor(resolveRoots(), AKASHA))
++  if (allowed.includes(named)) return null
++  return `\`${named}\` is no principal — one of: ${allowed.join(", ")}`
++}
++
+ export function parseArgs(argv: readonly string[]): Args {
+   const set: Partial<Record<Declaration, string>> = {}
+   const tokens: string[] = []
+@@ -65,9 +79,8 @@ export function parseArgs(argv: readonly string[]): Args {
+     else if (arg === "--take-live-name") takeLiveName = true
+     else if (arg === "--principal") {
+       const named = value()
+-      const allowed = principals(rootFor(resolveRoots(), AKASHA))
+-      if (!allowed.includes(named))
+-        fail(`\`${named}\` is no principal — one of: ${allowed.join(", ")}`)
++      const wrong = principalRefusal(named)
++      if (wrong !== null) fail(wrong)
+       principal = named
+     } else if (arg === "--clear") {
+       const named = value()
+@@ -84,8 +97,8 @@ export function parseArgs(argv: readonly string[]): Args {
+     else if (arg === "--registration-account") registration = value()
+     else if (arg === "--mode") {
+       const named = value()
+-      if (!MODES.includes(named as Mode))
+-        fail(`\`${named}\` is no mode — one of: ${MODES.join(", ")}`)
++      const wrong = modeRefusal(named)
++      if (wrong !== null) fail(wrong)
+       mode = named as Mode
+     } else {
+       const stated = [...ATTRIBUTES, ...ASSIGNMENTS].find((one) => arg === `--${one}`)
