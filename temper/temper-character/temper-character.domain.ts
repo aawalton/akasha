@@ -22,4 +22,10 @@ export const temperCharacter = {
     "page-type/temper-skill-point",
     "page-type/temper-weapon-bar",
   ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A name is author-given, so several builds answer to the same name.",
+    },
+  ],
 } as const satisfies Domain

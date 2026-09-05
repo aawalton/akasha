@@ -118,6 +118,10 @@ export const editorExtension = {
       statement: "A panel row that represents a page names that page.",
     },
     {
+      invariantKind: "absence",
+      statement: "No timer starts a drawing.",
+    },
+    {
       invariantKind: "departure",
       statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
     },

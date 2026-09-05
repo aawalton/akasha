@@ -57,6 +57,10 @@ export const inbox = {
       invariantKind: "departure",
       statement: "The folder an email rule is in says whose rule that rule is.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A count stated as text is read as the number that count spells.",
+    },
   ],
   directives: [
     {

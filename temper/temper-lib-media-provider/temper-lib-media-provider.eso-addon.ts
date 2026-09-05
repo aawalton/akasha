@@ -67,6 +67,10 @@ export const temperLibMediaProvider = {
     },
     {
       invariantKind: "departure",
+      statement: "The font path is declared as a string the other documents read.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Another addon reaches this library only through the global name.",
     },
     {
