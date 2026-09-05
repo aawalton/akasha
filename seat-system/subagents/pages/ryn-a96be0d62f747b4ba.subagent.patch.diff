@@ -104,6 +104,26 @@ index 5b1a9ec40fc32219ff404e4d1e644d17402200fc..9d7c05acdd1b187ea2996170a54b24c2
      },
      {
        invariantKind: "departure",
+diff --git a/reminder-system/due-reminder-sending/due-reminder-sending.module.ts b/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
+index b709195f241d6427982442c35f3aa311a6922c0e..9dde807d51da4e0b71c8de185e50225938dc5605 100644
+--- a/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
++++ b/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
+@@ -11,10 +11,14 @@ export const dueReminderSending = {
+       invariantKind: "departure",
+       statement: "A reminder that has come due becomes a message file, and nothing else.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "Whom the words reach is left to the recipient resolver.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
+-        "Whom the words reach is left to the recipient resolver, which treats this message as it treats any other.",
++        "The recipient resolver treats this message as that resolver treats any other message.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/workspace-paths/stale-folders/stale-folders.module.ts b/workspace-paths/stale-folders/stale-folders.module.ts
 index 506a1ba4c4bdc9b2f97bb8e429204d1a2f7be325..5b0db6e4228b4d2917e85f5264cf0a912e824b09 100644
 --- a/workspace-paths/stale-folders/stale-folders.module.ts
