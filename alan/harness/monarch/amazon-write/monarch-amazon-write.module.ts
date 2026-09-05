@@ -13,7 +13,8 @@ export const monarchAmazonWrite = {
     },
     {
       invariantKind: "departure",
-      statement: "What was written is read back from Monarch before it is called written.",
+      statement:
+        "What was written is read back from Monarch before what was written is called written.",
     },
     {
       invariantKind: "departure",
