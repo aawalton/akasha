@@ -40,7 +40,7 @@ export const propertyIsDeclaredByAType = {
     {
       invariantKind: "departure",
       statement:
-        "What declares a page is one directory listed on the index as the change leaves the index.",
+        "The declarer of a page is one directory listed on the index as the change leaves the index.",
     },
     {
       invariantKind: "departure",
