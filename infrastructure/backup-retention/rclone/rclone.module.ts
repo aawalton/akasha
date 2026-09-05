@@ -9,7 +9,7 @@ export const rclone = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A command that exits non-zero is an error carrying what the command said.",
+      statement: "A command that exits non-zero is an error carrying the text the command said.",
     },
     {
       invariantKind: "departure",
