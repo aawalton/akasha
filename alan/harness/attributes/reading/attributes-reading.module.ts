@@ -17,7 +17,7 @@ export const attributesReading = {
     },
     {
       invariantKind: "departure",
-      statement: "What to ask and how to read each answer are on each readout's own page.",
+      statement: "The question to ask and how to read each answer are on each readout's own page.",
     },
     {
       invariantKind: "departure",
