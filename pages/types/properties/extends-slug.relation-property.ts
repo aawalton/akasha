@@ -17,7 +17,7 @@ export const extendsSlug = {
     },
     {
       invariantKind: "departure",
-      statement: "Where two of them declare one property, the nearer type decides.",
+      statement: "Where two of the types named declare one property, the nearer type decides.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,7 @@ export const extendsSlug = {
     },
     {
       invariantKind: "departure",
-      statement: "A type naming none of them states an empty list rather than nothing.",
+      statement: "A type naming no type states an empty list rather than nothing.",
     },
   ],
 } as const satisfies RelationProperty
