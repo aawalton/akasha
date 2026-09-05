@@ -1,5 +1,5 @@
 diff --git a/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts b/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
-index d0dffe344ab02a0496cba203a2eb031199585c98..699edde7bbec75cef2b46fdae5c6c9ea986a8a15 100644
+index d0dffe344ab02a0496cba203a2eb031199585c98..434e3d09fe927bfe9acc782f529b474ef02bf5c2 100644
 --- a/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
 +++ b/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
 @@ -25,7 +25,7 @@ export const inventoryRuleCalling = {
@@ -8,6 +8,16 @@ index d0dffe344ab02a0496cba203a2eb031199585c98..699edde7bbec75cef2b46fdae5c6c9ea
        invariantKind: "departure",
 -      statement: "A flag said twice is refused rather than read as the last of them.",
 +      statement: "A flag said twice is refused rather than read as the last of the two sayings.",
+     },
+     {
+       invariantKind: "departure",
+@@ -38,7 +38,8 @@ export const inventoryRuleCalling = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A locked rule refuses the acts that change it until the call says to force them.",
++      statement:
++        "A locked rule refuses the acts that change that rule until the call says to force those acts.",
      },
      {
        invariantKind: "departure",
