@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-skill-morphs/temper-skill-morphs.workspace-package.ts b/temper/temper-skill-morphs/temper-skill-morphs.workspace-package.ts
+index 692142e50498f7152d7d80de83e0efca073a20cf..5a3c3a2c39f0b0cc07d3f77a51def902b3d49c56 100644
+--- a/temper/temper-skill-morphs/temper-skill-morphs.workspace-package.ts
++++ b/temper/temper-skill-morphs/temper-skill-morphs.workspace-package.ts
+@@ -25,7 +25,7 @@ export const temperSkillMorphs = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A skill morphs only where the game gives it a first and a second morph.",
++      statement: "A skill morphs only where the game gives that skill a first and a second morph.",
+     },
+     {
+       invariantKind: "departure",
