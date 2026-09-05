@@ -107,7 +107,7 @@ export const view = {
     {
       invariantKind: "departure",
       statement:
-        "A view names the page type it draws by slug, and its properties by the key each declaration states.",
+        "A view names the page type the view draws by slug, and its properties by each declaration's key.",
     },
     {
       invariantKind: "departure",
