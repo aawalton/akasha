@@ -14,7 +14,7 @@ export const esoMainMenuBar = {
     {
       invariantKind: "departure",
       statement:
-        "A method takes an explicit `this` parameter so the built Lua calls it with a colon.",
+        "A method takes an explicit `this` parameter so the built Lua calls that method with a colon.",
     },
     {
       invariantKind: "departure",
