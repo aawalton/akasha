@@ -55,7 +55,7 @@ export const moveManifesting = {
     },
     {
       invariantKind: "absence",
-      statement: "A manifest that will not parse is left as it is.",
+      statement: "A manifest that will not parse is left as the manifest is.",
     },
     {
       invariantKind: "absence",
