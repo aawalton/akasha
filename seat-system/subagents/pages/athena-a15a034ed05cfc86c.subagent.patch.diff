@@ -62,7 +62,7 @@ index 43e00625d6ee03c01c8dcbba9ed35940d9bc391e..50c93f22b9017f374686df2d635dba14
    try {
      return fs.realpathSync(repo)
 diff --git a/editor-extension/seat-act-confirm/seat-act-confirm.module.code.ts b/editor-extension/seat-act-confirm/seat-act-confirm.module.code.ts
-index 9a4e1fb847a8ca276576c0d25842dab82a203763..35680d9b4a18da7c5ed0a94267324a65c105d00b 100644
+index 9a4e1fb847a8ca276576c0d25842dab82a203763..e5bc940f50762f9d69ce7e05ffefc910184e04cc 100644
 --- a/editor-extension/seat-act-confirm/seat-act-confirm.module.code.ts
 +++ b/editor-extension/seat-act-confirm/seat-act-confirm.module.code.ts
 @@ -1,11 +1,6 @@
@@ -78,6 +78,15 @@ index 9a4e1fb847a8ca276576c0d25842dab82a203763..35680d9b4a18da7c5ed0a94267324a65
  
  export interface TurnLossPrompt {
    readonly message: string
+@@ -14,8 +9,6 @@ export interface TurnLossPrompt {
+ }
+ 
+ const ACT_WORDS: Record<SeatAct, { readonly question: string; readonly confirm: string }> = {
+-  "place-interactive": { question: "run", confirm: "Run Interactively" },
+-  "place-headless": { question: "run", confirm: "Run Headless" },
+   "run-stop": { question: "stop", confirm: "Stop" },
+   "run-resume": { question: "resume", confirm: "Resume" },
+   "run-reset": { question: "reset", confirm: "Reset" },
 diff --git a/editor-extension/seat-acts/seat-acts.module.code.ts b/editor-extension/seat-acts/seat-acts.module.code.ts
 index d69256318f8f3fb588470ac71f8ac64660f49566..9b72f7f90fd8eccd1b5174fec1806f9efb381800 100644
 --- a/editor-extension/seat-acts/seat-acts.module.code.ts
