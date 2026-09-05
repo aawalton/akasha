@@ -13,7 +13,7 @@ export const urlPath = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path is written as the router takes it, with no leading slash.",
+      statement: "A path is written as the router takes that path, with no leading slash.",
     },
     {
       invariantKind: "departure",
