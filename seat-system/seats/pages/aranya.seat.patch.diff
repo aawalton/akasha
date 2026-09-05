@@ -15,3 +15,11 @@ index 77e8b329b038aed6877d3deebb8a3f3c1f9b8253..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../alan/eso/eso-wallpapers
 \ No newline at end of file
+diff --git a/alan/fitness/commands/exercise-commands b/alan/fitness/commands/exercise-commands
+deleted file mode 120000
+index 33f87403e797408d761b79d9ff1c10462ef76585..0000000000000000000000000000000000000000
+--- a/alan/fitness/commands/exercise-commands
++++ /dev/null
+@@ -1 +0,0 @@
+-../../alan/fitness/commands
+\ No newline at end of file
