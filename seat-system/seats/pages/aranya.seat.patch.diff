@@ -1,0 +1,15 @@
+diff --git a/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.module.ts b/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fceb2e8c93dcda106c2660cc50904705979de8cb
+--- /dev/null
++++ b/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const cnpgCluster = {
++  id: "01a073ad-4ebe-7dc9-94c9-18bf7a7281cd",
++  pageTypeSlug: "module",
++  slug: "cnpg-cluster",
++  definition: "the managed Postgres cluster and the instances it keeps",
++  code: "ts",
++} as const satisfies Module
