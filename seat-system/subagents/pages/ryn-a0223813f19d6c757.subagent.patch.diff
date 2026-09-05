@@ -1,0 +1,16 @@
+diff --git a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
+index d46b5520305c7527a21be788e295c4f1b9ba59cf..499a78707ed5894cb8f2143f419049540451271a 100644
+--- a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
++++ b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
+@@ -85,10 +85,7 @@ export const agentTreePanel = {
+       invariantKind: "departure",
+       statement: "Copying a seat's name reaches the seat the same way an act does.",
+     },
+-    {
+-      invariantKind: "absence",
+-      statement: "No timer starts a drawing.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "No watcher on a seat file is registered here.",
