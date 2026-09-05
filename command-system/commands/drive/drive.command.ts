@@ -57,10 +57,7 @@ export const drive = {
       invariantKind: "departure",
       statement: "The name a fetched file lands under is the name Drive holds for that file.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A folder the call names is read against the repository root.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A call naming no folder writes into the folder the call came from.",

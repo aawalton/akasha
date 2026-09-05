@@ -55,10 +55,7 @@ export const icloud = {
       invariantKind: "departure",
       statement: "Two photos carrying one name land under names told apart.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A folder the call names is read against the repository root.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A call naming no folder writes into the folder the call came from.",
