@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/library/book-of-everything/commands/ali-fold/ali-fold.command.ts b/alan/library/book-of-everything/commands/ali-fold/ali-fold.command.ts
+index 75a84051399fec97d676f207bdc845dacdd50edf..cdaeb2644977926ed6ee0d87861e095912733bef 100644
+--- a/alan/library/book-of-everything/commands/ali-fold/ali-fold.command.ts
++++ b/alan/library/book-of-everything/commands/ali-fold/ali-fold.command.ts
+@@ -37,7 +37,7 @@ export const aliFold = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A topic already carrying what the fold works out is not written.",
++      statement: "A topic already carrying the coverage the fold works out is not written.",
+     },
+     {
+       invariantKind: "departure",
