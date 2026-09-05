@@ -9,7 +9,7 @@ export const workTreePanel = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The panel is read once as it starts, before any write asks for a read.",
+      statement: "The panel is read once as that panel starts, before any write asks for a read.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,8 @@ export const workTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "Colors that cannot be read are said on the channel and leave every row as it is.",
+      statement:
+        "Colors that cannot be read are said on the channel and leave every row as that row is.",
     },
     {
       invariantKind: "departure",
