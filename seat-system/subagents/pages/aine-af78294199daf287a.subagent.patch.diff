@@ -62,7 +62,7 @@ index d1390f239d4104919d3b352a380dab3e0cfe78b6..e55309d7a54302ecff5bdf241098f4e2
      {
        invariantKind: "departure",
 diff --git a/commands/write/write.command.test.ts b/commands/write/write.command.test.ts
-index c0c8a3e10cd2ca891f81862745f6a8717be5cfc4..bfd77b4f5c42149be38dcad6f49fda79bb939981 100644
+index c0c8a3e10cd2ca891f81862745f6a8717be5cfc4..d61835057b2d28c78af08dedb6384c8d706ed7c5 100644
 --- a/commands/write/write.command.test.ts
 +++ b/commands/write/write.command.test.ts
 @@ -65,7 +65,7 @@ test("a body the record shows read is written over", async () => {
@@ -83,6 +83,15 @@ index c0c8a3e10cd2ca891f81862745f6a8717be5cfc4..bfd77b4f5c42149be38dcad6f49fda79
    const root = repoWith({
      "akasha/held.module.ts": "committed\n",
      "akasha/held.module.code.ts": "committed\n",
+@@ -308,7 +308,7 @@ test("a content file that is not there is a caller's mistake, not a refusal by t
+   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
+ })
+ 
+-test("a content file standing that will not open says so rather than that it is not there", async () => {
++test("a content file that is there and will not open says so rather than that it is not there", async () => {
+   const root = repoWith()
+   const said = await write(["--file-path", "akasha/two.ts", "--content-file", root], givenIn(root))
+   expect(said.code).toBe(1)
 diff --git a/commands/write/write.command.ts b/commands/write/write.command.ts
 index 9b1b9cac9ab509e1360b085c3bed5fbef05a6032..94edd51bc77bf0023471eed553d957bd79eef075 100644
 --- a/commands/write/write.command.ts
