@@ -20,7 +20,6 @@ export const domains = {
     "domain/domain-purpose",
     "domain/domain-champions",
     "domain/domain-parent",
-    "command/domain",
     "module/domain-reading",
   ],
   invariants: [
