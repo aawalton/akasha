@@ -205,23 +205,6 @@ index 0000000000000000000000000000000000000000..76193fee114f0a59a0c9c2028ce9a4ae
 +    { name: "service", yaml: serviceYaml() },
 +  ]
 +}
-diff --git a/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff b/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff
-index 761fe642cd977ef43d0eb00ee7b6bc6eb77e3b77..b71e9bfdb0d51645660ac110584bde3c199fa876 100644
---- a/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff
-@@ -433,8 +433,12 @@ index 74ed7f0a9ea5922f1d9f6adc2cb1877fcb1fd4a1..543db43b2aa27fe0d8a07e7def4fc1e9
-    replicas: 1,
-    containerPort: 5432,
- -  manifestCode:
-+<<<<<<< what this change would leave
-+-    "infrastructure/databases/pgbouncer/pgbouncer.manifest.code.ts",
-+=======
- -    "service-system/cluster-services/pages/pgbouncer/pgbouncer.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "pgbouncer",
- +=======
- +  manifestCode: "infrastructure/databases/pgbouncer/pgbouncer.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/pgbouncer/pgbouncer.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/pgbouncer/pgbouncer.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 76193fee114f0a59a0c9c2028ce9a4ae1ad84650..0000000000000000000000000000000000000000
