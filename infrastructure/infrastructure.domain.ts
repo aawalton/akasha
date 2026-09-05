@@ -36,7 +36,7 @@ export const infrastructure = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A resource is what a host gives a program to use.",
+      statement: "A resource is a thing a host gives a program to use.",
     },
     {
       invariantKind: "departure",
