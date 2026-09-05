@@ -52,16 +52,22 @@ index c82937e856f721494bef85cdae5df16245309cef..5829fc5e2c92247231d72b7f60b552a9
      {
        invariantKind: "departure",
 diff --git a/persona-system/personas/properties/appearance.file-property.ts b/persona-system/personas/properties/appearance.file-property.ts
-index 7ba10fbbb630d62eee293308dc54363b62806ef6..bccb70f2202b2c42507db4b0a23f60fc3e820661 100644
+index 7ba10fbbb630d62eee293308dc54363b62806ef6..befb69b455102e76b173fe804aad0a09c2609c25 100644
 --- a/persona-system/personas/properties/appearance.file-property.ts
 +++ b/persona-system/personas/properties/appearance.file-property.ts
-@@ -11,7 +11,8 @@ export const appearance = {
+@@ -11,11 +11,13 @@ export const appearance = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "This is how she describes herself rather than how an image of her was made.",
 +      statement:
 +        "This property is how she describes herself rather than how an image of her was made.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A persona whose portrait already describes her still keeps this apart from it.",
++      statement:
++        "A persona whose portrait already describes her still keeps this property apart from it.",
      },
      {
        invariantKind: "departure",
