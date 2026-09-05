@@ -5,11 +5,11 @@ export const rule03ee5fa2 = {
   pageTypeSlug: "temper-inventory-rule",
   slug: "rule-03ee5fa2",
   title: "Knowledge-collectibles fragments to Trophies chest",
+  destination: "house-storage:4680",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "knowledge-collectibles",
   displayOrder: 30,
   action: "move-to",
   active: true,
   updatedAt: "2026-06-01T12:53:34.875Z",
-  destination: "house-storage:4680",
 } as const satisfies TemperInventoryRule
