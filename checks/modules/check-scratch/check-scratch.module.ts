@@ -51,7 +51,7 @@ export const checkScratch = {
     },
     {
       invariantKind: "absence",
-      statement: "This module only writes into it.",
+      statement: "This module only writes into the scratch.",
     },
     {
       invariantKind: "absence",
@@ -64,7 +64,8 @@ export const checkScratch = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type files the types above it as a list, empty where it names none.",
+      statement:
+        "A page type files the types above that page type as a list, empty where that page type names none.",
     },
     {
       invariantKind: "absence",
