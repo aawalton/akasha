@@ -9,7 +9,7 @@ export const pageDeriveShape = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A row is where it stands and the values it holds.",
+      statement: "A row is where it is and the values it holds.",
     },
     {
       invariantKind: "departure",

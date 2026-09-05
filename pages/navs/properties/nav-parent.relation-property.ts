@@ -17,7 +17,7 @@ export const navParent = {
     },
     {
       invariantKind: "departure",
-      statement: "A nav item naming no parent stands at the top.",
+      statement: "A nav item naming no parent is at the top.",
     },
   ],
 } as const satisfies RelationProperty

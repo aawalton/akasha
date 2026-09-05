@@ -17,7 +17,7 @@ export const formula = {
     },
     {
       invariantKind: "departure",
-      statement: "A key a formula names is a property of the page type the formula stands on.",
+      statement: "A key a formula names is a property of the page type the formula is on.",
     },
     {
       invariantKind: "departure",

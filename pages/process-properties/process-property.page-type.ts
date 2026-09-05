@@ -31,7 +31,7 @@ export const processProperty = {
     {
       invariantKind: "departure",
       statement:
-        "A process still standing is the one named only where the start time read now matches the one held.",
+        "A process that still exists is the one named only where the start time read now matches the one held.",
     },
   ],
 } as const satisfies PageType

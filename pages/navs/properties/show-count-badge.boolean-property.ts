@@ -7,5 +7,5 @@ export const showCountBadge = {
   pageTypeSlug: "boolean-property",
   slug: "show-count-badge",
   propertySlug: "show-count-badge",
-  definition: "whether a nav item carries how many pages stand under it",
+  definition: "whether a nav item carries how many pages are under it",
 } as const satisfies BooleanProperty

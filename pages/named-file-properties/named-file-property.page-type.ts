@@ -22,7 +22,7 @@ export const namedFileProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "What the page states is the name its file stands under.",
+      statement: "What the page states is the name its file is under.",
     },
     {
       invariantKind: "departure",

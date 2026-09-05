@@ -4,13 +4,13 @@ export const repoPath = {
   id: "01a05cc6-2a1c-751d-8813-33c04d9c2005",
   pageTypeSlug: "module",
   slug: "repo-path",
-  definition: "a path spelled out in full, and whether it stands inside a repository",
+  definition: "a path spelled out in full, and whether it is inside a repository",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement:
-        "A path is spelled out as far as anything stands on disk and left alone after that point.",
+        "A path is spelled out as far as anything exists on disk and left alone after that point.",
     },
     {
       invariantKind: "departure",

@@ -25,8 +25,7 @@ export const pageQueryNarrow = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A test that cannot be read is said as unreadable and the tests beside it still stand.",
+      statement: "A test that cannot be read is said as unreadable and the tests beside it remain.",
     },
     {
       invariantKind: "departure",

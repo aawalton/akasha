@@ -7,7 +7,7 @@ export const fileName = {
   pageTypeSlug: "text-property",
   slug: "file-name",
   propertySlug: "file-name",
-  definition: "the name a property's file stands under",
+  definition: "the name a property's file is under",
   max: 100,
   nameFormatSlug: null,
   invariants: [

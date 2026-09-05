@@ -33,7 +33,7 @@ describe("the values an akasha page declares", () => {
     expect(values["page-type-slug"]).toBe("wake-day")
   })
 
-  test("a camel row is turned and a kebab row is left as it stands", () => {
+  test("a camel row is turned and a kebab row is left as it is", () => {
     expect(kebabisedRow({ startTime: "a", dailyTracking: "b" })).toEqual({
       "start-time": "a",
       "daily-tracking": "b",

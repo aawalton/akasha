@@ -7,7 +7,7 @@ export const cover = {
   pageTypeSlug: "text-property",
   slug: "cover",
   propertySlug: "cover",
-  definition: "the image that stands for a page",
+  definition: "the image that represents a page",
   max: 100,
   nameFormatSlug: null,
   invariants: [

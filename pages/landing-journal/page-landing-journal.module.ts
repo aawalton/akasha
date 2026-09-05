@@ -10,7 +10,7 @@ export const pageLandingJournal = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A journal is named for the checkout it stands for rather than for its writer.",
+      statement: "A journal is named for the checkout it represents rather than for its writer.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const pageLandingJournal = {
     {
       invariantKind: "departure",
       statement:
-        "Where the journals stand is said by `PAGE_LANDING_JOURNAL_DIR` and falls back to the user's state directory.",
+        "Where the journals are is said by `PAGE_LANDING_JOURNAL_DIR` and falls back to the user's state directory.",
     },
     {
       invariantKind: "departure",

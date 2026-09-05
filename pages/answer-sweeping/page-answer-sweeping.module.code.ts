@@ -7,7 +7,7 @@ const RESOLVED = ".git/pages/resolved/page-type"
 
 const DAY_MS = 24 * 60 * 60 * 1000
 
-function stood(at: string, now: number): boolean {
+function old(at: string, now: number): boolean {
   try {
     return now - statSync(at).mtimeMs > DAY_MS
   } catch {
@@ -29,7 +29,7 @@ function sweepFlat(dir: string, now: number): number {
   let gone = 0
   for (const name of readdirSync(dir)) {
     const at = `${dir}/${name}`
-    if (stood(at, now) && take(at)) gone++
+    if (old(at, now) && take(at)) gone++
   }
   return gone
 }

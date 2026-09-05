@@ -25,7 +25,7 @@ export const emailAddressProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "The `@` divides the mailbox from the domain the mailbox stands at.",
+      statement: "The `@` divides the mailbox from the domain the mailbox is at.",
     },
     {
       invariantKind: "departure",
