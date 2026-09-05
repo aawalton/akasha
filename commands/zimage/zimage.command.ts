@@ -34,7 +34,6 @@ export const zimage = {
     "the flags are the ones mflux-generate takes, so a rig aimed at this renders through it with no change to how the rig calls.",
     "a checkpoint is staged into the container's LoRA volume under a name the path it came from is hashed into, and mixed in for this render alone.",
     "one checkpoint is rendered against, and a comma list of them is refused.",
-    "a seed nothing named is drawn.",
     "a path said here is read against the repository root rather than the folder the call was made from.",
     "the port ComfyUI answers on is `ZIMAGE_PORT` and the host data directory is `ZIMAGE_HOME`.",
     "the container is up and the weights are provisioned before this reaches the GPU.",
