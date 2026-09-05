@@ -1,3 +1,18 @@
+diff --git a/temper/temper-web/routes.ts b/temper/temper-web/routes.ts
+index cc9b44a459a1dcb4198808265494da095ddaee96..acb64d437035050a86bf283a1a8d92865095c735 100644
+--- a/temper/temper-web/routes.ts
++++ b/temper/temper-web/routes.ts
+@@ -46,8 +46,8 @@ const API_ROUTES: RouteConfig = [
+   route("api/watcher/upsert-mined-quests", "routes/api.watcher.upsert-mined-quests.tsx"),
+   route("api/watcher/upsert-pricing-extract", "routes/api.watcher.upsert-pricing-extract.tsx"),
+   route("api/watcher/upsert-pricing-snapshot", "routes/api.watcher.upsert-pricing-snapshot.tsx"),
+-  route("api/addons/version", "routes/addon-bundle-version/addon-bundle-version.route.code.tsx"),
+-  route("api/addons/download", "routes/addon-bundle/addon-bundle.route.code.tsx"),
++  route("api/addons/version", "routes/addon-bundle-version/addon-bundle-version.route.code.ts"),
++  route("api/addons/download", "routes/addon-bundle/addon-bundle.route.code.ts"),
+   route("character-build/h/:hash", "routes/character.h.$hash.tsx"),
+   route("companion-build/h/:hash", "routes/companion.h.$hash.tsx"),
+ ]
 diff --git a/temper/temper-web/routes/addon-bundle-version/addon-bundle-version.route.code.ts b/temper/temper-web/routes/addon-bundle-version/addon-bundle-version.route.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..2802d8dcd3456c4841e37a1fa5d987cd97938ecd
