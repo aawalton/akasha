@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/utils-run/running/running.module.ts b/utils-run/running/running.module.ts
+index 5755ae59c46dfb7089c069bf80d74c3c52fd555e..64dad1ac1466d96d625255b5cdb338b4d021424f 100644
+--- a/utils-run/running/running.module.ts
++++ b/utils-run/running/running.module.ts
+@@ -14,7 +14,7 @@ export const running = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a process says on each stream is taken whole.",
++      statement: "Each stream a process says on is taken whole.",
+     },
+     {
+       invariantKind: "departure",
