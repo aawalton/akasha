@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/inference-commands/inference-status/inference-status.command.ts b/infrastructure/inference-commands/inference-status/inference-status.command.ts
+index 6e211c7c859eed257615d7f32ee7349c3ce61d5e..3ecfe65b4f3e583046993bc5a5a0b7a78a4102f0 100644
+--- a/infrastructure/inference-commands/inference-status/inference-status.command.ts
++++ b/infrastructure/inference-commands/inference-status/inference-status.command.ts
+@@ -18,7 +18,7 @@ export const inferenceStatus = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What is reported is what the host holds.",
++      statement: "The services reported are the services the host holds.",
+     },
+     {
+       invariantKind: "departure",
