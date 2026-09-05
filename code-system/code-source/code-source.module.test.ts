@@ -28,7 +28,7 @@ function markupIn(source: ts.SourceFile): boolean {
   return found
 }
 
-test("a body is parsed under the name it is given, whether or not that file stands", () => {
+test("a body is parsed under the name it is given, whether or not that file is there", () => {
   expect(parsedAs(AT, BODY).fileName).toBe(AT)
   expect(skimmedAs(AT, BODY).fileName).toBe(AT)
 })
@@ -44,7 +44,7 @@ test("a line is counted from one, so the first line of a body is line 1", () => 
   expect(lineOf(source, firstOf(source))).toBe(2)
 })
 
-test("a node stands where its own text starts, not where the blank leading it starts", () => {
+test("a node is where its own text starts, not where the blank leading it starts", () => {
   const source = parsedAs(AT, LED)
   const one = firstOf(source)
   expect(lineOf(source, one)).toBe(4)

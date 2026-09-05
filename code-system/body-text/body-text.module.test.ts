@@ -12,7 +12,7 @@ test("a body holding nothing is empty text, which is not nothing", () => {
   expect(textOf(new Uint8Array([]))).toBe("")
 })
 
-test("a path standing at nothing says nothing", () => {
+test("a path with nothing at it says nothing", () => {
   expect(textOf(null)).toBeNull()
 })
 

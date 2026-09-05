@@ -10,11 +10,11 @@ export const bodyText = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One decoder stands for every body read through here.",
+      statement: "One decoder serves every body read through here.",
     },
     {
       invariantKind: "departure",
-      statement: "A path standing at nothing says nothing rather than empty text.",
+      statement: "A path with nothing at it says nothing rather than empty text.",
     },
     {
       invariantKind: "constraint",

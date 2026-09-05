@@ -4,13 +4,13 @@ export const codeSource = {
   id: "01a05026-bc17-76c6-8a84-242b988bdd57",
   pageTypeSlug: "module",
   slug: "code-source",
-  definition: "a body read as TypeScript, and where in that reading a thing stands",
+  definition: "a body read as TypeScript, and where in that reading a thing is",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One parse stands for every body read as TypeScript here.",
+      statement: "One parse serves every body read as TypeScript here.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +42,7 @@ export const codeSource = {
     {
       invariantKind: "absence",
       statement:
-        "A path is a name the parse carries so a node can say where it stands rather than a file this module opens.",
+        "A path is a name the parse carries so a node can say where it is rather than a file this module opens.",
     },
   ],
 } as const satisfies Module
