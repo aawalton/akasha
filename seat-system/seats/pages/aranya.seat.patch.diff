@@ -104,7 +104,7 @@ index ee111070d85d66994ebe6082f1d55fc35f12807a..38da2fde0d0af2dc74a6e9daa2f15b6d
          ? "the patch was worked out to nothing and taken away"
          : `the patch is kept at ${patchAt(page)}`,
 diff --git a/command-system/commands/patch/patch.command.ts b/command-system/commands/patch/patch.command.ts
-index ba8212c098fd8512e80f16b3dacede76b24bd805..4c2c103e1e52d9eaf87dba89c7d73bcf5a3e598a 100644
+index ba8212c098fd8512e80f16b3dacede76b24bd805..2317aa82c729acc1739d26ae4113e77f7a1dec56 100644
 --- a/command-system/commands/patch/patch.command.ts
 +++ b/command-system/commands/patch/patch.command.ts
 @@ -40,6 +40,7 @@ export const patch = {
@@ -115,6 +115,30 @@ index ba8212c098fd8512e80f16b3dacede76b24bd805..4c2c103e1e52d9eaf87dba89c7d73bcf
    ],
    invariants: [
      {
+@@ -162,6 +163,23 @@ export const patch = {
+       invariantKind: "departure",
+       statement: "A resolve is judged by the checks that judge any authored change.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "A resolve is judged over the bodies the patch would hold rather than over the body handed in.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A resolve and an apply are judged over the same bodies.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A check refusing over a resolve is answered rather than refusing the resolve.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A resolve names each path a check refused with the reason that check gave.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A body resolved is formatted before the checks judge that body.",
 diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
 index 3e79fda62c024d6f42de233b752efe6c1bb8c0c7..90fc7cb550cd66feb17a1956ad8bf3d39d4f77eb 100644
 --- a/command-system/landing/landing.module.code.ts
