@@ -3,7 +3,13 @@ import type { Identifying } from "@akasha/pages-system/page-type-properties"
 import type { Value } from "@akasha/pages-system/page-value"
 import type { Identifier } from "../entries/index-entries.module.code.ts"
 import { A, B, C } from "../entries/index-entries.module.test-fixtures.ts"
-import { filedIn, identityIn, partingIn } from "./index-identity.index.code.ts"
+import {
+  filedIn,
+  identityIn,
+  type Naming,
+  partingIn,
+  partingOver,
+} from "./index-identity.index.code.ts"
 
 function identifying(held: Record<string, ReadonlyMap<string, Identifier>>): Identifying {
   return (pageTypeSlug) => held[pageTypeSlug] ?? new Map<string, Identifier>()
@@ -166,5 +172,42 @@ test("a page both naming a collection and named by another page is filed under b
 test("what a page is filed under carries the scope, the property and the value", () => {
   expect(filedIn(HOME, PARTED, null, partingIn([HOME, WEB]))).toEqual([
     { scope: "alan-web", propertySlug: "slug", said: "home" },
+  ])
+})
+
+const WEB_AT = "alan/web/alan-web.router-app.ts"
+
+function filedAs(propertySlug: string): Naming {
+  return (id) => (id === A ? [{ path: WEB_AT, propertySlug }] : [])
+}
+
+const NONE = new Set<string>()
+
+test("a page the index says another page names is filed under that page's slug", () => {
+  const parting = partingOver(filedAs("part-slugs"), [HOME], NONE)
+
+  expect(identityIn(HOME, HOME_AT, "/repo", PARTED, null, parting)).toEqual([
+    { at: "identity/alan-web/slug/home.jsonl", line: HOME_LINE },
+  ])
+})
+
+test("an edge of a page the change carries is read from the change rather than the index", () => {
+  const parting = partingOver(filedAs("part-slugs"), [HOME], new Set([WEB_AT]))
+
+  expect(identityIn(HOME, HOME_AT, "/repo", PARTED, null, parting)).toEqual([])
+})
+
+test("an edge the index files under another property is passed over", () => {
+  const parting = partingOver(filedAs("noted-slugs"), [HOME], NONE)
+
+  expect(identityIn(HOME, HOME_AT, "/repo", PARTED, null, parting)).toEqual([])
+})
+
+test("the pages in hand and the pages the index names are read together", () => {
+  const parting = partingOver(filedAs("part-slugs"), [HOME, MOBILE], NONE)
+
+  expect(identityIn(HOME, HOME_AT, "/repo", PARTED, null, parting)).toEqual([
+    { at: "identity/alan-mobile/slug/home.jsonl", line: HOME_LINE },
+    { at: "identity/alan-web/slug/home.jsonl", line: HOME_LINE },
   ])
 })
