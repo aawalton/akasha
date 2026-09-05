@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/refactor/refactor.command.ts b/commands/refactor/refactor.command.ts
+index dfb3c068fc99e645f0970d2aa27f298838eaa826..6388254845a5ad21f44553537290799013ea6353 100644
+--- a/commands/refactor/refactor.command.ts
++++ b/commands/refactor/refactor.command.ts
+@@ -101,7 +101,7 @@ export const refactor = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a rename would touch is answered before the rename is asked to land.",
++      statement: "The files a rename would touch are answered before the rename is asked to land.",
+     },
+     {
+       invariantKind: "departure",
