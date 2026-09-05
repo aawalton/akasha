@@ -27,7 +27,7 @@ export const monarchProvenance = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes; it composes what a writer writes.",
+      statement: "Nothing here writes; this module composes what a writer writes.",
     },
   ],
 } as const satisfies Module
