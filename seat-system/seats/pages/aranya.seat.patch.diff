@@ -1047,3 +1047,11 @@ index ae289378bacd2e056ff2e50310b3c1e3b8c0f7d5..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-interface-addon
 \ No newline at end of file
+diff --git a/temper/temper-inventory-automation/temper-inventory-automation b/temper/temper-inventory-automation/temper-inventory-automation
+deleted file mode 120000
+index a5d2ed206a4775f1393a478c097179de7a9f39b7..0000000000000000000000000000000000000000
+--- a/temper/temper-inventory-automation/temper-inventory-automation
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-inventory-automation
+\ No newline at end of file
