@@ -1,0 +1,15 @@
+diff --git a/infrastructure/node/nvidia-device-plugin/nvidia-device-plugin.manifest.ts b/infrastructure/node/nvidia-device-plugin/nvidia-device-plugin.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..390116b3b9ade36d08abd27bf826bacc0e140be4
+--- /dev/null
++++ b/infrastructure/node/nvidia-device-plugin/nvidia-device-plugin.manifest.ts
+@@ -0,0 +1,9 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const nvidiaDevicePlugin = {
++  id: "01a0738e-7f15-71c0-905e-3746cbb4535e",
++  pageTypeSlug: "manifest",
++  slug: "nvidia-device-plugin",
++  definition: "the daemon set offering a node's graphics cards to the cluster as a resource",
++  code: "ts",
++} as const satisfies Manifest
