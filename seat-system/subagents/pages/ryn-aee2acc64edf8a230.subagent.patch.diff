@@ -14,3 +14,19 @@ index 4fd0c61306080b8e5931754ed136a5133321a343..5f2a95459d8643d660026e15d4462666
      {
        invariantKind: "departure",
        statement:
+diff --git a/editor-extension/page-tree-view/page-tree-view.module.ts b/editor-extension/page-tree-view/page-tree-view.module.ts
+index 3aa9dc6635afd218ee181111281fff11059e979d..1a431298bf026798900e0414ba8154748c73f24a 100644
+--- a/editor-extension/page-tree-view/page-tree-view.module.ts
++++ b/editor-extension/page-tree-view/page-tree-view.module.ts
+@@ -19,10 +19,7 @@ export const pageTreeView = {
+       invariantKind: "departure",
+       statement: "A row is matched against its label and its detail.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A row holding a match is drawn open while a filter is there.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement:
