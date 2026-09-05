@@ -35,7 +35,7 @@ export const noSopsOnDevStdin = {
     },
     {
       invariantKind: "departure",
-      statement: "A call naming sops and a real file is what this rule asks for.",
+      statement: "This rule asks for a call naming sops and a real file.",
     },
     {
       invariantKind: "departure",
