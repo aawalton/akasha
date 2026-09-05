@@ -29,3 +29,16 @@ index c6c94d173416ece1926ddbfe4c15657a06408e25..0dd67e8e1835b372a30e4d09e886fda2
 +    expect(said).toEqual([])
 +  })
  })
+diff --git a/code-system/code-typing/code-typing.module.code.ts b/code-system/code-typing/code-typing.module.code.ts
+index 4dbc4873535da8dc11fd36f7b44237157e7708a1..1c8c8d699e6def0aa5c5899770de1cb1da23c7f2 100644
+--- a/code-system/code-typing/code-typing.module.code.ts
++++ b/code-system/code-typing/code-typing.module.code.ts
+@@ -102,7 +102,7 @@ export function servedOf(root: string, at: string): string | null {
+   return insideOf(root, real) ?? manifestOf(root, real)
+ }
+ 
+-function directoriesIn(root: string, every: readonly string[]): ReadonlySet<string> {
++export function directoriesIn(root: string, every: readonly string[]): ReadonlySet<string> {
+   const held = new Set<string>()
+   for (const one of every) {
+     let at = dirname(join(root, one))
