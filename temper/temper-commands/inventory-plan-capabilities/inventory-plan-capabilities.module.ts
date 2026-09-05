@@ -14,7 +14,7 @@ export const inventoryPlanCapabilities = {
     },
     {
       invariantKind: "departure",
-      statement: "Each part is handed over on its own so a run may take only what it needs.",
+      statement: "Each part is handed over on its own so a run may take only what that run needs.",
     },
     {
       invariantKind: "absence",
