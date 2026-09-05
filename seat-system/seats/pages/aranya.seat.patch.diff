@@ -191,3 +191,11 @@ index 8b037c2c39e1d221cc0405b8944212d0a1d35aab..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../errors-core
 \ No newline at end of file
+diff --git a/file-page-identity/file-page-identity b/file-page-identity/file-page-identity
+deleted file mode 120000
+index 66976b90bd7ee9478a8012edbb45f4ba3327a6a6..0000000000000000000000000000000000000000
+--- a/file-page-identity/file-page-identity
++++ /dev/null
+@@ -1 +0,0 @@
+-../../file-page-identity
+\ No newline at end of file
