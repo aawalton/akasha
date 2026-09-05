@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-trading-addon/trading-globals/trading-globals.module.ts b/temper/temper-trading-addon/trading-globals/trading-globals.module.ts
+index 1979c892338de89eef870559a1ac20c76aeba151..e27e3eaaa9b6dbb4bb38ec3ac432144ef52a6a2f 100644
+--- a/temper/temper-trading-addon/trading-globals/trading-globals.module.ts
++++ b/temper/temper-trading-addon/trading-globals/trading-globals.module.ts
+@@ -9,7 +9,7 @@ export const tradingGlobals = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Only what an outside caller needs is reachable.",
++      statement: "Only the names an outside caller needs are reachable.",
+     },
+   ],
+ } as const satisfies Module
