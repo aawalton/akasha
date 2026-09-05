@@ -15,7 +15,7 @@ export const rynTrainedParser = {
     {
       statement: "The check refuses a statement by the predicate a refused shape holds.",
       workingMemory:
-        "A blocklist: plain is no refused shape matched. The check passes everything today, because it reads the rules the shapes no longer state. Reading the predicates instead refuses 1,228 of the 24,553 statements: lone-quantifier 955, lone-pronoun 167, partitive-quantifier 128, lone-determiner 36, closing-count 10. One statement two shapes refuse is counted once, so the total is fewer than the sum. Whether those refusals are sound is unsettled.",
+        "A blocklist: plain is no refused shape matched. The check already runs each refused shape's predicate and names the shape in its refusal. It judges nothing because every phase is off: patch went off at e57ecc0deb until the loose shapes are settled. The predicates refuse 1,228 of the 24,553 statements: lone-quantifier 955, lone-pronoun 167, partitive-quantifier 128, lone-determiner 36, closing-count 10. One statement two shapes refuse is counted once, so the total is under the sum.",
     },
     {
       statement: "The shapes akasha refuses are rebuilt on the dependency tree.",
