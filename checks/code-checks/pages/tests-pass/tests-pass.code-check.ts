@@ -17,10 +17,7 @@ export const testsPass = {
       statement:
         "The tests a change is judged by are the ones standing beside the files the change carries.",
     },
-    {
-      invariantKind: "departure",
-      statement: "Audit is handed every file.",
-    },
+
     {
       invariantKind: "departure",
       statement:

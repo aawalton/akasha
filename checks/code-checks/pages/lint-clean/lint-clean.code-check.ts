@@ -16,10 +16,7 @@ export const lintClean = {
       invariantKind: "departure",
       statement: "The files a change is judged by are the ones the change carries.",
     },
-    {
-      invariantKind: "departure",
-      statement: "Audit is handed every file.",
-    },
+
     {
       invariantKind: "departure",
       statement: "The same reading covers one change and the whole tree.",
