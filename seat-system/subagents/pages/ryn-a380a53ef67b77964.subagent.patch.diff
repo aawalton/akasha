@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts
-index 87639fa0eeede9c6f1e17c3031f9a820dd1a51ea..8f682dba6cab8e83094c88c2d90e2af3bd5c8b50 100644
+index 87639fa0eeede9c6f1e17c3031f9a820dd1a51ea..5d6e89de3690eee2a2c651f439274364f2695212 100644
 --- a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts
 +++ b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts
 @@ -43,7 +43,7 @@ export const changeTabooTerms = {
@@ -12,12 +12,17 @@ index 87639fa0eeede9c6f1e17c3031f9a820dd1a51ea..8f682dba6cab8e83094c88c2d90e2af3
      },
      {
        invariantKind: "absence",
-@@ -75,7 +75,7 @@ export const changeTabooTerms = {
+@@ -75,11 +75,11 @@ export const changeTabooTerms = {
      },
      {
        invariantKind: "departure",
 -      statement: "What is owed names every sense the term bars and what is written instead.",
 +      statement: "The text owed names every sense the term bars and the wording written instead.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is owed names every sense the term keeps as well.",
++      statement: "The text owed names every sense the term keeps as well.",
      },
      {
        invariantKind: "departure",
