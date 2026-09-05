@@ -40,7 +40,7 @@ export const moveArguing = {
     {
       invariantKind: "departure",
       statement:
-        "The flags a move takes are named here for whoever reads the line and whoever reads the rest.",
+        "The flags a move takes are named here for the reader of the line and the reader of the rest.",
     },
     {
       invariantKind: "absence",
