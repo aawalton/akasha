@@ -133,7 +133,8 @@ export const edit = {
     },
     {
       invariantKind: "gap",
-      statement: "A caller states what a passage is and learns whether it was still that.",
+      statement:
+        "A caller states what a passage is and learns whether that passage was still that.",
     },
   ],
 } as const satisfies Command
