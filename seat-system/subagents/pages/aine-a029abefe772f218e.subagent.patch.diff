@@ -50,7 +50,7 @@ index 8326a75a6306d0a75889a16399563bc5e8d181f8..0cb450fc3eb6e9dd9cabeaebc588212d
      "pair-bond",
      "intimates",
 diff --git a/alan/relating/relationships/relationship.page-type.ts b/alan/relating/relationships/relationship.page-type.ts
-index 73cab83fc93a5abea3e4e962a21d2e6a79351689..61e11b0aa3ccf07415545e0bdcd0a742d01e2de7 100644
+index 73cab83fc93a5abea3e4e962a21d2e6a79351689..35d79636f8a62d44db9c955b870a7b1fd42e800c 100644
 --- a/alan/relating/relationships/relationship.page-type.ts
 +++ b/alan/relating/relationships/relationship.page-type.ts
 @@ -44,7 +44,7 @@ export const relationship = {
@@ -62,6 +62,15 @@ index 73cab83fc93a5abea3e4e962a21d2e6a79351689..61e11b0aa3ccf07415545e0bdcd0a742
    pluralSlug: "relationships",
    extendsSlug: ["page-type/page"],
    partSlugs: [
+@@ -94,7 +94,7 @@ export const relationship = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Four ratings stand apart: what this person changes, how much Alan wants them, how connected they already are, and what he means to keep putting in.",
++        "Four ratings sit apart: what this person changes, how much Alan wants them, how connected they already are, and what he means to keep putting in.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/alan/self/identity-statements/identity-statement.page-type.ts b/alan/self/identity-statements/identity-statement.page-type.ts
 index a4fbf549af9a92c4803522d4c635b40d42f31f47..fc29fb22519aee1d01b746f0734c049c05b1bcb8 100644
 --- a/alan/self/identity-statements/identity-statement.page-type.ts
