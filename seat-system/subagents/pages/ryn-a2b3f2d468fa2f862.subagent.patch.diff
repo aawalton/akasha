@@ -107,3 +107,21 @@ index e80b77a097ca00a1c8552be64506176b83d8e0c4..fa296cb2e2c98e881ba38e201a3f2158
      },
    ],
  } as const satisfies PageType
+diff --git a/infrastructure/audios/audio.page-type.ts b/infrastructure/audios/audio.page-type.ts
+index 92b468cff2576378fb5a6e796243ae639e76b31c..e1f4b92445a39b7d122bbc4c61c707247f25d550 100644
+--- a/infrastructure/audios/audio.page-type.ts
++++ b/infrastructure/audios/audio.page-type.ts
+@@ -11,8 +11,11 @@ export const audio = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "An audio's bytes sit in the object store under the audio's own id, and on disk where the audio says they were written.",
++      statement: "An audio's bytes sit in the object store under the audio's own id.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An audio's bytes sit on disk where the audio says those bytes were written.",
+     },
+     {
+       invariantKind: "departure",
