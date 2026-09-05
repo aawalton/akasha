@@ -1,5 +1,5 @@
 diff --git a/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts b/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts
-index 9b686e951bf0a346d109502b81e44199d9276f4e..c065a14e9b7b807740d76cb9685b688084c19382 100644
+index 9b686e951bf0a346d109502b81e44199d9276f4e..7d5fd190527b73a5c64279a54feb5d4221a76880 100644
 --- a/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts
 +++ b/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts
 @@ -9,7 +9,7 @@ export const violationReporting = {
@@ -20,13 +20,19 @@ index 9b686e951bf0a346d109502b81e44199d9276f4e..c065a14e9b7b807740d76cb9685b6880
      },
      {
        invariantKind: "departure",
-@@ -42,7 +42,8 @@ export const violationReporting = {
+@@ -42,11 +42,13 @@ export const violationReporting = {
      },
      {
        invariantKind: "departure",
 -      statement: "A violation is said as file, line and message where the violation carries them.",
 +      statement:
 +        "A violation is said as file, line and message where the violation carries file, line and message.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Violations are grouped only where the caller says what to group them by.",
++      statement:
++        "Violations are grouped only where the caller says what to group those violations by.",
      },
      {
        invariantKind: "departure",
