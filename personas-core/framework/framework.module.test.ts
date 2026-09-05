@@ -14,7 +14,7 @@ describe("stripFrontmatter", () => {
     expect(stripFrontmatter("---\na: 1\nno end")).toBe("---\na: 1\nno end")
   })
 
-  test("drops the blank lines left where the block stood", () => {
+  test("drops the blank lines left where the block was", () => {
     expect(stripFrontmatter("---\na: 1\n---\n\n\n\nBody.")).toBe("Body.")
   })
 })

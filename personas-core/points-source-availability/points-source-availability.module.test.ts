@@ -17,13 +17,13 @@ describe("pointsSourceMayWrite", () => {
     expect(pointsSourceMayWrite({ pointsSourceKind: "unavailable" }).mayWrite).toBe(false)
   })
 
-  test("says her stored total is left as it stands", () => {
+  test("says her stored total is left as it is", () => {
     const answer = pointsSourceMayWrite({ pointsSourceKind: "unavailable", title: "Aria" })
     expect(answer.reason).toContain("Aria")
-    expect(answer.reason).toContain("left as it stands")
+    expect(answer.reason).toContain("left as it is")
   })
 
-  test("stands in a plain name where she has no title", () => {
+  test("puts a plain name in where she has no title", () => {
     expect(pointsSourceMayWrite({ pointsSourceKind: "unavailable" }).reason).toContain(
       "this persona"
     )

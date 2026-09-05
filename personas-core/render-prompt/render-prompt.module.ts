@@ -18,7 +18,7 @@ export const renderPrompt = {
     },
     {
       invariantKind: "departure",
-      statement: "A scene left unwritten is stood in for by a placeholder.",
+      statement: "A scene left unwritten has a placeholder put in its place.",
     },
   ],
 } as const satisfies Module

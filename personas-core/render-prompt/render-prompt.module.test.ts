@@ -45,7 +45,7 @@ describe("assembleTransformationPrompt", () => {
 })
 
 describe("buildSceneScaffold", () => {
-  test("stands a placeholder in where no scene is written", () => {
+  test("puts a placeholder in where no scene is written", () => {
     const scaffold = buildSceneScaffold({
       closeness: "Close.",
       wardrobe: "Linen.",

@@ -14,6 +14,6 @@ export function pointsSourceMayWrite(row: PointsSourceAvailabilityRow): {
   const who = row.title ?? "this persona"
   return {
     mayWrite: false,
-    reason: `${who} declares her points source unavailable: the source her domain document names does not exist yet, so no points are written rather than metering a substitute. Her stored total is left as it stands.`,
+    reason: `${who} declares her points source unavailable: the source her domain document names does not exist yet, so no points are written rather than metering a substitute. Her stored total is left as it is.`,
   }
 }

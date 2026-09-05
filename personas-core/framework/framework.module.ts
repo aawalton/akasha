@@ -14,7 +14,7 @@ export const framework = {
     },
     {
       invariantKind: "departure",
-      statement: "The blank lines left where the block stood are dropped too.",
+      statement: "The blank lines left where the block was are dropped too.",
     },
   ],
 } as const satisfies Module
