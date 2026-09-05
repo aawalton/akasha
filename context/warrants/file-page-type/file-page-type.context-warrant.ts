@@ -34,7 +34,7 @@ export const filePageType = {
     },
     {
       invariantKind: "departure",
-      statement: "The chain above it is walked all the same.",
+      statement: "The chain above that type is walked all the same.",
     },
   ],
 } as const satisfies ContextWarrant
