@@ -29,7 +29,7 @@ export const mobileSimLongPressDrag = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A gesture names where the finger goes down and where it ends.",
+      statement: "A gesture names where the finger goes down and where that finger ends.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +41,7 @@ export const mobileSimLongPressDrag = {
     },
     {
       invariantKind: "departure",
-      statement: "A drag ending where it began is a gesture rather than nothing.",
+      statement: "A drag ending where that drag began is a gesture rather than nothing.",
     },
     {
       invariantKind: "absence",
