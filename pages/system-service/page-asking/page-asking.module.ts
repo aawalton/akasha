@@ -74,7 +74,7 @@ export const pageAsking = {
     {
       invariantKind: "departure",
       statement:
-        "A key is what a property page states rather than the slug reaching that property page.",
+        "A key is the property slug a property page states rather than the slug reaching that page.",
     },
     {
       invariantKind: "departure",
@@ -144,7 +144,7 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "What is skipped is skipped before what is taken is taken.",
+      statement: "Rows are skipped before rows are taken.",
     },
     {
       invariantKind: "departure",
@@ -169,7 +169,7 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "What a page type declares is answered as its shape.",
+      statement: "The properties a page type declares are answered as its shape.",
     },
     {
       invariantKind: "departure",
