@@ -22,11 +22,11 @@ export const dayOfWeek = {
     },
     {
       invariantKind: "departure",
-      statement: "The seven days counted from Sunday are what a UTC day number indexes.",
+      statement: "A UTC day number indexes the seven days counted from Sunday.",
     },
     {
       invariantKind: "departure",
-      statement: "The seven days counted from Monday are what a schedule is read in.",
+      statement: "A schedule is read in the seven days counted from Monday.",
     },
     {
       invariantKind: "departure",
