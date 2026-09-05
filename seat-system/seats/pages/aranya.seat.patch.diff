@@ -67,3 +67,63 @@ index 0000000000000000000000000000000000000000..05de1f208f36253b9dcaa0ee24d689ff
 +    },
 +  ],
 +} as const satisfies Domain
+diff --git a/infrastructure/certificate.domain.ts b/infrastructure/certificate.domain.ts
+deleted file mode 100644
+index a5c46883c8ad881a8a223bccac0c5c51e1516421..0000000000000000000000000000000000000000
+--- a/infrastructure/certificate.domain.ts
++++ /dev/null
+@@ -1,24 +0,0 @@
+-import type { Domain } from "../domains/domain.page-type.ts"
+-
+-export const certificate = {
+-  id: "01a0658b-0f02-7cc7-a170-0193d5a4bc1d",
+-  pageTypeSlug: "domain",
+-  slug: "certificate",
+-  definition: "a signed statement that a name belongs to whoever answers on it",
+-  pluralSlug: "certificates",
+-  partSlugs: ["page-type/certificate-authority"],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A certificate for a public name is issued by an outside authority.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A certificate used inside the cluster is signed by our own authority.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement: "Our own authority's key is not in the repository.",
+-    },
+-  ],
+-} as const satisfies Domain
+diff --git a/infrastructure/certificates/certificate.domain.ts b/infrastructure/certificates/certificate.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f4838c983917da5e11bc0ddbd20782c641f1d51a
+--- /dev/null
++++ b/infrastructure/certificates/certificate.domain.ts
+@@ -0,0 +1,24 @@
++import type { Domain } from "../../domains/domain.page-type.ts"
++
++export const certificate = {
++  id: "01a0658b-0f02-7cc7-a170-0193d5a4bc1d",
++  pageTypeSlug: "domain",
++  slug: "certificate",
++  definition: "a signed statement that a name belongs to whoever answers on it",
++  pluralSlug: "certificates",
++  partSlugs: ["page-type/certificate-authority"],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A certificate for a public name is issued by an outside authority.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A certificate used inside the cluster is signed by our own authority.",
++    },
++    {
++      invariantKind: "constraint",
++      statement: "Our own authority's key is not in the repository.",
++    },
++  ],
++} as const satisfies Domain
