@@ -1,0 +1,41 @@
+diff --git a/checks/code-checks/pages/typescript-7/typescript-7.code-check.ts b/checks/code-checks/pages/typescript-7/typescript-7.code-check.ts
+index 70b99fd6a0c5c61fe0d1e8e05e1d5c2e8796f2f9..15d56732cc64fe9ba892d8f4e8c85a2bbcef4f24 100644
+--- a/checks/code-checks/pages/typescript-7/typescript-7.code-check.ts
++++ b/checks/code-checks/pages/typescript-7/typescript-7.code-check.ts
+@@ -53,7 +53,8 @@ export const typescript7 = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "This is beside `typecheck` while the two are compared rather than in its place.",
++      statement:
++        "This check is beside `typecheck` while the two are compared rather than in its place.",
+     },
+   ],
+ } as const satisfies CodeCheck
+diff --git a/code-system/ios-apps/properties/build-script.relation-property.ts b/code-system/ios-apps/properties/build-script.relation-property.ts
+index df29b172f6dbd5de4f2e63c3ce7fb7ba13d39ad7..3e9cf7d092cacd6c1c3a9c47d746684a2bcb4b79 100644
+--- a/code-system/ios-apps/properties/build-script.relation-property.ts
++++ b/code-system/ios-apps/properties/build-script.relation-property.ts
+@@ -13,7 +13,7 @@ export const buildScript = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "An app stating none of this is not built by any command.",
++      statement: "An app stating no build script is not built by any command.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/command-system/fault-saying/fault-saying.module.ts b/command-system/fault-saying/fault-saying.module.ts
+index 074b34ad059f0ec9f9b4759efa89827e51d22cf5..c5ad4598e32dbcde24aadf323a50ed342ba2278d 100644
+--- a/command-system/fault-saying/fault-saying.module.ts
++++ b/command-system/fault-saying/fault-saying.module.ts
+@@ -34,7 +34,8 @@ export const faultSaying = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A reader outside command-system reaches this by the name the manifest gives it.",
++      statement:
++        "A reader outside command-system reaches this module by the name the manifest gives it.",
+     },
+     {
+       invariantKind: "absence",
