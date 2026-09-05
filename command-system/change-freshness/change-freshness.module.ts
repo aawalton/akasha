@@ -11,7 +11,7 @@ export const changeFreshness = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A body is overwritten only where what is on disk is the body its writer read.",
+      statement: "A body is overwritten only where the body on disk is the body its writer read.",
     },
     {
       invariantKind: "departure",
