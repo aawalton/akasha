@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/seat/monarch-seat.module.ts b/alan/harness/monarch/seat/monarch-seat.module.ts
-index d68c7ad1bef00497ca6bef312cd663516ac628b8..5ed4e0ddf7b55466c52aa968f3477e0186864a72 100644
+index d68c7ad1bef00497ca6bef312cd663516ac628b8..26f238638569de7033fd174fb0d532ac490c0317 100644
 --- a/alan/harness/monarch/seat/monarch-seat.module.ts
 +++ b/alan/harness/monarch/seat/monarch-seat.module.ts
 @@ -14,7 +14,7 @@ export const monarchSeat = {
@@ -11,3 +11,13 @@ index d68c7ad1bef00497ca6bef312cd663516ac628b8..5ed4e0ddf7b55466c52aa968f3477e01
      },
      {
        invariantKind: "departure",
+@@ -32,7 +32,8 @@ export const monarchSeat = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What it cost and how many turns it took are reported alongside what it said.",
++      statement:
++        "What the seat cost and how many turns that seat took are reported alongside what that seat said.",
+     },
+   ],
+ } as const satisfies Module
