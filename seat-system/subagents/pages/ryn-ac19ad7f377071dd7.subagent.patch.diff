@@ -1,0 +1,12 @@
+diff --git a/temper/temper-commands/temper-inventory-rules/temper-inventory-rules.command.ts b/temper/temper-commands/temper-inventory-rules/temper-inventory-rules.command.ts
+index d26126a1a15e059a4d864fddf5a0237ce1f70c18..35ab6735670505c30ddc2ca5e36452be1377cede 100644
+--- a/temper/temper-commands/temper-inventory-rules/temper-inventory-rules.command.ts
++++ b/temper/temper-commands/temper-inventory-rules/temper-inventory-rules.command.ts
+@@ -20,7 +20,6 @@ export const temperInventoryRules = {
+   ],
+   helpNotes: [
+     "the configuration read is what the addon compiled rather than what the rules were written as.",
+-    "naming no section gives back every one.",
+   ],
+   invariants: [
+     {
