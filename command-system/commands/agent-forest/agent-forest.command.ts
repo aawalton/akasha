@@ -88,7 +88,7 @@ export const agentForest = {
     },
     {
       invariantKind: "departure",
-      statement: "`state` is read from what the seat itself keeps rather than from its page.",
+      statement: "`state` is read from the turn records the seat keeps rather than from its page.",
     },
     {
       invariantKind: "departure",
