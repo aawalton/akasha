@@ -1,0 +1,37 @@
+runsWarrants: false
+diff --git a/seat-system/subagents/pages/aranya-a18779f25584c0652.subagent.patch.diff b/seat-system/subagents/pages/aranya-a18779f25584c0652.subagent.patch.diff
+deleted file mode 100644
+index 8de9db2ba97f35814a6923c603362fed56bce4bd..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/aranya-a18779f25584c0652.subagent.patch.diff
++++ /dev/null
+@@ -1,13 +0,0 @@
+-diff --git a/seat-system/subagents/presence/subagent-presence.module.code.ts b/seat-system/subagents/presence/subagent-presence.module.code.ts
+-index b51c76b0b97b597229befb88fa9cf65a05f30555..5dda3982470f3c56f781d1b606fd8986bb8e0989 100644
+---- a/seat-system/subagents/presence/subagent-presence.module.code.ts
+-+++ b/seat-system/subagents/presence/subagent-presence.module.code.ts
+-@@ -321,7 +321,7 @@ export function stampedAt(when: Date): string {
+- }
+- 
+- function saying(why: string): number {
+--  process.stderr.write(`${stampedAt(new Date())} ${CALLED_AS}: ${why}\n`)
+-+  process.stderr.write(`${CALLED_AS}: ${why}\n`)
+-   return 1
+- }
+- 
+diff --git a/seat-system/subagents/pages/aranya-a18779f25584c0652.subagent.ts b/seat-system/subagents/pages/aranya-a18779f25584c0652.subagent.ts
+deleted file mode 100644
+index a6a4c5ff9c2f643c336d560a5eb3f6434524831b..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/aranya-a18779f25584c0652.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const aranyaA18779f25584c0652 = {
+-  id: "01a072cb-9a70-7d98-81a3-9bc7b48279d0",
+-  pageTypeSlug: "subagent",
+-  slug: "aranya-a18779f25584c0652",
+-  principalSeatName: "aranya",
+-  assignmentSlug: "initiative/aranya-cluster-cleanup",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06cf3-4196-7000-b027-4bdf82d518a6--a18779f25584c0652",
+-} as const satisfies Subagent
