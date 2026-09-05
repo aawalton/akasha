@@ -39,3 +39,11 @@ index e3e6f52f15d367ff1bd07d3f633cb39eaf81ffad..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../archive-of-worlds/archive-of-worlds-web
 \ No newline at end of file
+diff --git a/audhdalan/audhdalan-web/audhdalan-web b/audhdalan/audhdalan-web/audhdalan-web
+deleted file mode 120000
+index 82bab98406549962c2d6131e8d27e83ff8a8b297..0000000000000000000000000000000000000000
+--- a/audhdalan/audhdalan-web/audhdalan-web
++++ /dev/null
+@@ -1 +0,0 @@
+-../../audhdalan/audhdalan-web
+\ No newline at end of file
