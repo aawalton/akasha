@@ -12,6 +12,7 @@ export const alanAtlasWeb = {
   routerConfig: "ts",
   compileConfig: "json",
   partSlugs: [
+    "manifest/alanwalton-atlas",
     "stylesheet/alan-atlas-web-look",
     "module/atlas-answer-page-types",
     "module/atlas-answer-page-write",
