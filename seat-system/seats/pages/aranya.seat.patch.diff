@@ -159,3 +159,11 @@ index fcf94f68fa48e5ed1f7526e92735f9871d3a82b3..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../google/calendar
 \ No newline at end of file
+diff --git a/google/drive/google-drive b/google/drive/google-drive
+deleted file mode 120000
+index ddc8b417df9bb34638b634a833bd49ffa4ba2c31..0000000000000000000000000000000000000000
+--- a/google/drive/google-drive
++++ /dev/null
+@@ -1 +0,0 @@
+-../../google/drive
+\ No newline at end of file
