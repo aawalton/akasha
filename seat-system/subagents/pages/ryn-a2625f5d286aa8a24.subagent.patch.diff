@@ -29,3 +29,16 @@ index fc0a44e38360f497cfa1cd95951349da4ce5fae4..2299144588902b4a4ab527a7f9bc58cd
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/monarch/eval-run/monarch-eval-run.module.ts b/alan/harness/monarch/eval-run/monarch-eval-run.module.ts
+index 3ffa4271bd2da748d9bc13b9066458ad292c5a45..cbe0f202507ace32cfd7f5b098fd94ba7209a3f7 100644
+--- a/alan/harness/monarch/eval-run/monarch-eval-run.module.ts
++++ b/alan/harness/monarch/eval-run/monarch-eval-run.module.ts
+@@ -10,7 +10,7 @@ export const monarchEvalRun = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The held-out pool is read once: a run over a file that already stands is refused unless it is said that a figure had already been seen.",
++        "A run over a file that is already there is refused unless a figure is said to have been seen.",
+     },
+     {
+       invariantKind: "departure",
