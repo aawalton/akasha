@@ -1,0 +1,108 @@
+diff --git a/agents/models/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.ts b/agents/models/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.ts
+index b2444ea7ec370bbd95d7afeeffee8081082415de..1fa4c9f355cec4bb5f8cfe35f7d62d8811c25ddb 100644
+--- a/agents/models/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.ts
++++ b/agents/models/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.ts
+@@ -58,10 +58,6 @@ export const modelUnavailableRebind = {
+       statement: "An answer carries the body text upstream sent.",
+     },
+ 
+-    {
+-      invariantKind: "departure",
+-      statement: "No account left to choose is written about as `no-viable-account`.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "An account already tried coming back is written about as `looped`.",
+diff --git a/agents/models/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.ts b/agents/models/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.ts
+index 181c0e5fa5770e932c239b9565d7a51db3096ef1..ce9c873c88edba7af101f233753bea72308c3c8c 100644
+--- a/agents/models/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.ts
++++ b/agents/models/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.ts
+@@ -57,10 +57,7 @@ export const permissionDeniedRebind = {
+       invariantKind: "departure",
+       statement: "No account left to choose is answered rather than rebound.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "No account left to choose is written about as `no-viable-account`.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "An account already tried coming back is written about as `looped`.",
+diff --git a/alan/harness/monarch/notes-write/monarch-notes-write.module.ts b/alan/harness/monarch/notes-write/monarch-notes-write.module.ts
+index 88c2d0cd5f9e86e99715d8c30cba63d273d0f279..0412d6b76afaf6ac2ce94f0935b80c158e613cf3 100644
+--- a/alan/harness/monarch/notes-write/monarch-notes-write.module.ts
++++ b/alan/harness/monarch/notes-write/monarch-notes-write.module.ts
+@@ -31,10 +31,7 @@ export const monarchNotesWrite = {
+       statement:
+         "Setting tags states the whole list, so the standing tags are carried rather than replaced.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "An errors field in a two-hundred answer is a refusal.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "Blank space is no note.",
+diff --git a/alan/harness/monarch/transaction-create/monarch-transaction-create.module.ts b/alan/harness/monarch/transaction-create/monarch-transaction-create.module.ts
+index de3bab4998636b911276101a85af28e25f310a11..05a2f6be64901df7ee080244a38538a697ad3c04 100644
+--- a/alan/harness/monarch/transaction-create/monarch-transaction-create.module.ts
++++ b/alan/harness/monarch/transaction-create/monarch-transaction-create.module.ts
+@@ -36,10 +36,7 @@ export const monarchTransactionCreate = {
+       statement:
+         "A transfer from a category to itself is refused, because the transfer writes two rows that cancel.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "An errors field in a two-hundred answer is a refusal.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "The balance is updated unless the caller says otherwise.",
+diff --git a/temper/temper-companions-core/companion-metrics-00/companion-metrics-00.module.ts b/temper/temper-companions-core/companion-metrics-00/companion-metrics-00.module.ts
+index f447a654843d1f92dea177036bf9fb8d5a3347f9..77b678cbd95c4be60a5c2505bda5cbc0bdc61539 100644
+--- a/temper/temper-companions-core/companion-metrics-00/companion-metrics-00.module.ts
++++ b/temper/temper-companions-core/companion-metrics-00/companion-metrics-00.module.ts
+@@ -7,10 +7,4 @@ export const companionMetrics00 = {
+   definition:
+     "the first fifteen companion metric declarations, in the order the metrics table gathers them",
+   code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "constraint",
+-      statement: "A run holds a contiguous stretch of the companion metrics table.",
+-    },
+-  ],
+ } as const satisfies Module
+diff --git a/temper/temper-companions-core/companion-metrics-01/companion-metrics-01.module.ts b/temper/temper-companions-core/companion-metrics-01/companion-metrics-01.module.ts
+index a30240c42eddaa2aea68f2a8005b4a0533c6fb95..e877d0669cc29c9fac26b731724c450cd87365d5 100644
+--- a/temper/temper-companions-core/companion-metrics-01/companion-metrics-01.module.ts
++++ b/temper/temper-companions-core/companion-metrics-01/companion-metrics-01.module.ts
+@@ -7,10 +7,4 @@ export const companionMetrics01 = {
+   definition:
+     "the second fifteen companion metric declarations, in the order the metrics table gathers them",
+   code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "constraint",
+-      statement: "A run holds a contiguous stretch of the companion metrics table.",
+-    },
+-  ],
+ } as const satisfies Module
+diff --git a/temper/temper-companions-core/companion-metrics-02/companion-metrics-02.module.ts b/temper/temper-companions-core/companion-metrics-02/companion-metrics-02.module.ts
+index facd405aef879d67c25f3aec4d8e95bcb025adbb..311891ddef2317caca894d4a12f172fc22f9da0b 100644
+--- a/temper/temper-companions-core/companion-metrics-02/companion-metrics-02.module.ts
++++ b/temper/temper-companions-core/companion-metrics-02/companion-metrics-02.module.ts
+@@ -7,10 +7,4 @@ export const companionMetrics02 = {
+   definition:
+     "the last fifteen companion metric declarations, in the order the metrics table gathers them",
+   code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "constraint",
+-      statement: "A run holds a contiguous stretch of the companion metrics table.",
+-    },
+-  ],
+ } as const satisfies Module
