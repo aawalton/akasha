@@ -118,7 +118,7 @@ index 4c9eab1870351ec7a92b26d31a182d44ce9ca2dd..0676e6633505f941d5ddf2f2d058e38e
    return at
  }
 diff --git a/pages/uncommitted/page-uncommitted.module.test.ts b/pages/uncommitted/page-uncommitted.module.test.ts
-index 4b951ea3e02fbb76b6a94350a9bdaad9df8503c8..e8eb987f46c0a4fefe5d755e020c2ddbae12e9e7 100644
+index 4b951ea3e02fbb76b6a94350a9bdaad9df8503c8..759f6d3a8630dfe53a308828fc5f11ccb0efaf02 100644
 --- a/pages/uncommitted/page-uncommitted.module.test.ts
 +++ b/pages/uncommitted/page-uncommitted.module.test.ts
 @@ -98,20 +98,20 @@ test("what is kept beside a page is read back from it", () => {
@@ -145,7 +145,7 @@ index 4b951ea3e02fbb76b6a94350a9bdaad9df8503c8..e8eb987f46c0a4fefe5d755e020c2ddb
    const root = rooted()
    writtenBeside(root, "export const amySeatUncommitted = (\n")
    expect(() => uncommittedIn(root, PAGE)).toThrow(/could not be loaded/)
-@@ -123,14 +123,14 @@ test("a file that loads declaring nothing is refused rather than read as empty",
+@@ -123,20 +123,20 @@ test("a file that loads declaring nothing is refused rather than read as empty",
    expect(() => uncommittedIn(root, PAGE)).toThrow(/declares no values/)
  })
  
@@ -162,6 +162,13 @@ index 4b951ea3e02fbb76b6a94350a9bdaad9df8503c8..e8eb987f46c0a4fefe5d755e020c2ddb
    const root = rooted()
    mergeUncommitted(root, PAGE, { beats: 1 })
    expect(uncommittedIn(root, PAGE)).toEqual({ beats: 1 })
+ })
+ 
+-test("dropping named keys leaves the rest standing", () => {
++test("dropping named keys leaves the rest as it is", () => {
+   const root = rooted()
+   keepUncommitted(root, PAGE, { held: "one", beats: 1, gateway: "up" })
+   dropUncommitted(root, PAGE, ["beats", "never stood"])
 diff --git a/pages/uncommitted/page-uncommitted.module.ts b/pages/uncommitted/page-uncommitted.module.ts
 index 90ea594df756c9bbc095d8d341ba6d8d5d3e291c..14883fe8f659d50aa30224b643fd38d51787a81b 100644
 --- a/pages/uncommitted/page-uncommitted.module.ts
