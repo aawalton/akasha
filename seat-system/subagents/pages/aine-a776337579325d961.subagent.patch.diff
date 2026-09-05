@@ -12,7 +12,7 @@ index 31a86c10f053dbb840084cff342cce7aa534e679..92b6c3291e0e12d2c079821834d080e5
  function sinkNamed(node: ts.CallExpression): string | null {
    const called = node.expression
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.test.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.test.ts
-index 15f1f480d79c9fa7bb24c7bc65387a1c13f4a2f8..25cb691c8f7cd6e17ae2617a8b10526c669d5c33 100644
+index 15f1f480d79c9fa7bb24c7bc65387a1c13f4a2f8..237a7298fd7e885eec3d8b0ed529fc87b979eecc 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.test.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.test.ts
 @@ -33,17 +33,17 @@ test("waitForFunction hands text to the browser too", () => {
@@ -34,6 +34,15 @@ index 15f1f480d79c9fa7bb24c7bc65387a1c13f4a2f8..25cb691c8f7cd6e17ae2617a8b10526c
 -test("evaluate carrying no credential stands", () => {
 +test("evaluate carrying no credential is left", () => {
    expect(noCredentialInScriptText(parsed("page.evaluate(`x = ${count}`)\n"))).toEqual([])
+ })
+ 
+@@ -56,7 +56,7 @@ test("a property named for a credential is read as a name is", () => {
+   expect(said).toHaveLength(1)
+ })
+ 
+-test("a method that is no sink stands, however it is named", () => {
++test("a method that is no sink is left, however it is named", () => {
+   expect(noCredentialInScriptText(parsed("held.compute(`x = ${password}`)\n"))).toEqual([])
  })
  
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.ts
