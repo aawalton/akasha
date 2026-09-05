@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/changes/kinds/change-kind.page-type.ts b/changes/kinds/change-kind.page-type.ts
+index e4046fdf772016d9d68a8ba7e4612beb4f5ff301..2b7ec60b5fff37bb10d9b1b27bc4fcafa3b6d412 100644
+--- a/changes/kinds/change-kind.page-type.ts
++++ b/changes/kinds/change-kind.page-type.ts
+@@ -35,7 +35,8 @@ export const changeKind = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What runs on a change of a kind is read off that kind's page.",
++      statement:
++        "Whether the checks and the warrants run on a change of a kind is read off that kind's page.",
+     },
+     {
+       invariantKind: "departure",
