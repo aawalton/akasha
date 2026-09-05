@@ -86,3 +86,21 @@ index cd332f33a00dbec6bd1346c0fa122d6fc892f038..238e098085e7301b43f87f2444df8e34
      },
      {
        invariantKind: "departure",
+diff --git a/email-watch/inbox-watching/inbox-watching.module.ts b/email-watch/inbox-watching/inbox-watching.module.ts
+index 5b1a9ec40fc32219ff404e4d1e644d17402200fc..9d7c05acdd1b187ea2996170a54b24c2b7e4d213 100644
+--- a/email-watch/inbox-watching/inbox-watching.module.ts
++++ b/email-watch/inbox-watching/inbox-watching.module.ts
+@@ -10,8 +10,11 @@ export const inboxWatching = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The watch sits behind the guard on being the file run, so loading this file declares its value and starts nothing.",
++      statement: "The watch sits behind the guard on being the file run.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Loading this file declares its value and starts nothing.",
+     },
+     {
+       invariantKind: "departure",
