@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.code-check.ts b/checks/code-checks/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.code-check.ts
+index e715a82d059a45fc45a7dbb084f9c878247593fe..426fc4135ebb8f02f1c993623d37220ae3ebb317 100644
+--- a/checks/code-checks/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.code-check.ts
++++ b/checks/code-checks/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.code-check.ts
+@@ -112,7 +112,7 @@ export const manifestNamesWhatIsReached = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A dependency a package states as a peer of its own is reached by whoever installs that package.",
++        "A dependency a package states as a peer of its own is reached by the installer of that package.",
+     },
+     {
+       invariantKind: "departure",
