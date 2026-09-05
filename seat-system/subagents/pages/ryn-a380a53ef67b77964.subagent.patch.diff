@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/alan/harness/monarch/seat/monarch-seat.module.ts b/alan/harness/monarch/seat/monarch-seat.module.ts
-index 26f238638569de7033fd174fb0d532ac490c0317..0a053662af4ec43175b429ca19f82325482a56cf 100644
+index 26f238638569de7033fd174fb0d532ac490c0317..16989ca6bd6b3be802160e04b476ed9c63906ca6 100644
 --- a/alan/harness/monarch/seat/monarch-seat.module.ts
 +++ b/alan/harness/monarch/seat/monarch-seat.module.ts
 @@ -14,7 +14,7 @@ export const monarchSeat = {
@@ -12,3 +12,12 @@ index 26f238638569de7033fd174fb0d532ac490c0317..0a053662af4ec43175b429ca19f82325
      },
      {
        invariantKind: "departure",
+@@ -33,7 +33,7 @@ export const monarchSeat = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What the seat cost and how many turns that seat took are reported alongside what that seat said.",
++        "The seat's cost and how many turns that seat took are reported alongside the answer that seat gave.",
+     },
+   ],
+ } as const satisfies Module
