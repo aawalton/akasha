@@ -92,3 +92,38 @@ index 94c0a285f833736c4419cf154a32f181dd441b3b..aff11aa5c5f60b7cadd38d8e47927318
  test("a quoted run is taken out before the cut", () => {
    expect(dequoted('git commit -m "git reset --hard"')).toBe("git commit -m ")
    expect(dequoted("git commit -m 'git reset --hard'")).toBe("git commit -m ")
+diff --git a/hook-system/shell-calls/shell-calls.module.ts b/hook-system/shell-calls/shell-calls.module.ts
+index d182799698cb31862c6863333621d7450bf7a9ac..5ce8ee2113a5e078a0cfe640649f6b332b3420e6 100644
+--- a/hook-system/shell-calls/shell-calls.module.ts
++++ b/hook-system/shell-calls/shell-calls.module.ts
+@@ -24,6 +24,30 @@ export const shellCalls = {
+       invariantKind: "departure",
+       statement: "A newline cuts as a separator does.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The body a heredoc carries is written rather than run.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body is taken out from the line opening it to the line ending it.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The line opening a body is kept, so a redirect on that line is read.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body opening a heredoc of its own opens nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An opening the text never ends takes no line out.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A herestring opens no body.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "Every separator form cuts too.",
