@@ -1,0 +1,97 @@
+diff --git a/service-system/cluster-services/web-app-reading/web-app-reading.module.code.ts b/service-system/cluster-services/web-app-reading/web-app-reading.module.code.ts
+index bac3f6b5d13697f6a977f48c080525cee149e3dd..a51b853957e29c52d027cf8ecfa7377cbb8ef91b 100644
+--- a/service-system/cluster-services/web-app-reading/web-app-reading.module.code.ts
++++ b/service-system/cluster-services/web-app-reading/web-app-reading.module.code.ts
+@@ -6,6 +6,8 @@ import { said } from "@akasha/utils-run/running"
+ 
+ const WEB_APP_SUFFIX = ".web-app.ts"
+ const CLUSTER_SERVICE_SUFFIX = ".cluster-service.ts"
++const MANIFEST_SUFFIX = ".manifest.ts"
++const MANIFEST_CODE_SUFFIX = ".manifest.code.ts"
+ const CLUSTER_SERVICE_SLUGS = "clusterServiceSlugs"
+ const SOURCE_DIRECTORY = "sourceDirectory"
+ const BUILD_COMMAND = "buildCommand"
+@@ -16,7 +18,7 @@ const RESOURCE_NAME = "resourceName"
+ const IMAGE = "image"
+ const REPLICAS = "replicas"
+ const CONTAINER_PORT = "containerPort"
+-const MANIFEST_CODE = "manifestCode"
++const MANIFEST_SLUG = "manifestSlug"
+ const WEB_APP_NEEDS = [SOURCE_DIRECTORY, BUILD_COMMAND]
+ const CLUSTER_SERVICE_NEEDS = [
+   RESOURCE_KIND,
+@@ -25,7 +27,7 @@ const CLUSTER_SERVICE_NEEDS = [
+   IMAGE,
+   REPLICAS,
+   CONTAINER_PORT,
+-  MANIFEST_CODE,
++  MANIFEST_SLUG,
+ ]
+ 
+ export interface Workload {
+@@ -38,6 +40,7 @@ export interface Deployable {
+   readonly slug: string
+   readonly pagePath: string
+   readonly servicePath: string
++  readonly manifestPath: string
+   readonly synthPath: string
+   readonly clusterServiceSlug: string
+   readonly sourceDirectory: string
+@@ -68,6 +71,10 @@ export function namedAmong(
+   return paths.filter((one) => basename(one) === `${slug}${suffix}`)
+ }
+ 
++export function codeBeside(manifestPath: string): string {
++  return `${manifestPath.slice(0, -MANIFEST_SUFFIX.length)}${MANIFEST_CODE_SUFFIX}`
++}
++
+ export function wantingIn(value: Value, keys: readonly string[]): readonly string[] {
+   return keys.filter((one) => value[one] === undefined)
+ }
+@@ -102,6 +109,23 @@ function serviceFor(root: string, slug: string, from: string): Read | string {
+   return named[0] as string
+ }
+ 
++function manifestFor(root: string, slug: string, from: string): Read | string {
++  const pages = pagesUnder(root, MANIFEST_SUFFIX)
++  if (pages === null) return { refused: `git could not list the manifest pages under ${root}` }
++  const named = namedAmong(pages, slug, MANIFEST_SUFFIX)
++  if (named.length === 0) {
++    return {
++      refused: `${from} names the manifest \`${slug}\`, which no page describes, so nothing says what the cluster is given`,
++    }
++  }
++  if (named.length > 1) {
++    return {
++      refused: `${named.length} manifest pages are named \`${slug}\`, so which resources are meant is unsettled: ${named.join(", ")}`,
++    }
++  }
++  return named[0] as string
++}
++
+ export function deployableNamed(root: string, slug: string): Read {
+   const webApps = pagesUnder(root, WEB_APP_SUFFIX)
+   if (webApps === null) return { refused: `git could not list the web app pages under ${root}` }
+@@ -156,10 +180,12 @@ export function deployableNamed(root: string, slug: string): Read {
+       refused: `${found} states no kind, namespace and resource name together, so it names no workload`,
+     }
+   }
+-  const synthPath = textAt(service, MANIFEST_CODE) as string
++  const manifestPath = manifestFor(root, textAt(service, MANIFEST_SLUG) as string, found)
++  if (typeof manifestPath !== "string") return manifestPath
++  const synthPath = codeBeside(manifestPath)
+   if (!existsSync(join(root, synthPath))) {
+     return {
+-      refused: `${found} names its manifest code at ${synthPath}, and no file is there, so nothing says what \`${slug}\` is made of`,
++      refused: `${manifestPath} carries its code at ${synthPath}, and no file is there, so nothing says what \`${slug}\` is made of`,
+     }
+   }
+   return {
+@@ -167,6 +193,7 @@ export function deployableNamed(root: string, slug: string): Read {
+       slug,
+       pagePath,
+       servicePath: found,
++      manifestPath,
+       synthPath,
+       clusterServiceSlug,
+       sourceDirectory: textAt(stated, SOURCE_DIRECTORY) as string,
