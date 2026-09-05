@@ -1,0 +1,15 @@
+diff --git a/infrastructure/networks/cloudflared/cloudflared.manifest.ts b/infrastructure/networks/cloudflared/cloudflared.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0a69aee5ea88dd7970bf4d3020d5e245d7f61228
+--- /dev/null
++++ b/infrastructure/networks/cloudflared/cloudflared.manifest.ts
+@@ -0,0 +1,9 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const cloudflared = {
++  id: "01a07387-a874-7d57-b61a-8779992b0fe9",
++  pageTypeSlug: "manifest",
++  slug: "cloudflared",
++  definition: "the namespace and deployment holding the tunnel traffic reaches the cluster over",
++  code: "ts",
++} as const satisfies Manifest
