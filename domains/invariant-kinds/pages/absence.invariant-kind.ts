@@ -9,7 +9,7 @@ export const absence = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Knowing an absence stops a reader adding it.",
+      statement: "Knowing an absence stops a reader adding what is left out.",
     },
     {
       invariantKind: "departure",
