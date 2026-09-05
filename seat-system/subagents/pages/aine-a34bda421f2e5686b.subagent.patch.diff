@@ -12,10 +12,10 @@ index dc946b1a2194fc3c3ccb97a966adcaa801aa4395..737a4e7c991fc7bd47c80b267724ff9c
  })
  
 diff --git a/code-system/body-text/body-text.module.ts b/code-system/body-text/body-text.module.ts
-index df8acef63b0eebdc180acb168ae46ee8a0e55a9f..a5aed2ceab5986c467fc0246687f0c42d77056f5 100644
+index df8acef63b0eebdc180acb168ae46ee8a0e55a9f..e06605716593e2ba9cb0edd61023c227f7b37f8b 100644
 --- a/code-system/body-text/body-text.module.ts
 +++ b/code-system/body-text/body-text.module.ts
-@@ -10,7 +10,7 @@ export const bodyText = {
+@@ -10,11 +10,11 @@ export const bodyText = {
    invariants: [
      {
        invariantKind: "departure",
@@ -24,8 +24,13 @@ index df8acef63b0eebdc180acb168ae46ee8a0e55a9f..a5aed2ceab5986c467fc0246687f0c42
      },
      {
        invariantKind: "departure",
+-      statement: "A path standing at nothing says nothing rather than empty text.",
++      statement: "A path with nothing at it says nothing rather than empty text.",
+     },
+     {
+       invariantKind: "constraint",
 diff --git a/code-system/code-source/code-source.module.test.ts b/code-system/code-source/code-source.module.test.ts
-index e0374b7666daebdd89059bea4a2b50859d674953..9ada6dbd1ebbaf2db4db328ff46033b8c2eace8b 100644
+index e0374b7666daebdd89059bea4a2b50859d674953..9aeb90d4e06a8bec03a6257f9f88637fa49f9336 100644
 --- a/code-system/code-source/code-source.module.test.ts
 +++ b/code-system/code-source/code-source.module.test.ts
 @@ -28,7 +28,7 @@ function markupIn(source: ts.SourceFile): boolean {
@@ -37,11 +42,20 @@ index e0374b7666daebdd89059bea4a2b50859d674953..9ada6dbd1ebbaf2db4db328ff46033b8
    expect(parsedAs(AT, BODY).fileName).toBe(AT)
    expect(skimmedAs(AT, BODY).fileName).toBe(AT)
  })
+@@ -44,7 +44,7 @@ test("a line is counted from one, so the first line of a body is line 1", () =>
+   expect(lineOf(source, firstOf(source))).toBe(2)
+ })
+ 
+-test("a node stands where its own text starts, not where the blank leading it starts", () => {
++test("a node is where its own text starts, not where the blank leading it starts", () => {
+   const source = parsedAs(AT, LED)
+   const one = firstOf(source)
+   expect(lineOf(source, one)).toBe(4)
 diff --git a/code-system/code-source/code-source.module.ts b/code-system/code-source/code-source.module.ts
-index 9af8e17b0fdce5a8ca3a5d0016b931cef4666ff6..b630066a081305643b80083766a646f98b6aa573 100644
+index 9af8e17b0fdce5a8ca3a5d0016b931cef4666ff6..2916064ca40e3b270b0033ee1f8543ede37928d0 100644
 --- a/code-system/code-source/code-source.module.ts
 +++ b/code-system/code-source/code-source.module.ts
-@@ -4,7 +4,7 @@ export const codeSource = {
+@@ -4,13 +4,13 @@ export const codeSource = {
    id: "01a05026-bc17-76c6-8a84-242b988bdd57",
    pageTypeSlug: "module",
    slug: "code-source",
@@ -50,3 +64,10 @@ index 9af8e17b0fdce5a8ca3a5d0016b931cef4666ff6..b630066a081305643b80083766a646f9
    code: "ts",
    test: "ts",
    invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "One parse stands for every body read as TypeScript here.",
++      statement: "One parse serves every body read as TypeScript here.",
+     },
+     {
+       invariantKind: "departure",
