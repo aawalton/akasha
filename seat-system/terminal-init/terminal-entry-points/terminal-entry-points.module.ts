@@ -18,7 +18,8 @@ export const terminalEntryPoints = {
     },
     {
       invariantKind: "departure",
-      statement: "A function expands the checkout once into a local and spells the rest from it.",
+      statement:
+        "A function expands the checkout once into a local and spells the rest from that local.",
     },
     {
       invariantKind: "departure",
