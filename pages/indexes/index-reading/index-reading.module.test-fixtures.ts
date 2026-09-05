@@ -9,9 +9,9 @@ import {
 } from "node:fs"
 import { dirname, join } from "node:path"
 import { everyFileUnder } from "@akasha/testing-system/walking"
+import type { Entry } from "../entries/index-entries.module.code.ts"
 import { indexIdentity } from "../identity/index-identity.index.ts"
 import { indexImport } from "../import/index-import.index.ts"
-import type { Entry } from "../index-entries/index-entries.module.code.ts"
 import type { Reading } from "../index-shape/index-shape.module.code.ts"
 import {
   type Stamp,

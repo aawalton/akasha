@@ -20,7 +20,7 @@ import {
   type SidecarsBy,
   schemaAt,
   sidecarsOver,
-} from "../index-entries/index-entries.module.code.ts"
+} from "../entries/index-entries.module.code.ts"
 import {
   everyOfType,
   everyPath,

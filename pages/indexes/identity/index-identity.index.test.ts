@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Identifying } from "@akasha/pages-system/page-type-properties"
-import type { Identifier } from "../index-entries/index-entries.module.code.ts"
-import { A } from "../index-entries/index-entries.module.test-fixtures.ts"
+import type { Identifier } from "../entries/index-entries.module.code.ts"
+import { A } from "../entries/index-entries.module.test-fixtures.ts"
 import { identityIn } from "./index-identity.index.code.ts"
 
 function identifying(held: Record<string, ReadonlyMap<string, Identifier>>): Identifying {

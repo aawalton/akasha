@@ -19,10 +19,6 @@ import {
   sourceOver,
 } from "@akasha/pages-system/page-type-properties"
 import { loadedFrom, type Value, valueAt } from "@akasha/pages-system/page-value"
-import { identityIn } from "../identity/index-identity.index.code.ts"
-import { indexIdentity } from "../identity/index-identity.index.ts"
-import { importIn } from "../import/index-import.index.code.ts"
-import { indexImport } from "../import/index-import.index.ts"
 import {
   type Entry,
   fileKeysAt,
@@ -36,7 +32,11 @@ import {
   under,
   uniquePropertiesAt,
   uniquePropertiesIn,
-} from "../index-entries/index-entries.module.code.ts"
+} from "../entries/index-entries.module.code.ts"
+import { identityIn } from "../identity/index-identity.index.code.ts"
+import { indexIdentity } from "../identity/index-identity.index.ts"
+import { importIn } from "../import/index-import.index.code.ts"
+import { indexImport } from "../import/index-import.index.ts"
 import { everyPath, indexThere } from "../index-reading/index-reading.module.code.ts"
 import type { Filing, Reading } from "../index-shape/index-shape.module.code.ts"
 import { stampBuilt, stampSettled } from "../index-stamp/index-stamp.module.code.ts"

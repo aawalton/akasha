@@ -2,7 +2,7 @@ import { addressIn } from "@akasha/pages-system/page-address"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { propertiesIfNamedOf } from "@akasha/pages-system/page-type-properties"
 import { slugOf, slugsIn, textAt, type Value } from "@akasha/pages-system/page-value"
-import { schemaAt } from "../index-entries/index-entries.module.code.ts"
+import { schemaAt } from "../entries/index-entries.module.code.ts"
 import {
   everyOfType,
   type Listed,

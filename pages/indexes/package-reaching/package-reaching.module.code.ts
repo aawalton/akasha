@@ -8,7 +8,7 @@ import {
   fileKeysAt,
   pathsOf,
   under,
-} from "../index-entries/index-entries.module.code.ts"
+} from "../entries/index-entries.module.code.ts"
 import { everyPath, importersIn } from "../index-reading/index-reading.module.code.ts"
 import type { Reading } from "../index-shape/index-shape.module.code.ts"
 import { readingOf } from "../index-surface/index-surface.module.code.ts"

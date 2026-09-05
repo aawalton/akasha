@@ -9,7 +9,7 @@ import {
   sourceIn,
 } from "@akasha/pages-system/page-type-properties"
 import type { Value } from "@akasha/pages-system/page-value"
-import { fileKeysAt, pageTypesIn, schemaAt } from "../index-entries/index-entries.module.code.ts"
+import { fileKeysAt, pageTypesIn, schemaAt } from "../entries/index-entries.module.code.ts"
 import {
   everyOfType,
   everyPath,

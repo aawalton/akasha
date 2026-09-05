@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { A, SCHEMA } from "../index-entries/index-entries.module.test-fixtures.ts"
+import { A, SCHEMA } from "../entries/index-entries.module.test-fixtures.ts"
 import { schemaIn } from "./index-schema.index.code.ts"
 
 test("a property is filed under its page type and slug, and a target it does not name is held as null", () => {

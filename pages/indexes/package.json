@@ -5,7 +5,7 @@
   "exports": {
     ".": "./index-reading/index-reading.module.code.ts",
     "./answering": "./answering/index-answering.module.code.ts",
-    "./entries": "./index-entries/index-entries.module.code.ts",
+    "./entries": "./entries/index-entries.module.code.ts",
     "./generated-properties": "./generated-properties/generated-properties.module.code.ts",
     "./identity": "./identity/index-identity.index.code.ts",
     "./import": "./import/index-import.index.code.ts",

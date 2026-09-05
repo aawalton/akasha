@@ -1,7 +1,7 @@
 import { join } from "node:path"
 import type { Identifying } from "@akasha/pages-system/page-type-properties"
 import { textAt, textsAt, type Value } from "@akasha/pages-system/page-value"
-import { type Entry, under } from "../index-entries/index-entries.module.code.ts"
+import { type Entry, under } from "../entries/index-entries.module.code.ts"
 import { indexIdentity } from "./index-identity.index.ts"
 
 const IDENTITY = indexIdentity.name
