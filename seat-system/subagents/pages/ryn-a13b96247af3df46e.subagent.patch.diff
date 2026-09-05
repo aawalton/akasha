@@ -1,0 +1,13 @@
+diff --git a/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.ts b/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.ts
+index b2b356085557b50a61f36088ac9bb00633dd115b..50c465960bd458d7031294da2eb4f8b2c85ba0b5 100644
+--- a/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.ts
++++ b/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.ts
+@@ -16,7 +16,7 @@ export const introducedPropertyIsAPart = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A property a page type introduces is one it declares and no page type above it declares.",
++        "A property a page type introduces is one that page type declares and no page type above declares.",
+     },
+     {
+       invariantKind: "departure",
