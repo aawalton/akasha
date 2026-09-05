@@ -43,7 +43,7 @@ index 3ffa4271bd2da748d9bc13b9066458ad292c5a45..cbe0f202507ace32cfd7f5b098fd94ba
      {
        invariantKind: "departure",
 diff --git a/alan/harness/monarch/evidence/monarch-evidence.module.ts b/alan/harness/monarch/evidence/monarch-evidence.module.ts
-index e3f236e4b8543bec5a1683923e5e57db88a9a01c..0540c6adfba48acacb04410d45c8776ec51f0187 100644
+index 00607cf5549b277809bcb2a72f30b99f1d562fa1..ac931404dfd64b98dda85d16774ebb9733ee2c76 100644
 --- a/alan/harness/monarch/evidence/monarch-evidence.module.ts
 +++ b/alan/harness/monarch/evidence/monarch-evidence.module.ts
 @@ -20,7 +20,7 @@ export const monarchEvidence = {
@@ -93,6 +93,24 @@ index 761ec0515f70c831b2379f0774c59caa9c32ea95..b32593162dfb43a429a248e83d06de2f
 -      statement:
 -        "Bodies land, removals unlink and carries rename before anything commits, so a failed commit is no no-op.",
 +      statement: "Bodies land, removals unlink and carries rename before anything commits.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/pages/views/view.page-type.ts b/pages/views/view.page-type.ts
+index effd0270caf542c079c90fa4994fbdbeae7efc7c..5e56f10b81d3147d63eced502dd5dc9f3396384c 100644
+--- a/pages/views/view.page-type.ts
++++ b/pages/views/view.page-type.ts
+@@ -112,8 +112,11 @@ export const view = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A person edits a view from the interface that draws it, so its values are written by the browser rather than authored.",
++      statement: "A person edits a view from the interface that draws that view.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A view's values are written by the browser rather than authored.",
      },
      {
        invariantKind: "departure",
