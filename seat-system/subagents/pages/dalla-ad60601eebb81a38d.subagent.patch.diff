@@ -10,6 +10,18 @@ index 9f7ab00202ee4d087f2074a36511280c7b292da9..cc219cd646a065577721520aa1b1fab6
    }
    const relink = read.dryRun ? () => undefined : reachedOver(root, linkingsIn(moved, bodyText))
    let landed: Answer
+diff --git a/commands/remove/remove.command.code.ts b/commands/remove/remove.command.code.ts
+index 0a3abc3d063f4cce717314e3521a0e678f0a5763..720a3c9ed85241599d9ae5378200fb087a18b1b6 100644
+--- a/commands/remove/remove.command.code.ts
++++ b/commands/remove/remove.command.code.ts
+@@ -422,6 +422,7 @@ export async function remove(argv: readonly string[], given: Given): Promise<Ans
+       ...workspacingSaid(spread),
+       ...manifestingSaid(ways),
+     ],
++    draft: given.agentId !== null,
+   }
+   const said = await landingAsked({ ...given, root }, asked)
+   if (said.code !== 0) return said
 diff --git a/commands/replace/replace.command.code.ts b/commands/replace/replace.command.code.ts
 index 82b261b5c9726a8fdc5fea2ee7f335760e510141..fe448e5279b7b35f9b13475d1afddffd76ec29df 100644
 --- a/commands/replace/replace.command.code.ts
