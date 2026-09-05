@@ -1,3 +1,52 @@
+diff --git a/story/wandering-inn/chapter-filing/chapter-filing.module.code.ts b/story/wandering-inn/chapter-filing/chapter-filing.module.code.ts
+index 256d8c5ced5fd94f5a01d848de4ff69e4b31dc24..a0bd57638e109e31f656c98b2027f956b8bd9667 100644
+--- a/story/wandering-inn/chapter-filing/chapter-filing.module.code.ts
++++ b/story/wandering-inn/chapter-filing/chapter-filing.module.code.ts
+@@ -11,6 +11,7 @@ import {
+   chapterPageSlug,
+   chapterSlugOf,
+   publishedDayOf,
++  STORY_ADDRESS,
+   STORY_PAGE_TYPE,
+   STORY_SLUG,
+ } from "../chapter/chapter.module.code.ts"
+@@ -31,23 +32,23 @@ export function assertStoryExists(): undefined {
+     limit: 2,
+   })
+   if ("refused" in asked) {
+-    throw new FilingRefused(`${STORY_PAGE_TYPE}/${STORY_SLUG} went unread: ${asked.refused}`)
++    throw new FilingRefused(`${STORY_ADDRESS} went unread: ${asked.refused}`)
+   }
+   if (asked.rows.length === 0) {
+     throw new FilingRefused(
+-      `no page is at ${STORY_PAGE_TYPE}/${STORY_SLUG}, so a chapter filed under it would ` +
++      `no page is at ${STORY_ADDRESS}, so a chapter filed under it would ` +
+         `hang off a story that is not there`
+     )
+   }
+   if (asked.rows.length > 1) {
+-    throw new FilingRefused(`${asked.rows.length} pages are at ${STORY_PAGE_TYPE}/${STORY_SLUG}`)
++    throw new FilingRefused(`${asked.rows.length} pages are at ${STORY_ADDRESS}`)
+   }
+ }
+ 
+ export function filedChapterLinks(): ReadonlySet<string> {
+   const asked = asking(akashaRoot(), {
+     pageTypeSlug: CHAPTER_PAGE_TYPE,
+-    where: { partOfSlugs: { has: STORY_SLUG } },
++    where: { partOfSlugs: { has: STORY_ADDRESS } },
+     keys: ["externalLink"],
+   })
+   if ("refused" in asked) {
+@@ -85,7 +86,7 @@ export async function fileChapter(chapter: Filing): Promise<string> {
+     pageTypeSlug: CHAPTER_PAGE_TYPE,
+     slug,
+     title: chapter.title,
+-    partOfSlugs: [STORY_SLUG],
++    partOfSlugs: [STORY_ADDRESS],
+     position: chapter.position,
+     ownLength: countChapterWords(chapter.text),
+     unitSlug: WORDS,
 diff --git a/story/wandering-inn/chapter/chapter.module.code.ts b/story/wandering-inn/chapter/chapter.module.code.ts
 index ad93d42b8aedb1a671d1a727a2a104a9d51799ab..15a9157487b7c55e7b76d30e740bdc694fe7a673 100644
 --- a/story/wandering-inn/chapter/chapter.module.code.ts
