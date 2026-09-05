@@ -1,8 +1,8 @@
 diff --git a/alan/fitness/commands/exercise-commands.workspace-package.ts b/alan/fitness/commands/exercise-commands.workspace-package.ts
-index 40ae178190b9691bd156830ea297a0e1ce07396a..5b90e8144e97a2b6738f1ba7a81326d13910eb5e 100644
+index 40ae178190b9691bd156830ea297a0e1ce07396a..1716f09ecf76e04194b8199f246a7b6d77a09d93 100644
 --- a/alan/fitness/commands/exercise-commands.workspace-package.ts
 +++ b/alan/fitness/commands/exercise-commands.workspace-package.ts
-@@ -51,7 +51,7 @@ export const exerciseCommands = {
+@@ -51,12 +51,12 @@ export const exerciseCommands = {
      {
        invariantKind: "gap",
        statement:
@@ -11,3 +11,9 @@ index 40ae178190b9691bd156830ea297a0e1ce07396a..5b90e8144e97a2b6738f1ba7a81326d1
      },
      {
        invariantKind: "gap",
+       statement:
+-        "The pre-session digest is not carried yet, so what it read is reached one command at a time.",
++        "The pre-session digest is not carried yet, so what the digest read is reached one command at a time.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
