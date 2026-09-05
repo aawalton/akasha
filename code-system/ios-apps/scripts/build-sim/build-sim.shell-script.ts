@@ -15,7 +15,8 @@ export const buildSim = {
     },
     {
       invariantKind: "departure",
-      statement: "Which app this script is building is read from what this script was handed.",
+      statement:
+        "Which app this script is building is read from the arguments this script was handed.",
     },
     {
       invariantKind: "departure",
