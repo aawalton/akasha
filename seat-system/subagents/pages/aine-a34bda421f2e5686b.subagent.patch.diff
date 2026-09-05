@@ -29,10 +29,10 @@ index 666b606356d0d6eda32d2404a4c2962766540de2..cd8d29eda93ce667de550ee56a5f30c0
  })
  
 diff --git a/code-system/ios-apps/ios-app.page-type.ts b/code-system/ios-apps/ios-app.page-type.ts
-index fe34777f04412e1aaf43991a23bf73458ff0fb0c..35c0155c7ddbd877352af7866a9e7e589e5aad7d 100644
+index fe34777f04412e1aaf43991a23bf73458ff0fb0c..845fe3e8da2daa47d2373e3d112c15a24e9bfc3a 100644
 --- a/code-system/ios-apps/ios-app.page-type.ts
 +++ b/code-system/ios-apps/ios-app.page-type.ts
-@@ -120,11 +120,11 @@ export const iosApp = {
+@@ -120,15 +120,15 @@ export const iosApp = {
      },
      {
        invariantKind: "departure",
@@ -43,6 +43,11 @@ index fe34777f04412e1aaf43991a23bf73458ff0fb0c..35c0155c7ddbd877352af7866a9e7e58
        invariantKind: "departure",
 -      statement: "A script one app runs stands beside that app.",
 +      statement: "A script one app runs sits beside that app.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A script more than one app runs stands above them all.",
++      statement: "A script more than one app runs sits above them all.",
      },
      {
        invariantKind: "departure",
