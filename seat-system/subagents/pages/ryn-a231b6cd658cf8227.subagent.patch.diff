@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/supervising/memory-reaper-kill/memory-reaper-kill.module.ts b/seat-system/supervising/memory-reaper-kill/memory-reaper-kill.module.ts
+index edcdf182d05f9758db3e33c5bf35ef45f8e8142c..9d2f3493a68a7204499fa2fef861aa1036b95740 100644
+--- a/seat-system/supervising/memory-reaper-kill/memory-reaper-kill.module.ts
++++ b/seat-system/supervising/memory-reaper-kill/memory-reaper-kill.module.ts
+@@ -9,7 +9,7 @@ export const memoryReaperKill = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A process is asked to end before it is made to.",
++      statement: "A process is asked to end before that process is made to.",
+     },
+     {
+       invariantKind: "departure",
