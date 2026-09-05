@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/persona-system/persona-days/persona-day.page-type.ts b/persona-system/persona-days/persona-day.page-type.ts
+index 58358354668e4e8978e130cc205c7d80247875d8..890e2b6f7fa772e2351b91510ed3d599b6e95c8f 100644
+--- a/persona-system/persona-days/persona-day.page-type.ts
++++ b/persona-system/persona-days/persona-day.page-type.ts
+@@ -86,7 +86,7 @@ export const personaDay = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An identity here is what Alan's history is keyed by.",
++      statement: "Alan's history is keyed by an identity here.",
+     },
+   ],
+ } as const satisfies PageType
