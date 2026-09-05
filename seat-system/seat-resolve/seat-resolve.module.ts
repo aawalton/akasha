@@ -13,7 +13,7 @@ export const seatResolve = {
     },
     {
       invariantKind: "departure",
-      statement: "A bare slug names whichever page claimed it first.",
+      statement: "A bare slug names whichever page claimed that slug first.",
     },
     {
       invariantKind: "departure",
