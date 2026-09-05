@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-eso-typings/temper-eso-typings.workspace-package.ts b/temper/temper-eso-typings/temper-eso-typings.workspace-package.ts
+index 4cdf3cf08333b215075d17eb6266108b11831047..d941eae0d0d0096919008a3a5f4fbcf8d7615f59 100644
+--- a/temper/temper-eso-typings/temper-eso-typings.workspace-package.ts
++++ b/temper/temper-eso-typings/temper-eso-typings.workspace-package.ts
+@@ -23,7 +23,7 @@ export const temperEsoTypings = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An opt-in list rather than the dump decides what is declared.",
++      statement: "An opt-in list rather than the dump decides the tokens declared.",
+     },
+     {
+       invariantKind: "departure",
