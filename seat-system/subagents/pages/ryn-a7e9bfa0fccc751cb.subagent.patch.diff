@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/person-system/device-secrets/device-secret.page-type.ts b/person-system/device-secrets/device-secret.page-type.ts
+index 49899c23f77eed335a94ca3a8a6178350692fd40..8e13af7becd572648432439ce9fa8c3559b4a59c 100644
+--- a/person-system/device-secrets/device-secret.page-type.ts
++++ b/person-system/device-secrets/device-secret.page-type.ts
+@@ -39,7 +39,7 @@ export const deviceSecret = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A device secret opens what that account opens and nothing more.",
++      statement: "A device secret opens everything that account opens and nothing more.",
+     },
+     {
+       invariantKind: "departure",
