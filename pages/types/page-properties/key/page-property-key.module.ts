@@ -10,7 +10,8 @@ export const pagePropertyKey = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A key becomes a slug by lowering each capital and setting a `-` before it.",
+      statement:
+        "A key becomes a slug by lowering each capital and setting a `-` before that capital.",
     },
     {
       invariantKind: "departure",
