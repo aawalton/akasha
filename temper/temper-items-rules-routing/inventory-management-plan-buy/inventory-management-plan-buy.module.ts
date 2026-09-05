@@ -13,7 +13,7 @@ export const inventoryManagementPlanBuy = {
     },
     {
       invariantKind: "departure",
-      statement: "A buy rule met by what the account holds adds no errand.",
+      statement: "A buy rule met by the account's holdings adds no errand.",
     },
   ],
 } as const satisfies Module
