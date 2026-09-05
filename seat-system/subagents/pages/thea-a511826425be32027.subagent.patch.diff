@@ -409,11 +409,30 @@ index 0ad35e5728271783521310f1a5dfde8798cca737..fee3fd8b65d72c487638496236fb1f74
    return said
  }
 diff --git a/commands/move/outside/move-outside.module.test.ts b/commands/move/outside/move-outside.module.test.ts
-index 5d8d02a1446586bce11ea444d23493202e4cfea0..da25f6efb1f5ea481fcd2d7837442b09ab1bf1a9 100644
+index 5d8d02a1446586bce11ea444d23493202e4cfea0..94f989299bdb26d532931e965c218bc40a97519f 100644
 --- a/commands/move/outside/move-outside.module.test.ts
 +++ b/commands/move/outside/move-outside.module.test.ts
-@@ -25,7 +25,13 @@ import {
+@@ -11,21 +11,49 @@ import {
+   BINARY,
+   BINARY_BODY,
+   bodyIn,
++  CARRY,
+   FOLDER,
+   FOLDER_AT,
+   FOLDER_PAIR,
+   givenIn,
+   LOCK,
+   LOCKED,
++  OTHER,
+   outsideMoved,
+   outsideWorld,
+   REACHED,
+   REACHER,
+   reachMoved,
++  rebuilt,
++  repoWith,
    scratch,
++  TARGET,
    told,
  } from "../move.command.test-fixtures.ts"
 -import { outsideSaid, reachesIn, repointedText } from "./move-outside.module.code.ts"
@@ -424,10 +443,27 @@ index 5d8d02a1446586bce11ea444d23493202e4cfea0..da25f6efb1f5ea481fcd2d7837442b09
 +  reachesIn,
 +  repointedText,
 +} from "./move-outside.module.code.ts"
++<<<<<<< what this change would leave
++=======
++
++const TABLE = "akasha/one/routes.ts"
++
++const ROUTE = "akasha/one/routes/api.$.ts"
++
++const ROUTE_AT = "akasha/one/routes/no-such/no-such.route.code.ts"
++
++const TABLE_CODE = `export const routes = [["api/*", "routes/api.$.ts"]]\n`
++
++const TABLE_REPOINTED = `export const routes = [["api/*", "routes/no-such/no-such.route.code.ts"]]\n`
++
++const ALIKE = "akasha/one/alike.module.code.ts"
++
++const ALIKE_CODE = `export const said = ["two/other.module.code.ts"]\n`
++>>>>>>> what HEAD holds
  
  afterAll(scratch.sweep)
  
-@@ -107,6 +113,29 @@ test("a reach is answered with where the reach sits and what it becomes", () =>
+@@ -107,6 +135,29 @@ test("a reach is answered with where the reach sits and what it becomes", () =>
    expect(found.map((one) => one.now)).toEqual(["../../akasha/far/one"])
  })
  
@@ -457,7 +493,7 @@ index 5d8d02a1446586bce11ea444d23493202e4cfea0..da25f6efb1f5ea481fcd2d7837442b09
  test("a body naming nothing that moved comes back as that body was", () => {
    expect(repointedText(LOCK, LOCKED, new Map())).toBe(LOCKED)
  })
-@@ -154,7 +183,14 @@ test("a property saying an author writes the file leaves that file repointed", a
+@@ -154,7 +205,37 @@ test("a property saying an author writes the file leaves that file repointed", a
  })
  
  test("finding no further file is said as plainly as finding something", () => {
@@ -474,6 +510,29 @@ index 5d8d02a1446586bce11ea444d23493202e4cfea0..da25f6efb1f5ea481fcd2d7837442b09
 +  expect(alikeSaid([LOCK], true)[0]).toContain(`judge it — ${LOCK}`)
 +  expect(outsideSaid([], [], [LOCK], false)[1]).toContain("was left alone")
 +  expect(outsideSaid([LOCK], [], [LOCK], false)[1]).toContain("was left alone")
++<<<<<<< what this change would leave
++=======
++})
++
++test("a table naming what moved beneath its own folder is repointed and the answer says so", async () => {
++  const root = rebuilt(repoWith({ [TABLE]: TABLE_CODE, [ROUTE]: OTHER }))
++  const dry = await move(["--from", ROUTE, "--to", ROUTE_AT, "--dry-run"], givenIn(root))
++  expect(dry.refusals).toEqual([])
++  expect(told(dry)).toContain(`spelling what moved by its path would be repointed — ${TABLE}`)
++  expect(told(dry)).not.toContain("no further file spelled what moved by its path")
++  expect(bodyIn(root, TABLE)).toBe(TABLE_CODE)
++  const said = await move(["--from", ROUTE, "--to", ROUTE_AT], givenIn(root))
++  expect(said.refusals).toEqual([])
++  expect(bodyIn(root, TABLE)).toBe(TABLE_REPOINTED)
++})
++
++test("a body carrying a name what moved is also called is named rather than changed", async () => {
++  const root = rebuilt(repoWith({ [ALIKE]: ALIKE_CODE, [TARGET]: OTHER }))
++  const said = await move(CARRY, givenIn(root))
++  expect(said.refusals).toEqual([])
++  expect(bodyIn(root, ALIKE)).toBe(ALIKE_CODE)
++  expect(told(said)).toContain(`also called and was left alone — read each and judge it — ${ALIKE}`)
++>>>>>>> what HEAD holds
  })
 diff --git a/commands/move/outside/move-outside.module.ts b/commands/move/outside/move-outside.module.ts
 index 411d2573f15b39e9fd97c5d6ec5f73e17da66751..12f5f887572b9cdfea199dad13f5979eb9f35c6c 100644
@@ -588,10 +647,11 @@ index da2d9f1b7e93ecd117fee2583cf23313299efc3d..e90714d3e26f6782ce82dbb567269c06
      out = `${out}${text.slice(at, one.start)}${JSON.stringify(next)}`
      at = one.end
 diff --git a/commands/move/repointing/move-repointing.module.test.ts b/commands/move/repointing/move-repointing.module.test.ts
-index e6259a3d7725e8e8e3593e1e43c84c5127910569..3f638d3d9abacce2ac943e79b8111b54a1af4410 100644
+index e6259a3d7725e8e8e3593e1e43c84c5127910569..a5ac22f7cf7b7e71f771f2b47ec060086425f174 100644
 --- a/commands/move/repointing/move-repointing.module.test.ts
 +++ b/commands/move/repointing/move-repointing.module.test.ts
-@@ -1,5 +1,19 @@
+@@ -1,7 +1,54 @@
++<<<<<<< what this change would leave
  import { expect, test } from "bun:test"
 -import { ARRIVES, CODE, HOLDER, TARGET } from "../move.command.test-fixtures.ts"
 +import {
@@ -608,18 +668,58 @@ index e6259a3d7725e8e8e3593e1e43c84c5127910569..3f638d3d9abacce2ac943e79b8111b54
 +  TYPED_REPOINTED,
 +  TYPED_ROUTE,
 +  TYPED_ROUTE_AT,
++=======
++import { afterAll, expect, test } from "bun:test"
++import { move } from "../move.command.code.ts"
++import {
++  ARRIVES,
++  bodyIn,
++  CODE,
++  givenIn,
++  HOLDER,
++  rebuilt,
++  repoWith,
++  scratch,
++  TARGET,
++>>>>>>> what HEAD holds
 +} from "../move.command.test-fixtures.ts"
  import { repointed } from "./move-repointing.module.code.ts"
  
++afterAll(scratch.sweep)
++
++const TABLE = "akasha/one/routes.ts"
++
++const TYPED_ROUTE = "akasha/one/routes/api.addons.download.ts"
++
++const TYPED_ROUTE_AT = "akasha/one/routes/addon-bundle/addon-bundle.route.code.ts"
++
++const TYPED_CODE = `import type { Route } from "./+types/api.addons.download"
++
++export const it: Route | null = null
++`
++
++const TYPED_REPOINTED = `import type { Route } from "./+types/addon-bundle.route.code"
++
++export const it: Route | null = null
++`
++
  test("a specifier reaching a file that moves in the same act reaches its new path", () => {
-@@ -12,3 +26,32 @@ test("a specifier reaching a file that moves in the same act reaches its new pat
+   const moved = new Map([[TARGET, ARRIVES]])
+   const said = repointed(HOLDER, HOLDER, CODE, moved)
+@@ -12,3 +59,49 @@ test("a specifier reaching a file that moves in the same act reaches its new pat
  test("a body naming nothing that moved comes back as it stands", () => {
    expect(repointed(HOLDER, HOLDER, CODE, new Map())).toBe(CODE)
  })
 +
 +test("a name that is no specifier is read against the folder of the body naming it", () => {
++<<<<<<< what this change would leave
 +  const moved = new Map([[ROUTE, ROUTE_AT]])
 +  expect(repointed(TABLE, TABLE, TABLE_CODE, moved)).toBe(TABLE_REPOINTED)
++=======
++  const moved = new Map([["akasha/one/two/held.ts", "akasha/one/three/held.ts"]])
++  const text = `export const at = "two/held.ts"\n`
++  expect(repointed(TABLE, TABLE, text, moved)).toBe(`export const at = "three/held.ts"\n`)
++>>>>>>> what HEAD holds
 +})
 +
 +test("a name landing on nothing that moved, and one holding no slash, are left alone", () => {
@@ -645,6 +745,17 @@ index e6259a3d7725e8e8e3593e1e43c84c5127910569..3f638d3d9abacce2ac943e79b8111b54
 +  const text = `import type { Route } from "./+types/keep"\n`
 +  expect(repointed(was, now, text, new Map([[was, now]]))).toBe(text)
 +})
++<<<<<<< what this change would leave
++=======
++
++test("a move leaves a route naming the generated types of where that route arrived", async () => {
++  const root = rebuilt(repoWith({ [TYPED_ROUTE]: TYPED_CODE }))
++  expect(bodyIn(root, TYPED_ROUTE)).toBe(TYPED_CODE)
++  const said = await move(["--from", TYPED_ROUTE, "--to", TYPED_ROUTE_AT], givenIn(root))
++  expect(said.refusals).toEqual([])
++  expect(bodyIn(root, TYPED_ROUTE_AT)).toBe(TYPED_REPOINTED)
++})
++>>>>>>> what HEAD holds
 diff --git a/commands/move/repointing/move-repointing.module.ts b/commands/move/repointing/move-repointing.module.ts
 index 4aa64e26aebde7861fe11775bf0b506eee2244a0..b9232a5dbb97f080a0861c498124039a8daa1d01 100644
 --- a/commands/move/repointing/move-repointing.module.ts
