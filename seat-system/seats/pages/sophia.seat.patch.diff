@@ -1,0 +1,21 @@
+diff --git a/akasha.domain.ts b/akasha.domain.ts
+index c3c0c02129d93b6d2ee3bc1e2a5227478285f598..3464941be9eb2f583baeeff639d08db0390e9a71 100644
+--- a/akasha.domain.ts
++++ b/akasha.domain.ts
+@@ -110,16 +110,6 @@ export const akasha = {
+         "Get context and then fix issues blocking your work.",
+       ],
+     },
+-    {
+-      directiveKind: "principle",
+-      name: "Value",
+-      act: "Choose what to do next and whether to do it at all by the value it delivers to Alan.",
+-      warrant: "Anything you do is something else not done, and nothing reports what that was.",
+-      aids: [
+-        "Never pick the tidier job over the useful one.",
+-        "Spend on what makes all later work cheaper.",
+-      ],
+-    },
+     {
+       directiveKind: "principle",
+       name: "Grounding",
