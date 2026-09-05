@@ -117,6 +117,21 @@ export function carriedIn(
   )
 }
 
+const declaredBySlug = new WeakMap<Source, Map<string, readonly Carried[]>>()
+
+function declaredFor(value: Value, source: Source, own: string): readonly Carried[] {
+  let held = declaredBySlug.get(source)
+  if (held === undefined) {
+    held = new Map()
+    declaredBySlug.set(source, held)
+  }
+  const found = held.get(own)
+  if (found !== undefined) return found
+  const made = carriedFrom(value, source, own)
+  held.set(own, made)
+  return made
+}
+
 export function declarationsIfNamed(
   pageTypeSlug: string,
   source: Source
@@ -130,7 +145,7 @@ export function declarationsIfNamed(
     walked.add(own)
     const value = source.pageTypeAt(own)
     if (value === null) return null
-    carried.push(...carriedFrom(value, source, own))
+    carried.push(...declaredFor(value, source, own))
     for (const above of [...slugsIn(value[EXTENDS])].reverse()) waiting.push(above)
   }
   return carried
