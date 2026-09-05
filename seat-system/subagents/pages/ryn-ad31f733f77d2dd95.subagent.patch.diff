@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/change-freshness/change-freshness.module.ts b/command-system/change-freshness/change-freshness.module.ts
+index 1861509cb39994b47837f3b740d69db3f1b8bc79..ad274b7464e4cfc74564947bbbe8043ea1866bb2 100644
+--- a/command-system/change-freshness/change-freshness.module.ts
++++ b/command-system/change-freshness/change-freshness.module.ts
+@@ -11,7 +11,7 @@ export const changeFreshness = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A body is overwritten only where what is on disk is the body its writer read.",
++      statement: "A body is overwritten only where the body on disk is the body its writer read.",
+     },
+     {
+       invariantKind: "departure",
