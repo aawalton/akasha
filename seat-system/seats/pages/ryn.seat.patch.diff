@@ -1,5 +1,5 @@
 diff --git a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
-index 26b1c714044e720c60f4f47a5c1d5de6eeca4474..6c6c08cb972f462aa0516fc66dcdc6841f27c2f9 100644
+index 26b1c714044e720c60f4f47a5c1d5de6eeca4474..ae3f2a76f204be4ec411ddde282350aede2faaa8 100644
 --- a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
 +++ b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
 @@ -116,6 +116,7 @@ const PRONOUN = [
@@ -10,3 +10,17 @@ index 26b1c714044e720c60f4f47a5c1d5de6eeca4474..6c6c08cb972f462aa0516fc66dcdc684
  const DEGREE = ["all", "least", "most"]
  const MARKERS = ["advmod", "case", "cc", "det", "fixed", "punct"]
  const OPENERS = ["SCONJ", "CCONJ"]
+@@ -230,3 +231,13 @@ export function determinesABacktickedName(sentence: DepSentence, token: DepToken
+   const next = byId(sentence, token.id + 1)
+   return next !== undefined && lower(next) === "`"
+ }
++
++export function isReciprocal(sentence: DepSentence, token: DepToken): boolean {
++  return childrenByRel(sentence, token.id, "fixed").some((one) =>
++    RECIPROCAL.includes(`${lower(token)} ${lower(one)}`)
++  )
++}
++
++export function headsAComparative(sentence: DepSentence, token: DepToken): boolean {
++  return childrenByRel(sentence, token.id, "fixed").some((one) => lower(one) === "than")
++}
