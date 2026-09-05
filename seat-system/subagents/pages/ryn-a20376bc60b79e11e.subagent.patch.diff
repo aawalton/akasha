@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/fitness/commands/exercise-commands.workspace-package.ts b/alan/fitness/commands/exercise-commands.workspace-package.ts
+index 1716f09ecf76e04194b8199f246a7b6d77a09d93..48d253b2a14e0c5cfb7d0cf35c8c1a9b5e4031cb 100644
+--- a/alan/fitness/commands/exercise-commands.workspace-package.ts
++++ b/alan/fitness/commands/exercise-commands.workspace-package.ts
+@@ -56,7 +56,7 @@ export const exerciseCommands = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "The pre-session digest is not carried yet, so what the digest read is reached one command at a time.",
++        "The pre-session digest is not carried yet, so its readings are reached one command at a time.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
