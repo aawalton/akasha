@@ -19,7 +19,7 @@ export const orphanSweeping = {
     {
       invariantKind: "departure",
       statement:
-        "A live resource labelled as a deploy's that no manifest names has drifted, what runs no longer following what the code says.",
+        "A live resource labelled as a deploy's that no manifest names has drifted from the code.",
     },
     {
       invariantKind: "departure",
