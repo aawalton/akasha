@@ -65,7 +65,7 @@ async function pngsIn(dir: string): Promise<readonly string[]> {
 
 async function urlsIn(dir: string, wanted: number): Promise<readonly string[]> {
   const every = await pngsIn(dir)
-  if (every.length === 0) throw new OperationalError(`no PNG frames stand in ${dir}`)
+  if (every.length === 0) throw new OperationalError(`no PNG frames are in ${dir}`)
   const urls: string[] = []
   for (const at of selectFrameIndices(every.length, wanted)) {
     const path = every[at]

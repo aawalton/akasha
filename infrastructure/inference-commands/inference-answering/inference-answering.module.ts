@@ -14,7 +14,7 @@ export const inferenceAnswering = {
     },
     {
       invariantKind: "departure",
-      statement: "An alias is read as the flag it stands for.",
+      statement: "An alias is read as the flag it represents.",
     },
     {
       invariantKind: "departure",
