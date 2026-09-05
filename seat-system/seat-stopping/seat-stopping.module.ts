@@ -55,7 +55,7 @@ export const seatStopping = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here starts a seat or writes what a seat states.",
+      statement: "Nothing here starts a seat or writes the values a seat states.",
     },
     {
       invariantKind: "absence",
