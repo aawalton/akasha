@@ -207,3 +207,11 @@ index ed88780bc032dd0eb9dc0d53668aa7871b300156..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../infrastructure/backup-retention
 \ No newline at end of file
+diff --git a/infrastructure/ci-benchmark/ci-benchmark b/infrastructure/ci-benchmark/ci-benchmark
+deleted file mode 120000
+index 3f6c4c102a2505da0d0c483c692c2ad26120a71e..0000000000000000000000000000000000000000
+--- a/infrastructure/ci-benchmark/ci-benchmark
++++ /dev/null
+@@ -1 +0,0 @@
+-../../infrastructure/ci-benchmark
+\ No newline at end of file
