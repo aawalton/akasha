@@ -1,14 +1,20 @@
 diff --git a/pages/system-service/page-asking/page-asking.module.ts b/pages/system-service/page-asking/page-asking.module.ts
-index cdf143a0517bd3e1eb21a32a43bc5366ec8455ba..15ede60e2513e2adbd5b72fa9264c5257ccdd33f 100644
+index cdf143a0517bd3e1eb21a32a43bc5366ec8455ba..82bf5da4504e8a900e97cf5d04cfce5fe5418d98 100644
 --- a/pages/system-service/page-asking/page-asking.module.ts
 +++ b/pages/system-service/page-asking/page-asking.module.ts
-@@ -14,7 +14,8 @@ export const pageAsking = {
+@@ -14,11 +14,13 @@ export const pageAsking = {
      },
      {
        invariantKind: "departure",
 -      statement: "The pages of that page type and of every page type extending it are answered.",
 +      statement:
 +        "The pages of that page type and of every page type extending that page type are answered.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page type extending it is reached however far below it that page type is.",
++      statement:
++        "However far below the named page type a page type extends, that page type is reached.",
      },
      {
        invariantKind: "departure",
