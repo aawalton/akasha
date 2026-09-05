@@ -1087,3 +1087,11 @@ index 68264e9ea3ee361caaff6be28c2f5153241aaf5d..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-items-filters-addon
 \ No newline at end of file
+diff --git a/temper/temper-items-filters-core/temper-items-filters-core b/temper/temper-items-filters-core/temper-items-filters-core
+deleted file mode 120000
+index 58416e7a5ca57dea287fe6053a9d8d183e6b6e35..0000000000000000000000000000000000000000
+--- a/temper/temper-items-filters-core/temper-items-filters-core
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-items-filters-core
+\ No newline at end of file
