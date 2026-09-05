@@ -1,3 +1,16 @@
+diff --git a/commands/calendar/calendar.command.test.ts b/commands/calendar/calendar.command.test.ts
+index cbebea2b34336233ad41dc2a999a25b170f9469b..881c85205dcbb622a848584c57c78f8c69fbc341 100644
+--- a/commands/calendar/calendar.command.test.ts
++++ b/commands/calendar/calendar.command.test.ts
+@@ -57,7 +57,7 @@ test("an act naming no event where one is needed is refused", () => {
+   expect(refusedBy(["events", "get"])[0]).toContain("--event")
+ })
+ 
+-test("the event is read from the word standing after the act", () => {
++test("the event is read from the word after the act", () => {
+   const read = readIn(["events", "get", "abc123"])
+   if ("refused" in read) throw new Error("this was refused")
+   expect(read.said.get("--event")).toBe("abc123")
 diff --git a/commands/calendar/calendar.command.ts b/commands/calendar/calendar.command.ts
 index cab7bacb650cc7eaf2ef955eb7fcfa1ed5df9679..63f20feff994fe293337918c270deef400223abd 100644
 --- a/commands/calendar/calendar.command.ts
