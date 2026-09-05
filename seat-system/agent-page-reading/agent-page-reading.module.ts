@@ -17,7 +17,7 @@ export const agentPageReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A page is made to declare the id it was found under.",
+      statement: "A page is made to declare the id that page was found under.",
     },
     {
       invariantKind: "departure",
