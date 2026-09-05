@@ -1,0 +1,14 @@
+diff --git a/temper/temper-player-completion/shalidor-library-collections-00/shalidor-library-collections-00.module.ts b/temper/temper-player-completion/shalidor-library-collections-00/shalidor-library-collections-00.module.ts
+index cf634f53e2f53188cb19a8154bcf6f7f3d637651..30e48964106f4dd63004cccf82a4b80ebcf82be1 100644
+--- a/temper/temper-player-completion/shalidor-library-collections-00/shalidor-library-collections-00.module.ts
++++ b/temper/temper-player-completion/shalidor-library-collections-00/shalidor-library-collections-00.module.ts
+@@ -16,9 +16,5 @@ export const shalidorLibraryCollections00 = {
+       invariantKind: "constraint",
+       statement: "These entries are one unbroken run of the whole catalog's order.",
+     },
+-    {
+-      invariantKind: "gap",
+-      statement: "A collection moved between runs breaks every build hash saved.",
+-    },
+   ],
+ } as const satisfies Module
