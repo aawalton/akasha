@@ -1,0 +1,67 @@
+diff --git a/commands/seat/seat.command.test.ts b/commands/seat/seat.command.test.ts
+index 55d1eac7743430fc6d6269c801a56b9d66c6cd77..b7618a295396ec52a1d94f103e59e72b30d9ba30 100644
+--- a/commands/seat/seat.command.test.ts
++++ b/commands/seat/seat.command.test.ts
+@@ -78,3 +78,62 @@ test("a process stating no start time is no process", () => {
+   expect(holderIn("")).toBeNull()
+   expect(holderIn(null)).toBeNull()
+ })
++
++test("nothing said names every subject and act it takes", async () => {
++  const said = await seat([], given("/nowhere"))
++  expect(said.code).toBe(1)
++  expect(said.refusals[0]).toContain("resume")
++  expect(said.refusals[0]).toContain("reset")
++})
++
++test("a subject it does not act on names the acts it does take", async () => {
++  const said = await seat(["wibble"], given("/nowhere"))
++  expect(said.code).toBe(1)
++  expect(said.refusals[0]).toContain("resume")
++  expect(said.refusals[0]).toContain("reset")
++})
++
++test("a resume naming no seat is refused", async () => {
++  const said = await seat(["resume"], given("/nowhere"))
++  expect(said.code).toBe(1)
++  expect(said.refusals[0]).toContain("names the seat to resume")
++})
++
++test("a resume given a flag where the seat goes is refused rather than reading it as a name", async () => {
++  const said = await seat(["resume", "--prompt"], given("/nowhere"))
++  expect(said.code).toBe(1)
++  expect(said.refusals[0]).toContain("is a flag")
++})
++
++test("a resume carrying a flag it does not take is refused", async () => {
++  const said = await seat(["resume", "athena", "--json"], given("/nowhere"))
++  expect(said.code).toBe(1)
++  expect(said.refusals[0]).toContain("--json")
++})
++
++test("a resume reading a flag past a value it does not take is refused", async () => {
++  const said = await seat(
++    ["resume", "athena", "--start-mode", "headless", "--now"],
++    given("/nowhere")
++  )
++  expect(said.code).toBe(1)
++  expect(said.refusals[0]).toContain("--now")
++})
++
++test("a reset naming no seat is refused", async () => {
++  const said = await seat(["reset"], given("/nowhere"))
++  expect(said.code).toBe(1)
++  expect(said.refusals[0]).toContain("names the seat to reset")
++})
++
++test("a reset given a flag where the seat goes is refused rather than reading it as a name", async () => {
++  const said = await seat(["reset", "--force"], given("/nowhere"))
++  expect(said.code).toBe(1)
++  expect(said.refusals[0]).toContain("is a flag")
++})
++
++test("a reset carrying anything past the seat is refused", async () => {
++  const said = await seat(["reset", "athena", "--force"], given("/nowhere"))
++  expect(said.code).toBe(1)
++  expect(said.refusals[0]).toContain("--force")
++})
