@@ -9,8 +9,7 @@ export const rbacClusterRoleRules = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A verb a namespace role grants is granted here too, because Kubernetes refuses a role granting more than its granter holds.",
+      statement: "A verb a namespace role grants is granted here too.",
     },
     {
       invariantKind: "departure",
