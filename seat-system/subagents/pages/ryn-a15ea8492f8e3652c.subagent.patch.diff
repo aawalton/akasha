@@ -1,5 +1,5 @@
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
-index 9d1a6e7c93f2a8cfdd42d106eadd5dbdcc6a7994..5979b561339a496859b8fdd91a45c8bb8cae2b82 100644
+index 9d1a6e7c93f2a8cfdd42d106eadd5dbdcc6a7994..1a871de9764fa8a04c32bac38665bf3b5cafd731 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
 @@ -49,7 +49,7 @@ export const codeEditorDataInterface = {
@@ -17,6 +17,15 @@ index 9d1a6e7c93f2a8cfdd42d106eadd5dbdcc6a7994..5979b561339a496859b8fdd91a45c8bb
        statement:
 -        "A change lands at once where the file it changes has been quiet for its cooldown.",
 +        "A change lands at once where the file that change changes has been quiet for its cooldown.",
+     },
+     {
+       invariantKind: "departure",
+@@ -67,7 +67,7 @@ export const codeEditorDataInterface = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A cooldown is counted for one file rather than across them.",
++      statement: "A cooldown is counted for one file rather than across files.",
      },
      {
        invariantKind: "departure",
