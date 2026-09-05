@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/landing-journal/page-landing-journal.module.ts b/pages/landing-journal/page-landing-journal.module.ts
+index 85929ca2e4a9fe805cd4c9ac4b17cf728eda6e08..31c24923e5b8f0f2189087d642de9e4e95e5729e 100644
+--- a/pages/landing-journal/page-landing-journal.module.ts
++++ b/pages/landing-journal/page-landing-journal.module.ts
+@@ -10,7 +10,8 @@ export const pageLandingJournal = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A journal is named for the checkout it represents rather than for its writer.",
++      statement:
++        "A journal is named for the checkout that journal represents rather than for its writer.",
+     },
+     {
+       invariantKind: "departure",
