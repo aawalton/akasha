@@ -1,0 +1,13 @@
+diff --git a/alan/fitness/commands/exercise-log-set/exercise-log-set.command.ts b/alan/fitness/commands/exercise-log-set/exercise-log-set.command.ts
+index 3cff96b9d2e85892ee3afdeeb897a5b1b38517da..bd7ba88c28589e97b5373cf3a0aa475fdc77d3d4 100644
+--- a/alan/fitness/commands/exercise-log-set/exercise-log-set.command.ts
++++ b/alan/fitness/commands/exercise-log-set/exercise-log-set.command.ts
+@@ -40,7 +40,7 @@ export const exerciseLogSet = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A set is numbered against the movement it is of within the session.",
++      statement: "A set is numbered against the movement that set is of within the session.",
+     },
+     {
+       invariantKind: "departure",
