@@ -32,7 +32,7 @@ export const terminalBash = {
     },
     {
       invariantKind: "departure",
-      statement: "A comment above a block says what the block is for.",
+      statement: "A comment above a block states the block's purpose.",
     },
     {
       invariantKind: "absence",
