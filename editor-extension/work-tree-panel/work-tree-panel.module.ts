@@ -29,7 +29,7 @@ export const workTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A repaint before any tree stands does nothing.",
+      statement: "A repaint before any tree exists does nothing.",
     },
     {
       invariantKind: "departure",

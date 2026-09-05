@@ -34,7 +34,7 @@ export const domainTreeReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the place in the answer the bad row stood at.",
+      statement: "A refusal names the place in the answer the bad row was at.",
     },
     {
       invariantKind: "departure",

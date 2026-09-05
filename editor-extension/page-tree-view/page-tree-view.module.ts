@@ -21,15 +21,15 @@ export const pageTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row holding a match is drawn open while a filter stands.",
+      statement: "A row holding a match is drawn open while a filter is there.",
     },
     {
       invariantKind: "departure",
-      statement: "A row is identified apart while a filter stands, so the editor redraws it.",
+      statement: "A row is identified apart while a filter is there, so the editor redraws it.",
     },
     {
       invariantKind: "departure",
-      statement: "A row carries how many rows stand under it.",
+      statement: "A row carries how many rows are under it.",
     },
     {
       invariantKind: "departure",
@@ -37,11 +37,11 @@ export const pageTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row standing for no page opens no document rather than opening the wrong one.",
+      statement: "A row representing no page opens no document rather than opening the wrong one.",
     },
     {
       invariantKind: "departure",
-      statement: "How many rows matched is answered as none where no filter stands.",
+      statement: "How many rows matched is answered as none where no filter is there.",
     },
     {
       invariantKind: "absence",

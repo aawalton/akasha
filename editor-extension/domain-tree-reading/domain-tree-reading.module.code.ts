@@ -9,7 +9,7 @@ const CALL_TIMEOUT_MS = 30_000
 const MAX_BUFFER = 16 * 1024 * 1024
 
 // The champion tree beside the checkout it was composed from, so a reader joins the two to open the
-// document a row stands for.
+// document a row represents.
 export interface DomainTree extends ChampionTree {
   readonly repo: string
 }

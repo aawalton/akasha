@@ -99,7 +99,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 
   // A SEAT MOVING REPAINTS RATHER THAN RE-READS. Reading the colors opens no initiative page, so a
   // turn changing color costs a small fraction of the tree, and a repaint that moves no color
-  // leaves the rows exactly as they stand.
+  // leaves the rows exactly as they are.
   const repaint = async (trigger: string): Promise<undefined> => {
     if (current === undefined) {
       return undefined

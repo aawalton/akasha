@@ -21,11 +21,11 @@ export const workTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row holding a match is drawn open while a filter stands.",
+      statement: "A row holding a match is drawn open while a filter is there.",
     },
     {
       invariantKind: "departure",
-      statement: "A row is identified apart while a filter stands, so the editor redraws it.",
+      statement: "A row is identified apart while a filter is there, so the editor redraws it.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,7 @@ export const workTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row carrying a color stands under a scheme of this panel's own.",
+      statement: "A row carrying a color sits under a scheme of this panel's own.",
     },
     {
       invariantKind: "departure",
@@ -50,7 +50,7 @@ export const workTreeView = {
     {
       invariantKind: "departure",
       statement:
-        "A row opening no document says in its tooltip that it stands for nothing declared.",
+        "A row opening no document says in its tooltip that it represents nothing declared.",
     },
     {
       invariantKind: "absence",

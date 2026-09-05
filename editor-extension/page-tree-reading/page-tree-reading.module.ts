@@ -38,7 +38,7 @@ export const pageTreeReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A row standing for no page opens no document.",
+      statement: "A row representing no page opens no document.",
     },
     {
       invariantKind: "departure",

@@ -21,11 +21,11 @@ export const domainTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row holding a match is drawn open while a filter stands.",
+      statement: "A row holding a match is drawn open while a filter is there.",
     },
     {
       invariantKind: "departure",
-      statement: "A row is identified apart while a filter stands, so the editor redraws it.",
+      statement: "A row is identified apart while a filter is there, so the editor redraws it.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,7 @@ export const domainTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row carries how many rows stand under it.",
+      statement: "A row carries how many rows are under it.",
     },
     {
       invariantKind: "departure",
@@ -45,7 +45,7 @@ export const domainTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "How many rows matched is answered as none where no filter stands.",
+      statement: "How many rows matched is answered as none where no filter is there.",
     },
     {
       invariantKind: "absence",
