@@ -90,11 +90,11 @@ export const watcherUpdating = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller may hand in what fetches the deployed version.",
+      statement: "A caller may hand in the fetch answering the deployed version.",
     },
     {
       invariantKind: "departure",
-      statement: "A caller may hand in what fetches the executable.",
+      statement: "A caller may hand in the fetch answering the executable.",
     },
     {
       invariantKind: "departure",
@@ -102,7 +102,7 @@ export const watcherUpdating = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller may hand in what exits the worker.",
+      statement: "A caller may hand in the act exiting the worker.",
     },
     {
       invariantKind: "departure",
