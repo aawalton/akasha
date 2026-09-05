@@ -27,5 +27,6 @@ export const temperProgress = {
     "relation-property/action",
     "relation-property/condition-field",
     "text-property/condition-value",
+    "text-property/destination",
   ],
 } as const satisfies Domain
