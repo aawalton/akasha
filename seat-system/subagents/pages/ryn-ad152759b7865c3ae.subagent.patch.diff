@@ -1,0 +1,14 @@
+diff --git a/seat-system/seat-session/seat-session.module.ts b/seat-system/seat-session/seat-session.module.ts
+index a67d5368abaecee3b517a1dfb2ee41c036f36ba7..21536ac746dd3c0d75d2311c7b5ac3b71391b869 100644
+--- a/seat-system/seat-session/seat-session.module.ts
++++ b/seat-system/seat-session/seat-session.module.ts
+@@ -13,7 +13,8 @@ export const seatSession = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A seat whose page has gone is read out of the history it was committed into.",
++      statement:
++        "A seat whose page has gone is read out of the history that seat was committed into.",
+     },
+     {
+       invariantKind: "departure",
