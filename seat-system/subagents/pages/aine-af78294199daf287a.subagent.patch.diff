@@ -1,0 +1,117 @@
+diff --git a/commands/ios-app/ios-app.command.code.ts b/commands/ios-app/ios-app.command.code.ts
+index c2cdc36b4531d6916b6b0865c967ef6f63bb1054..4451a38374c8b2ebc79d04336c66c3987295de81 100644
+--- a/commands/ios-app/ios-app.command.code.ts
++++ b/commands/ios-app/ios-app.command.code.ts
+@@ -169,7 +169,7 @@ export function iosApp(argv: readonly string[], given: Given): Answer {
+         code: 3,
+       }
+     }
+-    report.push(`staged the site standing at ${read.www}`)
++    report.push(`staged the site at ${read.www}`)
+   }
+   const stamp = stampOf(given.root, plan)
+   if (stamp === null) {
+diff --git a/commands/ios-app/ios-app.command.test.ts b/commands/ios-app/ios-app.command.test.ts
+index 3ea880d441858d60b655abd22fb96c0f1c440062..810b5d5d51396a6168c7aec26cf6736a292701d8 100644
+--- a/commands/ios-app/ios-app.command.test.ts
++++ b/commands/ios-app/ios-app.command.test.ts
+@@ -53,7 +53,7 @@ test("one call names one app", () => {
+   expect("refused" in held ? held.refused : "").toContain("one call names one app")
+ })
+ 
+-test("an app and an act stand as the first word and the second", () => {
++test("an app and an act are the first word and the second", () => {
+   expect(readIn(["build", "alanwalton"])).toEqual({ act: "build", app: "alanwalton", www: null })
+ })
+ 
+diff --git a/commands/ios-app/ios-app.command.ts b/commands/ios-app/ios-app.command.ts
+index a0f2e1ee69fc756a888c558c485a591677b0e2bd..4a80877ccef56131f4a49b62c66abe61c7ea9c77 100644
+--- a/commands/ios-app/ios-app.command.ts
++++ b/commands/ios-app/ios-app.command.ts
+@@ -57,7 +57,7 @@ export const iosApp = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A site handed in stands instead of the one the app's page would stage.",
++      statement: "A site handed in takes the place of the one the app's page would stage.",
+     },
+   ],
+ } as const satisfies Command
+diff --git a/commands/test/test.command.code.ts b/commands/test/test.command.code.ts
+index ca444a0ceb1a80089ac2d90bec2747abb7a5b7eb..3b53b8591a32f69a3873c93b0d34a7b00db8fafd 100644
+--- a/commands/test/test.command.code.ts
++++ b/commands/test/test.command.code.ts
+@@ -47,7 +47,7 @@ export function aiming(paths: readonly string[], given: Given): Aimed {
+   for (const one of paths) {
+     const absolute = resolve(one.startsWith("/") ? one : join(root, one))
+     if (absolute !== root && !absolute.startsWith(`${root}/`)) {
+-      refusals.push(`${one} stands outside the repository, and this runs what stands inside it`)
++      refusals.push(`${one} sits outside the repository, and this runs what sits inside it`)
+       continue
+     }
+     if (!existsSync(absolute)) {
+diff --git a/commands/test/test.command.test.ts b/commands/test/test.command.test.ts
+index bd8bc33f03e92e58172176e4c6c248a2694ec845..d74e6602287fbde106231b91174e8a77f0359f4b 100644
+--- a/commands/test/test.command.test.ts
++++ b/commands/test/test.command.test.ts
+@@ -79,7 +79,7 @@ check("a folder holding no test is refused rather than reported as a pass", () =
+   expect(said.refusals[0]).toContain("no file under `.` is a test")
+ })
+ 
+-check("an output past what one answer holds keeps its end, where the summary stands", () => {
++check("an output past what one answer holds keeps its end, where the summary is", () => {
+   const output = `${"held\n".repeat(ANSWER_CEILING)}Ran 1 tests across 1 files.`
+   const said = bounded(output).join("\n")
+   expect(said).toContain("Ran 1 tests across 1 files.")
+diff --git a/commands/test/test.command.ts b/commands/test/test.command.ts
+index 4c0ebf8f7b1b2a63ba41c6b107bca231f9eac028..7ba438689aab2f1b542d9cfd1cf5eb9857b93d2d 100644
+--- a/commands/test/test.command.ts
++++ b/commands/test/test.command.ts
+@@ -32,7 +32,7 @@ export const test = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run reaching fewer files than stand under it has failed rather than passed.",
++      statement: "A run reaching fewer files than are under it has failed rather than passed.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/commands/typecheck/typecheck.command.code.ts b/commands/typecheck/typecheck.command.code.ts
+index 51424d2ee6fe0f306318f7996f4780961219a6e1..9b784cc0e69f56129d7453bc394795a8fdedd49d 100644
+--- a/commands/typecheck/typecheck.command.code.ts
++++ b/commands/typecheck/typecheck.command.code.ts
+@@ -115,7 +115,7 @@ function seededOf(files: readonly string[], found: ReadonlyMap<string, number>):
+       `${one} — drew no diagnostic with a fault seeded into it, so a clean answer over it means nothing`
+     )
+   }
+-  report.push("nothing was written — the fault stood in memory alone")
++  report.push("nothing was written — the fault was in memory alone")
+   return { report, refusals, code: refusals.length === 0 ? 0 : 3 }
+ }
+ 
+diff --git a/commands/typecheck/typecheck.command.test.ts b/commands/typecheck/typecheck.command.test.ts
+index 374d73adb90aeef7644fb37fe6a02999ad4e1624..4f4b5da103ad7e8162673672f9215806056411e3 100644
+--- a/commands/typecheck/typecheck.command.test.ts
++++ b/commands/typecheck/typecheck.command.test.ts
+@@ -34,7 +34,7 @@ check("an argument this does not take is refused by name", () => {
+   expect(meaning(["--file-path"]).refusal).toContain("nothing followed it")
+ })
+ 
+-check("the seeded flag is read wherever it stands among the paths", () => {
++check("the seeded flag is read wherever it sits among the paths", () => {
+   const said = meaning(["--file-path", "akasha/one.ts", "--seeded"])
+   expect(said.seeded).toBe(true)
+   expect(said.paths).toEqual(["akasha/one.ts"])
+diff --git a/commands/typecheck/typecheck.command.ts b/commands/typecheck/typecheck.command.ts
+index 76319c5cd722afa85c63160278625be8b1efb276..03bd4a6675ca934d41f46056a26ccabc3818d662 100644
+--- a/commands/typecheck/typecheck.command.ts
++++ b/commands/typecheck/typecheck.command.ts
+@@ -20,7 +20,7 @@ export const typecheck = {
+     "--file-path repeats, so several paths are judged in one call.",
+     "named nothing, it refuses — `akasha audit --check typecheck` is what judges the folder.",
+     "it judges the files named and every file importing them, and says nothing about the rest of the folder.",
+-    "a program made of the files named is not the program made of the folder, so a fault standing in the folder can stand outside what this sees.",
++    "a program made of the files named is not the program made of the folder, so a fault in the folder can sit outside what this sees.",
+     "it runs the check an audit runs, over the files named alone, in seconds and near a gigabyte rather than eight minutes and twenty-one.",
+     "nothing is written — this says what the compiler found and fixes none of it.",
+   ],
