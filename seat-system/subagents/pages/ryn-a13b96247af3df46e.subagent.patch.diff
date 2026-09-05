@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/supervising/supervisor-uncertain-wait-decide/supervisor-uncertain-wait-decide.module.ts b/seat-system/supervising/supervisor-uncertain-wait-decide/supervisor-uncertain-wait-decide.module.ts
+index 18ac6eda4e0c3403d9246479c5dbbcb6a063e39b..e96ed480c7422feeaca44571da04f02a509df9aa 100644
+--- a/seat-system/supervising/supervisor-uncertain-wait-decide/supervisor-uncertain-wait-decide.module.ts
++++ b/seat-system/supervising/supervisor-uncertain-wait-decide/supervisor-uncertain-wait-decide.module.ts
+@@ -11,7 +11,7 @@ export const supervisorUncertainWaitDecide = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A seat no longer blocked forgets how long it was blocked for.",
++      statement: "A seat no longer blocked forgets how long that seat was blocked for.",
+     },
+     {
+       invariantKind: "departure",
