@@ -1,0 +1,14 @@
+diff --git a/infrastructure/cluster-manifests/orphan-resource-audit/orphan-resource-audit.module.ts b/infrastructure/cluster-manifests/orphan-resource-audit/orphan-resource-audit.module.ts
+index bfbadce445635efa7da10f1f1781eb3ea37b8d1a..dfc4fb83350f496efdd6b6de5c7ff2b201d2a8a0 100644
+--- a/infrastructure/cluster-manifests/orphan-resource-audit/orphan-resource-audit.module.ts
++++ b/infrastructure/cluster-manifests/orphan-resource-audit/orphan-resource-audit.module.ts
+@@ -9,8 +9,7 @@ export const orphanResourceAudit = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A checkout holding no synth source at all is refused, since every live resource would then read as an orphan.",
++      statement: "A checkout holding no synth source at all is refused.",
+     },
+     {
+       invariantKind: "departure",
