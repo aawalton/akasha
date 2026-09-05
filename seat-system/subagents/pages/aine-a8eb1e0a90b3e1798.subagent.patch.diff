@@ -106,7 +106,7 @@ index 893d6bff50d05b428993a1e7ca3cac6a8f5f4755..bd43b331b812c7c4679d963fefede609
      decideSeatSupervision({ holderProcess: "7-1", holderPresence: "unknown", selfProcess: SELF })
        .kind
 diff --git a/seat-system/supervising/seat-supervisor-claim/seat-supervisor-claim.module.ts b/seat-system/supervising/seat-supervisor-claim/seat-supervisor-claim.module.ts
-index 9383bd46e514b26e9a681afbfe5556176d76e8b2..66888b86985370ce2c1b633169647c79f0f8b4e6 100644
+index 9383bd46e514b26e9a681afbfe5556176d76e8b2..8294a53ae9cc195e18b46a32a31d789dcf827a1f 100644
 --- a/seat-system/supervising/seat-supervisor-claim/seat-supervisor-claim.module.ts
 +++ b/seat-system/supervising/seat-supervisor-claim/seat-supervisor-claim.module.ts
 @@ -4,7 +4,7 @@ export const seatSupervisorClaim = {
@@ -118,6 +118,21 @@ index 9383bd46e514b26e9a681afbfe5556176d76e8b2..66888b86985370ce2c1b633169647c79
    code: "ts",
    test: "ts",
    invariants: [
+@@ -22,12 +22,11 @@ export const seatSupervisorClaim = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A seat held by a process still standing refuses the claim.",
++      statement: "A seat held by a process still there refuses the claim.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A holder whose presence cannot be read is treated as standing rather than as gone.",
++      statement: "A holder whose presence cannot be read is treated as there rather than as gone.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/seat-system/supervising/supervisor-config/supervisor-config.module.ts b/seat-system/supervising/supervisor-config/supervisor-config.module.ts
 index cf723cb8e4b9f3ef4dbbf2ba3b0aa2f575a8bf3c..9ee93620927ff10c4d44d2e01653232313c9f9d6 100644
 --- a/seat-system/supervising/supervisor-config/supervisor-config.module.ts
