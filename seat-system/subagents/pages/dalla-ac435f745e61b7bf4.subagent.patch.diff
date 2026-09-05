@@ -11,3 +11,18 @@ index feccf4086e5308000b9da7f093031e593852f2a9..83a05ec003faf65d156d48a337d8fe6d
    if ("refusals" in done) return done
    if (agentId !== null) recordedAsLanded(root, agentId, formatting.changes)
    droppedPatch(root, page, APPLIED)
+diff --git a/command-system/applying/applying.module.ts b/command-system/applying/applying.module.ts
+index 4b43f66eec2843078f58cecbb85be59fd22f516d..1a3ed5ca4ae639cfa558b75be786749b7d469d26 100644
+--- a/command-system/applying/applying.module.ts
++++ b/command-system/applying/applying.module.ts
+@@ -16,6 +16,10 @@ export const applying = {
+       invariantKind: "departure",
+       statement: "The bodies the rebase leaves are what land.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A carry the caller names is handed to the landing the apply makes.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A conflict refuses the apply and leaves the patch as the patch was.",
