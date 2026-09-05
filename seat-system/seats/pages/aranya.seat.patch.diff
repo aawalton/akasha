@@ -263,3 +263,11 @@ index 401039e941236822b0984bea4e4dc174b053dade..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../infrastructure/inference-clients
 \ No newline at end of file
+diff --git a/infrastructure/inference-commands/inference-commands b/infrastructure/inference-commands/inference-commands
+deleted file mode 120000
+index 6f2ef8f7ecb3f96cd18eddfe0db32ae3d1324c48..0000000000000000000000000000000000000000
+--- a/infrastructure/inference-commands/inference-commands
++++ /dev/null
+@@ -1 +0,0 @@
+-../../infrastructure/inference-commands
+\ No newline at end of file
