@@ -25,10 +25,10 @@ index 3b80eb5d4ef0c4e09d1a2164557727640c39ba89..a9cb93160b1e1dc8a287619b68b9f273
      {
        invariantKind: "departure",
 diff --git a/sms-core/telnyx-accounts/telnyx-account.page-type.ts b/sms-core/telnyx-accounts/telnyx-account.page-type.ts
-index caa4b17c3ff80c6de064d9f5e4b7b4a1832cca83..094ff46a44892710ebbf2ccd358bac03c30ba488 100644
+index caa4b17c3ff80c6de064d9f5e4b7b4a1832cca83..408c7fc6156f801963d6d2be21bdd2298be1a477 100644
 --- a/sms-core/telnyx-accounts/telnyx-account.page-type.ts
 +++ b/sms-core/telnyx-accounts/telnyx-account.page-type.ts
-@@ -26,12 +26,11 @@ export const telnyxAccount = {
+@@ -26,16 +26,15 @@ export const telnyxAccount = {
    invariants: [
      {
        invariantKind: "departure",
@@ -43,6 +43,11 @@ index caa4b17c3ff80c6de064d9f5e4b7b4a1832cca83..094ff46a44892710ebbf2ccd358bac03
      },
      {
        invariantKind: "gap",
+-      statement: "The accounts stand as pages under this type rather than as markdown.",
++      statement: "The accounts are pages under this type rather than markdown.",
+     },
+   ],
+ } as const satisfies PageType
 diff --git a/sms-core/verify-signature/verify-signature.module.ts b/sms-core/verify-signature/verify-signature.module.ts
 index 16ef96aaa03c630bb1fb68c952263e255430a1fb..b9200ea87a023a86690b66f034a3bf4d40198099 100644
 --- a/sms-core/verify-signature/verify-signature.module.ts
