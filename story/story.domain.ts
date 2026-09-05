@@ -6,11 +6,13 @@ export const story = {
   slug: "story",
   definition: "worlds and their stories, kept true to each other",
   partSlugs: [
+    "domain/narrative-production",
     "domain/story-engine",
     "domain/narrative-story-turn-promotion",
     "domain/tower",
     "domain/ui",
     "domain/wandering-inn",
+    "domain/world-lore",
     "page-type/game",
     "page-type/gm-doctrine-pack",
     "page-type/named-event",

@@ -10,7 +10,7 @@ export const awenStoryCleanup = {
     {
       statement: "All story engine and story content files are organized in the story/ folder.",
       workingMemory:
-        "`game` and its 8 pages moved to `story/games`, and `domain/story-engine` claims the type in place of `domain/games`. Every game names awen as its engine. Each already had a matching `story-played` page with its turns mirrored one for one as `story-turn-played` pages — 12, 18, 18, 20, 32, 2, 33, 4, every count exact — so `game` is the head of a pipeline `narrative-story-turn-promotion` gathers into chapters. Left: `alan/world-lore` and `alan/narrative-production`.",
+        "`game` and its 8 pages moved to `story/games`, and `domain/story-engine` claims the type in place of `domain/games`. Every game names awen as its engine. Each already had a matching `story-played` page with its turns mirrored one for one as `story-turn-played` pages — 12, 18, 18, 20, 32, 2, 33, 4, every count exact — so `game` is the head of a pipeline `narrative-story-turn-promotion` gathers into chapters. Left: `story/world-lore` and `story/narrative-production`.",
     },
     {
       statement: "The story/ tree passes the `folder-matches-a-shape` check.",
