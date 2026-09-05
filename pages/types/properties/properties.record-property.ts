@@ -80,7 +80,7 @@ export const properties = {
     },
     {
       invariantKind: "departure",
-      statement: "What a property is belongs to the property.",
+      statement: "The shape a property has belongs to the property.",
     },
     {
       invariantKind: "departure",
