@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/modules/checking/checking.module.ts b/checks/modules/checking/checking.module.ts
+index e08102ad87ae9899828d9793d99ee88500a4712d..27155d0183cb756c64169701132743541c6ba012 100644
+--- a/checks/modules/checking/checking.module.ts
++++ b/checks/modules/checking/checking.module.ts
+@@ -109,7 +109,7 @@ export const checking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The file and line are said before what the fault said.",
++      statement: "The file and line are said before the fault's message.",
+     },
+     {
+       invariantKind: "departure",
