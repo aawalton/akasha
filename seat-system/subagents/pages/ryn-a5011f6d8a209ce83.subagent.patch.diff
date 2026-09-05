@@ -18,3 +18,17 @@ index 39108d1da787880d60bc70d81ebbd3b0b5b83332..e607978771e928f0de6c81b82937ef41
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/monarch/eval-population/monarch-eval-population.module.ts b/alan/harness/monarch/eval-population/monarch-eval-population.module.ts
+index b679c719cf4f1802802583ac13da46f3cc9c444f..0ce338125184ffc26261357e2d939cf76dc3d1bd 100644
+--- a/alan/harness/monarch/eval-population/monarch-eval-population.module.ts
++++ b/alan/harness/monarch/eval-population/monarch-eval-population.module.ts
+@@ -23,8 +23,7 @@ export const monarchEvalPopulation = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Which pool a row falls in is decided by a hash of its own id, so the split is the same every run and does not move as rows arrive.",
++      statement: "Which pool a row falls in is decided by a hash of its own id.",
+     },
+     {
+       invariantKind: "departure",
