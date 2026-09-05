@@ -1,0 +1,61 @@
+runsWarrants: false
+diff --git a/story/world-mechanics/world-aspects/pages/body-of-the-eater.world-aspect.ts b/story/world-mechanics/world-aspects/pages/body-of-the-eater.world-aspect.ts
+deleted file mode 100644
+index b113e1550b28e355a43b7c7be09aa23efc852c38..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-aspects/pages/body-of-the-eater.world-aspect.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldAspect } from "../world-aspect.page-type.ts"
+-
+-export const bodyOfTheEater = {
+-  id: "01a0655a-0687-7032-8019-8ce7d55d094b",
+-  pageTypeSlug: "world-aspect",
+-  slug: "body-of-the-eater",
+-  title: "Body of the Eater",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldAspect
+diff --git a/story/world-mechanics/world-aspects/pages/body-of-the-eater/body-of-the-eater.world-aspect.ts b/story/world-mechanics/world-aspects/pages/body-of-the-eater/body-of-the-eater.world-aspect.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..15985966f5e4fb1d797d6add2daa18fe16382f62
+--- /dev/null
++++ b/story/world-mechanics/world-aspects/pages/body-of-the-eater/body-of-the-eater.world-aspect.ts
+@@ -0,0 +1,9 @@
++import type { WorldAspect } from "../../world-aspect.page-type.ts"
++
++export const bodyOfTheEater = {
++  id: "01a0655a-0687-7032-8019-8ce7d55d094b",
++  pageTypeSlug: "world-aspect",
++  slug: "body-of-the-eater",
++  title: "Body of the Eater",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldAspect
+diff --git a/story/world-mechanics/world-aspects/pages/odour-of-carrion-dreams.world-aspect.ts b/story/world-mechanics/world-aspects/pages/odour-of-carrion-dreams.world-aspect.ts
+deleted file mode 100644
+index de7f3aa1bcdbb2f62ee5301cf4b3a5ccfd432286..0000000000000000000000000000000000000000
+--- a/story/world-mechanics/world-aspects/pages/odour-of-carrion-dreams.world-aspect.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { WorldAspect } from "../world-aspect.page-type.ts"
+-
+-export const odourOfCarrionDreams = {
+-  id: "01a0655a-0687-737c-b9b5-121c2c9cdf92",
+-  pageTypeSlug: "world-aspect",
+-  slug: "odour-of-carrion-dreams",
+-  title: "Odour of Carrion (Dreams)",
+-  worldSlug: "the-wandering-inn",
+-} as const satisfies WorldAspect
+diff --git a/story/world-mechanics/world-aspects/pages/odour-of-carrion-dreams/odour-of-carrion-dreams.world-aspect.ts b/story/world-mechanics/world-aspects/pages/odour-of-carrion-dreams/odour-of-carrion-dreams.world-aspect.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..69b6992d49c424d435f9ce7d1a8aed72cbc102d6
+--- /dev/null
++++ b/story/world-mechanics/world-aspects/pages/odour-of-carrion-dreams/odour-of-carrion-dreams.world-aspect.ts
+@@ -0,0 +1,9 @@
++import type { WorldAspect } from "../../world-aspect.page-type.ts"
++
++export const odourOfCarrionDreams = {
++  id: "01a0655a-0687-737c-b9b5-121c2c9cdf92",
++  pageTypeSlug: "world-aspect",
++  slug: "odour-of-carrion-dreams",
++  title: "Odour of Carrion (Dreams)",
++  worldSlug: "the-wandering-inn",
++} as const satisfies WorldAspect
