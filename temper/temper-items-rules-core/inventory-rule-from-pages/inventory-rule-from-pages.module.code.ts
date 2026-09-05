@@ -77,6 +77,86 @@ function chainOf(entries: readonly ChainEntry[]): DestinationChain | undefined {
   }))
 }
 
+function textAt(row: Record<string, unknown>, key: string): string | undefined {
+  const value = row[key]
+  return typeof value === "string" ? value : undefined
+}
+
+function rowsAt(row: Record<string, unknown>, key: string): readonly Record<string, unknown>[] {
+  const value = row[key]
+  if (!Array.isArray(value)) return []
+  return value.filter((one): one is Record<string, unknown> => {
+    return typeof one === "object" && one !== null && !Array.isArray(one)
+  })
+}
+
+function conditionRowsIn(row: Record<string, unknown>): readonly ConditionEntry[] {
+  const out: ConditionEntry[] = []
+  for (const one of rowsAt(row, "conditions")) {
+    const conditionField = textAt(one, "conditionField")
+    const conditionValue = textAt(one, "conditionValue")
+    if (conditionField === undefined || conditionValue === undefined) continue
+    out.push({ conditionField, conditionValue })
+  }
+  return out
+}
+
+function chainRowsIn(row: Record<string, unknown>): readonly ChainEntry[] {
+  const out: ChainEntry[] = []
+  for (const one of rowsAt(row, "destinationChain")) {
+    const destination = textAt(one, "destination")
+    if (destination === undefined) continue
+    const targetQuantity = one.targetQuantity
+    const charEligibility = textAt(one, "charEligibility")
+    out.push({
+      destination,
+      ...(typeof targetQuantity === "number" ? { targetQuantity } : {}),
+      ...(charEligibility === undefined ? {} : { charEligibility }),
+    })
+  }
+  return out
+}
+
+export function heldFromRow(row: Record<string, unknown>): HeldRule | null {
+  const slug = textAt(row, "slug")
+  const categoryId = textAt(row, "categoryId")
+  const action = textAt(row, "action")
+  const updatedAt = textAt(row, "updatedAt")
+  const displayOrder = row.displayOrder
+  if (slug === undefined || categoryId === undefined || action === undefined) return null
+  if (updatedAt === undefined || typeof displayOrder !== "number") return null
+  const page: RulePage = {
+    slug,
+    categoryId,
+    displayOrder,
+    action,
+    active: row.active !== false,
+    updatedAt,
+    ...(textAt(row, "title") === undefined ? {} : { title: textAt(row, "title") as string }),
+    ...(textAt(row, "description") === undefined
+      ? {}
+      : { description: textAt(row, "description") as string }),
+    ...(textAt(row, "goal") === undefined ? {} : { goal: textAt(row, "goal") as string }),
+    ...(typeof row.locked === "boolean" ? { locked: row.locked } : {}),
+    ...(textAt(row, "destination") === undefined
+      ? {}
+      : { destination: textAt(row, "destination") as string }),
+    ...(textAt(row, "stockScope") === undefined
+      ? {}
+      : { stockScope: textAt(row, "stockScope") as string }),
+  }
+  return { page, conditions: conditionRowsIn(row), chain: chainRowsIn(row) }
+}
+
+export function heldFromRows(rows: readonly Record<string, unknown>[]): readonly HeldRule[] {
+  const out: HeldRule[] = []
+  for (const row of rows) {
+    const held = heldFromRow(row)
+    if (held !== null) out.push(held)
+  }
+  return out
+}
+
 export function ruleFromPage(held: HeldRule): CategoryRule {
   const page = held.page
   const conditions = conditionsOf(held.conditions ?? [])

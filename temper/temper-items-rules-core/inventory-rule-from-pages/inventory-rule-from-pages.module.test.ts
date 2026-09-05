@@ -1,6 +1,11 @@
 import { expect, test } from "bun:test"
 import type { HeldRule, RulePage } from "./inventory-rule-from-pages.module.code.ts"
-import { ruleFromPage, rulesFromPages } from "./inventory-rule-from-pages.module.code.ts"
+import {
+  heldFromRow,
+  heldFromRows,
+  ruleFromPage,
+  rulesFromPages,
+} from "./inventory-rule-from-pages.module.code.ts"
 
 const PAGE: RulePage = {
   slug: "rule-gold-stock",
@@ -108,4 +113,51 @@ test("reading rules leaves what the caller handed over unchanged", () => {
   ]
   rulesFromPages(held)
   expect(held.map((one) => one.page.slug)).toEqual(["rule-b", "rule-a"])
+})
+
+const A_ROW = {
+  slug: "rule-one",
+  categoryId: "scripts",
+  displayOrder: 3,
+  action: "sell",
+  active: true,
+  updatedAt: "1970-01-01T00:00:00.000Z",
+}
+
+test("a row carrying every key a rule needs becomes a held rule", () => {
+  const held = heldFromRow({ ...A_ROW, title: "a title" })
+  expect(held?.page.slug).toBe("rule-one")
+  expect(held?.page.displayOrder).toBe(3)
+  expect(held?.page.title).toBe("a title")
+})
+
+test("a row short of a key every rule carries is no rule", () => {
+  expect(heldFromRow({ ...A_ROW, categoryId: undefined })).toBeNull()
+  expect(heldFromRow({ ...A_ROW, displayOrder: "3" })).toBeNull()
+})
+
+test("a row saying nothing about being switched on is read as switched on", () => {
+  expect(heldFromRow(A_ROW)?.page.active).toBe(true)
+  expect(heldFromRow({ ...A_ROW, active: false })?.page.active).toBe(false)
+})
+
+test("the rows beside a page come back under their own keys", () => {
+  const held = heldFromRow({
+    ...A_ROW,
+    conditions: [{ id: "an-id", conditionField: "known", conditionValue: "known" }],
+    destinationChain: [{ destination: "bank", targetQuantity: 2 }],
+  })
+  expect(held?.conditions).toEqual([{ conditionField: "known", conditionValue: "known" }])
+  expect(held?.chain).toEqual([{ destination: "bank", targetQuantity: 2 }])
+})
+
+test("a row beside the page short of a field its shape declares is left out", () => {
+  const held = heldFromRow({ ...A_ROW, conditions: [{ conditionField: "known" }] })
+  expect(held?.conditions).toEqual([])
+})
+
+test("a row that is no rule is left out of the many", () => {
+  expect(heldFromRows([A_ROW, { slug: "rule-two" }]).map((one) => one.page.slug)).toEqual([
+    "rule-one",
+  ])
 })

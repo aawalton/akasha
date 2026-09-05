@@ -26,6 +26,14 @@ export const inventoryRuleFromPages = {
         "A property the page leaves unsaid is left off the rule rather than written empty.",
     },
     {
+      invariantKind: "departure",
+      statement: "A row short of a key every rule carries is no rule and is left out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row beside the page short of a field its shape declares is left out.",
+    },
+    {
       invariantKind: "gap",
       statement: "Two rules of one account holding one display order are ordered by nothing.",
     },
