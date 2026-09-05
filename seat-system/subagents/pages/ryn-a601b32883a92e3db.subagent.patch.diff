@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/supervising/supervisor-heartbeat/supervisor-heartbeat.module.ts b/seat-system/supervising/supervisor-heartbeat/supervisor-heartbeat.module.ts
+index 2dc6fefe3e9cbb176369091a9f9c6a69f1b07922..0069f8e4ca3ffa695e10b122b3c63b4ace7a715d 100644
+--- a/seat-system/supervising/supervisor-heartbeat/supervisor-heartbeat.module.ts
++++ b/seat-system/supervising/supervisor-heartbeat/supervisor-heartbeat.module.ts
+@@ -41,7 +41,7 @@ export const supervisorHeartbeat = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here ever clears the timer it returns.",
++      statement: "Nothing here ever clears the timer this module returns.",
+     },
+   ],
+ } as const satisfies Module
