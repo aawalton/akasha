@@ -12,7 +12,7 @@ index 3f38b9de49b926f557182041d2d37607a6fe33f8..02091b8640aaa4ecd5c82b19732ec147
      expect(nyWallToInstant("2026-07-15", 6, 0).toISOString()).toBe("2026-07-15T10:00:00.000Z")
    })
 diff --git a/day/us-zone-offset/us-zone-offset.module.ts b/day/us-zone-offset/us-zone-offset.module.ts
-index 9e0f6a6208587444e0bbd3fbc4a6e735ec2d862d..2ffaa062f1fa34f1dcb8a82c89ee4bfcdf06b72e 100644
+index 9e0f6a6208587444e0bbd3fbc4a6e735ec2d862d..a3fa571ef5db04a8dbb117b7570a13aad7186cde 100644
 --- a/day/us-zone-offset/us-zone-offset.module.ts
 +++ b/day/us-zone-offset/us-zone-offset.module.ts
 @@ -4,7 +4,7 @@ export const usZoneOffset = {
@@ -24,6 +24,15 @@ index 9e0f6a6208587444e0bbd3fbc4a6e735ec2d862d..2ffaa062f1fa34f1dcb8a82c89ee4bfc
    code: "ts",
    test: "ts",
    invariants: [
+@@ -35,7 +35,7 @@ export const usZoneOffset = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "The rule standing today is applied to every year.",
++      statement: "The rule as it is today is applied to every year.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/idle-system/idle-persona-cards/properties/player-id.text-property.ts b/idle-system/idle-persona-cards/properties/player-id.text-property.ts
 index 90d71f685027292bfae56257c4258fef9238fec4..23230ba0495e6f6a9fa2ddb840a7ff08991a7518 100644
 --- a/idle-system/idle-persona-cards/properties/player-id.text-property.ts
@@ -38,7 +47,7 @@ index 90d71f685027292bfae56257c4258fef9238fec4..23230ba0495e6f6a9fa2ddb840a7ff08
      {
        invariantKind: "gap",
 diff --git a/idle-system/idle-saves/idle-save.page-type.ts b/idle-system/idle-saves/idle-save.page-type.ts
-index 2bcbb50b5b72338d5d76d9058c2b5982e1c2b23c..997e85671330880043a546fff74599ff759d058b 100644
+index 2bcbb50b5b72338d5d76d9058c2b5982e1c2b23c..b7a2a59c2623360aed895888257dd93788b68d3e 100644
 --- a/idle-system/idle-saves/idle-save.page-type.ts
 +++ b/idle-system/idle-saves/idle-save.page-type.ts
 @@ -7,7 +7,7 @@ export const idleSave = {
@@ -50,6 +59,15 @@ index 2bcbb50b5b72338d5d76d9058c2b5982e1c2b23c..997e85671330880043a546fff74599ff
    pluralSlug: "idle-saves",
    extendsSlug: ["page-type/page"],
    invariants: [
+@@ -25,7 +25,7 @@ export const idleSave = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A save is kept in Supabase and no save yet stands as a page of this type.",
++      statement: "A save is kept in Supabase and no save yet exists as a page of this type.",
+     },
+     {
+       invariantKind: "gap",
 diff --git a/mathematics/mathematics.domain.ts b/mathematics/mathematics.domain.ts
 index c22bf6bdbefa66bf71dda6f5ae49e903285d3f35..fc85bae02f121d150b2de47b9c36f57e7e04dba8 100644
 --- a/mathematics/mathematics.domain.ts
