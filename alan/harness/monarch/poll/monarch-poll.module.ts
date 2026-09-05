@@ -9,8 +9,11 @@ export const monarchPoll = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The update stamp of every row in the trusted window is asked for and compared against the watermark our copy holds.",
+      statement: "The update stamp of every row in the trusted window is asked for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each stamp is compared against the watermark this copy holds.",
     },
     {
       invariantKind: "departure",
