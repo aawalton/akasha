@@ -1,0 +1,13 @@
+diff --git a/seat-system/seat-stopping/seat-stopping.module.ts b/seat-system/seat-stopping/seat-stopping.module.ts
+index f2b5cf4e9d74cc194e01617502102a375c8ebd08..4fe6dae143010b0e719cb8e63cd50001cda1493e 100644
+--- a/seat-system/seat-stopping/seat-stopping.module.ts
++++ b/seat-system/seat-stopping/seat-stopping.module.ts
+@@ -20,7 +20,7 @@ export const seatStopping = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A seat whose processes are all gone is ended by ending the session that carried it.",
++        "A seat whose processes are all gone is ended by ending the session that carried that seat.",
+     },
+     {
+       invariantKind: "departure",
