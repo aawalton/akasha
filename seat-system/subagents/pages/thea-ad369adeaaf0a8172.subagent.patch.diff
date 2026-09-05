@@ -1,0 +1,36 @@
+diff --git a/alan/web/alan-auth-provider/alan-auth-provider.module.test.tsx b/alan/web/alan-auth-provider/alan-auth-provider.module.test.tsx
+index 50c7a7185ae3503cff8ce63031fa1aaf0771de6f..4b2f1a53e9de0e1ec2453f9b4acc8240fa9559f5 100644
+--- a/alan/web/alan-auth-provider/alan-auth-provider.module.test.tsx
++++ b/alan/web/alan-auth-provider/alan-auth-provider.module.test.tsx
+@@ -53,7 +53,9 @@ mock.module("@akasha/supabase-rr/supabase-provider", () => ({
+   SupabaseProvider: ({ children }: { children: unknown }) => children,
+ }))
+ 
++const appVersionCheck = await import("@akasha/pages-ui/app-version/use-app-version-check")
+ mock.module("@akasha/pages-ui/app-version/use-app-version-check", () => ({
++  ...appVersionCheck,
+   useAppVersionCheck: () => undefined,
+ }))
+ mock.module("@akasha/pages-ui-store/diagnostics", () => ({
+@@ -63,7 +65,9 @@ mock.module("@akasha/pages-ui-store/diagnostics", () => ({
+ mock.module("@akasha/pages-ui-store/report-stall", () => ({
+   reportPagesStoreStall: () => Promise.resolve(),
+ }))
++const pagesStoreSingleton = await import("@akasha/pages-ui-store/singleton")
+ mock.module("@akasha/pages-ui-store/singleton", () => ({
++  ...pagesStoreSingleton,
+   configurePagesStoreAuth: () => Promise.resolve(),
+   getPagesStore: () =>
+     Promise.resolve({
+@@ -71,7 +75,11 @@ mock.module("@akasha/pages-ui-store/singleton", () => ({
+       whenSlugReady: () => Promise.resolve(),
+     }),
+ }))
++const offlineCacheNamespace = await import(
++  "../offline-cache-namespace/offline-cache-namespace.module.code.ts"
++)
+ mock.module("../offline-cache-namespace/offline-cache-namespace.module.code.ts", () => ({
++  ...offlineCacheNamespace,
+   setOfflineCacheUserKey: () => undefined,
+ }))
+ 
