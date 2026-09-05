@@ -35,7 +35,7 @@ export const seatAnswering = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes what a seat states.",
+      statement: "Nothing here writes a seat's stated values.",
     },
   ],
 } as const satisfies Module
