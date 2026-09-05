@@ -1,5 +1,5 @@
 diff --git a/email-watch/inbox-pass/inbox-pass.module.ts b/email-watch/inbox-pass/inbox-pass.module.ts
-index 47f63b2e9104e2a0682bd2d045c9e5eb74586222..a336d4c236e6060942e51c4db735e15400944f92 100644
+index 47f63b2e9104e2a0682bd2d045c9e5eb74586222..870b1d3e73c46e021a9fdaf1b7805dd65617c341 100644
 --- a/email-watch/inbox-pass/inbox-pass.module.ts
 +++ b/email-watch/inbox-pass/inbox-pass.module.ts
 @@ -10,7 +10,7 @@ export const inboxPass = {
@@ -8,6 +8,15 @@ index 47f63b2e9104e2a0682bd2d045c9e5eb74586222..a336d4c236e6060942e51c4db735e154
        invariantKind: "departure",
 -      statement: "A pass names the person whose inbox it reads.",
 +      statement: "A pass names the person whose inbox that pass reads.",
+     },
+     {
+       invariantKind: "departure",
+@@ -26,7 +26,7 @@ export const inboxPass = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run says in its closing line whether it was a dry run.",
++      statement: "A run says in its closing line whether that run was a dry run.",
      },
      {
        invariantKind: "departure",
