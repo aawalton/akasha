@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/commands/read/read.command.ts b/commands/read/read.command.ts
-index d96451ddfe3a6d439e56bdbaaacc785f7104aea6..74034efdaeee6609b13c1979d309faa550d802fb 100644
+index d96451ddfe3a6d439e56bdbaaacc785f7104aea6..26c266b47c689d41f3f59501d870e792e576571e 100644
 --- a/commands/read/read.command.ts
 +++ b/commands/read/read.command.ts
 @@ -32,7 +32,7 @@ export const read = {
@@ -61,6 +61,15 @@ index d96451ddfe3a6d439e56bdbaaacc785f7104aea6..74034efdaeee6609b13c1979d309faa5
        invariantKind: "departure",
 -      statement: "The call for what is left over is priced as that call is printed.",
 +      statement: "The call for the rest is priced as that call is printed.",
+     },
+     {
+       invariantKind: "departure",
+@@ -160,7 +161,7 @@ export const read = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A read hands back what the file the read names warrants.",
++      statement: "A read hands back the files the file the read names warrants.",
      },
      {
        invariantKind: "departure",
