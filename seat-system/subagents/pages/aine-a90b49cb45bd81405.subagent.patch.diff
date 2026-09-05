@@ -25,7 +25,7 @@ index a460d8e255de64b4f21334fb09554e890e06bbf0..bc2d823fc8014fda2188c2d240cbe5e5
      {
        said: "--at <path>",
 diff --git a/browser/browser-commands/browser-test-verify-render/browser-test-verify-render.command.ts b/browser/browser-commands/browser-test-verify-render/browser-test-verify-render.command.ts
-index e600cbdc615288982c3802a0e4039406e080062a..54e25fecc528e08aa366ca0e6bd1cb5f79ac84b9 100644
+index e600cbdc615288982c3802a0e4039406e080062a..0aa840b0e33edbd67d0ecde34216316fea08aed7 100644
 --- a/browser/browser-commands/browser-test-verify-render/browser-test-verify-render.command.ts
 +++ b/browser/browser-commands/browser-test-verify-render/browser-test-verify-render.command.ts
 @@ -15,7 +15,7 @@ export const browserTestVerifyRender = {
@@ -37,3 +37,12 @@ index e600cbdc615288982c3802a0e4039406e080062a..54e25fecc528e08aa366ca0e6bd1cb5f
      { said: "--expect-attr-selector <sel>", takes: "the element an attribute is read off" },
      { said: "--expect-attr <name>", takes: "the attribute read off that element" },
      { said: "--expect-attr-value <text>", takes: "the value that attribute is to carry" },
+@@ -29,7 +29,7 @@ export const browserTestVerifyRender = {
+     },
+     {
+       said: "--hydration-selector <sel>",
+-      takes: "an element that stands once the page has hydrated",
++      takes: "an element that is there once the page has hydrated",
+     },
+     {
+       said: "--sign-in-path <path>",
