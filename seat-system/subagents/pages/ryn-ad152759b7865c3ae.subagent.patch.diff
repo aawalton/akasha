@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/test-run-marking/test-run-marking.module.ts b/pages/test-run-marking/test-run-marking.module.ts
+index 221e9c7498f1d53ee5854cc39f72d535ed06c52c..89c26cc3cb04bb0bf9f2b2d668a068260f0aae51 100644
+--- a/pages/test-run-marking/test-run-marking.module.ts
++++ b/pages/test-run-marking/test-run-marking.module.ts
+@@ -9,7 +9,7 @@ export const testRunMarking = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The test runner preloads this module rather than a test importing it.",
++      statement: "The test runner preloads this module rather than a test importing that module.",
+     },
+     {
+       invariantKind: "departure",
