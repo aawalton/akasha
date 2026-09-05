@@ -56,3 +56,26 @@ index 0000000000000000000000000000000000000000..62597741055923d479176146ad02ad70
 +    },
 +  ],
 +} as const satisfies PageType
+diff --git a/command-system/refactor-commands/refactor-command.page-type.ts b/command-system/refactor-commands/refactor-command.page-type.ts
+index fbf66a7557aad9fac373fe5b3fba2ee6cb765337..1dcc7a750970ffe886b04fc52c0b1d16b3f0cccf 100644
+--- a/command-system/refactor-commands/refactor-command.page-type.ts
++++ b/command-system/refactor-commands/refactor-command.page-type.ts
+@@ -7,7 +7,17 @@ export const refactorCommand = {
+   id: "01a072c8-f35c-7256-b138-59c7d4c96679",
+   pageTypeSlug: "page-type",
+   slug: "refactor-command",
+-  definition: "a command built only from atomic changes in sequence",
++  definition: "a command that runs one refactor change",
+   pluralSlug: "refactor-commands",
+   extendsSlug: ["page-type/command"],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A refactor command runs one refactor change and does nothing else.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Most refactor changes are run by no command.",
++    },
++  ],
+ } as const satisfies PageType
