@@ -25,3 +25,16 @@ index 4084a505d6088035d43b4727ec63f2a5ed54ceaf..111b9b0e1ee970dbd3ac9c4925442ad8
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/monarch/propose/monarch-propose.module.ts b/alan/harness/monarch/propose/monarch-propose.module.ts
+index e4be8dd992b9acb3d841cc6d1a02bc6e1e8d91ae..8154b7ebdb2e2dc3e49669f7fd8ae4745bb90f22 100644
+--- a/alan/harness/monarch/propose/monarch-propose.module.ts
++++ b/alan/harness/monarch/propose/monarch-propose.module.ts
+@@ -14,7 +14,7 @@ export const monarchPropose = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A rule stated on the command line is weighed alongside the standing ones rather than instead of being checked.",
++        "A command-line rule is weighed alongside the standing rules rather than in place of those rules.",
+     },
+     {
+       invariantKind: "departure",
