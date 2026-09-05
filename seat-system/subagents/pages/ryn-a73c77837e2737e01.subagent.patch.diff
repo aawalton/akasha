@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/temper/temper-items-rules-routing-core/inventory-management-plan-route/inventory-management-plan-route.module.ts b/temper/temper-items-rules-routing-core/inventory-management-plan-route/inventory-management-plan-route.module.ts
+index 67ed55fac4bbd5824606f7092d4a818179206119..31d728d4f9281ada23c85605f3921606505ab5e2 100644
+--- a/temper/temper-items-rules-routing-core/inventory-management-plan-route/inventory-management-plan-route.module.ts
++++ b/temper/temper-items-rules-routing-core/inventory-management-plan-route/inventory-management-plan-route.module.ts
+@@ -9,7 +9,8 @@ export const inventoryManagementPlanRoute = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A route is worked out from where the item lies and from where the rule sends it.",
++      statement:
++        "A route is worked out from where the item lies and from where the rule sends that item.",
+     },
+     {
+       invariantKind: "departure",
