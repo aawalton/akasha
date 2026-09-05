@@ -1,0 +1,18 @@
+diff --git a/akasha.domain.ts b/akasha.domain.ts
+index 57ce7d7d9ee0b51a418cb8193b80d7223904b1c4..ce8d4a12252137533509ea391263f8bd4101e4fb 100644
+--- a/akasha.domain.ts
++++ b/akasha.domain.ts
+@@ -113,6 +113,13 @@ export const akasha = {
+         "Saying what you didn't say is saying more than one thing.",
+       ],
+     },
++    {
++      directiveKind: "rule",
++      name: "Alan Over Invariants",
++      act: "Change the invariants Alan's instructions contradict.",
++      warrant: "An invariant is past thinking, which is updated by current thinking.",
++      aids: ["Any invariant can change.", "Changing one needs no approval."],
++    },
+     {
+       directiveKind: "rule",
+       name: "Champions Not Owners",
