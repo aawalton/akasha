@@ -1,0 +1,13 @@
+diff --git a/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.code.ts b/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.code.ts
+index 253a0296f4b1e24471c2b152d11c92c2441d95d6..bf9a6736ed604b1c361a2f596c29d02cf00fbb9e 100644
+--- a/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.code.ts
++++ b/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.code.ts
+@@ -3,7 +3,7 @@ import type { Shadow } from "@akasha/pages/shadow"
+ import { FILES, judgingEach } from "../../../modules/change-walking/change-walking.module.code.ts"
+ 
+ export const UNCLAIMED =
+-  "no page claims this file — a file no page claims is enumerated by nothing and audited by nothing"
++  "no page claims this file — a move repoints nothing to it and its page's deletion leaves it behind"
+ 
+ function unclaimedAt(path: string, shadow: Shadow): readonly string[] {
+   if (shadow.index.listedByPath(path).length > 0) return []
