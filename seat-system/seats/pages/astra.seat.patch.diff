@@ -111,3 +111,18 @@ index 0000000000000000000000000000000000000000..758624398d9a6b17444bd10635ae2ca2
 +  definition: "a value a React tree carries down",
 +  partSlugs: ["module/page-resolver-context", "module/relation-picker-context"],
 +} as const satisfies Domain
+diff --git a/pages/ui/cover-click/pages-ui-cover-click.domain.ts b/pages/ui/cover-click/pages-ui-cover-click.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d324f01792e7dab939177c4830b67fca32b06da5
+--- /dev/null
++++ b/pages/ui/cover-click/pages-ui-cover-click.domain.ts
+@@ -0,0 +1,9 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesUiCoverClick = {
++  id: "01a071cf-77a2-79dd-9156-cf09563bb150",
++  pageTypeSlug: "domain",
++  slug: "pages-ui-cover-click",
++  definition: "a click on a page's cover",
++  partSlugs: ["module/cover-click-registry", "module/cover-mask-registry"],
++} as const satisfies Domain
