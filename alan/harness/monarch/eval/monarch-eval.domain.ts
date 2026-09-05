@@ -43,9 +43,13 @@ export const monarchEval = {
       statement: "A row a standing rule reaches is not this project's subject.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A row carrying no category anyone chose has no answer to be scored against.",
+    },
+    {
       invariantKind: "departure",
       statement:
-        "A row carrying no category anyone chose has no answer to be scored against, and those rows are the ones this pipeline most exists to serve.",
+        "The rows carrying no category anyone chose are the rows this pipeline most exists to serve.",
     },
     {
       invariantKind: "departure",
