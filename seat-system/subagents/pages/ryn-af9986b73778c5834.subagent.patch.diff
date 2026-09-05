@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/hook-system/agent-hooks/state-subagent/state-subagent.agent-hook.ts b/hook-system/agent-hooks/state-subagent/state-subagent.agent-hook.ts
-index e8b9053964baaa3a4df766eaca809e8f296c9421..2a6c33899f44c333f732870c39e99e60173ab32f 100644
+index e8b9053964baaa3a4df766eaca809e8f296c9421..69583d910bb0d6b6c0e33b28edf417c10edb5626 100644
 --- a/hook-system/agent-hooks/state-subagent/state-subagent.agent-hook.ts
 +++ b/hook-system/agent-hooks/state-subagent/state-subagent.agent-hook.ts
 @@ -27,7 +27,7 @@ export const stateSubagent = {
@@ -9,6 +9,15 @@ index e8b9053964baaa3a4df766eaca809e8f296c9421..2a6c33899f44c333f732870c39e99e60
        invariantKind: "departure",
 -      statement: "A payload naming no subagent leaves what is there unchanged.",
 +      statement: "A payload naming no subagent leaves the subagent pages unchanged.",
+     },
+     {
+       invariantKind: "departure",
+@@ -35,7 +35,7 @@ export const stateSubagent = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "This hook changes what is there rather than judging a call.",
++      statement: "This hook changes the subagent pages rather than judging a call.",
      },
      {
        invariantKind: "departure",
