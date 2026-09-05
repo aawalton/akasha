@@ -67,7 +67,7 @@ export const parserModel = {
     },
     {
       invariantKind: "departure",
-      statement: "A page's type is what puts the model files beside the page.",
+      statement: "A page's type puts the model files beside the page.",
     },
     {
       invariantKind: "absence",
