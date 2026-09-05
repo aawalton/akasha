@@ -78,3 +78,21 @@ index 0000000000000000000000000000000000000000..1c72c8264d948f368b2ca1918ca3fcf2
 +  ],
 +  "exclude": ["node_modules", "dist", "build"]
 +}
+diff --git a/code-system/router-apps/properties/compile-config.named-file-property.ts b/code-system/router-apps/properties/compile-config.named-file-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..723000579241af4a9d41adfb342b018e558e656d
+--- /dev/null
++++ b/code-system/router-apps/properties/compile-config.named-file-property.ts
+@@ -0,0 +1,12 @@
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
++
++export type CompileConfig = "json"
++
++export const compileConfig = {
++  id: "01a07332-f5be-7b44-8a0a-e0d49f66e942",
++  pageTypeSlug: "named-file-property",
++  slug: "compile-config",
++  propertySlug: "compile-config",
++  definition: "the TypeScript settings a router app's own compile runs under",
++  fileName: "tsconfig.json",
++} as const satisfies NamedFileProperty
