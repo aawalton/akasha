@@ -44,7 +44,7 @@ export const blockSubagentAudit = {
     },
     {
       invariantKind: "departure",
-      statement: "What a run costs is said as a figure measured rather than as a figure supposed.",
+      statement: "A run's cost is said as a figure measured rather than as a figure supposed.",
     },
     {
       invariantKind: "absence",
