@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/rule-amounts/monarch-rule-amounts.module.ts b/alan/harness/monarch/rule-amounts/monarch-rule-amounts.module.ts
-index 5c57ba5cf4f771b996b335316c87e7a221700e37..e4102cbc5251c24489597284ee97a202796df9c2 100644
+index 5c57ba5cf4f771b996b335316c87e7a221700e37..49e981d7f0af131ff6266d7e6782259632f7fe5e 100644
 --- a/alan/harness/monarch/rule-amounts/monarch-rule-amounts.module.ts
 +++ b/alan/harness/monarch/rule-amounts/monarch-rule-amounts.module.ts
 @@ -24,8 +24,7 @@ export const monarchRuleAmounts = {
@@ -12,3 +12,13 @@ index 5c57ba5cf4f771b996b335316c87e7a221700e37..e4102cbc5251c24489597284ee97a202
      },
      {
        invariantKind: "departure",
+@@ -41,8 +40,7 @@ export const monarchRuleAmounts = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "An inclusion is said with `or` and an exclusion with `and`, because excluding several excludes every one.",
++      statement: "An inclusion is said with `or` and an exclusion with `and`.",
+     },
+   ],
+ } as const satisfies Module
