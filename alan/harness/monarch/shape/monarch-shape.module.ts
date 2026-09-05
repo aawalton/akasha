@@ -15,7 +15,7 @@ export const monarchShape = {
     {
       invariantKind: "departure",
       statement:
-        "A refusal names the path the value stands at, so a deep reply says where it went wrong.",
+        "A refusal names the path the value stands at, so a deep reply says where that reply went wrong.",
     },
     {
       invariantKind: "departure",
