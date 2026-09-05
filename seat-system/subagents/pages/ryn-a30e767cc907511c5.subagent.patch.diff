@@ -1,5 +1,5 @@
 diff --git a/commands/agent-forest/agent-forest.command.ts b/commands/agent-forest/agent-forest.command.ts
-index adf5a53dc5ad838ed2e843f6a52e8b0e974d6bf4..32f8a482d074e3a0465dc89f4a3a9bc1d13db3a3 100644
+index adf5a53dc5ad838ed2e843f6a52e8b0e974d6bf4..5c3331f36e1ae64bd71771ca4e78ea490ee7f833 100644
 --- a/commands/agent-forest/agent-forest.command.ts
 +++ b/commands/agent-forest/agent-forest.command.ts
 @@ -48,7 +48,7 @@ export const agentForest = {
@@ -8,6 +8,15 @@ index adf5a53dc5ad838ed2e843f6a52e8b0e974d6bf4..32f8a482d074e3a0465dc89f4a3a9bc1
        invariantKind: "departure",
 -      statement: "It takes no word, and a word it is given is refused.",
 +      statement: "This command takes no word, and a word this command is given is refused.",
+     },
+     {
+       invariantKind: "departure",
+@@ -58,7 +58,7 @@ export const agentForest = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A seat with an agent present in it reads `live` true, and every other seat false.",
++        "A seat with an agent present in that seat reads `live` true, and every other seat false.",
      },
      {
        invariantKind: "departure",
