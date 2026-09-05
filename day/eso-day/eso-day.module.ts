@@ -15,7 +15,7 @@ export const esoDay = {
     {
       invariantKind: "departure",
       statement:
-        "A window's bounds are each worked out against the offset they themselves land in.",
+        "A window's bounds are each worked out against the offset those bounds themselves land in.",
     },
     {
       invariantKind: "departure",
