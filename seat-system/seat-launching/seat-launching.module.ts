@@ -20,7 +20,7 @@ export const seatLaunching = {
     {
       invariantKind: "departure",
       statement:
-        "The tmux variables of the terminal launching a seat are scrubbed from what the seat inherits.",
+        "The tmux variables of the terminal launching a seat are scrubbed from the inherited environment.",
     },
     {
       invariantKind: "departure",
