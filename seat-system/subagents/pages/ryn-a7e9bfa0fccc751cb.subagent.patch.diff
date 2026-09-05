@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.ts b/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.ts
+index f26488b2a1e6c89e9261fdc6794b68357979dd0d..4feb7447fb492ae6d8ef24f0d854b1f07aa16ba3 100644
+--- a/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.ts
++++ b/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.ts
+@@ -40,7 +40,7 @@ export const blockAkashaReads = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "What Grep and Glob show is not refused here.",
++      statement: "A Grep or Glob answer is not refused here.",
+     },
+     {
+       invariantKind: "gap",
