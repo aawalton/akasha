@@ -1,5 +1,5 @@
 diff --git a/checks/modules/check-scratch/check-scratch.module.ts b/checks/modules/check-scratch/check-scratch.module.ts
-index 21c314d00fe6e00e38dfecb1bc77d3e007e9f514..d88e747d6a13f64ed58e69360a1fe9db02d73375 100644
+index 21c314d00fe6e00e38dfecb1bc77d3e007e9f514..dd4c5b65c8bdd70682704b3b8ac51e953a666eb4 100644
 --- a/checks/modules/check-scratch/check-scratch.module.ts
 +++ b/checks/modules/check-scratch/check-scratch.module.ts
 @@ -51,7 +51,7 @@ export const checkScratch = {
@@ -8,6 +8,16 @@ index 21c314d00fe6e00e38dfecb1bc77d3e007e9f514..d88e747d6a13f64ed58e69360a1fe9db
        invariantKind: "absence",
 -      statement: "This module only writes into it.",
 +      statement: "This module only writes into the scratch.",
+     },
+     {
+       invariantKind: "absence",
+@@ -64,7 +64,8 @@ export const checkScratch = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page type files the types above it as a list, empty where it names none.",
++      statement:
++        "A page type files the types above that page type as a list, empty where that page type names none.",
      },
      {
        invariantKind: "absence",
