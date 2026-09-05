@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-quests-addon/quests-auto-quest/quests-auto-quest.module.ts b/temper/temper-quests-addon/quests-auto-quest/quests-auto-quest.module.ts
+index 354ab716784b3a47a3ee57cac2563ac7983defd0..3158c723346f85504e1b6a3174c7c3d853d13d24 100644
+--- a/temper/temper-quests-addon/quests-auto-quest/quests-auto-quest.module.ts
++++ b/temper/temper-quests-addon/quests-auto-quest/quests-auto-quest.module.ts
+@@ -27,7 +27,7 @@ export const questsAutoQuest = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Turning the addon off forgets what the addon remembered.",
++      statement: "Turning the addon off forgets the state the addon remembered.",
+     },
+     {
+       invariantKind: "constraint",
