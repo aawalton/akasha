@@ -10,7 +10,7 @@ export const inventoryEvalEnv = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What only the running game knows is answered unknown rather than guessed.",
+      statement: "A fact only the running game knows is answered unknown rather than guessed.",
     },
     {
       invariantKind: "departure",
