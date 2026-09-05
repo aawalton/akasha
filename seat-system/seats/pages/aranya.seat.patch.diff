@@ -815,3 +815,11 @@ index 08abe8f9f8b3b21351b03929ba83c371ec069763..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-collections-addon
 \ No newline at end of file
+diff --git a/temper/temper-combat-addon/temper-combat-addon b/temper/temper-combat-addon/temper-combat-addon
+deleted file mode 120000
+index 6440266a6fcf9327c20fbdb8ec33463b835395cc..0000000000000000000000000000000000000000
+--- a/temper/temper-combat-addon/temper-combat-addon
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-combat-addon
+\ No newline at end of file
