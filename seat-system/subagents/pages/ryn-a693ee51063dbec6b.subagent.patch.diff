@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/commands/test/test.command.ts b/commands/test/test.command.ts
-index 3d9f456d331aa75d0a0733926b2bd07a7d737887..25e2f6710522e0b82b92de2416ee7776d95e3ae6 100644
+index 3d9f456d331aa75d0a0733926b2bd07a7d737887..3dc0357977d63f39a70ba9e52dea1d8720ef8a20 100644
 --- a/commands/test/test.command.ts
 +++ b/commands/test/test.command.ts
 @@ -30,7 +30,7 @@ export const test = {
@@ -21,3 +21,12 @@ index 3d9f456d331aa75d0a0733926b2bd07a7d737887..25e2f6710522e0b82b92de2416ee7776
      },
      {
        invariantKind: "departure",
+@@ -67,7 +67,7 @@ export const test = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run naming a test is not weighed against the test files under what was named.",
++      statement: "A run naming a test is not weighed against the test files under the paths named.",
+     },
+   ],
+ } as const satisfies Command
