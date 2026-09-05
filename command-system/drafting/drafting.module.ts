@@ -45,7 +45,15 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "A path taken away by no rename refuses the rebase.",
+      statement: "A path taken away by no rename is carried into the patch as a conflict.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A conflict left by a path taken away marks the body the patch held at that path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body spelling no text at a path taken away refuses the rebase.",
     },
     {
       invariantKind: "departure",

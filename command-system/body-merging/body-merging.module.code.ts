@@ -22,6 +22,12 @@ const THEIRS_SAID = "what HEAD holds"
 
 export const CLASH_MARK = `<<<<<<< ${MINE_SAID}`
 
+const SPLIT = "======="
+
+const AWAY_AT = `>>>>>>> ${THEIRS_SAID}`
+
+const BYTES = new TextEncoder()
+
 export type Merged =
   | { readonly body: Uint8Array | null }
   | { readonly why: string; readonly marked?: Uint8Array }
@@ -35,6 +41,13 @@ export function clashing(body: Uint8Array | null): boolean {
   if (body === null) return false
   const said = decodeUtf8(body)
   return said === null ? false : said.split("\n").includes(CLASH_MARK)
+}
+
+export function markedAway(mine: Uint8Array): Uint8Array | null {
+  const said = decodeUtf8(mine)
+  if (said === null) return null
+  const body = said.endsWith("\n") ? said : `${said}\n`
+  return BYTES.encode(`${CLASH_MARK}\n${body}${SPLIT}\n${AWAY_AT}\n`)
 }
 
 function mergedByGit(base: Uint8Array, mine: Uint8Array, theirs: Uint8Array): Merged {

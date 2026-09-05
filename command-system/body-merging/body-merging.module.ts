@@ -55,6 +55,19 @@ export const bodyMerging = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A body marked as taken away is that body under the label for what a change would leave.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body marked as taken away carries no line under the label for what HEAD holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Bytes spelling no text are refused rather than marked as taken away.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body carrying the label for what a change would leave is carrying a conflict.",
     },
     {

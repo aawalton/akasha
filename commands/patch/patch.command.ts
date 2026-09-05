@@ -32,6 +32,8 @@ export const patch = {
     "a call finding no patch beside a subagent's page names the seat that draft would have gone to.",
     "a patch outlives a context replacement, which takes away every reading the agent held.",
     "a conflict the rebase leaves is carried into the patch for the agent to resolve.",
+    "a path a rename moved under the patch is named at the path the rename left.",
+    "a path HEAD took away is carried as a conflict rather than refusing the whole patch.",
     "a read says the body at HEAD, so a show is what says the body the patch would leave.",
     "a resolve reads the body from standard input unless --content-file names a file.",
     "a body handed to a resolve replaces what the patch held rather than merging onto that body.",
@@ -90,6 +92,20 @@ export const patch = {
     {
       invariantKind: "departure",
       statement: "A path that moved under the patch is named as moved.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path named is the path the rebase reached rather than the path the patch carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A rename landing under the patch leaves the patch naming the path the rename left.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rebase that refuses names the paths the patch file carries.",
     },
     {
       invariantKind: "departure",

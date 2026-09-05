@@ -2,7 +2,12 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { dropPatch, keptPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
-import { clashing, mergedOnto, sameBody } from "../body-merging/body-merging.module.code.ts"
+import {
+  clashing,
+  markedAway,
+  mergedOnto,
+  sameBody,
+} from "../body-merging/body-merging.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 import { committed } from "../committing/committing.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
@@ -149,6 +154,12 @@ export function rebasedOnto(
       }
     }
     if (!sameBody(now, one.was)) moved.push(path)
+    const held = one.body
+    const away = now === null && one.was !== null && held !== null ? markedAway(held) : null
+    if (away !== null) {
+      next.set(path, { was: now, body: away })
+      continue
+    }
     const said = merged(one.was, one.body, now)
     if ("why" in said) return { why: `${path} — ${said.why}` }
     next.set(path, { was: now, body: said.body })
