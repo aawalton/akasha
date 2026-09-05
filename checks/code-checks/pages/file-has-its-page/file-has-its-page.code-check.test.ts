@@ -78,7 +78,7 @@ test("a path no page claims is refused, and the refusal says why it matters", ()
   const root = rooted()
   const said = judged(arriving(root, ["akasha/a/stray.ts"]))
   expect(said).toEqual([{ path: "akasha/a/stray.ts", reason: UNCLAIMED }])
-  expect(UNCLAIMED).toContain("enumerated by nothing and audited by nothing")
+  expect(UNCLAIMED).toContain("no page claims this file")
 })
 
 test("a file beside a page that no page property names is refused", () => {
