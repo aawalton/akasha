@@ -14,7 +14,7 @@ export const inventoryRuleFlags = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the flag, what was said, and what that flag takes.",
+      statement: "A refusal names the flag, the value said, and the values that flag takes.",
     },
     {
       invariantKind: "departure",
