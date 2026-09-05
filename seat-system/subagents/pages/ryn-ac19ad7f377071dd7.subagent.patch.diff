@@ -1,0 +1,12 @@
+diff --git a/infrastructure/inference-commands/inference-edit/inference-edit.command.ts b/infrastructure/inference-commands/inference-edit/inference-edit.command.ts
+index d0f9886f7c11f9540d9fb0f54f9cb0138bec8f85..3a8bf4cb43817d6662536a1ee40a0c63e61d2571 100644
+--- a/infrastructure/inference-commands/inference-edit/inference-edit.command.ts
++++ b/infrastructure/inference-commands/inference-edit/inference-edit.command.ts
+@@ -28,7 +28,6 @@ export const inferenceEdit = {
+     "identity carries across a chain of single-image edits, so chaining beats re-naming an anchor.",
+     "a ratio nothing named leaves the output at the input's own shape, and a size nothing named at its own size.",
+     "the engine reaches Google through the key `GEMINI_API_KEY` holds, and no key set refuses the call.",
+-    "a run row is filed whether the edit finished or failed.",
+   ],
+   invariants: [
+     {
