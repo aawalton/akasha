@@ -12,10 +12,7 @@ export const minimapAnimations = {
       invariantKind: "departure",
       statement: "The document holds an animation timeline and no control.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The document loads before the Lua bundle.",
-    },
+
     {
       invariantKind: "departure",
       statement: "The Lua bundle reaches the timeline by name.",
