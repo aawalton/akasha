@@ -91,10 +91,6 @@ export const migrationReach = {
     },
     {
       invariantKind: "departure",
-      statement: "A sweep is run after the landing rather than before the landing.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The values a file says of itself are read from the file's own front matter.",
     },
     {
