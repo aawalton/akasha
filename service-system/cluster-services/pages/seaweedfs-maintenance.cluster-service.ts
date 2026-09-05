@@ -10,6 +10,5 @@ export const seaweedfsMaintenance = {
   resourceName: "seaweedfs-maintenance",
   image: "chrislusf/seaweedfs:3.73",
   schedule: "43 6 * * 0",
-  manifestCode:
-    "infrastructure/seaweedfs/maintenance/seaweedfs-maintenance.cluster-service.code.attachment.ts",
+  manifestSlug: "seaweedfs-maintenance",
 } as const satisfies ClusterService
