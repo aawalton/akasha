@@ -49,7 +49,8 @@ export const indexImport = {
     },
     {
       invariantKind: "departure",
-      statement: "An edge is filed for what the body says whether or not the file it names stands.",
+      statement:
+        "An edge is filed for what the body says whether or not the file that body names stands.",
     },
   ],
 } as const satisfies Index
