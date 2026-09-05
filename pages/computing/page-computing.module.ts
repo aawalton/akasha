@@ -59,7 +59,7 @@ export const pageComputing = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal a key carries says what the fault was.",
+      statement: "A refusal a key carries names the fault.",
     },
     {
       invariantKind: "departure",
