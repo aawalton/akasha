@@ -13,7 +13,7 @@ import { exclusively } from "@akasha/file-system/exclusive"
 import { commitPaths } from "@akasha/git/git-committing"
 import { whileHoldingLanding } from "@akasha/git/git-landing-lock"
 import { gitAskingPaths, gitIgnoring, heldByRepo } from "@akasha/git/git-pathspec"
-import { handOffPush, pushStandingLines } from "@akasha/git/git-push-handoff"
+import { handOffPush, pushBehindLines } from "@akasha/git/git-push-handoff"
 import { AKASHA } from "@akasha/pages-system/checkout-roots"
 import { commitAuthor } from "../commit-author/commit-author.module.code.ts"
 
@@ -341,7 +341,7 @@ export async function land(
       `could not remove ${missing.join(", ")}: nothing was there to take away`
     )
   }
-  const behind = pushStandingLines(root)
+  const behind = pushBehindLines(root)
   process.stdout.write(
     [
       `write:  ${entries.length} file(s) written${taken}`,

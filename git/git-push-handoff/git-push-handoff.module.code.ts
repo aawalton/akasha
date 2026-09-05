@@ -152,7 +152,7 @@ export function handOffPush(root: string): string {
   return `push:   handed off to ${remote} — this write is durable at its commit`
 }
 
-export function pushStandingLines(root: string): readonly string[] {
+export function pushBehindLines(root: string): readonly string[] {
   const state = readPushState(root)
   if (state === null || state.ok) return []
   const counted =
