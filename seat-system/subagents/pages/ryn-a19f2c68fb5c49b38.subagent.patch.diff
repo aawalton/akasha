@@ -63,3 +63,42 @@ index 8c52c33740b657e7ea38c3c1a772e605ab13a9c8..5212c12bc477ef20d3fb15e236d72b18
      },
      {
        invariantKind: "departure",
+diff --git a/alan/music/commands/music-import-artist/music-import-artist.command.ts b/alan/music/commands/music-import-artist/music-import-artist.command.ts
+index 629b3308dc32529bab51238170c943f34d96eecd..4e675b439d990da7c42980a6191536521e8155de 100644
+--- a/alan/music/commands/music-import-artist/music-import-artist.command.ts
++++ b/alan/music/commands/music-import-artist/music-import-artist.command.ts
+@@ -42,7 +42,7 @@ export const musicImportArtist = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A field this does not fetch is left as it was.",
++      statement: "A field this command does not fetch is left as it was.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/tracking/daily/eso-days/properties/surplus-tier-said.text-property.ts b/alan/tracking/daily/eso-days/properties/surplus-tier-said.text-property.ts
+index 460dc60d172b02b813fe1c8a53369e6290b26fe7..6aeb9f6bd7516dfae29c35de6e0921839e5bfae1 100644
+--- a/alan/tracking/daily/eso-days/properties/surplus-tier-said.text-property.ts
++++ b/alan/tracking/daily/eso-days/properties/surplus-tier-said.text-property.ts
+@@ -13,7 +13,7 @@ export const surplusTierSaid = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This is what Alan was told rather than what he had.",
++      statement: "This property is what Alan was told rather than what he had.",
+     },
+   ],
+ } as const satisfies TextProperty
+diff --git a/alan/tracking/daily/words-sync/words-sync.module.ts b/alan/tracking/daily/words-sync/words-sync.module.ts
+index cf90581297fcd651700b74bd297b75564b9d9b8b..c00211e3d571091e15b7f42b7ce4fdf67c50936b 100644
+--- a/alan/tracking/daily/words-sync/words-sync.module.ts
++++ b/alan/tracking/daily/words-sync/words-sync.module.ts
+@@ -9,7 +9,7 @@ export const wordsSync = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This is run as its own program by the name its ops-command page states.",
++      statement: "This module is run as its own program by the name its ops-command page states.",
+     },
+   ],
+ } as const satisfies Module
