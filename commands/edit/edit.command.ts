@@ -69,7 +69,7 @@ export const edit = {
     },
     {
       invariantKind: "departure",
-      statement: "Each substitution is worked against what the earlier substitutions left.",
+      statement: "Each substitution is worked against the body the earlier substitutions left.",
     },
     {
       invariantKind: "departure",
@@ -134,7 +134,7 @@ export const edit = {
     {
       invariantKind: "gap",
       statement:
-        "A caller states what a passage is and learns whether that passage was still that.",
+        "A caller states a passage's text and learns whether that passage was still that text.",
     },
   ],
 } as const satisfies Command
