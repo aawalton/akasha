@@ -13,7 +13,7 @@ export const state = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The page is committed and the file beside it is not.",
+      statement: "The page is committed and the file beside that page is not.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +34,7 @@ export const state = {
     },
     {
       invariantKind: "departure",
-      statement: "A write replaces that line rather than adding one after it.",
+      statement: "A write replaces that line rather than adding one after that line.",
     },
   ],
 } as const satisfies FileProperty
