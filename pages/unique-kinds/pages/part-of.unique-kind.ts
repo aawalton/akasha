@@ -8,19 +8,19 @@ export const partOf = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page is part of what names it under `part-slugs`.",
+      statement: "A page is part of what names that page under `part-slugs`.",
     },
     {
       invariantKind: "departure",
-      statement: "A collection is part of what it names under `part-of-slugs`.",
+      statement: "A collection is part of what that collection names under `part-of-slugs`.",
     },
     {
       invariantKind: "departure",
-      statement: "A page part of more than one page is filed under each of them.",
+      statement: "A page part of more than one page is filed under each of those pages.",
     },
     {
       invariantKind: "departure",
-      statement: "The scope a page is filed under is the slug of the page it is part of.",
+      statement: "The scope a page is filed under is the slug of the page that page is part of.",
     },
     {
       invariantKind: "absence",
