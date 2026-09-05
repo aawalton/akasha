@@ -78,7 +78,7 @@ export const temperLibZone = {
     },
     {
       invariantKind: "constraint",
-      statement: "The zone rows are what upstream LibZone v8.98 states.",
+      statement: "The zone rows are the rows upstream LibZone v8.98 states.",
     },
     {
       invariantKind: "constraint",
