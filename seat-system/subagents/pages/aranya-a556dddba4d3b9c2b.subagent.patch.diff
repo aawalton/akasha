@@ -111,3 +111,15 @@ index 0000000000000000000000000000000000000000..b08585095920d78938d73b6c741aec31
 +    codeAt: (path) => held.codeAt(path),
 +  }
 +}
+diff --git a/checks/modules/change-walking/change-walking.module.ts b/checks/modules/change-walking/change-walking.module.ts
+index 5da308ded932096f9e0ebb1a99cfa98fe5d4f225..115db5fa58115244a7c85bdfea809590a596a921 100644
+--- a/checks/modules/change-walking/change-walking.module.ts
++++ b/checks/modules/change-walking/change-walking.module.ts
+@@ -7,6 +7,7 @@ export const changeWalking = {
+   definition: "how a check reaches the text it judges",
+   code: "ts",
+   test: "ts",
++  testFixtures: "ts",
+   invariants: [
+     {
+       invariantKind: "absence",
