@@ -75,10 +75,6 @@ export const moveOutside = {
       statement: "A relative path climbing out of the repository is left alone.",
     },
     {
-      invariantKind: "absence",
-      statement: "A name carrying more of a segment than the path that moved is left alone.",
-    },
-    {
       invariantKind: "departure",
       statement: "A body no rewriting changed is left out of the change.",
     },
