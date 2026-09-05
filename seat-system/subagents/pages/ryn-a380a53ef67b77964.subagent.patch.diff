@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.ts b/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.ts
+index 442657ae86ee164523bd4dcc5f723a25e666d630..b5229e177268be3edcb8e835eb6c11675d408b35 100644
+--- a/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.ts
++++ b/alan/harness/inboxes/email-entry-writing/email-entry-writing.module.ts
+@@ -46,7 +46,7 @@ export const emailEntryWriting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the landing reports is checked against what the disk holds.",
++      statement: "The landing's report is checked against the file on disk.",
+     },
+     {
+       invariantKind: "constraint",
