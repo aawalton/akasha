@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/file-system/data-place/data-place.module.ts b/file-system/data-place/data-place.module.ts
+index fd56896217f457e09411ed16f35dcc09be975a13..bd5463e4a689c117880748a05fed3075a8161942 100644
+--- a/file-system/data-place/data-place.module.ts
++++ b/file-system/data-place/data-place.module.ts
+@@ -14,7 +14,7 @@ export const dataPlace = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is under it is named by whatever owns that.",
++      statement: "A path under the place is named by the owner of that path.",
+     },
+     {
+       invariantKind: "departure",
