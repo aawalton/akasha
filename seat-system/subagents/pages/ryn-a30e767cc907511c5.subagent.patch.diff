@@ -1,5 +1,5 @@
 diff --git a/alan/tracking/to-dos/to-do.page-type.ts b/alan/tracking/to-dos/to-do.page-type.ts
-index 1b197eb2ba2430c3dd49e73ee6d50b6809e232e5..201e052ef7def9fae0034a3d3e9a197ed27dd656 100644
+index 1b197eb2ba2430c3dd49e73ee6d50b6809e232e5..55f5d8c812e46a527d89d1d9a358e1c2dd198808 100644
 --- a/alan/tracking/to-dos/to-do.page-type.ts
 +++ b/alan/tracking/to-dos/to-do.page-type.ts
 @@ -78,7 +78,7 @@ export const toDo = {
@@ -8,6 +8,15 @@ index 1b197eb2ba2430c3dd49e73ee6d50b6809e232e5..201e052ef7def9fae0034a3d3e9a197e
        invariantKind: "departure",
 -      statement: "A recurring to-do earns once a day, however many times it is completed.",
 +      statement: "A recurring to-do earns once a day, however many times that to-do is completed.",
+     },
+     {
+       invariantKind: "departure",
+@@ -90,7 +90,7 @@ export const toDo = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A to-do's body is what doing it takes.",
++      statement: "A to-do's body is what doing that to-do takes.",
      },
      {
        invariantKind: "departure",
