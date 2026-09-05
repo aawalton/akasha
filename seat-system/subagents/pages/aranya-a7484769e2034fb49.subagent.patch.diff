@@ -345,23 +345,6 @@ index 0000000000000000000000000000000000000000..9abfc70174b06d913b9c3202fc26bae1
 +    { name: "deployment", yaml: deploymentYaml() },
 +  ]
 +}
-diff --git a/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff b/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff
-index 5bc9d8b872e66543da1e120834067c893319353f..01b2817ff751581edbda524357861639073a6343 100644
---- a/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff
-@@ -713,8 +713,12 @@ index 1c5c40fe78ab78a285f369af0f86dbc462543b6a..6552b7b809cc899e83c1f9a465b7d4fe
-    replicas: 1,
-    containerPort: 4000,
- -  manifestCode:
-+<<<<<<< what this change would leave
-+-    "infrastructure/databases/supabase-realtime/supabase-realtime.manifest.code.ts",
-+=======
- -    "service-system/cluster-services/pages/supabase-realtime/supabase-realtime.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "supabase-realtime",
- +=======
- +  manifestCode: "infrastructure/databases/supabase-realtime/supabase-realtime.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/supabase-realtime/supabase-realtime.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/supabase-realtime/supabase-realtime.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 9abfc70174b06d913b9c3202fc26bae1b1f9a108..0000000000000000000000000000000000000000
