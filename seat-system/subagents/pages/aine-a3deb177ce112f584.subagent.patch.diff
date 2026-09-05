@@ -41,7 +41,7 @@ index 01580ca1e185f95171575a8f889d0fcb73c2c1ec..48393ee6cdeb107303c200ac9681b2c3
  ]
  
 diff --git a/hook-system/agent-hooks/block-biome/block-biome.agent-hook.code.ts b/hook-system/agent-hooks/block-biome/block-biome.agent-hook.code.ts
-index c06570075eac577c0dbb679565a2c8f59e1d73e9..ba109d6856c52b80d17f3f864ccaa8882225e675 100644
+index c06570075eac577c0dbb679565a2c8f59e1d73e9..18850c2b643b1425a1c97a24fb19864f002f13b4 100644
 --- a/hook-system/agent-hooks/block-biome/block-biome.agent-hook.code.ts
 +++ b/hook-system/agent-hooks/block-biome/block-biome.agent-hook.code.ts
 @@ -43,8 +43,8 @@ export const SCOPE: readonly string[] = [
@@ -68,6 +68,15 @@ index c06570075eac577c0dbb679565a2c8f59e1d73e9..ba109d6856c52b80d17f3f864ccaa888
    "  every other writer of a tracked file — `sed -i`, `cp`, a redirect, an editor, a script",
    "  a call another program builds — `sh -c`, `xargs`, `make`, a script file",
    "  a call behind a prefix the list above does not name, which hides it as `sh -c` does",
+@@ -81,7 +81,7 @@ export const SCOPE: readonly string[] = [
+   "name, and a longer list is a longer search prompt. A gap found here is evidence that this",
+   "guard cannot close its class, not an invitation to extend it.",
+   "",
+-  `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this stands:`,
++  `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this sits:`,
+   "it is what the program says about itself, held as text it prints rather than as a comment.",
+ ]
+ 
 diff --git a/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts b/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts
 index 909c140961484feabe4cdd30e8f6c98ede2d4834..965aaa78d5d391c0065ed6971be7fb80e20f2b92 100644
 --- a/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts
