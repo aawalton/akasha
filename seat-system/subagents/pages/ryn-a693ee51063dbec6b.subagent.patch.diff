@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/supervising/supervisor-agent-settings/supervisor-agent-settings.module.ts b/seat-system/supervising/supervisor-agent-settings/supervisor-agent-settings.module.ts
+index 5ada194e6447d9ec18f0ca6bafe6ae4200190646..38c83bffabba93c017675d63d069eee34f3cb37b 100644
+--- a/seat-system/supervising/supervisor-agent-settings/supervisor-agent-settings.module.ts
++++ b/seat-system/supervising/supervisor-agent-settings/supervisor-agent-settings.module.ts
+@@ -9,7 +9,8 @@ export const supervisorAgentSettings = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What asks for the settings imports this and calls it rather than running it.",
++      statement:
++        "A caller wanting the settings imports and calls this module rather than running the module.",
+     },
+     {
+       invariantKind: "departure",
