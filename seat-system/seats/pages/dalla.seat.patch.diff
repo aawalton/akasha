@@ -1,5 +1,5 @@
 diff --git a/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts b/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts
-index 700358f2de9ed53f29061349dd5962e6ac7b9128..f4d115cb7988d4a31ec7c772485e80d335aa49fb 100644
+index 700358f2de9ed53f29061349dd5962e6ac7b9128..dacec26928d409651400b6bd9fad79aac870768d 100644
 --- a/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts
 +++ b/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts
 @@ -8,6 +8,7 @@ import {
@@ -10,6 +10,15 @@ index 700358f2de9ed53f29061349dd5962e6ac7b9128..f4d115cb7988d4a31ec7c772485e80d3
    segmentsOf,
    wordsOf,
  } from "../../shell-calls/shell-calls.module.code.ts"
+@@ -132,7 +133,7 @@ export function redirectsIn(words: readonly string[]): readonly string[] {
+ 
+ export function landingsIn(command: string): readonly Landing[] {
+   const found: Landing[] = []
+-  for (const segment of segmentsOf(dequoted(command))) {
++  for (const segment of segmentsOf(dequoted(pastHeredocs(command)))) {
+     const words = calledWords(segment)
+     const first = words[0]
+     if (first !== undefined) {
 diff --git a/hook-system/shell-calls/shell-calls.module.code.ts b/hook-system/shell-calls/shell-calls.module.code.ts
 index 4908d0283878e352ab9efa0376a84d1ec15f12b0..f8d5fb6776250fb8e707e6e15df3d9177380d2c5 100644
 --- a/hook-system/shell-calls/shell-calls.module.code.ts
