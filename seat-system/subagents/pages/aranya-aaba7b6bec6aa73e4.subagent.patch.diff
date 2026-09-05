@@ -1,0 +1,610 @@
+diff --git a/commands/subagent-sweep/subagent-sweep.command.code.ts b/commands/subagent-sweep/subagent-sweep.command.code.ts
+index b22b1e9edbd85323838cb97ea1d5941cae6afd13..ced9e9333901a9864f73192318a265dd32679206 100644
+--- a/commands/subagent-sweep/subagent-sweep.command.code.ts
++++ b/commands/subagent-sweep/subagent-sweep.command.code.ts
+@@ -2,6 +2,7 @@ import { resolve } from "node:path"
+ import { landedMechanically } from "@akasha/command-system/asking"
+ import type { FileEdit } from "@akasha/command-system/landing"
+ import { dropReadings } from "@akasha/command-system/reading"
++import { createSubagentReader, type SubagentNode } from "@akasha/editor-extension/subagent-reading"
+ import { scanProcEntries } from "@akasha/seat-system/proc-scan"
+ import type { ProcLivenessEntry } from "@akasha/seat-system/seat-proc-liveness"
+ import {
+@@ -9,6 +10,7 @@ import {
+   type Judged,
+   judgedOver,
+   pagesIn,
++  type SubagentPage,
+   seenIn,
+   staleAmong,
+ } from "@akasha/seat-system/subagent-census"
+@@ -17,6 +19,7 @@ import {
+   answering,
+   type Given,
+ } from "../../command-system/calling/calling.module.code.ts"
++import { transcriptOf } from "../../seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
+ 
+ // A CENSUS BY DEFAULT, BECAUSE THE WRONG REMOVAL IS THE HARM. A subagent's page is the restart
+ // interlock, so taking away the page of a subagent that is at work tells `sr` the seat is idle and
+@@ -28,6 +31,16 @@ import {
+ //
+ // WHAT WAS READ OFF /proc AND OUT OF THE LOGS IS A PARAMETER, so a test seeds a live process and
+ // watches the page it answers for kept, which is the one failure this command must never make.
++//
++// THE TRANSCRIPTS ARE READ HERE AND ONLY EVER ADD A WORKING. An acting agent id names a subagent
++// mid tool call alone, so a subagent waiting on the model is indistinguishable from a dead one, and
++// most of the fleet reads undetermined. A seat's transcript knows better: it names every subagent
++// launched that has not returned. What that reading may do is bounded on purpose. A transcript
++// learns an agent id from the launch receipt, so a compacted or truncated one names a running
++// subagent with no id at all, which joins to no page. Used to prove life, that costs a live
++// subagent nothing worse than the undetermined it already had. Used to prove an end, it would take
++// away a working subagent's page. So a transcript that will not open, a seat naming none, and a
++// reading that throws are each worth exactly nothing here rather than worth a removal.
+ 
+ const REMOVE = "--remove"
+ 
+@@ -35,6 +48,14 @@ const CALLED_AS = "akasha subagent sweep"
+ 
+ export type Read = { readonly removing: boolean } | { readonly refused: string }
+ 
++export interface SeatTranscripts {
++  readonly forSeat: (agentId: string, transcriptPath: string) => Promise<readonly SubagentNode[]>
++}
++
++export type TranscriptPathOf = (seatId: string) => string | null
++
++export type RunningSaid = (pages: readonly SubagentPage[]) => Promise<ReadonlySet<string>>
++
+ export function namedIn(argv: readonly string[]): Read {
+   let removing = false
+   for (const token of argv) {
+@@ -51,6 +72,45 @@ export function namedIn(argv: readonly string[]): Read {
+   return { removing }
+ }
+ 
++// AN ENTRY NAMING NO AGENT ID IS DROPPED RATHER THAN CARRIED AS AN EMPTY NAME, so nothing
++// downstream has to tell an unnamed subagent from a page that states no id of its own.
++function ownIdsInto(held: Set<string>, nodes: readonly SubagentNode[]): undefined {
++  for (const node of nodes) {
++    if (node.agentId !== null && node.agentId !== "") held.add(node.agentId)
++    ownIdsInto(held, node.children)
++  }
++  return undefined
++}
++
++// ONE SEAT'S FAILURE COSTS THAT SEAT ALONE. Each seat is asked apart from the others and a throw
++// leaves the ids gathered so far, because a reading that answers for fewer subagents than there are
++// leaves pages undetermined, and undetermined pages are never removed.
++export async function runningOwnIn(
++  pages: readonly SubagentPage[],
++  reading: SeatTranscripts,
++  pathOf: TranscriptPathOf
++): Promise<ReadonlySet<string>> {
++  const held = new Set<string>()
++  const seats = [...new Set(pages.map((one) => one.seatId))].filter((one) => one !== "").sort()
++  for (const seat of seats) {
++    let named: string | null
++    try {
++      named = pathOf(seat)
++    } catch {
++      continue
++    }
++    if (named === null || named === "") continue
++    try {
++      ownIdsInto(held, await reading.forSeat(seat, named))
++    } catch {}
++  }
++  return held
++}
++
++async function transcriptsSay(pages: readonly SubagentPage[]): Promise<ReadonlySet<string>> {
++  return runningOwnIn(pages, createSubagentReader(), (seat) => transcriptOf(seat)?.value ?? null)
++}
++
+ export function heldBack(stale: number): readonly string[] {
+   return [
+     "",
+@@ -90,12 +150,20 @@ export async function subagentSweep(
+   argv: readonly string[],
+   given: Given,
+   entries: readonly ProcLivenessEntry[] = scanProcEntries().entries,
+-  baseDir?: string
++  baseDir?: string,
++  said: RunningSaid = transcriptsSay
+ ): Promise<Answer> {
+   const read = namedIn(argv)
+   if ("refused" in read) return answering([], [read.refused], 1)
+   const root = resolve(given.root)
+-  const judged = judgedOver(pagesIn(root), seenIn(entries, baseDir))
++  const pages = pagesIn(root)
++  let running: ReadonlySet<string> = new Set()
++  try {
++    running = await said(pages)
++  } catch {
++    running = new Set()
++  }
++  const judged = judgedOver(pages, seenIn(entries, baseDir, running))
+   const census = censusOf(judged)
+   const stale = staleAmong(judged)
+   if (!read.removing) return answering([...census, ...heldBack(stale.length)], [], 0)
+diff --git a/commands/subagent-sweep/subagent-sweep.command.test-fixtures.ts b/commands/subagent-sweep/subagent-sweep.command.test-fixtures.ts
+index fdce55c0db26cee6fcee6056e3659ec34802372f..282e2ae6fecdb9be438b0bd053db3a0cc5af203a 100644
+--- a/commands/subagent-sweep/subagent-sweep.command.test-fixtures.ts
++++ b/commands/subagent-sweep/subagent-sweep.command.test-fixtures.ts
+@@ -1,11 +1,13 @@
+ import { existsSync, mkdirSync, writeFileSync } from "node:fs"
+ import { join } from "node:path"
+ import { writing } from "@akasha/command-system/scratching/testing"
++import type { SubagentNode } from "@akasha/editor-extension/subagent-reading"
+ import { said as gitIn } from "@akasha/git/git-running"
+ import { rebuiltIn } from "@akasha/indexes/testing"
+ import type { ProcLivenessEntry } from "@akasha/seat-system/seat-proc-liveness"
+ import { declaringUnder } from "@akasha/testing-system/declaring"
+ import type { Given } from "../../command-system/calling/calling.module.code.ts"
++import type { RunningSaid, SeatTranscripts } from "./subagent-sweep.command.code.ts"
+ 
+ export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
+ 
+@@ -91,3 +93,23 @@ export function givenIn(root: string): Given {
+ export function there(root: string, at: string): boolean {
+   return existsSync(join(root, at))
+ }
++
++// A ROW AS A TRANSCRIPT LEAVES ONE. The id is the launch receipt's, so `null` is the row a
++// compacted or truncated transcript leaves, which is the shape the census must be inert to.
++export function node(agentId: string | null, children: readonly SubagentNode[] = []): SubagentNode {
++  return { key: `tool-${agentId ?? "unnamed"}`, label: "Explore", agentId, children }
++}
++
++export function reading(by: Readonly<Record<string, readonly SubagentNode[]>>): SeatTranscripts {
++  return { forSeat: (agentId) => Promise.resolve(by[agentId] ?? []) }
++}
++
++export const UNREADABLE: SeatTranscripts = {
++  forSeat: () => Promise.reject(new Error("EACCES: permission denied")),
++}
++
++export function saying(own: readonly string[]): RunningSaid {
++  return () => Promise.resolve(new Set(own))
++}
++
++export const THROWS: RunningSaid = () => Promise.reject(new Error("no transcript would open"))
+diff --git a/commands/subagent-sweep/subagent-sweep.command.test.ts b/commands/subagent-sweep/subagent-sweep.command.test.ts
+index cab7a50b0f74e04180cc46d95af2b978520b6694..bb758bb73548940221f03db391727d6555ba4f55 100644
+--- a/commands/subagent-sweep/subagent-sweep.command.test.ts
++++ b/commands/subagent-sweep/subagent-sweep.command.test.ts
+@@ -1,7 +1,8 @@
+ import { expect, test } from "bun:test"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+ import { said as gitIn } from "@akasha/git/git-running"
+-import { subagentSweep } from "./subagent-sweep.command.code.ts"
++import { pagesIn } from "@akasha/seat-system/subagent-census"
++import { runningOwnIn, type SeatTranscripts, subagentSweep } from "./subagent-sweep.command.code.ts"
+ import {
+   AGAIN,
+   agentIdOf,
+@@ -9,15 +10,20 @@ import {
+   entry,
+   givenIn,
+   logPut,
++  node,
+   OTHER_ID,
+   OWN,
+   paged,
+   pathOf,
++  reading,
+   SEAT_ID,
++  saying,
+   seated,
+   TASK,
++  THROWS,
+   takeLine,
+   there,
++  UNREADABLE,
+ } from "./subagent-sweep.command.test-fixtures.ts"
+ 
+ const ACTING = agentIdOf(SEAT_ID, OWN)
+@@ -39,9 +45,11 @@ const ALIVE = [entry({ agentId: SEAT_ID, cmdline: CHILD, pid: 8 })]
+ 
+ const ACTS = [entry({ agentId: SEAT_ID, actingAgentId: ACTING, cmdline: TASK, pid: 9 })]
+ 
++const NOWHERE = "/var/tmp/subagent-sweep-no-transcript.jsonl"
++
+ test("a page whose agent no live process answers for is named stale", async () => {
+   const { root, base } = worldWith()
+-  const said = await subagentSweep([], givenIn(root), GONE, base)
++  const said = await subagentSweep([], givenIn(root), GONE, base, saying([]))
+   expect(said.code).toBe(0)
+   expect(said.report.join("\n")).toContain(`STALE`)
+   expect(said.report.join("\n")).toContain(`agent ${ACTING}`)
+@@ -50,7 +58,7 @@ test("a page whose agent no live process answers for is named stale", async () =
+ 
+ test("a page a live process acts under is named working rather than stale", async () => {
+   const { root, base } = worldWith()
+-  const said = (await subagentSweep([], givenIn(root), ACTS, base)).report.join("\n")
++  const said = (await subagentSweep([], givenIn(root), ACTS, base, saying([]))).report.join("\n")
+   expect(said).toContain("1 subagent page(s): 1 working, 0 stale, 0 undetermined")
+   expect(said).toContain("pid 9 answers")
+   expect(said).not.toMatch(/^STALE/m)
+@@ -60,7 +68,7 @@ test("a page a live process acts under is named working rather than stale", asyn
+ test("a page a live process acts under is left alone by a run told to remove", async () => {
+   const { root, base, at } = worldWith()
+   const was = gitIn(root, ["rev-parse", "HEAD"])
+-  const said = await subagentSweep(["--remove"], givenIn(root), ACTS, base)
++  const said = await subagentSweep(["--remove"], givenIn(root), ACTS, base, saying([]))
+   expect(said.code).toBe(0)
+   expect(said.report.join("\n")).toContain("no page was judged STALE, so nothing went")
+   expect(there(root, at)).toBe(true)
+@@ -70,7 +78,7 @@ test("a page a live process acts under is left alone by a run told to remove", a
+ 
+ test("a page nothing settles is undetermined and is left alone by a run told to remove", async () => {
+   const { root, base, at } = worldWith()
+-  const said = await subagentSweep(["--remove"], givenIn(root), ALIVE, base)
++  const said = await subagentSweep(["--remove"], givenIn(root), ALIVE, base, saying([]))
+   expect(said.report.join("\n")).toContain("UNDETERMINED")
+   expect(said.report.join("\n")).toContain("no page was judged STALE, so nothing went")
+   expect(there(root, at)).toBe(true)
+@@ -80,7 +88,7 @@ test("a page nothing settles is undetermined and is left alone by a run told to
+ test("a run naming nothing writes nothing, though the census called a page stale", async () => {
+   const { root, base, at } = worldWith()
+   const was = gitIn(root, ["rev-parse", "HEAD"])
+-  const said = await subagentSweep([], givenIn(root), GONE, base)
++  const said = await subagentSweep([], givenIn(root), GONE, base, saying([]))
+   expect(said.report.join("\n")).toContain("wrote nothing")
+   expect(said.report.join("\n")).toContain("Say `--remove`")
+   expect(there(root, at)).toBe(true)
+@@ -91,7 +99,7 @@ test("a run naming nothing writes nothing, though the census called a page stale
+ test("a run told to remove takes the stale page away and says so", async () => {
+   const { root, base, at } = worldWith()
+   const was = gitIn(root, ["rev-parse", "HEAD"])
+-  const said = await subagentSweep(["--remove"], givenIn(root), GONE, base)
++  const said = await subagentSweep(["--remove"], givenIn(root), GONE, base, saying([]))
+   expect(said.code).toBe(0)
+   expect(said.report.join("\n")).toContain(`${at} went`)
+   expect(there(root, at)).toBe(false)
+@@ -101,7 +109,7 @@ test("a run told to remove takes the stale page away and says so", async () => {
+ 
+ test("the commit says why each page went", async () => {
+   const { root, base } = worldWith()
+-  await subagentSweep(["--remove"], givenIn(root), GONE, base)
++  await subagentSweep(["--remove"], givenIn(root), GONE, base, saying([]))
+   const said = gitIn(root, ["log", "-1", "--pretty=%B"])
+   expect(said).toContain("1 subagent page(s) go")
+   expect(said).toContain("no process at all carries its seat's agent id")
+@@ -111,7 +119,7 @@ test("the commit says why each page went", async () => {
+ test("a take-down the log says was refused is stale and goes", async () => {
+   const { root, base, at } = worldWith()
+   logPut(base, SEAT_ID, [takeLine("akasha", OWN)])
+-  const said = await subagentSweep(["--remove"], givenIn(root), ALIVE, base)
++  const said = await subagentSweep(["--remove"], givenIn(root), ALIVE, base, saying([]))
+   expect(said.code).toBe(0)
+   expect(there(root, at)).toBe(false)
+   world.sweep()
+@@ -123,7 +131,7 @@ test("the stale go and the working and undetermined remain in one run", async ()
+   const working = paged(root, "akasha", OWN, ACTING)
+   const held = paged(root, "akasha", AGAIN, agentIdOf(SEAT_ID, AGAIN))
+   const gone = paged(root, "thea", OWN, agentIdOf(OTHER_ID, OWN))
+-  const said = await subagentSweep(["--remove"], givenIn(root), ACTS, base)
++  const said = await subagentSweep(["--remove"], givenIn(root), ACTS, base, saying([]))
+   expect(said.code).toBe(0)
+   expect(there(root, working)).toBe(true)
+   expect(there(root, held)).toBe(true)
+@@ -134,10 +142,77 @@ test("the stale go and the working and undetermined remain in one run", async ()
+ test("a word this takes no flag for refuses the whole run and writes nothing", async () => {
+   const { root, base, at } = worldWith()
+   for (const word of ["--all", "--force", pathOf("akasha", OWN)]) {
+-    const said = await subagentSweep([word], givenIn(root), GONE, base)
++    const said = await subagentSweep([word], givenIn(root), GONE, base, saying([]))
+     expect(said.code).toBe(1)
+     expect(said.refusals.join("\n")).toContain("is not a word this takes")
+   }
+   expect(there(root, at)).toBe(true)
+   world.sweep()
+ })
++
++test("a transcript naming a page's own id reads that page working where no process acts", async () => {
++  const { root, base } = worldWith()
++  const bare = (await subagentSweep([], givenIn(root), ALIVE, base, saying([]))).report.join("\n")
++  expect(bare).toContain("0 working, 0 stale, 1 undetermined")
++  const said = (await subagentSweep([], givenIn(root), ALIVE, base, saying([OWN]))).report.join(
++    "\n"
++  )
++  expect(said).toContain("1 subagent page(s): 1 working, 0 stale, 0 undetermined")
++  expect(said).toContain("its seat's transcript names it")
++  world.sweep()
++})
++
++test("a transcript that will not open leaves the census the other evidence reached", async () => {
++  const { root, base, at } = worldWith()
++  for (const seen of [ACTS, ALIVE, GONE]) {
++    const bare = (await subagentSweep([], givenIn(root), seen, base, saying([]))).report
++    const said = (await subagentSweep([], givenIn(root), seen, base, THROWS)).report
++    expect(said.join("\n")).toBe(bare.join("\n"))
++  }
++  expect(there(root, at)).toBe(true)
++  world.sweep()
++})
++
++test("a page working by its acting agent id is still working when no transcript opens", async () => {
++  const { root, base, at } = worldWith()
++  const said = await subagentSweep(["--remove"], givenIn(root), ACTS, base, THROWS)
++  expect(said.report.join("\n")).toContain("1 working, 0 stale, 0 undetermined")
++  expect(said.report.join("\n")).toContain("no page was judged STALE, so nothing went")
++  expect(there(root, at)).toBe(true)
++  world.sweep()
++})
++
++test("a running entry naming no agent id adds nothing to what the transcripts say", async () => {
++  const { root } = worldWith()
++  const pages = pagesIn(root)
++  const none = await runningOwnIn(pages, reading({ [SEAT_ID]: [node(null)] }), () => NOWHERE)
++  expect(none.size).toBe(0)
++  const some = await runningOwnIn(
++    pages,
++    reading({ [SEAT_ID]: [node(null), node(OWN, [node(null), node(AGAIN)])] }),
++    () => NOWHERE
++  )
++  expect([...some].sort()).toEqual([AGAIN, OWN].sort())
++  world.sweep()
++})
++
++test("a seat whose reading throws costs that seat alone rather than the whole run", async () => {
++  const { root } = worldWith()
++  const pages = pagesIn(root)
++  expect((await runningOwnIn(pages, UNREADABLE, () => NOWHERE)).size).toBe(0)
++  world.sweep()
++})
++
++test("a seat naming no transcript is asked for no reading at all", async () => {
++  const { root } = worldWith()
++  let asked = 0
++  const counted: SeatTranscripts = {
++    forSeat: () => {
++      asked += 1
++      return Promise.resolve([])
++    },
++  }
++  expect((await runningOwnIn(pagesIn(root), counted, () => null)).size).toBe(0)
++  expect(asked).toBe(0)
++  world.sweep()
++})
+diff --git a/commands/subagent-sweep/subagent-sweep.command.ts b/commands/subagent-sweep/subagent-sweep.command.ts
+index 92226ded82b95565e1a3f03da4f6ccbf94af22a5..421b451d2a6a86c227a55e26c2d63f048606e1e5 100644
+--- a/commands/subagent-sweep/subagent-sweep.command.ts
++++ b/commands/subagent-sweep/subagent-sweep.command.ts
+@@ -13,7 +13,8 @@ export const subagentSweep = {
+   helpNotes: [
+     "a run naming nothing reports and writes nothing, which is how a person reads the census first.",
+     "a page is judged WORKING, STALE or UNDETERMINED, and only STALE ever goes.",
+-    "WORKING is a live process acting under the page's agent id, which beats every other reading.",
++    "WORKING is a live process acting under the page's agent id, or the seat's transcript naming the subagent as not yet returned.",
++    "a transcript only ever adds a WORKING: an entry carrying no agent id joins to no page, so a compacted transcript leaves every judgement as it was.",
+     "STALE is a take-down the seat's log says was refused, or a seat no process at all carries the id of.",
+     "UNDETERMINED is everything else, because a subagent waiting on the model runs no process of its own.",
+     "no page's age is read: a page written long ago under a process still running says nothing.",
+@@ -46,6 +47,22 @@ export const subagentSweep = {
+       invariantKind: "departure",
+       statement: "A run told to remove where nothing is stale says so and writes nothing.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "Each seat's transcript is read for the subagents that seat has not seen return.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No transcript reading makes a page removable.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A transcript that will not open leaves the census the other evidence reached.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seat whose reading throws costs that seat alone rather than the whole run.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The commit says why each page went, one line for each.",
+diff --git a/seat-system/subagent-census/subagent-census.module.code.ts b/seat-system/subagent-census/subagent-census.module.code.ts
+index f45ac1964afd7564a9404de0f7a1cb6d01d45be0..0f7ebbe9c511999f81e825b72ebd180970183dfe 100644
+--- a/seat-system/subagent-census/subagent-census.module.code.ts
++++ b/seat-system/subagent-census/subagent-census.module.code.ts
+@@ -22,6 +22,15 @@ import { LOG_AT, SUBAGENTS_AT } from "../subagents/presence/subagent-presence.mo
+ // as the page's seat proves the seat that would host the subagent is gone. Nothing else is read,
+ // and a page's age is read nowhere at all: a page written days ago under a Claude process that has
+ // been up longer says nothing about whether the subagent inside it returned.
++//
++// A FOURTH IS EVIDENCE OF LIFE AND OF NOTHING ELSE. A seat's transcript names the subagents that
++// seat launched and has not seen return, which is exactly what an acting agent id cannot see: a
++// subagent waiting on the model runs no process to carry one. Those ids arrive as `runningOwn` and
++// are read for one purpose, which is to lift a page to working. That asymmetry is deliberate. A
++// transcript learns an agent id from the launch receipt alone, so a compacted or truncated one
++// yields a running entry naming no id, which joins to no page. Read to prove life, such an entry
++// costs a live subagent nothing worse than undetermined. Read to prove an end, the same entry would
++// take away a working subagent's page and blind the interlock this whole census is here to keep.
+ 
+ const SEAT = "principalSeatName"
+ 
+@@ -55,6 +64,7 @@ export interface Seen {
+   readonly seatPids: ReadonlyMap<string, readonly number[]>
+   readonly actingPids: ReadonlyMap<string, readonly number[]>
+   readonly takenDown: ReadonlySet<string>
++  readonly runningOwn: ReadonlySet<string>
+ }
+ 
+ export interface Judged {
+@@ -143,11 +153,19 @@ function pidsByAgentId(entries: readonly ProcLivenessEntry[]): Map<string, numbe
+   return byId
+ }
+ 
+-export function seenIn(entries: readonly ProcLivenessEntry[], baseDir?: string): Seen {
++// WHAT A TRANSCRIPT SAYS IS HANDED IN, as what /proc says is handed in, because reading one opens
++// files outside the repository. A call naming none is a call with no transcript evidence, which
++// judges exactly as this module judged before there was any.
++export function seenIn(
++  entries: readonly ProcLivenessEntry[],
++  baseDir?: string,
++  runningOwn: ReadonlySet<string> = new Set()
++): Seen {
+   return {
+     seatPids: pidsByAgentId(entries),
+     actingPids: actingAgentPidsFromProc(entries),
+     takenDown: takenDownIn(baseDir),
++    runningOwn,
+   }
+ }
+ 
+@@ -156,6 +174,17 @@ function judgedOne(page: SubagentPage, seen: Seen): Judged {
+   if (pids.length > 0) {
+     return { page, verdict: WORKING, pids, why: "a live process acts under this agent id" }
+   }
++  // THE ONE THING A TRANSCRIPT MAY DO. Every branch below this one can reach STALE, so the
++  // transcript is asked before them and answers working or says nothing at all. A page whose own id
++  // is empty is a page no transcript entry could name, and it falls through untouched.
++  if (page.own !== "" && seen.runningOwn.has(page.own)) {
++    return {
++      page,
++      verdict: WORKING,
++      pids,
++      why: "its seat's transcript names it as a subagent that has not returned",
++    }
++  }
+   if (page.agentId === "" || page.seatId === "") {
+     return {
+       page,
+diff --git a/seat-system/subagent-census/subagent-census.module.test.ts b/seat-system/subagent-census/subagent-census.module.test.ts
+index 883fd54ecc294830aef71c887058b835193049f5..7e3464ea10390877c140a583026e8e713584ac93 100644
+--- a/seat-system/subagent-census/subagent-census.module.test.ts
++++ b/seat-system/subagent-census/subagent-census.module.test.ts
+@@ -55,6 +55,17 @@ function judgedIn(root: string, entries: Parameters<typeof seenIn>[0], baseDir?:
+   return judgedOver(pagesIn(root), seenIn(entries, baseDir))
+ }
+ 
++// WHAT A TRANSCRIPT SAID, SEEDED. A call naming no ids is the same call the tests above make, so
++// each of those is the unseeded control for the one below it.
++function judgedWith(
++  root: string,
++  entries: Parameters<typeof seenIn>[0],
++  baseDir: string,
++  own: readonly string[]
++) {
++  return judgedOver(pagesIn(root), seenIn(entries, baseDir, new Set(own)))
++}
++
+ test("a page is read with the seat and the agent id its body states", () => {
+   const root = rooted()
+   const page = pagesIn(root)[0]
+@@ -206,3 +217,72 @@ test("a root holding no subagents folder is a census of nothing", () => {
+   expect(pagesIn(root)).toEqual([])
+   world.sweep()
+ })
++
++test("a subagent its seat's transcript names is working where nothing acts under its id", () => {
++  const root = rooted()
++  const base = world.rootFor("subagent-census-logs-")
++  const seen = [entry({ agentId: SEAT_ID, cmdline: CHILD, pid: 9 })]
++  expect(judgedWith(root, seen, base, [])[0]?.verdict).toBe(UNDETERMINED)
++  const judged = judgedWith(root, seen, base, [OWN])
++  expect(judged[0]?.verdict).toBe(WORKING)
++  expect(judged[0]?.why).toContain("its seat's transcript names it")
++  expect(judged[0]?.pids).toEqual([])
++  world.sweep()
++})
++
++test("an id no page carries lifts no page, so a transcript of others changes nothing", () => {
++  const root = rooted()
++  const base = world.rootFor("subagent-census-logs-")
++  for (const seen of [[], [entry({ agentId: SEAT_ID, cmdline: CHILD, pid: 9 })]]) {
++    const bare = judgedWith(root, seen, base, [])
++    const said = judgedWith(root, seen, base, [AGAIN])
++    expect(said[0]?.verdict).toBe(bare[0]?.verdict)
++    expect(said[0]?.why).toBe(bare[0]?.why)
++  }
++  world.sweep()
++})
++
++test("a transcript entry naming no agent id joins to no page and changes no judgement", () => {
++  const root = world.rootFor("subagent-census-")
++  pagePut(root, "akasha", OWN, "")
++  const base = world.rootFor("subagent-census-logs-")
++  const bare = judgedWith(root, [], base, [])
++  const said = judgedWith(root, [], base, [""])
++  expect(said[0]?.verdict).toBe(UNDETERMINED)
++  expect(said[0]?.verdict).toBe(bare[0]?.verdict)
++  expect(said[0]?.why).toBe(bare[0]?.why)
++  world.sweep()
++})
++
++test("no page becomes stale from a transcript, whatever that transcript names", () => {
++  const root = rooted()
++  const base = world.rootFor("subagent-census-logs-")
++  logPut(base, SEAT_ID, [takeLine("akasha", AGAIN)])
++  const seats = [
++    [],
++    [entry({ agentId: SEAT_ID, cmdline: CHILD, pid: 9 })],
++    [entry({ agentId: OTHER_ID, cmdline: CHILD, pid: 9 })],
++    [entry({ agentId: SEAT_ID, actingAgentId: ACTING, cmdline: TASK, pid: 9 })],
++  ]
++  for (const seen of seats) {
++    const bare = staleAmong(judgedWith(root, seen, base, [])).map((one) => one.page.slug)
++    for (const own of [[], [""], [OWN], [AGAIN], [OWN, AGAIN]]) {
++      const said = staleAmong(judgedWith(root, seen, base, own)).map((one) => one.page.slug)
++      expect(said.every((slug) => bare.includes(slug))).toBe(true)
++    }
++  }
++  world.sweep()
++})
++
++test("a page working by its acting agent id is working whatever the transcript says", () => {
++  const root = rooted()
++  const base = world.rootFor("subagent-census-logs-")
++  const seen = [entry({ agentId: SEAT_ID, actingAgentId: ACTING, cmdline: TASK, pid: 41 })]
++  for (const own of [[], [""], [AGAIN]]) {
++    const judged = judgedWith(root, seen, base, own)
++    expect(judged[0]?.verdict).toBe(WORKING)
++    expect(judged[0]?.pids).toEqual([41])
++    expect(judged[0]?.why).toBe("a live process acts under this agent id")
++  }
++  world.sweep()
++})
+diff --git a/seat-system/subagent-census/subagent-census.module.ts b/seat-system/subagent-census/subagent-census.module.ts
+index e6e803e2f3a6fc3df115f65fde97a6959a923301..f36543c7c97370f1432116515f6f9cfcedb4a4ef 100644
+--- a/seat-system/subagent-census/subagent-census.module.ts
++++ b/seat-system/subagent-census/subagent-census.module.ts
+@@ -25,6 +25,26 @@ export const subagentCensus = {
+       invariantKind: "departure",
+       statement: "A page read as working is judged working whatever else is known.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A subagent its seat's transcript says is running reads that page as working.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Transcript evidence is weighed before every rule that could reach stale.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing read from a transcript makes a page stale.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page no transcript names keeps the judgement the other evidence reached.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A transcript entry naming no agent id joins to no page and changes nothing.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A take-down the seat's log says was refused reads its page as stale.",
+@@ -78,5 +98,9 @@ export const subagentCensus = {
+       invariantKind: "departure",
+       statement: "What was read off /proc is handed in rather than read here.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "What a seat's transcript says is handed in rather than read here.",
++    },
+   ],
+ } as const satisfies Module
