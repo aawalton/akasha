@@ -35,3 +35,27 @@ index 0a02c27fc8711c1ffa440c7e1697aae4b9fb8cba..836eae0959420f9c8f3a913b42286328
    if (out === null) process.stdout.write(json)
    else writeFileSync(out, json)
  }
+diff --git a/seat-system/supervisor-decide/supervisor-decide.module.code.ts b/seat-system/supervisor-decide/supervisor-decide.module.code.ts
+index 4fb7310eb9b013b9138f9335b5ba908d2b3cc6a4..684e70f622f22f7cf937c635f5647c47611daa14 100644
+--- a/seat-system/supervisor-decide/supervisor-decide.module.code.ts
++++ b/seat-system/supervisor-decide/supervisor-decide.module.code.ts
+@@ -44,8 +44,18 @@ function requireNotice(all: Readonly<Record<string, string>>, key: string): stri
+   return text
+ }
+ 
++// `notices` throws, because it is a function rather than a command. Here it is one, so a
++// composing that fails says what failed on the line a caller's mistake is said on.
++function allNotices(): Readonly<Record<string, string>> {
++  try {
++    return notices()
++  } catch (error) {
++    fail(error instanceof Error ? error.message : String(error))
++  }
++}
++
+ function resumeNotices(): ResumeNotices {
+-  const all = notices()
++  const all = allNotices()
+   return {
+     "restart-immediate": requireNotice(all, "restart-immediate"),
+     "restart-deferred": requireNotice(all, "restart-deferred"),
