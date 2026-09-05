@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/eval/monarch-eval.domain.ts b/alan/harness/monarch/eval/monarch-eval.domain.ts
-index 656fba0aff34ae26bb9da11e7b13cdbdef045e85..23b4bd49896f06adcbde80e82af9789eae777a9e 100644
+index 656fba0aff34ae26bb9da11e7b13cdbdef045e85..8c49bf8b09488ea653e6f9bbff78b4eae813f737 100644
 --- a/alan/harness/monarch/eval/monarch-eval.domain.ts
 +++ b/alan/harness/monarch/eval/monarch-eval.domain.ts
 @@ -26,8 +26,7 @@ export const monarchEval = {
@@ -12,7 +12,7 @@ index 656fba0aff34ae26bb9da11e7b13cdbdef045e85..23b4bd49896f06adcbde80e82af9789e
      },
      {
        invariantKind: "departure",
-@@ -65,7 +64,7 @@ export const monarchEval = {
+@@ -65,12 +64,11 @@ export const monarchEval = {
      {
        invariantKind: "departure",
        statement:
@@ -21,3 +21,9 @@ index 656fba0aff34ae26bb9da11e7b13cdbdef045e85..23b4bd49896f06adcbde80e82af9789e
      },
      {
        invariantKind: "departure",
+-      statement:
+-        "The agent is shown both the merchant title and the bank's own words, because each destroys signal the other keeps.",
++      statement: "The agent is shown both the merchant title and the bank's own words.",
+     },
+     {
+       invariantKind: "absence",
