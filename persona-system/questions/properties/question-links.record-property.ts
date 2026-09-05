@@ -26,7 +26,7 @@ export const questionLinks = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One thing to open is two links where the web and the app reach it apart.",
+      statement: "One thing to open is two links where the web and the app reach that thing apart.",
     },
     {
       invariantKind: "departure",
