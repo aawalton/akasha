@@ -1,0 +1,12 @@
+diff --git a/akasha.domain.ts b/akasha.domain.ts
+index ec4c84cd375ce42d81b38a4b8e3a6809d621c5ea..9cb3a6db8a51db34d4cfdf7bf5aae6a07a9ccd44 100644
+--- a/akasha.domain.ts
++++ b/akasha.domain.ts
+@@ -55,6 +55,7 @@ export const akasha = {
+     "domain/places",
+     "domain/image-generation",
+     "domain/infrastructure",
++    "domain/inference",
+     "domain/mathematics",
+     "domain/technology",
+     "domain/all-about-alan",
