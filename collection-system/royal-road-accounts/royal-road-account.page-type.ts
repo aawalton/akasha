@@ -23,7 +23,7 @@ export const royalRoadAccount = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An account is the sign-in rather than any story reached through it.",
+      statement: "An account is the sign-in rather than any story reached through that account.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +31,8 @@ export const royalRoadAccount = {
     },
     {
       invariantKind: "departure",
-      statement: "An account is reached by its slug rather than by the address it signs in as.",
+      statement:
+        "An account is reached by its slug rather than by the address that account signs in as.",
     },
     {
       invariantKind: "gap",
