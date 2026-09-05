@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/editor-extension/domain-tree-reading/domain-tree-reading.module.ts b/editor-extension/domain-tree-reading/domain-tree-reading.module.ts
+index 3808714f282be5386ad68d0a9eef1f4afdb0cf3b..3c919597ed4c7a8dfb0665e36d768a2412203507 100644
+--- a/editor-extension/domain-tree-reading/domain-tree-reading.module.ts
++++ b/editor-extension/domain-tree-reading/domain-tree-reading.module.ts
+@@ -10,7 +10,7 @@ export const domainTreeReading = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The tree is asked as a child process because composing it opens page bodies and only bun loads one.",
++        "Composing the tree opens page bodies, which only bun loads, so the tree is asked as a child process.",
+     },
+     {
+       invariantKind: "departure",
