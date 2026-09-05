@@ -26,7 +26,8 @@ export const ciBenchmark = {
     },
     {
       invariantKind: "departure",
-      statement: "A failure outside the declared set invalidates the run rather than failing it.",
+      statement:
+        "A failure outside the declared set invalidates the run rather than failing that run.",
     },
     {
       invariantKind: "departure",
