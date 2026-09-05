@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/asking/asking.module.ts b/command-system/asking/asking.module.ts
-index 495467450507bb01971fe05365c54c965466a4d5..ca4589178387cc7961b751b5a248b0975375889b 100644
+index 495467450507bb01971fe05365c54c965466a4d5..0d07cf5ea7e47603d2d72706c3ce94762b1a568c 100644
 --- a/command-system/asking/asking.module.ts
 +++ b/command-system/asking/asking.module.ts
 @@ -55,7 +55,8 @@ export const asking = {
@@ -23,12 +23,18 @@ index 495467450507bb01971fe05365c54c965466a4d5..ca4589178387cc7961b751b5a248b097
      },
      {
        invariantKind: "departure",
-@@ -83,7 +85,7 @@ export const asking = {
+@@ -83,12 +85,12 @@ export const asking = {
      },
      {
        invariantKind: "departure",
 -      statement: "What a draft was judged over is the patch rather than the call's own paths.",
 +      statement: "A draft was judged over the patch rather than the call's own paths.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A dry run judges what is there as the dry run runs rather than what a later landing will judge.",
++        "A dry run judges the tree as the dry run runs rather than the tree a later landing will judge.",
      },
      {
        invariantKind: "departure",
