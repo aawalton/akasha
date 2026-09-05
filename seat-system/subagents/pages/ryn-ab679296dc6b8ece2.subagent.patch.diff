@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/recipient-resolving/domain-lead-decide/domain-lead-decide.module.ts b/seat-system/recipient-resolving/domain-lead-decide/domain-lead-decide.module.ts
+index 7b45edb16472e40d7f456fc773fc6e61fca33491..ee8a91d1edfc98c618244d446fd29eabc2d3a081 100644
+--- a/seat-system/recipient-resolving/domain-lead-decide/domain-lead-decide.module.ts
++++ b/seat-system/recipient-resolving/domain-lead-decide/domain-lead-decide.module.ts
+@@ -21,7 +21,7 @@ export const domainLeadDecide = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A recipient defaulted to carries the reason it was defaulted for.",
++      statement: "A recipient defaulted to carries the reason that recipient was defaulted for.",
+     },
+   ],
+ } as const satisfies Module
