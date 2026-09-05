@@ -26,7 +26,7 @@ export const fileImport = {
     },
     {
       invariantKind: "departure",
-      statement: "A file that does not stand imports nothing.",
+      statement: "A file that does not exist imports nothing.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,7 @@ export const fileImport = {
     },
     {
       invariantKind: "departure",
-      statement: "Those manifests are read from the index standing under the root handed in.",
+      statement: "Those manifests are read from the index under the root handed in.",
     },
     {
       invariantKind: "absence",

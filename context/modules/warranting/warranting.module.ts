@@ -53,7 +53,7 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement: "Warrants stand over an authored change alone.",
+      statement: "Warrants apply to an authored change alone.",
     },
     {
       invariantKind: "departure",
@@ -83,7 +83,7 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement: "Within what a read is handed a path stands once in the place it first stood.",
+      statement: "Within what a read is handed a path sits once in the place it first sat.",
     },
     {
       invariantKind: "departure",
@@ -91,7 +91,7 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement: "The page a seat owes from is the one standing at its id.",
+      statement: "The page a seat owes from sits at its id.",
     },
     {
       invariantKind: "departure",
@@ -108,7 +108,7 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement: "An agent standing at no page owes nothing of a page.",
+      statement: "An agent that sits at no page owes nothing of a page.",
     },
     {
       invariantKind: "departure",

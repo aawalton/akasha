@@ -17,7 +17,7 @@ export const fileItself = {
     },
     {
       invariantKind: "departure",
-      statement: "A file not yet standing warrants nothing of itself.",
+      statement: "A file that does not yet exist warrants nothing of itself.",
     },
     {
       invariantKind: "departure",
@@ -41,11 +41,11 @@ export const fileItself = {
     },
     {
       invariantKind: "departure",
-      statement: "Whatever else warrants the file stands unchanged.",
+      statement: "Whatever else warrants the file remains unchanged.",
     },
     {
       invariantKind: "departure",
-      statement: "The body warranted is the body standing on disk and the body a read records.",
+      statement: "The body warranted is the body on disk and the body a read records.",
     },
   ],
 } as const satisfies ContextWarrant

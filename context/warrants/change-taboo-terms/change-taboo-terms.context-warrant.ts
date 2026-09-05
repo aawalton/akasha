@@ -51,7 +51,7 @@ export const changeTabooTerms = {
     },
     {
       invariantKind: "departure",
-      statement: "Text a change leaves standing is not text the change adds.",
+      statement: "Text a change leaves unchanged is not text the change adds.",
     },
     {
       invariantKind: "departure",
@@ -75,7 +75,7 @@ export const changeTabooTerms = {
     },
     {
       invariantKind: "departure",
-      statement: "What is owed names every sense the term bars and what stands instead.",
+      statement: "What is owed names every sense the term bars and what is written instead.",
     },
     {
       invariantKind: "departure",

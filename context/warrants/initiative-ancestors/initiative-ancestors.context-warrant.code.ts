@@ -4,7 +4,7 @@ import { slugStated, typeStated } from "../../modules/agent-stated/agent-stated.
 import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
 
 export const UNDER =
-  "A seat answers for the initiative it states, and every initiative that one stands under is read before the seat is changed."
+  "A seat answers for the initiative it states, and every initiative that one is under is read before the seat is changed."
 
 const INITIATIVE_TYPE = "initiative"
 
@@ -12,8 +12,8 @@ const KEY = "assignmentSlug"
 
 const PARENT_KEY = "parentSlug"
 
-function aboveOf(root: string, standing: Listed): Listed | undefined {
-  const value = valueAt(standing.path, root)
+function aboveOf(root: string, listed: Listed): Listed | undefined {
+  const value = valueAt(listed.path, root)
   const named = value === null ? null : textAt(value, PARENT_KEY)
   if (named === null) return undefined
   return listedAddressed(root, named, INITIATIVE_TYPE) ?? undefined

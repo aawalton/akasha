@@ -14,10 +14,10 @@ import {
 } from "../../modules/warranting/warranting.module.code.ts"
 
 export const PAGE =
-  "A property's file answers to the page it stands beside, and that page states the property it holds."
+  "A property's file answers to the page it sits beside, and that page states the property it holds."
 
 export const PROPERTY =
-  "What a property's file must hold is said on the property's own page, never on the page the file stands beside."
+  "What a property's file must hold is said on the property's own page, never on the page the file sits beside."
 
 const TS = "ts"
 

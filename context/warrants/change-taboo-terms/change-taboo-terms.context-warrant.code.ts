@@ -121,14 +121,14 @@ export function unjudgedIn(root: string): ReadonlySet<string> {
 
 export function termsIn(root: string): readonly Term[] {
   const found: Term[] = []
-  for (const standing of everyOfType(root, TERM)) {
-    const value = valueAt(standing.path, root)
+  for (const page of everyOfType(root, TERM)) {
+    const value = valueAt(page.path, root)
     if (value === null) continue
     const pattern = value["pattern"]
     if (typeof pattern !== "string") continue
     const senses = sensesOf(value["tabooSenses"])
     if (senses.length === 0) continue
-    found.push({ path: standing.path, pattern, senses, kept: keptOf(value["keptSenses"]) })
+    found.push({ path: page.path, pattern, senses, kept: keptOf(value["keptSenses"]) })
   }
   return found
 }

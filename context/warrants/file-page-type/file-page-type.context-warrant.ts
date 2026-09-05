@@ -26,7 +26,7 @@ export const filePageType = {
     {
       invariantKind: "departure",
       statement:
-        "A file standing beside a page by a file property is no page and warrants no type of its own.",
+        "A file sitting beside a page by a file property is no page and warrants no type of its own.",
     },
     {
       invariantKind: "departure",

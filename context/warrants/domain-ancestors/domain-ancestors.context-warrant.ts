@@ -33,7 +33,7 @@ export const domainAncestors = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat stating a domain nothing stands above warrants no domain.",
+      statement: "A seat stating a domain with nothing above it warrants no domain.",
     },
     {
       invariantKind: "departure",

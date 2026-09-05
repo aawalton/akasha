@@ -281,7 +281,7 @@ export function gatheredIn(root: string): readonly Gathered[] {
     }
     const beside = besideAt(page, CODE, TS)
     if (beside === null) {
-      throw new Error(`${page} is a warrant page, and no code file can stand beside a name like it`)
+      throw new Error(`${page} is a warrant page, and no code file can sit beside a name like it`)
     }
     const warranting = warrantingIn(join(root, beside), slug)
     if (warranting === null) {

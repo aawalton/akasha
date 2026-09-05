@@ -13,7 +13,7 @@ export const initiativeAncestors = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat warrants every initiative the one it states stands under.",
+      statement: "A seat warrants every initiative the one it states is under.",
     },
     {
       invariantKind: "departure",
