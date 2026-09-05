@@ -59,11 +59,11 @@ export const write = {
     },
     {
       invariantKind: "departure",
-      statement: "What a call said is read here.",
+      statement: "The arguments a call said are read here.",
     },
     {
       invariantKind: "departure",
-      statement: "What a call asked for is landed by `asking`.",
+      statement: "The change a call asked for is landed by `asking`.",
     },
     {
       invariantKind: "departure",
@@ -80,11 +80,11 @@ export const write = {
     {
       invariantKind: "departure",
       statement:
-        "What the seat owes and what the paths owe are ordered together rather than said as two lists.",
+        "The readings the seat owes and the paths owe are ordered together rather than said as two lists.",
     },
     {
       invariantKind: "departure",
-      statement: "An agent that has not read what the agent is changes nothing.",
+      statement: "An agent that has not read the paths the agent is changing changes nothing.",
     },
     {
       invariantKind: "departure",
@@ -109,7 +109,7 @@ export const write = {
     },
     {
       invariantKind: "departure",
-      statement: "What the caller warranted is the page claiming the path.",
+      statement: "The caller warranted the page claiming the path.",
     },
     {
       invariantKind: "departure",
@@ -133,7 +133,7 @@ export const write = {
     },
     {
       invariantKind: "absence",
-      statement: "A path this call takes away was chosen by whoever called this call.",
+      statement: "A path this call takes away was chosen by this call's caller.",
     },
     {
       invariantKind: "absence",
