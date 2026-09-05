@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/commands/move/outside/move-outside.module.ts b/commands/move/outside/move-outside.module.ts
+index d3cd5d5504a7368bcf65a17244a0e8e5568b7988..4221f9818efcd5f2aee804f31d4fde00abb30a0a 100644
+--- a/commands/move/outside/move-outside.module.ts
++++ b/commands/move/outside/move-outside.module.ts
+@@ -30,7 +30,8 @@ export const moveOutside = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A resolved path is weighed against what moved as a path rather than as text.",
++      statement:
++        "A resolved path is weighed against the paths that moved as a path rather than as text.",
+     },
+     {
+       invariantKind: "departure",
