@@ -150,7 +150,7 @@ export const move = {
     },
     {
       invariantKind: "departure",
-      statement: "A body is carried as it stands but for the specifiers it holds.",
+      statement: "A body is carried as that body stands but for the specifiers that body holds.",
     },
     {
       invariantKind: "departure",
@@ -301,7 +301,7 @@ export const move = {
     {
       invariantKind: "departure",
       statement:
-        "A path two pages claim leaves what names it unread rather than read from one of those pages.",
+        "A path two pages claim leaves what names that path unread rather than read from one of those pages.",
     },
     {
       invariantKind: "departure",
@@ -325,7 +325,7 @@ export const move = {
     },
     {
       invariantKind: "gap",
-      statement: "A string reading as a moved path is repointed only where it names one.",
+      statement: "A string reading as a moved path is repointed only where that string names one.",
     },
     {
       invariantKind: "gap",
