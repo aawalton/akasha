@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.ts b/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.ts
+index 116614361a2f1fc40c4a2f3282276094ccb84c67..41c3b6b9afe4374ca4a1b3cc074d3a7336af0842 100644
+--- a/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.ts
++++ b/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.ts
+@@ -44,7 +44,7 @@ export const blockSubagentAudit = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a run costs is said as a figure measured rather than as a figure supposed.",
++      statement: "A run's cost is said as a figure measured rather than as a figure supposed.",
+     },
+     {
+       invariantKind: "absence",
