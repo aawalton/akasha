@@ -1,5 +1,5 @@
 diff --git a/commands/move/move.command.ts b/commands/move/move.command.ts
-index accc941bffcd4f078ab0dfa735a1d9821b712525..607b594e4583b850fdd4fdeee3b99edd289be36a 100644
+index accc941bffcd4f078ab0dfa735a1d9821b712525..98a422ad40e96d21e15727f031c7c69452f24eef 100644
 --- a/commands/move/move.command.ts
 +++ b/commands/move/move.command.ts
 @@ -150,7 +150,7 @@ export const move = {
@@ -8,6 +8,15 @@ index accc941bffcd4f078ab0dfa735a1d9821b712525..607b594e4583b850fdd4fdeee3b99edd
        invariantKind: "departure",
 -      statement: "A body is carried as it stands but for the specifiers it holds.",
 +      statement: "A body is carried as that body stands but for the specifiers that body holds.",
+     },
+     {
+       invariantKind: "departure",
+@@ -301,7 +301,7 @@ export const move = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A path two pages claim leaves what names it unread rather than read from one of those pages.",
++        "A path two pages claim leaves what names that path unread rather than read from one of those pages.",
      },
      {
        invariantKind: "departure",
