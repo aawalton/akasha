@@ -37,7 +37,7 @@ export const bookChapter = {
     {
       invariantKind: "departure",
       statement:
-        "A chapter sharing a name with another is named for the folders telling them apart.",
+        "A chapter sharing a name with another is named for the folders telling those chapters apart.",
     },
     {
       invariantKind: "departure",
