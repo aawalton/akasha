@@ -13,7 +13,7 @@ export const skillPointSources = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here counts what a character has earned.",
+      statement: "Nothing here counts the skill points a character has earned.",
     },
   ],
 } as const satisfies Module
