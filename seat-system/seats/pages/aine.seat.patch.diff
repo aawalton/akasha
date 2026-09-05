@@ -1,0 +1,18 @@
+diff --git a/collection-system/royal-road/royal-road.workspace-package.ts b/collection-system/royal-road/royal-road.workspace-package.ts
+index 92e72a85463122b5c13eb09369de05908ea6872c..d54a409e8b09d4741f583959e1c0d9007db82c27 100644
+--- a/collection-system/royal-road/royal-road.workspace-package.ts
++++ b/collection-system/royal-road/royal-road.workspace-package.ts
+@@ -20,13 +20,5 @@ export const royalRoad = {
+       invariantKind: "departure",
+       statement: "A chapter is fetched without the account.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A story is synced where a story page names a Royal Road id.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement: "A chapter read here is marked read on Royal Road.",
+-    },
+   ],
+ } as const satisfies WorkspacePackage
