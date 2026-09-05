@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/agents/properties/patch.file-property.ts b/agents/properties/patch.file-property.ts
+index 883481b99b9804ab0b59f645839c2be7f28d6d11..f70dfce0c574018178eeef88dceb2a0914b4e018 100644
+--- a/agents/properties/patch.file-property.ts
++++ b/agents/properties/patch.file-property.ts
+@@ -44,7 +44,7 @@ export const patch = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page's type is what puts the patch file beside the page.",
++      statement: "A page's type puts the patch file beside the page.",
+     },
+   ],
+ } as const satisfies FileProperty
