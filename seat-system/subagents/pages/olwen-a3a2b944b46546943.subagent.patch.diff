@@ -91,6 +91,19 @@ index 6de859f5fc96b4de0e94f608a2a9c8f35cc99ef0..b3856086361e442991448abf8ed26e1c
  
  export const NOTHING_TO_TAKE =
    "no tracking day carries a surplus, so there is no reading to take. A tile showing no signal is " +
+diff --git a/alan/harness/surplus/surplus-fall-readout/surplus-fall-readout.module.code.ts b/alan/harness/surplus/surplus-fall-readout/surplus-fall-readout.module.code.ts
+index 28491729aed36e2f6c8e2bf64b1184dd33f5c96d..75232a980b42d3b050614043c72b953a4cec2708 100644
+--- a/alan/harness/surplus/surplus-fall-readout/surplus-fall-readout.module.code.ts
++++ b/alan/harness/surplus/surplus-fall-readout/surplus-fall-readout.module.code.ts
+@@ -3,7 +3,7 @@ import { askingFor } from "@akasha/pages-system-service/calling"
+ import { climbs, rungsIn } from "@akasha/readout-system/readout-tier"
+ import { sleepIn } from "@akasha/readout-system/upkeep-sleep"
+ import { surplusIn } from "@akasha/readout-system/upkeep-surplus"
+-import { dayValuesByDate } from "../../../tracking/daily/day-place/day-place.module.code.ts"
++import { dayValuesByDate } from "../../../tracking/daily/day-reading/day-reading.module.code.ts"
+ import { onTheWorkstation } from "../../notifications/push-device-tokens/push-device-tokens.module.code.ts"
+ import { isTierColor, type Rung } from "../surplus-fall-tier/surplus-fall-tier.module.code.ts"
+ 
 diff --git a/alan/tracking/daily/day-completions/day-completions.module.code.ts b/alan/tracking/daily/day-completions/day-completions.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..6db113e1bae23e42d67694ba1a4a62ff8d65fb67
