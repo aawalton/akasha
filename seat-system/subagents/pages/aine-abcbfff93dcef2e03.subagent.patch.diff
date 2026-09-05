@@ -1,0 +1,18 @@
+diff --git a/graph/asking/graph-asking.module.test-fixtures.ts b/graph/asking/graph-asking.module.test-fixtures.ts
+index 510707ce5269255d0630992e20de3cbde2a5cfbd..aa6e6243f6334487de54785e0100bcfdc45ce4ed 100644
+--- a/graph/asking/graph-asking.module.test-fixtures.ts
++++ b/graph/asking/graph-asking.module.test-fixtures.ts
+@@ -147,10 +147,10 @@ function edged(
+   if (exists) filed(root, edgeFiledAt(kind), { path: EDGE_AT, id: EDGE_ID })
+ }
+ 
+-export function relationWorld(lines: number, pagesStand = true): string {
++export function relationWorld(lines: number, pagesExist = true): string {
+   const root = scratch.rootFor(PREFIX)
+-  edged(root, RELATION, { attributeSlugs: [`${GRAPH_ATTRIBUTE}/${PROPERTY}`] }, pagesStand)
+-  indexed(root, HELD_RELATION, pagesStand)
++  edged(root, RELATION, { attributeSlugs: [`${GRAPH_ATTRIBUTE}/${PROPERTY}`] }, pagesExist)
++  indexed(root, HELD_RELATION, pagesExist)
+   filed(root, `path/${TARGET_AT}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
+   filed(root, `path/${SIDECAR_AT}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
+   if (lines > 0) {
