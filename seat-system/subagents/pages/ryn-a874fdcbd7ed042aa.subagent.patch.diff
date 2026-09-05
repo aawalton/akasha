@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/collection-system/collection-externals/collection-external.page-type.ts b/collection-system/collection-externals/collection-external.page-type.ts
+index 79aaf058112e3f76898eaed198e07cf0d46f84a9..285bdac732fb8afd0cb66bda05dc97152e04e9fc 100644
+--- a/collection-system/collection-externals/collection-external.page-type.ts
++++ b/collection-system/collection-externals/collection-external.page-type.ts
+@@ -46,7 +46,7 @@ export const collectionExternal = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A collection never synced states no moment it was synced at.",
++      statement: "A collection never synced states no moment that collection was synced at.",
+     },
+   ],
+ } as const satisfies PageType
