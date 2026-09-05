@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.ts b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.ts
+index b9ae968c64a77beb223f2f60a4123f3eea4e9890..2151453ef262de816252fc685b2c867d495b004d 100644
+--- a/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.ts
++++ b/checks/code-checks/pages/page-property-has-its-file/page-property-has-its-file.code-check.ts
+@@ -35,7 +35,8 @@ export const pagePropertyHasItsFile = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "What stands at a path the change does not name is answered by the base commit.",
++      statement:
++        "The body standing at a path the change does not name is answered by the base commit.",
+     },
+     {
+       invariantKind: "departure",
