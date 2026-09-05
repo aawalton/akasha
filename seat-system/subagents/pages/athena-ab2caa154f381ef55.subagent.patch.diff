@@ -101,6 +101,19 @@ index 50268503fa06b2225bd4c18e92c2a7993704d037..8867a8c22e5bb901b328d58434f2f29e
      (reason.description != null ? ` Server said: ${reason.description}` : "")
    )
  }
+diff --git a/seat-system/supervising/supervisor-proxy-version/supervisor-proxy-version.module.code.ts b/seat-system/supervising/supervisor-proxy-version/supervisor-proxy-version.module.code.ts
+index 5e0c3d541dcd7942ed66d4a20c73cb0ed0dc506e..970623279a103d5208fa39f6e5b44a0b7095214c 100644
+--- a/seat-system/supervising/supervisor-proxy-version/supervisor-proxy-version.module.code.ts
++++ b/seat-system/supervising/supervisor-proxy-version/supervisor-proxy-version.module.code.ts
+@@ -91,7 +91,7 @@ export function handleProxyVersionUpdate(version: string | null): undefined {
+   if (version === baseline) return
+   console.log(
+     `${LOG} New OAuth-proxy version detected: ${baseline} -> ${version} — ` +
+-      `recorded as pending (auto-swap disarmed; apply via 'ops model-gateway swap')`
++      `recorded as pending (auto-swap disarmed; apply via 'akasha model-gateway swap')`
+   )
+   baseline = version
+   pendingVersion = version
 diff --git a/seat-system/supervising/supervisor-rebind/supervisor-rebind.module.code.ts b/seat-system/supervising/supervisor-rebind/supervisor-rebind.module.code.ts
 index 804598c3f8ed05a56947334c9287e387411a8b25..f2f306034539ca99fb22d407a6c99e4dec8c59cd 100644
 --- a/seat-system/supervising/supervisor-rebind/supervisor-rebind.module.code.ts
