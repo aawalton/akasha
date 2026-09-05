@@ -25,7 +25,7 @@ export const questsTrace = {
     },
     {
       invariantKind: "departure",
-      statement: "Turning tracing on again clears what was written before.",
+      statement: "Turning tracing on again clears the trace written before.",
     },
   ],
 } as const satisfies Module
