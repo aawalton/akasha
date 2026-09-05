@@ -47,6 +47,11 @@ export const emberRepairTemperTasks = {
       workingMemory:
         "The served target is b8f20f229df857590e8c51accd468fcd3f52be79, which is in neither this checkout nor the 2026-09-02 backup, so the flatten orphaned it and no fetch brings it. The watcher reads its own HEAD right, logging ve3eda7280a at 19:06:36Z. That target is version.txt baked into the watcher image at /build and copied in by temper-web's init container, so it names the commit that image was built at. The run carries on either way, so this is noise rather than an outage.",
     },
+    {
+      statement: "The rules a player automates are pages rather than one JSON blob.",
+      workingMemory:
+        "The shared vocabulary is pages now: 18 temper-item-action, 8 temper-rule-goal carrying the priority that was hardcoded, stock-scope as a select, and 48 temper-condition-field, each holding the engine's camel key beside a kebab slug and what the test reads. The 48 templates reach all four by relation. The generated rule table is unchanged, proved by rebuilding every conditions map from the pages and diffing against rule-template-table-01 and -02. Left: the 82 live rules still sit in the blob.",
+    },
   ],
   constraints: [
     "The watcher and the addons count as off-workstation, so they reach pages through pages-system-service rather than by reading the repository.",

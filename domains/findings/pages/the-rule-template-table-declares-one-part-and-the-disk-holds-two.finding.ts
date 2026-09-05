@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theRuleTemplateTableDeclaresOnePartAndTheDiskHoldsTwo = {
+  id: "01a0721e-0864-7398-b603-00a81c658fb4",
+  pageTypeSlug: "finding",
+  slug: "the-rule-template-table-declares-one-part-and-the-disk-holds-two",
+  domainSlug: "domain/temper",
+  claim:
+    "The addon data run would write the rule template table over the file that composes it. The target declares one part, the disk holds two parts and a composer, and no part count the code admits produces the names the disk carries.",
+  evidence:
+    'addon-data-target names `temper-rule-template.generated.ts` as `moduleSlug: "rule-template-table"` with `parts: 1`. `partSlugsOf` answers `[moduleSlug]` for one part, so a run lands the whole table as `rule-template-table`, whose file today imports `TEMPER_RULE_TEMPLATES_01` and `_02` and concatenates them. The two parts on disk are `rule-template-table-01` and `rule-template-table-02`, and both module pages say the code is written out from the rule-template pages rather than by hand. For more than one part the code pads from zero, so `parts: 2` would name `rule-template-table-00` and `rule-template-table-01`; neither count names what is there. The sibling series shows the convention: `scribed-skills` declares `parts: 5` and the disk carries `scribed-skills` beside `scribed-skills-00` through `-04`, the composer hand-written and the parts generated. So the rule template split is one off, and a run has not landed this target since the split was made.',
+} as const satisfies Finding
