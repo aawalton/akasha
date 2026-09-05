@@ -17,7 +17,7 @@ export const filePageType = {
     },
     {
       invariantKind: "departure",
-      statement: "What a page is held to is read before the page is changed.",
+      statement: "The types a page answers to are read before the page is changed.",
     },
     {
       invariantKind: "departure",
