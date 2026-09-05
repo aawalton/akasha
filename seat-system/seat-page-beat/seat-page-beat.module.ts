@@ -17,11 +17,11 @@ export const seatPageBeat = {
     },
     {
       invariantKind: "departure",
-      statement: "A run names the seat it writes for with --agent.",
+      statement: "A run names the seat that run writes for with --agent.",
     },
     {
       invariantKind: "departure",
-      statement: "A run given --remove takes the seat page down and states why it went.",
+      statement: "A run given --remove takes the seat page down and states why that page went.",
     },
     {
       invariantKind: "departure",
