@@ -10,6 +10,5 @@ export const promtail = {
   resourceName: "promtail",
   image: "grafana/promtail:3.1.0",
   containerPort: 3101,
-  manifestCode:
-    "infrastructure/loki-service/promtail/promtail.cluster-service.code.attachment.ts",
+  manifestSlug: "promtail",
 } as const satisfies ClusterService
