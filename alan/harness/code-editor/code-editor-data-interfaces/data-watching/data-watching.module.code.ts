@@ -22,6 +22,10 @@ import {
   released,
   releasedHeld,
 } from "../state-cooldown/state-cooldown.module.code.ts"
+import {
+  seatByShellPid,
+  tmuxClients,
+} from "../terminal-seat-mapping/terminal-seat-mapping.module.code.ts"
 
 const INTERFACES_AT = "alan/harness/code-editor/code-editor-data-interfaces/pages"
 const SEATS_AT = "seat-system/seats/pages"
@@ -29,6 +33,7 @@ const TURN_STATES_AT = "seat-system/seat-turn-states/pages"
 const SIDECAR = ".uncommitted.ts"
 const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.jsonl"
 const SETTLE_MS = 25
+const TABS_EVERY_MS = 1_000
 
 // One picture, the folders it is made from, and the cooldown it is written under. `holds` answers
 // whether a file is one this picture reads, so a change reaches only the pictures it can move.
@@ -37,6 +42,8 @@ type Picture = {
   readonly folders: readonly string[]
   readonly holds: (at: string) => boolean
   readonly line: () => string
+  readonly refresh?: () => Promise<undefined>
+  readonly everyMs?: number
   held: Held
   waking: ReturnType<typeof setTimeout> | null
 }
@@ -79,6 +86,29 @@ function agentColorsLine(): string {
   return JSON.stringify({ byAgent, byState } satisfies AgentColorsState)
 }
 
+// What a terminal sits on cannot be watched for: no file changes when a client attaches, so this
+// one picture is taken on a beat. The beat is what costs; the file moves only where the map does.
+let tabsHeld: ReadonlyMap<number, string> = new Map()
+
+async function refreshTerminalTabs(): Promise<undefined> {
+  tabsHeld = seatByShellPid(await tmuxClients(), new Set(akashaSeatsThatExist().values()))
+  return undefined
+}
+
+function terminalTabsLine(): string {
+  const seatByPid: Record<string, string> = {}
+  for (const [pid, seat] of tabsHeld) seatByPid[String(pid)] = seat
+  const colorBySeat: Record<string, string> = {}
+  for (const [agentId, name] of akashaSeatsThatExist()) {
+    const color = colorOfState(seatTurnStateOf(agentId).state)
+    if (color !== null) colorBySeat[name] = color
+  }
+  return JSON.stringify({
+    seatByShellPid: seatByPid,
+    colorBySeat,
+  } satisfies TerminalTabsState)
+}
+
 export function picturesOf(root: string): ReadonlyMap<string, Picture> {
   const seats = join(root, SEATS_AT)
   const turnStates = join(root, TURN_STATES_AT)
@@ -93,6 +123,22 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
           within(turnStates, ".seat-turn-state.ts")
         ),
         line: agentColorsLine,
+        held: NOTHING_WRITTEN,
+        waking: null,
+      },
+    ],
+    [
+      "terminal-tabs",
+      {
+        cooldownMs: 1_000,
+        folders: [seats, turnStates],
+        holds: either(
+          within(seats, SIDECAR, ".seat.ts"),
+          within(turnStates, ".seat-turn-state.ts")
+        ),
+        line: terminalTabsLine,
+        refresh: refreshTerminalTabs,
+        everyMs: TABS_EVERY_MS,
         held: NOTHING_WRITTEN,
         waking: null,
       },
@@ -129,7 +175,22 @@ export function watchEditorData(): () => undefined {
   const folders = new Set<string>()
   for (const picture of pictures.values()) for (const at of picture.folders) folders.add(at)
   const holds = either(...[...pictures.values()].map((picture) => picture.holds))
-  for (const [slug, picture] of pictures) keep(root, slug, picture)
+  const beats: ReturnType<typeof setInterval>[] = []
+  for (const [slug, picture] of pictures) {
+    const refresh = picture.refresh
+    if (refresh === undefined || picture.everyMs === undefined) {
+      keep(root, slug, picture)
+      continue
+    }
+    // A throw inside a beat is left to end the process, as a throw anywhere here is.
+    const beat = async (): Promise<undefined> => {
+      await refresh()
+      keep(root, slug, picture)
+      return undefined
+    }
+    void beat()
+    beats.push(setInterval(() => void beat(), picture.everyMs))
+  }
   const following = followWithin(
     folders,
     holds,
@@ -140,7 +201,11 @@ export function watchEditorData(): () => undefined {
     },
     SETTLE_MS
   )
-  return following.stop
+  return () => {
+    for (const beat of beats) clearInterval(beat)
+    following.stop()
+    return undefined
+  }
 }
 
 if (import.meta.main) {

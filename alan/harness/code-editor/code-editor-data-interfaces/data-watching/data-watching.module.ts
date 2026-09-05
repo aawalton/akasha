@@ -45,6 +45,18 @@ export const dataWatching = {
     },
     {
       invariantKind: "departure",
+      statement: "A picture no file change can announce is taken again on a beat of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A picture taken on a beat is not taken a second time as the service starts.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A beat stops when the watching stops.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A throw ends the service rather than being caught and logged.",
     },
   ],
