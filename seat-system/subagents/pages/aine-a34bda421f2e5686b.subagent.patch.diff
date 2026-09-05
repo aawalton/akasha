@@ -113,7 +113,7 @@ index 90840eed4d0f6676503e6de5c8d5228ab74c4d7a..eead9ddf42d81a55b86d1cee4642fb15
      {
        invariantKind: "departure",
 diff --git a/agents/claude-accounts/modules/usage/claude-account-usage.module.code.ts b/agents/claude-accounts/modules/usage/claude-account-usage.module.code.ts
-index 5eb1ba947f09452886bd0b7aa8f8e01482f70d15..1b6ba47ac33ae6b4797fb3e885d44b6048595bd1 100644
+index 5eb1ba947f09452886bd0b7aa8f8e01482f70d15..96b7a8d82717f8db3e1610c6c29c511adb820e53 100644
 --- a/agents/claude-accounts/modules/usage/claude-account-usage.module.code.ts
 +++ b/agents/claude-accounts/modules/usage/claude-account-usage.module.code.ts
 @@ -13,7 +13,7 @@ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roo
@@ -134,3 +134,12 @@ index 5eb1ba947f09452886bd0b7aa8f8e01482f70d15..1b6ba47ac33ae6b4797fb3e885d44b60
  // `sevenDaySpent` in `claude-account-measuring` carry exactly what the deleted definitions said:
  // a withdrawn subscription has spent all of both windows, and a five-hour window on an account
  // whose seven-day window is spent is spent too. `akasha measure claude-accounts` prints its
+@@ -30,7 +30,7 @@ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roo
+ //
+ // WHAT IS SPENT IS OBSERVED RATHER THAN STATED, WHICH IS WHY THE STORE HAS NONE OF IT. Every
+ // figure this reduces — both percentages and the disabled reason — is declared `uncommitted` on
+-// the claude-account page type and stands in the file beside each account's page. Only what an
++// the claude-account page type and sits in the file beside each account's page. Only what an
+ // account states is landed, so only what it states reaches the store. Anything reading these
+ // numbers reads the checkout or reads nothing.
+ 
