@@ -34,7 +34,7 @@ export const story = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "How a story is meant to read is kept apart from what the story says.",
+      statement: "How a story is meant to read is kept apart from the words the story says.",
     },
     {
       invariantKind: "departure",
@@ -43,11 +43,11 @@ export const story = {
     },
     {
       invariantKind: "departure",
-      statement: "A chapter is what a reader reads at one sitting.",
+      statement: "A chapter is the text a reader reads at one sitting.",
     },
     {
       invariantKind: "departure",
-      statement: "A chapter tells what happens next rather than states what is so.",
+      statement: "A chapter tells the events that come next rather than states the facts.",
     },
     {
       invariantKind: "departure",
@@ -60,7 +60,7 @@ export const story = {
     },
     {
       invariantKind: "departure",
-      statement: "What is true in a world that no story has told is a sketch.",
+      statement: "A truth in a world that no story has told is a sketch.",
     },
     {
       invariantKind: "departure",
