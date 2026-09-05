@@ -1,12 +1,50 @@
+diff --git a/infrastructure/telemetry/node-exporter-daemonset/node-exporter-daemonset.manifest.code.ts b/infrastructure/telemetry/node-exporter-daemonset/node-exporter-daemonset.manifest.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b973fe78532aa96697887661abeabaf2155e8ec6
+--- /dev/null
++++ b/infrastructure/telemetry/node-exporter-daemonset/node-exporter-daemonset.manifest.code.ts
+@@ -0,0 +1,5 @@
++import { nodeExporterDaemonsetYaml } from "@akasha/cluster-manifests/exporter-daemonsets"
++
++export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
++  return [{ name: "node-exporter-daemonset", yaml: nodeExporterDaemonsetYaml() }]
++}
+diff --git a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
+index 33b035449c9708e5b166beef9d138ce355e6b12f..3177b65a5784a4e3b7aa2ea2a6234a0216091c32 100644
+--- a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
++++ b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
+@@ -7,6 +7,6 @@ index b57af7b0f77197bd51547092bc52644f613e8a49..501a9b399e8dad439b40e900ff2d22be
+    image: "prom/node-exporter:v1.8.2",
+    containerPort: 9100,
+ -  manifestCode:
+--    "service-system/cluster-services/pages/node-exporter-daemonset/node-exporter-daemonset.cluster-service.code.attachment.ts",
++-    "infrastructure/telemetry/node-exporter-daemonset/node-exporter-daemonset.manifest.code.ts",
+ +  manifestSlug: "node-exporter-daemonset",
+  } as const satisfies ClusterService
+diff --git a/service-system/cluster-services/pages/node-exporter-daemonset/node-exporter-daemonset.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/node-exporter-daemonset/node-exporter-daemonset.cluster-service.code.attachment.ts
+deleted file mode 100644
+index b973fe78532aa96697887661abeabaf2155e8ec6..0000000000000000000000000000000000000000
+--- a/service-system/cluster-services/pages/node-exporter-daemonset/node-exporter-daemonset.cluster-service.code.attachment.ts
++++ /dev/null
+@@ -1,5 +0,0 @@
+-import { nodeExporterDaemonsetYaml } from "@akasha/cluster-manifests/exporter-daemonsets"
+-
+-export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
+-  return [{ name: "node-exporter-daemonset", yaml: nodeExporterDaemonsetYaml() }]
+-}
 diff --git a/service-system/cluster-services/pages/node-exporter-daemonset/node-exporter-daemonset.cluster-service.ts b/service-system/cluster-services/pages/node-exporter-daemonset/node-exporter-daemonset.cluster-service.ts
-index b57af7b0f77197bd51547092bc52644f613e8a49..501a9b399e8dad439b40e900ff2d22be2945e813 100644
+index b57af7b0f77197bd51547092bc52644f613e8a49..25ea29f391cd58ff8ab9c4703efbff0826ce543f 100644
 --- a/service-system/cluster-services/pages/node-exporter-daemonset/node-exporter-daemonset.cluster-service.ts
 +++ b/service-system/cluster-services/pages/node-exporter-daemonset/node-exporter-daemonset.cluster-service.ts
-@@ -10,6 +10,5 @@ export const nodeExporterDaemonset = {
+@@ -10,6 +10,10 @@ export const nodeExporterDaemonset = {
    resourceName: "node-exporter",
    image: "prom/node-exporter:v1.8.2",
    containerPort: 9100,
--  manifestCode:
--    "service-system/cluster-services/pages/node-exporter-daemonset/node-exporter-daemonset.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +  manifestSlug: "node-exporter-daemonset",
++=======
+   manifestCode:
+-    "service-system/cluster-services/pages/node-exporter-daemonset/node-exporter-daemonset.cluster-service.code.attachment.ts",
++    "infrastructure/telemetry/node-exporter-daemonset/node-exporter-daemonset.manifest.code.ts",
++>>>>>>> what HEAD holds
  } as const satisfies ClusterService
