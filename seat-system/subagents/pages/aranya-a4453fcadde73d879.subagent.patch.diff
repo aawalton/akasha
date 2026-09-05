@@ -11,3 +11,19 @@ index 5c00df35d2421e0441f67f099c452c037fadbd57..8d7a7505007da959fd4ed9c3546f1468
  }
  
  export type Indexing = {
+diff --git a/pages/indexes/indexing/indexing.module.ts b/pages/indexes/indexing/indexing.module.ts
+index 587dd18f2a8291bba43f791a52fdbea95dab9372..ab59b5e078f11187369de0c0eba8f8aaf96cd9dc 100644
+--- a/pages/indexes/indexing/indexing.module.ts
++++ b/pages/indexes/indexing/indexing.module.ts
+@@ -39,6 +39,11 @@ export const indexing = {
+       invariantKind: "departure",
+       statement: "A body a file property holds is never loaded.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "A property whose file carries a fixed name claims no file named for a slug and a page type.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A body that will not load is reported only for a page.",
