@@ -40,7 +40,7 @@ export const exerciseLogActivity = {
     },
     {
       invariantKind: "departure",
-      statement: "How long a stretch ran is kept in seconds however it was said.",
+      statement: "How long a stretch ran is kept in seconds however that span was said.",
     },
     {
       invariantKind: "departure",
