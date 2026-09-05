@@ -10,7 +10,7 @@ export const foreignName = {
     {
       invariantKind: "departure",
       statement:
-        "A name is its owner's where renaming the name would break what reads the name outside akasha.",
+        "A name is its owner's where renaming the name would break a reader outside akasha.",
     },
     {
       invariantKind: "departure",
