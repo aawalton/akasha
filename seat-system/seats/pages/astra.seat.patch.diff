@@ -28,3 +28,35 @@ index 0000000000000000000000000000000000000000..38a458858f7e817f589728b9f2f172f4
 +  definition: "which build of the app is running",
 +  partSlugs: ["module/app-version-check", "module/use-app-version-check"],
 +} as const satisfies Domain
+diff --git a/pages/ui/block-editor/pages-ui-block-editor.domain.ts b/pages/ui/block-editor/pages-ui-block-editor.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..41f06df7378b3d435cc4717d454bfb14572f468a
+--- /dev/null
++++ b/pages/ui/block-editor/pages-ui-block-editor.domain.ts
+@@ -0,0 +1,26 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesUiBlockEditor = {
++  id: "01a071cf-0a63-7750-ad97-3e1dcf0312b9",
++  pageTypeSlug: "domain",
++  slug: "pages-ui-block-editor",
++  definition: "a page edited as blocks",
++  partSlugs: [
++    "module/block-accessory-bar",
++    "module/block-editor",
++    "module/block-row",
++    "module/block-tree",
++    "module/block-type-helpers",
++    "module/save-queue",
++    "module/slash-menu",
++    "module/use-block-collapse",
++    "module/use-block-focus",
++    "module/use-block-keys",
++    "module/use-block-ops",
++    "module/use-block-persistence",
++    "module/use-block-selection",
++    "module/use-coarse-pointer",
++    "module/use-keyboard-inset",
++    "module/use-textarea-input",
++  ],
++} as const satisfies Domain
