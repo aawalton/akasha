@@ -6,10 +6,4 @@ export const taskSync = {
   slug: "task-sync",
   definition: "a day's task points counted again from the rounds Alan finished",
   code: "ts",
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "This module is run as its own program by the name its ops-command page states.",
-    },
-  ],
 } as const satisfies Module

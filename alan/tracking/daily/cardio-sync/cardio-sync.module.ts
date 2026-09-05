@@ -6,10 +6,4 @@ export const cardioSync = {
   slug: "cardio-sync",
   definition: "a day's active calories counted again from the readings behind them",
   code: "ts",
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "This module is run as its own program by the name its ops-command page states.",
-    },
-  ],
 } as const satisfies Module

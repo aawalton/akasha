@@ -75,18 +75,9 @@ export interface CommandModule {
   readonly help?: CommandHelp
 }
 
-export interface CommandDocument {
-  readonly slug: string
-  readonly path: readonly string[]
-  readonly entryFile: string
-  readonly summary: string
-  readonly help?: string
-}
-
 export interface Command {
   readonly path: readonly string[]
   readonly summary: string
   readonly load: () => Promise<CommandModule>
   readonly source?: string
-  readonly document?: CommandDocument
 }

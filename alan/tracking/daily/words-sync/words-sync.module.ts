@@ -6,10 +6,4 @@ export const wordsSync = {
   slug: "words-sync",
   definition: "a day's wisdom and intelligence words counted again from what Alan read",
   code: "ts",
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "This module is run as its own program by the name its ops-command page states.",
-    },
-  ],
 } as const satisfies Module

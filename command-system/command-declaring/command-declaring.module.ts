@@ -28,14 +28,6 @@ export const commandDeclaring = {
       statement: "The words reaching a command and the code the command loads are one entry.",
     },
     {
-      invariantKind: "departure",
-      statement: "A command document is one `ops-command` page read back out of the index.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A command document names the file the command runs.",
-    },
-    {
       invariantKind: "gap",
       statement: "A command page carries this declaration as data rather than as prose.",
     },
