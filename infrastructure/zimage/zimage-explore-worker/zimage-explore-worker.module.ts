@@ -13,11 +13,12 @@ export const zimageExploreWorker = {
     },
     {
       invariantKind: "departure",
-      statement: "A prompt file taken out of the queue before it is picked up is not rendered.",
+      statement:
+        "A prompt file taken out of the queue before that file is picked up is not rendered.",
     },
     {
       invariantKind: "departure",
-      statement: "A queue holding nothing leaves the worker idling rather than ending it.",
+      statement: "A queue holding nothing leaves the worker idling rather than ending that worker.",
     },
     {
       invariantKind: "departure",
@@ -29,11 +30,12 @@ export const zimageExploreWorker = {
     },
     {
       invariantKind: "departure",
-      statement: "A prompt file may pin the seed with a leading line naming it.",
+      statement: "A prompt file may pin the seed with a leading line naming that seed.",
     },
     {
       invariantKind: "departure",
-      statement: "A prompt file is claimed before it is rendered, so no retraction double-runs it.",
+      statement:
+        "A prompt file is claimed before that file is rendered, so no retraction double-runs that file.",
     },
     {
       invariantKind: "departure",
