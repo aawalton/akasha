@@ -1,0 +1,77 @@
+diff --git a/day/new-york-wall/new-york-wall.module.test.ts b/day/new-york-wall/new-york-wall.module.test.ts
+index 3f38b9de49b926f557182041d2d37607a6fe33f8..02091b8640aaa4ecd5c82b19732ec147ecaf8a8f 100644
+--- a/day/new-york-wall/new-york-wall.module.test.ts
++++ b/day/new-york-wall/new-york-wall.module.test.ts
+@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
+ import { nyWallToInstant } from "./new-york-wall.module.code.ts"
+ 
+ describe("turning an Eastern wall time into an instant", () => {
+-  test("an ordinary day resolves at the offset that day stands at", () => {
++  test("an ordinary day resolves at the offset that day is at", () => {
+     expect(nyWallToInstant("2026-01-15", 6, 0).toISOString()).toBe("2026-01-15T11:00:00.000Z")
+     expect(nyWallToInstant("2026-07-15", 6, 0).toISOString()).toBe("2026-07-15T10:00:00.000Z")
+   })
+diff --git a/day/us-zone-offset/us-zone-offset.module.ts b/day/us-zone-offset/us-zone-offset.module.ts
+index 9e0f6a6208587444e0bbd3fbc4a6e735ec2d862d..2ffaa062f1fa34f1dcb8a82c89ee4bfcdf06b72e 100644
+--- a/day/us-zone-offset/us-zone-offset.module.ts
++++ b/day/us-zone-offset/us-zone-offset.module.ts
+@@ -4,7 +4,7 @@ export const usZoneOffset = {
+   id: "01a05c77-31e6-7877-b124-3f103fd4ac3d",
+   pageTypeSlug: "module",
+   slug: "us-zone-offset",
+-  definition: "how far behind UTC New York and Denver stand at one instant",
++  definition: "how far behind UTC New York and Denver are at one instant",
+   code: "ts",
+   test: "ts",
+   invariants: [
+diff --git a/idle-system/idle-persona-cards/properties/player-id.text-property.ts b/idle-system/idle-persona-cards/properties/player-id.text-property.ts
+index 90d71f685027292bfae56257c4258fef9238fec4..23230ba0495e6f6a9fa2ddb840a7ff08991a7518 100644
+--- a/idle-system/idle-persona-cards/properties/player-id.text-property.ts
++++ b/idle-system/idle-persona-cards/properties/player-id.text-property.ts
+@@ -13,7 +13,7 @@ export const playerId = {
+   invariants: [
+     {
+       invariantKind: "stopgap",
+-      statement: "Two of the three players named here stand as pages and the third does not.",
++      statement: "Two of the three players named here are pages and the third is not.",
+     },
+     {
+       invariantKind: "gap",
+diff --git a/idle-system/idle-saves/idle-save.page-type.ts b/idle-system/idle-saves/idle-save.page-type.ts
+index 2bcbb50b5b72338d5d76d9058c2b5982e1c2b23c..997e85671330880043a546fff74599ff759d058b 100644
+--- a/idle-system/idle-saves/idle-save.page-type.ts
++++ b/idle-system/idle-saves/idle-save.page-type.ts
+@@ -7,7 +7,7 @@ export const idleSave = {
+   id: "01a06826-794a-7698-b659-62bf92ba16c3",
+   pageTypeSlug: "page-type",
+   slug: "idle-save",
+-  definition: "where one player's idle game stands",
++  definition: "where one player's idle game is",
+   pluralSlug: "idle-saves",
+   extendsSlug: ["page-type/page"],
+   invariants: [
+diff --git a/mathematics/mathematics.domain.ts b/mathematics/mathematics.domain.ts
+index c22bf6bdbefa66bf71dda6f5ae49e903285d3f35..fc85bae02f121d150b2de47b9c36f57e7e04dba8 100644
+--- a/mathematics/mathematics.domain.ts
++++ b/mathematics/mathematics.domain.ts
+@@ -4,6 +4,6 @@ export const mathematics = {
+   id: "01a06576-0000-7000-8000-000000000102",
+   pageTypeSlug: "domain",
+   slug: "mathematics",
+-  definition: "the formal system Alan is building and what stands in it",
++  definition: "the formal system Alan is building and what is in it",
+   partSlugs: ["page-type/proposition", "page-type/proof"],
+ } as const satisfies Domain
+diff --git a/mathematics/propositions/properties/proposition-status.select-property.ts b/mathematics/propositions/properties/proposition-status.select-property.ts
+index e3b8615077e7e89dc9fbf1cd0e8e6cd9765961a8..6332e39e3b0b921964d5e5c5747be0c9e6fbf776 100644
+--- a/mathematics/propositions/properties/proposition-status.select-property.ts
++++ b/mathematics/propositions/properties/proposition-status.select-property.ts
+@@ -5,7 +5,7 @@ export const propositionStatus = {
+   pageTypeSlug: "select-property",
+   slug: "proposition-status",
+   propertySlug: "proposition-status",
+-  definition: "where the statement stands in being settled",
++  definition: "where the statement is in being settled",
+   values: ["open", "adopted", "proved", "parked"],
+ } as const satisfies SelectProperty
+ 
