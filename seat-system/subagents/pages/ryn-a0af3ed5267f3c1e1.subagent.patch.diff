@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/property-entries/page-property-entry.page-type.ts b/pages/property-entries/page-property-entry.page-type.ts
+index 9eecc4c8d435727b8d8c94427512a979362f264d..01c6945cb8a4ccb5e5c85d8ee5d8462d4c7bd470 100644
+--- a/pages/property-entries/page-property-entry.page-type.ts
++++ b/pages/property-entries/page-property-entry.page-type.ts
+@@ -30,7 +30,8 @@ export const pagePropertyEntry = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a record property holds inline an entry shape holds in a file of its own.",
++      statement:
++        "The values a record property holds inline an entry shape holds in a file of its own.",
+     },
+     {
+       invariantKind: "departure",
