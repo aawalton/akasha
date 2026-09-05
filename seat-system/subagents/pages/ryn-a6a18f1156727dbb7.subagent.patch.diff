@@ -30,6 +30,21 @@ index 2cd46060040bc7158458b11ca4f48452e2a84421..956996ec940c6dacfca1381e0b25d6f2
      {
        invariantKind: "departure",
        statement: "Every finding is answered against the file the finding stands in.",
+diff --git a/google/email/commands/email-drafts-create/email-drafts-create.command.ts b/google/email/commands/email-drafts-create/email-drafts-create.command.ts
+index cee8c39a51fabd03c1bcf7723c83720e16e7574a..d4fb9f907b625d2f9a8ef4529ef82fdcfda609d3 100644
+--- a/google/email/commands/email-drafts-create/email-drafts-create.command.ts
++++ b/google/email/commands/email-drafts-create/email-drafts-create.command.ts
+@@ -39,10 +39,6 @@ export const emailDraftsCreate = {
+       invariantKind: "departure",
+       statement: "A draft is composed from the flags a send is composed from.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A subject read from a file carries no line ending.",
+-    },
+ 
+     {
+       invariantKind: "absence",
 diff --git a/pages/computed-properties/computed-property.page-type.ts b/pages/computed-properties/computed-property.page-type.ts
 index dac373dd018eced970d91e257793aaefc33f5e31..72d6e01909559de26868daa11c13f6b529913af9 100644
 --- a/pages/computed-properties/computed-property.page-type.ts
