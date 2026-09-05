@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/inference-commands/inference-music/inference-music.command.ts b/infrastructure/inference-commands/inference-music/inference-music.command.ts
+index 9984d6553a87d6dda0bd9c46871cbd422eb7c629..ce1ee24c7c87107dc0edefe3277ae31792e5e062 100644
+--- a/infrastructure/inference-commands/inference-music/inference-music.command.ts
++++ b/infrastructure/inference-commands/inference-music/inference-music.command.ts
+@@ -40,7 +40,7 @@ export const inferenceMusic = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The render is submitted as a task and polled until it finishes.",
++      statement: "The render is submitted as a task and polled until that task finishes.",
+     },
+     {
+       invariantKind: "departure",
