@@ -1,0 +1,39 @@
+diff --git a/agents/claude-accounts/modules/selection/claude-account-selection.module.ts b/agents/claude-accounts/modules/selection/claude-account-selection.module.ts
+index 541dbe80a6ee0509b29e531096186539d20529be..119195481623a92d7ec22289980262a9ded092c3 100644
+--- a/agents/claude-accounts/modules/selection/claude-account-selection.module.ts
++++ b/agents/claude-accounts/modules/selection/claude-account-selection.module.ts
+@@ -147,7 +147,7 @@ export const claudeAccountSelection = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "The account types this reads sit under the gateway rather than under the accounts.",
++        "The account types this module reads sit under the gateway rather than under the accounts.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/alan/books/all-about-alan/topics/properties/topic-settled.text-property.ts b/alan/books/all-about-alan/topics/properties/topic-settled.text-property.ts
+index 883eb0ea646ee0674ab3d42ef022aa620ecff038..231aa6bc65d68d6352358e4f003cf5f6c114e826 100644
+--- a/alan/books/all-about-alan/topics/properties/topic-settled.text-property.ts
++++ b/alan/books/all-about-alan/topics/properties/topic-settled.text-property.ts
+@@ -13,7 +13,7 @@ export const topicSettled = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This holds what stands rather than what is still open.",
++      statement: "This property holds what stands rather than what is still open.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/fitness/session-planning/session-loading/session-loading.module.ts b/alan/fitness/session-planning/session-loading/session-loading.module.ts
+index fa51abe6bbed2ff83aaad84577ac9d6042554276..3c56e89d4e99f7100b91cefe53a01eee3988b65f 100644
+--- a/alan/fitness/session-planning/session-loading/session-loading.module.ts
++++ b/alan/fitness/session-planning/session-loading/session-loading.module.ts
+@@ -9,7 +9,7 @@ export const sessionLoading = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This is the one module of the package that reads pages.",
++      statement: "This module is the only module of the package that reads pages.",
+     },
+     {
+       invariantKind: "departure",
