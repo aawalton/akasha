@@ -127,7 +127,7 @@ index 5a706b4ca09440547b2366bf2921c3b28712e9f1..94f3d13eb7205653152d0e5a541546da
    typeWorld(root)
    schemaFiled(root, "file-property", "code", [
 diff --git a/context/warrants/file-property-file/file-property-file.context-warrant.test.ts b/context/warrants/file-property-file/file-property-file.context-warrant.test.ts
-index e67b7b54ba18fd9935f6437a215847e0685a6fcb..7c13bc41b86d4992a9da6be5f7fc011098f17d59 100644
+index e67b7b54ba18fd9935f6437a215847e0685a6fcb..619e650d68dbd1c35b29adfe23f90dcbd36b996b 100644
 --- a/context/warrants/file-property-file/file-property-file.context-warrant.test.ts
 +++ b/context/warrants/file-property-file/file-property-file.context-warrant.test.ts
 @@ -73,7 +73,7 @@ function warrantsAt(root: string, path: string): readonly Warrant[] {
@@ -180,6 +180,15 @@ index e67b7b54ba18fd9935f6437a215847e0685a6fcb..7c13bc41b86d4992a9da6be5f7fc0110
  
 -test("a file standing beside a property's file stands beside no page", () => {
 +test("a file sitting beside a property's file sits beside no page", () => {
+   const root = scratch.rootFor("akasha-file-property-file-")
+   propertyWorld(root)
+   writing(root, CODE_AT, "code\n")
+@@ -200,7 +200,7 @@ test("a property's file holding no TypeScript warrants its page and its property
+   expect(pathsOf(warrantsAt(root, rows))).toEqual([PAGE_AT, held])
+ })
+ 
+-test("a path not written as it stands under the root warrants nothing", () => {
++test("a path not written as it is under the root warrants nothing", () => {
    const root = scratch.rootFor("akasha-file-property-file-")
    propertyWorld(root)
    writing(root, CODE_AT, "code\n")
