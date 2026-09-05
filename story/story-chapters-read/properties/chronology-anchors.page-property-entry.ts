@@ -31,7 +31,7 @@ export const chronologyAnchors = {
     },
     {
       invariantKind: "departure",
-      statement: "An anchor naming nobody who claimed it is one the story itself tells.",
+      statement: "An anchor naming nobody who claimed that anchor is one the story itself tells.",
     },
     {
       invariantKind: "gap",
