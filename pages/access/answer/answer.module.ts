@@ -12,10 +12,7 @@ export const answer = {
       invariantKind: "departure",
       statement: "A route here answers a signed-in reader alone.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The pages of one page type are asked of `@akasha/pages-system-service`.",
-    },
+
     {
       invariantKind: "departure",
       statement:

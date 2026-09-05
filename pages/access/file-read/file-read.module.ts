@@ -9,10 +9,6 @@ export const fileRead = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The pages of one page type are asked of `@akasha/pages-system-service`.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A narrow the pages run is sent as a test.",
     },
     {
