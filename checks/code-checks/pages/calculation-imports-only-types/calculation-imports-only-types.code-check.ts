@@ -55,7 +55,7 @@ export const calculationImportsOnlyTypes = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here judges what a calculation exports.",
+      statement: "Nothing here judges a calculation's exports.",
     },
   ],
 } as const satisfies CodeCheck
