@@ -70,7 +70,7 @@ test("a difference names what was read and what stands now, and what moved betwe
   expect(said).toBe(
     [
       "--- as you last read it",
-      "+++ as it stands now",
+      "+++ as it is now",
       "@@ -1,3 +1,3 @@",
       " one",
       "-two",

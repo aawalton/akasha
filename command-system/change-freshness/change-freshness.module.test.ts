@@ -18,7 +18,7 @@ const PAGES = { "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE }
 
 const AT = "akasha/a.domain.ts"
 
-const MOVED = "what stands on disk is not the body you read"
+const MOVED = "what is on disk is not the body you read"
 
 function repoWith(named: Readonly<Record<string, string>>): string {
   const root = scratch.rootFor("akasha-standing-")

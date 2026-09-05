@@ -59,9 +59,9 @@ export type Drafted = {
   readonly refused: readonly Judged[]
 }
 
-const AGAIN_WRITTEN = "nothing was written — read them again against what stands now"
+const AGAIN_WRITTEN = "nothing was written — read them again against what is there now"
 
-const AGAIN_DRAFTED = "nothing was drafted — read them again against what stands now"
+const AGAIN_DRAFTED = "nothing was drafted — read them again against what is there now"
 
 const KEPT_AS_IT_WAS = "nothing was drafted — the patch is as the patch was"
 
@@ -259,7 +259,7 @@ function unfresh(
       refusals: [
         ...moved.map(
           (one) =>
-            `${one} — read against \`${named}\`, and what stands at \`${base}\` is not what was read, so writing it would put back what moved in between`
+            `${one} — read against \`${named}\`, and what is at \`${base}\` is not what was read, so writing it would put back what moved in between`
         ),
         tail,
       ],
@@ -271,7 +271,7 @@ function unfresh(
       refusals: [
         ...stirred.map(
           (one) =>
-            `${one} — what stands on disk is not the body you read, so writing it would put back what moved in between`
+            `${one} — what is on disk is not the body you read, so writing it would put back what moved in between`
         ),
         tail,
       ],
@@ -370,7 +370,7 @@ export async function landing(
     return {
       refusals: [
         `\`${read}\` names no commit, so it says nothing about what this change read`,
-        "nothing was written — name a commit that stands, or name none",
+        "nothing was written — name a commit that is there, or name none",
       ],
     }
   }

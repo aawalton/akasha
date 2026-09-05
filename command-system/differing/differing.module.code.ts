@@ -13,7 +13,7 @@ const AFTER = "after"
 
 const WAS_READ = "--- as you last read it"
 
-const IS_NOW = "+++ as it stands now"
+const IS_NOW = "+++ as it is now"
 
 const HUNK = "@@ "
 

@@ -216,7 +216,7 @@ export function unreadIn(root: string, calledAs: string): string | null {
     `so none is found without one. This builds the index again without reading it:\n  ` +
     `${rebuiltBy(root)}`
   if (!indexThere(root)) {
-    return `No index stands at \`${at}\`, so no command was read. ${said}`
+    return `No index is at \`${at}\`, so no command was read. ${said}`
   }
   if (commandSlugIn(root) === null) {
     return (
@@ -240,7 +240,7 @@ async function answeredBy(
   const beside = besideAt(path, CODE, TS)
   if (beside === null) {
     return refusing(
-      `\`${named}\` is a command page, and no code file can stand beside a name like it`
+      `\`${named}\` is a command page, and no code file can sit beside a name like it`
     )
   }
   const reached = reachedIn(join(root, beside))
