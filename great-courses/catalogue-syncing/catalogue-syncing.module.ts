@@ -43,9 +43,5 @@ export const catalogueSyncing = {
       invariantKind: "absence",
       statement: "No credential is behind the run.",
     },
-    {
-      invariantKind: "absence",
-      statement: "Nothing is reached over the network but the catalogue itself.",
-    },
   ],
 } as const satisfies Module
