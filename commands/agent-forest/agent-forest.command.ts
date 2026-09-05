@@ -22,7 +22,6 @@ export const agentForest = {
     "`principal` is the person the seat's page names, or `agent` where it names a seat above it instead.",
     "`launch` reads `opened` for the first and `spawned` for the second, and a page stating neither carries neither.",
     "`mode` is the mode the seat's page says it starts in, an attribute of its own that `launch` does not give.",
-    "a value that is not a string reads as absent rather than as its own rendering.",
     "`state` is `working`, `idle-pending`, `idle` or `stopped`, read from what the seat itself keeps rather than from the page.",
     "three of the four are stamped by a hook as the turn moves: working while a turn or a compaction runs, idle once one ends, stopped once the session does.",
     "the fourth is read rather than stamped — an idle seat whose turn start source names anything but `none` is `idle-pending`.",
