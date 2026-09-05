@@ -13,7 +13,7 @@ export const walkFunctions = {
     },
     {
       invariantKind: "departure",
-      statement: "A function with no name of its own is named by where it is.",
+      statement: "A function with no name of its own is named by where that function is.",
     },
   ],
 } as const satisfies Module
