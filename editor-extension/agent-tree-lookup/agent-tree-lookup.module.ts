@@ -13,7 +13,7 @@ export const agentTreeLookup = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat is found by name at whatever depth it sits.",
+      statement: "A seat is found by name at whatever depth that seat sits.",
     },
     {
       invariantKind: "departure",
