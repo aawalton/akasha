@@ -1,0 +1,14 @@
+diff --git a/pages/calculations/calculation-loading.module.ts b/pages/calculations/calculation-loading.module.ts
+index 2e7d8c7dbf5a20e55febbbb0e4cb45d9764244ce..2469c8a463d6e3497fc21b9c0185e1e5ced336d0 100644
+--- a/pages/calculations/calculation-loading.module.ts
++++ b/pages/calculations/calculation-loading.module.ts
+@@ -31,7 +31,8 @@ export const calculationLoading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The pages package reaches a calculation without naming the domain holding it.",
++      statement:
++        "The pages package reaches a calculation without naming the domain holding that calculation.",
+     },
+     {
+       invariantKind: "absence",
