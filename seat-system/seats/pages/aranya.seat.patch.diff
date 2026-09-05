@@ -1,3 +1,16 @@
+diff --git a/infrastructure/cluster-manifests/cluster-manifests.workspace-package.ts b/infrastructure/cluster-manifests/cluster-manifests.workspace-package.ts
+index a5120965c7a2a7ca47d58b117c0980c46e3b9adc..630329baee94c16003cc937dcf126770d71ea802 100644
+--- a/infrastructure/cluster-manifests/cluster-manifests.workspace-package.ts
++++ b/infrastructure/cluster-manifests/cluster-manifests.workspace-package.ts
+@@ -20,7 +20,7 @@ export const clusterManifests = {
+     "module/cloudflared-rbac",
+     "module/cloudnative-pg-rbac",
+     "module/cloudnative-pg-synth",
+-    "manifest/cnpg-cluster",
++    "module/cnpg-cluster",
+     "manifest/cnpg-object-store",
+     "manifest/cnpg-scheduled-backup",
+     "module/collections-rbac",
 diff --git a/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.module.code.ts b/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..53f432e0acb9c459f679378de93c8ff0c8be60b3
