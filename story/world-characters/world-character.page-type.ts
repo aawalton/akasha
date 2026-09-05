@@ -45,7 +45,8 @@ export const worldCharacter = {
     },
     {
       invariantKind: "departure",
-      statement: "A character is what the story says they are rather than what a player made.",
+      statement:
+        "A character is what the story says that character is rather than what a player made.",
     },
     {
       invariantKind: "departure",
