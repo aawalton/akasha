@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts b/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
-index eead9ddf42d81a55b86d1cee4642fb1512f3c6e3..6e081fe55dcde426a50c0c683961746845f2336b 100644
+index eead9ddf42d81a55b86d1cee4642fb1512f3c6e3..60ce58cfadce2d6627736f2cb9acccb3bcb2b17e 100644
 --- a/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
 +++ b/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
 @@ -39,11 +39,11 @@ export const claudeAccountUpkeep = {
@@ -14,6 +14,15 @@ index eead9ddf42d81a55b86d1cee4642fb1512f3c6e3..6e081fe55dcde426a50c0c6839617468
        invariantKind: "departure",
 -      statement: "What the renewal answered is written beside the account's page.",
 +      statement: "The renewal's answer is written beside the account's page.",
+     },
+     {
+       invariantKind: "departure",
+@@ -85,7 +85,7 @@ export const claudeAccountUpkeep = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A window that was triggered is read again before what was spent is written.",
++      statement: "A window that was triggered is read again before the usage is written.",
      },
      {
        invariantKind: "departure",
