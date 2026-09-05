@@ -37,7 +37,6 @@ export const domain = {
     "`declarations` carries each page WHOLE, so a property the pages grow needs no flag here and no change at any caller.",
     "the pages are read from the index, which carries what each page file declares and applies nothing of its own.",
     "a subject holding nothing refuses the call rather than answering an empty list, an empty tree being a dead read.",
-    "a run writes nothing.",
   ],
   invariants: [
     {
