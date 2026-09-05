@@ -56,3 +56,30 @@ index 8c5890e178b8a2a5932a1be31dd222018e51cee6..20ae9471210086cabf221fae96d8d85a
 +    return next
 +  })
 +}
+diff --git a/command-system/drafting/drafting.module.ts b/command-system/drafting/drafting.module.ts
+index 4ea48fe70aae262462abb6904e10611c07b64b72..8e3dfb6c1a80e344a450d4684d4e657f994c0f92 100644
+--- a/command-system/drafting/drafting.module.ts
++++ b/command-system/drafting/drafting.module.ts
+@@ -112,6 +112,22 @@ export const drafting = {
+       invariantKind: "departure",
+       statement: "A path the patch carries no body at is refused rather than drafted whole.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A patch a path is taken out of still carries every other path.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path is taken out after the patch is rebased onto the commit at HEAD.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Taking the last path out takes the patch away.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Taking out a path the patch carries no body at is refused.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A patch is read and written again under the turn the patch's file keeps.",
