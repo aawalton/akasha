@@ -43,7 +43,8 @@ export const world = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading says what one name in the text reaches rather than what that thing is.",
+      statement:
+        "A reading says the thing one name in the text reaches rather than the nature of that thing.",
     },
     {
       invariantKind: "departure",
