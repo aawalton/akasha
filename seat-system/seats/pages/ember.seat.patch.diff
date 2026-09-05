@@ -1,13 +1,14 @@
 diff --git a/pages/system-service/page-composing/page-composing.module.code.ts b/pages/system-service/page-composing/page-composing.module.code.ts
-index 0489bbbba7441353a25cd3579868df87baa828ec..22c05a07b403e90a82b1f69c7c76f6ee9a4c46c7 100644
+index 0489bbbba7441353a25cd3579868df87baa828ec..fa1d1cb08d0cc1cae79eb7e190c75160e912b0ff 100644
 --- a/pages/system-service/page-composing/page-composing.module.code.ts
 +++ b/pages/system-service/page-composing/page-composing.module.code.ts
-@@ -18,11 +18,31 @@ const ID = "id"
+@@ -18,11 +18,50 @@ const ID = "id"
  
  const JSONL = "jsonl"
  
 +export function bodyRefused(
 +  key: string,
++<<<<<<< what this change would leave
 +  filed: boolean,
 +  fileName: string | null,
 +  ending: unknown
@@ -21,6 +22,24 @@ index 0489bbbba7441353a25cd3579868df87baa828ec..22c05a07b403e90a82b1f69c7c76f6ee
 +  }
 +  if (typeof ending !== "string" || ending === "") {
 +    return `${hands}, and nothing states that file's ending, so the file has no name`
++=======
++  pageTypeSlug: string,
++  fileName: string | null | undefined,
++  ending: unknown
++): string | null {
++  const hands = `\`${key}\` hands over a body`
++  if (pageTypeSlug === ENTRY_PROPERTY) {
++    return `${hands}, and \`${key}\` keeps its values as rows, so those are handed over as a list`
++  }
++  if (fileName === undefined) {
++    return `${hands}, and \`${key}\` is no property this page type holds in a file beside the page`
++  }
++  if (fileName !== null) {
++    return `${hands}, and \`${key}\` is held at \`${fileName}\`, a name of its own rather than one beside the page`
++  }
++  if (typeof ending !== "string" || ending === "") {
++    return `${hands}, and nothing names that file's ending, so the file has no name`
++>>>>>>> what HEAD holds
 +  }
 +  return null
 +}
@@ -34,7 +53,7 @@ index 0489bbbba7441353a25cd3579868df87baa828ec..22c05a07b403e90a82b1f69c7c76f6ee
  }
  
  export type Put = {
-@@ -184,14 +204,31 @@ export function composedFor(root: string, named: Naming): Composed {
+@@ -184,14 +223,35 @@ export function composedFor(root: string, named: Naming): Composed {
    const parts: Put[] = []
    const removes: string[] = []
    const filedBy = filePropertiesAt(root).get(named.pageTypeSlug)
@@ -51,7 +70,11 @@ index 0489bbbba7441353a25cd3579868df87baa828ec..22c05a07b403e90a82b1f69c7c76f6ee
      }
 +    if (bodied) {
 +      const heldAs = filedBy === undefined ? undefined : filedBy.get(one.propertySlug)
++<<<<<<< what this change would leave
 +      const refused = bodyRefused(one.key, heldAs !== undefined, heldAs ?? null, value)
++=======
++      const refused = bodyRefused(one.key, one.pageTypeSlug, heldAs, value)
++>>>>>>> what HEAD holds
 +      if (refused !== null) return { refused }
 +      const ending = value as string
 +      const why = endingRefused(one.key, one.propertySlug, at, ending)
