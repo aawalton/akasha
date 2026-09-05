@@ -29,7 +29,8 @@ export const aliCoverage = {
     },
     {
       invariantKind: "departure",
-      statement: "A part or a division with nothing under it counts nought against its own total.",
+      statement:
+        "A part or a division with nothing under that part or division counts nought against its own total.",
     },
     {
       invariantKind: "absence",
