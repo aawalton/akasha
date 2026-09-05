@@ -51,3 +51,16 @@ index d825095ce16eeebfabfb6aa48b5c66ec8bd3f2ab..a583a8b2947a91af87d8424f85b61e43
      },
    ],
  } as const satisfies Module
+diff --git a/editor-extension/panel-reading/panel-reading.module.ts b/editor-extension/panel-reading/panel-reading.module.ts
+index afbd09138f89528814889672397849ad673def45..0fc506470fed61b6f9941b1c132e2f8fed9300cc 100644
+--- a/editor-extension/panel-reading/panel-reading.module.ts
++++ b/editor-extension/panel-reading/panel-reading.module.ts
+@@ -25,7 +25,7 @@ export const panelReading = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Every member the bundle reaches is read off the bundle and held against the stub before anything is drawn.",
++        "Every member the bundle reaches is read off the bundle and held against the stub before any drawing.",
+     },
+     {
+       invariantKind: "departure",
