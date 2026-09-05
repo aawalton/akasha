@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/calendar/calendar.command.ts b/commands/calendar/calendar.command.ts
+index 2d447c9db7a9a7ac761ec086592100ab41af9d4d..0bcfd9cd2b7f7f467d3ece4259aadf0e65608264 100644
+--- a/commands/calendar/calendar.command.ts
++++ b/commands/calendar/calendar.command.ts
+@@ -84,7 +84,7 @@ export const calendar = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What to act on is the first word and the act is the second.",
++      statement: "The subject to act on is the first word and the act is the second.",
+     },
+     {
+       invariantKind: "departure",
