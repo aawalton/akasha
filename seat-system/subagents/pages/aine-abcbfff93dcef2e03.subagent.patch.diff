@@ -38,7 +38,7 @@ index 351b5f25bc88e8b9c8ecda5fd219fe8015fe8b8b..510707ce5269255d0630992e20de3cbd
  
  export function relationWorld(lines: number, pagesStand = true): string {
 diff --git a/graph/asking/graph-asking.module.test.ts b/graph/asking/graph-asking.module.test.ts
-index e56f359afa23419d9e0e739f7af5d27ccb1bdd5e..22bca281097da5e341bf69d6acfdbd62196bbb0d 100644
+index e56f359afa23419d9e0e739f7af5d27ccb1bdd5e..a4bb07e57b798a8a4148884778177a9365d730aa 100644
 --- a/graph/asking/graph-asking.module.test.ts
 +++ b/graph/asking/graph-asking.module.test.ts
 @@ -158,7 +158,7 @@ test("a page type stating a loader is answered no differently from one stating n
@@ -59,6 +59,15 @@ index e56f359afa23419d9e0e739f7af5d27ccb1bdd5e..22bca281097da5e341bf69d6acfdbd62
    const root = importWorld(IMPORT)
    filed(root, `${IMPORT}/path/${FIRST_AT}.jsonl`, { path: THIRD_AT })
    const over = readingLaidOver(root, { [`${IMPORT}/path/${TARGET_AT}.jsonl`]: [] })
+@@ -181,7 +181,7 @@ test("an import edge the index given empties is not answered, and stands without
+   ])
+ })
+ 
+-test("a relation edge standing only in the index given is answered, and none without it", () => {
++test("a relation edge existing only in the index given is answered, and none without it", () => {
+   const root = relationWorld(0)
+   const over = readingLaidOver(root, { [LEAF_AT]: [{ path: SOURCE_AT }] })
+ 
 diff --git a/graph/asking/graph-asking.module.ts b/graph/asking/graph-asking.module.ts
 index 447cb572561509daaee0585185566bb4bd526b39..5271270ed0ee9cba43bfcaeba37a458ceb2e4b57 100644
 --- a/graph/asking/graph-asking.module.ts
