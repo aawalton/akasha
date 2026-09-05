@@ -301,6 +301,18 @@ index f532917499b8b0cff0a8f51012ad8833d61a5c56..36a8cd5e6d02f3840c169731e8f74756
  export function retypeSaying(
    one: Retyping,
    carries: readonly Carry[],
+diff --git a/commands/refactor/refactor.command.ts b/commands/refactor/refactor.command.ts
+index 9bb6377168f75587cbf144c4d231aaf73d6832c8..cd8bdcffb9cd39d7d1efb48e9e7d40d87f6a6706 100644
+--- a/commands/refactor/refactor.command.ts
++++ b/commands/refactor/refactor.command.ts
+@@ -15,6 +15,7 @@ export const refactor = {
+     "module/page-retyping",
+     "module/refactor-arguing",
+     "module/refactor-landing",
++    "module/retype-writing",
+     "module/slug-renaming",
+     "module/token-renaming",
+     "module/type-renaming",
 diff --git a/commands/refactor/retype-writing/retype-writing.module.code.ts b/commands/refactor/retype-writing/retype-writing.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..4112980e7b4e0ebbe5425e6cd3b4f35ed96ca201
