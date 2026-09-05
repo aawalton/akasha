@@ -44,7 +44,7 @@ export const noBodyReadBesideAnIndex = {
     },
     {
       invariantKind: "departure",
-      statement: "A page body is read by what wraps `valueAt`.",
+      statement: "A page body is read by any function wrapping `valueAt`.",
     },
     {
       invariantKind: "departure",
@@ -91,7 +91,7 @@ export const noBodyReadBesideAnIndex = {
     },
     {
       invariantKind: "departure",
-      statement: "The refusal names what to do instead.",
+      statement: "The refusal names the remedy.",
     },
     {
       invariantKind: "absence",
