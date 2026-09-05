@@ -1,14 +1,19 @@
 runsWarrants: false
 diff --git a/temper/temper-watcher/watcher-export-companion-builds/watcher-export-companion-builds.module.ts b/temper/temper-watcher/watcher-export-companion-builds/watcher-export-companion-builds.module.ts
-index f85467c43a9256763097bd871c138c00e780f3b2..67c4f93b82e19233a469c004f3475c6bfc19a589 100644
+index f85467c43a9256763097bd871c138c00e780f3b2..ea395144aec1fc8f4f395a2b5307dd505768864c 100644
 --- a/temper/temper-watcher/watcher-export-companion-builds/watcher-export-companion-builds.module.ts
 +++ b/temper/temper-watcher/watcher-export-companion-builds/watcher-export-companion-builds.module.ts
-@@ -53,7 +53,7 @@ export const watcherExportCompanionBuilds = {
+@@ -53,11 +53,11 @@ export const watcherExportCompanionBuilds = {
      },
      {
        invariantKind: "departure",
 -      statement: "A caller may hand in what reads the progress pages.",
 +      statement: "A caller may hand in the reader of the progress pages.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A caller may hand in what reads the build pages.",
++      statement: "A caller may hand in the reader of the build pages.",
      },
      {
        invariantKind: "departure",
