@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/language-design/lua-compiler/performance-global/performance-global.type-declaration.ts b/language-design/lua-compiler/performance-global/performance-global.type-declaration.ts
+index f9b2616fc8d9b356bba9ae3da68f29c833e5f1a5..2d763f0dc9e42589edc2e76f712f75c69aef1c06 100644
+--- a/language-design/lua-compiler/performance-global/performance-global.type-declaration.ts
++++ b/language-design/lua-compiler/performance-global/performance-global.type-declaration.ts
+@@ -9,7 +9,7 @@ export const performanceGlobal = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What is declared here is implemented by the compiler's own runtime library.",
++      statement: "The global declared here is implemented by the compiler's own runtime library.",
+     },
+   ],
+ } as const satisfies TypeDeclaration
