@@ -8,10 +8,4 @@ export const towerFloors = {
   slug: "tower-floors",
   propertySlug: "tower-floors",
   definition: "the floors a tower game has been climbed through",
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "One row is one json object on one line.",
-    },
-  ],
 } as const satisfies FileProperty
