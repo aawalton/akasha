@@ -1,3 +1,27 @@
+diff --git a/agents/models/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts b/agents/models/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts
+index 193a0b4ed3b730ab7a303bb1a2599ad645bcd97e..3ec4d258c3f53f14d7fa7a1df1cd82c04395a11e 100644
+--- a/agents/models/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts
++++ b/agents/models/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts
+@@ -81,7 +81,7 @@ function typeWritten(
+   id: string,
+   slug: string,
+   at: string,
+-  above: string | null,
++  above: readonly string[],
+   declared: readonly Declared[]
+ ): undefined {
+   filed(
+@@ -166,8 +166,8 @@ export function rootFor(prefix: string): string {
+ 
+ export function worldMade(): string {
+   const root = rootFor("oauth-effects-")
+-  typeWritten(root, ABOVE_TYPE, "page", ABOVE_AT, null, ABOVE_DECLARED)
+-  typeWritten(root, ACCOUNT_TYPE, "claude-account", TYPE_AT, "page-type/page", ACCOUNT_DECLARED)
++  typeWritten(root, ABOVE_TYPE, "page", ABOVE_AT, [], ABOVE_DECLARED)
++  typeWritten(root, ACCOUNT_TYPE, "claude-account", TYPE_AT, ["page-type/page"], ACCOUNT_DECLARED)
+   accountWritten(
+     root,
+     "aine",
 diff --git a/command-system/landing/landing.module.test-fixtures.ts b/command-system/landing/landing.module.test-fixtures.ts
 index 2ca21d9d1556dca3dd9c996b14915877c87691e9..48e7ae34ebd331cdf77c9d81731250e6799d1cc6 100644
 --- a/command-system/landing/landing.module.test-fixtures.ts
