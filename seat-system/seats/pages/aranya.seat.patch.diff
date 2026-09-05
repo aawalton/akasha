@@ -503,6 +503,14 @@ index 6a5e8361944adff1553e6aec67081bde6cf8a772..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../ssh-access
 \ No newline at end of file
+diff --git a/status-bar-access/status-bar-access b/status-bar-access/status-bar-access
+deleted file mode 120000
+index 23a3560f5a87377659c051c6b7fb1c3062dc8a32..0000000000000000000000000000000000000000
+--- a/status-bar-access/status-bar-access
++++ /dev/null
+@@ -1 +0,0 @@
+-../../status-bar-access
+\ No newline at end of file
 diff --git a/utils-fs/utils-fs b/utils-fs/utils-fs
 deleted file mode 120000
 index 8a4350bb29c2cb7e9846cf1a8d7d0cf52c94bd83..0000000000000000000000000000000000000000
