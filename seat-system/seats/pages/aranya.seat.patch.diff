@@ -13,3 +13,18 @@ index 0000000000000000000000000000000000000000..fa6d0315ac2adfc86a8f071855d638b6
 +  definition: "who a caller is, and what says so",
 +  partSlugs: ["manifest/gotrue"],
 +} as const satisfies Domain
+diff --git a/infrastructure/auth/gotrue/gotrue.manifest.ts b/infrastructure/auth/gotrue/gotrue.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e4fe1deb081257c67ece7036db0b587c35f53304
+--- /dev/null
++++ b/infrastructure/auth/gotrue/gotrue.manifest.ts
+@@ -0,0 +1,9 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const gotrue = {
++  id: "01a07392-eb90-7365-83c5-0bbc61079f30",
++  pageTypeSlug: "manifest",
++  slug: "gotrue",
++  definition: "the auth server workload, its namespace and the way in to it",
++  code: "ts",
++} as const satisfies Manifest
