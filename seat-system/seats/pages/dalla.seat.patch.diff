@@ -1,5 +1,5 @@
 diff --git a/command-system/piping/piping.module.code.ts b/command-system/piping/piping.module.code.ts
-index 52aeb6a2887ae25d14c4b1cc19d21b94fe2842ec..9e07d8721cdc41e8ed287a1ef23123da44ca0d0f 100644
+index 52aeb6a2887ae25d14c4b1cc19d21b94fe2842ec..57e9de4f157b20191320d3037186458ece29cf85 100644
 --- a/command-system/piping/piping.module.code.ts
 +++ b/command-system/piping/piping.module.code.ts
 @@ -1,17 +1,28 @@
@@ -51,7 +51,7 @@ index 52aeb6a2887ae25d14c4b1cc19d21b94fe2842ec..9e07d8721cdc41e8ed287a1ef23123da
  }
  
  function linedOf(said: string): readonly string[] {
-@@ -149,10 +160,28 @@ function closedBy(opened: number, closes: string): Passages {
+@@ -149,11 +160,30 @@ function closedBy(opened: number, closes: string): Passages {
  function marking(at: number, instead: string): string {
    return (
      `line ${at} of ${PIPED} begins with ${RUNS_SAID} inside a passage` +
@@ -79,5 +79,61 @@ index 52aeb6a2887ae25d14c4b1cc19d21b94fe2842ec..9e07d8721cdc41e8ed287a1ef23123da
 +}
 +
  export function passagesIn(said: string, instead: string): Passages {
++  const marks = marksIn(said)
    const passages: Passage[] = []
    let old: string[] | null = null
+   let put: string[] | null = null
+@@ -162,13 +192,13 @@ export function passagesIn(said: string, instead: string): Passages {
+     const at = which + 1
+     const one = line.endsWith("\n") ? line.slice(0, -1) : line
+     if (old === null) {
+-      if (one === MARK_OLD) {
++      if (one === marks.opens) {
+         old = []
+         opened = at
+         continue
+       }
+-      if (markedLine(one)) {
+-        return { refusals: [`\`${one}\` at line ${at} of ${PIPED} follows no \`${MARK_OLD}\``] }
++      if (markedLine(one, marks.tag)) {
++        return { refusals: [`\`${one}\` at line ${at} of ${PIPED} follows no \`${marks.opens}\``] }
+       }
+       return {
+         refusals: [
+@@ -177,28 +207,28 @@ export function passagesIn(said: string, instead: string): Passages {
+       }
+     }
+     if (put === null) {
+-      if (one === MARK_SPLIT) {
++      if (one === marks.splits) {
+         put = []
+         continue
+       }
+-      if (one === MARK_NEW) return closedBy(opened, MARK_SPLIT)
+-      if (markedLine(one)) return { refusals: [marking(at, instead)] }
++      if (one === marks.closes) return closedBy(opened, marks.splits)
++      if (markedLine(one, marks.tag)) return { refusals: [marking(at, instead)] }
+       old.push(line)
+       continue
+     }
+-    if (one === MARK_NEW) {
++    if (one === marks.closes) {
+       passages.push({ old: old.join(""), put: put.join("") })
+       old = null
+       put = null
+       continue
+     }
+-    if (one === MARK_OLD) return closedBy(opened, MARK_NEW)
+-    if (markedLine(one)) return { refusals: [marking(at, instead)] }
++    if (one === marks.opens) return closedBy(opened, marks.closes)
++    if (markedLine(one, marks.tag)) return { refusals: [marking(at, instead)] }
+     put.push(line)
+   }
+-  if (old !== null) return closedBy(opened, put === null ? MARK_SPLIT : MARK_NEW)
++  if (old !== null) return closedBy(opened, put === null ? marks.splits : marks.closes)
+   if (passages.length === 0) {
+-    return { refusals: [`${PIPED} names no \`${MARK_OLD}\`, so it asks for no substitution`] }
++    return { refusals: [`${PIPED} names no \`${marks.opens}\`, so it asks for no substitution`] }
+   }
+   return { passages }
+ }
