@@ -21,7 +21,8 @@ export const gitCommitting = {
     },
     {
       invariantKind: "departure",
-      statement: "A new path is given intent to add before the commit, so the commit names it.",
+      statement:
+        "A new path is given intent to add before the commit, so the commit names that path.",
     },
     {
       invariantKind: "departure",
