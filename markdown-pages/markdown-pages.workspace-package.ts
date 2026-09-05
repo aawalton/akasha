@@ -37,7 +37,6 @@ export const markdownPages = {
     "module/markdown-page-seq",
     "module/markdown-page-types",
     "module/markdown-page-uncommitted-keys",
-    "module/markdown-page-unlanded",
     "module/markdown-page-write",
     "module/markdown-page-write-commit",
     "module/markdown-page-write-compose",
