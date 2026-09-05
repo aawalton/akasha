@@ -25,11 +25,40 @@ index c27f9c27c7bdd8a56eb66af00c91173b91acdfce..86ebfd0e32d2f07138148e8d50a37d98
  
      {
        invariantKind: "departure",
+diff --git a/command-system/commands/move/move.command.ts b/command-system/commands/move/move.command.ts
+index 5d841a712ec70eebb7a69676332a5982566de280..0ddc9a6b8a729abb04f3664a24e10455bd603e31 100644
+--- a/command-system/commands/move/move.command.ts
++++ b/command-system/commands/move/move.command.ts
+@@ -203,11 +203,7 @@ export const move = {
+       invariantKind: "absence",
+       statement: "A name a page imports a renamed page's value by is left unchanged.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A path is read against the repository root and never against the folder the call was made in.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement:
 diff --git a/command-system/commands/remove/remove.command.ts b/command-system/commands/remove/remove.command.ts
-index 6d041cfb72e2f8800957c4485d52e0681629721e..3fa9be6ae867442593d382b76054544257a3d873 100644
+index 6d041cfb72e2f8800957c4485d52e0681629721e..7ffb184abad1d24af018a431194c5fb90ea389d3 100644
 --- a/command-system/commands/remove/remove.command.ts
 +++ b/command-system/commands/remove/remove.command.ts
-@@ -99,10 +99,7 @@ export const remove = {
+@@ -30,11 +30,6 @@ export const remove = {
+     "a root manifest another commit moved while this ran refuses the removal rather than being written over.",
+   ],
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A path is read against the repository root and never against the folder the call was made in.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A path that is not there is already gone rather than refused.",
+@@ -99,10 +94,7 @@ export const remove = {
        invariantKind: "departure",
        statement: "A path anywhere in the repository is taken away.",
      },
@@ -68,3 +97,19 @@ index 033855e0dbcaccab843c16cfb453ab36ede2e455..c22456d724e440f0d576018beb7b2729
  
      {
        invariantKind: "departure",
+diff --git a/command-system/commands/restore/restore.command.ts b/command-system/commands/restore/restore.command.ts
+index 7a4c076e535f2bc96a4877619c461b785892ff25..8af637815b76ede068336552f5450392f23ed9b2 100644
+--- a/command-system/commands/restore/restore.command.ts
++++ b/command-system/commands/restore/restore.command.ts
+@@ -22,11 +22,6 @@ export const restore = {
+     "nothing is committed and no check runs: HEAD's body passed the checks when HEAD's body landed.",
+   ],
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A path is read against the repository root and never against the folder the call was made in.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A path is named behind `--file-path` like `write` and `remove` name theirs.",
