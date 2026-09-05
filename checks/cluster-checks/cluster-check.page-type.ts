@@ -150,7 +150,7 @@ export const clusterCheck = {
     },
     {
       invariantKind: "gap",
-      statement: "The dispatch a cluster check states is what wakes that check.",
+      statement: "The dispatch a cluster check states wakes that check.",
     },
   ],
 } as const satisfies PageType
