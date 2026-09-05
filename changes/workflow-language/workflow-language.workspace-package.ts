@@ -19,7 +19,7 @@ export const workflowLanguage = {
     "module/rbac-types",
     "module/buildkit",
     "module/checksum-hash",
-    "module/deploy",
+    "workflow-step/deploy",
     "module/kubectl-apply",
     "module/manifest-path",
     "module/pod-selection",

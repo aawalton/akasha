@@ -6,7 +6,7 @@
     "./buildkit": "./buildkit/buildkit.module.code.ts",
     "./checksum-hash": "./checksum-hash/checksum-hash.module.code.ts",
     "./ci-identifiers": "./ci-identifiers/ci-identifiers.module.code.ts",
-    "./deploy": "./deploy/deploy.module.code.ts",
+    "./deploy": "./deploy/deploy.workflow-step.code.ts",
     "./images": "./images/images.module.code.ts",
     "./inputs-hash": "./inputs-hash/inputs-hash.module.code.ts",
     "./kubectl-apply": "./kubectl-apply/kubectl-apply.module.code.ts",
