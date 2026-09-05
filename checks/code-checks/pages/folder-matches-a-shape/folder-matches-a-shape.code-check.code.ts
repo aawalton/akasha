@@ -267,23 +267,16 @@ export type Holds = (folder: string) => Holding
 
 const NOTHING: Holding = { names: [], holds: null, declared: new Set<string>() }
 
-export function pairingOf(index: Answering, page: Held): readonly string[] {
-  if (page.pageTypeSlug !== PAGE_TYPE || page.slug === null) return []
-  const value = index.pageAt(PAGE_TYPE, page.slug)
-  const plural = value === null ? null : textAt(value, PLURAL_SLUG)
-  return plural === null ? [page.slug] : [page.slug, plural]
+function pairs(page: Held, said: Held): boolean {
+  return page.pageTypeSlug === PAGE_TYPE && page.slug !== null && said.slug === page.slug
 }
 
-function pairs(index: Answering, page: Held, said: Held): boolean {
-  return said.slug !== null && pairingOf(index, page).includes(said.slug)
-}
-
-export function pairedIn(index: Answering, pages: readonly Held[]): readonly Held[] {
+export function pairedIn(pages: readonly Held[]): readonly Held[] {
   const [one, two] = pages
   if (one === undefined || pages.length > 2) return []
   if (two === undefined) return [one]
-  if (two.pageTypeSlug === PACKAGE && pairs(index, one, two)) return [one, two]
-  if (one.pageTypeSlug === PACKAGE && pairs(index, two, one)) return [two, one]
+  if (two.pageTypeSlug === PACKAGE && pairs(one, two)) return [one, two]
+  if (one.pageTypeSlug === PACKAGE && pairs(two, one)) return [two, one]
   return []
 }
 
@@ -304,7 +297,6 @@ export function holdingOver(
     const found = held.get(folder)
     if (found !== undefined) return found
     const paired = pairedIn(
-      index,
       grouped
         .at(folder)
         .map((one) => heldIn(one, pageTypes, fileProperties))

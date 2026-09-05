@@ -152,7 +152,7 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
-      statement: "That workspace package is slugged the page type's plural slug.",
+      statement: "That workspace package is slugged the page type's slug.",
     },
     {
       invariantKind: "departure",
