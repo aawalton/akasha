@@ -6,6 +6,7 @@ export const synthDiscovery = {
   slug: "synth-discovery",
   definition: "the synth files a checkout holds",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -14,6 +15,23 @@ export const synthDiscovery = {
     {
       invariantKind: "departure",
       statement: "A path component naming a folder every synth sits under names no package.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The code file of the manifest a cluster service is applied as is a synth file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which cluster services those are is read from the index rather than from a glob.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cluster service naming no manifest adds no synth file.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A manifest slug naming no manifest page is left out rather than refusing the answer.",
     },
   ],
 } as const satisfies Module

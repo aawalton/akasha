@@ -8,6 +8,7 @@
     "./synth-loading": "./synth-loading/synth-loading.module.code.ts"
   },
   "dependencies": {
+    "@akasha/indexes": "workspace:*",
     "zod": "^4.3.6"
   }
 }
