@@ -1,0 +1,14 @@
+diff --git a/git/git-answering/git-answering.module.ts b/git/git-answering/git-answering.module.ts
+index bc94c3a2014075e578df346af8a13c2dc0a819b8..955bbcd38382b016bf0680de4e000fe48c67eec8 100644
+--- a/git/git-answering/git-answering.module.ts
++++ b/git/git-answering/git-answering.module.ts
+@@ -25,7 +25,8 @@ export const gitAnswering = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The group is killed once the process ends, so nothing it started outlives it.",
++      statement:
++        "The group is killed once the process ends, so nothing that process started outlives that process.",
+     },
+     {
+       invariantKind: "departure",
