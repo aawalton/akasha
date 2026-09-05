@@ -272,7 +272,7 @@ index 15c867076404849300293f9e902779ce4b2e3282..a41cfd14e715fc95c0fa278f9a54138f
  
  if (import.meta.main) {
 diff --git a/seat-system/subagents/presence/subagent-presence.module.test.ts b/seat-system/subagents/presence/subagent-presence.module.test.ts
-index ab229a557448972c168f3e5ba35cbbddf6d09230..5c85fbce1855ad54cfed9a27e4471f05e13ddf3c 100644
+index ab229a557448972c168f3e5ba35cbbddf6d09230..9006d41fee6446c5445af92ac0d0fddbc1ba466c 100644
 --- a/seat-system/subagents/presence/subagent-presence.module.test.ts
 +++ b/seat-system/subagents/presence/subagent-presence.module.test.ts
 @@ -9,12 +9,16 @@ import { listedFiled, pageFiled, rebuiltIn } from "@akasha/indexes/testing"
@@ -292,16 +292,20 @@ index ab229a557448972c168f3e5ba35cbbddf6d09230..5c85fbce1855ad54cfed9a27e4471f05
    wrote,
  } from "./subagent-presence.module.code.ts"
  
-@@ -34,6 +38,8 @@ const TREE = "akasha"
+@@ -34,6 +38,12 @@ const TREE = "akasha"
  
  const MECHANICAL = "Checks-bypassed: a `change-mechanical` change runs no check"
  
++<<<<<<< what this change would leave
 +const WENT = { went: true }
++=======
++const WENT = { went: true } as const
++>>>>>>> what HEAD holds
 +
  function seated(root: string): string {
    gitIn(root, ["init", "--quiet"])
    gitIn(root, ["config", "user.email", "held@nowhere"])
-@@ -51,6 +57,22 @@ function messageIn(root: string): string {
+@@ -51,6 +61,22 @@ function messageIn(root: string): string {
    return gitIn(root, ["log", "-1", "--pretty=%B"])
  }
  
@@ -324,7 +328,7 @@ index ab229a557448972c168f3e5ba35cbbddf6d09230..5c85fbce1855ad54cfed9a27e4471f05
  test("a slug joins the seat's name to the id the subagent runs under", () => {
    expect(slugOf("akasha", OWN)).toBe(`akasha-${OWN}`)
  })
-@@ -72,6 +94,10 @@ test("a page sits under the subagents folder named for its slug", () => {
+@@ -72,6 +98,10 @@ test("a page sits under the subagents folder named for its slug", () => {
    expect(pathOf("akasha-abc")).toBe("seat-system/subagents/pages/akasha-abc.subagent.ts")
  })
  
@@ -335,7 +339,7 @@ index ab229a557448972c168f3e5ba35cbbddf6d09230..5c85fbce1855ad54cfed9a27e4471f05
  test("a body states the type and slug and seat and assignment and kind and agent id", () => {
    const body = bodyOf("akasha-abc", "akasha", "domain/akasha-system", "Explore", "seat--own")
    expect(body).toContain("export const akashaAbc = {")
-@@ -149,7 +175,7 @@ test("a page is landed by a program, its commit saying no check ran", async () =
+@@ -149,7 +179,7 @@ test("a page is landed by a program, its commit saying no check ran", async () =
    const world = scratchWorld()
    try {
      const root = seated(world.rootFor("subagent-presence-"))
@@ -344,7 +348,7 @@ index ab229a557448972c168f3e5ba35cbbddf6d09230..5c85fbce1855ad54cfed9a27e4471f05
      const at = join(root, pathOf(slugOf("akasha", OWN)))
      expect(readFileSync(at, "utf8")).toContain('dispatchedAs: "Explore"')
      expect(messageIn(root)).toContain(MECHANICAL)
-@@ -162,7 +188,7 @@ test("a page that landed states the agent id the subagent acts under", async ()
+@@ -162,7 +192,7 @@ test("a page that landed states the agent id the subagent acts under", async ()
    const world = scratchWorld()
    try {
      const root = seated(world.rootFor("subagent-presence-"))
@@ -353,7 +357,7 @@ index ab229a557448972c168f3e5ba35cbbddf6d09230..5c85fbce1855ad54cfed9a27e4471f05
      const at = join(root, pathOf(slugOf("akasha", OWN)))
      expect(readFileSync(at, "utf8")).toContain(`agentId: "${SEAT_ID}--${OWN}"`)
    } finally {
-@@ -174,20 +200,23 @@ test("a page already there is left as it is", async () => {
+@@ -174,20 +204,23 @@ test("a page already there is left as it is", async () => {
    const world = scratchWorld()
    try {
      const root = seated(world.rootFor("subagent-presence-"))
@@ -381,7 +385,7 @@ index ab229a557448972c168f3e5ba35cbbddf6d09230..5c85fbce1855ad54cfed9a27e4471f05
      expect(existsSync(join(root, pathOf(slugOf("thea", OWN))))).toBe(false)
    } finally {
      world.sweep()
-@@ -199,7 +228,7 @@ test("a page taken away goes, and the commit says a program took it", async () =
+@@ -199,7 +232,7 @@ test("a page taken away goes, and the commit says a program took it", async () =
    try {
      const root = seated(world.rootFor("subagent-presence-"))
      await wrote(root, "akasha", SEAT_ID, OWN, "Explore")
@@ -390,7 +394,7 @@ index ab229a557448972c168f3e5ba35cbbddf6d09230..5c85fbce1855ad54cfed9a27e4471f05
      expect(existsSync(join(root, pathOf(slugOf("akasha", OWN))))).toBe(false)
      expect(messageIn(root)).toContain(MECHANICAL)
    } finally {
-@@ -216,7 +245,7 @@ test("a page taken away is forgotten by whoever read it", async () => {
+@@ -216,7 +249,7 @@ test("a page taken away is forgotten by whoever read it", async () => {
      const oid = blobIdOf(new TextEncoder().encode(readFileSync(join(root, at), "utf8")))
      recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
      expect(readingIn(root, AGENT, at)).not.toBe(null)
@@ -399,7 +403,7 @@ index ab229a557448972c168f3e5ba35cbbddf6d09230..5c85fbce1855ad54cfed9a27e4471f05
      expect(readingIn(root, AGENT, at)).toBe(null)
    } finally {
      world.sweep()
-@@ -228,9 +257,39 @@ test("a page that is not there is taken away by doing nothing", async () => {
+@@ -228,9 +261,39 @@ test("a page that is not there is taken away by doing nothing", async () => {
    try {
      const root = seated(world.rootFor("subagent-presence-"))
      const held = gitIn(root, ["rev-parse", "HEAD"])
