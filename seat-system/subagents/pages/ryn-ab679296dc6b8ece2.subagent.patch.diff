@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/seat-system/terminal-init/terminal-reload/terminal-reload.module.ts b/seat-system/terminal-init/terminal-reload/terminal-reload.module.ts
-index ba365b3e4a3f8e820890f31c43707a5276d7c7d3..dd2f6ace50698681352fe855e9184968883641c2 100644
+index ba365b3e4a3f8e820890f31c43707a5276d7c7d3..06810659e78032f44ef2a8bc9ffa58d832fbbc02 100644
 --- a/seat-system/terminal-init/terminal-reload/terminal-reload.module.ts
 +++ b/seat-system/terminal-init/terminal-reload/terminal-reload.module.ts
 @@ -23,7 +23,7 @@ export const terminalReload = {
@@ -9,6 +9,15 @@ index ba365b3e4a3f8e820890f31c43707a5276d7c7d3..dd2f6ace50698681352fe855e9184968
        invariantKind: "departure",
 -      statement: "The set is parsed before it is loaded.",
 +      statement: "The set is parsed before that set is loaded.",
+     },
+     {
+       invariantKind: "departure",
+@@ -31,7 +31,7 @@ export const terminalReload = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A reload that could not be done says which step of it failed.",
++      statement: "A reload that could not be done says which step of that reload failed.",
      },
      {
        invariantKind: "departure",
