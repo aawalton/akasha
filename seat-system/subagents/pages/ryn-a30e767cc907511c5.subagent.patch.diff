@@ -1,0 +1,14 @@
+diff --git a/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.ts b/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.ts
+index 15a080eec9c5be5f368de3133b9ed9f2545be201..d87885a9735bee5fa4d71239ed23347339b9c293 100644
+--- a/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.ts
++++ b/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.ts
+@@ -55,7 +55,8 @@ export const blockAkashaShellWrites = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A redirect is read outside the body a heredoc carries rather than inside it.",
++      statement:
++        "A redirect is read outside the body a heredoc carries rather than inside that body.",
+     },
+     {
+       invariantKind: "departure",
