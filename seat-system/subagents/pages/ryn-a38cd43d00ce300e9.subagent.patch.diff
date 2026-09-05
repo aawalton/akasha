@@ -1,0 +1,64 @@
+diff --git a/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts b/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts
+index 61c9da4235ccb4714f9a09495019ceba5f98467a..796b3068a1287e157731380e746a16b0cf515f7e 100644
+--- a/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts
++++ b/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts
+@@ -22,10 +22,7 @@ export const renameExport = {
+       statement:
+         "Which files name the declaring file is asked of the index rather than walked for.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "An index that cannot answer refuses the change rather than narrowing its reach.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A rename refuses where any file it would change already reaches the new name.",
+diff --git a/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts b/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts
+index e5f3f89e0ba3d5d24d76f65d3e669aeb1f775d3f..23d6e0f53de7652a73c8ac8e473be5c596cb7d75 100644
+--- a/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts
++++ b/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts
+@@ -12,10 +12,7 @@ export const renamePath = {
+       invariantKind: "departure",
+       statement: "Which bodies import the path is asked of the index rather than walked for.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "An index that cannot answer refuses the change rather than narrowing its reach.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "The body that moves has its own relative reaches rebased on where it lands.",
+diff --git a/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts b/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
+index eb4a27fc65bb17705c20e6976609acb1248b0e89..17829566e32e79dbd8b7d899b30fada56fb7609c 100644
+--- a/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
++++ b/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
+@@ -25,10 +25,7 @@ export const renamePropertySignature = {
+       statement:
+         "Which files name the declaring file is asked of the index rather than walked for.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "An index that cannot answer refuses the change rather than narrowing its reach.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A property declared outside the named file as well is refused, being two things.",
+diff --git a/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.ts b/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.ts
+index 9ec05f9b6ec0868c09e89648c2d196d01712a354..435204703782d44d2c6232625b8a6301514501af 100644
+--- a/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.ts
++++ b/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.ts
+@@ -20,10 +20,7 @@ export const renameSlug = {
+       invariantKind: "departure",
+       statement: "Those pages are asked for by the id, which a slug rename leaves alone.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "An index that cannot answer refuses the change rather than narrowing its reach.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A page of the same page type already carrying the new slug refuses the change.",
