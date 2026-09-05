@@ -24,7 +24,11 @@ export const provisionScript = {
     {
       invariantKind: "departure",
       statement:
-        "A launchd bootstrap that fails on input/output or on being in progress is retried, and any other failure is raised.",
+        "A launchd bootstrap that fails on input/output or on being in progress is retried.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A launchd bootstrap that fails any other way is raised.",
     },
   ],
 } as const satisfies Module
