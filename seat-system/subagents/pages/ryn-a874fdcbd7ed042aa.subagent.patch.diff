@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/supervising/supervisor-agent/supervisor-agent.module.ts b/seat-system/supervising/supervisor-agent/supervisor-agent.module.ts
+index d5f7948fd76721be7f432048c964c102eb1d1827..60806c37d28896c1f3f5f36a7877dd1402e0e1fc 100644
+--- a/seat-system/supervising/supervisor-agent/supervisor-agent.module.ts
++++ b/seat-system/supervising/supervisor-agent/supervisor-agent.module.ts
+@@ -14,7 +14,8 @@ export const supervisorAgent = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A pinned account with no credential falls back only where it was not pinned.",
++      statement:
++        "A pinned account with no credential falls back only where that account was not pinned.",
+     },
+     {
+       invariantKind: "departure",
