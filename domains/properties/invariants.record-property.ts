@@ -31,7 +31,7 @@ export const invariants = {
     },
     {
       invariantKind: "departure",
-      statement: "An invariant states what is true rather than why.",
+      statement: "An invariant states a truth rather than a reason.",
     },
     {
       invariantKind: "departure",
