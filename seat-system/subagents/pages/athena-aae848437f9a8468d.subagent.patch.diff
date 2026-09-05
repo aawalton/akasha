@@ -179,6 +179,24 @@ index 432a58fb79e146814759f5dd4da21650964a7e1e..52726123b6b779b99d95b6e37579f72e
      property("09", "page-type-slug", "relation-property", "page-type-slug", "page-type/page-type"),
      property("10", "names", "relation-property", "names", "page-type/page"),
      property("11", "held-code", "file-property", "code"),
+diff --git a/context/modules/warranting/warranting.module.test-fixtures.ts b/context/modules/warranting/warranting.module.test-fixtures.ts
+index 449abb5b20ccc09c9fedc7e9929e9ebb542c3694..b68fa3672f94da342900cb9da02d7c6f910e3208 100644
+--- a/context/modules/warranting/warranting.module.test-fixtures.ts
++++ b/context/modules/warranting/warranting.module.test-fixtures.ts
+@@ -233,10 +233,11 @@ export function roleListed(root: string, slug: string): Listed {
+   return pageListed(root, `role-system/role/roles/${slug}.role.ts`, "role", slug)
+ }
+ 
+-export function pageTypeListed(root: string, slug: string, above: string | null): string {
++export function pageTypeListed(root: string, slug: string, above: readonly string[]): string {
+   const id = mintedId(`type-${slug}`)
+   const path = `akasha/${slug}/${slug}.page-type.ts`
+-  const said = above === null ? "" : `, extendsSlug: ["page-type/${above}"]`
++  const named = above.map((one) => `page-type/${one}`)
++  const said = `, extendsSlug: ${JSON.stringify(named)}`
+   writing(
+     root,
+     path,
 diff --git a/pages/core/schema/page-type-inheritance/page-type-inheritance.module.test.ts b/pages/core/schema/page-type-inheritance/page-type-inheritance.module.test.ts
 index 036110c1a965832096ff8f1ffecee7b5fd88fd0b..1498729979da491776388f937add84582dfd564d 100644
 --- a/pages/core/schema/page-type-inheritance/page-type-inheritance.module.test.ts
