@@ -69,7 +69,7 @@ export const calendarEventSource = {
     },
     {
       invariantKind: "absence",
-      statement: "A source says nothing about what changed since the last pass.",
+      statement: "A source says nothing about the changes since the last pass.",
     },
     {
       invariantKind: "departure",
