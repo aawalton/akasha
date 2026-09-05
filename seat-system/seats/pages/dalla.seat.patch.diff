@@ -139,3 +139,30 @@ index 1b18c9f51095e29aca3df769a0a5f59e2b854360..47216b583ac33409ede9dbf27984ca29
 +    ["c\n", "d\n"],
 +  ])
 +})
+diff --git a/command-system/piping/piping.module.ts b/command-system/piping/piping.module.ts
+index 0cfee20a1b6e1a89dce2e8bf6ce1c8960fa484d0..d3acd6b118a3d76b0d4335b5d33e68d5b8da24e7 100644
+--- a/command-system/piping/piping.module.ts
++++ b/command-system/piping/piping.module.ts
+@@ -81,6 +81,22 @@ export const piping = {
+       invariantKind: "departure",
+       statement: "A passage is the bytes between its markers with its trailing newline included.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A marker carrying `mid-line` ends the passage before it without that newline.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The split marker ends the passage and the closing marker ends what it becomes.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Each of the two is ended mid-line on its own.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A passage carrying no trailing newline is left as it is.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The blocks are answered in the order the blocks are written.",
