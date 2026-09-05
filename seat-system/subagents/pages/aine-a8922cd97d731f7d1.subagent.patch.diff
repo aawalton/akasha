@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.test.ts b/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.test.ts
-index d6298682ed396fc95f4f3dfb401ee59c29378ab6..c01f813d0bf5beb061b34e61f0d71c3267060e27 100644
+index d6298682ed396fc95f4f3dfb401ee59c29378ab6..2b6be01166f626123022e078592270ec827444df 100644
 --- a/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.test.ts
 +++ b/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.test.ts
 @@ -10,7 +10,7 @@ test("a file carrying no comment is let through", () => {
@@ -47,6 +47,15 @@ index d6298682ed396fc95f4f3dfb401ee59c29378ab6..c01f813d0bf5beb061b34e61f0d71c32
    const body = [".held {", "  /* this holds the color */", "  color: red;", "}"].join("\n")
    const said = reasonsIn(dressed(`${body}\n`))
    expect(said).toHaveLength(1)
+@@ -135,7 +135,7 @@ test("a block of prose in a stylesheet is refused once rather than once a line",
+   expect(said[0]).toContain("line 1")
+ })
+ 
+-test("a comment standing after a stylesheet rule names the line it stands on", () => {
++test("a comment after a stylesheet rule names the line it sits on", () => {
+   const said = reasonsIn(dressed(".held {\n  color: red;\n}\n/* nothing follows */\n"))
+   expect(said).toHaveLength(1)
+   expect(said[0]).toContain("line 4")
 diff --git a/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.ts b/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.ts
 index ebdb72d8f2b64b46f938ac875b936768fed82311..0910f59009cd4a3e9ef3dbaf7e71f255d1109862 100644
 --- a/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.ts
