@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/git/running/git-running.module.ts b/git/running/git-running.module.ts
-index 5a1478142f8c95ba88aaecd9cceca46bc4ec8d1c..b5b060f399a7650458c13b11972a1e080b383b7e 100644
+index 5a1478142f8c95ba88aaecd9cceca46bc4ec8d1c..c2fb619892115f4ba6a35db34a9e1a2688e9f35e 100644
 --- a/git/running/git-running.module.ts
 +++ b/git/running/git-running.module.ts
 @@ -19,7 +19,7 @@ export const gitRunning = {
@@ -12,3 +12,12 @@ index 5a1478142f8c95ba88aaecd9cceca46bc4ec8d1c..b5b060f399a7650458c13b11972a1e08
      },
      {
        invariantKind: "departure",
+@@ -47,7 +47,7 @@ export const gitRunning = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here reads what git said.",
++      statement: "Nothing here reads the text git left.",
+     },
+   ],
+ } as const satisfies Module
