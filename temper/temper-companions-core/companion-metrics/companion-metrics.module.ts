@@ -12,6 +12,10 @@ export const companionMetrics = {
       statement: "The table is assembled from three runs rather than declared in one place.",
     },
     {
+      invariantKind: "departure",
+      statement: "A run holds a contiguous stretch of the companion metrics table.",
+    },
+    {
       invariantKind: "constraint",
       statement: "A metric carrying a formula is worked out after every metric the formula reads.",
     },

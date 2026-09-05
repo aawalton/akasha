@@ -128,6 +128,10 @@ export const monarch = {
       statement:
         "A monarch page holds the fields its readers name rather than a copy of Monarch's reply.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An errors field in a two-hundred answer is a refusal.",
+    },
   ],
   directives: [
     {

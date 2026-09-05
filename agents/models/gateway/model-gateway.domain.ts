@@ -75,5 +75,9 @@ export const modelGateway = {
       invariantKind: "departure",
       statement: "Work a gateway does between two frames is work no stream is being served during.",
     },
+    {
+      invariantKind: "departure",
+      statement: "No account left to choose is written about as `no-viable-account`.",
+    },
   ],
 } as const satisfies Domain

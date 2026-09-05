@@ -56,6 +56,10 @@ export const judgedSaying = {
     },
     {
       invariantKind: "departure",
+      statement: "A path no check judged is named in the answer.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The counting is handed in rather than reached for.",
     },
     {
