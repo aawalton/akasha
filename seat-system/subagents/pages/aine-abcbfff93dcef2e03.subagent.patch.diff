@@ -1,0 +1,78 @@
+diff --git a/file-system/answer-mark/answer-mark.module.ts b/file-system/answer-mark/answer-mark.module.ts
+index a3782aa8e6737cea7af43891d2c85773d9a4eebb..904f5bef04995da8b698c5f166f40f69bbc5e7cd 100644
+--- a/file-system/answer-mark/answer-mark.module.ts
++++ b/file-system/answer-mark/answer-mark.module.ts
+@@ -13,7 +13,7 @@ export const answerMark = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An input is a path and the object id of what stands at the path.",
++      statement: "An input is a path and the object id of what is at the path.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/file-system/data-place/data-place.module.test.ts b/file-system/data-place/data-place.module.test.ts
+index 933344ef534f4d28dc81ee96c465f78b738dc86a..209dd0fffe147aeb56d1ee491df2c3a169fb7fc5 100644
+--- a/file-system/data-place/data-place.module.test.ts
++++ b/file-system/data-place/data-place.module.test.ts
+@@ -1,7 +1,7 @@
+ import { expect, test } from "bun:test"
+ import { dataAt, dataIn } from "./data-place.module.code.ts"
+ 
+-test("the place stands under the folder git does not track", () => {
++test("the place sits under the folder git does not track", () => {
+   expect(dataAt()).toBe(".git/data")
+   expect(dataIn("/repo")).toBe("/repo/.git/data")
+ })
+diff --git a/file-system/data-place/data-place.module.ts b/file-system/data-place/data-place.module.ts
+index 239bd98c9a63d0b79f710ecc94090358f95317d1..00f7a0930c14e4b4fb0351889c893f6391f19938 100644
+--- a/file-system/data-place/data-place.module.ts
++++ b/file-system/data-place/data-place.module.ts
+@@ -14,7 +14,7 @@ export const dataPlace = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What stands under it is named by whatever owns that.",
++      statement: "What is under it is named by whatever owns that.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/file-system/exclusive/exclusive.module.ts b/file-system/exclusive/exclusive.module.ts
+index 48a6a28abd1281920e9c72108b4786f752694ad9..fad6c273956963052aedebae3583858c4985c034 100644
+--- a/file-system/exclusive/exclusive.module.ts
++++ b/file-system/exclusive/exclusive.module.ts
+@@ -9,7 +9,7 @@ export const exclusive = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The turn is a directory made beside the path the turn stands for.",
++      statement: "The turn is a directory made beside the path the turn represents.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/file-system/lock-holder/lock-holder.module.test.ts b/file-system/lock-holder/lock-holder.module.test.ts
+index ddf19e101ce247fc2cac13ca4a9f2edcfbacb02f..e8730fa8b7e8f538aa45c7497db6c73636e398d9 100644
+--- a/file-system/lock-holder/lock-holder.module.test.ts
++++ b/file-system/lock-holder/lock-holder.module.test.ts
+@@ -36,7 +36,7 @@ test("a pid nothing is running under answers unknown rather than failing", async
+   expect(startedAt(await gonePid())).toBe(UNKNOWN)
+ })
+ 
+-test("a mark that stands is read back whole, with the whitespace around it dropped", () => {
++test("a mark that is there is read back whole, with the whitespace around it dropped", () => {
+   expect(markIn(marked(`${process.pid} 1\n`))).toBe(`${process.pid} 1`)
+ })
+ 
+diff --git a/file-system/lock-holder/lock-holder.module.ts b/file-system/lock-holder/lock-holder.module.ts
+index 8c25dc53a4bcdfa2f0c618aa16b822e331e29527..ac7520af0d562453158f812033f42ae14ed9baf7 100644
+--- a/file-system/lock-holder/lock-holder.module.ts
++++ b/file-system/lock-holder/lock-holder.module.ts
+@@ -39,7 +39,7 @@ export const lockHolder = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A mark that stands empty is answered as no holder.",
++      statement: "A mark that is empty is answered as no holder.",
+     },
+     {
+       invariantKind: "departure",
