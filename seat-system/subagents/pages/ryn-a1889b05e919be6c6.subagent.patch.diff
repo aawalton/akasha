@@ -103,3 +103,16 @@ index 9dde807d51da4e0b71c8de185e50225938dc5605..b48bfee77eae7afbb574cc9ea8824087
      },
      {
        invariantKind: "departure",
+diff --git a/seat-system/seat-revive-placement-decide/seat-revive-placement-decide.module.ts b/seat-system/seat-revive-placement-decide/seat-revive-placement-decide.module.ts
+index e8a4e76dbbdbb8dcd7891da24d6d45204072f5f6..719fd77af5a10af33e76bb5b639203dfbc934fad 100644
+--- a/seat-system/seat-revive-placement-decide/seat-revive-placement-decide.module.ts
++++ b/seat-system/seat-revive-placement-decide/seat-revive-placement-decide.module.ts
+@@ -11,7 +11,7 @@ export const seatRevivePlacementDecide = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A seat restarts in place only where its prior launch opened a terminal and that terminal is still live.",
++        "A seat restarts in place only where its prior launch opened a terminal that is still live.",
+     },
+     {
+       invariantKind: "departure",
