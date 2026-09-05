@@ -1,0 +1,26 @@
+diff --git a/checks/code-checks/pages/lint-clean/lint-clean.code-check.code.ts b/checks/code-checks/pages/lint-clean/lint-clean.code-check.code.ts
+index 430bb8bc1409a0f6262e28a76519062c4e27a32b..feb22aa9b5205dc26a2bb4b66e084d3d0d817141 100644
+--- a/checks/code-checks/pages/lint-clean/lint-clean.code-check.code.ts
++++ b/checks/code-checks/pages/lint-clean/lint-clean.code-check.code.ts
+@@ -8,7 +8,7 @@ import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+ 
+ const READ: readonly string[] = [".ts", ".tsx", ".css"]
+ 
+-const WORLD = "the world this change was stood up in"
++const WORLD = "the world this change was set up in"
+ 
+ const UNLOOKED = "A linter that could not look has verified nothing, so this change is not judged."
+ 
+diff --git a/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts b/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts
+index 86d392ee6ae1448dd6eb96bd31735a1442b6b783..4ee499bd7c03d440b748063a359dc82c0b7fcbf3 100644
+--- a/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts
++++ b/checks/code-checks/pages/lint-clean/lint-clean.code-check.ts
+@@ -55,7 +55,7 @@ export const lintClean = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every finding is answered against the file the finding stands in.",
++      statement: "Every finding is answered against the file the finding is in.",
+     },
+     {
+       invariantKind: "departure",
