@@ -71,7 +71,7 @@ describe("the launch", () => {
 
 describe("a fresh seat", () => {
   test("stops whatever held its name before it starts", () => {
-    expect(fresh.indexOf("seat supervisor stop")).toBeLessThan(fresh.indexOf("ops seat start"))
+    expect(fresh.indexOf("seat supervisor stop")).toBeLessThan(fresh.indexOf("seat start"))
   })
 
   test("stops a name held by a tmux session with no seat page", () => {
