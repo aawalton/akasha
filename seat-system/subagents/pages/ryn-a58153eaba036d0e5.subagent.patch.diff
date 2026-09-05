@@ -92,6 +92,22 @@ index 7224e6601b504959e5d2f2487362a12e604c36c2..78a105abc2d78e1deb62f658c5847a83
      {
        invariantKind: "absence",
        statement: "Nothing here provisions the weights or starts the container.",
+diff --git a/infrastructure/inference-commands/inference-video-qa/inference-video-qa.command.ts b/infrastructure/inference-commands/inference-video-qa/inference-video-qa.command.ts
+index 5046d1f027c95f67eeb8b3cde3643a279965f9a2..20a0bd7ca22957a796d550aaf56195c2c118abd5 100644
+--- a/infrastructure/inference-commands/inference-video-qa/inference-video-qa.command.ts
++++ b/infrastructure/inference-commands/inference-video-qa/inference-video-qa.command.ts
+@@ -50,10 +50,7 @@ export const inferenceVideoQa = {
+       invariantKind: "departure",
+       statement: "The answer is the model's words.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A run row is filed whether the reading finished or failed.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here writes a clip or a frame the caller keeps.",
 diff --git a/story/chapters-played/story-chapter-played.page-type.ts b/story/chapters-played/story-chapter-played.page-type.ts
 index 3105765de04f6d660afdd61276afb567148bd6f5..504031cac23062d4dc8617bb2ee5895b56794cd3 100644
 --- a/story/chapters-played/story-chapter-played.page-type.ts
