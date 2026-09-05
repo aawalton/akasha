@@ -13,11 +13,12 @@ export const pageNarrow = {
     },
     {
       invariantKind: "departure",
-      statement: "A narrowing keeps `slug` whether or not the caller named it.",
+      statement: "A narrowing keeps `slug` whether or not the caller named `slug`.",
     },
     {
       invariantKind: "departure",
-      statement: "Narrowing answers a new map rather than changing the one it was given.",
+      statement:
+        "Narrowing answers a new map rather than changing the map that narrowing was given.",
     },
   ],
 } as const satisfies Module
