@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/indexes/rebuilding/rebuilding.module.ts b/pages/indexes/rebuilding/rebuilding.module.ts
-index a52d846a0106ce03b4cc1d172cbee493e4835d70..892d7e42c733ff37a1b5341295b61ddf48b2b8cf 100644
+index a52d846a0106ce03b4cc1d172cbee493e4835d70..ac9c6751fd6ed4ae4ebfe6cdbd305c2a286a65fa 100644
 --- a/pages/indexes/rebuilding/rebuilding.module.ts
 +++ b/pages/indexes/rebuilding/rebuilding.module.ts
 @@ -18,7 +18,7 @@ export const rebuilding = {
@@ -9,6 +9,15 @@ index a52d846a0106ce03b4cc1d172cbee493e4835d70..892d7e42c733ff37a1b5341295b61ddf
        invariantKind: "departure",
 -      statement: "What was built is put in place by renaming rather than by copying.",
 +      statement: "The index that was built is put in place by renaming rather than by copying.",
+     },
+     {
+       invariantKind: "departure",
+@@ -31,7 +31,7 @@ export const rebuilding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What differs between two indexes is read by walking the two indexes.",
++      statement: "The difference between two indexes is read by walking the two indexes.",
      },
      {
        invariantKind: "departure",
