@@ -1,0 +1,12 @@
+diff --git a/temper/temper-commands/temper-inventory-rule-unlock/temper-inventory-rule-unlock.command.ts b/temper/temper-commands/temper-inventory-rule-unlock/temper-inventory-rule-unlock.command.ts
+index 78e9eda44bdb4cdff8452ab4896b6365fd6d5b4b..b53aae6aabe98522dc7ead87ec570185839b312a 100644
+--- a/temper/temper-commands/temper-inventory-rule-unlock/temper-inventory-rule-unlock.command.ts
++++ b/temper/temper-commands/temper-inventory-rule-unlock/temper-inventory-rule-unlock.command.ts
+@@ -8,7 +8,6 @@ export const temperInventoryRuleUnlock = {
+   code: "ts",
+   changeKindSlug: "change-none",
+   taking: [{ said: "<id>", takes: "the id of the category rule unlocked" }],
+-  helpNotes: ["unlocking a category rule already unlocked changes nothing."],
+   invariants: [
+     {
+       invariantKind: "departure",
