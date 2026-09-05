@@ -23,7 +23,7 @@ export const proxyServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A GET of `/inflight` is answered what the hold registry counts.",
+      statement: "A GET of `/inflight` is answered the hold registry's count.",
     },
     {
       invariantKind: "departure",
@@ -247,7 +247,7 @@ export const proxyServing = {
     {
       invariantKind: "constraint",
       statement:
-        "A caller holds what starting a gateway hands back for as long as that gateway runs.",
+        "A caller holds the proxy starting a gateway hands back for as long as that gateway runs.",
     },
     {
       invariantKind: "absence",
