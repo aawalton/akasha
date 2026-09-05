@@ -1,0 +1,14 @@
+diff --git a/editor-extension/work-tree-colors/work-tree-colors.module.ts b/editor-extension/work-tree-colors/work-tree-colors.module.ts
+index 25c0612e6cbef64c7f05b859db2522052de84480..e110f7c8b245fc5f27888409c6037cb98dce73cf 100644
+--- a/editor-extension/work-tree-colors/work-tree-colors.module.ts
++++ b/editor-extension/work-tree-colors/work-tree-colors.module.ts
+@@ -25,7 +25,8 @@ export const workTreeColors = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A repaint reads each row's color afresh rather than raising the one it holds.",
++      statement:
++        "A repaint reads each row's color afresh rather than raising the one that row holds.",
+     },
+     {
+       invariantKind: "departure",
