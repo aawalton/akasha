@@ -1639,3 +1639,11 @@ index 71fd716e219691631266fdda2f130f6fe173d80b..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-web
 \ No newline at end of file
+diff --git a/version/checkout/checkout-version b/version/checkout/checkout-version
+deleted file mode 120000
+index 30b046d6656bf6ae74821edfa906703447192de2..0000000000000000000000000000000000000000
+--- a/version/checkout/checkout-version
++++ /dev/null
+@@ -1 +0,0 @@
+-../../version/checkout
+\ No newline at end of file
