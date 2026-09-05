@@ -1,5 +1,5 @@
 diff --git a/commands/track/session-rows/session-rows.module.ts b/commands/track/session-rows/session-rows.module.ts
-index 02b98a089ce0efab13a3b33f3931fd598cf5e3c5..cde2d4a08d541d661e474092b725d8a733d968e3 100644
+index 02b98a089ce0efab13a3b33f3931fd598cf5e3c5..4160295e6728d0f1b891ff08423d07633952cd96 100644
 --- a/commands/track/session-rows/session-rows.module.ts
 +++ b/commands/track/session-rows/session-rows.module.ts
 @@ -17,7 +17,7 @@ export const sessionRows = {
@@ -17,6 +17,15 @@ index 02b98a089ce0efab13a3b33f3931fd598cf5e3c5..cde2d4a08d541d661e474092b725d8a7
        invariantKind: "departure",
 -      statement: "A level reading answers with the levels or with what refused them.",
 +      statement: "A level reading answers with the levels or with what refused those levels.",
+     },
+     {
+       invariantKind: "departure",
+@@ -41,7 +41,7 @@ export const sessionRows = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A relationship reading answers with the ids or with what refused them.",
++      statement: "A relationship reading answers with the ids or with what refused those ids.",
      },
      {
        invariantKind: "departure",
