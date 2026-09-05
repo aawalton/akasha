@@ -1,5 +1,5 @@
 diff --git a/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts b/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts
-index e7519b745ed9c92652027b2697f7066fc01fa618..e7be71adb7b8e1df3c94d460dba6cc660071772f 100644
+index e7519b745ed9c92652027b2697f7066fc01fa618..1d8b8273c25bf88ef77b232c6e4e5b9384d27a2d 100644
 --- a/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts
 +++ b/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts
 @@ -10,7 +10,8 @@ export const claudeAccountCredentialFile = {
@@ -27,6 +27,15 @@ index e7519b745ed9c92652027b2697f7066fc01fa618..e7be71adb7b8e1df3c94d460dba6cc66
        statement:
 -        "A refresh whose page credential expires no later than the file's leaves the file as it is.",
 +        "A refresh whose page credential expires no later than the file's leaves the file as that file is.",
+     },
+     {
+       invariantKind: "departure",
+@@ -59,7 +60,7 @@ export const claudeAccountCredentialFile = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A push that is refused throws rather than answering that it pushed.",
++      statement: "A push that is refused throws rather than answering that the push happened.",
      },
      {
        invariantKind: "departure",
