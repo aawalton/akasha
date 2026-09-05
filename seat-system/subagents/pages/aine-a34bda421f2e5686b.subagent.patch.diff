@@ -1,5 +1,5 @@
 diff --git a/code-system/code-tests/code-tests.module.test.ts b/code-system/code-tests/code-tests.module.test.ts
-index caeef3c40502bb5a864f2c2b06208c2dfde299d1..b70dc016d64c84f0065d86c18f89bfda1e48c8f3 100644
+index caeef3c40502bb5a864f2c2b06208c2dfde299d1..a101ea1e65230e521ed77da2ccd538c8a928ca3a 100644
 --- a/code-system/code-tests/code-tests.module.test.ts
 +++ b/code-system/code-tests/code-tests.module.test.ts
 @@ -104,7 +104,7 @@ check("a test answers itself alone, whichever of the two it is written in", () =
@@ -53,8 +53,17 @@ index caeef3c40502bb5a864f2c2b06208c2dfde299d1..b70dc016d64c84f0065d86c18f89bfda
    const from = repo({})
    installed(from, "third", null)
    const world = worldOf(from, [], handing({}), null)
+@@ -246,7 +246,7 @@ check("a package standing outside the tree is answered from the tree it was made
+   }
+ })
+ 
+-check("a package standing inside the tree is answered from the world holding it", () => {
++check("a package inside the tree is answered from the world holding it", () => {
+   const from = repo({ "held/package.json": '{"name":"@akasha/held"}\n' })
+   installed(from, "@akasha/held", "akasha/held")
+   const named = ["akasha/held/package.json"]
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
-index 269bb5bdfbca656f09a9f2a9f96489aaaab3034a..32c81af638e28c6fb20eea1b440a7fb5ea7c6724 100644
+index 269bb5bdfbca656f09a9f2a9f96489aaaab3034a..b48c1d1b1fe246bd4139a4c63556297e2119c52a 100644
 --- a/code-system/code-tests/code-tests.module.ts
 +++ b/code-system/code-tests/code-tests.module.ts
 @@ -5,7 +5,7 @@ export const codeTests = {
@@ -105,6 +114,15 @@ index 269bb5bdfbca656f09a9f2a9f96489aaaab3034a..32c81af638e28c6fb20eea1b440a7fb5
 -      statement:
 -        "A package outside the akasha folder is judged against the copy standing in the tree.",
 +      statement: "A package outside the akasha folder is judged against the copy in the tree.",
+     },
+     {
+       invariantKind: "departure",
+@@ -198,7 +197,7 @@ export const codeTests = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A world stands at no commit.",
++      statement: "A world is at no commit.",
      },
      {
        invariantKind: "departure",
