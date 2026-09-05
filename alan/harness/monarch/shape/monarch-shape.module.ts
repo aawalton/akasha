@@ -20,7 +20,7 @@ export const monarchShape = {
     {
       invariantKind: "departure",
       statement:
-        "A refusal says what was wanted and what stood there rather than printing the value.",
+        "A refusal says the shape wanted and the shape that stood there rather than printing the value.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +36,7 @@ export const monarchShape = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what Monarch's replies hold.",
+      statement: "Nothing here knows the fields Monarch's replies hold.",
     },
     {
       invariantKind: "absence",
