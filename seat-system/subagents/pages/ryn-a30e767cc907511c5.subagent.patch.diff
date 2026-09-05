@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/types/properties/mark-read-on-end.boolean-property.ts b/pages/types/properties/mark-read-on-end.boolean-property.ts
+index ccf802abee411372ffcbaf71eb969b0d7139d479..46a5e7cd502cbe8ccf72e6f1e6440efea1841293 100644
+--- a/pages/types/properties/mark-read-on-end.boolean-property.ts
++++ b/pages/types/properties/mark-read-on-end.boolean-property.ts
+@@ -15,7 +15,7 @@ export const markReadOnEnd = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page already recorded as read is left as it stands.",
++      statement: "A page already recorded as read is left as that page stands.",
+     },
+   ],
+ } as const satisfies BooleanProperty
