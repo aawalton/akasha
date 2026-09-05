@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/code-system/ios-apps/properties/app-icon.file-property.ts b/code-system/ios-apps/properties/app-icon.file-property.ts
+index cbdfd57dd1529e824a3bc40e624654a0c242dc7e..3de2d4477dab586bd82b8c22e69b53c7e9c14112 100644
+--- a/code-system/ios-apps/properties/app-icon.file-property.ts
++++ b/code-system/ios-apps/properties/app-icon.file-property.ts
+@@ -23,7 +23,7 @@ export const appIcon = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The seam building the app writes the picture where Xcode reads it.",
++      statement: "The seam building the app writes the picture where Xcode reads that picture.",
+     },
+   ],
+ } as const satisfies FileProperty
