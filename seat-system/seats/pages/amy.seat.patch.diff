@@ -1,0 +1,115 @@
+diff --git a/editor-extension/panel-judging/panel-judging.module.code.ts b/editor-extension/panel-judging/panel-judging.module.code.ts
+index 0a7c7f93f816287bc2b8da063e525285c0fc68d1..e70ff83d2050b208e63096baaf3f243848c5228b 100644
+--- a/editor-extension/panel-judging/panel-judging.module.code.ts
++++ b/editor-extension/panel-judging/panel-judging.module.code.ts
+@@ -21,7 +21,7 @@ const PINNED_GROUPS: readonly {
+   readonly said: string
+   readonly count: number
+ }[] = [
+-  { id: "opsStatusBar.upkeepStoplights", said: "upkeep", count: 6 },
++  { id: "opsStatusBar.upkeepStoplights", said: "upkeep", count: 4 },
+   { id: "opsStatusBar.inboxStoplights", said: "inboxes", count: 3 },
+ ]
+ 
+@@ -247,7 +247,9 @@ export function judgeStatusBar(reading: Drawn): Verdict {
+   return {
+     surface: "statusBar",
+     green: true,
+-    said: `the status bar drew ${String(items.length)} slots, both usage numbers and 6/3 stoplights`,
++    said:
++      `the status bar drew ${String(items.length)} slots, both usage numbers and ` +
++      `${PINNED_GROUPS.map((one) => String(one.count)).join("/")} stoplights`,
+     notes,
+   }
+ }
+diff --git a/editor-extension/panel-judging/panel-judging.module.ts b/editor-extension/panel-judging/panel-judging.module.ts
+index 826df6495c3f25c774e01582ef64f6b7b537fd0d..89a281b872ae15d415251406033463b58d18b192 100644
+--- a/editor-extension/panel-judging/panel-judging.module.ts
++++ b/editor-extension/panel-judging/panel-judging.module.ts
+@@ -60,7 +60,7 @@ export const panelJudging = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The upkeep group shows six stoplights and the inboxes group three.",
++      statement: "The upkeep group shows four stoplights and the inboxes group three.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/panel-reading/panel-reading.module.code.ts b/editor-extension/panel-reading/panel-reading.module.code.ts
+index f91be6ac9f20e185ee00540fe73140b9d76e772c..849b68dcd9a9677da208933251331aabca0f00cd 100644
+--- a/editor-extension/panel-reading/panel-reading.module.code.ts
++++ b/editor-extension/panel-reading/panel-reading.module.code.ts
+@@ -11,11 +11,9 @@ import { tmpdir } from "node:os"
+ import { dirname, join } from "node:path"
+ import { ran } from "@akasha/utils-run/running"
+ 
+-export const ENTRY =
+-  "editor-extension/ops-extension/extension-entry/extension-entry.module.code.ts"
++export const ENTRY = "editor-extension/ops-extension/extension-entry/extension-entry.module.code.ts"
+ 
+-export const STUB =
+-  "editor-extension/vscode-stub/vscode-stub.javascript-module.javascript.mjs"
++export const STUB = "editor-extension/vscode-stub/vscode-stub.javascript-module.javascript.mjs"
+ 
+ const REACHED = /(?<!['"`])\bvscode\d*\.([A-Za-z_][A-Za-z0-9_]*)/g
+ 
+@@ -103,6 +101,20 @@ try {
+   activateError = String((err && err.stack) || err)
+ }
+ const activateMs = Date.now() - began
++// A PANEL WHOSE FIRST DRAWING IS ASYNCHRONOUS HAS NOT DRAWN WHEN \`activate\` RETURNS. The agents
++// panel samples the editor's terminals before it draws its first rows, so reading the moment
++// activation returned read that panel as empty and called a working panel broken. Every panel says
++// on its channel that it drew, so the run waits for that count to stop rising.
++const SETTLE_MS = 150
++const SETTLE_BOUND_MS = 10000
++const until = Date.now() + SETTLE_BOUND_MS
++let drawings = -1
++while (Date.now() < until) {
++  const now = vscode.__drawings()
++  if (now === drawings) break
++  drawings = now
++  await new Promise((go) => setTimeout(go, SETTLE_MS))
++}
+ const walked = Date.now()
+ try {
+   report = await vscode.__report()
+diff --git a/editor-extension/panel-reading/panel-reading.module.ts b/editor-extension/panel-reading/panel-reading.module.ts
+index f27a0639694105de5636d55e6e0ea973cba33eba..afbd09138f89528814889672397849ad673def45 100644
+--- a/editor-extension/panel-reading/panel-reading.module.ts
++++ b/editor-extension/panel-reading/panel-reading.module.ts
+@@ -48,6 +48,14 @@ export const panelReading = {
+       invariantKind: "departure",
+       statement: "The reading is the row the editor would draw.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The reading waits for the count of drawings said on the channels to stop rising.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A count still rising at the bound is read all the same rather than refused.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The reading goes to a file rather than down a pipe.",
+diff --git a/editor-extension/vscode-stub/vscode-stub.javascript-module.javascript.mjs b/editor-extension/vscode-stub/vscode-stub.javascript-module.javascript.mjs
+index 8e88ab57a6f515d4b9c8451c0e71a0bf3258591f..bea135c113b7e54b7e797c91f9ce2943397cec4a 100644
+--- a/editor-extension/vscode-stub/vscode-stub.javascript-module.javascript.mjs
++++ b/editor-extension/vscode-stub/vscode-stub.javascript-module.javascript.mjs
+@@ -400,6 +400,15 @@ export const env = overlaid({
+   appName: "panel-reading",
+ })
+ 
++// HOW MANY LINES EVERY CHANNEL HOLDS, WHICH IS CHEAP WHERE A READING IS NOT. Every panel says
++// on its channel that it drew, so a count that stopped rising is every drawing that was coming
++// having come. A reading walks every row of every tree and cannot be asked that often.
++export const __drawings = () => {
++  let lines = 0
++  for (const held of channels.values()) lines += held.length
++  return lines
++}
++
+ export const __report = report
+ 
+ export const __makeContext = makeContext
