@@ -4442,18 +4442,15 @@ index 0000000000000000000000000000000000000000..f7925fbe5666b3c03696ab9fef414204
 +  code: "ts",
 +} as const satisfies Module
 diff --git a/infrastructure/upscale/package.json b/infrastructure/upscale/package.json
-index ef54cefd36a2809d224240e132fd4e3b3a704228..ce4dba82b5920872d80442e42af02e07b1d0e0ce 100644
+index ef54cefd36a2809d224240e132fd4e3b3a704228..50b57a21c83e0ce04d76a716bcc4daf73e3b81b8 100644
 --- a/infrastructure/upscale/package.json
 +++ b/infrastructure/upscale/package.json
-@@ -4,7 +4,10 @@
+@@ -4,7 +4,7 @@
    "type": "module",
    "exports": {
      "./upscale-cluster": "./upscale-cluster/upscale-cluster.module.code.ts",
 -    "./upscale-serving-job": "./upscale-serving-job/upscale-serving-job.manifest.code.ts",
-+<<<<<<< what this change would leave
-+=======
 +    "./upscale-serving-job": "./upscale-serving-job/upscale-serving-job.module.code.ts",
-+>>>>>>> what HEAD holds
      "./upscale-workstation": "./upscale-workstation/upscale-workstation.module.code.ts"
    },
    "dependencies": {
