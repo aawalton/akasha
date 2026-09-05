@@ -81,7 +81,7 @@ export const browserTestVerifyRender = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes as the user it signed in as.",
+      statement: "Nothing here writes as the user this command signed in as.",
     },
   ],
 } as const satisfies Command
