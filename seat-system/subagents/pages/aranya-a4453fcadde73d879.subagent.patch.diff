@@ -79,6 +79,19 @@ index 48132fcf4360e5251219f58e013938e6a7ba5df3..00000000000000000000000000000000
 -export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
 -  return [{ name: "prune-cronjob", yaml: pruneCronjobYaml() }]
 -}
+diff --git a/service-system/cluster-services/pages/buildkit-prune/buildkit-prune.cluster-service.ts b/service-system/cluster-services/pages/buildkit-prune/buildkit-prune.cluster-service.ts
+index 357c9e8b7970020e410e1b5da7758769ae82d43b..c4776a122b92f1edd250017b36f9ad94003c3afc 100644
+--- a/service-system/cluster-services/pages/buildkit-prune/buildkit-prune.cluster-service.ts
++++ b/service-system/cluster-services/pages/buildkit-prune/buildkit-prune.cluster-service.ts
+@@ -10,6 +10,6 @@ export const buildkitPrune = {
+   resourceName: "buildkit-prune",
+   image: "moby/buildkit:v0.28.0",
+   schedule: "0 4 * * 0",
+-  manifestCode:
+-    "service-system/cluster-services/pages/buildkit-prune/buildkit-prune.cluster-service.code.attachment.ts",
++  manifestSlug: "buildkit-prune",
++  partSlugs: ["manifest/buildkit-prune"],
+ } as const satisfies ClusterService
 diff --git a/service-system/cluster-services/pages/buildkit-prune/buildkit-prune.manifest.code.ts b/service-system/cluster-services/pages/buildkit-prune/buildkit-prune.manifest.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..48132fcf4360e5251219f58e013938e6a7ba5df3
