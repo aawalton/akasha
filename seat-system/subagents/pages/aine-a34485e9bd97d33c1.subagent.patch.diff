@@ -48,7 +48,7 @@ index 3445e49af272c24b463b24cdb0cfa217819f5c2c..fad79b86a115b2950ea48576794f472c
      {
        invariantKind: "departure",
 diff --git a/alan/fitness/selection-policies/selection-policy.page-type.ts b/alan/fitness/selection-policies/selection-policy.page-type.ts
-index 7db49b97fd7c56e815c69f7816de002a7627d228..9f63ea971352178d16d2003a53d33a3a2d6dff6f 100644
+index 7db49b97fd7c56e815c69f7816de002a7627d228..1c4572374160e7016c235ef0b83ac44c5d5b8159 100644
 --- a/alan/fitness/selection-policies/selection-policy.page-type.ts
 +++ b/alan/fitness/selection-policies/selection-policy.page-type.ts
 @@ -82,7 +82,7 @@ export const selectionPolicy = {
@@ -60,3 +60,12 @@ index 7db49b97fd7c56e815c69f7816de002a7627d228..9f63ea971352178d16d2003a53d33a3a
      },
      {
        invariantKind: "constraint",
+@@ -90,7 +90,7 @@ export const selectionPolicy = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Each number the selector reads stands as a property of this page type.",
++      statement: "Each number the selector reads is a property of this page type.",
+     },
+   ],
+ } as const satisfies PageType
