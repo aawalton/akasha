@@ -327,6 +327,33 @@ index 4d0483f2cb95c71886abc63f825ac97e895f565d..b8b0cd01bd17168e539e0987dac657fb
  })
  
  test("a refresh leaves the landing lock behind it", () => {
+diff --git a/commands/move/move.command.test-fixtures.ts b/commands/move/move.command.test-fixtures.ts
+index 01609f88b82c13b8cfda709c68a21ece18d7f17a..a0fe6bef16e529dbda90c467621761825d9dd4c8 100644
+--- a/commands/move/move.command.test-fixtures.ts
++++ b/commands/move/move.command.test-fixtures.ts
+@@ -3,13 +3,7 @@ import { join } from "node:path"
+ import { warrantsSeeded } from "@akasha/context/warranting/testing"
+ import { said as gitIn } from "@akasha/git/git-running"
+ import { listedAt, namersOf } from "@akasha/indexes"
+-import {
+-  importFiled,
+-  indexTakenFrom,
+-  pathFiled,
+-  rebuiltIn,
+-  stampedIn,
+-} from "@akasha/indexes/testing"
++import { importFiled, indexTakenFrom, pathFiled, rebuiltIn } from "@akasha/indexes/testing"
+ import { exportedAs } from "@akasha/pages-system/page-export-name"
+ import { declaringUnder } from "@akasha/testing-system/declaring"
+ import { admitting, mintedId, minting } from "@akasha/testing-system/minting"
+@@ -150,7 +144,6 @@ export function importing(root: string, target: string, importers: readonly stri
+     importers.map((path) => ({ path }))
+   )
+   pathFiled(root, target, [{ path: target, id: mintedId(target) }])
+-  stampedIn(root, { commit: head(root), tree: TREE, settled: [] })
+ }
+ 
+ export function claiming(root: string, path: string, ids: readonly string[]): undefined {
 diff --git a/commands/move/naming/move-naming.module.code.ts b/commands/move/naming/move-naming.module.code.ts
 index 51987aa8c2dd12102189ae0df3cb3281664de40d..a8ca9593aee9a0925c937a29e9dc353d81a21f1c 100644
 --- a/commands/move/naming/move-naming.module.code.ts
