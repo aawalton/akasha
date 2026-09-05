@@ -17,7 +17,7 @@ export const attributeIntelligence = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is the words about what Alan is learning turned into points.",
+      statement: "The reading is the words about Alan's learning turned into points.",
     },
     {
       invariantKind: "departure",
