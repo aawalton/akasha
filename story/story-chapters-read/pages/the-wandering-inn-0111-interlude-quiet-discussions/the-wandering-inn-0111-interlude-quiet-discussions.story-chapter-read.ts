@@ -5,7 +5,7 @@ export const theWanderingInn0111InterludeQuietDiscussions = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0111-interlude-quiet-discussions",
   title: "Interlude – Quiet Discussions",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 111,
   ownLength: 9655,
   ownProgress: 9655,

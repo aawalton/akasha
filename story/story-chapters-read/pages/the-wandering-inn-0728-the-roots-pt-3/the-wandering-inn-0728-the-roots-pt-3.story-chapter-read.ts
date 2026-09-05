@@ -5,7 +5,7 @@ export const theWanderingInn0728TheRootsPt3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0728-the-roots-pt-3",
   title: "The Roots (Pt. 3)",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 728,
   ownLength: 8669,
   ownProgress: 8979,

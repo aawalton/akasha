@@ -5,7 +5,7 @@ export const theWanderingInn0084InterludeMatingRitualsPt1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0084-interlude-mating-rituals-pt-1",
   title: "Interlude – Mating Rituals (Pt. 1)",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 84,
   ownLength: 8414,
   ownProgress: 8414,

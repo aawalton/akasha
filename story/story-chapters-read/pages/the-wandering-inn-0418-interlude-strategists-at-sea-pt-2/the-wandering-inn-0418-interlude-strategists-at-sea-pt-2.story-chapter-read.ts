@@ -5,7 +5,7 @@ export const theWanderingInn0418InterludeStrategistsAtSeaPt2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0418-interlude-strategists-at-sea-pt-2",
   title: "Interlude - Strategists at Sea (Pt. 2)",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 418,
   ownLength: 27383,
   ownProgress: 27512,

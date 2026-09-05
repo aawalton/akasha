@@ -5,7 +5,7 @@ export const theWanderingInn0737InterludeArcsingerSMemories = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0737-interlude-arcsinger-s-memories",
   title: "Interlude - Arcsinger's Memories",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 737,
   ownLength: 38123,
   ownProgress: 38610,

@@ -5,7 +5,7 @@ export const theWanderingInn0300InterludeKrshia = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0300-interlude-krshia",
   title: "Interlude - Krshia",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 300,
   ownLength: 21466,
   ownProgress: 21466,

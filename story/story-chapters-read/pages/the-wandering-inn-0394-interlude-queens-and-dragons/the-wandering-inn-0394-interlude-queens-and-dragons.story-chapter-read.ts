@@ -5,7 +5,7 @@ export const theWanderingInn0394InterludeQueensAndDragons = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0394-interlude-queens-and-dragons",
   title: "Interlude - Queens and Dragons",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 394,
   ownLength: 11596,
   ownProgress: 11596,

@@ -5,7 +5,7 @@ export const theWanderingInn0421InterludeANightInTheInn = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0421-interlude-a-night-in-the-inn",
   title: "Interlude - A Night in the Inn",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 421,
   ownLength: 24383,
   ownProgress: 24529,

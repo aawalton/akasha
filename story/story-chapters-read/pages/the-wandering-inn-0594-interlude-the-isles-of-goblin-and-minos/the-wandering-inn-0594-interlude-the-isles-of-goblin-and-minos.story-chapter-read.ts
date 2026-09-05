@@ -5,7 +5,7 @@ export const theWanderingInn0594InterludeTheIslesOfGoblinAndMinos = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0594-interlude-the-isles-of-goblin-and-minos",
   title: "Interlude - The Isles of Goblin and Minos",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 594,
   ownLength: 29442,
   ownProgress: 29583,

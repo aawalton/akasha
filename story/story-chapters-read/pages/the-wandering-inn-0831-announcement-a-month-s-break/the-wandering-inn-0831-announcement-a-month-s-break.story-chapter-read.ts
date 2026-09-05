@@ -5,7 +5,7 @@ export const theWanderingInn0831AnnouncementAMonthSBreak = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0831-announcement-a-month-s-break",
   title: "Announcement -- A Month's Break",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 831,
   ownLength: 545,
   unitSlug: "words",

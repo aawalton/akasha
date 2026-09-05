@@ -5,7 +5,7 @@ export const theWanderingInn0497InterludeTheRowerAndTheBartender = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0497-interlude-the-rower-and-the-bartender",
   title: "Interlude - The [Rower] and the [Bartender]",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 497,
   ownLength: 10811,
   ownProgress: 11004,

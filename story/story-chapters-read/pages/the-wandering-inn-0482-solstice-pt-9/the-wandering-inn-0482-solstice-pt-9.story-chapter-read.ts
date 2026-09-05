@@ -5,7 +5,7 @@ export const theWanderingInn0482SolsticePt9 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0482-solstice-pt-9",
   title: "Solstice (Pt. 9)",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 482,
   ownLength: 6720,
   ownProgress: 6987,

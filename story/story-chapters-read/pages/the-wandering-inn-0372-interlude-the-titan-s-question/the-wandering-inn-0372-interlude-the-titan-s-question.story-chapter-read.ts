@@ -5,7 +5,7 @@ export const theWanderingInn0372InterludeTheTitanSQuestion = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0372-interlude-the-titan-s-question",
   title: "Interlude - The Titan's Question",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 372,
   ownLength: 23293,
   ownProgress: 23293,

@@ -5,7 +5,7 @@ export const theWanderingInn0407InterludeBurningAlcohol = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0407-interlude-burning-alcohol",
   title: "Interlude - Burning Alcohol",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 407,
   ownLength: 18474,
   ownProgress: 18474,

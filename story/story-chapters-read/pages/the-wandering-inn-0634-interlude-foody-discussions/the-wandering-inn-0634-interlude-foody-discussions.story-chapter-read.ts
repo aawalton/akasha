@@ -5,7 +5,7 @@ export const theWanderingInn0634InterludeFoodyDiscussions = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0634-interlude-foody-discussions",
   title: "Interlude - Foody Discussions",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 634,
   ownLength: 24644,
   ownProgress: 24963,

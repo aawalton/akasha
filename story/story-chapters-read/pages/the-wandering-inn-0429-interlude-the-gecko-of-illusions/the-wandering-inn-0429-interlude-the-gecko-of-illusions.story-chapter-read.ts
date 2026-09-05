@@ -5,7 +5,7 @@ export const theWanderingInn0429InterludeTheGeckoOfIllusions = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0429-interlude-the-gecko-of-illusions",
   title: "Interlude - The Gecko of Illusions",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 429,
   ownLength: 24225,
   ownProgress: 24384,

@@ -5,7 +5,7 @@ export const theWanderingInn0239TheDepthlessDoctor = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0239-the-depthless-doctor",
   title: "The Depthless Doctor",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 239,
   ownLength: 4744,
   ownProgress: 4880,

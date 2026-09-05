@@ -5,7 +5,7 @@ export const theWanderingInn0531840Ctv = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0531-8-40-ctv",
   title: "8.40 CTV",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 531,
   ownLength: 28207,
   ownProgress: 28408,

@@ -5,7 +5,7 @@ export const theWanderingInn0600InterludeTheCompetition = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0600-interlude-the-competition",
   title: "Interlude - The Competition",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 600,
   ownLength: 20739,
   ownProgress: 20958,

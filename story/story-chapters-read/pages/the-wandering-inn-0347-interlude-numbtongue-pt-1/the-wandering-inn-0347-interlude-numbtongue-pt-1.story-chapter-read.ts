@@ -5,7 +5,7 @@ export const theWanderingInn0347InterludeNumbtonguePt1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0347-interlude-numbtongue-pt-1",
   title: "Interlude - Numbtongue (Pt.1)",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 347,
   ownLength: 19736,
   ownProgress: 19736,

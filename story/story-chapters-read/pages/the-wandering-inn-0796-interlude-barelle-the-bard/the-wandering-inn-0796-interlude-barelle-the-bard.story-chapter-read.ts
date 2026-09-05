@@ -5,7 +5,7 @@ export const theWanderingInn0796InterludeBarelleTheBard = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0796-interlude-barelle-the-bard",
   title: "Interlude - Barelle the [Bard]",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 796,
   ownLength: 14242,
   unitSlug: "words",

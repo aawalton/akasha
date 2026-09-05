@@ -5,7 +5,7 @@ export const theWanderingInn0392MiniStoriesCrabsAndDrinks = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0392-mini-stories-crabs-and-drinks",
   title: "Mini Stories - Crabs and Drinks",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 392,
   ownLength: 5238,
   ownProgress: 5264,

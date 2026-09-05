@@ -5,7 +5,7 @@ export const theWanderingInn0112InterludeTheAntiniumWarsPt1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0112-interlude-the-antinium-wars-pt-1",
   title: "Interlude – The Antinium Wars (Pt.1)",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 112,
   ownLength: 5513,
   ownProgress: 5513,

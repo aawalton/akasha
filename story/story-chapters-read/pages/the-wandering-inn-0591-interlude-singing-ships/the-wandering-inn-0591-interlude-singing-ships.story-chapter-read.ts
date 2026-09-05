@@ -5,7 +5,7 @@ export const theWanderingInn0591InterludeSingingShips = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0591-interlude-singing-ships",
   title: "Interlude - Singing Ships",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 591,
   ownLength: 15740,
   ownProgress: 16153,

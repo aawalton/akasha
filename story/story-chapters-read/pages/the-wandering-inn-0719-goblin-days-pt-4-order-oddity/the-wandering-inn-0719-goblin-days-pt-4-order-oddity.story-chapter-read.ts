@@ -5,7 +5,7 @@ export const theWanderingInn0719GoblinDaysPt4OrderOddity = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0719-goblin-days-pt-4-order-oddity",
   title: "Goblin Days (Pt. 4) - Order, Oddity",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 719,
   ownLength: 4659,
   ownProgress: 4749,

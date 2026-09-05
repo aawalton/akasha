@@ -5,7 +5,7 @@ export const theWanderingInn0612InterludeRelationships = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0612-interlude-relationships",
   title: "Interlude - Relationships",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 612,
   ownLength: 23757,
   ownProgress: 24086,

@@ -5,7 +5,7 @@ export const theWanderingInn0645InterludeBrewingSariants = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0645-interlude-brewing-sariants",
   title: "Interlude - Brewing Sariants",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 645,
   ownLength: 16894,
   ownProgress: 17233,

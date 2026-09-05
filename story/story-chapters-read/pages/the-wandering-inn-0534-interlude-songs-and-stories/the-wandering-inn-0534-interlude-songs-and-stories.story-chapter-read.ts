@@ -5,7 +5,7 @@ export const theWanderingInn0534InterludeSongsAndStories = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0534-interlude-songs-and-stories",
   title: "Interlude - Songs and Stories",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 534,
   ownLength: 29544,
   ownProgress: 29720,

@@ -5,7 +5,7 @@ export const theWanderingInn0286InterludeNiers = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0286-interlude-niers",
   title: "Interlude - Niers",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 286,
   ownLength: 4620,
   ownProgress: 4620,

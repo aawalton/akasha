@@ -5,7 +5,7 @@ export const theWanderingInn0306InterludePebblesnatchAndGarry = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0306-interlude-pebblesnatch-and-garry",
   title: "Interlude - Pebblesnatch and Garry",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 306,
   ownLength: 6842,
   ownProgress: 6842,

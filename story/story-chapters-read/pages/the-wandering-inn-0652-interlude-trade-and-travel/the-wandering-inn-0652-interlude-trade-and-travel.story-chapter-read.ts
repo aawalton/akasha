@@ -5,7 +5,7 @@ export const theWanderingInn0652InterludeTradeAndTravel = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0652-interlude-trade-and-travel",
   title: "Interlude - Trade and Travel",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 652,
   ownLength: 39169,
   ownProgress: 39943,

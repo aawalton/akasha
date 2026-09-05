@@ -5,7 +5,7 @@ export const theWanderingInn0755TalesOfInnworld3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0755-tales-of-innworld-3",
   title: "Tales of Innworld #3",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 755,
   ownLength: 0,
   ownProgress: 336,

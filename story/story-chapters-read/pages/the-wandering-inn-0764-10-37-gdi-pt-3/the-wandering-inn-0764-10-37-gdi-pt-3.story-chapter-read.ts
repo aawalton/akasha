@@ -5,7 +5,7 @@ export const theWanderingInn07641037GdiPt3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0764-10-37-gdi-pt-3",
   title: "10.37 GDI (Pt. 3)",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 764,
   ownLength: 28878,
   ownProgress: 30100,

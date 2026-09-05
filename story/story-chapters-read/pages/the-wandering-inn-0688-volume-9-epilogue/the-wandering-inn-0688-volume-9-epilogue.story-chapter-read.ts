@@ -5,7 +5,7 @@ export const theWanderingInn0688Volume9Epilogue = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0688-volume-9-epilogue",
   title: "Volume 9 - Epilogue",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 688,
   ownLength: 33781,
   ownProgress: 34954,

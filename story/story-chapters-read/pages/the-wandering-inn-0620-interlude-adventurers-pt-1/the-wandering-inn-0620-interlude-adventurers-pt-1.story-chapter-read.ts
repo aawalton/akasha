@@ -5,7 +5,7 @@ export const theWanderingInn0620InterludeAdventurersPt1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0620-interlude-adventurers-pt-1",
   title: "Interlude - Adventurers (Pt. 1)",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 620,
   ownLength: 23471,
   ownProgress: 23748,

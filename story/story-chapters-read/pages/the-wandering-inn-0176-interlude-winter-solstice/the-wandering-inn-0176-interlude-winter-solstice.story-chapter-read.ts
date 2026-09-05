@@ -5,7 +5,7 @@ export const theWanderingInn0176InterludeWinterSolstice = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0176-interlude-winter-solstice",
   title: "Interlude – Winter Solstice",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 176,
   ownLength: 12323,
   ownProgress: 13010,

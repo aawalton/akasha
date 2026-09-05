@@ -5,7 +5,7 @@ export const theWanderingInn0522InterludePiscesRevised = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0522-interlude-pisces-revised",
   title: "Interlude - Pisces (Revised)",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 522,
   ownLength: 45183,
   ownProgress: 45640,

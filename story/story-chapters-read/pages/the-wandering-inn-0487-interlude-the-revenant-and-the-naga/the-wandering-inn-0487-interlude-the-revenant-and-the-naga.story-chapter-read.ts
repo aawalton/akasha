@@ -5,7 +5,7 @@ export const theWanderingInn0487InterludeTheRevenantAndTheNaga = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0487-interlude-the-revenant-and-the-naga",
   title: "Interlude - The Revenant and the Naga",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 487,
   ownLength: 19128,
   ownProgress: 19298,

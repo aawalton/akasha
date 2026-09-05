@@ -5,7 +5,7 @@ export const theWanderingInn0562InterludeHectvalPt2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0562-interlude-hectval-pt-2",
   title: "Interlude – Hectval (Pt. 2)",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 562,
   ownLength: 39651,
   ownProgress: 39851,

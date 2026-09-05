@@ -5,7 +5,7 @@ export const theWanderingInn0402InterludeDancingAndBrawling = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0402-interlude-dancing-and-brawling",
   title: "Interlude - Dancing and Brawling",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 402,
   ownLength: 11336,
   ownProgress: 11336,

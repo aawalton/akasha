@@ -5,7 +5,7 @@ export const theWanderingInn0298554NonCanon = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0298-5-54-non-canon",
   title: "5.54 (Non-Canon)",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 298,
   ownLength: 10700,
   ownProgress: 10768,

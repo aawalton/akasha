@@ -5,7 +5,7 @@ export const theWanderingInn0532InterludeOfVampiresAndFraerlings = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0532-interlude-of-vampires-and-fraerlings",
   title: "Interlude - Of Vampires and Fraerlings",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 532,
   ownLength: 19734,
   ownProgress: 19874,

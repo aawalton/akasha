@@ -5,7 +5,7 @@ export const theWanderingInn0515InterludeLuanTheGiant = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0515-interlude-luan-the-giant",
   title: "Interlude - Luan the Giant",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 515,
   ownLength: 19768,
   ownProgress: 19917,

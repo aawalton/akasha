@@ -5,7 +5,7 @@ export const theWanderingInn0716GoblinDaysPt1TheWedding = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0716-goblin-days-pt-1-the-wedding",
   title: "Goblin Days (Pt.1) -- The Wedding",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 716,
   ownLength: 12781,
   ownProgress: 13285,

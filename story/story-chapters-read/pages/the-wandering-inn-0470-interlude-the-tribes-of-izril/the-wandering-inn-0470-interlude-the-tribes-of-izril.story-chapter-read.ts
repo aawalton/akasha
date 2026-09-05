@@ -5,7 +5,7 @@ export const theWanderingInn0470InterludeTheTribesOfIzril = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0470-interlude-the-tribes-of-izril",
   title: "Interlude - The Tribes of Izril",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 470,
   ownLength: 15364,
   ownProgress: 15572,

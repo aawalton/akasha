@@ -5,7 +5,7 @@ export const theWanderingInn0697InterludeSalissTheArchitect = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0697-interlude-saliss-the-architect",
   title: "Interlude - Saliss the Architect",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 697,
   ownLength: 24141,
   ownProgress: 24534,

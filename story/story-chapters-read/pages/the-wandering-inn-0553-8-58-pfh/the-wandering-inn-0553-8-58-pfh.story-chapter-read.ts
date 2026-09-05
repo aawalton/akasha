@@ -5,7 +5,7 @@ export const theWanderingInn0553858Pfh = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0553-8-58-pfh",
   title: "8.58 PFH",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 553,
   ownLength: 23478,
   ownProgress: 23742,

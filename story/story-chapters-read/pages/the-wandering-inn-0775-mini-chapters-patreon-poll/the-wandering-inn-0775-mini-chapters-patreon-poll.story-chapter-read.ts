@@ -5,7 +5,7 @@ export const theWanderingInn0775MiniChaptersPatreonPoll = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0775-mini-chapters-patreon-poll",
   title: "Mini-Chapters - Patreon Poll",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 775,
   ownLength: 66937,
   ownProgress: 66937,

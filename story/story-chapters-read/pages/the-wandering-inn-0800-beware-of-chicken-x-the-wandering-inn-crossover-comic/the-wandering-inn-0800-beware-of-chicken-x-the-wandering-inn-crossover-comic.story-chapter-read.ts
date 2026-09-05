@@ -5,7 +5,7 @@ export const theWanderingInn0800BewareOfChickenXTheWanderingInnCrossoverComic = 
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0800-beware-of-chicken-x-the-wandering-inn-crossover-comic",
   title: "Beware of Chicken x The Wandering Inn Crossover Comic!",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 800,
   ownLength: 0,
   unitSlug: "words",

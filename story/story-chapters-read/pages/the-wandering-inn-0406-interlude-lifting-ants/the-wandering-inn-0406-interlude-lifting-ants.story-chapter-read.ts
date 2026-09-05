@@ -5,7 +5,7 @@ export const theWanderingInn0406InterludeLiftingAnts = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0406-interlude-lifting-ants",
   title: "Interlude - Lifting Ants",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 406,
   ownLength: 15671,
   ownProgress: 15671,

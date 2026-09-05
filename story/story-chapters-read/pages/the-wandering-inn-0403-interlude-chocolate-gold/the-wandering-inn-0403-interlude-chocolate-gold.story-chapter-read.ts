@@ -5,7 +5,7 @@ export const theWanderingInn0403InterludeChocolateGold = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0403-interlude-chocolate-gold",
   title: "Interlude - Chocolate Gold",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 403,
   ownLength: 6217,
   ownProgress: 6217,

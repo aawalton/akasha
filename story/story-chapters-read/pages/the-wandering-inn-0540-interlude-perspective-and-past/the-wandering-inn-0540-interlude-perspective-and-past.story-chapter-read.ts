@@ -5,7 +5,7 @@ export const theWanderingInn0540InterludePerspectiveAndPast = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0540-interlude-perspective-and-past",
   title: "Interlude - Perspective and Past",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 540,
   ownLength: 21912,
   ownProgress: 22217,

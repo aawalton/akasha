@@ -5,7 +5,7 @@ export const theWanderingInn0464InterludeSalissTheAdventurer = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0464-interlude-saliss-the-adventurer",
   title: "Interlude - Saliss the Adventurer",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 464,
   ownLength: 31933,
   ownProgress: 32272,

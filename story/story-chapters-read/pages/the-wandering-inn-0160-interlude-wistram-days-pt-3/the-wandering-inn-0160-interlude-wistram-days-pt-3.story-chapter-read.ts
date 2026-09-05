@@ -5,7 +5,7 @@ export const theWanderingInn0160InterludeWistramDaysPt3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0160-interlude-wistram-days-pt-3",
   title: "Interlude - Wistram Days (Pt. 3)",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 160,
   ownLength: 10164,
   ownProgress: 10164,

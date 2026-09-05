@@ -5,7 +5,7 @@ export const theWanderingInn0811InterludeThe7thHive = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0811-interlude-the-7th-hive",
   title: "Interlude - The 7th Hive",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 811,
   ownLength: 7040,
   unitSlug: "words",

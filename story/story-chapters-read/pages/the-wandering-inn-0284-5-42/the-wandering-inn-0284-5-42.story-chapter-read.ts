@@ -5,7 +5,7 @@ export const theWanderingInn0284542 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0284-5-42",
   title: "5.42",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 284,
   ownLength: 18807,
   ownProgress: 18807,

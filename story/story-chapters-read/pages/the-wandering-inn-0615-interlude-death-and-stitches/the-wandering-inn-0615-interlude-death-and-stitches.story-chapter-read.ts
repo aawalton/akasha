@@ -5,7 +5,7 @@ export const theWanderingInn0615InterludeDeathAndStitches = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0615-interlude-death-and-stitches",
   title: "Interlude - Death and Stitches",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 615,
   ownLength: 15687,
   ownProgress: 15998,

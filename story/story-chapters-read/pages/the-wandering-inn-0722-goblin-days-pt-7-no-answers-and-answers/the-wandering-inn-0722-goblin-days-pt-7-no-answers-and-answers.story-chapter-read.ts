@@ -5,7 +5,7 @@ export const theWanderingInn0722GoblinDaysPt7NoAnswersAndAnswers = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0722-goblin-days-pt-7-no-answers-and-answers",
   title: "Goblin Days (Pt. 7) - No Answers and Answers",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 722,
   ownLength: 16667,
   ownProgress: 17122,

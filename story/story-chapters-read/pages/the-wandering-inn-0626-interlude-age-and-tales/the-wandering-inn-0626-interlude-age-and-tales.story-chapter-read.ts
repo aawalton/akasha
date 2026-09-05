@@ -5,7 +5,7 @@ export const theWanderingInn0626InterludeAgeAndTales = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0626-interlude-age-and-tales",
   title: "Interlude - Age and Tales",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 626,
   ownLength: 22145,
   ownProgress: 22398,

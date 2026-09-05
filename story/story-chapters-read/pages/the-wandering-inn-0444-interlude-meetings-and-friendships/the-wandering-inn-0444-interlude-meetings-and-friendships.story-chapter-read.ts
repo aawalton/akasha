@@ -5,7 +5,7 @@ export const theWanderingInn0444InterludeMeetingsAndFriendships = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0444-interlude-meetings-and-friendships",
   title: "Interlude - Meetings and Friendships",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 444,
   ownLength: 12855,
   ownProgress: 12987,

@@ -5,7 +5,7 @@ export const theWanderingInn0640938TvPt2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0640-9-38-tv-pt-2",
   title: "9.38 TV (Pt. 2)",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 640,
   ownLength: 36728,
   ownProgress: 37244,

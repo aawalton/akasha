@@ -5,7 +5,7 @@ export const theWanderingInn0443InterludeCarriagesAndConversations = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0443-interlude-carriages-and-conversations",
   title: "Interlude - Carriages and Conversations",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 443,
   ownLength: 10502,
   ownProgress: 10765,

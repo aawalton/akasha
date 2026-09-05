@@ -5,7 +5,7 @@ export const theWanderingInn0357InterludeRufelt = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0357-interlude-rufelt",
   title: "Interlude - Rufelt",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 357,
   ownLength: 9880,
   ownProgress: 9880,

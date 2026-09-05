@@ -5,7 +5,7 @@ export const theWanderingInn0644InterludeInnovationAndInvention = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0644-interlude-innovation-and-invention",
   title: "Interlude - Innovation and Invention",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 644,
   ownLength: 36542,
   ownProgress: 36790,

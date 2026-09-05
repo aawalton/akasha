@@ -5,7 +5,7 @@ export const theWanderingInn0445InterludeSandAndNotes = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0445-interlude-sand-and-notes",
   title: "Interlude - Sand and Notes",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 445,
   ownLength: 9062,
   ownProgress: 9217,

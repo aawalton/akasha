@@ -5,7 +5,7 @@ export const theWanderingInn0610InterludeTheGreatRace = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0610-interlude-the-great-race",
   title: "Interlude - The Great Race",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 610,
   ownLength: 19575,
   ownProgress: 19941,

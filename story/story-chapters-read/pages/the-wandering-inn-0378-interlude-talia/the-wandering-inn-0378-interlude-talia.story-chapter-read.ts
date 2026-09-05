@@ -5,7 +5,7 @@ export const theWanderingInn0378InterludeTalia = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0378-interlude-talia",
   title: "Interlude - Talia",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 378,
   ownLength: 27562,
   ownProgress: 27562,

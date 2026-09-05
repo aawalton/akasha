@@ -5,7 +5,7 @@ export const theWanderingInn0733HeroesOfHraacePt1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0733-heroes-of-hraace-pt-1",
   title: "Heroes of Hraace (Pt. 1)",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 733,
   ownLength: 24682,
   ownProgress: 25011,

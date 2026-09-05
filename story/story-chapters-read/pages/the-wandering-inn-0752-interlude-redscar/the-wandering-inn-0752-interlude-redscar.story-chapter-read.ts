@@ -5,7 +5,7 @@ export const theWanderingInn0752InterludeRedscar = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0752-interlude-redscar",
   title: "Interlude - Redscar",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 752,
   ownLength: 26158,
   ownProgress: 26606,

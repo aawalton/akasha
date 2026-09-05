@@ -5,7 +5,7 @@ export const theWanderingInn0434InterludeAMeetingOfDruids = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0434-interlude-a-meeting-of-druids",
   title: "Interlude - A Meeting of [Druids]",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 434,
   ownLength: 26000,
   ownProgress: 26208,

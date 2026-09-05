@@ -5,7 +5,7 @@ export const theWanderingInn0774InterludeVernouePt2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0774-interlude-vernoue-pt-2",
   title: "Interlude - Vernoue (Pt. 2)",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 774,
   ownLength: 30943,
   ownProgress: 30943,

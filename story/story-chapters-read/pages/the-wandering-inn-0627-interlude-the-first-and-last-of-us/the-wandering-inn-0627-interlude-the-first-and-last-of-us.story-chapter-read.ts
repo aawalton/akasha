@@ -5,7 +5,7 @@ export const theWanderingInn0627InterludeTheFirstAndLastOfUs = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0627-interlude-the-first-and-last-of-us",
   title: "Interlude - The First and Last of Us",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 627,
   ownLength: 26591,
   ownProgress: 26625,

@@ -5,7 +5,7 @@ export const theWanderingInn0510InterludeSeniorGuardsmanRelc = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0510-interlude-senior-guardsman-relc",
   title: "Interlude - Senior Guardsman Relc",
-  partOfSlugs: ["the-wandering-inn"],
+  partOfSlugs: ["story-read/the-wandering-inn"],
   position: 510,
   ownLength: 25780,
   ownProgress: 25937,
