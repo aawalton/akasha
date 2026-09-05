@@ -47,7 +47,7 @@ export const watcherSideFile = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here decides what any value should be.",
+      statement: "Nothing here decides any value.",
     },
   ],
 } as const satisfies Module
