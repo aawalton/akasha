@@ -89,3 +89,124 @@ index 3b38cb4d648e69cf248358507d6d414fe9d54158..f97845ad4c9617ca8623b920f6412266
      {
        invariantKind: "departure",
        statement: "An idle seat is pending while a turn start the seat arranged is still to come.",
+diff --git a/seat-system/supervising/mcp-disable-reconcile/mcp-disable-reconcile.module.ts b/seat-system/supervising/mcp-disable-reconcile/mcp-disable-reconcile.module.ts
+index e7151f04e76019ee0c93eb6ae9186bbc39a8d779..f99983daee8f7e45541097af6731332da0b2baa6 100644
+--- a/seat-system/supervising/mcp-disable-reconcile/mcp-disable-reconcile.module.ts
++++ b/seat-system/supervising/mcp-disable-reconcile/mcp-disable-reconcile.module.ts
+@@ -22,7 +22,7 @@ export const mcpDisableReconcile = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A configuration this cannot read is left alone rather than rewritten.",
++      statement: "A configuration this module cannot read is left alone rather than rewritten.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/supervisor-decide/supervisor-decide.module.ts b/seat-system/supervisor-decide/supervisor-decide.module.ts
+index cacaa3bfc6978e5936ac32c8308c73b376d80e7a..e93f33850c4f6f8570544635a4ee9f64a6c4cbf6 100644
+--- a/seat-system/supervisor-decide/supervisor-decide.module.ts
++++ b/seat-system/supervisor-decide/supervisor-decide.module.ts
+@@ -9,7 +9,7 @@ export const supervisorDecide = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This is run as its own program so a supervisor can kill it at a ceiling.",
++      statement: "This module is run as its own program so a supervisor can kill it at a ceiling.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/service-system/vendored-workloads/vendored-workload.page-type.ts b/service-system/vendored-workloads/vendored-workload.page-type.ts
+index 8710fcbbcce510af26a838b6bc99312ddd64de80..03418451f865843fa3d0162d4b2e242cc9f5f51d 100644
+--- a/service-system/vendored-workloads/vendored-workload.page-type.ts
++++ b/service-system/vendored-workloads/vendored-workload.page-type.ts
+@@ -54,7 +54,7 @@ export const vendoredWorkload = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A workload this repository emits manifests for is a cluster service rather than one of these.",
++        "A workload this repository emits manifests for is a cluster service rather than a vendored workload.",
+     },
+   ],
+ } as const satisfies PageType
+diff --git a/sms-core/commands/sms-command-reading/sms-command-reading.module.ts b/sms-core/commands/sms-command-reading/sms-command-reading.module.ts
+index 25e2fd7c857d2222c16509b864e88071c01677fc..3b80eb5d4ef0c4e09d1a2164557727640c39ba89 100644
+--- a/sms-core/commands/sms-command-reading/sms-command-reading.module.ts
++++ b/sms-core/commands/sms-command-reading/sms-command-reading.module.ts
+@@ -18,7 +18,8 @@ export const smsCommandReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A flag whose value is another flag this takes is a flag no value followed.",
++      statement:
++        "A flag whose value is another flag the command takes is a flag no value followed.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/temper/temper-build-deploy-checks/check-addon-inline-handler-dispatch/check-addon-inline-handler-dispatch.module.ts b/temper/temper-build-deploy-checks/check-addon-inline-handler-dispatch/check-addon-inline-handler-dispatch.module.ts
+index 1cd683023290bb3850f596d28832c4a8d8d91947..cd54b1ffd49aefa6159a34327101f253042b41df 100644
+--- a/temper/temper-build-deploy-checks/check-addon-inline-handler-dispatch/check-addon-inline-handler-dispatch.module.ts
++++ b/temper/temper-build-deploy-checks/check-addon-inline-handler-dispatch/check-addon-inline-handler-dispatch.module.ts
+@@ -9,7 +9,7 @@ export const checkAddonInlineHandlerDispatch = {
+   invariants: [
+     {
+       invariantKind: "constraint",
+-      statement: "The population this run states is the markup the roster's add-ons hold.",
++      statement: "The population the run states is the markup the roster's add-ons hold.",
+     },
+     {
+       invariantKind: "constraint",
+diff --git a/temper/temper-catalog/temper-gear/properties/recipes.record-property.ts b/temper/temper-catalog/temper-gear/properties/recipes.record-property.ts
+index ddea9929949c95f8f73021da87e028e70304a4ee..0f2856dae698024051d7296b77c06dcb094f65fa 100644
+--- a/temper/temper-catalog/temper-gear/properties/recipes.record-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/recipes.record-property.ts
+@@ -18,7 +18,7 @@ export const recipes = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Any one of these sets brews the same drink.",
++      statement: "Any one of the reagent sets brews the same drink.",
+     },
+   ],
+ } as const satisfies RecordProperty
+diff --git a/temper/temper-commands/temper-inventory-knowledge/temper-inventory-knowledge.command.ts b/temper/temper-commands/temper-inventory-knowledge/temper-inventory-knowledge.command.ts
+index 80dd1d7cfa52121bde710670cd42a0dc642498e7..e6c6b8a41f5a7fff08228a35f83ddd8d161aad43 100644
+--- a/temper/temper-commands/temper-inventory-knowledge/temper-inventory-knowledge.command.ts
++++ b/temper/temper-commands/temper-inventory-knowledge/temper-inventory-knowledge.command.ts
+@@ -31,7 +31,7 @@ export const temperInventoryKnowledge = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A key naming no kind this holds refuses the call.",
++      statement: "A key naming no kind this command holds refuses the call.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/temper/temper-lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.ts b/temper/temper-lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.ts
+index 1d2e1d0b4b6cc08a477667e2648be210d95f98cd..fe013b706676d816d2dfb7f4887eaa4998002bd3 100644
+--- a/temper/temper-lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.ts
++++ b/temper/temper-lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.ts
+@@ -7,6 +7,9 @@ export const libSetsSearchUiCasts = {
+   definition: "the narrowings for the untyped values the search window handles",
+   code: "ts",
+   invariants: [
+-    { invariantKind: "departure", statement: "Every one of these is an unchecked cast." },
++    {
++      invariantKind: "departure",
++      statement: "Every one of these narrowings is an unchecked cast.",
++    },
+   ],
+ } as const satisfies Module
+diff --git a/temper/temper-watcher/watcher-worker/watcher-worker.module.ts b/temper/temper-watcher/watcher-worker/watcher-worker.module.ts
+index ab3ffedd315575ba2876bf61e61c7e549e3f3071..1c3ca789da12ec21c75c6edcb29ff1b783bdc003 100644
+--- a/temper/temper-watcher/watcher-worker/watcher-worker.module.ts
++++ b/temper/temper-watcher/watcher-worker/watcher-worker.module.ts
+@@ -38,7 +38,8 @@ export const watcherWorker = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The checkout a source update advances is the akasha checkout this runs from.",
++      statement:
++        "The checkout a source update advances is the akasha checkout this module runs from.",
+     },
+     {
+       invariantKind: "departure",
