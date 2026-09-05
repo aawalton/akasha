@@ -1,0 +1,13 @@
+diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
+index 3e79fda62c024d6f42de233b752efe6c1bb8c0c7..90fc7cb550cd66feb17a1956ad8bf3d39d4f77eb 100644
+--- a/command-system/landing/landing.module.code.ts
++++ b/command-system/landing/landing.module.code.ts
+@@ -66,7 +66,7 @@ const AGAIN_DRAFTED = "nothing was drafted — read them again against what is t
+ 
+ const KEPT_AS_IT_WAS = "nothing was drafted — the patch is as the patch was"
+ 
+-function editsOf(held: Bodies): readonly FileEdit[] {
++export function editsOf(held: Bodies): readonly FileEdit[] {
+   return [...held].map(([path, one]) => ({ path, body: one.body }))
+ }
+ 
