@@ -38,11 +38,11 @@ export const workflowTemplate = {
     },
     {
       invariantKind: "departure",
-      statement: "A workflow is a page with code beside it rather than a module.",
+      statement: "A workflow is a page with code beside that page rather than a module.",
     },
     {
       invariantKind: "departure",
-      statement: "Nothing imports a workflow's declaration; the runner gathers them all.",
+      statement: "Nothing imports a workflow's declaration; the runner gathers every declaration.",
     },
     {
       invariantKind: "gap",
