@@ -1,7 +1,16 @@
 diff --git a/domains/initiatives/pages/ryn-trained-parser.initiative.ts b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
-index 5ed54840c08d8c89bf7372576ba57b1eecf0a07c..e3c5b1c9c81d713df95c0a524b5e77dbc579e8fc 100644
+index 5ed54840c08d8c89bf7372576ba57b1eecf0a07c..0b76d3809b2f23bc5411bbe09faed6672d6930b1 100644
 --- a/domains/initiatives/pages/ryn-trained-parser.initiative.ts
 +++ b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
+@@ -20,7 +20,7 @@ export const rynTrainedParser = {
+     {
+       statement: "The shapes akasha refuses are rebuilt on the dependency tree.",
+       workingMemory:
+-        "Four shapes carried over, each with a predicate and a test: lone-pronoun, lone-determiner, lone-quantifier, partitive-quantifier. Forty-eight admitted shapes went. The old grammar had almost no power: six of nine shapes tested had no control at all, because the lexicon gave every word ending in ed four word classes and a second parse always reached the sentence another way.",
++        "Four shapes carried over, each with a predicate and a test: lone-pronoun, lone-determiner, lone-quantifier, partitive-quantifier. Forty-eight admitted shapes went. lone-pronoun missed 46% of free relatives until a101cff357, on two counts: the parser tags `what` a determiner about half the time, and a free relative's head-word lands on ccomp, acl:relcl or a det label. Recall came from an ensemble of narrow rules, 514 matches to 613, no false positive found. The other three shapes have not been measured this way and should be assumed to have holes of their own.",
+     },
+     {
+       statement: "Whether akasha writes in the passive is decided.",
 @@ -45,7 +45,8 @@ export const rynTrainedParser = {
      "A relative `that` is not a lone pronoun.",
      "Alan is shown one thing at a time.",
