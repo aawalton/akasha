@@ -425,7 +425,7 @@ index 0000000000000000000000000000000000000000..f4fe0d765375110fa339c099db6b2de8
 +}
 diff --git a/alan/web/routes/inbox-stoplights/inbox-stoplights.route.test.ts b/alan/web/routes/inbox-stoplights/inbox-stoplights.route.test.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..e92e41a7bf1ae369cae77b06e4722a9fb70f68de
+index 0000000000000000000000000000000000000000..99b08a6ff711396238ab0e1c96b722185b75d798
 --- /dev/null
 +++ b/alan/web/routes/inbox-stoplights/inbox-stoplights.route.test.ts
 @@ -0,0 +1,347 @@
@@ -620,7 +620,7 @@ index 0000000000000000000000000000000000000000..e92e41a7bf1ae369cae77b06e4722a9f
 +  return (await drawn()).find((one) => one.inbox === inbox)
 +}
 +
-+const AKASHA = join(import.meta.dir, "..", "..", "..", "..", "akasha")
++const AKASHA = join(import.meta.dir, "..", "..", "..", "..", "..", "akasha")
 +
 +// Every readout page under `akasha/` that names the inboxes group, read off the pages rather than
 +// off the fixture above. A readout page left behind by a removal shows up here by its own slug.
