@@ -1,8 +1,8 @@
 diff --git a/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts b/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts
-index fb4ce52ecba9e129350424b298fc849692dab43f..c202e361c0cbc4a96e5ad5de6c0323ee65bded5c 100644
+index fb4ce52ecba9e129350424b298fc849692dab43f..644609b92a4b27819a543b9370dcb3b82c162bbc 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts
 +++ b/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts
-@@ -78,11 +78,12 @@ export const learnEverythingTopic = {
+@@ -78,15 +78,16 @@ export const learnEverythingTopic = {
    invariants: [
      {
        invariantKind: "departure",
@@ -14,6 +14,11 @@ index fb4ce52ecba9e129350424b298fc849692dab43f..c202e361c0cbc4a96e5ad5de6c0323ee
 -      statement: "A topic's depth is judged by hand and its coverage worked out from beneath it.",
 +      statement:
 +        "A topic's depth is judged by hand and its coverage worked out from beneath that topic.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A topic names the topic it sits under and sits in that topic's folder.",
++      statement: "A topic names the topic above and sits in that topic's folder.",
      },
      {
        invariantKind: "departure",
