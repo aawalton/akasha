@@ -10,7 +10,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "A body reaches write and edit on the command line rather than in a file.",
       workingMemory:
-        "Marker blocks on standard input carry several passages into one file, and one file a call, since one input serves one `--file-path`; several files take several calls, which the patch absorbs by folding each draft onto what it holds. A payload names a run of its own to carry a passage holding a marker line, so `--content-file` is no longer the only way in. A marker saying `mid-line` ends a passage before its last newline. Left: taking the flags away.",
+        "`rebasedOnto` follows a path gone from HEAD to the path a rename left it at, hop by hop, by `git log --diff-filter=D` and `git diff-tree -M`. It answers under the path the rename reached, so `showing` lists and marks from `said.held` rather than the stored file. A path taken away by no rename is carried in as a conflict `markedAway` builds, so `patch resolve` acts on it and every other path still applies. Left: no act takes one path out of a patch, so accepting a deletion drops the whole patch.",
     },
     {
       statement: "Every change command drafts into the patch rather than landing on its own.",
