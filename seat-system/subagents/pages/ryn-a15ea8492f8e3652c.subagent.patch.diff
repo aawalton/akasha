@@ -1,13 +1,19 @@
 diff --git a/alan/library/book-of-everything/topic-tree/topic-tree.module.ts b/alan/library/book-of-everything/topic-tree/topic-tree.module.ts
-index 0cc0255293b9927c1841fbe2a62977974d034fe0..dbb9c49e37cea97c5132d13650a3d99234350841 100644
+index 0cc0255293b9927c1841fbe2a62977974d034fe0..c194a5b89c672a4c768d412ce784f0e985708343 100644
 --- a/alan/library/book-of-everything/topic-tree/topic-tree.module.ts
 +++ b/alan/library/book-of-everything/topic-tree/topic-tree.module.ts
-@@ -14,7 +14,7 @@ export const topicTree = {
+@@ -14,11 +14,12 @@ export const topicTree = {
      },
      {
        invariantKind: "departure",
 -      statement: "A topic naming no topic above it is the root.",
 +      statement: "A topic naming no topic above that topic is the root.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Topics without one root between them are refused rather than read as empty.",
++      statement:
++        "Topics without one root between those topics are refused rather than read as empty.",
      },
      {
        invariantKind: "departure",
