@@ -12,6 +12,5 @@ export const headscale = {
   image: "headscale/headscale:0.28.0",
   replicas: 1,
   containerPort: 8443,
-  manifestCode:
-    "service-system/cluster-services/pages/headscale/headscale.cluster-service.code.attachment.ts",
+  manifestSlug: "headscale",
 } as const satisfies ClusterService
