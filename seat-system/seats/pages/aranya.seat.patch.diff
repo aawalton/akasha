@@ -647,3 +647,11 @@ index 54a3a2230470453ca51db9c9088001626094e952..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-capture-perf
 \ No newline at end of file
+diff --git a/temper/temper-capture-sales-addon/temper-capture-sales-addon b/temper/temper-capture-sales-addon/temper-capture-sales-addon
+deleted file mode 120000
+index 82d8fbb037528d43cc34f3c9bc7f23d6bac70f5f..0000000000000000000000000000000000000000
+--- a/temper/temper-capture-sales-addon/temper-capture-sales-addon
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-capture-sales-addon
+\ No newline at end of file
