@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/upscale/upscale-workstation/upscale-workstation.module.ts b/infrastructure/upscale/upscale-workstation/upscale-workstation.module.ts
+index 03227ab1db9e56fbdfdcd7772f361b036273b188..d91cf1a1e17e5f07edd0fee34c5b8c1a6440e631 100644
+--- a/infrastructure/upscale/upscale-workstation/upscale-workstation.module.ts
++++ b/infrastructure/upscale/upscale-workstation/upscale-workstation.module.ts
+@@ -14,7 +14,7 @@ export const upscaleWorkstation = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The stack is brought up before an image is written into it.",
++      statement: "The stack is brought up before an image is written into that stack.",
+     },
+     {
+       invariantKind: "departure",
