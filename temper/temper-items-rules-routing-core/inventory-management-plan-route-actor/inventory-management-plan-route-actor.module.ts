@@ -9,7 +9,7 @@ export const inventoryManagementPlanRouteActor = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every step belongs to the character carrying it out.",
+      statement: "Every step belongs to the character carrying that step out.",
     },
   ],
 } as const satisfies Module
