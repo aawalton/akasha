@@ -33,8 +33,7 @@ export const monarchEvalScore = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The figures are broken out by stratum and by confidence, because a rate over all of them together says little.",
+      statement: "The figures are broken out by stratum and by confidence.",
     },
     {
       invariantKind: "departure",
