@@ -1,3 +1,16 @@
+diff --git a/commands/move/naming/move-naming.module.code.ts b/commands/move/naming/move-naming.module.code.ts
+index 51987aa8c2dd12102189ae0df3cb3281664de40d..a8ca9593aee9a0925c937a29e9dc353d81a21f1c 100644
+--- a/commands/move/naming/move-naming.module.code.ts
++++ b/commands/move/naming/move-naming.module.code.ts
+@@ -31,7 +31,7 @@ export function importingOf(root: string, moved: ReadonlyMap<string, string>): R
+   for (const from of moved.keys()) {
+     let said: readonly string[]
+     try {
+-      said = importersOf(root, from, readingIn(root))
++      said = importersOf(from, readingIn(root))
+     } catch (cause) {
+       const why = cause instanceof Error ? cause.message : String(cause)
+       return { unread: `${why}, so none were repointed` }
 diff --git a/pages/indexes/answering/index-answering.module.code.ts b/pages/indexes/answering/index-answering.module.code.ts
 index a44f6fc575bf506f9b495a0cb2fd548a825d9977..2a46470895d4940a1f6e3bc9a593069a9a9dde72 100644
 --- a/pages/indexes/answering/index-answering.module.code.ts
