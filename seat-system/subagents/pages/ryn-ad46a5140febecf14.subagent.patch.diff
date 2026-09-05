@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/infrastructure/cluster-manifests/rbac-profiles/rbac-profiles.module.ts b/infrastructure/cluster-manifests/rbac-profiles/rbac-profiles.module.ts
+index ccd83e2ee89cdc53454eca9766f5628816b811d9..4ff3c8792fbf78b7849fb13b16d0a21a68e4a57b 100644
+--- a/infrastructure/cluster-manifests/rbac-profiles/rbac-profiles.module.ts
++++ b/infrastructure/cluster-manifests/rbac-profiles/rbac-profiles.module.ts
+@@ -10,7 +10,8 @@ export const rbacProfiles = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A profile source is found by where it is rather than by anything importing it.",
++      statement:
++        "A profile source is found by where that source is rather than by anything importing that source.",
+     },
+     {
+       invariantKind: "departure",
