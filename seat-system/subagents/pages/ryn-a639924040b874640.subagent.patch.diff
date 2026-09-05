@@ -1,0 +1,26 @@
+diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-self-in-object-method/no-void-self-in-object-method.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-self-in-object-method/no-void-self-in-object-method.syntax-rule.ts
+index 5f4996d3cd2bf7f08b328f14c019ed1a288e94e8..f9a13103b388fb423bba4ab953b99e144f08e410 100644
+--- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-self-in-object-method/no-void-self-in-object-method.syntax-rule.ts
++++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-self-in-object-method/no-void-self-in-object-method.syntax-rule.ts
+@@ -31,7 +31,7 @@ export const noVoidSelfInObjectMethod = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A method declaring no `this` is left.",
++      statement: "A method declaring no `this` parameter is left.",
+     },
+     {
+       invariantKind: "gap",
+diff --git a/code-system/code-runtime-path/code-runtime-path.module.ts b/code-system/code-runtime-path/code-runtime-path.module.ts
+index fdab1a3438ded090e6a688274a5b628e8d60a4eb..9fa9db43890ef5fa7c7fc8a3f76efbfed88d7353 100644
+--- a/code-system/code-runtime-path/code-runtime-path.module.ts
++++ b/code-system/code-runtime-path/code-runtime-path.module.ts
+@@ -53,7 +53,7 @@ export const codeRuntimePath = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A base this cannot read is counted whether or not the move reaches beneath that base.",
++        "A base this module cannot read is counted whether or not the move reaches beneath that base.",
+     },
+     {
+       invariantKind: "departure",
