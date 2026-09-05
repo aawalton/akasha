@@ -33,7 +33,8 @@ export const claudeAccountCredentialFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A refresh takes what the account's page holds and asks nothing of the network.",
+      statement:
+        "A refresh takes the credential the account's page holds and asks nothing of the network.",
     },
     {
       invariantKind: "departure",
