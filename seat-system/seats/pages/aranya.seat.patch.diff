@@ -887,3 +887,11 @@ index d1dd20b0c7905aa1a4beb4799015292d2a4a0d03..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-completion
 \ No newline at end of file
+diff --git a/temper/temper-crafting-addon/temper-crafting-addon b/temper/temper-crafting-addon/temper-crafting-addon
+deleted file mode 120000
+index 7cc1aa2ca03df5ac3eca9d8fc8b21379698ef467..0000000000000000000000000000000000000000
+--- a/temper/temper-crafting-addon/temper-crafting-addon
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-crafting-addon
+\ No newline at end of file
