@@ -407,3 +407,11 @@ index ccdc923ba0b3231e0ac6178412d3d20057f7aced..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../pages/indexes
 \ No newline at end of file
+diff --git a/pages/query/pages-query b/pages/query/pages-query
+deleted file mode 120000
+index f1adf5edf8fd7f3e0ad458b9f9ae0dc25531c6cf..0000000000000000000000000000000000000000
+--- a/pages/query/pages-query
++++ /dev/null
+@@ -1 +0,0 @@
+-../../pages/query
+\ No newline at end of file
