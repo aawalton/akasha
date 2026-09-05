@@ -33,7 +33,7 @@ export const scheduleDay = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A day names the schedule it belongs to.",
+      statement: "A day names the schedule that day belongs to.",
     },
     {
       invariantKind: "absence",
