@@ -19,7 +19,7 @@ export const declaring = {
     {
       invariantKind: "departure",
       statement:
-        "Every entry an index holds is an entry a rebuild or a settle worked out from a page that stands.",
+        "Every entry an index holds is an entry a rebuild or a settle worked out from a page that exists.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const declaring = {
     },
     {
       invariantKind: "departure",
-      statement: "A property naming a kind that stands nowhere is refused rather than guessed at.",
+      statement: "A property naming a kind that exists nowhere is refused rather than guessed at.",
     },
   ],
 } as const satisfies Module

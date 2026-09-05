@@ -4,7 +4,7 @@ export const testingSystem = {
   id: "01a04ee7-be05-75c4-ba3c-3fd73f943961",
   pageTypeSlug: "workspace-package",
   slug: "testing-system",
-  definition: "what a test stands up to try something, and what it takes away after",
+  definition: "what a test sets up to try something, and what it takes away after",
   manifest: "json",
   partSlugs: [
     "domain/test",
@@ -22,24 +22,24 @@ export const testingSystem = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Scaffolding a test stands up is not the thing under test.",
+      statement: "Scaffolding a test sets up is not the thing under test.",
     },
     {
       invariantKind: "departure",
-      statement: "What the tests of more than one system need stands here.",
+      statement: "What the tests of more than one system need is here.",
     },
     {
       invariantKind: "departure",
-      statement: "What one module's tests need stands in fixtures beside that module.",
+      statement: "What one module's tests need is in fixtures beside that module.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A fixture beside a module reaches for what stands here rather than spelling it again.",
+        "A fixture beside a module reaches for what is here rather than spelling it again.",
     },
     {
       invariantKind: "departure",
-      statement: "What stands here is reached by tests alone.",
+      statement: "What is here is reached by tests alone.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +52,7 @@ export const testingSystem = {
     },
     {
       invariantKind: "absence",
-      statement: "What stands here is stood up by the tests that reach for what is here.",
+      statement: "What is here is set up by the tests that reach for what is here.",
     },
     {
       invariantKind: "absence",

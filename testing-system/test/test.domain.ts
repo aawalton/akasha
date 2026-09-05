@@ -20,7 +20,7 @@ export const test = {
     },
     {
       invariantKind: "departure",
-      statement: "Neither test stands for the other.",
+      statement: "Neither test replaces the other.",
     },
     {
       invariantKind: "departure",

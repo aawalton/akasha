@@ -4,7 +4,7 @@ export const testFixture = {
   id: "01a04f3e-eea5-7c4e-a36d-40a390ffd6ef",
   pageTypeSlug: "domain",
   slug: "test-fixture",
-  definition: "the world a test is given to stand in",
+  definition: "the world a test is given to sit in",
   invariants: [
     {
       invariantKind: "departure",
@@ -12,11 +12,11 @@ export const testFixture = {
     },
     {
       invariantKind: "departure",
-      statement: "A fixture invents a page only where no page stands for what the test needs.",
+      statement: "A fixture invents a page only where no page represents what the test needs.",
     },
     {
       invariantKind: "departure",
-      statement: "A fixture stands in a world the system could have built.",
+      statement: "A fixture sits in a world the system could have built.",
     },
     {
       invariantKind: "absence",
