@@ -10,7 +10,7 @@ export const webSecurityHeaders = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every site is served the same headers but for what its own policy widens.",
+      statement: "Every site is served the same headers but for the headers its own policy widens.",
     },
   ],
 } as const satisfies WorkspacePackage
