@@ -1,0 +1,115 @@
+diff --git a/service-system/cluster-services/cluster-service.page-type.ts b/service-system/cluster-services/cluster-service.page-type.ts
+index f266e10c0ee3fb7c2c603e5aa761228d0d068d93..2b1c3e1486afb728833d7ff29a3e068b3050df09 100644
+--- a/service-system/cluster-services/cluster-service.page-type.ts
++++ b/service-system/cluster-services/cluster-service.page-type.ts
+@@ -105,7 +105,7 @@ export const clusterService = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "The resource the cluster calls a Service is not one of these.",
++      statement: "The resource the cluster calls a Service is not one of these cluster services.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/service-system/workstation-services/pages/surplus-fall-notifier.workstation-service.ts b/service-system/workstation-services/pages/surplus-fall-notifier.workstation-service.ts
+index 83ea3bb52cdfeba083099439eb8dc42b4bfee609..cf8271d6af6de186d053900a668de8fef921d1cd 100644
+--- a/service-system/workstation-services/pages/surplus-fall-notifier.workstation-service.ts
++++ b/service-system/workstation-services/pages/surplus-fall-notifier.workstation-service.ts
+@@ -5,9 +5,7 @@ export const surplusFallNotifier = {
+   pageTypeSlug: "workstation-service",
+   slug: "surplus-fall-notifier",
+   definition: "the service saying when the day has spent Alan's night down a rung",
+-  runs: [
+-    "bun alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.code.ts",
+-  ],
++  runs: ["bun alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.code.ts"],
+   enabled: true,
+   systemd: {
+     restartDelaySeconds: 30,
+@@ -24,7 +22,7 @@ export const surplusFallNotifier = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What this writes is a notification, and reaching a device is the push notifier's.",
++        "What this service writes is a notification, and reaching a device is the push notifier's.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/temper/temper-build-deploy-checks/check-addon-dependency-cycle/check-addon-dependency-cycle.module.ts b/temper/temper-build-deploy-checks/check-addon-dependency-cycle/check-addon-dependency-cycle.module.ts
+index 7d3a5d72f4ddb801d7413e30415ca8401b40db7d..84ccfe9cb0a6f9b2ce8809858becf61ba3a1f587 100644
+--- a/temper/temper-build-deploy-checks/check-addon-dependency-cycle/check-addon-dependency-cycle.module.ts
++++ b/temper/temper-build-deploy-checks/check-addon-dependency-cycle/check-addon-dependency-cycle.module.ts
+@@ -9,7 +9,7 @@ export const checkAddonDependencyCycle = {
+   invariants: [
+     {
+       invariantKind: "constraint",
+-      statement: "The population this run states is the add-ons on the roster.",
++      statement: "The population the run states is the add-ons on the roster.",
+     },
+     {
+       invariantKind: "constraint",
+diff --git a/temper/temper-build-deploy-checks/check-addon-removed-refs/check-addon-removed-refs.module.ts b/temper/temper-build-deploy-checks/check-addon-removed-refs/check-addon-removed-refs.module.ts
+index 2ded286d6ad8736754723dc4b5bba0888f2795ff..8c8d3e10dba3fad04b35c23cec598f188715e3e5 100644
+--- a/temper/temper-build-deploy-checks/check-addon-removed-refs/check-addon-removed-refs.module.ts
++++ b/temper/temper-build-deploy-checks/check-addon-removed-refs/check-addon-removed-refs.module.ts
+@@ -9,7 +9,7 @@ export const checkAddonRemovedRefs = {
+   invariants: [
+     {
+       invariantKind: "constraint",
+-      statement: "The population this run states is the emitted bundles under the build output.",
++      statement: "The population the run states is the emitted bundles under the build output.",
+     },
+     {
+       invariantKind: "constraint",
+diff --git a/temper/temper-collections-addon/temper-collections-addon.eso-addon.ts b/temper/temper-collections-addon/temper-collections-addon.eso-addon.ts
+index 3c22adf40d0bc0531f96fdd41b44c8bfd7b92f28..94b577eb481e4a5ff30e14aaf409495bcd34a81f 100644
+--- a/temper/temper-collections-addon/temper-collections-addon.eso-addon.ts
++++ b/temper/temper-collections-addon/temper-collections-addon.eso-addon.ts
+@@ -24,7 +24,7 @@ export const temperCollectionsAddon = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Each tracker this add-on ships is a workspace package of its own.",
++      statement: "Each tracker the add-on ships is a workspace package of its own.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/temper/temper-events-addon/temper-events-addon.eso-addon.ts b/temper/temper-events-addon/temper-events-addon.eso-addon.ts
+index c69019bf92ee01bc0e4ff2ed3fb352fa8d6d3a32..6d3c2ceae4ef810b7ac4f867f75126b18d32bbd5 100644
+--- a/temper/temper-events-addon/temper-events-addon.eso-addon.ts
++++ b/temper/temper-events-addon/temper-events-addon.eso-addon.ts
+@@ -39,7 +39,7 @@ export const temperEventsAddon = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The Imperial City boss round is the first thing this add-on tracks.",
++      statement: "The Imperial City boss round is the first thing the add-on tracks.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/temper/temper-progress/tasks/properties/pending-sync.boolean-property.ts b/temper/temper-progress/tasks/properties/pending-sync.boolean-property.ts
+index fcba7d390e945186ad221145bbec2f5192e09973..3f5c8e7afc6f6c624dd88e99c387def8e584b285 100644
+--- a/temper/temper-progress/tasks/properties/pending-sync.boolean-property.ts
++++ b/temper/temper-progress/tasks/properties/pending-sync.boolean-property.ts
+@@ -11,7 +11,7 @@ export const pendingSync = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The watcher clears this as soon as it has written the task out.",
++      statement: "The watcher clears this property as soon as it has written the task out.",
+     },
+   ],
+ } as const satisfies BooleanProperty
+diff --git a/utils-fs/read-stdin-or-file/read-stdin-or-file.module.ts b/utils-fs/read-stdin-or-file/read-stdin-or-file.module.ts
+index 3e906c3cc665340d5bdc9faafa03e99d3dc712b7..40a40a16fc0ef7061730ae242d76b7c0f6dca089 100644
+--- a/utils-fs/read-stdin-or-file/read-stdin-or-file.module.ts
++++ b/utils-fs/read-stdin-or-file/read-stdin-or-file.module.ts
+@@ -13,7 +13,7 @@ export const readStdinOrFile = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file this cannot read raises an input error.",
++      statement: "A file this module cannot read raises an input error.",
+     },
+   ],
+ } as const satisfies Module
