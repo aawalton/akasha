@@ -25,7 +25,8 @@ export const temperQuestsAddon = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What the dialogue offers is read afresh rather than remembered between reads.",
+      statement:
+        "The options the dialogue offers are read afresh rather than remembered between reads.",
     },
     {
       invariantKind: "departure",
