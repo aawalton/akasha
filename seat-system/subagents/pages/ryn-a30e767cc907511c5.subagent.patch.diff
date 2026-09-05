@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/supervising/supervisor-idle-observe/supervisor-idle-observe.module.ts b/seat-system/supervising/supervisor-idle-observe/supervisor-idle-observe.module.ts
+index 68aa042309ab9eb6f15cf358b71e6bb9c2af4f6d..0ee008e7c5c6b8c45c95e894d875abe570ab44fd 100644
+--- a/seat-system/supervising/supervisor-idle-observe/supervisor-idle-observe.module.ts
++++ b/seat-system/supervising/supervisor-idle-observe/supervisor-idle-observe.module.ts
+@@ -34,7 +34,7 @@ export const supervisorIdleObserve = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A dispatch child counts only where its principal is this agent and it is not absent.",
++        "A dispatch child counts only where its principal is this agent and that child is not absent.",
+     },
+     {
+       invariantKind: "departure",
