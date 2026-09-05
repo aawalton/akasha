@@ -35,7 +35,7 @@ export const pageBody = {
     },
     {
       invariantKind: "departure",
-      statement: "Only what JSON holds may be a value.",
+      statement: "Only data JSON holds may be a value.",
     },
     {
       invariantKind: "departure",
@@ -47,11 +47,11 @@ export const pageBody = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here formats what this module wrote.",
+      statement: "Nothing here formats the body this module wrote.",
     },
     {
       invariantKind: "departure",
-      statement: "What lands the body mints and formats the body.",
+      statement: "The landing mints and formats the body.",
     },
   ],
 } as const satisfies Module
