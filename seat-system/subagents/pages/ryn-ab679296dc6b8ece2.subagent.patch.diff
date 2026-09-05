@@ -1,0 +1,13 @@
+diff --git a/commands/page-tree/page-tree.command.ts b/commands/page-tree/page-tree.command.ts
+index bc6da6b08e4a6acfcaeb46ca2098cc153508f005..e9cfb24318aa1744520a30fbaf0765dfd764b9a7 100644
+--- a/commands/page-tree/page-tree.command.ts
++++ b/commands/page-tree/page-tree.command.ts
+@@ -37,7 +37,7 @@ export const pageTree = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A property is named bare where that is unambiguous and `kind/slug` where it is not.",
++        "A property is named bare where that is unambiguous and `kind/slug` where the bare name is not.",
+     },
+     {
+       invariantKind: "departure",
