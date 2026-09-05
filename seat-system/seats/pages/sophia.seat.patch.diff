@@ -1,0 +1,27 @@
+diff --git a/akasha.domain.ts b/akasha.domain.ts
+index d595bed7db07d225e196d2197b9ab9b00e387724..2af1f1a31309c4af1352378d8756347c0ff96756 100644
+--- a/akasha.domain.ts
++++ b/akasha.domain.ts
+@@ -71,22 +71,10 @@ export const akasha = {
+     "workspace/akasha-workspace",
+   ],
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "Code and data are text.",
+-    },
+     {
+       invariantKind: "absence",
+       statement: "No file in akasha carries a NUL byte.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "Code and text are data.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Data and text are code.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "The repository is a database.",
