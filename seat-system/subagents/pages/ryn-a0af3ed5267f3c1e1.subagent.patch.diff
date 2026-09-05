@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/sms-core/verify-signature/verify-signature.module.ts b/sms-core/verify-signature/verify-signature.module.ts
+index 1b47d992703d46644c775f6ee2e5b55a03e6a395..330abd88004de886763f0d7d9b3b5addef1b02b2 100644
+--- a/sms-core/verify-signature/verify-signature.module.ts
++++ b/sms-core/verify-signature/verify-signature.module.ts
+@@ -11,7 +11,7 @@ export const verifySignature = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What was signed is the timestamp and the raw body joined by a bar.",
++      statement: "The signed text is the timestamp and the raw body joined by a bar.",
+     },
+     {
+       invariantKind: "departure",
