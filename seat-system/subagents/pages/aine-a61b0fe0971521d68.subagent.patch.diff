@@ -1,0 +1,90 @@
+diff --git a/service-system/workstation-services/properties/binds.text-property.ts b/service-system/workstation-services/properties/binds.text-property.ts
+index e2a4b389dc0308951f4cc9e8b2b55ce6e6f68120..e9e4110cd6700374795cd8d167ce226cc23da5d0 100644
+--- a/service-system/workstation-services/properties/binds.text-property.ts
++++ b/service-system/workstation-services/properties/binds.text-property.ts
+@@ -21,7 +21,7 @@ export const binds = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A name standing here is resolved when the service starts.",
++      statement: "A name here is resolved when the service starts.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/service-system/workstation-services/properties/needs-secrets.boolean-property.ts b/service-system/workstation-services/properties/needs-secrets.boolean-property.ts
+index c50bf6465b490be62c60e990113d32ad8da82725..fa0d9efc258a492506e5550deb0d225ee5aee36b 100644
+--- a/service-system/workstation-services/properties/needs-secrets.boolean-property.ts
++++ b/service-system/workstation-services/properties/needs-secrets.boolean-property.ts
+@@ -7,7 +7,7 @@ export const needsSecrets = {
+   pageTypeSlug: "boolean-property",
+   slug: "needs-secrets",
+   propertySlug: "needs-secrets",
+-  definition: "whether a service is handed the secrets standing in the home directory",
++  definition: "whether a service is handed the secrets in the home directory",
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/service-system/workstation-services/properties/runs.text-property.ts b/service-system/workstation-services/properties/runs.text-property.ts
+index 3338680e4a3d28a3e3a76967f2cbf7d9c8c87f0c..43e5422673cefd7708831208c386daf5ee8533d5 100644
+--- a/service-system/workstation-services/properties/runs.text-property.ts
++++ b/service-system/workstation-services/properties/runs.text-property.ts
+@@ -13,7 +13,7 @@ export const runs = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The commands start in the order the commands stand in.",
++      statement: "The commands start in the order the commands are in.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/service-system/workstation-services/tick-ratchet/tick-ratchet.module.ts b/service-system/workstation-services/tick-ratchet/tick-ratchet.module.ts
+index 6b088c05574895549c475a1e33f502eb46f8300d..19521034e108e90ae15fbfae2487eb70dbe78400 100644
+--- a/service-system/workstation-services/tick-ratchet/tick-ratchet.module.ts
++++ b/service-system/workstation-services/tick-ratchet/tick-ratchet.module.ts
+@@ -4,7 +4,7 @@ export const tickRatchet = {
+   id: "01a06885-0bab-7001-9235-a701e25dd098",
+   pageTypeSlug: "module",
+   slug: "tick-ratchet",
+-  definition: "the run of throws a standing service is allowed before it has to end",
++  definition: "the run of throws a service that keeps running is allowed before it has to end",
+   code: "ts",
+   test: "ts",
+   invariants: [
+diff --git a/service-system/workstation-services/tick-sleeping/tick-sleeping.module.code.ts b/service-system/workstation-services/tick-sleeping/tick-sleeping.module.code.ts
+index 2efa3071040dd43cd89b1f989b25add512fa981c..633bd627e7750c7331a0f26f027c768eca33e5da 100644
+--- a/service-system/workstation-services/tick-sleeping/tick-sleeping.module.code.ts
++++ b/service-system/workstation-services/tick-sleeping/tick-sleeping.module.code.ts
+@@ -1,5 +1,5 @@
+-// Every standing workstation service ticks and then waits, and each one wrote this wait for
+-// itself: ten copies of one shape, which is ten places for a stop to stop being honoured.
++// Every workstation service that keeps running ticks and then waits, and each one wrote this
++// wait for itself: ten copies of one shape, which is ten places for a stop to stop being honoured.
+ 
+ export function sleptUntilStopped(ms: number, signal: AbortSignal): Promise<boolean> {
+   if (signal.aborted) return Promise.resolve(false)
+diff --git a/service-system/workstation-services/tick-sleeping/tick-sleeping.module.ts b/service-system/workstation-services/tick-sleeping/tick-sleeping.module.ts
+index 578ecf437dff186d60d52bd8572a480fd5983aa7..44fba0a11c9053193e17a211f4699018747d8806 100644
+--- a/service-system/workstation-services/tick-sleeping/tick-sleeping.module.ts
++++ b/service-system/workstation-services/tick-sleeping/tick-sleeping.module.ts
+@@ -4,7 +4,7 @@ export const tickSleeping = {
+   id: "01a0686a-7a57-7c23-b825-02e6e8625bad",
+   pageTypeSlug: "module",
+   slug: "tick-sleeping",
+-  definition: "the wait between one tick of a standing service and the next",
++  definition: "the wait between one tick of a service that keeps running and the next",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/service-system/workstation-services/workstation-service.page-type.ts b/service-system/workstation-services/workstation-service.page-type.ts
+index 412c3999f387a6a2cd3c96fc7d587d344061e5bd..c8ce76a2d330892238ca1873db3ec85322937986 100644
+--- a/service-system/workstation-services/workstation-service.page-type.ts
++++ b/service-system/workstation-services/workstation-service.page-type.ts
+@@ -87,7 +87,7 @@ export const workstationService = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A workstation service runs the code as the code stands in the repository.",
++      statement: "A workstation service runs the code as the code is in the repository.",
+     },
+     {
+       invariantKind: "departure",
