@@ -25,11 +25,11 @@ export const persistentVm = {
     },
     {
       invariantKind: "departure",
-      statement: "A failure names the subprocess and what the subprocess did before failing.",
+      statement: "A failure names the subprocess and the work the subprocess did before failing.",
     },
     {
       invariantKind: "departure",
-      statement: "What the subprocess wrote to its error stream is kept for that report.",
+      statement: "The bytes the subprocess wrote to its error stream are kept for that report.",
     },
     {
       invariantKind: "departure",
