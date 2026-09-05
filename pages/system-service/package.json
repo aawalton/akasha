@@ -11,5 +11,15 @@
     "./serving": "./page-serving/page-serving.module.code.ts",
     "./writing": "./page-writing/page-writing.module.code.ts",
     "./where-testing": "./where-testing/where-testing.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/checks": "workspace:*",
+    "@akasha/code-system": "workspace:*",
+    "@akasha/command-system": "workspace:*",
+    "@akasha/git": "workspace:*",
+    "@akasha/indexes": "workspace:*",
+    "@akasha/k8s-types": "workspace:*",
+    "@akasha/pages": "workspace:*",
+    "@akasha/service-system": "workspace:*"
   }
 }

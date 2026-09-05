@@ -975,6 +975,10 @@
     },
     "infrastructure/eso-rig": {
       "name": "@akasha/eso-rig",
+      "dependencies": {
+        "@akasha/code-system": "workspace:*",
+        "@akasha/k8s-types": "workspace:*",
+      },
     },
     "infrastructure/inference-clients": {
       "name": "@akasha/inference-clients",
@@ -1201,6 +1205,16 @@
     },
     "pages/system-service": {
       "name": "@akasha/pages-system-service",
+      "dependencies": {
+        "@akasha/checks": "workspace:*",
+        "@akasha/code-system": "workspace:*",
+        "@akasha/command-system": "workspace:*",
+        "@akasha/git": "workspace:*",
+        "@akasha/indexes": "workspace:*",
+        "@akasha/k8s-types": "workspace:*",
+        "@akasha/pages": "workspace:*",
+        "@akasha/service-system": "workspace:*",
+      },
     },
     "pages/ui": {
       "name": "@akasha/pages-ui",
