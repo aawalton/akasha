@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
-index 85a1910b8f004f074c44760092c9010b53fd6d1e..dc5aa28f61266e0e1d6b52057dfef12b30f3df7a 100644
+index 85a1910b8f004f074c44760092c9010b53fd6d1e..2b2b55566b58bf1193abec79462c83bd0419499b 100644
 --- a/code-system/code-tests/code-tests.module.ts
 +++ b/code-system/code-tests/code-tests.module.ts
 @@ -12,7 +12,7 @@ export const codeTests = {
@@ -59,6 +59,15 @@ index 85a1910b8f004f074c44760092c9010b53fd6d1e..dc5aa28f61266e0e1d6b52057dfef12b
        statement:
 -        "A run reaching fewer files than are under what was named is short rather than a pass.",
 +        "A run reaching fewer files than are under the paths named is short rather than a pass.",
+     },
+     {
+       invariantKind: "departure",
+@@ -134,7 +134,7 @@ export const codeTests = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Which test does sit beside the file is settled by whoever asked.",
++      statement: "Which test does sit beside the file is settled by the caller that asked.",
      },
      {
        invariantKind: "departure",
