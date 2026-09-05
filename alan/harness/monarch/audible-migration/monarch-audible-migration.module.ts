@@ -39,7 +39,7 @@ export const monarchAudibleMigration = {
     },
     {
       invariantKind: "departure",
-      statement: "What decided is recorded as this migration rather than as a rule.",
+      statement: "The decider is recorded as this migration rather than as a rule.",
     },
     {
       invariantKind: "departure",
