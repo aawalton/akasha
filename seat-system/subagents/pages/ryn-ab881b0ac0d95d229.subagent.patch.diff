@@ -63,3 +63,43 @@ index a3565a039ceff33cebb40247b740d1deee99aa36..1dad0a9d1f4c6185417aae8f7e8d016b
      },
      {
        invariantKind: "departure",
+diff --git a/alan/music/spotify/client/spotify-client.module.ts b/alan/music/spotify/client/spotify-client.module.ts
+index 52574d58117a405b6045854a1c395e9beb68fcdc..3db5cd54955febcc1294b3c631650308880124e6 100644
+--- a/alan/music/spotify/client/spotify-client.module.ts
++++ b/alan/music/spotify/client/spotify-client.module.ts
+@@ -46,7 +46,7 @@ export const spotifyClient = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A `Retry-After` that is no positive number is read as one second.",
++      statement: "A `Retry-After` other than a positive number is read as one second.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/tracking/daily/nutrition-sync/nutrition-sync.module.ts b/alan/tracking/daily/nutrition-sync/nutrition-sync.module.ts
+index 9f849212b074ddb9499d5b55fba0d3843e59adde..12bace8583f6a45307cde9bf42bd34bc53b572a9 100644
+--- a/alan/tracking/daily/nutrition-sync/nutrition-sync.module.ts
++++ b/alan/tracking/daily/nutrition-sync/nutrition-sync.module.ts
+@@ -9,7 +9,7 @@ export const nutritionSync = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This is run as its own program by the name its ops-command page states.",
++      statement: "This module is run as its own program by the name its ops-command page states.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/checks/cluster-checks/modules/file-finding/file-finding.module.ts b/checks/cluster-checks/modules/file-finding/file-finding.module.ts
+index 589e4c467d8e892b7cd125f199fd348df283b2f4..0ebd72808768e02287c2f65ef15a87f1c457f1fb 100644
+--- a/checks/cluster-checks/modules/file-finding/file-finding.module.ts
++++ b/checks/cluster-checks/modules/file-finding/file-finding.module.ts
+@@ -21,7 +21,8 @@ export const fileFinding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A caller naming its own folders to leave out replaces these rather than adds.",
++      statement:
++        "A caller naming its own folders to leave out replaces these folders rather than adds.",
+     },
+     {
+       invariantKind: "departure",
