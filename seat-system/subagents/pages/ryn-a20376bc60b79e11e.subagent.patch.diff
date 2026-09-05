@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/commands/page-secret-clear/page-secret-clear.command.ts b/pages/commands/page-secret-clear/page-secret-clear.command.ts
-index 6ad1fc0b3de6ae85dcd4289ef42acec2ae07fc78..9ee532a9b533a4ee0c0b4c4e89d9cd1cf1243888 100644
+index 6ad1fc0b3de6ae85dcd4289ef42acec2ae07fc78..10366803609477ecb2f412fdd2174b7b7500d954 100644
 --- a/pages/commands/page-secret-clear/page-secret-clear.command.ts
 +++ b/pages/commands/page-secret-clear/page-secret-clear.command.ts
 @@ -35,7 +35,7 @@ export const pageSecretClear = {
@@ -12,3 +12,12 @@ index 6ad1fc0b3de6ae85dcd4289ef42acec2ae07fc78..9ee532a9b533a4ee0c0b4c4e89d9cd1c
      },
      {
        invariantKind: "absence",
+@@ -43,7 +43,7 @@ export const pageSecretClear = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here puts back what this command dropped.",
++      statement: "Nothing here puts back the secret this command dropped.",
+     },
+   ],
+ } as const satisfies Command
