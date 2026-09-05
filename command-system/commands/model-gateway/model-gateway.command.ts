@@ -78,7 +78,7 @@ export const modelGateway = {
     {
       invariantKind: "departure",
       statement:
-        "Every seat a fleet swap reaches is acted on rather than the run stopping at the first that does not answer.",
+        "Every seat a fleet swap reaches is acted on rather than a stop at the first seat not answering.",
     },
     {
       invariantKind: "departure",

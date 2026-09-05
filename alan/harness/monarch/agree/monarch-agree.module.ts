@@ -16,7 +16,7 @@ export const monarchAgree = {
     {
       invariantKind: "departure",
       statement:
-        "Proposing and applying are claimed to decide alike, one reading the history in memory and the other reading a window from the database.",
+        "Proposing from history in memory and applying from a database window are claimed to decide alike.",
     },
     {
       invariantKind: "departure",

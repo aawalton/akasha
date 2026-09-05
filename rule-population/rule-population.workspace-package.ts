@@ -19,7 +19,7 @@ export const rulePopulation = {
     {
       invariantKind: "departure",
       statement:
-        "A rule that weighed nothing prints the same green as a rule that weighed everything and was satisfied.",
+        "A rule that weighed nothing prints the same green as a satisfied rule that weighed everything.",
     },
     {
       invariantKind: "departure",

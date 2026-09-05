@@ -20,7 +20,7 @@ export const supervisorFileVersion = {
     {
       invariantKind: "departure",
       statement:
-        "The repository a package is looked for in is the nearest folder above the entry whose manifest names workspaces.",
+        "The repository for a package is the nearest folder above the entry whose manifest names workspaces.",
     },
     {
       invariantKind: "departure",

@@ -10,7 +10,7 @@ export const serviceHash = {
     {
       invariantKind: "departure",
       statement:
-        "A change to the command, the port or the working directory changes the hash even where no source file changed.",
+        "A changed command, port or working directory changes the hash even where no source file changed.",
     },
   ],
 } as const satisfies Module

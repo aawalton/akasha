@@ -42,7 +42,7 @@ export const pushNotifying = {
     {
       invariantKind: "departure",
       statement:
-        "A tick still working when its ceiling passes ends the process rather than letting a second one start beside it.",
+        "A tick still working past its ceiling ends the process rather than letting a second tick start.",
     },
     {
       invariantKind: "departure",
