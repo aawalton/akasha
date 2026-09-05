@@ -37,7 +37,7 @@ export const aliFold = {
     },
     {
       invariantKind: "departure",
-      statement: "A topic already carrying what the fold works out is not written.",
+      statement: "A topic already carrying the coverage the fold works out is not written.",
     },
     {
       invariantKind: "departure",
