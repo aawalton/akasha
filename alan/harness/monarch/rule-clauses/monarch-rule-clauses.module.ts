@@ -41,8 +41,7 @@ export const monarchRuleClauses = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A rule that reserves and carries a note is refused, because the note would never be written and nothing would report that it was not.",
+      statement: "A rule that reserves and carries a note is refused.",
     },
     {
       invariantKind: "departure",
