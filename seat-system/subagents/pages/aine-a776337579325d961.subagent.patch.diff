@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.test.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.test.ts
-index 69c1901c9d86cf099720867f1df1733bae3a5fc1..0c5a83485d0098fd0b3fee4576416e5bc4942892 100644
+index 69c1901c9d86cf099720867f1df1733bae3a5fc1..f14e36208e3d1191a9545e44e6e6c1f609489a29 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.test.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.test.ts
 @@ -12,11 +12,11 @@ test("an assertion written that way is refused", () => {
@@ -16,6 +16,15 @@ index 69c1901c9d86cf099720867f1df1733bae3a5fc1..0c5a83485d0098fd0b3fee4576416e5b
    expect(noAngleBracketCast(parsed("const one = [1, 2] as const\n"))).toEqual([])
  })
  
+@@ -44,7 +44,7 @@ test("one nested inside a call is judged too", () => {
+   expect(noAngleBracketCast(parsed("report(<Held>held)\n"))).toHaveLength(1)
+ })
+ 
+-test("the line named is the line the assertion stands on", () => {
++test("the line named is the line the assertion is on", () => {
+   const said = noAngleBracketCast(parsed("const one = 1\nconst two = <Held>held\n"))
+   expect(said[0]?.line).toBe(2)
+ })
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.ts
 index 9d5ebc056a2f9205c09cc3c5d87bdbe963540a2b..d572f29bcbd64f3c601e9e6114e53ead330f4453 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.ts
@@ -48,7 +57,7 @@ index 8d0084ae1cb168354b35e05f3807d51ab04fa4a5..886d5ed350d76b890bda10eb1408e9ca
  })
  
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.ts
-index 808ca3261f486777f017708462272213489ce067..6b4b2d6da81a9a2dbe979196f20f9ad6d119e657 100644
+index 808ca3261f486777f017708462272213489ce067..9aa8d814e25b03599e98402165aa4eac4871ae59 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.ts
 @@ -10,11 +10,11 @@ export const noDoubleCast = {
@@ -62,6 +71,15 @@ index 808ca3261f486777f017708462272213489ce067..6b4b2d6da81a9a2dbe979196f20f9ad6
        invariantKind: "departure",
 -      statement: "One assertion on its own stands.",
 +      statement: "One assertion on its own is left.",
+     },
+     {
+       invariantKind: "departure",
+@@ -22,7 +22,7 @@ export const noDoubleCast = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A widening standing alone is left.",
++      statement: "A widening on its own is left.",
      },
      {
        invariantKind: "departure",
