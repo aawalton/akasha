@@ -19,7 +19,7 @@ export const pagesOfTheTypeAbove = {
     },
     {
       invariantKind: "departure",
-      statement: "That page type says what belongs here.",
+      statement: "That page type says which pages belong here.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const pagesOfTheTypeAbove = {
     },
     {
       invariantKind: "absence",
-      statement: "What else a subfolder holds is judged where that subfolder is judged.",
+      statement: "Anything else a subfolder holds is judged where that subfolder is judged.",
     },
     {
       invariantKind: "departure",
