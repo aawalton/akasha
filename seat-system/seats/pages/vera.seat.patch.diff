@@ -1,3 +1,16 @@
+diff --git a/akasha.domain.ts b/akasha.domain.ts
+index 3c835a93ab69f3b7782ecadf9b1c06d0a6ef29e6..6070dc462f8d8a426ec9b01138609e996917c716 100644
+--- a/akasha.domain.ts
++++ b/akasha.domain.ts
+@@ -51,7 +51,7 @@ export const akasha = {
+     "domain/story",
+     "domain/browser",
+     "domain/google",
+-    "domain/collection-system",
++    "page-type/collection",
+     "domain/places",
+     "domain/image-generation",
+     "domain/infrastructure",
 diff --git a/collections/collection.page-type.ts b/collections/collection.page-type.ts
 index 1c27dffef8a49f301aa8e244d54ac785f0fcbe4f..baf7610c0db656c19746582966b5bf29cebd9b8b 100644
 --- a/collections/collection.page-type.ts
