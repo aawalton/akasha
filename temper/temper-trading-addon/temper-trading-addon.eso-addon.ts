@@ -45,11 +45,6 @@ export const temperTradingAddon = {
     {
       invariantKind: "departure",
       statement:
-        "A capture replaces the guild's earlier snapshot rather than adding to the snapshot.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
         "A suggested sale price comes from the trade centre where that trade centre has one.",
     },
     {
