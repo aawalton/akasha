@@ -1,0 +1,40 @@
+diff --git a/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.code.ts b/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.code.ts
+index 50b0341e28a4e3976fe0012f308649ab975f968f..cb040c99dd0f75530986f43bca952c63ab0fd464 100644
+--- a/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.code.ts
++++ b/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.code.ts
+@@ -92,7 +92,7 @@ export function temperEsoGenerateColonMethods(argv: readonly string[] = []): Ans
+   }
+   if (names.size === 0) {
+     return refused(
+-      `no colon-method stands in ${String(luaFiles.length)} Lua file(s) under ${esoRoot}. ` +
++      `no colon-method is in ${String(luaFiles.length)} Lua file(s) under ${esoRoot}. ` +
+         "An empty census reads to every consumer as a clean answer, so nothing was staged.",
+       DATA
+     )
+diff --git a/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.ts b/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.ts
+index 99d5f6c5072201c161c1bfb7812219c9bfda23aa..cd0b7bcfb98eac47a5bf461cb656173f62e64cf9 100644
+--- a/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.ts
++++ b/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.ts
+@@ -14,8 +14,7 @@ export const temperEsoGenerateColonMethods = {
+     },
+     {
+       said: "--code-root <path>",
+-      takes:
+-        "the checkout the census is staged against, for the page ids and bodies already standing",
++      takes: "the checkout the census is staged against, for the page ids and bodies already there",
+     },
+     {
+       said: "--stage <path>",
+diff --git a/temper/temper-commands/temper-eso-generate-hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts b/temper/temper-commands/temper-eso-generate-hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts
+index c36f9ed97867e00fa8c952e5d5c60730f6a9df3d..da41c8ec44ff43bcc2e12f9b4081db503295c8b4 100644
+--- a/temper/temper-commands/temper-eso-generate-hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts
++++ b/temper/temper-commands/temper-eso-generate-hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts
+@@ -16,7 +16,7 @@ export const temperEsoGenerateHudSceneCatalog = {
+   helpNotes: [
+     "the checkout defaults to what `CODE_ROOT` names, and to this repository where that names nothing.",
+     "the source is the one clone file declaring the main gameplay scene, and one record is taken for each distinct component it names.",
+-    "what counts as a component and what shape a record takes come from the package declaring them, so a run parses by the rules standing beside it rather than by the tree's.",
++    "what counts as a component and what shape a record takes come from the package declaring them, so a run parses by the rules sitting beside it rather than by the tree's.",
+     "the records are written as three modules divided by how the game hides the part: a fragment group, a scene fragment, or a top-level control.",
+     "a component the game parents to GuiRoot and creates at runtime is outside a single-file walk, and so outside this catalog.",
+     "a scene source naming no component refuses the call, because an empty catalog reads to every consumer as a clean answer.",
