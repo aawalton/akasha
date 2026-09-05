@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/beside/page-beside.module.ts b/pages/beside/page-beside.module.ts
-index 49597d75338c0ee077922cdc258dd5d4abd1ecfb..6467d963b0ed6f84900336fd760cb6971eec0269 100644
+index 49597d75338c0ee077922cdc258dd5d4abd1ecfb..bc80551aa95c482ae7c7a3302561371e89a62587 100644
 --- a/pages/beside/page-beside.module.ts
 +++ b/pages/beside/page-beside.module.ts
 @@ -28,7 +28,7 @@ export const pageBeside = {
@@ -12,12 +12,17 @@ index 49597d75338c0ee077922cdc258dd5d4abd1ecfb..6467d963b0ed6f84900336fd760cb697
      },
      {
        invariantKind: "departure",
-@@ -45,7 +45,7 @@ export const pageBeside = {
+@@ -45,11 +45,11 @@ export const pageBeside = {
      },
      {
        invariantKind: "departure",
 -      statement: "What is beside several paths holds no repeated file.",
 +      statement: "The files beside several paths hold no repeated file.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is beside several paths is sorted.",
++      statement: "The files beside several paths are sorted.",
      },
      {
        invariantKind: "departure",
