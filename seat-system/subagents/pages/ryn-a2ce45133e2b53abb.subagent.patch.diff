@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/name-formats/modules/format-reaching/format-reaching.module.ts b/pages/name-formats/modules/format-reaching/format-reaching.module.ts
+index a829aa289a8276b63033e256901a4d3343bb3db5..26cc64d2108f8fe297f004410bdf8cd18bb0b040 100644
+--- a/pages/name-formats/modules/format-reaching/format-reaching.module.ts
++++ b/pages/name-formats/modules/format-reaching/format-reaching.module.ts
+@@ -19,7 +19,7 @@ export const formatReaching = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is loaded is what the slug's export name answers to.",
++      statement: "The judgement loaded is the value the slug's export name answers to.",
+     },
+     {
+       invariantKind: "departure",
