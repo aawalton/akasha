@@ -997,3 +997,18 @@ index 0000000000000000000000000000000000000000..450167888c1bc9de5eee8d34f40bb1bd
 +  definition: "the exporter that publishes the database's own state as metrics",
 +  code: "ts",
 +} as const satisfies Module
+diff --git a/infrastructure/cluster-manifests/prometheus-manifests/prometheus-manifests.module.ts b/infrastructure/cluster-manifests/prometheus-manifests/prometheus-manifests.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6b35886f42e8e89c0aada9c9ef35425f74cdae45
+--- /dev/null
++++ b/infrastructure/cluster-manifests/prometheus-manifests/prometheus-manifests.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const prometheusManifests = {
++  id: "01a073af-1ffc-7f13-af2b-01872be66e05",
++  pageTypeSlug: "module",
++  slug: "prometheus-manifests",
++  definition: "the metrics server, its storage, its access rules and the way in to it",
++  code: "ts",
++} as const satisfies Module
