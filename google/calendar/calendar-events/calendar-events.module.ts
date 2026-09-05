@@ -13,7 +13,7 @@ export const calendarEvents = {
     },
     {
       invariantKind: "departure",
-      statement: "Answering an invitation you are not an attendee on is refused.",
+      statement: "Answering an invitation the signed-in account is not an attendee on is refused.",
     },
     {
       invariantKind: "departure",
