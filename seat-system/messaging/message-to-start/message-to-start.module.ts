@@ -19,7 +19,7 @@ export const messageToStart = {
     {
       invariantKind: "departure",
       statement:
-        "A seat is started for an address nothing has ever stated only where the sender is an agent or the address answers to a person.",
+        "A seat starts for an unstated address only if the sender is an agent or the address is a person's.",
     },
     {
       invariantKind: "departure",

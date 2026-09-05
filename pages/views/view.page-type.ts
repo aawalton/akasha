@@ -121,7 +121,7 @@ export const view = {
     {
       invariantKind: "departure",
       statement:
-        "A cross-type view names a predicate instead of a page type and draws pages of whatever types the predicate matches.",
+        "A cross-type view names a predicate instead of a page type and draws pages of any matching type.",
     },
     {
       invariantKind: "departure",

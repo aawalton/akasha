@@ -51,7 +51,7 @@ export const pushNotifying = {
     {
       invariantKind: "gap",
       statement:
-        "Notifications are read and the feed written from the pages data directly rather than through the pages system service, as code on the workstation must.",
+        "The feed is read and written in pages data, not the pages system service, as workstation code must.",
     },
   ],
 } as const satisfies Module

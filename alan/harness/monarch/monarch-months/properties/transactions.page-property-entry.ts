@@ -51,7 +51,7 @@ export const transactions = {
     {
       invariantKind: "departure",
       statement:
-        "A transaction that has been split leaves the list Monarch serves and its parts are there in its place.",
+        "A split transaction leaves the list Monarch serves and its parts are there in its place.",
     },
     {
       invariantKind: "departure",

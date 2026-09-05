@@ -24,7 +24,7 @@ export const monarchAgreement = {
     {
       invariantKind: "departure",
       statement:
-        "A transaction naming no category counts as uncategorized alongside one naming the uncategorized page.",
+        "A transaction naming no category or naming the uncategorized page counts as uncategorized.",
     },
     {
       invariantKind: "absence",

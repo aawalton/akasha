@@ -25,7 +25,7 @@ export const panelReading = {
     {
       invariantKind: "departure",
       statement:
-        "Every member the bundle reaches is read off the bundle and held against the stub before anything is drawn.",
+        "Every member the bundle reaches is read off the bundle and held against the stub before any drawing.",
     },
     {
       invariantKind: "departure",

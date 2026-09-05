@@ -16,7 +16,7 @@ export const claudeAccountUpkeepStall = {
     {
       invariantKind: "departure",
       statement:
-        "The floor a token's remaining life is judged against is computed from the upkeep's own margin and period.",
+        "A token's remaining life is judged against a floor computed from the upkeep's own margin and period.",
     },
     {
       invariantKind: "departure",

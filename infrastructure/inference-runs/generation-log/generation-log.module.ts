@@ -18,7 +18,7 @@ export const generationLog = {
     {
       invariantKind: "departure",
       statement:
-        "The log a run is written to is read from the environment and is `alan` where the environment says nothing.",
+        "A run's log is read from the environment and is `alan` where the environment says nothing.",
     },
   ],
 } as const satisfies Module
