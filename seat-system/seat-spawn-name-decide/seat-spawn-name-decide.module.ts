@@ -16,7 +16,12 @@ export const seatSpawnNameDecide = {
     {
       invariantKind: "departure",
       statement:
-        "A seat whose attributes name nothing and a composition that failed are different facts, and neither mints a name.",
+        "A seat whose attributes name nothing and a composition that failed are different facts.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "Neither a seat whose attributes name nothing nor a failed composition mints a name.",
     },
     {
       invariantKind: "departure",
