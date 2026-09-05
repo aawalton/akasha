@@ -8,7 +8,7 @@ export const domainPurpose = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What only helps another purpose is not a purpose.",
+      statement: "A thing that only helps another purpose is not a purpose.",
     },
   ],
 } as const satisfies Domain
