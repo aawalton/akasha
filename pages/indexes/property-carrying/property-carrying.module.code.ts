@@ -1,6 +1,7 @@
 import { basename, dirname } from "node:path"
 import { partedIn } from "@akasha/pages-system/page-file-name"
 import type { Value } from "@akasha/pages-system/page-value"
+import type { Reading } from "../index-shape/index-shape.module.code.ts"
 import {
   everyOfType,
   idsNaming,
@@ -8,8 +9,7 @@ import {
   listedById,
   readingIn,
   schemaOf,
-} from "../index-reading/index-reading.module.code.ts"
-import type { Reading } from "../index-shape/index-shape.module.code.ts"
+} from "../reading/index-reading.module.code.ts"
 
 const DECLARES = "page-property-slug"
 

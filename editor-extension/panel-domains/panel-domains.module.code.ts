@@ -4,7 +4,7 @@ import {
   idsNaming,
   type Listed,
   readingIn,
-} from "../../pages/indexes/index-reading/index-reading.module.code.ts"
+} from "../../pages/indexes/reading/index-reading.module.code.ts"
 import { kindsUnder } from "../../pages/types/descent/page-type-descent.module.code.ts"
 import { type Value, valueAt } from "../../pages/value/page-value.module.code.ts"
 

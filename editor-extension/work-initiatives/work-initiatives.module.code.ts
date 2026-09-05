@@ -3,7 +3,7 @@ import {
   everyOfType,
   idsNaming,
   typeSlugOf,
-} from "../../pages/indexes/index-reading/index-reading.module.code.ts"
+} from "../../pages/indexes/reading/index-reading.module.code.ts"
 import { valueAt } from "../../pages/value/page-value.module.code.ts"
 
 const INITIATIVE_TYPE = "01a04e58-5735-72b4-b945-56366461c776"

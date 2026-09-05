@@ -5,7 +5,7 @@ import { scratchWorld } from "../../command-system/scratching/scratching.module.
 import {
   listedFiled,
   relationFiled,
-} from "../../pages/indexes/index-reading/index-reading.module.test-fixtures.ts"
+} from "../../pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { domainsDrawn, kindsUnderDomain } from "./panel-domains.module.code.ts"
 
 const ONE = "01a04e9f-1111-7000-8000-00000000000a"

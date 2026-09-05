@@ -10,6 +10,9 @@ import {
 } from "@akasha/pages-system/page-type-properties"
 import type { Value } from "@akasha/pages-system/page-value"
 import { fileKeysAt, pageTypesIn, schemaAt } from "../entries/index-entries.module.code.ts"
+import type { Reading } from "../index-shape/index-shape.module.code.ts"
+import { carryingOf, declaringOf } from "../property-carrying/property-carrying.module.code.ts"
+import { knownIn } from "../reaching/reaching.module.code.ts"
 import {
   everyOfType,
   everyPath,
@@ -24,7 +27,7 @@ import {
   schemaOf,
   typeSlugById,
   typeSlugOf,
-} from "../index-reading/index-reading.module.code.ts"
+} from "../reading/index-reading.module.code.ts"
 import {
   idFiled,
   importFiled,
@@ -33,10 +36,7 @@ import {
   readingLaidOver,
   relationFiled,
   schemaFiled,
-} from "../index-reading/index-reading.module.test-fixtures.ts"
-import type { Reading } from "../index-shape/index-shape.module.code.ts"
-import { carryingOf, declaringOf } from "../property-carrying/property-carrying.module.code.ts"
-import { knownIn } from "../reaching/reaching.module.code.ts"
+} from "../reading/index-reading.module.test-fixtures.ts"
 import { answeringOver } from "./index-answering.module.code.ts"
 
 const scratch = scratchWorld()

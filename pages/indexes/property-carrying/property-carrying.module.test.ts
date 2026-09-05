@@ -6,7 +6,7 @@ import {
   listedFiled,
   relationFiled,
   schemaFiled,
-} from "../index-reading/index-reading.module.test-fixtures.ts"
+} from "../reading/index-reading.module.test-fixtures.ts"
 import {
   type Carried,
   carryingOf,

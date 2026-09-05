@@ -21,6 +21,14 @@ import {
   schemaAt,
   sidecarsOver,
 } from "../entries/index-entries.module.code.ts"
+import type { Reading } from "../index-shape/index-shape.module.code.ts"
+import {
+  carryingOf,
+  type Declaring,
+  declaringOf,
+  type Carried as Reached,
+} from "../property-carrying/property-carrying.module.code.ts"
+import { knownIn, type Shaped } from "../reaching/reaching.module.code.ts"
 import {
   everyOfType,
   everyPath,
@@ -37,15 +45,7 @@ import {
   schemaOf,
   typeSlugById,
   typeSlugOf,
-} from "../index-reading/index-reading.module.code.ts"
-import type { Reading } from "../index-shape/index-shape.module.code.ts"
-import {
-  carryingOf,
-  type Declaring,
-  declaringOf,
-  type Carried as Reached,
-} from "../property-carrying/property-carrying.module.code.ts"
-import { knownIn, type Shaped } from "../reaching/reaching.module.code.ts"
+} from "../reading/index-reading.module.code.ts"
 
 export type PageOf = (path: string) => Value | null
 

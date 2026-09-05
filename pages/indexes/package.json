@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
-    ".": "./index-reading/index-reading.module.code.ts",
+    ".": "./reading/index-reading.module.code.ts",
     "./answering": "./answering/index-answering.module.code.ts",
     "./entries": "./entries/index-entries.module.code.ts",
     "./generated-properties": "./generated-properties/generated-properties.module.code.ts",
@@ -19,6 +19,6 @@
     "./relation": "./relation/index-relation.index.code.ts",
     "./shape": "./index-shape/index-shape.module.code.ts",
     "./stamp": "./index-stamp/index-stamp.module.code.ts",
-    "./testing": "./index-reading/index-reading.module.test-fixtures.ts"
+    "./testing": "./reading/index-reading.module.test-fixtures.ts"
   }
 }

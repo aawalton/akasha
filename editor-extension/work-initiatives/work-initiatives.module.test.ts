@@ -7,7 +7,7 @@ import {
   listedFiled,
   noneOfTypeFiled,
   relationFiled,
-} from "../../pages/indexes/index-reading/index-reading.module.test-fixtures.ts"
+} from "../../pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { initiativesDrawn } from "./work-initiatives.module.code.ts"
 
 const ONE = "01a04e9f-0000-7000-8000-00000000000a"
