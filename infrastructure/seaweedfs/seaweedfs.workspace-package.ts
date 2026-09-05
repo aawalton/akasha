@@ -14,6 +14,7 @@ export const seaweedfs = {
     "manifest/seaweedfs-filer",
     "manifest/seaweedfs-maintenance",
     "manifest/seaweedfs-master",
+    "manifest/seaweedfs-prune-sessions",
     "manifest/seaweedfs-s3-gateway",
     "manifest/seaweedfs-volume",
     "module/seaweedfs-constants",
