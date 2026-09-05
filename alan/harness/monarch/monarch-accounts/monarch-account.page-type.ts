@@ -52,7 +52,8 @@ export const monarchAccount = {
     },
     {
       invariantKind: "departure",
-      statement: "An account named by digits alone takes `account-` ahead of them for its slug.",
+      statement:
+        "An account named by digits alone takes `account-` ahead of those digits for its slug.",
     },
     {
       invariantKind: "gap",
