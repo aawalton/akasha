@@ -34,7 +34,8 @@ export const seatActs = {
     },
     {
       invariantKind: "departure",
-      statement: "A revive is given the prompt the harness composes rather than one written here.",
+      statement:
+        "A revive is given the prompt the compose module renders rather than one written here.",
     },
     {
       invariantKind: "departure",

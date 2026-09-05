@@ -38,6 +38,10 @@ export const seatToggles = {
       statement: "A row's context value names whether the seat runs and where it is.",
     },
     {
+      invariantKind: "departure",
+      statement: "The notices are composed by the compose module rather than by a child process.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here performs a step.",
     },

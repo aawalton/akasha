@@ -49,7 +49,7 @@ async function performStep(seat: ToggleTarget, step: SeatStep): Promise<undefine
       await runSeat(["supervisor", "stop", seat.name])
       return undefined
     case "revive": {
-      const prompt = await resumePrompt()
+      const prompt = resumePrompt()
       await runSeat(["resume", seat.name, "--prompt", prompt])
       return undefined
     }

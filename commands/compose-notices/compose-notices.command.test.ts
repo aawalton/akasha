@@ -2,12 +2,7 @@ import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join, resolve } from "node:path"
 import type { Given } from "@akasha/command-system/calling"
-import {
-  NOTICES,
-  notices,
-  noticesUnder,
-  render,
-} from "../../seat-system/compose-notices/compose-notices.module.code.ts"
+import { NOTICES, notices, noticesUnder, render } from "@akasha/seat-system/compose-notices"
 import { composeNotices, OUT, pathOf, readIn, saidOf } from "./compose-notices.command.code.ts"
 
 const ROOT = resolve(import.meta.dir, "../..")

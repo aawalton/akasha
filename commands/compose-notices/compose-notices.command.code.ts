@@ -2,7 +2,7 @@ import { writeFileSync } from "node:fs"
 import { isAbsolute, resolve } from "node:path"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
-import { notices } from "../../seat-system/compose-notices/compose-notices.module.code.ts"
+import { notices } from "@akasha/seat-system/compose-notices"
 
 export const OUT = "--out"
 
