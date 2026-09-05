@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-# WHAT A SEAT STATES IS READ FROM AKASHA, BY A MODULE STANDING IN IT. What is still reached outside
+# WHAT A SEAT STATES IS READ FROM AKASHA, BY A MODULE SITTING IN IT. What is still reached outside
 # is a count of live children and a write of what the payload observed: subagents have no page here
 # yet, and a writer belongs with the other writers rather than forked off into this one.
 # Counting the levels up to akasha was wrong twice, because this file moved twice and the count

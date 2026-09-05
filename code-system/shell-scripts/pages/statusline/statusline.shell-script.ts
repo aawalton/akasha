@@ -19,15 +19,15 @@ export const statusline = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat is read from the page standing for that seat in akasha.",
+      statement: "A seat is read from the page representing that seat in akasha.",
     },
     {
       invariantKind: "stopgap",
-      statement: "The count of live children is read by code standing outside akasha.",
+      statement: "The count of live children is read by code outside akasha.",
     },
     {
       invariantKind: "stopgap",
-      statement: "What the payload observed is kept by code standing outside akasha.",
+      statement: "What the payload observed is kept by code outside akasha.",
     },
   ],
 } as const satisfies ShellScript

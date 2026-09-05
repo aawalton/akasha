@@ -23,7 +23,7 @@ export const bashEnv = {
     },
     {
       invariantKind: "departure",
-      statement: "A name the shell already carries is left standing.",
+      statement: "A name the shell already carries is left alone.",
     },
     {
       invariantKind: "departure",
