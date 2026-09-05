@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/email-watch/email-rule-set/email-rule-set.module.ts b/email-watch/email-rule-set/email-rule-set.module.ts
+index 048188efcf1751b6c6bdf11590727ab4e3f3445a..036105e51fbc90a2331bed7c0b3ffc5d4fa225f9 100644
+--- a/email-watch/email-rule-set/email-rule-set.module.ts
++++ b/email-watch/email-rule-set/email-rule-set.module.ts
+@@ -18,7 +18,7 @@ export const emailRuleSet = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The folder a rule is in names the person whose rule it is.",
++      statement: "The folder a rule is in names the person whose rule that rule is.",
+     },
+     {
+       invariantKind: "absence",
