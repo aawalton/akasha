@@ -1,8 +1,8 @@
 diff --git a/pages/system-service/pages-system-service.workspace-package.ts b/pages/system-service/pages-system-service.workspace-package.ts
-index b44f6a5a38ee47c2f9bbfda3c44cb3bdd68a9754..18ad575b6a7def2583045954c08bfa98cd3bc9fe 100644
+index b44f6a5a38ee47c2f9bbfda3c44cb3bdd68a9754..4531ad6f0ddf9c04a037cdfbdae5434495d18811 100644
 --- a/pages/system-service/pages-system-service.workspace-package.ts
 +++ b/pages/system-service/pages-system-service.workspace-package.ts
-@@ -25,7 +25,8 @@ export const pagesSystemService = {
+@@ -25,12 +25,13 @@ export const pagesSystemService = {
      },
      {
        invariantKind: "departure",
@@ -12,3 +12,9 @@ index b44f6a5a38ee47c2f9bbfda3c44cb3bdd68a9754..18ad575b6a7def2583045954c08bfa98
      },
      {
        invariantKind: "departure",
+       statement:
+-        "A query is answered from the index and from the values beside the pages it names.",
++        "A query is answered from the index and from the values beside the pages that query names.",
+     },
+     {
+       invariantKind: "absence",
