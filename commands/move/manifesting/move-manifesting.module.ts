@@ -14,7 +14,7 @@ export const moveManifesting = {
     },
     {
       invariantKind: "departure",
-      statement: "The manifests looked at are found by walking up from what moved.",
+      statement: "The manifests looked at are found by walking up from the files that moved.",
     },
     {
       invariantKind: "departure",
