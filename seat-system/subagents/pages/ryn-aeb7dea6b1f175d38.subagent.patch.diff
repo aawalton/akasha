@@ -83,3 +83,20 @@ index 3d2c6f5dbdfb0c6905ccbf8bc015969c49989d87..3de766f29468311ddb63f2b6fe944e26
      {
        invariantKind: "departure",
        statement: "The cookie is only on the workstation that takes the reading.",
+diff --git a/alan/harness/plants/plants.domain.ts b/alan/harness/plants/plants.domain.ts
+index 8de8fe31e28cc3c46ea7fa02450badc6e48649e3..2e5ca05091c3b9efd571eb206a0a29edba9c37fe 100644
+--- a/alan/harness/plants/plants.domain.ts
++++ b/alan/harness/plants/plants.domain.ts
+@@ -16,11 +16,7 @@ export const plants = {
+       invariantKind: "departure",
+       statement: "The grams are read from the food entries the workstation's checkout carries.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The reading is taken by a workstation timer rather than by a pod serving a route.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement:
