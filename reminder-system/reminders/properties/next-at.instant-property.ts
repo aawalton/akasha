@@ -11,7 +11,8 @@ export const nextAt = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What is due is read from here rather than worked out from the clock alone.",
+      statement:
+        "The reminders that are due are read from here rather than worked out from the clock alone.",
     },
     {
       invariantKind: "departure",
