@@ -45,5 +45,13 @@ export const index = {
       invariantKind: "departure",
       statement: "An index states its test.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Every index is written as a change lands rather than only by a rebuild.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rebuild repairs an index rather than being how that index is kept current.",
+    },
   ],
 } as const satisfies PageType

@@ -38,6 +38,22 @@ export const athenaCommandsAtTheRoot = {
       workingMemory:
         "Reading a term's page clears it for every later change, for any file, because `owingOf` owes nothing while the record holds that page at its current blob. Alan ruled this intended: answering a warrant by when something was read is barred, so a re-owed warrant would have no escape. The refusal text contradicted itself and was fixed at 2356754c61. What is left is telling the writer without refusing, and no such channel exists: `troubling` turns any non-empty array into refusals.",
     },
+    {
+      statement: "An index written as changes land matches what a rebuild would write.",
+      workingMemory:
+        "One `akasha index refresh` over 3bef71cdf9 read 70111 pages and 506059 entries, then reconciled by taking 30974 files away, adding 4 and changing none. So the incremental path leaves files behind rather than writing wrong lines. Nothing measures that drift between landings and nothing fails as it grows, so it is found only by rebuilding. A shard folder holding one child keeps that child's mtime, so a folder time is no reading of what is under it.",
+    },
+    {
+      statement:
+        "Every page carrying a relation is filed rather than refused for naming a page ambiguously.",
+      workingMemory:
+        "A refresh refuses three. `athena.persona.ts` names `agent` for `championed-domain-slug`, which reaches both agents/agent.workspace-package.ts and agents/agent.page-type.ts; `ryn.persona.ts` names `domain`, which reaches five, one of them the domain command. Both want the page type named in the value. `parser-model.page-type.ts` names `parser-model/compact-parser` in `part-slugs`, where the property admits only a domain and what extends one.",
+    },
+    {
+      statement: "A rebuild that dies leaves no scratch folder behind.",
+      workingMemory:
+        "Three `.git/data/index.refreshing.<pid>` folders are there with dead pids: 3668113 from 2026-09-04 16:23, 3338665 at 07:54 and 1863013 at 09:13. Each is an unfinished rebuild's scratch. Whether each died on its own or was killed is unread. Nothing reaps them and nothing reads them, so they are debris rather than a lock, and they are the only record that a rebuild died at all.",
+    },
   ],
   constraints: [
     "Nothing under `checks/` changes here. Alan holds checks and check tests.",
