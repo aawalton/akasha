@@ -1,0 +1,40 @@
+diff --git a/agents/claude-accounts/modules/renewing/claude-account-renewing.module.ts b/agents/claude-accounts/modules/renewing/claude-account-renewing.module.ts
+index 4e6438cae9868557fa514a43986b5bf15490a901..eb937ab8e58fff91e7df803f243618311775e23c 100644
+--- a/agents/claude-accounts/modules/renewing/claude-account-renewing.module.ts
++++ b/agents/claude-accounts/modules/renewing/claude-account-renewing.module.ts
+@@ -71,7 +71,8 @@ export const claudeAccountRenewing = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "The reading of the index and the reader of page bodies reach this as parameters.",
++      statement:
++        "The reading of the index and the reader of page bodies reach this module as parameters.",
+     },
+     {
+       invariantKind: "constraint",
+diff --git a/agents/models/tests/pages/restatement/restatement.model-test.ts b/agents/models/tests/pages/restatement/restatement.model-test.ts
+index 82315a1471a76b4f50287424d872808fec58e6b4..f45c637b1038158ff7447d57e349a0c4ab7d4873 100644
+--- a/agents/models/tests/pages/restatement/restatement.model-test.ts
++++ b/agents/models/tests/pages/restatement/restatement.model-test.ts
+@@ -34,7 +34,7 @@ export const restatement = {
+     {
+       invariantKind: "constraint",
+       statement:
+-        "What this reads is the words rather than what a reader would build from the words.",
++        "What this test reads is the words rather than what a reader would build from the words.",
+     },
+   ],
+ } as const satisfies ModelTest
+diff --git a/alan/fitness/exercise-access/exercise-digest/exercise-digest.module.ts b/alan/fitness/exercise-access/exercise-digest/exercise-digest.module.ts
+index b4ce481e01c1758e96015fab7af22d0d7548e024..ce50640849bf44427923d2e27716771cd22b43e5 100644
+--- a/alan/fitness/exercise-access/exercise-digest/exercise-digest.module.ts
++++ b/alan/fitness/exercise-access/exercise-digest/exercise-digest.module.ts
+@@ -9,7 +9,7 @@ export const exerciseDigest = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The ops dispatcher imports this and calls the default export it declares.",
++      statement: "The ops dispatcher imports this module and calls the default export it declares.",
+     },
+     {
+       invariantKind: "departure",
