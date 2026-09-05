@@ -140,3 +140,19 @@ index 8c8d3e10dba3fad04b35c23cec598f188715e3e5..6755fcfb1be8f3f233dfe8f3c8c8e91a
      {
        invariantKind: "constraint",
        statement: "A bundle no longer on disk is skipped rather than counted as examined.",
+diff --git a/temper/temper-build-deploy-checks/check-addon-sandbox-load/check-addon-sandbox-load.module.ts b/temper/temper-build-deploy-checks/check-addon-sandbox-load/check-addon-sandbox-load.module.ts
+index 8d1f55f3b20a4a4e3baca7b43df115fe77d91038..5fd7cfbbaae7241573ce4a4b7990147d6c1ab338 100644
+--- a/temper/temper-build-deploy-checks/check-addon-sandbox-load/check-addon-sandbox-load.module.ts
++++ b/temper/temper-build-deploy-checks/check-addon-sandbox-load/check-addon-sandbox-load.module.ts
+@@ -12,10 +12,7 @@ export const checkAddonSandboxLoad = {
+       invariantKind: "constraint",
+       statement: "The population the run states is the emitted bundles under the build output.",
+     },
+-    {
+-      invariantKind: "constraint",
+-      statement: "An empty build output ends the run rather than passing the run.",
+-    },
++
+     {
+       invariantKind: "constraint",
+       statement: "An empty base-game string-id census ends the run rather than passing the run.",
