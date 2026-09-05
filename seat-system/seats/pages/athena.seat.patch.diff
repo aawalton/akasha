@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/story/games/pages/dragons-and-dungeons/dragons-and-dungeons.game.gm-context.json b/story/games/pages/dragons-and-dungeons/dragons-and-dungeons.game.gm-context.json
-index fa86e14b28fb87e1cc6b8f7d7c3c13b05f98508b..7534a24ef68ce95dd62191ace810d2513c93e4e1 100644
+index fa86e14b28fb87e1cc6b8f7d7c3c13b05f98508b..7bc40d7b6887abaa86ba126a2bee40d2b7d59b04 100644
 --- a/story/games/pages/dragons-and-dungeons/dragons-and-dungeons.game.gm-context.json
 +++ b/story/games/pages/dragons-and-dungeons/dragons-and-dungeons.game.gm-context.json
 @@ -340,11 +340,6 @@
@@ -31,3 +31,14 @@ index fa86e14b28fb87e1cc6b8f7d7c3c13b05f98508b..7534a24ef68ce95dd62191ace810d251
        {
          "id": "hand-link",
          "requirement": "Hand Alan the `/read/dragons-and-dungeons-{last8}` link ({last8} = last 8 hex of the chapter id) and prompt for his pick; do not re-present the decision — it is already posed in the chapter's closing beat."
+@@ -377,10 +363,6 @@
+       {
+         "id": "advance-status",
+         "requirement": "After Alan's pick is captured, brief and draft the next chapter from his captured choice (the dreamer and writer passes both continue from his choice)."
+-      },
+-      {
+-        "id": "session-end",
+-        "requirement": "Bump the session only at a real play-session boundary, and only explicitly: `bun ops awen end-session --game dragons-and-dungeons`. Never automatic, never per-turn. Every subsequent `commit-turn` payload then carries the new `sessionNumber`."
+       }
+     ]
+   },
