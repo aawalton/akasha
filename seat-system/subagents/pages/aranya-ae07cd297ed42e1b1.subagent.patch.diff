@@ -18,17 +18,22 @@ index 0000000000000000000000000000000000000000..6c509fbbedd0ff87ec2c773de50b95ab
 +  ]
 +}
 diff --git a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
-index 88512a614cfa90ee2a9f9dd4ef6c55afbab7f493..72c805a078386c45c03b29b0069afb90fd47f745 100644
+index 71def907c0299a57724bb88f0c1d60b112375e3f..8d71e0819431533313374cf088c82bff556e24ba 100644
 --- a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
 +++ b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
-@@ -7,6 +7,6 @@ index 93aa346c901e9f3adc41820d5ead13f451bf1f46..83edcc19f24665c57c8884b03658192b
+@@ -57,8 +57,12 @@ index 93aa346c901e9f3adc41820d5ead13f451bf1f46..df90cc4aaf626ceae63fb48c36c594ed
     replicas: 1,
     containerPort: 8080,
  -  manifestCode:
---    "service-system/cluster-services/pages/kube-state-metrics/kube-state-metrics.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +-    "infrastructure/telemetry/kube-state-metrics/kube-state-metrics.manifest.code.ts",
++=======
+ -    "service-system/cluster-services/pages/kube-state-metrics/kube-state-metrics.cluster-service.code.attachment.ts",
+ +<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
  +  manifestSlug: "kube-state-metrics",
-  } as const satisfies ClusterService
+ +=======
+ +  manifestCode: "infrastructure/telemetry/kube-state-metrics/kube-state-metrics.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/kube-state-metrics/kube-state-metrics.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/kube-state-metrics/kube-state-metrics.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 6c509fbbedd0ff87ec2c773de50b95ab7d8b4fc9..0000000000000000000000000000000000000000
@@ -49,18 +54,14 @@ index 6c509fbbedd0ff87ec2c773de50b95ab7d8b4fc9..00000000000000000000000000000000
 -  ]
 -}
 diff --git a/service-system/cluster-services/pages/kube-state-metrics/kube-state-metrics.cluster-service.ts b/service-system/cluster-services/pages/kube-state-metrics/kube-state-metrics.cluster-service.ts
-index 93aa346c901e9f3adc41820d5ead13f451bf1f46..df90cc4aaf626ceae63fb48c36c594ed98b1f901 100644
+index 93aa346c901e9f3adc41820d5ead13f451bf1f46..83edcc19f24665c57c8884b03658192b06c3bf42 100644
 --- a/service-system/cluster-services/pages/kube-state-metrics/kube-state-metrics.cluster-service.ts
 +++ b/service-system/cluster-services/pages/kube-state-metrics/kube-state-metrics.cluster-service.ts
-@@ -11,6 +11,9 @@ export const kubeStateMetrics = {
+@@ -11,6 +11,5 @@ export const kubeStateMetrics = {
    image: "registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0",
    replicas: 1,
    containerPort: 8080,
 -  manifestCode:
 -    "service-system/cluster-services/pages/kube-state-metrics/kube-state-metrics.cluster-service.code.attachment.ts",
-+<<<<<<< what this change would leave
 +  manifestSlug: "kube-state-metrics",
-+=======
-+  manifestCode: "infrastructure/telemetry/kube-state-metrics/kube-state-metrics.manifest.code.ts",
-+>>>>>>> what HEAD holds
  } as const satisfies ClusterService
