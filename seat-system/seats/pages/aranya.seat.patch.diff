@@ -1,8 +1,8 @@
 diff --git a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
-index 33103d3483968d20ea56022c6f5cdc0c157adae0..e3de5a4a95a887e33ae0d65f36a12d317ee1253c 100644
+index 33103d3483968d20ea56022c6f5cdc0c157adae0..9dcd45082bf2c7bb917c817dba9db8dbb5103996 100644
 --- a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
 +++ b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
-@@ -16,7 +16,7 @@ export const aranyaClusterCleanup = {
+@@ -16,12 +16,12 @@ export const aranyaClusterCleanup = {
      {
        statement: "All cluster-specific files are in the cluster/ folder.",
        workingMemory:
@@ -11,3 +11,9 @@ index 33103d3483968d20ea56022c6f5cdc0c157adae0..e3de5a4a95a887e33ae0d65f36a12d31
      },
      {
        statement: "The cluster/ folder passes the `folder-matches-a-shape` check.",
+       workingMemory:
+-        "`openingWith` refuses a folder whose name equals or opens with the name of the page above it, so `cluster-api`, `cluster-manifests`, `cluster-operations`, `cluster-provisioning` and `cluster-services` become `api`, `manifests`, `operations`, `provisioning` and `services`. Folder names only; slugs and npm names are untouched. `infrastructure` already fails: 26 of its 52 children are declared nowhere, and `workspace-package/git-transport` is a declared part sitting at the repo top.",
++        "`openingWith` refuses a folder whose name equals or opens with the name of the page above it, so `cluster-api`, `cluster-manifests`, `cluster-operations`, `cluster-provisioning` and `cluster-services` lose the prefix. Folder names only; slugs and npm names are untouched. That answers 23 of the 103 refusals here; the roots also fail on `tunnel-routes.ts`, `nodes.json`, an undeclared `cluster-secrets` and two domain pages in `cluster-provisioning`. 1137 refuse repo-wide.",
+     },
+     {
+       statement: "Every module building Kubernetes resources is a manifest page.",
