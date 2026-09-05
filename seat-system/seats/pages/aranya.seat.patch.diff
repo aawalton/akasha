@@ -223,3 +223,11 @@ index 6fd04073bdbbcca14d13b25ae16cf6559cd476c8..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../infrastructure/cluster-api
 \ No newline at end of file
+diff --git a/infrastructure/cluster-manifests/cluster-manifests b/infrastructure/cluster-manifests/cluster-manifests
+deleted file mode 120000
+index ade747d295ae937f3f1773581e48139a928f95a1..0000000000000000000000000000000000000000
+--- a/infrastructure/cluster-manifests/cluster-manifests
++++ /dev/null
+@@ -1 +0,0 @@
+-../../infrastructure/cluster-manifests
+\ No newline at end of file
