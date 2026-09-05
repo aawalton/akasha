@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/temper/temper-watcher/watcher-side-file/watcher-side-file.module.ts b/temper/temper-watcher/watcher-side-file/watcher-side-file.module.ts
-index 246b9f88a6c762cad2830ff0c586fca05ad39845..5debf02b8addb52ed41ce6756992536a1401e64a 100644
+index 246b9f88a6c762cad2830ff0c586fca05ad39845..26ae027c9e8f452d0d7e0224206754a00dedff89 100644
 --- a/temper/temper-watcher/watcher-side-file/watcher-side-file.module.ts
 +++ b/temper/temper-watcher/watcher-side-file/watcher-side-file.module.ts
 @@ -22,7 +22,7 @@ export const watcherSideFile = {
@@ -22,3 +22,12 @@ index 246b9f88a6c762cad2830ff0c586fca05ad39845..5debf02b8addb52ed41ce6756992536a
      },
      {
        invariantKind: "departure",
+@@ -42,7 +43,7 @@ export const watcherSideFile = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A caller may hand in what reads and writes the file.",
++      statement: "A caller may hand in the disk that reads and writes the file.",
+     },
+     {
+       invariantKind: "absence",
