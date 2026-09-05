@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { WorldMechanic } from "../mechanics/world-mechanic.page-type.ts"
+import type { WorldMechanic } from "../world-mechanic.page-type.ts"
 
 export type WorldMiracle = WorldMechanic
 
