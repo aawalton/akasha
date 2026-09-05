@@ -14,11 +14,12 @@ export const inferenceRunStore = {
     {
       invariantKind: "departure",
       statement:
-        "An audio operation records what that operation made as audio and every other as an image.",
+        "An audio operation records the output that operation made as audio and every other as an image.",
     },
     {
       invariantKind: "departure",
-      statement: "What a run made is hashed into the record rather than trusted from the path.",
+      statement:
+        "The output a run made is hashed into the record rather than trusted from the path.",
     },
     {
       invariantKind: "departure",
