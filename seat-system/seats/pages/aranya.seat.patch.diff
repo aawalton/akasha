@@ -359,3 +359,11 @@ index 2d88de6ff38e8db1d69362e1277068028080b90f..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../named-for
 \ No newline at end of file
+diff --git a/object-store/object-store b/object-store/object-store
+deleted file mode 120000
+index ae862537472ab7421d0142ea53bc2b83c5224575..0000000000000000000000000000000000000000
+--- a/object-store/object-store
++++ /dev/null
+@@ -1 +0,0 @@
+-../../object-store
+\ No newline at end of file
