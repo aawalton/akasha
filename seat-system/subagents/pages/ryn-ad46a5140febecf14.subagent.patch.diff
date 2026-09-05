@@ -1,5 +1,5 @@
 diff --git a/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts b/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
-index d0dffe344ab02a0496cba203a2eb031199585c98..434e3d09fe927bfe9acc782f529b474ef02bf5c2 100644
+index d0dffe344ab02a0496cba203a2eb031199585c98..22f67b7d428c18a68db00a24300aac17edab457c 100644
 --- a/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
 +++ b/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
 @@ -25,7 +25,7 @@ export const inventoryRuleCalling = {
@@ -18,6 +18,15 @@ index d0dffe344ab02a0496cba203a2eb031199585c98..434e3d09fe927bfe9acc782f529b474e
 -      statement: "A locked rule refuses the acts that change it until the call says to force them.",
 +      statement:
 +        "A locked rule refuses the acts that change that rule until the call says to force those acts.",
+     },
+     {
+       invariantKind: "departure",
+@@ -67,7 +68,7 @@ export const inventoryRuleCalling = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A fault thrown by what this calls is answered with what it said.",
++      statement: "A fault thrown by what this calls is answered with what that fault said.",
      },
      {
        invariantKind: "departure",
