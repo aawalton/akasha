@@ -1,0 +1,16 @@
+diff --git a/checks/modules/refusal-text/refusal-text.module.code.ts b/checks/modules/refusal-text/refusal-text.module.code.ts
+index 955764b1dc8baff4a01b30f12234736e0471c146..f44cb3a5848b5399dc4428611235b8e32b85e235 100644
+--- a/checks/modules/refusal-text/refusal-text.module.code.ts
++++ b/checks/modules/refusal-text/refusal-text.module.code.ts
+@@ -1,9 +1,10 @@
+ import { AKASHA, rootFor, rootsHere } from "@akasha/pages-system/checkout-roots"
+ import { textAt, valueAt } from "@akasha/pages-system/page-value"
+-import { HOLE } from "../../../markdown-pages/markdown-document-holes/markdown-document-holes.module.code.ts"
+ 
+ const REFUSALS = "checks/refusals/pages"
+ 
++const HOLE = /\{([^{}]*)\}/g
++
+ export class HoleMismatch extends Error {}
+ 
+ export function fill(body: string, values: Readonly<Record<string, string>>): string {
