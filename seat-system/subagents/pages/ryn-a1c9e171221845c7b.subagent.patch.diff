@@ -1,0 +1,14 @@
+diff --git a/temper/temper-characters-capture-addon/character-capture-class-map/character-capture-class-map.module.ts b/temper/temper-characters-capture-addon/character-capture-class-map/character-capture-class-map.module.ts
+index 1e5106e40b3240d95bc380e3c823bd4c6f03262f..543b8123cee8d0c517074f57dffba540fc116d57 100644
+--- a/temper/temper-characters-capture-addon/character-capture-class-map/character-capture-class-map.module.ts
++++ b/temper/temper-characters-capture-addon/character-capture-class-map/character-capture-class-map.module.ts
+@@ -11,9 +11,5 @@ export const characterCaptureClassMap = {
+       invariantKind: "constraint",
+       statement: "A place in this table is the number a saved build hash carries.",
+     },
+-    {
+-      invariantKind: "gap",
+-      statement: "An entry moved to another place misreads every build hash already saved.",
+-    },
+   ],
+ } as const satisfies Module
