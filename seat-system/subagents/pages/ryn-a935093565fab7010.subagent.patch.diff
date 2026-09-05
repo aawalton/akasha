@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/design/tokens/design-tokens.workspace-package.ts b/design/tokens/design-tokens.workspace-package.ts
+index 2ca1f3a43448dbbafca3c43d2bf1291de9ccfa67..494bfcfd05afc76c6e83259a1643b184f7596f7c 100644
+--- a/design/tokens/design-tokens.workspace-package.ts
++++ b/design/tokens/design-tokens.workspace-package.ts
+@@ -14,7 +14,7 @@ export const designTokens = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here says what any color is used for.",
++      statement: "Nothing here names the use of any color.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
