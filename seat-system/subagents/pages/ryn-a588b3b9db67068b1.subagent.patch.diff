@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/chapters-of-the-book-above/chapters-of-the-book-above.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/chapters-of-the-book-above/chapters-of-the-book-above.folder-shape.ts
+index 8b4364ca2377f8194637d6bcc92a1fffa2845f46..fe41f8d99771e5b1e2f1a99bbd9cda592664e12d 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/chapters-of-the-book-above/chapters-of-the-book-above.folder-shape.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/chapters-of-the-book-above/chapters-of-the-book-above.folder-shape.ts
+@@ -23,7 +23,8 @@ export const chaptersOfTheBookAbove = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every chapter in the folder names the book above as what holds that chapter.",
++      statement:
++        "Every chapter in the folder names the book above as the collection holding that chapter.",
+     },
+     {
+       invariantKind: "departure",
