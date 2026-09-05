@@ -16,7 +16,7 @@ export const temperEsoGenerateHudSceneCatalog = {
   helpNotes: [
     "the checkout defaults to what `CODE_ROOT` names, and to this repository where that names nothing.",
     "the source is the one clone file declaring the main gameplay scene, and one record is taken for each distinct component it names.",
-    "what counts as a component and what shape a record takes come from the package declaring them, so a run parses by the rules standing beside it rather than by the tree's.",
+    "what counts as a component and what shape a record takes come from the package declaring them, so a run parses by the rules sitting beside it rather than by the tree's.",
     "the records are written as three modules divided by how the game hides the part: a fragment group, a scene fragment, or a top-level control.",
     "a component the game parents to GuiRoot and creates at runtime is outside a single-file walk, and so outside this catalog.",
     "a scene source naming no component refuses the call, because an empty catalog reads to every consumer as a clean answer.",
@@ -29,7 +29,7 @@ export const temperEsoGenerateHudSceneCatalog = {
     },
     {
       invariantKind: "departure",
-      statement: "A run parses by the rules standing beside it rather than by the tree's.",
+      statement: "A run parses by the rules sitting beside it rather than by the tree's.",
     },
     {
       invariantKind: "departure",

@@ -14,8 +14,7 @@ export const temperEsoGenerateColonMethods = {
     },
     {
       said: "--code-root <path>",
-      takes:
-        "the checkout the census is staged against, for the page ids and bodies already standing",
+      takes: "the checkout the census is staged against, for the page ids and bodies already there",
     },
     {
       said: "--stage <path>",
@@ -25,7 +24,7 @@ export const temperEsoGenerateColonMethods = {
   ],
   helpNotes: [
     "the scan takes every method the source defines on a class, and the census is the distinct names rather than the receivers.",
-    "nothing reads this census today, which is why it does not stand in akasha. It answered receiver provenance for two checks over the Lua compiler that did not cross, and this command is the rule the census would be made by, kept standing so a consumer arriving again has one.",
+    "nothing reads this census today, which is why it is not in akasha. It answered receiver provenance for two checks over the Lua compiler that did not cross, and this command is the rule the census would be made by, kept in place so a consumer arriving again has one.",
     "one file of the whole census is many times the fifteen thousand byte akasha ceiling, so it is written as numbered runs with an aggregate composing them, and how many digits a run's ordinal carries follows from how many runs there are.",
     "nothing lands here. The bodies are staged outside akasha and the writing call that lands them is named, because that call is what judges them against the checks and commits them.",
     "landing them puts about twelve thousand method names into the tree that nothing asks a question of, so land them when a consumer arrives rather than before.",
@@ -46,7 +45,7 @@ export const temperEsoGenerateColonMethods = {
     },
     {
       invariantKind: "departure",
-      statement: "The command stands while nothing reads what it would make.",
+      statement: "The command remains while nothing reads what it would make.",
     },
     {
       invariantKind: "absence",

@@ -92,7 +92,7 @@ export function temperEsoGenerateColonMethods(argv: readonly string[] = []): Ans
   }
   if (names.size === 0) {
     return refused(
-      `no colon-method stands in ${String(luaFiles.length)} Lua file(s) under ${esoRoot}. ` +
+      `no colon-method is in ${String(luaFiles.length)} Lua file(s) under ${esoRoot}. ` +
         "An empty census reads to every consumer as a clean answer, so nothing was staged.",
       DATA
     )
@@ -139,15 +139,15 @@ export function temperEsoGenerateColonMethods(argv: readonly string[] = []): Ans
 
   if (staged.landAt === null) {
     report.push(
-      "every body above already stands as this run rendered it, so there is nothing to land",
+      "every body above is already what this run rendered, so there is nothing to land",
       `that is the round trip: the ${String(runs)} runs compose back to the ${String(spec.names.length)} names one file would have held`
     )
     return answering(report, [], 0)
   }
 
   report.push(
-    `nothing has landed. ${String(staged.changed.length)} file(s) differ from what stands; to land them, run: bash ${staged.landAt}`,
-    `nothing in the tree reads ${BINDING} today, so landing this stands an authority with no consumer`,
+    `nothing has landed. ${String(staged.changed.length)} file(s) differ from what is there; to land them, run: bash ${staged.landAt}`,
+    `nothing in the tree reads ${BINDING} today, so landing this sets up an authority with no consumer`,
     `the temper-build-deploy-checks package manifest would want a \`./${STEM}\` entry pointing at the aggregate's code, and its workspace-package page would want every run's slug in its part slugs; nothing here writes either`
   )
 
