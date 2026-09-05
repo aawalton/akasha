@@ -9,7 +9,7 @@ export const violationReporting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A run that certifies nothing says so before it says what it found.",
+      statement: "A run that certifies nothing says so before that run says what that run found.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const violationReporting = {
     },
     {
       invariantKind: "departure",
-      statement: "The shortfall is said after the violations rather than before them.",
+      statement: "The shortfall is said after the violations rather than before those violations.",
     },
     {
       invariantKind: "departure",
@@ -42,11 +42,13 @@ export const violationReporting = {
     },
     {
       invariantKind: "departure",
-      statement: "A violation is said as file, line and message where the violation carries them.",
+      statement:
+        "A violation is said as file, line and message where the violation carries file, line and message.",
     },
     {
       invariantKind: "departure",
-      statement: "Violations are grouped only where the caller says what to group them by.",
+      statement:
+        "Violations are grouped only where the caller says what to group those violations by.",
     },
     {
       invariantKind: "departure",
@@ -58,7 +60,7 @@ export const violationReporting = {
     },
     {
       invariantKind: "departure",
-      statement: "The streams written to are the caller's where the caller named them.",
+      statement: "The streams written to are the caller's where the caller named those streams.",
     },
   ],
 } as const satisfies Module
