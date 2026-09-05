@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-catalog/temper-catalog.domain.ts b/temper/temper-catalog/temper-catalog.domain.ts
+index f4c59d97bb1f362967c2b5cded1c8f12379d98fe..e80ad9795f068ef3804fa682202353b8978a31ab 100644
+--- a/temper/temper-catalog/temper-catalog.domain.ts
++++ b/temper/temper-catalog/temper-catalog.domain.ts
+@@ -18,7 +18,7 @@ export const temperCatalog = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Every page here states what the game holds for everybody.",
++      statement: "Every page here states a thing the game holds for everybody.",
+     },
+     {
+       invariantKind: "departure",
