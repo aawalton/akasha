@@ -17,6 +17,7 @@ export const test = {
     "named nothing, it runs every test in the repository.",
     "--named matches a whole test name rather than a pattern or a part of one.",
     "--named naming no test runs nothing rather than refusing.",
+    "--named carries what the runner said about the test rather than a pointer back here.",
   ],
   invariants: [
     {
@@ -68,6 +69,23 @@ export const test = {
     {
       invariantKind: "departure",
       statement: "A run naming a test is not weighed against the test files under the paths named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run naming one test carries what the runner printed about that test.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run naming no test points at naming one rather than carrying what was printed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a named run carries is bounded in lines and in bytes alike.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A named run whose output holds no failing line carries that output from its head.",
     },
   ],
 } as const satisfies Command
