@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
-index 85a1910b8f004f074c44760092c9010b53fd6d1e..8fc867d50d874f25ceeffae3eae56b8bf60de7d9 100644
+index 85a1910b8f004f074c44760092c9010b53fd6d1e..2e38381888a7a968d0a34aafcbf0006d295e2900 100644
 --- a/code-system/code-tests/code-tests.module.ts
 +++ b/code-system/code-tests/code-tests.module.ts
 @@ -12,7 +12,7 @@ export const codeTests = {
@@ -71,12 +71,17 @@ index 85a1910b8f004f074c44760092c9010b53fd6d1e..8fc867d50d874f25ceeffae3eae56b8b
      },
      {
        invariantKind: "departure",
-@@ -151,7 +151,7 @@ export const codeTests = {
+@@ -151,11 +151,11 @@ export const codeTests = {
      },
      {
        invariantKind: "departure",
 -      statement: "What the change files is written over that copy.",
 +      statement: "The filings the change files are written over that copy.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the change files is written by the rule a landing files by.",
++      statement: "The filings the change files are written by the rule a landing files by.",
      },
      {
        invariantKind: "departure",
