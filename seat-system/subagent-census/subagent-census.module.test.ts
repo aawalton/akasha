@@ -254,6 +254,15 @@ test("a transcript entry naming no agent id joins to no page and changes no judg
   world.sweep()
 })
 
+// THE CONTROL IS THE REASON RATHER THAN A SECOND JUDGING. Comparing against a run seeded with no
+// ids reads the same code, so a rule turning the transcript into proof of an end moves the control
+// with it and the test passes blind. Every stale verdict names the rule that reached it, and only
+// two rules may, so the reasons are what this holds.
+const STALE_WHYS = [
+  "its take-down ran and the landing dropped it, which the seat's subagent-presence log says",
+  "no process at all carries its seat's agent id, so the seat that would host it is gone",
+]
+
 test("no page becomes stale from a transcript, whatever that transcript names", () => {
   const root = rooted()
   const base = world.rootFor("subagent-census-logs-")
@@ -264,13 +273,16 @@ test("no page becomes stale from a transcript, whatever that transcript names", 
     [entry({ agentId: OTHER_ID, cmdline: CHILD, pid: 9 })],
     [entry({ agentId: SEAT_ID, actingAgentId: ACTING, cmdline: TASK, pid: 9 })],
   ]
+  let counted = 0
   for (const seen of seats) {
-    const bare = staleAmong(judgedWith(root, seen, base, [])).map((one) => one.page.slug)
     for (const own of [[], [""], [OWN], [AGAIN], [OWN, AGAIN]]) {
-      const said = staleAmong(judgedWith(root, seen, base, own)).map((one) => one.page.slug)
-      expect(said.every((slug) => bare.includes(slug))).toBe(true)
+      for (const one of staleAmong(judgedWith(root, seen, base, own))) {
+        expect(STALE_WHYS).toContain(one.why)
+        counted += 1
+      }
     }
   }
+  expect(counted).toBeGreaterThan(0)
   world.sweep()
 })
 
