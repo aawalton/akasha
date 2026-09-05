@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-commands/temper-eso-generate-typings/temper-eso-generate-typings.command.ts b/temper/temper-commands/temper-eso-generate-typings/temper-eso-generate-typings.command.ts
+index f2a288cbb01a48683b3227a1d291dff7ba62e4a6..a2cfbebe96075f1486b6900f932d54dc843126c5 100644
+--- a/temper/temper-commands/temper-eso-generate-typings/temper-eso-generate-typings.command.ts
++++ b/temper/temper-commands/temper-eso-generate-typings/temper-eso-generate-typings.command.ts
+@@ -38,7 +38,7 @@ export const temperEsoGenerateTypings = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A written file names the command that wrote it and the API version it was built from.",
++        "A written file names the command that wrote that file and the API version that file was built from.",
+     },
+     {
+       invariantKind: "departure",
