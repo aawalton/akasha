@@ -471,3 +471,11 @@ index ade27c356ebf88fc1c666c58c1ca327d21ba3e1c..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../story/ui
 \ No newline at end of file
+diff --git a/story/wandering-inn/wandering-inn b/story/wandering-inn/wandering-inn
+deleted file mode 120000
+index 6d8c0d88ee62b0ef1bdacf1c75f37322bcbd5e1d..0000000000000000000000000000000000000000
+--- a/story/wandering-inn/wandering-inn
++++ /dev/null
+@@ -1 +0,0 @@
+-../../story/wandering-inn
+\ No newline at end of file
