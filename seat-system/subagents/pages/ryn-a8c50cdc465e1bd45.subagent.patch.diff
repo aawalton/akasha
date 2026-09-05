@@ -1,0 +1,15 @@
+diff --git a/command-system/commands/move/move.command.ts b/command-system/commands/move/move.command.ts
+index 85c5b252949fd1021270065f2227e4c7e81e0558..79eb554ce66302d26b64a7186897f4a2c565ef32 100644
+--- a/command-system/commands/move/move.command.ts
++++ b/command-system/commands/move/move.command.ts
+@@ -260,10 +260,6 @@ export const move = {
+       invariantKind: "departure",
+       statement: "A body a move carries is repointed where that body spells a path that moved.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A relative path resolving to a path that moved is repointed.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A path spelled from the folder of the file naming that path is repointed.",
