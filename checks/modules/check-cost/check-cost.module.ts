@@ -64,7 +64,7 @@ export const checkCost = {
     },
     {
       invariantKind: "gap",
-      statement: "A run's peak carries what earlier runs left resident.",
+      statement: "A run's peak carries the memory earlier runs left resident.",
     },
     {
       invariantKind: "gap",
