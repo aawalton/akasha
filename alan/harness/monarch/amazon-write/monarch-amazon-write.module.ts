@@ -13,8 +13,7 @@ export const monarchAmazonWrite = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What was written is read back from Monarch before what was written is called written.",
+      statement: "The note written is read back from Monarch before that note is called written.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +36,7 @@ export const monarchAmazonWrite = {
     {
       invariantKind: "departure",
       statement:
-        "Nothing is written at all where the caller did not ask to write, and what would have happened is said instead.",
+        "Nothing is written at all where the caller did not ask to write, and the writes are said instead.",
     },
     {
       invariantKind: "departure",
