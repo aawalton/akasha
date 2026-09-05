@@ -47,6 +47,19 @@ index 7fd039f889b3232228314bcbb0af7f7fea4bcf12..ceaf5cf5c684f5f653e6c44635cdbeab
    claim:
      "`collection` declares the unit a length is counted in and declares no length, so every kind of collection that measures itself has to define a length property of its own.",
    evidence:
+diff --git a/domains/findings/pages/a-sync-run-record-was-ablated-on-a-premise-that-has-since-turned-false.finding.ts b/domains/findings/pages/a-sync-run-record-was-ablated-on-a-premise-that-has-since-turned-false.finding.ts
+index bedece87faa8e32482f3e61c8ffa8f141650a951..95a5f757a3307922e419e910837d478fa49d472e 100644
+--- a/domains/findings/pages/a-sync-run-record-was-ablated-on-a-premise-that-has-since-turned-false.finding.ts
++++ b/domains/findings/pages/a-sync-run-record-was-ablated-on-a-premise-that-has-since-turned-false.finding.ts
+@@ -4,7 +4,7 @@ export const aSyncRunRecordWasAblatedOnAPremiseThatHasSinceTurnedFalse = {
+   id: "01a0687b-de90-7001-a005-4c7dd05a8ea1",
+   pageTypeSlug: "finding",
+   slug: "a-sync-run-record-was-ablated-on-a-premise-that-has-since-turned-false",
+-  domainSlug: "domain/collection-system",
++  domainSlug: "page-type/collection",
+   claim:
+     "A rebuild that ablates behaviour states its reason in the code, and that reason can stop being true without anything failing. `akasha/great-courses/sync-run` records no sync run and says so, on the ground that the record lives outside akasha. The record now lives inside akasha. Two of the three syncs stopped recording runs and nothing reported it, because a sync that records nothing and a sync that records a clean run both exit zero.",
+   evidence:
 diff --git a/domains/findings/pages/six-thousand-collections-sit-in-sidecars-that-collection-system-was-built-to-hold.finding.ts b/domains/findings/pages/six-thousand-collections-sit-in-sidecars-that-collection-system-was-built-to-hold.finding.ts
 index c290693ba672619a089830fb737622d7336b94f3..d044c99febcee19964d702bfe4c5d1e5d72ed9c8 100644
 --- a/domains/findings/pages/six-thousand-collections-sit-in-sidecars-that-collection-system-was-built-to-hold.finding.ts
