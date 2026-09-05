@@ -345,3 +345,17 @@ index 072c6a0cd044618fb71707e702d4e9ebb315a62b..030da25ea1f53e8238edb9524bd10eff
        "opsAgentTree.runReset",
        "opsAgentTree.runResume",
      ])
+diff --git a/editor-extension/seat-toggles/seat-toggles.module.ts b/editor-extension/seat-toggles/seat-toggles.module.ts
+index 5f986ec8a985f2296597194bf1c4f789c1cd9f68..9afb43fed76880ef2072f78af2b6ddf20d21fea4 100644
+--- a/editor-extension/seat-toggles/seat-toggles.module.ts
++++ b/editor-extension/seat-toggles/seat-toggles.module.ts
+@@ -4,8 +4,7 @@ export const seatToggles = {
+   id: "01a0686b-bfe9-7373-bdd9-fdc5b5f86ce5",
+   pageTypeSlug: "module",
+   slug: "seat-toggles",
+-  definition:
+-    "the steps a run, a place or a reset asks of a seat, and the line a terminal attaches by",
++  definition: "the steps a run or a reset asks of a seat, and the line a terminal attaches by",
+   code: "ts",
+   test: "ts",
+   testFixtures: "ts",
