@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/monarch-holdings/monarch-holding.page-type.ts b/alan/harness/monarch/monarch-holdings/monarch-holding.page-type.ts
+index aeedeebe54951511896c08e1743eda042042e639..8100c8b24dfb14fa138d5e800e9aeb1463ca1bad 100644
+--- a/alan/harness/monarch/monarch-holdings/monarch-holding.page-type.ts
++++ b/alan/harness/monarch/monarch-holdings/monarch-holding.page-type.ts
+@@ -42,7 +42,8 @@ export const monarchHolding = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Monarch reports a holding only for an account that says it has holdings.",
++      statement:
++        "Monarch reports a holding only for an account that says that account has holdings.",
+     },
+     {
+       invariantKind: "departure",
