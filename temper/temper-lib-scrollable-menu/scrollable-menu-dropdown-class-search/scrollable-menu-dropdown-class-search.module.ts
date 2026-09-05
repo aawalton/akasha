@@ -14,7 +14,7 @@ export const scrollableMenuDropdownClassSearch = {
     {
       invariantKind: "departure",
       statement:
-        "Right-clicking a row runs the entry's context-menu callback instead of selecting it.",
+        "Right-clicking a row runs the entry's context-menu callback instead of selecting that entry.",
     },
     {
       invariantKind: "departure",
