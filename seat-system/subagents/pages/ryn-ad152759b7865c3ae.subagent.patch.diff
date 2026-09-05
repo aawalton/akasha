@@ -1,0 +1,14 @@
+diff --git a/alan/harness/surplus/surplus-fall-ticking/surplus-fall-ticking.module.ts b/alan/harness/surplus/surplus-fall-ticking/surplus-fall-ticking.module.ts
+index 7511c2e417d836e55bb847e4447872a0f3c009b7..bb23b8d6d956ecfa4b7caa0900de2c440921acff 100644
+--- a/alan/harness/surplus/surplus-fall-ticking/surplus-fall-ticking.module.ts
++++ b/alan/harness/surplus/surplus-fall-ticking/surplus-fall-ticking.module.ts
+@@ -11,7 +11,8 @@ export const surplusFallTicking = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A rung is said only where it is worse than the worst rung already said today.",
++      statement:
++        "A rung is said only where that rung is worse than the worst rung already said today.",
+     },
+     {
+       invariantKind: "departure",
