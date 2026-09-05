@@ -29,10 +29,7 @@ export const claudeAccountReading = {
       invariantKind: "departure",
       statement: "An account's slug is read off the name of that account's page file.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The claude-account page type is reached by its id rather than by a spelled slug.",
-    },
+
     {
       invariantKind: "departure",
       statement:

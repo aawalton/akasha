@@ -96,10 +96,7 @@ export const claudeAccountMarking = {
       invariantKind: "departure",
       statement: "Writing one account's mark lists no directory the accounts are filed under.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The claude-account page type is reached by its id rather than by a spelled slug.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A mark is written under the key akasha declares that value as.",
