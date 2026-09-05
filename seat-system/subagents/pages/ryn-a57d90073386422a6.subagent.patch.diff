@@ -23,7 +23,7 @@ index c76c054000e921424babde7cefc1a45274e28313..64d342a5ecbf163a86832a78a58fc97f
      {
        invariantKind: "gap",
 diff --git a/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts b/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
-index a40233a55e4d4f23b193b72043ba90041824fb1f..f9857f8bf5d93b9dc5139a46b50f18566a6fa24d 100644
+index a40233a55e4d4f23b193b72043ba90041824fb1f..195eb43775f96285df19e636d87a10fa96213e83 100644
 --- a/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
 +++ b/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
 @@ -33,7 +33,7 @@ export const pendingMaintaining = {
@@ -41,6 +41,16 @@ index a40233a55e4d4f23b193b72043ba90041824fb1f..f9857f8bf5d93b9dc5139a46b50f1856
        invariantKind: "departure",
 -      statement: "A turn starts in a transcript rather than in a store this writes.",
 +      statement: "A turn starts in a transcript rather than in a store this module writes.",
+     },
+     {
+       invariantKind: "departure",
+@@ -62,7 +62,8 @@ export const pendingMaintaining = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "This writes into no transcript folder, so a transcript run triggers no other.",
++      statement:
++        "This module writes into no transcript folder, so a transcript run triggers no other.",
      },
      {
        invariantKind: "departure",
