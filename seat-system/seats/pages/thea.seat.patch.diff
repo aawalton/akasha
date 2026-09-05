@@ -1,12 +1,19 @@
 diff --git a/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts b/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts
-index dd8ee837932061544dfe4d8e686139f7484b9825..5247f8232652f5abf531d160efbb95766e359d83 100644
+index dd8ee837932061544dfe4d8e686139f7484b9825..c97f6cb297fac2ab0b0ae10f406fb33263737b01 100644
 --- a/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts
 +++ b/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts
-@@ -10,7 +10,7 @@ export const calculationImportsOnlyTypes = {
+@@ -8,9 +8,14 @@ export const calculationImportsOnlyTypes = {
+   code: "ts",
+   test: "ts",
    runsOnPatch: true,
++<<<<<<< what this change would leave
    runsOnWorktree: true,
    runsOnDeploy: true,
 -  runsOnAudit: true,
++=======
++  runsOnWorktree: false,
++  runsOnDeploy: false,
++>>>>>>> what HEAD holds
 +  runsOnAudit: false,
    invariants: [
      {
