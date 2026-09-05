@@ -12,7 +12,7 @@ index 51987aa8c2dd12102189ae0df3cb3281664de40d..a8ca9593aee9a0925c937a29e9dc353d
        const why = cause instanceof Error ? cause.message : String(cause)
        return { unread: `${why}, so none were repointed` }
 diff --git a/graph/asking/graph-asking.module.test.ts b/graph/asking/graph-asking.module.test.ts
-index 1255ca9cb59b33b89ca99e62d041658ef1e2b121..c68711e9bea73e8f7338db3f262f933a69458521 100644
+index 1255ca9cb59b33b89ca99e62d041658ef1e2b121..aa4cae5d7189e7b032e0d0501f848eb567a20d56 100644
 --- a/graph/asking/graph-asking.module.test.ts
 +++ b/graph/asking/graph-asking.module.test.ts
 @@ -61,12 +61,12 @@ function bodiesIn(root: string): PageOf {
@@ -67,6 +67,15 @@ index 1255ca9cb59b33b89ca99e62d041658ef1e2b121..c68711e9bea73e8f7338db3f262f933a
      { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
    ])
    expect(() => edgesInto(TARGET_AT, [RELATION], indexOf(root))).toThrow(
+@@ -254,7 +254,7 @@ test("a closure walks the edges the index it was given answers, and none it does
+   const every = [FIRST_AT, SECOND_AT, THIRD_AT]
+ 
+   expect(
+-    reachingInto([FIRST_AT], [IMPORT_EDGE], indexOver(root, over, bodiesIn(root)), () => true)
++    reachingInto([FIRST_AT], [IMPORT_EDGE], indexOver(over, bodiesIn(root)), () => true)
+   ).toEqual(every)
+   expect(reachingInto([FIRST_AT], [IMPORT_EDGE], indexOf(root))).toEqual([FIRST_AT, SECOND_AT])
+ })
 diff --git a/pages/indexes/answering/index-answering.module.code.ts b/pages/indexes/answering/index-answering.module.code.ts
 index a44f6fc575bf506f9b495a0cb2fd548a825d9977..2a46470895d4940a1f6e3bc9a593069a9a9dde72 100644
 --- a/pages/indexes/answering/index-answering.module.code.ts
