@@ -1,10 +1,8 @@
 import * as path from "node:path"
 import type { ChampionTree, DomainNode } from "../champions-tree/champions-tree.module.code.ts"
-import { akashaRoot, runCommand } from "../harness-call/harness-call.module.code.ts"
+import { commandPath, runCommand } from "../harness-call/harness-call.module.code.ts"
 
 const COMMAND = "domain-tree"
-
-const COMMAND_AT = "commands/domain-tree/domain-tree.command.code.ts"
 
 const CALL_TIMEOUT_MS = 30_000
 
@@ -76,7 +74,7 @@ export function domainTreeIn(said: string): DomainTree {
 // carries news from one that says what is already drawn, and a hash of a parsed tree would cost
 // the parse this is here to save.
 export async function askDomainTree(): Promise<string> {
-  return runCommand(path.join(akashaRoot(), COMMAND_AT), [], {
+  return runCommand(commandPath(COMMAND), [], {
     timeout: CALL_TIMEOUT_MS,
     maxBuffer: MAX_BUFFER,
   })
