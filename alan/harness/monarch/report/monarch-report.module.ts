@@ -29,7 +29,7 @@ export const monarchReport = {
     {
       invariantKind: "departure",
       statement:
-        "A reserving rule is reported by what category already stands on what it caught, grouped by the bank's own words, because that grouping is where one merchant carrying two kinds of money shows.",
+        "A reserving rule is reported by the category already on what it caught, grouped by the bank's words.",
     },
     {
       invariantKind: "departure",
