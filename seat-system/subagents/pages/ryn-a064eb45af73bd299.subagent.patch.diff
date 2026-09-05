@@ -1,0 +1,16 @@
+diff --git a/command-system/commands/drive/drive.command.ts b/command-system/commands/drive/drive.command.ts
+index ca0c2b288e69184eb3459fafe9d7f5bfaeb4b889..c125da75bec87135abf82e4e4fc3d9174c267264 100644
+--- a/command-system/commands/drive/drive.command.ts
++++ b/command-system/commands/drive/drive.command.ts
+@@ -57,10 +57,7 @@ export const drive = {
+       invariantKind: "departure",
+       statement: "The name a fetched file lands under is the name Drive holds for that file.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A folder the call names is read against the repository root.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A call naming no folder writes into the folder the call came from.",
