@@ -56,7 +56,7 @@ export const pageSecretSet = {
     },
     {
       invariantKind: "gap",
-      statement: "What is composed is not decrypted again before it lands.",
+      statement: "What is composed is not decrypted again before what is composed lands.",
     },
     {
       invariantKind: "gap",
