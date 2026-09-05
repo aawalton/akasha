@@ -1,0 +1,12 @@
+diff --git a/service-system/cluster-services/pages/headscale/headscale.cluster-service.ts b/service-system/cluster-services/pages/headscale/headscale.cluster-service.ts
+index 86497ba521da2852c8a4714707c6dc31067d7600..e528e73ffb5a08b9e23d831e4240f71e2cdc112b 100644
+--- a/service-system/cluster-services/pages/headscale/headscale.cluster-service.ts
++++ b/service-system/cluster-services/pages/headscale/headscale.cluster-service.ts
+@@ -12,6 +12,5 @@ export const headscale = {
+   image: "headscale/headscale:0.28.0",
+   replicas: 1,
+   containerPort: 8443,
+-  manifestCode:
+-    "service-system/cluster-services/pages/headscale/headscale.cluster-service.code.attachment.ts",
++  manifestSlug: "headscale",
+ } as const satisfies ClusterService
