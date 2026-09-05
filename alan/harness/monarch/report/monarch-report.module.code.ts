@@ -104,9 +104,9 @@ function categorizeBlock(
   const answers = rows.filter((row) => answered(row.currentCategory))
   const scored = answers.filter((row) => row.date >= from)
   const older = answers.filter((row) => row.date < from)
-  const agree = scored.filter((row) => row.standingCategoryId === wanted)
-  const disagree = scored.filter((row) => row.standingCategoryId !== wanted)
-  const olderAgree = older.filter((row) => row.standingCategoryId === wanted)
+  const agree = scored.filter((row) => row.currentCategoryId === wanted)
+  const disagree = scored.filter((row) => row.currentCategoryId !== wanted)
+  const olderAgree = older.filter((row) => row.currentCategoryId === wanted)
 
   out.push("")
   out.push(`  would fill a row nobody has answered: ${blank.length}`)
