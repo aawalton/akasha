@@ -1,5 +1,5 @@
 diff --git a/editor-extension/agent-forest/agent-forest.module.ts b/editor-extension/agent-forest/agent-forest.module.ts
-index 3315c5b8e00eabd6394a5232da6343964911b3f2..e7dd2a9c244974f5ef6de7363ab9afde1ea57353 100644
+index 3315c5b8e00eabd6394a5232da6343964911b3f2..29edcdafcd12bb66584f53e159f215427e1d141e 100644
 --- a/editor-extension/agent-forest/agent-forest.module.ts
 +++ b/editor-extension/agent-forest/agent-forest.module.ts
 @@ -11,11 +11,11 @@ export const agentForest = {
@@ -13,6 +13,15 @@ index 3315c5b8e00eabd6394a5232da6343964911b3f2..e7dd2a9c244974f5ef6de7363ab9afde
        invariantKind: "departure",
 -      statement: "A seat answering to Alan is a root however it names its parent.",
 +      statement: "A seat answering to Alan is a root however that seat names its parent.",
+     },
+     {
+       invariantKind: "departure",
+@@ -43,7 +43,7 @@ export const agentForest = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Seats are ordered by name and the subagents follow them.",
++      statement: "Seats are ordered by name and the subagents follow those seats.",
      },
      {
        invariantKind: "departure",
