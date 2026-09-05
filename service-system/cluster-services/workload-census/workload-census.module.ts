@@ -9,7 +9,8 @@ export const workloadCensus = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What the cluster runs is asked of the cluster rather than read from a page.",
+      statement:
+        "The workloads the cluster runs are asked of the cluster rather than read from a page.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +19,7 @@ export const workloadCensus = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here changes what the cluster runs.",
+      statement: "Nothing here changes the workloads the cluster runs.",
     },
   ],
 } as const satisfies Module
