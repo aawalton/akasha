@@ -11,7 +11,7 @@ import {
   getAgentInboundMessages,
   type InboundMessageRow,
 } from "../recipient-resolver-inbound/recipient-resolver-inbound.module.code.ts"
-import { reviveViaOps } from "../recipient-resolver-revive/recipient-resolver-revive.module.code.ts"
+import { reviveViaAkasha } from "../recipient-resolver-revive/recipient-resolver-revive.module.code.ts"
 import type {
   RecipientResolverAgentRow,
   RecipientResolverTickDeps,
@@ -43,7 +43,7 @@ export async function defaultRecipientResolverDeps(
       }
       return presence !== "absent"
     },
-    revive: async (agentId, bootPrompt) => reviveViaOps(agentId, bootPrompt, config),
+    revive: async (agentId, bootPrompt) => reviveViaAkasha(agentId, bootPrompt, config),
     reportUnrevivable: async (name, agentId, tellSeat): Promise<void> => {
       if (unrevivableReported.has(agentId)) return
       const told = tellSeat === null ? "Alan" : `\`${tellSeat}\``

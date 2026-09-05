@@ -15,15 +15,17 @@ function assertNever(value: never): never {
 
 const REVIVE_TIMED_OUT = Symbol("revive-timed-out")
 
+const AKASHA = `${REPO_ROOT}/dotfiles/bin/akasha`
+
 export function reviveArgv(agentId: string, bootPrompt: string | undefined): string[] {
-  const argv = ["ops", "seat", "resume", agentId, "--verify", "--json"]
+  const argv = [AKASHA, "seat", "resume", agentId, "--verify", "--json"]
   if (bootPrompt !== undefined && bootPrompt.length > 0) {
     argv.push("--boot-prompt", bootPrompt)
   }
   return argv
 }
 
-export async function reviveViaOps(
+export async function reviveViaAkasha(
   agentId: string,
   bootPrompt: string | undefined,
   config: RecipientResolverConfig
