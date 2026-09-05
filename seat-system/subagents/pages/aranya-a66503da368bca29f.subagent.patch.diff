@@ -10,3 +10,23 @@ index 81baa6403000b2d4655ec711dccd4e72a7fa53b4..7ec558871f490b48878b3bbd71830670
 -    "smilingjenny/smilingjenny-web/smilingjenny-web.cluster-service.code.attachment.ts",
 +  manifestSlug: "smilingjenny-web-manifests",
  } as const satisfies ClusterService
+diff --git a/smilingjenny/smilingjenny-web/tsconfig.json b/smilingjenny/smilingjenny-web/tsconfig.json
+index 13aeec0814c5a7a7e8a32366477391b1a654ec01..6d4eac0383898000b7152305fb8795e67938a621 100644
+--- a/smilingjenny/smilingjenny-web/tsconfig.json
++++ b/smilingjenny/smilingjenny-web/tsconfig.json
+@@ -25,13 +25,14 @@
+     "*/*.stylesheet.ts",
+     ".server/*/*.module.ts",
+     ".server/*/*.module.code.ts",
++    "*/*.manifest.ts",
++    "*/*.manifest.code.ts",
+     ".react-router/types/**/*.ts",
+     ".react-router/types/**/*.tsx",
+     ".react-router/types/**/+types/*.ts",
+     "server.ts",
+     "vite.config.ts",
+     "react-router.config.ts",
+-    "*.cluster-service.code.attachment.ts",
+     "tunnel-routes.ts"
+   ],
+   "exclude": ["node_modules", "dist", "build"]
