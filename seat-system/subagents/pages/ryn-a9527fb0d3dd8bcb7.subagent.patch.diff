@@ -1,0 +1,13 @@
+diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
+index 8272df958bbe720e49c940e7985ada2cb06fca56..dcbb5c60464d99701fb71d40c1203fcdfc6d251c 100644
+--- a/command-system/landing/landing.module.ts
++++ b/command-system/landing/landing.module.ts
+@@ -185,7 +185,7 @@ export const landing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The index is reached only to keep it.",
++      statement: "The index is reached only to keep that index.",
+     },
+     {
+       invariantKind: "departure",
