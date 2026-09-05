@@ -38,7 +38,7 @@ index 287e715ca07036e08f9ab03ed7655b1a1640e9c2..8cba335f1c78c4f62b9395d9d4adac86
        refusals.push(`what \`${named}\` names is said both as \`${first}\` and at \`${named}\``)
      } else {
 diff --git a/google/email/commands/email-command-reading/email-command-reading.module.test.ts b/google/email/commands/email-command-reading/email-command-reading.module.test.ts
-index e8be5ceca90e799f9f4de625ae226acc6a03f331..3caff34bd1afe1b347fe823468261c834d395796 100644
+index e8be5ceca90e799f9f4de625ae226acc6a03f331..a43c1b34baad669b06586b72488a1500617915ac 100644
 --- a/google/email/commands/email-command-reading/email-command-reading.module.test.ts
 +++ b/google/email/commands/email-command-reading/email-command-reading.module.test.ts
 @@ -33,7 +33,7 @@ function givenAt(root: string): Given {
@@ -48,6 +48,15 @@ index e8be5ceca90e799f9f4de625ae226acc6a03f331..3caff34bd1afe1b347fe823468261c83
 -test("a word standing alone fills the flag the command names for it", () => {
 +test("a word alone fills the flag the command names for it", () => {
    expect(readTaking(["18c1f2a3"], NAMING)).toEqual({ one: { [MESSAGE]: "18c1f2a3" }, many: {} })
+ })
+ 
+@@ -41,7 +41,7 @@ test("the flag and the word name the same thing, so saying both is refused", ()
+   expect(refusedIn(["18c1f2a3", MESSAGE, "other"], NAMING)).toContain("said both as")
+ })
+ 
+-test("a second word standing alone is refused rather than passed over", () => {
++test("a second word alone is refused rather than passed over", () => {
+   expect(refusedIn(["one", "two"], NAMING)).toContain("one call names one of these")
  })
  
 diff --git a/google/email/commands/email-command-reading/email-command-reading.module.ts b/google/email/commands/email-command-reading/email-command-reading.module.ts
