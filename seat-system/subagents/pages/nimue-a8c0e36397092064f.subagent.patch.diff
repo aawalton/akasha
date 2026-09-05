@@ -230,6 +230,27 @@ index b02054a820a0ad77f432b7f2af69822261d82ad0..00000000000000000000000000000000
 -    },
 -  ],
 -} as const satisfies Module
+diff --git a/pages/computed-properties/computed-property.page-type.ts b/pages/computed-properties/computed-property.page-type.ts
+index 07fb75fa538fe46797fc09296812287572b47186..a3e86cd5fd000adb40b07bba1209e19f82aaea3b 100644
+--- a/pages/computed-properties/computed-property.page-type.ts
++++ b/pages/computed-properties/computed-property.page-type.ts
+@@ -1,7 +1,7 @@
+ import type { Module } from "@akasha/code-system/module"
+-import type { Holds } from "../formula-properties/properties/holds.select-property.ts"
+ import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
+ import type { PageType } from "../types/page-type.page-type.ts"
++import type { Holds } from "./properties/holds.select-property.ts"
+ 
+ export type ComputedProperty = Module &
+   PageProperty & {
+@@ -21,6 +21,7 @@ export const computedProperty = {
+   definition: "a page property a function works out from the page",
+   pluralSlug: "computed-properties",
+   extendsSlug: ["page-type/module", "page-type/page-property"],
++  partSlugs: ["select-property/holds"],
+   properties: [{ pagePropertySlug: "holds", required: true, many: false }],
+   invariants: [
+     {
 diff --git a/pages/computed-properties/properties/holds.select-property.ts b/pages/computed-properties/properties/holds.select-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..63024ba696b846bccb62c33d9efc417cdcfa3fcf
