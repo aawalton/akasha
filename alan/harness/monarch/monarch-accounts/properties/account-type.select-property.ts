@@ -14,7 +14,7 @@ export const accountType = {
     },
     {
       invariantKind: "departure",
-      statement: "A sort Monarch spells with an underscore is kept as Monarch spells it.",
+      statement: "A sort Monarch spells with an underscore is kept as Monarch spells that sort.",
     },
   ],
 } as const satisfies SelectProperty
