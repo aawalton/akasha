@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/ki/ki.domain.ts b/ki/ki.domain.ts
+index b20cbfeb15f98d217f9f5745c9dbee0ae5faf108..af642761fe7af6a428fa880aa8258a7df544ba50 100644
+--- a/ki/ki.domain.ts
++++ b/ki/ki.domain.ts
+@@ -19,7 +19,7 @@ export const ki = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What Ki keeps here is reached by Ki alone among the people outside akasha.",
++      statement: "The pages Ki keeps here are reached by Ki alone among the people outside akasha.",
+     },
+     {
+       invariantKind: "departure",
