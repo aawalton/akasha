@@ -1,0 +1,15 @@
+diff --git a/infrastructure/loki-service/loki/loki.manifest.ts b/infrastructure/loki-service/loki/loki.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8cd24c1c83f997ce0922b0803d816c255cebe32a
+--- /dev/null
++++ b/infrastructure/loki-service/loki/loki.manifest.ts
+@@ -0,0 +1,9 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const loki = {
++  id: "01a07379-1e35-708f-8cfb-987a31c54566",
++  pageTypeSlug: "manifest",
++  slug: "loki",
++  definition: "the log store's namespace, its configuration, its deployment and the way in to it",
++  code: "ts",
++} as const satisfies Manifest
