@@ -1,3 +1,48 @@
+diff --git a/pages/types/page-type.page-type.ts b/pages/types/page-type.page-type.ts
+index 31c5e90bb3090b6d2bfcc1aceae4e40cf28abb7e..1aca959cee746e6a143c8537cebc2e99256e5b5a 100644
+--- a/pages/types/page-type.page-type.ts
++++ b/pages/types/page-type.page-type.ts
+@@ -1,5 +1,6 @@
+ import type { Domain } from "@akasha/domains/domain"
+ import type { PluralSlug } from "../../domains/properties/plural-slug.text-property.ts"
++import type { AllowsTmpPaths } from "./properties/allows-tmp-paths.boolean-property.ts"
+ import type { DetailConfig } from "./properties/detail-config.record-property.ts"
+ import type { ExtendsSlug } from "./properties/extends-slug.relation-property.ts"
+ import type { LoadedBySlug } from "./properties/loaded-by-slug.relation-property.ts"
+@@ -23,6 +24,7 @@ export type PageType = Domain & {
+   nextSeq?: NextSeq
+   ownerSlug?: OwnerSlug
+   runsTabooCheck?: RunsTabooCheck
++  allowsTmpPaths?: AllowsTmpPaths
+ }
+ 
+ export const pageType = {
+@@ -34,6 +36,7 @@ export const pageType = {
+   partSlugs: [
+     "module/page-type-descent",
+     "module/declared-properties",
++    "boolean-property/allows-tmp-paths",
+     "boolean-property/frame-edge-to-edge",
+     "boolean-property/frame-focus-mode",
+     "boolean-property/full-bleed",
+@@ -89,6 +92,7 @@ export const pageType = {
+     { pagePropertySlug: "media-config", required: false, many: false },
+     { pagePropertySlug: "sequence", required: false, many: false },
+     { pagePropertySlug: "runs-taboo-check", required: false, many: false },
++    { pagePropertySlug: "allows-tmp-paths", required: false, many: false },
+     { pagePropertySlug: "next-seq", required: false, many: false },
+     { pagePropertySlug: "owner-slug", required: false, many: false },
+   ],
+@@ -113,5 +117,9 @@ export const pageType = {
+       invariantKind: "departure",
+       statement: "A page type says here whether the taboo terms are judged over its pages.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A page type says here whether the paths its pages spell are a container's.",
++    },
+   ],
+ } as const satisfies PageType
 diff --git a/pages/types/properties/allows-tmp-paths.boolean-property.ts b/pages/types/properties/allows-tmp-paths.boolean-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..052fdb89824c925fac5c3140c6b95b68019dcab0
