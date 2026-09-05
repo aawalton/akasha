@@ -37,7 +37,7 @@ export const bashEnv = {
     {
       invariantKind: "gap",
       statement:
-        "What the credentials file is named is worked out here rather than read off the account's page.",
+        "The credentials file's name is worked out here rather than read off the account's page.",
     },
   ],
 } as const satisfies ShellScript
