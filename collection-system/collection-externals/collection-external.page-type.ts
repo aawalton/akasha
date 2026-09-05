@@ -46,7 +46,7 @@ export const collectionExternal = {
     },
     {
       invariantKind: "departure",
-      statement: "A collection never synced states no moment it was synced at.",
+      statement: "A collection never synced states no moment that collection was synced at.",
     },
   ],
 } as const satisfies PageType
