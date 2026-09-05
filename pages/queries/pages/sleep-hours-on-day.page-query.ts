@@ -8,5 +8,5 @@ export const sleepHoursOnDay = {
   parameters: [{ name: "date", type: "calendar-date" }],
   narrows: [{ key: "date", comparison: "is", values: ["$date"] }],
   reduction: "sum",
-  targetKey: "sleep-hours",
+  targetKey: "sleepHours",
 } as const satisfies PageQuery

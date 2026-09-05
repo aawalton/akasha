@@ -8,5 +8,5 @@ export const surplusHoursOnDay = {
   parameters: [{ name: "date", type: "calendar-date" }],
   narrows: [{ key: "date", comparison: "is", values: ["$date"] }],
   reduction: "sum",
-  targetKey: "surplus-hours",
+  targetKey: "surplusHours",
 } as const satisfies PageQuery
