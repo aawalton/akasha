@@ -1,0 +1,161 @@
+diff --git a/seat-system/seat-page-beat/seat-page-beat.module.code.ts b/seat-system/seat-page-beat/seat-page-beat.module.code.ts
+index 257964dd16935739363deea925a7ee7c2cbc19bf..8776f55026a9650302d0d230b0794de7930e6006 100644
+--- a/seat-system/seat-page-beat/seat-page-beat.module.code.ts
++++ b/seat-system/seat-page-beat/seat-page-beat.module.code.ts
+@@ -33,7 +33,7 @@ function valueOf(argv: readonly string[], flag: string): string | null {
+   const at = argv.indexOf(flag)
+   if (at === -1) return null
+   const value = argv[at + 1]
+-  if (value === undefined) fail(`${flag} takes a value`)
++  if (value === undefined) throw new Error(`${flag} takes a value`)
+   return value
+ }
+ 
+@@ -50,9 +50,11 @@ export function statedForPage(
+   return running === null ? held : { ...held, session: running }
+ }
+ 
++// What an importer asks for: one seat page written or taken down from what these arguments say.
++// It throws rather than exiting, so a supervisor holding the call is told rather than ended.
+ export async function beat(argv: readonly string[]): Promise<BeatReport> {
+   const agentId = valueOf(argv, "--agent")
+-  if (agentId === null) fail("--agent names the seat this writes for")
++  if (agentId === null) throw new Error("--agent names the seat this writes for")
+ 
+   const stopReason = valueOf(argv, "--remove")
+   if (stopReason !== null) return { outcome: await removeSeatPage(agentId, stopReason), seat: null }
+@@ -113,7 +115,12 @@ export async function beat(argv: readonly string[]): Promise<BeatReport> {
+ }
+ 
+ if (import.meta.main) {
+-  const report = await beat(process.argv.slice(2))
++  let report: BeatReport
++  try {
++    report = await beat(process.argv.slice(2))
++  } catch (error) {
++    fail(error instanceof Error ? error.message : String(error))
++  }
+   process.stdout.write(`${JSON.stringify(report)}\n`)
+   if (report.outcome.kind === "refused") process.exitCode = 1
+ }
+diff --git a/seat-system/seat-page-beat/seat-page-beat.module.ts b/seat-system/seat-page-beat/seat-page-beat.module.ts
+index 058378bec524f480433cbe1a8e98a06c7f9769e5..69264b539544e5581e125f7c0be44f262ed7e259 100644
+--- a/seat-system/seat-page-beat/seat-page-beat.module.ts
++++ b/seat-system/seat-page-beat/seat-page-beat.module.ts
+@@ -9,8 +9,11 @@ export const seatPageBeat = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "This module is run as its own program rather than imported by what writes a seat page.",
++      statement: "What writes a seat page and can await the write imports this and calls it.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A write that cannot await runs this as a program rather than calling it.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts
+index 3df24a1a64a667d3bd9cc9974cd5b0ccbd9bb07d..a078178d37ebee0beb292e14f2e5e251969ef8bf 100644
+--- a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts
++++ b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts
+@@ -6,7 +6,7 @@ import {
+   getCurrentSessionIdForSelfHeal,
+ } from "@akasha/seat-system/supervisor-self-heal-state"
+ import { keepBeside } from "../../seat-beside/seat-beside.module.code.ts"
+-import type { BeatReport } from "../../seat-page-beat/seat-page-beat.module.code.ts"
++import { type BeatReport, beat } from "../../seat-page-beat/seat-page-beat.module.code.ts"
+ import { nameFromHistory } from "../../seat-page-history/seat-page-history.module.code.ts"
+ import {
+   formatSeatProcKey,
+@@ -17,8 +17,11 @@ import { clearRotated } from "../../seat-rotated-session/seat-rotated-session.mo
+ import { keepSession } from "../../seat-session/seat-session.module.code.ts"
+ import { keepTranscript } from "../../seat-transcript-path/seat-transcript-path.module.code.ts"
+ 
+-// The specifier here is the one the type import of BeatReport above holds, so moving the
+-// beat module is a diagnostic rather than a path that is not there when a beat spawns.
++// `beat` writes the page over an await, and the four writes below are called from places that
++// cannot await one: `clearSeatRotation` is reached through a rotation watcher whose callback is
++// declared as returning a value rather than a promise. They run the beat as a child, which is
++// what blocks until the page is written. The specifier here is the one the import above holds,
++// so moving the beat module is a diagnostic rather than a path that is not there at a beat.
+ const BEAT = new URL("../../seat-page-beat/seat-page-beat.module.code.ts", import.meta.url).pathname
+ 
+ function beatArgv(args: readonly string[]): readonly string[] {
+@@ -58,14 +61,11 @@ function runBeat(args: readonly string[]): BeatReport {
+   }
+ }
+ 
+-async function runBeatAsync(args: readonly string[]): Promise<BeatReport> {
++// `beat` throws where what it is handed says nothing it can write for. That was a child exiting
++// non-zero before, and a heartbeat swallows it either way, so no beat fails its caller.
++async function beatReport(args: readonly string[]): Promise<BeatReport> {
+   try {
+-    const proc = Bun.spawn([process.execPath, ...beatArgv(args)], {
+-      stdout: "pipe",
+-      stderr: "inherit",
+-    })
+-    const output = await new Response(proc.stdout).text()
+-    return reportFrom(output, await proc.exited)
++    return await beat(args)
+   } catch (err) {
+     return {
+       outcome: { kind: "refused", detail: `the seat page writer did not run: ${String(err)}` },
+@@ -121,7 +121,7 @@ export async function keepSeatPage(
+ ): Promise<void> {
+   const selfHealAgent = getCurrentAgentIdForSelfHeal()
+   const selfHealSession = getCurrentSessionIdForSelfHeal()
+-  const report = await runBeatAsync([
++  const report = await beatReport([
+     "--agent",
+     agentId,
+     ...(account === null ? [] : ["--account", account]),
+diff --git a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
+index b8dda01899922661e0afdf605a274097a79bb0f6..578d2aee6d79fba7048f00ee06e3e06469e0a8eb 100644
+--- a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
++++ b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
+@@ -4,17 +4,21 @@ export const supervisorHeartbeatBeat = {
+   id: "01a06871-3115-7000-88a3-356a4726a3a1",
+   pageTypeSlug: "module",
+   slug: "supervisor-heartbeat-beat",
+-  definition: "the seat page writes a supervisor makes by running the seat page beat as a child",
++  definition: "the seat page writes a supervisor makes through the seat page beat",
+   code: "ts",
+   invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Every write here reaches the seat page beat rather than writing the page itself.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
+-        "Every write here runs the seat page beat as a child rather than writing the page itself.",
++        "A write that can await the beat calls it, and one that cannot runs it as a child.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The report is the last line of the child's stdout, read as JSON.",
++      statement: "A child's report is the last line of its stdout, read as JSON.",
+     },
+     {
+       invariantKind: "departure",
+@@ -22,7 +26,7 @@ export const supervisorHeartbeatBeat = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A child that never ran is a refusal naming the error rather than a throw.",
++      statement: "A beat that throws or never ran is a refusal naming what happened, not a throw.",
+     },
+     {
+       invariantKind: "departure",
+@@ -46,8 +50,7 @@ export const supervisorHeartbeatBeat = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The report's type is taken from the beat module, so a move of it is a diagnostic.",
++      statement: "The beat is imported from beside this one, so a move of it is a diagnostic.",
+     },
+   ],
+ } as const satisfies Module
