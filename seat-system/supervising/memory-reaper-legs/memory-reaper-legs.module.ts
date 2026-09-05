@@ -26,7 +26,8 @@ export const memoryReaperLegs = {
     },
     {
       invariantKind: "departure",
-      statement: "A leg says why it decided as it did whether or not it decided to kill.",
+      statement:
+        "A leg says why that leg decided as that leg did whether or not that leg decided to kill.",
     },
   ],
 } as const satisfies Module
