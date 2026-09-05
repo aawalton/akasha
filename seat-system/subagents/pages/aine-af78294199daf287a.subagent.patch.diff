@@ -1,5 +1,5 @@
 diff --git a/commands/seat-transcripts/seat-transcripts.command.code.ts b/commands/seat-transcripts/seat-transcripts.command.code.ts
-index 3c1fc3d641b7e3f406869359af223d81296f5f34..18f4d9fd24a86837d9a29c8a2812d2cc2364b2d3 100644
+index 3c1fc3d641b7e3f406869359af223d81296f5f34..16925abef3f2af8a370b95f659a9f1888980e4e2 100644
 --- a/commands/seat-transcripts/seat-transcripts.command.code.ts
 +++ b/commands/seat-transcripts/seat-transcripts.command.code.ts
 @@ -12,14 +12,14 @@ export interface SeatTranscript {
@@ -28,6 +28,15 @@ index 3c1fc3d641b7e3f406869359af223d81296f5f34..18f4d9fd24a86837d9a29c8a2812d2cc
  // is named by the index and its transcript is read from the values kept beside its page, so a
  // seat kept only in akasha is answered here like any other.
  export function transcriptsNow(): readonly SeatTranscript[] {
+@@ -50,7 +50,7 @@ export function saidOf(seats: readonly SeatTranscript[]): string {
+ 
+ // THE ROOT IS NOT TAKEN FROM `given`, and that is on purpose. The seats are read from the akasha
+ // checkout `resolveRoots()` names, which is what the readers underneath reach on their own and
+-// what this verb reached before it was a command. `given.root` is the root the caller stood in,
++// what this verb reached before it was a command. `given.root` is the root the caller was in,
+ // and handing it down here would move which fleet a call reads — so the caller's root is left
+ // where it is rather than passed to readers that do not take one.
+ export function seatTranscripts(argv: readonly string[], _given: Given): Answer {
 diff --git a/commands/seat-transcripts/seat-transcripts.command.test.ts b/commands/seat-transcripts/seat-transcripts.command.test.ts
 index a00d8438d01e8d9f02b25d0ceba609cf3b273028..b141d0588b48bf9193af90eb07e33541c6e1408c 100644
 --- a/commands/seat-transcripts/seat-transcripts.command.test.ts
