@@ -76,3 +76,15 @@ index 0000000000000000000000000000000000000000..0fc4c03f28420e445062158a481ce436
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/domains/plain-language/plain-language.workspace-package.ts b/domains/plain-language/plain-language.workspace-package.ts
+index c1836745cc39218337839b9a13b16ff9edadfbc4..57bb23f83aa419f0601178de5697ff3bb1b4756c 100644
+--- a/domains/plain-language/plain-language.workspace-package.ts
++++ b/domains/plain-language/plain-language.workspace-package.ts
+@@ -15,6 +15,7 @@ export const plainLanguage = {
+     "module/word-tokenizing",
+     "module/shape-predicate",
+     "module/onnx-parsing",
++    "module/parse-cache",
+     "page-type/parser-model",
+   ],
+   invariants: [
