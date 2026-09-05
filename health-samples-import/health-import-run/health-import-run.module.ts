@@ -10,7 +10,7 @@ export const healthImportRun = {
     {
       invariantKind: "departure",
       statement:
-        "Samples are written in batches so a run that stops has still landed what came before.",
+        "Samples are written in batches so a run that stops has still landed the batches that came before.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +18,7 @@ export const healthImportRun = {
     },
     {
       invariantKind: "departure",
-      statement: "A run states what the run wrote for each metric rather than one total.",
+      statement: "A run states the count the run wrote for each metric rather than one total.",
     },
   ],
 } as const satisfies Module
