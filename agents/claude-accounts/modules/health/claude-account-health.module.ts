@@ -14,7 +14,8 @@ export const claudeAccountHealth = {
     },
     {
       invariantKind: "departure",
-      statement: "A refresh that failed reads as terminal where the failure says it is terminal.",
+      statement:
+        "A refresh that failed reads as terminal where the failure says the refresh is terminal.",
     },
     {
       invariantKind: "departure",
