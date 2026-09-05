@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/notes-revert/monarch-notes-revert.module.ts b/alan/harness/monarch/notes-revert/monarch-notes-revert.module.ts
+index 560ca7b9345cb6a24aee0b18b6000ab61a02de71..e910f1cf23143ab265cb85135db7a918535283af 100644
+--- a/alan/harness/monarch/notes-revert/monarch-notes-revert.module.ts
++++ b/alan/harness/monarch/notes-revert/monarch-notes-revert.module.ts
+@@ -24,7 +24,8 @@ export const monarchNotesRevert = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A revert says what it would do before it is asked to do it.",
++      statement:
++        "A revert says the changes that revert would make before being asked to make the changes.",
+     },
+     {
+       invariantKind: "departure",
