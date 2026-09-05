@@ -39,3 +39,45 @@ index 566093ea0af6a9d67dd8a6b24e368360a1e24dfb..a7994b716ae3e461cf9874c0d07dfb4a
 +    "akasha/apart.ts": "export const apart = 1\n",
 +  })
 +}
+diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
+index c70536b6a67282fc3d9e4bf031e92e4022f44e92..d44562514de5180fe3c4245419360fe0b9bf46f8 100644
+--- a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
++++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
+@@ -5,7 +5,9 @@ import type { Change } from "@akasha/pages-system/change"
+ import { shadowAsked, shadowFor } from "@akasha/pages-system/shadow"
+ import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+ import {
++  claimedIn,
+   configOf,
++  matching,
+   omittingIn,
+   reachedBy,
+   reachesTypegen,
+@@ -15,20 +17,25 @@ import {
+   typesIn,
+ } from "./typecheck.code-check.code.ts"
+ import {
+-  CALLS_HELD,
++  CHAINED,
++  calling,
+   change,
++  DECLARED_AT,
+   declared,
+   declaring,
++  deep,
+   EARLY,
++  FIRST_OF,
+   generating,
+   HERE,
++  holding,
+   IMPORTS_TYPEGEN,
+   LOADED_AT,
+   MADE,
+   ONE_NUMBER,
++  reading,
+   scratch,
+   staged,
+-  TAKES_NUMBER,
+   THING_AT,
+   TWO_BREAKS,
+   WHOLE,
