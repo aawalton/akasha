@@ -1,0 +1,15 @@
+diff --git a/migration-system/reach/migration-reach.module.ts b/migration-system/reach/migration-reach.module.ts
+index ba5f6537696f16f43aa61a81db544053379ae614..f83c11bcd3a8d87dbcdc6b6bd32c79d75dba8817 100644
+--- a/migration-system/reach/migration-reach.module.ts
++++ b/migration-system/reach/migration-reach.module.ts
+@@ -89,10 +89,6 @@ export const migrationReach = {
+       statement:
+         "A reading taken before a migration landed cannot reach the files that migration wrote.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A sweep is run after the landing rather than before the landing.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "The values a file says of itself are read from the file's own front matter.",
