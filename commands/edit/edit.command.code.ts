@@ -37,6 +37,7 @@ import {
   removingIn,
   restatedIn,
   unknownIn,
+  unrestatedFor,
   unwarrantedIn,
 } from "../write/write.command.code.ts"
 
@@ -284,6 +285,7 @@ export function askedWith(argv: readonly string[], given: Given, piping: Piping)
   mistaken.push(...removing.mistaken)
   wrong.push(...removing.wrong)
   wrong.push(...unwarrantedIn(given, glass.glass, changes))
+  wrong.push(...unrestatedFor(given, changes))
   changes.push(...besideTaken(given, removing.base, removing.taken, seen))
   const troubled = troubling({ mistaken, wrong })
   if (troubled !== null) return troubled

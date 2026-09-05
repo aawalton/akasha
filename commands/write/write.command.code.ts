@@ -28,6 +28,7 @@ import {
   pipedIn,
   RUNS_SAID,
 } from "../../command-system/piping/piping.module.code.ts"
+import { unrestatedIn } from "../../command-system/restating/restating.module.code.ts"
 
 export const FILE_PATH = "--file-path"
 
@@ -80,6 +81,19 @@ export function restatedIn(
     }
   }
   return { given: { ...given, changeKind: kind } }
+}
+
+function wasAt(root: string, path: string): Uint8Array | null {
+  const held = bytesAt(join(root, path))
+  return "bytes" in held ? held.bytes : null
+}
+
+export function unrestatedFor(given: Given, changes: readonly FileEdit[]): readonly string[] {
+  if (given.changeKind?.slug !== RESTATED_KIND) return []
+  return unrestatedIn(
+    given.root,
+    changes.map((one) => ({ path: one.path, was: wasAt(given.root, one.path), now: one.body }))
+  )
 }
 
 export function pathAt(root: string, said: string): string | null {
@@ -424,6 +438,7 @@ export function builtIn(argv: readonly string[], given: Given, piping: Piping): 
   mistaken.push(...removing.mistaken)
   wrong.push(...removing.wrong)
   wrong.push(...unwarrantedIn(given, glass.glass, changes))
+  wrong.push(...unrestatedFor(given, changes))
   changes.push(...besideTaken(given, removing.base, removing.taken, seen))
   const troubled = troubling({ mistaken, wrong })
   if (troubled !== null) return troubled

@@ -29,7 +29,7 @@ export const changeRestated = {
       statement: "Every check an authored change is judged by judges a restated change.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A restated change moving more than the words a page states is refused.",
     },
   ],
