@@ -36,10 +36,6 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
-      statement: "Every tree read here is read by one rule.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A body a file property holds is never loaded.",
     },
     {
