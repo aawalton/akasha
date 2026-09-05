@@ -1,0 +1,14 @@
+diff --git a/agents/claude-accounts/modules/health/claude-account-health.module.ts b/agents/claude-accounts/modules/health/claude-account-health.module.ts
+index f936f2409ca973d003e22b063b34e0b524d2d1e6..850fcdead1fff8903948157ebf264562b8bf0dec 100644
+--- a/agents/claude-accounts/modules/health/claude-account-health.module.ts
++++ b/agents/claude-accounts/modules/health/claude-account-health.module.ts
+@@ -19,7 +19,8 @@ export const claudeAccountHealth = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A refresh that failed reads as retryable where the failure says it is not.",
++      statement:
++        "A refresh that failed reads as retryable where the failure says that refresh is not.",
+     },
+     {
+       invariantKind: "departure",
