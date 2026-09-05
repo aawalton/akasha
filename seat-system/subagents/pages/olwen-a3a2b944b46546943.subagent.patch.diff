@@ -1257,3 +1257,14 @@ index 68c9270c699a96eb8ad4bde4698183df5afa27cb..b4302b2164080726c620561f813debf4
      "module/tracking-shape",
      "module/akasha-day",
      "module/tracking-keys",
+diff --git a/alan/tracking/daily/write-daily-points/write-daily-points.module.code.ts b/alan/tracking/daily/write-daily-points/write-daily-points.module.code.ts
+index 2321acb8d3f9d7176eed744981fd0b882e01c57c..db2926a547f28a2791fc0b040cc011466a7ec27a 100644
+--- a/alan/tracking/daily/write-daily-points/write-daily-points.module.code.ts
++++ b/alan/tracking/daily/write-daily-points/write-daily-points.module.code.ts
+@@ -1,4 +1,5 @@
+-import { DAILY_TRACKING, dayByDate, landDayPage } from "../day-place/day-place.module.code.ts"
++import { DAILY_TRACKING, landDayPage } from "../day-place/day-place.module.code.ts"
++import { dayByDate } from "../day-reading/day-reading.module.code.ts"
+ 
+ export type WriteOutcome = "patched" | "created"
+ 
