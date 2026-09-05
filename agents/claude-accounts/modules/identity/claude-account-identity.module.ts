@@ -40,7 +40,8 @@ export const claudeAccountIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "A claude-account pinned to no upstream account takes the one it resolves to.",
+      statement:
+        "A claude-account pinned to no upstream account takes the one that claude-account resolves to.",
     },
     {
       invariantKind: "departure",
@@ -120,7 +121,7 @@ export const claudeAccountIdentity = {
     {
       invariantKind: "gap",
       statement:
-        "A pin that clears the previous account's readings and then fails leaves them cleared.",
+        "A pin that clears the previous account's readings and then fails leaves those readings cleared.",
     },
     {
       invariantKind: "gap",
