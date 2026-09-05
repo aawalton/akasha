@@ -1,3 +1,19 @@
+diff --git a/agents/models/gateway/modules/proxy-process/proxy-process.module.ts b/agents/models/gateway/modules/proxy-process/proxy-process.module.ts
+index b2290b150db82698ae6fc92f89adba1a1e663495..ac37ded51e2930651876d32ed81b70c8ce98a8e2 100644
+--- a/agents/models/gateway/modules/proxy-process/proxy-process.module.ts
++++ b/agents/models/gateway/modules/proxy-process/proxy-process.module.ts
+@@ -148,10 +148,7 @@ export const proxyProcess = {
+       invariantKind: "constraint",
+       statement: "A caller hands in the environment the boot settings are read from.",
+     },
+-    {
+-      invariantKind: "constraint",
+-      statement: "A caller hands in the root every account is read under.",
+-    },
++
+     {
+       invariantKind: "constraint",
+       statement: "A caller hands in the act a signal is listened for by.",
 diff --git a/story/chapters-played/story-chapter-played.page-type.ts b/story/chapters-played/story-chapter-played.page-type.ts
 index 3105765de04f6d660afdd61276afb567148bd6f5..504031cac23062d4dc8617bb2ee5895b56794cd3 100644
 --- a/story/chapters-played/story-chapter-played.page-type.ts
