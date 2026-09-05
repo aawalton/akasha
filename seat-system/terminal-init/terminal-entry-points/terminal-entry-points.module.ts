@@ -32,7 +32,8 @@ export const terminalEntryPoints = {
     },
     {
       invariantKind: "departure",
-      statement: "The akasha command is spelled here as what a terminal reaches a command through.",
+      statement:
+        "The akasha command is spelled here as the path a terminal reaches a command through.",
     },
     {
       invariantKind: "absence",
