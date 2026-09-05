@@ -41,10 +41,10 @@ index 6fc66e63b8fd9060136ac0651b999894097e15f3..e2f07e18f4428390804fd12650b54220
 +  return oid === null ? [] : [{ path: listed.path, oid, owed: TYPE }]
  }
 diff --git a/context/warrants/file-page-type/file-page-type.context-warrant.test.ts b/context/warrants/file-page-type/file-page-type.context-warrant.test.ts
-index 0e7298ac816fa78c6819a4ad48b3905fb04c312b..00cb493408aba69bd92ff77cf06dad9cc5281f49 100644
+index 0e7298ac816fa78c6819a4ad48b3905fb04c312b..5116dd07047bbd9789856bd0230246d44cf7cc65 100644
 --- a/context/warrants/file-page-type/file-page-type.context-warrant.test.ts
 +++ b/context/warrants/file-page-type/file-page-type.context-warrant.test.ts
-@@ -36,11 +36,28 @@ function warrantsAt(root: string, path: string): readonly Warrant[] {
+@@ -36,11 +36,19 @@ function warrantsAt(root: string, path: string): readonly Warrant[] {
    return filePageType(root, path, knowingIn(root))
  }
  
@@ -54,11 +54,7 @@ index 0e7298ac816fa78c6819a4ad48b3905fb04c312b..00cb493408aba69bd92ff77cf06dad9c
    const chain = typeWorld(root)
    writing(root, PATH, "one\n")
 -  expect(pathsOf(warrantsAt(root, PATH))).toEqual(chain)
-+<<<<<<< what this change would leave
-+  expect(pathsOf(warrantsAt(root, PATH))).toEqual([chain[0]])
-+=======
 +  expect(pathsOf(warrantsAt(root, PATH))).toEqual(chain.slice(0, 1))
-+>>>>>>> what HEAD holds
 +})
 +
 +test("a page warrants no type that its type extends", () => {
@@ -66,16 +62,11 @@ index 0e7298ac816fa78c6819a4ad48b3905fb04c312b..00cb493408aba69bd92ff77cf06dad9c
 +  const chain = typeWorld(root)
 +  writing(root, PATH, "one\n")
 +  const held = pathsOf(warrantsAt(root, PATH))
-+<<<<<<< what this change would leave
-+  expect(held).not.toContain(chain[1])
-+  expect(held).not.toContain(chain[2])
-+=======
 +  for (const above of chain.slice(1)) expect(held).not.toContain(above)
-+>>>>>>> what HEAD holds
  })
  
  test("a type warrants the body at the type's page", () => {
-@@ -81,13 +98,13 @@ test("a file naming no page type in its name answers to no type", () => {
+@@ -81,13 +89,13 @@ test("a file naming no page type in its name answers to no type", () => {
    expect(pathsOf(warrantsAt(root, loose))).toEqual([])
  })
  
@@ -92,7 +83,7 @@ index 0e7298ac816fa78c6819a4ad48b3905fb04c312b..00cb493408aba69bd92ff77cf06dad9c
  })
  
  test("a type whose page is not there warrants nothing of itself", () => {
-@@ -105,14 +122,14 @@ test("a type not read is refused, and the refusal says the type is owed", () =>
+@@ -105,14 +113,14 @@ test("a type not read is refused, and the refusal says the type is owed", () =>
    const oid = writing(root, PATH, "one\n")
    recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
    const said = unreadIn(root, AGENT, [PATH])
@@ -109,7 +100,7 @@ index 0e7298ac816fa78c6819a4ad48b3905fb04c312b..00cb493408aba69bd92ff77cf06dad9c
    const other = "akasha/thing/other.module.ts"
    for (const at of [PATH, other]) {
      recordRead(root, AGENT, {
-@@ -122,5 +139,5 @@ test("one reading of a type answers for every path of that type", () => {
+@@ -122,5 +130,5 @@ test("one reading of a type answers for every path of that type", () => {
        mechanicalOid: null,
      })
    }
