@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/uncommitted/page-uncommitted.module.ts b/pages/uncommitted/page-uncommitted.module.ts
+index 90ea594df756c9bbc095d8d341ba6d8d5d3e291c..617e058961c2b430ce5eabdde2644a0ac6a5cc8e 100644
+--- a/pages/uncommitted/page-uncommitted.module.ts
++++ b/pages/uncommitted/page-uncommitted.module.ts
+@@ -30,7 +30,8 @@ export const pageUncommitted = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The file is replaced by writing a scratch file beside it and renaming it over.",
++      statement:
++        "The file is replaced by writing a scratch file beside that file and renaming that scratch file over.",
+     },
+     {
+       invariantKind: "departure",
