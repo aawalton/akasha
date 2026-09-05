@@ -10,6 +10,7 @@ export const temperWeb = {
   routeTable: "ts",
   serverEntry: "tsx",
   routerConfig: "ts",
+  compileConfig: "json",
   partSlugs: [
     "stylesheet/temper-web-look",
     "module/account-achievements-panel-card",

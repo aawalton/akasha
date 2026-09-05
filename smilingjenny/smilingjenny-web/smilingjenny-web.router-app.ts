@@ -10,6 +10,7 @@ export const smilingjennyWeb = {
   routeTable: "ts",
   serverEntry: "tsx",
   routerConfig: "ts",
+  compileConfig: "json",
   partSlugs: [
     "stylesheet/smilingjenny-web-look",
     "module/jenny-capacitor-bridge",

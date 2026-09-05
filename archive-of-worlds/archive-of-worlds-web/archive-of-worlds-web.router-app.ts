@@ -10,6 +10,7 @@ export const archiveOfWorldsWeb = {
   routeTable: "ts",
   serverEntry: "tsx",
   routerConfig: "ts",
+  compileConfig: "json",
   partSlugs: [
     "stylesheet/archive-of-worlds-web-look",
     "module/archive-of-worlds-app-id",

@@ -10,6 +10,7 @@ export const alanWeb = {
   routeTable: "ts",
   serverEntry: "tsx",
   routerConfig: "ts",
+  compileConfig: "json",
   partSlugs: [
     "stylesheet/alan-web-look",
     "stylesheet/idle-look",

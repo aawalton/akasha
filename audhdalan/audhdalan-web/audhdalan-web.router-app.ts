@@ -10,6 +10,7 @@ export const audhdalanWeb = {
   routeTable: "ts",
   serverEntry: "tsx",
   routerConfig: "ts",
+  compileConfig: "json",
   partSlugs: [
     "stylesheet/audhdalan-web-look",
     "module/deck-page-content",
