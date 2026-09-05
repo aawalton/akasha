@@ -7,12 +7,12 @@ export const rule3f8c330f = {
   title: "Full container stacks → Walton Mountain",
   description:
     "Full 200-stacks route to the Walton Mountain guild bank; the lower-priority Erin rule keeps the partial remainder (first-match-wins).",
+  conditions: "jsonl",
+  destination: "guild-bank:Walton Mountain",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "container-stackable",
   displayOrder: 7,
   action: "move-to",
   active: true,
   updatedAt: "2026-06-02T21:31:48.189Z",
-  destination: "guild-bank:Walton Mountain",
-  conditions: "jsonl",
 } as const satisfies TemperInventoryRule
