@@ -37,7 +37,7 @@ export const pageTree = {
     {
       invariantKind: "departure",
       statement:
-        "A property is named bare where that is unambiguous and `kind/slug` where it is not.",
+        "A property is named bare where that is unambiguous and `kind/slug` where the bare name is not.",
     },
     {
       invariantKind: "departure",
@@ -50,7 +50,8 @@ export const pageTree = {
     },
     {
       invariantKind: "departure",
-      statement: "A row names the checkout it was read from ahead of the path inside it.",
+      statement:
+        "A row names the checkout that row was read from ahead of the path inside that checkout.",
     },
     {
       invariantKind: "departure",
