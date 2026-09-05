@@ -50,7 +50,7 @@ export const mobileCli = {
     },
     {
       invariantKind: "departure",
-      statement: "What a TestFlight build was made from is remembered outside akasha.",
+      statement: "The sources a TestFlight build was made from are remembered outside akasha.",
     },
     {
       invariantKind: "absence",
@@ -62,7 +62,7 @@ export const mobileCli = {
     },
     {
       invariantKind: "departure",
-      statement: "The build on a phone can disagree with what the server is already sending.",
+      statement: "The build on a phone can disagree with the build the server is already sending.",
     },
     {
       invariantKind: "departure",
