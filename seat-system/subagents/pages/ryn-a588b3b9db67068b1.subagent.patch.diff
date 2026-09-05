@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-system.workspace-package.ts b/seat-system/seat-system.workspace-package.ts
+index 4b864f592f855bb3dcfba329fa2667f9b5c40986..f1ae9489b7a6c310831157e46ec14030a9106431 100644
+--- a/seat-system/seat-system.workspace-package.ts
++++ b/seat-system/seat-system.workspace-package.ts
+@@ -367,7 +367,7 @@ export const seatSystem = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a seat holds is either declared of the seat or observed of the seat.",
++      statement: "Every value a seat holds is either declared of the seat or observed of the seat.",
+     },
+     {
+       invariantKind: "upkeep",
