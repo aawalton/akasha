@@ -212,7 +212,7 @@ export const accountWalk = {
     },
     {
       invariantKind: "constraint",
-      statement: "A caller hands in each act that changes what an account is allowed.",
+      statement: "A caller hands in each act that changes an account's allowance.",
     },
     {
       invariantKind: "absence",
@@ -249,7 +249,7 @@ export const accountWalk = {
     },
     {
       invariantKind: "gap",
-      statement: "A 502 answered for a transport error carries no body saying what failed.",
+      statement: "A 502 answered for a transport error carries no body naming the failure.",
     },
     {
       invariantKind: "gap",
