@@ -1,0 +1,39 @@
+diff --git a/checks/modules/check-scratch/check-scratch.module.ts b/checks/modules/check-scratch/check-scratch.module.ts
+index 93a80b258b07c40ecc3f557c1e7a872c185efb0b..bd4cc6e74265dd32fefe46c732117b492b5930ca 100644
+--- a/checks/modules/check-scratch/check-scratch.module.ts
++++ b/checks/modules/check-scratch/check-scratch.module.ts
+@@ -5,7 +5,7 @@ export const checkScratch = {
+   pageTypeSlug: "module",
+   slug: "check-scratch",
+   definition:
+-    "what a check's test judges: an index stood up in a scratch root, and the change read against it",
++    "what a check's test judges: an index set up in a scratch root, and the change read against it",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/checks/modules/checking/checking.module.code.ts b/checks/modules/checking/checking.module.code.ts
+index 4316f96e9352b57e9629d5666e3149430cc8c39b..e7ee6359949590f20bbdf10a70ee8fe34871149b 100644
+--- a/checks/modules/checking/checking.module.code.ts
++++ b/checks/modules/checking/checking.module.code.ts
+@@ -111,7 +111,7 @@ export function checksIn(root: string): readonly Gathered[] {
+     }
+     const beside = besideAt(path, CODE, TS)
+     if (beside === null) {
+-      throw new Error(`${path} is a check page, and no code file can stand beside a name like it`)
++      throw new Error(`${path} is a check page, and no code file can sit beside a name like it`)
+     }
+     const run = runningIn(join(root, beside), slug, beside)
+     if (run === null) {
+diff --git a/checks/modules/model-running/model-running.module.ts b/checks/modules/model-running/model-running.module.ts
+index b7ac3473eff165f52ad680f52a15e7c535ab1f52..6bb7e850dc8a5f120c1a2df7c528f876fa0097c4 100644
+--- a/checks/modules/model-running/model-running.module.ts
++++ b/checks/modules/model-running/model-running.module.ts
+@@ -18,7 +18,7 @@ export const modelRunning = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A statement standing in the body before the change is passed over.",
++      statement: "A statement in the body before the change is passed over.",
+     },
+     {
+       invariantKind: "departure",
