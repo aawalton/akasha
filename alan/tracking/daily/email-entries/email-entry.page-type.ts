@@ -46,7 +46,7 @@ export const emailEntry = {
     },
     {
       invariantKind: "departure",
-      statement: "The entry is what a readout of the mail inbox is read from.",
+      statement: "A readout of the mail inbox is read from the entry.",
     },
     {
       invariantKind: "gap",
