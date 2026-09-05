@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/remove/manifesting/remove-manifesting.module.ts b/commands/remove/manifesting/remove-manifesting.module.ts
+index abb154ecb9009b3f109df2007590ce101f12b6be..2d2d07c3df8f317da6dd63507aaf39d19574eede 100644
+--- a/commands/remove/manifesting/remove-manifesting.module.ts
++++ b/commands/remove/manifesting/remove-manifesting.module.ts
+@@ -18,7 +18,7 @@ export const removeManifesting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every manifest above what goes is read.",
++      statement: "Every manifest above the files the removal takes is read.",
+     },
+     {
+       invariantKind: "departure",
