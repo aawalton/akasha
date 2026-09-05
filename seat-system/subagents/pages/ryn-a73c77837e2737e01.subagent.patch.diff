@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/code-check.page-type.ts b/checks/code-checks/code-check.page-type.ts
+index 603d80bf90443ba617d0ce5eb3c0abae19a0af18..5e1858ba8f96d1417374cedb4d27e1d2a5234de8 100644
+--- a/checks/code-checks/code-check.page-type.ts
++++ b/checks/code-checks/code-check.page-type.ts
+@@ -120,7 +120,7 @@ export const codeCheck = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "That landing is how a check states its rule before it binds anyone.",
++      statement: "That landing is how a check states its rule before that check binds anyone.",
+     },
+     {
+       invariantKind: "departure",
