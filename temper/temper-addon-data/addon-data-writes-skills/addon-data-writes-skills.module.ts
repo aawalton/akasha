@@ -9,7 +9,8 @@ export const addonDataWritesSkills = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A render that throws names the file it was rendering rather than failing alone.",
+      statement:
+        "A render that throws names the file that render was rendering rather than failing alone.",
     },
     {
       invariantKind: "departure",
@@ -17,7 +18,7 @@ export const addonDataWritesSkills = {
     },
     {
       invariantKind: "departure",
-      statement: "A section states its writes rather than performing them.",
+      statement: "A section states its writes rather than performing those writes.",
     },
   ],
 } as const satisfies Module
