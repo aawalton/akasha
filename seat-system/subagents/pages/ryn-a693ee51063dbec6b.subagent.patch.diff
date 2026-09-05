@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/books/all-about-alan/topics/properties/topic-unsettled.text-property.ts b/alan/books/all-about-alan/topics/properties/topic-unsettled.text-property.ts
+index 4429d61edd8d264902ac02cdf8365960436c6814..b257ffc3c0d4b45660c55ab61d02b0d89a2ec151 100644
+--- a/alan/books/all-about-alan/topics/properties/topic-unsettled.text-property.ts
++++ b/alan/books/all-about-alan/topics/properties/topic-unsettled.text-property.ts
+@@ -13,7 +13,7 @@ export const topicUnsettled = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This property holds what is still open rather than what stands.",
++      statement: "This property holds the open questions rather than the facts that stand.",
+     },
+     {
+       invariantKind: "departure",
