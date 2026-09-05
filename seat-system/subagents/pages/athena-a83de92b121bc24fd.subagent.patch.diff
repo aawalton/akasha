@@ -1,3 +1,56 @@
+diff --git a/alan/tracking/daily/akasha-day/akasha-day.module.code.ts b/alan/tracking/daily/akasha-day/akasha-day.module.code.ts
+index 5da9378f6a7adf761327247dd3699d4650bfd417..7033ad7e7b3b9c7eec272ea247006f27cbc85b43 100644
+--- a/alan/tracking/daily/akasha-day/akasha-day.module.code.ts
++++ b/alan/tracking/daily/akasha-day/akasha-day.module.code.ts
+@@ -157,38 +157,20 @@ function namedIn(row: Row): string {
+ }
+ 
+ /**
+- * Every composed body handed to `akasha write` as one call, so they land together or not at all.
++ * Every composed body landed as one call, so they land together or not at all.
+  *
+- * The bodies go to a scratch directory rather than onto the command line because the verb takes a
+- * file and never text said in an argument, and the scratch is cleared whether the write landed or
+- * refused.
++ * The bodies are handed to `landTracking` as the values they already are: a scratch file bought
++ * nothing but a way to spell a body on a command line, and nothing here spells a command line.
+  */
+ export async function written(puts: readonly Put[], message: string): Promise<Landed> {
+   if (puts.length === 0) return refused("nothing was composed to write")
+-  const scratch = mkdtempSync(join(tmpdir(), "akasha-day-"))
+-  try {
+-    const args: string[] = []
+-    puts.forEach((one, at) => {
+-      const body = join(scratch, `body-${String(at)}`)
+-      writeFileSync(body, one.content)
+-      args.push("--file-path", one.path, "--content-file", body)
+-    })
+-    args.push("--message", message)
+-    const ran = Bun.spawn(["akasha", TRACKING, ...args], {
+-      cwd: rootOf(),
+-      stdout: "pipe",
+-      stderr: "pipe",
+-    })
+-    const [out, err, code] = await Promise.all([
+-      new Response(ran.stdout).text(),
+-      new Response(ran.stderr).text(),
+-      ran.exited,
+-    ])
+-    if (code !== 0) return refused(`\`akasha ${TRACKING}\` refused: ${(err + out).trim()}`)
+-    return { ok: true, at: puts[0]?.path ?? "" }
+-  } finally {
+-    rmSync(scratch, { recursive: true, force: true })
+-  }
++  const said = await landTracking({
++    root: rootOf(),
++    changes: puts.map((one) => ({ path: one.path, body: one.content })),
++    message,
++  })
++  if ("refused" in said) return refused(`the tracking landing refused: ${said.refused}`)
++  return { ok: true, at: puts[0]?.path ?? "" }
+ }
+ 
+ /**
 diff --git a/alan/tracking/tracking-landing/tracking-landing.module.code.ts b/alan/tracking/tracking-landing/tracking-landing.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..d4f1dd1d2e016c892cd38dfe645bc726f47d8fe0
