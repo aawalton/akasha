@@ -67,7 +67,7 @@ export const exerciseNextSet = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here answers the whole plan; that is what exercise-select is for.",
+      statement: "Nothing here answers the whole plan; exercise-select is for the whole plan.",
     },
   ],
 } as const satisfies Command
