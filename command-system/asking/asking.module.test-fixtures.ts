@@ -4,7 +4,7 @@ import { patchAt } from "@akasha/agents/patch-keeping"
 import type { Phase } from "@akasha/checks/checking"
 import { warrantsSeeded } from "@akasha/context/warranting/testing"
 import { said as gitIn } from "@akasha/git/git-running"
-import { pageFiled } from "@akasha/indexes/testing"
+import { noImportersFiled, pageFiled } from "@akasha/indexes/testing"
 import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { ADMITS_CODE, MINTED, mintedId, minting } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
@@ -69,6 +69,7 @@ export function repoAt(root: string, named: Readonly<Record<string, string>>): s
   checking(root, "admits", ADMITS_CODE)
   warrantsSeeded(root)
   pageFiled(root, AGENT, SEAT_AT)
+  noImportersFiled(root)
   return root
 }
 
