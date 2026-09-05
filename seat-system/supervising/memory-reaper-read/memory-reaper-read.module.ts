@@ -22,7 +22,7 @@ export const memoryReaperRead = {
     },
     {
       invariantKind: "absence",
-      statement: "What the host holds free is read from the memory guard rather than read again.",
+      statement: "The host's free memory is read from the memory guard rather than read again.",
     },
   ],
 } as const satisfies Module
