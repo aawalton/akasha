@@ -1,0 +1,78 @@
+diff --git a/mobile-cli/build-stamp-gate/build-stamp-gate.module.test.ts b/mobile-cli/build-stamp-gate/build-stamp-gate.module.test.ts
+index d0623bb4de6af8cd8a58ce7a0aebda3a46473335..f3f2970ef2d24e5840e53f17e58002a4374b8d47 100644
+--- a/mobile-cli/build-stamp-gate/build-stamp-gate.module.test.ts
++++ b/mobile-cli/build-stamp-gate/build-stamp-gate.module.test.ts
+@@ -133,7 +133,7 @@ describe("the gate's place in the cut script", () => {
+     cutCommit: COMMIT,
+   } as const
+ 
+-  test("stands after the artifact exists and before anything reaches Apple", () => {
++  test("sits after the artifact exists and before anything reaches Apple", () => {
+     const s = buildTestflightDeployScript({ ...base })
+     const exported = s.indexOf(`test -f ${IPA}`)
+     const gate = s.indexOf("build-stamp gate")
+diff --git a/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts b/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts
+index 3ff86d9898f9d4263943686ef478c1351bfa954b..34d2b740707cfe45cc7492ffee901ad833e6a00a 100644
+--- a/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts
++++ b/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts
+@@ -10,7 +10,7 @@ export const MOBILE_CUT_PAGE_TYPE_SLUG = "mobile-cut"
+ 
+ export const CUT_WRITER = "akasha deploy"
+ 
+-/** Every `mobile-cut` page stands in a folder of its own beneath this one, inside akasha. */
++/** Every `mobile-cut` page sits in a folder of its own beneath this one, inside akasha. */
+ export const CUTS_FOLDER = "mobile-cli/mobile-cuts/pages"
+ 
+ const PAGE_SUFFIX = `.${MOBILE_CUT_PAGE_TYPE_SLUG}.ts`
+diff --git a/mobile-cli/cut-fingerprint/cut-fingerprint.module.test.ts b/mobile-cli/cut-fingerprint/cut-fingerprint.module.test.ts
+index 57ef29daf074334a46cc08ba2a3af71bfefd4b81..482b2f88a42ef9a09fbb76ca50ed0e9dc99f4c5a 100644
+--- a/mobile-cli/cut-fingerprint/cut-fingerprint.module.test.ts
++++ b/mobile-cli/cut-fingerprint/cut-fingerprint.module.test.ts
+@@ -75,7 +75,7 @@ describe("readCutPages", () => {
+     }
+   })
+ 
+-  test("every cut standing carries a fingerprint that reads", () => {
++  test("every cut there is carries a fingerprint that reads", () => {
+     for (const page of readCutPages()) {
+       expect(cutFingerprintValues.safeParse(page.value).success).toBe(true)
+     }
+diff --git a/mobile-cli/cut-fingerprint/cut-fingerprint.module.ts b/mobile-cli/cut-fingerprint/cut-fingerprint.module.ts
+index a4606e6174d415070262c471b9767797c16b20d6..b0482c026a35f03d05651f72648b117a17885e1d 100644
+--- a/mobile-cli/cut-fingerprint/cut-fingerprint.module.ts
++++ b/mobile-cli/cut-fingerprint/cut-fingerprint.module.ts
+@@ -49,7 +49,7 @@ export const cutFingerprint = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A filed cut mints its own id rather than deriving one from where it stands.",
++      statement: "A filed cut mints its own id rather than deriving one from where it is.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/mobile-cli/sim-macbook/sim-macbook.module.test.ts b/mobile-cli/sim-macbook/sim-macbook.module.test.ts
+index 42e6285844621b76c33246cf79aa6397984cb9b2..cc538a8852b0d1e06f9d624018dbc79f46fe2789 100644
+--- a/mobile-cli/sim-macbook/sim-macbook.module.test.ts
++++ b/mobile-cli/sim-macbook/sim-macbook.module.test.ts
+@@ -64,7 +64,7 @@ describe("parseResolvedUdid", () => {
+ })
+ 
+ describe("buildInstallScript", () => {
+-  test("names the tree this run delivered, and no clone standing on the macbook", () => {
++  test("names the tree this run delivered, and no clone sitting on the macbook", () => {
+     const s = buildInstallScript({
+       app: APP,
+       buildSimSource: "echo body",
+diff --git a/mobile-cli/sim-run-tree/sim-run-tree.module.code.ts b/mobile-cli/sim-run-tree/sim-run-tree.module.code.ts
+index 968374dbde04fb06eaf4a7ceb0cb51ad55e84344..8e9e3149b8eae049067e2a1951d3d58809f96104 100644
+--- a/mobile-cli/sim-run-tree/sim-run-tree.module.code.ts
++++ b/mobile-cli/sim-run-tree/sim-run-tree.module.code.ts
+@@ -55,7 +55,7 @@ export async function deliverSimRunTree(opts: {
+   const missing = wanted.filter((rel) => !existsSync(join(repoRoot, rel)))
+   if (missing.length > 0) {
+     throw new InputError(
+-      `${missing.join(", ")} — named among what ${app.slug} is built from, and not standing in ${repoRoot}. Nothing was delivered, because a partial tree fails on the macbook rather than here.`
++      `${missing.join(", ")} — named among what ${app.slug} is built from, and not in ${repoRoot}. Nothing was delivered, because a partial tree fails on the macbook rather than here.`
+     )
+   }
+   await runSshCapture(
