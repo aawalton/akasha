@@ -1,0 +1,13 @@
+diff --git a/context/warrants/domain-ancestors/domain-ancestors.context-warrant.ts b/context/warrants/domain-ancestors/domain-ancestors.context-warrant.ts
+index a4357a08ff3e9bdb4bf5f3fd476ecf3f89b1052a..770b1898ce08ec1b3db8ff0f1b14831f8be6ad23 100644
+--- a/context/warrants/domain-ancestors/domain-ancestors.context-warrant.ts
++++ b/context/warrants/domain-ancestors/domain-ancestors.context-warrant.ts
+@@ -13,7 +13,7 @@ export const domainAncestors = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A seat warrants every domain above the one it answers for.",
++      statement: "A seat warrants every domain above the one that seat answers for.",
+     },
+     {
+       invariantKind: "departure",
