@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/auth-proxy/cors/cors.module.ts b/infrastructure/auth-proxy/cors/cors.module.ts
+index 9072f953b5763af255a8b95a3bc4492b192954cc..66a23ba1fe28e332b1ed15060773c5e83ff36a00 100644
+--- a/infrastructure/auth-proxy/cors/cors.module.ts
++++ b/infrastructure/auth-proxy/cors/cors.module.ts
+@@ -9,7 +9,7 @@ export const cors = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A preflight is answered here rather than by what is behind the proxy.",
++      statement: "A preflight is answered here rather than by the target behind the proxy.",
+     },
+     {
+       invariantKind: "departure",
