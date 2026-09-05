@@ -52,7 +52,7 @@ export const subagentKind = {
     },
     {
       invariantKind: "gap",
-      statement: "A subagent's dispatched-as reaches a kind page rather than standing as text.",
+      statement: "A subagent's dispatched-as reaches a kind page rather than being text.",
     },
   ],
 } as const satisfies PageType

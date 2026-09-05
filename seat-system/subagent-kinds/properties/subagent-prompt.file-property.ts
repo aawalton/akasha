@@ -11,7 +11,7 @@ export const subagentPrompt = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A prompt stands in its own file rather than in a value beside the page.",
+      statement: "A prompt sits in its own file rather than in a value beside the page.",
     },
     {
       invariantKind: "absence",

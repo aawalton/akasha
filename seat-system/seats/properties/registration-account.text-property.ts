@@ -13,7 +13,7 @@ export const registrationAccount = {
   invariants: [
     {
       invariantKind: "stopgap",
-      statement: "No account stands as a page.",
+      statement: "No account is a page.",
     },
     {
       invariantKind: "gap",

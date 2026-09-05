@@ -27,7 +27,7 @@ export const request = {
     },
     {
       invariantKind: "departure",
-      statement: "A new request takes the place of what stood.",
+      statement: "A new request takes the place of what was there.",
     },
   ],
 } as const satisfies RecordProperty

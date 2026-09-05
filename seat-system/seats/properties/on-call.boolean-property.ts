@@ -7,7 +7,7 @@ export const onCall = {
   pageTypeSlug: "boolean-property",
   slug: "on-call",
   propertySlug: "on-call",
-  definition: "whether this stands ready for work sent to it",
+  definition: "whether this is ready for work sent to it",
   invariants: [
     {
       invariantKind: "departure",

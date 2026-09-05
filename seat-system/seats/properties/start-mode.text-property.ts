@@ -13,7 +13,7 @@ export const startMode = {
   invariants: [
     {
       invariantKind: "stopgap",
-      statement: "The modes a seat can start in do not stand as pages.",
+      statement: "The modes a seat can start in are no pages.",
     },
     {
       invariantKind: "gap",

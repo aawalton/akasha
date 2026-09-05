@@ -21,7 +21,7 @@ export const reExecAsk = {
     },
     {
       invariantKind: "stopgap",
-      statement: "The standings an ask can be in do not stand as pages.",
+      statement: "The standings an ask can be in are no pages.",
     },
   ],
 } as const satisfies TextProperty

@@ -13,7 +13,7 @@ export const rotatedSessionUuid = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This property stands between a clear and the binding that takes it.",
+      statement: "This property sits between a clear and the binding that takes it.",
     },
     {
       invariantKind: "departure",
