@@ -1,5 +1,5 @@
 diff --git a/markdown-pages/markdown-attachment-file/markdown-attachment-file.module.code.ts b/markdown-pages/markdown-attachment-file/markdown-attachment-file.module.code.ts
-index 988c584134a6000859b2f4d6e9876b56cd2b3a9a..4f803c87e2c6703ba9f589450522bf81d0acb8fa 100644
+index 988c584134a6000859b2f4d6e9876b56cd2b3a9a..999ef390b282244214c89052fb963d27c664fad2 100644
 --- a/markdown-pages/markdown-attachment-file/markdown-attachment-file.module.code.ts
 +++ b/markdown-pages/markdown-attachment-file/markdown-attachment-file.module.code.ts
 @@ -19,9 +19,9 @@ export function isAttachmentExtension(one: string): boolean {
@@ -14,6 +14,15 @@ index 988c584134a6000859b2f4d6e9876b56cd2b3a9a..4f803c87e2c6703ba9f589450522bf81
   * beside either one is named by dropping the page's own extension. `besideAt` is where akasha states
   * that rule, so a `.ts` page is asked of it rather than answered by a second copy of the rule here.
   */
+@@ -65,7 +65,7 @@ export function attachmentPathFor(
+     besideAt(pagePath, key, tailOf(extension, uncommitted)) !== null ||
+     pagePath.endsWith(PAGE_SUFFIX)
+   if (!named) {
+-    throw new Error(`an attachment stands beside a page, and '${pagePath}' is not one`)
++    throw new Error(`an attachment sits beside a page, and '${pagePath}' is not one`)
+   }
+   return attachmentFileOf(pagePath, key, extension, uncommitted)
+ }
 diff --git a/markdown-pages/markdown-page-types/markdown-page-types.module.test.ts b/markdown-pages/markdown-page-types/markdown-page-types.module.test.ts
 index b24a02fda20ca64d2f6139d11593e70df126b24d..972c6427a8d3bc6dc458877bf916f04f89884166 100644
 --- a/markdown-pages/markdown-page-types/markdown-page-types.module.test.ts
