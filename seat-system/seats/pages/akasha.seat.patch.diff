@@ -1,0 +1,16 @@
+diff --git a/domains/initiatives/pages/akasha-folder-shape.initiative.ts b/domains/initiatives/pages/akasha-folder-shape.initiative.ts
+index d189c839bfe3f6c5a46426f6af10ce763f8c8e10..a7d2b210c9f5ca771d9180dd4836577a9b207b2e 100644
+--- a/domains/initiatives/pages/akasha-folder-shape.initiative.ts
++++ b/domains/initiatives/pages/akasha-folder-shape.initiative.ts
+@@ -7,6 +7,11 @@ export const akashaFolderShape = {
+   domainSlug: "domain/akasha",
+   personaSlug: "akasha",
+   intents: [
++    {
++      statement: "Nothing in akasha reads a markdown page.",
++      workingMemory:
++        "No `.page-type.md`, `.uncommitted.yaml` or `.message.md` is there, and `markdown-property-registry` answers `[]`, so every markdown write is a no-op. Of 17 importers four want only `slugNamed`, which `pages/address` answers as `slugIn`. The rest are dead: `editor-arrangement` answers 400 on every write, `selection-policy` throws, `royal-road-syncing` exits 1. Five dead callers hold 48 of 60 modules. `Repo`, `Frontmatter` and `notUtf8` need a home, and the package declares `@akasha/seat-system`.",
++    },
+     {
+       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
+       workingMemory:
