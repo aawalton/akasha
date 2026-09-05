@@ -82,3 +82,29 @@ index f113872fb56985b1273972415776fe1911ee0eed..eb43944539056a61523e90cb8965958b
      },
      {
        invariantKind: "departure",
+diff --git a/editor-extension/node-cleanliness/node-cleanliness.module.ts b/editor-extension/node-cleanliness/node-cleanliness.module.ts
+index d9c6c0ee20085a468b7eedb6f2b4012fccb28439..55c606f6ebe81d077991b0b715e7233789da317d 100644
+--- a/editor-extension/node-cleanliness/node-cleanliness.module.ts
++++ b/editor-extension/node-cleanliness/node-cleanliness.module.ts
+@@ -38,7 +38,7 @@ export const nodeCleanliness = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "That repeats until nothing under the package is left over.",
++      statement: "That step repeats until nothing under the package is left over.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/vscode-stub/vscode-stub.javascript-module.ts b/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
+index 7cbf3642b394e9fa774eb8f8330dcdd8d6b7bf80..683cdff4c2407e15fbbd762abcce2dfc97fe03c4 100644
+--- a/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
++++ b/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
+@@ -9,7 +9,7 @@ export const vscodeStub = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This lands under node as the `vscode` an activation resolves.",
++      statement: "This module lands under node as the `vscode` an activation resolves.",
+     },
+     {
+       invariantKind: "departure",
