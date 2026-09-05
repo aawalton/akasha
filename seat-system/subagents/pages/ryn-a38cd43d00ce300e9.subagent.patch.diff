@@ -156,3 +156,35 @@ index 5f375c828f987f2858a5c0bbd5baf4d118199de7..033855e0dbcaccab843c16cfb453ab36
      {
        invariantKind: "departure",
        statement: "One path named more than once by a call is refused.",
+diff --git a/google/email/commands/email-drafts-create/email-drafts-create.command.ts b/google/email/commands/email-drafts-create/email-drafts-create.command.ts
+index 7df85dd19a09f915434a17185ce74d8521032d18..fcfc8592f8508aa2fa560195b5b24e0da82e8793 100644
+--- a/google/email/commands/email-drafts-create/email-drafts-create.command.ts
++++ b/google/email/commands/email-drafts-create/email-drafts-create.command.ts
+@@ -47,10 +47,7 @@ export const emailDraftsCreate = {
+       invariantKind: "departure",
+       statement: "A body read from a file is carried whole.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "An address list is split on commas as well as on repeated flags.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A sender given in angle brackets carries the name before the brackets.",
+diff --git a/google/email/commands/email-messages-send/email-messages-send.command.ts b/google/email/commands/email-messages-send/email-messages-send.command.ts
+index 594b540a28f131ba03f6871ca4c7ddb147daaeac..2351e5067aca859feb3a8c001b6a608440dfd035 100644
+--- a/google/email/commands/email-messages-send/email-messages-send.command.ts
++++ b/google/email/commands/email-messages-send/email-messages-send.command.ts
+@@ -47,10 +47,7 @@ export const emailMessagesSend = {
+       invariantKind: "departure",
+       statement: "A body read from a file is carried whole.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "An address list is split on commas as well as on repeated flags.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A sender given in angle brackets carries the name before the brackets.",
