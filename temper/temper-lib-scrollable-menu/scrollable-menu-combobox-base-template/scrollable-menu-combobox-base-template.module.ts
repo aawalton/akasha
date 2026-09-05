@@ -10,7 +10,7 @@ export const scrollableMenuComboboxBaseTemplate = {
     {
       invariantKind: "departure",
       statement:
-        "Caller templates are mixed over the defaults per entry type rather than replacing them.",
+        "Caller templates are mixed over the defaults per entry type rather than replacing those defaults.",
     },
     {
       invariantKind: "departure",
