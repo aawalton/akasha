@@ -15,7 +15,7 @@ export const rynTrainedParser = {
     {
       statement: "The check refuses a statement by the predicate a refused shape holds.",
       workingMemory:
-        "A blocklist: plain is no refused shape matched. The check passes every sentence today, because it reads the rules the shapes no longer state. Reading the predicates instead would refuse about 1,200 statements: lone-quantifier alone matches 985 of the 24,642, two thirds on the word one where that word counts nothing. partitive-quantifier matches 130, lone-determiner 36. Nothing goes on at patch until lone-quantifier is narrowed.",
+        "A blocklist: plain is no refused shape matched. The check passes everything today, because it reads the rules the shapes no longer state. Reading the predicates instead refuses about 1,200 of the 24,642 statements: lone-quantifier 985, lone-pronoun 186, partitive-quantifier 130, lone-determiner 36. Whether those refusals are sound is unsettled. 634 of lone-quantifier's are the word one; a sample read those as numerals, and the tags say most are the anaphoric one.",
     },
     {
       statement: "The shapes akasha refuses are rebuilt on the dependency tree.",
