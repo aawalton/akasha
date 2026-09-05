@@ -11,6 +11,33 @@ index 2670541c5e22d4efcd113beffd0a6fc699c4eb73..424df506d23e98f806b083cb6bb2c9c6
  export const SEAT_MODE_INTERACTIVE = "interactive"
  
  export const SEAT_MODE_HEADLESS = "headless"
+diff --git a/seat-system/seat-resume/seat-resume.module.code.ts b/seat-system/seat-resume/seat-resume.module.code.ts
+index 9249fbea834acf0859335fabe874833345d8be36..0b3e19d12253a7f728c38b73797e009d10dc5efc 100644
+--- a/seat-system/seat-resume/seat-resume.module.code.ts
++++ b/seat-system/seat-resume/seat-resume.module.code.ts
+@@ -1,5 +1,10 @@
+ import { parseArgs } from "@akasha/command-system/parse-args"
+-import { dataError, inputError, operationalError } from "@akasha/errors-core/exit-code"
++import {
++  dataError,
++  exitCodeForThrowable,
++  inputError,
++  operationalError,
++} from "@akasha/errors-core/exit-code"
+ import { readTranscriptMtimeMs } from "@akasha/seat-system/agent-io-probe"
+ import {
+   holdSeatPaneOpen,
+@@ -285,3 +290,10 @@ export default async function seatResume(args: readonly string[]): Promise<void>
+ }
+ 
+ export const help = HELP
++
++if (import.meta.main) {
++  seatResume(process.argv.slice(2)).catch((err: unknown) => {
++    process.stderr.write(`${err instanceof Error ? err.message : String(err)}\n`)
++    process.exit(exitCodeForThrowable(err))
++  })
++}
 diff --git a/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.code.ts b/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.code.ts
 index 133311f2a3be0985988302313ced4440b3f381d9..d4f4ae3c994e9b92d06cad3a8c42cfc67758f81b 100644
 --- a/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.code.ts
