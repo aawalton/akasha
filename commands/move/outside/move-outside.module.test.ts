@@ -1,4 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
+import {
+  idFiled,
+  listedFiled,
+  relationFiled,
+  schemaFiled,
+  valueAlsoFiled,
+} from "@akasha/indexes/testing"
 import { move } from "../move.command.code.ts"
 import {
   BINARY,
@@ -25,6 +32,45 @@ afterAll(scratch.sweep)
 const MOVED = new Map([[FOLDER, FOLDER_AT]])
 
 const AT = "tools/lib/reach.ts"
+
+const NAMED = "named-file-property"
+
+const PROPERTY_AT = "akasha/lockfile.named-file-property.ts"
+
+const PROPERTY_ID = "01a04bed-1450-7000-8000-00000000bbba"
+
+const TYPE_AT = "akasha/workspace.page-type.ts"
+
+const TYPE_ID = "01a04bed-1450-7000-8000-00000000bbbb"
+
+const OWNER_AT = "tools/one.workspace.ts"
+
+const OWNER_ID = "01a04bed-1450-7000-8000-00000000bbbc"
+
+const LOCK_NAME = "lock.json"
+
+function lockfileFiled(root: string): string {
+  listedFiled(root, NAMED, "lockfile", [{ path: PROPERTY_AT, id: PROPERTY_ID }])
+  idFiled(root, PROPERTY_ID, [{ path: PROPERTY_AT, id: PROPERTY_ID }])
+  schemaFiled(root, NAMED, "lockfile", [
+    {
+      pageTypeSlug: NAMED,
+      targetPageTypeSlug: null,
+      unique: null,
+      slug: "lockfile",
+      propertySlug: "lockfile",
+      fileName: LOCK_NAME,
+    },
+  ])
+  valueAlsoFiled(root, NAMED, [
+    { path: PROPERTY_AT, value: { fileName: LOCK_NAME, machineWritten: true } },
+  ])
+  listedFiled(root, "page-type", "workspace", [{ path: TYPE_AT, id: TYPE_ID }])
+  idFiled(root, TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
+  listedFiled(root, "workspace", "one", [{ path: OWNER_AT, id: OWNER_ID }])
+  relationFiled(root, PROPERTY_ID, "page-property-slug", TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
+  return root
+}
 
 test("a path spelled whole outside the akasha folder is repointed where it moved", () => {
   const said = repointedText(AT, '"akasha/one" "akasha/one-other"', MOVED)
@@ -91,6 +137,20 @@ test("a dry run writes nothing and names what it would repoint by its path", asy
   expect(said.refusals).toEqual([])
   expect(bodyIn(root, LOCK)).toBe(LOCKED)
   expect(told(said)).toContain(`spelling what moved by its path would be repointed — ${LOCK}`)
+})
+
+test("a file a machine writes is left alone rather than repointed", async () => {
+  const root = lockfileFiled(outsideWorld())
+  const said = await move(FOLDER_PAIR, givenIn(root))
+  expect(said.refusals).toEqual([])
+  expect(bodyIn(root, LOCK)).toBe(LOCKED)
+  expect(told(said)).toContain("no further file spelled what moved by its path")
+})
+
+test("a property saying an author writes the file leaves that file repointed", async () => {
+  const { root, said } = await outsideMoved()
+  expect(said.refusals).toEqual([])
+  expect(told(said)).toContain(`spelling what moved by its path was repointed — ${LOCK}`)
 })
 
 test("finding no further file is said as plainly as finding something", () => {
