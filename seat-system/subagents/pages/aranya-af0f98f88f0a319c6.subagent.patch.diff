@@ -14,3 +14,15 @@ index 0000000000000000000000000000000000000000..dd89b8107fbcbc745d4d5879e4879639
 +    "the namespace, the disk and the cron job copying the Postgres backups off to separate storage",
 +  code: "ts",
 +} as const satisfies Manifest
+diff --git a/infrastructure/seaweedfs/seaweedfs.workspace-package.ts b/infrastructure/seaweedfs/seaweedfs.workspace-package.ts
+index dd9c6081b6c005d658397cbc6a6984690fa82e94..848fb4ab4c94de9279ea42eb62a760f2af8634a9 100644
+--- a/infrastructure/seaweedfs/seaweedfs.workspace-package.ts
++++ b/infrastructure/seaweedfs/seaweedfs.workspace-package.ts
+@@ -9,6 +9,7 @@ export const seaweedfs = {
+   partSlugs: [
+     "manifest/seaweedfs-backup-assets",
+     "manifest/seaweedfs-backup-bulk",
++    "manifest/seaweedfs-backup-cnpg",
+     "manifest/seaweedfs-etcd-snapshot",
+     "manifest/seaweedfs-filer",
+     "manifest/seaweedfs-maintenance",
