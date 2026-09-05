@@ -108,6 +108,22 @@ index 5046d1f027c95f67eeb8b3cde3643a279965f9a2..20a0bd7ca22957a796d550aaf56195c2
      {
        invariantKind: "absence",
        statement: "Nothing here writes a clip or a frame the caller keeps.",
+diff --git a/infrastructure/inference-commands/inference-voice-clone/inference-voice-clone.command.ts b/infrastructure/inference-commands/inference-voice-clone/inference-voice-clone.command.ts
+index 4decd3c6fc47dde0c34b7e88925eba1394628e4a..86f65be1a68c7820cfe9f445ccc047af8072a440 100644
+--- a/infrastructure/inference-commands/inference-voice-clone/inference-voice-clone.command.ts
++++ b/infrastructure/inference-commands/inference-voice-clone/inference-voice-clone.command.ts
+@@ -53,10 +53,7 @@ export const inferenceVoiceClone = {
+       invariantKind: "departure",
+       statement: "The audio is written where the caller named that audio and nowhere else.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A run row is filed whether the speaking finished or failed.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here cuts the text into pieces.",
 diff --git a/story/chapters-played/story-chapter-played.page-type.ts b/story/chapters-played/story-chapter-played.page-type.ts
 index 3105765de04f6d660afdd61276afb567148bd6f5..504031cac23062d4dc8617bb2ee5895b56794cd3 100644
 --- a/story/chapters-played/story-chapter-played.page-type.ts
