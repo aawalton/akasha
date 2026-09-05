@@ -116,7 +116,7 @@ describe("judgeAccount", () => {
     )
   })
 
-  test("a key standing beside as null counts as a stamp that is not there", () => {
+  test("a key sitting beside as null counts as a stamp that is not there", () => {
     const one = judgeAccount(reading({ accessTokenExpiresAt: null, usageReadAt: null }), NOW)
     expect(one.verdict).toBe("never-reached")
   })
@@ -133,26 +133,24 @@ describe("judgeAccount", () => {
     expect(one.detail).toBe("nothing was held to look at")
   })
 
-  test("a stamp standing beside as anything but a string is unread", () => {
+  test("a stamp sitting beside as anything but a string is unread", () => {
     const one = judgeAccount(reading({ accessTokenExpiresAt: 1234, usageReadAt: at(0) }), NOW)
     expect(one.verdict).toBe("unread")
-    expect(one.detail).toBe("accessTokenExpiresAt stands beside as number, not a timestamp")
+    expect(one.detail).toBe("accessTokenExpiresAt sits beside as number, not a timestamp")
   })
 
-  test("a stamp standing beside as a string no date parser reads is unread", () => {
+  test("a stamp sitting beside as a string no date parser reads is unread", () => {
     const one = judgeAccount(
       reading({ accessTokenExpiresAt: at(5 * AN_HOUR), usageReadAt: "soon" }),
       NOW
     )
     expect(one.verdict).toBe("unread")
-    expect(one.detail).toBe("usageReadAt stands beside as 'soon', which is not a timestamp")
+    expect(one.detail).toBe("usageReadAt sits beside as 'soon', which is not a timestamp")
   })
 
   test("an unreadable expiry is named ahead of an unreadable usage reading", () => {
     const one = judgeAccount(reading({ accessTokenExpiresAt: "then", usageReadAt: "soon" }), NOW)
-    expect(one.detail).toBe(
-      "accessTokenExpiresAt stands beside as 'then', which is not a timestamp"
-    )
+    expect(one.detail).toBe("accessTokenExpiresAt sits beside as 'then', which is not a timestamp")
   })
 
   test("an expired token is answered ahead of a stale usage reading", () => {
@@ -166,7 +164,7 @@ describe("judgeAccount", () => {
   })
 
   test("a stated why is answered ahead of every stamp beside the page", () => {
-    expect(judgeAccount(reading(null, "no page stands"), NOW).detail).toBe("no page stands")
+    expect(judgeAccount(reading(null, "no page exists"), NOW).detail).toBe("no page exists")
   })
 
   test("the slug asked about is the slug answered", () => {

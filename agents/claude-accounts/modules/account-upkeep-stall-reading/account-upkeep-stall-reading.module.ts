@@ -44,12 +44,12 @@ export const accountUpkeepStallReading = {
     {
       invariantKind: "departure",
       statement:
-        "The worst standing fault is the one reported, so an expired token is never hidden behind a stale usage reading.",
+        "The worst fault found is the one reported, so an expired token is never hidden behind a stale usage reading.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The population is the claude-account pages that stand, and it is stated on every run.",
+        "The population is the claude-account pages there are, and it is stated on every run.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +59,7 @@ export const accountUpkeepStallReading = {
     {
       invariantKind: "departure",
       statement:
-        "No claude-account standing at all is a failure to look rather than a fleet in good health.",
+        "No claude-account there at all is a failure to look rather than a fleet in good health.",
     },
     {
       invariantKind: "departure",

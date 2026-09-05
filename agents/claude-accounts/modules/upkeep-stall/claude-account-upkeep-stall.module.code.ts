@@ -9,7 +9,7 @@ export const ACCESS_TOKEN_EXPIRES_AT = "accessTokenExpiresAt"
 
 export const USAGE_READ_AT = "usageReadAt"
 
-const NOTHING_BESIDE = "nothing stands beside its page, or nothing that parsed"
+const NOTHING_BESIDE = "nothing sits beside its page, or nothing that parsed"
 
 const MS_AN_HOUR = 60 * 60 * 1000
 
@@ -71,11 +71,11 @@ function stampAt(beside: Value, key: string): Stamp {
   const raw = beside[key]
   if (raw === undefined || raw === null) return { absent: true }
   if (typeof raw !== "string") {
-    return { why: `${key} stands beside as ${typeof raw}, not a timestamp` }
+    return { why: `${key} sits beside as ${typeof raw}, not a timestamp` }
   }
   const at = Date.parse(raw)
   if (Number.isNaN(at)) {
-    return { why: `${key} stands beside as '${raw}', which is not a timestamp` }
+    return { why: `${key} sits beside as '${raw}', which is not a timestamp` }
   }
   return { at }
 }
@@ -188,7 +188,7 @@ export function readingsIn(root: string): readonly AccountReading[] {
       return {
         slug: one.slug,
         beside: null,
-        why: `what stands beside \`${one.slug}\` would not read: ${sayOf(thrown)}`,
+        why: `what sits beside \`${one.slug}\` would not read: ${sayOf(thrown)}`,
       }
     }
   })

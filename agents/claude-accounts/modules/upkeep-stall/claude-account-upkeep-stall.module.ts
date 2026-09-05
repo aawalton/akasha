@@ -25,7 +25,7 @@ export const claudeAccountUpkeepStall = {
     },
     {
       invariantKind: "departure",
-      statement: "The worst standing fault is the verdict answered.",
+      statement: "The worst fault found is the verdict answered.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +38,7 @@ export const claudeAccountUpkeepStall = {
     },
     {
       invariantKind: "departure",
-      statement: "A stamp standing beside a page as anything but a timestamp reads as unread.",
+      statement: "A stamp sitting beside a page as anything but a timestamp reads as unread.",
     },
     {
       invariantKind: "departure",
@@ -56,7 +56,7 @@ export const claudeAccountUpkeepStall = {
     {
       invariantKind: "departure",
       statement:
-        "Every ruling states how many pages stood, how many were judged, and how many are current.",
+        "Every ruling states how many pages there were, how many were judged, and how many are current.",
     },
     {
       invariantKind: "departure",
@@ -95,7 +95,7 @@ export const claudeAccountUpkeepStall = {
     {
       invariantKind: "gap",
       statement:
-        "A page with nothing standing beside it has never been reached rather than reading as unread.",
+        "A page with nothing beside it has never been reached rather than reading as unread.",
     },
   ],
 } as const satisfies Module

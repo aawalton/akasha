@@ -43,7 +43,7 @@ function readingsUnder(root: string): readonly AccountReading[] {
   const readings = readingsIn(root)
   if (readings.length === 0) {
     throw new Error(
-      "no claude-account stands in akasha, and whether upkeep has stalled is ruled on by reading " +
+      "no claude-account exists in akasha, and whether upkeep has stalled is ruled on by reading " +
         "each one, so none to read is a failure to look rather than a fleet in good health"
     )
   }
@@ -59,7 +59,7 @@ function buildReading(stall: UpkeepStall, observedAtMs: number): StallReading {
     return {
       subject: "claude-account-upkeep",
       state: "no-population",
-      reason: "no claude-account page stands, so nothing could be ruled on",
+      reason: "no claude-account page exists, so nothing could be ruled on",
       observedAtMs,
       coverage,
       evidence: stall,
@@ -146,7 +146,7 @@ async function main(argv: readonly string[]): Promise<number> {
       }
       holdLatch(stall.stalled)
     } else {
-      // Nothing fresh is owed, so the latch follows what stands and recovered accounts drop out
+      // Nothing fresh is owed, so the latch follows what is stalled and recovered accounts drop out
       // of it, letting a later stall on the same account be stated rather than swallowed.
       holdLatch(stall.stalled)
     }
