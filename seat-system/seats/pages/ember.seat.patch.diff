@@ -239,3 +239,15 @@ index 0000000000000000000000000000000000000000..5463400bca2faef771039e031c9d5efc
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/temper/temper-items-rules-core/temper-items-rules-core.workspace-package.ts b/temper/temper-items-rules-core/temper-items-rules-core.workspace-package.ts
+index 9d0f15a508ee7492f48a08afbdc9c06a5aaaee4a..d46cfb8877f41cf6952974112a6013f85c56ad7a 100644
+--- a/temper/temper-items-rules-core/temper-items-rules-core.workspace-package.ts
++++ b/temper/temper-items-rules-core/temper-items-rules-core.workspace-package.ts
+@@ -55,6 +55,7 @@ export const temperItemsRulesCore = {
+     "module/inventory-rule-engine",
+     "module/inventory-rule-from-pages",
+     "module/inventory-rule-to-pages",
++    "module/inventory-rule-writes",
+     "module/inventory-rule-matcher-types",
+     "module/inventory-rule-settings",
+     "module/inventory-rule-test-utils",
