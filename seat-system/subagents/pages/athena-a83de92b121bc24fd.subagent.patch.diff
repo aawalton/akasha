@@ -88,7 +88,7 @@ index 5da9378f6a7adf761327247dd3699d4650bfd417..e843a842c821dc5e3f14ee135b60b8b5
  
  /**
 diff --git a/alan/tracking/session-activities/activity-default/activity-default.module.code.ts b/alan/tracking/session-activities/activity-default/activity-default.module.code.ts
-index 6dc5ac21d93d4d4177f2ecaaa0a0e4beab5923c4..1a503161aca05d283deb173dce1865b5fd53f32f 100644
+index 6dc5ac21d93d4d4177f2ecaaa0a0e4beab5923c4..536334725f1b66b706969447619e0755faa09b5d 100644
 --- a/alan/tracking/session-activities/activity-default/activity-default.module.code.ts
 +++ b/alan/tracking/session-activities/activity-default/activity-default.module.code.ts
 @@ -84,24 +84,15 @@ export function activityNamed(standing: readonly Standing[], title: string): Sta
@@ -125,6 +125,15 @@ index 6dc5ac21d93d4d4177f2ecaaa0a0e4beab5923c4..1a503161aca05d283deb173dce1865b5
  }
  
  export default async function trackingActivitySet(args: readonly string[]): Promise<void> {
+@@ -136,7 +127,7 @@ export default async function trackingActivitySet(args: readonly string[]): Prom
+   })
+   if ("refused" in composed) throw new Error(`the activity did not compose: ${composed.refused}`)
+ 
+-  await written(composed.put.path, composed.put.content, `${WRITER}: the activity ${slug}`)
++  await written(root, composed.put.path, composed.put.content, `${WRITER}: the activity ${slug}`)
+ 
+   const envelope = { id, at: composed.put.path, created: held === undefined, title, difficulty }
+   if (json) {
 diff --git a/alan/tracking/tracking-landing/tracking-landing.module.code.ts b/alan/tracking/tracking-landing/tracking-landing.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..d4f1dd1d2e016c892cd38dfe645bc726f47d8fe0
