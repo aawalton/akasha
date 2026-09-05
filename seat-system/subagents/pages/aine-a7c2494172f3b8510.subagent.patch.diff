@@ -1,0 +1,27 @@
+diff --git a/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.code.ts b/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.code.ts
+index 4721f06dbd5d2b12457f1b203450ef2915c6e3cb..fe4f117a9fb1b1485fd0ba461fb883719a6f5c64 100644
+--- a/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.code.ts
++++ b/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.code.ts
+@@ -99,7 +99,7 @@ export function temperEsoGenerateBaseGameGlobals(argv: readonly string[] = []):
+   }
+   if (stringIds.size === 0) {
+     return refused(
+-      `no string id stands among ${String(seen.size)} base-game name(s) in ` +
++      `no string id is among ${String(seen.size)} base-game name(s) in ` +
+         `${String(luaFiles.length)} Lua file(s) under ${esoRoot}. An empty census reads to every ` +
+         "consumer as a clean answer, so nothing was staged.",
+       DATA
+diff --git a/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.ts b/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.ts
+index 51afaf906008813863b94d28420c24c7f366431a..0dd706b6143399400d667dede6f6e3ab9235c85d 100644
+--- a/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.ts
++++ b/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.ts
+@@ -14,8 +14,7 @@ export const temperEsoGenerateBaseGameGlobals = {
+     },
+     {
+       said: "--code-root <path>",
+-      takes:
+-        "the checkout the census is staged against, for the page ids and bodies already standing",
++      takes: "the checkout the census is staged against, for the page ids and bodies already there",
+     },
+     {
+       said: "--stage <path>",
