@@ -22,7 +22,8 @@ export const newestWins = {
     },
     {
       invariantKind: "departure",
-      statement: "The ask waiting is taken up by the run in flight rather than by whoever asked.",
+      statement:
+        "The ask waiting is taken up by the run in flight rather than by the caller that asked.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +47,7 @@ export const newestWins = {
     },
     {
       invariantKind: "constraint",
-      statement: "Every ask carries a whole picture, so the newest says what the ones before said.",
+      statement: "Every ask carries a whole picture, so the newest repeats the ones before.",
     },
     {
       invariantKind: "absence",
@@ -54,7 +55,7 @@ export const newestWins = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what a run does.",
+      statement: "Nothing here knows a run's work.",
     },
   ],
 } as const satisfies Module
