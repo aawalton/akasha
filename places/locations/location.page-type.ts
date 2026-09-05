@@ -98,7 +98,7 @@ export const location = {
     },
     {
       invariantKind: "departure",
-      statement: "A place standing on an itinerary carries the hours it is scheduled between.",
+      statement: "A place on an itinerary carries the hours it is scheduled between.",
     },
   ],
 } as const satisfies PageType

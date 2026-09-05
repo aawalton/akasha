@@ -32,7 +32,7 @@ function tsconfigAt(root: string, rel: string, body: unknown): undefined {
   return undefined
 }
 
-test("a reference is read against the folder the tsconfig stating it stands in", () => {
+test("a reference is read against the folder the tsconfig stating it sits in", () => {
   expect(targetOf("infra/one/tsconfig.json", "../two")).toBe("infra/two")
   expect(targetOf("tsconfig.json", "./infra/one")).toBe("infra/one")
 })
@@ -63,7 +63,7 @@ test("the tsconfig files looked at are the root ones and one per workspace folde
   ])
 })
 
-test("a reference whose folder went is named, and one that stands is not", () => {
+test("a reference whose folder went is named, and one that is there is not", () => {
   const root = rootWith([])
   packageAt(root, "infra/one")
   tsconfigAt(root, "infra/one/tsconfig.json", {})

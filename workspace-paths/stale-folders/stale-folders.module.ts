@@ -15,7 +15,7 @@ export const staleFolders = {
     {
       invariantKind: "departure",
       statement:
-        "A folder is known by a file standing under it, so an empty folder git cannot name is stale.",
+        "A folder is known by a file under it, so an empty folder git cannot name is stale.",
     },
     {
       invariantKind: "departure",
