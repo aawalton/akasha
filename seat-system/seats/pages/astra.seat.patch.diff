@@ -1,0 +1,46 @@
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.code.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.code.ts
+index c1f7a8db49b98a72246aef48125bdd93edafd24a..a5b0dd46027fb92b6268593ee9b70937b955d6cc 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.code.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.code.ts
+@@ -12,9 +12,9 @@ const HELD = new Set<string>(["modules", "pages", "properties", "scripts"])
+ function packageIn(standing: Standing): Held | null {
+   if (standing.pages.length !== 2) return null
+   const above = standing.declaring(standing.folder)
+-  if (above === null || above.pluralSlug === null) return null
++  if (above === null) return null
+   const found = standing.pages.filter(
+-    (one) => one.pageTypeSlug === PACKAGE && one.slug === above.pluralSlug
++    (one) => one.pageTypeSlug === PACKAGE && one.slug === above.slug
+   )
+   return found.length === 1 ? (found[0] ?? null) : null
+ }
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.test.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.test.ts
+index f168c1682942e3bbab2501f845d648fba371fc35..e038bb81037ae65bf2146bf403ba0236140ba0e8 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.test.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.test.ts
+@@ -90,8 +90,8 @@ test("a subfolder named properties is a part", () => {
+   expect(judged(["properties/held.text-property.ts"], ["model.page-type.ts"])).toEqual([])
+ })
+ 
+-test("a workspace package slugged the page type's plural slug may sit beside it", () => {
+-  expect(judgedBy([], ["model.page-type.ts", "models.workspace-package.ts"], DECLARING)).toEqual([])
++test("a workspace package slugged the page type's slug may sit beside it", () => {
++  expect(judgedBy([], ["model.page-type.ts", "model.workspace-package.ts"], DECLARING)).toEqual([])
+ })
+ 
+ test("a workspace package slugged anything else is a second page and is refused", () => {
+@@ -112,12 +112,8 @@ test("a subfolder named scripts is a part", () => {
+   )
+ })
+ 
+-test("a page type stating no plural slug takes no workspace package beside it", () => {
+-  const said = judgedBy([], ["model.page-type.ts", "models.workspace-package.ts"], {
+-    slug: "model",
+-    pluralSlug: null,
+-    propertySlugs: new Set<string>(),
+-  })
++test("a workspace package slugged the page type's plural slug is a second page and is refused", () => {
++  const said = judgedBy([], ["model.page-type.ts", "models.workspace-package.ts"], DECLARING)
+   expect(said).toHaveLength(1)
+   expect(said[0]).toContain("2 pages rather than one")
+ })
