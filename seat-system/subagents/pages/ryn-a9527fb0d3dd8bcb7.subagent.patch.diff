@@ -1,5 +1,5 @@
 diff --git a/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts b/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts
-index e7519b745ed9c92652027b2697f7066fc01fa618..1d8b8273c25bf88ef77b232c6e4e5b9384d27a2d 100644
+index e7519b745ed9c92652027b2697f7066fc01fa618..889d9d0a5bd5706180e53320630306b801df1787 100644
 --- a/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts
 +++ b/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.ts
 @@ -10,7 +10,8 @@ export const claudeAccountCredentialFile = {
@@ -36,6 +36,15 @@ index e7519b745ed9c92652027b2697f7066fc01fa618..1d8b8273c25bf88ef77b232c6e4e5b93
        invariantKind: "departure",
 -      statement: "A push that is refused throws rather than answering that it pushed.",
 +      statement: "A push that is refused throws rather than answering that the push happened.",
+     },
+     {
+       invariantKind: "departure",
+@@ -67,7 +68,7 @@ export const claudeAccountCredentialFile = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run of writes settles for two seconds before one push is made of it.",
++      statement: "A run of writes settles for two seconds before one push is made of that run.",
      },
      {
        invariantKind: "departure",
