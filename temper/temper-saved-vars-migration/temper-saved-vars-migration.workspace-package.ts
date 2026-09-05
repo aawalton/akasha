@@ -33,6 +33,10 @@ export const temperSavedVarsMigration = {
       statement: "A file about to be overwritten is copied aside first.",
     },
     {
+      invariantKind: "departure",
+      statement: "A copy aside is made once rather than on every run.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here deletes the file a migration read from.",
     },

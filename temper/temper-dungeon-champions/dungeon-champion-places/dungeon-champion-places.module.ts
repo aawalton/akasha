@@ -17,6 +17,10 @@ export const dungeonChampionPlaces = {
       statement: "The groups are spread in the order the source table held the zones.",
     },
     {
+      invariantKind: "upkeep",
+      statement: "A zone belongs to one group of places alone.",
+    },
+    {
       invariantKind: "gap",
       statement:
         "A zone named in both groups would lose the earlier group's entries without a word.",
