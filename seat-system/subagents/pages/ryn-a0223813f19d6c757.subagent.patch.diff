@@ -78,30 +78,6 @@ index a933a716cc576c79420072a415a1229c9e33a79e..cfe03623fef7fe3804ab4eb4df115527
      {
        invariantKind: "absence",
        statement: "No watcher on a seat file or an initiative file is registered here.",
-diff --git a/readout-system/readouts/pages/inboxes-email/inboxes-email.readout.ts b/readout-system/readouts/pages/inboxes-email/inboxes-email.readout.ts
-index 0d7f7dfbd443edf330ba77a02eb6866123efd4a5..0de3a877535f62ee3d0aa01a5f4ba84551686c66 100644
---- a/readout-system/readouts/pages/inboxes-email/inboxes-email.readout.ts
-+++ b/readout-system/readouts/pages/inboxes-email/inboxes-email.readout.ts
-@@ -25,11 +25,19 @@ export const inboxesEmail = {
-       invariantKind: "departure",
-       statement: "The reading is how near the inbox came to empty rather than where the inbox is.",
-     },
-+<<<<<<< what this change would leave
-+
-+    {
-+      invariantKind: "departure",
-+      statement: "A count of zero is a count.",
-+    },
-+=======
-     {
-       invariantKind: "departure",
-       statement: "A count stated as text is read as the number that count spells.",
-     },
- 
-+>>>>>>> what HEAD holds
-     {
-       invariantKind: "departure",
-       statement: "No mail entry is no reading rather than a count of zero.",
 diff --git a/readout-system/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts b/readout-system/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts
 index e2c02322521119f3e31c83d0bab220a0cf037b7d..0514d4ef1652528da616baf3ca481fe3ae562634 100644
 --- a/readout-system/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts
