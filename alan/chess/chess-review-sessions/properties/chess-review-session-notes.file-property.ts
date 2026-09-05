@@ -11,7 +11,7 @@ export const chessReviewSessionNotes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The notes are what was said at the board rather than a summary written after.",
+      statement: "The notes are the words said at the board rather than a summary written after.",
     },
   ],
 } as const satisfies FileProperty
