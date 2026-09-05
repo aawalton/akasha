@@ -12,7 +12,7 @@ index 23a4217b4fd24f99af1d52d86715295704a1a731..43dfb1ac2b115df39b7a32ba3c399a76
    ],
  } as const satisfies Module
 diff --git a/command-system/commands/properties/help-notes.text-property.ts b/command-system/commands/properties/help-notes.text-property.ts
-index f0b0ea782bb18a3b6547034e0e648dce3f4eba5d..cd5bb408375e70d9aef921213589aca40fcc45f4 100644
+index f0b0ea782bb18a3b6547034e0e648dce3f4eba5d..1e6fd93ffc5112012413671ecc2acdd3163684b6 100644
 --- a/command-system/commands/properties/help-notes.text-property.ts
 +++ b/command-system/commands/properties/help-notes.text-property.ts
 @@ -13,7 +13,7 @@ export const helpNotes = {
@@ -24,6 +24,15 @@ index f0b0ea782bb18a3b6547034e0e648dce3f4eba5d..cd5bb408375e70d9aef921213589aca4
      },
      {
        invariantKind: "departure",
+@@ -21,7 +21,7 @@ export const helpNotes = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What one thing a command takes is for stands beside that thing rather than here.",
++      statement: "What one thing a command takes is for sits beside that thing rather than here.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/command-system/commands/properties/said.text-property.ts b/command-system/commands/properties/said.text-property.ts
 index b4462aa7efb6ca7435066b987c5565c8881906da..f38bb09647b229f020e280c2cf23bc552a009541 100644
 --- a/command-system/commands/properties/said.text-property.ts
