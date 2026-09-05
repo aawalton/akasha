@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/fitness/session-planning/novelty-budget/novelty-budget.module.ts b/alan/fitness/session-planning/novelty-budget/novelty-budget.module.ts
+index a27da73f637a9e50f096bc10ae1c484f32fa1928..43f15c7fec2547edb5775761a640be736c5d5879 100644
+--- a/alan/fitness/session-planning/novelty-budget/novelty-budget.module.ts
++++ b/alan/fitness/session-planning/novelty-budget/novelty-budget.module.ts
+@@ -10,7 +10,7 @@ export const noveltyBudget = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A slot is starved where every movement that could fill it is unlogged.",
++      statement: "A slot is starved where every movement that could fill that slot is unlogged.",
+     },
+     {
+       invariantKind: "departure",
