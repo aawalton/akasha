@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-build-deploy-checks/check-addon-sandbox-safety/check-addon-sandbox-safety.module.ts b/temper/temper-build-deploy-checks/check-addon-sandbox-safety/check-addon-sandbox-safety.module.ts
+index b160ec3ee9d49ce6f028ff23d24165d4ef858683..d1fbc76128371586317178a8552fc9c807e368f5 100644
+--- a/temper/temper-build-deploy-checks/check-addon-sandbox-safety/check-addon-sandbox-safety.module.ts
++++ b/temper/temper-build-deploy-checks/check-addon-sandbox-safety/check-addon-sandbox-safety.module.ts
+@@ -21,7 +21,7 @@ export const checkAddonSandboxSafety = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "A bundle that could not be read ends the run with what was read so far named.",
++      statement: "A bundle that could not be read ends the run with the bundles read so far named.",
+     },
+   ],
+ } as const satisfies Module
