@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-build-deploy-checks/check-addon-hook-eager-capture/check-addon-hook-eager-capture.module.ts b/temper/temper-build-deploy-checks/check-addon-hook-eager-capture/check-addon-hook-eager-capture.module.ts
+index 1abeb0529c73f5793a335bb5a27d642c5353e222..3aab3be9b0fa1b2022ccc12394d262d3bfdefdab 100644
+--- a/temper/temper-build-deploy-checks/check-addon-hook-eager-capture/check-addon-hook-eager-capture.module.ts
++++ b/temper/temper-build-deploy-checks/check-addon-hook-eager-capture/check-addon-hook-eager-capture.module.ts
+@@ -25,7 +25,7 @@ export const checkAddonHookEagerCapture = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "What the run declined to read is reported beside what the run read.",
++      statement: "The files the run declined to read are reported beside the files the run read.",
+     },
+   ],
+ } as const satisfies Module
