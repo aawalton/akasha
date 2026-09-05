@@ -41,7 +41,7 @@ export const seatShowing = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here changes what a seat is doing.",
+      statement: "Nothing here changes the work a seat is doing.",
     },
   ],
 } as const satisfies Module
