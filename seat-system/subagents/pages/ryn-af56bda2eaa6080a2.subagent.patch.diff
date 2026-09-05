@@ -1,0 +1,13 @@
+diff --git a/ki/ki-franchises/ki-franchise.page-type.ts b/ki/ki-franchises/ki-franchise.page-type.ts
+index 7bbe1e04f77d3c8ffb72f42708cc2492c0f4572c..86652d94ee3adeec1b5ede6e44a841a15e35c44f 100644
+--- a/ki/ki-franchises/ki-franchise.page-type.ts
++++ b/ki/ki-franchises/ki-franchise.page-type.ts
+@@ -13,7 +13,7 @@ export const kiFranchise = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A franchise of Ki's names the shows it takes in.",
++      statement: "A franchise of Ki's names the shows that franchise takes in.",
+     },
+     {
+       invariantKind: "departure",
