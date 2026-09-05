@@ -34,3 +34,17 @@ index 5b0065846430bd3a3a7c82ebd505f570dbd06e19..5773ad1303851d9746c77ab60f4efb7b
      "./typecheck": "./code-checks/pages/typecheck/typecheck.code-check.code.ts",
      "./typecheck/testing": "./code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts",
      "./run-cost": "./modules/run-cost/run-cost.module.code.ts"
+diff --git a/command-system/payload/payload.module.code.ts b/command-system/payload/payload.module.code.ts
+index d2839fc60ef08f4207ab5865edea80e64f27ed0f..443e23fa0d505ec784846a2dd471b53ec02d9933 100644
+--- a/command-system/payload/payload.module.code.ts
++++ b/command-system/payload/payload.module.code.ts
+@@ -1,8 +1,8 @@
+ import { readFileSync } from "node:fs"
+ import { resolve } from "node:path"
++import { notUtf8 } from "@akasha/checks/body-not-utf8"
+ import { decodeUtf8 } from "@akasha/code-system/utf8-body"
+ import { fail } from "@akasha/command-system/command-failing"
+-import { notUtf8 } from "@akasha/markdown-pages/body-not-utf8"
+ import {
+   AKASHA,
+   addressableNamed,
