@@ -1,0 +1,92 @@
+diff --git a/seat-system/proc-scan/proc-scan.module.code.ts b/seat-system/proc-scan/proc-scan.module.code.ts
+index cf8088998a39dbaea74e184de781c9f989d1f6b8..1eab38ee70ad447ca14f68bdb664af0c93e2fb9d 100644
+--- a/seat-system/proc-scan/proc-scan.module.code.ts
++++ b/seat-system/proc-scan/proc-scan.module.code.ts
+@@ -54,6 +54,7 @@ export function scanProcEntries(
+     }
+     const agentId = extractEnvironVar(environ, "AGENT_ID")
+     if (agentId === undefined) continue
++    const actingAgentId = extractEnvironVar(environ, "ACTING_AGENT_ID")
+     let cmdline: string
+     try {
+       cmdline = readFileSync(`/proc/${name}/cmdline`).toString("utf8").split("\0").join(" ")
+@@ -64,6 +65,7 @@ export function scanProcEntries(
+     const { state, ppid } = readProcStat(name)
+     entries.push({
+       agentId,
++      actingAgentId,
+       cmdline,
+       pid: Number(name),
+       startMs: st ? st.mtimeMs : undefined,
+diff --git a/seat-system/proc-scan/proc-scan.module.ts b/seat-system/proc-scan/proc-scan.module.ts
+index 2997231e2fdac13dcb056518f7d7e8f966fe6215..ca6eac4dadd91b1cc28e95ce437dbceb14383ba4 100644
+--- a/seat-system/proc-scan/proc-scan.module.ts
++++ b/seat-system/proc-scan/proc-scan.module.ts
+@@ -7,4 +7,14 @@ export const procScan = {
+   definition:
+     "every process under /proc carrying an AGENT_ID, with its command line, parent and state",
+   code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A process names the agent it acts under as well as the agent it runs as.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A process naming no acting agent carries none rather than carrying its own.",
++    },
++  ],
+ } as const satisfies Module
+diff --git a/seat-system/seat-proc-liveness/seat-proc-liveness.module.code.ts b/seat-system/seat-proc-liveness/seat-proc-liveness.module.code.ts
+index 36616e65a0a0e44f60df44fe6c06dc42d1786e87..87f9fca64ae58b03b136eeeb21818945b85129d7 100644
+--- a/seat-system/seat-proc-liveness/seat-proc-liveness.module.code.ts
++++ b/seat-system/seat-proc-liveness/seat-proc-liveness.module.code.ts
+@@ -25,6 +25,7 @@ function isSeatInfrastructureCmdline(cmdline: string): boolean {
+ 
+ export type ProcLivenessEntry = {
+   agentId: string
++  actingAgentId?: string
+   cmdline: string
+   pid: number
+   startMs?: number
+@@ -95,3 +96,22 @@ export function liveAgentPidsFromProc(
+   }
+   return byId
+ }
++
++// A SUBAGENT'S AGENT ID REACHES NO `AGENT_ID`. A subagent runs inside its seat's own Claude
++// process, so every process beneath it names the seat under `AGENT_ID` rather than the subagent.
++// What names the subagent is `ACTING_AGENT_ID`, which the harness sets on each process a subagent
++// spawns. A process carrying one proves that subagent is at work. Carrying none proves nothing,
++// because a subagent waiting on the model has spawned no process at all, so this answers who is
++// alive and never who is gone.
++export function actingAgentPidsFromProc(
++  entries: readonly ProcLivenessEntry[]
++): Map<string, number[]> {
++  const byId = new Map<string, number[]>()
++  for (const { actingAgentId, pid } of entries) {
++    if (actingAgentId === undefined || actingAgentId === "") continue
++    const existing = byId.get(actingAgentId)
++    if (existing === undefined) byId.set(actingAgentId, [pid])
++    else existing.push(pid)
++  }
++  return byId
++}
+diff --git a/seat-system/seat-proc-liveness/seat-proc-liveness.module.ts b/seat-system/seat-proc-liveness/seat-proc-liveness.module.ts
+index f5e639a9b6ea3b4d1ccb04745fc60e3ea4f8947a..fc27d4fd2d598fbb261cfa6e74fba3c8bb1a6d1e 100644
+--- a/seat-system/seat-proc-liveness/seat-proc-liveness.module.ts
++++ b/seat-system/seat-proc-liveness/seat-proc-liveness.module.ts
+@@ -26,5 +26,13 @@ export const seatProcLiveness = {
+       invariantKind: "departure",
+       statement: "A process in uninterruptible sleep is not counted as a background task.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A subagent is named on a process by the agent that process acts under.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A process carrying no acting agent is evidence of nobody rather than of an end.",
++    },
+   ],
+ } as const satisfies Module
