@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
-index c70536b6a67282fc3d9e4bf031e92e4022f44e92..80128db53c61d09904e6731caf4a7557f2e26025 100644
+index c70536b6a67282fc3d9e4bf031e92e4022f44e92..4f4bb729b65f3c0c3a5ddc6a749da3fece588073 100644
 --- a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 +++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 @@ -5,7 +5,9 @@ import type { Change } from "@akasha/pages-system/change"
@@ -12,3 +12,11 @@ index c70536b6a67282fc3d9e4bf031e92e4022f44e92..80128db53c61d09904e6731caf4a7557
    omittingIn,
    reachedBy,
    reachesTypegen,
+@@ -17,6 +19,7 @@ import {
+ import {
+   CALLS_HELD,
+   change,
++  DECLARED_AT,
+   declared,
+   declaring,
+   EARLY,
