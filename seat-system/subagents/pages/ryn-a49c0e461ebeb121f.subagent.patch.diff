@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/commands/refactor/type-renaming/type-renaming.module.ts b/command-system/commands/refactor/type-renaming/type-renaming.module.ts
+index 9f7f9ceeebca03ed6cb14c4dc59f2410a4ee2552..68c32b08b5ef303a00b044569504c36d4a982c21 100644
+--- a/command-system/commands/refactor/type-renaming/type-renaming.module.ts
++++ b/command-system/commands/refactor/type-renaming/type-renaming.module.ts
+@@ -36,7 +36,7 @@ export const typeRenaming = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What a page states is found through the syntax of its file rather than by matching text.",
++        "The values a page states are found through the syntax of its file rather than by matching text.",
+     },
+     {
+       invariantKind: "departure",
