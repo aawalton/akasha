@@ -1,3 +1,25 @@
+diff --git a/pages/indexes/index-answering/index-answering.module.code.ts b/pages/indexes/index-answering/index-answering.module.code.ts
+index 747896cf51a4bcffbd8043dc05e9feb3a77469a4..4672a21ae708d841f432d96b0a651a0ef9086a22 100644
+--- a/pages/indexes/index-answering/index-answering.module.code.ts
++++ b/pages/indexes/index-answering/index-answering.module.code.ts
+@@ -80,7 +80,7 @@ export type Answering = {
+   readonly typeSlugOf: (id: string) => string
+ }
+ 
+-export function answeringOver(reading: Reading, root: string | null, pageOf: PageOf): Answering {
++export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
+   return {
+     carriedIn: (value, declaredBy) => carriedIn(value, reading, declaredBy),
+     carryingOf: (named) => carryingOf(reading, named),
+@@ -92,7 +92,7 @@ export function answeringOver(reading: Reading, root: string | null, pageOf: Pag
+     fileKeysAt: () => fileKeysAt(reading),
+     filePropertiesAt: () => filePropertiesAt(reading),
+     idsNaming: (id, propertySlug) => idsNaming(reading, id, propertySlug),
+-    importersOf: (path) => importersOf(root, path, reading),
++    importersOf: (path) => importersOf(path, reading),
+     kindsUnder: (slug) => kindsUnder(slug, reading, pageOf),
+     knownIn: () => knownIn(reading, pageOf),
+     listedAt: (pageTypeSlug, slug) => listedAt(reading, pageTypeSlug, slug),
 diff --git a/pages/indexes/index-reading/index-reading.module.code.ts b/pages/indexes/index-reading/index-reading.module.code.ts
 index 58f21e09db9a2844a409ab83ec1512d414878e51..4ef31f9bfee1d7750ba4380598620311f6cdb409 100644
 --- a/pages/indexes/index-reading/index-reading.module.code.ts
