@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.ts b/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.ts
+index b77ec373b9ac91191db3b300675182454e051fae..c374f28afcc8eb10989e77dcc339dca678229768 100644
+--- a/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.ts
++++ b/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.ts
+@@ -35,7 +35,7 @@ export const supervisorLimitResumeEffects = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A decide that throws is at fault, and the fault carries what it said.",
++      statement: "A decide that throws is at fault, and the fault carries what that decide said.",
+     },
+   ],
+ } as const satisfies Module
