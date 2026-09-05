@@ -9,7 +9,7 @@ export const companionSupportEvaluator = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The support damage metric is multiplied by four before it is returned.",
+      statement: "The support damage metric is multiplied by four before that metric is returned.",
     },
     {
       invariantKind: "departure",
