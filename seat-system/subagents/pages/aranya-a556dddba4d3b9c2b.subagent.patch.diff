@@ -34,7 +34,7 @@ index a44f6fc575bf506f9b495a0cb2fd548a825d9977..2a46470895d4940a1f6e3bc9a593069a
      knownIn: () => knownIn(reading, pageOf),
      listedAt: (pageTypeSlug, slug) => listedAt(reading, pageTypeSlug, slug),
 diff --git a/pages/indexes/answering/index-answering.module.test.ts b/pages/indexes/answering/index-answering.module.test.ts
-index db19efdc4707b002bffeb2346e08c9f719bc5086..c718063fd08d1aeb903a44de6c710aeeb0b1cc3a 100644
+index db19efdc4707b002bffeb2346e08c9f719bc5086..cbd3131d5fe8465a0e40359a6def13c84a016653 100644
 --- a/pages/indexes/answering/index-answering.module.test.ts
 +++ b/pages/indexes/answering/index-answering.module.test.ts
 @@ -117,7 +117,7 @@ function seeded(): string {
@@ -89,6 +89,15 @@ index db19efdc4707b002bffeb2346e08c9f719bc5086..c718063fd08d1aeb903a44de6c710aee
    expect(index.listedAt(MODULE, "laid")).toEqual([{ path: LAID_AT, id: LAID_ID }])
    expect(listedAt(root, MODULE, "laid")).toEqual([])
    expect(index.everyPath()).toContain(LAID_AT)
+@@ -189,7 +179,7 @@ const COLD: Reading = { holds: () => false, listing: () => [], lines: () => [] }
+ 
+ test("no question falls back to the index at a root, even one handed in for something else", () => {
+   const root = seeded()
+-  const index = answeringOver(COLD, root, pageOf)
++  const index = answeringOver(COLD, pageOf)
+   expect(listedAt(root, MODULE, "held")).toHaveLength(1)
+   expect(() => index.everyOfType(MODULE)).toThrow(NOT_THERE)
+   expect(() => index.everyPath()).toThrow(NOT_THERE)
 diff --git a/pages/indexes/reading/index-reading.module.code.ts b/pages/indexes/reading/index-reading.module.code.ts
 index ed0dff829933eb31fba0f14536a2b8cf85ae8d83..4ec4e6aa06f74f0e1bef2ad240c866bd3a440cee 100644
 --- a/pages/indexes/reading/index-reading.module.code.ts
