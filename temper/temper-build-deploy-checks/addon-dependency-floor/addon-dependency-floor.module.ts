@@ -21,7 +21,7 @@ export const addonDependencyFloor = {
     },
     {
       invariantKind: "constraint",
-      statement: "What is not judged is counted and reported.",
+      statement: "A dependency that is not judged is counted and reported.",
     },
   ],
 } as const satisfies Module
