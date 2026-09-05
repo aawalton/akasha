@@ -1,5 +1,5 @@
 diff --git a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
-index 55335249f28d8135d090a6f8063d0f1d9ecf1b9f..ce22d862bd9cff58cd60dd74e428cd2a460ca644 100644
+index 55335249f28d8135d090a6f8063d0f1d9ecf1b9f..a7eae962e476898e4daddfb004a51cf55a4b0abd 100644
 --- a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
 +++ b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
 @@ -21,7 +21,8 @@ export const agentTreePanel = {
@@ -9,6 +9,15 @@ index 55335249f28d8135d090a6f8063d0f1d9ecf1b9f..ce22d862bd9cff58cd60dd74e428cd2a
 -      statement: "A second change during that wait replaces the first rather than adding to it.",
 +      statement:
 +        "A second change during that wait replaces the first rather than adding to that first change.",
+     },
+     {
+       invariantKind: "departure",
+@@ -39,7 +40,7 @@ export const agentTreePanel = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The badge counts the agents running and the description counts them again in words.",
++        "The badge counts the agents running and the description counts those agents again in words.",
      },
      {
        invariantKind: "departure",
