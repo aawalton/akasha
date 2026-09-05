@@ -1,3 +1,72 @@
+diff --git a/commands/dev-server/dev-server.command.code.ts b/commands/dev-server/dev-server.command.code.ts
+index 44b6ee7f4028098cb0645f6595f2bc128c073cd7..e8d81bcff5ae40e2f9f22e3f94aab8b7672ffd2a 100644
+--- a/commands/dev-server/dev-server.command.code.ts
++++ b/commands/dev-server/dev-server.command.code.ts
+@@ -1,5 +1,4 @@
+ import { existsSync, openSync, unlinkSync } from "node:fs"
+-import { open } from "node:fs/promises"
+ import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
+ import {
+   readEnvLocal,
+@@ -30,6 +29,7 @@ import { enforceMemoryGuard } from "@akasha/utils-system/memory-guard"
+ import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+ import { refused } from "../../command-system/calling/calling.module.code.ts"
+ import { whyOf } from "../../command-system/fault-saying/fault-saying.module.code.ts"
++import { lastLinesOf } from "./last-lines/last-lines.module.code.ts"
+ 
+ export const BOOTSTRAP = "bootstrap"
+ 
+@@ -80,8 +80,6 @@ const TERM_TIMEOUT_MS = 5000
+ 
+ const EARLY_EXIT_MS = 200
+ 
+-const READ_CHUNK = 64 * 1024
+-
+ const KIND = "dev-server"
+ 
+ const PORT_MARK = "<PORT>"
+@@ -437,29 +435,6 @@ async function reading(read: {
+   return { report: records.map(devServerTsvLine), refusals: [], code: 0 }
+ }
+ 
+-export async function lastLinesOf(path: string, many: number): Promise<readonly string[]> {
+-  const handle = await open(path, "r")
+-  try {
+-    const stat = await handle.stat()
+-    let at = stat.size
+-    let held = ""
+-    let lines = 0
+-    while (at > 0 && lines <= many) {
+-      const chunk = Math.min(READ_CHUNK, at)
+-      at -= chunk
+-      const buffer = Buffer.alloc(chunk)
+-      await handle.read(buffer, 0, chunk, at)
+-      held = buffer.toString("utf8") + held
+-      lines = held.match(/\n/g)?.length ?? 0
+-    }
+-    const every = held.split("\n")
+-    const last = every.at(-1) === "" ? every.slice(0, -1) : every
+-    return last.length > many ? last.slice(last.length - many) : last
+-  } finally {
+-    await handle.close()
+-  }
+-}
+-
+ async function tailing(read: { seq: number; app: string; tail: number }): Promise<Answer> {
+   await lookupApp(read.app)
+   const path = logFilePath(read.seq, read.app)
+diff --git a/commands/dev-server/dev-server.command.ts b/commands/dev-server/dev-server.command.ts
+index 46bf5395522979a4b6111d76eea2a82525ca1d95..07799a25c74ce9afb6ee46f99b08176684847d5c 100644
+--- a/commands/dev-server/dev-server.command.ts
++++ b/commands/dev-server/dev-server.command.ts
+@@ -8,6 +8,7 @@ export const devServer = {
+   code: "ts",
+   test: "ts",
+   changeKindSlug: "change-mechanical",
++  partSlugs: ["module/last-lines"],
+   taking: [
+     {
+       said: "bootstrap",
 diff --git a/commands/dev-server/last-lines/last-lines.module.code.ts b/commands/dev-server/last-lines/last-lines.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..fa6197eb4d1fe19c855b014e5a3e0891bdf30b12
