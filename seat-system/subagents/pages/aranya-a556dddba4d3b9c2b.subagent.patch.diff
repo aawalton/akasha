@@ -141,6 +141,103 @@ index a3c7dcf25c50c44fc276053ed28866f02e1ece3e..c42eacef20278a5c15da10e555ab989a
    )
    return {
      report,
+diff --git a/commands/index/index.command.test.ts b/commands/index/index.command.test.ts
+index 4d0483f2cb95c71886abc63f825ac97e895f565d..b8b0cd01bd17168e539e0987dac657fbc10db84b 100644
+--- a/commands/index/index.command.test.ts
++++ b/commands/index/index.command.test.ts
+@@ -4,7 +4,6 @@ import { join } from "node:path"
+ import { said as git } from "@akasha/git/git-running"
+ import { indexNamed, indexThere } from "@akasha/indexes"
+ import {
+-  besideTheIndex,
+   everythingFiled,
+   importUnreadableFiled,
+   indexTakenFrom,
+@@ -13,7 +12,6 @@ import {
+   listedUnreadableFiled,
+   rebuiltApart,
+   rebuiltIn,
+-  stampListedIn,
+ } from "@akasha/indexes/testing"
+ import { id as idPage } from "@akasha/pages-system/page/id"
+ import { slug as slugPage } from "@akasha/pages-system/page/slug"
+@@ -151,16 +149,8 @@ test("a second act is refused rather than chosen between", () => {
+ })
+ 
+ test("`refresh` is read, and the flags with it", () => {
+-  expect(readIn(["refresh", "--dry-run"])).toEqual({
+-    act: "refresh",
+-    dryRun: true,
+-    unlanded: false,
+-  })
+-  expect(readIn(["refresh", "--unlanded"])).toEqual({
+-    act: "refresh",
+-    dryRun: false,
+-    unlanded: true,
+-  })
++  expect(readIn(["refresh", "--dry-run"])).toEqual({ act: "refresh", dryRun: true })
++  expect(readIn(["refresh"])).toEqual({ act: "refresh", dryRun: false })
+ })
+ 
+ test("an index that is not there is built, and it is the index a clean rebuild builds", () => {
+@@ -169,14 +159,13 @@ test("an index that is not there is built, and it is the index a clean rebuild b
+   const answer = index(["refresh"], givenAt(root))
+   expect(answer.code).toBe(OK)
+   expect(everythingFiled(root)).toEqual(wanted)
+-  expect(said(answer)).toContain(`${indexNamed()} was replaced whole`)
++  expect(said(answer)).toContain(`${indexNamed()} was repaired in place`)
+ })
+ 
+-test("the rebuild's stamp is read back and named, and it names HEAD", () => {
++test("the commit the index was built over is named in the report", () => {
+   const root = repoAt()
+   const answer = index(["refresh"], givenAt(root))
+-  expect(said(answer)).toContain(`stamped with ${git(root, ["rev-parse", "HEAD"]).trim()}`)
+-  expect(stampListedIn(root)?.settled).toEqual([])
++  expect(said(answer)).toContain(git(root, ["rev-parse", "HEAD"]).trim())
+ })
+ 
+ test("`index refresh` is reached with no index at all", async () => {
+@@ -231,29 +220,16 @@ test("an index already saying what the pages say is reported as differing in not
+   expect(said(answer)).toContain("nothing in the index differed from what the pages say")
+ })
+ 
+-test("a worktree standing apart from HEAD is refused, and nothing is put in place", () => {
++test("a worktree differing from HEAD is built over rather than refused", () => {
+   const root = repoAt()
+   seeded(root)
+-  const was = everythingFiled(root)
+   writeFileSync(join(root, "b.domain.ts"), bodyOf({ id: B_ID, pageTypeSlug: "domain", slug: "b" }))
+   const answer = index(["refresh"], givenAt(root))
+-  expect(answer.code).toBe(DATA)
+-  expect(answer.refusals[0]).toContain("stands apart from HEAD in 1 path")
+-  expect(answer.refusals[1]).toContain("--unlanded")
+-  expect(everythingFiled(root)).toEqual(was)
+-})
+-
+-test("`--unlanded` builds over the worktree, and the stamp names what stands apart", () => {
+-  const root = repoAt()
+-  writeFileSync(join(root, "b.domain.ts"), bodyOf({ id: B_ID, pageTypeSlug: "domain", slug: "b" }))
+-  const answer = index(["refresh", "--unlanded"], givenAt(root))
+   expect(answer.code).toBe(OK)
+   expect(listedFiledIn(root, "domain", "b")).toBe(true)
+-  expect(said(answer)).toContain("stand apart from HEAD and the stamp names them")
+-  expect(stampListedIn(root)?.settled).toEqual(["b.domain.ts"])
+ })
+ 
+-test("`--dry-run` puts nothing in place and leaves nothing aside", () => {
++test("`--dry-run` puts nothing in place", () => {
+   const root = repoAt()
+   seeded(root)
+   listedTakenFrom(root, "domain", "a")
+@@ -263,7 +239,6 @@ test("`--dry-run` puts nothing in place and leaves nothing aside", () => {
+   expect(said(answer)).toContain("nothing was put in place — --dry-run")
+   expect(said(answer)).toContain("the index differed from what the pages say")
+   expect(everythingFiled(root)).toEqual(was)
+-  expect(besideTheIndex(root)).toEqual([])
+ })
+ 
+ test("a refresh leaves the landing lock behind it", () => {
 diff --git a/commands/move/naming/move-naming.module.code.ts b/commands/move/naming/move-naming.module.code.ts
 index 51987aa8c2dd12102189ae0df3cb3281664de40d..a8ca9593aee9a0925c937a29e9dc353d81a21f1c 100644
 --- a/commands/move/naming/move-naming.module.code.ts
