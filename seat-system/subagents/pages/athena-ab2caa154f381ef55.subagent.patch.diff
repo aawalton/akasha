@@ -67,6 +67,18 @@ index b2515cc78490e508bebb27fa6bb2e61dd3f619a9..12bd8fafe73cb6b3c96991e59750dbd8
 +    "akasha seat reset '#12832' --force",
    ],
  }
+diff --git a/seat-system/seat-reset-help/seat-reset-help.module.ts b/seat-system/seat-reset-help/seat-reset-help.module.ts
+index af4bc37d4492ebf0d4ac82ef3f6a5d25417fa865..802ab4bc9d7c9d2a229799abdba0eda230419bc6 100644
+--- a/seat-system/seat-reset-help/seat-reset-help.module.ts
++++ b/seat-system/seat-reset-help/seat-reset-help.module.ts
+@@ -4,6 +4,6 @@ export const seatResetHelp = {
+   id: "01a069bd-bdc5-7419-abec-d44a78f74c03",
+   pageTypeSlug: "module",
+   slug: "seat-reset-help",
+-  definition: "the positionals, flags, exits and examples `ops seat reset` declares",
++  definition: "the positionals, flags, exits and examples `akasha seat reset` declares",
+   code: "ts",
+ } as const satisfies Module
 diff --git a/seat-system/seat-reset/seat-reset.module.code.ts b/seat-system/seat-reset/seat-reset.module.code.ts
 index 3505b650558240c72295a3abaee81bf5a1a92d9a..0dd1ad1e5a024fcfc0f31d34346de4f2d29bfaf5 100644
 --- a/seat-system/seat-reset/seat-reset.module.code.ts
