@@ -33,7 +33,7 @@ export const lonePronoun = {
     },
     {
       invariantKind: "departure",
-      statement: "`What` before the noun that word determines is passed over.",
+      statement: "A free relative that determines the next word is passed over.",
     },
   ],
 } as const satisfies SentenceShape
