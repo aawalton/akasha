@@ -1,0 +1,23 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-the-type-above/pages-of-the-type-above.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-the-type-above/pages-of-the-type-above.folder-shape.ts
+index 2ea6e2421b2f7cb425fb8e3a611bf3de70be1024..2364f950f04443a099f60c7b2fd70a5ce8a87d27 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-the-type-above/pages-of-the-type-above.folder-shape.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-the-type-above/pages-of-the-type-above.folder-shape.ts
+@@ -19,7 +19,7 @@ export const pagesOfTheTypeAbove = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "That page type says what belongs here.",
++      statement: "That page type says which pages belong here.",
+     },
+     {
+       invariantKind: "departure",
+@@ -39,7 +39,7 @@ export const pagesOfTheTypeAbove = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "What else a subfolder holds is judged where that subfolder is judged.",
++      statement: "Anything else a subfolder holds is judged where that subfolder is judged.",
+     },
+     {
+       invariantKind: "departure",
