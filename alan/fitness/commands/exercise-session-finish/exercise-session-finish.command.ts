@@ -42,7 +42,6 @@ export const exerciseSessionFinish = {
       statement:
         "A session carrying no moment started is answered with no duration rather than zero.",
     },
-
     {
       invariantKind: "absence",
       statement: "Nothing here logs a set.",
