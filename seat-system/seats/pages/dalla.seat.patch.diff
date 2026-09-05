@@ -94,3 +94,15 @@ index 4ea48fe70aae262462abb6904e10611c07b64b72..c5cc6ba3e89417ed2bdc196d1c9f2013
      {
        invariantKind: "departure",
        statement: "A patch no longer mechanical is mechanical again for no later change.",
+diff --git a/commands/patch/patch.command.code.ts b/commands/patch/patch.command.code.ts
+index 28ffd619df397839bc783d7257392a97858ca2a4..7d4e8a8ebb7ead85371a0e955732b1ad98378a01 100644
+--- a/commands/patch/patch.command.code.ts
++++ b/commands/patch/patch.command.code.ts
+@@ -17,6 +17,7 @@ import {
+ import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+ import {
+   DROPPED,
++  droppedAt,
+   droppedPatch,
+   type Rebased,
+   rebasedOnto,
