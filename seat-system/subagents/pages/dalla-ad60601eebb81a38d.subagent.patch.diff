@@ -1,3 +1,15 @@
+diff --git a/commands/move/move.command.code.ts b/commands/move/move.command.code.ts
+index 9f7ab00202ee4d087f2074a36511280c7b292da9..cc219cd646a065577721520aa1b1fab6bdea7680 100644
+--- a/commands/move/move.command.code.ts
++++ b/commands/move/move.command.code.ts
+@@ -260,6 +260,7 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
+       ...carrying(sided.sides, reached, false, spread, landed.cleared),
+       ...resettlingSaid(root, named, true),
+     ],
++    draft: given.agentId !== null,
+   }
+   const relink = read.dryRun ? () => undefined : reachedOver(root, linkingsIn(moved, bodyText))
+   let landed: Answer
 diff --git a/commands/replace/replace.command.code.ts b/commands/replace/replace.command.code.ts
 index 82b261b5c9726a8fdc5fea2ee7f335760e510141..fe448e5279b7b35f9b13475d1afddffd76ec29df 100644
 --- a/commands/replace/replace.command.code.ts
