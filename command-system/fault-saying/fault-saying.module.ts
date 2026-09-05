@@ -35,7 +35,7 @@ export const faultSaying = {
     {
       invariantKind: "departure",
       statement:
-        "A reader outside command-system reaches this module by the name the manifest gives it.",
+        "A reader outside command-system reaches this module by the name the manifest gives that module.",
     },
     {
       invariantKind: "absence",
