@@ -19,14 +19,14 @@ const TABLE = "akasha/one/routes.ts"
 
 const TYPED_ROUTE = "akasha/one/routes/api.addons.download.ts"
 
-const TYPED_ROUTE_AT = "akasha/one/routes/addon-bundle/addon-bundle.route.code.ts"
+const TYPED_ROUTE_AT = "akasha/one/routes/addon-parcel/addon-parcel.route.code.ts"
 
 const TYPED_CODE = `import type { Route } from "./+types/api.addons.download"
 
 export const it: Route | null = null
 `
 
-const TYPED_REPOINTED = `import type { Route } from "./+types/addon-bundle.route.code"
+const TYPED_REPOINTED = `import type { Route } from "./+types/addon-parcel.route.code"
 
 export const it: Route | null = null
 `
