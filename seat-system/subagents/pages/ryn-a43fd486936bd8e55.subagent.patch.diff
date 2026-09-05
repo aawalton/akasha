@@ -38,3 +38,16 @@ index 0412d6b76afaf6ac2ce94f0935b80c158e613cf3..d63f5e54249530e4b745c8d64388b647
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
+index fc7e1ef1221d670ccc8608eb0e849e956c4073dc..a46021785e7cf104b10217c3401615ce93d0180a 100644
+--- a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
++++ b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
+@@ -53,7 +53,7 @@ export const surplusFallNotifying = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A tick still working when the ceiling is reached ends the process rather than leaving a second tick to start beside it.",
++        "A tick still working at the ceiling ends the process rather than leaving two ticks at once.",
+     },
+     {
+       invariantKind: "departure",
