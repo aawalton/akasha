@@ -17,7 +17,7 @@ export const housingLibraryDataEu = {
     },
     {
       invariantKind: "gap",
-      statement: "An entry moved to another place moves what every library row shows.",
+      statement: "An entry moved to another place moves the entry every library row shows.",
     },
   ],
 } as const satisfies Module
