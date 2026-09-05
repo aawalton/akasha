@@ -117,7 +117,7 @@ export const index = {
     },
     {
       invariantKind: "gap",
-      statement: "Only what imports a file is refused, and only for a path that makes an edge.",
+      statement: "Only an importer of a file is refused, and only for a path that makes an edge.",
     },
     {
       invariantKind: "gap",
