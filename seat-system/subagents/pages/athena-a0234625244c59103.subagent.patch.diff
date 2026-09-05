@@ -1,0 +1,94 @@
+diff --git a/editor-extension/page-tree-assemble/page-tree-assemble.module.test.ts b/editor-extension/page-tree-assemble/page-tree-assemble.module.test.ts
+index 894bf90b8abcc4676ed645f16c7b9d70017654d5..0cacaa6fc5bb4eea37bdf82d86876b532ab8ab3e 100644
+--- a/editor-extension/page-tree-assemble/page-tree-assemble.module.test.ts
++++ b/editor-extension/page-tree-assemble/page-tree-assemble.module.test.ts
+@@ -8,7 +8,7 @@ import {
+ 
+ const REPO = "/repo"
+ 
+-function typeRow(slug: string, above: string | null): QueryRow {
++function typeRow(slug: string, above: readonly string[]): QueryRow {
+   return { at: `akasha:one/${slug}.page-type.ts`, values: { slug, "extends-slug": above } }
+ }
+ 
+@@ -22,7 +22,7 @@ function idsIn(nodes: readonly PageNode[]): readonly string[] {
+ 
+ test("a page type naming one type above it is drawn under it with the id it always had", () => {
+   const said = assemblePageTree(
+-    answersOf([typeRow("page", null), typeRow("module", "page")], []),
++    answersOf([typeRow("page", []), typeRow("module", ["page"])], []),
+     REPO
+   )
+ 
+@@ -34,11 +34,11 @@ test("a page type naming two types above it is drawn once under each of them", (
+   const said = assemblePageTree(
+     answersOf(
+       [
+-        typeRow("page", null),
+-        typeRow("module", "page"),
+-        typeRow("page-property", "page"),
+-        typeRow("computed-property", "module"),
+-        typeRow("computed-property", "page-property"),
++        typeRow("page", []),
++        typeRow("module", ["page"]),
++        typeRow("page-property", ["page"]),
++        typeRow("computed-property", ["module"]),
++        typeRow("computed-property", ["page-property"]),
+       ],
+       []
+     ),
+@@ -60,12 +60,12 @@ test("everything under a second drawing carries an id of its own", () => {
+   const said = assemblePageTree(
+     answersOf(
+       [
+-        typeRow("page", null),
+-        typeRow("module", "page"),
+-        typeRow("page-property", "page"),
+-        typeRow("computed-property", "module"),
+-        typeRow("computed-property", "page-property"),
+-        typeRow("faith-points", "computed-property"),
++        typeRow("page", []),
++        typeRow("module", ["page"]),
++        typeRow("page-property", ["page"]),
++        typeRow("computed-property", ["module"]),
++        typeRow("computed-property", ["page-property"]),
++        typeRow("faith-points", ["computed-property"]),
+       ],
+       [
+         {
+@@ -95,10 +95,10 @@ test("a ring among the types above ends the drawing rather than going round agai
+   const said = assemblePageTree(
+     answersOf(
+       [
+-        typeRow("root", null),
+-        typeRow("held", "beside"),
+-        typeRow("held", "root"),
+-        typeRow("beside", "held"),
++        typeRow("root", []),
++        typeRow("held", ["beside"]),
++        typeRow("held", ["root"]),
++        typeRow("beside", ["held"]),
+       ],
+       []
+     ),
+@@ -114,7 +114,10 @@ test("a ring among the types above ends the drawing rather than going round agai
+ })
+ 
+ test("two page types naming each other above are left unreached", () => {
+-  const said = assemblePageTree(answersOf([typeRow("one", "two"), typeRow("two", "one")], []), REPO)
++  const said = assemblePageTree(
++    answersOf([typeRow("one", ["two"]), typeRow("two", ["one"])], []),
++    REPO
++  )
+ 
+   expect(idsIn(said.roots)).toEqual(["vocabulary"])
+   expect(said.unreached).toEqual(["page-type/one", "page-type/two"])
+@@ -122,7 +125,7 @@ test("two page types naming each other above are left unreached", () => {
+ 
+ test("a page type naming the same type above it twice is drawn under it once", () => {
+   const said = assemblePageTree(
+-    answersOf([typeRow("page", null), typeRow("module", "page"), typeRow("module", "page")], []),
++    answersOf([typeRow("page", []), typeRow("module", ["page"]), typeRow("module", ["page"])], []),
+     REPO
+   )
+ 
