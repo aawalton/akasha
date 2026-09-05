@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/hook-system/hook-answer/hook-answer.module.ts b/hook-system/hook-answer/hook-answer.module.ts
+index f6186e403841178609d5c5a3006cdf2179b9d270..863fee4ff094516c6126811e33ea1ea6bde89c81 100644
+--- a/hook-system/hook-answer/hook-answer.module.ts
++++ b/hook-system/hook-answer/hook-answer.module.ts
+@@ -71,7 +71,7 @@ export const hookAnswer = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a hook refuses is handed in as data.",
++      statement: "A hook's refusal is handed in as data.",
+     },
+     {
+       invariantKind: "departure",
