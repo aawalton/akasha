@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-libc-by-name/no-libc-by-name.syntax-rule.test.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-libc-by-name/no-libc-by-name.syntax-rule.test.ts
-index 763c65b8e3d5d137ad250cf180c155e1b8e6f96a..94fe99ad53104b9d3a97a0982c88503d69c7ec48 100644
+index 763c65b8e3d5d137ad250cf180c155e1b8e6f96a..d87aee2a2889fa8f4b2621b7096f80184446ea8f 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-libc-by-name/no-libc-by-name.syntax-rule.test.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-libc-by-name/no-libc-by-name.syntax-rule.test.ts
 @@ -30,13 +30,13 @@ test("a library is named by the last part of its path", () => {
@@ -18,6 +18,15 @@ index 763c65b8e3d5d137ad250cf180c155e1b8e6f96a..94fe99ad53104b9d3a97a0982c88503d
    expect(noLibcByName(parsed('dlopen("libsqlite3.so")\n'))).toEqual([])
  })
  
+@@ -60,7 +60,7 @@ test("a name built as the code runs is not seen", () => {
+   expect(noLibcByName(parsed("dlopen(pathFor(one))\n"))).toEqual([])
+ })
+ 
+-test("the line named is the line the call stands on", () => {
++test("the line named is the line the call is on", () => {
+   const said = noLibcByName(parsed('const one = 1\ndlopen("libc.so.6")\n'))
+   expect(said[0]?.line).toBe(2)
+ })
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-sops-on-dev-stdin/no-sops-on-dev-stdin.syntax-rule.test.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-sops-on-dev-stdin/no-sops-on-dev-stdin.syntax-rule.test.ts
 index ffe85f0fd5e4e52e56760c7c7e5c1d776a4d1675..95f5d452dec7f4f3e4bb2e055f0bd418eef721fb 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-sops-on-dev-stdin/no-sops-on-dev-stdin.syntax-rule.test.ts
