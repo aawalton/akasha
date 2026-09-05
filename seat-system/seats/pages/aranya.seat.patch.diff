@@ -15,6 +15,14 @@ index 6f7654361d69a3566b57415ecd679d41da46238b..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../alan/chess
 \ No newline at end of file
+diff --git a/alan/web-capacitor/alanwalton-web-capacitor b/alan/web-capacitor/alanwalton-web-capacitor
+deleted file mode 120000
+index f4d121402362e68890518a38dbb031faf0e6bbb2..0000000000000000000000000000000000000000
+--- a/alan/web-capacitor/alanwalton-web-capacitor
++++ /dev/null
+@@ -1 +0,0 @@
+-../../alan/web-capacitor
+\ No newline at end of file
 diff --git a/alan/web/alanwalton-web b/alan/web/alanwalton-web
 deleted file mode 120000
 index 440c61d818eb9d527bc480546054e76b48b2155e..0000000000000000000000000000000000000000
