@@ -1,0 +1,57 @@
+diff --git a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts
+index 7818329b0eda848cf6b89ba72c92dbf451ba6105..9692d36f5683599c6d5c252adc139f4e311eb8cb 100644
+--- a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts
++++ b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts
+@@ -7,10 +7,10 @@ import { categoryTitles } from "../rule-pages/monarch-rule-pages.module.code.ts"
+ import type { Match, Outcome, Rule } from "../rules/monarch-rules.module.code.ts"
+ 
+ /**
+- * The rules stand as TypeScript pages inside akasha, one file to a rule, since the markdown rule
++ * The rules are TypeScript pages inside akasha, one file to a rule, since the markdown rule
+  * set was migrated away. This reads the checkout directly rather than asking the pages system
+- * service for them: the categorization ring runs under a workstation timer, where no service
+- * stands, so a rule that could only be read over HTTP could not be read at all.
++ * service for them: the categorization ring runs under a workstation timer, where there is no
++ * service, so a rule that could only be read over HTTP could not be read at all.
+  */
+ const RULES = "alan/harness/monarch/category-rules"
+ 
+diff --git a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
+index 1dad0a9d1f4c6185417aae8f7e8d016b29e7e6a5..d352730c441c817b2df7621cc6b1b8df964ddfad 100644
+--- a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
++++ b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
+@@ -4,7 +4,7 @@ export const monarchRuleDocuments = {
+   id: "01a06866-06f1-762e-b1c3-4910e1884927",
+   pageTypeSlug: "module",
+   slug: "monarch-rule-documents",
+-  definition: "the category rules, read from the pages standing inside akasha",
++  definition: "the category rules, read from the pages inside akasha",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/alan/harness/monarch/rule-pages/monarch-rule-pages.module.code.ts b/alan/harness/monarch/rule-pages/monarch-rule-pages.module.code.ts
+index cd6c452cb3fec9d6998e0ea107533c335dcf3cb9..991ca6013f336d26576aa6b52f8729e62aa8dfd2 100644
+--- a/alan/harness/monarch/rule-pages/monarch-rule-pages.module.code.ts
++++ b/alan/harness/monarch/rule-pages/monarch-rule-pages.module.code.ts
+@@ -18,7 +18,7 @@ export async function categoryTitles(): Promise<ReadonlyMap<string, string>> {
+ 
+ export async function categoryMonarchId(slug: string): Promise<string> {
+   const page = (await categoryPages()).find((one) => one.slug === slug)
+-  if (page === undefined) throw new Error(`no category stands at \`${slug}\``)
++  if (page === undefined) throw new Error(`no category exists at \`${slug}\``)
+   const held = keyOf(page, "monarchId")
+   if (held === null) {
+     throw new Error(`${page.path} names no \`monarch-id\`, so nothing can be posted back for it`)
+diff --git a/alan/harness/monarch/rule-pages/monarch-rule-pages.module.ts b/alan/harness/monarch/rule-pages/monarch-rule-pages.module.ts
+index 2366f940ae3c0d6f4da6faf3f599cd6c368275b1..35be52eab09d9de26305b05a633b6ebe02c26991 100644
+--- a/alan/harness/monarch/rule-pages/monarch-rule-pages.module.ts
++++ b/alan/harness/monarch/rule-pages/monarch-rule-pages.module.ts
+@@ -14,7 +14,7 @@ export const monarchRulePages = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A slug that names no standing category is refused, so a merged or renamed category is loud.",
++        "A slug that names no existing category is refused, so a merged or renamed category is loud.",
+     },
+     {
+       invariantKind: "departure",
