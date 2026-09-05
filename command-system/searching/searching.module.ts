@@ -56,7 +56,7 @@ export const searching = {
     },
     {
       invariantKind: "departure",
-      statement: "What is handed back when a ceiling is reached is the front of the answer.",
+      statement: "The part handed back when a ceiling is reached is the front of the answer.",
     },
     {
       invariantKind: "absence",
