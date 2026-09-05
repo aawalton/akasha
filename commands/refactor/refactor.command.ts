@@ -80,7 +80,7 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "An act this command does not carry is refused with the ones it does.",
+      statement: "An act this command does not carry is refused with the ones this command does.",
     },
     {
       invariantKind: "departure",
@@ -166,7 +166,8 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "A key rename carries every file beside a page named for the key it renames.",
+      statement:
+        "A key rename carries every file beside a page named for the key that rename renames.",
     },
     {
       invariantKind: "departure",
@@ -291,7 +292,8 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "A file a retype carries arrives under the tail of the page type it becomes.",
+      statement:
+        "A file a retype carries arrives under the tail of the page type the retyped page becomes.",
     },
     {
       invariantKind: "departure",
@@ -299,7 +301,7 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "A retyped page's own body states the page type it becomes.",
+      statement: "A retyped page's own body states the page type that page becomes.",
     },
     {
       invariantKind: "departure",
@@ -311,7 +313,8 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "A key the page type it becomes reads no property by refuses the retype.",
+      statement:
+        "A key the page type the retyped page becomes reads no property by refuses the retype.",
     },
     {
       invariantKind: "departure",
