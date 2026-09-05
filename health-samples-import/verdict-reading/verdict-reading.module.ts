@@ -9,7 +9,7 @@ export const verdictReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reading names the subject it is of.",
+      statement: "A reading names the subject that reading is of.",
     },
     {
       invariantKind: "absence",
