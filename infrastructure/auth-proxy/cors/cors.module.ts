@@ -9,7 +9,7 @@ export const cors = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A preflight is answered here rather than by what is behind the proxy.",
+      statement: "A preflight is answered here rather than by the target behind the proxy.",
     },
     {
       invariantKind: "departure",
