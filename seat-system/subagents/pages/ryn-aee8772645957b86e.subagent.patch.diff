@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/seat-system/messages/message.page-type.ts b/seat-system/messages/message.page-type.ts
-index ad7c3baffe7a7219a299db268031c86b74e2f888..e895ae2226d6980f713523da92e1f99e3ff928fc 100644
+index ad7c3baffe7a7219a299db268031c86b74e2f888..06ecfe67cb7b79cbe006fa2698dd0947865a66ab 100644
 --- a/seat-system/messages/message.page-type.ts
 +++ b/seat-system/messages/message.page-type.ts
-@@ -68,7 +68,7 @@ export const message = {
+@@ -68,12 +68,12 @@ export const message = {
      {
        invariantKind: "departure",
        statement:
@@ -12,3 +12,9 @@ index ad7c3baffe7a7219a299db268031c86b74e2f888..e895ae2226d6980f713523da92e1f99e
      },
      {
        invariantKind: "departure",
+       statement:
+-        "A message is named as it is written, when nothing readable about it is known yet.",
++        "A message is named as that message is written, when nothing readable about the message is known yet.",
+     },
+     {
+       invariantKind: "gap",
