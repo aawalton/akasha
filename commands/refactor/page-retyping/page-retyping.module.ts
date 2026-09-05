@@ -31,7 +31,7 @@ export const pageRetyping = {
     {
       invariantKind: "departure",
       statement:
-        "A key the page states that the page type it becomes reads no property by is refused.",
+        "A key the page states that the page type the page becomes reads no property by is refused.",
     },
     {
       invariantKind: "departure",
@@ -43,11 +43,12 @@ export const pageRetyping = {
     },
     {
       invariantKind: "constraint",
-      statement: "A key is worked out from the property it reads rather than from the page type.",
+      statement:
+        "A key is worked out from the property that key reads rather than from the page type.",
     },
     {
       invariantKind: "departure",
-      statement: "A page's own file arrives under the tail of the page type it becomes.",
+      statement: "A page's own file arrives under the tail of the page type that page becomes.",
     },
     {
       invariantKind: "departure",
@@ -55,7 +56,7 @@ export const pageRetyping = {
     },
     {
       invariantKind: "departure",
-      statement: "A file beside a page arrives under the tail of the page type it becomes.",
+      statement: "A file beside a page arrives under the tail of the page type that page becomes.",
     },
     {
       invariantKind: "departure",
@@ -63,7 +64,7 @@ export const pageRetyping = {
     },
     {
       invariantKind: "departure",
-      statement: "A page's own body states the page type it becomes.",
+      statement: "A page's own body states the page type that page becomes.",
     },
     {
       invariantKind: "departure",
@@ -71,7 +72,7 @@ export const pageRetyping = {
     },
     {
       invariantKind: "departure",
-      statement: "The import naming that type is rewritten with it.",
+      statement: "The import naming that type is rewritten with that type.",
     },
     {
       invariantKind: "departure",
@@ -79,7 +80,7 @@ export const pageRetyping = {
     },
     {
       invariantKind: "departure",
-      statement: "A type in another package is imported by the export naming it.",
+      statement: "A type in another package is imported by the export naming that type.",
     },
     {
       invariantKind: "departure",
@@ -103,7 +104,7 @@ export const pageRetyping = {
     },
     {
       invariantKind: "departure",
-      statement: "Every file a retype touches lands in one commit or none of them does.",
+      statement: "Every file a retype touches lands in one commit or none of those files does.",
     },
     {
       invariantKind: "departure",
