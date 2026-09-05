@@ -28,7 +28,7 @@ export const aranyaClusterCleanup = {
     {
       statement: "Every cluster service names a manifest page.",
       workingMemory:
-        "None of the 51 cluster services names a manifest page; each names its code by a path instead. The 12 pages already typed `manifest` are shared libraries: all 12 refuse to load as entry points, and 11 reach the cluster only through an attachment importing them. `manifest-slug` is declared and `synth-discovery` keys on it, so the count holds at 57 as each service converts. Those 12 are a mistyping to unwind.",
+        "None of the 51 services names a manifest page; each names its code by a path. A manifest page cannot sit beside its service page: `folder-matches-a-shape` admits one page to a folder, so each takes a folder of its own. Any page may name it in `partSlugs`, a sibling included, so conversions are independent; the 25 scattered ones fall under 13 parents, seaweedfs holding 10. The 12 pages typed `manifest` are a mistyping to unwind. `synth-discovery` keys on `manifest-slug`; the count holds at 57.",
     },
     {
       statement: "The inference family sits in a top-level inference/ folder.",
