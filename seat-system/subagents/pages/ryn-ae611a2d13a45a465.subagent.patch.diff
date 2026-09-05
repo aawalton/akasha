@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/places/location-collections/location-collection.page-type.ts b/places/location-collections/location-collection.page-type.ts
+index e85583d5713536ced6758fb31cbf788a0acff006..9f63a57328e41eb11d0df8d086c6959e1c436562 100644
+--- a/places/location-collections/location-collection.page-type.ts
++++ b/places/location-collections/location-collection.page-type.ts
+@@ -26,7 +26,8 @@ export const locationCollection = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A collection lists no place of its own; a place names the collection it is in.",
++      statement:
++        "A collection lists no place of its own; a place names the collection that place is in.",
+     },
+   ],
+ } as const satisfies PageType
