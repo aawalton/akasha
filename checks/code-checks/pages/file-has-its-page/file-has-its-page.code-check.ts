@@ -34,7 +34,7 @@ export const fileHasItsPage = {
     },
     {
       invariantKind: "departure",
-      statement: "What claims a path is asked of the index rather than worked out here.",
+      statement: "The page that claims a path is asked of the index rather than worked out here.",
     },
     {
       invariantKind: "absence",
