@@ -125,10 +125,9 @@ export const akasha = {
       directiveKind: "principle",
       name: "Parsimony",
       act: "Require every piece to earn its place.",
-      warrant:
-        "A piece pays off only sometimes and costs always, and the cost is the part nobody sees.",
+      warrant: "A piece pays off only sometimes and costs always.",
       aids: [
-        "Compare the piece against having none of it.",
+        "Compare the piece against not having it.",
         "Never add a piece for a case not here yet.",
       ],
     },
