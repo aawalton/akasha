@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/no-tmp/no-tmp.code-check.ts b/checks/code-checks/pages/no-tmp/no-tmp.code-check.ts
+index 2b9f7bd93ce40fc36e21e312a3ac135875e93775..c8a36f7a01e9436f2afc9dcefb4753f4c4264262 100644
+--- a/checks/code-checks/pages/no-tmp/no-tmp.code-check.ts
++++ b/checks/code-checks/pages/no-tmp/no-tmp.code-check.ts
+@@ -39,7 +39,7 @@ export const noTmp = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a page type says of its pages holds for the files beside those pages.",
++      statement: "A page type's claim about its pages holds for the files beside those pages.",
+     },
+     {
+       invariantKind: "gap",
