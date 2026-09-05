@@ -38,7 +38,7 @@ test("a value spelled with spaces upstream is spelled as a slug on the page", ()
   expect(props.equipment).toBe("body-only")
 })
 
-test("a correction stands over what the upstream row says", () => {
+test("a correction overrides what the upstream row says", () => {
   const props = exerciseToProps({
     exercise: row({
       id: "Crossover_Reverse_Lunge",

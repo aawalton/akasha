@@ -15,7 +15,7 @@ export const freeExerciseMapping = {
     {
       invariantKind: "departure",
       statement:
-        "A correction stands over what the upstream row says before any trait is worked out.",
+        "A correction overrides what the upstream row says before any trait is worked out.",
     },
     {
       invariantKind: "departure",

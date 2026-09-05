@@ -14,7 +14,7 @@ export const trainingDigest = {
     },
     {
       invariantKind: "departure",
-      statement: "A focus named by the caller stands over the one the rotation schedules.",
+      statement: "A focus named by the caller overrides the one the rotation schedules.",
     },
     {
       invariantKind: "departure",

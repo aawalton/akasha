@@ -15,8 +15,7 @@ export const selectionFeatures = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A movement pattern named outright stands over the one the name and muscles imply.",
+      statement: "A movement pattern named outright overrides the one the name and muscles imply.",
     },
     {
       invariantKind: "departure",

@@ -27,7 +27,7 @@ function row(said: Partial<FreeExercise> & { readonly id: string; readonly name:
   } satisfies FreeExercise
 }
 
-test("a movement pattern named outright stands over the one the name implies", () => {
+test("a movement pattern named outright overrides the one the name implies", () => {
   expect(deriveMovementPattern(row({ id: "Goblet_Squat", name: "Goblet Squat" }))).toBe("squat")
   expect(deriveMovementPattern(row({ id: "Spider_Crawl", name: "Spider Crawl" }))).toBe("gait")
 })

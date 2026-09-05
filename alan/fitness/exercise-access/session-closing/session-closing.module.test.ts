@@ -26,7 +26,7 @@ const OPEN: readonly Row[] = [
 ]
 
 describe("which instant closes an abandoned session", () => {
-  test("the last set stands over the start where both are stated", () => {
+  test("the last set overrides the start where both are stated", () => {
     expect(
       closedAtFor({ lastSetAt: "2026-06-19T16:00:00.000Z", startedAt: "2026-06-19T15:00:00.000Z" })
     ).toBe("2026-06-19T16:00:00.000Z")
