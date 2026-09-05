@@ -1487,3 +1487,11 @@ index af0c24cf81acbfbcde77759578867ed75b6fcd3e..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-races
 \ No newline at end of file
+diff --git a/temper/temper-saved-variables/temper-saved-variables b/temper/temper-saved-variables/temper-saved-variables
+deleted file mode 120000
+index ab70ccb2e8288af06b3ac4eaae734f84c9c766bc..0000000000000000000000000000000000000000
+--- a/temper/temper-saved-variables/temper-saved-variables
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-saved-variables
+\ No newline at end of file
