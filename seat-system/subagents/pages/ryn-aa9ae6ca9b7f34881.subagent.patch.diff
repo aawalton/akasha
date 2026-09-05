@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/story/games/game.page-type.ts b/story/games/game.page-type.ts
-index 13652a4996b9c861b50ad0ed80616ca457971e27..d38e8bba4b85db003507d0d872eb00b5e2c056f0 100644
+index 13652a4996b9c861b50ad0ed80616ca457971e27..d68ce767b73da8e08b8e9f98b5f1793092c0f508 100644
 --- a/story/games/game.page-type.ts
 +++ b/story/games/game.page-type.ts
 @@ -144,7 +144,7 @@ export const game = {
@@ -30,3 +30,12 @@ index 13652a4996b9c861b50ad0ed80616ca457971e27..d38e8bba4b85db003507d0d872eb00b5
      },
      {
        invariantKind: "departure",
+@@ -222,7 +222,7 @@ export const game = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the play discloses beats what the design intended.",
++      statement: "The facts the play discloses beat the facts the design intended.",
+     },
+   ],
+ } as const satisfies PageType
