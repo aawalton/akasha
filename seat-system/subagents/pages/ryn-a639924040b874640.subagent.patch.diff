@@ -12,15 +12,47 @@ index 5f4996d3cd2bf7f08b328f14c019ed1a288e94e8..f9a13103b388fb423bba4ab953b99e14
      {
        invariantKind: "gap",
 diff --git a/code-system/code-runtime-path/code-runtime-path.module.ts b/code-system/code-runtime-path/code-runtime-path.module.ts
-index fdab1a3438ded090e6a688274a5b628e8d60a4eb..9fa9db43890ef5fa7c7fc8a3f76efbfed88d7353 100644
+index fdab1a3438ded090e6a688274a5b628e8d60a4eb..51b5d66b91b71e7495361c9839bf10c8ae020116 100644
 --- a/code-system/code-runtime-path/code-runtime-path.module.ts
 +++ b/code-system/code-runtime-path/code-runtime-path.module.ts
-@@ -53,7 +53,7 @@ export const codeRuntimePath = {
+@@ -53,12 +53,12 @@ export const codeRuntimePath = {
      {
        invariantKind: "departure",
        statement:
 -        "A base this cannot read is counted whether or not the move reaches beneath that base.",
 +        "A base this module cannot read is counted whether or not the move reaches beneath that base.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A base this cannot read is named only where the move takes a file out from under that base.",
++        "A base this module cannot read is named only where the move takes a file out from under that base.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/code-system/shell-scripts/pages/bash-env/bash-env.shell-script.ts b/code-system/shell-scripts/pages/bash-env/bash-env.shell-script.ts
+index d1b23bb1298beb50ecb159a9a930d4d783ba856b..29a6a713308edba626bb047b1a7e16c030b3301e 100644
+--- a/code-system/shell-scripts/pages/bash-env/bash-env.shell-script.ts
++++ b/code-system/shell-scripts/pages/bash-env/bash-env.shell-script.ts
+@@ -14,7 +14,7 @@ export const bashEnv = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A shell reading this reads the secrets held outside the repo.",
++      statement: "A shell reading this script reads the secrets held outside the repo.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
+index 034fc3932065fe38b1be50038862f0233b714ef5..40bb0ca8ee60247b96f4f77ead256f4ebc401d85 100644
+--- a/command-system/landing/landing.module.ts
++++ b/command-system/landing/landing.module.ts
+@@ -97,7 +97,7 @@ export const landing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A carry that throws puts back the carries made before that carry in reverse.",
++      statement: "A carry that throws puts back in reverse the carries made before that carry.",
      },
      {
        invariantKind: "departure",
