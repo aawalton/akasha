@@ -1,10 +1,24 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import {
+  fileIn,
+  HELD,
+  naming,
+  PACKAGE_WITH_WAYS,
+  PACKAGE_WITHOUT_GONE,
+  removing,
+  reportOf,
+  scratch,
+  WAYS_IN,
+  waysWorld,
+} from "../remove.command.test-fixtures.ts"
 import {
   landsOn,
   manifestsAbove,
   waysGoneIn,
   withoutWaysIn,
 } from "./remove-manifesting.module.code.ts"
+
+afterAll(scratch.sweep)
 
 const MANIFEST = `{
   "name": "@akasha/held",
@@ -58,4 +72,19 @@ test("a manifest the removal itself takes is passed over", () => {
   expect(manifestsAbove(new Set(["held/one.ts", "held/package.json"]), there)).toEqual([
     "package.json",
   ])
+})
+
+test("a way in is dropped in the same commit as the file it lands on", async () => {
+  const root = waysWorld()
+  const said = await removing(root, naming("temper/one/gone"))
+  expect(said.refusals).toEqual([])
+  expect(fileIn(root, WAYS_IN)).toBe(PACKAGE_WITHOUT_GONE)
+  expect(reportOf(said)).toContain("stopped naming 1 way in")
+})
+
+test("a way in whose file the removal leaves keeps its place", async () => {
+  const root = waysWorld()
+  const said = await removing(root, naming(HELD))
+  expect(said.refusals).toEqual([])
+  expect(fileIn(root, WAYS_IN)).toBe(PACKAGE_WITH_WAYS)
 })

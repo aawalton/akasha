@@ -6,6 +6,16 @@ import { ran } from "@akasha/utils-run/running"
 import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import {
+  MOVED_MANIFEST,
+  manifested,
+  manifestIn,
+  naming,
+  refusalOf,
+  scratch as removeScratch,
+  removing,
+  WORKSPACE,
+} from "../remove.command.test-fixtures.ts"
+import {
   emptiedBy,
   NO_WORKSPACING,
   withoutNamed,
@@ -17,6 +27,8 @@ import {
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
+
+afterAll(removeScratch.sweep)
 
 const MANIFEST = "package.json"
 
@@ -129,4 +141,16 @@ test("the workspace the removal emptied is no longer looked for, and was before"
   const after = ran(FROZEN, { cwd: root })
   expect(`${after.out}${after.err}`).not.toContain("Workspace not found")
   expect(readFileSync(join(root, MANIFEST), "utf8")).not.toContain('"one",')
+})
+
+test("the root manifest loses a row only where nothing else moved the manifest meanwhile", async () => {
+  const clean = manifested()
+  expect((await removing(clean, naming(WORKSPACE))).refusals).toEqual([])
+  expect(manifestIn(clean)).not.toContain(WORKSPACE)
+
+  const root = manifested()
+  writeFileSync(join(root, MANIFEST), MOVED_MANIFEST)
+  const said = await removing(root, naming(WORKSPACE))
+  expect(refusalOf(said)).toContain("changed after this call read it")
+  expect(manifestIn(root)).toBe(MOVED_MANIFEST)
 })
