@@ -7,14 +7,14 @@ export const ruleTreasureMapsBank = {
   title: "Bank treasure maps",
   description:
     "Stashes treasure maps in the bank for later use. Treasure maps lead to chests with set gear.",
+  goal: "task",
+  destination: "bank",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "treasure-maps",
   displayOrder: 50,
   action: "move-to",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
-  goal: "task",
   locked: true,
   fromTemplate: "treasure-maps-bank",
-  destination: "bank",
 } as const satisfies TemperInventoryRule
