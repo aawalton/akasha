@@ -1,5 +1,5 @@
 diff --git a/checks/modules/check-scratch/check-scratch.module.ts b/checks/modules/check-scratch/check-scratch.module.ts
-index 93a80b258b07c40ecc3f557c1e7a872c185efb0b..aa2d2edfa332611e87b0a79af6d141342dab2bbf 100644
+index 93a80b258b07c40ecc3f557c1e7a872c185efb0b..9ec7eda7f5e29cae000ed05bdc1878f4a1241d33 100644
 --- a/checks/modules/check-scratch/check-scratch.module.ts
 +++ b/checks/modules/check-scratch/check-scratch.module.ts
 @@ -5,13 +5,13 @@ export const checkScratch = {
@@ -24,6 +24,15 @@ index 93a80b258b07c40ecc3f557c1e7a872c185efb0b..aa2d2edfa332611e87b0a79af6d14134
        invariantKind: "departure",
 -      statement: "A change falls back to what stands on disk.",
 +      statement: "A change falls back to what is on disk.",
+     },
+     {
+       invariantKind: "absence",
+@@ -47,7 +47,7 @@ export const checkScratch = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A test says where its scratch stands and how long the scratch lives.",
++      statement: "A test says where its scratch sits and how long the scratch lives.",
      },
      {
        invariantKind: "absence",
