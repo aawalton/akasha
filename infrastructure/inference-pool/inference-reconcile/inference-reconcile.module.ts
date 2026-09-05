@@ -4,7 +4,7 @@ export const inferenceReconcile = {
   id: "01a0685d-4b35-700c-9b4c-80e9256ed4e8",
   pageTypeSlug: "module",
   slug: "inference-reconcile",
-  definition: "bringing what stands on an inference host to what this repository declares",
+  definition: "bringing what is on an inference host to what this repository declares",
   code: "ts",
   invariants: [
     { invariantKind: "departure", statement: "The plan is printed before anything is applied." },

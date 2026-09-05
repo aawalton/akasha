@@ -4,7 +4,7 @@ export const reconcilePlan = {
   id: "01a0685d-4b35-7009-a74b-6d64dd6c2f08",
   pageTypeSlug: "module",
   slug: "reconcile-plan",
-  definition: "what stands on a host set against what is declared, read as apply, skip or prune",
+  definition: "what is on a host set against what is declared, read as apply, skip or prune",
   code: "ts",
   invariants: [
     {
@@ -18,7 +18,7 @@ export const reconcilePlan = {
     },
     {
       invariantKind: "departure",
-      statement: "Anything standing that nothing declares or keeps is pruned.",
+      statement: "Anything on the host that nothing declares or keeps is pruned.",
     },
     { invariantKind: "departure", statement: "A plan is read without reaching the host." },
   ],

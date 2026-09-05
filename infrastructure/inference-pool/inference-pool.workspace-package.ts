@@ -52,7 +52,7 @@ export const inferencePool = {
     },
     {
       invariantKind: "departure",
-      statement: "A service standing on the host that nothing here declares is torn down.",
+      statement: "A service on the host that nothing here declares is torn down.",
     },
     {
       invariantKind: "departure",

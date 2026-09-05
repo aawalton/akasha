@@ -10,7 +10,7 @@ export const generationLog = {
     {
       invariantKind: "departure",
       statement:
-        "A row is refused rather than written, because a row stands inside a page's body and the store addresses paths.",
+        "A row is refused rather than written, because a row sits inside a page's body and the store addresses paths.",
     },
     {
       invariantKind: "departure",

@@ -18,7 +18,7 @@ export function rowValuesOf(properties: Readonly<Record<string, Json>>): Record<
   return values
 }
 
-// A GENERATION IS LOGGED AS A ROW, AND NOTHING LANDS A ROW. A row stands inside a page's body
+// A GENERATION IS LOGGED AS A ROW, AND NOTHING LANDS A ROW. A row sits inside a page's body
 // rather than at a path of its own, and the store addresses paths and whole bodies, so `writeRow`
 // and `patchRow` refuse every call — they have since 4c1f05a264 severed the checkout branch that
 // used to land them. Both functions below asked anyway and threw on the refusal, so every
@@ -28,7 +28,7 @@ export function rowValuesOf(properties: Readonly<Record<string, Json>>): Record<
 // writing the log page's whole body through `writeFiles` or `patchFiles`, or going through the
 // akasha command line — the same two roads the store names when it refuses.
 const NO_ROW =
-  "a row stands inside a page's body rather than at a path of its own, and the store writes a path and a whole body, so nothing here can reach it. land the generation log's whole body with `writeFiles` or `patchFiles`, or record it through the akasha command line"
+  "a row sits inside a page's body rather than at a path of its own, and the store writes a path and a whole body, so nothing here can reach it. land the generation log's whole body with `writeFiles` or `patchFiles`, or record it through the akasha command line"
 
 export async function landRow(
   pageTypeSlug: string,

@@ -14,7 +14,7 @@ export const inferenceServices = {
     },
     {
       invariantKind: "departure",
-      statement: "A service absent from this declaration is torn down rather than left standing.",
+      statement: "A service absent from this declaration is torn down rather than left in place.",
     },
   ],
 } as const satisfies Module

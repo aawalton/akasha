@@ -13,7 +13,7 @@ export const voiceCloneClient = {
     },
     {
       invariantKind: "departure",
-      statement: "The reference clip is named where it stands on the service's host.",
+      statement: "The reference clip is named where it is on the service's host.",
     },
     {
       invariantKind: "departure",

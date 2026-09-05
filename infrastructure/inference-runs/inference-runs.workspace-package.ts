@@ -35,7 +35,7 @@ export const inferenceRuns = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows which host a service stands on.",
+      statement: "Nothing here knows which host a service is on.",
     },
   ],
 } as const satisfies WorkspacePackage

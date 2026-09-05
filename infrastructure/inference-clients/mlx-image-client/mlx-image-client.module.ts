@@ -13,7 +13,7 @@ export const mlxImageClient = {
     },
     {
       invariantKind: "departure",
-      statement: "A generation size stands between 256 and 4096 and falls on a multiple of 16.",
+      statement: "A generation size is between 256 and 4096 and falls on a multiple of 16.",
     },
     {
       invariantKind: "departure",
