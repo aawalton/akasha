@@ -19,7 +19,7 @@ test("a single NUL is refused, and the reason names the line and the column", ()
   expect(said[0]).toContain("hides the whole file from a search")
 })
 
-test("a body carrying more than one NUL is reported at the first, with how many stand in it", () => {
+test("a body carrying more than one NUL is reported at the first, with how many are in it", () => {
   const said = reasonsIn(given("akasha/held.ts", bytesOf(`${NUL}a${NUL}b${NUL}`)))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("line 1 column 1")
@@ -30,7 +30,7 @@ test("a NUL on the first line is placed by its column from the start of the file
   expect(sitesIn(bytesOf(`abc${NUL}`))).toEqual([{ line: 1, column: 4 }])
 })
 
-test("a newline moves the count on, so a column is read from the line it stands on", () => {
+test("a newline moves the count on, so a column is read from the line it sits on", () => {
   expect(sitesIn(bytesOf(`\n\n${NUL}`))).toEqual([{ line: 3, column: 1 }])
 })
 

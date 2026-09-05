@@ -44,7 +44,7 @@ function byRule(held: readonly Held[]): ReadonlyMap<string, readonly Said[]> {
   return found
 }
 
-test("a rule standing in another file is refused, and the refusal names that file", () => {
+test("a rule in another file is refused, and the refusal names that file", () => {
   const every = byRule([
     { path: "one.ts", text: CAMEL },
     { path: "two.module.code.ts", text: EXPORTED_AS },
@@ -71,7 +71,7 @@ test("neither file is the owner, so a rule in two files refuses both", () => {
   expect(reasonsIn("two.ts", EXPORTED_AS, every)).toHaveLength(1)
 })
 
-test("a rule standing in more than one other file names one and counts the rest", () => {
+test("a rule in more than one other file names one and counts the rest", () => {
   const every = byRule([
     { path: "one.ts", text: CAMEL },
     { path: "two.ts", text: EXPORTED_AS },
@@ -188,7 +188,7 @@ function bothArriving(root: string): Change {
   }
 }
 
-test("the files a change brings stand among those a rule is looked for in", () => {
+test("the files a change brings are among those a rule is looked for in", () => {
   const change = bothArriving(rooted())
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)

@@ -68,9 +68,7 @@ export function reasonsFor(at: string, text: string): readonly string[] {
   const walk = (node: ts.Node): undefined => {
     const value = literalIn(node)
     if (value !== null && IN_TMP.test(value)) {
-      said.push(
-        `line ${lineOf(source, node)} spells a path in /tmp, where no scratch of ours stands`
-      )
+      said.push(`line ${lineOf(source, node)} spells a path in /tmp, where no scratch of ours sits`)
     }
     const named = reached(node, taken.bound)
     if (named !== null) {

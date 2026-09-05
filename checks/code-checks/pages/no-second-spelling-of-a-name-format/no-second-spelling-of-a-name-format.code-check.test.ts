@@ -59,18 +59,18 @@ test("a shape written in a string is no regex literal and says nothing", () => {
   expect(reasonsIn(OTHER_CODE, `const SLUG = "/${SHAPE}/"\n`, STATED)).toEqual([])
 })
 
-test("a shape handed straight to a call is seen, standing wherever it is written", () => {
+test("a shape handed straight to a call is seen, wherever it is written", () => {
   expect(reasonsIn(OTHER_CODE, `export const held = matching(/${SHAPE}/)\n`, STATED)).toHaveLength(
     1
   )
 })
 
-test("the line a shape stands on is the line the refusal names", () => {
+test("the line a shape sits on is the line the refusal names", () => {
   const said = reasonsIn(OTHER_CODE, `const ONE = 1\nconst SLUG = /${SHAPE}/\n`, STATED)
   expect(said[0]).toContain("line 2")
 })
 
-test("every regex literal a body holds is read, each with the line it stands on", () => {
+test("every regex literal a body holds is read, each with the line it sits on", () => {
   expect(shapesIn(OTHER_CODE, "const A = /a/\nconst B = /b/g\n")).toEqual([
     { shape: "a", line: 1 },
     { shape: "b", line: 2 },

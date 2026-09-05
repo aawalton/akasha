@@ -19,7 +19,7 @@ export const noRuleInTwoFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "Every file carrying a rule that stands elsewhere is refused.",
+      statement: "Every file carrying a rule spelled elsewhere as well is refused.",
     },
     {
       invariantKind: "departure",

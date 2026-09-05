@@ -29,7 +29,7 @@ test("a literal that is exactly the scratch root we refuse is refused, and the l
   expect(said[0]).toMatch(/\/tmp/)
 })
 
-test("a literal standing under it is refused", () => {
+test("a literal under it is refused", () => {
   expect(reasonsIn(given(AT, 'const at = "/tmp/held"\n'))).toHaveLength(1)
 })
 
@@ -43,7 +43,7 @@ test("a path merely beginning with those letters is let through, the part read b
   expect(reasonsIn(given(AT, 'const at = "/tmpdir"\n'))).toEqual([])
 })
 
-test("a relative path of that name is let through, standing under whatever holds it", () => {
+test("a relative path of that name is let through, sitting under whatever holds it", () => {
   expect(reasonsIn(given(AT, 'const at = "tmp/held"\n'))).toEqual([])
   expect(reasonsIn(given(AT, 'const at = "./tmp"\n'))).toEqual([])
 })
@@ -57,7 +57,7 @@ test("a template whose head begins the path is refused", () => {
   expect(reasonsIn(given(AT, "const at = `/tmp/${one}`\n"))).toHaveLength(1)
 })
 
-test("text standing after a substitution begins no path and is passed over", () => {
+test("text after a substitution begins no path and is passed over", () => {
   expect(reasonsIn(given(AT, "const at = `${root}/tmp/held`\n"))).toEqual([])
 })
 

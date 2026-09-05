@@ -26,7 +26,7 @@ export const noRawNulBytes = {
     },
     {
       invariantKind: "departure",
-      statement: "The report says how many stand in it.",
+      statement: "The report says how many are in it.",
     },
     {
       invariantKind: "departure",
