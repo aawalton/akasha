@@ -6,11 +6,12 @@ export const rule3b55dc81 = {
   slug: "rule-3b55dc81",
   description:
     "Destroys known containers (reward already owned) with guild-store value < 5000g. Raised from 1000 to match the uniform 5000g line.",
+  conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "containers",
   displayOrder: 10,
   action: "destroy",
   active: true,
   updatedAt: "2026-06-02T20:49:28.407Z",
-  conditions: "jsonl",
+  locked: true,
 } as const satisfies TemperInventoryRule
