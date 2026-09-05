@@ -20,7 +20,7 @@ export const monarchEvalRun = {
     {
       invariantKind: "departure",
       statement:
-        "The Monarch pages are marked before and after, so a run says whether anything moved under it.",
+        "The Monarch pages are marked before and after, so a run says whether anything moved under that run.",
     },
     {
       invariantKind: "departure",
