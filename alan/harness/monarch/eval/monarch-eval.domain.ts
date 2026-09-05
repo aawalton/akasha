@@ -46,7 +46,7 @@ export const monarchEval = {
     {
       invariantKind: "departure",
       statement:
-        "The held-out split is a hash of the transaction's own id rather than a stored shuffle, because a stored shuffle can be redrawn after a disappointing result with nothing showing it was redrawn.",
+        "The held-out split is a hash of the transaction's own id rather than a stored shuffle.",
     },
     {
       invariantKind: "departure",
