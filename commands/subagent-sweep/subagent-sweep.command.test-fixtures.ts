@@ -1,11 +1,13 @@
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { writing } from "@akasha/command-system/scratching/testing"
+import type { SubagentNode } from "@akasha/editor-extension/subagent-reading"
 import { said as gitIn } from "@akasha/git/git-running"
 import { rebuiltIn } from "@akasha/indexes/testing"
 import type { ProcLivenessEntry } from "@akasha/seat-system/seat-proc-liveness"
 import { declaringUnder } from "@akasha/testing-system/declaring"
 import type { Given } from "../../command-system/calling/calling.module.code.ts"
+import type { RunningSaid, SeatTranscripts } from "./subagent-sweep.command.code.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 
@@ -91,3 +93,23 @@ export function givenIn(root: string): Given {
 export function there(root: string, at: string): boolean {
   return existsSync(join(root, at))
 }
+
+// A ROW AS A TRANSCRIPT LEAVES ONE. The id is the launch receipt's, so `null` is the row a
+// compacted or truncated transcript leaves, which is the shape the census must be inert to.
+export function node(agentId: string | null, children: readonly SubagentNode[] = []): SubagentNode {
+  return { key: `tool-${agentId ?? "unnamed"}`, label: "Explore", agentId, children }
+}
+
+export function reading(by: Readonly<Record<string, readonly SubagentNode[]>>): SeatTranscripts {
+  return { forSeat: (agentId) => Promise.resolve(by[agentId] ?? []) }
+}
+
+export const UNREADABLE: SeatTranscripts = {
+  forSeat: () => Promise.reject(new Error("EACCES: permission denied")),
+}
+
+export function saying(own: readonly string[]): RunningSaid {
+  return () => Promise.resolve(new Set(own))
+}
+
+export const THROWS: RunningSaid = () => Promise.reject(new Error("no transcript would open"))

@@ -13,7 +13,8 @@ export const subagentSweep = {
   helpNotes: [
     "a run naming nothing reports and writes nothing, which is how a person reads the census first.",
     "a page is judged WORKING, STALE or UNDETERMINED, and only STALE ever goes.",
-    "WORKING is a live process acting under the page's agent id, which beats every other reading.",
+    "WORKING is a live process acting under the page's agent id, or the seat's transcript naming the subagent as not yet returned.",
+    "a transcript only ever adds a WORKING: an entry carrying no agent id joins to no page, so a compacted transcript leaves every judgement as it was.",
     "STALE is a take-down the seat's log says was refused, or a seat no process at all carries the id of.",
     "UNDETERMINED is everything else, because a subagent waiting on the model runs no process of its own.",
     "no page's age is read: a page written long ago under a process still running says nothing.",
@@ -45,6 +46,22 @@ export const subagentSweep = {
     {
       invariantKind: "departure",
       statement: "A run told to remove where nothing is stale says so and writes nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each seat's transcript is read for the subagents that seat has not seen return.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No transcript reading makes a page removable.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A transcript that will not open leaves the census the other evidence reached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat whose reading throws costs that seat alone rather than the whole run.",
     },
     {
       invariantKind: "departure",

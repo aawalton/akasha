@@ -55,6 +55,17 @@ function judgedIn(root: string, entries: Parameters<typeof seenIn>[0], baseDir?:
   return judgedOver(pagesIn(root), seenIn(entries, baseDir))
 }
 
+// WHAT A TRANSCRIPT SAID, SEEDED. A call naming no ids is the same call the tests above make, so
+// each of those is the unseeded control for the one below it.
+function judgedWith(
+  root: string,
+  entries: Parameters<typeof seenIn>[0],
+  baseDir: string,
+  own: readonly string[]
+) {
+  return judgedOver(pagesIn(root), seenIn(entries, baseDir, new Set(own)))
+}
+
 test("a page is read with the seat and the agent id its body states", () => {
   const root = rooted()
   const page = pagesIn(root)[0]
@@ -204,5 +215,74 @@ test("the census names the seat, the agent id, what answers and why", () => {
 test("a root holding no subagents folder is a census of nothing", () => {
   const root = world.rootFor("subagent-census-")
   expect(pagesIn(root)).toEqual([])
+  world.sweep()
+})
+
+test("a subagent its seat's transcript names is working where nothing acts under its id", () => {
+  const root = rooted()
+  const base = world.rootFor("subagent-census-logs-")
+  const seen = [entry({ agentId: SEAT_ID, cmdline: CHILD, pid: 9 })]
+  expect(judgedWith(root, seen, base, [])[0]?.verdict).toBe(UNDETERMINED)
+  const judged = judgedWith(root, seen, base, [OWN])
+  expect(judged[0]?.verdict).toBe(WORKING)
+  expect(judged[0]?.why).toContain("its seat's transcript names it")
+  expect(judged[0]?.pids).toEqual([])
+  world.sweep()
+})
+
+test("an id no page carries lifts no page, so a transcript of others changes nothing", () => {
+  const root = rooted()
+  const base = world.rootFor("subagent-census-logs-")
+  for (const seen of [[], [entry({ agentId: SEAT_ID, cmdline: CHILD, pid: 9 })]]) {
+    const bare = judgedWith(root, seen, base, [])
+    const said = judgedWith(root, seen, base, [AGAIN])
+    expect(said[0]?.verdict).toBe(bare[0]?.verdict)
+    expect(said[0]?.why).toBe(bare[0]?.why)
+  }
+  world.sweep()
+})
+
+test("a transcript entry naming no agent id joins to no page and changes no judgement", () => {
+  const root = world.rootFor("subagent-census-")
+  pagePut(root, "akasha", OWN, "")
+  const base = world.rootFor("subagent-census-logs-")
+  const bare = judgedWith(root, [], base, [])
+  const said = judgedWith(root, [], base, [""])
+  expect(said[0]?.verdict).toBe(UNDETERMINED)
+  expect(said[0]?.verdict).toBe(bare[0]?.verdict)
+  expect(said[0]?.why).toBe(bare[0]?.why)
+  world.sweep()
+})
+
+test("no page becomes stale from a transcript, whatever that transcript names", () => {
+  const root = rooted()
+  const base = world.rootFor("subagent-census-logs-")
+  logPut(base, SEAT_ID, [takeLine("akasha", AGAIN)])
+  const seats = [
+    [],
+    [entry({ agentId: SEAT_ID, cmdline: CHILD, pid: 9 })],
+    [entry({ agentId: OTHER_ID, cmdline: CHILD, pid: 9 })],
+    [entry({ agentId: SEAT_ID, actingAgentId: ACTING, cmdline: TASK, pid: 9 })],
+  ]
+  for (const seen of seats) {
+    const bare = staleAmong(judgedWith(root, seen, base, [])).map((one) => one.page.slug)
+    for (const own of [[], [""], [OWN], [AGAIN], [OWN, AGAIN]]) {
+      const said = staleAmong(judgedWith(root, seen, base, own)).map((one) => one.page.slug)
+      expect(said.every((slug) => bare.includes(slug))).toBe(true)
+    }
+  }
+  world.sweep()
+})
+
+test("a page working by its acting agent id is working whatever the transcript says", () => {
+  const root = rooted()
+  const base = world.rootFor("subagent-census-logs-")
+  const seen = [entry({ agentId: SEAT_ID, actingAgentId: ACTING, cmdline: TASK, pid: 41 })]
+  for (const own of [[], [""], [AGAIN]]) {
+    const judged = judgedWith(root, seen, base, own)
+    expect(judged[0]?.verdict).toBe(WORKING)
+    expect(judged[0]?.pids).toEqual([41])
+    expect(judged[0]?.why).toBe("a live process acts under this agent id")
+  }
   world.sweep()
 })

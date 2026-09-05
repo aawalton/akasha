@@ -27,6 +27,26 @@ export const subagentCensus = {
     },
     {
       invariantKind: "departure",
+      statement: "A subagent its seat's transcript says is running reads that page as working.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Transcript evidence is weighed before every rule that could reach stale.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing read from a transcript makes a page stale.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page no transcript names keeps the judgement the other evidence reached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A transcript entry naming no agent id joins to no page and changes nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A take-down the seat's log says was refused reads its page as stale.",
     },
     {
@@ -77,6 +97,10 @@ export const subagentCensus = {
     {
       invariantKind: "departure",
       statement: "What was read off /proc is handed in rather than read here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a seat's transcript says is handed in rather than read here.",
     },
   ],
 } as const satisfies Module

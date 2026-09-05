@@ -2,6 +2,7 @@ import { resolve } from "node:path"
 import { landedMechanically } from "@akasha/command-system/asking"
 import type { FileEdit } from "@akasha/command-system/landing"
 import { dropReadings } from "@akasha/command-system/reading"
+import { createSubagentReader, type SubagentNode } from "@akasha/editor-extension/subagent-reading"
 import { scanProcEntries } from "@akasha/seat-system/proc-scan"
 import type { ProcLivenessEntry } from "@akasha/seat-system/seat-proc-liveness"
 import {
@@ -9,6 +10,7 @@ import {
   type Judged,
   judgedOver,
   pagesIn,
+  type SubagentPage,
   seenIn,
   staleAmong,
 } from "@akasha/seat-system/subagent-census"
@@ -17,6 +19,7 @@ import {
   answering,
   type Given,
 } from "../../command-system/calling/calling.module.code.ts"
+import { transcriptOf } from "../../seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 
 // A CENSUS BY DEFAULT, BECAUSE THE WRONG REMOVAL IS THE HARM. A subagent's page is the restart
 // interlock, so taking away the page of a subagent that is at work tells `sr` the seat is idle and
@@ -28,12 +31,30 @@ import {
 //
 // WHAT WAS READ OFF /proc AND OUT OF THE LOGS IS A PARAMETER, so a test seeds a live process and
 // watches the page it answers for kept, which is the one failure this command must never make.
+//
+// THE TRANSCRIPTS ARE READ HERE AND ONLY EVER ADD A WORKING. An acting agent id names a subagent
+// mid tool call alone, so a subagent waiting on the model is indistinguishable from a dead one, and
+// most of the fleet reads undetermined. A seat's transcript knows better: it names every subagent
+// launched that has not returned. What that reading may do is bounded on purpose. A transcript
+// learns an agent id from the launch receipt, so a compacted or truncated one names a running
+// subagent with no id at all, which joins to no page. Used to prove life, that costs a live
+// subagent nothing worse than the undetermined it already had. Used to prove an end, it would take
+// away a working subagent's page. So a transcript that will not open, a seat naming none, and a
+// reading that throws are each worth exactly nothing here rather than worth a removal.
 
 const REMOVE = "--remove"
 
 const CALLED_AS = "akasha subagent sweep"
 
 export type Read = { readonly removing: boolean } | { readonly refused: string }
+
+export interface SeatTranscripts {
+  readonly forSeat: (agentId: string, transcriptPath: string) => Promise<readonly SubagentNode[]>
+}
+
+export type TranscriptPathOf = (seatId: string) => string | null
+
+export type RunningSaid = (pages: readonly SubagentPage[]) => Promise<ReadonlySet<string>>
 
 export function namedIn(argv: readonly string[]): Read {
   let removing = false
@@ -49,6 +70,45 @@ export function namedIn(argv: readonly string[]): Read {
     }
   }
   return { removing }
+}
+
+// AN ENTRY NAMING NO AGENT ID IS DROPPED RATHER THAN CARRIED AS AN EMPTY NAME, so nothing
+// downstream has to tell an unnamed subagent from a page that states no id of its own.
+function ownIdsInto(held: Set<string>, nodes: readonly SubagentNode[]): undefined {
+  for (const node of nodes) {
+    if (node.agentId !== null && node.agentId !== "") held.add(node.agentId)
+    ownIdsInto(held, node.children)
+  }
+  return undefined
+}
+
+// ONE SEAT'S FAILURE COSTS THAT SEAT ALONE. Each seat is asked apart from the others and a throw
+// leaves the ids gathered so far, because a reading that answers for fewer subagents than there are
+// leaves pages undetermined, and undetermined pages are never removed.
+export async function runningOwnIn(
+  pages: readonly SubagentPage[],
+  reading: SeatTranscripts,
+  pathOf: TranscriptPathOf
+): Promise<ReadonlySet<string>> {
+  const held = new Set<string>()
+  const seats = [...new Set(pages.map((one) => one.seatId))].filter((one) => one !== "").sort()
+  for (const seat of seats) {
+    let named: string | null
+    try {
+      named = pathOf(seat)
+    } catch {
+      continue
+    }
+    if (named === null || named === "") continue
+    try {
+      ownIdsInto(held, await reading.forSeat(seat, named))
+    } catch {}
+  }
+  return held
+}
+
+async function transcriptsSay(pages: readonly SubagentPage[]): Promise<ReadonlySet<string>> {
+  return runningOwnIn(pages, createSubagentReader(), (seat) => transcriptOf(seat)?.value ?? null)
 }
 
 export function heldBack(stale: number): readonly string[] {
@@ -90,12 +150,20 @@ export async function subagentSweep(
   argv: readonly string[],
   given: Given,
   entries: readonly ProcLivenessEntry[] = scanProcEntries().entries,
-  baseDir?: string
+  baseDir?: string,
+  said: RunningSaid = transcriptsSay
 ): Promise<Answer> {
   const read = namedIn(argv)
   if ("refused" in read) return answering([], [read.refused], 1)
   const root = resolve(given.root)
-  const judged = judgedOver(pagesIn(root), seenIn(entries, baseDir))
+  const pages = pagesIn(root)
+  let running: ReadonlySet<string> = new Set()
+  try {
+    running = await said(pages)
+  } catch {
+    running = new Set()
+  }
+  const judged = judgedOver(pages, seenIn(entries, baseDir, running))
   const census = censusOf(judged)
   const stale = staleAmong(judged)
   if (!read.removing) return answering([...census, ...heldBack(stale.length)], [], 0)

@@ -22,6 +22,15 @@ import { LOG_AT, SUBAGENTS_AT } from "../subagents/presence/subagent-presence.mo
 // as the page's seat proves the seat that would host the subagent is gone. Nothing else is read,
 // and a page's age is read nowhere at all: a page written days ago under a Claude process that has
 // been up longer says nothing about whether the subagent inside it returned.
+//
+// A FOURTH IS EVIDENCE OF LIFE AND OF NOTHING ELSE. A seat's transcript names the subagents that
+// seat launched and has not seen return, which is exactly what an acting agent id cannot see: a
+// subagent waiting on the model runs no process to carry one. Those ids arrive as `runningOwn` and
+// are read for one purpose, which is to lift a page to working. That asymmetry is deliberate. A
+// transcript learns an agent id from the launch receipt alone, so a compacted or truncated one
+// yields a running entry naming no id, which joins to no page. Read to prove life, such an entry
+// costs a live subagent nothing worse than undetermined. Read to prove an end, the same entry would
+// take away a working subagent's page and blind the interlock this whole census is here to keep.
 
 const SEAT = "principalSeatName"
 
@@ -55,6 +64,7 @@ export interface Seen {
   readonly seatPids: ReadonlyMap<string, readonly number[]>
   readonly actingPids: ReadonlyMap<string, readonly number[]>
   readonly takenDown: ReadonlySet<string>
+  readonly runningOwn: ReadonlySet<string>
 }
 
 export interface Judged {
@@ -143,11 +153,19 @@ function pidsByAgentId(entries: readonly ProcLivenessEntry[]): Map<string, numbe
   return byId
 }
 
-export function seenIn(entries: readonly ProcLivenessEntry[], baseDir?: string): Seen {
+// WHAT A TRANSCRIPT SAYS IS HANDED IN, as what /proc says is handed in, because reading one opens
+// files outside the repository. A call naming none is a call with no transcript evidence, which
+// judges exactly as this module judged before there was any.
+export function seenIn(
+  entries: readonly ProcLivenessEntry[],
+  baseDir?: string,
+  runningOwn: ReadonlySet<string> = new Set()
+): Seen {
   return {
     seatPids: pidsByAgentId(entries),
     actingPids: actingAgentPidsFromProc(entries),
     takenDown: takenDownIn(baseDir),
+    runningOwn,
   }
 }
 
@@ -155,6 +173,17 @@ function judgedOne(page: SubagentPage, seen: Seen): Judged {
   const pids = seen.actingPids.get(page.agentId) ?? []
   if (pids.length > 0) {
     return { page, verdict: WORKING, pids, why: "a live process acts under this agent id" }
+  }
+  // THE ONE THING A TRANSCRIPT MAY DO. Every branch below this one can reach STALE, so the
+  // transcript is asked before them and answers working or says nothing at all. A page whose own id
+  // is empty is a page no transcript entry could name, and it falls through untouched.
+  if (page.own !== "" && seen.runningOwn.has(page.own)) {
+    return {
+      page,
+      verdict: WORKING,
+      pids,
+      why: "its seat's transcript names it as a subagent that has not returned",
+    }
   }
   if (page.agentId === "" || page.seatId === "") {
     return {
