@@ -175,3 +175,11 @@ index 292af47ee0e7e9c23f808c17194d2473289082c7..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../google/email
 \ No newline at end of file
+diff --git a/google/oauth/google-oauth b/google/oauth/google-oauth
+deleted file mode 120000
+index 381bc284180a4db1d42d726a94cac128f5d8dcbb..0000000000000000000000000000000000000000
+--- a/google/oauth/google-oauth
++++ /dev/null
+@@ -1 +0,0 @@
+-../../google/oauth
+\ No newline at end of file
