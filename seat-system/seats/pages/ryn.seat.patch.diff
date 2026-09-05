@@ -1,4 +1,17 @@
 runsWarrants: false
+diff --git a/command-system/commands/properties/help-notes.text-property.ts b/command-system/commands/properties/help-notes.text-property.ts
+index 1e6fd93ffc5112012413671ecc2acdd3163684b6..d112ade0bb321bdf7b867c4f7a33199fa1dbb2f2 100644
+--- a/command-system/commands/properties/help-notes.text-property.ts
++++ b/command-system/commands/properties/help-notes.text-property.ts
+@@ -17,7 +17,7 @@ export const helpNotes = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The lines are shown under the list of what a command takes.",
++      statement: "The lines are shown under the list of a command's arguments.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/types/page-properties/properties/property-slug.text-property.ts b/pages/types/page-properties/properties/property-slug.text-property.ts
 index 759bcb0ff6a6d246f764209b4d022d29b1a525ac..ee2ac0b88f09c77414e69f1e97fcb345ef0799ff 100644
 --- a/pages/types/page-properties/properties/property-slug.text-property.ts
