@@ -303,3 +303,11 @@ index 4f0d5a4860a0151d2c3bc7fddd8ae451b4699dda..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../idle-system
 \ No newline at end of file
+diff --git a/imessage/imessage b/imessage/imessage
+deleted file mode 120000
+index 63c77183ad9f57bff4708a0b005d52f58268994e..0000000000000000000000000000000000000000
+--- a/imessage/imessage
++++ /dev/null
+@@ -1 +0,0 @@
+-../../imessage
+\ No newline at end of file
