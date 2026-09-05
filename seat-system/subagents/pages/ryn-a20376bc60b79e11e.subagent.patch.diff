@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-watcher/watcher-page-landing/watcher-page-landing.module.ts b/temper/temper-watcher/watcher-page-landing/watcher-page-landing.module.ts
+index 9cb89de2a4ec0e85b51ce7b08d04279972fd670f..25535a1c5675fde62c18c1b22fafe75aa8fc3190 100644
+--- a/temper/temper-watcher/watcher-page-landing/watcher-page-landing.module.ts
++++ b/temper/temper-watcher/watcher-page-landing/watcher-page-landing.module.ts
+@@ -102,7 +102,7 @@ export const watcherPageLanding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A caller may hand in what reaches the store.",
++      statement: "A caller may hand in the calls that reach the store.",
+     },
+     {
+       invariantKind: "departure",
