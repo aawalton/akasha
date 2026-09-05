@@ -6,7 +6,7 @@ export const containerRegistry = {
   slug: "container-registry",
   definition: "the store container images live in",
   pluralSlug: "container-registries",
-  partSlugs: ["manifest/registry"],
+  partSlugs: ["manifest/registry", "manifest/registry-gc"],
   invariants: [
     {
       invariantKind: "departure",
