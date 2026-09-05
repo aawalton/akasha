@@ -1,0 +1,13 @@
+diff --git a/temper/temper-items-rules-core/inventory-rule-to-pages/inventory-rule-to-pages.module.code.ts b/temper/temper-items-rules-core/inventory-rule-to-pages/inventory-rule-to-pages.module.code.ts
+index 9b8521c0ef54f3a82aba27f4018e59a23b2c8ac1..99131b8e11d894d4a0cdf9d5928d2dc333a33708 100644
+--- a/temper/temper-items-rules-core/inventory-rule-to-pages/inventory-rule-to-pages.module.code.ts
++++ b/temper/temper-items-rules-core/inventory-rule-to-pages/inventory-rule-to-pages.module.code.ts
+@@ -26,7 +26,7 @@ function parses(text: string): boolean {
+ }
+ 
+ export function spelling(value: unknown): string {
+-  if (typeof value === "string") return value
++  if (typeof value === "string" && !parses(value)) return value
+   return JSON.stringify(value)
+ }
+ 
