@@ -1,3 +1,15 @@
+diff --git a/infrastructure/backup-retention/backup-retention.workspace-package.ts b/infrastructure/backup-retention/backup-retention.workspace-package.ts
+index 8f167ad98ad39e7fbb232f5c78aba84ff10cab1e..4f38c6742aa469bf640665551456cb8f72fb70b0 100644
+--- a/infrastructure/backup-retention/backup-retention.workspace-package.ts
++++ b/infrastructure/backup-retention/backup-retention.workspace-package.ts
+@@ -7,6 +7,7 @@ export const backupRetention = {
+   definition: "what thins the database's backups as the backups age",
+   manifest: "json",
+   partSlugs: [
++    "manifest/seaweedfs-backup-longtail",
+     "module/keep-decision",
+     "module/backup-info",
+     "module/barman-output",
 diff --git a/infrastructure/backup-retention/seaweedfs-backup-longtail/seaweedfs-backup-longtail.manifest.ts b/infrastructure/backup-retention/seaweedfs-backup-longtail/seaweedfs-backup-longtail.manifest.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..4b1279861f9ee1edf60f4a220a0a4c8b3718918d
