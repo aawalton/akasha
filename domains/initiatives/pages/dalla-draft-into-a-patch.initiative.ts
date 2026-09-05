@@ -10,7 +10,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "A body reaches write and edit on the command line rather than in a file.",
       workingMemory:
-        "Marker blocks on standard input carry several passages into one file. They carry one file a call, since one input serves one `--file-path`, so several files take several calls, which the patch absorbs by folding each draft onto what it holds. A passage holding a line that begins with a marker run is refused, and `--content-file` is the only way to hand such a body in. Left: whether that way out is kept before the file flags go.",
+        "Marker blocks on standard input carry several passages into one file, and one file a call, since one input serves one `--file-path`; several files take several calls, which the patch absorbs by folding each draft onto what it holds. A payload names a run of its own to carry a passage holding a marker line, so `--content-file` is no longer the only way in. Left: a marker block cannot say its passage ends mid-line, which `--old-file` can.",
     },
     {
       statement: "Every change command drafts into the patch rather than landing on its own.",
