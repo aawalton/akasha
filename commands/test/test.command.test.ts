@@ -79,7 +79,7 @@ check("a folder holding no test is refused rather than reported as a pass", () =
   expect(said.refusals[0]).toContain("no file under `.` is a test")
 })
 
-check("an output past what one answer holds keeps its end, where the summary stands", () => {
+check("an output past what one answer holds keeps its end, where the summary is", () => {
   const output = `${"held\n".repeat(ANSWER_CEILING)}Ran 1 tests across 1 files.`
   const said = bounded(output).join("\n")
   expect(said).toContain("Ran 1 tests across 1 files.")

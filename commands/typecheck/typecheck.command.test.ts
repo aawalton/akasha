@@ -34,7 +34,7 @@ check("an argument this does not take is refused by name", () => {
   expect(meaning(["--file-path"]).refusal).toContain("nothing followed it")
 })
 
-check("the seeded flag is read wherever it stands among the paths", () => {
+check("the seeded flag is read wherever it sits among the paths", () => {
   const said = meaning(["--file-path", "akasha/one.ts", "--seeded"])
   expect(said.seeded).toBe(true)
   expect(said.paths).toEqual(["akasha/one.ts"])

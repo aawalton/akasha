@@ -32,7 +32,7 @@ export const test = {
     },
     {
       invariantKind: "departure",
-      statement: "A run reaching fewer files than stand under it has failed rather than passed.",
+      statement: "A run reaching fewer files than are under it has failed rather than passed.",
     },
     {
       invariantKind: "absence",

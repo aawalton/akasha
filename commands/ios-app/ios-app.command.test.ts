@@ -53,7 +53,7 @@ test("one call names one app", () => {
   expect("refused" in held ? held.refused : "").toContain("one call names one app")
 })
 
-test("an app and an act stand as the first word and the second", () => {
+test("an app and an act are the first word and the second", () => {
   expect(readIn(["build", "alanwalton"])).toEqual({ act: "build", app: "alanwalton", www: null })
 })
 

@@ -57,7 +57,7 @@ export const iosApp = {
     },
     {
       invariantKind: "departure",
-      statement: "A site handed in stands instead of the one the app's page would stage.",
+      statement: "A site handed in takes the place of the one the app's page would stage.",
     },
   ],
 } as const satisfies Command

@@ -20,7 +20,7 @@ export const typecheck = {
     "--file-path repeats, so several paths are judged in one call.",
     "named nothing, it refuses — `akasha audit --check typecheck` is what judges the folder.",
     "it judges the files named and every file importing them, and says nothing about the rest of the folder.",
-    "a program made of the files named is not the program made of the folder, so a fault standing in the folder can stand outside what this sees.",
+    "a program made of the files named is not the program made of the folder, so a fault in the folder can sit outside what this sees.",
     "it runs the check an audit runs, over the files named alone, in seconds and near a gigabyte rather than eight minutes and twenty-one.",
     "nothing is written — this says what the compiler found and fixes none of it.",
   ],

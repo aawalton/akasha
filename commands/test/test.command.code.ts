@@ -47,7 +47,7 @@ export function aiming(paths: readonly string[], given: Given): Aimed {
   for (const one of paths) {
     const absolute = resolve(one.startsWith("/") ? one : join(root, one))
     if (absolute !== root && !absolute.startsWith(`${root}/`)) {
-      refusals.push(`${one} stands outside the repository, and this runs what stands inside it`)
+      refusals.push(`${one} sits outside the repository, and this runs what sits inside it`)
       continue
     }
     if (!existsSync(absolute)) {
@@ -71,7 +71,7 @@ export function bounded(output: string): readonly string[] {
   const kept = textIn(bytes.subarray(dropped))
   return [
     `the first ${dropped} bytes of this run are not here — one answer holds ${ANSWER_CEILING}, and ` +
-      "the end is where the summary stands. Name fewer paths to see the rest.",
+      "the end is where the summary is. Name fewer paths to see the rest.",
     ...kept.split("\n").slice(1),
   ]
 }

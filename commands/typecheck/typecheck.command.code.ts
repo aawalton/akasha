@@ -115,7 +115,7 @@ function seededOf(files: readonly string[], found: ReadonlyMap<string, number>):
       `${one} — drew no diagnostic with a fault seeded into it, so a clean answer over it means nothing`
     )
   }
-  report.push("nothing was written — the fault stood in memory alone")
+  report.push("nothing was written — the fault was in memory alone")
   return { report, refusals, code: refusals.length === 0 ? 0 : 3 }
 }
 
@@ -139,7 +139,7 @@ export function typecheck(argv: readonly string[], given: Given): Answer {
   if (files.length === 0) {
     return {
       report: [],
-      refusals: [`no file the folder compiles stands under \`${aimed.named.join("`, `")}\``],
+      refusals: [`no file the folder compiles sits under \`${aimed.named.join("`, `")}\``],
       code: 1,
     }
   }

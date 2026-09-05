@@ -169,14 +169,14 @@ export function iosApp(argv: readonly string[], given: Given): Answer {
         code: 3,
       }
     }
-    report.push(`staged the site standing at ${read.www}`)
+    report.push(`staged the site at ${read.www}`)
   }
   const stamp = stampOf(given.root, plan)
   if (stamp === null) {
     return {
       report,
       refusals: [
-        `the commit ${given.root} stands at could not be read, and a build stamped with nothing cannot be told from a stale one`,
+        `the commit ${given.root} is at could not be read, and a build stamped with nothing cannot be told from a stale one`,
       ],
       code: 3,
     }
