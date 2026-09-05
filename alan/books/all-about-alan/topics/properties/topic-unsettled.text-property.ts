@@ -13,7 +13,7 @@ export const topicUnsettled = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This holds what is still open rather than what stands.",
+      statement: "This property holds what is still open rather than what stands.",
     },
     {
       invariantKind: "departure",

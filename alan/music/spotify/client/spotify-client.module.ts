@@ -46,7 +46,7 @@ export const spotifyClient = {
     },
     {
       invariantKind: "departure",
-      statement: "A `Retry-After` that is no positive number is read as one second.",
+      statement: "A `Retry-After` other than a positive number is read as one second.",
     },
     {
       invariantKind: "departure",

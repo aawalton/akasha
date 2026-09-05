@@ -10,7 +10,7 @@ export const monarchEvidence = {
     {
       invariantKind: "departure",
       statement:
-        "Everything here reads and nothing writes, so a seat may be given this and nothing else.",
+        "Everything here reads and nothing writes, so a seat may be given this module and nothing else.",
     },
     {
       invariantKind: "departure",

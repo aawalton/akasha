@@ -18,7 +18,7 @@ export const subscriptionDisabledReason = {
     },
     {
       invariantKind: "departure",
-      statement: "The account is usable again once this is taken away.",
+      statement: "The account is usable again once this reason is taken away.",
     },
   ],
 } as const satisfies TextProperty

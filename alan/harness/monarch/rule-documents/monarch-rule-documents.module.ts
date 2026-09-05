@@ -24,7 +24,7 @@ export const monarchRuleDocuments = {
     {
       invariantKind: "departure",
       statement:
-        "A rule folder that has emptied is refused, because that is a migration half-done rather than a project with no rules.",
+        "A rule folder that has emptied is refused, because the emptying is a migration half-done rather than a project with no rules.",
     },
     {
       invariantKind: "departure",

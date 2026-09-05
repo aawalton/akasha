@@ -21,7 +21,8 @@ export const fileFinding = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller naming its own folders to leave out replaces these rather than adds.",
+      statement:
+        "A caller naming its own folders to leave out replaces these folders rather than adds.",
     },
     {
       invariantKind: "departure",

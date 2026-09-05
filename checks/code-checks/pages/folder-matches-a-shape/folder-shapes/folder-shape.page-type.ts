@@ -176,7 +176,8 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
-      statement: "Which files those are is read off the page rather than worked out from its name.",
+      statement:
+        "The files a page answers with are read off the page rather than worked out from its name.",
     },
     {
       invariantKind: "departure",

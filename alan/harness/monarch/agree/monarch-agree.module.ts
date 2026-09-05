@@ -29,7 +29,7 @@ export const monarchAgree = {
     {
       invariantKind: "departure",
       statement:
-        "Rows a rule with no counterpart clause reaches are counted and not weighed, because for those the two paths cannot differ.",
+        "Rows a rule with no counterpart clause reaches are counted and not weighed, because for those rows the two paths cannot differ.",
     },
     {
       invariantKind: "departure",
