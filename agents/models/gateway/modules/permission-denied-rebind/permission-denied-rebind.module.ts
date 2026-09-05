@@ -81,10 +81,7 @@ export const permissionDeniedRebind = {
       invariantKind: "departure",
       statement: "The account stays disabled where no account is left to move to.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The response body is read to text the once through `peek-response`.",
-    },
+
     {
       invariantKind: "constraint",
       statement: "A caller hands in the choice of the next account.",

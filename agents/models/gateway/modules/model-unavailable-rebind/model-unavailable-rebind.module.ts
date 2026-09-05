@@ -86,10 +86,7 @@ export const modelUnavailableRebind = {
       invariantKind: "departure",
       statement: "Every 404 answered here is answered 404.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The response body is read to text the once through `peek-response`.",
-    },
+
     {
       invariantKind: "departure",
       statement: "Every terminal 404 goes to the error seam rather than the output seam.",
