@@ -14,7 +14,7 @@ export const targetName = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What a program is built under is what the built bundle is named for.",
+      statement: "The name a program is built under is the name the built bundle is named for.",
     },
   ],
 } as const satisfies TextProperty
