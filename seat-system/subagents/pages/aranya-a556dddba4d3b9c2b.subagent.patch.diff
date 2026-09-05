@@ -46,6 +46,47 @@ index f36ec6087b63a8cdb35a6c42aa1d0e7d6124048c..6ac086e8c55b316e198529f41b5682f1
    return root
  }
  
+diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
+index 7632d65c7b309284cdfd039e35e23ba9fcd4a5f8..e7a5c0e705ee06fd3e786a8cf8c0098736495493 100644
+--- a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
++++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
+@@ -1,7 +1,6 @@
+ import { afterAll, expect, test } from "bun:test"
+ import { readFileSync, rmSync } from "node:fs"
+ import { join } from "node:path"
+-import { stampTakenFrom } from "@akasha/indexes/testing"
+ import type { Change } from "@akasha/pages-system/change"
+ import { shadowAsked, shadowFor } from "@akasha/pages-system/shadow"
+ import ts from "typescript"
+@@ -20,8 +19,6 @@ import {
+ 
+ afterAll(scratch.sweep)
+ 
+-const NAMING_NO_COMMIT = "names no commit"
+-
+ const THING_AT = "akasha/one.thing.ts"
+ 
+ const READS_ITS_TYPE = 'import type { Thing } from "./thing.page-type.ts"\n\n'
+@@ -280,17 +277,12 @@ test("a file outside the akasha folder never becomes a root, however the index n
+   ])
+ })
+ 
+-test("an index naming no commit still answers a change, its importers being the ones it leaves", () => {
++test("a shadow asked for a change reaches the importers the change itself reaches", () => {
+   const root = staged({
+     "akasha/one.ts": "export const one = 1\n",
+     "akasha/two.ts": 'import { one } from "./one.ts"\nexport const two: string = one\n',
+   })
+-  const changed = { "akasha/one.ts": "export const one = 2\n" }
+-  expect(reached(change(root, changed))).toEqual(["akasha/one.ts", "akasha/two.ts"])
+-  stampTakenFrom(root)
+-  const held = change(root, changed)
+-  const audit: Change = { ...held, before: held.before, after: held.before }
+-  expect(() => reached(audit)).toThrow(NAMING_NO_COMMIT)
++  const held = change(root, { "akasha/one.ts": "export const one = 2\n" })
+   expect(reached(held)).toEqual(["akasha/one.ts", "akasha/two.ts"])
+   expect(reachedBy(held, shadowAsked(held).index)).toEqual(["akasha/one.ts", "akasha/two.ts"])
+   expect(judged(held).map((one) => one.path)).toEqual(["akasha/two.ts"])
 diff --git a/checks/modules/change-walking/change-walking.module.test.ts b/checks/modules/change-walking/change-walking.module.test.ts
 index d906ff417d9a79b1bdcc3155ca3fcef38e89cd22..a15c2b35c1de557fefbae742b7fe7b2d37d9a2f0 100644
 --- a/checks/modules/change-walking/change-walking.module.test.ts
