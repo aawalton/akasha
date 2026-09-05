@@ -21,7 +21,8 @@ export const helpNotes = {
     },
     {
       invariantKind: "departure",
-      statement: "What one thing a command takes is for sits beside that thing rather than here.",
+      statement:
+        "The purpose of one thing a command takes sits beside that thing rather than here.",
     },
     {
       invariantKind: "absence",
