@@ -11,7 +11,6 @@ export const tracking = {
     "page-type/food-entry",
     "page-type/location-trace",
     "page-type/session-activity",
-    "module/activity-default",
     "module/tracking-landing",
     "page-type/to-do",
     "page-type/tracking-capture",
