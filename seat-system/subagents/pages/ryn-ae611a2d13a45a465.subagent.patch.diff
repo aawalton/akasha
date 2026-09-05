@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/query-hold/page-query-hold.module.ts b/pages/query-hold/page-query-hold.module.ts
+index 5829fc5e2c92247231d72b7f60b552a92400bfdc..62a3ddfa575da8211dd5b7f75de41269a7c1783f 100644
+--- a/pages/query-hold/page-query-hold.module.ts
++++ b/pages/query-hold/page-query-hold.module.ts
+@@ -9,7 +9,7 @@ export const pageQueryHold = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Nothing is held until a caller says how long to hold it for.",
++      statement: "Nothing is held until a caller says how long to hold the answer for.",
+     },
+     {
+       invariantKind: "departure",
