@@ -22,7 +22,7 @@ export const nameRule = {
     {
       invariantKind: "departure",
       statement:
-        "A rule whose holes are all filled but which still fills nothing answers with all of them.",
+        "A rule whose holes are all filled but which still fills nothing answers with all of those holes.",
     },
   ],
 } as const satisfies Module
