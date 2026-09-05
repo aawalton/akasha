@@ -1,3 +1,55 @@
+diff --git a/hook-system/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.test.ts b/hook-system/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.test.ts
+index 42d992c09a63714f370075706b779e0b8b52c0b0..f9e44fc90830b2cdfcdb1f582d669849691cd2e6 100644
+--- a/hook-system/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.test.ts
++++ b/hook-system/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.test.ts
+@@ -132,7 +132,7 @@ test("a tool this hook does not name is stood aside", () => {
+   expect(refusalFor(asking("Bash", "akasha/held.ts", root), root, root, HELD)).toBeNull()
+ })
+ 
+-test("the body a write is staged in stands under the agent's own folder", () => {
++test("the body a write is staged in sits under the agent's own folder", () => {
+   expect(holdingIn("01a0-seat")).toBe("/var/tmp/01a0-seat")
+   expect(holdingIn("  01a0-seat  ")).toBe("/var/tmp/01a0-seat")
+ })
+diff --git a/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test.ts b/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test.ts
+index c837c609fdf222470be1f179f8234b04457b8bec..b1f6c6c2abb054cbd8c3de823fb421173404bc55 100644
+--- a/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test.ts
++++ b/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test.ts
+@@ -51,7 +51,7 @@ test("a redirect onto the index is refused, and names the one repair", () => {
+   expect(said(`echo hi > ${indexNamed()}/held.jsonl`)).toContain(REBUILD)
+ })
+ 
+-test("a copy out of akasha stands, because it lands outside", () => {
++test("a copy out of akasha is let through, because it lands outside", () => {
+   expect(said("cp akasha/held.domain.ts /var/tmp/x")).toBeNull()
+ })
+ 
+diff --git a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.test.ts b/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.test.ts
+index 02e0a5af2c51b19f0c629be75f7ea05e95699ea0..51eaadb0798c1d6e5805e6c51475582d43354770 100644
+--- a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.test.ts
++++ b/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.test.ts
+@@ -192,7 +192,7 @@ test("git carrying no act is stood aside from", () => {
+   expect(refusalIn("git -C /elsewhere")).toBeNull()
+ })
+ 
+-test("a call standing behind a read on the same line is still refused", () => {
++test("a call behind a read on the same line is still refused", () => {
+   expect(refusalIn("git status && git reset --hard")).not.toBeNull()
+   expect(refusalIn("cd /elsewhere; git clean -fd")).not.toBeNull()
+ })
+diff --git a/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.test.ts b/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.test.ts
+index fc8df64f3f4894ceae591bd74db28feb349588a4..081934b4d2f2aab69fc7133eb1b01dec69f6b669 100644
+--- a/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.test.ts
++++ b/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.test.ts
+@@ -181,7 +181,7 @@ test("git carrying no act is stood aside from", () => {
+   expect(refusalIn("git -C /elsewhere")).toBeNull()
+ })
+ 
+-test("a call standing behind another on the same line is still refused", () => {
++test("a call behind another on the same line is still refused", () => {
+   expect(refusalIn("git status && git commit -m one")).not.toBeNull()
+   expect(refusalIn("git add -- tools/one.ts && git commit -m one")).not.toBeNull()
+ })
 diff --git a/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts b/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts
 index 794422a02c4fbecda7a54055dc051f0080647c68..63e90bd720e0074fddd55d9a552a01448a898632 100644
 --- a/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts
