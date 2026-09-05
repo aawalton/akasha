@@ -19,7 +19,7 @@ export const orphanResourceAudit = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a resource a deploy says it manages can be an orphan.",
+      statement: "Only a resource a deploy says that deploy manages can be an orphan.",
     },
     {
       invariantKind: "departure",
