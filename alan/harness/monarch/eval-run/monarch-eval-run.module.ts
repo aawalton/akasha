@@ -28,7 +28,7 @@ export const monarchEvalRun = {
     {
       invariantKind: "departure",
       statement:
-        "The whole run is kept — what was offered, what was drawn, what was proposed and what it cost — so it can be scored again without being run again.",
+        "The whole run is kept: the categories offered, the rows drawn, the proposals and the cost.",
     },
     {
       invariantKind: "departure",
