@@ -687,3 +687,11 @@ index 507ecb34fa54cb3833630d266bdf5ec0db33d630..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-catalog-addon
 \ No newline at end of file
+diff --git a/temper/temper-catalog-core/temper-catalog-core b/temper/temper-catalog-core/temper-catalog-core
+deleted file mode 120000
+index d556a107eed8734c2644c1621653fa886e98eafd..0000000000000000000000000000000000000000
+--- a/temper/temper-catalog-core/temper-catalog-core
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-catalog-core
+\ No newline at end of file
