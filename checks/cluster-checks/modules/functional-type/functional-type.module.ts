@@ -9,7 +9,8 @@ export const functionalType = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A package says what it is for in its manifest rather than by where it sits.",
+      statement:
+        "A package says what that package is for in its manifest rather than by where that package sits.",
     },
     {
       invariantKind: "departure",
@@ -22,11 +23,12 @@ export const functionalType = {
     {
       invariantKind: "departure",
       statement:
-        "A value that is no known type answers no type and carries the raw value back with it.",
+        "A value that is no known type answers no type and carries the raw value back with that answer.",
     },
     {
       invariantKind: "departure",
-      statement: "A manifest saying nothing about what it is for carries no raw value back.",
+      statement:
+        "A manifest saying nothing about what the package is for carries no raw value back.",
     },
     {
       invariantKind: "departure",
