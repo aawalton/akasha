@@ -127,7 +127,7 @@ index 5a706b4ca09440547b2366bf2921c3b28712e9f1..94f3d13eb7205653152d0e5a541546da
    typeWorld(root)
    schemaFiled(root, "file-property", "code", [
 diff --git a/context/warrants/file-property-file/file-property-file.context-warrant.test.ts b/context/warrants/file-property-file/file-property-file.context-warrant.test.ts
-index e67b7b54ba18fd9935f6437a215847e0685a6fcb..47b80d11b5d5a1edba32f1e5079f19fee6b405ab 100644
+index e67b7b54ba18fd9935f6437a215847e0685a6fcb..53ae57529ba043cf133967727375cbb427479883 100644
 --- a/context/warrants/file-property-file/file-property-file.context-warrant.test.ts
 +++ b/context/warrants/file-property-file/file-property-file.context-warrant.test.ts
 @@ -73,7 +73,7 @@ function warrantsAt(root: string, path: string): readonly Warrant[] {
@@ -156,6 +156,15 @@ index e67b7b54ba18fd9935f6437a215847e0685a6fcb..47b80d11b5d5a1edba32f1e5079f19fe
    const root = scratch.rootFor("akasha-file-property-file-")
    propertyWorld(root)
    writing(root, CODE_AT, "code\n")
+@@ -125,7 +125,7 @@ test("a file whose page is not there warrants nothing, there being no page it is
+   expect(pathsOf(warrantsAt(root, CODE_AT))).toEqual([])
+ })
+ 
+-test("a file naming a property no page defines still warrants the page it stands beside", () => {
++test("a file naming a property no page defines still warrants the page it sits beside", () => {
+   const root = scratch.rootFor("akasha-file-property-file-")
+   propertyWorld(root)
+   const loose = "akasha/thing/thing.module.notes.ts"
 diff --git a/context/warrants/file-property/file-property.context-warrant.test.ts b/context/warrants/file-property/file-property.context-warrant.test.ts
 index 7c0e59470a99e5a6d86a2678b7b929b7ca925ae7..709ff94f08a3cd749db494237f3706db8aeeabd0 100644
 --- a/context/warrants/file-property/file-property.context-warrant.test.ts
@@ -179,7 +188,7 @@ index 7c0e59470a99e5a6d86a2678b7b929b7ca925ae7..709ff94f08a3cd749db494237f3706db
    statingWorld(root)
    const beside = "akasha/thing/thing.module.code.ts"
 diff --git a/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.test.ts b/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.test.ts
-index fbf429724148e0ead68b0298d4e47f5a3a2feb86..081fbd6ebd74740351e6af810a2bf8c2a61d9978 100644
+index fbf429724148e0ead68b0298d4e47f5a3a2feb86..8d9ee37744f9b6ea604090ea1bcaa110f1fe4641 100644
 --- a/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.test.ts
 +++ b/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.test.ts
 @@ -20,7 +20,7 @@ afterAll(scratch.sweep)
@@ -209,6 +218,15 @@ index fbf429724148e0ead68b0298d4e47f5a3a2feb86..081fbd6ebd74740351e6af810a2bf8c2
    const root = scratch.rootFor("akasha-initiative-ancestors-")
    initiativeListed(root, "one-step", `parentSlug: "initiative/ghost"`)
    const at = seatListed(root, "one", `assignmentSlug: "initiative/one-step"`)
+@@ -98,7 +98,7 @@ test("only a seat warrants the initiatives above what it states", () => {
+   expect(pathsOf(initiativeAncestors(root, mid.path))).toEqual([])
+ })
+ 
+-test("a warrant carries the body standing above, and why it is owed", () => {
++test("a warrant carries the body above, and why it is owed", () => {
+   const root = scratch.rootFor("akasha-initiative-ancestors-")
+   const top = initiativeListed(root, "one-work")
+   initiativeListed(root, "one-step", `parentSlug: "initiative/one-work"`)
 diff --git a/context/warrants/person-itself/person-itself.context-warrant.test.ts b/context/warrants/person-itself/person-itself.context-warrant.test.ts
 index d37a00dbc78285b52c18f42514b918719b37c300..162d280ccdbf0bbd1df7b04bb77eb5e34019f7a6 100644
 --- a/context/warrants/person-itself/person-itself.context-warrant.test.ts
