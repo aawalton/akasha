@@ -13,7 +13,7 @@ export const surplusFallNotifier = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The day opens on what Alan slept, placed on the readout's own scale.",
+      statement: "The day opens on the sleep Alan got, placed on the readout's own scale.",
     },
     {
       invariantKind: "departure",
@@ -22,11 +22,11 @@ export const surplusFallNotifier = {
     {
       invariantKind: "departure",
       statement:
-        "What this service writes is a notification, and reaching a device is the push notifier's.",
+        "This service writes only a notification, and reaching a device is the push notifier's.",
     },
     {
       invariantKind: "departure",
-      statement: "The notification records what was said, so a rung is never announced twice.",
+      statement: "The notification records the rung announced, so a rung is never announced twice.",
     },
     {
       invariantKind: "departure",
