@@ -18,7 +18,7 @@ export const inferenceStatus = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What is reported is what the host holds.",
+      statement: "The services reported are the services the host holds.",
     },
     {
       invariantKind: "departure",
