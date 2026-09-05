@@ -63,7 +63,7 @@ export const manifestLocking = {
     },
     {
       invariantKind: "constraint",
-      statement: "An install is what points the workspace at the folders its manifests name.",
+      statement: "An install points the workspace at the folders its manifests name.",
     },
     {
       invariantKind: "departure",
@@ -116,7 +116,7 @@ export const manifestLocking = {
     },
     {
       invariantKind: "departure",
-      statement: "What an install took away is said alongside the install.",
+      statement: "The links an install took away are said alongside the install.",
     },
     {
       invariantKind: "gap",
