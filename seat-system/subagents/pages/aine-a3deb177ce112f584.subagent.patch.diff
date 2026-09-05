@@ -12,7 +12,7 @@ index 42d992c09a63714f370075706b779e0b8b52c0b0..f9e44fc90830b2cdfcdb1f582d669849
    expect(holdingIn("  01a0-seat  ")).toBe("/var/tmp/01a0-seat")
  })
 diff --git a/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test.ts b/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test.ts
-index c837c609fdf222470be1f179f8234b04457b8bec..6d7d2d11910c4653d5114ec28eb95bbfef26d71f 100644
+index c837c609fdf222470be1f179f8234b04457b8bec..d297d66f08fa00847841693327ceae2431e54d02 100644
 --- a/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test.ts
 +++ b/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test.ts
 @@ -51,7 +51,7 @@ test("a redirect onto the index is refused, and names the one repair", () => {
@@ -61,6 +61,15 @@ index c837c609fdf222470be1f179f8234b04457b8bec..6d7d2d11910c4653d5114ec28eb95bbf
    expect(said("rm -f /var/tmp/x")).toBeNull()
    expect(said("touch /var/tmp/x")).toBeNull()
    expect(said("mkdir -p /var/tmp/held")).toBeNull()
+@@ -256,7 +256,7 @@ test("a program naming the index is refused, and names the one repair", () => {
+   expect(said(`python3 -c "open('${indexNamed()}/held.jsonl','w')"`)).toContain(REBUILD)
+ })
+ 
+-test("a program naming no guarded path stands", () => {
++test("a program naming no guarded path is let through", () => {
+   expect(said('python3 -c "print(1)"')).toBeNull()
+   expect(said("bun run /var/tmp/probe.tmp.ts")).toBeNull()
+   expect(said("node /var/tmp/w.js /var/tmp/x")).toBeNull()
 diff --git a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.test.ts b/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.test.ts
 index 02e0a5af2c51b19f0c629be75f7ea05e95699ea0..51eaadb0798c1d6e5805e6c51475582d43354770 100644
 --- a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.test.ts
