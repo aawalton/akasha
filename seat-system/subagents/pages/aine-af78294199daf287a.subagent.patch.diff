@@ -1,5 +1,5 @@
 diff --git a/commands/audit/audit.command.test.ts b/commands/audit/audit.command.test.ts
-index 22a6ec4f8ae688fcc67c366e19c60a1b8356ad29..e0653a4e29c71b4e69d76d58e279ea97390664ec 100644
+index 22a6ec4f8ae688fcc67c366e19c60a1b8356ad29..505832df19155d554bee67602e031a47fe719381 100644
 --- a/commands/audit/audit.command.test.ts
 +++ b/commands/audit/audit.command.test.ts
 @@ -61,7 +61,7 @@ test("checks finding nothing answer 0 and say how much was judged", async () =>
@@ -11,6 +11,15 @@ index 22a6ec4f8ae688fcc67c366e19c60a1b8356ad29..e0653a4e29c71b4e69d76d58e279ea97
    const found = [
      { path: "akasha/one.ts", reason: "one thing" },
      { path: "akasha/two.ts", reason: "another" },
+@@ -304,7 +304,7 @@ test("more refusals than one answer holds keep their start and say how many ther
+   expect(new TextEncoder().encode(said.join("\n")).length).toBeLessThan(ANSWER_CEILING + 200)
+ })
+ 
+-test("every refusal stands when they all fit", () => {
++test("every refusal remains when they all fit", () => {
+   expect(heldTo(["one", "two"], ANSWER_CEILING)).toEqual(["one", "two"])
+ })
+ 
 diff --git a/commands/claude-usage/claude-usage.command.test.ts b/commands/claude-usage/claude-usage.command.test.ts
 index 75cf32ee79f595efb3cd0d24565c94a04d0e5038..ac6990aefb56b9c6935dced231405d9555515a24 100644
 --- a/commands/claude-usage/claude-usage.command.test.ts
