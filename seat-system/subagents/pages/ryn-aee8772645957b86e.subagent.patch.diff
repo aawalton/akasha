@@ -1,5 +1,5 @@
 diff --git a/editor-extension/work-tree-colors/work-tree-colors.module.ts b/editor-extension/work-tree-colors/work-tree-colors.module.ts
-index 25c0612e6cbef64c7f05b859db2522052de84480..e110f7c8b245fc5f27888409c6037cb98dce73cf 100644
+index 25c0612e6cbef64c7f05b859db2522052de84480..2ee26d255c77f10f6d22f2d0dde96a2b63169c1f 100644
 --- a/editor-extension/work-tree-colors/work-tree-colors.module.ts
 +++ b/editor-extension/work-tree-colors/work-tree-colors.module.ts
 @@ -25,7 +25,8 @@ export const workTreeColors = {
@@ -12,3 +12,12 @@ index 25c0612e6cbef64c7f05b859db2522052de84480..e110f7c8b245fc5f27888409c6037cb9
      },
      {
        invariantKind: "departure",
+@@ -33,7 +34,7 @@ export const workTreeColors = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A tree is rebuilt rather than colored where it is.",
++      statement: "A tree is rebuilt rather than colored where that tree is.",
+     },
+     {
+       invariantKind: "absence",
