@@ -1,5 +1,5 @@
 diff --git a/command-system/calling/calling.module.code.ts b/command-system/calling/calling.module.code.ts
-index cfd86772e7c87bc0e691c367f7f6b37231cf073d..1f92f11db170ee9e384e235122b7f6cdafd6c780 100644
+index cfd86772e7c87bc0e691c367f7f6b37231cf073d..131bafeb3d2c06dd0944c62b322e522bdbc4d872 100644
 --- a/command-system/calling/calling.module.code.ts
 +++ b/command-system/calling/calling.module.code.ts
 @@ -124,6 +124,15 @@ function pageAt(root: string, slug: string): string | null {
@@ -18,3 +18,12 @@ index cfd86772e7c87bc0e691c367f7f6b37231cf073d..1f92f11db170ee9e384e235122b7f6cd
  function pageIn(root: string, path: string, slug: string): Record<string, unknown> | null {
    const reached = reachedIn(join(root, path))
    if ("why" in reached) return null
+@@ -237,7 +246,7 @@ async function answeredBy(
+   argv: readonly string[],
+   outside: Outside
+ ): Promise<Answer> {
+-  const beside = besideAt(path, CODE, TS)
++  const beside = fileBeside(path)
+   if (beside === null) {
+     return refusing(
+       `\`${named}\` is a command page, and no code file can sit beside a name like it`
