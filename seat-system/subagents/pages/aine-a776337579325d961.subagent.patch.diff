@@ -12,7 +12,7 @@ index f8e7098b45919fe22710d86b3b649c8001002d44..ef6896c84b0a0d91f8907f11ae5c92aa
    expect(said[0]?.line).toBe(2)
  })
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.test.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.test.ts
-index 3d6fbb00f04006a1ff25ccfce48573878b1763e1..7ad0f0b976270f2d400194a74b43d7028cc3194b 100644
+index 3d6fbb00f04006a1ff25ccfce48573878b1763e1..6c04f7c4bd0b1a0566c291766206670bcbc37a14 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.test.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.test.ts
 @@ -32,33 +32,33 @@ test("the dispatcher reached through a bound name and a join is refused", () =>
@@ -55,7 +55,7 @@ index 3d6fbb00f04006a1ff25ccfce48573878b1763e1..7ad0f0b976270f2d400194a74b43d702
    const text = "Bun.spawn([process.execPath, import.meta.path, root, ...args])\n"
    expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
  })
-@@ -67,7 +67,7 @@ test("the command run through the shell is refused", () => {
+@@ -67,11 +67,11 @@ test("the command run through the shell is refused", () => {
    expect(noAkashaCommandFromCode(parsed("$`akasha write --file-path one`\n"))).toHaveLength(1)
  })
  
@@ -64,6 +64,11 @@ index 3d6fbb00f04006a1ff25ccfce48573878b1763e1..7ad0f0b976270f2d400194a74b43d702
    expect(noAkashaCommandFromCode(parsed("$`git status`\n"))).toEqual([])
  })
  
+-test("the line named is the line the call stands on", () => {
++test("the line named is the line the call is on", () => {
+   const text = 'const one = 1\nconst two = 2\nspawnSync("akasha", [])\n'
+   expect(noAkashaCommandFromCode(parsed(text))[0]?.line).toBe(3)
+ })
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.ts
 index 6d9831c63b8626df68044b9b0cddbc13ec779032..249ec46fda0cb48f3f762427419f3c9e1ce01349 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.ts
