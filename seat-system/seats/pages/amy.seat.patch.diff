@@ -1,0 +1,193 @@
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
+index 6220fd0f8639ff3886208a5d4761de5d66e13b2c..b9bc64447677ad2a8a75d1377245f366c08753a5 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
+@@ -22,6 +22,7 @@ export const codeEditorDataInterface = {
+     "module/beat-drawing",
+     "module/data-watching",
+     "module/state-cooldown",
++    "module/state-reading",
+     "type-declaration/tree-row",
+     "module/terminal-seat-mapping",
+     "module/tree-drawing",
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts b/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..21f148bc18be9b5370ca1e553eab963adef1b22e
+--- /dev/null
++++ b/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts
+@@ -0,0 +1,130 @@
++// THE EDITOR'S HALF OF THE INTERFACE: ONE FILE READ, AND READ AGAIN WHEN THE SERVICE WRITES IT.
++//
++// The service replaces a line by writing a scratch file and renaming it over the old one, so the
++// file is a different inode after every write. Watching the file itself would see one change and
++// then go deaf, which is why the folder is watched and the name filtered.
++//
++// One watcher serves every part of the editor rather than one watcher each. Enough watch events
++// arriving together ends the extension host, and five parts watching one folder is five copies of
++// every event that folder raises.
++//
++// There is no timer here. The cooldown that used to be the editor's is the service's now, so what
++// arrives has already been collected and a part draws each time it is told.
++
++import { type FSWatcher, readFileSync, watch } from "node:fs"
++import { basename, dirname, join } from "node:path"
++
++const PAGES_AT = "alan/harness/code-editor/code-editor-data-interfaces/pages"
++const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.jsonl"
++
++export type Reading = {
++  readonly stop: () => undefined
++}
++
++export function stateAt(root: string, slug: string): string {
++  return join(root, PAGES_AT, `${slug}${STATE_TAIL}`)
++}
++
++// A file that is missing, empty or caught mid-rename answers nothing rather than throwing, and
++// whoever asked keeps what it last drew. A body that will not parse is a read that raced a rename
++// rather than a picture that is wrong, so the next event answers it.
++//
++// A file holding nothing yet also answers nothing, which is the editor drawing nothing rather than
++// waiting: no part has anything to keep before the service has written once.
++export function readState<Held>(at: string): Held | null {
++  let body: string
++  try {
++    body = readFileSync(at, "utf8")
++  } catch {
++    return null
++  }
++  return parseState<Held>(body)
++}
++
++function parseState<Held>(body: string): Held | null {
++  const line = body.trimEnd()
++  if (line === "") return null
++  try {
++    return JSON.parse(line) as Held
++  } catch {
++    return null
++  }
++}
++
++type Listener = {
++  readonly name: string
++  readonly at: string
++  lastBody: string | null
++  readonly draw: (held: unknown) => undefined
++}
++
++const listeners = new Map<string, Set<Listener>>()
++const watchers = new Map<string, FSWatcher>()
++
++// A rename raises more than one event on some platforms, and the trees are large enough that
++// parsing one twice is worth avoiding. A body identical to the last one read is the same picture,
++// so nothing is drawn again for it.
++function tell(listener: Listener): undefined {
++  let body: string
++  try {
++    body = readFileSync(listener.at, "utf8")
++  } catch {
++    return undefined
++  }
++  if (body === listener.lastBody) return undefined
++  const held = parseState<unknown>(body)
++  if (held === null) return undefined
++  listener.lastBody = body
++  listener.draw(held)
++  return undefined
++}
++
++function watchFolder(folder: string): undefined {
++  if (watchers.has(folder)) return undefined
++  const watcher = watch(folder, (_kind, name) => {
++    if (name === null) return
++    const here = listeners.get(folder)
++    if (here === undefined) return
++    for (const listener of here) {
++      if (listener.name === name) tell(listener)
++    }
++  })
++  // The editor's own exit is what ends this, so the watcher never holds the loop open itself.
++  watcher.unref()
++  watchers.set(folder, watcher)
++  return undefined
++}
++
++// What is there now is drawn before any change arrives, so a panel opened long after the last write
++// draws what the service holds rather than nothing until the service writes again.
++export function followState<Held>(
++  root: string,
++  slug: string,
++  draw: (held: Held) => undefined
++): Reading {
++  const at = stateAt(root, slug)
++  const folder = dirname(at)
++  const listener: Listener = {
++    name: basename(at),
++    at,
++    lastBody: null,
++    draw: draw as (held: unknown) => undefined,
++  }
++  const here = listeners.get(folder) ?? new Set<Listener>()
++  here.add(listener)
++  listeners.set(folder, here)
++  watchFolder(folder)
++  tell(listener)
++  return {
++    stop: (): undefined => {
++      const held = listeners.get(folder)
++      if (held === undefined) return undefined
++      held.delete(listener)
++      if (held.size > 0) return undefined
++      listeners.delete(folder)
++      watchers.get(folder)?.close()
++      watchers.delete(folder)
++      return undefined
++    },
++  }
++}
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..36c59a7a9dbf441d7f3c089bb2820c850b9ca439
+--- /dev/null
++++ b/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.ts
+@@ -0,0 +1,39 @@
++import type { Module } from "../../../../../code-system/modules/module.page-type.ts"
++
++export const stateReading = {
++  id: "01a072b8-a766-7b44-b1e8-c0c04920e385",
++  pageTypeSlug: "module",
++  slug: "state-reading",
++  definition: "how a part of the editor reads the one file that part draws",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The folder is watched rather than the file, a write replacing the file itself.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "One watcher serves every part of the editor rather than one watcher each.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A part draws what is there before any change arrives.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A read that failed draws nothing, leaving the last good read on the screen.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file holding the same bytes as the last read is drawn no second time.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here holds a timer, the cooldown being the service's.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here works a picture out from the repository.",
++    },
++  ],
++} as const satisfies Module
