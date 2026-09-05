@@ -127,3 +127,11 @@ index 2e381246c1a723d2c2b0c4b578139f0d2e862177..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../context
 \ No newline at end of file
+diff --git a/day/day b/day/day
+deleted file mode 120000
+index 67581680d2036f309843782ce52c2fca5a907be7..0000000000000000000000000000000000000000
+--- a/day/day
++++ /dev/null
+@@ -1 +0,0 @@
+-../../day
+\ No newline at end of file
