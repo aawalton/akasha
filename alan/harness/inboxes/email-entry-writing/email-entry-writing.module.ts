@@ -13,7 +13,7 @@ export const emailEntryWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A count is kept only where it is lower than the count already there.",
+      statement: "A count is kept only where that count is lower than the count already there.",
     },
     {
       invariantKind: "constraint",
@@ -21,7 +21,7 @@ export const emailEntryWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry already filed is patched where it is.",
+      statement: "An entry already filed is patched where that entry is.",
     },
     {
       invariantKind: "departure",
