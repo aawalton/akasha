@@ -1,8 +1,8 @@
 diff --git a/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.test.ts b/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.test.ts
-index eac319141ba75c230e6403dbc341fb883e2a6308..a162365e55d21b29a2f07ae3f08ca988760658c3 100644
+index eac319141ba75c230e6403dbc341fb883e2a6308..f848f3d403579afe2a3c75c44e9d56f8a4637707 100644
 --- a/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.test.ts
 +++ b/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.test.ts
-@@ -51,12 +51,12 @@ test("a path spelled through a parent still lands inside", () => {
+@@ -51,19 +51,19 @@ test("a path spelled through a parent still lands inside", () => {
    expect(said).not.toBeNull()
  })
  
@@ -17,6 +17,14 @@ index eac319141ba75c230e6403dbc341fb883e2a6308..a162365e55d21b29a2f07ae3f08ca988
    const root = worldAt()
    mkdirSync(join(root, ".git", "data"), { recursive: true })
    writeFileSync(join(root, ".git", "data", "one.jsonl"), "{}\n")
+   expect(refusalIn(join(root, ".git", "data", "one.jsonl"), root, root)).toBeNull()
+ })
+ 
+-test("a link inside akasha pointing out of it stands", () => {
++test("a link inside akasha pointing out of it is let through", () => {
+   const root = worldAt()
+   symlinkSync(join(root, "outside", "held.ts"), join(root, "akasha", "pointer.ts"))
+   expect(refusalIn(join(root, "akasha", "pointer.ts"), root, root)).toBeNull()
 diff --git a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts b/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts
 index c5a83597e843954f4b76ca76429bd36998a3c8c3..6a98d4ca07dfbc877741d4b3a6f064087242cfec 100644
 --- a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.code.ts
@@ -44,7 +52,7 @@ index ae479851f2cd91d32ea989732f3f4c9407a94a85..5205147349bbdd9e5ea9dee8337836bd
  ]
  
 diff --git a/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.test.ts b/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.test.ts
-index 75383959a75dbe35dfacd935881f4ad7a02e5736..68ace94bf3cac1046fa301b1abf3196b5ead7830 100644
+index 75383959a75dbe35dfacd935881f4ad7a02e5736..364debb890e5014d619456e13c3b7af281b1708f 100644
 --- a/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.test.ts
 +++ b/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.test.ts
 @@ -100,7 +100,7 @@ test("a program whose name merely carries tsc is let through", () => {
@@ -56,3 +64,12 @@ index 75383959a75dbe35dfacd935881f4ad7a02e5736..68ace94bf3cac1046fa301b1abf3196b
    expect(judged("ls && tsc --noEmit")).not.toBeNull()
    expect(judged("tsc --noEmit ; echo done")).not.toBeNull()
  })
+@@ -109,7 +109,7 @@ test("a call inside a quoted run is not read as a call", () => {
+   expect(judged('echo "tsc --noEmit"')).toBeNull()
+ })
+ 
+-test("a call running outside the repository this hook stands in is let through", () => {
++test("a call running outside the repository this hook sits in is let through", () => {
+   expect(judged("tsc --noEmit", "/var/tmp/probe")).toBeNull()
+ })
+ 
