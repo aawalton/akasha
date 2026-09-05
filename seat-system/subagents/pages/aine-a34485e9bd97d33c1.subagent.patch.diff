@@ -12,7 +12,7 @@ index abe529e000e4438e7b8d74e191b489e3578b8d85..c82d48188efd7b21753b380175af8af5
    ],
    helpNotes: [
 diff --git a/alan/fitness/commands/exercise-constraint-set/exercise-constraint-set.command.ts b/alan/fitness/commands/exercise-constraint-set/exercise-constraint-set.command.ts
-index 7c9671487a59593ea58ccd8918185a945bb642eb..ebc308617f7f52e9fb47591ebf64454914a2050d 100644
+index 7c9671487a59593ea58ccd8918185a945bb642eb..b17425f2c018e7c118464a9ce1711460025917bc 100644
 --- a/alan/fitness/commands/exercise-constraint-set/exercise-constraint-set.command.ts
 +++ b/alan/fitness/commands/exercise-constraint-set/exercise-constraint-set.command.ts
 @@ -4,7 +4,7 @@ export const exerciseConstraintSet = {
@@ -24,6 +24,15 @@ index 7c9671487a59593ea58ccd8918185a945bb642eb..ebc308617f7f52e9fb47591ebf644549
    code: "ts",
    changeKindSlug: "change-mechanical",
    taking: [
+@@ -17,7 +17,7 @@ export const exerciseConstraintSet = {
+     { said: "--body-file <file>", takes: "a file what it asks for is read from" },
+     { said: "--kind <kind>", takes: "what sort of limit or cue it is" },
+     { said: "--focus <csv>", takes: "the focuses it reaches, parted by commas, or all of them" },
+-    { said: "--inactive", takes: "that the constraint is retired rather than standing" },
++    { said: "--inactive", takes: "that the constraint is retired rather than active" },
+     { said: "--sort-order <n>", takes: "where it sits when the constraints are read as a list" },
+     { said: "--json", takes: "answer as JSON rather than as a line meant for a reader" },
+   ],
 diff --git a/alan/fitness/commands/exercise-equipment-set/exercise-equipment-set.command.ts b/alan/fitness/commands/exercise-equipment-set/exercise-equipment-set.command.ts
 index 1804585e9dc553f23b55fc8adb2d3bb186389963..7579c8a6bab5dc7b9111c21449f2ef542d6e3a3e 100644
 --- a/alan/fitness/commands/exercise-equipment-set/exercise-equipment-set.command.ts
