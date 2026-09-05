@@ -77,3 +77,16 @@ index 9a50f0955cea66a665de3f1d8e32475a4b7cd865..bc746bd2068f2457f5bd01b0aa1b56be
      },
      {
        invariantKind: "absence",
+diff --git a/pages/akasha-page-values/akasha-page-values.module.ts b/pages/akasha-page-values/akasha-page-values.module.ts
+index a16a0920e9c32b7991031e59ae2dc32150fcb1f0..7d969e5db7fe635a23c0cba2cd9df3862f2898ae 100644
+--- a/pages/akasha-page-values/akasha-page-values.module.ts
++++ b/pages/akasha-page-values/akasha-page-values.module.ts
+@@ -21,7 +21,7 @@ export const akashaPageValues = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A slug and a page type are taken off the file name only where the body states no slug and no page type.",
++        "A slug and a page type come off the file name only where the body states no slug and no page type.",
+     },
+     {
+       invariantKind: "departure",
