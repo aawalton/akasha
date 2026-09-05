@@ -107,10 +107,6 @@ export const edit = {
 
     {
       invariantKind: "departure",
-      statement: "A path no check judged is named in the answer.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A substitution naming no passage is refused wherever the path is.",
     },
     {

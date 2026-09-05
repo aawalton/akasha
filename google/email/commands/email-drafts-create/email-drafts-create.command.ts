@@ -45,10 +45,6 @@ export const emailDraftsCreate = {
     },
 
     {
-      invariantKind: "departure",
-      statement: "An attachment is read off the disk before the mail is composed.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here sends the draft.",
     },

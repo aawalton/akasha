@@ -7,10 +7,4 @@ export const companionMetrics01 = {
   definition:
     "the second fifteen companion metric declarations, in the order the metrics table gathers them",
   code: "ts",
-  invariants: [
-    {
-      invariantKind: "constraint",
-      statement: "A run holds a contiguous stretch of the companion metrics table.",
-    },
-  ],
 } as const satisfies Module

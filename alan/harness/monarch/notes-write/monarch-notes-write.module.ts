@@ -31,10 +31,7 @@ export const monarchNotesWrite = {
       statement:
         "Setting tags states the whole list, so the standing tags are carried rather than replaced.",
     },
-    {
-      invariantKind: "departure",
-      statement: "An errors field in a two-hundred answer is a refusal.",
-    },
+
     {
       invariantKind: "departure",
       statement: "Blank space is no note.",

@@ -36,10 +36,7 @@ export const monarchTransactionCreate = {
       statement:
         "A transfer from a category to itself is refused, because the transfer writes two rows that cancel.",
     },
-    {
-      invariantKind: "departure",
-      statement: "An errors field in a two-hundred answer is a refusal.",
-    },
+
     {
       invariantKind: "departure",
       statement: "The balance is updated unless the caller says otherwise.",

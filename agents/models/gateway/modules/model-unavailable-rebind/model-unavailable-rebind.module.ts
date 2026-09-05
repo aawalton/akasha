@@ -60,10 +60,6 @@ export const modelUnavailableRebind = {
 
     {
       invariantKind: "departure",
-      statement: "No account left to choose is written about as `no-viable-account`.",
-    },
-    {
-      invariantKind: "departure",
       statement: "An account already tried coming back is written about as `looped`.",
     },
     {

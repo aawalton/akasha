@@ -49,10 +49,7 @@ export const write = {
       invariantKind: "departure",
       statement: "A folder at the top of the repository is refused.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A path no check judged is named in the answer.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A path named at `--remove` is inside the repository.",

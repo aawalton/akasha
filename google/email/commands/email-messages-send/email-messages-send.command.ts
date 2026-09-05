@@ -50,10 +50,6 @@ export const emailMessagesSend = {
 
     {
       invariantKind: "departure",
-      statement: "An attachment is read off the disk before the mail is composed.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A message carrying no attachment is one plain-text part rather than multipart.",
     },
   ],

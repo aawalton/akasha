@@ -20,10 +20,7 @@ export const pageFileParts = {
       invariantKind: "departure",
       statement: "Every file after the first carries a part section.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A part section follows the property slug and precedes `uncommitted`.",
-    },
+
     {
       invariantKind: "departure",
       statement: "The name `partAt` puts together `heldIn` takes apart again.",
