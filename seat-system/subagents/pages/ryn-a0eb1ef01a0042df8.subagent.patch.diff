@@ -1,8 +1,8 @@
 diff --git a/command-system/committing/committing.module.ts b/command-system/committing/committing.module.ts
-index ed7c96fed588312111c68abae48a490fe2b2e9fb..d09f0b642b176055cc2f5aea5729a8a0d471af2a 100644
+index ed7c96fed588312111c68abae48a490fe2b2e9fb..e5f35841c87b34ed1feea625aa8f1a2c4eab6b69 100644
 --- a/command-system/committing/committing.module.ts
 +++ b/command-system/committing/committing.module.ts
-@@ -112,7 +112,7 @@ export const committing = {
+@@ -112,11 +112,11 @@ export const committing = {
      },
      {
        invariantKind: "absence",
@@ -11,3 +11,8 @@ index ed7c96fed588312111c68abae48a490fe2b2e9fb..d09f0b642b176055cc2f5aea5729a8a0
      },
      {
        invariantKind: "absence",
+-      statement: "A caller puts back what it asked for itself where this module throws.",
++      statement: "A caller puts back what that caller asked for itself where this module throws.",
+     },
+   ],
+ } as const satisfies Module
