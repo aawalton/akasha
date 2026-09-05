@@ -47,7 +47,7 @@ index 9c2f4ec0ded9302aedc5de22218fbc6f96b7c9fe..1ec474b782c144b4272c917260fc0775
    const at = join(root, LOCK_AT)
    mkdirSync(join(root, ".git"), { recursive: true })
 diff --git a/command-system/landing/landing.module.test.ts b/command-system/landing/landing.module.test.ts
-index 089119d8b1570447d120b0b11fea80da29060006..e46948f85a2c620467d488157018323e6ff781ab 100644
+index 089119d8b1570447d120b0b11fea80da29060006..e46b0d3d794f63e3a3f520ba05293426ead1c96b 100644
 --- a/command-system/landing/landing.module.test.ts
 +++ b/command-system/landing/landing.module.test.ts
 @@ -65,7 +65,7 @@ test("a body the change touches is read as the change would leave it", () => {
@@ -77,6 +77,15 @@ index 089119d8b1570447d120b0b11fea80da29060006..e46948f85a2c620467d488157018323e
    const root = pagesRepo()
    await landing(root, CARRIED, "held", ADMITS)
    const said = await landing(
+@@ -282,7 +282,7 @@ test("a change read against an abbreviated commit is read against the commit it
+   expect(readFileSync(join(root, "akasha/a.domain.ts"), "utf8")).toBe("moved")
+ })
+ 
+-test("a change read against a name standing for no commit is refused unwritten", async () => {
++test("a change read against a name that names no commit is refused unwritten", async () => {
+   const root = repoWith({ "one.txt": "committed" })
+   const was = baseOf(root)
+   const change = [{ path: "new.txt", body: bytes("proposed") }]
 diff --git a/command-system/outside-naming/outside-naming.module.test.ts b/command-system/outside-naming/outside-naming.module.test.ts
 index 5f1da7235545a584c498c9615823307d1d80544b..9a3a5b6af87366d961d52d2de8680ac92077e8b3 100644
 --- a/command-system/outside-naming/outside-naming.module.test.ts
