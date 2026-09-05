@@ -26,6 +26,72 @@ index 22ec3f2d016cf2ba25f40802535c893576542f81..2802d8dcd3456c4841e37a1fa5d987cd
  
  const VERSION_FILE = join(ADDONS_BUNDLE_DIR, "version.txt")
  
+diff --git a/temper/temper-web/routes/addon-bundle-version/addon-bundle-version.route.test.tsx b/temper/temper-web/routes/addon-bundle-version/addon-bundle-version.route.test.tsx
+new file mode 100644
+index 0000000000000000000000000000000000000000..05934e80f8f4cfdc72dc5023e0f943483f4dc393
+--- /dev/null
++++ b/temper/temper-web/routes/addon-bundle-version/addon-bundle-version.route.test.tsx
+@@ -0,0 +1,60 @@
++// The route reads the version off disk, so what it answers is read from a real file rather than
++// from a stub. `ADDONS_BUNDLE_DIR` is read once when the bundle-dir module loads, so the temporary
++// folder is put in the environment before the route's code is imported, and the import is dynamic
++// for that reason alone.
++//
++// What this pins: an absent version file is a 404 carrying JSON rather than an empty 200 or a
++// throw, and a present one is answered with the trailing newline off it, since a caller comparing
++// the version it holds against this one compares text. The download address rides along so a
++// caller that finds itself behind has somewhere to go without knowing the address itself.
++
++import { beforeEach, expect, test } from "bun:test"
++import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
++import { tmpdir } from "node:os"
++import { join } from "node:path"
++import type { AppLoadContext } from "react-router"
++
++const BUNDLE_DIR = mkdtempSync(join(tmpdir(), "temper-addons-"))
++process.env["ADDONS_BUNDLE_DIR"] = BUNDLE_DIR
++
++const VERSION_FILE = join(BUNDLE_DIR, "version.txt")
++
++const { loader } = await import("./addon-bundle-version.route.code.tsx")
++
++type ResourceLoaderArgs = {
++  request: Request
++  url: URL
++  params: Record<string, never>
++  pattern: string
++  context: AppLoadContext
++}
++
++function loaderArgs(pathname: string): ResourceLoaderArgs {
++  const url = new URL(`https://tempereso.com${pathname}`)
++  return { request: new Request(url), url, params: {}, pattern: pathname, context: {} }
++}
++
++beforeEach(() => {
++  rmSync(VERSION_FILE, { force: true })
++})
++
++test("404s with a JSON body when the version file is absent", async () => {
++  const response = loader(loaderArgs("/api/addons/version"))
++
++  expect(response.status).toBe(404)
++  expect(response.headers.get("content-type")).toContain("application/json")
++  expect(await response.text()).toBe(
++    JSON.stringify({ error: "Addon bundle version not available" })
++  )
++})
++
++test("reports the trimmed version alongside the download URL", async () => {
++  writeFileSync(VERSION_FILE, "4312dc56\n")
++
++  const response = loader(loaderArgs("/api/addons/version"))
++
++  expect(response.status).toBe(200)
++  expect(await response.text()).toBe(
++    JSON.stringify({ version: "4312dc56", downloadUrl: "/api/addons/download" })
++  )
++})
 diff --git a/temper/temper-web/routes/addon-bundle/addon-bundle.route.code.tsx b/temper/temper-web/routes/addon-bundle/addon-bundle.route.code.tsx
 index e1b26b4e2a554dcfa826901eabdb32dea6c6dd53..5430a98f8ac7bcc41935fad02ad7ffd7a9b79bc4 100644
 --- a/temper/temper-web/routes/addon-bundle/addon-bundle.route.code.tsx
@@ -39,3 +105,156 @@ index e1b26b4e2a554dcfa826901eabdb32dea6c6dd53..5430a98f8ac7bcc41935fad02ad7ffd7
  
  const BUNDLE_FILE = join(ADDONS_BUNDLE_DIR, "temper-addons.zip")
  
+diff --git a/temper/temper-web/routes/addon-bundle/addon-bundle.route.test.tsx b/temper/temper-web/routes/addon-bundle/addon-bundle.route.test.tsx
+new file mode 100644
+index 0000000000000000000000000000000000000000..6aab800b8c35bafcc55f72a988285c8f962b93ae
+--- /dev/null
++++ b/temper/temper-web/routes/addon-bundle/addon-bundle.route.test.tsx
+@@ -0,0 +1,61 @@
++// The route serves the archive off disk, so what it answers is read from a real file rather than
++// from a stub. `ADDONS_BUNDLE_DIR` is read once when the bundle-dir module loads, so the temporary
++// folder is put in the environment before the route's code is imported, and the import is dynamic
++// for that reason alone.
++//
++// What this pins: an absent bundle is a 404 carrying JSON rather than an empty 200 or a throw, and
++// a present one is served with the headers a downloader needs — the archive type, the file name to
++// save it under, and the length read off the file rather than assumed.
++
++import { beforeEach, expect, test } from "bun:test"
++import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
++import { tmpdir } from "node:os"
++import { join } from "node:path"
++import type { AppLoadContext } from "react-router"
++
++const BUNDLE_DIR = mkdtempSync(join(tmpdir(), "temper-addons-"))
++process.env["ADDONS_BUNDLE_DIR"] = BUNDLE_DIR
++
++const BUNDLE_FILE = join(BUNDLE_DIR, "temper-addons.zip")
++
++const { loader } = await import("./addon-bundle.route.code.tsx")
++
++type ResourceLoaderArgs = {
++  request: Request
++  url: URL
++  params: Record<string, never>
++  pattern: string
++  context: AppLoadContext
++}
++
++function loaderArgs(pathname: string): ResourceLoaderArgs {
++  const url = new URL(`https://tempereso.com${pathname}`)
++  return { request: new Request(url), url, params: {}, pattern: pathname, context: {} }
++}
++
++const BUNDLE_BYTES = new Uint8Array([0x50, 0x4b, 0x03, 0x04, 0x00, 0x01, 0x02, 0x03])
++
++beforeEach(() => {
++  rmSync(BUNDLE_FILE, { force: true })
++})
++
++test("404s with a JSON body when the bundle is absent", async () => {
++  const response = loader(loaderArgs("/api/addons/download"))
++
++  expect(response.status).toBe(404)
++  expect(response.headers.get("content-type")).toContain("application/json")
++  expect(await response.text()).toBe(JSON.stringify({ error: "Addon bundle not available" }))
++})
++
++test("serves the archive with attachment headers and the on-disk byte length", () => {
++  writeFileSync(BUNDLE_FILE, BUNDLE_BYTES)
++
++  const response = loader(loaderArgs("/api/addons/download"))
++
++  expect(response.status).toBe(200)
++  expect(response.headers.get("content-type")).toBe("application/zip")
++  expect(response.headers.get("content-disposition")).toBe(
++    'attachment; filename="temper-addons.zip"'
++  )
++  expect(response.headers.get("content-length")).toBe(String(BUNDLE_BYTES.byteLength))
++})
+diff --git a/temper/temper-web/routes/api.addons.unit.test.ts b/temper/temper-web/routes/api.addons.unit.test.ts
+deleted file mode 100644
+index e9c7ca01ceabfd512f528bfad42e8c4acb72a33b..0000000000000000000000000000000000000000
+--- a/temper/temper-web/routes/api.addons.unit.test.ts
++++ /dev/null
+@@ -1,80 +0,0 @@
+-import { beforeEach, describe, expect, it } from "bun:test"
+-import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
+-import { tmpdir } from "node:os"
+-import { join } from "node:path"
+-import type { AppLoadContext } from "react-router"
+-
+-const BUNDLE_DIR = mkdtempSync(join(tmpdir(), "temper-addons-"))
+-process.env["ADDONS_BUNDLE_DIR"] = BUNDLE_DIR
+-
+-const BUNDLE_FILE = join(BUNDLE_DIR, "temper-addons.zip")
+-const VERSION_FILE = join(BUNDLE_DIR, "version.txt")
+-
+-const { loader: downloadLoader } = await import("./api.addons.download")
+-const { loader: versionLoader } = await import("./api.addons.version")
+-
+-type ResourceLoaderArgs = {
+-  request: Request
+-  url: URL
+-  params: Record<string, never>
+-  pattern: string
+-  context: AppLoadContext
+-}
+-
+-function loaderArgs(pathname: string): ResourceLoaderArgs {
+-  const url = new URL(`https://tempereso.com${pathname}`)
+-  return { request: new Request(url), url, params: {}, pattern: pathname, context: {} }
+-}
+-
+-const BUNDLE_BYTES = new Uint8Array([0x50, 0x4b, 0x03, 0x04, 0x00, 0x01, 0x02, 0x03])
+-
+-beforeEach(() => {
+-  rmSync(BUNDLE_FILE, { force: true })
+-  rmSync(VERSION_FILE, { force: true })
+-})
+-
+-describe("GET /api/addons/download", () => {
+-  it("404s with a JSON body when the bundle is absent", async () => {
+-    const response = downloadLoader(loaderArgs("/api/addons/download"))
+-
+-    expect(response.status).toBe(404)
+-    expect(response.headers.get("content-type")).toContain("application/json")
+-    expect(await response.text()).toBe(JSON.stringify({ error: "Addon bundle not available" }))
+-  })
+-
+-  it("serves the archive with attachment headers and the on-disk byte length", async () => {
+-    writeFileSync(BUNDLE_FILE, BUNDLE_BYTES)
+-
+-    const response = downloadLoader(loaderArgs("/api/addons/download"))
+-
+-    expect(response.status).toBe(200)
+-    expect(response.headers.get("content-type")).toBe("application/zip")
+-    expect(response.headers.get("content-disposition")).toBe(
+-      'attachment; filename="temper-addons.zip"'
+-    )
+-    expect(response.headers.get("content-length")).toBe(String(BUNDLE_BYTES.byteLength))
+-  })
+-})
+-
+-describe("GET /api/addons/version", () => {
+-  it("404s with a JSON body when the version file is absent", async () => {
+-    const response = versionLoader(loaderArgs("/api/addons/version"))
+-
+-    expect(response.status).toBe(404)
+-    expect(response.headers.get("content-type")).toContain("application/json")
+-    expect(await response.text()).toBe(
+-      JSON.stringify({ error: "Addon bundle version not available" })
+-    )
+-  })
+-
+-  it("reports the trimmed version alongside the download URL", async () => {
+-    writeFileSync(VERSION_FILE, "4312dc56\n")
+-
+-    const response = versionLoader(loaderArgs("/api/addons/version"))
+-
+-    expect(response.status).toBe(200)
+-    expect(await response.text()).toBe(
+-      JSON.stringify({ version: "4312dc56", downloadUrl: "/api/addons/download" })
+-    )
+-  })
+-})
