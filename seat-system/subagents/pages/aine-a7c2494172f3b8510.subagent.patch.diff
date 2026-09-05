@@ -121,7 +121,7 @@ index 175fefc88bb56b1858b87191030ae08bc611e404..a79c7cb21f055cad2834e5f17375ae79
      code: 0,
    }
 diff --git a/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.ts b/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.ts
-index cc9c9d4efb115dc860153a4fccd6df5d7e89f2c5..c97954efa01281f6656d33bbd38435c99c91de95 100644
+index cc9c9d4efb115dc860153a4fccd6df5d7e89f2c5..d0ebc0a5b05b9b3eaf0d8373a1f0985817d597b7 100644
 --- a/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.ts
 +++ b/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.ts
 @@ -14,7 +14,7 @@ export const temperInventorySnapshot = {
@@ -133,3 +133,12 @@ index cc9c9d4efb115dc860153a4fccd6df5d7e89f2c5..c97954efa01281f6656d33bbd38435c9
      "the pieces a reading arrived in were rejoined before the snapshot landed.",
      "a snapshot is named or `--latest` is said, never both.",
      "`--latest` reads the newest reading on the account, ordered by when the reading was taken.",
+@@ -23,7 +23,7 @@ export const temperInventorySnapshot = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A snapshot's whole record stands in one data file beside its page.",
++      statement: "A snapshot's whole record sits in one data file beside its page.",
+     },
+     {
+       invariantKind: "departure",
