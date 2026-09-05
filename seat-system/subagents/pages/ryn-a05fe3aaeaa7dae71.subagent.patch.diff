@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/git-transport/backend-env/backend-env.module.ts b/git-transport/backend-env/backend-env.module.ts
+index b631802df484c89603c0c16a6ca3ed1e60e55197..77ac82cf49c2dabd61535396a6a71a9c58528144 100644
+--- a/git-transport/backend-env/backend-env.module.ts
++++ b/git-transport/backend-env/backend-env.module.ts
+@@ -17,7 +17,7 @@ export const backendEnv = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A gzipped body carries no length, so the backend reads to the end of it.",
++      statement: "A gzipped body carries no length, so the backend reads to the end of that body.",
+     },
+     {
+       invariantKind: "departure",
