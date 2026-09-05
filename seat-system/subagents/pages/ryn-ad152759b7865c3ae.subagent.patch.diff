@@ -1,5 +1,5 @@
 diff --git a/seat-system/seat-session/seat-session.module.ts b/seat-system/seat-session/seat-session.module.ts
-index a67d5368abaecee3b517a1dfb2ee41c036f36ba7..21536ac746dd3c0d75d2311c7b5ac3b71391b869 100644
+index a67d5368abaecee3b517a1dfb2ee41c036f36ba7..301413895b92cba2e2c358d1c0a0440fe3b20c22 100644
 --- a/seat-system/seat-session/seat-session.module.ts
 +++ b/seat-system/seat-session/seat-session.module.ts
 @@ -13,7 +13,8 @@ export const seatSession = {
@@ -9,6 +9,15 @@ index a67d5368abaecee3b517a1dfb2ee41c036f36ba7..21536ac746dd3c0d75d2311c7b5ac3b7
 -      statement: "A seat whose page has gone is read out of the history it was committed into.",
 +      statement:
 +        "A seat whose page has gone is read out of the history that seat was committed into.",
+     },
+     {
+       invariantKind: "departure",
+@@ -21,7 +22,7 @@ export const seatSession = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A session cannot be observed again, so it is committed with the page.",
++      statement: "A session cannot be observed again, so that session is committed with the page.",
      },
      {
        invariantKind: "departure",
