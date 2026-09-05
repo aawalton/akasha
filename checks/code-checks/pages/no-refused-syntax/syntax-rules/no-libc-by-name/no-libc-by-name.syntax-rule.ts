@@ -15,7 +15,7 @@ export const noLibcByName = {
     },
     {
       invariantKind: "departure",
-      statement: "`libc.so.6` names no library of any kind where musl is what runs.",
+      statement: "`libc.so.6` names no library of any kind where musl runs.",
     },
     {
       invariantKind: "departure",
