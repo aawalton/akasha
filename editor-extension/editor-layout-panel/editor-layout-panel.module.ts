@@ -17,7 +17,7 @@ export const editorLayoutPanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A terminal tab names the seat in it and the process running in it.",
+      statement: "A terminal tab names the seat in that tab and the process running in that tab.",
     },
     {
       invariantKind: "departure",
