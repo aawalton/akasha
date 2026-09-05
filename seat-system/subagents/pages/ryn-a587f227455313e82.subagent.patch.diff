@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/agents/claude-code/session/claude-code-session.domain.ts b/agents/claude-code/session/claude-code-session.domain.ts
+index 4de3a97725c2a67eb5d0d8a7e46b6b61bfc5fc2b..73cbaed76164389d1d530f085ef63dd1f0a5839e 100644
+--- a/agents/claude-code/session/claude-code-session.domain.ts
++++ b/agents/claude-code/session/claude-code-session.domain.ts
+@@ -34,7 +34,7 @@ export const claudeCodeSession = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "That new file holds only what was written after the move.",
++      statement: "That new file holds only the lines written after the move.",
+     },
+   ],
+ } as const satisfies Domain
