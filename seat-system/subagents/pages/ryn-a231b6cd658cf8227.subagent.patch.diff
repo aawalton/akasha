@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/category-rules/properties/match-comparison.select-property.ts b/alan/harness/monarch/category-rules/properties/match-comparison.select-property.ts
+index b3442c7e2eecb420184052e039eb13583618dba5..b1aa97a2711ba70b413b3aafa275d177a9359784 100644
+--- a/alan/harness/monarch/category-rules/properties/match-comparison.select-property.ts
++++ b/alan/harness/monarch/category-rules/properties/match-comparison.select-property.ts
+@@ -10,7 +10,7 @@ export const matchComparison = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A clause holding several values passes where any one of them matches.",
++      statement: "A clause holding several values passes where any one of those values matches.",
+     },
+     {
+       invariantKind: "departure",
