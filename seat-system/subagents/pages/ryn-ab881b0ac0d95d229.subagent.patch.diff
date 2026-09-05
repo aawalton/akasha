@@ -76,3 +76,29 @@ index f78a82abfc4cb3b5e4748f59bb0f8fb1c081ff3d..89f91ee9611b1c28bd52a4e60d20fd08
      },
      {
        invariantKind: "departure",
+diff --git a/seat-system/recipient-resolving/blocked-principal-decide/blocked-principal-decide.module.ts b/seat-system/recipient-resolving/blocked-principal-decide/blocked-principal-decide.module.ts
+index 25bcf7669684a19c1bdaa3ad29f12d5e5394ce7f..aaa34fe94326edd8f3137804076090364b3e135d 100644
+--- a/seat-system/recipient-resolving/blocked-principal-decide/blocked-principal-decide.module.ts
++++ b/seat-system/recipient-resolving/blocked-principal-decide/blocked-principal-decide.module.ts
+@@ -11,7 +11,7 @@ export const blockedPrincipalDecide = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "Nothing binds an agent to work another party waits on, so no principal is derivable and this says so rather than guessing one.",
++        "Nothing binds an agent to work another party waits on, so no principal is derivable and this module says so rather than guessing one.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/seat-conditions/properties/seat-conditions-model.text-property.ts b/seat-system/seat-conditions/properties/seat-conditions-model.text-property.ts
+index 9bce295a06120bb247f0da4b45f042183933acd7..14feb3d710003fdf715d22abf0bc9a530849f8ca 100644
+--- a/seat-system/seat-conditions/properties/seat-conditions-model.text-property.ts
++++ b/seat-system/seat-conditions/properties/seat-conditions-model.text-property.ts
+@@ -13,7 +13,7 @@ export const seatConditionsModel = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A subagent naming no model of its own answers on this too.",
++      statement: "A subagent naming no model of its own answers on this model too.",
+     },
+   ],
+ } as const satisfies TextProperty
