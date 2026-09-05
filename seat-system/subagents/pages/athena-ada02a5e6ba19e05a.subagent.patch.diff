@@ -36,7 +36,7 @@ index 0a02c27fc8711c1ffa440c7e1697aae4b9fb8cba..836eae0959420f9c8f3a913b42286328
    else writeFileSync(out, json)
  }
 diff --git a/seat-system/supervisor-decide/supervisor-decide.module.code.ts b/seat-system/supervisor-decide/supervisor-decide.module.code.ts
-index 4fb7310eb9b013b9138f9335b5ba908d2b3cc6a4..684e70f622f22f7cf937c635f5647c47611daa14 100644
+index 4fb7310eb9b013b9138f9335b5ba908d2b3cc6a4..951d8d8201eb7eef4c6a4287623d7c6f5b6c1de5 100644
 --- a/seat-system/supervisor-decide/supervisor-decide.module.code.ts
 +++ b/seat-system/supervisor-decide/supervisor-decide.module.code.ts
 @@ -44,8 +44,18 @@ function requireNotice(all: Readonly<Record<string, string>>, key: string): stri
@@ -59,3 +59,12 @@ index 4fb7310eb9b013b9138f9335b5ba908d2b3cc6a4..684e70f622f22f7cf937c635f5647c47
    return {
      "restart-immediate": requireNotice(all, "restart-immediate"),
      "restart-deferred": requireNotice(all, "restart-deferred"),
+@@ -65,7 +75,7 @@ export type LimitResumeAnswer =
+ 
+ function limitResumeAnswer(decision: LimitResumeDecision): LimitResumeAnswer {
+   if (decision.kind !== "nudge") return decision
+-  const nudge = requireNotice(notices(), NUDGE_NOTICE)
++  const nudge = requireNotice(allNotices(), NUDGE_NOTICE)
+   return { kind: "nudge", reason: decision.reason, nudge, floorMs: LIMIT_RESUME_FLOOR_MS }
+ }
+ 
