@@ -59,7 +59,7 @@ export const parserModel = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The page is committed and the model files beside it are not.",
+      statement: "The page is committed and the model files beside that page are not.",
     },
     {
       invariantKind: "departure",
