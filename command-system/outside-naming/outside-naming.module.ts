@@ -26,7 +26,7 @@ export const outsideNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "What every call found is answered as one answer with each path said once.",
+      statement: "The paths every call found are answered as one answer with each path said once.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +43,7 @@ export const outsideNaming = {
     },
     {
       invariantKind: "absence",
-      statement: "What leads a whole name is left open.",
+      statement: "The characters leading a whole name are left open.",
     },
     {
       invariantKind: "absence",
