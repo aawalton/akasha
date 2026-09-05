@@ -1,5 +1,5 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
-import { AKASHA as AKASHA_REPO, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { getMessage, listMessages } from "@akasha/google-email/email-message-fetching"
 
 export interface EmailMessage {
   readonly id: string
@@ -10,28 +10,13 @@ export interface EmailMessage {
 
 const FETCH_WIDTH = 8
 
-const AKASHA_BIN = `${rootFor(resolveRoots(), AKASHA_REPO)}/dotfiles/bin/akasha`
-
-async function runAkasha(args: readonly string[]): Promise<string> {
-  const child = Bun.spawn([AKASHA_BIN, ...args], { stdout: "pipe", stderr: "pipe" })
-  const [out, err, code] = await Promise.all([
-    new Response(child.stdout).text(),
-    new Response(child.stderr).text(),
-    child.exited,
-  ])
-  if (code !== 0) throw new Error(`akasha ${args.join(" ")} exited ${code}\n${err.trim()}`)
-  return out
-}
-
 export async function cachedMessages(options: {
   readonly query: string
   readonly cacheDir: string
   readonly label: string
 }): Promise<readonly EmailMessage[]> {
   mkdirSync(options.cacheDir, { recursive: true })
-  const listed = JSON.parse(
-    await runAkasha(["email-messages-list", "--query", options.query, "--max", "500"])
-  ) as { id: string }[]
+  const listed = await listMessages({ query: options.query, max: 500 })
   const ids = listed.map((m) => m.id)
   const wanted = ids.filter((id) => !existsSync(`${options.cacheDir}/${id}.json`))
   console.log(`gmail: ${ids.length} ${options.label}, ${wanted.length} to fetch`)
@@ -40,7 +25,7 @@ export async function cachedMessages(options: {
       wanted.slice(at, at + FETCH_WIDTH).map(async (id) => {
         writeFileSync(
           `${options.cacheDir}/${id}.json`,
-          await runAkasha(["email-messages-get", "--message", id])
+          `${JSON.stringify(await getMessage({ id }), null, 2)}\n`
         )
       })
     )

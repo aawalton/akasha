@@ -22,6 +22,7 @@ export const googleEmail = {
     "module/gmail-mailbox",
     "module/forwarded-message",
     "module/email-operations",
+    "module/email-message-fetching",
     "module/compose-input-from-arguments",
     "module/email-command-reading",
     "command/email-attachments-get",

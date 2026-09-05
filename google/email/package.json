@@ -18,6 +18,7 @@
     "./gmail-mailbox": "./gmail-mailbox/gmail-mailbox.module.code.ts",
     "./forwarded-message": "./forwarded-message/forwarded-message.module.code.ts",
     "./email-operations": "./email-operations/email-operations.module.code.ts",
+    "./email-message-fetching": "./email-message-fetching/email-message-fetching.module.code.ts",
     "./compose-input-from-arguments": "./compose-input-from-arguments/compose-input-from-arguments.module.code.ts",
     "./email-command-help": "./email-command-help/email-command-help.module.code.ts"
   },

@@ -1,5 +1,5 @@
 import type { Answer, Given } from "@akasha/command-system/calling"
-import { emailGoogle } from "@akasha/google-email/email-operations"
+import { listMessages } from "@akasha/google-email/email-message-fetching"
 import {
   answeredBy,
   answering,
@@ -38,10 +38,8 @@ export function emailMessagesList(argv: readonly string[], given: Given): Promis
     const query = proseIn(given, said, FILING)
     if ("why" in query) return refusing([query.why], 1)
     const labels = said.many[LABEL] ?? []
-    const google = await emailGoogle()
-    const client = await google.makeGmailClient()
     return answering(
-      await google.listMessages(client, {
+      await listMessages({
         query: query.said,
         max: maxIn(said),
         labelIds: labels.length > 0 ? labels : undefined,

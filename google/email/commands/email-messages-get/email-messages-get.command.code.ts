@@ -1,5 +1,5 @@
 import type { Answer } from "@akasha/command-system/calling"
-import { emailGoogle } from "@akasha/google-email/email-operations"
+import { getMessage } from "@akasha/google-email/email-message-fetching"
 import {
   answeredBy,
   answering,
@@ -18,9 +18,5 @@ export function readIn(argv: readonly string[]): Read {
 export function emailMessagesGet(argv: readonly string[]): Promise<Answer> {
   const said = readIn(argv)
   if ("refused" in said) return Promise.resolve(refusing(said.refused, 1))
-  return answeredBy(async () => {
-    const google = await emailGoogle()
-    const client = await google.makeGmailClient()
-    return answering(await google.getMessage(client, said.one[MESSAGE] ?? ""))
-  })
+  return answeredBy(async () => answering(await getMessage({ id: said.one[MESSAGE] ?? "" })))
 }

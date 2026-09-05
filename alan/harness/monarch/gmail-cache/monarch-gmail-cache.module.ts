@@ -18,15 +18,11 @@ export const monarchGmailCache = {
     {
       invariantKind: "departure",
       statement:
-        "Mail is reached through the `akasha` command rather than through Google directly.",
+        "Mail is reached by calling the message functions rather than by running a command.",
     },
     {
       invariantKind: "departure",
-      statement: "A non-zero exit from `akasha` is refused carrying what it said.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The akasha command is spawned by its whole path rather than found on a path.",
+      statement: "A fault at Gmail rises to the caller rather than being caught here.",
     },
     {
       invariantKind: "departure",
