@@ -13,7 +13,7 @@ export const navSlug = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A view belongs to the nav item that owns it and is drawn nowhere else.",
+      statement: "A view belongs to the nav item that owns that view and is drawn nowhere else.",
     },
   ],
 } as const satisfies RelationProperty
