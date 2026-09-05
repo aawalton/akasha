@@ -9,8 +9,12 @@ export const supervisorLogSweeping = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "Every supervisor keeps a directory named for its agent, holding its socket.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "Every supervisor keeps a directory named for its agent, holding its socket and the log files it falls back to when a log day page cannot be written.",
+        "A log file a supervisor falls back to when a log day page cannot be written is there too.",
     },
     {
       invariantKind: "departure",
