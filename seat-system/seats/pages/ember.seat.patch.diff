@@ -1,3 +1,160 @@
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-03ee5fa2/rule-03ee5fa2.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-03ee5fa2/rule-03ee5fa2.temper-inventory-rule.ts
+index 42149586d84ed49bf5f2cd1f86beff97c1d5d5bc..f739f2accc59d61f4d09b8c688443e7bf0539d2e 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-03ee5fa2/rule-03ee5fa2.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-03ee5fa2/rule-03ee5fa2.temper-inventory-rule.ts
+@@ -10,5 +10,6 @@ export const rule03ee5fa2 = {
+   displayOrder: 30,
+   action: "move-to",
+   active: true,
++  updatedAt: "2026-06-01T12:53:34.875Z",
+   destination: "house-storage:4680",
+ } as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-0b8c6920/rule-0b8c6920.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-0b8c6920/rule-0b8c6920.temper-inventory-rule.ts
+index 5e22fd1baaa0b0723e5706c5f98efd4b73cc4940..9a1065b0821b075b5beb9cd2e6e396c8662248cc 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-0b8c6920/rule-0b8c6920.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-0b8c6920/rule-0b8c6920.temper-inventory-rule.ts
+@@ -11,5 +11,6 @@ export const rule0b8c6920 = {
+   displayOrder: 81,
+   action: "destroy",
+   active: true,
++  updatedAt: "2026-07-05T13:32:43.766Z",
+   conditions: "jsonl",
+ } as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-118d98dd/rule-118d98dd.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-118d98dd/rule-118d98dd.temper-inventory-rule.ts
+index a82da88f08772e8f90ebf12d0881cf30d4469be8..346ecff8028c189c936851f5103289c1af253be7 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-118d98dd/rule-118d98dd.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-118d98dd/rule-118d98dd.temper-inventory-rule.ts
+@@ -9,5 +9,6 @@ export const rule118d98dd = {
+   displayOrder: 8,
+   action: "move-to",
+   active: true,
++  updatedAt: "2026-06-02T20:27:33.382Z",
+   destination: "character:8796093022338107",
+ } as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-2524af23/rule-2524af23.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-2524af23/rule-2524af23.temper-inventory-rule.ts
+index d986ffd7429cde22afa4e34ec9b6e56c0807cf3b..3664511be022aefa02d6e5702ec2d5c0f514ffc4 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-2524af23/rule-2524af23.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-2524af23/rule-2524af23.temper-inventory-rule.ts
+@@ -9,5 +9,6 @@ export const rule2524af23 = {
+   displayOrder: 48,
+   action: "move-to",
+   active: true,
++  updatedAt: "2026-06-02T20:31:51.801Z",
+   destination: "character:8796093022338107",
+ } as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-263273e9/rule-263273e9.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-263273e9/rule-263273e9.temper-inventory-rule.ts
+index 2f0a3a102d1b1f44a8abd389f2cb64a2e7986df8..c8fce8b790bbfabaa07dc94df609c2a8060fb43b 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-263273e9/rule-263273e9.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-263273e9/rule-263273e9.temper-inventory-rule.ts
+@@ -10,6 +10,7 @@ export const rule263273e9 = {
+   displayOrder: 34,
+   action: "move-to",
+   active: true,
++  updatedAt: "2026-06-01T22:02:02.448Z",
+   destination: "house-storage:4677",
+   conditions: "jsonl",
+ } as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-26fb56ce/rule-26fb56ce.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-26fb56ce/rule-26fb56ce.temper-inventory-rule.ts
+index daa879e4928c85fec8dd8a4612e23a45ba507e47..56259926213021d9866d41c6d7ca93d20d7abd89 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-26fb56ce/rule-26fb56ce.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-26fb56ce/rule-26fb56ce.temper-inventory-rule.ts
+@@ -11,6 +11,7 @@ export const rule26fb56ce = {
+   displayOrder: 35,
+   action: "fence-launder",
+   active: true,
++  updatedAt: "2026-05-31T18:39:21.682Z",
+   goal: "hoard",
+   conditions: "jsonl",
+ } as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-2ff0574b/rule-2ff0574b.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-2ff0574b/rule-2ff0574b.temper-inventory-rule.ts
+index 7bef41e357a04bd7370e9552ae08aad22787618f..2dde3a4a1c6d175d4e2408e5850e5165acf08b5a 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-2ff0574b/rule-2ff0574b.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-2ff0574b/rule-2ff0574b.temper-inventory-rule.ts
+@@ -9,5 +9,6 @@ export const rule2ff0574b = {
+   displayOrder: 49,
+   action: "move-to",
+   active: true,
++  updatedAt: "2026-06-02T20:15:45.094Z",
+   destination: "character:8796093022338107",
+ } as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-311cfd8b/rule-311cfd8b.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-311cfd8b/rule-311cfd8b.temper-inventory-rule.ts
+index 4f7e0a551e8cf476ad9467bb20103f8f204a87f3..796e0c455fc83b46513b15b2e97b9f4b378376b4 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-311cfd8b/rule-311cfd8b.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-311cfd8b/rule-311cfd8b.temper-inventory-rule.ts
+@@ -12,5 +12,6 @@ export const rule311cfd8b = {
+   displayOrder: 38,
+   action: "move-to",
+   active: true,
++  updatedAt: "2026-07-05T13:20:45.993Z",
+   destination: "house-storage:4680",
+ } as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-3535f831/rule-3535f831.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-3535f831/rule-3535f831.temper-inventory-rule.ts
+index 64402211d81f605eae5412b776ddbfc7e50263ad..3d0115f7f2fcc062ca74f90efa71e26ae316f59f 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-3535f831/rule-3535f831.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-3535f831/rule-3535f831.temper-inventory-rule.ts
+@@ -9,5 +9,6 @@ export const rule3535f831 = {
+   displayOrder: 1,
+   action: "move-to",
+   active: true,
++  updatedAt: "2026-06-02T19:27:28.980Z",
+   destination: "house-storage:4677",
+ } as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-3acee2c7/rule-3acee2c7.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-3acee2c7/rule-3acee2c7.temper-inventory-rule.ts
+index 1ea59444d815a63ca9d9746ee8ba5e4655870e4c..b35b7b3c48146c62a887fa7a1e52addda517f408 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-3acee2c7/rule-3acee2c7.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-3acee2c7/rule-3acee2c7.temper-inventory-rule.ts
+@@ -12,5 +12,6 @@ export const rule3acee2c7 = {
+   displayOrder: 77,
+   action: "sell",
+   active: true,
++  updatedAt: "2026-07-05T13:20:37.492Z",
+   conditions: "jsonl",
+ } as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-3b55dc81/rule-3b55dc81.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-3b55dc81/rule-3b55dc81.temper-inventory-rule.ts
+index 04cc937363555268f3b91dead4baf9ba32d9ce9f..e26943e26b401673701805d08c62a8375fb0efde 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-3b55dc81/rule-3b55dc81.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-3b55dc81/rule-3b55dc81.temper-inventory-rule.ts
+@@ -11,5 +11,6 @@ export const rule3b55dc81 = {
+   displayOrder: 10,
+   action: "destroy",
+   active: true,
++  updatedAt: "2026-06-02T20:49:28.407Z",
+   conditions: "jsonl",
+ } as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-3f8c330f/rule-3f8c330f.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-3f8c330f/rule-3f8c330f.temper-inventory-rule.ts
+index 19b4ad2866e14bc717269edfacda8cbb10d96ada..6ad0a476d276c6d349984c61771bb07153375376 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-3f8c330f/rule-3f8c330f.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-3f8c330f/rule-3f8c330f.temper-inventory-rule.ts
+@@ -12,6 +12,7 @@ export const rule3f8c330f = {
+   displayOrder: 7,
+   action: "move-to",
+   active: true,
++  updatedAt: "2026-06-02T21:31:48.189Z",
+   destination: "guild-bank:Walton Mountain",
+   conditions: "jsonl",
+ } as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-440d6e66/rule-440d6e66.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-440d6e66/rule-440d6e66.temper-inventory-rule.ts
+index 4329ba399b6c370ab5a1328f315d03bc1104f6e6..e22bf40f40b05a2126c7599dece2bf5d3930f741 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-440d6e66/rule-440d6e66.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-440d6e66/rule-440d6e66.temper-inventory-rule.ts
+@@ -10,6 +10,7 @@ export const rule440d6e66 = {
+   displayOrder: 33,
+   action: "stock",
+   active: true,
++  updatedAt: "2026-06-03T03:46:58.890Z",
+   conditions: "jsonl",
+   destinationChain: "jsonl",
+ } as const satisfies TemperInventoryRule
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-49fa3b24/rule-49fa3b24.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-49fa3b24/rule-49fa3b24.temper-inventory-rule.ts
+index 8805ca50bea94dd068e841bb8c45c10f08419fe4..b64e845bcdf4e6ef223d7f5ab21497d997049e20 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-49fa3b24/rule-49fa3b24.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-49fa3b24/rule-49fa3b24.temper-inventory-rule.ts
+@@ -10,4 +10,5 @@ export const rule49fa3b24 = {
+   displayOrder: 61,
+   action: "destroy",
+   active: true,
++  updatedAt: "2026-05-07T15:58:15.050Z",
+ } as const satisfies TemperInventoryRule
 diff --git a/temper/temper-progress/inventory-rules/properties/updated-at.instant-property.ts b/temper/temper-progress/inventory-rules/properties/updated-at.instant-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..eec1e1fba00c4a9ed9a53645a7899a74ed8f0faf
