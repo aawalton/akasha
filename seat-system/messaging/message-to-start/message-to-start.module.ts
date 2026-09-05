@@ -43,7 +43,8 @@ export const messageToStart = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat is handed the words of a message rather than a command to fetch them.",
+      statement:
+        "A seat is handed the words of a message rather than a command to fetch those words.",
     },
     {
       invariantKind: "departure",
