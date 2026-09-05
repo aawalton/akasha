@@ -21,7 +21,7 @@ export const pushEvent = {
     },
     {
       invariantKind: "departure",
-      statement: "What was passed over is answered as passed over rather than as taken.",
+      statement: "An update passed over is answered as passed over rather than as taken.",
     },
   ],
 } as const satisfies Module
