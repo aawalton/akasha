@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/git-transport/hooks/pre-receive-main-append-only/pre-receive-main-append-only.shell-script.ts b/git-transport/hooks/pre-receive-main-append-only/pre-receive-main-append-only.shell-script.ts
+index e67e8c348e0d9b092d3f85f9af0352659fdfeb54..8e143065514becb04288293d15e0ca33e6e06189 100644
+--- a/git-transport/hooks/pre-receive-main-append-only/pre-receive-main-append-only.shell-script.ts
++++ b/git-transport/hooks/pre-receive-main-append-only/pre-receive-main-append-only.shell-script.ts
+@@ -26,7 +26,8 @@ export const preReceiveMainAppendOnly = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "This hook is the last point a rewind can be refused before the mirror copies it.",
++      statement:
++        "This hook is the last point a rewind can be refused before the mirror copies that rewind.",
+     },
+     {
+       invariantKind: "absence",
