@@ -12,7 +12,7 @@ index 97393a88aa507b15aeeb3932cef67fcbf30e8414..27163bb4e6c5459edf59242585fb7f67
          2
        )
 diff --git a/commands/elaine/elaine.command.ts b/commands/elaine/elaine.command.ts
-index 08e4cdc5f70119d51bb5af2082c950c5950d1d20..69187f77c9df9483b91082f926e8677efbeb202e 100644
+index 08e4cdc5f70119d51bb5af2082c950c5950d1d20..5fbc4e4ab5ef1ee5069f2b04f292dc78fdbb2bb2 100644
 --- a/commands/elaine/elaine.command.ts
 +++ b/commands/elaine/elaine.command.ts
 @@ -21,11 +21,11 @@ export const elaine = {
@@ -30,8 +30,17 @@ index 08e4cdc5f70119d51bb5af2082c950c5950d1d20..69187f77c9df9483b91082f926e8677e
      "refreshing means exporting again on the iPhone and dropping the zip on the macbook again.",
      "a window of no days is refused rather than read as the window this takes by default.",
    ],
+@@ -45,7 +45,7 @@ export const elaine = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The window reaches a day further back than the days asked for, so the oldest day asked for stands whole.",
++        "The window reaches a day further back than the days asked for, so the oldest day asked for is whole.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/commands/food/food.command.ts b/commands/food/food.command.ts
-index 908c384c83d87d555841814e9b8883d573718ce5..d0c7ece56695dda0c62e1c75dc2c45ad1d8c4607 100644
+index 908c384c83d87d555841814e9b8883d573718ce5..9d367f433b211f46a9af02f98a7eaab6a7de7f2f 100644
 --- a/commands/food/food.command.ts
 +++ b/commands/food/food.command.ts
 @@ -20,12 +20,12 @@ export const food = {
@@ -49,6 +58,20 @@ index 908c384c83d87d555841814e9b8883d573718ce5..d0c7ece56695dda0c62e1c75dc2c45ad
      "a step that did not land is named, because running the act again would write a second entry rather than mend the first.",
    ],
    invariants: [
+@@ -65,11 +65,11 @@ export const food = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Whether an object store stands is settled before anything is written.",
++      statement: "Whether an object store is there is settled before anything is written.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A photo the entry could not carry leaves that photo where it stands.",
++      statement: "A photo the entry could not carry leaves that photo where it is.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/commands/work-tree/work-tree.command.ts b/commands/work-tree/work-tree.command.ts
 index 31a118e3520c4756456d5ba6ca1b5c248b50edca..8e87c62ec91cdf8627e0bf3b25d93a5feb94d083 100644
 --- a/commands/work-tree/work-tree.command.ts
