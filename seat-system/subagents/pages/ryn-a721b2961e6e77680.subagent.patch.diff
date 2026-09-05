@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.ts b/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.ts
+index 2ca58a4729255e7ffa01aebc9ddfa656b248361d..e1f2d5c8ef6ffe38d2ccc5f28853ca709aad4523 100644
+--- a/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.ts
++++ b/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.ts
+@@ -26,7 +26,7 @@ export const nameSubagent = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A name holding anything but what an id is written in is left off rather than spelled into a command.",
++        "A name holding a character no id is written in is left off rather than spelled into a command.",
+     },
+     {
+       invariantKind: "departure",
