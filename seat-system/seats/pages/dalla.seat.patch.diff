@@ -24,6 +24,18 @@ index 0000000000000000000000000000000000000000..4536085f54b299127f7674764f71fe0e
 +    },
 +  ],
 +} as const satisfies PageType
+diff --git a/changes/change.domain.ts b/changes/change.domain.ts
+index 50250826b8c70c68f41e36eae8747811ec6fb127..09796eff787dfc4735a9a21ff09d6ceba38d63f0 100644
+--- a/changes/change.domain.ts
++++ b/changes/change.domain.ts
+@@ -7,6 +7,7 @@ export const change = {
+   definition: "everything one act edits",
+   pluralSlug: "changes",
+   partSlugs: [
++    "page-type/atomic-change",
+     "page-type/workflow-template",
+     "page-type/change-kind",
+     "workspace-package/workflow-language",
 diff --git a/command-system/refactor-commands/refactor-command.page-type.ts b/command-system/refactor-commands/refactor-command.page-type.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..20004b6d9ffed3c899ff8a6ed28b87ee25d364c1
