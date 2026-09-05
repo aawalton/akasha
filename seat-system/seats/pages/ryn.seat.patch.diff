@@ -1,4 +1,17 @@
 runsWarrants: false
+diff --git a/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts b/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts
+index 01598286cbcebaf9d33bf01ead9e8d5b0465e132..0256b91c0591cc2802cc154cbf09fa067a36c31b 100644
+--- a/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts
++++ b/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts
+@@ -31,7 +31,7 @@ export const noReExport = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A barrel is what quietly undoes one way into a folder.",
++      statement: "A barrel quietly undoes one way into a folder.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/pages/types/page-properties/properties/property-slug.text-property.ts b/pages/types/page-properties/properties/property-slug.text-property.ts
 index 759bcb0ff6a6d246f764209b4d022d29b1a525ac..b0472265b556de9c09af366196fb67c547bacfac 100644
 --- a/pages/types/page-properties/properties/property-slug.text-property.ts
