@@ -8,11 +8,6 @@ export const dallaDraftIntoAPatch = {
   personaSlug: "dalla",
   intents: [
     {
-      statement: "A commit bypassing the checks says why they would not load.",
-      workingMemory:
-        "Alan settled that the glass keeps its warrant bypass on `write` and `edit` and loses the check bypass, which is done. What is left is a stamp: `applying()` in `patch.command.code.ts` builds `why` from `bypassedIn(said0, broken)`, the glass reason alone, and never carries `built.broken`, so a commit landed over checks that would not load says nothing about why. The red asking test pins exactly this.",
-    },
-    {
       statement: "A rename landing under an open patch leaves that patch coherent.",
       workingMemory:
         "What was read off the code was wrong. The merge did not keep the body at the dead path: `mergedOnto` saw theirs as nothing and refused, and `rebasedOnto` handed that refusal to every caller, so draft, resolve and apply all refused alike and a rename bricked a patch that only `patch drop` got out of. `rebasedOnto` now follows a path gone from HEAD to the path a rename left it at, hop by hop for a chain, reading `git log --diff-filter=D` for the commit that took the path away and `git diff-tree -M` for the pair. What is left: `patch` lists the paths the stored patch file carries rather than the paths the rebase reaches, so a bare `akasha patch` names the dead path until the next draft rewrites the file; and a path deleted rather than renamed still refuses with no way to resolve.",
