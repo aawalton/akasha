@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/recipient-resolving/recipient-resolver-config/recipient-resolver-config.module.ts b/seat-system/recipient-resolving/recipient-resolver-config/recipient-resolver-config.module.ts
+index 21c35ce66d2236ee41dea39f65f3b21179500e35..7c93c79396eec3321014c1f0c8fc129e532c515e 100644
+--- a/seat-system/recipient-resolving/recipient-resolver-config/recipient-resolver-config.module.ts
++++ b/seat-system/recipient-resolving/recipient-resolver-config/recipient-resolver-config.module.ts
+@@ -21,7 +21,8 @@ export const recipientResolverConfig = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the environment says is read without regard to case or surrounding spaces.",
++      statement:
++        "The value the environment states is read without regard to case or surrounding spaces.",
+     },
+   ],
+ } as const satisfies Module
