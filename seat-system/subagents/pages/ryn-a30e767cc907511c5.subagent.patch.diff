@@ -1,5 +1,5 @@
 diff --git a/temper/temper-addon-data/addon-data-writes-skills/addon-data-writes-skills.module.ts b/temper/temper-addon-data/addon-data-writes-skills/addon-data-writes-skills.module.ts
-index f266b95d36234f71a0ed964c5f6c7ff519009c4b..c1b1ff366f6ea663cc893126d8a5553b3e2b3ac1 100644
+index f266b95d36234f71a0ed964c5f6c7ff519009c4b..a3602ac84fb374f5da18ef842ef83fa6118a9408 100644
 --- a/temper/temper-addon-data/addon-data-writes-skills/addon-data-writes-skills.module.ts
 +++ b/temper/temper-addon-data/addon-data-writes-skills/addon-data-writes-skills.module.ts
 @@ -9,7 +9,8 @@ export const addonDataWritesSkills = {
@@ -12,3 +12,12 @@ index f266b95d36234f71a0ed964c5f6c7ff519009c4b..c1b1ff366f6ea663cc893126d8a5553b
      },
      {
        invariantKind: "departure",
+@@ -17,7 +18,7 @@ export const addonDataWritesSkills = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A section states its writes rather than performing them.",
++      statement: "A section states its writes rather than performing those writes.",
+     },
+   ],
+ } as const satisfies Module
