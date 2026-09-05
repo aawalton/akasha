@@ -1,5 +1,5 @@
 diff --git a/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts b/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts
-index 27098e34c65334da5ea1ecfd36cc754e28bf8203..3a2f2a2274ea73bc13fc792d6250908a1f9ccbd6 100644
+index 27098e34c65334da5ea1ecfd36cc754e28bf8203..e323cf9c214b5aeb0c2ad030430e4d78efbdadd1 100644
 --- a/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts
 +++ b/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts
 @@ -9,14 +9,14 @@ const VERSION = 3
@@ -45,7 +45,7 @@ index 27098e34c65334da5ea1ecfd36cc754e28bf8203..3a2f2a2274ea73bc13fc792d6250908a
    try {
      const one = statSync(`${dir}/${name}`)
      return one.isFile() ? { at: `${dir}/${name}`, bytes: one.size, used: one.mtimeMs } : null
-@@ -82,12 +82,9 @@ function standingAt(dir: string, name: string): Standing | null {
+@@ -82,19 +82,16 @@ function standingAt(dir: string, name: string): Standing | null {
  }
  
  // Only a finished answer is ever weighed or taken away. `writeFileAtomicSync` renames from
@@ -60,6 +60,14 @@ index 27098e34c65334da5ea1ecfd36cc754e28bf8203..3a2f2a2274ea73bc13fc792d6250908a
    let names: readonly string[]
    try {
      names = readdirSync(dir)
+   } catch {
+     return { total: 0, loose: [] }
+   }
+-  const loose: Standing[] = []
++  const loose: Entry[] = []
+   let total = 0
+   for (const name of names) {
+     if (!name.endsWith(SUFFIX)) continue
 diff --git a/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts b/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts
 index 2b5d07636ad8c570b1a3472b9f4bad270bc6f80e..469fc9cea8438c4011921b0b744ae3731fc2d7f8 100644
 --- a/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts
