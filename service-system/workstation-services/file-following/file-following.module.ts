@@ -43,8 +43,25 @@ export const fileFollowing = {
       statement: "A folder that cannot be watched is reported and the rest are watched.",
     },
     {
+      invariantKind: "departure",
+      statement: "Following a named set weighs that set alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file appearing beside a named set is no part of that set and is not answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Following a folder weighs what it holds now rather than a list fixed at the start.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file appearing in a followed folder has changed.",
+    },
+    {
       invariantKind: "absence",
-      statement: "Nothing here works out which files to watch.",
+      statement: "Nothing here works out which folders to watch.",
     },
   ],
 } as const satisfies Module

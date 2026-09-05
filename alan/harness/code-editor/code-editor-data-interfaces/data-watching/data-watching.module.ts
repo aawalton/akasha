@@ -33,6 +33,18 @@ export const dataWatching = {
     },
     {
       invariantKind: "departure",
+      statement: "The folders every picture reads are watched once rather than once per picture.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A picture states the folders it reads and which files in them it is made from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat that appears while the service runs is read from then on.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A throw ends the service rather than being caught and logged.",
     },
   ],

@@ -1,5 +1,5 @@
-import { type FSWatcher, readFileSync, watch } from "node:fs"
-import { dirname } from "node:path"
+import { type FSWatcher, readdirSync, readFileSync, watch } from "node:fs"
+import { dirname, join } from "node:path"
 
 export const SETTLE_MS = 1_000
 
@@ -37,13 +37,36 @@ export function dirsOf(files: Iterable<string>): ReadonlySet<string> {
   return dirs
 }
 
-export function followFiles(
-  files: ReadonlySet<string>,
+// What the folders hold at this moment that `holds` admits. Taken again at every weighing, so a
+// file that appears is weighed from then on and a file that goes drops out of the weighing.
+export function filesWithin(
+  folders: Iterable<string>,
+  holds: (at: string) => boolean
+): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const dir of folders) {
+    let names: readonly string[]
+    try {
+      names = readdirSync(dir)
+    } catch {
+      continue
+    }
+    for (const name of names) {
+      const at = join(dir, name)
+      if (holds(at)) found.add(at)
+    }
+  }
+  return found
+}
+
+function follow(
+  dirs: Iterable<string>,
+  weigh: () => Digest,
   moved: (what: readonly string[]) => undefined,
-  settleMs: number = SETTLE_MS,
-  from?: Digest
+  settleMs: number,
+  from: Digest | undefined
 ): Following {
-  let digested = from ?? digestOf(files)
+  let digested = from ?? weigh()
   let settling: ReturnType<typeof setTimeout> | null = null
   const following: FSWatcher[] = []
   const unfollowed: string[] = []
@@ -51,13 +74,13 @@ export function followFiles(
     if (settling !== null) clearTimeout(settling)
     settling = setTimeout(() => {
       settling = null
-      const now = digestOf(files)
+      const now = weigh()
       const what = movedBetween(digested, now)
       digested = now
       if (what.length > 0) moved(what)
     }, settleMs)
   }
-  for (const dir of dirsOf(files)) {
+  for (const dir of dirs) {
     try {
       following.push(watch(dir, settle))
     } catch {
@@ -72,4 +95,27 @@ export function followFiles(
     },
     unfollowed: unfollowed.sort(),
   }
+}
+
+// Follow a set named file by file. A file appearing beside one of them is no part of the set and
+// is not answered, so this suits a set that is known whole and does not grow.
+export function followFiles(
+  files: ReadonlySet<string>,
+  moved: (what: readonly string[]) => undefined,
+  settleMs: number = SETTLE_MS,
+  from?: Digest
+): Following {
+  return follow(dirsOf(files), () => digestOf(files), moved, settleMs, from)
+}
+
+// Follow whole folders. What is weighed is worked out again at every settle, so this suits a set
+// that grows and shrinks while the watch runs, as a folder of seats does.
+export function followWithin(
+  folders: ReadonlySet<string>,
+  holds: (at: string) => boolean,
+  moved: (what: readonly string[]) => undefined,
+  settleMs: number = SETTLE_MS,
+  from?: Digest
+): Following {
+  return follow(folders, () => digestOf(filesWithin(folders, holds)), moved, settleMs, from)
 }

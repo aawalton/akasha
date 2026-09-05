@@ -1,7 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { digestOf, dirsOf, followFiles, movedBetween } from "./file-following.module.code.ts"
+import {
+  digestOf,
+  dirsOf,
+  filesWithin,
+  followFiles,
+  followWithin,
+  movedBetween,
+} from "./file-following.module.code.ts"
 
 const ROOT = mkdtempSync("/var/tmp/file-following-")
 
@@ -85,4 +92,76 @@ test("a file changing before the watch is set up is still caught", async () => {
   await Bun.sleep(200)
   following.stop()
   expect(moved[0]).toEqual([a])
+})
+
+test("what a folder holds is what the test admits of it", () => {
+  const kept = fileAt("kept.seat.ts", "one")
+  fileAt("skipped.other", "two")
+  const found = filesWithin([ROOT], (at) => at.endsWith(".seat.ts"))
+  expect(found.has(kept)).toBe(true)
+  expect([...found].some((at) => at.endsWith(".other"))).toBe(false)
+})
+
+test("a folder that is not there holds nothing rather than throwing", () => {
+  expect(filesWithin([join(ROOT, "never")], () => true).size).toBe(0)
+})
+
+test("a file appearing in a followed folder is answered", async () => {
+  const dir = mkdtempSync("/var/tmp/file-appearing-")
+  const moved: string[][] = []
+  const following = followWithin(
+    new Set([dir]),
+    (at) => at.endsWith(".seat.ts"),
+    (what) => {
+      moved.push([...what])
+    },
+    20
+  )
+  await Bun.sleep(60)
+  const fresh = join(dir, "fresh.seat.ts")
+  writeFileSync(fresh, "new")
+  await Bun.sleep(200)
+  following.stop()
+  rmSync(dir, { recursive: true, force: true })
+  expect(moved.flat()).toEqual([fresh])
+})
+
+test("a file the test does not admit is answered from no folder", async () => {
+  const dir = mkdtempSync("/var/tmp/file-unadmitted-")
+  const moved: string[][] = []
+  const following = followWithin(
+    new Set([dir]),
+    (at) => at.endsWith(".seat.ts"),
+    (what) => {
+      moved.push([...what])
+    },
+    20
+  )
+  await Bun.sleep(60)
+  writeFileSync(join(dir, "fresh.other"), "new")
+  await Bun.sleep(200)
+  following.stop()
+  rmSync(dir, { recursive: true, force: true })
+  expect(moved.flat()).toEqual([])
+})
+
+test("a file going from a followed folder is answered", async () => {
+  const dir = mkdtempSync("/var/tmp/file-going-")
+  const doomed = join(dir, "doomed.seat.ts")
+  writeFileSync(doomed, "here")
+  const moved: string[][] = []
+  const following = followWithin(
+    new Set([dir]),
+    (at) => at.endsWith(".seat.ts"),
+    (what) => {
+      moved.push([...what])
+    },
+    20
+  )
+  await Bun.sleep(60)
+  rmSync(doomed)
+  await Bun.sleep(200)
+  following.stop()
+  rmSync(dir, { recursive: true, force: true })
+  expect(moved.flat()).toEqual([doomed])
 })
