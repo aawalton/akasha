@@ -9,10 +9,6 @@ export const spotifyClient = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
-      statement: "An unpaced sweep of the Web API bans the account for about a day.",
-    },
-    {
       invariantKind: "departure",
       statement: "Two calls are never in flight at once.",
     },
