@@ -62,3 +62,15 @@ index 0000000000000000000000000000000000000000..be6dabfe0b16c495cdb4b4eb6a4a7712
 +    },
 +  ],
 +} as const satisfies PageType
+diff --git a/temper/temper-progress/temper-progress.domain.ts b/temper/temper-progress/temper-progress.domain.ts
+index b5744a4bc969071febf2de8d0a9eb7f21cb5312f..4b3d81be5c5d2aed5e2b7b874fad5194f689aa81 100644
+--- a/temper/temper-progress/temper-progress.domain.ts
++++ b/temper/temper-progress/temper-progress.domain.ts
+@@ -20,6 +20,7 @@ export const temperProgress = {
+     "page-type/temper-rotation-breakdown-row",
+     "page-type/temper-item-action",
+     "page-type/temper-rule-goal",
++    "page-type/temper-rule",
+     "page-type/temper-rule-template",
+     "page-type/temper-task",
+     "page-type/temper-watcher-enrolment",
