@@ -22,6 +22,41 @@ export const dallaDraftIntoAPatch = {
       workingMemory:
         "Held by the constraint that the worktree waits until drafting works without it. Not begun, and it waits on the intents above.",
     },
+    {
+      statement: "Every change is a patch before it is applied.",
+      workingMemory:
+        "Not so at the 36 `landedMechanically` call sites, which land straight onto the tree; at `page-writing.module.code.ts:140`, which calls `landing()` with a null gate and skips the ask; and at `page-retyping.module.code.ts:512`, whose `Asked` carries no `draft` key though its five siblings do. Only `write`, `edit` and the four change commands draft today.",
+    },
+    {
+      statement: "An applied patch runs the checks and the warrants its changes call for.",
+      workingMemory:
+        "`owedIn` has two production callers, `write` and `edit`, so the read record and the 41 taboo terms guard those two alone. `lint-exception` and `patch` declare `change-authored`, whose data says they owe reads, and never ask. `--break-the-glass` bypasses the warrant at `write` and `edit` and the checks everywhere else: one spelling, two gates.",
+    },
+    {
+      statement: "One command run carries several changes, each judged by its own requirements.",
+      workingMemory:
+        "`changeKindSlug` is `many: false` on the command page and a landing is one commit, so a per-change kind cannot be said. Four shapes found: a sequence of acts (`food` lands three commits), batch until done (`migration-system`, which buys it by leaving the gate), budget and re-run, and accumulate-then-apply (the patch). `package-phasing` is built and tested and nothing imports it.",
+    },
+    {
+      statement: "A command declares the guards and the capabilities it carries.",
+      workingMemory:
+        "22 of the 27 properties on `command.page-type.ts` are written by no page, because nothing reads them. `verdict`, `reading` and `irreversible` are typed at `command-declaring.module.code.ts:61` and cannot be reached from a page. Whether a command drafts, takes a dry run, or takes the glass is a literal at each call site, which is why `remove` offers no preview. An opt-out is data on the subject page and nowhere on the command.",
+    },
+    {
+      statement: "No command reaches into another command for a capability.",
+      workingMemory:
+        "`commands/refactor` imports `naming`, `repointing`, `manifesting`, `outside` and `renaming` out of `commands/move`, and calls `move` itself at `refactor.command.code.ts:376`; `move/listing` and `move/renaming` import back out of `refactor`. `move/spreading` imports `trackedUnder` from `remove`'s entry file. `write.command.code.ts` exports 20 names to 17 importers, `glassIn` and `messageIn` among them.",
+    },
+    {
+      statement: "A guard that cannot see what it judges refuses rather than passing.",
+      workingMemory:
+        "`orphaningIn` answers an empty list where the shadow refuses, so a shadow that will not build disarms the importer check and nothing says so; `mintingOnto` and `earlyIn` hand the change back untouched the same way. The gate itself fails closed. A false negative and a true negative are the same answer.",
+    },
+    {
+      statement: "The record is carried and dropped by the landing rather than by each command.",
+      workingMemory:
+        "`carryReadings` is called at four hand-written sites, each behind its own `if (landing.code === 0)`, so the rule that passing `carries` obliges carrying the readings is enforced by nothing. `dropReadings` is called by `remove` alone, so `write --remove` and `edit --remove` take a path away and leave the record naming it.",
+    },
   ],
   constraints: [
     "A read hands back the body at HEAD rather than the body the patch would leave.",
