@@ -18,6 +18,7 @@ export const infrastructure = {
     "workspace-package/k8s-synth",
     "page-type/alert",
     "workspace-package/ci-benchmark",
+    "domain/cluster",
     "domain/cluster-operations",
     "domain/cluster-provisioning",
     "domain/auth",
