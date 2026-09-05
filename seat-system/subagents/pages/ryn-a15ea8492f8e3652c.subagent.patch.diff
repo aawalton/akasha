@@ -1,5 +1,5 @@
 diff --git a/pages/calculations/calculation-loading.module.ts b/pages/calculations/calculation-loading.module.ts
-index 2e7d8c7dbf5a20e55febbbb0e4cb45d9764244ce..2469c8a463d6e3497fc21b9c0185e1e5ced336d0 100644
+index 2e7d8c7dbf5a20e55febbbb0e4cb45d9764244ce..afd122c0bad54f1190055fee899d81245c70ebba 100644
 --- a/pages/calculations/calculation-loading.module.ts
 +++ b/pages/calculations/calculation-loading.module.ts
 @@ -31,7 +31,8 @@ export const calculationLoading = {
@@ -12,3 +12,12 @@ index 2e7d8c7dbf5a20e55febbbb0e4cb45d9764244ce..2469c8a463d6e3497fc21b9c0185e1e5
      },
      {
        invariantKind: "absence",
+@@ -39,7 +40,7 @@ export const calculationLoading = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here runs the calculation it answers.",
++      statement: "Nothing here runs the calculation this module answers.",
+     },
+   ],
+ } as const satisfies Module
