@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/alan/harness/monarch/eval-agent/monarch-eval-agent.module.ts b/alan/harness/monarch/eval-agent/monarch-eval-agent.module.ts
-index 93c20046e3cd056fad4e1fe6d4d10fe24631fe86..943dce52af5bbfe4d6b4512b7f41462ca4537f17 100644
+index 93c20046e3cd056fad4e1fe6d4d10fe24631fe86..6343d236d5236913518e13e531427e3921f693d8 100644
 --- a/alan/harness/monarch/eval-agent/monarch-eval-agent.module.ts
 +++ b/alan/harness/monarch/eval-agent/monarch-eval-agent.module.ts
 @@ -22,7 +22,7 @@ export const monarchEvalAgent = {
@@ -12,7 +12,7 @@ index 93c20046e3cd056fad4e1fe6d4d10fe24631fe86..943dce52af5bbfe4d6b4512b7f41462c
      },
      {
        invariantKind: "departure",
-@@ -35,7 +35,7 @@ export const monarchEvalAgent = {
+@@ -35,11 +35,11 @@ export const monarchEvalAgent = {
      },
      {
        invariantKind: "departure",
@@ -21,3 +21,8 @@ index 93c20046e3cd056fad4e1fe6d4d10fe24631fe86..943dce52af5bbfe4d6b4512b7f41462c
      },
      {
        invariantKind: "departure",
+-      statement: "What the batch cost is reported alongside what that batch proposed.",
++      statement: "The batch's cost is reported alongside the categories that batch proposed.",
+     },
+     {
+       invariantKind: "absence",
