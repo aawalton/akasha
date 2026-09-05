@@ -872,3 +872,18 @@ index 2e3f1f19ad85a1923ea5d149c7560f380f47bd64..4fdd5ae07c185fefe04a12503f9d3376
      "./cnpg-object-store": "./cnpg-object-store/cnpg-object-store.manifest.code.ts",
      "./cnpg-scheduled-backup": "./cnpg-scheduled-backup/cnpg-scheduled-backup.manifest.code.ts",
      "./collections-rbac": "./collections-rbac/collections-rbac.module.code.ts",
+diff --git a/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.module.ts b/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..feaa5c4a3f9f98bb7773ed855b7df713e2673b10
+--- /dev/null
++++ b/infrastructure/cluster-manifests/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const pgbouncerExporterManifests = {
++  id: "01a073ae-eadf-7519-a9a3-f4239f049022",
++  pageTypeSlug: "module",
++  slug: "pgbouncer-exporter-manifests",
++  definition: "the exporter that publishes the connection pool's state as metrics",
++  code: "ts",
++} as const satisfies Module
