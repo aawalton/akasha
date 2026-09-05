@@ -271,3 +271,11 @@ index 8803e6b155e43ea0f1e1b94f222118f25350fe64..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../health-samples-import
 \ No newline at end of file
+diff --git a/hook-system/hook-system b/hook-system/hook-system
+deleted file mode 120000
+index a3dd3ae1e4d0c13f655610847ac22e5f4eeeca80..0000000000000000000000000000000000000000
+--- a/hook-system/hook-system
++++ /dev/null
+@@ -1 +0,0 @@
+-../../hook-system
+\ No newline at end of file
