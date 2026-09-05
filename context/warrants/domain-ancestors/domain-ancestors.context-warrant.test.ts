@@ -31,7 +31,7 @@ test("a seat warrants the domain the one it states is a part of", () => {
   expect(pathsOf(domainAncestors(root, at))).toEqual([top.path])
 })
 
-test("a seat stating another page type walks from the page standing under it", () => {
+test("a seat stating another page type walks from the page filed under it", () => {
   const root = scratch.rootFor("akasha-domain-ancestors-")
   const top = domainListed(root, "akasha-system")
   const mid = typedListed(root, "workspace-package", "checks-system")
@@ -60,7 +60,7 @@ test("the domain the seat states is no ancestor of itself", () => {
   expect(pathsOf(domainAncestors(root, at))).not.toContain(mid.path)
 })
 
-test("a seat stating a domain nothing stands above warrants none", () => {
+test("a seat stating a domain with nothing above it warrants none", () => {
   const root = scratch.rootFor("akasha-domain-ancestors-")
   domainListed(root, "akasha-system")
   const at = seatListed(root, "one", `assignmentSlug: "domain/akasha-system"`)
@@ -143,7 +143,7 @@ test("an initiative whose page cannot be found warrants none", () => {
   expect(pathsOf(domainAncestors(root, at))).toEqual([])
 })
 
-test("a warrant carries the body standing above, and why it is owed", () => {
+test("a warrant carries the body above, and why it is owed", () => {
   const root = scratch.rootFor("akasha-domain-ancestors-")
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "context-system")

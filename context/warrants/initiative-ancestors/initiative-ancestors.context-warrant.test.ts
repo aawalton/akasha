@@ -20,7 +20,7 @@ afterAll(scratch.sweep)
 
 const AGENT = "01a0596c-0000-7000-8000-000000000009"
 
-test("a seat warrants the initiative the one it states stands under", () => {
+test("a seat warrants the initiative the one it states is under", () => {
   const root = scratch.rootFor("akasha-initiative-ancestors-")
   const top = initiativeListed(root, "one-work")
   initiativeListed(root, "one-step", `parentSlug: "initiative/one-work"`)
@@ -54,7 +54,7 @@ test("a chain that turns back on itself is walked once", () => {
   expect(pathsOf(initiativeAncestors(root, at))).not.toContain(one.path)
 })
 
-test("a seat stating an initiative nothing stands above warrants none", () => {
+test("a seat stating an initiative with nothing above it warrants none", () => {
   const root = scratch.rootFor("akasha-initiative-ancestors-")
   initiativeListed(root, "one-work")
   const at = seatListed(root, "one", `assignmentSlug: "initiative/one-work"`)
@@ -84,7 +84,7 @@ test("an initiative whose page cannot be found warrants none", () => {
   expect(pathsOf(initiativeAncestors(root, at))).toEqual([])
 })
 
-test("a parent no initiative stands for warrants none", () => {
+test("a parent naming no initiative warrants none", () => {
   const root = scratch.rootFor("akasha-initiative-ancestors-")
   initiativeListed(root, "one-step", `parentSlug: "initiative/ghost"`)
   const at = seatListed(root, "one", `assignmentSlug: "initiative/one-step"`)
@@ -98,7 +98,7 @@ test("only a seat warrants the initiatives above what it states", () => {
   expect(pathsOf(initiativeAncestors(root, mid.path))).toEqual([])
 })
 
-test("a warrant carries the body standing above, and why it is owed", () => {
+test("a warrant carries the body above, and why it is owed", () => {
   const root = scratch.rootFor("akasha-initiative-ancestors-")
   const top = initiativeListed(root, "one-work")
   initiativeListed(root, "one-step", `parentSlug: "initiative/one-work"`)

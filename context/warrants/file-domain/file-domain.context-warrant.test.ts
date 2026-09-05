@@ -36,7 +36,7 @@ test("a file warrants the page that names it among its parts", () => {
   expect(pathsOf(fileDomain(root, part.path))).toEqual([whole.path])
 })
 
-test("a file standing beside a page warrants what names that page among its parts", () => {
+test("a file sitting beside a page warrants what names that page among its parts", () => {
   const root = scratch.rootFor("akasha-file-domain-")
   const whole = domainListed(root, "whole")
   const part = domainListed(root, "part")
@@ -44,7 +44,7 @@ test("a file standing beside a page warrants what names that page among its part
   expect(pathsOf(fileDomain(root, beside(root, part, "code")))).toEqual([whole.path])
 })
 
-test("a warrant carries the body standing at the naming page, and why it is owed", () => {
+test("a warrant carries the body at the naming page, and why it is owed", () => {
   const root = scratch.rootFor("akasha-file-domain-")
   const whole = domainListed(root, "whole")
   const part = domainListed(root, "part")
@@ -92,7 +92,7 @@ test("a cold index refuses rather than warranting nothing", () => {
   expect(() => fileDomain(root, path)).toThrow("is not there")
 })
 
-test("a path standing at no page warrants nothing", () => {
+test("a path sitting at no page warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-domain-")
   const whole = domainListed(root, "whole")
   const part = domainListed(root, "part")

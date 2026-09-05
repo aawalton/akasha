@@ -74,7 +74,7 @@ test("a page warrants the page defining every property it states", () => {
   expect(pathsOf(warrantsAt(root, PATH))).toEqual(every)
 })
 
-test("a property warrants the body standing at the page defining it", () => {
+test("a property warrants the body at the page defining it", () => {
   const root = scratch.rootFor("akasha-file-property-")
   statingWorld(root)
   stating(root, PATH, ["definition"])
@@ -142,7 +142,7 @@ test("a cold index is refused rather than warranting nothing", () => {
   expect(() => warrantsAt(root, PATH)).toThrow("is not an index naming none")
 })
 
-test("a file standing beside a page is no page, and warrants nothing", () => {
+test("a file sitting beside a page is no page, and warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-property-")
   statingWorld(root)
   const beside = "akasha/thing/thing.module.code.ts"

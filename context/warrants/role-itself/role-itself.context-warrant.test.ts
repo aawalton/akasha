@@ -53,7 +53,7 @@ test("only a seat warrants a role", () => {
   expect(pathsOf(roleItself(root, held.path))).toEqual([])
 })
 
-test("a warrant carries the body standing at the role, and why it is owed", () => {
+test("a warrant carries the body at the role, and why it is owed", () => {
   const root = scratch.rootFor("akasha-role-itself-")
   const definer = roleListed(root, "definer")
   const at = seatListed(root, "one", `roleSlug: "definer"`)

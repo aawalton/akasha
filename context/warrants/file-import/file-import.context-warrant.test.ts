@@ -234,7 +234,7 @@ test("what a file imports is read from its own body", () => {
   expect(importedIn(root, at)).toEqual(["akasha/b/b.module.code.ts"])
 })
 
-test("a file that does not stand imports nothing", () => {
+test("a file that does not exist imports nothing", () => {
   const root = scratch.rootFor(PREFIX)
   world(root, ["a"])
   expect(importedIn(root, "akasha/gone/gone.module.code.ts")).toEqual([])
@@ -247,7 +247,7 @@ test("an imported path the index names no page for warrants nothing", () => {
   expect(pathsOf(warrantsAt(root, at))).toEqual([])
 })
 
-test("a page that is not standing warrants nothing of itself", () => {
+test("a page that is not there warrants nothing of itself", () => {
   const root = scratch.rootFor(PREFIX)
   world(root, ["a", "b"])
   codeAt(root, "b", "")
@@ -256,7 +256,7 @@ test("a page that is not standing warrants nothing of itself", () => {
   expect(pathsOf(warrantsAt(root, at))).toEqual([])
 })
 
-test("an import warrants the body standing at the page, and says why it is owed", () => {
+test("an import warrants the body at the page, and says why it is owed", () => {
   const root = scratch.rootFor(PREFIX)
   world(root, ["a", "b"])
   codeAt(root, "b", "")

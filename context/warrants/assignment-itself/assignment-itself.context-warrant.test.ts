@@ -69,7 +69,7 @@ test("only a seat warrants an assignment of what it states", () => {
   expect(pathsOf(assignmentItself(root, held.path))).toEqual([])
 })
 
-test("a warrant carries the body standing at the assignment, and why it is owed", () => {
+test("a warrant carries the body at the assignment, and why it is owed", () => {
   const root = scratch.rootFor("akasha-assignment-itself-")
   const said = domainListed(root, "akasha-system")
   const at = seatListed(root, "one", `assignmentSlug: "domain/akasha-system"`)

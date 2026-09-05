@@ -61,7 +61,7 @@ test("a seat whose body cannot be loaded warrants nothing", () => {
   expect(pathsOf(personaItself(root, path))).toEqual([])
 })
 
-test("a warrant carries the body standing at the persona, and why it is owed", () => {
+test("a warrant carries the body at the persona, and why it is owed", () => {
   const root = scratch.rootFor("akasha-persona-itself-")
   const personaPage = personaListed(root, "akasha")
   const at = seatListed(root, "one", `personaSlug: "akasha"`)

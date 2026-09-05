@@ -43,7 +43,7 @@ test("a page warrants its type, and every type that one extends", () => {
   expect(pathsOf(warrantsAt(root, PATH))).toEqual(chain)
 })
 
-test("a type warrants the body standing at the type's page", () => {
+test("a type warrants the body at the type's page", () => {
   const root = scratch.rootFor("akasha-file-page-type-")
   typeWorld(root)
   writing(root, PATH, "one\n")
@@ -54,7 +54,7 @@ test("a type warrants the body standing at the type's page", () => {
   expect(held?.owed).toBe(TYPE)
 })
 
-test("a file standing beside a page warrants no type of its own", () => {
+test("a file sitting beside a page warrants no type of its own", () => {
   const root = scratch.rootFor("akasha-file-page-type-")
   typeWorld(root)
   schemaFiled(root, "file-property", "code", [
