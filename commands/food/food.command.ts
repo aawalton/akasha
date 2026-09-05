@@ -20,12 +20,12 @@ export const food = {
     { said: "--json", takes: "the entry as one JSON object rather than as a row for each field" },
   ],
   helpNotes: [
-    "the act stands first and one call names one food.",
+    "the act is first and one call names one food.",
     "plant grams are the one source of the nutrition points health pillar, at a point a gram, rolled up for the day after each entry.",
     "the entry records the instant it happened at, and which day it counts to is worked out from that instant against when Alan woke.",
     "a date said without a time is read as noon, and a time said without a date is read on today.",
     "an entry with no photo is a weigh-and-enter row rather than a lesser entry.",
-    "publishing the cover and re-rolling the day both happen after the entry, and either one missing leaves the run standing.",
+    "publishing the cover and re-rolling the day both happen after the entry, and either one missing leaves the run as it is.",
     "a step that did not land is named, because running the act again would write a second entry rather than mend the first.",
   ],
   invariants: [
@@ -65,11 +65,11 @@ export const food = {
     },
     {
       invariantKind: "departure",
-      statement: "Whether an object store stands is settled before anything is written.",
+      statement: "Whether an object store is there is settled before anything is written.",
     },
     {
       invariantKind: "departure",
-      statement: "A photo the entry could not carry leaves that photo where it stands.",
+      statement: "A photo the entry could not carry leaves that photo where it is.",
     },
     {
       invariantKind: "absence",

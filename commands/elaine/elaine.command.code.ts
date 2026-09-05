@@ -115,7 +115,7 @@ export async function elaine(argv: readonly string[], given: Given): Promise<Ans
     })
     if (exported.sourceFile === null) {
       return refused(
-        "no Apple Health export stands on the macbook — export all health data from the iPhone's " +
+        "no Apple Health export is on the macbook — export all health data from the iPhone's " +
           `Health app and drop the zip in the macbook's downloads, or name one with \`${PATH}\``,
         2
       )

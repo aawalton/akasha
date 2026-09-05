@@ -21,11 +21,11 @@ export const elaine = {
     { said: "--json", takes: "the snapshot as one JSON object rather than as formatted lines" },
   ],
   helpNotes: [
-    "the act stands first and one call names one act.",
+    "the act is first and one call names one act.",
     "Apple Health lives on the iPhone, so what is read is an export dropped on the macbook rather than the phone itself.",
-    "the newest export zip standing in the macbook's downloads is taken where no path is named.",
+    "the newest export zip in the macbook's downloads is taken where no path is named.",
     "the metrics are heart rate variability, resting heart rate, blood oxygen, steps and sleep.",
-    "heart rate variability is the marquee reading and the others stand beneath it.",
+    "heart rate variability is the marquee reading and the others sit beneath it.",
     "refreshing means exporting again on the iPhone and dropping the zip on the macbook again.",
     "a window of no days is refused rather than read as the window this takes by default.",
   ],
@@ -45,7 +45,7 @@ export const elaine = {
     {
       invariantKind: "departure",
       statement:
-        "The window reaches a day further back than the days asked for, so the oldest day asked for stands whole.",
+        "The window reaches a day further back than the days asked for, so the oldest day asked for is whole.",
     },
     {
       invariantKind: "departure",
