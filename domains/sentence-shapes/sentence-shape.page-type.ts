@@ -83,7 +83,7 @@ export const sentenceShape = {
     },
     {
       invariantKind: "absence",
-      statement: "A shape says nothing about what a sentence means.",
+      statement: "A shape says nothing about a sentence's meaning.",
     },
     {
       invariantKind: "gap",
