@@ -235,7 +235,7 @@ export interface Staged {
   readonly landAt: string | null
 }
 
-function standsWith(root: string, rel: string, body: string): boolean {
+function holdsBody(root: string, rel: string, body: string): boolean {
   const at = resolve(root, rel)
   if (!existsSync(at)) return false
   return readFileSync(at, "utf8") === body
@@ -272,7 +272,7 @@ export function stageSeries(
         files.push({ rel, at: null, standing: true })
         continue
       }
-      if (standsWith(root, rel, body)) {
+      if (holdsBody(root, rel, body)) {
         files.push({ rel, at: null, standing: true })
         continue
       }
