@@ -1,5 +1,5 @@
 diff --git a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
-index d5ea281265659120d4613fddd73fe73170f54c44..6f1b9df49ca0c736b241f4499143f7935f1a4a2b 100644
+index d5ea281265659120d4613fddd73fe73170f54c44..32007c6f695cfc657a3789129d6e7d80742f67fe 100644
 --- a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
 +++ b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
 @@ -12,6 +12,7 @@ const SLOTS = ["nmod", "root"]
@@ -10,3 +10,26 @@ index d5ea281265659120d4613fddd73fe73170f54c44..6f1b9df49ca0c736b241f4499143f793
  const QUANTIFIER = [
    "all",
    "any",
+@@ -40,11 +41,21 @@ export function fillsNounSlot(token: DepToken): boolean {
+   return SLOT_FAMILIES.some((slot) => token.deprel === slot || token.deprel.startsWith(`${slot}:`))
+ }
+ 
++function wordBefore(sentence: DepSentence, token: DepToken): DepToken | undefined {
++  for (let at = token.id - 1; at >= 1; at -= 1) {
++    const one = byId(sentence, at)
++    if (one !== undefined && one.upos !== "PUNCT") return one
++  }
++  return undefined
++}
++
+ export function isRelative(sentence: DepSentence, token: DepToken): boolean {
+   const said = lower(token)
+   if (RELATIVE.includes(said)) return true
+   if (said !== "that") return false
+-  return byId(sentence, token.head)?.deprel.startsWith("acl") ?? false
++  const before = wordBefore(sentence, token)
++  if (before === undefined) return false
++  return !OPENERS.includes(before.upos)
+ }
+ 
+ export function isDemonstrative(token: DepToken): boolean {
