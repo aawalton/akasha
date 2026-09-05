@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-commands/temper-inventory-master-consumable-trace/temper-inventory-master-consumable-trace.command.ts b/temper/temper-commands/temper-inventory-master-consumable-trace/temper-inventory-master-consumable-trace.command.ts
+index 7f33da3ccea01d1a21a6a16d21a7d26fef4427d2..74de5ae0c5ad5e6ffe597e21778b48aba7d4d20b 100644
+--- a/temper/temper-commands/temper-inventory-master-consumable-trace/temper-inventory-master-consumable-trace.command.ts
++++ b/temper/temper-commands/temper-inventory-master-consumable-trace/temper-inventory-master-consumable-trace.command.ts
+@@ -27,7 +27,7 @@ export const temperInventoryMasterConsumableTrace = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Each trace carries what the writ came to.",
++      statement: "Each trace carries the writ's outcome.",
+     },
+   ],
+ } as const satisfies Command
