@@ -1,8 +1,43 @@
 diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts
-index fec08f6e2f3caf541465c01a155627f1d3af63a7..6f32e063620642e37757f63a6533077588294d78 100644
+index fec08f6e2f3caf541465c01a155627f1d3af63a7..1c47f785efc81292962c41328030fa46f9fe839f 100644
 --- a/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts
 +++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts
-@@ -245,3 +245,36 @@ export function change(
+@@ -57,6 +57,34 @@ export const ONE_NUMBER = "export const one: number = 1\n"
+ 
+ export const TWO_BREAKS = `${ONE_NUMBER}export const two: string = one\n`
+ 
++export function exporting(): string {
++  return staged({
++    "akasha/held.ts": "export const one = 1\nexport const two = 2\n",
++    "akasha/calls.ts": 'import { two } from "./held.ts"\nexport const said = two\n',
++  })
++}
++
++export function across(): string {
++  return staged({
++    "akasha/one.ts": "export const one = 1\n",
++    "shared/two.ts": 'import { one } from "../akasha/one.ts"\nexport const two = one\n',
++  })
++}
++
++export function pairing(): string {
++  return staged({
++    "akasha/one.ts": "export const one = 1\n",
++    "akasha/two.ts": 'import { one } from "./one.ts"\nexport const two: string = one\n',
++  })
++}
++
++export function basing(): string {
++  return staged({
++    "akasha/a.ts": ONE_NUMBER,
++    "akasha/b.ts": 'import { one } from "./a.ts"\nexport const two: string = one\n',
++  })
++}
++
+ export const TAKES_NUMBER = "export function held(one: number): number {\n  return one\n}\n"
+ 
+ export const CALLS_HELD = 'import { held } from "./held.ts"\nexport const one = held(1)\n'
+@@ -245,3 +273,36 @@ export function change(
      before: based,
    }
  }
