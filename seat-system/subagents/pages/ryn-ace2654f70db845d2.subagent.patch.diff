@@ -12,3 +12,16 @@ index 9e111bced8687d23cbae255c632407d47e1ae00e..9968f1db07ea8a861fb727b66e95849e
      },
      {
        invariantKind: "absence",
+diff --git a/alan/harness/monarch/transaction-polling/transaction-polling.module.ts b/alan/harness/monarch/transaction-polling/transaction-polling.module.ts
+index 4ea47830c73293a300c99d038514a8ef76e9af65..3f059b86bc975178b31474cee737bb01d4aec0ff 100644
+--- a/alan/harness/monarch/transaction-polling/transaction-polling.module.ts
++++ b/alan/harness/monarch/transaction-polling/transaction-polling.module.ts
+@@ -10,7 +10,7 @@ export const transactionPolling = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The update stamp of every transaction in the trusted window is asked of Monarch and compared against the watermark our copy holds.",
++        "Every row's stamp in the trusted window is asked of Monarch and compared with our copy's watermark.",
+     },
+     {
+       invariantKind: "departure",
