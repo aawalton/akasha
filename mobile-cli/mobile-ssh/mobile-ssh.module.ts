@@ -26,7 +26,7 @@ export const mobileSsh = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller asking to be quiet is given that stderr among what the run said.",
+      statement: "A caller asking to be quiet is given that stderr among the run's own output.",
     },
     {
       invariantKind: "departure",
