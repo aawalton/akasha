@@ -1,14 +1,19 @@
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.ts
-index d572f29bcbd64f3c601e9e6114e53ead330f4453..5b8356102e9c6ac92adf65c2186145014b96aa73 100644
+index d572f29bcbd64f3c601e9e6114e53ead330f4453..fa42947b9a512316d7b95478b45d424795c84345 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.ts
-@@ -23,7 +23,8 @@ export const noAngleBracketCast = {
+@@ -23,11 +23,12 @@ export const noAngleBracketCast = {
      },
      {
        invariantKind: "departure",
 -      statement: "How the assertion is written is judged here rather than what it asserts.",
 +      statement:
 +        "How the assertion is written is judged here rather than what that assertion asserts.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One assertion wrapping another is refused once for each assertion.",
++      statement: "One assertion wrapping another assertion is refused once for each assertion.",
      },
      {
        invariantKind: "departure",
