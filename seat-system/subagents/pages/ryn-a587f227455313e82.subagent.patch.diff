@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/tracking/daily/email-entries/email-entry.page-type.ts b/alan/tracking/daily/email-entries/email-entry.page-type.ts
+index f45c542902ff89bbbcdd00e248d3f7f2a33f0323..388dfe6ade670781a2458493139518d949364ad3 100644
+--- a/alan/tracking/daily/email-entries/email-entry.page-type.ts
++++ b/alan/tracking/daily/email-entries/email-entry.page-type.ts
+@@ -46,7 +46,7 @@ export const emailEntry = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The entry is what a readout of the mail inbox is read from.",
++      statement: "A readout of the mail inbox is read from the entry.",
+     },
+     {
+       invariantKind: "gap",
