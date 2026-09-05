@@ -53,3 +53,21 @@ index 17a16c16bab031ae4c822df02c990067b0cc34ac..71c0549b0d2621abb673cb1b6aff651a
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/monarch/report/monarch-report.module.ts b/alan/harness/monarch/report/monarch-report.module.ts
+index 41686e33c29ca81f8c026e9e56d6eca4306500fb..8aea741f6c42d5fa027fe3f35febc12173d86b66 100644
+--- a/alan/harness/monarch/report/monarch-report.module.ts
++++ b/alan/harness/monarch/report/monarch-report.module.ts
+@@ -13,8 +13,11 @@ export const monarchReport = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A transaction reached by several rules is decided by the first, and the rest are reported as shadowed.",
++      statement: "A transaction reached by several rules is decided by the first.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The rules that did not decide are reported as shadowed.",
+     },
+     {
+       invariantKind: "departure",
