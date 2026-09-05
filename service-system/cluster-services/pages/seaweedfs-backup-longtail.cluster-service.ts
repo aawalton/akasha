@@ -10,6 +10,5 @@ export const seaweedfsBackupLongtail = {
   resourceName: "seaweedfs-backup-longtail",
   image: "registry.registry.svc.cluster.local:5000/cluster/postgres-gfs-promoter:r4",
   schedule: "17 4 * * *",
-  manifestCode:
-    "infrastructure/backup-retention/seaweedfs-backup-longtail/seaweedfs-backup-longtail.cluster-service.code.attachment.ts",
+  manifestSlug: "seaweedfs-backup-longtail",
 } as const satisfies ClusterService
