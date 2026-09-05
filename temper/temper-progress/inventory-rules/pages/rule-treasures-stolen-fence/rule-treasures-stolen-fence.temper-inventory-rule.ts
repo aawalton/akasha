@@ -7,14 +7,14 @@ export const ruleTreasuresStolenFence = {
   title: "Fence stolen treasures",
   description:
     "Sells stolen treasures at a fence. Stolen treasures can't be sold to normal merchants.",
+  goal: "sell",
+  conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "treasures",
   displayOrder: 67,
   action: "fence-sell",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
-  goal: "sell",
   locked: true,
   fromTemplate: "treasures-stolen-fence",
-  conditions: "jsonl",
 } as const satisfies TemperInventoryRule
