@@ -40,6 +40,74 @@ index 6fc66e63b8fd9060136ac0651b999894097e15f3..e2f07e18f4428390804fd12650b54220
 +  const oid = blobAt(root, listed.path)
 +  return oid === null ? [] : [{ path: listed.path, oid, owed: TYPE }]
  }
+diff --git a/context/warrants/file-page-type/file-page-type.context-warrant.test.ts b/context/warrants/file-page-type/file-page-type.context-warrant.test.ts
+index 0e7298ac816fa78c6819a4ad48b3905fb04c312b..0fb1ec936d2b792371f98854c4e44f15ec356495 100644
+--- a/context/warrants/file-page-type/file-page-type.context-warrant.test.ts
++++ b/context/warrants/file-page-type/file-page-type.context-warrant.test.ts
+@@ -36,11 +36,20 @@ function warrantsAt(root: string, path: string): readonly Warrant[] {
+   return filePageType(root, path, knowingIn(root))
+ }
+ 
+-test("a page warrants its type, and every type that one extends", () => {
++test("a page warrants its type alone", () => {
+   const root = scratch.rootFor("akasha-file-page-type-")
+   const chain = typeWorld(root)
+   writing(root, PATH, "one\n")
+-  expect(pathsOf(warrantsAt(root, PATH))).toEqual(chain)
++  expect(pathsOf(warrantsAt(root, PATH))).toEqual([chain[0]])
++})
++
++test("a page warrants no type that its type extends", () => {
++  const root = scratch.rootFor("akasha-file-page-type-")
++  const chain = typeWorld(root)
++  writing(root, PATH, "one\n")
++  const held = pathsOf(warrantsAt(root, PATH))
++  expect(held).not.toContain(chain[1])
++  expect(held).not.toContain(chain[2])
+ })
+ 
+ test("a type warrants the body at the type's page", () => {
+@@ -81,13 +90,13 @@ test("a file naming no page type in its name answers to no type", () => {
+   expect(pathsOf(warrantsAt(root, loose))).toEqual([])
+ })
+ 
+-test("a chain that turns back on itself is walked once", () => {
++test("a type extending another warrants only the page's own type", () => {
+   const root = scratch.rootFor("akasha-file-page-type-")
+   const one = pageTypeListed(root, "one", ["two"])
+-  const two = pageTypeListed(root, "two", ["one"])
++  pageTypeListed(root, "two", ["one"])
+   const at = "akasha/thing/thing.one.ts"
+   writing(root, at, "body\n")
+-  expect(pathsOf(warrantsAt(root, at))).toEqual([one, two])
++  expect(pathsOf(warrantsAt(root, at))).toEqual([one])
+ })
+ 
+ test("a type whose page is not there warrants nothing of itself", () => {
+@@ -105,14 +114,14 @@ test("a type not read is refused, and the refusal says the type is owed", () =>
+   const oid = writing(root, PATH, "one\n")
+   recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
+   const said = unreadIn(root, AGENT, [PATH])
+-  expect(said.length).toBe(3)
++  expect(said.length).toBe(1)
+   expect(said[0]).toContain(TYPE)
+ })
+ 
+ test("one reading of a type answers for every path of that type", () => {
+   const root = scratch.rootFor("akasha-file-page-type-")
+   warrantsSeeded(root)
+-  const chain = typeWorld(root)
++  typeWorld(root)
+   const other = "akasha/thing/other.module.ts"
+   for (const at of [PATH, other]) {
+     recordRead(root, AGENT, {
+@@ -122,5 +131,5 @@ test("one reading of a type answers for every path of that type", () => {
+       mechanicalOid: null,
+     })
+   }
+-  expect(unreadIn(root, AGENT, [PATH, other]).length).toBe(chain.length)
++  expect(unreadIn(root, AGENT, [PATH, other]).length).toBe(1)
+ })
 diff --git a/context/warrants/file-page-type/file-page-type.context-warrant.ts b/context/warrants/file-page-type/file-page-type.context-warrant.ts
 index 212059799fe229db5b8b802fbf2483b684579fa6..bd5a0447ae330d5e63e72e55706e6f339b414259 100644
 --- a/context/warrants/file-page-type/file-page-type.context-warrant.ts
