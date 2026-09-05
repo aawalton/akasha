@@ -56,7 +56,7 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "What a run finds is said as an audit says the same finding.",
+      statement: "A finding a run makes is said as an audit says the same finding.",
     },
     {
       invariantKind: "departure",
