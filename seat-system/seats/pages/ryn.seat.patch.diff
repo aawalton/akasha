@@ -36,3 +36,21 @@ index 32007c6f695cfc657a3789129d6e7d80742f67fe..da1037cf343ab90d97a14fc3659be1f7
  export function partsOf(sentence: DepSentence, token: DepToken): DepToken[] {
    return childrenByRel(sentence, token.id, "nmod").filter((one) =>
      childrenByRel(sentence, one.id, "case").some((mark) => lower(mark) === "of")
+diff --git a/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.code.ts b/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.code.ts
+index 7ebc55d9ba51db9a86d1885f79b0b74fbde406f3..74bd250c88cb45a7bbc7e5e389bc5b3881866327 100644
+--- a/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.code.ts
++++ b/domains/sentence-shapes/lone-quantifier/lone-quantifier.sentence-shape.code.ts
+@@ -1,7 +1,12 @@
+ import type { DepSentence, DepToken } from "@akasha/plain-language/dependency-graph"
+ import { childrenByRel, lower } from "@akasha/plain-language/dependency-graph"
+ import type { Match, ShapePredicate } from "@akasha/plain-language/shape-predicate"
+-import { fillsNounSlot, isQuantifier, partsOf } from "@akasha/plain-language/shape-predicate"
++import {
++  fillsNounSlot,
++  isQuantifier,
++  marksADegree,
++  partsOf,
++} from "@akasha/plain-language/shape-predicate"
+ 
+ function marksBy(sentence: DepSentence, token: DepToken): boolean {
+   return childrenByRel(sentence, token.id, "case").some((one) => lower(one) === "by")
