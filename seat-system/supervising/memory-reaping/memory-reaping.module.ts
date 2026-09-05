@@ -33,7 +33,7 @@ export const memoryReaping = {
     },
     {
       invariantKind: "departure",
-      statement: "What the reaper is configured with is stated when that reaper starts.",
+      statement: "The reaper's configuration is stated when that reaper starts.",
     },
     {
       invariantKind: "departure",
