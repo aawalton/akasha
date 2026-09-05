@@ -18,7 +18,7 @@ index 153f1704063bf8633bd40453193df9ec6a78703d..2d21bbc218facdba0dd7926661bccd20
  
  export interface ListedChapter {
 diff --git a/story/wandering-inn/syncing/syncing.module.code.ts b/story/wandering-inn/syncing/syncing.module.code.ts
-index 7db3bd11af1b77f4ce53e75811636546d8f57b23..ce29574383b78d0f68a21b550cc2cc45d0336467 100644
+index 7db3bd11af1b77f4ce53e75811636546d8f57b23..28b74b9eb8310f91ef79fe39681f29931429ffd3 100644
 --- a/story/wandering-inn/syncing/syncing.module.code.ts
 +++ b/story/wandering-inn/syncing/syncing.module.code.ts
 @@ -4,7 +4,7 @@ import {
@@ -39,6 +39,15 @@ index 7db3bd11af1b77f4ce53e75811636546d8f57b23..ce29574383b78d0f68a21b550cc2cc45
      tally.skipped += 1
      return
    }
+@@ -82,7 +82,7 @@ export async function syncWanderingInn(argv: readonly string[]): Promise<RunCoun
+   const site = await openSite()
+   const tally: Tally = { created: 0, skipped: 0, failed: 0 }
+   try {
+-    assertStoryStands()
++    assertStoryExists()
+ 
+     const filed = filedChapterLinks()
+     console.log(`${filed.size} chapter(s) already filed`)
 diff --git a/story/wandering-inn/syncing/syncing.module.ts b/story/wandering-inn/syncing/syncing.module.ts
 index 26e93549ca6f951eb4efa971c8b90df2d897851b..66edaa1992ac6347245cec2953ad666ac67d5bd8 100644
 --- a/story/wandering-inn/syncing/syncing.module.ts
