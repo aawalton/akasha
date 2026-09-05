@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/move/arguing/move-arguing.module.ts b/commands/move/arguing/move-arguing.module.ts
+index d621f7651e9a80ab3ba21f8b265026abf2229dca..df5dfefbe49ad0344cac38e06f14884cdc6e11f1 100644
+--- a/commands/move/arguing/move-arguing.module.ts
++++ b/commands/move/arguing/move-arguing.module.ts
+@@ -40,7 +40,7 @@ export const moveArguing = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The flags a move takes are named here for whoever reads the line and whoever reads the rest.",
++        "The flags a move takes are named here for the reader of the line and the reader of the rest.",
+     },
+     {
+       invariantKind: "absence",
