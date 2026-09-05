@@ -120,7 +120,6 @@ export const seatSystem = {
     "module/seat-start",
     "module/seat-resume",
     "module/seat-reset",
-    "module/seat-inbox",
     "module/seat-fleet-restart",
     "module/keeper-unrevivable-push",
     "module/pending-from-files",

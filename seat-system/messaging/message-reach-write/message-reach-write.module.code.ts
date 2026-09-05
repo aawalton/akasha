@@ -34,6 +34,11 @@ function senderIn(values: Record<string, unknown>): string | null {
   }
 }
 
+function bodyIn(values: Record<string, unknown>): string {
+  const body = values.body
+  return typeof body === "string" ? body : ""
+}
+
 export async function reaching(
   root: string,
   act: WriteAct,
@@ -50,7 +55,7 @@ export async function reaching(
   }
   const missing = undeclared(stated)
   if (missing !== null) return { kind: "refused", status: UNREADABLE, reason: missing }
-  const reached = await reachSeat(stated, senderIn(values))
+  const reached = await reachSeat(stated, senderIn(values), bodyIn(values))
   if (reached.kind === "refuse") {
     return { kind: "refused", status: UNREACHABLE, reason: reached.reason }
   }

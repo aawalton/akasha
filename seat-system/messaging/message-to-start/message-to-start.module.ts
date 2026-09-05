@@ -33,5 +33,17 @@ export const messageToStart = {
       invariantKind: "departure",
       statement: "A spawned command that does not answer inside its patience is killed.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The message a seat is started for is the prompt that seat starts holding.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat is handed the words of a message rather than a command to fetch them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The words a seat is handed are marked off as data rather than as instruction.",
+    },
   ],
 } as const satisfies Module
