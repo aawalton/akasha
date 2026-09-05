@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/story/tower/engine/combat-types/combat-types.module.ts b/story/tower/engine/combat-types/combat-types.module.ts
+index 73aa106492ccd0f835eca103279fa1cf031b1ee3..01ea00fe6287017f6ccce95e7f00c0ec245bc5fb 100644
+--- a/story/tower/engine/combat-types/combat-types.module.ts
++++ b/story/tower/engine/combat-types/combat-types.module.ts
+@@ -17,7 +17,8 @@ export const combatTypes = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A seed is part of what an attack is handed rather than held between attacks.",
++      statement:
++        "A seed is part of the input an attack is handed rather than held between attacks.",
+     },
+   ],
+ } as const satisfies Module
