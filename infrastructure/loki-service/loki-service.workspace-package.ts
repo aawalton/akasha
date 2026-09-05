@@ -8,6 +8,7 @@ export const lokiService = {
   manifest: "json",
   partSlugs: [
     "manifest/loki",
+    "manifest/promtail",
     "module/loki-constants",
     "module/loki-configs",
     "module/loki-manifests",
