@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/modules/checking/checking.module.ts b/checks/modules/checking/checking.module.ts
+index 6a734b90e4ff17918bdc7f2464c92c9ca3cc99bc..e08102ad87ae9899828d9793d99ee88500a4712d 100644
+--- a/checks/modules/checking/checking.module.ts
++++ b/checks/modules/checking/checking.module.ts
+@@ -27,7 +27,7 @@ export const checking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Finding them costs nothing the pages grow.",
++      statement: "Finding the checks costs nothing the pages grow.",
+     },
+     {
+       invariantKind: "departure",
