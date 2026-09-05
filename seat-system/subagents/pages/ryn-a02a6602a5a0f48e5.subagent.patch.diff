@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seats/properties/request.record-property.ts b/seat-system/seats/properties/request.record-property.ts
+index 5201dd248056e4e653b17f9defb3bf1af5086d15..348de6bb0c1ef68744693c0f964a8dbbe4e8002d 100644
+--- a/seat-system/seats/properties/request.record-property.ts
++++ b/seat-system/seats/properties/request.record-property.ts
+@@ -27,7 +27,7 @@ export const request = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A new request takes the place of what was there.",
++      statement: "A new request takes the place of any request already there.",
+     },
+   ],
+ } as const satisfies RecordProperty
