@@ -36,11 +36,11 @@ export const taking = {
     },
     {
       invariantKind: "departure",
-      statement: "What a command takes is stated on its page.",
+      statement: "The arguments a command takes are stated on its page.",
     },
     {
       invariantKind: "departure",
-      statement: "Its code states only how what was said is worked out.",
+      statement: "Its code states only how the said text is worked out.",
     },
   ],
 } as const satisfies RecordProperty
