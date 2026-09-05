@@ -32,7 +32,7 @@ export const companionBuild = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A build is the arrangement itself rather than the companion wearing it.",
+      statement: "A build is the arrangement itself rather than the companion wearing that build.",
     },
     {
       invariantKind: "departure",
