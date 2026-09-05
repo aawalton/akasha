@@ -11,3 +11,16 @@ index 2317aa82c729acc1739d26ae4113e77f7a1dec56..b920b23b91201696c0cb48b583dbe6cb
    ],
    invariants: [
      {
+diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
+index 347f7f705f973e03d7490d8600d969761c5a6f2a..d6cb68f11d47c9a4b2d56b7396dd14b5f8bf7906 100644
+--- a/command-system/landing/landing.module.ts
++++ b/command-system/landing/landing.module.ts
+@@ -223,7 +223,7 @@ export const landing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A draft and an apply are judged over the same bodies.",
++      statement: "A draft and an apply are judged over the same bodies always.",
+     },
+     {
+       invariantKind: "departure",
