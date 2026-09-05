@@ -17,7 +17,7 @@ export const alanBook = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A book Alan is writing is read by nobody else while he writes it.",
+      statement: "A book Alan is writing is read by nobody else while Alan writes that book.",
     },
     {
       invariantKind: "absence",
