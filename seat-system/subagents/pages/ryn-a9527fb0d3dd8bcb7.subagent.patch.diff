@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/code-system/type-declarations/type-declaration.page-type.ts b/code-system/type-declarations/type-declaration.page-type.ts
+index 7c080d09f913a924afc6554ebcdc14cc718bdac0..e9a0e2801be03a410cf780d33c45c2a43a3055a8 100644
+--- a/code-system/type-declarations/type-declaration.page-type.ts
++++ b/code-system/type-declarations/type-declaration.page-type.ts
+@@ -30,7 +30,8 @@ export const typeDeclaration = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A declaration describes code written elsewhere or types shared between ours.",
++      statement:
++        "A declaration describes code written elsewhere or types shared between our modules.",
+     },
+     {
+       invariantKind: "departure",
