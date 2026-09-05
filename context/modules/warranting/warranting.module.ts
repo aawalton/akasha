@@ -52,7 +52,7 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement: "The readings owed are held to what one answer carries.",
+      statement: "The readings owed are held to the ceiling one answer carries.",
     },
     {
       invariantKind: "departure",
@@ -60,7 +60,7 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement: "The list is held to that ceiling here rather than by whoever reads it.",
+      statement: "The list is held to that ceiling here rather than by the list's reader.",
     },
     {
       invariantKind: "departure",
