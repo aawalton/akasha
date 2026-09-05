@@ -14,7 +14,8 @@ export const workTreeReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The colors are asked apart from the tree, since reading them opens no page.",
+      statement:
+        "The colors are asked apart from the tree, since reading those colors opens no page.",
     },
     {
       invariantKind: "constraint",
@@ -22,7 +23,8 @@ export const workTreeReading = {
     },
     {
       invariantKind: "constraint",
-      statement: "An answer naming no checkout is refused, since no path could be joined to it.",
+      statement:
+        "An answer naming no checkout is refused, since no path could be joined to that checkout.",
     },
     {
       invariantKind: "constraint",
