@@ -4,7 +4,7 @@ const RETIRED_SKILL_REPLACEMENTS: Readonly<Record<string, string>> = {
   p: "/manage (parent project) or /deliver (child project)",
   "amy-calendar": "read Calendar Management",
   domain: "/lead",
-  images: "run ops inference generate --help",
+  images: "run akasha inference-generate --help",
 }
 
 export const SKILL_TOKEN_GUARD_DECISIONS = ["allow", "reject"] as const
