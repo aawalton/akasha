@@ -91,30 +91,6 @@ index 1a431298bf026798900e0414ba8154748c73f24a..59936f69a0e963dcdf4f3efba2a24958
      {
        invariantKind: "departure",
        statement: "A filter that reads the same as the one held redraws nothing.",
-diff --git a/editor-extension/status-bar-panel/status-bar-panel.module.ts b/editor-extension/status-bar-panel/status-bar-panel.module.ts
-index ff03e912998f9c7ea8de33d9f2ec2ef0baa8d6a7..2b5a917aff661c4fdc0b003a2c3d7f7c27597609 100644
---- a/editor-extension/status-bar-panel/status-bar-panel.module.ts
-+++ b/editor-extension/status-bar-panel/status-bar-panel.module.ts
-@@ -51,11 +51,19 @@ export const statusBarPanel = {
-       invariantKind: "departure",
-       statement: "A drawing says which readings the file carried nothing for.",
-     },
-+<<<<<<< what this change would leave
-+
-+    {
-+      invariantKind: "absence",
-+      statement: "No timer starts a drawing.",
-+    },
-+=======
-     {
-       invariantKind: "departure",
-       statement: "Every drawing's outcome is recorded as an observation.",
-     },
- 
-+>>>>>>> what HEAD holds
-     {
-       invariantKind: "absence",
-       statement: "Nothing here reads a stoplight or a usage figure.",
 diff --git a/editor-extension/work-tree-panel/work-tree-panel.module.ts b/editor-extension/work-tree-panel/work-tree-panel.module.ts
 index cfe03623fef7fe3804ab4eb4df1155271fcfa57f..1f3ef05a0654c544b9168c64d30e699c58d74c45 100644
 --- a/editor-extension/work-tree-panel/work-tree-panel.module.ts
