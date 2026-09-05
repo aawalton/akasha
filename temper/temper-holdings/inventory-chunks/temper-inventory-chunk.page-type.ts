@@ -31,10 +31,6 @@ export const temperInventoryChunk = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A slug opens with `at-` ahead of the moment the reading was taken.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The pieces of one reading rejoin in the order the chunk indexes give.",
     },
     {
