@@ -18,7 +18,7 @@ export const seatStatedIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "What the checking command said is what the caller is told.",
+      statement: "What the resolving function refused with is what the caller is told.",
     },
   ],
 } as const satisfies Module

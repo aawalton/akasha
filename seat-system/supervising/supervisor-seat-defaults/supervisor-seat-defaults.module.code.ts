@@ -66,25 +66,6 @@ export async function callSeatAt(entry: string, call: SeatCall): Promise<SeatCal
   return { code, stdout, stderr }
 }
 
-export function parseDefaultLines(stdout: string): Readonly<Record<string, string>> {
-  const defaults: Record<string, string> = {}
-  for (const line of stdout.split("\n")) {
-    const at = line.indexOf("=")
-    if (at <= 0) continue
-    const slug = line.slice(at + 1).trim()
-    if (slug !== "") defaults[line.slice(0, at).trim()] = slug
-  }
-  return defaults
-}
-
-export async function declaredDefaults(): Promise<Readonly<Record<string, string>>> {
-  const entry = seatCallIn(rootFor(resolveRoots(), AKASHA))
-  if (entry === null) return {}
-  const outcome = await callSeatAt(entry, { resolve: true, default: true })
-  if (outcome.code !== 0) return {}
-  return parseDefaultLines(outcome.stdout)
-}
-
 export function defaultSeatCall(agentId: string, mode: SeatMode): SeatCall {
   return { agent: agentId, mode, default: true, onCall: mode === "interactive" }
 }

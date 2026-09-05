@@ -1,7 +1,10 @@
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { callSeatAt, type SeatCall, seatCallIn } from "@akasha/seat-system/supervisor-seat-defaults"
-import { SEAT_COMMAND_REL } from "@akasha/seat-system/terminal-seat-stating"
-import { ASSIGNMENTS, ATTRIBUTES } from "../seat-attributes/seat-attributes.module.code.ts"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import {
+  ASSIGNMENTS,
+  ATTRIBUTES,
+  type Declaration,
+} from "../seat-attributes/seat-attributes.module.code.ts"
+import { resolveAttributes, scan } from "../seat-resolve/seat-resolve.module.code.ts"
 
 export interface StatedIdentity {
   readonly persona?: string
@@ -9,31 +12,36 @@ export interface StatedIdentity {
   readonly role?: string
 }
 
-/** The call that checks what was stated, or null where nothing was stated to check. */
-export function resolveCall(stated: StatedIdentity): SeatCall | null {
+/** The slots a seat named, or null where it named none to check. */
+export function resolveCall(stated: StatedIdentity): Partial<Record<Declaration, string>> | null {
   const held = stated as Readonly<Record<string, unknown>>
-  const slots: Record<string, string> = {}
+  const slots: Partial<Record<Declaration, string>> = {}
   for (const key of [...ATTRIBUTES, ...ASSIGNMENTS]) {
     const slug = held[key]
     if (typeof slug === "string") slots[key] = slug
   }
   if (Object.keys(slots).length === 0) return null
-  return { ...slots, resolve: true }
+  return slots
 }
 
-/** The refusal a stated identity earns, or null where it checks out or states nothing. */
-export async function resolveStatedIdentity(stated: StatedIdentity): Promise<string | null> {
-  const call = resolveCall(stated)
-  if (call === null) return null
-  const entry = seatCallIn(rootFor(resolveRoots(), AKASHA))
-  if (entry === null) {
-    return (
-      `an identity was stated, and ${SEAT_COMMAND_REL} is what checks a slug against ` +
-      "the pages. It is not there, so the seat would boot holding none of what was named."
+/** The refusal what a seat named earns, or null where it checks out or names nothing. */
+export function resolveStatedIdentity(stated: StatedIdentity): Promise<string | null> {
+  const slots = resolveCall(stated)
+  if (slots === null) return Promise.resolve(null)
+  const pages = akashaRoot()
+  let resolved: ReturnType<typeof resolveAttributes>
+  try {
+    resolved = resolveAttributes(slots, [], pages, scan(pages))
+  } catch (error) {
+    const said = error instanceof Error ? error.message : String(error)
+    return Promise.resolve(
+      "attributes were named, and checking a slug against the pages is what says whether a " +
+        `page holds it. That could not be done (${said}), so the seat would boot holding none ` +
+        "of what was named."
     )
   }
-  const outcome = await callSeatAt(entry, call)
-  if (outcome.code === 0) return null
-  const said = outcome.stderr.trim()
-  return said === "" ? `${entry} refused the stated identity` : said
+  if (!("refusals" in resolved)) return Promise.resolve(null)
+  return Promise.resolve(
+    ["refused:", ...resolved.refusals.map((one) => `  ${one}`), "nothing was resolved"].join("\n")
+  )
 }
