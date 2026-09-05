@@ -18,7 +18,7 @@ export const watcherSettingsNormalize = {
     },
     {
       invariantKind: "departure",
-      statement: "Performance tracing is off unless the game asked for it.",
+      statement: "Performance tracing is off unless the game asked for that tracing.",
     },
     {
       invariantKind: "departure",
