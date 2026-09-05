@@ -18,7 +18,7 @@ export const emailRuleSet = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder a rule is in names the person whose rule it is.",
+      statement: "The folder a rule is in names the person whose rule that rule is.",
     },
     {
       invariantKind: "absence",
