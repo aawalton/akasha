@@ -14,7 +14,15 @@ export const fileHasItsPage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A file no page claims is enumerated by nothing and audited by nothing.",
+      statement: "A file no page claims is left out of every enumeration read from the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A move repoints no import to such a file and reports none left behind.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A phase judging every file in the tree reaches such a file like any other.",
     },
     {
       invariantKind: "departure",
