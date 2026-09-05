@@ -1039,3 +1039,11 @@ index 54a06c93e7298e42e51a1e16ab8ec46dde3fde17..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-hud-window
 \ No newline at end of file
+diff --git a/temper/temper-interface-addon/temper-interface-addon b/temper/temper-interface-addon/temper-interface-addon
+deleted file mode 120000
+index ae289378bacd2e056ff2e50310b3c1e3b8c0f7d5..0000000000000000000000000000000000000000
+--- a/temper/temper-interface-addon/temper-interface-addon
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-interface-addon
+\ No newline at end of file
