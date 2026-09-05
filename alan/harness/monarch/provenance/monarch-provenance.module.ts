@@ -23,11 +23,11 @@ export const monarchProvenance = {
     },
     {
       invariantKind: "departure",
-      statement: "What is named is trimmed, so blank space names nothing.",
+      statement: "A name is trimmed, so blank space names nothing.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes; this module composes what a writer writes.",
+      statement: "Nothing here writes; this module composes the record a writer writes.",
     },
   ],
 } as const satisfies Module
