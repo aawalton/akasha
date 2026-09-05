@@ -12,7 +12,7 @@ index 42d992c09a63714f370075706b779e0b8b52c0b0..f9e44fc90830b2cdfcdb1f582d669849
    expect(holdingIn("  01a0-seat  ")).toBe("/var/tmp/01a0-seat")
  })
 diff --git a/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test.ts b/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test.ts
-index c837c609fdf222470be1f179f8234b04457b8bec..1611330b02bc9d64ad8dc479541c20644fb35231 100644
+index c837c609fdf222470be1f179f8234b04457b8bec..6d7d2d11910c4653d5114ec28eb95bbfef26d71f 100644
 --- a/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test.ts
 +++ b/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test.ts
 @@ -51,7 +51,7 @@ test("a redirect onto the index is refused, and names the one repair", () => {
@@ -52,6 +52,15 @@ index c837c609fdf222470be1f179f8234b04457b8bec..1611330b02bc9d64ad8dc479541c2064
    expect(said("perl -pi /var/tmp/edit.pl /var/tmp/x")).toBeNull()
  })
  
+@@ -191,7 +191,7 @@ test("a refusal names the removing command as well as the writing one", () => {
+   expect(said("rm -f akasha/held.domain.ts")).toContain("akasha remove --file-path")
+ })
+ 
+-test("a write outside the guarded roots stands for the verbs added here", () => {
++test("a write outside the guarded roots is let through for the verbs added here", () => {
+   expect(said("rm -f /var/tmp/x")).toBeNull()
+   expect(said("touch /var/tmp/x")).toBeNull()
+   expect(said("mkdir -p /var/tmp/held")).toBeNull()
 diff --git a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.test.ts b/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.test.ts
 index 02e0a5af2c51b19f0c629be75f7ea05e95699ea0..51eaadb0798c1d6e5805e6c51475582d43354770 100644
 --- a/hook-system/agent-hooks/block-destructive-git/block-destructive-git.agent-hook.test.ts
