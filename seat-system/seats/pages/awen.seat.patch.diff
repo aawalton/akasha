@@ -72,6 +72,29 @@ index 7146397adbe4fe5b246e172063825e660d61811b..147c25dd6d22161aa4e1aaebe7f24386
    const read = bodiesOf(change, mintingIn(change, [...waitingKeys(shadow)], shadow.index))
    const at = join(root, CONFIG_NAME)
    const config = configOf(root, named)
+diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.ts
+index 28bf867ab25d12d38a54dabd9420f69c7e6114cc..e7d31b3041d36d66a6459f75ea270b04cb7fde66 100644
+--- a/checks/code-checks/pages/typecheck/typecheck.code-check.ts
++++ b/checks/code-checks/pages/typecheck/typecheck.code-check.ts
+@@ -79,11 +79,15 @@ export const typecheck = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A declaration file compiled this way is not itself judged.",
++      statement: "A declaration file the change reaches is judged as any other file is judged.",
+     },
+     {
+-      invariantKind: "absence",
+-      statement: "Its standing errors are the audit's.",
++      invariantKind: "departure",
++      statement: "A file another config compiles is compiled by that config rather than here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A lua runtime library's config names the files that config compiles.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/code-system/package.json b/code-system/package.json
 index 7300bc81a9f458e9c8bf7b9482ade0de796ffd7c..428a2f46ff909d20d6fdbd1070345ccf3c26e136 100644
 --- a/code-system/package.json
