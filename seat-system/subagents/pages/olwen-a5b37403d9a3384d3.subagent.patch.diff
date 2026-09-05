@@ -18,6 +18,43 @@ index c01a98711d9dc20a0ad592f81708e94b0abd2d62..8af453651f0aed29a08fd5dab6ee24db
    if (held.dryRun) return await reporting(given.root, held, gate, aside)
    const message = messageWith(held, bypass, broken)
    const asRead = asReadIn(given, formatting.changes)
+diff --git a/command-system/asking/asking.module.test-fixtures.ts b/command-system/asking/asking.module.test-fixtures.ts
+index cd2003ebc31e59e58155fa20277cc2689837a41e..2a84728660d5ca9c0fedb540eb24b672ab3e7e56 100644
+--- a/command-system/asking/asking.module.test-fixtures.ts
++++ b/command-system/asking/asking.module.test-fixtures.ts
+@@ -11,10 +11,11 @@ import { put } from "@akasha/testing-system/putting"
+ import type { Answer, Given } from "../calling/calling.module.code.ts"
+ import { patch } from "../commands/patch/patch.command.code.ts"
+ import { write } from "../commands/write/write.command.code.ts"
++import { drafted, type Running } from "../drafting/drafting.module.code.ts"
+ import { blobIdOf, recordRead } from "../reading/reading.module.code.ts"
+ import { rootOf } from "../rooting/rooting.module.code.ts"
+ import { scratchWorld } from "../scratching/scratching.module.code.ts"
+-import { type Asked, landedMechanically } from "./asking.module.code.ts"
++import { type Asked, landedMechanically, runningOf } from "./asking.module.code.ts"
+ 
+ const ADMITS_AT = "akasha/admits.code-check*"
+ 
+@@ -232,3 +233,19 @@ export const applying = async (root: string): Promise<Answer> =>
+ 
+ export const mechanically = async (root: string): Promise<number> =>
+   (await landedMechanically(root, "akasha write", THREE, "held", [], AGENT)).code
++
++export const PROGRAM = [{ path: TWO_AT, body: bytes(PROPOSED) }]
++
++export const ranBy = (runsChecks: boolean, runsWarrants: boolean): Running =>
++  runningOf({ ...givenIn(""), changeKind: { slug: "held", runsChecks, runsWarrants } })
++
++export function seeded(root: string): boolean {
++  const held = [{ path: "akasha/one.ts", was: bytes("committed\n"), body: bytes(PROPOSED) }]
++  return !("why" in drafted(root, SEAT_AT, held))
++}
++
++export function reaching(held: number[]): () => undefined {
++  return (): undefined => {
++    held.push(1)
++  }
++}
 diff --git a/command-system/asking/asking.module.test.ts b/command-system/asking/asking.module.test.ts
 index f87998f86d78b5788b89aa122793ffeeb66c25e9..73b372205f7f3ac99b08869272e0d9c7900380ca 100644
 --- a/command-system/asking/asking.module.test.ts
