@@ -119,7 +119,7 @@ index 92cd2800ce4e83028e747424b33d5ef21db21eda..01050433a7050fee8f2c0f11ef62ff00
      {
        invariantKind: "departure",
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/property-pages-only/property-pages-only.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/property-pages-only/property-pages-only.folder-shape.ts
-index 3d012f49aa2a6bdbdba425da9890b46b40eedc80..ee87fb896f676e700d22daa63f7f75bf91cce8c5 100644
+index 3d012f49aa2a6bdbdba425da9890b46b40eedc80..403e2dfb46d85d0367aa1e33606949b72bac4f59 100644
 --- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/property-pages-only/property-pages-only.folder-shape.ts
 +++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/property-pages-only/property-pages-only.folder-shape.ts
 @@ -32,7 +32,7 @@ export const propertyPagesOnly = {
@@ -131,6 +131,15 @@ index 3d012f49aa2a6bdbdba425da9890b46b40eedc80..ee87fb896f676e700d22daa63f7f75bf
      },
      {
        invariantKind: "absence",
+@@ -40,7 +40,7 @@ export const propertyPagesOnly = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "The folder above says which page these are properties of.",
++      statement: "The folder above says which page these pages are properties of.",
+     },
+   ],
+ } as const satisfies FolderShape
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.ts
 index 4386c6fbd2b86c4217a294e2792ecec3315ae9b5..022d67f8e8e2fa9bdb12c1bc2cecee49a016ec1c 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.ts
