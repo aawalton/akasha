@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/google/email/commands/email-messages-modify-labels/email-messages-modify-labels.command.ts b/google/email/commands/email-messages-modify-labels/email-messages-modify-labels.command.ts
+index b481ba8b8c3cd33c68718f524dbfc90514e1f53c..d68a487e8215c89fa26aacffc73048bc2b6ba675 100644
+--- a/google/email/commands/email-messages-modify-labels/email-messages-modify-labels.command.ts
++++ b/google/email/commands/email-messages-modify-labels/email-messages-modify-labels.command.ts
+@@ -28,7 +28,7 @@ export const emailMessagesModifyLabels = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What comes back is the labels the message carries after the change.",
++      statement: "The labels the message carries after the change come back.",
+     },
+   ],
+ } as const satisfies Command
