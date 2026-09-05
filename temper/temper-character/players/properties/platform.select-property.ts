@@ -10,7 +10,7 @@ export const platform = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The machines are named as The Elder Scrolls Online names them.",
+      statement: "The machines are named as The Elder Scrolls Online names those machines.",
     },
   ],
 } as const satisfies SelectProperty
