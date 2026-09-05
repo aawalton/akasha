@@ -24,3 +24,58 @@ index ceb756280aa75ccca536abd76b9c7ba501e67948..986e040257e9f79b9731685cc9d4c321
      },
    ],
  } as const satisfies TextProperty
+diff --git a/pages/commands/page-secret-set/page-secret-set.command.ts b/pages/commands/page-secret-set/page-secret-set.command.ts
+index 5aff62337636c9dae8fbd085cff7f5d7b73228dc..a696f38f0069ea9c820c3086c1d43c1fb02dd5c4 100644
+--- a/pages/commands/page-secret-set/page-secret-set.command.ts
++++ b/pages/commands/page-secret-set/page-secret-set.command.ts
+@@ -52,7 +52,7 @@ export const pageSecretSet = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "No value this takes is written anywhere in the clear.",
++      statement: "No value this command takes is written anywhere in the clear.",
+     },
+     {
+       invariantKind: "gap",
+diff --git a/pages/query-hold/page-query-hold.module.ts b/pages/query-hold/page-query-hold.module.ts
+index c82937e856f721494bef85cdae5df16245309cef..5829fc5e2c92247231d72b7f60b552a92400bfdc 100644
+--- a/pages/query-hold/page-query-hold.module.ts
++++ b/pages/query-hold/page-query-hold.module.ts
+@@ -13,7 +13,8 @@ export const pageQueryHold = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An answer held longer than that is asked for again rather than answered.",
++      statement:
++        "An answer held longer than the caller said is asked for again rather than answered.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/persona-system/personas/properties/appearance.file-property.ts b/persona-system/personas/properties/appearance.file-property.ts
+index 7ba10fbbb630d62eee293308dc54363b62806ef6..bccb70f2202b2c42507db4b0a23f60fc3e820661 100644
+--- a/persona-system/personas/properties/appearance.file-property.ts
++++ b/persona-system/personas/properties/appearance.file-property.ts
+@@ -11,7 +11,8 @@ export const appearance = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This is how she describes herself rather than how an image of her was made.",
++      statement:
++        "This property is how she describes herself rather than how an image of her was made.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/messaging/messages-console-stdout-guard/messages-console-stdout-guard.module.ts b/seat-system/messaging/messages-console-stdout-guard/messages-console-stdout-guard.module.ts
+index a7307805da74949bc39f25c7ab90453ba0733898..5058787cd6e99b7922e9cb4d3349fcaf9d1bf610 100644
+--- a/seat-system/messaging/messages-console-stdout-guard/messages-console-stdout-guard.module.ts
++++ b/seat-system/messaging/messages-console-stdout-guard/messages-console-stdout-guard.module.ts
+@@ -13,7 +13,8 @@ export const messagesConsoleStdoutGuard = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "This is loaded for what loading it does rather than for anything it exports.",
++      statement:
++        "This module is loaded for what loading it does rather than for anything it exports.",
+     },
+     {
+       invariantKind: "departure",
