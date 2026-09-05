@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-holdings/temper-holdings-things/temper-holdings-thing.page-type.ts b/temper/temper-holdings/temper-holdings-things/temper-holdings-thing.page-type.ts
+index b36e1b898d1a45b424c042af16fa24b668fef36a..bf48c975461e498e9ddd58508b8e30524b2bb756 100644
+--- a/temper/temper-holdings/temper-holdings-things/temper-holdings-thing.page-type.ts
++++ b/temper/temper-holdings/temper-holdings-things/temper-holdings-thing.page-type.ts
+@@ -23,7 +23,7 @@ export const temperHoldingsThing = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A reading states what an account was worth at one moment.",
++      statement: "A reading states an account's total value at one moment.",
+     },
+   ],
+ } as const satisfies PageType
