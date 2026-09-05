@@ -25,3 +25,16 @@ index 4ea47830c73293a300c99d038514a8ef76e9af65..3f059b86bc975178b31474cee737bb01
      },
      {
        invariantKind: "departure",
+diff --git a/checks/modules/change-walking/change-walking.module.ts b/checks/modules/change-walking/change-walking.module.ts
+index 6bdee2ab0e8c1b049faba40b36907e3db888f925..2eedc1dbd6d9533283c0795eff429fd70b90e26e 100644
+--- a/checks/modules/change-walking/change-walking.module.ts
++++ b/checks/modules/change-walking/change-walking.module.ts
+@@ -57,7 +57,7 @@ export const changeWalking = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A file git leaves out of the tree is walked only where its name holds the reserved section `uncommitted`.",
++        "A file outside git's tree is walked only where its name holds the reserved section `uncommitted`.",
+     },
+     {
+       invariantKind: "departure",
