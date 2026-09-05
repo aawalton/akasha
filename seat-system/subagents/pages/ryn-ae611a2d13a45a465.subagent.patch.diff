@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/mobile-cli/cut-fingerprint/cut-fingerprint.module.ts b/mobile-cli/cut-fingerprint/cut-fingerprint.module.ts
+index b0482c026a35f03d05651f72648b117a17885e1d..3859c7d8af0d3b0ebc0bbae82a7a9759b0c7a2a2 100644
+--- a/mobile-cli/cut-fingerprint/cut-fingerprint.module.ts
++++ b/mobile-cli/cut-fingerprint/cut-fingerprint.module.ts
+@@ -49,7 +49,7 @@ export const cutFingerprint = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A filed cut mints its own id rather than deriving one from where it is.",
++      statement: "A filed cut mints its own id rather than deriving one from where that cut is.",
+     },
+     {
+       invariantKind: "departure",
