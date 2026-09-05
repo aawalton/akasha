@@ -9,7 +9,8 @@ export const exerciseDigest = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The ops dispatcher imports this module and calls the default export it declares.",
+      statement:
+        "The ops dispatcher imports this module and calls the default export this module declares.",
     },
     {
       invariantKind: "departure",
