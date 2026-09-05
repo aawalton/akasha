@@ -39,7 +39,7 @@ export const usZoneOffset = {
     },
     {
       invariantKind: "departure",
-      statement: "The zone database is what these offsets are judged against.",
+      statement: "These offsets are judged against the zone database.",
     },
   ],
 } as const satisfies Module
