@@ -1,0 +1,52 @@
+diff --git a/commands/elaine/elaine.command.code.ts b/commands/elaine/elaine.command.code.ts
+index 97393a88aa507b15aeeb3932cef67fcbf30e8414..27163bb4e6c5459edf59242585fb7f67214d5722 100644
+--- a/commands/elaine/elaine.command.code.ts
++++ b/commands/elaine/elaine.command.code.ts
+@@ -115,7 +115,7 @@ export async function elaine(argv: readonly string[], given: Given): Promise<Ans
+     })
+     if (exported.sourceFile === null) {
+       return refused(
+-        "no Apple Health export stands on the macbook — export all health data from the iPhone's " +
++        "no Apple Health export is on the macbook — export all health data from the iPhone's " +
+           `Health app and drop the zip in the macbook's downloads, or name one with \`${PATH}\``,
+         2
+       )
+diff --git a/commands/elaine/elaine.command.ts b/commands/elaine/elaine.command.ts
+index 08e4cdc5f70119d51bb5af2082c950c5950d1d20..bb6d7454e56f6cf65b57a5c59ca1749df686d445 100644
+--- a/commands/elaine/elaine.command.ts
++++ b/commands/elaine/elaine.command.ts
+@@ -21,7 +21,7 @@ export const elaine = {
+     { said: "--json", takes: "the snapshot as one JSON object rather than as formatted lines" },
+   ],
+   helpNotes: [
+-    "the act stands first and one call names one act.",
++    "the act is first and one call names one act.",
+     "Apple Health lives on the iPhone, so what is read is an export dropped on the macbook rather than the phone itself.",
+     "the newest export zip standing in the macbook's downloads is taken where no path is named.",
+     "the metrics are heart rate variability, resting heart rate, blood oxygen, steps and sleep.",
+diff --git a/commands/food/food.command.ts b/commands/food/food.command.ts
+index 908c384c83d87d555841814e9b8883d573718ce5..7ea426e49003a39e95d468ac1b1eabcff2492234 100644
+--- a/commands/food/food.command.ts
++++ b/commands/food/food.command.ts
+@@ -20,7 +20,7 @@ export const food = {
+     { said: "--json", takes: "the entry as one JSON object rather than as a row for each field" },
+   ],
+   helpNotes: [
+-    "the act stands first and one call names one food.",
++    "the act is first and one call names one food.",
+     "plant grams are the one source of the nutrition points health pillar, at a point a gram, rolled up for the day after each entry.",
+     "the entry records the instant it happened at, and which day it counts to is worked out from that instant against when Alan woke.",
+     "a date said without a time is read as noon, and a time said without a date is read on today.",
+diff --git a/commands/work-tree/work-tree.command.ts b/commands/work-tree/work-tree.command.ts
+index 31a118e3520c4756456d5ba6ca1b5c248b50edca..1a8a46ead127f78a4c1a5b938313f3a7af3c5a40 100644
+--- a/commands/work-tree/work-tree.command.ts
++++ b/commands/work-tree/work-tree.command.ts
+@@ -4,7 +4,7 @@ export const workTree = {
+   id: "01a06866-8b85-79cd-a698-d3fa3f18a57b",
+   pageTypeSlug: "command",
+   slug: "work-tree",
+-  definition: "the command drawing each initiative under the initiative it stands beneath",
++  definition: "the command drawing each initiative under the initiative it sits beneath",
+   code: "ts",
+   test: "ts",
+   changeKindSlug: "change-none",
