@@ -38,7 +38,7 @@ index 287e715ca07036e08f9ab03ed7655b1a1640e9c2..8cba335f1c78c4f62b9395d9d4adac86
        refusals.push(`what \`${named}\` names is said both as \`${first}\` and at \`${named}\``)
      } else {
 diff --git a/google/email/commands/email-command-reading/email-command-reading.module.test.ts b/google/email/commands/email-command-reading/email-command-reading.module.test.ts
-index e8be5ceca90e799f9f4de625ae226acc6a03f331..a43c1b34baad669b06586b72488a1500617915ac 100644
+index e8be5ceca90e799f9f4de625ae226acc6a03f331..d46ac23122994ab297ce8ceed3866bfe73cad6a6 100644
 --- a/google/email/commands/email-command-reading/email-command-reading.module.test.ts
 +++ b/google/email/commands/email-command-reading/email-command-reading.module.test.ts
 @@ -33,7 +33,7 @@ function givenAt(root: string): Given {
@@ -50,7 +50,7 @@ index e8be5ceca90e799f9f4de625ae226acc6a03f331..a43c1b34baad669b06586b72488a1500
    expect(readTaking(["18c1f2a3"], NAMING)).toEqual({ one: { [MESSAGE]: "18c1f2a3" }, many: {} })
  })
  
-@@ -41,7 +41,7 @@ test("the flag and the word name the same thing, so saying both is refused", ()
+@@ -41,12 +41,12 @@ test("the flag and the word name the same thing, so saying both is refused", ()
    expect(refusedIn(["18c1f2a3", MESSAGE, "other"], NAMING)).toContain("said both as")
  })
  
@@ -59,6 +59,13 @@ index e8be5ceca90e799f9f4de625ae226acc6a03f331..a43c1b34baad669b06586b72488a1500
    expect(refusedIn(["one", "two"], NAMING)).toContain("one call names one of these")
  })
  
+-test("a word standing alone is refused where the command names no flag for one", () => {
+-  expect(refusedIn(["one"], COUNTING)).toContain("takes no word standing on its own")
++test("a word alone is refused where the command names no flag for one", () => {
++  expect(refusedIn(["one"], COUNTING)).toContain("takes no word on its own")
+ })
+ 
+ test("a flag the command does not take is refused, and the ones it takes are named", () => {
 diff --git a/google/email/commands/email-command-reading/email-command-reading.module.ts b/google/email/commands/email-command-reading/email-command-reading.module.ts
 index 59121ac955d6c63a7e9aa2623be65c963551bd34..6662f18d6aafeae346bd349a873894020521f9de 100644
 --- a/google/email/commands/email-command-reading/email-command-reading.module.ts
