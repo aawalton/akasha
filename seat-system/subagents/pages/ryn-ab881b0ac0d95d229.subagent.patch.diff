@@ -102,3 +102,25 @@ index 9bce295a06120bb247f0da4b45f042183933acd7..14feb3d710003fdf715d22abf0bc9a53
      },
    ],
  } as const satisfies TextProperty
+diff --git a/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts b/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
+index a40233a55e4d4f23b193b72043ba90041824fb1f..f9857f8bf5d93b9dc5139a46b50f18566a6fa24d 100644
+--- a/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
++++ b/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
+@@ -33,7 +33,7 @@ export const pendingMaintaining = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file changing is the only thing that moves this.",
++      statement: "A file changing is the only thing that moves this module.",
+     },
+     {
+       invariantKind: "departure",
+@@ -41,7 +41,7 @@ export const pendingMaintaining = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A turn starts in a transcript rather than in a store this writes.",
++      statement: "A turn starts in a transcript rather than in a store this module writes.",
+     },
+     {
+       invariantKind: "departure",
