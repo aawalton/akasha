@@ -215,3 +215,11 @@ index 3f6c4c102a2505da0d0c483c692c2ad26120a71e..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../infrastructure/ci-benchmark
 \ No newline at end of file
+diff --git a/infrastructure/cluster-api/cluster-api b/infrastructure/cluster-api/cluster-api
+deleted file mode 120000
+index 6fd04073bdbbcca14d13b25ae16cf6559cd476c8..0000000000000000000000000000000000000000
+--- a/infrastructure/cluster-api/cluster-api
++++ /dev/null
+@@ -1 +0,0 @@
+-../../infrastructure/cluster-api
+\ No newline at end of file
