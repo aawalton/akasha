@@ -21,7 +21,7 @@ export const checkAddonSandboxSafety = {
     },
     {
       invariantKind: "constraint",
-      statement: "A bundle that could not be read ends the run with what was read so far named.",
+      statement: "A bundle that could not be read ends the run with the bundles read so far named.",
     },
   ],
 } as const satisfies Module
