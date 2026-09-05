@@ -12,10 +12,10 @@ index 31a86c10f053dbb840084cff342cce7aa534e679..92b6c3291e0e12d2c079821834d080e5
  function sinkNamed(node: ts.CallExpression): string | null {
    const called = node.expression
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.test.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.test.ts
-index 15f1f480d79c9fa7bb24c7bc65387a1c13f4a2f8..8afc4dce72ad40937668f2102a2e2e00a8be3be2 100644
+index 15f1f480d79c9fa7bb24c7bc65387a1c13f4a2f8..2745985c5080ce33cf50b19a8e3392d24dd79544 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.test.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.test.ts
-@@ -33,7 +33,7 @@ test("waitForFunction hands text to the browser too", () => {
+@@ -33,12 +33,12 @@ test("waitForFunction hands text to the browser too", () => {
    expect(said[0]?.reason).toContain("`waitForFunction`")
  })
  
@@ -24,8 +24,14 @@ index 15f1f480d79c9fa7bb24c7bc65387a1c13f4a2f8..8afc4dce72ad40937668f2102a2e2e00
    const text = "page.evaluate((one) => document.write(one), password)\n"
    expect(noCredentialInScriptText(parsed(text))).toEqual([])
  })
+ 
+-test("the function-expression form stands as the arrow form does", () => {
++test("the function-expression form is left as the arrow form is", () => {
+   const text = "page.evaluate(function (one) { return one }, credential)\n"
+   expect(noCredentialInScriptText(parsed(text))).toEqual([])
+ })
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.ts
-index f86dce4a7ddd9b8aebad714a1ad5c506ad7470e9..93df6618b826128de7df3c8e4b646693a6bbf473 100644
+index f86dce4a7ddd9b8aebad714a1ad5c506ad7470e9..238d49f31b2e54aef333422ac0e9ca76c2900f8a 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.ts
 @@ -14,7 +14,7 @@ export const noCredentialInScriptText = {
@@ -34,6 +40,15 @@ index f86dce4a7ddd9b8aebad714a1ad5c506ad7470e9..93df6618b826128de7df3c8e4b646693
        invariantKind: "departure",
 -      statement: "The function form stands.",
 +      statement: "The function form is left.",
+     },
+     {
+       invariantKind: "departure",
+@@ -36,7 +36,7 @@ export const noCredentialInScriptText = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A name a credential would carry is refused wherever the name stands inside the text.",
++        "A name a credential would carry is refused wherever the name sits inside the text.",
      },
      {
        invariantKind: "departure",
