@@ -25,7 +25,7 @@ function over(said: Over): (names: readonly string[]) => Standing {
     pageTypes: PAGE_TYPES,
     fileProperties: FILE_PROPERTIES,
     extending: (pageTypeSlug, wanted) => pageTypeSlug === wanted,
-    holds: said.holds ?? ((at) => (at === ABOVE ? `alan-book/${BOOK}` : null)),
+    holds: said.holds ?? ((at) => (at === ABOVE ? [`alan-book/${BOOK}`] : [])),
     partOf: said.partOf ?? ((): readonly string[] => [BOOK]),
     deep: said.deep ?? [],
   })
@@ -52,7 +52,7 @@ test("a folder named otherwise is refused, and the reason names both", () => {
       pageTypes: PAGE_TYPES,
       fileProperties: FILE_PROPERTIES,
       extending: (pageTypeSlug, wanted) => pageTypeSlug === wanted,
-      holds: (at) => (at === ABOVE ? `alan-book/${BOOK}` : null),
+      holds: (at) => (at === ABOVE ? [`alan-book/${BOOK}`] : []),
       partOf: (): readonly string[] => [BOOK],
     })(["one.book-chapter.ts"])
   )
@@ -63,14 +63,14 @@ test("a folder named otherwise is refused, and the reason names both", () => {
 })
 
 test("a folder above holding no page of its own is refused", () => {
-  const held = over({ holds: () => null })
+  const held = over({ holds: () => [] })
   const said = chaptersOfTheBookAbove(held(["one.book-chapter.ts"]))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("holds no page of its own")
 })
 
 test("a folder above holding a page that is no book Alan writes is refused", () => {
-  const held = over({ holds: (at) => (at === ABOVE ? "book/plato-apology-crito" : null) })
+  const held = over({ holds: (at) => (at === ABOVE ? ["book/plato-apology-crito"] : []) })
   const said = chaptersOfTheBookAbove(held(["one.book-chapter.ts"]))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("`book`")

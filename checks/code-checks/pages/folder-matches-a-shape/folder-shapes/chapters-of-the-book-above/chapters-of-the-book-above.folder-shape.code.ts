@@ -23,15 +23,17 @@ export function chaptersOfTheBookAbove(standing: Standing): readonly string[] {
   const named = basename(standing.folder)
   if (named !== CHAPTERS) said.push(`it is named \`${named}\` rather than \`${CHAPTERS}\``)
   const above = standing.holds(dirname(standing.folder))
-  if (above === null) {
+  const first = above[0]
+  if (first === undefined) {
     said.push("the folder above holds no page of its own")
     return said
   }
-  if (!standing.extending(typeIn(above), BOOK)) {
-    said.push(`the page above is a \`${typeIn(above)}\` rather than a \`${BOOK}\``)
+  const holding = above.find((one) => standing.extending(typeIn(one), BOOK))
+  if (holding === undefined) {
+    said.push(`the page above is a \`${typeIn(first)}\` rather than a \`${BOOK}\``)
     return said
   }
-  const book = slugIn(above)
+  const book = slugIn(holding)
   if (standing.strays.length > 0) {
     said.push(
       `${standing.strays.length} files are neither a chapter nor a file beside one: ${saidInside(standing.folder, standing.strays)}`

@@ -11,13 +11,13 @@ const ABOVE = "akasha/checks"
 
 const PAGE_TYPES = new Set<string>(["module", "domain"])
 
-const HELD: Record<string, string> = {
-  "akasha/checks": "domain/checks",
-  "akasha/checks/modules/one": "module/one",
-  "akasha/checks/modules/two": "module/two",
+const HELD: Record<string, readonly string[]> = {
+  "akasha/checks": ["domain/checks"],
+  "akasha/checks/modules/one": ["module/one"],
+  "akasha/checks/modules/two": ["module/two"],
 }
 
-const holds: Standing["holds"] = (at) => HELD[at] ?? null
+const holds: Standing["holds"] = (at) => HELD[at] ?? []
 
 const extending: Standing["extending"] = (pageTypeSlug, wanted) => pageTypeSlug === wanted
 
@@ -49,7 +49,7 @@ const foreign = folderFrom({
   folder: FOLDER,
   pageTypes: PAGE_TYPES,
   deep: ["three/three.domain.ts"],
-  holds: (at) => (at === `${FOLDER}/three` ? "domain/three" : (HELD[at] ?? null)),
+  holds: (at) => (at === `${FOLDER}/three` ? ["domain/three"] : (HELD[at] ?? [])),
   extending,
   declared: () => new Set<string>(["domain/three"]),
 })
@@ -58,7 +58,7 @@ const nowhere = folderFrom({
   folder: FOLDER,
   pageTypes: PAGE_TYPES,
   deep: DEEP,
-  holds: (at) => (at === ABOVE ? null : (HELD[at] ?? null)),
+  holds: (at) => (at === ABOVE ? [] : (HELD[at] ?? [])),
   extending,
   declared: () => new Set<string>(),
 })

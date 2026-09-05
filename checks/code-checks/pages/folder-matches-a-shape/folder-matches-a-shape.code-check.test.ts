@@ -44,7 +44,7 @@ function change(
 function holding(named: Readonly<Record<string, readonly string[]>>): Holds {
   return (folder) => ({
     names: named[folder] ?? [],
-    holds: null,
+    holds: [],
     declared: new Set<string>(),
   })
 }

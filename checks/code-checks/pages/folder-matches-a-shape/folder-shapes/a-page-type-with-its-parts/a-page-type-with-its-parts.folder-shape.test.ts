@@ -17,10 +17,10 @@ const DECLARING: Declaring = {
   propertySlugs: new Set<string>(),
 }
 
-function holdsAt(at: string): string | null {
-  if (at.endsWith("/families")) return "page-type/model-family"
-  if (at.endsWith("/stray")) return "domain/other"
-  return null
+function holdsAt(at: string): readonly string[] {
+  if (at.endsWith("/families")) return ["page-type/model-family"]
+  if (at.endsWith("/stray")) return ["domain/other"]
+  return []
 }
 
 function judgedBy(
@@ -116,4 +116,17 @@ test("a workspace package slugged the page type's plural slug is a second page a
   const said = judgedBy([], ["model.page-type.ts", "models.workspace-package.ts"], DECLARING)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("2 pages rather than one")
+})
+
+test("a subfolder declared by the workspace package beside its page type takes the shape", () => {
+  const paired = ["page-type/index", "workspace-package/index"]
+  const made = folderFrom({
+    folder: FOLDER,
+    pageTypes: PAGE_TYPES,
+    extending: (pageTypeSlug, wanted) => wanted === "page-type" && TYPES.has(pageTypeSlug),
+    declared: () => new Set<string>(["workspace-package/index"]),
+    holds: (at) => (at.endsWith("/indexes") ? paired : []),
+    deep: ["indexes/index.page-type.ts", "indexes/index.workspace-package.ts"],
+  })
+  expect(aPageTypeWithItsParts(made(["model.page-type.ts"]))).toEqual([])
 })

@@ -36,7 +36,7 @@ export function aDomainWithItsParts(standing: Standing): readonly string[] {
   const stray = standing.subfolders.filter((at) => {
     if (HELD.has(basename(at))) return false
     const held = standing.holds(at)
-    return held === null || !declared.has(held)
+    return !held.some((one) => declared.has(one))
   })
   if (stray.length > 0) {
     said.push(

@@ -27,7 +27,7 @@ export type Standing = {
   readonly under: (folder: string) => readonly string[]
   readonly declaring: (folder: string) => Declaring | null
   readonly naming: (folder: string) => string | null
-  readonly holds: (folder: string) => string | null
+  readonly holds: (folder: string) => readonly string[]
   readonly declared: (folder: string) => ReadonlySet<string>
   readonly parts: (page: Held) => readonly string[]
   readonly partOf: (page: Held) => readonly string[]
@@ -160,7 +160,7 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder answers with the page type and the slug of the one page in that folder.",
+      statement: "A folder answers with the page type and the slug of each page in that folder.",
     },
     {
       invariantKind: "departure",

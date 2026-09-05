@@ -259,13 +259,13 @@ export function openingWith(named: string, above: readonly string[]): string | n
 
 export type Holding = {
   readonly names: readonly string[]
-  readonly holds: string | null
+  readonly holds: readonly string[]
   readonly declared: ReadonlySet<string>
 }
 
 export type Holds = (folder: string) => Holding
 
-const NOTHING: Holding = { names: [], holds: null, declared: new Set<string>() }
+const NOTHING: Holding = { names: [], holds: [], declared: new Set<string>() }
 
 function pairs(page: Held, said: Held): boolean {
   return page.pageTypeSlug === PAGE_TYPE && page.slug !== null && said.slug === page.slug
@@ -284,6 +284,11 @@ function declaredBy(index: Answering, page: Held | undefined): readonly string[]
   if (page === undefined || page.slug === null || page.pageTypeSlug === null) return []
   const value = index.pageAt(page.pageTypeSlug, page.slug)
   return value === null ? [] : (textsAt(value, PART_SLUGS) ?? [])
+}
+
+function identityOf(page: Held | undefined): readonly string[] {
+  if (page === undefined || page.slug === null || page.pageTypeSlug === null) return []
+  return [`${page.pageTypeSlug}/${page.slug}`]
 }
 
 export function holdingOver(
@@ -309,7 +314,7 @@ export function holdingOver(
       const plural = value === null ? null : textAt(value, PLURAL_SLUG)
       made = {
         names: plural === null ? [page.slug] : [page.slug, plural],
-        holds: `${page.pageTypeSlug}/${page.slug}`,
+        holds: [...identityOf(paired[0]), ...identityOf(paired[1])],
         declared: new Set<string>([
           ...(value === null ? [] : (textsAt(value, PART_SLUGS) ?? [])),
           ...declaredBy(index, paired[1]),

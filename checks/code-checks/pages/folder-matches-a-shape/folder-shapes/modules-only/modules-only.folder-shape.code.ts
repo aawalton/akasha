@@ -22,17 +22,17 @@ export function modulesOnly(standing: Standing): readonly string[] {
   const loose: string[] = []
   for (const at of standing.subfolders) {
     const held = standing.holds(at)
-    if (held === null || !standing.extending(held.split("/")[0] ?? "", MODULE)) {
+    if (!held.some((one) => standing.extending(one.split("/")[0] ?? "", MODULE))) {
       other.push(at)
       continue
     }
-    if (holding !== null && !declared.has(held)) loose.push(at)
+    if (holding.length > 0 && !held.some((one) => declared.has(one))) loose.push(at)
   }
   if (other.length > 0) {
     said.push(`${other.length} subfolders hold no module: ${saidInside(standing.folder, other)}`)
   }
   if (loose.length > 0) {
-    const slug = holding === null ? "" : (holding.split("/")[1] ?? "")
+    const slug = holding[0]?.split("/")[1] ?? ""
     said.push(
       `${loose.length} modules are no part \`${slug}\` declares: ${saidInside(standing.folder, loose)}`
     )

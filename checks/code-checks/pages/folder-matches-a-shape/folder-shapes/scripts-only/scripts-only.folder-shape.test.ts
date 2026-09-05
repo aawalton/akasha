@@ -8,10 +8,10 @@ const OTHER = "akasha/code-system/ios-harnesses/shell-scripts"
 
 const PAGE_TYPES = new Set<string>(["shell-script", "module"])
 
-function holdsAt(at: string): string | null {
-  if (at.endsWith("/render-harness-run")) return "shell-script/render-harness-run"
-  if (at.endsWith("/notes")) return "module/notes"
-  return null
+function holdsAt(at: string): readonly string[] {
+  if (at.endsWith("/render-harness-run")) return ["shell-script/render-harness-run"]
+  if (at.endsWith("/notes")) return ["module/notes"]
+  return []
 }
 
 function judged(deep: readonly string[], names: readonly string[]): readonly string[] {

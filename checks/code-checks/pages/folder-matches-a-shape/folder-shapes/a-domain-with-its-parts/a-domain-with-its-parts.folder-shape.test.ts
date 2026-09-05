@@ -10,10 +10,10 @@ const DOMAINS = new Set<string>(["domain", "page-type", "module"])
 
 const DECLARED = new Set<string>(["page-type/model-family", "module/model-asking"])
 
-function holdsAt(at: string): string | null {
-  if (at.endsWith("/families")) return "page-type/model-family"
-  if (at.endsWith("/stray")) return "domain/other"
-  return null
+function holdsAt(at: string): readonly string[] {
+  if (at.endsWith("/families")) return ["page-type/model-family"]
+  if (at.endsWith("/stray")) return ["domain/other"]
+  return []
 }
 
 function judged(deep: readonly string[], names: readonly string[]): readonly string[] {

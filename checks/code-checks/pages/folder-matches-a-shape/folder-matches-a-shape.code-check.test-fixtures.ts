@@ -44,7 +44,7 @@ export function folderFrom(shaping: Shaping): (names: readonly string[]) => Stan
       under: (at) => grouped.at(at),
       declaring,
       naming: shaping.naming ?? ((): null => null),
-      holds: shaping.holds ?? ((): null => null),
+      holds: shaping.holds ?? ((): readonly string[] => []),
       declared: shaping.declared ?? ((): ReadonlySet<string> => new Set<string>()),
       parts: shaping.parts ?? ((page) => [page.path]),
       partOf: shaping.partOf ?? ((): readonly string[] => []),

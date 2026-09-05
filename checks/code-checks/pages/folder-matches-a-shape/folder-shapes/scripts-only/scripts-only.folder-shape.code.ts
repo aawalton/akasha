@@ -17,7 +17,7 @@ export function scriptsOnly(standing: Standing): readonly string[] {
   }
   const other = standing.subfolders.filter((at) => {
     const held = standing.holds(at)
-    return held === null || !held.startsWith(`${SHELL_SCRIPT}/`)
+    return !held.some((one) => one.startsWith(`${SHELL_SCRIPT}/`))
   })
   if (other.length > 0) {
     said.push(
