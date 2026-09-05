@@ -100,7 +100,7 @@ index edf0697d915c93b79ae3cc4b77e1c826d7a43998..c3d9095197397b5bab2396fc010beaa4
      {
        invariantKind: "departure",
 diff --git a/testing-system/testing-system.workspace-package.ts b/testing-system/testing-system.workspace-package.ts
-index 9e951a20191b298a9e9eed396f6847d6460d0639..49215bceb93c6f141bdd71050c6cbc24564d26a6 100644
+index 9e951a20191b298a9e9eed396f6847d6460d0639..e300a0b5c7a460583bf7bd222d6231c3150c6a7c 100644
 --- a/testing-system/testing-system.workspace-package.ts
 +++ b/testing-system/testing-system.workspace-package.ts
 @@ -4,7 +4,7 @@ export const testingSystem = {
@@ -112,7 +112,7 @@ index 9e951a20191b298a9e9eed396f6847d6460d0639..49215bceb93c6f141bdd71050c6cbc24
    manifest: "json",
    partSlugs: [
      "domain/test",
-@@ -22,15 +22,15 @@ export const testingSystem = {
+@@ -22,20 +22,20 @@ export const testingSystem = {
    invariants: [
      {
        invariantKind: "departure",
@@ -128,6 +128,12 @@ index 9e951a20191b298a9e9eed396f6847d6460d0639..49215bceb93c6f141bdd71050c6cbc24
        invariantKind: "departure",
 -      statement: "What one module's tests need stands in fixtures beside that module.",
 +      statement: "What one module's tests need is in fixtures beside that module.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A fixture beside a module reaches for what stands here rather than spelling it again.",
++        "A fixture beside a module reaches for what is here rather than spelling it again.",
      },
      {
        invariantKind: "departure",
