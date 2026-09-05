@@ -1247,3 +1247,11 @@ index 5a7137a3b6df2198c18c4933575f8f7aecc26782..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-lib-histoire
 \ No newline at end of file
+diff --git a/temper/temper-lib-main-menu/temper-lib-main-menu b/temper/temper-lib-main-menu/temper-lib-main-menu
+deleted file mode 120000
+index 09b0e09c9cf368d17417477bf0671d2c43f7a377..0000000000000000000000000000000000000000
+--- a/temper/temper-lib-main-menu/temper-lib-main-menu
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-lib-main-menu
+\ No newline at end of file
