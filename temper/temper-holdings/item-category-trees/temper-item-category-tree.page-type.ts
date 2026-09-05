@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { TemperThing } from "../../temper-things/temper-thing.page-type.ts"
 import type { ArmorTypes } from "./properties/armor-types.number-property.ts"
 import type { EquipTypes } from "./properties/equip-types.number-property.ts"

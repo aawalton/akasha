@@ -1,7 +1,7 @@
 import { execFileSync } from "node:child_process"
 import { existsSync, readdirSync, readFileSync, rmSync, statSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
-import { codeRoot } from "@akasha/pages-system/code-root"
+import { codeRoot } from "@akasha/pages/code-root"
 import { z } from "zod"
 
 const PKG_JSON_PARTIAL_SCHEMA = z.object({ workspaces: z.unknown().optional() }).passthrough()

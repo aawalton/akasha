@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { CapturedAt } from "../../temper-catalog/temper-world/properties/captured-at.instant-property.ts"
 import type { TemperThing } from "../../temper-things/temper-thing.page-type.ts"
 import type { TotalValue } from "./properties/total-value.number-property.ts"
@@ -23,7 +23,7 @@ export const temperHoldingsThing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reading states an account's total value at one moment.",
+      statement: "A reading states what an account was worth at one moment.",
     },
   ],
 } as const satisfies PageType

@@ -1,7 +1,7 @@
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { OperationalError } from "@akasha/errors-core/exit-code"
-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { akashaRoot } from "@akasha/pages/checkout-roots"
 import { pidAliveOrAssumeDead } from "@akasha/utils-process/pid-signal"
 import { z } from "zod"
 import { watcherConfigDir, watcherLogDir } from "../watcher-paths/watcher-paths.module.code.ts"
@@ -26,8 +26,7 @@ export const WORKER_LOG = "watcher.log"
 
 export const ROLLED_LOG = "watcher.1.log"
 
-export const WORKER_ENTRY =
-  "temper/temper-watcher/watcher-worker/watcher-worker.module.code.ts"
+export const WORKER_ENTRY = "temper/temper-watcher/watcher-worker/watcher-worker.module.code.ts"
 
 export function stateFilePath(): string {
   return join(watcherConfigDir(), STATE_FILE)

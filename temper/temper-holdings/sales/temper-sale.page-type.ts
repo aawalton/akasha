@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { ItemId } from "../../temper-catalog/temper-catalog-things/properties/item-id.number-property.ts"
 import type { ItemName } from "../../temper-character/mines/properties/item-name.text-property.ts"
 import type { TemperThing } from "../../temper-things/temper-thing.page-type.ts"

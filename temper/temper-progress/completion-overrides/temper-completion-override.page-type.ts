@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
 import type { Floor } from "./properties/floor.number-property.ts"
 import type { OverrideReason } from "./properties/override-reason.text-property.ts"

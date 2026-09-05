@@ -1,6 +1,6 @@
 import { existsSync, readdirSync } from "node:fs"
 import { join } from "node:path"
-import { codeRoot } from "@akasha/pages-system/code-root"
+import { codeRoot } from "@akasha/pages/code-root"
 import {
   expectedWorkspaceBinNames,
   findMissingBins,

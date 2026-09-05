@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
 import type { Completions } from "./properties/completions.page-property-entry.ts"
 import type { Day } from "./properties/day.text-property.ts"

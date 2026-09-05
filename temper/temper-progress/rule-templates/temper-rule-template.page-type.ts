@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { TemperRule } from "../rules/temper-rule.page-type.ts"
 
 export type TemperRuleTemplate = TemperRule
