@@ -158,9 +158,15 @@ test("a part that stopped is told no more", async () => {
 })
 
 // Both files are written before this follows one of them. Were only one written, a part told about
-// the other would find nothing to read and draw nothing anyway, so the test would pass with the
-// name filtered or not, and what it claims to prove it would not be proving at all.
-test("a file for one part is not read for another", async () => {
+// the other would find nothing to read and draw nothing anyway, so the test would hold with the
+// name filtered or not.
+//
+// What this does not prove is the name filter itself. Filtering the name saves a read, and a read
+// that is saved is invisible from out here: with the filter gone, every part re-reads its own file
+// on every event and finds the same bytes, so nothing is drawn either way and the assertion below
+// holds. The filter is a cost guard, and what shows it working is the count of events a folder
+// raises rather than anything asserted here.
+test("a part is not redrawn when another part's file is written", async () => {
   serviceWrites('{"roots":[{"key":"work"}]}')
   writeFileSync(stateAt(root, "agent-tree"), '{"roots":[{"key":"agent"}]}\n', "utf8")
   const seen: unknown[] = []
