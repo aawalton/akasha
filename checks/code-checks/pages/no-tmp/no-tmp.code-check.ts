@@ -39,7 +39,7 @@ export const noTmp = {
     },
     {
       invariantKind: "departure",
-      statement: "What a page type says of its pages holds for the files beside those pages.",
+      statement: "A page type's claim about its pages holds for the files beside those pages.",
     },
     {
       invariantKind: "gap",
