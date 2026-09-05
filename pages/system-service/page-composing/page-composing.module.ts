@@ -107,7 +107,23 @@ export const pageComposing = {
     {
       invariantKind: "departure",
       statement:
-        "A value under a property held in a file names that file's ending rather than that file's body.",
+        "A value under a file property names that file's ending rather than that file's body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value under an entry property is the rows themselves or that file's ending.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The files those rows fill are put alongside the page carrying them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A numbered file those rows no longer fill is taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page naming no ending for its entries takes `jsonl`.",
     },
     {
       invariantKind: "departure",
@@ -123,7 +139,7 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "Several pages compose into what one write puts and what the write keeps.",
+      statement: "Several pages compose into what one write puts, keeps and takes away.",
     },
     {
       invariantKind: "departure",

@@ -1,7 +1,12 @@
+import { existsSync } from "node:fs"
+import { join } from "node:path"
 import { listedAt } from "@akasha/indexes"
-import { fileKeysAt, filePropertiesAt } from "@akasha/indexes/entries"
+import { ENTRY_PROPERTY, fileKeysAt, filePropertiesAt } from "@akasha/indexes/entries"
+import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
 import { bodyOf, importedFrom, unnamedIn } from "@akasha/pages-system/page-body"
+import { partsOver } from "@akasha/pages-system/page-entry-writing"
 import { besideAt } from "@akasha/pages-system/page-file-name"
+import { partsOf } from "@akasha/pages-system/page-file-parts"
 import { type Carried, propertiesFrom, sourceIn } from "@akasha/pages-system/page-type-properties"
 import { textAt, type Value, valueAt } from "@akasha/pages-system/page-value"
 
@@ -10,6 +15,8 @@ const PAGE_TYPE = "page-type"
 const PLURAL = "pluralSlug"
 
 const ID = "id"
+
+const JSONL = "jsonl"
 
 export type Naming = {
   readonly pageTypeSlug: string
@@ -29,7 +36,12 @@ export type Kept = {
 }
 
 export type Composed =
-  | { readonly put: Put; readonly kept: Kept | null }
+  | {
+      readonly put: Put
+      readonly kept: Kept | null
+      readonly parts: readonly Put[]
+      readonly removes: readonly string[]
+    }
   | { readonly refused: string }
 
 export function orderedIn(carried: readonly Carried[]): readonly Carried[] {
@@ -169,6 +181,8 @@ export function composedFor(root: string, named: Naming): Composed {
   const already: Value = named.merge === true && was !== null ? was : {}
   const outside: Value = {}
   const inside: Value = {}
+  const parts: Put[] = []
+  const removes: string[] = []
   const filedBy = filePropertiesAt(root).get(named.pageTypeSlug)
   for (const one of carried) {
     const stated = one.key in named.values
@@ -176,6 +190,17 @@ export function composedFor(root: string, named: Naming): Composed {
     const value = stated ? named.values[one.key] : already[one.key]
     if (one.uncommitted) {
       outside[one.key] = value
+      continue
+    }
+    if (one.pageTypeSlug === ENTRY_PROPERTY && Array.isArray(value)) {
+      const said = already[one.key]
+      const ending = typeof said === "string" && said !== "" ? said : JSONL
+      const made = partsOver(at, one.propertySlug, ending, value, ENTRY_CEILING)
+      if ("refused" in made) return { refused: made.refused }
+      for (const part of made.parts) parts.push({ path: part.path, content: part.text })
+      const filled = partsOf(at, one.propertySlug, ending, (path) => existsSync(join(root, path)))
+      for (const gone of filled.slice(made.parts.length)) removes.push(gone)
+      inside[one.key] = ending
       continue
     }
     if (filedBy !== undefined && filedBy.get(one.propertySlug) === null) {
@@ -194,21 +219,28 @@ export function composedFor(root: string, named: Naming): Composed {
     values: inside,
   })
   const kept = Object.keys(outside).length === 0 ? null : { path: at, values: outside }
-  return { put: { path: at, content }, kept }
+  return { put: { path: at, content }, kept, parts, removes }
 }
 
 export type Folded =
-  | { readonly puts: readonly Put[]; readonly kept: readonly Kept[] }
+  | {
+      readonly puts: readonly Put[]
+      readonly kept: readonly Kept[]
+      readonly removes: readonly string[]
+    }
   | { readonly refused: string }
 
 export function foldedFor(root: string, named: readonly Naming[]): Folded {
   const puts: Put[] = []
   const kept: Kept[] = []
+  const removes: string[] = []
   for (const one of named) {
     const composed = composedFor(root, one)
     if ("refused" in composed) return { refused: composed.refused }
     puts.push(composed.put)
+    for (const part of composed.parts) puts.push(part)
+    for (const gone of composed.removes) removes.push(gone)
     if (composed.kept !== null) kept.push(composed.kept)
   }
-  return { puts, kept }
+  return { puts, kept, removes }
 }

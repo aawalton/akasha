@@ -46,6 +46,7 @@
     "./page-derive-shape": "./derive-shape/page-derive-shape.module.code.ts",
     "./page-entries": "./entries/page-entries.module.code.ts",
     "./page-entry-queue": "./entry-queue/page-entry-queue.module.code.ts",
+    "./page-entry-writing": "./entry-writing/page-entry-writing.module.code.ts",
     "./page-export-name": "./export-name/page-export-name.module.code.ts",
     "./page-file-name": "./file-name/page-file-name.module.code.ts",
     "./page-file-parts": "./file-parts/page-file-parts.module.code.ts",
