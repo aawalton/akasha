@@ -1,0 +1,15 @@
+diff --git a/editor-extension/editor-extension.workspace-package.ts b/editor-extension/editor-extension.workspace-package.ts
+index e2855edbd9704cccabe052af68b8052a12f8e9ec..c7c0ac5fee0686bc2d4f82d27438c4bb0a61868f 100644
+--- a/editor-extension/editor-extension.workspace-package.ts
++++ b/editor-extension/editor-extension.workspace-package.ts
+@@ -113,6 +113,10 @@ export const editorExtension = {
+       invariantKind: "departure",
+       statement: "A panel row that represents a page names that page.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A row holding a match is drawn open while a filter is there.",
