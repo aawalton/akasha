@@ -1,0 +1,15 @@
+diff --git a/editor-extension/harness-call/harness-call.module.code.ts b/editor-extension/harness-call/harness-call.module.code.ts
+index 43e00625d6ee03c01c8dcbba9ed35940d9bc391e..33703f064603cdbda8cf6d5eefe173369320b3d7 100644
+--- a/editor-extension/harness-call/harness-call.module.code.ts
++++ b/editor-extension/harness-call/harness-call.module.code.ts
+@@ -18,10 +18,6 @@ export function akashaRoot(): string {
+   return stated === undefined || stated === "" ? path.join(os.homedir(), "repos", "akasha") : stated
+ }
+ 
+-export function opsPath(): string {
+-  return path.join(akashaRoot(), "dotfiles", "bin", "ops")
+-}
+-
+ const COMMANDS_AT = "commands"
+ 
+ const SERVER_AT = "command-system/command-server/command-server.module.code.ts"
