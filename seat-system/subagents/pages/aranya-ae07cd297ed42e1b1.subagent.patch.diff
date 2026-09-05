@@ -1,12 +1,50 @@
+diff --git a/infrastructure/telemetry/dcgm-exporter-daemonset/dcgm-exporter-daemonset.manifest.code.ts b/infrastructure/telemetry/dcgm-exporter-daemonset/dcgm-exporter-daemonset.manifest.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..40b898ce07b370d50b0d4b368b41eeccfaf9b536
+--- /dev/null
++++ b/infrastructure/telemetry/dcgm-exporter-daemonset/dcgm-exporter-daemonset.manifest.code.ts
+@@ -0,0 +1,5 @@
++import { dcgmExporterDaemonsetYaml } from "@akasha/cluster-manifests/exporter-daemonsets"
++
++export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
++  return [{ name: "dcgm-exporter-daemonset", yaml: dcgmExporterDaemonsetYaml() }]
++}
+diff --git a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
+index 179f93a5da74cec1230922b03ab70e8ccd3b8453..6dd0661c3e6c1e5dc04508e555470856c47525f4 100644
+--- a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
++++ b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
+@@ -7,6 +7,6 @@ index 7d349ed7d6b83a93d41eb54cd8e74cad4e8caf0b..54f767c0d185e46bdca333c19ecdd130
+    image: "nvcr.io/nvidia/k8s/dcgm-exporter:3.3.8-3.6.0-ubuntu22.04",
+    containerPort: 9400,
+ -  manifestCode:
+--    "service-system/cluster-services/pages/dcgm-exporter-daemonset/dcgm-exporter-daemonset.cluster-service.code.attachment.ts",
++-    "infrastructure/telemetry/dcgm-exporter-daemonset/dcgm-exporter-daemonset.manifest.code.ts",
+ +  manifestSlug: "dcgm-exporter-daemonset",
+  } as const satisfies ClusterService
+diff --git a/service-system/cluster-services/pages/dcgm-exporter-daemonset/dcgm-exporter-daemonset.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/dcgm-exporter-daemonset/dcgm-exporter-daemonset.cluster-service.code.attachment.ts
+deleted file mode 100644
+index 40b898ce07b370d50b0d4b368b41eeccfaf9b536..0000000000000000000000000000000000000000
+--- a/service-system/cluster-services/pages/dcgm-exporter-daemonset/dcgm-exporter-daemonset.cluster-service.code.attachment.ts
++++ /dev/null
+@@ -1,5 +0,0 @@
+-import { dcgmExporterDaemonsetYaml } from "@akasha/cluster-manifests/exporter-daemonsets"
+-
+-export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
+-  return [{ name: "dcgm-exporter-daemonset", yaml: dcgmExporterDaemonsetYaml() }]
+-}
 diff --git a/service-system/cluster-services/pages/dcgm-exporter-daemonset/dcgm-exporter-daemonset.cluster-service.ts b/service-system/cluster-services/pages/dcgm-exporter-daemonset/dcgm-exporter-daemonset.cluster-service.ts
-index 7d349ed7d6b83a93d41eb54cd8e74cad4e8caf0b..54f767c0d185e46bdca333c19ecdd1301981aa22 100644
+index 7d349ed7d6b83a93d41eb54cd8e74cad4e8caf0b..9fa788271d1d78f850f5290adc41ef3da9df5b07 100644
 --- a/service-system/cluster-services/pages/dcgm-exporter-daemonset/dcgm-exporter-daemonset.cluster-service.ts
 +++ b/service-system/cluster-services/pages/dcgm-exporter-daemonset/dcgm-exporter-daemonset.cluster-service.ts
-@@ -10,6 +10,5 @@ export const dcgmExporterDaemonset = {
+@@ -10,6 +10,10 @@ export const dcgmExporterDaemonset = {
    resourceName: "dcgm-exporter",
    image: "nvcr.io/nvidia/k8s/dcgm-exporter:3.3.8-3.6.0-ubuntu22.04",
    containerPort: 9400,
--  manifestCode:
--    "service-system/cluster-services/pages/dcgm-exporter-daemonset/dcgm-exporter-daemonset.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +  manifestSlug: "dcgm-exporter-daemonset",
++=======
+   manifestCode:
+-    "service-system/cluster-services/pages/dcgm-exporter-daemonset/dcgm-exporter-daemonset.cluster-service.code.attachment.ts",
++    "infrastructure/telemetry/dcgm-exporter-daemonset/dcgm-exporter-daemonset.manifest.code.ts",
++>>>>>>> what HEAD holds
  } as const satisfies ClusterService
