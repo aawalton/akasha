@@ -1,3 +1,15 @@
+diff --git a/alan/atlas-web/alan-atlas-web.router-app.ts b/alan/atlas-web/alan-atlas-web.router-app.ts
+index 76cdee75191b288e83d3b2a404952fe1b1bf5716..d89a933aae484bfe0c29c1ce15d8567478048d2e 100644
+--- a/alan/atlas-web/alan-atlas-web.router-app.ts
++++ b/alan/atlas-web/alan-atlas-web.router-app.ts
+@@ -10,6 +10,7 @@ export const alanAtlasWeb = {
+   routeTable: "ts",
+   serverEntry: "tsx",
+   routerConfig: "ts",
++  compileConfig: "json",
+   partSlugs: [
+     "stylesheet/alan-atlas-web-look",
+     "module/atlas-answer-page-types",
 diff --git a/alan/atlas-web/tsconfig.json b/alan/atlas-web/tsconfig.json
 new file mode 100644
 index 0000000000000000000000000000000000000000..13aeec0814c5a7a7e8a32366477391b1a654ec01
@@ -42,6 +54,18 @@ index 0000000000000000000000000000000000000000..13aeec0814c5a7a7e8a32366477391b1
 +  ],
 +  "exclude": ["node_modules", "dist", "build"]
 +}
+diff --git a/alan/web-capacitor/alan-web-capacitor.router-app.ts b/alan/web-capacitor/alan-web-capacitor.router-app.ts
+index 0c2e92a1c07e13a8a26450374b867df7ef1edf28..0af4e793fde1a1172dcc47b8ca7f3943d97672b0 100644
+--- a/alan/web-capacitor/alan-web-capacitor.router-app.ts
++++ b/alan/web-capacitor/alan-web-capacitor.router-app.ts
+@@ -10,6 +10,7 @@ export const alanWebCapacitor = {
+   routeTable: "ts",
+   serverEntry: "tsx",
+   routerConfig: "ts",
++  compileConfig: "json",
+   partSlugs: ["stylesheet/alan-web-capacitor-look"],
+   invariants: [
+     {
 diff --git a/alan/web-capacitor/tsconfig.json b/alan/web-capacitor/tsconfig.json
 new file mode 100644
 index 0000000000000000000000000000000000000000..1c72c8264d948f368b2ca1918ca3fcf212349651
