@@ -13,11 +13,13 @@ export const trackingCapture = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Where a value came from is a page rather than a word on the field that holds it.",
+      statement:
+        "Where a value came from is a page rather than a word on the field that holds that value.",
     },
     {
       invariantKind: "absence",
-      statement: "A capture carries nothing but the name it is reached by and what it means.",
+      statement:
+        "A capture carries nothing but the name that capture is reached by and what that capture means.",
     },
     {
       invariantKind: "gap",
