@@ -157,3 +157,15 @@ index 0000000000000000000000000000000000000000..e5f3f89e0ba3d5d24d76f65d3e669aeb
 +    },
 +  ],
 +} as const satisfies AtomicChange
+diff --git a/code-system/package.json b/code-system/package.json
+index 428a2f46ff909d20d6fdbd1070345ccf3c26e136..43b0cc27e7e2d7cf17a44fbb0aff6de6bb604536 100644
+--- a/code-system/package.json
++++ b/code-system/package.json
+@@ -36,6 +36,7 @@
+     "./name-series": "./name-series/name-series.module.code.ts",
+     "./module/test": "./modules/properties/test.file-property.ts",
+     "./package-manifest": "./package-manifest/package-manifest.module.code.ts",
++    "./path-repointing": "./path-repointing/path-repointing.module.code.ts",
+     "./python-module": "./python-modules/python-module.page-type.ts",
+     "./route": "./routes/route.page-type.ts",
+     "./router-app/root-route": "./router-apps/properties/root-route.named-file-property.ts",
