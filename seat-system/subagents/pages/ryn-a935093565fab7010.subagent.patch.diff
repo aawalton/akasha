@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/agents/claude-accounts/modules/reading/claude-account-reading.module.ts b/agents/claude-accounts/modules/reading/claude-account-reading.module.ts
+index 02de9a259ac31058a1d8d93ef47ecc6237a0529d..3a50ffd5f5c15502c86427845a9f126191ef2a02 100644
+--- a/agents/claude-accounts/modules/reading/claude-account-reading.module.ts
++++ b/agents/claude-accounts/modules/reading/claude-account-reading.module.ts
+@@ -35,7 +35,8 @@ export const claudeAccountReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is observed of an account is read from the file beside that account's page.",
++      statement:
++        "The values observed of an account are read from the file beside that account's page.",
+     },
+     {
+       invariantKind: "departure",
