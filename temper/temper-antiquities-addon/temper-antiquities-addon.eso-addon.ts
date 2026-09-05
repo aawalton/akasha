@@ -84,7 +84,8 @@ export const temperAntiquitiesAddon = {
     },
     {
       invariantKind: "departure",
-      statement: "The pledge tracker is read where it is installed and skipped where it is not.",
+      statement:
+        "The pledge tracker is read where that tracker is installed and skipped where that tracker is not.",
     },
   ],
 } as const satisfies EsoAddon
