@@ -24,11 +24,12 @@ export const exerciseConstraintList = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A constraint tagged for every focus answers to each of them.",
+      statement: "A constraint tagged for every focus answers to each of those focuses.",
     },
     {
       invariantKind: "departure",
-      statement: "A constraint saying nothing about whether it is active is taken as active.",
+      statement:
+        "A constraint saying nothing about whether that constraint is active is taken as active.",
     },
     {
       invariantKind: "absence",
