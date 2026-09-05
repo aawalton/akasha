@@ -1,0 +1,41 @@
+diff --git a/pages/indexes/property-carrying/property-carrying.module.code.ts b/pages/indexes/property-carrying/property-carrying.module.code.ts
+index 4c128f6bf01dd28ac8f5f8b6924df5c97bd561a9..0d51b7a7617ec386a6ca3229761a752af138d21c 100644
+--- a/pages/indexes/property-carrying/property-carrying.module.code.ts
++++ b/pages/indexes/property-carrying/property-carrying.module.code.ts
+@@ -8,6 +8,7 @@ import {
+   listedById,
+   readingIn,
+   schemaOf,
++  valuesOfType,
+ } from "../reading/index-reading.module.code.ts"
+ import type { Reading } from "../shape/index-shape.module.code.ts"
+ 
+@@ -21,6 +22,10 @@ const RECORD_PROPERTY = "record-property"
+ 
+ const FILE_NAME = "fileName"
+ 
++const NAMED_FILE_PROPERTY = "named-file-property"
++
++const MACHINE_WRITTEN = "machineWritten"
++
+ export type Carrying = {
+   readonly pageTypeSlug: string
+   readonly path: string
+@@ -137,3 +142,17 @@ export function heldBeside(
+   }
+   return false
+ }
++
++export function machineWrote(value: Value): boolean {
++  return value[MACHINE_WRITTEN] === true
++}
++
++export function machineWrittenAt(given: string | Reading, path: string): boolean {
++  try {
++    return heldBeside(path, valuesOfType(given, NAMED_FILE_PROPERTY), machineWrote, (named) =>
++      carryingOf(given, named)
++    )
++  } catch {
++    return false
++  }
++}
