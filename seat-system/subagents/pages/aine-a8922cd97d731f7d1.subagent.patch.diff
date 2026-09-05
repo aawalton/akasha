@@ -1,5 +1,5 @@
 diff --git a/checks/modules/check-scratch/check-scratch.module.ts b/checks/modules/check-scratch/check-scratch.module.ts
-index 93a80b258b07c40ecc3f557c1e7a872c185efb0b..9ec7eda7f5e29cae000ed05bdc1878f4a1241d33 100644
+index 93a80b258b07c40ecc3f557c1e7a872c185efb0b..21c314d00fe6e00e38dfecb1bc77d3e007e9f514 100644
 --- a/checks/modules/check-scratch/check-scratch.module.ts
 +++ b/checks/modules/check-scratch/check-scratch.module.ts
 @@ -5,13 +5,13 @@ export const checkScratch = {
@@ -36,6 +36,15 @@ index 93a80b258b07c40ecc3f557c1e7a872c185efb0b..9ec7eda7f5e29cae000ed05bdc1878f4
      },
      {
        invariantKind: "absence",
+@@ -68,7 +68,7 @@ export const checkScratch = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "What stands here is stood up by the check tests that reach for what is here.",
++      statement: "What is here is set up by the check tests that reach for what is here.",
+     },
+   ],
+ } as const satisfies Module
 diff --git a/checks/modules/checking/checking.module.code.ts b/checks/modules/checking/checking.module.code.ts
 index 4316f96e9352b57e9629d5666e3149430cc8c39b..e7ee6359949590f20bbdf10a70ee8fe34871149b 100644
 --- a/checks/modules/checking/checking.module.code.ts
