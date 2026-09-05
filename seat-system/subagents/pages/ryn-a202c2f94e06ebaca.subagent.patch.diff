@@ -1,0 +1,14 @@
+diff --git a/alan/harness/monarch/land-files/monarch-land-files.module.ts b/alan/harness/monarch/land-files/monarch-land-files.module.ts
+index af81f75627815832b7738f9b849addf7c8af807f..067d450ea82ddd1483a2f99e83af925f1d5b1af2 100644
+--- a/alan/harness/monarch/land-files/monarch-land-files.module.ts
++++ b/alan/harness/monarch/land-files/monarch-land-files.module.ts
+@@ -15,8 +15,7 @@ export const monarchLandFiles = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A line is written in the entry shape's own key order however it was built, so a resync that changes nothing rewrites nothing.",
++      statement: "A line is written in the entry shape's own key order however the line was built.",
+     },
+     {
+       invariantKind: "departure",
