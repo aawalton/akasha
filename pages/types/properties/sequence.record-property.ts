@@ -31,7 +31,7 @@ export const sequence = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type with none above it and none of its own stands in no run.",
+      statement: "A page type with none above that page type and none of its own stands in no run.",
     },
     {
       invariantKind: "departure",
