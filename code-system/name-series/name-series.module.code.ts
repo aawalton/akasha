@@ -267,8 +267,8 @@ export function stageSeries(
       [page.pageRel, page.page, true],
     ]
     for (const [rel, body, isPage] of candidates) {
-      const stands = existsSync(resolve(root, rel))
-      if (isPage && stands) {
+      const there = existsSync(resolve(root, rel))
+      if (isPage && there) {
         files.push({ rel, at: null, standing: true })
         continue
       }
@@ -279,7 +279,7 @@ export function stageSeries(
       const at = join(stage, rel)
       mkdirSync(dirname(at), { recursive: true })
       writeFileSync(at, body)
-      files.push({ rel, at, standing: stands })
+      files.push({ rel, at, standing: there })
       changed.push(rel)
       argv.push("--file-path", rel, "--content-file", at)
     }
