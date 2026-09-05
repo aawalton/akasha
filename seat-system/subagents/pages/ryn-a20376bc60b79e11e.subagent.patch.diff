@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/code-system/file-purposes/file-purpose.page-type.ts b/code-system/file-purposes/file-purpose.page-type.ts
+index d782640c562f0c3f290f808a04acddf5c02f9a8e..99771e10cb50db5560e814022621303f85b65ed2 100644
+--- a/code-system/file-purposes/file-purpose.page-type.ts
++++ b/code-system/file-purposes/file-purpose.page-type.ts
+@@ -15,7 +15,7 @@ export const filePurpose = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A purpose is told from a file's name rather than from what the file holds.",
++      statement: "A purpose is told from a file's name rather than from the file's body.",
+     },
+     {
+       invariantKind: "departure",
