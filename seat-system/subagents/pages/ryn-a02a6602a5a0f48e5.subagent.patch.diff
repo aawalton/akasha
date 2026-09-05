@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-commands/temper-inventory-master-craft-trace/temper-inventory-master-craft-trace.command.ts b/temper/temper-commands/temper-inventory-master-craft-trace/temper-inventory-master-craft-trace.command.ts
+index 5129b1fa36d6693fe7027d1564f14bcf3256677f..ae638f9e9b99c81fd6e1d7099793892d8bd5fe8c 100644
+--- a/temper/temper-commands/temper-inventory-master-craft-trace/temper-inventory-master-craft-trace.command.ts
++++ b/temper/temper-commands/temper-inventory-master-craft-trace/temper-inventory-master-craft-trace.command.ts
+@@ -26,7 +26,7 @@ export const temperInventoryMasterCraftTrace = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Each trace carries what the craft came to.",
++      statement: "Each trace carries the craft's outcome.",
+     },
+   ],
+ } as const satisfies Command
