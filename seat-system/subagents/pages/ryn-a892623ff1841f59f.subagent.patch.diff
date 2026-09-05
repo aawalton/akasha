@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/refactor/token-renaming/token-renaming.module.ts b/commands/refactor/token-renaming/token-renaming.module.ts
+index fcfdbf2f8c8b6f83d6422abb3d3c828eb962291b..3d83a0c6fd83cf3d57a47ece3f6834a8008668ff 100644
+--- a/commands/refactor/token-renaming/token-renaming.module.ts
++++ b/commands/refactor/token-renaming/token-renaming.module.ts
+@@ -36,7 +36,7 @@ export const tokenRenaming = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a name reaches from a declaration is asked of the checker's scopes.",
++      statement: "A name's reach from a declaration is asked of the checker's scopes.",
+     },
+     {
+       invariantKind: "departure",
