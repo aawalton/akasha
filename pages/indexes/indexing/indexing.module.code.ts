@@ -23,8 +23,6 @@ import { identityIn } from "../identity/index-identity.index.code.ts"
 import { indexIdentity } from "../identity/index-identity.index.ts"
 import { importIn } from "../import/index-import.index.code.ts"
 import { indexImport } from "../import/index-import.index.ts"
-import { schemaIn } from "../index/schema/index-schema.index.code.ts"
-import { indexSchema } from "../index/schema/index-schema.index.ts"
 import { valueIn } from "../index/value/index-value.index.code.ts"
 import { indexValue } from "../index/value/index-value.index.ts"
 import {
@@ -60,6 +58,8 @@ import { indexPath } from "../path/index-path.index.ts"
 import { knownIn } from "../reaching/reaching.module.code.ts"
 import { NOTHING_FILED, relationIn } from "../relation/index-relation.index.code.ts"
 import { indexRelation } from "../relation/index-relation.index.ts"
+import { schemaIn } from "../schema/index-schema.index.code.ts"
+import { indexSchema } from "../schema/index-schema.index.ts"
 
 const IDENTITY = indexIdentity.name
 
