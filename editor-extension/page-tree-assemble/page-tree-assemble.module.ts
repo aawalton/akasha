@@ -55,20 +55,21 @@ export const pageTreeAssemble = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type names any number of types above it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page type naming two types above it is drawn once under each of them.",
+      statement: "A page type names any number of types above that page type.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The drawing under the first type a page type names above it keeps the id `type/<slug>`.",
+        "A page type naming two types above that page type is drawn once under each of those types.",
     },
     {
       invariantKind: "departure",
-      statement: "A later drawing takes its id from the parent it hangs under.",
+      statement:
+        "The drawing under the first type a page type names above that page type keeps the id `type/<slug>`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A later drawing takes its id from the parent that drawing hangs under.",
     },
     {
       invariantKind: "departure",
