@@ -671,3 +671,11 @@ index 5102b0b3c9ec2f9e07e64f6c1e3e30b40417c049..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-capture-shapes
 \ No newline at end of file
+diff --git a/temper/temper-capture-writer/temper-capture-writer b/temper/temper-capture-writer/temper-capture-writer
+deleted file mode 120000
+index 120970693e596069284250c134dc0e7b122b45f6..0000000000000000000000000000000000000000
+--- a/temper/temper-capture-writer/temper-capture-writer
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-capture-writer
+\ No newline at end of file
