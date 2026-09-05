@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/system-service/kinds-gathering/kinds-gathering.module.ts b/pages/system-service/kinds-gathering/kinds-gathering.module.ts
-index 8efe5f33d5b5e3c73f2f7701beb77bbea8dbd420..7717011eafa01759b085c98cdb1449caa7782c86 100644
+index 8efe5f33d5b5e3c73f2f7701beb77bbea8dbd420..298fe78ea405ecbb586bac76033f93169affc1fb 100644
 --- a/pages/system-service/kinds-gathering/kinds-gathering.module.ts
 +++ b/pages/system-service/kinds-gathering/kinds-gathering.module.ts
 @@ -11,7 +11,7 @@ export const kindsGathering = {
@@ -12,3 +12,12 @@ index 8efe5f33d5b5e3c73f2f7701beb77bbea8dbd420..7717011eafa01759b085c98cdb1449ca
      },
      {
        invariantKind: "departure",
+@@ -43,7 +43,7 @@ export const kindsGathering = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here orders, narrows or cuts the rows it gathers.",
++      statement: "Nothing here orders, narrows or cuts the rows this module gathers.",
+     },
+     {
+       invariantKind: "absence",
