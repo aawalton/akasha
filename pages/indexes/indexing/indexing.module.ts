@@ -90,7 +90,7 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
-      statement: "What a change files is read against the world the change leaves.",
+      statement: "The entries a change files are read against the world the change leaves.",
     },
     {
       invariantKind: "departure",
