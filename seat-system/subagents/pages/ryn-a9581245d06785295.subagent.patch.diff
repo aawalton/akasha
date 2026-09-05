@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/indexes/package-reaching/package-reaching.module.ts b/pages/indexes/package-reaching/package-reaching.module.ts
+index 04818fbdc58bb047474a4be7d7d94beadc21296e..1d4f007a6f4a15a75d2f797131e03f0fcb7bb20b 100644
+--- a/pages/indexes/package-reaching/package-reaching.module.ts
++++ b/pages/indexes/package-reaching/package-reaching.module.ts
+@@ -56,7 +56,7 @@ export const packageReaching = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Where a specifier landed before a change is read from the manifests as they were.",
++        "Where a specifier landed before a change is read from the manifests as those manifests were.",
+     },
+     {
+       invariantKind: "departure",
