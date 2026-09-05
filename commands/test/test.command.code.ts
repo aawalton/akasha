@@ -200,10 +200,9 @@ export function detailOf(output: string): readonly string[] {
   const lines = plain(output).split("\n")
   while (lines.length > 0 && lines[lines.length - 1] === "") lines.pop()
   if (lines.length === 0) return [SAID_NOTHING]
-  const found = lines.findIndex((one) => one.startsWith(FAILED))
   const kept: string[] = []
   let bytes = 0
-  for (let at = found === -1 ? 0 : found; at < lines.length; at += 1) {
+  for (let at = 0; at < lines.length; at += 1) {
     const line = lines[at] ?? ""
     const size = new TextEncoder().encode(line).length + 1
     if (kept.length >= DETAIL_LINES || bytes + size > DETAIL_BYTES) break
