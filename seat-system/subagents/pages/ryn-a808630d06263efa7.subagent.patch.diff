@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/service-system/workstation-services/pages/recipient-resolver.workstation-service.ts b/service-system/workstation-services/pages/recipient-resolver.workstation-service.ts
+index 9a0840cf44708f4f8e05a936a66935acda34518a..52fa29fe264be671d97507fdc3d21043ce364371 100644
+--- a/service-system/workstation-services/pages/recipient-resolver.workstation-service.ts
++++ b/service-system/workstation-services/pages/recipient-resolver.workstation-service.ts
+@@ -16,7 +16,7 @@ export const recipientResolver = {
+   invariants: [
+     {
+       invariantKind: "gap",
+-      statement: "A message with no recipient is resolved by what it states.",
++      statement: "A message with no recipient is resolved by what that message states.",
+     },
+     {
+       invariantKind: "gap",
