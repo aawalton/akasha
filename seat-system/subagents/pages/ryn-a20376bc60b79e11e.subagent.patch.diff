@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/health-samples-access/sample-shape/sample-shape.module.ts b/health-samples-access/sample-shape/sample-shape.module.ts
+index db50f1c3e05fc2c34a14f8b79165c77c5c82e486..40aba16f93d4a2f11705be1f68be4aabd86e53eb 100644
+--- a/health-samples-access/sample-shape/sample-shape.module.ts
++++ b/health-samples-access/sample-shape/sample-shape.module.ts
+@@ -14,7 +14,7 @@ export const sampleShape = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A stored reading carries the instant the reading arrived on top of what was read.",
++        "A stored reading carries the instant the reading arrived on top of the value read.",
+     },
+     {
+       invariantKind: "absence",
