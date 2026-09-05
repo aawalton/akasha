@@ -230,6 +230,18 @@ index b02054a820a0ad77f432b7f2af69822261d82ad0..00000000000000000000000000000000
 -    },
 -  ],
 -} as const satisfies Module
+diff --git a/alan/tracking/daily/tracking-daily.domain.ts b/alan/tracking/daily/tracking-daily.domain.ts
+index bcc1421716f3023bd43eff85aaad520f85f4f5bd..ae3f8e36bc72bd0ebef57fa5cf058051e4be859d 100644
+--- a/alan/tracking/daily/tracking-daily.domain.ts
++++ b/alan/tracking/daily/tracking-daily.domain.ts
+@@ -9,7 +9,6 @@ export const trackingDaily = {
+     "page-type/email-entry",
+     "page-type/eso-day",
+     "page-type/wake-day",
+-    "module/day-figures",
+     "module/day-narrow-types",
+     "module/day-place",
+     "module/tracking-shape",
 diff --git a/pages/computed-properties/computed-property.page-type.ts b/pages/computed-properties/computed-property.page-type.ts
 index 07fb75fa538fe46797fc09296812287572b47186..a3e86cd5fd000adb40b07bba1209e19f82aaea3b 100644
 --- a/pages/computed-properties/computed-property.page-type.ts
