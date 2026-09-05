@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/indexes/index.page-type.ts b/pages/indexes/index.page-type.ts
+index 9a1fc14a364eeca18bf3da5a9cda14871f65025f..46e32b69c5957074bc6a3b5874be76fe551d1c4b 100644
+--- a/pages/indexes/index.page-type.ts
++++ b/pages/indexes/index.page-type.ts
+@@ -39,7 +39,7 @@ export const index = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The code beside it files that and nothing else.",
++      statement: "The code beside the index page files that and nothing else.",
+     },
+     {
+       invariantKind: "departure",
