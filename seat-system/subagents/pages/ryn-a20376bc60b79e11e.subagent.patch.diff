@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.code-check.ts b/checks/code-checks/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.code-check.ts
+index 909075a435d84df8af95d9366aaea5c27e03e498..789ed13a9ae75c037cc728d713c118047b4ff711 100644
+--- a/checks/code-checks/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.code-check.ts
++++ b/checks/code-checks/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.code-check.ts
+@@ -66,7 +66,7 @@ export const nameFormatJudgesByOneShape = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "What a shape lets through is not judged here.",
++      statement: "The names a shape lets through are not judged here.",
+     },
+     {
+       invariantKind: "absence",
