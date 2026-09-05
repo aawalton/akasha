@@ -1,5 +1,5 @@
 diff --git a/agents/claude-accounts/modules/health/claude-account-health.module.ts b/agents/claude-accounts/modules/health/claude-account-health.module.ts
-index f936f2409ca973d003e22b063b34e0b524d2d1e6..850fcdead1fff8903948157ebf264562b8bf0dec 100644
+index f936f2409ca973d003e22b063b34e0b524d2d1e6..055eeb10443e235c300caaa5ea372f9d8380f4ff 100644
 --- a/agents/claude-accounts/modules/health/claude-account-health.module.ts
 +++ b/agents/claude-accounts/modules/health/claude-account-health.module.ts
 @@ -19,7 +19,8 @@ export const claudeAccountHealth = {
@@ -12,3 +12,13 @@ index f936f2409ca973d003e22b063b34e0b524d2d1e6..850fcdead1fff8903948157ebf264562
      },
      {
        invariantKind: "departure",
+@@ -113,7 +114,8 @@ export const claudeAccountHealth = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A stale at-limit mark names the account and says nothing of which window it is.",
++      statement:
++        "A stale at-limit mark names the account and says nothing of which window that mark is.",
+     },
+   ],
+ } as const satisfies Module
