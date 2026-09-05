@@ -1,0 +1,13 @@
+diff --git a/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.ts b/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.ts
+index 4907e592c40e62978cf797ebd0043f06d90ffcfa..26668e078f44fed709fc85bcb51cda2a0cba03ec 100644
+--- a/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.ts
++++ b/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.ts
+@@ -18,7 +18,7 @@ export const terminalSeatLaunchers = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A session is live only where it holds a pane that is not dead.",
++      statement: "A session is live only where that session holds a pane that is not dead.",
+     },
+     {
+       invariantKind: "departure",
