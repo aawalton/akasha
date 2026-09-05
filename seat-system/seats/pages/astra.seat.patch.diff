@@ -1,0 +1,20 @@
+diff --git a/pages/ui/components/quick-add/components-quick-add.domain.ts b/pages/ui/components/quick-add/components-quick-add.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cdec0d9b02e15a7ed04ebca0b63e8f447b503590
+--- /dev/null
++++ b/pages/ui/components/quick-add/components-quick-add.domain.ts
+@@ -0,0 +1,14 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const componentsQuickAdd = {
++  id: "01a071d3-63bd-7123-8d21-2d607ec892bb",
++  pageTypeSlug: "domain",
++  slug: "components-quick-add",
++  definition: "a page made from one line of text",
++  partSlugs: [
++    "module/compute-quick-add-payload",
++    "module/parse-inline-tokens",
++    "module/use-active-quick-add-page-type",
++    "module/use-inline-completion",
++  ],
++} as const satisfies Domain
