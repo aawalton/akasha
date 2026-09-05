@@ -101,11 +101,12 @@ export const properties = {
     {
       invariantKind: "departure",
       statement:
-        "A value stands in the commit unless the declaration carrying it says it does not.",
+        "A value stands in the commit unless the declaration carrying that value says that value does not.",
     },
     {
       invariantKind: "departure",
-      statement: "A value stands in the open unless the declaration carrying it says it does not.",
+      statement:
+        "A value stands in the open unless the declaration carrying that value says that value does not.",
     },
   ],
 } as const satisfies RecordProperty
