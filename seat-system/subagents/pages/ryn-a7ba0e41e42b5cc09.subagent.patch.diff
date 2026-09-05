@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/mobile-cli/mobile-cli.workspace-package.ts b/mobile-cli/mobile-cli.workspace-package.ts
-index 4b285e09926fc22ba14264736f6f82218065f1f4..725039a02737508dbb722d3f701f02cc581ac9e9 100644
+index 4b285e09926fc22ba14264736f6f82218065f1f4..b791530312e2e86625fd4f09e998658050cca5ee 100644
 --- a/mobile-cli/mobile-cli.workspace-package.ts
 +++ b/mobile-cli/mobile-cli.workspace-package.ts
 @@ -50,7 +50,7 @@ export const mobileCli = {
@@ -12,3 +12,12 @@ index 4b285e09926fc22ba14264736f6f82218065f1f4..725039a02737508dbb722d3f701f02cc
      },
      {
        invariantKind: "absence",
+@@ -62,7 +62,7 @@ export const mobileCli = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The build on a phone can disagree with what the server is already sending.",
++      statement: "The build on a phone can disagree with the build the server is already sending.",
+     },
+     {
+       invariantKind: "departure",
