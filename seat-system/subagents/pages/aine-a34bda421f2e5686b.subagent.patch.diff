@@ -1,8 +1,8 @@
 diff --git a/code-system/ios-apps/app-building/app-building.module.code.ts b/code-system/ios-apps/app-building/app-building.module.code.ts
-index b7de7c9d1fbe60b1762c96533f2bab2d6743ed9e..a3d2ce5bff8684b765b89d918a3559fd9384436e 100644
+index b7de7c9d1fbe60b1762c96533f2bab2d6743ed9e..74d4d89728ef545ccdd881e721257f2cf3caf5ac 100644
 --- a/code-system/ios-apps/app-building/app-building.module.code.ts
 +++ b/code-system/ios-apps/app-building/app-building.module.code.ts
-@@ -108,7 +108,7 @@ type Found = { readonly at: string } | { readonly why: string }
+@@ -108,10 +108,10 @@ type Found = { readonly at: string } | { readonly why: string }
  function shellOf(root: string, named: string, appSlug: string, kind: string): Found {
    const page = pathOf(root, "shell-script", slugOf(named))
    if (page === null) {
@@ -10,7 +10,11 @@ index b7de7c9d1fbe60b1762c96533f2bab2d6743ed9e..a3d2ce5bff8684b765b89d918a3559fd
 +    return { why: `${appSlug} names the ${kind} ${named}, and no such page exists` }
    }
    const at = besideAt(page, "shell", "sh")
-   return at === null ? { why: `no shell file can stand beside ${page}` } : { at }
+-  return at === null ? { why: `no shell file can stand beside ${page}` } : { at }
++  return at === null ? { why: `no shell file can sit beside ${page}` } : { at }
+ }
+ 
+ type Staged = { readonly staging: Staging | null } | { readonly why: string }
 diff --git a/code-system/ios-apps/app-building/app-building.module.test.ts b/code-system/ios-apps/app-building/app-building.module.test.ts
 index 666b606356d0d6eda32d2404a4c2962766540de2..cd8d29eda93ce667de550ee56a5f30c0348b4c2d 100644
 --- a/code-system/ios-apps/app-building/app-building.module.test.ts
@@ -25,15 +29,20 @@ index 666b606356d0d6eda32d2404a4c2962766540de2..cd8d29eda93ce667de550ee56a5f30c0
  })
  
 diff --git a/code-system/ios-apps/ios-app.page-type.ts b/code-system/ios-apps/ios-app.page-type.ts
-index fe34777f04412e1aaf43991a23bf73458ff0fb0c..81edf39a6722889d6f344f9dcadb1086d2dfb4ec 100644
+index fe34777f04412e1aaf43991a23bf73458ff0fb0c..35c0155c7ddbd877352af7866a9e7e589e5aad7d 100644
 --- a/code-system/ios-apps/ios-app.page-type.ts
 +++ b/code-system/ios-apps/ios-app.page-type.ts
-@@ -120,7 +120,7 @@ export const iosApp = {
+@@ -120,11 +120,11 @@ export const iosApp = {
      },
      {
        invariantKind: "departure",
 -      statement: "The programs an app builds stand among its parts.",
 +      statement: "The programs an app builds are among its parts.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A script one app runs stands beside that app.",
++      statement: "A script one app runs sits beside that app.",
      },
      {
        invariantKind: "departure",
