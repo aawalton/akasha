@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/collections/collection-externals/collection-external.page-type.ts b/collections/collection-externals/collection-external.page-type.ts
+index ae54dd68f600a5bc35e51704eed330125cfcf923..5298a1a941e0ab34dd89957daa7a1833310faa96 100644
+--- a/collections/collection-externals/collection-external.page-type.ts
++++ b/collections/collection-externals/collection-external.page-type.ts
+@@ -38,7 +38,7 @@ export const collectionExternal = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a person records about a collection outlives every sync.",
++      statement: "The values a person records about a collection outlive every sync.",
+     },
+     {
+       invariantKind: "departure",
