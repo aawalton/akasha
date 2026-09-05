@@ -24,10 +24,7 @@ export const sessionRows = {
       invariantKind: "departure",
       statement: "A safety no caller said is carried from the stretch before.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A difficulty no caller said is read off the session activities.",
-    },
+
     {
       invariantKind: "departure",
       statement:
