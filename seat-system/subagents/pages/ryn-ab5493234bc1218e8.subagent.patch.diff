@@ -1,0 +1,14 @@
+diff --git a/temper/temper-equipment/temper-equipment.workspace-package.ts b/temper/temper-equipment/temper-equipment.workspace-package.ts
+index ab5f774e39cb286454faa9e9a2582f5861d02edc..6926ceebd457dd0b7bad1a69c2d0e6a68bc22798 100644
+--- a/temper/temper-equipment/temper-equipment.workspace-package.ts
++++ b/temper/temper-equipment/temper-equipment.workspace-package.ts
+@@ -29,5 +29,9 @@ export const temperEquipment = {
+       invariantKind: "departure",
+       statement: "Every set id here is written out from the set pages rather than by hand.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A trait moved to another place breaks every build hash saved.",
++    },
+   ],
+ } as const satisfies WorkspacePackage
