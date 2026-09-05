@@ -1,0 +1,13 @@
+diff --git a/commands/refactor/page-retyping/page-retyping.module.ts b/commands/refactor/page-retyping/page-retyping.module.ts
+index 4152d271224c021518503a5a19ac4f0ccc674bbb..522abd47b14cab6ee0ffb582fe62ab12b3826a13 100644
+--- a/commands/refactor/page-retyping/page-retyping.module.ts
++++ b/commands/refactor/page-retyping/page-retyping.module.ts
+@@ -31,7 +31,7 @@ export const pageRetyping = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A key the page states that the page type it becomes reads no property by is refused.",
++        "A key the page states that the page type the page becomes reads no property by is refused.",
+     },
+     {
+       invariantKind: "departure",
