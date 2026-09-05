@@ -1,0 +1,23 @@
+diff --git a/collections/collection.page-type.ts b/collections/collection.page-type.ts
+index 1c27dffef8a49f301aa8e244d54ac785f0fcbe4f..baf7610c0db656c19746582966b5bf29cebd9b8b 100644
+--- a/collections/collection.page-type.ts
++++ b/collections/collection.page-type.ts
+@@ -109,6 +109,7 @@ export const collection = {
+     "text-property/collection-author",
+     "text-property/collection-description",
+     "text-property/collection-tags",
++    "workspace-package/great-courses",
+     "workspace-package/royal-road",
+   ],
+   extendsSlug: ["page-type/page"],
+@@ -144,6 +145,10 @@ export const collection = {
+     { pagePropertySlug: "unit-words", required: false, many: false },
+   ],
+   invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A book and a course and an album are each one collection.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The parts of a collection are themselves collections.",
