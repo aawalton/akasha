@@ -18,7 +18,7 @@ export const watcherCompletedDayLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A line holds what is true of the completion rather than of the task.",
+      statement: "A line holds the facts true of the completion rather than of the task.",
     },
     {
       invariantKind: "departure",
@@ -71,7 +71,7 @@ export const watcherCompletedDayLanding = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes what a task says about itself.",
+      statement: "Nothing here writes the facts a task says about itself.",
     },
   ],
 } as const satisfies Module
