@@ -1,3 +1,15 @@
+diff --git a/context/warrants/context-warrant.page-type.ts b/context/warrants/context-warrant.page-type.ts
+index afc4da8e562338fa17be060b37999141a9ef330b..090ef02d20eef91c1b1bd73bd201988e9469dcb7 100644
+--- a/context/warrants/context-warrant.page-type.ts
++++ b/context/warrants/context-warrant.page-type.ts
+@@ -38,6 +38,7 @@ export const contextWarrant = {
+     "context-warrant/role-itself",
+     "context-warrant/role-page-type",
+     "context-warrant/seat-akasha",
++    "context-warrant/subagent-role",
+   ],
+   extendsSlug: ["page-type/module"],
+   loadedBySlug: "module/warranting",
 diff --git a/context/warrants/subagent-role/subagent-role.context-warrant.code.ts b/context/warrants/subagent-role/subagent-role.context-warrant.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..7fe5692f6251a2bc23fa866e2093f997402e76df
