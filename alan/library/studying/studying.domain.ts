@@ -13,11 +13,11 @@ export const studying = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A course is counted in the minutes it runs to.",
+      statement: "A course is counted in the minutes that course runs to.",
     },
     {
       invariantKind: "departure",
-      statement: "A course sits under every shelf it belongs to rather than under one.",
+      statement: "A course sits under every shelf that course belongs to rather than under one.",
     },
   ],
 } as const satisfies Domain
