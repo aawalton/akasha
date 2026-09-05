@@ -1,0 +1,13 @@
+diff --git a/alan/fitness/commands/exercise-commands.workspace-package.ts b/alan/fitness/commands/exercise-commands.workspace-package.ts
+index 40ae178190b9691bd156830ea297a0e1ce07396a..5b90e8144e97a2b6738f1ba7a81326d13910eb5e 100644
+--- a/alan/fitness/commands/exercise-commands.workspace-package.ts
++++ b/alan/fitness/commands/exercise-commands.workspace-package.ts
+@@ -51,7 +51,7 @@ export const exerciseCommands = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "Two modules read the words a call was handed, and one of them is to absorb the other.",
++        "Two modules read the words a call was handed, and one of those modules is to absorb the other.",
+     },
+     {
+       invariantKind: "gap",
