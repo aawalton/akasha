@@ -42,7 +42,8 @@ export const graph = {
     },
     {
       invariantKind: "gap",
-      statement: "A kept answer learns it is stale by being asked rather than by being told.",
+      statement:
+        "A kept answer learns that answer is stale by being asked rather than by being told.",
     },
     {
       invariantKind: "gap",
