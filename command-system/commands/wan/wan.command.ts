@@ -103,10 +103,6 @@ export const wan = {
     },
     {
       invariantKind: "departure",
-      statement: "An extend told no size renders at the context clip's own.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A seed nothing named is drawn and recorded with the run.",
     },
     {
