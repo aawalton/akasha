@@ -36,7 +36,7 @@ export const seatRefreshSettings = {
     },
     {
       invariantKind: "departure",
-      statement: "The digest in a file's name is left as it is.",
+      statement: "The digest in a file's name is left as the digest is.",
     },
     {
       invariantKind: "departure",
