@@ -4,7 +4,7 @@ export const webAppReading = {
   id: "01a05af7-5996-7000-9cf8-b27923a0672b",
   pageTypeSlug: "module",
   slug: "web-app-reading",
-  definition: "the workload a web app's page and the cluster service page it names stand for",
+  definition: "the workload a web app's page and the cluster service page it names represent",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -40,11 +40,11 @@ export const webAppReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A cluster service page naming manifest code no file stands at is refused.",
+      statement: "A cluster service page naming manifest code no file holds is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A web app's page states where its own source stands.",
+      statement: "A web app's page states where its own source sits.",
     },
     {
       invariantKind: "departure",

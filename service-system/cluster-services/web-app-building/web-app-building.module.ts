@@ -18,7 +18,7 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "The sha built is the one the workstation's HEAD stands at.",
+      statement: "The sha built is the one the workstation's HEAD is at.",
     },
     {
       invariantKind: "departure",
@@ -93,7 +93,7 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "The sha built stands among the values the build is handed.",
+      statement: "The sha built is among the values the build is handed.",
     },
     {
       invariantKind: "absence",
@@ -101,7 +101,7 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "Whether a build already stands is asked of the pod holding it.",
+      statement: "Whether a build already exists is asked of the pod holding it.",
     },
     {
       invariantKind: "departure",
@@ -118,7 +118,7 @@ export const webAppBuilding = {
     {
       invariantKind: "stopgap",
       statement:
-        "Every web app's build stands in a host path on the one node that serves that web app.",
+        "Every web app's build sits in a host path on the one node that serves that web app.",
     },
     {
       invariantKind: "gap",

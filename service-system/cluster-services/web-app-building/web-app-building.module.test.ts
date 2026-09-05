@@ -121,7 +121,7 @@ test("the package built is the one a container's working directory names", () =>
   expect(buildTargetOf(plan(pod(SERVING)))?.packagePath).toBe("one/web")
 })
 
-test("the build stands where the workload the page names stands", () => {
+test("the build sits where the workload the page names sits", () => {
   const target = buildTargetOf(plan(pod(SERVING)))
   expect(target?.namespace).toBe("one")
   expect(target?.workload).toBe("web")
@@ -147,7 +147,7 @@ test("a plan emitting no manifest for its workload has no build made for it", ()
   expect(buildTargetOf(other)).toBe(null)
 })
 
-test("a repository standing at no commit says what its HEAD is not", () => {
+test("a repository at no commit says what its HEAD is not", () => {
   expect(headOf(WORLD.root)).toBe(null)
 })
 
@@ -155,7 +155,7 @@ test("the pod is checked out to the sha before the build runs", () => {
   expect(syncScript(SHA)).toContain(`git reset --hard ${SHA}`)
 })
 
-test("a checkout takes what origin carries rather than what stands in the pod", () => {
+test("a checkout takes what origin carries rather than what is in the pod", () => {
   expect(syncScript(SHA)).toContain("git fetch origin main")
 })
 
@@ -175,7 +175,7 @@ test("a build runs its install from the checkout rather than from the package", 
 
 const HANDED: BuildEnv = [{ name: "ONE", value: "first" }]
 
-test("the values a build needs stand before the build it runs", () => {
+test("the values a build needs come before the build it runs", () => {
   const target = buildTargetOf(plan(pod(SERVING)))
   expect(buildScript(target as NonNullable<typeof target>, SHA, HANDED)).toStartWith(
     "env ONE='first' sh -c "
@@ -226,7 +226,7 @@ test("a pod nothing is taking away holds the build", () => {
   expect(livestOf("web-one\t\n")).toBe("web-one")
 })
 
-test("no pod standing means no pod holds a build", () => {
+test("no pod there means no pod holds a build", () => {
   expect(livestOf("")).toBe(null)
 })
 
@@ -275,7 +275,7 @@ test("the worktree is not what an install is proved against", () => {
   expect(installableAt(TREES.root, TREES.missing)).not.toEqual({ installs: true })
 })
 
-test("a sha no commit stands at is refused rather than passed", () => {
+test("a sha naming no commit is refused rather than passed", () => {
   const held = installableAt(TREES.root, "f".repeat(40))
   expect("why" in held ? held.why : "").toContain("could not be read out")
 })

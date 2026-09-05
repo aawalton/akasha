@@ -159,7 +159,7 @@ export function deployableNamed(root: string, slug: string): Read {
   const synthPath = textAt(service, MANIFEST_CODE) as string
   if (!existsSync(join(root, synthPath))) {
     return {
-      refused: `${found} names its manifest code at ${synthPath}, where no file stands, so nothing says what \`${slug}\` is made of`,
+      refused: `${found} names its manifest code at ${synthPath}, and no file is there, so nothing says what \`${slug}\` is made of`,
     }
   }
   return {

@@ -57,7 +57,7 @@ test("a web app that is named reads through to the workload the cluster runs", (
   expect(read.deployable.synthPath).toBe(SYNTH_AT)
 })
 
-test("a web app that is named reads through to where its own source stands", () => {
+test("a web app that is named reads through to where its own source sits", () => {
   const read = deployableNamed(WORLD.root, "one-web")
   expect("deployable" in read).toBe(true)
   if (!("deployable" in read)) return
@@ -95,7 +95,7 @@ test("a web app stating nothing of its own source is refused", () => {
   expect("refused" in read && read.refused).toContain("sourceDirectory")
 })
 
-test("a cluster service naming manifest code no file stands at is refused", () => {
+test("a cluster service naming manifest code no file holds is refused", () => {
   const read = deployableNamed(WORLD.root, "bare-web")
-  expect("refused" in read && read.refused).toContain("where no file stands")
+  expect("refused" in read && read.refused).toContain("no file is there")
 })

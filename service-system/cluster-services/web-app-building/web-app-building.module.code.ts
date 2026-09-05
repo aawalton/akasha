@@ -270,7 +270,7 @@ export function resolveBuildEnv(
     const held = secretValue(namespace, entry.fromSecret.name, entry.fromSecret.key)
     if (held === null) {
       missing.push(
-        `${entry.name} is read from the key ${entry.fromSecret.key} of the secret ${entry.fromSecret.name} in ${namespace}, and nothing readable stands there`
+        `${entry.name} is read from the key ${entry.fromSecret.key} of the secret ${entry.fromSecret.name} in ${namespace}, and nothing readable is there`
       )
       continue
     }
