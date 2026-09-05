@@ -36,7 +36,7 @@ index 566093ea0af6a9d67dd8a6b24e368360a1e24dfb..296cc88df2a8bc83d598d06b8ee4d19d
 +  })
 +}
 diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
-index c70536b6a67282fc3d9e4bf031e92e4022f44e92..3e78bad0466df3c29026d08c0b07837917f1fd7c 100644
+index c70536b6a67282fc3d9e4bf031e92e4022f44e92..a397ae247944f127f655c4b50a4e72157c4c56c1 100644
 --- a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 +++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 @@ -5,7 +5,9 @@ import type { Change } from "@akasha/pages-system/change"
@@ -49,15 +49,17 @@ index c70536b6a67282fc3d9e4bf031e92e4022f44e92..3e78bad0466df3c29026d08c0b078379
    omittingIn,
    reachedBy,
    reachesTypegen,
-@@ -17,6 +19,7 @@ import {
+@@ -16,7 +18,9 @@ import {
+ } from "./typecheck.code-check.code.ts"
  import {
    CALLS_HELD,
++  CHAINED,
    change,
 +  DECLARED_AT,
    declared,
    declaring,
    EARLY,
-@@ -88,6 +91,29 @@ test("a declaration file akasha holds names a global for a change no import reac
+@@ -88,6 +92,29 @@ test("a declaration file akasha holds names a global for a change no import reac
    expect(await over(root, "akasha/one.ts", "export const one = HELD_ONE\n")).toEqual([])
  })
  
@@ -87,7 +89,7 @@ index c70536b6a67282fc3d9e4bf031e92e4022f44e92..3e78bad0466df3c29026d08c0b078379
  test("a satisfies clause is narrowed where it stands, and the body keeps every line it had", () => {
    const said = omittingIn(THING_AT, WITHOUT, ["held", "other"])
    expect(said).toContain('satisfies Omit<Thing, "held" | "other">')
-@@ -218,13 +244,7 @@ test("a file the change brings is compiled though no disk holds it", async () =>
+@@ -218,13 +245,7 @@ test("a file the change brings is compiled though no disk holds it", async () =>
  })
  
  test("a diagnostic against a file the change did not touch is reported once, however many paths it holds", async () => {
@@ -102,7 +104,7 @@ index c70536b6a67282fc3d9e4bf031e92e4022f44e92..3e78bad0466df3c29026d08c0b078379
    const said = await judged(
      change(root, {
        "akasha/a.ts": "export const a = 10\n",
-@@ -238,11 +258,7 @@ test("a diagnostic against a file the change did not touch is reported once, how
+@@ -238,11 +259,7 @@ test("a diagnostic against a file the change did not touch is reported once, how
  
  test("an index read without a guard is refused, so the settings are the strict ones", async () => {
    const root = staged({ "akasha/one.ts": "export const one = 1\n" })
@@ -115,7 +117,7 @@ index c70536b6a67282fc3d9e4bf031e92e4022f44e92..3e78bad0466df3c29026d08c0b078379
    expect(said).toHaveLength(1)
    expect(said[0]?.reason).toContain("undefined")
  })
-@@ -261,12 +277,7 @@ test("a folder holding no TypeScript is judged clean without a program being bui
+@@ -261,12 +278,7 @@ test("a folder holding no TypeScript is judged clean without a program being bui
  })
  
  test("the files compiled are the change and everything importing it, however far", () => {
@@ -129,7 +131,7 @@ index c70536b6a67282fc3d9e4bf031e92e4022f44e92..3e78bad0466df3c29026d08c0b078379
    expect(reached(change(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
      "akasha/deep/three.ts",
      "akasha/deep/two.ts",
-@@ -340,11 +351,7 @@ test("a file whole at base and deleted from the worktree alone still answers for
+@@ -340,11 +352,7 @@ test("a file whole at base and deleted from the worktree alone still answers for
  
  test("a diagnostic carried in a chain is one reason", async () => {
    const root = staged({ "akasha/one.ts": "export const one = 1\n" })
