@@ -26,7 +26,7 @@ export const quoting = {
     },
     {
       invariantKind: "departure",
-      statement: "What the shell expands is left for the shell to read as text.",
+      statement: "A character the shell expands is left for the shell to read as text.",
     },
     {
       invariantKind: "departure",
