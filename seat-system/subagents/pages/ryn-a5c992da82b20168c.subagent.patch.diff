@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/temper/temper-addon-data/validate-equipment-mappings/validate-equipment-mappings.module.ts b/temper/temper-addon-data/validate-equipment-mappings/validate-equipment-mappings.module.ts
+index ed96e8543d8ed4a45a9063b0a02b525f28b6f349..28f5eae542da3af111f0bb5cc6e42b27165ce6aa 100644
+--- a/temper/temper-addon-data/validate-equipment-mappings/validate-equipment-mappings.module.ts
++++ b/temper/temper-addon-data/validate-equipment-mappings/validate-equipment-mappings.module.ts
+@@ -26,7 +26,8 @@ export const validateEquipmentMappings = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is compared is how many slots a table holds rather than which ids it names.",
++      statement:
++        "The number of slots a table holds is compared rather than the ids that table names.",
+     },
+   ],
+ } as const satisfies Module
