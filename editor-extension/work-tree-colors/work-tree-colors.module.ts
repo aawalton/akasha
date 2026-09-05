@@ -4,12 +4,12 @@ export const workTreeColors = {
   id: "01a06867-dbcb-7466-9dd7-57e1eb113be5",
   pageTypeSlug: "module",
   slug: "work-tree-colors",
-  definition: "the color a work tree row is drawn in, raised through everything standing under it",
+  definition: "the color a work tree row is drawn in, raised through everything under it",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A row takes the liveliest color of itself and everything standing under it.",
+      statement: "A row takes the liveliest color of itself and everything under it.",
     },
     {
       invariantKind: "departure",
@@ -17,7 +17,7 @@ export const workTreeColors = {
     },
     {
       invariantKind: "departure",
-      statement: "A row with no color takes whatever color stands under it.",
+      statement: "A row with no color takes whatever color is under it.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,7 @@ export const workTreeColors = {
     },
     {
       invariantKind: "departure",
-      statement: "A tree is rebuilt rather than colored where it stands.",
+      statement: "A tree is rebuilt rather than colored where it is.",
     },
     {
       invariantKind: "absence",

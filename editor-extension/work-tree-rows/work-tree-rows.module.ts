@@ -13,7 +13,7 @@ export const workTreeRows = {
     },
     {
       invariantKind: "departure",
-      statement: "A row standing for nothing declared carries no path and opens no document.",
+      statement: "A row representing nothing declared carries no path and opens no document.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const workTreeRows = {
     {
       invariantKind: "departure",
       statement:
-        "The shape stands here so the parser and the coloring hold one edge between them rather than two.",
+        "The shape sits here so the parser and the coloring hold one edge between them rather than two.",
     },
     {
       invariantKind: "absence",

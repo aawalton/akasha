@@ -116,7 +116,7 @@ function buildTreeItem(
 }
 
 // A ROW IS COLORED THROUGH A URI RATHER THAN DIRECTLY. A tree item takes no color of its own, so a
-// row carrying one stands under a scheme of this panel's making and the decoration answering that
+// row carrying one sits under a scheme of this panel's making and the decoration answering that
 // scheme is what the editor draws the color from.
 export function createWorkDecorationProvider(): vscode.FileDecorationProvider {
   return {

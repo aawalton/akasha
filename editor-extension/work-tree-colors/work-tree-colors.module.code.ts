@@ -5,8 +5,8 @@ import type {
 } from "../work-tree-rows/work-tree-rows.module.code.ts"
 
 // THE LIVELIEST FIRST. A row several seats state takes the liveliest of them, and a row takes the
-// liveliest of everything standing under it, so a row says whether anything is moving on it. A
-// color this does not rank sits behind every color it does.
+// liveliest of everything under it, so a row says whether anything is moving on it. A color this
+// does not rank sits behind every color it does.
 const COLOR_RANK: readonly string[] = ["green", "blue", "yellow"]
 
 function colorFor(node: WorkNode, colors: WorkColors): string | null {
