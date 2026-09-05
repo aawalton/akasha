@@ -93,6 +93,21 @@ index 0d7f7dfbd443edf330ba77a02eb6866123efd4a5..347d68ac445da2972fc7fcfb3f60c041
  
      {
        invariantKind: "departure",
+diff --git a/readout-system/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts b/readout-system/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts
+index e2c02322521119f3e31c83d0bab220a0cf037b7d..eca9fd501276596130ab26f9c106abd3468f3870 100644
+--- a/readout-system/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts
++++ b/readout-system/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts
+@@ -26,10 +26,6 @@ export const inboxesTasks = {
+       invariantKind: "departure",
+       statement: "The count is how many tasks are undone at the end of that day.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A count stated as text is read as the number that count spells.",
+-    },
+ 
+     {
+       invariantKind: "departure",
 diff --git a/temper/temper-character/character-builds/character-build.page-type.ts b/temper/temper-character/character-builds/character-build.page-type.ts
 index 7da0d67ead37cab6775680109117085b3d1480d7..4c7e3a0ff30b6e3eaafb1304a7086a0bf14d8ea0 100644
 --- a/temper/temper-character/character-builds/character-build.page-type.ts
