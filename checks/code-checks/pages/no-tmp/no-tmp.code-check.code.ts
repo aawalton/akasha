@@ -1,4 +1,6 @@
 import { lineOf, parsedAs } from "@akasha/code-system/code-source"
+import { textAt } from "@akasha/pages-system/page-value"
+import type { Shadow } from "@akasha/pages-system/shadow"
 import ts from "typescript"
 import {
   judgingEach,
@@ -11,6 +13,12 @@ const OS = new Set(["node:os", "os"])
 const TMPDIR = "tmpdir"
 
 const IN_TMP = /^\/tmp(\/|$)/
+
+const PAGE_TYPE = "page-type"
+
+const TYPE_SLUG = "pageTypeSlug"
+
+const ALLOWS = "allowsTmpPaths"
 
 function specifierOf(node: ts.ImportDeclaration): string | null {
   const held = node.moduleSpecifier
@@ -88,4 +96,18 @@ function found(path: string, text: string): readonly string[] {
 
 export const reasonsIn = overEachText(found)
 
-export const noTmp = judgingEach(TEXTS, (given) => found(given.path, given.text))
+function allowedIn(path: string, shadow: Shadow): boolean {
+  const listed = shadow.index.listedByPath(path)[0]
+  if (listed === undefined) return false
+  const page = shadow.pageOf(listed.path)
+  if (page === null) return false
+  const slug = textAt(page, TYPE_SLUG)
+  if (slug === null) return false
+  return shadow.index.pageAt(PAGE_TYPE, slug)?.[ALLOWS] === true
+}
+
+export const noTmp = judgingEach(TEXTS, (given, shadow) => {
+  const said = found(given.path, given.text)
+  if (said.length === 0 || allowedIn(given.path, shadow)) return []
+  return said
+})

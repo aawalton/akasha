@@ -30,8 +30,16 @@ export const noTmp = {
       statement: "A path is matched from its first character.",
     },
     {
-      invariantKind: "absence",
-      statement: "No use of /tmp is kept as permitted.",
+      invariantKind: "departure",
+      statement: "A page type says whether the paths its pages spell are a container's.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file whose page type says so is passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a page type says of its pages holds for the files beside those pages.",
     },
     {
       invariantKind: "gap",
