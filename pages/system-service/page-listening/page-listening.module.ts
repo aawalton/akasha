@@ -38,7 +38,8 @@ export const pageListening = {
     },
     {
       invariantKind: "departure",
-      statement: "What is bound answers every question the same way a handed request is answered.",
+      statement:
+        "Each server bound answers every question the same way a handed request is answered.",
     },
     {
       invariantKind: "departure",
