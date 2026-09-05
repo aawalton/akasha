@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/infrastructure/cluster-manifests/rbac-permissions/rbac-permissions.module.ts b/infrastructure/cluster-manifests/rbac-permissions/rbac-permissions.module.ts
+index 323feb86bd7d029b8ee14c0a5d7e5bcaa843ae56..123cb45b9e9450047a9b667f6bd9499ad92e28c8 100644
+--- a/infrastructure/cluster-manifests/rbac-permissions/rbac-permissions.module.ts
++++ b/infrastructure/cluster-manifests/rbac-permissions/rbac-permissions.module.ts
+@@ -15,7 +15,8 @@ export const rbacPermissions = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A rule naming resource names grants its triple only over the objects it names.",
++      statement:
++        "A rule naming resource names grants its triple only over the objects that rule names.",
+     },
+   ],
+ } as const satisfies Module
