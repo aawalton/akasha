@@ -47,7 +47,7 @@ export const pageWriting = {
     {
       invariantKind: "departure",
       statement:
-        "A write stating one is refused where a path it carries no longer holds the body that commit held.",
+        "A write stating one is refused where any of its paths no longer holds the body that commit held.",
     },
     {
       invariantKind: "departure",
