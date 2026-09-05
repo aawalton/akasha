@@ -14,7 +14,7 @@ export const gmailMessages = {
     {
       invariantKind: "departure",
       statement:
-        "A reply carries the References of what that reply answers with its own id appended.",
+        "A reply carries the References of the message that reply answers with its own id appended.",
     },
     {
       invariantKind: "departure",
