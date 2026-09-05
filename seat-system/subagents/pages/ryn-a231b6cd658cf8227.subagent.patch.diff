@@ -1,8 +1,8 @@
 diff --git a/seat-system/seats/properties/open-shells.text-property.ts b/seat-system/seats/properties/open-shells.text-property.ts
-index e4d073ecb196542776c75f6215a4da039ed4e840..0b9a93d9ba6a9284ad3161e4bf1834516b2f499c 100644
+index e4d073ecb196542776c75f6215a4da039ed4e840..6d90d350b9747785ad9000464777108c243a4989 100644
 --- a/seat-system/seats/properties/open-shells.text-property.ts
 +++ b/seat-system/seats/properties/open-shells.text-property.ts
-@@ -14,7 +14,7 @@ export const openShells = {
+@@ -14,11 +14,11 @@ export const openShells = {
    invariants: [
      {
        invariantKind: "departure",
@@ -11,3 +11,8 @@ index e4d073ecb196542776c75f6215a4da039ed4e840..0b9a93d9ba6a9284ad3161e4bf183451
      },
      {
        invariantKind: "departure",
+-      statement: "A command is listed until the notification naming it is read.",
++      statement: "A command is listed until the notification naming that command is read.",
+     },
+   ],
+ } as const satisfies TextProperty
