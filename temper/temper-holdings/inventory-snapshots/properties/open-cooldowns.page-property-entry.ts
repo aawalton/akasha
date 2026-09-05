@@ -19,7 +19,8 @@ export const openCooldowns = {
     },
     {
       invariantKind: "departure",
-      statement: "A cooldown names when it comes round again rather than how long is left.",
+      statement:
+        "A cooldown names when that cooldown comes round again rather than how long is left.",
     },
   ],
 } as const satisfies PagePropertyEntry
