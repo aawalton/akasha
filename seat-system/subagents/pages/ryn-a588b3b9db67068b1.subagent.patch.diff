@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/audible-migration/monarch-audible-migration.module.ts b/alan/harness/monarch/audible-migration/monarch-audible-migration.module.ts
+index 43055653b4d20d8d150e6a440b809320cdb6674c..09ced8528387b373fd1d89ce511a6f3aff78b1c4 100644
+--- a/alan/harness/monarch/audible-migration/monarch-audible-migration.module.ts
++++ b/alan/harness/monarch/audible-migration/monarch-audible-migration.module.ts
+@@ -39,7 +39,7 @@ export const monarchAudibleMigration = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What decided is recorded as this migration rather than as a rule.",
++      statement: "The decider is recorded as this migration rather than as a rule.",
+     },
+     {
+       invariantKind: "departure",
