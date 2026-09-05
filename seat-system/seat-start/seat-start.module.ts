@@ -9,7 +9,8 @@ export const seatStart = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The ops dispatcher imports this module and calls the default export it declares.",
+      statement:
+        "The ops dispatcher imports this module and calls the default export that module declares.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +28,7 @@ export const seatStart = {
     {
       invariantKind: "departure",
       statement:
-        "A headless start launches the seat here and an interactive one leaves it detached.",
+        "A headless start launches the seat here and an interactive one leaves that seat detached.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +37,7 @@ export const seatStart = {
     {
       invariantKind: "departure",
       statement:
-        "A headless start answers the pid it launched and an interactive one answers none.",
+        "A headless start answers the pid that start launched and an interactive one answers none.",
     },
   ],
 } as const satisfies Module
