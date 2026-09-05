@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/story/wiki-entries/story-wiki-entry.page-type.ts b/story/wiki-entries/story-wiki-entry.page-type.ts
+index e7a296c96ef97d38980c30a9ac9a51ebb34dd390..d379db458cf6a3bc8857e5cebca20f0104740a09 100644
+--- a/story/wiki-entries/story-wiki-entry.page-type.ts
++++ b/story/wiki-entries/story-wiki-entry.page-type.ts
+@@ -34,7 +34,7 @@ export const storyWikiEntry = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "An entry says what the story has established rather than what the design intends.",
++        "An entry says the truths the story has established rather than the truths the design intends.",
+     },
+     {
+       invariantKind: "departure",
