@@ -9,8 +9,7 @@ export const monarchRuleClauses = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Nothing skips a clause it does not understand, because a clause read by nothing would leave the rule running wider than its page says.",
+      statement: "Nothing skips a clause it does not understand.",
     },
     {
       invariantKind: "departure",
