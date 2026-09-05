@@ -21,7 +21,6 @@ export const temperInventoryCapacityAudit = {
   helpNotes: [
     "each overflowing destination carries the slots needed against the slots free.",
     "the rules and the items the capacity filter dropped are named beside it.",
-    "a run finding no overflow reports nothing.",
   ],
   invariants: [
     {
