@@ -1,5 +1,5 @@
 diff --git a/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.ts b/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.ts
-index 9f5ac54836be15a8be41c6b7c2ae2d7f553e1443..25e45a29607c6d60e70a3734685a864a16e67278 100644
+index 9f5ac54836be15a8be41c6b7c2ae2d7f553e1443..d6e08b1951fc1f840aba6b74ce01405935d0883e 100644
 --- a/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.ts
 +++ b/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.ts
 @@ -26,7 +26,7 @@ export const blockGitWrites = {
@@ -20,3 +20,12 @@ index 9f5ac54836be15a8be41c6b7c2ae2d7f553e1443..25e45a29607c6d60e70a3734685a864a
      },
      {
        invariantKind: "absence",
+@@ -63,7 +63,7 @@ export const blockGitWrites = {
+     {
+       invariantKind: "constraint",
+       statement:
+-        "The repository root is the akasha folder, so every path it tracks is akasha content.",
++        "The repository root is the akasha folder, so every path that repository tracks is akasha content.",
+     },
+     {
+       invariantKind: "constraint",
