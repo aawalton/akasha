@@ -18,7 +18,7 @@ export const observationMerging = {
     },
     {
       invariantKind: "departure",
-      statement: "A patch field holding undefined leaves what was already there.",
+      statement: "A patch field holding undefined leaves the value already there.",
     },
     {
       invariantKind: "departure",
