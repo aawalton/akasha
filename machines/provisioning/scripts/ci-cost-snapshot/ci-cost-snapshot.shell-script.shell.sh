@@ -12,7 +12,7 @@ REPO=$(cd "$(dirname "$(readlink -f -- "${BASH_SOURCE[0]}")")/../../../.." && pw
 BUN_BIN=$(command -v bun || echo "$HOME/.bun/bin/bun")
 
 # A SESSION UUID IS ALL THIS IS GIVEN, and `seat-reading` takes it as readily as an agent id. It
-# stands in akasha and reads the seat page there, so the shell parser this used to source — the last
+# sits in akasha and reads the seat page there, so the shell parser this used to source — the last
 # of the three that could not see a flat scalar — has no callers left.
 AGENT_ID=$("$BUN_BIN" "$REPO/seat-system/seat-reading/seat-reading.module.code.ts" \
   "$SESSION_ID" id 2>/dev/null || true)

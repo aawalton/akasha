@@ -139,7 +139,7 @@ export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
 
 # personal cli. The set of shell functions is composed by `akasha shell-init-bash`, which
-# stands at `akasha/seat-system/commands/shell-init-bash/`. It composed nothing here for a while:
+# sits at `akasha/seat-system/commands/shell-init-bash/`. It composed nothing here for a while:
 # the generator it replaced kept being evalled after its own imports had stopped resolving, and a
 # generator that exits nonzero inside `$(...)` leaves the shell with no functions and says nothing.
 # `_akasha_reload` probes this same spelling on every launch, so the two agree by construction.
