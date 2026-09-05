@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/category-rules/properties/counterpart-within-days.number-property.ts b/alan/harness/monarch/category-rules/properties/counterpart-within-days.number-property.ts
+index e5fa09d2e3797e1825faad480319cbe5d3113f76..3c25d16cc55b46a56766a5bb5b8f55df47e4682c 100644
+--- a/alan/harness/monarch/category-rules/properties/counterpart-within-days.number-property.ts
++++ b/alan/harness/monarch/category-rules/properties/counterpart-within-days.number-property.ts
+@@ -12,7 +12,7 @@ export const counterpartWithinDays = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A counterpart is what a rule requires rather than one of its clauses.",
++      statement: "A counterpart is a requirement a rule makes rather than one of its clauses.",
+     },
+     {
+       invariantKind: "departure",
