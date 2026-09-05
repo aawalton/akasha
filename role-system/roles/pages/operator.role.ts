@@ -9,7 +9,7 @@ export const operator = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An operator asks their principal when the operator is not sure what to do.",
+      statement: "An operator asks their principal when the operator is not sure what act to take.",
     },
   ],
 } as const satisfies Role
