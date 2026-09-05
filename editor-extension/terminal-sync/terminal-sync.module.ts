@@ -9,7 +9,7 @@ export const terminalSync = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A terminal reporting no process is left as it is.",
+      statement: "A terminal reporting no process is left as that terminal is.",
     },
     {
       invariantKind: "departure",
@@ -17,11 +17,11 @@ export const terminalSync = {
     },
     {
       invariantKind: "departure",
-      statement: "A terminal is renamed only where the name it carries differs.",
+      statement: "A terminal is renamed only where the name that terminal carries differs.",
     },
     {
       invariantKind: "departure",
-      statement: "A terminal is recolored only where the color it carries differs.",
+      statement: "A terminal is recolored only where the color that terminal carries differs.",
     },
     {
       invariantKind: "departure",
@@ -33,11 +33,12 @@ export const terminalSync = {
     },
     {
       invariantKind: "departure",
-      statement: "A terminal whose seat is gone is renamed for the shell running in it.",
+      statement: "A terminal whose seat is gone is renamed for the shell running in that terminal.",
     },
     {
       invariantKind: "departure",
-      statement: "A terminal whose shell is not in the ps snapshot keeps the name it has.",
+      statement:
+        "A terminal whose shell is not in the ps snapshot keeps the name that terminal has.",
     },
     {
       invariantKind: "departure",
