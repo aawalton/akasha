@@ -13,7 +13,7 @@ export const appliesWhen = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A direction reaches no transaction outside the shape it applies to.",
+      statement: "A direction reaches no transaction outside the shape that direction applies to.",
     },
   ],
 } as const satisfies TextProperty
