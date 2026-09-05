@@ -47,7 +47,7 @@ index fa5a97f4fe748342184d19cfda53ab2aeb068351..f31d7bfa191ee2ba910bf6eb3c4d60f6
      {
        invariantKind: "gap",
 diff --git a/alan/harness/monarch/land-files/monarch-land-files.module.ts b/alan/harness/monarch/land-files/monarch-land-files.module.ts
-index 067d450ea82ddd1483a2f99e83af925f1d5b1af2..391a9416fc2a48fba5cb2f7d24b30f208622b158 100644
+index 5cce3a985615d6f71d351ec53733cf0175cf5e98..6baad72468610620d93373f47060662890e7c9e9 100644
 --- a/alan/harness/monarch/land-files/monarch-land-files.module.ts
 +++ b/alan/harness/monarch/land-files/monarch-land-files.module.ts
 @@ -19,8 +19,7 @@ export const monarchLandFiles = {
@@ -73,3 +73,20 @@ index de9cc946fe29f31e8ab4c52115ce0e46c6558151..00310f15a0a126e861d0d6f3b0ab3291
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
+index fc7e1ef1221d670ccc8608eb0e849e956c4073dc..3dd3ae0b7856a358a6e5f78e823489023435bb59 100644
+--- a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
++++ b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
+@@ -68,7 +68,11 @@ export const surplusFallNotifying = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "The readout and its scale are asked of the pages system service and the day's reading of the page query service, while code running on the workstation reaches pages data directly.",
++        "The readout and its scale are asked of the pages system service and the day's reading of the page query service.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Code running on the workstation reaches pages data directly.",
+     },
+   ],
+ } as const satisfies Module
