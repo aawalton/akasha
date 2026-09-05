@@ -1,0 +1,13 @@
+diff --git a/alan/chess/chess-progresses/pages/overall-where-his-game-is.chess-progress.ts b/alan/chess/chess-progresses/pages/overall-where-his-game-is.chess-progress.ts
+index 3f01f03ff7c801709461936960de877911d4b90f..76c288f17fcf54ea5740636be0355173ca8f3b12 100644
+--- a/alan/chess/chess-progresses/pages/overall-where-his-game-is.chess-progress.ts
++++ b/alan/chess/chess-progresses/pages/overall-where-his-game-is.chess-progress.ts
+@@ -4,7 +4,7 @@ export const overallWhereHisGameIs = {
+   id: "019f06ba-f589-719b-b29d-f2e1cc8efcd0",
+   pageTypeSlug: "chess-progress",
+   slug: "overall-where-his-game-is",
+-  title: "Overall: where his game stands",
++  title: "Overall: where his game is",
+   category: "overall",
+   status: "developing",
+   description:
