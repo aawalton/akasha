@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/editor-extension/column-memory/column-memory.module.ts b/editor-extension/column-memory/column-memory.module.ts
+index 63a80d3ad1f782a2707bab1ab31662dc451ea728..24655f444a4311225eae9341c5b265847c7dfeff 100644
+--- a/editor-extension/column-memory/column-memory.module.ts
++++ b/editor-extension/column-memory/column-memory.module.ts
+@@ -9,7 +9,7 @@ export const columnMemory = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A seat seen in no column leaves what was remembered for that seat unchanged.",
++      statement: "A seat seen in no column leaves the column remembered for that seat unchanged.",
+     },
+     {
+       invariantKind: "departure",
