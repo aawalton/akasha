@@ -26,7 +26,8 @@ export const minedMotifCoverage = {
     },
     {
       invariantKind: "departure",
-      statement: "A motif is known by the style it dresses and the piece it covers.",
+      statement:
+        "A motif is known by the style that motif dresses and the piece that motif covers.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +35,7 @@ export const minedMotifCoverage = {
     },
     {
       invariantKind: "departure",
-      statement: "A tome edition restates a book already named, so it is left out.",
+      statement: "A tome edition restates a book already named, so that tome edition is left out.",
     },
     {
       invariantKind: "departure",
