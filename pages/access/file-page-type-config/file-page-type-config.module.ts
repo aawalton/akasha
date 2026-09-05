@@ -11,7 +11,7 @@ export const filePageTypeConfig = {
     {
       invariantKind: "departure",
       statement:
-        "What a page type states under a key is asked of the pages by that page type's slug.",
+        "The value a page type states under a key is asked of the pages by that page type's slug.",
     },
     {
       invariantKind: "departure",
