@@ -17,7 +17,6 @@ export const domainTree = {
     "a domain no root reaches is named in `unreached`, so a broken edge is said rather than swallowed.",
     "`repo` is the akasha checkout the tree was read from, and `relPath` is each domain's path inside it, so a reader joins the two to open the file.",
     "the editor's domain tree asks this as a child process, because composing the tree reaches page bodies and loading one needs a transpiler only bun carries.",
-    "it takes no word, and a call naming one is refused.",
   ],
   invariants: [
     {
