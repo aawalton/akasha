@@ -68,7 +68,7 @@ index ed0dff829933eb31fba0f14536a2b8cf85ae8d83..4ec4e6aa06f74f0e1bef2ad240c866bd
    return answered(reading, under, asked, (held) => importersIn(held, path))
  }
 diff --git a/pages/indexes/reading/index-reading.module.test.ts b/pages/indexes/reading/index-reading.module.test.ts
-index 997019cbffe56476c881e884c44d90fe09d7a6b7..9c6a1808549740cb52e5d8bea0dc15a0576abc7c 100644
+index 997019cbffe56476c881e884c44d90fe09d7a6b7..0b7610da5cdcee84fe7d386f4b1f31c9df49776d 100644
 --- a/pages/indexes/reading/index-reading.module.test.ts
 +++ b/pages/indexes/reading/index-reading.module.test.ts
 @@ -1,9 +1,5 @@
@@ -81,6 +81,34 @@ index 997019cbffe56476c881e884c44d90fe09d7a6b7..9c6a1808549740cb52e5d8bea0dc15a0
  import { indexAt, indexIn } from "../surface/index-surface.module.code.ts"
  import {
    everyPath,
+@@ -61,27 +57,6 @@ test("an address naming a page by its id is answered by that id", () => {
+   expect(listedAddressed(root, A, "domain")).toEqual(held)
+ })
+ 
+-function committedAt(): string {
+-  const root = rootAt()
+-  gitIn(root, ["init", "--quiet"])
+-  gitIn(root, ["config", "user.email", "held@akasha"])
+-  gitIn(root, ["config", "user.name", "held"])
+-  writeFileSync(join(root, "held"), "held\n")
+-  gitIn(root, ["add", "--", "held"])
+-  gitIn(root, ["commit", "--quiet", "-m", "held", "--", "held"])
+-  return root
+-}
+-
+-function stampedAt(): string {
+-  const root = committedAt()
+-  stampKept(indexIn(root), {
+-    commit: gitIn(root, ["rev-parse", "HEAD"]).trim(),
+-    tree: "akasha",
+-    settled: [],
+-  })
+-  return root
+-}
+-
+ test("a path the index carries is answered with the page carrying it", () => {
+   const root = rootAt()
+   pathFiled(root, "akasha/a.module.code.ts", [{ path: "akasha/a.module.ts", id: A }])
 diff --git a/pages/shadow/shadow.module.code.ts b/pages/shadow/shadow.module.code.ts
 index 76d21dab0f56cfc20bd9573be8913ce13af71825..ea966ba98ee2011b50b18b7f587dcbc43f09e0ff 100644
 --- a/pages/shadow/shadow.module.code.ts
