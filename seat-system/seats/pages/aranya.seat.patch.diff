@@ -1,0 +1,15 @@
+diff --git a/infrastructure/cluster/cluster.domain.ts b/infrastructure/cluster/cluster.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..74c80a7ddb75fddfbe0d9fb86a51264584ddc9ec
+--- /dev/null
++++ b/infrastructure/cluster/cluster.domain.ts
+@@ -0,0 +1,9 @@
++import type { Domain } from "../../domains/domain.page-type.ts"
++
++export const cluster = {
++  id: "01a073f1-e67a-717a-9d6a-324244b75878",
++  pageTypeSlug: "domain",
++  slug: "cluster",
++  definition: "the Kubernetes cluster the system's services run on",
++  partSlugs: [],
++} as const satisfies Domain
