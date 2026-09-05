@@ -19,7 +19,7 @@ export const monarchCandidate = {
     },
     {
       invariantKind: "departure",
-      statement: "Nothing is a candidate unless it is named as one.",
+      statement: "Nothing is a candidate unless named as one.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,8 @@ export const monarchCandidate = {
     },
     {
       invariantKind: "departure",
-      statement: "A category is named in words here and resolved to the page that carries it.",
+      statement:
+        "A category is named in words here and resolved to the page that carries that category.",
     },
     {
       invariantKind: "absence",
