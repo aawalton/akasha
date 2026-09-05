@@ -10,11 +10,12 @@ export const workflowKind = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The stages run in the order they are listed here.",
+      statement: "The stages run in the order those stages are listed here.",
     },
     {
       invariantKind: "departure",
-      statement: "A workflow waits on every workflow it names before it starts.",
+      statement:
+        "A workflow waits on every workflow that workflow names before that workflow starts.",
     },
   ],
 } as const satisfies SelectProperty
