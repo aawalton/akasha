@@ -62,8 +62,7 @@ export const monarchRules = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The bucketed neighbourhood is the plain one, because a counterpart's amount agrees in size by definition.",
+      statement: "The bucketed neighbourhood is the plain one.",
     },
     {
       invariantKind: "absence",
