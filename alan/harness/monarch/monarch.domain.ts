@@ -91,7 +91,7 @@ export const monarch = {
     },
     {
       invariantKind: "departure",
-      statement: "Every site showing the reading is carried it rather than taking one.",
+      statement: "Every site showing the reading is carried that reading rather than taking one.",
     },
     {
       invariantKind: "departure",
