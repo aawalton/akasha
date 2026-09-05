@@ -10,7 +10,7 @@ export const charactersProgressTally = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "Counting done entries against all of them is written once.",
+      statement: "Counting done entries against all the entries is written once.",
     },
   ],
 } as const satisfies Module
