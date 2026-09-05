@@ -15,7 +15,7 @@ export const astraPagesCleanup = {
     {
       statement: "The pages/ folder passes the `folder-matches-a-shape` check.",
       workingMemory:
-        "At `e83c3893`: `pages/` refuses twice, down from 65. The 31 grouping folders now hold domains of their own, and every rename is landed. `system-service/workstation-services` holds one page of one type, and the shape that would match it, `pages-of-one-type`, is written with `enabled: false`; `temper/temper-watcher/workstation-services` refuses identically. `pages/calculations` is another seat's in-flight work.",
+        "At `e83c3893`: `pages/` refuses twice, down from 65. The 31 grouping folders now hold domains of their own, and every rename is landed. `system-service/workstation-services` holds one page of one type, and the shape that would match it, `pages-of-one-type`, is written with `enabled: false`; `temper/temper-watcher/workstation-services` refuses identically. `pages/calculation-loading` is another seat's in-flight work.",
     },
   ],
 } as const satisfies Initiative
