@@ -12,3 +12,19 @@ index c9541f3519d59e677f8e73c86fdeb1ba73f32b88..fbbab1fb2a708af0b3be68b5d3b1f693
 -    },
    ],
  } as const satisfies PageType
+diff --git a/story/stories-read/story-read.page-type.ts b/story/stories-read/story-read.page-type.ts
+index ba1f0efbc971a399f556cc4c91ddf94c8a787046..5b7f6e160388c34c2769c09958bc68b36955e51b 100644
+--- a/story/stories-read/story-read.page-type.ts
++++ b/story/stories-read/story-read.page-type.ts
+@@ -49,10 +49,7 @@ export const storyRead = {
+       invariantKind: "departure",
+       statement: "A story read carries the words of the story's writer rather than akasha's own.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A story names the world the story is of.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A story names the source the story was read from.",
