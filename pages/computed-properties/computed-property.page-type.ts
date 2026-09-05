@@ -67,10 +67,7 @@ export const computedProperty = {
       invariantKind: "departure",
       statement: "A calculation reading a refused calculation is refused too.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A chain of reads coming back to where that chain started is refused.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A calculation answering absent puts no key in the row.",
