@@ -1,0 +1,15 @@
+diff --git a/temper/temper-holdings/inventory-chunks/temper-inventory-chunk.page-type.ts b/temper/temper-holdings/inventory-chunks/temper-inventory-chunk.page-type.ts
+index f0e511194444b9176410cae89b75792c2900a9a0..b3a2fdbea1aad413476e96a2e2d653ef70cdfbee 100644
+--- a/temper/temper-holdings/inventory-chunks/temper-inventory-chunk.page-type.ts
++++ b/temper/temper-holdings/inventory-chunks/temper-inventory-chunk.page-type.ts
+@@ -29,10 +29,6 @@ export const temperInventoryChunk = {
+     { pagePropertySlug: "byte-count", required: true, many: false },
+   ],
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A slug opens with `at-` ahead of the moment the reading was taken.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "The pieces of one reading rejoin in the order the chunk indexes give.",
