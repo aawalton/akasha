@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/commands/audit/audit.command.ts b/command-system/commands/audit/audit.command.ts
+index 7a5dda758cd5f403226dc436ad4503d52e62d81c..41baf44a2dab1d48feadaf8b7e2b83bf989b4ea4 100644
+--- a/command-system/commands/audit/audit.command.ts
++++ b/command-system/commands/audit/audit.command.ts
+@@ -88,7 +88,7 @@ export const audit = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What an audit finds is answered as the data's fault.",
++      statement: "An audit's findings are answered as the data's fault.",
+     },
+     {
+       invariantKind: "absence",
