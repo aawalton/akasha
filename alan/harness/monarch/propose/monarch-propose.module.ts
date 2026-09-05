@@ -19,7 +19,7 @@ export const monarchPropose = {
     {
       invariantKind: "departure",
       statement:
-        "A named rule that does not stand is refused, and what does stand is named in the refusal.",
+        "A named rule that does not stand is refused, and the rules that do stand are named in the refusal.",
     },
     {
       invariantKind: "departure",
