@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
-index 85a1910b8f004f074c44760092c9010b53fd6d1e..849969a0ee6c11d7250bee58cfeb310380070f9f 100644
+index 85a1910b8f004f074c44760092c9010b53fd6d1e..69cf2bcf0ea828de576924f11ea5233fef9e248f 100644
 --- a/code-system/code-tests/code-tests.module.ts
 +++ b/code-system/code-tests/code-tests.module.ts
 @@ -12,7 +12,7 @@ export const codeTests = {
@@ -32,6 +32,15 @@ index 85a1910b8f004f074c44760092c9010b53fd6d1e..849969a0ee6c11d7250bee58cfeb3103
        invariantKind: "departure",
 -      statement: "What that file preloads is handed to the run of that group alone.",
 +      statement: "The preloads that file names are handed to the run of that group alone.",
+     },
+     {
+       invariantKind: "departure",
+@@ -52,7 +52,7 @@ export const codeTests = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The bunfig.toml at the root is left out of what is handed over.",
++      statement: "The bunfig.toml at the root is left out of the preloads handed over.",
      },
      {
        invariantKind: "departure",
