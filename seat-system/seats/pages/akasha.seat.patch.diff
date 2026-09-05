@@ -48,7 +48,7 @@ index 01f7a84be28c5b0dda2094b70b4396f39f4161c5..ea004ed027a82ed379653d7dd1772383
    expect(index.typeSlugOf(HELD_ID)).toEqual(typeSlugOf(reading, HELD_ID))
  })
 diff --git a/pages/indexes/reading/index-reading.module.code.ts b/pages/indexes/reading/index-reading.module.code.ts
-index 92620ff1d45c6b862a5eb8b2b1ba6a0091cbd6a6..5ae2ac33f8d03728658421fb389ecfbe7bb36618 100644
+index 92620ff1d45c6b862a5eb8b2b1ba6a0091cbd6a6..414d84227e14dcc24f777636bda2444cad086f2a 100644
 --- a/pages/indexes/reading/index-reading.module.code.ts
 +++ b/pages/indexes/reading/index-reading.module.code.ts
 @@ -1,5 +1,5 @@
@@ -58,3 +58,42 @@ index 92620ff1d45c6b862a5eb8b2b1ba6a0091cbd6a6..5ae2ac33f8d03728658421fb389ecfbe
  import { partedIn } from "@akasha/pages/page-file-name"
  import type { Value } from "@akasha/pages/page-value"
  import { indexIdentity } from "../identity/index-identity.index.ts"
+@@ -205,32 +205,14 @@ function carriesNo(slug: string): string {
+   return `no page property carries the slug \`${slug}\``
+ }
+ 
+-function among(slug: string, named: readonly string[]): string {
+-  return (
+-    `\`${slug}\` narrows to ${named.length} page properties and must name its page type — ` +
+-    [...named].sort().join(", ")
+-  )
+-}
+-
+ function shapedIn(reading: Reading, named: string): Schemad {
+-  const address = addressIn(named)
+-  if (address.kind === "qualified") {
+-    const one = filedAt(reading, address.pageTypeSlug, address.slug)
+-    return one === null ? { refused: carriesNo(address.slug) } : { schema: one }
+-  }
+-  const slug = address.kind === "id" ? address.id : address.slug
+-  const found: Schema[] = []
+-  const qualified: string[] = []
+-  for (const shape of reading.listing(SCHEMA_UNDER)) {
+-    if (!shape.directory) continue
+-    const held = filedAt(reading, shape.name, slug)
+-    if (held === null) continue
+-    found.push(held)
+-    qualified.push(`${shape.name}/${slug}`)
++  const address = addressedIn(named)
++  if ("refused" in address) return { refused: address.refused }
++  if ("id" in address) {
++    return { refused: `\`${named}\` names a page by id, and a page property is named by its slug` }
+   }
+-  const one = found[0]
+-  if (found.length === 1 && one !== undefined) return { schema: one }
+-  return { refused: found.length === 0 ? carriesNo(slug) : among(slug, qualified) }
++  const one = filedAt(reading, address.pageTypeSlug, address.value)
++  return one === null ? { refused: carriesNo(address.value) } : { schema: one }
+ }
+ 
+ export function schemaOf(given: string | Reading, named: string): Schemad {
