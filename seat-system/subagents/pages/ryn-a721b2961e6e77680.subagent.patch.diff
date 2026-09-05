@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/code/code-audit-ast-unused.domain.ts b/code/code-audit-ast-unused.domain.ts
+index 521a81cadeda9931feb754508b7c80be8c0e0cd3..2d1db9c353bd3ab85d0888c20e82d4c24e7790ab 100644
+--- a/code/code-audit-ast-unused.domain.ts
++++ b/code/code-audit-ast-unused.domain.ts
+@@ -25,7 +25,7 @@ export const codeAuditAstUnused = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Reachability is computed from what the curation names as entry globs.",
++      statement: "Reachability is computed from the entry globs the curation names.",
+     },
+     {
+       invariantKind: "departure",
