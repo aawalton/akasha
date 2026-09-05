@@ -1,0 +1,112 @@
+runsWarrants: false
+diff --git a/infrastructure/inference-runs/inference-run.workspace-package.ts b/infrastructure/inference-runs/inference-run.workspace-package.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4fad2d5a6d72e7eb1dafc97a83df607d0aa7f5e3
+--- /dev/null
++++ b/infrastructure/inference-runs/inference-run.workspace-package.ts
+@@ -0,0 +1,43 @@
++import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++
++export const inferenceRun = {
++  id: "01a0685d-4b35-7019-9d54-b15d9954b9b1",
++  pageTypeSlug: "workspace-package",
++  slug: "inference-run",
++  definition: "the record kept of every run a model was asked for and of what that run made",
++  manifest: "json",
++  partSlugs: [
++    "module/generation-log",
++    "module/inference-command-line",
++    "module/inference-run-record",
++    "module/inference-run-services",
++    "module/inference-run-store",
++    "module/persist-audio",
++    "module/persist-image",
++    "module/persist-media",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "A run is written down before that run starts rather than once that run has finished.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run that throws is finished as failed rather than left running.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "What a run made is kept as an object and named from the page that object was made under.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reaches a model service.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here knows which host a service is on.",
++    },
++  ],
++} as const satisfies WorkspacePackage
+diff --git a/infrastructure/inference-runs/inference-runs.workspace-package.ts b/infrastructure/inference-runs/inference-runs.workspace-package.ts
+deleted file mode 100644
+index 3ddd949b2c8fe92d9755c87ff814aa62cf6414f7..0000000000000000000000000000000000000000
+--- a/infrastructure/inference-runs/inference-runs.workspace-package.ts
++++ /dev/null
+@@ -1,43 +0,0 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+-
+-export const inferenceRuns = {
+-  id: "01a0685d-4b35-7019-9d54-b15d9954b9b1",
+-  pageTypeSlug: "workspace-package",
+-  slug: "inference-runs",
+-  definition: "the record kept of every run a model was asked for and of what that run made",
+-  manifest: "json",
+-  partSlugs: [
+-    "module/generation-log",
+-    "module/inference-command-line",
+-    "module/inference-run-record",
+-    "module/inference-run-services",
+-    "module/inference-run-store",
+-    "module/persist-audio",
+-    "module/persist-image",
+-    "module/persist-media",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A run is written down before that run starts rather than once that run has finished.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A run that throws is finished as failed rather than left running.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "What a run made is kept as an object and named from the page that object was made under.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here reaches a model service.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here knows which host a service is on.",
+-    },
+-  ],
+-} as const satisfies WorkspacePackage
+diff --git a/infrastructure/inference.domain.ts b/infrastructure/inference.domain.ts
+index ab49fe98ae4a47a351d12bdddb8e30ee042c5513..4bff0be71c5cf3c3e59cd630f4c6fb7ce3363b64 100644
+--- a/infrastructure/inference.domain.ts
++++ b/infrastructure/inference.domain.ts
+@@ -10,7 +10,7 @@ export const inference = {
+     "page-type/inference-run",
+     "workspace-package/inference-clients",
+     "workspace-package/inference-pool",
+-    "workspace-package/inference-runs",
++    "workspace-package/inference-run",
+     "workspace-package/voice-inference",
+   ],
+   invariants: [
