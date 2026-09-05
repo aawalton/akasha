@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/domains/initiatives/properties/intents.record-property.ts b/domains/initiatives/properties/intents.record-property.ts
+index 9eab6ef157a6a7608c647258ef57c715c381a905..8a39518c01388c2ee6b2bd3e8916dce9fb0c354c 100644
+--- a/domains/initiatives/properties/intents.record-property.ts
++++ b/domains/initiatives/properties/intents.record-property.ts
+@@ -27,7 +27,7 @@ export const intents = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An intent is a gap rather than stating which kind of invariant it is.",
++      statement: "An intent is a gap rather than stating which kind of invariant that intent is.",
+     },
+   ],
+ } as const satisfies RecordProperty
