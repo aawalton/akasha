@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/code-system/code-format/code-format.module.ts b/code-system/code-format/code-format.module.ts
-index 13a753120f3caf8c1580f78a4cec4ece5a541864..fa5bda3f7482a1f0f4566edbcbbaddada9124cb5 100644
+index 13a753120f3caf8c1580f78a4cec4ece5a541864..2fd4602507e520ca0619788aba53d720d66389a7 100644
 --- a/code-system/code-format/code-format.module.ts
 +++ b/code-system/code-format/code-format.module.ts
 @@ -32,7 +32,8 @@ export const codeFormat = {
@@ -13,3 +13,12 @@ index 13a753120f3caf8c1580f78a4cec4ece5a541864..fa5bda3f7482a1f0f4566edbcbbaddad
      },
      {
        invariantKind: "departure",
+@@ -97,7 +98,7 @@ export const codeFormat = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "What a body's trouble means is left to the checks that judge the body.",
++      statement: "The meaning of a body's trouble is left to the checks that judge the body.",
+     },
+     {
+       invariantKind: "absence",
