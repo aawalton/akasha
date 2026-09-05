@@ -13,8 +13,7 @@ export const metric = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Most of what is measured comes from an instrument rather than from the thing measured.",
+      statement: "Most of a metric comes from an instrument rather than from the thing measured.",
     },
   ],
 } as const satisfies Domain
