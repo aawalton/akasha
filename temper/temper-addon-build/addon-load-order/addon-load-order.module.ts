@@ -9,7 +9,7 @@ export const addonLoadOrder = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The manifest is written from what the addon's own manifest declares.",
+      statement: "The manifest is written from the values the addon's own manifest declares.",
     },
     {
       invariantKind: "departure",
