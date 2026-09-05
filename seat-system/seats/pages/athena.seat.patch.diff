@@ -1,0 +1,33 @@
+diff --git a/alan/tracking/daily/tracking-resolve/tracking-resolve.module.code.ts b/alan/tracking/daily/tracking-resolve/tracking-resolve.module.code.ts
+index 0868ccfe1b82027ebcfdeb5fef26308f846078c1..aafd807cebd5f18969de80247b6c4ee565cd1f28 100644
+--- a/alan/tracking/daily/tracking-resolve/tracking-resolve.module.code.ts
++++ b/alan/tracking/daily/tracking-resolve/tracking-resolve.module.code.ts
+@@ -12,7 +12,7 @@ import { displayTitle, fieldStr } from "../tracking-format/tracking-format.modul
+ 
+ const PRIOR_SCAN_LIMIT = 5
+ 
+-export const TRACKING_WRITER = "ops-tracking"
++export const TRACKING_WRITER = "tracking"
+ 
+ export const DAILY_TRACKING_VERSION = "3.0"
+ 
+@@ -23,7 +23,9 @@ export async function findOpenSession(_sb: PageAccessClient): Promise<Page | nul
+ export async function requireOpenSession(sb: PageAccessClient): Promise<Page> {
+   const session = await findOpenSession(sb)
+   if (session === null) {
+-    throw inputError('no open session — start one with `ops tracking start "<title>"`')
++    throw inputError(
++      'no open session — open one with `akasha track session open --title "<title>"`'
++    )
+   }
+   return session
+ }
+@@ -33,7 +35,7 @@ export async function ensureNoOpenSession(sb: PageAccessClient): Promise<void> {
+   if (session !== null) {
+     throw inputError(
+       `a session is already open: "${displayTitle(session)}" — ` +
+-        "close it with `ops tracking close`, or transition with `ops tracking switch`"
++        "close it with `akasha track session close`, or move on with `akasha track session switch`"
+     )
+   }
+ }
