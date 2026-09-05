@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/ki/ki.domain.ts b/ki/ki.domain.ts
-index b20cbfeb15f98d217f9f5745c9dbee0ae5faf108..af642761fe7af6a428fa880aa8258a7df544ba50 100644
+index b20cbfeb15f98d217f9f5745c9dbee0ae5faf108..a050cc73533bf6fe7d86960c983897c0fc7e9543 100644
 --- a/ki/ki.domain.ts
 +++ b/ki/ki.domain.ts
-@@ -19,7 +19,7 @@ export const ki = {
+@@ -19,11 +19,11 @@ export const ki = {
    invariants: [
      {
        invariantKind: "departure",
@@ -12,3 +12,8 @@ index b20cbfeb15f98d217f9f5745c9dbee0ae5faf108..af642761fe7af6a428fa880aa8258a7d
      },
      {
        invariantKind: "departure",
+-      statement: "A page type here serves Ki what the matching page type of Alan's serves Alan.",
++      statement: "A page type here serves Ki as the matching page type of Alan's serves Alan.",
+     },
+   ],
+ } as const satisfies Domain
