@@ -112,7 +112,7 @@ export const typecheck = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing of what this run worked out is kept for the next.",
+      statement: "Nothing this run worked out is kept for the next.",
     },
     {
       invariantKind: "departure",
@@ -135,11 +135,11 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A body is read from what the check is handed rather than from the disk.",
+      statement: "A body is read from the change the check is handed rather than from the disk.",
     },
     {
       invariantKind: "departure",
-      statement: "What is judged is judged as the change would leave what is judged.",
+      statement: "Each file judged is judged as the change would leave that file.",
     },
     {
       invariantKind: "departure",
