@@ -26,7 +26,7 @@ function parses(text: string): boolean {
 }
 
 export function spelling(value: unknown): string {
-  if (typeof value === "string" && !parses(value)) return value
+  if (typeof value === "string") return value
   return JSON.stringify(value)
 }
 
