@@ -66,7 +66,7 @@ export const seatDeclaration = {
     },
     {
       invariantKind: "departure",
-      statement: "An assignment ends when whoever acts next has been told.",
+      statement: "An assignment ends when the next to act has been told.",
     },
     { invariantKind: "departure", statement: "Every assignment is stated on the seat." },
     {
