@@ -42,7 +42,7 @@ export const automationToggleChange = {
     },
     {
       invariantKind: "departure",
-      statement: "A value of nothing takes the toggle away rather than switching it off.",
+      statement: "A value of nothing takes the toggle away rather than switching that toggle off.",
     },
     {
       invariantKind: "departure",
