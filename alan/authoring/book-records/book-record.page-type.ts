@@ -45,7 +45,7 @@ export const bookRecord = {
     },
     {
       invariantKind: "departure",
-      statement: "A record carries the words of whoever keeps the book rather than akasha's words.",
+      statement: "A record carries the words of the book's keeper rather than akasha's words.",
     },
     {
       invariantKind: "absence",
