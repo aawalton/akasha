@@ -1,0 +1,26 @@
+diff --git a/alan/fitness/client-profiles/client-profile.page-type.ts b/alan/fitness/client-profiles/client-profile.page-type.ts
+index 8459242791e13c193ad8ccd0f734be911fd503a7..6345264e5629628b4b2e95534200bf73b3e49be5 100644
+--- a/alan/fitness/client-profiles/client-profile.page-type.ts
++++ b/alan/fitness/client-profiles/client-profile.page-type.ts
+@@ -23,7 +23,7 @@ export const clientProfile = {
+   invariants: [
+     {
+       invariantKind: "constraint",
+-      statement: "One client profile page stands, and a second leaves neither of them holding.",
++      statement: "One client profile page exists, and a second leaves neither of them holding.",
+     },
+     {
+       invariantKind: "gap",
+diff --git a/alan/fitness/equipment-items/properties/equipment-loads.number-property.ts b/alan/fitness/equipment-items/properties/equipment-loads.number-property.ts
+index 3445e49af272c24b463b24cdb0cfa217819f5c2c..fad79b86a115b2950ea48576794f472c000fe5af 100644
+--- a/alan/fitness/equipment-items/properties/equipment-loads.number-property.ts
++++ b/alan/fitness/equipment-items/properties/equipment-loads.number-property.ts
+@@ -12,7 +12,7 @@ export const equipmentLoads = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The loads stand in the order they are climbed, lightest first.",
++      statement: "The loads are in the order they are climbed, lightest first.",
+     },
+     {
+       invariantKind: "departure",
