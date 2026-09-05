@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/person-system/device-secrets/properties/device-secret-device-id.text-property.ts b/person-system/device-secrets/properties/device-secret-device-id.text-property.ts
+index 15c8a42cceb1f0094a301861e850a43cc40c2100..9d47a0176804fe174ea6e3575208251c2372afec 100644
+--- a/person-system/device-secrets/properties/device-secret-device-id.text-property.ts
++++ b/person-system/device-secrets/properties/device-secret-device-id.text-property.ts
+@@ -13,7 +13,8 @@ export const deviceSecretDeviceId = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "An iOS device states this value as the identifier it holds for its vendor.",
++      statement:
++        "An iOS device states this value as the identifier that device holds for its vendor.",
+     },
+     {
+       invariantKind: "departure",
