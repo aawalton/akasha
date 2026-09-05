@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/agents/models/gateway/modules/capacity-classification/capacity-classification.module.ts b/agents/models/gateway/modules/capacity-classification/capacity-classification.module.ts
+index dfd97292223fd842132944398ab73a3a524ffd19..37c8be195653ec1172bb4cff3abb5a863025a37d 100644
+--- a/agents/models/gateway/modules/capacity-classification/capacity-classification.module.ts
++++ b/agents/models/gateway/modules/capacity-classification/capacity-classification.module.ts
+@@ -55,7 +55,7 @@ export const capacityClassification = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every class carries a reason naming what the headers said.",
++      statement: "Every class carries a reason naming the values the headers held.",
+     },
+     {
+       invariantKind: "stopgap",
