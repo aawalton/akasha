@@ -26,7 +26,8 @@ export const supervisorInteractiveBoot = {
     },
     {
       invariantKind: "departure",
-      statement: "Headless states the launch as spawned and interactive states it as opened.",
+      statement:
+        "Headless states the launch as spawned and interactive states that launch as opened.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +35,7 @@ export const supervisorInteractiveBoot = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here spawns a Claude child; it readies what a child will need.",
+      statement: "Nothing here spawns a Claude child; this module readies what a child will need.",
     },
   ],
 } as const satisfies Module
