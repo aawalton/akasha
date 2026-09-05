@@ -28,8 +28,7 @@ export const proseRouting = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A hand-declared route beside a flag shaped as a line is refused, because its handler would read the file itself and bypass the single-line parse.",
+      statement: "A hand-declared route beside a flag shaped as a line is refused.",
     },
     {
       invariantKind: "departure",
