@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts
+index a316b672737991fe3a0265390292a68f6785f950..7b06c7751d27779318e03103a140089f593d449d 100644
+--- a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts
++++ b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts
+@@ -35,7 +35,8 @@ export const exerciseRows = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A read that fails gives back what went unread rather than throwing.",
++      statement:
++        "A read that fails gives back the reason the rows went unread rather than throwing.",
+     },
+   ],
+ } as const satisfies Module
