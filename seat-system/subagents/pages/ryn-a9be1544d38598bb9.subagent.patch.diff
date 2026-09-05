@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/temper/temper-watcher/watcher-main/watcher-main.module.ts b/temper/temper-watcher/watcher-main/watcher-main.module.ts
-index 94837a7ce57d2bbc8be0a22d47855223171feea5..936b82dfa8d4d24b905c2eeaf6c4f35bb9f76cb8 100644
+index 94837a7ce57d2bbc8be0a22d47855223171feea5..c028d6dded5936a7bf3a534a7d1dc8c8946095ea 100644
 --- a/temper/temper-watcher/watcher-main/watcher-main.module.ts
 +++ b/temper/temper-watcher/watcher-main/watcher-main.module.ts
 @@ -24,7 +24,7 @@ export const watcherMain = {
@@ -23,6 +23,15 @@ index 94837a7ce57d2bbc8be0a22d47855223171feea5..936b82dfa8d4d24b905c2eeaf6c4f35b
        invariantKind: "departure",
 -      statement: "What repeats the hourly update check is handed in.",
 +      statement: "The call that repeats the hourly update check is handed in.",
+     },
+     {
+       invariantKind: "departure",
+@@ -85,7 +85,7 @@ export const watcherMain = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the watcher remembers about each file is made afresh on every start.",
++      statement: "The state the watcher remembers about each file is made afresh on every start.",
      },
      {
        invariantKind: "departure",
