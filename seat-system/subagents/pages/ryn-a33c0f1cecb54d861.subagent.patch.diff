@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-body-read-beside-an-index/no-body-read-beside-an-index.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-body-read-beside-an-index/no-body-read-beside-an-index.syntax-rule.ts
+index 8b36018285c6a818c22523f60442132f13d64426..a2e325649279bf73c11731a2a0837d9cb6261434 100644
+--- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-body-read-beside-an-index/no-body-read-beside-an-index.syntax-rule.ts
++++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-body-read-beside-an-index/no-body-read-beside-an-index.syntax-rule.ts
+@@ -44,7 +44,7 @@ export const noBodyReadBesideAnIndex = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page body is read by what wraps `valueAt`.",
++      statement: "A page body is read by any function wrapping `valueAt`.",
+     },
+     {
+       invariantKind: "departure",
