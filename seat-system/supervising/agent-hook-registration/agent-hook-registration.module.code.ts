@@ -60,22 +60,22 @@ export function commandFor(codePath: string): string {
 export function hooksFrom(root: string): Record<string, HookRegistration[]> {
   const found: Record<string, HookRegistration[]> = {}
   const seen = new Set<string>()
-  for (const standing of everyOfType(root, PAGE_TYPE)) {
-    if (seen.has(standing.path)) continue
-    seen.add(standing.path)
-    const page = pageAt(root, standing.path)
+  for (const listed of everyOfType(root, PAGE_TYPE)) {
+    if (seen.has(listed.path)) continue
+    seen.add(listed.path)
+    const page = pageAt(root, listed.path)
     const slug = page["slug"]
     const runsAt = namesIn(page["runsAt"])
     if (runsAt === null || runsAt.length === 0) {
       throw new Error(`\`${String(slug)}\` is an agent hook and names no event it runs at`)
     }
     const overTools = namesIn(page["overTools"])
-    if (!standing.path.endsWith(ENDING)) {
+    if (!listed.path.endsWith(ENDING)) {
       throw new Error(
         `\`${String(slug)}\` is an agent hook and its page is not named \`${ENDING}\``
       )
     }
-    const codePath = `${standing.path.slice(0, -ENDING.length)}${CODE}`
+    const codePath = `${listed.path.slice(0, -ENDING.length)}${CODE}`
     if (!existsSync(join(root, codePath))) {
       throw new Error(`\`${String(slug)}\` is an agent hook and ${codePath} is not there to run`)
     }
@@ -108,8 +108,8 @@ export function hooksMerged(
       ? { ...(stated as Record<string, unknown>) }
       : {}
   for (const [event, registrations] of Object.entries(derived)) {
-    const standing = held[event]
-    held[event] = Array.isArray(standing) ? [...standing, ...registrations] : [...registrations]
+    const already = held[event]
+    held[event] = Array.isArray(already) ? [...already, ...registrations] : [...registrations]
   }
   return held
 }

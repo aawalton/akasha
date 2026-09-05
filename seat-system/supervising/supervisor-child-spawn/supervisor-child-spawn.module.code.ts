@@ -37,18 +37,18 @@ function adoptLiveChildOrSpawn(args: {
 }): { proc: InheritedProc; adoptedThisIter: boolean } {
   const { spawnOpts, childExitRule, scanProcs } = args
   const scanned = scanProcs()
-  const standing = scanned.ok
+  const livePid = scanned.ok
     ? findLiveClaudeChild(spawnOpts.agentId, scanned.entries, process.pid)
     : null
-  if (standing !== null) {
+  if (livePid !== null) {
     try {
-      const proc = adoptInheritedProc(standing, childExitRule)
+      const proc = adoptInheritedProc(livePid, childExitRule)
       console.log(
-        `${LOG} adopt: Claude pid=${standing} is already this supervisor's child for agent ${spawnOpts.agentId} — adopting it rather than spawning a second onto the same terminal`
+        `${LOG} adopt: Claude pid=${livePid} is already this supervisor's child for agent ${spawnOpts.agentId} — adopting it rather than spawning a second onto the same terminal`
       )
       return { proc, adoptedThisIter: true }
     } catch (err) {
-      console.error(`${LOG} adopt: standing Claude pid=${standing} could not be adopted:`, err)
+      console.error(`${LOG} adopt: live Claude pid=${livePid} could not be adopted:`, err)
     }
   }
   enforceMemoryGuard("claude session")
