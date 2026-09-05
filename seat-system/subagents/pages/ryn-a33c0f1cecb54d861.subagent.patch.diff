@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/inboxes/inbox-tracking-polling/inbox-tracking-polling.module.ts b/alan/harness/inboxes/inbox-tracking-polling/inbox-tracking-polling.module.ts
+index 3b2aaa27a6d875239e17fa4a51605e2d6007c63b..aafd5e3efe9ce45886a2f6dd5f32204c5036dd85 100644
+--- a/alan/harness/inboxes/inbox-tracking-polling/inbox-tracking-polling.module.ts
++++ b/alan/harness/inboxes/inbox-tracking-polling/inbox-tracking-polling.module.ts
+@@ -14,7 +14,7 @@ export const inboxTrackingPolling = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What is written is the count now, together with whether that inbox was cleared to zero today.",
++        "The write puts the count now, together with whether that inbox was cleared to zero today.",
+     },
+     {
+       invariantKind: "departure",
