@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-player-completion/apply-completion-overrides/apply-completion-overrides.module.ts b/temper/temper-player-completion/apply-completion-overrides/apply-completion-overrides.module.ts
+index 36a836ce6fd5e3554e9b8915d153b5ffdbd7e5b2..82eb57b7751ee17ea51e19103db8b3a8c2edc4cc 100644
+--- a/temper/temper-player-completion/apply-completion-overrides/apply-completion-overrides.module.ts
++++ b/temper/temper-player-completion/apply-completion-overrides/apply-completion-overrides.module.ts
+@@ -10,7 +10,7 @@ export const applyCompletionOverrides = {
+   invariants: [
+     {
+       invariantKind: "constraint",
+-      statement: "An override never lowers what a character already counts.",
++      statement: "An override never lowers the points a character already counts.",
+     },
+     {
+       invariantKind: "constraint",
