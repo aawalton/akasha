@@ -455,6 +455,14 @@ index 5294db7cc54114171b3de5dcabbfd8e203ffa380..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../rules-engine
 \ No newline at end of file
+diff --git a/seat-system/seat-system b/seat-system/seat-system
+deleted file mode 120000
+index 61be9d1ba6f54d21dfdac0e435de42ca4d5fc0d7..0000000000000000000000000000000000000000
+--- a/seat-system/seat-system
++++ /dev/null
+@@ -1 +0,0 @@
+-../../seat-system
+\ No newline at end of file
 diff --git a/utils-fs/utils-fs b/utils-fs/utils-fs
 deleted file mode 120000
 index 8a4350bb29c2cb7e9846cf1a8d7d0cf52c94bd83..0000000000000000000000000000000000000000
