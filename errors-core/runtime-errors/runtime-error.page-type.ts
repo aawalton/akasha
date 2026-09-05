@@ -71,7 +71,7 @@ export const runtimeError = {
     },
     {
       invariantKind: "departure",
-      statement: "What the first report carried is what the commit holds.",
+      statement: "The fields the first report carried are the fields the commit holds.",
     },
     {
       invariantKind: "departure",
@@ -103,7 +103,7 @@ export const runtimeError = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here takes a secret out of what a report carried.",
+      statement: "Nothing here takes a secret out of the fields a report carried.",
     },
     {
       invariantKind: "departure",
