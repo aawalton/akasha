@@ -55,7 +55,7 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "A function is judged a component by what the function answers with.",
+      statement: "A function is judged a component by the value the function answers with.",
     },
     {
       invariantKind: "departure",
