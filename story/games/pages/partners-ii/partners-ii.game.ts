@@ -1,4 +1,4 @@
-import type { Game } from "../game.page-type.ts"
+import type { Game } from "../../game.page-type.ts"
 
 export const partnersIi = {
   id: "01a0673f-a3d6-7003-8d45-3d6b84fb0b2e",
