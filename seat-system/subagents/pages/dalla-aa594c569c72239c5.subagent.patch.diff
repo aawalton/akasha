@@ -1,5 +1,5 @@
 diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
-index 3fa103fe20538a26352f64bfca44adb07d1b1074..970ba63ac083c526b2629a0ebb59889c27f49989 100644
+index 3fa103fe20538a26352f64bfca44adb07d1b1074..3c57e82877be43d910c885d8da4e41a3ae3841dc 100644
 --- a/command-system/asking/asking.module.code.ts
 +++ b/command-system/asking/asking.module.code.ts
 @@ -1,4 +1,4 @@
@@ -79,3 +79,36 @@ index 3fa103fe20538a26352f64bfca44adb07d1b1074..970ba63ac083c526b2629a0ebb59889c
    if (page === null) {
      return mistaking([
        "a patch is kept beside the page of the agent drafting it, and this call names no such page",
+@@ -331,18 +372,22 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer>
+   const message = messageWith(held, bypass, broken)
+   const asRead = asReadIn(given, formatting.changes)
+   if (held.draft === true) return await draftingAsked(given, held, gate, message, asRead, aside)
++  const page = held.applies === true ? pageFor(given) : null
+   let said: Landed | Refused
+   try {
+-    said = await landing(
+-      given.root,
+-      held.changes,
+-      message,
+-      gate,
+-      given.writer,
+-      held.read ?? null,
+-      asRead,
+-      held.carries ?? []
+-    )
++    said =
++      page === null
++        ? await landing(
++            given.root,
++            held.changes,
++            message,
++            gate,
++            given.writer,
++            held.read ?? null,
++            asRead,
++            held.carries ?? []
++          )
++        : await appliedThrough(given, held, gate, message, asRead, page)
+   } catch (thrown) {
+     return {
+       report: [],
