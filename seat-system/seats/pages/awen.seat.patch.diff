@@ -75,7 +75,7 @@ index fec08f6e2f3caf541465c01a155627f1d3af63a7..1c47f785efc81292962c41328030fa46
 +  })
 +}
 diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
-index 7944ba0ada3fc1a23e25d8964b3df1aff81be4e4..8f7c5766b790ca8bc5d7b43b3765a3a3fce44b3c 100644
+index 7944ba0ada3fc1a23e25d8964b3df1aff81be4e4..d0aade2f92830e853d8cffad9e4b3642f5f8bc9f 100644
 --- a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 +++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 @@ -5,7 +5,9 @@ import type { Change } from "@akasha/pages/change"
@@ -204,7 +204,7 @@ index 7944ba0ada3fc1a23e25d8964b3df1aff81be4e4..8f7c5766b790ca8bc5d7b43b3765a3a3
    const held = change(root, { "akasha/one.ts": "export const one = 2\n" })
    expect(reached(held)).toEqual(["akasha/one.ts", "akasha/two.ts"])
    expect(reachedBy(held, shadowAsked(held).index)).toEqual(["akasha/one.ts", "akasha/two.ts"])
-@@ -318,7 +315,7 @@ test("an index standing and naming no importer is an answer, so the change alone
+@@ -318,16 +315,13 @@ test("an index standing and naming no importer is an answer, so the change alone
  })
  
  test("a change naming no TypeScript under the akasha folder asks the index nothing", async () => {
@@ -213,7 +213,17 @@ index 7944ba0ada3fc1a23e25d8964b3df1aff81be4e4..8f7c5766b790ca8bc5d7b43b3765a3a3
    rmSync(join(root, ".git"), { recursive: true })
    expect(await judged(change(root, { "akasha/notes.txt": "nothing to compile\n" }))).toEqual([])
  })
-@@ -339,12 +336,7 @@ test("a file whole at base and deleted from the worktree alone still answers for
+ 
+ test("a file whole at base and deleted from the worktree alone still answers for its errors", async () => {
+-  const root = staged({
+-    "akasha/a.ts": ONE_NUMBER,
+-    "akasha/b.ts": 'import { one } from "./a.ts"\nexport const two: string = one\n',
+-  })
++  const root = basing()
+   const held = readFileSync(join(root, "akasha/b.ts"), "utf8")
+   const changed = { "akasha/a.ts": ONE_NUMBER }
+   const refusals = await judged(change(root, changed))
+@@ -339,12 +333,7 @@ test("a file whole at base and deleted from the worktree alone still answers for
  })
  
  test("a diagnostic carried in a chain is one reason", async () => {
