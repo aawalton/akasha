@@ -42,3 +42,26 @@ index c3246bf38a3e7dff249e56de00ee3fd1cfc9f700..6e8da80084c6b60433addea3c1efd504
    } catch (error) {
      fail(error instanceof Error ? error.message : String(error))
    }
+diff --git a/seat-system/compose-subagents/compose-subagents.module.ts b/seat-system/compose-subagents/compose-subagents.module.ts
+index 48dcdf0428f8d09cb89a40f131ed9283ab1585fe..36568d3bc522827f29afa9bcf7f287d98ff03125 100644
+--- a/seat-system/compose-subagents/compose-subagents.module.ts
++++ b/seat-system/compose-subagents/compose-subagents.module.ts
+@@ -9,7 +9,7 @@ export const composeSubagents = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This module is run as its own program, killed at a ceiling by what asks it.",
++      statement: "What asks for the kinds imports this and calls it rather than running it.",
+     },
+     {
+       invariantKind: "departure",
+@@ -31,9 +31,5 @@ export const composeSubagents = {
+       invariantKind: "departure",
+       statement: "The pages are read by a relative path within akasha rather than by a specifier.",
+     },
+-    {
+-      invariantKind: "gap",
+-      statement: "The old copy at tools/compose-subagents.ts is still there and still has readers.",
+-    },
+   ],
+ } as const satisfies Module
