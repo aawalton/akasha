@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/wan/wan.workspace-package.ts b/infrastructure/wan/wan.workspace-package.ts
+index f2d3d21c50fa7765082b1c652c50aa319390e727..68fcd376634d9a15a9475203081d55a0b9b41a83 100644
+--- a/infrastructure/wan/wan.workspace-package.ts
++++ b/infrastructure/wan/wan.workspace-package.ts
+@@ -21,7 +21,7 @@ export const wan = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A graph is built here and run by whoever holds the daemon.",
++      statement: "A graph is built here and run by the holder of the daemon.",
+     },
+     {
+       invariantKind: "departure",
