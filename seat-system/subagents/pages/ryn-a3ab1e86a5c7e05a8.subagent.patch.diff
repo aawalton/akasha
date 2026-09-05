@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/editor-extension/newest-wins/newest-wins.module.ts b/editor-extension/newest-wins/newest-wins.module.ts
+index 5a605778b6336abc2cbd0c012d01d7a59fb2725f..fdab556323abad10cc4416eedbbf96e9ea64df2a 100644
+--- a/editor-extension/newest-wins/newest-wins.module.ts
++++ b/editor-extension/newest-wins/newest-wins.module.ts
+@@ -22,7 +22,8 @@ export const newestWins = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The ask waiting is taken up by the run in flight rather than by whoever asked.",
++      statement:
++        "The ask waiting is taken up by the run in flight rather than by the caller that asked.",
+     },
+     {
+       invariantKind: "departure",
