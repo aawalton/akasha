@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-watcher/watcher-stable-read/watcher-stable-read.module.ts b/temper/temper-watcher/watcher-stable-read/watcher-stable-read.module.ts
+index efa8b619f3d88e6fc61aad8c3bbc80639fcc4071..0e3c59d01a7fff37f5d82bba5d54de24dc1c4dc1 100644
+--- a/temper/temper-watcher/watcher-stable-read/watcher-stable-read.module.ts
++++ b/temper/temper-watcher/watcher-stable-read/watcher-stable-read.module.ts
+@@ -38,7 +38,7 @@ export const watcherStableRead = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here parses what the file holds.",
++      statement: "Nothing here parses the file's contents.",
+     },
+   ],
+ } as const satisfies Module
