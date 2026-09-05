@@ -1,0 +1,19 @@
+import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
+
+export const ruleResearchStolen = {
+  id: "01a0728b-6d6f-78a3-a8ee-4d5c402d674a",
+  pageTypeSlug: "temper-inventory-rule",
+  slug: "rule-research-stolen",
+  title: "Launder stolen researchables",
+  description:
+    "Launders stolen equipment with a researchable trait so it can be submitted at a crafting station. Place before other research rules.",
+  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  categoryId: "equipment",
+  displayOrder: 40,
+  action: "fence-launder",
+  active: true,
+  goal: "unlock",
+  locked: true,
+  fromTemplate: "research-stolen",
+  conditions: "jsonl",
+} as const satisfies TemperInventoryRule

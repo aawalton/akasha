@@ -1,0 +1,16 @@
+import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
+
+export const ruleF0ce7528 = {
+  id: "01a0728b-2e7d-799b-b376-18298aac8ae9",
+  pageTypeSlug: "temper-inventory-rule",
+  slug: "rule-f0ce7528",
+  title: "Stock tri-restoration potions",
+  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  categoryId: "potions",
+  displayOrder: 18,
+  action: "stock",
+  active: true,
+  stockScope: "any-character",
+  conditions: "jsonl",
+  destinationChain: "jsonl",
+} as const satisfies TemperInventoryRule

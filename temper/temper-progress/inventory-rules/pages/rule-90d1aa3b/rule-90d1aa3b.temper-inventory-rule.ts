@@ -1,0 +1,16 @@
+import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
+
+export const rule90d1aa3b = {
+  id: "01a0728a-f56f-72eb-8914-32da9b6ac87e",
+  pageTypeSlug: "temper-inventory-rule",
+  slug: "rule-90d1aa3b",
+  title: "Sell known scripts",
+  description: "Dispose of scribing scripts once every character knows them",
+  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  categoryId: "scripts",
+  displayOrder: 76,
+  action: "sell",
+  active: true,
+  goal: "sell",
+  conditions: "jsonl",
+} as const satisfies TemperInventoryRule

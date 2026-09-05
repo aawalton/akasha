@@ -1,0 +1,16 @@
+import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
+
+export const rule905b4b47 = {
+  id: "01a0728a-f56e-7a62-b457-c78c5ce41801",
+  pageTypeSlug: "temper-inventory-rule",
+  slug: "rule-905b4b47",
+  title: "Stock stamina-restoration potions (white)",
+  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  categoryId: "potions",
+  displayOrder: 19,
+  action: "stock",
+  active: true,
+  stockScope: "any-character",
+  conditions: "jsonl",
+  destinationChain: "jsonl",
+} as const satisfies TemperInventoryRule

@@ -1,0 +1,19 @@
+import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
+
+export const ruleHolidayWritsBank = {
+  id: "01a0728b-4fbc-78e7-9225-32778a10dad0",
+  pageTypeSlug: "temper-inventory-rule",
+  slug: "rule-holiday-writs-bank",
+  title: "Bank holiday writs",
+  description:
+    "Stashes holiday event writs in the bank. Complete them during events for bonus rewards.",
+  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  categoryId: "holiday-writs",
+  displayOrder: 46,
+  action: "move-to",
+  active: true,
+  goal: "task",
+  locked: true,
+  fromTemplate: "holiday-writs-bank",
+  destination: "guild-bank:Walton Mountain",
+} as const satisfies TemperInventoryRule

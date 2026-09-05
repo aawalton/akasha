@@ -1,0 +1,4 @@
+{"id":"01a0728b-2e64-7840-b9a7-956a82870765","conditionField":"can-unlock","conditionValue":"cannot-unlock"}
+{"id":"01a0728b-2e64-7b1a-8b2b-bd873d343f2a","conditionField":"market-value","conditionValue":"MIN_LISTING_VALUE"}
+{"id":"01a0728b-2e64-7c31-81bc-bbbf9456606c","conditionField":"market-value-op","conditionValue":">="}
+{"id":"01a0728b-2e64-72b7-9cb6-cfb48064489a","conditionField":"can-list-at-guild-trader","conditionValue":"can-list-at-guild-trader"}

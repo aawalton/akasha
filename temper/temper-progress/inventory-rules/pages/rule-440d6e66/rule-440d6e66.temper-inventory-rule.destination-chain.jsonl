@@ -1,0 +1,2 @@
+{"id":"01a0728a-f551-7250-aafd-4220016fbe4e","destination":"character:by-priority","targetQuantity":10,"charEligibility":"{\"requiredSkillLines\":{\"mode\":\"any-not-maxed\",\"skillLineIds\":[\"world-legerdemain\",\"guild-thieves-guild\",\"guild-dark-brotherhood\"]}}"}
+{"id":"01a0728a-f551-7fb8-803a-a5d33a9acf34","destination":"bank"}

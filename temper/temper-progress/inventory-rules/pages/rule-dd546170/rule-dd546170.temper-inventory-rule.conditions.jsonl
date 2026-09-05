@@ -1,0 +1,4 @@
+{"id":"01a0728b-2e64-722a-85f6-eac2f2432d4e","conditionField":"can-unlock","conditionValue":"cannot-unlock"}
+{"id":"01a0728b-2e64-77eb-9e13-346e16e7c0ed","conditionField":"market-value","conditionValue":"MIN_LISTING_VALUE"}
+{"id":"01a0728b-2e64-7f57-ac44-1662ddfee101","conditionField":"market-value-op","conditionValue":"<"}
+{"id":"01a0728b-2e64-77a5-9936-7ba4b942aae8","conditionField":"merchant-value","conditionValue":"0"}

@@ -1,0 +1,19 @@
+import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
+
+export const ruleUnlockStolen = {
+  id: "01a0728b-8ec2-7808-9e1b-362739c2b586",
+  pageTypeSlug: "temper-inventory-rule",
+  slug: "rule-unlock-stolen",
+  title: "Launder stolen unlockables",
+  description:
+    "Launders stolen items that can teach something (motifs, recipes, etc.) so they can be used. Place before other unlock rules.",
+  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  categoryId: "knowledge",
+  displayOrder: 26,
+  action: "fence-launder",
+  active: true,
+  goal: "unlock",
+  locked: true,
+  fromTemplate: "unlock-stolen",
+  conditions: "jsonl",
+} as const satisfies TemperInventoryRule

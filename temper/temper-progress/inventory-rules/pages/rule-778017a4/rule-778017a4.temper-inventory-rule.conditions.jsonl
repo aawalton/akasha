@@ -1,0 +1,4 @@
+{"id":"01a0728a-f551-7689-ada2-50e6dcf61b60","conditionField":"can-sell","conditionValue":"can-sell"}
+{"id":"01a0728a-f551-773e-b53f-d5d8e3eedc7b","conditionField":"max-quality","conditionValue":"4"}
+{"id":"01a0728a-f551-7124-bfad-da9417230805","conditionField":"market-value","conditionValue":"MIN_LISTING_VALUE"}
+{"id":"01a0728a-f551-70c2-a27d-718557ccb94e","conditionField":"market-value-op","conditionValue":"<"}

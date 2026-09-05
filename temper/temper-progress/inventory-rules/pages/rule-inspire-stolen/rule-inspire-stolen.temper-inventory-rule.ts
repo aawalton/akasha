@@ -1,0 +1,19 @@
+import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
+
+export const ruleInspireStolen = {
+  id: "01a0728b-4fbd-795a-8639-2dab20ad7664",
+  pageTypeSlug: "temper-inventory-rule",
+  slug: "rule-inspire-stolen",
+  title: "Launder stolen inspiration",
+  description:
+    "Launders stolen equipment that would give useful crafting inspiration, so it can be deconstructed. Place before other inspiration rules.",
+  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  categoryId: "equipment",
+  displayOrder: 43,
+  action: "fence-launder",
+  active: true,
+  goal: "progress",
+  locked: true,
+  fromTemplate: "inspire-stolen",
+  conditions: "jsonl",
+} as const satisfies TemperInventoryRule

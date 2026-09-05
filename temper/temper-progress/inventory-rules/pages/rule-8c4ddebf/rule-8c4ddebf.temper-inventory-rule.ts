@@ -1,0 +1,16 @@
+import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
+
+export const rule8c4ddebf = {
+  id: "01a0728a-f56d-7fbc-b5db-16a0fc5dc403",
+  pageTypeSlug: "temper-inventory-rule",
+  slug: "rule-8c4ddebf",
+  title: "Stock magicka-restoration potions (white)",
+  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  categoryId: "potions",
+  displayOrder: 20,
+  action: "stock",
+  active: true,
+  stockScope: "any-character",
+  conditions: "jsonl",
+  destinationChain: "jsonl",
+} as const satisfies TemperInventoryRule
