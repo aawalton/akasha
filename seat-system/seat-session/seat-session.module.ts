@@ -26,8 +26,7 @@ export const seatSession = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Keeping a session does nothing, because the page write is what lands that session.",
+      statement: "Keeping a session does nothing, because the page write lands that session.",
     },
   ],
 } as const satisfies Module
