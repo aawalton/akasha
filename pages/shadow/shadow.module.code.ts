@@ -61,10 +61,6 @@ function nothingMoved(change: Change): boolean {
   return change.after === change.before
 }
 
-function heldToHead(change: Change): string | null {
-  return nothingMoved(change) ? change.root : null
-}
-
 function keyOf(bytes: Uint8Array): string {
   return createHash("sha256").update(bytes).digest("hex")
 }
@@ -90,14 +86,10 @@ function codeOver(change: Change): (path: string) => string | null {
   }
 }
 
-function shadowOver(
-  reading: Reading,
-  root: string,
-  bodyOf: (path: string) => Value | null
-): Shadow {
+function shadowOver(reading: Reading, bodyOf: (path: string) => Value | null): Shadow {
   const pageOf = remembering(filedOver(reading, bodyOf))
   return {
-    index: answeringOver(reading, root, pageOf),
+    index: answeringOver(reading, pageOf),
     filed: () => [],
     pageOf,
     codeAt: (path) => path,
@@ -105,14 +97,14 @@ function shadowOver(
 }
 
 export function shadowAt(root: string): Shadow {
-  return shadowOver(readingIn(root), root, bodyOnDisk(root))
+  return shadowOver(readingIn(root), bodyOnDisk(root))
 }
 
 function castOver(change: Change): Cast {
   const body = bodyIn(change)
   if (nothingMoved(change)) {
     const reading = readingIn(change.root)
-    return { shadow: shadowOver(reading, change.root, body), reading }
+    return { shadow: shadowOver(reading, body), reading }
   }
   const carried = new Set(change.changed)
   const filed = filedOver(readingIn(change.root), body)
@@ -125,7 +117,7 @@ function castOver(change: Change): Cast {
     }))
     const settled = settlingOver(readingIn(change.root), change.root, moving, pageOf)
     const reading = settled.reading
-    const index = answeringOver(reading, heldToHead(change), pageOf)
+    const index = answeringOver(reading, pageOf)
     const filed = (): readonly Filing[] => settled.filings
     return { shadow: { index, filed, pageOf, codeAt: codeOver(change) }, reading }
   } catch (thrown) {
@@ -150,7 +142,7 @@ export function shadowAsked(change: Change): Shadow {
   }
   const pageOf = (path: string): Value | null => worked().shadow.pageOf(path)
   return {
-    index: answeringOver(reading, heldToHead(change), pageOf),
+    index: answeringOver(reading, pageOf),
     filed: () => worked().shadow.filed(),
     pageOf,
     codeAt: (path) => worked().shadow.codeAt(path),

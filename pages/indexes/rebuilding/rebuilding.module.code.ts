@@ -1,12 +1,15 @@
-import { existsSync, mkdirSync, readdirSync, readFileSync, renameSync, rmSync } from "node:fs"
+import {
+  existsSync,
+  mkdirSync,
+  readFileSync,
+  renameSync,
+  rmdirSync,
+  rmSync,
+  writeFileSync,
+} from "node:fs"
 import { dirname, join } from "node:path"
-import { rebuiltFrom } from "../indexing/indexing.module.code.ts"
-import { type Stamp, stampIn } from "../stamp/index-stamp.module.code.ts"
-import { indexIn } from "../surface/index-surface.module.code.ts"
-
-const ASIDE = "refreshing"
-
-const GONE = "replaced"
+import type { Entry } from "../entries/index-entries.module.code.ts"
+import { walkedUnder } from "../tree-reading/tree-reading.module.code.ts"
 
 export type Drift = {
   readonly added: readonly string[]
@@ -14,66 +17,62 @@ export type Drift = {
   readonly went: readonly string[]
 }
 
-export type Rebuilt = {
-  readonly pages: number
-  readonly entries: number
-  readonly refused: readonly string[]
-  readonly stamp: Stamp | null
-  readonly drift: Drift
-}
-
-function filesUnder(at: string): readonly string[] {
-  if (!existsSync(at)) return []
-  const found: string[] = []
-  const walk = (here: string, said: string): undefined => {
-    for (const one of readdirSync(here, { withFileTypes: true })) {
-      const named = `${said}${one.name}`
-      if (one.isDirectory()) walk(join(here, one.name), `${named}/`)
-      else found.push(named)
+function pruneAbove(at: string, root: string): undefined {
+  let here = at
+  while (here !== root && here.startsWith(root)) {
+    try {
+      rmdirSync(here)
+    } catch {
+      return
     }
+    here = dirname(here)
   }
-  walk(at, "")
-  return found.sort()
 }
 
-export function driftBetween(was: string, now: string): Drift {
-  const before = new Set(filesUnder(was))
+export function keepWhole(at: string, lines: readonly string[], root: string): undefined {
+  if (lines.length === 0) {
+    if (existsSync(at)) rmSync(at)
+    pruneAbove(dirname(at), root)
+    return
+  }
+  mkdirSync(dirname(at), { recursive: true })
+  const near = `${at}.${process.pid}.part`
+  writeFileSync(near, `${lines.join("\n")}\n`)
+  renameSync(near, at)
+}
+
+function bodyAt(at: string): string | null {
+  try {
+    return readFileSync(at, "utf8")
+  } catch {
+    return null
+  }
+}
+
+export function reconcile(
+  under: string,
+  entries: readonly Entry[],
+  root: string,
+  put: boolean
+): Drift {
+  const wanted = Map.groupBy(entries, (one) => one.at)
   const added: string[] = []
   const changed: string[] = []
-  for (const one of filesUnder(now)) {
-    if (!before.has(one)) {
-      added.push(one)
-      continue
-    }
-    before.delete(one)
-    if (readFileSync(join(was, one), "utf8") !== readFileSync(join(now, one), "utf8")) {
-      changed.push(one)
-    }
+  const went: string[] = []
+  for (const [at, held] of wanted) {
+    const lines = [...new Set(held.map((one) => one.line))].sort()
+    const path = join(root, at)
+    const was = bodyAt(path)
+    if (was === `${lines.join("\n")}\n`) continue
+    if (was === null) added.push(at)
+    else changed.push(at)
+    if (put) keepWhole(path, lines, root)
   }
-  return { added, changed, went: [...before].sort() }
-}
-
-function swapped(at: string, aside: string): undefined {
-  const gone = `${at}.${GONE}.${process.pid}`
-  rmSync(gone, { recursive: true, force: true })
-  if (existsSync(at)) renameSync(at, gone)
-  mkdirSync(dirname(at), { recursive: true })
-  renameSync(aside, at)
-  rmSync(gone, { recursive: true, force: true })
-}
-
-export function rebuiltWhole(repo: string, tree: string, put: boolean): Rebuilt {
-  const at = indexIn(repo)
-  const aside = `${at}.${ASIDE}.${process.pid}`
-  try {
-    rmSync(aside, { recursive: true, force: true })
-    mkdirSync(aside, { recursive: true })
-    const said = rebuiltFrom(tree, aside, repo)
-    const drift = driftBetween(at, aside)
-    const stamp = stampIn(aside)
-    if (put) swapped(at, aside)
-    return { ...said, drift, stamp }
-  } finally {
-    rmSync(aside, { recursive: true, force: true })
+  for (const one of existsSync(under) ? walkedUnder(under, () => true) : []) {
+    const at = one.slice(root.length + 1)
+    if (wanted.has(at)) continue
+    went.push(at)
+    if (put) keepWhole(one, [], root)
   }
+  return { added: added.sort(), changed: changed.sort(), went: went.sort() }
 }

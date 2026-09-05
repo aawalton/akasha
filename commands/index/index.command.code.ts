@@ -1,8 +1,9 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
+import { told as gitTold } from "@akasha/git/git-running"
 import { indexNamed } from "@akasha/indexes"
-import { type Drift, rebuiltWhole } from "@akasha/indexes/rebuilding"
-import { headOf, type Stamp, unlandedIn } from "@akasha/indexes/stamp"
+import { rebuiltWhole } from "@akasha/indexes/indexing"
+import type { Drift } from "@akasha/indexes/rebuilding"
 import { counted } from "../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../command-system/fault-saying/fault-saying.module.code.ts"
@@ -12,13 +13,9 @@ export const REFRESH = "refresh"
 
 export const DRY_RUN = "--dry-run"
 
-export const UNLANDED = "--unlanded"
-
 const ACTS = [REFRESH]
 
 const DOMAIN_AT = "akasha.domain.ts"
-
-const HERE = "."
 
 const SHOWN = 5
 
@@ -31,7 +28,7 @@ const COMMITTING = new Map<string, string>([
 ])
 
 export type Read =
-  | { readonly act: string; readonly dryRun: boolean; readonly unlanded: boolean }
+  | { readonly act: string; readonly dryRun: boolean }
   | { readonly refused: readonly string[] }
 
 function acts(): string {
@@ -42,16 +39,11 @@ export function readIn(argv: readonly string[]): Read {
   const refusals: string[] = []
   let act: string | null = null
   let dryRun = false
-  let unlanded = false
   for (let at = 0; at < argv.length; at += 1) {
     const one = argv[at]
     if (one === undefined) continue
     if (one === DRY_RUN) {
       dryRun = true
-      continue
-    }
-    if (one === UNLANDED) {
-      unlanded = true
       continue
     }
     const why = COMMITTING.get(one)
@@ -61,9 +53,7 @@ export function readIn(argv: readonly string[]): Read {
       continue
     }
     if (one.startsWith("-")) {
-      refusals.push(
-        `\`${one}\` is no flag this takes — it takes \`${DRY_RUN}\` and \`${UNLANDED}\``
-      )
+      refusals.push(`\`${one}\` is no flag this takes — it takes \`${DRY_RUN}\``)
       continue
     }
     if (act !== null) {
@@ -79,7 +69,7 @@ export function readIn(argv: readonly string[]): Read {
     refusals.push(`\`${act}\` is no act this carries — it carries \`${acts()}\``)
   }
   if (refusals.length > 0) return { refused: refusals }
-  return { act, dryRun, unlanded }
+  return { act, dryRun }
 }
 
 export function named(paths: readonly string[]): string {
@@ -102,44 +92,25 @@ function refusing(said: readonly string[], code: number): Answer {
   return { report: [], refusals: [...said, UNCHANGED], code }
 }
 
-function stampSaid(held: Stamp | null): string {
-  if (held === null) return "nothing stamped it — the index names no commit it was built from"
-  return `stamped with ${held.commit}, over \`${held.tree}\`, naming ${counted(held.settled.length, "unlanded path")}`
-}
-
-function refreshing(root: string, read: { dryRun: boolean; unlanded: boolean }): Answer {
+function refreshing(root: string, read: { dryRun: boolean }): Answer {
   const tree = root
   if (!existsSync(join(tree, DOMAIN_AT))) {
     return refusing([`${root} holds no \`${DOMAIN_AT}\`, so there is no index to build`], 2)
   }
-  const head = headOf(root)
+  const head = gitTold(root, ["rev-parse", "HEAD"])?.trim() ?? null
   if (head === null) {
-    return refusing([`no commit could be read from ${root}, so nothing could stamp the index`], 3)
-  }
-  const apart = unlandedIn(root, HERE)
-  if (apart.length > 0 && !read.unlanded) {
-    return refusing(
-      [
-        `${root} stands apart from HEAD in ${counted(apart.length, "path")} — ${named(apart)}`,
-        `a rebuild takes those bodies as they stand — land them, or say \`${UNLANDED}\` to build over them`,
-      ],
-      2
-    )
+    return refusing([`no commit could be read from ${root}, so there is nothing to build over`], 3)
   }
   const said = rebuiltWhole(root, tree, !read.dryRun)
   const report = [
     `the index was built over ${root} as it stands, at ${head}`,
     `${counted(said.pages, "page")}, ${said.entries} entries, ${said.refused.length} refused`,
-    stampSaid(said.stamp),
     driftSaid(said.drift),
   ]
-  if (apart.length > 0) {
-    report.push(
-      `${counted(apart.length, "path")} stand apart from HEAD and the stamp names them — ${named(apart)}`
-    )
-  }
   report.push(
-    read.dryRun ? `nothing was put in place — ${DRY_RUN}` : `${indexNamed()} was replaced whole`
+    read.dryRun
+      ? `nothing was put in place — ${DRY_RUN}`
+      : `${indexNamed()} was repaired in place, entry by entry`
   )
   return {
     report,

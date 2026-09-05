@@ -1,6 +1,5 @@
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { said as gitIn } from "@akasha/git/git-running"
-import { linesFiled, stampedIn } from "@akasha/indexes/testing"
+import { linesFiled } from "@akasha/indexes/testing"
 import { put } from "@akasha/testing-system/putting"
 
 const GRAPH_EDGE = "graph-edge"
@@ -18,8 +17,6 @@ const HELD_TYPE = "held-type"
 const LOADED = "loaded"
 
 const INVENTED = "an index a test invented so that no name could be assumed"
-
-const TREE = "akasha"
 
 const PREFIX = "graph-asking-"
 
@@ -165,17 +162,6 @@ export function relationWorld(lines: number, pagesExist = true): string {
 
 function worldFor(indexName: string): string {
   const root = scratch.rootFor(PREFIX)
-  gitIn(root, ["init", "--quiet"])
-  gitIn(root, ["config", "user.email", HELD])
-  gitIn(root, ["config", "user.name", HELD])
-  put(root, HELD, `${HELD}\n`)
-  gitIn(root, ["add", "--", HELD])
-  gitIn(root, ["commit", "--quiet", "-m", HELD, "--", HELD])
-  stampedIn(root, {
-    commit: gitIn(root, ["rev-parse", "HEAD"]).trim(),
-    tree: TREE,
-    settled: [],
-  })
   edged(root, IMPORT_EDGE, { attributeSlugs: [`${GRAPH_ATTRIBUTE}/${KNOWN}`] }, true)
   indexed(root, indexName, true)
   filed(root, `path/${EDGE_AT}.jsonl`, { path: EDGE_AT, id: EDGE_ID })

@@ -1,12 +1,4 @@
-import {
-  appendFileSync,
-  cpSync,
-  existsSync,
-  mkdirSync,
-  readdirSync,
-  rmSync,
-  writeFileSync,
-} from "node:fs"
+import { appendFileSync, cpSync, existsSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { everyFileUnder } from "@akasha/testing-system/walking"
 import type { Entry } from "../entries/index-entries.module.code.ts"
@@ -17,7 +9,6 @@ import { indexPath } from "../path/index-path.index.ts"
 import { indexRelation } from "../relation/index-relation.index.ts"
 import { indexSchema } from "../schema/index-schema.index.ts"
 import type { Reading } from "../shape/index-shape.module.code.ts"
-import { type Stamp, stampIn, stampKept, stampTaken } from "../stamp/index-stamp.module.code.ts"
 import { beneath, indexIn, overlaidOn } from "../surface/index-surface.module.code.ts"
 import { indexValue } from "../value/index-value.index.ts"
 import { readingIn } from "./index-reading.module.code.ts"
@@ -229,28 +220,8 @@ export function everythingRead(reading: Reading): Record<string, unknown> {
   return said
 }
 
-export function besideTheIndex(root: string): readonly string[] {
-  const at = indexIn(root)
-  return readdirSync(dirname(at))
-    .map((one) => join(dirname(at), one))
-    .filter((one) => one !== at)
-    .sort()
-}
-
 export function indexTakenFrom(root: string): undefined {
   rmSync(indexIn(root), { recursive: true, force: true })
-}
-
-export function stampListedIn(root: string): Stamp | null {
-  return stampIn(indexIn(root))
-}
-
-export function stampedIn(root: string, held: Stamp): undefined {
-  stampKept(indexIn(root), held)
-}
-
-export function stampTakenFrom(root: string): undefined {
-  stampTaken(indexIn(root))
 }
 
 export function rebuiltIn(

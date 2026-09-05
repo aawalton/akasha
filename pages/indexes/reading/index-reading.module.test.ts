@@ -1,9 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { said as gitIn } from "@akasha/git/git-running"
-import { stampKept } from "../stamp/index-stamp.module.code.ts"
 import { indexAt, indexIn } from "../surface/index-surface.module.code.ts"
 import {
   everyPath,
@@ -60,27 +56,6 @@ test("an address naming a page by its id is answered by that id", () => {
 
   expect(listedAddressed(root, A, "domain")).toEqual(held)
 })
-
-function committedAt(): string {
-  const root = rootAt()
-  gitIn(root, ["init", "--quiet"])
-  gitIn(root, ["config", "user.email", "held@akasha"])
-  gitIn(root, ["config", "user.name", "held"])
-  writeFileSync(join(root, "held"), "held\n")
-  gitIn(root, ["add", "--", "held"])
-  gitIn(root, ["commit", "--quiet", "-m", "held", "--", "held"])
-  return root
-}
-
-function stampedAt(): string {
-  const root = committedAt()
-  stampKept(indexIn(root), {
-    commit: gitIn(root, ["rev-parse", "HEAD"]).trim(),
-    tree: "akasha",
-    settled: [],
-  })
-  return root
-}
 
 test("a path the index carries is answered with the page carrying it", () => {
   const root = rootAt()
@@ -266,77 +241,30 @@ test("a bare slug two page types carry is refused and must name its page type", 
 })
 
 test("a path the index carries edges for is answered with every file importing it", () => {
-  const root = stampedAt()
+  const root = rootAt()
   importFiled(root, "akasha/a.module.code.ts", [
     { path: "akasha/two.module.code.ts" },
     { path: "akasha/one.module.code.ts" },
   ])
 
-  expect(importersOf(root, "akasha/a.module.code.ts", readingIn(root))).toEqual([
+  expect(importersOf("akasha/a.module.code.ts", readingIn(root))).toEqual([
     "akasha/one.module.code.ts",
     "akasha/two.module.code.ts",
   ])
 })
 
 test("a path nothing imports is answered with nothing rather than by throwing", () => {
-  const root = stampedAt()
+  const root = rootAt()
   importFiled(root, "akasha/a.module.code.ts", [{ path: "akasha/one.module.code.ts" }])
 
-  expect(importersOf(root, "akasha/nowhere.module.code.ts", readingIn(root))).toEqual([])
+  expect(importersOf("akasha/nowhere.module.code.ts", readingIn(root))).toEqual([])
 })
 
 test("what imports a file is refused when the import index is not there, no folder being no answer", () => {
-  const root = stampedAt()
+  const root = rootAt()
+  nothingFiled(root)
 
-  expect(() => importersOf(root, "akasha/a.module.code.ts", readingIn(root))).toThrow(
-    /import\/path/
-  )
-})
-
-test("what imports a file is refused when the index names no commit", () => {
-  const root = committedAt()
-  importFiled(root, "akasha/a.module.code.ts", [{ path: "akasha/one.module.code.ts" }])
-
-  expect(() => importersOf(root, "akasha/a.module.code.ts", readingIn(root))).toThrow(
-    /names no commit/
-  )
-})
-
-test("what imports a file is refused when a commit the index never saw stands", () => {
-  const root = stampedAt()
-  importFiled(root, "akasha/a.module.code.ts", [{ path: "akasha/one.module.code.ts" }])
-  mkdirSync(join(root, "akasha"), { recursive: true })
-  writeFileSync(join(root, "akasha", "late.ts"), "export const late = 1\n")
-  gitIn(root, ["add", "--", "akasha/late.ts"])
-  gitIn(root, ["commit", "--quiet", "-m", "late", "--", "akasha/late.ts"])
-
-  expect(() => importersOf(root, "akasha/a.module.code.ts", readingIn(root))).toThrow(
-    /akasha\/late\.ts/
-  )
-})
-
-test("a caller filing a change reads those importers though the index never saw HEAD", () => {
-  const root = stampedAt()
-  importFiled(root, "akasha/a.module.code.ts", [{ path: "akasha/one.module.code.ts" }])
-  mkdirSync(join(root, "akasha"), { recursive: true })
-  writeFileSync(join(root, "akasha", "late.ts"), "export const late = 1\n")
-  gitIn(root, ["add", "--", "akasha/late.ts"])
-  gitIn(root, ["commit", "--quiet", "-m", "late", "--", "akasha/late.ts"])
-
-  expect(() => importersOf(root, "akasha/a.module.code.ts", readingIn(root))).toThrow(
-    /akasha\/late\.ts/
-  )
-  expect(importersOf(null, "akasha/a.module.code.ts", readingIn(root))).toEqual([
-    "akasha/one.module.code.ts",
-  ])
-})
-
-test("a caller filing a change is refused all the same where the import index is not there", () => {
-  const root = stampedAt()
-
-  expect(() => importersOf(null, "akasha/a.module.code.ts", readingIn(root))).toThrow(
-    /import\/path/
-  )
+  expect(() => importersOf("akasha/a.module.code.ts", readingIn(root))).toThrow(/import\/path/)
 })
 
 test("an index's own place is answered under the index root", () => {

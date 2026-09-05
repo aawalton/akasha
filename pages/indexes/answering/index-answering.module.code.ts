@@ -80,7 +80,7 @@ export type Answering = {
   readonly typeSlugOf: (id: string) => string
 }
 
-export function answeringOver(reading: Reading, root: string | null, pageOf: PageOf): Answering {
+export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
   return {
     carriedIn: (value, declaredBy) => carriedIn(value, reading, declaredBy),
     carryingOf: (named) => carryingOf(reading, named),
@@ -92,7 +92,7 @@ export function answeringOver(reading: Reading, root: string | null, pageOf: Pag
     fileKeysAt: () => fileKeysAt(reading),
     filePropertiesAt: () => filePropertiesAt(reading),
     idsNaming: (id, propertySlug) => idsNaming(reading, id, propertySlug),
-    importersOf: (path) => importersOf(root, path, reading),
+    importersOf: (path) => importersOf(path, reading),
     kindsUnder: (slug) => kindsUnder(slug, reading, pageOf),
     knownIn: () => knownIn(reading, pageOf),
     listedAt: (pageTypeSlug, slug) => listedAt(reading, pageTypeSlug, slug),

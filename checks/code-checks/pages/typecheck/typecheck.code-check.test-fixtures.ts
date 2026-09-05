@@ -1,18 +1,15 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { said as gitIn } from "@akasha/git/git-running"
 import { importEdge } from "@akasha/graph/import-edge"
 import { importIn } from "@akasha/indexes/import"
 import { indexImport } from "@akasha/indexes/import/page"
-import { headOf } from "@akasha/indexes/stamp"
 import {
   entriesFiled,
   listedFiled,
   noImportersFiled,
   pathFiled,
   schemaFiled,
-  stampedIn,
 } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
 import { put, there } from "@akasha/testing-system/putting"
@@ -32,8 +29,6 @@ const WAITS = "waiting"
 export const EARLY = "uuid-v7"
 
 export const HERE = "/var/home/walton/repos/akasha"
-
-export const NAMING_NO_COMMIT = "names no commit"
 
 const KIND_AT = "akasha/waiting.generator-kind.ts"
 
@@ -130,16 +125,6 @@ function graphed(root: string): undefined {
   pathFiled(root, INDEX_PAGE_AT, [{ path: INDEX_PAGE_AT, id: indexImport.id }])
 }
 
-function stamped(root: string): undefined {
-  gitIn(root, ["init", "--quiet"])
-  gitIn(root, ["config", "user.email", "held@akasha"])
-  gitIn(root, ["config", "user.name", "held"])
-  writeFileSync(join(root, "seed"), "held\n")
-  gitIn(root, ["add", "--", "seed"])
-  gitIn(root, ["commit", "--quiet", "-m", "held", "--", "seed"])
-  stampedIn(root, { commit: headOf(root) ?? "", tree: "akasha", settled: [] })
-}
-
 export function staged(files: Readonly<Record<string, string>>): string {
   const root = scratch.rootFor("akasha-typecheck-")
   mkdirSync(join(root, "akasha"))
@@ -149,7 +134,6 @@ export function staged(files: Readonly<Record<string, string>>): string {
   }
   reaching(root, files)
   graphed(root)
-  stamped(root)
   return root
 }
 

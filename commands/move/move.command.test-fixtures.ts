@@ -3,13 +3,7 @@ import { join } from "node:path"
 import { warrantsSeeded } from "@akasha/context/warranting/testing"
 import { said as gitIn } from "@akasha/git/git-running"
 import { listedAt, namersOf } from "@akasha/indexes"
-import {
-  importFiled,
-  indexTakenFrom,
-  pathFiled,
-  rebuiltIn,
-  stampedIn,
-} from "@akasha/indexes/testing"
+import { importFiled, indexTakenFrom, pathFiled, rebuiltIn } from "@akasha/indexes/testing"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { declaringUnder } from "@akasha/testing-system/declaring"
 import { admitting, mintedId, minting } from "@akasha/testing-system/minting"
@@ -150,7 +144,6 @@ export function importing(root: string, target: string, importers: readonly stri
     importers.map((path) => ({ path }))
   )
   pathFiled(root, target, [{ path: target, id: mintedId(target) }])
-  stampedIn(root, { commit: head(root), tree: TREE, settled: [] })
 }
 
 export function claiming(root: string, path: string, ids: readonly string[]): undefined {

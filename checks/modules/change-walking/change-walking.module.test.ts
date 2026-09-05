@@ -116,7 +116,7 @@ function counting(root: string, held: Shadow, asked: () => undefined): Shadow {
     lines: (at) => base.lines(at),
   }
   return {
-    index: answeringOver(reading, root, (path) => held.pageOf(path)),
+    index: answeringOver(reading, (path) => held.pageOf(path)),
     filed: () => held.filed(),
     pageOf: (path) => held.pageOf(path),
     codeAt: (path) => held.codeAt(path),

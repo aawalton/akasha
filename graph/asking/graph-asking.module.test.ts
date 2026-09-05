@@ -61,12 +61,12 @@ function bodiesIn(root: string): PageOf {
   return (path) => valueAt(path, root)
 }
 
-function indexOver(root: string, reading: Reading, pageOf: PageOf): Answering {
-  return answeringOver(reading, root, pageOf)
+function indexOver(reading: Reading, pageOf: PageOf): Answering {
+  return answeringOver(reading, pageOf)
 }
 
 function indexOf(root: string): Answering {
-  return indexOver(root, readingIn(root), bodiesIn(root))
+  return indexOver(readingIn(root), bodiesIn(root))
 }
 
 test("an empty kind list answers nothing", () => {
@@ -164,7 +164,7 @@ test("an import edge existing only in the index given is answered, and none with
     [`${IMPORT}/path/${FIRST_AT}.jsonl`]: [{ path: SECOND_AT }],
   })
 
-  expect(edgesInto(FIRST_AT, [IMPORT_EDGE], indexOver(root, over, bodiesIn(root)))).toEqual([
+  expect(edgesInto(FIRST_AT, [IMPORT_EDGE], indexOver(over, bodiesIn(root)))).toEqual([
     { kind: IMPORT_EDGE, from: SECOND_AT, to: FIRST_AT, attrs: { [KNOWN]: AT_INDEX } },
   ])
   expect(edgesInto(FIRST_AT, [IMPORT_EDGE], indexOf(root))).toEqual([])
@@ -175,7 +175,7 @@ test("an import edge the index given empties is not answered, and exists without
   filed(root, `${IMPORT}/path/${FIRST_AT}.jsonl`, { path: THIRD_AT })
   const over = readingLaidOver(root, { [`${IMPORT}/path/${TARGET_AT}.jsonl`]: [] })
 
-  expect(edgesInto(TARGET_AT, [IMPORT_EDGE], indexOver(root, over, bodiesIn(root)))).toEqual([])
+  expect(edgesInto(TARGET_AT, [IMPORT_EDGE], indexOver(over, bodiesIn(root)))).toEqual([])
   expect(edgesInto(TARGET_AT, [IMPORT_EDGE], indexOf(root))).toEqual([
     { kind: IMPORT_EDGE, from: SOURCE_AT, to: TARGET_AT, attrs: { [KNOWN]: AT_INDEX } },
   ])
@@ -185,7 +185,7 @@ test("a relation edge existing only in the index given is answered, and none wit
   const root = relationWorld(0)
   const over = readingLaidOver(root, { [LEAF_AT]: [{ path: SOURCE_AT }] })
 
-  expect(edgesInto(TARGET_AT, [RELATION], indexOver(root, over, bodiesIn(root)))).toEqual([
+  expect(edgesInto(TARGET_AT, [RELATION], indexOver(over, bodiesIn(root)))).toEqual([
     { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
   ])
   expect(edgesInto(TARGET_AT, [RELATION], indexOf(root))).toEqual([])
@@ -198,7 +198,7 @@ test("an edge kind's own pages, existing only in the index given, still answer i
     [INDEX_FILED_AT]: [{ path: INDEX_AT, id: INDEX_ID }],
   })
 
-  expect(edgesInto(TARGET_AT, [RELATION], indexOver(root, over, bodiesIn(root)))).toEqual([
+  expect(edgesInto(TARGET_AT, [RELATION], indexOver(over, bodiesIn(root)))).toEqual([
     { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
   ])
   expect(() => edgesInto(TARGET_AT, [RELATION], indexOf(root))).toThrow(
@@ -254,7 +254,7 @@ test("a closure walks the edges the index it was given answers, and none it does
   const every = [FIRST_AT, SECOND_AT, THIRD_AT]
 
   expect(
-    reachingInto([FIRST_AT], [IMPORT_EDGE], indexOver(root, over, bodiesIn(root)), () => true)
+    reachingInto([FIRST_AT], [IMPORT_EDGE], indexOver(over, bodiesIn(root)), () => true)
   ).toEqual(every)
   expect(reachingInto([FIRST_AT], [IMPORT_EDGE], indexOf(root))).toEqual([FIRST_AT, SECOND_AT])
 })

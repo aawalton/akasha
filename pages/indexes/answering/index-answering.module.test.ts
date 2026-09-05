@@ -117,7 +117,7 @@ function seeded(): string {
 test("every question answers what the reader beneath it answers with the reading bound", () => {
   const root = seeded()
   const reading = readingIn(root)
-  const index = answeringOver(reading, root, pageOf)
+  const index = answeringOver(reading, pageOf)
   expect(index.carriedIn(TYPE_VALUE, MODULE)).toEqual(carriedIn(TYPE_VALUE, reading, MODULE))
   expect(index.carryingOf(SLUG)).toEqual(carryingOf(reading, SLUG))
   expect(index.declarationsOf(MODULE)).toEqual(declarationsOf(MODULE, reading, pageOf))
@@ -147,29 +147,19 @@ test("every question answers what the reader beneath it answers with the reading
 test("a question answered through a shape hands back the shape the reader beneath hands back", () => {
   const root = seeded()
   const reading = readingIn(root)
-  const index = answeringOver(reading, root, pageOf)
+  const index = answeringOver(reading, pageOf)
   expect(index.knownIn().at(MODULE, "held")).toEqual(knownIn(reading, pageOf).at(MODULE, "held"))
   expect(index.sourceIn().schemaFor(SLUG)).toEqual(sourceIn(reading, pageOf).schemaFor(SLUG))
   expect(index.kindsUnder(PAGE_TYPE)).toEqual(kindsUnder(PAGE_TYPE, reading, pageOf))
 })
 
-test("what the reader beneath refuses is refused here in the same words", () => {
-  const root = seeded()
-  const reading = readingIn(root)
-  const said = "the index names no commit it was built from"
-  expect(() => answeringOver(reading, root, pageOf).importersOf(HELD_AT)).toThrow(said)
-  expect(() => importersOf(root, HELD_AT, reading)).toThrow(said)
-})
-
-test("a caller filing a change binds no root, so what imports a file is not refused", () => {
+test("what imports a file is answered as the reader beneath answers it", () => {
   const root = seeded()
   importFiled(root, HELD_AT, [{ path: TYPE_AT }])
   const reading = readingIn(root)
 
-  expect(() => answeringOver(reading, root, pageOf).importersOf(HELD_AT)).toThrow(
-    "the index names no commit it was built from"
-  )
-  expect(answeringOver(reading, null, pageOf).importersOf(HELD_AT)).toEqual([TYPE_AT])
+  expect(answeringOver(reading, pageOf).importersOf(HELD_AT)).toEqual([TYPE_AT])
+  expect(importersOf(HELD_AT, reading)).toEqual([TYPE_AT])
 })
 
 test("a question is answered from the reading bound rather than from the index at a root", () => {
@@ -178,7 +168,7 @@ test("a question is answered from the reading bound rather than from the index a
     "identity/module/slug/laid.jsonl": [{ path: LAID_AT, id: LAID_ID }],
     "path/akasha/laid/laid.module.ts.jsonl": [{ path: LAID_AT, id: LAID_ID }],
   })
-  const index = answeringOver(laid, root, pageOf)
+  const index = answeringOver(laid, pageOf)
   expect(index.listedAt(MODULE, "laid")).toEqual([{ path: LAID_AT, id: LAID_ID }])
   expect(listedAt(root, MODULE, "laid")).toEqual([])
   expect(index.everyPath()).toContain(LAID_AT)
@@ -189,7 +179,7 @@ const COLD: Reading = { holds: () => false, listing: () => [], lines: () => [] }
 
 test("no question falls back to the index at a root, even one handed in for something else", () => {
   const root = seeded()
-  const index = answeringOver(COLD, root, pageOf)
+  const index = answeringOver(COLD, pageOf)
   expect(listedAt(root, MODULE, "held")).toHaveLength(1)
   expect(() => index.everyOfType(MODULE)).toThrow(NOT_THERE)
   expect(() => index.everyPath()).toThrow(NOT_THERE)

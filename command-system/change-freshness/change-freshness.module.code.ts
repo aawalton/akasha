@@ -1,9 +1,24 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { changedSince } from "@akasha/indexes/stamp"
+import { told } from "@akasha/git/git-running"
 import { blobIdOf, type Reading, sameBody } from "../reading/reading.module.code.ts"
 
 const HERE = "."
+
+function pathsIn(said: string | null): readonly string[] | null {
+  return said === null ? null : said.split("\0").filter((one) => one !== "")
+}
+
+function changedSince(
+  repo: string,
+  commit: string,
+  head: string,
+  tree: string
+): readonly string[] | null {
+  return pathsIn(
+    told(repo, ["diff", "--name-only", "--no-renames", "-z", commit, head, "--", tree])
+  )
+}
 
 export function movedOnDisk(root: string, asRead: readonly Reading[]): readonly string[] {
   const moved: string[] = []

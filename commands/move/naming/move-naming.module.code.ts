@@ -31,7 +31,7 @@ export function importingOf(root: string, moved: ReadonlyMap<string, string>): R
   for (const from of moved.keys()) {
     let said: readonly string[]
     try {
-      said = importersOf(root, from, readingIn(root))
+      said = importersOf(from, readingIn(root))
     } catch (cause) {
       const why = cause instanceof Error ? cause.message : String(cause)
       return { unread: `${why}, so none were repointed` }

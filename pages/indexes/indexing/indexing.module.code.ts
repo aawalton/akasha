@@ -1,13 +1,5 @@
-import {
-  existsSync,
-  mkdirSync,
-  readFileSync,
-  renameSync,
-  rmdirSync,
-  rmSync,
-  writeFileSync,
-} from "node:fs"
-import { dirname, isAbsolute, join, relative } from "node:path"
+import { mkdirSync, readFileSync } from "node:fs"
+import { join } from "node:path"
 import { typed } from "@akasha/code-system/code-typing"
 import { pageNamed, partedIn } from "@akasha/pages-system/page-file-name"
 import {
@@ -44,12 +36,12 @@ import { claimingIn } from "../path/index-path.index.code.ts"
 import { indexPath } from "../path/index-path.index.ts"
 import { knownIn } from "../reaching/reaching.module.code.ts"
 import { everyPath, indexThere, namersOf } from "../reading/index-reading.module.code.ts"
+import { type Drift, keepWhole, reconcile } from "../rebuilding/rebuilding.module.code.ts"
 import { NOTHING_FILED, relationIn } from "../relation/index-relation.index.code.ts"
 import { indexRelation } from "../relation/index-relation.index.ts"
 import { schemaIn } from "../schema/index-schema.index.code.ts"
 import { indexSchema } from "../schema/index-schema.index.ts"
 import type { Filing, Reading } from "../shape/index-shape.module.code.ts"
-import { stampBuilt, stampSettled } from "../stamp/index-stamp.module.code.ts"
 import {
   indexIn,
   overlaidOn,
@@ -71,30 +63,6 @@ const RELATION = indexRelation.name
 const SCHEMA = indexSchema.name
 
 const VALUE = indexValue.name
-
-function pruneAbove(at: string, root: string): undefined {
-  let here = at
-  while (here !== root && here.startsWith(root)) {
-    try {
-      rmdirSync(here)
-    } catch {
-      return
-    }
-    here = dirname(here)
-  }
-}
-
-function keepWhole(at: string, lines: readonly string[], root: string): undefined {
-  if (lines.length === 0) {
-    if (existsSync(at)) rmSync(at)
-    pruneAbove(dirname(at), root)
-    return
-  }
-  mkdirSync(dirname(at), { recursive: true })
-  const near = `${at}.${process.pid}.part`
-  writeFileSync(near, `${lines.join("\n")}\n`)
-  renameSync(near, at)
-}
 
 type Pending = {
   readonly before: string | null
@@ -133,17 +101,6 @@ function pageShaped(path: string, fileProperties: ReadonlyMap<string, string | n
   return !fileProperties.has(said.pageType)
 }
 
-function reconcile(under: string, entries: readonly Entry[], root: string): undefined {
-  const wanted = Map.groupBy(entries, (one) => one.at)
-  for (const one of existsSync(under) ? walkedUnder(under, () => true) : []) {
-    if (!wanted.has(one.slice(root.length + 1))) keepWhole(one, [], root)
-  }
-  for (const [at, held] of wanted) {
-    const lines = new Set(held.map((one) => one.line))
-    keepWhole(join(root, at), [...lines].sort(), root)
-  }
-}
-
 export type Indexing = {
   readonly wrote: (path: string, body: string, before: string | null) => undefined
   readonly took: (path: string, before: string | null) => undefined
@@ -157,12 +114,23 @@ function refusingEmpty(unique: ReadonlyMap<string, Identifier>, pages: number): 
   if (pages > 0 && unique.size === 0) throw new Error(NOTHING_DECLARES)
 }
 
-export function rebuiltFrom(
-  tree: string,
-  root: string,
-  repo: string
-): { readonly pages: number; readonly entries: number; readonly refused: readonly string[] } {
-  mkdirSync(root, { recursive: true })
+export type Rebuilt = {
+  readonly pages: number
+  readonly entries: number
+  readonly refused: readonly string[]
+  readonly drift: Drift
+}
+
+function drifting(said: readonly Drift[]): Drift {
+  return {
+    added: said.flatMap((one) => one.added),
+    changed: said.flatMap((one) => one.changed),
+    went: said.flatMap((one) => one.went),
+  }
+}
+
+export function rebuiltFrom(tree: string, root: string, repo: string, put = true): Rebuilt {
+  if (put) mkdirSync(root, { recursive: true })
   const held: { readonly path: string; readonly value: Value }[] = []
   for (const path of pagesUnder(tree)) {
     const value = valueAt(path, repo)
@@ -179,24 +147,23 @@ export function rebuiltFrom(
   const identity = held.flatMap((one) =>
     identityIn(one.value, one.path, repo, identifying, null, parting)
   )
-  reconcile(join(root, IDENTITY), identity, root)
+  const drift = [reconcile(join(root, IDENTITY), identity, root, put)]
   const sidecars = sidecarsIn(values)
   const claim = claimingIn(repo, filedBy, sidecars)
   const paths = held.flatMap((one) => claim(one.value, one.path, false))
-  reconcile(join(root, PATH), paths, root)
-  reconcile(join(root, SCHEMA), schema, root)
+  drift.push(reconcile(join(root, PATH), paths, root, put))
+  drift.push(reconcile(join(root, SCHEMA), schema, root, put))
   const known = knownIn(readingAt(root), (path) => valueAt(path, repo))
   const filed = held.map((one) => relationIn(one.value, one.path, known, repo))
   const relation = filed.flatMap((one) => one.entries)
-  reconcile(join(root, RELATION), relation, root)
+  drift.push(reconcile(join(root, RELATION), relation, root, put))
   const naming = reachingBuilt(held, repo, fileProperties, filedBy)
   const imported = walkedUnder(tree, typed).flatMap((path) =>
     importIn(readFileSync(path, "utf8"), path, repo, naming)
   )
-  reconcile(join(root, IMPORT), imported, root)
+  drift.push(reconcile(join(root, IMPORT), imported, root, put))
   const valued = held.flatMap((one) => valueIn(one.value, one.path, repo))
-  reconcile(join(root, VALUE), valued, root)
-  stampBuilt(repo, tree, root)
+  drift.push(reconcile(join(root, VALUE), valued, root, put))
   return {
     pages: held.length,
     entries:
@@ -207,7 +174,12 @@ export function rebuiltFrom(
       imported.length +
       valued.length,
     refused: filed.flatMap((one) => one.refused),
+    drift: drifting(drift),
   }
+}
+
+export function rebuiltWhole(repo: string, tree: string, put: boolean): Rebuilt {
+  return rebuiltFrom(tree, indexIn(repo), repo, put)
 }
 
 export type Moving = {
@@ -417,11 +389,6 @@ export function indexingAt(root: string, repo: string): Indexing {
       pending.clear()
       const found = settlingOver(readingAt(root), repo, moving, (path) => valueAt(path, repo))
       filedInto(root, found.filings)
-      stampSettled(
-        repo,
-        root,
-        moving.map((one) => (isAbsolute(one.path) ? relative(repo, one.path) : one.path))
-      )
       return [...found.noted, ...found.refused]
     },
   }

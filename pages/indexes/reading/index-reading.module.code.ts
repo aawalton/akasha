@@ -1,5 +1,4 @@
 import { join } from "node:path"
-import { typed } from "@akasha/code-system/code-typing"
 import { addressIn } from "@akasha/pages-system/page-address"
 import { partedIn } from "@akasha/pages-system/page-file-name"
 import type { Value } from "@akasha/pages-system/page-value"
@@ -9,7 +8,6 @@ import { indexPath } from "../path/index-path.index.ts"
 import { indexRelation } from "../relation/index-relation.index.ts"
 import { indexSchema } from "../schema/index-schema.index.ts"
 import type { Reading } from "../shape/index-shape.module.code.ts"
-import { staleFor } from "../stamp/index-stamp.module.code.ts"
 import {
   beneath,
   INDEX_AT,
@@ -172,14 +170,8 @@ export function importersIn(given: string | Reading, path: string): readonly str
   return pathsIn(readingOf(given), join(IMPORT, AT_PATH, `${path}${ENDING}`))
 }
 
-export function importersOf(
-  root: string | null,
-  path: string,
-  reading: Reading
-): readonly string[] {
+export function importersOf(path: string, reading: Reading): readonly string[] {
   const asked = `which files import \`${path}\``
-  const why = root === null ? null : staleFor(root, indexIn(root), typed)
-  if (why !== null) throw new Error(`${asked} could not be answered — ${why}`)
   const under = join(IMPORT, AT_PATH)
   return answered(reading, under, asked, (held) => importersIn(held, path))
 }

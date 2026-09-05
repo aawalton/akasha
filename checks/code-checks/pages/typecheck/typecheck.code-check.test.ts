@@ -1,7 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { stampTakenFrom } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
 import { shadowAsked, shadowFor } from "@akasha/pages-system/shadow"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
@@ -24,7 +23,6 @@ import {
   HERE,
   LOADED_AT,
   MADE,
-  NAMING_NO_COMMIT,
   ONE_NUMBER,
   scratch,
   staged,
@@ -296,17 +294,12 @@ test("the akasha folder is the whole repository, so an importer in any folder un
   ])
 })
 
-test("an index naming no commit still answers a change, its importers being the ones it leaves", async () => {
+test("a shadow asked for a change reaches the importers the change itself reaches", async () => {
   const root = staged({
     "akasha/one.ts": "export const one = 1\n",
     "akasha/two.ts": 'import { one } from "./one.ts"\nexport const two: string = one\n',
   })
-  const changed = { "akasha/one.ts": "export const one = 2\n" }
-  expect(reached(change(root, changed))).toEqual(["akasha/one.ts", "akasha/two.ts"])
-  stampTakenFrom(root)
-  const held = change(root, changed)
-  const audit: Change = { ...held, before: held.before, after: held.before }
-  expect(() => reached(audit)).toThrow(NAMING_NO_COMMIT)
+  const held = change(root, { "akasha/one.ts": "export const one = 2\n" })
   expect(reached(held)).toEqual(["akasha/one.ts", "akasha/two.ts"])
   expect(reachedBy(held, shadowAsked(held).index)).toEqual(["akasha/one.ts", "akasha/two.ts"])
   expect((await judged(held)).map((one) => one.path)).toEqual(["akasha/two.ts"])
