@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/temper/temper-watcher/watcher-export-tasks/watcher-export-tasks.module.ts b/temper/temper-watcher/watcher-export-tasks/watcher-export-tasks.module.ts
+index 77adfbe30186f92f5162d6ba241f1be05df749ee..a2d9af4292a5c400a849f0fffd4b9d11e5c57fbe 100644
+--- a/temper/temper-watcher/watcher-export-tasks/watcher-export-tasks.module.ts
++++ b/temper/temper-watcher/watcher-export-tasks/watcher-export-tasks.module.ts
+@@ -19,7 +19,8 @@ export const watcherExportTasks = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A task is keyed by its pgId where it has one and by its page id otherwise.",
++      statement:
++        "A task is keyed by its pgId where that task has one and by its page id otherwise.",
+     },
+     {
+       invariantKind: "departure",
