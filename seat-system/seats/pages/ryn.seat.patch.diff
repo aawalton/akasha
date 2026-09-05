@@ -1,0 +1,18 @@
+diff --git a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
+index b01d188477fe37b3ebaba9831a6c9e7a6b01fc9a..2f64e88a09f54875cd08489ba4d8d74391d1c91b 100644
+--- a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
++++ b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
+@@ -67,8 +67,11 @@ export const surplusFallNotifying = {
+     },
+     {
+       invariantKind: "gap",
+-      statement:
+-        "The readout and its scale are asked of the pages system service and the day's reading of the page query service.",
++      statement: "The readout and its scale are asked of the pages system service.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "The day's reading is asked of the page query service.",
+     },
+     {
+       invariantKind: "departure",
