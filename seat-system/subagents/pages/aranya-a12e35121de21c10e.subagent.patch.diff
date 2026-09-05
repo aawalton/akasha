@@ -1,0 +1,15 @@
+diff --git a/infrastructure/networks/talos-subnet-router/talos-subnet-router.manifest.ts b/infrastructure/networks/talos-subnet-router/talos-subnet-router.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a0d9c58d1ca703c87a8c85b3daa5a32efa862d41
+--- /dev/null
++++ b/infrastructure/networks/talos-subnet-router/talos-subnet-router.manifest.ts
+@@ -0,0 +1,9 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const talosSubnetRouter = {
++  id: "01a07390-b294-7b97-9afc-77a5b8ae3f76",
++  pageTypeSlug: "manifest",
++  slug: "talos-subnet-router",
++  definition: "the deployment carrying private network traffic to the cluster nodes' addresses",
++  code: "ts",
++} as const satisfies Manifest
