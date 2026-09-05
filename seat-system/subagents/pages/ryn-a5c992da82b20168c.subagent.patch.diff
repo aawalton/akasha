@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-turn-states/properties/turn-state-color-slug.relation-property.ts b/seat-system/seat-turn-states/properties/turn-state-color-slug.relation-property.ts
+index 07ab6a28b345924272d09f4d217a6b4e3404863f..8e931cd3c826739d56f6f2908fb7c080c8d00864 100644
+--- a/seat-system/seat-turn-states/properties/turn-state-color-slug.relation-property.ts
++++ b/seat-system/seat-turn-states/properties/turn-state-color-slug.relation-property.ts
+@@ -13,7 +13,7 @@ export const turnStateColorSlug = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What this color draws is the seat rather than the turn state's own page.",
++      statement: "This color draws the seat rather than the turn state's own page.",
+     },
+   ],
+ } as const satisfies RelationProperty
