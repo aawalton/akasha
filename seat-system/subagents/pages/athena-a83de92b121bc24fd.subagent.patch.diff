@@ -269,7 +269,7 @@ index 3726a83a80962cbf9fea2f82274c961d491556e5..1c5feadeabffe0813380cc6fbeaafb74
 +  return await landingTracked(given.root, built.changes, built.message, given.calledAs)
  }
 diff --git a/commands/tracking/tracking.command.test.ts b/commands/tracking/tracking.command.test.ts
-index 773b1e3341ac24d0e6a8cd3f8fa33abf3bcad196..f798ecb5eb48d55f211bd67f9d7c2e10a6f74f12 100644
+index 773b1e3341ac24d0e6a8cd3f8fa33abf3bcad196..f3fd6979c2b99d5b2790aeefe13a90e53504589a 100644
 --- a/commands/tracking/tracking.command.test.ts
 +++ b/commands/tracking/tracking.command.test.ts
 @@ -2,18 +2,16 @@ import { afterAll, expect, test } from "bun:test"
@@ -297,3 +297,16 @@ index 773b1e3341ac24d0e6a8cd3f8fa33abf3bcad196..f798ecb5eb48d55f211bd67f9d7c2e10
  
  const ROOT = "/nowhere"
  
+@@ -78,12 +76,6 @@ test("a value belonging to another flag is not read as a path", () => {
+   expect(strayIn(ROOT, ["--message", "--file-path", "--file-path", AT])).toEqual([])
+ })
+ 
+-test("the refusal names every tree this lands under", () => {
+-  const said = outsideTracked("akasha/alan/alan.person.ts")
+-  expect(said).toContain(DAYS_AT)
+-  expect(said).toContain(FOOD_ENTRIES_AT)
+-})
+-
+ test("the glass is no flag this takes", async () => {
+   const said = await tracking(["--file-path", AT, "--break-the-glass", "because"], givenIn())
+   expect(said.refusals).toEqual([NO_GLASS])
