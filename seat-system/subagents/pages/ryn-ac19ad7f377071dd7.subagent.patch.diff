@@ -1,0 +1,12 @@
+diff --git a/temper/temper-commands/temper-inventory-buy-rule-lock/temper-inventory-buy-rule-lock.command.ts b/temper/temper-commands/temper-inventory-buy-rule-lock/temper-inventory-buy-rule-lock.command.ts
+index dbb1f18aaaf7b9547b993025c987a7a39f787f47..a3d15721d9953ddb7b80b6fd5842ac46f4506488 100644
+--- a/temper/temper-commands/temper-inventory-buy-rule-lock/temper-inventory-buy-rule-lock.command.ts
++++ b/temper/temper-commands/temper-inventory-buy-rule-lock/temper-inventory-buy-rule-lock.command.ts
+@@ -9,7 +9,6 @@ export const temperInventoryBuyRuleLock = {
+   changeKindSlug: "change-none",
+   taking: [{ said: "<id>", takes: "the id of the buy rule locked" }],
+   helpNotes: [
+-    "locking a buy rule already locked changes nothing.",
+     "a locked rule is refused an update or a deletion until it is unlocked or the call forces it.",
+   ],
+   invariants: [
