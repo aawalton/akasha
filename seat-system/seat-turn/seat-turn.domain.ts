@@ -206,13 +206,4 @@ export const seatTurn = {
     { invariantKind: "departure", statement: "A stopped seat is drawn in the text color." },
     { invariantKind: "departure", statement: "A reminder does not make a turn pending." },
   ],
-  directives: [
-    {
-      directiveKind: "rule",
-      name: "Question Last",
-      act: "Put your question to Alan in your last words.",
-      warrant: "Anything following a question buries it, and he answers whatever he read last.",
-      aids: ["End the turn on the question.", "A question with text after it is a statement."],
-    },
-  ],
 } as const satisfies Domain

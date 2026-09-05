@@ -102,6 +102,18 @@ export const akasha = {
     },
     {
       directiveKind: "rule",
+      name: "One At A Time",
+      act: "Ask Alan only one thing at a time: one question, one approval, or one task.",
+      warrant:
+        "Alan has a limited attention span. If you ask more than one thing, he will likely only see one.",
+      aids: [
+        "A thing with five parts is five things.",
+        "Put the one thing last; anything before it is not read.",
+        "Saying what you didn't say is saying more than one thing.",
+      ],
+    },
+    {
+      directiveKind: "rule",
       name: "Champions Not Owners",
       act: "Change what needs changing in any domain, where you hold what the change takes.",
       warrant: "Every agent has the same base expertise and can access the same context.",
