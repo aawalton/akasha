@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/hook-system/shell-calls/shell-calls.module.ts b/hook-system/shell-calls/shell-calls.module.ts
+index b13a8078e3410cb0678cbe971e0ad0e6c97a792f..70f99eaf933b97379ceaba41f075389c98ad69ff 100644
+--- a/hook-system/shell-calls/shell-calls.module.ts
++++ b/hook-system/shell-calls/shell-calls.module.ts
+@@ -95,7 +95,7 @@ export const shellCalls = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "The text is cut here rather than read for what the text means.",
++      statement: "The text is cut here rather than read for the text's meaning.",
+     },
+     {
+       invariantKind: "absence",
