@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/commands/read/read.command.ts b/commands/read/read.command.ts
-index d96451ddfe3a6d439e56bdbaaacc785f7104aea6..ceb6e77a584f337e387cf8f6c44f2f239a3ec403 100644
+index d96451ddfe3a6d439e56bdbaaacc785f7104aea6..50d49925be95a6ba0639077a87e2d0a79a554ed1 100644
 --- a/commands/read/read.command.ts
 +++ b/commands/read/read.command.ts
 @@ -32,7 +32,7 @@ export const read = {
@@ -25,6 +25,15 @@ index d96451ddfe3a6d439e56bdbaaacc785f7104aea6..ceb6e77a584f337e387cf8f6c44f2f23
        statement:
 -        "What changed is worked out against the body the record names and against no other.",
 +        "The difference is worked out against the body the record names and against no other.",
+     },
+     {
+       invariantKind: "departure",
+@@ -63,7 +64,7 @@ export const read = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A read of a body that is not UTF-8 text returns what the body is instead of the body.",
++        "A read of a body that is not UTF-8 text returns a description of the body instead of the body.",
      },
      {
        invariantKind: "departure",
