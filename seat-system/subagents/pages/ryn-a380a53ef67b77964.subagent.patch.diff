@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.ts
-index e7d31b3041d36d66a6459f75ea270b04cb7fde66..39b8d028cc671c25fba713b557252a74b56c72ce 100644
+index e7d31b3041d36d66a6459f75ea270b04cb7fde66..0b696d34e0058f9b9350c55fb5fa24344e6237e5 100644
 --- a/checks/code-checks/pages/typecheck/typecheck.code-check.ts
 +++ b/checks/code-checks/pages/typecheck/typecheck.code-check.ts
 @@ -112,7 +112,7 @@ export const typecheck = {
@@ -12,12 +12,17 @@ index e7d31b3041d36d66a6459f75ea270b04cb7fde66..39b8d028cc671c25fba713b557252a74
      },
      {
        invariantKind: "departure",
-@@ -135,7 +135,7 @@ export const typecheck = {
+@@ -135,11 +135,11 @@ export const typecheck = {
      },
      {
        invariantKind: "departure",
 -      statement: "A body is read from what the check is handed rather than from the disk.",
 +      statement: "A body is read from the change the check is handed rather than from the disk.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is judged is judged as the change would leave what is judged.",
++      statement: "Each file judged is judged as the change would leave that file.",
      },
      {
        invariantKind: "departure",
