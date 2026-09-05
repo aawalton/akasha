@@ -5,5 +5,5 @@ export const appearanceExperimentsAll = {
   pageTypeSlug: "page-query",
   slug: "appearance-experiments-all",
   asksOfSlug: "appearance-experiment",
-  keys: ["persona-slug", "date", "verdict"],
+  keys: ["personaSlug", "date", "verdict"],
 } as const satisfies PageQuery

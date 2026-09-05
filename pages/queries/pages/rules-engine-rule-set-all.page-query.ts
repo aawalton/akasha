@@ -5,5 +5,5 @@ export const rulesEngineRuleSetAll = {
   pageTypeSlug: "page-query",
   slug: "rules-engine-rule-set-all",
   asksOfSlug: "rules-engine-rule-set",
-  keys: ["slug", "extends-slug"],
+  keys: ["slug", "extendsSlug"],
 } as const satisfies PageQuery

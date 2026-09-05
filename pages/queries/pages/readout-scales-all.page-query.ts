@@ -5,5 +5,5 @@ export const readoutScalesAll = {
   pageTypeSlug: "page-query",
   slug: "readout-scales-all",
   asksOfSlug: "readout-scale",
-  keys: ["slug", "yellow-at", "orange-at", "red-at", "black-at"],
+  keys: ["slug", "yellowAt", "orangeAt", "redAt", "blackAt"],
 } as const satisfies PageQuery

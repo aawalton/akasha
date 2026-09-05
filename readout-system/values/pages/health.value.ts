@@ -13,6 +13,4 @@ export const health = {
   unit: "green day units",
   scaleSlug: "readout-scale/green-day-units",
   groupSlugs: ["readout-group/values"],
-  queryArgument: "value",
-  queryKey: "health",
 } as const satisfies Value

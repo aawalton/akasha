@@ -5,5 +5,5 @@ export const personaWallpaperNotificationsAll = {
   pageTypeSlug: "page-query",
   slug: "persona-wallpaper-notifications-all",
   asksOfSlug: "persona-wallpaper-notification",
-  keys: ["persona-slug", "relationship-level"],
+  keys: ["personaSlug", "relationshipLevel"],
 } as const satisfies PageQuery

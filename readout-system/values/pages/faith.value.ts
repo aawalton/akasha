@@ -13,6 +13,4 @@ export const faith = {
   unit: "green day units",
   scaleSlug: "readout-scale/green-day-units",
   groupSlugs: ["readout-group/values"],
-  queryArgument: "value",
-  queryKey: "faith",
 } as const satisfies Value

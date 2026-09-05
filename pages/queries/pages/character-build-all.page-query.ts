@@ -5,5 +5,5 @@ export const characterBuildAll = {
   pageTypeSlug: "page-query",
   slug: "character-build-all",
   asksOfSlug: "character-build",
-  keys: ["slug", "title", "build-hash", "visibility", "correlation-id", "target-count"],
+  keys: ["slug", "title", "buildHash", "visibility", "correlationId", "targetCount"],
 } as const satisfies PageQuery

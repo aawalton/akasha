@@ -11,7 +11,7 @@ export const messagesClaimedBefore = {
   ],
   narrows: [
     { key: "to", comparison: "is", values: ["$to"] },
-    { key: "claimed-at", comparison: "before", values: ["$before"] },
+    { key: "claimedAt", comparison: "before", values: ["$before"] },
   ],
-  keys: ["to", "from", "warrant", "claimed-at", "body"],
+  keys: ["to", "from", "warrant", "claimedAt", "body"],
 } as const satisfies PageQuery

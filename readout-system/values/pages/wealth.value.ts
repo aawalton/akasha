@@ -13,6 +13,4 @@ export const wealth = {
   unit: "green day units",
   scaleSlug: "readout-scale/green-day-units",
   groupSlugs: ["readout-group/values"],
-  queryArgument: "value",
-  queryKey: "wealth",
 } as const satisfies Value

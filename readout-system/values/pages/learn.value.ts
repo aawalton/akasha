@@ -13,6 +13,4 @@ export const learn = {
   unit: "green day units",
   scaleSlug: "readout-scale/green-day-units",
   groupSlugs: ["readout-group/values"],
-  queryArgument: "value",
-  queryKey: "learn",
 } as const satisfies Value

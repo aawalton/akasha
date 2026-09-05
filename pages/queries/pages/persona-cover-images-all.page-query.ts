@@ -5,5 +5,5 @@ export const personaCoverImagesAll = {
   pageTypeSlug: "page-query",
   slug: "persona-cover-images-all",
   asksOfSlug: "persona-cover-image",
-  keys: ["persona-slug", "relationship-level", "image-path"],
+  keys: ["personaSlug", "relationshipLevel", "imagePath"],
 } as const satisfies PageQuery

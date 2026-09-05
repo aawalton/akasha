@@ -5,6 +5,6 @@ export const sessionActivitiesAll = {
   pageTypeSlug: "page-query",
   slug: "session-activities-all",
   asksOfSlug: "session-activity",
-  keys: ["title", "default-difficulty"],
+  keys: ["title", "defaultDifficulty"],
   sortBy: "title",
 } as const satisfies PageQuery

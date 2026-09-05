@@ -9,10 +9,10 @@ export const inboxReadingsOnDay = {
   narrows: [{ key: "date", comparison: "is", values: ["$day"] }],
   keys: [
     "date",
-    "inbox-tasks",
-    "inbox-tasks-cleared-today",
-    "inbox-temper-tasks",
-    "inbox-temper-tasks-cleared-today",
+    "inboxTasks",
+    "inboxTasksClearedToday",
+    "inboxTemperTasks",
+    "inboxTemperTasksClearedToday",
   ],
   limit: 1,
 } as const satisfies PageQuery

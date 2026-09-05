@@ -5,5 +5,5 @@ export const musicSongsAll = {
   pageTypeSlug: "page-query",
   slug: "music-songs-all",
   asksOfSlug: "song",
-  keys: ["id", "slug", "title", "artist-slug", "song-type", "written", "performed", "rating"],
+  keys: ["id", "slug", "title", "artistSlug", "songType", "written", "performed", "rating"],
 } as const satisfies PageQuery

@@ -5,5 +5,5 @@ export const toDosDue = {
   pageTypeSlug: "page-query",
   slug: "to-dos-due",
   asksOfSlug: "to-do",
-  keys: ["slug", "title", "due-date", "due-time", "priority", "value-slug", "recurrence"],
+  keys: ["slug", "title", "due-date", "dueTime", "priority", "value-slug", "recurrence"],
 } as const satisfies PageQuery

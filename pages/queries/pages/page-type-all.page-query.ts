@@ -5,5 +5,5 @@ export const pageTypeAll = {
   pageTypeSlug: "page-query",
   slug: "page-type-all",
   asksOfSlug: "page-type",
-  keys: ["slug", "extends-slug"],
+  keys: ["slug", "extendsSlug"],
 } as const satisfies PageQuery

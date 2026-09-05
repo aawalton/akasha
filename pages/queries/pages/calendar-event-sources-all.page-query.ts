@@ -7,12 +7,12 @@ export const calendarEventSourcesAll = {
   asksOfSlug: "calendar-event-source",
   keys: [
     "slug",
-    "external-id",
+    "externalId",
     "kind",
-    "base-url",
-    "feed-url",
+    "baseUrl",
+    "feedUrl",
     "timezone",
-    "provider-client",
-    "sync-status",
+    "providerClient",
+    "syncStatus",
   ],
 } as const satisfies PageQuery

@@ -7,12 +7,12 @@ export const relationshipsAll = {
   asksOfSlug: "relationship",
   keys: [
     "title",
-    "relationship-current-circle",
-    "relationship-commitment",
-    "relationship-connection",
-    "relationship-impact",
-    "relationship-interest",
+    "relationshipCurrentCircle",
+    "relationshipCommitment",
+    "relationshipConnection",
+    "relationshipImpact",
+    "relationshipInterest",
     "relationship-email",
-    "relationship-phone",
+    "relationshipPhone",
   ],
 } as const satisfies PageQuery

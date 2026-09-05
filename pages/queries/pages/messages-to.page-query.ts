@@ -7,5 +7,5 @@ export const messagesTo = {
   asksOfSlug: "message",
   parameters: [{ name: "to", type: "text" }],
   narrows: [{ key: "to", comparison: "is", values: ["$to"] }],
-  keys: ["to", "from", "warrant", "claimed-at", "body"],
+  keys: ["to", "from", "warrant", "claimedAt", "body"],
 } as const satisfies PageQuery

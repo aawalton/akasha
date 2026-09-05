@@ -5,5 +5,5 @@ export const readoutsAll = {
   pageTypeSlug: "page-query",
   slug: "readouts-all",
   asksOfSlug: "readout",
-  keys: ["slug", "none-left-words", "none-left-emoji"],
+  keys: ["slug", "noneLeftWords", "noneLeftEmoji"],
 } as const satisfies PageQuery

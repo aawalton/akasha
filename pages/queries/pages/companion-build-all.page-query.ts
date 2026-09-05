@@ -5,5 +5,5 @@ export const companionBuildAll = {
   pageTypeSlug: "page-query",
   slug: "companion-build-all",
   asksOfSlug: "companion-build",
-  keys: ["slug", "title", "build-hash", "visibility", "correlation-id", "target-count"],
+  keys: ["slug", "title", "buildHash", "visibility", "correlationId", "targetCount"],
 } as const satisfies PageQuery
