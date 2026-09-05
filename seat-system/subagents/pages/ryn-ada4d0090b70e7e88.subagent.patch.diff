@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.ts b/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.ts
+index e1f2d5c8ef6ffe38d2ccc5f28853ca709aad4523..7e4ab4ffc4bfca37450c0fa11904dd6895f8ba33 100644
+--- a/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.ts
++++ b/hook-system/agent-hooks/name-subagent/name-subagent.agent-hook.ts
+@@ -34,7 +34,7 @@ export const nameSubagent = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "This hook changes what a call runs rather than judging that call.",
++      statement: "This hook changes the command a call runs rather than judging that call.",
+     },
+     {
+       invariantKind: "departure",
