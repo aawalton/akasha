@@ -64,3 +64,16 @@ index eb3af1d0a05cb9430b72f40afd6ad25015304773..0e8f5c851da79155ace01d450c782533
      },
      {
        invariantKind: "departure",
+diff --git a/infrastructure/inference-pool/service-hash/service-hash.module.ts b/infrastructure/inference-pool/service-hash/service-hash.module.ts
+index f8c52dcd6dbc74599ce25f6e508a4aa246465bf9..f531e38ba3c82de7cae06f2e42d5584a12eb7c08 100644
+--- a/infrastructure/inference-pool/service-hash/service-hash.module.ts
++++ b/infrastructure/inference-pool/service-hash/service-hash.module.ts
+@@ -10,7 +10,7 @@ export const serviceHash = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A change to the command, the port or the working directory changes the hash even where no source file changed.",
++        "A changed command, port or working directory changes the hash even where no source file changed.",
+     },
+   ],
+ } as const satisfies Module
