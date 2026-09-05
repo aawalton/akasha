@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/utils-process/proc-reading/proc-reading.module.ts b/utils-process/proc-reading/proc-reading.module.ts
+index 4a0799f39447637fbedfe1493a1ba8162079e40f..599dada64ce0eac427cc4710bc29200ca301303f 100644
+--- a/utils-process/proc-reading/proc-reading.module.ts
++++ b/utils-process/proc-reading/proc-reading.module.ts
+@@ -19,7 +19,8 @@ export const procReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A process ending while it is being read is a process that will not open.",
++      statement:
++        "A process ending while that process is being read is a process that will not open.",
+     },
+     {
+       invariantKind: "departure",
