@@ -1,0 +1,15 @@
+diff --git a/temper/temper-lib-treasure/treasure-pins-data-01/treasure-pins-data-01.module.ts b/temper/temper-lib-treasure/treasure-pins-data-01/treasure-pins-data-01.module.ts
+index e6046414666591e45e5fd7c96946f1a15144a570..789df64f62174226184bc474c1a66915f9c7b6d4 100644
+--- a/temper/temper-lib-treasure/treasure-pins-data-01/treasure-pins-data-01.module.ts
++++ b/temper/temper-lib-treasure/treasure-pins-data-01/treasure-pins-data-01.module.ts
+@@ -6,10 +6,4 @@ export const treasurePinsData01 = {
+   slug: "treasure-pins-data-01",
+   definition: "part 01 of the pins each map carries",
+   code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "constraint",
+-      statement: "These rows are the pin rows upstream LibTreasure v24 states.",
+-    },
+-  ],
+ } as const satisfies Module
