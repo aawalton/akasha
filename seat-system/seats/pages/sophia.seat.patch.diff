@@ -1,0 +1,18 @@
+diff --git a/akasha.domain.ts b/akasha.domain.ts
+index a04b6ca20ddb8c20f8dce4529302f926cab0987b..57ce7d7d9ee0b51a418cb8193b80d7223904b1c4 100644
+--- a/akasha.domain.ts
++++ b/akasha.domain.ts
+@@ -105,10 +105,11 @@ export const akasha = {
+       name: "One At A Time",
+       act: "Ask Alan only one thing at a time: one question, one approval, or one task.",
+       warrant:
+-        "Alan has a limited attention span. If you ask more than one thing, he will likely only see one.",
++        "Alan has a limited attention span. Asking one thing makes it more likely he will answer.",
+       aids: [
+         "A thing with five parts is five things.",
+-        "Put the one thing last; anything before it is not read.",
++        "Any context more than a few lines is more than one thing.",
++        "A simple bulleted list is one thing.",
+         "Saying what you didn't say is saying more than one thing.",
+       ],
+     },
