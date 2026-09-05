@@ -1,5 +1,5 @@
 diff --git a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
-index dde3c3bec2af76de4d21cbdfa2eca1b1d1f481c6..2eff6311264b6b107c48387066dd1af2b2f9fc68 100644
+index dde3c3bec2af76de4d21cbdfa2eca1b1d1f481c6..010b31502e93a1b281b3561e59e7184289842a1a 100644
 --- a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
 +++ b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
 @@ -29,6 +29,7 @@ const INDEFINITE = [
@@ -10,8 +10,19 @@ index dde3c3bec2af76de4d21cbdfa2eca1b1d1f481c6..2eff6311264b6b107c48387066dd1af2
  const REFLEXIVE = [
    "herself",
    "himself",
+@@ -186,6 +187,10 @@ export function isIndefinite(token: DepToken): boolean {
+   return INDEFINITE.includes(lower(token))
+ }
+ 
++export function isFreeChoice(token: DepToken): boolean {
++  return FREE_CHOICE.includes(lower(token))
++}
++
+ export function marksADegree(sentence: DepSentence, token: DepToken): boolean {
+   if (!DEGREE.includes(lower(token))) return false
+   if (!childrenByRel(sentence, token.id, "case").some((one) => lower(one) === "at")) return false
 diff --git a/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.code.ts b/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.code.ts
-index d681f9d77dfdd66d9fe25d5a567c60caca56de76..fb40c5d488ddd935a2b5589c237b28f398163ee5 100644
+index d681f9d77dfdd66d9fe25d5a567c60caca56de76..2bf2897b97b3f5f3a0dabe402b6b44a538d6dc59 100644
 --- a/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.code.ts
 +++ b/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.code.ts
 @@ -2,6 +2,7 @@ import type { Match, ShapePredicate } from "@akasha/plain-language/shape-predica
@@ -22,6 +33,59 @@ index d681f9d77dfdd66d9fe25d5a567c60caca56de76..fb40c5d488ddd935a2b5589c237b28f3
    isIndefinite,
    isPronoun,
    isQuantifier,
+@@ -19,6 +20,7 @@ export const lonePronoun: ShapePredicate = (sentence) => {
+     if (isDemonstrative(token)) continue
+     if (isQuantifier(token)) continue
+     if (isIndefinite(token)) continue
++    if (isFreeChoice(token)) continue
+     if (isReflexive(token)) continue
+     found.push({ at: [token.id] })
+   }
+diff --git a/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.test.ts b/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.test.ts
+index b16befc20899b7dc94342687c8e9bd128822cad2..e04993e7d6976ba13d3c306a874ebbd1ab11dfae 100644
+--- a/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.test.ts
++++ b/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.test.ts
+@@ -158,3 +158,40 @@ test("an expletive there is passed over", () => {
+   ])
+   expect(lonePronoun(said)).toEqual([])
+ })
++
++test("a whatever opening a concessive clause is passed over", () => {
++  const said = sentenceOf([
++    ["The", "DET", 2, "det"],
++    ["world", "NOUN", 4, "nsubj:pass"],
++    ["is", "AUX", 4, "aux:pass"],
++    ["swept", "VERB", 0, "root"],
++    ["whatever", "PRON", 8, "obj"],
++    ["the", "DET", 7, "det"],
++    ["linter", "NOUN", 8, "nsubj"],
++    ["said", "VERB", 4, "advcl"],
++  ])
++  expect(lonePronoun(said)).toEqual([])
++})
++
++test("a whichever opening a concessive clause is passed over", () => {
++  const said = sentenceOf([
++    ["The", "DET", 2, "det"],
++    ["rule", "NOUN", 3, "nsubj"],
++    ["matches", "VERB", 0, "root"],
++    ["whichever", "PRON", 7, "obj"],
++    ["the", "DET", 6, "det"],
++    ["body", "NOUN", 7, "nsubj"],
++    ["carries", "VERB", 3, "ccomp"],
++  ])
++  expect(lonePronoun(said)).toEqual([])
++})
++
++test("a pronoun spelled whoever is found", () => {
++  const said = sentenceOf([
++    ["Whoever", "PRON", 2, "nsubj"],
++    ["lands", "VERB", 4, "csubj"],
++    ["is", "AUX", 4, "cop"],
++    ["judged", "ADJ", 0, "root"],
++  ])
++  expect(lonePronoun(said)).toEqual([{ at: [1] }])
++})
 diff --git a/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.ts b/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.ts
 index 08a260f1686071cfdb1955599eb3241aca95cc5b..76b40a18a401d48969d7111cac15e0762975d54a 100644
 --- a/domains/sentence-shapes/lone-pronoun/lone-pronoun.sentence-shape.ts
