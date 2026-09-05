@@ -150,7 +150,8 @@ export const serverErrorRetry = {
     },
     {
       invariantKind: "gap",
-      statement: "A body already sent upstream is sent again without asking whether that is safe.",
+      statement:
+        "A body already sent upstream is sent again without asking whether sending it again is safe.",
     },
   ],
 } as const satisfies Module

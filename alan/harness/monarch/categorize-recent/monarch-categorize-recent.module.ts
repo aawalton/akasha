@@ -10,7 +10,7 @@ export const monarchCategorizeRecent = {
     {
       invariantKind: "departure",
       statement:
-        "The window is the unattended one rather than the trusted one, because this runs without asking.",
+        "The window is the unattended one rather than the trusted one, because this module runs without asking.",
     },
     {
       invariantKind: "departure",
@@ -23,7 +23,7 @@ export const monarchCategorizeRecent = {
     {
       invariantKind: "departure",
       statement:
-        "A row claimed by more than one rule is written by none of them, because the rule set is meant to be a partition and this is the audit and the world disagreeing.",
+        "A row claimed by more than one rule is written by none of them, because the rule set is meant to be a partition and a row claimed twice is the audit and the world disagreeing.",
     },
     {
       invariantKind: "departure",

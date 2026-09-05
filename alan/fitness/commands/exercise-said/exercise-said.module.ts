@@ -9,7 +9,7 @@ export const exerciseSaid = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A word this does not take is refused rather than passed over.",
+      statement: "A word this module does not take is refused rather than passed over.",
     },
     {
       invariantKind: "departure",

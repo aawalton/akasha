@@ -16,7 +16,7 @@ export const monarchReconcile = {
     {
       invariantKind: "departure",
       statement:
-        "A reconciliation that would retire more than a twentieth of what it weighed is refused, because that is the shape of a fetch that did not finish rather than of a deletion.",
+        "A reconciliation that would retire more than a twentieth of what it weighed is refused, because such a reconciliation is the shape of a fetch that did not finish rather than of a deletion.",
     },
     {
       invariantKind: "departure",
