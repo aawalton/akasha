@@ -29,7 +29,7 @@ export const transcriptDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent transcript is drawn inside the call that started it.",
+      statement: "A subagent transcript is drawn inside the call that started that transcript.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +41,7 @@ export const transcriptDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "A disclosure carries the id of the call it draws.",
+      statement: "A disclosure carries the id of the call that disclosure draws.",
     },
     {
       invariantKind: "absence",
