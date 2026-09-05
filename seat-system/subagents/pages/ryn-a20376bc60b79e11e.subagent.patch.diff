@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/hook-system/agent-hooks/agent-hook.page-type.ts b/hook-system/agent-hooks/agent-hook.page-type.ts
-index 836724ae82ad3349ffcac9c5f33aa9dd64138d17..a47dd44a7541c7b16b15c8212fce06b19794d04f 100644
+index 836724ae82ad3349ffcac9c5f33aa9dd64138d17..ae5893a7e3918de37fbbe360c9ee687556401dd3 100644
 --- a/hook-system/agent-hooks/agent-hook.page-type.ts
 +++ b/hook-system/agent-hooks/agent-hook.page-type.ts
 @@ -40,7 +40,7 @@ export const agentHook = {
@@ -18,6 +18,15 @@ index 836724ae82ad3349ffcac9c5f33aa9dd64138d17..a47dd44a7541c7b16b15c8212fce06b1
        invariantKind: "departure",
 -      statement: "What registers a hook is worked out from this page.",
 +      statement: "A hook's registration is worked out from this page.",
+     },
+     {
+       invariantKind: "departure",
+@@ -82,7 +82,7 @@ export const agentHook = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a hook's code file does as a program is what `ran` does.",
++      statement: "A hook's code file run as a program does the same as `ran`.",
      },
      {
        invariantKind: "departure",
