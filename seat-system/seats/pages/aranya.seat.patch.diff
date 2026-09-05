@@ -255,3 +255,11 @@ index d9724a5416c43ff454cbce93679088afd741a603..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../health-samples-access
 \ No newline at end of file
+diff --git a/health-samples-day/health-samples-day b/health-samples-day/health-samples-day
+deleted file mode 120000
+index 570a2b29fd8c1b096b16ab61ce43bfbd84e13537..0000000000000000000000000000000000000000
+--- a/health-samples-day/health-samples-day
++++ /dev/null
+@@ -1 +0,0 @@
+-../../health-samples-day
+\ No newline at end of file
