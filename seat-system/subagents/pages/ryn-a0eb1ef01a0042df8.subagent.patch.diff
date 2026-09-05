@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/fitness/session-planning/performed-set/performed-set.module.ts b/alan/fitness/session-planning/performed-set/performed-set.module.ts
+index 7780d8a0fc05d3e3af08ae3a595179ee9bf88622..804abcae2bff6f20a2a0b19000192a09547b61e0 100644
+--- a/alan/fitness/session-planning/performed-set/performed-set.module.ts
++++ b/alan/fitness/session-planning/performed-set/performed-set.module.ts
+@@ -9,7 +9,7 @@ export const performedSet = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Each field is the set log property that recorded it.",
++      statement: "Each field is the set log property that recorded that field.",
+     },
+     {
+       invariantKind: "departure",
