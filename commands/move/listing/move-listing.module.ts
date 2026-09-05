@@ -23,7 +23,7 @@ export const moveListing = {
     },
     {
       invariantKind: "departure",
-      statement: "A part taken out takes its line with it.",
+      statement: "A part taken out takes its line with that part.",
     },
     {
       invariantKind: "departure",
