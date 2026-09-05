@@ -43,7 +43,7 @@ export const monarchAccount = {
     {
       invariantKind: "departure",
       statement:
-        "An account holding no transaction is still an account, a retirement or brokerage balance moving without a row standing against it.",
+        "An account holding no transaction is still an account, a retirement or brokerage balance moving without a row against it.",
     },
     {
       invariantKind: "departure",

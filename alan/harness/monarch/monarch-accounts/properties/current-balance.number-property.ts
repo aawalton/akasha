@@ -7,7 +7,7 @@ export const currentBalance = {
   pageTypeSlug: "number-property",
   slug: "current-balance",
   propertySlug: "current-balance",
-  definition: "what an account stood at when the sync last read it",
+  definition: "the figure an account was at when the sync last read it",
   max: null,
   invariants: [
     {

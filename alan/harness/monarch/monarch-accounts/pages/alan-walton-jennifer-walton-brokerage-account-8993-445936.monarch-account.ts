@@ -5,7 +5,7 @@ export const alanWaltonJenniferWaltonBrokerageAccount8993445936 = {
   pageTypeSlug: "monarch-account",
   slug: "alan-walton-jennifer-walton-brokerage-account-8993-445936",
   title: "Brokerage Account - 8993",
-  definition: "money the family holds, standing in a brokerage account",
+  definition: "money the family holds, sitting in a brokerage account",
   monarchId: "231274616895445936",
   accountDisplayName: "Alan Walton, Jennifer Walton - Brokerage Account - ****8993 (...8993)",
   currentBalance: 1746285.56,

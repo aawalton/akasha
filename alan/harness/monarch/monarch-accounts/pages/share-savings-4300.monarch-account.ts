@@ -5,7 +5,7 @@ export const shareSavings4300 = {
   pageTypeSlug: "monarch-account",
   slug: "share-savings-4300",
   title: "Share Savings 4300",
-  definition: "money the family holds, standing in a savings account",
+  definition: "money the family holds, sitting in a savings account",
   monarchId: "148836208373274803",
   accountDisplayName: "Share Savings (...4300)",
   currentBalance: 18043.93,

@@ -5,7 +5,7 @@ export const auxiliarySavings4202 = {
   pageTypeSlug: "monarch-account",
   slug: "auxiliary-savings-4202",
   title: "Auxiliary Savings 4202",
-  definition: "money the family holds, standing in a savings account",
+  definition: "money the family holds, sitting in a savings account",
   monarchId: "148836208282048689",
   accountDisplayName: "Auxiliary Savings (...4202)",
   currentBalance: 1500.99,

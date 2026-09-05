@@ -5,7 +5,7 @@ export const checking4042 = {
   pageTypeSlug: "monarch-account",
   slug: "checking-4042",
   title: "Checking 4042",
-  definition: "money the family holds, standing in a checking account",
+  definition: "money the family holds, sitting in a checking account",
   monarchId: "148836208128956590",
   accountDisplayName: "Checking (...4042)",
   currentBalance: 2406.96,

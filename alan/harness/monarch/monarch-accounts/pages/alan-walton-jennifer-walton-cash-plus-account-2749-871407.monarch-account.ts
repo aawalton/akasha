@@ -5,7 +5,7 @@ export const alanWaltonJenniferWaltonCashPlusAccount2749871407 = {
   pageTypeSlug: "monarch-account",
   slug: "alan-walton-jennifer-walton-cash-plus-account-2749-871407",
   title: "Cash Plus Account - 2749",
-  definition: "money the family holds, standing in a cash management account",
+  definition: "money the family holds, sitting in a cash management account",
   monarchId: "231274616839871407",
   accountDisplayName: "Alan Walton, Jennifer Walton - Cash Plus Account - ****2749 (...2749)",
   currentBalance: 0,

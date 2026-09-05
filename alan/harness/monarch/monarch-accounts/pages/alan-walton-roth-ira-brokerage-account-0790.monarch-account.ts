@@ -5,7 +5,7 @@ export const alanWaltonRothIraBrokerageAccount0790 = {
   pageTypeSlug: "monarch-account",
   slug: "alan-walton-roth-ira-brokerage-account-0790",
   title: "Alan Walton - Roth IRA Brokerage Account - 0790",
-  definition: "money the family holds, standing in a Roth IRA account",
+  definition: "money the family holds, sitting in a Roth IRA account",
   monarchId: "231274616693070766",
   accountDisplayName: "Alan Walton - Roth IRA Brokerage Account - ****0790 (...0790)",
   currentBalance: 24495.5,

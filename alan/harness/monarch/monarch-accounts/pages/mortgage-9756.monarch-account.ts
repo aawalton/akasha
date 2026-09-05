@@ -5,7 +5,7 @@ export const mortgage9756 = {
   pageTypeSlug: "monarch-account",
   slug: "mortgage-9756",
   title: "Mortgage 9756",
-  definition: "money the family owes, standing in a loan account",
+  definition: "money the family owes, sitting in a loan account",
   monarchId: "148851207159290324",
   accountDisplayName: "Mortgage 9756 (...9756)",
   currentBalance: -475875.4,

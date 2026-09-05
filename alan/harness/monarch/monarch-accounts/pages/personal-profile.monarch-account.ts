@@ -5,7 +5,7 @@ export const personalProfile = {
   pageTypeSlug: "monarch-account",
   slug: "personal-profile",
   title: "Personal Profile",
-  definition: "money the family holds, standing in a checking account",
+  definition: "money the family holds, sitting in a checking account",
   monarchId: "148836305531181242",
   accountDisplayName: "Personal Profile",
   currentBalance: 10.15,

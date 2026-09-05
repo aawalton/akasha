@@ -5,7 +5,7 @@ export const samsClubMastercard6666 = {
   pageTypeSlug: "monarch-account",
   slug: "sams-club-mastercard-6666",
   title: "Sam's Club® Mastercard® 6666",
-  definition: "money the family owes, standing in a credit card account",
+  definition: "money the family owes, sitting in a credit card account",
   monarchId: "148836999150573770",
   accountDisplayName: "Sam's Club® Mastercard® (...6666)",
   currentBalance: 0,

@@ -5,7 +5,7 @@ export const account3055 = {
   pageTypeSlug: "monarch-account",
   slug: "account-3055",
   title: "3055",
-  definition: "money the family holds, standing in a brokerage account",
+  definition: "money the family holds, sitting in a brokerage account",
   monarchId: "148836114919987369",
   accountDisplayName: "**3055 (...3055)",
   currentBalance: 0,

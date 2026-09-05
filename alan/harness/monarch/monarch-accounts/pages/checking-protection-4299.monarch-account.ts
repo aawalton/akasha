@@ -5,7 +5,7 @@ export const checkingProtection4299 = {
   pageTypeSlug: "monarch-account",
   slug: "checking-protection-4299",
   title: "Checking Protection 4299",
-  definition: "money the family owes, standing in a loan account",
+  definition: "money the family owes, sitting in a loan account",
   monarchId: "148836208322943154",
   accountDisplayName: "Checking Protection (...4299)",
   currentBalance: 0,

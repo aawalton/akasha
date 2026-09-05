@@ -5,7 +5,7 @@ export const cash = {
   pageTypeSlug: "monarch-account",
   slug: "cash",
   title: "Cash",
-  definition: "money the family holds, standing in a cash management account",
+  definition: "money the family holds, sitting in a cash management account",
   monarchId: "151732808422660966",
   accountDisplayName: "Cash",
   currentBalance: 12388.43,

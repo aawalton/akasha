@@ -5,7 +5,7 @@ export const costcoAnywhereVisaCardByCiti1425562484 = {
   pageTypeSlug: "monarch-account",
   slug: "costco-anywhere-visa-card-by-citi-1425-562484",
   title: "Costco Anywhere Visa® Card by Citi-1425",
-  definition: "money the family owes, standing in a credit account",
+  definition: "money the family owes, sitting in a credit account",
   monarchId: "169775899167562484",
   accountDisplayName: "Costco Anywhere Visa® Card by Citi-1425 (...1425)",
   currentBalance: 3684.3,

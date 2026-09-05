@@ -5,7 +5,7 @@ export const moneyMarket9490 = {
   pageTypeSlug: "monarch-account",
   slug: "money-market-9490",
   title: "Money Market 9490",
-  definition: "money the family holds, standing in a savings account",
+  definition: "money the family holds, sitting in a savings account",
   monarchId: "148836208546289846",
   accountDisplayName: "Money Market (...9490)",
   currentBalance: 0,

@@ -5,7 +5,7 @@ export const amazonStoreCard6952 = {
   pageTypeSlug: "monarch-account",
   slug: "amazon-store-card-6952",
   title: "Amazon Store Card 6952",
-  definition: "money the family owes, standing in a credit card account",
+  definition: "money the family owes, sitting in a credit card account",
   monarchId: "148836979301030089",
   accountDisplayName: "Amazon Store Card (...6952)",
   currentBalance: -614.71,
