@@ -1,13 +1,18 @@
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts
-index befc0f7430d842d903c438a0498c12493c6fc606..0f73ee36bcda3c38f161f282b49cfcabdef5ba11 100644
+index befc0f7430d842d903c438a0498c12493c6fc606..fca4a814ca9a0a062404cf88c4303a8e5dfeb962 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.ts
-@@ -44,7 +44,7 @@ export const noSwallowedRead = {
+@@ -44,11 +44,11 @@ export const noSwallowedRead = {
      {
        invariantKind: "departure",
        statement:
 -        "A body that will not decode is a fact about that body rather than a failure to reach it.",
 +        "A body that will not decode is a fact about that body rather than a failure to reach that body.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The read sits in the try itself or through a function beside it.",
++      statement: "The read sits in the try itself or through a function beside that try.",
      },
      {
        invariantKind: "departure",
