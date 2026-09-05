@@ -1,5 +1,5 @@
 diff --git a/infrastructure/analysis-complexity/walk-functions/walk-functions.module.ts b/infrastructure/analysis-complexity/walk-functions/walk-functions.module.ts
-index 56a75b71362d1cafa90395e195ec1d55d8c72fc5..d6924e0e80372c25cf8931ef954b3c9cf07c7f76 100644
+index 56a75b71362d1cafa90395e195ec1d55d8c72fc5..434c82be55ba12c13593fec699ef1df9410c8532 100644
 --- a/infrastructure/analysis-complexity/walk-functions/walk-functions.module.ts
 +++ b/infrastructure/analysis-complexity/walk-functions/walk-functions.module.ts
 @@ -4,7 +4,7 @@ export const walkFunctions = {
@@ -11,6 +11,15 @@ index 56a75b71362d1cafa90395e195ec1d55d8c72fc5..d6924e0e80372c25cf8931ef954b3c9c
    code: "ts",
    invariants: [
      {
+@@ -13,7 +13,7 @@ export const walkFunctions = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A function with no name of its own is named by where it stands.",
++      statement: "A function with no name of its own is named by where it is.",
+     },
+   ],
+ } as const satisfies Module
 diff --git a/infrastructure/cluster-provisioning/talos/talos-registry-ca/talos-registry-ca.module.ts b/infrastructure/cluster-provisioning/talos/talos-registry-ca/talos-registry-ca.module.ts
 index 671569efdab50a7a7c9904f32638f2b4462ff91f..3e57407ec3a31686c8c936db8768439dd6d04a11 100644
 --- a/infrastructure/cluster-provisioning/talos/talos-registry-ca/talos-registry-ca.module.ts
@@ -24,10 +33,10 @@ index 671569efdab50a7a7c9904f32638f2b4462ff91f..3e57407ec3a31686c8c936db8768439d
    code: "ts",
  } as const satisfies Module
 diff --git a/infrastructure/k8s-synth/generated-file/generated-file.module.ts b/infrastructure/k8s-synth/generated-file/generated-file.module.ts
-index 1bf995dfcb68ef57bf16caec7dff581638a96b13..6b9bd364811641c4cc7ec7b72446067a2d4b9254 100644
+index 1bf995dfcb68ef57bf16caec7dff581638a96b13..39efb330b4e86a061def10881c6160e0601b3ded 100644
 --- a/infrastructure/k8s-synth/generated-file/generated-file.module.ts
 +++ b/infrastructure/k8s-synth/generated-file/generated-file.module.ts
-@@ -4,7 +4,7 @@ export const generatedFile = {
+@@ -4,12 +4,12 @@ export const generatedFile = {
    id: "01a06810-0b68-7fc5-b1b3-8bd0a620be5a",
    pageTypeSlug: "module",
    slug: "generated-file",
@@ -36,6 +45,12 @@ index 1bf995dfcb68ef57bf16caec7dff581638a96b13..6b9bd364811641c4cc7ec7b72446067a
    code: "ts",
    invariants: [
      {
+       invariantKind: "departure",
+-      statement: "A generated file stands in a `generated` folder beside its synth file.",
++      statement: "A generated file sits in a `generated` folder beside its synth file.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/infrastructure/k8s-synth/synth-manifests/synth-manifests.module.code.ts b/infrastructure/k8s-synth/synth-manifests/synth-manifests.module.code.ts
 index e96c89732752cf8b812a900b7c6112797a13d50e..82c927ae7f994039376a9ab19aa8a203144cb0bc 100644
 --- a/infrastructure/k8s-synth/synth-manifests/synth-manifests.module.code.ts
