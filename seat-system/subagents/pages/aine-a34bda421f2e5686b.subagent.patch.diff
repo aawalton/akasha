@@ -1,13 +1,19 @@
 diff --git a/agents/claude-accounts/claude-account.page-type.ts b/agents/claude-accounts/claude-account.page-type.ts
-index 9a006da6c7b944d70478cce9e09042d6a1da8d93..a14f595e8b405bca287bc69b2df166bd9e6f5a43 100644
+index 9a006da6c7b944d70478cce9e09042d6a1da8d93..b183727128e75b8e3c5a6b2ccc7bd3892e05a4db 100644
 --- a/agents/claude-accounts/claude-account.page-type.ts
 +++ b/agents/claude-accounts/claude-account.page-type.ts
-@@ -175,7 +175,7 @@ export const claudeAccount = {
+@@ -175,12 +175,11 @@ export const claudeAccount = {
      },
      {
        invariantKind: "departure",
 -      statement: "What is observed of an account stands beside its page rather than in that page.",
 +      statement: "What is observed of an account sits beside its page rather than in that page.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A declaration saying where a value stands is what routes every mark written here.",
++      statement: "A declaration saying where a value sits is what routes every mark written here.",
      },
      {
        invariantKind: "departure",
