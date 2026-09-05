@@ -17,7 +17,7 @@ export const backendEnv = {
     },
     {
       invariantKind: "departure",
-      statement: "A gzipped body carries no length, so the backend reads to the end of it.",
+      statement: "A gzipped body carries no length, so the backend reads to the end of that body.",
     },
     {
       invariantKind: "departure",
