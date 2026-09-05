@@ -1,5 +1,5 @@
 diff --git a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
-index b5dd8d597083ab1e5ef43d1f8df4ac8a598ebddd..ffa1e1a08311f0f8945cf0846feb0793ed3920d0 100644
+index b5dd8d597083ab1e5ef43d1f8df4ac8a598ebddd..2204eb4ec8d55c8ff7a2ecfbdede380960a1b127 100644
 --- a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
 +++ b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
 @@ -24,7 +24,8 @@ export const surplusFallNotifying = {
@@ -9,6 +9,15 @@ index b5dd8d597083ab1e5ef43d1f8df4ac8a598ebddd..ffa1e1a08311f0f8945cf0846feb0793
 -      statement: "A rung is said only where it is worse than the worst rung already said today.",
 +      statement:
 +        "A rung is said only where that rung is worse than the worst rung already said today.",
+     },
+     {
+       invariantKind: "departure",
+@@ -34,7 +35,7 @@ export const surplusFallNotifying = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A day dropping two rungs between ticks says the rung it reached and never the rung between.",
++        "A day dropping two rungs between ticks says the rung the day reached and never the rung between.",
      },
      {
        invariantKind: "departure",
