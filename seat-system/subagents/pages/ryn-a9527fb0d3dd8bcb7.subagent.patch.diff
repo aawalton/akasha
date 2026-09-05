@@ -1,5 +1,5 @@
 diff --git a/pages/system-service/pages-system-service.workspace-package.ts b/pages/system-service/pages-system-service.workspace-package.ts
-index b44f6a5a38ee47c2f9bbfda3c44cb3bdd68a9754..4531ad6f0ddf9c04a037cdfbdae5434495d18811 100644
+index b44f6a5a38ee47c2f9bbfda3c44cb3bdd68a9754..502e433c98db5786da4acaac389030b0bf3785bd 100644
 --- a/pages/system-service/pages-system-service.workspace-package.ts
 +++ b/pages/system-service/pages-system-service.workspace-package.ts
 @@ -25,12 +25,13 @@ export const pagesSystemService = {
@@ -18,3 +18,12 @@ index b44f6a5a38ee47c2f9bbfda3c44cb3bdd68a9754..4531ad6f0ddf9c04a037cdfbdae54344
      },
      {
        invariantKind: "absence",
+@@ -42,7 +43,7 @@ export const pagesSystemService = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An answer is never older than the file it speaks for.",
++      statement: "An answer is never older than the file that answer speaks for.",
+     },
+     {
+       invariantKind: "departure",
