@@ -17,6 +17,7 @@ import {
 import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
 import {
   DROPPED,
+  droppedAt,
   droppedPatch,
   type Rebased,
   rebasedOnto,
@@ -65,6 +66,8 @@ const ACTS = [APPLY, DROP, SHOW, RESOLVE]
 const APPLYING = [MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
 const SHOWING = [FILE_PATH]
+
+const DROPPING = [FILE_PATH]
 
 const RESOLVING = [FILE_PATH, CONTENT_FILE]
 
@@ -201,13 +204,32 @@ export function showingBody(root: string, page: string, argv: readonly string[])
   return { report: linesOf(body), refusals: [], code: 0 }
 }
 
-export function dropping(root: string, page: string): Answer {
+export function dropping(root: string, page: string, argv: readonly string[]): Answer {
+  const unknown = unknownIn(argv, DROPPING, BARE)
+  if (unknown.length > 0) return mistaking(unknown)
   const at = patchAt(page)
   if (at === null || patchIn(root, page) === null) {
     return { report: [noneSaid(root, page)], refusals: [], code: 0 }
   }
-  droppedPatch(root, page, DROPPED)
-  return { report: [`the patch kept at ${at} is taken away`], refusals: [], code: 0 }
+  if (argv.length === 0) {
+    droppedPatch(root, page, DROPPED)
+    return { report: [`the patch kept at ${at} is taken away`], refusals: [], code: 0 }
+  }
+  const named = onePathIn(root, argv, DROPPING)
+  if ("refusals" in named) return mistaking(named.refusals)
+  const said = droppedAt(root, page, named.path)
+  if ("why" in said) return { report: [], refusals: [said.why], code: 2 }
+  return {
+    report: [
+      `${named.path} is taken out of the patch`,
+      ...said.clashed.map(clashSaid),
+      said.patch === null
+        ? "the patch was worked out to nothing and taken away"
+        : `the patch is kept at ${at}`,
+    ],
+    refusals: [],
+    code: 0,
+  }
 }
 
 function bodyIn(
@@ -361,7 +383,7 @@ export async function patching(
   if (page === null || patchAt(page) === null) return mistaking([NO_PAGE])
   const rest = argv.slice(1)
   if (act === undefined) return showing(given.root, page)
-  if (act === DROP) return dropping(given.root, page)
+  if (act === DROP) return dropping(given.root, page, rest)
   if (act === SHOW) return showingBody(given.root, page, rest)
   if (act === RESOLVE) return await resolving(given, page, rest, piping)
   return await applying(given, page, rest)

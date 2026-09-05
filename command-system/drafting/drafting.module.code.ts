@@ -258,7 +258,9 @@ export function tookIn(root: string, page: string, from: string): Drafted {
   return took
 }
 
-export function resolved(root: string, page: string, path: string, body: Uint8Array): Drafted {
+type Reworking = (held: Bodies) => Held | { readonly why: string }
+
+function reworked(root: string, page: string, mechanical: boolean, over: Reworking): Drafted {
   const at = patchAt(page)
   if (at === null) return { why: NO_PAGE }
   const head = headOf(root)
@@ -269,18 +271,36 @@ export function resolved(root: string, page: string, path: string, body: Uint8Ar
       answer = first
       return patch
     }
-    const had = first.held.get(path)
-    if (had === undefined) {
-      answer = { why: `${NOT_HELD} ${path}` }
+    const next = over(first.held)
+    if ("why" in next) {
+      answer = next
       return patch
     }
-    const next: Held = new Map(first.held)
-    next.set(path, { was: had.was, body })
-    const kept = keptFrom(root, at, head, next, false)
+    const still = mechanical && (patch === null || mechanicalIn(patch))
+    const kept = keptFrom(root, at, head, next, still)
     answer = kept
     return kept.patch
   })
   if (!took) return { why: NO_PAGE }
   if (!("why" in answer)) committedPatch(root, at, DRAFTED)
   return answer
+}
+
+export function resolved(root: string, page: string, path: string, body: Uint8Array): Drafted {
+  return reworked(root, page, false, (held) => {
+    const had = held.get(path)
+    if (had === undefined) return { why: `${NOT_HELD} ${path}` }
+    const next: Held = new Map(held)
+    next.set(path, { was: had.was, body })
+    return next
+  })
+}
+
+export function droppedAt(root: string, page: string, path: string): Drafted {
+  return reworked(root, page, true, (held) => {
+    if (!held.has(path)) return { why: `${NOT_HELD} ${path}` }
+    const next: Held = new Map(held)
+    next.delete(path)
+    return next
+  })
 }

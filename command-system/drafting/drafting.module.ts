@@ -114,6 +114,22 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
+      statement: "A patch a path is taken out of still carries every other path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path is taken out after the patch is rebased onto the commit at HEAD.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Taking the last path out takes the patch away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Taking out a path the patch carries no body at is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A patch is read and written again under the turn the patch's file keeps.",
     },
     {
@@ -215,6 +231,10 @@ export const drafting = {
     {
       invariantKind: "departure",
       statement: "A body resolved leaves the patch no longer mechanical.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path taken out leaves a mechanical patch mechanical.",
     },
     {
       invariantKind: "departure",

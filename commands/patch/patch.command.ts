@@ -10,10 +10,10 @@ export const patch = {
   changeKindSlug: "change-authored",
   taking: [
     { said: "apply", takes: "the act, which is to land the patch through the gate as one commit" },
-    { said: "drop", takes: "the act, which is to take the patch away without landing it" },
+    { said: "drop", takes: "the act, which is to take the patch away, or one path out of it" },
     { said: "show", takes: "the act, which is to say the body the patch would leave at one path" },
     { said: "resolve", takes: "the act, which is to replace the body the patch holds at one path" },
-    { said: "--file-path <path>", takes: "the path a show or a resolve acts on" },
+    { said: "--file-path <path>", takes: "the path a show, a resolve or a drop acts on" },
     { said: "--content-file <file>", takes: "a file the body for a resolve is read from" },
     { said: "--message <text>", takes: "what the commit an apply makes is for" },
     { said: "--message-file <file>", takes: "a file that message is read from" },
@@ -28,6 +28,8 @@ export const patch = {
     "an apply the checks refuse leaves the patch to be worked on further.",
     "--break-the-glass applies the patch with no check run, and the reason is said in the commit.",
     "a patch applied or dropped takes the ref keeping its blobs with it.",
+    "a drop naming no path takes the whole patch away.",
+    "a drop naming a path takes that path out and leaves every other path the patch carries.",
     "a patch file is committed as it is drafted into, and what it draws is landed only by an apply.",
     "a call finding no patch beside a subagent's page names the seat that draft would have gone to.",
     "a patch outlives a context replacement, which takes away every reading the agent held.",
@@ -74,7 +76,23 @@ export const patch = {
     },
     {
       invariantKind: "departure",
-      statement: "A drop takes the patch away without judging what the patch holds.",
+      statement: "A drop naming no path takes the patch away without judging what the patch holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A drop naming a path takes that path out of the patch.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A drop naming a path leaves every other path the patch carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A drop naming the last path the patch carries takes the patch away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A drop naming a path the patch carries no body at is refused.",
     },
     {
       invariantKind: "departure",

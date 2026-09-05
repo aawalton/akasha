@@ -2,7 +2,11 @@ import { afterAll, expect, test } from "bun:test"
 import { patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
 import type { Given } from "../../command-system/calling/calling.module.code.ts"
-import { drafted, resolved } from "../../command-system/drafting/drafting.module.code.ts"
+import {
+  drafted,
+  mechanicalIn,
+  resolved,
+} from "../../command-system/drafting/drafting.module.code.ts"
 import type { Piping } from "../../command-system/piping/piping.module.code.ts"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import { writing } from "../../command-system/scratching/scratching.module.test-fixtures.ts"
@@ -213,16 +217,69 @@ test("a body piped in to a resolve that is not text is refused", async () => {
 test("a drop takes the patch and the ref keeping its blobs away", async () => {
   const root = await repo()
   drafting(root)
-  const said = dropping(root, PAGE)
+  const said = dropping(root, PAGE, [])
   expect(said.code).toBe(0)
   expect(patchIn(root, PAGE)).toBeNull()
   expect(refs(root)).toBe("")
 })
 
 test("a drop where no patch is kept is no fault", async () => {
-  const said = dropping(await repo(), PAGE)
+  const said = dropping(await repo(), PAGE, [])
   expect(said.code).toBe(0)
   expect(said.report.join("\n")).toContain("nothing is drafted")
+})
+
+test("a drop naming a path takes that path out and leaves every other path", async () => {
+  const root = await repo()
+  await landingAt(root, TWO, WAS)
+  draftingBoth(root)
+  const said = dropping(root, PAGE, ["--file-path", ONE])
+  expect(said.code).toBe(0)
+  expect(said.report.join("\n")).toContain(`${ONE} is taken out of the patch`)
+  const shown = showing(root, PAGE)
+  expect(shown.report.join("\n")).toContain(`changed ${TWO}`)
+  expect(shown.report.join("\n")).not.toContain(`changed ${ONE}`)
+})
+
+test("a drop naming the last path the patch carries takes the patch away", async () => {
+  const root = await repo()
+  drafting(root)
+  const said = dropping(root, PAGE, ["--file-path", ONE])
+  expect(said.code).toBe(0)
+  expect(patchIn(root, PAGE)).toBeNull()
+  expect(refs(root)).toBe("")
+})
+
+test("a drop naming a path the patch carries no body at is refused", async () => {
+  const root = await repo()
+  drafting(root)
+  const said = dropping(root, PAGE, ["--file-path", TWO])
+  expect(said.code).toBe(2)
+  expect(said.refusals.join("\n")).toContain("carries no body at")
+})
+
+test("a path HEAD took away is taken out and every other path is left", async () => {
+  const root = await repo()
+  await landingAt(root, TWO, WAS)
+  draftingBoth(root)
+  taking(root, ONE)
+  expect(dropping(root, PAGE, ["--file-path", ONE]).code).toBe(0)
+  const said = showing(root, PAGE)
+  expect(said.report.join("\n")).not.toContain("carries a conflict")
+  expect(said.report.join("\n")).toContain(`changed ${TWO}`)
+})
+
+test("a path taken out leaves a mechanical patch mechanical", async () => {
+  const root = await repo()
+  await landingAt(root, TWO, WAS)
+  const draft = [
+    { path: ONE, was: BYTES.encode(WAS), body: BYTES.encode(NOW) },
+    { path: TWO, was: BYTES.encode(WAS), body: BYTES.encode(NOW) },
+  ]
+  expect("why" in drafted(root, PAGE, draft, true)).toBe(false)
+  expect(mechanicalIn(patchIn(root, PAGE))).toBe(true)
+  expect(dropping(root, PAGE, ["--file-path", ONE]).code).toBe(0)
+  expect(mechanicalIn(patchIn(root, PAGE))).toBe(true)
 })
 
 test("a path a rename left the body at is the path named", async () => {
