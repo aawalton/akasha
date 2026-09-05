@@ -20,7 +20,7 @@ export const exerciseEquipmentList = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A piece saying nothing about whether it is owned is taken as owned.",
+      statement: "A piece saying nothing about whether that piece is owned is taken as owned.",
     },
     {
       invariantKind: "absence",
