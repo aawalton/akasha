@@ -43,19 +43,6 @@ index 93366da02058621aca792b53d119453006e914ad..9b4213dd4bbbdb2e54d21dd49ae8f4c3
  })
  
  test("a page is judged once, whether the change names the page, the file, or both", () => {
-diff --git a/domains/initiatives/pages/thea-checks-system.initiative.ts b/domains/initiatives/pages/thea-checks-system.initiative.ts
-index 08cb4daadaf638a1fce8d603a623af296dd4bc09..18d3c6b839a9ca66304f45965a197e561fdc9ca7 100644
---- a/domains/initiatives/pages/thea-checks-system.initiative.ts
-+++ b/domains/initiatives/pages/thea-checks-system.initiative.ts
-@@ -26,7 +26,7 @@ export const theaChecksSystem = {
-     {
-       statement: "Every file the repository tracks is claimed by a page.",
-       workingMemory:
--        "630 tracked files no page claims, measured by diffing .git/data/index/path against `git ls-files`, seeded both ways: dotfiles/bin/akasha reads unclaimed, akasha.domain.ts reads claimed. 155 are routes; 149 are cluster-check module bodies whose pages were never written, though 129 claimed check bodies import them; 114 are lua-compiler/lualib/src; the rest are spread over service-system, infrastructure and alan. file-has-its-page cannot reach audit until this is zero.",
-+        "630 tracked files no page claims, measured by diffing .git/data/index/path against `git ls-files`, seeded both ways: machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh reads unclaimed, akasha.domain.ts reads claimed. 155 are routes; 149 are cluster-check module bodies whose pages were never written, though 129 claimed check bodies import them; 114 are lua-compiler/lualib/src; the rest are spread over service-system, infrastructure and alan. file-has-its-page cannot reach audit until this is zero.",
-     },
-     {
-       statement: "The new system carries every check of the old system that still applies.",
 diff --git a/dotfiles/bin/akasha b/dotfiles/bin/akasha
 deleted file mode 100755
 index fec3f68d7ddc8244121f476ee6db206bd23f4695..0000000000000000000000000000000000000000
