@@ -1,0 +1,182 @@
+diff --git a/checks/code-checks/pages/tests-pass/tests-pass.code-check.code.ts b/checks/code-checks/pages/tests-pass/tests-pass.code-check.code.ts
+index 15611754595e2b10654233054be38c3142aa7adb..dd4f4a168cb5185f4626f056676ee8ecf55cfd7d 100644
+--- a/checks/code-checks/pages/tests-pass/tests-pass.code-check.code.ts
++++ b/checks/code-checks/pages/tests-pass/tests-pass.code-check.code.ts
+@@ -8,6 +8,7 @@ import {
+ } from "@akasha/code-system/code-tests"
+ import type { Change } from "@akasha/pages-system/change"
+ import type { Shadow } from "@akasha/pages-system/shadow"
++import { endingOf } from "@akasha/utils-run/running"
+ import {
+   everyFileOf,
+   input,
+diff --git a/checks/code-checks/pages/tests-pass/tests-pass.code-check.test.ts b/checks/code-checks/pages/tests-pass/tests-pass.code-check.test.ts
+index f4039af0efcfebaa3715cf00fc9e90c9572d7ade..c09f9f1045175003071c92186923604388cc5084 100644
+--- a/checks/code-checks/pages/tests-pass/tests-pass.code-check.test.ts
++++ b/checks/code-checks/pages/tests-pass/tests-pass.code-check.test.ts
+@@ -55,7 +55,7 @@ function withoutGuard<T>(run: () => T): T {
+ }
+ 
+ function ranAs(verdict: Ran["verdict"], summary: Ran["summary"], output = ""): Ran {
+-  return { code: 1, output, summary, verdict }
++  return { code: 1, signal: null, output, summary, verdict }
+ }
+ 
+ test("the tests named are the ones standing beside the files the change carries", () => {
+diff --git a/code-system/code-tests/code-tests.module.code.ts b/code-system/code-tests/code-tests.module.code.ts
+index cc6dab8b912f21b93d727ce54bc0382a007fc9a7..6d4805f086c56cf9da3ce2c98ae7a8150377855f 100644
+--- a/code-system/code-tests/code-tests.module.code.ts
++++ b/code-system/code-tests/code-tests.module.code.ts
+@@ -91,6 +91,7 @@ export type Summary = {
+ 
+ export type Ran = {
+   readonly code: number
++  readonly signal: string | null
+   readonly output: string
+   readonly summary: Summary
+   readonly verdict: Verdict
+diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
+index 2736394b876c6ec11bcb471981ee7ffaf00159ee..bb0e0c7e55957b08f0463fa15613fcac861c25ed 100644
+--- a/code-system/code-tests/code-tests.module.ts
++++ b/code-system/code-tests/code-tests.module.ts
+@@ -14,6 +14,10 @@ export const codeTests = {
+       invariantKind: "departure",
+       statement: "A run's answer carries what the run exited.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A run's answer carries the signal the run died on where a signal ended the run.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A run's answer carries what the run printed.",
+diff --git a/commands/test/test.command.code.ts b/commands/test/test.command.code.ts
+index 66762ab758ed6527576b2bac39eac095ec7f7a67..1f50e232c997db50148e0584c22b3ab2e9cbb512 100644
+--- a/commands/test/test.command.code.ts
++++ b/commands/test/test.command.code.ts
+@@ -3,6 +3,7 @@ import { join, relative, resolve } from "node:path"
+ import { textIn } from "@akasha/code-system/body-text"
+ import type { Summary, Verdict } from "@akasha/code-system/code-tests"
+ import { plain, ranOver, testNamed, testsUnder } from "@akasha/code-system/code-tests"
++import { endingOf } from "@akasha/utils-run/running"
+ import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+ 
+ const FILE_PATH = "--file-path"
+diff --git a/commands/test/test.command.ts b/commands/test/test.command.ts
+index 86b539e110763141df03445c26cce6c015c2ba4b..3d9f456d331aa75d0a0733926b2bd07a7d737887 100644
+--- a/commands/test/test.command.ts
++++ b/commands/test/test.command.ts
+@@ -40,6 +40,10 @@ export const test = {
+       invariantKind: "departure",
+       statement: "A run printing no summary carries the tail of what the runner printed.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A run the runner died on names the signal that killed the runner.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
+diff --git a/utils-run/running/running.module.code.ts b/utils-run/running/running.module.code.ts
+index 081c65fe3e7464e6c98f6553ad6fd85ad865322c..afe31ea93142ae5dfa455064a2df81c6d89e0364 100644
+--- a/utils-run/running/running.module.code.ts
++++ b/utils-run/running/running.module.code.ts
+@@ -2,12 +2,14 @@ export const NO_CODE = -1
+ 
+ export type Said = {
+   readonly code: number
++  readonly signal: string | null
+   readonly out: string
+   readonly err: string
+ }
+ 
+ export type Held = {
+   readonly code: number
++  readonly signal: string | null
+   readonly out: Uint8Array
+   readonly err: string
+ }
+diff --git a/utils-run/running/running.module.test.ts b/utils-run/running/running.module.test.ts
+index cb13c959dd57cba159ab4b276012664e90e00c6a..61fcdbe3391ace2375453a3349f39ef3cd461263 100644
+--- a/utils-run/running/running.module.test.ts
++++ b/utils-run/running/running.module.test.ts
+@@ -1,22 +1,51 @@
+ import { expect, test } from "bun:test"
+-import { bytes, ran, said, shown } from "./running.module.code.ts"
++import { bytes, NO_CODE, ran, said, shown } from "./running.module.code.ts"
+ 
+ test("a command exiting zero is answered as zero and what it printed", () => {
+-  expect(ran(["sh", "-c", "printf hello"])).toEqual({ code: 0, out: "hello", err: "" })
++  expect(ran(["sh", "-c", "printf hello"])).toEqual({
++    code: 0,
++    signal: null,
++    out: "hello",
++    err: "",
++  })
+ })
+ 
+ test("a command exiting other than zero is answered rather than thrown", () => {
+-  expect(ran(["false"])).toEqual({ code: 1, out: "", err: "" })
++  expect(ran(["false"])).toEqual({ code: 1, signal: null, out: "", err: "" })
+ })
+ 
+ test("what a command says on each stream is kept apart", () => {
+   expect(ran(["sh", "-c", "printf out; printf err 1>&2; exit 3"])).toEqual({
+     code: 3,
++    signal: null,
+     out: "out",
+     err: "err",
+   })
+ })
+ 
++test("a process ending on a signal is answered as that signal beside no code of its own", () => {
++  const done = ran(["sh", "-c", "kill -SEGV $$"])
++  expect(done.code).toBe(NO_CODE)
++  expect(done.signal).toBe("SIGSEGV")
++})
++
++test("processes dying on different signals are told apart rather than collapsed", () => {
++  expect(ran(["sh", "-c", "kill -KILL $$"]).signal).toBe("SIGKILL")
++  expect(ran(["sh", "-c", "kill -ABRT $$"]).signal).toBe("SIGABRT")
++})
++
++test("a process exiting a code of its own names no signal", () => {
++  expect(ran(["false"]).signal).toBeNull()
++})
++
++test("bytes carries the signal the process died on as text does", () => {
++  expect(bytes(["sh", "-c", "kill -KILL $$"]).signal).toBe("SIGKILL")
++})
++
++test("what a process said is a throw naming the signal where a signal ended it", () => {
++  expect(() => said(["sh", "-c", "kill -KILL $$"])).toThrow(/`sh` died on SIGKILL/)
++})
++
+ test("what a process said comes back where it exited zero", () => {
+   expect(said(["sh", "-c", "printf hello"])).toBe("hello")
+ })
+diff --git a/utils-run/running/running.module.ts b/utils-run/running/running.module.ts
+index 3687b918b8eb621d9dc189c724ab22679622c915..5755ae59c46dfb7089c069bf80d74c3c52fd555e 100644
+--- a/utils-run/running/running.module.ts
++++ b/utils-run/running/running.module.ts
+@@ -22,7 +22,19 @@ export const running = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A process ending on a signal rather than a code of its own is answered as `-1`.",
++      statement: "A process ending on a signal is answered as `-1` and the name of that signal.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A process ending on a code of its own is answered as naming no signal.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "How a process ended is spelled once here, as a code or as a signal.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A throw says how the process ended rather than a code alone.",
+     },
+     {
+       invariantKind: "departure",
