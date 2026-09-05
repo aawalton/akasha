@@ -40,7 +40,7 @@ export const monarchRuleDates = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule states a month in words and it is kept as a number.",
+      statement: "A rule states a month in words and that month is kept as a number.",
     },
     {
       invariantKind: "departure",
