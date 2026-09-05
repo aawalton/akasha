@@ -13,7 +13,7 @@ export const procEnviron = {
     },
     {
       invariantKind: "departure",
-      statement: "The value is split off the environ the way proc-reading splits it.",
+      statement: "The value is split off the environ the way proc-reading splits that environ.",
     },
     {
       invariantKind: "absence",
