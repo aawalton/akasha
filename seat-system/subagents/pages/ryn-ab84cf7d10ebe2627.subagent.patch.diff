@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/code-system/code-source/code-source.module.ts b/code-system/code-source/code-source.module.ts
+index dfce38d0a744575883a0d6d7c910d69e31754ba3..d560d0327ff9aa9052e09ccc26af6babc766aae5 100644
+--- a/code-system/code-source/code-source.module.ts
++++ b/code-system/code-source/code-source.module.ts
+@@ -15,7 +15,7 @@ export const codeSource = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Whether a node can be asked what holds the node is named rather than passed as a bare flag.",
++        "Whether a node can be asked for its parent is named rather than passed as a bare flag.",
+     },
+     {
+       invariantKind: "departure",
