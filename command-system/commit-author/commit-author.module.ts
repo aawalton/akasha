@@ -29,7 +29,7 @@ export const commitAuthor = {
     {
       invariantKind: "departure",
       statement:
-        "A subagent declares no persona of its own and is answered from the seat it was spawned under.",
+        "A subagent declares no persona of its own and is answered from the seat that spawned the subagent.",
     },
     {
       invariantKind: "departure",
