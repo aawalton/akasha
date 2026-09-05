@@ -1,4 +1,12 @@
 runsWarrants: false
+diff --git a/alan/atlas-web/alanwalton-atlas-web b/alan/atlas-web/alanwalton-atlas-web
+deleted file mode 120000
+index 10ad94441bb7a0632719a7fbb5b525c4ae023ef8..0000000000000000000000000000000000000000
+--- a/alan/atlas-web/alanwalton-atlas-web
++++ /dev/null
+@@ -1 +0,0 @@
+-../../alan/atlas-web
+\ No newline at end of file
 diff --git a/alan/chess/chess-core b/alan/chess/chess-core
 deleted file mode 120000
 index 6f7654361d69a3566b57415ecd679d41da46238b..0000000000000000000000000000000000000000
