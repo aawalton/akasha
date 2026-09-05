@@ -1,0 +1,15 @@
+diff --git a/infrastructure/auth/auth.domain.ts b/infrastructure/auth/auth.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fa6d0315ac2adfc86a8f071855d638b67c8b0c16
+--- /dev/null
++++ b/infrastructure/auth/auth.domain.ts
+@@ -0,0 +1,9 @@
++import type { Domain } from "../../domains/domain.page-type.ts"
++
++export const auth = {
++  id: "01a07392-d13f-7657-b149-543047125f73",
++  pageTypeSlug: "domain",
++  slug: "auth",
++  definition: "who a caller is, and what says so",
++  partSlugs: ["manifest/gotrue"],
++} as const satisfies Domain
