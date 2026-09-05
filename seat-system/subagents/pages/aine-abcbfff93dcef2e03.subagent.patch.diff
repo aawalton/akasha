@@ -12,7 +12,7 @@ index d0623bb4de6af8cd8a58ce7a0aebda3a46473335..f3f2970ef2d24e5840e53f17e58002a4
      const exported = s.indexOf(`test -f ${IPA}`)
      const gate = s.indexOf("build-stamp gate")
 diff --git a/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts b/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts
-index 3ff86d9898f9d4263943686ef478c1351bfa954b..6ca06e1bede4e21d63a71cd6bf25e5e9687be104 100644
+index 3ff86d9898f9d4263943686ef478c1351bfa954b..6bf19d8cc4054ae6519c4e82cab9f083d6da7231 100644
 --- a/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts
 +++ b/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts
 @@ -10,7 +10,7 @@ export const MOBILE_CUT_PAGE_TYPE_SLUG = "mobile-cut"
@@ -33,8 +33,17 @@ index 3ff86d9898f9d4263943686ef478c1351bfa954b..6ca06e1bede4e21d63a71cd6bf25e5e9
   */
  export class CutsUnread extends Error {
    readonly at: string
+@@ -86,7 +86,7 @@ export function cutPageNameFor(appSlug: string, buildNumber: number): string {
+   return `${appSlug}-${buildNumber}`
+ }
+ 
+-/** A cut page stands in a folder named for its slug, so that entry files can stand beside it. */
++/** A cut page sits in a folder named for its slug, so that entry files can sit beside it. */
+ export function cutPagePath(slug: string): string {
+   return `${CUTS_FOLDER}/${slug}/${slug}${PAGE_SUFFIX}`
+ }
 diff --git a/mobile-cli/cut-fingerprint/cut-fingerprint.module.test.ts b/mobile-cli/cut-fingerprint/cut-fingerprint.module.test.ts
-index 57ef29daf074334a46cc08ba2a3af71bfefd4b81..1ef790b0fcabfdac355710013a3681acb32315d8 100644
+index 57ef29daf074334a46cc08ba2a3af71bfefd4b81..909373f1f6e0ee82a7dfaa455cb1f5e358767488 100644
 --- a/mobile-cli/cut-fingerprint/cut-fingerprint.module.test.ts
 +++ b/mobile-cli/cut-fingerprint/cut-fingerprint.module.test.ts
 @@ -75,13 +75,13 @@ describe("readCutPages", () => {
@@ -53,6 +62,22 @@ index 57ef29daf074334a46cc08ba2a3af71bfefd4b81..1ef790b0fcabfdac355710013a3681ac
      for (const page of readCutPages()) expect(page.path).toBe(cutPagePath(page.slug))
    })
  })
+@@ -110,11 +110,11 @@ describe("cutPageBody", () => {
+   test("what a build files is the page already filed for that build, but for its minted id", () => {
+     const root = rootFor(resolveRoots(), AKASHA)
+     const slug = cutPageNameFor("alanwalton", 202)
+-    const standing = readFileSync(join(root, cutPagePath(slug)), "utf8")
+-    const filed = readBack(standing)
++    const onDisk = readFileSync(join(root, cutPagePath(slug)), "utf8")
++    const filed = readBack(onDisk)
+     const minted = /^ {2}id: ".*",$/m
+-    expect(standing).toMatch(minted)
+-    expect(cutPageBody("alanwalton", filed).replace(minted, "")).toBe(standing.replace(minted, ""))
++    expect(onDisk).toMatch(minted)
++    expect(cutPageBody("alanwalton", filed).replace(minted, "")).toBe(onDisk.replace(minted, ""))
+   })
+ 
+   test("a fingerprint carrying no shell sha and no tree hash leaves both keys off", () => {
 diff --git a/mobile-cli/cut-fingerprint/cut-fingerprint.module.ts b/mobile-cli/cut-fingerprint/cut-fingerprint.module.ts
 index a4606e6174d415070262c471b9767797c16b20d6..b0482c026a35f03d05651f72648b117a17885e1d 100644
 --- a/mobile-cli/cut-fingerprint/cut-fingerprint.module.ts
