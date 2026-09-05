@@ -1,8 +1,8 @@
 diff --git a/domains/initiatives/pages/ryn-trained-parser.initiative.ts b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
-index 2fbff8d17744a23b151ad695af67c2b2d819506a..aad38d68b7cdaaec67d56a155661bcfa44a791d7 100644
+index 2fbff8d17744a23b151ad695af67c2b2d819506a..b1178aaf5f8a7d871c12fca2ff8048e0caace9be 100644
 --- a/domains/initiatives/pages/ryn-trained-parser.initiative.ts
 +++ b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
-@@ -15,7 +15,7 @@ export const rynTrainedParser = {
+@@ -15,12 +15,12 @@ export const rynTrainedParser = {
      {
        statement: "The check refuses a statement by the predicate a refused shape holds.",
        workingMemory:
@@ -11,3 +11,9 @@ index 2fbff8d17744a23b151ad695af67c2b2d819506a..aad38d68b7cdaaec67d56a155661bcfa
      },
      {
        statement: "The shapes akasha refuses are rebuilt on the dependency tree.",
+       workingMemory:
+-        "Four shapes carried over, each with a predicate and a test: lone-pronoun, lone-determiner, lone-quantifier, partitive-quantifier. Forty-eight admitted shapes went. A census over 24,642 invariant statements finds lone-pronoun matching 186, and no free relative among them: that family is finished. All 186 are pronouns whose noun sits in the same sentence, and whether the shape goes on refusing those is Alan's. The other three shapes have never been measured over the tree.",
++        "Four shapes were carried over and closing-count makes five, each with a predicate and a test. Forty-eight admitted shapes went. Every one is measured over the tree now, and every one answers a seeded control. No invariant holds a free relative. All 167 lone-pronoun matches are pronouns whose noun sits in the same sentence, and whether the shape goes on refusing those is Alan's.",
+     },
+     {
+       statement: "Whether akasha writes in the passive is decided.",
