@@ -12,7 +12,7 @@ index bc1a294f4a5979e7bd2702d1ed5c1eb12848275e..cfe109000caed7b819b65a19479517cf
      )
    }
 diff --git a/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts b/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
-index ea453c9de6a10a07d91151249b9ea2143e8003c4..0dd69ae56967300275d9f7f174c64a355d99d7e6 100644
+index ea453c9de6a10a07d91151249b9ea2143e8003c4..2c6961907fde6363cfe9d7bfb9e4484db12c672c 100644
 --- a/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
 +++ b/temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.ts
 @@ -21,8 +21,7 @@ export const inventoryRuleCalling = {
@@ -22,6 +22,15 @@ index ea453c9de6a10a07d91151249b9ea2143e8003c4..0dd69ae56967300275d9f7f174c64a35
 -      statement:
 -        "A flag standing where the rule should be named is refused rather than read as an id.",
 +      statement: "A flag where the rule should be named is refused rather than read as an id.",
+     },
+     {
+       invariantKind: "departure",
+@@ -43,7 +42,7 @@ export const inventoryRuleCalling = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Locking and unlocking stand in front of no guard of their own.",
++      statement: "Locking and unlocking sit in front of no guard of their own.",
      },
      {
        invariantKind: "departure",
