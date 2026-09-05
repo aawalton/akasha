@@ -21,11 +21,13 @@ export const aliCoverage = {
     },
     {
       invariantKind: "departure",
-      statement: "The section count is held against the outline rather than against what there is.",
+      statement:
+        "The section count is held against the outline rather than against the sections there are.",
     },
     {
       invariantKind: "departure",
-      statement: "The topic count is held against what there is rather than against the outline.",
+      statement:
+        "The topic count is held against the topic pages there are rather than against the outline.",
     },
     {
       invariantKind: "departure",
