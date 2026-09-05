@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.ts b/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.ts
-index 4a01f2fabd9d98140a652b9c6200a3a304d673c7..0ea2becb270a4cabaacc6eebf3b154530d00bfee 100644
+index 4a01f2fabd9d98140a652b9c6200a3a304d673c7..061321cd01f0078553c9103fe729913e1fe84795 100644
 --- a/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.ts
 +++ b/temper/temper-commands/temper-eso-generate-colon-methods/temper-eso-generate-colon-methods.command.ts
 @@ -37,7 +37,7 @@ export const temperEsoGenerateColonMethods = {
@@ -12,3 +12,12 @@ index 4a01f2fabd9d98140a652b9c6200a3a304d673c7..0ea2becb270a4cabaacc6eebf3b15453
      },
      {
        invariantKind: "departure",
+@@ -45,7 +45,7 @@ export const temperEsoGenerateColonMethods = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The command remains while nothing reads what it would make.",
++      statement: "The command remains while nothing reads what that command would make.",
+     },
+     {
+       invariantKind: "absence",
