@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-trading-listings/sell-pricing/sell-pricing.module.ts b/temper/temper-trading-listings/sell-pricing/sell-pricing.module.ts
+index e85538e27aebdba925624b964cdea684e43431d3..b0ad23589972d60524a0487cda02853bd8cd5113 100644
+--- a/temper/temper-trading-listings/sell-pricing/sell-pricing.module.ts
++++ b/temper/temper-trading-listings/sell-pricing/sell-pricing.module.ts
+@@ -9,7 +9,7 @@ export const sellPricing = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What the item last sold for outranks what the market says.",
++      statement: "The price the item last sold for outranks the price the market says.",
+     },
+     {
+       invariantKind: "departure",
