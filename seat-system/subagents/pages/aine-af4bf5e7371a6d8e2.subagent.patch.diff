@@ -12,7 +12,7 @@ index 3925580b249947a6eb2db6c703e3c495bae31373..ca94aecf34bc59a362669b46cfcbea14
    expect(slugStated(root, "akasha/seat-system/seat/seats/gone.seat.ts", "personaSlug")).toBe(null)
  })
 diff --git a/context/modules/warranting/warranting.module.test.ts b/context/modules/warranting/warranting.module.test.ts
-index 4d77deebe61eca7343c8aa8986ec61ed8d22bd94..778aa9c3b2671678b3d295089fd73f13c94e7c20 100644
+index 4d77deebe61eca7343c8aa8986ec61ed8d22bd94..fa4699883dffcb7f1e84fe7ad184b89bf84ebd99 100644
 --- a/context/modules/warranting/warranting.module.test.ts
 +++ b/context/modules/warranting/warranting.module.test.ts
 @@ -106,7 +106,7 @@ test("a path the record holds no reading of is refused", () => {
@@ -24,16 +24,30 @@ index 4d77deebe61eca7343c8aa8986ec61ed8d22bd94..778aa9c3b2671678b3d295089fd73f13
    const root = rootWith()
    const oid = writing(root, PATH, "one\n")
    readAt(root, AGENT, PATH, oid)
+@@ -137,7 +137,7 @@ test("a body read only in part is owed as read in part", () => {
+   expect(said[0]).toContain(`akasha read --file-path ${PATH}`)
+ })
+ 
+-test("a reading whose mechanical id is the body standing now answers for it", () => {
++test("a reading whose mechanical id is the body there now answers for it", () => {
+   const root = rootWith()
+   const was = blobIdOf(new TextEncoder().encode("one\n"))
+   const oid = writing(root, PATH, "two\n")
 diff --git a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test.ts b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test.ts
-index 3a2f10c6b1c60f0429d00306a47297b66a76f7bf..b86c8b4ab0cfbf659f3b9664b4f46e4c05b40445 100644
+index 3a2f10c6b1c60f0429d00306a47297b66a76f7bf..1f36102b239706214bb6bff820792642cafa485f 100644
 --- a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test.ts
 +++ b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test.ts
-@@ -14,7 +14,7 @@ test("what a change adds is the lines the body did not already hold", () => {
+@@ -14,11 +14,11 @@ test("what a change adds is the lines the body did not already hold", () => {
    expect(addedIn("one\ntwo", "one\ntwo\nthree")).toBe("three")
  })
  
 -test("a body left standing adds nothing", () => {
 +test("a body left unchanged adds nothing", () => {
    expect(addedIn("one\ntwo", "one\ntwo")).toBe("")
+ })
+ 
+-test("a file that stood nowhere adds the whole of itself", () => {
++test("a file that was not there adds the whole of itself", () => {
+   expect(addedIn("", "one\ntwo")).toBe("one\ntwo")
  })
  
