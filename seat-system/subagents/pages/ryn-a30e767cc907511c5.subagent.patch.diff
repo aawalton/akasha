@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/supervising/memory-reaper-global/memory-reaper-global.module.ts b/seat-system/supervising/memory-reaper-global/memory-reaper-global.module.ts
+index c117d455ffea952f13b0668698812340c9a1589d..72b7ecaef7480dff7ea7f6e795ea0c30e323e828 100644
+--- a/seat-system/supervising/memory-reaper-global/memory-reaper-global.module.ts
++++ b/seat-system/supervising/memory-reaper-global/memory-reaper-global.module.ts
+@@ -30,7 +30,8 @@ export const memoryReaperGlobal = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The window resets the moment the leg reads clear rather than when it expires.",
++      statement:
++        "The window resets the moment the leg reads clear rather than when that window expires.",
+     },
+   ],
+ } as const satisfies Module
