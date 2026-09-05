@@ -47,9 +47,12 @@ export const seatTranscriptRotation = {
         "A record's timestamp is read off the record's top rather than out of anything nested in the record.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "The opening records of a transcript carry no timestamp, and how many of them there are differs by session.",
+      invariantKind: "constraint",
+      statement: "The opening records of a transcript carry no timestamp.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "How many opening records a transcript carries differs by session.",
     },
     {
       invariantKind: "departure",
