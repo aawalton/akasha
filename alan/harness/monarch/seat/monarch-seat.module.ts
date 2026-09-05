@@ -14,7 +14,7 @@ export const monarchSeat = {
     {
       invariantKind: "departure",
       statement:
-        "What the seat ran and what that seat was refused are both reported, not only what that seat said.",
+        "The commands the seat ran and was refused are both reported, not only the answer that seat gave.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,7 @@ export const monarchSeat = {
     {
       invariantKind: "departure",
       statement:
-        "What the seat cost and how many turns that seat took are reported alongside what that seat said.",
+        "The seat's cost and how many turns that seat took are reported alongside the answer that seat gave.",
     },
   ],
 } as const satisfies Module
