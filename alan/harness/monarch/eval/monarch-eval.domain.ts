@@ -17,7 +17,12 @@ export const monarchEval = {
     {
       invariantKind: "departure",
       statement:
-        "The question is not whether an agent can categorize but where it can be trusted to, and whether it knows when it cannot.",
+        "The question is not whether an agent can categorize but where that agent can be trusted to.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The question is whether an agent knows when that agent cannot be trusted to categorize.",
     },
     {
       invariantKind: "departure",
