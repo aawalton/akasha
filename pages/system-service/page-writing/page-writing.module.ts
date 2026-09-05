@@ -65,10 +65,7 @@ export const pageWriting = {
       invariantKind: "departure",
       statement: "A body is formatted before the body lands.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A value a page keeps outside the commit is written beside the page.",
-    },
+
     {
       invariantKind: "departure",
       statement:
