@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/seat-log-days/properties/lines.file-property.ts b/seat-system/seat-log-days/properties/lines.file-property.ts
+index 1e4d7a78b11e6720086ab62775bb399a7e767510..3e249aca5e87eec4da583f0a39bdcc5f821ece3b 100644
+--- a/seat-system/seat-log-days/properties/lines.file-property.ts
++++ b/seat-system/seat-log-days/properties/lines.file-property.ts
+@@ -23,7 +23,8 @@ export const lines = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Lines past the most bytes one file may hold roll into a numbered part beside it.",
++      statement:
++        "Lines past the most bytes one file may hold roll into a numbered part beside that file.",
+     },
+     {
+       invariantKind: "departure",
