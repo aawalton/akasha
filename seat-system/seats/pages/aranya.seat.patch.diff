@@ -311,3 +311,11 @@ index 47fbc9da833235bf9058d6d9242df5005a41c449..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../infrastructure/k8s-types
 \ No newline at end of file
+diff --git a/infrastructure/loki-service/loki-service b/infrastructure/loki-service/loki-service
+deleted file mode 120000
+index c564adf53d88f2d5b30703ba2bb945e4eb8f356e..0000000000000000000000000000000000000000
+--- a/infrastructure/loki-service/loki-service
++++ /dev/null
+@@ -1 +0,0 @@
+-../../infrastructure/loki-service
+\ No newline at end of file
