@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/utils-process/proc-environ/proc-environ.module.ts b/utils-process/proc-environ/proc-environ.module.ts
+index d78d5460affa74b8dae77a9adc35beb0e6f055e5..29f3fb456ee306af39e8bd380315e165eb2bb850 100644
+--- a/utils-process/proc-environ/proc-environ.module.ts
++++ b/utils-process/proc-environ/proc-environ.module.ts
+@@ -17,7 +17,7 @@ export const procEnviron = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows what an environment variable means.",
++      statement: "Nothing here knows an environment variable's meaning.",
+     },
+   ],
+ } as const satisfies Module
