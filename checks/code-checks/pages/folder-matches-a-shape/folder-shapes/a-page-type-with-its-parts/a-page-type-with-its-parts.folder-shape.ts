@@ -24,10 +24,6 @@ export const aPageTypeWithItsParts = {
     },
     {
       invariantKind: "departure",
-      statement: "That workspace package is slugged the page type's slug.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A second page that is no such workspace package is refused.",
     },
     {
