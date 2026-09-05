@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/command-system/differing/differing.module.ts b/command-system/differing/differing.module.ts
+index ce088fdeb6a083aafd8cff6fc7d9ec1af6630307..a93ef3b5fdb4af2d0ae28f0bd1dadc669e0ad737 100644
+--- a/command-system/differing/differing.module.ts
++++ b/command-system/differing/differing.module.ts
+@@ -11,7 +11,8 @@ export const differing = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A body is found again by the object id git holds it under and by nothing else.",
++      statement:
++        "A body is found again by the object id git holds that body under and by nothing else.",
+     },
+     {
+       invariantKind: "departure",
