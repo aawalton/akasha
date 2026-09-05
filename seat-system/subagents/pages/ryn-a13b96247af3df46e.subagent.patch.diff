@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/narrow/page-narrow.module.ts b/pages/narrow/page-narrow.module.ts
+index a649b6311885e0a8326af3e2fdbfa44bd444bf4a..dbf2c1e9e6b1bf39e8859d8bb288970139591100 100644
+--- a/pages/narrow/page-narrow.module.ts
++++ b/pages/narrow/page-narrow.module.ts
+@@ -13,7 +13,7 @@ export const pageNarrow = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A narrowing keeps `slug` whether or not the caller named it.",
++      statement: "A narrowing keeps `slug` whether or not the caller named `slug`.",
+     },
+     {
+       invariantKind: "departure",
