@@ -19,7 +19,7 @@ export const monarchFiles = {
     {
       invariantKind: "departure",
       statement:
-        "A month page sits in a folder of its own with its transactions entry file beside it.",
+        "A month page sits in a folder of its own with its transactions entry file beside that page.",
     },
     {
       invariantKind: "departure",
