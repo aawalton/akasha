@@ -39,7 +39,7 @@ export const watcherImportCompletion = {
     },
     {
       invariantKind: "departure",
-      statement: "A completion equal to what its file holds lands nothing.",
+      statement: "A completion equal to the completion its file holds lands nothing.",
     },
     {
       invariantKind: "departure",
@@ -73,23 +73,23 @@ export const watcherImportCompletion = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller may hand in what reads pages.",
+      statement: "A caller may hand in the read of pages.",
     },
     {
       invariantKind: "departure",
-      statement: "A caller may hand in what writes pages.",
+      statement: "A caller may hand in the write of pages.",
     },
     {
       invariantKind: "departure",
-      statement: "A caller may hand in what answers a page's path.",
+      statement: "A caller may hand in the answering of a page's path.",
     },
     {
       invariantKind: "departure",
-      statement: "A caller may hand in what reads the files beside pages.",
+      statement: "A caller may hand in the read of the files beside pages.",
     },
     {
       invariantKind: "departure",
-      statement: "A caller may hand in what writes the files beside pages.",
+      statement: "A caller may hand in the write of the files beside pages.",
     },
     {
       invariantKind: "departure",
@@ -97,7 +97,7 @@ export const watcherImportCompletion = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller may hand in what names a companion from its def-id.",
+      statement: "A caller may hand in the naming of a companion from its def-id.",
     },
     {
       invariantKind: "departure",
