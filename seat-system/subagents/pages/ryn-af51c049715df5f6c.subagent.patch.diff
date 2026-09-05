@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-watcher/watcher-worker/watcher-worker.module.ts b/temper/temper-watcher/watcher-worker/watcher-worker.module.ts
+index ba3b450cba8feb746e433f45612d773002659935..3b175cf8bda4d4ad71ef7e9847431937dbc32397 100644
+--- a/temper/temper-watcher/watcher-worker/watcher-worker.module.ts
++++ b/temper/temper-watcher/watcher-worker/watcher-worker.module.ts
+@@ -80,7 +80,7 @@ export const watcherWorker = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here decides what the watcher does with a file that watcher read.",
++      statement: "Nothing here decides the watcher's handling of a file that watcher read.",
+     },
+   ],
+ } as const satisfies Module
