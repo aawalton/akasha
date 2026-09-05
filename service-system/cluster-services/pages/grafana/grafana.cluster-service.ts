@@ -11,6 +11,5 @@ export const grafana = {
   image: "grafana/grafana:11.2.2",
   replicas: 1,
   containerPort: 3000,
-  manifestCode:
-    "service-system/cluster-services/pages/grafana/grafana.cluster-service.code.attachment.ts",
+  manifestSlug: "grafana",
 } as const satisfies ClusterService
