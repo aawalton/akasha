@@ -239,3 +239,19 @@ index 0000000000000000000000000000000000000000..53215b3fcbc962c74e3e52c1d6ac5ba6
 +    },
 +  ],
 +} as const satisfies PageAddressKind
+diff --git a/pages/page-address-kinds/page-address-kind.page-type.ts b/pages/page-address-kinds/page-address-kind.page-type.ts
+index 1d5dcfc72bfacfe6262b3da4697d865e2a05f92b..98e740979b31cf85f1fa5146a8802ebff8314426 100644
+--- a/pages/page-address-kinds/page-address-kind.page-type.ts
++++ b/pages/page-address-kinds/page-address-kind.page-type.ts
+@@ -9,6 +9,11 @@ export const pageAddressKind = {
+   slug: "page-address-kind",
+   definition: "a form an address takes when it names a page",
+   pluralSlug: "page-address-kinds",
++  partSlugs: [
++    "page-address-kind/by-id",
++    "page-address-kind/in-page-type",
++    "page-address-kind/in-part-of",
++  ],
+   extendsSlug: ["page-type/module"],
+   invariants: [
+     {
