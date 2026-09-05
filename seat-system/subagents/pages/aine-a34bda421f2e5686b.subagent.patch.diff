@@ -1,5 +1,5 @@
 diff --git a/code-system/code-tests/code-tests.module.test.ts b/code-system/code-tests/code-tests.module.test.ts
-index caeef3c40502bb5a864f2c2b06208c2dfde299d1..6ab410adffaebf4c129922a422e01243aff3abc9 100644
+index caeef3c40502bb5a864f2c2b06208c2dfde299d1..97865c3b822ab395486a9db01567959228819b78 100644
 --- a/code-system/code-tests/code-tests.module.test.ts
 +++ b/code-system/code-tests/code-tests.module.test.ts
 @@ -104,7 +104,7 @@ check("a test answers itself alone, whichever of the two it is written in", () =
@@ -80,6 +80,15 @@ index caeef3c40502bb5a864f2c2b06208c2dfde299d1..6ab410adffaebf4c129922a422e01243
    const from = repo({})
    linesFiled(from, "held.jsonl", [{}])
    linesFiled(from, "gone.jsonl", [{}])
+@@ -288,7 +288,7 @@ check("a world carries the index as the change leaves it rather than as the tree
+   }
+ })
+ 
+-check("a world asked for no index carries none rather than the one the tree stands at", () => {
++check("a world asked for no index carries none rather than the one the tree is at", () => {
+   const from = repo({})
+   linesFiled(from, "held.jsonl", [{}])
+   const world = worldOf(from, [], handing({}), null)
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
 index 269bb5bdfbca656f09a9f2a9f96489aaaab3034a..b48c1d1b1fe246bd4139a4c63556297e2119c52a 100644
 --- a/code-system/code-tests/code-tests.module.ts
