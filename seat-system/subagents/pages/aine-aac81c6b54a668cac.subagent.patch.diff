@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/land-files/monarch-land-files.module.code.ts b/alan/harness/monarch/land-files/monarch-land-files.module.code.ts
-index 31c67c707f68cb1b98516135c89d594f5fb94b41..a68be1b1b06050ae8b1fdfb534fcc799712da0a0 100644
+index 31c67c707f68cb1b98516135c89d594f5fb94b41..440df358a2dab3f21af975fbe9dee5ced9543089 100644
 --- a/alan/harness/monarch/land-files/monarch-land-files.module.code.ts
 +++ b/alan/harness/monarch/land-files/monarch-land-files.module.code.ts
 @@ -123,7 +123,7 @@ async function existing(slug: string): Promise<readonly TransactionLine[]> {
@@ -39,6 +39,21 @@ index 31c67c707f68cb1b98516135c89d594f5fb94b41..a68be1b1b06050ae8b1fdfb534fcc799
      else delete held.categorySlug
      if (source !== undefined) held.categorySource = source
      if (by !== undefined) held.categoryDecidedBy = by
+@@ -180,12 +180,12 @@ function sortLines(lines: readonly TransactionLine[]): readonly TransactionLine[
+ }
+ 
+ export function merged(
+-  standing: readonly TransactionLine[],
++  already: readonly TransactionLine[],
+   arriving: readonly TransactionLine[],
+   retiring: ReadonlySet<string>
+ ): { readonly lines: readonly TransactionLine[]; readonly held: readonly string[] } {
+   const kept = new Map<string, TransactionLine>()
+-  for (const line of standing) kept.set(line.monarchId, line)
++  for (const line of already) kept.set(line.monarchId, line)
+   const held: string[] = []
+   for (const line of arriving) {
+     const id = line.monarchId
 diff --git a/alan/harness/monarch/land-files/monarch-land-files.module.ts b/alan/harness/monarch/land-files/monarch-land-files.module.ts
 index 3649ed8dc88f0bb2a350087ae2d20e09f5f853a4..bb4d830ae29a8f2154dd87af6dc5da67d2b71a85 100644
 --- a/alan/harness/monarch/land-files/monarch-land-files.module.ts
