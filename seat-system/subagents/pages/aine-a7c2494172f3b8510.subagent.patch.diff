@@ -1,8 +1,8 @@
 diff --git a/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts b/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts
-index 27098e34c65334da5ea1ecfd36cc754e28bf8203..ce23456003e2377cc046d2084066eb21e1edcdd0 100644
+index 27098e34c65334da5ea1ecfd36cc754e28bf8203..801f681b0f4d23551b79266fcee09e41b37810e0 100644
 --- a/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts
 +++ b/markdown-pages/markdown-property-answer-cache/markdown-property-answer-cache.module.code.ts
-@@ -9,8 +9,8 @@ const VERSION = 3
+@@ -9,14 +9,14 @@ const VERSION = 3
  
  const SUFFIX = ".json"
  
@@ -13,8 +13,15 @@ index 27098e34c65334da5ea1ecfd36cc754e28bf8203..ce23456003e2377cc046d2084066eb21
  // an old state away and the set is bounded from outside it. pages/answer-sweeping bounds
  // it in time, hourly, by taking away what has gone unused for a day. This bounds it in bytes,
  // because time alone is no bound when the churn is unbounded: a whole state's answers measured
+ // 1.24MB in this checkout and a busy hour laid down 20.9MB of them, which is around 500MB in the
+ // day the sweep waits. 128MB holds about a hundred states, an order of magnitude past the handful
+-// the agents reading this tree stand on at once, so this only ever acts on a burst.
++// the agents reading this tree are on at once, so this only ever acts on a burst.
+ const BUDGET = 128 * 1024 * 1024
+ 
+ interface Answer {
 diff --git a/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts b/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts
-index 2b5d07636ad8c570b1a3472b9f4bad270bc6f80e..8d08d0c4218e8c91d198f89960c0f2d6e12fa438 100644
+index 2b5d07636ad8c570b1a3472b9f4bad270bc6f80e..469fc9cea8438c4011921b0b744ae3731fc2d7f8 100644
 --- a/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts
 +++ b/markdown-pages/markdown-property-declarations/markdown-property-declarations.module.code.ts
 @@ -67,7 +67,7 @@ const fromDeclarationsData = (one: DeclarationsData): Declarations => ({
@@ -26,8 +33,21 @@ index 2b5d07636ad8c570b1a3472b9f4bad270bc6f80e..8d08d0c4218e8c91d198f89960c0f2d6
  // never runs, and the two go on answering from their own stores; where it does run, one reading
  // answers both. A checkout with anything uncommitted in it has no mark at all, which is the state
  // this is read in, and there the two readings were the same 2,117 files twice over — 39ms of a
+@@ -181,9 +181,9 @@ function readDeclarations(tree: FileTree): Declarations {
+       fault ??= said.fault
+       continue
+     }
+-    const standing = bySlug.get(said.on) ?? []
+-    standing.push(said.one)
+-    bySlug.set(said.on, standing)
++    const held = bySlug.get(said.on) ?? []
++    held.push(said.one)
++    bySlug.set(said.on, held)
+   }
+   return { bySlug, fault }
+ }
 diff --git a/markdown-pages/markdown-property-frontmatter/markdown-property-frontmatter.module.code.ts b/markdown-pages/markdown-property-frontmatter/markdown-property-frontmatter.module.code.ts
-index d3015c2fa566372a11b885c6cec5ecf5a224eaf2..c629ee9aa27ba6ab8c8bdc51abffcd5a22c93f85 100644
+index d3015c2fa566372a11b885c6cec5ecf5a224eaf2..b853fb87d0b95f2c7fc0e57a2d3d0688a2cc396c 100644
 --- a/markdown-pages/markdown-property-frontmatter/markdown-property-frontmatter.module.code.ts
 +++ b/markdown-pages/markdown-property-frontmatter/markdown-property-frontmatter.module.code.ts
 @@ -85,8 +85,8 @@ const fromData = (one: VocabularyData): Vocabulary => ({
@@ -41,8 +61,19 @@ index d3015c2fa566372a11b885c6cec5ecf5a224eaf2..c629ee9aa27ba6ab8c8bdc51abffcd5a
    const made = heldVocabulary(tree)
    vocabularies.set(tree, made)
    return made
+@@ -107,8 +107,8 @@ export type Specifiers =
+ const indexes = new WeakMap<FileTree, ReadonlyMap<string, string>>()
+ 
+ function typeIndex(tree: FileTree): ReadonlyMap<string, string> {
+-  const standing = indexes.get(tree)
+-  if (standing !== undefined) return standing
++  const held = indexes.get(tree)
++  if (held !== undefined) return held
+   const bySlug = new Map<string, string>()
+   for (const one of registryOf(tree)) if (!bySlug.has(one.slug)) bySlug.set(one.slug, one.relPath)
+   indexes.set(tree, bySlug)
 diff --git a/markdown-pages/markdown-property-judge/markdown-property-judge.module.code.ts b/markdown-pages/markdown-property-judge/markdown-property-judge.module.code.ts
-index e3bd64d3175b722b9e7dec401322c27c5220e59f..5847cc8f7c969d5bd39255470f9573b50ca0129f 100644
+index e3bd64d3175b722b9e7dec401322c27c5220e59f..3ba06dd9d4dc4719d2a2bc8fa18ec00305c851af 100644
 --- a/markdown-pages/markdown-property-judge/markdown-property-judge.module.code.ts
 +++ b/markdown-pages/markdown-property-judge/markdown-property-judge.module.code.ts
 @@ -45,7 +45,7 @@ export function judgeRow(
@@ -54,6 +85,15 @@ index e3bd64d3175b722b9e7dec401322c27c5220e59f..5847cc8f7c969d5bd39255470f9573b5
  ): RowJudgment {
    const declared = new Set(properties.map((one) => one.name))
    const keys = Object.keys(values)
+@@ -54,7 +54,7 @@ export function judgeRow(
+     if (declared.has(key)) continue
+     refusals.push(undeclaredKey(key, slug, (name) => declared.has(name)))
+   }
+-  if (standing != null) {
++  if (before != null) {
+     const owed = new Set<string>()
+     for (const property of properties) {
+       const key = property.name
 diff --git a/markdown-pages/markdown-property-record/markdown-property-record.module.code.ts b/markdown-pages/markdown-property-record/markdown-property-record.module.code.ts
 index 078cfe1d3b204abd720ed9f64f09da241facd887..6fcc1bb876035b9db75d7365e7253098ccaaf43c 100644
 --- a/markdown-pages/markdown-property-record/markdown-property-record.module.code.ts
