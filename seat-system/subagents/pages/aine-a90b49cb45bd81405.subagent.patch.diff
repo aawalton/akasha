@@ -1,0 +1,78 @@
+diff --git a/email-watch/email-rule-reading/email-rule-reading.module.code.ts b/email-watch/email-rule-reading/email-rule-reading.module.code.ts
+index a2ee70227ebdfeeddcb69489db174bcb346c78f0..98b34c35c4730bca8b96d6f1142b0dc0c98aba07 100644
+--- a/email-watch/email-rule-reading/email-rule-reading.module.code.ts
++++ b/email-watch/email-rule-reading/email-rule-reading.module.code.ts
+@@ -138,7 +138,7 @@ export function rulesOf(person: string, root: string): readonly Rule[] {
+     const names = [...held].filter((one) => one.endsWith(suffix)).sort()
+     if (names.length === 0)
+       throw new Error(
+-        `\`${folder}\` holds no ${kind} rule, and no rule standing is not the same as no rule matching`
++        `\`${folder}\` holds no ${kind} rule, and no rule at all is not the same as no rule matching`
+       )
+     for (const name of names) {
+       const relPath = `${folder}/${name}`
+diff --git a/email-watch/email-rule-reading/email-rule-reading.module.ts b/email-watch/email-rule-reading/email-rule-reading.module.ts
+index 458e0ba8075f3140ecc86275011644c541036db9..15b9f4e1c81e974510a51d2717a003da27cf2fe3 100644
+--- a/email-watch/email-rule-reading/email-rule-reading.module.ts
++++ b/email-watch/email-rule-reading/email-rule-reading.module.ts
+@@ -15,7 +15,7 @@ export const emailRuleReading = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A rule source that cannot be read raises rather than standing as a person holding no rule.",
++        "A rule source that cannot be read raises rather than counting as a person holding no rule.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/email-watch/email-rule-set/email-rule-set.module.ts b/email-watch/email-rule-set/email-rule-set.module.ts
+index 53d3761b51cab4a4e7aef63769dc813afb7d37e5..1fe7ea175d8c2abfb407fcc75e1db7958db035b4 100644
+--- a/email-watch/email-rule-set/email-rule-set.module.ts
++++ b/email-watch/email-rule-set/email-rule-set.module.ts
+@@ -4,7 +4,7 @@ export const emailRuleSet = {
+   id: "01a06871-54e5-7000-b703-1ea0c1101a4d",
+   pageTypeSlug: "module",
+   slug: "email-rule-set",
+-  definition: "the fields an email rule tests, and where a person's rules of each kind stand",
++  definition: "the fields an email rule tests, and where a person's rules of each kind are",
+   code: "ts",
+   test: "ts",
+   invariants: [
+diff --git a/email-watch/inbox-pass/inbox-pass.module.test.ts b/email-watch/inbox-pass/inbox-pass.module.test.ts
+index 1d315bc85debf655e7f712f5f776b8febf7ee246..94bd379bbe985c948282ef784006afc0f2c68954 100644
+--- a/email-watch/inbox-pass/inbox-pass.module.test.ts
++++ b/email-watch/inbox-pass/inbox-pass.module.test.ts
+@@ -16,7 +16,7 @@ test("a person named after the flag is the person read", () => {
+   expect(personIn(["--dry-run", "--person", "elaine"])).toBe("elaine")
+ })
+ 
+-test("a flag standing where a person's name was asked for is no name", () => {
++test("a flag where a person's name was asked for is no name", () => {
+   expect(personIn(["--person", "--dry-run"])).toBe("alan")
+   expect(personIn(["--person"])).toBe("alan")
+   expect(personIn(["--person", ""])).toBe("alan")
+diff --git a/email-watch/inbox-pass/inbox-pass.module.ts b/email-watch/inbox-pass/inbox-pass.module.ts
+index 7974c6be9b6b7eee0c85831e1490f99c402443d7..47f63b2e9104e2a0682bd2d045c9e5eb74586222 100644
+--- a/email-watch/inbox-pass/inbox-pass.module.ts
++++ b/email-watch/inbox-pass/inbox-pass.module.ts
+@@ -18,7 +18,7 @@ export const inboxPass = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A flag standing where a person's name was asked for is no name.",
++      statement: "A flag where a person's name was asked for is no name.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/email-watch/inbox-watching/inbox-watching.module.ts b/email-watch/inbox-watching/inbox-watching.module.ts
+index bc4a46c1a2a623a850b0c2de9b72a2711ace2af5..d707b83b37b10f694e9a539241247185b3b2b724 100644
+--- a/email-watch/inbox-watching/inbox-watching.module.ts
++++ b/email-watch/inbox-watching/inbox-watching.module.ts
+@@ -11,7 +11,7 @@ export const inboxWatching = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The watch stands behind the guard on being the file run, so loading this file declares its value and starts nothing.",
++        "The watch sits behind the guard on being the file run, so loading this file declares its value and starts nothing.",
+     },
+     {
+       invariantKind: "departure",
