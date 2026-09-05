@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/infrastructure/cluster-api/cluster-jobs/cluster-jobs.module.ts b/infrastructure/cluster-api/cluster-jobs/cluster-jobs.module.ts
+index e8d1bd3fc05d32b02efe2ef1d7f2d95e1c9ced26..1412e9ad47f3393d877472291cea229d0b4597d0 100644
+--- a/infrastructure/cluster-api/cluster-jobs/cluster-jobs.module.ts
++++ b/infrastructure/cluster-api/cluster-jobs/cluster-jobs.module.ts
+@@ -17,7 +17,8 @@ export const clusterJobs = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A job's log is read from the first pod it made, and is empty where it made none.",
++      statement:
++        "A job's log is read from the first pod that job made, and is empty where that job made none.",
+     },
+     {
+       invariantKind: "departure",
