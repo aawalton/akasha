@@ -35,15 +35,15 @@ export const exerciseSelect = {
     },
     {
       invariantKind: "departure",
-      statement: "Every pick is answered with the scores, features and rules behind it.",
+      statement: "Every pick is answered with the scores, features and rules behind that pick.",
     },
     {
       invariantKind: "departure",
-      statement: "A pick is answered with the candidates it beat and why each lost.",
+      statement: "A pick is answered with the candidates that pick beat and why each lost.",
     },
     {
       invariantKind: "departure",
-      statement: "A slot nothing filled is answered with why nothing filled it.",
+      statement: "A slot nothing filled is answered with why nothing filled that slot.",
     },
     {
       invariantKind: "departure",
