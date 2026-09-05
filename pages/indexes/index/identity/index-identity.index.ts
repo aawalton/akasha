@@ -15,7 +15,7 @@ export const indexIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "The scope is the page type an identifier is unique within.",
+      statement: "The scope is what an identifier is unique within, a page type or a collection.",
     },
     {
       invariantKind: "departure",
@@ -48,11 +48,11 @@ export const indexIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type no page is filed under has no directory.",
+      statement: "A scope no page is filed under has no directory.",
     },
     {
       invariantKind: "departure",
-      statement: "No two pages of one page type carry one slug.",
+      statement: "No two pages carry one slug inside the reach that slug's property declares.",
     },
     {
       invariantKind: "departure",
