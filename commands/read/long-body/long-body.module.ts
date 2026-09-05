@@ -67,11 +67,12 @@ export const longBody = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes to the record of what an agent read.",
+      statement: "Nothing here writes to the record of the bodies an agent read.",
     },
     {
       invariantKind: "gap",
-      statement: "Nothing here judges whether the reader kept what an earlier run handed over.",
+      statement:
+        "Nothing here judges whether the reader kept the lines an earlier run handed over.",
     },
   ],
 } as const satisfies Module
