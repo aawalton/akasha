@@ -32,7 +32,7 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "What is handed to a command that lands is its change kind rather than a boolean.",
+      statement: "A command that lands is handed its change kind rather than a boolean.",
     },
   ],
   directives: [
