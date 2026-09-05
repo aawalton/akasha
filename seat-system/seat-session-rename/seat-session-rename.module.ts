@@ -26,7 +26,7 @@ export const seatSessionRename = {
     },
     {
       invariantKind: "departure",
-      statement: "A rename that leaves the seat where it was says nothing.",
+      statement: "A rename that leaves the seat where that seat was says nothing.",
     },
   ],
 } as const satisfies Module
