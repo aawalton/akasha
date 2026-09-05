@@ -14,7 +14,8 @@ export const supervisorAgent = {
     },
     {
       invariantKind: "departure",
-      statement: "A pinned account with no credential falls back only where it was not pinned.",
+      statement:
+        "A pinned account with no credential falls back only where that account was not pinned.",
     },
     {
       invariantKind: "departure",
