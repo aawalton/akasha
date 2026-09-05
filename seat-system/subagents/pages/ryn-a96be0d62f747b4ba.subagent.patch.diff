@@ -26,10 +26,10 @@ index 09ced8528387b373fd1d89ce511a6f3aff78b1c4..c284295ddad8ee85cc824080ca60278f
      {
        invariantKind: "departure",
 diff --git a/alan/harness/monarch/eval/monarch-eval.domain.ts b/alan/harness/monarch/eval/monarch-eval.domain.ts
-index 44af0a909e1acf802df22f3576339fea8c212f1e..ba273e042e48b0486b89566947c68adb62ed2992 100644
+index b87c60461f66b562777a8e0a15f1ce99433f6963..b1cd6f7e78eb51e391c294ff21c3126e49aea21a 100644
 --- a/alan/harness/monarch/eval/monarch-eval.domain.ts
 +++ b/alan/harness/monarch/eval/monarch-eval.domain.ts
-@@ -22,7 +22,7 @@ export const monarchEval = {
+@@ -27,7 +27,7 @@ export const monarchEval = {
      {
        invariantKind: "departure",
        statement:
@@ -70,6 +70,19 @@ index 21cacea8ed46cbd5c0b8fd1d3d1f989840ee419c..840bfc64c4a139ca666a3fbe33f1285d
 +    {
 +      invariantKind: "departure",
 +      statement: "A minute where nothing changed costs one call.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/harness/notifications/push-notifying/push-notifying.module.ts b/alan/harness/notifications/push-notifying/push-notifying.module.ts
+index cd332f33a00dbec6bd1346c0fa122d6fc892f038..238e098085e7301b43f87f2444df8e343a5fc7ff 100644
+--- a/alan/harness/notifications/push-notifying/push-notifying.module.ts
++++ b/alan/harness/notifications/push-notifying/push-notifying.module.ts
+@@ -37,7 +37,7 @@ export const pushNotifying = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "With the signing key unset every push is a logged no-op and the feed is still followed, so nothing is pushed twice once the key is set.",
++        "With the signing key unset every push is a logged no-op and the feed is still followed.",
      },
      {
        invariantKind: "departure",
