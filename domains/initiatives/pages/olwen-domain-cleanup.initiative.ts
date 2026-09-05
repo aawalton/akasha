@@ -8,8 +8,9 @@ export const olwenDomainCleanup = {
   personaSlug: "olwen",
   constraints: [
     "The folder is named `domains/`, the plural, as `pages/` is named for `page`. Alan settled this against `domain/`.",
-    "`purpose` is re-slugged `domain-purpose` and takes a folder of its own, as `domain-championing` and `domain-parent` do.",
-    "The five `domain-*` folders keep their names against `openingWith`, as `pages/` carries 8 of that refusal unremediated. Alan settled this against renaming them.",
+    "A page keeps the qualifier its slug carries and sits in a folder named without it, as `purpose/` holds `domain-purpose`. Alan settled this.",
+    "`domain-championing` is re-slugged `domain-champions`. Alan settled this.",
+    "A domain beside the domain page type is a part of the package holding its folder, as the move reads a parent from the folder alone.",
   ],
   intents: [
     {
