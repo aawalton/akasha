@@ -11,6 +11,19 @@ index 2b1c3e1486afb728833d7ff29a3e068b3050df09..719098efc8736f0361e942a4bbada5a8
      },
      {
        invariantKind: "departure",
+diff --git a/service-system/cluster-services/pages/page-store/page-store.cluster-service.ts b/service-system/cluster-services/pages/page-store/page-store.cluster-service.ts
+index c2967aaefc3f19e1d9d28c00c2105143c993c94f..ee528bb19e0206fd95b2f124bcf811ed27522561 100644
+--- a/service-system/cluster-services/pages/page-store/page-store.cluster-service.ts
++++ b/service-system/cluster-services/pages/page-store/page-store.cluster-service.ts
+@@ -41,7 +41,7 @@ export const pageStore = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The carrying goes through the tailnet egress that already stands.",
++      statement: "The carrying goes through the tailnet egress that already exists.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/service-system/cluster-services/properties/namespace.text-property.ts b/service-system/cluster-services/properties/namespace.text-property.ts
 index b5cc73dc1c04d1f9181ac904740043a6b03392c0..a91f1edb25eedb6c42d324f8dd440a12f8066c37 100644
 --- a/service-system/cluster-services/properties/namespace.text-property.ts
@@ -24,3 +37,16 @@ index b5cc73dc1c04d1f9181ac904740043a6b03392c0..a91f1edb25eedb6c42d324f8dd440a12
    max: 63,
    nameFormatSlug: "name-format/lower-kebab-case",
  } as const satisfies TextProperty
+diff --git a/service-system/cluster-services/workload-deploying/workload-deploying.module.ts b/service-system/cluster-services/workload-deploying/workload-deploying.module.ts
+index efdbf7203b096ea3b848c73da6b9da225c5a0c89..0233c9381a57f38dc3025e825d995e63e1c69144 100644
+--- a/service-system/cluster-services/workload-deploying/workload-deploying.module.ts
++++ b/service-system/cluster-services/workload-deploying/workload-deploying.module.ts
+@@ -37,7 +37,7 @@ export const workloadDeploying = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Whether a manifest already stands is asked of the cluster rather than remembered.",
++        "Whether a manifest already exists is asked of the cluster rather than remembered.",
+     },
+     {
+       invariantKind: "departure",
