@@ -22,7 +22,8 @@ export const logDaySweeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A page left that way is counted and named, so a sweep answers for what it read.",
+      statement:
+        "A page left that way is counted and named, so a sweep answers for the pages that sweep read.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +50,7 @@ export const logDaySweeping = {
     {
       invariantKind: "departure",
       statement:
-        "Nothing is taken away unless the sweep is asked to, because what it takes is a commit.",
+        "Nothing is taken away unless the sweep is asked to, because a removal the sweep makes is a commit.",
     },
     {
       invariantKind: "gap",
