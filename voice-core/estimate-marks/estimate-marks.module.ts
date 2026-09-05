@@ -14,7 +14,8 @@ export const estimateMarks = {
     },
     {
       invariantKind: "departure",
-      statement: "A sentence is taken to run at an even rate across the piece holding it.",
+      statement:
+        "A sentence is taken to run at an even rate across the piece holding that sentence.",
     },
     {
       invariantKind: "departure",
