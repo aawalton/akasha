@@ -40,7 +40,7 @@ export const iosApp = {
     },
     {
       invariantKind: "departure",
-      statement: "What an app is built from is read from its page.",
+      statement: "The sources an app is built from are read from its page.",
     },
     {
       invariantKind: "departure",
