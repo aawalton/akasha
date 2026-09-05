@@ -59,7 +59,7 @@ export const value = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A value states in one line what the person becomes by serving the value.",
+      statement: "A value states in one line the person a life serving that value makes.",
     },
     {
       invariantKind: "departure",
