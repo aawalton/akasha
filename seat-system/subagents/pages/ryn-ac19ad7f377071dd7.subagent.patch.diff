@@ -1,0 +1,12 @@
+diff --git a/commands/claude-usage/claude-usage.command.ts b/commands/claude-usage/claude-usage.command.ts
+index db383e683c500eec920a7805904bd326cc9187b6..16571f68909dedfc3276e5727748382ee72d854c 100644
+--- a/commands/claude-usage/claude-usage.command.ts
++++ b/commands/claude-usage/claude-usage.command.ts
+@@ -25,7 +25,6 @@ export const claudeUsage = {
+     "asking the fleet by hand under bun answers every account, which is why running it that way never showed it.",
+     "it was measured by `panel-judging`, which runs the real activation under node and reads the slots back.",
+     "the work tree and the page tree already ask their children for the same reason.",
+-    "it takes no word at all, so any word said to it is refused.",
+   ],
+   invariants: [
+     {
