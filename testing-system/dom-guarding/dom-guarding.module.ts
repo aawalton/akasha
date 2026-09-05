@@ -18,7 +18,7 @@ export const domGuarding = {
     },
     {
       invariantKind: "departure",
-      statement: "What is missing is said as a boolean rather than thrown.",
+      statement: "A missing document is said as a boolean rather than thrown.",
     },
   ],
 } as const satisfies Module
