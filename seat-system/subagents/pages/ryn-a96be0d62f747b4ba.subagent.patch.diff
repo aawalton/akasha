@@ -142,3 +142,17 @@ index 679cd35d141d8dacad7813c30aa3781070d3dac1..1eeea06d46612d6a818aa62d80ede974
      },
      {
        invariantKind: "departure",
+diff --git a/workspace-paths/stale-folders/stale-folders.module.ts b/workspace-paths/stale-folders/stale-folders.module.ts
+index 506a1ba4c4bdc9b2f97bb8e429204d1a2f7be325..5b0db6e4228b4d2917e85f5264cf0a912e824b09 100644
+--- a/workspace-paths/stale-folders/stale-folders.module.ts
++++ b/workspace-paths/stale-folders/stale-folders.module.ts
+@@ -20,8 +20,7 @@ export const staleFolders = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A package holding no workspaces of its own is not descended into, so a linked package's build output is left alone.",
++      statement: "A package holding no workspaces of its own is not descended into.",
+     },
+     {
+       invariantKind: "absence",
