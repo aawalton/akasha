@@ -177,7 +177,7 @@ index db19efdc4707b002bffeb2346e08c9f719bc5086..cbd3131d5fe8465a0e40359a6def13c8
    expect(() => index.everyOfType(MODULE)).toThrow(NOT_THERE)
    expect(() => index.everyPath()).toThrow(NOT_THERE)
 diff --git a/pages/indexes/indexing/indexing.module.code.ts b/pages/indexes/indexing/indexing.module.code.ts
-index 0a4b2d4050cb3820b02ee5ed97991cea769b77c3..de98feb5df61ab577816280385e3d63207753788 100644
+index 0a4b2d4050cb3820b02ee5ed97991cea769b77c3..5f2cfa4738dcc3e79a25b6b8213e83b02df2a2b1 100644
 --- a/pages/indexes/indexing/indexing.module.code.ts
 +++ b/pages/indexes/indexing/indexing.module.code.ts
 @@ -7,7 +7,7 @@ import {
@@ -197,6 +197,18 @@ index 0a4b2d4050cb3820b02ee5ed97991cea769b77c3..de98feb5df61ab577816280385e3d632
  import {
    indexIn,
    overlaidOn,
+@@ -417,11 +416,6 @@ export function indexingAt(root: string, repo: string): Indexing {
+       pending.clear()
+       const found = settlingOver(readingAt(root), repo, moving, (path) => valueAt(path, repo))
+       filedInto(root, found.filings)
+-      stampSettled(
+-        repo,
+-        root,
+-        moving.map((one) => (isAbsolute(one.path) ? relative(repo, one.path) : one.path))
+-      )
+       return [...found.noted, ...found.refused]
+     },
+   }
 diff --git a/pages/indexes/reading/index-reading.module.code.ts b/pages/indexes/reading/index-reading.module.code.ts
 index ed0dff829933eb31fba0f14536a2b8cf85ae8d83..4ec4e6aa06f74f0e1bef2ad240c866bd3a440cee 100644
 --- a/pages/indexes/reading/index-reading.module.code.ts
