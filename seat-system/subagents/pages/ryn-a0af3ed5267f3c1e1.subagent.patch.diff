@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/persona-system/questions/question.page-type.ts b/persona-system/questions/question.page-type.ts
+index 7828d95684c9489c657b8001c9dccb386c8a2459..1faafa222096f1219d2db0e47c29211c63306d63 100644
+--- a/persona-system/questions/question.page-type.ts
++++ b/persona-system/questions/question.page-type.ts
+@@ -77,8 +77,7 @@ export const question = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "What was around a question when that question was put sits beside the page rather than in that page.",
++      statement: "The context a question was put in sits beside the page rather than in that page.",
+     },
+     {
+       invariantKind: "gap",
