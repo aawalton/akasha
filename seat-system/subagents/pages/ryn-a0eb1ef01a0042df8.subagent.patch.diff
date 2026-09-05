@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/supervising/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.ts b/seat-system/supervising/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.ts
+index 603131496af11615cb6c9a89f60ef1fe9c444aa5..1ed43bef3b874ee3f4a0cb6ee569d98ba9dda178 100644
+--- a/seat-system/supervising/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.ts
++++ b/seat-system/supervising/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.ts
+@@ -19,7 +19,7 @@ export const supervisorLimitResumeDecide = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "An eligible account pool nudges only once it has read eligible for the whole eligibility hold.",
++        "An eligible account pool nudges only once the pool has read eligible for the whole eligibility hold.",
+     },
+     {
+       invariantKind: "departure",
