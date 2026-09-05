@@ -38,7 +38,7 @@ index 86dbc45d2f74227d1476121c2a8669989ba913a4..5d812e404deeebc736f089da61452796
    ],
  } as const satisfies FilePurpose
 diff --git a/code-system/ios-harnesses/ios-harness.page-type.ts b/code-system/ios-harnesses/ios-harness.page-type.ts
-index 83d9de6b394d895188da1940533854ac1f80d5a2..0163e6e8983804cc8743923481d9cfe67f03bdb7 100644
+index 83d9de6b394d895188da1940533854ac1f80d5a2..642181a69018874e817bd5597b98ca4c74a4cad9 100644
 --- a/code-system/ios-harnesses/ios-harness.page-type.ts
 +++ b/code-system/ios-harnesses/ios-harness.page-type.ts
 @@ -38,7 +38,7 @@ export const iosHarness = {
@@ -50,6 +50,15 @@ index 83d9de6b394d895188da1940533854ac1f80d5a2..0163e6e8983804cc8743923481d9cfe6
      },
      {
        invariantKind: "absence",
+@@ -54,7 +54,7 @@ export const iosHarness = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "No blessed image stands to be compared against.",
++      statement: "No blessed image exists to be compared against.",
+     },
+   ],
+ } as const satisfies PageType
 diff --git a/code-system/ios-programs/ios-program.page-type.ts b/code-system/ios-programs/ios-program.page-type.ts
 index 83b322ca132c721f4de886d3d80299ac4c35f1c0..70db71bc5ec11540cf75948f58b7f34370876ecd 100644
 --- a/code-system/ios-programs/ios-program.page-type.ts
