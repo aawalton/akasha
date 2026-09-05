@@ -46,7 +46,6 @@ export const seatSystem = {
     "module/seat-by-name",
     "module/seat-control",
     "module/seat-args",
-    "module/documents-on-demand",
     "module/seat-action",
     "module/seat-forest",
     "module/seat-conditions-reading",
