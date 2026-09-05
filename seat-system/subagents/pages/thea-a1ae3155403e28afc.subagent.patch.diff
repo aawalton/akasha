@@ -69,3 +69,30 @@ index 09b57eeb4a27f8e8ccca01e9ab717725c0d5c158..0a4b2d4050cb3820b02ee5ed97991cea
      ]
    )
    const claim = claimingIn(repo, filedBy, sidecars, carried)
+diff --git a/pages/indexes/indexing/indexing.module.ts b/pages/indexes/indexing/indexing.module.ts
+index a51a224b683021b90c59933c4028ba0b1a937bed..373ae8af558010699c02f3dbb285179288c8d71e 100644
+--- a/pages/indexes/indexing/indexing.module.ts
++++ b/pages/indexes/indexing/indexing.module.ts
+@@ -107,8 +107,21 @@ export const indexing = {
+       statement: "A page the index cannot read is reported rather than answered as empty.",
+     },
+     {
+-      invariantKind: "gap",
++      invariantKind: "departure",
+       statement: "A rebuild and a settle hand in the pages naming each page they file.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A rebuild inverts that edge in memory, holding every page value already.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A settle reads off the relation index what the change it carries does not say.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The edges of a page the change carries are read from the change rather than the index.",
++    },
+   ],
+ } as const satisfies Module
