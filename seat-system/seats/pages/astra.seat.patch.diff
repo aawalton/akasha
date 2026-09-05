@@ -1,0 +1,2178 @@
+runsChecks: false
+runsWarrants: false
+diff --git a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts
+index 62fafbfb7e4cc54496f9f62016342b83aa827832..8c089456d24331b27ea12ac563e293e181a28e4c 100644
+--- a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts
++++ b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts
+@@ -1,8 +1,8 @@
+ import { afterAll, expect, test } from "bun:test"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+ import { pageFiled } from "@akasha/indexes/testing"
+-import type { Change } from "@akasha/pages-system/change"
+-import { shadowFor } from "@akasha/pages-system/shadow"
++import type { Change } from "@akasha/pages/change"
++import { shadowFor } from "@akasha/pages/shadow"
+ import {
+   declaring,
+   edging,
+diff --git a/checks/code-checks/pages/shell-clean/shell-clean.code-check.code.ts b/checks/code-checks/pages/shell-clean/shell-clean.code-check.code.ts
+index 6cbfead5d0fff5c14bd011283eb1e7faec44d856..3521741b4770406db03e9d59bc8bd9d1f448c209 100644
+--- a/checks/code-checks/pages/shell-clean/shell-clean.code-check.code.ts
++++ b/checks/code-checks/pages/shell-clean/shell-clean.code-check.code.ts
+@@ -1,6 +1,6 @@
+ import { worldOf } from "@akasha/code-system/code-tests"
+-import type { Change } from "@akasha/pages-system/change"
+-import type { Shadow } from "@akasha/pages-system/shadow"
++import type { Change } from "@akasha/pages/change"
++import type { Shadow } from "@akasha/pages/shadow"
+ import { ran } from "@akasha/utils-run/running"
+ import type { Body, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"
+ import {
+diff --git a/checks/code-checks/pages/shell-clean/shell-clean.code-check.test.ts b/checks/code-checks/pages/shell-clean/shell-clean.code-check.test.ts
+index 058a5fe3c166613ddbb8a43ea03dc6a9c5df4a4f..dfa8f5ceaed1bd2bc6ef698b4cf4714c1f2640a8 100644
+--- a/checks/code-checks/pages/shell-clean/shell-clean.code-check.test.ts
++++ b/checks/code-checks/pages/shell-clean/shell-clean.code-check.test.ts
+@@ -3,7 +3,7 @@ import { mkdirSync, readFileSync, realpathSync, writeFileSync } from "node:fs"
+ import { dirname, join } from "node:path"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+ import { noPathsFiled, pathFiled } from "@akasha/indexes/testing"
+-import { shadowAt } from "@akasha/pages-system/shadow"
++import { shadowAt } from "@akasha/pages/shadow"
+ import { bytesOf } from "@akasha/testing-system/bodying"
+ import {
+   change,
+diff --git a/checks/code-checks/pages/tests-pass/tests-pass.code-check.code.ts b/checks/code-checks/pages/tests-pass/tests-pass.code-check.code.ts
+index 09112f4b20bce0e668679457685b8928b0c98270..f84047700657fe000bbd56d052971f61f1d5989f 100644
+--- a/checks/code-checks/pages/tests-pass/tests-pass.code-check.code.ts
++++ b/checks/code-checks/pages/tests-pass/tests-pass.code-check.code.ts
+@@ -6,8 +6,8 @@ import {
+   testsBesideOf,
+   worldOf,
+ } from "@akasha/code-system/code-tests"
+-import type { Change } from "@akasha/pages-system/change"
+-import type { Shadow } from "@akasha/pages-system/shadow"
++import type { Change } from "@akasha/pages/change"
++import type { Shadow } from "@akasha/pages/shadow"
+ import { endingOf } from "@akasha/utils-run/running"
+ import {
+   everyFileOf,
+diff --git a/checks/code-checks/pages/tests-pass/tests-pass.code-check.test.ts b/checks/code-checks/pages/tests-pass/tests-pass.code-check.test.ts
+index c09f9f1045175003071c92186923604388cc5084..e342858a23f35b6a98cdf1977e68358d24134809 100644
+--- a/checks/code-checks/pages/tests-pass/tests-pass.code-check.test.ts
++++ b/checks/code-checks/pages/tests-pass/tests-pass.code-check.test.ts
+@@ -5,7 +5,7 @@ import type { Ran } from "@akasha/code-system/code-tests"
+ import { RUNNING } from "@akasha/code-system/code-tests"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+ import { noPathsFiled, pathFiled } from "@akasha/indexes/testing"
+-import { shadowAt } from "@akasha/pages-system/shadow"
++import { shadowAt } from "@akasha/pages/shadow"
+ import {
+   change,
+   gone,
+diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts
+index e188ebdd48e14fd6adef911b89098c834427d69f..af7acbc05c7975809244e46aab7a2627e92a70c0 100644
+--- a/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts
++++ b/checks/code-checks/pages/typecheck/typecheck.code-check.code.ts
+@@ -18,9 +18,9 @@ import { reachingInto } from "@akasha/graph/graph-asking"
+ import { importEdge } from "@akasha/graph/import-edge"
+ import type { Answering } from "@akasha/indexes/answering"
+ import { waitingKeys } from "@akasha/indexes/generated-properties"
+-import type { Change } from "@akasha/pages-system/change"
+-import { pageNamed } from "@akasha/pages-system/page-file-name"
+-import type { Shadow } from "@akasha/pages-system/shadow"
++import type { Change } from "@akasha/pages/change"
++import { pageNamed } from "@akasha/pages/page-file-name"
++import type { Shadow } from "@akasha/pages/shadow"
+ import ts from "typescript"
+ import { API } from "typescript-7/unstable/async"
+ import type { Body, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"
+diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts
+index 566093ea0af6a9d67dd8a6b24e368360a1e24dfb..fec08f6e2f3caf541465c01a155627f1d3af63a7 100644
+--- a/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts
++++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test-fixtures.ts
+@@ -11,7 +11,7 @@ import {
+   pathFiled,
+   schemaFiled,
+ } from "@akasha/indexes/testing"
+-import type { Change } from "@akasha/pages-system/change"
++import type { Change } from "@akasha/pages/change"
+ import { put, there } from "@akasha/testing-system/putting"
+ 
+ const EDGE_PAGE_AT = "graph/import-edge.graph-edge.ts"
+diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
+index c70536b6a67282fc3d9e4bf031e92e4022f44e92..7944ba0ada3fc1a23e25d8964b3df1aff81be4e4 100644
+--- a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
++++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
+@@ -1,8 +1,8 @@
+ import { afterAll, expect, test } from "bun:test"
+ import { readFileSync, rmSync } from "node:fs"
+ import { join } from "node:path"
+-import type { Change } from "@akasha/pages-system/change"
+-import { shadowAsked, shadowFor } from "@akasha/pages-system/shadow"
++import type { Change } from "@akasha/pages/change"
++import { shadowAsked, shadowFor } from "@akasha/pages/shadow"
+ import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+ import {
+   configOf,
+diff --git a/checks/code-checks/properties/entries.file-property.ts b/checks/code-checks/properties/entries.file-property.ts
+index c0af6904a2f6b87e110dd4e5331ab152a745bd6b..a9f84a025eb896522388bb82509a9b5e26a1d573 100644
+--- a/checks/code-checks/properties/entries.file-property.ts
++++ b/checks/code-checks/properties/entries.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Entries = "jsonl"
+ 
+diff --git a/checks/code-checks/properties/runs-on-audit.boolean-property.ts b/checks/code-checks/properties/runs-on-audit.boolean-property.ts
+index cec4373d25996e438d0ac651ce38206d563f7f83..3799215f3accf703acb0173e7610771eaddc0f3c 100644
+--- a/checks/code-checks/properties/runs-on-audit.boolean-property.ts
++++ b/checks/code-checks/properties/runs-on-audit.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type RunsOnAudit = boolean
+ 
+diff --git a/checks/code-checks/properties/runs-on-deploy.boolean-property.ts b/checks/code-checks/properties/runs-on-deploy.boolean-property.ts
+index f54741087e3e7fbe7f03b05e5771290d5fe863bc..222e3917ab4067fdd7a51998ecca2a3fd1207318 100644
+--- a/checks/code-checks/properties/runs-on-deploy.boolean-property.ts
++++ b/checks/code-checks/properties/runs-on-deploy.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type RunsOnDeploy = boolean
+ 
+diff --git a/checks/code-checks/properties/runs-on-patch.boolean-property.ts b/checks/code-checks/properties/runs-on-patch.boolean-property.ts
+index 4bbb9bf0e50aa796dcc37b16649cb0d5ff69f373..8be42453c4046a4ece6f4b16533dad31cbace79a 100644
+--- a/checks/code-checks/properties/runs-on-patch.boolean-property.ts
++++ b/checks/code-checks/properties/runs-on-patch.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type RunsOnPatch = boolean
+ 
+diff --git a/checks/code-checks/properties/runs-on-worktree.boolean-property.ts b/checks/code-checks/properties/runs-on-worktree.boolean-property.ts
+index 61c9c83d3d47e2a77e9dca2fe95871acf9f644aa..c85dc0d060e7871b165e03fd0356f5c7d7c79978 100644
+--- a/checks/code-checks/properties/runs-on-worktree.boolean-property.ts
++++ b/checks/code-checks/properties/runs-on-worktree.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type RunsOnWorktree = boolean
+ 
+diff --git a/checks/model-checks/model-check.page-type.ts b/checks/model-checks/model-check.page-type.ts
+index d031debc396f767f9afee90db76626e5407c79be..0df2079bfc56f9b31f5a9b54829a69c8626ce60b 100644
+--- a/checks/model-checks/model-check.page-type.ts
++++ b/checks/model-checks/model-check.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { AuditRuns } from "./properties/audit-runs.number-property.ts"
+ import type { ModelTestSlugs } from "./properties/model-test-slugs.relation-property.ts"
+ import type { PatchRuns } from "./properties/patch-runs.number-property.ts"
+diff --git a/checks/model-checks/properties/audit-runs.number-property.ts b/checks/model-checks/properties/audit-runs.number-property.ts
+index d791eface0b23df996e12524c1dc0aaf8a311909..819d9e25634e26e8b1c8a879bd44be87330af523 100644
+--- a/checks/model-checks/properties/audit-runs.number-property.ts
++++ b/checks/model-checks/properties/audit-runs.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type AuditRuns = number
+ 
+diff --git a/checks/model-checks/properties/model-test-slugs.relation-property.ts b/checks/model-checks/properties/model-test-slugs.relation-property.ts
+index eacfefd1d145bf4df58f91a6a0cd4e75af3cb528..6bad05f26c2cd17b0414b565f5386e55f9b308ac 100644
+--- a/checks/model-checks/properties/model-test-slugs.relation-property.ts
++++ b/checks/model-checks/properties/model-test-slugs.relation-property.ts
+@@ -1,6 +1,6 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { List } from "@akasha/pages-system/page-property"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { List } from "@akasha/pages/page-property"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type ModelTestSlugs = List<Slug>
+ 
+diff --git a/checks/model-checks/properties/patch-runs.number-property.ts b/checks/model-checks/properties/patch-runs.number-property.ts
+index 4a80aa764f279e046933912e3f3577d4a80ad8a4..b658aedb7339b673ba8d8a78f63759737b3682d9 100644
+--- a/checks/model-checks/properties/patch-runs.number-property.ts
++++ b/checks/model-checks/properties/patch-runs.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type PatchRuns = number
+ 
+diff --git a/checks/modules/body-not-utf8/body-not-utf8.module.code.ts b/checks/modules/body-not-utf8/body-not-utf8.module.code.ts
+index 64767590db68f2cc1e334d92f19a2b14cfc61d89..bd79b4888b93cb332c3f2ef297760b3617cb6a28 100644
+--- a/checks/modules/body-not-utf8/body-not-utf8.module.code.ts
++++ b/checks/modules/body-not-utf8/body-not-utf8.module.code.ts
+@@ -1,5 +1,5 @@
+ import { leadingBytes } from "@akasha/code-system/utf8-body"
+-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
++import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+ import { refusalText } from "../refusal-text/refusal-text.module.code.ts"
+ 
+ export function notUtf8(source: string, bytes: Uint8Array): string {
+diff --git a/checks/modules/change-walking/change-walking.module.code.ts b/checks/modules/change-walking/change-walking.module.code.ts
+index 137bba0a8819a13693382c98ca6ce58f4152650a..d85de9d8fd0df1317fd59c3ee943b58f7c9a4ac0 100644
+--- a/checks/modules/change-walking/change-walking.module.code.ts
++++ b/checks/modules/change-walking/change-walking.module.code.ts
+@@ -4,10 +4,10 @@ import { join } from "node:path"
+ import { everyPath } from "@akasha/indexes"
+ import type { Answering } from "@akasha/indexes/answering"
+ import type { Reading } from "@akasha/indexes/shape"
+-import type { Change } from "@akasha/pages-system/change"
+-import { pageNamed, partedIn, uncommittedHeld } from "@akasha/pages-system/page-file-name"
+-import { type Loaded, loadedFrom } from "@akasha/pages-system/page-value"
+-import type { Shadow } from "@akasha/pages-system/shadow"
++import type { Change } from "@akasha/pages/change"
++import { pageNamed, partedIn, uncommittedHeld } from "@akasha/pages/page-file-name"
++import { type Loaded, loadedFrom } from "@akasha/pages/page-value"
++import type { Shadow } from "@akasha/pages/shadow"
+ import { isMissing } from "@akasha/utils-fs/missing"
+ import type { Judged, Running, RunningAsync } from "../judging/judging.module.code.ts"
+ 
+diff --git a/checks/modules/change-walking/change-walking.module.test-fixtures.ts b/checks/modules/change-walking/change-walking.module.test-fixtures.ts
+index b08585095920d78938d73b6c741aec310acb2e40..b617ca17b66dfa58c8a04ce9fcdbb06aa548661c 100644
+--- a/checks/modules/change-walking/change-walking.module.test-fixtures.ts
++++ b/checks/modules/change-walking/change-walking.module.test-fixtures.ts
+@@ -6,8 +6,8 @@ import { readingIn } from "@akasha/indexes"
+ import { answeringOver } from "@akasha/indexes/answering"
+ import type { Reading } from "@akasha/indexes/shape"
+ import { listedFiled, pathFiled } from "@akasha/indexes/testing"
+-import type { Change } from "@akasha/pages-system/change"
+-import type { Shadow } from "@akasha/pages-system/shadow"
++import type { Change } from "@akasha/pages/change"
++import type { Shadow } from "@akasha/pages/shadow"
+ import { onDisk } from "./change-walking.module.code.ts"
+ 
+ export const PAGE_AT = "akasha/checks-system/change-walking/held/held.module.ts"
+diff --git a/checks/modules/change-walking/change-walking.module.test.ts b/checks/modules/change-walking/change-walking.module.test.ts
+index 87a8f11d25bbaedff00855991be07b0bb4cb46bd..651b1ab5b0d72936c688351edc975741455d3055 100644
+--- a/checks/modules/change-walking/change-walking.module.test.ts
++++ b/checks/modules/change-walking/change-walking.module.test.ts
+@@ -4,8 +4,8 @@ import { join } from "node:path"
+ import { readingIn } from "@akasha/indexes"
+ import type { Reading } from "@akasha/indexes/shape"
+ import { indexTakenFrom, pathFiled, pathsTakenFrom } from "@akasha/indexes/testing"
+-import type { Change } from "@akasha/pages-system/change"
+-import { shadowAt } from "@akasha/pages-system/shadow"
++import type { Change } from "@akasha/pages/change"
++import { shadowAt } from "@akasha/pages/shadow"
+ import {
+   everyFileIn,
+   everythingIn,
+diff --git a/checks/modules/check-cost/check-cost.module.code.ts b/checks/modules/check-cost/check-cost.module.code.ts
+index 3807da37237b0aaa2cfb380280ed18d05b52a410..9e5d492d57b134e45a6f484b0b744226b38eedea 100644
+--- a/checks/modules/check-cost/check-cost.module.code.ts
++++ b/checks/modules/check-cost/check-cost.module.code.ts
+@@ -1,8 +1,8 @@
+ import { Buffer } from "node:buffer"
+ import { appendFileSync, existsSync, readFileSync, statSync, writeFileSync } from "node:fs"
+ import { join } from "node:path"
+-import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
+-import { uncommittedPartAt } from "@akasha/pages-system/page-file-parts"
++import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
++import { uncommittedPartAt } from "@akasha/pages/page-file-parts"
+ 
+ const ENTRIES = "entries"
+ 
+diff --git a/checks/modules/check-scratch/check-scratch.module.code.ts b/checks/modules/check-scratch/check-scratch.module.code.ts
+index 4597a0e7b26f2fc220f8307ae620978d595238b2..86c3a49a924fab81eb081711a4d7a2d683852d11 100644
+--- a/checks/modules/check-scratch/check-scratch.module.code.ts
++++ b/checks/modules/check-scratch/check-scratch.module.code.ts
+@@ -7,7 +7,7 @@ import {
+   schemaFiled,
+   valueAlsoFiled,
+ } from "@akasha/indexes/testing"
+-import type { Change } from "@akasha/pages-system/change"
++import type { Change } from "@akasha/pages/change"
+ import { bytesOf } from "@akasha/testing-system/bodying"
+ import { onDisk } from "../change-walking/change-walking.module.code.ts"
+ 
+diff --git a/checks/modules/checking/checking.module.code.ts b/checks/modules/checking/checking.module.code.ts
+index e7ee6359949590f20bbdf10a70ee8fe34871149b..060894a73ac80051b7aa1504a0ec1f2a0a0e9c3a 100644
+--- a/checks/modules/checking/checking.module.code.ts
++++ b/checks/modules/checking/checking.module.code.ts
+@@ -2,10 +2,10 @@ import { createRequire } from "node:module"
+ import { join } from "node:path"
+ import { framesOf, saidBy } from "@akasha/command-system/fault-saying"
+ import { everyOfType, typeSlugOf } from "@akasha/indexes"
+-import type { Change } from "@akasha/pages-system/change"
+-import { exportedAs } from "@akasha/pages-system/page-export-name"
+-import { besideAt, partedIn } from "@akasha/pages-system/page-file-name"
+-import { type Shadow, shadowAsked } from "@akasha/pages-system/shadow"
++import type { Change } from "@akasha/pages/change"
++import { exportedAs } from "@akasha/pages/page-export-name"
++import { besideAt, partedIn } from "@akasha/pages/page-file-name"
++import { type Shadow, shadowAsked } from "@akasha/pages/shadow"
+ import type { Input } from "../change-walking/change-walking.module.code.ts"
+ import { closing, costOf, opening, recordCost } from "../check-cost/check-cost.module.code.ts"
+ import type { AnyRunning, Judged, Judging } from "../judging/judging.module.code.ts"
+diff --git a/checks/modules/checking/checking.module.test-fixtures.ts b/checks/modules/checking/checking.module.test-fixtures.ts
+index 9087d898c9341f80163829077a117132c9e3f204..dd17db7deba4794b1315fcdba35d840be26364a6 100644
+--- a/checks/modules/checking/checking.module.test-fixtures.ts
++++ b/checks/modules/checking/checking.module.test-fixtures.ts
+@@ -3,8 +3,8 @@ import { join } from "node:path"
+ import { rootOf } from "@akasha/command-system/rooting"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+ import { idFiled, listedFiled, noneOfTypeFiled, pathFiled } from "@akasha/indexes/testing"
+-import type { Change } from "@akasha/pages-system/change"
+-import { exportedAs } from "@akasha/pages-system/page-export-name"
++import type { Change } from "@akasha/pages/change"
++import { exportedAs } from "@akasha/pages/page-export-name"
+ import { onDisk } from "../change-walking/change-walking.module.code.ts"
+ 
+ export const CHECK = "code-check"
+diff --git a/checks/modules/checking/checking.module.test.ts b/checks/modules/checking/checking.module.test.ts
+index fd98630dd43903a0c6d9b4c0d6dd2d272d87a302..311d34662a30e69ba37189d28cf3901270371644 100644
+--- a/checks/modules/checking/checking.module.test.ts
++++ b/checks/modules/checking/checking.module.test.ts
+@@ -3,7 +3,7 @@ import { rmSync, writeFileSync } from "node:fs"
+ import { join } from "node:path"
+ import { indexNamed } from "@akasha/indexes"
+ import { identitiesTakenFrom, idTakenFrom, indexTakenFrom } from "@akasha/indexes/testing"
+-import { shadowAsked } from "@akasha/pages-system/shadow"
++import { shadowAsked } from "@akasha/pages/shadow"
+ import { onDisk } from "../change-walking/change-walking.module.code.ts"
+ import { checkPagesIn, checksAt, checksFor, checksIn, judgingBy } from "./checking.module.code.ts"
+ import {
+diff --git a/checks/modules/judging/judging.module.code.ts b/checks/modules/judging/judging.module.code.ts
+index 36d65a989a5d546f8bbc16b5a4feadd8a04fa2d1..1b89ced585e3407b7f58d012cbbcc3d2878a8507 100644
+--- a/checks/modules/judging/judging.module.code.ts
++++ b/checks/modules/judging/judging.module.code.ts
+@@ -1,5 +1,5 @@
+-import type { Change } from "@akasha/pages-system/change"
+-import type { Shadow } from "@akasha/pages-system/shadow"
++import type { Change } from "@akasha/pages/change"
++import type { Shadow } from "@akasha/pages/shadow"
+ 
+ export type Judged = {
+   readonly path: string
+diff --git a/checks/modules/model-running/model-running.module.code.ts b/checks/modules/model-running/model-running.module.code.ts
+index fca58a06a758270212864bda512ca8d870126d8d..d33b2d841590e692138a6492a7d70ee03669fcbb 100644
+--- a/checks/modules/model-running/model-running.module.code.ts
++++ b/checks/modules/model-running/model-running.module.code.ts
+@@ -2,10 +2,10 @@ import { createRequire } from "node:module"
+ import { join } from "node:path"
+ import { saidBy } from "@akasha/command-system/fault-saying"
+ import { everyOfType, typeSlugOf } from "@akasha/indexes"
+-import type { Change } from "@akasha/pages-system/change"
+-import { exportedAs } from "@akasha/pages-system/page-export-name"
+-import { besideAt, partedIn } from "@akasha/pages-system/page-file-name"
+-import type { Shadow } from "@akasha/pages-system/shadow"
++import type { Change } from "@akasha/pages/change"
++import { exportedAs } from "@akasha/pages/page-export-name"
++import { besideAt, partedIn } from "@akasha/pages/page-file-name"
++import type { Shadow } from "@akasha/pages/shadow"
+ import { ran } from "@akasha/utils-run/running"
+ import { PAGES } from "../change-walking/change-walking.module.code.ts"
+ import type { Judged, Running } from "../judging/judging.module.code.ts"
+diff --git a/checks/modules/refusal-text/refusal-text.module.code.ts b/checks/modules/refusal-text/refusal-text.module.code.ts
+index f44cb3a5848b5399dc4428611235b8e32b85e235..cb7bf5ba21d5dc104015c76edc496a676db6f917 100644
+--- a/checks/modules/refusal-text/refusal-text.module.code.ts
++++ b/checks/modules/refusal-text/refusal-text.module.code.ts
+@@ -1,5 +1,5 @@
+-import { AKASHA, rootFor, rootsHere } from "@akasha/pages-system/checkout-roots"
+-import { textAt, valueAt } from "@akasha/pages-system/page-value"
++import { AKASHA, rootFor, rootsHere } from "@akasha/pages/checkout-roots"
++import { textAt, valueAt } from "@akasha/pages/page-value"
+ 
+ const REFUSALS = "checks/refusals/pages"
+ 
+diff --git a/checks/modules/shape-saying/shape-saying.module.code.ts b/checks/modules/shape-saying/shape-saying.module.code.ts
+index 5c7c4b19b74b533a5acf50bd31393827102fbd6c..515b7999f9b35c0dc4fab570b0e7b34ac1152a1e 100644
+--- a/checks/modules/shape-saying/shape-saying.module.code.ts
++++ b/checks/modules/shape-saying/shape-saying.module.code.ts
+@@ -1,5 +1,5 @@
+ import { relative } from "node:path"
+-import type { Held } from "@akasha/pages-system/page-file-name"
++import type { Held } from "@akasha/pages/page-file-name"
+ 
+ export function saidInside(
+   folder: string,
+diff --git a/checks/refusals/properties/refusal-text.text-property.ts b/checks/refusals/properties/refusal-text.text-property.ts
+index cbd3ae31ab2114b0561cf6dbca18783285a8ff17..8e260a498c0d3cb24a957812aeb34e466b3839ac 100644
+--- a/checks/refusals/properties/refusal-text.text-property.ts
++++ b/checks/refusals/properties/refusal-text.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type RefusalText = string
+ 
+diff --git a/checks/refusals/refusal.page-type.ts b/checks/refusals/refusal.page-type.ts
+index e97447bf75a8a9cb4e8562365dd06cb6e5038c80..31ee33f275a7f603056d2c4d286b2c32963644dc 100644
+--- a/checks/refusals/refusal.page-type.ts
++++ b/checks/refusals/refusal.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Title } from "../../pages/properties/title.text-property.ts"
+ import type { RefusalText } from "./properties/refusal-text.text-property.ts"
+ 
+diff --git a/code-system/code-path-between/code-path-between.module.code.ts b/code-system/code-path-between/code-path-between.module.code.ts
+index 72a2131eba4e28caa8eb43f021c05f995426a342..ec96de459f4a7091cd0247b376add834beb6d876 100644
+--- a/code-system/code-path-between/code-path-between.module.code.ts
++++ b/code-system/code-path-between/code-path-between.module.code.ts
+@@ -1,4 +1,4 @@
+-import { normalizeAbsolute } from "@akasha/pages-system/repo-path"
++import { normalizeAbsolute } from "@akasha/pages/repo-path"
+ 
+ const SCHEME = /^[a-z][a-z0-9+.-]*:/i
+ 
+diff --git a/code-system/code-runtime-path/code-runtime-path.module.code.ts b/code-system/code-runtime-path/code-runtime-path.module.code.ts
+index 213aa3c2260207a32969f299ee9b7b6769927fec..096988b904816e27f2c2ffae45f4358a1cc54b8e 100644
+--- a/code-system/code-runtime-path/code-runtime-path.module.code.ts
++++ b/code-system/code-runtime-path/code-runtime-path.module.code.ts
+@@ -1,4 +1,4 @@
+-import { normalizeAbsolute } from "@akasha/pages-system/repo-path"
++import { normalizeAbsolute } from "@akasha/pages/repo-path"
+ import { dirOf, relativeBetween } from "../code-path-between/code-path-between.module.code.ts"
+ import {
+   argumentsOf,
+diff --git a/code-system/code-specifier/code-specifier.module.test.ts b/code-system/code-specifier/code-specifier.module.test.ts
+index 7ec72be8c8a4c3a0c245a8e6e60536ca54231350..ad2cb42cc1d300354b0ce0ec80d9c24237afe518 100644
+--- a/code-system/code-specifier/code-specifier.module.test.ts
++++ b/code-system/code-specifier/code-specifier.module.test.ts
+@@ -93,7 +93,7 @@ test("a specifier naming a package lands where the naming handed in says", () =>
+ 
+ test("a specifier the naming does not name lands nowhere", () => {
+   const naming = new Map([["@akasha/indexes", "akasha/pages-system/indexes/one.ts"]])
+-  expect(landingOf(AT, "@akasha/pages-system", naming)).toBeNull()
++  expect(landingOf(AT, "@akasha/pages", naming)).toBeNull()
+   expect(landingOf(AT, "node:path", naming)).toBeNull()
+ })
+ 
+diff --git a/code-system/code-tests/code-tests.module.code.ts b/code-system/code-tests/code-tests.module.code.ts
+index dfdfe572e522c57fcbcd06d1f4bb80b026e71d76..86e6aa4735f9e796d3067bd11de63c138d3fabd0 100644
+--- a/code-system/code-tests/code-tests.module.code.ts
++++ b/code-system/code-tests/code-tests.module.code.ts
+@@ -15,7 +15,7 @@ import { dirname, isAbsolute, join, relative, sep } from "node:path"
+ import { indexNamed } from "@akasha/indexes"
+ import { filedInto } from "@akasha/indexes/indexing"
+ import type { Filing } from "@akasha/indexes/shape"
+-import { besideAt } from "@akasha/pages-system/page-file-name"
++import { besideAt } from "@akasha/pages/page-file-name"
+ import { ran } from "@akasha/utils-run/running"
+ 
+ const TS = ".ts"
+diff --git a/code-system/components/component.page-type.ts b/code-system/components/component.page-type.ts
+index a2d24fa81a7d271a5daab6d78a0f0494467e0359..cb76186e852994d5bd6e82450bdeead95d62143f 100644
+--- a/code-system/components/component.page-type.ts
++++ b/code-system/components/component.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { ComponentCode } from "./properties/component-code.file-property.ts"
+ import type { ComponentTest } from "./properties/component-test.file-property.ts"
+ import type { ComponentTestFixtures } from "./properties/component-test-fixtures.file-property.ts"
+diff --git a/code-system/components/properties/component-code.file-property.ts b/code-system/components/properties/component-code.file-property.ts
+index 12d170f9b6eae4329d2a9ac8bd18e0ea1d5dd7c1..c119baa3fc3703eb2b1b9fa60e0497a8cc3c63c7 100644
+--- a/code-system/components/properties/component-code.file-property.ts
++++ b/code-system/components/properties/component-code.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type ComponentCode = "tsx"
+ 
+diff --git a/code-system/components/properties/component-test-fixtures.file-property.ts b/code-system/components/properties/component-test-fixtures.file-property.ts
+index 3d39fdb418f0bf0b06edf17033b9983d463655fd..fbe37f85a97c97f4730d5e9d3c56827e2b87d80f 100644
+--- a/code-system/components/properties/component-test-fixtures.file-property.ts
++++ b/code-system/components/properties/component-test-fixtures.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type ComponentTestFixtures = "tsx"
+ 
+diff --git a/code-system/components/properties/component-test.file-property.ts b/code-system/components/properties/component-test.file-property.ts
+index ce9e393f7fd099f386f53a2b18e5f708284d8c85..a65a19ae50457c99888004e55b1233d1fe6e9aa2 100644
+--- a/code-system/components/properties/component-test.file-property.ts
++++ b/code-system/components/properties/component-test.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type ComponentTest = "tsx"
+ 
+diff --git a/code-system/container-recipes/container-recipe.page-type.ts b/code-system/container-recipes/container-recipe.page-type.ts
+index 6e3f2545c59ae8af150a3302d08802f6525f9ced..bd3c462252492311a7c8a0e22e97f9aeeda2f129 100644
+--- a/code-system/container-recipes/container-recipe.page-type.ts
++++ b/code-system/container-recipes/container-recipe.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Recipe } from "./properties/recipe.named-file-property.ts"
+ 
+ export type ContainerRecipe = Domain & {
+diff --git a/code-system/container-recipes/properties/recipe.named-file-property.ts b/code-system/container-recipes/properties/recipe.named-file-property.ts
+index fe86041346fcf839ee00d87d0a84c869f62005df..03e6d84181712ca0329a603b19c3a18bd9a701da 100644
+--- a/code-system/container-recipes/properties/recipe.named-file-property.ts
++++ b/code-system/container-recipes/properties/recipe.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type Recipe = "dockerfile"
+ 
+diff --git a/code-system/eso-addons/eso-addon.page-type.ts b/code-system/eso-addons/eso-addon.page-type.ts
+index 404809c25ed0a823ed65e988d977b7636fc40a78..27c18479313d0ba896fbde7735c46734edd7f570 100644
+--- a/code-system/eso-addons/eso-addon.page-type.ts
++++ b/code-system/eso-addons/eso-addon.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.ts"
+ import type { AddonGitIgnore } from "./properties/addon-git-ignore.named-file-property.ts"
+ import type { AddonManifest } from "./properties/addon-manifest.file-property.ts"
+diff --git a/code-system/eso-addons/properties/addon-git-ignore.named-file-property.ts b/code-system/eso-addons/properties/addon-git-ignore.named-file-property.ts
+index 9fb96be94dc20358c74e5ae2e46a4ea294c89f60..f6b27f20e3d7e25676289b1d4c1295ac9fcdfe50 100644
+--- a/code-system/eso-addons/properties/addon-git-ignore.named-file-property.ts
++++ b/code-system/eso-addons/properties/addon-git-ignore.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type AddonGitIgnore = "gitignore"
+ 
+diff --git a/code-system/eso-addons/properties/addon-manifest.file-property.ts b/code-system/eso-addons/properties/addon-manifest.file-property.ts
+index 3d21514c2185acb00117c1b0fd5a689c3b7a32c5..76a76d0bd5a25d70fae440e851e60cf7710ba5f2 100644
+--- a/code-system/eso-addons/properties/addon-manifest.file-property.ts
++++ b/code-system/eso-addons/properties/addon-manifest.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type AddonManifest = "json"
+ 
+diff --git a/code-system/eso-addons/properties/bindings.named-file-property.ts b/code-system/eso-addons/properties/bindings.named-file-property.ts
+index 472c4c3b20f52fcba7f8bc68dbf74b8f01a346d6..a788bde4a57ae249825fcb192097cc342edd2bd8 100644
+--- a/code-system/eso-addons/properties/bindings.named-file-property.ts
++++ b/code-system/eso-addons/properties/bindings.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type Bindings = "xml"
+ 
+diff --git a/code-system/eso-addons/properties/bundle-entry-slug.relation-property.ts b/code-system/eso-addons/properties/bundle-entry-slug.relation-property.ts
+index cf61cb172207abe4467a9964621b37d5057a30c5..a02d5dfd300b46db00e6a4df9da31cd689f1d3d9 100644
+--- a/code-system/eso-addons/properties/bundle-entry-slug.relation-property.ts
++++ b/code-system/eso-addons/properties/bundle-entry-slug.relation-property.ts
+@@ -1,5 +1,5 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type BundleEntrySlug = Slug
+ 
+diff --git a/code-system/eso-addons/properties/eso-interface-slugs.relation-property.ts b/code-system/eso-addons/properties/eso-interface-slugs.relation-property.ts
+index 55ab03f7075a0eb2d3d18f56d80ef999a7ac7d52..d6f3f40bc77b4bde6a905d869390acfa7b44a760 100644
+--- a/code-system/eso-addons/properties/eso-interface-slugs.relation-property.ts
++++ b/code-system/eso-addons/properties/eso-interface-slugs.relation-property.ts
+@@ -1,6 +1,6 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { List } from "@akasha/pages-system/page-property"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { List } from "@akasha/pages/page-property"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type EsoInterfaceSlugs = List<Slug>
+ 
+diff --git a/code-system/eso-addons/properties/lua-module-slugs.relation-property.ts b/code-system/eso-addons/properties/lua-module-slugs.relation-property.ts
+index a4c33c6c25e6a66269251c52f75d77b96be7e10a..e45cb1793c118343690c0319dd507a3aab5f27d5 100644
+--- a/code-system/eso-addons/properties/lua-module-slugs.relation-property.ts
++++ b/code-system/eso-addons/properties/lua-module-slugs.relation-property.ts
+@@ -1,6 +1,6 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { List } from "@akasha/pages-system/page-property"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { List } from "@akasha/pages/page-property"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type LuaModuleSlugs = List<Slug>
+ 
+diff --git a/code-system/eso-addons/properties/sibling-manifest.file-property.ts b/code-system/eso-addons/properties/sibling-manifest.file-property.ts
+index 9870e0dda97349d7be3470520812cea8376b152a..edd7ce4f5d083b8b321d9c6a56f4f350da0e8ddb 100644
+--- a/code-system/eso-addons/properties/sibling-manifest.file-property.ts
++++ b/code-system/eso-addons/properties/sibling-manifest.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type SiblingManifest = "json"
+ 
+diff --git a/code-system/eso-interfaces/eso-interface.page-type.ts b/code-system/eso-interfaces/eso-interface.page-type.ts
+index 84485a39d1d87a11e71df4e632bf83ea4f6fbf0b..f1a344125fc877cd0a7bc95454138f1c28fda9a7 100644
+--- a/code-system/eso-interfaces/eso-interface.page-type.ts
++++ b/code-system/eso-interfaces/eso-interface.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { LoadedAs } from "./properties/loaded-as.text-property.ts"
+ import type { Markup } from "./properties/markup.file-property.ts"
+ 
+diff --git a/code-system/eso-interfaces/properties/loaded-as.text-property.ts b/code-system/eso-interfaces/properties/loaded-as.text-property.ts
+index f8e199c79678e27f427dc5c1861b79e3bb895a2c..c936bbd690782c7bb5d74102490356a3ccbb3ec7 100644
+--- a/code-system/eso-interfaces/properties/loaded-as.text-property.ts
++++ b/code-system/eso-interfaces/properties/loaded-as.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type LoadedAs = string
+ 
+diff --git a/code-system/eso-interfaces/properties/markup.file-property.ts b/code-system/eso-interfaces/properties/markup.file-property.ts
+index fccb886ad999d6cde4dc8d6fca3aafddf764e1a5..28d349ef2cd3e6443e53722b0af4bf23744404ed 100644
+--- a/code-system/eso-interfaces/properties/markup.file-property.ts
++++ b/code-system/eso-interfaces/properties/markup.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Markup = "xml"
+ 
+diff --git a/code-system/file-kind-domains/file-kind-domain.page-type.ts b/code-system/file-kind-domains/file-kind-domain.page-type.ts
+index 1c8a313ba4770349add56b50d54013748a475096..d9f1dc192900350ba2901cb999dfbb21c0e15480 100644
+--- a/code-system/file-kind-domains/file-kind-domain.page-type.ts
++++ b/code-system/file-kind-domains/file-kind-domain.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ 
+ export type FileKindDomain = Domain
+ 
+diff --git a/code-system/file-purposes/file-purpose.page-type.ts b/code-system/file-purposes/file-purpose.page-type.ts
+index 2ae9ecf9aaa34dab7f83e07870d722ea735d5f69..73a933cd3c3456284bf38917cd3483f64e18cdea 100644
+--- a/code-system/file-purposes/file-purpose.page-type.ts
++++ b/code-system/file-purposes/file-purpose.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ 
+ export type FilePurpose = Domain
+ 
+diff --git a/code-system/ios-apps/app-building/app-building.module.code.ts b/code-system/ios-apps/app-building/app-building.module.code.ts
+index 74d4d89728ef545ccdd881e721257f2cf3caf5ac..ba41c67083d3911efd5409353822c22ed737b176 100644
+--- a/code-system/ios-apps/app-building/app-building.module.code.ts
++++ b/code-system/ios-apps/app-building/app-building.module.code.ts
+@@ -1,7 +1,7 @@
+ import { dirname } from "node:path"
+ import { indexThere, listedAt } from "@akasha/indexes"
+-import { besideAt } from "@akasha/pages-system/page-file-name"
+-import { slugOf, textAt, type Value, valueAt } from "@akasha/pages-system/page-value"
++import { besideAt } from "@akasha/pages/page-file-name"
++import { slugOf, textAt, type Value, valueAt } from "@akasha/pages/page-value"
+ import { quoted } from "@akasha/shell/quoting"
+ 
+ export const SHARED_PATHS: readonly string[] = [
+diff --git a/code-system/ios-apps/ios-app.page-type.ts b/code-system/ios-apps/ios-app.page-type.ts
+index 0b62e54818d4163670d16b6b0c0923b178d72d36..6932f9c983bf72a36b16899e1d8cb10024621a58 100644
+--- a/code-system/ios-apps/ios-app.page-type.ts
++++ b/code-system/ios-apps/ios-app.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.ts"
+ import type { AppIcon } from "./properties/app-icon.file-property.ts"
+ import type { AppProfileName } from "./properties/app-profile-name.text-property.ts"
+diff --git a/code-system/ios-apps/properties/app-icon.file-property.ts b/code-system/ios-apps/properties/app-icon.file-property.ts
+index 3de2d4477dab586bd82b8c22e69b53c7e9c14112..bf24c96414e38ff840e33da12bb33cbe81865f35 100644
+--- a/code-system/ios-apps/properties/app-icon.file-property.ts
++++ b/code-system/ios-apps/properties/app-icon.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type AppIcon = "json"
+ 
+diff --git a/code-system/ios-apps/properties/app-profile-name.text-property.ts b/code-system/ios-apps/properties/app-profile-name.text-property.ts
+index 8c604c4f7761cc64b443574f943da517b1fcef64..61035d369e6ece91deb3ea76f7fb7995d33a57e6 100644
+--- a/code-system/ios-apps/properties/app-profile-name.text-property.ts
++++ b/code-system/ios-apps/properties/app-profile-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type AppProfileName = string
+ 
+diff --git a/code-system/ios-apps/properties/asc-capabilities.text-property.ts b/code-system/ios-apps/properties/asc-capabilities.text-property.ts
+index e29e3a6c813e149bc8c4f50942472efc26adb0df..d0547667e720e133d451d16bca53cba75d4228b2 100644
+--- a/code-system/ios-apps/properties/asc-capabilities.text-property.ts
++++ b/code-system/ios-apps/properties/asc-capabilities.text-property.ts
+@@ -1,5 +1,5 @@
+-import type { List } from "@akasha/pages-system/page-property"
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { List } from "@akasha/pages/page-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type AscCapability = string
+ 
+diff --git a/code-system/ios-apps/properties/build-script.relation-property.ts b/code-system/ios-apps/properties/build-script.relation-property.ts
+index 3e9cf7d092cacd6c1c3a9c47d746684a2bcb4b79..d2c03b7429b9c6a04e7bd3e66c27dfadb7269319 100644
+--- a/code-system/ios-apps/properties/build-script.relation-property.ts
++++ b/code-system/ios-apps/properties/build-script.relation-property.ts
+@@ -1,5 +1,5 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type BuildScript = Slug
+ 
+diff --git a/code-system/ios-apps/properties/bundle-id.text-property.ts b/code-system/ios-apps/properties/bundle-id.text-property.ts
+index effe5ae74ed477b332b537204a0aa311e6c9e828..1e297c5035512a408a3378b86db06c2e5264ed8d 100644
+--- a/code-system/ios-apps/properties/bundle-id.text-property.ts
++++ b/code-system/ios-apps/properties/bundle-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type BundleId = string
+ 
+diff --git a/code-system/ios-apps/properties/capacitor-config.file-property.ts b/code-system/ios-apps/properties/capacitor-config.file-property.ts
+index 158ea8ed34282535560831ec87134bef60c821ad..0eecaf1289ca0f6772b1685335ad3549db292e53 100644
+--- a/code-system/ios-apps/properties/capacitor-config.file-property.ts
++++ b/code-system/ios-apps/properties/capacitor-config.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type CapacitorConfig = "json"
+ 
+diff --git a/code-system/ios-apps/properties/default-device-udid.text-property.ts b/code-system/ios-apps/properties/default-device-udid.text-property.ts
+index 1e56371a10310b7cfff37092dc3d5f9fd9dc23bb..b0e273dce4bd0d73b62c9e08f71af30ea90d112f 100644
+--- a/code-system/ios-apps/properties/default-device-udid.text-property.ts
++++ b/code-system/ios-apps/properties/default-device-udid.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type DefaultDeviceUdid = string
+ 
+diff --git a/code-system/ios-apps/properties/development-team.text-property.ts b/code-system/ios-apps/properties/development-team.text-property.ts
+index c2cf8b5b1222651ca55a9e5059c5fe051e786389..28a456f9990d292ec709ea0e95df0766229cc848 100644
+--- a/code-system/ios-apps/properties/development-team.text-property.ts
++++ b/code-system/ios-apps/properties/development-team.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type DevelopmentTeam = string
+ 
+diff --git a/code-system/ios-apps/properties/display-name.text-property.ts b/code-system/ios-apps/properties/display-name.text-property.ts
+index 67be59e047284226535e85e5a01aed54b64cef68..94dbe0805c58558c738ab0f1fb504d599fb91b5e 100644
+--- a/code-system/ios-apps/properties/display-name.text-property.ts
++++ b/code-system/ios-apps/properties/display-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type DisplayName = string
+ 
+diff --git a/code-system/ios-apps/properties/git-ignore.named-file-property.ts b/code-system/ios-apps/properties/git-ignore.named-file-property.ts
+index a2502dccc8734ea9162c5f764cc04aea89ae8af7..c35cd69a7c39790fe869ca77a92203b125a70c33 100644
+--- a/code-system/ios-apps/properties/git-ignore.named-file-property.ts
++++ b/code-system/ios-apps/properties/git-ignore.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type GitIgnore = "gitignore"
+ 
+diff --git a/code-system/ios-apps/properties/icon-drawing.file-property.ts b/code-system/ios-apps/properties/icon-drawing.file-property.ts
+index 5e57027acbf1666e96bf3c8c8158ec0197bae44f..be5f8ae79746624841f6090a8ff0266b606bc304 100644
+--- a/code-system/ios-apps/properties/icon-drawing.file-property.ts
++++ b/code-system/ios-apps/properties/icon-drawing.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type IconDrawing = "svg"
+ 
+diff --git a/code-system/ios-apps/properties/mac-build-lock-dir.text-property.ts b/code-system/ios-apps/properties/mac-build-lock-dir.text-property.ts
+index 1ac901a676f7997318c9fa29ce8542e5b40039f9..d9270e11fbf9d38a13d1ee8e88c1a2cf059c830a 100644
+--- a/code-system/ios-apps/properties/mac-build-lock-dir.text-property.ts
++++ b/code-system/ios-apps/properties/mac-build-lock-dir.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type MacBuildLockDir = string
+ 
+diff --git a/code-system/ios-apps/properties/mac-build-number-file.text-property.ts b/code-system/ios-apps/properties/mac-build-number-file.text-property.ts
+index 1bc0667711cf5b55761b8d6ff50648f5cc919387..eb070ef93691b0e41308019e5bf6d58438e6be66 100644
+--- a/code-system/ios-apps/properties/mac-build-number-file.text-property.ts
++++ b/code-system/ios-apps/properties/mac-build-number-file.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type MacBuildNumberFile = string
+ 
+diff --git a/code-system/ios-apps/properties/mac-www-staging-rel.text-property.ts b/code-system/ios-apps/properties/mac-www-staging-rel.text-property.ts
+index ece08661eef1255afd54acd8165f6ccef6c12c53..6f5e803fd70a6df9fa3f3cfd98678d0fd38bf6ef 100644
+--- a/code-system/ios-apps/properties/mac-www-staging-rel.text-property.ts
++++ b/code-system/ios-apps/properties/mac-www-staging-rel.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type MacWwwStagingRel = string
+ 
+diff --git a/code-system/ios-apps/properties/marketing-version.text-property.ts b/code-system/ios-apps/properties/marketing-version.text-property.ts
+index bd8bb33ff66ab3a619fc8f78b1b34e496a5fc566..e2fdfdde4dbda4d7bd5540fd56c59009ae0984dd 100644
+--- a/code-system/ios-apps/properties/marketing-version.text-property.ts
++++ b/code-system/ios-apps/properties/marketing-version.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type MarketingVersion = string
+ 
+diff --git a/code-system/ios-apps/properties/native-shell-repo-path.text-property.ts b/code-system/ios-apps/properties/native-shell-repo-path.text-property.ts
+index 3868b9de600e87752810512f51efe535197cdc11..851ecd3a7d03d0594f9fba35bf4803447146e89b 100644
+--- a/code-system/ios-apps/properties/native-shell-repo-path.text-property.ts
++++ b/code-system/ios-apps/properties/native-shell-repo-path.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type NativeShellRepoPath = string
+ 
+diff --git a/code-system/ios-apps/properties/spa-source-path.text-property.ts b/code-system/ios-apps/properties/spa-source-path.text-property.ts
+index ee9acd95adf408515b4c37656985eed48363c844..ee0552a692bd543d587ccc4f384b0bfcaa370d6b 100644
+--- a/code-system/ios-apps/properties/spa-source-path.text-property.ts
++++ b/code-system/ios-apps/properties/spa-source-path.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type SpaSourcePath = string
+ 
+diff --git a/code-system/ios-apps/properties/stage-script.relation-property.ts b/code-system/ios-apps/properties/stage-script.relation-property.ts
+index ca37951be9d6e4dc015f5c00e8f4c92c51996905..8fd589d062ca5e5e5a4faec715092ba97072ab8f 100644
+--- a/code-system/ios-apps/properties/stage-script.relation-property.ts
++++ b/code-system/ios-apps/properties/stage-script.relation-property.ts
+@@ -1,5 +1,5 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type StageScript = Slug
+ 
+diff --git a/code-system/ios-apps/properties/web-entry.file-property.ts b/code-system/ios-apps/properties/web-entry.file-property.ts
+index cfc3b39d2aaeb1568dcb12874c911d5b306d7b7a..3e167dc790c797270a0a554a53f303697f03919e 100644
+--- a/code-system/ios-apps/properties/web-entry.file-property.ts
++++ b/code-system/ios-apps/properties/web-entry.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type WebEntry = "html"
+ 
+diff --git a/code-system/ios-apps/properties/web-env-path.text-property.ts b/code-system/ios-apps/properties/web-env-path.text-property.ts
+index b0dac8681aaea296dce2e57c94c9ff206ed43b41..02791ec1e7a1bb50b574c806619b9f7d6fe5126f 100644
+--- a/code-system/ios-apps/properties/web-env-path.text-property.ts
++++ b/code-system/ios-apps/properties/web-env-path.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type WebEnvPath = string
+ 
+diff --git a/code-system/ios-apps/properties/widget-bundle-id.text-property.ts b/code-system/ios-apps/properties/widget-bundle-id.text-property.ts
+index 79cea011d612c9f63b9ee59bdecc1330e18b6f11..ca80a200264c1611c27dd52138c3a9864b35d150 100644
+--- a/code-system/ios-apps/properties/widget-bundle-id.text-property.ts
++++ b/code-system/ios-apps/properties/widget-bundle-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type WidgetBundleId = string
+ 
+diff --git a/code-system/ios-apps/properties/widget-profile-name.text-property.ts b/code-system/ios-apps/properties/widget-profile-name.text-property.ts
+index 0a16e31346bc1d4929d79b0ea34c8556b64ed4e7..6f0c2db02e15ac76b6f13c3f57f0794ef73732aa 100644
+--- a/code-system/ios-apps/properties/widget-profile-name.text-property.ts
++++ b/code-system/ios-apps/properties/widget-profile-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type WidgetProfileName = string
+ 
+diff --git a/code-system/ios-components/ios-component.page-type.ts b/code-system/ios-components/ios-component.page-type.ts
+index 94f754b01e1a27c54c74fe70a2a6824b6f2387a4..11f36bee510d3724dd64b60241e153cd71b604d2 100644
+--- a/code-system/ios-components/ios-component.page-type.ts
++++ b/code-system/ios-components/ios-component.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Swift } from "./properties/swift.file-property.ts"
+ 
+ export type IosComponent = Domain & {
+diff --git a/code-system/ios-components/properties/swift.file-property.ts b/code-system/ios-components/properties/swift.file-property.ts
+index fc1c9f96f9110cb603830d6f993915216cb21b0a..c6a93037331e6a7d9de97f956014e3279c98d2d1 100644
+--- a/code-system/ios-components/properties/swift.file-property.ts
++++ b/code-system/ios-components/properties/swift.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Swift = "swift"
+ 
+diff --git a/code-system/ios-harnesses/ios-harness.page-type.ts b/code-system/ios-harnesses/ios-harness.page-type.ts
+index 642181a69018874e817bd5597b98ca4c74a4cad9..6037c5bcadff50a1cc247c0c7505356b1ee3d3b6 100644
+--- a/code-system/ios-harnesses/ios-harness.page-type.ts
++++ b/code-system/ios-harnesses/ios-harness.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Swift } from "../ios-components/properties/swift.file-property.ts"
+ import type { Main } from "../ios-programs/properties/main.named-file-property.ts"
+ 
+diff --git a/code-system/ios-programs/ios-program.page-type.ts b/code-system/ios-programs/ios-program.page-type.ts
+index 70db71bc5ec11540cf75948f58b7f34370876ecd..aed43f55c45df33a9b3d952b81a3c6b70245445f 100644
+--- a/code-system/ios-programs/ios-program.page-type.ts
++++ b/code-system/ios-programs/ios-program.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { BundleId } from "../ios-apps/properties/bundle-id.text-property.ts"
+ import type { ComponentSlugs } from "./properties/component-slugs.relation-property.ts"
+ import type { Entitlements } from "./properties/entitlements.file-property.ts"
+diff --git a/code-system/ios-programs/properties/component-slugs.relation-property.ts b/code-system/ios-programs/properties/component-slugs.relation-property.ts
+index 523d2d474ccbc081769e0178c3039fee7142261f..c92ab0f6f4c3fef29ccaae84e51b2e4d6c2cf01b 100644
+--- a/code-system/ios-programs/properties/component-slugs.relation-property.ts
++++ b/code-system/ios-programs/properties/component-slugs.relation-property.ts
+@@ -1,6 +1,6 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { List } from "@akasha/pages-system/page-property"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { List } from "@akasha/pages/page-property"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type ComponentSlugs = List<Slug>
+ 
+diff --git a/code-system/ios-programs/properties/entitlements.file-property.ts b/code-system/ios-programs/properties/entitlements.file-property.ts
+index 7151ffd185808b191fdf991270b9ba948a941193..2e00b2d5e0a6118105564768ad3356f208783c29 100644
+--- a/code-system/ios-programs/properties/entitlements.file-property.ts
++++ b/code-system/ios-programs/properties/entitlements.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Entitlements = "entitlements"
+ 
+diff --git a/code-system/ios-programs/properties/info-plist.file-property.ts b/code-system/ios-programs/properties/info-plist.file-property.ts
+index b52829d8fb32abd26e7a0b0f41717a2f96d597d6..44beb8e23f646e27ec8738079a6fade37ce34b5f 100644
+--- a/code-system/ios-programs/properties/info-plist.file-property.ts
++++ b/code-system/ios-programs/properties/info-plist.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type InfoPlist = "plist"
+ 
+diff --git a/code-system/ios-programs/properties/main.named-file-property.ts b/code-system/ios-programs/properties/main.named-file-property.ts
+index a62f6274e90693c964f4d71ec65289395ed0fc56..ebe58fe7326f8757e759f8a69034f0e99a6bb378 100644
+--- a/code-system/ios-programs/properties/main.named-file-property.ts
++++ b/code-system/ios-programs/properties/main.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type Main = "swift"
+ 
+diff --git a/code-system/ios-programs/properties/profile-name.text-property.ts b/code-system/ios-programs/properties/profile-name.text-property.ts
+index feaf40911144824e4cecc052c2f700e665db678f..302499fb2379e026507016199449dd1a632d10bb 100644
+--- a/code-system/ios-programs/properties/profile-name.text-property.ts
++++ b/code-system/ios-programs/properties/profile-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ProfileName = string
+ 
+diff --git a/code-system/ios-programs/properties/target-name.text-property.ts b/code-system/ios-programs/properties/target-name.text-property.ts
+index 30b5f07dc8dbe0737dd6dbbea5cd49a88e545b2f..338c0151dba749e61b1588e3f73cda0b02c629d4 100644
+--- a/code-system/ios-programs/properties/target-name.text-property.ts
++++ b/code-system/ios-programs/properties/target-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type TargetName = string
+ 
+diff --git a/code-system/javascript-modules/javascript-module.page-type.ts b/code-system/javascript-modules/javascript-module.page-type.ts
+index 6d26e4bb0ef7d9bfdd801daea72f0791fd4dddd3..92d68bf83fa4ccd50eca14df262271ee715ffaf4 100644
+--- a/code-system/javascript-modules/javascript-module.page-type.ts
++++ b/code-system/javascript-modules/javascript-module.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Javascript } from "./properties/javascript.file-property.ts"
+ 
+ export type JavascriptModule = Domain & {
+diff --git a/code-system/javascript-modules/properties/javascript.file-property.ts b/code-system/javascript-modules/properties/javascript.file-property.ts
+index acf5df39e028065d6080ebee58a1f0a3399e2237..42c038c1b806eeffec54f0920bccaf3ca0e66065 100644
+--- a/code-system/javascript-modules/properties/javascript.file-property.ts
++++ b/code-system/javascript-modules/properties/javascript.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Javascript = "mjs"
+ 
+diff --git a/code-system/lua-modules/lua-module.page-type.ts b/code-system/lua-modules/lua-module.page-type.ts
+index 438064fddfd87507fadd9dfe2b33e07fe44c068d..8fee37de5bf144d2e180781c340d8610ddc4b5d8 100644
+--- a/code-system/lua-modules/lua-module.page-type.ts
++++ b/code-system/lua-modules/lua-module.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { LoadedAs } from "../eso-interfaces/properties/loaded-as.text-property.ts"
+ import type { Lua } from "./properties/lua.file-property.ts"
+ 
+diff --git a/code-system/lua-modules/properties/lua.file-property.ts b/code-system/lua-modules/properties/lua.file-property.ts
+index f894b6c4ec9c7a681f18ddb6d22ec550f95fe502..f8b7d11b4955167e9b4baabf5fe5f687b1225d64 100644
+--- a/code-system/lua-modules/properties/lua.file-property.ts
++++ b/code-system/lua-modules/properties/lua.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Lua = "lua"
+ 
+diff --git a/code-system/lua-runtime-libraries/lua-runtime-library.page-type.ts b/code-system/lua-runtime-libraries/lua-runtime-library.page-type.ts
+index 395fbf34de3bb081a14312fe0f570cc2a19ea8e7..7f24c50ab9de4eb25d0b771e6d6a604d8c64293b 100644
+--- a/code-system/lua-runtime-libraries/lua-runtime-library.page-type.ts
++++ b/code-system/lua-runtime-libraries/lua-runtime-library.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Lua50Config } from "./properties/lua50-config.named-file-property.ts"
+ import type { UniversalConfig } from "./properties/universal-config.named-file-property.ts"
+ 
+diff --git a/code-system/lua-runtime-libraries/properties/lua50-config.named-file-property.ts b/code-system/lua-runtime-libraries/properties/lua50-config.named-file-property.ts
+index 90c2846ec5a3c20d400b9cfde2e190cc1feb0220..ca0a5bab7e8dd31f419422f15a109f2c56231553 100644
+--- a/code-system/lua-runtime-libraries/properties/lua50-config.named-file-property.ts
++++ b/code-system/lua-runtime-libraries/properties/lua50-config.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type Lua50Config = "json"
+ 
+diff --git a/code-system/lua-runtime-libraries/properties/universal-config.named-file-property.ts b/code-system/lua-runtime-libraries/properties/universal-config.named-file-property.ts
+index a4a3e87dc6cb359cae4a1d769e5c553874ea8eb0..e573748d4604bdfcaa4e08596de3573b8a5de953 100644
+--- a/code-system/lua-runtime-libraries/properties/universal-config.named-file-property.ts
++++ b/code-system/lua-runtime-libraries/properties/universal-config.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type UniversalConfig = "json"
+ 
+diff --git a/code-system/modules/module.page-type.ts b/code-system/modules/module.page-type.ts
+index 4143ee94c7aced1d14dbaad2df4476ca5ed5041c..d07addf1f2e451b8ddef87f4b5610206868e41af 100644
+--- a/code-system/modules/module.page-type.ts
++++ b/code-system/modules/module.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Code } from "./properties/code.file-property.ts"
+ import type { Test } from "./properties/test.file-property.ts"
+ import type { TestFixtures } from "./properties/test-fixtures.file-property.ts"
+diff --git a/code-system/modules/properties/code.file-property.ts b/code-system/modules/properties/code.file-property.ts
+index ec53518293732a53ad564cba506743ee3751a9c3..241015bd1209536a9d41ee51ea281e90068ccc34 100644
+--- a/code-system/modules/properties/code.file-property.ts
++++ b/code-system/modules/properties/code.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Code = "ts" | "tsx"
+ 
+diff --git a/code-system/modules/properties/test-fixtures.file-property.ts b/code-system/modules/properties/test-fixtures.file-property.ts
+index 3f946f6cfe40878cffc18e3a3c51a573250122ec..7fa26eb39a661c846dfbf637f7608811c15cc33a 100644
+--- a/code-system/modules/properties/test-fixtures.file-property.ts
++++ b/code-system/modules/properties/test-fixtures.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type TestFixtures = "ts"
+ 
+diff --git a/code-system/modules/properties/test.file-property.ts b/code-system/modules/properties/test.file-property.ts
+index c76f32e1a70411d518786be8ee9228fdc5faabb8..3479ca149cf724f4e4d241f5460d1324e1c5e7cc 100644
+--- a/code-system/modules/properties/test.file-property.ts
++++ b/code-system/modules/properties/test.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Test = "ts" | "tsx"
+ 
+diff --git a/code-system/python-modules/properties/python.file-property.ts b/code-system/python-modules/properties/python.file-property.ts
+index dcfa4bd845b6a35587d84740ac38cc5d5d9d6984..fe62e1a3358ce72223a6f14856ec57636883698e 100644
+--- a/code-system/python-modules/properties/python.file-property.ts
++++ b/code-system/python-modules/properties/python.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Python = "py"
+ 
+diff --git a/code-system/python-modules/python-module.page-type.ts b/code-system/python-modules/python-module.page-type.ts
+index 8ffa589558bf73365775089356b52932b14af764..3a12f840fc8b9ead77914aeed736d4c08e9ff4bd 100644
+--- a/code-system/python-modules/python-module.page-type.ts
++++ b/code-system/python-modules/python-module.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Python } from "./properties/python.file-property.ts"
+ 
+ export type PythonModule = Domain & {
+diff --git a/code-system/router-apps/properties/root-route.named-file-property.ts b/code-system/router-apps/properties/root-route.named-file-property.ts
+index 5701d7449d7654a5c3be48426fe7d4a24b45d369..8063e19f80ffee26f831ddb26fb5dc5d5402b622 100644
+--- a/code-system/router-apps/properties/root-route.named-file-property.ts
++++ b/code-system/router-apps/properties/root-route.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type RootRoute = "tsx"
+ 
+diff --git a/code-system/router-apps/properties/route-table.named-file-property.ts b/code-system/router-apps/properties/route-table.named-file-property.ts
+index b1edf9e780b193d47a227d265624dc057d8737f6..a0762063294e87c50a915af5e24ec65244cb5673 100644
+--- a/code-system/router-apps/properties/route-table.named-file-property.ts
++++ b/code-system/router-apps/properties/route-table.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type RouteTable = "ts"
+ 
+diff --git a/code-system/router-apps/properties/router-config.named-file-property.ts b/code-system/router-apps/properties/router-config.named-file-property.ts
+index f83b10ef726d4885dcf8b8285d40628df4be7eba..d74d16e6bfeecf66fd296edc99a588cd682e4107 100644
+--- a/code-system/router-apps/properties/router-config.named-file-property.ts
++++ b/code-system/router-apps/properties/router-config.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type RouterConfig = "ts"
+ 
+diff --git a/code-system/router-apps/properties/server-entry.named-file-property.ts b/code-system/router-apps/properties/server-entry.named-file-property.ts
+index b3fc82a62a3b22d1332651ce605d6b93e04b412c..30f58bcfa796d7ffb95b2e4f5f5335ab0e74a663 100644
+--- a/code-system/router-apps/properties/server-entry.named-file-property.ts
++++ b/code-system/router-apps/properties/server-entry.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type ServerEntry = "tsx"
+ 
+diff --git a/code-system/router-apps/router-app.page-type.ts b/code-system/router-apps/router-app.page-type.ts
+index 4354e1e1448f0acb91106e452a40ff014dc4aff3..8ad57a80f15ff97f1f83e978de636eea89afdb47 100644
+--- a/code-system/router-apps/router-app.page-type.ts
++++ b/code-system/router-apps/router-app.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.ts"
+ import type { RootRoute } from "./properties/root-route.named-file-property.ts"
+ import type { RouteTable } from "./properties/route-table.named-file-property.ts"
+diff --git a/code-system/routes/properties/route-code.file-property.ts b/code-system/routes/properties/route-code.file-property.ts
+index a010559fe958079b0419459d6ad2eee0780977e0..4b2fd1fc289ca9eab0780fc7a9736fac8af9f17d 100644
+--- a/code-system/routes/properties/route-code.file-property.ts
++++ b/code-system/routes/properties/route-code.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type RouteCode = "ts" | "tsx"
+ 
+diff --git a/code-system/routes/properties/route-test.file-property.ts b/code-system/routes/properties/route-test.file-property.ts
+index f430ae7322487def32b04959d94abbe29c95e2ac..e55387c37ce1c2a9c599067df1ec265870c420f1 100644
+--- a/code-system/routes/properties/route-test.file-property.ts
++++ b/code-system/routes/properties/route-test.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type RouteTest = "ts" | "tsx"
+ 
+diff --git a/code-system/routes/properties/url-path.text-property.ts b/code-system/routes/properties/url-path.text-property.ts
+index a14472510b42089650bdb978fd4acf1f939c0d99..43e43f42d257ad41db942ea1df2639e039d5b78a 100644
+--- a/code-system/routes/properties/url-path.text-property.ts
++++ b/code-system/routes/properties/url-path.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type UrlPath = string
+ 
+diff --git a/code-system/routes/route.page-type.ts b/code-system/routes/route.page-type.ts
+index c4f6d21b5f0d734e83fe79846b58191368a02e3b..0586ba6ec86b1ed0b2c5449b0d48940bb02b2775 100644
+--- a/code-system/routes/route.page-type.ts
++++ b/code-system/routes/route.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { RouteCode } from "./properties/route-code.file-property.ts"
+ import type { RouteTest } from "./properties/route-test.file-property.ts"
+ import type { UrlPath } from "./properties/url-path.text-property.ts"
+diff --git a/code-system/rust-crates/properties/cargo-build-script.named-file-property.ts b/code-system/rust-crates/properties/cargo-build-script.named-file-property.ts
+index ecbc5ac0d51fc91c6adeffd5fd9bcd69a26d72c1..8af8dba2ae4c4a274038c1be499974eb1d3d1737 100644
+--- a/code-system/rust-crates/properties/cargo-build-script.named-file-property.ts
++++ b/code-system/rust-crates/properties/cargo-build-script.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type CargoBuildScript = "rs"
+ 
+diff --git a/code-system/rust-crates/properties/cargo-manifest.named-file-property.ts b/code-system/rust-crates/properties/cargo-manifest.named-file-property.ts
+index 18b2bfcb07b05d9ab1251fb3fc252e0834fea50c..7fe2f3f0e87f7e01f4fc499ad96aab23108ac392 100644
+--- a/code-system/rust-crates/properties/cargo-manifest.named-file-property.ts
++++ b/code-system/rust-crates/properties/cargo-manifest.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type CargoManifest = "toml"
+ 
+diff --git a/code-system/rust-crates/properties/crate-icon.file-property.ts b/code-system/rust-crates/properties/crate-icon.file-property.ts
+index 282db58277f474c58fe35457db91078877ce964f..94fc411a9d42a5c26c8f283db90ad357ef60bb21 100644
+--- a/code-system/rust-crates/properties/crate-icon.file-property.ts
++++ b/code-system/rust-crates/properties/crate-icon.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type CrateIcon = "json"
+ 
+diff --git a/code-system/rust-crates/properties/rust-module-slugs.relation-property.ts b/code-system/rust-crates/properties/rust-module-slugs.relation-property.ts
+index cb178785c02fbfa85345979f41e8a8474165a602..cadf286c244a25e7c8e1dcee65be60783f55a564 100644
+--- a/code-system/rust-crates/properties/rust-module-slugs.relation-property.ts
++++ b/code-system/rust-crates/properties/rust-module-slugs.relation-property.ts
+@@ -1,6 +1,6 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { List } from "@akasha/pages-system/page-property"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { List } from "@akasha/pages/page-property"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type RustModuleSlugs = List<Slug>
+ 
+diff --git a/code-system/rust-crates/rust-crate.page-type.ts b/code-system/rust-crates/rust-crate.page-type.ts
+index be7f22564551adcda3d6320456e6f68146b52c08..50cbdd57e04526ae91e01f8d8628af86d6307ce0 100644
+--- a/code-system/rust-crates/rust-crate.page-type.ts
++++ b/code-system/rust-crates/rust-crate.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { CargoBuildScript } from "./properties/cargo-build-script.named-file-property.ts"
+ import type { CargoManifest } from "./properties/cargo-manifest.named-file-property.ts"
+ import type { CrateIcon } from "./properties/crate-icon.file-property.ts"
+diff --git a/code-system/rust-modules/properties/rust-module-name.text-property.ts b/code-system/rust-modules/properties/rust-module-name.text-property.ts
+index ef44f0f4628e37d0cde1601c2efb8bc28dc7806b..a825db13186669f2e9a36636aa8cee482de20cfe 100644
+--- a/code-system/rust-modules/properties/rust-module-name.text-property.ts
++++ b/code-system/rust-modules/properties/rust-module-name.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type RustModuleName = string
+ 
+diff --git a/code-system/rust-modules/properties/rust.file-property.ts b/code-system/rust-modules/properties/rust.file-property.ts
+index d0bdec06643401cca8dc2ad61b50296d3d8bb487..5e7da36129d1dfb276589288e41d52aaa503abe2 100644
+--- a/code-system/rust-modules/properties/rust.file-property.ts
++++ b/code-system/rust-modules/properties/rust.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Rust = "rs"
+ 
+diff --git a/code-system/rust-modules/rust-module.page-type.ts b/code-system/rust-modules/rust-module.page-type.ts
+index 74c2ea0a0219a8f7a82b00d55e74b9f55211ceb2..9aefb73698959ee897ba3e7a7d0e401e904c773f 100644
+--- a/code-system/rust-modules/rust-module.page-type.ts
++++ b/code-system/rust-modules/rust-module.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Rust } from "./properties/rust.file-property.ts"
+ import type { RustModuleName } from "./properties/rust-module-name.text-property.ts"
+ 
+diff --git a/code-system/shell-scripts/properties/shell.file-property.ts b/code-system/shell-scripts/properties/shell.file-property.ts
+index 0b3db3a415b1624862f7eb8d5f84a2c33f2265df..9b2d69a1e2a339cac9ed0ad9dae0bb675d7bdf94 100644
+--- a/code-system/shell-scripts/properties/shell.file-property.ts
++++ b/code-system/shell-scripts/properties/shell.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Shell = "sh"
+ 
+diff --git a/code-system/shell-scripts/properties/sourced.boolean-property.ts b/code-system/shell-scripts/properties/sourced.boolean-property.ts
+index 507f1c59c97378650adbc02a8c4297b883037cd9..cb7b441ee2e6f552a8bbf540f5403a60d5b72640 100644
+--- a/code-system/shell-scripts/properties/sourced.boolean-property.ts
++++ b/code-system/shell-scripts/properties/sourced.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type Sourced = boolean
+ 
+diff --git a/code-system/shell-scripts/shell-script.page-type.ts b/code-system/shell-scripts/shell-script.page-type.ts
+index d11e649bda4a171cdbb7b7978fa7a77944823bcf..0120a2e38f2f1bdb0ff4fae7d005b421c94240b6 100644
+--- a/code-system/shell-scripts/shell-script.page-type.ts
++++ b/code-system/shell-scripts/shell-script.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Shell } from "./properties/shell.file-property.ts"
+ import type { Sourced } from "./properties/sourced.boolean-property.ts"
+ 
+diff --git a/code-system/stylesheets/properties/styles.file-property.ts b/code-system/stylesheets/properties/styles.file-property.ts
+index a20d7103f5be6e7543eea4de8084d87d19f304a8..c1c2c51ae316a31d85200c9f9b943e22fe314e20 100644
+--- a/code-system/stylesheets/properties/styles.file-property.ts
++++ b/code-system/stylesheets/properties/styles.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type Styles = "css"
+ 
+diff --git a/code-system/stylesheets/stylesheet.page-type.ts b/code-system/stylesheets/stylesheet.page-type.ts
+index 4796a78d1bc06d72001356f8fb6dc95f7eda88e1..b29731c2546d21ca5222edede1b63b0863b31063 100644
+--- a/code-system/stylesheets/stylesheet.page-type.ts
++++ b/code-system/stylesheets/stylesheet.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Styles } from "./properties/styles.file-property.ts"
+ 
+ export type Stylesheet = Domain & {
+diff --git a/code-system/type-declarations/properties/ambient-types.file-property.ts b/code-system/type-declarations/properties/ambient-types.file-property.ts
+index fa6a10911338789cb7eadcd5d1dfeaea49f1bae5..a067908a77cb75e47264c4eb9c1e48ebc8a0166f 100644
+--- a/code-system/type-declarations/properties/ambient-types.file-property.ts
++++ b/code-system/type-declarations/properties/ambient-types.file-property.ts
+@@ -1,4 +1,4 @@
+-import type { FileProperty } from "@akasha/pages-system/file-property"
++import type { FileProperty } from "@akasha/pages/file-property"
+ 
+ export type AmbientTypes = "ts"
+ 
+diff --git a/code-system/type-declarations/type-declaration.page-type.ts b/code-system/type-declarations/type-declaration.page-type.ts
+index e9a0e2801be03a410cf780d33c45c2a43a3055a8..af5f3584fcc475c5d9e27eb4a6017fef2c4ea91d 100644
+--- a/code-system/type-declarations/type-declaration.page-type.ts
++++ b/code-system/type-declarations/type-declaration.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { AmbientTypes } from "./properties/ambient-types.file-property.ts"
+ 
+ export type TypeDeclaration = Domain & {
+diff --git a/code-system/workspace-packages/properties/manifest.named-file-property.ts b/code-system/workspace-packages/properties/manifest.named-file-property.ts
+index 1648b67acd93d64b8bcb3d9009700df4654d8f7b..deaed3e371634684707d325ff01a460669583e48 100644
+--- a/code-system/workspace-packages/properties/manifest.named-file-property.ts
++++ b/code-system/workspace-packages/properties/manifest.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type Manifest = "json"
+ 
+diff --git a/code-system/workspace-packages/workspace-package.page-type.ts b/code-system/workspace-packages/workspace-package.page-type.ts
+index 329f2468b5fe5497777df6a32b96d5c20dd4d8d2..ba0ef6d0a63f5c874cfa2b63570075715240c9b7 100644
+--- a/code-system/workspace-packages/workspace-package.page-type.ts
++++ b/code-system/workspace-packages/workspace-package.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Manifest } from "./properties/manifest.named-file-property.ts"
+ 
+ export type WorkspacePackage = Domain & {
+diff --git a/code-system/workspaces/properties/biome-config.named-file-property.ts b/code-system/workspaces/properties/biome-config.named-file-property.ts
+index 63fbd5ac3a21212ff98a35b0ec60ea5d7ace480b..d81aee5e0135adc453036c89cf4340090182fb7d 100644
+--- a/code-system/workspaces/properties/biome-config.named-file-property.ts
++++ b/code-system/workspaces/properties/biome-config.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type BiomeConfig = "json"
+ 
+diff --git a/code-system/workspaces/properties/bun-config.named-file-property.ts b/code-system/workspaces/properties/bun-config.named-file-property.ts
+index db805e5ab2a2a245ea2f78ef09b8a066c311b1de..8a017c843abaae1eac66e0724316cf2b82dcb3da 100644
+--- a/code-system/workspaces/properties/bun-config.named-file-property.ts
++++ b/code-system/workspaces/properties/bun-config.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type BunConfig = "toml"
+ 
+diff --git a/code-system/workspaces/properties/docker-ignore.named-file-property.ts b/code-system/workspaces/properties/docker-ignore.named-file-property.ts
+index cabd46edf6144a4caedc152c42941326db044614..dd2a7585a8b89bf555e56cfbb6fe051ad0b52fa3 100644
+--- a/code-system/workspaces/properties/docker-ignore.named-file-property.ts
++++ b/code-system/workspaces/properties/docker-ignore.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type DockerIgnore = "dockerignore"
+ 
+diff --git a/code-system/workspaces/properties/lockfile.named-file-property.ts b/code-system/workspaces/properties/lockfile.named-file-property.ts
+index 4333641e3e7dde35bf9abe63db02161a1c6c9c49..8ab05eafc67bd46a099f4c03616904b2b4163191 100644
+--- a/code-system/workspaces/properties/lockfile.named-file-property.ts
++++ b/code-system/workspaces/properties/lockfile.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type Lockfile = "lock"
+ 
+diff --git a/code-system/workspaces/properties/secrets-config.named-file-property.ts b/code-system/workspaces/properties/secrets-config.named-file-property.ts
+index 42df2c561d9ad3180ab3124cd4c72b0059396009..a6fe829f28d02786349b49984f8e8e72065be3d0 100644
+--- a/code-system/workspaces/properties/secrets-config.named-file-property.ts
++++ b/code-system/workspaces/properties/secrets-config.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type SecretsConfig = "yaml"
+ 
+diff --git a/code-system/workspaces/properties/typescript-base-config.named-file-property.ts b/code-system/workspaces/properties/typescript-base-config.named-file-property.ts
+index bde78c346aad109447f6ee35bd0b949864dfd800..cfbb72e01a64c2159968fc71423723e89943bac9 100644
+--- a/code-system/workspaces/properties/typescript-base-config.named-file-property.ts
++++ b/code-system/workspaces/properties/typescript-base-config.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type TypescriptBaseConfig = "json"
+ 
+diff --git a/code-system/workspaces/properties/typescript-build-info.named-file-property.ts b/code-system/workspaces/properties/typescript-build-info.named-file-property.ts
+index 0c81f50161f7b1ace0ea6fc43d297d49861c6df0..8763236bb9110ef0cb14f8737779c40c940612de 100644
+--- a/code-system/workspaces/properties/typescript-build-info.named-file-property.ts
++++ b/code-system/workspaces/properties/typescript-build-info.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type TypescriptBuildInfo = "tsbuildinfo"
+ 
+diff --git a/code-system/workspaces/properties/typescript-config.named-file-property.ts b/code-system/workspaces/properties/typescript-config.named-file-property.ts
+index 0495a886d57ef1d51c75be08a782c2aa99c21829..4c96a7a8e7249716ca7d176eb39d1d09fe1079ff 100644
+--- a/code-system/workspaces/properties/typescript-config.named-file-property.ts
++++ b/code-system/workspaces/properties/typescript-config.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type TypescriptConfig = "json"
+ 
+diff --git a/code-system/workspaces/properties/workspace-git-ignore.named-file-property.ts b/code-system/workspaces/properties/workspace-git-ignore.named-file-property.ts
+index 01fc1c8a2595161e3183742df22727fade0ea8d7..d566e0fc3e19c4eb39f78710dcd7712e9deac27e 100644
+--- a/code-system/workspaces/properties/workspace-git-ignore.named-file-property.ts
++++ b/code-system/workspaces/properties/workspace-git-ignore.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type WorkspaceGitIgnore = "gitignore"
+ 
+diff --git a/code-system/workspaces/properties/workspace-manifest.named-file-property.ts b/code-system/workspaces/properties/workspace-manifest.named-file-property.ts
+index a76f4d8bd54b2289346d2f3befcd14a1364bd54f..916d0cee403fb406a1d5f26b7ae5fe89d18827c7 100644
+--- a/code-system/workspaces/properties/workspace-manifest.named-file-property.ts
++++ b/code-system/workspaces/properties/workspace-manifest.named-file-property.ts
+@@ -1,4 +1,4 @@
+-import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+ 
+ export type WorkspaceManifest = "json"
+ 
+diff --git a/code-system/workspaces/workspace.page-type.ts b/code-system/workspaces/workspace.page-type.ts
+index 58badb7e48153005ac66fe82e63f2cd3e9f18731..dcb755d345da773b3aed6a50b276df4d9ab80177 100644
+--- a/code-system/workspaces/workspace.page-type.ts
++++ b/code-system/workspaces/workspace.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { BiomeConfig } from "./properties/biome-config.named-file-property.ts"
+ import type { BunConfig } from "./properties/bun-config.named-file-property.ts"
+ import type { DockerIgnore } from "./properties/docker-ignore.named-file-property.ts"
+diff --git a/code/flags/flag.page-type.ts b/code/flags/flag.page-type.ts
+index 9eba96644a486499bd9968f768d0943ceedaaad9..e8b2c57344743ddb249e0557a3b207c0cbdcf3c8 100644
+--- a/code/flags/flag.page-type.ts
++++ b/code/flags/flag.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { Domain } from "@akasha/domains/domain"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ 
+ export type Flag = Domain
+ 
+diff --git a/collections/collection-externals/collection-external.page-type.ts b/collections/collection-externals/collection-external.page-type.ts
+index 5eec45fb96cb82d3654df4afc34412b175c393c0..ae54dd68f600a5bc35e51704eed330125cfcf923 100644
+--- a/collections/collection-externals/collection-external.page-type.ts
++++ b/collections/collection-externals/collection-external.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Collection } from "../collection.page-type.ts"
+ import type { ExternalId } from "./properties/external-id.text-property.ts"
+ import type { ExternalLink } from "./properties/external-link.url-property.ts"
+diff --git a/collections/collection-externals/properties/external-id.text-property.ts b/collections/collection-externals/properties/external-id.text-property.ts
+index e1c30db4fcdbea7f1ca9f6890ad6fdf63f486965..58435225fdee5bf8aa4aabdb36cb095ef439f939 100644
+--- a/collections/collection-externals/properties/external-id.text-property.ts
++++ b/collections/collection-externals/properties/external-id.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type ExternalId = string
+ 
+diff --git a/collections/collection-externals/properties/external-link.url-property.ts b/collections/collection-externals/properties/external-link.url-property.ts
+index 6286d621b31718c40059923a9cdf21b7f7281c5e..8390baf27872c0785499a6436b40006bff90582e 100644
+--- a/collections/collection-externals/properties/external-link.url-property.ts
++++ b/collections/collection-externals/properties/external-link.url-property.ts
+@@ -1,4 +1,4 @@
+-import type { UrlProperty } from "@akasha/pages-system/url-property"
++import type { UrlProperty } from "@akasha/pages/url-property"
+ 
+ export type ExternalLink = string
+ 
+diff --git a/collections/collection-externals/properties/last-synced-at.calendar-date-property.ts b/collections/collection-externals/properties/last-synced-at.calendar-date-property.ts
+index 83a8dc593378cc251fa9c8e3274392536c98690c..ecd63ac584ac2fa1c87eb57961d497f981dc1128 100644
+--- a/collections/collection-externals/properties/last-synced-at.calendar-date-property.ts
++++ b/collections/collection-externals/properties/last-synced-at.calendar-date-property.ts
+@@ -1,4 +1,4 @@
+-import type { CalendarDateProperty } from "@akasha/pages-system/calendar-date-property"
++import type { CalendarDateProperty } from "@akasha/pages/calendar-date-property"
+ 
+ export type LastSyncedAt = string
+ 
+diff --git a/collections/collection-externals/properties/source.text-property.ts b/collections/collection-externals/properties/source.text-property.ts
+index 2dea223bafe117daa849b73ec7e8467c49abf2f6..f57465842655d28e78929b8d3054a08334550af4 100644
+--- a/collections/collection-externals/properties/source.text-property.ts
++++ b/collections/collection-externals/properties/source.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type Source =
+   | "kindle"
+diff --git a/collections/collection-types/collection-type.page-type.ts b/collections/collection-types/collection-type.page-type.ts
+index 1a0861011e0eaf9081fe816be8122a77cc7394f4..ba0cac51d83e3bdfbe3bdd432d39ee09575423df 100644
+--- a/collections/collection-types/collection-type.page-type.ts
++++ b/collections/collection-types/collection-type.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { Title } from "../../pages/properties/title.text-property.ts"
+ import type { UnitSlug } from "../properties/unit-slug.relation-property.ts"
+ import type { CollectionTypeStatus } from "./properties/collection-type-status.select-property.ts"
+diff --git a/collections/collection-types/properties/collection-type-status.select-property.ts b/collections/collection-types/properties/collection-type-status.select-property.ts
+index ba7fbe7bf34d92675f9cf66f47bb0af15fa8c910..cdd7fb7a5b0b3380de94b0e5d92a04d14f29ffb9 100644
+--- a/collections/collection-types/properties/collection-type-status.select-property.ts
++++ b/collections/collection-types/properties/collection-type-status.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const collectionTypeStatus = {
+   id: "01a0680f-6f00-7000-9a52-4c7b3d8e6101",
+diff --git a/collections/collection.page-type.ts b/collections/collection.page-type.ts
+index 1c27dffef8a49f301aa8e244d54ac785f0fcbe4f..f8120f9262a3dbc02a8b7c08ff782b4f3b02a4e0 100644
+--- a/collections/collection.page-type.ts
++++ b/collections/collection.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { CollectionAuthor } from "./properties/collection-author.text-property.ts"
+ import type { CollectionCompletedAt } from "./properties/collection-completed-at.instant-property.ts"
+ import type { CollectionCompletion } from "./properties/collection-completion.computed-property.ts"
+diff --git a/collections/properties/collection-author.text-property.ts b/collections/properties/collection-author.text-property.ts
+index 9a07bd67105bd7f58b97416b2a9aa228e8ddf685..3a09b1450f579cf81d9f497ba36da5df6490fe13 100644
+--- a/collections/properties/collection-author.text-property.ts
++++ b/collections/properties/collection-author.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CollectionAuthor = string
+ 
+diff --git a/collections/properties/collection-completed-at.instant-property.ts b/collections/properties/collection-completed-at.instant-property.ts
+index 4904a05a590b580977ab8d37dd05aa07812efc37..feeb6cf436f85fbb484888c91e0ad3d152ffbb9b 100644
+--- a/collections/properties/collection-completed-at.instant-property.ts
++++ b/collections/properties/collection-completed-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type CollectionCompletedAt = string
+ 
+diff --git a/collections/properties/collection-completion.computed-property.code.ts b/collections/properties/collection-completion.computed-property.code.ts
+index f3e03d4086b9285c914b86b596cfc200867f95b6..60e80582efb91c6c2e9f191a4baa1f1e9cc7c1d5 100644
+--- a/collections/properties/collection-completion.computed-property.code.ts
++++ b/collections/properties/collection-completion.computed-property.code.ts
+@@ -1,4 +1,4 @@
+-import type { Work } from "@akasha/pages-system/computed-property"
++import type { Work } from "@akasha/pages/computed-property"
+ import type { WorkedCollection } from "../collection.page-type.ts"
+ import type { CollectionCompletion } from "./collection-completion.computed-property.ts"
+ 
+diff --git a/collections/properties/collection-completion.computed-property.ts b/collections/properties/collection-completion.computed-property.ts
+index 52c065503c78960c9b96183d278090dbb15cbe46..5903f937a407814fe3924e2f85b360e2139a92d1 100644
+--- a/collections/properties/collection-completion.computed-property.ts
++++ b/collections/properties/collection-completion.computed-property.ts
+@@ -1,4 +1,4 @@
+-import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++import type { ComputedProperty } from "@akasha/pages/computed-property"
+ 
+ export type CollectionCompletion = "completed" | "in-progress" | "not-started"
+ 
+diff --git a/collections/properties/collection-description.text-property.ts b/collections/properties/collection-description.text-property.ts
+index f8f623bd1046eb6c53a99cab9ac9396e8fb16764..3f5f290f023e0ebef1de4ad38b3d726c2060bbb0 100644
+--- a/collections/properties/collection-description.text-property.ts
++++ b/collections/properties/collection-description.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CollectionDescription = string
+ 
+diff --git a/collections/properties/collection-published-at.one-of-property.ts b/collections/properties/collection-published-at.one-of-property.ts
+index 2a92c3dc8a63bbfd3729513a24d5c592a1f41312..8b325c76b52acedbccdf3a4add0027746febf58e 100644
+--- a/collections/properties/collection-published-at.one-of-property.ts
++++ b/collections/properties/collection-published-at.one-of-property.ts
+@@ -1,4 +1,4 @@
+-import type { OneOfProperty } from "@akasha/pages-system/one-of-property"
++import type { OneOfProperty } from "@akasha/pages/one-of-property"
+ import type { PublishedAt } from "./published-at.instant-property.ts"
+ import type { PublishedDay } from "./published-day.calendar-date-property.ts"
+ 
+diff --git a/collections/properties/collection-tags.text-property.ts b/collections/properties/collection-tags.text-property.ts
+index 49e18628c2c426786694616ebdbff5c257eea8e7..8c9e7bc83b1be538d82c998ea20b3eb2abe78435 100644
+--- a/collections/properties/collection-tags.text-property.ts
++++ b/collections/properties/collection-tags.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type CollectionTags = string
+ 
+diff --git a/collections/properties/collection-type-slug.relation-property.ts b/collections/properties/collection-type-slug.relation-property.ts
+index 37994e86bda2dd5bd29e285fc3a277d473af4798..b29e13b38dc2f21e3fba2099c64b6d8b06f71e44 100644
+--- a/collections/properties/collection-type-slug.relation-property.ts
++++ b/collections/properties/collection-type-slug.relation-property.ts
+@@ -1,5 +1,5 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type CollectionTypeSlug = Slug
+ 
+diff --git a/collections/properties/following.boolean-property.ts b/collections/properties/following.boolean-property.ts
+index bb60723e9ce0d1d125c666545283a5adabb0cdb9..c39fca8e192d0b2da03fee3eab12b49a12833865 100644
+--- a/collections/properties/following.boolean-property.ts
++++ b/collections/properties/following.boolean-property.ts
+@@ -1,4 +1,4 @@
+-import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
+ 
+ export type Following = boolean
+ 
+diff --git a/collections/properties/own-length-in-words.computed-property.code.ts b/collections/properties/own-length-in-words.computed-property.code.ts
+index c5b535d5e789896e0fd756da24c086aa91625c5f..b32e4ac319f858f2a8f90aa2bc17e8f0af3b9e01 100644
+--- a/collections/properties/own-length-in-words.computed-property.code.ts
++++ b/collections/properties/own-length-in-words.computed-property.code.ts
+@@ -1,4 +1,4 @@
+-import type { Work } from "@akasha/pages-system/computed-property"
++import type { Work } from "@akasha/pages/computed-property"
+ import type { Collection } from "../collection.page-type.ts"
+ 
+ export const work: Work<Collection, number> = (page) => {
+diff --git a/collections/properties/own-length-in-words.computed-property.ts b/collections/properties/own-length-in-words.computed-property.ts
+index 66fd50591f897543b10a0b4ba51e428e8fe5e499..3488f84b03df0a936a3158f97d64217f03e71015 100644
+--- a/collections/properties/own-length-in-words.computed-property.ts
++++ b/collections/properties/own-length-in-words.computed-property.ts
+@@ -1,4 +1,4 @@
+-import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++import type { ComputedProperty } from "@akasha/pages/computed-property"
+ 
+ export type OwnLengthInWords = number
+ 
+diff --git a/collections/properties/own-length.number-property.ts b/collections/properties/own-length.number-property.ts
+index 1c09651a9372b6f53c45c79936e652f5f23bc4bb..77ccdd6ae243ca5921f564ec442801e4446908cc 100644
+--- a/collections/properties/own-length.number-property.ts
++++ b/collections/properties/own-length.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type OwnLength = number
+ 
+diff --git a/collections/properties/own-progress-in-words.computed-property.code.ts b/collections/properties/own-progress-in-words.computed-property.code.ts
+index 20accb625df07807a12c3c3c6bf6a9ecb95878c9..3b18e933e745e30cc8eb9e379d5a9b55fe7565af 100644
+--- a/collections/properties/own-progress-in-words.computed-property.code.ts
++++ b/collections/properties/own-progress-in-words.computed-property.code.ts
+@@ -1,4 +1,4 @@
+-import type { Work } from "@akasha/pages-system/computed-property"
++import type { Work } from "@akasha/pages/computed-property"
+ import type { Collection } from "../collection.page-type.ts"
+ 
+ export const work: Work<Collection, number> = (page) => {
+diff --git a/collections/properties/own-progress-in-words.computed-property.ts b/collections/properties/own-progress-in-words.computed-property.ts
+index 74134718b0f145cdac4a9d9f11f535a6d9c327e3..6a2a182b63efed8ff5b919d67df08ad490e7bf2b 100644
+--- a/collections/properties/own-progress-in-words.computed-property.ts
++++ b/collections/properties/own-progress-in-words.computed-property.ts
+@@ -1,4 +1,4 @@
+-import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++import type { ComputedProperty } from "@akasha/pages/computed-property"
+ 
+ export type OwnProgressInWords = number
+ 
+diff --git a/collections/properties/own-progress.number-property.ts b/collections/properties/own-progress.number-property.ts
+index 3af46f20130d1f6451b6c2abce23a5701cbce608..3356b45d990368f4bda2cceb5a1588a167229a9f 100644
+--- a/collections/properties/own-progress.number-property.ts
++++ b/collections/properties/own-progress.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type OwnProgress = number
+ 
+diff --git a/collections/properties/own-remaining-in-words.computed-property.code.ts b/collections/properties/own-remaining-in-words.computed-property.code.ts
+index 4e88507dbc23e0248de613b1af7e5a1040701cd4..e523669fef88461c34f329483cd8fe760396e79d 100644
+--- a/collections/properties/own-remaining-in-words.computed-property.code.ts
++++ b/collections/properties/own-remaining-in-words.computed-property.code.ts
+@@ -1,4 +1,4 @@
+-import type { Work } from "@akasha/pages-system/computed-property"
++import type { Work } from "@akasha/pages/computed-property"
+ import type { WorkedCollection } from "../collection.page-type.ts"
+ 
+ export const work: Work<WorkedCollection, number> = (page) => {
+diff --git a/collections/properties/own-remaining-in-words.computed-property.ts b/collections/properties/own-remaining-in-words.computed-property.ts
+index bce6429843d1a68d92d5e6ba22a237df69dae2f5..4f786ceb5cff3060aa2f2c3e5671c2d99392d2e2 100644
+--- a/collections/properties/own-remaining-in-words.computed-property.ts
++++ b/collections/properties/own-remaining-in-words.computed-property.ts
+@@ -1,4 +1,4 @@
+-import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++import type { ComputedProperty } from "@akasha/pages/computed-property"
+ 
+ export type OwnRemainingInWords = number
+ 
+diff --git a/collections/properties/own-remaining.computed-property.code.ts b/collections/properties/own-remaining.computed-property.code.ts
+index 95936ddfc1335035d70a910885adb1172884b483..880fd227bba08f6f66e3797011c7b15a5dfe5c2e 100644
+--- a/collections/properties/own-remaining.computed-property.code.ts
++++ b/collections/properties/own-remaining.computed-property.code.ts
+@@ -1,4 +1,4 @@
+-import type { Work } from "@akasha/pages-system/computed-property"
++import type { Work } from "@akasha/pages/computed-property"
+ import type { Collection } from "../collection.page-type.ts"
+ 
+ export const work: Work<Collection, number> = (page) => {
+diff --git a/collections/properties/own-remaining.computed-property.ts b/collections/properties/own-remaining.computed-property.ts
+index dd722dba976a19ea7eb546a39a9ae40b015ed938..20d729e31a2cb0df08d6d5b3390d96c3ff2a0826 100644
+--- a/collections/properties/own-remaining.computed-property.ts
++++ b/collections/properties/own-remaining.computed-property.ts
+@@ -1,4 +1,4 @@
+-import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++import type { ComputedProperty } from "@akasha/pages/computed-property"
+ 
+ export type OwnRemaining = number
+ 
+diff --git a/collections/properties/part-of-slugs.relation-property.ts b/collections/properties/part-of-slugs.relation-property.ts
+index 91b877f13d9246598b46c3b6dd6f38cca3d417ab..efa95effd52df0601eacef2d26050c09298470f3 100644
+--- a/collections/properties/part-of-slugs.relation-property.ts
++++ b/collections/properties/part-of-slugs.relation-property.ts
+@@ -1,6 +1,6 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { List } from "@akasha/pages-system/page-property"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { List } from "@akasha/pages/page-property"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type PartOfSlugs = List<Slug>
+ 
+diff --git a/collections/properties/parts-length-in-words.number-property.ts b/collections/properties/parts-length-in-words.number-property.ts
+index 26bdc770f5788339c0d486cf68b9dfe3553160e1..7a420c9ff3f408464a9b3bef886c907244bb5d6b 100644
+--- a/collections/properties/parts-length-in-words.number-property.ts
++++ b/collections/properties/parts-length-in-words.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type PartsLengthInWords = number
+ 
+diff --git a/collections/properties/parts-progress-in-words.number-property.ts b/collections/properties/parts-progress-in-words.number-property.ts
+index f65dffb1eebdc91d6d9ddba8068ceae3885fd064..f2f784b8db164215b53e78dea0ed9a989a1ed066 100644
+--- a/collections/properties/parts-progress-in-words.number-property.ts
++++ b/collections/properties/parts-progress-in-words.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type PartsProgressInWords = number
+ 
+diff --git a/collections/properties/parts-remaining-in-words.computed-property.code.ts b/collections/properties/parts-remaining-in-words.computed-property.code.ts
+index 46ee14f0a7550a58ea169ca9efca1301bb3d0a82..ebefaec47e91a5ff806b247f00b2e8dc070dac8f 100644
+--- a/collections/properties/parts-remaining-in-words.computed-property.code.ts
++++ b/collections/properties/parts-remaining-in-words.computed-property.code.ts
+@@ -1,4 +1,4 @@
+-import type { Work } from "@akasha/pages-system/computed-property"
++import type { Work } from "@akasha/pages/computed-property"
+ import type { Collection } from "../collection.page-type.ts"
+ 
+ export const work: Work<Collection, number> = (page) => {
+diff --git a/collections/properties/parts-remaining-in-words.computed-property.ts b/collections/properties/parts-remaining-in-words.computed-property.ts
+index 45881383da32ff6fd87905172f64e84b667afa99..ebcc35193c88e03f88ef79a0e5903302ca6a363b 100644
+--- a/collections/properties/parts-remaining-in-words.computed-property.ts
++++ b/collections/properties/parts-remaining-in-words.computed-property.ts
+@@ -1,4 +1,4 @@
+-import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++import type { ComputedProperty } from "@akasha/pages/computed-property"
+ 
+ export type PartsRemainingInWords = number
+ 
+diff --git a/collections/properties/position.number-property.ts b/collections/properties/position.number-property.ts
+index 2bca2cde111d0fe7ac8c8ad3704c2bb23985d868..f3f919497cbff8362adb9de8ac11548e882af2f9 100644
+--- a/collections/properties/position.number-property.ts
++++ b/collections/properties/position.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type Position = number
+ 
+diff --git a/collections/properties/published-at.instant-property.ts b/collections/properties/published-at.instant-property.ts
+index 32983ca9735949fc5a5c1ab65246c2d3018c6b2b..b34c117971e15556f8881babfd85aba142c7da54 100644
+--- a/collections/properties/published-at.instant-property.ts
++++ b/collections/properties/published-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type PublishedAt = string
+ 
+diff --git a/collections/properties/published-day.calendar-date-property.ts b/collections/properties/published-day.calendar-date-property.ts
+index 93cd6fceb90abcf464291f50b8a3088d2b24c359..fbc307b7be3d6dbb8d4587f8409d660c0dda8478 100644
+--- a/collections/properties/published-day.calendar-date-property.ts
++++ b/collections/properties/published-day.calendar-date-property.ts
+@@ -1,4 +1,4 @@
+-import type { CalendarDateProperty } from "@akasha/pages-system/calendar-date-property"
++import type { CalendarDateProperty } from "@akasha/pages/calendar-date-property"
+ 
+ export type PublishedDay = string
+ 
+diff --git a/collections/properties/rank.rank-property.ts b/collections/properties/rank.rank-property.ts
+index 91adb32602b30ae6de2cc7cccab6845c51f6fe78..325cc6683367a78e2c882fd94434fbf3c30798d5 100644
+--- a/collections/properties/rank.rank-property.ts
++++ b/collections/properties/rank.rank-property.ts
+@@ -1,4 +1,4 @@
+-import type { RankProperty } from "@akasha/pages-system/rank-property"
++import type { RankProperty } from "@akasha/pages/rank-property"
+ 
+ export const rank = {
+   id: "01a063de-2c60-7010-9c60-ca9b5e2b2eca",
+diff --git a/collections/properties/status.select-property.ts b/collections/properties/status.select-property.ts
+index 7497803d925be09d4a131fe5c53b047915bb77f9..c74599b4ab43ada03987e4cc4de117e456c42302 100644
+--- a/collections/properties/status.select-property.ts
++++ b/collections/properties/status.select-property.ts
+@@ -1,4 +1,4 @@
+-import type { SelectProperty } from "@akasha/pages-system/select-property"
++import type { SelectProperty } from "@akasha/pages/select-property"
+ 
+ export const status = {
+   id: "01a063de-2c60-7011-92a6-0aefa2934d59",
+diff --git a/collections/properties/total-length-in-words.computed-property.code.ts b/collections/properties/total-length-in-words.computed-property.code.ts
+index aecd8a765911acadf9c7d4d5f9006b9df857f4cb..a1ddf8e9c5f20b3738872d553a0095f12208bee9 100644
+--- a/collections/properties/total-length-in-words.computed-property.code.ts
++++ b/collections/properties/total-length-in-words.computed-property.code.ts
+@@ -1,4 +1,4 @@
+-import type { Work } from "@akasha/pages-system/computed-property"
++import type { Work } from "@akasha/pages/computed-property"
+ import type { WorkedCollection } from "../collection.page-type.ts"
+ 
+ export const work: Work<WorkedCollection, number> = (page) => {
+diff --git a/collections/properties/total-length-in-words.computed-property.ts b/collections/properties/total-length-in-words.computed-property.ts
+index ebf2a7d3491aae80a678251bf11575cb2e4a0fbb..a188bcabd380d079bb741f5986c8f06e8e18ff85 100644
+--- a/collections/properties/total-length-in-words.computed-property.ts
++++ b/collections/properties/total-length-in-words.computed-property.ts
+@@ -1,4 +1,4 @@
+-import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++import type { ComputedProperty } from "@akasha/pages/computed-property"
+ 
+ export type TotalLengthInWords = number
+ 
+diff --git a/collections/properties/total-length.computed-property.code.ts b/collections/properties/total-length.computed-property.code.ts
+index c8c6610b80381632f62aaad6ba2f11381d715896..52cecede61dd7dc824c230dbe024bce2b009221a 100644
+--- a/collections/properties/total-length.computed-property.code.ts
++++ b/collections/properties/total-length.computed-property.code.ts
+@@ -1,4 +1,4 @@
+-import type { Work } from "@akasha/pages-system/computed-property"
++import type { Work } from "@akasha/pages/computed-property"
+ import type { WorkedCollection } from "../collection.page-type.ts"
+ 
+ export const work: Work<WorkedCollection, number> = (page) => {
+diff --git a/collections/properties/total-length.computed-property.ts b/collections/properties/total-length.computed-property.ts
+index 66165756dff49865d7a3026c2fca6fa294848af1..daf357ffc9ea5ebafc9c3fb8570a6c88d30c530c 100644
+--- a/collections/properties/total-length.computed-property.ts
++++ b/collections/properties/total-length.computed-property.ts
+@@ -1,4 +1,4 @@
+-import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++import type { ComputedProperty } from "@akasha/pages/computed-property"
+ 
+ export type TotalLength = number
+ 
+diff --git a/collections/properties/total-progress-in-words.computed-property.code.ts b/collections/properties/total-progress-in-words.computed-property.code.ts
+index 0373173a15434b97f43c23a45810a3f3c60a476b..7913877306e957ad0c77111b369d674fc33c2932 100644
+--- a/collections/properties/total-progress-in-words.computed-property.code.ts
++++ b/collections/properties/total-progress-in-words.computed-property.code.ts
+@@ -1,4 +1,4 @@
+-import type { Work } from "@akasha/pages-system/computed-property"
++import type { Work } from "@akasha/pages/computed-property"
+ import type { WorkedCollection } from "../collection.page-type.ts"
+ 
+ export const work: Work<WorkedCollection, number> = (page) => {
+diff --git a/collections/properties/total-progress-in-words.computed-property.ts b/collections/properties/total-progress-in-words.computed-property.ts
+index 31af08f370a989f46eb3610bcb5380751300a19f..749654d7cd8e8028e1b33ced3a79dc32568b31e0 100644
+--- a/collections/properties/total-progress-in-words.computed-property.ts
++++ b/collections/properties/total-progress-in-words.computed-property.ts
+@@ -1,4 +1,4 @@
+-import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++import type { ComputedProperty } from "@akasha/pages/computed-property"
+ 
+ export type TotalProgressInWords = number
+ 
+diff --git a/collections/properties/total-progress.computed-property.code.ts b/collections/properties/total-progress.computed-property.code.ts
+index 925c29ec184a73379003f5eacb7be1d9e2d3e3ea..ea63e73f6f5bc0870c4734c5f62831ee42625506 100644
+--- a/collections/properties/total-progress.computed-property.code.ts
++++ b/collections/properties/total-progress.computed-property.code.ts
+@@ -1,4 +1,4 @@
+-import type { Work } from "@akasha/pages-system/computed-property"
++import type { Work } from "@akasha/pages/computed-property"
+ import type { WorkedCollection } from "../collection.page-type.ts"
+ 
+ export const work: Work<WorkedCollection, number> = (page) => {
+diff --git a/collections/properties/total-progress.computed-property.ts b/collections/properties/total-progress.computed-property.ts
+index 83842be4eecac071ff697da4eacbf7981f644808..7d1b06667fab1a2055c6a4ea5999db0257e08ed5 100644
+--- a/collections/properties/total-progress.computed-property.ts
++++ b/collections/properties/total-progress.computed-property.ts
+@@ -1,4 +1,4 @@
+-import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++import type { ComputedProperty } from "@akasha/pages/computed-property"
+ 
+ export type TotalProgress = number
+ 
+diff --git a/collections/properties/total-remaining-in-words.computed-property.code.ts b/collections/properties/total-remaining-in-words.computed-property.code.ts
+index 9c59dc3d99e4113258ffdc3fd7cae942a51a0bfc..5dc9b9d24b29d48eac631a9425530555b5b6eb5a 100644
+--- a/collections/properties/total-remaining-in-words.computed-property.code.ts
++++ b/collections/properties/total-remaining-in-words.computed-property.code.ts
+@@ -1,4 +1,4 @@
+-import type { Work } from "@akasha/pages-system/computed-property"
++import type { Work } from "@akasha/pages/computed-property"
+ import type { WorkedCollection } from "../collection.page-type.ts"
+ 
+ export const work: Work<WorkedCollection, number> = (page) => {
+diff --git a/collections/properties/total-remaining-in-words.computed-property.ts b/collections/properties/total-remaining-in-words.computed-property.ts
+index ba95ba15f0d977bb839a3c34f2d027ce9f5545f7..a86a4e9ecf950af1f692d66ffc491daccc9ee504 100644
+--- a/collections/properties/total-remaining-in-words.computed-property.ts
++++ b/collections/properties/total-remaining-in-words.computed-property.ts
+@@ -1,4 +1,4 @@
+-import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++import type { ComputedProperty } from "@akasha/pages/computed-property"
+ 
+ export type TotalRemainingInWords = number
+ 
+diff --git a/collections/properties/total-remaining.computed-property.code.ts b/collections/properties/total-remaining.computed-property.code.ts
+index 733b9a4d259413ef0bce6832b822dc63a58585f7..3738be87a3d7be260093a93e57decf158df61765 100644
+--- a/collections/properties/total-remaining.computed-property.code.ts
++++ b/collections/properties/total-remaining.computed-property.code.ts
+@@ -1,4 +1,4 @@
+-import type { Work } from "@akasha/pages-system/computed-property"
++import type { Work } from "@akasha/pages/computed-property"
+ import type { WorkedCollection } from "../collection.page-type.ts"
+ 
+ export const work: Work<WorkedCollection, number> = (page) => {
+diff --git a/collections/properties/total-remaining.computed-property.ts b/collections/properties/total-remaining.computed-property.ts
+index 268e33235667b6ea157d0d8804d048ba6b4b3204..bb7ca5d0f5e133ab7b8481488c4188591ef5d5f0 100644
+--- a/collections/properties/total-remaining.computed-property.ts
++++ b/collections/properties/total-remaining.computed-property.ts
+@@ -1,4 +1,4 @@
+-import type { ComputedProperty } from "@akasha/pages-system/computed-property"
++import type { ComputedProperty } from "@akasha/pages/computed-property"
+ 
+ export type TotalRemaining = number
+ 
+diff --git a/collections/properties/unit-slug.relation-property.ts b/collections/properties/unit-slug.relation-property.ts
+index f45c7e455b5ce04f73b71a2f95efec5af4f6f8fe..aa3f9d684427f652a3646bf0ba4bc86de14d9b1d 100644
+--- a/collections/properties/unit-slug.relation-property.ts
++++ b/collections/properties/unit-slug.relation-property.ts
+@@ -1,5 +1,5 @@
+-import type { Slug } from "@akasha/pages-system/page/slug"
+-import type { RelationProperty } from "@akasha/pages-system/relation-property"
++import type { Slug } from "@akasha/pages/page/slug"
++import type { RelationProperty } from "@akasha/pages/relation-property"
+ 
+ export type UnitSlug = Slug
+ 
+diff --git a/collections/properties/unit-words.number-property.ts b/collections/properties/unit-words.number-property.ts
+index 046f2dffdc4556408ddaf36ab1f52a173bb4d0c0..55d4d4e6e214127fb73a2bf2030506a1009798f9 100644
+--- a/collections/properties/unit-words.number-property.ts
++++ b/collections/properties/unit-words.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type UnitWords = number
+ 
+diff --git a/collections/royal-road-accounts/properties/royal-road-email.email-address-property.ts b/collections/royal-road-accounts/properties/royal-road-email.email-address-property.ts
+index 8a7ff517f083bd84ffef9edda8aa96cfbcdb2003..fcc9bf25262cc3888338b1c5e1f03c6b983bef3e 100644
+--- a/collections/royal-road-accounts/properties/royal-road-email.email-address-property.ts
++++ b/collections/royal-road-accounts/properties/royal-road-email.email-address-property.ts
+@@ -1,4 +1,4 @@
+-import type { EmailAddressProperty } from "@akasha/pages-system/email-address-property"
++import type { EmailAddressProperty } from "@akasha/pages/email-address-property"
+ 
+ export type RoyalRoadEmail = string
+ 
+diff --git a/collections/royal-road-accounts/properties/royal-road-password.text-property.ts b/collections/royal-road-accounts/properties/royal-road-password.text-property.ts
+index 242b74c1701c97db0cc21d45f93c498489a259ea..eda4147ed3c6a619b6fcb0f2ba3f0459c7453c82 100644
+--- a/collections/royal-road-accounts/properties/royal-road-password.text-property.ts
++++ b/collections/royal-road-accounts/properties/royal-road-password.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type RoyalRoadPassword = string
+ 
+diff --git a/collections/royal-road-accounts/royal-road-account.page-type.ts b/collections/royal-road-accounts/royal-road-account.page-type.ts
+index 3ebbf8de16c6e7f6a6d8599618d82d39777ebbea..aeb8567e0563601ece724d47787245039689cd69 100644
+--- a/collections/royal-road-accounts/royal-road-account.page-type.ts
++++ b/collections/royal-road-accounts/royal-road-account.page-type.ts
+@@ -1,5 +1,5 @@
+-import type { Page } from "@akasha/pages-system/page"
+-import type { PageType } from "@akasha/pages-system/page-type"
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
+ import type { RoyalRoadEmail } from "./properties/royal-road-email.email-address-property.ts"
+ import type { RoyalRoadPassword } from "./properties/royal-road-password.text-property.ts"
+ 
+diff --git a/collections/royal-road/royal-road-syncing/royal-road-syncing.module.code.ts b/collections/royal-road/royal-road-syncing/royal-road-syncing.module.code.ts
+index 693e06158cb9fa5948fad70f39c099709881037f..e55265edac9d56a344288150fff4b2f6efc19473 100644
+--- a/collections/royal-road/royal-road-syncing/royal-road-syncing.module.code.ts
++++ b/collections/royal-road/royal-road-syncing/royal-road-syncing.module.code.ts
+@@ -1,8 +1,8 @@
+ import { landedMechanically } from "@akasha/command-system/asking"
+ import type { FileEdit } from "@akasha/command-system/landing"
+-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+-import { besideAt } from "@akasha/pages-system/page-file-name"
+-import type { Value } from "@akasha/pages-system/page-value"
++import { akashaRoot } from "@akasha/pages/checkout-roots"
++import { besideAt } from "@akasha/pages/page-file-name"
++import type { Value } from "@akasha/pages/page-value"
+ import { asking, type Row } from "@akasha/pages-system-service/asking"
+ import { composedFor } from "@akasha/pages-system-service/composing"
+ import type { RawChapter } from "@akasha/royal-road/royal-road-pages"
+diff --git a/collections/sync-runs/properties/created-count.number-property.ts b/collections/sync-runs/properties/created-count.number-property.ts
+index 0d3c8caf32d861065474cbc67ee7c22f6efa3d6c..429034bdb4c04e30364984654a65713a7bdf73e4 100644
+--- a/collections/sync-runs/properties/created-count.number-property.ts
++++ b/collections/sync-runs/properties/created-count.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type CreatedCount = number
+ 
+diff --git a/collections/sync-runs/properties/duration-ms.number-property.ts b/collections/sync-runs/properties/duration-ms.number-property.ts
+index a2381f1a124bc45ffbf1e7602eb10733fd5d2653..97021bda1529d423499cb0d727af504ae07d3b25 100644
+--- a/collections/sync-runs/properties/duration-ms.number-property.ts
++++ b/collections/sync-runs/properties/duration-ms.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type DurationMs = number
+ 
+diff --git a/collections/sync-runs/properties/failed-count.number-property.ts b/collections/sync-runs/properties/failed-count.number-property.ts
+index 2d2944db21209b18b6a2df2640a3216b053664bb..c18864a16bd1f8ff8306013d1abd2224392035e6 100644
+--- a/collections/sync-runs/properties/failed-count.number-property.ts
++++ b/collections/sync-runs/properties/failed-count.number-property.ts
+@@ -1,4 +1,4 @@
+-import type { NumberProperty } from "@akasha/pages-system/number-property"
++import type { NumberProperty } from "@akasha/pages/number-property"
+ 
+ export type FailedCount = number
+ 
+diff --git a/collections/sync-runs/properties/run-completed-at.instant-property.ts b/collections/sync-runs/properties/run-completed-at.instant-property.ts
+index 8c909096196af8d189487493d18b7ad600b9041e..5290d69276858636cc9a39075283141957e0d0bd 100644
+--- a/collections/sync-runs/properties/run-completed-at.instant-property.ts
++++ b/collections/sync-runs/properties/run-completed-at.instant-property.ts
+@@ -1,4 +1,4 @@
+-import type { InstantProperty } from "@akasha/pages-system/instant-property"
++import type { InstantProperty } from "@akasha/pages/instant-property"
+ 
+ export type RunCompletedAt = string
+ 
+diff --git a/collections/sync-runs/properties/run-error-message.text-property.ts b/collections/sync-runs/properties/run-error-message.text-property.ts
+index 3723e6cff5de72334d6859afb06f3416560c90b7..d6239bcb4094fe10744bd770cc48cd8b9a5ebbe7 100644
+--- a/collections/sync-runs/properties/run-error-message.text-property.ts
++++ b/collections/sync-runs/properties/run-error-message.text-property.ts
+@@ -1,4 +1,4 @@
+-import type { TextProperty } from "@akasha/pages-system/text-property"
++import type { TextProperty } from "@akasha/pages/text-property"
+ 
+ export type RunErrorMessage = string
+ 
