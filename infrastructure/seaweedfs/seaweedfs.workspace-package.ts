@@ -7,6 +7,7 @@ export const seaweedfs = {
   definition: "the manifests the cluster's own object store is applied as",
   manifest: "json",
   partSlugs: [
+    "manifest/seaweedfs-filer",
     "manifest/seaweedfs-master",
     "manifest/seaweedfs-volume",
     "module/seaweedfs-constants",
