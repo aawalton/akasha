@@ -65,6 +65,56 @@ index 70cd46a81e77c88278179095a4a14d40737e6db7..509ce8a91afe0c0686d2e7cf209db840
  async function readGroups(): Promise<readonly LayoutGroup[]> {
    const seatByTerminal = new Map<vscode.Terminal, string>()
    const processByTerminal = new Map<vscode.Terminal, string>()
+diff --git a/editor-extension/editor-layout-panel/editor-layout-panel.module.ts b/editor-extension/editor-layout-panel/editor-layout-panel.module.ts
+index 8879a7f3658a4b0cfd53219d1c8e64f6e958e2b1..e34751385dfc15ccc289b43f4353941978a11dbd 100644
+--- a/editor-extension/editor-layout-panel/editor-layout-panel.module.ts
++++ b/editor-extension/editor-layout-panel/editor-layout-panel.module.ts
+@@ -4,21 +4,17 @@ export const editorLayoutPanel = {
+   id: "01a06816-69fa-7002-9dd6-1f0b942d72c6",
+   pageTypeSlug: "module",
+   slug: "editor-layout-panel",
+-  definition: "the groups, tabs and seats this window holds, projected into the pages",
++  definition: "the groups, tabs and seats this window holds, read after each change settles",
+   code: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A change to the tabs, the groups or the terminals is written after a pause.",
++      statement: "A change to the tabs, the groups or the terminals is read after a pause.",
+     },
+     {
+       invariantKind: "departure",
+       statement: "A pause restarted by a second change replaces the first.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A commit for a page written here is deferred.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A terminal tab names the seat standing in it and the process running in it.",
+@@ -41,19 +37,11 @@ export const editorLayoutPanel = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A window whose ps snapshot is empty is projected with no seat named.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The arrangement goes into the pages rather than into a file.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A write that fails leaves the arrangement as the pages hold it.",
++      statement: "A window whose ps snapshot is empty is read with no seat named.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The window is named by the process this extension host runs as.",
++      statement: "What is read goes to the observation store rather than to a page or a file.",
+     },
+   ],
+ } as const satisfies Module
 diff --git a/editor-extension/work-tree-panel/work-tree-panel.module.code.ts b/editor-extension/work-tree-panel/work-tree-panel.module.code.ts
 index be978826f2ff896986b31a4334ddb135ff30be36..c71ec28ad597923c3ca9979c121da5b284fbbe2f 100644
 --- a/editor-extension/work-tree-panel/work-tree-panel.module.code.ts
