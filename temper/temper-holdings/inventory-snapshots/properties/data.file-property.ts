@@ -40,7 +40,8 @@ export const data = {
     },
     {
       invariantKind: "stopgap",
-      statement: "The transport's division is not carried into akasha with the bytes it divided.",
+      statement:
+        "The transport's division is not carried into akasha with the bytes that transport divided.",
     },
   ],
 } as const satisfies FileProperty
