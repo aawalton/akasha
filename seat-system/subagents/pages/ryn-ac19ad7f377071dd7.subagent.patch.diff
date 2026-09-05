@@ -1,0 +1,12 @@
+diff --git a/alan/fitness/commands/exercise-today/exercise-today.command.ts b/alan/fitness/commands/exercise-today/exercise-today.command.ts
+index 17f4e616d09df74f02b91c4750d71764baf609dc..dfcc7434dce04824c0d97c37a0bd7410f4d776f1 100644
+--- a/alan/fitness/commands/exercise-today/exercise-today.command.ts
++++ b/alan/fitness/commands/exercise-today/exercise-today.command.ts
+@@ -17,7 +17,6 @@ export const exerciseToday = {
+   helpNotes: [
+     "the focus comes from the active schedule's day for the weekday the date falls on.",
+     "a day no schedule day exists for is answered with an empty focus rather than refused.",
+-    "the session answered is the newest one started on that date.",
+   ],
+   invariants: [
+     {
