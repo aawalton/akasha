@@ -131,7 +131,7 @@ index 25dadc739272e3efe656dcfe5bfb155bd828920b..e67e8c348e0d9b092d3f85f9af035265
      {
        invariantKind: "absence",
 diff --git a/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.ts b/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.ts
-index 52d0002c967a4ca3a41762d9c6d93c72f85c1465..2c932fc8f01d133993d4f15209cb9c916a27dc86 100644
+index 52d0002c967a4ca3a41762d9c6d93c72f85c1465..9f5ac54836be15a8be41c6b7c2ae2d7f553e1443 100644
 --- a/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.ts
 +++ b/hook-system/agent-hooks/block-git-writes/block-git-writes.agent-hook.ts
 @@ -25,7 +25,8 @@ export const blockGitWrites = {
@@ -144,3 +144,12 @@ index 52d0002c967a4ca3a41762d9c6d93c72f85c1465..2c932fc8f01d133993d4f15209cb9c91
      },
      {
        invariantKind: "absence",
+@@ -74,7 +75,7 @@ export const blockGitWrites = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "This reads git alone.",
++      statement: "This hook reads git alone.",
+     },
+     {
+       invariantKind: "gap",
