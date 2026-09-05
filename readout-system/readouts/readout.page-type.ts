@@ -155,7 +155,7 @@ export const readout = {
     },
     {
       invariantKind: "gap",
-      statement: "What a readout shows is stated on the readout.",
+      statement: "Everything a readout shows is stated on the readout.",
     },
     {
       invariantKind: "gap",
