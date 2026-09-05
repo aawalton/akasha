@@ -33,7 +33,8 @@ export const imessageSearch = {
     },
     {
       invariantKind: "departure",
-      statement: "The match the store makes minds the case and the match made after it does not.",
+      statement:
+        "The match the store makes minds the case and the match made after that match does not.",
     },
     {
       invariantKind: "departure",
