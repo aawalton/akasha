@@ -1,0 +1,13 @@
+diff --git a/code-system/components/component.page-type.ts b/code-system/components/component.page-type.ts
+index a09886de1fc5d1e7ce45b8d19eb575db7190ff11..7b57a389ae55dd4a309439dc887ed790c1945a28 100644
+--- a/code-system/components/component.page-type.ts
++++ b/code-system/components/component.page-type.ts
+@@ -38,7 +38,7 @@ export const component = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A component's test and the fixtures setting it up sit beside that code.",
++      statement: "A component's test and the fixtures setting that test up sit beside that code.",
+     },
+     {
+       invariantKind: "departure",
