@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/service-system/workstation-services/pages/apns-push-notifier.workstation-service.ts b/service-system/workstation-services/pages/apns-push-notifier.workstation-service.ts
+index 5c2e737b136f5bb8fa7c351aaf58062efeff106b..d79b46998253874ce44843e01028771ed02066d9 100644
+--- a/service-system/workstation-services/pages/apns-push-notifier.workstation-service.ts
++++ b/service-system/workstation-services/pages/apns-push-notifier.workstation-service.ts
+@@ -19,7 +19,7 @@ export const apnsPushNotifier = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A push is claimed before it is sent, so a notification read twice is pushed once.",
++        "A push is claimed before that push is sent, so a notification read twice is pushed once.",
+     },
+     {
+       invariantKind: "departure",
