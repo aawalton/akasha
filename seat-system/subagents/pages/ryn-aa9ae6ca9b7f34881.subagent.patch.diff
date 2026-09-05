@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/indexes/rebuilding/rebuilding.module.ts b/pages/indexes/rebuilding/rebuilding.module.ts
-index a52d846a0106ce03b4cc1d172cbee493e4835d70..ac9c6751fd6ed4ae4ebfe6cdbd305c2a286a65fa 100644
+index a52d846a0106ce03b4cc1d172cbee493e4835d70..10ccc10df6d7340eaead4d87b3bea01ab3319b61 100644
 --- a/pages/indexes/rebuilding/rebuilding.module.ts
 +++ b/pages/indexes/rebuilding/rebuilding.module.ts
 @@ -18,7 +18,7 @@ export const rebuilding = {
@@ -21,3 +21,12 @@ index a52d846a0106ce03b4cc1d172cbee493e4835d70..ac9c6751fd6ed4ae4ebfe6cdbd305c2a
      },
      {
        invariantKind: "departure",
+@@ -47,7 +47,7 @@ export const rebuilding = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here says in words what a rebuild did.",
++      statement: "Nothing here says in words the change a rebuild made.",
+     },
+   ],
+ } as const satisfies Module
