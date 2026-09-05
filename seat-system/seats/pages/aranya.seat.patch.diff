@@ -999,3 +999,11 @@ index 01a92d1cf6d77eb85f8ff4300f1d1ce4ecc74880..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-game-catalog-capture-addon
 \ No newline at end of file
+diff --git a/temper/temper-game-catalog-capture-host/temper-game-catalog-capture-host b/temper/temper-game-catalog-capture-host/temper-game-catalog-capture-host
+deleted file mode 120000
+index f0fa5d713501a0c4cf697367b10d1954dbc69543..0000000000000000000000000000000000000000
+--- a/temper/temper-game-catalog-capture-host/temper-game-catalog-capture-host
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-game-catalog-capture-host
+\ No newline at end of file
