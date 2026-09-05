@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/cluster-manifests/orphan-resource-listing/orphan-resource-listing.module.ts b/infrastructure/cluster-manifests/orphan-resource-listing/orphan-resource-listing.module.ts
+index 0a5b3ee63a77d31e7e35d5eabae61dc05a9e5895..06497c5da7ce01da40a437ec598b8fa44bc01067 100644
+--- a/infrastructure/cluster-manifests/orphan-resource-listing/orphan-resource-listing.module.ts
++++ b/infrastructure/cluster-manifests/orphan-resource-listing/orphan-resource-listing.module.ts
+@@ -19,7 +19,7 @@ export const orphanResourceListing = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A resource states what manages that resource, or states nothing and is read as managed by nothing.",
++        "A resource names its manager, or states nothing and is read as managed by nothing.",
+     },
+     {
+       invariantKind: "departure",
