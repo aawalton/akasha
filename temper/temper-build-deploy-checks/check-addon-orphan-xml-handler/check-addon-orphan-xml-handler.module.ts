@@ -22,7 +22,8 @@ export const checkAddonOrphanXmlHandler = {
     },
     {
       invariantKind: "constraint",
-      statement: "What the run left unexamined is reported beside what the run examined.",
+      statement:
+        "The population the run left unexamined is reported beside the population the run examined.",
     },
   ],
 } as const satisfies Module
