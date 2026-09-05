@@ -77,7 +77,7 @@ export const seatConditions = {
     },
     {
       invariantKind: "departure",
-      statement: "A second page standing is read as neither of them holding.",
+      statement: "A second page standing is read as neither of the two pages holding.",
     },
     {
       invariantKind: "departure",
@@ -93,7 +93,7 @@ export const seatConditions = {
     },
     {
       invariantKind: "gap",
-      statement: "Every reader of these conditions reads them from akasha.",
+      statement: "Every reader of these conditions reads these conditions from akasha.",
     },
   ],
 } as const satisfies PageType
