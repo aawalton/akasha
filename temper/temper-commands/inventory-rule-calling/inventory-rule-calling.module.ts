@@ -25,7 +25,7 @@ export const inventoryRuleCalling = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag said twice is refused rather than read as the last of them.",
+      statement: "A flag said twice is refused rather than read as the last of the two sayings.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +38,8 @@ export const inventoryRuleCalling = {
     },
     {
       invariantKind: "departure",
-      statement: "A locked rule refuses the acts that change it until the call says to force them.",
+      statement:
+        "A locked rule refuses the acts that change that rule until the call says to force those acts.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +68,7 @@ export const inventoryRuleCalling = {
     },
     {
       invariantKind: "departure",
-      statement: "A fault thrown by what this calls is answered with what it said.",
+      statement: "A fault thrown by what this calls is answered with what that fault said.",
     },
     {
       invariantKind: "departure",
@@ -75,7 +76,8 @@ export const inventoryRuleCalling = {
     },
     {
       invariantKind: "stopgap",
-      statement: "Every write here is worked out and then refused by the store it writes through.",
+      statement:
+        "Every write here is worked out and then refused by the store this module writes through.",
     },
     {
       invariantKind: "gap",
