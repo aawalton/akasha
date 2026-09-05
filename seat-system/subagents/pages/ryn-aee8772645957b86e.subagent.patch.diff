@@ -1,8 +1,8 @@
 diff --git a/ki/ki-seasons/ki-season.page-type.ts b/ki/ki-seasons/ki-season.page-type.ts
-index 45a0ae2a91f7534cd1a256a62eca5c3cb53f7c9f..7ad1f1ee8deec13ba8ed0407b0797ef6c1ae737e 100644
+index 45a0ae2a91f7534cd1a256a62eca5c3cb53f7c9f..8ee81b028cfeb68973bb9dcfcb37aed57069cb81 100644
 --- a/ki/ki-seasons/ki-season.page-type.ts
 +++ b/ki/ki-seasons/ki-season.page-type.ts
-@@ -13,16 +13,16 @@ export const kiSeason = {
+@@ -13,21 +13,21 @@ export const kiSeason = {
    invariants: [
      {
        invariantKind: "departure",
@@ -22,3 +22,9 @@ index 45a0ae2a91f7534cd1a256a62eca5c3cb53f7c9f..7ad1f1ee8deec13ba8ed0407b0797ef6
      },
      {
        invariantKind: "departure",
+       statement:
+-        "A season of Ki's has its progress summed from its episodes rather than written on it.",
++        "A season of Ki's has its progress summed from its episodes rather than written on that season.",
+     },
+   ],
+ } as const satisfies PageType
