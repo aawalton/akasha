@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/recipient-resolving/seat-identity/seat-identity.module.ts b/seat-system/recipient-resolving/seat-identity/seat-identity.module.ts
+index 064a8ce1fb870a8305f0ec363e301439c67ed174..9a71f1d03a28c000a4a2e76336267ce1d8292610 100644
+--- a/seat-system/recipient-resolving/seat-identity/seat-identity.module.ts
++++ b/seat-system/recipient-resolving/seat-identity/seat-identity.module.ts
+@@ -14,7 +14,7 @@ export const seatIdentity = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A name in an old message still resolves to whoever held that name.",
++      statement: "A name in an old message still resolves to the seat that held that name.",
+     },
+     {
+       invariantKind: "absence",
