@@ -9,7 +9,8 @@ export const orderListBoxShape = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A value a caller hands in is either the value or a function answering it.",
+      statement:
+        "A value a caller hands in is either the value or a function answering that value.",
     },
     {
       invariantKind: "departure",
