@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/notes-revert/monarch-notes-revert.module.ts b/alan/harness/monarch/notes-revert/monarch-notes-revert.module.ts
-index 65f8d33dd4df7884aa6820a28f8ee8120c646d11..3524753a9320919571f01b17fd534bbac6b54cfa 100644
+index 65f8d33dd4df7884aa6820a28f8ee8120c646d11..6671b344b63db3cec868c18c3f5aa1e1cfb299d9 100644
 --- a/alan/harness/monarch/notes-revert/monarch-notes-revert.module.ts
 +++ b/alan/harness/monarch/notes-revert/monarch-notes-revert.module.ts
 @@ -20,7 +20,7 @@ export const monarchNotesRevert = {
@@ -11,3 +11,12 @@ index 65f8d33dd4df7884aa6820a28f8ee8120c646d11..3524753a9320919571f01b17fd534bba
      },
      {
        invariantKind: "departure",
+@@ -33,7 +33,7 @@ export const monarchNotesRevert = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The live row is read on its own day before it is judged, rather than judged from our copy.",
++        "The live row is read on its own day before that row is judged, rather than judged from our copy.",
+     },
+     {
+       invariantKind: "stopgap",
