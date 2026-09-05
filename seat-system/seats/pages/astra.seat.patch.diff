@@ -60,3 +60,24 @@ index 0000000000000000000000000000000000000000..41f06df7378b3d435cc4717d454bfb14
 +    "module/use-textarea-input",
 +  ],
 +} as const satisfies Domain
+diff --git a/pages/ui/cache/pages-ui-cache.domain.ts b/pages/ui/cache/pages-ui-cache.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..051eb9fcc71d3a01dd67e1e0a3cfd322f8b2e833
+--- /dev/null
++++ b/pages/ui/cache/pages-ui-cache.domain.ts
+@@ -0,0 +1,15 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesUiCache = {
++  id: "01a071cf-25b5-79d7-8f2c-eabab6748229",
++  pageTypeSlug: "domain",
++  slug: "pages-ui-cache",
++  definition: "an answer held from before",
++  partSlugs: [
++    "module/boot-gate",
++    "module/tanstack-live",
++    "module/use-core-definitions-ready",
++    "module/use-query",
++    "module/use-view-query",
++  ],
++} as const satisfies Domain
