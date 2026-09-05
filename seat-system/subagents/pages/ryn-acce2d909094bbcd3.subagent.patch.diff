@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/seat-launching/seat-launching.module.ts b/seat-system/seat-launching/seat-launching.module.ts
+index ac438fabf7a2ecb56d03cd8e538b372458ae1e01..69c997cc54522086dd68affa22deb526139148f3 100644
+--- a/seat-system/seat-launching/seat-launching.module.ts
++++ b/seat-system/seat-launching/seat-launching.module.ts
+@@ -20,7 +20,7 @@ export const seatLaunching = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The tmux variables of the terminal launching a seat are scrubbed from what the seat inherits.",
++        "The tmux variables of the terminal launching a seat are scrubbed from the inherited environment.",
+     },
+     {
+       invariantKind: "departure",
