@@ -1,0 +1,105 @@
+diff --git a/readout-system/readout-reading/readout-reading.module.ts b/readout-system/readout-reading/readout-reading.module.ts
+index 8a4dd629683432c9efce025b9b2dc2d0824cf264..531a53bf342ef657cc26f26ca20b034f55cb0e34 100644
+--- a/readout-system/readout-reading/readout-reading.module.ts
++++ b/readout-system/readout-reading/readout-reading.module.ts
+@@ -10,8 +10,7 @@ export const readoutReading = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A reading is kept in the file standing beside the readout the reading was taken for.",
++      statement: "A reading is kept in the file beside the readout the reading was taken for.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/readout-system/readout-relay/readout-relay.module.code.ts b/readout-system/readout-relay/readout-relay.module.code.ts
+index 65517ec06f0e894c1280b10db4cd54b62d03c7fe..f63fe5d16dbe0e2d0509b62aeb29ef97f7871897 100644
+--- a/readout-system/readout-relay/readout-relay.module.code.ts
++++ b/readout-system/readout-relay/readout-relay.module.code.ts
+@@ -10,7 +10,7 @@ export const RELAY_PATH = "/api/readout-relay"
+ export const RELAY_SECRET_NAME = "READING_RELAY_SECRET"
+ 
+ export const NO_READOUT_NAMED =
+-  "no readout page was named, so there is no reading to carry. The page a reading stands beside " +
++  "no readout page was named, so there is no reading to carry. The page a reading sits beside " +
+   "is the first of the two arguments this takes."
+ 
+ export const NOWHERE_TO_CARRY_TO =
+diff --git a/readout-system/readout-relay/readout-relay.module.test.ts b/readout-system/readout-relay/readout-relay.module.test.ts
+index c056b4d6bac6911125c47ad1e5ebe3222bf13a88..a684fc94c4aa81ece52acae1337263c3366cab81 100644
+--- a/readout-system/readout-relay/readout-relay.module.test.ts
++++ b/readout-system/readout-relay/readout-relay.module.test.ts
+@@ -23,7 +23,7 @@ const PAGE = `akasha/readout-system/readouts/pages/${READOUT}/${READOUT}.readout
+ 
+ const TAKEN = "2026-08-31T12:00:00.000Z"
+ 
+-const SECRET = "a-relay-secret-standing-only-in-this-test"
++const SECRET = "a-relay-secret-existing-only-in-this-test"
+ 
+ beforeEach(() => dropRelayed())
+ 
+diff --git a/readout-system/readout-relay/readout-relay.module.ts b/readout-system/readout-relay/readout-relay.module.ts
+index 8f2a84bd43b8183df270d91dc77942d8f56eb7f1..d984bbb8540b07ec795b3717cfa43981177e4ad0 100644
+--- a/readout-system/readout-relay/readout-relay.module.ts
++++ b/readout-system/readout-relay/readout-relay.module.ts
+@@ -64,7 +64,7 @@ export const readoutRelay = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Running this file carries the reading standing beside the readout it names.",
++      statement: "Running this file carries the reading beside the readout it names.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/readout-system/rings/completion-ring.domain.ts b/readout-system/rings/completion-ring.domain.ts
+index 19b045dc17df47bd574991da955bf7873e3df2c5..ca1e3fec20d412cc8c7fecd4e24029daaf7ad921 100644
+--- a/readout-system/rings/completion-ring.domain.ts
++++ b/readout-system/rings/completion-ring.domain.ts
+@@ -39,7 +39,7 @@ export const completionRing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The words for nothing left stand beneath that emoji, or none do.",
++      statement: "The words for nothing left sit beneath that emoji, or none do.",
+     },
+   ],
+ } as const satisfies Domain
+diff --git a/readout-system/rings/ring.domain.ts b/readout-system/rings/ring.domain.ts
+index 1d06a9b9cba3db19d32b6821591c6df25c483317..2f801897371f1448d72219b4cc0ecd7017a78712 100644
+--- a/readout-system/rings/ring.domain.ts
++++ b/readout-system/rings/ring.domain.ts
+@@ -25,7 +25,7 @@ export const ring = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The figure stands inside the ring and the label below it.",
++      statement: "The figure sits inside the ring and the label below it.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/readout-system/rings/stoplight-ring.domain.ts b/readout-system/rings/stoplight-ring.domain.ts
+index a83202e123f4297ba425ead2bb99608da87573b9..d00301454c98c98d9472a1d68ec16735b19267d3 100644
+--- a/readout-system/rings/stoplight-ring.domain.ts
++++ b/readout-system/rings/stoplight-ring.domain.ts
+@@ -25,7 +25,7 @@ export const stoplightRing = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The arc is how far a reading stands toward its next rung rather than on the whole scale.",
++        "The arc is how far along a reading is toward its next rung rather than on the whole scale.",
+     },
+   ],
+ } as const satisfies Domain
+diff --git a/readout-system/stoplight/stoplight.domain.ts b/readout-system/stoplight/stoplight.domain.ts
+index bc658e514a9b6d4eb74f29c5c24f4e5073da4b16..aee1887a57c0b40150ec19f82620cea96373a30a 100644
+--- a/readout-system/stoplight/stoplight.domain.ts
++++ b/readout-system/stoplight/stoplight.domain.ts
+@@ -4,7 +4,7 @@ export const stoplight = {
+   id: "01a0655b-9cdc-7c65-845c-0fcbf73b73dc",
+   pageTypeSlug: "domain",
+   slug: "stoplight",
+-  definition: "one color saying where a reading stands now",
++  definition: "one color saying where a reading is now",
+   invariants: [
+     {
+       invariantKind: "departure",
