@@ -79,3 +79,11 @@ index e612a8745917c99921fa153a6d2e94a073a28186..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../changes/workflow-language
 \ No newline at end of file
+diff --git a/collections/royal-road/royal-road b/collections/royal-road/royal-road
+deleted file mode 120000
+index 2a7506e3cdabdf5b5226a85f6e6bdc59415d088b..0000000000000000000000000000000000000000
+--- a/collections/royal-road/royal-road
++++ /dev/null
+@@ -1 +0,0 @@
+-../../collections/royal-road
+\ No newline at end of file
