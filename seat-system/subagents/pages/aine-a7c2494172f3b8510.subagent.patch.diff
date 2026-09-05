@@ -1,5 +1,5 @@
 diff --git a/markdown-pages/markdown-page-commit-queue/markdown-page-commit-queue.module.code.ts b/markdown-pages/markdown-page-commit-queue/markdown-page-commit-queue.module.code.ts
-index 78ef253e3364a681cb7897aa1e351c94e437979d..05aaaf9d68d7d1b115f6a0dfc450354958f8343f 100644
+index 78ef253e3364a681cb7897aa1e351c94e437979d..d39c44d3bb0c065b81aea140dbe5f7100822db9d 100644
 --- a/markdown-pages/markdown-page-commit-queue/markdown-page-commit-queue.module.code.ts
 +++ b/markdown-pages/markdown-page-commit-queue/markdown-page-commit-queue.module.code.ts
 @@ -31,7 +31,7 @@ export const STALL_ATTEMPTS = 6
@@ -11,6 +11,15 @@ index 78ef253e3364a681cb7897aa1e351c94e437979d..05aaaf9d68d7d1b115f6a0dfc4503549
  
  const NAMED_CEILING = 4
  
+@@ -49,7 +49,7 @@ let deferred = false
+ 
+ let lastError: string | null = null
+ 
+-export interface Standing {
++export interface Health {
+   readonly deferred: boolean
+   readonly pending: number
+   readonly unlanded: number
 diff --git a/markdown-pages/markdown-page-write-compose/markdown-page-write-compose.module.code.ts b/markdown-pages/markdown-page-write-compose/markdown-page-write-compose.module.code.ts
 index ccdaa2a30fed633c168a53cfd72460083cbe79fc..aba26d1d0353483334c62ed6c90ee2fe8f367411 100644
 --- a/markdown-pages/markdown-page-write-compose/markdown-page-write-compose.module.code.ts
@@ -33,20 +42,23 @@ index ccdaa2a30fed633c168a53cfd72460083cbe79fc..aba26d1d0353483334c62ed6c90ee2fe
    const front = frontOf(tree, pageType, withId(merged as Record<string, Rendered>, text, at))
    return `${front}${split.body ?? bodyIn(text)}`
 diff --git a/markdown-pages/markdown-page-write-where/markdown-page-write-where.module.code.ts b/markdown-pages/markdown-page-write-where/markdown-page-write-where.module.code.ts
-index 3c84a6c4f997f6b7ffcb438f0fc92c7265e11a36..90186452b5aff4bc974d489127ccd0c8a5ec78de 100644
+index 3c84a6c4f997f6b7ffcb438f0fc92c7265e11a36..d22ebae7e2816ff244bf4776b80122f62deb6d2b 100644
 --- a/markdown-pages/markdown-page-write-where/markdown-page-write-where.module.code.ts
 +++ b/markdown-pages/markdown-page-write-where/markdown-page-write-where.module.code.ts
-@@ -32,7 +32,7 @@ export interface Where {
+@@ -32,9 +32,9 @@ export interface Where {
  }
  
  /**
 - * Where a page of this type and name stands, or where a new markdown one would.
 + * Where a page of this type and name is, or where a new markdown one would be.
   *
-  * Both halves of the question used to be the markdown half. `stands` asked `typeSuffixOf`, which
+- * Both halves of the question used to be the markdown half. `stands` asked `typeSuffixOf`, which
++ * Both halves of the question used to be the markdown half. `named` asked `typeSuffixOf`, which
   * answers the empty text for a `.ts` name, so it was false for every one of Alan's 133 moved days
+  * before the name was ever compared; `statesSlug` then read a frontmatter block a TypeScript page
+  * does not carry. Nothing was found, and the fallback built a name ending `.md` under a folder
 diff --git a/markdown-pages/markdown-page-write/markdown-page-write.module.code.ts b/markdown-pages/markdown-page-write/markdown-page-write.module.code.ts
-index e12a646ab72c39d45358e4e945d2c20d50a2e293..e8008838c0ed1e6b0cd77053a1e5790b92855fb8 100644
+index e12a646ab72c39d45358e4e945d2c20d50a2e293..36a99c78019191cae3bb2acf35a8847e503c145a 100644
 --- a/markdown-pages/markdown-page-write/markdown-page-write.module.code.ts
 +++ b/markdown-pages/markdown-page-write/markdown-page-write.module.code.ts
 @@ -106,9 +106,9 @@ function clearRows(tree: FileTree, pageType: string, at: Where): readonly Taken[
@@ -61,3 +73,14 @@ index e12a646ab72c39d45358e4e945d2c20d50a2e293..e8008838c0ed1e6b0cd77053a1e5790b
        })
        if (pages !== null) took.push({ at: part.at, pageType: holding.target, pages })
      }
+@@ -143,8 +143,8 @@ export async function writePage(
+     composing: [
+       {
+         relPath: at.relPath,
+-        compose: async (standing) => {
+-          const held = standing ?? ""
++        compose: async (before) => {
++          const held = before ?? ""
+           const front = withId(await withSeq(roots, pageType, split.front, held), held, at)
+           return `${frontOf(tree, pageType, front)}${split.body ?? ""}`
+         },
