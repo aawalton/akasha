@@ -1,20 +1,7 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
-import type { Action } from "../rules/properties/action.relation-property.ts"
-import type { Active } from "../rules/properties/active.boolean-property.ts"
-import type { Conditions } from "../rules/properties/conditions.page-property-entry.ts"
-import type { Destination } from "../rules/properties/destination.text-property.ts"
-import type { Goal } from "../rules/properties/goal.relation-property.ts"
-import type { StockScope } from "../rules/properties/stock-scope.select-property.ts"
+import type { TemperRule } from "../rules/temper-rule.page-type.ts"
 
-export type TemperRuleTemplate = TemperProgressThing & {
-  action: Action
-  active: Active
-  goal: Goal
-  conditions?: Conditions
-  destination?: Destination
-  stockScope?: StockScope
-}
+export type TemperRuleTemplate = TemperRule
 
 export const temperRuleTemplate = {
   id: "01a05fd0-3aa6-7646-b33d-56f120ee1438",
@@ -22,8 +9,7 @@ export const temperRuleTemplate = {
   slug: "temper-rule-template",
   definition: "a ready-made rule for what to do with an item",
   pluralSlug: "temper-rule-templates",
-  extendsSlug: ["page-type/temper-progress-thing"],
-  partSlugs: [],
+  extendsSlug: ["page-type/temper-rule"],
   properties: [
     { pagePropertySlug: "key", required: true, many: false },
     { pagePropertySlug: "description", required: true, many: false },
@@ -32,23 +18,12 @@ export const temperRuleTemplate = {
     { pagePropertySlug: "action", required: true, many: false },
     { pagePropertySlug: "active", required: true, many: false },
     { pagePropertySlug: "goal", required: true, many: false },
-    { pagePropertySlug: "conditions", required: false, many: false },
-    { pagePropertySlug: "destination", required: false, many: false },
-    { pagePropertySlug: "stock-scope", required: false, many: false },
   ],
   invariants: [
     {
       invariantKind: "departure",
       statement:
         "A template is offered to a reader rather than acted on where the template is off.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Only a rule whose action moves an item states a destination.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "What a rule does to an item is done outside these pages.",
     },
   ],
 } as const satisfies PageType
