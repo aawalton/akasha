@@ -470,3 +470,20 @@ index 773b1e3341ac24d0e6a8cd3f8fa33abf3bcad196..f3fd6979c2b99d5b2790aeefe13a90e5
  test("the glass is no flag this takes", async () => {
    const said = await tracking(["--file-path", AT, "--break-the-glass", "because"], givenIn())
    expect(said.refusals).toEqual([NO_GLASS])
+diff --git a/commands/tracking/tracking.command.ts b/commands/tracking/tracking.command.ts
+index 42308bcaa089b6011c36cbaa499735976300bcc7..0fbbc25f8c037ad5f849b60f283d57f37a3bd2af 100644
+--- a/commands/tracking/tracking.command.ts
++++ b/commands/tracking/tracking.command.ts
+@@ -33,7 +33,11 @@ export const tracking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a call asks for is read and landed by `write`.",
++      statement: "What a call asks for is read by `write` and landed by `tracking-landing`.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "This reads the arguments, and the function it calls knows no command line.",
+     },
+     {
+       invariantKind: "departure",
