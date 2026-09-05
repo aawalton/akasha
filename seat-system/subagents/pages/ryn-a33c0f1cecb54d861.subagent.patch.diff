@@ -1,14 +1,20 @@
 runsWarrants: false
 diff --git a/command-system/drafting/drafting.module.ts b/command-system/drafting/drafting.module.ts
-index 82e98862240e4008880eca617963c92a76e7a7a2..eeaa90e343aa1982a6f361d136488e7c94dadec4 100644
+index 82e98862240e4008880eca617963c92a76e7a7a2..371166f13be66d1078b155692cd7b7d95ecf40d1 100644
 --- a/command-system/drafting/drafting.module.ts
 +++ b/command-system/drafting/drafting.module.ts
-@@ -154,7 +154,7 @@ export const drafting = {
+@@ -154,11 +154,12 @@ export const drafting = {
      },
      {
        invariantKind: "departure",
 -      statement: "What the patch would hold is answered without the patch being written.",
 +      statement: "The bodies a patch would hold are answered without the patch being written.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the patch would hold is the patch rebased with the draft folded in.",
++      statement:
++        "The bodies a patch would hold are the bodies of that patch rebased with the draft folded in.",
      },
      {
        invariantKind: "departure",
