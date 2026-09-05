@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/amazon-order/monarch-amazon-order.module.ts b/alan/harness/monarch/amazon-order/monarch-amazon-order.module.ts
+index 22f6be1a66a96b63c00b912b0720403697a9feb3..9f5cf747f579d8dbbcba7f94a7f6ee0a305df447 100644
+--- a/alan/harness/monarch/amazon-order/monarch-amazon-order.module.ts
++++ b/alan/harness/monarch/amazon-order/monarch-amazon-order.module.ts
+@@ -33,7 +33,7 @@ export const monarchAmazonOrder = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A summary is what the subject says after its first colon.",
++      statement: "A summary is the text the subject says after its first colon.",
+     },
+     {
+       invariantKind: "departure",
