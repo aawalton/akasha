@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.test.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.test.ts
-index 7590169c5f0dc68f2be60eb2ed91c2e8b35bf61f..15066dd8ff05b8f9ea78b3b73dc9fc4567c06b99 100644
+index 7590169c5f0dc68f2be60eb2ed91c2e8b35bf61f..65a549a84f02730e07acfe9766d7d301c5360b4f 100644
 --- a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.test.ts
 +++ b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.test.ts
 @@ -58,7 +58,7 @@ test("every folder above a path is an ancestor, nearest first", () => {
@@ -29,6 +29,15 @@ index 7590169c5f0dc68f2be60eb2ed91c2e8b35bf61f..15066dd8ff05b8f9ea78b3b73dc9fc45
    const root = rooted()
    const said = judged(
      arriving(root, {
+@@ -322,7 +322,7 @@ test("a name no property states is a stray though a page claims the path", () =>
+   expect(said.map((each) => each.path)).toEqual(["akasha/b"])
+ })
+ 
+-test("the page a claimed file stands beside is the one the index names", () => {
++test("the page a claimed file sits beside is the one the index names", () => {
+   expect(pageNameOf("akasha/pages-system/indexes/indexes.workspace-package.ts")).toBe(
+     "indexes.workspace-package"
+   )
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.ts
 index 568e8d06586ed3422f88edcf9a08275783d362d1..a5820de09574cb11a735d5a2040c2880bf9bd4d8 100644
 --- a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.ts
