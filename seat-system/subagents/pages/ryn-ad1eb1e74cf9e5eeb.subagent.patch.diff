@@ -1,5 +1,5 @@
 diff --git a/mathematics/propositions/proposition.page-type.ts b/mathematics/propositions/proposition.page-type.ts
-index f417c9fa7c4214fd146f99ef7a1d18f33be08619..db3d91e042fcb37b2f3a7ef63b72e1bf94e427d3 100644
+index f417c9fa7c4214fd146f99ef7a1d18f33be08619..75025bbfcfd47e033db989df0592c23e22dc5b6d 100644
 --- a/mathematics/propositions/proposition.page-type.ts
 +++ b/mathematics/propositions/proposition.page-type.ts
 @@ -33,7 +33,8 @@ export const proposition = {
@@ -12,3 +12,12 @@ index f417c9fa7c4214fd146f99ef7a1d18f33be08619..db3d91e042fcb37b2f3a7ef63b72e1bf
      },
      {
        invariantKind: "departure",
+@@ -41,7 +42,7 @@ export const proposition = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A proposition names no proof that attempts it.",
++      statement: "A proposition names no proof that attempts that proposition.",
+     },
+   ],
+ } as const satisfies PageType
