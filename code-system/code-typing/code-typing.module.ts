@@ -59,7 +59,7 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "Where a key one file spells resolves is answered beside what a shorthand names.",
+      statement: "Where a key one file spells resolves is answered beside a shorthand's names.",
     },
     {
       invariantKind: "departure",
@@ -72,7 +72,7 @@ export const codeTyping = {
     {
       invariantKind: "departure",
       statement:
-        "What a shorthand names is answered as the declarations the checker resolves the shorthand to.",
+        "A shorthand's names are answered as the declarations the checker resolves that shorthand to.",
     },
     {
       invariantKind: "departure",
@@ -104,7 +104,8 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "What a name reaches from a place is answered from the scopes over that place.",
+      statement:
+        "The declarations a name reaches from a place are answered from the scopes over that place.",
     },
     {
       invariantKind: "departure",
@@ -134,7 +135,7 @@ export const codeTyping = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here judges what this module finds.",
+      statement: "Nothing here judges the answers this module finds.",
     },
     {
       invariantKind: "departure",
