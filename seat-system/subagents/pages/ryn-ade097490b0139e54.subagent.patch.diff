@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/commit-author/commit-author.module.ts b/command-system/commit-author/commit-author.module.ts
+index c91fbf4459d64795a5453bda54390da77c8c9c5e..03246f19303f5c210c390eeb5058b3f72f03f2e7 100644
+--- a/command-system/commit-author/commit-author.module.ts
++++ b/command-system/commit-author/commit-author.module.ts
+@@ -29,7 +29,7 @@ export const commitAuthor = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A subagent declares no persona of its own and is answered from the seat it was spawned under.",
++        "A subagent declares no persona of its own and is answered from the seat that spawned the subagent.",
+     },
+     {
+       invariantKind: "departure",
