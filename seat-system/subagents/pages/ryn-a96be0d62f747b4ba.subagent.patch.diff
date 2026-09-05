@@ -104,3 +104,23 @@ index 5b1a9ec40fc32219ff404e4d1e644d17402200fc..9d7c05acdd1b187ea2996170a54b24c2
      },
      {
        invariantKind: "departure",
+diff --git a/reminder-system/due-reminder-sending/due-reminder-sending.module.ts b/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
+index ec53e80dbd93fd8acc7315ba63d3a332090873ca..64d660b517692f81cd112c29a5e3672f48261e44 100644
+--- a/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
++++ b/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
+@@ -11,10 +11,14 @@ export const dueReminderSending = {
+       invariantKind: "departure",
+       statement: "A reminder that has come due becomes a message file, and nothing else.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "Whom the words reach is left to the recipient resolver.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
+-        "Whom the words reach is left to the recipient resolver, which treats this message as it treats any other.",
++        "The recipient resolver treats this message as that resolver treats any other message.",
+     },
+     {
+       invariantKind: "absence",
