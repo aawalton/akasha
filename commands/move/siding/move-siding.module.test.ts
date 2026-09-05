@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { said as gitIn } from "@akasha/git/git-running"
-import { pathFiled, rebuiltIn } from "@akasha/indexes/testing"
+import { listedFiled, pathFiled, rebuiltIn } from "@akasha/indexes/testing"
 import { declaringUnder } from "@akasha/testing-system/declaring"
 import { mintedId } from "@akasha/testing-system/minting"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
@@ -32,8 +32,10 @@ const RENAMED = "akasha/one/renamed.module.code.ts"
 
 const MODULE_TYPE = "akasha/module.page-type.ts"
 
+const MODULE_ID = "01a0721d-c28b-76d2-b22f-a96dd24101de"
+
 const MODULE_BODY = `export const it = {
-  id: "01a0721d-c28b-76d2-b22f-a96dd24101de",
+  id: "${MODULE_ID}",
   pageTypeSlug: "page-type",
   slug: "module",
   extendsSlug: [],
@@ -72,6 +74,7 @@ function worldWith(
     writeFileSync(at, body)
   }
   rebuiltIn(root, TREE)
+  listedFiled(root, "page-type", "module", [{ path: MODULE_TYPE, id: MODULE_ID }])
   for (const [path, page] of Object.entries(filed)) {
     pathFiled(root, path, [{ path: page, id: mintedId(page) }])
   }
