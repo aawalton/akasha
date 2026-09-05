@@ -102,3 +102,43 @@ index cf90581297fcd651700b74bd297b75564b9d9b8b..c00211e3d571091e15b7f42b7ce4fdf6
      },
    ],
  } as const satisfies Module
+diff --git a/checks/code-checks/pages/email-address-is-well-formed/email-address-is-well-formed.code-check.ts b/checks/code-checks/pages/email-address-is-well-formed/email-address-is-well-formed.code-check.ts
+index 1126c1004a1dc9807db80c584d431aac13e48649..068729ded8fcee3b41e413a293895ee41dd1b7ac 100644
+--- a/checks/code-checks/pages/email-address-is-well-formed/email-address-is-well-formed.code-check.ts
++++ b/checks/code-checks/pages/email-address-is-well-formed/email-address-is-well-formed.code-check.ts
+@@ -43,7 +43,7 @@ export const emailAddressIsWellFormed = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An address longer than that is refused for its length alone.",
++      statement: "An address longer than 254 characters is refused for its length alone.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.ts
+index dd79a5c15be13f949817710805ee9c50c854d370..6d9831c63b8626df68044b9b0cddbc13ec779032 100644
+--- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.ts
++++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.ts
+@@ -43,7 +43,8 @@ export const noAkashaCommandFromCode = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A process a program starts to outlive its caller is not this.",
++      statement:
++        "A process a program starts to outlive its caller is not the call this rule refuses.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.ts b/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.ts
+index b55e659399d0eb90af4966c5b66b462615f907ac..9e6965e1b387ca9094d1a2f2be7d2669ca0568ef 100644
+--- a/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.ts
++++ b/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.ts
+@@ -18,7 +18,7 @@ export const propertyIsDeclaredByAType = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "This holds the properties tree to the parts tree one page at a time.",
++      statement: "This check holds the properties tree to the parts tree one page at a time.",
+     },
+     {
+       invariantKind: "departure",
