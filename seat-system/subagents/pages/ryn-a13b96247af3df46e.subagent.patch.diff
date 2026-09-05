@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/monarch-merchants/properties/merchant-patterns.text-property.ts b/alan/harness/monarch/monarch-merchants/properties/merchant-patterns.text-property.ts
+index 37faee0705bac35165c70e71c52bed2015db440d..d2f1a7545cd1371e2b465583b1a1936ce28e0419 100644
+--- a/alan/harness/monarch/monarch-merchants/properties/merchant-patterns.text-property.ts
++++ b/alan/harness/monarch/monarch-merchants/properties/merchant-patterns.text-property.ts
+@@ -17,7 +17,7 @@ export const merchantPatterns = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A pattern matches where the bank's line holds it anywhere.",
++      statement: "A pattern matches where the bank's line holds that pattern anywhere.",
+     },
+   ],
+ } as const satisfies TextProperty
