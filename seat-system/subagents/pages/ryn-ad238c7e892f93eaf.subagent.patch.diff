@@ -1,0 +1,14 @@
+diff --git a/story/stories-played/story-played.page-type.ts b/story/stories-played/story-played.page-type.ts
+index c9541f3519d59e677f8e73c86fdeb1ba73f32b88..fbbab1fb2a708af0b3be68b5d3b1f69376822e8f 100644
+--- a/story/stories-played/story-played.page-type.ts
++++ b/story/stories-played/story-played.page-type.ts
+@@ -29,9 +29,5 @@ export const storyPlayed = {
+       invariantKind: "departure",
+       statement: "A story played was made in play rather than written before the play.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A story names the world the story is of.",
+-    },
+   ],
+ } as const satisfies PageType
