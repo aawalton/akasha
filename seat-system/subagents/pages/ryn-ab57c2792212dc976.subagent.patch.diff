@@ -1,0 +1,14 @@
+diff --git a/alan/harness/monarch/sync/monarch-sync.module.ts b/alan/harness/monarch/sync/monarch-sync.module.ts
+index c75bb0c787bfd192ce98027946ac44e4a600c944..36ada22079f18b11fd443b6f171f327b9eb06e7e 100644
+--- a/alan/harness/monarch/sync/monarch-sync.module.ts
++++ b/alan/harness/monarch/sync/monarch-sync.module.ts
+@@ -10,8 +10,7 @@ export const monarchSync = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The full pass is what repairs the minutely poll, because the poll fetches no accounts and lands no categories.",
++      statement: "The full pass is what repairs the minutely poll.",
+     },
+     {
+       invariantKind: "departure",
