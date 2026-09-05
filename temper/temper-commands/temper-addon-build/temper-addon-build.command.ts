@@ -82,7 +82,7 @@ export const temperAddonBuild = {
     },
     {
       invariantKind: "gap",
-      statement: "Installing what was built waits on the command that installs.",
+      statement: "Installing the build output waits on the command that installs.",
     },
   ],
 } as const satisfies Command
