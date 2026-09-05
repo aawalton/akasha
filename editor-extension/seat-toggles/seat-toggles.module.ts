@@ -11,7 +11,7 @@ export const seatToggles = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A running seat is stopped whatever place it holds.",
+      statement: "A running seat is stopped whatever place that seat holds.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,7 @@ export const seatToggles = {
     },
     {
       invariantKind: "departure",
-      statement: "A row's context value names whether the seat runs and where it is.",
+      statement: "A row's context value names whether the seat runs and where that seat is.",
     },
     {
       invariantKind: "departure",
