@@ -12,10 +12,10 @@ index 9f02eb135e886c9873718afbfdb7f9a3ff7f2ed7..5542bfd6e088d8cd9520f077c35096cb
    }
    const one = standing.pages[0]
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.test.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.test.ts
-index 05f404f2876d746e3cf260cdad7411f1513eb1aa..98311445d3e5e600633a19d973a6e4a3bd85442b 100644
+index 05f404f2876d746e3cf260cdad7411f1513eb1aa..d1238d7a1f49feea4898199f93239f9fb94524e1 100644
 --- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.test.ts
 +++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.test.ts
-@@ -12,7 +12,7 @@ test("a folder holding no file at all takes the shape", () => {
+@@ -12,12 +12,12 @@ test("a folder holding no file at all takes the shape", () => {
    expect(onePageWithItsProperties(folder([]))).toEqual([])
  })
  
@@ -24,11 +24,17 @@ index 05f404f2876d746e3cf260cdad7411f1513eb1aa..98311445d3e5e600633a19d973a6e4a3
    const said = onePageWithItsProperties(folder(["one.domain.ts", "notes.txt"]))
    expect(said.some((each) => each.includes("notes.txt"))).toBe(true)
  })
+ 
+-test("one page with the files standing beside it takes the shape", () => {
++test("one page with the files sitting beside it takes the shape", () => {
+   const said = onePageWithItsProperties(
+     folder(["one.check.ts", "one.check.code.ts", "one.check.test.ts"])
+   )
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.ts
-index 30b10b64f6c0ab6da694b822536a13ba61302f44..e65148fea5c2864bcc0fa55dd43c647f532c1582 100644
+index 30b10b64f6c0ab6da694b822536a13ba61302f44..6f7df0498ddaa7eda708c330a8ad5ab5fc91cf51 100644
 --- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.ts
 +++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/one-page-with-its-properties/one-page-with-its-properties.folder-shape.ts
-@@ -4,7 +4,7 @@ export const onePageWithItsProperties = {
+@@ -4,14 +4,14 @@ export const onePageWithItsProperties = {
    id: "01a04e33-f281-70c7-9469-ffdb23becd61",
    pageTypeSlug: "folder-shape",
    slug: "one-page-with-its-properties",
@@ -37,6 +43,14 @@ index 30b10b64f6c0ab6da694b822536a13ba61302f44..e65148fea5c2864bcc0fa55dd43c647f
    code: "ts",
    test: "ts",
    enabled: false,
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A file standing beside a page answers which page the file stands beside.",
++      statement: "A file sitting beside a page answers which page the file sits beside.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-one-type/pages-of-one-type.folder-shape.code.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-one-type/pages-of-one-type.folder-shape.code.ts
 index 54a1316dc6e718a6c3fc53cd30d56533b10de40a..ee212953a2a44fec56fe3d19e25636bdc77e62c3 100644
 --- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-one-type/pages-of-one-type.folder-shape.code.ts
@@ -51,7 +65,7 @@ index 54a1316dc6e718a6c3fc53cd30d56533b10de40a..ee212953a2a44fec56fe3d19e25636bd
    }
    if (standing.properties.length > 0) {
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-one-type/pages-of-one-type.folder-shape.test.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-one-type/pages-of-one-type.folder-shape.test.ts
-index 545d8e51a50b598b689dd20e0b73b2499e57f781..8c2f566702078be981164da5b460eed648e0d4bf 100644
+index 545d8e51a50b598b689dd20e0b73b2499e57f781..1da3369d795fe43e30f6d4cf50e701cfabe45e7d 100644
 --- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-one-type/pages-of-one-type.folder-shape.test.ts
 +++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-one-type/pages-of-one-type.folder-shape.test.ts
 @@ -12,7 +12,7 @@ test("a folder holding no file at all takes the shape", () => {
@@ -63,6 +77,15 @@ index 545d8e51a50b598b689dd20e0b73b2499e57f781..8c2f566702078be981164da5b460eed6
    const said = pagesOfOneType(folder(["one.domain.ts", "notes.txt"]))
    expect(said.some((each) => each.includes("notes.txt"))).toBe(true)
  })
+@@ -27,7 +27,7 @@ test("pages of two page types are refused, and the reason names both", () => {
+   expect(said[0]).toContain("2 page types: domain, module")
+ })
+ 
+-test("a file standing beside a page is refused, because this shape holds pages alone", () => {
++test("a file sitting beside a page is refused, because this shape holds pages alone", () => {
+   const said = pagesOfOneType(folder(["one.module.ts", "one.module.code.ts"]))
+   expect(said).toHaveLength(1)
+   expect(said[0]).toContain("stand beside a page")
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-one-type/pages-of-one-type.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-one-type/pages-of-one-type.folder-shape.ts
 index a43be26aeb01b16a76253e0a0350cd3bef8f3459..ce11f1a94d8ed5704e1249530736a7540d209fb5 100644
 --- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/pages-of-one-type/pages-of-one-type.folder-shape.ts
