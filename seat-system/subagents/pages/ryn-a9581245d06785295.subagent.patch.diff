@@ -1,5 +1,5 @@
 diff --git a/commands/read/read.command.ts b/commands/read/read.command.ts
-index cb4000454fd7c993da8893fbba3282b9e6f19356..6d3c7c19e2bbc516b2ca4ab34e2679c1203f7807 100644
+index cb4000454fd7c993da8893fbba3282b9e6f19356..9ad4092c1c61e6c2f382535b378527bbfef3670a 100644
 --- a/commands/read/read.command.ts
 +++ b/commands/read/read.command.ts
 @@ -44,7 +44,7 @@ export const read = {
@@ -11,3 +11,12 @@ index cb4000454fd7c993da8893fbba3282b9e6f19356..6d3c7c19e2bbc516b2ca4ab34e2679c1
      },
      {
        invariantKind: "departure",
+@@ -67,7 +67,7 @@ export const read = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A body that would not open is refused with why it would not.",
++      statement: "A body that would not open is refused with why that body would not.",
+     },
+     {
+       invariantKind: "absence",
