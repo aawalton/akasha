@@ -1,13 +1,18 @@
 diff --git a/checks/modules/change-walking/change-walking.module.ts b/checks/modules/change-walking/change-walking.module.ts
-index 8330360b1d34e6e5b770df87a572a43486a61ecf..654119577458bdc5546cab139b46f27ecd65379d 100644
+index 8330360b1d34e6e5b770df87a572a43486a61ecf..6271446bec4f7b728002dff71e1d0723ab6578cd 100644
 --- a/checks/modules/change-walking/change-walking.module.ts
 +++ b/checks/modules/change-walking/change-walking.module.ts
-@@ -38,7 +38,7 @@ export const changeWalking = {
+@@ -38,11 +38,11 @@ export const changeWalking = {
      },
      {
        invariantKind: "departure",
 -      statement: "A body that stands and will not open refuses the check reading that body.",
 +      statement: "A body that is there and will not open refuses the check reading that body.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A path standing at nothing reads as nothing rather than as unreadable.",
++      statement: "A path nothing sits at reads as nothing rather than as unreadable.",
      },
      {
        invariantKind: "departure",
