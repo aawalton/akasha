@@ -58,7 +58,7 @@ export const mobileCut = {
     },
     {
       invariantKind: "departure",
-      statement: "A cut names the app that cut is of rather than repeating what that app is.",
+      statement: "A cut names the app that cut is of rather than repeating that app's values.",
     },
   ],
 } as const satisfies PageType
