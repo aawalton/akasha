@@ -9,11 +9,11 @@ export const supervisorBootStage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A stage still pending past its notice window says so while it waits.",
+      statement: "A stage still pending past its notice window says so while that stage waits.",
     },
     {
       invariantKind: "departure",
-      statement: "A stage that throws says how long it ran before it threw.",
+      statement: "A stage that throws says how long that stage ran before that stage threw.",
     },
   ],
 } as const satisfies Module
