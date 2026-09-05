@@ -9,7 +9,7 @@ export const invokedSeat = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A command invoked from a terminal tab reaches the seat standing in that tab.",
+      statement: "A command invoked from a terminal tab reaches the seat in that tab.",
     },
     {
       invariantKind: "departure",

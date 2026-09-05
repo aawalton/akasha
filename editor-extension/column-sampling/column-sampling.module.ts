@@ -21,7 +21,7 @@ export const columnSampling = {
     },
     {
       invariantKind: "departure",
-      statement: "How many seat terminals stand here and how many sit in a group are recorded.",
+      statement: "How many seat terminals are here and how many sit in a group are recorded.",
     },
     {
       invariantKind: "departure",

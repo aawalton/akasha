@@ -64,7 +64,7 @@ describe("the menus the manifest hangs on a row", () => {
     ])
   })
 
-  test("a context value names whether the seat runs and where it stands", () => {
+  test("a context value names whether the seat runs and where it is", () => {
     expect(seatContextValue(true, "interactive")).toBe("seat.running.interactive")
     expect(seatContextValue(false, "headless")).toBe("seat.stopped.headless")
   })

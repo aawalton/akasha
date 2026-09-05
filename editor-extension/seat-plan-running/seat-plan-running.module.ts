@@ -17,7 +17,7 @@ export const seatPlanRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A prompt is shown as a modal, so nothing runs while it stands.",
+      statement: "A prompt is shown as a modal, so nothing runs while it is open.",
     },
     {
       invariantKind: "departure",

@@ -35,7 +35,7 @@ export const seatToggles = {
     },
     {
       invariantKind: "departure",
-      statement: "A row's context value names whether the seat runs and where it stands.",
+      statement: "A row's context value names whether the seat runs and where it is.",
     },
     {
       invariantKind: "absence",

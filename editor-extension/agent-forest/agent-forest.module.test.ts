@@ -54,7 +54,7 @@ describe("the seats a forest hangs together", () => {
     expect(roots).toEqual([])
   })
 
-  test("a stopped seat stands where something under it still runs", () => {
+  test("a stopped seat remains where something under it still runs", () => {
     const roots = assembleForest(
       [row("p", "parent", null), row("c", "child", "p")],
       LIVE("c"),

@@ -9,7 +9,7 @@ export const columnMemory = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat seen in no column leaves what was remembered for it standing.",
+      statement: "A seat seen in no column leaves what was remembered for it as it was.",
     },
     {
       invariantKind: "departure",

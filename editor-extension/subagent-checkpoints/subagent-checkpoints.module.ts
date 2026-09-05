@@ -34,7 +34,7 @@ export const subagentCheckpoints = {
     },
     {
       invariantKind: "departure",
-      statement: "The book stands under the ops cache in the home directory.",
+      statement: "The book sits under the ops cache in the home directory.",
     },
     {
       invariantKind: "absence",

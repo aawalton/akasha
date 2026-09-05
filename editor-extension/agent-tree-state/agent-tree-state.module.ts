@@ -14,7 +14,7 @@ export const agentTreeState = {
     },
     {
       invariantKind: "departure",
-      statement: "A forest and a set of seat tabs stand empty until the first read replaces them.",
+      statement: "A forest and a set of seat tabs are empty until the first read replaces them.",
     },
     {
       invariantKind: "absence",

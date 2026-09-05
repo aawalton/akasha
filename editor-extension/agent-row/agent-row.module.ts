@@ -37,7 +37,7 @@ export const agentRow = {
     },
     {
       invariantKind: "gap",
-      statement: "The shape stands apart from its composer so either can land first.",
+      statement: "The shape sits apart from its composer so either can land first.",
     },
   ],
 } as const satisfies Module
