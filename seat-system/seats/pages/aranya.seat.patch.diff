@@ -1,16 +1,153 @@
 diff --git a/infrastructure/cluster-manifests/cluster-manifests.workspace-package.ts b/infrastructure/cluster-manifests/cluster-manifests.workspace-package.ts
-index a5120965c7a2a7ca47d58b117c0980c46e3b9adc..630329baee94c16003cc937dcf126770d71ea802 100644
+index a5120965c7a2a7ca47d58b117c0980c46e3b9adc..60abe49323be2880f973b88766b1ecfd41dd158f 100644
 --- a/infrastructure/cluster-manifests/cluster-manifests.workspace-package.ts
 +++ b/infrastructure/cluster-manifests/cluster-manifests.workspace-package.ts
-@@ -20,7 +20,7 @@ export const clusterManifests = {
+@@ -20,7 +20,10 @@ export const clusterManifests = {
      "module/cloudflared-rbac",
      "module/cloudnative-pg-rbac",
      "module/cloudnative-pg-synth",
 -    "manifest/cnpg-cluster",
++<<<<<<< what this change would leave
 +    "module/cnpg-cluster",
++=======
++>>>>>>> what HEAD holds
      "manifest/cnpg-object-store",
      "manifest/cnpg-scheduled-backup",
      "module/collections-rbac",
+diff --git a/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.manifest.code.ts b/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.manifest.code.ts
+deleted file mode 100644
+index 53f432e0acb9c459f679378de93c8ff0c8be60b3..0000000000000000000000000000000000000000
+--- a/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.manifest.code.ts
++++ /dev/null
+@@ -1,113 +0,0 @@
+-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+-import { workloadClassMemberSelector } from "@akasha/k8s-types/hostnames"
+-
+-const NAMESPACE = "postgres"
+-
+-const CNPG_IMAGE =
+-  "registry.registry.svc.cluster.local:5000/cluster/postgres-cnpg:18-ts2.24-pgcron-pgnet-wal2json-pgjsonschema-r1"
+-
+-const SOURCE = "postgres-legacy"
+-
+-export function cnpgClusterYaml(): string {
+-  return synthOne(NAMESPACE, "postgres-cnpg-cluster", {
+-    apiVersion: "postgresql.cnpg.io/v1",
+-    kind: "Cluster",
+-    metadata: {
+-      name: "postgres-cnpg",
+-      namespace: NAMESPACE,
+-    },
+-    spec: {
+-      instances: 2,
+-      imageName: CNPG_IMAGE,
+-      imagePullPolicy: "IfNotPresent",
+-
+-      enableSuperuserAccess: true,
+-      superuserSecret: { name: "postgres-cnpg-superuser" },
+-
+-      managed: {
+-        roles: [
+-          {
+-            name: "grafana_ro",
+-            ensure: "present",
+-            login: true,
+-            superuser: false,
+-            createdb: false,
+-            createrole: false,
+-            inRoles: ["pg_monitor"],
+-            passwordSecret: { name: "grafana-ro-password" },
+-          },
+-          {
+-            name: "agent_adhoc",
+-            ensure: "present",
+-            login: true,
+-            superuser: false,
+-            createdb: false,
+-            createrole: false,
+-            inherit: true,
+-            bypassrls: true,
+-            inRoles: ["pg_read_all_data"],
+-            passwordSecret: { name: "agent-adhoc-password" },
+-          },
+-        ],
+-      },
+-
+-      bootstrap: { pg_basebackup: { source: SOURCE } },
+-      replica: { enabled: false, source: SOURCE },
+-      externalClusters: [
+-        {
+-          name: SOURCE,
+-          connectionParameters: {
+-            host: "postgres.postgres.svc.cluster.local",
+-            port: "5432",
+-            user: "postgres",
+-            dbname: "postgres",
+-            sslmode: "disable",
+-          },
+-          password: { name: "postgres-cnpg-superuser", key: "password" },
+-        },
+-      ],
+-
+-      plugins: [
+-        {
+-          name: "barman-cloud.cloudnative-pg.io",
+-          isWALArchiver: true,
+-          parameters: { barmanObjectName: "postgres-cnpg-backup-store" },
+-        },
+-      ],
+-
+-      postgresql: {
+-        shared_preload_libraries: ["timescaledb", "pg_cron", "pg_net", "pg_stat_statements"],
+-        parameters: {
+-          shared_buffers: "8GB",
+-          effective_cache_size: "18GB",
+-          maintenance_work_mem: "2GB",
+-          work_mem: "32MB",
+-          max_connections: "500",
+-          max_wal_senders: "20",
+-          max_replication_slots: "32",
+-          max_slot_wal_keep_size: "10GB",
+-          "cron.database_name": "postgres",
+-          "pg_stat_statements.track": "all",
+-          idle_in_transaction_session_timeout: "120s",
+-          jit: "off",
+-        },
+-      },
+-
+-      storage: { size: "100Gi", storageClass: "" },
+-      walStorage: { size: "20Gi", storageClass: "" },
+-
+-      resources: {
+-        requests: { memory: "20Gi", cpu: "4" },
+-        limits: { memory: "20Gi", cpu: "4" },
+-      },
+-
+-      switchoverDelay: 300,
+-
+-      affinity: {
+-        nodeSelector: workloadClassMemberSelector("database"),
+-        enablePodAntiAffinity: true,
+-        podAntiAffinityType: "required",
+-      },
+-    },
+-  })
+-}
+diff --git a/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.manifest.ts b/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.manifest.ts
+deleted file mode 100644
+index 98a4520a4ea7bd66d82f661b5fb7399e038b005a..0000000000000000000000000000000000000000
+--- a/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.manifest.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Manifest } from "@akasha/k8s-types/manifest"
+-
+-export const cnpgCluster = {
+-  id: "01a06810-1262-718e-a2b3-5eb33330f9f5",
+-  pageTypeSlug: "manifest",
+-  slug: "cnpg-cluster",
+-  definition: "the managed Postgres cluster and the instances it keeps",
+-  code: "ts",
+-} as const satisfies Manifest
 diff --git a/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.module.code.ts b/infrastructure/cluster-manifests/cnpg-cluster/cnpg-cluster.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..53f432e0acb9c459f679378de93c8ff0c8be60b3
@@ -145,3 +282,15 @@ index 0000000000000000000000000000000000000000..fceb2e8c93dcda106c2660cc50904705
 +  definition: "the managed Postgres cluster and the instances it keeps",
 +  code: "ts",
 +} as const satisfies Module
+diff --git a/infrastructure/cluster-manifests/package.json b/infrastructure/cluster-manifests/package.json
+index 2e3f1f19ad85a1923ea5d149c7560f380f47bd64..4fdd5ae07c185fefe04a12503f9d33760694a558 100644
+--- a/infrastructure/cluster-manifests/package.json
++++ b/infrastructure/cluster-manifests/package.json
+@@ -13,7 +13,6 @@
+     "./ci-namespace-synth": "./ci-namespace-synth/ci-namespace-synth.module.code.ts",
+     "./cloudflared-rbac": "./cloudflared-rbac/cloudflared-rbac.module.code.ts",
+     "./cloudnative-pg-rbac": "./cloudnative-pg-rbac/cloudnative-pg-rbac.module.code.ts",
+-    "./cnpg-cluster": "./cnpg-cluster/cnpg-cluster.manifest.code.ts",
+     "./cnpg-object-store": "./cnpg-object-store/cnpg-object-store.manifest.code.ts",
+     "./cnpg-scheduled-backup": "./cnpg-scheduled-backup/cnpg-scheduled-backup.manifest.code.ts",
+     "./collections-rbac": "./collections-rbac/collections-rbac.module.code.ts",
