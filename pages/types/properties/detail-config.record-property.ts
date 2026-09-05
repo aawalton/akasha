@@ -52,11 +52,12 @@ export const detailConfig = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type with none above it and none of its own is laid out plainly.",
+      statement:
+        "A page type with none above that page type and none of its own is laid out plainly.",
     },
     {
       invariantKind: "departure",
-      statement: "A page gathering other pages is laid out by what it gathers.",
+      statement: "A page gathering other pages is laid out by what that page gathers.",
     },
   ],
 } as const satisfies RecordProperty
