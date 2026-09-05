@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/readout-system/readout-tier/readout-tier.module.ts b/readout-system/readout-tier/readout-tier.module.ts
+index 8e2084ff5e697a3cec2832933339ab6f3e7a9a35..50658a3176752be3203cc2cdeb8e293140d4b6b0 100644
+--- a/readout-system/readout-tier/readout-tier.module.ts
++++ b/readout-system/readout-tier/readout-tier.module.ts
+@@ -123,7 +123,8 @@ export const readoutTier = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A readout stating no format has its reading written as the number it is.",
++      statement:
++        "A readout stating no format has its reading written as the number that reading is.",
+     },
+     {
+       invariantKind: "absence",
