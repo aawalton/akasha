@@ -22,11 +22,7 @@ export const surplusFallNotifying = {
       statement:
         "Where the day sits is the readout's reading now, and a reading below the open is a fall.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "A rung is said only where that rung is worse than the worst rung already said today.",
-    },
+
     {
       invariantKind: "departure",
       statement:
