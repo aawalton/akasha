@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-lib-character-knowledge/knowledge-base-data-plans/knowledge-base-data-plans.module.ts b/temper/temper-lib-character-knowledge/knowledge-base-data-plans/knowledge-base-data-plans.module.ts
+index c088bec1484bcc4c79d381fea6d1dea2505a4cc6..0d81e26fff8d57858b2e2b6531cdedb9c83857b7 100644
+--- a/temper/temper-lib-character-knowledge/knowledge-base-data-plans/knowledge-base-data-plans.module.ts
++++ b/temper/temper-lib-character-knowledge/knowledge-base-data-plans/knowledge-base-data-plans.module.ts
+@@ -9,7 +9,7 @@ export const knowledgeBaseDataPlans = {
+   invariants: [
+     {
+       invariantKind: "constraint",
+-      statement: "These ids are what upstream BaseData for API 101050 states.",
++      statement: "These ids are the ids upstream BaseData for API 101050 states.",
+     },
+   ],
+ } as const satisfies Module
