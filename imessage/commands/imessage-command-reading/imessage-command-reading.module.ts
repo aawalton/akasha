@@ -10,7 +10,7 @@ export const imessageCommandReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What a command takes is handed in rather than spelled here.",
+      statement: "The flags and words a command takes are handed in rather than spelled here.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const imessageCommandReading = {
     },
     {
       invariantKind: "departure",
-      statement: "What is said both as a word and at its flag is refused.",
+      statement: "A value said both as a word and at its flag is refused.",
     },
     {
       invariantKind: "departure",
