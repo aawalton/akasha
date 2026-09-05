@@ -19,7 +19,7 @@ export const monarchEvalPopulation = {
     {
       invariantKind: "departure",
       statement:
-        "Every scorable category belongs to a declared stratum, and one belonging to none is refused rather than defaulted, because a default would report it as something nobody decided.",
+        "Every scorable category belongs to a declared stratum, and one belonging to none is refused.",
     },
     {
       invariantKind: "departure",
