@@ -20,7 +20,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "Every change command drafts into the patch rather than landing on its own.",
       workingMemory:
-        "Built. `landedMechanically` drafts where the caller names an agent id and lands where it names none, so the fifteen programs are untouched. A patch says it is mechanical in a line before the first `diff --git`; git reads past a preamble, and `blobsIn` answers only to diff headers. No line means authored, so a stripped line reads the safe way. An authored draft, a resolve, or a patch taken in from an authored one flips it. Left: `move`, `refactor` and `remove` need carries on `applied()`.",
+        "Built. `landedMechanically` drafts where the caller names an agent id and lands where it names none, so the fifteen programs are untouched. A patch says it is mechanical in a line before the first `diff --git`; git reads past a preamble, and `blobsIn` answers only to diff headers. No line means authored, so a stripped line reads the safe way. An authored draft, a resolve, or a patch taken in from an authored one flips it. `applied()` takes carries and hands them to the landing now, so routing the three no longer drops their beside-file renames silently. Left: the routing itself, which Alan times, because it changes what an agent typing one of the three gets back.",
     },
     { statement: "A seat and its subagents draft against one worktree of their own." },
   ],
