@@ -26,11 +26,11 @@ export const sessionAnchor = {
     },
     {
       invariantKind: "departure",
-      statement: "The rotation reorders no movement outside the window it turns.",
+      statement: "The rotation reorders no movement outside the window that rotation turns.",
     },
     {
       invariantKind: "departure",
-      statement: "Every pick states in words why it was picked.",
+      statement: "Every pick states in words why that pick was picked.",
     },
   ],
 } as const satisfies Module
