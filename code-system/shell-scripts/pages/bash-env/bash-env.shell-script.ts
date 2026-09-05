@@ -27,12 +27,12 @@ export const bashEnv = {
     },
     {
       invariantKind: "departure",
-      statement: "A pipeline fails on the first command in it that fails.",
+      statement: "A pipeline fails on the first command in that pipeline that fails.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The script ends true, so a shell reading it is not left holding a failing status.",
+        "The script ends true, so a shell reading that script is not left holding a failing status.",
     },
     {
       invariantKind: "gap",
