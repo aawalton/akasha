@@ -34,7 +34,7 @@ export const blockBunTest = {
     {
       invariantKind: "constraint",
       statement:
-        "What `bun test` runs is a filter over every test file rather than a path `bun test` is handed.",
+        "`bun test` runs a filter over every test file rather than a path `bun test` is handed.",
     },
     {
       invariantKind: "constraint",
