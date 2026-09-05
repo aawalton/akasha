@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-non-null-assertion/no-non-null-assertion.syntax-rule.test.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-non-null-assertion/no-non-null-assertion.syntax-rule.test.ts
-index 93062eb19f769429ccaaf45def9ef5f212f72527..9dd2c1ad7cc7bd830e40e2a8a09f7998b28adf1f 100644
+index 93062eb19f769429ccaaf45def9ef5f212f72527..a1f5f34ccbed65d2d68a17f9e33f8bc0c8d780b1 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-non-null-assertion/no-non-null-assertion.syntax-rule.test.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-non-null-assertion/no-non-null-assertion.syntax-rule.test.ts
 @@ -24,7 +24,7 @@ test("one reached through an optional chain is refused as a bare one is", () =>
@@ -11,8 +11,17 @@ index 93062eb19f769429ccaaf45def9ef5f212f72527..9dd2c1ad7cc7bd830e40e2a8a09f7998
    expect(noNonNullAssertion(parsed("const one = a!!\n"))).toHaveLength(2)
  })
  
+@@ -48,7 +48,7 @@ test("one nested inside a call is judged too", () => {
+   expect(noNonNullAssertion(parsed("report(foo!)\n"))).toHaveLength(1)
+ })
+ 
+-test("the line named is the line the operator stands on", () => {
++test("the line named is the line the operator is on", () => {
+   const said = noNonNullAssertion(parsed("const one = 1\nconst two = foo!.bar\n"))
+   expect(said[0]?.line).toBe(2)
+ })
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-non-null-assertion/no-non-null-assertion.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-non-null-assertion/no-non-null-assertion.syntax-rule.ts
-index d1473123421fe77dcedf8c1c917230c623573d00..c2c686ff119183fb934e23bc9e983ea0007428cd 100644
+index d1473123421fe77dcedf8c1c917230c623573d00..c0ef232ad808df1e9eb83287f2b6ea44b96ec2dc 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-non-null-assertion/no-non-null-assertion.syntax-rule.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-non-null-assertion/no-non-null-assertion.syntax-rule.ts
 @@ -15,7 +15,7 @@ export const noNonNullAssertion = {
@@ -21,6 +30,15 @@ index d1473123421fe77dcedf8c1c917230c623573d00..c2c686ff119183fb934e23bc9e983ea0
        invariantKind: "departure",
 -      statement: "The operator is refused wherever an expression may stand.",
 +      statement: "The operator is refused wherever an expression may sit.",
+     },
+     {
+       invariantKind: "departure",
+@@ -23,7 +23,7 @@ export const noNonNullAssertion = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An operator standing on another operator is refused once for each operator.",
++      statement: "An operator sitting on another operator is refused once for each operator.",
      },
      {
        invariantKind: "departure",
