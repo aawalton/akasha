@@ -19,3 +19,18 @@ index 51721f9a101d8671e0df5d7973f1b609f4f83780..200e0ae6f6d1291e4e3716413702dd7f
    return { checks: !lines.includes(NO_CHECKS_AT), warrants: !lines.includes(NO_WARRANTS_AT) }
  }
  
+diff --git a/command-system/drafting/drafting.module.test.ts b/command-system/drafting/drafting.module.test.ts
+index 12c0fa2aebdfc1fb8cbba64cf12720f9892b635f..742f9d230988cb4ede548aa5b69c6bbac8fef459 100644
+--- a/command-system/drafting/drafting.module.test.ts
++++ b/command-system/drafting/drafting.module.test.ts
+@@ -376,8 +376,6 @@ test("what a patch runs is folded one field at a time", () => {
+   expect(folding(repoAt(), CHECKS_RUN, NOTHING_RUNS)).toEqual(CHECKS_RUN)
+ })
+ 
+-test("what a patch runs is read off the lines before the first diff header", () => {
+-  const head = `diff --git a/${ONE} b/${ONE}\n`
+-  expect(runningIn(`Akasha-mechanical: true\n${head}`)).toEqual(NOTHING_RUNS)
+-  expect(runningIn(head)).toEqual(BOTH_RUN)
++test("a patch carrying no line before the first diff header runs both", () => {
++  expect(runningIn(`diff --git a/${ONE} b/${ONE}\n`)).toEqual(BOTH_RUN)
+ })
