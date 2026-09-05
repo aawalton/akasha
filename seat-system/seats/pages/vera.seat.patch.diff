@@ -1,5 +1,5 @@
 diff --git a/akasha.domain.ts b/akasha.domain.ts
-index 3c835a93ab69f3b7782ecadf9b1c06d0a6ef29e6..6070dc462f8d8a426ec9b01138609e996917c716 100644
+index bdaff770fde548556982a9a2f7c30a0218d23698..ec4c84cd375ce42d81b38a4b8e3a6809d621c5ea 100644
 --- a/akasha.domain.ts
 +++ b/akasha.domain.ts
 @@ -51,7 +51,7 @@ export const akasha = {
@@ -11,8 +11,33 @@ index 3c835a93ab69f3b7782ecadf9b1c06d0a6ef29e6..6070dc462f8d8a426ec9b01138609e99
      "domain/places",
      "domain/image-generation",
      "domain/infrastructure",
+diff --git a/collection-system/collection-system.domain.ts b/collection-system/collection-system.domain.ts
+deleted file mode 100644
+index 67679ee00ceee85dc81f01078c6600c4ef221648..0000000000000000000000000000000000000000
+--- a/collection-system/collection-system.domain.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import type { Domain } from "../domains/domain.page-type.ts"
+-
+-export const collectionSystem = {
+-  id: "01a063de-2c60-7005-8e4e-6c1a17240b50",
+-  pageTypeSlug: "domain",
+-  slug: "collection-system",
+-  definition: "how we keep track of collections of things for a person to experience",
+-  partSlugs: ["page-type/collection", "workspace-package/great-courses"],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A book and a course and an album are each one collection.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The members a collection holds are collections too.",
+-    },
+-  ],
+-} as const satisfies Domain
 diff --git a/collections/collection.page-type.ts b/collections/collection.page-type.ts
-index 1c27dffef8a49f301aa8e244d54ac785f0fcbe4f..baf7610c0db656c19746582966b5bf29cebd9b8b 100644
+index f8120f9262a3dbc02a8b7c08ff782b4f3b02a4e0..a882c73238b083c65fe0991bf97f652aece8a159 100644
 --- a/collections/collection.page-type.ts
 +++ b/collections/collection.page-type.ts
 @@ -109,6 +109,7 @@ export const collection = {
