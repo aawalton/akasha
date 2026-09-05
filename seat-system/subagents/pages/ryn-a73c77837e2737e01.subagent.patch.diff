@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/core/pages-core.workspace-package.ts b/pages/core/pages-core.workspace-package.ts
+index 8123b293328795655017ddb80dd080b408497fd5..6e7f5d04d5ea32032d0f954b6c5946a93eb53961 100644
+--- a/pages/core/pages-core.workspace-package.ts
++++ b/pages/core/pages-core.workspace-package.ts
+@@ -27,7 +27,7 @@ export const pagesCore = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A property type answers for its own values rather than the store answering for all of them.",
++        "A property type answers for its own values rather than the store answering for all the values.",
+     },
+     {
+       invariantKind: "departure",
