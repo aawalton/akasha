@@ -8,7 +8,9 @@ export const inference = {
   partSlugs: [
     "domain/generation",
     "page-type/inference-run",
+    "workspace-package/comfy",
     "workspace-package/inference-clients",
+    "workspace-package/inference-commands",
     "workspace-package/inference-pool",
     "workspace-package/inference-run",
     "workspace-package/voice-inference",
