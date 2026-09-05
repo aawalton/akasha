@@ -6,7 +6,12 @@ export const network = {
   slug: "network",
   definition: "what a program reaches other machines over",
   pluralSlug: "networks",
-  partSlugs: ["domain/certificate", "manifest/cloudflared", "workspace-package/auth-proxy"],
+  partSlugs: [
+    "domain/certificate",
+    "manifest/cloudflared",
+    "manifest/ddns-headscale",
+    "workspace-package/auth-proxy",
+  ],
   invariants: [
     {
       invariantKind: "departure",
