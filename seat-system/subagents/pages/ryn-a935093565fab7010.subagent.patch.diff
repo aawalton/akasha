@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/code-system/ios-apps/ios-app.page-type.ts b/code-system/ios-apps/ios-app.page-type.ts
+index d88966fe8da3d34005a2ba9b92331c9b11ccaf52..63da027fda19d71b4b004b3393402eeb85a90fa8 100644
+--- a/code-system/ios-apps/ios-app.page-type.ts
++++ b/code-system/ios-apps/ios-app.page-type.ts
+@@ -132,7 +132,7 @@ export const iosApp = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An app's web directory holds what a build put there.",
++      statement: "An app's web directory holds the site a build put there.",
+     },
+     {
+       invariantKind: "departure",
