@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/chess/chess-review-sessions/properties/chess-review-session-notes.file-property.ts b/alan/chess/chess-review-sessions/properties/chess-review-session-notes.file-property.ts
+index 007672a411a57d977ea73143e8443b3a6e38ef41..823550d1585a6960246505937d74679c88bde23c 100644
+--- a/alan/chess/chess-review-sessions/properties/chess-review-session-notes.file-property.ts
++++ b/alan/chess/chess-review-sessions/properties/chess-review-session-notes.file-property.ts
+@@ -11,7 +11,7 @@ export const chessReviewSessionNotes = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The notes are what was said at the board rather than a summary written after.",
++      statement: "The notes are the words said at the board rather than a summary written after.",
+     },
+   ],
+ } as const satisfies FileProperty
