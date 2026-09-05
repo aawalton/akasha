@@ -141,7 +141,7 @@ export function notReadOf(warrant: Warrant): string {
 }
 
 function movedSaid(warrant: Warrant, held: string): string {
-  return `Your record holds ${held}, and ${warrant.oid} stands there now.`
+  return `Your record holds ${held}, and ${warrant.oid} is there now.`
 }
 
 function farSaid(reach: number): string {
