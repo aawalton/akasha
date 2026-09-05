@@ -25,7 +25,7 @@ export const monarchNotesWrite = {
     {
       invariantKind: "departure",
       statement:
-        "What stood before the write is returned, so a caller can say what was passed over and why.",
+        "The standing transaction is returned, so a caller can say which transaction was passed over and why.",
     },
     {
       invariantKind: "departure",
