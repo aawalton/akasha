@@ -239,7 +239,7 @@ export type Stems = { readonly stems: readonly string[] } | { readonly refused: 
  * empty list. `asking` refuses a page type the index does not hold and refuses a key the page type
  * does not declare, so a spelling that has moved is a refusal rather than a clean nothing.
  */
-export function stemsStanding(root: string): Stems {
+export function stemsThere(root: string): Stems {
   const asked = asking(root, { pageTypeSlug: FOOD_ENTRY_PAGE_TYPE_SLUG, keys: [SLUG] })
   if ("refused" in asked) return { refused: asked.refused }
   const stems: string[] = []
@@ -301,7 +301,7 @@ async function logging(read: Logged, given: Given): Promise<Answer> {
     }
   }
 
-  const held = stemsStanding(root)
+  const held = stemsThere(root)
   if ("refused" in held) {
     return refused(`the food entries already filed could not be read: ${held.refused}`, 3)
   }
