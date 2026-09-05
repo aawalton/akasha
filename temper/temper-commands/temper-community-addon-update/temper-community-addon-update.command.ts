@@ -19,7 +19,6 @@ export const temperCommunityAddonUpdate = {
     { said: "--json", takes: "give the outcome as JSON rather than as tab-separated rows" },
   ],
   helpNotes: [
-    "an `--only` folder that is no installable addon is refused by name.",
     "each addon is downloaded, verified and extracted, and one that fails leaves the rest reported.",
     "a folder the deploy pipeline owns is never touched here.",
     "what would be updated is named by the listing command rather than by a run of this one.",
