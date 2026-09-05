@@ -13,6 +13,8 @@ const DEEP = "akasha/one/deep/held.module.ts"
 
 const KEPT = "akasha/two/kept.module.ts"
 
+const SOLO = "solo/one/held.module.ts"
+
 const BODY = "export const held = 1\n"
 
 function world(...paths: readonly string[]): string {
@@ -21,11 +23,22 @@ function world(...paths: readonly string[]): string {
   return root
 }
 
-test("the folders a change could empty climb from what went and stop below the repository top", () => {
-  expect(emptiedBy([DEEP])).toEqual(["akasha/one/deep", "akasha/one"])
-  expect(emptiedBy(["akasha/held.module.ts"])).toEqual([])
-  expect(emptiedBy(["temper/one/deep/held.ts"])).toEqual(["temper/one/deep", "temper/one"])
+test("the folders a change could empty climb from what went up to the repository top", () => {
+  expect(emptiedBy([DEEP])).toEqual(["akasha/one/deep", "akasha/one", "akasha"])
+  expect(emptiedBy(["akasha/held.module.ts"])).toEqual(["akasha"])
+  expect(emptiedBy(["temper/one/deep/held.ts"])).toEqual([
+    "temper/one/deep",
+    "temper/one",
+    "temper",
+  ])
   expect(emptiedBy(["held.ts"])).toEqual([])
+})
+
+test("a folder at the top of the repository goes where the change leaves it holding nothing", () => {
+  const root = world(SOLO)
+  rmSync(join(root, SOLO))
+  expect(clearedOff(root, [SOLO])).toEqual(["solo/one", "solo"])
+  expect(there(root, "solo")).toBe(false)
 })
 
 test("a folder left holding nothing goes, and the folder above it goes with it", () => {

@@ -38,11 +38,11 @@ export const folderClearing = {
     },
     {
       invariantKind: "departure",
-      statement: "The climb stops below the folders at the top of the repository.",
+      statement: "The climb stops at the top of the repository.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder at the top of the repository is never taken.",
+      statement: "A folder at the top of the repository is taken where a change leaves it empty.",
     },
     {
       invariantKind: "departure",

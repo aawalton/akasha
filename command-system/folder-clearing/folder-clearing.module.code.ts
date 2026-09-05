@@ -3,11 +3,13 @@ import { dirname, join } from "node:path"
 
 const PARTED_BY = "/"
 
+const HERE = "."
+
 export function emptiedBy(gone: readonly string[]): readonly string[] {
   const dirs = new Set<string>()
   for (const path of gone) {
     let dir = dirname(path)
-    while (dir.includes(PARTED_BY)) {
+    while (dir !== HERE) {
       dirs.add(dir)
       dir = dirname(dir)
     }
