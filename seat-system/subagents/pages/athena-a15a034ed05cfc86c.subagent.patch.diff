@@ -1,8 +1,8 @@
 diff --git a/editor-extension/domain-tree-reading/domain-tree-reading.module.code.ts b/editor-extension/domain-tree-reading/domain-tree-reading.module.code.ts
-index d67a2022bba18017292be605784e52118b890fcc..949aa10fe2744d9792d29e7281b3b11e6473058a 100644
+index d67a2022bba18017292be605784e52118b890fcc..957e89981beb5f23b3279dee2e985ef85933cf72 100644
 --- a/editor-extension/domain-tree-reading/domain-tree-reading.module.code.ts
 +++ b/editor-extension/domain-tree-reading/domain-tree-reading.module.code.ts
-@@ -1,6 +1,6 @@
+@@ -1,11 +1,9 @@
  import * as path from "node:path"
  import type { ChampionTree, DomainNode } from "../champions-tree/champions-tree.module.code.ts"
 -import { akashaRoot, runCommand } from "../harness-call/harness-call.module.code.ts"
@@ -10,7 +10,12 @@ index d67a2022bba18017292be605784e52118b890fcc..949aa10fe2744d9792d29e7281b3b11e
  
  const COMMAND = "domain-tree"
  
-@@ -76,7 +76,7 @@ export function domainTreeIn(said: string): DomainTree {
+-const COMMAND_AT = "commands/domain-tree/domain-tree.command.code.ts"
+-
+ const CALL_TIMEOUT_MS = 30_000
+ 
+ const MAX_BUFFER = 16 * 1024 * 1024
+@@ -76,7 +74,7 @@ export function domainTreeIn(said: string): DomainTree {
  // carries news from one that says what is already drawn, and a hash of a parsed tree would cost
  // the parse this is here to save.
  export async function askDomainTree(): Promise<string> {
