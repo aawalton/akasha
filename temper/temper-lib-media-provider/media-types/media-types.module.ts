@@ -13,7 +13,7 @@ export const mediaTypes = {
     },
     {
       invariantKind: "departure",
-      statement: "A key on the shared table is what another addon reads.",
+      statement: "A key on the shared table is the name another addon reads.",
     },
   ],
 } as const satisfies Module
