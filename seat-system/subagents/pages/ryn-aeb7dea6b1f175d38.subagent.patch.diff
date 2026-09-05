@@ -117,3 +117,20 @@ index 69f72dac3a866f8728c8b45e40a6b0a0a0f0247f..36bd4972de26309a7eec1fa8445be9e9
      {
        invariantKind: "departure",
        statement: "Every site showing the level is carried the level rather than taking one.",
+diff --git a/alan/harness/sleep/sleep.domain.ts b/alan/harness/sleep/sleep.domain.ts
+index 49a332af6153ad48fe23201c7fee20301a3853a3..51a905bf77a8d148655d03bd3e4c4ea677cd711a 100644
+--- a/alan/harness/sleep/sleep.domain.ts
++++ b/alan/harness/sleep/sleep.domain.ts
+@@ -16,11 +16,7 @@ export const sleep = {
+       invariantKind: "departure",
+       statement: "The sleep is read from the tracking the workstation's checkout carries.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The reading is taken by a workstation timer rather than by a pod serving a route.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "Every site showing the sleep is carried the sleep rather than taking one.",
