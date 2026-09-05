@@ -50,7 +50,7 @@ export const esoDay = {
     },
     {
       invariantKind: "departure",
-      statement: "An ESO day is slugged `eso-day-` before the day it is of.",
+      statement: "An ESO day is slugged `eso-day-` before the day that ESO day is of.",
     },
     {
       invariantKind: "departure",
