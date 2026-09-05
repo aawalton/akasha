@@ -1,0 +1,13 @@
+diff --git a/editor-extension/vscode-stub/vscode-stub.javascript-module.ts b/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
+index 683cdff4c2407e15fbbd762abcce2dfc97fe03c4..87fc66dac06dab1d57c8e1590e0ba0263a92b591 100644
+--- a/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
++++ b/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
+@@ -13,7 +13,7 @@ export const vscodeStub = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A member content passes through keeps what was written into it.",
++      statement: "A member content passes through keeps what was written into that member.",
+     },
+     {
+       invariantKind: "departure",
