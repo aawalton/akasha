@@ -1,0 +1,14 @@
+diff --git a/alan/harness/monarch/categorize-recent/monarch-categorize-recent.module.ts b/alan/harness/monarch/categorize-recent/monarch-categorize-recent.module.ts
+index b97237942cea701b07b393cd2777e859e143ff50..d2a5b96d91aa943db59c60516003b3482b6af035 100644
+--- a/alan/harness/monarch/categorize-recent/monarch-categorize-recent.module.ts
++++ b/alan/harness/monarch/categorize-recent/monarch-categorize-recent.module.ts
+@@ -22,8 +22,7 @@ export const monarchCategorizeRecent = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A row claimed by more than one rule is written by none of them, because the rule set is meant to be a partition and a row claimed twice is the audit and the world disagreeing.",
++      statement: "A row claimed by more than one rule is written by none of them.",
+     },
+     {
+       invariantKind: "departure",
