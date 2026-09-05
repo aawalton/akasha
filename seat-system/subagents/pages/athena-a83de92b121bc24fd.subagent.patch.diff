@@ -1,7 +1,16 @@
 diff --git a/alan/tracking/daily/akasha-day/akasha-day.module.code.ts b/alan/tracking/daily/akasha-day/akasha-day.module.code.ts
-index 5da9378f6a7adf761327247dd3699d4650bfd417..ad2c6d9ed5b55a8e03e1642e7859c57cdcd6712c 100644
+index 5da9378f6a7adf761327247dd3699d4650bfd417..e843a842c821dc5e3f14ee135b60b8b565b2390e 100644
 --- a/alan/tracking/daily/akasha-day/akasha-day.module.code.ts
 +++ b/alan/tracking/daily/akasha-day/akasha-day.module.code.ts
+@@ -10,7 +10,7 @@
+  * pages system service composes every akasha write from. What a row file beside a page is named is
+  * `besideAt`. What that file holds is `entriesIn`. What a page declares is `valueAt`. This file is
+  * the four of them put in a row, plus the one thing none of them does: hand the composed bodies to
+- * `akasha tracking`, because nothing writes under `akasha/` but akasha's own verb.
++ * `landTracking`, because nothing writes under `akasha/` but akasha's own gate.
+  *
+  * A page body states its keys camel, because a page is a TypeScript object literal, and a row beside
+  * an akasha page states them camel too, because a row is judged against the fields its entry
 @@ -19,8 +19,7 @@
   * akasha is camelised once, in this file, and nothing above it has to know.
   */
