@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/browser/browser-commands/browser-command-arguing/browser-command-arguing.module.ts b/browser/browser-commands/browser-command-arguing/browser-command-arguing.module.ts
+index ef3ff29bd8460db0bfa9d8c236ae8c71065eff00..21f014f5cdfa3b16bfde4b20433b80d33f98ce14 100644
+--- a/browser/browser-commands/browser-command-arguing/browser-command-arguing.module.ts
++++ b/browser/browser-commands/browser-command-arguing/browser-command-arguing.module.ts
+@@ -9,7 +9,7 @@ export const browserCommandArguing = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A flag naming a value takes the word after it.",
++      statement: "A flag naming a value takes the word after that flag.",
+     },
+     {
+       invariantKind: "departure",
