@@ -37,6 +37,10 @@ export const atomicChange = {
     },
     {
       invariantKind: "departure",
+      statement: "An index that cannot answer refuses the change rather than narrowing its reach.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An atomic change refuses or leaves the tree whole.",
     },
   ],
