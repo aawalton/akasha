@@ -30,3 +30,30 @@ index 28909b62d278dc52666bd77872e3804a14cbbe7b..f94212804bcbae80500e6aceab198472
      if (UNREAD.has(one.sort)) continue
      const kind = KIND_OF[one.sort]
      if (kind === undefined) {
+diff --git a/pages/formulas/page-formulas.module.ts b/pages/formulas/page-formulas.module.ts
+index d16f19eff727fc0c4de80b1babe3bce7ec5359cf..e777befab16d2c8740da37309ecd8feff262bf4f 100644
+--- a/pages/formulas/page-formulas.module.ts
++++ b/pages/formulas/page-formulas.module.ts
+@@ -36,6 +36,22 @@ export const pageFormulas = {
+       invariantKind: "departure",
+       statement: "A property carried many times holds a list.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A computed property is read as a value the page carries rather than as a figure.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A calculation is worked out before any formula reading that calculation's key.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A computed property stating no kind bars every figure the page type declares.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No calculation is run here.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "Nothing is built for a page type declaring no formula.",
