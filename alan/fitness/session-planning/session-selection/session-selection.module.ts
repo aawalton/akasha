@@ -11,7 +11,7 @@ export const sessionSelection = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Slots are filled in the order the template states them.",
+      statement: "Slots are filled in the order the template states those slots.",
     },
     {
       invariantKind: "departure",
@@ -19,7 +19,7 @@ export const sessionSelection = {
     },
     {
       invariantKind: "departure",
-      statement: "A movement already performed today holds the slot it fits.",
+      statement: "A movement already performed today holds the slot that movement fits.",
     },
     {
       invariantKind: "departure",
@@ -31,11 +31,12 @@ export const sessionSelection = {
     },
     {
       invariantKind: "departure",
-      statement: "A slot that cannot be filled is reported with the reason it could not.",
+      statement: "A slot that cannot be filled is reported with the reason that slot could not.",
     },
     {
       invariantKind: "departure",
-      statement: "Every decision names the rules that fired and the four next best it passed over.",
+      statement:
+        "Every decision names the rules that fired and the four next best that decision passed over.",
     },
     {
       invariantKind: "departure",
