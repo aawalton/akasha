@@ -29,7 +29,7 @@ export const monarchEvidence = {
     {
       invariantKind: "departure",
       statement:
-        "How many rows matched is said alongside the rows shown, so a cut list says it was cut.",
+        "How many rows matched is said alongside the rows shown, so a cut list says that list was cut.",
     },
     {
       invariantKind: "departure",
