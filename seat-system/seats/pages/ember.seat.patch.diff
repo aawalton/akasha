@@ -1,0 +1,18 @@
+diff --git a/domains/initiatives/pages/ember-repair-temper-tasks.initiative.ts b/domains/initiatives/pages/ember-repair-temper-tasks.initiative.ts
+index b9b134db79fea592fa27ef71d1cbc8bc238ac7c7..821bffc34a755d76f7220b47b05d10dd6a0aba34 100644
+--- a/domains/initiatives/pages/ember-repair-temper-tasks.initiative.ts
++++ b/domains/initiatives/pages/ember-repair-temper-tasks.initiative.ts
+@@ -50,7 +50,12 @@ export const emberRepairTemperTasks = {
+     {
+       statement: "The rules a player automates are pages rather than one JSON blob.",
+       workingMemory:
+-        "All 82 are pages under temper-inventory-rule. inventory-rule-from-pages and inventory-rule-to-pages carry a rule each way, proved over all 82 and over /ask, which folds the jsonl entries server-side. The service now writes the rows a page keeps beside it, so a rule's conditions and destination chain reach it the way every other write does. The CLI still throws, and the web still hands upsertPage the whole settings blob, a file property, which refuses. Left: the web writer, then emptying the blob.",
++        "All 82 are pages under temper-inventory-rule, and the browser and the watcher read them there. What the pages carry matches the blob's 82 exactly: same ids, same order, same fingerprints, same sell block. The browser writes a changed rule as a page, takes away the page no rule wants, and writes nothing to the blob. The watcher exported 82 rules into 90,683 bytes of Lua, against 216 for an account holding none. Left: the CLI, which wants @akasha/pages-access, and the 82 still in the blob.",
++    },
++    {
++      statement: "A player's settings are read from the file beside that player's page.",
++      workingMemory:
++        "`settings` on temper-player is a file property, so every road answers the four characters `json` rather than the 42,772 bytes beside the page, and asRecord drops them. The watcher said `No settings to export.` at 17:17:00Z and wrote nothing, and the CLI answers every rule list empty. The watcher now reads the body over readPages and readFiles and says `settings to export: inventory, automation, logging, safety`. The browser still asks the page, so its automation and backpack read unset.",
+     },
+   ],
+   constraints: [
