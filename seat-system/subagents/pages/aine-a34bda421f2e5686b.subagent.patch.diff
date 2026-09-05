@@ -25,15 +25,20 @@ index 0242b3679436e2c0db77c5252dfb2f7cd80e0b5e..0bacea3d642b318d0b03a96bb76995be
  # yet, and a writer belongs with the other writers rather than forked off into this one.
  # Counting the levels up to akasha was wrong twice, because this file moved twice and the count
 diff --git a/code-system/shell-scripts/pages/statusline/statusline.shell-script.ts b/code-system/shell-scripts/pages/statusline/statusline.shell-script.ts
-index 5d07ac7b38bb6b3aebddb64d435e5f456ff2907a..aa69a7d200575d77ef41656c6d6525575107ca01 100644
+index 5d07ac7b38bb6b3aebddb64d435e5f456ff2907a..e30d01d11ceca115647a4489275645dca8dbf62d 100644
 --- a/code-system/shell-scripts/pages/statusline/statusline.shell-script.ts
 +++ b/code-system/shell-scripts/pages/statusline/statusline.shell-script.ts
-@@ -19,7 +19,7 @@ export const statusline = {
+@@ -19,11 +19,11 @@ export const statusline = {
      },
      {
        invariantKind: "departure",
 -      statement: "A seat is read from the page standing for that seat in akasha.",
 +      statement: "A seat is read from the page representing that seat in akasha.",
+     },
+     {
+       invariantKind: "stopgap",
+-      statement: "The count of live children is read by code standing outside akasha.",
++      statement: "The count of live children is read by code outside akasha.",
      },
      {
        invariantKind: "stopgap",
