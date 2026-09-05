@@ -64,10 +64,10 @@ index fcb6aeb4fb52ce43d5a292189a599893718cc365..7aa49e21d42bf054e08006d8344e2bcf
      {
        invariantKind: "departure",
 diff --git a/editor-extension/vscode-api/vscode-api.type-declaration.ts b/editor-extension/vscode-api/vscode-api.type-declaration.ts
-index b3fc29a76a5ccfb495d128dcc1b53d9ba077fcb3..11de350a50138810306b08f1084bed6f463fde18 100644
+index b3fc29a76a5ccfb495d128dcc1b53d9ba077fcb3..3548c242f11f275a7874757c9c08357dd0cbf5e0 100644
 --- a/editor-extension/vscode-api/vscode-api.type-declaration.ts
 +++ b/editor-extension/vscode-api/vscode-api.type-declaration.ts
-@@ -21,7 +21,7 @@ export const vscodeApi = {
+@@ -21,11 +21,12 @@ export const vscodeApi = {
      },
      {
        invariantKind: "stopgap",
@@ -76,6 +76,12 @@ index b3fc29a76a5ccfb495d128dcc1b53d9ba077fcb3..11de350a50138810306b08f1084bed6f
      },
      {
        invariantKind: "constraint",
+-      statement: "A promote of the fork refuses while this differs from the fork's copy.",
++      statement:
++        "A promote of the fork refuses while this declaration differs from the fork's copy.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/git-transport/hooks/pre-receive-change-branches/pre-receive-change-branches.shell-script.ts b/git-transport/hooks/pre-receive-change-branches/pre-receive-change-branches.shell-script.ts
 index 43a5f7197b94c651f199aa4f520323b480416c4d..9d9720589c159f6092b23d763fcc80487df651eb 100644
 --- a/git-transport/hooks/pre-receive-change-branches/pre-receive-change-branches.shell-script.ts
