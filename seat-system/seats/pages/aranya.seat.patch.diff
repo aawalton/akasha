@@ -751,6 +751,14 @@ index 3f49569373f688d730e639c780a3d83e3aad313f..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-characters-character-ui
 \ No newline at end of file
+diff --git a/temper/temper-characters-equipment-ui/temper-characters-equipment-ui b/temper/temper-characters-equipment-ui/temper-characters-equipment-ui
+deleted file mode 120000
+index c121d9cf75bfbea7322fdf07286a36e947ff0bee..0000000000000000000000000000000000000000
+--- a/temper/temper-characters-equipment-ui/temper-characters-equipment-ui
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-characters-equipment-ui
+\ No newline at end of file
 diff --git a/temper/temper-characters-equipment/temper-characters-equipment b/temper/temper-characters-equipment/temper-characters-equipment
 deleted file mode 120000
 index 068203394209fe10c216c9bdeba77b19b490ac50..0000000000000000000000000000000000000000
