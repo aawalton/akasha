@@ -8,6 +8,7 @@ export const temperProgress = {
   pluralSlug: "temper-progressions",
   partSlugs: [
     "boolean-property/active",
+    "page-property-entry/conditions",
     "page-type/temper-activity-category",
     "page-type/temper-comparison-op",
     "page-type/temper-completed-day",
