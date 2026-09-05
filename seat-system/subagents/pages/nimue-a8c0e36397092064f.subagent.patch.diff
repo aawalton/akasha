@@ -1467,3 +1467,69 @@ index 3628e0bd7a33d58d5b25a6ee06b0265cd2bcd1f7..0c83e507775dc4daa8ac44a5bf5dfb80
    } catch (thrown) {
      return { refused: thrown instanceof Error ? thrown.message : String(thrown) }
    }
+diff --git a/pages/system-service/page-asking/page-asking.module.ts b/pages/system-service/page-asking/page-asking.module.ts
+index cdf143a0517bd3e1eb21a32a43bc5366ec8455ba..2581366b2e7fe5870883391f54650360f2f65d97 100644
+--- a/pages/system-service/page-asking/page-asking.module.ts
++++ b/pages/system-service/page-asking/page-asking.module.ts
+@@ -92,40 +92,27 @@ export const pageAsking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A formula is worked out over every page answered.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A formula over one page is the one that page's own page type declares.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A figure is worked out before the tests narrow.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A figure is worked out before the rows are ordered.",
++      statement: "A calculation is worked out over every page answered.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A key a figure answers is answered as a stored key is.",
++      statement: "A calculation over one page is the one that page's own page type declares.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A figure answering absent puts no key in the row.",
++      statement: "A calculation is worked out before the tests narrow.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A calculation is worked out over every page answered.",
++      statement: "A calculation is worked out before the rows are ordered.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A calculation over one page is the one that page's own page type declares.",
++      statement: "A key a calculation answers is answered as a stored key is.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A calculation is worked out before any formula reading what that calculation answers.",
++      statement: "A calculation answering absent puts no key in the row.",
+     },
+     {
+       invariantKind: "departure",
+@@ -140,14 +127,6 @@ export const pageAsking = {
+       invariantKind: "departure",
+       statement: "A question naming a key a calculation refused is refused.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A question naming a key no figure works out is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A refusal over a figure names every key the same fault darkens.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A question naming no darkened key is answered without the darkened keys.",
