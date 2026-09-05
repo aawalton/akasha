@@ -78,7 +78,7 @@ export const question = {
     {
       invariantKind: "departure",
       statement:
-        "What stood around a question when it was put stands beside the page rather than in it.",
+        "What was around a question when it was put sits beside the page rather than in it.",
     },
     {
       invariantKind: "gap",

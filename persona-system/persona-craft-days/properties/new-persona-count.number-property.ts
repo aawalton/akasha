@@ -7,6 +7,6 @@ export const newPersonaCount = {
   pageTypeSlug: "number-property",
   slug: "new-persona-count",
   propertySlug: "new-persona-count",
-  definition: "how many personas first stood on a day",
+  definition: "how many personas came to be on a day",
   max: null,
 } as const satisfies NumberProperty

@@ -123,7 +123,7 @@ export const persona = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A persona stands alone in a folder.",
+      statement: "A persona is alone in a folder.",
     },
     {
       invariantKind: "departure",

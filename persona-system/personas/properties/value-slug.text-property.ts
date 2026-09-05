@@ -7,13 +7,13 @@ export const valueSlug = {
   pageTypeSlug: "text-property",
   slug: "value-slug",
   propertySlug: "value-slug",
-  definition: "the value a persona stands for",
+  definition: "the value a persona represents",
   max: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "stopgap",
-      statement: "The six values a persona stands for do not stand as pages.",
+      statement: "The six values a persona represents are not pages.",
     },
     {
       invariantKind: "gap",

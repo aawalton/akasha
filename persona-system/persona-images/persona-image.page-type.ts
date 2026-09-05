@@ -37,7 +37,7 @@ export const personaImage = {
     },
     {
       invariantKind: "departure",
-      statement: "The picture itself stands outside this repository.",
+      statement: "The picture itself is outside this repository.",
     },
     {
       invariantKind: "departure",
@@ -45,7 +45,7 @@ export const personaImage = {
     },
     {
       invariantKind: "absence",
-      statement: "No page of this type stands on its own.",
+      statement: "No page of this type is on its own.",
     },
   ],
 } as const satisfies PageType

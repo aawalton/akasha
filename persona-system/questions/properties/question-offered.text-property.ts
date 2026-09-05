@@ -17,7 +17,7 @@ export const questionOffered = {
     },
     {
       invariantKind: "departure",
-      statement: "The offered answers stand in the order the question held them out in.",
+      statement: "The offered answers keep the order the question held them out in.",
     },
     {
       invariantKind: "absence",

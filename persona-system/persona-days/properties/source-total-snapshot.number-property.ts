@@ -7,7 +7,7 @@ export const sourceTotalSnapshot = {
   pageTypeSlug: "number-property",
   slug: "source-total-snapshot",
   propertySlug: "source-total-snapshot",
-  definition: "the lifetime figure a persona's source stood at when a day was scored",
+  definition: "the lifetime figure a persona's source was at when a day was scored",
   max: null,
   invariants: [
     {

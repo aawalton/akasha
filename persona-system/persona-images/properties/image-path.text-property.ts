@@ -7,13 +7,13 @@ export const imagePath = {
   pageTypeSlug: "text-property",
   slug: "image-path",
   propertySlug: "image-path",
-  definition: "where a picture stands, read against the root it names",
+  definition: "where a picture is, read against the root it names",
   max: 300,
   nameFormatSlug: null,
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path already absolute is read as it stands rather than against a root.",
+      statement: "A path already absolute is read as it is rather than against a root.",
     },
     {
       invariantKind: "departure",

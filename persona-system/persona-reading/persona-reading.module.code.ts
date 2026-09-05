@@ -49,24 +49,24 @@ function portraitIn(path: string, value: Value): string | null {
   if (held === null) return null
   const beside = besideAt(path, PORTRAIT, held)
   if (beside === null) {
-    throw new Error(`${path} is a persona page and no portrait can stand beside a name like it`)
+    throw new Error(`${path} is a persona page and no portrait can sit beside a name like it`)
   }
   return beside
 }
 
-function personaFrom(root: string, standing: Listed): Persona {
-  const value = loadedFrom(root, standing.path)
+function personaFrom(root: string, listed: Listed): Persona {
+  const value = loadedFrom(root, listed.path)
   const slug = textAt(value, "slug")
   if (slug === null) {
-    throw new Error(`${standing.path} is a persona page and states no slug, so nothing names her`)
+    throw new Error(`${listed.path} is a persona page and states no slug, so nothing names her`)
   }
   return {
-    id: standing.id,
+    id: listed.id,
     slug,
-    path: standing.path,
+    path: listed.path,
     definition: textAt(value, "definition"),
     purpose: textAt(value, "purpose"),
-    portraitPath: portraitIn(standing.path, value),
+    portraitPath: portraitIn(listed.path, value),
     roleSlug: textAt(value, "roleSlug"),
     valueSlug: textAt(value, "valueSlug"),
     origin: textAt(value, "origin"),
@@ -81,10 +81,10 @@ function personaFrom(root: string, standing: Listed): Persona {
 }
 
 export function personasStanding(root: string): readonly Persona[] {
-  const found = everyOfType(root, PAGE_TYPE).map((standing) => personaFrom(root, standing))
+  const found = everyOfType(root, PAGE_TYPE).map((listed) => personaFrom(root, listed))
   if (found.length === 0) {
     throw new Error(
-      "no persona stands, so the cast would read as empty rather than as unread — an index that " +
+      "no persona is there, so the cast would read as empty rather than as unread — an index that " +
         "names nobody is not a cast of nobody"
     )
   }
@@ -92,8 +92,8 @@ export function personasStanding(root: string): readonly Persona[] {
 }
 
 export function personaAt(root: string, slug: string): Persona | null {
-  const standing = listedAt(root, PAGE_TYPE, slug)[0]
-  return standing === undefined ? null : personaFrom(root, standing)
+  const listed = listedAt(root, PAGE_TYPE, slug)[0]
+  return listed === undefined ? null : personaFrom(root, listed)
 }
 
 export function personaOr(root: string, slug: string): Persona {

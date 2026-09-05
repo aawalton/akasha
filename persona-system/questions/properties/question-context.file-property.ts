@@ -15,7 +15,7 @@ export const questionContext = {
     },
     {
       invariantKind: "departure",
-      statement: "A question stands without context where the ask carries itself.",
+      statement: "A question does without context where the ask carries itself.",
     },
   ],
 } as const satisfies FileProperty

@@ -13,7 +13,7 @@ export const lastMessagedAt = {
   invariants: [
     {
       invariantKind: "stopgap",
-      statement: "No name format stands for an instant.",
+      statement: "No name format exists for an instant.",
     },
   ],
 } as const satisfies TextProperty

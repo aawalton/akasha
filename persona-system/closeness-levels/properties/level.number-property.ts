@@ -7,6 +7,6 @@ export const level = {
   pageTypeSlug: "number-property",
   slug: "level",
   propertySlug: "level",
-  definition: "how far along the closeness ladder this rung stands",
+  definition: "how far along the closeness ladder this rung is",
   max: null,
 } as const satisfies NumberProperty
