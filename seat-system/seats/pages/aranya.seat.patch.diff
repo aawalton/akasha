@@ -1391,3 +1391,11 @@ index 5deb6994c19a69392ecf3b9dfc2c5de32975b281..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-lua-runner
 \ No newline at end of file
+diff --git a/temper/temper-narrow/temper-narrow b/temper/temper-narrow/temper-narrow
+deleted file mode 120000
+index d8b4d11e4504dba3047f1d94a24abbaa5f4306af..0000000000000000000000000000000000000000
+--- a/temper/temper-narrow/temper-narrow
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-narrow
+\ No newline at end of file
