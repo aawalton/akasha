@@ -169,11 +169,11 @@ export const claudeAccount = {
     {
       invariantKind: "departure",
       statement:
-        "The rest of what an account states is answered by the upstream probe at its first sign-in.",
+        "The rest of the values an account states is answered by the upstream probe at its first sign-in.",
     },
     {
       invariantKind: "departure",
-      statement: "What is observed of an account sits beside its page rather than in that page.",
+      statement: "The marks observed of an account sit beside its page rather than in that page.",
     },
     {
       invariantKind: "departure",
