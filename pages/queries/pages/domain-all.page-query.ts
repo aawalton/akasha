@@ -5,5 +5,6 @@ export const domainAll = {
   pageTypeSlug: "page-query",
   slug: "domain-all",
   asksOfSlug: "domain",
+  narrows: [{ key: "pageTypeSlug", comparison: "is", values: ["domain"] }],
   keys: ["slug"],
 } as const satisfies PageQuery
