@@ -23,10 +23,7 @@ export const bundleMemberSavedVars = {
       invariantKind: "departure",
       statement: "A marker present at all means the migration is done.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A member file about to be overwritten is copied aside first.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A copy aside is made once rather than on every run.",
