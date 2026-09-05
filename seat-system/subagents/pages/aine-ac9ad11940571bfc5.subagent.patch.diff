@@ -121,16 +121,3 @@ index e7b7b97c2d028ce84ae166f1109ceea16fe702e0..a787cb393a9e63308ec5196518619d5f
  //
  // GONE IS SAID OUT LOUD RATHER THAN DRAWN AS EMPTY. A caller reads an empty list exactly as it
  // reads a true nothing, and only one of the two is a fault: a save that went unread is not a
-diff --git a/alan/web/routes/api.claude-usage.test.ts b/alan/web/routes/api.claude-usage.test.ts
-index c273e79bbe558aa7f5dbe98d9e16e85cd4b57035..5de1a9361e8cb5dbdd44ec17470a6debffb8ab98 100644
---- a/alan/web/routes/api.claude-usage.test.ts
-+++ b/alan/web/routes/api.claude-usage.test.ts
-@@ -2,7 +2,7 @@
-  * What the usage tile is allowed to say, and what it must refuse to say.
-  *
-  * This route moved off `@shared/pages-query`, whose store could not see the figures it reduces —
-- * they are declared `uncommitted` on the claude-account page type and stand beside each account's
-+ * they are declared `uncommitted` on the claude-account page type and sit beside each account's
-  * page rather than in the commit — onto `@akasha/pages-system-service`, which reads them. The
-  * service reduces nothing, so the mean and the three "next instant" picks the four saved page
-  * queries carried are taken here over plain rows.
