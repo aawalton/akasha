@@ -1,3 +1,16 @@
+diff --git a/commands/drive/drive.command.test.ts b/commands/drive/drive.command.test.ts
+index 5fce5473380e920bdab297acc45a40e82cae5497..a89a2ecfda44623674786cd5778644da1d36d380 100644
+--- a/commands/drive/drive.command.test.ts
++++ b/commands/drive/drive.command.test.ts
+@@ -49,7 +49,7 @@ test("a flag with no value after it is refused", () => {
+   expect(refusedBy(["fetch", "--source"])[0]).toContain("takes a value")
+ })
+ 
+-test("the file is read from the word standing after the act", () => {
++test("the file is read from the word after the act", () => {
+   const read = readIn(["fetch", "1AbC"])
+   if ("refused" in read) throw new Error("this was refused")
+   expect(read.said.get("--source")).toBe("1AbC")
 diff --git a/commands/drive/drive.command.ts b/commands/drive/drive.command.ts
 index f1ba2aeea59b446a0585a3994cf570611fd9e24e..4be9259f03a12041831cf20a811c067ed39b1254 100644
 --- a/commands/drive/drive.command.ts
