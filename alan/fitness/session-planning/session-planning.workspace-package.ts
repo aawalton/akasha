@@ -41,7 +41,7 @@ export const sessionPlanning = {
     },
     {
       invariantKind: "departure",
-      statement: "A plan states why each movement stands where it stands.",
+      statement: "A plan states why each movement is where it is.",
     },
     {
       invariantKind: "departure",

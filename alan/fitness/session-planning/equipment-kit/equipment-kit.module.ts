@@ -18,7 +18,7 @@ export const equipmentKit = {
     },
     {
       invariantKind: "departure",
-      statement: "Kit standing for no equipment category is out of the kit.",
+      statement: "Kit naming no equipment category is out of the kit.",
     },
     {
       invariantKind: "absence",

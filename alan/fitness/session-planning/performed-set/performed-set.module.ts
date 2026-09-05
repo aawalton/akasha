@@ -17,7 +17,7 @@ export const performedSet = {
     },
     {
       invariantKind: "departure",
-      statement: "A value the log left out stands as null rather than as absent.",
+      statement: "A value the log left out is null rather than absent.",
     },
     {
       invariantKind: "departure",

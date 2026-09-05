@@ -17,7 +17,7 @@ test("a dumbbell is an implement", () => {
   expect(requiresNoImplement("dumbbell")).toBe(false)
 })
 
-test("kit with no implement stands for no category", () => {
+test("kit with no implement names no category", () => {
   expect(kitCategoryFor("body-only")).toBeNull()
   expect(kitCategoryFor(null)).toBeNull()
 })
@@ -28,7 +28,7 @@ test("each mapped implement names its category", () => {
   expect(kitCategoryFor("bands")).toBe("band")
 })
 
-test("an implement standing for no category is out of the kit", () => {
+test("an implement naming no category is out of the kit", () => {
   expect(kitCategoryFor("barbell")).toBeNull()
   expect(isInKit("barbell", DUMBBELLS)).toBe(false)
 })
