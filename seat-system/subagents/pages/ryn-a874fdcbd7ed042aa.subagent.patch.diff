@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-commands/inventory-explain-capabilities/inventory-explain-capabilities.module.ts b/temper/temper-commands/inventory-explain-capabilities/inventory-explain-capabilities.module.ts
+index 2526986e992a70d911406798478faeb6a8b7cc9d..3d16337a7d6fb15a644623b98e54119f0a915989 100644
+--- a/temper/temper-commands/inventory-explain-capabilities/inventory-explain-capabilities.module.ts
++++ b/temper/temper-commands/inventory-explain-capabilities/inventory-explain-capabilities.module.ts
+@@ -18,7 +18,7 @@ export const inventoryExplainCapabilities = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every item in every bag is reached with the place it is held in.",
++      statement: "Every item in every bag is reached with the place that item is held in.",
+     },
+     {
+       invariantKind: "absence",
