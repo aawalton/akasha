@@ -99,10 +99,6 @@ export const wan = {
     },
     {
       invariantKind: "departure",
-      statement: "An extend's whole length is four times a whole number plus one.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A seed nothing named is drawn and recorded with the run.",
     },
     {
