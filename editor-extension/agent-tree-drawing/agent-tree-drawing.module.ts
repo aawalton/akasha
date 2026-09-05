@@ -18,11 +18,11 @@ export const agentTreeDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "A filtered row takes an id of its own so the editor draws it again.",
+      statement: "A filtered row takes an id of its own so the editor draws that row again.",
     },
     {
       invariantKind: "departure",
-      statement: "A row carrying children is badged with how many it carries.",
+      statement: "A row carrying children is badged with how many that row carries.",
     },
     {
       invariantKind: "departure",
@@ -50,7 +50,7 @@ export const agentTreeDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "A click on a subagent opens the page akasha holds for it.",
+      statement: "A click on a subagent opens the page akasha holds for that subagent.",
     },
     {
       invariantKind: "departure",
