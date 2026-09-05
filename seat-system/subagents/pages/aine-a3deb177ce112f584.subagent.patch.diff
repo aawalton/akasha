@@ -73,7 +73,7 @@ index a22c46169c02651059b8ee77d0250df3adc79125..f9e190ae2210243b3ed3b81e12372781
        " one",
        "-two",
 diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
-index 326aaeb97d1bcd1e51687816bbe4ce0dcbf3c341..cbfc164bdc41c45d2d30d69b9f933860ed6720a6 100644
+index 326aaeb97d1bcd1e51687816bbe4ce0dcbf3c341..510a10f9e117f0c79b3b6fd62547785423d89fc3 100644
 --- a/command-system/landing/landing.module.code.ts
 +++ b/command-system/landing/landing.module.code.ts
 @@ -59,9 +59,9 @@ export type Drafted = {
@@ -106,3 +106,12 @@ index 326aaeb97d1bcd1e51687816bbe4ce0dcbf3c341..cbfc164bdc41c45d2d30d69b9f933860
          ),
          tail,
        ],
+@@ -370,7 +370,7 @@ export async function landing(
+     return {
+       refusals: [
+         `\`${read}\` names no commit, so it says nothing about what this change read`,
+-        "nothing was written — name a commit that stands, or name none",
++        "nothing was written — name a commit that is there, or name none",
+       ],
+     }
+   }
