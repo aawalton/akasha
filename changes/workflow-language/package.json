@@ -18,7 +18,7 @@
     "./rollback-image": "./rollback-image/rollback-image.module.code.ts",
     "./secrets": "./secrets/secrets.module.code.ts",
     "./set-image": "./set-image/set-image.module.code.ts",
-    "./sops-decrypt": "./sops-decrypt/sops-decrypt.module.code.ts",
+    "./sops-decrypt": "./sops-decrypt/sops-decrypt.workflow-step.code.ts",
     "./source-sync": "./source-sync/source-sync.module.code.ts",
     "./step": "./step/step.module.code.ts",
     "./verify-rollout": "./verify-rollout/verify-rollout.module.code.ts",
