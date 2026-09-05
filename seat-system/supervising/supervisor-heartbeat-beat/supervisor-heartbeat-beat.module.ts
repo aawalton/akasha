@@ -34,7 +34,8 @@ export const supervisorHeartbeatBeat = {
     },
     {
       invariantKind: "departure",
-      statement: "Taking the seat page down hands its outcome back instead of logging it.",
+      statement:
+        "Taking the seat page down hands its outcome back instead of logging that outcome.",
     },
     {
       invariantKind: "departure",
@@ -50,7 +51,8 @@ export const supervisorHeartbeatBeat = {
     },
     {
       invariantKind: "departure",
-      statement: "The beat is imported from beside this one, so a move of it is a diagnostic.",
+      statement:
+        "The beat is imported from beside this one, so a move of the beat is a diagnostic.",
     },
   ],
 } as const satisfies Module
