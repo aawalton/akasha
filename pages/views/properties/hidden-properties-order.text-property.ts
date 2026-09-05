@@ -14,7 +14,7 @@ export const hiddenPropertiesOrder = {
     {
       invariantKind: "departure",
       statement:
-        "A view carries the order its properties are shown in, the hidden ones among them.",
+        "A view carries the order its properties are shown in, the hidden ones among those properties.",
     },
   ],
 } as const satisfies TextProperty
