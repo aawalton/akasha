@@ -4,7 +4,7 @@ export const panelDomains = {
   id: "01a04e9f-4572-74d2-b19a-9fd2f81583eb",
   pageTypeSlug: "module",
   slug: "panel-domains",
-  definition: "every domain the domains panel draws, the one each sits under, and their order",
+  definition: "every domain the domains panel draws, its champion, its parent, and their order",
   code: "ts",
   test: "ts",
   invariants: [
@@ -37,6 +37,26 @@ export const panelDomains = {
     {
       invariantKind: "departure",
       statement: "An order is read out of the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A domain answers with the persona championing that domain.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A persona names the domain she champions, so that edge is read backwards here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A persona's own slug is read off her file name rather than out of her page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A domain two personas champion answers with the first of them by name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A domain no persona champions answers with no champion rather than an empty one.",
     },
     {
       invariantKind: "departure",

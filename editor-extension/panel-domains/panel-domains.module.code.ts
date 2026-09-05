@@ -14,11 +14,30 @@ const PARTS = "part-slugs"
 
 const PART_SLUGS = "partSlugs"
 
+const PERSONA = "persona"
+
+const CHAMPIONED = "championed-domain-slug"
+
 export type DomainRow = {
   readonly slug: string
   readonly path: string
+  readonly persona: string | null
   readonly parent: string | null
   readonly sequence: readonly string[]
+}
+
+// EVERY PERSONA BY THE ID THE INDEX KNOWS HER BY. A persona names the domain she champions, so the
+// edge runs from her to it; this is the half needed to read that edge backwards, from a domain to
+// whoever answers for it. Her slug is taken off her file name rather than out of her page, which
+// keeps this to the index and opens no body.
+function personaSlugById(root: string): ReadonlyMap<string, string> {
+  const byId = new Map<string, string>()
+  for (const one of everyOfType(root, PERSONA)) {
+    const said = partedIn(one.path)
+    if (said === null) continue
+    byId.set(one.id, said.slug)
+  }
+  return byId
 }
 
 function addressOf(path: string): string | null {
@@ -39,6 +58,7 @@ export function kindsUnderDomain(root: string): ReadonlySet<string> {
 }
 
 export function domainsDrawn(root: string): readonly DomainRow[] {
+  const personaBy = personaSlugById(root)
   const listed: Listed[] = []
   for (const kind of [...kindsUnderDomain(root)].sort()) {
     listed.push(...everyOfType(root, kind))
@@ -69,9 +89,16 @@ export function domainsDrawn(root: string): readonly DomainRow[] {
     const address = addressById.get(one.id)
     if (address === undefined) continue
     const above = parentsOf.get(address) ?? []
+    // A DOMAIN TWO PERSONAS CHAMPION NAMES THE FIRST BY NAME, so which one is drawn does not turn
+    // on what order the index answered in.
+    const champions = [...idsNaming(root, one.id, CHAMPIONED)]
+      .map((id) => personaBy.get(id))
+      .filter((slug): slug is string => slug !== undefined)
+      .sort()
     drawn.push({
       slug: address,
       path: one.path,
+      persona: champions[0] ?? null,
       parent: above.length === 1 ? (above[0]?.parent ?? null) : null,
       sequence: sequenceOf.get(address) ?? [],
     })

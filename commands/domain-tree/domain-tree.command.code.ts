@@ -9,12 +9,12 @@ import { championTree, type DomainRow } from "@akasha/editor-extension/champions
 import { type DomainRow as Drawn, domainsDrawn } from "@akasha/editor-extension/panel-domains"
 
 // A domain as the panel reads it, said as the tree wants it. The two spell the path differently and
-// the tree carries a champion the panel never reads, so the persona is null for every row.
+// agree on the rest.
 export function rowsFrom(drawn: readonly Drawn[]): readonly DomainRow[] {
   return drawn.map((one) => ({
     slug: one.slug,
     relPath: one.path,
-    persona: null,
+    persona: one.persona,
     parent: one.parent,
     sequence: one.sequence,
   }))

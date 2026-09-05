@@ -55,20 +55,34 @@ test("a domain no root reaches is named in unreached", () => {
   expect(said.unreached).toEqual(["one", "two"])
 })
 
-test("the panel's path is said as the tree's relPath, and no row carries a persona", () => {
+test("the panel's path is said as the tree's relPath, and the champion is carried on", () => {
   const said = rowsFrom([
-    { slug: "domain/akasha", path: "akasha/akasha.domain.ts", parent: null, sequence: [] },
+    {
+      slug: "domain/akasha",
+      path: "akasha/akasha.domain.ts",
+      persona: "amy",
+      parent: null,
+      sequence: [],
+    },
   ])
 
   expect(said).toEqual([
     {
       slug: "domain/akasha",
       relPath: "akasha/akasha.domain.ts",
-      persona: null,
+      persona: "amy",
       parent: null,
       sequence: [],
     },
   ])
+})
+
+test("a domain no persona champions is said with no champion", () => {
+  const said = rowsFrom([
+    { slug: "domain/pages", path: "pages.domain.ts", persona: null, parent: null, sequence: [] },
+  ])
+
+  expect(said[0]?.persona).toBeNull()
 })
 
 test("a call naming nothing is refused nothing", () => {
