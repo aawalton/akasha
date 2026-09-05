@@ -65,7 +65,7 @@ index 04c2449d72668c433727103ac606ecf1737fd6f6..4298f6aa978f7f232e6adade518d7935
        code: 3,
      }
 diff --git a/commands/lint/lint.command.test.ts b/commands/lint/lint.command.test.ts
-index 5f6dfacfb89cbeef25c49ce5945878482109b2fa..391256baee9613e2a3ba9f84b0dba0137d5a55e0 100644
+index 5f6dfacfb89cbeef25c49ce5945878482109b2fa..02380c96a0350425b372f5c4f2df245f8b24d3e4 100644
 --- a/commands/lint/lint.command.test.ts
 +++ b/commands/lint/lint.command.test.ts
 @@ -86,7 +86,7 @@ check("a tree the linter finds nothing in answers 0 and says so", () => {
@@ -86,7 +86,7 @@ index 5f6dfacfb89cbeef25c49ce5945878482109b2fa..391256baee9613e2a3ba9f84b0dba013
    const said = reportOf([
      finding("akasha/one.ts", 1),
      finding("akasha/one.ts", 12),
-@@ -122,7 +122,7 @@ check("findings are grouped by the file they stand in", () => {
+@@ -122,14 +122,14 @@ check("findings are grouped by the file they stand in", () => {
    expect(said[3]).toBe(`akasha/two.ts:3:1  ${RULE}  This variable is unused.`)
  })
  
@@ -95,3 +95,11 @@ index 5f6dfacfb89cbeef25c49ce5945878482109b2fa..391256baee9613e2a3ba9f84b0dba013
    expect(many(1, "finding")).toBe("1 finding")
    expect(many(0, "file")).toBe("0 files")
    const said = sayingOf([finding("akasha/one.ts", 1), finding("akasha/two.ts", 3)])
+   expect(said[said.length - 1]).toBe("2 findings in 2 files.")
+ })
+ 
+-check("a report past what one answer holds keeps its end, where the count stands", () => {
++check("a report past what one answer holds keeps its end, where the count is", () => {
+   const found = Array.from({ length: 4000 }, (_, at) => finding(`akasha/held-${at}.ts`, at))
+   const said = sayingOf(found).join("\n")
+   expect(said).toContain("4000 findings in 4000 files.")
