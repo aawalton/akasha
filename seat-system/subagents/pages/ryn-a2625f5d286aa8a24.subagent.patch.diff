@@ -1,5 +1,5 @@
 diff --git a/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts b/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
-index 2a2d776204628cd676ce25b374f59f4a70b6f2c5..9fdf06090486558502217db8f4e983caa99c1adc 100644
+index e1c0c8fca457b1bb44873f7a1781bea97a13f8ac..c91f77ed234f976f2c6961ceeb7e2ecd94762c84 100644
 --- a/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
 +++ b/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
 @@ -32,8 +32,11 @@ export const accountUpkeepStallReading = {
@@ -52,6 +52,19 @@ index e3f236e4b8543bec5a1683923e5e57db88a9a01c..0540c6adfba48acacb04410d45c8776e
        statement:
 -        "The rows around a transaction are drawn from every account rather than only its own, which is how the other leg of a movement between accounts is found.",
 +        "The rows around a transaction are drawn from every account rather than only its own.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts b/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
+index b5600efca30897ad27e8bc65665590df79d3456f..85786b70738165c22c0c831b3cdd2ab8d9366320 100644
+--- a/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
++++ b/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
+@@ -48,7 +48,7 @@ export const monarchAccount = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Monarch reopens a closed account under a second id rather than reviving the first, so two accounts carry the same last four digits.",
++        "Monarch reopens a closed account under a second id rather than reviving the first.",
      },
      {
        invariantKind: "departure",
