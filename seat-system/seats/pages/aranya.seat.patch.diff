@@ -1119,3 +1119,11 @@ index 4b29eeda06387f80ec149f40bd89425e9cdbb273..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-items-rules-matcher
 \ No newline at end of file
+diff --git a/temper/temper-items-rules-routing-core/temper-items-rules-routing-core b/temper/temper-items-rules-routing-core/temper-items-rules-routing-core
+deleted file mode 120000
+index c52221bdbe6859f411a5b965b51c1407e98c5b82..0000000000000000000000000000000000000000
+--- a/temper/temper-items-rules-routing-core/temper-items-rules-routing-core
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-items-rules-routing-core
+\ No newline at end of file
