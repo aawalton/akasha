@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/verdict/outcome/outcome.module.ts b/verdict/outcome/outcome.module.ts
-index d3b00db15e768be143a6eee6bfd56bf39e51330e..c189da5ce526453fe32d982018e7af4e67a741e6 100644
+index d3b00db15e768be143a6eee6bfd56bf39e51330e..b02f671d27f67f50d6fe022eac4d5126333717bf 100644
 --- a/verdict/outcome/outcome.module.ts
 +++ b/verdict/outcome/outcome.module.ts
-@@ -17,7 +17,7 @@ export const outcome = {
+@@ -17,11 +17,11 @@ export const outcome = {
      },
      {
        invariantKind: "departure",
@@ -12,3 +12,8 @@ index d3b00db15e768be143a6eee6bfd56bf39e51330e..c189da5ce526453fe32d982018e7af4e
      },
      {
        invariantKind: "departure",
+-      statement: "How much was looked at is carried beside what was found.",
++      statement: "How much was looked at is carried beside the findings.",
+     },
+   ],
+ } as const satisfies Module
