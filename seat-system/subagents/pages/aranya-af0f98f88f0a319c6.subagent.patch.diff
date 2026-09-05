@@ -1,4 +1,3 @@
-runsWarrants: false
 diff --git a/infrastructure/seaweedfs/backup-cnpg/seaweedfs-backup-cnpg.cluster-service.code.attachment.ts b/infrastructure/seaweedfs/backup-cnpg/seaweedfs-backup-cnpg.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 53c6367ec3d866b703f891ecf7d3b6a4c7956d22..0000000000000000000000000000000000000000
@@ -46,7 +45,7 @@ index 0000000000000000000000000000000000000000..53c6367ec3d866b703f891ecf7d3b6a4
 +  ]
 +}
 diff --git a/service-system/cluster-services/pages/seaweedfs-backup-cnpg.cluster-service.ts b/service-system/cluster-services/pages/seaweedfs-backup-cnpg.cluster-service.ts
-index 92f0958eea83a5f8e2a6290f27e657f21232f693..06afc6a765256e944ef25512805e9f59a2cc586c 100644
+index 92f0958eea83a5f8e2a6290f27e657f21232f693..b266f171f016fb08236ccf8edaa504767ea34435 100644
 --- a/service-system/cluster-services/pages/seaweedfs-backup-cnpg.cluster-service.ts
 +++ b/service-system/cluster-services/pages/seaweedfs-backup-cnpg.cluster-service.ts
 @@ -10,6 +10,5 @@ export const seaweedfsBackupCnpg = {
@@ -55,5 +54,5 @@ index 92f0958eea83a5f8e2a6290f27e657f21232f693..06afc6a765256e944ef25512805e9f59
    schedule: "7,22,37,52 * * * *",
 -  manifestCode:
 -    "infrastructure/seaweedfs/backup-cnpg/seaweedfs-backup-cnpg.cluster-service.code.attachment.ts",
-+  manifestCode: "infrastructure/seaweedfs/backup-cnpg/seaweedfs-backup-cnpg.manifest.code.ts",
++  manifestSlug: "seaweedfs-backup-cnpg",
  } as const satisfies ClusterService
