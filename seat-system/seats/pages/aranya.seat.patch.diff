@@ -911,3 +911,11 @@ index 161629cb22d3fa383e3c39c443b3331b6bb2f8ea..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-dungeons
 \ No newline at end of file
+diff --git a/temper/temper-equipment-kinds/temper-equipment-kinds b/temper/temper-equipment-kinds/temper-equipment-kinds
+deleted file mode 120000
+index a6016e965cc47591f5f926481664dec40ebb7f6b..0000000000000000000000000000000000000000
+--- a/temper/temper-equipment-kinds/temper-equipment-kinds
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-equipment-kinds
+\ No newline at end of file
