@@ -11,7 +11,7 @@ export const questionContext = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The context is what Alan reads before the ask rather than part of the ask.",
+      statement: "Alan reads the context before the ask rather than as part of the ask.",
     },
     {
       invariantKind: "departure",
