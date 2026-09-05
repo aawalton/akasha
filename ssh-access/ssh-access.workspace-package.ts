@@ -14,7 +14,7 @@ export const sshAccess = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what any script this package carries is for.",
+      statement: "Nothing here knows the purpose of any script this package carries.",
     },
   ],
 } as const satisfies WorkspacePackage
