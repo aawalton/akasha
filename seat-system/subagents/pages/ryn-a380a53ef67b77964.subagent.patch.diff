@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/agents/models/gateway/modules/message-handler/message-handler.module.ts b/agents/models/gateway/modules/message-handler/message-handler.module.ts
+index 63b6aac7ee64b49e515b8546839c0d095d4a4fd9..a95ea3ffb6d13885b377bc279e6430e25aa2fa2f 100644
+--- a/agents/models/gateway/modules/message-handler/message-handler.module.ts
++++ b/agents/models/gateway/modules/message-handler/message-handler.module.ts
+@@ -58,7 +58,7 @@ export const messageHandler = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What was thrown is written about beside the line naming the fallthrough.",
++      statement: "The error thrown is written about beside the line naming the fallthrough.",
+     },
+     {
+       invariantKind: "departure",
