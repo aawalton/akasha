@@ -9,6 +9,7 @@ export const refactorChange = {
   slug: "refactor-change",
   definition: "a change built from atomic changes and other refactor changes",
   pluralSlug: "refactor-changes",
+  partSlugs: ["refactor-change/rename-code-token"],
   extendsSlug: ["page-type/module"],
   invariants: [
     {
