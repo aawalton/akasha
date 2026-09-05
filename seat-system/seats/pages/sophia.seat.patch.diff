@@ -1,0 +1,21 @@
+diff --git a/akasha.domain.ts b/akasha.domain.ts
+index 4321824e2d3bec429ef2cc2f53d2f0ebf3bb677b..00fa82ad272e0c89616d10a7f9ef6a711fbca7aa 100644
+--- a/akasha.domain.ts
++++ b/akasha.domain.ts
+@@ -194,6 +194,16 @@ export const akasha = {
+         "Shorter is not always cheaper.",
+       ],
+     },
++    {
++      directiveKind: "principle",
++      name: "Cut The Obvious",
++      act: "Keep an instruction only where Opus 5 would consistently make avoidable mistakes without it.",
++      warrant: "A line the model would have obeyed anyway reads exactly like one it needs.",
++      aids: [
++        "One agent's slip is not a consistent mistake.",
++        "Test a single word the way you test a document.",
++      ],
++    },
+     {
+       directiveKind: "rule",
+       name: "Currency",
