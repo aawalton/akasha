@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/git/push-repo/push-repo.module.ts b/git/push-repo/push-repo.module.ts
+index fcc033e8f7069e645f0a846b05a6ff0fece1b17a..e67ef968a3fa016d039b236a517399d6b0f8595c 100644
+--- a/git/push-repo/push-repo.module.ts
++++ b/git/push-repo/push-repo.module.ts
+@@ -19,7 +19,7 @@ export const pushRepo = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a push did is left in a state file rather than said to a caller.",
++      statement: "A push's outcome is left in a state file rather than said to a caller.",
+     },
+     {
+       invariantKind: "absence",
