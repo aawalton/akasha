@@ -10,7 +10,7 @@ export const emailCommandReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What a command takes is handed in rather than spelled here.",
+      statement: "The arguments a command takes are handed in rather than spelled here.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,7 @@ export const emailCommandReading = {
     },
     {
       invariantKind: "departure",
-      statement: "What is said both as a word and at its flag is refused.",
+      statement: "A value said both as a word and at its flag is refused.",
     },
     {
       invariantKind: "departure",
