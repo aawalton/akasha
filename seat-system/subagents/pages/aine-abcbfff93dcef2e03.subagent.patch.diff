@@ -12,6 +12,28 @@ index d3ed0ff2ccd0ba63a84b4c19d6218388f68f00d8..3e510ced965ed54dd056459d101fa491
      },
    ],
  } as const satisfies PageType
+diff --git a/domains/initiatives/initiative.page-type.ts b/domains/initiatives/initiative.page-type.ts
+index c6ecc2456d609e0cec7e4885c6c29afe95912f2f..1e3640560164cc00922519619eaca7790c5582b3 100644
+--- a/domains/initiatives/initiative.page-type.ts
++++ b/domains/initiatives/initiative.page-type.ts
+@@ -41,7 +41,7 @@ export const initiative = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "An initiative stands under another initiative or under none.",
++      statement: "An initiative sits under another initiative or under none.",
+     },
+     {
+       invariantKind: "departure",
+@@ -72,7 +72,7 @@ export const initiative = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "An initiative dies when the initiative is reached rather than standing as a domain that is done.",
++        "An initiative dies when the initiative is reached rather than remaining as a domain that is done.",
+     },
+     {
+       invariantKind: "upkeep",
 diff --git a/domains/initiatives/properties/intents.record-property.ts b/domains/initiatives/properties/intents.record-property.ts
 index 5eaf7f0bdad5c83087cbe0aa418146ac7415fa0c..9eab6ef157a6a7608c647258ef57c715c381a905 100644
 --- a/domains/initiatives/properties/intents.record-property.ts
