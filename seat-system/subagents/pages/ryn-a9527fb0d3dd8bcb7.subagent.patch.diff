@@ -1,0 +1,14 @@
+diff --git a/pages/system-service/pages-system-service.workspace-package.ts b/pages/system-service/pages-system-service.workspace-package.ts
+index b44f6a5a38ee47c2f9bbfda3c44cb3bdd68a9754..18ad575b6a7def2583045954c08bfa98cd3bc9fe 100644
+--- a/pages/system-service/pages-system-service.workspace-package.ts
++++ b/pages/system-service/pages-system-service.workspace-package.ts
+@@ -25,7 +25,8 @@ export const pagesSystemService = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "It answers for the pages standing in akasha and for no others.",
++      statement:
++        "The pages system service answers for the pages standing in akasha and for no others.",
+     },
+     {
+       invariantKind: "departure",
