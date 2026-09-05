@@ -175,6 +175,52 @@ index 7a4c076e535f2bc96a4877619c461b785892ff25..8af637815b76ede068336552f5450392
      {
        invariantKind: "departure",
        statement: "A path is named behind `--file-path` like `write` and `remove` name theirs.",
+diff --git a/google/email/commands/email-drafts-create/email-drafts-create.command.ts b/google/email/commands/email-drafts-create/email-drafts-create.command.ts
+index fcfc8592f8508aa2fa560195b5b24e0da82e8793..14cc4ab88bf271bc454d920cb9f82cf4f88e2734 100644
+--- a/google/email/commands/email-drafts-create/email-drafts-create.command.ts
++++ b/google/email/commands/email-drafts-create/email-drafts-create.command.ts
+@@ -48,10 +48,6 @@ export const emailDraftsCreate = {
+       statement: "A body read from a file is carried whole.",
+     },
+ 
+-    {
+-      invariantKind: "departure",
+-      statement: "A sender given in angle brackets carries the name before the brackets.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "An attachment is read off the disk before the mail is composed.",
+diff --git a/google/email/commands/email-messages-send/email-messages-send.command.ts b/google/email/commands/email-messages-send/email-messages-send.command.ts
+index 2351e5067aca859feb3a8c001b6a608440dfd035..122f643f2a1f246e65c0b7870c861591bcfad2e6 100644
+--- a/google/email/commands/email-messages-send/email-messages-send.command.ts
++++ b/google/email/commands/email-messages-send/email-messages-send.command.ts
+@@ -48,10 +48,6 @@ export const emailMessagesSend = {
+       statement: "A body read from a file is carried whole.",
+     },
+ 
+-    {
+-      invariantKind: "departure",
+-      statement: "A sender given in angle brackets carries the name before the brackets.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "An attachment is read off the disk before the mail is composed.",
+diff --git a/pages/file-name/page-file-name.module.ts b/pages/file-name/page-file-name.module.ts
+index 309e8ea15fdefe79ca1bb15e6ab99a4d576675c9..54cc4eb307e9ffb4d4ccb73f201483ab5f15efb1 100644
+--- a/pages/file-name/page-file-name.module.ts
++++ b/pages/file-name/page-file-name.module.ts
+@@ -123,10 +123,7 @@ export const pageFileName = {
+       invariantKind: "departure",
+       statement: "A file property slug is never a reserved section.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A property's files are numbered from the first.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A part section is the word `part` and a number of two or more.",
 diff --git a/temper/temper-companions-core/companion-metrics-00/companion-metrics-00.module.ts b/temper/temper-companions-core/companion-metrics-00/companion-metrics-00.module.ts
 index 992a0b584176b02c784b31ad0edb7444e0221016..f447a654843d1f92dea177036bf9fb8d5a3347f9 100644
 --- a/temper/temper-companions-core/companion-metrics-00/companion-metrics-00.module.ts
