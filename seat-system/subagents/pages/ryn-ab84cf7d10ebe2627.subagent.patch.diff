@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/computing/page-computing.module.ts b/pages/computing/page-computing.module.ts
+index 8f9ffacf45be452bbe55a0a5c9ebf8c3bf31dedc..137d83ca939324655d8ad758e40f952d596efd7e 100644
+--- a/pages/computing/page-computing.module.ts
++++ b/pages/computing/page-computing.module.ts
+@@ -59,7 +59,7 @@ export const pageComputing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A refusal a key carries says what the fault was.",
++      statement: "A refusal a key carries names the fault.",
+     },
+     {
+       invariantKind: "departure",
