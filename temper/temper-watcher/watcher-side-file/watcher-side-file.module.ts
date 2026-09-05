@@ -18,7 +18,7 @@ export const watcherSideFile = {
     },
     {
       invariantKind: "departure",
-      statement: "The refusal names every value it was told nothing for.",
+      statement: "The refusal names every value the build was told nothing for.",
     },
     {
       invariantKind: "departure",
