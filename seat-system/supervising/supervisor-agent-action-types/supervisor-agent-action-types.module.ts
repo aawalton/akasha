@@ -13,7 +13,7 @@ export const supervisorAgentActionTypes = {
     },
     {
       invariantKind: "absence",
-      statement: "This declares no behaviour.",
+      statement: "This module declares no behaviour.",
     },
   ],
 } as const satisfies Module

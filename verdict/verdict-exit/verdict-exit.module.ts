@@ -9,7 +9,7 @@ export const verdictExit = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A kind this build cannot read exits 2.",
+      statement: "A kind the build cannot read exits 2.",
     },
   ],
 } as const satisfies Module

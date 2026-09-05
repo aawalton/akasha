@@ -9,7 +9,7 @@ export const checkAddonDependencyFloor = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "The population this run states is the add-ons on the roster.",
+      statement: "The population the run states is the add-ons on the roster.",
     },
     {
       invariantKind: "constraint",

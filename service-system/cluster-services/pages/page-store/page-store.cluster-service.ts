@@ -33,11 +33,11 @@ export const pageStore = {
     },
     {
       invariantKind: "departure",
-      statement: "A pod reaches this by an ordinary cluster name on an ordinary port.",
+      statement: "A pod reaches this service by an ordinary cluster name on an ordinary port.",
     },
     {
       invariantKind: "departure",
-      statement: "Nothing calling this is configured with a proxy.",
+      statement: "Nothing calling this service is configured with a proxy.",
     },
     {
       invariantKind: "departure",
@@ -45,7 +45,7 @@ export const pageStore = {
     },
     {
       invariantKind: "departure",
-      statement: "No second private-network node is enrolled for this.",
+      statement: "No second private-network node is enrolled for this service.",
     },
     {
       invariantKind: "departure",

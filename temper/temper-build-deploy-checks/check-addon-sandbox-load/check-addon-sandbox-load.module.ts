@@ -10,7 +10,7 @@ export const checkAddonSandboxLoad = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "The population this run states is the emitted bundles under the build output.",
+      statement: "The population the run states is the emitted bundles under the build output.",
     },
     {
       invariantKind: "constraint",

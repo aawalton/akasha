@@ -23,7 +23,7 @@ export const treasureUpstreamPort = {
     {
       invariantKind: "departure",
       statement:
-        "This keeps its own serializer because the shared one writes every table as an object.",
+        "This module keeps its own serializer because the shared one writes every table as an object.",
     },
     {
       invariantKind: "departure",

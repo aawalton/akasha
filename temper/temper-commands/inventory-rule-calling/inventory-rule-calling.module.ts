@@ -80,7 +80,7 @@ export const inventoryRuleCalling = {
     },
     {
       invariantKind: "gap",
-      statement: "The rule store this reads through is in akasha.",
+      statement: "The rule store this module reads through is in akasha.",
     },
     {
       invariantKind: "absence",
