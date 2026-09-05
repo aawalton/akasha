@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/code/code-audit-ast-unused.domain.ts b/code/code-audit-ast-unused.domain.ts
-index 521a81cadeda9931feb754508b7c80be8c0e0cd3..2d1db9c353bd3ab85d0888c20e82d4c24e7790ab 100644
+index 521a81cadeda9931feb754508b7c80be8c0e0cd3..69c46b955c8ca8d1b55b932b846f466f5fb0122b 100644
 --- a/code/code-audit-ast-unused.domain.ts
 +++ b/code/code-audit-ast-unused.domain.ts
-@@ -25,7 +25,7 @@ export const codeAuditAstUnused = {
+@@ -25,11 +25,11 @@ export const codeAuditAstUnused = {
      },
      {
        invariantKind: "departure",
@@ -12,3 +12,8 @@ index 521a81cadeda9931feb754508b7c80be8c0e0cd3..2d1db9c353bd3ab85d0888c20e82d4c2
      },
      {
        invariantKind: "departure",
+-      statement: "A change to the entry globs moves what reads as reached.",
++      statement: "A change to the entry globs moves the files that read as reached.",
+     },
+   ],
+ } as const satisfies Domain
