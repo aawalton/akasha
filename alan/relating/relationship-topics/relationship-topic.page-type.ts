@@ -41,7 +41,7 @@ export const relationshipTopic = {
     },
     {
       invariantKind: "departure",
-      statement: "A relationship topic names the people it is held with.",
+      statement: "A relationship topic names the people that topic is held with.",
     },
     {
       invariantKind: "absence",
