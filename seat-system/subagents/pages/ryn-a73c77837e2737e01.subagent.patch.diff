@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/alan/fitness/commands/exercise-saying/exercise-saying.module.ts b/alan/fitness/commands/exercise-saying/exercise-saying.module.ts
-index c35609730eeba479ef12d81f8eba5784397620fd..1b513ef8007b4b42854547ef7fac3461958aa11f 100644
+index c35609730eeba479ef12d81f8eba5784397620fd..10ea49c6e0076bea28132e4bd40d889b27b39d49 100644
 --- a/alan/fitness/commands/exercise-saying/exercise-saying.module.ts
 +++ b/alan/fitness/commands/exercise-saying/exercise-saying.module.ts
 @@ -13,7 +13,7 @@ export const exerciseSaying = {
@@ -9,6 +9,15 @@ index c35609730eeba479ef12d81f8eba5784397620fd..1b513ef8007b4b42854547ef7fac3461
        invariantKind: "departure",
 -      statement: "A flag taking a value with no value after it is a refusal.",
 +      statement: "A flag taking a value with no value after that flag is a refusal.",
+     },
+     {
+       invariantKind: "departure",
+@@ -25,7 +25,7 @@ export const exerciseSaying = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every refusal a call earns is gathered before any of them is answered.",
++      statement: "Every refusal a call earns is gathered before any of those refusals is answered.",
      },
      {
        invariantKind: "departure",
