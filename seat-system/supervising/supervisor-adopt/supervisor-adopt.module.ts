@@ -17,7 +17,7 @@ export const supervisorAdopt = {
     },
     {
       invariantKind: "departure",
-      statement: "An inherited child keeps the config file the supervisor before it reconciled.",
+      statement: "An inherited child keeps the config file the prior supervisor reconciled.",
     },
     {
       invariantKind: "departure",
