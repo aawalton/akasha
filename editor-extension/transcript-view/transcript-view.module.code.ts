@@ -1,3 +1,5 @@
+import { type FSWatcher, watch } from "node:fs"
+import { dirname, join } from "node:path"
 import * as vscode from "vscode"
 import { renderEntries } from "../transcript-drawing/transcript-drawing.module.code.ts"
 import type { Entry } from "../transcript-model/transcript-model.module.code.ts"
@@ -6,8 +8,6 @@ import {
   type TranscriptRead,
 } from "../transcript-reading/transcript-reading.module.code.ts"
 import { seatTranscriptOf } from "../transcript-sources/transcript-sources.module.code.ts"
-
-const POLL_INTERVAL_MS = 1_000
 
 export interface TranscriptTarget {
   readonly agentId?: string
@@ -77,6 +77,32 @@ export function openTranscriptPanel(
     return target.transcriptPath ?? null
   }
 
+  // THE FOLDERS THIS PANEL IS FED BY. A transcript is appended to rather than replaced, so the
+  // file keeps its inode and could be watched directly; the folder is watched instead because a
+  // rotation writes a file beside it, and one watcher then catches the append and the rotation
+  // alike. The subagents folder is the reader's second source and is watched the same way.
+  //
+  // A folder that is not there yet throws rather than being waited for, and the next read tries
+  // again — which is what brings the subagents folder under watch the moment it is made.
+  const watching = new Set<string>()
+  const watchers: FSWatcher[] = []
+
+  const watchFolder = (folder: string): undefined => {
+    if (watching.has(folder)) {
+      return undefined
+    }
+    let watcher: FSWatcher
+    try {
+      watcher = watch(folder, () => void tick())
+    } catch {
+      return undefined
+    }
+    watcher.unref()
+    watching.add(folder)
+    watchers.push(watcher)
+    return undefined
+  }
+
   const readOnce = async (): Promise<undefined> => {
     const transcriptPath = await resolvePath()
     if (transcriptPath === null) {
@@ -94,6 +120,9 @@ export function openTranscriptPanel(
       state.lastSize = -1
       void panel.webview.postMessage({ kind: "reset" })
     }
+
+    watchFolder(dirname(transcriptPath))
+    watchFolder(join(transcriptPath.replace(/\.jsonl$/, ""), "subagents"))
 
     const began = Date.now()
     const read = await reader.read(transcriptPath)
@@ -132,18 +161,37 @@ export function openTranscriptPanel(
 
   let reading: Promise<undefined> | undefined
 
+  // A WRITE ARRIVING MID-READ IS READ FOR RATHER THAN DROPPED. Appends land in bursts, so waiting
+  // on the read in flight and returning would lose whatever arrived while it ran, and the panel
+  // would sit behind the file until the next write. Asking again once the read finishes is what
+  // makes the last append the one on screen, and it costs nothing where no write arrived.
+  let again = false
+
+  const runOnce = async (): Promise<undefined> => {
+    try {
+      await readOnce()
+    } catch (err) {
+      say(`[transcript] read failed: ${String(err)}`)
+    }
+    return undefined
+  }
+
   const tick = async (): Promise<undefined> => {
-    const inFlight = reading
-    if (inFlight !== undefined) {
-      await inFlight
+    if (reading !== undefined) {
+      again = true
       return undefined
     }
-    const started = readOnce()
+    const started = (async (): Promise<undefined> => {
+      await runOnce()
+      while (again) {
+        again = false
+        await runOnce()
+      }
+      return undefined
+    })()
     reading = started
     try {
       await started
-    } catch (err) {
-      say(`[transcript] read failed: ${String(err)}`)
     } finally {
       reading = undefined
     }
@@ -151,8 +199,17 @@ export function openTranscriptPanel(
   }
 
   void tick()
-  const timer = setInterval(() => void tick(), POLL_INTERVAL_MS)
-  panel.onDidDispose(() => clearInterval(timer), null, context.subscriptions)
+  panel.onDidDispose(
+    () => {
+      for (const watcher of watchers) {
+        watcher.close()
+      }
+      watchers.length = 0
+      watching.clear()
+    },
+    null,
+    context.subscriptions
+  )
   return panel
 }
 

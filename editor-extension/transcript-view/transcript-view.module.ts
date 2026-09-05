@@ -4,7 +4,7 @@ export const transcriptView = {
   id: "01a06811-01d3-7003-a56a-b2779b494581",
   pageTypeSlug: "module",
   slug: "transcript-view",
-  definition: "the webview a seat's transcript is drawn into, and what each poll draws again",
+  definition: "the webview a seat's transcript is drawn into, and what each read draws again",
   code: "ts",
   invariants: [
     {
@@ -17,7 +17,7 @@ export const transcriptView = {
     },
     {
       invariantKind: "departure",
-      statement: "The entries after the settled ones are drawn again on every poll.",
+      statement: "The entries after the settled ones are drawn again on every read.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const transcriptView = {
     },
     {
       invariantKind: "departure",
-      statement: "A poll that folded nothing anywhere leaves the panel as that panel is.",
+      statement: "A read that folded nothing anywhere leaves the panel as that panel is.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +41,31 @@ export const transcriptView = {
     },
     {
       invariantKind: "departure",
-      statement: "A poll arriving mid-read waits for the read in flight.",
+      statement: "A write arriving mid-read is read for once that read finishes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The panel reads when a file it is fed by is written and at no other time.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The folder holding a transcript is watched rather than the transcript.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One watcher on that folder catches an append and a rotation alike.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The folder a transcript's subagents sit in is watched as well.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder that is not there yet is watched once the next read finds it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Closing a panel closes every watcher that panel registered.",
     },
     {
       invariantKind: "departure",
@@ -65,11 +89,15 @@ export const transcriptView = {
     },
     {
       invariantKind: "departure",
-      statement: "One channel says what every transcript panel's poll cost.",
+      statement: "One channel says what every transcript panel's read cost.",
     },
     {
       invariantKind: "absence",
       statement: "No transcript content passes through that channel.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No timer starts a read.",
     },
   ],
 } as const satisfies Module
