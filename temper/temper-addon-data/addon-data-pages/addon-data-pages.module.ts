@@ -25,7 +25,7 @@ export const addonDataPages = {
     },
     {
       invariantKind: "departure",
-      statement: "A limit above the count of a page type's pages is what asking whole means.",
+      statement: "Asking whole means a limit above the count of a page type's pages.",
     },
     {
       invariantKind: "departure",
