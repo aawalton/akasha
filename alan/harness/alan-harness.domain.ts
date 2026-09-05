@@ -81,15 +81,15 @@ export const alanHarness = {
     },
     {
       invariantKind: "gap",
-      statement: "A deploy to Alan's harness adds only what is there to change.",
+      statement: "A deploy to Alan's harness adds only the things there to change.",
     },
     {
       invariantKind: "gap",
-      statement: "A deploy to Alan's harness removes only what is there to change.",
+      statement: "A deploy to Alan's harness removes only the things there to change.",
     },
     {
       invariantKind: "gap",
-      statement: "A deploy to Alan's harness replaces only what is there to change.",
+      statement: "A deploy to Alan's harness replaces only the things there to change.",
     },
     {
       invariantKind: "gap",
