@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/dev-server/dev-server.command.ts b/commands/dev-server/dev-server.command.ts
+index 07799a25c74ce9afb6ee46f99b08176684847d5c..4edee731dfe74c77e9e25376705b0b73d6bf4cba 100644
+--- a/commands/dev-server/dev-server.command.ts
++++ b/commands/dev-server/dev-server.command.ts
+@@ -88,7 +88,7 @@ export const devServer = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A restart answers with what its start answered and nothing of its stop.",
++      statement: "A restart answers with the answer its start gave and nothing of its stop.",
+     },
+     {
+       invariantKind: "departure",
