@@ -1,0 +1,16 @@
+diff --git a/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts b/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts
+index 796b3068a1287e157731380e746a16b0cf515f7e..a7d6387750d124e93d74d1479cc354a4d15fde02 100644
+--- a/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts
++++ b/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts
+@@ -17,11 +17,6 @@ export const renameExport = {
+       statement:
+         "A page's export is its slug, and renaming that is a slug rename rather than this.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "Which files name the declaring file is asked of the index rather than walked for.",
+-    },
+ 
+     {
+       invariantKind: "departure",
