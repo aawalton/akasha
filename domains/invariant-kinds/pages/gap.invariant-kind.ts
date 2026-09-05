@@ -9,7 +9,7 @@ export const gap = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Knowing a gap stops a reader relying on it.",
+      statement: "Knowing a gap stops a reader relying on that gap.",
     },
     {
       invariantKind: "departure",
