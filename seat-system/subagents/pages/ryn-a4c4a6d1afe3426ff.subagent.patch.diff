@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/calendar-sync/event-to-page/event-to-page.module.ts b/calendar-sync/event-to-page/event-to-page.module.ts
+index 5155e1cfcef84895beb6722a065b38f4b1db27de..72d7d36ecee89bd653de2c05a41203172f63e795 100644
+--- a/calendar-sync/event-to-page/event-to-page.module.ts
++++ b/calendar-sync/event-to-page/event-to-page.module.ts
+@@ -17,7 +17,7 @@ export const eventToPage = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What registration a closed event once had is not carried.",
++      statement: "The registration a closed event once had is not carried.",
+     },
+     {
+       invariantKind: "departure",
