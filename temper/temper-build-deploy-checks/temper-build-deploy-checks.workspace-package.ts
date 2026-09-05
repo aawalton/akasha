@@ -98,7 +98,7 @@ export const temperBuildDeployChecks = {
     },
     {
       invariantKind: "gap",
-      statement: "Most of what this package is made of is still outside akasha.",
+      statement: "Most of the code this package is made of is still outside akasha.",
     },
   ],
 } as const satisfies WorkspacePackage
