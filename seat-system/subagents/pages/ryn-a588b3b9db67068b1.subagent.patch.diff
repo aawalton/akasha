@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/terminal-init/terminal-reload/terminal-reload.module.ts b/seat-system/terminal-init/terminal-reload/terminal-reload.module.ts
+index 06810659e78032f44ef2a8bc9ffa58d832fbbc02..d5a2c445c5bbb22b1b060214e43a302b322dda3a 100644
+--- a/seat-system/terminal-init/terminal-reload/terminal-reload.module.ts
++++ b/seat-system/terminal-init/terminal-reload/terminal-reload.module.ts
+@@ -14,8 +14,7 @@ export const terminalReload = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "What a launcher does sits under a name of its own rather than under the name typed.",
++      statement: "A launcher's body sits under a name of its own rather than under the name typed.",
+     },
+     {
+       invariantKind: "departure",
