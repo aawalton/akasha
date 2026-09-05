@@ -1,0 +1,14 @@
+diff --git a/alan/harness/monarch/agreement/monarch-agreement.module.ts b/alan/harness/monarch/agreement/monarch-agreement.module.ts
+index 42417a3a6d7da6e3ecf12011768571e163e185ec..bd60fcc2dbf5756fdbbc52e7b17ab23f8d1491b4 100644
+--- a/alan/harness/monarch/agreement/monarch-agreement.module.ts
++++ b/alan/harness/monarch/agreement/monarch-agreement.module.ts
+@@ -37,8 +37,7 @@ export const monarchAgreement = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Parting is left non-zero, because both home rings draw off our copy and a difference is a number someone is reading as true.",
++      statement: "Parting is left non-zero.",
+     },
+     {
+       invariantKind: "absence",
