@@ -169,17 +169,22 @@ index 0000000000000000000000000000000000000000..3afa71fd3bc476bc3fa2d30819ca4cd4
 +  ]
 +}
 diff --git a/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff b/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff
-index 84c29bf4e180714c78ecbdb6b7be3c2bbf2d7604..6606343e21ec921394d55b6deb55e2d56dda3825 100644
+index d6c0524c59c27008667b05998cf59e03d9864592..c0c813a31da59536755a6fa242c8a4b396b92ce6 100644
 --- a/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff
 +++ b/seat-system/subagents/pages/aranya-a7484769e2034fb49.subagent.patch.diff
-@@ -7,6 +7,6 @@ index df97dfbe02cde97a2e73cbcd353f69974300b0b9..4147faae267dad3e3500f8c813b96531
+@@ -359,8 +359,12 @@ index df97dfbe02cde97a2e73cbcd353f69974300b0b9..d44ebbbbb5342ef8742d7a66bc2169d7
       "registry.registry.svc.cluster.local:5000/cluster/postgres-cnpg:18-ts2.24-pgcron-pgnet-wal2json-pgjsonschema-r1",
     replicas: 2,
  -  manifestCode:
---    "service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +-    "infrastructure/databases/postgres-cnpg/postgres-cnpg.manifest.code.ts",
++=======
+ -    "service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg.cluster-service.code.attachment.ts",
+ +<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
  +  manifestSlug: "postgres-cnpg",
-  } as const satisfies ClusterService
+ +=======
+ +  manifestCode: "infrastructure/databases/postgres-cnpg/postgres-cnpg.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 3afa71fd3bc476bc3fa2d30819ca4cd453666307..0000000000000000000000000000000000000000
@@ -351,18 +356,14 @@ index 3afa71fd3bc476bc3fa2d30819ca4cd453666307..00000000000000000000000000000000
 -  ]
 -}
 diff --git a/service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg.cluster-service.ts b/service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg.cluster-service.ts
-index df97dfbe02cde97a2e73cbcd353f69974300b0b9..d44ebbbbb5342ef8742d7a66bc2169d7eaa7d4a7 100644
+index df97dfbe02cde97a2e73cbcd353f69974300b0b9..4147faae267dad3e3500f8c813b9653157546984 100644
 --- a/service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg.cluster-service.ts
 +++ b/service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg.cluster-service.ts
-@@ -11,6 +11,9 @@ export const postgresCnpg = {
+@@ -11,6 +11,5 @@ export const postgresCnpg = {
    image:
      "registry.registry.svc.cluster.local:5000/cluster/postgres-cnpg:18-ts2.24-pgcron-pgnet-wal2json-pgjsonschema-r1",
    replicas: 2,
 -  manifestCode:
 -    "service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg.cluster-service.code.attachment.ts",
-+<<<<<<< what this change would leave
 +  manifestSlug: "postgres-cnpg",
-+=======
-+  manifestCode: "infrastructure/databases/postgres-cnpg/postgres-cnpg.manifest.code.ts",
-+>>>>>>> what HEAD holds
  } as const satisfies ClusterService
