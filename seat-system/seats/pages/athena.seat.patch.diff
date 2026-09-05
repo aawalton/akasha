@@ -1,0 +1,7 @@
+diff --git a/alan/fitness/coaching-constraints/pages/air-quality-is-a-hard-medical-gate/air-quality-is-a-hard-medical-gate.coaching-constraint.asks.txt b/alan/fitness/coaching-constraints/pages/air-quality-is-a-hard-medical-gate/air-quality-is-a-hard-medical-gate.coaching-constraint.asks.txt
+index dcc01a973c0673c45e7b777ac2b0fbd9f465b50a..dcaf8245f172acb988c3e8c66ab4a2f4d75816c0 100644
+--- a/alan/fitness/coaching-constraints/pages/air-quality-is-a-hard-medical-gate/air-quality-is-a-hard-medical-gate.coaching-constraint.asks.txt
++++ b/alan/fitness/coaching-constraints/pages/air-quality-is-a-hard-medical-gate/air-quality-is-a-hard-medical-gate.coaching-constraint.asks.txt
+@@ -1 +1 @@
+-Subliminal asthmatic bronchitis: exerting with particulates in the air can trigger a weeks-long flare. Poor AQI → NO outdoor cardio/exertion, full stop. Check `ops tracking air-quality` before ever recommending outdoor work; on bad-air days pivot to indoor respiratory-safe movement only.
++Subliminal asthmatic bronchitis: exerting with particulates in the air can trigger a weeks-long flare. Poor AQI → NO outdoor cardio/exertion, full stop. Read the air over Provo before ever recommending outdoor work, and treat an indoor-only verdict as binding; on bad-air days pivot to indoor respiratory-safe movement only. Nothing on a command line reads it today — the reading and the verdict are functions, `fetchAirQuality` and `assessOutdoor`, and no command calls them.
