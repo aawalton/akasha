@@ -53,7 +53,7 @@ export const designSystem = {
     {
       invariantKind: "departure",
       statement:
-        "What separates a component from its neighbours is written on the parent, not the component.",
+        "The space separating a component from its neighbours is written on the parent, not the component.",
     },
     {
       invariantKind: "absence",
