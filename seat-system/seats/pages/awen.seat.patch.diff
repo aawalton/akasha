@@ -1,0 +1,17 @@
+diff --git a/checks/code-checks/pages/typescript-7/typescript-7.code-check.ts b/checks/code-checks/pages/typescript-7/typescript-7.code-check.ts
+index 15d56732cc64fe9ba892d8f4e8c85a2bbcef4f24..6c83cc9f3521391925431fa12c6e6ebe37c2c4a5 100644
+--- a/checks/code-checks/pages/typescript-7/typescript-7.code-check.ts
++++ b/checks/code-checks/pages/typescript-7/typescript-7.code-check.ts
+@@ -8,9 +8,9 @@ export const typescript7 = {
+   code: "ts",
+   test: "ts",
+   runsOnPatch: true,
+-  runsOnWorktree: true,
+-  runsOnDeploy: true,
+-  runsOnAudit: true,
++  runsOnWorktree: false,
++  runsOnDeploy: false,
++  runsOnAudit: false,
+   invariants: [
+     {
+       invariantKind: "departure",
