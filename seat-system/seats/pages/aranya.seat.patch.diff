@@ -1,0 +1,18 @@
+diff --git a/service-system/cluster-services/cluster-service.page-type.ts b/service-system/cluster-services/cluster-service.page-type.ts
+index 4a304d55534d63cafa573045afe93b34bde82099..444c35755c172d187b6a7b4a3499187f08208ff2 100644
+--- a/service-system/cluster-services/cluster-service.page-type.ts
++++ b/service-system/cluster-services/cluster-service.page-type.ts
+@@ -80,6 +80,13 @@ export const clusterService = {
+     "cluster-service/supabase-studio",
+     "cluster-service/tailnet-egress",
+     "cluster-service/talos-subnet-router",
++    "module/cluster-api-reaching",
++    "module/log-bound-saying",
++    "module/loki-log-fetching",
++    "module/web-app-building",
++    "module/web-app-reading",
++    "module/workload-census",
++    "module/workload-deploying",
+     "number-property/container-port",
+     "number-property/replicas",
+     "relation-property/manifest-slug",
