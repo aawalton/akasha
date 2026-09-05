@@ -19,7 +19,7 @@ export const conditions = {
     },
     {
       invariantKind: "departure",
-      statement: "A field names a temper-condition-field page holding what the field tests.",
+      statement: "A field names a temper-condition-field page holding the key the field tests.",
     },
     {
       invariantKind: "departure",
