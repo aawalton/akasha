@@ -70,3 +70,34 @@ index 0489bbbba7441353a25cd3579868df87baa828ec..419d971ef1cd34735f7786ab210af8f0
      if (one.pageTypeSlug === ENTRY_PROPERTY && Array.isArray(value)) {
        const said = already[one.key]
        const ending = typeof said === "string" && said !== "" ? said : JSONL
+diff --git a/pages/system-service/page-serving/page-serving.module.code.ts b/pages/system-service/page-serving/page-serving.module.code.ts
+index df0d0a7626fce70e2138496a3a5b139621f47876..d826880307a4cc33637ef867397d7c3b6079da10 100644
+--- a/pages/system-service/page-serving/page-serving.module.code.ts
++++ b/pages/system-service/page-serving/page-serving.module.code.ts
+@@ -196,6 +196,7 @@ function namingsIn(given: unknown): readonly Naming[] | string {
+       slug: string
+       values: Record<string, unknown>
+       merge?: boolean
++      bodies?: Record<string, string>
+     } = { pageTypeSlug: page.pageTypeSlug, slug: page.slug, values }
+     if (page.merge !== undefined) {
+       if (typeof page.merge !== "boolean") {
+@@ -203,6 +204,18 @@ function namingsIn(given: unknown): readonly Naming[] | string {
+       }
+       naming.merge = page.merge
+     }
++    if (page.bodies !== undefined) {
++      const bodies = objectIn(page.bodies)
++      if (bodies === null) return "a page hands over its `bodies` as a JSON object"
++      const held: Record<string, string> = {}
++      for (const [key, one] of Object.entries(bodies)) {
++        if (typeof one !== "string") {
++          return `\`bodies.${key}\` is the whole body that file holds, written as a string`
++        }
++        held[key] = one
++      }
++      naming.bodies = held
++    }
+     pages.push(naming)
+   }
+   return pages
