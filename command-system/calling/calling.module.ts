@@ -75,7 +75,7 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "What the commands there are is read only where a name was not answered.",
+      statement: "The whole list of commands is read only where a name was not answered.",
     },
     {
       invariantKind: "departure",
@@ -91,7 +91,7 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "What runs on a kind is read off that kind's own page.",
+      statement: "The checks and warrants that run on a kind are read off that kind's own page.",
     },
     {
       invariantKind: "departure",
