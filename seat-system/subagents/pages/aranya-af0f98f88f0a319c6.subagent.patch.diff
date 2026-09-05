@@ -14,3 +14,15 @@ index 0000000000000000000000000000000000000000..852b79031478ba443beabf600d31c34b
 +    "the namespace, the disk and the cron job copying the stored assets off to separate storage",
 +  code: "ts",
 +} as const satisfies Manifest
+diff --git a/infrastructure/seaweedfs/seaweedfs.workspace-package.ts b/infrastructure/seaweedfs/seaweedfs.workspace-package.ts
+index 8956d67d587c6b47e2805b5841c855027db09c8e..a02f53be5d154b14166c26b9226e7228db8dd723 100644
+--- a/infrastructure/seaweedfs/seaweedfs.workspace-package.ts
++++ b/infrastructure/seaweedfs/seaweedfs.workspace-package.ts
+@@ -7,6 +7,7 @@ export const seaweedfs = {
+   definition: "the manifests the cluster's own object store is applied as",
+   manifest: "json",
+   partSlugs: [
++    "manifest/seaweedfs-backup-assets",
+     "manifest/seaweedfs-etcd-snapshot",
+     "manifest/seaweedfs-filer",
+     "manifest/seaweedfs-maintenance",
