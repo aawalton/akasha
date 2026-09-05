@@ -9,11 +9,12 @@ export const comfyGraph = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A node is reached by the key the graph holds it under.",
+      statement: "A node is reached by the key the graph holds that node under.",
     },
     {
       invariantKind: "departure",
-      statement: "A link is the node it comes from paired with the slot it comes out of.",
+      statement:
+        "A link is the node that link comes from paired with the slot that link comes out of.",
     },
   ],
 } as const satisfies Module
