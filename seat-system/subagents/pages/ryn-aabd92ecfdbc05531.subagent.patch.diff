@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/subagent-census/subagent-census.module.ts b/seat-system/subagent-census/subagent-census.module.ts
+index 3813aaab268c7024ca7ca07d48d60d7f73224559..af40142903504aae0783bd81461721b2ae64100a 100644
+--- a/seat-system/subagent-census/subagent-census.module.ts
++++ b/seat-system/subagent-census/subagent-census.module.ts
+@@ -101,7 +101,7 @@ export const subagentCensus = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a seat's transcript says is handed in rather than read here.",
++      statement: "The evidence a seat's transcript carries is handed in rather than read here.",
+     },
+   ],
+ } as const satisfies Module
