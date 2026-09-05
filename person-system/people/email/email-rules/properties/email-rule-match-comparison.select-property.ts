@@ -19,7 +19,7 @@ export const emailRuleMatchComparison = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A clause holding several values passes where any one of them matches.",
+      statement: "A clause holding several values passes where any one of those values matches.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,8 @@ export const emailRuleMatchComparison = {
     },
     {
       invariantKind: "departure",
-      statement: "A comparison a text field takes sits here whether or not a rule names it yet.",
+      statement:
+        "A comparison a text field takes sits here whether or not a rule names that comparison yet.",
     },
   ],
 } as const satisfies SelectProperty
