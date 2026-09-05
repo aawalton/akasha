@@ -222,3 +222,19 @@ index 94731e94c3ecfbfd76af67cbc3bbf081b020c6e8..e98b2efea38911f59c87409654e2a7df
      {
        invariantKind: "absence",
        statement: "Nothing here caches a reading or decides when a reading is taken.",
+diff --git a/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts b/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts
+index d43e02c6486cf0dd69fd9d274ffe32b28c0b5ab5..1650a3feb708d867bfce28a90d714f8d5e7ea818 100644
+--- a/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts
++++ b/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts
+@@ -44,10 +44,7 @@ export const upkeepSurplus = {
+       statement:
+         "A day holding neither sleep nor spend is no reading rather than a surplus of zero.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A store that refuses is a fault rather than a reading of nothing.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here caches a reading or decides when a reading is taken.",
