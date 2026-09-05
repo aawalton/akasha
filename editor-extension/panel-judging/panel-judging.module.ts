@@ -27,7 +27,7 @@ export const panelJudging = {
     },
     {
       invariantKind: "departure",
-      statement: "A row with no label is a blank line in the panel, so it is red.",
+      statement: "A row with no label is a blank line in the panel, so that row is red.",
     },
     {
       invariantKind: "departure",
@@ -69,7 +69,7 @@ export const panelJudging = {
     {
       invariantKind: "departure",
       statement:
-        "They carry across because both surfaces read a group through the same membership.",
+        "Those two counts carry across because both surfaces read a group through the same membership.",
     },
     {
       invariantKind: "departure",
@@ -91,7 +91,7 @@ export const panelJudging = {
     {
       invariantKind: "departure",
       statement:
-        "Features start together, so the wall is the slowest of them rather than their sum.",
+        "Features start together, so the wall is the slowest of those features rather than their sum.",
     },
     {
       invariantKind: "absence",
@@ -100,7 +100,7 @@ export const panelJudging = {
     {
       invariantKind: "departure",
       statement:
-        "What the agent tree logged reading is printed beside what it drew rather than judged.",
+        "What the agent tree logged reading is printed beside what that tree drew rather than judged.",
     },
     {
       invariantKind: "departure",
