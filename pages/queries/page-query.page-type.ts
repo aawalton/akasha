@@ -87,7 +87,7 @@ export const pageQuery = {
     },
     {
       invariantKind: "departure",
-      statement: "A query refuses what the query cannot read.",
+      statement: "A query refuses anything the query cannot read.",
     },
     {
       invariantKind: "absence",
@@ -95,7 +95,7 @@ export const pageQuery = {
     },
     {
       invariantKind: "gap",
-      statement: "What a query is called is recovered from its slug.",
+      statement: "A query's name is recovered from its slug.",
     },
     {
       invariantKind: "departure",
