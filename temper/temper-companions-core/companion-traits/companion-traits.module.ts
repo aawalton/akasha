@@ -14,7 +14,8 @@ export const companionTraits = {
     },
     {
       invariantKind: "departure",
-      statement: "These bytes are the last good build rather than what the generator emits today.",
+      statement:
+        "These bytes are the last good build rather than the table the generator emits today.",
     },
     {
       invariantKind: "gap",
