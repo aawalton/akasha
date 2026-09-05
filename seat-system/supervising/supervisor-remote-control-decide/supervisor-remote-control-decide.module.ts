@@ -10,7 +10,7 @@ export const supervisorRemoteControlDecide = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat is under remote control exactly where it is not headless.",
+      statement: "A seat is under remote control exactly where that seat is not headless.",
     },
     {
       invariantKind: "departure",
