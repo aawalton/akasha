@@ -8,6 +8,7 @@ export const patch = {
   slug: "patch",
   propertySlug: "patch",
   definition: "the change an agent has drafted and not yet landed",
+  runsFileLength: false,
   invariants: [
     {
       invariantKind: "departure",

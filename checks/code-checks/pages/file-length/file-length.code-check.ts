@@ -67,12 +67,23 @@ export const fileLength = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A property lets a file off only where a page carrying that property sits in the file's folder.",
+      statement: "A property naming its file is read from the file's own name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That file is let off only where a page carrying the property sits in its folder.",
     },
     {
       invariantKind: "departure",
       statement: "A file of that name in another folder is held to the ceiling.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property naming no file is read from the section its files carry.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every file that section names is let off wherever that file sits.",
     },
     {
       invariantKind: "departure",

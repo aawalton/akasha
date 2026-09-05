@@ -45,7 +45,15 @@ const MARKUP_RELIEF =
 const PROSE_RELIEF =
   "nothing joins the parts of a prose file on read, so dividing this one hides all but the first"
 
+const FILE_PROPERTY = "file-property"
+
+const FILE_NAME = "fileName"
+
+const PROPERTY_SLUG = "propertySlug"
+
 const NAMING = new WeakMap<Shadow, readonly Naming[]>()
+
+const HELD_OFF = new WeakMap<Shadow, ReadonlySet<string>>()
 
 export function heldOff(value: Value): boolean {
   return value[RUNS] === false
@@ -61,7 +69,32 @@ function namingIn(shadow: Shadow): readonly Naming[] {
   return made
 }
 
+function sectionsOff(shadow: Shadow): ReadonlySet<string> {
+  const found = HELD_OFF.get(shadow)
+  if (found !== undefined) return found
+  const made = new Set<string>()
+  for (const kind of shadow.index.kindsUnder(FILE_PROPERTY)) {
+    for (const listed of shadow.index.everyOfType(kind)) {
+      const value = shadow.pageOf(listed.path)
+      if (value === null || !heldOff(value)) continue
+      if (typeof value[FILE_NAME] === "string") continue
+      const slug = value[PROPERTY_SLUG]
+      if (typeof slug === "string") made.add(slug)
+    }
+  }
+  HELD_OFF.set(shadow, made)
+  return made
+}
+
+function sectionOff(path: string, shadow: Shadow): boolean {
+  const said = partedIn(path)
+  if (said === null) return false
+  const held = sectionedIn(said)
+  return held !== null && sectionsOff(shadow).has(held.propertySlug)
+}
+
 export function exemptIn(path: string, shadow: Shadow): boolean {
+  if (sectionOff(path, shadow)) return true
   const carrying = (named: string): Carried => shadow.index.carryingOf(named)
   return heldBeside(path, namingIn(shadow), heldOff, carrying)
 }
