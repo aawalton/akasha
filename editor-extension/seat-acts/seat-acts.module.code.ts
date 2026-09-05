@@ -3,7 +3,7 @@ import { output } from "../agent-tree-state/agent-tree-state.module.code.ts"
 import { seatTerminalOptions } from "../editor-group/editor-group.module.code.ts"
 import { commandPath, runCommand } from "../harness-call/harness-call.module.code.ts"
 import type { ToggleTarget } from "../invoked-seat/invoked-seat.module.code.ts"
-import { columnForSeat, terminalForSeat } from "../seat-showing/seat-showing.module.code.ts"
+import { columnForSeat } from "../seat-showing/seat-showing.module.code.ts"
 import { readSeatLookup } from "../seat-terminals/seat-terminals.module.code.ts"
 import {
   attachCommandLine,
@@ -37,18 +37,6 @@ async function attachTerminal(seat: ToggleTarget, line: string): Promise<undefin
   return undefined
 }
 
-async function detachTerminal(seat: ToggleTarget): Promise<undefined> {
-  const { seatNames, psRows, tmuxClients } = await readSeatLookup()
-  const terminal = await terminalForSeat(seat.name, seatNames, psRows, tmuxClients)
-  if (terminal === undefined) {
-    output.appendLine(`[detach] ${seat.name}: no terminal in this window, nothing to close`)
-    return undefined
-  }
-  terminal.dispose()
-  output.appendLine(`[detach] ${seat.name}: terminal closed, session left running`)
-  return undefined
-}
-
 async function resumeInteractive(seat: ToggleTarget): Promise<undefined> {
   const line = attachCommandLine(seat.name)
   await runSeat(["resume", seat.name, "--start-mode", "interactive"])
@@ -69,8 +57,6 @@ async function performStep(seat: ToggleTarget, step: SeatStep): Promise<undefine
       return resumeInteractive(seat)
     case "attach":
       return attachTerminal(seat, attachCommandLine(seat.name))
-    case "detach":
-      return detachTerminal(seat)
     case "reset":
       await runSeat(["reset", seat.name])
       return undefined

@@ -44,14 +44,6 @@ export const seatActs = {
       statement: "The attach line is built before the resume, so a bad name costs no turn.",
     },
     {
-      invariantKind: "departure",
-      statement: "A detach closes the terminal and leaves the session running.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A detach finding no terminal here says so and does nothing.",
-    },
-    {
       invariantKind: "constraint",
       statement: "A step of no known kind is refused.",
     },

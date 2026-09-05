@@ -17,7 +17,6 @@ export type SeatStep =
   | { readonly kind: "revive" }
   | { readonly kind: "resume-interactive" }
   | { readonly kind: "attach" }
-  | { readonly kind: "detach" }
   | { readonly kind: "reset" }
 
 export function planRunToggle(state: SeatToggleState): readonly SeatStep[] {
