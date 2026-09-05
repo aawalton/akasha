@@ -12,7 +12,7 @@ index 937fe3a4ea7b1a4f303b877dc41f7b1571357232..cfe70d0631ffb8ccd874a49a0b200690
      {
        invariantKind: "departure",
 diff --git a/context/modules/warranting/warranting.module.ts b/context/modules/warranting/warranting.module.ts
-index 414a7e194ce1dc3e5f94df1ae7d8eb480eb00cab..36c225693ea9d48a60ef1bda174ceaebe6e08844 100644
+index 414a7e194ce1dc3e5f94df1ae7d8eb480eb00cab..064d7cd9cb960d1ec0e7bacb2f8b1f2104f584b8 100644
 --- a/context/modules/warranting/warranting.module.ts
 +++ b/context/modules/warranting/warranting.module.ts
 @@ -53,7 +53,7 @@ export const warranting = {
@@ -24,8 +24,17 @@ index 414a7e194ce1dc3e5f94df1ae7d8eb480eb00cab..36c225693ea9d48a60ef1bda174ceaeb
      },
      {
        invariantKind: "departure",
+@@ -83,7 +83,7 @@ export const warranting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Within what a read is handed a path stands once in the place it first stood.",
++      statement: "Within what a read is handed a path sits once in the place it first sat.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts
-index cde895b4482e043b05e7e47fbc11e1cbdaa41126..3e074746a029aa52e97875c52a25d1f64a2d7c50 100644
+index cde895b4482e043b05e7e47fbc11e1cbdaa41126..f9146c1a3d143aa6223a3e008a61e26da4373337 100644
 --- a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts
 +++ b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts
 @@ -51,7 +51,7 @@ export const changeTabooTerms = {
@@ -34,6 +43,15 @@ index cde895b4482e043b05e7e47fbc11e1cbdaa41126..3e074746a029aa52e97875c52a25d1f6
        invariantKind: "departure",
 -      statement: "Text a change leaves standing is not text the change adds.",
 +      statement: "Text a change leaves unchanged is not text the change adds.",
+     },
+     {
+       invariantKind: "departure",
+@@ -75,7 +75,7 @@ export const changeTabooTerms = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is owed names every sense the term bars and what stands instead.",
++      statement: "What is owed names every sense the term bars and what is written instead.",
      },
      {
        invariantKind: "departure",
@@ -51,7 +69,7 @@ index 08f4358705394b20af57a7392c2545e2169b5d72..a4357a08ff3e9bdb4bf5f3fd476ecf3f
      {
        invariantKind: "departure",
 diff --git a/context/warrants/file-import/file-import.context-warrant.ts b/context/warrants/file-import/file-import.context-warrant.ts
-index 4e68efe51e969da647cd006760cc3578b08875dc..5dc1e6a5d6c9a04ac57a046c60b60b64a06b0c09 100644
+index 4e68efe51e969da647cd006760cc3578b08875dc..42236d4f54192b7d99b26727c178815be8f7879c 100644
 --- a/context/warrants/file-import/file-import.context-warrant.ts
 +++ b/context/warrants/file-import/file-import.context-warrant.ts
 @@ -26,7 +26,7 @@ export const fileImport = {
@@ -63,8 +81,17 @@ index 4e68efe51e969da647cd006760cc3578b08875dc..5dc1e6a5d6c9a04ac57a046c60b60b64
      },
      {
        invariantKind: "departure",
+@@ -35,7 +35,7 @@ export const fileImport = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Those manifests are read from the index standing under the root handed in.",
++      statement: "Those manifests are read from the index under the root handed in.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/context/warrants/file-itself/file-itself.context-warrant.ts b/context/warrants/file-itself/file-itself.context-warrant.ts
-index 972280addb4d4036b13115fd1efb807915e5560f..177496e9e3fa00ad56c1bfdb4a4807b442bfd1d6 100644
+index 972280addb4d4036b13115fd1efb807915e5560f..7ac5895be8e73135d32f695cc05c74df9942dbb4 100644
 --- a/context/warrants/file-itself/file-itself.context-warrant.ts
 +++ b/context/warrants/file-itself/file-itself.context-warrant.ts
 @@ -17,7 +17,7 @@ export const fileItself = {
@@ -73,6 +100,15 @@ index 972280addb4d4036b13115fd1efb807915e5560f..177496e9e3fa00ad56c1bfdb4a4807b4
        invariantKind: "departure",
 -      statement: "A file not yet standing warrants nothing of itself.",
 +      statement: "A file that does not yet exist warrants nothing of itself.",
+     },
+     {
+       invariantKind: "departure",
+@@ -41,7 +41,7 @@ export const fileItself = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Whatever else warrants the file stands unchanged.",
++      statement: "Whatever else warrants the file remains unchanged.",
      },
      {
        invariantKind: "departure",
