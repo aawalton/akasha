@@ -6,4 +6,32 @@ export const supervisorSelfHealInstall = {
   slug: "supervisor-self-heal-install",
   definition: "running the install a self-heal needs, one flight at a time",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A path the install script reads reaches it as an argument rather than as text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One install runs at a time across every supervisor, held by a lock file.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A supervisor waiting past the lock ceiling keeps its image rather than installing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An install already done for a version is not run a second time.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A verify that fails is answered by installing once more before it is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Where the verifier is, is worked out when an install runs rather than on loading.",
+    },
+  ],
 } as const satisfies Module

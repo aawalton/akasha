@@ -24,14 +24,20 @@ export const SINGLE_FLIGHT_FLOCK_SH = [
   'exec "$@"',
 ].join("\n")
 
-const VERIFY_WORKSPACE_BINS = `${ownRepoRoot()}/workspace-paths/workspace-bins-verifying/workspace-bins-verifying.module.code.ts`
+function verifyWorkspaceBinsAt(): string {
+  return `${ownRepoRoot()}/workspace-paths/workspace-bins-verifying/workspace-bins-verifying.module.code.ts`
+}
 
+// A PATH REACHES THIS SCRIPT AS AN ARGUMENT RATHER THAN AS SCRIPT TEXT. A value written into the
+// text is read by the shell as text: a root carrying a double quote or a backtick closes the
+// quoting, and whatever follows it runs with everything the supervisor holds. `$1` and `$2` carry
+// the sentinel and the verifier, and a positional is read as a value whatever it holds.
 export const SINGLE_FLIGHT_INSTALL_SCRIPT = [
   'if [ -e "$1" ]; then exit 0; fi',
   "bun install --frozen-lockfile 1>&2 || exit 1",
-  `if ! bun "${VERIFY_WORKSPACE_BINS}" 1>&2; then`,
+  'if ! bun "$2" 1>&2; then',
   "  bun install --frozen-lockfile 1>&2 || exit 1",
-  `  bun "${VERIFY_WORKSPACE_BINS}" 1>&2 || exit 1`,
+  '  bun "$2" 1>&2 || exit 1',
   "fi",
   ': > "$1"',
 ].join("\n")
@@ -58,6 +64,7 @@ export const defaultRunInstall: SelfHealRunInstall = async (version) => {
       SINGLE_FLIGHT_INSTALL_SCRIPT,
       "bash",
       sentinelPath,
+      verifyWorkspaceBinsAt(),
     ],
     cwd: REPO_ROOT,
     stdout: "pipe",
