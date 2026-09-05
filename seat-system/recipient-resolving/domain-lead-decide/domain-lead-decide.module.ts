@@ -21,7 +21,7 @@ export const domainLeadDecide = {
     },
     {
       invariantKind: "departure",
-      statement: "A recipient defaulted to carries the reason it was defaulted for.",
+      statement: "A recipient defaulted to carries the reason that recipient was defaulted for.",
     },
   ],
 } as const satisfies Module
