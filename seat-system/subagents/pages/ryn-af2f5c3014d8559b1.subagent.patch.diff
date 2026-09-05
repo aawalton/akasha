@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-domain-with-its-parts/a-domain-with-its-parts.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-domain-with-its-parts/a-domain-with-its-parts.folder-shape.ts
+index 1f2b42e864001a63ae5a4466ce077f941f8c80cf..0bed50f5cb4a24ca5b9fd3b0f334e9e0fba233bf 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-domain-with-its-parts/a-domain-with-its-parts.folder-shape.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-domain-with-its-parts/a-domain-with-its-parts.folder-shape.ts
+@@ -19,7 +19,7 @@ export const aDomainWithItsParts = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The folder is named what that page calls its folder.",
++      statement: "The folder takes the name that page gives its folder.",
+     },
+     {
+       invariantKind: "departure",
