@@ -1023,3 +1023,11 @@ index ee6e08fd14c77915fa01207d3b9b1978c231300f..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-hud-addon
 \ No newline at end of file
+diff --git a/temper/temper-hud-components/temper-hud-components b/temper/temper-hud-components/temper-hud-components
+deleted file mode 120000
+index 2ca6df20c6866ac567539fda0cb09bdd77a1fd0d..0000000000000000000000000000000000000000
+--- a/temper/temper-hud-components/temper-hud-components
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-hud-components
+\ No newline at end of file
