@@ -1,7 +1,7 @@
 import { join } from "node:path"
 import { textAt, type Value } from "@akasha/pages-system/page-value"
-import { type Entry, under } from "../../index-entries/index-entries.module.code.ts"
-import { namesIn, namingsIn, reaches, type Shaped } from "../../reaching/reaching.module.code.ts"
+import { type Entry, under } from "../index-entries/index-entries.module.code.ts"
+import { namesIn, namingsIn, reaches, type Shaped } from "../reaching/reaching.module.code.ts"
 import { indexRelation } from "./index-relation.index.ts"
 
 const RELATION = indexRelation.name

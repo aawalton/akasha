@@ -16,7 +16,7 @@
     "./property-carrying": "./property-carrying/property-carrying.module.code.ts",
     "./reaching": "./reaching/reaching.module.code.ts",
     "./rebuilding": "./rebuilding/rebuilding.module.code.ts",
-    "./relation": "./index/relation/index-relation.index.code.ts",
+    "./relation": "./relation/index-relation.index.code.ts",
     "./shape": "./index-shape/index-shape.module.code.ts",
     "./stamp": "./index-stamp/index-stamp.module.code.ts",
     "./testing": "./index-reading/index-reading.module.test-fixtures.ts"
