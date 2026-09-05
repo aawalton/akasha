@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/person-system/sms-consents/sms-consent.page-type.ts b/person-system/sms-consents/sms-consent.page-type.ts
+index a833552bbf8169126f66198068f64e1965e3b391..1525ae42cf8dd92c590791aeecc4e6ddff1ed731 100644
+--- a/person-system/sms-consents/sms-consent.page-type.ts
++++ b/person-system/sms-consents/sms-consent.page-type.ts
+@@ -46,7 +46,7 @@ export const smsConsent = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A consent names the wording the person was shown as well as what the person agreed to.",
++        "A consent names the wording the person was shown as well as the terms the person agreed to.",
+     },
+     {
+       invariantKind: "departure",
