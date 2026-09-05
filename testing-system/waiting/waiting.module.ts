@@ -17,7 +17,7 @@ export const waiting = {
     },
     {
       invariantKind: "departure",
-      statement: "It is asked once more after time is up.",
+      statement: "What is waited for is asked once more after time is up.",
     },
   ],
 } as const satisfies Module
