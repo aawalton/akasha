@@ -7,6 +7,7 @@ export const authProxy = {
   definition: "the server reading a request's session cookie before passing the request on",
   manifest: "json",
   partSlugs: [
+    "manifest/auth-proxy-manifests",
     "module/auth-proxy-config",
     "module/auth-proxy-server",
     "module/cookie-match-core",
