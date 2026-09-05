@@ -1,0 +1,15 @@
+diff --git a/infrastructure/auth-proxy/manifests/auth-proxy-manifests.manifest.ts b/infrastructure/auth-proxy/manifests/auth-proxy-manifests.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ecaf9807c73435402b8d700954f6904e3082603b
+--- /dev/null
++++ b/infrastructure/auth-proxy/manifests/auth-proxy-manifests.manifest.ts
+@@ -0,0 +1,9 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const authProxyManifests = {
++  id: "01a07383-6af4-7b2a-9679-bdc53aceb125",
++  pageTypeSlug: "manifest",
++  slug: "auth-proxy-manifests",
++  definition: "the namespace, the deployment reading a request's session and the way in to it",
++  code: "ts",
++} as const satisfies Manifest
