@@ -58,7 +58,7 @@ export const personaCraftDay = {
     },
     {
       invariantKind: "departure",
-      statement: "The personas crafted are named apart from her.",
+      statement: "The personas crafted are named apart from the crafter.",
     },
     {
       invariantKind: "departure",
