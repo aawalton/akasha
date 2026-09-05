@@ -37,8 +37,7 @@ export const monarchAgreement = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Parting is left non-zero, because both home rings draw off our copy and a difference is a number someone is reading as true.",
+      statement: "Parting is left non-zero.",
     },
     {
       invariantKind: "absence",
