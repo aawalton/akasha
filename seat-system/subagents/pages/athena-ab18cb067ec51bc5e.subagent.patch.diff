@@ -101,7 +101,7 @@ index 3516cad23bfd54c2bbe6603e58a3ce3443006055..7679fe452c1d4da4dce956fa462ff3b4
      "@akasha/browser-test-harness": "workspace:*",
      "@akasha/code-system": "workspace:*",
 diff --git a/seat-system/supervising/supervisor-mcp/supervisor-mcp.module.code.ts b/seat-system/supervising/supervisor-mcp/supervisor-mcp.module.code.ts
-index 163a6cfd9e8252ab23f47f6176cefdeaa9630585..b8ec350723027eccc981746544350d0ba3459ea0 100644
+index 163a6cfd9e8252ab23f47f6176cefdeaa9630585..21ea7be42ce789aba37db799e7f8ab2cc19bac81 100644
 --- a/seat-system/supervising/supervisor-mcp/supervisor-mcp.module.code.ts
 +++ b/seat-system/supervising/supervisor-mcp/supervisor-mcp.module.code.ts
 @@ -12,7 +12,6 @@ import {
@@ -112,3 +112,14 @@ index 163a6cfd9e8252ab23f47f6176cefdeaa9630585..b8ec350723027eccc981746544350d0b
  import { planDisableReconcile } from "@akasha/seat-system/mcp-disable-reconcile"
  import {
    getMcpServerRegistry,
+@@ -24,10 +23,8 @@ import { computeMcpConfigContent } from "../../claude-launch-args/claude-launch-
+ 
+ const LOG = "[supervisor-mcp]"
+ 
+-const EXPORT_CLI_RELPATH = "command-system/cli/cli.module.code.ts"
+ const EXPORT_COMMAND = "browser-test-storage-state"
+ const REFRESH_TIMEOUT_MS = 10_000
+-const EXPORT_TIMEOUT_MS = 180_000
+ 
+ const RefreshEnvSchema = shape.object({
+   SUPABASE_URL: shape.string().url(),
