@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/git/git-push-handoff/git-push-handoff.module.ts b/git/git-push-handoff/git-push-handoff.module.ts
-index 2edeb66b79fec64d7ba3d63fb92090ac7fda9e2d..2d2bba1d38589de0fffcc68a22ce05fea666f8bd 100644
+index 2edeb66b79fec64d7ba3d63fb92090ac7fda9e2d..25c58b39fca2eb6f698b3ade2a9eafc13cb81f9c 100644
 --- a/git/git-push-handoff/git-push-handoff.module.ts
 +++ b/git/git-push-handoff/git-push-handoff.module.ts
-@@ -24,7 +24,7 @@ export const gitPushHandoff = {
+@@ -24,12 +24,12 @@ export const gitPushHandoff = {
      {
        invariantKind: "departure",
        statement:
@@ -12,3 +12,9 @@ index 2edeb66b79fec64d7ba3d63fb92090ac7fda9e2d..2d2bba1d38589de0fffcc68a22ce05fe
      },
      {
        invariantKind: "departure",
+       statement:
+-        "The state file records what the last push did, so a later landing can report what that push did.",
++        "The state file records the last push's outcome, so a later landing can report that outcome.",
+     },
+   ],
+ } as const satisfies Module
