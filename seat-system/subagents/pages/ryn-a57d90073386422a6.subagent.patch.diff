@@ -1,0 +1,92 @@
+diff --git a/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts b/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
+index 2b0f157a05b337d197dd3001ef25d42f41a652bb..199e20ca2931ca4e26e631cd3962687b160ff02d 100644
+--- a/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
++++ b/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
+@@ -18,7 +18,8 @@ export const imessageCommandReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A flag whose value is another flag this takes is a flag no value followed.",
++      statement:
++        "A flag whose value is another flag this module takes is a flag no value followed.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/infrastructure/auth-proxy/auth-proxy-config/auth-proxy-config.module.ts b/infrastructure/auth-proxy/auth-proxy-config/auth-proxy-config.module.ts
+index 749a7e1c9bab51cd89d21ddcab17e0607b2bc344..659fb2916562da1b70f5e1b13088a49249b05c62 100644
+--- a/infrastructure/auth-proxy/auth-proxy-config/auth-proxy-config.module.ts
++++ b/infrastructure/auth-proxy/auth-proxy-config/auth-proxy-config.module.ts
+@@ -9,7 +9,7 @@ export const authProxyConfig = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Loading this reads the environment once and never again.",
++      statement: "Loading this module reads the environment once and never again.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/markdown-pages/markdown-page-address/markdown-page-address.module.ts b/markdown-pages/markdown-page-address/markdown-page-address.module.ts
+index eb55ba1c2a6667e530f32abbd50337fd2ca9bf59..efb75d1dda9fb951fd220c3c8948b0f45dbe4926 100644
+--- a/markdown-pages/markdown-page-address/markdown-page-address.module.ts
++++ b/markdown-pages/markdown-page-address/markdown-page-address.module.ts
+@@ -9,7 +9,7 @@ export const markdownPageAddress = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "This says what form an address takes and looks no page up.",
++      statement: "This module says what form an address takes and looks no page up.",
+     },
+     { invariantKind: "departure", statement: "A page type and a slug are cut at the first `/`." },
+   ],
+diff --git a/mobile-cli/sim-run-tree/sim-run-tree.module.ts b/mobile-cli/sim-run-tree/sim-run-tree.module.ts
+index 9d589bc060bb2af7d4b1a659b2e492e064865afb..ba3c609cbcee863119ff8f7acd210ddb63b4b56e 100644
+--- a/mobile-cli/sim-run-tree/sim-run-tree.module.ts
++++ b/mobile-cli/sim-run-tree/sim-run-tree.module.ts
+@@ -22,7 +22,7 @@ export const simRunTree = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One missing path among those named refuses the delivery of every path.",
++      statement: "One missing path among the ones named refuses the delivery of every path.",
+     },
+     {
+       invariantKind: "constraint",
+diff --git a/seat-system/seat-fleet-restart/seat-fleet-restart.module.ts b/seat-system/seat-fleet-restart/seat-fleet-restart.module.ts
+index 091210add32e8fa0468741cf9f6b67c90ab98464..65321832fa45a41b4931e54f4160e92fe16a817b 100644
+--- a/seat-system/seat-fleet-restart/seat-fleet-restart.module.ts
++++ b/seat-system/seat-fleet-restart/seat-fleet-restart.module.ts
+@@ -9,7 +9,7 @@ export const seatFleetRestart = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The ops dispatcher imports this and calls the default export it declares.",
++      statement: "The ops dispatcher imports this module and calls the default export it declares.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/seat-reading/seat-reading.module.ts b/seat-system/seat-reading/seat-reading.module.ts
+index c87f5f99b7c03849163883f4e964c15de158e5d4..7cc0140439d18ffae06b59b8c1a41877216e7172 100644
+--- a/seat-system/seat-reading/seat-reading.module.ts
++++ b/seat-system/seat-reading/seat-reading.module.ts
+@@ -38,7 +38,7 @@ export const seatReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "This prints one line for each key it was asked for.",
++      statement: "This module prints one line for each key it was asked for.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/seat-system/seat-start/seat-start.module.ts b/seat-system/seat-start/seat-start.module.ts
+index b77310f0799e3047cd8f403060163a45c0da1dbf..de89eded4ac3e5c21a9533214625f4f5a4720fd6 100644
+--- a/seat-system/seat-start/seat-start.module.ts
++++ b/seat-system/seat-start/seat-start.module.ts
+@@ -9,7 +9,7 @@ export const seatStart = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The ops dispatcher imports this and calls the default export it declares.",
++      statement: "The ops dispatcher imports this module and calls the default export it declares.",
+     },
+     {
+       invariantKind: "departure",
