@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/style/appearance-experiments/properties/felt-read.file-property.ts b/alan/style/appearance-experiments/properties/felt-read.file-property.ts
+index 68f2767cfc6cbe70da83cef2971e638d4ac0e201..3d0bcffefdb1726ab9b1c3bea8d5f39638a6f24a 100644
+--- a/alan/style/appearance-experiments/properties/felt-read.file-property.ts
++++ b/alan/style/appearance-experiments/properties/felt-read.file-property.ts
+@@ -11,7 +11,7 @@ export const feltRead = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A felt read is Alan's own rather than the persona's reading of him.",
++      statement: "A felt read is Alan's own rather than the persona's reading of Alan.",
+     },
+   ],
+ } as const satisfies FileProperty
