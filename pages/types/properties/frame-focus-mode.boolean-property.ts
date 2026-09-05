@@ -11,7 +11,7 @@ export const frameFocusMode = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What is put away comes back the moment the reader asks for what is put away.",
+      statement: "The parts put away come back the moment the reader asks for those parts.",
     },
   ],
 } as const satisfies BooleanProperty
