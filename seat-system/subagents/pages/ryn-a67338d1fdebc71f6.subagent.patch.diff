@@ -190,3 +190,19 @@ index 868bb892d912bad8b1ce8f359a1192e0fc365f0d..7d53f2bf3843b23545af1cb5af983654
      {
        invariantKind: "absence",
        statement: "Nothing here caches a reading or decides when a reading is taken.",
+diff --git a/readout-system/readouts/pages/upkeep-safety/upkeep-safety.readout.ts b/readout-system/readouts/pages/upkeep-safety/upkeep-safety.readout.ts
+index 486be7f3e84834fec9f5d8490ffd68963e76f2e0..2ca57e37c599cb94444b2e1c645c6e003c20532c 100644
+--- a/readout-system/readouts/pages/upkeep-safety/upkeep-safety.readout.ts
++++ b/readout-system/readouts/pages/upkeep-safety/upkeep-safety.readout.ts
+@@ -50,10 +50,7 @@ export const upkeepSafety = {
+       invariantKind: "departure",
+       statement: "An open session carrying no level is no reading rather than a level of zero.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A store that refuses is a fault rather than a reading of nothing.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here caches a reading or decides when a reading is taken.",
