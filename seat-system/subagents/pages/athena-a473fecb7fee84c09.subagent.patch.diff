@@ -196,6 +196,37 @@ index 45e8988ec02fc6b5a129612b6be6557196507a83..ef5daffe5d3eddcf39e5b50d4ec71199
    } finally {
      rmSync(folder, { recursive: true, force: true })
    }
+diff --git a/commands/compose-notices/compose-notices.command.ts b/commands/compose-notices/compose-notices.command.ts
+index bed911811158a57f91ae5ac0aeee02623f5f2511..2dd25b34f260637296dbb39cf0ff7a2e981cc788 100644
+--- a/commands/compose-notices/compose-notices.command.ts
++++ b/commands/compose-notices/compose-notices.command.ts
+@@ -26,24 +26,11 @@ export const composeNotices = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A notice is keyed by its file name rather than by anything the file says.",
++      statement: "The notices are composed by the compose module rather than in here.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The lines of a paragraph are joined with a space, wrapping being the author's.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A blank line between two paragraphs survives as one blank line.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A notice page holding nothing is answered an empty text rather than left out.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A folder that is not there, or holds no notice page, is refused rather than emptied.",
++      statement: "A composing that throws refuses the call rather than answering with no notice.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/seat-system/compose-notices/compose-notices.module.code.ts b/seat-system/compose-notices/compose-notices.module.code.ts
 index 836eae0959420f9c8f3a913b422863282988e844..0ecb6dc8eb26f8a2577d912d873560e2323721a0 100644
 --- a/seat-system/compose-notices/compose-notices.module.code.ts
