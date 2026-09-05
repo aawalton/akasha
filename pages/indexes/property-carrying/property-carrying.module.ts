@@ -27,7 +27,7 @@ export const propertyCarrying = {
     },
     {
       invariantKind: "departure",
-      statement: "A declarer is answered with the page type it is.",
+      statement: "A declarer is answered with the page type that declarer is.",
     },
     {
       invariantKind: "departure",
@@ -63,7 +63,7 @@ export const propertyCarrying = {
     {
       invariantKind: "departure",
       statement:
-        "A file is beside a property naming it where a page carrying that property sits in the file's folder.",
+        "A file is beside a property naming that file where a page carrying that property sits in its folder.",
     },
     {
       invariantKind: "departure",
