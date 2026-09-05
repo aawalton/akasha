@@ -22,7 +22,7 @@ export const emailMessagesArchive = {
     },
     {
       invariantKind: "departure",
-      statement: "What comes back is the labels the message carries after the change.",
+      statement: "The answer is the labels the message carries after the change.",
     },
     {
       invariantKind: "absence",
