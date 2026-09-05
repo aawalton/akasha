@@ -12,7 +12,7 @@ index 3925580b249947a6eb2db6c703e3c495bae31373..ca94aecf34bc59a362669b46cfcbea14
    expect(slugStated(root, "akasha/seat-system/seat/seats/gone.seat.ts", "personaSlug")).toBe(null)
  })
 diff --git a/context/modules/warranting/warranting.module.test.ts b/context/modules/warranting/warranting.module.test.ts
-index 4d77deebe61eca7343c8aa8986ec61ed8d22bd94..e99f4b61d4a3cf21a9d2b0c9edb8ceeb063c9d92 100644
+index 4d77deebe61eca7343c8aa8986ec61ed8d22bd94..c08815f290c85a71d5ecc0124b2410ca85627df4 100644
 --- a/context/modules/warranting/warranting.module.test.ts
 +++ b/context/modules/warranting/warranting.module.test.ts
 @@ -106,7 +106,7 @@ test("a path the record holds no reading of is refused", () => {
@@ -42,7 +42,7 @@ index 4d77deebe61eca7343c8aa8986ec61ed8d22bd94..e99f4b61d4a3cf21a9d2b0c9edb8ceeb
    const root = rootWith()
    expect(unreadIn(root, null, ["akasha/thing/new.module.ts"])).toEqual([NO_AGENT])
  })
-@@ -291,7 +291,7 @@ test("a root carrying no warrant hands back the paths handed in", () => {
+@@ -291,13 +291,13 @@ test("a root carrying no warrant hands back the paths handed in", () => {
    expect(warrantedIn(root, [A, B])).toEqual([A, B])
  })
  
@@ -51,6 +51,13 @@ index 4d77deebe61eca7343c8aa8986ec61ed8d22bd94..e99f4b61d4a3cf21a9d2b0c9edb8ceeb
    const root = rootWith()
    pageFiled(root, AGENT, SEAT_AT)
    expect(seatPathOf(root, AGENT)).toBe(SEAT_AT)
+ })
+ 
+-test("a page standing at the id that is no seat is no seat", () => {
++test("a page sitting at the id that is no seat is no seat", () => {
+   const root = rootWith()
+   pageFiled(root, AGENT, PATH)
+   expect(seatPathOf(root, AGENT)).toBe(null)
 diff --git a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test.ts b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test.ts
 index 3a2f10c6b1c60f0429d00306a47297b66a76f7bf..ed7abd8cabe148d76a579ad766dd95e1905b26d0 100644
 --- a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test.ts
