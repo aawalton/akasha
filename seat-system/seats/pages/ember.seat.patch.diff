@@ -1,0 +1,36 @@
+diff --git a/temper/temper-watcher/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts b/temper/temper-watcher/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts
+index 54d114248ab5a9827871c6f09047d72da2b0c78f..d3f7bafac27a746b54d2ab058f7e4188a6815747 100644
+--- a/temper/temper-watcher/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts
++++ b/temper/temper-watcher/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts
+@@ -148,6 +148,11 @@ export async function runImportItemRuleVerdicts(
+     return
+   }
+ 
++  if (current.inventory === undefined) {
++    reportOutcome(logger, found, 0, "this account's inventory settings could not be read")
++    return
++  }
++
+   let ruleSettings = toRuleSettings(current.inventory)
+   for (const verdict of mutations) {
+     ruleSettings = upsertItemRuleByItemId(ruleSettings, {
+diff --git a/temper/temper-watcher/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.ts b/temper/temper-watcher/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.ts
+index 439dc7acf01e43aea8362ba1dcad7d85b381177f..34a2f3752297298d46ea6cf99893c9e78609baa1 100644
+--- a/temper/temper-watcher/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.ts
++++ b/temper/temper-watcher/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.ts
+@@ -41,6 +41,15 @@ export const watcherImportItemRuleVerdicts = {
+       invariantKind: "absence",
+       statement: "Nothing here writes the saved-variables file.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "Settings that could not be read are not amended and not written back.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "An empty rule set is what unreadable settings read as, so writing one loses them.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "This module declares its own shape for a queued verdict.",
