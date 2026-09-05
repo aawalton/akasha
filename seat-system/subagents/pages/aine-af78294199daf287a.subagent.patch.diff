@@ -1,3 +1,16 @@
+diff --git a/commands/calendar/calendar.command.ts b/commands/calendar/calendar.command.ts
+index cab7bacb650cc7eaf2ef955eb7fcfa1ed5df9679..41382636d48ce7ba183b3af4ae94e01d139e6b0d 100644
+--- a/commands/calendar/calendar.command.ts
++++ b/commands/calendar/calendar.command.ts
+@@ -4,7 +4,7 @@ export const calendar = {
+   id: "01a06809-e6ee-7c9b-8778-5da992d3080f",
+   pageTypeSlug: "command",
+   slug: "calendar",
+-  definition: "the command acting on Alan's Google calendar and the events standing on it",
++  definition: "the command acting on Alan's Google calendar and the events on it",
+   code: "ts",
+   test: "ts",
+   changeKindSlug: "change-mechanical",
 diff --git a/commands/drive/drive.command.code.ts b/commands/drive/drive.command.code.ts
 index b1b797bdcf9516fd7ff3d6033685bbd6896227aa..7333bbb4378d653d3cfec957b2f9681e7265293c 100644
 --- a/commands/drive/drive.command.code.ts
