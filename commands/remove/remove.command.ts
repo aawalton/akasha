@@ -45,7 +45,7 @@ export const remove = {
     },
     {
       invariantKind: "departure",
-      statement: "A link is taken away rather than what the link reaches.",
+      statement: "A link is taken away rather than the path the link reaches.",
     },
     {
       invariantKind: "departure",
@@ -110,7 +110,8 @@ export const remove = {
     },
     {
       invariantKind: "absence",
-      statement: "A file other than the root manifest naming what goes is left as that file is.",
+      statement:
+        "A file other than the root manifest naming the path that goes is left as that file is.",
     },
     {
       invariantKind: "departure",
@@ -189,15 +190,17 @@ export const remove = {
     },
     {
       invariantKind: "departure",
-      statement: "An index that cannot say what named a page lets the removal go on and says so.",
+      statement:
+        "An index that cannot say which pages named a page lets the removal go on and says so.",
     },
     {
       invariantKind: "departure",
-      statement: "A removal finding no list to mend writes exactly what a removal wrote before.",
+      statement:
+        "A removal finding no list to mend writes exactly the commit a removal wrote before.",
     },
     {
       invariantKind: "gap",
-      statement: "What a removal leaves behind still stands up on its own.",
+      statement: "The tree a removal leaves behind still stands up on its own.",
     },
     {
       invariantKind: "gap",
