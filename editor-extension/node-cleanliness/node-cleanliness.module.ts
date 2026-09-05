@@ -55,7 +55,7 @@ export const nodeCleanliness = {
     },
     {
       invariantKind: "departure",
-      statement: "`import.meta.main` is carried, node holding it.",
+      statement: "`import.meta.main` is carried, node holding `import.meta.main`.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +67,7 @@ export const nodeCleanliness = {
     },
     {
       invariantKind: "departure",
-      statement: "That rule asks the file rather than the path through it.",
+      statement: "That rule asks the file rather than the path through that file.",
     },
     {
       invariantKind: "departure",
