@@ -1,12 +1,16 @@
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join, relative, resolve } from "node:path"
 import { DataError, OperationalError } from "@akasha/errors-core/exit-code"
+import { typeSlugOf } from "@akasha/indexes"
 
 export const AKASHA_FILE_CEILING_BYTES = 15_000
 
 export const RUN_LINE_BUDGET_BYTES = 13_501
 
 const MODULE_PAGE_TYPE_REL = "code-system/modules/module.page-type.ts"
+
+/** The module page type, reached by the id it keeps rather than by the slug it answers to. */
+const MODULE_PAGE_TYPE = "01a04a20-6e04-7b99-81a0-0efe0ad0a02a"
 
 const encoder = new TextEncoder()
 
@@ -112,7 +116,7 @@ function renderPageFile(root: string, spec: SeriesSpec, slug: string, definition
       "",
       `export const ${kebabToCamel(slug)} = {`,
       `  id: ${JSON.stringify(pageIdFor(root, spec, slug))},`,
-      '  pageTypeSlug: "module",',
+      `  pageTypeSlug: ${JSON.stringify(typeSlugOf(root, MODULE_PAGE_TYPE))},`,
       `  slug: ${JSON.stringify(slug)},`,
       `  definition: ${JSON.stringify(definition)},`,
       '  code: "ts",',

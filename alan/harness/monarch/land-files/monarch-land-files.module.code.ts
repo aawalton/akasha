@@ -1,6 +1,7 @@
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
 import { landedMechanically } from "@akasha/command-system/asking"
+import { typeSlugOf } from "@akasha/indexes"
 import { AKASHA as AKASHA_REPO } from "@akasha/pages-system/checkout-roots"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import type { MonarchTransaction } from "../client/monarch-client.module.code.ts"
@@ -16,6 +17,9 @@ import {
   sidecarOf,
   tagPages,
 } from "../files/monarch-files.module.code.ts"
+
+/** The month page type, reached by the id it keeps rather than by the slug it answers to. */
+const MONARCH_MONTH_TYPE = "01a0680b-2b00-7012-a659-4d8f2c7e2113"
 
 const MONTH_NAMES = [
   "January",
@@ -136,7 +140,7 @@ function monthPage(slug: string): string {
     "",
     `export const ${exportedAs(slug)} = {`,
     `  id: "${Bun.randomUUIDv7()}",`,
-    `  pageTypeSlug: "monarch-month",`,
+    `  pageTypeSlug: "${typeSlugOf(AKASHA, MONARCH_MONTH_TYPE)}",`,
     `  slug: "${slug}",`,
     `  title: ${JSON.stringify(name)},`,
     `  startsOn: "${covered}-01",`,
