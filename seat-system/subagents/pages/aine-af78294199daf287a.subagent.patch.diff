@@ -12,7 +12,7 @@ index 1d070b7ee085c4ff196433e27290b23bd294a734..ea465563870a958ecd5f88520179e89e
    const said = await edited(root, ["--remove", "akasha/a.module.ts"])
    expect(said.code).toBe(0)
 diff --git a/commands/edit/edit.command.ts b/commands/edit/edit.command.ts
-index a1939ffd17c666dc836cf06697ea63bd2f8a5b4c..346c979103edcfc2177868742ff656d7646ceedb 100644
+index a1939ffd17c666dc836cf06697ea63bd2f8a5b4c..751966b37201aa742d70f595f2a30501a525fc98 100644
 --- a/commands/edit/edit.command.ts
 +++ b/commands/edit/edit.command.ts
 @@ -23,7 +23,7 @@ export const edit = {
@@ -24,6 +24,16 @@ index a1939ffd17c666dc836cf06697ea63bd2f8a5b4c..346c979103edcfc2177868742ff656d7
      "the passage and what it becomes are files or standard input, never text said on the command line.",
      "a --file-path stating no --old-file reads its passages from standard input.",
      "a passage piped in sits between <<<<<<< old and =======, and what it becomes before >>>>>>> new.",
+@@ -49,7 +49,8 @@ export const edit = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A body standing that will not open is refused as itself rather than as absent.",
++      statement:
++        "A body that is there and will not open is refused as itself rather than as absent.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/commands/loki/loki.command.code.ts b/commands/loki/loki.command.code.ts
 index 24e542a102a7401597c42d6a750d185a53c9d410..fa3ed1a65e91a3fb4333f453762927b697d5d532 100644
 --- a/commands/loki/loki.command.code.ts
