@@ -1,0 +1,12 @@
+diff --git a/temper/temper-commands/temper-inventory-item-rule-lock/temper-inventory-item-rule-lock.command.ts b/temper/temper-commands/temper-inventory-item-rule-lock/temper-inventory-item-rule-lock.command.ts
+index b78f9972d51b1fe72dfa62a79f23e8f3899db31d..fd7ff8ed9ad901733ccb5d45fe8845126ccc7be4 100644
+--- a/temper/temper-commands/temper-inventory-item-rule-lock/temper-inventory-item-rule-lock.command.ts
++++ b/temper/temper-commands/temper-inventory-item-rule-lock/temper-inventory-item-rule-lock.command.ts
+@@ -9,7 +9,6 @@ export const temperInventoryItemRuleLock = {
+   changeKindSlug: "change-none",
+   taking: [{ said: "<id>", takes: "the id of the per-item rule locked" }],
+   helpNotes: [
+-    "locking a per-item rule already locked changes nothing.",
+     "a locked rule is refused an update or a deletion until it is unlocked or the call forces it.",
+   ],
+   invariants: [
