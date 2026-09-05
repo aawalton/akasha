@@ -1,0 +1,13 @@
+diff --git a/story/games/pages/the-tower.game.gm-context.json b/story/games/pages/the-tower.game.gm-context.json
+index 54305b06942c29ee061cdf8acce8a803efa3036c..188dae800f0ae9738292717d13bf68db97c41787 100644
+--- a/story/games/pages/the-tower.game.gm-context.json
++++ b/story/games/pages/the-tower.game.gm-context.json
+@@ -240,7 +240,7 @@
+         "| 1 | Ashling | narrative: scatter the ash ≈ nothing; strike the core = the kill (the model's origin, pre-numbers) |",
+         "| 2 | Drowned Sentry | frontal **×0.4** · back/joint **×1.5** · burning (brazier **or** Ember Channel) **×2** · water no-op |",
+         "| 2 | The Glut | in the flood **×0.3** · stranded on dry stone **×1.0** + fire-recoil herding |",
+-        "| 3 | Hollow Cantor | direct body-hit **×0.4** · scales with bronze plates standing · halved/nullified in the dead alcove (`ment` attacker) |",
++        "| 3 | Hollow Cantor | direct body-hit **×0.4** · scales with bronze plates remaining · halved/nullified in the dead alcove (`ment` attacker) |",
+         "| 3 | Plinth Golem | non-keystone **×0.25** · clean keystone strike **×3** |",
+         "| 4 | Gloomward Stalker | in darkness **×0.3** (+ lethal turn-one ambush) · lit/cornered **×1.8** |",
+         "| 4 | Counterweight Colossus | non-pawl **×0.25** · clean pawl strike **×3** (optional over-tension setup: pawl at intent +2, unmitigated) |",
