@@ -54,7 +54,7 @@ index 4e0b3b905ed41d30eef9e82b2a114aa4e2a0cf8d..18577747c6050b6b456db08f0d5e0739
      {
        invariantKind: "absence",
 diff --git a/commands/model-gateway/model-gateway.command.ts b/commands/model-gateway/model-gateway.command.ts
-index 98bb62d864587b1faa9762bc77cc20d28404ccdd..4486197c95a8bb144092a27fa1b260e472112142 100644
+index 98bb62d864587b1faa9762bc77cc20d28404ccdd..cf702c8a3c52a011b23241d3e07b75f992ad3193 100644
 --- a/commands/model-gateway/model-gateway.command.ts
 +++ b/commands/model-gateway/model-gateway.command.ts
 @@ -15,7 +15,7 @@ export const modelGateway = {
@@ -90,3 +90,12 @@ index 98bb62d864587b1faa9762bc77cc20d28404ccdd..4486197c95a8bb144092a27fa1b260e4
      },
      {
        invariantKind: "departure",
+@@ -88,7 +88,7 @@ export const modelGateway = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A name that could name no seat is answered apart from a name no seat standing answers to.",
++        "A name that could name no seat is answered apart from a name no seat that is there answers to.",
+     },
+     {
+       invariantKind: "absence",
