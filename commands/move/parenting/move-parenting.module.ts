@@ -34,7 +34,7 @@ export const moveParenting = {
     },
     {
       invariantKind: "departure",
-      statement: "A destination no page holds leaves the carried page's parent as it was.",
+      statement: "A destination no page holds leaves the carried page's parent as that parent was.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +43,7 @@ export const moveParenting = {
     {
       invariantKind: "departure",
       statement:
-        "A page left under the parent it has is asked nothing of the page holding where it was.",
+        "A page left under the parent that page has is asked nothing of the page holding where that page was.",
     },
     {
       invariantKind: "departure",
@@ -59,12 +59,13 @@ export const moveParenting = {
     },
     {
       invariantKind: "departure",
-      statement: "A page arriving under the page that already named it changes no parts.",
+      statement:
+        "A page arriving under the page that already named that arriving page changes no parts.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A page the holder of where it arrives already names is asked nothing of its source.",
+        "A page the holder of where that page arrives already names is asked nothing of its source.",
     },
     {
       invariantKind: "departure",
@@ -80,11 +81,13 @@ export const moveParenting = {
     },
     {
       invariantKind: "departure",
-      statement: "What a folder holds is read as the move leaves it rather than as it is now.",
+      statement:
+        "What a folder holds is read as the move leaves that folder rather than as that folder is now.",
     },
     {
       invariantKind: "departure",
-      statement: "A page losing a part while the move carries it is named where it arrives.",
+      statement:
+        "A page losing a part while the move carries that page is named where that page arrives.",
     },
     {
       invariantKind: "departure",
