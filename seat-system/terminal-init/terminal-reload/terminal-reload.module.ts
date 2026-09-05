@@ -14,8 +14,7 @@ export const terminalReload = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What a launcher does sits under a name of its own rather than under the name typed.",
+      statement: "A launcher's body sits under a name of its own rather than under the name typed.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +38,7 @@ export const terminalReload = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here says what any one launcher does.",
+      statement: "Nothing here says any one launcher's body.",
     },
   ],
 } as const satisfies Module
