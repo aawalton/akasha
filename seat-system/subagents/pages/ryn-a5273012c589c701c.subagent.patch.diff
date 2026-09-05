@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-events-addon/next-boss-menu/next-boss-menu.module.ts b/temper/temper-events-addon/next-boss-menu/next-boss-menu.module.ts
+index fae8fbfeca602e3b1cff440552e9d6c728a45b1b..550cb642ae11d1c8ac657cd92a6e114eeaf7d433 100644
+--- a/temper/temper-events-addon/next-boss-menu/next-boss-menu.module.ts
++++ b/temper/temper-events-addon/next-boss-menu/next-boss-menu.module.ts
+@@ -14,7 +14,7 @@ export const nextBossMenu = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What is kept between sessions is read before the panel is built.",
++      statement: "The saved variables are read before the panel is built.",
+     },
+     {
+       invariantKind: "departure",
