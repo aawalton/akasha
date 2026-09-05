@@ -24,7 +24,7 @@ export const workspaceDeps = {
     {
       invariantKind: "departure",
       statement:
-        "A scoped specifier names the scope and the first segment after it and nothing deeper.",
+        "A scoped specifier names the scope and the first segment after that scope and nothing deeper.",
     },
     {
       invariantKind: "departure",
@@ -36,12 +36,13 @@ export const workspaceDeps = {
     },
     {
       invariantKind: "departure",
-      statement: "A dependency that is no workspace here ends the walk rather than refusing it.",
+      statement:
+        "A dependency that is no workspace here ends the walk rather than refusing that walk.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A script's command names are read from each subcommand a separator divides it into.",
+        "A script's command names are read from each subcommand a separator divides that script into.",
     },
     {
       invariantKind: "departure",
