@@ -279,3 +279,11 @@ index a3dd3ae1e4d0c13f655610847ac22e5f4eeeca80..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../hook-system
 \ No newline at end of file
+diff --git a/icloud-photos/icloud-photos b/icloud-photos/icloud-photos
+deleted file mode 120000
+index 4c7d1c9fd855072c21e4c99b4d2ea26e1bc2fdf3..0000000000000000000000000000000000000000
+--- a/icloud-photos/icloud-photos
++++ /dev/null
+@@ -1 +0,0 @@
+-../../icloud-photos
+\ No newline at end of file
