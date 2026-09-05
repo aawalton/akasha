@@ -11,7 +11,7 @@ import {
   scratch,
   TARGET,
 } from "../../command-system/commands/move/move.command.test-fixtures.ts"
-import { repointed } from "./move-repointing.module.code.ts"
+import { repointed } from "./path-repointing.module.code.ts"
 
 afterAll(scratch.sweep)
 

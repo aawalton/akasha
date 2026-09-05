@@ -2,7 +2,7 @@ import { parsedAs } from "@akasha/code-system/code-source"
 import { typed } from "@akasha/code-system/code-typing"
 import { uncommittedNamed } from "@akasha/pages/page-file-name"
 import ts from "typescript"
-import { repointed } from "../../../../code-system/path-repointing/move-repointing.module.code.ts"
+import { repointed } from "../../../../code-system/path-repointing/path-repointing.module.code.ts"
 import {
   importingOf,
   spellingOf,
