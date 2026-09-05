@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/seat-system/seat-turn/seat-turn.domain.ts b/seat-system/seat-turn/seat-turn.domain.ts
-index f97845ad4c9617ca8623b920f6412266e691e540..65ebd629d875177cb88d9e8e036bec72b24895d5 100644
+index f97845ad4c9617ca8623b920f6412266e691e540..3e68200a49e66e6c8259695fcee88142add68219 100644
 --- a/seat-system/seat-turn/seat-turn.domain.ts
 +++ b/seat-system/seat-turn/seat-turn.domain.ts
 @@ -9,7 +9,7 @@ export const seatTurn = {
@@ -12,12 +12,17 @@ index f97845ad4c9617ca8623b920f6412266e691e540..65ebd629d875177cb88d9e8e036bec72
      },
      { invariantKind: "departure", statement: "A seat's turn state is working or idle or stopped." },
      {
-@@ -70,7 +70,7 @@ export const seatTurn = {
+@@ -70,11 +70,11 @@ export const seatTurn = {
      {
        invariantKind: "departure",
        statement:
 -        "A refusal names what the turn left undone rather than the question refusing the turn end.",
 +        "A refusal names the work the turn left undone rather than the question refusing the turn end.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A seat on call is refused a turn end short of what the seat could do.",
++      statement: "A seat on call is refused a turn end short of the work the seat could do.",
      },
      {
        invariantKind: "departure",
