@@ -54,7 +54,8 @@ export const claudeUsage = {
     },
     {
       invariantKind: "departure",
-      statement: "The editor host is node, so it asks this as a child rather than reading itself.",
+      statement:
+        "The editor host is node, so it asks this command as a child rather than reading itself.",
     },
     {
       invariantKind: "departure",

@@ -71,7 +71,7 @@ export const noRuleInTwoFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "This check judges at audit alone.",
+      statement: "The check judges at audit alone.",
     },
     {
       invariantKind: "departure",

@@ -10,7 +10,8 @@ export const gitPushing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A checkout with no remote has nothing to push to and that is no failure.",
+      statement:
+        "A checkout with no remote has nothing to push to and a missing remote is no failure.",
     },
     {
       invariantKind: "departure",

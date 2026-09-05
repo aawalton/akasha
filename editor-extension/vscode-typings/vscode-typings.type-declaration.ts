@@ -14,7 +14,7 @@ export const vscodeTypings = {
     {
       invariantKind: "departure",
       statement:
-        "The manifest around this is named for what a typecheck looks up, not for its folder.",
+        "The manifest around this declaration is named for what a typecheck looks up, not for its folder.",
     },
     {
       invariantKind: "absence",

@@ -120,7 +120,7 @@ export const codeCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "That is how a check states its rule before it binds anyone.",
+      statement: "That landing is how a check states its rule before it binds anyone.",
     },
     {
       invariantKind: "departure",

@@ -286,7 +286,7 @@ export const move = {
     {
       invariantKind: "departure",
       statement:
-        "The files that reached in by a relative path are reported apart from those that spelled one.",
+        "The files that reached in by a relative path are reported apart from those files that spelled one.",
     },
     {
       invariantKind: "absence",

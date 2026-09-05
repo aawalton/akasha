@@ -22,7 +22,7 @@ export const pageTreePanel = {
     {
       invariantKind: "departure",
       statement:
-        "The rows counted are all of them, and the pages counted are those opening a document.",
+        "The rows counted are all of them, and the pages counted are the ones opening a document.",
     },
     {
       invariantKind: "departure",

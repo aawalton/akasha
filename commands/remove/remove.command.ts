@@ -126,7 +126,7 @@ export const remove = {
     },
     {
       invariantKind: "departure",
-      statement: "A root manifest that moved while this ran refuses the removal unwritten.",
+      statement: "A root manifest that moved while this call ran refuses the removal unwritten.",
     },
     {
       invariantKind: "departure",

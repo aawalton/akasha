@@ -42,7 +42,7 @@ export const codeSource = {
     {
       invariantKind: "absence",
       statement:
-        "A path is a name the parse carries so a node can say where it stands rather than a file this opens.",
+        "A path is a name the parse carries so a node can say where it stands rather than a file this module opens.",
     },
   ],
 } as const satisfies Module
