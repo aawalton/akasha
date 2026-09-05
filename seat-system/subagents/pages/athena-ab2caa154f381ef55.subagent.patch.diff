@@ -1,0 +1,13 @@
+diff --git a/domains/initiatives/pages/thea-checks-system.initiative.ts b/domains/initiatives/pages/thea-checks-system.initiative.ts
+index b2b56bfd09c738bd32aa6bc0a19c24e39cadd351..8450e45e3a4ec4c91b96e1047aa8be4dca20e481 100644
+--- a/domains/initiatives/pages/thea-checks-system.initiative.ts
++++ b/domains/initiatives/pages/thea-checks-system.initiative.ts
+@@ -39,7 +39,7 @@ export const theaChecksSystem = {
+     {
+       statement: "No persona and no value carries a stored lifetime points total.",
+       workingMemory:
+-        "Alan ruled the figures wrong and confusing: aelwyn holds 50,909 against a computed 22,537, unsettled. Retire leaf-first — command `ops tracking recompute-totals`, then `recompute-totals`, `health-total-points`, `landTotalPoints` out of `session-points-totals`, `persona-total-landing`. Then the field off `session-points-compute` and `persona-recipe-rows`, 3 persona views, `persona-all`, 10 persona pages, 6 value pages, the declarations on `persona` and `value`, the property page, and the finding.",
++        "Alan ruled the figures wrong and confusing: aelwyn holds 50,909 against a computed 22,537, unsettled. Retire leaf-first — `recompute-totals`, `health-total-points`, `landTotalPoints` out of `session-points-totals`, `persona-total-landing`. Then the field off `session-points-compute` and `persona-recipe-rows`, 3 persona views, `persona-all`, 10 persona pages, 6 value pages, the declarations on `persona` and `value`, the property page, and the finding. The command that opened this list went with the ops CLI.",
+     },
+   ],
+   constraints: [
