@@ -7,10 +7,4 @@ export const mediaPcFontpath = {
   definition: "the folder the client reads fonts from on Windows and Mac",
   markup: "xml",
   loadedAs: "PC/fontpath.xml",
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "The font path is declared as a string the other documents read.",
-    },
-  ],
 } as const satisfies EsoInterface

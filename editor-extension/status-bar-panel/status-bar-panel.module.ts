@@ -55,10 +55,7 @@ export const statusBarPanel = {
       invariantKind: "departure",
       statement: "Every drawing's outcome is recorded as an observation.",
     },
-    {
-      invariantKind: "absence",
-      statement: "No timer starts a drawing.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here reads a stoplight or a usage figure.",

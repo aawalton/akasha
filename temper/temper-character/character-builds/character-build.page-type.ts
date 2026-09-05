@@ -44,10 +44,6 @@ export const characterBuild = {
       invariantKind: "departure",
       statement: "Two builds arranged alike carry one hash.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A name is author-given, so several builds answer to the same name.",
-    },
 
     {
       invariantKind: "departure",

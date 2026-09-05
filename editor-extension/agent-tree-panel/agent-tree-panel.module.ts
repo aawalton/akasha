@@ -85,10 +85,7 @@ export const agentTreePanel = {
       invariantKind: "departure",
       statement: "Copying a seat's name reaches the seat the same way an act does.",
     },
-    {
-      invariantKind: "absence",
-      statement: "No timer starts a drawing.",
-    },
+
     {
       invariantKind: "absence",
       statement: "No watcher on a seat file is registered here.",

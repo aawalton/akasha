@@ -37,10 +37,7 @@ export const workTreePanel = {
       invariantKind: "departure",
       statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
     },
-    {
-      invariantKind: "absence",
-      statement: "No timer starts a drawing.",
-    },
+
     {
       invariantKind: "absence",
       statement: "No watcher on a seat file or an initiative file is registered here.",

@@ -26,10 +26,6 @@ export const inboxesTasks = {
       invariantKind: "departure",
       statement: "The count is how many tasks are undone at the end of that day.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A count stated as text is read as the number that count spells.",
-    },
 
     {
       invariantKind: "departure",

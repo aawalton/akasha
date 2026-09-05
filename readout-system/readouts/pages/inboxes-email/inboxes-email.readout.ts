@@ -25,10 +25,6 @@ export const inboxesEmail = {
       invariantKind: "departure",
       statement: "The reading is how near the inbox came to empty rather than where the inbox is.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A count stated as text is read as the number that count spells.",
-    },
 
     {
       invariantKind: "departure",
