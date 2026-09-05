@@ -1,5 +1,5 @@
 diff --git a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
-index 32007c6f695cfc657a3789129d6e7d80742f67fe..061947fe0d6efd475f30b94263a4cca540836535 100644
+index 32007c6f695cfc657a3789129d6e7d80742f67fe..da1037cf343ab90d97a14fc3659be1f796d23ee1 100644
 --- a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
 +++ b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
 @@ -1,5 +1,10 @@
@@ -23,3 +23,16 @@ index 32007c6f695cfc657a3789129d6e7d80742f67fe..061947fe0d6efd475f30b94263a4cca5
  const OPENERS = ["SCONJ", "CCONJ"]
  const QUANTIFIER = [
    "all",
+@@ -70,6 +77,12 @@ export function isQuantifier(token: DepToken): boolean {
+   return QUANTIFIER.includes(lower(token))
+ }
+ 
++export function marksADegree(sentence: DepSentence, token: DepToken): boolean {
++  if (!DEGREE.includes(lower(token))) return false
++  if (!childrenByRel(sentence, token.id, "case").some((one) => lower(one) === "at")) return false
++  return childrenOf(sentence, token.id).every((one) => MARKERS.includes(one.deprel))
++}
++
+ export function partsOf(sentence: DepSentence, token: DepToken): DepToken[] {
+   return childrenByRel(sentence, token.id, "nmod").filter((one) =>
+     childrenByRel(sentence, one.id, "case").some((mark) => lower(mark) === "of")
