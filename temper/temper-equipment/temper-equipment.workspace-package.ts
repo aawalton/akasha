@@ -29,5 +29,9 @@ export const temperEquipment = {
       invariantKind: "departure",
       statement: "Every set id here is written out from the set pages rather than by hand.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A trait moved to another place breaks every build hash saved.",
+    },
   ],
 } as const satisfies WorkspacePackage
