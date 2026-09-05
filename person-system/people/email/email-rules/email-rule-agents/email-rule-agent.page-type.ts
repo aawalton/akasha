@@ -22,7 +22,8 @@ export const emailRuleAgent = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule of this kind states what to weigh rather than what to do.",
+      statement:
+        "A rule of this kind states the judgement to make rather than the actions to take.",
     },
     {
       invariantKind: "departure",
