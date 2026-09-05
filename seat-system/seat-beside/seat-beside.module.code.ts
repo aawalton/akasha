@@ -28,8 +28,9 @@ function bare(held: unknown): unknown {
   if (held === null || typeof held !== "object" || Array.isArray(held)) return held
   const rec = held as Record<string, unknown>
   const keys = Object.keys(rec)
-  if (keys.length === 2 && keys.includes("value") && keys.includes("at")) return rec["value"]
-  return held
+  if (!keys.includes("value")) return held
+  if (!keys.every((one) => one === "value" || one === "at")) return held
+  return rec["value"]
 }
 
 function asKind(held: unknown, kind: Kind): unknown {
