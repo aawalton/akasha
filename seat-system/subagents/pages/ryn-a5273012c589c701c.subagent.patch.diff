@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-skill-point-finder/skill-point-sources/skill-point-sources.module.ts b/temper/temper-skill-point-finder/skill-point-sources/skill-point-sources.module.ts
+index 9fda46000e55e2609d4322789910accc969311da..d4c3d8a98058ff00287ef83d14ce9ef386b14d41 100644
+--- a/temper/temper-skill-point-finder/skill-point-sources/skill-point-sources.module.ts
++++ b/temper/temper-skill-point-finder/skill-point-sources/skill-point-sources.module.ts
+@@ -13,7 +13,7 @@ export const skillPointSources = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here counts what a character has earned.",
++      statement: "Nothing here counts the skill points a character has earned.",
+     },
+   ],
+ } as const satisfies Module
