@@ -9,7 +9,7 @@ export const domainTreePanel = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The panel is read once as it starts, before any write asks for a read.",
+      statement: "The panel is read once as that panel starts, before any write asks for a read.",
     },
     {
       invariantKind: "departure",
