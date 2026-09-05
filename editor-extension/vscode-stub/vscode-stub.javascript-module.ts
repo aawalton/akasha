@@ -13,7 +13,7 @@ export const vscodeStub = {
     },
     {
       invariantKind: "departure",
-      statement: "A member content passes through keeps what was written into that member.",
+      statement: "A member content passes through keeps the value written into that member.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +46,7 @@ export const vscodeStub = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here judges what was drawn.",
+      statement: "Nothing here judges the values drawn.",
     },
     {
       invariantKind: "gap",
