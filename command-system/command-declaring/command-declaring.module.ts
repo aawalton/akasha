@@ -9,7 +9,8 @@ export const commandDeclaring = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A command declares what the command takes rather than parsing the arguments.",
+      statement:
+        "A command declares the arguments the command takes rather than parsing the arguments.",
     },
     {
       invariantKind: "departure",
