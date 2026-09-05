@@ -9,7 +9,7 @@ export const ruleMatcherContext = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What is derived from builds is gathered apart from what is read off inventory.",
+      statement: "The half derived from builds is gathered apart from the half read off inventory.",
     },
     {
       invariantKind: "departure",
