@@ -12,7 +12,7 @@ export const relationshipsAll = {
     "relationshipConnection",
     "relationshipImpact",
     "relationshipInterest",
-    "relationship-email",
+    "email",
     "relationshipPhone",
   ],
 } as const satisfies PageQuery

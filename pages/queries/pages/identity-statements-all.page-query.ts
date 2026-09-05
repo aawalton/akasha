@@ -5,5 +5,12 @@ export const identityStatementsAll = {
   pageTypeSlug: "page-query",
   slug: "identity-statements-all",
   asksOfSlug: "identity-statement",
-  keys: ["title", "status", "rank", "about", "level", "value-slug"],
+  keys: [
+    "title",
+    "identityStatementStatus",
+    "identityStatementRank",
+    "about",
+    "identityStatementLevel",
+    "identityStatementValueSlug",
+  ],
 } as const satisfies PageQuery

@@ -8,5 +8,5 @@ export const episodesWatchedOnDay = {
   parameters: [{ name: "day", type: "calendar-date" }],
   narrows: [{ key: "completedAt", comparison: "is", values: ["$day"] }],
   reduction: "sum",
-  targetKey: "length",
+  targetKey: "ownLength",
 } as const satisfies PageQuery

@@ -7,5 +7,5 @@ export const episodesWatched = {
   asksOfSlug: "episode",
   narrows: [{ key: "completedAt", comparison: "empty", values: ["false"] }],
   reduction: "sum",
-  targetKey: "length",
+  targetKey: "ownLength",
 } as const satisfies PageQuery

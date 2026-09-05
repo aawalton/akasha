@@ -5,5 +5,11 @@ export const relationshipDepositsAll = {
   pageTypeSlug: "page-query",
   slug: "relationship-deposits-all",
   asksOfSlug: "relationship-deposit",
-  keys: ["persona-slug", "relationship-id", "date", "size", "value-slug"],
+  keys: [
+    "relationshipDepositPersonaSlug",
+    "relationshipDepositRelationshipSlug",
+    "relationshipDepositDate",
+    "relationshipDepositSize",
+    "relationshipDepositValueSlug",
+  ],
 } as const satisfies PageQuery
