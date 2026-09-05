@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/persona-system/personas/persona-points.domain.ts b/persona-system/personas/persona-points.domain.ts
-index cf0c53942342b30cf1083063354568acef67f0fb..6ec6803c6b11c540f049bc46afdfbf77f527685d 100644
+index cf0c53942342b30cf1083063354568acef67f0fb..43a48967e71aa84bbffe28ec65faaa20a1adab7d 100644
 --- a/persona-system/personas/persona-points.domain.ts
 +++ b/persona-system/personas/persona-points.domain.ts
 @@ -10,11 +10,11 @@ export const personaPoints = {
@@ -17,3 +17,13 @@ index cf0c53942342b30cf1083063354568acef67f0fb..6ec6803c6b11c540f049bc46afdfbf77
      },
      {
        invariantKind: "departure",
+@@ -40,7 +40,8 @@ export const personaPoints = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A stored day agrees with what its recipe computes, for every persona at once.",
++      statement:
++        "A stored day agrees with the points its recipe computes, for every persona at once.",
+     },
+     {
+       invariantKind: "gap",
