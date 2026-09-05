@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/utils-sync/page-type-props/page-type-props.module.ts b/utils-sync/page-type-props/page-type-props.module.ts
+index c5d7dfb1daf00666b21325796a702ace36c63e07..b81c5a38dbaf9796686ede8e72330a16418b8a54 100644
+--- a/utils-sync/page-type-props/page-type-props.module.ts
++++ b/utils-sync/page-type-props/page-type-props.module.ts
+@@ -9,8 +9,7 @@ export const pageTypeProps = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A property naming another page states what the property targets and what comes back.",
++      statement: "A property naming another page states its target and the back reference.",
+     },
+     {
+       invariantKind: "absence",
