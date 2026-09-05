@@ -76,7 +76,7 @@ export const indexEntries = {
     },
     {
       invariantKind: "departure",
-      statement: "A type declares what every type above that type declares.",
+      statement: "A type declares every property every type above that type declares.",
     },
     {
       invariantKind: "departure",
