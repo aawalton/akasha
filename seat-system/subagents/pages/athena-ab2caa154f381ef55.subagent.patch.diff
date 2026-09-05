@@ -1,3 +1,19 @@
+diff --git a/alan/fitness/exercise-access/exercise-digest/exercise-digest.module.code.ts b/alan/fitness/exercise-access/exercise-digest/exercise-digest.module.code.ts
+index 85dcdeee19c6390b4691ffc927716aa0e95e2be8..f6b3751537ef7c99d5ba9b11cc494ff84ac1d7dd 100644
+--- a/alan/fitness/exercise-access/exercise-digest/exercise-digest.module.code.ts
++++ b/alan/fitness/exercise-access/exercise-digest/exercise-digest.module.code.ts
+@@ -22,11 +22,6 @@ export const HELP: CommandHelp = {
+     { code: 0, meaning: "digest printed" },
+     { code: 1, meaning: "bad input or query failure" },
+   ],
+-  examples: [
+-    "ops exercise digest",
+-    "ops exercise digest --focus push",
+-    "ops exercise digest --json",
+-  ],
+ }
+ 
+ function setLineStr(line: SetLine | null): string {
 diff --git a/command-system/ios-widget-swift/ios-widget-swift.module.code.ts b/command-system/ios-widget-swift/ios-widget-swift.module.code.ts
 index 7b43ef416e3b11d4010026143f90cea454bbcf1c..d0241468abdd43cb2b1428984cfa3361a3c72935 100644
 --- a/command-system/ios-widget-swift/ios-widget-swift.module.code.ts
