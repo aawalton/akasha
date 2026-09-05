@@ -25,7 +25,7 @@ export const temperSkillMorphs = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A skill morphs only where the game gives it a first and a second morph.",
+      statement: "A skill morphs only where the game gives that skill a first and a second morph.",
     },
     {
       invariantKind: "departure",
