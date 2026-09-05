@@ -12,7 +12,7 @@ export const effectSeconds = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An effect stating no seconds lasts as long as what carries the effect.",
+      statement: "An effect stating no seconds lasts as long as the thing carrying the effect.",
     },
   ],
 } as const satisfies NumberProperty
