@@ -1,15 +1,20 @@
 runsWarrants: false
 diff --git a/commands/deploy/deploy.command.ts b/commands/deploy/deploy.command.ts
-index 6899ae60ccb16b8b1b80abcff6567a46899b8e34..81e099a82adbdf3ed0a453e6223582b88a492c7e 100644
+index 6899ae60ccb16b8b1b80abcff6567a46899b8e34..5f881448211cb621e1df42d9919ac67a7d0515cd 100644
 --- a/commands/deploy/deploy.command.ts
 +++ b/commands/deploy/deploy.command.ts
-@@ -62,7 +62,8 @@ export const deploy = {
+@@ -62,11 +62,12 @@ export const deploy = {
      },
      {
        invariantKind: "departure",
 -      statement: "What a deploy is made of is read from the page rather than said on the call.",
 +      statement:
 +        "The parts a deploy is made of are read from the page rather than said on the call.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A commit named on the call settles what an ios app is built at.",
++      statement: "A commit named on the call settles the commit an ios app is built at.",
      },
      {
        invariantKind: "departure",
