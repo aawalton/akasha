@@ -24,7 +24,8 @@ export const surplusFallNotifying = {
     },
     {
       invariantKind: "departure",
-      statement: "A rung is said only where it is worse than the worst rung already said today.",
+      statement:
+        "A rung is said only where that rung is worse than the worst rung already said today.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +35,7 @@ export const surplusFallNotifying = {
     {
       invariantKind: "departure",
       statement:
-        "A day dropping two rungs between ticks says the rung it reached and never the rung between.",
+        "A day dropping two rungs between ticks says the rung the day reached and never the rung between.",
     },
     {
       invariantKind: "departure",
@@ -62,7 +63,7 @@ export const surplusFallNotifying = {
     {
       invariantKind: "departure",
       statement:
-        "The loop runs until stopped, and SIGTERM and SIGINT both end it at its next boundary.",
+        "The loop runs until stopped, and SIGTERM and SIGINT both end that loop at its next boundary.",
     },
     {
       invariantKind: "gap",
