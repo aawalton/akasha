@@ -1,0 +1,14 @@
+diff --git a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
+index 578d2aee6d79fba7048f00ee06e3e06469e0a8eb..956a56fc7fdf8bb9fcd35fbee9796c6c8ae70180 100644
+--- a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
++++ b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
+@@ -34,7 +34,8 @@ export const supervisorHeartbeatBeat = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Taking the seat page down hands its outcome back instead of logging it.",
++      statement:
++        "Taking the seat page down hands its outcome back instead of logging that outcome.",
+     },
+     {
+       invariantKind: "departure",
