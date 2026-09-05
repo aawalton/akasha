@@ -1,0 +1,15 @@
+diff --git a/temper/temper-web/manifests/temper-web-manifests.manifest.ts b/temper/temper-web/manifests/temper-web-manifests.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fe87a4c2b5e4168d167edf166c3962e44e0a221d
+--- /dev/null
++++ b/temper/temper-web/manifests/temper-web-manifests.manifest.ts
+@@ -0,0 +1,9 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const temperWebManifests = {
++  id: "01a07384-ba71-7e7e-83f4-b7564fa65954",
++  pageTypeSlug: "manifest",
++  slug: "temper-web-manifests",
++  definition: "the deployment and service serving the parts of Temper that run in a browser",
++  code: "ts",
++} as const satisfies Manifest
