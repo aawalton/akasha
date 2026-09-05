@@ -11,6 +11,5 @@ export const supabaseRealtime = {
   image: "supabase/realtime:v2.86.3",
   replicas: 1,
   containerPort: 4000,
-  manifestCode:
-    "service-system/cluster-services/pages/supabase-realtime/supabase-realtime.cluster-service.code.attachment.ts",
+  manifestSlug: "supabase-realtime",
 } as const satisfies ClusterService
