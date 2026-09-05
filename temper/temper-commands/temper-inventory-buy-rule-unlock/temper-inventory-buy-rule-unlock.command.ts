@@ -8,7 +8,6 @@ export const temperInventoryBuyRuleUnlock = {
   code: "ts",
   changeKindSlug: "change-none",
   taking: [{ said: "<id>", takes: "the id of the buy rule unlocked" }],
-  helpNotes: ["unlocking a buy rule already unlocked changes nothing."],
   invariants: [
     {
       invariantKind: "departure",
