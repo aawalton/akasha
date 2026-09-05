@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/infrastructure/inference-runs/inference-runs.workspace-package.ts b/infrastructure/inference-runs/inference-runs.workspace-package.ts
+index 932f893853a1dfa576d76b4aa79d23af01788fe4..328a974f89b80d90655a287bbc11643d59c7426a 100644
+--- a/infrastructure/inference-runs/inference-runs.workspace-package.ts
++++ b/infrastructure/inference-runs/inference-runs.workspace-package.ts
+@@ -19,7 +19,8 @@ export const inferenceRuns = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A run is written down before it starts rather than once it has finished.",
++      statement:
++        "A run is written down before that run starts rather than once that run has finished.",
+     },
+     {
+       invariantKind: "departure",
