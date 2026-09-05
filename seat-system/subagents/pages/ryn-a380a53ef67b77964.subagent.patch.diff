@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/health-samples-import/health-import-reading/health-import-reading.module.ts b/health-samples-import/health-import-reading/health-import-reading.module.ts
+index 3543b4a47bc0b606c5d76bf10898ed8c74a21932..285e8ec47ee1aff82ec7909491f2354e4fb4c5ed 100644
+--- a/health-samples-import/health-import-reading/health-import-reading.module.ts
++++ b/health-samples-import/health-import-reading/health-import-reading.module.ts
+@@ -13,7 +13,7 @@ export const healthImportReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run that lost records reads as lossy and names what the run lost.",
++      statement: "A run that lost records reads as lossy and names the records the run lost.",
+     },
+     {
+       invariantKind: "departure",
