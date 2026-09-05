@@ -137,3 +137,25 @@ index 0fd6a313f1a036d14566e914dea4da349f3f0b4e..378333ac001eb38b89cbe578fb768dac
    max: 200,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/domains/taboo-terms/properties/taboo-senses.record-property.ts b/domains/taboo-terms/properties/taboo-senses.record-property.ts
+index 6ab88d23dcb89b5f1e5561a9d1733273f3e8ad38..61d9d74e5fa14673dc450d827e33d28466205db7 100644
+--- a/domains/taboo-terms/properties/taboo-senses.record-property.ts
++++ b/domains/taboo-terms/properties/taboo-senses.record-property.ts
+@@ -15,7 +15,7 @@ export const tabooSenses = {
+   pageTypeSlug: "record-property",
+   slug: "taboo-senses",
+   propertySlug: "taboo-senses",
+-  definition: "the senses a taboo term is never written in, each with what stands instead",
++  definition: "the senses a taboo term is never written in, each with what is written instead",
+   properties: [
+     { pagePropertySlug: "sense", required: true, many: false },
+     { pagePropertySlug: "instead", required: true, many: false },
+@@ -31,7 +31,7 @@ export const tabooSenses = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A sense stands alone among the senses one term bars.",
++      statement: "A sense is alone among the senses one term bars.",
+     },
+   ],
+ } as const satisfies RecordProperty
