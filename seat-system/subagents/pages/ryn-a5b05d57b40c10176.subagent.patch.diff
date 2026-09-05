@@ -1,0 +1,16 @@
+diff --git a/agents/claude-accounts/modules/marking/claude-account-marking.module.ts b/agents/claude-accounts/modules/marking/claude-account-marking.module.ts
+index 4f5a329720e344c597d8b3f1ae3b341a3ac016e1..b723467117da562f04992c646f1f724d878e0d8b 100644
+--- a/agents/claude-accounts/modules/marking/claude-account-marking.module.ts
++++ b/agents/claude-accounts/modules/marking/claude-account-marking.module.ts
+@@ -96,10 +96,7 @@ export const claudeAccountMarking = {
+       invariantKind: "departure",
+       statement: "Writing one account's mark lists no directory the accounts are filed under.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "The claude-account page type is reached by its id rather than by a spelled slug.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A mark is written under the key akasha declares that value as.",
