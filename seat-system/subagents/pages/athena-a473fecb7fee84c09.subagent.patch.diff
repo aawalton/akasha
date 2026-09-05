@@ -11,6 +11,24 @@ index d8fb71d47a496394123876eb3ded293001fb1244..b093c91fa80fc751f6821a014a4bde28
  
  export const OUT = "--out"
  
+diff --git a/commands/compose-notices/compose-notices.command.test.ts b/commands/compose-notices/compose-notices.command.test.ts
+index ef5daffe5d3eddcf39e5b50d4ec711999b41ac6d..81b823fc256a7a420c273b8b95b1005101d17c26 100644
+--- a/commands/compose-notices/compose-notices.command.test.ts
++++ b/commands/compose-notices/compose-notices.command.test.ts
+@@ -2,12 +2,7 @@ import { expect, test } from "bun:test"
+ import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+ import { join, resolve } from "node:path"
+ import type { Given } from "@akasha/command-system/calling"
+-import {
+-  NOTICES,
+-  notices,
+-  noticesUnder,
+-  render,
+-} from "../../seat-system/compose-notices/compose-notices.module.code.ts"
++import { NOTICES, notices, noticesUnder, render } from "@akasha/seat-system/compose-notices"
+ import { composeNotices, OUT, pathOf, readIn, saidOf } from "./compose-notices.command.code.ts"
+ 
+ const ROOT = resolve(import.meta.dir, "../..")
 diff --git a/seat-system/package.json b/seat-system/package.json
 index 685b0ba6ec0fb7d71ab6f4b3f752c47155ff6f88..46988b7d62ae481ed5378a104dca1dd09937e1d6 100644
 --- a/seat-system/package.json
