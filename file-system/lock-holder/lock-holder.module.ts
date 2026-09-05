@@ -63,7 +63,7 @@ export const lockHolder = {
     },
     {
       invariantKind: "absence",
-      statement: "What is read is a pid and a mark.",
+      statement: "The input read is a pid and a mark.",
     },
   ],
 } as const satisfies Module
