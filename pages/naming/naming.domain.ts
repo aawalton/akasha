@@ -9,7 +9,8 @@ export const naming = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A folder's word is true of everything under it and of nothing outside it.",
+      statement:
+        "A folder's word is true of everything under that folder and of nothing outside that folder.",
     },
     {
       invariantKind: "departure",
