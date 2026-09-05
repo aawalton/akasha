@@ -39,7 +39,7 @@ export const instrument = {
     },
     {
       invariantKind: "departure",
-      statement: "A run is never shorter on the clock than the longest run inside it.",
+      statement: "A run is never shorter on the clock than the longest run inside that run.",
     },
     {
       invariantKind: "departure",
@@ -57,7 +57,7 @@ export const instrument = {
     },
     {
       invariantKind: "departure",
-      statement: "A first run against an empty cache costs more than the run it is.",
+      statement: "A first run against an empty cache costs more than the run that first run is.",
     },
     {
       invariantKind: "departure",
