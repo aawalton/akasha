@@ -1,5 +1,5 @@
 diff --git a/commands/calendar/calendar.command.ts b/commands/calendar/calendar.command.ts
-index cab7bacb650cc7eaf2ef955eb7fcfa1ed5df9679..41382636d48ce7ba183b3af4ae94e01d139e6b0d 100644
+index cab7bacb650cc7eaf2ef955eb7fcfa1ed5df9679..c0939c65ae877011deaabbef575e56431ee2392a 100644
 --- a/commands/calendar/calendar.command.ts
 +++ b/commands/calendar/calendar.command.ts
 @@ -4,7 +4,7 @@ export const calendar = {
@@ -11,6 +11,15 @@ index cab7bacb650cc7eaf2ef955eb7fcfa1ed5df9679..41382636d48ce7ba183b3af4ae94e01d
    code: "ts",
    test: "ts",
    changeKindSlug: "change-mechanical",
+@@ -23,7 +23,7 @@ export const calendar = {
+         "the callback URL pasted from the browser, where the loopback listener cannot be reached",
+     },
+     { said: "events", takes: "what to act on, which is the events a calendar holds" },
+-    { said: "list", takes: "the act, which is to answer the events standing in a window" },
++    { said: "list", takes: "the act, which is to answer the events in a window" },
+     { said: "get", takes: "the act, which is to answer one event named by its id" },
+     {
+       said: "create",
 diff --git a/commands/drive/drive.command.code.ts b/commands/drive/drive.command.code.ts
 index b1b797bdcf9516fd7ff3d6033685bbd6896227aa..7333bbb4378d653d3cfec957b2f9681e7265293c 100644
 --- a/commands/drive/drive.command.code.ts
