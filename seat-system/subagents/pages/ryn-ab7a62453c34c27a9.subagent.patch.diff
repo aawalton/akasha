@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/domains/properties/definition.text-property.ts b/domains/properties/definition.text-property.ts
+index 8c7834084366466f609b043706c3554179d0999f..c39ac8cd58bccd5e83c7e39aecc56eb9bfc2b442 100644
+--- a/domains/properties/definition.text-property.ts
++++ b/domains/properties/definition.text-property.ts
+@@ -13,7 +13,7 @@ export const definition = {
+   invariants: [
+     {
+       invariantKind: "absence",
+-      statement: "A definition holds no clause saying what the thing is for.",
++      statement: "A definition holds no clause naming the thing's purpose.",
+     },
+     {
+       invariantKind: "absence",
