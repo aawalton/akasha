@@ -119,6 +119,11 @@ export const alanHarness = {
       invariantKind: "departure",
       statement: "Nothing reads a readout through the markdown engine.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The reading is taken by a workstation timer rather than by a pod serving a route.",
+    },
   ],
   directives: [
     {
