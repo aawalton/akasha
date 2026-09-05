@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/credential/monarch-credential.module.ts b/alan/harness/monarch/credential/monarch-credential.module.ts
-index 8c5cc3f492e7af6fbdbb49d3116e2c2fa157bd0a..fac26e49ac91baba43fc4c939edb62a6ec8b1c33 100644
+index 8c5cc3f492e7af6fbdbb49d3116e2c2fa157bd0a..68b09cf088c0487858e6b09c78423fb184dca89d 100644
 --- a/alan/harness/monarch/credential/monarch-credential.module.ts
 +++ b/alan/harness/monarch/credential/monarch-credential.module.ts
 @@ -14,7 +14,7 @@ export const monarchCredential = {
@@ -8,6 +8,15 @@ index 8c5cc3f492e7af6fbdbb49d3116e2c2fa157bd0a..fac26e49ac91baba43fc4c939edb62a6
        invariantKind: "departure",
 -      statement: "The CSRF token is cut from the cookie rather than held apart from it.",
 +      statement: "The CSRF token is cut from the cookie rather than held apart from that cookie.",
+     },
+     {
+       invariantKind: "departure",
+@@ -24,7 +24,7 @@ export const monarchCredential = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The headers are frozen, so what is handed out cannot be altered by whoever holds it.",
++        "The headers are frozen, so what is handed out cannot be altered by whoever holds those headers.",
      },
      {
        invariantKind: "departure",
