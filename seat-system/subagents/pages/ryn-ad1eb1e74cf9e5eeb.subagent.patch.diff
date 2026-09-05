@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/temper/temper-catalog/temper-pursuits/lore-collections/temper-lore-collection.page-type.ts b/temper/temper-catalog/temper-pursuits/lore-collections/temper-lore-collection.page-type.ts
+index 349ff7327146f988833a9d2814b21c3d5a381689..dad6c0032a218a629b2ffec78ebcd26a2f6178d2 100644
+--- a/temper/temper-catalog/temper-pursuits/lore-collections/temper-lore-collection.page-type.ts
++++ b/temper/temper-catalog/temper-pursuits/lore-collections/temper-lore-collection.page-type.ts
+@@ -32,7 +32,8 @@ export const temperLoreCollection = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A collection is numbered inside its lore category rather than across them all.",
++      statement:
++        "A collection is numbered inside its lore category rather than across all the lore categories.",
+     },
+     {
+       invariantKind: "departure",
