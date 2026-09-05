@@ -16,3 +16,16 @@ index 2a2d776204628cd676ce25b374f59f4a70b6f2c5..9fdf06090486558502217db8f4e983ca
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/monarch/amazon-write/monarch-amazon-write.module.ts b/alan/harness/monarch/amazon-write/monarch-amazon-write.module.ts
+index fc0a44e38360f497cfa1cd95951349da4ce5fae4..2299144588902b4a4ab527a7f9bc58cd3089b2e4 100644
+--- a/alan/harness/monarch/amazon-write/monarch-amazon-write.module.ts
++++ b/alan/harness/monarch/amazon-write/monarch-amazon-write.module.ts
+@@ -18,7 +18,7 @@ export const monarchAmazonWrite = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A row whose note already ends in the order number has its order number recorded even though nothing was written, so a half-done write repairs itself.",
++        "A row whose note ends in the order number has that number recorded though nothing was written.",
+     },
+     {
+       invariantKind: "departure",
