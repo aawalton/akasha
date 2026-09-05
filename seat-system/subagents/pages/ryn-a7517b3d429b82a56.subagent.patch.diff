@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/readout-system/readouts/properties/earned-key.text-property.ts b/readout-system/readouts/properties/earned-key.text-property.ts
+index 211c3f4666888fea989f2e52baaf84c7627cb0d2..e5048bb0d3bf025bd3cb3516d09cf7a7fd2ef7ce 100644
+--- a/readout-system/readouts/properties/earned-key.text-property.ts
++++ b/readout-system/readouts/properties/earned-key.text-property.ts
+@@ -17,7 +17,7 @@ export const earnedKey = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the key names is true or false rather than a number.",
++      statement: "The fact the key names is true or false rather than a number.",
+     },
+   ],
+ } as const satisfies TextProperty
