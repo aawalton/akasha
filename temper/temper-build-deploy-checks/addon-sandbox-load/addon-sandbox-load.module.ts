@@ -9,7 +9,7 @@ export const addonSandboxLoad = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "A bundle that failed to load reports what the bundle was when the load ran.",
+      statement: "A bundle that failed to load reports the bundle's state when the load ran.",
     },
     {
       invariantKind: "constraint",
