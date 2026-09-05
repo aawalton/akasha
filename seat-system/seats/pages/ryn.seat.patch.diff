@@ -1,0 +1,18 @@
+diff --git a/domains/findings/pages/no-predicate-separates-a-parse-error-from-a-refusal.finding.ts b/domains/findings/pages/no-predicate-separates-a-parse-error-from-a-refusal.finding.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fa071eeadb4cdf10e9cb992280f68bcc0713130b
+--- /dev/null
++++ b/domains/findings/pages/no-predicate-separates-a-parse-error-from-a-refusal.finding.ts
+@@ -0,0 +1,12 @@
++import type { Finding } from "../finding.page-type.ts"
++
++export const noPredicateSeparatesAParseErrorFromARefusal = {
++  id: "01a073da-e0e6-7fab-a025-66898b63a03a",
++  pageTypeSlug: "finding",
++  slug: "no-predicate-separates-a-parse-error-from-a-refusal",
++  domainSlug: "workspace-package/plain-language",
++  claim:
++    "The false refusals left in lone-quantifier and lone-determiner are parser mistakes rather than shape design, and no predicate over the parse separates them. Every discriminator that would separate them is the very thing the parser gets wrong: whether the word after the quantifier is a noun or a verb. Four candidate rules were measured over the whole population before landing and all four were rejected, two for cutting true refusals at the same rate as the artifacts and two for cutting almost nothing. So a shape narrowed as far as a predicate can narrow it still refuses about a fifth to a quarter of what it names, and turning the check on at patch enforces that share.",
++  evidence:
++    'Read by hand: 40 of lone-quantifier\'s 909 statements, drawn evenly across the population, and all 29 of lone-determiner\'s. 11 of the 40 and 6 of the 29 are false refusals. Both samples are readings rather than measurements and are not multiplied up here.\n\nThe families in lone-quantifier\'s 11: 3 a determiner the parser filed under a noun slot ("lands as one commit", "names one listen", "the files one write puts"), 3 a numeral used as a value or a measure ("is numbered one", "one above the highest"), 2 a conjunct of a numeral ("two or more refunds"), 2 an idiom with no plainer form ("said more than once", "wants any more"), 1 a floating quantifier ("A missing value and a null value both become `nil`.").\n\nThe four rules, each run over every match before any edit was drafted:\n\n`determinesTheNextWord` — the token after the quantifier is the quantifier\'s own head, the same word-order test `fillsNounSlotAsFreeRelative` already uses. Cuts 140 of 943, and most are the shape working: "the one reported", "the one held", "each carries", "none stands". The parser files a reduced relative\'s verb as the quantifier\'s head as readily as it files a determined noun there.\n\n`determinesTheNextNoun` — the token after it is tagged NOUN or PROPN. Perfect on lone-determiner\'s 29 and 45% wrong on lone-quantifier\'s 943: it cuts "one ESO day", "two or more orders", "the one mac", "both debug switches" rightly, and cuts "one Jenny chose", "one Alan wrote", "an interactive one answers", "every reader below this one uses" wrongly. The wrong cuts are a verb tagged NOUN and a possessive `\'s` tagged NOUN.\n\n`joinsAModifier` — a `conj` of a `nummod` or a `det`. Sound, and cuts 2.\n\nWidening `marksADegree` past its every-child test — cuts 3, all `nothing ... at all` where an `acl:relcl` was hung on `all`.\n\nThe two rules that did land the same day landed because they turn on a word rather than on a tag: `isReciprocal` reads `each other`, `headsAComparative` reads a `fixed` child spelled `than`, `marksAProportion` reads `much`, `countsItsParts` reads a `nummod` inside a partitive. None of them asks the parser what part of speech anything is.',
++} as const satisfies Finding
