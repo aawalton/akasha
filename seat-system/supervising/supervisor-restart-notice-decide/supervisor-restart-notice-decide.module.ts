@@ -23,7 +23,7 @@ export const supervisorRestartNoticeDecide = {
     },
     {
       invariantKind: "departure",
-      statement: "The recovery clause follows every notice unless it is empty.",
+      statement: "The recovery clause follows every notice unless that clause is empty.",
     },
   ],
 } as const satisfies Module
