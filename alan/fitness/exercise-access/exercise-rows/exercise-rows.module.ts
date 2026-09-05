@@ -18,7 +18,7 @@ export const exerciseRows = {
     },
     {
       invariantKind: "departure",
-      statement: "A field is named on a row as the page file names it.",
+      statement: "A field is named on a row as the page file names that field.",
     },
     {
       invariantKind: "departure",
