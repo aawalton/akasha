@@ -15,7 +15,7 @@ export const monarchNotesRevert = {
     {
       invariantKind: "departure",
       statement:
-        "A run over a snapshot that already stands leaves it alone and says how many rows postdate it.",
+        "A run leaves an already standing snapshot alone and says how many rows postdate that snapshot.",
     },
     {
       invariantKind: "departure",
