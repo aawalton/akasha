@@ -53,8 +53,12 @@ export const monarchEval = {
     },
     {
       invariantKind: "departure",
+      statement: "The held-out pool is read once.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "The held-out pool is read once, and a second reading is refused rather than trusted to anyone's memory.",
+        "A second reading of the held-out pool is refused rather than trusted to anyone's memory.",
     },
     {
       invariantKind: "departure",

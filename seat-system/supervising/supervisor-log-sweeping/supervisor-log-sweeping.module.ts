@@ -14,8 +14,11 @@ export const supervisorLogSweeping = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A directory is kept where a seat page that still exists names its agent, or where a file in it was written inside the window.",
+      statement: "A directory is kept where a seat page that still exists names its agent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A directory holding a file written inside the window is kept.",
     },
     {
       invariantKind: "departure",

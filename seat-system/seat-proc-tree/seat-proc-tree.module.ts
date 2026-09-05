@@ -24,8 +24,11 @@ export const seatProcTree = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The tree kept is the one holding the stated keeper, or the one holding the newest process where none is stated.",
+      statement: "The tree kept is the tree holding the stated keeper.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Where no keeper is stated, the tree kept is the tree holding the newest process.",
     },
     {
       invariantKind: "departure",

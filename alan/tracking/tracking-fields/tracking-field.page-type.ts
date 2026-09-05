@@ -18,8 +18,11 @@ export const trackingField = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "How a field's values come to exist is a capture the field names, and no property here declares that yet.",
+      statement: "How a field's values come to exist is a capture the field names.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No property here declares the capture a field names.",
     },
   ],
 } as const satisfies PageType

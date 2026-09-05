@@ -32,8 +32,11 @@ export const monarchTransaction = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An account is known by the last four digits its title ends in, and by its lowered title where it has none.",
+      statement: "An account is known by the last four digits its title ends in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An account whose title ends in no four digits is known by its lowered title.",
     },
     {
       invariantKind: "departure",

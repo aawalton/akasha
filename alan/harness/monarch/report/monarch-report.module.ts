@@ -13,8 +13,11 @@ export const monarchReport = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A transaction reached by several rules is decided by the first, and the rest are reported as shadowed.",
+      statement: "A transaction reached by several rules is decided by the first.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rules that did not decide are reported as shadowed.",
     },
     {
       invariantKind: "departure",

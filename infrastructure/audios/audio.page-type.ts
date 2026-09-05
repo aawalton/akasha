@@ -11,8 +11,11 @@ export const audio = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "An audio's bytes sit in the object store under the audio's own id, and on disk where the audio says they were written.",
+      statement: "An audio's bytes sit in the object store under the audio's own id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An audio's bytes sit on disk where the audio says those bytes were written.",
     },
     {
       invariantKind: "departure",

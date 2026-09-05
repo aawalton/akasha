@@ -31,7 +31,11 @@ export const accountUpkeepRunning = {
     {
       invariantKind: "departure",
       statement:
-        "A rate-limit window that has gone inactive is started again with a one-token message, and the usage read a second time.",
+        "A rate-limit window that has gone inactive is started again with a one-token message.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The usage is read a second time once a rate-limit window has been started again.",
     },
     {
       invariantKind: "departure",

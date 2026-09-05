@@ -13,8 +13,11 @@ export const monarchCategorize = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A category is named by a page that stands, and a Monarch id resolving other than exactly one page is refused.",
+      statement: "A category is named by a page that exists.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A Monarch id resolving other than exactly one page is refused.",
     },
     {
       invariantKind: "departure",
