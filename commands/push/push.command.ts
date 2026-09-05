@@ -37,7 +37,7 @@ export const push = {
     },
     {
       invariantKind: "absence",
-      statement: "A push takes no argument naming what is carried.",
+      statement: "A push takes no argument naming the branch carried.",
     },
   ],
 } as const satisfies Command
