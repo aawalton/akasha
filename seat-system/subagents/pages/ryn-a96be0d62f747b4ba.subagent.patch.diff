@@ -12,3 +12,16 @@ index 2a2d776204628cd676ce25b374f59f4a70b6f2c5..e1c0c8fca457b1bb44873f7a1781bea9
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/monarch/audible-migration/monarch-audible-migration.module.ts b/alan/harness/monarch/audible-migration/monarch-audible-migration.module.ts
+index 09ced8528387b373fd1d89ce511a6f3aff78b1c4..c284295ddad8ee85cc824080ca60278f8fb42731 100644
+--- a/alan/harness/monarch/audible-migration/monarch-audible-migration.module.ts
++++ b/alan/harness/monarch/audible-migration/monarch-audible-migration.module.ts
+@@ -20,7 +20,7 @@ export const monarchAudibleMigration = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A charge is found by the word Audible in its merchant, its statement line or its note, so a row the bank spelled differently is still reached.",
++        "A charge is found by the word Audible in its merchant, its statement line or its note.",
+     },
+     {
+       invariantKind: "departure",
