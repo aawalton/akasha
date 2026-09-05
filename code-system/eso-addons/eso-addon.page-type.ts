@@ -46,7 +46,8 @@ export const esoAddon = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An addon states what the game reads about that addon in a file beside the page.",
+      statement:
+        "An addon states the facts the game reads about that addon in a file beside the page.",
     },
     {
       invariantKind: "departure",
