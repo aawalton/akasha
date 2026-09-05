@@ -54,7 +54,7 @@ export const browserTestStorageState = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads what the state this command wrote carries.",
+      statement: "Nothing here reads the session the state this command wrote carries.",
     },
   ],
 } as const satisfies Command
