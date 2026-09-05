@@ -1,13 +1,18 @@
 diff --git a/persona-system/questions/question.page-type.ts b/persona-system/questions/question.page-type.ts
-index a70db8b203424e288cd99377c7e93a247fc4a449..bb1c86503bcb46f16d508db2dbcdce4c923356c4 100644
+index a70db8b203424e288cd99377c7e93a247fc4a449..cf047e03da8a1af1b885ba6510c1ee70d0fa8ced 100644
 --- a/persona-system/questions/question.page-type.ts
 +++ b/persona-system/questions/question.page-type.ts
-@@ -61,7 +61,7 @@ export const question = {
+@@ -61,11 +61,11 @@ export const question = {
      },
      {
        invariantKind: "departure",
 -      statement: "A question names the persona who put it.",
 +      statement: "A question names the persona who put that question.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A question offering answers still takes an answer none of them spells.",
++      statement: "A question offering answers still takes an answer none of those answers spells.",
      },
      {
        invariantKind: "departure",
