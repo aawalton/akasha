@@ -1,0 +1,16 @@
+diff --git a/temper/temper-saved-vars-migration/bundle-member-saved-vars/bundle-member-saved-vars.module.ts b/temper/temper-saved-vars-migration/bundle-member-saved-vars/bundle-member-saved-vars.module.ts
+index 8c38679077b2b5d1b68ecce5872b9f5c10f961fb..543ab37cc8d6105df35543cce47cfd10860a4f3f 100644
+--- a/temper/temper-saved-vars-migration/bundle-member-saved-vars/bundle-member-saved-vars.module.ts
++++ b/temper/temper-saved-vars-migration/bundle-member-saved-vars/bundle-member-saved-vars.module.ts
+@@ -23,10 +23,7 @@ export const bundleMemberSavedVars = {
+       invariantKind: "departure",
+       statement: "A marker present at all means the migration is done.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A member file about to be overwritten is copied aside first.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A copy aside is made once rather than on every run.",
