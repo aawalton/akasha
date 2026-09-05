@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/migration-system/migration-system.workspace-package.ts b/migration-system/migration-system.workspace-package.ts
-index c5d4697082d8bd4f935729a3ceb05f1b1e555219..bd11a3e16f31a29a378c1c00984c8d51f3b8507b 100644
+index c5d4697082d8bd4f935729a3ceb05f1b1e555219..4340ac2100397ca4fac570f80221d969ad967380 100644
 --- a/migration-system/migration-system.workspace-package.ts
 +++ b/migration-system/migration-system.workspace-package.ts
 @@ -66,7 +66,7 @@ export const migrationSystem = {
@@ -12,3 +12,12 @@ index c5d4697082d8bd4f935729a3ceb05f1b1e555219..bd11a3e16f31a29a378c1c00984c8d51
      },
      {
        invariantKind: "departure",
+@@ -145,7 +145,7 @@ export const migrationSystem = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here knows what any one old page means.",
++      statement: "Nothing here knows the meaning of any one old page.",
+     },
+     {
+       invariantKind: "absence",
