@@ -61,3 +61,18 @@ index 1cfaac8096922d2ea2cce31289a7c046213c2149..c74aa1a8fd5caeac78373672b128d2f9
      {
        invariantKind: "departure",
        statement: "An id no per-item rule carries refuses the call.",
+diff --git a/temper/temper-commands/temper-inventory-item-rule-update/temper-inventory-item-rule-update.command.ts b/temper/temper-commands/temper-inventory-item-rule-update/temper-inventory-item-rule-update.command.ts
+index 127037901a4d3b1cf221ece09aa4f18e1386e98d..2af2267d004cbbfeaf8725f0c1db10cb6f47463b 100644
+--- a/temper/temper-commands/temper-inventory-item-rule-update/temper-inventory-item-rule-update.command.ts
++++ b/temper/temper-commands/temper-inventory-item-rule-update/temper-inventory-item-rule-update.command.ts
+@@ -23,10 +23,6 @@ export const temperInventoryItemRuleUpdate = {
+     "a title, a note and a goal are held for the web alone and never reach the addon.",
+   ],
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A locked per-item rule is refused unless the call says `--force`.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A field the call names nothing for is left as the field was.",
