@@ -30,7 +30,8 @@ export const pagePropertyEntry = {
     },
     {
       invariantKind: "departure",
-      statement: "What a record property holds inline an entry shape holds in a file of its own.",
+      statement:
+        "The values a record property holds inline an entry shape holds in a file of its own.",
     },
     {
       invariantKind: "departure",
