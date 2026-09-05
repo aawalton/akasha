@@ -1,5 +1,5 @@
 diff --git a/agents/claude-accounts/modules/identity/claude-account-identity.module.code.ts b/agents/claude-accounts/modules/identity/claude-account-identity.module.code.ts
-index 1f40df2b39417cf77b3ed70bcd15777ac3b79dc0..bfb19d6ffe28f1b63671a5cc7f4924b300a882d2 100644
+index 1f40df2b39417cf77b3ed70bcd15777ac3b79dc0..207cad0d17052f74f8897f85fe703f7dad7f2e04 100644
 --- a/agents/claude-accounts/modules/identity/claude-account-identity.module.code.ts
 +++ b/agents/claude-accounts/modules/identity/claude-account-identity.module.code.ts
 @@ -86,7 +86,7 @@ export function sayFailedPin(args: {
@@ -11,8 +11,17 @@ index 1f40df2b39417cf77b3ed70bcd15777ac3b79dc0..bfb19d6ffe28f1b63671a5cc7f4924b3
        `was issued and the page is pinned where it was, so the same push run again lands all of it.${alreadyCleared}`
      )
    }
+@@ -212,7 +212,7 @@ export async function pinnedIn(
+   try {
+     const page = accountPathIn(reading, slug)
+     if (page === null) {
+-      return refused(`no page stands for \`${slug}\`, and a pin belongs to a page`)
++      return refused(`no page exists for \`${slug}\`, and a pin belongs to a page`)
+     }
+ 
+     if (given.previousUuid !== null) {
 diff --git a/agents/claude-accounts/modules/measuring/claude-account-measuring.module.test.ts b/agents/claude-accounts/modules/measuring/claude-account-measuring.module.test.ts
-index c94cf3e79d98e61b160bb43ec32b080760193c48..45ff7fa77d17d163c0bb2b88e04c363df1b43929 100644
+index c94cf3e79d98e61b160bb43ec32b080760193c48..619ed8ab6c9144fa55578c8b51f350be47874d91 100644
 --- a/agents/claude-accounts/modules/measuring/claude-account-measuring.module.test.ts
 +++ b/agents/claude-accounts/modules/measuring/claude-account-measuring.module.test.ts
 @@ -125,7 +125,7 @@ test("a seven-day window already past counts as the furthest away", () => {
@@ -24,8 +33,17 @@ index c94cf3e79d98e61b160bb43ec32b080760193c48..45ff7fa77d17d163c0bb2b88e04c363d
    const one = reading({ account: "one", sevenDayResetsAt: "2026-09-05T12:00:00.000Z" })
    const two = reading({ account: "two", sevenDayResetsAt: "2026-09-01T12:00:00.000Z" })
    const none = reading({ account: "none" })
+@@ -171,7 +171,7 @@ test("an instant nothing states is no clock, and one that is no instant is no cl
+   expect(instantOf("the day after")).toBeNull()
+ })
+ 
+-test("one line stands for each account, and the taken one is the marked one", () => {
++test("one line represents each account, and the taken one is the marked one", () => {
+   const soon = reading({
+     account: "soon",
+     fiveHourPercentUsed: 5,
 diff --git a/agents/claude-accounts/modules/measuring/claude-account-measuring.module.ts b/agents/claude-accounts/modules/measuring/claude-account-measuring.module.ts
-index 0a9ac036135cea3e8c7350c3369373cce90dbe03..2537da4cdf456f9fb49baf5b51555ed143b534fc 100644
+index 0a9ac036135cea3e8c7350c3369373cce90dbe03..6767dd717ba14be8a31ef20f75bab4bf3802afe2 100644
 --- a/agents/claude-accounts/modules/measuring/claude-account-measuring.module.ts
 +++ b/agents/claude-accounts/modules/measuring/claude-account-measuring.module.ts
 @@ -24,7 +24,7 @@ export const claudeAccountMeasuring = {
@@ -34,6 +52,15 @@ index 0a9ac036135cea3e8c7350c3369373cce90dbe03..2537da4cdf456f9fb49baf5b51555ed1
        invariantKind: "departure",
 -      statement: "What an account has spent is read from what stands beside its page.",
 +      statement: "What an account has spent is read from what sits beside its page.",
+     },
+     {
+       invariantKind: "departure",
+@@ -41,7 +41,7 @@ export const claudeAccountMeasuring = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Accounts stand in the order their seven-day windows reset.",
++      statement: "Accounts sit in the order their seven-day windows reset.",
      },
      {
        invariantKind: "departure",
@@ -51,7 +78,7 @@ index df19bf6377813902e22e5fc91368713d57b5bf8d..ba9dc7a14800f5ed94fcd2b677a1a35c
          "answering that as a done tick would read healthy while every token ages out"
      )
 diff --git a/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.test.ts b/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.test.ts
-index f27ad8e3b5139a7c6d73441076658fd57994b29d..afc3869c1c1816bba63371029f219924fe9a22d7 100644
+index f27ad8e3b5139a7c6d73441076658fd57994b29d..bf8e413bb1f18dd191e93f24aa9bed8951aa004c 100644
 --- a/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.test.ts
 +++ b/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.test.ts
 @@ -71,7 +71,7 @@ describe("shouldTriggerWindow", () => {
@@ -63,6 +90,15 @@ index f27ad8e3b5139a7c6d73441076658fd57994b29d..afc3869c1c1816bba63371029f219924
      const usage = usageOf(isoAt(NOW), isoAt(NOW + HOUR_MS * 24))
      expect(shouldTriggerWindow(usage, NOW)).toBe(true)
    })
+@@ -221,7 +221,7 @@ describe("retriedOn429", () => {
+     expect(lines).toEqual([])
+   })
+ 
+-  test("a backoff handed in stands in for the one this module names", async () => {
++  test("a backoff handed in takes the place of the one this module names", async () => {
+     const { waits, slept } = waitsRecorded()
+     const { warned } = linesRecorded()
+     let tries = 0
 diff --git a/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts b/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
 index 90840eed4d0f6676503e6de5c8d5228ab74c4d7a..eead9ddf42d81a55b86d1cee4642fb1512f3c6e3 100644
 --- a/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
@@ -77,7 +113,7 @@ index 90840eed4d0f6676503e6de5c8d5228ab74c4d7a..eead9ddf42d81a55b86d1cee4642fb15
      {
        invariantKind: "departure",
 diff --git a/agents/claude-accounts/modules/usage/claude-account-usage.module.code.ts b/agents/claude-accounts/modules/usage/claude-account-usage.module.code.ts
-index 5eb1ba947f09452886bd0b7aa8f8e01482f70d15..ddf9831d77f3b8c648b89c20ff3a0554252ff325 100644
+index 5eb1ba947f09452886bd0b7aa8f8e01482f70d15..1b6ba47ac33ae6b4797fb3e885d44b6048595bd1 100644
 --- a/agents/claude-accounts/modules/usage/claude-account-usage.module.code.ts
 +++ b/agents/claude-accounts/modules/usage/claude-account-usage.module.code.ts
 @@ -13,7 +13,7 @@ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roo
@@ -89,3 +125,12 @@ index 5eb1ba947f09452886bd0b7aa8f8e01482f70d15..ddf9831d77f3b8c648b89c20ff3a0554
  // store, and the store answers all eight accounts. What it cannot answer is what those two queries
  // reduce over. `effective-five-hour-percent-used` and `effective-seven-day-percent-used` were
  // derived properties declared in `pages/page-property-definition/claude-account-effective-*.md`,
+@@ -22,7 +22,7 @@ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roo
+ // null. Repointing the reader is the fix; teaching the old engine the page type would not be,
+ // because the derivations went with it and the account pages are TypeScript besides.
+ //
+-// THE TWO EXPRESSIONS ALREADY STAND IN AKASHA, SO NOTHING IS RE-DERIVED HERE. `fiveHourSpent` and
++// THE TWO EXPRESSIONS ARE ALREADY IN AKASHA, SO NOTHING IS RE-DERIVED HERE. `fiveHourSpent` and
+ // `sevenDaySpent` in `claude-account-measuring` carry exactly what the deleted definitions said:
+ // a withdrawn subscription has spent all of both windows, and a five-hour window on an account
+ // whose seven-day window is spent is spent too. `akasha measure claude-accounts` prints its
