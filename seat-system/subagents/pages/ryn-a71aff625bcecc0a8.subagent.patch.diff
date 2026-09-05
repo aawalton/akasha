@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/domains/invariant-kinds/pages/absence.invariant-kind.ts b/domains/invariant-kinds/pages/absence.invariant-kind.ts
+index b0cfe2bd65bf2b6c992542ae3659ebe97ac882aa..a92a4d7a61ba05d82b70f48d962b0ed2dffef85c 100644
+--- a/domains/invariant-kinds/pages/absence.invariant-kind.ts
++++ b/domains/invariant-kinds/pages/absence.invariant-kind.ts
+@@ -9,7 +9,7 @@ export const absence = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Knowing an absence stops a reader adding what is left out.",
++      statement: "Knowing an absence stops a reader adding the thing left out.",
+     },
+     {
+       invariantKind: "departure",
