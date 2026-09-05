@@ -1,0 +1,31 @@
+runsWarrants: false
+diff --git a/infrastructure/cluster-provisioning/cluster-ca/cluster-ca.certificate-authority.ts b/infrastructure/cluster-provisioning/cluster-ca/cluster-ca.certificate-authority.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5cf27a666d3004da6000135adc39dad287e16576
+--- /dev/null
++++ b/infrastructure/cluster-provisioning/cluster-ca/cluster-ca.certificate-authority.ts
+@@ -0,0 +1,9 @@
++import type { CertificateAuthority } from "../../certificate-authorities/certificate-authority.page-type.ts"
++
++export const clusterCa = {
++  id: "01a0685e-1c21-7b95-8c04-9d5a6e2f31b7",
++  pageTypeSlug: "certificate-authority",
++  slug: "cluster-ca",
++  definition: "the authority the cluster's own certificates are signed by",
++  authorityCertificate: "pem",
++} as const satisfies CertificateAuthority
+diff --git a/infrastructure/cluster-provisioning/generate-certs/cluster-ca.certificate-authority.ts b/infrastructure/cluster-provisioning/generate-certs/cluster-ca.certificate-authority.ts
+deleted file mode 100644
+index 5cf27a666d3004da6000135adc39dad287e16576..0000000000000000000000000000000000000000
+--- a/infrastructure/cluster-provisioning/generate-certs/cluster-ca.certificate-authority.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { CertificateAuthority } from "../../certificate-authorities/certificate-authority.page-type.ts"
+-
+-export const clusterCa = {
+-  id: "01a0685e-1c21-7b95-8c04-9d5a6e2f31b7",
+-  pageTypeSlug: "certificate-authority",
+-  slug: "cluster-ca",
+-  definition: "the authority the cluster's own certificates are signed by",
+-  authorityCertificate: "pem",
+-} as const satisfies CertificateAuthority
