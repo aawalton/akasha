@@ -14,7 +14,7 @@ export const codeEditorTerminal = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A terminal moves only where Alan's own layout moves it.",
+      statement: "A terminal moves only where Alan's own layout moves that terminal.",
     },
     {
       invariantKind: "departure",
