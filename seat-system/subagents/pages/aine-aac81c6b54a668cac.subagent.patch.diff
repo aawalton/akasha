@@ -1,0 +1,51 @@
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-base-url.url-property.ts b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-base-url.url-property.ts
+index a7310a9ce8520ac4fd34c9d73d62c4672b5899f5..8c36d28cb3e1bf812efb31bc1bb4f50da2e4360c 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-base-url.url-property.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-base-url.url-property.ts
+@@ -7,6 +7,6 @@ export const calendarSourceBaseUrl = {
+   pageTypeSlug: "url-property",
+   slug: "calendar-source-base-url",
+   propertySlug: "base-url",
+-  definition: "the address a source's own pages stand under",
++  definition: "the address a source's own pages sit under",
+   max: 200,
+ } as const satisfies UrlProperty
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/events.page-property-entry.ts b/alan/harness/calendar/calendar-event-sources/properties/events.page-property-entry.ts
+index a7d20ce17ab5c7b0d3d1c5ee4cf5daa7a20ef7fe..c54208026b0661776f685ed0a4923fbc48b73a7b 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/events.page-property-entry.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/events.page-property-entry.ts
+@@ -32,8 +32,7 @@ export const events = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "An event stands beside the source publishing it rather than in a page of its own.",
++      statement: "An event sits beside the source publishing it rather than in a page of its own.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/alan/harness/calendar/calendar-events/calendar-event.page-type.ts b/alan/harness/calendar/calendar-events/calendar-event.page-type.ts
+index 7291f7fe9c0570cd8f956c798004dd9914f23284..ef0bf19f67e88337133c84d8d5e2b65b87ef9e38 100644
+--- a/alan/harness/calendar/calendar-events/calendar-event.page-type.ts
++++ b/alan/harness/calendar/calendar-events/calendar-event.page-type.ts
+@@ -43,7 +43,7 @@ export const calendarEvent = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An event stands beside the source publishing it rather than in a row.",
++      statement: "An event sits beside the source publishing it rather than in a row.",
+     },
+   ],
+ } as const satisfies PageType
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-external-link.url-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-external-link.url-property.ts
+index c236920847729757117f9ead937e5218c5e92b70..d831b6e81106165a5093a93b1ca179f96c069e81 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-external-link.url-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-external-link.url-property.ts
+@@ -7,6 +7,6 @@ export const calendarEventExternalLink = {
+   pageTypeSlug: "url-property",
+   slug: "calendar-event-external-link",
+   propertySlug: "external-link",
+-  definition: "the address an event stands at on its source",
++  definition: "the address an event is at on its source",
+   max: 200,
+ } as const satisfies UrlProperty
