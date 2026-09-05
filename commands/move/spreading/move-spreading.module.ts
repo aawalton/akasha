@@ -31,7 +31,7 @@ export const moveSpreading = {
     },
     {
       invariantKind: "departure",
-      statement: "The move pulls that file in by the page it is beside.",
+      statement: "The move pulls that file in by the page that file is beside.",
     },
     {
       invariantKind: "departure",
