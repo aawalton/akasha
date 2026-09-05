@@ -29,7 +29,7 @@ export const characterImport = {
     },
     {
       invariantKind: "departure",
-      statement: "The build name is the race and the class rather than what the hash carried.",
+      statement: "The build name is the race and the class rather than the name the hash carried.",
     },
     {
       invariantKind: "departure",
