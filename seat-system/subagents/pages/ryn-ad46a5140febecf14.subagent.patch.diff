@@ -1,0 +1,13 @@
+diff --git a/seat-system/supervising/memory-reaping/memory-reaping.module.ts b/seat-system/supervising/memory-reaping/memory-reaping.module.ts
+index 6d7d9865f0e4c17c5660f2440822e3878389ceb8..d156e72e7c35fdeca11a0a4d7f2e900e3535959c 100644
+--- a/seat-system/supervising/memory-reaping/memory-reaping.module.ts
++++ b/seat-system/supervising/memory-reaping/memory-reaping.module.ts
+@@ -9,7 +9,7 @@ export const memoryReaping = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "It sits outside the fleet it polices.",
++      statement: "The reaper sits outside the fleet that reaper polices.",
+     },
+     {
+       invariantKind: "departure",
