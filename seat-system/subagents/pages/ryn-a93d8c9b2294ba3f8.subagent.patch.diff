@@ -186,3 +186,19 @@ index 0116ab1322bf80accfffc805c0d3b1d449498439..24f98405ae8aaaf9e5d8f7718ffe20c8
      {
        invariantKind: "departure",
        statement: "A filter that reads the same as the one held redraws nothing.",
+diff --git a/health-samples-access/latest-arrival/latest-arrival.module.ts b/health-samples-access/latest-arrival/latest-arrival.module.ts
+index 096f8799f3fd7bd52a8112d28510bde55cf3318f..fccbad8bca0f1a763a30c5059b28628f3f82484e 100644
+--- a/health-samples-access/latest-arrival/latest-arrival.module.ts
++++ b/health-samples-access/latest-arrival/latest-arrival.module.ts
+@@ -19,10 +19,7 @@ export const latestArrival = {
+       invariantKind: "departure",
+       statement: "A metric no reading arrived under is answered absent.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A reading is read off the rows kept beside the ESO day the reading began in.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here asks the pages system service.",
