@@ -17,7 +17,7 @@ export const rulePopulationSweep = {
     {
       invariantKind: "departure",
       statement:
-        "A rule's population is what that rule weighed, never what that rule found, the two meeting at zero.",
+        "A rule's population is the count weighed, never the count found, the two meeting at zero.",
     },
     {
       invariantKind: "departure",
