@@ -11,6 +11,22 @@ index 8696740b4466fd754afbb228423d22ca5af23bf0..9e72600139eaba8592d6471aaa5bfa60
  
  export const READOUT_PAGE =
    "readout-system/readouts/pages/upkeep-activity/upkeep-activity.readout.ts"
+diff --git a/alan/harness/safety/reading/safety-reading.module.code.ts b/alan/harness/safety/reading/safety-reading.module.code.ts
+index 0b3d8a5fca0ccf0fee742b48006be63810cace5a..6d3f0ec1358ea6b7b54cc5d47155168e7a619afd 100644
+--- a/alan/harness/safety/reading/safety-reading.module.code.ts
++++ b/alan/harness/safety/reading/safety-reading.module.code.ts
+@@ -1,9 +1,8 @@
+ import { keepReading } from "@akasha/readout-system/readout-reading"
+ import { levelIn } from "@akasha/readout-system/upkeep-safety"
+-import { openSession } from "../../../tracking/daily/day-place/day-place.module.code.ts"
++import { openSession } from "../../../tracking/daily/day-stretches/day-stretches.module.code.ts"
+ 
+-export const READOUT_PAGE =
+-  "readout-system/readouts/pages/upkeep-safety/upkeep-safety.readout.ts"
++export const READOUT_PAGE = "readout-system/readouts/pages/upkeep-safety/upkeep-safety.readout.ts"
+ 
+ export const NOTHING_TO_TAKE =
+   "no open block carries a safety level, so there is no reading to take. A tile showing no signal " +
 diff --git a/alan/tracking/daily/day-completions/day-completions.module.code.ts b/alan/tracking/daily/day-completions/day-completions.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..6db113e1bae23e42d67694ba1a4a62ff8d65fb67
