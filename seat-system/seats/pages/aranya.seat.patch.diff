@@ -14,3 +14,15 @@ index 0000000000000000000000000000000000000000..380c0757ac58717e7634db86f015e11c
 +    "the chart server, its namespace, the sources and dashboards it is given, and its way in",
 +  code: "ts",
 +} as const satisfies Manifest
+diff --git a/infrastructure/telemetry/telemetry.domain.ts b/infrastructure/telemetry/telemetry.domain.ts
+index 06e83dc94d6757e3f5a96d723c745f8f522b91fa..791336f2e50ee9b36d9d40e3cf8378489dce906a 100644
+--- a/infrastructure/telemetry/telemetry.domain.ts
++++ b/infrastructure/telemetry/telemetry.domain.ts
+@@ -9,6 +9,7 @@ export const telemetry = {
+     "domain/log",
+     "domain/metric",
+     "manifest/dcgm-exporter-daemonset",
++    "manifest/grafana",
+     "manifest/kube-state-metrics",
+     "manifest/node-exporter-daemonset",
+     "manifest/pgbouncer-exporter",
