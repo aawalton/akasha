@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/seat-system/seat-system.workspace-package.ts b/seat-system/seat-system.workspace-package.ts
-index 4b864f592f855bb3dcfba329fa2667f9b5c40986..21c442efd0bd5fd5082d5d03b9e7ff8364566666 100644
+index 4b864f592f855bb3dcfba329fa2667f9b5c40986..53c5e9cfb4e61cbfa10528c72399861b27662572 100644
 --- a/seat-system/seat-system.workspace-package.ts
 +++ b/seat-system/seat-system.workspace-package.ts
 @@ -367,7 +367,7 @@ export const seatSystem = {
@@ -12,7 +12,7 @@ index 4b864f592f855bb3dcfba329fa2667f9b5c40986..21c442efd0bd5fd5082d5d03b9e7ff83
      },
      {
        invariantKind: "upkeep",
-@@ -379,7 +379,7 @@ export const seatSystem = {
+@@ -379,12 +379,12 @@ export const seatSystem = {
      },
      {
        invariantKind: "constraint",
@@ -21,3 +21,9 @@ index 4b864f592f855bb3dcfba329fa2667f9b5c40986..21c442efd0bd5fd5082d5d03b9e7ff83
      },
      {
        invariantKind: "constraint",
+       statement:
+-        "A write that commits cannot carry what is observed of a seat and can be observed again.",
++        "A write that commits cannot carry a value that is observed of a seat and can be observed again.",
+     },
+     {
+       invariantKind: "departure",
