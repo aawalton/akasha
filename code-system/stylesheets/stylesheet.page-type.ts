@@ -23,7 +23,7 @@ export const stylesheet = {
     {
       invariantKind: "departure",
       statement:
-        "A stylesheet is its own page rather than a property of what the stylesheet dresses.",
+        "A stylesheet is its own page rather than a property of the components the stylesheet dresses.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const stylesheet = {
     },
     {
       invariantKind: "departure",
-      statement: "A stylesheet page states what its rules dress.",
+      statement: "A stylesheet page names the components its rules dress.",
     },
     {
       invariantKind: "departure",
