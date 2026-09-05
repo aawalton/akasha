@@ -1,0 +1,13 @@
+diff --git a/pages/indexes/indexing/indexing.module.code.ts b/pages/indexes/indexing/indexing.module.code.ts
+index 5c00df35d2421e0441f67f099c452c037fadbd57..8d7a7505007da959fd4ed9c3546f1468b377634b 100644
+--- a/pages/indexes/indexing/indexing.module.code.ts
++++ b/pages/indexes/indexing/indexing.module.code.ts
+@@ -98,7 +98,7 @@ export function filingOf(
+ function pageShaped(path: string, fileProperties: ReadonlyMap<string, string | null>): boolean {
+   const said = partedIn(path)
+   if (said === null || said.sections.length > 0) return false
+-  return !fileProperties.has(said.pageType)
++  return fileProperties.get(said.pageType) !== null
+ }
+ 
+ export type Indexing = {
