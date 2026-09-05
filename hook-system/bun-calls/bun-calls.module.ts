@@ -22,7 +22,7 @@ export const bunCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "What follows the act is returned unread.",
+      statement: "The words after the act are returned unread.",
     },
     {
       invariantKind: "departure",
