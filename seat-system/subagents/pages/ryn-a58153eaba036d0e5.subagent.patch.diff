@@ -201,3 +201,19 @@ index 4a81b7cd9aa008db1527b76f1d6fc3cf9e1465ba..596c676419f5bcd9b91d78478c75528b
      {
        invariantKind: "departure",
        statement: "The source a chapter came from is the one its story names.",
+diff --git a/temper/temper-capture-datamining-addon/datamining-item-miner/datamining-item-miner.module.ts b/temper/temper-capture-datamining-addon/datamining-item-miner/datamining-item-miner.module.ts
+index 33c990a1fb9f317bbb288bfef14f9d6d57a86517..4790ac02b65fe67bfb423665979e2ac5b8fd158a 100644
+--- a/temper/temper-capture-datamining-addon/datamining-item-miner/datamining-item-miner.module.ts
++++ b/temper/temper-capture-datamining-addon/datamining-item-miner/datamining-item-miner.module.ts
+@@ -19,10 +19,7 @@ export const dataminingItemMiner = {
+       invariantKind: "departure",
+       statement: "An item id the game names nothing for is counted as a miss.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "Mining that has run past the stated misses is complete.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "Completed item mining starts quest mining.",
