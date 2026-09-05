@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/editor-extension/page-tree-reading/page-tree-reading.module.ts b/editor-extension/page-tree-reading/page-tree-reading.module.ts
-index 06d18308d3bc0ed4e008646682b7854ac5341af0..aa3c04353c9149187da733ae90554bd800b8903a 100644
+index 06d18308d3bc0ed4e008646682b7854ac5341af0..598ec5bde01e18cc74a6f62c5230a58371f032c0 100644
 --- a/editor-extension/page-tree-reading/page-tree-reading.module.ts
 +++ b/editor-extension/page-tree-reading/page-tree-reading.module.ts
-@@ -18,7 +18,7 @@ export const pageTreeReading = {
+@@ -18,11 +18,11 @@ export const pageTreeReading = {
      },
      {
        invariantKind: "constraint",
@@ -12,3 +12,8 @@ index 06d18308d3bc0ed4e008646682b7854ac5341af0..aa3c04353c9149187da733ae90554bd8
      },
      {
        invariantKind: "constraint",
+-      statement: "An answer failing the shape asked for is refused with what failed said.",
++      statement: "An answer failing the shape asked for is refused with the failure said.",
+     },
+     {
+       invariantKind: "departure",
