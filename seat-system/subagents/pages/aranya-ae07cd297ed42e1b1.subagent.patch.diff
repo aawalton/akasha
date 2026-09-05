@@ -314,17 +314,22 @@ index 0000000000000000000000000000000000000000..72e32aa14b3270d27282525ddae60aac
 +  ]
 +}
 diff --git a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
-index 0446d4db825c959a6de34cd370e05eea6ac33e6a..667f7fe546423554dc79f2b056931b588d11e56b 100644
+index deff7c1b5c30589e88d0d2b10382f5721886d3e3..55d894ee45a4126b58223e7b4ddb8b309bd77f5e 100644
 --- a/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
 +++ b/seat-system/subagents/pages/aranya-ae07cd297ed42e1b1.subagent.patch.diff
-@@ -7,6 +7,6 @@ index 9933382daf77c910171ce7ae18b5ed4a328b79b0..e3bbb504f63d9251c82515adf10e8d34
+@@ -649,8 +649,12 @@ index 9933382daf77c910171ce7ae18b5ed4a328b79b0..00ba9c2f0fd810379231ab64eb47fda0
     replicas: 1,
     containerPort: 3000,
  -  manifestCode:
---    "service-system/cluster-services/pages/grafana/grafana.cluster-service.code.attachment.ts",
++<<<<<<< what this change would leave
 +-    "infrastructure/telemetry/grafana/grafana.manifest.code.ts",
++=======
+ -    "service-system/cluster-services/pages/grafana/grafana.cluster-service.code.attachment.ts",
+ +<<<<<<< what this change would leave
++>>>>>>> what HEAD holds
  +  manifestSlug: "grafana",
-  } as const satisfies ClusterService
+ +=======
+ +  manifestCode: "infrastructure/telemetry/grafana/grafana.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/grafana/grafana.cluster-service.code.attachment.ts b/service-system/cluster-services/pages/grafana/grafana.cluster-service.code.attachment.ts
 deleted file mode 100644
 index 72e32aa14b3270d27282525ddae60aacf88d71ec..0000000000000000000000000000000000000000
@@ -641,18 +646,14 @@ index 72e32aa14b3270d27282525ddae60aacf88d71ec..00000000000000000000000000000000
 -  ]
 -}
 diff --git a/service-system/cluster-services/pages/grafana/grafana.cluster-service.ts b/service-system/cluster-services/pages/grafana/grafana.cluster-service.ts
-index 9933382daf77c910171ce7ae18b5ed4a328b79b0..00ba9c2f0fd810379231ab64eb47fda0a5ea6a48 100644
+index 9933382daf77c910171ce7ae18b5ed4a328b79b0..e3bbb504f63d9251c82515adf10e8d34cbd142c1 100644
 --- a/service-system/cluster-services/pages/grafana/grafana.cluster-service.ts
 +++ b/service-system/cluster-services/pages/grafana/grafana.cluster-service.ts
-@@ -11,6 +11,9 @@ export const grafana = {
+@@ -11,6 +11,5 @@ export const grafana = {
    image: "grafana/grafana:11.2.2",
    replicas: 1,
    containerPort: 3000,
 -  manifestCode:
 -    "service-system/cluster-services/pages/grafana/grafana.cluster-service.code.attachment.ts",
-+<<<<<<< what this change would leave
 +  manifestSlug: "grafana",
-+=======
-+  manifestCode: "infrastructure/telemetry/grafana/grafana.manifest.code.ts",
-+>>>>>>> what HEAD holds
  } as const satisfies ClusterService
