@@ -12,6 +12,7 @@ export const temperProgress = {
     "page-type/temper-completed-day",
     "page-type/temper-completion-category",
     "page-type/temper-completion-override",
+    "page-type/temper-condition-field",
     "page-type/temper-metric-tree",
     "page-type/temper-progress-thing",
     "page-type/temper-rotation-breakdown-row",
