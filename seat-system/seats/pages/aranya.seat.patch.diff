@@ -599,3 +599,11 @@ index 36964fd3b3aee735f0e8b9bfc343a8713dd2341a..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-capture-datamining-addon
 \ No newline at end of file
+diff --git a/temper/temper-capture-datamining-reader/temper-capture-datamining-reader b/temper/temper-capture-datamining-reader/temper-capture-datamining-reader
+deleted file mode 120000
+index 0144fd0dc2d3fae058cd838b7ed6e0f5d3cca9d4..0000000000000000000000000000000000000000
+--- a/temper/temper-capture-datamining-reader/temper-capture-datamining-reader
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-capture-datamining-reader
+\ No newline at end of file
