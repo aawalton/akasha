@@ -5,9 +5,7 @@ export const surplusFallNotifier = {
   pageTypeSlug: "workstation-service",
   slug: "surplus-fall-notifier",
   definition: "the service saying when the day has spent Alan's night down a rung",
-  runs: [
-    "bun alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.code.ts",
-  ],
+  runs: ["bun alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.code.ts"],
   enabled: true,
   systemd: {
     restartDelaySeconds: 30,
@@ -24,7 +22,7 @@ export const surplusFallNotifier = {
     {
       invariantKind: "departure",
       statement:
-        "What this writes is a notification, and reaching a device is the push notifier's.",
+        "What this service writes is a notification, and reaching a device is the push notifier's.",
     },
     {
       invariantKind: "departure",

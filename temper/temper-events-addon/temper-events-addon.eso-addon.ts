@@ -39,7 +39,7 @@ export const temperEventsAddon = {
     },
     {
       invariantKind: "departure",
-      statement: "The Imperial City boss round is the first thing this add-on tracks.",
+      statement: "The Imperial City boss round is the first thing the add-on tracks.",
     },
     {
       invariantKind: "departure",

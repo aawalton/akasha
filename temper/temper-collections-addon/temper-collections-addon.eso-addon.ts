@@ -24,7 +24,7 @@ export const temperCollectionsAddon = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Each tracker this add-on ships is a workspace package of its own.",
+      statement: "Each tracker the add-on ships is a workspace package of its own.",
     },
     {
       invariantKind: "departure",

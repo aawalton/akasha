@@ -11,7 +11,7 @@ export const pendingSync = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The watcher clears this as soon as it has written the task out.",
+      statement: "The watcher clears this property as soon as it has written the task out.",
     },
   ],
 } as const satisfies BooleanProperty

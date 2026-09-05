@@ -13,7 +13,7 @@ export const readStdinOrFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A file this cannot read raises an input error.",
+      statement: "A file this module cannot read raises an input error.",
     },
   ],
 } as const satisfies Module
