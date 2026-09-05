@@ -1,5 +1,5 @@
 diff --git a/commands/refactor/refactor.command.ts b/commands/refactor/refactor.command.ts
-index 43e695aaaf00fd357de4034f53617088630bba7c..ffc9fd6e12661cd8efa19241effe332134df4ba1 100644
+index 43e695aaaf00fd357de4034f53617088630bba7c..6f7e878675120c7d49a04ab7bd5244cc28e26dd2 100644
 --- a/commands/refactor/refactor.command.ts
 +++ b/commands/refactor/refactor.command.ts
 @@ -80,7 +80,7 @@ export const refactor = {
@@ -18,6 +18,16 @@ index 43e695aaaf00fd357de4034f53617088630bba7c..ffc9fd6e12661cd8efa19241effe3321
 -      statement: "A key rename carries every file beside a page named for the key it renames.",
 +      statement:
 +        "A key rename carries every file beside a page named for the key that rename renames.",
+     },
+     {
+       invariantKind: "departure",
+@@ -291,7 +292,8 @@ export const refactor = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file a retype carries arrives under the tail of the page type it becomes.",
++      statement:
++        "A file a retype carries arrives under the tail of the page type the retyped page becomes.",
      },
      {
        invariantKind: "departure",
