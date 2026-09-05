@@ -32,3 +32,17 @@ index b679c719cf4f1802802583ac13da46f3cc9c444f..0ce338125184ffc26261357e2d939cf7
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/monarch/eval/monarch-eval.domain.ts b/alan/harness/monarch/eval/monarch-eval.domain.ts
+index b87c60461f66b562777a8e0a15f1ce99433f6963..25ad4513fe6e3671b035bf01a5478d4362344aaf 100644
+--- a/alan/harness/monarch/eval/monarch-eval.domain.ts
++++ b/alan/harness/monarch/eval/monarch-eval.domain.ts
+@@ -116,8 +116,7 @@ export const monarchEval = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A run spends money and keeps its whole result, and scoring reads that result, so a report can be redrawn any number of ways without paying again.",
++      statement: "A run spends money and keeps its whole result, and scoring reads that result.",
+     },
+     {
+       invariantKind: "gap",
