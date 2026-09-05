@@ -17,7 +17,7 @@ export const checkAddonDependencyCycle = {
     },
     {
       invariantKind: "constraint",
-      statement: "An empty roster ends the run rather than passing it.",
+      statement: "An empty roster ends the run rather than passing that run.",
     },
   ],
 } as const satisfies Module
