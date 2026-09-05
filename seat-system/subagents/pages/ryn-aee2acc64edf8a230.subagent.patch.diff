@@ -1,0 +1,14 @@
+diff --git a/editor-extension/editor-extension.workspace-package.ts b/editor-extension/editor-extension.workspace-package.ts
+index 24ea092733b3bb65bf07c28b302fbe19009ba71e..e2855edbd9704cccabe052af68b8052a12f8e9ec 100644
+--- a/editor-extension/editor-extension.workspace-package.ts
++++ b/editor-extension/editor-extension.workspace-package.ts
+@@ -113,5 +113,9 @@ export const editorExtension = {
+       invariantKind: "departure",
+       statement: "A panel row that represents a page names that page.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A row holding a match is drawn open while a filter is there.",
++    },
+   ],
+ } as const satisfies WorkspacePackage
