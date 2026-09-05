@@ -16,3 +16,21 @@ index 4a304d55534d63cafa573045afe93b34bde82099..444c35755c172d187b6a7b4a3499187f
      "number-property/container-port",
      "number-property/replicas",
      "relation-property/manifest-slug",
+diff --git a/service-system/service-system.workspace-package.ts b/service-system/service-system.workspace-package.ts
+index ffcbf4924195bc83ac2540c24e9fd7b02a1bf3e0..29b9c4cf91d4754d12a6ddfb3ece635b4b3296e6 100644
+--- a/service-system/service-system.workspace-package.ts
++++ b/service-system/service-system.workspace-package.ts
+@@ -21,13 +21,6 @@ export const serviceSystem = {
+     "module/service-wrapping",
+     "module/service-reading",
+     "module/service-installing",
+-    "module/web-app-reading",
+-    "module/workload-census",
+-    "module/workload-deploying",
+-    "module/web-app-building",
+-    "module/cluster-api-reaching",
+-    "module/loki-log-fetching",
+-    "module/log-bound-saying",
+     "module/dev-server-stating",
+     "module/dev-server-recording",
+     "module/dev-server-env-writing",
