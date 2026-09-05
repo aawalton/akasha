@@ -33,7 +33,7 @@ import { join } from "node:path"
 import { answerStoplightsAdmittedBy } from "@akasha/readout-system/readout-group-serving"
 import { dropRelayed, RELAY_PATH, relayReading } from "@akasha/readout-system/readout-relay"
 import { Glob } from "bun"
-import { action } from "./api.readout-relay.ts"
+import { action } from "../api.readout-relay.ts"
 
 // This workspace preloads happy-dom, which replaces `globalThis.Response` with one `Bun.serve`
 // refuses to answer with. The preload keeps the native `fetch`, so the native `Response` comes
@@ -189,7 +189,7 @@ async function ringFor(inbox: string): Promise<Stoplight | undefined> {
   return (await drawn()).find((one) => one.inbox === inbox)
 }
 
-const AKASHA = join(import.meta.dir, "..", "..", "..", "..", "akasha")
+const AKASHA = join(import.meta.dir, "..", "..", "..", "..", "..", "akasha")
 
 // Every readout page under `akasha/` that names the inboxes group, read off the pages rather than
 // off the fixture above. A readout page left behind by a removal shows up here by its own slug.

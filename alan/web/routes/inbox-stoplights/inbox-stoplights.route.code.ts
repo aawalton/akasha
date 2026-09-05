@@ -1,6 +1,6 @@
 import { answerStoplightsAdmittedBy } from "@akasha/readout-system/readout-group-serving"
-import { guardReadout } from "../.server/readout-guarding/readout-guarding.module.code.ts"
-import type { Route } from "./+types/api.inbox-stoplights"
+import { guardReadout } from "../../.server/readout-guarding/readout-guarding.module.code.ts"
+import type { Route } from "./+types/inbox-stoplights.route.code"
 
 // Alan's inbox tile. Which readouts the group holds, the label each carries, the scale each is
 // read against and the colour a reading lands on are read off those pages rather than named here,
