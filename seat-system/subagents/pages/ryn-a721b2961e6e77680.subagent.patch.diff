@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/seat-usage/seat-usage.module.ts b/seat-system/seat-usage/seat-usage.module.ts
+index 784787f065b535293baca1a5f28491e702224d0d..647d336bbb4ca986e0ab5a80d34865265ab20fd3 100644
+--- a/seat-system/seat-usage/seat-usage.module.ts
++++ b/seat-system/seat-usage/seat-usage.module.ts
+@@ -10,7 +10,8 @@ export const seatUsage = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A reading is taken from what the statusline payload states and nothing else.",
++      statement:
++        "A reading is taken from the values the statusline payload states and nothing else.",
+     },
+     {
+       invariantKind: "departure",
