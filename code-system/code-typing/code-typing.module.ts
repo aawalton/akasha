@@ -15,6 +15,19 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
+      statement: "Every file compiles against the full ESNext library, so the browser is in scope.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A global under a name the browser also declares collides rather than replaces it.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Code built for a runtime with no browser is judged without the browser.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The program reads every body through one reader handed to the program.",
     },
     {
