@@ -31,7 +31,7 @@ export const noReExport = {
     },
     {
       invariantKind: "departure",
-      statement: "A barrel is what quietly undoes one way into a folder.",
+      statement: "A barrel quietly undoes one way into a folder.",
     },
     {
       invariantKind: "absence",

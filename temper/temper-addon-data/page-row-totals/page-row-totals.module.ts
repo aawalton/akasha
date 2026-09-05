@@ -24,7 +24,7 @@ export const pageRowTotals = {
     },
     {
       invariantKind: "departure",
-      statement: "What is counted is how many rows came back rather than what the rows carry.",
+      statement: "Rows that came back are counted rather than the values those rows carry.",
     },
   ],
 } as const satisfies Module

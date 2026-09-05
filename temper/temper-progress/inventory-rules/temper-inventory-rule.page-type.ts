@@ -45,7 +45,7 @@ export const temperInventoryRule = {
     },
     {
       invariantKind: "departure",
-      statement: "Where a rule falls among the rules is what settles which rule acts first.",
+      statement: "Where a rule falls among the rules settles which rule acts first.",
     },
     {
       invariantKind: "departure",

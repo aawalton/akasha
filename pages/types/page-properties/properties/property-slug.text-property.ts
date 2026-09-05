@@ -14,7 +14,7 @@ export const propertySlug = {
     {
       invariantKind: "departure",
       statement:
-        "A key is unique among the properties one page type carries including what that page type inherits.",
+        "A key is unique among the properties one page type carries including the properties inherited.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +34,7 @@ export const propertySlug = {
     },
     {
       invariantKind: "departure",
-      statement: "A key drops what its declarer's name already says.",
+      statement: "A key drops the words its declarer's name already says.",
     },
     {
       invariantKind: "departure",

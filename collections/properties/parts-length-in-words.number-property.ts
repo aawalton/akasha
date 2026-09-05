@@ -17,7 +17,7 @@ export const partsLengthInWords = {
     },
     {
       invariantKind: "departure",
-      statement: "What is added up is each part's own total length in words.",
+      statement: "Each part's own total length in words is added up.",
     },
     {
       invariantKind: "gap",
