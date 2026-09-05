@@ -17,7 +17,7 @@ export const seatAkashaHistory = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat's moment is the time of the commit that wrote it.",
+      statement: "A seat's moment is the time of the commit that wrote that seat.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +29,7 @@ export const seatAkashaHistory = {
     },
     {
       invariantKind: "departure",
-      statement: "The history is read once for a root and held until it is dropped.",
+      statement: "The history is read once for a root and held until that history is dropped.",
     },
   ],
 } as const satisfies Module
