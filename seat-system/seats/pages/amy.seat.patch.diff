@@ -1,6 +1,6 @@
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..5b7c8d6d2c2acba2cd9807b3b55d2932d1d3ff91
+index 0000000000000000000000000000000000000000..2bb55c3c6d8f2dfd64c78de4f4a5005dc48824af
 --- /dev/null
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
 @@ -0,0 +1,71 @@
@@ -15,7 +15,7 @@ index 0000000000000000000000000000000000000000..5b7c8d6d2c2acba2cd9807b3b55d2932
 +}
 +
 +export const codeEditorDataInterface = {
-+  id: "01a07234-da67-7f4f-bc52-7774e6308784",
++  id: "01a07235-8d02-729e-880d-47af61f83714",
 +  pageTypeSlug: "page-type",
 +  slug: "code-editor-data-interface",
 +  definition: "what one part of the editor draws, held where that part reads it",
@@ -77,13 +77,14 @@ index 0000000000000000000000000000000000000000..5b7c8d6d2c2acba2cd9807b3b55d2932
 +} as const satisfies PageType
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..85b43463671605dd990730795d3dfa7769629563
+index 0000000000000000000000000000000000000000..07ddd2e558442860b61faf6db46eb39f9aa73b5a
 --- /dev/null
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.ts
-@@ -0,0 +1,8 @@
+@@ -0,0 +1,9 @@
 +import type { CodeEditorDataInterface } from "../code-editor-data-interface.page-type.ts"
 +
 +export const agentColors = {
++  id: "01a07235-8d05-778a-90d4-01a9752d4c0b",
 +  pageTypeSlug: "code-editor-data-interface",
 +  slug: "agent-colors",
 +  definition: "the color each agent is drawn in",
@@ -91,13 +92,14 @@ index 0000000000000000000000000000000000000000..85b43463671605dd990730795d3dfa77
 +} as const satisfies CodeEditorDataInterface
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-tree.code-editor-data-interface.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-tree.code-editor-data-interface.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..22345c607b925043717e72959cde900ce5181076
+index 0000000000000000000000000000000000000000..48f7aad24ef6958501c081ab04baa2e859b427f1
 --- /dev/null
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-tree.code-editor-data-interface.ts
-@@ -0,0 +1,8 @@
+@@ -0,0 +1,9 @@
 +import type { CodeEditorDataInterface } from "../code-editor-data-interface.page-type.ts"
 +
 +export const agentTree = {
++  id: "01a07235-8d06-77ec-aa88-9d85e01587d8",
 +  pageTypeSlug: "code-editor-data-interface",
 +  slug: "agent-tree",
 +  definition: "the rows the agents panel draws",
@@ -105,13 +107,14 @@ index 0000000000000000000000000000000000000000..22345c607b925043717e72959cde900c
 +} as const satisfies CodeEditorDataInterface
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/domain-tree.code-editor-data-interface.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/domain-tree.code-editor-data-interface.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..ace7c0a53ad77052b763a8dc8e3529fb25ffb771
+index 0000000000000000000000000000000000000000..5370f3f8a1e21c760b605504525bb902b8e2b421
 --- /dev/null
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/domain-tree.code-editor-data-interface.ts
-@@ -0,0 +1,8 @@
+@@ -0,0 +1,9 @@
 +import type { CodeEditorDataInterface } from "../code-editor-data-interface.page-type.ts"
 +
 +export const domainTree = {
++  id: "01a07235-8d07-7b01-a714-1c3c31d5c29b",
 +  pageTypeSlug: "code-editor-data-interface",
 +  slug: "domain-tree",
 +  definition: "the rows the domains panel draws",
@@ -119,13 +122,14 @@ index 0000000000000000000000000000000000000000..ace7c0a53ad77052b763a8dc8e3529fb
 +} as const satisfies CodeEditorDataInterface
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/page-tree.code-editor-data-interface.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/page-tree.code-editor-data-interface.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..ba606857c8699f4da82f665032cb021115429b65
+index 0000000000000000000000000000000000000000..0b4aee77b681a42df43013d035ef2e59b360dbf5
 --- /dev/null
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/page-tree.code-editor-data-interface.ts
-@@ -0,0 +1,8 @@
+@@ -0,0 +1,9 @@
 +import type { CodeEditorDataInterface } from "../code-editor-data-interface.page-type.ts"
 +
 +export const pageTree = {
++  id: "01a07235-8d08-79f6-a007-a888a88ea6c6",
 +  pageTypeSlug: "code-editor-data-interface",
 +  slug: "page-tree",
 +  definition: "the rows the pages panel draws",
@@ -133,13 +137,14 @@ index 0000000000000000000000000000000000000000..ba606857c8699f4da82f665032cb0211
 +} as const satisfies CodeEditorDataInterface
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/status-bar.code-editor-data-interface.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/status-bar.code-editor-data-interface.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..2c08612ee64a0c6c052d72d66e1ed2f6456dbd2e
+index 0000000000000000000000000000000000000000..3532675cf38d8433e89308749126e70d55c60af4
 --- /dev/null
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/status-bar.code-editor-data-interface.ts
-@@ -0,0 +1,8 @@
+@@ -0,0 +1,9 @@
 +import type { CodeEditorDataInterface } from "../code-editor-data-interface.page-type.ts"
 +
 +export const statusBar = {
++  id: "01a07235-8d0a-7f23-8c72-807f542d4cef",
 +  pageTypeSlug: "code-editor-data-interface",
 +  slug: "status-bar",
 +  definition: "the slots the status bar draws",
@@ -147,13 +152,14 @@ index 0000000000000000000000000000000000000000..2c08612ee64a0c6c052d72d66e1ed2f6
 +} as const satisfies CodeEditorDataInterface
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/terminal-tabs.code-editor-data-interface.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/terminal-tabs.code-editor-data-interface.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..a79cccf3bca687aaa06bd1b43c2e40414f10987a
+index 0000000000000000000000000000000000000000..9fd731fe118c37253289ae1deedc6f959e7f91db
 --- /dev/null
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/terminal-tabs.code-editor-data-interface.ts
-@@ -0,0 +1,8 @@
+@@ -0,0 +1,9 @@
 +import type { CodeEditorDataInterface } from "../code-editor-data-interface.page-type.ts"
 +
 +export const terminalTabs = {
++  id: "01a07235-8d0b-7801-8413-863a7895f0da",
 +  pageTypeSlug: "code-editor-data-interface",
 +  slug: "terminal-tabs",
 +  definition: "the name and color each terminal tab draws",
@@ -161,13 +167,14 @@ index 0000000000000000000000000000000000000000..a79cccf3bca687aaa06bd1b43c2e4041
 +} as const satisfies CodeEditorDataInterface
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/work-tree.code-editor-data-interface.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/work-tree.code-editor-data-interface.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..ff3530476d0c4f4856f82979916fc0003a8a296d
+index 0000000000000000000000000000000000000000..ddac8ec20aa8f0c6ef3976d071ec12b392134bcf
 --- /dev/null
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/work-tree.code-editor-data-interface.ts
-@@ -0,0 +1,8 @@
+@@ -0,0 +1,9 @@
 +import type { CodeEditorDataInterface } from "../code-editor-data-interface.page-type.ts"
 +
 +export const workTree = {
++  id: "01a07235-8d09-7b14-8466-1f484c7d3657",
 +  pageTypeSlug: "code-editor-data-interface",
 +  slug: "work-tree",
 +  definition: "the rows the work panel draws",
@@ -175,7 +182,7 @@ index 0000000000000000000000000000000000000000..ff3530476d0c4f4856f82979916fc000
 +} as const satisfies CodeEditorDataInterface
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/properties/cooldown-milliseconds.number-property.ts b/alan/harness/code-editor/code-editor-data-interfaces/properties/cooldown-milliseconds.number-property.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..a84662c5607ea68a998937269cf6514fc57d0a51
+index 0000000000000000000000000000000000000000..25d708b3e37df0326bf8b7b3eb3bdc955fbde612
 --- /dev/null
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/properties/cooldown-milliseconds.number-property.ts
 @@ -0,0 +1,12 @@
@@ -184,7 +191,7 @@ index 0000000000000000000000000000000000000000..a84662c5607ea68a998937269cf6514f
 +export type CooldownMilliseconds = number
 +
 +export const cooldownMilliseconds = {
-+  id: "01a07234-da6a-78fb-abf7-cad59b03799f",
++  id: "01a07235-8d03-7f26-ac3e-ac03771b126c",
 +  pageTypeSlug: "number-property",
 +  slug: "cooldown-milliseconds",
 +  propertySlug: "cooldown-milliseconds",
@@ -193,7 +200,7 @@ index 0000000000000000000000000000000000000000..a84662c5607ea68a998937269cf6514f
 +} as const satisfies NumberProperty
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts b/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..d1d6c52429efc300c81ab924d4f09e2227b8f540
+index 0000000000000000000000000000000000000000..9b5e32e5b8e6771ca1cbb057541d094b46d2d024
 --- /dev/null
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts
 @@ -0,0 +1,32 @@
@@ -202,7 +209,7 @@ index 0000000000000000000000000000000000000000..d1d6c52429efc300c81ab924d4f09e22
 +export type State = "json"
 +
 +export const state = {
-+  id: "01a07234-da6a-799a-a39a-f91b5702c30a",
++  id: "01a07235-8d04-7c15-8c68-fc8181d908e4",
 +  pageTypeSlug: "file-property",
 +  slug: "state",
 +  propertySlug: "state",
