@@ -20,7 +20,7 @@ export const rynTrainedParser = {
     {
       statement: "The shapes akasha refuses are rebuilt on the dependency tree.",
       workingMemory:
-        "Four shapes carried over, each with a predicate and a test: lone-pronoun, lone-determiner, lone-quantifier, partitive-quantifier. Forty-eight admitted shapes went. lone-pronoun missed 46% of free relatives until a101cff357, on two counts: the parser tags `what` a determiner about half the time, and a free relative's head-word lands on ccomp, acl:relcl or a det label. Recall came from an ensemble of narrow rules, 514 matches to 613, no false positive found. The other three shapes have not been measured this way and should be assumed to have holes of their own.",
+        "Four shapes carried over, each with a predicate and a test: lone-pronoun, lone-determiner, lone-quantifier, partitive-quantifier. Forty-eight admitted shapes went. A census over 24,642 invariant statements finds lone-pronoun matching 186, and no free relative among them: that family is finished. All 186 are pronouns whose noun sits in the same sentence, and whether the shape goes on refusing those is Alan's. The other three shapes have never been measured over the tree.",
     },
     {
       statement: "Whether akasha writes in the passive is decided.",
@@ -31,7 +31,11 @@ export const rynTrainedParser = {
     { statement: "A sentence akasha refuses names the shape it is refused for." },
     { statement: "A change writing a sentence akasha refuses does not land." },
     { statement: "The phrase grammar and the word lexicon are gone." },
-    { statement: "Every invariant under akasha is written in plain language." },
+    {
+      statement: "Every invariant under akasha is written in plain language.",
+      workingMemory:
+        "Two families are left. 186 statements match lone-pronoun, every one on a pronoun whose noun sits in the same sentence, and that family waits on Alan. 138 statements run past the 100-character maximum their own property declares, 87 of them by twenty characters or fewer and one at 266; those need splitting rather than rewording, so they land as authored.",
+    },
   ],
   constraints: [
     "The parser is owned as a package in this repository rather than taken as a live upstream dependency.",
