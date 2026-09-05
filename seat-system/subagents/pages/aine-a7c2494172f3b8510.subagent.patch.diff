@@ -1,0 +1,106 @@
+diff --git a/temper/temper-character/character-builds/properties/build-visibility.select-property.ts b/temper/temper-character/character-builds/properties/build-visibility.select-property.ts
+index e4d789e77fb4566c1624bcea1f5a21778abda6c3..ac9d617bca17a69492b411443c56a42c231cb71e 100644
+--- a/temper/temper-character/character-builds/properties/build-visibility.select-property.ts
++++ b/temper/temper-character/character-builds/properties/build-visibility.select-property.ts
+@@ -18,7 +18,7 @@ export const buildVisibility = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A private build is neither, and stands only for its author.",
++      statement: "A private build is neither, and is there only for its author.",
+     },
+   ],
+ } as const satisfies SelectProperty
+diff --git a/temper/temper-characters-addon/characters-hireling-mail-subscriber/characters-hireling-mail-subscriber.module.ts b/temper/temper-characters-addon/characters-hireling-mail-subscriber/characters-hireling-mail-subscriber.module.ts
+index c2016192903431ff04be650817dd0cd37e5f3988..f258f511bed450d3d13f008052a8a6767d95335b 100644
+--- a/temper/temper-characters-addon/characters-hireling-mail-subscriber/characters-hireling-mail-subscriber.module.ts
++++ b/temper/temper-characters-addon/characters-hireling-mail-subscriber/characters-hireling-mail-subscriber.module.ts
+@@ -4,7 +4,7 @@ export const charactersHirelingMailSubscriber = {
+   id: "01a062ed-3979-7008-b38a-d2d8bc3af92b",
+   pageTypeSlug: "module",
+   slug: "characters-hireling-mail-subscriber",
+-  definition: "the standing answer to a hireling mail being looted",
++  definition: "the answer always given to a hireling mail being looted",
+   code: "ts",
+   invariants: [
+     {
+diff --git a/temper/temper-holdings/inventory-chunks/temper-inventory-chunk.page-type.ts b/temper/temper-holdings/inventory-chunks/temper-inventory-chunk.page-type.ts
+index 8745695d3727e82ebd48d5da6c67cb863647c263..a4d1c46890cf8e1f7c489a4b4de35c5e60eed23c 100644
+--- a/temper/temper-holdings/inventory-chunks/temper-inventory-chunk.page-type.ts
++++ b/temper/temper-holdings/inventory-chunks/temper-inventory-chunk.page-type.ts
+@@ -47,7 +47,7 @@ export const temperInventoryChunk = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The bytes a page here counts stand in the reading's own data file.",
++      statement: "The bytes a page here counts are in the reading's own data file.",
+     },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-holdings/sales/temper-sale.page-type.ts b/temper/temper-holdings/sales/temper-sale.page-type.ts
+index 4aafdea7290de5871d7228ec8f4b097a82d644a1..1cae8170cb18440df7f3b37b65b4b1e287aa3cd2 100644
+--- a/temper/temper-holdings/sales/temper-sale.page-type.ts
++++ b/temper/temper-holdings/sales/temper-sale.page-type.ts
+@@ -58,7 +58,7 @@ export const temperSale = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A sale stands under the account the seller signed in as.",
++      statement: "A sale is under the account the seller signed in as.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/temper/temper-upstream-data/housing-upstream-port/housing-upstream-port.module.ts b/temper/temper-upstream-data/housing-upstream-port/housing-upstream-port.module.ts
+index 82b7a1e3506960a12f7fcf1fad786f2ae4ccf9b3..f5404ca60ee570021fd6031cbac3c9dbd11b466f 100644
+--- a/temper/temper-upstream-data/housing-upstream-port/housing-upstream-port.module.ts
++++ b/temper/temper-upstream-data/housing-upstream-port/housing-upstream-port.module.ts
+@@ -29,8 +29,7 @@ export const housingUpstreamPort = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Every generated file already standing is removed before the new ones are written.",
++      statement: "Every generated file already there is removed before the new ones are written.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/temper/temper-web/routes/api.items.unit.test.ts b/temper/temper-web/routes/api.items.unit.test.ts
+index 1ebe01eed793f6a9c6fd91baa191d159e918412d..f9f39cd89015059032098536af9be03ff8a0d3fd 100644
+--- a/temper/temper-web/routes/api.items.unit.test.ts
++++ b/temper/temper-web/routes/api.items.unit.test.ts
+@@ -104,7 +104,7 @@ describe("rowToMinedItemData — data-floor boundary (#15881)", () => {
+     expect(Object.values(result)).not.toContain("alan-real-account-uuid")
+   })
+ 
+-  it("reads a number, a flag and a list back out of the text they stand as", () => {
++  it("reads a number, a flag and a list back out of the text they are written as", () => {
+     const result = rowToMinedItemData(
+       makeRow({
+         setBonuses: [
+diff --git a/temper/temper-web/routes/api.watcher.upsert-mined-items.tsx b/temper/temper-web/routes/api.watcher.upsert-mined-items.tsx
+index 7f017555d8ee06d4e36db73c54f37d5253a2f2c1..2bb65af2e43463cf9a2340c1237d349d6467d70d 100644
+--- a/temper/temper-web/routes/api.watcher.upsert-mined-items.tsx
++++ b/temper/temper-web/routes/api.watcher.upsert-mined-items.tsx
+@@ -89,7 +89,7 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
+   }
+ 
+   // A MINED ITEM LANDED AS A ROW, AND NOTHING LANDS A ROW. `patchRows` has refused every call
+-  // since 4c1f05a264: a row stands inside a page's body rather than at a path of its own, and the
++  // since 4c1f05a264: a row is inside a page's body rather than at a path of its own, and the
+   // store addresses paths and whole bodies. The watcher on Alan's machine has been posting
+   // batches of up to a thousand items here and being told 502 ever since, and has kept retrying
+   // because 502 reads as a bad gateway rather than as a road that is gone.
+@@ -98,11 +98,11 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
+   // mine again means composing the page's whole body and writing it with `writeFiles` or
+   // `patchFiles`, or going through the akasha command line.
+   console.error(
+-    `upsert-mined-items: ${items.length} item(s) were not kept in \`${MINED_ITEM_PAGE_TYPE}/${MINE_NAME}\` — a row stands inside a page's body, and ${WRITER} has no way to reach one`
++    `upsert-mined-items: ${items.length} item(s) were not kept in \`${MINED_ITEM_PAGE_TYPE}/${MINE_NAME}\` — a row is inside a page's body, and ${WRITER} has no way to reach one`
+   )
+   return Response.json(
+     {
+-      error: `a row stands inside a page's body rather than at a path of its own, and the store writes a path and a whole body, so none of these ${items.length} item(s) was kept. land the mine's body with \`writeFiles\` or \`patchFiles\`, or through the akasha command line`,
++      error: `a row is inside a page's body rather than at a path of its own, and the store writes a path and a whole body, so none of these ${items.length} item(s) was kept. land the mine's body with \`writeFiles\` or \`patchFiles\`, or through the akasha command line`,
+       upserted: 0,
+     },
+     { status: 503 }
