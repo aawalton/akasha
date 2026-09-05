@@ -1,3 +1,44 @@
+diff --git a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.code.ts b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.code.ts
+index c30a95abce719426f8ff95ef16d1e8f4914be809..4f651b8a1593742081e24ee40efb9a6afe08bda6 100644
+--- a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.code.ts
++++ b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.code.ts
+@@ -18,6 +18,10 @@ const SLUG = "slug"
+ 
+ const ID = "id"
+ 
++const REACHES: readonly string[] = ["part-of", "page-type", "always"]
++
++const NO_REACH = "none"
++
+ export type Held = {
+   readonly slug: string
+   readonly kind: string
+@@ -80,6 +84,15 @@ function looseningAt(key: string, nearer: Declared, further: Declared, how: stri
+   )
+ }
+ 
++function reachIn(one: Declared): string {
++  return one.unique ?? NO_REACH
++}
++
++function widthOf(one: Declared): number {
++  const at = one.unique === null ? -1 : REACHES.indexOf(one.unique)
++  return at === -1 ? REACHES.length : at
++}
++
+ export function looseningIn(nearer: Declared, further: Declared): string | null {
+   if (further.required && !nearer.required) return "`required` falls from `true` to `false`"
+   if (nearer.many !== further.many) {
+@@ -88,6 +101,9 @@ export function looseningIn(nearer: Declared, further: Declared): string | null
+   if (further.max !== null && (nearer.max === null || nearer.max > further.max)) {
+     return `\`max\` rises from \`${further.max}\` to \`${nearer.max === null ? "none" : nearer.max}\``
+   }
++  if (widthOf(nearer) > widthOf(further)) {
++    return `\`unique\` widens from \`${reachIn(further)}\` to \`${reachIn(nearer)}\``
++  }
+   return null
+ }
+ 
 diff --git a/pages/types/declared-properties/declared-properties.module.code.ts b/pages/types/declared-properties/declared-properties.module.code.ts
 index 9d74617613a03ae553c1530f134c0469b52d554f..37b583e3cea0a150d774aa7ac751b57bfe5645c9 100644
 --- a/pages/types/declared-properties/declared-properties.module.code.ts
