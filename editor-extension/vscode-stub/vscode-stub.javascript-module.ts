@@ -13,19 +13,19 @@ export const vscodeStub = {
     },
     {
       invariantKind: "departure",
-      statement: "A member content passes through keeps what was written into it.",
+      statement: "A member content passes through keeps what was written into that member.",
     },
     {
       invariantKind: "departure",
-      statement: "A tree item keeps the label it was constructed with.",
+      statement: "A tree item keeps the label that tree item was constructed with.",
     },
     {
       invariantKind: "departure",
-      statement: "A tree view keeps the provider it was created with.",
+      statement: "A tree view keeps the provider that tree view was created with.",
     },
     {
       invariantKind: "departure",
-      statement: "A status bar item reads back the text assigned to it.",
+      statement: "A status bar item reads back the text assigned to that status bar item.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,7 @@ export const vscodeStub = {
     },
     {
       invariantKind: "constraint",
-      statement: "A proxy is a constructor only where the function behind it is one.",
+      statement: "A proxy is a constructor only where the function behind that proxy is one.",
     },
     {
       invariantKind: "departure",
