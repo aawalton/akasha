@@ -9,7 +9,7 @@ export const hudAddonCommands = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The slash command with no subcommand lists what is registered.",
+      statement: "The slash command with no subcommand lists the subcommands registered.",
     },
     {
       invariantKind: "departure",
