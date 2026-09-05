@@ -38,3 +38,18 @@ index e2855edbd9704cccabe052af68b8052a12f8e9ec..c21a0911634f971313ead9e6b65fdc6b
      {
        invariantKind: "departure",
        statement: "A row holding a match is drawn open while a filter is there.",
+diff --git a/pages/indexes/index.workspace-package.ts b/pages/indexes/index.workspace-package.ts
+index 8ed06ec11f0ba4c03bcae20a2e0378179456d441..6af87a9d073d32651e73c48120da4a8a3ac9080c 100644
+--- a/pages/indexes/index.workspace-package.ts
++++ b/pages/indexes/index.workspace-package.ts
+@@ -94,6 +94,10 @@ export const index = {
+       invariantKind: "stopgap",
+       statement: "The index holds every page.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The index carries the pages rather than every file git tracks.",
++    },
+     {
+       invariantKind: "gap",
+       statement: "No page's entry is older than the files its properties hold.",
