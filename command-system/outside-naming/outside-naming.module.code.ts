@@ -40,7 +40,9 @@ export type Respelt = {
 
 export type Respelling = (path: string, text: string) => string
 
-export type Respellings = { readonly respelt: readonly Respelt[] } | { readonly refusal: string }
+export type Respellings =
+  | { readonly respelt: readonly Respelt[]; readonly left: readonly string[] }
+  | { readonly refusal: string }
 
 export function boundedAt(text: string, at: number, was: string): boolean {
   const before = at === 0 ? "" : text.slice(at - 1, at)
@@ -48,6 +50,15 @@ export function boundedAt(text: string, at: number, was: string): boolean {
   if (before !== "" && LEADING.test(before)) return false
   if (!was.includes(PARTED_BY)) return after === PARTED_BY
   return after === "" || !SEGMENT.test(after)
+}
+
+export function spellsBounded(text: string, named: readonly string[]): boolean {
+  for (const was of named) {
+    for (let at = text.indexOf(was); at >= 0; at = text.indexOf(was, at + 1)) {
+      if (boundedAt(text, at, was)) return true
+    }
+  }
+  return false
 }
 
 export function namesIn(text: string, named: ReadonlyMap<string, string>): readonly Placed[] {
@@ -163,6 +174,7 @@ export function spelledRespelt(
   const found = namedTracked(root, base, named)
   if ("refusal" in found) return found
   const respelt: Respelt[] = []
+  const left: string[] = []
   for (const path of found.paths) {
     if (already.has(path)) continue
     const held = bodyAt(root, base, path)
@@ -170,8 +182,11 @@ export function spelledRespelt(
     const was = textOf(held)
     if (was === null) continue
     const text = respelling(path, was)
-    if (text === was) continue
+    if (text === was) {
+      if (spellsBounded(was, named)) left.push(path)
+      continue
+    }
     respelt.push({ path, held, was, text })
   }
-  return { respelt }
+  return { respelt, left }
 }

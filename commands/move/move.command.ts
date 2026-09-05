@@ -44,6 +44,9 @@ export const move = {
     "an agent settings document a live seat watches is rewritten once the move has landed.",
     "one that would not take the rewrite is named, and the move lands rather than refusing.",
     "one reaching in by a relative path is repointed where that path resolves to what moves.",
+    "a table naming a file beneath its own folder is repointed with that file.",
+    "a route's import of its own generated types follows that route's new folder and name.",
+    "a file carrying a name what moved is also called is named rather than changed.",
     "a way in whose file leaves the package is taken out of that manifest.",
     "a package folder that moves is reached again where it arrives, before anything is judged.",
     "a value beside a renamed page named for its old slug is renamed with it.",
@@ -274,6 +277,23 @@ export const move = {
     {
       invariantKind: "departure",
       statement: "A relative path resolving to a path that moved is repointed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path spelled from the folder of the file naming that path is repointed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body's import of its own generated types is spelled again for where that body arrived.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file carrying a name what moved is also called is named in the answer.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "That file is left as that file is.",
     },
     {
       invariantKind: "absence",

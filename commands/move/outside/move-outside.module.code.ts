@@ -25,6 +25,7 @@ export const OUTSIDE_SPELLING =
 export type Outside = {
   readonly paths: readonly string[]
   readonly reaching: readonly string[]
+  readonly alike: readonly string[]
   readonly changes: readonly FileEdit[]
   readonly carries: readonly Carry[]
 }
@@ -74,12 +75,46 @@ export function reachesIn(
   return found
 }
 
+/** How a body above what moved spells that path, with no leading dot marking the reach. */
+export function beneathNames(moved: ReadonlyMap<string, string>): readonly string[] {
+  const found = new Set<string>()
+  for (const was of moved.keys()) {
+    const parts = was.split(UNDER)
+    for (let at = 1; at + 1 < parts.length; at = at + 1) found.add(parts.slice(at).join(UNDER))
+  }
+  return [...found].sort()
+}
+
+export function beneathIn(
+  path: string,
+  text: string,
+  moved: ReadonlyMap<string, string>
+): readonly Placed[] {
+  const from = dirname(path)
+  const scan = /(?<![A-Za-z0-9._@/-])[A-Za-z0-9._$-]+(?:\/[A-Za-z0-9._$-]+)+/g
+  const found: Placed[] = []
+  for (let one = scan.exec(text); one !== null; one = scan.exec(text)) {
+    const said = one[0]
+    if (arrivalOf(said, moved) !== null) continue
+    const landed = reachedFrom(from, said)
+    if (landed === null) continue
+    const now = arrivalOf(landed, moved)
+    if (now === null) continue
+    found.push({ at: one.index, was: said, now: relative(from, now) })
+  }
+  return found
+}
+
 export function repointedText(
   path: string,
   text: string,
   moved: ReadonlyMap<string, string>
 ): string {
-  return splicedOver(text, [...namesIn(text, moved), ...reachesIn(path, text, moved)])
+  return splicedOver(text, [
+    ...namesIn(text, moved),
+    ...reachesIn(path, text, moved),
+    ...beneathIn(path, text, moved),
+  ])
 }
 
 export function outsideIn(
@@ -91,7 +126,7 @@ export function outsideIn(
   const found = spelledRespelt(
     root,
     base,
-    [...moved.keys()],
+    [...moved.keys(), ...beneathNames(moved)],
     (path, text) => repointedText(path, text, moved),
     already
   )
@@ -107,16 +142,31 @@ export function outsideIn(
     carries.push({ was: one.path, now: one.path, from: blobIdOf(one.held) })
     changes.push({ path: one.path, body: new TextEncoder().encode(one.text), carried: true })
   }
-  return { paths, reaching, changes, carries }
+  const alike = found.left.filter((one) => !machineWrittenAt(root, one))
+  return { paths, reaching, alike, changes, carries }
+}
+
+export function alikeSaid(alike: readonly string[], dry: boolean): readonly string[] {
+  if (alike.length === 0) return []
+  return [
+    `${counted(alike.length, "file")} ${dry ? "would carry" : "carried"} a name what moved is ` +
+      `also called and ${dry ? "would be" : "was"} left alone — read each and judge it — ` +
+      alike.join(", "),
+  ]
 }
 
 export function outsideSaid(
   paths: readonly string[],
   reaching: readonly string[],
+  alike: readonly string[],
   dry: boolean
 ): readonly string[] {
   if (paths.length === 0) {
-    return ["no further file spelled what moved by its path", OUTSIDE_SPELLING]
+    return [
+      "no further file spelled what moved by its path",
+      ...alikeSaid(alike, dry),
+      OUTSIDE_SPELLING,
+    ]
   }
   const said = [
     `${counted(paths.length, "file")} spelling what moved by its path ` +
@@ -128,6 +178,7 @@ export function outsideSaid(
         `relative path rather than by the path itself — ${reaching.join(", ")}`
     )
   }
+  said.push(...alikeSaid(alike, dry))
   said.push(OUTSIDE_SPELLING)
   return said
 }

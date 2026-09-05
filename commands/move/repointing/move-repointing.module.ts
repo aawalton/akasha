@@ -26,6 +26,31 @@ export const moveRepointing = {
       statement: "What a package's name reaches moves without that name changing.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A name that is no module specifier is read against the folder of the body naming it.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Such a name is written back only where it lands on a path that moved.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A name holding no slash is left as that name is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body's own generated declarations sit in a `+types` folder beside the body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those declarations are named for the body naming them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A specifier naming them follows the body's new folder and new name.",
+    },
+    {
       invariantKind: "absence",
       statement: "No naming is handed in here.",
     },

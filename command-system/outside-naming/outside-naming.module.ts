@@ -92,6 +92,16 @@ export const outsideNaming = {
     {
       invariantKind: "departure",
       statement:
+        "A body found by name that the respelling left alone is answered apart from the ones changed.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A body carrying the name looked for only inside a longer path is answered in neither.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A body that changed is answered with its bytes and with the text that body came from.",
     },
     {

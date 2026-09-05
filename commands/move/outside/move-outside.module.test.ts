@@ -11,21 +11,46 @@ import {
   BINARY,
   BINARY_BODY,
   bodyIn,
+  CARRY,
   FOLDER,
   FOLDER_AT,
   FOLDER_PAIR,
   givenIn,
   LOCK,
   LOCKED,
+  OTHER,
   outsideMoved,
   outsideWorld,
   REACHED,
   REACHER,
   reachMoved,
+  rebuilt,
+  repoWith,
   scratch,
+  TARGET,
   told,
 } from "../move.command.test-fixtures.ts"
-import { outsideSaid, reachesIn, repointedText } from "./move-outside.module.code.ts"
+import {
+  alikeSaid,
+  beneathNames,
+  outsideSaid,
+  reachesIn,
+  repointedText,
+} from "./move-outside.module.code.ts"
+
+const TABLE = "akasha/one/routes.ts"
+
+const ROUTE = "akasha/one/routes/api.$.ts"
+
+const ROUTE_AT = "akasha/one/routes/no-such/no-such.route.code.ts"
+
+const TABLE_CODE = `export const routes = [["api/*", "routes/api.$.ts"]]\n`
+
+const TABLE_REPOINTED = `export const routes = [["api/*", "routes/no-such/no-such.route.code.ts"]]\n`
+
+const ALIKE = "akasha/one/alike.module.code.ts"
+
+const ALIKE_CODE = `export const said = ["two/other.module.code.ts"]\n`
 
 afterAll(scratch.sweep)
 
@@ -107,6 +132,29 @@ test("a reach is answered with where the reach sits and what it becomes", () => 
   expect(found.map((one) => one.now)).toEqual(["../../akasha/far/one"])
 })
 
+test("the tail of a path that moved from each folder above it is looked for too", () => {
+  expect(beneathNames(new Map([["akasha/one/two/held.ts", "akasha/far/held.ts"]]))).toEqual([
+    "one/two/held.ts",
+    "two/held.ts",
+  ])
+  expect(beneathNames(new Map([["akasha/one", "akasha/far/one"]]))).toEqual([])
+})
+
+test("a path spelled with no leading dot is resolved against the folder of the file naming it", () => {
+  const moved = new Map([["akasha/one/held.ts", "akasha/two/held.ts"]])
+  expect(repointedText("akasha/routes.ts", '"one/held.ts"', moved)).toBe('"two/held.ts"')
+})
+
+test("a path with no leading dot landing on nothing that moved is left alone", () => {
+  const moved = new Map([["akasha/one/held.ts", "akasha/two/held.ts"]])
+  expect(repointedText("tools/routes.ts", '"one/held.ts"', moved)).toBe('"one/held.ts"')
+})
+
+test("a path spelled whole is left to the whole-name rewriting rather than resolved again", () => {
+  const moved = new Map([["akasha/one/held.ts", "akasha/two/held.ts"]])
+  expect(repointedText("tools/x.ts", '"akasha/one/held.ts"', moved)).toBe('"akasha/two/held.ts"')
+})
+
 test("a body naming nothing that moved comes back as that body was", () => {
   expect(repointedText(LOCK, LOCKED, new Map())).toBe(LOCKED)
 })
@@ -154,7 +202,34 @@ test("a property saying an author writes the file leaves that file repointed", a
 })
 
 test("finding no further file is said as plainly as finding something", () => {
-  expect(outsideSaid([], [], false)[0]).toBe("no further file spelled what moved by its path")
-  expect(outsideSaid([LOCK], [], true)[0]).toContain(`would be repointed — ${LOCK}`)
-  expect(outsideSaid([], [], false)[1]).toContain("is left alone")
+  expect(outsideSaid([], [], [], false)[0]).toBe("no further file spelled what moved by its path")
+  expect(outsideSaid([LOCK], [], [], true)[0]).toContain(`would be repointed — ${LOCK}`)
+  expect(outsideSaid([], [], [], false)[1]).toContain("is left alone")
+})
+
+test("a file found by name that no rewriting changed is named whether or not one was", () => {
+  expect(alikeSaid([], true)).toEqual([])
+  expect(alikeSaid([LOCK], true)[0]).toContain(`judge it — ${LOCK}`)
+  expect(outsideSaid([], [], [LOCK], false)[1]).toContain("was left alone")
+  expect(outsideSaid([LOCK], [], [LOCK], false)[1]).toContain("was left alone")
+})
+
+test("a table naming what moved beneath its own folder is repointed and the answer says so", async () => {
+  const root = rebuilt(repoWith({ [TABLE]: TABLE_CODE, [ROUTE]: OTHER }))
+  const dry = await move(["--from", ROUTE, "--to", ROUTE_AT, "--dry-run"], givenIn(root))
+  expect(dry.refusals).toEqual([])
+  expect(told(dry)).toContain(`spelling what moved by its path would be repointed — ${TABLE}`)
+  expect(told(dry)).not.toContain("no further file spelled what moved by its path")
+  expect(bodyIn(root, TABLE)).toBe(TABLE_CODE)
+  const said = await move(["--from", ROUTE, "--to", ROUTE_AT], givenIn(root))
+  expect(said.refusals).toEqual([])
+  expect(bodyIn(root, TABLE)).toBe(TABLE_REPOINTED)
+})
+
+test("a body carrying a name what moved is also called is named rather than changed", async () => {
+  const root = rebuilt(repoWith({ [ALIKE]: ALIKE_CODE, [TARGET]: OTHER }))
+  const said = await move(CARRY, givenIn(root))
+  expect(said.refusals).toEqual([])
+  expect(bodyIn(root, ALIKE)).toBe(ALIKE_CODE)
+  expect(told(said)).toContain(`also called and was left alone — read each and judge it — ${ALIKE}`)
 })

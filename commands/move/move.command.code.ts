@@ -46,6 +46,7 @@ type Reached = {
   readonly repointed: readonly string[]
   readonly outside: readonly string[]
   readonly reaching: readonly string[]
+  readonly alike: readonly string[]
   readonly left: readonly Unrepointed[]
   readonly parented: Parting
 }
@@ -85,7 +86,7 @@ function carrying(
     )
   }
   report.push(...unrepointedSaid(reached.left, dry))
-  report.push(...outsideSaid(reached.outside, reached.reaching, dry))
+  report.push(...outsideSaid(reached.outside, reached.reaching, reached.alike, dry))
   report.push(...parentingSaid(reached.parented, dry))
   if (reached.parented.unread !== null) report.push(reached.parented.unread)
   return report
@@ -243,6 +244,7 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
     repointed: repointing,
     outside: outside.paths,
     reaching: outside.reaching,
+    alike: outside.alike,
     left,
     parented,
   }

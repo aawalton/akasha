@@ -145,6 +145,18 @@ test("a body the respelling did not change is left out of the answer", () => {
   expect("respelt" in found ? found.respelt : ["it refused"]).toEqual([])
 })
 
+test("a body found by name that the respelling left alone is answered apart from the rest", () => {
+  const root = world({ [OUTSIDE_AT]: SPELT })
+  const found = spelledRespelt(root, baseOf(root), ["akasha/one"], (_path, text) => text, new Set())
+  expect("left" in found ? found.left : ["it refused"]).toEqual([OUTSIDE_AT])
+})
+
+test("a body carrying the name only inside a longer path is answered in neither", () => {
+  const root = world({ [OUTSIDE_AT]: `export const at = "repo/akasha/one/held.ts"\n` })
+  const found = spelledRespelt(root, baseOf(root), ["akasha/one"], (_path, text) => text, new Set())
+  expect("left" in found ? found.left : ["it refused"]).toEqual([])
+})
+
 test("a path the caller says it respelled already is left out of the answer", () => {
   const root = world({ [OUTSIDE_AT]: SPELT, [INSIDE_AT]: SPELT })
   const both = spelledRespelt(

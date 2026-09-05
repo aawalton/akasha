@@ -18,6 +18,20 @@ export const moveOutside = {
     },
     {
       invariantKind: "departure",
+      statement: "The tail of a path that moved from each folder above it is looked for too.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path spelled with no leading dot is resolved against the folder of the file carrying it.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A path spelled whole is left to the whole-name rewriting rather than resolved again.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path is repointed where a body spells that path whole.",
     },
     {
@@ -75,6 +89,14 @@ export const moveOutside = {
     {
       invariantKind: "departure",
       statement: "The files that reached in by a relative path are named apart from the rest.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file found by name that no rewriting changed is named in the answer.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A file a machine writes is named in neither answer.",
     },
     {
       invariantKind: "constraint",
