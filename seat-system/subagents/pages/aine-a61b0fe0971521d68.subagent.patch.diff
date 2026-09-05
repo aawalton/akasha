@@ -17,7 +17,7 @@ index a42640cfe3d032292c1d5da1a56019923f7402b2..040fdb1de4e333fcd553f1fcc6ee0a84
      const named = installedUnitName(one)
      if (one.service.enabled) enable.push(named)
 diff --git a/service-system/workstation-services/service-installing/service-installing.module.test.ts b/service-system/workstation-services/service-installing/service-installing.module.test.ts
-index e7c2979ab7102efc11a25e74882ef42e766bacb7..f43f913f49ece31608c118bb90ed95476639e50e 100644
+index e7c2979ab7102efc11a25e74882ef42e766bacb7..3cb2e75a4cb713358f6e8ccf575faa66ad059174 100644
 --- a/service-system/workstation-services/service-installing/service-installing.module.test.ts
 +++ b/service-system/workstation-services/service-installing/service-installing.module.test.ts
 @@ -61,7 +61,7 @@ test("only the timer of a scheduled service is enabled", () => {
@@ -38,6 +38,14 @@ index e7c2979ab7102efc11a25e74882ef42e766bacb7..f43f913f49ece31608c118bb90ed9547
    writeUnit(HOME, "w.service", "body")
    writeFileSync(join(systemdDir(HOME), "w.service"), "someone else wrote this")
    linkUnit(HOME, "w.service")
+@@ -121,6 +121,6 @@ test("unlinking a unit takes away both the link and the file it named", () => {
+   expect(existsSync(join(stagingDir(HOME), "bye.service"))).toBe(false)
+ })
+ 
+-test("nothing is owned where no unit folder stands", () => {
++test("nothing is owned where there is no unit folder", () => {
+   expect(ourInstalled(join(HOME, "nowhere"))).toEqual([])
+ })
 diff --git a/service-system/workstation-services/service-installing/service-installing.module.ts b/service-system/workstation-services/service-installing/service-installing.module.ts
 index 08db4517b19b3c6da006353bc2c8b8de76c2b9f7..cb66d63a28fad8ba24edd28d86e9e2affd1f41ea 100644
 --- a/service-system/workstation-services/service-installing/service-installing.module.ts
@@ -99,7 +107,7 @@ index 5d8f495349f979eadcc85edb837b99c1716307bf..68b3daae0861c850c759a1c8fd6db850
      {
        invariantKind: "departure",
 diff --git a/service-system/workstation-services/service-reading/service-reading.module.test.ts b/service-system/workstation-services/service-reading/service-reading.module.test.ts
-index 2166ebb7bb6ef6486742452c67c7c430455672cd..fd976aec3806ea4d533998c3b8f99ec483ce08d4 100644
+index 2166ebb7bb6ef6486742452c67c7c430455672cd..5ca6e31a6ee51000cbb1d2adaddd06020ba9f57c 100644
 --- a/service-system/workstation-services/service-reading/service-reading.module.test.ts
 +++ b/service-system/workstation-services/service-reading/service-reading.module.test.ts
 @@ -13,7 +13,7 @@ const WHOLE = {
@@ -120,8 +128,17 @@ index 2166ebb7bb6ef6486742452c67c7c430455672cd..fd976aec3806ea4d533998c3b8f99ec4
    const read = readFor(ROOT, "pages-system-service")
    expect("refused" in read).toBe(false)
    if ("refused" in read) return
+@@ -94,7 +94,7 @@ test("the service standing today is read from its page", () => {
+   expect(read.services[0]?.pagePath).toContain("pages-system-service.workstation-service.ts")
+ })
+ 
+-test("every service standing is read, and the one standing today is among them", () => {
++test("every service there is read, and the one there today is among them", () => {
+   const read = everyService(ROOT)
+   expect("refused" in read).toBe(false)
+   if ("refused" in read) return
 diff --git a/service-system/workstation-services/service-wrapping/service-wrapping.module.code.ts b/service-system/workstation-services/service-wrapping/service-wrapping.module.code.ts
-index d1a4e22615c89b21efa51b2dd1f4526a4a464412..a51b3ded811f35f2d0eb2c5b0cdbdee0d14baae0 100644
+index d1a4e22615c89b21efa51b2dd1f4526a4a464412..b46ca562a407a9ea8958e767a122b61a7341afab 100644
 --- a/service-system/workstation-services/service-wrapping/service-wrapping.module.code.ts
 +++ b/service-system/workstation-services/service-wrapping/service-wrapping.module.code.ts
 @@ -91,7 +91,7 @@ export async function wrapping(given: Wrapping): Promise<number> {
@@ -142,6 +159,15 @@ index d1a4e22615c89b21efa51b2dd1f4526a4a464412..a51b3ded811f35f2d0eb2c5b0cdbdee0
        )
        following.stop()
        child.kill("SIGTERM")
+@@ -125,7 +125,7 @@ export async function wrapping(given: Wrapping): Promise<number> {
+ 
+   for (const at of following.unfollowed) {
+     process.stderr.write(
+-      `${says} ${under(at)} could not be watched, so what stands in it is not followed\n`
++      `${says} ${under(at)} could not be watched, so what is in it is not followed\n`
+     )
+   }
+ 
 diff --git a/service-system/workstation-services/service-wrapping/service-wrapping.module.test.ts b/service-system/workstation-services/service-wrapping/service-wrapping.module.test.ts
 index 91ce5b3ce6ad9c2867dcc4f46e4b5c672fd58854..bae89281b541e0fbd4abbdfb82f93ae00d57ab5a 100644
 --- a/service-system/workstation-services/service-wrapping/service-wrapping.module.test.ts
