@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-completion-import/completion-input-schema/completion-input-schema.module.ts b/temper/temper-completion-import/completion-input-schema/completion-input-schema.module.ts
+index aece9b36a11d406f1f5d8998b5ac4269c390254a..3411b4840186bbecc2b7d10ba67d680d1c336826 100644
+--- a/temper/temper-completion-import/completion-input-schema/completion-input-schema.module.ts
++++ b/temper/temper-completion-import/completion-input-schema/completion-input-schema.module.ts
+@@ -22,7 +22,7 @@ export const completionInputSchema = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "The reading names fields without saying what any field means.",
++      statement: "The reading names fields without saying any field's meaning.",
+     },
+   ],
+ } as const satisfies Module
