@@ -1,5 +1,5 @@
 diff --git a/commands/move/siding/move-siding.module.ts b/commands/move/siding/move-siding.module.ts
-index c561bb989b8da69b40640fbc453266d0070a7a2c..53d605deacdbd4622f19252e5a28bf938296c6b0 100644
+index c561bb989b8da69b40640fbc453266d0070a7a2c..226ae4b93cce4285893f978edd74a57addfd63a4 100644
 --- a/commands/move/siding/move-siding.module.ts
 +++ b/commands/move/siding/move-siding.module.ts
 @@ -10,7 +10,8 @@ export const moveSiding = {
@@ -21,3 +21,13 @@ index c561bb989b8da69b40640fbc453266d0070a7a2c..53d605deacdbd4622f19252e5a28bf93
      },
      {
        invariantKind: "departure",
+@@ -91,7 +92,8 @@ export const moveSiding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file whose name reserves it uncommitted is answered as no commit carrying it.",
++      statement:
++        "A file whose name reserves that file uncommitted is answered as no commit carrying that file.",
+     },
+     {
+       invariantKind: "absence",
