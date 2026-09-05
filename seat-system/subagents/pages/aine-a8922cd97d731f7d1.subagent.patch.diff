@@ -81,3 +81,25 @@ index 86d392ee6ae1448dd6eb96bd31735a1442b6b783..4ee499bd7c03d440b748063a359dc82c
      },
      {
        invariantKind: "departure",
+diff --git a/checks/code-checks/pages/shell-clean/shell-clean.code-check.code.ts b/checks/code-checks/pages/shell-clean/shell-clean.code-check.code.ts
+index 6cbfead5d0fff5c14bd011283eb1e7faec44d856..142066bdc303e22e3639fee0d2f703df3f043d71 100644
+--- a/checks/code-checks/pages/shell-clean/shell-clean.code-check.code.ts
++++ b/checks/code-checks/pages/shell-clean/shell-clean.code-check.code.ts
+@@ -20,7 +20,7 @@ const JUDGED: ReadonlySet<number> = new Set([0, 1])
+ 
+ const COMMENTS = "comments"
+ 
+-const WORLD = "the world this change was stood up in"
++const WORLD = "the world this change was set up in"
+ 
+ const UNLOOKED = "A linter that could not look has verified nothing, so this change is not judged."
+ 
+@@ -95,7 +95,7 @@ export function foundIn(output: string): readonly Found[] | null {
+ 
+ export function lookedOver(root: string, named: readonly string[], at: string | null): Looked {
+   if (at === null) {
+-    return { found: [], failed: `no \`${TOOL}\` stands on PATH, so nothing was looked at` }
++    return { found: [], failed: `no \`${TOOL}\` is on PATH, so nothing was looked at` }
+   }
+   const done = ran([at, ...ARGV, ...named], { cwd: root })
+   if (!JUDGED.has(done.code)) {
