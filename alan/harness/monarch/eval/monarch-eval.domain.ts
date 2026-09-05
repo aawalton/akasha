@@ -59,7 +59,7 @@ export const monarchEval = {
     {
       invariantKind: "departure",
       statement:
-        "A figure taken after a first one had been seen is reported as a rerun in its own output, so it cannot be quoted as though it were clean.",
+        "A figure taken after a first figure had been seen is reported as a rerun in its own output.",
     },
     {
       invariantKind: "departure",
