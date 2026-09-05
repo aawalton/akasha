@@ -1,0 +1,61 @@
+diff --git a/seat-system/supervising/agent-hook-registration/agent-hook-registration.module.code.ts b/seat-system/supervising/agent-hook-registration/agent-hook-registration.module.code.ts
+index 18017d90b305961d02d567c99ae9cb82cac76904..916b3021b76fdb806a0b7e17f48efdd506606cf9 100644
+--- a/seat-system/supervising/agent-hook-registration/agent-hook-registration.module.code.ts
++++ b/seat-system/supervising/agent-hook-registration/agent-hook-registration.module.code.ts
+@@ -60,22 +60,22 @@ export function commandFor(codePath: string): string {
+ export function hooksFrom(root: string): Record<string, HookRegistration[]> {
+   const found: Record<string, HookRegistration[]> = {}
+   const seen = new Set<string>()
+-  for (const standing of everyOfType(root, PAGE_TYPE)) {
+-    if (seen.has(standing.path)) continue
+-    seen.add(standing.path)
+-    const page = pageAt(root, standing.path)
++  for (const listed of everyOfType(root, PAGE_TYPE)) {
++    if (seen.has(listed.path)) continue
++    seen.add(listed.path)
++    const page = pageAt(root, listed.path)
+     const slug = page["slug"]
+     const runsAt = namesIn(page["runsAt"])
+     if (runsAt === null || runsAt.length === 0) {
+       throw new Error(`\`${String(slug)}\` is an agent hook and names no event it runs at`)
+     }
+     const overTools = namesIn(page["overTools"])
+-    if (!standing.path.endsWith(ENDING)) {
++    if (!listed.path.endsWith(ENDING)) {
+       throw new Error(
+         `\`${String(slug)}\` is an agent hook and its page is not named \`${ENDING}\``
+       )
+     }
+-    const codePath = `${standing.path.slice(0, -ENDING.length)}${CODE}`
++    const codePath = `${listed.path.slice(0, -ENDING.length)}${CODE}`
+     if (!existsSync(join(root, codePath))) {
+       throw new Error(`\`${String(slug)}\` is an agent hook and ${codePath} is not there to run`)
+     }
+diff --git a/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.code.ts b/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.code.ts
+index 30b772d66961419d20a28102eec9c87df34b8ff3..0afbf36f0c5e64eaea300ef7e985736f61304443 100644
+--- a/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.code.ts
++++ b/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.code.ts
+@@ -37,18 +37,18 @@ function adoptLiveChildOrSpawn(args: {
+ }): { proc: InheritedProc; adoptedThisIter: boolean } {
+   const { spawnOpts, childExitRule, scanProcs } = args
+   const scanned = scanProcs()
+-  const standing = scanned.ok
++  const livePid = scanned.ok
+     ? findLiveClaudeChild(spawnOpts.agentId, scanned.entries, process.pid)
+     : null
+-  if (standing !== null) {
++  if (livePid !== null) {
+     try {
+-      const proc = adoptInheritedProc(standing, childExitRule)
++      const proc = adoptInheritedProc(livePid, childExitRule)
+       console.log(
+-        `${LOG} adopt: Claude pid=${standing} is already this supervisor's child for agent ${spawnOpts.agentId} — adopting it rather than spawning a second onto the same terminal`
++        `${LOG} adopt: Claude pid=${livePid} is already this supervisor's child for agent ${spawnOpts.agentId} — adopting it rather than spawning a second onto the same terminal`
+       )
+       return { proc, adoptedThisIter: true }
+     } catch (err) {
+-      console.error(`${LOG} adopt: standing Claude pid=${standing} could not be adopted:`, err)
++      console.error(`${LOG} adopt: live Claude pid=${livePid} could not be adopted:`, err)
+     }
+   }
+   enforceMemoryGuard("claude session")
