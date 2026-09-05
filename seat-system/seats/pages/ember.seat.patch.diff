@@ -820,6 +820,150 @@ index 0d8090ad81206bcc0977323cd661a92a61d77f72..400424bc8321d75803d77376d07a5c41
    goal: "hoard",
    locked: true,
    fromTemplate: "tools-bank",
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-transmuted-nothing/rule-transmuted-nothing.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-transmuted-nothing/rule-transmuted-nothing.temper-inventory-rule.ts
+index 69ed3344c2189766191f0ec2492892e18d62d870..f0adfdec2cc21273a80fb7db4bdca7db3a5ab058 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-transmuted-nothing/rule-transmuted-nothing.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-transmuted-nothing/rule-transmuted-nothing.temper-inventory-rule.ts
+@@ -12,6 +12,7 @@ export const ruleTransmutedNothing = {
+   displayOrder: 25,
+   action: "nothing",
+   active: true,
++  updatedAt: "2026-05-04T16:04:31.132Z",
+   goal: "equip",
+   locked: true,
+   fromTemplate: "transmuted-nothing",
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-trash-sell/rule-trash-sell.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-trash-sell/rule-trash-sell.temper-inventory-rule.ts
+index ddad32c43bb2ae22f7f122a4582225f482fc7e0d..8143ae181999d9140d29eec7cd26085b613f8d42 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-trash-sell/rule-trash-sell.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-trash-sell/rule-trash-sell.temper-inventory-rule.ts
+@@ -11,6 +11,7 @@ export const ruleTrashSell = {
+   displayOrder: 64,
+   action: "sell",
+   active: true,
++  updatedAt: "2026-05-04T16:04:31.132Z",
+   goal: "sell",
+   locked: true,
+   fromTemplate: "trash-sell",
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-treasure-maps-bank/rule-treasure-maps-bank.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-treasure-maps-bank/rule-treasure-maps-bank.temper-inventory-rule.ts
+index da78681f11658441842391581ba2f6b19097e951..fcee12ae97ddd51e8c78cd1ada546b66b496e6f6 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-treasure-maps-bank/rule-treasure-maps-bank.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-treasure-maps-bank/rule-treasure-maps-bank.temper-inventory-rule.ts
+@@ -12,6 +12,7 @@ export const ruleTreasureMapsBank = {
+   displayOrder: 50,
+   action: "move-to",
+   active: true,
++  updatedAt: "2026-05-04T16:04:31.132Z",
+   goal: "task",
+   locked: true,
+   fromTemplate: "treasure-maps-bank",
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-treasures-epic-bank/rule-treasures-epic-bank.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-treasures-epic-bank/rule-treasures-epic-bank.temper-inventory-rule.ts
+index 856c71c1ff0342b633537a320026ed7407a268a2..e25a2f5b39a05f80afac9b58e0d917ba5d02d3f7 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-treasures-epic-bank/rule-treasures-epic-bank.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-treasures-epic-bank/rule-treasures-epic-bank.temper-inventory-rule.ts
+@@ -11,6 +11,7 @@ export const ruleTreasuresEpicBank = {
+   displayOrder: 60,
+   action: "move-to",
+   active: true,
++  updatedAt: "2026-05-04T16:04:31.132Z",
+   goal: "hoard",
+   locked: true,
+   fromTemplate: "treasures-epic-bank",
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-treasures-epic-stolen/rule-treasures-epic-stolen.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-treasures-epic-stolen/rule-treasures-epic-stolen.temper-inventory-rule.ts
+index 7ab8b2f74bc928237348544292d8a7adee696dff..c5015efa53278845429c43e106504cb908b24348 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-treasures-epic-stolen/rule-treasures-epic-stolen.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-treasures-epic-stolen/rule-treasures-epic-stolen.temper-inventory-rule.ts
+@@ -12,6 +12,7 @@ export const ruleTreasuresEpicStolen = {
+   displayOrder: 58,
+   action: "fence-launder",
+   active: true,
++  updatedAt: "2026-05-04T16:04:31.132Z",
+   goal: "hoard",
+   locked: true,
+   fromTemplate: "treasures-epic-stolen",
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-treasures-sell/rule-treasures-sell.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-treasures-sell/rule-treasures-sell.temper-inventory-rule.ts
+index 2e8953059e0de63007c35724f8f4d6ef70c0afcd..e09a545425a1019f8f6351af42068f24440d1fe6 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-treasures-sell/rule-treasures-sell.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-treasures-sell/rule-treasures-sell.temper-inventory-rule.ts
+@@ -12,6 +12,7 @@ export const ruleTreasuresSell = {
+   displayOrder: 68,
+   action: "sell",
+   active: true,
++  updatedAt: "2026-05-04T16:04:31.132Z",
+   goal: "sell",
+   locked: true,
+   fromTemplate: "treasures-sell",
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-treasures-stolen-fence/rule-treasures-stolen-fence.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-treasures-stolen-fence/rule-treasures-stolen-fence.temper-inventory-rule.ts
+index bf08e827ea0ba4a5dd85106c4ac432e92de6d868..7d75b54a1574f40b47377dc31dc498d4d4bfa52f 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-treasures-stolen-fence/rule-treasures-stolen-fence.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-treasures-stolen-fence/rule-treasures-stolen-fence.temper-inventory-rule.ts
+@@ -12,6 +12,7 @@ export const ruleTreasuresStolenFence = {
+   displayOrder: 67,
+   action: "fence-sell",
+   active: true,
++  updatedAt: "2026-05-04T16:04:31.132Z",
+   goal: "sell",
+   locked: true,
+   fromTemplate: "treasures-stolen-fence",
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-trophies-bank/rule-trophies-bank.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-trophies-bank/rule-trophies-bank.temper-inventory-rule.ts
+index 8b82471f7fe180d5394eafc4af5e443b9e6d6238..dc9dd17274f15c380b342e986838e85ae1f31245 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-trophies-bank/rule-trophies-bank.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-trophies-bank/rule-trophies-bank.temper-inventory-rule.ts
+@@ -12,6 +12,7 @@ export const ruleTrophiesBank = {
+   displayOrder: 62,
+   action: "move-to",
+   active: true,
++  updatedAt: "2026-05-04T16:04:31.132Z",
+   goal: "hoard",
+   locked: true,
+   fromTemplate: "trophies-bank",
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-unlock-by-priority/rule-unlock-by-priority.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-unlock-by-priority/rule-unlock-by-priority.temper-inventory-rule.ts
+index 3863c737113e8f8fe28162e0e2f61c904ebe23e2..85ab8ec599ec19855e10174c19a1cffbc2c15175 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-unlock-by-priority/rule-unlock-by-priority.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-unlock-by-priority/rule-unlock-by-priority.temper-inventory-rule.ts
+@@ -12,6 +12,7 @@ export const ruleUnlockByPriority = {
+   displayOrder: 31,
+   action: "use",
+   active: true,
++  updatedAt: "2026-05-04T16:04:31.132Z",
+   goal: "unlock",
+   locked: true,
+   fromTemplate: "unlock-by-priority",
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-unlock-stolen/rule-unlock-stolen.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-unlock-stolen/rule-unlock-stolen.temper-inventory-rule.ts
+index 20242906bae9cdeeb95120fcf24098e9a68ffa66..9566ea9c2d9ab9414ca7ad939043dc2d76ceee83 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-unlock-stolen/rule-unlock-stolen.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-unlock-stolen/rule-unlock-stolen.temper-inventory-rule.ts
+@@ -12,6 +12,7 @@ export const ruleUnlockStolen = {
+   displayOrder: 26,
+   action: "fence-launder",
+   active: true,
++  updatedAt: "2026-05-04T16:04:31.132Z",
+   goal: "unlock",
+   locked: true,
+   fromTemplate: "unlock-stolen",
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-valuable-nothing/rule-valuable-nothing.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-valuable-nothing/rule-valuable-nothing.temper-inventory-rule.ts
+index ec7fb2dbbeef3b4adfd1b337ff7d09ae5f3b4fa5..f741a13943c5fec113b0696c714d4027a7c0c0c1 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-valuable-nothing/rule-valuable-nothing.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-valuable-nothing/rule-valuable-nothing.temper-inventory-rule.ts
+@@ -12,6 +12,7 @@ export const ruleValuableNothing = {
+   displayOrder: 39,
+   action: "list",
+   active: true,
++  updatedAt: "2026-06-02T20:49:37.762Z",
+   goal: "hoard",
+   locked: true,
+   fromTemplate: "valuable-nothing",
+diff --git a/temper/temper-progress/inventory-rules/pages/rule-worthless-destroy/rule-worthless-destroy.temper-inventory-rule.ts b/temper/temper-progress/inventory-rules/pages/rule-worthless-destroy/rule-worthless-destroy.temper-inventory-rule.ts
+index c20ccb9e1bf4cbf2a6a10f8893f406a3d98fc583..611660bd7b24d406d30897707bc35eee56aff253 100644
+--- a/temper/temper-progress/inventory-rules/pages/rule-worthless-destroy/rule-worthless-destroy.temper-inventory-rule.ts
++++ b/temper/temper-progress/inventory-rules/pages/rule-worthless-destroy/rule-worthless-destroy.temper-inventory-rule.ts
+@@ -12,6 +12,7 @@ export const ruleWorthlessDestroy = {
+   displayOrder: 75,
+   action: "destroy",
+   active: true,
++  updatedAt: "2026-05-04T16:04:31.132Z",
+   goal: "destroy",
+   locked: true,
+   fromTemplate: "worthless-destroy",
 diff --git a/temper/temper-progress/inventory-rules/properties/updated-at.instant-property.ts b/temper/temper-progress/inventory-rules/properties/updated-at.instant-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..eec1e1fba00c4a9ed9a53645a7899a74ed8f0faf
