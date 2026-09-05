@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.ts b/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.ts
+index b6c85e301d9a899852bba9f37c446eda1c59c345..41acb71fef28e071650a73a62f471fea239f03cc 100644
+--- a/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.ts
++++ b/temper/temper-commands/temper-eso-generate-base-game-globals/temper-eso-generate-base-game-globals.command.ts
+@@ -44,7 +44,7 @@ export const temperEsoGenerateBaseGameGlobals = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The census is written as numbered runs with an aggregate composing them.",
++      statement: "The census is written as numbered runs with an aggregate composing those runs.",
+     },
+     {
+       invariantKind: "departure",
