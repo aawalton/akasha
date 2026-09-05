@@ -25,7 +25,7 @@ index 8f39c003871b3808642fcb2a2d8b0b3b930694c8..ccf3175d8820f0ad6cb9b909cb25e38d
      {
        invariantKind: "departure",
 diff --git a/editor-extension/domain-tree-view/domain-tree-view.module.ts b/editor-extension/domain-tree-view/domain-tree-view.module.ts
-index 6e4b258b74ff1e7523287710338f9896f01419bd..2442800d6a01999646e56ed011a4340601eb3e7c 100644
+index 6e4b258b74ff1e7523287710338f9896f01419bd..705b1ee7cb6301e1deb0d57a5225b92d50840aae 100644
 --- a/editor-extension/domain-tree-view/domain-tree-view.module.ts
 +++ b/editor-extension/domain-tree-view/domain-tree-view.module.ts
 @@ -21,11 +21,11 @@ export const domainTreeView = {
@@ -51,6 +51,15 @@ index 6e4b258b74ff1e7523287710338f9896f01419bd..2442800d6a01999646e56ed011a43406
      },
      {
        invariantKind: "departure",
+@@ -45,7 +45,7 @@ export const domainTreeView = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "How many rows matched is answered as none where no filter stands.",
++      statement: "How many rows matched is answered as none where no filter is there.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/editor-extension/page-tree-reading/page-tree-reading.module.ts b/editor-extension/page-tree-reading/page-tree-reading.module.ts
 index cfb6c12e1af7d53ea1c76985c103bdc7d16b5fa7..afb33f186370ab5fb2f2ab9813c966cfac1c06f4 100644
 --- a/editor-extension/page-tree-reading/page-tree-reading.module.ts
@@ -141,7 +150,7 @@ index 516fbedc82c3072015799911a2162593b3332685..180d32731fe0b350b3990727c9447050
      {
        invariantKind: "departure",
 diff --git a/editor-extension/work-tree-view/work-tree-view.module.ts b/editor-extension/work-tree-view/work-tree-view.module.ts
-index 03e1cd576e9364870fb9d194c70324d205af329a..6705947c8752168fc67311900654f7d5c96bc9b8 100644
+index 03e1cd576e9364870fb9d194c70324d205af329a..bfccc4191d841efb5958fb35e6f8504a4189c63a 100644
 --- a/editor-extension/work-tree-view/work-tree-view.module.ts
 +++ b/editor-extension/work-tree-view/work-tree-view.module.ts
 @@ -21,11 +21,11 @@ export const workTreeView = {
@@ -167,3 +176,12 @@ index 03e1cd576e9364870fb9d194c70324d205af329a..6705947c8752168fc67311900654f7d5
      },
      {
        invariantKind: "departure",
+@@ -50,7 +50,7 @@ export const workTreeView = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A row opening no document says in its tooltip that it stands for nothing declared.",
++        "A row opening no document says in its tooltip that it represents nothing declared.",
+     },
+     {
+       invariantKind: "absence",
