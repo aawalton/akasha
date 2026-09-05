@@ -15,12 +15,12 @@ export const rynTrainedParser = {
     {
       statement: "The check refuses a statement by the predicate a refused shape holds.",
       workingMemory:
-        "A blocklist: plain is no refused shape matched. The check passes everything today, because it reads the rules the shapes no longer state. Reading the predicates instead refuses 1,313 of the 24,657 statements: lone-quantifier 960, lone-pronoun 186, partitive-quantifier 130, lone-determiner 37. Whether those refusals are sound is unsettled. Most of lone-quantifier's are the word one, and the tags say most of those are the anaphoric one rather than a numeral.",
+        "A blocklist: plain is no refused shape matched. The check passes everything today, because it reads the rules the shapes no longer state. Reading the predicates instead refuses 1,228 of the 24,553 statements: lone-quantifier 955, lone-pronoun 167, partitive-quantifier 128, lone-determiner 36, closing-count 10. One statement two shapes refuse is counted once, so the total is fewer than the sum. Whether those refusals are sound is unsettled.",
     },
     {
       statement: "The shapes akasha refuses are rebuilt on the dependency tree.",
       workingMemory:
-        "Four shapes carried over, each with a predicate and a test: lone-pronoun, lone-determiner, lone-quantifier, partitive-quantifier. Forty-eight admitted shapes went. A census over 24,642 invariant statements finds lone-pronoun matching 186, and no free relative among them: that family is finished. All 186 are pronouns whose noun sits in the same sentence, and whether the shape goes on refusing those is Alan's. The other three shapes have never been measured over the tree.",
+        "Four shapes were carried over and closing-count makes five, each with a predicate and a test. Forty-eight admitted shapes went. Every one is measured over the tree now, and every one answers a seeded control. No invariant holds a free relative. All 167 lone-pronoun matches are pronouns whose noun sits in the same sentence, and whether the shape goes on refusing those is Alan's.",
     },
     {
       statement: "Whether akasha writes in the passive is decided.",
@@ -34,7 +34,7 @@ export const rynTrainedParser = {
     {
       statement: "Every invariant under akasha is written in plain language.",
       workingMemory:
-        "Two families are left. 186 statements match lone-pronoun, every one on a pronoun whose noun sits in the same sentence, and that family waits on Alan. 138 statements run past the 100-character maximum their own property declares, 87 of them by twenty characters or fewer and one at 266; those need splitting rather than rewording, so they land as authored.",
+        "Two families are left. 167 statements match lone-pronoun, every one on a pronoun whose noun sits in the same sentence, and that family waits on Alan. 135 statements run past the 100-character maximum their own property declares. Read rather than counted, they are three jobs: 59 to reword, 47 carrying a reason clause that simply goes, and 29 that are two claims to split.",
     },
   ],
   constraints: [
