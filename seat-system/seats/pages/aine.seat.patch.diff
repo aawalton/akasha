@@ -1,0 +1,13 @@
+diff --git a/changes/change.domain.ts b/changes/change.domain.ts
+index 07a3040f81c8d655862a96dcfcd7281079cf7174..0bb9a45d61aa9e4050e8492406e2a975a5489862 100644
+--- a/changes/change.domain.ts
++++ b/changes/change.domain.ts
+@@ -64,7 +64,7 @@ export const change = {
+         "A command changes every place at once, and by hand you reach only the places you saw.",
+       aids: [
+         "A change you could write as a rule likely has a command.",
+-        "The places you miss break quietly.",
++        "The places standing unfixed break quietly.",
+       ],
+     },
+   ],
