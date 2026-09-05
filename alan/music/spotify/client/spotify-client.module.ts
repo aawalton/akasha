@@ -62,7 +62,8 @@ export const spotifyClient = {
     },
     {
       invariantKind: "departure",
-      statement: "A path opening with a scheme is called as it is rather than under the base URL.",
+      statement:
+        "A path opening with a scheme is called as the path is rather than under the base URL.",
     },
     {
       invariantKind: "departure",
