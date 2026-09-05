@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/supervising/supervisor-claimed-reconcile/supervisor-claimed-reconcile.module.ts b/seat-system/supervising/supervisor-claimed-reconcile/supervisor-claimed-reconcile.module.ts
+index c27e19814d786ef866b77f8fe45ed306f0e4cbb8..682a2f3d01d59f5e9073bd1541411e14db5411f8 100644
+--- a/seat-system/supervising/supervisor-claimed-reconcile/supervisor-claimed-reconcile.module.ts
++++ b/seat-system/supervising/supervisor-claimed-reconcile/supervisor-claimed-reconcile.module.ts
+@@ -17,7 +17,7 @@ export const supervisorClaimedReconcile = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A reconcile that faults does not stop the resume it runs under.",
++      statement: "A reconcile that faults does not stop the resume that reconcile runs under.",
+     },
+   ],
+ } as const satisfies Module
