@@ -10,7 +10,7 @@ export const seatBeside = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every write of what is observed of a seat reaches akasha and nowhere else.",
+      statement: "Every write of a value observed of a seat reaches akasha and nowhere else.",
     },
     {
       invariantKind: "departure",
