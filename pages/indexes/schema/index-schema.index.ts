@@ -1,4 +1,4 @@
-import type { Index } from "../index/index.page-type.ts"
+import type { Index } from "../index.page-type.ts"
 
 export const indexSchema = {
   id: "01a04d79-852a-71ed-b817-7b06efee79d5",

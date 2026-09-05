@@ -1,7 +1,7 @@
 import type { Module } from "@akasha/code-system/module"
 import type { Test } from "@akasha/code-system/module/test"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { IndexName } from "../properties/index-name.text-property.ts"
+import type { IndexName } from "./properties/index-name.text-property.ts"
 
 export type Index = Module & {
   test: Test

@@ -1,4 +1,4 @@
-import type { Index } from "../index/index.page-type.ts"
+import type { Index } from "../index.page-type.ts"
 
 export const indexRelation = {
   id: "01a04a4a-23e9-77f1-b8ce-68661b5a2925",
