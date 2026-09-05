@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/supervising/memory-reaper-legs/memory-reaper-legs.module.ts b/seat-system/supervising/memory-reaper-legs/memory-reaper-legs.module.ts
+index 9c295696be4d2dc6f45af25a55744fbe218053d1..a4586eeb33d77590d459580078941b8882fe19f4 100644
+--- a/seat-system/supervising/memory-reaper-legs/memory-reaper-legs.module.ts
++++ b/seat-system/supervising/memory-reaper-legs/memory-reaper-legs.module.ts
+@@ -26,7 +26,8 @@ export const memoryReaperLegs = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A leg says why it decided as it did whether or not it decided to kill.",
++      statement:
++        "A leg says why that leg decided as that leg did whether or not that leg decided to kill.",
+     },
+   ],
+ } as const satisfies Module
