@@ -1,20 +1,3 @@
-diff --git a/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff b/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff
-index 504736c9b3ae9e943c053697049ed8929f21d3ab..5a2ed18d8776b9cb70a5b3ab46b35864d9adb2ec 100644
---- a/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aranya-a66503da368bca29f.subagent.patch.diff
-@@ -19,8 +19,12 @@ index bfb85951176f663b1c1a2203951ef38fd25ab1ac..1a1ee20cfd9fd437ca531c709be19984
-    image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
-    replicas: 1,
-    containerPort: 3000,
-+<<<<<<< what this change would leave
-+-  manifestCode: "temper/temper-web/manifests/temper-web-manifests.manifest.code.ts",
-+=======
- -  manifestCode: "temper/temper-web/temper-web.cluster-service.code.attachment.ts",
- +<<<<<<< what this change would leave
-+>>>>>>> what HEAD holds
- +  manifestSlug: "temper-web-manifests",
- +=======
- +  manifestCode: "temper/temper-web/manifests/temper-web-manifests.manifest.code.ts",
 diff --git a/service-system/cluster-services/pages/temper-web.cluster-service.ts b/service-system/cluster-services/pages/temper-web.cluster-service.ts
 index bfb85951176f663b1c1a2203951ef38fd25ab1ac..70495becbcda075a5502dcb4e1a6c585c08bdd85 100644
 --- a/service-system/cluster-services/pages/temper-web.cluster-service.ts
