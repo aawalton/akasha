@@ -4,6 +4,7 @@ import type { ManifestCode } from "./properties/cluster-service-manifest-code.te
 import type { ClusterServiceSchedule } from "./properties/cluster-service-schedule.text-property.ts"
 import type { ContainerPort } from "./properties/container-port.number-property.ts"
 import type { Image } from "./properties/image.text-property.ts"
+import type { ManifestSlug } from "./properties/manifest-slug.relation-property.ts"
 import type { Namespace } from "./properties/namespace.text-property.ts"
 import type { Replicas } from "./properties/replicas.number-property.ts"
 import type { ResourceKind } from "./properties/resource-kind.text-property.ts"
@@ -17,7 +18,8 @@ export type ClusterService = Service & {
   replicas?: Replicas
   containerPort?: ContainerPort
   schedule?: ClusterServiceSchedule
-  manifestCode: ManifestCode
+  manifestCode?: ManifestCode
+  manifestSlug?: ManifestSlug
 }
 
 export const clusterService = {
@@ -98,7 +100,8 @@ export const clusterService = {
     { pagePropertySlug: "replicas", required: false, many: false },
     { pagePropertySlug: "container-port", required: false, many: false },
     { pagePropertySlug: "cluster-service-schedule", required: false, many: false },
-    { pagePropertySlug: "cluster-service-manifest-code", required: true, many: false },
+    { pagePropertySlug: "cluster-service-manifest-code", required: false, many: false },
+    { pagePropertySlug: "manifest-slug", required: false, many: false },
   ],
   invariants: [
     {
@@ -139,6 +142,11 @@ export const clusterService = {
     {
       invariantKind: "gap",
       statement: "The manifests a cluster service is applied as are emitted from its own page.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement:
+        "A cluster service names the file emitting its manifests until that service names a manifest page.",
     },
   ],
 } as const satisfies PageType
