@@ -1,0 +1,177 @@
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
+index 2bb55c3c6d8f2dfd64c78de4f4a5005dc48824af..25b7614cdae0a836cb10c233f2fad31315aec395 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
+@@ -2,9 +2,11 @@ import type { Domain } from "@akasha/domains/domain"
+ import type { PageType } from "@akasha/pages-system/page-type"
+ import type { CooldownMilliseconds } from "./properties/cooldown-milliseconds.number-property.ts"
+ import type { State } from "./properties/state.file-property.ts"
++import type { StateType } from "./properties/state-type.file-property.ts"
+ 
+ export type CodeEditorDataInterface = Domain & {
+   cooldownMilliseconds: CooldownMilliseconds
++  stateType: StateType
+   state?: State
+ }
+ 
+@@ -17,6 +19,7 @@ export const codeEditorDataInterface = {
+   extendsSlug: ["page-type/domain"],
+   partSlugs: [
+     "file-property/state",
++    "file-property/state-type",
+     "number-property/cooldown-milliseconds",
+     "code-editor-data-interface/agent-colors",
+     "code-editor-data-interface/agent-tree",
+@@ -28,12 +31,13 @@ export const codeEditorDataInterface = {
+   ],
+   properties: [
+     { pagePropertySlug: "cooldown-milliseconds", required: true, many: false },
++    { pagePropertySlug: "state-type", required: true, many: false, default: "ts" },
+     {
+       pagePropertySlug: "state",
+       required: false,
+       many: false,
+       uncommitted: true,
+-      default: "json",
++      default: "jsonl",
+     },
+   ],
+   invariants: [
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.ts
+index 07ddd2e558442860b61faf6db46eb39f9aa73b5a..0343c4343e8a78c7d84d07b16e3b3b2a8dba4e39 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.ts
+@@ -5,5 +5,6 @@ export const agentColors = {
+   pageTypeSlug: "code-editor-data-interface",
+   slug: "agent-colors",
+   definition: "the color each agent is drawn in",
++  stateType: "ts",
+   cooldownMilliseconds: 100,
+ } as const satisfies CodeEditorDataInterface
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-tree.code-editor-data-interface.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-tree.code-editor-data-interface.ts
+index 48f7aad24ef6958501c081ab04baa2e859b427f1..0b12bfc2652e755b99225698aed091ffca54faff 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-tree.code-editor-data-interface.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-tree.code-editor-data-interface.ts
+@@ -5,5 +5,6 @@ export const agentTree = {
+   pageTypeSlug: "code-editor-data-interface",
+   slug: "agent-tree",
+   definition: "the rows the agents panel draws",
++  stateType: "ts",
+   cooldownMilliseconds: 1000,
+ } as const satisfies CodeEditorDataInterface
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/domain-tree.code-editor-data-interface.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/domain-tree.code-editor-data-interface.ts
+index 5370f3f8a1e21c760b605504525bb902b8e2b421..37a961d7cc39c5b0b1bcf54d403c6d35a8f351e1 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/pages/domain-tree.code-editor-data-interface.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/domain-tree.code-editor-data-interface.ts
+@@ -5,5 +5,6 @@ export const domainTree = {
+   pageTypeSlug: "code-editor-data-interface",
+   slug: "domain-tree",
+   definition: "the rows the domains panel draws",
++  stateType: "ts",
+   cooldownMilliseconds: 1000,
+ } as const satisfies CodeEditorDataInterface
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/page-tree.code-editor-data-interface.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/page-tree.code-editor-data-interface.ts
+index 0b4aee77b681a42df43013d035ef2e59b360dbf5..d9a1c7d397268f7567602bcbedb167ed6bd918ff 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/pages/page-tree.code-editor-data-interface.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/page-tree.code-editor-data-interface.ts
+@@ -5,5 +5,6 @@ export const pageTree = {
+   pageTypeSlug: "code-editor-data-interface",
+   slug: "page-tree",
+   definition: "the rows the pages panel draws",
++  stateType: "ts",
+   cooldownMilliseconds: 1000,
+ } as const satisfies CodeEditorDataInterface
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/status-bar.code-editor-data-interface.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/status-bar.code-editor-data-interface.ts
+index 3532675cf38d8433e89308749126e70d55c60af4..b59b69dd658af2a71eaac35c354745afbd256b6a 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/pages/status-bar.code-editor-data-interface.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/status-bar.code-editor-data-interface.ts
+@@ -5,5 +5,6 @@ export const statusBar = {
+   pageTypeSlug: "code-editor-data-interface",
+   slug: "status-bar",
+   definition: "the slots the status bar draws",
++  stateType: "ts",
+   cooldownMilliseconds: 1000,
+ } as const satisfies CodeEditorDataInterface
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/terminal-tabs.code-editor-data-interface.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/terminal-tabs.code-editor-data-interface.ts
+index 9fd731fe118c37253289ae1deedc6f959e7f91db..69f25e8abd8a1dc52c384b986b3e89b6b7718003 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/pages/terminal-tabs.code-editor-data-interface.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/terminal-tabs.code-editor-data-interface.ts
+@@ -5,5 +5,6 @@ export const terminalTabs = {
+   pageTypeSlug: "code-editor-data-interface",
+   slug: "terminal-tabs",
+   definition: "the name and color each terminal tab draws",
++  stateType: "ts",
+   cooldownMilliseconds: 1000,
+ } as const satisfies CodeEditorDataInterface
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/work-tree.code-editor-data-interface.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/work-tree.code-editor-data-interface.ts
+index ddac8ec20aa8f0c6ef3976d071ec12b392134bcf..ce1dd85b0b6f76d401d00012718e78f28a02d776 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/pages/work-tree.code-editor-data-interface.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/work-tree.code-editor-data-interface.ts
+@@ -5,5 +5,6 @@ export const workTree = {
+   pageTypeSlug: "code-editor-data-interface",
+   slug: "work-tree",
+   definition: "the rows the work panel draws",
++  stateType: "ts",
+   cooldownMilliseconds: 1000,
+ } as const satisfies CodeEditorDataInterface
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/properties/state-type.file-property.ts b/alan/harness/code-editor/code-editor-data-interfaces/properties/state-type.file-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4507573e85e50a904b4819c930de1d940bde1fd2
+--- /dev/null
++++ b/alan/harness/code-editor/code-editor-data-interfaces/properties/state-type.file-property.ts
+@@ -0,0 +1,29 @@
++import type { FileProperty } from "@akasha/pages-system/file-property"
++
++export type StateType = "ts"
++
++export const stateType = {
++  id: "01a07245-dce5-7a6b-b280-8d4dd7179a71",
++  pageTypeSlug: "file-property",
++  slug: "state-type",
++  propertySlug: "state-type",
++  definition: "the TypeScript type the state beside it is written and read as",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "This file is committed where the state it types is not.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The service writing the state is judged against this type.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The editor takes this type without loading the file the editor reads.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "One type names the whole of one line rather than one row of it.",
++    },
++  ],
++} as const satisfies FileProperty
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts b/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts
+index 9b5e32e5b8e6771ca1cbb057541d094b46d2d024..42cb50ab5e845e6d475630a448034504aa91854b 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts
+@@ -1,6 +1,6 @@
+ import type { FileProperty } from "@akasha/pages-system/file-property"
+ 
+-export type State = "json"
++export type State = "jsonl"
+ 
+ export const state = {
+   id: "01a07235-8d04-7c15-8c68-fc8181d908e4",
+@@ -28,5 +28,13 @@ export const state = {
+       statement:
+         "A file holding nothing yet is the editor's cue to draw nothing rather than to wait.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "One line holds the whole of what a part of the editor draws.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A write replaces that line rather than adding one after it.",
++    },
+   ],
+ } as const satisfies FileProperty
