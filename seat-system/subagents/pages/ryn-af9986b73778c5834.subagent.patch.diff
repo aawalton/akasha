@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
-index c535fa6cc31e1ed491e208359b47be8e34bf1d40..1767ba686efcda4a0041670545610aabdccb9c85 100644
+index c535fa6cc31e1ed491e208359b47be8e34bf1d40..347f7f705f973e03d7490d8600d969761c5a6f2a 100644
 --- a/command-system/landing/landing.module.ts
 +++ b/command-system/landing/landing.module.ts
 @@ -52,11 +52,11 @@ export const landing = {
@@ -74,6 +74,15 @@ index c535fa6cc31e1ed491e208359b47be8e34bf1d40..1767ba686efcda4a0041670545610aab
        invariantKind: "departure",
 -      statement: "One rule answers whether a landing and a draft are held to what was read.",
 +      statement: "One rule answers whether a landing and a draft are held to the bodies read.",
+     },
+     {
+       invariantKind: "departure",
+@@ -266,7 +267,7 @@ export const landing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A draft says what the change drafted into the patch runs.",
++      statement: "A draft says which checks and warrants the change drafted into the patch runs.",
      },
      {
        invariantKind: "departure",
