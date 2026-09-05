@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/tests-pass/tests-pass.code-check.ts b/checks/code-checks/pages/tests-pass/tests-pass.code-check.ts
+index 07931c636ebdabb048bd7e463c8df535e16ca12a..b918f686a54ed0ad3559b344792aa1f8a4f55cdd 100644
+--- a/checks/code-checks/pages/tests-pass/tests-pass.code-check.ts
++++ b/checks/code-checks/pages/tests-pass/tests-pass.code-check.ts
+@@ -24,7 +24,7 @@ export const testsPass = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The tests run in a world written out of what the change proposes rather than in the working tree.",
++        "The tests run in a world written out of the change's bodies rather than in the working tree.",
+     },
+     {
+       invariantKind: "departure",
