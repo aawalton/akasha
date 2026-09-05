@@ -39,7 +39,7 @@ export const deviceSecret = {
     },
     {
       invariantKind: "departure",
-      statement: "A device secret opens what that account opens and nothing more.",
+      statement: "A device secret opens everything that account opens and nothing more.",
     },
     {
       invariantKind: "departure",
