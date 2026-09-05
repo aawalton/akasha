@@ -158,3 +158,19 @@ index 3bf111acf7dec2dab3c39b219cefbd4113513634..91921bc4d8f9f827ab5d1a5707f88c12
      {
        invariantKind: "absence",
        statement: "Nothing here caches a reading or decides when a reading is taken.",
+diff --git a/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts b/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts
+index b1d2e334a8178e56317939323ee0595fdfe76a05..353bb49422cf1ffb52e868fe0959812a1b7b411f 100644
+--- a/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts
++++ b/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts
+@@ -57,10 +57,7 @@ export const upkeepCapacity = {
+       invariantKind: "departure",
+       statement: "That bound is the one the reach taking the reading carries.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A store that refuses is a fault rather than a reading of nothing.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here caches a reading or decides when a reading is taken.",
