@@ -1,4 +1,3 @@
-import { existsSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join, resolve } from "node:path"
 import { indexNamed, indexThere, listedAt, slugsOfType, typeSlugById } from "@akasha/indexes"
@@ -68,7 +67,7 @@ const UNDER = "-"
 
 export const ROOTED = "index"
 
-export const ROOTED_AT = "commands/index/index.command.ts"
+const REPAIR_AT = "commands/index/index.command.code.ts"
 
 const loadFrom = createRequire(import.meta.url)
 
@@ -122,8 +121,7 @@ function widest(said: readonly string[]): number {
 function pageAt(root: string, slug: string): string | null {
   const said = commandSlugIn(root)
   const found = said === null ? [] : listedAt(root, said, slug)
-  if (found.length === 1) return found[0]?.path ?? null
-  return slug === ROOTED && existsSync(join(root, ROOTED_AT)) ? ROOTED_AT : null
+  return found.length === 1 ? (found[0]?.path ?? null) : null
 }
 
 function pageIn(root: string, path: string, slug: string): Record<string, unknown> | null {
@@ -203,9 +201,20 @@ function refusing(said: string): Answer {
   return { report: [], refusals: [said], code: 1 }
 }
 
+export function rebuiltBy(root: string): string {
+  return (
+    `bun -e 'const a = (await import("${join(root, REPAIR_AT)}"))` +
+    `.index(["refresh"], { root: "${root}" }); ` +
+    `console.log([...a.report, ...a.refusals].join("\\n"))'`
+  )
+}
+
 export function unreadIn(root: string, calledAs: string): string | null {
   const at = indexNamed()
-  const said = `\`${calledAs} ${ROOTED}\` is found without the index and says what it can do.`
+  const said =
+    `Every command is found through the index, \`${calledAs} ${ROOTED}\` among them, ` +
+    `so none is found without one. This builds the index again without reading it:\n  ` +
+    `${rebuiltBy(root)}`
   if (!indexThere(root)) {
     return `No index stands at \`${at}\`, so no command was read. ${said}`
   }
@@ -266,14 +275,8 @@ async function answeredBy(
   })
 }
 
-export function everyIn(root: string): readonly string[] {
-  const held = commandsIn(root)
-  if (held.includes(ROOTED) || !existsSync(join(root, ROOTED_AT))) return held
-  return [...held, ROOTED].sort()
-}
-
 function helping(root: string, outside: Outside): Answer {
-  const every = everyIn(root)
+  const every = commandsIn(root)
   const unread = unreadIn(root, outside.calledAs)
   const report: string[] = []
   if (every.length > 0) {
@@ -323,9 +326,8 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
   const root = resolve(outside.root)
   const named = argv[0]
   if (named === HELP || named === HELP_SHORT) return helping(root, outside)
-  if (named === ROOTED) return answeredBy(named, ROOTED_AT, root, argv.slice(1), outside)
   const carried = (saying: (unread: string | null) => string): Answer => {
-    const every = everyIn(root)
+    const every = commandsIn(root)
     const unread = unreadIn(root, outside.calledAs)
     const held = [saying(unread)]
     if (unread !== null) held.push(unread)

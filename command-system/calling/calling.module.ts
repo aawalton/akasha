@@ -7,6 +7,7 @@ export const calling = {
   definition: "a name from the command line answered by the command that carries it",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -20,12 +21,11 @@ export const calling = {
     {
       invariantKind: "departure",
       statement:
-        "The command that repairs the index is found by its path rather than through the index.",
+        "The command that repairs the index is found through the index as every other command is.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A command found by its path is listed among the commands only when its page stands.",
+      statement: "A call reaching no index is told the run that builds one without reading one.",
     },
     {
       invariantKind: "departure",
