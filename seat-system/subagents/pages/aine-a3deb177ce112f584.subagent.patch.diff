@@ -1,0 +1,82 @@
+diff --git a/command-system/asking/asking.module.test.ts b/command-system/asking/asking.module.test.ts
+index 341ff687bbf17b39865425b473beeb08c3079905..aa693ad86d2e2e70b7bed559e04f0eddbcd107d8 100644
+--- a/command-system/asking/asking.module.test.ts
++++ b/command-system/asking/asking.module.test.ts
+@@ -42,7 +42,7 @@ import {
+ 
+ afterAll(scratch.sweep)
+ 
+-test("a report that could not be built leaves the landing standing, and says so", async () => {
++test("a report that could not be built leaves the landing in place, and says so", async () => {
+   const root = repoWith()
+   const was = headOf(root)
+   const said = await landingAsked(givenIn(root), asking({}))
+diff --git a/command-system/calling/calling.module.test.ts b/command-system/calling/calling.module.test.ts
+index d9569af5ebc5ec3b3fac78b21fab807bc8198d7e..34845be26f60b7795c23fa72dde84c201249958d 100644
+--- a/command-system/calling/calling.module.test.ts
++++ b/command-system/calling/calling.module.test.ts
+@@ -177,7 +177,7 @@ test("a command page throwing what is no Error is still refused with what it sai
+   expect(said.refusals[0]).toContain("could not be loaded — the value was never set")
+ })
+ 
+-test("a command answering later is waited for rather than handed back as it stands", async () => {
++test("a command answering later is waited for rather than handed back as it is", async () => {
+   const root = rootWith([{ slug: "held", body: ANSWERS_LATER }])
+   const said = await calling(["held", "one"], { ...OUTSIDE, root })
+   expect(said.code).toBe(0)
+diff --git a/command-system/change-freshness/change-freshness.module.test.ts b/command-system/change-freshness/change-freshness.module.test.ts
+index fcd3cf932790e7ce0d14de2a5172db5246ba80e7..079cf3cbdb462644acf3f6d14e3a665334e978cf 100644
+--- a/command-system/change-freshness/change-freshness.module.test.ts
++++ b/command-system/change-freshness/change-freshness.module.test.ts
+@@ -21,7 +21,7 @@ const AT = "akasha/a.domain.ts"
+ const MOVED = "what is on disk is not the body you read"
+ 
+ function repoWith(named: Readonly<Record<string, string>>): string {
+-  const root = scratch.rootFor("akasha-standing-")
++  const root = scratch.rootFor("akasha-freshness-")
+   git(root, ["init", "--quiet"])
+   git(root, ["config", "user.email", "held@nowhere"])
+   git(root, ["config", "user.name", "Held"])
+diff --git a/command-system/cli/cli.module.test.ts b/command-system/cli/cli.module.test.ts
+index 8d13555eb54c4d8057ae05f08b4dae16f1fd1e91..120890e9604a339e793dd37cfda985a59ce20dae 100644
+--- a/command-system/cli/cli.module.test.ts
++++ b/command-system/cli/cli.module.test.ts
+@@ -18,20 +18,20 @@ const scratch = scratchWorld()
+ 
+ afterAll(scratch.sweep)
+ 
+-const STANDING = scratch.rootFor("akasha-cli-")
++const ROOT_AT = scratch.rootFor("akasha-cli-")
+ 
+-writeFileSync(join(STANDING, MARKED), "")
++writeFileSync(join(ROOT_AT, MARKED), "")
+ 
+-const AT = join(STANDING, "command-system/cli.module.code.ts")
++const AT = join(ROOT_AT, "command-system/cli.module.code.ts")
+ 
+-test("a stated root wins over where the dispatcher stands", () => {
++test("a stated root wins over where the dispatcher is", () => {
+   const said = outsideOf({ AKASHA_ROOT: "/elsewhere" }, AT, "/nowhere")
+   expect(said.root).toBe("/elsewhere")
+ })
+ 
+ test("an empty stated root is treated as none stated", () => {
+   const said = outsideOf({ AKASHA_ROOT: "" }, AT, "/nowhere")
+-  expect(said.root).toBe(STANDING)
++  expect(said.root).toBe(ROOT_AT)
+ })
+ 
+ test("a commit is authored as Claude when no agent and no writer are stated", () => {
+diff --git a/command-system/differing/differing.module.test.ts b/command-system/differing/differing.module.test.ts
+index f9e190ae2210243b3ed3b81e123727812cecf618..2bf8a79a04e5ce924f07485fea417331c888bbdd 100644
+--- a/command-system/differing/differing.module.test.ts
++++ b/command-system/differing/differing.module.test.ts
+@@ -65,7 +65,7 @@ test("no repository holds anything, so nothing is found there", () => {
+   expect(bodyRead(root, blobIdOf(bodyOf("one\n")))).toBeNull()
+ })
+ 
+-test("a difference names what was read and what stands now, and what moved between them", () => {
++test("a difference names what was read and what is there now, and what moved between them", () => {
+   const said = differenceOf(bodyOf("one\ntwo\nthree\n"), bodyOf("one\nTWO\nthree\n"))
+   expect(said).toBe(
+     [
