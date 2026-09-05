@@ -137,6 +137,21 @@ index 1a431298bf026798900e0414ba8154748c73f24a..59936f69a0e963dcdf4f3efba2a24958
      {
        invariantKind: "departure",
        statement: "A filter that reads the same as the one held redraws nothing.",
+diff --git a/editor-extension/status-bar-panel/status-bar-panel.module.ts b/editor-extension/status-bar-panel/status-bar-panel.module.ts
+index ff03e912998f9c7ea8de33d9f2ec2ef0baa8d6a7..0dbdc21b7dd15d8f5e2b122c6c15ecb1380e2e70 100644
+--- a/editor-extension/status-bar-panel/status-bar-panel.module.ts
++++ b/editor-extension/status-bar-panel/status-bar-panel.module.ts
+@@ -51,10 +51,6 @@ export const statusBarPanel = {
+       invariantKind: "departure",
+       statement: "A drawing says which readings the file carried nothing for.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "Every drawing's outcome is recorded as an observation.",
+-    },
+ 
+     {
+       invariantKind: "absence",
 diff --git a/editor-extension/work-tree-panel/work-tree-panel.module.ts b/editor-extension/work-tree-panel/work-tree-panel.module.ts
 index cfe03623fef7fe3804ab4eb4df1155271fcfa57f..45cf3d5e70de166d414d8bac1eb2e19d402fcba8 100644
 --- a/editor-extension/work-tree-panel/work-tree-panel.module.ts
