@@ -11,6 +11,19 @@ index 8696740b4466fd754afbb228423d22ca5af23bf0..9e72600139eaba8592d6471aaa5bfa60
  
  export const READOUT_PAGE =
    "readout-system/readouts/pages/upkeep-activity/upkeep-activity.readout.ts"
+diff --git a/alan/harness/inboxes/reading/inbox-reading.module.code.ts b/alan/harness/inboxes/reading/inbox-reading.module.code.ts
+index dde7c0d3c9343940e4cf9baa46d67caae715f4a5..2dfe3e41c9d0f93e19df137e49f6d35979586b3d 100644
+--- a/alan/harness/inboxes/reading/inbox-reading.module.code.ts
++++ b/alan/harness/inboxes/reading/inbox-reading.module.code.ts
+@@ -6,7 +6,7 @@ import { tasksIn } from "@akasha/readout-system/inboxes-tasks"
+ import { keepReading } from "@akasha/readout-system/readout-reading"
+ import { statedAt } from "@akasha/readout-system/readout-tier"
+ import { wakeDayOf } from "../../../tracking/daily/day-opening/day-opening.module.code.ts"
+-import { askDayByDate } from "../../../tracking/daily/day-place/day-place.module.code.ts"
++import { askDayByDate } from "../../../tracking/daily/day-reading/day-reading.module.code.ts"
+ 
+ const READOUTS = "readout-system/readouts/pages"
+ 
 diff --git a/alan/harness/safety/reading/safety-reading.module.code.ts b/alan/harness/safety/reading/safety-reading.module.code.ts
 index 0b3d8a5fca0ccf0fee742b48006be63810cace5a..6d3f0ec1358ea6b7b54cc5d47155168e7a619afd 100644
 --- a/alan/harness/safety/reading/safety-reading.module.code.ts
