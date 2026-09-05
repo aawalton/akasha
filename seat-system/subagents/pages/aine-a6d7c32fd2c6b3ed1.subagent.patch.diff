@@ -29,3 +29,26 @@ index 51e639085bc67c51a88460115e9b83025024243d..9108d7c20cc5e96fcaf51f69c93afc03
      `  slug: "${slug}",`,
      `  title: ${JSON.stringify(name)},`,
      `  startsOn: "${covered}-01",`,
+diff --git a/pages/commands/icon-index-rendering/icon-index-rendering.module.code.ts b/pages/commands/icon-index-rendering/icon-index-rendering.module.code.ts
+index ef41e68c45d38b77af8b10fabb394def99f28c8e..3801fc7c63d6149ef7573195698e70c311aa7c7a 100644
+--- a/pages/commands/icon-index-rendering/icon-index-rendering.module.code.ts
++++ b/pages/commands/icon-index-rendering/icon-index-rendering.module.code.ts
+@@ -1,5 +1,9 @@
+ import { existsSync, readdirSync, readFileSync } from "node:fs"
+ import { join, resolve } from "node:path"
++import { typeSlugOf } from "@akasha/indexes"
++
++/** The module page type, reached by the id it keeps rather than by the slug it answers to. */
++const MODULE_TYPE = "01a04a20-6e04-7b99-81a0-0efe0ad0a02a"
+ 
+ export const GENERATED_AT = "pages/core/generated"
+ 
+@@ -138,7 +142,7 @@ export function pageBody(root: string, slug: string, definition: string): string
+     "",
+     `export const ${kebabToCamel(slug)} = {`,
+     `  id: ${JSON.stringify(idFor(root, slug))},`,
+-    '  pageTypeSlug: "module",',
++    `  pageTypeSlug: ${JSON.stringify(typeSlugOf(root, MODULE_TYPE))},`,
+     `  slug: ${JSON.stringify(slug)},`,
+     `  definition: ${JSON.stringify(definition)},`,
+     '  code: "ts",',
