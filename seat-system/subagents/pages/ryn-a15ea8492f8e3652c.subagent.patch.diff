@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/move/repointing/move-repointing.module.ts b/commands/move/repointing/move-repointing.module.ts
+index c67a16e1495ab80f02e598b4fb88afb6b513241a..4aa64e26aebde7861fe11775bf0b506eee2244a0 100644
+--- a/commands/move/repointing/move-repointing.module.ts
++++ b/commands/move/repointing/move-repointing.module.ts
+@@ -15,7 +15,7 @@ export const moveRepointing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A name is written back quoted matching the way the body spells it.",
++      statement: "A name is written back quoted matching the way the body spells that name.",
+     },
+     {
+       invariantKind: "departure",
