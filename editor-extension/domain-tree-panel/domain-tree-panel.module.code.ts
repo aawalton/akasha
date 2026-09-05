@@ -1,13 +1,11 @@
-import { relative } from "node:path"
 import * as vscode from "vscode"
 import {
   followState,
   readState,
   stateAt,
 } from "../../alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts"
-import { countNodes, type DomainNode } from "../champions-tree/champions-tree.module.code.ts"
+import { countNodes } from "../champions-tree/champions-tree.module.code.ts"
 import { REFRESH_COMMAND, VIEW_ID } from "../domain-tree-ids/domain-tree-ids.module.code.ts"
-import type { DomainTree } from "../domain-tree-reading/domain-tree-reading.module.code.ts"
 import { createDomainTree } from "../domain-tree-view/domain-tree-view.module.code.ts"
 import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
 import { recordObservation } from "../observation-store/observation-store.module.code.ts"
@@ -15,28 +13,16 @@ import { recordObservation } from "../observation-store/observation-store.module
 const FEATURE = "domain-tree"
 const SLUG = "domain-tree"
 
-// The file spells a row the way every state file spells one, and the panel spells it another way.
-// The document is the one field that differs in kind rather than in name: the file carries the
-// whole path, the panel carries it against the repository, and `documentPath` puts them back
-// together. Taking the repository away from the path here is what makes that join exact.
-function asNode(row: DomainTreeRow, root: string): DomainNode {
-  return {
-    slug: row.key,
-    relPath: row.at === null ? "" : relative(root, row.at),
-    persona: row.persona,
-    position: row.position,
-    children: row.children.map((child) => asNode(child, root)),
-  }
-}
-
 let output: vscode.OutputChannel
 
 export async function activate(context: vscode.ExtensionContext): Promise<undefined> {
   output = vscode.window.createOutputChannel("Ops: Domain Tree")
   context.subscriptions.push(output)
 
-  const tree = createDomainTree()
-  const view = vscode.window.createTreeView<DomainNode>(VIEW_ID, {
+  // THE FILE'S OWN ROW IS WHAT IS DRAWN. The row already names its document by a whole path, so
+  // there is nothing between the file and the view to spell it a second way.
+  const tree = createDomainTree(akashaRoot())
+  const view = vscode.window.createTreeView<DomainTreeRow>(VIEW_ID, {
     treeDataProvider: tree.provider,
     showCollapseAll: true,
     showExpandAll: true,
@@ -66,15 +52,9 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   let owed = false
 
   const draw = (state: DomainTreeState, trigger: string): undefined => {
-    const root = akashaRoot()
     try {
-      const next: DomainTree = {
-        repo: root,
-        roots: state.roots.map((row) => asNode(row, root)),
-        unreached: state.unreached,
-      }
-      tree.replace(next)
-      total = countNodes(next.roots)
+      tree.replace(state.roots)
+      total = countNodes(state.roots)
       describe()
       view.badge = {
         value: total,
@@ -82,22 +62,22 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
       }
       view.message = undefined
       output.appendLine(
-        `[${trigger}] ${total} domain(s) under ${next.roots.length} root(s)` +
-          (next.unreached.length === 0
+        `[${trigger}] ${total} domain(s) under ${state.roots.length} root(s)` +
+          (state.unreached.length === 0
             ? ""
-            : `; ${next.unreached.length} reached by no root: ${next.unreached.join(", ")}`)
+            : `; ${state.unreached.length} reached by no root: ${state.unreached.join(", ")}`)
       )
       recordObservation(FEATURE, {
         outcome: "ok",
         counts: {
           domains: total,
-          roots: next.roots.length,
-          reachedByNoRoot: next.unreached.length,
+          roots: state.roots.length,
+          reachedByNoRoot: state.unreached.length,
         },
       })
-      if (next.unreached.length > 0) {
+      if (state.unreached.length > 0) {
         void vscode.window.showWarningMessage(
-          `Domains: ${next.unreached.length} domain(s) hang under no root and are not shown. ` +
+          `Domains: ${state.unreached.length} domain(s) hang under no root and are not shown. ` +
             "See the Ops: Domain Tree output."
         )
       }

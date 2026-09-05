@@ -54,6 +54,14 @@ export const workTreeView = {
         "A row opening no document says in its tooltip that the row represents nothing declared.",
     },
     {
+      invariantKind: "departure",
+      statement: "A row opens the whole path that row carries rather than one composed here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tooltip says a row's path against the checkout rather than whole.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads the harness.",
     },

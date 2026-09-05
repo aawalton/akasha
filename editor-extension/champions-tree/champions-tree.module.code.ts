@@ -75,7 +75,12 @@ export function championTree(rows: readonly DomainRow[]): ChampionTree {
   return { roots, unreached }
 }
 
-export function countNodes(nodes: readonly DomainNode[]): number {
+// A COUNT ASKS FOR CHILDREN AND FOR NOTHING ELSE. The domains tree is counted both as this
+// module builds it and as the panel's own row carries it, and those two spell every other field
+// differently.
+type Nested = { readonly children: readonly Nested[] }
+
+export function countNodes(nodes: readonly Nested[]): number {
   let total = 0
   for (const node of nodes) total += 1 + countNodes(node.children)
   return total

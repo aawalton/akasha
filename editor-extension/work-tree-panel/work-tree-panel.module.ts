@@ -25,11 +25,7 @@ export const workTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A row is spelled for the panel from the row the file carries.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A row's document is carried against the repository the panel was given.",
+      statement: "The rows the file carries are drawn as they are rather than spelled again.",
     },
     {
       invariantKind: "departure",

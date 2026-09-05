@@ -17,7 +17,7 @@ export const domainTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row is matched against its slug and its persona.",
+      statement: "A row is matched against its label and its persona.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const domainTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row a sequence placed carries that place ahead of its slug.",
+      statement: "A row a sequence placed carries that place ahead of its label.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +42,15 @@ export const domainTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row opens the document that row's path names.",
+      statement: "A row opens the whole path that row carries rather than one composed here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row naming no document opens nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tooltip says a row's path against the checkout rather than whole.",
     },
     {
       invariantKind: "departure",

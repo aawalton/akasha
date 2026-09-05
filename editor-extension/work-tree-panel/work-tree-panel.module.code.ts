@@ -1,4 +1,3 @@
-import { relative } from "node:path"
 import * as vscode from "vscode"
 import {
   followState,
@@ -9,7 +8,6 @@ import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
 import { recordObservation } from "../observation-store/observation-store.module.code.ts"
 import { REFRESH_COMMAND, VIEW_ID } from "../work-tree-ids/work-tree-ids.module.code.ts"
 import { countRows, workKeys } from "../work-tree-reading/work-tree-reading.module.code.ts"
-import type { WorkNode, WorkTree } from "../work-tree-rows/work-tree-rows.module.code.ts"
 import {
   createWorkDecorationProvider,
   createWorkTree,
@@ -18,34 +16,17 @@ import {
 const FEATURE = "work-tree"
 const SLUG = "work-tree"
 
-// The file spells a row the way every state file spells one, and the panel spells it another way.
-// The document is the one field that differs in kind rather than in name: the file carries the
-// whole path, the panel carries it against the repository, and `documentPath` puts them back
-// together. Taking the repository away from the path here is what makes that join exact.
-//
-// A color is carried on as the name it is. The decoration provider puts that name in a uri path
-// and matches it against the palette, so a color turned into something drawable here would fail
-// that match and leave the row uncolored.
-function asNode(row: WorkTreeRow, root: string): WorkNode {
-  return {
-    key: row.key,
-    label: row.label,
-    relPath: row.at === null ? null : relative(root, row.at),
-    detail: row.detail,
-    note: row.note,
-    color: row.color,
-    children: row.children.map((child) => asNode(child, root)),
-  }
-}
-
 let output: vscode.OutputChannel
 
 export async function activate(context: vscode.ExtensionContext): Promise<undefined> {
   output = vscode.window.createOutputChannel("Ops: Work Tree")
   context.subscriptions.push(output)
 
-  const tree = createWorkTree()
-  const view = vscode.window.createTreeView<WorkNode>(VIEW_ID, {
+  // THE FILE'S OWN ROW IS WHAT IS DRAWN. The row already names its document by a whole path and
+  // carries its color as the name the decoration matches, so nothing between the file and the view
+  // spells either a second way.
+  const tree = createWorkTree(akashaRoot())
+  const view = vscode.window.createTreeView<WorkTreeRow>(VIEW_ID, {
     treeDataProvider: tree.provider,
     showCollapseAll: true,
     showExpandAll: true,
@@ -64,16 +45,14 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   }
 
   const draw = (held: WorkTreeState, trigger: string): undefined => {
-    const root = akashaRoot()
     try {
-      const next: WorkTree = { repo: root, roots: held.roots.map((row) => asNode(row, root)) }
-      tree.replace(next)
-      const rows = countRows(next.roots)
+      tree.replace(held.roots)
+      const rows = countRows(held.roots)
       total = rows
       describe()
       view.badge = { value: rows, tooltip: rows === 1 ? "1 row" : `${rows} rows` }
       view.message = undefined
-      const keys = workKeys(next.roots)
+      const keys = workKeys(held.roots)
       const duplicated = keys.filter((key, at) => keys.indexOf(key) !== at)
       output.appendLine(`[${trigger}] ${rows} initiative(s)`)
       recordObservation(FEATURE, {
