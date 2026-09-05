@@ -40,7 +40,7 @@ export const talosApply = {
     {
       invariantKind: "departure",
       statement:
-        "A cluster whose secrets are not there refuses the apply rather than writing them.",
+        "A cluster whose secrets are not there refuses the apply rather than writing those secrets.",
     },
     {
       invariantKind: "departure",
