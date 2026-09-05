@@ -1,0 +1,15 @@
+diff --git a/infrastructure/voice-inference/voice-infer/voice-infer.manifest.ts b/infrastructure/voice-inference/voice-infer/voice-infer.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9478feb925b4108709e10834c79cc88f2be513c0
+--- /dev/null
++++ b/infrastructure/voice-inference/voice-infer/voice-infer.manifest.ts
+@@ -0,0 +1,9 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const voiceInfer = {
++  id: "01a0736f-e7a5-75ee-bda8-4298c8084c5b",
++  pageTypeSlug: "manifest",
++  slug: "voice-infer",
++  definition: "the speech workload, its namespace and the way in to it",
++  code: "ts",
++} as const satisfies Manifest
