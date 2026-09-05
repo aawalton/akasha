@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/inference-commands/inference-activate/inference-activate.command.ts b/infrastructure/inference-commands/inference-activate/inference-activate.command.ts
+index b18c3064d1161d3b067b0c67a5717b4664ac37a7..8b098714c77df6cb8f3090094ae556548eb8f05f 100644
+--- a/infrastructure/inference-commands/inference-activate/inference-activate.command.ts
++++ b/infrastructure/inference-commands/inference-activate/inference-activate.command.ts
+@@ -29,7 +29,7 @@ export const inferenceActivate = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The answer is what is resident rather than what was asked for.",
++      statement: "The answer names the resident rather than the service asked for.",
+     },
+     {
+       invariantKind: "absence",
