@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-addon-data/addon-data-writes-inventory/addon-data-writes-inventory.module.ts b/temper/temper-addon-data/addon-data-writes-inventory/addon-data-writes-inventory.module.ts
+index 875e283ff4e1ce7f6658de8a7691da78e07cd522..61a00356c538772287d073888c83f2c5ba163c53 100644
+--- a/temper/temper-addon-data/addon-data-writes-inventory/addon-data-writes-inventory.module.ts
++++ b/temper/temper-addon-data/addon-data-writes-inventory/addon-data-writes-inventory.module.ts
+@@ -13,7 +13,7 @@ export const addonDataWritesInventory = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A section states its writes rather than performing them.",
++      statement: "A section states its writes rather than performing those writes.",
+     },
+   ],
+ } as const satisfies Module
