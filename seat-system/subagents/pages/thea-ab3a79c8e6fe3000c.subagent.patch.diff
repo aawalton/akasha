@@ -1,0 +1,90 @@
+diff --git a/commands/refactor/key-respelling/key-respelling.module.ts b/commands/refactor/key-respelling/key-respelling.module.ts
+index 92a9d26ad2093b1c79ce6febda8487bc3269c987..a4f0caf6e13b1a3839c9c7abcb7dc70b6143db38 100644
+--- a/commands/refactor/key-respelling/key-respelling.module.ts
++++ b/commands/refactor/key-respelling/key-respelling.module.ts
+@@ -59,9 +59,33 @@ export const keyRespelling = {
+       invariantKind: "departure",
+       statement: "The property's own page states the key the property becomes.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A file beside a page is named for the key rather than for the slug.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every file named for the key is carried to the name the new key makes.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A numbered part of that property's file is carried with the first.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file holding that property uncommitted is carried with the committed ones.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file beside a page named for another key is left as it is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Which pages the files are looked for beside is what the index answers.",
++    },
+     {
+       invariantKind: "absence",
+-      statement: "No file is carried and no path changes.",
++      statement: "A carried file changes folder for no rename.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/commands/refactor/landing/refactor-landing.module.ts b/commands/refactor/landing/refactor-landing.module.ts
+index b0251a07e029bc022351840990adf6cfcff05ee9..dc59bc47a0763e5c0bb5d4f68aeba9b8cefff9af 100644
+--- a/commands/refactor/landing/refactor-landing.module.ts
++++ b/commands/refactor/landing/refactor-landing.module.ts
+@@ -36,16 +36,26 @@ export const refactorLanding = {
+       statement: "What an act says about its own rename is handed in rather than worked out here.",
+     },
+     {
+-      invariantKind: "absence",
+-      statement: "Nothing here works out what a rename would change.",
++      invariantKind: "departure",
++      statement:
++        "A file a rename carries is taken away at the name it had and written at the name it becomes.",
+     },
+     {
+-      invariantKind: "absence",
+-      statement: "No file is carried and no path changes.",
++      invariantKind: "departure",
++      statement: "A file holding uncommitted values is carried rather than read from a commit.",
+     },
+     {
+-      invariantKind: "gap",
+-      statement: "No test stands over what lands here.",
++      invariantKind: "departure",
++      statement: "A reading of a carried file is carried to the name that file becomes.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A body respelled at a path this carries is written at the name that path becomes.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here works out what a rename would change.",
+     },
+   ],
+ } as const satisfies Module
+diff --git a/commands/refactor/refactor.command.ts b/commands/refactor/refactor.command.ts
+index eb43944539056a61523e90cb8965958be7d0a545..80d7841c1c9c1712d5657e0195b630925fa474b8 100644
+--- a/commands/refactor/refactor.command.ts
++++ b/commands/refactor/refactor.command.ts
+@@ -56,7 +56,8 @@ export const refactor = {
+     "--dry-run names every file it would carry; a landing says how many.",
+     "a spelling it cannot judge to be a path is named in the answer rather than changed.",
+     "a property is named by the address it stands at, since a key on its own reaches no property.",
+-    "a key rename carries no file, so it takes no plural and repoints no address.",
++    "a key rename carries every file named for the key to the name the new key makes.",
++    "a key rename moves no page and repoints no address, and a key carries no plural.",
+     "a name is named by the file exporting it, since one name is carried by many files.",
+     "a name is renamed where the checker resolves to it rather than where a body spells it.",
+     "--line picks one where the file declares that name in more than one place.",
