@@ -1,0 +1,13 @@
+diff --git a/checks/cluster-checks/modules/workspace-deps/workspace-deps.module.ts b/checks/cluster-checks/modules/workspace-deps/workspace-deps.module.ts
+index b1a126dddd5270ffc14cffe0becfaac83caec07d..ee3a08753c56a55fff3c5e48bfd35a5127a57408 100644
+--- a/checks/cluster-checks/modules/workspace-deps/workspace-deps.module.ts
++++ b/checks/cluster-checks/modules/workspace-deps/workspace-deps.module.ts
+@@ -24,7 +24,7 @@ export const workspaceDeps = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A scoped specifier names the scope and the first segment after it and nothing deeper.",
++        "A scoped specifier names the scope and the first segment after that scope and nothing deeper.",
+     },
+     {
+       invariantKind: "departure",
