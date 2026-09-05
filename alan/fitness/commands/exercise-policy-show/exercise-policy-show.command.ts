@@ -9,7 +9,7 @@ export const exercisePolicyShow = {
   changeKindSlug: "change-none",
   taking: [{ said: "--json", takes: "give the policy as JSON rather than as tab-separated rows" }],
   helpNotes: [
-    "every number answered stands on the selection-policy page; none is supplied from code.",
+    "every number answered is on the selection-policy page; none is supplied from code.",
     "the four goal weights are longevity, energy, functionality and aesthetics.",
   ],
   invariants: [
@@ -19,7 +19,7 @@ export const exercisePolicyShow = {
     },
     {
       invariantKind: "departure",
-      statement: "No policy page standing is a refusal rather than an answer of defaults.",
+      statement: "No policy page existing is a refusal rather than an answer of defaults.",
     },
     {
       invariantKind: "departure",

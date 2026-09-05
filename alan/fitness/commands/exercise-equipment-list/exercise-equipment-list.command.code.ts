@@ -49,7 +49,7 @@ export async function exerciseEquipmentList(
     .filter((one) => all || one.available)
 
   if (json) return { report: [JSON.stringify({ items })], refusals: [], code: 0 }
-  if (items.length === 0) return { report: ["no equipment item stands"], refusals: [], code: 0 }
+  if (items.length === 0) return { report: ["no equipment item exists"], refusals: [], code: 0 }
   return {
     report: items.map(
       (one) =>

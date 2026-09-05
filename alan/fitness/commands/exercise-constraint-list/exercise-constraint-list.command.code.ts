@@ -62,7 +62,7 @@ export async function exerciseConstraintList(
 
   if (json) return { report: [JSON.stringify({ items })], refusals: [], code: 0 }
   if (items.length === 0)
-    return { report: ["no coaching constraint stands"], refusals: [], code: 0 }
+    return { report: ["no coaching constraint exists"], refusals: [], code: 0 }
   return {
     report: items.map((one) => {
       const tags = one.focusTags.length > 0 ? one.focusTags.join(",") : NOTHING

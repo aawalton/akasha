@@ -9,7 +9,7 @@ export const exerciseMobilityLog = {
   changeKindSlug: "change-mechanical",
   taking: [
     { said: "--metric <metric>", takes: "which measurement was taken" },
-    { said: "--value <text>", takes: "the human read of it, which always stands" },
+    { said: "--value <text>", takes: "the human read of it, which is always required" },
     { said: "--value-file <file>", takes: "a file the human read is taken from" },
     { said: "--num <n>", takes: "the number beside the read, which the trend is worked out from" },
     { said: "--side <side>", takes: "which side was measured, where a reading may have none" },
@@ -27,7 +27,7 @@ export const exerciseMobilityLog = {
   ],
   helpNotes: [
     "a reading is one row, so logging the same metric twice in a day writes over the first.",
-    "the human read is what always stands and the number beside it may be left out.",
+    "the human read is always required and the number beside it may be left out.",
     "only the readings carrying a number are read as a trend.",
     "a reading naming no side is filed without one.",
     "the day a reading falls on is the ESO day unless `--date` says otherwise.",
@@ -39,7 +39,7 @@ export const exerciseMobilityLog = {
     },
     {
       invariantKind: "departure",
-      statement: "The human read of a reading always stands.",
+      statement: "The human read of a reading is always required.",
     },
     {
       invariantKind: "departure",

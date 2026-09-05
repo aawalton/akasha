@@ -4,7 +4,7 @@ export const exerciseConstraintList = {
   id: "01a0685c-7d81-7770-97be-b5537af014cd",
   pageTypeSlug: "command",
   slug: "exercise-constraint-list",
-  definition: "the command saying which coaching constraints stand over Alan's training",
+  definition: "the command saying which coaching constraints bind Alan's training",
   code: "ts",
   changeKindSlug: "change-none",
   taking: [
@@ -12,7 +12,7 @@ export const exerciseConstraintList = {
       said: "--focus <focus>",
       takes: "the focus to keep, which is one training focus or all of them",
     },
-    { said: "--all", takes: "the retired constraints as well as the standing ones" },
+    { said: "--all", takes: "the retired constraints as well as the active ones" },
     { said: "--json", takes: "answer as JSON rather than as lines meant for a reader" },
   ],
   helpNotes: [
@@ -28,7 +28,7 @@ export const exerciseConstraintList = {
     },
     {
       invariantKind: "departure",
-      statement: "A constraint saying nothing about whether it stands is taken as standing.",
+      statement: "A constraint saying nothing about whether it is active is taken as active.",
     },
     {
       invariantKind: "absence",

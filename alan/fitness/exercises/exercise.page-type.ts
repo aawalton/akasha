@@ -125,8 +125,7 @@ export const exercise = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "How a movement is performed stands in its own file rather than in a value beside it.",
+      statement: "How a movement is performed is in its own file rather than in a value beside it.",
     },
     {
       invariantKind: "departure",

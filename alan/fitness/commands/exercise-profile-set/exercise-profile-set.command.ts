@@ -12,13 +12,13 @@ export const exerciseProfileSet = {
     { said: "--json", takes: "give what was written as JSON rather than as tab-separated rows" },
   ],
   helpNotes: [
-    "the bodyweight is written onto the standing client-profile page rather than onto a new one.",
+    "the bodyweight is written onto the client-profile page already there rather than onto a new one.",
     "the answer names the moment the profile was written as well as the weight it now holds.",
   ],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The bodyweight is written onto the client-profile page that already stands.",
+      statement: "The bodyweight is written onto the client-profile page that is already there.",
     },
     {
       invariantKind: "departure",

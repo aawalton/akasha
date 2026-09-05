@@ -78,7 +78,7 @@ export async function exerciseMobilityShow(
     }
   }
   if (readings.length === 0)
-    return { report: ["no mobility reading stands"], refusals: [], code: 0 }
+    return { report: ["no mobility reading exists"], refusals: [], code: 0 }
   const report = readings.map(
     (one) =>
       `${one.date ?? NOTHING}\t${one.metric}\t${one.side ?? NOTHING}\t${one.context ?? NOTHING}\t${one.valueText ?? NOTHING}\t${one.valueNum ?? NOTHING}`
