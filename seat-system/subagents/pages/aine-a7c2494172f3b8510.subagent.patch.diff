@@ -38,7 +38,7 @@ index 6c71955a6d1b10a3dc87bc74baf06228287af8cf..db96dd56c4c836326f1bebc78876b018
        DATA
      )
 diff --git a/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.code.ts b/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.code.ts
-index 175fefc88bb56b1858b87191030ae08bc611e404..802308b4feee1e93c8a478f9556a146823283370 100644
+index 175fefc88bb56b1858b87191030ae08bc611e404..3bd76f83294d312186eae40e940ddb3e70db8ed3 100644
 --- a/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.code.ts
 +++ b/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.code.ts
 @@ -31,7 +31,7 @@ const HELD = "json"
@@ -79,3 +79,35 @@ index 175fefc88bb56b1858b87191030ae08bc611e404..802308b4feee1e93c8a478f9556a1468
    if (beside === null) return null
    const at = join(root, beside)
    return existsSync(at) ? at : null
+@@ -130,13 +130,13 @@ export async function temperInventorySnapshot(
+   if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+   const root = given === undefined ? process.cwd() : resolve(given.root)
+ 
+-  let standing: Standing | null
++  let page: Page | null
+   try {
+-    standing = read.latest ? standingLatest(root) : standingNamed(root, read.named ?? "")
++    page = read.latest ? pageLatest(root) : pageNamed(root, read.named ?? "")
+   } catch (thrown) {
+     return refused(whyOf(thrown), OPERATIONAL)
+   }
+-  if (standing === null) {
++  if (page === null) {
+     return refused(
+       read.latest
+         ? `the account ${USER_ID} carries no ${PAGE_TYPE} page, so there is none to read`
+@@ -145,11 +145,11 @@ export async function temperInventorySnapshot(
+     )
+   }
+ 
+-  const dataFile = dataFileFor(root, standing)
++  const dataFile = dataFileFor(root, page)
+   if (dataFile === null) {
+     return refused(
+-      `snapshot ${standing.id} carries no data file, which is how a reading whose pieces ` +
+-        "rejoined to no JSON document stands",
++      `snapshot ${page.id} carries no data file, which is how a reading whose pieces ` +
++        "rejoined to no JSON document remains",
+       DATA
+     )
+   }
