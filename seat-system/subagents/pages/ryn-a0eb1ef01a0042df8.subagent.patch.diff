@@ -1,0 +1,14 @@
+diff --git a/checks/cluster-checks/modules/functional-type/functional-type.module.ts b/checks/cluster-checks/modules/functional-type/functional-type.module.ts
+index 0f0c594e6eef4225b2223e1bb66fc1cb8b8b6e4d..6a29bd7532a0d76d09f64127bf6bc1280dd1c141 100644
+--- a/checks/cluster-checks/modules/functional-type/functional-type.module.ts
++++ b/checks/cluster-checks/modules/functional-type/functional-type.module.ts
+@@ -9,7 +9,8 @@ export const functionalType = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A package says what it is for in its manifest rather than by where it sits.",
++      statement:
++        "A package says what that package is for in its manifest rather than by where that package sits.",
+     },
+     {
+       invariantKind: "departure",
