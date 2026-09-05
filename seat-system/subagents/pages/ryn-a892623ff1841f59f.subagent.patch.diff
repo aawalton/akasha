@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.ts b/temper/temper-items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.ts
+index 3fdd5189e625b46a507d62973cacfa0bae3d505e..16b8b4326e018802bb1b15fe3e18a05031f54652 100644
+--- a/temper/temper-items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.ts
++++ b/temper/temper-items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.ts
+@@ -20,7 +20,7 @@ export const inventoryRuleCompilerTypes = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A wanted equipment signature says what a build asks for rather than what is held.",
++        "A wanted equipment signature says the gear a build asks for rather than the gear held.",
+     },
+   ],
+ } as const satisfies Module
