@@ -1,0 +1,13 @@
+diff --git a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
+index 7a49076106d034646c5ca3cfc30598b8ea652575..dd3299878568b5cda861b6db8da413007fd36d29 100644
+--- a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
++++ b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
+@@ -74,7 +74,7 @@ export const claudeAccountUpkeepStall = {
+     {
+       invariantKind: "constraint",
+       statement:
+-        "The two keys read here are spelled as the claude-account page type declares them.",
++        "The two keys read here are spelled as the claude-account page type declares those keys.",
+     },
+     {
+       invariantKind: "absence",
