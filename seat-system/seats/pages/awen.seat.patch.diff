@@ -40,7 +40,7 @@ index 566093ea0af6a9d67dd8a6b24e368360a1e24dfb..a7994b716ae3e461cf9874c0d07dfb4a
 +  })
 +}
 diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
-index c70536b6a67282fc3d9e4bf031e92e4022f44e92..89af41fdb6800c994ba588b34ea96bfa73777d5d 100644
+index c70536b6a67282fc3d9e4bf031e92e4022f44e92..6702d2734174baa0b13c07ce6b23a3d2f8a29439 100644
 --- a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 +++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 @@ -5,7 +5,9 @@ import type { Change } from "@akasha/pages-system/change"
@@ -108,7 +108,7 @@ index c70536b6a67282fc3d9e4bf031e92e4022f44e92..89af41fdb6800c994ba588b34ea96bfa
    const said = await over(root, "akasha/held.ts", null)
    expect(said).toHaveLength(1)
    expect(said[0]?.path).toBe("akasha/calls.ts")
-@@ -237,12 +244,7 @@ test("a diagnostic against a file the change did not touch is reported once, how
+@@ -237,18 +244,13 @@ test("a diagnostic against a file the change did not touch is reported once, how
  })
  
  test("an index read without a guard is refused, so the settings are the strict ones", async () => {
@@ -122,6 +122,13 @@ index c70536b6a67282fc3d9e4bf031e92e4022f44e92..89af41fdb6800c994ba588b34ea96bfa
    expect(said).toHaveLength(1)
    expect(said[0]?.reason).toContain("undefined")
  })
+ 
+ test("a file that is not TypeScript is passed over, and one in any folder under the root is judged", async () => {
+-  const root = staged({ "akasha/one.ts": "export const one = 1\n" })
++  const root = holding()
+   expect(await over(root, "akasha/notes.txt", "nothing to compile\n")).toEqual([])
+   const said = await over(root, "shared/one.ts", "export const one: string = 1\n")
+   expect(said).toHaveLength(1)
 @@ -339,12 +341,7 @@ test("a file whole at base and deleted from the worktree alone still answers for
  })
  
