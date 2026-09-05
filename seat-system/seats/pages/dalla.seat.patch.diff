@@ -36,6 +36,18 @@ index 50250826b8c70c68f41e36eae8747811ec6fb127..09796eff787dfc4735a9a21ff09d6ceb
      "page-type/workflow-template",
      "page-type/change-kind",
      "workspace-package/workflow-language",
+diff --git a/command-system/command-system.workspace-package.ts b/command-system/command-system.workspace-package.ts
+index 0189b0310db76be0341e3f4d389e7e18a38f2aa8..af9a5bd215a2378aef9fab2fa525cd3cbae58c09 100644
+--- a/command-system/command-system.workspace-package.ts
++++ b/command-system/command-system.workspace-package.ts
+@@ -13,6 +13,7 @@ export const commandSystem = {
+     "module/payload",
+     "page-type/command",
+     "page-type/namespace",
++    "page-type/refactor-command",
+     "module/calling",
+     "module/command-declaring",
+     "module/gated-write",
 diff --git a/command-system/refactor-commands/refactor-command.page-type.ts b/command-system/refactor-commands/refactor-command.page-type.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..20004b6d9ffed3c899ff8a6ed28b87ee25d364c1
