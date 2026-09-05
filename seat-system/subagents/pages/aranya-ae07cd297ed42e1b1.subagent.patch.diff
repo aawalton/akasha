@@ -1,0 +1,16 @@
+diff --git a/infrastructure/telemetry/prometheus/prometheus.manifest.ts b/infrastructure/telemetry/prometheus/prometheus.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4743af9a4971d2e7483add40670180b9032fcd8a
+--- /dev/null
++++ b/infrastructure/telemetry/prometheus/prometheus.manifest.ts
+@@ -0,0 +1,10 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const prometheus = {
++  id: "01a07398-73c3-7425-83fd-0ccdc373d439",
++  pageTypeSlug: "manifest",
++  slug: "prometheus",
++  definition:
++    "the metrics server, its namespace, its access rules, its storage, its configuration and its way in",
++  code: "ts",
++} as const satisfies Manifest
