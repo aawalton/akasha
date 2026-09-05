@@ -1,3 +1,15 @@
+diff --git a/infrastructure/job/job.domain.ts b/infrastructure/job/job.domain.ts
+index 84416ffbd628e5149e468340867f6e67eec0bd96..48bc80b1609fc50630d5b4aa266e26d7ddef96b4 100644
+--- a/infrastructure/job/job.domain.ts
++++ b/infrastructure/job/job.domain.ts
+@@ -5,6 +5,7 @@ export const job = {
+   pageTypeSlug: "domain",
+   slug: "job",
+   definition: "a workload that runs to completion and stops",
++  partSlugs: ["manifest/pod-janitor"],
+   invariants: [
+     {
+       invariantKind: "departure",
 diff --git a/infrastructure/job/pod-janitor/pod-janitor.manifest.ts b/infrastructure/job/pod-janitor/pod-janitor.manifest.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..e1d8e51a4f617dd765b9d5f94b45190889fd4397
