@@ -1,0 +1,14 @@
+diff --git a/code-system/javascript-modules/javascript-module.page-type.ts b/code-system/javascript-modules/javascript-module.page-type.ts
+index 2c7efb4235b2c76196ec3c329a7ecda9d6dccc20..7b583acd564613fe56e74596a80cb94d31fb2857 100644
+--- a/code-system/javascript-modules/javascript-module.page-type.ts
++++ b/code-system/javascript-modules/javascript-module.page-type.ts
+@@ -22,7 +22,8 @@ export const javascriptModule = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "JavaScript runs under whatever runtime loads it rather than under TypeScript's.",
++      statement:
++        "JavaScript runs under whatever runtime loads that JavaScript rather than under TypeScript's.",
+     },
+     {
+       invariantKind: "departure",
