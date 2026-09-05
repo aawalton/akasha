@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/commands/read/read.command.ts b/command-system/commands/read/read.command.ts
+index 90e4d1a68fb46bced642fb957cff20cfb508893d..4920d83307a3621413dca7f38415056fbf3c1de2 100644
+--- a/command-system/commands/read/read.command.ts
++++ b/command-system/commands/read/read.command.ts
+@@ -170,7 +170,7 @@ export const read = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A file a warrant names is asked what that file warrants only where the warrant is transitive.",
++        "A file a warrant names is asked for files that file warrants only where the warrant is transitive.",
+     },
+     {
+       invariantKind: "departure",
