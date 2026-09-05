@@ -22,7 +22,8 @@ export const seatTurnColors = {
     },
     {
       invariantKind: "departure",
-      statement: "The seat folder is answered as a real path rather than as the link to it.",
+      statement:
+        "The seat folder is answered as a real path rather than as the link to that folder.",
     },
     {
       invariantKind: "departure",
