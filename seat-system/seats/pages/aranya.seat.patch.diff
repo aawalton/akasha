@@ -1007,3 +1007,11 @@ index f0fa5d713501a0c4cf697367b10d1954dbc69543..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-game-catalog-capture-host
 \ No newline at end of file
+diff --git a/temper/temper-housing-addon/temper-housing-addon b/temper/temper-housing-addon/temper-housing-addon
+deleted file mode 120000
+index 450de12ae876df4711511e13746ba36db51bb8d4..0000000000000000000000000000000000000000
+--- a/temper/temper-housing-addon/temper-housing-addon
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-housing-addon
+\ No newline at end of file
