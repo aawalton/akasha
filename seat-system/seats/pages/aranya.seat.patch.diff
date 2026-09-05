@@ -47,3 +47,11 @@ index b87b56cc4950a49b400b981c08b27f9b22f342e6..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../alan/library/book-of-everything
 \ No newline at end of file
+diff --git a/alan/library/book-of-everything/commands/book-of-everything-commands b/alan/library/book-of-everything/commands/book-of-everything-commands
+deleted file mode 120000
+index 4f8e7525a0b6eab2462b81b79d66b07bd0607597..0000000000000000000000000000000000000000
+--- a/alan/library/book-of-everything/commands/book-of-everything-commands
++++ /dev/null
+@@ -1 +0,0 @@
+-../../alan/library/book-of-everything/commands
+\ No newline at end of file
