@@ -34,7 +34,7 @@ index 205166ce0f4cf26ca85c2fb9e1663a21571acc91..e032c5e6872309fc19a076aeb52af8f6
  }
  
 diff --git a/domains/plain-language/shape-reading/shape-reading.module.ts b/domains/plain-language/shape-reading/shape-reading.module.ts
-index 7857bebc9e81ec194ddbe3c4382401fde59adc51..e6fcc680ff6fccaac1b09726a4879ec3fc2b0d88 100644
+index 7857bebc9e81ec194ddbe3c4382401fde59adc51..ddc8f2fe77568ba34d75f32a3c84ce53f0a3796b 100644
 --- a/domains/plain-language/shape-reading/shape-reading.module.ts
 +++ b/domains/plain-language/shape-reading/shape-reading.module.ts
 @@ -4,7 +4,7 @@ export const shapeReading = {
@@ -46,6 +46,16 @@ index 7857bebc9e81ec194ddbe3c4382401fde59adc51..e6fcc680ff6fccaac1b09726a4879ec3
    code: "ts",
    invariants: [
      {
+@@ -19,9 +19,5 @@ export const shapeReading = {
+       invariantKind: "departure",
+       statement: "A shape that will not load refuses the read.",
+     },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here builds a grammar.",
+-    },
+   ],
+ } as const satisfies Module
 diff --git a/domains/sentence-shapes/properties/rules.text-property.ts b/domains/sentence-shapes/properties/rules.text-property.ts
 deleted file mode 100644
 index 0cb72c9b6069ca7196c4c1eb962756809a12c1d7..0000000000000000000000000000000000000000
