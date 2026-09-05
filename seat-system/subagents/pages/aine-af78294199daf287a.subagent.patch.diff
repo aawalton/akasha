@@ -1,0 +1,13 @@
+diff --git a/commands/drive/drive.command.ts b/commands/drive/drive.command.ts
+index f1ba2aeea59b446a0585a3994cf570611fd9e24e..7ee8d1b22ba18f498f8b9dc84912401e31b7badc 100644
+--- a/commands/drive/drive.command.ts
++++ b/commands/drive/drive.command.ts
+@@ -4,7 +4,7 @@ export const drive = {
+   id: "01a06809-e6ee-78ea-b3d7-34282c2848ae",
+   pageTypeSlug: "command",
+   slug: "drive",
+-  definition: "the command acting on the files standing in Alan's Google Drive",
++  definition: "the command acting on the files in Alan's Google Drive",
+   code: "ts",
+   test: "ts",
+   changeKindSlug: "change-mechanical",
