@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/calendar/calendar-event-sources/calendar-event-source.page-type.ts b/alan/harness/calendar/calendar-event-sources/calendar-event-source.page-type.ts
+index 50e6d8fbaa4fdad45dab0abbf1867abba719d140..8f969a581c213ac5f7fb6df90419964430ac42f9 100644
+--- a/alan/harness/calendar/calendar-event-sources/calendar-event-source.page-type.ts
++++ b/alan/harness/calendar/calendar-event-sources/calendar-event-source.page-type.ts
+@@ -69,7 +69,7 @@ export const calendarEventSource = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A source says nothing about what changed since the last pass.",
++      statement: "A source says nothing about the changes since the last pass.",
+     },
+     {
+       invariantKind: "departure",
