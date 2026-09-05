@@ -1,5 +1,5 @@
 diff --git a/editor-extension/vscode-stub/vscode-stub.javascript-module.ts b/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
-index 683cdff4c2407e15fbbd762abcce2dfc97fe03c4..4a3f4156a316a07fc1c84bcc98196627866e77ed 100644
+index 683cdff4c2407e15fbbd762abcce2dfc97fe03c4..cb4ca6319537ed8c9b1022fcf60fc882432b0f2e 100644
 --- a/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
 +++ b/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
 @@ -13,19 +13,19 @@ export const vscodeStub = {
@@ -23,6 +23,15 @@ index 683cdff4c2407e15fbbd762abcce2dfc97fe03c4..4a3f4156a316a07fc1c84bcc98196627
        invariantKind: "departure",
 -      statement: "A status bar item reads back the text assigned to it.",
 +      statement: "A status bar item reads back the text assigned to that status bar item.",
+     },
+     {
+       invariantKind: "departure",
+@@ -33,7 +33,7 @@ export const vscodeStub = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "A proxy is a constructor only where the function behind it is one.",
++      statement: "A proxy is a constructor only where the function behind that proxy is one.",
      },
      {
        invariantKind: "departure",
