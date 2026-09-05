@@ -63,3 +63,11 @@ index feb6e5353570203d3b65c4dde175c30f8bd421fe..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../browser/launch-env
 \ No newline at end of file
+diff --git a/browser/test-harness/browser-test-harness b/browser/test-harness/browser-test-harness
+deleted file mode 120000
+index d916c8bb1a52c76aa6d4036885efad2052b46013..0000000000000000000000000000000000000000
+--- a/browser/test-harness/browser-test-harness
++++ /dev/null
+@@ -1 +0,0 @@
+-../../browser/test-harness
+\ No newline at end of file
