@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/code-system/code-lint/code-lint.module.ts b/code-system/code-lint/code-lint.module.ts
+index 0b43352c36c2299965104f8e437b130f9ffbfc0b..1b1059a797c9b150392e8e597e7e2c366b85c582 100644
+--- a/code-system/code-lint/code-lint.module.ts
++++ b/code-system/code-lint/code-lint.module.ts
+@@ -54,7 +54,7 @@ export const codeLint = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "It is the only shape of its answer a machine can take.",
++      statement: "That reporter is the only shape of Biome's answer a machine can take.",
+     },
+     {
+       invariantKind: "absence",
