@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/access/file-relation/file-relation.module.ts b/pages/access/file-relation/file-relation.module.ts
+index d299b193dcbc0deb6bd86111b703822c3336cd4b..476602254a0beee2ea63f2f941190ab92dbd8a98 100644
+--- a/pages/access/file-relation/file-relation.module.ts
++++ b/pages/access/file-relation/file-relation.module.ts
+@@ -23,7 +23,7 @@ export const fileRelation = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Which properties of a page type name other pages is read from what that type declares.",
++        "Which properties of a page type name other pages is read from the properties that type declares.",
+     },
+     {
+       invariantKind: "gap",
