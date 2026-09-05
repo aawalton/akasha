@@ -26,11 +26,6 @@ export const aranyaClusterCleanup = {
         "`openingWith` refuses a folder whose name equals or opens with the name of the page above it, so `cluster-api`, `cluster-manifests`, `cluster-operations`, `cluster-provisioning` and `cluster-services` lose the prefix. Folder names only; slugs and npm names are untouched. That answers 23 of the 103 refusals here; the roots also fail on `tunnel-routes.ts`, `nodes.json`, an undeclared `cluster-secrets` and two domain pages in `cluster-provisioning`. 1137 refuse repo-wide.",
     },
     {
-      statement: "Every cluster service names a manifest page.",
-      workingMemory:
-        "None of the 51 services names a manifest page; each names its code by a path. A manifest page cannot sit beside its service page: `folder-matches-a-shape` admits one page to a folder, so each takes a folder of its own. Any page may name it in `partSlugs`, a sibling included, so conversions are independent; the 25 scattered ones fall under 13 parents, seaweedfs holding 10. The 12 pages typed `manifest` are a mistyping to unwind. `synth-discovery` keys on `manifest-slug`; the count holds at 57.",
-    },
-    {
       statement: "The inference family sits in a top-level inference/ folder.",
       workingMemory:
         "`inference.domain.ts` says inference runs on machines outside the cluster, so 244 files leave `infrastructure/`: 12 folders and the `inference` and `generation` domain pages. `domain/inference` declares 6 of them and wants the rest added. The same prefix rule renames `inference-clients`, `inference-pool`, `inference-runs` and `inference-commands` to `clients`, `pool`, `runs` and `commands`. `upscale`, `voice-inference` and `alerts` are mixed and split rather than moved.",
