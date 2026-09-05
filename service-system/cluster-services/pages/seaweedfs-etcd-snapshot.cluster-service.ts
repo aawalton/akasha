@@ -10,6 +10,5 @@ export const seaweedfsEtcdSnapshot = {
   resourceName: "etcd-snapshot",
   image: "ghcr.io/siderolabs/talosctl:v1.12.9",
   schedule: "17 3 * * *",
-  manifestCode:
-    "infrastructure/seaweedfs/etcd-snapshot/seaweedfs-etcd-snapshot.cluster-service.code.attachment.ts",
+  manifestSlug: "seaweedfs-etcd-snapshot",
 } as const satisfies ClusterService
