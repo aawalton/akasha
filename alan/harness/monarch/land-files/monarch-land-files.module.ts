@@ -15,8 +15,7 @@ export const monarchLandFiles = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A line is written in the entry shape's own key order however it was built, so a resync that changes nothing rewrites nothing.",
+      statement: "A line is written in the entry shape's own key order however the line was built.",
     },
     {
       invariantKind: "departure",
