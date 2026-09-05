@@ -42,10 +42,22 @@ index 6d041cfb72e2f8800957c4485d52e0681629721e..3fa9be6ae867442593d382b760545442
        invariantKind: "departure",
        statement:
 diff --git a/command-system/commands/replace/replace.command.ts b/command-system/commands/replace/replace.command.ts
-index 033855e0dbcaccab843c16cfb453ab36ede2e455..84a51f15d6d60c4e08b64f86e2d5ce85c9b7d2e4 100644
+index 033855e0dbcaccab843c16cfb453ab36ede2e455..c22456d724e440f0d576018beb7b27298bc28feb 100644
 --- a/command-system/commands/replace/replace.command.ts
 +++ b/command-system/commands/replace/replace.command.ts
-@@ -101,10 +101,6 @@ export const replace = {
+@@ -81,10 +81,7 @@ export const replace = {
+       invariantKind: "departure",
+       statement: "A passage carries the trailing newline of the file naming that passage.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A block marker carrying `mid-line` ends its passage before that newline.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "An empty passage names no place and is refused.",
+@@ -101,10 +98,6 @@ export const replace = {
        invariantKind: "departure",
        statement: "Once the bodies are worked out this lands exactly as `edit` lands.",
      },
