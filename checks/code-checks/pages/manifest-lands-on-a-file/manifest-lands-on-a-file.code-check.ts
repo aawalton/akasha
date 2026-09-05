@@ -14,11 +14,12 @@ export const manifestLandsOnAFile = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A way in names a file the change leaves behind it.",
+      statement: "A way in names a file the change leaves behind that change.",
     },
     {
       invariantKind: "departure",
-      statement: "Every manifest the index names is judged whether or not the change carries it.",
+      statement:
+        "Every manifest the index names is judged whether or not the change carries that manifest.",
     },
     {
       invariantKind: "departure",
