@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/testing-system/waiting/waiting.module.ts b/testing-system/waiting/waiting.module.ts
+index d862bf96360e3a5002d1ba2e3157e2b4b4954c15..486c30309ebed2c8d656e730449766dfd4b325a9 100644
+--- a/testing-system/waiting/waiting.module.ts
++++ b/testing-system/waiting/waiting.module.ts
+@@ -9,7 +9,7 @@ export const waiting = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What is waited for is asked again rather than told.",
++      statement: "The condition waited for is asked again rather than told.",
+     },
+     {
+       invariantKind: "departure",
