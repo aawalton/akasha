@@ -140,3 +140,16 @@ index 078fd4409dc6a8c354ce87cf58b1ab9b59515645..1f67ccdc0169351d3e855eef5328acc5
      )
      expect(resuming).toContain('tmux attach-session -t "=$name"\n    return $?')
    })
+diff --git a/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.ts b/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.ts
+index 57fad8e5d81562ef4811ca4997145df5c7cc89d0..63384a20ad081db9cae059194fbb388d6831bc07 100644
+--- a/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.ts
++++ b/seat-system/terminal-init/terminal-seat-launchers/terminal-seat-launchers.module.ts
+@@ -62,7 +62,7 @@ export const terminalSeatLaunchers = {
+     },
+     {
+       invariantKind: "stopgap",
+-      statement: "Starting and resuming a seat are still asked of the old ops entry point.",
++      statement: "Starting a seat is still asked of the old ops entry point.",
+     },
+   ],
+ } as const satisfies Module
