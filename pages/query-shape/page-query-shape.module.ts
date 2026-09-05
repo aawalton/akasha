@@ -9,7 +9,8 @@ export const pageQueryShape = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A query names one page type and every test it carries is on that page type.",
+      statement:
+        "A query names one page type and every test that query carries is on that page type.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +22,8 @@ export const pageQueryShape = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer carries what it could not read alongside what it read.",
+      statement:
+        "An answer carries what that answer could not read alongside what that answer read.",
     },
     {
       invariantKind: "absence",
