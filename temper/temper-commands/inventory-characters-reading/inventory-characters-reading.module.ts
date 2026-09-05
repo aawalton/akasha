@@ -10,7 +10,7 @@ export const inventoryCharactersReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A character is named by the key the addon filed it under.",
+      statement: "A character is named by the key the addon filed that character under.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,8 @@ export const inventoryCharactersReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A scribing script counts as known only where it says it is unlocked.",
+      statement:
+        "A scribing script counts as known only where the saved variables say that script is unlocked.",
     },
     {
       invariantKind: "absence",
