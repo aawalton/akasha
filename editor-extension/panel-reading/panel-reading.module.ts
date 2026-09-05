@@ -10,16 +10,17 @@ export const panelReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What is activated is the extension rather than a model of it.",
+      statement: "What is activated is the extension rather than a model of that extension.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The entry is bundled for node and its `activate` is called the way the host calls it.",
+        "The entry is bundled for node and its `activate` is called the way the host calls that `activate`.",
     },
     {
       invariantKind: "departure",
-      statement: "The `vscode` it activates against is the stub page beside it.",
+      statement:
+        "The `vscode` the extension activates against is the stub page beside that extension.",
     },
     {
       invariantKind: "departure",
@@ -61,7 +62,8 @@ export const panelReading = {
     },
     {
       invariantKind: "departure",
-      statement: "Each feature's outcome on activation is kept as the channel it was written to.",
+      statement:
+        "Each feature's outcome on activation is kept as the channel that outcome was written to.",
     },
     {
       invariantKind: "absence",
