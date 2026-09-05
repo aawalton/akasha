@@ -1,0 +1,10 @@
+import type { Manifest } from "@akasha/k8s-types/manifest"
+
+export const grafana = {
+  id: "01a0739d-9053-797b-9562-07aff48ee592",
+  pageTypeSlug: "manifest",
+  slug: "grafana",
+  definition:
+    "the chart server, its namespace, the sources and dashboards it is given, and its way in",
+  code: "ts",
+} as const satisfies Manifest

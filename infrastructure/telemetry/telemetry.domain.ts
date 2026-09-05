@@ -9,6 +9,7 @@ export const telemetry = {
     "domain/log",
     "domain/metric",
     "manifest/dcgm-exporter-daemonset",
+    "manifest/grafana",
     "manifest/kube-state-metrics",
     "manifest/node-exporter-daemonset",
     "manifest/pgbouncer-exporter",
