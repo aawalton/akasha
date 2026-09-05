@@ -1,0 +1,15 @@
+diff --git a/story/story.domain.ts b/story/story.domain.ts
+index f75427929b11537e1fb4dffba22113e5a2803845..70a453ebf500e0ed7636970eae0dfa5026838d9e 100644
+--- a/story/story.domain.ts
++++ b/story/story.domain.ts
+@@ -56,6 +56,10 @@ export const story = {
+       statement:
+         "Whether a chapter is read or written or played settles which page type the chapter is.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A chapter's slug opens with the story the chapter is part of.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The source a chapter came from is no page type of its own.",
