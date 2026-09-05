@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/inboxes/inbox.domain.ts b/alan/harness/inboxes/inbox.domain.ts
+index 8e58528a1319d2ae23fd3230a42bdb7b9ae4daef..8087f05332b7aa1eda4ddd96e172850c4b81a97e 100644
+--- a/alan/harness/inboxes/inbox.domain.ts
++++ b/alan/harness/inboxes/inbox.domain.ts
+@@ -55,7 +55,7 @@ export const inbox = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The folder an email rule is in says whose rule it is.",
++      statement: "The folder an email rule is in says whose rule that rule is.",
+     },
+   ],
+   directives: [
