@@ -1,0 +1,13 @@
+diff --git a/commands/move/move.command.ts b/commands/move/move.command.ts
+index accc941bffcd4f078ab0dfa735a1d9821b712525..607b594e4583b850fdd4fdeee3b99edd289be36a 100644
+--- a/commands/move/move.command.ts
++++ b/commands/move/move.command.ts
+@@ -150,7 +150,7 @@ export const move = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A body is carried as it stands but for the specifiers it holds.",
++      statement: "A body is carried as that body stands but for the specifiers that body holds.",
+     },
+     {
+       invariantKind: "departure",
