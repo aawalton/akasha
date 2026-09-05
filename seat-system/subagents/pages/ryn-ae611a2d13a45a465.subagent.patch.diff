@@ -1,5 +1,5 @@
 diff --git a/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts b/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts
-index 77e1b267d83c565dc2ff3886105e34447a73ff1e..ebb34688ecc91b41fed76678950bd26578bded99 100644
+index 77e1b267d83c565dc2ff3886105e34447a73ff1e..5577c9bfbe81d9a171b24efdf42a6180dbaecca6 100644
 --- a/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts
 +++ b/rule-population/rule-population-sweeping/rule-population-sweeping.module.ts
 @@ -17,7 +17,7 @@ export const rulePopulationSweeping = {
@@ -8,6 +8,16 @@ index 77e1b267d83c565dc2ff3886105e34447a73ff1e..ebb34688ecc91b41fed76678950bd265
        invariantKind: "departure",
 -      statement: "What a rule weighed is counted rather than what it found.",
 +      statement: "What a rule weighed is counted rather than what that rule found.",
+     },
+     {
+       invariantKind: "departure",
+@@ -44,7 +44,8 @@ export const rulePopulationSweeping = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "No graph cache is read, so the population is the repository as it now is.",
++      statement:
++        "No graph cache is read, so the population is the repository as that repository now is.",
      },
      {
        invariantKind: "departure",
