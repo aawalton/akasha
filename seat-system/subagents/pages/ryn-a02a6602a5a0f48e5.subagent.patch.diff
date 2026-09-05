@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/properties-of-the-type-above/properties-of-the-type-above.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/properties-of-the-type-above/properties-of-the-type-above.folder-shape.ts
+index c943561f577d60ea1a05b2ef741ed2441e64de65..9e50fe1c5822992b8955e5c01b681847bb051433 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/properties-of-the-type-above/properties-of-the-type-above.folder-shape.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/properties-of-the-type-above/properties-of-the-type-above.folder-shape.ts
+@@ -16,7 +16,8 @@ export const propertiesOfTheTypeAbove = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The folder above holds one page type and that page type says what belongs here.",
++      statement:
++        "The folder above holds one page type and that page type declares the properties belonging here.",
+     },
+     {
+       invariantKind: "departure",
