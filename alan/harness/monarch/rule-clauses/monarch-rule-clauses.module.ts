@@ -33,7 +33,7 @@ export const monarchRuleClauses = {
     {
       invariantKind: "departure",
       statement:
-        "A rule narrowing on nothing but a sign, an amount, a counterpart or a date is refused, because none of those clauses says which transactions the rule is about.",
+        "A rule narrowing on nothing but a sign, an amount, a counterpart or a date is refused.",
     },
     {
       invariantKind: "departure",
@@ -45,8 +45,7 @@ export const monarchRuleClauses = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A rule that pairs a counterpart and carries a note is refused, because one leg would be annotated and the other would not.",
+      statement: "A rule that pairs a counterpart and carries a note is refused.",
     },
     {
       invariantKind: "departure",
