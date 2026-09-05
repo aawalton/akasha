@@ -77,6 +77,21 @@ index 499a78707ed5894cb8f2143f419049540451271a..d6be2bc590cdac0d16cb13d98abf8f01
      {
        invariantKind: "departure",
        statement:
+diff --git a/editor-extension/domain-tree-panel/domain-tree-panel.module.ts b/editor-extension/domain-tree-panel/domain-tree-panel.module.ts
+index aa67ae553257e751e5842ffc8874aa92383ed930..04c3961ab38beaf87279042aeb222892b56c0342 100644
+--- a/editor-extension/domain-tree-panel/domain-tree-panel.module.ts
++++ b/editor-extension/domain-tree-panel/domain-tree-panel.module.ts
+@@ -41,10 +41,6 @@ export const domainTreePanel = {
+       invariantKind: "departure",
+       statement: "A domain no root reaches is said to Alan once and named on the channel.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "Every drawing's outcome is recorded as an observation under the panel's name.",
+-    },
+ 
+     {
+       invariantKind: "absence",
 diff --git a/editor-extension/domain-tree-view/domain-tree-view.module.ts b/editor-extension/domain-tree-view/domain-tree-view.module.ts
 index 5f2a95459d8643d660026e15d44626666120a046..102ad76705e43e54ea7a080c4299aac6288b74b6 100644
 --- a/editor-extension/domain-tree-view/domain-tree-view.module.ts
