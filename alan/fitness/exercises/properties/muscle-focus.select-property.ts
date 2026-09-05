@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const muscleFocus = {
   id: "01a0657e-2bc0-7229-8e6a-9937d7e7b16e",

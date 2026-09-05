@@ -1,5 +1,5 @@
 import { getEsoDayStr } from "@akasha/day/eso-day"
-import { AKASHA, resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots } from "@akasha/pages/checkout-roots"
 import { charismaIn } from "@akasha/readout-system/attribute-charisma"
 import { fetchConstitutionPoints } from "@akasha/readout-system/attribute-constitution"
 import { enduranceIn } from "@akasha/readout-system/attribute-endurance"

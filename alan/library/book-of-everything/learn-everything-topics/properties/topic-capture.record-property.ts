@@ -1,4 +1,4 @@
-import type { RecordProperty } from "@akasha/pages-system/record-property"
+import type { RecordProperty } from "@akasha/pages/record-property"
 import type { CaptureSource } from "./capture-source.text-property.ts"
 import type { CaptureThroughAt } from "./capture-through-at.instant-property.ts"
 import type { CaptureThroughLine } from "./capture-through-line.number-property.ts"

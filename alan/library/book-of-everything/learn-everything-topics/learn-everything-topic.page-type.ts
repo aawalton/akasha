@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages-system/page"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { Page } from "@akasha/pages/page"
+import type { PageType } from "@akasha/pages/page-type"
 import type { Bites } from "./properties/bites.file-property.ts"
 import type { Frontier } from "./properties/frontier.file-property.ts"
 import type { Integration } from "./properties/integration.file-property.ts"

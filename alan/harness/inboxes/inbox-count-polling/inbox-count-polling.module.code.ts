@@ -1,7 +1,7 @@
 import { dayAfter } from "@akasha/day/day-string"
 import { makeGmailClient } from "@akasha/google-email/client"
 import { INBOX_LABEL, listMessages } from "@akasha/google-email/messages"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { asking } from "@akasha/pages-system-service/asking"
 import type { InboxKey } from "../inbox-keys/inbox-keys.module.code.ts"
 

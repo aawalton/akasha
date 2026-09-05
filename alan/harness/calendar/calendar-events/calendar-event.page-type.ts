@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages-system/page"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { Page } from "@akasha/pages/page"
+import type { PageType } from "@akasha/pages/page-type"
 import type { CalendarEventAgeGroups } from "./properties/calendar-event-age-groups.text-property.ts"
 import type { CalendarEventAllDay } from "./properties/calendar-event-all-day.boolean-property.ts"
 import type { CalendarEventDescription } from "./properties/calendar-event-description.text-property.ts"

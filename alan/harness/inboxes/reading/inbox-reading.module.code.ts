@@ -1,5 +1,5 @@
 import { getEsoDayStr } from "@akasha/day/eso-day"
-import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { resolveRoots } from "@akasha/pages/checkout-roots"
 import { asking } from "@akasha/pages-system-service/asking"
 import { lowestIn, mailOn } from "@akasha/readout-system/inboxes-email"
 import { tasksIn } from "@akasha/readout-system/inboxes-tasks"

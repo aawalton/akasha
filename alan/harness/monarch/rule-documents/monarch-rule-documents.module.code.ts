@@ -1,6 +1,6 @@
 import { readdir } from "node:fs/promises"
 import { join } from "node:path"
-import { type Value, valueAt } from "@akasha/pages-system/page-value"
+import { type Value, valueAt } from "@akasha/pages/page-value"
 import { AKASHA } from "../files/monarch-files.module.code.ts"
 import { ruleFromMatches, statedMatches } from "../rule-clauses/monarch-rule-clauses.module.code.ts"
 import { categoryTitles } from "../rule-pages/monarch-rule-pages.module.code.ts"

@@ -11,8 +11,8 @@ import type { Answer, Given } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import type { FileEdit } from "@akasha/command-system/landing"
 import { listedAt } from "@akasha/indexes"
-import { besideAt } from "@akasha/pages-system/page-file-name"
-import { type Value, valueAt } from "@akasha/pages-system/page-value"
+import { besideAt } from "@akasha/pages/page-file-name"
+import { type Value, valueAt } from "@akasha/pages/page-value"
 import { composedFor } from "@akasha/pages-system-service/composing"
 
 const INPUT = 1

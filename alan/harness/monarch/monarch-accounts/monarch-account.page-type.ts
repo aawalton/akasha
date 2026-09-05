@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { MonarchRecord } from "../monarch-records/monarch-record.page-type.ts"
 import type { AccountActive } from "./properties/account-active.boolean-property.ts"
 import type { AccountDisplayName } from "./properties/account-display-name.text-property.ts"

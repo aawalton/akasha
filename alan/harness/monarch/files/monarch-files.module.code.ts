@@ -1,7 +1,7 @@
 import { readdir, readFile } from "node:fs/promises"
 import { join } from "node:path"
-import { AKASHA as AKASHA_REPO, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { type Value, valueAt } from "@akasha/pages-system/page-value"
+import { AKASHA as AKASHA_REPO, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import { type Value, valueAt } from "@akasha/pages/page-value"
 
 const roots = resolveRoots()
 

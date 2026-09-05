@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { MonarchRecord } from "../monarch-records/monarch-record.page-type.ts"
 import type { AppliesWhen } from "./properties/applies-when.text-property.ts"
 import type { Directs } from "./properties/directs.text-property.ts"

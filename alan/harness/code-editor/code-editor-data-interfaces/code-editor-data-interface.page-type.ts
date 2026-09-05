@@ -1,5 +1,5 @@
 import type { Domain } from "@akasha/domains/domain"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { AmbientTypes } from "../../../../code-system/type-declarations/properties/ambient-types.file-property.ts"
 import type { CooldownMilliseconds } from "./properties/cooldown-milliseconds.number-property.ts"
 import type { State } from "./properties/state.file-property.ts"

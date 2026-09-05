@@ -1,4 +1,4 @@
-import { AKASHA, resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, resolveRoots } from "@akasha/pages/checkout-roots"
 import { asking } from "@akasha/pages-system-service/asking"
 import type { Asking } from "@akasha/readout-system/readout-asking"
 import { keepReading } from "@akasha/readout-system/readout-reading"
@@ -8,8 +8,7 @@ import {
   wakeDayWindow,
 } from "../../../tracking/daily/day-opening/day-opening.module.code.ts"
 
-export const READOUT_PAGE =
-  "readout-system/readouts/pages/upkeep-plants/upkeep-plants.readout.ts"
+export const READOUT_PAGE = "readout-system/readouts/pages/upkeep-plants/upkeep-plants.readout.ts"
 
 export function askingIn(root: string): Asking {
   return async (query) => {

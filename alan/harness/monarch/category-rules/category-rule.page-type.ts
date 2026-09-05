@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages-system/page"
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { Page } from "@akasha/pages/page"
+import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { CategorySlug } from "../monarch-months/properties/category-slug.relation-property.ts"
 import type { CounterpartWithinDays } from "./properties/counterpart-within-days.number-property.ts"

@@ -1,8 +1,8 @@
 import { valuesOfType } from "@akasha/indexes"
-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
-import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
-import { entriesAt } from "@akasha/pages-system/page-entries"
-import { queueAt } from "@akasha/pages-system/page-entry-queue"
+import { akashaRoot } from "@akasha/pages/checkout-roots"
+import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
+import { entriesAt } from "@akasha/pages/page-entries"
+import { queueAt } from "@akasha/pages/page-entry-queue"
 
 export const NOTIFICATION_FEED_PAGE_TYPE_SLUG = "notification-feed"
 

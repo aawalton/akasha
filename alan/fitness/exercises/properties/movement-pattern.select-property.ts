@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const movementPattern = {
   id: "01a0657e-2bbf-7dea-b8cd-ef434268cd50",

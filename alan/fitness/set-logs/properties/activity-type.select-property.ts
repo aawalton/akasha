@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages-system/select-property"
+import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const activityType = {
   id: "01a06580-66fd-7f9b-af43-203744c8d848",

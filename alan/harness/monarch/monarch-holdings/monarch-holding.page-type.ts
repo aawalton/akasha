@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages-system/page-type"
+import type { PageType } from "@akasha/pages/page-type"
 import type { MonarchRecord } from "../monarch-records/monarch-record.page-type.ts"
 import type { AccountSlug } from "./properties/account-slug.relation-property.ts"
 import type { CostBasis } from "./properties/cost-basis.number-property.ts"
