@@ -879,3 +879,11 @@ index ec5ab16f7eb4f6822faece11ad751e7971ff86e9..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-completion-import
 \ No newline at end of file
+diff --git a/temper/temper-completion/temper-completion b/temper/temper-completion/temper-completion
+deleted file mode 120000
+index d1dd20b0c7905aa1a4beb4799015292d2a4a0d03..0000000000000000000000000000000000000000
+--- a/temper/temper-completion/temper-completion
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-completion
+\ No newline at end of file
