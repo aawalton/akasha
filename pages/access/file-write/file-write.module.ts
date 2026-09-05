@@ -19,7 +19,7 @@ export const fileWrite = {
     {
       invariantKind: "departure",
       statement:
-        "A `where` is answered by the service, and the slugs it names are what is written.",
+        "A `where` is answered by the service, and the slugs it names are the pages written.",
     },
     {
       invariantKind: "departure",
@@ -55,7 +55,8 @@ export const fileWrite = {
     },
     {
       invariantKind: "departure",
-      statement: "The writer a write names is read from what the caller states or from the seat.",
+      statement:
+        "The writer a write names is read from the name the caller states or from the seat.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +68,7 @@ export const fileWrite = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads what a page type declares.",
+      statement: "Nothing here reads the properties a page type declares.",
     },
   ],
 } as const satisfies Module
