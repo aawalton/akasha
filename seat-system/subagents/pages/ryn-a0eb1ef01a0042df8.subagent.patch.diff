@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/google/calendar/calendar-events/calendar-events.module.ts b/google/calendar/calendar-events/calendar-events.module.ts
+index a6550b3f567cac85b5ed4548b49dfb629b42fb69..fec95b0f7aa8f02451ef3cae65d1a3bb26db2199 100644
+--- a/google/calendar/calendar-events/calendar-events.module.ts
++++ b/google/calendar/calendar-events/calendar-events.module.ts
+@@ -13,7 +13,7 @@ export const calendarEvents = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Answering an invitation you are not an attendee on is refused.",
++      statement: "Answering an invitation the signed-in account is not an attendee on is refused.",
+     },
+     {
+       invariantKind: "departure",
