@@ -9,7 +9,8 @@ export const rulePopulationReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What a rule weighed is counted rather than what the rule found.",
+      statement:
+        "The population a rule weighed is counted rather than the violations the rule found.",
     },
     {
       invariantKind: "departure",
