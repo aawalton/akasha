@@ -68,12 +68,13 @@ export const provisionedFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A machine that the file is not for is said by what the file is only on.",
+      statement:
+        "A machine that the file is not for is said by the kind of machine the file is only on.",
     },
     {
       invariantKind: "departure",
       statement:
-        "What makes a placed file take effect is stated by the page rather than by the placer.",
+        "The command making a placed file take effect is stated by the page rather than by the placer.",
     },
     {
       invariantKind: "absence",
