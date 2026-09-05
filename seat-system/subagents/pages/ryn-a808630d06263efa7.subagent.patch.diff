@@ -1,5 +1,5 @@
 diff --git a/collection-system/royal-road-accounts/royal-road-account.page-type.ts b/collection-system/royal-road-accounts/royal-road-account.page-type.ts
-index 8b8b6ee9c7a472b0664bbb6aae37fc2ffb2fe07e..4c87838fa8a3f7faae9440d372718ac9d61c488c 100644
+index 8b8b6ee9c7a472b0664bbb6aae37fc2ffb2fe07e..d81132295c10956deaca59cfea22e25acec84544 100644
 --- a/collection-system/royal-road-accounts/royal-road-account.page-type.ts
 +++ b/collection-system/royal-road-accounts/royal-road-account.page-type.ts
 @@ -23,7 +23,7 @@ export const royalRoadAccount = {
@@ -11,3 +11,13 @@ index 8b8b6ee9c7a472b0664bbb6aae37fc2ffb2fe07e..4c87838fa8a3f7faae9440d372718ac9
      },
      {
        invariantKind: "departure",
+@@ -31,7 +31,8 @@ export const royalRoadAccount = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An account is reached by its slug rather than by the address it signs in as.",
++      statement:
++        "An account is reached by its slug rather than by the address that account signs in as.",
+     },
+     {
+       invariantKind: "gap",
