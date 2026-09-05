@@ -113,7 +113,7 @@ function suffixedIn(root: string): ReadonlyMap<string, readonly string[]> {
 }
 
 // `_repo` is unread. It named the repository the page index was to be asked for, and there is no
-// index to ask — every scan now walks the disk under `root`. The argument stands because the caller
+// index to ask — every scan now walks the disk under `root`. The argument remains because the caller
 // still knows which repository the root is, and the reader that will want it again is being written.
 export function scanIn(
   root: string,
@@ -241,7 +241,7 @@ export function repoPlacings(roots: Roots): ReadonlyMap<string, string> {
 
 const PAGE_TYPE = "page-type"
 
-// Four page-type pages stand outside `pages/page-type/` — the readout ones — so this cannot be an
+// Four page-type pages sit outside `pages/page-type/` — the readout ones — so this cannot be an
 // exact read of that folder. It walks the tree for the suffix instead, which the index used to save.
 function pageTypeFilesIn(root: string): ReadonlyMap<string, string> {
   return onceInCall(`page-type-files:${root}`, () => {
@@ -324,9 +324,9 @@ export function filedIntoAny(one: PageType, named: readonly string[]): boolean {
 }
 
 /**
- * The one repository a page type's pages stand in, or nothing where they stand in several.
+ * The one repository a page type's pages are in, or nothing where they are in several.
  *
- * A type states one `files:` entry for each place its pages stand, and a type part way through a
+ * A type states one `files:` entry for each place its pages are, and a type part way through a
  * migration states two in the same repository — the markdown half and the akasha half. That is one
  * repository named twice, not two repositories, and a writer that counted the entries rather than
  * the repositories would refuse to write a page it can plainly place.
@@ -356,14 +356,14 @@ const AKASHA_HELD = "ts"
  * A page is a markdown file named `<stem>.<page-type>.md` or a TypeScript file named
  * `<slug>.<page-type>.ts`, and only the markdown half was ever asked here. `pageTypeOf` is that
  * half and says so in its own name — its module page is `markdown-page-type`, "the page type a
- * markdown file's name carries" — so the akasha half stands beside it rather than inside it.
+ * markdown file's name carries" — so the akasha half sits beside it rather than inside it.
  *
- * A `.ts` name carrying anything between the page type and `.ts` names a file standing beside a
+ * A `.ts` name carrying anything between the page type and `.ts` names a file beside a
  * page rather than a page. `page-beside.module.code.ts` is the code of the `page-beside` module
  * page, and `foo.test.ts` outside `akasha/` is no page at all, so this asks `partedIn` for a name
  * with no sections rather than taking whatever the last section happens to be.
  *
- * What this cannot say is whether the type it names is a page type standing here: no set of types
+ * What this cannot say is whether the type it names is a page type here: no set of types
  * is handed to it. `claimant` below settles that against the types it is given, which is where
  * `page-file-name` puts the same question — whether the page type slot names a page type is
  * answered against the set handed in.

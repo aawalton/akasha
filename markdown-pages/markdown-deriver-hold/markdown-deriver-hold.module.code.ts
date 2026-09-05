@@ -24,8 +24,8 @@ function memoRows(derive: Deriver): Deriver {
   return {
     ...derive,
     rows: (pageType: string): Iterable<Row> | null => {
-      const stood = rowed.get(pageType)
-      if (stood !== undefined) return stood
+      const kept = rowed.get(pageType)
+      if (kept !== undefined) return kept
       const got = derive.rows(pageType)
       rowed.set(pageType, got)
       return got
