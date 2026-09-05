@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/applying/applying.module.ts b/command-system/applying/applying.module.ts
-index 1a3ed5ca4ae639cfa558b75be786749b7d469d26..de3014b28c1864fc7d5993bfca9af68e686a1221 100644
+index 1a3ed5ca4ae639cfa558b75be786749b7d469d26..e37857267e7a7f74b0b53d3cca5ddc1a1d7398ed 100644
 --- a/command-system/applying/applying.module.ts
 +++ b/command-system/applying/applying.module.ts
 @@ -59,7 +59,7 @@ export const applying = {
@@ -18,6 +18,15 @@ index 1a3ed5ca4ae639cfa558b75be786749b7d469d26..de3014b28c1864fc7d5993bfca9af68e
        invariantKind: "departure",
 -      statement: "The warrant refuses a path that moved until the agent reads what moved.",
 +      statement: "The warrant refuses a path that moved until the agent reads the body that moved.",
+     },
+     {
+       invariantKind: "departure",
+@@ -95,7 +95,7 @@ export const applying = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An agent is never left owing a read of what that agent's own apply landed.",
++      statement: "An agent is never left owing a read of the bodies that agent's own apply landed.",
      },
      {
        invariantKind: "departure",
