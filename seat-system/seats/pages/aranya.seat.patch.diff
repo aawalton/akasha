@@ -1,5 +1,5 @@
 diff --git a/service-system/cluster-services/cluster-service.page-type.ts b/service-system/cluster-services/cluster-service.page-type.ts
-index 6c0555447f5b1b7e86ebb63bd673892b6f5e1a90..4141e1834428bf3c4279b8bc6d5091bd1f4c4465 100644
+index 6c0555447f5b1b7e86ebb63bd673892b6f5e1a90..f5b652807e196c9e54598281dd63eb123d986c64 100644
 --- a/service-system/cluster-services/cluster-service.page-type.ts
 +++ b/service-system/cluster-services/cluster-service.page-type.ts
 @@ -1,6 +1,5 @@
@@ -19,3 +19,11 @@ index 6c0555447f5b1b7e86ebb63bd673892b6f5e1a90..4141e1834428bf3c4279b8bc6d5091bd
  }
  
  export const clusterService = {
+@@ -86,7 +84,6 @@ export const clusterService = {
+     "number-property/replicas",
+     "relation-property/manifest-slug",
+     "text-property/image",
+-    "text-property/cluster-service-manifest-code",
+     "text-property/namespace",
+     "text-property/resource-kind",
+     "text-property/resource-name",
