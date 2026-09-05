@@ -1,0 +1,31 @@
+diff --git a/commands/test/test.command.code.ts b/commands/test/test.command.code.ts
+index 47ae8a257c7b819c9112fca205523b494069f504..052ac8110762b5d14fefcba5d9f81446f69716c1 100644
+--- a/commands/test/test.command.code.ts
++++ b/commands/test/test.command.code.ts
+@@ -2,7 +2,7 @@ import { existsSync } from "node:fs"
+ import { join, relative, resolve } from "node:path"
+ import { textIn } from "@akasha/code-system/body-text"
+ import type { Summary, Verdict } from "@akasha/code-system/code-tests"
+-import { ranOver, testsUnder } from "@akasha/code-system/code-tests"
++import { plain, ranOver, testNamed, testsUnder } from "@akasha/code-system/code-tests"
+ import type { Answer, Given } from "../../command-system/calling/calling.module.code.ts"
+ 
+ const FILE_PATH = "--file-path"
+diff --git a/commands/test/test.command.test.ts b/commands/test/test.command.test.ts
+index d74e6602287fbde106231b91174e8a77f0359f4b..2431847c715f5f5bc3f2a60f6bc98cef1eefcc3d 100644
+--- a/commands/test/test.command.test.ts
++++ b/commands/test/test.command.test.ts
+@@ -9,6 +9,13 @@ const PASSES = 'import { expect, test } from "bun:test"\ntest("one", () => { exp
+ 
+ const FAILS = 'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(2) })\n'
+ 
++const TWICE =
++  'import { expect, test } from "bun:test"\n' +
++  'test("first", () => { expect(1).toBe(2) })\n' +
++  'test("second", () => { expect(3).toBe(4) })\n'
++
++const LOADS = 'import { nope } from "./nowhere.ts"\nconsole.log(nope)\n'
++
+ const scratch = scratchWorld()
+ 
+ afterAll(scratch.sweep)
