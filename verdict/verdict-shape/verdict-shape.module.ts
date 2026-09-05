@@ -9,7 +9,7 @@ export const verdictShape = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "Nothing here stands at runtime.",
+      statement: "Nothing here exists at runtime.",
     },
   ],
 } as const satisfies Module
