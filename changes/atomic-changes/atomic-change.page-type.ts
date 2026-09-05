@@ -14,7 +14,11 @@ export const atomicChange = {
     {
       invariantKind: "departure",
       statement:
-        "A change that splits into two that each leave the tree whole is two atomic changes rather than one.",
+        "A change that splits across files into two that each leave the tree whole is two atomic changes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change that leaves the tree whole within one file is one atomic change.",
     },
     {
       invariantKind: "departure",
