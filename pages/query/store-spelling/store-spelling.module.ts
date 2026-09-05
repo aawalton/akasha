@@ -22,7 +22,7 @@ export const storeSpelling = {
     },
     {
       invariantKind: "departure",
-      statement: "A key a caller already spells the store's way is left as it is.",
+      statement: "A key a caller already spells the store's way is left as the key is.",
     },
     {
       invariantKind: "departure",
