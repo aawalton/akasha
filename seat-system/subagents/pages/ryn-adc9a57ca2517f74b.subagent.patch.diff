@@ -25,3 +25,16 @@ index 43a85a86f97f3578c92daf46475be207a33d90ab..b5600efca30897ad27e8bc65665590df
      },
      {
        invariantKind: "departure",
+diff --git a/alan/harness/notifications/push-notifying/push-notifying.module.ts b/alan/harness/notifications/push-notifying/push-notifying.module.ts
+index cd332f33a00dbec6bd1346c0fa122d6fc892f038..2c1f125381ebc19539bd8f0b937ab0d33833add9 100644
+--- a/alan/harness/notifications/push-notifying/push-notifying.module.ts
++++ b/alan/harness/notifications/push-notifying/push-notifying.module.ts
+@@ -42,7 +42,7 @@ export const pushNotifying = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A tick still working when its ceiling passes ends the process rather than letting a second one start beside it.",
++        "A tick still working past its ceiling ends the process rather than letting a second tick start.",
+     },
+     {
+       invariantKind: "departure",
