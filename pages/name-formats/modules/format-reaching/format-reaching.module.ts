@@ -19,7 +19,7 @@ export const formatReaching = {
     },
     {
       invariantKind: "departure",
-      statement: "What is loaded is what the slug's export name answers to.",
+      statement: "The judgement loaded is the value the slug's export name answers to.",
     },
     {
       invariantKind: "departure",
