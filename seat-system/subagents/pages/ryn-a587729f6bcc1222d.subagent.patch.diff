@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-progress/progress-things/temper-progress-thing.page-type.ts b/temper/temper-progress/progress-things/temper-progress-thing.page-type.ts
+index 47a4a289308e00c531ee82170aa06ab28a42dce0..cdabeae5d27bd214c345f0af8ec094722a80550b 100644
+--- a/temper/temper-progress/progress-things/temper-progress-thing.page-type.ts
++++ b/temper/temper-progress/progress-things/temper-progress-thing.page-type.ts
+@@ -54,7 +54,7 @@ export const temperProgressThing = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A page here says what Alan has done or what Alan has left to do.",
++      statement: "A page here names a thing Alan has done or a thing Alan has left to do.",
+     },
+     {
+       invariantKind: "departure",
