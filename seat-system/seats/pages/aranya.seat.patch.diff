@@ -569,6 +569,21 @@ index 0000000000000000000000000000000000000000..3e3c623ff8b49d08dcc73c6843bf7876
 +  definition: "the config maps holding the coordination server's settings and access rules",
 +  code: "ts",
 +} as const satisfies Module
+diff --git a/infrastructure/cluster-manifests/headscale-statefulsets/headscale-statefulsets.module.ts b/infrastructure/cluster-manifests/headscale-statefulsets/headscale-statefulsets.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..dce4ec4f256418e3d28eae15ac138fc549ee5e3a
+--- /dev/null
++++ b/infrastructure/cluster-manifests/headscale-statefulsets/headscale-statefulsets.module.ts
+@@ -0,0 +1,9 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const headscaleStatefulsets = {
++  id: "01a073ae-b2af-7e9b-a63c-63ca580ff2d0",
++  pageTypeSlug: "module",
++  slug: "headscale-statefulsets",
++  definition: "the coordination server's workload and the router that reaches the nodes",
++  code: "ts",
++} as const satisfies Module
 diff --git a/infrastructure/cluster-manifests/package.json b/infrastructure/cluster-manifests/package.json
 index 2e3f1f19ad85a1923ea5d149c7560f380f47bd64..4fdd5ae07c185fefe04a12503f9d33760694a558 100644
 --- a/infrastructure/cluster-manifests/package.json
