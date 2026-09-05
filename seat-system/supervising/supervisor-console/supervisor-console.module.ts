@@ -14,7 +14,7 @@ export const supervisorConsole = {
     },
     {
       invariantKind: "departure",
-      statement: "A page refusing lines is said once rather than on every line it refuses.",
+      statement: "A page refusing lines is said once rather than on every line that page refuses.",
     },
     {
       invariantKind: "departure",
