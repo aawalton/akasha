@@ -9,7 +9,8 @@ export const libSetsDebugDebugSetScanRun = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Each package of item ids is scheduled one second after the one before it.",
+      statement:
+        "Each package of item ids is scheduled one second after the one before that package.",
     },
     {
       invariantKind: "constraint",
