@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts
-index 7818329b0eda848cf6b89ba72c92dbf451ba6105..0b4d95d1f1a5e628b20975ed50e525fd646edff6 100644
+index 7818329b0eda848cf6b89ba72c92dbf451ba6105..95a2daa4c3e0b231000bba509afa8067e2c6cc79 100644
 --- a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts
 +++ b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.code.ts
 @@ -7,10 +7,10 @@ import { categoryTitles } from "../rule-pages/monarch-rule-pages.module.code.ts"
@@ -25,6 +25,15 @@ index 7818329b0eda848cf6b89ba72c92dbf451ba6105..0b4d95d1f1a5e628b20975ed50e525fd
          "rules are gone or merely moved. Answering with no rules would categorize nothing and " +
          `report nothing wrong. (${why instanceof Error ? why.message : String(why)})`
      )
+@@ -93,7 +93,7 @@ function countOf(page: RulePage, name: string): number | null {
+   return held
+ }
+ 
+-async function standing(): Promise<readonly RulePage[]> {
++async function rulePages(): Promise<readonly RulePage[]> {
+   const found: RulePage[] = []
+   const held = new Map<string, string>()
+   for (const one of KINDS) {
 @@ -110,7 +110,7 @@ async function standing(): Promise<readonly RulePage[]> {
        const already = held.get(slug)
        if (already !== undefined) {
