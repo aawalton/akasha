@@ -1,5 +1,5 @@
 diff --git a/persona-system/personas/persona-points.domain.ts b/persona-system/personas/persona-points.domain.ts
-index e3fdb560a0d9c780734e120909c3f4057e3a85d4..d037e7146e562d0a96ac2dd8520b764e99b95c56 100644
+index e3fdb560a0d9c780734e120909c3f4057e3a85d4..0d90e5e26341e211ba1862c251a13b8128c02787 100644
 --- a/persona-system/personas/persona-points.domain.ts
 +++ b/persona-system/personas/persona-points.domain.ts
 @@ -10,7 +10,7 @@ export const personaPoints = {
@@ -8,6 +8,15 @@ index e3fdb560a0d9c780734e120909c3f4057e3a85d4..d037e7146e562d0a96ac2dd8520b764e
        statement:
 -        "Attention counts where it made that part of Alan's life better, whoever did the work.",
 +        "Attention counts where that attention made that part of Alan's life better, whoever did the work.",
+     },
+     {
+       invariantKind: "departure",
+@@ -32,7 +32,7 @@ export const personaPoints = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A persona's running total only ever rises, unless a rebuild rewrites it downward.",
++        "A persona's running total only ever rises, unless a rebuild rewrites that total downward.",
      },
      {
        invariantKind: "departure",
