@@ -26,7 +26,7 @@ export const narrowComparison = {
     },
     {
       invariantKind: "departure",
-      statement: "A comparison taking many is given as many as it needs.",
+      statement: "A comparison taking many is given as many as that comparison needs.",
     },
   ],
 } as const satisfies TextProperty
