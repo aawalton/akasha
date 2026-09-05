@@ -95,7 +95,7 @@ index 4ea48fe70aae262462abb6904e10611c07b64b72..c5cc6ba3e89417ed2bdc196d1c9f2013
        invariantKind: "departure",
        statement: "A patch no longer mechanical is mechanical again for no later change.",
 diff --git a/commands/patch/patch.command.code.ts b/commands/patch/patch.command.code.ts
-index 28ffd619df397839bc783d7257392a97858ca2a4..f00ba07f42755e94922fe499450b4a32b669a009 100644
+index 28ffd619df397839bc783d7257392a97858ca2a4..661a201cf12bc3876283eb3d83cdcb5f2f9cd470 100644
 --- a/commands/patch/patch.command.code.ts
 +++ b/commands/patch/patch.command.code.ts
 @@ -17,6 +17,7 @@ import {
@@ -115,3 +115,39 @@ index 28ffd619df397839bc783d7257392a97858ca2a4..f00ba07f42755e94922fe499450b4a32
  const RESOLVING = [FILE_PATH, CONTENT_FILE]
  
  const BARE: readonly string[] = []
+@@ -201,13 +204,32 @@ export function showingBody(root: string, page: string, argv: readonly string[])
+   return { report: linesOf(body), refusals: [], code: 0 }
+ }
+ 
+-export function dropping(root: string, page: string): Answer {
++export function dropping(root: string, page: string, argv: readonly string[]): Answer {
++  const unknown = unknownIn(argv, DROPPING, BARE)
++  if (unknown.length > 0) return mistaking(unknown)
+   const at = patchAt(page)
+   if (at === null || patchIn(root, page) === null) {
+     return { report: [noneSaid(root, page)], refusals: [], code: 0 }
+   }
+-  droppedPatch(root, page, DROPPED)
+-  return { report: [`the patch kept at ${at} is taken away`], refusals: [], code: 0 }
++  if (argv.length === 0) {
++    droppedPatch(root, page, DROPPED)
++    return { report: [`the patch kept at ${at} is taken away`], refusals: [], code: 0 }
++  }
++  const named = onePathIn(root, argv, DROPPING)
++  if ("refusals" in named) return mistaking(named.refusals)
++  const said = droppedAt(root, page, named.path)
++  if ("why" in said) return { report: [], refusals: [said.why], code: 2 }
++  return {
++    report: [
++      `${named.path} is taken out of the patch`,
++      ...said.clashed.map(clashSaid),
++      said.patch === null
++        ? "the patch was worked out to nothing and taken away"
++        : `the patch is kept at ${at}`,
++    ],
++    refusals: [],
++    code: 0,
++  }
+ }
+ 
+ function bodyIn(
