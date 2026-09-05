@@ -12,6 +12,19 @@ index 4baf3df147c49f02d56a774d8437058abcd8679e..7afc539b7e98eec2834b153fd248aa5f
      },
      {
        invariantKind: "constraint",
+diff --git a/alan/harness/monarch/amazon-refunds/monarch-amazon-refunds.module.ts b/alan/harness/monarch/amazon-refunds/monarch-amazon-refunds.module.ts
+index 93a75e45b6afbbe1b1f1350165d2df9e2bfaa851..7f3f32d4fc9af2c4ebca413726cfd6e1c3d62af1 100644
+--- a/alan/harness/monarch/amazon-refunds/monarch-amazon-refunds.module.ts
++++ b/alan/harness/monarch/amazon-refunds/monarch-amazon-refunds.module.ts
+@@ -28,7 +28,7 @@ export const monarchAmazonRefunds = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A message carrying fewer than the amount, the order number and the item is counted rather than passed over silently.",
++        "A message missing the amount, the order number or the item is counted rather than skipped silently.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/alan/harness/monarch/notes-write/monarch-notes-write.module.ts b/alan/harness/monarch/notes-write/monarch-notes-write.module.ts
 index 0412d6b76afaf6ac2ce94f0935b80c158e613cf3..d63f5e54249530e4b745c8d64388b6470ee474c5 100644
 --- a/alan/harness/monarch/notes-write/monarch-notes-write.module.ts
