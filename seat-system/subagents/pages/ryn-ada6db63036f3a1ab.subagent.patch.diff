@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/relating/relationship-topics/relationship-topic.page-type.ts b/alan/relating/relationship-topics/relationship-topic.page-type.ts
+index 14f1dc9751a8a07b5df2605405b01f87af412c42..b9443449337000574ab373f5c3c6a8ccdd2e6114 100644
+--- a/alan/relating/relationship-topics/relationship-topic.page-type.ts
++++ b/alan/relating/relationship-topics/relationship-topic.page-type.ts
+@@ -41,7 +41,7 @@ export const relationshipTopic = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A relationship topic names the people it is held with.",
++      statement: "A relationship topic names the people that topic is held with.",
+     },
+     {
+       invariantKind: "absence",
