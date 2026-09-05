@@ -14,7 +14,8 @@ export const watcherPricingTables = {
     },
     {
       invariantKind: "departure",
-      statement: "Every run says the tables are empty rather than saying it once.",
+      statement:
+        "Every run says the tables are empty rather than saying once that the tables are empty.",
     },
     {
       invariantKind: "departure",
