@@ -1,0 +1,103 @@
+runsWarrants: false
+diff --git a/infrastructure/seaweedfs/volume/seaweedfs-volume.cluster-service.code.attachment.ts b/infrastructure/seaweedfs/volume/seaweedfs-volume.cluster-service.code.attachment.ts
+deleted file mode 100644
+index 89e973e8d7bfc4331591a6355023f4f2e8546cf8..0000000000000000000000000000000000000000
+--- a/infrastructure/seaweedfs/volume/seaweedfs-volume.cluster-service.code.attachment.ts
++++ /dev/null
+@@ -1,39 +0,0 @@
+-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+-import {
+-  COMPONENT_VOLUME,
+-  componentLabels,
+-  METRICS_PORT,
+-  NAMESPACE,
+-  selectorLabels,
+-  VOLUME_GRPC_PORT,
+-  VOLUME_HTTP_PORT,
+-} from "../seaweedfs-constants/seaweedfs-constants.module.code.ts"
+-import { volumeDeploymentYaml } from "../seaweedfs-deployments/seaweedfs-deployments.module.code.ts"
+-
+-function serviceYaml(): string {
+-  return synthOne(NAMESPACE, "service-volume", {
+-    apiVersion: "v1",
+-    kind: "Service",
+-    metadata: {
+-      name: "volume",
+-      namespace: NAMESPACE,
+-      labels: componentLabels(COMPONENT_VOLUME),
+-    },
+-    spec: {
+-      type: "ClusterIP",
+-      ports: [
+-        { name: "http", port: VOLUME_HTTP_PORT, targetPort: VOLUME_HTTP_PORT },
+-        { name: "grpc", port: VOLUME_GRPC_PORT, targetPort: VOLUME_GRPC_PORT },
+-        { name: "metrics", port: METRICS_PORT, targetPort: METRICS_PORT },
+-      ],
+-      selector: selectorLabels(COMPONENT_VOLUME),
+-    },
+-  })
+-}
+-
+-export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
+-  return [
+-    { name: "service", yaml: serviceYaml() },
+-    { name: "volume", yaml: volumeDeploymentYaml() },
+-  ]
+-}
+diff --git a/infrastructure/seaweedfs/volume/seaweedfs-volume.manifest.code.ts b/infrastructure/seaweedfs/volume/seaweedfs-volume.manifest.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..89e973e8d7bfc4331591a6355023f4f2e8546cf8
+--- /dev/null
++++ b/infrastructure/seaweedfs/volume/seaweedfs-volume.manifest.code.ts
+@@ -0,0 +1,39 @@
++import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
++import {
++  COMPONENT_VOLUME,
++  componentLabels,
++  METRICS_PORT,
++  NAMESPACE,
++  selectorLabels,
++  VOLUME_GRPC_PORT,
++  VOLUME_HTTP_PORT,
++} from "../seaweedfs-constants/seaweedfs-constants.module.code.ts"
++import { volumeDeploymentYaml } from "../seaweedfs-deployments/seaweedfs-deployments.module.code.ts"
++
++function serviceYaml(): string {
++  return synthOne(NAMESPACE, "service-volume", {
++    apiVersion: "v1",
++    kind: "Service",
++    metadata: {
++      name: "volume",
++      namespace: NAMESPACE,
++      labels: componentLabels(COMPONENT_VOLUME),
++    },
++    spec: {
++      type: "ClusterIP",
++      ports: [
++        { name: "http", port: VOLUME_HTTP_PORT, targetPort: VOLUME_HTTP_PORT },
++        { name: "grpc", port: VOLUME_GRPC_PORT, targetPort: VOLUME_GRPC_PORT },
++        { name: "metrics", port: METRICS_PORT, targetPort: METRICS_PORT },
++      ],
++      selector: selectorLabels(COMPONENT_VOLUME),
++    },
++  })
++}
++
++export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
++  return [
++    { name: "service", yaml: serviceYaml() },
++    { name: "volume", yaml: volumeDeploymentYaml() },
++  ]
++}
+diff --git a/service-system/cluster-services/pages/seaweedfs-volume.cluster-service.ts b/service-system/cluster-services/pages/seaweedfs-volume.cluster-service.ts
+index 51b85e139edc4b55050b3f27443df90404d05b38..866e9ee4f7e6be99aea850565d8f4a0b09ad41d1 100644
+--- a/service-system/cluster-services/pages/seaweedfs-volume.cluster-service.ts
++++ b/service-system/cluster-services/pages/seaweedfs-volume.cluster-service.ts
+@@ -11,6 +11,5 @@ export const seaweedfsVolume = {
+   image: "chrislusf/seaweedfs:3.73",
+   replicas: 1,
+   containerPort: 8080,
+-  manifestCode:
+-    "infrastructure/seaweedfs/volume/seaweedfs-volume.cluster-service.code.attachment.ts",
++  manifestCode: "infrastructure/seaweedfs/volume/seaweedfs-volume.manifest.code.ts",
+ } as const satisfies ClusterService
