@@ -9,7 +9,7 @@ export const deleting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A removal takes the page's file rather than raising a flag on it.",
+      statement: "A removal takes the page's file rather than raising a flag on that page.",
     },
   ],
 } as const satisfies Module
