@@ -6,10 +6,4 @@ export const housingVisitCardSend = {
   slug: "housing-visit-card-send",
   definition: "sending a visit card to a friend, a guild or a zone",
   code: "ts",
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "A card is sent as an ordinary chat line carrying the agreed key word.",
-    },
-  ],
 } as const satisfies Module
