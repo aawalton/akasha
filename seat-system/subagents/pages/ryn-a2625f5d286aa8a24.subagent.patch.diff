@@ -132,3 +132,21 @@ index ffc485f4a8a71ba3be7ff4dfae0126b93d7fe57c..aa9354bfc855f8f869711e1ff66b9e64
      },
      {
        invariantKind: "departure",
+diff --git a/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.ts b/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.ts
+index c42f955d8b824693480e1c032431bd8fd03017e3..015c8bef2ea8b00161968956319ca9eaabcb2cdf 100644
+--- a/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.ts
++++ b/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.ts
+@@ -25,8 +25,11 @@ export const hooksInventorySettings = {
+     },
+     {
+       invariantKind: "gap",
+-      statement:
+-        "The item rules and the buy rules are still read from the settings blob, which answers with the ending of its file rather than its body.",
++      statement: "The item rules and the buy rules are still read from the settings blob.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "The settings blob answers with the ending of its file rather than its body.",
+     },
+   ],
+ } as const satisfies Module
