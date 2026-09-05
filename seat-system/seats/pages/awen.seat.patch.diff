@@ -40,7 +40,7 @@ index 566093ea0af6a9d67dd8a6b24e368360a1e24dfb..a7994b716ae3e461cf9874c0d07dfb4a
 +  })
 +}
 diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
-index c70536b6a67282fc3d9e4bf031e92e4022f44e92..eda9dea9e96181e8b6175ac5077668874674402c 100644
+index c70536b6a67282fc3d9e4bf031e92e4022f44e92..1222c3ce42b8ac7e418f296df9a799594f90338d 100644
 --- a/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 +++ b/checks/code-checks/pages/typecheck/typecheck.code-check.test.ts
 @@ -5,7 +5,9 @@ import type { Change } from "@akasha/pages-system/change"
@@ -99,3 +99,12 @@ index c70536b6a67282fc3d9e4bf031e92e4022f44e92..eda9dea9e96181e8b6175ac507766887
    const said = await over(
      root,
      "akasha/held.ts",
+@@ -188,7 +195,7 @@ test("a change that would break a file it does not touch is refused, and answers
+ })
+ 
+ test("a file the change takes away is gone for the compiler, so a file still importing it is refused", async () => {
+-  const root = staged({ "akasha/held.ts": TAKES_NUMBER, "akasha/calls.ts": CALLS_HELD })
++  const root = calling()
+   const said = await over(root, "akasha/held.ts", null)
+   expect(said).toHaveLength(1)
+   expect(said[0]?.path).toBe("akasha/calls.ts")
