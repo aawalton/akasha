@@ -9,7 +9,7 @@ export const tradingSellHelper = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A suggested price comes from the trade centre where it has one.",
+      statement: "A suggested price comes from the trade centre where that trade centre has one.",
     },
   ],
 } as const satisfies Module
