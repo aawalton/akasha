@@ -30,7 +30,7 @@ index f1bedd844599fe99a7aa22c3df0917ff82e54b92..2fac4e17aa4835d0ec1bf5f4e56c2012
      naps
    )
 diff --git a/person-system/device-secret-keeping/device-secret-keeping.module.test.ts b/person-system/device-secret-keeping/device-secret-keeping.module.test.ts
-index b9b1ca7f39b8c6db265300730feec6a48ffc9503..53ef2d57d6fa273831007a062f4242cee1a67126 100644
+index b9b1ca7f39b8c6db265300730feec6a48ffc9503..d1a0e8414a215d78d9dc5ea388fd011cd84512e4 100644
 --- a/person-system/device-secret-keeping/device-secret-keeping.module.test.ts
 +++ b/person-system/device-secret-keeping/device-secret-keeping.module.test.ts
 @@ -107,7 +107,7 @@ test("a slug becomes an export name that opens with a letter", () => {
@@ -51,7 +51,7 @@ index b9b1ca7f39b8c6db265300730feec6a48ffc9503..53ef2d57d6fa273831007a062f4242ce
    const page = pageFor(generateDeviceSecret())
    const refused = await deviceSecretPresented(
      generateDeviceSecret(),
-@@ -167,7 +167,7 @@ test("a caller presenting a secret no page stands for is refused", async () => {
+@@ -167,10 +167,10 @@ test("a caller presenting a secret no page stands for is refused", async () => {
    )
    expect(refused.outcome).toBe("refused")
    if (refused.outcome !== "refused") return
@@ -59,7 +59,11 @@ index b9b1ca7f39b8c6db265300730feec6a48ffc9503..53ef2d57d6fa273831007a062f4242ce
 +  expect(refused.why).toBe("no device secret represents the secret presented")
  })
  
- test("a caller presenting a secret a page stands for is read to that account", async () => {
+-test("a caller presenting a secret a page stands for is read to that account", async () => {
++test("a caller presenting a secret a page represents is read to that account", async () => {
+   const secret = generateDeviceSecret()
+   const page = pageFor(secret)
+   const read = await deviceSecretPresented(
 diff --git a/person-system/device-secret-keeping/device-secret-keeping.module.ts b/person-system/device-secret-keeping/device-secret-keeping.module.ts
 index 9687f40bb4fffb87fba4e42ead7225723ff33d0f..530cc3a96aa49f6dfce44d631498117c582a2a39 100644
 --- a/person-system/device-secret-keeping/device-secret-keeping.module.ts
