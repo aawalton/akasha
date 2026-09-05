@@ -17,7 +17,7 @@ export const inferenceApply = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What is applied is what the registry declares.",
+      statement: "The services applied are the services the registry declares.",
     },
     {
       invariantKind: "departure",
