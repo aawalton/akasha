@@ -1,0 +1,17 @@
+diff --git a/akasha.domain.ts b/akasha.domain.ts
+index fadb2bb6e014c61aee12c15a942faa56f96f7bac..5af900b56ccc2d61e53cddbe7de947c542c7a8c1 100644
+--- a/akasha.domain.ts
++++ b/akasha.domain.ts
+@@ -125,10 +125,9 @@ export const akasha = {
+       directiveKind: "principle",
+       name: "Parsimony",
+       act: "Require every piece to earn its place.",
+-      warrant:
+-        "A piece pays off only sometimes and costs always, and the cost is the part nobody sees.",
++      warrant: "A piece pays off only sometimes and costs always.",
+       aids: [
+-        "Compare the piece against having none of it.",
++        "Compare the piece against not having it.",
+         "Never add a piece for a case not here yet.",
+       ],
+     },
