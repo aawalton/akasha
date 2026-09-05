@@ -9,7 +9,6 @@ export const temperInventoryItemRuleLock = {
   changeKindSlug: "change-none",
   taking: [{ said: "<id>", takes: "the id of the per-item rule locked" }],
   helpNotes: [
-    "locking a per-item rule already locked changes nothing.",
     "a locked rule is refused an update or a deletion until it is unlocked or the call forces it.",
   ],
   invariants: [
