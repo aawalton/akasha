@@ -1,5 +1,5 @@
 diff --git a/infrastructure/inference-clients/mlx-vlm-client/mlx-vlm-client.module.ts b/infrastructure/inference-clients/mlx-vlm-client/mlx-vlm-client.module.ts
-index 550cfce3019872b5025227f8a9b0865aeed50bd4..6fdd2c4d5cfc134d93e1fcf44082307dee3e0dd7 100644
+index 550cfce3019872b5025227f8a9b0865aeed50bd4..8f9bb642d4fa8ecdb051fffb7bbe633f3472eb9e 100644
 --- a/infrastructure/inference-clients/mlx-vlm-client/mlx-vlm-client.module.ts
 +++ b/infrastructure/inference-clients/mlx-vlm-client/mlx-vlm-client.module.ts
 @@ -9,7 +9,8 @@ export const mlxVlmClient = {
@@ -9,6 +9,16 @@ index 550cfce3019872b5025227f8a9b0865aeed50bd4..6fdd2c4d5cfc134d93e1fcf44082307d
 -      statement: "Frames are drawn evenly across the clip, the first and the last among them.",
 +      statement:
 +        "Frames are drawn evenly across the clip, the first and the last among those frames.",
+     },
+     {
+       invariantKind: "departure",
+@@ -17,7 +18,8 @@ export const mlxVlmClient = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Asking for more frames than the clip holds answers with all of them.",
++      statement:
++        "Asking for more frames than the clip holds answers with all of the frames the clip holds.",
      },
      {
        invariantKind: "departure",
