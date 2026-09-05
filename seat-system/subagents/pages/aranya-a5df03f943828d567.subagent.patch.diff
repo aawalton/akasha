@@ -1,0 +1,15 @@
+diff --git a/infrastructure/container-registries/registry-gc/registry-gc.manifest.ts b/infrastructure/container-registries/registry-gc/registry-gc.manifest.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fe45672fb2da1b52fe2cead4f4066c74f0e1e537
+--- /dev/null
++++ b/infrastructure/container-registries/registry-gc/registry-gc.manifest.ts
+@@ -0,0 +1,9 @@
++import type { Manifest } from "@akasha/k8s-types/manifest"
++
++export const registryGc = {
++  id: "01a0738b-7f1f-7b3e-9dfb-d5f74f87561c",
++  pageTypeSlug: "manifest",
++  slug: "registry-gc",
++  definition: "the cron job that removes an image layer nothing refers to",
++  code: "ts",
++} as const satisfies Manifest
