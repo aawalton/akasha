@@ -1,14 +1,20 @@
 diff --git a/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.ts b/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.ts
-index 368f67c19fea14b6a7c70cfd611dcb0326865245..6a8ce8755c4107cedc62b1efa3de3902026a8d2f 100644
+index 368f67c19fea14b6a7c70cfd611dcb0326865245..6bc8dc5fa2faf859ec493b90a563c99601da4a4a 100644
 --- a/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.ts
 +++ b/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.ts
-@@ -26,7 +26,8 @@ export const blockSubagentAudit = {
+@@ -26,12 +26,13 @@ export const blockSubagentAudit = {
      },
      {
        invariantKind: "departure",
 -      statement: "A prefix that only runs the call behind it does not hide this one from it.",
 +      statement:
 +        "A prefix that only runs the call behind that prefix does not hide this one from this hook.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "The refusal says what a run costs, the command's own help saying only what it writes.",
++        "The refusal says what a run costs, the command's own help saying only what that command writes.",
      },
      {
        invariantKind: "departure",
