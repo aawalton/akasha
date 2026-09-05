@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/migration-system/reach/migration-reach.module.ts b/migration-system/reach/migration-reach.module.ts
-index 2830438630ed55a4935e5bf55a2633fe68bb0964..0da7fbe41b0dca249b3036893598588059d67e25 100644
+index 2830438630ed55a4935e5bf55a2633fe68bb0964..07d844b855d363776f6beddb84bbda05606eb175 100644
 --- a/migration-system/reach/migration-reach.module.ts
 +++ b/migration-system/reach/migration-reach.module.ts
 @@ -70,7 +70,7 @@ export const migrationReach = {
@@ -18,6 +18,15 @@ index 2830438630ed55a4935e5bf55a2633fe68bb0964..0da7fbe41b0dca249b30368935985880
        statement:
 -        "A reading taken before a migration landed cannot reach what that migration wrote.",
 +        "A reading taken before a migration landed cannot reach the files that migration wrote.",
+     },
+     {
+       invariantKind: "departure",
+@@ -95,7 +95,7 @@ export const migrationReach = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a file says of itself is read from the file's own front matter.",
++      statement: "The values a file says of itself are read from the file's own front matter.",
      },
      {
        invariantKind: "departure",
