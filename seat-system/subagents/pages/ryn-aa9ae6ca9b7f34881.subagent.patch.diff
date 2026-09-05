@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/story/games/game.page-type.ts b/story/games/game.page-type.ts
+index 13652a4996b9c861b50ad0ed80616ca457971e27..71a2cbf4b0074767b70f490f93cb71804af1f487 100644
+--- a/story/games/game.page-type.ts
++++ b/story/games/game.page-type.ts
+@@ -144,7 +144,7 @@ export const game = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "What a game is made of sits in files beside the game's page rather than inside the page.",
++        "The rows a game is made of sit in files beside the game's page rather than inside the page.",
+     },
+     {
+       invariantKind: "departure",
