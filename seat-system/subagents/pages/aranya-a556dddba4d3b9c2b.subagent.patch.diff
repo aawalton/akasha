@@ -55,7 +55,7 @@ index ed0dff829933eb31fba0f14536a2b8cf85ae8d83..4ec4e6aa06f74f0e1bef2ad240c866bd
    return answered(reading, under, asked, (held) => importersIn(held, path))
  }
 diff --git a/pages/shadow/shadow.module.code.ts b/pages/shadow/shadow.module.code.ts
-index 76d21dab0f56cfc20bd9573be8913ce13af71825..e3591553587b24b98b4042e5bb2bf00e87892a4f 100644
+index 76d21dab0f56cfc20bd9573be8913ce13af71825..ea966ba98ee2011b50b18b7f587dcbc43f09e0ff 100644
 --- a/pages/shadow/shadow.module.code.ts
 +++ b/pages/shadow/shadow.module.code.ts
 @@ -61,10 +61,6 @@ function nothingMoved(change: Change): boolean {
@@ -112,3 +112,12 @@ index 76d21dab0f56cfc20bd9573be8913ce13af71825..e3591553587b24b98b4042e5bb2bf00e
      const filed = (): readonly Filing[] => settled.filings
      return { shadow: { index, filed, pageOf, codeAt: codeOver(change) }, reading }
    } catch (thrown) {
+@@ -150,7 +142,7 @@ export function shadowAsked(change: Change): Shadow {
+   }
+   const pageOf = (path: string): Value | null => worked().shadow.pageOf(path)
+   return {
+-    index: answeringOver(reading, heldToHead(change), pageOf),
++    index: answeringOver(reading, pageOf),
+     filed: () => worked().shadow.filed(),
+     pageOf,
+     codeAt: (path) => worked().shadow.codeAt(path),
