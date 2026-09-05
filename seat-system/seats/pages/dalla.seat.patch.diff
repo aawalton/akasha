@@ -252,7 +252,7 @@ index 3b78496f64cfa5166574e37019bb177cdb80eb0c..e9d6b34c99496cb885e124b3ad9bc961
    const root = await repo()
    drafting(root)
 diff --git a/commands/patch/patch.command.ts b/commands/patch/patch.command.ts
-index f4fc4c2f63bbdeaeb9f34f175cf7c272aa57f117..95c27786905a9f4d5465d12f8d8dcf93a05c0e46 100644
+index f4fc4c2f63bbdeaeb9f34f175cf7c272aa57f117..186113cfac0035c596866de5078e24331e487c01 100644
 --- a/commands/patch/patch.command.ts
 +++ b/commands/patch/patch.command.ts
 @@ -10,10 +10,10 @@ export const patch = {
@@ -277,3 +277,28 @@ index f4fc4c2f63bbdeaeb9f34f175cf7c272aa57f117..95c27786905a9f4d5465d12f8d8dcf93
      "a patch file is committed as it is drafted into, and what it draws is landed only by an apply.",
      "a call finding no patch beside a subagent's page names the seat that draft would have gone to.",
      "a patch outlives a context replacement, which takes away every reading the agent held.",
+@@ -74,7 +76,23 @@ export const patch = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A drop takes the patch away without judging what the patch holds.",
++      statement: "A drop naming no path takes the patch away without judging what the patch holds.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A drop naming a path takes that path out of the patch.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A drop naming a path leaves every other path the patch carries.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A drop naming the last path the patch carries takes the patch away.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A drop naming a path the patch carries no body at is refused.",
+     },
+     {
+       invariantKind: "departure",
