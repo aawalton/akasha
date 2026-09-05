@@ -1,0 +1,52 @@
+diff --git a/git-transport/bare-repo-init/bare-repo-init.module.code.ts b/git-transport/bare-repo-init/bare-repo-init.module.code.ts
+index 112ef464ab3d67a9e80f44cbfd97109799c0bc64..c54c77fe31596e819dc640082fbcdf01ea643ca4 100644
+--- a/git-transport/bare-repo-init/bare-repo-init.module.code.ts
++++ b/git-transport/bare-repo-init/bare-repo-init.module.code.ts
+@@ -225,7 +225,7 @@ touch "$LOCK"
+   # because its authority is a workstation tree and its only branch is main.
+   #
+   # It differs from the other four in what depends on it rather than in how it
+-  # is held. Two further checkouts stand beside that workstation tree — the
++  # is held. Two further checkouts sit beside that workstation tree — the
+   # staging tree a promotion builds and drives, and the live tree Alan runs —
+   # and both take the working checkout as their origin rather than this store.
+   # That is the three-tree split working: what he runs advances only through
+diff --git a/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts b/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts
+index dc01bff88a9fff2bc594053cf82c9cb1605af6a4..89bfe6f52026abbd77047f9b38ffa87d8df757f3 100644
+--- a/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts
++++ b/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts
+@@ -38,7 +38,7 @@ export const postReceiveMirror = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A history copy pushes every branch and tag as they stand.",
++      statement: "A history copy pushes every branch and tag as they are.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/git/push-repo/push-repo.module.code.ts b/git/push-repo/push-repo.module.code.ts
+index dfc62621a1a5caa888841505707e1107866af65c..819262bbe947599ccc9c88403979e34a4661cff4 100644
+--- a/git/push-repo/push-repo.module.code.ts
++++ b/git/push-repo/push-repo.module.code.ts
+@@ -37,7 +37,7 @@ Flags:
+ 
+ Exit codes:
+   0  the remote holds this branch, or another pusher already has it
+-  1  the push failed twice; the reason stands in harness-push.state
++  1  the push failed twice; the reason is in harness-push.state
+ `
+ 
+ function parse(argv: readonly string[]): string {
+diff --git a/git/served-tip/served-tip.module.ts b/git/served-tip/served-tip.module.ts
+index 1725da3281abe6b3cc812c363d3e99d5b79aeebc..27967ce5a00429e21d1894686126aa0252c9b206 100644
+--- a/git/served-tip/served-tip.module.ts
++++ b/git/served-tip/served-tip.module.ts
+@@ -4,7 +4,7 @@ export const servedTip = {
+   id: "01a0691b-4f64-7e7b-882f-6c45e18374af",
+   pageTypeSlug: "module",
+   slug: "served-tip",
+-  definition: "the commit a branch stands at on the transport, and whether a commit stands locally",
++  definition: "the commit a branch is at on the transport, and whether a commit is there locally",
+   code: "ts",
+   invariants: [
+     {
