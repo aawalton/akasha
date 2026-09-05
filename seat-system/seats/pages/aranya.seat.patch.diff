@@ -55,3 +55,11 @@ index 4f8e7525a0b6eab2462b81b79d66b07bd0607597..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../alan/library/book-of-everything/commands
 \ No newline at end of file
+diff --git a/alan/library/reading/reading b/alan/library/reading/reading
+deleted file mode 120000
+index 89e9636bbbe87a84a0fc87fe228ee68f54c46ff9..0000000000000000000000000000000000000000
+--- a/alan/library/reading/reading
++++ /dev/null
+@@ -1 +0,0 @@
+-../../alan/library/reading
+\ No newline at end of file
