@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-lib-zone/temper-lib-zone.eso-addon.ts b/temper/temper-lib-zone/temper-lib-zone.eso-addon.ts
+index dc4696791a5bd2e0ebbfd2595f8136caa57d0770..daab7809fcee932c7500f8466e93a8e1595ef0fb 100644
+--- a/temper/temper-lib-zone/temper-lib-zone.eso-addon.ts
++++ b/temper/temper-lib-zone/temper-lib-zone.eso-addon.ts
+@@ -78,7 +78,7 @@ export const temperLibZone = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "The zone rows are what upstream LibZone v8.98 states.",
++      statement: "The zone rows are the rows upstream LibZone v8.98 states.",
+     },
+     {
+       invariantKind: "constraint",
