@@ -1,0 +1,77 @@
+diff --git a/service-system/workstation-services/pages/apns-push-notifier.workstation-service.ts b/service-system/workstation-services/pages/apns-push-notifier.workstation-service.ts
+index 52e95be22e6a7aac86eb784b31820dee89531ce1..5c2e737b136f5bb8fa7c351aaf58062efeff106b 100644
+--- a/service-system/workstation-services/pages/apns-push-notifier.workstation-service.ts
++++ b/service-system/workstation-services/pages/apns-push-notifier.workstation-service.ts
+@@ -23,8 +23,7 @@ export const apnsPushNotifier = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A start begins at the newest notification standing rather than at the feed's head.",
++      statement: "A start begins at the newest notification there rather than at the feed's head.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/service-system/workstation-services/pages/great-courses-sync.workstation-service.ts b/service-system/workstation-services/pages/great-courses-sync.workstation-service.ts
+index e2be318d6184eafd6081f9efd399ec0d06e9a64e..d5abf23b5e7b93860ca5ee0b874e277550bf784f 100644
+--- a/service-system/workstation-services/pages/great-courses-sync.workstation-service.ts
++++ b/service-system/workstation-services/pages/great-courses-sync.workstation-service.ts
+@@ -4,7 +4,7 @@ export const greatCoursesSync = {
+   id: "01a06829-0194-71d6-8b3b-2687352034df",
+   pageTypeSlug: "workstation-service",
+   slug: "great-courses-sync",
+-  definition: "the service filing a Great Courses course as a page where none stands for it",
++  definition: "the service filing a Great Courses course as a page where none represents it",
+   runs: ["bun great-courses/catalogue-syncing/catalogue-syncing.module.code.ts"],
+   enabled: true,
+   needsSecrets: false,
+diff --git a/service-system/workstation-services/pages/rule-population-sweep.workstation-service.ts b/service-system/workstation-services/pages/rule-population-sweep.workstation-service.ts
+index 4ddbc6903b18a23d0e7a0307e504e2b4ee9a8542..5b0c68b160f7547bcd5b97853c73513af4fb6256 100644
+--- a/service-system/workstation-services/pages/rule-population-sweep.workstation-service.ts
++++ b/service-system/workstation-services/pages/rule-population-sweep.workstation-service.ts
+@@ -5,9 +5,7 @@ export const rulePopulationSweep = {
+   pageTypeSlug: "workstation-service",
+   slug: "rule-population-sweep",
+   definition: "the service reading what every enforcement rule weighed and filing it for `dalla`",
+-  runs: [
+-    "bun rule-population/rule-population-sweeping/rule-population-sweeping.module.code.ts",
+-  ],
++  runs: ["bun rule-population/rule-population-sweeping/rule-population-sweeping.module.code.ts"],
+   enabled: true,
+   systemd: {
+     schedule: "*-*-* 09:53:00",
+@@ -31,7 +29,7 @@ export const rulePopulationSweep = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "No graph cache is read, so the population is the checkout as it now stands.",
++      statement: "No graph cache is read, so the population is the checkout as it now is.",
+     },
+   ],
+ } as const satisfies WorkstationService
+diff --git a/service-system/workstation-services/pages/surplus-fall-notifier.workstation-service.ts b/service-system/workstation-services/pages/surplus-fall-notifier.workstation-service.ts
+index cf8271d6af6de186d053900a668de8fef921d1cd..f183246ff816454a7a436c7e9ac660b8422556fa 100644
+--- a/service-system/workstation-services/pages/surplus-fall-notifier.workstation-service.ts
++++ b/service-system/workstation-services/pages/surplus-fall-notifier.workstation-service.ts
+@@ -17,7 +17,7 @@ export const surplusFallNotifier = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every rung between where the day opened and where it stands is claimed.",
++      statement: "Every rung between where the day opened and where it is now is claimed.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/service-system/workstation-services/pages/sweep-page-answers.workstation-service.ts b/service-system/workstation-services/pages/sweep-page-answers.workstation-service.ts
+index 4d9d48b20d6d89949cfc9b4e59edae7636830d64..40ba03f96225343c170491aeb22da545ad1ee566 100644
+--- a/service-system/workstation-services/pages/sweep-page-answers.workstation-service.ts
++++ b/service-system/workstation-services/pages/sweep-page-answers.workstation-service.ts
+@@ -4,7 +4,7 @@ export const sweepPageAnswers = {
+   id: "019ffe91-4c22-7a30-b5f1-6d3a7c4e8b02",
+   pageTypeSlug: "workstation-service",
+   slug: "sweep-page-answers",
+-  definition: "the service taking away a kept page answer once it has stood for a day",
++  definition: "the service taking away a kept page answer once it has been there a day",
+   runs: ["bun pages/answer-sweeping/page-answer-sweeping.module.code.ts"],
+   enabled: true,
+   systemd: {
