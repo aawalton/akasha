@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/access/deleting/deleting.module.ts b/pages/access/deleting/deleting.module.ts
+index 663b2989cf8255899f992249a19644225e2b91c2..d16868d3166db22211f914644ecbfc4a6d6e8052 100644
+--- a/pages/access/deleting/deleting.module.ts
++++ b/pages/access/deleting/deleting.module.ts
+@@ -9,7 +9,7 @@ export const deleting = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A removal takes the page's file rather than raising a flag on it.",
++      statement: "A removal takes the page's file rather than raising a flag on that page.",
+     },
+   ],
+ } as const satisfies Module
