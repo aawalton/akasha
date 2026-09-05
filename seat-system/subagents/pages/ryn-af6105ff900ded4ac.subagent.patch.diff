@@ -266,3 +266,18 @@ index d1fbc76128371586317178a8552fc9c807e368f5..4bb5f737807ce057a85733cbcc7c32e0
      {
        invariantKind: "constraint",
        statement: "A bundle that could not be read ends the run with the bundles read so far named.",
+diff --git a/temper/temper-watcher/workstation-services/temper-watcher.workstation-service.ts b/temper/temper-watcher/workstation-services/temper-watcher.workstation-service.ts
+index ba66ce233ddf69aa342c686559f1554e9bc1bf06..f355c38eae067e58c51dfeb349168e24b7ed9071 100644
+--- a/temper/temper-watcher/workstation-services/temper-watcher.workstation-service.ts
++++ b/temper/temper-watcher/workstation-services/temper-watcher.workstation-service.ts
+@@ -16,10 +16,6 @@ export const temperWatcher = {
+     startLimitIntervalSeconds: 0,
+   },
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The worker is held in the foreground.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "The unit running the worker is a simple one.",
