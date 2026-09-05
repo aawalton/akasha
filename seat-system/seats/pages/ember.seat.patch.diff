@@ -1,7 +1,16 @@
 diff --git a/temper/temper-things/temper-thing.page-type.ts b/temper/temper-things/temper-thing.page-type.ts
-index 8c689179e7bb2ccf77aa5c265d3535deaf101be8..8b716ba8629edd85549c7944a0afa23721ac50ea 100644
+index 8c689179e7bb2ccf77aa5c265d3535deaf101be8..10ba461790dfc0e2991d63c24fa8ab9d8c568ebb 100644
 --- a/temper/temper-things/temper-thing.page-type.ts
 +++ b/temper/temper-things/temper-thing.page-type.ts
+@@ -10,7 +10,7 @@ import type { Icon } from "./properties/icon.text-property.ts"
+ import type { Key } from "./properties/key.text-property.ts"
+ import type { Parent } from "./properties/parent.text-property.ts"
+ 
+-export type TemperThing = Page & {
++export type TemperThingRenamed = Page & {
+   key?: Key
+   icon?: Icon
+   displayOrder?: DisplayOrder
 @@ -19,7 +19,7 @@ export type TemperThing = Page & {
    categoryId?: CategoryId
    companionId?: CompanionId
