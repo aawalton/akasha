@@ -183,3 +183,25 @@ index 3032b318d0caf80fe555d13dab8d6493f0789d7b..6883def9d8747d3bab71f74f62b17517
    }
  }
  
+diff --git a/seat-system/seat-resolve/seat-resolve.module.ts b/seat-system/seat-resolve/seat-resolve.module.ts
+index 24b8399b1a7493fc0e8aba4316f61fb9d4f2eb57..6fcda97c5078580ca7dc70d570f7cf6dd31d0f95 100644
+--- a/seat-system/seat-resolve/seat-resolve.module.ts
++++ b/seat-system/seat-resolve/seat-resolve.module.ts
+@@ -9,15 +9,11 @@ export const seatResolve = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A document already gone when it is read is skipped rather than raised.",
++      statement: "A domain is found by its address first and by its bare slug after.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A read that fails for any reason but absence is raised.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A slug naming more than one file is refused rather than chosen between.",
++      statement: "A bare slug names whichever page claimed it first.",
+     },
+     {
+       invariantKind: "departure",
