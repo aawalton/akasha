@@ -1,8 +1,8 @@
 diff --git a/person-system/people/email/email-messages/email-message.page-type.ts b/person-system/people/email/email-messages/email-message.page-type.ts
-index 925d3e92b2c0daa8079f9e938e3744d4eaa78fa5..e4ea9c6f0badf7cde8dccca937dec11a92208e32 100644
+index 925d3e92b2c0daa8079f9e938e3744d4eaa78fa5..429bd591b4c91d9c527689bda00ee9d84b22ae07 100644
 --- a/person-system/people/email/email-messages/email-message.page-type.ts
 +++ b/person-system/people/email/email-messages/email-message.page-type.ts
-@@ -17,7 +17,7 @@ export const emailMessage = {
+@@ -17,11 +17,11 @@ export const emailMessage = {
      },
      {
        invariantKind: "departure",
@@ -11,3 +11,8 @@ index 925d3e92b2c0daa8079f9e938e3744d4eaa78fa5..e4ea9c6f0badf7cde8dccca937dec11a
      },
      {
        invariantKind: "absence",
+-      statement: "No message is written to a file of its own; the account holds it.",
++      statement: "No message is written to a file of its own; the account holds that message.",
+     },
+     {
+       invariantKind: "gap",
