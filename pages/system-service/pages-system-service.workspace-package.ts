@@ -109,12 +109,11 @@ export const pagesSystemService = {
     {
       invariantKind: "departure",
       statement:
-        "What the cluster reaches reads as ready only while the pages system service is listening.",
+        "The store the cluster reaches reads as ready only while the pages system service is listening.",
     },
     {
       invariantKind: "gap",
-      statement:
-        "The pages system service is not what limits any caller of the pages system service.",
+      statement: "The pages system service does not limit any caller of the pages system service.",
     },
     {
       invariantKind: "gap",
