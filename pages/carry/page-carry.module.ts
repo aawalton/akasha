@@ -9,7 +9,7 @@ export const pageCarry = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A value that is already text is carried as it is.",
+      statement: "A value that is already text is carried as the value is.",
     },
     {
       invariantKind: "departure",
