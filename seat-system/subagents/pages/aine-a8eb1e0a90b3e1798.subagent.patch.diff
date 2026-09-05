@@ -12,7 +12,7 @@ index fd2bbff67d95580a116134ca85bec6998513572c..6e62db2b7f6371f9f845de5e5bc15f92
    invariants: [
      {
 diff --git a/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.ts b/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.ts
-index 8ee855700d45e295b2e263c05162ee7ad994a726..024d3d5f946d7d3291562c996a236a7152348362 100644
+index 8ee855700d45e295b2e263c05162ee7ad994a726..406ec99c7a026b87e79a789cd8d26e581840b032 100644
 --- a/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.ts
 +++ b/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.ts
 @@ -9,7 +9,7 @@ export const recipientResolverRunning = {
@@ -21,6 +21,16 @@ index 8ee855700d45e295b2e263c05162ee7ad994a726..024d3d5f946d7d3291562c996a236a71
        invariantKind: "departure",
 -      statement: "It stands outside the fleet it serves.",
 +      statement: "It sits outside the fleet it serves.",
+     },
+     {
+       invariantKind: "departure",
+@@ -26,8 +26,7 @@ export const recipientResolverRunning = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A seat is revived only where its page does not stand and inbound work matches it.",
++      statement: "A seat is revived only where its page is not there and inbound work matches it.",
      },
      {
        invariantKind: "departure",
