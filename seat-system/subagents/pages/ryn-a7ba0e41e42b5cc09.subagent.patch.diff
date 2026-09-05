@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-progress/rules/temper-rule.page-type.ts b/temper/temper-progress/rules/temper-rule.page-type.ts
+index be6dabfe0b16c495cdb4b4eb6a4a771208253de0..346a6f164b258311ac976d62109dc13664e12134 100644
+--- a/temper/temper-progress/rules/temper-rule.page-type.ts
++++ b/temper/temper-progress/rules/temper-rule.page-type.ts
+@@ -52,7 +52,7 @@ export const temperRule = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "What a rule does to an item is done outside these pages.",
++      statement: "A rule's action on an item is done outside these pages.",
+     },
+   ],
+ } as const satisfies PageType
