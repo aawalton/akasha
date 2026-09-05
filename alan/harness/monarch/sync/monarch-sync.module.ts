@@ -27,8 +27,7 @@ export const monarchSync = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The run ends non-zero once every account has been tried, so one broken account costs its own rows rather than the whole night's.",
+      statement: "The run ends non-zero once every account has been tried.",
     },
 
     {
