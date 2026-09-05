@@ -367,3 +367,11 @@ index 8e003c4531496b4be9630135df127fa981110c25..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../infrastructure/zimage
 \ No newline at end of file
+diff --git a/language-design/lua-compiler/lua-compiler b/language-design/lua-compiler/lua-compiler
+deleted file mode 120000
+index 88664ce7ec5b1e3eaa7531513beefc7150c16089..0000000000000000000000000000000000000000
+--- a/language-design/lua-compiler/lua-compiler
++++ /dev/null
+@@ -1 +0,0 @@
+-../../language-design/lua-compiler
+\ No newline at end of file
