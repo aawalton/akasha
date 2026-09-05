@@ -270,3 +270,19 @@ index 439e5d292f15f1567a9ecc7d321e43a7005d1a99..b303512cb257d80b6455a6ed6d861f5c
      {
        invariantKind: "absence",
        statement: "Nothing here caches a reading or decides when a reading is taken.",
+diff --git a/readout-system/readouts/pages/weekly-usage/weekly-usage.readout.ts b/readout-system/readouts/pages/weekly-usage/weekly-usage.readout.ts
+index 9d9d72088027d0c459ed7ef517d2f0c41771cbfb..5646e73ac5c67a12d407265f3861ca178ce63503 100644
+--- a/readout-system/readouts/pages/weekly-usage/weekly-usage.readout.ts
++++ b/readout-system/readouts/pages/weekly-usage/weekly-usage.readout.ts
+@@ -37,10 +37,7 @@ export const weeklyUsage = {
+       statement:
+         "The figure is how much of the allowance is spent and the color is how long the allowance has left.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A store that refuses is a fault rather than a reading of nothing.",
+-    },
++
+     {
+       invariantKind: "absence",
+       statement: "Nothing here caches a reading or decides when a reading is taken.",
