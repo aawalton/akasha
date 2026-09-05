@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/fault-saying/fault-saying.module.ts b/command-system/fault-saying/fault-saying.module.ts
+index 05714937d1d97f57013ff7d47bf06227d8610842..86c03a4af9cf2e957400de23cd3e34086d43531c 100644
+--- a/command-system/fault-saying/fault-saying.module.ts
++++ b/command-system/fault-saying/fault-saying.module.ts
+@@ -35,7 +35,7 @@ export const faultSaying = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A reader outside command-system reaches this module by the name the manifest gives it.",
++        "A reader outside command-system reaches this module by the name the manifest gives that module.",
+     },
+     {
+       invariantKind: "absence",
