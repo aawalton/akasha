@@ -1,0 +1,120 @@
+diff --git a/context/modules/warranting/warranting.module.code.ts b/context/modules/warranting/warranting.module.code.ts
+index 6f5745711b00abdee596f22b49cf0ea33c00b05e..181ad0cddac3f75c81858b2d5752334ed18543a8 100644
+--- a/context/modules/warranting/warranting.module.code.ts
++++ b/context/modules/warranting/warranting.module.code.ts
+@@ -24,15 +24,7 @@ import { slugOf } from "@akasha/seat-system/subagent-presence"
+ 
+ const READ_CALL = "akasha read --file-path"
+ 
+-const REACH = [
+-  "LET THE OUTPUT REACH YOU. A read is refused and records nothing where its output goes to a",
+-  "pipe, to /dev/null, or into a file this redirect alone opened, because what the record says",
+-  "is that the body reached you.",
+-  "ONE ANSWER HOLDS 28000 BYTES and breaks no file partway, so a call naming more than it can",
+-  "answer comes back with an opening run of the files, names the rest as left unread, and exits 0",
+-  "either way. Only what came back is recorded, so go by what this refusal still asks for rather",
+-  "than by what you asked to read.",
+-].join("\n")
++const ANSWER_CEILING = 28000
+ 
+ const SHORTER =
+   "A body that moved since your record holds it comes back as what changed, where that is shorter."
+@@ -135,11 +127,33 @@ export function notReadOf(warrant: Warrant): string {
+     "This call reads it:",
+     "",
+     `  ${READ_CALL} ${warrant.path}`,
+-    "",
+-    REACH,
+   ].join("\n")
+ }
+ 
++function againOf(held: number): string {
++  const owed = held === 1 ? "one more page is owed" : `${held} more pages are owed`
++  return `${owed} than one answer holds — read what is named above, then run this call again and it names the rest.`
++}
++
++// The list is held to a ceiling here rather than at the caller, because a path shortened
++// mid-token is still a path: `akasha read` answers that it names no file, which reads as a
++// page that moved rather than as an answer that did not arrive whole.
++export function heldTo(
++  said: readonly string[],
++  ceiling: number = ANSWER_CEILING
++): readonly string[] {
++  const taken: string[] = []
++  let bytes = 0
++  for (const one of said) {
++    const next = bytes + new TextEncoder().encode(one).length + 1
++    if (taken.length > 0 && next > ceiling) break
++    taken.push(one)
++    bytes = next
++  }
++  const held = said.length - taken.length
++  return held === 0 ? taken : [...taken, againOf(held)]
++}
++
+ function movedSaid(warrant: Warrant, held: string): string {
+   return `Your record holds ${held}, and ${warrant.oid} is there now.`
+ }
+@@ -174,7 +188,10 @@ export function partlyOf(warrant: Warrant, reach: number): string {
+   ].join("\n")
+ }
+ 
+-function tabooSaid(owing: Owing): { readonly said: readonly string[]; readonly note: string } {
++function tabooSaid(owing: Owing): {
++  readonly said: readonly string[]
++  readonly note: string | null
++} {
+   const warrant = owing.warrant
+   const reach = reachOf(owing.reach)
+   if (reach !== null) {
+@@ -183,7 +200,7 @@ function tabooSaid(owing: Owing): { readonly said: readonly string[]; readonly n
+       note: A_RUN,
+     }
+   }
+-  if (owing.held === null) return { said: [`${warrant.path} states the term.`], note: REACH }
++  if (owing.held === null) return { said: [`${warrant.path} states the term.`], note: null }
+   return {
+     said: [
+       `${warrant.path} states the term, and it has changed since you read it.`,
+@@ -202,8 +219,7 @@ export function tabooOf(owing: Owing): string {
+     DECIDE,
+     "",
+     `  ${READ_CALL} ${owing.warrant.path}`,
+-    "",
+-    note,
++    ...(note === null ? [] : ["", note]),
+   ].join("\n")
+ }
+ 
+@@ -400,7 +416,7 @@ export function unreadIn(
+   changing?: Changing
+ ): readonly string[] {
+   if (agentId === null) return [NO_AGENT]
+-  return termFirst(unreadOwing(root, agentId, paths, changing)).map(sayingOf)
++  return heldTo(termFirst(unreadOwing(root, agentId, paths, changing)).map(sayingOf))
+ }
+ 
+ export function seatPathOf(root: string, agentId: string): string | null {
+@@ -435,7 +451,7 @@ export function unheldOwing(root: string, agentId: string): readonly Owing[] {
+ 
+ export function unheldIn(root: string, agentId: string | null): readonly string[] {
+   if (agentId === null) return []
+-  return termFirst(unheldOwing(root, agentId)).map(sayingOf)
++  return heldTo(termFirst(unheldOwing(root, agentId)).map(sayingOf))
+ }
+ 
+ export function owedIn(
+@@ -445,8 +461,9 @@ export function owedIn(
+   changing?: Changing
+ ): readonly string[] {
+   if (agentId === null) return [NO_AGENT]
+-  return termFirst([
+-    ...unheldOwing(root, agentId),
+-    ...unreadOwing(root, agentId, paths, changing),
+-  ]).map(sayingOf)
++  return heldTo(
++    termFirst([...unheldOwing(root, agentId), ...unreadOwing(root, agentId, paths, changing)]).map(
++      sayingOf
++    )
++  )
+ }
