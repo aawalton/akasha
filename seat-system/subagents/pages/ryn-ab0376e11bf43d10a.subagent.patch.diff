@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/readout-system/readout-groups/pages/inboxes.readout-group.ts b/readout-system/readout-groups/pages/inboxes.readout-group.ts
+index 195ebb60036402e03b50ee12dfab7085e1cb9deb..b58331b1ae4a3b1f4935e59d77d46ae57e6342a1 100644
+--- a/readout-system/readout-groups/pages/inboxes.readout-group.ts
++++ b/readout-system/readout-groups/pages/inboxes.readout-group.ts
+@@ -17,7 +17,7 @@ export const inboxes = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What any other reading colors to is stated by that reading's own scale.",
++      statement: "The color any other reading takes is stated by that reading's own scale.",
+     },
+   ],
+ } as const satisfies ReadoutGroup
