@@ -14,7 +14,8 @@ export const addonDataWritesScribing = {
     },
     {
       invariantKind: "departure",
-      statement: "A section takes the pages it is handed whether or not the section reads them.",
+      statement:
+        "A section takes the pages that section is handed whether or not the section reads those pages.",
     },
   ],
 } as const satisfies Module
