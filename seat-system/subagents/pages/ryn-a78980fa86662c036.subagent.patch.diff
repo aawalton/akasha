@@ -1,0 +1,23 @@
+runsWarrants: false
+diff --git a/service-system/workstation-services/file-following/file-following.module.ts b/service-system/workstation-services/file-following/file-following.module.ts
+index f4f6e0db0fae388b9ee97a68124a382ae628a2d6..6104c6ff40c092ce8c51c56d80e4f107f4a4bd72 100644
+--- a/service-system/workstation-services/file-following/file-following.module.ts
++++ b/service-system/workstation-services/file-following/file-following.module.ts
+@@ -15,7 +15,7 @@ export const fileFollowing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The folder holding a file is what is watched rather than the file.",
++      statement: "The folder holding a file is watched rather than the file.",
+     },
+     {
+       invariantKind: "departure",
+@@ -53,7 +53,7 @@ export const fileFollowing = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Following a folder weighs what it holds now rather than a list fixed at the start.",
++        "Following a folder weighs the files that folder holds now rather than a list fixed at the start.",
+     },
+     {
+       invariantKind: "departure",
