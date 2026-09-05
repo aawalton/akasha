@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/indexes/indexing/indexing.module.ts b/pages/indexes/indexing/indexing.module.ts
-index 24180ad4d7fdf1fb57116d368ff56223f934535a..2beacfe6a82af2778a2f330e57c34c186a5b705b 100644
+index 24180ad4d7fdf1fb57116d368ff56223f934535a..a6ff6ba6ffd46e7dffa16c1ee5450a14abc8b9aa 100644
 --- a/pages/indexes/indexing/indexing.module.ts
 +++ b/pages/indexes/indexing/indexing.module.ts
 @@ -15,7 +15,8 @@ export const indexing = {
@@ -19,6 +19,16 @@ index 24180ad4d7fdf1fb57116d368ff56223f934535a..2beacfe6a82af2778a2f330e57c34c18
        invariantKind: "departure",
 -      statement: "A rebuild reads the index only to find what no page carries.",
 +      statement: "A rebuild reads the index only to find the values no page carries.",
+     },
+     {
+       invariantKind: "departure",
+@@ -84,7 +85,8 @@ export const indexing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What a change withdraws is read against the world standing before the change.",
++      statement:
++        "The entries a change withdraws are read against the world standing before the change.",
      },
      {
        invariantKind: "departure",
