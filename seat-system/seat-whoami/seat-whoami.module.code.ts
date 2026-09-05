@@ -1,5 +1,5 @@
-import { slugNamed } from "@akasha/markdown-pages/page-address"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { slugIn } from "@akasha/pages-system/page-address"
 import { attributesOf, recordedModeOf } from "../seat-attributes/seat-attributes.module.code.ts"
 import {
   frontmatterFromHistory,
@@ -24,7 +24,7 @@ export interface SeatWhoami {
 }
 
 function bareSlug(value: string | null): string | null {
-  return value === null ? null : slugNamed(value)
+  return value === null ? null : (slugIn(value) ?? value)
 }
 
 function slugAt(frontmatter: Record<string, unknown> | null, key: string): string | null {

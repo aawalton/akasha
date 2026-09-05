@@ -1,4 +1,4 @@
-import { slugNamed } from "@akasha/markdown-pages/page-address"
+import { slugIn } from "@akasha/pages-system/page-address"
 import { pageTextOf, pageValuesOf } from "../seat-page-values/seat-page-values.module.code.ts"
 import { seatNameForAgent } from "../seat-presence-read/seat-presence-read.module.code.ts"
 
@@ -47,7 +47,7 @@ function onThePage(agent: string): Attributes {
   const out: { -readonly [K in AttributeKey]?: Attribute } = {}
   for (const key of ATTRIBUTES) {
     const slug = values[`${key}-slug`]
-    if (typeof slug === "string" && slug !== "") out[key] = { slug: slugNamed(slug) }
+    if (typeof slug === "string" && slug !== "") out[key] = { slug: slugIn(slug) ?? slug }
   }
   return out
 }

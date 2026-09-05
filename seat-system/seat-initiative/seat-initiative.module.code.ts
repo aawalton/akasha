@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
 import { initiativesDrawn } from "@akasha/editor-extension/work-initiatives"
-import { addressParts } from "@akasha/markdown-pages/page-address"
 import { AKASHA } from "@akasha/pages-system/checkout-roots"
+import { addressIn } from "@akasha/pages-system/page-address"
 import { pageTextOf } from "../seat-page-values/seat-page-values.module.code.ts"
 
 const KEY = "initiative"
@@ -45,8 +45,9 @@ export function initiativePlaceOf(bare: string, root: string): InitiativePlace |
 export function initiativeOf(agent: string): InitiativeRecord | null {
   const stated = pageTextOf(agent, ASSIGNMENT_KEY)
   if (stated === null) return null
-  const parts = addressParts(stated)
-  return parts === null || parts.type !== KEY ? null : { value: parts.slug }
+  const address = addressIn(stated)
+  if (address.kind !== "qualified" || address.pageTypeSlug !== KEY) return null
+  return { value: address.slug }
 }
 
 function placeOf(found: ReadonlyMap<string, string>): string {
