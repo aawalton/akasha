@@ -1,0 +1,91 @@
+diff --git a/agents/claude-accounts/modules/identity/claude-account-identity.module.code.ts b/agents/claude-accounts/modules/identity/claude-account-identity.module.code.ts
+index 1f40df2b39417cf77b3ed70bcd15777ac3b79dc0..bfb19d6ffe28f1b63671a5cc7f4924b300a882d2 100644
+--- a/agents/claude-accounts/modules/identity/claude-account-identity.module.code.ts
++++ b/agents/claude-accounts/modules/identity/claude-account-identity.module.code.ts
+@@ -86,7 +86,7 @@ export function sayFailedPin(args: {
+         ? ""
+         : ` The previous account's pacing and at-limit bookkeeping is already off the page, and clearing it again costs nothing.`
+     return (
+-      `${what}: the credential did not reach the page — ${args.why}. The credential still stands where it ` +
++      `${what}: the credential did not reach the page — ${args.why}. The credential still sits where it ` +
+       `was issued and the page is pinned where it was, so the same push run again lands all of it.${alreadyCleared}`
+     )
+   }
+diff --git a/agents/claude-accounts/modules/measuring/claude-account-measuring.module.test.ts b/agents/claude-accounts/modules/measuring/claude-account-measuring.module.test.ts
+index c94cf3e79d98e61b160bb43ec32b080760193c48..45ff7fa77d17d163c0bb2b88e04c363df1b43929 100644
+--- a/agents/claude-accounts/modules/measuring/claude-account-measuring.module.test.ts
++++ b/agents/claude-accounts/modules/measuring/claude-account-measuring.module.test.ts
+@@ -125,7 +125,7 @@ test("a seven-day window already past counts as the furthest away", () => {
+   expect(aheadOf(ahead, past, NOW)).toBeLessThan(0)
+ })
+ 
+-test("accounts stand in the order their seven-day windows reset", () => {
++test("accounts sit in the order their seven-day windows reset", () => {
+   const one = reading({ account: "one", sevenDayResetsAt: "2026-09-05T12:00:00.000Z" })
+   const two = reading({ account: "two", sevenDayResetsAt: "2026-09-01T12:00:00.000Z" })
+   const none = reading({ account: "none" })
+diff --git a/agents/claude-accounts/modules/measuring/claude-account-measuring.module.ts b/agents/claude-accounts/modules/measuring/claude-account-measuring.module.ts
+index 0a9ac036135cea3e8c7350c3369373cce90dbe03..2537da4cdf456f9fb49baf5b51555ed143b534fc 100644
+--- a/agents/claude-accounts/modules/measuring/claude-account-measuring.module.ts
++++ b/agents/claude-accounts/modules/measuring/claude-account-measuring.module.ts
+@@ -24,7 +24,7 @@ export const claudeAccountMeasuring = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What an account has spent is read from what stands beside its page.",
++      statement: "What an account has spent is read from what sits beside its page.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.code.ts b/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.code.ts
+index df19bf6377813902e22e5fc91368713d57b5bf8d..ba9dc7a14800f5ed94fcd2b677a1a35c765cc5db 100644
+--- a/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.code.ts
++++ b/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.code.ts
+@@ -325,7 +325,7 @@ export async function upkeepPassIn(args: {
+   const every = inAccountOrder(everyAccountSlugIn(root).map((slug) => ({ slug })))
+   if (every.length === 0) {
+     throw new Error(
+-      `no claude-account page stands under ${root}, and renewing a token happens here and ` +
++      `no claude-account page exists under ${root}, and renewing a token happens here and ` +
+         "nowhere else, so a pass over none of them renews nothing in the whole fleet — " +
+         "answering that as a done tick would read healthy while every token ages out"
+     )
+diff --git a/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.test.ts b/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.test.ts
+index f27ad8e3b5139a7c6d73441076658fd57994b29d..afc3869c1c1816bba63371029f219924fe9a22d7 100644
+--- a/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.test.ts
++++ b/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.test.ts
+@@ -71,7 +71,7 @@ describe("shouldTriggerWindow", () => {
+     expect(shouldTriggerWindow(usage, NOW)).toBe(true)
+   })
+ 
+-  test("a reset standing exactly at the moment asked about counts as passed", () => {
++  test("a reset at exactly the moment asked about counts as passed", () => {
+     const usage = usageOf(isoAt(NOW), isoAt(NOW + HOUR_MS * 24))
+     expect(shouldTriggerWindow(usage, NOW)).toBe(true)
+   })
+diff --git a/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts b/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
+index 90840eed4d0f6676503e6de5c8d5228ab74c4d7a..eead9ddf42d81a55b86d1cee4642fb1512f3c6e3 100644
+--- a/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
++++ b/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
+@@ -22,7 +22,7 @@ export const claudeAccountUpkeep = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "No wait stands before the first account or after the last.",
++      statement: "There is no wait before the first account or after the last.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/agents/claude-accounts/modules/usage/claude-account-usage.module.code.ts b/agents/claude-accounts/modules/usage/claude-account-usage.module.code.ts
+index 5eb1ba947f09452886bd0b7aa8f8e01482f70d15..ddf9831d77f3b8c648b89c20ff3a0554252ff325 100644
+--- a/agents/claude-accounts/modules/usage/claude-account-usage.module.code.ts
++++ b/agents/claude-accounts/modules/usage/claude-account-usage.module.code.ts
+@@ -13,7 +13,7 @@ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roo
+ // THE PAGE TYPE MOVING IN IS ONLY HALF OF WHY. `54ee772b64` took
+ // `pages/page-type/claude-account.page-type.md` away, so `answer(roots, { pageType:
+ // "claude-account" })` answers null here. But nothing the editor runs asks the local engine: the
+-// router in `shared/pages-query/src/here.ts` sends a page type that does not stand here on to the
++// router in `shared/pages-query/src/here.ts` sends a page type that is not here on to the
+ // store, and the store answers all eight accounts. What it cannot answer is what those two queries
+ // reduce over. `effective-five-hour-percent-used` and `effective-seven-day-percent-used` were
+ // derived properties declared in `pages/page-property-definition/claude-account-effective-*.md`,
