@@ -18,7 +18,7 @@ export const temperCatalog = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every page here states what the game holds for everybody.",
+      statement: "Every page here states a thing the game holds for everybody.",
     },
     {
       invariantKind: "departure",
