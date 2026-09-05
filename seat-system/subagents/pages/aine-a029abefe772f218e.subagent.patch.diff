@@ -50,7 +50,7 @@ index 8326a75a6306d0a75889a16399563bc5e8d181f8..0cb450fc3eb6e9dd9cabeaebc588212d
      "pair-bond",
      "intimates",
 diff --git a/alan/relating/relationships/relationship.page-type.ts b/alan/relating/relationships/relationship.page-type.ts
-index 73cab83fc93a5abea3e4e962a21d2e6a79351689..35d79636f8a62d44db9c955b870a7b1fd42e800c 100644
+index 73cab83fc93a5abea3e4e962a21d2e6a79351689..da1ef0a553d307a8c6c94f8767889e3ffc09da4f 100644
 --- a/alan/relating/relationships/relationship.page-type.ts
 +++ b/alan/relating/relationships/relationship.page-type.ts
 @@ -44,7 +44,7 @@ export const relationship = {
@@ -62,12 +62,17 @@ index 73cab83fc93a5abea3e4e962a21d2e6a79351689..35d79636f8a62d44db9c955b870a7b1f
    pluralSlug: "relationships",
    extendsSlug: ["page-type/page"],
    partSlugs: [
-@@ -94,7 +94,7 @@ export const relationship = {
+@@ -94,11 +94,11 @@ export const relationship = {
      {
        invariantKind: "departure",
        statement:
 -        "Four ratings stand apart: what this person changes, how much Alan wants them, how connected they already are, and what he means to keep putting in.",
 +        "Four ratings sit apart: what this person changes, how much Alan wants them, how connected they already are, and what he means to keep putting in.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A relationship stands whether or not the system reaches the person.",
++      statement: "A relationship exists whether or not the system reaches the person.",
      },
      {
        invariantKind: "departure",
