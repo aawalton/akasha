@@ -75,7 +75,7 @@ index 513a96731ba5abd442823d8e354f022db2d67ff9..399864b5c7b3784d0df08c4da223b9f1
      {
        invariantKind: "departure",
 diff --git a/seat-system/terminal-init/terminal-account-launchers/terminal-account-launchers.module.test.ts b/seat-system/terminal-init/terminal-account-launchers/terminal-account-launchers.module.test.ts
-index 5ef2ac6d1be7281510519bb7f80846a6d804c138..240cdf0796f4085e21c544aca2017a8732e28f49 100644
+index 5ef2ac6d1be7281510519bb7f80846a6d804c138..d75d98f1efbd05179e9211b6c4a083de4bb935bd 100644
 --- a/seat-system/terminal-init/terminal-account-launchers/terminal-account-launchers.module.test.ts
 +++ b/seat-system/terminal-init/terminal-account-launchers/terminal-account-launchers.module.test.ts
 @@ -9,7 +9,7 @@ async function parses(said: string): Promise<number> {
@@ -85,6 +85,15 @@ index 5ef2ac6d1be7281510519bb7f80846a6d804c138..240cdf0796f4085e21c544aca2017a87
 -  test("stands under the launcher's own name", () => {
 +  test("sits under the launcher's own name", () => {
      expect(said.startsWith("_akasha_fn_c1() {")).toBe(true)
+   })
+ 
+@@ -40,7 +40,7 @@ describe("a new account", () => {
+     expect(said).toContain("cna: aborted — no email")
+   })
+ 
+-  test("says its own alias stands only once the set is composed again", () => {
++  test("says its own alias is there only once the set is composed again", () => {
+     expect(said).toContain("Run 's.' to load the new c-alias")
    })
  
 diff --git a/seat-system/terminal-init/terminal-account-launchers/terminal-account-launchers.module.ts b/seat-system/terminal-init/terminal-account-launchers/terminal-account-launchers.module.ts
@@ -127,10 +136,10 @@ index fec8cfe99cb50cd31c0898f0de1b12e567bce769..0b98cea09f27dfd9b5c5331db2ee68c0
      {
        invariantKind: "departure",
 diff --git a/seat-system/terminal-init/terminal-ended/terminal-ended.module.test.ts b/seat-system/terminal-init/terminal-ended/terminal-ended.module.test.ts
-index 7bfdeb5e52fddd87b3171cc64d846dd26edb3336..81994d6ce809324e2446303fb326cedaf2344e75 100644
+index 7bfdeb5e52fddd87b3171cc64d846dd26edb3336..f08e238b2c982324e1e56f61ad2c14b2d668ab85 100644
 --- a/seat-system/terminal-init/terminal-ended/terminal-ended.module.test.ts
 +++ b/seat-system/terminal-init/terminal-ended/terminal-ended.module.test.ts
-@@ -16,7 +16,7 @@ async function parses(text: string): Promise<number> {
+@@ -16,13 +16,13 @@ async function parses(text: string): Promise<number> {
  }
  
  describe("what is left", () => {
@@ -139,6 +148,13 @@ index 7bfdeb5e52fddd87b3171cc64d846dd26edb3336..81994d6ce809324e2446303fb326ceda
      for (const key of ["ended-at", "status", "signal", "pid", "ppid", "tty"]) {
        expect(said).toContain(`"${key}"`)
      }
+   })
+ 
+-  test("stands beside the terminal's own page under the tree the reader looks in", () => {
++  test("sits beside the terminal's own page under the tree the reader looks in", () => {
+     expect(said).toContain(`local _dir="$_root/${ENDED_DIR}"`)
+     expect(said).toContain(".code-editor-terminal.ended.uncommitted.attachment.json")
+   })
 diff --git a/seat-system/terminal-init/terminal-ended/terminal-ended.module.ts b/seat-system/terminal-init/terminal-ended/terminal-ended.module.ts
 index 15a360a57fd8f95e7947717c6cca9f7ed7041c60..b70276232b0d91a5d95d45e8ff1cdd13332c065d 100644
 --- a/seat-system/terminal-init/terminal-ended/terminal-ended.module.ts
