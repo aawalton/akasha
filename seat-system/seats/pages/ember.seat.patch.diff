@@ -1,0 +1,185 @@
+diff --git a/pages/package.json b/pages/package.json
+index b43255bc6f41b4611fc036e8e14479ac6e64d854..78c63c01c72680b5c1c52c14c91aded03173f3cc 100644
+--- a/pages/package.json
++++ b/pages/package.json
+@@ -46,6 +46,7 @@
+     "./page-derive-shape": "./derive-shape/page-derive-shape.module.code.ts",
+     "./page-entries": "./entries/page-entries.module.code.ts",
+     "./page-entry-queue": "./entry-queue/page-entry-queue.module.code.ts",
++    "./page-entry-writing": "./entry-writing/page-entry-writing.module.code.ts",
+     "./page-export-name": "./export-name/page-export-name.module.code.ts",
+     "./page-file-name": "./file-name/page-file-name.module.code.ts",
+     "./page-file-parts": "./file-parts/page-file-parts.module.code.ts",
+diff --git a/pages/system-service/page-composing/page-composing.module.code.ts b/pages/system-service/page-composing/page-composing.module.code.ts
+index fede1d09ffff594bf3c1b79fb00ac8f075d0d165..eee308f60b329125e711c0f6bd0c42774008a0b7 100644
+--- a/pages/system-service/page-composing/page-composing.module.code.ts
++++ b/pages/system-service/page-composing/page-composing.module.code.ts
+@@ -1,7 +1,12 @@
++import { existsSync } from "node:fs"
++import { join } from "node:path"
+ import { listedAt } from "@akasha/indexes"
+-import { fileKeysAt, filePropertiesAt } from "@akasha/indexes/entries"
++import { ENTRY_PROPERTY, fileKeysAt, filePropertiesAt } from "@akasha/indexes/entries"
++import { ENTRY_CEILING } from "@akasha/pages-system/entry-ceiling"
+ import { bodyOf, importedFrom, unnamedIn } from "@akasha/pages-system/page-body"
++import { partsOver } from "@akasha/pages-system/page-entry-writing"
+ import { besideAt } from "@akasha/pages-system/page-file-name"
++import { partsOf } from "@akasha/pages-system/page-file-parts"
+ import { type Carried, propertiesFrom, sourceIn } from "@akasha/pages-system/page-type-properties"
+ import { textAt, type Value, valueAt } from "@akasha/pages-system/page-value"
+ 
+@@ -11,6 +16,8 @@ const PLURAL = "pluralSlug"
+ 
+ const ID = "id"
+ 
++const JSONL = "jsonl"
++
+ export type Naming = {
+   readonly pageTypeSlug: string
+   readonly slug: string
+@@ -29,7 +36,12 @@ export type Kept = {
+ }
+ 
+ export type Composed =
+-  | { readonly put: Put; readonly kept: Kept | null }
++  | {
++      readonly put: Put
++      readonly kept: Kept | null
++      readonly parts: readonly Put[]
++      readonly removes: readonly string[]
++    }
+   | { readonly refused: string }
+ 
+ export function orderedIn(carried: readonly Carried[]): readonly Carried[] {
+@@ -169,6 +181,8 @@ export function composedFor(root: string, named: Naming): Composed {
+   const already: Value = named.merge === true && was !== null ? was : {}
+   const outside: Value = {}
+   const inside: Value = {}
++  const parts: Put[] = []
++  const removes: string[] = []
+   const filedBy = filePropertiesAt(root).get(named.pageTypeSlug)
+   for (const one of carried) {
+     const stated = one.key in named.values
+@@ -178,6 +192,17 @@ export function composedFor(root: string, named: Naming): Composed {
+       outside[one.key] = value
+       continue
+     }
++    if (one.pageTypeSlug === ENTRY_PROPERTY && Array.isArray(value)) {
++      const said = already[one.key]
++      const ending = typeof said === "string" && said !== "" ? said : JSONL
++      const made = partsOver(at, one.propertySlug, ending, value, ENTRY_CEILING)
++      if ("refused" in made) return { refused: made.refused }
++      for (const part of made.parts) parts.push({ path: part.path, content: part.text })
++      const filled = partsOf(at, one.propertySlug, ending, (path) => existsSync(join(root, path)))
++      for (const gone of filled.slice(made.parts.length)) removes.push(gone)
++      inside[one.key] = ending
++      continue
++    }
+     if (filedBy !== undefined && filedBy.get(one.propertySlug) === null) {
+       const refused = endingRefused(one.key, one.propertySlug, at, value)
+       if (refused !== null) return { refused }
+@@ -194,21 +219,28 @@ export function composedFor(root: string, named: Naming): Composed {
+     values: inside,
+   })
+   const kept = Object.keys(outside).length === 0 ? null : { path: at, values: outside }
+-  return { put: { path: at, content }, kept }
++  return { put: { path: at, content }, kept, parts, removes }
+ }
+ 
+ export type Folded =
+-  | { readonly puts: readonly Put[]; readonly kept: readonly Kept[] }
++  | {
++      readonly puts: readonly Put[]
++      readonly kept: readonly Kept[]
++      readonly removes: readonly string[]
++    }
+   | { readonly refused: string }
+ 
+ export function foldedFor(root: string, named: readonly Naming[]): Folded {
+   const puts: Put[] = []
+   const kept: Kept[] = []
++  const removes: string[] = []
+   for (const one of named) {
+     const composed = composedFor(root, one)
+     if ("refused" in composed) return { refused: composed.refused }
+     puts.push(composed.put)
++    for (const part of composed.parts) puts.push(part)
++    for (const gone of composed.removes) removes.push(gone)
+     if (composed.kept !== null) kept.push(composed.kept)
+   }
+-  return { puts, kept }
++  return { puts, kept, removes }
+ }
+diff --git a/pages/system-service/page-composing/page-composing.module.ts b/pages/system-service/page-composing/page-composing.module.ts
+index 50eea257c83e46cfafe215bb76987b42a14e72a8..d66eec41c861c8d5c29e436641d706473bb51811 100644
+--- a/pages/system-service/page-composing/page-composing.module.ts
++++ b/pages/system-service/page-composing/page-composing.module.ts
+@@ -107,7 +107,23 @@ export const pageComposing = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A value under a property held in a file names that file's ending rather than that file's body.",
++        "A value under a file property names that file's ending rather than that file's body.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A value under an entry property is the rows themselves or that file's ending.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The files those rows fill are put alongside the page carrying them.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A numbered file those rows no longer fill is taken away.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page naming no ending for its entries takes `jsonl`.",
+     },
+     {
+       invariantKind: "departure",
+@@ -123,7 +139,7 @@ export const pageComposing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Several pages compose into what one write puts and what the write keeps.",
++      statement: "Several pages compose into what one write puts, keeps and takes away.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/pages/system-service/page-serving/page-serving.module.code.ts b/pages/system-service/page-serving/page-serving.module.code.ts
+index ba6368ed4d41418bbf058df17040fc76989c1902..df0d0a7626fce70e2138496a3a5b139621f47876 100644
+--- a/pages/system-service/page-serving/page-serving.module.code.ts
++++ b/pages/system-service/page-serving/page-serving.module.code.ts
+@@ -253,9 +253,16 @@ export function writeIn(given: unknown): Written {
+   return { asked, pages }
+ }
+ 
+-export function foldedInto(asked: Asked, puts: readonly Put[], kept: readonly Kept[]): Asked {
+-  if (puts.length === 0 && kept.length === 0) return asked
+-  const held: Asked = { ...asked, puts: [...(asked.puts ?? []), ...puts] }
++export function foldedInto(
++  asked: Asked,
++  puts: readonly Put[],
++  kept: readonly Kept[],
++  removes: readonly string[] = []
++): Asked {
++  if (puts.length === 0 && kept.length === 0 && removes.length === 0) return asked
++  const put: Asked = { ...asked, puts: [...(asked.puts ?? []), ...puts] }
++  const held: Asked =
++    removes.length === 0 ? put : { ...put, removes: [...(asked.removes ?? []), ...removes] }
+   return kept.length === 0 ? held : { ...held, kept }
+ }
+ 
+@@ -296,7 +303,9 @@ export async function answering(given: Serving, request: Request): Promise<Respo
+     if ("refused" in read) return said({ refused: read.refused }, 400)
+     const folded = foldedFor(given.root, read.pages)
+     if ("refused" in folded) return said({ refused: folded.refused }, 400)
+-    const wrote = await given.writer.writing(foldedInto(read.asked, folded.puts, folded.kept))
++    const wrote = await given.writer.writing(
++      foldedInto(read.asked, folded.puts, folded.kept, folded.removes)
++    )
+     if ("refused" in wrote) return said({ refused: wrote.refused }, 400)
+     return said(wrote, 200)
+   }
