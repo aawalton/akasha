@@ -975,3 +975,11 @@ index a7db94efa4c778e444ade8bd58eafaa5924ba195..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-events-addon
 \ No newline at end of file
+diff --git a/temper/temper-explain/temper-explain b/temper/temper-explain/temper-explain
+deleted file mode 120000
+index efbb39e9664289b0011bb9d885a06cbe5e9de696..0000000000000000000000000000000000000000
+--- a/temper/temper-explain/temper-explain
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-explain
+\ No newline at end of file
