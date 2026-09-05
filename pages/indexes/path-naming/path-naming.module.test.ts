@@ -4,7 +4,7 @@ import {
   heldIndexed,
   scratch,
   THREE,
-} from "../../../commands/move/move.command.test-fixtures.ts"
+} from "../../../command-system/commands/move/move.command.test-fixtures.ts"
 import { importingOf, namingOf, spellingOf } from "./path-naming.module.code.ts"
 
 afterAll(scratch.sweep)

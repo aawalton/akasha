@@ -10,9 +10,9 @@
 // one on its own thread, inside a second's budget.
 
 import { join } from "node:path"
-import { domainRowsIn } from "../../../../../commands/domain-tree/domain-tree.command.code.ts"
-import { pageAnswers } from "../../../../../commands/page-tree/page-tree.command.code.ts"
-import { treeIn } from "../../../../../commands/work-tree/work-tree.command.code.ts"
+import { domainRowsIn } from "../../../../../command-system/commands/domain-tree/domain-tree.command.code.ts"
+import { pageAnswers } from "../../../../../command-system/commands/page-tree/page-tree.command.code.ts"
+import { treeIn } from "../../../../../command-system/commands/work-tree/work-tree.command.code.ts"
 import { championTree } from "../../../../../editor-extension/champions-tree/champions-tree.module.code.ts"
 import { assemblePageTree } from "../../../../../editor-extension/page-tree-assemble/page-tree-assemble.module.code.ts"
 

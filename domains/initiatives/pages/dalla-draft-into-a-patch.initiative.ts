@@ -45,7 +45,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "No command reaches into another command for a capability.",
       workingMemory:
-        "`commands/refactor` imports `naming`, `repointing`, `manifesting`, `outside` and `renaming` out of `commands/move`, and calls `move` itself at `refactor.command.code.ts:376`; `move/listing` and `move/renaming` import back out of `refactor`. `move/spreading` imports `trackedUnder` from `remove`'s entry file. `write.command.code.ts` exports 20 names to 17 importers, `glassIn` and `messageIn` among them.",
+        "`command-system/commands/refactor` imports `naming`, `repointing`, `manifesting`, `outside` and `renaming` out of `command-system/commands/move`, and calls `move` itself at `refactor.command.code.ts:376`; `move/listing` and `move/renaming` import back out of `refactor`. `move/spreading` imports `trackedUnder` from `remove`'s entry file. `write.command.code.ts` exports 20 names to 17 importers, `glassIn` and `messageIn` among them.",
     },
     {
       statement: "A guard that cannot see what it judges refuses rather than passing.",

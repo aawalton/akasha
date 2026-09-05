@@ -9,9 +9,9 @@ export const COMMAND = "command"
 
 export const COMMAND_TYPE = "01a04bdd-596d-7b81-9204-1a882f474a5f"
 
-export const REPAIR_AT = "commands/index/index.command.code.ts"
+export const REPAIR_AT = "command-system/commands/index/index.command.code.ts"
 
-const BOOTSTRAP_AT = "commands/index/index.command.ts"
+const BOOTSTRAP_AT = "command-system/commands/index/index.command.ts"
 
 export const ANSWERS = `export function held(argv, given) {
   return { report: [argv.join(" "), given.calledAs], refusals: [], code: 0 }

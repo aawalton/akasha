@@ -1,0 +1,140 @@
+import type { Command } from "../command.page-type.ts"
+
+export const edit = {
+  id: "01a04beb-8a88-7a89-bcb5-4e546b75afbd",
+  pageTypeSlug: "command",
+  slug: "edit",
+  definition:
+    "stated substitutions and removals worked into one change, landed or refused together",
+  code: "ts",
+  test: "ts",
+  testFixtures: "ts",
+  changeKindSlug: "change-authored",
+  taking: [
+    { said: "--file-path <path>", takes: "the file to change, anywhere in the repository" },
+    { said: "--old-file <file>", takes: "a file holding the passage to replace" },
+    { said: "--new-file <file>", takes: "a file holding what that passage becomes" },
+    { said: "--remove <path>", takes: "a path in the repository to take away" },
+    { said: "--message <text>", takes: "what the commit is for" },
+    { said: "--message-file <file>", takes: "a file the commit message is read from" },
+    { said: "--break-the-glass <reason>", takes: "why no warrant is owed, said in the commit" },
+    { said: "--restated", takes: "the words move and what the page means does not" },
+  ],
+  helpNotes: [
+    "a mechanical change is made by the command for it rather than by passages stated here.",
+    "`--restated` runs every check and owes no reading, so say it only where the meaning is unchanged.",
+    "`move` carries and repoints, `refactor` renames and retypes, `replace` substitutes across files, `remove` takes away.",
+    "--file-path, --old-file and --new-file repeat in triples, so several files change as one.",
+    "a passage stated must be in the file exactly once, or the call is refused.",
+    "the passage and what it becomes are files or standard input, never text said on the command line.",
+    "a --file-path stating no --old-file reads its passages from standard input.",
+    "a passage piped in sits between <<<<<<< old and =======, and what it becomes before >>>>>>> new.",
+    "the marker blocks repeat, and each is worked in the order stated.",
+    "a payload names a run of its own on the line it opens with, so a passage may carry a marker line.",
+    "opening at <<<<<<<ZZ old marks that payload with =======ZZ and >>>>>>>ZZ new throughout.",
+    "a marker carrying mid-line ends its passage before the last line ending, so a passage may end mid-line.",
+    "each substitution is worked against what the ones before it left, so an earlier one feeds a later one.",
+    "the files beside a path given to --remove go with it, and no list naming that page is mended.",
+    "a file has to be what this call read it as, wherever in the repository that file is.",
+    "the change is kept in the patch beside this agent's page, and `akasha patch apply` lands it.",
+    "a draft is warranted as a landing is, and says what the checks refused without refusing.",
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A substitution matching no times or more than once is refused before any check runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body that is not text is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path that is not there is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body that is there and will not open is refused as itself rather than as absent.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file that changes under a call between its read and its write refuses the whole call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Substitutions against one file are worked in the order stated.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each substitution is worked against the body the earlier substitutions left.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change is stated as exact passages rather than as a diff.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A passage reaches this command at `--old-file` or standard input rather than the command line.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A passage is the bytes of the file or block naming that passage with its trailing newline included.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A block marker carrying `mid-line` ends its passage before that newline.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Once the bodies are worked out the edit lands exactly as `write` on the same gate and the same hold.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file this call would change is warranted as `write` warrants a file on the same record and glass.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A removal lands in the same commit as the substitutions.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path anywhere in the repository is changed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path inside `.git` is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder at the top of the repository is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path no check judged is named in the answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A substitution naming no passage is refused wherever the path is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An edit keeps a patch rather than writing a body onto the tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A passage a draft works against is the body on disk rather than the patch.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A caller states a passage's text and learns whether that passage was still that text.",
+    },
+  ],
+} as const satisfies Command

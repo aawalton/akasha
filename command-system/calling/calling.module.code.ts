@@ -67,7 +67,7 @@ const UNDER = "-"
 
 export const ROOTED = "index"
 
-const REPAIR_AT = "commands/index/index.command.code.ts"
+const REPAIR_AT = "command-system/commands/index/index.command.code.ts"
 
 const loadFrom = createRequire(import.meta.url)
 
