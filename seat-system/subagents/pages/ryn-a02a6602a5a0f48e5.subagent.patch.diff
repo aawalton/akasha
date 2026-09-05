@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/query/store-page-asking/store-page-asking.module.ts b/pages/query/store-page-asking/store-page-asking.module.ts
+index 20b7e8fa04ed5e40504834569de2ed94e9c65818..f5667e449c12a228503576717431e4f9dff2cac5 100644
+--- a/pages/query/store-page-asking/store-page-asking.module.ts
++++ b/pages/query/store-page-asking/store-page-asking.module.ts
+@@ -36,7 +36,7 @@ export const storePageAsking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What names a page is found by asking each page type in turn.",
++      statement: "The pages naming a page are found by asking each page type in turn.",
+     },
+     {
+       invariantKind: "departure",
