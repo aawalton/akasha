@@ -7,15 +7,15 @@ export const ruleValuableNothing = {
   title: "List items worth >=5000g at guild store",
   description:
     "Lists any item with guild-store value (marketValue) >= 5000g that can be listed at a guild trader. Single guild-value gate (no vendor-value constraint). Pairs with low-quality-sell: >=5000 list, <5000 vendor-sell.",
+  goal: "hoard",
+  conditions: "jsonl",
+  destination: "character:8796093022338107",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "all",
   displayOrder: 39,
   action: "list",
   active: true,
   updatedAt: "2026-06-02T20:49:37.762Z",
-  goal: "hoard",
   locked: true,
   fromTemplate: "valuable-nothing",
-  destination: "character:8796093022338107",
-  conditions: "jsonl",
 } as const satisfies TemperInventoryRule
