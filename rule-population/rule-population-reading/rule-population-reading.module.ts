@@ -22,7 +22,8 @@ export const rulePopulationReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The population is the checkout as it now is, with no graph cache read.",
+      statement:
+        "The population is the checkout as that checkout now is, with no graph cache read.",
     },
     {
       invariantKind: "departure",
