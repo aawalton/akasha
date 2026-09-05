@@ -4,7 +4,7 @@ export const workInitiatives = {
   id: "01a04e9f-4572-7339-8438-7d5a5777f8ab",
   pageTypeSlug: "module",
   slug: "work-initiatives",
-  definition: "every initiative the work panel draws, and the one each stands under",
+  definition: "every initiative the work panel draws, and the one each sits under",
   code: "ts",
   test: "ts",
   invariants: [
@@ -39,7 +39,7 @@ export const workInitiatives = {
     },
     {
       invariantKind: "departure",
-      statement: "An initiative standing under other than one parent is answered as under none.",
+      statement: "An initiative under other than one parent is answered as under none.",
     },
     {
       invariantKind: "departure",

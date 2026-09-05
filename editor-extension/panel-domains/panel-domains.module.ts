@@ -4,7 +4,7 @@ export const panelDomains = {
   id: "01a04e9f-4572-74d2-b19a-9fd2f81583eb",
   pageTypeSlug: "module",
   slug: "panel-domains",
-  definition: "every domain the domains panel draws, the one each stands under, and their order",
+  definition: "every domain the domains panel draws, the one each sits under, and their order",
   code: "ts",
   test: "ts",
   invariants: [
@@ -16,7 +16,7 @@ export const panelDomains = {
     {
       invariantKind: "departure",
       statement:
-        "Which page types stand under `domain` is worked out from the page type pages themselves.",
+        "Which page types sit under `domain` is worked out from the page type pages themselves.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +32,7 @@ export const panelDomains = {
     },
     {
       invariantKind: "departure",
-      statement: "A page standing under other than one parent is answered as under none.",
+      statement: "A page under other than one parent is answered as under none.",
     },
     {
       invariantKind: "departure",

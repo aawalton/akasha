@@ -75,7 +75,7 @@ test("an index naming no page type for initiatives refuses rather than drawing n
   expect(() => initiativesDrawn(root)).toThrow("could not be answered")
 })
 
-test("the edge is filed under the parent, so the child is the one that stands under", () => {
+test("the edge is filed under the parent, so the child is the one that sits under", () => {
   const root = worldFor()
   filing(root, "amy-parent", ONE)
   filing(root, "amy-child", TWO)
@@ -85,20 +85,20 @@ test("the edge is filed under the parent, so the child is the one that stands un
   expect(drawn.find((one) => one.slug === "amy-parent")?.parent).toBe(null)
 })
 
-test("an initiative naming no parent stands under none", () => {
+test("an initiative naming no parent sits under none", () => {
   const root = worldFor()
   filing(root, "amy-one", ONE)
   expect(initiativesDrawn(root)[0]?.parent).toBe(null)
 })
 
-test("a parent the index files no initiative for stands under none", () => {
+test("a parent the index files no initiative for sits under none", () => {
   const root = worldFor()
   filing(root, "amy-two", TWO)
   under(root, TWO, THREE)
   expect(initiativesDrawn(root)[0]?.parent).toBe(null)
 })
 
-test("an initiative standing under two stands under none", () => {
+test("an initiative under two parents sits under none", () => {
   const root = worldFor()
   filing(root, "amy-one", ONE)
   filing(root, "amy-two", TWO)
@@ -109,7 +109,7 @@ test("an initiative standing under two stands under none", () => {
   expect(drawn.find((one) => one.slug === "amy-three")?.parent).toBe(null)
 })
 
-test("a parent standing under two children keeps each of them under it", () => {
+test("a parent under two children keeps each of them under it", () => {
   const root = worldFor()
   filing(root, "amy-one", ONE)
   filing(root, "amy-two", TWO)

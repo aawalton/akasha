@@ -44,7 +44,7 @@ function parts(slug: string, held: readonly string[]): string {
   return `export const held = { slug: ${JSON.stringify(slug)}, partSlugs: ${JSON.stringify(held)} }\n`
 }
 
-test("a page type standing under domain is a kind that is drawn", () => {
+test("a page type under domain is a kind that is drawn", () => {
   const root = scratch.rootFor("akasha-domains-")
   filing(
     root,
@@ -58,7 +58,7 @@ test("a page type standing under domain is a kind that is drawn", () => {
   expect(kinds.has("module")).toBe(true)
 })
 
-test("a page type standing under one that stands under domain is drawn too", () => {
+test("a page type under one that sits under domain is drawn too", () => {
   const root = scratch.rootFor("akasha-domains-")
   filing(
     root,
@@ -77,7 +77,7 @@ test("a page type standing under one that stands under domain is drawn too", () 
   expect(kindsUnderDomain(root).has("check")).toBe(true)
 })
 
-test("a page type standing outside domain is no kind of this panel", () => {
+test("a page type outside domain is no kind of this panel", () => {
   const root = scratch.rootFor("akasha-domains-")
   filing(
     root,
@@ -95,7 +95,7 @@ test("a page is answered under its address", () => {
   expect(domainsDrawn(root).map((held) => held.slug)).toEqual(["domain/one"])
 })
 
-test("the part edge is filed under the part, so the part is the one standing under", () => {
+test("the part edge is filed under the part, so the part is the one that sits under", () => {
   const root = scratch.rootFor("akasha-domains-")
   filing(root, "domain", "over", ONE, parts("over", ["domain/under"]))
   filing(root, "domain", "under", TWO)
@@ -122,7 +122,7 @@ test("a page the index says holds no part is answered with no order", () => {
   expect(domainsDrawn(root)[0]?.sequence).toEqual([])
 })
 
-test("a page standing under two parents stands under none", () => {
+test("a page under two parents sits under none", () => {
   const root = scratch.rootFor("akasha-domains-")
   filing(root, "domain", "over", ONE, parts("over", ["domain/under"]))
   filing(root, "domain", "also", TWO, parts("also", ["domain/under"]))
