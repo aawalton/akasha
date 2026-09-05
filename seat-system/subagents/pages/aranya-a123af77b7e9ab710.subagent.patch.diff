@@ -1,0 +1,163 @@
+diff --git a/seat-system/subagents/presence/subagent-presence.module.code.ts b/seat-system/subagents/presence/subagent-presence.module.code.ts
+index da88d4fcf64d7f6d17c9b7d73ef3a7d26bdf51b0..f5af6a53e79eb83915f031a10de40cf9bbbe62a5 100644
+--- a/seat-system/subagents/presence/subagent-presence.module.code.ts
++++ b/seat-system/subagents/presence/subagent-presence.module.code.ts
+@@ -122,13 +122,19 @@ function statedIn(values: Record<string, unknown> | null, key: string): string |
+ 
+ // A SUBAGENT RESUMING TAKES UP THE PAGE IT HAD. This composed a page at every SubagentStart, so a
+ // subagent coming back after its page went was minted a second identity under one agent id. What
+-// the page said is in the commit that wrote it, and taking that page up again keeps the id, the
+-// assignment and the kind it carried — the id above all, because a reader joining what a subagent
+-// did across its resume has nothing else to join on.
++// the page said is in the commit that wrote it, and taking that page up again keeps the id and the
++// kind it carried — the id above all, because a reader joining what a subagent did across its
++// resume has nothing else to join on.
+ //
+ // THE KIND CANNOT BE RECOVERED ANYWHERE ELSE. `agent_type` reaches no harness event but
+ // SubagentStart and SubagentStop, so no later payload carries it. History is the only source, and
+-// that is why the assignment and the kind are taken from the page rather than composed again.
++// that is why the kind is taken from the page rather than composed again.
++//
++// THE ASSIGNMENT IS THE SEAT'S AND NOT HISTORY'S. An assignment is a current fact the seat holds,
++// and a page says what is true now. Reading it back out of history lets a subagent resuming take
++// an assignment its seat has since dropped; where that assignment's page went meanwhile the
++// landing refuses, and a refused put-up leaves the restart interlock blind to a subagent at work.
++// History answers here only where the seat states no assignment at all.
+ //
+ // A subagent with no page behind it is composed as before, and the landing mints the id it keeps.
+ export async function wrote(
+@@ -144,7 +150,7 @@ export async function wrote(
+   const agentId = agentIdOf(seatId, own)
+   const had = subagentPageInHistory(root, at, agentId)
+   const held = had === null ? null : had.values
+-  const assignmentSlug = statedIn(held, ASSIGNMENT) ?? assignedTo(root, seatName)
++  const assignmentSlug = assignedTo(root, seatName) ?? statedIn(held, ASSIGNMENT)
+   if (assignmentSlug === null) {
+     return {
+       why:
+diff --git a/seat-system/subagents/presence/subagent-presence.module.test-fixtures.ts b/seat-system/subagents/presence/subagent-presence.module.test-fixtures.ts
+index bc049e2ea27b083411417cb460894dbf76b420fc..4f1067b0e2535ff41069adbfa23e92b3c52dce74 100644
+--- a/seat-system/subagents/presence/subagent-presence.module.test-fixtures.ts
++++ b/seat-system/subagents/presence/subagent-presence.module.test-fixtures.ts
+@@ -77,19 +77,34 @@ export function idIn(body: string): string | null {
+   return /\n {2}id: "([^"]+)",/.exec(body)?.[1] ?? null
+ }
+ 
++export function landedUnder(root: string, seatName: string, own: string): string {
++  return readFileSync(join(root, pathOf(slugOf(seatName, own))), "utf8")
++}
++
+ export function landedAt(root: string, own: string): string {
+-  return readFileSync(join(root, pathOf(slugOf("akasha", own))), "utf8")
++  return landedUnder(root, "akasha", own)
+ }
+ 
+ // THE PAGE A SUBAGENT HAD, PUT INTO THE HISTORY AND TAKEN OFF THE DISK, which is what a seat's
+ // working tree holds after a subagent stops. The body is composed by the module under test rather
+-// than spelled again, so what a resume reads back is what a put-up wrote.
+-export function heldInHistory(root: string, own: string, agentId: string, kind: string): undefined {
+-  const at = pathOf(slugOf("akasha", own))
+-  const slug = slugOf("akasha", own)
+-  writing(root, at, bodyOf(slug, "akasha", HELD_ASSIGNMENT, kind, agentId, HELD_ID))
++// than spelled again, so what a resume reads back is what a put-up wrote. The seat is named because
++// a seat stating no assignment is the one case where history answers for the assignment.
++export function heldUnder(
++  root: string,
++  seatName: string,
++  own: string,
++  agentId: string,
++  kind: string
++): undefined {
++  const slug = slugOf(seatName, own)
++  const at = pathOf(slug)
++  writing(root, at, bodyOf(slug, seatName, HELD_ASSIGNMENT, kind, agentId, HELD_ID))
+   gitIn(root, ["add", "-A"])
+   gitIn(root, ["commit", "--quiet", "-m", "the page was there"])
+   gitIn(root, ["rm", "--quiet", at])
+   gitIn(root, ["commit", "--quiet", "-m", "the page went"])
+ }
++
++export function heldInHistory(root: string, own: string, agentId: string, kind: string): undefined {
++  heldUnder(root, "akasha", own, agentId, kind)
++}
+diff --git a/seat-system/subagents/presence/subagent-presence.module.test.ts b/seat-system/subagents/presence/subagent-presence.module.test.ts
+index f7446494adbd2e79b6ba32460e55638c34e011bc..01b47da0097faacb676205fc84a51a89365c5842 100644
+--- a/seat-system/subagents/presence/subagent-presence.module.test.ts
++++ b/seat-system/subagents/presence/subagent-presence.module.test.ts
+@@ -27,8 +27,10 @@ import {
+   HELD_ASSIGNMENT,
+   HELD_ID,
+   heldInHistory,
++  heldUnder,
+   idIn,
+   landedAt,
++  landedUnder,
+   loggedAt,
+   MECHANICAL,
+   messageIn,
+@@ -248,7 +250,7 @@ test("a subagent whose page is in history takes up that page rather than a new o
+   }
+ })
+ 
+-test("a page taken up keeps the kind and the assignment that page carried", async () => {
++test("a page taken up keeps the kind it carried and takes its seat's assignment", async () => {
+   const world = scratchWorld()
+   try {
+     const root = seated(world.rootFor("subagent-presence-"))
+@@ -256,13 +258,28 @@ test("a page taken up keeps the kind and the assignment that page carried", asyn
+     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task")).toEqual(WENT)
+     const landed = landedAt(root, OWN)
+     expect(landed).toContain('dispatchedAs: "Explore"')
+-    expect(landed).toContain(`assignmentSlug: ${JSON.stringify(HELD_ASSIGNMENT)}`)
++    expect(landed).toContain('assignmentSlug: "domain/akasha-system"')
++    expect(landed).not.toContain(HELD_ASSIGNMENT)
+     expect(landed).toContain(`agentId: "${SEAT_ID}--${OWN}"`)
+   } finally {
+     world.sweep()
+   }
+ })
+ 
++test("a page taken up under a seat stating no assignment takes history's", async () => {
++  const world = scratchWorld()
++  try {
++    const root = seated(world.rootFor("subagent-presence-"))
++    heldUnder(root, "thea", OWN, agentIdOf(SEAT_ID, OWN), "Explore")
++    expect(await wrote(root, "thea", SEAT_ID, OWN, "Task")).toEqual(WENT)
++    expect(landedUnder(root, "thea", OWN)).toContain(
++      `assignmentSlug: ${JSON.stringify(HELD_ASSIGNMENT)}`
++    )
++  } finally {
++    world.sweep()
++  }
++})
++
+ test("a subagent with no page in history has one composed as before", async () => {
+   const world = scratchWorld()
+   try {
+diff --git a/seat-system/subagents/presence/subagent-presence.module.ts b/seat-system/subagents/presence/subagent-presence.module.ts
+index 7e4ee0f47434fa1de2e58108e088c7617bb18d76..85191d96575b6a91d22f05c6ceadf0515ff39974 100644
+--- a/seat-system/subagents/presence/subagent-presence.module.ts
++++ b/seat-system/subagents/presence/subagent-presence.module.ts
+@@ -43,7 +43,7 @@ export const subagentPresence = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page taken up keeps the id, the assignment and the kind that page carried.",
++      statement: "A page taken up keeps the id and the kind that page carried.",
+     },
+     {
+       invariantKind: "departure",
+@@ -59,7 +59,12 @@ export const subagentPresence = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page composed states the assignment its seat states.",
++      statement: "A page states the assignment its seat states.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A page taken up states the assignment history held only where its seat states none.",
+     },
+     {
+       invariantKind: "departure",
