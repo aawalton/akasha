@@ -9,7 +9,7 @@ export const mobileAnswering = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A flag naming a value takes the word after it.",
+      statement: "A flag naming a value takes the word after that flag.",
     },
     {
       invariantKind: "departure",
@@ -25,11 +25,11 @@ export const mobileAnswering = {
     },
     {
       invariantKind: "departure",
-      statement: "A bare word represents the flag a command says it represents.",
+      statement: "A bare word represents the flag a command says that bare word represents.",
     },
     {
       invariantKind: "departure",
-      statement: "A bare word is refused where the flag it represents was also named.",
+      statement: "A bare word is refused where the flag that bare word represents was also named.",
     },
     {
       invariantKind: "departure",
