@@ -1,5 +1,5 @@
 diff --git a/commands/write/write.command.code.ts b/commands/write/write.command.code.ts
-index ff2fe35280d05875da7fa327da0c98efc791fee7..ca89799deb73a90547f3aa083cde1bf7b80e8a54 100644
+index ff2fe35280d05875da7fa327da0c98efc791fee7..6b8c05ac7675a7325db450908081767d7663601d 100644
 --- a/commands/write/write.command.code.ts
 +++ b/commands/write/write.command.code.ts
 @@ -13,7 +13,11 @@ import {
@@ -34,3 +34,26 @@ index ff2fe35280d05875da7fa327da0c98efc791fee7..ca89799deb73a90547f3aa083cde1bf7
  
  export function unwarrantedIn(
    given: Given,
+@@ -58,6 +66,22 @@ export function unwarrantedIn(
+   )
+ }
+ 
++export function restatedIn(
++  argv: readonly string[],
++  given: Given
++): { readonly given: Given } | { readonly refusals: readonly string[] } {
++  if (!argv.includes(RESTATED)) return { given }
++  const kind = kindNamed(given.root, RESTATED_KIND)
++  if (kind === null) {
++    return {
++      refusals: [
++        `${RESTATED} lands a \`${RESTATED_KIND}\` change, and no such kind is a page here`,
++      ],
++    }
++  }
++  return { given: { ...given, changeKind: kind } }
++}
++
+ export function pathAt(root: string, said: string): string | null {
+   const full = isAbsolute(said) ? resolve(said) : resolve(root, said)
+   const rel = relative(resolve(root), full)
