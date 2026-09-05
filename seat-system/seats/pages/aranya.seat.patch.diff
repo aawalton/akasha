@@ -1423,3 +1423,11 @@ index c2bde6a8662860b286c14c2a1e612dd2d58226f8..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-player-completion-state
 \ No newline at end of file
+diff --git a/temper/temper-player-completion/temper-player-completion b/temper/temper-player-completion/temper-player-completion
+deleted file mode 120000
+index a7f34eb672228897b72fea7341bc89d61004eae7..0000000000000000000000000000000000000000
+--- a/temper/temper-player-completion/temper-player-completion
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-player-completion
+\ No newline at end of file
