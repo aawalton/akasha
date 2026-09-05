@@ -1,0 +1,14 @@
+diff --git a/pages/indexes/reaching/reaching.module.ts b/pages/indexes/reaching/reaching.module.ts
+index 12893b29a9a4f7e8a05e18eb0b6bca3748f3c761..52b0530a3455d234821bbb37eb2606522fd05cfd 100644
+--- a/pages/indexes/reaching/reaching.module.ts
++++ b/pages/indexes/reaching/reaching.module.ts
+@@ -31,7 +31,8 @@ export const reaching = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One key carried by two properties reaches each under the type carrying it.",
++      statement:
++        "One key carried by two properties reaches each under the type carrying that property.",
+     },
+     {
+       invariantKind: "departure",
