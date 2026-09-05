@@ -15,7 +15,7 @@ export const terminalMarks = {
     {
       invariantKind: "departure",
       statement:
-        "A mark says what the renamer last applied rather than what the terminal now shows.",
+        "A mark says the value the renamer last applied rather than the value the terminal now shows.",
     },
     {
       invariantKind: "departure",
