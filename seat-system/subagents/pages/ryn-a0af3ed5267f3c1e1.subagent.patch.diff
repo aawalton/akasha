@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/domains/sentence-shapes/sentence-shape.page-type.ts b/domains/sentence-shapes/sentence-shape.page-type.ts
+index 3576c135ec18b9e04fdb8f9ee07ee13a0f5b7e63..a781303e75f0728365f276f8a99fc5d51749520a 100644
+--- a/domains/sentence-shapes/sentence-shape.page-type.ts
++++ b/domains/sentence-shapes/sentence-shape.page-type.ts
+@@ -83,7 +83,7 @@ export const sentenceShape = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A shape says nothing about what a sentence means.",
++      statement: "A shape says nothing about a sentence's meaning.",
+     },
+     {
+       invariantKind: "gap",
