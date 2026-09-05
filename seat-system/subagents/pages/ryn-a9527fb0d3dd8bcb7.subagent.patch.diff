@@ -1,5 +1,5 @@
 diff --git a/seat-system/terminal-init/terminal-ended/terminal-ended.module.ts b/seat-system/terminal-init/terminal-ended/terminal-ended.module.ts
-index b70276232b0d91a5d95d45e8ff1cdd13332c065d..607af3473cd3a6fd97ddc5f5ef6f2519edac9273 100644
+index b70276232b0d91a5d95d45e8ff1cdd13332c065d..b65552fbf3b15e9ccea581b6ff5b6378b86d9b0f 100644
 --- a/seat-system/terminal-init/terminal-ended/terminal-ended.module.ts
 +++ b/seat-system/terminal-init/terminal-ended/terminal-ended.module.ts
 @@ -10,11 +10,13 @@ export const terminalEnded = {
@@ -25,6 +25,16 @@ index b70276232b0d91a5d95d45e8ff1cdd13332c065d..607af3473cd3a6fd97ddc5f5ef6f2519
 -      statement: "A hangup is recorded and then re-raised so the shell dies of what reached it.",
 +      statement:
 +        "A hangup is recorded and then re-raised so the shell dies of what reached that shell.",
+     },
+     {
+       invariantKind: "departure",
+@@ -34,7 +37,8 @@ export const terminalEnded = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A shell that could not leave a record ends as it would have ended anyway.",
++      statement:
++        "A shell that could not leave a record ends as that shell would have ended anyway.",
      },
      {
        invariantKind: "departure",
