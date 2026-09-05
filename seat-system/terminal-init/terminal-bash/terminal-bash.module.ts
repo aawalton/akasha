@@ -14,7 +14,8 @@ export const terminalBash = {
     },
     {
       invariantKind: "departure",
-      statement: "A name that was once an alias is unaliased before it is defined as a function.",
+      statement:
+        "A name that was once an alias is unaliased before that name is defined as a function.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +27,7 @@ export const terminalBash = {
     },
     {
       invariantKind: "departure",
-      statement: "Every launcher reloads the whole set before it dispatches.",
+      statement: "Every launcher reloads the whole set before that launcher dispatches.",
     },
     {
       invariantKind: "departure",
