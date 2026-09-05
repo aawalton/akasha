@@ -555,7 +555,6 @@
     "collection-system/royal-road": {
       "name": "@akasha/royal-road",
       "dependencies": {
-        "@akasha/markdown-pages": "workspace:*",
         "@akasha/story-engine-core": "workspace:*",
       },
     },
