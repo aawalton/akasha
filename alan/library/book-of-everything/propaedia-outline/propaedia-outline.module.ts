@@ -17,7 +17,7 @@ export const propaediaOutline = {
     },
     {
       invariantKind: "constraint",
-      statement: "This outline is the shape what is on disk is measured against.",
+      statement: "This outline is the shape the files on disk are measured against.",
     },
   ],
 } as const satisfies Module
