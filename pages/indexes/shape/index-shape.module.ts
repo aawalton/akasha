@@ -9,7 +9,7 @@ export const indexShape = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A shape here says what a read of the index is answered with.",
+      statement: "A shape here names the answer to a read of the index.",
     },
     {
       invariantKind: "departure",
