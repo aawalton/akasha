@@ -14,6 +14,22 @@ index 2cceaa0f74c9e24a2511c6cfa60070a97c09f8a5..3e8fcaef031681b049caa0cfc54137d9
      {
        invariantKind: "departure",
        statement: "A body carrying no Anthropic error envelope matches nothing.",
+diff --git a/agents/models/gateway/modules/permission-denied/permission-denied.module.ts b/agents/models/gateway/modules/permission-denied/permission-denied.module.ts
+index 7d0c56a08fbaa09a4a794796bad39169f2cd87b4..2be75682f548943b5f272449945b045c55630dcf 100644
+--- a/agents/models/gateway/modules/permission-denied/permission-denied.module.ts
++++ b/agents/models/gateway/modules/permission-denied/permission-denied.module.ts
+@@ -12,10 +12,7 @@ export const permissionDenied = {
+       invariantKind: "departure",
+       statement: "A status other than 403 matches nothing.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A body the JSON parser refuses matches nothing.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement: "A body carrying no Anthropic error envelope matches nothing.",
 diff --git a/context/warrants/role-page-type/role-page-type.context-warrant.ts b/context/warrants/role-page-type/role-page-type.context-warrant.ts
 index 20f35b9f310db67b85e016a92d0993948fd53cbd..110811a37e2043592f70fa184cbe83d47110435b 100644
 --- a/context/warrants/role-page-type/role-page-type.context-warrant.ts
