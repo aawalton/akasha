@@ -126,7 +126,8 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "Nothing is reported against it and a file still importing it is refused.",
+      statement:
+        "Nothing is reported against that path and a file still importing that path is refused.",
     },
     {
       invariantKind: "departure",
@@ -152,7 +153,8 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A way in is read from the manifest before the change and from the one after it.",
+      statement:
+        "A way in is read from the manifest before the change and from the one after that change.",
     },
     {
       invariantKind: "departure",
