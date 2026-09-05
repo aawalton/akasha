@@ -15,7 +15,12 @@ export const indexIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "The scope is what an identifier is unique within, a page type or a collection.",
+      statement:
+        "The scope is what an identifier is unique within, a page type or a page's parent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's parents are handed in rather than worked out from that page alone.",
     },
     {
       invariantKind: "departure",

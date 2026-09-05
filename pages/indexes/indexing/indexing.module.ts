@@ -110,5 +110,9 @@ export const indexing = {
       invariantKind: "gap",
       statement: "A page the index cannot read is reported rather than answered as empty.",
     },
+    {
+      invariantKind: "gap",
+      statement: "A rebuild and a settle hand in the pages naming each page they file.",
+    },
   ],
 } as const satisfies Module

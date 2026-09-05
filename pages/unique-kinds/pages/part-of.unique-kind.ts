@@ -4,19 +4,27 @@ export const partOf = {
   id: "01a06e67-b235-7f0c-bf4b-da0ea1868950",
   pageTypeSlug: "unique-kind",
   slug: "part-of",
-  definition: "the value is unique among the pages part of one collection",
+  definition: "the value is unique among the pages one page is made of",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page part of more than one collection is filed under each of them.",
+      statement: "A page is part of what names it under `part-slugs`.",
     },
     {
       invariantKind: "departure",
-      statement: "The scope a page is filed under is the slug of the collection it is part of.",
+      statement: "A collection is part of what it names under `part-of-slugs`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page part of more than one page is filed under each of them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The scope a page is filed under is the slug of the page it is part of.",
     },
     {
       invariantKind: "absence",
-      statement: "A page part of no collection is filed under no scope of this reach.",
+      statement: "A page part of nothing is filed under no scope of this reach.",
     },
   ],
 } as const satisfies UniqueKind

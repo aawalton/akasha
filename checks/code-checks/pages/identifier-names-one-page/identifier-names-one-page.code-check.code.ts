@@ -1,4 +1,4 @@
-import { filedIn } from "@akasha/indexes/identity"
+import { filedIn, type PartOf, partingOver } from "@akasha/indexes/identity"
 import type { Change } from "@akasha/pages-system/change"
 import { type Identifying, identifyingFrom } from "@akasha/pages-system/page-type-properties"
 import type { Shadow } from "@akasha/pages-system/shadow"
@@ -13,9 +13,13 @@ export type Stated = {
   readonly said: string
 }
 
-export function statedBy(carried: readonly Carried[], identifying: Identifying): readonly Stated[] {
+export function statedBy(
+  carried: readonly Carried[],
+  identifying: Identifying,
+  partOf: PartOf
+): readonly Stated[] {
   return carried.flatMap((one) =>
-    filedIn(one.value, identifying).map((held) => ({
+    filedIn(one.value, identifying, null, partOf).map((held) => ({
       path: one.path,
       scope: held.scope,
       propertySlug: held.propertySlug,
@@ -48,7 +52,12 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   if (carried.length === 0) return []
   const said: Judged[] = []
   const identifying = identifyingFrom(shadow.index.sourceIn())
-  for (const held of statedByKey(statedBy(carried, identifying)).values()) {
+  const parting = partingOver(
+    (id) => shadow.index.namersOf(id),
+    carried.map((one) => one.value),
+    new Set(carried.map((one) => one.path))
+  )
+  for (const held of statedByKey(statedBy(carried, identifying, parting)).values()) {
     const one = held[0]
     if (one === undefined) continue
     const listed = shadow.index.listedNamed(one.scope, one.propertySlug, one.said)
