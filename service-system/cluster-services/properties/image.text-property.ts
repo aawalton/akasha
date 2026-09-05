@@ -18,7 +18,7 @@ export const image = {
     {
       invariantKind: "departure",
       statement:
-        "A workload running more than one container states the image of the one it is for.",
+        "A workload running more than one container states the image of the one that workload is for.",
     },
   ],
 } as const satisfies TextProperty
