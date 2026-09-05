@@ -959,3 +959,11 @@ index 686ad376d6d37eea61ad67ba915b664f035007af..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-eso-types
 \ No newline at end of file
+diff --git a/temper/temper-eso-typings/temper-eso-typings b/temper/temper-eso-typings/temper-eso-typings
+deleted file mode 120000
+index 6de332bea7b24d4647331edb620c964c65b84ee3..0000000000000000000000000000000000000000
+--- a/temper/temper-eso-typings/temper-eso-typings
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-eso-typings
+\ No newline at end of file
