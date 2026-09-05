@@ -12,10 +12,7 @@ export const watcherLogging = {
       invariantKind: "departure",
       statement: "A line opens with the time in UTC to the millisecond.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The level follows the time.",
-    },
+
     {
       invariantKind: "departure",
       statement: "The message follows the level.",
