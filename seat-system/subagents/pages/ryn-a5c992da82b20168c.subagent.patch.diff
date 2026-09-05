@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts b/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
+index 6aca23fe20e6ce1d017d64b7f7ad6e733d55fe11..573c2ce979f03e87908a57fb201927f5b4db3887 100644
+--- a/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
++++ b/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
+@@ -10,7 +10,7 @@ export const imessageCommandReading = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "What a command takes is handed in rather than spelled here.",
++      statement: "The flags and words a command takes are handed in rather than spelled here.",
+     },
+     {
+       invariantKind: "departure",
