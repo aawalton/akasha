@@ -1,13 +1,19 @@
 diff --git a/editor-extension/panel-reading/panel-reading.module.ts b/editor-extension/panel-reading/panel-reading.module.ts
-index b71aa7fd0e81c03782421670beb70cac15b2288b..a1902588f5c027a3052d6d72303b16a9096099fe 100644
+index b71aa7fd0e81c03782421670beb70cac15b2288b..994a94eda1dddc4c061a590263686ffa26212e84 100644
 --- a/editor-extension/panel-reading/panel-reading.module.ts
 +++ b/editor-extension/panel-reading/panel-reading.module.ts
-@@ -10,7 +10,7 @@ export const panelReading = {
+@@ -10,12 +10,12 @@ export const panelReading = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "What is activated is the extension rather than a model of it.",
 +      statement: "What is activated is the extension rather than a model of that extension.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "The entry is bundled for node and its `activate` is called the way the host calls it.",
++        "The entry is bundled for node and its `activate` is called the way the host calls that `activate`.",
      },
      {
        invariantKind: "departure",
