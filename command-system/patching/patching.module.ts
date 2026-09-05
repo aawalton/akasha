@@ -88,7 +88,7 @@ export const patching = {
     },
     {
       invariantKind: "departure",
-      statement: "A ref over a tree of the bodies a patch leaves is what keeps those blobs.",
+      statement: "A ref over a tree of the bodies a patch leaves keeps those blobs.",
     },
     {
       invariantKind: "departure",
