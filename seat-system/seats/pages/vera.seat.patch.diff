@@ -1,3 +1,26 @@
+diff --git a/commands/move/move.command.code.ts b/commands/move/move.command.code.ts
+index cc219cd646a065577721520aa1b1fab6bdea7680..9f3dfaeaded7d3a60113d614e568649daf862607 100644
+--- a/commands/move/move.command.code.ts
++++ b/commands/move/move.command.code.ts
+@@ -1,6 +1,7 @@
+ import { resolve } from "node:path"
+ import { typed } from "@akasha/code-system/code-typing"
+ import { everyPath } from "@akasha/indexes"
++import { machineWrittenAt } from "@akasha/indexes/property-carrying"
+ import { valuesOver } from "@akasha/pages-system/page-value"
+ import type { Asked } from "../../command-system/asking/asking.module.code.ts"
+ import { counted, landingAsked, textOf } from "../../command-system/asking/asking.module.code.ts"
+@@ -235,7 +236,9 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
+     changes.push({ path: one.path, body, carried: true })
+   }
+   const left = unrepointedIn(renamings, moved, () => everyPath(root), changes, bodyText)
+-  const outside = outsideIn(root, base, named, new Set(changes.map((one) => one.path)))
++  const outside = outsideIn(root, base, named, new Set(changes.map((one) => one.path)), (path) =>
++    machineWrittenAt(root, path)
++  )
+   if ("refusal" in outside) return answering([], [outside.refusal], 1)
+   changes.push(...outside.changes)
+   carries.push(...outside.carries)
 diff --git a/commands/move/outside/move-outside.module.code.ts b/commands/move/outside/move-outside.module.code.ts
 index 808a11f8bf9006e9d7a3e88d5adc708b21dbf6bf..5d0e9fd4b8c4e1ee501b2f4c575aff22e5dc34b5 100644
 --- a/commands/move/outside/move-outside.module.code.ts
