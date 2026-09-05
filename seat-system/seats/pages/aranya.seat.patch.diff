@@ -783,3 +783,11 @@ index 068203394209fe10c216c9bdeba77b19b490ac50..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-characters-equipment
 \ No newline at end of file
+diff --git a/temper/temper-characters-skills-morphs-addon/temper-characters-skills-morphs-addon b/temper/temper-characters-skills-morphs-addon/temper-characters-skills-morphs-addon
+deleted file mode 120000
+index a86fbd4cddbb579b758513e6c85ec18fe3e0f262..0000000000000000000000000000000000000000
+--- a/temper/temper-characters-skills-morphs-addon/temper-characters-skills-morphs-addon
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-characters-skills-morphs-addon
+\ No newline at end of file
