@@ -9,7 +9,7 @@ export const atomicWrite = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A write that throws leaves the path the write was asked for as the path stood.",
+      statement: "A write that throws leaves the path the write was asked for as the path was.",
     },
     {
       invariantKind: "departure",

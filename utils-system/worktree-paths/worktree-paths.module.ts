@@ -4,7 +4,7 @@ export const worktreePaths = {
   id: "01a05c67-00ae-7c2a-ab17-097fed36ffd6",
   pageTypeSlug: "module",
   slug: "worktree-paths",
-  definition: "the path a project's numbered worktree stands at, and the number read back off it",
+  definition: "the path a project's numbered worktree is at, and the number read back off it",
   code: "ts",
   invariants: [
     {

@@ -14,7 +14,7 @@ export const memoryGuard = {
     {
       invariantKind: "departure",
       statement:
-        "A least read from the environment stands only where it parses to a positive number.",
+        "A least read from the environment is used only where it parses to a positive number.",
     },
     {
       invariantKind: "departure",
