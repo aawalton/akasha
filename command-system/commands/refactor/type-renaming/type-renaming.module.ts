@@ -36,7 +36,7 @@ export const typeRenaming = {
     {
       invariantKind: "departure",
       statement:
-        "What a page states is found through the syntax of its file rather than by matching text.",
+        "The values a page states are found through the syntax of its file rather than by matching text.",
     },
     {
       invariantKind: "departure",
