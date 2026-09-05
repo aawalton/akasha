@@ -1,0 +1,13 @@
+diff --git a/editor-extension/terminal-sync/terminal-sync.module.ts b/editor-extension/terminal-sync/terminal-sync.module.ts
+index 43df2537d3c094151e9a2d0e4b5354281410cdf1..dc5cbb0216cf74f2eebac0d15ea3b88c9c9d0035 100644
+--- a/editor-extension/terminal-sync/terminal-sync.module.ts
++++ b/editor-extension/terminal-sync/terminal-sync.module.ts
+@@ -9,7 +9,7 @@ export const terminalSync = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A terminal reporting no process is left as it is.",
++      statement: "A terminal reporting no process is left as that terminal is.",
+     },
+     {
+       invariantKind: "departure",
