@@ -14,11 +14,13 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "The pages of that page type and of every page type extending it are answered.",
+      statement:
+        "The pages of that page type and of every page type extending that page type are answered.",
     },
     {
       invariantKind: "departure",
-      statement: "A page type extending it is reached however far below it that page type is.",
+      statement:
+        "However far below the named page type a page type extends, that page type is reached.",
     },
     {
       invariantKind: "departure",
@@ -66,7 +68,8 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "The keys a page type declares are its own and those of every page type above it.",
+      statement:
+        "The keys a page type declares are its own and those of every page type above that page type.",
     },
     {
       invariantKind: "departure",
@@ -191,7 +194,8 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A shape names every property the page type and those above it declare.",
+      statement:
+        "A shape names every property the page type and those above that page type declare.",
     },
     {
       invariantKind: "departure",
@@ -215,7 +219,8 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A shape states the owner the nearest page type above it names.",
+      statement:
+        "A shape states the owner the nearest page type above the shape's own page type names.",
     },
     {
       invariantKind: "absence",
