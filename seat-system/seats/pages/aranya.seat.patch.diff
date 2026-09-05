@@ -1567,3 +1567,11 @@ index 68f962bdffee1777e0462b5673d4fe2dd9fbbf39..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-skill-point-finder
 \ No newline at end of file
+diff --git a/temper/temper-skyshards/temper-skyshards b/temper/temper-skyshards/temper-skyshards
+deleted file mode 120000
+index c464c2c5a0b8621c0f4c15dd214131c219a06277..0000000000000000000000000000000000000000
+--- a/temper/temper-skyshards/temper-skyshards
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-skyshards
+\ No newline at end of file
