@@ -2,10 +2,11 @@ import { expect, test } from "bun:test"
 import { manifest } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
 import {
   bodyRespeltIn,
+  folderOf,
+  manifestAt,
   manifestRespeltIn,
   namedAs,
   packageRespelt,
-  packageSaying,
   packagingFor,
   renamingOver,
   respeltIn,
@@ -136,8 +137,6 @@ test("a rename touching nothing rewrites nothing", () => {
   expect(renamingOver(one, ["akasha/y/y.ts"], () => "export const two = 2\n").size).toBe(0)
 })
 
-const PACKAGING = { was: WAS, now: NOW, at: AT, folder: "akasha/held" }
-
 test("an import outside the akasha folder naming the package is respelled", () => {
   const text = `import { one } from "${WAS}/one"\n`
   expect(packageRespelt(text, WAS, NOW)).toBe(`import { one } from "${NOW}/one"\n`)
@@ -168,19 +167,20 @@ test("the folder a lockfile files a workspace under is left alone", () => {
   )
 })
 
-test("an answer says how many files the index does not carry were respelled", () => {
-  const said = packageSaying(PACKAGING, new Map(), ["tools/lib/held.ts"], true)
-  expect(said.join("\n")).toContain(
-    "1 file naming the package the index does not carry would be respelled"
-  )
+test("a manifest is told by the name that file carries wherever the file sits", () => {
+  expect(manifestAt("package.json")).toBe(true)
+  expect(manifestAt(AT)).toBe(true)
 })
 
-test("an answer naming no further file says so", () => {
-  const said = packageSaying(PACKAGING, new Map(), [], false)
-  expect(said).toContain("no further file named the package")
+test("a file named anything else is no manifest", () => {
+  expect(manifestAt("akasha/held/other.json")).toBe(false)
+  expect(manifestAt("akasha/held/my-package.json")).toBe(false)
 })
 
-test("an answer says the files outside the akasha folder were looked for", () => {
-  const said = packageSaying(PACKAGING, new Map(), [], true)
-  expect(said.join("\n")).toContain("found by searching what git tracks")
+test("the folder a manifest speaks for is the folder that manifest sits in", () => {
+  expect(folderOf(AT)).toBe("akasha/held")
+})
+
+test("the manifest at the top speaks for the whole checkout", () => {
+  expect(folderOf("package.json")).toBe("")
 })
