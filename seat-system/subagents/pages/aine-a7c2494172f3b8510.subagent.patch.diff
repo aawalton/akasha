@@ -1,8 +1,8 @@
 diff --git a/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.test.ts b/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.test.ts
-index e6956c5141c32b23af0f77a8bcef7267a243d217..6074fdb389568f90348f826eb915c739e89cd388 100644
+index e6956c5141c32b23af0f77a8bcef7267a243d217..b029f28728bf6117816c9ff28253fd706c5f441a 100644
 --- a/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.test.ts
 +++ b/markdown-pages/markdown-shape-mark/markdown-shape-mark.module.test.ts
-@@ -122,7 +122,7 @@ test("skew outlives a status and an index refresh", () => {
+@@ -122,12 +122,12 @@ test("skew outlives a status and an index refresh", () => {
    }
  })
  
@@ -11,3 +11,9 @@ index e6956c5141c32b23af0f77a8bcef7267a243d217..6074fdb389568f90348f826eb915c739
  // the commit's own content, so a mark could in principle be worked out for it — but `git diff`
  // walks the index and answers for that path as a deletion, so this refuses it rather than reading
  // past what git will say. The cost is the recompute that was always paid here; the alternative was
+ // a second kind of reasoning about a rarer state, which is where a wrong answer would come from.
+-test("a path staged as deleted whose file still stands is refused", () => {
++test("a path staged as deleted whose file is still there is refused", () => {
+   const root = madeCheckout()
+   try {
+     execFileSync("git", ["update-index", "--force-remove", "--", "page/a.ts"], {
