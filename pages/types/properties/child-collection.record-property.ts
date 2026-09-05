@@ -24,11 +24,13 @@ export const childCollection = {
     },
     {
       invariantKind: "departure",
-      statement: "The gathered page names the page gathering it rather than the other way about.",
+      statement:
+        "The gathered page names the page gathering that gathered page rather than the other way about.",
     },
     {
       invariantKind: "stopgap",
-      statement: "Each key here repeats this record's name because the reader outside names it so.",
+      statement:
+        "Each key here repeats this record's name because the reader outside names that key so.",
     },
   ],
 } as const satisfies RecordProperty
