@@ -51,12 +51,12 @@ export const exerciseCommands = {
     {
       invariantKind: "gap",
       statement:
-        "Two modules read the words a call was handed, and one of them is to absorb the other.",
+        "Two modules read the words a call was handed, and one of those modules is to absorb the other.",
     },
     {
       invariantKind: "gap",
       statement:
-        "The pre-session digest is not carried yet, so what it read is reached one command at a time.",
+        "The pre-session digest is not carried yet, so what the digest read is reached one command at a time.",
     },
   ],
 } as const satisfies WorkspacePackage
