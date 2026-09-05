@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.ts b/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.ts
+index dbc0fa792839c7490648bd9aae419667ecec28c7..976be9a83cdaf64f1f3b83e2a328926309b29797 100644
+--- a/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.ts
++++ b/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.ts
+@@ -32,7 +32,8 @@ export const terminalEntryPoints = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The akasha command is spelled here as what a terminal reaches a command through.",
++      statement:
++        "The akasha command is spelled here as the path a terminal reaches a command through.",
+     },
+     {
+       invariantKind: "absence",
