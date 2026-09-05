@@ -647,3 +647,11 @@ index 14fb1ae730305d968225c81e86aff78a8b42c29d..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../web-page-answers
 \ No newline at end of file
+diff --git a/web-security-headers/web-security-headers b/web-security-headers/web-security-headers
+deleted file mode 120000
+index 290b9c4173f90f66cf2f6961f72b44da54e95f0d..0000000000000000000000000000000000000000
+--- a/web-security-headers/web-security-headers
++++ /dev/null
+@@ -1 +0,0 @@
+-../../web-security-headers
+\ No newline at end of file
