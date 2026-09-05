@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/indexes/rebuilding/rebuilding.module.ts b/pages/indexes/rebuilding/rebuilding.module.ts
+index 8caef750d0be476d6ce783aa1a31bf2689d8f442..a52d846a0106ce03b4cc1d172cbee493e4835d70 100644
+--- a/pages/indexes/rebuilding/rebuilding.module.ts
++++ b/pages/indexes/rebuilding/rebuilding.module.ts
+@@ -22,7 +22,8 @@ export const rebuilding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The index being replaced is moved aside before the new one is renamed over it.",
++      statement:
++        "The index being replaced is moved aside before the new one is renamed over that index.",
+     },
+     {
+       invariantKind: "departure",
