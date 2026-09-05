@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/inboxes/inbox-tracking-polling/inbox-tracking-polling.module.ts b/alan/harness/inboxes/inbox-tracking-polling/inbox-tracking-polling.module.ts
+index d6f37889d2f4e3a5b081354c1accca7feae36f21..3b2aaa27a6d875239e17fa4a51605e2d6007c63b 100644
+--- a/alan/harness/inboxes/inbox-tracking-polling/inbox-tracking-polling.module.ts
++++ b/alan/harness/inboxes/inbox-tracking-polling/inbox-tracking-polling.module.ts
+@@ -27,7 +27,7 @@ export const inboxTrackingPolling = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The email count is kept on the wake day only where it is lower than the count already there.",
++        "The email count is kept on the wake day only where that count is lower than the count already there.",
+     },
+     {
+       invariantKind: "departure",
