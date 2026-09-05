@@ -1,0 +1,13 @@
+diff --git a/person-system/people/email/email-rules/properties/email-rule-match-comparison.select-property.ts b/person-system/people/email/email-rules/properties/email-rule-match-comparison.select-property.ts
+index 14cd8bd019fd4c3b1b16b8111e362a0ee97c4c4b..3a29b450d330cc3e273b447103d63ac655a34ab4 100644
+--- a/person-system/people/email/email-rules/properties/email-rule-match-comparison.select-property.ts
++++ b/person-system/people/email/email-rules/properties/email-rule-match-comparison.select-property.ts
+@@ -19,7 +19,7 @@ export const emailRuleMatchComparison = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A clause holding several values passes where any one of them matches.",
++      statement: "A clause holding several values passes where any one of those values matches.",
+     },
+     {
+       invariantKind: "departure",
