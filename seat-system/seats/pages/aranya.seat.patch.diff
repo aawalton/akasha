@@ -223,3 +223,11 @@ index ae40b0b97d09a11e5d210b52e53a770f2a222802..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../git-transport
 \ No newline at end of file
+diff --git a/git/git b/git/git
+deleted file mode 120000
+index 790d51f9f52bcaf892888f89348316679e20f277..0000000000000000000000000000000000000000
+--- a/git/git
++++ /dev/null
+@@ -1 +0,0 @@
+-../../git
+\ No newline at end of file
