@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/outside-naming/outside-naming.module.ts b/command-system/outside-naming/outside-naming.module.ts
+index 356869948a36e071c3313ffc43d30ab91bb53085..391ed52117f38a49a544049c9850f3a6f5b53325 100644
+--- a/command-system/outside-naming/outside-naming.module.ts
++++ b/command-system/outside-naming/outside-naming.module.ts
+@@ -26,7 +26,7 @@ export const outsideNaming = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What every call found is answered as one answer with each path said once.",
++      statement: "The paths every call found are answered as one answer with each path said once.",
+     },
+     {
+       invariantKind: "departure",
