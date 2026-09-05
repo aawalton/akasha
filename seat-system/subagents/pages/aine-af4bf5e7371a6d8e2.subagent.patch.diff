@@ -12,7 +12,7 @@ index 3925580b249947a6eb2db6c703e3c495bae31373..ca94aecf34bc59a362669b46cfcbea14
    expect(slugStated(root, "akasha/seat-system/seat/seats/gone.seat.ts", "personaSlug")).toBe(null)
  })
 diff --git a/context/modules/warranting/warranting.module.test.ts b/context/modules/warranting/warranting.module.test.ts
-index 4d77deebe61eca7343c8aa8986ec61ed8d22bd94..4f7aac0faaa12ed5cda1b12d42db4ff6a9b52fa2 100644
+index 4d77deebe61eca7343c8aa8986ec61ed8d22bd94..e99f4b61d4a3cf21a9d2b0c9edb8ceeb063c9d92 100644
 --- a/context/modules/warranting/warranting.module.test.ts
 +++ b/context/modules/warranting/warranting.module.test.ts
 @@ -106,7 +106,7 @@ test("a path the record holds no reading of is refused", () => {
@@ -42,8 +42,17 @@ index 4d77deebe61eca7343c8aa8986ec61ed8d22bd94..4f7aac0faaa12ed5cda1b12d42db4ff6
    const root = rootWith()
    expect(unreadIn(root, null, ["akasha/thing/new.module.ts"])).toEqual([NO_AGENT])
  })
+@@ -291,7 +291,7 @@ test("a root carrying no warrant hands back the paths handed in", () => {
+   expect(warrantedIn(root, [A, B])).toEqual([A, B])
+ })
+ 
+-test("the page a seat owes from is the one standing at its id", () => {
++test("the page a seat owes from sits at its id", () => {
+   const root = rootWith()
+   pageFiled(root, AGENT, SEAT_AT)
+   expect(seatPathOf(root, AGENT)).toBe(SEAT_AT)
 diff --git a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test.ts b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test.ts
-index 3a2f10c6b1c60f0429d00306a47297b66a76f7bf..6127999b5feb1c70bb348d1f5f297e4e75438bc8 100644
+index 3a2f10c6b1c60f0429d00306a47297b66a76f7bf..ed7abd8cabe148d76a579ad766dd95e1905b26d0 100644
 --- a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test.ts
 +++ b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test.ts
 @@ -14,11 +14,11 @@ test("what a change adds is the lines the body did not already hold", () => {
@@ -69,3 +78,12 @@ index 3a2f10c6b1c60f0429d00306a47297b66a76f7bf..6127999b5feb1c70bb348d1f5f297e4e
    expect(addedIn("one", "one\none")).toBe("one")
  })
  
+@@ -112,7 +112,7 @@ test("a pattern that does not compile is reached neither way", () => {
+   expect(reachOf("(unclosed", "anything at all")).toBe(null)
+ })
+ 
+-test("what is owed names every sense and what stands instead", () => {
++test("what is owed names every sense and what is written instead", () => {
+   const said = owedOf(
+     [
+       { sense: "a gated command", instead: "command" },
