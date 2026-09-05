@@ -1,0 +1,14 @@
+diff --git a/alan/music/choosing/music-exploration/music-exploration.module.ts b/alan/music/choosing/music-exploration/music-exploration.module.ts
+index c287b0793b03d740654b1658351535dabdf2ceb9..c0d82f1aca04cbf664787636e96d10dd46507d59 100644
+--- a/alan/music/choosing/music-exploration/music-exploration.module.ts
++++ b/alan/music/choosing/music-exploration/music-exploration.module.ts
+@@ -38,7 +38,8 @@ export const musicExploration = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An artist is new where no grade rests on them or on any song of theirs.",
++      statement:
++        "An artist is new where no grade rests on that artist or on any song of that artist.",
+     },
+     {
+       invariantKind: "departure",
