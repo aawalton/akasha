@@ -40,11 +40,21 @@ const MECHANICAL = "Checks-bypassed: a `change-mechanical` change runs no check"
 
 const WENT = { went: true } as const
 
+const IMPORTED_AT = `${TREE}/held.ts`
+
+const IMPORTED_BODY = "export const held = 1\n"
+
+const IMPORTING_AT = `${TREE}/holding.ts`
+
+const IMPORTING_BODY = 'import { held } from "./held.ts"\n\nexport const holding = held\n'
+
 function seated(root: string): string {
   gitIn(root, ["init", "--quiet"])
   gitIn(root, ["config", "user.email", "held@nowhere"])
   gitIn(root, ["config", "user.name", "Held"])
   for (const [path, body] of Object.entries(declaringUnder(TREE))) writing(root, path, body)
+  writing(root, IMPORTED_AT, IMPORTED_BODY)
+  writing(root, IMPORTING_AT, IMPORTING_BODY)
   writing(root, SEAT_AT, SEAT_BODY)
   gitIn(root, ["add", "-A"])
   gitIn(root, ["commit", "--quiet", "-m", "first"])

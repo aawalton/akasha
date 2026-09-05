@@ -121,11 +121,21 @@ const HELD_AT = "held/what-the-seat-held.txt"
 
 const HELD_BODY = "what the seat held\n"
 
+const IMPORTED_AT = `${TREE}/held.ts`
+
+const IMPORTED_BODY = "export const held = 1\n"
+
+const IMPORTING_AT = `${TREE}/holding.ts`
+
+const IMPORTING_BODY = 'import { held } from "./held.ts"\n\nexport const holding = held\n'
+
 function seatedRoot(root: string): string {
   gitIn(root, ["init", "--quiet"])
   gitIn(root, ["config", "user.email", "held@nowhere"])
   gitIn(root, ["config", "user.name", "Held"])
   for (const [path, body] of Object.entries(declaringUnder(TREE))) writing(root, path, body)
+  writing(root, IMPORTED_AT, IMPORTED_BODY)
+  writing(root, IMPORTING_AT, IMPORTING_BODY)
   writing(root, HELD_AT, HELD_BODY)
   gitIn(root, ["add", "-A"])
   gitIn(root, ["commit", "--quiet", "-m", "first"])

@@ -1,5 +1,8 @@
 import { describe, expect, test } from "bun:test"
 import type { Given } from "@akasha/command-system/calling"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { writing } from "@akasha/command-system/scratching/testing"
+import { listedFiled, pageFiled } from "@akasha/indexes/testing"
 import { readIn, shellInitBash } from "./shell-init-bash.command.code.ts"
 
 const given: Given = {
@@ -63,11 +66,32 @@ describe("the set composed", () => {
   })
 })
 
+const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
+
+const ACCOUNT_TYPE_AT = "akasha/agents/claude-accounts/claude-account.page-type.ts"
+
+const ACCOUNT_TYPE_BODY =
+  `export const claudeAccount = { id: "${ACCOUNT_TYPE}", pageTypeSlug: "page-type", ` +
+  `slug: "claude-account", pluralSlug: "claude-accounts", extendsSlug: [] } as const\n`
+
+function accountlessRoot(root: string): string {
+  writing(root, ACCOUNT_TYPE_AT, ACCOUNT_TYPE_BODY)
+  pageFiled(root, ACCOUNT_TYPE, ACCOUNT_TYPE_AT)
+  listedFiled(root, "page-type", "claude-account", [{ path: ACCOUNT_TYPE_AT, id: ACCOUNT_TYPE }])
+  return root
+}
+
 describe("a root holding no account page", () => {
   test("is a data refusal rather than a set with no launcher", () => {
-    const answer = shellInitBash([], { ...given, root: "/var/tmp" })
-    expect(answer.code).toBe(2)
-    expect(answer.report).toEqual([])
-    expect(answer.refusals[0]).toContain("no claude account page was read")
+    const world = scratchWorld()
+    try {
+      const root = accountlessRoot(world.rootFor("shell-init-bash-"))
+      const answer = shellInitBash([], { ...given, root })
+      expect(answer.code).toBe(2)
+      expect(answer.report).toEqual([])
+      expect(answer.refusals[0]).toContain("no claude account page was read")
+    } finally {
+      world.sweep()
+    }
   })
 })
