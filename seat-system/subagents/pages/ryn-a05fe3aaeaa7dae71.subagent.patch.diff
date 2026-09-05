@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/agents/models/gateway/modules/proxy-run/proxy-run.module.ts b/agents/models/gateway/modules/proxy-run/proxy-run.module.ts
+index 74da0b403cdd471db0bc9761d2e11e60463aa634..a54a76bbd701970be24d6e703b45ed52cddeb327 100644
+--- a/agents/models/gateway/modules/proxy-run/proxy-run.module.ts
++++ b/agents/models/gateway/modules/proxy-run/proxy-run.module.ts
+@@ -22,7 +22,8 @@ export const proxyRun = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A gateway not asked to be kept is stopped once it has printed its port.",
++      statement:
++        "A gateway not asked to be kept is stopped once that gateway has printed its port.",
+     },
+     {
+       invariantKind: "departure",
