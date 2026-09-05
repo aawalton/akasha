@@ -1,0 +1,20 @@
+diff --git a/command-system/applying/applying.module.test.ts b/command-system/applying/applying.module.test.ts
+index a4cd4826c20c8cd8d6d399c92acaf04787548dbc..c94e1935ec09627fce1b4957029da55f18b874cc 100644
+--- a/command-system/applying/applying.module.test.ts
++++ b/command-system/applying/applying.module.test.ts
+@@ -3,6 +3,7 @@ import { existsSync, readFileSync, writeFileSync } from "node:fs"
+ import { join } from "node:path"
+ import { patchAt, patchIn } from "@akasha/agents/patch-keeping"
+ import { said as gitSaid } from "@akasha/git/git-running"
++import { noImportersFiled } from "@akasha/indexes/testing"
+ import { CLASH_MARK } from "../body-merging/body-merging.module.code.ts"
+ import { drafted, runningIn } from "../drafting/drafting.module.code.ts"
+ import { landing } from "../landing/landing.module.code.ts"
+@@ -31,6 +32,7 @@ afterAll(() => {
+ async function indexed(): Promise<string> {
+   const root = repoWith({ "seed.txt": "held" })
+   await landing(root, CARRIED, "held", ADMITS)
++  noImportersFiled(root)
+   await landing(root, [{ path: PAGE, body: bytes(A) }], "held", ADMITS)
+   return root
+ }
