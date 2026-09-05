@@ -1,0 +1,14 @@
+diff --git a/command-system/piping/piping.module.ts b/command-system/piping/piping.module.ts
+index d3acd6b118a3d76b0d4335b5d33e68d5b8da24e7..14ff079fd456d39c868c08d4433d14a69220002d 100644
+--- a/command-system/piping/piping.module.ts
++++ b/command-system/piping/piping.module.ts
+@@ -83,7 +83,8 @@ export const piping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A marker carrying `mid-line` ends the passage before it without that newline.",
++      statement:
++        "A marker carrying `mid-line` ends the passage before that marker without that newline.",
+     },
+     {
+       invariantKind: "departure",
