@@ -1,5 +1,5 @@
 diff --git a/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts b/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts
-index c0316ff98eb29c5838fd022bbdd416251c7f3651..db759844c4bfe1ef738cbd09cf896b603b2f356b 100644
+index c0316ff98eb29c5838fd022bbdd416251c7f3651..85196a34a273248917c520bc376923a5472d842c 100644
 --- a/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts
 +++ b/collection-system/royal-road/royal-road-syncing/royal-road-syncing.module.ts
 @@ -29,7 +29,7 @@ export const royalRoadSyncing = {
@@ -17,6 +17,15 @@ index c0316ff98eb29c5838fd022bbdd416251c7f3651..db759844c4bfe1ef738cbd09cf896b60
        statement:
 -        "A name is cut back further where it would otherwise run past the hundred characters a slug holds.",
 +        "A name is cut back further where that name would otherwise run past a slug's hundred characters.",
+     },
+     {
+       invariantKind: "departure",
+@@ -49,7 +49,7 @@ export const royalRoadSyncing = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A chapter names the story it is part of by page type and slug rather than by slug alone.",
++        "A chapter names the story that chapter is part of by page type and slug rather than by slug alone.",
      },
      {
        invariantKind: "departure",
