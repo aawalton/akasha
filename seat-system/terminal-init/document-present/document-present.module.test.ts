@@ -8,7 +8,7 @@ import {
   shapeOf,
   shapesStanding,
   standsShell,
-} from "./document-standing.module.code.ts"
+} from "./document-present.module.code.ts"
 
 describe("a shape", () => {
   test("is the path of a page that is there with its slug blanked out", () => {

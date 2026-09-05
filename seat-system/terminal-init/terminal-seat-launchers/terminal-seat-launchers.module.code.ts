@@ -11,7 +11,7 @@ import {
   personaDocumentGateLines,
   personaDocumentStandsShell,
   personDocumentStandsShell,
-} from "../document-standing/document-standing.module.code.ts"
+} from "../document-present/document-present.module.code.ts"
 import {
   AKASHA,
   PROXY,

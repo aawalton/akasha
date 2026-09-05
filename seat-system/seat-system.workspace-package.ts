@@ -314,7 +314,7 @@ export const seatSystem = {
     "module/supervisor-uncertain-wait-decide",
     "module/supervisor-wait-resume-decide",
     "module/tick-deadline",
-    "module/document-standing",
+    "module/document-present",
     "module/terminal-account-launchers",
     "module/terminal-bash",
     "module/terminal-ended",
