@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/voice-core/estimate-marks/estimate-marks.module.ts b/voice-core/estimate-marks/estimate-marks.module.ts
+index a1797cca82b492aee78705813e1ff22c79aec6e3..d7508446ef32f9af070fd42245005b69fae45ec8 100644
+--- a/voice-core/estimate-marks/estimate-marks.module.ts
++++ b/voice-core/estimate-marks/estimate-marks.module.ts
+@@ -14,7 +14,8 @@ export const estimateMarks = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A sentence is taken to run at an even rate across the piece holding it.",
++      statement:
++        "A sentence is taken to run at an even rate across the piece holding that sentence.",
+     },
+     {
+       invariantKind: "departure",
