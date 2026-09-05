@@ -55,14 +55,14 @@ export function rootWith(
     readonly raw?: string
     readonly body: string
   }[],
-  stands: PageType = CHECK_PAGE_TYPE
+  filedUnder: PageType = CHECK_PAGE_TYPE
 ): string {
   const root = scratch.rootFor("akasha-checking-")
-  noneOfTypeFiled(root, stands.slug)
-  idFiled(root, CHECK_TYPE, [{ path: stands.at, id: CHECK_TYPE }])
+  noneOfTypeFiled(root, filedUnder.slug)
+  idFiled(root, CHECK_TYPE, [{ path: filedUnder.at, id: CHECK_TYPE }])
   let minted = 0
   for (const one of named) {
-    const at = `akasha/checks-system/code-check/${one.slug}/${one.slug}.${stands.slug}.ts`
+    const at = `akasha/checks-system/code-check/${one.slug}/${one.slug}.${filedUnder.slug}.ts`
     mkdirSync(join(root, at.slice(0, at.lastIndexOf("/"))), { recursive: true })
     writeFileSync(
       join(root, at),
@@ -80,7 +80,7 @@ export function rootWith(
     minted = minted + 1
     const id = `01a04bc4-0000-7000-8000-00000000000${minted}`
     const held = [{ path: at, id }]
-    listedFiled(root, stands.slug, one.slug, held)
+    listedFiled(root, filedUnder.slug, one.slug, held)
     idFiled(root, id, held)
     pathFiled(root, at, held)
     pathFiled(root, `${at.slice(0, -".ts".length)}.code.ts`, held)
