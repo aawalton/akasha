@@ -1,5 +1,5 @@
 diff --git a/commands/replace/replace.command.ts b/commands/replace/replace.command.ts
-index 369e73e237075cafd82dd9163639d075ab6ca422..5acab09a3d2a4ec39771094b32f050d675a158e5 100644
+index 369e73e237075cafd82dd9163639d075ab6ca422..d08a5f30f511fddeeef8f2b8ed425f3988bcb0b0 100644
 --- a/commands/replace/replace.command.ts
 +++ b/commands/replace/replace.command.ts
 @@ -46,7 +46,7 @@ export const replace = {
@@ -20,3 +20,12 @@ index 369e73e237075cafd82dd9163639d075ab6ca422..5acab09a3d2a4ec39771094b32f050d6
      },
      {
        invariantKind: "departure",
+@@ -115,7 +115,7 @@ export const replace = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A caller learns which files hold a passage before changing any of them.",
++      statement: "A caller learns which files hold a passage before changing any of those files.",
+     },
+   ],
+ } as const satisfies Command
