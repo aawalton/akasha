@@ -1,3 +1,15 @@
+diff --git a/seat-system/seat-system.workspace-package.ts b/seat-system/seat-system.workspace-package.ts
+index 5a35cc369ba00e8df167db9939500fb3d43aed00..8874e257a9d9fe73a70240529142aa867f92a324 100644
+--- a/seat-system/seat-system.workspace-package.ts
++++ b/seat-system/seat-system.workspace-package.ts
+@@ -30,6 +30,7 @@ export const seatSystem = {
+     "module/subagent-guard",
+     "module/subagent-page",
+     "module/subagent-page-akasha",
++    "module/subagent-page-history",
+     "module/takeover-seat",
+     "module/transcript-materialize",
+     "module/agent-io-probe",
 diff --git a/seat-system/subagent-page-history/subagent-page-history.module.code.ts b/seat-system/subagent-page-history/subagent-page-history.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..4fcd673e423f6c0b2ed381a31138d6a0178f851a
