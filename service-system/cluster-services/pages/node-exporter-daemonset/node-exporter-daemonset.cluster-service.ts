@@ -10,6 +10,5 @@ export const nodeExporterDaemonset = {
   resourceName: "node-exporter",
   image: "prom/node-exporter:v1.8.2",
   containerPort: 9100,
-  manifestCode:
-    "service-system/cluster-services/pages/node-exporter-daemonset/node-exporter-daemonset.cluster-service.code.attachment.ts",
+  manifestSlug: "node-exporter-daemonset",
 } as const satisfies ClusterService
