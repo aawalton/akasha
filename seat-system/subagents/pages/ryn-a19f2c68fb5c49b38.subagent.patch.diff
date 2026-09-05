@@ -55,3 +55,29 @@ index d5caef3cd86c4bf2bfcd3b148fd175d6c0d8c30b..b0251a07e029bc022351840990adf6cf
      },
      {
        invariantKind: "departure",
+diff --git a/commands/zimage/zimage.command.ts b/commands/zimage/zimage.command.ts
+index e8f04013449d28d060719211f1fa61002b0f0c70..9a06218db99bb87d8293dfbe7df428092047199f 100644
+--- a/commands/zimage/zimage.command.ts
++++ b/commands/zimage/zimage.command.ts
+@@ -48,7 +48,7 @@ export const zimage = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The flags this takes are the flags mflux-generate takes.",
++      statement: "The flags this command takes are the flags mflux-generate takes.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/editor-extension/page-tree-reading/page-tree-reading.module.ts b/editor-extension/page-tree-reading/page-tree-reading.module.ts
+index de7727d60e971ea097ff796d69f17754231f1b9c..cfb6c12e1af7d53ea1c76985c103bdc7d16b5fa7 100644
+--- a/editor-extension/page-tree-reading/page-tree-reading.module.ts
++++ b/editor-extension/page-tree-reading/page-tree-reading.module.ts
+@@ -34,7 +34,7 @@ export const pageTreeReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row naming a checkout this does not hold opens no document.",
++      statement: "A row naming a checkout this module does not hold opens no document.",
+     },
+     {
+       invariantKind: "departure",
