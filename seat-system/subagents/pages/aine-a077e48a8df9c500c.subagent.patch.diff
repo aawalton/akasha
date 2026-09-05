@@ -38,7 +38,7 @@ index 1cb9557166829acbdb8979341b296eae0c88970c..833672d29f318feec2cfa176147dc330
        ],
        code: INPUT,
 diff --git a/infrastructure/infrastructure-commands/talos-kubeconfig/talos-kubeconfig.command.ts b/infrastructure/infrastructure-commands/talos-kubeconfig/talos-kubeconfig.command.ts
-index b3e4f714a8083c42302a6307473df5cd1ac04233..b09c1789d3aa48b9b9515305ab24028fd8c4df60 100644
+index b3e4f714a8083c42302a6307473df5cd1ac04233..ddd5198d9196cc31920db67c7238b7afd8b8b5e3 100644
 --- a/infrastructure/infrastructure-commands/talos-kubeconfig/talos-kubeconfig.command.ts
 +++ b/infrastructure/infrastructure-commands/talos-kubeconfig/talos-kubeconfig.command.ts
 @@ -27,7 +27,7 @@ export const talosKubeconfig = {
@@ -50,6 +50,15 @@ index b3e4f714a8083c42302a6307473df5cd1ac04233..b09c1789d3aa48b9b9515305ab24028f
      },
      {
        invariantKind: "departure",
+@@ -47,7 +47,7 @@ export const talosKubeconfig = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A kubeconfig standing at the destination is written over.",
++      statement: "A kubeconfig already at the destination is written over.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/infrastructure/infrastructure-commands/talos-secrets-gen/talos-secrets-gen.command.code.ts b/infrastructure/infrastructure-commands/talos-secrets-gen/talos-secrets-gen.command.code.ts
 index a9c7d4c9a1632ebb5df6dbc4b95c859012c81f9f..fe78b5b43f64903e0d399f85a0c0866180a82c4a 100644
 --- a/infrastructure/infrastructure-commands/talos-secrets-gen/talos-secrets-gen.command.code.ts
@@ -64,10 +73,10 @@ index a9c7d4c9a1632ebb5df6dbc4b95c859012c81f9f..fe78b5b43f64903e0d399f85a0c08661
        ],
        code: INPUT,
 diff --git a/infrastructure/infrastructure-commands/talos-secrets-gen/talos-secrets-gen.command.ts b/infrastructure/infrastructure-commands/talos-secrets-gen/talos-secrets-gen.command.ts
-index e43f374122033d37ad382862901103a23c008762..c5473bd467ef317faeb3235486cb586a6829fa66 100644
+index e43f374122033d37ad382862901103a23c008762..51488917157dff8e78a45badd9ac759aac060a0e 100644
 --- a/infrastructure/infrastructure-commands/talos-secrets-gen/talos-secrets-gen.command.ts
 +++ b/infrastructure/infrastructure-commands/talos-secrets-gen/talos-secrets-gen.command.ts
-@@ -9,7 +9,7 @@ export const talosSecretsGen = {
+@@ -9,13 +9,13 @@ export const talosSecretsGen = {
    changeKindSlug: "change-mechanical",
    taking: [
      { said: "--cluster <name>", takes: "the cluster to write for, `main` where none is said" },
@@ -76,3 +85,10 @@ index e43f374122033d37ad382862901103a23c008762..c5473bd467ef317faeb3235486cb586a
    ],
    helpNotes: [
      "the bundle is written to `machines/clusters/pages/<cluster>.cluster.sops.yaml`, beside that cluster's page.",
+     "this runs once per cluster, before the first apply, and every apply for that cluster reads what it wrote.",
+     "a rotation invalidates every node's PKI, so each node must be applied and bootstrapped again and etcd state is lost.",
+-    "talosctl and sops must stand on PATH, and the bundle is written encrypted rather than ever standing in the clear here.",
++    "talosctl and sops must be on PATH, and the bundle is written encrypted rather than ever being in the clear here.",
+   ],
+   invariants: [
+     {
