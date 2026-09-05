@@ -11,7 +11,7 @@ export const verifySignature = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What was signed is the timestamp and the raw body joined by a bar.",
+      statement: "The signed text is the timestamp and the raw body joined by a bar.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +32,7 @@ export const verifySignature = {
     },
     {
       invariantKind: "departure",
-      statement: "The base64 spelling of bytes is here for whoever needs that spelling.",
+      statement: "The base64 spelling of bytes is here for any caller that needs that spelling.",
     },
   ],
 } as const satisfies Module
