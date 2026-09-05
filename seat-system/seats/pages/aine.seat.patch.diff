@@ -1,0 +1,28 @@
+diff --git a/alan/library/reading/book-chapters/book-chapter.page-type.ts b/alan/library/reading/book-chapters/book-chapter.page-type.ts
+index 01cda8b9257e7c68de6bbf34c33c8071bf9a2c79..a6bb6c9ad74ffdec28f8a41adada6be5093eb7f7 100644
+--- a/alan/library/reading/book-chapters/book-chapter.page-type.ts
++++ b/alan/library/reading/book-chapters/book-chapter.page-type.ts
+@@ -17,6 +17,7 @@ export const bookChapter = {
+   extendsSlug: ["page-type/collection"],
+   partSlugs: ["file-property/chapter-text"],
+   properties: [
++    { pagePropertySlug: "slug", required: true, many: false, unique: "part-of" },
+     { pagePropertySlug: "title", required: true, many: false },
+     { pagePropertySlug: "chapter-text", required: true, many: false },
+   ],
+@@ -34,10 +35,14 @@ export const bookChapter = {
+       statement:
+         "A chapter sits under the folders the book's own structure puts the chapter under.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A chapter's name is unique within its book rather than across every book.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A chapter sharing a name with another is named for the folders telling those chapters apart.",
++        "A chapter sharing a name inside one book is named for the folders telling those apart.",
+     },
+     {
+       invariantKind: "departure",
