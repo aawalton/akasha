@@ -104,7 +104,7 @@ check("a test answers itself alone, whichever of the two it is written in", () =
   ])
 })
 
-check("a file that is no TypeScript file stands beside no test", () => {
+check("a file that is no TypeScript file sits beside no test", () => {
   expect(testsBesideOf("akasha/one/notes.md")).toEqual([])
   expect(testsBesideOf("akasha/one/held")).toEqual([])
 })
@@ -125,7 +125,7 @@ check("a run that printed no summary is read as a crash, whatever it exited", ()
   expect(verdictOf(1, "bun: command not found", 3)).toBe("crash")
 })
 
-check("a run reaching fewer files than stand under it is short, not a pass", () => {
+check("a run reaching fewer files than are under it is short, not a pass", () => {
   const output = " 1 pass\n 0 fail\nRan 1 tests across 1 files."
   expect(verdictOf(0, output, 4)).toBe("short")
   expect(verdictOf(0, output, 1)).toBe("pass")
@@ -164,12 +164,12 @@ check("one named path runs alone, and its neighbour does not", () => {
   expect(done.verdict).toBe("pass")
 })
 
-check("what a run spawns is marked as standing inside one", () => {
+check("what a run spawns is marked as inside one", () => {
   const root = repo({ "one.test.ts": MARKED })
   expect(ranOver(root, ["akasha"], 1).verdict).toBe("pass")
 })
 
-check("the mark a run carries is read back by whoever stands inside it", () => {
+check("the mark a run carries is read back by whoever is inside it", () => {
   expect(RUNNING).toBe("AKASHA_TESTS_RUNNING")
   const was = process.env[RUNNING]
   process.env[RUNNING] = "1"
@@ -181,7 +181,7 @@ check("the mark a run carries is read back by whoever stands inside it", () => {
 })
 
 check("a world is written out of the bodies handed in, not off the tree it is made from", () => {
-  const from = repo({ "one.ts": "what stands on disk\n" })
+  const from = repo({ "one.ts": "what is on disk\n" })
   const world = worldOf(
     from,
     ["akasha/one.ts"],
@@ -233,7 +233,7 @@ function installed(from: string, named: string, at: string | null): undefined {
   symlinkSync(join(from, at), to)
 }
 
-check("a package standing outside the tree is answered from the tree it was made from", () => {
+check("a package outside the tree is answered from the tree it was made from", () => {
   const from = repo({})
   installed(from, "third", null)
   const world = worldOf(from, [], handing({}), null)
@@ -246,7 +246,7 @@ check("a package standing outside the tree is answered from the tree it was made
   }
 })
 
-check("a package standing inside the tree is answered from the world holding it", () => {
+check("a package inside the tree is answered from the world holding it", () => {
   const from = repo({ "held/package.json": '{"name":"@akasha/held"}\n' })
   installed(from, "@akasha/held", "akasha/held")
   const named = ["akasha/held/package.json"]
@@ -259,7 +259,7 @@ check("a package standing inside the tree is answered from the world holding it"
   }
 })
 
-check("a package standing inside the tree the world does not hold is answered by nothing", () => {
+check("a package inside the tree the world does not hold is answered by nothing", () => {
   const from = repo({ "held/package.json": '{"name":"@akasha/held"}\n' })
   installed(from, "@akasha/held", "akasha/held")
   const world = worldOf(from, [], handing({}), null)
@@ -271,7 +271,7 @@ check("a package standing inside the tree the world does not hold is answered by
   }
 })
 
-check("a world carries the index as the change leaves it rather than as the tree stands", () => {
+check("a world carries the index as the change leaves it rather than as the tree is", () => {
   const from = repo({})
   linesFiled(from, "held.jsonl", [{}])
   linesFiled(from, "gone.jsonl", [{}])
@@ -288,7 +288,7 @@ check("a world carries the index as the change leaves it rather than as the tree
   }
 })
 
-check("a world asked for no index carries none rather than the one the tree stands at", () => {
+check("a world asked for no index carries none rather than the one the tree is at", () => {
   const from = repo({})
   linesFiled(from, "held.jsonl", [{}])
   const world = worldOf(from, [], handing({}), null)
@@ -300,7 +300,7 @@ check("a world asked for no index carries none rather than the one the tree stan
   }
 })
 
-check("a world made from a root holding none of that still stands", () => {
+check("a world made from a root holding none of that still exists", () => {
   const from = repo({})
   const world = worldOf(from, ["akasha/one.ts"], handing({ "akasha/one.ts": "held\n" }), [])
   try {
@@ -313,7 +313,7 @@ check("a world made from a root holding none of that still stands", () => {
   }
 })
 
-check("a world stands under /var/tmp and is gone once it is swept", () => {
+check("a world sits under /var/tmp and is gone once it is swept", () => {
   const world = worldOf(repo({}), [], handing({}), null)
   expect(world.root.startsWith(UNDER)).toBe(true)
   expect(existsSync(world.root)).toBe(true)

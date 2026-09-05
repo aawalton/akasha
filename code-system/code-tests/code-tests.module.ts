@@ -5,7 +5,7 @@ export const codeTests = {
   pageTypeSlug: "module",
   slug: "code-tests",
   definition:
-    "standing a change up as a tree of its own, running the tests in it, and reading what the run said",
+    "setting a change up as a tree of its own, running the tests in it, and reading what the run said",
   code: "ts",
   test: "ts",
   invariants: [
@@ -88,7 +88,7 @@ export const codeTests = {
     {
       invariantKind: "departure",
       statement:
-        "A run reaching fewer files than stand under what was named is short rather than a pass.",
+        "A run reaching fewer files than are under what was named is short rather than a pass.",
     },
     {
       invariantKind: "departure",
@@ -97,7 +97,7 @@ export const codeTests = {
     {
       invariantKind: "departure",
       statement:
-        "The test standing beside a file is named by the same rule that names any file beside a page.",
+        "The test sitting beside a file is named by the same rule that names any file beside a page.",
     },
     {
       invariantKind: "departure",
@@ -167,7 +167,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A package standing outside the akasha folder is answered from that tree.",
+      statement: "A package outside the akasha folder is answered from that tree.",
     },
     {
       invariantKind: "departure",
@@ -180,12 +180,11 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A package the folder of installed modules holds stands outside that folder.",
+      statement: "A package the folder of installed modules holds is outside that folder.",
     },
     {
       invariantKind: "gap",
-      statement:
-        "A package outside the akasha folder is judged against the copy standing in the tree.",
+      statement: "A package outside the akasha folder is judged against the copy in the tree.",
     },
     {
       invariantKind: "departure",
@@ -198,7 +197,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A world stands at no commit.",
+      statement: "A world is at no commit.",
     },
     {
       invariantKind: "departure",
