@@ -92,18 +92,34 @@ export function createSubagentReader(): SubagentReader {
     return cursor.state
   }
 
+  // AN AGENT ALREADY READ ON THIS PATH IS NOT READ AGAIN ON IT. A resumed agent nothing the fold
+  // holds is filed under the resumed id as a row of its own, and that id can name an agent already
+  // above the row — which is what a lane resuming the agent that ran it leaves behind. Reading that
+  // agent's transcript again lists every lane a second time, under one of themselves, so the panel
+  // drew a subtree of its own ancestor. The depth limit cut that off rather than preventing it, and
+  // what it cut off was still drawn: 19 of 67 rows were one of the other 48 over again.
   const descend = async (
     running: readonly RunningSubagent[],
     subagentsDir: string,
-    depth: number
+    depth: number,
+    entered: ReadonlySet<string>
   ): Promise<readonly SubagentNode[]> => {
     const nodes: SubagentNode[] = []
     for (const subagent of running) {
       let children: readonly SubagentNode[] = []
-      if (subagent.agentId !== null && depth < MAX_SUBAGENT_DEPTH) {
+      if (
+        subagent.agentId !== null &&
+        !entered.has(subagent.agentId) &&
+        depth < MAX_SUBAGENT_DEPTH
+      ) {
         const childPath = path.join(subagentsDir, `agent-${subagent.agentId}.jsonl`)
         const state = await advance(childPath, childPath)
-        children = await descend(runningSubagents(state), subagentsDir, depth + 1)
+        children = await descend(
+          runningSubagents(state),
+          subagentsDir,
+          depth + 1,
+          new Set(entered).add(subagent.agentId)
+        )
       }
       nodes.push({
         key: subagent.key,
@@ -140,7 +156,7 @@ export function createSubagentReader(): SubagentReader {
     forSeat: async (agentId: string, transcriptPath: string) => {
       const state = await advance(agentId, transcriptPath)
       const subagentsDir = path.join(transcriptPath.replace(/\.jsonl$/, ""), "subagents")
-      return descend(runningSubagents(state), subagentsDir, 1)
+      return descend(runningSubagents(state), subagentsDir, 1, new Set())
     },
     dropUntouched: async () => {
       for (const key of [...cursors.keys()]) {

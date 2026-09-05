@@ -33,6 +33,14 @@ export const subagentReading = {
     },
     {
       invariantKind: "departure",
+      statement: "An agent already read on one path is not read again anywhere below itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row naming an agent already above that row is drawn holding nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A subagent is descended into five deep and no deeper.",
     },
     {
