@@ -1,5 +1,5 @@
 diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
-index 8272df958bbe720e49c940e7985ada2cb06fca56..dcbb5c60464d99701fb71d40c1203fcdfc6d251c 100644
+index 8272df958bbe720e49c940e7985ada2cb06fca56..c535fa6cc31e1ed491e208359b47be8e34bf1d40 100644
 --- a/command-system/landing/landing.module.ts
 +++ b/command-system/landing/landing.module.ts
 @@ -185,7 +185,7 @@ export const landing = {
@@ -8,6 +8,15 @@ index 8272df958bbe720e49c940e7985ada2cb06fca56..dcbb5c60464d99701fb71d40c1203fcd
        invariantKind: "departure",
 -      statement: "The index is reached only to keep it.",
 +      statement: "The index is reached only to keep that index.",
+     },
+     {
+       invariantKind: "departure",
+@@ -197,7 +197,7 @@ export const landing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Why they would not load is said in the answer and in the commit.",
++      statement: "Why the checks would not load is said in the answer and in the commit.",
      },
      {
        invariantKind: "departure",
