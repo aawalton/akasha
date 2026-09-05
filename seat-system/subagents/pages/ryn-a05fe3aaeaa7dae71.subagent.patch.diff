@@ -1,0 +1,13 @@
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts b/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts
+index 42cb50ab5e845e6d475630a448034504aa91854b..6cd4424d0396b94554cad1c454a2ee519185f0cd 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts
+@@ -13,7 +13,7 @@ export const state = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The page is committed and the file beside it is not.",
++      statement: "The page is committed and the file beside that page is not.",
+     },
+     {
+       invariantKind: "departure",
