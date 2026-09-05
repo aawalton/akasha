@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/pages/types/properties/child-collection.record-property.ts b/pages/types/properties/child-collection.record-property.ts
-index 003b5dccd7955b932ad6cac052ff4e74920ad7df..46803cc109b0e0bde749eb09c0e99a1a7ba89858 100644
+index 003b5dccd7955b932ad6cac052ff4e74920ad7df..a5276a63a72e3b00e2faa607d9d43dc30d6827b8 100644
 --- a/pages/types/properties/child-collection.record-property.ts
 +++ b/pages/types/properties/child-collection.record-property.ts
-@@ -24,7 +24,8 @@ export const childCollection = {
+@@ -24,11 +24,13 @@ export const childCollection = {
      },
      {
        invariantKind: "departure",
@@ -13,3 +13,9 @@ index 003b5dccd7955b932ad6cac052ff4e74920ad7df..46803cc109b0e0bde749eb09c0e99a1a
      },
      {
        invariantKind: "stopgap",
+-      statement: "Each key here repeats this record's name because the reader outside names it so.",
++      statement:
++        "Each key here repeats this record's name because the reader outside names that key so.",
+     },
+   ],
+ } as const satisfies RecordProperty
