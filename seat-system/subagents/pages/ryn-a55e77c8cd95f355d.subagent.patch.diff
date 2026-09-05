@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/move/manifesting/move-manifesting.module.ts b/commands/move/manifesting/move-manifesting.module.ts
+index c6580fd29bc1b19a3de7a2d31815dc36a74505b7..fd448f67a29eb5c1ac165dea7c0338ecbaa14bb4 100644
+--- a/commands/move/manifesting/move-manifesting.module.ts
++++ b/commands/move/manifesting/move-manifesting.module.ts
+@@ -55,7 +55,7 @@ export const moveManifesting = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A manifest that will not parse is left as it is.",
++      statement: "A manifest that will not parse is left as the manifest is.",
+     },
+     {
+       invariantKind: "absence",
