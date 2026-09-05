@@ -1,0 +1,14 @@
+diff --git a/alan/harness/monarch/files/monarch-files.module.ts b/alan/harness/monarch/files/monarch-files.module.ts
+index 9ca023aa518d584edcd79b96e5513b6148fd2334..de8bce32d931ac5cb08dac429b1fc5570741ab7b 100644
+--- a/alan/harness/monarch/files/monarch-files.module.ts
++++ b/alan/harness/monarch/files/monarch-files.module.ts
+@@ -13,8 +13,7 @@ export const monarchFiles = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The checkout is read directly, because the categorization ring runs under a workstation timer where there is no service.",
++      statement: "The checkout is read directly.",
+     },
+     {
+       invariantKind: "departure",
