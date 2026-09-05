@@ -10,11 +10,12 @@ export const landingSaying = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A report opens with what the caller asked to have said of the landing.",
+      statement: "A report opens with the lines the caller asked to have said of the landing.",
     },
     {
       invariantKind: "departure",
-      statement: "A report that could not be built names what the landing wrote and took away.",
+      statement:
+        "A report that could not be built names the paths the landing wrote and took away.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +23,7 @@ export const landingSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "A report says what became of the commit.",
+      statement: "A report says the commit's outcome.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +44,7 @@ export const landingSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "What a draft left is named in the report as what was drafted.",
+      statement: "The paths a draft left are named in the report as drafted.",
     },
     {
       invariantKind: "departure",
@@ -51,7 +52,7 @@ export const landingSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "What a landing says of itself is handed in rather than reached for.",
+      statement: "A landing's saying of itself is handed in rather than reached for.",
     },
     {
       invariantKind: "absence",
