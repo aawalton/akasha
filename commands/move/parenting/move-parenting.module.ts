@@ -14,7 +14,7 @@ export const moveParenting = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder is held by the one page whose own file sits in it.",
+      statement: "A folder is held by the one page whose own file sits in that folder.",
     },
     {
       invariantKind: "departure",
