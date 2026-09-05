@@ -53,7 +53,8 @@ export const keyRespelling = {
     },
     {
       invariantKind: "departure",
-      statement: "What the index answers and what the checker finds hold each other to account.",
+      statement:
+        "The pages the index answers and the places the checker finds hold each other to account.",
     },
     {
       invariantKind: "departure",
@@ -81,7 +82,7 @@ export const keyRespelling = {
     },
     {
       invariantKind: "departure",
-      statement: "Which pages the files are looked for beside is what the index answers.",
+      statement: "The index answers which pages the files are looked for beside.",
     },
     {
       invariantKind: "absence",
