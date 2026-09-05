@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/commands/lint-exception/lint-exception.command.ts b/commands/lint-exception/lint-exception.command.ts
+index b7cee9e61c5fbde7ab67b1a4faeef733906666c7..903f6c0b799168520e8e356d7cb536b77fbd0870 100644
+--- a/commands/lint-exception/lint-exception.command.ts
++++ b/commands/lint-exception/lint-exception.command.ts
+@@ -28,7 +28,7 @@ export const lintException = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A rule is said as the group it is in and the name it carries.",
++      statement: "A rule is said as the group that rule is in and the name that rule carries.",
+     },
+     {
+       invariantKind: "departure",
