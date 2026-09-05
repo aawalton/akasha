@@ -250,6 +250,7 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
   }
   const message =
     said.message ?? `move ${sided.sides.map((one) => `${one.from} to ${one.to}`).join(", ")}`
+  let relink: () => undefined = () => undefined
   const asked: Asked = {
     changes,
     message,
@@ -263,8 +264,12 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
       ...resettlingSaid(root, named, true),
     ],
     draft: given.agentId !== null,
+    reaching: read.dryRun
+      ? undefined
+      : (): undefined => {
+          relink = reachedOver(root, linkingsIn(moved, bodyText))
+        },
   }
-  const relink = read.dryRun ? () => undefined : reachedOver(root, linkingsIn(moved, bodyText))
   let landed: Answer
   try {
     landed = await landingAsked({ ...given, root }, asked)

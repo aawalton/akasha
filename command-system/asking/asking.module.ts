@@ -98,6 +98,19 @@ export const asking = {
     },
     {
       invariantKind: "departure",
+      statement: "The links a caller hands in are repointed once the checks have loaded.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A gate that would not load is answered before any link is repointed.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A link repointed while this call runs reaches a folder the change has not written yet.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body of any other kind reaches the gate as the caller handed the body in.",
     },
     {

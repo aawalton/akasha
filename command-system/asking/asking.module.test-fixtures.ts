@@ -11,10 +11,11 @@ import { put } from "@akasha/testing-system/putting"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
 import { patch } from "../commands/patch/patch.command.code.ts"
 import { write } from "../commands/write/write.command.code.ts"
+import { drafted, type Running } from "../drafting/drafting.module.code.ts"
 import { blobIdOf, recordRead } from "../reading/reading.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { type Asked, landedMechanically } from "./asking.module.code.ts"
+import { type Asked, landedMechanically, runningOf } from "./asking.module.code.ts"
 
 const ADMITS_AT = "akasha/admits.code-check*"
 
@@ -232,3 +233,19 @@ export const applying = async (root: string): Promise<Answer> =>
 
 export const mechanically = async (root: string): Promise<number> =>
   (await landedMechanically(root, "akasha write", THREE, "held", [], AGENT)).code
+
+export const PROGRAM = [{ path: TWO_AT, body: bytes(PROPOSED) }]
+
+export const ranBy = (runsChecks: boolean, runsWarrants: boolean): Running =>
+  runningOf({ ...givenIn(""), changeKind: { slug: "held", runsChecks, runsWarrants } })
+
+export function seeded(root: string): boolean {
+  const held = [{ path: "akasha/one.ts", was: bytes("committed\n"), body: bytes(PROPOSED) }]
+  return !("why" in drafted(root, SEAT_AT, held))
+}
+
+export function reaching(held: number[]): () => undefined {
+  return (): undefined => {
+    held.push(1)
+  }
+}

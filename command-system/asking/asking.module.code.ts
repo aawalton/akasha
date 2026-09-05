@@ -60,6 +60,7 @@ export type Asked = {
   readonly read?: string | null
   readonly carries?: readonly FileCarry[]
   readonly draft?: boolean
+  readonly reaching?: () => undefined
 }
 
 export type Trouble = {
@@ -363,6 +364,7 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
   if ("broken" in built && bypass === null) return unloadable(built.broken)
   const broken = "broken" in built ? built.broken : null
   const gate = gateFor(held, bypass === null && "gate" in built ? built.gate : NO_GATE)
+  held.reaching?.()
   if (held.dryRun) return await reporting(given.root, held, gate, aside)
   const message = messageWith(held, bypass, broken)
   const asRead = asReadIn(given, formatting.changes)

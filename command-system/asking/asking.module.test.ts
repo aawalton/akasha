@@ -2,12 +2,10 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { listedTakenFrom } from "@akasha/indexes/testing"
-import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { ADMITS_CODE, REFUSES_CODE } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
 import { patch } from "../commands/patch/patch.command.code.ts"
 import { write } from "../commands/write/write.command.code.ts"
-import { drafted, type Running } from "../drafting/drafting.module.code.ts"
 import { baseOf as headOf } from "../landing/landing.module.code.ts"
 import { landedMechanically, landingAsked, NO_CHECKS, runningOf } from "./asking.module.code.ts"
 import {
@@ -25,15 +23,18 @@ import {
   LOOSE,
   mechanically,
   PATCH_AT,
+  PROGRAM,
   PROPOSED,
   REFORMATTED,
   REFUSES_LOOSE,
   REFUSES_TAKING,
+  ranBy,
+  reaching,
   repoNoCheckLoads,
   repoWith,
   repoWithTheFormatter,
-  SEAT_AT,
   scratch,
+  seeded,
   THREE_AT,
   TIDY,
   treeHolds,
@@ -118,10 +119,19 @@ test("checks that will not load refuse the change, and nothing reaches the disk"
   expect(headOf(root)).toBe(was)
 })
 
+test("a link is repointed once the checks have loaded and never where they will not", async () => {
+  const held: number[] = []
+  const one = await landingAsked(givenIn(repoNoCheckLoads()), asking({ reaching: reaching(held) }))
+  expect(one.code).toBe(3)
+  expect(held.length).toBe(0)
+  const at = asking({ saying: () => [], reaching: reaching(held) })
+  expect((await landingAsked(givenIn(repoWith()), at)).code).toBe(0)
+  expect(held.length).toBe(1)
+})
+
 test("the glass carries a patch past checks that will not load, and the commit says why", async () => {
   const root = repoNoCheckLoads()
-  const draft = [{ path: "akasha/one.ts", was: bytes("committed\n"), body: bytes(PROPOSED) }]
-  expect("why" in drafted(root, SEAT_AT, draft)).toBe(false)
+  expect(seeded(root)).toBe(true)
   const said = await patch(
     ["apply", "--message", "held", "--break-the-glass", "mid-refactor"],
     givenIn(root)
@@ -191,8 +201,6 @@ test("breaking the glass runs no check and says so in the commit", async () => {
   expect(commitIn(root, said)).toContain("Checks-bypassed: the checks are themselves broken")
 })
 
-const PROGRAM = [{ path: "akasha/two.ts", body: bytes(PROPOSED) }]
-
 test("a landing made by a program runs no check and says so in the commit", async () => {
   const root = repoWith()
   checking(root, "refuses", REFUSES_CODE)
@@ -211,9 +219,6 @@ test("a landing made by a program is told apart from a glass that was broken", a
   expect(said.report).toContain(`a \`change-mechanical\` change ${NO_CHECKS}`)
   expect(said.report.join("\n")).not.toContain("the glass was broken")
 })
-
-const ranBy = (runsChecks: boolean, runsWarrants: boolean): Running =>
-  runningOf({ ...givenIn(""), changeKind: { slug: "held", runsChecks, runsWarrants } })
 
 test("a change kind says what a draft runs, its checks apart from its warrants", () => {
   expect(ranBy(true, false)).toEqual({ checks: true, warrants: false })
