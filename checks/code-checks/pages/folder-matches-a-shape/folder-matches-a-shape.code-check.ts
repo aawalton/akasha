@@ -95,7 +95,7 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A shape reads what stands under a folder as well as what sits in the folder.",
+      statement: "A shape reads what is under a folder as well as what sits in the folder.",
     },
     {
       invariantKind: "departure",
@@ -122,7 +122,7 @@ export const folderMatchesAShape = {
     {
       invariantKind: "departure",
       statement:
-        "Which files stand in a folder is read as the index stands joined to what the change carries.",
+        "Which files sit in a folder is read as the index is joined to what the change carries.",
     },
     {
       invariantKind: "departure",

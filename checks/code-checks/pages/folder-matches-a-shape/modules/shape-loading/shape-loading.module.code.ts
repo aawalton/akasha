@@ -42,7 +42,7 @@ export function shapesIn(root: string, shadow: Shadow): readonly Shape[] {
     const beside = besideAt(one.path, CODE, TS)
     if (beside === null) {
       throw new Error(
-        `${one.path} is a folder shape, and no code file can stand beside a name like it`
+        `${one.path} is a folder shape, and no code file can sit beside a name like it`
       )
     }
     const codePath = shadow.codeAt(beside)

@@ -58,7 +58,7 @@ test("every folder above a path is an ancestor, nearest first", () => {
   expect(ancestorsOf("akasha/a/b/one.ts")).toEqual(["akasha/a/b", "akasha/a", "akasha"])
 })
 
-test("an import reaches the folders holding it, stopping where the importer stands too", () => {
+test("an import reaches the folders holding it, stopping where the importer is too", () => {
   expect(reachedFolders("akasha/c/two.ts", "akasha/a/one.ts")).toEqual(["akasha/c"])
 })
 
@@ -102,7 +102,7 @@ test("an import the change takes away carries the folder it used to reach", () =
   expect(said.has("akasha/c")).toBe(true)
 })
 
-test("an import the change leaves standing carries no folder of its own", () => {
+test("an import the change leaves unchanged carries no folder of its own", () => {
   const body = 'import { two } from "../c/two.ts"\n'
   const said = foldersTouchedBy(
     change(["akasha/a/one.ts"], { "akasha/a/one.ts": body }, { "akasha/a/one.ts": body })
@@ -267,7 +267,7 @@ test("a page of a page type the change itself adds is a page, not a stray", () =
   expect(said).toEqual([])
 })
 
-test("a file standing beside a page through a file property the change adds is no stray either", () => {
+test("a file sitting beside a page through a file property the change adds is no stray either", () => {
   const root = rooted()
   const said = judged(
     arriving(root, {
@@ -322,7 +322,7 @@ test("a name no property states is a stray though a page claims the path", () =>
   expect(said.map((each) => each.path)).toEqual(["akasha/b"])
 })
 
-test("the page a claimed file stands beside is the one the index names", () => {
+test("the page a claimed file sits beside is the one the index names", () => {
   expect(pageNameOf("akasha/pages-system/indexes/indexes.workspace-package.ts")).toBe(
     "indexes.workspace-package"
   )
