@@ -1,3 +1,15 @@
+diff --git a/infrastructure/eso-rig/eso-rig.workspace-package.ts b/infrastructure/eso-rig/eso-rig.workspace-package.ts
+index 40a764100b6d201bef417db3056d44d2ea22e053..dcb064f09da5a4474f28289ca57824d057e68003 100644
+--- a/infrastructure/eso-rig/eso-rig.workspace-package.ts
++++ b/infrastructure/eso-rig/eso-rig.workspace-package.ts
+@@ -8,6 +8,7 @@ export const esoRig = {
+   manifest: "json",
+   partSlugs: [
+     "container-recipe/eso-rig-image",
++    "manifest/eso-rig-manifests",
+     "python-module/eso-rig-probe",
+     "shell-script/eso-rig-cluster-publish",
+     "shell-script/eso-rig-entrypoint",
 diff --git a/infrastructure/eso-rig/manifests/eso-rig-manifests.manifest.ts b/infrastructure/eso-rig/manifests/eso-rig-manifests.manifest.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..d2b0d469420b5d8f05579201c1eb7522326ddf26
