@@ -241,3 +241,18 @@ index 0000000000000000000000000000000000000000..95bceaaa1b28ed8e240fa2b32c8a6b58
 +  definition: "how long drawing a page takes",
 +  partSlugs: ["module/page-card-perf"],
 +} as const satisfies Domain
+diff --git a/pages/ui/reorder-verbs/pages-ui-reorder-verbs.domain.ts b/pages/ui/reorder-verbs/pages-ui-reorder-verbs.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9006b98e7fd38819bf467318dee8097cb1b14f9f
+--- /dev/null
++++ b/pages/ui/reorder-verbs/pages-ui-reorder-verbs.domain.ts
+@@ -0,0 +1,9 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesUiReorderVerbs = {
++  id: "01a071d1-41ad-7a7c-a189-9c75005c96c3",
++  pageTypeSlug: "domain",
++  slug: "pages-ui-reorder-verbs",
++  definition: "a named act putting pages in order",
++  partSlugs: ["module/reorder-verb-registry"],
++} as const satisfies Domain
