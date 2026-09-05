@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/package-linking/package-linking.module.ts b/command-system/package-linking/package-linking.module.ts
+index 390aab6b764a64bb2277e3a75b7285bf1b80d12e..0f281862e51bd833331693d0b42645e2ae57fd96 100644
+--- a/command-system/package-linking/package-linking.module.ts
++++ b/command-system/package-linking/package-linking.module.ts
+@@ -15,7 +15,7 @@ export const packageLinking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What the workspace is reached through is a link beside the packages.",
++      statement: "The workspace is reached through a link beside the packages.",
+     },
+     {
+       invariantKind: "departure",
