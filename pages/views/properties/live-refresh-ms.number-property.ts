@@ -12,7 +12,7 @@ export const liveRefreshMs = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A view stating nothing redraws only when what it draws changes.",
+      statement: "A view stating nothing redraws only when what that view draws changes.",
     },
   ],
 } as const satisfies NumberProperty
