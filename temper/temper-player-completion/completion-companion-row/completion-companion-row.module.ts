@@ -17,7 +17,8 @@ export const completionCompanionRow = {
     },
     {
       invariantKind: "departure",
-      statement: "A reader wanting only the companion and its completion takes this row as it is.",
+      statement:
+        "A reader wanting only the companion and its completion takes this row as that row is.",
     },
   ],
 } as const satisfies Module
