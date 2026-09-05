@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-lib-scrollable-menu/scrollable-menu-dropdown-class-search/scrollable-menu-dropdown-class-search.module.ts b/temper/temper-lib-scrollable-menu/scrollable-menu-dropdown-class-search/scrollable-menu-dropdown-class-search.module.ts
+index 9479f4c751a392c517007c00757dfed978742b24..fdb720ba84168363da70f49c01de667bc6f170a3 100644
+--- a/temper/temper-lib-scrollable-menu/scrollable-menu-dropdown-class-search/scrollable-menu-dropdown-class-search.module.ts
++++ b/temper/temper-lib-scrollable-menu/scrollable-menu-dropdown-class-search/scrollable-menu-dropdown-class-search.module.ts
+@@ -14,7 +14,7 @@ export const scrollableMenuDropdownClassSearch = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Right-clicking a row runs the entry's context-menu callback instead of selecting it.",
++        "Right-clicking a row runs the entry's context-menu callback instead of selecting that entry.",
+     },
+     {
+       invariantKind: "departure",
