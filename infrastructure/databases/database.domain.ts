@@ -8,6 +8,7 @@ export const database = {
   pluralSlug: "databases",
   partSlugs: [
     "manifest/pgbouncer",
+    "manifest/postgres-cnpg",
     "manifest/postgrest",
     "manifest/supabase-realtime",
     "manifest/supabase-studio",

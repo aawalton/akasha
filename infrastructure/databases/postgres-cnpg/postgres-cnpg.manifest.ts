@@ -1,0 +1,10 @@
+import type { Manifest } from "@akasha/k8s-types/manifest"
+
+export const postgresCnpg = {
+  id: "01a07391-2c99-7cff-92b8-d47c1f7bc114",
+  pageTypeSlug: "manifest",
+  slug: "postgres-cnpg",
+  definition:
+    "the namespace, volume, service, managed cluster, object store and scheduled backup of Postgres",
+  code: "ts",
+} as const satisfies Manifest
