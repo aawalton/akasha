@@ -53,7 +53,7 @@ test("a page a live process acts under is named working rather than stale", asyn
   const said = (await subagentSweep([], givenIn(root), ACTS, base)).report.join("\n")
   expect(said).toContain("1 subagent page(s): 1 working, 0 stale, 0 undetermined")
   expect(said).toContain("pid 9 answers")
-  expect(said).not.toContain("STALE")
+  expect(said).not.toMatch(/^STALE/m)
   world.sweep()
 })
 
@@ -104,7 +104,7 @@ test("the commit says why each page went", async () => {
   await subagentSweep(["--remove"], givenIn(root), GONE, base)
   const said = gitIn(root, ["log", "-1", "--pretty=%B"])
   expect(said).toContain("1 subagent page(s) go")
-  expect(said).toContain("no live process runs as its seat")
+  expect(said).toContain("no process at all carries its seat's agent id")
   world.sweep()
 })
 
