@@ -1,3 +1,15 @@
+diff --git a/temper/temper-addon-data/addon-data-pages/addon-data-pages.module.code.ts b/temper/temper-addon-data/addon-data-pages/addon-data-pages.module.code.ts
+index 070054396df40c3fb390ad5d57dc6ae6f43749e6..1447a99d5944cc1ab41082d76af7fc9bd62b864f 100644
+--- a/temper/temper-addon-data/addon-data-pages/addon-data-pages.module.code.ts
++++ b/temper/temper-addon-data/addon-data-pages/addon-data-pages.module.code.ts
+@@ -51,6 +51,7 @@ export type AddonDataPages = {
+   companionWeaponSlotPages: PageResult
+   companionWeaponTypePages: PageResult
+   comparisonOpPages: PageResult
++  conditionFieldPages: PageResult
+   cursePages: PageResult
+   debuffMajorPages: PageResult
+   debuffMinorPages: PageResult
 diff --git a/temper/temper-addon-data/addon-data-writes-rules/addon-data-writes-rules.module.code.ts b/temper/temper-addon-data/addon-data-writes-rules/addon-data-writes-rules.module.code.ts
 index e42b53519a4c818f28e237478212809afbecebdd..18f072ad1227d59580cfc0fccdb9a7bc670804ef 100644
 --- a/temper/temper-addon-data/addon-data-writes-rules/addon-data-writes-rules.module.code.ts
