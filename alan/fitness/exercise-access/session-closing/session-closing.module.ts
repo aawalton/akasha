@@ -11,7 +11,7 @@ export const sessionClosing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A session states no close while it is open.",
+      statement: "A session states no close while that session is open.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const sessionClosing = {
     {
       invariantKind: "gap",
       statement:
-        "A set states no time it was logged, so every close falls back to the session's start.",
+        "A set states no time that set was logged, so every close falls back to the session's start.",
     },
     {
       invariantKind: "gap",
