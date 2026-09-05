@@ -77,3 +77,16 @@ index 06497c5da7ce01da40a437ec598b8fa44bc01067..15c72f34ad9c0e3a3dff3f1d08f02a4d
      },
      {
        invariantKind: "gap",
+diff --git a/infrastructure/upscale/upscale-cluster/upscale-cluster.module.ts b/infrastructure/upscale/upscale-cluster/upscale-cluster.module.ts
+index 70659b3dba59cf4d616c27e1290f0f7a7810652d..faa0ab14408a699b11314c0a8967a8347df76ef1 100644
+--- a/infrastructure/upscale/upscale-cluster/upscale-cluster.module.ts
++++ b/infrastructure/upscale/upscale-cluster/upscale-cluster.module.ts
+@@ -10,7 +10,7 @@ export const upscaleCluster = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Credentials absent from the environment are named in the refusal rather than left to fail at the store.",
++        "Credentials the environment lacks are named in the refusal rather than left to fail at the store.",
+     },
+     { invariantKind: "departure", statement: "The input is stored before the job is created." },
+     {
