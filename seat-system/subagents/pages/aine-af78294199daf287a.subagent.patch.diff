@@ -1,5 +1,5 @@
 diff --git a/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts b/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts
-index d2265159b1b4109aba663ac6f3118f84f1566eee..e9664d1900dde018dc43e2502a53820ebac6efaf 100644
+index d2265159b1b4109aba663ac6f3118f84f1566eee..08c1700eee37359d113f5654a03c836aff283d95 100644
 --- a/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts
 +++ b/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts
 @@ -49,7 +49,7 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean):
@@ -9,5 +9,14 @@ index d2265159b1b4109aba663ac6f3118f84f1566eee..e9664d1900dde018dc43e2502a53820e
 -        (one) => `${one}, and applying it would write the stand-in itself into the cluster`
 +        (one) => `${one}, and applying it would write the placeholder itself into the cluster`
        ),
+       code: DATA,
+     }
+@@ -60,7 +60,7 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean):
+     return {
+       report,
+       refusals: [
+-        `git says no commit stands at HEAD under ${given.root}, so nothing names the source to build`,
++        `git says no commit is at HEAD under ${given.root}, so nothing names the source to build`,
+       ],
        code: DATA,
      }
