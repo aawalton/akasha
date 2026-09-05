@@ -41,7 +41,7 @@ export const nimueComputedProperties = {
     {
       statement: "No page query sums a key no page type declares.",
       workingMemory:
-        "Eight page queries reduce and seven of them sum a key no page type declares: activity-calories-on-day, surplus-hours-on-day, sleep-hours-on-day, episodes-watched, episodes-watched-on-day and the two claude-account mean-used queries. Only the first is a spelling fault, its target written kebab where wake-day carries camel; the rest are absent under any spelling. food-entry-plants-since-waking is the one healthy reducer.",
+        "Two of eight reducers are healthy: activity-calories-on-day, 18286 over 137 wake-days, and food-entry-plants-since-waking. episodes-watched and episodes-watched-on-day sum ownLength, which episode declares: 3273 over 147 unfiltered, null narrowed, no episode carrying completedAt. An absent key and an unwritten declared one both read 0; only `declared` parts them. Left: sleep-hours-on-day and surplus-hours-on-day, targets under no spelling, and the two claude-account queries, keys uncommitted.",
     },
   ],
   constraints: [
