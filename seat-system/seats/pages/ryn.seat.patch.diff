@@ -89,3 +89,22 @@ index a5b5611f44b168b46981ee5b52931d398132ec19..4e8da57cb1a3ce9e6c13b730d2895957
 +  ])
 +  expect(partitiveQuantifier(said)).toEqual([{ at: [4, 7] }])
 +})
+diff --git a/domains/sentence-shapes/partitive-quantifier/partitive-quantifier.sentence-shape.ts b/domains/sentence-shapes/partitive-quantifier/partitive-quantifier.sentence-shape.ts
+index 1b58ba7c656458c057b99b5f36c7f67c74083f0a..71856053d22e33480156b32bae22067be7a3cc89 100644
+--- a/domains/sentence-shapes/partitive-quantifier/partitive-quantifier.sentence-shape.ts
++++ b/domains/sentence-shapes/partitive-quantifier/partitive-quantifier.sentence-shape.ts
+@@ -9,4 +9,14 @@ export const partitiveQuantifier = {
+   code: "ts",
+   test: "ts",
+   reason: "A quantifier and the phrase it is part of are two steps where naming the thing is one.",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "`much` before an `of` phrase names a proportion rather than a count.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A quantifier whose `of` phrase carries a count states that count nowhere else.",
++    },
++  ],
+ } as const satisfies SentenceShape
