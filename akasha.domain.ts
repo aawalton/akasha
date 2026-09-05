@@ -185,8 +185,8 @@ export const akasha = {
     {
       directiveKind: "principle",
       name: "Cut The Obvious",
-      act: "Keep an instruction only where Opus 5 would consistently make avoidable mistakes without it.",
-      warrant: "A line the model would have obeyed anyway reads exactly like one it needs.",
+      act: "Keep an instruction only where Opus 5 consistently goes wrong without that instruction.",
+      warrant: "A line the model would have obeyed anyway reads exactly like one the model needs.",
       aids: [
         "One agent's slip is not a consistent mistake.",
         "Test a single word the way you test a document.",
