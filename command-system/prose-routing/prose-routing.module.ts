@@ -10,7 +10,8 @@ export const proseRouting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A flag carrying prose gains a route flag named for it with `-file` on the end.",
+      statement:
+        "A flag carrying prose gains a route flag named for that prose flag with `-file` on the end.",
     },
     {
       invariantKind: "departure",
