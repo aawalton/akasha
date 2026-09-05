@@ -31,7 +31,7 @@ export const shellClean = {
     {
       invariantKind: "departure",
       statement:
-        "The linter reads a world written out of what the change proposes rather than the working tree.",
+        "The linter reads a world written out of the bodies the change proposes rather than the working tree.",
     },
     {
       invariantKind: "departure",
@@ -81,11 +81,11 @@ export const shellClean = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here says what the linter looks for.",
+      statement: "Nothing here names the faults the linter looks for.",
     },
     {
       invariantKind: "absence",
-      statement: "Which findings bind is what the linter itself judges.",
+      statement: "The linter itself judges which findings bind.",
     },
     {
       invariantKind: "absence",
@@ -97,7 +97,7 @@ export const shellClean = {
     },
     {
       invariantKind: "constraint",
-      statement: "The world's root is taken out of what is reported.",
+      statement: "The world's root is taken out of the reason reported.",
     },
     {
       invariantKind: "constraint",
