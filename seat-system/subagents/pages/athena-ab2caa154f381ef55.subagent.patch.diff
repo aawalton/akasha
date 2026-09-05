@@ -183,6 +183,18 @@ index 272f56fc01c5e8c7a73cc83130f7cab82a88f0fb..2b61d40f229b720c647bff1fe57b479e
 +    "akasha seat start --start-mode headless --domain game-design --role game-master --prompt-file ./prompt.txt --anthropic-base-url http://100.64.0.2:11434/ --model hf.co/TheDrummer/Cydonia-24B-v4.3-GGUF:Q5_K_M --anthropic-auth-token ollama",
    ],
  }
+diff --git a/seat-system/seat-start-help/seat-start-help.module.ts b/seat-system/seat-start-help/seat-start-help.module.ts
+index 5f92eb37a7fb39f156efdfdf8466aa06a5c18f21..9c6911f8d593ef790de0d338636184b855e5b9e8 100644
+--- a/seat-system/seat-start-help/seat-start-help.module.ts
++++ b/seat-system/seat-start-help/seat-start-help.module.ts
+@@ -4,6 +4,6 @@ export const seatStartHelp = {
+   id: "01a069bd-bdc5-7d9f-a862-b201ec82537c",
+   pageTypeSlug: "module",
+   slug: "seat-start-help",
+-  definition: "the flags, exits and examples `ops seat start` declares",
++  definition: "the flags, exits and examples `akasha seat start` declares",
+   code: "ts",
+ } as const satisfies Module
 diff --git a/seat-system/supervising/oauth-health-lines/oauth-health-lines.module.code.ts b/seat-system/supervising/oauth-health-lines/oauth-health-lines.module.code.ts
 index 50268503fa06b2225bd4c18e92c2a7993704d037..8867a8c22e5bb901b328d58434f2f29eef7c4e3b 100644
 --- a/seat-system/supervising/oauth-health-lines/oauth-health-lines.module.code.ts
