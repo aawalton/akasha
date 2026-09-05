@@ -26,7 +26,7 @@ export const temperInventoryMasterCraftTrace = {
     },
     {
       invariantKind: "departure",
-      statement: "Each trace carries what the craft came to.",
+      statement: "Each trace carries the craft's outcome.",
     },
   ],
 } as const satisfies Command
