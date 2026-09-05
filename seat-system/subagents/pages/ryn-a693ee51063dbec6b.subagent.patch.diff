@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-build-deploy-checks/temper-build-deploy-checks.workspace-package.ts b/temper/temper-build-deploy-checks/temper-build-deploy-checks.workspace-package.ts
+index e0e6e874763ae2462a41bccbf8b3fa2bb217c438..9c632de782c4ff45eb433ecaa10964f8e508de7b 100644
+--- a/temper/temper-build-deploy-checks/temper-build-deploy-checks.workspace-package.ts
++++ b/temper/temper-build-deploy-checks/temper-build-deploy-checks.workspace-package.ts
+@@ -98,7 +98,7 @@ export const temperBuildDeployChecks = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "Most of what this package is made of is still outside akasha.",
++      statement: "Most of the code this package is made of is still outside akasha.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
