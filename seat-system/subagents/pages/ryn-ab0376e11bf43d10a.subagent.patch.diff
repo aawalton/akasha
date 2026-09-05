@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-watcher/watcher-upload-retry/watcher-upload-retry.module.ts b/temper/temper-watcher/watcher-upload-retry/watcher-upload-retry.module.ts
+index 83eee6740c535bfa44869c2ed7632e82886ec067..93ee6ddda4ce532e292ffc2c3fc02450f301e9df 100644
+--- a/temper/temper-watcher/watcher-upload-retry/watcher-upload-retry.module.ts
++++ b/temper/temper-watcher/watcher-upload-retry/watcher-upload-retry.module.ts
+@@ -34,7 +34,7 @@ export const watcherUploadRetry = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here says what is being uploaded.",
++      statement: "Nothing here names the upload's contents.",
+     },
+   ],
+ } as const satisfies Module
