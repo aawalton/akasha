@@ -30,7 +30,7 @@ export const pageValue = {
     },
     {
       invariantKind: "departure",
-      statement: "A key is read as the type it is asked for or as nothing.",
+      statement: "A key is read as the type that key is asked for or as nothing.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +38,7 @@ export const pageValue = {
     },
     {
       invariantKind: "departure",
-      statement: "A key naming one page or a list of them is read here as a list of slugs.",
+      statement: "A key naming one page or a list of pages is read here as a list of slugs.",
     },
     {
       invariantKind: "absence",
