@@ -1,0 +1,106 @@
+diff --git a/checks/code-checks/pages/no-raw-nul-bytes/no-raw-nul-bytes.code-check.test.ts b/checks/code-checks/pages/no-raw-nul-bytes/no-raw-nul-bytes.code-check.test.ts
+index a5e5b3a3527bd6aded8d0216c2b7043d05b276ab..612e064a58e8b12e094ac48ee27c7aaeebe0c9bd 100644
+--- a/checks/code-checks/pages/no-raw-nul-bytes/no-raw-nul-bytes.code-check.test.ts
++++ b/checks/code-checks/pages/no-raw-nul-bytes/no-raw-nul-bytes.code-check.test.ts
+@@ -19,7 +19,7 @@ test("a single NUL is refused, and the reason names the line and the column", ()
+   expect(said[0]).toContain("hides the whole file from a search")
+ })
+ 
+-test("a body carrying more than one NUL is reported at the first, with how many stand in it", () => {
++test("a body carrying more than one NUL is reported at the first, with how many are in it", () => {
+   const said = reasonsIn(given("akasha/held.ts", bytesOf(`${NUL}a${NUL}b${NUL}`)))
+   expect(said).toHaveLength(1)
+   expect(said[0]).toContain("line 1 column 1")
+diff --git a/checks/code-checks/pages/no-raw-nul-bytes/no-raw-nul-bytes.code-check.ts b/checks/code-checks/pages/no-raw-nul-bytes/no-raw-nul-bytes.code-check.ts
+index b70c5d5cd3f66e5b7d2d1ec9c7cfd5796fb123d0..be74b6cf23d5992e4331dcc437ea3819d290a0e3 100644
+--- a/checks/code-checks/pages/no-raw-nul-bytes/no-raw-nul-bytes.code-check.ts
++++ b/checks/code-checks/pages/no-raw-nul-bytes/no-raw-nul-bytes.code-check.ts
+@@ -26,7 +26,7 @@ export const noRawNulBytes = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The report says how many stand in it.",
++      statement: "The report says how many are in it.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.test.ts b/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.test.ts
+index da0d3c540edeb0f75e1774e6b36d62390d112bc0..dfc2f7c52e408be1f50b7d984fea240d62ed3990 100644
+--- a/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.test.ts
++++ b/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.test.ts
+@@ -44,7 +44,7 @@ function byRule(held: readonly Held[]): ReadonlyMap<string, readonly Said[]> {
+   return found
+ }
+ 
+-test("a rule standing in another file is refused, and the refusal names that file", () => {
++test("a rule in another file is refused, and the refusal names that file", () => {
+   const every = byRule([
+     { path: "one.ts", text: CAMEL },
+     { path: "two.module.code.ts", text: EXPORTED_AS },
+diff --git a/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.ts b/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.ts
+index 368e74200cec9ad7ba76bfabc076ec696817aa52..2f58923f1a169a940e856316396ee46a8ecaf1cc 100644
+--- a/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.ts
++++ b/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.ts
+@@ -19,7 +19,7 @@ export const noRuleInTwoFiles = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every file carrying a rule that stands elsewhere is refused.",
++      statement: "Every file carrying a rule spelled elsewhere as well is refused.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/checks/code-checks/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.code-check.test.ts b/checks/code-checks/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.code-check.test.ts
+index bc0bb28ab61525f3033a539156c8dce7abcc5b67..a7352ce30e7f8390ea3d2cfc1e355248ab7b9a9a 100644
+--- a/checks/code-checks/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.code-check.test.ts
++++ b/checks/code-checks/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.code-check.test.ts
+@@ -59,7 +59,7 @@ test("a shape written in a string is no regex literal and says nothing", () => {
+   expect(reasonsIn(OTHER_CODE, `const SLUG = "/${SHAPE}/"\n`, STATED)).toEqual([])
+ })
+ 
+-test("a shape handed straight to a call is seen, standing wherever it is written", () => {
++test("a shape handed straight to a call is seen, wherever it is written", () => {
+   expect(reasonsIn(OTHER_CODE, `export const held = matching(/${SHAPE}/)\n`, STATED)).toHaveLength(
+     1
+   )
+diff --git a/checks/code-checks/pages/no-tmp/no-tmp.code-check.code.ts b/checks/code-checks/pages/no-tmp/no-tmp.code-check.code.ts
+index 7d3d0bff2dff900f5ed0b9d609f711caea9485d0..6bdfb9a83a9efca925494248589c7706da5e4198 100644
+--- a/checks/code-checks/pages/no-tmp/no-tmp.code-check.code.ts
++++ b/checks/code-checks/pages/no-tmp/no-tmp.code-check.code.ts
+@@ -68,9 +68,7 @@ export function reasonsFor(at: string, text: string): readonly string[] {
+   const walk = (node: ts.Node): undefined => {
+     const value = literalIn(node)
+     if (value !== null && IN_TMP.test(value)) {
+-      said.push(
+-        `line ${lineOf(source, node)} spells a path in /tmp, where no scratch of ours stands`
+-      )
++      said.push(`line ${lineOf(source, node)} spells a path in /tmp, where no scratch of ours sits`)
+     }
+     const named = reached(node, taken.bound)
+     if (named !== null) {
+diff --git a/checks/code-checks/pages/no-tmp/no-tmp.code-check.test.ts b/checks/code-checks/pages/no-tmp/no-tmp.code-check.test.ts
+index ee5ee30644b8f4897fa2296f39440edcfffa0d14..e199ebcac45ae3b0479bfb8dd634a53ca51953c8 100644
+--- a/checks/code-checks/pages/no-tmp/no-tmp.code-check.test.ts
++++ b/checks/code-checks/pages/no-tmp/no-tmp.code-check.test.ts
+@@ -29,7 +29,7 @@ test("a literal that is exactly the scratch root we refuse is refused, and the l
+   expect(said[0]).toMatch(/\/tmp/)
+ })
+ 
+-test("a literal standing under it is refused", () => {
++test("a literal under it is refused", () => {
+   expect(reasonsIn(given(AT, 'const at = "/tmp/held"\n'))).toHaveLength(1)
+ })
+ 
+diff --git a/checks/code-checks/pages/no-tmp/no-tmp.code-check.ts b/checks/code-checks/pages/no-tmp/no-tmp.code-check.ts
+index 7480e0a5f77d99251a029c3bfd36168556e8c85f..abec0f4c601c26d75517a5031f1a97f1e8396743 100644
+--- a/checks/code-checks/pages/no-tmp/no-tmp.code-check.ts
++++ b/checks/code-checks/pages/no-tmp/no-tmp.code-check.ts
+@@ -4,7 +4,7 @@ export const noTmp = {
+   id: "01a04ecb-5cd1-7000-8159-83b7e93d72b9",
+   pageTypeSlug: "code-check",
+   slug: "no-tmp",
+-  definition: "the check refusing a reach for /tmp, where no scratch of ours stands",
++  definition: "the check refusing a reach for /tmp, where no scratch of ours sits",
+   code: "ts",
+   test: "ts",
+   runsOnPatch: false,
