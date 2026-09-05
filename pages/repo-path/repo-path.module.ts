@@ -14,11 +14,11 @@ export const repoPath = {
     },
     {
       invariantKind: "departure",
-      statement: "A path that cannot be spelled out at all is answered as it was given.",
+      statement: "A path that cannot be spelled out at all is answered as that path was given.",
     },
     {
       invariantKind: "departure",
-      statement: "A path inside `.git` names the repository rather than anything it says.",
+      statement: "A path inside `.git` names the repository rather than anything that path says.",
     },
   ],
 } as const satisfies Module
