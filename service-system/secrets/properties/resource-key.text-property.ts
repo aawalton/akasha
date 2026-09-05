@@ -13,7 +13,8 @@ export const resourceKey = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The key is spelled as the resource spells it rather than as a slug is spelled.",
+      statement:
+        "The key is spelled as the resource spells that key rather than as a slug is spelled.",
     },
   ],
 } as const satisfies TextProperty
