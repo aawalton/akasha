@@ -1,3 +1,52 @@
+diff --git a/commands/remove/remove.command.test-fixtures.ts b/commands/remove/remove.command.test-fixtures.ts
+index 119ba7e1278ac316e33b59e8f4ee1cada9d70d6d..95cfe8dca4a69a246b246fd9dd90c920f4f53d9f 100644
+--- a/commands/remove/remove.command.test-fixtures.ts
++++ b/commands/remove/remove.command.test-fixtures.ts
+@@ -164,3 +164,44 @@ export function reportOf(said: Answer): string {
+ export function refusalOf(said: Answer): string {
+   return said.refusals.join("\n")
+ }
++
++export function heldWorld(): string {
++  return repoWith({ [HELD]: BODY })
++}
++
++export function deepWorld(): string {
++  return repoWith({ [DEEP]: BODY, [KEPT]: BODY })
++}
++
++export function outsideWorld(): string {
++  return repoWith({ [OUTSIDE]: BODY, "temper/one/deep/under.ts": BODY, [HELD]: BODY })
++}
++
++export function sidecarWorld(): string {
++  return repoWith({
++    [HELD]: BODY,
++    [BESIDE]: BODY,
++    "akasha/one/held.module.test.ts": BODY,
++    "akasha/one/kept.module.ts": BODY,
++  })
++}
++
++export function waysWorld(): string {
++  return repoWith({
++    [HELD]: BODY,
++    [WAYS_IN]: PACKAGE_WITH_WAYS,
++    [KEPT_WAY]: BODY,
++    [GONE_WAY]: BODY,
++  })
++}
++
++export const MANY_HELD: Readonly<Record<string, string>> = {
++  [DEEP]: BODY,
++  "akasha/one/deep/held.module.code.ts": BODY,
++  "akasha/one/deep/under.module.ts": BODY,
++  [KEPT]: BODY,
++}
++
++export const SAYING = [...naming(HELD), "--message", "held goes"]
++
++export const GLASSED = [...SAYING, "--break-the-glass", "  the check is wrong  "]
 diff --git a/commands/remove/remove.command.test.ts b/commands/remove/remove.command.test.ts
 index 9fe7ce0f5c34fb346bde45f33352bfbe6045b9ba..8ae589052303be7b676d3db1ed1ad2776b3df97e 100644
 --- a/commands/remove/remove.command.test.ts
