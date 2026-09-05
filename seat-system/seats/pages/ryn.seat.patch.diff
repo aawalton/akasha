@@ -1,0 +1,12 @@
+diff --git a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
+index d5ea281265659120d4613fddd73fe73170f54c44..6f1b9df49ca0c736b241f4499143f7935f1a4a2b 100644
+--- a/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
++++ b/domains/plain-language/shape-predicate/shape-predicate.module.code.ts
+@@ -12,6 +12,7 @@ const SLOTS = ["nmod", "root"]
+ const RELATIVE = ["which", "who", "whom", "whose"]
+ const DEMONSTRATIVE = ["this", "that", "these", "those"]
+ const SUMMING = ["both", "each", "either", "neither"]
++const OPENERS = ["SCONJ", "CCONJ"]
+ const QUANTIFIER = [
+   "all",
+   "any",
