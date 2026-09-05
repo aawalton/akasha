@@ -13,7 +13,7 @@ export const useMarkNotificationRead = {
     },
     {
       invariantKind: "departure",
-      statement: "A notification already carrying a read time is left as it is.",
+      statement: "A notification already carrying a read time is left as that notification is.",
     },
     {
       invariantKind: "departure",
