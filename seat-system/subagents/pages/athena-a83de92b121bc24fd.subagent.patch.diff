@@ -1,7 +1,25 @@
 diff --git a/alan/tracking/daily/akasha-day/akasha-day.module.code.ts b/alan/tracking/daily/akasha-day/akasha-day.module.code.ts
-index 5da9378f6a7adf761327247dd3699d4650bfd417..7033ad7e7b3b9c7eec272ea247006f27cbc85b43 100644
+index 5da9378f6a7adf761327247dd3699d4650bfd417..de79c0772f1385a9b01d31ebcf5888a29c91422d 100644
 --- a/alan/tracking/daily/akasha-day/akasha-day.module.code.ts
 +++ b/alan/tracking/daily/akasha-day/akasha-day.module.code.ts
+@@ -19,8 +19,7 @@
+  * akasha is camelised once, in this file, and nothing above it has to know.
+  */
+ 
+-import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+-import { tmpdir } from "node:os"
++import { existsSync, readFileSync } from "node:fs"
+ import { join } from "node:path"
+ import { listedAt } from "@akasha/indexes"
+ import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+@@ -28,6 +27,7 @@ import { entriesIn } from "@akasha/pages-system/page-entries"
+ import { besideAt } from "@akasha/pages-system/page-file-name"
+ import { valueAt } from "@akasha/pages-system/page-value"
+ import { composedFor, type Put } from "@akasha/pages-system-service/composing"
++import { landTracking } from "../../tracking-landing/tracking-landing.module.code.ts"
+ import type { Landed } from "../day-narrow-types/day-narrow-types.module.code.ts"
+ import { camelizeKey } from "../tracking-keys/tracking-keys.module.code.ts"
+ import {
 @@ -157,38 +157,20 @@ function namedIn(row: Row): string {
  }
  
