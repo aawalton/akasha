@@ -25,7 +25,7 @@ export const staleFolders = {
     },
     {
       invariantKind: "absence",
-      statement: "A stale folder is reported before it is removed.",
+      statement: "A stale folder is reported before that folder is removed.",
     },
   ],
 } as const satisfies Module
