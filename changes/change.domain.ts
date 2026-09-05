@@ -37,18 +37,6 @@ export const change = {
   ],
   directives: [
     {
-      directiveKind: "rule",
-      name: "Atomic Commit",
-      act: "Stage and commit in one call, naming the paths that commit is for.",
-      warrant:
-        "The worktree on main is shared by every agent, so what is staged and not committed is swept up.",
-      aids: [
-        "Reaching for `-a` is not what makes it one call.",
-        "Name the files, never a directory that may grow.",
-        "A command that lands names its own paths for the same reason.",
-      ],
-    },
-    {
       directiveKind: "principle",
       name: "Land In Pieces",
       act: "Split a change into landings that each stand on their own.",
