@@ -13,3 +13,27 @@ index 0000000000000000000000000000000000000000..036c88a7d196348bd46bded23d6d2a2e
 +  definition: "a change shown before the server has answered",
 +  partSlugs: ["module/convergence", "module/optimistic-mutation", "module/plan"],
 +} as const satisfies Domain
+diff --git a/pages/ui-store/query/pages-ui-store-query.domain.ts b/pages/ui-store/query/pages-ui-store-query.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..356a95cb644e416f6062763aaa498f89c7eb0771
+--- /dev/null
++++ b/pages/ui-store/query/pages-ui-store-query.domain.ts
+@@ -0,0 +1,18 @@
++import type { Domain } from "@akasha/domains/domain"
++
++export const pagesUiStoreQuery = {
++  id: "01a071cc-086c-740f-affb-d4471f64884e",
++  pageTypeSlug: "domain",
++  slug: "pages-ui-store-query",
++  definition: "a view read as a query the store runs",
++  partSlugs: [
++    "module/condition-eval",
++    "module/condition-expr",
++    "module/id-suffix-pipeline",
++    "module/regular-pipeline",
++    "module/sort-resolve",
++    "module/view-match",
++    "module/view-pipeline",
++    "module/view-target-slugs",
++  ],
++} as const satisfies Domain
