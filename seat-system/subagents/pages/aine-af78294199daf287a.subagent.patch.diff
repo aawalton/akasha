@@ -1,5 +1,5 @@
 diff --git a/commands/drive/drive.command.test.ts b/commands/drive/drive.command.test.ts
-index 5fce5473380e920bdab297acc45a40e82cae5497..a9de313f2900a9ae7e49811722e086e3d1a69699 100644
+index 5fce5473380e920bdab297acc45a40e82cae5497..144660a41a3e381308f82333a65fae81857762f0 100644
 --- a/commands/drive/drive.command.test.ts
 +++ b/commands/drive/drive.command.test.ts
 @@ -49,7 +49,7 @@ test("a flag with no value after it is refused", () => {
@@ -18,6 +18,15 @@ index 5fce5473380e920bdab297acc45a40e82cae5497..a9de313f2900a9ae7e49811722e086e3
 -test("a word standing after the consent act is refused", () => {
 +test("a word after the consent act is refused", () => {
    expect(refusedBy(["auth", "login", "extra"])[0]).toContain("names nothing in place")
+ })
+ 
+@@ -71,7 +71,7 @@ test("a folder named as a relative path is read against the repository root", ()
+   expect(folderOf("album", "/repo", "/called/from")).toBe("/repo/album")
+ })
+ 
+-test("a folder named as an absolute path stands as it is", () => {
++test("a folder named as an absolute path is taken as it is", () => {
+   expect(folderOf("/pictures/in", "/repo", "/called/from")).toBe("/pictures/in")
  })
  
 diff --git a/commands/drive/drive.command.ts b/commands/drive/drive.command.ts
