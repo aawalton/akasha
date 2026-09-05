@@ -10,7 +10,7 @@ export const explainReplayReading = {
     {
       invariantKind: "departure",
       statement:
-        "The walk is read back as the addon recorded it rather than run again on this side.",
+        "The walk is read back as the addon recorded that walk rather than run again on this side.",
     },
     {
       invariantKind: "departure",
