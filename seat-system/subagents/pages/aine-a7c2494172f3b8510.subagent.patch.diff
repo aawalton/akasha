@@ -14,7 +14,7 @@ index 45138866f557d409cd6b39163e6c9f720e5aa061..7035d08f5e4d372a1a3faf32dc5412ef
        rowed.set(pageType, got)
        return got
 diff --git a/markdown-pages/markdown-page-types/markdown-page-types.module.code.ts b/markdown-pages/markdown-page-types/markdown-page-types.module.code.ts
-index dafa98193db444268db4c3a3e614155b7776f99a..704b4bab2c3150666676e42ce1c130c6b1ad593d 100644
+index dafa98193db444268db4c3a3e614155b7776f99a..2692762f5d8f18e32c20ad029e590c18517823c1 100644
 --- a/markdown-pages/markdown-page-types/markdown-page-types.module.code.ts
 +++ b/markdown-pages/markdown-page-types/markdown-page-types.module.code.ts
 @@ -113,7 +113,7 @@ function suffixedIn(root: string): ReadonlyMap<string, readonly string[]> {
@@ -47,3 +47,12 @@ index dafa98193db444268db4c3a3e614155b7776f99a..704b4bab2c3150666676e42ce1c130c6
   * migration states two in the same repository — the markdown half and the akasha half. That is one
   * repository named twice, not two repositories, and a writer that counted the entries rather than
   * the repositories would refuse to write a page it can plainly place.
+@@ -356,7 +356,7 @@ const AKASHA_HELD = "ts"
+  * A page is a markdown file named `<stem>.<page-type>.md` or a TypeScript file named
+  * `<slug>.<page-type>.ts`, and only the markdown half was ever asked here. `pageTypeOf` is that
+  * half and says so in its own name — its module page is `markdown-page-type`, "the page type a
+- * markdown file's name carries" — so the akasha half stands beside it rather than inside it.
++ * markdown file's name carries" — so the akasha half sits beside it rather than inside it.
+  *
+  * A `.ts` name carrying anything between the page type and `.ts` names a file standing beside a
+  * page rather than a page. `page-beside.module.code.ts` is the code of the `page-beside` module
