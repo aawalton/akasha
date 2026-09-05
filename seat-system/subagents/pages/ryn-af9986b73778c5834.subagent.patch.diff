@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/inboxes/reading/inbox-reading.module.ts b/alan/harness/inboxes/reading/inbox-reading.module.ts
+index 8a2f8175421433d3176342c5f46d25e3beba0437..2fe9c394398484c84fb88eaa8a2075d09f7535a9 100644
+--- a/alan/harness/inboxes/reading/inbox-reading.module.ts
++++ b/alan/harness/inboxes/reading/inbox-reading.module.ts
+@@ -22,7 +22,7 @@ export const inboxReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "What to ask and how to read the answer are on each readout's own page.",
++      statement: "The question to ask and how to read the answer are on each readout's own page.",
+     },
+     {
+       invariantKind: "departure",
