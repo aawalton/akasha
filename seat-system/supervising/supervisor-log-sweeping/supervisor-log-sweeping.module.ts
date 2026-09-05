@@ -24,7 +24,7 @@ export const supervisorLogSweeping = {
     {
       invariantKind: "departure",
       statement:
-        "The window leaves a stopped seat's log readable for as long as somebody might open it.",
+        "The window leaves a stopped seat's log readable for as long as somebody might open that log.",
     },
     {
       invariantKind: "absence",
