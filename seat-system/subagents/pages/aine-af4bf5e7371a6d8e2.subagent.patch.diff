@@ -25,7 +25,7 @@ index 7dda160bb1986a708e11cf0f1013d86b25dfdaa5..aafb4796d7223feab7e55eafc55b37e7
      const warranting = warrantingIn(join(root, beside), slug)
      if (warranting === null) {
 diff --git a/context/modules/warranting/warranting.module.ts b/context/modules/warranting/warranting.module.ts
-index 414a7e194ce1dc3e5f94df1ae7d8eb480eb00cab..6c9e0b39aecd713b8444c97a41f069d331500124 100644
+index 414a7e194ce1dc3e5f94df1ae7d8eb480eb00cab..d65f1ebd787e2725be3b3b5baf292226360bef99 100644
 --- a/context/modules/warranting/warranting.module.ts
 +++ b/context/modules/warranting/warranting.module.ts
 @@ -53,7 +53,7 @@ export const warranting = {
@@ -55,11 +55,20 @@ index 414a7e194ce1dc3e5f94df1ae7d8eb480eb00cab..6c9e0b39aecd713b8444c97a41f069d3
      },
      {
        invariantKind: "departure",
+@@ -108,7 +108,7 @@ export const warranting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An agent standing at no page owes nothing of a page.",
++      statement: "An agent that sits at no page owes nothing of a page.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.code.ts b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.code.ts
-index 44d8c249af38c4909402a455b746bb2e0667d812..5518be268fbe88e27af3c876a43084ae7ecd9dc8 100644
+index 44d8c249af38c4909402a455b746bb2e0667d812..2870d4925b4d6592226713b95bbbe93403c1cd82 100644
 --- a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.code.ts
 +++ b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.code.ts
-@@ -121,8 +121,8 @@ export function unjudgedIn(root: string): ReadonlySet<string> {
+@@ -121,14 +121,14 @@ export function unjudgedIn(root: string): ReadonlySet<string> {
  
  export function termsIn(root: string): readonly Term[] {
    const found: Term[] = []
@@ -70,6 +79,13 @@ index 44d8c249af38c4909402a455b746bb2e0667d812..5518be268fbe88e27af3c876a43084ae
      if (value === null) continue
      const pattern = value["pattern"]
      if (typeof pattern !== "string") continue
+     const senses = sensesOf(value["tabooSenses"])
+     if (senses.length === 0) continue
+-    found.push({ path: standing.path, pattern, senses, kept: keptOf(value["keptSenses"]) })
++    found.push({ path: page.path, pattern, senses, kept: keptOf(value["keptSenses"]) })
+   }
+   return found
+ }
 diff --git a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts
 index cde895b4482e043b05e7e47fbc11e1cbdaa41126..f9146c1a3d143aa6223a3e008a61e26da4373337 100644
 --- a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts
@@ -168,10 +184,10 @@ index d4aba6e4657ccca0c45fe17e8b13776feb930f24..e8871f05b4ae54225c50bda79ae4d00a
      {
        invariantKind: "departure",
 diff --git a/context/warrants/file-property-file/file-property-file.context-warrant.code.ts b/context/warrants/file-property-file/file-property-file.context-warrant.code.ts
-index 6fdc51b195cca04d006995b1d1a7fa8ebd655c37..ef2fbce7ed636b9adfb4ff2f96480a26eb9d129d 100644
+index 6fdc51b195cca04d006995b1d1a7fa8ebd655c37..5d80d3a06961294873d4b4bc3abcb024276da7f6 100644
 --- a/context/warrants/file-property-file/file-property-file.context-warrant.code.ts
 +++ b/context/warrants/file-property-file/file-property-file.context-warrant.code.ts
-@@ -14,7 +14,7 @@ import {
+@@ -14,10 +14,10 @@ import {
  } from "../../modules/warranting/warranting.module.code.ts"
  
  export const PAGE =
@@ -179,9 +195,13 @@ index 6fdc51b195cca04d006995b1d1a7fa8ebd655c37..ef2fbce7ed636b9adfb4ff2f96480a26
 +  "A property's file answers to the page it sits beside, and that page states the property it holds."
  
  export const PROPERTY =
-   "What a property's file must hold is said on the property's own page, never on the page the file stands beside."
+-  "What a property's file must hold is said on the property's own page, never on the page the file stands beside."
++  "What a property's file must hold is said on the property's own page, never on the page the file sits beside."
+ 
+ const TS = "ts"
+ 
 diff --git a/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.code.ts b/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.code.ts
-index 0fd0db8b341b3fb8d3f354a8dcd889b7b4e64b85..8ef03e6a059fd41e22e00b3238459f9d840fc8ec 100644
+index 0fd0db8b341b3fb8d3f354a8dcd889b7b4e64b85..d235300024da7b22573fa7ddc428b1c37f3b0a83 100644
 --- a/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.code.ts
 +++ b/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.code.ts
 @@ -4,7 +4,7 @@ import { slugStated, typeStated } from "../../modules/agent-stated/agent-stated.
@@ -193,6 +213,17 @@ index 0fd0db8b341b3fb8d3f354a8dcd889b7b4e64b85..8ef03e6a059fd41e22e00b3238459f9d
  
  const INITIATIVE_TYPE = "initiative"
  
+@@ -12,8 +12,8 @@ const KEY = "assignmentSlug"
+ 
+ const PARENT_KEY = "parentSlug"
+ 
+-function aboveOf(root: string, standing: Listed): Listed | undefined {
+-  const value = valueAt(standing.path, root)
++function aboveOf(root: string, listed: Listed): Listed | undefined {
++  const value = valueAt(listed.path, root)
+   const named = value === null ? null : textAt(value, PARENT_KEY)
+   if (named === null) return undefined
+   return listedAddressed(root, named, INITIATIVE_TYPE) ?? undefined
 diff --git a/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.ts b/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.ts
 index 44542507c666361e7025968a7f74a30d7a8d84a0..0694c3b6186d6fe11c2cfc1ac38c771699723071 100644
 --- a/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.ts
