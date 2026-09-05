@@ -26,7 +26,7 @@ export const movementScoring = {
     },
     {
       invariantKind: "departure",
-      statement: "Weights summing to nothing blend as though they summed to one.",
+      statement: "Weights summing to nothing blend as though those weights summed to one.",
     },
     {
       invariantKind: "departure",
