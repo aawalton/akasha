@@ -82,7 +82,7 @@ export const moveParenting = {
     {
       invariantKind: "departure",
       statement:
-        "What a folder holds is read as the move leaves that folder rather than as that folder is now.",
+        "The files a folder holds are read as the move leaves that folder rather than as that folder is now.",
     },
     {
       invariantKind: "departure",
