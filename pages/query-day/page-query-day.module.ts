@@ -10,7 +10,7 @@ export const pageQueryDay = {
     {
       invariantKind: "departure",
       statement:
-        "The binder that reads this name and the resolver that fills it reach the same declaration.",
+        "The binder that reads this name and the resolver that fills that name reach the same declaration.",
     },
     {
       invariantKind: "absence",
