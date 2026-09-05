@@ -1,0 +1,17 @@
+diff --git a/infrastructure/inference-pool/provision-script/provision-script.module.ts b/infrastructure/inference-pool/provision-script/provision-script.module.ts
+index cc911ee6a59a5de826d4100479d8d7dee76e4e0d..fae5796c3ec6f3b0effd310ddf09f6c24e1fb14e 100644
+--- a/infrastructure/inference-pool/provision-script/provision-script.module.ts
++++ b/infrastructure/inference-pool/provision-script/provision-script.module.ts
+@@ -24,7 +24,11 @@ export const provisionScript = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A launchd bootstrap that fails on input/output or on being in progress is retried, and any other failure is raised.",
++        "A launchd bootstrap that fails on input/output or on being in progress is retried.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A launchd bootstrap that fails any other way is raised.",
+     },
+   ],
+ } as const satisfies Module
