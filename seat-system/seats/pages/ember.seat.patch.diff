@@ -67,6 +67,47 @@ index 0489bbbba7441353a25cd3579868df87baa828ec..22c05a07b403e90a82b1f69c7c76f6ee
      if (one.pageTypeSlug === ENTRY_PROPERTY && Array.isArray(value)) {
        const said = already[one.key]
        const ending = typeof said === "string" && said !== "" ? said : JSONL
+diff --git a/pages/system-service/page-composing/page-composing.module.ts b/pages/system-service/page-composing/page-composing.module.ts
+index d66eec41c861c8d5c29e436641d706473bb51811..8eda66096e0a87e3aa01f13e3d8ce505bfcf6c28 100644
+--- a/pages/system-service/page-composing/page-composing.module.ts
++++ b/pages/system-service/page-composing/page-composing.module.ts
+@@ -22,7 +22,7 @@ export const pageComposing = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A caller hands over no path and no body.",
++      statement: "A caller hands over no path.",
+     },
+     {
+       invariantKind: "departure",
+@@ -109,6 +109,27 @@ export const pageComposing = {
+       statement:
+         "A value under a file property names that file's ending rather than that file's body.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A caller may hand over the body a file property holds beside its ending.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That body is put at the file the ending names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body handed over for a key held in no file beside the page is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A body handed over for a file named rather than placed beside the page is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body handed over where nothing names the file's ending is refused.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A value under an entry property is the rows themselves or that file's ending.",
 diff --git a/pages/system-service/page-serving/page-serving.module.code.ts b/pages/system-service/page-serving/page-serving.module.code.ts
 index df0d0a7626fce70e2138496a3a5b139621f47876..d826880307a4cc33637ef867397d7c3b6079da10 100644
 --- a/pages/system-service/page-serving/page-serving.module.code.ts
