@@ -38,7 +38,7 @@ export const questsDecide = {
     },
     {
       invariantKind: "departure",
-      statement: "Leaving the dialogue forgets what the dialogue built up.",
+      statement: "Leaving the dialogue forgets the state the dialogue built up.",
     },
     {
       invariantKind: "absence",
