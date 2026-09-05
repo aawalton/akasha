@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/seat-system/supervising/supervisor-claude-config/supervisor-claude-config.module.ts b/seat-system/supervising/supervisor-claude-config/supervisor-claude-config.module.ts
+index a1154dfd54ab25d3f5598c055f6d5fb50d569cfc..dfeeaf8931ccfd20c34e296b5bf358a9cc8817d0 100644
+--- a/seat-system/supervising/supervisor-claude-config/supervisor-claude-config.module.ts
++++ b/seat-system/supervising/supervisor-claude-config/supervisor-claude-config.module.ts
+@@ -10,7 +10,7 @@ export const supervisorClaudeConfig = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A declared project entry is merged into the existing one rather than replacing it.",
++        "A declared project entry is merged into the existing entry rather than replacing that entry.",
+     },
+     {
+       invariantKind: "departure",
