@@ -121,3 +121,29 @@ index e7b7b97c2d028ce84ae166f1109ceea16fe702e0..a787cb393a9e63308ec5196518619d5f
  //
  // GONE IS SAID OUT LOUD RATHER THAN DRAWN AS EMPTY. A caller reads an empty list exactly as it
  // reads a true nothing, and only one of the two is a fault: a save that went unread is not a
+diff --git a/alan/web/routes/api.claude-usage.test.ts b/alan/web/routes/api.claude-usage.test.ts
+index c273e79bbe558aa7f5dbe98d9e16e85cd4b57035..5de1a9361e8cb5dbdd44ec17470a6debffb8ab98 100644
+--- a/alan/web/routes/api.claude-usage.test.ts
++++ b/alan/web/routes/api.claude-usage.test.ts
+@@ -2,7 +2,7 @@
+  * What the usage tile is allowed to say, and what it must refuse to say.
+  *
+  * This route moved off `@shared/pages-query`, whose store could not see the figures it reduces —
+- * they are declared `uncommitted` on the claude-account page type and stand beside each account's
++ * they are declared `uncommitted` on the claude-account page type and sit beside each account's
+  * page rather than in the commit — onto `@akasha/pages-system-service`, which reads them. The
+  * service reduces nothing, so the mean and the three "next instant" picks the four saved page
+  * queries carried are taken here over plain rows.
+diff --git a/alan/web/routes/api.claude-usage.ts b/alan/web/routes/api.claude-usage.ts
+index 84cb0167abf505873d5f64b4e287bbd6404326db..d0332529d6b6e81823b63abd936e02eba0b16625 100644
+--- a/alan/web/routes/api.claude-usage.ts
++++ b/alan/web/routes/api.claude-usage.ts
+@@ -19,7 +19,7 @@ export { type Asked, askingFor, type Query, type Row }
+ // THE FOUR SAVED QUERIES ARE ASKED OF THE PAGES HERE RATHER THAN NAMED AT THE OLD ENGINE. This
+ // route asked `@shared/pages-query` for four page-query pages by slug, and the store behind that
+ // engine holds only what a page states in the commit. Every figure the four reduce is declared
+-// `uncommitted` on the claude-account page type and stands in the file beside each account's page,
++// `uncommitted` on the claude-account page type and sits in the file beside each account's page,
+ // so the store answered a fleet it could see and none of what that fleet had spent. The pages
+ // system service reads the values beside a page as well as the ones in it, which is what makes
+ // asking it for these four an answer rather than an empty set.
