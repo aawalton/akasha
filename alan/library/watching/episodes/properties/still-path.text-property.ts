@@ -13,7 +13,7 @@ export const stillPath = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A still is a frame from the episode rather than artwork drawn for it.",
+      statement: "A still is a frame from the episode rather than artwork drawn for that episode.",
     },
   ],
 } as const satisfies TextProperty
