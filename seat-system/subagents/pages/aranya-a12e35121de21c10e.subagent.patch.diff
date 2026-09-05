@@ -1,3 +1,15 @@
+diff --git a/infrastructure/networks/network.domain.ts b/infrastructure/networks/network.domain.ts
+index a234e0d22fc597f50867496ff6ee11cdf8623f87..50a6f051ec680663157e17e85bae54946bce31a8 100644
+--- a/infrastructure/networks/network.domain.ts
++++ b/infrastructure/networks/network.domain.ts
+@@ -11,6 +11,7 @@ export const network = {
+     "manifest/cloudflared",
+     "manifest/ddns-headscale",
+     "manifest/headscale",
++    "manifest/tailnet-egress",
+     "workspace-package/auth-proxy",
+   ],
+   invariants: [
 diff --git a/infrastructure/networks/tailnet-egress/tailnet-egress.manifest.ts b/infrastructure/networks/tailnet-egress/tailnet-egress.manifest.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..c95ed8cfb1a41ebfcbaf3fa142551a6bbc58eb8a
