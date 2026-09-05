@@ -295,3 +295,11 @@ index d67f7004b9a95787541eff10651ff275cab2f4e8..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../id-minting
 \ No newline at end of file
+diff --git a/idle-system/idle-system b/idle-system/idle-system
+deleted file mode 120000
+index 4f0d5a4860a0151d2c3bc7fddd8ae451b4699dda..0000000000000000000000000000000000000000
+--- a/idle-system/idle-system
++++ /dev/null
+@@ -1 +0,0 @@
+-../../idle-system
+\ No newline at end of file
