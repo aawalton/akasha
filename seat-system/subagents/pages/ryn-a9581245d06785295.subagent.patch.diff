@@ -1,0 +1,13 @@
+diff --git a/service-system/workstation-services/service-installing/service-installing.module.ts b/service-system/workstation-services/service-installing/service-installing.module.ts
+index cb66d63a28fad8ba24edd28d86e9e2affd1f41ea..d14602627701751e1c6f5e1ad9a8f923e4767ca0 100644
+--- a/service-system/workstation-services/service-installing/service-installing.module.ts
++++ b/service-system/workstation-services/service-installing/service-installing.module.ts
+@@ -10,7 +10,7 @@ export const serviceInstalling = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A unit is written to a folder of ours and reached by a link systemd reads.",
++      statement: "A unit is written to a folder akasha owns and reached by a link systemd reads.",
+     },
+     {
+       invariantKind: "departure",
