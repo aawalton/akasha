@@ -38,7 +38,7 @@ index 6c71955a6d1b10a3dc87bc74baf06228287af8cf..db96dd56c4c836326f1bebc78876b018
        DATA
      )
 diff --git a/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.code.ts b/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.code.ts
-index 175fefc88bb56b1858b87191030ae08bc611e404..1c6d020fa05d349bf65189cc6bf796dc74fdd9dd 100644
+index 175fefc88bb56b1858b87191030ae08bc611e404..0bc97a8f195b6ca0c8726e5738f1dc074864a13b 100644
 --- a/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.code.ts
 +++ b/temper/temper-commands/temper-inventory-snapshot/temper-inventory-snapshot.command.code.ts
 @@ -31,7 +31,7 @@ const HELD = "json"
@@ -50,3 +50,12 @@ index 175fefc88bb56b1858b87191030ae08bc611e404..1c6d020fa05d349bf65189cc6bf796dc
  
  export type Read =
    | {
+@@ -93,7 +93,7 @@ export function readIn(argv: readonly string[]): Read {
+   return { named, latest, outPath, json }
+ }
+ 
+-function standingNamed(root: string, said: string): Standing | null {
++function pageNamed(root: string, said: string): Page | null {
+   const byId = listedById(root, said)
+   if (byId !== null) return { path: byId.path, id: byId.id }
+   const bySlug = listedAt(root, PAGE_TYPE, said)[0]
