@@ -1,0 +1,13 @@
+diff --git a/commands/calendar/calendar.command.ts b/commands/calendar/calendar.command.ts
+index 63f20feff994fe293337918c270deef400223abd..493b7b843d287ed23cd7bab8fcbb38ac75e56e13 100644
+--- a/commands/calendar/calendar.command.ts
++++ b/commands/calendar/calendar.command.ts
+@@ -120,7 +120,7 @@ export const calendar = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An update leaves every field the call does not name as it is.",
++      statement: "An update leaves every field the call does not name as that field is.",
+     },
+     {
+       invariantKind: "departure",
