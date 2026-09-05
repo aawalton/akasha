@@ -111,3 +111,11 @@ index 486c7043c3428d1367205dc62110436886d493bf..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../code-system
 \ No newline at end of file
+diff --git a/command-system/command-system b/command-system/command-system
+deleted file mode 120000
+index 36f16c198d4c58cd7296707cbf058a559d105ccf..0000000000000000000000000000000000000000
+--- a/command-system/command-system
++++ /dev/null
+@@ -1 +0,0 @@
+-../../command-system
+\ No newline at end of file
