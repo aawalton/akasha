@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/indexes/indexing/indexing.module.ts b/pages/indexes/indexing/indexing.module.ts
-index 24180ad4d7fdf1fb57116d368ff56223f934535a..a6ff6ba6ffd46e7dffa16c1ee5450a14abc8b9aa 100644
+index 24180ad4d7fdf1fb57116d368ff56223f934535a..430839918cb5ed426a20ba6c53b699b1b01dad20 100644
 --- a/pages/indexes/indexing/indexing.module.ts
 +++ b/pages/indexes/indexing/indexing.module.ts
 @@ -15,7 +15,8 @@ export const indexing = {
@@ -29,6 +29,15 @@ index 24180ad4d7fdf1fb57116d368ff56223f934535a..a6ff6ba6ffd46e7dffa16c1ee5450a14
 -      statement: "What a change withdraws is read against the world standing before the change.",
 +      statement:
 +        "The entries a change withdraws are read against the world standing before the change.",
+     },
+     {
+       invariantKind: "departure",
+@@ -118,7 +120,7 @@ export const indexing = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A settle reads off the relation index what the change that settle carries does not say.",
++        "A settle reads off the relation index the edges the change that settle carries does not say.",
      },
      {
        invariantKind: "departure",
