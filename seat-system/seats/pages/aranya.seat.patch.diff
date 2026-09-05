@@ -11,7 +11,7 @@ index 84f05eaea5528d441a026fa6d97e7eede888e31b..44f067685135a8edbf7cbb2fb6467d25
    "infrastructure/upscale/*-synth/*-synth.module.code.ts",
  ]
 diff --git a/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.test.ts b/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.test.ts
-index 5d13a46e479963ffc9b724be64e4c38c9a3aeeb1..719bd6eaa99b2082648db9efceb62459736a6cf3 100644
+index 5d13a46e479963ffc9b724be64e4c38c9a3aeeb1..8aa8da1dba5791128a4e54ce9d91a1861693757e 100644
 --- a/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.test.ts
 +++ b/infrastructure/k8s-synth/synth-discovery/synth-discovery.module.test.ts
 @@ -25,10 +25,9 @@ const SERVICES: readonly (readonly [string, string | null])[] = [
@@ -63,3 +63,14 @@ index 5d13a46e479963ffc9b724be64e4c38c9a3aeeb1..719bd6eaa99b2082648db9efceb62459
  })
  
  test("a manifest no cluster service is applied as is left out", () => {
+@@ -119,6 +114,8 @@ test("a manifest code path reads as a synth path", () => {
+ })
+ 
+ test("a glob path reads as a synth path still", () => {
+-  expect(isSynthPath("alpha/one.cluster-service.code.attachment.ts")).toBe(true)
+-  expect(isSynthPath("beta/src/three.cluster-service.code.attachment.ts")).toBe(false)
++  expect(isSynthPath("infrastructure/cluster-manifests/one-synth/one-synth.module.code.ts")).toBe(
++    true
++  )
++  expect(isSynthPath("infrastructure/cluster-manifests/one-synth/one-synth.module.ts")).toBe(false)
+ })
