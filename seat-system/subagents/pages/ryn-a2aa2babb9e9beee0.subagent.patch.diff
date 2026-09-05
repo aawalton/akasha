@@ -1,0 +1,17 @@
+diff --git a/alan/fitness/session-planning/session-planning.workspace-package.ts b/alan/fitness/session-planning/session-planning.workspace-package.ts
+index e1a0e2093abd2cd5e8ffa5b8adf0ed49bb84fb81..7b3190c95e42f0970a9bd28e6858b76e17d471f4 100644
+--- a/alan/fitness/session-planning/session-planning.workspace-package.ts
++++ b/alan/fitness/session-planning/session-planning.workspace-package.ts
+@@ -26,11 +26,7 @@ export const sessionPlanning = {
+       invariantKind: "departure",
+       statement: "One module reads pages and every other module takes values already narrowed.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The pages are read from the checkout this code runs in rather than over the service.",
+-    },
++
+     {
+       invariantKind: "departure",
+       statement:
