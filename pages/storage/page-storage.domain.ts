@@ -42,7 +42,7 @@ export const pageStorage = {
     {
       invariantKind: "departure",
       statement:
-        "The page a relation names is found by what the files say rather than by what the files are called.",
+        "The page a relation names is found by the files' contents rather than by the files' names.",
     },
     {
       invariantKind: "gap",
