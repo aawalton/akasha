@@ -26,7 +26,7 @@ export const route = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A route is reached by a url rather than by importing it.",
+      statement: "A route is reached by a url rather than by importing that route.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +34,7 @@ export const route = {
     },
     {
       invariantKind: "departure",
-      statement: "A route states the url path the router serves it under.",
+      statement: "A route states the url path the router serves that route under.",
     },
     {
       invariantKind: "departure",
