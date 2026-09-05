@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/temper/temper-watcher/watcher-import-completion/watcher-import-completion.module.ts b/temper/temper-watcher/watcher-import-completion/watcher-import-completion.module.ts
-index d7066777c8312d0f5b8f369bade7da49d93f8902..e266a0322649d0db28783e583712eae53d218db9 100644
+index d7066777c8312d0f5b8f369bade7da49d93f8902..4b14d1f07c35e9208ddd9e54d98e4de4acb43db3 100644
 --- a/temper/temper-watcher/watcher-import-completion/watcher-import-completion.module.ts
 +++ b/temper/temper-watcher/watcher-import-completion/watcher-import-completion.module.ts
 @@ -39,7 +39,7 @@ export const watcherImportCompletion = {
@@ -12,7 +12,7 @@ index d7066777c8312d0f5b8f369bade7da49d93f8902..e266a0322649d0db28783e583712eae5
      },
      {
        invariantKind: "departure",
-@@ -73,19 +73,19 @@ export const watcherImportCompletion = {
+@@ -73,23 +73,23 @@ export const watcherImportCompletion = {
      },
      {
        invariantKind: "departure",
@@ -33,6 +33,11 @@ index d7066777c8312d0f5b8f369bade7da49d93f8902..e266a0322649d0db28783e583712eae5
        invariantKind: "departure",
 -      statement: "A caller may hand in what reads the files beside pages.",
 +      statement: "A caller may hand in the read of the files beside pages.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A caller may hand in what writes the files beside pages.",
++      statement: "A caller may hand in the write of the files beside pages.",
      },
      {
        invariantKind: "departure",
