@@ -14,7 +14,8 @@ export const seatRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A stating that is refused is answered with what refused it rather than ended.",
+      statement:
+        "A stating that is refused is answered with the refusal's words rather than ended.",
     },
     {
       invariantKind: "departure",
