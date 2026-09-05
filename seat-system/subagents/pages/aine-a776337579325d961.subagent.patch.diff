@@ -39,7 +39,7 @@ index 9d5ebc056a2f9205c09cc3c5d87bdbe963540a2b..d572f29bcbd64f3c601e9e6114e53ead
    ],
  } as const satisfies SyntaxRule
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.test.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.test.ts
-index 8d0084ae1cb168354b35e05f3807d51ab04fa4a5..886d5ed350d76b890bda10eb1408e9ca84f57b67 100644
+index 8d0084ae1cb168354b35e05f3807d51ab04fa4a5..cda387ed64bd4ccab2d7e9d774c79a7abc41a43e 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.test.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.test.ts
 @@ -20,11 +20,11 @@ test("an assertion reaching through any is refused", () => {
@@ -56,8 +56,17 @@ index 8d0084ae1cb168354b35e05f3807d51ab04fa4a5..886d5ed350d76b890bda10eb1408e9ca
    expect(noDoubleCast(parsed("const one = held as unknown\n"))).toEqual([])
  })
  
+@@ -44,7 +44,7 @@ test("the angle-bracket spelling is read as `as` is", () => {
+   expect(noDoubleCast(parsed("const one = <Held><unknown>held\n"))).toHaveLength(1)
+ })
+ 
+-test("the line named is the line the assertion stands on", () => {
++test("the line named is the line the assertion is on", () => {
+   const said = noDoubleCast(parsed("const one = 1\nconst two = held as unknown as Held\n"))
+   expect(said[0]?.line).toBe(2)
+ })
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.ts
-index 808ca3261f486777f017708462272213489ce067..9aa8d814e25b03599e98402165aa4eac4871ae59 100644
+index 808ca3261f486777f017708462272213489ce067..17fe95ef984a9da74dd3dfbbe310852fc3b3cdda 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.ts
 @@ -10,11 +10,11 @@ export const noDoubleCast = {
@@ -83,3 +92,12 @@ index 808ca3261f486777f017708462272213489ce067..9aa8d814e25b03599e98402165aa4eac
      },
      {
        invariantKind: "departure",
+@@ -42,7 +42,7 @@ export const noDoubleCast = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "The two stand apart.",
++      statement: "The two sit apart.",
+     },
+   ],
+ } as const satisfies SyntaxRule
