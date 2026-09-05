@@ -23,8 +23,7 @@ export const monarchAmazonRefunds = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The order confirmations are read through the same reader the notes path uses, so one order is read one way.",
+      statement: "The order confirmations are read through the same reader the notes path uses.",
     },
     {
       invariantKind: "departure",
