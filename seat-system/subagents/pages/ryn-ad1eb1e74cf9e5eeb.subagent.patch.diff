@@ -1,5 +1,5 @@
 diff --git a/pages/indexes/indexing/indexing.module.ts b/pages/indexes/indexing/indexing.module.ts
-index 373ae8af558010699c02f3dbb285179288c8d71e..e381ff8e089eb9e4cac5cfad17fd387cfebae0ce 100644
+index 373ae8af558010699c02f3dbb285179288c8d71e..6edaa85ba9fe6b6d4e9f5d49d73372fc7882879a 100644
 --- a/pages/indexes/indexing/indexing.module.ts
 +++ b/pages/indexes/indexing/indexing.module.ts
 @@ -57,7 +57,7 @@ export const indexing = {
@@ -8,6 +8,16 @@ index 373ae8af558010699c02f3dbb285179288c8d71e..e381ff8e089eb9e4cac5cfad17fd387c
        invariantKind: "departure",
 -      statement: "A settle names on the stamp the paths it covered.",
 +      statement: "A settle names on the stamp the paths that settle covered.",
+     },
+     {
+       invariantKind: "departure",
+@@ -108,7 +108,8 @@ export const indexing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A rebuild and a settle hand in the pages naming each page they file.",
++      statement:
++        "A rebuild and a settle hand in the pages naming each page that rebuild and that settle file.",
      },
      {
        invariantKind: "departure",
