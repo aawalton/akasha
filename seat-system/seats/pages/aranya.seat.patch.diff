@@ -935,3 +935,11 @@ index ff477c836cc20828b52c4ca9fe5fa8d5d2b37214..00000000000000000000000000000000
 @@ -1 +0,0 @@
 -../../temper/temper-errors-addon
 \ No newline at end of file
+diff --git a/temper/temper-errors-triage/temper-errors-triage b/temper/temper-errors-triage/temper-errors-triage
+deleted file mode 120000
+index 609e0804b0aee734ef3db3a4d6222a1ebe794c59..0000000000000000000000000000000000000000
+--- a/temper/temper-errors-triage/temper-errors-triage
++++ /dev/null
+@@ -1 +0,0 @@
+-../../temper/temper-errors-triage
+\ No newline at end of file
