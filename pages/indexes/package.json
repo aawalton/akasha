@@ -18,7 +18,7 @@
     "./rebuilding": "./rebuilding/rebuilding.module.code.ts",
     "./relation": "./relation/index-relation.index.code.ts",
     "./shape": "./shape/index-shape.module.code.ts",
-    "./stamp": "./index-stamp/index-stamp.module.code.ts",
+    "./stamp": "./stamp/index-stamp.module.code.ts",
     "./testing": "./reading/index-reading.module.test-fixtures.ts"
   }
 }

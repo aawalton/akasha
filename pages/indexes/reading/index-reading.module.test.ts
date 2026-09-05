@@ -3,8 +3,8 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { said as gitIn } from "@akasha/git/git-running"
-import { stampKept } from "../index-stamp/index-stamp.module.code.ts"
 import { indexAt, indexIn } from "../index-surface/index-surface.module.code.ts"
+import { stampKept } from "../stamp/index-stamp.module.code.ts"
 import {
   everyPath,
   importersOf,

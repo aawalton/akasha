@@ -5,7 +5,6 @@ import { partedIn } from "@akasha/pages-system/page-file-name"
 import type { Value } from "@akasha/pages-system/page-value"
 import { indexIdentity } from "../identity/index-identity.index.ts"
 import { indexImport } from "../import/index-import.index.ts"
-import { staleFor } from "../index-stamp/index-stamp.module.code.ts"
 import {
   beneath,
   INDEX_AT,
@@ -17,6 +16,7 @@ import { indexPath } from "../path/index-path.index.ts"
 import { indexRelation } from "../relation/index-relation.index.ts"
 import { indexSchema } from "../schema/index-schema.index.ts"
 import type { Reading } from "../shape/index-shape.module.code.ts"
+import { staleFor } from "../stamp/index-stamp.module.code.ts"
 import { indexValue } from "../value/index-value.index.ts"
 
 export type Listed = {
