@@ -32,7 +32,7 @@ export const read = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A read returns the whole file or what changed after the agent read the file.",
+      statement: "A read returns the whole file or the difference since the agent read the file.",
     },
     {
       invariantKind: "departure",
@@ -44,12 +44,13 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "What changed comes back only where what changed is shorter than the whole file.",
+      statement:
+        "The difference comes back only where the difference is shorter than the whole file.",
     },
     {
       invariantKind: "departure",
       statement:
-        "What changed is worked out against the body the record names and against no other.",
+        "The difference is worked out against the body the record names and against no other.",
     },
     {
       invariantKind: "departure",
@@ -63,7 +64,7 @@ export const read = {
     {
       invariantKind: "departure",
       statement:
-        "A read of a body that is not UTF-8 text returns what the body is instead of the body.",
+        "A read of a body that is not UTF-8 text returns a description of the body instead of the body.",
     },
     {
       invariantKind: "departure",
@@ -79,7 +80,7 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "A body past what one answer holds comes back a run of lines at a time.",
+      statement: "A body past the bytes one answer holds comes back a run of lines at a time.",
     },
     {
       invariantKind: "departure",
@@ -116,7 +117,7 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "No call returns a body past what one answer holds.",
+      statement: "No call returns a body past the bytes one answer holds.",
     },
     {
       invariantKind: "departure",
@@ -128,7 +129,7 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "The call for what is left over is priced as that call is printed.",
+      statement: "The call for the rest is priced as that call is printed.",
     },
     {
       invariantKind: "departure",
@@ -160,7 +161,7 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "A read hands back what the file the read names warrants.",
+      statement: "A read hands back the files the file the read names warrants.",
     },
     {
       invariantKind: "departure",
@@ -169,7 +170,7 @@ export const read = {
     {
       invariantKind: "departure",
       statement:
-        "What a warrant names is asked what the named file warrants only where the warrant is transitive.",
+        "A file a warrant names is asked what that file warrants only where the warrant is transitive.",
     },
     {
       invariantKind: "departure",
