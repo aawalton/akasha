@@ -111,21 +111,3 @@ export function parseForest(answer: unknown): ForestAnswer {
     subagentPages: repo === null ? [] : parseSubagentPages(answer),
   }
 }
-
-export function parseStateColor(answer: unknown, state: string): string {
-  if (answer === null || typeof answer !== "object") {
-    throw new Error("agent-turn-colors: the answer is not an object, so it names no color")
-  }
-  const held = answer as { colors?: unknown; colours?: unknown }
-  const colors = held.colors ?? held.colours
-  if (colors === null || colors === undefined || typeof colors !== "object") {
-    throw new Error(
-      "agent-turn-colors: the answer carries neither a `colors` nor a `colours` record"
-    )
-  }
-  const named = (colors as Record<string, unknown>)[state]
-  if (typeof named !== "string" || named === "") {
-    throw new Error(`agent-turn-colors: nothing was answered for the \`${state}\` state`)
-  }
-  return named
-}

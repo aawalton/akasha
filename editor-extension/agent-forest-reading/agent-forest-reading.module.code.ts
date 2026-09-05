@@ -3,13 +3,11 @@ import {
   agentPagesIn,
   assembleForest,
   countRunning,
-  WORKING,
 } from "../agent-forest/agent-forest.module.code.ts"
 import {
   type ForestAnswer,
   type HarnessRow,
   parseForest,
-  parseStateColor,
 } from "../agent-forest-answer/agent-forest-answer.module.code.ts"
 import type { AgentNode } from "../agent-row/agent-row.module.code.ts"
 import { readSeatPlaces } from "../agent-tree-lookup/agent-tree-lookup.module.code.ts"
@@ -20,23 +18,6 @@ import type {
 } from "../subagent-reading/subagent-reading.module.code.ts"
 import { seatTranscriptOf } from "../transcript-sources/transcript-sources.module.code.ts"
 
-// ASKED ONCE AND HELD FOR AS LONG AS THIS READER LIVES. The color is a child process to ask for,
-// and the fleet is read every second, so asking again on each read would cost a bun startup a
-// second for an answer that moves when Alan rewrites a turn state's page and at no other time.
-let workingColorHeld: string | undefined | null = null
-
-async function workingColor(): Promise<string | undefined> {
-  if (workingColorHeld === null) {
-    try {
-      const answered = await askHarness("agent-turn-colors", ["--state", WORKING])
-      workingColorHeld = parseStateColor(answered, WORKING)
-    } catch {
-      workingColorHeld = undefined
-    }
-  }
-  return workingColorHeld
-}
-
 export interface AgentForest {
   readonly roots: readonly AgentNode[]
   readonly alanPrincipalCount: number
@@ -45,7 +26,15 @@ export interface AgentForest {
   readonly unreadSaid: string | undefined
 }
 
-export async function readAgentForest(subagents: SubagentReader): Promise<AgentForest> {
+// THE WORKING TURN'S COLOR IS GIVEN RATHER THAN READ HERE. This runs in the editor's host, which
+// holds no transpiler and so cannot open the page stating that color; asking a command for it cost
+// a child process, which is why the answer used to be held for the life of the reader and went on
+// being drawn after Alan had rewritten the page. The caller reads the page instead, and reads it
+// again every time, so what is drawn is what the page says now.
+export async function readAgentForest(
+  subagents: SubagentReader,
+  workingColor: string | undefined
+): Promise<AgentForest> {
   const answer: ForestAnswer = parseForest(await askHarness("agent-forest"))
   const rows: readonly HarnessRow[] = answer.rows
   const liveIds = new Set(rows.filter((row) => row.live).map((row) => row.id))
@@ -81,7 +70,7 @@ export async function readAgentForest(subagents: SubagentReader): Promise<AgentF
     liveIds,
     running,
     places,
-    await workingColor(),
+    workingColor,
     answer.repo,
     agentPagesIn(answer)
   )

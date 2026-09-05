@@ -49,14 +49,6 @@ export const agentForestAnswer = {
       statement: "An answer naming no repository carries no subagent page.",
     },
     {
-      invariantKind: "departure",
-      statement: "A turn color is read from `colors` or from `colours`, whichever is carried.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "A state the answer names no color for is refused.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here says which subagents are running.",
     },

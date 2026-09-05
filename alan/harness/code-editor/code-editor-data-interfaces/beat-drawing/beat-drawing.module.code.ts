@@ -8,6 +8,7 @@
 // The reading itself is the editor's own, imported rather than written again. `readAgentForest`
 // holds no editor in it: what it reaches is the harness, a transcript and the seat pages.
 
+import { colorOfState } from "@akasha/seat-system/seat-turn-color"
 import { readAgentForest } from "../../../../../editor-extension/agent-forest-reading/agent-forest-reading.module.code.ts"
 import { drawGroup } from "../../../../../editor-extension/group-stoplights/group-stoplights.module.code.ts"
 import { readUsage } from "../../../../../editor-extension/status-bar-usage/status-bar-usage.module.code.ts"
@@ -47,8 +48,11 @@ function agentRow(node: AgentNodeIn): AgentTreeRow {
   }
 }
 
+// THE WORKING TURN'S COLOR, READ OFF ITS PAGE ON EVERY BEAT. Reading it opens one small file, so
+// there is nothing worth holding: a color held for the life of the service goes on being drawn
+// after Alan has rewritten the page stating it, and nothing would say so.
 export async function agentTreeLine(): Promise<string> {
-  const read = await readAgentForest(createSubagentReader())
+  const read = await readAgentForest(createSubagentReader(), colorOfState("working") ?? undefined)
   return JSON.stringify({
     roots: read.roots.map((node) => agentRow(node as AgentNodeIn)),
     alanPrincipalCount: read.alanPrincipalCount,

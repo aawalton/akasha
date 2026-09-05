@@ -17,6 +17,10 @@ export const beatDrawing = {
     },
     {
       invariantKind: "departure",
+      statement: "The working turn's color is read off its page on every beat rather than held.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A section of the status bar that could not be read is null.",
     },
     {
