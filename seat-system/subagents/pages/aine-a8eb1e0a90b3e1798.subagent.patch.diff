@@ -1,5 +1,5 @@
 diff --git a/seat-system/supervising/agent-hook-registration/agent-hook-registration.module.code.ts b/seat-system/supervising/agent-hook-registration/agent-hook-registration.module.code.ts
-index 18017d90b305961d02d567c99ae9cb82cac76904..916b3021b76fdb806a0b7e17f48efdd506606cf9 100644
+index 18017d90b305961d02d567c99ae9cb82cac76904..ec6f3a51ad06bdbee94e0469f31b259221fa2043 100644
 --- a/seat-system/supervising/agent-hook-registration/agent-hook-registration.module.code.ts
 +++ b/seat-system/supervising/agent-hook-registration/agent-hook-registration.module.code.ts
 @@ -60,22 +60,22 @@ export function commandFor(codePath: string): string {
@@ -31,6 +31,17 @@ index 18017d90b305961d02d567c99ae9cb82cac76904..916b3021b76fdb806a0b7e17f48efdd5
      if (!existsSync(join(root, codePath))) {
        throw new Error(`\`${String(slug)}\` is an agent hook and ${codePath} is not there to run`)
      }
+@@ -108,8 +108,8 @@ export function hooksMerged(
+       ? { ...(stated as Record<string, unknown>) }
+       : {}
+   for (const [event, registrations] of Object.entries(derived)) {
+-    const standing = held[event]
+-    held[event] = Array.isArray(standing) ? [...standing, ...registrations] : [...registrations]
++    const already = held[event]
++    held[event] = Array.isArray(already) ? [...already, ...registrations] : [...registrations]
+   }
+   return held
+ }
 diff --git a/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.code.ts b/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.code.ts
 index 30b772d66961419d20a28102eec9c87df34b8ff3..0afbf36f0c5e64eaea300ef7e985736f61304443 100644
 --- a/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.code.ts
