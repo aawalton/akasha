@@ -1,0 +1,13 @@
+diff --git a/checks/modules/change-walking/change-walking.module.code.ts b/checks/modules/change-walking/change-walking.module.code.ts
+index d85de9d8fd0df1317fd59c3ee943b58f7c9a4ac0..5beec658cf438d0ec337bda1f58c65c053206486 100644
+--- a/checks/modules/change-walking/change-walking.module.code.ts
++++ b/checks/modules/change-walking/change-walking.module.code.ts
+@@ -277,7 +277,7 @@ export function onDisk(root: string): (path: string) => Uint8Array | null {
+       return readFileSync(join(root, path))
+     } catch (thrown) {
+       if (isMissing(thrown)) return null
+-      throw thrown
++      throw new Error(`${path} is there and would not open — ${String(thrown)}`)
+     }
+   }
+ }
