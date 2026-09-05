@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/views/properties/view-sorts.record-property.ts b/pages/views/properties/view-sorts.record-property.ts
+index f9fae7042508a5c5edd4609e490653a82f3058a2..a4e2454dc0b448fdea573fb184bfbe175058962f 100644
+--- a/pages/views/properties/view-sorts.record-property.ts
++++ b/pages/views/properties/view-sorts.record-property.ts
+@@ -23,7 +23,7 @@ export const viewSorts = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The keys are weighed in the order they are stated.",
++      statement: "The keys are weighed in the order the keys are stated.",
+     },
+     {
+       invariantKind: "departure",
