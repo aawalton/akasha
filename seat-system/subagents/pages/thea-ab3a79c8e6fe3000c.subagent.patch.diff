@@ -75,7 +75,7 @@ index b0251a07e029bc022351840990adf6cfcff05ee9..dc59bc47a0763e5c0bb5d4f68aeba9b8
    ],
  } as const satisfies Module
 diff --git a/commands/refactor/refactor.command.ts b/commands/refactor/refactor.command.ts
-index eb43944539056a61523e90cb8965958be7d0a545..80d7841c1c9c1712d5657e0195b630925fa474b8 100644
+index eb43944539056a61523e90cb8965958be7d0a545..d81c677723d2e8877b3a4b0a8add995429823e9f 100644
 --- a/commands/refactor/refactor.command.ts
 +++ b/commands/refactor/refactor.command.ts
 @@ -56,7 +56,8 @@ export const refactor = {
@@ -88,3 +88,18 @@ index eb43944539056a61523e90cb8965958be7d0a545..80d7841c1c9c1712d5657e0195b63092
      "a name is named by the file exporting it, since one name is carried by many files.",
      "a name is renamed where the checker resolves to it rather than where a body spells it.",
      "--line picks one where the file declares that name in more than one place.",
+@@ -166,6 +167,14 @@ export const refactor = {
+       invariantKind: "departure",
+       statement: "Every place the checker resolves to a renamed key is respelled in one commit.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A key rename carries every file beside a page named for the key it renames.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file a key rename carries arrives under the name the new key makes.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "Every place the checker resolves to a renamed name is respelled in one commit.",
