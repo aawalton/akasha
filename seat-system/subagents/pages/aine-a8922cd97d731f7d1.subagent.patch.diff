@@ -1,5 +1,5 @@
 diff --git a/checks/modules/change-walking/change-walking.module.ts b/checks/modules/change-walking/change-walking.module.ts
-index 8330360b1d34e6e5b770df87a572a43486a61ecf..6271446bec4f7b728002dff71e1d0723ab6578cd 100644
+index 8330360b1d34e6e5b770df87a572a43486a61ecf..5da308ded932096f9e0ebb1a99cfa98fe5d4f225 100644
 --- a/checks/modules/change-walking/change-walking.module.ts
 +++ b/checks/modules/change-walking/change-walking.module.ts
 @@ -38,11 +38,11 @@ export const changeWalking = {
@@ -16,3 +16,12 @@ index 8330360b1d34e6e5b770df87a572a43486a61ecf..6271446bec4f7b728002dff71e1d0723
      },
      {
        invariantKind: "departure",
+@@ -72,7 +72,7 @@ export const changeWalking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A refusal for a body that is not text names the path that body stands at.",
++      statement: "A refusal for a body that is not text names the path that body is at.",
+     },
+     {
+       invariantKind: "gap",
