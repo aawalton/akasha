@@ -16,8 +16,8 @@ export const personaPageType = {
       statement: "A seat warrants the type of the persona the seat states.",
     },
     {
-      invariantKind: "departure",
-      statement: "A seat warrants every type that the persona's type extends.",
+      invariantKind: "absence",
+      statement: "A seat warrants no type that the persona's type extends.",
     },
     {
       invariantKind: "departure",
