@@ -1,0 +1,15 @@
+diff --git a/changes/atomic-changes/atomic-change.page-type.ts b/changes/atomic-changes/atomic-change.page-type.ts
+index ea156fc85aab42a591dc7e1688b391ee92e79a6c..80eb10580f75e9182d431f92ee01038af01cf003 100644
+--- a/changes/atomic-changes/atomic-change.page-type.ts
++++ b/changes/atomic-changes/atomic-change.page-type.ts
+@@ -21,6 +21,10 @@ export const atomicChange = {
+       invariantKind: "departure",
+       statement: "A change to two things is two atomic changes.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "An atomic change runs no atomic change.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "An atomic change lands every file the thing reaches, or none of them.",
