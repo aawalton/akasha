@@ -251,3 +251,16 @@ index 3b78496f64cfa5166574e37019bb177cdb80eb0c..e9d6b34c99496cb885e124b3ad9bc961
  test("a path a rename left the body at is the path named", async () => {
    const root = await repo()
    drafting(root)
+diff --git a/commands/patch/patch.command.ts b/commands/patch/patch.command.ts
+index f4fc4c2f63bbdeaeb9f34f175cf7c272aa57f117..f6a7b38f172230288c86e8e83254e2dc590c307b 100644
+--- a/commands/patch/patch.command.ts
++++ b/commands/patch/patch.command.ts
+@@ -10,7 +10,7 @@ export const patch = {
+   changeKindSlug: "change-authored",
+   taking: [
+     { said: "apply", takes: "the act, which is to land the patch through the gate as one commit" },
+-    { said: "drop", takes: "the act, which is to take the patch away without landing it" },
++    { said: "drop", takes: "the act, which is to take the patch away, or one path out of it" },
+     { said: "show", takes: "the act, which is to say the body the patch would leave at one path" },
+     { said: "resolve", takes: "the act, which is to replace the body the patch holds at one path" },
+     { said: "--file-path <path>", takes: "the path a show or a resolve acts on" },
