@@ -63,7 +63,7 @@ export const committing = {
     },
     {
       invariantKind: "departure",
-      statement: "A wait on the index gives up after thirty seconds and throws what git said.",
+      statement: "A wait on the index gives up after thirty seconds and throws the words git said.",
     },
     {
       invariantKind: "departure",
@@ -75,12 +75,12 @@ export const committing = {
     },
     {
       invariantKind: "departure",
-      statement: "A change asking for what is already there commits nothing.",
+      statement: "A change asking for the tree that is already there commits nothing.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A change asking for what is already there answers as nothing rather than as a commit.",
+        "A change asking for the tree that is already there answers as nothing rather than as a commit.",
     },
     {
       invariantKind: "departure",
@@ -96,7 +96,7 @@ export const committing = {
     },
     {
       invariantKind: "departure",
-      statement: "What git says on the error stream is caught rather than shown.",
+      statement: "The words git says on the error stream are caught rather than shown.",
     },
     {
       invariantKind: "absence",
@@ -112,11 +112,13 @@ export const committing = {
     },
     {
       invariantKind: "absence",
-      statement: "A caller has written what that caller asked for before this module is reached.",
+      statement:
+        "A caller has written the files that caller asked for before this module is reached.",
     },
     {
       invariantKind: "absence",
-      statement: "A caller puts back what that caller asked for itself where this module throws.",
+      statement:
+        "A caller puts back the files that caller asked for itself where this module throws.",
     },
   ],
 } as const satisfies Module
