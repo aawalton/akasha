@@ -16,7 +16,7 @@ export const pageMatchesItsType = {
     {
       invariantKind: "departure",
       statement:
-        "What a page must carry is read from its page type and the types above that page type.",
+        "The properties a page must carry are read from its page type and the types above that page type.",
     },
     {
       invariantKind: "departure",
@@ -138,8 +138,7 @@ export const pageMatchesItsType = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What counts as a page being created is read from the change and not from the disk.",
+      statement: "Whether a page is being created is read from the change and not from the disk.",
     },
     {
       invariantKind: "departure",
