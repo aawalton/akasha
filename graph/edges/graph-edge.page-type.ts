@@ -37,7 +37,7 @@ export const graphEdge = {
     },
     {
       invariantKind: "departure",
-      statement: "One doing both says on each edge which it was.",
+      statement: "One doing both says on each edge which that edge was.",
     },
     {
       invariantKind: "departure",
