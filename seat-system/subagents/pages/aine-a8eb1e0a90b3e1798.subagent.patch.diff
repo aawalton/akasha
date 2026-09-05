@@ -31,7 +31,7 @@ index 41cbb425c4ffcc18ae75bccf0f31e9a8c74bc1ba..a8d7f44a1caeae5cd9b7ff11343ba50d
        `akasha/persona-system/personas/${SLUG_MARK}/${SLUG_MARK}.persona.ts`
      )
 diff --git a/seat-system/terminal-init/document-standing/document-standing.module.ts b/seat-system/terminal-init/document-standing/document-standing.module.ts
-index 513a96731ba5abd442823d8e354f022db2d67ff9..3ca23cf1f6af21745ab84196d592249146b23d10 100644
+index 513a96731ba5abd442823d8e354f022db2d67ff9..399864b5c7b3784d0df08c4da223b9f1ebb577cc 100644
 --- a/seat-system/terminal-init/document-standing/document-standing.module.ts
 +++ b/seat-system/terminal-init/document-standing/document-standing.module.ts
 @@ -4,17 +4,17 @@ export const documentStanding = {
@@ -52,6 +52,16 @@ index 513a96731ba5abd442823d8e354f022db2d67ff9..3ca23cf1f6af21745ab84196d5922491
        invariantKind: "departure",
 -      statement: "A shape is one standing page's own path with its slug blanked out.",
 +      statement: "A shape is the path of a page that is there, with its slug blanked out.",
+     },
+     {
+       invariantKind: "departure",
+@@ -23,8 +23,7 @@ export const documentStanding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Every shape the standing pages take is asked, so a tree half moved still answers.",
++      statement: "Every shape the pages there take is asked, so a tree half moved still answers.",
      },
      {
        invariantKind: "departure",
