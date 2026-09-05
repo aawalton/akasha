@@ -35,7 +35,8 @@ export const claudeAccountReading = {
     },
     {
       invariantKind: "departure",
-      statement: "What is observed of an account is read from the file beside that account's page.",
+      statement:
+        "The values observed of an account are read from the file beside that account's page.",
     },
     {
       invariantKind: "departure",
