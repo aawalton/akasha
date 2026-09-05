@@ -27,7 +27,8 @@ export const channelDelivery = {
     },
     {
       invariantKind: "departure",
-      statement: "A message still unseen more than four turns after it was queued is lost.",
+      statement:
+        "A message still unseen more than four turns after that message was queued is lost.",
     },
     {
       invariantKind: "departure",
