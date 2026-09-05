@@ -48,7 +48,7 @@ index f3aacda68f86584787b9fd2ab507937cddf9d799..7600be877c23fe0bd1477e46e4908507
    invariants: [
      {
 diff --git a/persona-system/persona-images/persona-image.page-type.ts b/persona-system/persona-images/persona-image.page-type.ts
-index 8a2861ce0ae1dffa987dfa5c5b4e14a3945f3845..7d9490b89600c299e0ec68337c4cdad946f45282 100644
+index 8a2861ce0ae1dffa987dfa5c5b4e14a3945f3845..369b659b259309b700d6a16a4cb9545527b49832 100644
 --- a/persona-system/persona-images/persona-image.page-type.ts
 +++ b/persona-system/persona-images/persona-image.page-type.ts
 @@ -37,7 +37,7 @@ export const personaImage = {
@@ -60,11 +60,20 @@ index 8a2861ce0ae1dffa987dfa5c5b4e14a3945f3845..7d9490b89600c299e0ec68337c4cdad9
      },
      {
        invariantKind: "departure",
+@@ -45,7 +45,7 @@ export const personaImage = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "No page of this type stands on its own.",
++      statement: "No page of this type is on its own.",
+     },
+   ],
+ } as const satisfies PageType
 diff --git a/persona-system/persona-images/properties/image-path.text-property.ts b/persona-system/persona-images/properties/image-path.text-property.ts
-index 0a5cb1ff71f21815e8bb18b913455ed5ae4e19d7..e331e5d8614c677a63907bab0d18bac23445917b 100644
+index 0a5cb1ff71f21815e8bb18b913455ed5ae4e19d7..e7c1b51bac6b43c5de397b538c75ed3d643cdb95 100644
 --- a/persona-system/persona-images/properties/image-path.text-property.ts
 +++ b/persona-system/persona-images/properties/image-path.text-property.ts
-@@ -7,7 +7,7 @@ export const imagePath = {
+@@ -7,13 +7,13 @@ export const imagePath = {
    pageTypeSlug: "text-property",
    slug: "image-path",
    propertySlug: "image-path",
@@ -73,11 +82,18 @@ index 0a5cb1ff71f21815e8bb18b913455ed5ae4e19d7..e331e5d8614c677a63907bab0d18bac2
    max: 300,
    nameFormatSlug: null,
    invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A path already absolute is read as it stands rather than against a root.",
++      statement: "A path already absolute is read as it is rather than against a root.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/persona-system/persona-reading/persona-reading.module.code.ts b/persona-system/persona-reading/persona-reading.module.code.ts
-index 04a3d2414a07c2b3379b737306f0117f4a179883..763b105e159b2fde2082571bdd9190dcb9a5395a 100644
+index 04a3d2414a07c2b3379b737306f0117f4a179883..d46d261367ee18ad01b380eb794c89300a1c1d9c 100644
 --- a/persona-system/persona-reading/persona-reading.module.code.ts
 +++ b/persona-system/persona-reading/persona-reading.module.code.ts
-@@ -49,7 +49,7 @@ function portraitIn(path: string, value: Value): string | null {
+@@ -49,24 +49,24 @@ function portraitIn(path: string, value: Value): string | null {
    if (held === null) return null
    const beside = besideAt(path, PORTRAIT, held)
    if (beside === null) {
@@ -86,6 +102,29 @@ index 04a3d2414a07c2b3379b737306f0117f4a179883..763b105e159b2fde2082571bdd9190dc
    }
    return beside
  }
+ 
+-function personaFrom(root: string, standing: Listed): Persona {
+-  const value = loadedFrom(root, standing.path)
++function personaFrom(root: string, listed: Listed): Persona {
++  const value = loadedFrom(root, listed.path)
+   const slug = textAt(value, "slug")
+   if (slug === null) {
+-    throw new Error(`${standing.path} is a persona page and states no slug, so nothing names her`)
++    throw new Error(`${listed.path} is a persona page and states no slug, so nothing names her`)
+   }
+   return {
+-    id: standing.id,
++    id: listed.id,
+     slug,
+-    path: standing.path,
++    path: listed.path,
+     definition: textAt(value, "definition"),
+     purpose: textAt(value, "purpose"),
+-    portraitPath: portraitIn(standing.path, value),
++    portraitPath: portraitIn(listed.path, value),
+     roleSlug: textAt(value, "roleSlug"),
+     valueSlug: textAt(value, "valueSlug"),
+     origin: textAt(value, "origin"),
 diff --git a/persona-system/persona-wallpaper-notifications/persona-wallpaper-notification.page-type.ts b/persona-system/persona-wallpaper-notifications/persona-wallpaper-notification.page-type.ts
 index 3f24664cb5f441e6cce5270b7287193a0a9a9db2..146df8cc5a0a8c55313fe6f331e4ffbef3a1c2d2 100644
 --- a/persona-system/persona-wallpaper-notifications/persona-wallpaper-notification.page-type.ts
@@ -126,10 +165,10 @@ index 03b8ec51afb97dbcd501d4624eaba6510be2a1a8..d3083d5360dc0ec4d286169069b8358d
    ],
  } as const satisfies TextProperty
 diff --git a/persona-system/personas/properties/value-slug.text-property.ts b/persona-system/personas/properties/value-slug.text-property.ts
-index a8ce0ea59885d84892daf0b122e328343d195767..7340c8a732f03ab6448bb4e130cc34884b4facf3 100644
+index a8ce0ea59885d84892daf0b122e328343d195767..5373241a9f5ad396a1498a2994cff8557dd26ab1 100644
 --- a/persona-system/personas/properties/value-slug.text-property.ts
 +++ b/persona-system/personas/properties/value-slug.text-property.ts
-@@ -7,7 +7,7 @@ export const valueSlug = {
+@@ -7,13 +7,13 @@ export const valueSlug = {
    pageTypeSlug: "text-property",
    slug: "value-slug",
    propertySlug: "value-slug",
@@ -138,6 +177,13 @@ index a8ce0ea59885d84892daf0b122e328343d195767..7340c8a732f03ab6448bb4e130cc3488
    max: 100,
    nameFormatSlug: "name-format/lower-kebab-case",
    invariants: [
+     {
+       invariantKind: "stopgap",
+-      statement: "The six values a persona stands for do not stand as pages.",
++      statement: "The six values a persona represents are not pages.",
+     },
+     {
+       invariantKind: "gap",
 diff --git a/persona-system/questions/properties/question-ask.text-property.ts b/persona-system/questions/properties/question-ask.text-property.ts
 index f781a5733b6181ca780e38cf5c16d720d69d9908..060f73be4dfaed91ee2f7aafa122102f9482d61e 100644
 --- a/persona-system/questions/properties/question-ask.text-property.ts
