@@ -1,6 +1,8 @@
 const SCALAR = /^([a-z][a-z0-9-]*): ?(.*)$/
 
-const OPENS = /^([a-z][a-z0-9-]*) (\S+)$/
+// A body reads as whole lines, so a caller naming a passage that ends mid-line says so on the
+// opening line, the closing fence being a line of its own either way.
+const OPENS = /^([a-z][a-z0-9-]*) (\S+)( no-newline)?$/
 
 export type Given = Readonly<Record<string, string>>
 
@@ -38,6 +40,7 @@ export function readingIn(text: string): Read {
     if (opened === null) return { refused: neither(at, line) }
     const key = opened[1] as string
     const fence = opened[2] as string
+    const lined = opened[3] === undefined
     if (key in given) return { refused: twice(key) }
     const held: string[] = []
     let closed = false
@@ -51,7 +54,8 @@ export function readingIn(text: string): Read {
       held.push(`${one ?? ""}\n`)
     }
     if (!closed) return { refused: unclosed(key, fence) }
-    given[key] = held.join("")
+    const body = held.join("")
+    given[key] = lined ? body : body.slice(0, -1)
   }
   return { given }
 }

@@ -34,6 +34,15 @@ export const argumentReading = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A body whose opening line closes with `no-newline` drops the newline off its last line.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A passage ending mid-line is said that way and no other way.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Nothing in a body is escaped.",
     },
     {

@@ -70,3 +70,28 @@ test("a line of neither form refuses the whole reading", () => {
 test("a body running past its fence refuses at the first line that is neither form", () => {
   expect(refusal("body ~~~\na\n~~~\nb c d e")).toContain("line 4 is neither")
 })
+
+test("a body opened with no-newline drops the newline off its last line", () => {
+  expect(given("body ~~~ no-newline\na\nb\n~~~")).toEqual({ body: "a\nb" })
+})
+
+test("a body opened without no-newline keeps the newline on its last line", () => {
+  expect(given("body ~~~\na\nb\n~~~")).toEqual({ body: "a\nb\n" })
+})
+
+test("a body of one line opened with no-newline is that line alone", () => {
+  expect(given("body ~~~ no-newline\nheld\n~~~")).toEqual({ body: "held" })
+})
+
+test("a body holding no line at all is empty with no-newline as without", () => {
+  expect(given("body ~~~ no-newline\n~~~")).toEqual({ body: "" })
+  expect(given("body ~~~\n~~~")).toEqual({ body: "" })
+})
+
+test("a fence spelled no-newline is a fence rather than the marker", () => {
+  expect(given("body no-newline\na\nno-newline")).toEqual({ body: "a\n" })
+})
+
+test("a word after the fence that is not no-newline refuses the whole reading", () => {
+  expect(refusal("body ~~~ held\na\n~~~")).toContain("line 1 is neither")
+})
