@@ -8,6 +8,7 @@ export const allAboutAlan = {
   partSlugs: [
     "page-type/all-about-alan-experiment",
     "page-type/all-about-alan-model",
+    "page-type/all-about-alan-question",
     "page-type/all-about-alan-topic",
   ],
   invariants: [
