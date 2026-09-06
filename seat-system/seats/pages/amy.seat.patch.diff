@@ -1,0 +1,74 @@
+diff --git a/pages/service/page-calling/page-calling.module.code.ts b/pages/service/page-calling/page-calling.module.code.ts
+index 4af6bc9223d13f5092874b0ada8a19fe8f90ccc6..332ba9c48ee4ec545a0ab0c2f546b6971a13cbce 100644
+--- a/pages/service/page-calling/page-calling.module.code.ts
++++ b/pages/service/page-calling/page-calling.module.code.ts
+@@ -11,6 +11,8 @@ export const WRITE_AT = "/write"
+ 
+ export const SHAPE_AT = "/shape"
+ 
++export const FILE_AT = "/file"
++
+ export const ORIGIN_NAMES: readonly string[] = ["PAGES_SERVICE_ORIGIN", "PAGE_STORE_ORIGIN"]
+ 
+ export const OVER_THE_TAILNET = "http://page-store.page-store.svc.cluster.local:8787"
+@@ -21,6 +23,8 @@ export const ASK_CEILING_MS = 5000
+ 
+ export const WRITE_CEILING_MS = 30000
+ 
++export const FILE_CEILING_MS = 15000
++
+ export const ATTEMPTS = 4
+ 
+ export type Fetcher = (url: string, init: RequestInit) => Promise<Response>
+@@ -182,6 +186,51 @@ export async function readingFor(
+   return held.said as Read
+ }
+ 
++export type Asking = {
++  readonly pageTypeSlug: string
++  readonly slug: string
++  readonly key: string
++}
++
++export type Fetched = { readonly bytes: Uint8Array<ArrayBuffer> } | { readonly refused: string }
++
++async function refusalIn(answered: Response): Promise<string> {
++  try {
++    return refusedIn(await answered.json()) ?? `the pages answered ${answered.status}`
++  } catch {
++    return `the pages answered ${answered.status} and the ${bytesSaid(answered)} said no reason`
++  }
++}
++
++// THE ANSWER IS NOT READ AS JSON. Every other call here reads the body as JSON before looking at
++// the status, which would turn a picture into a refusal about a parser, so this one takes the bytes
++// when the answer is good and reads JSON only to find out why a bad answer was bad.
++export async function filingFor(
++  asked: Asking,
++  fetcher: Fetcher = fetchThrough,
++  naps: Sleeper = sleep
++): Promise<Fetched> {
++  let why = "nothing came back"
++  for (let taken = 1; taken <= ATTEMPTS; taken += 1) {
++    try {
++      const answered = await fetcher(`${originOf()}${FILE_AT}`, {
++        method: "POST",
++        headers: { "content-type": "application/json" },
++        body: JSON.stringify(asked),
++        signal: AbortSignal.timeout(FILE_CEILING_MS),
++      })
++      if (answered.ok) return { bytes: new Uint8Array(await answered.arrayBuffer()) }
++      const refused = await refusalIn(answered)
++      if (answered.status === 400) return { refused }
++      why = refused
++    } catch (thrown) {
++      why = thrown instanceof Error ? thrown.message : String(thrown)
++    }
++    if (taken < ATTEMPTS) await naps(backoffFor(taken))
++  }
++  return { refused: `${why} — ${ATTEMPTS} attempts reached ${originOf()}${FILE_AT}` }
++}
++
+ export async function writingFor(
+   asked: Writing,
+   fetcher: Fetcher = fetchThrough,
