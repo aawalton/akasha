@@ -14,7 +14,7 @@ export const changeChecked = {
   definition: "a change a program composed and the checks judge",
   pluralSlug: "change-checked",
   extendsSlug: ["page-type/change"],
-  partSlugs: ["change-checked/change-page-page-type"],
+  partSlugs: ["change-checked/change-page-page-type", "change-checked/move-page"],
   invariants: [
     {
       invariantKind: "departure",

@@ -1,8 +1,8 @@
-import type { ChangeCommand } from "../../change-command.page-type.ts"
+import type { ChangeChecked } from "../../../checked/change-checked.page-type.ts"
 
 export const movePage = {
   id: "01a07883-67ee-7249-9045-121a02fac4bf",
-  pageTypeSlug: "change-command",
+  pageTypeSlug: "change-checked",
   slug: "move-page",
   definition: "one page and the files beside that page carried into another folder",
   code: "ts",
@@ -33,4 +33,4 @@ export const movePage = {
       statement: "Nothing here changes the data a page states.",
     },
   ],
-} as const satisfies ChangeCommand
+} as const satisfies ChangeChecked

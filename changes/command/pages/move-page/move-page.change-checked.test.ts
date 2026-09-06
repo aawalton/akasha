@@ -8,7 +8,7 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { movePage } from "./move-page.change-command.code.ts"
+import { movePage } from "./move-page.change-checked.code.ts"
 
 afterAll(scratch.sweep)
 

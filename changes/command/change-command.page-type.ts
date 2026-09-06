@@ -15,7 +15,6 @@ export const changeCommand = {
   partSlugs: [
     "change-command/add-file",
     "change-command/change-file",
-    "change-command/move-page",
     "change-command/remove-page",
     "change-command/remove-page-type",
   ],

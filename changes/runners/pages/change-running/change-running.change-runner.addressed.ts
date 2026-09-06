@@ -2,14 +2,14 @@ export type Changes = {
   "change-checked/change-page-page-type": Parameters<
     typeof import("../../../checked/pages/change-page-page-type/change-page-page-type.change-checked.code.ts")["runChange"]
   >[1]
+  "change-checked/move-page": Parameters<
+    typeof import("../../../command/pages/move-page/move-page.change-checked.code.ts")["runChange"]
+  >[1]
   "change-command/add-file": Parameters<
     typeof import("../../../command/pages/add-file/add-file.change-command.code.ts")["runChange"]
   >[1]
   "change-command/change-file": Parameters<
     typeof import("../../../command/pages/change-file/change-file.change-command.code.ts")["runChange"]
-  >[1]
-  "change-command/move-page": Parameters<
-    typeof import("../../../command/pages/move-page/move-page.change-command.code.ts")["runChange"]
   >[1]
   "change-command/remove-page": Parameters<
     typeof import("../../../command/pages/remove-page/remove-page.change-command.code.ts")["runChange"]
