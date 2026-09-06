@@ -1,9 +1,18 @@
-readersOweReading: false
 diff --git a/alan/harness/monarch/eval-snapshot/monarch-eval-snapshot.module.ts b/alan/harness/monarch/eval-snapshot/monarch-eval-snapshot.module.ts
-index 08cfde9f32447596190f37cbc4813fb09aea8e41..6dccdd6f2fb76594a6472a00e95f98245572c6fd 100644
+index 08cfde9f32447596190f37cbc4813fb09aea8e41..1ce3cb3bf9e6538ed6c9fd02ef47112fffe8fa4e 100644
 --- a/alan/harness/monarch/eval-snapshot/monarch-eval-snapshot.module.ts
 +++ b/alan/harness/monarch/eval-snapshot/monarch-eval-snapshot.module.ts
-@@ -22,7 +22,7 @@ export const monarchEvalSnapshot = {
+@@ -13,8 +13,7 @@ export const monarchEvalSnapshot = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Pages are hashed in path order, so the mark does not depend on the order those pages were read.",
++      statement: "Pages are hashed in path order.",
+     },
+     {
+       invariantKind: "departure",
+@@ -22,7 +21,7 @@ export const monarchEvalSnapshot = {
      },
      {
        invariantKind: "departure",
@@ -12,7 +21,7 @@ index 08cfde9f32447596190f37cbc4813fb09aea8e41..6dccdd6f2fb76594a6472a00e95f9824
      },
      {
        invariantKind: "departure",
-@@ -31,7 +31,7 @@ export const monarchEvalSnapshot = {
+@@ -31,7 +30,7 @@ export const monarchEvalSnapshot = {
      {
        invariantKind: "departure",
        statement:
