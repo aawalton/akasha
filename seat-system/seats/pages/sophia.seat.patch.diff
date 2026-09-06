@@ -62,10 +62,20 @@ index 017d8a16b4e39af6a7055431bb13b9baad7301f0..7cbd90a8827da2a907fe3e2374f97d79
    const root = pagesRepo()
    drafting(root)
 diff --git a/command-system/applying/applying.module.ts b/command-system/applying/applying.module.ts
-index 362dd6f9032892ae274f445c307a008913a07d73..f51b908f18c6cf6653ad374e8f0bb69da2888755 100644
+index 362dd6f9032892ae274f445c307a008913a07d73..4b8baa6730d3d93f04537806e220eb5925c92321 100644
 --- a/command-system/applying/applying.module.ts
 +++ b/command-system/applying/applying.module.ts
-@@ -114,6 +114,23 @@ export const applying = {
+@@ -58,7 +58,8 @@ export const applying = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An apply carrying a manifest installs the checkout onto the commit it landed.",
++      statement:
++        "An apply carrying a manifest installs the checkout onto the commit that apply landed.",
+     },
+     {
+       invariantKind: "departure",
+@@ -114,6 +115,23 @@ export const applying = {
        invariantKind: "departure",
        statement: "An agent is never left owing a read of the bodies that agent's own apply landed.",
      },
