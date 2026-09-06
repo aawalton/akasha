@@ -9852,7 +9852,7 @@ index 4cc3333ae1d33b60ded5f8cc5590e2abd0ea4fc1..c25b5779cc043a2468051794326a364a
    nameFormatSlug: "name-format/lower-kebab-case",
  } as const satisfies TextProperty
 diff --git a/temper/temper-character/companion-builds/companion-build.page-type.ts b/temper/temper-character/companion-builds/companion-build.page-type.ts
-index 77fc4dcb848c18e3641da6a2292dc892dfa41aa8..77b95a1383d5a436c1a9d31c9369592eb67ad28e 100644
+index 77fc4dcb848c18e3641da6a2292dc892dfa41aa8..9f74b6a4e6a8367aeb55c4d0bf4ac36b127ee11f 100644
 --- a/temper/temper-character/companion-builds/companion-build.page-type.ts
 +++ b/temper/temper-character/companion-builds/companion-build.page-type.ts
 @@ -27,7 +27,7 @@ export const companionBuild = {
@@ -9864,6 +9864,19 @@ index 77fc4dcb848c18e3641da6a2292dc892dfa41aa8..77b95a1383d5a436c1a9d31c9369592e
    ],
    invariants: [
      {
+@@ -36,7 +36,11 @@ export const companionBuild = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One companion holds many builds, and one build is shared across companions.",
++      statement: "One companion holds many builds.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "One build is shared across companions.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/temper/temper-character/companion-progresses/temper-companion-progress.page-type.ts b/temper/temper-character/companion-progresses/temper-companion-progress.page-type.ts
 index 97c9ed06c254a43ebccbdf9769ff2841f5d779bb..74d82790d4d4c4d7bb42cccd5409693c7e6d61db 100644
 --- a/temper/temper-character/companion-progresses/temper-companion-progress.page-type.ts
