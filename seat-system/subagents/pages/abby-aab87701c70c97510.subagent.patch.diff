@@ -1,0 +1,26 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-fast-my-warm-set-fades.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-fast-my-warm-set-fades.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bf831519f61f9fd5c26bcfed68eeb1d47fe50497
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-fast-my-warm-set-fades.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howFastMyWarmSetFades = {
++  id: "01a077e8-bbe5-7726-b000-d9e987cd74da",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-fast-my-warm-set-fades",
++  topicSlug: "what-stays-warm-for-a-while",
++  ask: "Does the freshness fade over about a day to almost nothing? I hold that guess at about one in five.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-stays-warm-for-a-while.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-stays-warm-for-a-while.all-about-alan-topic.ts
+index 72587e817cba924cdbc64d24bb47b421e0cd4db9..956b6dee5396aada9831f4eac9b83b47d3ded562 100644
+--- a/alan/books/all-about-alan/topics/pages/what-stays-warm-for-a-while.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-stays-warm-for-a-while.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whatStaysWarmForAWhile = {
+   relatedSlugs: ["how-a-skill-gets-into-me"],
+   settled:
+     "I hold one model at a time, and a live interaction overwrites it the instant I am in it.\n\nThe good of preparing is not that it is still loaded. It is that the associations were recently touched and come cheap.\n\nOne set is warm at a time, the same single room as the model.",
+-  unsettled:
+-    "The freshness fades over about a day to almost nothing, which is a guess I hold at about one in five.",
+ } as const satisfies AllAboutAlanTopic
