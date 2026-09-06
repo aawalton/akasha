@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.ts
+index 1de0e910b68ab5725926d6ffd4a850278c873b49..afd6c9b3fb39cdf2ea4a973381fa2bf8b4a8be87 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.ts
+@@ -13,7 +13,7 @@ export const dataWatching = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A picture is worked out again only when a file it is made from changes.",
++      statement: "A picture is worked out again only when a file the picture is made from changes.",
+     },
+     {
+       invariantKind: "departure",
