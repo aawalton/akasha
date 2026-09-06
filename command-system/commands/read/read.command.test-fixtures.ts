@@ -1,5 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { rootOf } from "@akasha/command-system/rooting"
 import { SEEDED_AT } from "@akasha/context/warranting/testing"
 import { listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import { bytesOf } from "@akasha/testing-system/bodying"
@@ -262,7 +263,7 @@ const CONTEXT_WARRANT = "context-warrant"
 
 const PAGE_TYPE_SLUG = "page-type"
 
-const BESIDE = join(import.meta.dir, "../../context/warrants")
+const BESIDE = join(rootOf(import.meta.path), "context/warrants")
 
 export const THING = "akasha/one/held.thing.ts"
 
