@@ -7,7 +7,7 @@ export const noClass = {
   definition: "the check refusing a class that is neither an error type nor a React error boundary",
   code: "ts",
   test: "ts",
-  runsOnPatch: false,
+  runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
