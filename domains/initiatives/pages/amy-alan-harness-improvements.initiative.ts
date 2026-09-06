@@ -21,7 +21,7 @@ export const amyAlanHarnessImprovements = {
     {
       statement: "alanwalton.com loads.",
       workingMemory:
-        "`/` answers 200 with the app shell, then the app routes to `/home`, which answers 500 and draws `Oops!`. `readHomeNavItemParam` in `alan/web/.server/home-dni-param/home-dni-param.module.code.ts` throws on every call and asks nothing. The sentence it throws says `nav` is unheld, and that sentence is stale: the serving pod answers `/api/pages/nav` with 200 and 29 rows, one of them the `home` item the throw names.",
+        "`/home` no longer answers 500. `readHomeNavItemParam` asks the pages for the `home` nav item and answers its id, landed as `76a619246f` and serving from `efe2941cc8`. The shell, the sidebar and the nav all draw, and the title moves to the view that item names, so the id resolved. What is left is the content, which waits on the roster refusal named under the view intent.",
     },
     {
       statement: "Alan can log in to alanwalton.com.",
