@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/alan/harness/capacity/reading/capacity-reading.module.ts b/alan/harness/capacity/reading/capacity-reading.module.ts
-index 497f38e30d101b03e12e49ba6266770b81ab85ba..1e1f61944fca30f88a1633aaf8fb750bb8760302 100644
+index 497f38e30d101b03e12e49ba6266770b81ab85ba..1547e80479417d7a1f2798f44fab5e08616127cd 100644
 --- a/alan/harness/capacity/reading/capacity-reading.module.ts
 +++ b/alan/harness/capacity/reading/capacity-reading.module.ts
 @@ -78,7 +78,8 @@ export const capacityReading = {
@@ -13,3 +13,13 @@ index 497f38e30d101b03e12e49ba6266770b81ab85ba..1e1f61944fca30f88a1633aaf8fb750b
      },
      {
        invariantKind: "departure",
+@@ -86,7 +87,8 @@ export const capacityReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The root read is the one the environment states or the one the call was made in.",
++      statement:
++        "The root read is the root the environment states or the folder the call was made in.",
+     },
+     {
+       invariantKind: "stopgap",
