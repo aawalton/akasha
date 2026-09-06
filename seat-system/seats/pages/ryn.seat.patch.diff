@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts b/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts
+index 1650a3feb708d867bfce28a90d714f8d5e7ea818..6202f3331c9ad01ba5cc5f63c3bea6f848aed0c4 100644
+--- a/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts
++++ b/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts
+@@ -17,7 +17,7 @@ export const upkeepSurplus = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The reading is the one the tracking day carries for the day asked for.",
++      statement: "The reading is the reading the tracking day carries for the day asked for.",
+     },
+     {
+       invariantKind: "departure",
