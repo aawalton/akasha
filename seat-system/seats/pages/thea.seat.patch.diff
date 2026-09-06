@@ -4601,15 +4601,20 @@ index c128aab5edc852524d8dcc8dd8f977902de3558b..94c862dff6b304fd0eb3b0747778607b
        secret: one["secret"] === true,
      })
 diff --git a/pages/types/declared-properties/declared-properties.module.test.ts b/pages/types/declared-properties/declared-properties.module.test.ts
-index d8b8759f311c080593f4edf989c8453ffed3de60..66ad5dc9627bd78f71c83473367b0c96cfebed70 100644
+index d8b8759f311c080593f4edf989c8453ffed3de60..5322cd91a2d87b19be6e816bf3ce1a64f47556e1 100644
 --- a/pages/types/declared-properties/declared-properties.module.test.ts
 +++ b/pages/types/declared-properties/declared-properties.module.test.ts
-@@ -81,7 +81,7 @@ test("a page type carries the properties it declares itself", () => {
+@@ -80,8 +80,13 @@ test("a page type carries the properties it declares itself", () => {
+       declaredBy: "page-type",
        required: true,
        many: true,
++<<<<<<< what this change would leave
        max: 20,
--      total: null,
 +      maxLength: null,
++=======
++      maxCount: 20,
+       total: null,
++>>>>>>> what HEAD holds
        uncommitted: false,
        secret: false,
      },
