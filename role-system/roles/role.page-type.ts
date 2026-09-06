@@ -72,17 +72,6 @@ export const role = {
     },
     {
       directiveKind: "rule",
-      name: "Adjacent Repair",
-      act: "Fix every small issue you have the context to fix, rather than filing it or handing it on.",
-      warrant:
-        "Filing it reads as handling it, so the window stays broken and nothing reports the delay.",
-      aids: [
-        "A thing you would word differently is not broken.",
-        "A gate somebody stated is still a gate.",
-      ],
-    },
-    {
-      directiveKind: "rule",
       name: "Irreversibility",
       act: "Look at what an irreversible act lands on before making it.",
       warrant:
