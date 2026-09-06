@@ -31,7 +31,7 @@ export const championsTree = {
     {
       invariantKind: "departure",
       statement:
-        "A node whose descent reaches no persona names no champion rather than an empty one.",
+        "A node whose descent reaches no persona names no champion rather than an empty champion.",
     },
   ],
 } as const satisfies Module
