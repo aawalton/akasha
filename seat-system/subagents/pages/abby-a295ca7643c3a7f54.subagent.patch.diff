@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-anything-at-my-floor-is-at-war-with-itself.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-anything-at-my-floor-is-at-war-with-itself.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..54b977e9eedf4fd20f05a536b03444ca64e7a322
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-anything-at-my-floor-is-at-war-with-itself.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAnythingAtMyFloorIsAtWarWithItself = {
++  id: "01a077e8-03d0-794b-bf37-a1a2e8f512de",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-anything-at-my-floor-is-at-war-with-itself",
++  topicSlug: "what-is-at-my-floor",
++  ask: "I confirmed one root rather than the stronger reading. Is anything at my floor at war with itself?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-floor-is-a-knot-or-a-centre.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-floor-is-a-knot-or-a-centre.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7ff5d49e7b68067c2e339d4d9dd84b74605f64e7
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-floor-is-a-knot-or-a-centre.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMyFloorIsAKnotOrACentre = {
++  id: "01a077e8-03cf-76a2-80ea-4f56ff1cf073",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-floor-is-a-knot-or-a-centre",
++  topicSlug: "what-is-at-my-floor",
++  ask: "Truth is welded to my root and now freedom is too. Is my floor one three-way knot, or self-improvement at the centre with truth and freedom as what it cannot do without?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-is-at-my-floor.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-is-at-my-floor.all-about-alan-topic.ts
+index e66ae8a44529a5f3592a5d36da0a0652c1d08835..168de0d7fb95f053ef0899d43a0ed222f0c45119 100644
+--- a/alan/books/all-about-alan/topics/pages/what-is-at-my-floor.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-is-at-my-floor.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whatIsAtMyFloor = {
+   relatedSlugs: ["what-i-value-in-order", "what-i-think-truth-is"],
+   settled:
+     "Every time I scour myself to the core I come to these, and there is no wall of fear underneath.\n\nImproving myself is the end. Freedom is the room that takes, and the only freedom I have ever really cared about.\n\nNo seam is left between them. English keeps two words where I hold one thing.\n\nNothing else is loved bare. Connection, movement, even love come back to this root as branches off it.\n\nI still say self-improvement, and automeliorist when someone needs the whole of it.",
+-  unsettled:
+-    "Truth is welded to this root and now freedom is too. Whether the floor is one three-way knot, or self-improvement at the centre with those two as the things it cannot do without, is unprobed.\n\nWhat I confirmed is that there is one root, not the stronger claim that nothing at my floor is at war with itself.",
+ } as const satisfies AllAboutAlanTopic
