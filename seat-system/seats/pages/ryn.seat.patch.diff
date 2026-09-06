@@ -1,0 +1,18 @@
+diff --git a/service-system/workstation-services/pages/orphaned-resources-sweep.workstation-service.ts b/service-system/workstation-services/pages/orphaned-resources-sweep.workstation-service.ts
+index 427370ace54e334845fcf0b8d1ad3c160b4935bb..594e7974330b3e280f209418c8058123c51c5001 100644
+--- a/service-system/workstation-services/pages/orphaned-resources-sweep.workstation-service.ts
++++ b/service-system/workstation-services/pages/orphaned-resources-sweep.workstation-service.ts
+@@ -17,8 +17,11 @@ export const orphanedResourcesSweep = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Only the app namespaces are swept, and in them only Deployments, Services and StatefulSets.",
++      statement: "Only the app namespaces are swept.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Only Deployments and Services and StatefulSets are swept in those namespaces.",
+     },
+     {
+       invariantKind: "departure",
