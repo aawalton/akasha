@@ -1,5 +1,5 @@
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.ts
-index dacc0ce54dd335a8f8457b6569ffcf09462c6307..28b0945c015a1fe697bf0204f2d28e895ca8cee9 100644
+index dacc0ce54dd335a8f8457b6569ffcf09462c6307..28fc7f33bf12180984235c36f8459e758992d22e 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.ts
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.ts
 @@ -10,11 +10,16 @@ export const stateReading = {
@@ -34,3 +34,12 @@ index dacc0ce54dd335a8f8457b6569ffcf09462c6307..28b0945c015a1fe697bf0204f2d28e89
      },
      {
        invariantKind: "departure",
+@@ -30,7 +39,7 @@ export const stateReading = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here holds a timer, the cooldown being the service's.",
++      statement: "Nothing here holds a timer.",
+     },
+     {
+       invariantKind: "absence",
