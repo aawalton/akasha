@@ -156,10 +156,10 @@ index 172cc4038c6b16e39123c6b0b0c8d713e34f2d87..07a7963d75d29c55fe2a9c8dbbceb309
    if (given.agentId === null) return []
    const held: Reading[] = []
 diff --git a/command-system/landing-reading/landing-reading.module.ts b/command-system/landing-reading/landing-reading.module.ts
-index 4ede74225786718ebcd9379072a20b4b51293400..3dfebd1c91f784ac69d7bd96349039ff82ea533e 100644
+index 4ede74225786718ebcd9379072a20b4b51293400..5e76cdfffea30bed5b4870f2d80d03c480b6479d 100644
 --- a/command-system/landing-reading/landing-reading.module.ts
 +++ b/command-system/landing-reading/landing-reading.module.ts
-@@ -4,7 +4,8 @@ export const landingReading = {
+@@ -4,8 +4,10 @@ export const landingReading = {
    id: "01a06dc1-7f50-78ab-b4c7-e9d9290ad691",
    pageTypeSlug: "module",
    slug: "landing-reading",
@@ -167,9 +167,11 @@ index 4ede74225786718ebcd9379072a20b4b51293400..3dfebd1c91f784ac69d7bd96349039ff
 +  definition:
 +    "what a landing leaves in the read record, recorded for its writer or carried for the rest",
    code: "ts",
++  test: "ts",
    invariants: [
      {
-@@ -32,6 +33,32 @@ export const landingReading = {
+       invariantKind: "departure",
+@@ -32,6 +34,32 @@ export const landingReading = {
        invariantKind: "departure",
        statement: "A path the caller holds no reading of is left out rather than made up.",
      },
