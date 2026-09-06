@@ -1,8 +1,13 @@
 diff --git a/pages/query-request/page-query-request.module.ts b/pages/query-request/page-query-request.module.ts
-index ced52ce454c7ebef6eb355f32b3b64f4ade0fbed..e6ccdd0479e3ea8c4eed789e20d4fb60918298df 100644
+index ced52ce454c7ebef6eb355f32b3b64f4ade0fbed..d84e7fa3e03f7357efadedb8f2f09530dff3130d 100644
 --- a/pages/query-request/page-query-request.module.ts
 +++ b/pages/query-request/page-query-request.module.ts
-@@ -22,7 +22,7 @@ export const pageQueryRequest = {
+@@ -18,11 +18,11 @@ export const pageQueryRequest = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A name holding an empty, a dot, a double dot or a backslash segment reads as no name.",
++        "A name holding a segment that is empty or a dot or a double dot or a backslash reads as no name.",
      },
      {
        invariantKind: "departure",
