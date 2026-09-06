@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.ts
-index 0b696d34e0058f9b9350c55fb5fa24344e6237e5..3bae3ef8ba4647d625ce68a591783826c07e65af 100644
+index 0b696d34e0058f9b9350c55fb5fa24344e6237e5..5186ad07adf528b7525fa184b92f63d39d3e7c02 100644
 --- a/checks/code-checks/pages/typecheck/typecheck.code-check.ts
 +++ b/checks/code-checks/pages/typecheck/typecheck.code-check.ts
 @@ -28,7 +28,7 @@ export const typecheck = {
@@ -11,3 +11,12 @@ index 0b696d34e0058f9b9350c55fb5fa24344e6237e5..3bae3ef8ba4647d625ce68a591783826
      },
      {
        invariantKind: "departure",
+@@ -38,7 +38,7 @@ export const typecheck = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "An index that is not there is refused rather than read as one naming no importer.",
++        "An index that is not there is refused rather than read as an index naming no importer.",
+     },
+     {
+       invariantKind: "absence",
