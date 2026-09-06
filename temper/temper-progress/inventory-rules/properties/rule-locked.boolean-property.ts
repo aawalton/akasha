@@ -15,7 +15,8 @@ export const ruleLocked = {
     },
     {
       invariantKind: "departure",
-      statement: "Whether a rule is locked is stated rather than worked out from where it came.",
+      statement:
+        "Whether a rule is locked is stated rather than worked out from where that rule came.",
     },
   ],
 } as const satisfies BooleanProperty
