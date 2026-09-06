@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-a-talk-point-gets-built-and-dropped.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-a-talk-point-gets-built-and-dropped.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bf75dbaa9e2c55e46a8f2b6f432139d3d2cc02ed
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-a-talk-point-gets-built-and-dropped.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howATalkPointGetsBuiltAndDropped = {
++  id: "01a077ee-6092-7655-90ab-4d62c31d4ceb",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-a-talk-point-gets-built-and-dropped",
++  topicSlug: "how-i-give-a-talk",
++  ask: "How does one of my talk points get built, added, dropped, split or merged?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/how-many-points-i-carry-for-a-talk.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-many-points-i-carry-for-a-talk.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..559362f97d5589f800dda15fa200a98ebc1dfad9
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-many-points-i-carry-for-a-talk.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howManyPointsICarryForATalk = {
++  id: "01a077ee-6097-70d6-a8a0-0d71b911619c",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-many-points-i-carry-for-a-talk",
++  topicSlug: "how-i-give-a-talk",
++  ask: "How many points do I carry for a talk, and how does that number scale with the breadth of the topic?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-takes-the-place-of-rehearsal.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-takes-the-place-of-rehearsal.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fdbfe873abe28c0fc964e8909eb5ba2fa2abe545
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-takes-the-place-of-rehearsal.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatTakesThePlaceOfRehearsal = {
++  id: "01a077ee-6097-7b2e-8d10-e58308838215",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-takes-the-place-of-rehearsal",
++  topicSlug: "how-i-give-a-talk",
++  ask: "With rehearsal off the table, what takes the place of rehearsal: running the set, anticipating the room, or both?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-i-give-a-talk.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-i-give-a-talk.all-about-alan-topic.ts
+index 598128ae3d65b1cbfc3f1e6353e4d95709b7b8eb..6af68e221f8c64b937c7e5a135d7603e9ebff345 100644
+--- a/alan/books/all-about-alan/topics/pages/how-i-give-a-talk.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-i-give-a-talk.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const howIGiveATalk = {
+   parentSlugs: ["how-i-remember-anything"],
+   settled:
+     "Nothing is memorised word for word, so there is nothing I depend on remembering.\n\nEach point is small and paired with the circumstance that should fire it, and the order comes from the room.\n\nThinking broadly first is what keeps the set from running out when the talk goes somewhere I did not expect.\n\nIt costs me exact phrasing and some working memory during the talk, and saves me all of the recall.",
+-  unsettled:
+-    "How a point gets built, added, dropped, split or merged has never been described.\n\nHow many I carry for a talk, and how that scales with the breadth of the topic, is unrecorded.\n\nWith rehearsal off the table, what stands in for it, running the set or anticipating the room or both, is unsettled.",
+ } as const satisfies AllAboutAlanTopic
