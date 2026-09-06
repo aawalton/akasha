@@ -27,6 +27,7 @@ export const change = {
     "page-type/change-kind",
     "workspace-package/workflow-language",
     "boolean-property/is-command",
+    "change/restate-value",
   ],
   properties: [
     { pagePropertySlug: "boolean-property/is-command", required: true, many: false },
