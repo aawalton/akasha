@@ -1,0 +1,17 @@
+diff --git a/code-system/ios-components/pages/safety-ring/safety-ring.ios-component.ts b/code-system/ios-components/pages/safety-ring/safety-ring.ios-component.ts
+index 47758530531bdc9fe36f0ca237bb9405a87403cb..e413f122f6718a4b748da0c82b765f041e0d9992 100644
+--- a/code-system/ios-components/pages/safety-ring/safety-ring.ios-component.ts
++++ b/code-system/ios-components/pages/safety-ring/safety-ring.ios-component.ts
+@@ -26,7 +26,11 @@ export const safetyRing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A level with no tier above it draws no arc, the arc saying how far the next is.",
++      statement: "A level with no tier above that level draws no arc.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The arc says how far the next tier is.",
+     },
+   ],
+ } as const satisfies IosComponent
