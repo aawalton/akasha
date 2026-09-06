@@ -1,8 +1,8 @@
 diff --git a/service-system/workstation-services/tick-ratchet/tick-ratchet.module.ts b/service-system/workstation-services/tick-ratchet/tick-ratchet.module.ts
-index a5f374d68f0e1b52427d37867361db346b555427..6f57d07b25c56dcace6cdbe8c9eb74a0737eb617 100644
+index a5f374d68f0e1b52427d37867361db346b555427..536503308b440f0f135be2a739b568e5f52ede72 100644
 --- a/service-system/workstation-services/tick-ratchet/tick-ratchet.module.ts
 +++ b/service-system/workstation-services/tick-ratchet/tick-ratchet.module.ts
-@@ -18,8 +18,11 @@ export const tickRatchet = {
+@@ -18,12 +18,15 @@ export const tickRatchet = {
      },
      {
        invariantKind: "departure",
@@ -16,3 +16,8 @@ index a5f374d68f0e1b52427d37867361db346b555427..6f57d07b25c56dcace6cdbe8c9eb74a0
      },
      {
        invariantKind: "departure",
+-      statement: "The ratchet names the service, the run and the threshold on the way out.",
++      statement: "The ratchet names the service and the run and the threshold on the way out.",
+     },
+     {
+       invariantKind: "absence",
