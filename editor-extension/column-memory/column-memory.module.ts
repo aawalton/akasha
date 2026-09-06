@@ -25,7 +25,7 @@ export const columnMemory = {
     },
     {
       invariantKind: "departure",
-      statement: "A stored memory that does not parse is read as none.",
+      statement: "A stored memory that does not parse is read as no memory.",
     },
     {
       invariantKind: "absence",
