@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/shape/monarch-shape.module.ts b/alan/harness/monarch/shape/monarch-shape.module.ts
-index a57ac939d1218adb3ecd86713420f5b153f5df8a..e7796593dfe07f2583beb04641af17755422d6d6 100644
+index a57ac939d1218adb3ecd86713420f5b153f5df8a..93d89464f917fcdf8ea7e973d48d76b48652766d 100644
 --- a/alan/harness/monarch/shape/monarch-shape.module.ts
 +++ b/alan/harness/monarch/shape/monarch-shape.module.ts
 @@ -14,8 +14,11 @@ export const monarchShape = {
@@ -13,6 +13,16 @@ index a57ac939d1218adb3ecd86713420f5b153f5df8a..e7796593dfe07f2583beb04641af1775
 +    {
 +      invariantKind: "departure",
 +      statement: "A deep reply says where that reply went wrong.",
+     },
+     {
+       invariantKind: "departure",
+@@ -24,7 +27,8 @@ export const monarchShape = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Null and an array are told apart from an object rather than counted as one.",
++      statement:
++        "Null and an array are told apart from an object rather than counted as an object.",
      },
      {
        invariantKind: "departure",
