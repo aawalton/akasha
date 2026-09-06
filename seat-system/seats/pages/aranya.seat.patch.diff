@@ -262,10 +262,20 @@ index 257d033b5bc2baf6028c990560eb57b9494833eb..41169f99fbbbf0ece2ce128ccb3c2731
        for (const key of [...cursors.keys()]) {
          if (!touched.has(key)) {
 diff --git a/editor-extension/subagent-reading/subagent-reading.module.ts b/editor-extension/subagent-reading/subagent-reading.module.ts
-index 4f60af64fe134831e76e2203e64679cc4c1cfbad..bcfe06c7d0645eed086a0e9839e6633ae25baae2 100644
+index 4f60af64fe134831e76e2203e64679cc4c1cfbad..4cdaf9a9c15d666b2b367cbb9e055e174b5e06e0 100644
 --- a/editor-extension/subagent-reading/subagent-reading.module.ts
 +++ b/editor-extension/subagent-reading/subagent-reading.module.ts
-@@ -47,6 +47,19 @@ export const subagentReading = {
+@@ -29,7 +29,8 @@ export const subagentReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The banked offset, the anchor and the state are taken together or not at all.",
++      statement:
++        "A banked offset is taken together with the anchor and the state or not taken at all.",
+     },
+     {
+       invariantKind: "departure",
+@@ -47,6 +48,19 @@ export const subagentReading = {
        invariantKind: "departure",
        statement: "A subagent naming no id that subagent runs under is descended into no further.",
      },
@@ -285,6 +295,19 @@ index 4f60af64fe134831e76e2203e64679cc4c1cfbad..bcfe06c7d0645eed086a0e9839e6633a
      {
        invariantKind: "departure",
        statement: "A cursor no read touched is dropped.",
+@@ -61,7 +75,11 @@ export const subagentReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The bank is awaited, so a host reading the fleet once and exiting still banks.",
++      statement: "The bank is awaited.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A host reading the fleet once and exiting still banks.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/seat-system/subagent-census/subagent-census.module.code.ts b/seat-system/subagent-census/subagent-census.module.code.ts
 index 5a064472cf2f1c7bb35a7006513c16e318651acd..4d6f73cc025bf25e2e42383f1db03116bc6a232e 100644
 --- a/seat-system/subagent-census/subagent-census.module.code.ts
