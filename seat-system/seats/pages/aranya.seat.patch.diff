@@ -11,3 +11,45 @@ index 84643f403174d503ed6a252b55ab1de2d29f55e4..50a8f8bafd1d10b3163ea9aae6844f71
    const sidecar = secretAt(page.relPath)
    if (sidecar === null) {
      throw new DeployRefused(`${page.relPath} is not a page, so no sops file names its value`)
+diff --git a/service-system/secrets/secret-saying/secret-saying.module.ts b/service-system/secrets/secret-saying/secret-saying.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8d8355b384b89d564da7fc52cad55d7b9253c535
+--- /dev/null
++++ b/service-system/secrets/secret-saying/secret-saying.module.ts
+@@ -0,0 +1,36 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const secretSaying = {
++  id: "01a07667-e09b-7f6e-bc84-5a76ea3566f4",
++  pageTypeSlug: "module",
++  slug: "secret-saying",
++  definition: "the Secret one resource's pages hold, said as yaml for kubectl to apply",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The yaml is said rather than applied, so what applies it is kubectl.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A resource holds the keys every page placing a value in it names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The keys are said in one order, so a resource unchanged says the same bytes.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A resource no page places a value in is refused rather than said empty.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Two pages placing a value in one resource at one key are refused here too.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reaches the cluster.",
++    },
++  ],
++} as const satisfies Module
