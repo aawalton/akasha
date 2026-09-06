@@ -1,7 +1,7 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts
-index 4a4ce62da0b1d5a2bd4e59439d828d2d25ff5293..259509a937985311aaa871d4f48c101d28347eab 100644
+index 4a4ce62da0b1d5a2bd4e59439d828d2d25ff5293..4c0ed4e324d6331089daf9c3e8cf7172ea11b839 100644
 --- a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts
 +++ b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts
 @@ -78,13 +78,13 @@ test("a restatement making an optional property required is let through", () =>
@@ -32,7 +32,13 @@ index 4a4ce62da0b1d5a2bd4e59439d828d2d25ff5293..259509a937985311aaa871d4f48c101d
    )
  
    expect(said).toEqual([])
-@@ -155,8 +155,8 @@ test("a restatement raising a max is left to the check refusing that", () => {
+@@ -150,13 +150,13 @@ test("a restatement loosening what is required is left to the check refusing tha
+   expect(said).toEqual([])
+ })
+ 
+-test("a restatement raising a max is left to the check refusing that", () => {
++test("a restatement raising a max count is left to the check refusing that", () => {
+   const root = rooted()
    const said = restating(
      root,
      judged,
