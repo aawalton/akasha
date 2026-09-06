@@ -1,0 +1,583 @@
+runsWarrants: false
+diff --git a/temper/temper-holdings/item-category-trees/temper-item-category-tree.page-type.ts b/temper/temper-holdings/item-category-trees/temper-item-category-tree.page-type.ts
+index a64196deb20647a05b44104375839e9428519373..97e828c9ec29e22a6538edbc5c205499304e51bd 100644
+--- a/temper/temper-holdings/item-category-trees/temper-item-category-tree.page-type.ts
++++ b/temper/temper-holdings/item-category-trees/temper-item-category-tree.page-type.ts
+@@ -47,18 +47,38 @@ export const temperItemCategoryTree = {
+     "text-property/item-name-contains",
+   ],
+   properties: [
+-    { pagePropertySlug: "display-order", required: true, many: false },
+-    { pagePropertySlug: "armor-types", required: false, many: true, max: null },
+-    { pagePropertySlug: "equip-types", required: false, many: true, max: null },
+-    { pagePropertySlug: "filter-types", required: false, many: true, max: null },
+-    { pagePropertySlug: "furniture-category-ids", required: false, many: true, max: null },
+-    { pagePropertySlug: "furniture-subcategory-ids", required: false, many: true, max: null },
+-    { pagePropertySlug: "item-types", required: false, many: true, max: null },
+-    { pagePropertySlug: "specialized-item-types", required: false, many: true, max: null },
+-    { pagePropertySlug: "trait-type-range", required: false, many: true, max: null },
+-    { pagePropertySlug: "weapon-types", required: false, many: true, max: null },
+-    { pagePropertySlug: "priority-order", required: false, many: false },
+-    { pagePropertySlug: "item-name-contains", required: false, many: false },
++    { pagePropertySlug: "number-property/display-order", required: true, many: false },
++    { pagePropertySlug: "number-property/armor-types", required: false, many: true, max: null },
++    { pagePropertySlug: "number-property/equip-types", required: false, many: true, max: null },
++    { pagePropertySlug: "number-property/filter-types", required: false, many: true, max: null },
++    {
++      pagePropertySlug: "number-property/furniture-category-ids",
++      required: false,
++      many: true,
++      max: null,
++    },
++    {
++      pagePropertySlug: "number-property/furniture-subcategory-ids",
++      required: false,
++      many: true,
++      max: null,
++    },
++    { pagePropertySlug: "number-property/item-types", required: false, many: true, max: null },
++    {
++      pagePropertySlug: "number-property/specialized-item-types",
++      required: false,
++      many: true,
++      max: null,
++    },
++    {
++      pagePropertySlug: "number-property/trait-type-range",
++      required: false,
++      many: true,
++      max: null,
++    },
++    { pagePropertySlug: "number-property/weapon-types", required: false, many: true, max: null },
++    { pagePropertySlug: "number-property/priority-order", required: false, many: false },
++    { pagePropertySlug: "text-property/item-name-contains", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-holdings/net-worth-hours/properties/snapshots.page-property-entry.ts b/temper/temper-holdings/net-worth-hours/properties/snapshots.page-property-entry.ts
+index d181b13da28fa2d12f8d3bef926fe63f964ad9a5..039bcf6cea0e64eac0fc7129e7c72ae4f42cb878 100644
+--- a/temper/temper-holdings/net-worth-hours/properties/snapshots.page-property-entry.ts
++++ b/temper/temper-holdings/net-worth-hours/properties/snapshots.page-property-entry.ts
+@@ -9,12 +9,12 @@ export const snapshots = {
+   propertySlug: "snapshots",
+   definition: "what an account was worth, one reading to a line",
+   properties: [
+-    { pagePropertySlug: "account-page", required: true, many: false },
+-    { pagePropertySlug: "captured-at", required: true, many: false },
+-    { pagePropertySlug: "total-value", required: true, many: false },
+-    { pagePropertySlug: "gold-amount", required: false, many: false },
+-    { pagePropertySlug: "currency-gold-value", required: false, many: false },
+-    { pagePropertySlug: "item-value", required: false, many: false },
+-    { pagePropertySlug: "excluded-guild-bank-value", required: false, many: false },
++    { pagePropertySlug: "text-property/account-page", required: true, many: false },
++    { pagePropertySlug: "instant-property/captured-at", required: true, many: false },
++    { pagePropertySlug: "number-property/total-value", required: true, many: false },
++    { pagePropertySlug: "number-property/gold-amount", required: false, many: false },
++    { pagePropertySlug: "number-property/currency-gold-value", required: false, many: false },
++    { pagePropertySlug: "number-property/item-value", required: false, many: false },
++    { pagePropertySlug: "number-property/excluded-guild-bank-value", required: false, many: false },
+   ],
+ } as const satisfies PagePropertyEntry
+diff --git a/temper/temper-holdings/net-worth-hours/temper-net-worth-hour.page-type.ts b/temper/temper-holdings/net-worth-hours/temper-net-worth-hour.page-type.ts
+index 877648433f6fcac67006527b9f775fae90f31a42..4559ffb6e50cd4de495f7b024e6a1c7c72c63924 100644
+--- a/temper/temper-holdings/net-worth-hours/temper-net-worth-hour.page-type.ts
++++ b/temper/temper-holdings/net-worth-hours/temper-net-worth-hour.page-type.ts
+@@ -20,7 +20,7 @@ export const temperNetWorthHour = {
+     "number-property/item-value",
+     "page-property-entry/snapshots",
+   ],
+-  properties: [{ pagePropertySlug: "snapshots", required: true, many: false }],
++  properties: [{ pagePropertySlug: "page-property-entry/snapshots", required: true, many: false }],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/temper/temper-holdings/sales/temper-sale.page-type.ts b/temper/temper-holdings/sales/temper-sale.page-type.ts
+index 83747f2f92f2ec7ab78ade3d86c4b6fbb31c27a5..634f08c4922f0b66508119ecd4bdc585cb41da6d 100644
+--- a/temper/temper-holdings/sales/temper-sale.page-type.ts
++++ b/temper/temper-holdings/sales/temper-sale.page-type.ts
+@@ -43,17 +43,17 @@ export const temperSale = {
+     "text-property/sale-id",
+   ],
+   properties: [
+-    { pagePropertySlug: "account-page", required: true, many: false },
+-    { pagePropertySlug: "sale-id", required: true, many: false },
+-    { pagePropertySlug: "sale-price", required: true, many: false },
+-    { pagePropertySlug: "tax", required: true, many: false },
+-    { pagePropertySlug: "net-payout", required: true, many: false },
+-    { pagePropertySlug: "item-name", required: false, many: false },
+-    { pagePropertySlug: "item-id", required: false, many: false },
+-    { pagePropertySlug: "sale-quantity", required: false, many: false },
+-    { pagePropertySlug: "guild-name", required: false, many: false },
+-    { pagePropertySlug: "buyer-name", required: false, many: false },
+-    { pagePropertySlug: "sold-at", required: false, many: false },
++    { pagePropertySlug: "text-property/account-page", required: true, many: false },
++    { pagePropertySlug: "text-property/sale-id", required: true, many: false },
++    { pagePropertySlug: "number-property/sale-price", required: true, many: false },
++    { pagePropertySlug: "number-property/tax", required: true, many: false },
++    { pagePropertySlug: "number-property/net-payout", required: true, many: false },
++    { pagePropertySlug: "text-property/item-name", required: false, many: false },
++    { pagePropertySlug: "number-property/item-id", required: false, many: false },
++    { pagePropertySlug: "number-property/sale-quantity", required: false, many: false },
++    { pagePropertySlug: "text-property/guild-name", required: false, many: false },
++    { pagePropertySlug: "text-property/buyer-name", required: false, many: false },
++    { pagePropertySlug: "instant-property/sold-at", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-holdings/temper-holdings-things/temper-holdings-thing.page-type.ts b/temper/temper-holdings/temper-holdings-things/temper-holdings-thing.page-type.ts
+index de608329d5b2e91757de11cc59dd632ad446e52c..859c6eec45e8586bd90a2c629d413440edd31a70 100644
+--- a/temper/temper-holdings/temper-holdings-things/temper-holdings-thing.page-type.ts
++++ b/temper/temper-holdings/temper-holdings-things/temper-holdings-thing.page-type.ts
+@@ -17,8 +17,8 @@ export const temperHoldingsThing = {
+   extendsSlug: ["page-type/temper-thing"],
+   partSlugs: ["number-property/total-value"],
+   properties: [
+-    { pagePropertySlug: "captured-at", required: false, many: false },
+-    { pagePropertySlug: "total-value", required: false, many: false },
++    { pagePropertySlug: "instant-property/captured-at", required: false, many: false },
++    { pagePropertySlug: "number-property/total-value", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-progress/activity-categories/temper-activity-category.page-type.ts b/temper/temper-progress/activity-categories/temper-activity-category.page-type.ts
+index 250835c1f1314a817995f47f71157b3d5768f423..e8648bca3b45cd435f217ccde43e59ffbe9c06a2 100644
+--- a/temper/temper-progress/activity-categories/temper-activity-category.page-type.ts
++++ b/temper/temper-progress/activity-categories/temper-activity-category.page-type.ts
+@@ -15,7 +15,7 @@ export const temperActivityCategory = {
+   extendsSlug: ["page-type/temper-progress-thing"],
+   partSlugs: ["text-property/badge-variant"],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "badge-variant", required: true, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "text-property/badge-variant", required: true, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-progress/comparison-ops/temper-comparison-op.page-type.ts b/temper/temper-progress/comparison-ops/temper-comparison-op.page-type.ts
+index 7bcd63344bb8db2271fda631d889bb014aeb39d9..5b84a56ed9ab8b3dcf9a9b9d71a54568fa5de5c4 100644
+--- a/temper/temper-progress/comparison-ops/temper-comparison-op.page-type.ts
++++ b/temper/temper-progress/comparison-ops/temper-comparison-op.page-type.ts
+@@ -10,7 +10,7 @@ export const temperComparisonOp = {
+   definition: "a way of comparing a number an item rule reads",
+   pluralSlug: "temper-comparison-ops",
+   extendsSlug: ["page-type/temper-progress-thing"],
+-  properties: [{ pagePropertySlug: "key", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/key", required: true, many: false }],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts b/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts
+index 8ee484376cf159a90f385be75a23e48f46c54f2e..038367c77ea2e3c963c5f5792415bab614730bf8 100644
+--- a/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts
++++ b/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts
+@@ -9,14 +9,19 @@ export const completions = {
+   propertySlug: "completions",
+   definition: "the tasks marked done on a day, one completion to a line",
+   properties: [
+-    { pagePropertySlug: "completed-at", required: true, many: false },
+-    { pagePropertySlug: "task", required: false, many: false },
+-    { pagePropertySlug: "title", required: false, many: false },
+-    { pagePropertySlug: "character", required: false, many: false },
+-    { pagePropertySlug: "eso-character-id", required: false, many: false },
+-    { pagePropertySlug: "due-date", required: false, many: false },
+-    { pagePropertySlug: "completion-card-id", required: false, many: false },
+-    { pagePropertySlug: "completion-item-path", required: false, many: true, max: null },
++    { pagePropertySlug: "instant-property/completed-at", required: true, many: false },
++    { pagePropertySlug: "text-property/task", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: false, many: false },
++    { pagePropertySlug: "text-property/character", required: false, many: false },
++    { pagePropertySlug: "text-property/eso-character-id", required: false, many: false },
++    { pagePropertySlug: "text-property/due-date", required: false, many: false },
++    { pagePropertySlug: "text-property/completion-card-id", required: false, many: false },
++    {
++      pagePropertySlug: "text-property/completion-item-path",
++      required: false,
++      many: true,
++      max: null,
++    },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-progress/completed-days/temper-completed-day.page-type.ts b/temper/temper-progress/completed-days/temper-completed-day.page-type.ts
+index c1c60beb83468155318faba4e5c61fa5492d7922..2822f5de8462a8eef6101d8ce4e474c5034f5d6c 100644
+--- a/temper/temper-progress/completed-days/temper-completed-day.page-type.ts
++++ b/temper/temper-progress/completed-days/temper-completed-day.page-type.ts
+@@ -22,8 +22,8 @@ export const temperCompletedDay = {
+     "text-property/task",
+   ],
+   properties: [
+-    { pagePropertySlug: "day", required: true, many: false },
+-    { pagePropertySlug: "completions", required: false, many: false },
++    { pagePropertySlug: "text-property/day", required: true, many: false },
++    { pagePropertySlug: "page-property-entry/completions", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-progress/completion-categories/temper-completion-category.page-type.ts b/temper/temper-progress/completion-categories/temper-completion-category.page-type.ts
+index ba35671792aec2097095c13a38c810819671637a..bd3137e8ec3fcdebe1e3c2025dcba8096b316cdc 100644
+--- a/temper/temper-progress/completion-categories/temper-completion-category.page-type.ts
++++ b/temper/temper-progress/completion-categories/temper-completion-category.page-type.ts
+@@ -15,9 +15,9 @@ export const temperCompletionCategory = {
+   extendsSlug: ["page-type/temper-progress-thing"],
+   partSlugs: ["text-property/tab"],
+   properties: [
+-    { pagePropertySlug: "node-id", required: true, many: false },
+-    { pagePropertySlug: "tab", required: true, many: false },
+-    { pagePropertySlug: "display-order", required: true, many: false },
++    { pagePropertySlug: "text-property/node-id", required: true, many: false },
++    { pagePropertySlug: "text-property/tab", required: true, many: false },
++    { pagePropertySlug: "number-property/display-order", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-progress/completion-overrides/temper-completion-override.page-type.ts b/temper/temper-progress/completion-overrides/temper-completion-override.page-type.ts
+index b5a1420d9e2876356cd47781c0b2296497b03911..17c47981db71838c31dea2709187750a79bc31d4 100644
+--- a/temper/temper-progress/completion-overrides/temper-completion-override.page-type.ts
++++ b/temper/temper-progress/completion-overrides/temper-completion-override.page-type.ts
+@@ -17,12 +17,17 @@ export const temperCompletionOverride = {
+   extendsSlug: ["page-type/temper-progress-thing"],
+   partSlugs: ["number-property/floor", "text-property/override-reason"],
+   properties: [
+-    { pagePropertySlug: "account-page", required: true, many: false },
+-    { pagePropertySlug: "character", required: true, many: false },
+-    { pagePropertySlug: "completion-card-id", required: true, many: false },
+-    { pagePropertySlug: "completion-item-path", required: true, many: true, max: null },
+-    { pagePropertySlug: "floor", required: true, many: false },
+-    { pagePropertySlug: "override-reason", required: true, many: false },
++    { pagePropertySlug: "text-property/account-page", required: true, many: false },
++    { pagePropertySlug: "text-property/character", required: true, many: false },
++    { pagePropertySlug: "text-property/completion-card-id", required: true, many: false },
++    {
++      pagePropertySlug: "text-property/completion-item-path",
++      required: true,
++      many: true,
++      max: null,
++    },
++    { pagePropertySlug: "number-property/floor", required: true, many: false },
++    { pagePropertySlug: "text-property/override-reason", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-progress/condition-fields/temper-condition-field.page-type.ts b/temper/temper-progress/condition-fields/temper-condition-field.page-type.ts
+index d2c920b4e2aecc3a7890721ad3a7884024433449..b0bee73c9f3cf1a5480d0b365f6d5492b8dc2e39 100644
+--- a/temper/temper-progress/condition-fields/temper-condition-field.page-type.ts
++++ b/temper/temper-progress/condition-fields/temper-condition-field.page-type.ts
+@@ -11,8 +11,8 @@ export const temperConditionField = {
+   pluralSlug: "temper-condition-fields",
+   extendsSlug: ["page-type/temper-progress-thing"],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "description", required: true, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "text-property/description", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-progress/inventory-rules/properties/destination-chain.page-property-entry.ts b/temper/temper-progress/inventory-rules/properties/destination-chain.page-property-entry.ts
+index 0682715324a119cdc69cdbb35dc3f55676bf0adb..1f1af713f815d28c2cf741b214bf4d695c682189 100644
+--- a/temper/temper-progress/inventory-rules/properties/destination-chain.page-property-entry.ts
++++ b/temper/temper-progress/inventory-rules/properties/destination-chain.page-property-entry.ts
+@@ -9,9 +9,9 @@ export const destinationChain = {
+   propertySlug: "destination-chain",
+   definition: "where a rule puts an item, one leg to a line",
+   properties: [
+-    { pagePropertySlug: "destination", required: true, many: false },
+-    { pagePropertySlug: "target-quantity", required: false, many: false },
+-    { pagePropertySlug: "char-eligibility", required: false, many: false },
++    { pagePropertySlug: "text-property/destination", required: true, many: false },
++    { pagePropertySlug: "number-property/target-quantity", required: false, many: false },
++    { pagePropertySlug: "text-property/char-eligibility", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts b/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
+index 83a79b797f6dd17846a3ee0b24c86b58798542a1..b8ade63be5844cd954278abdc774889eed65f2dc 100644
+--- a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
++++ b/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
+@@ -28,15 +28,15 @@ export const temperInventoryRule = {
+     "text-property/char-eligibility",
+   ],
+   properties: [
+-    { pagePropertySlug: "account-page", required: true, many: false },
+-    { pagePropertySlug: "category-id", required: true, many: false },
+-    { pagePropertySlug: "display-order", required: true, many: false },
+-    { pagePropertySlug: "action", required: true, many: false },
+-    { pagePropertySlug: "active", required: true, many: false },
+-    { pagePropertySlug: "updated-at", required: true, many: false },
+-    { pagePropertySlug: "rule-locked", required: false, many: false },
+-    { pagePropertySlug: "from-template", required: false, many: false },
+-    { pagePropertySlug: "destination-chain", required: false, many: false },
++    { pagePropertySlug: "text-property/account-page", required: true, many: false },
++    { pagePropertySlug: "text-property/category-id", required: true, many: false },
++    { pagePropertySlug: "number-property/display-order", required: true, many: false },
++    { pagePropertySlug: "relation-property/action", required: true, many: false },
++    { pagePropertySlug: "boolean-property/active", required: true, many: false },
++    { pagePropertySlug: "instant-property/updated-at", required: true, many: false },
++    { pagePropertySlug: "boolean-property/rule-locked", required: false, many: false },
++    { pagePropertySlug: "relation-property/from-template", required: false, many: false },
++    { pagePropertySlug: "page-property-entry/destination-chain", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-progress/item-actions/temper-item-action.page-type.ts b/temper/temper-progress/item-actions/temper-item-action.page-type.ts
+index c6d92ad63f34d0723883f130cb50a131b0fb79c8..19098da33ae00d9e2c20fb454f44281b8ba56bdf 100644
+--- a/temper/temper-progress/item-actions/temper-item-action.page-type.ts
++++ b/temper/temper-progress/item-actions/temper-item-action.page-type.ts
+@@ -10,7 +10,7 @@ export const temperItemAction = {
+   definition: "one thing an item rule does to an item the rule matches",
+   pluralSlug: "temper-item-actions",
+   extendsSlug: ["page-type/temper-progress-thing"],
+-  properties: [{ pagePropertySlug: "description", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/description", required: true, many: false }],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/temper/temper-progress/metric-trees/temper-metric-tree.page-type.ts b/temper/temper-progress/metric-trees/temper-metric-tree.page-type.ts
+index db21657053506a9cf8fa452b736fed6ef2dcf5e3..2fc9de8232d550192b508b7a4394b523f42837a4 100644
+--- a/temper/temper-progress/metric-trees/temper-metric-tree.page-type.ts
++++ b/temper/temper-progress/metric-trees/temper-metric-tree.page-type.ts
+@@ -23,11 +23,15 @@ export const temperMetricTree = {
+     "text-property/node-type",
+   ],
+   properties: [
+-    { pagePropertySlug: "node-id", required: true, many: false },
+-    { pagePropertySlug: "node-type", required: true, many: false },
+-    { pagePropertySlug: "display-order", required: true, many: false },
+-    { pagePropertySlug: "include-in-child-aggregates", required: false, many: false },
+-    { pagePropertySlug: "use-accent-color", required: false, many: false },
++    { pagePropertySlug: "text-property/node-id", required: true, many: false },
++    { pagePropertySlug: "text-property/node-type", required: true, many: false },
++    { pagePropertySlug: "number-property/display-order", required: true, many: false },
++    {
++      pagePropertySlug: "boolean-property/include-in-child-aggregates",
++      required: false,
++      many: false,
++    },
++    { pagePropertySlug: "boolean-property/use-accent-color", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-progress/progress-things/temper-progress-thing.page-type.ts b/temper/temper-progress/progress-things/temper-progress-thing.page-type.ts
+index cdabeae5d27bd214c345f0af8ec094722a80550b..d44bcfcb830c1711440d1570957f41f4fca0c7ae 100644
+--- a/temper/temper-progress/progress-things/temper-progress-thing.page-type.ts
++++ b/temper/temper-progress/progress-things/temper-progress-thing.page-type.ts
+@@ -41,15 +41,24 @@ export const temperProgressThing = {
+     "text-property/scope",
+   ],
+   properties: [
+-    { pagePropertySlug: "node-id", required: false, many: false },
+-    { pagePropertySlug: "character", required: false, many: false },
+-    { pagePropertySlug: "completion-card-id", required: false, many: false },
+-    { pagePropertySlug: "completion-item-path", required: false, many: true, max: null },
+-    { pagePropertySlug: "scope", required: false, many: false },
+-    { pagePropertySlug: "priority", required: false, many: false },
+-    { pagePropertySlug: "due-date", required: false, many: false },
+-    { pagePropertySlug: "rrule-rule", required: false, many: false },
+-    { pagePropertySlug: "rrule-anchor-from-completion", required: false, many: false },
++    { pagePropertySlug: "text-property/node-id", required: false, many: false },
++    { pagePropertySlug: "text-property/character", required: false, many: false },
++    { pagePropertySlug: "text-property/completion-card-id", required: false, many: false },
++    {
++      pagePropertySlug: "text-property/completion-item-path",
++      required: false,
++      many: true,
++      max: null,
++    },
++    { pagePropertySlug: "text-property/scope", required: false, many: false },
++    { pagePropertySlug: "text-property/priority", required: false, many: false },
++    { pagePropertySlug: "text-property/due-date", required: false, many: false },
++    { pagePropertySlug: "text-property/rrule-rule", required: false, many: false },
++    {
++      pagePropertySlug: "boolean-property/rrule-anchor-from-completion",
++      required: false,
++      many: false,
++    },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-progress/rotation-breakdown-rows/temper-rotation-breakdown-row.page-type.ts b/temper/temper-progress/rotation-breakdown-rows/temper-rotation-breakdown-row.page-type.ts
+index a86f51a092c93549f883ca4e7b9c6994d533a7b5..0c222c1f6d17ead2038253656415402dcab656ca 100644
+--- a/temper/temper-progress/rotation-breakdown-rows/temper-rotation-breakdown-row.page-type.ts
++++ b/temper/temper-progress/rotation-breakdown-rows/temper-rotation-breakdown-row.page-type.ts
+@@ -15,9 +15,9 @@ export const temperRotationBreakdownRow = {
+   extendsSlug: ["page-type/temper-progress-thing"],
+   partSlugs: ["text-property/full-name"],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "description", required: true, many: false },
+-    { pagePropertySlug: "full-name", required: true, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "text-property/description", required: true, many: false },
++    { pagePropertySlug: "text-property/full-name", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-progress/rule-goals/temper-rule-goal.page-type.ts b/temper/temper-progress/rule-goals/temper-rule-goal.page-type.ts
+index a32341b8fb8ca0e457a910e6249e08dab8736f5a..81ea090abc9be75e3f8a4faec979df8fe3f562df 100644
+--- a/temper/temper-progress/rule-goals/temper-rule-goal.page-type.ts
++++ b/temper/temper-progress/rule-goals/temper-rule-goal.page-type.ts
+@@ -11,8 +11,8 @@ export const temperRuleGoal = {
+   pluralSlug: "temper-rule-goals",
+   extendsSlug: ["page-type/temper-progress-thing"],
+   properties: [
+-    { pagePropertySlug: "description", required: true, many: false },
+-    { pagePropertySlug: "display-order", required: true, many: false },
++    { pagePropertySlug: "text-property/description", required: true, many: false },
++    { pagePropertySlug: "number-property/display-order", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-progress/rule-templates/temper-rule-template.page-type.ts b/temper/temper-progress/rule-templates/temper-rule-template.page-type.ts
+index f7375581a5ef0674497cd6b5f24ab3cf9f239744..ec5688f3288b98e7f117494ca0a34b2dad115f59 100644
+--- a/temper/temper-progress/rule-templates/temper-rule-template.page-type.ts
++++ b/temper/temper-progress/rule-templates/temper-rule-template.page-type.ts
+@@ -11,13 +11,13 @@ export const temperRuleTemplate = {
+   pluralSlug: "temper-rule-templates",
+   extendsSlug: ["page-type/temper-rule"],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "description", required: true, many: false },
+-    { pagePropertySlug: "category-id", required: true, many: false },
+-    { pagePropertySlug: "display-order", required: true, many: false },
+-    { pagePropertySlug: "action", required: true, many: false },
+-    { pagePropertySlug: "active", required: true, many: false },
+-    { pagePropertySlug: "goal", required: true, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "text-property/description", required: true, many: false },
++    { pagePropertySlug: "text-property/category-id", required: true, many: false },
++    { pagePropertySlug: "number-property/display-order", required: true, many: false },
++    { pagePropertySlug: "relation-property/action", required: true, many: false },
++    { pagePropertySlug: "boolean-property/active", required: true, many: false },
++    { pagePropertySlug: "relation-property/goal", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-progress/rules/properties/conditions.page-property-entry.ts b/temper/temper-progress/rules/properties/conditions.page-property-entry.ts
+index 780cac128f4ba54e5ad8d96b09ab67ad10781c75..002846e1cf42f40dcf521fa5a50054499609c94b 100644
+--- a/temper/temper-progress/rules/properties/conditions.page-property-entry.ts
++++ b/temper/temper-progress/rules/properties/conditions.page-property-entry.ts
+@@ -9,8 +9,8 @@ export const conditions = {
+   propertySlug: "conditions",
+   definition: "what an item must satisfy for a rule to act, one test to a line",
+   properties: [
+-    { pagePropertySlug: "condition-field", required: true, many: false },
+-    { pagePropertySlug: "condition-value", required: true, many: false },
++    { pagePropertySlug: "relation-property/condition-field", required: true, many: false },
++    { pagePropertySlug: "text-property/condition-value", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-progress/rules/temper-rule.page-type.ts b/temper/temper-progress/rules/temper-rule.page-type.ts
+index b0a78651ccf72ea73bc4a73dd39b310a0ed3ea2e..78573953278c5eed1705938a98a11fc8626d8ee1 100644
+--- a/temper/temper-progress/rules/temper-rule.page-type.ts
++++ b/temper/temper-progress/rules/temper-rule.page-type.ts
+@@ -34,12 +34,12 @@ export const temperRule = {
+     "text-property/destination",
+   ],
+   properties: [
+-    { pagePropertySlug: "action", required: false, many: false },
+-    { pagePropertySlug: "active", required: false, many: false },
+-    { pagePropertySlug: "goal", required: false, many: false },
+-    { pagePropertySlug: "conditions", required: false, many: false },
+-    { pagePropertySlug: "destination", required: false, many: false },
+-    { pagePropertySlug: "stock-scope", required: false, many: false },
++    { pagePropertySlug: "relation-property/action", required: false, many: false },
++    { pagePropertySlug: "boolean-property/active", required: false, many: false },
++    { pagePropertySlug: "relation-property/goal", required: false, many: false },
++    { pagePropertySlug: "page-property-entry/conditions", required: false, many: false },
++    { pagePropertySlug: "text-property/destination", required: false, many: false },
++    { pagePropertySlug: "select-property/stock-scope", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-progress/tasks/properties/progress.page-property-entry.ts b/temper/temper-progress/tasks/properties/progress.page-property-entry.ts
+index cf1c5501d85ab166f9fd82b68df567b702040a54..26befc361b83753454949cb75ce8fa7600d7be52 100644
+--- a/temper/temper-progress/tasks/properties/progress.page-property-entry.ts
++++ b/temper/temper-progress/tasks/properties/progress.page-property-entry.ts
+@@ -9,10 +9,10 @@ export const progress = {
+   propertySlug: "progress",
+   definition: "how far a task has come, one character to a line",
+   properties: [
+-    { pagePropertySlug: "character-name", required: true, many: false },
+-    { pagePropertySlug: "progress-total", required: true, many: false },
+-    { pagePropertySlug: "progress-current", required: true, many: false },
+-    { pagePropertySlug: "display-order", required: true, many: false },
++    { pagePropertySlug: "text-property/character-name", required: true, many: false },
++    { pagePropertySlug: "number-property/progress-total", required: true, many: false },
++    { pagePropertySlug: "number-property/progress-current", required: true, many: false },
++    { pagePropertySlug: "number-property/display-order", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-progress/tasks/temper-task.page-type.ts b/temper/temper-progress/tasks/temper-task.page-type.ts
+index 481e617b4eff1421ef530663e8fd8242dc8742f2..f47fd4c9023a66908000a0f86e9d343da67679f7 100644
+--- a/temper/temper-progress/tasks/temper-task.page-type.ts
++++ b/temper/temper-progress/tasks/temper-task.page-type.ts
+@@ -39,17 +39,22 @@ export const temperTask = {
+     "text-property/effective-character",
+   ],
+   properties: [
+-    { pagePropertySlug: "account-page", required: true, many: false },
+-    { pagePropertySlug: "scope", required: true, many: false },
+-    { pagePropertySlug: "priority", required: true, many: false },
++    { pagePropertySlug: "text-property/account-page", required: true, many: false },
++    { pagePropertySlug: "text-property/scope", required: true, many: false },
++    { pagePropertySlug: "text-property/priority", required: true, many: false },
+     { pagePropertySlug: "calendar-time-property/due-time", required: false, many: false },
+-    { pagePropertySlug: "effective-character", required: false, many: false },
+-    { pagePropertySlug: "last-completed-at", required: false, many: false },
+-    { pagePropertySlug: "progress", required: false, many: false },
+-    { pagePropertySlug: "progress-total", required: false, many: false },
+-    { pagePropertySlug: "progress-current", required: false, many: false },
+-    { pagePropertySlug: "character-sort-order", required: false, many: false },
+-    { pagePropertySlug: "pending-sync", required: false, many: false, uncommitted: true },
++    { pagePropertySlug: "text-property/effective-character", required: false, many: false },
++    { pagePropertySlug: "instant-property/last-completed-at", required: false, many: false },
++    { pagePropertySlug: "page-property-entry/progress", required: false, many: false },
++    { pagePropertySlug: "number-property/progress-total", required: false, many: false },
++    { pagePropertySlug: "number-property/progress-current", required: false, many: false },
++    { pagePropertySlug: "number-property/character-sort-order", required: false, many: false },
++    {
++      pagePropertySlug: "boolean-property/pending-sync",
++      required: false,
++      many: false,
++      uncommitted: true,
++    },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-progress/watcher-enrolments/temper-watcher-enrolment.page-type.ts b/temper/temper-progress/watcher-enrolments/temper-watcher-enrolment.page-type.ts
+index 4d3be2ae91f662add8a9298fb94392b14dcd84c3..87de0239d539d3e06360b7ab810ac769ba3794e0 100644
+--- a/temper/temper-progress/watcher-enrolments/temper-watcher-enrolment.page-type.ts
++++ b/temper/temper-progress/watcher-enrolments/temper-watcher-enrolment.page-type.ts
+@@ -32,13 +32,23 @@ export const temperWatcherEnrolment = {
+     "text-property/token-name",
+   ],
+   properties: [
+-    { pagePropertySlug: "account-page", required: true, many: false },
+-    { pagePropertySlug: "token-hash", required: true, many: false },
+-    { pagePropertySlug: "token-name", required: true, many: false },
+-    { pagePropertySlug: "token-created-at", required: true, many: false },
+-    { pagePropertySlug: "token", required: false, many: false, secret: true },
+-    { pagePropertySlug: "token-last-used-at", required: false, many: false, uncommitted: true },
+-    { pagePropertySlug: "last-run-outcome", required: false, many: false, uncommitted: true },
++    { pagePropertySlug: "text-property/account-page", required: true, many: false },
++    { pagePropertySlug: "text-property/token-hash", required: true, many: false },
++    { pagePropertySlug: "text-property/token-name", required: true, many: false },
++    { pagePropertySlug: "instant-property/token-created-at", required: true, many: false },
++    { pagePropertySlug: "text-property/token", required: false, many: false, secret: true },
++    {
++      pagePropertySlug: "instant-property/token-last-used-at",
++      required: false,
++      many: false,
++      uncommitted: true,
++    },
++    {
++      pagePropertySlug: "text-property/last-run-outcome",
++      required: false,
++      many: false,
++      uncommitted: true,
++    },
+   ],
+   invariants: [
+     {
