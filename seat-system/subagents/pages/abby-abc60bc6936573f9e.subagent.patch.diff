@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-arfid-and-appetite-suppression-compose.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-arfid-and-appetite-suppression-compose.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b30de075336c398c8c0b4c2395d44534f8e3987c
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-arfid-and-appetite-suppression-compose.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howArfidAndAppetiteSuppressionCompose = {
++  id: "01a077eb-c349-704b-9161-932fb58990e2",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-arfid-and-appetite-suppression-compose",
++  topicSlug: "what-comes-with-it",
++  ask: "How do my ARFID lean and my medication's appetite suppression compose against my resource accounting?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-my-obsessive-compulsive-content-costs.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-my-obsessive-compulsive-content-costs.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..be176de17b4620acc2f2210b20da18899b2faa2b
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-my-obsessive-compulsive-content-costs.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatMyObsessiveCompulsiveContentCosts = {
++  id: "01a077eb-c349-7a24-836c-39e6bb3c34fc",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-my-obsessive-compulsive-content-costs",
++  topicSlug: "what-comes-with-it",
++  ask: "What kind of obsessive-compulsive content do I have, and what does that content cost me?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-immune-activation-feeds-the-load.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-immune-activation-feeds-the-load.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..866d623905385754bc5cbfca25bf2ec8fdc402ad
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-immune-activation-feeds-the-load.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherImmuneActivationFeedsTheLoad = {
++  id: "01a077eb-c349-7776-ab70-142c39af7cd0",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-immune-activation-feeds-the-load",
++  topicSlug: "what-comes-with-it",
++  ask: "Does immune activation feed the load and deserve a mechanism of its own, where my nervous-system sensitivity, how trauma sits in that sensitivity, and the four bars would meet?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-autonomic-disorders-apply-to-me.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-autonomic-disorders-apply-to-me.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..29b70adc8af3eb1a6102a3d588cff572cc9c8c6d
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-autonomic-disorders-apply-to-me.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichAutonomicDisordersApplyToMe = {
++  id: "01a077eb-c348-7b28-a519-8cd4304099cc",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-autonomic-disorders-apply-to-me",
++  topicSlug: "what-comes-with-it",
++  ask: "Which autonomic disorders apply to me beyond my knowing that POTS does not?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-comes-with-it.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-comes-with-it.all-about-alan-topic.ts
+index d51d118feaa947bfcebc8e54a0d23896992d30d2..a32baeaa526667cfab9023cb93c916159b054e02 100644
+--- a/alan/books/all-about-alan/topics/pages/what-comes-with-it.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-comes-with-it.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whatComesWithIt = {
+   relatedSlugs: ["resources", "how-warm-i-run", "sleep"],
+   settled:
+     "The hypothesis is that my neurotype is a change in the pathways running the regulatory nervous system, which widens the risk across everything that system runs.\n\nThese are the one tier I would fix. The neurotype itself I would not.\n\nAutonomic trouble applies but not POTS, and low mood is downstream of stress rather than primary.\n\nAlexithymia arrives twice over, once from each side of how I am built.\n\nGut trouble, chronic pain, migraines, tinnitus and tics do not apply.",
+-  unsettled:
+-    "Which autonomic disorders apply beyond not-POTS is unprobed.\n\nWhat kind of obsessive-compulsive content there is, and what it costs, is undescribed.\n\nHow the ARFID lean and the medication's appetite suppression compose against my resource accounting is unworked.\n\nWhether the immune activation feeds the load, and deserves a mechanism of its own, is a hypothesis with no treatment; it is where my nervous-system sensitivity, how trauma sits in it, and the four bars would meet.",
+ } as const satisfies AllAboutAlanTopic
