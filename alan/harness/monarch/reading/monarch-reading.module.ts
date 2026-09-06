@@ -47,7 +47,8 @@ export const monarchReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The root read is the one the environment states or the one the call was made in.",
+      statement:
+        "The root read is the root the environment states or the folder the call was made in.",
     },
     {
       invariantKind: "stopgap",
@@ -55,7 +56,7 @@ export const monarchReading = {
     },
     {
       invariantKind: "absence",
-      statement: "Importing this file takes none.",
+      statement: "Importing this file takes no reading.",
     },
     {
       invariantKind: "absence",
