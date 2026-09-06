@@ -14,9 +14,18 @@ index db02dc0032d489278a9b5b8a67d216db27422b91..2d5b01515c590b204844510e844bce24
    expect(reasonsIn(given("akasha/notes.txt", 'export * from "./b.ts"\n'))).toEqual([])
  })
 diff --git a/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts b/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts
-index 0256b91c0591cc2802cc154cbf09fa067a36c31b..68eef1e2559a26594256d2c6b006c53cdcc02fdf 100644
+index 0256b91c0591cc2802cc154cbf09fa067a36c31b..2cdd0acae975e942353be3c7b9dd5abfb2b2ac3d 100644
 --- a/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts
 +++ b/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts
+@@ -15,7 +15,7 @@ export const noReExport = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A name imported and then exported is judged the same as one exported straight from its source.",
++        "A name imported and then exported is judged as a name exported straight from its source.",
+     },
+     {
+       invariantKind: "departure",
 @@ -42,9 +42,5 @@ export const noReExport = {
        statement:
          "An imported value bound to a fresh exported name is a declaration this file made.",
