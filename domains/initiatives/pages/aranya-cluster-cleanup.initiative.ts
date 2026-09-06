@@ -28,11 +28,6 @@ export const aranyaClusterCleanup = {
         "`openingWith` refuses a folder whose name equals or opens with the name of the page above it, so `cluster-api`, `cluster-manifests`, `cluster-operations`, `cluster-provisioning` and `cluster-services` lose the prefix. Folder names only; slugs and npm names are untouched. Besides the prefixes, the roots fail on `tunnel-routes.ts`, `nodes.json`, an undeclared `cluster-secrets` and two domain pages in `cluster-provisioning`. The refusal counts are re-run rather than kept, the tree moving under them.",
     },
     {
-      statement: "A dev server's `.env.local` is written from the secret pages.",
-      workingMemory:
-        "Migrating the five web app Secrets onto pages left no `deploy/secrets.sops.yaml` anywhere, and `writeEnvLocalFromSops` throws `secrets file not found` when that path is missing, so `akasha dev-server env` and `bootstrap` are dead for all five apps the registry names: `dev-server.command.code.ts:235` and `:263` call it unguarded. The module's own page still says the env is made from the sops secrets beside the app. `bootstrap-namespace.shell-script.shell.sh:105` warns and skips instead of dying.",
-    },
-    {
       statement: "Every working subagent has a page, and every stopped one has none.",
       workingMemory:
         "The page is the restart interlock rather than bookkeeping: `standingSubagentsOf` reads the pages on disk and gates `seat-resume.module.code.ts:265` and `stop-seat.module.code.ts:56`, so a wrong answer restarts a seat under a live subagent or refuses to restart an idle one. Both directions are live. `aranya-a5d85bfbd911ddb09` was reaped at 10:07:05 and worked on to 10:19, unlandable and unseen. How many pages are stale is counted when needed, the census turning over by the hour.",
