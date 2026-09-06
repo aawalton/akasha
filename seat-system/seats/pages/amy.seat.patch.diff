@@ -1,0 +1,12 @@
+diff --git a/pages/views/pages/alanwalton-identity-themes.view.ts b/pages/views/pages/alanwalton-identity-themes.view.ts
+index 7592c542e42d27a33004a2b5cf850e0338e76b19..688de7318125bf0c2b7a08eb0c8fb816b0545488 100644
+--- a/pages/views/pages/alanwalton-identity-themes.view.ts
++++ b/pages/views/pages/alanwalton-identity-themes.view.ts
+@@ -6,6 +6,7 @@ export const alanwaltonIdentityThemes = {
+   slug: "alanwalton-identity-themes",
+   title: "Themes",
+   navSlug: "alanwalton-identity",
++  pageType: "life-theme",
+   viewPlace: 1,
+   layout: "cards",
+   visibleProperties: ["value-slug"],
