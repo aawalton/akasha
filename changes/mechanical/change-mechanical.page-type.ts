@@ -1,6 +1,6 @@
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
 import type { Change } from "../change.page-type.ts"
-import type { GuardSlugs } from "../properties/guard-slugs.relation-property.ts"
+import type { GuardSlugs } from "./properties/guard-slugs.relation-property.ts"
 
 export type ChangeMechanical = Change & {
   guardSlugs?: readonly GuardSlugs[]
