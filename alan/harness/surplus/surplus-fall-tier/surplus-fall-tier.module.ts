@@ -14,7 +14,7 @@ export const surplusFallTier = {
     },
     {
       invariantKind: "departure",
-      statement: "A colour nearer black is the worse one.",
+      statement: "A reading nearer black is the worse reading.",
     },
     {
       invariantKind: "departure",
