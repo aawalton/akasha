@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-limiting-resource-can-move-again.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-limiting-resource-can-move-again.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fca6fedba3bc76397c721483ed20e43d6b5aa722
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-limiting-resource-can-move-again.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMyLimitingResourceCanMoveAgain = {
++  id: "01a077ec-8fbd-7747-98e8-f142c68fafdd",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-limiting-resource-can-move-again",
++  topicSlug: "what-limits-me",
++  ask: "The limiting resource already moved once, from stress to safety, and the hub moved with it. Is the limit fixed at safety now, or can it move again, and what would move it?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-stress-signal-was-a-proxy-for-safety.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-stress-signal-was-a-proxy-for-safety.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..18c79525eec3bcda649727d0fcf92b029f7d1068
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-stress-signal-was-a-proxy-for-safety.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMyStressSignalWasAProxyForSafety = {
++  id: "01a077ec-8fbd-7da4-844f-85df74998758",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-stress-signal-was-a-proxy-for-safety",
++  topicSlug: "what-limits-me",
++  ask: "Was the stress signal I tracked for twenty years only ever a proxy for safety, which would dissolve my account of the bottleneck moving rather than confirm it?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-years-executive-function-was-my-bottleneck.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-years-executive-function-was-my-bottleneck.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6178d968655ee2cdc6bf42cdb7c09b21c5ba1177
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-years-executive-function-was-my-bottleneck.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichYearsExecutiveFunctionWasMyBottleneck = {
++  id: "01a077ec-8fbc-78a2-960c-a764f6169afc",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-years-executive-function-was-my-bottleneck",
++  topicSlug: "what-limits-me",
++  ask: "Which years did executive function hold the bottleneck, and when did each restorer take effect?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-limits-me.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-limits-me.all-about-alan-topic.ts
+index f83f6b5319d8d65ec67edfce9750f59df32d12a6..27ca461c8d7e7e293104a51abdeca94c7fffc7de 100644
+--- a/alan/books/all-about-alan/topics/pages/what-limits-me.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-limits-me.all-about-alan-topic.ts
+@@ -8,6 +8,4 @@ export const whatLimitsMe = {
+   definition: "the one resource holding everything else up",
+   parentSlugs: ["resources"],
+   settled: "It is one at a time, and which one it is changes as I recover.",
+-  unsettled:
+-    "Which years executive function held the bottleneck is unrecorded, and so is when each restorer took effect.\n\nThe stress signal I tracked for twenty years may only ever have been a proxy for safety, which would dissolve the account of the bottleneck passing rather than confirm it.\n\nThe limiting resource already moved once, from stress to safety, and the hub moved with it. Is it fixed at safety now, or can it move again, and what would move it?",
+ } as const satisfies AllAboutAlanTopic
