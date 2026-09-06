@@ -15,7 +15,8 @@ export const gitPushing = {
     },
     {
       invariantKind: "departure",
-      statement: "The remote is the one the branch tracks, or the first the checkout names.",
+      statement:
+        "The remote is the remote the branch tracks or the first remote the checkout names.",
     },
     {
       invariantKind: "departure",
