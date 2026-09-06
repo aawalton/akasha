@@ -1,0 +1,316 @@
+diff --git a/command-system/commands/measure/check-measuring/check-measuring.module.code.ts b/command-system/commands/measure/check-measuring/check-measuring.module.code.ts
+index f33ad1b6cf1ff61b638ed6ed9bf62f43a7fd7033..c8d1d1341b6ef1179dce0eae085592f7c6ea8dbb 100644
+--- a/command-system/commands/measure/check-measuring/check-measuring.module.code.ts
++++ b/command-system/commands/measure/check-measuring/check-measuring.module.code.ts
+@@ -12,6 +12,10 @@ const AUDIT = "audit"
+ 
+ const ABSENT = "-"
+ 
++const HOURS = 24
++
++const HOUR_MS = 3600000
++
+ const HEADING: readonly string[] = [
+   "check",
+   "patch runs",
+@@ -22,6 +26,8 @@ const HEADING: readonly string[] = [
+   "full mem",
+ ]
+ 
++const WINDOW = `over the last ${String(HOURS)} hours`
++
+ const UNREAD = "these were not read, and count no runs:"
+ 
+ const OTHER = "these runs name a phase this does not split by:"
+@@ -34,6 +40,7 @@ const GIB = 1024 * 1024 * 1024
+ 
+ export interface Run {
+   readonly phase: string
++  readonly ranAt: number
+   readonly cpu: number
+   readonly mem: number | null
+ }
+@@ -66,6 +73,7 @@ export function runsIn(body: string): readonly Run[] {
+     const one = JSON.parse(line) as Record<string, unknown>
+     found.push({
+       phase: String(one["phase"] ?? ""),
++      ranAt: Date.parse(String(one["ranAt"] ?? "")),
+       cpu: Number(one["cpuSeconds"] ?? 0) + Number(one["childCpuSeconds"] ?? 0),
+       mem: one["peakMeasured"] === true ? Number(one["peakAddedBytes"] ?? 0) : null,
+     })
+@@ -73,6 +81,15 @@ export function runsIn(body: string): readonly Run[] {
+   return found
+ }
+ 
++export function sinceOf(now: number): number {
++  return now - HOURS * HOUR_MS
++}
++
++export function withinOf(runs: readonly Run[], now: number): readonly Run[] {
++  const since = sinceOf(now)
++  return runs.filter((one) => one.ranAt >= since && one.ranAt <= now)
++}
++
+ function memoryOf(some: readonly Run[]): readonly number[] {
+   return some.flatMap((one) => (one.mem === null ? [] : [one.mem]))
+ }
+@@ -106,7 +123,7 @@ function namedIn(root: string, folder: string): string | undefined {
+   }
+ }
+ 
+-export function costsIn(root: string): Costs {
++export function costsIn(root: string, now: number): Costs {
+   let folders: readonly string[]
+   try {
+     folders = readdirSync(join(root, PAGES_AT))
+@@ -122,7 +139,7 @@ export function costsIn(root: string): Costs {
+     const path = join(PAGES_AT, folder, name)
+     let runs: readonly Run[]
+     try {
+-      runs = runsIn(readFileSync(join(root, path), "utf8"))
++      runs = withinOf(runsIn(readFileSync(join(root, path), "utf8")), now)
+     } catch {
+       unread.push(path)
+       continue
+@@ -166,6 +183,7 @@ function rowOf(one: CheckCost): readonly string[] {
+ 
+ export function linesOf(costs: Costs): readonly string[] {
+   const said = [...columnsOf([HEADING, ...costs.checks.map(rowOf)])]
++  said.push(WINDOW)
+   if (costs.other.length > 0) said.push("", OTHER, ...costs.other)
+   if (costs.unread.length > 0) said.push("", UNREAD, ...costs.unread)
+   return said
+diff --git a/command-system/commands/measure/check-measuring/check-measuring.module.test.ts b/command-system/commands/measure/check-measuring/check-measuring.module.test.ts
+index 2a4629d4d0436054366ac58f22e1bcea600bdac9..8bf0639d5df42fa1292777e581f1fb4695085bab 100644
+--- a/command-system/commands/measure/check-measuring/check-measuring.module.test.ts
++++ b/command-system/commands/measure/check-measuring/check-measuring.module.test.ts
+@@ -9,15 +9,26 @@ import {
+   meanOf,
+   runsIn,
+   secondsAs,
++  withinOf,
+ } from "./check-measuring.module.code.ts"
+ 
+ const scratch = scratchWorld()
+ 
+ afterAll(scratch.sweep)
+ 
++const NOW = Date.parse("2026-09-05T12:00:00.000Z")
++
++const HOUR = 3600000
++
++const DAY = 24 * HOUR
++
++function agoOf(ms: number): string {
++  return new Date(NOW - ms).toISOString()
++}
++
+ function lineOf(one: Record<string, unknown>): string {
+   return JSON.stringify({
+-    ranAt: "2026-09-05T00:00:00.000Z",
++    ranAt: agoOf(HOUR),
+     wallMs: 0,
+     cpuSeconds: 0,
+     childCpuSeconds: 0,
+@@ -75,6 +86,62 @@ test("a run that forgot no high-water mark is left out of memory but counted eve
+   expect(cost.patchRuns).toBe(4)
+ })
+ 
++test("a run exactly the window's age is counted and a run a moment older is not", () => {
++  const runs = runsIn(
++    [
++      lineOf({ phase: "patch", cpuSeconds: 6, ranAt: agoOf(DAY) }),
++      lineOf({ phase: "patch", cpuSeconds: 60, ranAt: agoOf(DAY + 1) }),
++    ].join("\n")
++  )
++
++  expect(withinOf(runs, NOW).map((one) => one.cpu)).toEqual([6])
++})
++
++test("a run stamped after the moment of asking is not counted", () => {
++  const runs = runsIn(lineOf({ phase: "patch", cpuSeconds: 7, ranAt: agoOf(-HOUR) }))
++
++  expect(withinOf(runs, NOW)).toEqual([])
++})
++
++test("a run whose time cannot be read is not counted", () => {
++  const runs = runsIn(lineOf({ phase: "patch", cpuSeconds: 7, ranAt: "the other day" }))
++
++  expect(withinOf(runs, NOW)).toEqual([])
++})
++
++test("a run older than the window counts towards no average, at the edge or far outside", () => {
++  const root = rootWith({
++    one: [
++      { phase: "patch", cpuSeconds: 2, ranAt: agoOf(HOUR) },
++      { phase: "patch", cpuSeconds: 4, ranAt: agoOf(23 * HOUR) },
++      { phase: "patch", cpuSeconds: 100, ranAt: agoOf(DAY + 1) },
++      { phase: "patch", cpuSeconds: 1000, ranAt: agoOf(30 * DAY) },
++    ],
++  })
++  const cost = costsIn(root, NOW).checks[0]
++
++  expect(cost?.patchRuns).toBe(2)
++  expect(cost?.patchCpu).toBe(3)
++})
++
++test("a check holding no run within the window is not answered", () => {
++  const root = rootWith({
++    fresh: [{ phase: "patch", cpuSeconds: 1, ranAt: agoOf(HOUR) }],
++    stale: [
++      { phase: "patch", cpuSeconds: 9, ranAt: agoOf(DAY + 1) },
++      { phase: "audit", cpuSeconds: 9, ranAt: agoOf(30 * DAY) },
++    ],
++  })
++
++  expect(costsIn(root, NOW).checks.map((one) => one.check)).toEqual(["fresh"])
++})
++
++test("the window the numbers cover is said with the table", () => {
++  const cost = costOf("one", runsIn(lineOf({ phase: "patch", cpuSeconds: 1 })))
++
++  expect(linesOf({ checks: [cost], unread: [], other: [] })[2]).toBe("over the last 24 hours")
++})
++
+ test("how many runs a phase holds is counted beside that phase's averages", () => {
+   const root = rootWith({
+     one: [
+@@ -85,7 +152,7 @@ test("how many runs a phase holds is counted beside that phase's averages", () =
+       { phase: "worktree", cpuSeconds: 9 },
+     ],
+   })
+-  const cost = costsIn(root).checks[0]
++  const cost = costsIn(root, NOW).checks[0]
+ 
+   expect(cost?.patchRuns).toBe(3)
+   expect(cost?.patchCpu).toBe(4)
+@@ -129,7 +196,7 @@ test("checks are ordered by what their patch runs took, and no patch run comes l
+     ],
+   })
+ 
+-  expect(costsIn(root).checks.map((one) => one.check)).toEqual([
++  expect(costsIn(root, NOW).checks.map((one) => one.check)).toEqual([
+     "slow",
+     "skewed",
+     "b-tie",
+@@ -145,7 +212,7 @@ test("a patch run and an audit run are split apart", () => {
+       { phase: "audit", cpuSeconds: 8, peakAddedBytes: 1048576 },
+     ],
+   })
+-  const cost = costsIn(root).checks[0]
++  const cost = costsIn(root, NOW).checks[0]
+ 
+   expect(cost?.patchRuns).toBe(1)
+   expect(cost?.patchCpu).toBe(2)
+@@ -162,9 +229,10 @@ test("a run naming a phase this does not split by is counted beneath the table",
+       { phase: "worktree", cpuSeconds: 3 },
+       { phase: "deploy", cpuSeconds: 4 },
+       { phase: "worktree", cpuSeconds: 5 },
++      { phase: "worktree", cpuSeconds: 5, ranAt: agoOf(30 * DAY) },
+     ],
+   })
+-  const costs = costsIn(root)
++  const costs = costsIn(root, NOW)
+ 
+   expect(costs.checks[0]?.patchRuns).toBe(1)
+   expect(costs.checks[0]?.patchCpu).toBe(1)
+@@ -175,7 +243,7 @@ test("a run naming a phase this does not split by is counted beneath the table",
+ test("entries that could not be read are named beneath the table", () => {
+   const root = rootWith({ one: [{ phase: "patch", cpuSeconds: 1 }] })
+   put(root, "checks/code-checks/pages/bad/bad.code-check.entries.uncommitted.jsonl", "{not json\n")
+-  const costs = costsIn(root)
++  const costs = costsIn(root, NOW)
+ 
+   expect(costs.checks.map((one) => one.check)).toEqual(["one"])
+   expect(costs.unread).toEqual([
+@@ -197,7 +265,7 @@ test("a count of bytes is rounded to the whole byte before it is scaled", () =>
+ })
+ 
+ test("a root holding no checks answers no check rather than throwing", () => {
+-  expect(costsIn(scratch.rootFor("check-measuring-empty-"))).toEqual({
++  expect(costsIn(scratch.rootFor("check-measuring-empty-"), NOW)).toEqual({
+     checks: [],
+     unread: [],
+     other: [],
+diff --git a/command-system/commands/measure/check-measuring/check-measuring.module.ts b/command-system/commands/measure/check-measuring/check-measuring.module.ts
+index e5ffadf35a4b285fe873f33343fdcd5acd49d298..b792355afd840435135282dd17f06aef3251c17d 100644
+--- a/command-system/commands/measure/check-measuring/check-measuring.module.ts
++++ b/command-system/commands/measure/check-measuring/check-measuring.module.ts
+@@ -5,7 +5,7 @@ export const checkMeasuring = {
+   pageTypeSlug: "module",
+   slug: "check-measuring",
+   definition:
+-    "how much processor time and memory each check's runs took, split by the phase judged at",
++    "the processor time and memory a check's runs took in the last twenty-four hours, split by phase",
+   code: "ts",
+   test: "ts",
+   invariants: [
+@@ -13,6 +13,30 @@ export const checkMeasuring = {
+       invariantKind: "departure",
+       statement: "A check's runs are read from the entries beside that check's page.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The window is the twenty-four hours ending at the moment of asking.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run exactly twenty-four hours old is counted.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run older than that is not counted.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run stamped after the moment of asking is not counted.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run whose time cannot be read is not counted.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The window the numbers cover is said with the table.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A run's processor time is that run's own together with the children it reaped.",
+@@ -85,7 +109,7 @@ export const checkMeasuring = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A check whose page holds no entries is not answered.",
++      statement: "A check holding no run within the window is not answered.",
+     },
+     {
+       invariantKind: "absence",
+diff --git a/command-system/commands/measure/measure.command.code.ts b/command-system/commands/measure/measure.command.code.ts
+index 6775f87dbf6b07beac1cbb86c68a49fc61b8578a..5e0b8d6dea50a1a55859f5685e772a13b1d16493 100644
+--- a/command-system/commands/measure/measure.command.code.ts
++++ b/command-system/commands/measure/measure.command.code.ts
+@@ -68,7 +68,8 @@ function measurePages(given: Given): Answer {
+ }
+ 
+ function measureChecks(given: Given): Answer {
+-  return { report: [...checkLinesOf(costsIn(given.root))], refusals: [], code: 0 }
++  const said = checkLinesOf(costsIn(given.root, Date.now()))
++  return { report: [...said], refusals: [], code: 0 }
+ }
+ 
+ function measureCost(): Answer {
+diff --git a/command-system/commands/measure/measure.command.ts b/command-system/commands/measure/measure.command.ts
+index f60a68f65084f7d52b2d6a86ce24afb17edbc2f8..adde892ac540573752f5a40c2a079d66d380c57b 100644
+--- a/command-system/commands/measure/measure.command.ts
++++ b/command-system/commands/measure/measure.command.ts
+@@ -51,6 +51,10 @@ export const measure = {
+     "`repo` counts what git counts: tracked files, and untracked files the repository keeps.",
+     "what the repository ignores is not counted, so built output is no file waiting to arrive.",
+     "`checks` says what a check's run cost on average in processor time and memory, by phase.",
++    "the runs counted are the ones of the twenty-four hours ending at the moment of asking.",
++    "a run exactly twenty-four hours old is counted, and a run older than that is not.",
++    "a check no run of that window was judged at is not listed at all.",
++    "the window the numbers cover is said beneath the table.",
+     "an average is what a phase's runs took together shared out over how many runs there were.",
+     "a patch run judges the paths a change carries, and an audit run judges every page.",
+     "a run's processor time is that run's own together with the children that run reaped.",
