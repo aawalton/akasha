@@ -1,0 +1,17 @@
+diff --git a/alan/fitness/session-planning/equipment-kit/equipment-kit.module.ts b/alan/fitness/session-planning/equipment-kit/equipment-kit.module.ts
+index b6949c9948a3360a480cc7efdcb9aff4229ead3d..eb88ff9fb16d25e163e896a0ad7a381c3b35937d 100644
+--- a/alan/fitness/session-planning/equipment-kit/equipment-kit.module.ts
++++ b/alan/fitness/session-planning/equipment-kit/equipment-kit.module.ts
+@@ -22,7 +22,11 @@ export const equipmentKit = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "The equipment values are already slugs, so nothing is slugged here.",
++      statement: "The equipment values are already slugs.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing is slugged here.",
+     },
+   ],
+ } as const satisfies Module
