@@ -1,0 +1,37 @@
+diff --git a/alan/fitness/workout-sessions/properties/session-volume.computed-property.ts b/alan/fitness/workout-sessions/properties/session-volume.computed-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..da8af66333be8d5e6b2549cb665b6bbc7eaa792b
+--- /dev/null
++++ b/alan/fitness/workout-sessions/properties/session-volume.computed-property.ts
+@@ -0,0 +1,31 @@
++import type { ComputedProperty } from "@akasha/pages/computed-property"
++
++export type SessionVolume = number
++
++export const sessionVolume = {
++  id: "01a077ce-caaa-739f-9c24-48a9094326ac",
++  pageTypeSlug: "computed-property",
++  slug: "session-volume",
++  propertySlug: "session-volume",
++  definition: "the weight a session moved, in pounds",
++  holds: "number",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A session's volume is the volume of every set logged in that session.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A set's volume is worked out on the page of the set.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A session's volume is rounded where a set's volume is not.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A session no set names is worth nothing rather than no reading.",
++    },
++  ],
++} as const satisfies ComputedProperty
