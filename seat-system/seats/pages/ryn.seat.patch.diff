@@ -1,5 +1,5 @@
 diff --git a/checks/modules/check-scratch/check-scratch.module.ts b/checks/modules/check-scratch/check-scratch.module.ts
-index 0c58d27ac114364fbea50079df8f331bc6dee496..bb2fdab4602bcdc51307d39fe1f9cbd72f5e1ea2 100644
+index 0c58d27ac114364fbea50079df8f331bc6dee496..a1c7a3ec4fe60e346dcd5e781f53195eb35bbab8 100644
 --- a/checks/modules/check-scratch/check-scratch.module.ts
 +++ b/checks/modules/check-scratch/check-scratch.module.ts
 @@ -31,7 +31,7 @@ export const checkScratch = {
@@ -11,17 +11,27 @@ index 0c58d27ac114364fbea50079df8f331bc6dee496..bb2fdab4602bcdc51307d39fe1f9cbd7
      },
      {
        invariantKind: "departure",
-@@ -59,8 +59,11 @@ export const checkScratch = {
+@@ -59,13 +59,19 @@ export const checkScratch = {
      },
      {
        invariantKind: "departure",
 -      statement:
 -        "The properties a page type declares are read from its value, so typing one files that value.",
 +      statement: "The properties a page type declares are read from that page type's value.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "Typing a page type files that page type's value.",
      },
      {
        invariantKind: "departure",
+-      statement:
+-        "A page type files the types above that page type as a list, empty where that page type names none.",
++      statement: "Typing a page type files that page type's value.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page type files the types above that page type as a list.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That list is empty where the page type names no type above.",
+     },
+     {
+       invariantKind: "absence",
