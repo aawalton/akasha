@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/pages/service/page-reading/page-reading.module.ts b/pages/service/page-reading/page-reading.module.ts
+index 769bf07241dceab847642af378c5745f74ddaff0..7e0c05c92051bf3122290eacae29cb61274f641f 100644
+--- a/pages/service/page-reading/page-reading.module.ts
++++ b/pages/service/page-reading/page-reading.module.ts
+@@ -18,7 +18,7 @@ export const pageReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every body one read answers with is read at that one commit.",
++      statement: "Every body a read answers with is read at that read's commit.",
+     },
+     {
+       invariantKind: "departure",
