@@ -1,5 +1,5 @@
 diff --git a/infrastructure/infrastructure-commands/cluster-rbac-manifest/cluster-rbac-manifest.command.ts b/infrastructure/infrastructure-commands/cluster-rbac-manifest/cluster-rbac-manifest.command.ts
-index 35f38c8b58d56fc41a2047b080b97721ccb6fdf5..d1e4553f1531901659de689690de2a3986019b7a 100644
+index 35f38c8b58d56fc41a2047b080b97721ccb6fdf5..0474e28e8a5d1a8ed4c8300f1e588746a39c55fb 100644
 --- a/infrastructure/infrastructure-commands/cluster-rbac-manifest/cluster-rbac-manifest.command.ts
 +++ b/infrastructure/infrastructure-commands/cluster-rbac-manifest/cluster-rbac-manifest.command.ts
 @@ -29,7 +29,8 @@ export const clusterRbacManifest = {
@@ -12,16 +12,26 @@ index 35f38c8b58d56fc41a2047b080b97721ccb6fdf5..d1e4553f1531901659de689690de2a39
      },
      {
        invariantKind: "departure",
-@@ -45,7 +46,11 @@ export const clusterRbacManifest = {
+@@ -45,12 +46,19 @@ export const clusterRbacManifest = {
      },
      {
        invariantKind: "departure",
 -      statement: "The ci namespace role grants create on pods, which the cluster role does not.",
 +      statement: "The ci namespace role grants create on pods.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "The cluster role does not grant create on pods.",
      },
      {
        invariantKind: "departure",
+-      statement:
+-        "That role is admitted because the account applying that role already holds that verb.",
++      statement: "The cluster role does not grant create on pods.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The ci namespace role is admitted.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The account applying the ci namespace role already holds create on pods.",
+     },
+     {
+       invariantKind: "absence",
