@@ -28,7 +28,8 @@ export const certificateAuthority = {
     },
     {
       invariantKind: "departure",
-      statement: "An authority whose key is gone is a new authority rather than the same one.",
+      statement:
+        "An authority whose key is gone is a new authority rather than the same authority.",
     },
   ],
 } as const satisfies PageType
