@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/where-else-i-lean-on-someone-elses-record.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-else-i-lean-on-someone-elses-record.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..15e0825dcf7a009511394703ff467fd80e08a863
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/where-else-i-lean-on-someone-elses-record.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whereElseILeanOnSomeoneElsesRecord = {
++  id: "01a077e7-2984-7904-ada2-96577c542646",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "where-else-i-lean-on-someone-elses-record",
++  topicSlug: "the-stories-that-buy-me-a-day",
++  ask: "Does leaning on someone else's record show up anywhere else in how I work?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-stories-did-the-heaviest-lifting.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-stories-did-the-heaviest-lifting.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..946db57f51f0e47827291ed990980004636bf6e9
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-stories-did-the-heaviest-lifting.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichStoriesDidTheHeaviestLifting = {
++  id: "01a077e7-2983-79c3-9f58-7eaa77154589",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-stories-did-the-heaviest-lifting",
++  topicSlug: "the-stories-that-buy-me-a-day",
++  ask: "Which stories did the heaviest lifting for me, and what made one story land harder than another?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-stories-that-buy-me-a-day.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-stories-that-buy-me-a-day.all-about-alan-topic.ts
+index c5f7c0c6c626845f086a46cb23bc6f3da14239cf..3ea093cec7a45c2d56f828fb06deae5fe4b257d6 100644
+--- a/alan/books/all-about-alan/topics/pages/the-stories-that-buy-me-a-day.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-stories-that-buy-me-a-day.all-about-alan-topic.ts
+@@ -11,6 +11,4 @@ export const theStoriesThatBuyMeADay = {
+   relatedSlugs: ["how-i-know-things"],
+   settled:
+     "The arguments stop the act and supply no will to go on. This is where the will comes from.\n\nReal or invented makes no difference. What counts is that someone who hurt like this got through.\n\nI cannot picture a better future and feel it from inside, so hope cannot be made in here. It has to arrive as a record that survival happened to someone.\n\nIt is not the same job as cheap fiction letting a backlog out. That one drains and this one carries.",
+-  unsettled:
+-    "Which stories did the heaviest lifting, and what made one land harder than another, is unprobed.\n\nWhether leaning on someone else's record shows up anywhere else in how I work is open.",
+ } as const satisfies AllAboutAlanTopic
