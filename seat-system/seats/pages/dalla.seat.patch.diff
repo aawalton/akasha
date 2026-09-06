@@ -86,3 +86,37 @@ index 7a31dbd7badb920308198503b47bdfac723ff3d4..203bc2ff8e0088eebed33328da9a0edd
    const reading = importingOf(root, new Map([[given.at, given.at]]))
    if ("unread" in reading) return refusing(reading.unread)
    const over = [given.at, ...reading.importers]
+diff --git a/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.code.ts b/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.code.ts
+index 9dd758267fad5c99327cc83e907597a6c8209fb5..46c78231210401ecb817d664f7163d11234069a1 100644
+--- a/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.code.ts
++++ b/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.code.ts
+@@ -4,10 +4,8 @@ import { schemaOf } from "@akasha/indexes"
+ import { besideAt } from "@akasha/pages/page-file-name"
+ import { slugFor } from "@akasha/pages/page-property-key"
+ import { renamePath } from "../../../atomic-changes/pages/rename-path/rename-path.atomic-change.code.ts"
+-import {
+-  renameSlug,
+-  statedIn,
+-} from "../../../atomic-changes/pages/rename-slug/rename-slug.atomic-change.code.ts"
++import { renameSlug } from "../../../atomic-changes/pages/rename-slug/rename-slug.atomic-change.code.ts"
++import { statedIn } from "../../../partial/pages/restate-value/restate-value.change-partial.code.ts"
+ 
+ const TYPED = ".ts"
+ 
+@@ -22,6 +20,7 @@ const FILE_PROPERTY = "file-property"
+ export type Asked = {
+   readonly at: string
+   readonly to: string
++  readonly plural?: string
+ }
+ 
+ export type Renamed = {
+@@ -99,7 +98,7 @@ export function renamePageSlug(
+   }
+   const bodies = new Map<string, string>()
+   const over = readingOver(bodies, textOf)
+-  const said = renameSlug(root, { at: given.at, to: given.to }, over)
++  const said = renameSlug(root, { at: given.at, to: given.to, plural: given.plural }, over)
+   if (said.bodies === null) return refusing(said.refused ?? `\`${held.slug}\` was not renamed`)
+   for (const [path, body] of said.bodies) bodies.set(path, body)
+   const lands = join(dirname(given.at), `${given.to}.${held.pageTypeSlug}${TYPED}`)
