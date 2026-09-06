@@ -7,6 +7,7 @@ import {
   writing,
 } from "../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
+import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
 import { keyOf, literalIn } from "../restate-value/restate-value.change.code.ts"
 
 const BLIND = ts.TypeFlags.Any | ts.TypeFlags.Unknown
@@ -45,12 +46,8 @@ function without(
   return text.slice(0, from) + text.slice(one.getEnd())
 }
 
-function requiredIn(
-  root: string,
-  given: Asked,
-  textOf: (path: string) => string | null
-): boolean | null {
-  const typing = typingOver(root, [given.at], readingOf(root, textOf))
+function requiredIn(world: World, given: Asked): boolean | null {
+  const typing = typingOver(world.root, [given.at], readingOf(world.root, world.textOf))
   const source = typing.sourceAt(given.at)
   const held = source === null ? null : literalIn(source)
   if (held === null) return null
@@ -60,12 +57,8 @@ function requiredIn(
   return found === undefined ? false : (found.flags & ts.SymbolFlags.Optional) === 0
 }
 
-export function removePropertyValue(
-  root: string,
-  given: Asked,
-  textOf: (path: string) => string | null
-): Answer {
-  const text = textOf(given.at)
+export function removePropertyValue(world: World, given: Asked): Answer {
+  const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
   const source = parsedAs(given.at, text)
   const owner = literalIn(source)
@@ -91,7 +84,7 @@ export function removePropertyValue(
   if (!ts.isStringLiteral(holding) || holding.text !== given.value) {
     return refusing(`\`${given.key}\` holds no \`${given.value}\``)
   }
-  const required = requiredIn(root, given, textOf)
+  const required = requiredIn(world, given)
   if (required === null) {
     return refusing(`whether \`${given.key}\` is required could not be read`)
   }

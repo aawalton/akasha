@@ -71,16 +71,13 @@ export const removePage = {
       statement: "The parent naming the page in `part-slugs` is answered from that same world.",
     },
     {
-      invariantKind: "gap",
-      statement: "No change here drops the page's entry from the parent's `part-slugs`.",
+      invariantKind: "departure",
+      statement:
+        "The page's entry in the parent's `part-slugs` is dropped by `remove-property-value`.",
     },
     {
-      invariantKind: "gap",
-      statement: "An answer here leaves the parent's entry for the relation guard to refuse.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "`remove-property-value` is the change that will drop the parent's entry here.",
+      invariantKind: "departure",
+      statement: "A parent naming the page bare rather than qualified is dropped just the same.",
     },
     {
       invariantKind: "gap",

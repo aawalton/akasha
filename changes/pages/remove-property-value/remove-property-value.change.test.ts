@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
+import { worldAt } from "../../modules/change-shadow/change-shadow.module.code.ts"
 import { removePropertyValue } from "./remove-property-value.change.code.ts"
 
 const ROOT = "/var/tmp/remove-property-value"
@@ -40,7 +41,7 @@ function holding(body: string): (path: string) => string | null {
 }
 
 function saidOf(key: string, value: string, textOf: (path: string) => string | null): Answer {
-  return removePropertyValue(ROOT, { at: PAGE, key, value }, textOf)
+  return removePropertyValue(worldAt(ROOT, textOf), { at: PAGE, key, value })
 }
 
 function bodyOf(said: Answer): string {

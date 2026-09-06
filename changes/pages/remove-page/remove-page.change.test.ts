@@ -11,8 +11,10 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
+import { relationNotLeftHanging } from "../../guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts"
 import { answered, taking } from "../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
+import { guardedBy } from "../../modules/change-guarding/change-guarding.module.code.ts"
 import {
   type World,
   worldAt,
@@ -36,6 +38,12 @@ const SPARE_PAGE = "akasha/three/spare.module.ts"
 
 const SPARE_CODE = "akasha/three/spare.module.code.ts"
 
+const CHILD_PAGE = "akasha/four/child.module.ts"
+
+const PARENT_PAGE = "akasha/four/parent.module.ts"
+
+const AUNT_PAGE = "akasha/four/aunt.module.ts"
+
 const SPARE: Readonly<Record<string, string>> = {
   [SPARE_PAGE]: pageOf({
     id: idOf("d"),
@@ -46,6 +54,13 @@ const SPARE: Readonly<Record<string, string>> = {
   }),
   [SPARE_CODE]: 'import { kept } from "../one/held.module.code.ts"\n\nexport const spare = kept\n',
 }
+
+const CHILD = pageOf({
+  id: idOf("d"),
+  pageTypeSlug: "module",
+  slug: "child",
+  definition: "a page its parent names in part-slugs",
+})
 
 function worldIn(root: string): World {
   return worldAt(root, textIn(root))
@@ -73,6 +88,24 @@ function keptRepo(): string {
     [KEPT_PAGE]: pageOf({ id: idOf("f"), pageTypeSlug: "kept", slug: "one" }),
     [KEPT_NOTES]: '{"held":1}\n',
   })
+}
+
+function naming(slug: string, id: string, named: string): string {
+  return pageOf({
+    id,
+    pageTypeSlug: "module",
+    slug,
+    definition: "a page naming the child in part-slugs",
+    partSlugs: [named],
+  })
+}
+
+function familyRepo(named: Readonly<Record<string, string>>): string {
+  return indexedRepo({ [CHILD_PAGE]: CHILD, ...named })
+}
+
+function bodyIn(said: Answer, at: string): string {
+  return said.edits.find((one) => one.path === at)?.body ?? ""
 }
 
 function tookAway(root: string, path: string): Answer {
@@ -154,4 +187,53 @@ test("a parent an earlier change in the same answer took away is answered no lon
   const world = worldOver(worldIn(root), tookAway(root, NAMER_PAGE))
 
   expect(parentsOf(world, HELD_PAGE)).toEqual([])
+})
+
+test("the page and the parent's entry for that page go in one answer", () => {
+  const root = familyRepo({ [PARENT_PAGE]: naming("parent", idOf("e"), "module/child") })
+  const was = textIn(root)
+
+  const said = removePage(worldIn(root), { at: CHILD_PAGE })
+
+  expect(said.refused).toBe(null)
+  expect(said.edits.map((one) => one.path).sort()).toEqual([CHILD_PAGE, PARENT_PAGE])
+  expect(said.edits.find((one) => one.path === CHILD_PAGE)?.body).toBe(null)
+  expect(bodyIn(said, PARENT_PAGE)).toContain('"partSlugs": []')
+  expect(bodyIn(said, PARENT_PAGE)).not.toContain("module/child")
+  expect(said.edits.find((one) => one.path === PARENT_PAGE)?.was).toBe(was(PARENT_PAGE))
+})
+
+test("a parent naming the page bare rather than qualified loses that entry too", () => {
+  const root = familyRepo({ [PARENT_PAGE]: naming("parent", idOf("e"), "child") })
+
+  const said = removePage(worldIn(root), { at: CHILD_PAGE })
+
+  expect(said.refused).toBe(null)
+  expect(said.edits.map((one) => one.path).sort()).toEqual([CHILD_PAGE, PARENT_PAGE])
+  expect(bodyIn(said, PARENT_PAGE)).toContain('"partSlugs": []')
+  expect(bodyIn(said, PARENT_PAGE)).not.toContain('"child"')
+})
+
+test("a page two parents name loses its entry in both", () => {
+  const root = familyRepo({
+    [PARENT_PAGE]: naming("parent", idOf("e"), "module/child"),
+    [AUNT_PAGE]: naming("aunt", idOf("f"), "module/child"),
+  })
+
+  const said = removePage(worldIn(root), { at: CHILD_PAGE })
+
+  expect(said.refused).toBe(null)
+  expect(said.edits.map((one) => one.path).sort()).toEqual([AUNT_PAGE, CHILD_PAGE, PARENT_PAGE])
+  expect(bodyIn(said, PARENT_PAGE)).toContain('"partSlugs": []')
+  expect(bodyIn(said, AUNT_PAGE)).toContain('"partSlugs": []')
+})
+
+test("a page its parent names is refused by the relation guard no longer", () => {
+  const root = familyRepo({ [PARENT_PAGE]: naming("parent", idOf("e"), "module/child") })
+  const world = worldIn(root)
+  const alone = guardedBy(world, tookAway(root, CHILD_PAGE), [relationNotLeftHanging])
+
+  expect(parentsOf(world, CHILD_PAGE)).toEqual([{ path: PARENT_PAGE, propertySlug: "part-slugs" }])
+  expect(alone.refused ?? "").toContain(`\`${CHILD_PAGE}\` is taken away`)
+  expect(removePage(world, { at: CHILD_PAGE }).refused).toBe(null)
 })
