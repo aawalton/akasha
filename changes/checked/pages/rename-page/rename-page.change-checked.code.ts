@@ -2,17 +2,17 @@ import { basename, dirname, join } from "node:path"
 import { parsedAs } from "@akasha/code/code-source"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { slugFor } from "@akasha/pages/page-property-key"
-import { folderFor } from "../../../pages/service/page-composing/page-composing.module.code.ts"
+import { folderFor } from "../../../../pages/service/page-composing/page-composing.module.code.ts"
 import {
   answered,
   gathered,
   refusing,
-} from "../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
-import { type World, worldOver } from "../../modules/change-shadow/change-shadow.module.code.ts"
-import { renameSlug } from "../rename-page-slug/rename-page-slug.change-mechanical.code.ts"
-import { renamePath } from "../rename-path/rename-path.change-mechanical.code.ts"
-import { statedIn } from "../restate-value/restate-value.change-mechanical.code.ts"
+} from "../../../modules/change-answer/change-answer.module.code.ts"
+import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+import { type World, worldOver } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { renameSlug } from "../../../pages/rename-page-slug/rename-page-slug.change-mechanical.code.ts"
+import { renamePath } from "../../../pages/rename-path/rename-path.change-mechanical.code.ts"
+import { statedIn } from "../../../pages/restate-value/restate-value.change-mechanical.code.ts"
 
 const TYPED = ".ts"
 

@@ -12,8 +12,8 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
-import { worldAt } from "../../modules/change-shadow/change-shadow.module.code.ts"
+import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { renamePage } from "./rename-page.change-checked.code.ts"
 
 afterAll(scratch.sweep)

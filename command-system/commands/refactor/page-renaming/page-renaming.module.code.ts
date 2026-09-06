@@ -1,7 +1,7 @@
 import { listedAt } from "@akasha/indexes"
+import { renamePage } from "../../../../changes/checked/pages/rename-page/rename-page.change-checked.code.ts"
 import type { Edit } from "../../../../changes/modules/change-answer/change-answer.module.types.ts"
 import { worldAt } from "../../../../changes/modules/change-shadow/change-shadow.module.code.ts"
-import { renamePage } from "../../../../changes/pages/rename-page/rename-page.change-checked.code.ts"
 import { counted } from "../../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../calling/calling.module.code.ts"
 import { answering } from "../../../calling/calling.module.code.ts"

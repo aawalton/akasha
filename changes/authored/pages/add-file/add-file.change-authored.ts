@@ -1,10 +1,10 @@
-import type { ChangeAuthored } from "../../../authored/change-authored.page-type.ts"
+import type { ChangeAuthored } from "../../change-authored.page-type.ts"
 
-export const changeFile = {
-  id: "01a07813-6e3d-7d39-a28a-164766ab0fed",
+export const addFile = {
+  id: "01a07813-6e3b-77c3-9c1e-b0c5778fd31b",
   pageTypeSlug: "change-authored",
-  slug: "change-file",
-  definition: "one passage of one body replaced, judged by the checks a landing runs",
+  slug: "add-file",
+  definition: "one body written at one path, judged by the checks a landing runs",
   code: "ts",
   test: "ts",
   isCommand: true,
@@ -22,11 +22,11 @@ export const changeFile = {
     },
     {
       invariantKind: "departure",
-      statement: "The passage and the replacement are two arguments.",
+      statement: "The body is handed in whole rather than as a passage.",
     },
     {
       invariantKind: "departure",
-      statement: "Working the passage is left to the partial this change runs.",
+      statement: "Writing the body is left to the partial this change runs.",
     },
     {
       invariantKind: "absence",

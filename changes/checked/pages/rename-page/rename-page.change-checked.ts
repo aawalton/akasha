@@ -1,4 +1,4 @@
-import type { ChangeChecked } from "../../checked/change-checked.page-type.ts"
+import type { ChangeChecked } from "../../change-checked.page-type.ts"
 
 export const renamePage = {
   id: "01a07718-c9b6-7e8c-bc13-5927529ac249",

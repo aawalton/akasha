@@ -1,9 +1,9 @@
 export type Changes = {
   "change-authored/add-file": Parameters<
-    typeof import("../../../command/pages/add-file/add-file.change-authored.code.ts")["runChange"]
+    typeof import("../../../authored/pages/add-file/add-file.change-authored.code.ts")["runChange"]
   >[1]
   "change-authored/change-file": Parameters<
-    typeof import("../../../command/pages/change-file/change-file.change-authored.code.ts")["runChange"]
+    typeof import("../../../authored/pages/change-file/change-file.change-authored.code.ts")["runChange"]
   >[1]
   "change-checked/change-page-page-type": Parameters<
     typeof import("../../../checked/pages/change-page-page-type/change-page-page-type.change-checked.code.ts")["runChange"]
@@ -18,10 +18,10 @@ export type Changes = {
     typeof import("../../../checked/pages/remove-page-type/remove-page-type.change-checked.code.ts")["runChange"]
   >[1]
   "change-checked/rename-code-token": Parameters<
-    typeof import("../../../pages/rename-code-token/rename-code-token.change-checked.code.ts")["runChange"]
+    typeof import("../../../checked/pages/rename-code-token/rename-code-token.change-checked.code.ts")["runChange"]
   >[1]
   "change-checked/rename-page": Parameters<
-    typeof import("../../../pages/rename-page/rename-page.change-checked.code.ts")["runChange"]
+    typeof import("../../../checked/pages/rename-page/rename-page.change-checked.code.ts")["runChange"]
   >[1]
   "change-mechanical/add-file": Parameters<
     typeof import("../../../pages/add-file/add-file.change-mechanical.code.ts")["runChange"]

@@ -1,4 +1,4 @@
-import type { ChangeChecked } from "../../checked/change-checked.page-type.ts"
+import type { ChangeChecked } from "../../change-checked.page-type.ts"
 
 export const renameCodeToken = {
   id: "01a07718-c9b6-7d80-aebd-b1155f08ab77",
