@@ -325,3 +325,35 @@ index dbf1220d4763b12130a0ad7bebf8c35e3c66f67c..c7aacf04f8b8db833d06f55b9553d133
    const measured = measuredIn(taken, drawnIn(given.root))
    if (measured.length === 0) {
      return { report: [], refusals: [NOTHING_READ, ...taken.unread], code: 2 }
+diff --git a/command-system/commands/measure-attributes/measure-attributes.command.ts b/command-system/commands/measure-attributes/measure-attributes.command.ts
+index 2a600dae99e2f8592d0a2ccf16a803fd4c25345c..539e4ca6d0b02c6021c7a941d1222aa531fca106 100644
+--- a/command-system/commands/measure-attributes/measure-attributes.command.ts
++++ b/command-system/commands/measure-attributes/measure-attributes.command.ts
+@@ -4,13 +4,13 @@ export const measureAttributes = {
+   id: "01a07803-0b6a-7fdb-9b43-0d4b23b072ee",
+   pageTypeSlug: "command",
+   slug: "measure-attributes",
+-  definition: "the command saying what each attribute counted for Alan today",
++  definition: "the command saying each attribute's total over every day Alan tracked",
+   code: "ts",
+   test: "ts",
+   changeKindSlug: "change-mechanical",
+   helpNotes: [
+-    "the reading is worked out at the moment of asking rather than read off the tiles.",
+-    "an attribute is answered for the day Alan is in rather than for the calendar date.",
++    "the total is worked out at the moment of asking rather than read off the tiles.",
++    "a total is an attribute's daily points added up over every day Alan tracked.",
+     "a figure is floored to two decimal places, so a figure short of a hundredth reads `0.00`.",
+     "an attribute nothing can be read for is named beneath the figures rather than drawn as zero.",
+     "the attributes sit in the order their readouts state.",
+@@ -20,6 +20,10 @@ export const measureAttributes = {
+       invariantKind: "departure",
+       statement: "Each figure is worked out when the command is called.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A figure is the sum of an attribute's points over every day Alan tracked.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A figure is floored to two decimal places rather than rounded.",
