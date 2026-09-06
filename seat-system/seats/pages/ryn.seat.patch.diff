@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
-index fbc7a9818ae1fc6199af11edf6429bbe8c499ead..59cb8e0ebb412452dd6aeba554bf52406e58d70d 100644
+index fbc7a9818ae1fc6199af11edf6429bbe8c499ead..b93b73d8730aac23f037afc6822507a80cc5c99a 100644
 --- a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
 +++ b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
 @@ -9,7 +9,7 @@ export const monarchRuleDocuments = {
@@ -18,6 +18,16 @@ index fbc7a9818ae1fc6199af11edf6429bbe8c499ead..59cb8e0ebb412452dd6aeba554bf5240
 -      statement:
 -        "Two pages carrying one slug are refused, because nothing would say which is the rule.",
 +      statement: "Two pages carrying one slug are refused.",
+     },
+     {
+       invariantKind: "departure",
+@@ -39,8 +38,7 @@ export const monarchRuleDocuments = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "An agent rule carrying no judgement is refused, because the judgement is what a reader acts on.",
++      statement: "An agent rule carrying no judgement is refused.",
      },
      {
        invariantKind: "departure",
