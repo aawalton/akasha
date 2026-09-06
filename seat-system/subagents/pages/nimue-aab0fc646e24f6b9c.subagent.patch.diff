@@ -1,3 +1,72 @@
+diff --git a/agents/claude-accounts/properties/effective-five-hour-usage.computed-property.test.ts b/agents/claude-accounts/properties/effective-five-hour-usage.computed-property.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d3db5ab2791e252d0c8353e9b86c863a2b3ff833
+--- /dev/null
++++ b/agents/claude-accounts/properties/effective-five-hour-usage.computed-property.test.ts
+@@ -0,0 +1,63 @@
++import { expect, test } from "bun:test"
++import type { Computed, Reach } from "@akasha/pages/page-computing"
++import { computingOver } from "@akasha/pages/page-computing"
++import type { WorkedClaudeAccount } from "../claude-account.page-type.worked.ts"
++import { work } from "./effective-five-hour-usage.computed-property.code.ts"
++import { work as sevenDay } from "./effective-seven-day-usage.computed-property.code.ts"
++
++const REACH: Reach = { target: () => null }
++
++function account(held: Record<string, unknown>): WorkedClaudeAccount {
++  return { slug: "aine", ...held } as unknown as WorkedClaudeAccount
++}
++
++test("an account that has spent its seven-day window has spent its five-hour window", () => {
++  const spent = { effectiveSevenDayUsage: 100, fiveHourPercentUsed: 4 }
++  expect(work(account(spent), REACH)).toBe(100)
++})
++
++test("a seven-day window under the ceiling leaves the five-hour figure alone", () => {
++  const held = { effectiveSevenDayUsage: 11, fiveHourPercentUsed: 4 }
++  expect(work(account(held), REACH)).toBe(4)
++})
++
++test("an account carrying no percent is no reading rather than zero", () => {
++  expect(work(account({ effectiveSevenDayUsage: 11 }), REACH)).toBeNull()
++})
++
++test("a percent standing as text is read as the number that percent spells", () => {
++  const held = { effectiveSevenDayUsage: 11, fiveHourPercentUsed: "42" }
++  expect(work(account(held), REACH)).toBe(42)
++})
++
++// The withdrawal is not tested in this calculation at all, so proving it reaches the five-hour
++// figure means running both calculations the way a reader runs them, over the lazy view
++// `computingOver` builds. A page carrying no five-hour figure worth 100 still answers 100 here,
++// and that is the whole of what reading the sibling buys.
++test("a withdrawn subscription reaches the five-hour figure through the seven-day one", () => {
++  const computed: readonly Computed[] = [
++    {
++      slug: "effective-seven-day-usage",
++      key: "effectiveSevenDayUsage",
++      holds: "number",
++      work: sevenDay as Computed["work"],
++    },
++    {
++      slug: "effective-five-hour-usage",
++      key: "effectiveFiveHourUsage",
++      holds: "number",
++      work: work as Computed["work"],
++    },
++  ]
++  const value = {
++    id: "one",
++    sevenDayPercentUsed: 3,
++    fiveHourPercentUsed: 1,
++    subscriptionDisabledReason: "the card was declined",
++  }
++  const subject = { id: "one", value, computed }
++  const worked = computingOver({ subjectAt: () => subject }).workedAt("one")
++  expect(worked?.value.effectiveSevenDayUsage).toBe(100)
++  expect(worked?.value.effectiveFiveHourUsage).toBe(100)
++  expect(worked?.dark.size).toBe(0)
++})
 diff --git a/agents/claude-accounts/properties/effective-five-hour-usage.computed-property.ts b/agents/claude-accounts/properties/effective-five-hour-usage.computed-property.ts
 index f4263ad3852f71c2622f3e78257559c59f203e95..db4a46bdfc2ea0ecdb981763670d3f2b7044c271 100644
 --- a/agents/claude-accounts/properties/effective-five-hour-usage.computed-property.ts
@@ -10,6 +79,46 @@ index f4263ad3852f71c2622f3e78257559c59f203e95..db4a46bdfc2ea0ecdb981763670d3f2b
    invariants: [
      {
        invariantKind: "departure",
+diff --git a/agents/claude-accounts/properties/effective-seven-day-usage.computed-property.test.ts b/agents/claude-accounts/properties/effective-seven-day-usage.computed-property.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ef40f9fb7686be1468a822df5a44ac6ff955fd23
+--- /dev/null
++++ b/agents/claude-accounts/properties/effective-seven-day-usage.computed-property.test.ts
+@@ -0,0 +1,34 @@
++import { expect, test } from "bun:test"
++import type { Reach } from "@akasha/pages/page-computing"
++import type { WorkedClaudeAccount } from "../claude-account.page-type.worked.ts"
++import { work } from "./effective-seven-day-usage.computed-property.code.ts"
++
++const REACH: Reach = { target: () => null }
++
++function account(held: Record<string, unknown>): WorkedClaudeAccount {
++  return { slug: "aine", ...held } as unknown as WorkedClaudeAccount
++}
++
++test("a withdrawn subscription has spent the whole of the window", () => {
++  expect(work(account({ subscriptionDisabledReason: "cancelled" }), REACH)).toBe(100)
++  const withdrawn = { sevenDayPercentUsed: 2, subscriptionDisabledReason: "gone" }
++  expect(work(account(withdrawn), REACH)).toBe(100)
++})
++
++test("an account carrying no percent is no reading rather than zero", () => {
++  expect(work(account({}), REACH)).toBeNull()
++  expect(work(account({ sevenDayPercentUsed: "" }), REACH)).toBeNull()
++})
++
++test("a percent standing as text is read as the number that percent spells", () => {
++  expect(work(account({ sevenDayPercentUsed: "42" }), REACH)).toBe(42)
++})
++
++test("a percent standing as a number is read as it is", () => {
++  expect(work(account({ sevenDayPercentUsed: 11 }), REACH)).toBe(11)
++})
++
++test("an empty reason is no withdrawal", () => {
++  const held = { sevenDayPercentUsed: 5, subscriptionDisabledReason: "" }
++  expect(work(account(held), REACH)).toBe(5)
++})
 diff --git a/agents/claude-accounts/properties/effective-seven-day-usage.computed-property.ts b/agents/claude-accounts/properties/effective-seven-day-usage.computed-property.ts
 index 2ad4b388b17acd1df733b82e7417e5e0f67df8f7..ae95ecee4bf775479b10c802c5a50cae90bafdce 100644
 --- a/agents/claude-accounts/properties/effective-seven-day-usage.computed-property.ts
