@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-far-off-my-live-reading-runs.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-far-off-my-live-reading-runs.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e9fa70a1f3d9773faa2e4767e4197f5245d0cf89
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-far-off-my-live-reading-runs.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howFarOffMyLiveReadingRuns = {
++  id: "01a07825-d094-7e54-8900-35e3ea009f62",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-far-off-my-live-reading-runs",
++  topicSlug: "the-rating-my-budget-rests-on",
++  ask: "My live safety reading runs optimistic until I revise the reading down. By how much, and how long does the optimistic reading govern before the correction lands?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/how-often-i-miss-a-transition.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-often-i-miss-a-transition.all-about-alan-question.ts
+deleted file mode 100644
+index b11e3c1d8dc1e69c8be159a8c790728a645dc9f5..0000000000000000000000000000000000000000
+--- a/alan/books/all-about-alan/questions/pages/how-often-i-miss-a-transition.all-about-alan-question.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+-
+-export const howOftenIMissATransition = {
+-  id: "01a07824-30ba-7ce1-9508-dfd57c2282ee",
+-  pageTypeSlug: "all-about-alan-question",
+-  slug: "how-often-i-miss-a-transition",
+-  topicSlug: "the-rating-my-budget-rests-on",
+-  ask: "I revise my safety or difficulty afterwards where I miss a transition. How often do I miss one, and does the revision mostly move the number down or up?",
+-} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-rating-my-budget-rests-on.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-rating-my-budget-rests-on.all-about-alan-topic.ts
+index 6c783e1dc0b4aa2cf728c3cd168493184a49ec84..f7ade33e488efda3ebc6f13789e30ea0fc964ab3 100644
+--- a/alan/books/all-about-alan/topics/pages/the-rating-my-budget-rests-on.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-rating-my-budget-rests-on.all-about-alan-topic.ts
+@@ -9,5 +9,5 @@ export const theRatingMyBudgetRestsOn = {
+   parentSlugs: ["the-budget-i-run-my-days-on"],
+   relatedSlugs: ["how-i-read-my-safety-level"],
+   settled:
+-    "Only the clock is counted. Each stretch's duration is multiplied by how safe I was against how hard the thing was, and the safety rating is one I type and one that carries forward until I change it.\n\nI try to catch the transitions as they happen. Where I miss one, I revise the safety or the difficulty afterwards.\n\nA notification fires as my surplus color drops, and Jen gets the same alert. I do nothing when the alert lands. What the alert buys me for now is knowing where I am.",
++    "Only the clock is counted. Each stretch's duration is multiplied by how safe I was against how hard the thing was, and the safety rating is one I type and one that carries forward until I change it.\n\nI try to catch the transitions as they happen. Where I miss one, I revise the safety or the difficulty afterwards.\n\nThe revision usually moves down, so my live reading runs optimistic. The optimistic reading is still better than nothing.\n\nI am working on catching the changes earlier and on erring low.\n\nA notification fires as my surplus color drops, and Jen gets the same alert. I do nothing when the alert lands. What the alert buys me for now is knowing where I am.",
+ } as const satisfies AllAboutAlanTopic
