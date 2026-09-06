@@ -36,7 +36,7 @@ export const inferenceVoiceDesign = {
     },
     {
       invariantKind: "departure",
-      statement: "The language is sent only to the backend that takes one.",
+      statement: "The language is sent only to the backend that takes a language.",
     },
     {
       invariantKind: "departure",
