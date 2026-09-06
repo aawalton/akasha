@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-trading-pricing/currency-price-lookup/currency-price-lookup.module.ts b/temper/temper-trading-pricing/currency-price-lookup/currency-price-lookup.module.ts
+index 1adf4b669d241d6306a188a8e0657affaf923b0e..6ba45845202116296e4ae11c6a463b169d7eb642 100644
+--- a/temper/temper-trading-pricing/currency-price-lookup/currency-price-lookup.module.ts
++++ b/temper/temper-trading-pricing/currency-price-lookup/currency-price-lookup.module.ts
+@@ -13,7 +13,7 @@ export const currencyPriceLookup = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Gold is worth one.",
++      statement: "Gold is worth one gold.",
+     },
+     {
+       invariantKind: "departure",
