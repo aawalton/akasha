@@ -17,8 +17,7 @@ export const monarchApply = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An unpaired decision is refused, because the rule reached no conclusion to apply.",
+      statement: "An unpaired decision is refused.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +25,7 @@ export const monarchApply = {
     },
     {
       invariantKind: "departure",
-      statement: "Both legs of a paired decision are categorized, not only the subject.",
+      statement: "Both legs of a paired decision are categorized rather than only the subject.",
     },
     {
       invariantKind: "departure",
