@@ -14,11 +14,11 @@ export const addonDataWritesEquipment = {
     },
     {
       invariantKind: "departure",
-      statement: "A destination takes more than one of the section's tables.",
+      statement: "A destination takes more than one table of the section.",
     },
     {
       invariantKind: "departure",
-      statement: "A section states its writes rather than performing those writes.",
+      statement: "A section states the section's writes rather than performing the writes.",
     },
   ],
 } as const satisfies Module
