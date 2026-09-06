@@ -30,11 +30,15 @@ export const functionalType = {
     },
     {
       invariantKind: "departure",
-      statement: "A library type is one that any package may depend on.",
+      statement: "A library type is a type any package may depend on.",
     },
     {
       invariantKind: "departure",
-      statement: "A type carries a rank, and a package may not depend on a rank above its own.",
+      statement: "A type carries a rank.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A package may not depend on a rank above its own.",
     },
     {
       invariantKind: "departure",
