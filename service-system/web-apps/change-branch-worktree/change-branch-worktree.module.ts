@@ -9,7 +9,7 @@ export const changeBranchWorktree = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A worktree WORKTREE_DIR names is taken over the numbered one.",
+      statement: "A worktree WORKTREE_DIR names is taken over the numbered worktree.",
     },
     {
       invariantKind: "departure",
