@@ -21,7 +21,7 @@ export const addonMetadataCopy = {
     },
     {
       invariantKind: "departure",
-      statement: "The game reads a named document rather than an optional one.",
+      statement: "The game reads a named document rather than an optional document.",
     },
     {
       invariantKind: "departure",
