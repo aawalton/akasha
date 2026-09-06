@@ -1,0 +1,144 @@
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-workstation-service-with-its-parts/a-workstation-service-with-its-parts.folder-shape.code.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-workstation-service-with-its-parts/a-workstation-service-with-its-parts.folder-shape.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c169aa2eb2837367ff2c5368294827af0803b5c3
+--- /dev/null
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-workstation-service-with-its-parts/a-workstation-service-with-its-parts.folder-shape.code.ts
+@@ -0,0 +1,36 @@
++import { basename } from "node:path"
++import { saidInside } from "../../../../../modules/shape-saying/shape-saying.module.code.ts"
++import type { Standing } from "../folder-shape.page-type.ts"
++
++const SERVICES = "workstation-services"
++
++const SERVICE = "workstation-service"
++
++export function aWorkstationServiceWithItsParts(standing: Standing): readonly string[] {
++  const named = basename(standing.folder)
++  if (named !== SERVICES) return [`it is named \`${named}\` rather than \`${SERVICES}\``]
++  const page = standing.pages[0]
++  if (page === undefined) return ["it holds no page of its own"]
++  if (standing.pages.length > 1) {
++    return [
++      `it holds ${standing.pages.length} pages rather than one: ${saidInside(standing.folder, standing.pages)}`,
++    ]
++  }
++  if (page.pageTypeSlug !== SERVICE) {
++    return [`\`${page.slug}\` is a \`${page.pageTypeSlug}\` rather than a \`${SERVICE}\``]
++  }
++  const said: string[] = []
++  const parts = new Set<string>(standing.parts(page))
++  const loose = standing.files.filter((one) => !parts.has(one))
++  if (loose.length > 0) {
++    said.push(
++      `${loose.length} files are no part of \`${page.slug}\`: ${saidInside(standing.folder, loose)}`
++    )
++  }
++  if (standing.subfolders.length > 0) {
++    said.push(
++      `${standing.subfolders.length} subfolders sit in it, and a service holds none: ${saidInside(standing.folder, standing.subfolders)}`
++    )
++  }
++  return said
++}
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-workstation-service-with-its-parts/a-workstation-service-with-its-parts.folder-shape.test.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-workstation-service-with-its-parts/a-workstation-service-with-its-parts.folder-shape.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d014a7657f61b741fc13244ecbf757245bc0c716
+--- /dev/null
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-workstation-service-with-its-parts/a-workstation-service-with-its-parts.folder-shape.test.ts
+@@ -0,0 +1,57 @@
++import { expect, test } from "bun:test"
++import { folderFrom } from "../../folder-matches-a-shape.code-check.test-fixtures.ts"
++import { aWorkstationServiceWithItsParts } from "./a-workstation-service-with-its-parts.folder-shape.code.ts"
++
++const FOLDER = "akasha/pages/service/workstation-services"
++
++const OTHER = "akasha/pages/service/services"
++
++const PAGE_TYPES = new Set<string>(["workstation-service", "module"])
++
++const ONE = ["pages-service.workstation-service.ts"]
++
++function judged(names: readonly string[], deep: readonly string[] = []): readonly string[] {
++  const made = folderFrom({ folder: FOLDER, pageTypes: PAGE_TYPES, deep })
++  return aWorkstationServiceWithItsParts(made(names))
++}
++
++test("a folder named workstation-services holding one service takes the shape", () => {
++  expect(judged(ONE)).toEqual([])
++})
++
++test("a folder named otherwise is refused, and the reason names both names", () => {
++  const made = folderFrom({ folder: OTHER, pageTypes: PAGE_TYPES })
++  const said = aWorkstationServiceWithItsParts(made(ONE))
++  expect(said).toHaveLength(1)
++  expect(said[0]).toContain("`services`")
++  expect(said[0]).toContain("`workstation-services`")
++})
++
++test("a folder holding no page of its own is refused", () => {
++  expect(judged([])).toEqual(["it holds no page of its own"])
++})
++
++test("a folder holding two services is refused, and the reason counts them", () => {
++  const said = judged([...ONE, "other-service.workstation-service.ts"])
++  expect(said).toHaveLength(1)
++  expect(said[0]).toContain("2 pages")
++})
++
++test("a page of another type is refused, and the reason names both types", () => {
++  const said = judged(["notes.module.ts"])
++  expect(said).toHaveLength(1)
++  expect(said[0]).toContain("`module`")
++  expect(said[0]).toContain("`workstation-service`")
++})
++
++test("a file that is no part of the service is refused, and the reason names it", () => {
++  const said = judged([...ONE, "loose.txt"])
++  expect(said).toHaveLength(1)
++  expect(said[0]).toContain("loose.txt")
++})
++
++test("a subfolder is refused, and the reason names it", () => {
++  const said = judged(ONE, ["held/held.module.ts"])
++  expect(said).toHaveLength(1)
++  expect(said[0]).toContain("held")
++})
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-workstation-service-with-its-parts/a-workstation-service-with-its-parts.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-workstation-service-with-its-parts/a-workstation-service-with-its-parts.folder-shape.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9adc347f16fbdaaae98f6bd42db8d31d3f49b96e
+--- /dev/null
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-workstation-service-with-its-parts/a-workstation-service-with-its-parts.folder-shape.ts
+@@ -0,0 +1,33 @@
++import type { FolderShape } from "../folder-shape.page-type.ts"
++
++export const aWorkstationServiceWithItsParts = {
++  id: "01a076ab-4c17-7626-ad38-f06b550b24e2",
++  pageTypeSlug: "folder-shape",
++  slug: "a-workstation-service-with-its-parts",
++  definition: "the shape of a folder named workstation-services holding one service with its parts",
++  code: "ts",
++  test: "ts",
++  enabled: true,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The folder is named `workstation-services`.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "It holds one page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That page is of the `workstation-service` page type.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every other file in the folder is a part of that page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A folder holding a subfolder is refused.",
++    },
++  ],
++} as const satisfies FolderShape
