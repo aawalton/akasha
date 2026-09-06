@@ -42,13 +42,20 @@ export const monarchAccount = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "An account holding no transaction is still an account, a retirement or brokerage balance moving without a row against it.",
+      statement: "An account holding no transaction is still an account.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A retirement or brokerage balance moves without a row against that balance.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Monarch reopens a closed account under a second id rather than reviving the first, so two accounts carry the same last four digits.",
+        "Monarch reopens a closed account under a second id rather than reviving the first id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two accounts carry the same last four digits.",
     },
     {
       invariantKind: "departure",
