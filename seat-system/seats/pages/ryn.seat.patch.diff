@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/command-system/commands/replace/replace.command.ts b/command-system/commands/replace/replace.command.ts
+index c22456d724e440f0d576018beb7b27298bc28feb..13a2840eedb71460e9e925fa601f6a51092ab0d5 100644
+--- a/command-system/commands/replace/replace.command.ts
++++ b/command-system/commands/replace/replace.command.ts
+@@ -105,7 +105,7 @@ export const replace = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A caller learns which files hold a passage before changing any of those files.",
++      statement: "A caller learns which files hold a passage before changing those files.",
+     },
+   ],
+ } as const satisfies Command
