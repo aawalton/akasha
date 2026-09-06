@@ -1,5 +1,5 @@
 diff --git a/command-system/reading/reading.module.ts b/command-system/reading/reading.module.ts
-index 7d2d2772a732aa84b5c39abec7d451016b48eed2..6e410f78cd752bb483a72fc40f802d6d8537dec4 100644
+index 7d2d2772a732aa84b5c39abec7d451016b48eed2..9b4bb1525acc7d987ecde711a2a1c186d62ee2d3 100644
 --- a/command-system/reading/reading.module.ts
 +++ b/command-system/reading/reading.module.ts
 @@ -26,7 +26,12 @@ export const reading = {
@@ -16,7 +16,13 @@ index 7d2d2772a732aa84b5c39abec7d451016b48eed2..6e410f78cd752bb483a72fc40f802d6d
      },
      {
        invariantKind: "departure",
-@@ -63,33 +68,32 @@ export const reading = {
+@@ -58,38 +63,37 @@ export const reading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A reading of a path replaces the one before that reading.",
++      statement: "The record keeps the last reading of a path and drops every earlier reading.",
+     },
      {
        invariantKind: "departure",
        statement:
