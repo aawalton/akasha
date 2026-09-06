@@ -243,6 +243,17 @@ index a9de3b8c68b0ffd7a589a1cc411c319cf23ebda4..dda7c70ce1bb550a3d9ebd9e4d3be95d
    evidence:
      "The seventeen pages under akasha/machines/provisioning/provisioned-files/pages each carry installPath, placedBy, onlyOn and reloadWith, which is everything the placer needs. The script was left spelling the table because it could not be run to test: a wrong projection breaks the workstation on the next provisioning run, and the block forbade installing or linking anything live. The projection is the remaining half of the adaptation and wants a command beside `service install`, which already projects workstation-service pages into units the same way.",
  } as const satisfies Finding
+diff --git a/domains/findings/pages/the-write-gate-names-read-paths-that-are-not-there.finding.ts b/domains/findings/pages/the-write-gate-names-read-paths-that-are-not-there.finding.ts
+index 506bc8acf6122b07bd54579816f28079a65a449a..755fa377c2f1ab3dc3110029bff2a83465aceac9 100644
+--- a/domains/findings/pages/the-write-gate-names-read-paths-that-are-not-there.finding.ts
++++ b/domains/findings/pages/the-write-gate-names-read-paths-that-are-not-there.finding.ts
+@@ -8,5 +8,5 @@ export const theWriteGateNamesReadPathsThatAreNotThere = {
+   claim:
+     "The write gate tells an agent to read files at paths where no file is. It names the seat and subagent property folders in the singular, and those folders were renamed to the plural. Running the exact command the gate prints answers that it names no file, so the gate's own remedy fails and the agent has to guess the spelling.",
+   evidence:
+-    "A subagent landing a music command was refused for five unread files and given five read commands. `akasha/seat-system/subagent/subagent.page-type.ts`, `akasha/seat-system/subagent/properties/agent-id.text-property.ts`, `akasha/seat-system/subagent/properties/dispatched-as.text-property.ts`, `akasha/seat-system/seat/properties/assignment-slug.one-of-property.ts` and `akasha/seat-system/seat/properties/principal-seat-name.relation-property.ts` are all absent. The same files under `subagents/` and `seats/` are there. Earlier in the same session the singular `seat/properties/assignment-slug.one-of-property.ts` was read and recorded, so the folders were renamed while agents were working and what builds the gate's paths did not follow.",
++    "A subagent landing one music command was refused for five unread files and given five read commands. `akasha/seat-system/subagent/subagent.page-type.ts`, `akasha/seat-system/subagent/properties/agent-id.text-property.ts`, `akasha/seat-system/subagent/properties/dispatched-as.text-property.ts`, `akasha/seat-system/seat/properties/assignment-slug.one-of-property.ts` and `akasha/seat-system/seat/properties/principal-seat-name.relation-property.ts` are all absent. The same files under `subagents/` and `seats/` are there. Earlier in the same session the singular `seat/properties/assignment-slug.one-of-property.ts` was read and recorded, so the folders were renamed while agents were working and what builds the gate's paths did not follow.",
+ } as const satisfies Finding
 diff --git a/domains/findings/pages/two-page-types-under-temper-world-are-neither-places-nor-people.finding.ts b/domains/findings/pages/two-page-types-under-temper-world-are-neither-places-nor-people.finding.ts
 index cf1ace5ae69b5fc06ebe3b618a9f4045e6e79f23..a8a830aedb3e573d2342162d704554235b52155b 100644
 --- a/domains/findings/pages/two-page-types-under-temper-world-are-neither-places-nor-people.finding.ts
