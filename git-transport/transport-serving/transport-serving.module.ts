@@ -17,7 +17,7 @@ export const transportServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A question carrying one is refused.",
+      statement: "A question carrying that header is refused.",
     },
     {
       invariantKind: "departure",
