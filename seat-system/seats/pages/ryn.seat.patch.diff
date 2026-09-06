@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-addon-data/addon-data-writes-stats/addon-data-writes-stats.module.ts b/temper/temper-addon-data/addon-data-writes-stats/addon-data-writes-stats.module.ts
+index cab71be74b726ec6bb24f3626a10e3ca40bd0811..8face7fdf85ffab8fee38850e5aeb3e8d9ee9fc4 100644
+--- a/temper/temper-addon-data/addon-data-writes-stats/addon-data-writes-stats.module.ts
++++ b/temper/temper-addon-data/addon-data-writes-stats/addon-data-writes-stats.module.ts
+@@ -13,7 +13,7 @@ export const addonDataWritesStats = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A section states its writes rather than performing those writes.",
++      statement: "A section states its writes rather than performing a write.",
+     },
+   ],
+ } as const satisfies Module
