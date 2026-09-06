@@ -152,7 +152,7 @@ export const persona = {
     },
     {
       invariantKind: "departure",
-      statement: "A persona sits in at most one seat that is not a handler's.",
+      statement: "No persona sits in two seats that are not a handler's.",
     },
     {
       invariantKind: "departure",

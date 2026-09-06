@@ -59,7 +59,7 @@ export const personaCraftDay = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The persona named here is the one who did the crafting.",
+      statement: "The persona named here did the crafting.",
     },
     {
       invariantKind: "departure",

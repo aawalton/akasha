@@ -17,12 +17,15 @@ export const appearance = {
     {
       invariantKind: "departure",
       statement:
-        "A persona whose portrait already describes her still keeps this property apart from it.",
+        "A portrait that already describes a persona does not take the place of this property.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Two personas may look alike in their pictures; those personas may never sound alike in their words.",
+      statement: "Two personas may look alike in their pictures.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two personas may never sound alike in their words.",
     },
     {
       invariantKind: "upkeep",
