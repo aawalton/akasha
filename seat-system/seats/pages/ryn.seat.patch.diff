@@ -1,14 +1,19 @@
 readersOweReading: false
 diff --git a/alan/fitness/commands/exercise-saying/exercise-saying.module.ts b/alan/fitness/commands/exercise-saying/exercise-saying.module.ts
-index 7f6677625826da3c882a20dd73261a5fb2cfba15..97506225171a7bd26343048468912589ff3ac5ce 100644
+index 7f6677625826da3c882a20dd73261a5fb2cfba15..a83b5020dbbcb1abfa516980b2a89f293b79afa2 100644
 --- a/alan/fitness/commands/exercise-saying/exercise-saying.module.ts
 +++ b/alan/fitness/commands/exercise-saying/exercise-saying.module.ts
-@@ -25,7 +25,7 @@ export const exerciseSaying = {
+@@ -25,11 +25,11 @@ export const exerciseSaying = {
      },
      {
        invariantKind: "departure",
 -      statement: "Every refusal a call earns is gathered before any of those refusals is answered.",
 +      statement: "Every refusal a call earns is gathered before the refusals are answered.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A day is read as four digits, two digits and two digits, parted by dashes.",
++      statement: "A day is read as four digits and two digits and two digits parted by dashes.",
      },
      {
        invariantKind: "departure",
