@@ -58,7 +58,7 @@ export const dataPlace = {
     },
     {
       invariantKind: "absence",
-      statement: "None of those places is known here.",
+      statement: "Those places are not known here.",
     },
   ],
 } as const satisfies Module
