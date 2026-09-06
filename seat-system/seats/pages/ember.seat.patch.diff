@@ -90,3 +90,15 @@ index 498643a2e6c0d434840c179fa49ef6338dd730f9..b3495cf436ca44fca092a2138cc6412e
      limit: 1,
    })
  
+diff --git a/temper/temper-player-completion/completion-character-row/completion-character-row.module.code.ts b/temper/temper-player-completion/completion-character-row/completion-character-row.module.code.ts
+index 9e01c82c41ca25045781d5e6dce30b2d30e0a311..3af0fca916e371ca6398f3bc9e68306e1f56fe51 100644
+--- a/temper/temper-player-completion/completion-character-row/completion-character-row.module.code.ts
++++ b/temper/temper-player-completion/completion-character-row/completion-character-row.module.code.ts
+@@ -2,7 +2,6 @@ import type { CharacterCompletion } from "@akasha/temper-completion/completion-p
+ 
+ export interface CompletionCharacterRow {
+   id: string
+-  userId: string
+   esoCharacterId: string
+   title?: string | null | undefined
+   completion?: CharacterCompletion | null | undefined
