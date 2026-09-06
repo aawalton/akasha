@@ -1,0 +1,563 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/changes/authored/change-authored.page-type.ts b/changes/authored/change-authored.page-type.ts
+index 7d631a4cd6368c51a8c27e4e98413426d67bc3b8..a911a6aed15c1d63c21294a216a7b3f6e743cc76 100644
+--- a/changes/authored/change-authored.page-type.ts
++++ b/changes/authored/change-authored.page-type.ts
+@@ -14,6 +14,7 @@ export const changeAuthored = {
+   definition: "a change carrying a body an agent composed",
+   pluralSlug: "change-authored",
+   extendsSlug: ["page-type/change"],
++  partSlugs: ["change-authored/add-file", "change-authored/change-file"],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/changes/command/change-command.page-type.ts b/changes/command/change-command.page-type.ts
+index 45f0304236d053c9f3ad775d4b9f5c7499afdbf4..86c2ff524da6b4949099ef65b43f45825c253b7b 100644
+--- a/changes/command/change-command.page-type.ts
++++ b/changes/command/change-command.page-type.ts
+@@ -12,7 +12,6 @@ export const changeCommand = {
+   slug: "change-command",
+   definition: "a change the change command runs",
+   pluralSlug: "change-command",
+-  partSlugs: ["change-command/add-file", "change-command/change-file"],
+   extendsSlug: ["page-type/change"],
+   invariants: [
+     {
+diff --git a/changes/command/pages/add-file/add-file.change-authored.code.ts b/changes/command/pages/add-file/add-file.change-authored.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d84807fdbbb7d7bf134d45d89263ba15feec4829
+--- /dev/null
++++ b/changes/command/pages/add-file/add-file.change-authored.code.ts
+@@ -0,0 +1,28 @@
++import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { addFile } from "../../../pages/add-file/add-file.change.code.ts"
++
++const AT = "at"
++
++const BODY = "body"
++
++export type Asked = Readonly<Record<string, string>>
++
++function missing(key: string): string {
++  return `\`${key}\` names what this change is handed, and the arguments hold no \`${key}\``
++}
++
++// A command line hands the arguments in as text worked out while the command runs, so the shape is
++// read here rather than trusted, and a shape this change cannot use is refused by name.
++export function addFileCommand(world: World, given: Asked): Answer {
++  const at = given[AT]
++  if (at === undefined) return refusing(missing(AT))
++  const body = given[BODY]
++  if (body === undefined) return refusing(missing(BODY))
++  return addFile(world, { at, body })
++}
++
++export function runChange(world: World, given: Asked): Answer {
++  return addFileCommand(world, given)
++}
+diff --git a/changes/command/pages/add-file/add-file.change-authored.test.ts b/changes/command/pages/add-file/add-file.change-authored.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f51d5e71118b51eb853dc185993b77b2851bfe6a
+--- /dev/null
++++ b/changes/command/pages/add-file/add-file.change-authored.test.ts
+@@ -0,0 +1,38 @@
++import { expect, test } from "bun:test"
++import {
++  NOTHING_OVER,
++  type World,
++} from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { addFileCommand } from "./add-file.change-authored.code.ts"
++
++const AT = "akasha/one.held.ts"
++
++function worldOf(held: Readonly<Record<string, string>>): World {
++  return {
++    root: "/nowhere",
++    index: {} as World["index"],
++    textOf: (path) => held[path] ?? null,
++    over: NOTHING_OVER,
++  }
++}
++
++test("the arguments naming a path and a body are answered as one edit", () => {
++  const said = addFileCommand(worldOf({}), { at: AT, body: "alpha\n" })
++
++  expect(said.refused).toBeNull()
++  expect(said.edits).toEqual([{ path: AT, was: null, body: "alpha\n" }])
++})
++
++test("arguments holding no path are refused by the name of the argument", () => {
++  const said = addFileCommand(worldOf({}), { body: "alpha\n" })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/`at`/)
++})
++
++test("arguments holding no body are refused by the name of the argument", () => {
++  const said = addFileCommand(worldOf({}), { at: AT })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/`body`/)
++})
+diff --git a/changes/command/pages/add-file/add-file.change-authored.ts b/changes/command/pages/add-file/add-file.change-authored.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..34f0d5c2f7e019cf12ad6fc88d50ea591cc0be6d
+--- /dev/null
++++ b/changes/command/pages/add-file/add-file.change-authored.ts
+@@ -0,0 +1,40 @@
++import type { ChangeAuthored } from "../../../authored/change-authored.page-type.ts"
++
++export const addFile = {
++  id: "01a07813-6e3b-77c3-9c1e-b0c5778fd31b",
++  pageTypeSlug: "change-authored",
++  slug: "add-file",
++  definition: "one body written at one path, judged by the checks a landing runs",
++  code: "ts",
++  test: "ts",
++  isCommand: true,
++  runsChecks: true,
++  readersOweReading: true,
++  writerOwesReading: true,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The arguments are read here rather than trusted.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An argument this change is handed no value for is refused by name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The body is handed in whole rather than as a passage.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Writing the body is left to the partial this change runs.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No guard runs here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The checks judge the tree the edits leave.",
++    },
++  ],
++} as const satisfies ChangeAuthored
+diff --git a/changes/command/pages/add-file/add-file.change-command.code.ts b/changes/command/pages/add-file/add-file.change-command.code.ts
+deleted file mode 100644
+index d84807fdbbb7d7bf134d45d89263ba15feec4829..0000000000000000000000000000000000000000
+--- a/changes/command/pages/add-file/add-file.change-command.code.ts
++++ /dev/null
+@@ -1,28 +0,0 @@
+-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { addFile } from "../../../pages/add-file/add-file.change.code.ts"
+-
+-const AT = "at"
+-
+-const BODY = "body"
+-
+-export type Asked = Readonly<Record<string, string>>
+-
+-function missing(key: string): string {
+-  return `\`${key}\` names what this change is handed, and the arguments hold no \`${key}\``
+-}
+-
+-// A command line hands the arguments in as text worked out while the command runs, so the shape is
+-// read here rather than trusted, and a shape this change cannot use is refused by name.
+-export function addFileCommand(world: World, given: Asked): Answer {
+-  const at = given[AT]
+-  if (at === undefined) return refusing(missing(AT))
+-  const body = given[BODY]
+-  if (body === undefined) return refusing(missing(BODY))
+-  return addFile(world, { at, body })
+-}
+-
+-export function runChange(world: World, given: Asked): Answer {
+-  return addFileCommand(world, given)
+-}
+diff --git a/changes/command/pages/add-file/add-file.change-command.test.ts b/changes/command/pages/add-file/add-file.change-command.test.ts
+deleted file mode 100644
+index 1b37a3df66c233d1a47c306684de63474ff2b732..0000000000000000000000000000000000000000
+--- a/changes/command/pages/add-file/add-file.change-command.test.ts
++++ /dev/null
+@@ -1,38 +0,0 @@
+-import { expect, test } from "bun:test"
+-import {
+-  NOTHING_OVER,
+-  type World,
+-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { addFileCommand } from "./add-file.change-command.code.ts"
+-
+-const AT = "akasha/one.held.ts"
+-
+-function worldOf(held: Readonly<Record<string, string>>): World {
+-  return {
+-    root: "/nowhere",
+-    index: {} as World["index"],
+-    textOf: (path) => held[path] ?? null,
+-    over: NOTHING_OVER,
+-  }
+-}
+-
+-test("the arguments naming a path and a body are answered as one edit", () => {
+-  const said = addFileCommand(worldOf({}), { at: AT, body: "alpha\n" })
+-
+-  expect(said.refused).toBeNull()
+-  expect(said.edits).toEqual([{ path: AT, was: null, body: "alpha\n" }])
+-})
+-
+-test("arguments holding no path are refused by the name of the argument", () => {
+-  const said = addFileCommand(worldOf({}), { body: "alpha\n" })
+-
+-  expect(said.edits).toEqual([])
+-  expect(said.refused ?? "").toMatch(/`at`/)
+-})
+-
+-test("arguments holding no body are refused by the name of the argument", () => {
+-  const said = addFileCommand(worldOf({}), { at: AT })
+-
+-  expect(said.edits).toEqual([])
+-  expect(said.refused ?? "").toMatch(/`body`/)
+-})
+diff --git a/changes/command/pages/add-file/add-file.change-command.ts b/changes/command/pages/add-file/add-file.change-command.ts
+deleted file mode 100644
+index cb5aa30d53bab9de4a30574f59a8370bd2c85659..0000000000000000000000000000000000000000
+--- a/changes/command/pages/add-file/add-file.change-command.ts
++++ /dev/null
+@@ -1,40 +0,0 @@
+-import type { ChangeCommand } from "../../change-command.page-type.ts"
+-
+-export const addFile = {
+-  id: "01a07813-6e3b-77c3-9c1e-b0c5778fd31b",
+-  pageTypeSlug: "change-command",
+-  slug: "add-file",
+-  definition: "one body written at one path, judged by the checks a landing runs",
+-  code: "ts",
+-  test: "ts",
+-  isCommand: true,
+-  runsChecks: true,
+-  readersOweReading: true,
+-  writerOwesReading: true,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The arguments are read here rather than trusted.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An argument this change is handed no value for is refused by name.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The body is handed in whole rather than as a passage.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Writing the body is left to the partial this change runs.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No guard runs here.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The checks judge the tree the edits leave.",
+-    },
+-  ],
+-} as const satisfies ChangeCommand
+diff --git a/changes/command/pages/change-file/change-file.change-authored.code.ts b/changes/command/pages/change-file/change-file.change-authored.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..31f16df5c20600eaae266220d5f2db50fc804203
+--- /dev/null
++++ b/changes/command/pages/change-file/change-file.change-authored.code.ts
+@@ -0,0 +1,32 @@
++import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { changeFile } from "../../../pages/change-file/change-file.change.code.ts"
++
++const AT = "at"
++
++const OLD = "old"
++
++const NEW = "new"
++
++export type Asked = Readonly<Record<string, string>>
++
++function missing(key: string): string {
++  return `\`${key}\` names what this change is handed, and the arguments hold no \`${key}\``
++}
++
++// A command line hands the arguments in as text worked out while the command runs, so the shape is
++// read here rather than trusted, and a shape this change cannot use is refused by name.
++export function changeFileCommand(world: World, given: Asked): Answer {
++  const at = given[AT]
++  if (at === undefined) return refusing(missing(AT))
++  const old = given[OLD]
++  if (old === undefined) return refusing(missing(OLD))
++  const becomes = given[NEW]
++  if (becomes === undefined) return refusing(missing(NEW))
++  return changeFile(world, { at, old, new: becomes })
++}
++
++export function runChange(world: World, given: Asked): Answer {
++  return changeFileCommand(world, given)
++}
+diff --git a/changes/command/pages/change-file/change-file.change-authored.test.ts b/changes/command/pages/change-file/change-file.change-authored.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fd0bb46ccb6a12749a22f4528483bd7eab9b04fb
+--- /dev/null
++++ b/changes/command/pages/change-file/change-file.change-authored.test.ts
+@@ -0,0 +1,46 @@
++import { expect, test } from "bun:test"
++import {
++  NOTHING_OVER,
++  type World,
++} from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { changeFileCommand } from "./change-file.change-authored.code.ts"
++
++const AT = "akasha/one.held.ts"
++
++function worldOf(held: Readonly<Record<string, string>>): World {
++  return {
++    root: "/nowhere",
++    index: {} as World["index"],
++    textOf: (path) => held[path] ?? null,
++    over: NOTHING_OVER,
++  }
++}
++
++test("the arguments naming a path and two passages are answered as one edit", () => {
++  const said = changeFileCommand(worldOf({ [AT]: "one two\n" }), {
++    at: AT,
++    old: "two",
++    new: "four",
++  })
++
++  expect(said.refused).toBeNull()
++  expect(said.edits).toEqual([{ path: AT, was: "one two\n", body: "one four\n" }])
++})
++
++test("arguments holding no path are refused by the name of the argument", () => {
++  const said = changeFileCommand(worldOf({}), { old: "two", new: "four" })
++
++  expect(said.refused ?? "").toMatch(/`at`/)
++})
++
++test("arguments holding no passage are refused by the name of the argument", () => {
++  const said = changeFileCommand(worldOf({}), { at: AT, new: "four" })
++
++  expect(said.refused ?? "").toMatch(/`old`/)
++})
++
++test("arguments saying nothing the passage becomes are refused by the name of the argument", () => {
++  const said = changeFileCommand(worldOf({}), { at: AT, old: "two" })
++
++  expect(said.refused ?? "").toMatch(/`new`/)
++})
+diff --git a/changes/command/pages/change-file/change-file.change-authored.ts b/changes/command/pages/change-file/change-file.change-authored.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..71ecdfd168448768ae9d338412ef1649193fd260
+--- /dev/null
++++ b/changes/command/pages/change-file/change-file.change-authored.ts
+@@ -0,0 +1,40 @@
++import type { ChangeAuthored } from "../../../authored/change-authored.page-type.ts"
++
++export const changeFile = {
++  id: "01a07813-6e3d-7d39-a28a-164766ab0fed",
++  pageTypeSlug: "change-authored",
++  slug: "change-file",
++  definition: "one passage of one body replaced, judged by the checks a landing runs",
++  code: "ts",
++  test: "ts",
++  isCommand: true,
++  runsChecks: true,
++  readersOweReading: true,
++  writerOwesReading: true,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The arguments are read here rather than trusted.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An argument this change is handed no value for is refused by name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The passage and the replacement are two arguments.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Working the passage is left to the partial this change runs.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No guard runs here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The checks judge the tree the edits leave.",
++    },
++  ],
++} as const satisfies ChangeAuthored
+diff --git a/changes/command/pages/change-file/change-file.change-command.code.ts b/changes/command/pages/change-file/change-file.change-command.code.ts
+deleted file mode 100644
+index 31f16df5c20600eaae266220d5f2db50fc804203..0000000000000000000000000000000000000000
+--- a/changes/command/pages/change-file/change-file.change-command.code.ts
++++ /dev/null
+@@ -1,32 +0,0 @@
+-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { changeFile } from "../../../pages/change-file/change-file.change.code.ts"
+-
+-const AT = "at"
+-
+-const OLD = "old"
+-
+-const NEW = "new"
+-
+-export type Asked = Readonly<Record<string, string>>
+-
+-function missing(key: string): string {
+-  return `\`${key}\` names what this change is handed, and the arguments hold no \`${key}\``
+-}
+-
+-// A command line hands the arguments in as text worked out while the command runs, so the shape is
+-// read here rather than trusted, and a shape this change cannot use is refused by name.
+-export function changeFileCommand(world: World, given: Asked): Answer {
+-  const at = given[AT]
+-  if (at === undefined) return refusing(missing(AT))
+-  const old = given[OLD]
+-  if (old === undefined) return refusing(missing(OLD))
+-  const becomes = given[NEW]
+-  if (becomes === undefined) return refusing(missing(NEW))
+-  return changeFile(world, { at, old, new: becomes })
+-}
+-
+-export function runChange(world: World, given: Asked): Answer {
+-  return changeFileCommand(world, given)
+-}
+diff --git a/changes/command/pages/change-file/change-file.change-command.test.ts b/changes/command/pages/change-file/change-file.change-command.test.ts
+deleted file mode 100644
+index 1c05d607fe9e798850e272c02dc5a9c77eb2f9a6..0000000000000000000000000000000000000000
+--- a/changes/command/pages/change-file/change-file.change-command.test.ts
++++ /dev/null
+@@ -1,46 +0,0 @@
+-import { expect, test } from "bun:test"
+-import {
+-  NOTHING_OVER,
+-  type World,
+-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { changeFileCommand } from "./change-file.change-command.code.ts"
+-
+-const AT = "akasha/one.held.ts"
+-
+-function worldOf(held: Readonly<Record<string, string>>): World {
+-  return {
+-    root: "/nowhere",
+-    index: {} as World["index"],
+-    textOf: (path) => held[path] ?? null,
+-    over: NOTHING_OVER,
+-  }
+-}
+-
+-test("the arguments naming a path and two passages are answered as one edit", () => {
+-  const said = changeFileCommand(worldOf({ [AT]: "one two\n" }), {
+-    at: AT,
+-    old: "two",
+-    new: "four",
+-  })
+-
+-  expect(said.refused).toBeNull()
+-  expect(said.edits).toEqual([{ path: AT, was: "one two\n", body: "one four\n" }])
+-})
+-
+-test("arguments holding no path are refused by the name of the argument", () => {
+-  const said = changeFileCommand(worldOf({}), { old: "two", new: "four" })
+-
+-  expect(said.refused ?? "").toMatch(/`at`/)
+-})
+-
+-test("arguments holding no passage are refused by the name of the argument", () => {
+-  const said = changeFileCommand(worldOf({}), { at: AT, new: "four" })
+-
+-  expect(said.refused ?? "").toMatch(/`old`/)
+-})
+-
+-test("arguments saying nothing the passage becomes are refused by the name of the argument", () => {
+-  const said = changeFileCommand(worldOf({}), { at: AT, old: "two" })
+-
+-  expect(said.refused ?? "").toMatch(/`new`/)
+-})
+diff --git a/changes/command/pages/change-file/change-file.change-command.ts b/changes/command/pages/change-file/change-file.change-command.ts
+deleted file mode 100644
+index 8dbb620b8ac3e895866e5315030f5e5696671777..0000000000000000000000000000000000000000
+--- a/changes/command/pages/change-file/change-file.change-command.ts
++++ /dev/null
+@@ -1,40 +0,0 @@
+-import type { ChangeCommand } from "../../change-command.page-type.ts"
+-
+-export const changeFile = {
+-  id: "01a07813-6e3d-7d39-a28a-164766ab0fed",
+-  pageTypeSlug: "change-command",
+-  slug: "change-file",
+-  definition: "one passage of one body replaced, judged by the checks a landing runs",
+-  code: "ts",
+-  test: "ts",
+-  isCommand: true,
+-  runsChecks: true,
+-  readersOweReading: true,
+-  writerOwesReading: true,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The arguments are read here rather than trusted.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An argument this change is handed no value for is refused by name.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The passage and the replacement are two arguments.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Working the passage is left to the partial this change runs.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No guard runs here.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The checks judge the tree the edits leave.",
+-    },
+-  ],
+-} as const satisfies ChangeCommand
+diff --git a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
+index bcd67afae7bbc6d9636ff6f662be6b59b2bd9f96..38a0bf391a37a244e42c959465264292e947d6c4 100644
+--- a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
++++ b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
+@@ -12,10 +12,10 @@ export type Changes = {
+     typeof import("../../../command/pages/remove-page-type/remove-page-type.change-checked.code.ts")["runChange"]
+   >[1]
+   "change-command/add-file": Parameters<
+-    typeof import("../../../command/pages/add-file/add-file.change-command.code.ts")["runChange"]
++    typeof import("../../../command/pages/add-file/add-file.change-authored.code.ts")["runChange"]
+   >[1]
+   "change-command/change-file": Parameters<
+-    typeof import("../../../command/pages/change-file/change-file.change-command.code.ts")["runChange"]
++    typeof import("../../../command/pages/change-file/change-file.change-authored.code.ts")["runChange"]
+   >[1]
+   "change/add-file": Parameters<
+     typeof import("../../../pages/add-file/add-file.change.code.ts")["runChange"]
