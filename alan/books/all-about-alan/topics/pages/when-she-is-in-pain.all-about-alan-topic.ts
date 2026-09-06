@@ -9,6 +9,4 @@ export const whenSheIsInPain = {
   parentSlugs: ["working-out-what-love-is"],
   settled:
     "The alarm fires instantly and carries nothing about what she needs.\n\nAcknowledging and validating compiled. Empathy did not.",
-  unsettled:
-    "What emotional availability means in practice is her word, and it has no definition yet.\n\nWhether something could pick between acknowledging, validating and just being there once the alarm has fired is unbuilt.\n\nWhy the empathy script never compiled where the other two did is unexplained.",
 } as const satisfies AllAboutAlanTopic
