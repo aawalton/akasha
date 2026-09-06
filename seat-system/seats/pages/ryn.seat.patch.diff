@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
-index d6be2bc590cdac0d16cb13d98abf8f01b134045e..44f5a9300cf9c8a8a9ba664f4a4c804d5983a2dc 100644
+index d6be2bc590cdac0d16cb13d98abf8f01b134045e..f29d217d767d74b41b134a9ae69474e28ca7db0b 100644
 --- a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
 +++ b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
 @@ -66,7 +66,7 @@ export const agentTreePanel = {
@@ -12,3 +12,12 @@ index d6be2bc590cdac0d16cb13d98abf8f01b134045e..44f5a9300cf9c8a8a9ba664f4a4c804d
      },
  
      {
+@@ -89,7 +89,7 @@ export const agentTreePanel = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here hangs a row under another row or draws one.",
++      statement: "Nothing here hangs a row under another row or draws a row.",
+     },
+     {
+       invariantKind: "absence",
