@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/command-system/commands/elaine/elaine.command.ts b/command-system/commands/elaine/elaine.command.ts
-index 2b20f0abb75a4a15f98cdeb1e7b65a613e34c089..f01f113f77a8728a97fa0cf26442d0c135964054 100644
+index 2b20f0abb75a4a15f98cdeb1e7b65a613e34c089..dafb913b05bba0c684edf5663e579e45c47ed29f 100644
 --- a/command-system/commands/elaine/elaine.command.ts
 +++ b/command-system/commands/elaine/elaine.command.ts
 @@ -49,7 +49,7 @@ export const elaine = {
@@ -12,3 +12,12 @@ index 2b20f0abb75a4a15f98cdeb1e7b65a613e34c089..f01f113f77a8728a97fa0cf26442d0c1
      },
      {
        invariantKind: "departure",
+@@ -59,7 +59,7 @@ export const elaine = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A macbook that could not be reached is answered apart from one holding no export.",
++        "A macbook that could not be reached is answered apart from a macbook holding no export.",
+     },
+     {
+       invariantKind: "absence",
