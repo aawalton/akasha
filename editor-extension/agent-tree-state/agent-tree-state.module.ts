@@ -10,7 +10,7 @@ export const agentTreeState = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Each of the five is replaced whole rather than changed in place.",
+      statement: "Every piece the panel holds is replaced whole rather than changed in place.",
     },
     {
       invariantKind: "departure",
