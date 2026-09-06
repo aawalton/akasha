@@ -14,7 +14,7 @@ export const smsOptIn = {
     },
     {
       invariantKind: "departure",
-      statement: "The wording shown is the one the consent module states.",
+      statement: "The wording shown is the wording the consent module states.",
     },
     {
       invariantKind: "departure",
