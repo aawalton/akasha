@@ -66,6 +66,7 @@ const PAGE_CONDITION: z.ZodType<PageCondition> = z.lazy(() =>
 
 const PAGE_WHERE = z.array(PAGE_CONDITION)
 const PAGE_PROPERTIES = z.record(z.string(), JsonSchema)
+const PAGE_BODIES = z.record(z.string(), z.string()).optional()
 const PAGE_SELECT = z.array(z.string()).optional()
 const PIPELINE_SCOPE = z.union([z.number(), z.string()]).optional()
 const PAGE_TYPE_SLUG = z.string().min(1)
@@ -107,6 +108,7 @@ const UPSERT_PAGE_ARGS = z.object({
   pageTypeSlug: PAGE_TYPE_SLUG,
   where: PAGE_WHERE,
   set: PAGE_PROPERTIES,
+  bodies: PAGE_BODIES,
   select: PAGE_SELECT,
   pipelineScope: PIPELINE_SCOPE,
 })

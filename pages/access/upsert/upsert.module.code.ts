@@ -16,6 +16,7 @@ export type UpsertPageArgs<T extends Record<string, unknown> = Record<string, Js
   pageTypeSlug: string
   where: PageWhere
   set: PagePropertiesInput<T>
+  bodies?: Readonly<Record<string, string>>
   select?: PageSelect
   pipelineScope?: number | string
   writer?: string
@@ -53,6 +54,7 @@ export async function upsertPage<T extends Record<string, unknown> = Record<stri
     set: args.set,
     select: args.select,
     writer: args.writer,
+    ...(args.bodies === undefined ? {} : { bodies: args.bodies }),
   })
   return page
 }

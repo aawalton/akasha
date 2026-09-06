@@ -1,15 +1,11 @@
-import {
-  asPage,
-  type Page,
-  type PageCondition,
-  type PageWhere,
-} from "@akasha/pages-core/page-types"
-import type { Asked, Query, Row, Test } from "@akasha/pages-service/asking"
+import { asPage, type Page, type PageWhere } from "@akasha/pages-core/page-types"
+import type { Asked, Query, Row } from "@akasha/pages-service/asking"
 import { askingFor, readingFor, type Writing, writingFor } from "@akasha/pages-service/calling"
 import type { Read, Asked as Sought } from "@akasha/pages-service/reading"
 import type { Wrote } from "@akasha/pages-service/writing"
 import { z } from "zod"
 import { FileWriteError } from "../file-write-error/file-write-error.module.code.ts"
+import { narrowedFrom } from "../file-write-narrow/file-write-narrow.module.code.ts"
 import type { PageSelect } from "../types/types.module.code.ts"
 
 const DEFAULT_WRITER = "pages-access"
@@ -67,111 +63,6 @@ export function refuseJsonPatch(op: string, pageTypeSlug: string, patch: unknown
   )
 }
 
-function textOf(value: unknown): string | null {
-  if (typeof value === "string") return value
-  if (typeof value === "number" || typeof value === "boolean") return String(value)
-  return null
-}
-
-function textsOf(values: readonly unknown[]): readonly string[] | null {
-  const out: string[] = []
-  for (const one of values) {
-    const said = textOf(one)
-    if (said === null) return null
-    out.push(said)
-  }
-  return out
-}
-
-export type Lowered = { readonly key: string; readonly test: Test } | { readonly refused: string }
-
-// EVERY CONDITION IS LOWERED OR THE WRITE IS REFUSED. Nothing here drops a condition it cannot
-// carry. The road this replaces narrowed through `askableNarrows`, which strips a condition on a
-// key the repository settles rather than lowering it, so a scoped read widened to every account's
-// rows instead of matching none — see
-// `finding/lifting-the-shape-tombstone-uncovers-a-read-that-crosses-accounts`. On a write that
-// same strip would reach pages the caller never named, so a narrow this cannot carry refuses.
-export function loweredFrom(condition: PageCondition): Lowered {
-  if ("or" in condition) {
-    return {
-      refused:
-        "an `or` of conditions, and a question asked of `@akasha/pages-service` tests each key on its own",
-    }
-  }
-  const key = condition.key
-  const noScalar = { refused: `\`${key}\` is tested against what is no string, number or boolean` }
-  const noList = { refused: `\`${key}\` is tested against a list holding what is no string` }
-  if ("eq" in condition) {
-    if (condition.eq === null) return { key, test: { empty: true } }
-    const one = textOf(condition.eq)
-    return one === null ? noScalar : { key, test: { is: one } }
-  }
-  if ("isNull" in condition) return { key, test: { empty: true } }
-  if ("isEmpty" in condition) return { key, test: { empty: true } }
-  if ("isNotEmpty" in condition) return { key, test: { empty: false } }
-  if ("in" in condition) {
-    const many = textsOf(condition.in)
-    return many === null ? noList : { key, test: { in: many } }
-  }
-  if ("notIn" in condition) {
-    const many = textsOf(condition.notIn)
-    return many === null ? noList : { key, test: { "not-in": many } }
-  }
-  if ("neq" in condition) {
-    const one = textOf(condition.neq)
-    return one === null ? noScalar : { key, test: { "not-in": [one] } }
-  }
-  if ("contains" in condition) return { key, test: { contains: condition.contains } }
-  if ("includes" in condition) {
-    const one = textOf(condition.includes)
-    return one === null ? noScalar : { key, test: { has: one } }
-  }
-  if ("lt" in condition) {
-    const one = textOf(condition.lt)
-    return one === null ? noScalar : { key, test: { before: one } }
-  }
-  if ("lte" in condition) {
-    const one = textOf(condition.lte)
-    return one === null ? noScalar : { key, test: { "at-or-before": one } }
-  }
-  if ("gt" in condition) {
-    const one = textOf(condition.gt)
-    return one === null ? noScalar : { key, test: { after: one } }
-  }
-  if ("gte" in condition) {
-    const one = textOf(condition.gte)
-    return one === null ? noScalar : { key, test: { "at-or-after": one } }
-  }
-  return {
-    refused: `\`${key}\` is tested by something \`@akasha/pages-service\` runs no test for`,
-  }
-}
-
-export type Narrowed =
-  | { readonly where: Readonly<Record<string, Test>> }
-  | { readonly refused: string }
-
-export function narrowedFrom(where: PageWhere): Narrowed {
-  const held: Record<string, Test> = {}
-  for (const condition of where) {
-    const lowered = loweredFrom(condition)
-    if ("refused" in lowered) return lowered
-    const already = held[lowered.key]
-    if (already === undefined) {
-      held[lowered.key] = lowered.test
-      continue
-    }
-    const name = Object.keys(lowered.test)[0] as string
-    if (name in already) {
-      return {
-        refused: `\`${lowered.key}\` is tested by \`${name}\` twice, and one key carries one test of each name`,
-      }
-    }
-    held[lowered.key] = { ...already, ...lowered.test }
-  }
-  return { where: held }
-}
-
 async function rowsMatching(
   op: string,
   pageTypeSlug: string,
@@ -222,12 +113,10 @@ function refuseTooMany(
   )
 }
 
-type Naming = {
-  readonly pageTypeSlug: string
-  readonly slug: string
-  readonly values: Record<string, unknown>
-  readonly merge?: boolean
-}
+// THE SHAPE `deps.write` TAKES IS THE SHAPE NAMED HERE. A copy of it was here and left out
+// `bodies`, so a write handing over the body of a file a property is held in was refused by the
+// copy rather than by the service, which has taken `bodies` all along.
+type Naming = NonNullable<Writing["pages"]>[number]
 
 async function landed(
   op: string,
@@ -311,6 +200,7 @@ export function slugForNew(
 export type CreateFilePageArgs = {
   readonly pageTypeSlug: string
   readonly properties: Readonly<Record<string, unknown>>
+  readonly bodies?: Readonly<Record<string, string>>
   readonly select?: PageSelect
   readonly id?: string
   readonly name?: string
@@ -330,7 +220,14 @@ export async function createFilePage(
     op,
     args.pageTypeSlug,
     args.writer,
-    [{ pageTypeSlug: args.pageTypeSlug, slug, values }],
+    [
+      {
+        pageTypeSlug: args.pageTypeSlug,
+        slug,
+        values,
+        ...(args.bodies === undefined ? {} : { bodies: args.bodies }),
+      },
+    ],
     deps
   )
   const back = await readBack(op, args.pageTypeSlug, [slug], deps)
@@ -348,6 +245,7 @@ export type PatchFilePagesArgs = {
   readonly pageTypeSlug: string
   readonly where: PageWhere
   readonly set: Readonly<Record<string, unknown>>
+  readonly bodies?: Readonly<Record<string, string>>
   readonly select?: PageSelect
   readonly writer?: string
   readonly atMostOne?: boolean
@@ -369,7 +267,13 @@ export async function patchFilePages(
     op,
     args.pageTypeSlug,
     args.writer,
-    slugs.map((slug) => ({ pageTypeSlug: args.pageTypeSlug, slug, values, merge: true })),
+    slugs.map((slug) => ({
+      pageTypeSlug: args.pageTypeSlug,
+      slug,
+      values,
+      merge: true,
+      ...(args.bodies === undefined ? {} : { bodies: args.bodies }),
+    })),
     deps
   )
   return readBack(op, args.pageTypeSlug, slugs, deps)
@@ -428,6 +332,7 @@ export type UpsertFilePageArgs = {
   readonly pageTypeSlug: string
   readonly where: PageWhere
   readonly set: Readonly<Record<string, unknown>>
+  readonly bodies?: Readonly<Record<string, string>>
   readonly select?: PageSelect
   readonly name?: string
   readonly writer?: string
@@ -456,6 +361,7 @@ export async function upsertFilePage(
         pageTypeSlug: args.pageTypeSlug,
         properties: args.set,
         select: args.select,
+        ...(args.bodies === undefined ? {} : { bodies: args.bodies }),
         ...(named === undefined ? {} : { name: named }),
         ...(args.writer === undefined ? {} : { writer: args.writer }),
       },
@@ -470,6 +376,7 @@ export async function upsertFilePage(
       where: [{ key: SLUG, eq: standing }],
       set: args.set,
       select: args.select,
+      ...(args.bodies === undefined ? {} : { bodies: args.bodies }),
       ...(args.writer === undefined ? {} : { writer: args.writer }),
       atMostOne: true,
     },

@@ -30,6 +30,10 @@ export const fileWrite = {
       statement: "A key the page type declares no property for refuses the write.",
     },
     {
+      invariantKind: "departure",
+      statement: "A write may hand over the body of a file a page's property is held in.",
+    },
+    {
       invariantKind: "absence",
       statement: "No condition is dropped from a narrow.",
     },

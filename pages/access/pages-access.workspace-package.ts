@@ -26,6 +26,7 @@ export const pagesAccess = {
     "module/file-write",
     "module/file-write-backing",
     "module/file-write-error",
+    "module/file-write-narrow",
     "module/file-write-values",
     "module/get",
     "module/get-by-relation",
