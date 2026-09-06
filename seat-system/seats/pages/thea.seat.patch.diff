@@ -4436,25 +4436,6 @@ index c8da18b8448f7545db7e06aca19d197ac2cd5ddc..501d3b6ec9fdc38d858a94877c714174
    ],
    invariants: [
      {
-diff --git a/pages/service/page-composing/page-composing.module.test.ts b/pages/service/page-composing/page-composing.module.test.ts
-index 22566aad3dc2a330aad6363000f0aa8d9a51ac52..6a559e3a96ca37e8c612a3fcafc8e7a91f754502 100644
---- a/pages/service/page-composing/page-composing.module.test.ts
-+++ b/pages/service/page-composing/page-composing.module.test.ts
-@@ -50,8 +50,13 @@ function carrying(key: string, declaredBy: string): Carried {
-     declaredBy,
-     required: false,
-     many: false,
--    max: null,
-+<<<<<<< what this change would leave
-+    maxCount: null,
-     total: null,
-+=======
-+    max: null,
-+    maxLength: null,
-+>>>>>>> what HEAD holds
-     uncommitted: false,
-     secret: false,
-   }
 diff --git a/pages/text-properties/text-property.page-type.ts b/pages/text-properties/text-property.page-type.ts
 index 3e74a7396aace37d5919a95771006b6814f6f077..983045625ae736a01f52bfae170bd158cc28f0e8 100644
 --- a/pages/text-properties/text-property.page-type.ts
