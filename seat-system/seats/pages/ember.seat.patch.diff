@@ -146,3 +146,18 @@ index 0000000000000000000000000000000000000000..ab41f86f10f6ba025e482bda70b3f58b
 +    </PageLayout>
 +  )
 +}
+diff --git a/alan/web-capacitor/routes/alan-web-capacitor-home/alan-web-capacitor-home.route.ts b/alan/web-capacitor/routes/alan-web-capacitor-home/alan-web-capacitor-home.route.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e611e7821eb934934d7c18661581ed847bae69eb
+--- /dev/null
++++ b/alan/web-capacitor/routes/alan-web-capacitor-home/alan-web-capacitor-home.route.ts
+@@ -0,0 +1,9 @@
++import type { Route } from "@akasha/code-system/route"
++
++export const alanWebCapacitorHome = {
++  id: "01a0767c-c1dc-7ce9-a6a0-1069be32dff7",
++  pageTypeSlug: "route",
++  slug: "alan-web-capacitor-home",
++  definition: "what Alan's site draws at its own address inside the shell on his phone",
++  code: "tsx",
++} as const satisfies Route
