@@ -1,3 +1,15 @@
+diff --git a/command-system/command-system.workspace-package.ts b/command-system/command-system.workspace-package.ts
+index e0633724f8d2af46232711b977f8dca8c64ecb4e..211030a738d52c4c05c7eb79587316ea980bd351 100644
+--- a/command-system/command-system.workspace-package.ts
++++ b/command-system/command-system.workspace-package.ts
+@@ -47,6 +47,7 @@ export const commandSystem = {
+     "module/folder-clearing",
+     "module/outside-naming",
+     "module/manifest-locking",
++    "module/worked-typing",
+     "module/body-merging",
+     "module/patching",
+     "module/drafting",
 diff --git a/command-system/worked-typing/worked-typing.module.code.ts b/command-system/worked-typing/worked-typing.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..7fafb5f181877fe50e9c90afd7b09a7cdead2bef
