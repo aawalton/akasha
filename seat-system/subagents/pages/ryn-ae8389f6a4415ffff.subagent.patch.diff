@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/alan/music/choosing/music-exploration/music-exploration.module.ts b/alan/music/choosing/music-exploration/music-exploration.module.ts
-index 274bf77b8f3d5b2ba11dd9d57807f63815ceef12..7ee5076709c26c5236222da98c4d28cd72097c2f 100644
+index 274bf77b8f3d5b2ba11dd9d57807f63815ceef12..19d605c4fd948aa579ae67d1b522d79df106c1ed 100644
 --- a/alan/music/choosing/music-exploration/music-exploration.module.ts
 +++ b/alan/music/choosing/music-exploration/music-exploration.module.ts
 @@ -10,11 +10,11 @@ export const musicExploration = {
@@ -28,6 +28,15 @@ index 274bf77b8f3d5b2ba11dd9d57807f63815ceef12..7ee5076709c26c5236222da98c4d28cd
        invariantKind: "departure",
 -      statement: "A tie on that score goes to the artist naming more of the loved genres.",
 +      statement: "A tie on that score goes to the artist naming a greater number of loved genres.",
+     },
+     {
+       invariantKind: "departure",
+@@ -76,7 +76,7 @@ export const musicExploration = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The loved artist offered from is the one loved most.",
++      statement: "The loved artist offered from is the artist loved most.",
      },
      {
        invariantKind: "departure",
