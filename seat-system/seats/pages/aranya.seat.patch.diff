@@ -1,4 +1,28 @@
-runsWarrants: false
+diff --git a/changes/workflow-templates/pages/workflow-ci/workflow-ci.workflow-template.declaration.ts b/changes/workflow-templates/pages/workflow-ci/workflow-ci.workflow-template.declaration.ts
+index d6023ae8323bfd400b9638740a0d796faf8dbbeb..04a782661e7066e2c8162050aecb8d60907451ec 100644
+--- a/changes/workflow-templates/pages/workflow-ci/workflow-ci.workflow-template.declaration.ts
++++ b/changes/workflow-templates/pages/workflow-ci/workflow-ci.workflow-template.declaration.ts
+@@ -1,5 +1,5 @@
+ import { IMAGES } from "@akasha/workflow-language/images"
+-import { sopsDecryptApply } from "@akasha/workflow-language/sops-decrypt"
++import { secretPlaceApply } from "@akasha/workflow-language/secret-place"
+ import { step } from "@akasha/workflow-language/step"
+ import { workflow } from "@akasha/workflow-language/workflow"
+ 
+@@ -26,11 +26,10 @@ export default workflow("ci", {
+       }),
+     },
+ 
+-    sopsDecryptApply({
++    secretPlaceApply({
+       name: "ci-apply-pipeline-secrets",
+       namespace: "ci",
+-      secretFile:
+-        "infrastructure/cluster-manifests/cluster-secrets/pipeline-engine.k8s-secret.sops.yaml",
++      resource: "pipeline-engine-secrets",
+     }),
+   ],
+ })
 diff --git a/infrastructure/cluster-manifests/cluster-secrets/collections.k8s-secret.sops.yaml b/infrastructure/cluster-manifests/cluster-secrets/collections.k8s-secret.sops.yaml
 deleted file mode 100644
 index 0e7b021e93c7f7e8d3ad5e58254d0a8637bd5d3b..0000000000000000000000000000000000000000
