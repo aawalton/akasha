@@ -1,0 +1,18 @@
+diff --git a/role-system/roles/role.page-type.ts b/role-system/roles/role.page-type.ts
+index c3993576b7a94e72959605dae93221b179e6503b..def80207b730d552aba249796013cf7c4883a0e3 100644
+--- a/role-system/roles/role.page-type.ts
++++ b/role-system/roles/role.page-type.ts
+@@ -76,7 +76,12 @@ export const role = {
+       act: "Look at what an irreversible command lands on before running it.",
+       warrant:
+         "A reversible command and an irreversible one run the same motion, and the difference shows too late.",
+-      aids: ["Looking means listing what it hits, not thinking.", "Overwriting is deleting."],
++      aids: [
++        "Looking means listing what it hits, not thinking.",
++        "Overwriting is deleting.",
++        "Sending to a service you do not control is publishing, and delete does not undo it.",
++        "A private channel is a service you do not control.",
++      ],
+     },
+     {
+       directiveKind: "rule",
