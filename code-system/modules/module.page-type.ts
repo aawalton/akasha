@@ -3,9 +3,11 @@ import type { PageType } from "@akasha/pages/page-type"
 import type { Code } from "./properties/code.file-property.ts"
 import type { Test } from "./properties/test.file-property.ts"
 import type { TestFixtures } from "./properties/test-fixtures.file-property.ts"
+import type { Types } from "./properties/types.file-property.ts"
 
 export type Module = Domain & {
   code: Code
+  types?: Types
   test?: Test
   testFixtures?: TestFixtures
 }
@@ -16,10 +18,16 @@ export const module = {
   slug: "module",
   definition: "code reached by importing it",
   pluralSlug: "modules",
-  partSlugs: ["file-property/code", "file-property/test", "file-property/test-fixtures"],
+  partSlugs: [
+    "file-property/code",
+    "file-property/types",
+    "file-property/test",
+    "file-property/test-fixtures",
+  ],
   extendsSlug: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "file-property/code", required: true, many: false },
+    { pagePropertySlug: "file-property/types", required: false, many: false },
     { pagePropertySlug: "file-property/test", required: false, many: false },
     { pagePropertySlug: "file-property/test-fixtures", required: false, many: false },
   ],
@@ -35,6 +43,10 @@ export const module = {
     {
       invariantKind: "departure",
       statement: "The code states how.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A module's declarations are a page property of their own beside its code.",
     },
     {
       invariantKind: "departure",
