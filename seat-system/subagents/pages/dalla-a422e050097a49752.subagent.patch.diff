@@ -250,6 +250,37 @@ index 666f1f9e040de60a41740f5a0f5bd47eeab78d87..b8ead3fea0bfb19c134472c5cf612897
    }
    if (namespace === PROPERTY_SLUG) {
      if (from === undefined || to === undefined) {
+diff --git a/command-system/commands/refactor/refactor.command.test.ts b/command-system/commands/refactor/refactor.command.test.ts
+index 7f935fbccaf27e63fa7d4be890e498fcb9523def..194a9c0790c0b04573ece47dbb5aaf0ef7f7a916 100644
+--- a/command-system/commands/refactor/refactor.command.test.ts
++++ b/command-system/commands/refactor/refactor.command.test.ts
+@@ -152,13 +152,23 @@ test("a page slug rename takes the address a page is at and the slug it becomes"
+   expect(said.refusals[0]).toContain("--to")
+ })
+ 
+-test("a page slug rename takes no plural", async () => {
++test("a page slug rename takes no dry run", async () => {
+   const said = await refactor(
+-    ["rename", "page-slug", "--from", "module/one", "--to", "two", "--plural", "n"],
++    ["rename", "page-slug", "--from", "module/one", "--to", "two", "--dry-run"],
+     GIVEN
+   )
+   expect(said.code).toBe(1)
+-  expect(said.refusals[0]).toContain("--plural")
++  expect(said.refusals[0]).toContain("--dry-run")
++  expect(said.refusals[0]).toContain("patch apply")
++})
++
++test("a page slug rename takes a plural, a page being able to state one", async () => {
++  const said = await refactor(
++    ["rename", "page-slug", "--from", "module/one", "--to", "two", "--plural", "twos"],
++    GIVEN
++  )
++  expect(said.code).toBe(1)
++  expect(said.refusals[0]).not.toContain("--plural")
+ })
+ 
+ test("a slug alone names no page, and a page type is sent to the act renaming one", async () => {
 diff --git a/command-system/commands/refactor/refactor.command.ts b/command-system/commands/refactor/refactor.command.ts
 index 03ac7c710ecf39794f39bbdd28d58b81c03e5f63..7ef0fd21b36bac1aa2acb7eb3cab5f75c05bd2fe 100644
 --- a/command-system/commands/refactor/refactor.command.ts
