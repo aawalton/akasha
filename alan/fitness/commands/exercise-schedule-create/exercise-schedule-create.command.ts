@@ -36,7 +36,7 @@ export const exerciseScheduleCreate = {
     },
     {
       invariantKind: "departure",
-      statement: "The schedule already active is stood down before this one is set up.",
+      statement: "The schedule already active is stood down before the new schedule is set up.",
     },
     {
       invariantKind: "departure",
