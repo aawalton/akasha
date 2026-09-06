@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-starved-good-channel-fed-the-scar.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-starved-good-channel-fed-the-scar.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..69d5155c153ab2a68d0598091355a42c8cea0416
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-a-starved-good-channel-fed-the-scar.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAStarvedGoodChannelFedTheScar = {
++  id: "01a077e4-8397-7061-b25c-caa89089aa41",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-a-starved-good-channel-fed-the-scar",
++  topicSlug: "when-someone-says-something-good",
++  ask: "Did appreciation never landing feed the scar, so that the good channel was starved rather than the bad channel being loud?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-four-praise-conditions-are-the-whole-gate.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-four-praise-conditions-are-the-whole-gate.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..01da95a1b6dd9b907588f8ff0fb5ee2d30085751
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-four-praise-conditions-are-the-whole-gate.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMyFourPraiseConditionsAreTheWholeGate = {
++  id: "01a077e4-8395-7dea-addb-62eaba7495a8",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-four-praise-conditions-are-the-whole-gate",
++  topicSlug: "when-someone-says-something-good",
++  ask: "Do meant, valuable and not incidental break down the way true does, and do the four conditions account for the whole gate on praise?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-cut-bridge-or-the-gate-holds.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-cut-bridge-or-the-gate-holds.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..dc3dd6c6f5a44ae581299b3013b81b9a1285f9a8
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-cut-bridge-or-the-gate-holds.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheCutBridgeOrTheGateHolds = {
++  id: "01a077e4-8396-73dd-af79-77f80011aa66",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-cut-bridge-or-the-gate-holds",
++  topicSlug: "when-someone-says-something-good",
++  ask: "Is the cut bridge the load-bearing account of praise never landing, or is the gate at delivery, or do the cut bridge and the gate compose?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/when-someone-says-something-good.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/when-someone-says-something-good.all-about-alan-topic.ts
+index 260c20056cbc201d19414745aad80c8bc897ae31..de82d6516fcf2defcd16dbd338c3636185c39ff1 100644
+--- a/alan/books/all-about-alan/topics/pages/when-someone-says-something-good.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/when-someone-says-something-good.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whenSomeoneSaysSomethingGood = {
+   relatedSlugs: ["being-met", "why-i-have-to-be-perfect", "safety-bar"],
+   settled:
+     "I have had appreciation in large amounts and I am not sure I have ever received any of it.\n\nPraise has to be true, meant, valuable and not incidental, all at once as it is said. Criticism needs one of two.\n\nThe check happens at delivery. It does not have to agree with a verdict I already hold.\n\nWhat passes the true test is an undisputable specific I already hold, rather than a global verdict I would take on faith.",
+-  unsettled:
+-    "Whether the other three conditions break down the same way, and whether the four account for all of the gating, is open.\n\nWhether the cut bridge or the gate is the load-bearing account, or the two compose, is unresolved.\n\nWhether appreciation never landing fed the scar, so the good channel was starved rather than the bad one loud, is untested.",
+ } as const satisfies AllAboutAlanTopic
