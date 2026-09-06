@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-many-hours-feeling-my-body-took.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-many-hours-feeling-my-body-took.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..24bf65e501d7353f0eff53e24b5017c4a877a2df
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-many-hours-feeling-my-body-took.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howManyHoursFeelingMyBodyTook = {
++  id: "01a077e5-63dc-7c6e-8654-d862eec5c2cb",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-many-hours-feeling-my-body-took",
++  topicSlug: "how-i-learned-to-feel-my-body",
++  ask: "How many hours or sessions did the arc actually take, given the count would anchor everything I say about how much a skill costs me?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/where-my-body-sense-stops-carrying.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-my-body-sense-stops-carrying.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9c0582e83ac48aa63aefdd957d656442dc55e5c0
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/where-my-body-sense-stops-carrying.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whereMyBodySenseStopsCarrying = {
++  id: "01a077e5-63de-7b46-8c50-5b9351d7d993",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "where-my-body-sense-stops-carrying",
++  topicSlug: "how-i-learned-to-feel-my-body",
++  ask: "Where does the carrying stop, given fine handwork and sport-specific patterns probably get nothing from my sense of where my body is?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-body-words-come-back-under-load.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-body-words-come-back-under-load.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..93e8a20600277085751714d467468e1edf9589f6
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-body-words-come-back-under-load.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheBodyWordsComeBackUnderLoad = {
++  id: "01a077e5-63de-7029-9c12-1e3339953306",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-body-words-come-back-under-load",
++  topicSlug: "how-i-learned-to-feel-my-body",
++  ask: "Do the words come back under load, when I am tired or unsafe, which would say whether the words are a fallback worth naming?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-motor-skills-i-built-slowly.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-motor-skills-i-built-slowly.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..be619bdba39971a6c14cfeef408c3ea414e21005
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-motor-skills-i-built-slowly.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichMotorSkillsIBuiltSlowly = {
++  id: "01a077e5-63de-73dd-87dc-da74031c7cf2",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-motor-skills-i-built-slowly",
++  topicSlug: "how-i-learned-to-feel-my-body",
++  ask: "Which other motor skills did I build the same slow way, beyond driving?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-i-learned-to-feel-my-body.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-i-learned-to-feel-my-body.all-about-alan-topic.ts
+index fe1bf6bb5cd97805de6406acb10f2f9636759ed2..f46bbca145b610e904d189d1443d54e3c9e0ded2 100644
+--- a/alan/books/all-about-alan/topics/pages/how-i-learned-to-feel-my-body.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-i-learned-to-feel-my-body.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const howILearnedToFeelMyBody = {
+   relatedSlugs: ["what-repetition-encodes", "how-i-actually-breathe"],
+   settled:
+     "Before dancing, my sense of where my body was ran weakly or not at all.\n\nThe words came first: frame, axis, weight transfer, posture, head carriage. Each was a handle to check myself against while the pattern was still being built.\n\nThen sheer volume, until it encoded and the checking fell away by itself.\n\nIt carried off the dance floor. I caught myself moving like I was dancing while washing dishes.\n\nNothing bound it to a dance floor, which is the same gap that made it expensive to build.",
+-  unsettled:
+-    "How many hours or sessions the arc actually took has never been counted, and the count would anchor the whole claim about how much a skill costs me.\n\nWhich other motor skills were built the same slow way has never been listed. Driving is one.\n\nWhether the words come back under load, when I am tired or unsafe, would say whether there is a fallback worth naming.\n\nWhere the carrying stops is unprobed. Fine handwork and sport-specific patterns probably get nothing from it.",
+ } as const satisfies AllAboutAlanTopic
