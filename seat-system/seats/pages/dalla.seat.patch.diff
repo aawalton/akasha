@@ -1,6 +1,6 @@
 diff --git a/code-system/modules/properties/types.file-property.ts b/code-system/modules/properties/types.file-property.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..f9a45520f2d5c03f7305af3db8df3384425df893
+index 0000000000000000000000000000000000000000..7b96b458877328f344c9187ce1377d3f11807920
 --- /dev/null
 +++ b/code-system/modules/properties/types.file-property.ts
 @@ -0,0 +1,25 @@
@@ -9,7 +9,6 @@ index 0000000000000000000000000000000000000000..f9a45520f2d5c03f7305af3db8df3384
 +export type Types = "ts"
 +
 +export const types = {
-+  id: "01a0771d-937f-7d2e-bf5a-ae4d922fcda9",
 +  pageTypeSlug: "file-property",
 +  slug: "types",
 +  propertySlug: "types",
@@ -21,7 +20,8 @@ index 0000000000000000000000000000000000000000..f9a45520f2d5c03f7305af3db8df3384
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "A caller naming only a declaration does not load the code that answers it.",
++      statement:
++        "A caller naming a declaration alone does not load the code answering that declaration.",
 +    },
 +    {
 +      invariantKind: "absence",
