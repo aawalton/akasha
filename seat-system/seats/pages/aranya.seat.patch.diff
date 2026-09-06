@@ -154,6 +154,18 @@ index 748d261d3544ac8a694a7f5ce0d624487d911bea..39e447874e0d20946e59b7f5189bd001
 -  resourceKey: "DATABASE_URL",
 +  placements: [{ resourceName: "supabase-studio-secrets", resourceKey: "DATABASE_URL" }],
  } as const satisfies Secret
+diff --git a/service-system/secrets/pages/supabase-studio-secrets-pg-meta-crypto-key.secret.ts b/service-system/secrets/pages/supabase-studio-secrets-pg-meta-crypto-key.secret.ts
+index 273153cda6f8bc132cbeff1b25dad0c72ca4ea03..d7ddc1362e3a33ccdb5303ab043bc692c44f43db 100644
+--- a/service-system/secrets/pages/supabase-studio-secrets-pg-meta-crypto-key.secret.ts
++++ b/service-system/secrets/pages/supabase-studio-secrets-pg-meta-crypto-key.secret.ts
+@@ -4,6 +4,5 @@ export const supabaseStudioSecretsPgMetaCryptoKey = {
+   id: "01a06832-cf2d-7c5c-b559-60f87900de9e",
+   pageTypeSlug: "secret",
+   slug: "supabase-studio-secrets-pg-meta-crypto-key",
+-  resourceName: "supabase-studio-secrets",
+-  resourceKey: "PG_META_CRYPTO_KEY",
++  placements: [{ resourceName: "supabase-studio-secrets", resourceKey: "PG_META_CRYPTO_KEY" }],
+ } as const satisfies Secret
 diff --git a/service-system/secrets/properties/placements.record-property.ts b/service-system/secrets/properties/placements.record-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..a5169276a8d50bbdb85c294495da1c201c0cf4d2
