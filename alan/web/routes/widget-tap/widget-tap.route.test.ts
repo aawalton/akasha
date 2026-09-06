@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { answerWidgetTap } from "./widget-tap-answering.module.code.ts"
+import { answerWidgetTap } from "../../.server/widget-tap-answering/widget-tap-answering.module.code.ts"
 
 const CAPACITOR = "capacitor://localhost"
 

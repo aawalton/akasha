@@ -6,5 +6,6 @@ export const widgetTap = {
   slug: "widget-tap",
   definition: "a tap on one of Alan's widgets, counted on the widget the tap opened",
   code: "ts",
+  test: "ts",
   urlPath: "api/widget-tap",
 } as const satisfies Route

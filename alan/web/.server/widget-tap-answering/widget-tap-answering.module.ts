@@ -6,8 +6,11 @@ export const widgetTapAnswering = {
   slug: "widget-tap-answering",
   definition: "what a route answers when the app says a widget was tapped",
   code: "ts",
-  test: "ts",
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The test proving this code sits beside the route serving this code.",
+    },
     {
       invariantKind: "departure",
       statement: "A tap is admitted on the account the caller is signed in as.",
