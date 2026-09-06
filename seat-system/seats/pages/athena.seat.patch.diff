@@ -1,0 +1,14 @@
+diff --git a/domains/package.json b/domains/package.json
+index ce80814ba062fd374b6b068a5bbb0640bee7d0f9..c8a2a50abd24ccae9fc67a0bcfae94aec22a2155 100644
+--- a/domains/package.json
++++ b/domains/package.json
+@@ -6,6 +6,8 @@
+     "./domain": "./domain.page-type.ts",
+     "./domain-slug": "./properties/domain-slug.relation-property.ts",
+     "./initiative-slug": "./initiatives/properties/initiative-slug.relation-property.ts",
+-    "./domain-reading": "./modules/reading/domain-reading.module.code.ts"
++    "./domain-reading": "./modules/reading/domain-reading.module.code.ts",
++    "./domain-rows": "./modules/domain-rows/domain-rows.module.code.ts",
++    "./initiative-rows": "./modules/initiative-rows/initiative-rows.module.code.ts"
+   }
+ }
