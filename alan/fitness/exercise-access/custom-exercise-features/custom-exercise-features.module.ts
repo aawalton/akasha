@@ -10,7 +10,8 @@ export const customExerciseFeatures = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A movement Alan wrote takes its traits by the same working as an imported one.",
+      statement:
+        "A movement Alan wrote takes its traits by the same working as an imported movement.",
     },
     {
       invariantKind: "departure",
