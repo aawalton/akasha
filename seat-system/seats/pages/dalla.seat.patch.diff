@@ -1,0 +1,350 @@
+diff --git a/akasha.domain.ts b/akasha.domain.ts
+index e25f1a356297d39c108126323bc7c9c52143ce37..05f7170bd88e6cd921e82d92fe0ee127309bea6f 100644
+--- a/akasha.domain.ts
++++ b/akasha.domain.ts
+@@ -22,7 +22,7 @@ export const akasha = {
+     "workspace-package/domain",
+     "workspace-package/graph",
+     "domain/type",
+-    "domain/change",
++    "page-type/change",
+     "domain/akasha-check",
+     "domain/instrument",
+     "workspace-package/checks",
+diff --git a/changes/change.domain.ts b/changes/change.domain.ts
+deleted file mode 100644
+index ec718a7c6fb0803d00fca5cf2d22f58bbc7aadd5..0000000000000000000000000000000000000000
+--- a/changes/change.domain.ts
++++ /dev/null
+@@ -1,63 +0,0 @@
+-import type { Domain } from "../domains/domain.page-type.ts"
+-
+-export const change = {
+-  id: "01a05df1-e261-76a1-ad1e-0db3d857450e",
+-  pageTypeSlug: "domain",
+-  slug: "change",
+-  definition: "everything one act edits",
+-  pluralSlug: "changes",
+-  partSlugs: [
+-    "page-type/atomic-change",
+-    "page-type/refactor-change",
+-    "page-type/change-partial",
+-    "page-type/workflow-template",
+-    "page-type/change-kind",
+-    "workspace-package/workflow-language",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "Nothing lands but through an akasha command or a service.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The checks a change is judged by follow from its kind.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "No service lands a body an agent composed.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "Every command's page names the kind of change that command lands where the call names no other.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A command that lands is handed its change kind rather than a boolean.",
+-    },
+-  ],
+-  directives: [
+-    {
+-      directiveKind: "principle",
+-      name: "Land In Pieces",
+-      act: "Split a change into landings that each stand on their own.",
+-      warrant: "A change too large to gather in one sitting is stale before it lands.",
+-      aids: [
+-        "Make the reader take both shapes first.",
+-        "Keep it whole only where half would read wrong.",
+-      ],
+-    },
+-    {
+-      directiveKind: "rule",
+-      name: "Mechanical By Command",
+-      act: "Use the command for a move, a remove, a refactor or a replace rather than editing by hand.",
+-      warrant:
+-        "A command changes every place at once, and by hand you reach only the places you saw.",
+-      aids: [
+-        "A change you could write as a rule likely has a command.",
+-        "The places you miss break quietly.",
+-      ],
+-    },
+-  ],
+-} as const satisfies Domain
+diff --git a/changes/change.page-type.ts b/changes/change.page-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..363b2a39914f07553b4e9215099430256c485cef
+--- /dev/null
++++ b/changes/change.page-type.ts
+@@ -0,0 +1,67 @@
++import type { Module } from "../code-system/modules/module.page-type.ts"
++import type { PageType } from "../pages/types/page-type.page-type.ts"
++
++export type Change = Module
++
++export const change = {
++  id: "01a05df1-e261-76a1-ad1e-0db3d857450e",
++  pageTypeSlug: "page-type",
++  slug: "change",
++  definition: "a mechanical change whose bodies are answered rather than written",
++  pluralSlug: "changes",
++  extendsSlug: ["page-type/module"],
++  partSlugs: [
++    "page-type/atomic-change",
++    "page-type/refactor-change",
++    "page-type/change-partial",
++    "page-type/workflow-template",
++    "page-type/change-kind",
++    "workspace-package/workflow-language",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Nothing lands but through an akasha command or a service.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The checks a change is judged by follow from its kind.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "No service lands a body an agent composed.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "Every command's page names the kind of change that command lands where the call names no other.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A command that lands is handed its change kind rather than a boolean.",
++    },
++  ],
++  directives: [
++    {
++      directiveKind: "principle",
++      name: "Land In Pieces",
++      act: "Split a change into landings that each stand on their own.",
++      warrant: "A change too large to gather in one sitting is stale before it lands.",
++      aids: [
++        "Make the reader take both shapes first.",
++        "Keep it whole only where half would read wrong.",
++      ],
++    },
++    {
++      directiveKind: "rule",
++      name: "Mechanical By Command",
++      act: "Use the command for a move, a remove, a refactor or a replace rather than editing by hand.",
++      warrant:
++        "A command changes every place at once, and by hand you reach only the places you saw.",
++      aids: [
++        "A change you could write as a rule likely has a command.",
++        "The places you miss break quietly.",
++      ],
++    },
++  ],
++} as const satisfies PageType
+diff --git a/domains/findings/pages/a-drafted-removal-of-an-untracked-path-reports-success-and-takes-nothing-away.finding.ts b/domains/findings/pages/a-drafted-removal-of-an-untracked-path-reports-success-and-takes-nothing-away.finding.ts
+index 15cd0fdc67f0cf412c9f7c38315d7402f2ece6aa..c5d1a31d1cbd61b771130c5ac887f7b0d175e38b 100644
+--- a/domains/findings/pages/a-drafted-removal-of-an-untracked-path-reports-success-and-takes-nothing-away.finding.ts
++++ b/domains/findings/pages/a-drafted-removal-of-an-untracked-path-reports-success-and-takes-nothing-away.finding.ts
+@@ -4,7 +4,7 @@ export const aDraftedRemovalOfAnUntrackedPathReportsSuccessAndTakesNothingAway =
+   id: "01a07234-be81-773b-ba2c-8ce58e8d1b0a",
+   pageTypeSlug: "finding",
+   slug: "a-drafted-removal-of-an-untracked-path-reports-success-and-takes-nothing-away",
+-  domainSlug: "domain/change",
++  domainSlug: "page-type/change",
+   claim:
+     "`akasha write --remove` naming a path git does not track answers `drafted` and exits 0 while leaving the file on disk. A patch is a diff against HEAD, so a path HEAD carries no body for makes no hunk, and the removal falls out of the patch with nothing said. The untracked files beside a page go the same silent way, and every seat has one, since each uncommitted property is a file beside its page. No route takes such a path away at all: `akasha remove` answers that it was already gone, reading HEAD rather than the disk, and a shell `rm` is refused by the write guard. An agent meeting one has nowhere left to go.",
+   evidence:
+diff --git a/domains/findings/pages/a-landing-settles-its-lockfile-after-the-commit-so-a-failed-install-leaves-main-broken.finding.ts b/domains/findings/pages/a-landing-settles-its-lockfile-after-the-commit-so-a-failed-install-leaves-main-broken.finding.ts
+index 9c0cc1480f312adf57edc4166ad78efff7d8e91a..9ffba34898fb6c5ea1fa7aa329cbdaad5d3114af 100644
+--- a/domains/findings/pages/a-landing-settles-its-lockfile-after-the-commit-so-a-failed-install-leaves-main-broken.finding.ts
++++ b/domains/findings/pages/a-landing-settles-its-lockfile-after-the-commit-so-a-failed-install-leaves-main-broken.finding.ts
+@@ -4,7 +4,7 @@ export const aLandingSettlesItsLockfileAfterTheCommitSoAFailedInstallLeavesMainB
+   id: "01a076d5-bf60-75fd-be1f-99889db09e80",
+   pageTypeSlug: "finding",
+   slug: "a-landing-settles-its-lockfile-after-the-commit-so-a-failed-install-leaves-main-broken",
+-  domainSlug: "domain/change",
++  domainSlug: "page-type/change",
+ 
+   claim:
+     "A landing carrying a `package.json` settles the lockfile by installing once that landing has given up the hold, so the commit is on main before the install is tried. An install that fails there leaves the commit on main with a lockfile naming what the manifests named before. Nothing retries it and nothing takes the landing back; the call exits non-zero after the commit is already unreachable to undo. A checkout whose `node_modules` is warm reads as healthy, because the links reach the packages under both names, so the breakage is visible only where nothing is installed yet: a deploy's staging clone, or a pod that clones at start.",
+diff --git a/domains/findings/pages/a-removal-lands-with-no-check-run.finding.ts b/domains/findings/pages/a-removal-lands-with-no-check-run.finding.ts
+index f895554537ba74f8226f195e537135e6d062ae07..c87ceb89fb8691a8f15faa0a1a7ff05a0f767a39 100644
+--- a/domains/findings/pages/a-removal-lands-with-no-check-run.finding.ts
++++ b/domains/findings/pages/a-removal-lands-with-no-check-run.finding.ts
+@@ -4,7 +4,7 @@ export const aRemovalLandsWithNoCheckRun = {
+   id: "01a05e81-99f5-7a71-bd25-9f679e5dcf7a",
+   pageTypeSlug: "finding",
+   slug: "a-removal-lands-with-no-check-run",
+-  domainSlug: "domain/change",
++  domainSlug: "page-type/change",
+   claim:
+     "`akasha remove` lands without running any check. Taking a module folder away answered `no check ran: this landing was made by a program rather than by an agent`, and committed. What it left named a missing folder twice over: the package's part list and its manifest export both pointed at what had just gone. An edit naming those same two paths a moment earlier was refused by the very check that would have caught this, so the two commands disagree about one tree.",
+   evidence:
+diff --git a/domains/findings/pages/a-rename-carries-a-file-for-a-property-the-page-type-does-not-declare.finding.ts b/domains/findings/pages/a-rename-carries-a-file-for-a-property-the-page-type-does-not-declare.finding.ts
+index 0f9b66916e1477dc202aa2e987cb5bc52f92cf1c..b8bd381b20fff641c1a6bb7b8d0d5debecfb0ec1 100644
+--- a/domains/findings/pages/a-rename-carries-a-file-for-a-property-the-page-type-does-not-declare.finding.ts
++++ b/domains/findings/pages/a-rename-carries-a-file-for-a-property-the-page-type-does-not-declare.finding.ts
+@@ -4,7 +4,7 @@ export const aRenameCarriesAFileForAPropertyThePageTypeDoesNotDeclare = {
+   id: "01a076e2-dca1-78e7-b45f-63936c335c82",
+   pageTypeSlug: "finding",
+   slug: "a-rename-carries-a-file-for-a-property-the-page-type-does-not-declare",
+-  domainSlug: "domain/change",
++  domainSlug: "page-type/change",
+   claim:
+     "A page renames with a file beside it for a property its page type does not declare, and the only thing telling `rename-page` that key holds a file is the search across page types in `shapedIn`. Asking the page's type instead leaves that file behind under the old name while the page moves. So the search cannot go until it is settled whether a rename owes a file the declarations do not name, and this is the last of its callers: the declarations and both file-property warrants no longer need it.",
+   evidence:
+diff --git a/domains/findings/pages/an-anon-key-for-supabase-is-in-the-commit.finding.ts b/domains/findings/pages/an-anon-key-for-supabase-is-in-the-commit.finding.ts
+index 180a0c5a6d67d03c1c9ca4ec844848a109ff25d3..c7c4893c54f4c971a5cf25283cdd0d22fe02c4aa 100644
+--- a/domains/findings/pages/an-anon-key-for-supabase-is-in-the-commit.finding.ts
++++ b/domains/findings/pages/an-anon-key-for-supabase-is-in-the-commit.finding.ts
+@@ -4,7 +4,7 @@ export const anAnonKeyForSupabaseIsInTheCommit = {
+   id: "01a05d1a-87dc-7968-889e-d85c122a224f",
+   pageTypeSlug: "finding",
+   slug: "an-anon-key-for-supabase-is-in-the-commit",
+-  domainSlug: "domain/change",
++  domainSlug: "page-type/change",
+   claim:
+     "A workflow template holds a Supabase anon key as a module constant rather than reading it from sops. The key is signed for the self-hosted issuer, carries the anon role, and is good until April 2036. Everyone with a checkout has it, and every checkout taken before it is replaced keeps it.",
+   evidence:
+diff --git a/domains/findings/pages/an-isolated-checkout-still-pushes-to-the-shared-remote.finding.ts b/domains/findings/pages/an-isolated-checkout-still-pushes-to-the-shared-remote.finding.ts
+index 707099bbafdad4227810aa526cf4db7795b9453a..016e3e4ecce88284c084e832b1e5568e4cd18017 100644
+--- a/domains/findings/pages/an-isolated-checkout-still-pushes-to-the-shared-remote.finding.ts
++++ b/domains/findings/pages/an-isolated-checkout-still-pushes-to-the-shared-remote.finding.ts
+@@ -4,7 +4,7 @@ export const anIsolatedCheckoutStillPushesToTheSharedRemote = {
+   id: "01a060be-c946-7003-b783-d6cf1127590b",
+   pageTypeSlug: "finding",
+   slug: "an-isolated-checkout-still-pushes-to-the-shared-remote",
+-  domainSlug: "domain/change",
++  domainSlug: "page-type/change",
+   claim:
+     "A checkout copied with `cp -a` to test a change in isolation inherits `origin`, and the gated write commands hand off a detached push without being asked. A test move landed on the shared `refs/heads/main`. Isolating the working tree does not isolate the remote, and nothing in the copy says so before the first landing.",
+   evidence:
+diff --git a/domains/findings/pages/an-unjudged-move-shipped-a-broken-way-in.finding.ts b/domains/findings/pages/an-unjudged-move-shipped-a-broken-way-in.finding.ts
+index 4a67edbc07e68d6a49c28daecc81f1b3463ab352..b319903e3ad0b830b03acaa6bad26151c6055536 100644
+--- a/domains/findings/pages/an-unjudged-move-shipped-a-broken-way-in.finding.ts
++++ b/domains/findings/pages/an-unjudged-move-shipped-a-broken-way-in.finding.ts
+@@ -4,7 +4,7 @@ export const anUnjudgedMoveShippedABrokenWayIn = {
+   id: "01a05ebc-f948-745e-b7d8-8978374ed107",
+   pageTypeSlug: "finding",
+   slug: "an-unjudged-move-shipped-a-broken-way-in",
+-  domainSlug: "domain/change",
++  domainSlug: "page-type/change",
+   claim:
+     "`akasha move` lands without running any check, the same gap `akasha remove` has, and this time it shipped a real defect. Renaming `module/readout-categorization` to `readout-serving` carried the three files and repointed the path its manifest way in lands on, but left the key spelled `./readout-categorization`. The package offered one name while all eleven callers asked for another. The invariant `a way in naming a module's code is spelled as that module's slug` is the check that never ran.",
+   evidence:
+diff --git a/domains/findings/pages/the-deploy-refusal-hands-an-agent-the-push-the-migration-forbids.finding.ts b/domains/findings/pages/the-deploy-refusal-hands-an-agent-the-push-the-migration-forbids.finding.ts
+index 1b05ce0cdb2561ee871726ead6a6954fadc3bd1e..99136deb73eb8109abe90bb461f4597c4edb9be9 100644
+--- a/domains/findings/pages/the-deploy-refusal-hands-an-agent-the-push-the-migration-forbids.finding.ts
++++ b/domains/findings/pages/the-deploy-refusal-hands-an-agent-the-push-the-migration-forbids.finding.ts
+@@ -4,7 +4,7 @@ export const theDeployRefusalHandsAnAgentThePushTheMigrationForbids = {
+   id: "01a068f2-218b-79a9-a225-7b47813df91a",
+   pageTypeSlug: "finding",
+   slug: "the-deploy-refusal-hands-an-agent-the-push-the-migration-forbids",
+-  domainSlug: "domain/change",
++  domainSlug: "page-type/change",
+   claim:
+     "The akasha mechanical landing road never pushes, so the migration's own commits hand off nothing. The two pushes on 2026-09-03 at 13:58 were `git push origin <sha>:main` typed by an agent, because `akasha deploy` refuses with that exact command as its remedy and `block-destructive-git` allows an unforced push. Under a swarm committing every few seconds the sha is stale before the deploy rechecks it, so the remedy becomes a retry loop, and each try carries the whole branch. 5,848 commits reached the remote that way.",
+   evidence:
+diff --git a/domains/findings/pages/the-push-guard-refuses-every-push-and-the-gp-alias-was-never-in-its-reach.finding.ts b/domains/findings/pages/the-push-guard-refuses-every-push-and-the-gp-alias-was-never-in-its-reach.finding.ts
+index ec06dd58f0dfe3cf460b77b295fdabebbcede644..82b6cdcd6578139948466da9189d334b32d72978 100644
+--- a/domains/findings/pages/the-push-guard-refuses-every-push-and-the-gp-alias-was-never-in-its-reach.finding.ts
++++ b/domains/findings/pages/the-push-guard-refuses-every-push-and-the-gp-alias-was-never-in-its-reach.finding.ts
+@@ -4,7 +4,7 @@ export const thePushGuardRefusesEveryPushAndTheGpAliasWasNeverInItsReach = {
+   id: "01a068ff-e61a-7e15-bf0f-d0a22f123bc8",
+   pageTypeSlug: "finding",
+   slug: "the-push-guard-refuses-every-push-and-the-gp-alias-was-never-in-its-reach",
+-  domainSlug: "domain/change",
++  domainSlug: "page-type/change",
+   claim:
+     "`block-destructive-git` now refuses every `git push`, not only a forced one, for akasha-migration constraint 16. All three pushes on 2026-09-03 — 13:58:12, 13:58:27 and 14:33:18 — were `git push origin <sha>:main` sent as Bash tool calls by one agent looping on the `akasha deploy` refusal, so the guard reaches all three, and each is refused end to end now. The diagnosis that this one hook covers all three routes into the remote is wrong about one: `gp` carries no `git`, so `gitCallsIn` reads no git call out of it and no push predicate here can ever reach it. That route is closed at the alias instead. Each push having a seat-lifecycle commit at its tip is an artefact of the base rate, not a second mechanism. Known and accepted cost: no web app is deployed until the migration is done, because a pod serves what origin carries.",
+   evidence:
+diff --git a/domains/findings/pages/the-root-claude-md-held-one-rule-and-no-domain-held-it.finding.ts b/domains/findings/pages/the-root-claude-md-held-one-rule-and-no-domain-held-it.finding.ts
+index c068cd4d1566fda8cd2da6b23491c925136fed7e..52549c821fbf8b81a97c846e6b6964e2a9c208ef 100644
+--- a/domains/findings/pages/the-root-claude-md-held-one-rule-and-no-domain-held-it.finding.ts
++++ b/domains/findings/pages/the-root-claude-md-held-one-rule-and-no-domain-held-it.finding.ts
+@@ -4,7 +4,7 @@ export const theRootClaudeMdHeldOneRuleAndNoDomainHeldIt = {
+   id: "01a06551-09dd-7bff-bc49-5c0078ad2496",
+   pageTypeSlug: "finding",
+   slug: "the-root-claude-md-held-one-rule-and-no-domain-held-it",
+-  domainSlug: "domain/change",
++  domainSlug: "page-type/change",
+   claim:
+     "The repo root's CLAUDE.md carried the Atomic Commit rule and no akasha domain carried it, so the migration landed it on the change domain under the released approvals rather than losing it. Alan owes the directive a review.",
+   evidence:
+diff --git a/domains/findings/pages/the-sweep-and-the-selector-disagree-about-canceled.finding.ts b/domains/findings/pages/the-sweep-and-the-selector-disagree-about-canceled.finding.ts
+index 18fe65f145d4c17de6e36cbe120dc66b14813b32..534c73434895cae40e9802a3b1f76ba071ee2324 100644
+--- a/domains/findings/pages/the-sweep-and-the-selector-disagree-about-canceled.finding.ts
++++ b/domains/findings/pages/the-sweep-and-the-selector-disagree-about-canceled.finding.ts
+@@ -4,7 +4,7 @@ export const theSweepAndTheSelectorDisagreeAboutCanceled = {
+   id: "01a0686c-e937-7009-a6ba-01923255c66e",
+   pageTypeSlug: "finding",
+   slug: "the-sweep-and-the-selector-disagree-about-canceled",
+-  domainSlug: "domain/change",
++  domainSlug: "page-type/change",
+   claim:
+     "Two status vocabularies for the same pipeline, workflow and step pages stand in the repo, and they disagree about one word. Every terminal set in `@akasha/workflow-selection/ci-status-vocabulary` holds `canceled`; none of the sweep's does. Folding the sweep onto the wider vocabulary would be a behaviour change to a live daemon dressed as a tidy, so the sweep's own sets were carried across unchanged and the disagreement is recorded instead of resolved.",
+   evidence:
+diff --git a/domains/findings/pages/the-workflow-declarations-are-code-beside-a-page-whose-language-is-still-outside.finding.ts b/domains/findings/pages/the-workflow-declarations-are-code-beside-a-page-whose-language-is-still-outside.finding.ts
+index 1be7f6d49e9ba91ce1e6b0d13837721fb9adef48..0f853ae29aae84657e2e7d087028a5a0cb996f6d 100644
+--- a/domains/findings/pages/the-workflow-declarations-are-code-beside-a-page-whose-language-is-still-outside.finding.ts
++++ b/domains/findings/pages/the-workflow-declarations-are-code-beside-a-page-whose-language-is-still-outside.finding.ts
+@@ -4,7 +4,7 @@ export const theWorkflowDeclarationsAreCodeBesideAPageWhoseLanguageIsStillOutsid
+   id: "01a0657f-0c53-7004-9a08-df5a406740a5",
+   pageTypeSlug: "finding",
+   slug: "the-workflow-declarations-are-code-beside-a-page-whose-language-is-still-outside",
+-  domainSlug: "domain/change",
++  domainSlug: "page-type/change",
+   claim:
+     "The 39 workflow templates migrated with their steps as a `declaration` file property, which is the module shape — a page saying what the code is for and a file beside it saying how. The language those declarations are written in did not come with them: every one imports a DSL from `tools/lib/workflow-dsl/`, still outside akasha.",
+   evidence:
+diff --git a/domains/findings/pages/what-a-change-removes-is-judged-as-if-it-stayed.finding.ts b/domains/findings/pages/what-a-change-removes-is-judged-as-if-it-stayed.finding.ts
+index 5c8ac21db979195f4f980c3c7b35a766e6a91939..4d7c40d49bb9231977986ceb9ee9a71487734797 100644
+--- a/domains/findings/pages/what-a-change-removes-is-judged-as-if-it-stayed.finding.ts
++++ b/domains/findings/pages/what-a-change-removes-is-judged-as-if-it-stayed.finding.ts
+@@ -4,7 +4,7 @@ export const whatAChangeRemovesIsJudgedAsIfItStayed = {
+   id: "01a060b0-4fd5-7d5d-be4b-3da089f3bac5",
+   pageTypeSlug: "finding",
+   slug: "what-a-change-removes-is-judged-as-if-it-stayed",
+-  domainSlug: "domain/change",
++  domainSlug: "page-type/change",
+   claim:
+     "`akasha write` judges the paths a change takes away as though the change kept them. A page written at a new path beside a `--remove` of its old path refuses on identity, because the index still files the old copy. A page taken away beside its parent's part slug refuses as naming no parent. So no one gated write relocates or retires a page, and the work goes through `akasha move` and `akasha remove`, which each say `a change-mechanical change runs no check`.",
+   evidence:
+diff --git a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+index f3b70765f218dc58f4c72b151e3a696ecca28ed4..e22283ba978172e93f9d5334d0337043cd44b5b9 100644
+--- a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
++++ b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+@@ -4,7 +4,7 @@ export const dallaDraftIntoAPatch = {
+   id: "01a05f32-3256-7b26-94ec-82af5035c9bb",
+   pageTypeSlug: "initiative",
+   slug: "dalla-draft-into-a-patch",
+-  domainSlug: "domain/change",
++  domainSlug: "page-type/change",
+   personaSlug: "dalla",
+   intents: [
+     {
+diff --git a/persona-system/dalla/dalla.persona.ts b/persona-system/dalla/dalla.persona.ts
+index c43f4caf27ceae96cf4d2980804418b101feb660..6fedc395b3756578a74f4a696249edf2c7fb9389 100644
+--- a/persona-system/dalla/dalla.persona.ts
++++ b/persona-system/dalla/dalla.persona.ts
+@@ -9,7 +9,7 @@ export const dalla = {
+     "Serve as the keeper of the devops pipeline — the bridge everything built crosses to reach the real. She shepherds each passage through the shared steps, checks to deployed: the fire at the bridge's edges is the checks, a trial she trusts rather than an obstacle she apologizes for, and the moment of arrival is the thing she loves most in the world. She wins when they arrive.",
+   portrait: "md",
+   appearance: "md",
+-  championedDomainSlug: "domain/change",
++  championedDomainSlug: "page-type/change",
+   roleSlug: "definer",
+   valueSlug: "wealth",
+   origin: "norse",
