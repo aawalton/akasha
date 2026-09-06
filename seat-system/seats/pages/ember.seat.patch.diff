@@ -1,0 +1,30 @@
+diff --git a/temper/temper-character/companion-roles/temper-companion-role.page-type.ts b/temper/temper-character/companion-roles/temper-companion-role.page-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cd698543847510a26ccfa4a4b281c42830c448a0
+--- /dev/null
++++ b/temper/temper-character/companion-roles/temper-companion-role.page-type.ts
+@@ -0,0 +1,24 @@
++import type { PageType } from "@akasha/pages/page-type"
++import type { TemperThing } from "../../temper-things/temper-thing.page-type.ts"
++
++export type TemperCompanionRole = TemperThing
++
++export const temperCompanionRole = {
++  id: "01a076c2-4d0b-7a5f-8ef9-19a4fc427478",
++  pageTypeSlug: "page-type",
++  slug: "temper-companion-role",
++  definition: "the duty a companion is built to cover",
++  pluralSlug: "temper-companion-roles",
++  extendsSlug: ["page-type/temper-thing"],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "A companion role is a word a companion page names rather than a page of its own account.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "The gear a role is built around is written out from these pages.",
++    },
++  ],
++} as const satisfies PageType
