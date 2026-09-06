@@ -1,0 +1,60 @@
+diff --git a/readout-system/readout-group-serving/readout-group-serving.module.test-fixtures.ts b/readout-system/readout-group-serving/readout-group-serving.module.test-fixtures.ts
+index ec5632ea9ec446721798dc931d50c7e2b808eab8..674fb4996ff8ade605b1898d2f547ccd7b68ca3c 100644
+--- a/readout-system/readout-group-serving/readout-group-serving.module.test-fixtures.ts
++++ b/readout-system/readout-group-serving/readout-group-serving.module.test-fixtures.ts
+@@ -44,6 +44,8 @@ export function answeredAfresh(): undefined {
+   return undefined
+ }
+ 
++let heldOrigin: string | undefined
++
+ // EACH PAGE TYPE THE MODULE ASKS FOR IS ANSWERED BY A BRANCH OF ITS OWN, AND ANYTHING ELSE BY NONE.
+ //
+ // A store answering whatever the last branch holds is a store that passes a test for the wrong
+@@ -61,10 +63,25 @@ export function servingStore(): ReturnType<typeof Bun.serve> {
+       return Response.json({ rows: [] })
+     },
+   })
++  heldOrigin = process.env.PAGES_SERVICE_ORIGIN
+   process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
+   return store
+ }
+ 
++// THE ORIGIN THIS STORE SET IS THE WHOLE PROCESS'S, AND COMES BACK WHEN THE STORE GOES.
++//
++// Every test file in one run shares one process, so a file leaving this origin in place leaves
++// every later file asking this store rather than the store the run was pointed at. Stopping the
++// store does not cover that on its own: `stop` leaves an open connection open, and `fetch` holds
++// one open, so a stopped store goes on answering the file that runs next. These rows reached
++// `readout-unread` that way and made Alan's status bar read as drawing lights carrying no reading.
++export function storeGoes(store: ReturnType<typeof Bun.serve>): undefined {
++  store.stop(true)
++  if (heldOrigin === undefined) delete process.env.PAGES_SERVICE_ORIGIN
++  else process.env.PAGES_SERVICE_ORIGIN = heldOrigin
++  return undefined
++}
++
+ export function figureOffScaleOn(one: Stoplight | undefined): unknown {
+   return (one as Record<string, unknown> | undefined)?.figureOffScale
+ }
+diff --git a/readout-system/readout-group-serving/readout-group-serving.module.test.ts b/readout-system/readout-group-serving/readout-group-serving.module.test.ts
+index f842fe77de2c2b722e7f3fe98d140af7d3ecd953..836f0207dfb5dabbd4455e216a40fb5553af8238 100644
+--- a/readout-system/readout-group-serving/readout-group-serving.module.test.ts
++++ b/readout-system/readout-group-serving/readout-group-serving.module.test.ts
+@@ -20,6 +20,7 @@ import {
+   READOUT_ROW,
+   SCALE_ROW,
+   servingStore,
++  storeGoes,
+ } from "./readout-group-serving.module.test-fixtures.ts"
+ 
+ let store: ReturnType<typeof Bun.serve>
+@@ -29,7 +30,7 @@ beforeAll(() => {
+ })
+ 
+ afterAll(() => {
+-  store.stop()
++  storeGoes(store)
+ })
+ 
+ beforeEach(() => {
