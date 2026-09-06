@@ -118,3 +118,15 @@ index 860b4c42e1ff260981f216205629441a127b5805..39cf0c64057d2b94b603d7f78f27da1b
 +    },
 +  ],
  } as const satisfies Module
+diff --git a/alan/tracking/daily/tracking-daily.domain.ts b/alan/tracking/daily/tracking-daily.domain.ts
+index 3910498a6c6c1f967e295012bad55d386ab41806..db701b8f07d1a400972448edad334ce3163678c0 100644
+--- a/alan/tracking/daily/tracking-daily.domain.ts
++++ b/alan/tracking/daily/tracking-daily.domain.ts
+@@ -40,6 +40,7 @@ export const trackingDaily = {
+     "module/strength-points",
+     "module/topic-words",
+     "workstation-service/topic-words-service",
++    "workstation-service/active-calories-service",
+     "module/day-opening",
+   ],
+   invariants: [
