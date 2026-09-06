@@ -16,11 +16,11 @@ export const seatProcTree = {
     {
       invariantKind: "departure",
       statement:
-        "The main child is the newest where every candidate is timed and the highest pid where any is not.",
+        "The main child is the newest where every candidate is timed and the highest pid otherwise.",
     },
     {
       invariantKind: "departure",
-      statement: "An agent whose processes form one tree has outlived none of them.",
+      statement: "An agent whose processes form one tree has outlived no tree.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +28,7 @@ export const seatProcTree = {
     },
     {
       invariantKind: "departure",
-      statement: "Where no keeper is stated, the tree kept is the tree holding the newest process.",
+      statement: "The tree kept where no keeper is stated is the tree holding the newest process.",
     },
     {
       invariantKind: "departure",
