@@ -39,31 +39,3 @@ index 0000000000000000000000000000000000000000..a7447765e61ac2c29aa27d519f47cd53
 +    },
 +  ],
 +} as const satisfies NumberProperty
-diff --git a/pages/types/page-properties/properties/max-length.number-property.ts b/pages/types/page-properties/properties/max-length.number-property.ts
-new file mode 100644
-index 0000000000000000000000000000000000000000..43bc966b13872e00686e19dc15b76cbfead89e04
---- /dev/null
-+++ b/pages/types/page-properties/properties/max-length.number-property.ts
-@@ -0,0 +1,22 @@
-+import type { NumberProperty } from "@akasha/pages/number-property"
-+
-+export type MaxLength = number
-+
-+export const maxLength = {
-+  id: "01a07808-e2f5-75fe-9d65-8fa634365c2f",
-+  pageTypeSlug: "number-property",
-+  slug: "max-length",
-+  propertySlug: "max-length",
-+  definition: "the most one value may run to, in characters",
-+  max: null,
-+  invariants: [
-+    {
-+      invariantKind: "departure",
-+      statement: "A declaration narrows the length its property states by stating a shorter one.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A list holds each entry to the length rather than the entries together.",
-+    },
-+  ],
-+} as const satisfies NumberProperty
