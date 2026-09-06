@@ -6950,10 +6950,10 @@ index fafe7cf397ac6aeb4b1514cf51a62be858917cbc..894b7cd7a7d27846c7298775d622b33f
    ],
  } as const satisfies TextProperty
 diff --git a/service-system/workstation-services/workstation-service.page-type.ts b/service-system/workstation-services/workstation-service.page-type.ts
-index 31ef86dc88f485e575754b9b8b3cc655bfaa700e..53439c0b5eff9a87ad472538850abc96393852cc 100644
+index 5cf4a8f1c348e4822d14aa8792156d8da87f46b4..d7d70f66f1fce0220feb7d8be0adccf8c6a0142c 100644
 --- a/service-system/workstation-services/workstation-service.page-type.ts
 +++ b/service-system/workstation-services/workstation-service.page-type.ts
-@@ -78,12 +78,12 @@ export const workstationService = {
+@@ -79,12 +79,12 @@ export const workstationService = {
      "module/tick-ratchet",
    ],
    properties: [
@@ -7859,10 +7859,10 @@ index 094418811c217f90c0686d940ebfd0ab0ec75a60..13ac6cc38af1775a8448ad9c38407df8
    invariants: [
      {
 diff --git a/story/worlds/properties/reading-kind.text-property.ts b/story/worlds/properties/reading-kind.text-property.ts
-index 4101c2a000ee2203cbbf085003568a4fa3ecc583..aaf4faaadaf3f8945d6ad33955667f949f1a73eb 100644
+index 4101c2a000ee2203cbbf085003568a4fa3ecc583..dde4f49d8012c5e1041f15845a7a806445403a23 100644
 --- a/story/worlds/properties/reading-kind.text-property.ts
 +++ b/story/worlds/properties/reading-kind.text-property.ts
-@@ -30,7 +30,7 @@ export const readingKind = {
+@@ -30,12 +30,12 @@ export const readingKind = {
    slug: "reading-kind",
    propertySlug: "reading-kind",
    definition: "what sort of thing a name in a world's text names",
@@ -7871,6 +7871,12 @@ index 4101c2a000ee2203cbbf085003568a4fa3ecc583..aaf4faaadaf3f8945d6ad33955667f94
    nameFormatSlug: "name-format/lower-kebab-case",
    invariants: [
      {
+       invariantKind: "departure",
+-      statement: "A reading whose kind is `unsure` is one nobody has ruled on yet.",
++      statement: "A reading whose kind is `unsure` is a reading nobody has ruled on yet.",
+     },
+     {
+       invariantKind: "stopgap",
 diff --git a/story/worlds/properties/reading-name.text-property.ts b/story/worlds/properties/reading-name.text-property.ts
 index 17f77a401aa6d5371b579066713eb9bb4519139d..1dafa9c73cc5655a5283ca05325f7d1a16bada62 100644
 --- a/story/worlds/properties/reading-name.text-property.ts
