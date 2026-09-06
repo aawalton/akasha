@@ -1,8 +1,13 @@
 diff --git a/command-system/commands/restore/restore.command.ts b/command-system/commands/restore/restore.command.ts
-index 8af637815b76ede068336552f5450392f23ed9b2..5a3db548f775f7c5ef5c7056afb6463acd69ae92 100644
+index 8af637815b76ede068336552f5450392f23ed9b2..178dce4fcc24c10c02ee834e7c0ae4420fe6babb 100644
 --- a/command-system/commands/restore/restore.command.ts
 +++ b/command-system/commands/restore/restore.command.ts
-@@ -28,7 +28,8 @@ export const restore = {
+@@ -24,11 +24,12 @@ export const restore = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A path is named behind `--file-path` like `write` and `remove` name theirs.",
++      statement: "A path is named behind `--file-path` as `write` and `remove` name a path.",
      },
      {
        invariantKind: "departure",
