@@ -60,7 +60,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "Every mechanical change is a change page a refactor command runs.",
       workingMemory:
-        "Three tiers, told apart by who finds the reach. Partial: `repoint-imports`, `respell-export`, `restate-value`, each handed the files it works over. Atomic: `rename-local-variable`, `rename-export`, `rename-property-signature`, `rename-path`, `rename-page-slug`. Refactor: `rename-code-token`, `rename-page`. `akasha refactor rename page-slug` runs `rename-page` through `page-renaming` and takes no dry run. Left: `rename-page-type-slug` and `rename-page-type`, and `passedOn` in `slug-renaming` is dead but for its own test.",
+        "Three tiers, told apart by who finds the reach. Partial: `repoint-imports`, `respell-export`, `restate-value`, each handed the files it works over. Atomic: `rename-local-variable`, `rename-export`, `rename-property-signature`, `rename-path`, `rename-page-slug`. Refactor: `rename-code-token`, `rename-page`. `akasha refactor rename page-slug` runs `rename-page` through `page-renaming` and takes no dry run. Left: `rename-page-type-slug` and `rename-page-type`. `retype` is the last act of that command still landing through the code a change page replaces.",
     },
     {
       statement: "The change page types are named change-atomic and change-refactor.",
