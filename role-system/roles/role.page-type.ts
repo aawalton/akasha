@@ -27,13 +27,6 @@ export const role = {
     "role/worker",
   ],
   properties: [{ pagePropertySlug: "on-call", required: true, many: false }],
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement:
-        "The invariants and directives every role is held to are on the type rather than on any one role.",
-    },
-  ],
   directives: [
     {
       directiveKind: "principle",
