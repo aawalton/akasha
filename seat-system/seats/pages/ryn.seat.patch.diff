@@ -1,7 +1,16 @@
 diff --git a/seat-system/supervising/supervisor-idle-observe/supervisor-idle-observe.module.ts b/seat-system/supervising/supervisor-idle-observe/supervisor-idle-observe.module.ts
-index 333000c445084e4fb12e30d0b8df3e9c1a412a3f..465d5c0bc94504bb89968bb8a96959137b78d092 100644
+index 333000c445084e4fb12e30d0b8df3e9c1a412a3f..ed1f37ddd4f04d494d4b69fc49bef7df5db31be2 100644
 --- a/seat-system/supervising/supervisor-idle-observe/supervisor-idle-observe.module.ts
 +++ b/seat-system/supervising/supervisor-idle-observe/supervisor-idle-observe.module.ts
+@@ -13,7 +13,7 @@ export const supervisorIdleObserve = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A refused, failed or unparsed in-flight read is null, never zero.",
++      statement: "A read that is refused or failed or unparsed is null rather than zero.",
+     },
+     {
+       invariantKind: "departure",
 @@ -42,7 +42,11 @@ export const supervisorIdleObserve = {
      },
      {
