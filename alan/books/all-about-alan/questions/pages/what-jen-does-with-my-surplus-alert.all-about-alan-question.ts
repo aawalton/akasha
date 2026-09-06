@@ -4,6 +4,6 @@ export const whatJenDoesWithMySurplusAlert = {
   id: "01a07820-4065-7106-bc70-653d3cc05fa7",
   pageTypeSlug: "all-about-alan-question",
   slug: "what-jen-does-with-my-surplus-alert",
-  topicSlug: "the-budget-i-run-my-days-on",
+  topicSlug: "the-rating-my-budget-rests-on",
   ask: "Jen gets the alert as my surplus color drops. What does she do with the alert, and has her knowing changed what either of us picks that evening?",
 } as const satisfies AllAboutAlanQuestion
