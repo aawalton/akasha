@@ -1,3 +1,15 @@
+diff --git a/alan/harness/attributes/attributes.domain.ts b/alan/harness/attributes/attributes.domain.ts
+index ec8df31b3c58292c1a18b37f33da2ba7a8780b2e..0f8779e69268ef0a71a549131949459818e9001b 100644
+--- a/alan/harness/attributes/attributes.domain.ts
++++ b/alan/harness/attributes/attributes.domain.ts
+@@ -10,6 +10,7 @@ export const attributes = {
+     "workstation-service/attributes-reading-service",
+     "workstation-service/attributes-relay-service",
+     "module/attributes-totalling",
++    "module/attributes-levelling",
+   ],
+   invariants: [
+     {
 diff --git a/alan/harness/attributes/levelling/attributes-levelling.module.code.ts b/alan/harness/attributes/levelling/attributes-levelling.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..84375f26759de803e6eb6edfb4d53f5160439b21
