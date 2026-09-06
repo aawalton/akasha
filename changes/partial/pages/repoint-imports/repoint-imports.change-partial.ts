@@ -28,11 +28,11 @@ export const repointImports = {
     {
       invariantKind: "departure",
       statement:
-        "A name that is no module specifier is read against the folder of the body naming it.",
+        "A name that is no module specifier is read against the folder of the body naming that name.",
     },
     {
       invariantKind: "absence",
-      statement: "Such a name is written back only where it lands on a path that moved.",
+      statement: "Such a name is written back only where that name lands on a path that moved.",
     },
     {
       invariantKind: "absence",
@@ -44,11 +44,12 @@ export const repointImports = {
     },
     {
       invariantKind: "departure",
-      statement: "Those declarations are named for the body naming them.",
+      statement: "Those declarations are named for the body naming those declarations.",
     },
     {
       invariantKind: "departure",
-      statement: "A specifier naming them follows the body's new folder and new name.",
+      statement:
+        "A specifier naming those declarations follows the body's new folder and new name.",
     },
     {
       invariantKind: "absence",
