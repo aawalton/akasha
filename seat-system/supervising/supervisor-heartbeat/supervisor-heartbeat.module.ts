@@ -9,7 +9,7 @@ export const supervisorHeartbeat = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The first beat runs at once, before the timer is ever set.",
+      statement: "The first beat runs at once before the timer is ever set.",
     },
     {
       invariantKind: "departure",
@@ -17,11 +17,19 @@ export const supervisorHeartbeat = {
     },
     {
       invariantKind: "departure",
-      statement: "A null agent id skips the record, and the polls still run.",
+      statement: "A null agent id skips the record.",
     },
     {
       invariantKind: "departure",
-      statement: "A poll that throws is logged by name, and the other polls still run.",
+      statement: "The polls still run where the agent id is null.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A poll that throws is logged by name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The other polls still run where one poll throws.",
     },
     {
       invariantKind: "departure",
@@ -29,15 +37,23 @@ export const supervisorHeartbeat = {
     },
     {
       invariantKind: "departure",
-      statement: "The registration account is null where none is given.",
+      statement: "The registration account is null where no account is given.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here awaits a beat; a beat returns before its work is done.",
+      statement: "Nothing here awaits a beat.",
     },
     {
       invariantKind: "departure",
-      statement: "A slow poll is never cancelled, so two beats can be in flight at once.",
+      statement: "A beat returns before its work is done.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slow poll is never cancelled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two beats can be in flight at once.",
     },
     {
       invariantKind: "absence",
