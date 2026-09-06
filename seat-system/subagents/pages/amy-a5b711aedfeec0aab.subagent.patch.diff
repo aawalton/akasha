@@ -91,3 +91,16 @@ index eb84b501aadb37e0ae21fabf80beaf67609831ff..88b82b420e7d83bb969cf963aca4c62c
 +  max: 150,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/readout-system/readout-widgets/readout-widget.page-type.ts b/readout-system/readout-widgets/readout-widget.page-type.ts
+index c8b0478b238de7f6033f139cc395624892b34115..d3aef2ee3054214655ee487d6607f675033fa24e 100644
+--- a/readout-system/readout-widgets/readout-widget.page-type.ts
++++ b/readout-system/readout-widgets/readout-widget.page-type.ts
+@@ -100,7 +100,7 @@ export const readoutWidget = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A widget's link carries the slug of the widget the link opens.",
++      statement: "A widget's link names that widget in the link's fragment.",
+     },
+     {
+       invariantKind: "departure",
