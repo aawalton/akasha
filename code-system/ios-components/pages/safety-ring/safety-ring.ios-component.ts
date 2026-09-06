@@ -26,7 +26,11 @@ export const safetyRing = {
     },
     {
       invariantKind: "departure",
-      statement: "A level with no tier above it draws no arc, the arc saying how far the next is.",
+      statement: "A level with no tier above that level draws no arc.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The arc says how far the next tier is.",
     },
   ],
 } as const satisfies IosComponent
