@@ -1,3 +1,81 @@
+diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
+index b621d8d76a17c9e0f01d0cbe96ead277c87677ea..19abcc99b7baea54325f57b2d6c55e82fe5e2249 100644
+--- a/command-system/asking/asking.module.code.ts
++++ b/command-system/asking/asking.module.code.ts
+@@ -7,6 +7,7 @@ import { agentPathOf } from "@akasha/context/warranting"
+ import { nameFaultIn } from "@akasha/pages/page-export-name"
+ import { isMissing } from "@akasha/utils-fs/missing"
+ import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
++import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
+ import { AUTHORED, type Running } from "../drafting/drafting.module.code.ts"
+ import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
+ import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
+@@ -33,7 +34,13 @@ import {
+   lockingFor,
+   sameBytes,
+ } from "../manifest-locking/manifest-locking.module.code.ts"
+-import { type Reading, SUBAGENT_MARK } from "../reading/reading.module.code.ts"
++import {
++  blobIdOf,
++  type Carry,
++  carryReadings,
++  type Reading,
++  SUBAGENT_MARK,
++} from "../reading/reading.module.code.ts"
+ import type { Minted } from "../value-minting/value-minting.module.code.ts"
+ import { mintingOnto } from "../value-minting/value-minting.module.code.ts"
+ import { workedFor } from "../worked-typing/worked-typing.module.code.ts"
+@@ -60,6 +67,7 @@ export type Asked = {
+   readonly saying: Saying
+   readonly read?: string | null
+   readonly carries?: readonly FileCarry[]
++  readonly readings?: readonly Carry[]
+   readonly draft?: boolean
+   readonly reaching?: () => undefined
+ }
+@@ -359,6 +367,21 @@ async function draftingAsked(
+   }
+ }
+ 
++export function carriedInPlace(
++  root: string,
++  base: string,
++  changes: readonly FileEdit[]
++): readonly Carry[] {
++  const held: Carry[] = []
++  for (const one of changes) {
++    if (one.body === null) continue
++    const was = bodyAt(root, base, one.path)
++    if (was === null) continue
++    held.push({ was: one.path, now: one.path, from: blobIdOf(was) })
++  }
++  return held
++}
++
+ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> {
+   if (asked.dryRun && asked.glass !== null) {
+     return mistaking([
+@@ -371,7 +394,8 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer>
+   } catch (thrown) {
+     return { report: [], refusals: [`${NOTHING} — ${whyOf(thrown)}`], code: 3 }
+   }
+-  const prepared = preparing(given.root, baseOf(given.root), minted.changes)
++  const base = baseOf(given.root)
++  const prepared = preparing(given.root, base, minted.changes)
+   const formatting = prepared.formatting
+   const unexportable = unexportableIn(formatting.changes)
+   if (unexportable.length > 0) return mistaking([...unexportable, NOTHING])
+@@ -412,6 +436,10 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer>
+   }
+   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
+   recordLanded(given, formatting.changes)
++  if (given.changeKind?.readersOweReading === false) {
++    const carried = carriedInPlace(given.root, base, held.changes)
++    carryReadings(given.root, [...(held.readings ?? []), ...carried])
++  }
+   const put = installingIn(given.root, held.changes)
+   return {
+     report: reported(counted, said, {
 diff --git a/command-system/asking/asking.module.ts b/command-system/asking/asking.module.ts
 index 9ad9435c3895da4094bc780d0cb206362d4d7375..ea0bb9c6b30c8d4b251fe2c672d33cd501f3d9b2 100644
 --- a/command-system/asking/asking.module.ts
