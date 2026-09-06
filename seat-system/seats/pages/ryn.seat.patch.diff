@@ -1,0 +1,13 @@
+diff --git a/seat-system/terminal-init/terminal-seat-stating/terminal-seat-stating.module.ts b/seat-system/terminal-init/terminal-seat-stating/terminal-seat-stating.module.ts
+index e9b671f52788d49bd081e981397d1767e8799438..2e4c2d845248de45f45758b72ad2eebff8dc4f85 100644
+--- a/seat-system/terminal-init/terminal-seat-stating/terminal-seat-stating.module.ts
++++ b/seat-system/terminal-init/terminal-seat-stating/terminal-seat-stating.module.ts
+@@ -48,7 +48,7 @@ export const terminalSeatStating = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A seat a person handles states no principal, because the person is the subject.",
++      statement: "A seat a person handles states no principal.",
+     },
+     {
+       invariantKind: "departure",
