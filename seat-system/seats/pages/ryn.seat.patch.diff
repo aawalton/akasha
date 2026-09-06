@@ -1,5 +1,5 @@
 diff --git a/pages/types/folder/page-type-folder.module.ts b/pages/types/folder/page-type-folder.module.ts
-index f6640bb43ea04942a3f0e874bc271de48c1084e3..a7ccefadd23c3c51663633e586b329083349ad15 100644
+index f6640bb43ea04942a3f0e874bc271de48c1084e3..e33afcda7edfed290c926376a7efe8854f1a5b4a 100644
 --- a/pages/types/folder/page-type-folder.module.ts
 +++ b/pages/types/folder/page-type-folder.module.ts
 @@ -26,8 +26,11 @@ export const pageTypeFolder = {
@@ -16,3 +16,12 @@ index f6640bb43ea04942a3f0e874bc271de48c1084e3..a7ccefadd23c3c51663633e586b32908
      },
      {
        invariantKind: "departure",
+@@ -39,7 +42,7 @@ export const pageTypeFolder = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here reads a page, an index or the disk.",
++      statement: "Nothing here reads a page or an index or the disk.",
+     },
+     {
+       invariantKind: "absence",
