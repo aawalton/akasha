@@ -14,8 +14,11 @@ export const monarchShape = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A refusal names the path the value stands at, so a deep reply says where that reply went wrong.",
+      statement: "A refusal names the path the value sits at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A deep reply says where that reply went wrong.",
     },
     {
       invariantKind: "departure",
@@ -24,7 +27,8 @@ export const monarchShape = {
     },
     {
       invariantKind: "departure",
-      statement: "Null and an array are told apart from an object rather than counted as one.",
+      statement:
+        "Null and an array are told apart from an object rather than counted as an object.",
     },
     {
       invariantKind: "departure",
