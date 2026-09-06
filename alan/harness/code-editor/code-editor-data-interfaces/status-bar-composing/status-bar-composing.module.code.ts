@@ -25,13 +25,10 @@ import {
 import { readingHeldOn } from "@akasha/readout-system/readout-serving"
 import { type Rung, rungsIn } from "@akasha/readout-system/readout-tier"
 import {
-  glyphsOf,
-  legendOf,
-} from "../../../../../editor-extension/group-stoplights/group-stoplights.module.code.ts"
-import {
   readingOf,
   type UsageReading,
 } from "../../../../../editor-extension/status-bar-usage/status-bar-usage.module.code.ts"
+import { glyphsOf, legendOf } from "../group-stoplights/group-stoplights.module.code.ts"
 
 const READOUT = "01a05446-e760-7cb2-848b-4fcfc7ed45d4"
 

@@ -8,7 +8,6 @@ export const editorExtension = {
   manifest: "json",
   partSlugs: [
     "module/champions-tree",
-    "module/page-tree-assemble",
     "module/command-server-client",
     "module/terminal-marks",
     "module/domain-tree-ids",
@@ -28,7 +27,6 @@ export const editorExtension = {
     "module/editor-group",
     "module/window-identity",
     "module/activation",
-    "module/group-stoplights",
     "module/harness-call",
     "module/terminal-pids",
     "module/subagent-core",

@@ -28,8 +28,8 @@ import {
 } from "../../../../../editor-extension/agent-forest/agent-forest.module.code.ts"
 import { readSeatPlaces } from "../../../../../editor-extension/agent-tree-lookup/agent-tree-lookup.module.code.ts"
 import { championTree } from "../../../../../editor-extension/champions-tree/champions-tree.module.code.ts"
-import { assemblePageTree } from "../../../../../editor-extension/page-tree-assemble/page-tree-assemble.module.code.ts"
 import type { SubagentNode } from "../../../../../editor-extension/subagent-reading/subagent-reading.module.code.ts"
+import { assemblePageTree } from "../page-tree-assemble/page-tree-assemble.module.code.ts"
 
 // A row names a document by a whole path, the service knowing the checkout so the editor does not
 // join one. A row that opens no document names none.

@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../../code-system/modules/module.page-type.ts"
 
 export const groupStoplights = {
   id: "01a064e4-627c-717e-bcf8-2ad1f41c1222",
