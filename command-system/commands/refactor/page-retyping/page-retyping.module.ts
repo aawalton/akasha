@@ -68,7 +68,7 @@ export const pageRetyping = {
     },
     {
       invariantKind: "departure",
-      statement: "The type a page's own body satisfies is the one its new page type declares.",
+      statement: "The type a page's own body satisfies is the type its new page type declares.",
     },
     {
       invariantKind: "departure",
@@ -104,7 +104,7 @@ export const pageRetyping = {
     },
     {
       invariantKind: "departure",
-      statement: "Every file a retype touches lands in one commit or none of those files does.",
+      statement: "Every file a retype touches lands in one commit or does not land.",
     },
     {
       invariantKind: "departure",
